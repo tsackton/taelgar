@@ -2,7 +2,7 @@ This is a file
 
 with secrets
 
-%% SECRET NOTE PLACEHOLDER %%
+%% SECRET NOTE PLACEHOLDER 5869f2e9-6100-4a99-a935-07d4a9d640c4%%
 
 And more stuff
 
@@ -13,7 +13,7 @@ asldf
 lsdjf
 %%
 
-%% SECRET NOTE PLACEHOLDER %%
+%% SECRET NOTE PLACEHOLDER b786f21a-df9e-46c3-aa4c-cc707322b721%%
 
 asdf
 asdf
