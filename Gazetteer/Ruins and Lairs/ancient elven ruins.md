@@ -12,3 +12,4 @@ When the elven kingdom fell, this place fell into ruin, and was lost, the entran
 During the [[Drankorian Empire]], this region around [[Tokra]] was recognized as a place of strange magic, and several forts were constructed to defend the road and travelers from potential extraplanar threats. A small Drankorian trade outpost, a walled city, and a river crossing grew up, mostly to provide safety, but was never densely populated due to the strange magic in the area. 
 
 When the [[Drankorian Empire]] fell, the area that is now [[Tokra]] was abandoned, and the forts fell into ruin, until the Dunmari came. The [[Lakan Monastery]] was established on the hill above the elven ruins, in the wreckage of a Drankorian fort, in DR 1194.
+%%
