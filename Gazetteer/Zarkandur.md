@@ -1,0 +1,1 @@
+![[zarkandur-city-full.png]]
