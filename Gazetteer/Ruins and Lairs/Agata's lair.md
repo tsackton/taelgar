@@ -6,9 +6,9 @@ The home of the hag [[Agata]] Dustmother. Looted, but not destroyed, by the part
 
 [[Agata]]'s house is set on a hill, and is masked in illusion/planar magic so that you can only approach it from the north, via the path. If you circumnavigate the hill, the house will disappear, and the hill will be barren and dry.
 
-The path leads up the slope through the scrubby, rocky ground, and follows a line of dead trees, dried out in the sun, but standing tall still, scraggly branches dripping with thorny vines. %% these are blights, although probably now long-dwindled away%%
+The path leads up the slope through the scrubby, rocky ground, and follows a line of dead trees, dried out in the sun, but standing tall still, scraggly branches dripping with thorny vines. 
 
-The hut itself is a plain dark brown mud hut, seemingly fairly shabbily made, with a large circular center room with a domed roof, and smoke rising from the chimney. A smaller extension come off the west side of the hut, also with a sloped mud roof. A wooden door, ajar, marks the entrance to the large circular room. %% The hut is enchanted with a nondetection spell, which is still active and is part of the magic that hides it from the world if you approach in the wrong direction. Any scrying or divination magic that targets the inside of the hut sees only bare desert.%%
+The hut itself is a plain dark brown mud hut, seemingly fairly shabbily made, with a large circular center room with a domed roof, and smoke rising from the chimney. A smaller extension come off the west side of the hut, also with a sloped mud roof. A wooden door, ajar, marks the entrance to the large circular room. 
 
 Next to the house is a garden of thorns and rocks, tangled briars and such, but somehow, incongruously, a flock of hens is pecking in the dust of the garden. A stone wall surrounds it, and in the distance you can see a wooden scarecrow posed sitting on the wall watching over the chickens. A well sits towards the back of the garden.
 
