@@ -2,13 +2,7 @@ This is a file
 
 with secrets
 
-%% SECRET NOTES
-
-slf
-lasdf
-ladf
-
-%%
+%% SECRET NOTE PLACEHOLDER %%
 
 And more stuff
 
@@ -19,9 +13,7 @@ asldf
 lsdjf
 %%
 
-%% SECRET NOTES
-lasdf
-asdljf
-%%
+%% SECRET NOTE PLACEHOLDER %%
 
+asdf
 asdf
