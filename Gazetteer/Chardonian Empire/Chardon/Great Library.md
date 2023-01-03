@@ -13,3 +13,4 @@ After the fall of Drankor, the Library was funded directly by the newly formed H
 These days, the library has expanded greatly and is involved in adventuring / collecting as well as preservation of books. Kind of like an archaeological museum and a library combined - and receives considerable funding through the sale of treasures recovered by its adventurer-scholars.
 
 Scholars with full privileges are known as Archivists, with Junior and Senior ranks in addition to the 'main' base rank. Senior Archivists are effectively "department chairs" and the committee of senior archivists chooses the staff to run the library, including the Dean of the Library and the Chancellor. Scholars without full privileges are typically just referred to as scholars or masters (depending on their rank at the university).
+%%
