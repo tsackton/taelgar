@@ -60,3 +60,5 @@ For 100 years, the Order keeps an eye on things, and little changes. However, in
 In 1747, about 9 months ago, [[Grash]] the Blighted arrived in Kharsan with the Ring of the Undying and a good portion of [[Apollyon]]'s orc servants, who now call themselves the Undying Horde.
 
 [[Grash]] established himself in the ruins of the palace, repairing walls and buildings as much as possible with orc aid. He quickly brought the chaotic undead of the city under his control, and has insisted they no longer bother orcs. This has meant that some orcs have moved into the barracks/stadium area.
+
+%%

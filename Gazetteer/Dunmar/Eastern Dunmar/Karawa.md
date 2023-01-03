@@ -43,3 +43,5 @@ The mesa itself is quite old, dating almost to [[The Founding of Dunmar]], for i
 There has always been a holy spring here, a place that people said could show you glimpses of dreams and faraway visions of possible futures, guarded and protected by a small Mystery Cult dedicated to [[Shakun]].
 
 After the Shattering, this grew to much greater importance, as [[Shakun]]'s protection extended slowly to encompase the entire eastern border of Dunmar, from the Yuvanti to the Central Mountains.
+
+%%
