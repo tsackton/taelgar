@@ -37,3 +37,4 @@ So, the feel:
 -Some areas looted, again recently; some protected.
 
 -Monsters: [[Shadowfell]] and spirit undead; ghouls and similar corporeal undead; ghosts and other spirits protecting the sacred treasures; perhaps a desert beast of some kind has made a lair? Perhaps some orcs keeping watch?
+%%
