@@ -19,3 +19,5 @@ A few years before the fall of [[Drankor]], his nets caught [[Hralgar]] Skaldjot
 For many centuries, there [[Hralgar]] remained, trapped. With the fall of [[Drankor]], knowledge the Stormcaller Tower was lost. The Dunmari knew it as a landmark, and also a place to be avoided, a place of strange magic and wild weather. To them, this place was called Pavantova, the Tower of Wild Wind.
 
 About a month ago, three Chardonian treasure hunters entered the tower and made their way to the top floor, where they found the mechanism of [[Eudomes]], and attempted to recover it for the [[Great Library]]. There efforts were only partially successful, and they released Hralvar , but only partially, and he has awoken but without fully returning to consciousness and control. He is lost in a dream state, lashing out, and thinning the boundary between the [[Dreamworld]] and the mortal realms here. So not everything is as it seems.
+
+%%
