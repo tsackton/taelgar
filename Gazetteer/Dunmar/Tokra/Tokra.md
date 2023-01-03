@@ -42,36 +42,7 @@ The palace is a large rectangular building with a large central courtyard, origi
 
 During the Fire War it was damaged, but not as badly as the [[Archives]], and required only cosmetic repairs, which were done in a Dwarvish style.
 
-%% Palace uses
 
-Currently, the palace is used for four purposes:
-1.  It is the dwelling of the higher ranking members of the civil/religious adminstration
-2.  The "royal quarters" are maintained for the Samraat as needed, although visits have been rare
-3.  It is used as barracks and quarters for officers and commanders of the army
-4.  The great hall and courtyard are used for civic ceremonies, holidays, and dispensing justice
-
-%%
 
 ### History
 
-%% Notes on history
-Site of a Drankorian city, river crossing, and trade outpost, along with forts to the north and south protecting weak spots where other planes leak in (to the north, [[Pandemonium]]; to the south, where monastery is now, a major ley line node that was also connected to elven ritual magic).
-
-Destroyed utterly during the first plague and the subsequent chaos.
-
-Resettled as a minor outpost by Dunmari in DR 1183; [[Lakan Monastery]] built out of Drankorian ruins to the south in DR 1194.
-
-For many years, little more than a small village associated with the monastery and a bit of trade, especially up and down the river which was navigable for much of the year.
-
-In DR 1405, Samraat Dharajun [[Jita]] made Tokra her central court, ordering construction of a large temple, a palace, and [[Archives]]. The palace was finished first, in DR 1409; the [[Archives]] soon after, in DR 1411; the temple, a generation later in DR 1434.
-
-For the next 100 years, Tokra was a major center of Dunmari adminstration and power, until the [[Great War]].
-
-Shortly after the [[Great War]], in DR 1552, the fire giant Mavdyr attacked with orcs and others, and Tokra was largely overrun and suffered much destruction. While the fire giant was defeated with the aid of dwarves and stoneborn, and Tokra rebuilt, the power center of Dunmar shifted west once again, to the new lands and to [[Nayahar]].
-
-Over the next 200 years, Tokra maintained significant administrative capacity as a frontier / provincial capitol, but as interest in eastern Dunmar waned in the west, Tokra's significance waned as well.
-
-Nonetheless, it remains a prosperous city, sitting on one of the major long distance trade routes from Sembara to [[Chardon]], and benefiting from the [[Hara]] river, navigable for about half the year. Aided in part by the present of the Lakan monks, Tokra has gained something of a reputation as a city of scholars, and the [[Archives]] here store not just records of the Dharajun dynasty, but many earlier records rescued from [[Kharsan]] and points east during the [[Great War]].
-
-The horse herders and traders descended from the Dharajun rulers remain prominent and important here, and the Lakan monks hold considerable sway as well, having preserved the [[Archives]] and history here.
-%%
