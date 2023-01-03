@@ -1,0 +1,36 @@
+# ignore everything
+/*
+
+# ignore .DS_Store
+.DS_Store
+
+# Add gitignore
+!.gitignore
+
+# Add shared directories
+!Gazetteer/
+!Gods/
+!History/
+!Holidays and Festivals/
+!Multiverse/
+!People/
+!Religions/
+!Species/
+!Worldbuliding/
+
+# Add media and templates
+!_media/
+!_templates/
+
+# Add shared NPCs
+!/NPCs
+NPCs/*
+!/NPCs/Dwarves
+/NPCs/Dwarves/*
+!/NPCs/Dwarves/Vistra Fireforge.md
+
+# Add shared Organizations
+!/Organizations
+Organizations/*
+!/Organizations/The Rangers.md
+
