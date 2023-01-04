@@ -1,6 +1,6 @@
 ## Overview of Chardon
 
-Chardon is a city of many things. It is the capitol and seat of government of the Chardonian Empire. It is a major center of learning and magic. It is a trade hub and economic powerhouse.
+Chardon is a city of many things. It is the capitol and seat of government of the [[Chardonian Empire]]. It is a major center of learning and magic. It is a trade hub and economic powerhouse.
 
 Growing from a small settlement on the banks of the Chasa river to an outpost of the Dranokrian Empire, to a powerful city state, and finally the capitol of a vast empire, Chardon has a 2000-year history and many layers.
 

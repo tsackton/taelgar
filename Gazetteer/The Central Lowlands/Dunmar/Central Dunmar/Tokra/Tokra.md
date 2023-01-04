@@ -32,7 +32,7 @@ The temple is the largest building in Tokra, topped with a large dome that rises
 
 Actually a temple complex. The main worship space is a pentagonal space beneath the dome, with significant altars to [[the Five Siblings]]. There is also an entryway area, and private prayer space, clerical offices, and storerooms in the upper floors and the basement levels.
 
-Attached to the temple is a major administrative complex, where acolytes manage funds, taxes, census data, and service obligations for eastern Dunmar, technically now from [[Songara]] to Tokra.
+Attached to the temple is a major administrative complex, where acolytes manage funds, taxes, census data, and service obligations for eastern [[Dunmar]], technically now from [[Songara]] to Tokra.
 
 The temple was constructed during the early years of the Dharajun dynasty, and shares the grand, almost ostentatious, architectural style that characterized the first part of the Dharajun years. Horse motifs are frequent, as is mosaic designs, and few surfaces are left undecorated.
 

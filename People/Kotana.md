@@ -1,3 +1,5 @@
 ### Kotana
 
-Son of [[Bhishma]], second Samraat of Dunmar. 
+Son of [[Bhishma]], second Samraat of [[Dunmar]]. 
+
+
