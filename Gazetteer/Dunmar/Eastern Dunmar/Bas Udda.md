@@ -4,3 +4,4 @@ Bas Udda was once a town like [[Karawa]], same kind of architecture, if anything
 
 Now, all is burned. The land is blackened for miles, like a massive fire raced through. Little is left standing of the village, either. Only a small number of houses in the central part of the village still have roofs.
 
+%%SECRET[1]%%

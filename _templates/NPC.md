@@ -28,4 +28,5 @@ tags: [NPC]
 
 ## Other
 
+%%SECRET[1]%%
 

@@ -4,3 +4,4 @@ Shakun's Wellspring is a sacred grove on the southern edge of the [[Red Mesa]], 
 
 The pool leads to [[Shakun's Realm]], a demi-plane of the divine controlled by [[Shakun]].
 
+%%SECRET[1]%%

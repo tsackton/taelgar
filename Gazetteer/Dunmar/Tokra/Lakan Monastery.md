@@ -14,4 +14,5 @@ The largest workshop is built, in part, on the [[ancient elven ruins]] of an old
 
 There is a small lay archives, run by [[Kassi]], which mostly contains copies of works of Dunmari religion, and a much larger private archive for initiates only. In the private archives are many records dealing with the planes, gods, the nature of divinity, the nature of the material plane, magic, and related topics.
 
+%%SECRET[1]%%
 
