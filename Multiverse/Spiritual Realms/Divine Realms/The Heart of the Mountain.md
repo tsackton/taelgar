@@ -7,3 +7,5 @@ Described in various ways, but often as a vast cavern hundreds and hundreds of f
 Tunnels leave the cave in all directions, many wide and brightly lit by crystal lanterns, others narrow, some nearly vanished into the shadows.
 
 ![[heart-of-the-mountain.png]]
+
+

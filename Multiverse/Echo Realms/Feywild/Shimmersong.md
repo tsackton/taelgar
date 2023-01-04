@@ -11,3 +11,5 @@ But [[Lightdancer|Egon]] has a dark side, and for some time each year they retre
 To keep the domain safe during the dark times, the [[Lightdancer]] has company of Winter Knights, a group that rarely emerges during the bright days of light and song, but revels in the harsh beauty when the [[Lightdancer]] retreats, and keeps the domain safe from anyone who would take advantage.
 
 The people of Shimmersong are grateful to the Winter Knights, but most are eager for the Awakening, the ceremony of springtime that marks the [[Lightdancer]]’s return and honors the work of the Winter Knights during the days of grayness and sleep.
+
+
