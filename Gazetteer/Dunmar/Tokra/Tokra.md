@@ -18,7 +18,7 @@ There are three major markets in Tokra, each based in an open plaza.
 
 The River Market, to the east, is the smallest, and functions mostly as a daily market for food and sundries for locals, operating roughly 8am - 11 am every day.
 
-The Trader's Market, to the west, is the largest market and the most exotic. Operates three days a week, and is a major source of civic revenue as it costs money to set up a stall here. This is where booksellers, potion makers, other exotic wares, and goods from [[Chardon]], Sembara, and beyond are sold. One addtiional day a week, this serves as an animal market.
+The Trader's Market, to the west, is the largest market and the most exotic. Operates three days a week, and is a major source of civic revenue as it costs money to set up a stall here. This is where booksellers, potion makers, other exotic wares, and goods from [[Chardon]], [[Gazetteer/Western Green Sea/Greater Sembara/Sembara/Sembara|Sembara]], and beyond are sold. One addtiional day a week, this serves as an animal market.
 
 The City Market, south of [[Jita]]'s square, is located in the midst of the artisan's quarter, and is lined with small shops, especially local artisans, smiths, etc. A weekly market brings various high-end goods for sale here. But regularly active with artisanal shops even when market is not operating.
 
@@ -47,5 +47,7 @@ During the Fire War it was damaged, but not as badly as the [[Archives]], and re
 ### History
 
 %%SECRET[2]%%
+
+
 
 
