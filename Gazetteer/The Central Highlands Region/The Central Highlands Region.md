@@ -2,7 +2,7 @@
 
 ### Overview
 
-This region of Taelgar includes everything north of [[Dunmar]], east of the [[Chardonian Empire]], west of [[Sembara]], and south of [[The Far North]]: roughly speaking, this includes the [[~CentralMountains~]], the dwarven kingdoms within them, and the extensive forests and highlands that extend along much of the western side of the [[~CentralMountains~]]. 
+This region of Taelgar includes everything north of [[Dunmar]], east of the [[Chardonian Empire]], west of [[Sembara]], and south of [[The Far North Region]]: roughly speaking, this includes the [[~CentralMountains~]], the dwarven kingdoms within them, and the extensive forests and highlands that extend along much of the western side of the [[~CentralMountains~]]. 
 
 ### Climate
 
