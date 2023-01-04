@@ -1,6 +1,6 @@
 # The Oracle of the Riven
 
-The royal electors of [[Gazetteer/The Green Sea/Western Green Sea/Greater Sembara/Tyrwingha/Tyrwingha]]. There are six of these royal electors:
+The royal electors of [[Tyrwingha]]. There are six of these royal electors:
 
 * The Oracle of the Red
 * The Oracle of the Black
