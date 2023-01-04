@@ -23,3 +23,5 @@ The village: The village itself is mostly small houses of adobe and mud, facing 
 The fields: To the southeast of town, some small scale agriculture provides a bit of extra food, beyond what the herds can provide and what can be traded with pastoralists passing through. Crops that require little water and lots of heat do best, although the oasis feeds irrigation channels here that allows crops to thrive. Dates and honey are a particular delicacy, being used to make wine and desserts.
 
 %%SECRET[1]%%
+
+

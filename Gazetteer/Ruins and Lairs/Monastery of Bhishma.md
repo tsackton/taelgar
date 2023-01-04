@@ -10,3 +10,5 @@ Because of the slope of the land, the temple is the most prominent building from
 
 %%SECRET[1]%%
 
+
+
