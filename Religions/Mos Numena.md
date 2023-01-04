@@ -2,3 +2,5 @@
 aliases: Eight Divines
 ---
 
+
+

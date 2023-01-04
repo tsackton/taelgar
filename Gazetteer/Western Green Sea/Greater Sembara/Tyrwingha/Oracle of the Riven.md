@@ -16,3 +16,5 @@ When an oracle dies, tradition holds that the [[Archfey Ethlenn]] appoints a new
 
 
 
+
+
