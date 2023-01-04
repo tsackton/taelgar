@@ -51,10 +51,10 @@ Dwarven society is generally conserative and strongly hierarchical, organized ar
 In the west of Taelgar, there are five great dwarven kingdoms:
 
 -   [[Fahnukan]], in the far north, isolated since before the Great War, the home to strange dwarves who sculpt in ice and relish the cold.
--   [[Nidzahar]], the largest and richest of the five kingdoms, building great cities on the mountain slopes as centers of trade and industry, and growing rich of the prosperous trade connections with [[Sembara]] to the east.
+-   [[Nidzahar]], the largest and richest of the five kingdoms, building great cities on the mountain slopes as centers of trade and industry, and growing rich of the prosperous trade connections with [[Worldbuilding/Places_to_move/Sembara]] to the east.
 -   [[Am'khazar]], on the western side of the great mountains, small but proud of their mineral wealth and skill in gem-cutting, especially in their largest city, [[Zarkandur]], the City of Gems.
 -   [[Khatridun]], a small but ancient kingdom south of Nidzahar and east of Am'khazar, the remnants of one of the great dwarven empires of the Elder days, now much reduced due to the losses and destruction of the Great War
--   [[Nardith]], far to the south in the [[Yuvanti mountains]], a new kingdom founded by refugees fleeing the devastation of the [[great war]] and the old kingdom of [[Ardith]], now growing rich on trade with [[Chardon]] and [[Dunmar]].
+-   [[Nardith]], far to the south in the [[Yuvanti Mountains]], a new kingdom founded by refugees fleeing the devastation of the [[great war]] and the old kingdom of [[Ardith]], now growing rich on trade with [[Chardon]] and [[Dunmar]].
 
 ![[dwarven-unnamed-fortress.png]]
 
