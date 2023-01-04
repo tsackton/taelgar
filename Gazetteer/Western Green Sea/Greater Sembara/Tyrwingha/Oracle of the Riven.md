@@ -14,3 +14,5 @@ The royal electors of [[Tyrwingha]]. There are six of these royal electors:
 When an oracle dies, tradition holds that the [[Archfey Ethlenn]] appoints a new oracle. In living memory however, this has not happened. Instead, the remaining oracles elect a new oracle (although by what means, no one knows) and the abstention of Ethlenn is considered her assent.
 
 
+
+
