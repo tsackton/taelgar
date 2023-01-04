@@ -4,3 +4,4 @@ Variously referred to as the [[Chardon]] Canal, the Old [[Chardon]] Canal, the G
 
 Built with magic by the Drankorians, and currently navigated by windcallers, who use magic to steer ships through the often windless passage. 
 
+%%SECRET[1]%%

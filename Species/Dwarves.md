@@ -57,3 +57,4 @@ In the west of Taelgar, there are five great dwarven kingdoms:
 -   [[Nardith]], far to the south in the [[Yuvanti mountains]], a new kingdom founded by refugees fleeing the devastation of the [[great war]] and the old kingdom of [[Ardith]], now growing rich on trade with [[Chardon]] and [[Dunmar]].
 
 ![[dwarven-unnamed-fortress.png]]
+

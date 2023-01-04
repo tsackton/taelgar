@@ -42,7 +42,8 @@ The palace is a large rectangular building with a large central courtyard, origi
 
 During the Fire War it was damaged, but not as badly as the [[Archives]], and required only cosmetic repairs, which were done in a Dwarvish style.
 
-
+%%SECRET[1]%%
 
 ### History
 
+%%SECRET[2]%%
