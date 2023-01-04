@@ -1,1 +1,2 @@
 * -text
+*.md filter=remove-secrets
