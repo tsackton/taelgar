@@ -7,3 +7,4 @@ Originally a Sembaran border duchy, After the war, in the general retreat of the
 In the 1550s, the population of Addermarch began to grow again, in part from refugees from the south claiming unfarmed land. A strong feudal system developed, driven largely by the need for constant defense against ever-present dangers lurking in the Plaguelands to the south, and especially the haunted Darkwood on Addermarch’s southern frontier. 
 
 Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into Sembara, but also a significant producer of timber and wool. Enjoying favorable tariffs for its goods in exchange for its role in protecting Sembara’s southern borders, Addermarch is a close ally of Sembara.
+
