@@ -40,7 +40,7 @@ The temple was constructed during the early years of the Dharajun dynasty, and s
 
 The palace is a large rectangular building with a large central courtyard, originally constructed at the same time as the [[Archives]] for the use of the traveling court of the Darajun dynastic court. During the [[Great War]], this was used as the headquarters of the western army of the Dunmari, coordinating defenses against the eldritch horrors in the mountains to the north. During this time it was expanded and used as a barracks as well, so it is a bit of a clash of architectural styles, with a older "Dharajunic" building and a newer more utilitarian design.
 
-During the Fire War it was damaged, but not as badly as the [[Archives]], and required only cosmetic repairs, which were done in a Dwarvish style.
+During the [[Fire War]] it was damaged, but not as badly as the [[Archives]], and required only cosmetic repairs, which were done in a Dwarvish style.
 
 %%SECRET[1]%%
 
