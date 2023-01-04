@@ -10,3 +10,5 @@ The Army of Mostreve is another major part of Tyrwingha, led by the fearsome eld
 
 Religiously, little is remembered about the ancient gods of Tyrwingha, such as they were. The Eight Divines are worshipped here much as they are elsewhere in [[Sembara]]. It is said that when Ethlenn made her bargain with the Drankorians (see below), she acknowledged the suzerainty of the Drankorian gods. However, the fey are remembered and honored alongside the gods -- the people of Tyrwingha have a deep respect for the traditions of the fey and what others might call superstition is here seen as simple common sense. The temple stewards in Tyrwingha often have a second job, ensuring the fairy rings are not distributed, leaving out milk and brown bread for the pixies, and other such things.
 
+
+
