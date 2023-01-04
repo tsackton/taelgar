@@ -53,3 +53,5 @@ In the fall of 1429, the Treaty of [[Valarin]] (a small town in the “gap” in
 The rest of [[Derik I]]’s long reign is a time of renewed prosperity in [[Worldbuilding/Places_to_move/Sembara]], as trade to the south flourishes, the war-torn Borderlands and Southern Marches revive considerably on the strength of goods flowing across their lands, and occasional raiders from the mountains are met with the full might of [[Worldbuilding/Places_to_move/Sembara]]’s army with [[Derik I]] at the head.
 
 
+
+
