@@ -30,6 +30,13 @@ NPCs/*
 /NPCs/Dwarves/*
 !/NPCs/Dwarves/Vistra Fireforge.md
 
+# Add shared items
+!/Items
+Items/*
+!/Items/Artifacts of Power
+/NPCs/Artifacts of Power/*
+!/Items/Artifacts of Power/Circlet of Foreknowledge.md
+
 # Add shared Organizations
 !/Organizations
 Organizations/*
