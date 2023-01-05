@@ -8,3 +8,4 @@ Although most kestavo are worshipped only by the people of their particular town
 * Besla, who came to the land in the ancient days from the Green Sea, and each spring asks Ahra to send the waters of her homeland to her for company, and thus brings the monsoon rains.
 
 The kestavo are not the only spirits in the land, however. The cruel west wind, Ziva, and Vacla, the fire-below, have many offspring, the vazska. These spirits must be appeased or driven off, or they bring misfortune.
+
