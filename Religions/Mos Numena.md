@@ -20,8 +20,8 @@ The Eight Divines are:
 * The Warlord (god of war, vengeance, smiths, autumn, associated with day)
 * [[The Sibyl]] (goddess of magic, knowledge, love, beauty 
 * [[The Wanderer]] (god of travel, trade, strangers, and outcasts)
-* [[The Wyrdling]] (genderless diety of chaos, luck, fate, storms, and weather)
-* The Wilding (genderless diety of nature and elements)
+* [[The Wyrdling]] (genderless diety of chaos, luck, and fate)
+* [[The Wildling]] (genderless diety of nature and elements)
 
 
 

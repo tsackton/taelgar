@@ -44,7 +44,7 @@ As news spread like wildfire of a knight from the north who had been blessed by 
 
 By the end of the summer of 1428, the war was over. Derik’s alliance, following the initial success of the Battle of Wisford in 1426, which broke [[Emperor Avatus|Avatus]]' lines on the [[River Wistel|Wistel]], and the Battle of Fellburn in 1427, which forced [[Emperor Avatus|Avatus]] across the [[River Enst|Enst]], won a decisive and complete victory at the Battle of Dalfield, in the northern Mosteve Hills, in the spring of 1428.   
 
-Cloaked in glory and honor from his decisive military leadership and fey-enhanced charisma, Derik forged modern [[Sembara]] at the Treaty of Wisford, signed in the late fall of [[1428 DR]], which established the Royal Council, codified the independence of lizardfolk in the realm forevermore, and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
+Cloaked in glory and honor from his decisive military leadership and fey-enhanced charisma, Derik forged modern [[Sembara]] at the Treaty of Wisford, signed in the late fall of 1428 DR, which established the Royal Council, codified the independence of lizardfolk in the realm forevermore, and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 
 In the spring and summer of 1429, Derik, now styling himself [[Derik I]] of [[House of Sewick|Sewick]], King of [[Sembara]], Duke of Telham, High Prince of [[Tyrwingha]], Honored Consort of the Queen of the Evening Mist, and Defender of the Four Rivers, marches his army throughout the [[Mostreve Hills]], driving out the last of the [[Hobgoblins]] and accepting the fealty of the local lords. 
 
