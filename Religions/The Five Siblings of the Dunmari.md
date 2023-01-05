@@ -8,3 +8,4 @@ center of worship in villages and small temporary settlements across Dunmar.
 * Aagir, the god of war, fire, and death; protector of soldiers 
 * Sonkar, the goddess of beauty, truth, artisans, and justice;
 * Chidya, the goddess of nature, the land, animals, and weather; worshiped especially by herders and shepherds and those who live a nomadic life
+

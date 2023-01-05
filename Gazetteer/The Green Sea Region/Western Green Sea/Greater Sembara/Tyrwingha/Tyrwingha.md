@@ -21,3 +21,5 @@ Tim's notes on Tyrwingha:
 * Over time, this alliance (drankor -fey) proved to be quite powerful, something about the fey warlocks of Tyrwingha that I haven't made up yet. Also rumors of fey ancestry among the population, even to the current day.  
 * Tyrwingha, more than other parts of the Sembaran area, sees itself explicitly in terms of a blending of two cultures, Drankor and the ancestral Tyrwinghan heritage, and made stronger for it (as opposed to northern highlanders, who probably somewhat resisted Drankorian influence, and Sembaran river valley and southern highlanders, who were forcibly assimilated in a much more direct way), but in the modern day (post Great War), this identity is really uniquely Tyrwinghan, and the Drankorian connection is, if not exactly forgotten, not common knowled
 %%
+
+

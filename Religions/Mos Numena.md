@@ -22,3 +22,5 @@ The Eight Divines are:
 * The Wanderer (god of travel, trade, strangers, and outcasts)
 * The Wyrdling (genderless diety of chaos, luck, fate, storms, and weather)
 * The Wilding (genderless diety of nature and elements)
+
+
