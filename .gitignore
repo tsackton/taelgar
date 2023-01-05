@@ -19,8 +19,8 @@
 !Worldbuilding/
 
 # Add media and templates
-!_media/
-_media/unshared/
+!assets/
+assets/unshared/
 !_templates/
 
 # Add shared NPCs
