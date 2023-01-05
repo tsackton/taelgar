@@ -16,3 +16,4 @@ In the south, north, and along the Volta, however, the bulk of the defenses of t
 Within free cities the city government has similar responsibilities as the lord of the manor.
 
 In order to support border defenses, the military commanders pay an annual sum to certain border lords -- barons, lords of the manor, or earls, as the commander sees fit -- to help them maintain and organize defenses. These payments can be a key source of patronage, and the twelve company commanders, three watch commanders, and four army commanders are significant and powerful civil servants.
+
