@@ -18,9 +18,9 @@ The Eight Divines are:
 * The Father (god of light, order, justice, summer, associated with the sun)
 * The Night Queen (goddess of darkness, death, sleep, winter, associated with the night)
 * The Warlord (god of war, vengeance, smiths, autumn, associated with day)
-* The Sibyl (goddess of magic, knowledge, love, beauty 
-* The Wanderer (god of travel, trade, strangers, and outcasts)
-* The Wyrdling (genderless diety of chaos, luck, fate, storms, and weather)
+* [[The Sibyl]] (goddess of magic, knowledge, love, beauty 
+* [[The Wanderer]] (god of travel, trade, strangers, and outcasts)
+* [[The Wyrdling]] (genderless diety of chaos, luck, fate, storms, and weather)
 * The Wilding (genderless diety of nature and elements)
 
 
