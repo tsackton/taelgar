@@ -20,4 +20,4 @@ Upriver, the newer Chardon Bridge is used more by locals, farmers as well as the
 
 The south bank, where the bulk of the city lies, is dominated by the hundreds of towers of Chardon, concentrated in the south and east of the city, where the Great Library stands. But many other sights and spread across the city: the three great markets and dozens of smaller markets, the Imperial Palace, the Cathedral of the Eight, The Pillar of Victory, Haldir's Tomb, the Hospital of the Mother's Grace, as well as other churches, monuments, and palaces scattered across the skyline.
 
-
+![[rsulfuratus_fantasy_medieval_city_magical_wizard_towers_tolkien_3adae1a4-c95d-46e0-a11c-39b2eae36747.png|500]]
