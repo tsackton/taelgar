@@ -8,3 +8,5 @@ Elaine spent much of the 1570s in Tyrwingha, and married the King of Tyrwingha, 
 Her three children were: [[Arryn I]], [[Blanche II]], and [[Derik of Lils|Derik]]. 
 
 
+
+

@@ -13,3 +13,5 @@ Mostly due to the influence of his powerful second wife, [[Bertram I|Bertram]] s
 
 
 
+
+

@@ -1,5 +1,6 @@
 ---
 aliases: [Teft]
+tags: [stub]
 ---
 
 

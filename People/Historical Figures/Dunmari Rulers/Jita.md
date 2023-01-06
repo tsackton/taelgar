@@ -1,3 +1,7 @@
+---
+aliases: [Samraat Jita]
+---
+
 ### Jita
 (she/her)
 

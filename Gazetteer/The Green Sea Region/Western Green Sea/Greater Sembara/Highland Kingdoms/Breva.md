@@ -1,3 +1,7 @@
+---
+tags: [stub]
+---
+
 # Breva
 A highlander kingdom.
 

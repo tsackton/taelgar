@@ -1,5 +1,6 @@
 ---
 aliases: [Enst]
+tags: [stub]
 ---
 
 
