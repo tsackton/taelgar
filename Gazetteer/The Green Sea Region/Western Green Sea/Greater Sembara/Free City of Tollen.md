@@ -5,7 +5,7 @@ aliases: [Tollen]
 
 # The Free City of Tollen
 
-A bustling port on the Volta River, which forms the border between Sembara and Vostok, the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply the Green Sea, bringing back goods from near neighbors as well as the far East. 
+A bustling port on the Volta River, which forms the border between Sembara and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply the Green Sea, bringing back goods from near neighbors as well as the far East. 
 
 
 %% Notes
