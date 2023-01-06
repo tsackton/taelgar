@@ -1,6 +1,5 @@
-The king of Sembara during the [[Great War]]; of the [[House of Sewick]].
+### Derik III
 
-
-
+The king of [[Sembara]] during the [[Great War]]; of the [[House of Sewick]].
 
 
