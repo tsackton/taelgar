@@ -3,34 +3,70 @@ aliases: [Sewick]
 ---
 ### The House of Sewick
 
-The Sembaran Royal house, founded by Derik I in the 1420s.
+The founding royal house of modern Sembara, the House of Sewick ruled between the 1420s and the 1720s. A cadet branch, the [[House of Lils]] rules today.
+
 
 ```mermaid 
+
 graph TD
 
-D1(Derik I) --> D2(Derik II) --> G1(Gyles I) --> D3(Derik III)
-Sarabet --> D3Kids( )
-D3 --> D3Kids( )
-D3Kids --> Reginald
-D3Kids --> Hugh
-D3 --> D3Kids2( )
-Jane --> D3Kids2( )
-D3Kids2 --> Bert1(Bertram)
-Reginald  --> B2(Bertram II)
-Reginald  --> AI(Arryn I)
-Reginald  --> E1(Elaine I)
-Reginald  --> Anne
-Reginald  --> GylesCadet(Gyles)
-E1 --> C1(Cece I)
-Anne --> AnneChildren(Exiled Children of Anne)
-C1 --> Bert2(Bertram)
-C1 --> Derik
-C1 --> Elleth
-C1 --> Robert
-C1 --> Diana
-C1 --> Mara
-Mara --> E2(Elaine II)
-GylesCadet --> HOfNeedName(House of Need Name)
+DerikI(Derik I) --- DerikII(Derik II)
+DerikII --- CharlotteI(Charlotte I)
+CharlotteI --- Hugh1(Hugh)
+CharlotteI --- DerikIII(Derik III)
+Sarabet --- DerikIIIKidsSara( )
+DerikIII --- DerikIIIKidsSara( )
+DerikIII --- DerikIIIKidsSJane( )
+Jane(Jane of Tollen) --- DerikIIIKidsSJane( )
+CharlotteI --- Eloise
+DerikIIIKidsSara --- Reginald
+DerikIIIKidsSara --- Hugh2(Hugh of Wisenfold)
+DerikIIIKidsSJane --- BertramI(Bertram I)
+Eloise ---- WisymI(Wisym I)
+Reginald --- BertramII(Bertram II)
+Reginald --- BlancheI(Blanche I)
+Reginald --- ElaineI(Elaine I)
+Cynan --- ElaineIKids( )
+ElaineI --- ElaineIKids
+Reginald --- Anne
+Anne --- Wilhema
+Anne --- Eloise2(Eloise)
+Anne --- Peregrin
+Reginald --- Gyles(Gyles of Teckberg)
+ElaineIKids --- ArrynI(Arryn I)
+ElaineIKids --- BlancheII(Blanche II)
+ElaineIKids --- DerikElaineKid(Derik of Lils)
+BlancheII --- ArrynII(Arryn II)
+ArrynII --- CharlotteII(Charlotte II)
+ArrynII --- CeceI(Cece I)
+CeceI --- Bertram
+CeceI --- DerikCeceKid(Derik)
+CeceI --- Elleth
+CeceI --- RobertI(Robert I)
+CeceI --- Diana
+CeceI --- Mara
+DerikElaineKid --- HouseOfLils(House of Lils)
+
+
+KingOrQueen(Names in a green box were kings or queens)
+
+classDef ruler stroke:green,stroke-width:2px
+classDef noKids stroke:red,stroke-width:2px
+
+class DerikI,DerikII,CharlotteI,DerikIII,BertramI,BertramII,ArrynI,ElaineI,WisymI ruler;
+class BlancheI,DerikI,DerikII,CharlotteI,DerikIII,Jane,BertramI,BertramII,ArrynI,ElaineI internal-link;
+
+class Gyles,Hugh2,WisymI internal-link;
+
+class BlancheI,DerikIV,BlancheII,ArrynII,CharlotteII,CeceI,RobertI ruler;
+
+class DerikIV,BlancheII,ArrynII,CharlotteII,CeceI,RobertI internal-link;
+class Annabeth,Morgaine,HouseOfLils,Cynan,DerikElaineKid internal-link;
+
+class Sarabet,Reginald,Eloise,Anne internal-link;
+
+class KingOrQueen ruler;
+
 ```
 
 

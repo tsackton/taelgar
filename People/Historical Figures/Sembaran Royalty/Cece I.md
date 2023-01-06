@@ -1,9 +1,18 @@
-*she/her*
-b. 1566 r. 1586 d. 1646
+## Cece I
+*she/her* b. 1628, d. 1712
 
 Cece I reigned for 60 years, the longest reign in the annuals of the kings and queens of Sembara. Her reign was one of peace, prosperity, and recovery. Sembara finally began to climb out of the devastation of the [[Great War]] and the [[Blood Years]], and for the first time in five generations the future of Sembara seemed to be brighter than its past.
 
+She was unlucky with her children, however, and of her six children: Bertram, Derik, Elleth, [[Robert I]], Diana, and Mara, only [[Robert I]] did not predecease her. 
 
+%% Children
+		Bertram	 b. 1655  d. 1695
+		Derik	 b. 1657  d. 1683
+		Elleth	 b. 1660  d. 1665
+		Robert I b. 1662  d. 1722
+		Diana	 b. 1664  d. 1711
+		Mara	 b. 1665  d. 1709
+%%
 
 
 
