@@ -1,4 +1,8 @@
-## The Bahrazel 
+---
+aliases:[Bahrâzel]
+---
+
+# The Bahrâzel 
 
 The embodied gods of the Dwarves and the mystical firstborn of their race. Legend says the seven Bahrâzel were created from living rock, given form and magic and empowered to create the dwarven people in their image.
 
@@ -43,5 +47,7 @@ The Baharzel are literally the source of runic magic, which most dwarves can use
 Dwarven religious practice, such as it exists, is thus much more of celebration of dwarven history, of dwarven heroes. Unlike say [[Dunmar]], most dwarven holidays are not the feast days for gods but commemoration of heroes from the past, and especially memorials to those fallen. There are a number of celebrations and days of remembrance and the like around the [[Great War]], and even going back to the first wars of [[The Downfall]]. 
 
 That said, ceremonies around birth, the transition to adulthood, and death are explicitly religious. In particular, the ceremony of name-taking is deeply personal, basically a solo quest to find [[The Heart of the Mountain]], which is the plane of the Baharzel. And in death, the hope of any dwarf for their spirit to return with honor to that place and dwell with the firstborn. But I am not sure there is much of a religious rite here — dwarven culture feels to me very strongly in the works over faith camp, and if by the time you die you are doomed to either destruction of your soul entirely or some kind of purgatory, it is too late, no last minute prayer is going to help you. And if the firstborn can lead living dwarves to their domain, of course they can gather spirits. So again I think burial customs would largely be around a celebration and honoring of the person, without a lot of explicitly religious rituals.
+
+
 
 

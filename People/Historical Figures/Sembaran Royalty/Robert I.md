@@ -4,3 +4,4 @@
 A ruler of Sembara, son of [[Cece I]].  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [[Elaine II]]. 
 
 %% Replaced by lich in 1719 %%
+

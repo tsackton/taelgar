@@ -1,5 +1,6 @@
 ---
 aliases: [Wistel]
+tags: [stub]
 ---
 
 

@@ -6,3 +6,5 @@ An early ruler of Sembara, of the [[House of Sewick]]. She ruled from the death 
 Her eldest son, [[Hugh (son of Charlotte I)|Hugh]], predeceased her in the chaos of the times, but her youngest, [[Eloise|Eloise]] lived a long life.
 
 
+
+

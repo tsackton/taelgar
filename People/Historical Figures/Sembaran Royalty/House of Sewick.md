@@ -75,3 +75,6 @@ class KingOrQueen ruler;
 
 
 
+
+
+
