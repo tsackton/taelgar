@@ -5,11 +5,10 @@ species:
 ancestry: 
 gender: 
 home: 
-current location:
 born: 
 died: 
 affiliations: 
+current location:
 aliases: []
 tags: [NPC/unsorted]
 ---
-
