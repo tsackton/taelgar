@@ -1,12 +1,18 @@
 <%* 
-const currentYear = 1748
+const currentYear =  FantasyCalendarAPI.getCalendars()[0].current.year
+const currentGameMonth = FantasyCalendarAPI.getCalendars()[0].current.month
+const currentGameDay = FantasyCalendarAPI.getCalendars()[0].current.day
+const currentGameMonthName = FantasyCalendarAPI.getCalendars()[0].static.months[currentGameMonth].name
 
 let age;
 let bornString;
 let diedString;
 let genderString;
 let speciesString;
+let currentGameTimeEditString;
 let pronouns;
+
+currentGameTimeEditString = currentGameMonthName + " " + currentGameDay + ", " + currentYear
 
 if (!tp.frontmatter.species) {
   speciesString = "unknown species"
@@ -53,12 +59,21 @@ if (!yearBorn) {
 
 // location information //
 
+
+let curLocString
+
+if (!tp.frontmatter["current location"]) {
+  curLocString = "unknown"
+} else {
+  curLocString = "[[" + tp.frontmatter["current location"] + "]]"
+}
+
 let origLocString
 
 if (!tp.frontmatter.home) {
   origLocString = "unknown"
 } else {
-  origLocString = tp.frontmatter.home
+  origLocString = "[[" + tp.frontmatter.home + "]]"
 }
 
 // location information //
@@ -71,11 +86,10 @@ if (!tp.frontmatter.ancestry) {
   ancString = ` (${tp.frontmatter.ancestry})`
 }
 
-%> # <% tp.frontmatter.name %>
+%># <% tp.frontmatter.name %>
 <% pronouns %>
 <% genderString %><% speciesString %><% ancString %>
 <% bornString %> <% diedString %>
 <% age %>
 Originally from: <% origLocString %>
-
----
+Current location, updated <% currentGameTimeEditString %>: <% curLocString %>
