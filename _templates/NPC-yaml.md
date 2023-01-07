@@ -8,7 +8,7 @@ home:
 born: 
 died: 
 affiliations: 
-current location:
+location: 
 aliases: []
 tags: [NPC/unsorted]
 ---

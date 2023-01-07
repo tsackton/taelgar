@@ -61,7 +61,17 @@ if (!tp.frontmatter.home) {
   origLocString = tp.frontmatter.home
 }
 
-// location information //
+// current location information //
+
+let curLocString
+
+if (!tp.frontmatter.home) {
+  curLocString = "unknown"
+} else {
+  curLocString = tp.frontmatter.location
+}
+
+// ancestry information //
 
 let ancString
 
@@ -77,5 +87,6 @@ if (!tp.frontmatter.ancestry) {
 <% bornString %> <% diedString %>
 <% age %>
 Originally from: <% origLocString %>
+Last known location: <% curLocString %>
 
 ---
