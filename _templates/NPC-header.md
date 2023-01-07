@@ -46,20 +46,12 @@ if (!yearBorn) {
    age = "deceased"; // set age to "deceased"
  }
  if (age !== "deceased") { // if age is not "deceased" 
-   age = `${age} years old`; // set age to "age years old" 
+   age = `${age} years old in ${currentYear}`; // set age to "age years old" 
    diedString = ""
  }
 } 
 
 // location information //
-
-let curLocString
-
-if (!tp.frontmatter["current location"]) {
-  curLocString = "unknown"
-} else {
-  curLocString = tp.frontmatter["current location"]
-}
 
 let origLocString
 
@@ -68,6 +60,8 @@ if (!tp.frontmatter.home) {
 } else {
   origLocString = tp.frontmatter.home
 }
+
+// location information //
 
 let ancString
 
@@ -83,7 +77,5 @@ if (!tp.frontmatter.ancestry) {
 <% bornString %> <% diedString %>
 <% age %>
 Originally from: <% origLocString %>
-Current location, updated <% tp.file.last_modified_date("MMM Do YY") %>: <% curLocString %>
 
 ---
-
