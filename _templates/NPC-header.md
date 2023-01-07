@@ -1,5 +1,8 @@
 <%* 
+// get fantasy calendar dates //
+
 const currentYear = 1748
+TaelgarDate = ""
 
 let age;
 let bornString;
@@ -46,7 +49,7 @@ if (!yearBorn) {
    age = "deceased"; // set age to "deceased"
  }
  if (age !== "deceased") { // if age is not "deceased" 
-   age = `${age} years old in ${currentYear}`; // set age to "age years old" 
+   age = `${age} years old`; // set age to "age years old" 
    diedString = ""
  }
 } 
@@ -87,6 +90,6 @@ if (!tp.frontmatter.ancestry) {
 <% bornString %> <% diedString %>
 <% age %>
 Originally from: <% origLocString %>
-Last known location: <% curLocString %>
+Last known location, as of <% TaelgarDate %>: <% curLocString %>
 
 ---
