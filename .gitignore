@@ -1,44 +1,23 @@
-# ignore everything
-/*
-
 # ignore .DS_Store
 .DS_Store
 
-# Add gitignore
-!.gitignore
-
-# Add shared directories
-!Gazetteer/
-!Gods/
-!History/
-!Holidays and Festivals/
-!Multiverse/
-!People/
-!Religions/
-!Species/
-!Worldbuilding/
-
-# Add media and templates
-!assets/
+# Add ignore unshared assets
 assets/unshared/
-!_templates/
 
-# Add shared NPCs
-!/NPCs
-NPCs/*
-!/NPCs/Dwarves
-/NPCs/Dwarves/*
-!/NPCs/Dwarves/Vistra Fireforge.md
+# Ignore unshared items
+Things/*
+!/Things/Artifacts of Power
+/Things/Artifacts of Power/*
+!/Things/Artifacts of Power/Circlet of Foreknowledge.md
 
-# Add shared items
-!/Items
-Items/*
-!/Items/Artifacts of Power
-/Items/Artifacts of Power/*
-!/Items/Artifacts of Power/Circlet of Foreknowledge.md
+# Ignore base md files
+/*.md
 
-# Add shared Organizations
-!/Organizations
-Organizations/*
-!/Organizations/The Rangers.md
+# Ignore campaign directories
+Campaigns/
 
+# Ignore dot directories
+.*/
+
+# Include gitignore
+!.gitignore
