@@ -1,6 +1,6 @@
 ### Clenseau Region
 
-The Clenseau region is the area around the significant market town of [[Clenseau]], nestled on the north bank of the River Enst, bounded by the River Enst in the south, the [[Clenseau Wood]] in the north, [[Rinburg]] in the east, and Tavoise in the west.
+The Clenseau region is the area around the significant market town of [[Clenseau]], nestled on the north bank of the River Enst, bounded by the River Enst in the south, the [[Clenseau Wood]] in the north, [[Rinburg]] in the east, and [[Taviose]] in the west.
 
 The river Enst dominates the landscape. It runs swiftly in the spring as snowmelt from the mountains and spring rains pour towards the sea, and in the spring, flooding is frequent. This far upstream, the river is shallow and wide, the shoals often shift, making navigation to the sea impossible this far upriver. The lifeblood of the region are the two major roads that intersect just outside the gates: the [[Great South Road]] and the [[South Watch Road]].  
 
