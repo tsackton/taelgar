@@ -14,4 +14,3 @@ At the climax of the story, the shrine is set alight, marking the death of Jeeva
 
 The next morning, a great procession marks the festival, with costumes and flair and joyous dancing. People gather their contributions to the new shrine, and by some trick of the light or by the magic of the gods these all these individual offerings begin to fuse together. A great feast then follows. 
 
-
