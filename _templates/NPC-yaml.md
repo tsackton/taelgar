@@ -4,13 +4,15 @@ name: <% tp.file.title %>
 species: 
 ancestry: 
 gender: 
-home: 
-homeRegion:
 born: 
 died: 
-affiliations: 
 location: 
 locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
 aliases: []
 tags: [NPC/unsorted]
 ---

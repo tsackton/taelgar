@@ -90,25 +90,25 @@ if (!yearBorn && !yearDied) {
   // has died in or before current year
     ageString = "deceased at unknown age"
     bornString = ""
-    deathString = "d. " + yearDied + "\n"
+    deathString = "d. " + yearDied + "\n>"
   }
 } else if (yearBorn && !yearDied) {
 // known birth year, no death year
   ageString = age + " years old"
   bornString = "b. " + yearBorn
-  deathString = "\n"
+  deathString = "\n>"
 } else if (yearBorn && yearDied) {
 // both birth and death are defined
   if (yearDied > currentYear) {
   // will die in the future //
     ageString = age + " years old"
     bornString = "b. " + yearBorn
-    deathString = "\n"
+    deathString = "\n>"
   } else if (yearDied <= currentYear) {
   // has died in or before current year
     ageString = "deceased at " + age
     bornString = "b. " + yearBorn
-    deathString = ", d. " + yearDied + "\n"
+    deathString = ", d. " + yearDied + "\n>"
   } else {
    // shouldn't get here
    ageString = "ERROR1"
@@ -120,16 +120,16 @@ if (!yearBorn && !yearDied) {
 
 // home location //
 
-let origLocString
+let basedLocString
 
 if (!tp.frontmatter.home && !tp.frontmatter.homeRegion) {
-  origLocString = "unknown"
+  basedLocString = "unknown"
 } else if (!tp.frontmatter.home && tp.frontmatter.homeRegion) {
-  origLocString = "[[" + tp.frontmatter.homeRegion + "]]"
+  basedLocString = "[[" + tp.frontmatter.homeRegion + "]]"
 } else if (tp.frontmatter.home && !tp.frontmatter.homeRegion) {
-  origLocString = tp.frontmatter.home
+  basedLocString = tp.frontmatter.home
 } else {
-  origLocString = tp.frontmatter.home + ", [[" + tp.frontmatter.homeRegion + "]]"
+  basedLocString = tp.frontmatter.home + ", [[" + tp.frontmatter.homeRegion + "]]"
 }
 
 // current location information //
@@ -146,10 +146,24 @@ if (!tp.frontmatter.location && !tp.frontmatter.locationRegion) {
   curLocString = tp.frontmatter.location + ", [[" + tp.frontmatter.locationRegion + "]]"
 }
 
+// current location information //
+
+let origLocString
+
+if (!tp.frontmatter.origin && !tp.frontmatter.originRegion) {
+  origLocString = ""
+} else if (!tp.frontmatter.origin && tp.frontmatter.originRegion) {
+  origLocString = "Originally from: [[" + tp.frontmatter.originRegion + "]]\n>"
+} else if (tp.frontmatter.origin && !tp.frontmatter.originRegion) {
+  origLocString = "Originally from: " + tp.frontmatter.origin + "\n>"
+} else {
+  origLocString = "Originally from: " + tp.frontmatter.origin + ", [[" + tp.frontmatter.originRegion + "]]\n>"
+}
+
 %># <% tp.frontmatter.name %>
 >[!info] Basic information
 ><% speciesString %><% ancString %><% pronouns %>
 ><% bornString %><% deathString %><% ageString %>
->Originally from: <% origLocString %>
+><% origLocString %>Based in: <% basedLocString %>
 >Location (updated <% currentGameTimeEditString %>): <% curLocString %>
 
