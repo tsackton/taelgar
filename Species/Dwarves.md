@@ -18,7 +18,7 @@ Bold, brave (sometimes to the point of foolhardiness) and hardy, dwarves are ren
 
 Their appearance is as varied as the stones they shape: though many have ruddy complexions, with dark or red hair and brown or tan skin, dwarves of all colors are regularly seen in Taelgar. Most dwarven men, and some dwarven women, grow long beards, which they braid with intricate ribbons. As dwarves age, their hair, including their beards, generally turns gray or white, and their faces acquire deep wrinkles, especially around the eyes.
 
-Dwarves mature at a little more slowly than humans. Dwarves typically reach physical maturity at around the age of 25, but are not considered full adults until they reach their age of majority at 36 and make a pilgrimage to [[the Heart of the Mountain]] to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 - 400 years.
+Dwarves mature at a little more slowly than humans. Dwarves typically reach physical maturity at around the age of 25, but are not considered full adults until they reach their age of majority at 36 and make a pilgrimage to [[The Heart of the Mountain]] to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 - 400 years.
 
 ### Bound By Tradition
 
@@ -32,15 +32,15 @@ As one of the Elder races of Taelgar, the Dwarves were created by the [[Bahrazel
 
 ### The Living Mountain
 
-This connection to mountains is expressed most strongly in the home of the [[Bahrazel]], [[the Heart of the Mountain]]. [[The Heart of the Mountain]] is a mystical place, another plane of existence entirely that most dwarves only experience during the ritual of name-taking, when a young dwarf around the age of maturity goes on a pilgrimage to recieve their adult name and thuhr. There are no maps, and few people find it in the same place, but all dwarves find it eventually, after wandering through the passages of their people and the natural passages beneath the mountains.
+This connection to mountains is expressed most strongly in the home of the [[Bahrazel]], [[The Heart of the Mountain]]. [[The Heart of the Mountain]] is a mystical place, another plane of existence entirely that most dwarves only experience during the ritual of name-taking, when a young dwarf around the age of maturity goes on a pilgrimage to recieve their adult name and thuhr. There are no maps, and few people find it in the same place, but all dwarves find it eventually, after wandering through the passages of their people and the natural passages beneath the mountains.
 
-[[The Heart of the Mountain]] is often describe as a massive hall, formed in the shape of a ribcage, but it changes and reshapes itself so no description is ever exactly the same, and many dwarves find the place hard to describe. It is the incarnation of the stone itself, the place where the mountains are alive. When a dwarf finds the chamber during the ritual of name-taking, they usually experience a vision of a significant moment in their lives, learning their thuhr at the same time. At death, dwarves hope to be returned to [[the Heart of the Mountain]] and their name is carved upon the walls of the chamber, to live in the mountains in perpetuity with the [[Bahrazel]].
+[[The Heart of the Mountain]] is often describe as a massive hall, formed in the shape of a ribcage, but it changes and reshapes itself so no description is ever exactly the same, and many dwarves find the place hard to describe. It is the incarnation of the stone itself, the place where the mountains are alive. When a dwarf finds the chamber during the ritual of name-taking, they usually experience a vision of a significant moment in their lives, learning their thuhr at the same time. At death, dwarves hope to be returned to [[The Heart of the Mountain]] and their name is carved upon the walls of the chamber, to live in the mountains in perpetuity with the [[Bahrazel]].
 
 ### Thuhr
 
-All adult dwarves who have completed their naming rite are also a member of a thuhr, a uniquely dwarven institution that is a combination of a guild, a secret society, a mentorship system, and a place to find family outside the traditional strictures of the dwarven clan. There are seven thuhr, each associated with one of the [[Bahrazel]]: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, and Farmer. A dwarves' thuhr is revealed to them during the ritual of name-taking at the age of maturity, when they find [[the heart of the mountain]] and experience the divine revelation of the [[Bahrazel]].
+All adult dwarves who have completed their naming rite are also a member of a thuhr, a uniquely dwarven institution that is a combination of a guild, a secret society, a mentorship system, and a place to find family outside the traditional strictures of the dwarven clan. There are seven thuhr, each associated with one of the [[Bahrazel]]: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, and Farmer. A dwarves' thuhr is revealed to them during the ritual of name-taking at the age of maturity, when they find [[The Heart of the Mountain]] and experience the divine revelation of the [[Bahrazel]].
 
-When a young dwarf learns their thuhr, they will usually apprentice to an elder of the same thuhr to learn a vocation, often traveling far from home for this purpose. The thuhr connect dwarves across clans, and play an important role in keeping dwarven society peaceful and resolving conflicts between clans. Rare Binthuhr dwarves (adults who never completed their pilgrimage to [[the Heart of the Mountain]], and thus never learned their thuhr) challenge the strict traditions of the race and are usually outcasts from dwarven society.
+When a young dwarf learns their thuhr, they will usually apprentice to an elder of the same thuhr to learn a vocation, often traveling far from home for this purpose. The thuhr connect dwarves across clans, and play an important role in keeping dwarven society peaceful and resolving conflicts between clans. Rare Binthuhr dwarves (adults who never completed their pilgrimage to [[The Heart of the Mountain]], and thus never learned their thuhr) challenge the strict traditions of the race and are usually outcasts from dwarven society.
 
 #### Slow To Trust
 
@@ -63,7 +63,6 @@ In the west of Taelgar, there are five great dwarven kingdoms:
 - [[Nardith]], far to the south in the [[Yuvanti Mountains]], a new kingdom founded by refugees fleeing the devastation of the [[great war]] and the old kingdom of [[Ardith]], now growing rich on trade with [[Chardon]] and [[Dunmar]].
 
 ![[dwarven-unnamed-fortress.png]]
-
 
 
 
