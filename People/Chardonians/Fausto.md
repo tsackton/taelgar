@@ -1,4 +1,27 @@
-### Fausto
+---
+type: NPC
+name: Fausto
+species: human
+ancestry: Chardonian
+gender: male
+born: 
+died: 
+location: Chardon
+locationRegion: "Chardonian Empire"
+home: Chardon
+homeRegion: "Chardonian Empire"
+origin:
+originRegion:
+affiliations: ["The Society of the Open Scroll", "The Cleansed"] 
+aliases: []
+tags: [NPC/unsorted]
+---
+# Fausto
+>[!info] Basic information
+>human (Chardonian), he/him
+>unknown age
+>Based in: [[Chardon]], [[Chardonian Empire]]
+>Location (updated November 15, 1748): [[Chardon]], [[Chardonian Empire]]
 
 A poweful enchanter and a major funder of treasure hunters associated with the [[Society of the Open Scroll]], and also apparently a member of a secret organization called [[The Cleansed]]. 
 
