@@ -5,3 +5,4 @@ Bhishma's Feast day, celebrated as a two day festival starting the day before th
 A celebration of Bhishma’s ascension to godhood, as well as [[The Founding of Dunmar]]. The first day is a day of remembrance, the second is a pure celebration, a feast and party holiday, usually celebrated with family and kin, not necessarily involving travel back to villages or temples. 
 
 However, it was a time when the Mystai of Bhishma gathered for their annual council and gathering. 
+
