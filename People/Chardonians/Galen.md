@@ -1,4 +1,27 @@
-### Galen
+---
+type: NPC
+name: Galen
+species: human
+ancestry: Chardonian
+gender: male
+born: 
+died: 
+location: Chardon
+locationRegion: "Chardonian Empire"
+home: Chardon
+homeRegion: "Chardonian Empire"
+origin:
+originRegion:
+affiliations: ["Faculty of Magic", "University of Chardon", "Society of the Open Scroll"] 
+aliases: []
+tags: [NPC/unsorted]
+---
+# Galen
+>[!info] Basic information
+>human (Chardonian), he/him
+>unknown age
+>Based in: [[Chardon]], [[Chardonian Empire]]
+>Location (updated November 15, 1748): [[Chardon]], [[Chardonian Empire]]
 
 A showman, scholar, academic rival of sorts to [[Ulfgar Frostbeard]], and member of the Faculty of Magic at the [[University of Chardon]]. 
 
