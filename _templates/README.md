@@ -1,4 +1,6 @@
-# NPC templates
+# NPCs
+
+## Templates
 
 NPC-yaml automatically inserts the following frontmatter:
 
@@ -35,3 +37,22 @@ Location and locationRegion are the current location of the NPC. This will autom
 Origin and originRegion are where the NPC was born. For most NPCs, this is probably either not relevant or the same as home/homeRegion, and can be left blank. But included in case it is occasionally useful. 
 
 Affiliations is largely for dataview queries to build org charts and the like. 
+
+NPC-header inserts a brief summary table with basic information calculated from yaml frontmatter.
+
+## Tags
+
+Currently working with four main importance tags:
+- Key: an extensively recurring NPC with highly significant plot relevance
+- Major: a recurring NPC or one with plot relevance
+- Minor: an NPC with minor plot relevance, or significant screen time in a single session
+- Background: an NPC with a non-plot-relevant role in a single session, or otherwise  a color/background character
+
+Plus two info tags on top:
+- Unmet: the party has not yet met the NPC, although they have heard of them
+- Unknown: the party does not yet know of this NPC
+
+Plus the special historical tag:
+- Historical: an NPC who is deceased and can't be met.
+
+An NPC cannot have more than one importance tag, and generally all except historical NPCs should have an importance tag. Historical NPCs can have one, but don't need it. 
