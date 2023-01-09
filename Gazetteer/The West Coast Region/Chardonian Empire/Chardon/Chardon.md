@@ -1,4 +1,4 @@
-## Overview of Chardon
+# Overview of Chardon
 
 Chardon is a city of many things. It is the capitol and seat of government of the [[Chardonian Empire]]. It is a major center of learning and magic. It is a trade hub and economic powerhouse.
 
@@ -6,7 +6,7 @@ Growing from a small settlement on the banks of the Chasa river to an outpost of
 
 Like Drankor before it, Chardon is a city full of associations, scholarly societies, and clubs, some more secret than others. Most famous is the Great Library, but many others exist in the city.
 
-### Description
+## Description
 
 As the coastal fog lifts, the first thing you see is the great black bulk of Mt. Nera looming over the city to the north, the occasional glint of light highlighting the obsidian flows that dot the distant slopes of this long extinct volcano. Mt. Nera gradually slopes to the Chase river, which spreads into a wide estuary and fertile floodplain towards the coast.
 
@@ -21,3 +21,8 @@ Upriver, the newer Chardon Bridge is used more by locals, farmers as well as the
 The south bank, where the bulk of the city lies, is dominated by the hundreds of towers of Chardon, concentrated in the south and east of the city, where the Great Library stands. But many other sights and spread across the city: the three great markets and dozens of smaller markets, the Imperial Palace, the Cathedral of the Eight, The Pillar of Victory, Haldir's Tomb, the Hospital of the Mother's Grace, as well as other churches, monuments, and palaces scattered across the skyline.
 
 ![[rsulfuratus_fantasy_medieval_city_magical_wizard_towers_tolkien_3adae1a4-c95d-46e0-a11c-39b2eae36747.png|500]]
+
+## Layout
+
+The map drawn by halflings of the [[Emerald Song]]:
+![[chardon.png]]

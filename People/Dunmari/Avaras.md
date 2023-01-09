@@ -1,5 +1,29 @@
-### Avaras
-(he/him)
+---
+type: NPC
+name: Avaras
+species: human
+ancestry: Dunmari
+gender: male
+born: 1676
+died: 
+location: "Pava and Avaras' House"
+locationRegion: Nashtkar
+home: "Pava and Avaras' House"
+homeRegion: Nashtkar
+origin: Karawa
+originRegion: "Eastern Dunmar"
+affiliations: ["Order of the Awakened Soul"]
+aliases: []
+tags: [NPC/unsorted]
+---
+# Avaras
+>[!info] Basic information
+>human (Dunmari), he/him
+>b. 1676
+>72 years old
+>Originally from: Karawa, [[Eastern Dunmar]]
+>Based in: Pava and Avaras' House, [[Nashtkar]]
+>Location (updated November 15, 1748): Pava and Avaras' House, [[Nashtkar]]
 
 One of the few remaining masters of the [[Order of the Awakened Soul]]. Lives in the [[Garamjala Desert]] with his partner [[Pava]] and apprentice [[Amil]]. 
 
