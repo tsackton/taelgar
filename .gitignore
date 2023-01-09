@@ -1,6 +1,9 @@
 # ignore .DS_Store
 .DS_Store
 
+# ignore DM STUFF
+_DM_/
+
 # Add ignore unshared assets
 assets/unshared/
 
