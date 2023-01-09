@@ -25,4 +25,4 @@ tags: [NPC/unsorted]
 >Based in: Cleenseau, [[Sembara]]
 >Location (updated October 21, 1719): Bandit's Way, [[Greater Sembara]]
 
-The sergeant of the [[Cleenseau Garrison of the Army of the West|River Patrol]], Evelyn is a talented solider and particularly strong and brutal with her favored weapon, a two-handed waraxe.
+The sergeant of the [[Army Garrison of Cleenseau|River Patrol]], Evelyn is a talented solider and particularly strong and brutal with her favored weapon, a two-handed waraxe.
