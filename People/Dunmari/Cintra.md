@@ -26,4 +26,4 @@ tags: [NPC/unsorted, stub]
 
 Supreme Oracle of Shakun.
 
-![[Pasted image 20230109092316.png]]
+![[cintra.png]]
