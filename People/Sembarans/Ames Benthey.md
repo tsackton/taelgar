@@ -25,4 +25,4 @@ tags: [NPC/unsorted]
 >Based in: Cleenseau, [[Sembara]]
 >Location (updated October 21, 1719): somewhere upriver from Cleenseau, [[Sembara]]
 
-The captain of the household guard of [[Essford Manor]], part of the [[Lord's Guard (Cleenseau)|Lord's Guard]] in [[Cleenseau]]. 
+The captain of the household guard of [[Essford Manor]], part of the [[Lord's Guard of Cleenseau|Lord's Guard]] in [[Cleenseau]]. 

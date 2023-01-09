@@ -26,4 +26,4 @@ tags: [NPC/unsorted]
 >Based in: Cleenseau, [[Sembara]]
 >Location (updated October 21, 1719): Cleenseau, [[Sembara]]
 
-Ida is the captain of the [[Cleenseau Garrison of the Army of the West|Cleenseau Garrison]] of the [[Army of the West]]. She is a no-nonsense commander who respects very few people other than [[Rosalind Essford]] and is known for her sharp tongue and legendary capacity for ale. 
+Ida is the captain of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]]. She is a no-nonsense commander who respects very few people other than [[Rosalind Essford]] and is known for her sharp tongue and legendary capacity for ale. 

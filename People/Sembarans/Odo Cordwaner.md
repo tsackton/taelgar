@@ -24,4 +24,4 @@ tags: [NPC/unsorted]
 >Based in: Cleenseau, [[Sembara]]
 >Location (updated October 21, 1719): Taviose, [[Cleenseau]]
 
-The sergeant of the [[Cleenseau Garrison of the Army of the West|Bridge Patrol]] and a loyal solider. 
+The sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] and a loyal solider. 
