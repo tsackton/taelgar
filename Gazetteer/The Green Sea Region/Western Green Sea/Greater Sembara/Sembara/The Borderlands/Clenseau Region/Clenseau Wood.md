@@ -1,6 +1,6 @@
 ### Clenseau Wood
 
-The Wood as it is known locally, is an old growth forest, stretching north of [[Clenseau]] for what is said to be hundreds of miles. The fringes are used for firewood, charcoal gathering, and pig farming, but after a mile or two it becomes wild and trackless.
+The Wood as it is known locally, is an old growth forest, stretching north of [[Cleenseau]] for what is said to be hundreds of miles. The fringes are used for firewood, charcoal gathering, and pig farming, but after a mile or two it becomes wild and trackless.
 
 %% The Clenseau region is bounded by the River Enst in the south, and the Wood in the north -- a dense, trackless forest that is said to stretch for a hundred miles northward towards Ainwick. Few people go more than a mile into the wood, and of those that do, not all return.
 
