@@ -161,9 +161,8 @@ if (!tp.frontmatter.origin && !tp.frontmatter.originRegion) {
 }
 
 %># <% tp.frontmatter.name %>
->[!info] Basic information
+>[!info]+ Basic information
 ><% speciesString %><% ancString %><% pronouns %>
 ><% bornString %><% deathString %><% ageString %>
 ><% origLocString %>Based in: <% basedLocString %>
 >Location (updated <% currentGameTimeEditString %>): <% curLocString %>
-
