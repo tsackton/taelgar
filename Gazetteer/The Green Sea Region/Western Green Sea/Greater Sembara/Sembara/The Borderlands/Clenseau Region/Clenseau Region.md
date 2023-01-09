@@ -12,7 +12,7 @@ Further west, the [[Gastant farm]] two miles down the old west road, and the [[S
 
 To the southwest a small track runs along the Enst, but it peters out after two days. Folks say it used to go all the way to the North Fork, a branch of the Enst some hundred and fifty miles away, but now it has been reclaimed by the wild. 
 
-To the south, the rocky shrubland dominates for a hundred miles, before reaching the rolling valleys near [[Valarin]], where most of the people of [[Maseau]] live. The road used to be dotted with inns and waystations, but these have fallen into disrepair since the Great War. This stretch of road is often called Bandit’s Way, and many ex-soliders make a living escorting caravans between Clenseau and Evis, the northernmost settlement in Maseau along the Great South Road.
+To the south, the rocky shrubland dominates for a hundred miles, before reaching the rolling valleys near [[Valarin]], where most of the people of [[Duchy of Maseau|Maseau]] live. The road used to be dotted with inns and waystations, but these have fallen into disrepair since the Great War. This stretch of road is often called Bandit’s Way, and many ex-soliders make a living escorting caravans between Clenseau and Evis, the northernmost settlement in Maseau along the Great South Road.
 
 ![[clenseau-region-map.jpg]]
 

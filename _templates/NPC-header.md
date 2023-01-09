@@ -139,7 +139,7 @@ let curLocString
 if (!tp.frontmatter.location && !tp.frontmatter.locationRegion) {
   curLocString = "unknown"
 } else if (!tp.frontmatter.location && tp.frontmatter.locationRegion) {
-  curLocString = "[[" + tp.frontmatter.homeRegion + "]]"
+  curLocString = "somewhere, [[" + tp.frontmatter.locationRegion + "]]"
 } else if (tp.frontmatter.location && !tp.frontmatter.locationRegion) {
   curLocString = tp.frontmatter.location
 } else {
