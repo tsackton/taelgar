@@ -23,7 +23,3 @@ The Dunmari also acknowledge the power of the creator gods, [[Shurat]] and [[Sam
 ### Relationships among the Divine
 
 ![[five-siblings-family-tree.png]]
-
-
-
-
