@@ -27,4 +27,4 @@ tags: [NPC/unsorted, stub]
 
 The Speaker of the Mystai of Shakun, the public face of the Temple of Shakun, and the official leader of the Mystai.
 
-![[Pasted image 20230109092105.png]]
+![[candrosa.png]]
