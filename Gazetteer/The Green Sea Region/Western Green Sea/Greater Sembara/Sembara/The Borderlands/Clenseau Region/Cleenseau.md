@@ -1,14 +1,14 @@
 
 
 ### Cleenseau
-*population 1389*
+*population 1189, halflings and human combined*
 *pronounciation Klen-sew*
 
-Clenseau is a small market town of fifteen hundred souls, nestled on the north bank of the River Enst. Situated at a major crossing of the river, it is a natural gathering place and trade crossroads. The reason for the town’s existence, and most important feature, is the massive stone bridge over the River Enst. Built a thousand years ago by the Drankorians (or perhaps, even longer ago by the Giants, some scholars say), it is wide enough for eight oxen; it spans the 1200 feet of the Enst in ten graceful arches.
+Cleenseau is a small market town of fifteen hundred souls, nestled on the north bank of the River Enst. Situated at a major crossing of the river, it is a natural gathering place and trade crossroads. The reason for the town’s existence, and most important feature, is the massive stone bridge over the River Enst. Built a thousand years ago by the Drankorians (or perhaps, even longer ago by the Giants, some scholars say), it is wide enough for eight oxen; it spans the 1200 feet of the Enst in ten graceful arches.
 
-In addition to trade from the south, Clenseau is known for its fine metalworking community.
+In addition to trade from the south, Cleenseau is known for its fine metalworking community.
 
-The town of Clenseau itself stands some five hundred yards from the river, just beyond the road as it curves to follow the course of the river east. The soil here is rocky and poor, and the landscape a mix of small wooded copses and rocky shrubland. The immediate surroundings of the town are fields, hardwon from the rocky soil, and to the east a large cowpasture and woodlot. In the summer, a handful of wooden docks appear along the bank, and small rafts fish for river trout, but these docks often wash away in the spring floods. The lifeblood of the town is the trade that comes along the [[Great South Road]] - without the river crossing, the land would be too marginal to really support such a large concentration of people.  
+The town of Cleenseau itself stands some five hundred yards from the river, just beyond the road as it curves to follow the course of the river east. The soil here is rocky and poor, and the landscape a mix of small wooded copses and rocky shrubland. The immediate surroundings of the town are fields, hardwon from the rocky soil, and to the east a large cowpasture and woodlot. In the summer, a handful of wooden docks appear along the bank, and small rafts fish for river trout, but these docks often wash away in the spring floods. The lifeblood of the town is the trade that comes along the [[Great South Road]] - without the river crossing, the land would be too marginal to really support such a large concentration of people.  
 
 Stretched along the southeastern wall of the town, between the wall and the road, are three inns: [[The Bandit’s End]],  [[The River’s Blessing]],  and [[The Fox’s Flagon]]. But the largest and most important gathering place in the town is the halfling establishment known as the  [[The Crossroads Inn]], an ancient, sprawling building built against the town walls near the south gate. 
 
