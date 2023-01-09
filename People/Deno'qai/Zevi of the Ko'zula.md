@@ -1,6 +1,6 @@
 ---
 type: NPC
-name: Zevi of the Ko'zula
+name: Zevi
 species: human
 ancestry: "Deno'qai"
 gender: male
@@ -16,7 +16,7 @@ affiliations:
 aliases: []
 tags: [NPC/background]
 ---
-# Zevi of the Ko'zula
+# Zevi
 >[!info] Basic information
 >human (Deno'qai), he/him
 >b. 1734
