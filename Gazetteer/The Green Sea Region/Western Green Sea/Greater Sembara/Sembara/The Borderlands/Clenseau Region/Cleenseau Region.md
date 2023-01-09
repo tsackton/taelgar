@@ -1,6 +1,6 @@
-### Clenseau Region
+### Cleenseau Region
 
-The Clenseau region is the area around the significant market town of [[Cleenseau]], nestled on the north bank of the River Enst, bounded by the River Enst in the south, the [[Clenseau Wood]] in the north, [[Rinburg]] in the east, and [[Taviose]] in the west.
+The Clenseau region is the area around the significant market town of [[Cleenseau]], nestled on the north bank of the River Enst, bounded by the River Enst in the south, the [[Cleenseau Wood]] in the north, [[Rinburg]] in the east, and [[Taviose]] in the west.
 
 The river Enst dominates the landscape. It runs swiftly in the spring as snowmelt from the mountains and spring rains pour towards the sea, and in the spring, flooding is frequent. This far upstream, the river is shallow and wide, the shoals often shift, making navigation to the sea impossible this far upriver. The lifeblood of the region are the two major roads that intersect just outside the gates: the [[Great South Road]] and the [[South Watch Road]].  
 
@@ -8,7 +8,7 @@ The nearest villages to Clenseau along the road to the east are the fishing vill
 
 Beyond the marshes the land improves, and there is much good sheepland around the pastoral village of [[Dallet]], and then beyond that a string of fishing villages and farming towns until, 30 miles past Dallet, the town of [[Rinburg]], at the head of navigation of the Enst.
 
-Further west, the [[Gastant farm]] two miles down the old west road, and the [[South Watch Road]] runs past Tavoise, a small hamlet on the edge of the [[Clenseau Wood|Wood]], and then continues roughly straight for 80 miles through the wilderness to [[Dunfry]]. 
+Further west, the [[Gastant farm]] two miles down the old west road, and the [[South Watch Road]] runs past Tavoise, a small hamlet on the edge of the [[Cleenseau Wood|Wood]], and then continues roughly straight for 80 miles through the wilderness to [[Dunfry]]. 
 
 To the southwest a small track runs along the Enst, but it peters out after two days. Folks say it used to go all the way to the North Fork, a branch of the Enst some hundred and fifty miles away, but now it has been reclaimed by the wild. 
 
