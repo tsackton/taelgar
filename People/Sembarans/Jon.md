@@ -1,0 +1,1 @@
+A deputy of Ysabel and gateguard; just 19, but strong and quick with a spear.
