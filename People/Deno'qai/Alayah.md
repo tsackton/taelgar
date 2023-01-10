@@ -28,12 +28,4 @@ The young Godcaller of the [[Te'kula]] tribe in the Elderwood. Dreamed of [[Rai]
 
 Gave her fragment of [[Jade]] to [[Kenzo]] after [[The Dunmar Fellowship]] defeated the green dragon [[Mezzar|Grimbaskal]]. 
 
-%%SECRET
-
-Alayah and Jordo have had many of the same dreams as Kenzo. Have, over the years, done some research on these, and asked for clarification in prayer, so can elaborate on some of the things that Kenzo has seen.
-
-Also, have some new dreams to share (one or more of which Kenzo may experience while in the Elderwood):
-
--   Standing on the ramparts of a walled city facing against a horde of hobgoblins laying siege, working to shape the weave of magic into weapons against them.
--   Riding hard through a war-torn landscape of burning farms and fleeing refugees
--   Watching from a hilltop as a red mist settles into the river valley below, slowly inching towards a large town
+%%SECRET[1]%%
