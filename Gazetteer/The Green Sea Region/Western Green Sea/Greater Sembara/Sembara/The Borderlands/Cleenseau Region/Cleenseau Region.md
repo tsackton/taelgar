@@ -14,5 +14,5 @@ To the southwest a small track runs along the Enst, but it peters out after two 
 
 To the south, the rocky shrubland dominates for a hundred miles, before reaching the rolling valleys near [[Valarin]], where most of the people of [[Duchy of Maseau|Maseau]] live. The road used to be dotted with inns and waystations, but these have fallen into disrepair since the Great War. This stretch of road is often called Bandit’s Way, and many ex-soliders make a living escorting caravans between Cleenseau and Evis, the northernmost settlement in Maseau along the Great South Road.
 
-![[clenseau-region-map.jpg]]
+![[cleenseau-region-map.jpg]]
 
