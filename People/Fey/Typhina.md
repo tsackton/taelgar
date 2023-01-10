@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Typhina
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ### Typhina
 
 A member of the court of the [[Cloudspinner]], killed by [[Agata]]. 

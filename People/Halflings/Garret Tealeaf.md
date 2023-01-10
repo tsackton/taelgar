@@ -1,4 +1,23 @@
 ---
+type: NPC
+name: Garret Tealeaf
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
+---
 aliases: [Garret]
 ---
 

@@ -14,7 +14,7 @@ affiliations:
 location: "Ko'zula village"
 locationRegion:
 aliases: []
-tags: [NPC/background]
+tags: [NPC/unsorted]
 ---
 # Kaslan
 >[!info] Basic information

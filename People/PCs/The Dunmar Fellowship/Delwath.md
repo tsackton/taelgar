@@ -1,3 +1,20 @@
+---
+type: PC
+name: Delwath
+species: elf
+ancestry: 
+gender: male
+born: 
+died: 
+affiliations: 
+origin:
+originRegion: Ainumarya
+aliases: []
+tags: [PC/DunmarFrontier]
+campaign: "The Dunmar Fellowship"
+player: "Mike Sackton"
+yearOverride: 
+---
 # Delwath
 
 ![[delwath-full.jpg]]

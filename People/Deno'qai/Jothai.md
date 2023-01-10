@@ -14,7 +14,7 @@ affiliations:
 location: 
 locationRegion:
 aliases: []
-tags: [NPC/background, NPC/unmet]
+tags: [NPC/unsorted]
 ---
 # Jothai
 >[!info] Basic information

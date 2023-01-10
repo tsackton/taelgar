@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Dag Hardstone
+species: dwarf
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ### Dag Hardstone
 (he/him)
 

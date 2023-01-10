@@ -26,3 +26,7 @@ The south bank, where the bulk of the city lies, is dominated by the hundreds of
 
 The map drawn by halflings of the [[Emerald Song]]:
 ![[chardon.png]]
+
+%% session notes
+Thursday art market in the main market square -- but check actual day with new calendar in session notes
+%%

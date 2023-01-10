@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Lengau
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ## Lengau
 (he/him or she/her, as they desire)
 

@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Frankar
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ### Frankar
 
 [[Seeker]]'s brother. [[Seeker]] told his story in [[Session 23]].
