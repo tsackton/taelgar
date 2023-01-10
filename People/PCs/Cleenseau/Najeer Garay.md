@@ -8,20 +8,18 @@ born: 1700
 died: 
 location: Taviose
 locationRegion: Sembara
-home: PC
-homeRegion:
 origin: Embry
 originRegion: Sembara
 affiliations: 
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword]
+tags: [PC/Cleenseau]
 ---
 # Najeer Garay
 >[!info]+ Basic information
 >human, he/him
 >b. 1700
 >19 years old
->Originally from: Embry, [[Sembara]]
->Based in: PC
+>Originally from: [[Embry]], [[Sembara]]
 >Location (updated October 21, 1719): Taviose, [[Sembara]]
 
 Najeer Garay is the fourth son of [[Susanne Garay]], the matriarch of a wealthy cloth merchant family in [[Embry]]. He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature.  Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected. 
