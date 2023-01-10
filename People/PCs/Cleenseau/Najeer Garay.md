@@ -1,10 +1,10 @@
 ---
 type: PC
-name: Najeen Garay
+name: Najeer Garay
 species: human
 ancestry: 
 gender: male
-born: 1695
+born: 1700
 died: 
 location: Taviose
 locationRegion: Sembara
@@ -15,18 +15,23 @@ originRegion: Sembara
 affiliations: 
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword]
 ---
-# Najeen Garay
+# Najeer Garay
 >[!info]+ Basic information
 >human, he/him
->b. 1695
->24 years old
+>b. 1700
+>19 years old
 >Originally from: Embry, [[Sembara]]
 >Based in: PC
 >Location (updated October 21, 1719): Taviose, [[Sembara]]
 
-The well-dressed son of a cloth merchant from Embry, although the finery of his accessories are much less than the finery of his clothes. 
+Najeer Garay is the fourth son of [[Susanne Garay]], the matriarch of a wealthy cloth merchant family in [[Embry]]. He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature.  Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected. 
 
-> [!INFO]- Najeen's Background (For Chris' Eyes Only)
+He has a weird egg in Brot’s forge that isn’t a topic of public conversation but he seems willing to talk to Izgil about (because Izgil knows Brot mostly) eventually. He is mildly confused by Ceyln but seems to have dropped the initial paranoia. 
+
+A little enamored with Robin probably from the rescue, will tend to defer to any strong-decision Robin puts forth for the time being.
+
+
+> [!INFO]- Najeer's Background (For Chris' Eyes Only)
 Viepuck was born in the capital city of [[Sembara]], [[Embry]], in the year 55 Cece I (or 1641 in the ancient Drankorian reckoning, still used by the learned and scholarly today). He is not sure of this date, it could have been the year before, or perhaps the year after. Viepuck doesn’t remember when his parents died, or what caused it.  He has some vague memories of them, selling…. something.  Though not sure if it was their shop or not.  He was told by the staff at the [[Queen’s Own Home for Children]] that they died in a fire, which is a common enough occurrence in the poorer neighborhoods piled up against the city walls.  
 >
 He has few memories of the Queen’s Own, although in his hazy memories it was a place where he always had a sound roof and adequate food. It was spread over two dormitories set around a central courtyard, and Viepuck fondly remembers the shortcuts he took between the north dormitory, where his friend [[Tal]] was housed, and the south one, for the younger kids like himself.
@@ -63,13 +68,13 @@ That night, he sleeps restlessly, and his dreams are full of odd visions of irid
 > 
 He awakes the morning of October 20th, a Saturday, with a new feeling: the egg needs the blood of something from far away to hatch. Viepuck doesn’t quite understand what the egg means by far away, but senses it means something strange or unnatural.
 
-> [!INFO]- Najeen's Additional Character Info (For Chris' Eyes Only)
+> [!INFO]- Najeer's Additional Character Info (For Chris' Eyes Only)
 >  This section lists the disguises Viepuck has used, so I can keep track if nothing else.
 >
 >**Vala Xendra** (she/her)
 >A poorly dressed lower class servant woman from whereever she needs to be. Usually seen carrying a basket or laundry or some other mundane item. In her late teens.
 >
->**Najeen Garay** (he/him)
+>**Najeer Garay** (he/him)
 > The son of [[Susanne Garay]], a cloth merchant from [[Embry]]. Richly dressed, but lacking the finery (belt, shoes, jewelry) that would usually be associated with fine clothes. An asipiring merchant, looking to expand his family's cloth trade. Talkative and a little bit pompous. In his mid-20s.
 > 
 > **Treph Hardpick** (he/him)
