@@ -4,7 +4,7 @@ name: Tester
 species: human
 ancestry: Chardonian
 gender: male
-born: 1697
+born: 1734
 died: 1755
 home: Chardon
 homeRegion: "Chardonian Empire"
@@ -26,13 +26,15 @@ let ancestry = npcUtils.getAncestry(dv.current().ancestry)
 let age = npcUtils.getAgeString(dv.current().born, dv.current().died,dv.current().yearOverride)
 dv.header(1,dv.current().name)
 let homeLoc = npcUtils.getHomeLoc(dv.current().home, dv.current().homeRegion, dv.current().origin, dv.current().originRegion)
-dv.paragraph(">[!info]+ Biographical Summary" + "\n>" + species + ancestry + ", " + pronouns + "\n>" + age + "\n>" + homeLoc)
+let currentYear = window.FantasyCalendarAPI.getCalendars()[0].current.year
+
+let Overview = dv.sectionLink("Tester.text","Overview")
+let Chronology = dv.sectionLink("Tester.chronology", "Chronology")
+if (currentYear >= dv.current().born) {
+  dv.paragraph(">[!info]+ Biographical Summary" + "\n>" + species + ancestry + ", " + pronouns + "\n>" + age + "\n>" + homeLoc)
+  dv.paragraph(Overview)
+  dv.paragraph(Chronology)
+} else {
+  dv.paragraph("**This person is not yet born**")
+}
 ```
-Still to do:
-figure out how to handle current location. For most NPCs, this is just home location 
-however some NPCs travel around and it is useful to know where they are at any time 
-so ideally want to autogenerate chronology/location sections 
-this would be based I guess on separate notes? probably can't do it with frontmatter
-would query to get all the list items that occur before current day, and return those
-in an ideal world this would allow a single NPC Timelines and NPC Relationships doc and could query those
-more likely need separate notes per NPC at least
