@@ -1,3 +1,12 @@
+// still to do:
+// figure out how to handle current location. For most NPCs, this is just home location //
+// however some NPCs travel around and it is useful to know where they are at any time //
+// so ideally want to autogenerate chronology/location sections //
+// this would be based I guess on separate notes? probably can't do it with frontmatter //
+// would query to get all the list items that occur before current day, and return those //
+// in an ideal world this would allow a single NPC Timelines and NPC Relationships doc and could query those. //
+// more likely need separate notes per NPC at least //
+
 class npcUtils {
     getPronouns(gender,pronouns) {
         
