@@ -14,6 +14,7 @@ origin: Embry
 originRegion: Sembara
 affiliations: 
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword]
+tags: [PC/Cleenseau]
 ---
 # Najeer Garay
 >[!info]+ Basic information

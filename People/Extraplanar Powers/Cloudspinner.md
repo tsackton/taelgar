@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Cloudspinner
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ## The Cloudspinner
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
@@ -17,3 +36,4 @@ Her memories opened [[Session 61]]: ^97cec2
 *So she watches, and she waits, and she hopes, for the day when she will be free, and when [[Amberglow]] will once again be a realm of beauty and wonder. Until then, she will continue to fight, and to dream, and to hold onto the memory of what once was, and what could be again.
 
 *And our story fades from the Cloudspinner, and turns now to the travelers at Lastlight Falls, who may yet have a small role to play in the story of [[Amberglow]].
+

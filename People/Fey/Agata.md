@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Agata
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ### Agata Dustmother
 
 A fey creature, a hag sometimes known as the Old Woman of the Dusts. A plotter and dealmaker who always seems to get the better end of the bargain. 

@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/minor]
+tags: [NPC/unsorted]
 ---
 # Yota
 >[!info] Basic information

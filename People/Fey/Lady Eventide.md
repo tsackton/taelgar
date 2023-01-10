@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Lady Eventide
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ### Lady Eventide
 (she/her)
 

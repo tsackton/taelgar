@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Motua
+species: 
+ancestry: 
+gender: nonbinary
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ## Motua
 (them/they)
 

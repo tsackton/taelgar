@@ -1,7 +1,22 @@
 ---
+type: NPC
+name: Prince of Luck
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
 aliases: [Chanceweaver]
+tags: [NPC/unsorted]
+yearOverride: 
 ---
-
 ## The Prince of Luck
 (he/him)
 

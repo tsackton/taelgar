@@ -1,3 +1,20 @@
+---
+type: PC
+name: Seeker
+species: dwarf
+ancestry: 
+gender: 
+born: 
+died: 
+affiliations: 
+origin:
+originRegion:
+aliases: []
+tags: [PC/DunmarFrontier]
+campaign: "The Dunmar Fellowship"
+player: "Eric Rosenbaum"
+yearOverride: 
+---
 ### Seeker
 
 ![[seeker.jpg|400]]

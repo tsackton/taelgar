@@ -13,7 +13,7 @@ born: 1672
 died: 1744
 affiliations: 
 aliases: []
-tags: [NPC/historical]
+tags: [NPC/unsorted]
 ---
 # Jordo
 >[!info] Basic information

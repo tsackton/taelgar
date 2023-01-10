@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Somi-nai
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ## Somi-nai
 (he/him)
 
