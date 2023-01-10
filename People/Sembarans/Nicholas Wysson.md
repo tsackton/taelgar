@@ -25,3 +25,5 @@ tags: [NPC/unsorted]
 >Location (updated October 21, 1719): Cleenseau, [[Sembara]]
 
 The youngest nephew of a military captain, he was recently appointed magistrate despite having barely more than twenty summers. Clean-shaven and thin, he often appears somewhat lost in thought.
+
+![[nicholas-wysson.png]]
