@@ -14,7 +14,7 @@ origin: Clawyn
 originRegion: Tyrwingha
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [PC/Cleenseau]
 ---
 # Celyn
 >[!info]+ Basic information

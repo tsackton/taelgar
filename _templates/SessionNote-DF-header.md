@@ -1,5 +1,5 @@
 ---
-tags: [DF]
+tags: [DuFr]
 sessionNumber:  <% await tp.system.prompt("Session Number") %>
 realWorldDate: <% await tp.system.prompt("Real World Date MM DD YYYY:") %>
 sessionStartDate: <% await tp.system.prompt("Taelgar Session Start YYYY MM DD:") %>

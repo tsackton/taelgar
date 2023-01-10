@@ -14,7 +14,7 @@ born: 1688
 died: 
 affiliations: 
 aliases: []
-tags: [NPC/minor]
+tags: [NPC/unsorted]
 ---
 # Enon
 >[!info] Basic information

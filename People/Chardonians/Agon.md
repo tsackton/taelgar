@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Society of the Open Scroll"]
 aliases: []
-tags: [NPC/unsorte]
+tags: [NPC/unsorted]
 ---
 # Agon
 >[!info] Basic information

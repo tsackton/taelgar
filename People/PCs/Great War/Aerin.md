@@ -1,20 +1,17 @@
 ---
 type: PC
-name: Rai
+name: Aerin
 species: 
 ancestry: 
-gender: male
+gender: 
 born: 
 died: 
 affiliations: 
 origin:
 originRegion:
 aliases: []
-tags: [PC/GreatWar]
+tags: [PC/GreatWar, stub]
 campaign: "Great War"
-player: "David Kong"
+player: "David Schwartz"
 yearOverride: 
 ---
-### Rai
-
-Hero of the [[Great War]]. 

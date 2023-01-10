@@ -14,7 +14,7 @@ origin: Nidzahar
 originRegion:
 affiliations: 
 aliases: [Durgil Barzinduk]
-tags: [NPC/unsorted]
+tags: [PC/Cleenseau]
 ---
 
 # Izgil Moonseeker

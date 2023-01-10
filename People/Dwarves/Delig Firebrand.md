@@ -1,6 +1,6 @@
 ---
 type: NPC
-name: Ander Charmheart
+name: Delig Firebrand
 species: 
 ancestry: 
 gender: 
@@ -17,6 +17,6 @@ aliases: []
 tags: [NPC/unsorted]
 yearOverride: 
 ---
-### Ander Charmheart
+### Delig Firebrand
 
-A halfling driven mad by contact with the Abyssal energy during the demon summoning at Raven's Hold. Slowly recovering. 
+The cousin of [[Hagrim]], trapped in [[Morkalan]] for many years. During that time lost much of his memory and mind. Known as the Mad Priest.

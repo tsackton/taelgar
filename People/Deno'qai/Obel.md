@@ -14,7 +14,7 @@ affiliations:
 location: "Te'kula village"
 locationRegion: Elderwood
 aliases: []
-tags: [NPC/major]
+tags: [NPC/unsorted]
 ---
 # Obel
 >[!info] Basic information

@@ -1,4 +1,23 @@
-### Wellby
+---
+type: PC
+name: Wellby
+species: halfling
+ancestry: 
+gender: male
+born: 
+died: 
+affiliations: 
+origin:
+originRegion:
+aliases: []
+tags: [PC/DunmarFrontier]
+campaign: "The Dunmar Fellowship"
+player: "David Schwartz"
+yearOverride: 
+---
+
+# Wellby
+
 ![[welby-full.jpg|400]]
 
 > [!warning]- Wellby's Backstory
@@ -143,7 +162,6 @@
 > Hugs and kisses,
 > Dee
 
-^3c01eb
 
 
 
