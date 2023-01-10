@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Society of the Open Scroll"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 ---
 # Alban
 >[!info] Basic information
@@ -25,3 +25,5 @@ tags: [NPC/unsorted]
 >Location (updated November 15, 1748): deceased
 
 One of the adventurers of the [[Society of the Open Scroll]]. Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Eudomes' Tower]], where he was killed. 
+
+%%SECRET[1]%%
