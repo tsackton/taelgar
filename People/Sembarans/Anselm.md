@@ -25,4 +25,6 @@ tags: [NPC/unsorted]
 >Based in: Cleenseau, [[Sembara]]
 >Location (updated October 21, 1719): Cleenseau, [[Sembara]]
 
-The temple administrator of the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] in [[Cleenseau]]. An amiable man but not very religious.
+The temple administrator of the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] in [[Cleenseau]]. An amibitious man and not very religious.
+
+![[anselm.png]]
