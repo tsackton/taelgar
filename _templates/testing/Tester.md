@@ -28,8 +28,9 @@ dv.header(1,dv.current().name)
 let homeLoc = npcUtils.getHomeLoc(dv.current().home, dv.current().homeRegion, dv.current().origin, dv.current().originRegion)
 let currentYear = window.FantasyCalendarAPI.getCalendars()[0].current.year
 
-let Overview = dv.sectionLink("Tester.text","Overview")
-let Chronology = dv.sectionLink("Tester.chronology", "Chronology")
+let Overview = await dv.io.load("_templates/testing/Tester.text.md")
+let Chronology = await dv.io.load("_templates/testing/Tester.chronology.md")
+
 if (currentYear >= dv.current().born) {
   dv.paragraph(">[!info]+ Biographical Summary" + "\n>" + species + ancestry + ", " + pronouns + "\n>" + age + "\n>" + homeLoc)
   dv.paragraph(Overview)
