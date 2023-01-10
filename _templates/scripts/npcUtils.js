@@ -142,3 +142,10 @@ class npcUtils {
         return "Based in: " + homeLoc + originLoc
     }
 }
+
+// still to do:
+// ideally want to autogenerate relationships and chronology sections
+// this would be based I guess on separate notes? probably can't do it with frontmatter
+// would query to get all the list items that occur before current day, and return those
+// in an ideal world this would allow a single NPC Timelines and NPC Relationships doc and could query those. 
+// more likely need separate notes per NPC at least
