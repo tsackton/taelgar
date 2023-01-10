@@ -17,17 +17,43 @@ aliases: []
 tags: [NPC/unsorted]
 ---
 # Vola Forena
->[!info] Basic information
+>[!info]+ Basic information
 >human (Chardonian), she/her
 >b. 1721
 >27 years old
 >Based in: Chardon, [[Chardonian Empire]]
 >Location (updated November 15, 1748): somewhere, [[Dunmar]]
 
-A Chardonian adventurer, treasure hunter, and sellsword. Rescued by the party from imprisonment in Raven's Hold. 
+## Overview
 
-Vola was born on the streets of [[Chardon]], living a life of squalor, disease, and poverty. Grew up in the Riverside slurms, near the chalyte refineries. Eventually discovered by [[Agon]], who helped her grow into her power and fulfill her potential. 
+A Chardonian adventurer, treasure hunter, and sellsword.
 
-Dedicated to the cause of the [[Society of the Open Scroll]], but friendly with the party and especially [[Kenzo]], given their similar childhoods. 
+Vola was born on the streets of [[Chardon]], living a life of squalor, disease, and poverty. Grew up in the Riverside slurms, near the chalyte refineries. %%SECRET[1]%% Eventually discovered by [[Agon]], who helped her grow into her power and fulfill her potential. %%SECRET[2]%% She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [[Agon]] and the [[Society of the Open Scroll]]. 
 
-%%SECRET[1]%%
+She is dedicated to the cause of the [[Society of the Open Scroll]], believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations. 
+
+%%SECRET[3]%%
+
+![[Pasted image 20230109180349.png|400]]
+
+## Relationships
+
+- Friendly with [[The Dunmar Fellowship]], especially with [[Kenzo]], who had a similar childhood in Chardon. Somewhat awed by [[Delwath]]. Less friendy with [[Riswynn]], largely because or [[Riswynn]]'s distain. 
+- Friendly with other adventurers for the Society of the Open Scroll, in particular [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]]
+- Looks up to her mentor, [[Agon]]
+- Knows many other Chardonians, including [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]],  whom she traveled with in early 1748. Particularly friendly with [[Marcella]]. Dislikes [[Casian]], whom she considers an arrogant snob who believes he can take whatever he wants. 
+
+## Chronology
+%%SECRET[4]%%
+- late 1747 - early 1748: travels with [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]], leaving Chardon, crossing Nevos Sea, traveling to Nayahar and then across the Yuvanti mountains to Askandi.  
+%%SECRET[5]%%
+- 5 Mar 1748: Leaves Askandi for Raven's Hold
+- 31 Mar 1748: Vola arrives at Raven's Hold. 
+- 2 Apr 1748: Vola captured at Raven's Hold. 
+- 12 Apr 1748: Rescued from captivity in Raven's Hold by [[The Dunmar Fellowship]]
+- 12 Apr - 16 Apr 1748: Travels with [[The Dunmar Fellowship]]
+- 16 Apr 1748: Leaves [[Eudomes' Tower]] with [[Riswynn]] for Tokra, saying goodbye to [[The Dunmar Fellowship]]
+- 26 Apr 1748: Arrives in Tokra. Parts ways with [[Riswynn]]. Stays at [[Kirian’s]]. 
+%%SECRET[6]%%
+- 21 Aug 1748: Meets [[The Dunmar Fellowship]] in Chardon at [[The Thirsty Scholar]]; reports on news and makes introductions to [[Dee Wildcloak]] and [[Dain Goldhammer]].  
+%%SECRET[7]%%

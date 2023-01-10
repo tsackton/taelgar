@@ -12,8 +12,8 @@ home: Chardon
 homeRegion: "Chardonian Empire"
 origin:
 originRegion:
-affiliations: 
-aliases: ["Faculty of Magic", "University of Chardon", "Society of the Open Scroll"]
+affiliations: ["Faculty of Magic", "University of Chardon", "Society of the Open Scroll"]
+aliases: []
 tags: [NPC/unsorted]
 ---
 # Roscelia
