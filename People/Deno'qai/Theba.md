@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/major]
+tags: [NPC/unsorted]
 ---
 # Theba
 >[!info] Basic information

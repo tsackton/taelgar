@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/background]
+tags: [NPC/unsorted]
 ---
 # Zevi
 >[!info] Basic information

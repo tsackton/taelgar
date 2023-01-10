@@ -1,3 +1,20 @@
+---
+type: PC
+name: Kenzo
+species: human
+ancestry: Dunmari
+gender: male
+born: 
+died: 
+affiliations: 
+origin:
+originRegion:
+aliases: []
+tags: [PC/DunmarFrontier]
+campaign: "The Dunmar Fellowship"
+player: "David Kong"
+yearOverride: 
+---
 ## Kenzo
 
 ![[kenzo-full.jpg|400]]

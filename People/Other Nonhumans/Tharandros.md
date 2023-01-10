@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Tharandros
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ### Tharandros
 
 A centaur, the leader of a herd who the party met traveling across the northern plains of [[Dunmar]]. Convinced to aid [[Karawa]], and proved crucial in driving off gnoll attacks. 

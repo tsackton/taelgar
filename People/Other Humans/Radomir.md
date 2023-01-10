@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Radomir
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ## Radomir
 
 A man from a strange place to the east.

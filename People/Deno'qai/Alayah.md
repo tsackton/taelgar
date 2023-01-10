@@ -14,7 +14,7 @@ originRegion:
 born: 1725
 died: 
 aliases: []
-tags: [NPC/major]
+tags: [NPC/unsorted]
 ---
 # Alayah
 >[!info] Basic information

@@ -1,3 +1,22 @@
+---
+type: NPC
+name: Illaran
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
+aliases: []
+tags: [NPC/unsorted]
+yearOverride: 
+---
 ## Illaran 
 (he/him)
 

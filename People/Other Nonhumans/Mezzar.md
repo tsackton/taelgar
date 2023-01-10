@@ -1,5 +1,21 @@
 ---
+type: NPC
+name: Mezzar
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+location: 
+locationRegion:
+home: 
+homeRegion:
+origin:
+originRegion:
+affiliations: 
 aliases: [Grimbaskal]
+tags: [NPC/unsorted]
+yearOverride: 
 ---
 
 ### Mezzar

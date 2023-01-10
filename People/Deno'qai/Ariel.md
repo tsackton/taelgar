@@ -14,7 +14,7 @@ born: 1674
 died: 
 affiliations: 
 aliases: []
-tags: [NPC/minor]
+tags: [NPC/unsorted]
 ---
 # Ariel
 >[!info] Basic information
