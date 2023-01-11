@@ -25,3 +25,5 @@ tags: [NPC/unsorted]
 >Location (updated October 21, 1719): Valit, [[Sembara]]
 
 Perrin Voclain is a sage and druid who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]].
+
+![[perrin-the-druid.png]]
