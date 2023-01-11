@@ -13,6 +13,10 @@ originRegion:
 affiliations: 
 aliases: [Durgil Barzinduk, Izgil]
 tags: [PC/Cleenseau]
+campaign: "Cleenseau"
+player: "Matt Rand"
+yearOverride: 
+---
 ---
 
 # Izgil Moonseeker
