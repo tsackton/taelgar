@@ -1,6 +1,5 @@
 ---
-aliases: [Robin]
-type: NPC
+type: PC
 name: Robin of Abenfyrd
 species: human 
 ancestry: Tyrwinghan
@@ -12,6 +11,9 @@ locationRegion: Sembara
 origin: Abenfyrd
 originRegion: Tyrwingha
 affiliations: 
+campaign: "Cleenseau"
+player: "Dan Walters"
+aliases: [Robin]
 tags: [PC/Cleenseau]
 ---
 # Robin of Abenfyrd

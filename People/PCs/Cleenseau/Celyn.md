@@ -13,6 +13,10 @@ originRegion: Tyrwingha
 affiliations: 
 aliases: []
 tags: [PC/Cleenseau]
+campaign: "Cleenseau"
+player: "Kiya Nicoll"
+yearOverride: 
+---
 ---
 # Celyn
 >[!info]+ Basic information

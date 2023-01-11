@@ -11,8 +11,11 @@ locationRegion: Sembara
 origin: Embry
 originRegion: Sembara
 affiliations: 
-aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword]
+aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer]
 tags: [PC/Cleenseau]
+campaign: "Cleenseau"
+player: "Chris Kelly"
+yearOverride: 
 ---
 # Najeer Garay
 >[!info]+ Basic information
