@@ -2,9 +2,9 @@
 type: PC
 name: Beryl
 species: human
-ancestry: 
+ancestry: Isinguen
 gender: male
-born: 
+born: 1510
 died: 1545
 affiliations: 
 origin:
