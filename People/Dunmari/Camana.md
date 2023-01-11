@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Havdar's Warriors"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/aware, NPC/DuFr/background]
 ---
 # Camana
 >[!info] Basic information
@@ -24,4 +24,6 @@ tags: [NPC/unsorted]
 >Based in: [[Eastern Dunmar]]
 >Location (updated November 15, 1748): deceased
 
-The leader of [[Havdar]]'s scouts; she died in battle against [[Grash]]'s [[orcs]]. 
+A Dunmari warrior, archer, and scout. She is associated with [[Havdar]] and his warrior band, and functions as the leader of his scouting group. 
+
+In May 1748, she died in battle fighting [[orcs]] affiliated with [[Grash]] in the desert west of [[Kharsan]]. [[Havdar]] gifted her [[Flaming Bowstring]] to [[Wellby]] in thanks for the aid of [[The Dunmar Fellowship]] in battle. 
