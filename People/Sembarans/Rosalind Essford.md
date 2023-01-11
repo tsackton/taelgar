@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: [Lady Essford, Lady Rosalind Essford]
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Rosalind Essford
 >[!info]+ Basic information

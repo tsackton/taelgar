@@ -14,7 +14,7 @@ origin: "[[Dunfry]]"
 originRegion: Sembara
 affiliations: ["[[Army of the West]]"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 
 # Ida Rosfeld

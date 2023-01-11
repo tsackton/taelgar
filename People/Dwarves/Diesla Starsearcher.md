@@ -14,7 +14,7 @@ origin: Ardith
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Diesla Starsearcher
 >[!info]+ Basic information
