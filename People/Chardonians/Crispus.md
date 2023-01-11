@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Great Library"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 ---
 # Crispus
 >[!info] Basic information
@@ -24,4 +24,6 @@ tags: [NPC/unsorted]
 >Based in: [[Chardon]], [[Chardonian Empire]]
 >Location (updated November 15, 1748): [[Chardon]], [[Chardonian Empire]]
 
-A senior Archivist at the [[Great Library]], in charge of organizing adventuring expeditions. 
+A senior Archivist at the [[Great Library]], in charge of external mercenary contracts, with general responsibility for organizing missions to recover lost treasures for the Great Library. 
+
+%%SECRET[1]%%
