@@ -26,3 +26,5 @@ tags: [NPC/unsorted]
 >Location (updated October 21, 1719): Cleenseau, [[Sembara]]
 
 A newcomer to town and acolyte of the Night Queen. Eremon is well-travelled and a personal friend of [[Rosalind Essford|Rosalind's]]. He walks with a pronounced limp.  He was from [[Fellburn]] originally and left shortly after [[Cece I]] died. What he has been doing for the last seven years is not clear.
+
+![[eremon.png]]

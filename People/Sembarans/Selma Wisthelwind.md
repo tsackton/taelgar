@@ -25,3 +25,5 @@ tags: [NPC/unsorted]
 >Location (updated October 21, 1719): Cleenseau, [[Sembara]]
 
 The firey properitor of [[The Fox’s Flagon]]. 
+
+![[selma-wisthelwind.png]]
