@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Lord's Guard (Cleenseau)"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 
 # Ames Benthey
