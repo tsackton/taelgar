@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Havdar's Warriors"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/minor, NPC/unsorted]
 ---
 # Aram
 >[!info] Basic information
@@ -23,4 +23,4 @@ tags: [NPC/unsorted]
 >Based in: unknown
 >Location (updated November 15, 1748): Sura's army camp, [[Central Dunmar]]
 
-A holy warrior of [[Aagir]] in [[Havdar]]'s service.
+A holy warrior of [[Aagir]] in [[Havdar]]'s service, and one

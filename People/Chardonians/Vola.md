@@ -34,7 +34,7 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 
 %%SECRET[4]%%
 
-![[Pasted image 20230109180349.png|400]]
+![[vola.png|400]]
 
 ## Relationships
 

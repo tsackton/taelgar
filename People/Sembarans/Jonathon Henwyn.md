@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 
 # Jonathon Henwyn

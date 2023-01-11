@@ -31,7 +31,7 @@ A short, quick-footed woman, with a nondescript face, short, black hair and ligh
 
 %%SECRET[1]%%
 
-![[Pasted image 20230110093616.png|400]]
+![[alesh.png|400]]
 
 ## Relationships
 - Friendly with most people of [[Karawa]], but fairly independent and not particularly associated with either [[Havdar]]'s warriors or [[Candrosa]] and the [[Shakun Mystai]]. Finds [[Havdar]] a bit brash. 

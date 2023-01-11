@@ -14,7 +14,7 @@ origin: Ainswick
 originRegion: Sembara
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 
 # Annet Bybet

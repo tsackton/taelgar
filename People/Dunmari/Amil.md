@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Order of the Awakened Soul"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/minor]
 ---
 # Amil
 >[!info] Basic information
@@ -24,4 +24,15 @@ tags: [NPC/unsorted]
 >Based in: [[Pava and Avaras' House]], [[Nashtkar]]
 >Location (updated November 15, 1748): [[Pava and Avaras' House]], [[Nashtkar]]
 
-An apprentice in the [[Order of the Awakened Soul]], training with [[Pava]] and [[Avaras]].
+A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
+
+## Chronology
+%%SECRET[1]%%
+- 27 Apr 1748: Arrives in Bas Udda to tend the unburied dead from the gnoll attacks
+- 29 Apr 1748: Meets [[Havdar]] and [[The Dunmar Fellowship]], who aid him in his task. 
+- 30 Apr 1748: Leaves Bas Udda with The Dunmar Fellowship, traveling to his masters' house in the desert
+- 2 May 1748: Arrives at Pava and Avaras' House with The Dunmar Fellowship. 
+- 17 May 1748: At Pava and Avaras' House when [[The Dunmar Fellowship]] spend the night
+%%SECRET[2]%%
+
+%%SECRET[3]%%
