@@ -6,9 +6,9 @@ aliases: [dwarf, Dwarf, Dwarves, dwarves]
 
 ![[dwarven-hall-of-gems.png]]
 
+> [!quote] Dwarven Prayer of Naming, excerpt
 > Far under the mountains, long ago the First were made from solid stone. Born to delve and craft and seek, the [[Bahrazel]] made our mountain homes: Uzdan, the Ruler, leader of people; Karthel, the Runecrafter, shaper of magic; Fanrukel, the Priest, keeper of lore; Tarbaka, the Stoneworker, lord of the forge; Azar, the Warrior, defender of cities; Maganna, the Traveler, delver and miner; and Oshkir, the Farmer, provider and healer. May their wisdom and protection guide you to your name and place. See now the past and the future as one.
 
-\- *Dwarven Prayer of Naming, excerpt*
 
 Deep in the mountains, a glittering hall of crystal and light, enchanted with glowing runes. The echoes of hammers and picks delving for silver, forging iron and steel; and the slow tap-tap-tap of a crafter carefully shaping a cave of wonder beneath the mountains. Towering stone fortresses in the hills, full of beautiful stonework and ancient runes of power and protection. An abiding commitment to clan and family and thuhr. These are the common threads of dwarven life. 
 
@@ -44,7 +44,7 @@ When a young dwarf learns their thuhr, they will usually apprentice to an elder 
 
 #### Slow To Trust
 
-Dwarven kingdoms are generally friendly to other races, but are rarely close allies. They tend to treat “younger” races, especially halflings and humans, as valuable members of the kingdom, but generally still as outsiders.
+Dwarven kingdoms are generally friendly to other races, but are rarely close allies. They tend to treat “younger” races, especially [[halflings]] and humans, as valuable members of the kingdom, but generally still as outsiders.
 
 However, dwarven kingdoms are often close allies with the Stoneborn, who share their mountain home and a long history of alliance in battle.
 
@@ -66,8 +66,15 @@ In the west of Taelgar, there are five great dwarven kingdoms:
 
 
 
+#### Dwarven Names
+A dwarf’s name is revealed to them when they find the Heart of the Mountain, and holds a deep place in the traditions of clan and caste. All dwarf names are used and reused over centuries and revered down the generations. Young dwarves who have not made their pilgrimage yet (and are thus caste-less and nameless) go by diminutive nicknames given by their parents (these names tend to be one syllable and are genderless in Dwarf society).  
 
+Dwarves ascribing meaning to their clan names and often render them in the trade tongue when introducing themselves, and thus these clans are presented in English here. This tradition is not universal, and of course some dwarves may introduce themselves with dwarven clan names.
+  
+**Male Names:** Adrik, Alberich, Baern, Barendd, Brottor,  Bruenor, Dain, Darrak, Delg, Eberk, Einkil, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek,  Traubon, Travok, Ulfgar, Veit, Vondal
 
+**Female Names:** Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
 
+**Child Names:** Adi, Art, Bar, Brot, Dag, Del, Ein, Eld, Gunn, Kat, Kel, Mar, Osk, Ris, Rur, Tak, Tor, Tra, Ulf, Von, Vis
 
-
+**Clan Names:** Battlehammer, Boulderlock, Brawnanvil, Cragfire, Deepmine, Fireforge, Frostbeard, Goldborn, Hardcrown, Highkeep, Ironfist, Redbeard, Rockhammer, Sparkhorn, Stronghelm, Stoneaxe
