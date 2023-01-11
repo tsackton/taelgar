@@ -17,7 +17,6 @@ campaign: "Cleenseau"
 player: "Kiya Nicoll"
 yearOverride: 
 ---
----
 # Celyn
 >[!info]+ Basic information
 >human (Tyrwinghan), he/him

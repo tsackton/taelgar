@@ -27,3 +27,5 @@ yearOverride:
 >Location (updated October 21, 1719): Ganboa, [[Semabara]]
 
 A reclusive druid, very rarely talks to outsiders.
+
+![[lizardfolk-koldo.png]]

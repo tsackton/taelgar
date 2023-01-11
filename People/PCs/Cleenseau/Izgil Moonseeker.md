@@ -17,8 +17,6 @@ campaign: "Cleenseau"
 player: "Matt Rand"
 yearOverride: 
 ---
----
-
 # Izgil Moonseeker
 >[!info]+ Basic information
 >dwarf, he/him

@@ -27,3 +27,5 @@ yearOverride:
 
 
 An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies.
+
+![[lizardfolk-gentza.png]]

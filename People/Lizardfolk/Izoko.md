@@ -26,4 +26,5 @@ yearOverride:
 >Location (updated October 21, 1719): Ganboa, [[Semabara]]
 
 
-A young lizardfolk, sweet on Gentza
+A young lizardfolk, sweet on [[Gentza]].
+![[lizardfolk-Izoko.png]]
