@@ -14,7 +14,7 @@ origin: Am'khazar
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 
 # Brot Starsearcher

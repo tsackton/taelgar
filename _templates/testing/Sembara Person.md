@@ -12,7 +12,7 @@ origin: OldTown
 originRegion: "Lost Empire"
 affiliations: ["Great Library"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/testing]
 yearOverride: 
 cssClasses: embed-strict
 ---

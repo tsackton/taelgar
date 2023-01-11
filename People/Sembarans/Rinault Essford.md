@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: [Lord Rinault, Lord Rinault Essford]
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Rinault Essford
 >[!info]+ Basic information

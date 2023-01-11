@@ -2,7 +2,7 @@
 type: NPC
 name: Makha
 species: kenku
-ancestry: 
+ancestry: Islander
 gender: male
 born: 1712
 died: 
@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/background]
 ---
 # Makha
 >[!info] Basic information
@@ -24,6 +24,6 @@ tags: [NPC/unsorted]
 >Based in: [[Wahacha]], [[Vermillion Isles]]
 >Location (updated November 15, 1748): [[Wahacha]], [[Vermillion Isles]]
 
-Port master and unofficial town spokesperson for the kenku settlement of [[Wahacha]].  
+The port master and unofficial town spokesperson for the kenku settlement of [[Wahacha]].  
 
 ![[makha.png|500]]

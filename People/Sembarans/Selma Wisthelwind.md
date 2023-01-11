@@ -13,7 +13,7 @@ origin: "[[Ardlas]]"
 originRegion: Greater Sembara
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Selma Wisthelwind
 >[!info]+ Basic information
