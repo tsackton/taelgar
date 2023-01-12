@@ -30,3 +30,5 @@ The map drawn by halflings of the [[Emerald Song]]:
 %% session notes
 Thursday art market in the main market square -- but check actual day with new calendar in session notes
 %%
+
+%%SECRET[1]%%

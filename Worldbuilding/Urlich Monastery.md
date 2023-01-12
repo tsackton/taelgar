@@ -1,0 +1,1 @@
+Monastery (destroyed)  in the [[~CentralMountains~]], significant as the site of the final battle against Cha'mutte
