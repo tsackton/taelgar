@@ -4,7 +4,7 @@ name: Akan
 species: human
 ancestry: Dunmari
 gender: male
-born: 
+born: 1693
 died: 
 location: 
 locationRegion:
@@ -17,13 +17,18 @@ aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 ---
 # Akan
->[!info] Basic information
+>[!info]+ Basic information
 >human (Dunmari), he/him
->unknown age
->Based in: [[Eastern Dunmar]]
+>b. 1693
+>55 years old
+>Based in: area north and east of Karawa, [[Eastern Dunmar]]
 >Location (updated November 15, 1748): unknown
 
+<%+ tp.user.getAgeBasedValue(tp) %>
+
 A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, typical of the Dunmari in the eastern region of the country. 
+
+%%SECRET[1]%%
 
 ## Chronology
 22 Mar 1748: Attacked with his extended family at the [[Gomat]] oasis by enraged giant lizards. One of the few survivors. 

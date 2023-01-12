@@ -3,20 +3,28 @@ type: NPC
 name: Jayden
 species: human
 ancestry: Dunmari
-gender: 
-born: 
+gender: female
+born: 1729
 died: 
 location: 
 locationRegion:
-home: 
-homeRegion:
+home: Karawa
+homeRegion: "Eastern Dunmar"
 origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 ---
-### Jayden
+# Jayden
+>[!info]+ Basic information
+>human (Dunmari), she/her
+>b. 1729
+>19 years old
+>Based in: Karawa, [[Eastern Dunmar]]
+>Location (updated November 15, 1748): unknown
 
-A blindingly fast woman who was the runner up in the staff dancing contest prior to the [[Festival of Rebirth]], beaten only by [[Kenzo]]. 
+A quick and aerobatic Dunmari woman from Karawa. 
+
+In April 1748, entered the staff dancing contest prior to the [[Festival of Rebirth]], and won second place, beaten only by [[Kenzo]]. 

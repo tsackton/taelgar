@@ -1,4 +1,8 @@
 function getPageDatedValue(tp, strings) {
+
+    if (!strings) {
+        strings = ""
+    }
             
     let preExistError = "(not yet born)";
     let startPrefix = "b.";

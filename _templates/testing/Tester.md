@@ -39,3 +39,6 @@ if (currentYear >= dv.current().born) {
   dv.paragraph("**This person is not yet born**")
 }
 ```
+
+My paragraph [[Tester]] asf asd 
+{ .time-event data-applies-to-date='1748 1749' }

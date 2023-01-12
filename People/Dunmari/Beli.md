@@ -4,7 +4,7 @@ name: Beli
 species: human
 ancestry: Dunmari
 gender: female
-born: 
+born: 1720
 died: 
 location: Karawa
 locationRegion: "Eastern Dunmar"
@@ -14,13 +14,18 @@ origin:
 originRegion:
 affiliations: ["Shakun mystai"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/background]
 ---
 # Beli
->[!info] Basic information
+>[!info]+ Basic information
 >human (Dunmari), she/her
->unknown age
+>b. 1720
+>28 years old
 >Based in: Karawa, [[Eastern Dunmar]]
 >Location (updated November 15, 1748): Karawa, [[Eastern Dunmar]]
 
-Met in [[session 1]], in [[Karawa]]; an initiate of the [[Shakun Mystai]] who helped in the battle with the giant hyenas, and aided with healing after the battle.
+An initiate of the [[Shakun Mystai]], a young woman skilled in healing and midwifery, with a hint of divine magic about her.
+
+%%SECERT In Dec 1745, assisted in the birth of Cintra's daughter, Jumi.  %%
+
+In March 1748, helped the [[The Dunmar Fellowship]] battle giant hyenas attacking Karawa. 
