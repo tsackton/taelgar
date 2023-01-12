@@ -1,16 +1,16 @@
-function getPronouns(gender,pronouns) {
+function getPronouns(tp) {
         
     // if pronouns are defined in note metadata, use those
     
-    if (pronouns) {
+    if (tp.frontmatter.pronouns) {
         return pronouns
     }
 
     // otherwise calculate pronouns from note metadata gender
     
-    if (gender == "male") {
+    if (tp.frontmatter.gender == "male") {
         return "he/him"
-    } else if (gender == "female") {
+    } else if (tp.frontmatter.gender == "female") {
         return "she/her"
     } 
 

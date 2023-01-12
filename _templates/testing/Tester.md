@@ -1,44 +1,65 @@
 ---
 type: NPC
 name: Tester
-species: human
-ancestry: Chardonian
-gender: male
-born: 1734
+species: 
+ancestry:
+gender: 
+born: 1721
 died: 1755
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin: OldTown
-originRegion: "Lost Empire"
+location: 
+locationRegion:
+home: 
+homeRegion: 
+origin: 
+originRegion: 
+affiliations: 
 affiliations: ["Great Library"]
 aliases: []
 tags: [NPC/testing]
 yearOverride: 
+lastSeenByParty_DuFr: 
+whereabouts: 
+- {dateAr: 0001-01-01, place: "", region: }
 ---
+
+home: "Whitsun District, Chardon"
+homeRegion: "Chardonian Empire"
+origin: "Arendum, Chasa River Valley"
+originRegion: "Chardonian Empire"
+
+
+
+
+# Tester
+>[!info]+ Basic information
+>unknown species, they/them
+>`$=dv.view(agefunction, {"currentYear" : 1748})`
+>
+>
+
 
 ```dataviewjs
 
 await forceLoadCustomJS();
-const {npcUtils} = customJS
-let pronouns = npcUtils.getPronouns(dv.current().gender, dv.current().pronouns)
-let species = npcUtils.getSpecies(dv.current().species)
-let ancestry = npcUtils.getAncestry(dv.current().ancestry)
-let age = npcUtils.getAgeString(dv.current().born, dv.current().died,dv.current().yearOverride)
-dv.header(1,dv.current().name)
-let homeLoc = npcUtils.getHomeLoc(dv.current().home, dv.current().homeRegion, dv.current().origin, dv.current().originRegion)
+const {metadataUtils} = customJS
+let metadata = dv.current()
+let Name = metadata.name
+
 let currentYear = window.FantasyCalendarAPI.getCalendars()[0].current.year
+let existYear = metadataUtils.get_existYear(metadata)
+let Pronouns = metadataUtils.get_Pronouns(metadata)
+let Species = metadataUtils.Reformat(metadata, "species", "", "", "unknown species")
+let Ancestry = metadataUtils.Reformat(metadata, "ancestry", " (", ") ", "")
+let PageDatedValue = metadataUtils.get_PageDatedValue(metadata,existYear)
 
-let Overview = await dv.io.load("_templates/testing/Tester.text.md")
-let Chronology = await dv.io.load("_templates/testing/Tester.chronology.md")
 
-if (currentYear >= dv.current().born) {
-  dv.paragraph(">[!info]+ Biographical Summary" + "\n>" + species + ancestry + ", " + pronouns + "\n>" + age + "\n>" + homeLoc)
-  dv.paragraph(Overview)
-  dv.paragraph(Chronology)
+let BLOCKSTRING_EXIST = "# " + Name + "\n>[!info]+ Biographical Summary" + "\n>" + dv.fileLink(Species) + Ancestry + ", " + Pronouns + "\n>" + PageDatedValue + "\n"
+let BLOCKSTRING_NOTEXIST = "# " + Name + "\n>[!fail] **This entity does not yet exist!**"
+
+if (currentYear >= existYear) {
+  dv.paragraph(BLOCKSTRING_EXIST)
 } else {
-  dv.paragraph("**This person is not yet born**")
+  dv.paragraph(BLOCKSTRING_NOTEXIST)
 }
 ```
 
-My paragraph [[Tester]] asf asd 
-{ .time-event data-applies-to-date='1748 1749' }

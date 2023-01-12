@@ -8,6 +8,15 @@
 // more likely need separate notes per NPC at least //
 
 class metadataUtils {
+    Reformat(metadata, value, front_string, end_string, unknown_value) {
+        if (metadata[value]) {
+            return front_string + metadata[value] + end_string
+        }
+        else {
+            return unknown_value
+        }
+    }
+
     get_existYear(metadata) {
         let yearStart = metadata.born;
         if (yearStart == undefined) yearStart = metadata.built;
