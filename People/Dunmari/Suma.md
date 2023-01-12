@@ -3,21 +3,26 @@ type: NPC
 name: Suma
 species: human
 ancestry: Dunmari
-gender: 
-born: 
+gender: female
+born: 1707
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
+location: Karawa
+locationRegion: "Eastern Dunmar"
+home: Karawa
+homeRegion: "Eastern Dunmar"
 origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met, NPC/unsorted]
 yearOverride: 
 ---
-### Suma
-(she/her)
+# Suma
+>[!info]+ Basic information
+>human (Dunmari), she/her
+>b. 1707
+>41 years old
+>Based in: Karawa, [[Eastern Dunmar]]
+>Location (updated November 15, 1748): Karawa, [[Eastern Dunmar]]
 
-The priestess of [[Jeevali]] in [[Karawa]]. 
+The priestess of the temple of [[The Five Siblings of the Dunmari|The Five Siblings]] in [[Karawa]]. 
