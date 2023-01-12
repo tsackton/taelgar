@@ -5,7 +5,8 @@ species: human
 ancestry: Chardonian
 gender: male
 born: 
-died: 
+died: 1748
+endStatus: petrified
 location: "petrified in a fort east of Gomat"
 locationRegion: "Nashtkar"
 home: Chardon
@@ -17,10 +18,12 @@ aliases: []
 tags: [NPC/unsorted]
 ---
 # Arcus
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), he/him
->unknown age
->Based in: Chardon, [[Chardonian Empire]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Chardon]], [[Chardonian Empire]]
+
+
 >Location (updated November 15, 1748): petrified in a fort east of Gomat, [[Nashtkar]]
 
 An adventurer and treasure hunter from the [[Society of the Open Scroll]], found petrified in the fort east of [[Gomat]]. 

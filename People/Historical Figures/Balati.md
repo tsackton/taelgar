@@ -18,11 +18,11 @@ tags: [NPC/historical, NPC/DuFr/aware, NPC/DuFr/minor]
 yearOverride: 
 ---
 # Balati
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Deno'qai), he/him
->b. 1520, d. 1544
->deceased at 24
->Based in: [[Ko'zula]] village
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: Ko'zula village
+
 >Location (updated November 15, 1748): deceased, [[Forest of Nightmares]]
 
 A hero of the Deno'qai during the [[Great War]], and the man who once bore the armor and shield [[Delwath]] now carries.

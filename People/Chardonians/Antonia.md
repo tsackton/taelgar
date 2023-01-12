@@ -17,11 +17,11 @@ aliases: []
 tags: [NPC/unsorted]
 ---
 # Antonia
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), she/her
->b. 1714
->34 years old
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Based in: [[Chardon]], [[Chardonian Empire]]
+
 >Location (updated November 15, 1748): somewhere in Dunmar, [[Dunmar]]
 
 A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
