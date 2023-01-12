@@ -16,12 +16,13 @@ affiliations: ["Society of the Open Scroll"]
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/aware]
 ---
+
 # Agon
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), he/him
->b. 1694
->54 years old
->Based in: Chardon, [[Chardonian Empire]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Chardon]], [[Chardonian Empire]]
+
 >Location (updated November 15, 1748): Chardon, [[Chardonian Empire]]
 
 [[Vola]]'s mentor, a member of the [[Society of the Open Scroll]] and scholar in [[Chardon]]. 

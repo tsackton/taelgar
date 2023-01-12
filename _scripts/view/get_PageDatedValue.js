@@ -34,7 +34,7 @@ function get_PageDatedValue(metadata, currentYear) {
 
     currentYear = metadata.yearOverride ? metadata.yearOverride : currentYear
     
-    if (!yearStart && !yearEnd) return "";
+    if (!yearStart && !yearEnd) return "unknown age";
     if (yearStart && yearEnd && yearStart > yearEnd) return "(timetraveler, check your YAML)";
     
     // we have a created year, no ended year
