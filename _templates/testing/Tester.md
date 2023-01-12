@@ -1,17 +1,17 @@
 ---
 type: NPC
 name: Tester
-species: 
+species: human
 ancestry:
-gender: 
+gender: male
 born: 1721
 died: 1755
 location: 
 locationRegion:
-home: 
-homeRegion: 
-origin: 
-originRegion: 
+home: "Whitsun District, Chardon"
+homeRegion: "Chardonian Empire"
+origin: "Arendum, Chasa River Valley"
+originRegion: "Chardonian Empire"
 affiliations: 
 affiliations: ["Great Library"]
 aliases: []
@@ -21,21 +21,6 @@ lastSeenByParty_DuFr:
 whereabouts: 
 - {dateAr: 0001-01-01, place: "", region: }
 ---
-
-home: "Whitsun District, Chardon"
-homeRegion: "Chardonian Empire"
-origin: "Arendum, Chasa River Valley"
-originRegion: "Chardonian Empire"
-
-
-
-
-# Tester
->[!info]+ Basic information
->unknown species, they/them
->`$=dv.view(agefunction, {"currentYear" : 1748})`
->
->
 
 
 ```dataviewjs
