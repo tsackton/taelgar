@@ -84,7 +84,7 @@ def get_PageDatedValue(metadata):
         if yearEnd is None: 
             return "unknown age"
         else:
-            if yearEnd < currentYear: return endPrefix + " " + str(yearEnd) + ", " + endStatus + " at unknown age"
+            if yearEnd <= currentYear: return endPrefix + " " + str(yearEnd) + ", " + endStatus + " at unknown age"
             return "unknown age"
     else:
         if yearEnd is None:
@@ -94,7 +94,7 @@ def get_PageDatedValue(metadata):
         else:
             if yearStart > yearEnd: return "**(timetraveler, check your YAML)**"
             if yearStart > currentYear: return preExistError
-            if yearEnd < currentYear:
+            if yearEnd <= currentYear:
                 return startPrefix + " " + str(yearStart) + " - " + endPrefix + " " + str(yearEnd) +  ", " + endStatus + " at " + str(yearEnd-yearStart) + " years old"
             return startPrefix + " " + str(yearStart) + " (" + str(currentYear-yearStart) + " years old)"
 
@@ -169,7 +169,7 @@ for file_name in get_md_files(dir_name):
             ## currently we assume that Date and --date arguments are both just plain years
             if match:
                 year = match.group(1)
-                if int(year) >= int(parse_date):
+                if int(year) > int(parse_date):
                     continue
         
         # find templater functions

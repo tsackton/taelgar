@@ -48,7 +48,7 @@ function get_PageDatedValue(metadata, currentYear) {
 
     // we have a death year, no born year
     if (yearEnd && !yearStart) {
-        if (yearEnd < currentYear) return endPrefix + " " + yearEnd + ", " + endStatus + " at unknown age";
+        if (yearEnd <= currentYear) return endPrefix + " " + yearEnd + ", " + endStatus + " at unknown age";
         // they have a death date, and it hasn't happened yet, but no born date, so nothing to show
         return "unknown age";
     }
@@ -56,7 +56,7 @@ function get_PageDatedValue(metadata, currentYear) {
     if (yearStart > currentYear) return preExistError;
 
     // we have both a start and end date - and they died before now
-    if (yearEnd < currentYear) {       
+    if (yearEnd <= currentYear) {       
         return startPrefix + " " + yearStart + " - " + endPrefix + " " + yearEnd +  ", " + endStatus + " at " + (yearEnd-yearStart) + " years old"
     }
 
