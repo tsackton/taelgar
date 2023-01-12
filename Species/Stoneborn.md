@@ -1,5 +1,6 @@
 ---
 aliases: [Stoneborn, stoneborn]
+speciesDescriptor: stoneborn
 ---
 # Stoneborn
 

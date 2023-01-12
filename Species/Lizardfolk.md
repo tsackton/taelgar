@@ -1,5 +1,6 @@
 ---
 aliases: [lizardfolk]
+speciesDescriptor: lizardfolk
 ---
 # Lizardfolk
 
