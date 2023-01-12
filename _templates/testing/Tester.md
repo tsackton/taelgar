@@ -25,7 +25,6 @@ whereabouts:
 - {dateAr: 0001-01-01, place: "", region: }
 ---
 
-
 # Tester
 >[!info]+ Biographical Summary
 >human, he/him

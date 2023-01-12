@@ -15,21 +15,21 @@ function get_PageDatedValue(metadata, currentYear) {
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet born)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "b.";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "d.";
-        endStatus = metadata.endString ? metadata.endString : "died"
+        endStatus = metadata.endStatus ? metadata.endStatus : "died"
     } else if (metadata.type == "Building") {
         yearStart = metadata.built
         yearEnd = metadata.destroyed
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet built)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "built";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "destroyed";
-        endStatus = metadata.endString ? metadata.endString : "destroyed"
+        endStatus = metadata.endStatus ? metadata.endStatus : "destroyed"
     } else if (metadata.type == "Item") {
         yearStart = metadata.created
         yearEnd = metadata.destroyed
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet created)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "created";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "destroyed";
-        endStatus = metadata.endString ? metadata.endString : "destroyed"
+        endStatus = metadata.endStatus ? metadata.endStatus : "destroyed"
     }
 
     currentYear = metadata.yearOverride ? metadata.yearOverride : currentYear
