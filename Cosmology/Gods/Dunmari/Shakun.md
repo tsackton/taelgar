@@ -4,3 +4,4 @@ The goddess of illusion, magic, prophecy, and dreams; often said to be the mysti
 
 Her mystery cult, the [[Shakun Mystai]] have always been associated with omens and dreams, and interpreting the signs of dangers lurking for the Dunmari. They also help maintain the magical web of protection that Shakun weaves around the eastern border of [[Dunmar]] to keep the dangers of the [[Nashtkar]] from civilizations. 
 
+%%SECRET[1]%%
