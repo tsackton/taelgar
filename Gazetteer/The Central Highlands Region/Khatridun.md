@@ -4,4 +4,4 @@ The Kingdom of Khatridun was once the greatest, oldest, and most powerful of the
 
 In the aftermath of the [[Great War]], Khatridun has turned inward. Much of its former wealth was lost as trade between the east and the west all but ceased, and never blessed with excessive mineral wealth, the people of Khatridun turned inward and to their history, looking for lost knowledge from a prior age to help them rise again.
 
-
+%%home to Seeker, who is from the city of Darakan%%

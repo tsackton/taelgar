@@ -19,3 +19,12 @@ yearOverride:
 
 A hero of the [[Great War]], a lizardfolk renowned for control over the [[Plane of Souls]].
 
+%%NOTES
+Lizardfolk druid, shaman, healer.
+
+Could shift into a golden bird, Laurelin.
+
+Noted for ability to effortlessly interact with the Plane of Consciousness.
+
+Currently a being of pure thought with no material body.
+%%
