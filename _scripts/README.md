@@ -10,15 +10,14 @@ This is the python script that takes the obsdiantohtml md output and cleans it b
 #### **customJS**
 This folder contains javascript code that can be imported into either a templater javascript block or a dataviewjs block by using:
 ```
-await forceLoadCustomJS();
 const {FUNCTIONNAME} = customJS
 ```
 FUNCTIONNAME is the name of a file containing a class with various methods. My understanding is the file needs to be named FUNCTIONNAME.js and the class should be the same as the filename. You'll need to set the customJS scripts folder to `_scripts/customJS`, of course. 
-
-*I think we should not use templater user scripts, and instead rely on customJS exclusively, in case we want to reuse any of the code in dataviewjs blocks for any reason. Templater user scripts cannot be reused outside of templater, as far as I understand. But willing to change my mind on this.*
 
 Right now, the only class that exists here is metadataUtils. All the metadataUtils functions take the metadata object as their first argument, with optional additional arguments depending on the function. 
 
 #### **view**
 This folder contains dataview functions that can be used with dv.view("/path/to/function", arguments). 
 
+#### **templater**
+This folder contains templater user functions. The generateHeader function will create a header depending on the type frontmatter. Currently only the NPC type works. 

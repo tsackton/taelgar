@@ -4,8 +4,9 @@ name: Tester
 species: human
 ancestry:
 gender: male
-born: 1721
-died: 1755
+created: 1711
+destroyed: 1742
+endStatus: petrified
 location: 
 locationRegion:
 home: "Whitsun District, Chardon"
@@ -23,28 +24,6 @@ whereabouts:
 ---
 
 
-```dataviewjs
-
-await forceLoadCustomJS();
-const {metadataUtils} = customJS
-let metadata = dv.current()
-let Name = metadata.name
-
-let currentYear = window.FantasyCalendarAPI.getCalendars()[0].current.year
-let existYear = metadataUtils.get_existYear(metadata)
-let Pronouns = metadataUtils.get_Pronouns(metadata)
-let Species = metadataUtils.Reformat(metadata, "species", "", "", "unknown species")
-let Ancestry = metadataUtils.Reformat(metadata, "ancestry", " (", ") ", "")
-let PageDatedValue = metadataUtils.get_PageDatedValue(metadata,existYear)
-
-
-let BLOCKSTRING_EXIST = "# " + Name + "\n>[!info]+ Biographical Summary" + "\n>" + dv.fileLink(Species) + Ancestry + ", " + Pronouns + "\n>" + PageDatedValue + "\n"
-let BLOCKSTRING_NOTEXIST = "# " + Name + "\n>[!fail] **This entity does not yet exist!**"
-
-if (currentYear >= existYear) {
-  dv.paragraph(BLOCKSTRING_EXIST)
-} else {
-  dv.paragraph(BLOCKSTRING_NOTEXIST)
-}
-```
-
+# Tester
+>[!warning]+
+>**Header for type Item doesn't exist!**
