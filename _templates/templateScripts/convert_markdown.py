@@ -208,7 +208,7 @@ for file_name in get_md_files(dir_name):
             continue
         elif line.startswith("%%^Date:"):
             date_block = True
-            match = re.search(r'%%\^Date:(\S+)%%', line)
+            match = re.search(r'%%\^Date:\s*(\w+)\s*%%', line)
             ## currently we assume that Date and --date arguments are both just plain years
             if match:
                 year = match.group(1)
