@@ -35,7 +35,7 @@ function get_PageDatedValue(metadata, currentYear) {
     currentYear = metadata.yearOverride ? metadata.yearOverride : currentYear
     
     if (!yearStart && !yearEnd) return "unknown age";
-    if (yearStart && yearEnd && yearStart > yearEnd) return "(timetraveler, check your YAML)";
+    if (yearStart && yearEnd && yearStart > yearEnd) return "**(timetraveler, check your YAML)**";
     
     // we have a created year, no ended year
     if (yearStart && !yearEnd) {
@@ -50,7 +50,7 @@ function get_PageDatedValue(metadata, currentYear) {
     if (yearEnd && !yearStart) {
         if (yearEnd < currentYear) return endPrefix + " " + yearEnd + ", " + endStatus + " at unknown age";
         // they have a death date, and it hasn't happened yet, but no born date, so nothing to show
-        return "";
+        return "unknown age";
     }
 
     if (yearStart > currentYear) return preExistError;

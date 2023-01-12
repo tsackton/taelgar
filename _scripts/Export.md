@@ -9,7 +9,7 @@ There may still be some bugs, as I haven't tested on real complex output yet.
 
 This code does three things:
 
-It replaces strings in the form of `< % + tp.user.FUNCTION(tp, ARGUMENT) % >` (without the spaces) with the correct values from metadata. I have checked many scenarios but not all, but it should be robust as it copies the javascript logic. If FUNCTION is not defined (currently, just the getAgeBasedValue, getCampaignValue, and getRegnalYear), it returns the templater string unmodified. 
+It replaces dv.view() calls with the correct values from metadata, or with ... if the particular dv.view function is not reimplemented in Python. 
 
 It checks if the born/created/built year is after the DATE value passed to the command line. If so, it still exports the yaml frontmatter, but replaces the text on the page with a header with name (if defined in the frontmatter) or "unnamed entity" if name is not defined, followed by a single line of text (**This entity does not yet exist!**).
 
