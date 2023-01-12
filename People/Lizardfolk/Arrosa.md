@@ -1,23 +1,27 @@
 ---
 type: NPC
 name: Arrosa
-species: 
+species: lizardfolk
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
+location: Bedez
+locationRegion: Orekatu
+home: Bedez
+homeRegion: Orekatu
 origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/background]
 yearOverride: 
 ---
-## Arrosa
-(she/her)
+# Arrosa
+>[!info]+ Basic information
+>lizardfolk, she/her
+>unknown age
+>Based in: Bedez, [[Orekatu]]
+>Location (updated November 15, 1748): Bedez, [[Orekatu]]
 
 A lizardfolk elder, the matriarch of the village of [[Bedez]], in the Kingdom of [[Orekatu]]. 
