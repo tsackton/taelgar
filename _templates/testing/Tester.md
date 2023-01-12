@@ -1,5 +1,5 @@
 ---
-type: NPC
+type: Ruler
 name: Tester
 species: human
 ancestry:
@@ -25,6 +25,11 @@ whereabouts:
 - {dateAr: 0001-01-01, place: "", region: }
 ---
 
+
 # Tester
->[!warning]+
->**Header for type Item doesn't exist!**
+>[!info]+ Biographical Summary
+>human, he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Originally from: [[Arendum]], Chasa River Valley, [[Chardonian Empire]]
+>Based in: Whitsun District, [[Chardon]], [[Chardonian Empire]]

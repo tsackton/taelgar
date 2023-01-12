@@ -1,6 +1,6 @@
 function generateHeader(tp,config) {
 
-    if (tp.frontmatter.type == "NPC") {
+    if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler") {
         // create a NPC header // 
 
         // load campaign prefix and path to dv.view() scripts from config //
@@ -27,18 +27,29 @@ function generateHeader(tp,config) {
         
         let originDisplayValue = (tp.frontmatter.origin || tp.frontmatter.originRegion) ? 
             "Originally from: " + tp.user.getLocation(tp, "origin") : ""
-        
-        // get values for dv.view //
-        
-        let existYear = metadataUtils.get_existYear(tp.frontmatter)
 
         // return string //
 
-        headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary\n" +
-           speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue + "\n" +
-           '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
-           'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`\n' +
-           ">" + originDisplayValue + "\n>" + homeDisplayValue + "\n"
+        if (tp.frontmatter.type == "NPC") { 
+            
+            headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary\n>" +
+            speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue + "\n>" +
+            '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
+            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`\n>' +
+            originDisplayValue + "\n>" + homeDisplayValue + "\n"
+
+        } else {
+            
+            headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary\n>" +
+            speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue + "\n>" +
+            '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
+            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`\n>' +
+            '`$=dv.view("' + dViewPath + 'get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? ' +
+            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`\n>' +
+            originDisplayValue + "\n>" + homeDisplayValue + "\n"
+
+        }
+
 
     } else {
         headerString = "# " + tp.frontmatter.name + "\n>[!warning]+\n>**Header for type " + tp.frontmatter.type + " doesn't exist!**"
