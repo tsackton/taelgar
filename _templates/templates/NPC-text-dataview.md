@@ -9,6 +9,11 @@ const campaignValue = parsed.campaignPrefix;
 const currentYear = FantasyCalendarAPI.getCalendars()[0].current.year
 if (tp.frontmatter.yearOverride) currentYear = tp.frontmatter.yearOverride
 
+// get "dead" value //
+
+let deadValue = "deceased";
+if (tp.frontmatter.deadValue) deadValue = tp.frontmatter.deadValue
+
 // get home // 
 
 let homeString = tp.frontmatter.home + ", " + tp.frontmatter.homeRegion
@@ -53,7 +58,7 @@ if (!tp.frontmatter.species) speciesDisplayValue = "unknown species"
 # <% tp.frontmatter.name %>
 >[!info]+ Basic information
 ><% speciesDisplayValue %><% ancestryDisplayValue %>, <% tp.user.getPronouns(tp) %>
->`$=dv.view(agefunction, {"currentYear" : <% currentYear %>})`
+>`$=dv.view(agefunction, {"currentYear" : <% currentYear %>, "deadValue" : <% deadValue %>})`
 ><% originDisplayValue %>
 ><% homeDisplayValue %>
 
