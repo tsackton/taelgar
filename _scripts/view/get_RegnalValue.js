@@ -1,13 +1,11 @@
-function getRegnalValue(tp) {
+function get_RegnalValue(metadata, currentYear) {
      
-    let yearStart = tp.frontmatter.reignStart;
-    let yearEnd = tp.frontmatter.reignEnd;
-    if (yearEnd == undefined) yearEnd = tp.frontmatter.died;
+    let yearStart = metadata.reignStart;
+    let yearEnd = metadata.reignEnd;
+    if (yearEnd == undefined) yearEnd = metadata.died;
     
-    let currentYear = tp.frontmatter.yearOverride;
-    if (currentYear == undefined) currentYear =  window.FantasyCalendarAPI.getCalendars()[0].current.year
-
-
+    currentYear = metadata.yearOverride ? metadata.yearOverride : currentYear
+    
     if (!yearStart) return "";
     if (yearStart && yearEnd && yearStart > yearEnd) return "(timetraveler, check your YAML)";
     
@@ -23,4 +21,4 @@ function getRegnalValue(tp) {
     // reign has ended
     return "reigned " + yearStart + " - " + yearEnd + " (" + (yearEnd-yearStart) + " years)";
 }
-module.exports = getRegnalValue;
+return get_RegnalValue(dv.current(), input.currentYear)
