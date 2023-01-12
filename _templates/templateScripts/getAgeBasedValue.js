@@ -1,14 +1,16 @@
 function getPageDatedValue(tp, strings) {
             
-    let preExistError = strings.preExistError;
-    let startPrefix = strings.startPrefix;
-    let endPrefix = strings.endPrefix;
+    let preExistError = "(not yet born)";
+    let startPrefix = "b.";
+    let endPrefix = "d.";
     let yearStart = tp.frontmatter.born;
     let yearEnd = tp.frontmatter.died;
 
-    if (preExistError == undefined) preExistError = "(not yet born)";    
-    if (startPrefix == undefined) startPrefix = "b.";
-    if (endPrefix == undefined) endPrefix = "d.";
+    if (strings != undefined) {
+        if (strings.preExistError != undefined) preExistError = strings.preExistError;    
+        if (strings.startPrefix != undefined) startPrefix = strings.startPrefix;
+        if (strings.endPrefix != undefined) endPrefix = strings.endPrefix;
+    }
     
     // setup some other common patterns
     if (yearStart == undefined) yearStart = tp.frontmatter.built;
