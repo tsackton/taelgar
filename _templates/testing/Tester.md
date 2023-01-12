@@ -4,8 +4,9 @@ name: Tester
 species: human
 ancestry:
 gender: male
-created: 1711
-destroyed: 1742
+born: 1711
+reignStart: 1738
+died: 1742
 endStatus: petrified
 location: 
 locationRegion:
@@ -18,11 +19,11 @@ affiliations: ["Great Library"]
 aliases: []
 tags: [NPC/testing]
 yearOverride: 
-lastSeenByParty_DuFr: 
+lastSeenByParty: "never"
+lastSeenByParty_DuFr: "Dunmar"
 whereabouts: 
 - {dateAr: 0001-01-01, place: "", region: }
 ---
-
 
 # Tester
 >[!warning]+

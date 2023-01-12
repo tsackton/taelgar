@@ -19,5 +19,7 @@ Right now, the only class that exists here is metadataUtils. All the metadataUti
 #### **view**
 This folder contains dataview functions that can be used with dv.view("/path/to/function", arguments). 
 
+Currently, get_PageDatedValue and get_RegnalYear work, but get_CampaignBasedValue doesn't, for unclear reasons.
+
 #### **templater**
 This folder contains templater user functions. The generateHeader function will create a header depending on the type frontmatter. Currently only the NPC type works. 
