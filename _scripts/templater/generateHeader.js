@@ -34,7 +34,7 @@ function generateHeader(tp,config) {
             
             headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary" +
             "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
-            '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
+            "\n>" + '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
             'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
             originDisplayValue + homeDisplayValue + "\n"
 
