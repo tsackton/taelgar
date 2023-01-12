@@ -23,33 +23,32 @@ function generateHeader(tp,config) {
         // get home and origin // 
         
         let homeDisplayValue = (tp.frontmatter.home || tp.frontmatter.homeRegion) ? 
-            "Based in: " + tp.user.getLocation(tp, "home") : ""
+            "\n>Based in: " + tp.user.getLocation(tp, "home") : ""
         
         let originDisplayValue = (tp.frontmatter.origin || tp.frontmatter.originRegion) ? 
-            "Originally from: " + tp.user.getLocation(tp, "origin") : ""
+            "\n>Originally from: " + tp.user.getLocation(tp, "origin") : ""
 
         // return string //
 
         if (tp.frontmatter.type == "NPC") { 
             
-            headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary\n>" +
-            speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue + "\n>" +
+            headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary" +
+            "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
             '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
-            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`\n>' +
-            originDisplayValue + "\n>" + homeDisplayValue + "\n"
+            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
+            originDisplayValue + homeDisplayValue + "\n"
 
         } else {
             
-            headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary\n>" +
-            speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue + "\n>" +
-            '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
-            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`\n>' +
-            '`$=dv.view("' + dViewPath + 'get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? ' +
-            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`\n>' +
-            originDisplayValue + "\n>" + homeDisplayValue + "\n"
+            headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary" +
+            "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
+            "\n>" + '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
+            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
+            "\n>" + '`$=dv.view("' + dViewPath + 'get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? ' +
+            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
+            originDisplayValue + homeDisplayValue + "\n"
 
         }
-
 
     } else {
         headerString = "# " + tp.frontmatter.name + "\n>[!warning]+\n>**Header for type " + tp.frontmatter.type + " doesn't exist!**"
