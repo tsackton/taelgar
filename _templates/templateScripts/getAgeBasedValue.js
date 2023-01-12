@@ -1,4 +1,8 @@
 function getPageDatedValue(tp, strings) {
+
+    if (!strings) {
+        strings = ""
+    }
             
     let preExistError = strings.preExistError;
     let startPrefix = strings.startPrefix;

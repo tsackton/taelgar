@@ -3,22 +3,27 @@ type: NPC
 name: Devana
 species: human
 ancestry: Dunmari
-gender: 
+gender: male
 born: 
 died: 
 location: 
 locationRegion:
-home: 
-homeRegion:
+home: "north and west of Karawa"
+homeRegion: "Eastern Dunmar"
 origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/aware]
 yearOverride: 
 ---
-### Devana
-(he/him)
+# Devana
+>[!info]+ Basic information
+>human (Dunmari), he/him
+>unknown age
+>Based in: north and west of Karawa, [[Eastern Dunmar]]
+>Location (updated November 15, 1748): unknown
 
-A Dunmari herder from Karawa; his family was attacked by maurauding, enraged axebeaks during the events of [[Session 1]] and [[Session 2]].
+A Dunmari pastoralist from the area north and west of Karawa. 
 
+In March 178, his family was attacked by marauding axebeaks, supernaturally enraged by an ancient amulet from the Great War, which had been buried inactive for centuries until uncovered by [[Arcus]] in the old Dunmari fort east of Gomat. One of his sons and nearly half his animals were killed in this attack. 
