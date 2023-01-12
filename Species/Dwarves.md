@@ -1,5 +1,6 @@
 ---
 aliases: [dwarf, Dwarf, Dwarves, dwarves]
+speciesDescriptor: dwarf
 ---
 
 # Dwarf

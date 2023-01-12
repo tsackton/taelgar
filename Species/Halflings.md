@@ -1,5 +1,6 @@
 ---
 aliases: [halfling, Halfling, halflings, Halflings]
+speciesDescriptor: halfling
 ---
 
 # Halflings

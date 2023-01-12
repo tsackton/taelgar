@@ -1,5 +1,6 @@
 ---
 aliases: [human]
+speciesDescriptor: human
 tags: [stub]
 ---
 # Humans
