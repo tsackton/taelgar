@@ -7,7 +7,7 @@ function get_RegnalValue(metadata, currentYear) {
     currentYear = metadata.yearOverride ? metadata.yearOverride : currentYear
     
     if (!yearStart) return "";
-    if (yearStart && yearEnd && yearStart > yearEnd) return "(timetraveler, check your YAML)";
+    if (yearStart && yearEnd && yearStart > yearEnd) return "**(timetraveler, check your YAML)**";
     
     // reign hasn't started yet
     if (yearStart > currentYear) return "";
