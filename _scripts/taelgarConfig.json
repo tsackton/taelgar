@@ -1,0 +1,22 @@
+{
+  "campaignPrefix": "clee",
+  "rootTypes": {
+    "People": "NPC",
+    "Gazetteer": "Place",
+    "Thing": "Item",
+    "PCs": "PC"
+  },
+  "typeKeys" : {
+    "NPC" : ["species", "born", "ancestry", "gender", "died", "home", "homeRegion", "origin", "originRegion", "affiliations" ],
+    "Building" : ["built", "destroyed", "location", "locationRegion" ],
+    "Place" : ["founded", "destroyed", "population", "prouncation", "location", "locationRegion"],
+    "Item" : ["created", "destroyed", "currentOwner", "maker"],
+    "PC" : ["species", "born", "ancestry", "gender", "affiliations", "player", "campaign" ]
+  },
+  "typeKeyDefaults" : {
+    "NPC" : {
+      "Sembarans" : {"species" : "human"}
+    }
+  },
+  "dViewPath" : "_scripts/view/"
+}
