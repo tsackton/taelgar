@@ -13,7 +13,7 @@ function getLocation (tp, frontmatterItem) {
         }
     } else {
         if (locRegion) {
-            locArray = loc.split(',')
+            locArray = locRegion.split(',')
         } else {
             // no values
             return ""

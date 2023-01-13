@@ -20,4 +20,4 @@ yearOverride:
 ### Speaker Lara
 (she/her)
 
-The leader of the [[Lakan mystai]] in Tokra.
+The leader of the [[Lakan Mystai]] in Tokra.

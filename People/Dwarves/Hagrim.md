@@ -17,7 +17,7 @@ aliases: []
 tags: [NPC/unsorted]
 yearOverride: 
 ---
-## Hagrim of Morkalan
+## Hagrim of [[Morkalan]]
 
 A dwarf, once known as Hagrim Firebrand, who made a name for himself in the [[Great War]], but was unable to forget or move past the horrors he saw in battle against mind flayers and the aberrations of the deep, fighting under the halls of Ardith. Whether he was broken by battle or his mind was corrupted by those evils, he returned a changed man. 
 
