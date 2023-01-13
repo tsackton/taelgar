@@ -27,7 +27,7 @@ class metadataUtils {
         // if pronouns are defined in note metadata, use those
 
         if (metadata.pronouns) {
-            return pronouns
+            return metadata.pronouns
         }
     
         // otherwise calculate pronouns from note metadata gender

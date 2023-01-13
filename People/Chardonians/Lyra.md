@@ -17,12 +17,12 @@ aliases: []
 tags: [NPC/unsorted]
 ---
 # Lyra
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), she/her
->b. 1705
->43 years old
->Originally from: Darba, [[Western Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Originally from: [[Darba]], [[Western Dunmar]]
 >Based in: Voltara, [[Chardonian Empire]]
+
 >Location (updated August 26, 1748): Chardon, [[Chardonian Empire]]
 
 An archivist with the Great Library, responsible for arranging adventuring expeditions to recover magic, knowledge, and treasure. Spend considerable time in the north of the [[Chardonian Empire]].
