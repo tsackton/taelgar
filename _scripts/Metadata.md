@@ -35,8 +35,8 @@ Values that are not used by any scripts, and not currently really implemented, b
 - whereabouts: as discussed, a way to track location in time that would be more flexible than location / locationRegion fixed frontmatter
 - currentOwner: for items, who has the thing now. although usually not relevant, this could also be done like whereabouts to track ownership over time. 
 - maker: for items, who made it
-- player, campaing: for PCs
-- location, locationRegion: for buildings and placed, functioning like home/homeRegion for people
+- player, campaign: for PCs
+- location, locationRegion: for buildings and places, functioning like home/homeRegion for people
 - population: for places
 - pronunciation: for anything
 - ddbLink: for items, a link to the mechanics of the item on D&D Beyond. Could also extend to PCs, species. 
