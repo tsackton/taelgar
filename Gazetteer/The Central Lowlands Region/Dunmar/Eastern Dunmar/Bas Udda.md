@@ -8,4 +8,3 @@ Now, all is burned. The land is blackened for miles, like a massive fire raced t
 
 
 
-
