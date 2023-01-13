@@ -56,7 +56,9 @@ async function generateHeader(tp) {
         }
 
     } else {
-        headerString = "# " + tp.frontmatter.name + "\n>[!warning]+\n>**Header for type " + tp.frontmatter.type + " doesn't exist!**"
+        let title = tp.frontmatter.name;
+        if (!title) title = tp.file.title;
+        headerString = "# " + title + "\n>[!warning]+\n>**Header for type " + tp.frontmatter.type + " doesn't exist!**"
     }
     return headerString
 }
