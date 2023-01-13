@@ -18,4 +18,4 @@ yearOverride:
 
 ### Drikod
 
-![[drikod_full.jpg|400]]
+![[drikod.jpg|400]]

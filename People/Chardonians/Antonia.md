@@ -30,4 +30,4 @@ Seemed to have mixed feelings about [[Kadmos]] actions to charm the party in [[S
 
 As far as you know, still traveling with [[Kadmos]]. 
 
-![[antonia-v1-restored.png|500]]
+![[antonia.png|500]]
