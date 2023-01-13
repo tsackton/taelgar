@@ -6,7 +6,7 @@ Mostly vanished.
 
 > [!warning]- Kenzo's conversation with Pava 
 > 
-> ### [[Kenzo]] and [[Pava]], [[Session 20]]
+> ### [[Kenzo]] and [[Pava]], [[Session 20 (DuFr)]]
 > 
 > [[Kenzo]] spoke with [[Pava]] to ask him what he knew of the Order of the Awakened Soul. During this conversation, he learned the following:
 > 

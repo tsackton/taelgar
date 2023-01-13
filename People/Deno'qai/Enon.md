@@ -24,6 +24,6 @@ tags: [NPC/unsorted]
 >Based in: Ko'zula village
 >Location (updated November 15, 1748): Ko'zula village
 
-Godcaller of the Ko’zula Deno’qai; gifted [[Delwath]] his [[Deno'qai Scale Mail]] and [[Deno'qai Lynx Shield]] prior to [[Session 51-52|Delwath's solo adventure to free the Meswati.]]
+Godcaller of the Ko’zula Deno’qai; gifted [[Delwath]] his [[Deno'qai Scale Mail]] and [[Deno'qai Lynx Shield]] prior to [[Session 51-52 (DuFr)|Delwath's solo adventure to free the Meswati.]]
 
 
