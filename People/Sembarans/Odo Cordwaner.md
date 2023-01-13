@@ -14,14 +14,14 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Odo Cordwaner
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Sembaran), he/him
->b. 1700
->19 years old
->Based in: Cleenseau, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Cleenseau]], [[Sembara]]
+
 >Location (updated October 21, 1719): Taviose, [[Cleenseau]]
 
 The sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] and a loyal solider. 

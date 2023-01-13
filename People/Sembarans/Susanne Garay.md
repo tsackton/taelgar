@@ -16,13 +16,12 @@ affiliations:
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
-
 # Susanne Garay
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Sembaran), she/her
->b. 1666
->53 years old
->Based in: Embry, [[Sembara]]
->Location (updated October 21, 1719): Embry, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Embry]], [[Sembara]]
+
+>Location (updated October 21, 1719): [[Embry]], [[Sembara]]
 
 A wealthy cloth merchant from [[Embry]], she sponsors many causes including the [[Lord Mayor’s Workhouse]], an orphanage. 

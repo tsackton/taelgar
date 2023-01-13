@@ -1,4 +1,4 @@
-### The Monastery of Bhishma
+# The Monastery of Bhishma
 
 A monastery complex dedicated to [[Bhishma]] about 2 1/2 miles south of [[Kharsan]]. Houses the [[Hall of Stories]], the records of the Dunmari people. 
 
