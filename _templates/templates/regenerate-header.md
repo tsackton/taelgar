@@ -1,1 +1,1 @@
-<%* tp.user.regenerateHeader(tp) %>
+<%* tp.user.regenerateHeader(tp, tp.frontmatter.type) %>

@@ -11,22 +11,19 @@ async function updateFrontmatter(tp) {
 
     async function updateCurrentFile(someContent, someFile) {
         someContent = someContent.join("\n");     
-        await app.vault.modify(someFile, someContent);
+        await app.vault.adapter.write(someFile.path, someContent);
     }
 
     let newFile = false;    
     let yamlInsert = false;
     let name = tp.file.title    
     let tfile = tp.file.find_tfile(name);
-    let currentContents = tp.file.content.split('\n');
+    let filecontent = await app.vault.adapter.read(tfile.path);
+    let currentContents = filecontent.split('\n');
 
-    if (name.startsWith("Untitled") || tp.file.content.trim() == "RERUN") {
+    if (name.startsWith("Untitled")) {
         newFile = true;
-        name = await tp.system.prompt("NPC Name") ?? "Untitled";        
-        await tp.file.rename(`${name}`);
-        tfile = tp.file.find_tfile(name);
-        await updateCurrentFile([""], tfile);
-        currentContents = ["---", "---"];
+        name = await tp.system.prompt("NPC Name") ?? "Untitled";              
     } 
 
     let indexOfYamlEnd = currentContents.findIndex((f, i) => i>0 && f == "---");
@@ -109,12 +106,12 @@ async function updateFrontmatter(tp) {
         new Notice("Unable to find a taelgarConfig.json. No metadata will be updated.")
     }
   
-    // find the end of the header block -- the first newline (blank line) after the YAML block
-    let indexOfHeaderBlockEnd = currentContents.findIndex((f, i) => i > indexOfYamlEnd && f.trim() == "");
-    if (indexOfHeaderBlockEnd == -1) indexOfHeaderBlockEnd = currentContents.length;
-  
-    currentContents.splice(indexOfYamlEnd+1, indexOfHeaderBlockEnd-indexOfYamlEnd);          
-    currentContents.splice(indexOfYamlEnd+1, 0, "<% tp.user.generateHeader(tp) %>");  
+
+    let headerType = tp.frontmatter.type ?? fileType;
+
     await updateCurrentFile(currentContents, tfile);            
+    await tp.user.regenerateHeader(tp, headerType);
+
+    if (newFile) app.vault.rename(tfile, tfile.folder + "/" + name);
 }
 module.exports = updateFrontmatter;
