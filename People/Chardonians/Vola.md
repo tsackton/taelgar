@@ -45,9 +45,9 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 
 ## Chronology
 %%SECRET[5]%%
-- late 1747 - early 1748: travels with [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]], leaving Chardon, crossing Nevos Sea, traveling to Nayahar and then across the Yuvanti mountains to Askandi.  
+- late 1747 - early 1748: travels with [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]], leaving Chardon, crossing Nevos Sea, traveling to Nayahar and then across the Yuvanti mountains to [[Askandi]].  
 %%SECRET[6]%%
-- 5 Mar 1748: Leaves Askandi for Raven's Hold
+- 5 Mar 1748: Leaves [[Askandi]] for Raven's Hold
 - 31 Mar 1748: Vola arrives at Raven's Hold. 
 - 2 Apr 1748: Vola captured at Raven's Hold. 
 - 12 Apr 1748: Rescued from captivity in Raven's Hold by [[The Dunmar Fellowship]]

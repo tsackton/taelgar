@@ -3,8 +3,7 @@
 let configFile = await app.vault.adapter.read(configFilePath);
 let parsed = JSON.parse(configFile);       
 const campaignValue = parsed.campaignPrefix
-%>
-type: NPC
+%>type: NPC
 name: <% tp.file.title %>
 species: 
 ancestry: 
