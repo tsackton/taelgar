@@ -1,5 +1,10 @@
-function generateHeader(tp,config) {
+async function generateHeader(tp) {
 
+   const configFilePath = app.vault.getRoot().path + ".obsidian/taelgarConfig.json";
+   let configFile = await app.vault.adapter.read(configFilePath);
+   let config = JSON.parse(configFile);    
+
+      
     if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler") {
         // create a NPC header // 
 
