@@ -14,7 +14,7 @@ In 1748, the Charmhearts encountered trouble on the road from [[Ausson's Crossin
 The demon at Raven's Hold was later killed by [[The Dunmar Fellowship]], but [[Ander Charmheart]] only slowly and partially recovered. What is more, during this time, gnoll raiders rampaged across [[eastern Dunmar]], and little trading was possible. The Charmhearts made their way to [[Tokra]] with crowds of Dunmari refugees, but the sickness and war seriously disrupted their trading year, causing significant losses. Later, they left [[Tokra]] for [[Darba]], hoping for better luck. 
 
 ## Chronology
-- 19 Mar 1748: [[Ander Charmheart]] caught in wave of demonic corruption near [[Raven’s Hold]]. 
+- 19 Mar 1748: [[Ander Charmheart]] caught in wave of demonic corruption near [[Raven's Hold]]. 
 - 28 Mar 1748: Charmhearts arrive in [[Karawa]]
 - 29 Mar 1748: Meet [[The Dunmar Fellowship]] in [[Karawa]] in the evening
 - 13 Apr 1748: Charmhearts reach [[Tokra]] with Dunmari refugees
