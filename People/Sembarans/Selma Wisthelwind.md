@@ -5,6 +5,7 @@ species: human
 ancestry: Highlander
 gender: female
 born: 1644
+died: 
 location: Cleenseau
 locationRegion: Sembara
 home: Cleenseau
@@ -16,12 +17,12 @@ aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Selma Wisthelwind
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Highlander), she/her
->b. 1644
->75 years old
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Originally from: [[Ardlas]], [[Greater Sembara]]
->Based in: Cleenseau, [[Sembara]]
+>Based in: [[Cleenseau]], [[Sembara]]
+
 >Location (updated October 21, 1719): Cleenseau, [[Sembara]]
 
 The firey properitor of [[The Fox’s Flagon]]. 

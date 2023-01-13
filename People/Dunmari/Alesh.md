@@ -18,11 +18,12 @@ tags: [NPC/DuFr/met, NPC/DuFr/major]
 summary: "Scout, history buff, messenger; expert rider; loves her horse."
 ---
 # Alesh
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), she/her
->b. 1727
->21 years old
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Originally from: [[Karawa]], [[Eastern Dunmar]]
 >Based in: [[Karawa]], [[Eastern Dunmar]]
+
 >Location (updated November 15, 1748): unknown
 
 ## Overview

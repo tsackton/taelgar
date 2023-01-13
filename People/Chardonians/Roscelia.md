@@ -17,11 +17,11 @@ aliases: []
 tags: [NPC/unsorted]
 ---
 # Roscelia
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), she/her
->b. 1677
->71 years old
->Based in: Chardon, [[Chardonian Empire]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Chardon]], [[Chardonian Empire]]
+
 >Location (updated November 15, 1748): Chardon, [[Chardonian Empire]]
 
 An elderly magician, prim and proper, a member of the Faculty of Magic at the [[University of Chardon]] and [[Kaeso]]'s mentor.
