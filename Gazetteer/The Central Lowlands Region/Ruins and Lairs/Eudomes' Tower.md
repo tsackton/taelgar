@@ -6,4 +6,3 @@ The tower of the Drankorian wizard [[Eudomes]], with an ancient elvish history. 
 
 
 
-

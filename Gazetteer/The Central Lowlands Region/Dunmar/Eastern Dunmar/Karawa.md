@@ -14,16 +14,15 @@ The Oasis: The central feature of the town is a small oasis. Over the years a ma
 
 The market square: On the northwestern edge of town, there is a large market square, which stands empty most of the year, filling to capacity only during the large markets after the [[Festival of Rebirth]], at least this is what you've been told. Beyond it, cleared scrublands and pastures serve as a temporary home for hundreds of herders who return for the [[Festival of Rebirth]], or so you've heard.
 
-The Temple of [[The Five Siblings of the Dunmari]]: Although the [[Temple of Shakun]] is the larger draw in Karawa, a small temple to [[The Five Siblings of the Dunmari]] stands on the eastern side of town, facing a small public square. The temple itself is plain, but well-maintained. Damaged, but not destroyed, in the gnoll attacks, and has been rebuilt. 
+The Temple of [[The Five Siblings]]: Although the [[Temple of Shakun]] is the larger draw in Karawa, a small temple to [[The Five Siblings]] stands on the eastern side of town, facing a small public square. The temple itself is plain, but well-maintained. Damaged, but not destroyed, in the gnoll attacks, and has been rebuilt. 
 
-The Council of Elders: Standing across a small public square from the Temple of [[The Five Siblings of the Dunmari]] is a circular, dome shaped building that is the main public building in Karawa. This space serves as the council chambers where the council of elders meets to deliberate, and the square in front is a place for public debate. Judgements are issued here by the council.
+The Council of Elders: Standing across a small public square from the Temple of [[The Five Siblings]] is a circular, dome shaped building that is the main public building in Karawa. This space serves as the council chambers where the council of elders meets to deliberate, and the square in front is a place for public debate. Judgements are issued here by the council.
 
 The village: The village itself is mostly small houses of adobe and mud, facing on narrow streets, with shade provided by colorful awnings. A few artisans and scattered shops line the streets facing the caravanserai, including a tea house which [[Delwath]] once lived above, and a blacksmith. Most of the small houses were burned and destroyed in the gnoll attacks, but many have been cleaned and are being rebuilt. 
 
 The fields: To the southeast of town, some small scale agriculture provides a bit of extra food, beyond what the herds can provide and what can be traded with pastoralists passing through. Crops that require little water and lots of heat do best, although the oasis feeds irrigation channels here that allows crops to thrive. Dates and honey are a particular delicacy, being used to make wine and desserts.
 
 %%SECRET[1]%%
-
 
 
 

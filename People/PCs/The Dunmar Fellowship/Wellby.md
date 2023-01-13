@@ -38,7 +38,7 @@ yearOverride:
 
 > [!warning]- Memories and Dreams from the Halfing Ancestral Mind
 > 
-> *Examining the [[blackened claw]] symbol, [[Session 9]]*
+> *Examining the [[Blackened Claw]] symbol, [[Session 9]]*
 > A memory drifting out of the past. A determined group of halflings, organized, with bows and spears. A battle banner bearing this mark, at the front of a large column of hobgoblin troops, maybe 150 years ago. They are too many to face. You turn and see the doubt in the eyes of your troop. Quickly sending the message to scatter and hide and live to fight again. Running, vanishing into the grass….
 > 
 > *[[Raven’s Hold]] nightmares, [[Session 11]]*
