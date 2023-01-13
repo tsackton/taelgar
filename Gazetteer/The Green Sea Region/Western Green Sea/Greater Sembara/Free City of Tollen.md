@@ -24,9 +24,10 @@ A bustling port on the Volta River, which forms the border between Sembara and [
     
 -   Some significant far eastern trade, although that in general is probably more halfling/Cymean; Tollen is however a major market for Cymea traders, who exchange goods from around the Green Sea for Sembaran/Tollen cloth/silk/clothes.
     
--   University in Tollen is major center of magical learning in the Sembara/Vostok region, only some parts of Cymea could compete in western Green Sea area. Dye industry + magic makes Tollen a center of development of magical tattoos.
+-   University in Tollen is major center of magical learning in the Sembara/[[Vostok]] region, only some parts of Cymea could compete in western Green Sea area. Dye industry + magic makes Tollen a center of development of magical tattoos.
     
 -   In many ways more cosmopolitan than Sembara; significant local halfling and dwarven communities, and stoneborn are not unheard of. Elves still super-rare, and lizardfolk if anything less common than in Sembara.
     
 %%
+
 

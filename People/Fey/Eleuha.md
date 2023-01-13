@@ -1,23 +1,26 @@
 ---
 type: NPC
 name: Eleuha
-species: 
+species: dryad
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 
 locationRegion:
-home: 
-homeRegion:
+home: Azta Lekua
+homeRegion: Orekatu
 origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 ---
-## Eleuha
-(she/her)
+# Eleuha
+>[!info]+ Biographical Summary
+>dryad, she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Azta Lekua]], [[Orekatu]]
 
 A dryad of the jungle, daughter of a great tree, friend to [[Lengau]]. 
