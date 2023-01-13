@@ -5,11 +5,10 @@ async function regenerateHeader(tp) {
         await app.vault.modify(someFile, someContent);
     }
 
-    let newFile = false;    
-    let yamlInsert = false;
     let name = tp.file.title    
     let tfile = tp.file.find_tfile(name);
-    let currentContents = tp.file.content.split('\n');   
+    let filecontents = await app.vault.read(tfile) ;
+    let currentContents = filecontents.split('\n');  
 
     let fileType = tp.frontmatter.type;
     if (!fileType) {
@@ -25,13 +24,18 @@ async function regenerateHeader(tp) {
     
     // the file is ONLY yaml
     if (indexOfHeaderBlockEnd == -1) indexOfHeaderBlockEnd = currentContents.length;
-  
+      
+    if (currentContents[indexOfYamlEnd+1] && currentContents[indexOfYamlEnd+1].startsWith("<%"))
+    {
+        new Notice("This file appears to have an unprocessed template. Please run the template before running this file. ALT-R is the hotkey");
+        return;
+    }
+
     // remove the header block
     currentContents.splice(indexOfYamlEnd+1, indexOfHeaderBlockEnd-indexOfYamlEnd);          
-    
     // insert the template
     currentContents.splice(indexOfYamlEnd+1, 0, "<% tp.user.generateHeader(tp) %>");  
-    
+
     // rewrite the file
     await updateCurrentFile(currentContents, tfile);            
 }
