@@ -1,6 +1,6 @@
 ### Agata' Hut
 
-The home of the hag [[Agata]] Dustmother. Looted, but not destroyed, by the party in [[Session 30]]
+The home of the hag [[Agata]] Dustmother. Looted, but not destroyed, by the party in [[Session 30 (DuFr)]]
 
 ### Description
 
@@ -13,7 +13,6 @@ The hut itself is a plain dark brown mud hut, seemingly fairly shabbily made, wi
 Next to the house is a garden of thorns and rocks, tangled briars and such, but somehow, incongruously, a flock of hens is pecking in the dust of the garden. A stone wall surrounds it, and in the distance you can see a wooden scarecrow posed sitting on the wall watching over the chickens. A well sits towards the back of the garden.
 
 Otherwise, the landscape is bleak, dusty, the barren rock only broken by the occasional dead tree, the cloudless sky only broken by the sight of a large bird circling high above. To the east about 100 feet is a small rocky outcrop stands, on top of which is a dense copse of dead trees.
-
 
 
 

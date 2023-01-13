@@ -20,6 +20,6 @@ yearOverride:
 ### Shandar
 (he/him)
 
-An old Dunmari man who spent many years as [[Agata]]'s table. Freed in [[Session 30]].
+An old Dunmari man who spent many years as [[Agata]]'s table. Freed in [[Session 30 (DuFr)]].
 
 %%SECRET[1]%%

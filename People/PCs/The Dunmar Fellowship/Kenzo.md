@@ -58,7 +58,7 @@ yearOverride:
 
 > [!WARNING]- Kenzo's Meeting with Candrosa, Session 5
 > 
-> ### Kenzo and [[Candrosa]], [[Dreamworld]], [[Session 5]]
+> ### Kenzo and [[Candrosa]], [[Dreamworld]], [[Session 5 (DuFr)]]
 > 
 > In the predawn hours, you awake suddenly to a gentle tapping on your door. Standing outside is [[Candrosa]], dressed in his silver-trimmed, ochre robe, walking with a sense of purpose and resolve you have not seen before. He carries a staff of white ash with a silver crescent moon design on top.
 > 
@@ -78,7 +78,7 @@ yearOverride:
 
 > [!WARNING]- Private Discussion with Vola, Session 11
 > 
-> ### Kenzo and [[Vola]], [[Session 11]]
+> ### Kenzo and [[Vola]], [[Session 11 (DuFr)]]
 > 
 > [[Vola]] comes to sit next to you.
 > “Fuck, that was awful”
@@ -101,7 +101,7 @@ yearOverride:
 
 > [!warning]- The Land of the Dead, Session 22
 > 
-> Kenzo's Experience of the [[Land of the Dead]], [[Session 22]]
+> Kenzo's Experience of the [[Land of the Dead]], [[Session 22 (DuFr)]]
 > 
 > During the initiation ritual of the [[Bhishma]] mystai, as the story of [[Bhishma]] concludes and you agree to sacrifice yourself for [[Jeevali]], you feel your heart stop, the life fading from you. For a brief moment you see a vast expanse of space, a river flowing through it, the occasional essence of someone or something moving in the distance, some in clumps, some alone. After a timeless moment, something grasps your hand, you feel warmth, and realize that for some eternal time you had felt nothing at all. The presence whispers, "Will you come back with me?"
 > 
@@ -109,7 +109,7 @@ yearOverride:
 
 > [!warning]- Kenzo's Dream Staff Journey, Session 32
 > 
-> #### Kenzo's Dream Staff Journey, [[Session 32]]
+> #### Kenzo's Dream Staff Journey, [[Session 32 (DuFr)]]
 > 
 > You hold the image of [[Dimitaur]] and the robed figures in the circular room in your mind as [[Candrosa]] raises up the staff and begins to chant. You find yourself slipping into a trance, floating in a weightless space, a constellation of multicolored points of light all around you.
 > 
@@ -203,7 +203,7 @@ yearOverride:
 
 > [!WARNING]- Jungle Ki Lore
 > 
-> ### Jungle Ki Lore, [[Session 55-56]]
+> ### Jungle Ki Lore, [[Session 55-56 (DuFr)]]
 > 
 > In the lizardfolk kingdom of [[Orekatu]], Kenzo learned about other kinds of ki that draw energy from different parts of the spirit realms and collect in plants that grow in the right places, from a lizardfolk wanderer / prophet / spirit guide named [[Elazar]]. 
 > 
@@ -234,7 +234,7 @@ yearOverride:
 
 > [!warning]- Letter from Kaeso to Kenzo, Session 61
 > 
-> #### Letter from [[Kaeso]] to Kenzo, [[Session 61]]
+> #### Letter from [[Kaeso]] to Kenzo, [[Session 61 (DuFr)]]
 > 
 > this is a letter that [[Riswynn]] got from [[Rishi]], in [[Tokra]], still sealed, addressed to Kenzo, and written in Dunmari
 > 

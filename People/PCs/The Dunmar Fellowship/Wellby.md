@@ -38,10 +38,10 @@ yearOverride:
 
 > [!warning]- Memories and Dreams from the Halfing Ancestral Mind
 > 
-> *Examining the [[Blackened Claw]] symbol, [[Session 9]]*
+> *Examining the [[Blackened Claw]] symbol, [[Session 9 (DuFr)]]*
 > A memory drifting out of the past. A determined group of halflings, organized, with bows and spears. A battle banner bearing this mark, at the front of a large column of hobgoblin troops, maybe 150 years ago. They are too many to face. You turn and see the doubt in the eyes of your troop. Quickly sending the message to scatter and hide and live to fight again. Running, vanishing into the grass….
 > 
-> *[[Raven's Hold]] nightmares, [[Session 11]]*
+> *[[Raven's Hold]] nightmares, [[Session 11 (DuFr)]]*
 > As you dream, you catch fragments of thoughts. A wild dog, "His hunger is all that matters, it is greater than us all."
 > 
 > A jackal, running behind you, then with you: "He drives us. He eats what we eat. He kills what we kill. He will come if we eat well."
@@ -50,10 +50,10 @@ yearOverride:
 > 
 > Then a soft, quiet voice in the back of your mind, a small dog, just a pup, in danger of being trampled: "I want my pack. I want the shelter of my brothers and sisters. Not this. Not this."**
 > 
-> *Examining a locket found in [[Raven's Hold]], [[Session 13]]*
+> *Examining a locket found in [[Raven's Hold]], [[Session 13 (DuFr)]]*
 > An image in your mind, a memory. A small caravan, a young family traveling across the plains. Maybe a hundred years ago? Two young halfling men, scouting ahead. Brothers maybe? Swooping down from the sky, a three headed beast - a dragon, a goat, a lion. Fire erupting from the dragon’s head, blasting the ground. Running, fleeing. Your companion falling behind, caught. Diving into a ditch, hiding. Tears, sadness telling his husband….
 > 
-> *The Tale of Sigga the Storm Giant, [[Session 15]]*
+> *The Tale of Sigga the Storm Giant, [[Session 15 (DuFr)]]*
 > Recalling a story from your childhood in the [[The Green Sea]], of Sigga the Storm Giant. The stories, as is the case for many halfling stories, are somewhat lacking in detail: after the fall of the Drankorian Empire, a petty king in the area now [[Sembara]] made a pact with a dragon, grew in power, until he was betrayed and the dragon ruled with an iron fist, demanding tribute in slaves and treasure from all under his sway, until the people of the [[The Green Sea]], led by seagoing peoples who had escaped the worst (the halflings and the Skagish) turned in desperation to the power of the sea, and out of the waves the giant Sigga strode to battle the dragon. 
 > 
 > The memories, however, are vivid: 
@@ -66,15 +66,15 @@ yearOverride:
 > 
 > A cold morning on a wavy beach, waking at dawn, offering a word of thanks to Sigga the giant beneath the waves, a wild storm passing offshore, flashes of lightning and peals of thunder seeming to acknowledge your presence, as if the storm itself were the manifestation of Sigga herself.
 > 
-> *Holding a shortbow summoned from shadow by [[Delwath]], [[Session 26]]*
+> *Holding a shortbow summoned from shadow by [[Delwath]], [[Session 26 (DuFr)]]*
 > A very brief memory. A clear pool, deep in the woods, the shadows of the forest around you, calm, peace, the twilight above.
 > 
-> *Halfling patriarch traveling, [[Session 27]]*
+> *Halfling patriarch traveling, [[Session 27 (DuFr)]]*
 > As you examine the painted wooden statue of an old halfling man recovered from [[Agata]], you kind of you kind of fade back and fall backwards into memory. It's hard to tell how long ago this memory is, but you see a well-defended caravan of five wagons, a whole extended clan of halflings, traveling across the Dunmari scrublands. As you zoom in you sense this is probably the road between [[Karawa]] and [[Bas Udda]]. Sitting in the front of the first wagon is the old halfling man depicted by [[Agata]]’s statue.
 
 > [!warning]- Wellby's Time in Karawa, Session 32
 > 
-> ### [[Karawa]] Downtime, [[Session 32]]
+> ### [[Karawa]] Downtime, [[Session 32 (DuFr)]]
 > 
 > #### Dream Staff Journey
 > 
@@ -130,7 +130,7 @@ yearOverride:
 
 > [!warning]- Wellby in Tokra, Session 34
 > 
-> ### Wellby in [[Tokra]] , [[Session 34]]
+> ### Wellby in [[Tokra]] , [[Session 34 (DuFr)]]
 > 
 > As the party reaches [[Tokra]], Wellby leaves briefly to take [[Garret Tealeaf|Garret]] Tealeft to [[The Red Lily Inn]], which he knows from before. He has not spoken to anyone he knows from his old life since being freed, and Lily and [[Wes Strongbones]] were once, if not exactly close friends, at least good acquaintances. As you ride along the walls of [[Tokra]], he, slightly stammeringly, says: "I know that I owe you everything, and I hate to even ask this. But I know you are going to go off on your next adventure, and I'll have to fend for myself. I have nothing but the clothes on my back. Could you spare some coin for me?"
 > 

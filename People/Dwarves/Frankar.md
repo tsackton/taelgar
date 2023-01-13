@@ -19,7 +19,7 @@ yearOverride:
 ---
 ### Frankar
 
-[[Seeker]]'s brother. [[Seeker]] told his story in [[Session 23]].
+[[Seeker]]'s brother. [[Seeker]] told his story in [[Session 23 (DuFr)]].
 
 "I have a younger brother. Or had, I do not know for certain. Frankar was his name. We called him Frank. I was thinking of him in the storm. And all those days he spent hunting salamanders.  
   

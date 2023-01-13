@@ -39,7 +39,7 @@ yearOverride:
 
 > [!WARNING]- Delwath's Dream of the Shadow Realm, Session 5
 >
-> ## Dream of the Shadow Realm [[Session 5]]
+> ## Dream of the Shadow Realm [[Session 5 (DuFr)]]
 >
 >As you drift off to sleep, everything fades, and you see before you an androgynous figure, standing, wreathed in shadows. Tendrils of darkness seem to be pouring off of them, pooling at their feet. You cannot tell if they are trapped, or if they are controlling the darkness. When they speak, it is in the voice you have heard since you found a way to leave the shadow realm: "Delwath. You can see me."
 >
@@ -49,13 +49,13 @@ yearOverride:
 
 > [!WARNING]- Tharandos' Warning, Session 7
 > 
-> ## Centaur's Warning, [[Session 7]]
+> ## Centaur's Warning, [[Session 7 (DuFr)]]
 > 
 > [[Tharandros]], leader of a centaur tribe traveling in the north of [[Dunmar]]: "You are tethered to shadow, elf. If you are not careful, this thread will grow to destroy you and the godling you serve."
 
 > [!WARNING]- The Shadow Voice Returns, Session 19
 > 
-> ## The Shadow Voice Returns, [[Session 19]]
+> ## The Shadow Voice Returns, [[Session 19 (DuFr)]]
 > 
 > As you are drifting off to sleep, the gravely shadow-voice that you have not heard in since you left [[Karawa]] to hunt gnolls begins to whisper in the back of your mind. 
 > 
