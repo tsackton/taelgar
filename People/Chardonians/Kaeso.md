@@ -12,7 +12,7 @@ home:
 homeRegion:
 origin: Chardon
 originRegion: "Chardonian Empire"
-affiliations: ["Shakun mystai"]
+affiliations: ["Shakun Mystai"]
 aliases: []
 tags: [NPC/unsorted]
 ---

@@ -4,5 +4,5 @@ The god of knowledge, history, time, memories, of the seasons, of the ancestors,
 
 He is associated with the color blue. 
 
-His mystery cult, the [[Lakan mystai]], is associated with knowledge and magic, studying both the power of Arcane magic from the [[Plane of Magic]] and the spiritual energy of the [[Plane of Souls]].
+His mystery cult, the [[Lakan Mystai]], is associated with knowledge and magic, studying both the power of Arcane magic from the [[Plane of Magic]] and the spiritual energy of the [[Plane of Souls]].
 
