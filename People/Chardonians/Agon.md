@@ -16,7 +16,6 @@ affiliations: ["Society of the Open Scroll"]
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/aware]
 ---
-
 # Agon
 >[!info]+ Biographical Summary
 >human (Chardonian), he/him

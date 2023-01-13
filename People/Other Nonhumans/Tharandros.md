@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Tharandros
-species: 
+species: centaur
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 
@@ -17,7 +17,10 @@ aliases: []
 tags: [NPC/unsorted]
 yearOverride: 
 ---
-### Tharandros
+# Tharandros
+>[!info]+ Biographical Summary
+>centaur, he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 A centaur, the leader of a herd who the party met traveling across the northern plains of [[Dunmar]]. Convinced to aid [[Karawa]], and proved crucial in driving off gnoll attacks. 
 
