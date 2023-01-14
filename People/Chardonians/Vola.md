@@ -52,7 +52,7 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 - 2 Apr 1748: Vola captured at Raven's Hold. 
 - 12 Apr 1748: Rescued from captivity in Raven's Hold by [[The Dunmar Fellowship]]
 - 12 Apr - 16 Apr 1748: Travels with [[The Dunmar Fellowship]]
-- 16 Apr 1748: Leaves [[Eudomes' Tower]] with [[Riswynn]] for Tokra, saying goodbye to [[The Dunmar Fellowship]]
+- 16 Apr 1748: Leaves [[Stormcaller Tower]] with [[Riswynn]] for Tokra, saying goodbye to [[The Dunmar Fellowship]]
 - 26 Apr 1748: Arrives in Tokra. Parts ways with [[Riswynn]]. Stays at [[Kirian’s]]. 
 %%SECRET[7]%%
 - 21 Aug 1748: Meets [[The Dunmar Fellowship]] in Chardon at [[The Thirsty Scholar]]; reports on news and makes introductions to [[Dee Wildcloak]] and [[Dain Goldhammer]].  

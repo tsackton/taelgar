@@ -21,7 +21,6 @@ aliases: []
 lastSeenByParty_<%_ campaignValue _%>: 
 whereabouts: 
 - {dateAr: 0001-01-01, place: "", region: }
-
 yearOverride: 
 tags: [NPC/unsorted]
 ---

@@ -15,15 +15,15 @@ originRegion: "Chardonian Empire"
 affiliations: ["Shakun Mystai"]
 aliases: []
 tags: [NPC/unsorted]
+family:
 ---
 # Kaeso
->[!info] Basic information
->human (Chardonian), he/him
->b. 1691
->57 years old
->Originally from: Chardon, [[Chardonian Empire]]
->Based in: unknown
->Location (updated November 15, 1748): Hamri, [[Mawakel Peninsula]]
+>[!info]+ Biographical Summary
+>[[Humans|human]] (Chardonian), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Originally from: [[Chardon]], [[Chardonian Empire]]
+
+>Location (updated November 15, 1748): [[Hamri]], [[Mawakel Peninsula]]
 
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 

@@ -24,6 +24,6 @@ tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 
 >Location (updated November 15, 1748): deceased
 
-One of the adventurers of the [[Society of the Open Scroll]]. Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Eudomes' Tower]], where he was killed. 
+One of the adventurers of the [[Society of the Open Scroll]]. Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
 
 %%SECRET[1]%%

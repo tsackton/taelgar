@@ -1,5 +1,4 @@
 ---
-type: NPC
 name: Dasa
 species: 
 ancestry: 
@@ -16,9 +15,17 @@ affiliations:
 tags: [NPC/unsorted]
 yearOverride: 
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
+reignEnd:
+reignStart:
+whereabouts:
+family:
+type: Ruler
 ---
-
-### Samraat Dasa
+# Dasa
+>[!info]+ Biographical Summary
+>unknown species, they/them
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 The last Samraat of the [[Aatmaji dynasty]]. 
 

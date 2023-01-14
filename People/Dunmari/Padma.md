@@ -16,12 +16,14 @@ affiliations:
 aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
+family:
 ---
 # Padma
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), she/her
->unknown age
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Based in: caravanserai on the Darba-Tokra road, [[Central Dunmar]]
+
 >Location (updated November 15, 1748): caravanserai on the Darba-Tokra road, [[Central Dunmar]]
 
 An innkeeper and master of a caravanserai waystation on the [[Tokra-Darba Road]], running one of the first waystations on the west side of the [[Copper Hills]].  Generally well positioned to receive and pass along news. 

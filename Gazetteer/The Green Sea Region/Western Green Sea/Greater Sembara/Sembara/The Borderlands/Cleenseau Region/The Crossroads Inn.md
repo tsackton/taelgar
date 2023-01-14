@@ -1,4 +1,4 @@
-### The Crossroads Inn
+# The Crossroads Inn
 
 A large inn in [[Cleenseau]], said to be hundreds of years old, kept by the Stonebridge family of halflings for generations. Most of the rooms are designed for halflings, but it has a small number of comfortable, if cozy, rooms for humans, and the common room is often full of townsfolk at night hearing the latest news from out of town and drinking down pints of the famous millet ale.
 

@@ -14,15 +14,16 @@ origin: Tokra
 originRegion: "Central Dunmar"
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/met]
+family:
 ---
 # Ashar
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), he/him
->b. 1688
->60 years old
->Originally from: Tokra, [[Central Dunmar]]
->Based in: Tokra, [[Central Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Originally from: [[Tokra]], [[Central Dunmar]]
+>Based in: [[Tokra]], [[Central Dunmar]]
+
 >Location (updated November 15, 1748): Tokra, [[Central Dunmar]]
 
 An old Dunmari solider from [[Tokra]], who fought in the [[Summer of Red Storms]], lost an eye, and retired to drink and reminisce with his war buddies. Spends a lot of time at [[Darshana’s caravanserai]] in [[Tokra]].

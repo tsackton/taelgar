@@ -26,4 +26,4 @@ yearOverride:
 
 A goat herder from the area around Karawa. 
 
-In April 1748, she and the group of herders she traveled with were delayed returning to [[Karawa]] for the [[Festival of Rebirth]] because of a large fire, started by lightning from the endless storm around [[Eudomes' Tower]]. She met [[The Dunmar Fellowship]] on the road, and warned them to flee east. 
+In April 1748, she and the group of herders she traveled with were delayed returning to [[Karawa]] for the [[Festival of Rebirth]] because of a large fire, started by lightning from the endless storm around [[Stormcaller Tower]]. She met [[The Dunmar Fellowship]] on the road, and warned them to flee east. 

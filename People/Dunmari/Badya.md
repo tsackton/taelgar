@@ -14,18 +14,21 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/met]
+family:
 ---
 # Badya
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), she/her
->b. 1723
->25 years old
->Based in: Karawa, [[Eastern Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Karawa]], [[Eastern Dunmar]]
+
 >Location (updated November 15, 1748): Karawa, [[Eastern Dunmar]]
 
-A server and helper at a tea room in Karawa. 
-
+A server and helper at a tea room in Karawa. %%SECRET[1]%%
+%%^Date:1747%%
 In December 1747, [[Delwath]] took rooms above the tea room. 
-
+%%^End%%
+%%^Date:1748%%
 In March 1748, helped tend to the wounded after a giant hyena attack on Karawa. 
+%%^End%%
