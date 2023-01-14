@@ -63,7 +63,7 @@ A short, quick-footed woman, with a nondescript face, short, black hair and ligh
 - 14 Nov 1748: Leaves [[Karawa]] with messages for nomadic groups across the northeast, calling in their duties to [[Sura]] and [[Havdar]]
 - 16 Nov 1748: Arrives in [[Gomat]]
 - 20 Nov 1748: Arrives northeastern corner of [[Dunmar]], turns west
-- 24 Nov 1748: Arrives south of [[Eudomes' Tower]], turns southwest to avoid the storm
+- 24 Nov 1748: Arrives south of [[Stormcaller Tower]], turns southwest to avoid the storm
 - 25 Nov 1748 - 2 Dec 1748: Crisscrosses plains between [[Karawa]] and [[Tokra]]
 - 3 Dec 1748: Rides for [[Sura]]'s camp
 - 6 Dec 1748: Arrives [[Sura]][[Sura|'s c]]amp as masses of troops begin to gather. 

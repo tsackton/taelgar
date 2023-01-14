@@ -7,9 +7,9 @@ gender: male
 born: 
 died: 
 location: Darba
-locationRegion: "Eastern Dunmar"
+locationRegion: "Western Dunmar"
 home: Darba
-homeRegion: "Eastern Dunmar"
+homeRegion: "Western Dunmar"
 origin: Chardon
 originRegion: "Chardonian Empire"
 affiliations: 

@@ -28,4 +28,4 @@ The grumpy craftsman of the Lakan monks, known for creating magic items that cha
 
 With [[Kassi]], although not formally married. 
 
-Made the [[Portable Hole]] for the party after they helped him gather extraplanar energy of [[Arborea]] from the [[ancient elven ruins]] beneath the monastery. 
+Made the [[Portable Hole]] for the party after they helped him gather extraplanar energy of [[Arborea]] from the [[Elven Arborea Workshop]] beneath the monastery. 

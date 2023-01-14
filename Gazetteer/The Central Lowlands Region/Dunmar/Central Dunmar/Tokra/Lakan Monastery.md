@@ -10,7 +10,7 @@ Arranged in a circle around the main monastery are the twelve shrines of [[Laka]
 
 In between the shrines and the main building to the north, on the other side of [[Tokra]], are three workshops. These are largely used to construct magic items - the [[Lakan Mystai]] specialize in the manipulations of planar energy, so construct bags of holding and other items connected to extradimensional spaces, as well as sending stones and similar items. 
 
-The largest workshop is built, in part, on the [[ancient elven ruins]] of an old elven workshop constructed around a place where the wild, unbounded natural energy of [[Arborea]] flowed into the material plane
+The largest workshop is built, in part, on the [[Elven Arborea Workshop]] of an old elven workshop constructed around a place where the wild, unbounded natural energy of [[Arborea]] flowed into the material plane
 
 There is a small lay archives, run by [[Kassi]], which mostly contains copies of works of Dunmari religion, and a much larger private archive for initiates only. In the private archives are many records dealing with the planes, gods, the nature of divinity, the nature of the material plane, magic, and related topics.
 

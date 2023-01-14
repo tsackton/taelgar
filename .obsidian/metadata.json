@@ -17,6 +17,7 @@
                 "originRegion",
                 "family",
                 "affiliations",
+                "whereabouts",
                 "reignStart",
                 "reignEnd"
             ],
@@ -27,7 +28,7 @@
         {
             "typeName": "PC",
             "typeFolderNames": [
-                ".*Ruler.*"
+                ".*PCs.*"
             ],
             "frontmatter": [
                 "species",
@@ -35,17 +36,14 @@
                 "ancestry",
                 "gender",
                 "died",
-                "home",
-                "homeRegion",
                 "origin",
                 "originRegion",
-                "family",
                 "affiliations",
-                "reignStart",
-                "reignEnd"
+                "player",
+                "campaign"
             ],
             "initialTags": [
-                "NPC/unsorted"
+                "PC/unsorted"
             ]
         },
         {
@@ -64,7 +62,8 @@
                 "origin",
                 "originRegion",
                 "family",
-                "affiliations"
+                "affiliations",
+                "whereabouts"
             ],
             "initialTags": [
                 "NPC/unsorted"

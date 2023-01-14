@@ -15,14 +15,14 @@ originRegion: "Chardonian Empire"
 affiliations: 
 aliases: []
 tags: [NPC/unsorted]
+family:
 ---
 # Marcella
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), she/her
->b. 1714
->34 years old
->Originally from: Chardon, [[Chardonian Empire]]
->Based in: unknown
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Originally from: [[Chardon]], [[Chardonian Empire]]
+
 >Location (updated November 15, 1748): east of the [[~CentralMountains~]], [[Greater Sembara]]
 
 A nondescript Chardonian woman, short brown hair and a plain face. An archer, skilled with a bow, wears well-tended leather armor under a traveling cloak. 
