@@ -1,7 +1,9 @@
-async function updateFrontmatter(tp) {
-    
-    function getKeyDefault(keyName, folderName, typeKeyDefaults) {
-        if (!typeKeyDefaults) return "";           
+async function updateFrontmatter(tp, allowPrompting, typeToUse) {
+
+    function getKeyDefault(keyName, folderName, config, filetype) {
+        if (!config || !config.typeKeyDefaults) return "";
+        let typeKeyDefaults = config.typeKeyDefaults[fileType];
+        if (!typeKeyDefaults) return "";
 
         let mapForFolder = typeKeyDefaults[folderName];
         if (!mapForFolder) return "";
@@ -10,23 +12,19 @@ async function updateFrontmatter(tp) {
     }
 
     async function updateCurrentFile(someContent, someFile) {
-        someContent = someContent.join("\n");     
+        someContent = someContent.join("\n");
         await app.vault.adapter.write(someFile.path, someContent);
     }
 
-    let newFile = false;    
+    let newFile = false;
     let yamlInsert = false;
-    let name = tp.file.title    
-    let tfile = tp.file.find_tfile(name);
+    let name = tp.file.title
+
+    let tfile = app.vault.getAbstractFileByPath(tp.file.path(true));
     let filecontent = await app.vault.adapter.read(tfile.path);
     let currentContents = filecontent.split('\n');
 
-    if (name.startsWith("Untitled")) {
-        newFile = true;
-        name = await tp.system.prompt("NPC Name") ?? "Untitled";              
-    } 
-
-    let indexOfYamlEnd = currentContents.findIndex((f, i) => i>0 && f == "---");
+    let indexOfYamlEnd = currentContents.findIndex((f, i) => i > 0 && f == "---");
     // there is no yaml -- add it, plus an empty line -- we are pushing to the top so it goes in reverse order
     if (indexOfYamlEnd == -1) {
         currentContents.unshift("");
@@ -35,83 +33,140 @@ async function updateFrontmatter(tp) {
         indexOfYamlEnd = 1;
         yamlInsert = true;
     }
+    else if (!tp.frontmatter.name) {
+        // there is no name -- this means that we have not processed the data but we do have YAML
+        // insert a blank line to preserve the contents of the file -- it is very unlikely to be a
+        // header block
+        currentContents.splice(indexOfYamlEnd + 1, 0, "");
+    }
 
-    let fileType = tp.frontmatter.type;
-    const configFilePath = app.vault.configDir  + "/taelgarConfig.json";
- 
+    let fileType = tp.frontmatter.type ?? typeToUse;
+    const configFilePath = app.vault.configDir + "/taelgarConfig.json";
+    const metadataFilePath = app.vault.configDir + "/metadata.json";
+
+    let metadata = undefined;
+    let config = undefined;
+
     if (await app.vault.adapter.exists(configFilePath)) {
-        // this block is all about updating metadata -- we if don't have a taelgarConfig we don't bother
         let configFile = await app.vault.adapter.read(configFilePath);
-        let configuration = JSON.parse(configFile);    
+        config = JSON.parse(configFile);
+    }
 
-        let folder = tp.file.folder();
-        let path = tp.file.folder(true);
-        let root = path.split('/')[0];
-        if (path.contains("PCs")) {
-            root = "PCs";
+    if (await app.vault.adapter.exists(metadataFilePath)) {
+        let metadataFile = await app.vault.adapter.read(metadataFilePath);
+        metadata = JSON.parse(metadataFile);
+    }
+
+    if (metadata == undefined || metadata.types == undefined || metadata.types.length == 0) {
+        new Notice("Missing metadata.json file. Cannot define frontmatter.")
+        return;
+    }
+
+    let folder = tp.file.folder();
+    let path = tp.file.folder(true);
+    let root = path.split('/')[0];
+    if (path.contains("PCs")) {
+        root = "PCs";
+    }
+
+    let filetypeMetadata = undefined;
+    let newFrontMatter = {};
+    if (!fileType) {
+        // this file doesn't have a type. Do we know what type it should be?
+        for (const typeMetadata of metadata.types) {
+            if (typeMetadata.typeFolderNames && typeMetadata.typeFolderNames.some(f => path.match(new RegExp(f)))) {
+                fileType = typeMetadata.typeName;
+                filetypeMetadata = typeMetadata;
+                newFrontMatter.type = fileType;
+                break;
+            }
         }
-       
-        let newFrontMatter = {};        
+    }
 
-        if (!fileType) {
-            // this file doesn't have a type. Do we know what type it should be?
-            let typeForThisFolder = configuration.rootTypes[root];
-            if (!typeForThisFolder ) {
-                new Notice("Error: Unable to determine the file type. Please set type: in the yaml frontmatter");
+    if (!fileType) {
+        let validTypes = metadata.types.map(s => s.typeName).concat("unlisted");
+        fileType = await tp.system.suggester(validTypes, validTypes, false, "No type could be found in the file. Select a type");
+        if (fileType == undefined || fileType == "unlisted") {
+            new Notice("File type could not be automatically determined or is not known. Cancelling further processing");
+            return;
+        }
+        newFrontMatter.type = fileType;
+    }
+
+    if (name.startsWith("Untitled")) {        
+        newFile = true;
+        name = await tp.system.prompt("Enter a name for " + fileType );
+        let checkDp = tp.file.find_tfile(name);
+        fname = name;
+        while (checkDp != undefined) {
+            fname = await tp.system.prompt("Another file already named " + fname + ". Enter a new filename: ");
+            if (fname == undefined) {
+                new Notice("No name provided, cancelling further processing");
                 return;
             }
-
-            newFrontMatter.type = typeForThisFolder;
-            fileType = typeForThisFolder;
-        } 
-        
-        if (!tp.frontmatter.name) {
-            newFrontMatter.name = name;
+            checkDp = tp.file.find_tfile(fname);
         }
+    }
 
-        let keysForType = configuration.typeKeys[fileType];
-        if (keysForType) {
-            for (const element of keysForType) {        
-                if (Object.keys(tp.frontmatter).find(f => f == element) == undefined) {
-                    let value = getKeyDefault(element, folder, configuration.typeKeyDefaults[fileType]);
-                    if (newFile && !value)  {                        
-                        if (element == "gender") {                        
-                            let genders = ["male", "female", "nonbinary"];
-                            value = await tp.system.suggester (genders, genders, false, "Enter a gender");                        
-                        }
+    if (!filetypeMetadata) {
+        filetypeMetadata = metadata.types.find(f => f.typeName == fileType);
+        if (!filetypeMetadata) {
+            new Notice("No metadata provided for type " + fileType + ". Minimal metadata processing will occur");
+        }
+    }
 
-                        if (element == "born") {
-                            let age = await tp.system.prompt("Enter an age (0 to skip)");
-                            if (age != 0) {
-                                value = (window.FantasyCalendarAPI.getCalendars()[0].current.year - age);
-                            }
-                        }
+    if (filetypeMetadata) {
+        for (const element of filetypeMetadata.frontmatter) {            
+            if (Object.keys(tp.frontmatter).find(f => f == element) == undefined) {
+                let value = getKeyDefault(element, folder, config, fileType);
+                if (newFile && !value && allowPrompting) {
+                    if (element == "gender") {
+                        let genders = ["male", "female", "nonbinary"];
+                        value = await tp.system.suggester(genders, genders, false, "Enter a gender");
                     }
 
-                    newFrontMatter[element] = value;
+                    if (element == "born") {
+                        let age = await tp.system.prompt("Enter an age (0 to skip)");
+                        if (age != 0) {
+                            value = (window.FantasyCalendarAPI.getCalendars()[0].current.year - age);
+                        }
+                    }
                 }
+
+                newFrontMatter[element] = value;
             }
         }
-    
-        for (let item in newFrontMatter)  {
-            let iv = newFrontMatter[item];
-
-            if (iv) currentContents.splice(indexOfYamlEnd, 0, `${item}: ${iv}`);
-            else currentContents.splice(indexOfYamlEnd, 0, `${item}:`);                
-            
-            if (yamlInsert) indexOfYamlEnd++;        
-        }     
-
-    } else {
-        new Notice("Unable to find a taelgarConfig.json. No metadata will be updated.")
     }
-  
+
+    if (!tp.frontmatter.name) {
+        newFrontMatter.name = name;
+    }
+
+    if (!tp.frontmatter.tags) {
+        newFrontMatter.tags = "[" + filetypeMetadata.initialTags.join(", ") + "]";
+    }
+
+    for (let item in newFrontMatter) {
+        let iv = newFrontMatter[item];
+
+        if (iv) currentContents.splice(indexOfYamlEnd, 0, `${item}: ${iv}`);
+        else currentContents.splice(indexOfYamlEnd, 0, `${item}:`);
+
+        if (yamlInsert) indexOfYamlEnd++;
+    }
 
     let headerType = tp.frontmatter.type ?? fileType;
 
-    await updateCurrentFile(currentContents, tfile);            
+
+    if (newFile) {
+        let newFileName = tfile.path.replace("Untitled", fname);
+        await app.vault.rename(tfile, newFileName);
+        tfile = app.vault.getAbstractFileByPath(newFileName);
+    }
+
+    await updateCurrentFile(currentContents, tfile);
     await tp.user.regenerateHeader(tp, headerType);
 
-    if (newFile) app.vault.rename(tfile, tfile.folder + "/" + name);
+
 }
 module.exports = updateFrontmatter;

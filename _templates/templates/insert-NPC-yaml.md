@@ -1,4 +1,4 @@
----
+ ---
 <%* const configFilePath = app.vault.getRoot().path  + ".obsidian/taelgarConfig.json";
 let configFile = await app.vault.adapter.read(configFilePath);
 let parsed = JSON.parse(configFile);       
