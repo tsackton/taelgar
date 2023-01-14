@@ -4,16 +4,15 @@ async function regenerateHeader(tp, type) {
         someContent = someContent.join("\n");     
         await app.vault.adapter.write(someFile.path, someContent);
     }
-
-    let name = tp.file.title    
-    let tfile = tp.file.find_tfile(name);
+ 
+    let tfile = app.vault.getAbstractFileByPath(tp.file.path(true));
     let filecontents = await app.vault.adapter.read(tfile.path);
     let currentContents = filecontents.split('\n');  
 
     let fileType = type;
     if (!fileType) {
-            new Notice("This file has no filetype and therefore does not support header regeneration");
-            return;
+        new Notice("This file has no filetype and therefore does not support header regeneration");
+        return;
     }
 
     // the end of the yaml -- this is 0-counting, so if the file is just a yaml start and end it will be 1
@@ -23,7 +22,9 @@ async function regenerateHeader(tp, type) {
     let indexOfHeaderBlockEnd = currentContents.findIndex((f, i) => i > indexOfYamlEnd && f.trim() == "");
     
     // the file is ONLY yaml
-    if (indexOfHeaderBlockEnd == -1) indexOfHeaderBlockEnd = currentContents.length;
+    if (indexOfHeaderBlockEnd == -1) {
+        indexOfHeaderBlockEnd = currentContents.length;
+    }
       
     if (currentContents[indexOfYamlEnd+1] && currentContents[indexOfYamlEnd+1].startsWith("<%"))
     {

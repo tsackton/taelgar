@@ -1,0 +1,74 @@
+{
+    "types": [
+        {
+            "typeName": "Ruler",
+            "typeFolderNames": [
+                ".*Ruler.*"
+            ],
+            "frontmatter": [
+                "species",
+                "born",
+                "ancestry",
+                "gender",
+                "died",
+                "home",
+                "homeRegion",
+                "origin",
+                "originRegion",
+                "family",
+                "affiliations",
+                "reignStart",
+                "reignEnd"
+            ],
+            "initialTags": [
+                "NPC/unsorted"
+            ]
+        },
+        {
+            "typeName": "PC",
+            "typeFolderNames": [
+                ".*Ruler.*"
+            ],
+            "frontmatter": [
+                "species",
+                "born",
+                "ancestry",
+                "gender",
+                "died",
+                "home",
+                "homeRegion",
+                "origin",
+                "originRegion",
+                "family",
+                "affiliations",
+                "reignStart",
+                "reignEnd"
+            ],
+            "initialTags": [
+                "NPC/unsorted"
+            ]
+        },
+        {
+            "typeName": "NPC",
+            "typeFolderNames": [
+                "People"
+            ],
+            "frontmatter": [
+                "species",
+                "born",
+                "ancestry",
+                "gender",
+                "died",
+                "home",
+                "homeRegion",
+                "origin",
+                "originRegion",
+                "family",
+                "affiliations"
+            ],
+            "initialTags": [
+                "NPC/unsorted"
+            ]
+        }
+    ]
+}

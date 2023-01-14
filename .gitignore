@@ -22,5 +22,9 @@ Campaigns/
 # Ignore dot directories
 .*/
 
+!.obsidian
+.obsidian/*
+!.obsidian/metadata.json
+
 # Include gitignore
 !.gitignore
