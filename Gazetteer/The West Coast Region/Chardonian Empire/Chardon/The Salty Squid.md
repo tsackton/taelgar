@@ -1,5 +1,4 @@
-### The Salty Squid
+# The Salty Squid
 
-A sailor's tavern in the port district of Chardon
-
+A sailor's tavern in the port district of Chardon.
 
