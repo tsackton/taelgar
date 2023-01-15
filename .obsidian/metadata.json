@@ -3,7 +3,8 @@
         {
             "typeName": "Ruler",
             "typeFolderNames": [
-                ".*Ruler.*"
+                "People.*Ruler.*",
+                "People.*Royalty.*"
             ],
             "frontmatter": [
                 "species",

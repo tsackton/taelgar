@@ -1,5 +1,28 @@
-## Cece I
-*she/her* b. 1628, d. 1712
+---
+type: Ruler
+species: human
+born: 1628
+ancestry: Sembaran
+gender: female
+died: 1712
+home: Embry
+homeRegion: Sembara
+origin:
+originRegion:
+family: House of Sewick
+affiliations:
+whereabouts:
+reignStart: 1652 
+reignEnd:
+name: Cece I
+tags: [NPC/Historical]
+---
+# Cece I
+>[!info]+ Biographical Summary
+>human (Sembaran), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Embry]], [[Sembara]]
 
 Cece I reigned for 60 years, the longest reign in the annuals of the kings and queens of Sembara. Her reign was one of peace, prosperity, and recovery. Sembara finally began to climb out of the devastation of the [[Great War]] and the [[Blood Years]], and for the first time in five generations the future of Sembara seemed to be brighter than its past.
 
