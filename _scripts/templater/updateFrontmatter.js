@@ -1,14 +1,26 @@
 async function updateFrontmatter(tp, allowPrompting, typeToUse) {
 
+    function processReplacementsInString(stringItem, config) {
+        let campaign = "";
+        let campaignPrefix = "";
+        if (config) {
+            campaign = config.campaign??"";
+            campaignPrefix = config.campaignPrefix??"";
+        }
+        if (stringItem == undefined) return "";
+        return stringItem.replace("{campaign}", campaign).replace("{campaignPrefix}", campaignPrefix);
+    }
+
+
     function getKeyDefault(keyName, folderName, config, filetype) {
         if (!config || !config.typeKeyDefaults) return "";
-        let typeKeyDefaults = config.typeKeyDefaults[fileType];
+        let typeKeyDefaults = config.typeKeyDefaults[filetype];
         if (!typeKeyDefaults) return "";
 
         let mapForFolder = typeKeyDefaults[folderName];
         if (!mapForFolder) return "";
 
-        return mapForFolder[keyName] ?? "";
+        return processReplacementsInString(mapForFolder[keyName], config);
     }
 
     async function updateCurrentFile(someContent, someFile) {
@@ -143,7 +155,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
     }
 
     if (!tp.frontmatter.tags) {
-        newFrontMatter.tags = "[" + filetypeMetadata.initialTags.join(", ") + "]";
+        newFrontMatter.tags = "[" + filetypeMetadata.initialTags.map(t => processReplacementsInString(t,config)).join(", ") + "]";
     }
 
     for (let item in newFrontMatter) {
