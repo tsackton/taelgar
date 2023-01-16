@@ -1,6 +1,19 @@
 {
     "types": [
         {
+            "typeName" : "SessionNote",
+            "typeFolderNames": [
+                "Campaigns.*Sessions.*"
+            ],
+            "frontmatter":[
+                "fc-date",
+                "fc-end",
+                "campaign",
+                "realDate",
+                "sessionIndex"
+            ]
+        },
+        {
             "typeName": "Ruler",
             "typeFolderNames": [
                 "People.*Ruler.*",
