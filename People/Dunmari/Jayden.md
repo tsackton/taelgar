@@ -18,11 +18,11 @@ tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 ---
 # Jayden
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), she/her
->b. 1729
->19 years old
->Based in: Karawa, [[Eastern Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Karawa]], [[Eastern Dunmar]]
+
 >Location (updated November 15, 1748): unknown
 
 A quick and aerobatic Dunmari woman from Karawa. 
