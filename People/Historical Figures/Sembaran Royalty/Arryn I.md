@@ -15,7 +15,7 @@ whereabouts:
 reignStart:
 reignEnd:
 name: Arryn I
-tags: [NPC/unsorted]
+tags: [NPC/historical]
 ---
 # Arryn I
 >[!info]+ Biographical Summary

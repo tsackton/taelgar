@@ -15,7 +15,7 @@ origin:
 originRegion:
 affiliations: ["Society of the Open Scroll"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/aware]
 ---
 # Arcus
 >[!info]+ Biographical Summary

@@ -1,11 +1,11 @@
 ---
 type: NPC
 name: Cha'mutte
-species: 
-ancestry: 
+species: dragon
+ancestry: elder wyrm
 gender: 
 born: 
-died: 
+died: 1545
 location: 
 locationRegion:
 home: 
@@ -14,10 +14,13 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/historical]
 yearOverride: 
 ---
-### Cha'mutte
+# Cha'mutte
+>[!info]+ Biographical Summary
+>dragon (elder wyrm), they/them
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 An elder wyrm, one of the original children of [[Arha]] and [[Malik]].
 

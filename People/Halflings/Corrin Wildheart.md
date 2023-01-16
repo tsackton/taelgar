@@ -19,4 +19,4 @@ yearOverride:
 ---
 ## Corrin Wildheart
 
-Halfing man in his prime. Navigator, with a touch of weather magic. 
+Halfling man in his prime. Navigator, with a touch of weather magic. Part of the crew of the [[Wave Dancer]].

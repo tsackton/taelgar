@@ -12,7 +12,7 @@ homeRegion:
 origin:
 originRegion:
 affiliations: 
-tags: [NPC/unsorted]
+tags: [NPC/historical]
 yearOverride: 
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 reignEnd:

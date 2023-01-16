@@ -1,9 +1,10 @@
 ---
 type: NPC
 name: Callie Charmheart
-species: 
+family: Charmhearts
+species: halfling
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 
@@ -14,9 +15,9 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
 ---
 ## Callie Charmheart
 
-Sister to [[Ander Charmheart]].
+Sister to [[Ander Charmheart]], granddaughter of [[Bree Charmheart]]

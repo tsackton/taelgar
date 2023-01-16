@@ -14,14 +14,14 @@ origin:
 originRegion:
 affiliations: ["Lakan mystai"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 ---
 # Basu
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), he/him
->b. 1705
->43 years old
->Based in: Lakan Monastery, [[Central Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Lakan Monastery]], [[Central Dunmar]]
+
 >Location (updated November 15, 1748): Lakan Monastery, [[Central Dunmar]]
 
 The grumpy craftsman of the Lakan monks, known for creating magic items that channel extradimensional space, like bags of holding and portable holes. 

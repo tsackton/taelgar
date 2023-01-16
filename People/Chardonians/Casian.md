@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Society of the Open Scroll"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/major, NPC/DuFr/met]
 ---
 # Casian
 >[!info]+ Biographical Summary

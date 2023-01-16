@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: [Avatus]
-tags: [NPC/unsorted]
+tags: [NPC/historical]
 yearOverride: 
 ---
 

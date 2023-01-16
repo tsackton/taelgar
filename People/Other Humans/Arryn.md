@@ -1,24 +1,27 @@
 ---
 type: NPC
 name: Arryn
-species: 
+species: human
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 
-locationRegion:
+locationRegion: "Eastern Green Sea"
 home: 
-homeRegion:
-origin:
-originRegion:
+homeRegion: 
+origin: Free City of Tollen
+originRegion: "Greater Sembara, Western Green Sea"
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/minor]
 yearOverride: 
 ---
-### Arryn the Wanderer
-(he/him)
+# Arryn
+>[!info]+ Biographical Summary
+>human, he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Originally from: [[Free City of Tollen]], Greater Sembara, Western Green Sea
 
 A wizard of significant power, originally from [[Free City of Tollen|Tollen]]; dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. Freed from the [[Mirror Realm]] by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 57-58 (DuFr)|Wellby's adventures in the eastern Green Sea]]
 

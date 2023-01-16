@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations:
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/major, NPC/DuFr/met]
 ---
 # Antonia
 >[!info]+ Biographical Summary

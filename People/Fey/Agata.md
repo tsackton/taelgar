@@ -1,23 +1,26 @@
 ---
 type: NPC
 name: Agata
-species: 
-ancestry: 
-gender: 
+species: fey
+ancestry: hag
+gender: she
 born: 
 died: 
-location: 
-locationRegion:
+location: "Heartwood Grove, Amberglow"
+locationRegion: Feywild
 home: 
 homeRegion:
 origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/major, NPC/DuFr/met]
 yearOverride: 
 ---
-### Agata Dustmother
+# Agata
+>[!info]+ Biographical Summary
+>fey (hag), they/them
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 A fey creature, a hag sometimes known as the Old Woman of the Dusts. A plotter and dealmaker who always seems to get the better end of the bargain. 
 
