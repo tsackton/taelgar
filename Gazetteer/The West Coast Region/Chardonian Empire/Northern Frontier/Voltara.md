@@ -32,7 +32,7 @@ Inside the walls, Voltara is a rich city, made wealthy on the chalyte trade. It 
 
 The Purple Pig
 
-A modest accommodation outside the city walls, run by Dravia. Modest accomodations, 1 gp per day.
+A modest accommodation outside the city walls, run by Dravia. Modest accomodations, 1 gp per day. Destroyed by Grumella. 
 
 The Sage and Spear
 
