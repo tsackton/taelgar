@@ -18,11 +18,11 @@ tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 ---
 # Jita
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), she/her
->b. 1713
->35 years old
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Based in: plains north of Tokra, [[Central Dunmar]]
+
 >Location (updated July 6, 1748): plains north of Tokra, [[Central Dunmar]]
 
 A Dunmari herder living on the northern plains, north of Tokra. Niece of [[Saka]], and has generally taken charge of helping Saka around camp. 

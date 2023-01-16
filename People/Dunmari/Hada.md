@@ -18,12 +18,12 @@ tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 yearOverride: 
 ---
 # Hada
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), he/him
->b. 1719, d. 1748
->deceased at 29
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Originally from: [[Tokra]], [[Central Dunmar]]
 >Based in: [[Tokra]], [[Central Dunmar]]
+
 >Location (updated November 15, 1748): deceased
 
 The head scribe of the military section of the [[Tokra]] [[Archives]]. He was researching, with [[Govir]], the events surrounding [[The Exile of Fraternity of the Empty Moon]] in DR 1625 from [[Tokra]] in the [[Archives]], in support of [[Govir]]'s planned treatise on the miracles of the [[The Five Siblings|The Five Siblings]] in aid of the Nayan dynasty. 

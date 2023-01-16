@@ -18,10 +18,11 @@ tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 ---
 # Shani
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), she/her
->unknown age
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Based in: plains north of Karawa, [[Eastern Dunmar]]
+
 >Location (updated November 15, 1748): unknown
 
 A goat herder from the area around Karawa. 

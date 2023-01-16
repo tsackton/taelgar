@@ -4,7 +4,7 @@ name: Isha
 species: human
 ancestry: Dunmari
 gender: male
-born: 1696
+born: 
 died: 
 location: 
 locationRegion:
@@ -21,7 +21,7 @@ family:
 ---
 # Isha
 >[!info]+ Biographical Summary
->human (Dunmari), they/them
+>human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 A Dunmari man trapped for many years in the [[Mirror of Soul Trapping]] by Agata. Missing one eye, with gray hair, incoherent. 

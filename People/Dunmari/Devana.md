@@ -18,10 +18,11 @@ tags: [NPC/DuFr/background, NPC/DuFr/aware]
 yearOverride: 
 ---
 # Devana
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), he/him
->unknown age
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Based in: north and west of Karawa, [[Eastern Dunmar]]
+
 >Location (updated November 15, 1748): unknown
 
 A Dunmari pastoralist from the area north and west of Karawa. 
