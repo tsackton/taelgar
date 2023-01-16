@@ -14,14 +14,16 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/major, NPC/DuFr/met]
+whereabouts:
+family:
 ---
 # Hektor
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), he/him
->b. 1726
->22 years old
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Based in: [[Chardon]], [[Chardonian Empire]]
+
 >Location (updated November 15, 1748): somewhere in Dunmar, [[Dunmar]]
 
 A barbarian. A huge Chardonian man, muscled and over 6 feet tall. Silent. Does not wear any armor, just a simple sailor’s cloak, and carries a clearly well-loved and dangerous-looking halberd. 
