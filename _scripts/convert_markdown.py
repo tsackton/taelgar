@@ -6,6 +6,8 @@ import os
 def getExistYear(metadata):
     # get start year
     
+    yearStart = None
+
     if metadata.get("type") == "NPC":
         yearStart = metadata.get("born")
     elif metadata.get("type") == "Ruler":
@@ -59,7 +61,7 @@ def get_PageDatedValue(metadata):
         endPrefix = metadata.get("endPrefix", "d.")
         endStatus = metadata.get("endStatus", "died")
     elif metadata.get("type") == "Ruler":
-        yearStart = int(metadata.get("born"))
+        yearStart = metadata.get("born")
         yearEnd = metadata.get("died")
         preExistError = metadata.get("preExistError", "**(not yet born)**")
         startPrefix = metadata.get("startPrefix", "b.")
@@ -79,6 +81,9 @@ def get_PageDatedValue(metadata):
         startPrefix = metadata.get("startPrefix", "created")
         endPrefix = metadata.get("endPrefix", "destroyed")
         endStatus = metadata.get("endStatus", "destroyed")
+    else: 
+        yearStart = None
+        yearEnd = None
     
     if yearStart is None: 
         if yearEnd is None: 
