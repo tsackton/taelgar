@@ -17,10 +17,10 @@ aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/background]
 ---
 # Amay
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), he/him
->unknown age
->Based in: unknown
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+
 >Location (updated November 15, 1748): Tokra, [[Central Dunmar]]
 
 A captain in the Dunmari army camped near [[Tokra]], in service of [[Illyan]] and ultimately the Samraat [[Nayan Karnas]]. 
