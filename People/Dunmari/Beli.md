@@ -17,11 +17,11 @@ aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/background]
 ---
 # Beli
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), she/her
->b. 1720
->28 years old
->Based in: Karawa, [[Eastern Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Karawa]], [[Eastern Dunmar]]
+
 >Location (updated November 15, 1748): Karawa, [[Eastern Dunmar]]
 
 An initiate of the [[Shakun Mystai]], a young woman skilled in healing and midwifery, with a hint of divine magic about her.

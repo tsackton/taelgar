@@ -3,13 +3,13 @@ type: NPC
 name: Govir
 species: human
 ancestry: Dunmari
-gender: 
+gender: male
 born: 
 died: 
 location: 
 locationRegion:
-home: 
-homeRegion:
+home: Tokra
+homeRegion: Central Dunmar
 origin:
 originRegion:
 affiliations: 
@@ -17,5 +17,8 @@ aliases: []
 tags: [NPC/unsorted, stub]
 yearOverride: 
 ---
-### Govir
-(he/him)
+# Govir
+>[!info]+ Biographical Summary
+>human (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Tokra]], [[Central Dunmar]]

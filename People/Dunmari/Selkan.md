@@ -3,7 +3,7 @@ type: NPC
 name: Selkan
 species: human
 ancestry: Dunmari
-gender: 
+gender: male
 born: 
 died: 
 location: 
@@ -17,8 +17,10 @@ aliases: []
 tags: [NPC/unsorted]
 yearOverride: 
 ---
-### Selkan
-(he/him)
+# Selkan
+>[!info]+ Biographical Summary
+>human (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 A Dunmari man freed from the [[Mirror of Soul Trapping]]. 
 

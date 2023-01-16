@@ -3,11 +3,11 @@ type: NPC
 name: Illyan
 species: human
 ancestry: Dunmari
-gender: 
+gender: male
 born: 
 died: 
-location: 
-locationRegion:
+location: Tokra
+locationRegion: Central Dunmar
 home: 
 homeRegion:
 origin:
@@ -17,6 +17,7 @@ aliases: []
 tags: [NPC/unsorted, stub]
 yearOverride: 
 ---
-
-### Illyan
-(he/him)
+# Illyan
+>[!info]+ Biographical Summary
+>human (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`

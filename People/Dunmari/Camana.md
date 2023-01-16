@@ -17,11 +17,11 @@ aliases: []
 tags: [NPC/DuFr/aware, NPC/DuFr/background]
 ---
 # Camana
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Dunmari), she/her
->b. 1721, d. 1748
->deceased at 27
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Based in: [[Eastern Dunmar]]
+
 >Location (updated November 15, 1748): deceased
 
 A Dunmari warrior, archer, and scout. She is associated with [[Havdar]] and his warrior band, and functions as the leader of his scouting group. 
