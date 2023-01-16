@@ -4,6 +4,7 @@ name: Belegor
 species: elf
 ancestry: 
 gender: male
+ka: 36
 born: 1468
 died: 
 location: "Te'kula village"
@@ -14,15 +15,14 @@ origin:
 originRegion: Ainumarya
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/minor]
 ---
 # Belegor
->[!info] Basic information
+>[!info]+ Biographical Summary
 >elf, he/him
->b. 1468
->280 years old
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Originally from: [[Ainumarya]]
->Based in: unknown
+
 >Location (updated Sept 30, 1748): Te'kula village, [[Elderwood]]
 
 Tall, ageless, with medium length copper hair, pale skin, green eyes. Wears elegant clothes in greens and yellows, with high collar and long, wide sleeves. Graceful.

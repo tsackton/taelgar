@@ -13,7 +13,7 @@ family: House of Lils
 affiliations:
 whereabouts:
 name: Annabeth
-tags: [NPC/unsorted]
+tags: [NPC/historical, NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Annabeth
 >[!info]+ Biographical Summary
