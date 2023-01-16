@@ -15,14 +15,16 @@ originRegion:
 affiliations: 
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+whereabouts:
+title:
+family:
 ---
-
-# Jonathon Henwyn
->[!info]+ Basic information
+#Jonathon Henwyn
+>[!info]+ Biographical Summary
 >human (Sembaran), he/him
->b. 1690
->29 years old
->Based in: Cleenseau, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Based in: [[Cleenseau]], [[Sembara]]
+
 >Location (updated October 21, 1719): Cleenseau, [[Sembara]]
 
 The steward of the [[Essford Manor]] in [[Cleenseau]].
