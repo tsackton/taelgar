@@ -10,13 +10,16 @@ location: Taviose
 locationRegion: Cleenseau
 home: Cleenseau
 homeRegion: Sembara
+title: Sergeant
 origin:
 originRegion:
 affiliations: 
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+whereabouts:
+family:
 ---
-# Odo Cordwaner
+# Sergeant Odo Cordwaner
 >[!info]+ Biographical Summary
 >human (Sembaran), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`

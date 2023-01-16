@@ -30,6 +30,7 @@
                 "origin",
                 "originRegion",
                 "family",
+                "title",
                 "affiliations",
                 "whereabouts",
                 "reignStart",
@@ -76,6 +77,7 @@
                 "origin",
                 "originRegion",
                 "family",
+                "title",
                 "affiliations",
                 "whereabouts"
             ],

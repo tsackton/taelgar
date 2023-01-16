@@ -6,6 +6,7 @@ ancestry: Sembaran
 gender: male
 born: 1652
 died: 
+title: Lord
 location: Cleenseau
 locationRegion: Sembara
 home: Cleenseau

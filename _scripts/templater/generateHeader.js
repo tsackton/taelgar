@@ -34,10 +34,15 @@ async function generateHeader(tp) {
             "\n>Originally from: " + tp.user.getLocation(tp, "origin") : ""
 
         // return string //
+        let nameString = tp.frontmatter.name;
+        if (tp.frontmatter.title) {
+            nameString = tp.frontmatter.title + " " + nameString;
+        }
 
+        
         if (tp.frontmatter.type == "NPC") { 
             
-            headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary" +
+            headerString = "# " + nameString + "\n>[!info]+ Biographical Summary" +
             "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
             "\n>" + '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
             'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
@@ -45,7 +50,7 @@ async function generateHeader(tp) {
 
         } else {
             
-            headerString = "# " + tp.frontmatter.name + "\n>[!info]+ Biographical Summary" +
+            headerString = "# " + nameString + "\n>[!info]+ Biographical Summary" +
             "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
             "\n>" + '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
             'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +

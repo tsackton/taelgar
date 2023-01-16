@@ -10,6 +10,7 @@ homeRegion: Sembara
 origin:
 originRegion:
 family: House of Sewick
+title: Queen
 affiliations:
 whereabouts:
 reignStart: 1652 
@@ -17,7 +18,7 @@ reignEnd:
 name: Cece I
 tags: [NPC/Historical]
 ---
-# Cece I
+# Queen Cece I
 >[!info]+ Biographical Summary
 >human (Sembaran), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
