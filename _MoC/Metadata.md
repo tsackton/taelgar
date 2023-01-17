@@ -22,19 +22,22 @@ Note that core does not mean required (only type and name are really required), 
 | yearOverride  | get_PageDatedValue, get_RegnalValue (dataview)                           | optional (debugging)  | any year                           | use to override the Fantasy Calendar today date, mostly for debugging purposes                                       |
 | reignStart    | get_RegnalValue (dataview)                                               | core (Ruler)          | any year                           | calculate reign start string and reign length in header                                                              |
 | reignEnd      | get_RegnalValue (dataview)                                               | core (Ruler)          | any year                           | calculate reign end string and reign length in header. Redundant if equal to died.                                   |
-| home          | generateHeader (templater), getLocation (templater)                      | core (NPC, Ruler)     | any string (parts comma-delimited) | sets the "Based in: " text in the header. Each comma-delimited piece will be linked if a file exists with that name. |
-| homeRegion    | generateHeader (templater), getLocation (templater)                      | core (NPC, Ruler)     | any string                         | sets the last part of the "Based in: " text in the header. Usually a fairly big region, usually should be linkable.  |
-| origin        | generateHeader (templater), getLocation (templater)                      | optional (NPC, Ruler) | any string                         | works like home but for origin, if relevant                                                                          |
-| originRegion  | generateHeader (templater), getLocation (templater)                      | optional (NPC, Ruler) | any string                         | works like homeRegion, but for originRegion, if relevant                                                             |
+| home          | generateHeader (templater), getLocation (templater)                      | obsolete (NPC, Ruler) | any string (parts comma-delimited) | sets the "Based in: " text in the header. Each comma-delimited piece will be linked if a file exists with that name. |
+| homeRegion    | generateHeader (templater), getLocation (templater)                      | obsolete (NPC, Ruler) | any string                         | sets the last part of the "Based in: " text in the header. Usually a fairly big region, usually should be linkable.  |
+| origin        | generateHeader (templater), getLocation (templater)                      | obsolete (NPC, Ruler) | any string                         | works like home but for origin, if relevant                                                                          |
+| originRegion  | generateHeader (templater), getLocation (templater)                      | obsolete (NPC, Ruler) | any string                         | works like homeRegion, but for originRegion, if relevant                                                             |
 | tags          | none                                                                     | core                  | array of strings                   | tagging, see below                                                                                                   |
 | affiliations  | none                                                                     | core (NPC, Ruler)     | array of strings                   | used to link affiliations to people                                                                                  |
 | aliases       | none                                                                     | core                  | array of strings                   | used for aliases, to simplify auto-linked                                                                            |
-
-
+| maker         | generateHeader (templater)                                               | core (Item)           | string                             | used to set the maker of an item |
+| owner         | generateHeader (templater)                                               | core (Item)           | string                             | used to set the owner of an item |
+| dbbLink       | generateHeader (templater)                                               | core (Item)           | url                                | used to set the mechanics link for an item |
+| gpValue       | generateHeader (templater)                                               | core (Item)           | number                             | used to set the GP Value of an item |
+| gpValueMin    | generateHeader (templater)                                               | optional (Item)       | number                             | if the GP Value is not set, will be used as a floor on the item value |
+| gpValueMax    | generateHeader (templater)                                               | optional (Item)       | number                             | if the GP Value is not set, will be used as a ceiling on the item value |
 Values that are not used by any scripts, and not currently really implemented, but might be useful:
 - whereabouts: as discussed, a way to track location in time that would be more flexible than location / locationRegion fixed frontmatter
 - currentOwner: for items, who has the thing now. although usually not relevant, this could also be done like whereabouts to track ownership over time. 
-- maker: for items, who made it
 - player, campaign: for PCs
 - location, locationRegion: for buildings and places, functioning like home/homeRegion for people
 - population: for places
