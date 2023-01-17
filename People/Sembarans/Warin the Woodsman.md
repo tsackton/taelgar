@@ -6,23 +6,20 @@ ancestry: Sembaran
 gender: male
 born: 1671
 died: 
-location: Valit
-locationRegion: Sembara
-home: Valit
-homeRegion: Sembara
-origin:
-originRegion:
+title:
+family:
 affiliations: 
 aliases: []
 tags: [NPC/DuFr/unaware, NPC/Clee/unaware]
+whereabouts:
+     - { date: 1671-01-02, place: "Valit", region: Sembara}
+     - { date: 1719-10-21, place: "Valit", region: Sembara}
 ---
 # Warin the Woodsman
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Sembaran), he/him
->b. 1671
->48 years old
->Based in: Valit, [[Sembara]]
->Location (updated October 21, 1719): Valit, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A tracker and woodsman from [[Valit]], and confidant of [[Sabine de Brune]].
 

@@ -57,13 +57,10 @@ Example file:
                     "born",
                     "ancestry",
                     "gender",
-                    "died",
-                    "home",
-                    "homeRegion",
-                    "origin",
-                    "originRegion",
+                    "died",                    
                     "affiliations"
                 ],      
+                "supportsWhereabouts": true,
                 "initialTags": [
                     "NPC/unsorted"
                 ]            
@@ -91,3 +88,47 @@ This also supports a custom map, in `taelgarConfig.json`, that maps from file ty
 
 ### process-note-withprompts
 This is indentical to process-note, except that it wil prompt for missing data. At the moment it only prompts for gender and born year, but more prompts are expected to be added with time.
+
+### Whereabouts Handling
+
+Whereabouts provides a mechanism to define a sequence of locations for a specific item, person, etc and generate a location block for that thing in the header section.
+
+It uses a YAML structure like:
+
+```YAML
+whereabouts:
+     - { date: 1682-01-01, place: "Ainswick", region: Sembara}
+     - { date: 1682-01-02, place: "Cleenseau", region: Sembara}
+     - { date: 1701-05-02, place: "Taviose", region: Sembara, excursion: true}
+```
+
+Each record represents a location of a person at a specific time. The excursion flag indicates that this particular location is a trip away from a base, and is used in calcuation of the header (see below).
+
+This YAML structure can be manually edited, but it is also updated via the process-note template as follows, if the metadata for the type defines a supportsWhereabouts boolean to true.
+
+>[!Tip] 
+>The dates must be ordered correctly in the YAML for the heading to work
+
+* If the front matter contains an origin or originRegion, it is translated to a whereabouts line with a date of born-01-01, if born is set, or 0001-01-01 if not
+* If the front matter contains a home or homeRegion, it is translated to a whereabouts line with a date of born-01-02, if born is set, or 0001-01-02 if not
+* If the front matter contains a location or locationRegion, it is translated to a whereabouts line with a date of campaign-current-date from Fantasy Calendar
+
+The home, homeRegion, origin, originRegion, location, and locationRegion elements are then deleted. 
+
+>[!Tip]
+>If you rerun the process-note template after setting a born date it will fixup any whereabouts that still have 0001-years
+
+#### Generating Headers
+The whereabouts is turned into a header via the get_Whereabouts DataView view script. This generates between 0 and 4 headers:
+
+* A "Based in" line using the last whereabout value before the current fantasy calendar date that is not an excursion 
+* An "Originally from" line using the first whereabout value after or equal to the born date (or 1/1/1 if no born date)
+* A "Current location" line using the last whereabout value before the current fantasy calendar date, even if it is an excursion
+* A "Last known location" line using the last whereabout value before the current lastSeenByParty (or, if set, lastSeenByParty_campaignprefix) value
+
+The code then excludes lines as follows:
+* If the originally from line is the same as the based in line, it is not shown
+* If the current location line is the same as the based in line, it is not shown
+* If the last known location line is the same as either the based in line or the current location line, it is not shown. Also, if the lastSeenByParty value is not set, this line is never shown
+
+The based in line only doesn't show if there are no whereabouts.

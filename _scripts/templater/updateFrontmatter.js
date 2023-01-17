@@ -1,5 +1,7 @@
 async function updateFrontmatter(tp, allowPrompting, typeToUse) {
 
+    function fixupLocation(locString) { return locString.replace("[[", "").replace("]]", "");}
+
     function processReplacementsInString(stringItem, config) {
         let campaign = "";
         let campaignPrefix = "";
@@ -159,6 +161,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
     }    
 
     if (filetypeMetadata.supportsWhereabouts) {
+        console.log("Filetype supports whereabouts. Starting whereabouts processing.");
         if (!tp.frontmatter.whereabouts || tp.frontmatter.whereabouts.length == 0) {           
             var indexOfWhereabouts = currentContents.findIndex(s => s.startsWith("whereabouts:"));
             if (indexOfWhereabouts > 0) {
@@ -166,18 +169,79 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
                 indexOfYamlEnd--;  
             }
 
-            if (tp.frontmatter.home && tp.frontmatter.homeRegion) {
-                new Notice("in home")
+            let insertedWhereabouts = false;
+            let whereaboutsInsertIndex = indexOfYamlEnd;
+
+            if (tp.frontmatter.origin || tp.frontmatter.originRegion) {
                 let initialDate = "0001-01-01";
-                if (tp.frontmatter.born) {
-                    initialDate = tp.frontmatter.born + "-01-01" 
+                if (tp.frontmatter.born || newFrontMatter.born) {
+                    initialDate = (tp.frontmatter.born??newFrontMatter.born) + "-01-01" 
                 }
-                currentContents.splice(indexOfYamlEnd, 0, `     - { date: ${initialDate}, place: "${tp.frontmatter.home}", region: ${tp.frontmatter.homeRegion}}`);
-                currentContents.splice(indexOfYamlEnd, 0, "whereabouts:");
+
+                if (!insertedWhereabouts) { 
+                    currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
+                    insertedWhereabouts = true;
+                }
+         
+                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.origin)}", region: ${fixupLocation(tp.frontmatter.originRegion)}}`);
+         
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
-                indexOfYamlEnd -= 2;
+                indexOfYamlEnd--;
+            }       
+
+            if (tp.frontmatter.home || tp.frontmatter.homeRegion) {             
+                let initialDate = "0001-01-02";
+                if (tp.frontmatter.born || newFrontMatter.born) {
+                    initialDate = (tp.frontmatter.born??newFrontMatter.born) + "-01-02" 
+                }
+         
+                if (!insertedWhereabouts) { 
+                    currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
+                    insertedWhereabouts = true;
+                }
+                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.home)}", region: ${fixupLocation(tp.frontmatter.homeRegion)}}`);
+         
+                // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
+                indexOfYamlEnd--;                
             }        
+
+            if (tp.frontmatter.location || tp.frontmatter.locationRegion) {
+                  let currentYear = String(window.FantasyCalendarAPI.getCalendars()[0].current.year).padStart(4, '0');
+                let currentMonth = String(window.FantasyCalendarAPI.getCalendars()[0].current.month+1).padStart(2, '0');
+                let currentDay = String(window.FantasyCalendarAPI.getCalendars()[0].current.day).padStart(2, '0');
+            
+                let initialDate = `${currentYear}-${currentMonth}-${currentDay}`;
+                if (!insertedWhereabouts) { 
+                    currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
+                    insertedWhereabouts = true;
+                }
+                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}}`);
+        
+                // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
+                indexOfYamlEnd--;
+            }   
+
+            if (insertedWhereabouts) indexOfYamlEnd--;
+        } else {
+            console.log("Filetype already has whereabouts present. No processing required.");
         }
+
+        if (tp.frontmatter.born || newFrontMatter.born) {
+            var originDateWhereabouts = currentContents.findIndex((f,i) => i<indexOfYamlEnd && f.startsWith("     - { date: 0001-01"));
+            if (originDateWhereabouts > 0) {
+                console.log(`Found non-born whereabouts data`);
+                currentContents[originDateWhereabouts] = currentContents[originDateWhereabouts].replace("0001", tp.frontmatter.born??newFrontMatter.born);                
+            }   
+        }
+
+        ["home", "homeRegion", "location", "locationRegion", "origin", "originRegion"].forEach(element => {
+            var index = currentContents.findIndex(s => s.startsWith(element + ":"));            
+            if (index > 0) {
+                console.log(`Found ${element}: element to remove at index ${index}`);
+                currentContents.splice(index, 1);      
+                indexOfYamlEnd--;  
+            }            
+        });
     }
 
 
