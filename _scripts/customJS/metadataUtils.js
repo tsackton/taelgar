@@ -7,6 +7,39 @@ class metadataUtils {
             return unknown_value
         }
     }
+    
+    get_Location (place, region) {
+    
+        // construct variables //
+        loc = place
+        locRegion = region
+    
+        if (loc) {
+            if (locRegion) {
+                locArray = loc.split(',')
+                locArray.push(locRegion)
+            } else {
+                locArray = loc.split(',')
+            }
+        } else {
+            if (locRegion) {
+                locArray = locRegion.split(',')
+            } else {
+                // no values
+                return ""
+            }
+        }
+    
+        let locArrayValues = locArray.map(function(f) {
+            pieceValue = f.trim();
+
+            file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
+            if (file != undefined) { return "[[" + pieceValue + "]]";  }
+            return pieceValue;
+        });
+        
+        return locArrayValues.join(', ');
+    }
 
     get_existYear(metadata) {
         if (metadata.born) {

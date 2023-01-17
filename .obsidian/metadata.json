@@ -25,17 +25,14 @@
                 "ancestry",
                 "gender",
                 "died",
-                "home",
-                "homeRegion",
-                "origin",
-                "originRegion",
                 "family",
                 "title",
                 "affiliations",
-                "whereabouts",
                 "reignStart",
                 "reignEnd"
+                
             ],
+            "supportsWhereabouts": true,        
             "initialTags": [
                 "NPC/unsorted"
             ]
@@ -63,6 +60,7 @@
         },
         {
             "typeName": "NPC",
+            "supportsWhereabouts": true,
             "typeFolderNames": [
                 "People"
             ],
@@ -71,15 +69,10 @@
                 "born",
                 "ancestry",
                 "gender",
-                "died",
-                "home",
-                "homeRegion",
-                "origin",
-                "originRegion",
+                "died",          
                 "family",
                 "title",
-                "affiliations",
-                "whereabouts"
+                "affiliations"
             ],
             "initialTags": [
                 "NPC/unsorted"

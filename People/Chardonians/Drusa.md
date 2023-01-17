@@ -6,22 +6,24 @@ ancestry: Chardonian
 gender: female
 born: 
 died: 
-location: Tokra
-locationRegion: "Central Dunmar"
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin:
-originRegion:
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/unsorted]
+whereabouts:
+     - { date: 0001-01-01, place: "Chardon", region: Chardonian Empire}
+     - { date: 1748-05-01, place: "Tokra", region: Central Dunmar, excursion: true}
+originRegion:
+origin:
+homeRegion:
+home:
 ---
 # Drusa
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), she/her
->unknown age
->Based in: Chardon, [[Chardonian Empire]]
->Location (updated November 15, 1748): Tokra, [[Central Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A Chardonian wizard on loan to the Dunmari army of [[Nayan Karnas]], commanded by [[Illyan]], in [[Tokra]]. 
 
