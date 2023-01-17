@@ -77,6 +77,23 @@
             "initialTags": [
                 "NPC/unsorted"
             ]
+        },
+        {
+            "typeName": "Item",
+            "supportsWhereabouts": false,
+            "typeFolderNames": [
+                "Things"
+            ],
+            "frontmatter": [
+                "created",
+                "destroyed",
+                "owner",
+                "maker",
+                "dbbLink",          
+                "magical",
+                "gpValue"
+            ],
+            "initialTags": []
         }
     ]
 }

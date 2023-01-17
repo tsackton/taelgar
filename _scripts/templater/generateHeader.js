@@ -3,13 +3,13 @@ async function generateHeader(tp) {
    const configFilePath = app.vault.getRoot().path + ".obsidian/taelgarConfig.json";
    let configFile = await app.vault.adapter.read(configFilePath);
    let config = JSON.parse(configFile);    
-
+   const dViewPath = config.dViewPath;
+     
       
     if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler") {
         // create a NPC header // 
 
-        const dViewPath = config.dViewPath;
-        
+         
         // load metadataUtils via customJS //
     
         const {metadataUtils} = customJS
@@ -58,7 +58,56 @@ async function generateHeader(tp) {
             'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
             locationDisplay + "\n"
         }
-    } else {
+    } else if (tp.frontmatter.type == "Item") {
+        let ownerDisplay = "";
+        let makerDisplay = "";
+        let timeDisplay = "";
+        let mechanics = "";
+        let valueDisplay = "";
+        if (tp.frontmatter.owner) {
+            ownerDisplay = ">Owner: [[" + tp.frontmatter.owner + "]]\n";
+        }
+        if (tp.frontmatter.maker) {
+            makerDisplay = ">Maker: [[" + tp.frontmatter.maker + "]]\n";
+        }
+        if (tp.frontmatter.created || tp.frontmatter.destroyed) {
+            timeDisplay = '>`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
+            'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`';
+        }
+        
+        if (tp.frontmatter.gpValueMin || tp.frontmatter.gpValueMax) {
+            if (!tp.frontmatter.gpValueMax) {
+                valueDisplay = ">Worth at least " + tp.frontmatter.gpValueMin + " gold pieces\n";    
+            } 
+            else if (!tp.frontmatter.gpValueMin) {
+                valueDisplay = ">Worth at most " + tp.frontmatter.gpValueMax + " gold pieces\n";    
+            }
+            else {
+                valueDisplay = ">Worth between " + tp.frontmatter.gpValueMin + " and " + tp.frontmatter.gpValueMax + " gold pieces\n";
+            }
+        }
+        
+        // this order is important to ensure that specific value wins over range
+        if (tp.frontmatter.gpValue) {    
+            valueDisplay = ">Worth " + tp.frontmatter.gpValue + " gold pieces\n";
+        }
+    
+        if (tp.frontmatter.dbbLink) {
+            mechanics = "> [Mechanics](" + tp.frontmatter.dbbLink + ")";
+        }
+
+        headerString = "# " + tp.frontmatter.name + "\n";
+        if (tp.frontmatter.magical) {
+            headerString += "### (magical item)\n";
+        } else if (tp.frontmatter.magical != undefined) {
+            headerString += "### (mundane item)\n";
+        }
+        if (ownerDisplay || makerDisplay || timeDisplay || mechanics || valueDisplay) {
+            headerString += ">[!info]+ Summary\n" + valueDisplay + ownerDisplay + makerDisplay + timeDisplay + mechanics;
+        }
+        headerString += "\n";
+    }
+    else {
         let title = tp.frontmatter.name;
         if (!title) title = tp.file.title;
         headerString = "# " + title + "\n>[!warning]+\n>**Header for type " + tp.frontmatter.type + " doesn't exist!**"
