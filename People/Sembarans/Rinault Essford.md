@@ -7,23 +7,19 @@ ancestry: Sembaran
 gender: male
 born: 1688
 died: 
-location: somewhere upriver from Cleenseau
-locationRegion: Sembara
-home: Cleenseau
-homeRegion: Sembara
-origin:
-originRegion:
 affiliations: 
+family:
 aliases: [Lord Rinault, Lord Rinault Essford]
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-family:
+     - { date: 1688-01-01, place: "Cleenseau", region: Sembara}
+     - { date: 1719-10-18, place: "somewhere upriver from Cleenseau", region: Sembara, excursion: true}
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Summary
 >human (Sembaran), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Based in: [[Cleenseau]], [[Sembara]]
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 The younger brother of [[Rosalind Essford|Rosalind]] he is considered rash and impulse. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
 

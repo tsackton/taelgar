@@ -156,7 +156,30 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
 
     if (!tp.frontmatter.tags) {
         newFrontMatter.tags = "[" + filetypeMetadata.initialTags.map(t => processReplacementsInString(t,config)).join(", ") + "]";
+    }    
+
+    if (filetypeMetadata.supportsWhereabouts) {
+        if (!tp.frontmatter.whereabouts || tp.frontmatter.whereabouts.length == 0) {           
+            var indexOfWhereabouts = currentContents.findIndex(s => s.startsWith("whereabouts:"));
+            if (indexOfWhereabouts > 0) {
+                currentContents.splice(indexOfWhereabouts, 1);      
+                indexOfYamlEnd--;  
+            }
+
+            if (tp.frontmatter.home && tp.frontmatter.homeRegion) {
+                new Notice("in home")
+                let initialDate = "0001-01-01";
+                if (tp.frontmatter.born) {
+                    initialDate = tp.frontmatter.born + "-01-01" 
+                }
+                currentContents.splice(indexOfYamlEnd, 0, `     - { date: ${initialDate}, place: "${tp.frontmatter.home}", region: ${tp.frontmatter.homeRegion}}`);
+                currentContents.splice(indexOfYamlEnd, 0, "whereabouts:");
+                // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
+                indexOfYamlEnd -= 2;
+            }        
+        }
     }
+
 
     for (let item in newFrontMatter) {
         let iv = newFrontMatter[item];
@@ -176,9 +199,11 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
         tfile = app.vault.getAbstractFileByPath(newFileName);
     }
 
+
+
     await updateCurrentFile(currentContents, tfile);
     await tp.user.regenerateHeader(tp, headerType);
 
 
 }
-module.exports = updateFrontmatter;
+module.exports = updateFrontmatter

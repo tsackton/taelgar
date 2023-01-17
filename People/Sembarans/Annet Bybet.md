@@ -6,24 +6,19 @@ ancestry: Sembaran
 gender: female
 born: 1692
 died: 
-location: Cleenseau
-locationRegion: Sembara
-home: Cleenseau
-homeRegion: Sembara
-origin: Ainswick
-originRegion: Sembara
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+whereabouts:
+     - { date: 1692-01-01, place: "Ainswick", region: Sembara}
+     - { date: 1692-01-02, place: "Cleenseau", region: Sembara}
 ---
-
 # Annet Bybet
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Sembaran), she/her
->b. 1692
->27 years old
->Originally from: [[Ainswick]], [[Sembara]]
->Based in: Cleenseau, [[Sembara]]
->Location (updated October 21, 1719): Cleenseau, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A cousin of [[Arthur Bybet]] and the chamberlain of the Essford household. 

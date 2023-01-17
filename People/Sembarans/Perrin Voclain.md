@@ -6,23 +6,21 @@ ancestry: Sembaran
 gender: male
 born: 1659
 died: 
-location: Valit
-locationRegion: Sembara
-home: Cleenseau
-homeRegion: Sembara
-origin:
-originRegion:
 affiliations: 
+title:
+family:
 aliases: []
+lastMeetByParty_clee: 1719-10-20
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+whereabouts:
+     - { date: 1659-01-01, place: "Taviose", region: Sembara}    
+     - { date: 1719-10-21, place: "Valit", region: Sembara, excursion: true}
 ---
 # Perrin Voclain
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Sembaran), he/him
->b. 1659
->60 years old
->Based in: Cleenseau, [[Sembara]]
->Location (updated October 21, 1719): Valit, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 Perrin Voclain is a sage and druid who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]].
 

@@ -8,8 +8,6 @@ async function generateHeader(tp) {
     if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler") {
         // create a NPC header // 
 
-        // load campaign prefix and path to dv.view() scripts from config //
-        const campaignValue = config.campaignPrefix;
         const dViewPath = config.dViewPath;
         
         // load metadataUtils via customJS //
@@ -24,42 +22,42 @@ async function generateHeader(tp) {
         // get pronouns //
         
         let pronounDisplayValue = ", " + metadataUtils.get_Pronouns(tp.frontmatter)
-        
+        let locationDisplay = "";
+       
         // get home and origin // 
-        
-        let homeDisplayValue = (tp.frontmatter.home || tp.frontmatter.homeRegion) ? 
+        if (tp.frontmatter.whereabouts) {                
+            locationDisplay = `\n>\`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + \".obsidian/taelgarConfig.json\"), "prefix": ">", "suffix":""})\``;
+        } else {
+            let homeDisplayValue = (tp.frontmatter.home || tp.frontmatter.homeRegion) ? 
             "\n>Based in: " + tp.user.getLocation(tp, "home") : ""
         
-        let originDisplayValue = (tp.frontmatter.origin || tp.frontmatter.originRegion) ? 
+            let originDisplayValue = (tp.frontmatter.origin || tp.frontmatter.originRegion) ? 
             "\n>Originally from: " + tp.user.getLocation(tp, "origin") : ""
+
+            locationDisplay = homeDisplayValue + originDisplayValue;
+        }
 
         // return string //
         let nameString = tp.frontmatter.name;
         if (tp.frontmatter.title) {
             nameString = tp.frontmatter.title + " " + nameString;
         }
-
-        
-        if (tp.frontmatter.type == "NPC") { 
-            
+    
+        if (tp.frontmatter.type == "NPC") {             
             headerString = "# " + nameString + "\n>[!info]+ Biographical Summary" +
             "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
             "\n>" + '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
             'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
-            originDisplayValue + homeDisplayValue + "\n"
-
-        } else {
-            
+            locationDisplay + "\n"
+        } else {            
             headerString = "# " + nameString + "\n>[!info]+ Biographical Summary" +
             "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
             "\n>" + '`$=dv.view("' + dViewPath + 'get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
             'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
             "\n>" + '`$=dv.view("' + dViewPath + 'get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? ' +
             'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
-            originDisplayValue + homeDisplayValue + "\n"
-
+            locationDisplay + "\n"
         }
-
     } else {
         let title = tp.frontmatter.name;
         if (!title) title = tp.file.title;
