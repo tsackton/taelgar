@@ -1,30 +1,25 @@
 ---
 type: NPC
-name: Lord Wymar Essford
+name: Wymar Essford
 species: human
 ancestry: Sembaran
 gender: male
 born: 1652
 died: 
 title: Lord
-location: Cleenseau
-locationRegion: Sembara
-home: Cleenseau
-homeRegion: Sembara
-origin:
-originRegion:
+family:
 affiliations: 
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+whereabouts:
+     - { date: 1652-01-02, place: "Cleenseau", region: Sembara}
+     - { date: 1719-10-21, place: "Cleenseau", region: Sembara}
 ---
-
 # Lord Wymar Essford
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Sembaran), he/him
->b. 1652
->67 years old
->Based in: Cleenseau, [[Sembara]]
->Location (updated October 21, 1719): Cleenseau, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 The aging and senile lord of the manor in [[Cleenseau]]. He is rarely involved in the day to day events of the town.
 

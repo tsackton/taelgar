@@ -6,22 +6,19 @@ ancestry: Sembaran
 gender: male
 born: 1699
 died: 
-location: "[[Cleenseau]]"
-locationRegion: Sembara
-home: "[[Cleenseau]]"
-homeRegion: Sembara
-origin:
-originRegion:
+title:
+family:
 affiliations: 
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+whereabouts:
+     - { date: 1699-01-01, place: "Cleenseau", region: Sembara}
+     - { date: 1719-10-21, place: "Cleenseau", region: Sembara}
 ---
 # Conrad
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Sembaran), he/him
->b. 1699
->20 years old
->Based in: [[Cleenseau]], [[Sembara]]
->Location (updated October 21, 1719): [[Cleenseau]], [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 [[Anselm|Anselm's]] assistant at the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]]. 
