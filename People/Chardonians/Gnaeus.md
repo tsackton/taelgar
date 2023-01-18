@@ -5,25 +5,22 @@ species: human
 ancestry: Chardonian
 gender: male
 born: 1701
+title:
+family:
 died: 
-location: Chardon
-locationRegion: "Chardonian Empire"
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin: Arendum
-originRegion: "Chardonian Empire"
 affiliations: ["University of Chardon", "Sibyl's Hall"]
 aliases: []
 tags: [NPC/unsorted]
+whereabouts:
+     - { date: 1701-01-01, place: "Arendum", region: Chardonian Empire}
+     - { date: 1701-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1748-11-15, place: "Chardon", region: Chardonian Empire}
 ---
 # Gnaeus
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), he/him
->b. 1701
->47 years old
->Originally from: [[Arendum]], [[Chardonian Empire]]
->Based in: [[Chardon]], [[Chardonian Empire]]
->Location (updated November 15, 1748): [[Chardon]], [[Chardonian Empire]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A disgraced historian and scholar, expelled from the Faculty for using enchantment magic to aid his research, now making a poor living as a tutor. 
 

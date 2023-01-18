@@ -6,25 +6,22 @@ ancestry: Chardonian
 gender: male
 born: 1726
 died: 
-location: "somewhere in Dunmar"
-locationRegion: Dunmar
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin:
-originRegion:
 affiliations: 
+title:
 aliases: []
 tags: [NPC/DuFr/major, NPC/DuFr/met]
-whereabouts:
 family:
+whereabouts:
+     - { date: 1726-01-01, place: "Chardon", region: Chardonian Empire}
+     - { date: 1726-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, excursion: true}
+     - { date: 1748-11-20, place: "Garamjala Desert", region: Dunmar, excursion: true} #secret
 ---
 # Hektor
 >[!info]+ Biographical Summary
 >human (Chardonian), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Based in: [[Chardon]], [[Chardonian Empire]]
-
->Location (updated November 15, 1748): somewhere in Dunmar, [[Dunmar]]
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A barbarian. A huge Chardonian man, muscled and over 6 feet tall. Silent. Does not wear any armor, just a simple sailor’s cloak, and carries a clearly well-loved and dangerous-looking halberd. 
 
