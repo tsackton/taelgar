@@ -14,8 +14,9 @@ family:
 whereabouts:
      - { date: 1726-01-01, place: "Chardon", region: Chardonian Empire}
      - { date: 1726-01-02, place: "Chardon", region: Chardonian Empire}
-     - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, excursion: true}
 ###secret[1]
+     - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, excursion: true}
+###secret[2]
 ---
 # Hektor
 >[!info]+ Biographical Summary
