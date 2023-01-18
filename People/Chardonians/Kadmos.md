@@ -1,20 +1,4 @@
----
-type: NPC
-name: Kadmos
-species: human
-ancestry: Chardonian
-gender: male
-born: 
-died: 
-title:
-family:
-affiliations: ["The Society of the Open Scroll"]
-aliases: []
-tags: [NPC/unsorted]
-whereabouts:
-     - { date: 0001-01-02, place: "Chardon", region: Chardonian Empire}
-     - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, excursion: true}
-     - { date: 1748-11-20, place: "Garamjala Desert", region: Dunmar, excursion: true} #secret
+###secret[1]
 ---
 # Kadmos
 >[!info]+ Biographical Summary
