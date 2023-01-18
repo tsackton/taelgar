@@ -6,22 +6,20 @@ ancestry: Chardonian
 gender: male
 born: 
 died: 
-location: "somewhere in Dunmar"
-locationRegion: Dunmar
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin:
-originRegion:
+title:
+family:
 affiliations: ["The Society of the Open Scroll"]
 aliases: []
 tags: [NPC/unsorted]
+whereabouts:
+     - { date: 0001-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, excursion: true}
 ---
 # Kadmos
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), he/him
->unknown age
->Based in: [[Chardon]], [[Chardonian Empire]]
->Location (updated November 15, 1748): somewhere in Dunmar, [[Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
 
