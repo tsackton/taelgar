@@ -15,7 +15,7 @@ whereabouts:
      - { date: 1726-01-01, place: "Chardon", region: Chardonian Empire}
      - { date: 1726-01-02, place: "Chardon", region: Chardonian Empire}
      - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, excursion: true}
-     - { date: 1748-11-20, place: "Garamjala Desert", region: Dunmar, excursion: true} #secret
+     - { date: 1748-11-19, place: "Garamjala Desert", region: Dunmar, excursion: true} #secret
 ---
 # Hektor
 >[!info]+ Biographical Summary
