@@ -1,20 +1,23 @@
 ---
 type: Ruler
-species:
-born:
-ancestry:
-gender:
-died:
-family:
-title:
 affiliations:
 reignStart:
 reignEnd:
 name: Reginald
 tags: [NPC/unsorted]
+title:
+family:
+died: 1550
+gender: male
+ancestry: Sembaran
+born: 1510
+species: human
 ---
-### Reginald of Sewick
-*he/him*, b. 1510, d. 1550
+# Reginald
+>[!info]+ Biographical Summary
+>human (Sembaran), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 The eldest son of [[Derik III]] by his first wife, [[Sarabet]]. Although he never reigned, largely due to the influence of [[Jane of Tollen]] to support her son during the chaos of the end of the Great War, he had five children, three of who reigned as monarches.
 
