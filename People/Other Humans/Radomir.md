@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Radomir
-species: 
-ancestry: 
-gender: 
+species: human
+ancestry: Urskan
+gender: male
 born: 
 died: 
 location: 
@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/aware]
 yearOverride: 
 ---
 ## Radomir

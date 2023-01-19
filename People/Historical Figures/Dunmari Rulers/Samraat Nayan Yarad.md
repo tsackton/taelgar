@@ -13,7 +13,7 @@ homeRegion:
 origin:
 originRegion:
 affiliations: 
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/aware, NPC/historical]
 yearOverride: 
 aliases: [Nayan Yarad]
 ---

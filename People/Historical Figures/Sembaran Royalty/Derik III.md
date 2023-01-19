@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Derik III
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Derik III
 *he/him*, b. 1489, d. 1549

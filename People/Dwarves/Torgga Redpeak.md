@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Torgga Redpeak
-species: 
+species: dwarf
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 

@@ -14,7 +14,7 @@ locationRegion: "~CentralMountains~"
 origin:
 originRegion:
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 ---
 # Safri
 >[!info] Basic information

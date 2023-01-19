@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Charlotte I
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Charlotte I
 *she/her*, b. 1460, d. 1519

@@ -13,7 +13,7 @@ homeRegion:
 origin:
 originRegion:
 affiliations: 
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/aware, NPC/historical, NPC/DuFr/background]
 yearOverride: 
 aliases: [Samraat Jita]
 ---

@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Jane of Tollen
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Jane of Tollen
 

@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Grash's Horde"]
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
+tags: [NPC/DuFr/met, NPC/DuFr/background]
 yearOverride: 
 ---
 # Gorkil

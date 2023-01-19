@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Bertram II
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Bertram II
 *he/him*, b. 1537, d. 1560

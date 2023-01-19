@@ -2,7 +2,7 @@
 type: NPC
 name: Apollyon
 title: Emperor
-species: 
+species: undead
 ancestry: 
 gender: male
 born: 
@@ -18,7 +18,7 @@ whereabouts:
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Summary
->unknown species, he/him
+>undead, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 

@@ -3,7 +3,7 @@ type: NPC
 name: Agata
 species: fey
 ancestry: hag
-gender: she
+gender: female
 born: 
 died: 
 location: "Heartwood Grove, Amberglow"

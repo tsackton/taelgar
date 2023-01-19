@@ -3,28 +3,22 @@ type: NPC
 name: Herasto
 species: centaur
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
 affiliations: 
 aliases: []
-lastSeenByParty_DuFr: 
-whereabouts:
-- {dateAr: 0001-01-01, place: "", region: }
-
 yearOverride: 
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/GrLi/unsorted]
 family:
+title:
+whereabouts:
+     - { date: 1748-11-23, place: "plains south of Voltara, Voltara", region: Chardonian Empire, excursion: true }
 ---
 # Herasto
 >[!info]+ Biographical Summary
->unknown species, they/them
+>centaur, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 %%Group of centaurs currently wintering in sheltered valleys south of Voltara%%

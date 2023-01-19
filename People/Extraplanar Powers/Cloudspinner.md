@@ -10,7 +10,7 @@ title:
 family:
 affiliations: 
 aliases: ["Queen of Sunset"]
-tags: [NPC/DuFr/aware, NPC/DuFr/background]
+tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 whereabouts:
      - { date: 0001-01-01, place: "somewhere", region: unknown }
      - { date: 0001-01-02, place: "Amberglow", region: Feywild }

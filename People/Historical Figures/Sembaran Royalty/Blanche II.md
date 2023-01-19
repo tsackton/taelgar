@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Blanche II
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Blanche II
 *she/her* b. 1570, d. 1595

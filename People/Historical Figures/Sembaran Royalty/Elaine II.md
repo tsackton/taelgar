@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Elaine II
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Elaine II
 *she/her*, b. 1670, d. 1745

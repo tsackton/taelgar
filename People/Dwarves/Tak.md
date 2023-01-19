@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Tak
-species: 
+species: dwarf
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

@@ -11,7 +11,7 @@ homeRegion:
 origin:
 originRegion:
 affiliations:
-tags: [NPC/unsorted]
+tags: [NPC/GrLi/unsorted, NPC/DuFr/unaware]
 ---
 # Grumella
 >[!info]+ Biographical Summary
