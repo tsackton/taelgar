@@ -11,7 +11,7 @@ affiliations:
 player:
 campaign:
 name: Iascaire
-tags: [PC/unsorted]
+tags: [PC/DunmarFrontier/SoloGuest]
 ---
 # Iascaire
 
