@@ -1,4 +1,5 @@
 ---
+type: Organization
 tags: [organization/religious]
 ---
 # The Shakun Mystai

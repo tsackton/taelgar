@@ -1,7 +1,24 @@
-### Anne of Sewick
-*she/her* b. 1542, d. 1582
+---
+type: Ruler
+species: human
+born: 1542
+ancestry: Sembaran
+gender: female
+died: 1582
+family:
+title:
+affiliations:
+reignStart:
+reignEnd:
+name: Anne of Sewick
+tags: [NPC/unsorted]
+---
+# Anne of Sewick
+>[!info]+ Biographical Summary
+>human (Sembaran), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 The twin sister of [[Elaine I]] and daughter of [[Reginald]], she was executed for treason after attempting to force her sister to abidicate he throne by magic.
 
 Her three children were allowed to live in exile: Wilhema and Eloise in Tollen, and her youngest, Peregrin, in Chardon.
-

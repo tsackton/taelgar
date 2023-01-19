@@ -1,3 +1,18 @@
+---
+type: PC
+species:
+born:
+ancestry:
+gender:
+died:
+origin:
+originRegion:
+affiliations:
+player:
+campaign:
+name: Rufus
+tags: [PC/DunmarFrontier/SoloGuest]
+---
 ## Rufus
 (he/him)
 

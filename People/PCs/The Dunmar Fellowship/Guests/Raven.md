@@ -1,3 +1,19 @@
+---
+type: PC
+species:
+born:
+ancestry:
+gender:
+died:
+origin:
+originRegion:
+affiliations:
+player:
+campaign:
+name: Raven
+tags: [PC/DunmarFrontier/SoloGuest]
+---
+<% tp.user.generateHeader(tp) %>
 ## Raven 
 (they/them)
 

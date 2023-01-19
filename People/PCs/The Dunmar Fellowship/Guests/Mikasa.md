@@ -1,3 +1,19 @@
+---
+type: PC
+species:
+born:
+ancestry:
+gender:
+died:
+origin:
+originRegion:
+affiliations:
+player:
+campaign:
+name: Mikasa
+tags: [PC/DunmarFrontier/SoloGuest]
+---
+<% tp.user.generateHeader(tp) %>
 ## Mikasa
 (she/her)
 

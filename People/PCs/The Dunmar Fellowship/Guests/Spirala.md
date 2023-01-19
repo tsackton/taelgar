@@ -1,3 +1,18 @@
+---
+type: PC
+species:
+born:
+ancestry:
+gender:
+died:
+origin:
+originRegion:
+affiliations:
+player:
+campaign:
+name: Spirala
+tags: [PC/DunmarFrontier/SoloGuest]
+---
 ## Spirala 
 (she/her)
 

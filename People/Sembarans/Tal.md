@@ -1,3 +1,17 @@
+---
+type: NPC
+species:
+born:
+ancestry:
+gender:
+died:
+family:
+title:
+affiliations:
+name: Tal
+tags: [NPC/unsorted]
+---
+
 ## Tal
 *he/him*
 
