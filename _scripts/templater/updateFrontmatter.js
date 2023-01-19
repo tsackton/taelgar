@@ -130,9 +130,32 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
     }
 
     if (filetypeMetadata) {
+        let infoLine = currentContents.find((f) => (f.contains("b.") || f.contains("she")|| f.contains("he")||f.contains("they")));
+
         for (const element of filetypeMetadata.frontmatter) {            
             if (Object.keys(tp.frontmatter).find(f => f == element) == undefined) {
+               
                 let value = getKeyDefault(element, folder, config, fileType);
+                if (infoLine != undefined) {
+                    if (element == "gender") {
+                        if (infoLine.contains("she")) value = "female";
+                        else if (infoLine.contains("they")) value = "nonbinary";
+                        else if (infoLine.contains("he")) value= "male";
+                    } 
+                    else if (element == "born") {
+                        let bIndex = infoLine.search("b.");
+                        if (bIndex > 0)     {
+                            value = infoLine.substr(bIndex+3, 4);
+                        }                        
+                    }
+                    else if (element == "died") {
+                        let dIndex = infoLine.search("d.");
+                        if (dIndex > 0)     {
+                            value = infoLine.substr(dIndex+3, 4);
+                        }                        
+                    }
+                }
+
                 if (newFile && !value && allowPrompting) {
                     if (element == "gender") {
                         let genders = ["male", "female", "nonbinary"];
@@ -215,7 +238,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
                     currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
                     insertedWhereabouts = true;
                 }
-                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}}`);
+                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}, excursion: true}`);
         
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
                 indexOfYamlEnd--;
