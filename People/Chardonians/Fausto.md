@@ -6,22 +6,20 @@ ancestry: Chardonian
 gender: male
 born: 
 died: 
-location: Chardon
-locationRegion: "Chardonian Empire"
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin:
-originRegion:
+title:
+family:
 affiliations: ["The Society of the Open Scroll", "The Cleansed"] 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/major, NPC/DuFr/met]
+whereabouts:
+     - { date: 0001-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1748-11-23, place: "Chardon", region: Chardonian Empire, excursion: true }
 ---
 # Fausto
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), he/him
->unknown age
->Based in: [[Chardon]], [[Chardonian Empire]]
->Location (updated November 15, 1748): [[Chardon]], [[Chardonian Empire]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A poweful enchanter and a major funder of treasure hunters associated with the [[Society of the Open Scroll]], and also apparently a member of a secret organization called [[The Cleansed]]. 
 

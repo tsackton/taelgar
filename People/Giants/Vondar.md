@@ -9,7 +9,7 @@ died:
 affiliations: 
 aliases: []
 title:
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/met_one]
 yearOverride: 
 family:
 whereabouts:

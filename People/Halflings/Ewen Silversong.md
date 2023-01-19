@@ -1,22 +1,25 @@
 ---
 type: NPC
 name: Ewen Silversong
-species: 
+species: halfling
 ancestry: 
-gender: 
-born: 
+gender: male
+born: 1649
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+affiliations: ["Emerald Song crew"]
 aliases: []
-tags: [NPC/unsorted]
+title:
+family: Silversong
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
+whereabouts:
+     - { date: 1748-08-26, place: "Chardon", region: Chardonian Empire, excursion: true }
+     - { date: 1748-11-23, place: "unknown", region: Nevos Sea, excursion: true }
 ---
-### Ewen Silversong
+# Ewen Silversong
+>[!info]+ Biographical Summary
+>halfling, he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 Songmaster and storyteller on the [[Emerald Song]].
