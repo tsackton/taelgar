@@ -16,7 +16,7 @@ whereabouts:
 reignStart: 1652 
 reignEnd:
 name: Cece I
-tags: [NPC/Historical]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Queen Cece I
 >[!info]+ Biographical Summary

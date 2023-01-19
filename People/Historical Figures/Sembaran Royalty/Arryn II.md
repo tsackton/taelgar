@@ -15,7 +15,7 @@ whereabouts:
 reignStart: 1595
 reignEnd: 1628
 name: Arryn II
-tags: [NPC/historical]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Arryn II
 >[!info]+ Biographical Summary

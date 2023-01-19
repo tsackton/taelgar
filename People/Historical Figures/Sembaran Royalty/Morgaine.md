@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Morgaine
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Morgaine
 *she/her*, b. 1585, d. 1685

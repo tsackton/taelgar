@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: [Chanceweaver]
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
 ---
 ## The Prince of Luck

@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
+tags: [NPC/DuFr/met, NPC/DuFr/major]
 yearOverride: 
 aliases: [Garret]
 ---

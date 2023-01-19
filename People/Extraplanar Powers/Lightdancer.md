@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: [Egon,Lord Egon]
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/met_one]
 yearOverride: 
 ---
 ## Lightdancer

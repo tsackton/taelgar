@@ -20,7 +20,7 @@ family:
 ## other ##
 yearOverride: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 ---
 # Lara
 >[!info]+ Biographical Summary

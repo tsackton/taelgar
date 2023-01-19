@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Faculty of Magic", "University of Chardon", "Society of the Open Scroll"] 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 ---
 # Galen
 >[!info]+ Biographical Summary

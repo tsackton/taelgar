@@ -5,7 +5,7 @@ species:
 ancestry: 
 gender: 
 born: 
-died: 
+died: 1748
 location: 
 locationRegion:
 home: 
@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 ---
 ### The Unnamed Werewolf

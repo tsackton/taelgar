@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Wisym I
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Wisym I
 *he/him*, b. 1520, d. 1582

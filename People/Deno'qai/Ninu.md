@@ -14,7 +14,7 @@ affiliations:
 location: "Ko'zula village"
 locationRegion:
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/background, NPC/DuFr/met_one]
 ---
 # Ninu
 >[!info] Basic information

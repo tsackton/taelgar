@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: [Nora]
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
 ---
 ## Nora Silverspark 

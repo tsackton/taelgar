@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted, stub]
+tags: [NPC/DuFr/major, NPC/DuFr/met, stub]
 yearOverride: 
 ---
 
