@@ -257,9 +257,10 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
 
         if (tp.frontmatter.born || newFrontMatter.born) {
             var originDateWhereabouts = currentContents.findIndex((f,i) => i<indexOfYamlEnd && f.startsWith("     - { date: 0001-01"));
-            if (originDateWhereabouts > 0) {
+            while (originDateWhereabouts > 0) {
                 console.log(`Found non-born whereabouts data`);
-                currentContents[originDateWhereabouts] = currentContents[originDateWhereabouts].replace("0001", tp.frontmatter.born??newFrontMatter.born);                
+                currentContents[originDateWhereabouts] = currentContents[originDateWhereabouts].replace("0001", tp.frontmatter.born??newFrontMatter.born);        
+                originDateWhereabouts = currentContents.findIndex((f,i) => i<indexOfYamlEnd && f.startsWith("     - { date: 0001-01"));        
             }   
         }
 
