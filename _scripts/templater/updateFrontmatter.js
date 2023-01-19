@@ -130,13 +130,14 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
     }
 
     if (filetypeMetadata) {
-        let infoLine = currentContents.find((f) => (f.contains("b.") || f.contains("she")|| f.contains("he")||f.contains("they")));
+        let infoLine = currentContents.find((f) => (f.contains("b.") || f.contains("she/her")|| f.contains("he/him")|| f.contains("they/them")));
 
         for (const element of filetypeMetadata.frontmatter) {            
             if (Object.keys(tp.frontmatter).find(f => f == element) == undefined) {
                
                 let value = getKeyDefault(element, folder, config, fileType);
                 if (infoLine != undefined) {
+                    console.log("has infoline: " + infoLine);
                     if (element == "gender") {
                         if (infoLine.contains("she")) value = "female";
                         else if (infoLine.contains("they")) value = "nonbinary";
