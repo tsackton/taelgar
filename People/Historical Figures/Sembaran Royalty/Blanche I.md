@@ -13,8 +13,11 @@ reignEnd:
 name: Blanche I
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
-## Blanche I
-*she/her*, b. 1541, d. 1567
+# Blanche I
+>[!info]+ Biographical Summary
+>human (Sembaran), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 A ruler of Sembara during the 1560s, she was the second child of [[Reginald]]. Her death launched the [[Interregum of 1568]], as her sisters, [[Anne]] and [[Elaine I]] disputed the succession.
 

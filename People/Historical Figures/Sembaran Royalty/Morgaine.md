@@ -1,20 +1,23 @@
 ---
 type: Ruler
-species:
-born:
-ancestry:
-gender:
-died:
-family:
-title:
 affiliations:
 reignStart:
 reignEnd:
 name: Morgaine
 tags: [NPC/unsorted]
+title:
+family: House of Lils
+died: 1685
+gender: female
+ancestry: Tyrwinghan
+born: 1585
+species: human
 ---
-## Morgaine
-*she/her*, b. 1585, d. 1685
+# Morgaine
+>[!info]+ Biographical Summary
+>human (Tyrwinghan), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 One of the founders of the [[House of Lils]], originally an [[Oracle of the Riven]].
 

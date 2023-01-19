@@ -5,15 +5,11 @@ born: 1600
 ancestry: Tyrwinghan
 gender: female
 died: 1655
-home:
-homeRegion:
-origin:
-originRegion:
 family: House of Lils
 affiliations:
-whereabouts:
 name: Annabeth
 tags: [NPC/historical, NPC/Clee/unsorted, NPC/DuFr/unaware]
+title:
 ---
 # Annabeth
 >[!info]+ Biographical Summary
