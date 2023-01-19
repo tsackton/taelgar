@@ -221,7 +221,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
                     currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
                     insertedWhereabouts = true;
                 }
-                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}, excusion: true }`);
+                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}, excursion: true }`);
         
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
                 indexOfYamlEnd--;
