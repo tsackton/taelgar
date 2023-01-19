@@ -88,9 +88,10 @@ function get_Whereabouts(metadata, input) {
         let lastSeen = undefined;
         let lastSeenByPartyDate = undefined;
         
-        if (input.configData != undefined) {
-            let config = JSON.parse(input.configData);
+        if (input.config != undefined) {
+            let config = JSON.parse(input.config);
             lastSeenByPartyDate = metadata["lastSeenByParty_" + config.campaignPrefix];
+            console.log("campaign prefix: " + config.campaignPrefix)
         }
         
         if (!lastSeenByPartyDate) {
@@ -98,7 +99,8 @@ function get_Whereabouts(metadata, input) {
         }
 
         if (lastSeenByPartyDate) {
-            lastSeen = metadata.whereabouts.findLast(s => compare_date(s.date,lastSeenByPartyDate) <= 0);
+            // these are both YAML dates so should compare ok on their own
+            lastSeen = metadata.whereabouts.findLast(s =>s.date <= lastSeenByPartyDate);
         }
 
         let current = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) <= 0);
