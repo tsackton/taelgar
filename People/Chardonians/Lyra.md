@@ -5,25 +5,24 @@ species: human
 ancestry: Chardonian
 gender: female
 born: 1705
+title:
+family:
 died: 
-location: Chardon
-locationRegion: "Chardonian Empire"
-home: Voltara
-homeRegion: "Chardonian Empire"
-origin: Darba
-originRegion: "Western Dunmar"
 affiliations: ["Great Library"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/minor, NPC/GrLi/met, NPC/GrLi/major]
+lastSeenBy_DuFr: 1748-08-26
+whereabouts:
+     - { date: 1705-01-01, place: "Darba", region: Western Dunmar}
+     - { date: 1705-01-02, place: "Voltara", region: Chardonian Empire}
+     - { date: 1748-11-23, place: "Chardon", region: Chardonian Empire, excursion: true }
 ---
 # Lyra
 >[!info]+ Biographical Summary
 >human (Chardonian), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Darba]], [[Western Dunmar]]
->Based in: Voltara, [[Chardonian Empire]]
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
->Location (updated August 26, 1748): Chardon, [[Chardonian Empire]]
 
 An archivist with the Great Library, responsible for arranging adventuring expeditions to recover magic, knowledge, and treasure. Spend considerable time in the north of the [[Chardonian Empire]].
 

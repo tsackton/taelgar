@@ -10,7 +10,7 @@ title:
 family:
 affiliations: ["Society of the Open Scroll"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/major]
 whereabouts:
      - { date: 1721-01-02, place: "Chardon", region: Chardonian Empire}
      - { date: 1748-11-23, place: "unknown", region: Dunmar, excursion: true }
