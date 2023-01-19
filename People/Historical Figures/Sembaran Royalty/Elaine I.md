@@ -1,20 +1,23 @@
 ---
 type: Ruler
-species:
-born:
-ancestry:
-gender:
-died:
-family:
-title:
 affiliations:
 reignStart:
 reignEnd:
 name: Elaine I
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+title:
+family:
+died: 1586
+gender: female
+ancestry: Sembaran
+born: 1542
+species: human
 ---
-## Elaine I
-*she/her*, b. 1542, d. 1586
+# Elaine I
+>[!info]+ Biographical Summary
+>human (Sembaran), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 The twin sister of [[Anne]], her disputes with her sister over the throne dominated the 1560s and 1580s.
 

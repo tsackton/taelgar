@@ -1,20 +1,23 @@
 ---
 type: Ruler
-species:
-born:
-ancestry:
-gender:
-died:
-family:
-title:
-affiliations:
-reignStart:
-reignEnd:
 name: Derik III
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+reignEnd:
+reignStart:
+affiliations:
+title: King
+family:
+died: 1549
+gender: male
+ancestry: Sembaran
+born: 1489
+species: human
 ---
-## Derik III
-*he/him*, b. 1489, d. 1549
+# King Derik III
+>[!info]+ Biographical Summary
+>human (Sembaran), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 The king of Sembara during the [[Great War]]; of the [[House of Sewick]]. He reigned from his mother [[Charlotte I|Charlotte I's]] death in DR 1519 until his death, shortly after the end of the Great War, in DR 1549. 
 

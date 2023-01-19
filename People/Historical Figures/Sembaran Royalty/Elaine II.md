@@ -1,20 +1,23 @@
 ---
 type: Ruler
-species:
-born:
-ancestry:
-gender:
-died:
-family:
-title:
 affiliations:
 reignStart:
 reignEnd:
 name: Elaine II
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+title:
+family:
+died: 1745
+gender: female
+ancestry: Sembaran
+born: 1670
+species: human
 ---
-## Elaine II
-*she/her*, b. 1670, d. 1745
+# Elaine II
+>[!info]+ Biographical Summary
+>human (Sembaran), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 The first monarch of the [[House of Lils]], descended from, Derik, the youngest son of [[Elaine I]], and [[Morgaine]], a Tyrwinghan [[Oracle of the Riven|oracle]].
 
