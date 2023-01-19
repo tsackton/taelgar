@@ -4,24 +4,21 @@ name: Obel
 species: human
 ancestry: "Deno'qai"
 gender: male
-home: "Te'kula village"
-homeRegion: Elderwood
-origin:
-originRegion:
 born: 1688
 died: 
+title:
+family:
 affiliations: 
-location: "Te'kula village"
-locationRegion: Elderwood
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
+whereabouts:
+     - { date: 1688-01-02, place: "Te'kula village", region: Elderwood}
+     - { date: 1748-11-23, place: "Te'kula village", region: Elderwood, excursion: true }
 ---
 # Obel
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Deno'qai), he/him
->b. 1688
->60 years old
->Based in: Te'kula village, [[Elderwood]]
->Location (updated November 15, 1748): Te'kula village, [[Elderwood]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 An old ranger of the Te'kula who volunteered to fight [[Mezzar|Grimbaskal]] with the party. Miraculously survived. 

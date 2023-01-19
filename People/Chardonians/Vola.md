@@ -6,23 +6,20 @@ ancestry: Chardonian
 gender: female
 born: 1721
 died: 
-location: 
-locationRegion: Dunmar
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin:
-originRegion:
+title:
+family:
 affiliations: ["Society of the Open Scroll"]
 aliases: []
 tags: [NPC/unsorted]
+whereabouts:
+     - { date: 1721-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1748-11-23, place: "unknown", region: Dunmar, excursion: true }
 ---
 # Vola Forena
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), she/her
->b. 1721
->27 years old
->Based in: Chardon, [[Chardonian Empire]]
->Location (updated November 15, 1748): somewhere, [[Dunmar]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 ## Overview
 
