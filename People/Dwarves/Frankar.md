@@ -8,23 +8,21 @@ born:
 died: 1730
 endPrefix: "disappeared"
 endStatus: "mysteriously vanished"
-location: 
-locationRegion:
-home: "Darakan, Khatridun"
-homeRegion: "~CentralMountains~"
-origin: "Darakan, Khatridun"
-originRegion: "~CentralMountains~"
 affiliations: 
+title:
+family:
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met_one, NPC/DuFr/minor]
 yearOverride: 
+whereabouts:
+     - { date: 0001-01-01, place: "Darakan, Khatridun", region: ~CentralMountains~}
+     - { date: 0001-01-02, place: "Darakan, Khatridun", region: ~CentralMountains~}
 ---
 # Frankar
 >[!info]+ Biographical Summary
 >dwarf, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: Darakan, [[Khatridun]], [[~CentralMountains~]]
->Based in: Darakan, [[Khatridun]], [[~CentralMountains~]]
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A dwarf from the city of Darakan, in the kingdom of Khatridun, fascinated with mechanical devices and runic magic. 
 %%^Date:1730%%
@@ -48,3 +46,4 @@ And the salamander would enter the clock at its center, and crawl about, sealed 
 And depending on the fate of the salamander, he would know his future. If the salamander was crushed, then some crushing weight would come. If it was stabbed, perhaps a heartbreak would come, or perhaps some great insight. Who knows if it really worked.  
   
 The machine was a secret, you see. He hid it carefully from all of us.  We only learned about it one morning, the morning after the night of a great raging storm. We found the machine at the top of the keep, high above the mountain, all in pieces. And by careful study and reconstruction I determined what it was, and what it had been for. Or so we think. Frankar, my beloved little brother Frank, was gone- we do not know where he went, and we have not seen him since. The only clue he left us was a tiny white salamander, burned to a crisp."
+%%^End%%

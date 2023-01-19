@@ -14,7 +14,7 @@ origin: "Raven's Hold, Ardith"
 originRegion: "~CentralMountains~"
 affiliations: ["Brawnanvils"]
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+tags: [NPC/DuFr/background, NPC/DuFr/met_one]
 yearOverride: 
 ---
 # Eberk Brawnanvil

@@ -1,22 +1,24 @@
 ---
 type: NPC
 name: Pearl Brightmoon
-species: 
+species: halfling
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+affiliations: Sea
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met_one, NPC/DuFr/background]
 yearOverride: 
+title:
+family:
+whereabouts:
+     - { date: 1748-11-23, place: "unknown", region: Eastern Green, excursion: true }
 ---
-## Pearl Brightmoon
+# Pearl Brightmoon
+>[!info]+ Biographical Summary
+>halfling, she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 Halfing woman in her prime. Captain of the guard and first mate. Buff, good with a rapier. Cousin to [[Wella Brightmoon|Wella]] by blood and [[Rose Brightmoon|Rose]] by marriage. 

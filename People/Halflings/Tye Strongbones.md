@@ -11,7 +11,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/met, NPC/DuFr/background]
 yearOverride: 
 ---
 # Tye Strongbones

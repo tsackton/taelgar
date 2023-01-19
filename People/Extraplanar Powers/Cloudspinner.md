@@ -1,23 +1,27 @@
 ---
 type: NPC
 name: Cloudspinner
-species: 
-ancestry: 
-gender: 
+species: fey
+ancestry: archfey
+gender: female
 born: 
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
+title:
+family:
 affiliations: 
-aliases: []
-tags: [NPC/unsorted]
-yearOverride: 
+aliases: ["Queen of Sunset"]
+tags: [NPC/DuFr/aware, NPC/DuFr/background]
+whereabouts:
+     - { date: 0001-01-01, place: "somewhere", region: unknown }
+     - { date: 0001-01-02, place: "Amberglow", region: Feywild }
+     - { date: 1700-11-15, place: "imprisoned", region: somewhere, excursion: true }
+     - { date: 1748-11-15, place: "imprisoned", region: somewhere, excursion: true }
 ---
-## The Cloudspinner
+# Cloudspinner
+>[!info]+ Biographical Summary
+>fey (archfey), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 
