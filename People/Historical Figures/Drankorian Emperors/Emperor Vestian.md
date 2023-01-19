@@ -15,7 +15,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/historical]
+tags: [NPC/historical, NPC/DuFr/unaware]
 yearOverride: 
 whereabouts:
 family:

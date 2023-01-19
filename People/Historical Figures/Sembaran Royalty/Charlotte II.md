@@ -14,7 +14,7 @@ affiliations:
 whereabouts:
 reignStart: 1628
 name: Charlotte II
-tags: [NPC/Historical]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 reignEnd:
 ---
 # Charlotte II

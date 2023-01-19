@@ -14,7 +14,7 @@ born: 1716
 died: 
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 ---
 # Itar
 >[!info] Basic information

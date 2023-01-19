@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Sarabet
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Sarabet
 *she/her*

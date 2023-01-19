@@ -16,7 +16,7 @@ whereabouts:
 reignStart:
 reignEnd: 1585
 name: Cynan
-tags: [NPC/Clee/unsorted, NPC/historical]
+tags: [NPC/Clee/unsorted, NPC/historical, NPC/DuFr/unaware]
 ---
 # King Cynan
 >[!info]+ Biographical Summary

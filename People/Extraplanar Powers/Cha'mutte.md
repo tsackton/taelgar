@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/historical]
+tags: [NPC/historical, NPC/DuFr/aware]
 yearOverride: 
 ---
 # Cha'mutte

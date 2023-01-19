@@ -10,7 +10,7 @@ family:
 died: 
 affiliations: ["University of Chardon", "Sibyl's Hall"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
      - { date: 1701-01-01, place: "Arendum", region: Chardonian Empire}
      - { date: 1701-01-02, place: "Chardon", region: Chardonian Empire}

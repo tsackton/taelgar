@@ -14,7 +14,7 @@ origin: Chardon
 originRegion: "Chardonian Empire"
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/major, NPC/DuFr/met]
 family:
 ---
 # Marcella

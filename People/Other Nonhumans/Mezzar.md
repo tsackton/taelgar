@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: [Grimbaskal, Mezzar]
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/major, NPC/DuFr/met]
 yearOverride: 
 ---
 # Grimbaskal

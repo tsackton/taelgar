@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Reginald
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ### Reginald of Sewick
 *he/him*, b. 1510, d. 1550

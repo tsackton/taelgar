@@ -14,7 +14,7 @@ origin: Chardon
 originRegion: "Chardonian Empire"
 affiliations: ["Shakun Mystai"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/major, NPC/DuFr/met]
 family:
 ---
 # Kaeso

@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Anne of Sewick
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Anne of Sewick
 >[!info]+ Biographical Summary

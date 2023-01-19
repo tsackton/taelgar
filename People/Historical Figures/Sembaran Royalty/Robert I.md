@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Robert I
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Robert I
 *he/him*, b. 1662, d. 1722

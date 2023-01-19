@@ -14,8 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/historical
-]
+tags: [NPC/historical, NPC/DuFr/background, NPC/DuFr/aware]
 yearOverride: 
 ---
 ### Mavdyr

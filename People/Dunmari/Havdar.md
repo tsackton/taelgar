@@ -14,7 +14,7 @@ origin: Karawa
 originRegion: Eastern Dunmar
 affiliations: 
 aliases: []
-tags: [NPC/unsorted, stub]
+tags: [NPC/DuFr/met, NPC/DuFr/major, stub]
 yearOverride: 
 ---
 # Havdar
