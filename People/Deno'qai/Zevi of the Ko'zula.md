@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+tags: [NPC/DuFr/background, NPC/DuFr/met_one]
 ---
 # Zevi
 >[!info] Basic information

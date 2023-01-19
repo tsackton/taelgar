@@ -10,7 +10,7 @@ affiliations:
 aliases: []
 title:
 family:
-tags: [NPC/DuFr/met, NPC/DuFr/background]
+tags: [NPC/DuFr/met_one, NPC/DuFr/background]
 yearOverride: 
 whereabouts:
      - { date: 1748-11-23, place: "unknown", region: Eastern Green Sea, excursion: true }
