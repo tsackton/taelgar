@@ -3,7 +3,7 @@ type: NPC
 name: Dag Hardstone
 species: dwarf
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

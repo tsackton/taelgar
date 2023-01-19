@@ -90,6 +90,11 @@ function get_Whereabouts(metadata, input) {
         let outputString = "";
 
         if (!home) {
+            if (current) {
+                // no home, but have a current location; implies all locations are tagged excursion
+                outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix;
+                return outputString
+            }
             // something has gone wrong -- we should have a current place at all times
             return "(unknown location)";
         }
