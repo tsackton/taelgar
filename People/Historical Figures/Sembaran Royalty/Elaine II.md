@@ -1,3 +1,18 @@
+---
+type: Ruler
+species:
+born:
+ancestry:
+gender:
+died:
+family:
+title:
+affiliations:
+reignStart:
+reignEnd:
+name: Elaine II
+tags: [NPC/unsorted]
+---
 ## Elaine II
 *she/her*, b. 1670, d. 1745
 
@@ -15,4 +30,3 @@ Glyes		b. 1635 d. 1706
 Elaine II   b. 1670 d. 1745 
 Arryn III   b. 1702 d. ???
 %%
-

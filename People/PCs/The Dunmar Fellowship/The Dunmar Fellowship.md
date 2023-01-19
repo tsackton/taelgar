@@ -1,3 +1,7 @@
+---
+tags: [organization/party]
+type: Organization
+---
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 
 Consists of:

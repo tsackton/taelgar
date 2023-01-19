@@ -1,3 +1,19 @@
+---
+type: PC
+species: human
+born:
+ancestry:
+gender: male
+died:
+origin:
+originRegion:
+affiliations:
+player:
+campaign:
+name: Alimash
+tags: [PC/DunmarFrontier, PC/DunmarFrontier/SoloGuest]
+---
+
 ## Alimash
 (he/him)
 

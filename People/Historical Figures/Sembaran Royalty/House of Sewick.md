@@ -1,5 +1,7 @@
 ---
 aliases: [Sewick]
+tags: [organization/unsorted]
+type: Organization
 ---
 ### The House of Sewick
 
@@ -68,7 +70,6 @@ class Sarabet,Reginald,Eloise,Anne internal-link;
 class KingOrQueen ruler;
 
 ```
-
 
 
 

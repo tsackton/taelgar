@@ -1,3 +1,7 @@
+---
+tags: [organization/unsorted]
+type: Organization
+---
 ### House of Lils
 
 A cadet branch of the [[House of Sewick]], which came to the throne in the 1720s. The house descends from the youngest child of [[Elaine I]] and a Tyrwinghan [[Oracle of the Riven]], [[Morgaine]].
@@ -19,6 +23,5 @@ class GylesOfLils,Annabeth,Morgaine,ElaineII,ArrynIII,Derik internal-link;
 
 
 ```
-
 
 

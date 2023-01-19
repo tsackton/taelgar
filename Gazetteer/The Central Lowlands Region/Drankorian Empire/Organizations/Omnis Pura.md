@@ -1,5 +1,6 @@
 ---
-tags: [stub, organization]
+type: Organization
+tags: [stub, organization/unsorted]
 ---
 
 # Omnis Pura

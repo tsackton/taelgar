@@ -1,5 +1,7 @@
 ---
 name: Charmhearts
+tags: [organization/family]
+type: Organization
 ---
 # The Charmhearts
 
