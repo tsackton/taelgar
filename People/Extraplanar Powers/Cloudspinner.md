@@ -4,7 +4,7 @@ name: Cloudspinner
 species: fey
 ancestry: archfey
 gender: female
-born: 
+born: 1100
 died: 
 title:
 family:
@@ -12,10 +12,10 @@ affiliations:
 aliases: ["Queen of Sunset"]
 tags: [NPC/DuFr/aware, NPC/DuFr/background]
 whereabouts:
-     - { date: 0001-01-01, place: "somewhere", region: Feywild }
-     - { date: 0001-01-02, place: "Amberglow", region: Feywild }
-     - { date: 1700-11-15, place: "unknown", region: unknown, excursion: true }
-     - { date: 1748-11-15, place: "unknown", region: unknown, excursion: true }
+     - { date: 1100-01-01, place: "somewhere", region: unknown }
+     - { date: 1100-01-02, place: "Amberglow", region: Feywild }
+     - { date: 1700-11-15, place: "imprisoned", region: somewhere, excursion: true }
+     - { date: 1748-11-15, place: "imprisoned", region: somewhere, excursion: true }
 ---
 # Cloudspinner
 >[!info]+ Biographical Summary
