@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Hugh of Wisenfold
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ### Hugh of Wisenfold
 *he/him*, b. 1512, d. 1551

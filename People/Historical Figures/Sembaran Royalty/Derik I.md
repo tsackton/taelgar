@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Derik I
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ### Derik I
 *he/him*, b. 1396 d. 1462

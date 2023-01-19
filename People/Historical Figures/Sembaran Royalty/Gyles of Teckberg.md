@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Gyles of Teckberg
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Gyles of Teckberg
 *he/him*, b. 1550, d. 1640

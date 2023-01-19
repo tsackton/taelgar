@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Derik II
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ### Derik II
 *he/him*, b. 1422, d. 1496

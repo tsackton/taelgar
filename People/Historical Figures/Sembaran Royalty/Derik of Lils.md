@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Derik of Lils
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Derik of Lils
 *he/him*, b. 1574, d. 1633

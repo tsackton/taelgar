@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Avelina Smith
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Avelina Smith
 

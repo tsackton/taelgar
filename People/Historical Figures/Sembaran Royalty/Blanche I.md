@@ -1,17 +1,17 @@
 ---
 type: Ruler
-species:
-born:
-ancestry:
-gender:
-died:
-family:
+species: human
+born: 1541
+ancestry: Sembaran
+gender: female
+died: 1567
+family: House of Sewick
 title:
 affiliations:
 reignStart:
 reignEnd:
 name: Blanche I
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ## Blanche I
 *she/her*, b. 1541, d. 1567

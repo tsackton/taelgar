@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Gyles of Lils
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ### Gyles of Lils
 *he/him*, b. 1670, d. 1706

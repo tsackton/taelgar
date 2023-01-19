@@ -25,5 +25,5 @@ family:
 >human, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
-A Drankorian emperor, supposedly [[Emperor Helena]]'s successor.
+A Drankorian emperor, supposedly [[Emperor Helea]]'s successor.
 

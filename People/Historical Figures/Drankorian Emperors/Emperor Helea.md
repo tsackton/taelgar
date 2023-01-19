@@ -1,6 +1,6 @@
 ---
 type: NPC
-name: Emperor Helena
+name: Emperor Helea
 species: 
 ancestry: 
 gender: 
@@ -14,10 +14,10 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/historical]
+tags: [NPC/historical, NPC/DuFr/aware]
 yearOverride: 
 ---
-### Emperor Helena
+### Emperor Helea
 
 A Drankorian emperor, supposedly assassinated by the [[Omnis Pura]].
 

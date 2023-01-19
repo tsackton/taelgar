@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Eloise
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 ### Eloise Sewick
 *she/her*, b. 1493, d. 1548

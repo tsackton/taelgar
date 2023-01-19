@@ -3,7 +3,7 @@ type: NPC
 name: Finellen Silverstone
 species: dwarf
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 affiliations: 

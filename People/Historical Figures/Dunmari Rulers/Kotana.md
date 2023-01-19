@@ -13,7 +13,7 @@ homeRegion:
 origin:
 originRegion:
 affiliations: 
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/aware, NPC/DuFr/background, NPC/historical]
 yearOverride: 
 aliases: [Samraat Kotana]
 ---

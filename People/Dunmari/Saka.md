@@ -10,7 +10,7 @@ affiliations:
 aliases: []
 title:
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met, stub]
+tags: [NPC/DuFr/major, NPC/DuFr/met, stub]
 yearOverride: 
 whereabouts:
      - { date: 1664-01-02, place: "northern plains, Tokra", region: Central Dunmar}

@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Jon
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Jon
 

@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Arnold the Miller
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 ### Arnold the Miller
 

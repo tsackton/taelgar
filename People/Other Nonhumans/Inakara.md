@@ -3,9 +3,9 @@ type: NPC
 name: Inakara
 species: 
 ancestry: 
-gender: 
+gender: female
 born: 
-died: 
+died: 1748
 location: 
 locationRegion:
 home: 
@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
 ---
 ### Inakara
