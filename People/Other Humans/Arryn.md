@@ -14,7 +14,7 @@ origin: Free City of Tollen
 originRegion: "Greater Sembara, Western Green Sea"
 affiliations: 
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
+tags: [NPC/DuFr/met_one, NPC/DuFr/minor]
 yearOverride: 
 ---
 # Arryn

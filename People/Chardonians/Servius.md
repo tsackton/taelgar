@@ -6,22 +6,19 @@ ancestry: Chardonian
 gender: male
 born: 1689
 died: 
-location: 
-locationRegion: Illoria
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin:
-originRegion:
+title:
+family:
 affiliations: ["Society of the Open Scroll"]
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/aware, NPC/DuFr/major]
+whereabouts:
+     - { date: 1689-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1748-11-23, place: "unknown", region: Illoria, excursion: true}
 ---
 # Servius
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Chardonian), he/him
->b. 1689
->59 years old
->Based in: Chardon, [[Chardonian Empire]]
->Location (updated November 15, 1748): somewhere, [[Illoria]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A wandering scholar and historian, funded by [[Fausto]] to find rumors of treasure. Currently hunting rumors of treasure in Illoria. 

@@ -11,7 +11,7 @@ homeRegion:
 origin:
 originRegion:
 affiliations:
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 ---
 # Uzgash
 >[!info]+ Biographical Summary

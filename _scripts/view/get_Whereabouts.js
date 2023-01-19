@@ -90,13 +90,18 @@ function get_Whereabouts(metadata, input) {
         let outputString = "";
 
         if (!home) {
+            if (current) {
+                // no home, but have a current location; implies all locations are tagged excursion
+                outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix;
+                return outputString
+            }
             // something has gone wrong -- we should have a current place at all times
             return "(unknown location)";
         }
 
         if (original) {
             // we have an original place -- show it if it doesn't match home place
-            if (original.place != home.place || original.region != home.region) {
+            if (original.place != home.place && original.region != home.region) {
                 outputString = input.prefix + "Originally from: " + get_Location(original.place, original.region) + input.suffix + "\n";
             }
         }
@@ -112,7 +117,7 @@ function get_Whereabouts(metadata, input) {
 
         if (current) {
             // we have a current place -- show if it doesn't match home
-            if (current.place != home.place || current.region != home.region) {
+            if (current.place != home.place && current.region != home.region) {
                 outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix + "\n";
             }
         }

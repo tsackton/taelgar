@@ -14,7 +14,7 @@ origin:
 originRegion:
 affiliations: ["Brightmoons"]
 aliases: [Wella]
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+tags: [NPC/DuFr/background, NPC/DuFr/met_one]
 yearOverride: 
 ---
 # Wella Brightmoon

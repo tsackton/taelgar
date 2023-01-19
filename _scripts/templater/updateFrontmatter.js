@@ -197,6 +197,8 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
 
             if (tp.frontmatter.origin || tp.frontmatter.originRegion) {
                 let initialDate = "0001-01-01";
+                if (!tp.frontmatter.origin) { tp.frontmatter.origin = "unknown"}
+                if (!tp.frontmatter.originRegion) { tp.frontmatter.originRegion = "unknown"}
                 if (tp.frontmatter.born || newFrontMatter.born) {
                     initialDate = (tp.frontmatter.born??newFrontMatter.born) + "-01-01" 
                 }
@@ -214,6 +216,8 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
 
             if (tp.frontmatter.home || tp.frontmatter.homeRegion) {             
                 let initialDate = "0001-01-02";
+                if (!tp.frontmatter.home) { tp.frontmatter.home = "unknown"}
+                if (!tp.frontmatter.homeRegion) { tp.frontmatter.homeRegion = "unknown"}
                 if (tp.frontmatter.born || newFrontMatter.born) {
                     initialDate = (tp.frontmatter.born??newFrontMatter.born) + "-01-02" 
                 }
@@ -229,16 +233,18 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
             }        
 
             if (tp.frontmatter.location || tp.frontmatter.locationRegion) {
-                  let currentYear = String(window.FantasyCalendarAPI.getCalendars()[0].current.year).padStart(4, '0');
+                let currentYear = String(window.FantasyCalendarAPI.getCalendars()[0].current.year).padStart(4, '0');
                 let currentMonth = String(window.FantasyCalendarAPI.getCalendars()[0].current.month+1).padStart(2, '0');
                 let currentDay = String(window.FantasyCalendarAPI.getCalendars()[0].current.day).padStart(2, '0');
             
                 let initialDate = `${currentYear}-${currentMonth}-${currentDay}`;
+                if (!tp.frontmatter.location) { tp.frontmatter.location = "unknown"}
+                if (!tp.frontmatter.locationRegion) { tp.frontmatter.locationRegion = "unknown"}
                 if (!insertedWhereabouts) { 
                     currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
                     insertedWhereabouts = true;
                 }
-                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}, excursion: true}`);
+                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}, excursion: true }`);
         
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
                 indexOfYamlEnd--;
