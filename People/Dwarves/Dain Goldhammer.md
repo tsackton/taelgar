@@ -1,24 +1,27 @@
 ---
 type: NPC
 name: Dain Goldhammer
-species: 
+species: dwarf
 ancestry: 
-gender: 
-born: 
+gender: male
+born: 1710
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
+title:
+family:
 affiliations: 
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
+whereabouts:
+     - { date: 1710-01-01, place: "Chardon", region: Chardonian Empire}
+     - { date: 1710-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1748-11-23, place: "unknown", region: Illoria, excursion: true }
 ---
-### Dain Goldhammer
-(he/him)
+# Dain Goldhammer
+>[!info]+ Biographical Summary
+>dwarf, he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 An adventurer, working for the [[Society of the Open Scroll]], funded by [[Fausto]]. Often travels with [[Dee Wildcloak]]. 
 

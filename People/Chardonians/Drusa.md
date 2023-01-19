@@ -10,14 +10,10 @@ affiliations:
 title:
 family:
 aliases: []
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
      - { date: 0001-01-01, place: "Chardon", region: Chardonian Empire}
      - { date: 1748-05-01, place: "Tokra", region: Central Dunmar, excursion: true}
-originRegion:
-origin:
-homeRegion:
-home:
 ---
 # Drusa
 >[!info]+ Biographical Summary
