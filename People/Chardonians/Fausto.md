@@ -12,7 +12,6 @@ affiliations: ["The Society of the Open Scroll", "The Cleansed"]
 aliases: []
 tags: [NPC/DuFr/major, NPC/DuFr/met]
 whereabouts:
-- { date: 1714-01-01, place: "Unknown", region: "Unknown" }
 - { date: 1731-01-01, place: "Chardon", region: Chardonian Empire}
 ###secret[1]
 - { date: 1737-01-01, place: "Chardon", region: Chardonian Empire}
