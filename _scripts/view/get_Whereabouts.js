@@ -82,10 +82,13 @@ function get_Whereabouts(metadata, input) {
         bornDate.setMonth(0);
         bornDate.setDate(1);
         if (metadata.born) {
+
+            // this doesn't work for YYYY-MM-DD but keeping in to debug later //
             bornParts = metadata.born.toString().split("-")
             if (bornParts.length == 3) {
-                bornDate.setMonth(bornParts[1])
-                bornDate.setDate(bornParts[2])
+                bornDate.setMonth(parseInt(bornParts[1])-1)
+                bornDate.setDate(parseInt(bornParts[2]))
+                console.log(bornDate)
             }
             bornDate.setFullYear(bornParts[0]);            
         }
@@ -109,36 +112,30 @@ function get_Whereabouts(metadata, input) {
             lastSeen = metadata.whereabouts.findLast(s =>s.date <= lastSeenByPartyDate);
         }
 
-        let current = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) <= 0);
-        let home = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) <= 0 && !s.excursion);
+        let current = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) <= 0 && compare_dates(s.date, bornDate) > 0);
+        let home = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) < 0 && !s.excursion && compare_dates(s.date, bornDate) > 0);
         let original = metadata.whereabouts.find(s => compare_dates(s.date, bornDate) == 0);
-
 
         if (home) console.log("home: " + home.date.year + " " + home.date.month + " " + home.date.day);
         if (original) console.log("original: " + original.date.year + " " + original.date.month + " " + original.date.day);
         if (current) console.log("current: " + current.date.year + " " + current.date.month + " " + current.date.day);
 
-        let outputString = "";
+        if (home == undefined) home = {}
+        if (original == undefined) original = {}
+        if (current == undefined) current = {}
 
-  //      if (!home) {
-  //         if (current) {
-                // no home, but have a current location; implies all locations are tagged excursion
-  //              outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix;
-  //              return outputString
-  //          }
-            // something has gone wrong -- we should have a current place at all times
-  //          return "(unknown location)";
-  //      }
+        let outputString = "";
 
         if (original) {
             // we have an original place -- show it if it doesn't match home place
+            let alwaysShowOrigin = false
             if (config && config.whereaboutsSettings) alwaysShowOrigin = config.whereaboutsSettings.alwaysShowOrigin;
-            if (original.place != home.place || original.region != home.region || alwaysShowOrigin) {
+            if ((original.pace && original.place != home.place) || (original.region && original.region != home.region) || (alwaysShowOrigin && (original.place || original.region))) {
                 outputString = input.prefix + "Originally from: " + get_Location(original.place, original.region) + input.suffix + "\n";
             }
         }
 
-        if (home) {
+        if (home && (home.place || home.region)) {
             outputString += input.prefix + "Based in: " + get_Location(home.place, home.region)  + input.suffix + "\n";
         }
         
@@ -156,8 +153,9 @@ function get_Whereabouts(metadata, input) {
 
         if (current) {
             // we have a current place -- show if it doesn't match home
+            let alwaysShowLocation = false
             if (config && config.whereaboutsSettings) alwaysShowLocation = config.whereaboutsSettings.alwaysShowLocation;
-            if (current.place != home.place || current.region != home.region || alwaysShowLocation) {
+            if ((current.place && current.place != home.place) || (current.region && current.region != home.region) || (alwaysShowLocation && (current.place || current.region))) {
                 outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix + "\n";
             }
         }
