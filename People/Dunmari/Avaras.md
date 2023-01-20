@@ -35,7 +35,7 @@ Avaras was born in DR 1676 near [[Karawa]]. He was a loner as a child, but drawn
 
 After the [[Awakened Soul Disaster]] in DR 1717, he took up residence in the desert with [[Pava]], to watch the comings and goings on the plains and rescue the lost and the desperate who come seeking treasure, glory, or death in the desert. It is a quiet life, with time for contemplation. With [[Pava]] and the occasional apprentice, he has sought out the many stories of lives lived on these lands that are forgotten, and sought to quiet the restless and forgotten dead who died in the chaos of the Great War and the Blood Years with no one to mark their lives. 
 
-![[Pasted image 20230114090538.png]]
+![[avaras.png]]
 
 %%^Campaign:DuFr%%
 On August 19, 1747, Avaras and Pava found an elf, Delwath, wandering confused in the desert west of Kharsan, dying of thirst and delirious. They took him in, and removed his armor which seemed to be smoking with some kind of shadows. Delwath left in the night a few days later. Avaras did not see him again until much later, on [[Session 19 (DuFr)|May 2, 1748]], when Delwath returned, with [[The Dunmar Fellowship]]. 
