@@ -11,7 +11,7 @@ A bustling port on the Volta River, which forms the border between Sembara and [
 
 The 17 Wards of Tollen
 
-![[Pasted image 20230115081126.png|300]]
+![[tollen-layout.png|300]]
 ocean <--> interior
 
 District 1: military -- naval yards and river fortifications -- impressive structure (river gates)

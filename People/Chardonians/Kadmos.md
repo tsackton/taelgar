@@ -4,7 +4,7 @@ name: Kadmos
 species: human
 ancestry: Chardonian
 gender: male
-born: 
+born: 1711
 died: 
 title:
 family:
@@ -28,6 +28,7 @@ A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather 
 
 A character of dubious morality, clearly willing and able to use enchantment magic to get what he wants, and happy to provoke a fight. 
 
-Test
-
 ![[kadmos-final.png]]
+
+
+%%SECRET[2]%%
