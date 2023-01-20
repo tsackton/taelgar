@@ -28,8 +28,7 @@
                 "family",
                 "title",
                 "affiliations",
-                "reignStart",
-                "reignEnd"
+                "reignStart"                
                 
             ],
             "supportsWhereabouts": true,        
