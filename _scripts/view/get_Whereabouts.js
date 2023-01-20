@@ -82,7 +82,12 @@ function get_Whereabouts(metadata, input) {
         bornDate.setMonth(0);
         bornDate.setDate(1);
         if (metadata.born) {
-            bornDate.setFullYear(metadata.born);            
+            bornParts = metadata.born.toString().split("-")
+            if (bornParts.length == 3) {
+                bornDate.setMonth(bornParts[1])
+                bornDate.setDate(bornParts[2])
+            }
+            bornDate.setFullYear(bornParts[0]);            
         }
       
         let lastSeen = undefined;
@@ -106,7 +111,7 @@ function get_Whereabouts(metadata, input) {
 
         let current = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) <= 0);
         let home = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) <= 0 && !s.excursion);
-        let original = metadata.whereabouts.find(s => compare_dates(s.date, bornDate) >= 0);
+        let original = metadata.whereabouts.find(s => compare_dates(s.date, bornDate) == 0);
 
 
         if (home) console.log("home: " + home.date.year + " " + home.date.month + " " + home.date.day);
@@ -115,24 +120,27 @@ function get_Whereabouts(metadata, input) {
 
         let outputString = "";
 
-        if (!home) {
-            if (current) {
+  //      if (!home) {
+  //         if (current) {
                 // no home, but have a current location; implies all locations are tagged excursion
-                outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix;
-                return outputString
-            }
+  //              outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix;
+  //              return outputString
+  //          }
             // something has gone wrong -- we should have a current place at all times
-            return "(unknown location)";
-        }
+  //          return "(unknown location)";
+  //      }
 
         if (original) {
             // we have an original place -- show it if it doesn't match home place
-            if (original.place != home.place || original.region != home.region) {
+            if (config && config.whereaboutsSettings) alwaysShowOrigin = config.whereaboutsSettings.alwaysShowOrigin;
+            if (original.place != home.place || original.region != home.region || alwaysShowOrigin) {
                 outputString = input.prefix + "Originally from: " + get_Location(original.place, original.region) + input.suffix + "\n";
             }
         }
 
-        outputString += input.prefix + "Based in: " + get_Location(home.place, home.region)  + input.suffix + "\n";
+        if (home) {
+            outputString += input.prefix + "Based in: " + get_Location(home.place, home.region)  + input.suffix + "\n";
+        }
         
         if (lastSeen) {
             let matchesHome = lastSeen.place == home.place && lastSeen.region == home.region;
@@ -148,7 +156,8 @@ function get_Whereabouts(metadata, input) {
 
         if (current) {
             // we have a current place -- show if it doesn't match home
-            if (current.place != home.place || current.region != home.region) {
+            if (config && config.whereaboutsSettings) alwaysShowLocation = config.whereaboutsSettings.alwaysShowLocation;
+            if (current.place != home.place || current.region != home.region || alwaysShowLocation) {
                 outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix + "\n";
             }
         }
