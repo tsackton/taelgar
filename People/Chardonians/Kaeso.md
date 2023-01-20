@@ -6,24 +6,27 @@ ancestry: Chardonian
 gender: male
 born: 1691
 died: 
-location: Hamri
-locationRegion: "Mawakel Peninsula"
-home: 
-homeRegion:
-origin: Chardon
-originRegion: "Chardonian Empire"
 affiliations: ["Shakun Mystai"]
 aliases: []
 tags: [NPC/DuFr/major, NPC/DuFr/met]
 family:
+title:
+lastSeenByParty_DuFr: 1748-10-23
+whereabouts:
+ - { date: 1691-01-01, place: "Chardon", region: Chardonian Empire}
+ - { date: 1713-01-01, place: "traveling", region: Dunmar}
+ - { date: 1717-01-01, place: "Karawa", region: Eastern Dunmar}
+ - { date: 1719-01-01, place: "traveling", region: "The Central Highlands Region"}
+ - { date: 1723-01-01, place: "Chardon", region: Chardonian Empire}
+ - { date: 1748-09-10, place: "traveling", region: Chardonian Empire, excursion: true}
+ - { date: 1748-10-12, place: "Hamri", region: "Mawakel Peninsula", excursion: true}
 ---
 # Kaeso
 >[!info]+ Biographical Summary
->[[Humans|human]] (Chardonian), he/him
+>human (Chardonian), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Chardon]], [[Chardonian Empire]]
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
->Location (updated November 15, 1748): [[Hamri]], [[Mawakel Peninsula]]
 
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 
