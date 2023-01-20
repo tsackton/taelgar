@@ -14,9 +14,10 @@ title:
 lastSeenByParty_DuFr: 1748-10-23
 whereabouts:
  - { date: 1691-01-01, place: "Chardon", region: Chardonian Empire}
- - { date: 1713-01-01, place: "traveling", region: Dunmar}
+ - { date: 1691-01-02, place: "Chardon", region: Chardonian Empire}
+ - { date: 1713-01-01, place: "traveling", region: Dunmar, excursion: true}
  - { date: 1717-01-01, place: "Karawa", region: Eastern Dunmar}
- - { date: 1719-01-01, place: "traveling", region: "The Central Highlands Region"}
+ - { date: 1719-01-01, place: "traveling", region: "The Central Highlands Region", excursion: true}
  - { date: 1723-01-01, place: "Chardon", region: Chardonian Empire}
  - { date: 1748-09-10, place: "traveling", region: Chardonian Empire, excursion: true}
  - { date: 1748-10-12, place: "Hamri", region: "Mawakel Peninsula", excursion: true}

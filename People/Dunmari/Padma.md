@@ -4,27 +4,23 @@ name: Padma
 species: human
 ancestry: Dunmari
 gender: female
-born: 
+born: 1720
 died: 
-location: "caravanserai on the Darba-Tokra road"
-locationRegion: "Central Dunmar"
-home: "caravanserai on the Darba-Tokra road"
-homeRegion: "Central Dunmar"
-origin:
-originRegion:
 affiliations: 
 aliases: []
+title:
 tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 family:
+whereabouts:
+     - { date: 1720-01-02, place: "caravanserai, Tokra-Darba Road", region: Central Dunmar}
 ---
 # Padma
 >[!info]+ Biographical Summary
 >human (Dunmari), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Based in: caravanserai on the Darba-Tokra road, [[Central Dunmar]]
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
->Location (updated November 15, 1748): caravanserai on the Darba-Tokra road, [[Central Dunmar]]
 
 An innkeeper and master of a caravanserai waystation on the [[Tokra-Darba Road]], running one of the first waystations on the west side of the [[Copper Hills]].  Generally well positioned to receive and pass along news. 
 

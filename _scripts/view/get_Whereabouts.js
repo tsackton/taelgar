@@ -156,7 +156,7 @@ function get_Whereabouts(metadata, input) {
             let alwaysShowLocation = false
             if (config && config.whereaboutsSettings) alwaysShowLocation = config.whereaboutsSettings.alwaysShowLocation;
             if ((current.place && current.place != home.place) || (current.region && current.region != home.region) || (alwaysShowLocation && (current.place || current.region))) {
-                outputString += input.prefix + "Current Location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix + "\n";
+                outputString += input.prefix + "Current location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region) + input.suffix + "\n";
             }
         }
 

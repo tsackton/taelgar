@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Hralgar
-species: 
-ancestry: 
-gender: 
+species: giant
+ancestry: storm
+gender: male
 born: 
 died: 
 location: 

@@ -3,7 +3,7 @@ type: NPC
 name: Johar
 species: human
 ancestry: Dunmari
-gender: 
+gender: male
 born: 
 died: 
 location: Nayahar

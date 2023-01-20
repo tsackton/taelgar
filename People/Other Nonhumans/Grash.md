@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Grash
-species: 
-ancestry: 
-gender: 
+species: undead
+ancestry: skeletal
+gender: male
 born: 
 died: 
 location: 

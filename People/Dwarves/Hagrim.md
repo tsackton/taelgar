@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Hagrim
-species: 
+species: dwarf
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 
