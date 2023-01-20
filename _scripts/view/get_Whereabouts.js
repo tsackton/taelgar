@@ -132,6 +132,8 @@ function get_Whereabouts(metadata, input) {
             }
         }
 
+        outputString += input.prefix + "Based in: " + get_Location(home.place, home.region)  + input.suffix + "\n";
+        
         if (lastSeen) {
             let matchesHome = lastSeen.place == home.place && lastSeen.region == home.region;
             let matchesCurrent = lastSeen.place == current.place && lastSeen.region == current.region;
@@ -151,7 +153,6 @@ function get_Whereabouts(metadata, input) {
             }
         }
 
-        outputString += input.prefix + "Based in: " + get_Location(home.place, home.region)  + input.suffix + "\n";
         return outputString;
     }
 
