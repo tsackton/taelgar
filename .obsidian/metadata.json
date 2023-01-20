@@ -1,4 +1,21 @@
 {
+    "campaigns":[
+        {
+            "prefix": "clee",
+            "campaignName": "Cleenseau",
+            "partyName" : "The Andover Crowd"
+        },
+        {
+            "prefix": "DuFr",
+            "campaignName": "Dunmari Frontier",
+            "partyName" : "The Side Quests"
+        },
+        {
+            "prefix": "GW",
+            "campaignName": "The Great War",
+            "partyName" : "The Highschoolers"
+        }
+    ],
     "types": [
         {
             "typeName" : "SessionNote",

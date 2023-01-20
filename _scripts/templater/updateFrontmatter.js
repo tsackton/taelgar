@@ -197,7 +197,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
             let whereaboutsInsertIndex = indexOfYamlEnd;
 
             if (tp.frontmatter.origin || tp.frontmatter.originRegion) {
-                let initialDate = "0001-01-01";
+                let initialDate = "";
                 if (!tp.frontmatter.origin) { tp.frontmatter.origin = "unknown"}
                 if (!tp.frontmatter.originRegion) { tp.frontmatter.originRegion = "unknown"}
                 if (tp.frontmatter.born || newFrontMatter.born) {
@@ -209,14 +209,14 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
                     insertedWhereabouts = true;
                 }
          
-                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.origin)}", region: ${fixupLocation(tp.frontmatter.originRegion)}}`);
+                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.origin)}", region: ${fixupLocation(tp.frontmatter.originRegion)}}, type: origin`);
          
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
                 indexOfYamlEnd--;
             }       
 
             if (tp.frontmatter.home || tp.frontmatter.homeRegion) {             
-                let initialDate = "0001-01-02";
+                let initialDate = "";
                 if (!tp.frontmatter.home) { tp.frontmatter.home = "unknown"}
                 if (!tp.frontmatter.homeRegion) { tp.frontmatter.homeRegion = "unknown"}
                 if (tp.frontmatter.born || newFrontMatter.born) {
@@ -227,7 +227,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
                     currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
                     insertedWhereabouts = true;
                 }
-                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.home)}", region: ${fixupLocation(tp.frontmatter.homeRegion)}}`);
+                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.home)}", region: ${fixupLocation(tp.frontmatter.homeRegion)}}, type: home`);
          
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
                 indexOfYamlEnd--;                
@@ -245,7 +245,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
                     currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
                     insertedWhereabouts = true;
                 }
-                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}, excursion: true }`);
+                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}, type: excursion }`);
         
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
                 indexOfYamlEnd--;
@@ -253,7 +253,14 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
 
             if (insertedWhereabouts) indexOfYamlEnd--;
         } else {
-            console.log("Filetype already has whereabouts present. No processing required.");
+
+            // we need to fixup whereabouts if they are missing types
+            if (tp.frontmatter.whereabouts.find(s => s.type == undefined) != undefined) {
+                console.log("Filetype already has whereabouts with old style data. Fixup required.");    
+            }
+            else {
+                console.log("Filetype already has whereabouts present. No processing required.");
+            }
         }
 
         if (tp.frontmatter.born || newFrontMatter.born) {
