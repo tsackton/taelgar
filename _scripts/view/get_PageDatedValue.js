@@ -3,28 +3,28 @@ function get_PageDatedValue(metadata, currentYear) {
     // get type //
 
     if (metadata.type == "NPC") {
-        yearStart = metadata.born
+        yearStart = metadata.born ? metadata.born.toString().split("-")[0] : metadata.born
         yearEnd = metadata.died
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet born)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "b.";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "d.";
         endStatus = metadata.endStatus ? metadata.endStatus : "died"
     } else if (metadata.type == "Ruler") {
-        yearStart = metadata.born
+        yearStart = metadata.born ? metadata.born.toString().split("-")[0] : metadata.born
         yearEnd = metadata.died
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet born)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "b.";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "d.";
         endStatus = metadata.endStatus ? metadata.endStatus : "died"
     } else if (metadata.type == "Building") {
-        yearStart = metadata.built
+        yearStart = metadata.built ? metadata.built.toString().split("-")[0] : metadata.built
         yearEnd = metadata.destroyed
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet built)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "built";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "destroyed";
         endStatus = metadata.endStatus ? metadata.endStatus : "destroyed"
     } else if (metadata.type == "Item") {
-        yearStart = metadata.created
+        yearStart = metadata.created ? metadata.created.toString().split("-")[0] : metadata.created
         yearEnd = metadata.destroyed
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet created)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "created";
