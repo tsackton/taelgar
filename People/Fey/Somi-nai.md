@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Somi-nai
-species: 
+species: elemental
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

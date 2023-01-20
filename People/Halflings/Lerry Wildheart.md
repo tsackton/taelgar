@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Lerry Wildheart
-species: 
+species: halfling
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

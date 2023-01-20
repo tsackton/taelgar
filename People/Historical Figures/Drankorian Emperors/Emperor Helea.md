@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Emperor Helea
-species: 
+species: human
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 

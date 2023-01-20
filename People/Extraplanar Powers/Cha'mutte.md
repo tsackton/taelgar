@@ -3,7 +3,7 @@ type: NPC
 name: Cha'mutte
 species: dragon
 ancestry: elder wyrm
-gender: 
+gender: male
 born: 
 died: 1545
 location: 

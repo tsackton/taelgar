@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Odim Mavdyrson
-species: 
+species: giant
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

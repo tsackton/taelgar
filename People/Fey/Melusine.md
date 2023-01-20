@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Melusine
-species: 
-ancestry: 
-gender: 
+species: fey
+ancestry: nymph
+gender: female
 born: 
 died: 
 location: 

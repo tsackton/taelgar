@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Lightdancer
-species: 
-ancestry: 
-gender: 
+species: fey
+ancestry: archfey
+gender: nonbinary
 born: 
 died: 
 location: 

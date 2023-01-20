@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Harol Silversong
-species: 
+species: halfling
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

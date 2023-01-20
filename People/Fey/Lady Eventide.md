@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Lady Eventide
-species: 
+species: fey
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 

@@ -3,7 +3,7 @@ type: NPC
 name: Sajan
 species: human
 ancestry: Dunmari
-gender: 
+gender: female
 born: 
 died: 
 location: 

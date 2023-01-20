@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Oswalt Tealeaf
-species: 
+species: halfling
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

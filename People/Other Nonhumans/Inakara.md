@@ -1,7 +1,7 @@
 ---
 type: NPC
 name: Inakara
-species: 
+species: derro
 ancestry: 
 gender: female
 born: 
