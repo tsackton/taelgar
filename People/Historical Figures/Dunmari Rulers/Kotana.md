@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Kotana
-species: 
-ancestry: 
-gender: 
+species: human
+ancestry: Dunmari
+gender: male
 born: 
 died: 
 location: 

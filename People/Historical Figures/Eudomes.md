@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Eudomes
-species: 
-ancestry: 
-gender: 
+species: human
+ancestry: Drankorian
+gender: male
 born: 
 died: 
 location: 

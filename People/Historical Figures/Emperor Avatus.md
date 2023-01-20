@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Emperor Avatus
-species: 
+species: human
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

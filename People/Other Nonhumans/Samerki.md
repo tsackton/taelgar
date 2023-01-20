@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Samerki
-species: 
-ancestry: 
-gender: 
+species: giant
+ancestry: oni
+gender: male
 born: 
 died: 1748
 location: 

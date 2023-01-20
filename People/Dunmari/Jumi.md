@@ -3,7 +3,7 @@ type: NPC
 name: Jumi
 species: human
 ancestry: Dunmari
-gender: 
+gender: female
 born: 1746
 died: 
 location: 

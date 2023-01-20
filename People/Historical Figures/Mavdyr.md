@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Mavdyr
-species: 
+species: giant
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

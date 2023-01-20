@@ -8,7 +8,7 @@ born: 1734
 died: 
 affiliations: 
 title:
-family: "Ko'zula"
+family: 
 aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met_one]
 whereabouts:

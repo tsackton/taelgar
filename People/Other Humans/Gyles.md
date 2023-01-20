@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Gyles
-species: 
+species: human
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

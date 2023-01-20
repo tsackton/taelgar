@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Morkral Hardstone
-species: 
+species: dwarf
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Samraat Nayan Yarad
-species: 
-ancestry: 
-gender: 
+species: human
+ancestry: Dunmari
+gender: male
 born: 
 died: 
 location: 

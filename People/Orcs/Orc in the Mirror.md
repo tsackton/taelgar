@@ -1,9 +1,10 @@
 ---
 type: NPC
 name: Orc in the Mirror
-species: 
+###secret[1]
+species: orc
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 
@@ -20,3 +21,4 @@ yearOverride:
 ### The unknown orc
 
 An orc, trapped presumably by [[Agata]], in the [[Mirror of Soul Trapping]]. 
+

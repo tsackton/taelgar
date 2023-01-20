@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Prince of Luck
-species: 
+species: fey
 ancestry: 
-gender: 
+gender: male
 born: 
 died: 
 location: 

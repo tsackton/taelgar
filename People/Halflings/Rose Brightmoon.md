@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Rose Brightmoon
-species: 
+species: halfling
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 

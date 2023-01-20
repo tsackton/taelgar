@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Jasmine Sunmeadow
-species: 
+species: halfling
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 

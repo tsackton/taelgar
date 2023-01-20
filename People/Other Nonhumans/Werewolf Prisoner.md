@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Werewolf Prisoner
-species: 
-ancestry: 
-gender: 
+species: human
+ancestry: lycanthrope
+gender: male
 born: 
 died: 1748
 location: 

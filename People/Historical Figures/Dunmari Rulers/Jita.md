@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Jita
-species: 
-ancestry: 
-gender: 
+species: human
+ancestry: Dunmari
+gender: female
 born: 
 died: 
 location: 

@@ -1,9 +1,9 @@
 ---
 type: NPC
 name: Typhina
-species: 
+species: fey
 ancestry: 
-gender: 
+gender: female
 born: 
 died: 
 location: 

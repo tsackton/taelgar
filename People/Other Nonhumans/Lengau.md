@@ -1,7 +1,7 @@
 ---
 type: NPC
 name: Lengau
-species: 
+species: divine
 ancestry: 
 gender: nonbinary
 pronouns: "he/him or she/her (as they desire)"

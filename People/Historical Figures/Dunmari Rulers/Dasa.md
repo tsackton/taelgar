@@ -1,8 +1,8 @@
 ---
 name: Dasa
-species: 
-ancestry: 
-gender: 
+species: human
+ancestry: Dunmari
+gender: male
 born: 
 died: 
 location: 
