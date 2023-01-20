@@ -103,7 +103,6 @@ def get_PageDatedValue(metadata):
                 return startPrefix + " " + str(yearStart) + " - " + endPrefix + " " + str(yearEnd) +  ", " + endStatus + " at " + str(yearEnd-yearStart) + " years old"
             return startPrefix + " " + str(yearStart) + " (" + str(currentYear-yearStart) + " years old)"
 
-
 def process_string(s, metadata):
     def callback(match):
         function_name = match.group(1).split(",", maxsplit=1)[0].strip('\"').split("/")[-1]
