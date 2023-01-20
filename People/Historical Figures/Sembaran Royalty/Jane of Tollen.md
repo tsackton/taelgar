@@ -4,7 +4,7 @@ species: human
 born:
 ancestry: Vostok
 gender: female
-died:
+died: 1500
 family:
 title:
 affiliations:
@@ -14,7 +14,7 @@ name: Jane
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 whereabouts:
 - {date: 0001-01-01, place: Tollen, region: Tollen}
-- {date: 0001-01-02, place: Embry, region: Sembara}
+- {date: 0001-01-02, place:, region: Sembara}
 ---
 # Jane
 >[!info]+ Biographical Summary
