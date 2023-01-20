@@ -4,9 +4,9 @@ name: Havdar
 species: human
 ancestry: Dunmari
 gender: male
-born: 
+born: 1725
 died: 
-affiliations: 
+affiliations: ["Havdar's Warband"]
 title:
 family:
 aliases: []
@@ -21,5 +21,7 @@ whereabouts:
 >human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+
+![[havdar.png|500]]
 
 %%SECRET[1]%%
