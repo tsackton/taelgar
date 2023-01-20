@@ -2,8 +2,9 @@ import argparse
 import yaml
 import re
 import os
+import sys
 
-def getExistYear(metadata):
+def get_Existence(metadata):
     # get start year
     
     yearStart = None
@@ -103,8 +104,7 @@ def get_PageDatedValue(metadata):
                 return startPrefix + " " + str(yearStart) + " - " + endPrefix + " " + str(yearEnd) +  ", " + endStatus + " at " + str(yearEnd-yearStart) + " years old"
             return startPrefix + " " + str(yearStart) + " (" + str(currentYear-yearStart) + " years old)"
 
-
-def process_string(s, metadata):
+def process_string(s, metadata, file_name):
     def callback(match):
         function_name = match.group(1).split(",", maxsplit=1)[0].strip('\"').split("/")[-1]
 
@@ -113,8 +113,8 @@ def process_string(s, metadata):
         elif (function_name == "get_RegnalValue"):
             return_value = get_RegnalValue(metadata)
         else:
-            print("Function name " + function_name + " not found! Returning ...")
-            return_value = "..."
+            print("Function name " + function_name + " not found in " + file_name, file=sys.stderr)
+            return_value = ""
         
         return return_value
 
@@ -128,9 +128,9 @@ parser.add_argument('--campaign', required=True)
 args = parser.parse_args()
 
 # Get the date, campaign, and directory name from the command line arguments
-parse_date = args.date
+input_date = args.date
 dir_name = args.dir
-campaign = args.campaign
+input_campaign = args.campaign
 
 for file_name in get_md_files(dir_name):
     # Open the input file
@@ -156,35 +156,54 @@ for file_name in get_md_files(dir_name):
         if metadata_block:
             metadata = yaml.safe_load(''.join(metadata_block))
 
-    metadata["curYear"] = parse_date
-    metadata["campaign"] = campaign
-    existYear = getExistYear(metadata)
+    metadata["curYear"] = input_date if "yearOverride" not in metadata or metadata["yearOverride"] is None else metadata["yearOverride"]
+    metadata["campaign"] = input_campaign
+    thing_exist = get_Existence(metadata)
 
     #Process the rest of the file with access to the metadata information
-    date_block = False
+    filter_start = False
+    filter_end = False
+    filter_block = False
     newlines = []
     for line in lines:
-        if date_block:
-            if "%%^End%%" in line:
-                date_block = False
-            continue
-        elif line.startswith("%%^Date:"):
-            date_block = True
-            match = re.search(r'%%\^Date:\s*(\w+)\s*%%', line)
-            ## currently we assume that Date and --date arguments are both just plain years
+        filter_start = line.startswith(("%%^", ">%%^", ">>%%^"))
+        line_start = ""
+        filter_end = line.endswith(("%%^End%%\n"),("%%^End%%"))
+
+        # check if line is just %%^End%%
+        if line.startswith("%%^End"):
+            filter_start = False
+
+        # get filter type if filter start
+        if filter_start:
+            match = re.search(r'^(.*?)%%\^([A-Za-z]+):\s*(\w+)\s*%%', line)
             if match:
-                year = match.group(1)
-                if int(year) > int(parse_date):
-                    continue
+                if match.group(2) == "Date":
+                    # we have a date filter
+                    filter_block = True if int(metadata["curYear"]) < int(match.group(3)) else filter_block
+                elif match.group(2) == "Campaign":
+                    # we have a campaign filter
+                    filter_block = True if metadata["campaign"] != match.group(3) else filter_block
+                else:    
+                    # filter we don't know
+                    print("Found unknown filter in file " + file_name + ": " + match.group(2), file=sys.stderr)
+                line_start = match.group(1)
+            else:
+                print("In file " + file_name + ", couldn't parse filter at line: " + line, end="", file=sys.stderr)
         
-        # find templater functions
-        # we don't care about templater functions in date blocks
-        newline = process_string(line,metadata)
-        newlines.append(newline)
+        if not filter_block:
+            # if filter block is False, we should print the line
+            newline = process_string(line,metadata,file_name)
+            newlines.append(newline)
+        
+        # now need to check filter_end and reset filter_block if we are at the end
+
+        if filter_end:
+            filter_block = False
 
     # Write the updated lines to a new file
     with open(file_name, 'w') as output_file:
-        if not existYear:
+        if not thing_exist:
             newlines = metadata_block
             newlines.append("# " + metadata.get("name", "unnamed entity") + "\n")
             newlines.append("**This does not exist yet!**\n")

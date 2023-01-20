@@ -70,3 +70,18 @@ whereabouts:
 >> 
 > On January 1st, 1717 a trip to: mysterious inn, CityName, Mawar
 > On January 1st, 1718 a trip to: [[Amberglow]], [[Feywild]]
+=======
+sad asdlk
+
+%%^Campaign:dufr%% Keep this %%^End%%
+
+%%^Campaign:clee%% Remove this %%^End%%
+
+>>%%^Campaign:dufr%% Keep this %%^End%%
+%%^Date:1755%%
+Shouldn't see this
+%%^End%%
+
+
+
+>>>>>>> a72fa5b (Updates to convert_markdown.py:)
