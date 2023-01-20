@@ -1,8 +1,8 @@
-function getLocation (tp, frontmatterItem) {
+function getLocation (tp, place, region) {
     
     // construct variables //
-    loc = tp.frontmatter[frontmatterItem];
-    locRegion = tp.frontmatter[frontmatterItem + "Region"];
+    loc = place;
+    locRegion = region;
 
     if (loc) {
         if (locRegion) {
