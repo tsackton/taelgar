@@ -3,24 +3,23 @@ type: NPC
 name: Havdar
 species: human
 ancestry: Dunmari
-gender: 
+gender: male
 born: 
 died: 
-location: "Sura's army camp"
-locationRegion: Central Dunmar
-home: 
-homeRegion: 
-origin: Karawa
-originRegion: Eastern Dunmar
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/major, stub]
 yearOverride: 
+whereabouts:
+     - { date: 0001-01-01, place: "Karawa", region: Eastern Dunmar}
+     - { date: 1748-11-23, place: "Sura's army camp", region: Central Dunmar, excursion: true }
 ---
 # Havdar
 >[!info]+ Biographical Summary
->human (Dunmari), they/them
+>human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Karawa]], [[Eastern Dunmar]]
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 %%SECRET[1]%%

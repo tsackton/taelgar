@@ -4,26 +4,22 @@ name: Albus
 species: human
 ancestry: Chardonian
 gender: male
-born: 
+born: 1694
+title:
+family:
 died: 
-location: Darba
-locationRegion: "Western Dunmar"
-home: Darba
-homeRegion: "Western Dunmar"
-origin: Chardon
-originRegion: "Chardonian Empire"
 affiliations: 
 aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met]
+whereabouts:
+     - { date: 1694-01-01, place: "Chardon", region: Chardonian Empire}
+     - { date: 1694-01-02, place: "Darba", region: Western Dunmar}
 ---
 # Albus
 >[!info]+ Biographical Summary
 >human (Chardonian), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Chardon]], [[Chardonian Empire]]
->Based in: [[Darba]], [[Eastern Dunmar]]
-
->Location (updated November 15, 1748): [[Darba]], [[Eastern Dunmar]]
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
 A Chardonian bookseller who lives and works in [[Darba]]. Well connected to the local academic community. 
 %%^Date:1748-08-05%%

@@ -1,26 +1,29 @@
 ---
 type: NPC
 name: Garret Tealeaf
-species: 
+species: halfling
 ancestry: 
-gender: 
-born: 
+gender: male
+born: 1656
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
 affiliations: 
-aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/major]
+title:
+family: Tealeaf
 yearOverride: 
+lastSeenByParty_DuFr: 1748-07-15
 aliases: [Garret]
+whereabouts:
+  - { date: 1737-01-01, place: "Agata's lair", region: Garamjala Desert, excursion: true }
+  - { date: 1748-06-08, place: "Karawa", region: Eastern Dunmar, excursion: true }
+  - { date: 1748-06-08, place: "Karawa", region: Eastern Dunmar, excursion: true }
+  - { date: 1748-06-30, place: "Tokra", region: Central Dunmar, excursion: true } 
+###secret[1]
 ---
 # Garret Tealeaf
 >[!info]+ Biographical Summary
->unknown species, they/them
+>halfling, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
-An old halfling who spent 11 years as a scarecrow, cursed by [[Agata]]. Very suspicious of magic. Currently traveling with the [[Charmhearts]] to [[Darba]]. 
+%%SECRET[2]%%

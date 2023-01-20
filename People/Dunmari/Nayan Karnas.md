@@ -3,7 +3,7 @@ type: NPC
 name: Nayan Karnas
 species: human
 ancestry: Dunmari
-gender: 
+gender: male
 born: 
 died: 
 location: 
