@@ -87,9 +87,10 @@ function get_Whereabouts(metadata, input) {
       
         let lastSeen = undefined;
         let lastSeenByPartyDate = undefined;
-        
+        let config = {};
+
         if (input.config != undefined) {
-            let config = JSON.parse(input.config);
+            config = JSON.parse(input.config);
             lastSeenByPartyDate = metadata["lastSeenByParty_" + config.campaignPrefix];
             console.log("campaign prefix: " + config.campaignPrefix)
         }
@@ -134,8 +135,11 @@ function get_Whereabouts(metadata, input) {
         if (lastSeen) {
             let matchesHome = lastSeen.place == home.place && lastSeen.region == home.region;
             let matchesCurrent = lastSeen.place == current.place && lastSeen.region == current.region;
+            let alwaysShow = false;
+            if (config && config.whereaboutsSettings) alwaysShow = config.whereaboutsSettings.alwaysShowPartyLocation;
+     
             // we PC place -- show if it is not the same as either home or current
-            if (!matchesHome && !matchesCurrent) {
+            if ((!matchesHome && !matchesCurrent) || alwaysShow) {
                 outputString += input.prefix + "Party last known location (as of " + get_displayDateFromYaml(lastSeenByPartyDate) + "): " +   get_Location(lastSeen.place, lastSeen.region) + input.suffix + "\n";
             }
         }
