@@ -21,7 +21,7 @@ lastSeenByParty:
 whereabouts:
      - { place: "Home District, Chardon", region: Chardonian Empire, type: origin}
      - {  date:1700-01-01place: "Whitsun District, Chardon", region: Chardonian Empire, type: home}
-     - { date: 1717-01-01, place: "mysterious inn, CityName", region: Mawar, type: home }        
+     - { date: 1717-01-01, place: "mysterious inn, City Name's", region: Mawar, type: home }        
      - { date: 1728-05-01, place: "Amberglow", region: Feywild, type: excursion }   
 ---
 # Tester
@@ -31,7 +31,7 @@ whereabouts:
 >`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >> Originally from: Home District, [[Chardon]], [[Chardonian Empire]]
 >> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->>%%Campaign:DuFr%% Last seen by The Side Quests at February 3rd, 1719: mysterious inn, [[CityName]], Mawar %%End%%
+>>%%Campaign:DuFr%% Last seen by The Side Quests at February 3rd, 1719: mysterious inn, [[_scripts/CityName]], Mawar %%End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 

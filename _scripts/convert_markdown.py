@@ -5,6 +5,7 @@ import os
 import sys
 from pathlib import Path
 import datetime
+import urllib.parse 
 
 def get_links_dict(files):
     links = {}
@@ -18,7 +19,7 @@ def get_link(string, file, links):
         dest = links[string]
         orig = links[Path(file).stem].parent
         linkpath = os.path.relpath(dest,orig)
-        return "[" + string + "](" + linkpath + ")"
+        return "[" + string + "](" + urllib.parse.quote(linkpath) + ")"
     else:
         return string
 
