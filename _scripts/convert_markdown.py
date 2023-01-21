@@ -3,6 +3,24 @@ import yaml
 import re
 import os
 import sys
+from pathlib import Path
+
+def get_links_dict(files):
+    links = {}
+    for file in files:
+        filepath = Path(file)
+        links[filepath.stem] = filepath
+    return links
+
+def get_link(string, file, links):
+    if string in links:
+        dest = links[string]
+        orig = file
+        linkpath = dest.relative_to(orig)
+        return "[" + string + "](" + linkpath + ")"
+    else:
+        return string
+
 
 def get_Existence(metadata):
     # get start year
@@ -104,12 +122,31 @@ def get_PageDatedValue(metadata):
                 return startPrefix + " " + str(yearStart) + " - " + endPrefix + " " + str(yearEnd) +  ", " + endStatus + " at " + str(yearEnd-yearStart) + " years old"
             return startPrefix + " " + str(yearStart) + " (" + str(currentYear-yearStart) + " years old)"
 
-def process_string(s, metadata, file_name):
+def get_HomeWhereabouts(metadata,file_name,links):
+    cur_year = int(metadata["curYear"])
+    
+    if "whereabouts" not in metadata:
+        return ""
+    
+    home_whereabouts = [w for w in metadata["whereabouts"] if w["type"] == "home" and int(w["date"][:4]) <= cur_year]
+    if home_whereabouts:
+        most_recent_home = max(home_whereabouts, key=lambda x: x["date"])
+        home =  most_recent_home["place"] + ","  + most_recent_home["region"]
+        home_parts =  [x.strip() for x in home.split(',')]
+        home_text = [get_link(x,file_name,links) for x in home_parts]
+        return "Based in: " + ", ".join(home_text)
+    else:
+        return ""
+
+
+def process_string(s, metadata, file_name, links):
     def callback(match):
         function_name = match.group(1).split(",", maxsplit=1)[0].strip('\"').split("/")[-1]
 
         if (function_name == "get_PageDatedValue"):
             return_value = get_PageDatedValue(metadata)
+        elif (function_name == "get_HomeWhereabouts"):
+            return_value = get_HomeWhereabouts(metadata, file_name, links)
         elif (function_name == "get_RegnalValue"):
             return_value = get_RegnalValue(metadata)
         else:
@@ -131,8 +168,10 @@ args = parser.parse_args()
 input_date = args.date
 dir_name = args.dir
 input_campaign = args.campaign
+md_file_list = get_md_files(dir_name)
+links = get_links_dict(md_file_list)
 
-for file_name in get_md_files(dir_name):
+for file_name in md_file_list:
     # Open the input file
     with open(file_name, 'r') as input_file:
         lines = input_file.readlines()
@@ -193,7 +232,7 @@ for file_name in get_md_files(dir_name):
         
         if not filter_block:
             # if filter block is False, we should print the line
-            newline = process_string(line,metadata,file_name)
+            newline = process_string(line,metadata,file_name,links)
             newlines.append(newline)
         
         # now need to check filter_end and reset filter_block if we are at the end
