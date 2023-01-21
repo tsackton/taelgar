@@ -4,6 +4,7 @@ import re
 import os
 import sys
 from pathlib import Path
+import datetime
 
 def get_links_dict(files):
     links = {}
@@ -15,8 +16,8 @@ def get_links_dict(files):
 def get_link(string, file, links):
     if string in links:
         dest = links[string]
-        orig = file
-        linkpath = dest.relative_to(orig)
+        orig = links[Path(file).stem].parent
+        linkpath = os.path.relpath(dest,orig)
         return "[" + string + "](" + linkpath + ")"
     else:
         return string
@@ -123,14 +124,14 @@ def get_PageDatedValue(metadata):
             return startPrefix + " " + str(yearStart) + " (" + str(currentYear-yearStart) + " years old)"
 
 def get_HomeWhereabouts(metadata,file_name,links):
-    cur_year = int(metadata["curYear"])
+    cur_year = datetime.date(int(metadata["curYear"]),1,1)
     
     if "whereabouts" not in metadata:
         return ""
     
-    home_whereabouts = [w for w in metadata["whereabouts"] if w["type"] == "home" and int(w["date"][:4]) <= cur_year]
+    home_whereabouts = [w for w in metadata["whereabouts"] if w["type"] == "home" and w.get("date",datetime.date(1,1,1)) <= cur_year]
     if home_whereabouts:
-        most_recent_home = max(home_whereabouts, key=lambda x: x["date"])
+        most_recent_home = max(home_whereabouts, key=lambda x: x.get("date",datetime.date(1,1,1)))
         home =  most_recent_home["place"] + ","  + most_recent_home["region"]
         home_parts =  [x.strip() for x in home.split(',')]
         home_text = [get_link(x,file_name,links) for x in home_parts]
@@ -155,7 +156,7 @@ def process_string(s, metadata, file_name, links):
         
         return return_value
 
-    pattern = "\`\$\=dv\.view\((.*)\`"
+    pattern = "\`\$\=dv\.view\((.*)\)\`"
     return re.sub(pattern, callback, s)
 
 parser = argparse.ArgumentParser()
@@ -207,7 +208,7 @@ for file_name in md_file_list:
     for line in lines:
         filter_start = line.startswith(("%%^", ">%%^", ">>%%^"))
         line_start = ""
-        filter_end = line.endswith(("%%^End%%\n"),("%%^End%%"))
+        filter_end = line.endswith(("%%^End%%\n","%%^End%%"))
 
         # check if line is just %%^End%%
         if line.startswith("%%^End"):
