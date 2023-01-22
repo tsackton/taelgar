@@ -4,26 +4,23 @@ name: Marcella
 species: human
 ancestry: Chardonian
 gender: female
-born: 1714
+born: 1718
 died: 
-location: "east of the ~CentralMountains~"
-locationRegion: "Greater Sembara"
-home: 
-homeRegion:
-origin: Chardon
-originRegion: "Chardonian Empire"
 affiliations: 
+title:
 aliases: []
 tags: [NPC/DuFr/major, NPC/DuFr/met]
 family:
+whereabouts:
+     - { date: 1714-01-01, place: "Chardon", region: Chardonian Empire, type: origin }
+     - { date: 1748-11-23, place: "east of the ~CentralMountains~", region: Greater Sembara, type: excursion }
 ---
 # Marcella
 >[!info]+ Biographical Summary
 >human (Chardonian), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Chardon]], [[Chardonian Empire]]
-
->Location (updated November 15, 1748): east of the [[~CentralMountains~]], [[Greater Sembara]]
+>> Originally from: [[Chardon]], [[Chardonian Empire]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A nondescript Chardonian woman, short brown hair and a plain face. An archer, skilled with a bow, wears well-tended leather armor under a traveling cloak. 
 
