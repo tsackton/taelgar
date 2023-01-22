@@ -13,9 +13,8 @@ originRegion: Sembara
 affiliations: 
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer]
 tags: [PC/Cleenseau]
-campaign: "Cleenseau"
-player: "Chris Kelly"
-yearOverride: 
+campaign: Cleenseau
+player: Chris Kelly
 ---
 # Najeer Garay
 >[!info]+ Basic information
@@ -26,6 +25,8 @@ yearOverride:
 >Location (updated October 21, 1719): Taviose, [[Sembara]]
 
 Najeer Garay is the fourth son of [[Susanne Garay]], the matriarch of a wealthy cloth merchant family in [[Embry]]. He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature.  Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected. 
+
+![[Najeer screenshot.png]]
 
 He has a weird egg in Brot’s forge that isn’t a topic of public conversation but he seems willing to talk to Izgil about (because Izgil knows Brot mostly) eventually. He is mildly confused by Ceyln but seems to have dropped the initial paranoia. 
 
@@ -75,12 +76,19 @@ He awakes the morning of October 20th, a Saturday, with a new feeling: the egg n
 >**Vala Xendra** (she/her)
 >A poorly dressed lower class servant woman from whereever she needs to be. Usually seen carrying a basket or laundry or some other mundane item. In her late teens.
 >
+>![[Vala screenshot.png]]
+>
 >**Najeer Garay** (he/him)
 > The son of [[Susanne Garay]], a cloth merchant from [[Embry]]. Richly dressed, but lacking the finery (belt, shoes, jewelry) that would usually be associated with fine clothes. An asipiring merchant, looking to expand his family's cloth trade. Talkative and a little bit pompous. In his mid-20s.
+> ![[Najeer screenshot.png]]
 > 
 > **Treph Hardpick** (he/him)
 > A dwarf, traveler from [[Nardith]]. A laborer, looking more concerned with the evening's dice-and-drinking than apperances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
 > 
+> ![[Treph screenshot.png]]
+> 
 > **Sarlana Silversword** (she/her)
 > A human warrior and aspiring paladin from [[Free City of Tollen|Tollen]]. Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
+> 
+> ![[Sarlana screenshot (1).png]]
 
