@@ -6,24 +6,22 @@ ancestry: "Deno'qai"
 gender: male
 born: 1520
 died: 1544
-location: deceased
-locationRegion: "Forest of Nightmares"
-home: "Ko'zula village"
-homeRegion:
-origin:
-originRegion:
 affiliations: ["Ko'zula"]
+title:
+family:
 aliases: []
 tags: [NPC/historical, NPC/DuFr/aware, NPC/DuFr/minor]
 yearOverride: 
+whereabouts:
+     - { date: 1520-01-02, place: "Ko'zula village", region: unknown, type: home }
+     - { date: 1544-01-01, place: "deceased", region: Forest of Nightmares, type: excursion }
 ---
 # Balati
 >[!info]+ Biographical Summary
 >human (Deno'qai), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Based in: Ko'zula village
-
->Location (updated November 15, 1748): deceased, [[Forest of Nightmares]]
+>> Based in: Ko'zula village, unknown
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A hero of the Deno'qai during the [[Great War]], and the man who once bore the armor and shield [[Delwath]] now carries.
 

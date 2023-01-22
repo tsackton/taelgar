@@ -209,7 +209,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
                     insertedWhereabouts = true;
                 }
          
-                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.origin)}", region: ${fixupLocation(tp.frontmatter.originRegion)}}, type: origin`);
+                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.origin)}", region: ${fixupLocation(tp.frontmatter.originRegion)}, type: origin }`);
          
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
                 indexOfYamlEnd--;
@@ -227,7 +227,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
                     currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
                     insertedWhereabouts = true;
                 }
-                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.home)}", region: ${fixupLocation(tp.frontmatter.homeRegion)}}, type: home`);
+                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.home)}", region: ${fixupLocation(tp.frontmatter.homeRegion)}, type: home }`);
          
                 // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
                 indexOfYamlEnd--;                
