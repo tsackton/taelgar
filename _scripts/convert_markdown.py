@@ -157,7 +157,9 @@ def process_string(s, metadata, file_name, links):
         elif (function_name == "get_RegnalValue"):
             return_value = get_RegnalValue(metadata)
         elif (function_name == "get_CurrentWhereabouts"):
-            return_value = ""           
+            return_value = ""     
+        elif (function_name == "get_Whereabouts"):
+            return_value = ""             
         else:
             print("Function name " + function_name + " not found in " + file_name, file=sys.stderr)
             return_value = ""
@@ -176,7 +178,7 @@ args = parser.parse_args()
 
 # Get the date, campaign, and directory name from the command line arguments
 if (args.date):
-    input_date = args.date
+    input_date = args.date.split("-")[0]
 elif (args.configDir):
     input_date = get_currentFantasyDate(args.configDir)
 else:
@@ -188,7 +190,7 @@ input_campaign = args.campaign
 md_file_list = get_md_files(dir_name)
 links = get_links_dict(md_file_list)
 
-print("Using year ", input_date)
+print("Using year:", input_date)
 
 for file_name in md_file_list:
     # Open the input file
@@ -234,7 +236,7 @@ for file_name in md_file_list:
 
         # get filter type if filter start
         if filter_start:
-            match = re.search(r'^(.*?)%%\^([A-Za-z]+):\s*(\w+)\s*%%', line)
+            match = re.search(r'^(.*?)%%\^([A-Za-z]+):\s*(\w+).*?\s*%%', line)
             if match:
                 if match.group(2) == "Date":
                     # we have a date filter

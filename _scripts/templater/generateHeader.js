@@ -81,7 +81,7 @@ async function generateHeader(tp) {
                             if (thisCampaign) partyName = thisCampaign.partyName;
                         }
                         if (loc != undefined) {
-                            locationDisplay += `\n>>%%Campaign:${element.prefix}%% Last seen by ${partyName} at ${get_displayDateFromYaml(element.date)}: ${tp.user.getLocation(tp, loc.place, loc.region)} %%End%%`;
+                            locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${get_displayDateFromYaml(element.date)}: ${tp.user.getLocation(tp, loc.place, loc.region)} %%^End%%`;
                         }
                     });
                 }
