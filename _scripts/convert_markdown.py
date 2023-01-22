@@ -3,6 +3,7 @@ import yaml
 import re
 import os
 import sys
+import json
 from pathlib import Path
 import datetime
 import urllib.parse 
@@ -23,6 +24,10 @@ def get_link(string, file, links):
     else:
         return string
 
+def get_currentFantasyDate(directory):    
+    with open(os.path.join(directory, 'plugins', 'fantasy-calendar', 'data.json'), 'r', 2048, "utf-8") as f:
+        data = json.load(f)
+        return data['calendars'][0]['current']['year']
 
 def get_Existence(metadata):
     # get start year
@@ -151,6 +156,8 @@ def process_string(s, metadata, file_name, links):
             return_value = get_HomeWhereabouts(metadata, file_name, links)
         elif (function_name == "get_RegnalValue"):
             return_value = get_RegnalValue(metadata)
+        elif (function_name == "get_CurrentWhereabouts"):
+            return_value = ""           
         else:
             print("Function name " + function_name + " not found in " + file_name, file=sys.stderr)
             return_value = ""
@@ -161,21 +168,31 @@ def process_string(s, metadata, file_name, links):
     return re.sub(pattern, callback, s)
 
 parser = argparse.ArgumentParser()
-parser.add_argument('--date', required=True)
+parser.add_argument('--date', required=False)
 parser.add_argument('--dir', required=True)
-parser.add_argument('--campaign', required=True)
+parser.add_argument('--campaign', required=False)
+parser.add_argument('--configDir', required=False)
 args = parser.parse_args()
 
 # Get the date, campaign, and directory name from the command line arguments
-input_date = args.date
+if (args.date):
+    input_date = args.date
+elif (args.configDir):
+    input_date = get_currentFantasyDate(args.configDir)
+else:
+    print("Error: Requires either a configDir or an input date")
+    exit
+
 dir_name = args.dir
 input_campaign = args.campaign
 md_file_list = get_md_files(dir_name)
 links = get_links_dict(md_file_list)
 
+print("Using year ", input_date)
+
 for file_name in md_file_list:
     # Open the input file
-    with open(file_name, 'r') as input_file:
+    with open(file_name, 'r', 2048, "utf-8") as input_file:
         lines = input_file.readlines()
 
     # if file is blank, move on
@@ -207,7 +224,7 @@ for file_name in md_file_list:
     filter_block = False
     newlines = []
     for line in lines:
-        filter_start = line.startswith(("%%^", ">%%^", ">>%%^"))
+        filter_start = line.startswith(("%%^", ">%%^", ">>%%^", ">>>%%^"))
         line_start = ""
         filter_end = line.endswith(("%%^End%%\n","%%^End%%"))
 
@@ -243,7 +260,7 @@ for file_name in md_file_list:
             filter_block = False
 
     # Write the updated lines to a new file
-    with open(file_name, 'w') as output_file:
+    with open(file_name, 'w', 2048, "utf-8") as output_file:
         if not thing_exist:
             newlines = metadata_block
             newlines.append("# " + metadata.get("name", "unnamed entity") + "\n")
