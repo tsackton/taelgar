@@ -84,8 +84,8 @@ function get_Whereabouts(metadata, input) {
     if (metadata.whereabouts) {
         if (metadata.born > currentYear) return "";
 
-        let current = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) <= 0 && s.type != "origin");
-        let home = metadata.whereabouts.findLast(s => s.date != undefined && compare_dates(s.date, currentJsDate) <= 0 && s.type === "home");
+        let current = metadata.whereabouts.findLast(s => s.type != "origin" && (s.date == undefined || compare_dates(s.date, currentJsDate) <= 0));
+        let home = metadata.whereabouts.findLast(s => (s.date == undefined || compare_dates(s.date, currentJsDate) <= 0) && s.type === "home");
         
         if (current) {
             // we have a current place -- show if it doesn't match home
