@@ -13,7 +13,7 @@ family: Hardstone
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
 whereabouts:
-     - { date: 1729-01-02, place: "Tokra", region: Central Dunmar}
+     - { date: 1729-01-02, place: "Tokra", region: Central Dunmar, type: home}
 ---
 # Dag Hardstone
 >[!info]+ Biographical Summary

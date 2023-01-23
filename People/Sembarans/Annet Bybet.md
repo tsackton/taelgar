@@ -12,13 +12,8 @@ family:
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: 1692-01-01, place: "Ainswick", region: Sembara}
-     - { date: 1692-01-02, place: "Cleenseau", region: Sembara}
+     - { date: 1692-01-01, place: "Ainswick", region: Sembara, type: origin}
+     - { date: 1692-01-02, place: "Cleenseau", region: Sembara, type: home}
 ---
-# Annet Bybet
->[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
-
+<% tp.user.generateHeader(tp) %>
 A cousin of [[Arthur Bybet]] and the chamberlain of the Essford household. 
