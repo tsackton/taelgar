@@ -5,24 +5,21 @@ species: human
 ancestry: Sembaran
 gender: male
 born: 1697
-died: 
-location: Cleenseau
-locationRegion: Sembara
-home: Cleenseau
-homeRegion: Sembara
-origin:
-originRegion:
 affiliations: 
+title:
+family:
+died:
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+whereabouts:
+     - { date: , place: "Cleenseau", region: Sembara, type: home }
 ---
 # Nicholas Wysson
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Sembaran), he/him
->b. 1697
->22 years old
->Based in: Cleenseau, [[Sembara]]
->Location (updated October 21, 1719): Cleenseau, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Based in: [[Cleenseau]], [[Sembara]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 The youngest nephew of a military captain, he was recently appointed magistrate despite having barely more than twenty summers. Clean-shaven and thin, he often appears somewhat lost in thought.
 
