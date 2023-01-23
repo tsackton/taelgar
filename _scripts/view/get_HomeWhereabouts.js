@@ -67,7 +67,7 @@ function get_HomeWhereabouts(metadata) {
 
     if (metadata.whereabouts) {
 
-        let home = metadata.whereabouts.findLast(s => compare_dates(s.date, currentJsDate) <= 0 && s.type === "home");
+        let home = metadata.whereabouts.findLast(s => (s.date == undefined || compare_dates(s.date, currentJsDate) <= 0) && s.type === "home");
         if (home && (home.place || home.region)) {
             return "Based in: " + get_Location(home.place, home.region) + "\n";
         }
