@@ -5,4 +5,3 @@ A brutal war fought in the north of [[Dunmar]] against the [[Blackened Claw]] ho
 
 Ended is a complete and total Dunmari victory, with the hobgoblins crushed. 
 
-

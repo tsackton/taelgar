@@ -54,16 +54,4 @@ A short, quick-footed woman, with a nondescript face, short, black hair and ligh
 - 6 June 1748: Leaves to return to [[Karawa]] at first light
 - 10 June 1748: Arrives back in [[Karawa]]. Reports on rumors from [[Karawa]] to [[Delwath]], and speaks with him about the Dunmari shield recovered from [[Agata's lair]]. 
 - 18-19 June 1748: Celebrates the [[Feast of Bhishma]] in [[Karawa]] with [[The Dunmar Fellowship]] and others. 
-%%SECRET 
-- After the feast of Bhishma, resumes usual riding and scouting and messenger duties around [[eastern Dunmar]]. In August, as [[Sura]]'s army grows, takes on a messenger role for her, riding with news and messagers between the camp and [[Karawa]]. 
-- In fall of 1748 , can usually be found somewhere between [[Karawa]] or the army camp
-- 28 Oct - 4 Nov 1748: riding errands around [[Sura]]'s camp, generally not progressing too far east; misses [[Delwath]] on the plains
-- 5 Nov 1748: Leaves [[Sura]]'s camp for [[Karawa]] with messages, that [[Havdar]] and [[Sura]] will attack [[Tokra]] if the situation is not resolved by [[Sonkar's Day]]. 
-- 11 Nov 1748: Arrives in [[Karawa]]
-- 14 Nov 1748: Leaves [[Karawa]] with messages for nomadic groups across the northeast, calling in their duties to [[Sura]] and [[Havdar]]
-- 16 Nov 1748: Arrives in [[Gomat]]
-- 20 Nov 1748: Arrives northeastern corner of [[Dunmar]], turns west
-- 24 Nov 1748: Arrives south of [[Stormcaller Tower]], turns southwest to avoid the storm
-- 25 Nov 1748 - 2 Dec 1748: Crisscrosses plains between [[Karawa]] and [[Tokra]]
-- 3 Dec 1748: Rides for [[Sura]]'s camp
-- 6 Dec 1748: Arrives [[Sura]][[Sura|'s c]]amp as masses of troops begin to gather. 
+%%SECRET[2]%%

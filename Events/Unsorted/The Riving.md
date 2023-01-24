@@ -6,4 +6,3 @@ Diminished in power as the boundaries around the material plane grew thicker and
 
 As the multiverse was sundering in the Riving, the realms of the embodied gods spun from the [[Plane of Souls]] and their imaginations, where the form of the land could still be reshaped with a thought.**
 
-

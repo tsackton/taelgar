@@ -9,3 +9,4 @@ With the sinking of Hkar, the land changed: mountains arose from the plains, hil
 Among the humans, the destruction was greatest on Hkar. Many refugees from Hkar, buoyed by the [[Mos Numena|Eight Divines]], landed in the war-torn remnants of the dying elven kingdom of Alcarinquë. Whether others survived the long journey south, beyond the destruction, to some far distant land, is not known by modern scholars. But those living on the mainland were not spared the ravages of war. The cities and civilizations of the south, once the most powerful kingdoms outside of Drankor, fell, and were swallowed by the changing land. Only those humans who had lived on the margins of the world, in the far north, or on the shores of the Green Sea, escaped largely unscathed, although not untouched by war. 
 
 Thus, at the end of the Third Age all was changed, the elder races diminished, and the time of the humans at hand.
+
