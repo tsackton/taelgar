@@ -11,7 +11,8 @@ parser.add_argument('--csv', "-i", required=True, help="The csv file to parse.")
 parser.add_argument('--dir', "-d", required=True, help="Directory to write daily notes to. Events will be appended to existing notes by default.")
 parser.add_argument('--secret', "-s", required=False, action="store_true", help="Optional. Sets all events from this file to secret.")
 parser.add_argument('--people', "-p", required=False, nargs='*', help="Optional. Will add people specified to the people: metadata for all events from this file.")
-parser.add_argument('--overwrite', required=False, action="store_true", help="Overwrite existing daily notes. Use with caution!")
+parser.add_argument('--campaign', "-c", required=False, nargs='*', help="Optional. Will add campaigns specificed to the campaign: metadata for all events from this file, overwriting any column header logic.")
+parser.add_argument('--cleanup', required=False, action="store_true", help="Clean up [ ] and { } information from old timelines.")
 args = parser.parse_args()
 
 ## read each row
@@ -83,9 +84,10 @@ with open(args.csv, 'r', encoding='utf-8-sig', newline='') as tl:
             """
             
             if day_event:
-                # remove {GL} and other {} tags
-                day_event = re.sub(r'{\w+}', '', day_event)
-                day_event = re.sub(r'\[(.+?)\]', 'Learned from \g<1>)', day_event)
+                if args.cleanup:
+                    # remove {GL} and other {} tags
+                    day_event = re.sub(r'{\w+}', '', day_event)
+                    day_event = re.sub(r'\[(.+?)\]', 'Learned from \g<1>.', day_event)
 
                 # event metadata
                 secret = "true" if (header == "Secrets" or args.secret) else "false"
@@ -96,13 +98,16 @@ with open(args.csv, 'r', encoding='utf-8-sig', newline='') as tl:
                 else:
                     event_campaign = ""
                 
+                if (args.campaign):
+                    event_campaign = ",".join(args.campaign)
+                
                 if (args.people):
                     event_people = ",".join(args.people)
                 else:
                     event_people = ""
 
                 header_string = "## " + header
-                metadata_string = "{secret: " + secret + ", campaign: [ " + event_campaign + " ], title: , people: [ " + event_people + " ], event_type: }\n"
+                metadata_string = "{secret: " + secret + ", campaign: [ " + event_campaign + " ], title: , people: [ " + event_people + " ], subtype: }\n"
                 end_string = "\n---"
 
                 # check if file already exists
@@ -116,7 +121,8 @@ with open(args.csv, 'r', encoding='utf-8-sig', newline='') as tl:
                     # file doesn't exist
                     with open(event_file, "w") as ef:
                         print("---", file=ef)
-                        print("type: Daily Note", file=ef)
+                        print("type: Event", file=ef)
+                        print("subtype: Daily Note", file=ef)
                         print("taelgar-date: " + event_date, file=ef)
                         # print("fc-calendar: Taelgar", file=ef)
                         # print("fc-category: " + fc_cat, file=ef)
