@@ -17,6 +17,8 @@ args = parser.parse_args()
 
 ## read each row
 
+headers = []
+
 with open(args.csv, 'r', encoding='utf-8-sig', newline='') as tl:
     timeline = csv.reader(tl, dialect='excel')
     for day in timeline:
@@ -92,22 +94,21 @@ with open(args.csv, 'r', encoding='utf-8-sig', newline='') as tl:
                 # event metadata
                 secret = "true" if (header == "Secrets" or args.secret) else "false"
                 if header == "Great Library":
-                    event_campaign = "GrLi"
+                    event_campaign = "\"GrLi\""
                 elif header == "Dunmari Frontier" or header == "Rumors and News":
-                    event_campaign = "DuFr"
+                    event_campaign = "\"DuFr\""
                 else:
-                    event_campaign = ""
+                    event_campaign = "\"\""
                 
                 if (args.campaign):
-                    event_campaign = ",".join(args.campaign)
-                
+                    event_campaign = ",".join('"'+x+'"' for x in args.campaign)
                 if (args.people):
-                    event_people = ",".join(args.people)
+                    event_people = ",".join('"'+x+'"' for x in args.people)
                 else:
-                    event_people = ""
+                    event_people = "\"\""
 
                 header_string = "## " + header
-                metadata_string = "{secret: " + secret + ", campaign: [ " + event_campaign + " ], title: , people: [ " + event_people + " ], subtype: }\n"
+                metadata_string = "{\"secret\": " + secret + ", \"campaign\": [ " + event_campaign + " ], \"title\": null, \"people\": [ " + event_people + " ], \"subtype\": null}\n"
                 end_string = "\n---"
 
                 # check if file already exists
