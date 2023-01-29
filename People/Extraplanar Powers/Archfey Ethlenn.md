@@ -21,4 +21,4 @@ yearOverride:
 >[!info]+ Biographical Summary
 >fey (archfey), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Based in: [[Feywild]]
+>Based in: [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]]

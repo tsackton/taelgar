@@ -69,7 +69,7 @@ whereabouts:
 > On January 2nd, 1700: Whitsun District, [[Chardon]], [[Chardonian Empire]]
 >> 
 > On January 1st, 1717 a trip to: mysterious inn, CityName, Mawar
-> On January 1st, 1718 a trip to: [[Amberglow]], [[Feywild]]
+> On January 1st, 1718 a trip to: [[Amberglow]], [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]]
 =======
 sad asdlk
 

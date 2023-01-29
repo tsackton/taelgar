@@ -1,3 +1,8 @@
+---
+fc-calendar: Taelgar
+fc-date: 1748-6-17
+fc-end: 1748-6-19
+---
 ### The Feast of Bhishma
 
 Bhishma's Feast day, celebrated as a two day festival starting the day before the night of the first new moon in June, marking the end of summer and the start of the monsoon season. This is usually around the summer solstice.

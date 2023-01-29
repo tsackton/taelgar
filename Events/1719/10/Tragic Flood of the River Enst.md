@@ -1,6 +1,6 @@
 ---
 taelgar-date: 1719-10-16
-type: event
+type: Event
 fc-date: 1719-10-16
 fc-calendar: Taelgar Calendar
 fc-category: Cleenseau Campaign

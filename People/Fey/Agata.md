@@ -28,4 +28,4 @@ Fascinated by strange magic and collector of magic items, from the common to the
 
 Thought killed in [[Shakun’s Wellspring]] in [[Session 28 (DuFr)]]. Hid in the [[Ring of the Warded Mind]], pretending to by [[Typhina]], for months. She told her tale to Seeker in (check session). 
 
-Until the party brought her to the [[Feywild|Feywild]], where she met her final end imprisoned in [[Session 61 (DuFr)]].
+Until the party brought her to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]], where she met her final end imprisoned in [[Session 61 (DuFr)]].

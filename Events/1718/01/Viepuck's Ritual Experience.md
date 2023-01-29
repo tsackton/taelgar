@@ -1,6 +1,6 @@
 ---
 taelgar-date: 1719-10-20
-type: event
+type: Event
 fc-date: 1718-01-24
 fc-display-name: Viepuck Meeting his Patron
 ---
