@@ -1,3 +1,7 @@
+---
+fc-calendar: Taelgar
+fc-date: 1748-4-6
+---
 ### The Festival of Rebirth
 
 [[Jeevali]]'s Feast Day. Celebrated on the first full moon after the vernal equinox, marking the beginning of summer. 
