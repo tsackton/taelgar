@@ -4,20 +4,23 @@ name: Radomir
 species: human
 ancestry: Urskan
 gender: male
-born: 
+born: 1710
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
 affiliations: 
 aliases: []
+title:
+family:
 tags: [NPC/DuFr/minor, NPC/DuFr/aware]
 yearOverride: 
+whereabouts:
+     - { date: 1710-01-02, place: "unknown", region: Ursk, type: home }
 ---
-## Radomir
+# Radomir
+>[!info]+ Biographical Summary
+>human (Urskan), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Based in: unknown, [[Ursk]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A man from a strange place to the east.
 

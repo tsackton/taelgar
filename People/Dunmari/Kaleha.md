@@ -4,7 +4,7 @@ name: Kaleha
 species: human
 ancestry: Dunmari
 gender: female
-born: 
+born: 1699
 died: 
 affiliations: 
 aliases: []

@@ -1,0 +1,1 @@
+A sailor who regularly passes through Hamri, obsessed with rumors of merfolk.
