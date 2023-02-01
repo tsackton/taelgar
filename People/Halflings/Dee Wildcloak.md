@@ -21,4 +21,4 @@ whereabouts:
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
 
-Adventurer, funded by [[Fausto]] to explore. Part of the group that brought [[Hralgar's Eyes]] to [[Chardon]] from [[Stormcaller Tower]]. 
+Adventurer, funded by [[Fausto]] to explore. Part of the group that brought [[Hralgar's Eyes]] to [[Chardon]] from [[Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Stormcaller Tower]]. 
