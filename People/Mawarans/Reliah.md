@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Reliah
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/MC/met]
 ---
 # Reliah
 >[!info]+ Biographical Summary

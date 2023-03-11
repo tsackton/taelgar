@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Abelard
-tags: [NPC/unsorted]
+tags: [NPC/MC/unsorted, NPC/DuFr/unaware]
 ---
 # Abelard
 >[!info]+ Biographical Summary

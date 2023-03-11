@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Khathayi
-tags: [NPC/unsorted]
+tags: [NPC/MC/aware, NPC/DuFr/unaware, NPC/historical]
 ---
 # Khathayi
 >[!info]+ Biographical Summary

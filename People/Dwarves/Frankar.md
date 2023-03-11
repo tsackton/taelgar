@@ -4,7 +4,7 @@ name: Frankar
 species: dwarf
 ancestry: 
 gender: male
-born: 
+born: 1714
 died: 1730
 endPrefix: "disappeared"
 endStatus: "mysteriously vanished"
