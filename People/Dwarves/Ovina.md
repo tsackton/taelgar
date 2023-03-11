@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Ovina
-tags: [NPC/unsorted]
+tags: [NPC/MC/met, NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Ovina
 >[!info]+ Biographical Summary
