@@ -4,4 +4,3 @@ A cursed forest, once home to many Deno'qai. The scene of many battles during th
 
 On the western border of the territory of the [[Ko'zula]] Deno'qai tribe.
 
-

@@ -8,4 +8,3 @@ The archives also have small holdings of books on history pre-dating Dunmari, es
 
 Access to the archives is restricted, controlled formally by [[Kaleha]], the Head Priest of [[Tokra]], but in practice by [[Ardan]], the Chief Archivist. 
 
-

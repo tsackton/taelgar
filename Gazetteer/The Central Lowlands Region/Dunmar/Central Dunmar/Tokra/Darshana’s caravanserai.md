@@ -4,4 +4,3 @@ On the west side of town, outside the walls, a large, open caravanserai that han
 
 A notable gathering place for Dunmari as well, a bit more rough-and-ready than the tea shops in town. Popular with ex-soliders. 
 
-

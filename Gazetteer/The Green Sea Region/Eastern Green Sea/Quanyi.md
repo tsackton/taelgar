@@ -4,4 +4,3 @@ The anchored island, where sea elves live and harvest magical salt from the warm
 
 [[Shoal]]'s homeland.
 
-

@@ -4,4 +4,3 @@ A town and trading port in the [[Vermillion Isles]]. Although most of the villag
 
 Known for the chiles it grows and dries into powder. 
 
-

@@ -5,4 +5,3 @@ This region of Taelgar spans the distant, rumored north, from the polar coasts i
 ## Climate
 
 This region of Taelgar is nearly entirely within the subpolar or polar climates, a mix of [vast subarctic forests](https://geodiode.com/climate/subarctic) and [barren tundra](https://geodiode.com/climate/tundra). But few rumors or tales come to the south from these regions, and in the distant north, who knows what strange magic may sustain life in unlikely places?
-

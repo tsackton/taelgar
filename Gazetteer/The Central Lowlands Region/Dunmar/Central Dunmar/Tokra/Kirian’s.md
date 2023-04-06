@@ -4,4 +4,3 @@ A substantial, three-story inn near the main market square. One of the few inns 
 
 3 gp/day for party for decent rooms and plain food.
 
-

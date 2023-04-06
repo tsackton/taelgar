@@ -8,4 +8,3 @@ A place in the lizardfolk jungles, just west of the border of [[Orekatu]], where
 
 Protected by a spirit creature, [[Lengau]].
 
-
