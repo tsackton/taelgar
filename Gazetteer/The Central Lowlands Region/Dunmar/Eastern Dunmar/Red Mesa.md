@@ -6,4 +6,3 @@ The mesa itself is quite old, dating almost to [[The Founding of Dunmar]], for i
 
 There has always been a holy spring here, a place that people said could show you glimpses of dreams and faraway visions of possible futures, guarded and protected by a small Mystery Cult dedicated to [[Shakun]].
 
-

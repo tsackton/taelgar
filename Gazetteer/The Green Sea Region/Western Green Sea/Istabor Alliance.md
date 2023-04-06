@@ -6,4 +6,3 @@ The Istabor Alliance was an alliance of city states and their hinterlands before
 
 
 
-

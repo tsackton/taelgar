@@ -22,3 +22,4 @@ The climate of the region is shaped by several major factors:
 
 In general, the region’s climate is temperate, with four distinct seasons, dry winters, and wet summers. During the summer months, a monsoon wind blows from the Green Sea, bringing ample rainfall. In winter, high pressure builds over the northern steppe, and the west winds that blow over the mountains are dry and cold.
 
+

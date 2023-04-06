@@ -4,4 +4,3 @@ tags: [stub]
 
 ## Ursk
 
-

@@ -6,4 +6,3 @@ The oldest building and organization in Chardon, dedicated to collecting and pre
 
 
 
-
