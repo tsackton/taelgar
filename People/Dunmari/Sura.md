@@ -29,4 +29,8 @@ The sister of [[Nayan Karnas]], trapped in the [[Mirror of Soul Trapping]] by Ag
 
 ![[sura.png|400]]
 
+In December 1748, is planning an attack on Tokra to solidly her control over the central plains of Dunmar, and to drive the Chardonians out of the country. 
+
+Has had dreams of riding at the head of an army across the plains, her spear burning with Aagir's light, flames spraying from the hooves of her calvary, burning her enemies before her. 
+
 %%SECRET[1]%%
