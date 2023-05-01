@@ -5,7 +5,7 @@ species: lizardfolk
 ancestry: 
 gender: female
 born: 1681
-died: 
+died: 1719
 location: Ganboa
 locationRegion: Semabara
 home: Ganboa

@@ -23,4 +23,4 @@ whereabouts:
 
 The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of propotion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. In the late fall of 1719, she lost her three children and their nursemaid to a [[Tragic Flood of the River Enst|unseasonable flood of the Enst]]. 
 
-![[lady-rosalind-essford.png|320]]
+![[lady-rosalind-essford.png]]
