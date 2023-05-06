@@ -14,6 +14,7 @@ tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
      - { date: , place: "Cleenseau", region: Sembara, type: home }
      - { date: 1719-10-15, place: "Bandit's Way", region: Greater Sembara, type: excursion }
+     - { date: 1719-11-26, place: "Dunfry", region: Sembara, type: excursion }
 ---
 # Eveyln Totteridge
 >[!info]+ Biographical Summary
