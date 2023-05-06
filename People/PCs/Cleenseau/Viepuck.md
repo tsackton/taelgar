@@ -1,28 +1,26 @@
 ---
-type: PC
-name: Najeer Garay
+type: NPC
+name: Viepuck
 species: human
 ancestry: 
 gender: male
-born: 1700
+born: 1706
 died: 
 location: Taviose
 locationRegion: Sembara
 origin: Embry
 originRegion: Sembara
 affiliations: 
-aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer]
+aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
 tags: [PC/Cleenseau]
 campaign: Cleenseau
 player: Chris Kelly
 ---
-# Najeer Garay
->[!info]+ Basic information
+# Viepuck
+>[!info]+ Biographical Summary
 >human, he/him
->b. 1700
->19 years old
->Originally from: [[Embry]], [[Sembara]]
->Location (updated October 21, 1719): Taviose, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Originally from: origin
 
 Najeer Garay is the fourth son of [[Susanne Garay]], the matriarch of a wealthy cloth merchant family in [[Embry]]. He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature.  Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected. 
 

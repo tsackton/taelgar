@@ -22,4 +22,4 @@ whereabouts:
 >> Based in: deceased
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-An old man with a thick grey beard, a beggar who lived in the ramshackle Beggar's Way outside of [[Cleenseau]]. His body was found in the [[Cleansing of the Ettercap Lair]] by [[Najeer Garay|Najeer]], [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], and [[Celyn]]. He was believed to have been killed by spider's on or around October 14th.
+An old man with a thick grey beard, a beggar who lived in the ramshackle Beggar's Way outside of [[Cleenseau]]. His body was found in the [[Cleansing of the Ettercap Lair]] by [[Viepuck|Najeer]], [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], and [[Celyn]]. He was believed to have been killed by spider's on or around October 14th.
