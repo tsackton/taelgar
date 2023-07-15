@@ -16,4 +16,4 @@ tags: [NPC/unsorted]
 >human (Sembaran), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
-A solider in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she accompanied the patry into the [[Cleenseau Wood]] following a trail of spiders. 
+A solider in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she accompanied the [[Heroes of Cleenseau]] into the [[Cleenseau Wood]] following a trail of spiders. 

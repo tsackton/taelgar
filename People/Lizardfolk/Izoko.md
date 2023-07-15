@@ -6,24 +6,22 @@ ancestry:
 gender: male
 born: 1688
 died: 
-location: Ganboa
-locationRegion: Semabara
-home: Ganboa
-homeRegion: Semabara
-origin:
-originRegion:
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
 yearOverride: 
+whereabouts:
+     - { date: 1688-01-02, place: "Ganboa", region: Semabara, type: home }
+     - { date: 1719-12-04, place: "Ganboa", region: Semabara, type: excursion }
 ---
 # Izoko
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >lizardfolk, he/him
->b. 1688
->31 years old
->Based in: Ganboa, [[Semabara]]
->Location (updated October 21, 1719): Ganboa, [[Semabara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Based in: [[Ganboa]], Semabara
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 
 A young lizardfolk, sweet on [[Gentza]].

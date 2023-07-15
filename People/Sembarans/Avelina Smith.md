@@ -1,9 +1,9 @@
 ---
 type: NPC
-species:
-born:
+species: human
+born: 1673
 ancestry:
-gender:
+gender: female
 died:
 family:
 title:
@@ -12,5 +12,8 @@ name: Avelina Smith
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Avelina Smith
+>[!info]+ Biographical Summary
+>dwarf, she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
-Avelina Smith (she/her)  - and important smith,  leader of the metalworking community; trained with dwarves
+An important smith and leader of the metalworking community of [[Cleenseau]]. She trained with dwarves in her youth.
