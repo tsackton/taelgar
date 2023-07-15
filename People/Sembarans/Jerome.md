@@ -1,19 +1,19 @@
 ---
 type: NPC
 species: human
-born: 1691
+born:
 ancestry: Sembaran
 gender: male
-died:
+died: 1719
 family:
 title:
 affiliations:
-name: Adam of Cleenseau
+name: Jerome
 tags: [NPC/unsorted]
 ---
-# Adam of Cleenseau
+# Jerome
 >[!info]+ Biographical Summary
 >human (Sembaran), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
-A solider in the [[Army Garrison of Cleenseau|Bridge Patrol]], who went into the forest with the [[Heroes of Cleenseau]] after the spider attacks on Taviose. He greatly admires [[Robin of Abenfyrd|Robin]].
+A professional outlaw and bandit involved in the [[Attempted Poisoning of Cleenseau]]. He was caught by the party and executed under sentence from [[Nicholas Wysson]] on November 9th, 1719.

@@ -1,19 +1,19 @@
 ---
 type: NPC
 species: human
-born: 1691
+born: 1700
 ancestry: Sembaran
 gender: male
 died:
 family:
 title:
 affiliations:
-name: Adam of Cleenseau
+name: Samuel
 tags: [NPC/unsorted]
 ---
-# Adam of Cleenseau
+# Samuel
 >[!info]+ Biographical Summary
 >human (Sembaran), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
-A solider in the [[Army Garrison of Cleenseau|Bridge Patrol]], who went into the forest with the [[Heroes of Cleenseau]] after the spider attacks on Taviose. He greatly admires [[Robin of Abenfyrd|Robin]].
+A kitchen boy in [[Essford Manor]], witnessed the birth of [[Viepuck|Viepuck's]] familar.
