@@ -21,4 +21,4 @@ whereabouts:
 >> Originally from: [[Embry]], [[Sembara]]
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-An orphan and friend of [[Najeer Garay|Viepuck]], from [[Embry]]. He is currently working as a cabin boy and riverboat hand on the [[River Semb]].
+An orphan and friend of [[Viepuck|Viepuck]], from [[Embry]]. He is currently working as a cabin boy and riverboat hand on the [[River Semb]].

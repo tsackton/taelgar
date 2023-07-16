@@ -1,26 +1,24 @@
 ---
 type: NPC
-name: Annet Bybet
 species: human
+born: 1689
 ancestry: Sembaran
-gender: female
-born: 1692
-died: 
-affiliations: 
+gender: male
+died:
+family: Benthey
 title:
-family:
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+affiliations:
+name: Ancer Benthey
+tags: [NPC/unsorted]
 whereabouts:
-     - { date: 1692-01-01, place: "Ainswick", region: Sembara, type: origin}
-     - { date: 1692-01-02, place: "Cleenseau", region: Sembara, type: home}
+- { type: home, place: Cleenseau, region: Sembara}
+- { type: excursion, place: Dunfry, region: Sembara}
 ---
-# Annet Bybet
+# Ancer Benthey
 >[!info]+ Biographical Summary
->human (Sembaran), she/her
+>human (Sembaran), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Ainswick, [[Sembara]]
 >> Based in: [[Cleenseau]], [[Sembara]]
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-A cousin of [[Arthur Bybet]] and the chamberlain of the Essford household. 
+The nephew of [[Ames Benthey]], recently appointed sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] after [[Odo Cordwaner]] was dismissed.

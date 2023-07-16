@@ -1,19 +1,19 @@
 ---
 type: NPC
 species: human
-born: 1673
-ancestry:
+born: 1698
+ancestry: Sembaran
 gender: female
 died:
 family:
 title:
-affiliations:
-name: Avelina Smith
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+affiliations: [Bridge Patrol, Army of the West]
+name: Marion of Cleenseau
+tags: [NPC/unsorted]
 ---
-# Avelina Smith
+# Marion of Cleenseau
 >[!info]+ Biographical Summary
->dwarf, she/her
+>human (Sembaran), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
-An important smith and leader of the metalworking community of [[Cleenseau]]. She trained with dwarves in her youth.
+A solider of the Bridge Patrol. 
