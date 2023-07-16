@@ -1,10 +1,12 @@
 ## The Feywild
 
+## People
+
 The echo realm of the fey, home to the realms of the Archfey and many other creatures. 
 
 The people of the Feywild are generally referred to as fae or faerie as a whole, but within that category there are distinctions both obvious and subtle. 
 
--   The most common fae are the humanoid, generally human looking people just know as “fae”. The [[Fae]] are usually elegant and grace humanoids, generally human-like or elf-like in appearance, who could pass for humans in the right circumstances, although usually their eyes and demeanor give them away. 
+-   The most common fae are the humanoid, generally human looking people just know as “fae”. The [[Fae]] are usually elegant and graceful humanoids, generally human-like or elf-like in appearance, who could pass for humans in the right circumstances, although usually their eyes and demeanor give them away. 
     
 -   The sometimes mischievous, sometimes helpful, and always magical flying fairies are also found in the feywild. These fey are usually small, and include creatures like the pixies, sprites, brownies, and other fairies.
 
@@ -16,12 +18,22 @@ The people of the Feywild are generally referred to as fae or faerie as a whole,
     
 -   Throughout the feywild, there are also innumerable dryads, nymphs, and other spirits of the land. These fey are typically strongly tied to a particular place, rarely traveling. 
 
+## Locations
+
 The politics and political organization of the Feywild is based around the realms of the Archfey, such as [[Shimmersong]], [[Amberglow]], [[Fortune's Rest]] or other lesser known realms.
 
-%% Notes on how the feywild works: 
-. Some basic facts of the layout and workings of the plane are detailed here:
+The layout and terrain of the Feywild very loosely matches the layout and terrain of the material plane of Taelgar; so where there are big mountain chains in Taelgar, there are usually mountains of some kind in the Feywild. But this matching is very loose, and often based more on vibes or history than physical geography. 
 
--   The layout and terrain of the Feywild very loosely matches the layout and terrain of the material plane of Taelgar; so where there are big mountain chains in Taelgar, there are usually mountains of some kind in the Feywild. But this matching is very loose, and often based more on vibes or history than physical geography.
+Roughly, the locations of the following Fey realms are known:
+- [[Fortune's Rest]] is superimposed on the area southeast of Chardon, roughly including the southern reaches of the Elderwood, the Yeraad river valley, and the lowlands leading to the Myraeni Gap. 
+- [[Shimmersong]] is east of Fortune's Rest, covering roughly the Myraeni Gap and the southern reaches of the CentralMountains, extending into the northern part of the Dunmari plains. 
+- [[Amberglow]] stretches east and south from Shimmersong, centered on the Kharja river valley and extending south into the Garamjala Desert, as well as east towards the Mahar drainage. 
+- [[Dreamhaven]] is north of Fortune's Rest, centered around the ancient elven kingdom of Ainumarya and the northern reaches of the Chasa river valley.
+- [[Whispervale]] is north of Dreamhaven, roughly congruent with the lands now occupied by the northern Deno'qai, along the edge of them mountains.
+- [[Splendor's Gleam]] is a small realm, roughly congruent with the northern edge of Lake Valandros and the southern part of the Voltara plains. 
+- [[Wildrun]] is north and west of Splendor's Gleam, roughly congruent with the Tawir Forest and the Mawarkel Peninsula.
+
+%% Notes on how the feywild works: 
     
 -   Distances are very different in the Feywild than in Taelgar. Two portals to the Feywild could be 1000 miles apart in Taelgar and only 100 miles apart in the Feywild, or vice versa. 
     
@@ -42,3 +54,6 @@ The fey themselves also follow specific rules and customs.
 
 
 %%
+
+
+
