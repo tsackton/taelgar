@@ -12,7 +12,7 @@ affiliations:
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home}
+   - { place: "Cleenseau", region: Sembara, type: home}
 ---
 # Conrad
 >[!info]+ Biographical Summary

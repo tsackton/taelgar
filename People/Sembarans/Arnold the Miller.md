@@ -13,4 +13,4 @@ tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 ### Arnold the Miller
 
-The miller in [[Aulout]]. Overweight, and with a disgreeable personality and slovenly appearance.
+The miller in [[Asineau]]. Overweight, and with a disgreeable personality and slovenly appearance. Hates lizardfolk.
