@@ -37,14 +37,14 @@ A typical halfling ship plying the eastern Green Sea might have the following ro
 - Trade along the islands and coast south, aiming to reach the big desert ports by December before the winds die. 
 
 Alternatively:
-	- Trade/sail along the southern coast in the summer as the easterlies get established, sailing from eastern islands, perhaps as far as Cymea, by fall. 
-	- Cross to the big island in the winter, perhaps overwintering there
-	- Either head north for a short visit to Ursk or related territories in the spring, or simply head east. 
-	- Return to south by the summer and trade along the coast again. 
+- Trade/sail along the southern coast in the summer as the easterlies get established, sailing from eastern islands, perhaps as far as Cymea, by fall. 
+- Cross to the big island in the winter, perhaps overwintering there
+- Either head north for a short visit to Ursk or related territories in the spring, or simply head east. 
+- Return to south by the summer and trade along the coast again. 
 
 
 ## Places
 
 ### Skaer
 
-Perhaps steal an idea from Neolithic Malta as per *The Great Sea*, and have some sacred islands inhabited only by servants of the ocean god, unapproachable by outsiders. 
+Perhaps steal an idea from Neolithic Malta as per *The Great Sea*, and have some sacred islands inhabited only by servants of the ocean goddess, unapproachable by outsiders. 
