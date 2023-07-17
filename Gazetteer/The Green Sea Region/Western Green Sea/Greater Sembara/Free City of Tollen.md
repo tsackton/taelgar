@@ -13,7 +13,7 @@ Tollenders are deeply proud of their long history, and many will claim that Toll
 
 ### Founding
 
-Tollen was originally founded on the north bank of the Volta river by the first mariner migrants from Hkar, before the Downfall, in the year 3902 by the Dwarven reckoning. Although the western edge of the Green Sea, and the Western Gulf, is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of the highlands, and the non-humans (lizardfolk and halflings, mostly) of the western Green sea mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of Meriskar, the ocean god of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
+Tollen was originally founded on the north bank of the Volta river by the first mariner migrants from Hkar, before the Downfall, in the year 3902 by the Dwarven reckoning. Although the western edge of the Green Sea, and the Western Gulf, is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of the highlands, and the non-humans (lizardfolk and halflings, mostly) of the western Green sea mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of Kaikkea, the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
 
 ### Downfall and Rebirth
 
