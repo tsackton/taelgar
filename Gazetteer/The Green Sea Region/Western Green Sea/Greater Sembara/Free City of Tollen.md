@@ -2,6 +2,38 @@
 aliases: [Tollen]
 ---
 
+%%NOTES
+1. Need to add a few more weird / magical details. For example, from an old email:
+
+* I like the idea of Tollen being a place where people still talk, at least in certain contexts or certain guilds or schools within the university, about the ancient days, meaning the early 4000s. Why not have a place like London or Rome but where some philosopher's guild founded in Roman Londonium still survives? That's about the same timeframe. It seems like it would be one of the few places where that kind of thing really fits, and a rich source of interesting stuff. Of course half the 'we were founded in the dawn days of the city' things would really have been founded at various other times with ancient backstories, but some of them are probably real.
+
+* I like the idea of Tollen always being on the 'edge' in the points where it wasn't powerful, and never being a major part of someone else's empire. That isn't to say it shouldn't have various ancient connections, but that it was never itself Sembaran, or Drankorian, or Skagen, at least not in an important sense.
+
+* Is there a place for some kind of magical / extraplanar reason for why it is so religiously open? A connection to outer planes, or maybe it was defended during the Downfall Wars by an army of small gods, and something about that sacrifice magnifies the divine essence. Or something.
+
+A few other times in history that you've outlined that seem fraught with possibility:
+
+* The Drankorian peace treaty. My history below centers Tollen as the architects of the peace treaty, and maybe there are reasons why. A storm giant foretold the downfall of Drankor if they expanded past the Voltra, and Tollen had evidence? Some kind of divine intervention, the divinities of Mos Numera insisted Tollen remain free? Maybe there is something special about the place that makes all the various gods of Taelgar keen to ensure it is never fully controlled by a single set of gods. 
+
+* Playing on the powerful-religion idea, maybe there are a set of worshippers of the old OceanGod floating around Tollen. Or various void-mind gods. 
+
+Here's an idea for an alternative timeline that keeps Tollen independent the whole time... not sure if it fits with your vision, I won't be offended if you toss it :)
+
+What if the earliest settlers of Tollen were explicitly the misfits and dissatisfied with the marnier culture (not sure what it is like exactly, but I imagine by the 3900s the OceanGod was dominant in a way that would allow some questioners or people not wedded to the mariner way of life to want to strike out). I'm thinking a bit of a Roger Williams or some of the other 'free thinker' early New England settlers vibe. 
+
+From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out the Highlands and the mariners have a lot to sell each other, so then comes the merchants.
+
+In the 4050s, the Downfall War certainly unsettles things, but that doesn't mean Tollen has to be abandoned. The merchants flee, and the city shrinks dramatically, but it is not abandoned entirely.  
+
+By the 4200s, the Skaer re-discover Tollen, and although it largely becomes a Skagen city, some ancient institutions of storytellers, knowledge seekers, and free-thinkers maintain their place in the city (need some kind of event to make this work out), and Tollen remains a place where the Skagen religion does not hold sway entirely.
+
+Throughout the 300 years of the Skagen dominion Tollen grows as a marnier culture, and grows as a center of commerce. Many supposedly ancient institutions survive in the city however, although who really knows how many are truly ancient, as opposed to institutions that invented ancient roots to gain prestige or maintain independence from the Skagen protectorate.
+
+By 4547, the Drankors are on the doorstep and the Skaer are at war with them. It is Tollen that brokers the peace treaty between the Drankorians and the Skaer, earning an uneasy freedom from both the Drankorians, who refrain from formally conqueoring the city in exchange for de facto control of its foreign policy, and from the Skaer, who are forbidden from sailing up the Voltra.
+
+I do like the idea of Tollen as central to the treaty that stopped Drankorian expansion, and it makes sense for this to have some kind of magical "great powers" connection -- either divine, or perhaps something connected to dragons or giants or elementals (fey are taken by Tyrwingha). Will think a bit more on this, again might be something best to see what happens during a game.
+
+%%
 
 # The Free City of Tollen
 
