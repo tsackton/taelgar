@@ -23,3 +23,15 @@ In the fall of 1748, they were split up due to magical effects. During this time
 Kenzo, Seeker, and Wellby were reunited in the Feywild and traveled with [[Caulaus]] briefly.
 
 The group was reunited on Nov 15 1748 in Dunmar. 
+
+%%
+Solo adventure tallies
+Kate: 3  (Riswynn, Delwath, Seeker)
+Phil: 3 (Riswynn, Delwath, Wellby)
+Eric: 2 + 1/2  (Seeker, Kenzo, 1st session Wellby)
+Schwartz: 2 (Riswynn, Wellby)
+Mike: 1 + 1/2 + 1/2  (Delwath, 1st session Wellby, 2nd session Seeker)
+Kong: 1 + 1/2 (Kenzo, 1st session Seeker)
+Sara: 1 (Riswynn)
+John: 1 (Wellby)
+%%
