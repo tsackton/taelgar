@@ -14,10 +14,10 @@ This tradition is a set of practices, rituals, and beliefs that have grown up ar
 
 The Eight Divines are:
 
-* The Mother (goddess of birth, fertility, spring, healing, wisdom, associated with the moon)
-* The Father (god of light, order, justice, summer, associated with the sun)
-* The Night Queen (goddess of darkness, death, sleep, winter, associated with the night)
-* The Warlord (god of war, vengeance, smiths, autumn, associated with day)
+* [[The Mother]] (goddess of birth, fertility, spring, healing, wisdom, associated with the moon)
+* [[The Father]] (god of light, order, justice, summer, associated with the sun)
+* [[The Night Queen]] (goddess of darkness, death, sleep, winter, associated with the night)
+* [[The Warlord]] (god of war, vengeance, smiths, autumn, associated with day)
 * [[The Sibyl]] (goddess of magic, knowledge, love, beauty 
 * [[The Wanderer]] (god of travel, trade, strangers, and outcasts)
 * [[The Wyrdling]] (genderless diety of chaos, luck, and fate)

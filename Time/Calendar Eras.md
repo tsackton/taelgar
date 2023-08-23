@@ -4,7 +4,7 @@ There are many different calendar eras in use across the world of Taelgar.
 
 The two most commonly used, both in these notes and by scholars and the learned across Taelgar, are:
 - Drankorian Reckoning, which dates years from the founding of Drankor. 
-- Dwarven Reckoning, which dates years since the beginning of time at the end of the Riving. 
+- Dwarven Reckoning, which dates years since the beginning of time at the end of [[the Riving]]. 
 
 However, other calendar eras may occasionally be used, including:
 - Dunmari reckoning, which counts dynastic years

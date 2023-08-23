@@ -1,4 +1,4 @@
-### Sampa
+# Sampa
 
 The Dunmari version of [[Malik]].
 

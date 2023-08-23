@@ -32,7 +32,7 @@ He wears studded leather armor, and where his leathers are not brown they are la
 He has a distinct rural Tyrwingan accent and, unsurprisingly for someone from [[Tyrwingha|that nation]], makes commentary about the fey.  He has explicitly claimed that the fey taught him how to misty step, in fact, and that they sent him to this area by dropping acorns on his head.  To anyone with a familiarity with Tyrwingan culture, “fey-touched lunatic” is a solid guess here.
 
 >[!Info]- Additional Context (Dan's Eyes Only)
-> Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [[the Wyrdling]].
+> Celyn comes from a vineyard working family and was apprenticed to a boundary-walker/fey tender/fairy faith shrine keeper because he was obviously more suited to that than the vineyard; he had a difficult adolescence and “found peace” with [[The Wyrdling]].
 
 >[!Info]- Additional Context (Chris' Eyes Only)
 >Celyn is an avid dice gamer.  He is not an avid _gambler_, he just _really loves dice_.  We’re at “the shiny math rocks go clicky-clack” levels of joy at dice.  He is very judicious about the gambling part, clearly only staking what he can afford; it’s all about the throwing the dice and seeing what happens, not the money or even the possibility of winning money, and he accepts all results with that same wide-eyed enthusiasm that he does everything else.  

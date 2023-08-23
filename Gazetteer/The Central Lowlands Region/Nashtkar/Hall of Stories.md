@@ -1,4 +1,4 @@
-### The Hall of Stories
+# The Hall of Stories
 
 A building in the [[Monastery of Bhishma]] that houses the stories of the Dunmari. 
 

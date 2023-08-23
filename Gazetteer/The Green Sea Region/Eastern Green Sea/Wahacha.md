@@ -1,4 +1,4 @@
-### Wahacha
+# Wahacha
 
 A town and trading port in the [[Vermillion Isles]]. Although most of the village is set high on cliffs, the port and sheltered harbor are accessible to the ground.
 

@@ -1,4 +1,4 @@
-### The Plane of Magic
+# The Plane of Magic
 
 The source of all arcane magic in Taelgar; creates ley lines where its energy comes close to the material plane. 
 

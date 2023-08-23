@@ -1,4 +1,4 @@
-### Arborea
+# Arborea
 
 The spiritual realm of nature unbounded and wild.
 

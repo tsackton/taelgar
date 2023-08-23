@@ -1,2 +1,3 @@
-The name for the high god in the *kestavo* tradition.
+# Ako
 
+The name for the high god in the *kestavo* tradition.

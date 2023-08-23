@@ -1,2 +1,5 @@
+---
+tags: [stub]
+---
 # Wildrun
 
