@@ -2,7 +2,7 @@
 
 Skaerhem, called Skaegenland by the Sembarans, is a collection of islands (the Skaer Islands), many volcanic, and the nearby coastline in the northwestern corner of the Green Sea. This is a land of frequent storms, rocky land, and difficult seas, but also a region teaming with marine bounty, and rich in rare volcanic metals and precious stones. 
 
-The Skaer, sometimes called the Skaegish, are an ancient people, an insular society descended from the original mariner migrants who left Hkar and settled the Green Sea before the Downfall. They, unlike any other inhabitants of the Green Sea, retain the worship of the ancient mariner ocean goddess, Kaikkea.
+The Skaer, sometimes called the Skaegish, are an ancient people, an insular society descended from the original mariner migrants who left Hkar and settled the Green Sea before the Downfall. They, unlike any other inhabitants of the Green Sea, retain the worship of the ancient mariner ocean goddess, [[Kaikkea]].
 
 ## Geography
 
@@ -14,7 +14,7 @@ The Skaer are a communal society. All Skaer (excepting exiles and expats) are a 
 
 Groups of oskunja together form districts: usually these contain between 4 and 10 oskunja, but the size varies. Each district is run democratically by a council of taja (tie-ya), roughly "speakers", each of which represent their oskunja, and together allocate work and resources across the district. Each district also has a hakeasa (hay-kee-sa), roughly "speaker to the god." The hakeasa is always a priest, a Laivan, but not all priests are hakeasa. 
 
-The hakeasa is not part of any oskunja and is almost universally a divine magic user, which is more common in Skaer than elsewhere. This person mediates disputes and guides the district and ultimately has the power to exile and excommunicate anyone who is troublesome. Additionally the hakeasa is responsible  for the ritual laws and respect of Kaikkea which is encoded in a large series of taboos. Breaking taboos is punishable by fines, work tasks, exile, or death depending on the severity of the taboo.
+The hakeasa is not part of any oskunja and is almost universally a divine magic user, which is more common in Skaer than elsewhere. This person mediates disputes and guides the district and ultimately has the power to exile and excommunicate anyone who is troublesome. Additionally the hakeasa is responsible  for the ritual laws and respect of [[Kaikkea]] which is encoded in a large series of taboos. Breaking taboos is punishable by fines, work tasks, exile, or death depending on the severity of the taboo.
 
 The tight knit communities of the Skaer tend to a certain degree of conformity. As an escape value, most young Skaer take a year or several to wander, as part of a "rumspringa" or "walkabout" type wander year, where they travel. Some do not return: these expats, unlike those exiled and excommunicated for breaking serious taboos, are still considered part of the Skaer communion, and it is not unusual for the children of expats to return to Skaerhem. 
 

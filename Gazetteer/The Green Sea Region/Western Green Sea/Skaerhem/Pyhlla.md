@@ -8,7 +8,7 @@ In the winter, with little daylight, the town is lit by firelight for a good par
 
 There are no inns here, and no real infrastructure for travelers. Strangers are not widely welcome in Skaer ports, and foreign merchants typically sleep on their ship.
 
-The main communal gathering places is the church of Kaikkea, which has an attached covered bar and a large fire circle. There is room in the church for visitors to sleep, at need, but it is not very comfortable and not well heated. 
+The main communal gathering places is the church of [[Kaikkea]], which has an attached covered bar and a large fire circle. There is room in the church for visitors to sleep, at need, but it is not very comfortable and not well heated. 
 
 Most people live in turf houses, with grass roofs, with a significant cluster of houses around the docks and churchyard.
 
@@ -22,9 +22,9 @@ Pyhlla is a particularly large district, with 11 oskunja, and two priests in add
 
 %%SECRET[1]%%
 
-# Blessing of Kaikkea
+# Blessing of [[Kaikkea]]
 
-All pilgrims to Vetta must accept the blessing of Kaikkea. This involves being submerged in a deep quarry cut out of the stone, and prayed over. The prayer is basically a divination spell that asks one question only: "will this person defile the sacred waters of Vetta"?
+All pilgrims to Vetta must accept the blessing of [[Kaikkea]]. This involves being submerged in a deep quarry cut out of the stone, and prayed over. The prayer is basically a divination spell that asks one question only: "will this person defile the sacred waters of Vetta"?
 
 %%SECRET[2]%%
 

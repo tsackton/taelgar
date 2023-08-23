@@ -1,7 +1,6 @@
 ---
 aliases: [Aaviskar]
 ---
-
 ### Yezali
 
 The spirit of the hunt, the moon, and the night. Particularly attracted by offerings from a fresh hunt. 

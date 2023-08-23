@@ -2,7 +2,7 @@
 
 ## Overview 
 
-**Location**: In the kingdom of Am’khazar, on the western edge of the ~CentralMountains~, deep underground.
+**Location**: In the kingdom of Am’khazar, on the western edge of the [[~CentralMountains~]], deep underground.
 **Size**: Although a relatively small city, Zarkandur is densely settled, with a population of 25,000 dwarves.
 **Age**: Originally a waypoint on a long road, notable primarily for its natural beauty, Zarkandur grew into a town of minor importance 700 years ago, and flourished as a city of importance since the end of the Great War, 200 years ago.
 **Condition**: Magnificent. This is a city of great beauty.
@@ -27,7 +27,7 @@ On the other side of the gates is the vast cavern of the Highside district. Whil
 Along the south wall of the cavern, the artisans of Zarkandur work, turning the raw ore and unpolished stones from the mines to the east into polished gems to be traded across the dwarven kingdoms, and eventually reach the outside world. The gemcutters of Zarkandur are renowned for their skill, although this area is not without strife, as four major clans vie for control over the gem trade: Silverhand, Highcrown, Rockanvil, and Steelhammer. The Steelhammer clan is currently in ascendance, as they have recently acquired an exclusive trade deal with several mining operations to the east for access to uncut rubies from a newly opened vein. The small governmental district is also in Highside, but unusually, is built as a warren of open caves and passages ascending the north wall of the cave. The government district also houses the storerooms for food, weapons, and other goods of critical importance to the city. 
 
 ### Brightcave
-Above and east of Highside is the historic district of Brightcave. This is the rich area of the city, and is if anything even more impressive in its construction that Highside. The estates of the wealthy line the edges of the cavern, and the original historic district sits here as well, highlighted by a massive and beautiful Temple to the Bahrazel. Completing this cavern is the arts district, where a number of artisans and craftspeople live, and where the Crystal Market sits, a combination of a market, gallery, art museum, ode to dwarven skill, and historic building. This is the original market of the trading settlement Zarkandur once was, elaborated on and expanded many times over the past 700 years. 
+Above and east of Highside is the historic district of Brightcave. This is the rich area of the city, and is if anything even more impressive in its construction that Highside. The estates of the wealthy line the edges of the cavern, and the original historic district sits here as well, highlighted by a massive and beautiful Temple to the [[Bahrazel]]. Completing this cavern is the arts district, where a number of artisans and craftspeople live, and where the Crystal Market sits, a combination of a market, gallery, art museum, ode to dwarven skill, and historic building. This is the original market of the trading settlement Zarkandur once was, elaborated on and expanded many times over the past 700 years. 
 
 Stretching out from Brightcave are many passages. Many lead to smaller caverns, some of which hold family estates of the wealthiest dwarven clans, including Brelith’s family. One leads to the old spur of the Long Road, now abandoned, which has since been turned into a memorial for the dead of the Great War. Another leads to Crystalrun, the last district of the city.
 

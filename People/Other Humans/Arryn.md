@@ -21,8 +21,8 @@ yearOverride:
 >[!info]+ Biographical Summary
 >human, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Free City of Tollen]], Greater Sembara, Western Green Sea
+>Originally from: [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen]], Greater Sembara, Western Green Sea
 
-A wizard of significant power, originally from [[Free City of Tollen|Tollen]]; dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. Freed from the [[Mirror Realm]] by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 57-58 (DuFr)|Wellby's adventures in the eastern Green Sea]]
+A wizard of significant power, originally from [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]]; dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. Freed from the [[Mirror Realm]] by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 57-58 (DuFr)|Wellby's adventures in the eastern Green Sea]]
 
 ![[arryn-the-wanderer.png|500]]

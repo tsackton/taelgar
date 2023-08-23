@@ -1,3 +1,5 @@
 ---
 tags: [stub]
 ---
+
+# Ethereal Plane

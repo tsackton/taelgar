@@ -1,4 +1,4 @@
-### The Desert House
+# The Desert House
 
 House of [[Avaras]] and [[Pava]] in the desert east of [[Karawa]], on the northern edge of the [[Garamjala Desert]].
 

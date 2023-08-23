@@ -1,4 +1,5 @@
 # The *kestavo*
+
 The *kestavo* is the ancient religion of northern Sembara and the Highlands, and is still practiced in some places in the highlands. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to Ako, the Divine. 
 
 Although most kestavo are worshipped only by the people of their particular town or village, some kestavo have gained great fame and pilgrims come from far and wide to their shrines to ask for blessings to be passed along to Ako. These include:
