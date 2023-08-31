@@ -8,7 +8,7 @@ born: 1691
 died: 
 affiliations: ["Shakun Mystai"]
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 family:
 title:
 lastSeenByParty_DuFr: 1748-10-23

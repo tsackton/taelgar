@@ -18,7 +18,7 @@ Pyhlla is a particularly large district, with 11 oskunja, and two priests in add
 
 [[Tulvak]] (he/him), a ferry captain and mariner who has traditionally sailed the ferries that take pilgrims to Vetta. Only survivor of attack on Vetta.
 
-[[Vaallinen]] (va-li-nen; he/him), the hakeasa of this district, and a 5th level cleric.
+[[Vaallinen]] (va-li-nen; he/him), the hakeasa of this district, and a divine magic user.
 
 %%SECRET[1]%%
 

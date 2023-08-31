@@ -9,7 +9,6 @@ died:
 title: 
 family: Quickstep
 affiliations:
-  - "The Windward Sail"
 aliases: 
 tags:
   - NPC/DuFr/met
