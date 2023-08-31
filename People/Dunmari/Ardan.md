@@ -10,7 +10,7 @@ family:
 died: 
 affiliations: 
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
      - { date: 1695-01-01, place: "Tokra", region: Central Dunmar, type: origin }
      - { date: 1695-01-02, place: "Tokra", region: Central Dunmar, type: home }

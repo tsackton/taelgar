@@ -10,7 +10,7 @@ title:
 family:
 died: 
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
  - { date: 1725-01-01, place: "Te'kula village", region: Elderwood, type: origin }
  - { date: 1725-01-02, place: "Te'kula village", region: Elderwood, type: home }
