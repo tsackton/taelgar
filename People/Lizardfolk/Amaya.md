@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Amaya
-tags: [NPC/unsorted]
+tags: [NPC/MC/background, NPC/DuFr/unaware]
 ---
 # Amaya
 >[!info]+ Biographical Summary

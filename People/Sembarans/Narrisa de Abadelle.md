@@ -1,6 +1,6 @@
 ---
 type: NPC
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 name: Narrisa de Abadelle
 affiliations: [Order of the Charitable Wanderer]
 title:

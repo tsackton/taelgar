@@ -1,6 +1,6 @@
 ---
 type: NPC
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 name: Cedric Cyfenwid
 affiliations:
 title:

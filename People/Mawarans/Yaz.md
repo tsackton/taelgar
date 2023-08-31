@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Yaz
-tags: [NPC/unsorted]
+tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Yaz
 >[!info]+ Biographical Summary

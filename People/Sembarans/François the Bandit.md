@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: François the Bandit
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # François the Bandit
 >[!info]+ Biographical Summary

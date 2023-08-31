@@ -1,4 +1,4 @@
-# Agata' Hut
+# [[Agata]]' Hut
 
 The home of the hag [[Agata]] Dustmother. Looted, but not destroyed, by the party in [[Session 30 (DuFr)]]
 

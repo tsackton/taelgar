@@ -1,6 +1,6 @@
 ---
 type: NPC
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 name: Raoul Bûcheron
 affiliations: [Order of the Charitable Wanderer]
 title:

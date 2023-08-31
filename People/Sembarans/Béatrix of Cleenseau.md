@@ -9,7 +9,7 @@ family:
 title:
 affiliations: [Army of the West, Bridge Patrol]
 name: Béatrix of Cleenseau
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Béatrix of Cleenseau
 >[!info]+ Biographical Summary

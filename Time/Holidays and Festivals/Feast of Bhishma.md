@@ -32,7 +32,7 @@ Bits to highlight:
 
 -morning prayers
 
--remembrance of those killed: the mystai in the shadow attack, and earlier attacks on Karawa; Havdar's warriors in battle with orcs and gnolls; citizens and refugees killed by gnolls; the acolytes who went searching for Cintra
+-remembrance of those killed: the mystai in the shadow attack, and earlier attacks on Karawa; [[Havdar]]'s warriors in battle with orcs and gnolls; citizens and refugees killed by gnolls; the acolytes who went searching for Cintra
 
 -shrines and markers set up for the recently deceased
 
@@ -42,7 +42,7 @@ Bits to highlight:
 
 -rest, hung over people the next morning
 
-The Feast of Bhishma, in Dunmari tradition, starts with a solemn morning of prayer and remembrance, a time to reflect on those gone before, to tell their stories and revisit the memories of those who now dwell in a better realm with the gods. In the afternoon, there is a ritual meal, where, before sunset comes, the story of Bhishma is told. You have been invited to many tables among the citizens of Karawa: Ikram, Alesh, Candrosa, and Havdar have all offered you space with their families and companions. At sunset, the party starts, and for the young and energetic goes all night and into the next day. The second day of Bhishma's Feast is a day of rest, a day when no work is done, no journeys are started, when the people of Dunmar enjoy the company and stories of those they love who are still living and together.
+The Feast of Bhishma, in Dunmari tradition, starts with a solemn morning of prayer and remembrance, a time to reflect on those gone before, to tell their stories and revisit the memories of those who now dwell in a better realm with the gods. In the afternoon, there is a ritual meal, where, before sunset comes, the story of Bhishma is told. You have been invited to many tables among the citizens of Karawa: Ikram, Alesh, Candrosa, and [[Havdar]] have all offered you space with their families and companions. At sunset, the party starts, and for the young and energetic goes all night and into the next day. The second day of Bhishma's Feast is a day of rest, a day when no work is done, no journeys are started, when the people of Dunmar enjoy the company and stories of those they love who are still living and together.
 
 The Feast of Bhishma (two day festival, first new moon in June, the end of summer): a celebration of Bhishma’s ascension to godhood, as well as the founding of Dunmar. The first day is a day of remembrance, the second is a pure celebration, a feast and party holiday, usually celebrated with family and kin, not necessarily involving travel back to villages or temples. However, it was a time when the Mystai of Bhishma gathered for their annual council and gathering. This is usually around the summer solstice.
 

@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Illius
-tags: [NPC/unsorted]
+tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Illius
 >[!info]+ Biographical Summary

@@ -9,7 +9,7 @@ family: Benthey
 title:
 affiliations:
 name: Ancer Benthey
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
 - { type: home, place: Cleenseau, region: Sembara}
 - { type: excursion, place: Dunfry, region: Sembara}

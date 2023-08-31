@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Blanche II
-tags: [NPC/unsorted]
+tags: [NPC/historical, NPC/DuFr/unaware]
 ---
 # Blanche II
 >[!info]+ Biographical Summary

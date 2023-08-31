@@ -4,6 +4,7 @@ name: Melindir
 species: elf
 ancestry: 
 gender: male
+ka: 35
 born: 
 died: 
 title:
@@ -27,7 +28,5 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 Elegant, ageless elf from Orenlas. Lives in Tollen as an ambassador.
-
-%%SECRET[1]%%
 
 ![[melindir.png]]

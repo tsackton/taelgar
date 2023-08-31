@@ -32,6 +32,6 @@ Seemed to have mixed feelings about [[Kadmos]] actions to charm the party in [[S
 
 As far as you know, still traveling with [[Kadmos]]. 
 
-![[antonia.png|500]]
+![[antonia-portrait.png|500]]
 
 %%SECRET[1]%%

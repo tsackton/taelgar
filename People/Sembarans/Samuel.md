@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Samuel
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # Samuel
 >[!info]+ Biographical Summary

@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Samar
-tags: [NPC/unsorted]
+tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Samar
 >[!info]+ Biographical Summary

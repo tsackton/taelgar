@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Sulfi Mahadra
-tags: [NPC/unsorted]
+tags: [NPC/MC/background, NPC/DuFr/unaware]
 ---
 # Sulfi Mahadra
 >[!info]+ Biographical Summary

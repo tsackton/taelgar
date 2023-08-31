@@ -21,4 +21,4 @@ A human warrior from [[Drankor]], trapped in the [[Cosmology/Multiverse/Echo Rea
 Stayed to guard [[Agata]]'s prison in [[Session 61 (DuFr)]].
 
 
-![[caulaus-aportino.png|500]]
+![[caulaus-aportino-portrait.png|500]]

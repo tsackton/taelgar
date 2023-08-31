@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Adam of Cleenseau
-tags: [NPC/unsorted]
+tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Adam of Cleenseau
 >[!info]+ Biographical Summary

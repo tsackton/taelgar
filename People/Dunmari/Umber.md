@@ -5,7 +5,7 @@ species: human
 ancestry: Dunmari
 gender: male
 born: 
-died: 
+died: 1748
 location: 
 locationRegion:
 home: 

@@ -11,7 +11,7 @@ affiliations:
 reignStart:
 reignEnd:
 name: Bertram II
-tags: [NPC/unsorted]
+tags: [NPC/historical, NPC/DuFr/unaware]
 ---
 # Bertram II
 >[!info]+ Biographical Summary

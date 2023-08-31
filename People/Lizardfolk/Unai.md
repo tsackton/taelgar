@@ -1,7 +1,7 @@
 ---
 type: NPC
 name: Unai
-species: "[[lizardfolk]]"
+species: lizardfolk
 ancestry: 
 gender: female
 born: 1602

@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Terry the Bandit
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # Terry the Bandit
 >[!info]+ Biographical Summary
