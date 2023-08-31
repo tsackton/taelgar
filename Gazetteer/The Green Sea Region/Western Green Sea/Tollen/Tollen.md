@@ -75,7 +75,7 @@ Now, in 5881, Tollen commands a significant navy and is the undisputed master of
 
 ## Geography
 
-![[IMG_0919.png]]
+![[map-tollen-drawing.png]]
 Tollen sits astride the Voltra river. Most development is on the north side, which is rockier, less marshy, and generally less prone to flooding, with the south side more recently developed and generally poorer. The height of navigation is considerably upstream of Tollen, although there are few good anchorages for large oceanic ships upriver. 
 
 The terrain around Tollen is characterized by rocky, gently rolling hills to the north and west, and swampy, marshy lowlands to the south and east. The western part of Tollen stretches into reclaimed marshlands, and is prone to tidal flooding, while the eastern and northern parts are drier. The exception is Haurhill, the area around an old Drankorian fort. 

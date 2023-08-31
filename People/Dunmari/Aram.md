@@ -12,7 +12,7 @@ home:
 homeRegion:
 origin:
 originRegion:
-affiliations: ["Havdar's Company"]
+affiliations: ["Havdar's Warband"]
 aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/minor]
 family:
@@ -22,6 +22,6 @@ family:
 >human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
->Location (updated November 15, 1748): Sura's army camp, [[Central Dunmar]]
+>Location (updated November 15, 1748): [[Sura]]'s army camp, [[Central Dunmar]]
 
-A holy warrior of [[Aagir]] in [[Havdar]]'s service, and unofficial spiritual leader of Havdar's Company. 
+A holy warrior of [[Aagir]] in [[Havdar]]'s service, and unofficial spiritual leader of [[Havdar's Warband]]

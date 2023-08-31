@@ -6,25 +6,23 @@ ancestry: Dunmari
 gender: female
 born: 1727
 died: 
-location: 
-locationRegion:
-home: Karawa
-homeRegion: "Eastern Dunmar"
-origin: Karawa
-originRegion: "Eastern Dunmar"
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/major]
 summary: "Scout, history buff, messenger; expert rider; loves her horse."
+whereabouts:
+     - { date: 1727-01-01, place: "Karawa", region: Eastern Dunmar, type: origin }
+     - { date: 1727-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
 ---
 # Alesh
 >[!info]+ Biographical Summary
 >human (Dunmari), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Karawa]], [[Eastern Dunmar]]
->Based in: [[Karawa]], [[Eastern Dunmar]]
-
->Location (updated November 15, 1748): unknown
+>> Originally from: [[Karawa]], [[Eastern Dunmar]]
+>> Based in: [[Karawa]], [[Eastern Dunmar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 ## Overview
 

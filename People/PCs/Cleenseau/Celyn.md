@@ -40,7 +40,7 @@ He has a distinct rural Tyrwingan accent and, unsurprisingly for someone from [[
 He did some work with a traveling theatre troupe at some point but parted ways with them because “they went the wrong way”.  He does not appear to have been a performer, but rather some kind of backstage worker.
 
 
-![[celyn.png]]
+![[celyn-portrait.png]]
 
 > [!INFO]- Celyn's Background (For Kiya\'s Eyes Only)
 > The child who would become Celyn is from a small village in Tyrwingha.  He was a middle-younger child in a large family who mostly worked in the local vineyard.  He started out as rather a troublesome mooncalf child and rapidly wound up in something of an apprenticeship to the local who was responsible for maintaining the fairy-faith customs, as that is the sort of job that gets given to the people who struck the locals as being fey-touched in some way.  

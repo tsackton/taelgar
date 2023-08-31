@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Orden
-tags: [NPC/unsorted]
+tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Orden
 >[!info]+ Biographical Summary

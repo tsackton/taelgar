@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Sefa
-tags: [NPC/unsorted]
+tags: [NPC/MC/background, NPC/DuFr/unaware]
 ---
 # Sefa
 >[!info]+ Biographical Summary

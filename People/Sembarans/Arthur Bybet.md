@@ -25,4 +25,4 @@ whereabouts:
 
  The husband of [[Rosalind Essford|Rosalind]], he wisely takes a back seat in local affairs. From a promient family in [[Ainswick]]. He is a aficionado of stories and songs and often frequents [[The Crossroads Inn]] to hear the latest news.
 
-![[arthur-bybet.png]]
+![[arthur-bybet-portrait.png]]

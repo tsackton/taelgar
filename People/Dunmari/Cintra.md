@@ -23,4 +23,4 @@ whereabouts:
 
 Supreme Oracle of Shakun.
 
-![[cintra.png]]
+![[cintra-portrait.png]]

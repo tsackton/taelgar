@@ -9,7 +9,7 @@ family:
 title:
 affiliations: [Bridge Patrol, Army of the West]
 name: Marion of Cleenseau
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # Marion of Cleenseau
 >[!info]+ Biographical Summary

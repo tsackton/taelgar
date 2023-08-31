@@ -17,7 +17,7 @@ yearOverride:
 ---
 # Delwath
 
-![[delwath.jpg]]
+![[delwath-portrait.jpg]]
 
 > [!WARNING]- Delwath's Backstory
 > 

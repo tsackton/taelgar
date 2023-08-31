@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Itzal
-tags: [NPC/unsorted]
+tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Itzal
 >[!info]+ Biographical Summary

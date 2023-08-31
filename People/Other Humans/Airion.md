@@ -4,12 +4,12 @@ species: human
 born:
 ancestry:
 gender: male
-died:
+died: 1545
 family:
 title:
 affiliations:
 name: Airion
-tags: [NPC/unsorted]
+tags: [NPC/historical, NPC/DuFr/unaware, NPC/GrLi/major]
 ---
 # Airion
 >[!info]+ Biographical Summary

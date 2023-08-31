@@ -1,0 +1,4 @@
+---
+type: NPC
+tags: [stub]
+---

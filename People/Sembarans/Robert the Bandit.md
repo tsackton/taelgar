@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Robert
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # Robert
 >[!info]+ Biographical Summary

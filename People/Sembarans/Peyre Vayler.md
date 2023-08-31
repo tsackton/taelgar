@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Peyre Vayler
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 whereabouts:
  - { type: home, place: "Evis", region: "Duchy of Maseau" }
 ---

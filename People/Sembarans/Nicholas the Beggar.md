@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Nicholas the Beggar
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 whereabouts:
   - { date: 1651-01-01, place: "Cleenseau", region: Sembara, type: origin }
   - { date: 1719-10-14, place: "deceased", region: , type: home}

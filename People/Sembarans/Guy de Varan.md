@@ -9,7 +9,7 @@ family: de Varan
 title:
 affiliations:
 name: Guy de Varan
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 whereabouts: 
  - { date: , place: "Evis", region: Duchy of Maseau, type: origin }
  - { date: 1719-10-31, place: "Orc Fort", region: Duchy of Maseau, type: excursion  }

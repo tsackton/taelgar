@@ -6,17 +6,20 @@ ancestry: nymph
 gender: female
 born: 
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
 affiliations: 
 aliases: []
+title:
+family:
 tags: [NPC/DuFr/met_one, NPC/DuFr/background]
 yearOverride: 
+whereabouts:
+     - { date: 0001-01-02, place: "Amberglow", region: Feywild, type: home }
 ---
-### Melusine
+# Melusine
+>[!info]+ Biographical Summary
+>fey (nymph), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Based in: [[Amberglow]], [[Feywild]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-A water nymph in [[Amberglow]].
+A water nymph in [[Amberglow]]. 

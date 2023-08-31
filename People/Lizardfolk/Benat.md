@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Benat
-tags: [NPC/unsorted]
+tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Benat
 >[!info]+ Biographical Summary

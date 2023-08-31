@@ -25,4 +25,4 @@ whereabouts:
 
 The temple administrator of the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] in [[Cleenseau]]. An amibitious man and not very religious.
 
-![[anselm.png]]
+![[anselm-portrait.png]]

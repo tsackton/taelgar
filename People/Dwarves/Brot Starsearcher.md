@@ -28,4 +28,4 @@ whereabouts:
 
 A dwarven astronomer and tinkerer known for their clever telescope designs who lives in [[Taviose]], a small village on the outskirts of [[Cleenseau]]. 
 
-![[brot.png|]]  
+![[brot-portrait.png]]  

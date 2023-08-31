@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Hiyasa
-tags: [NPC/unsorted]
+tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Hiyasa
 >[!info]+ Biographical Summary

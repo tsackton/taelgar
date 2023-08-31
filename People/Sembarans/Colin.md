@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Colin
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # Colin
 >[!info]+ Biographical Summary

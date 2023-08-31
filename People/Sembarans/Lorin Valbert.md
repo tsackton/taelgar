@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Lorin Valbert
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 whereabouts:
  - { place: Embry, region: Sembara, type: origin }
  - { place: Asineau, region: Sembara, type: home }

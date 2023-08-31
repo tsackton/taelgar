@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Jaeson
-tags: [NPC/unsorted]
+tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Jaeson
 >[!info]+ Biographical Summary

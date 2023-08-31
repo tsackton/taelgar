@@ -47,3 +47,111 @@ Values that are not used by any scripts, and not currently really implemented, b
 - family: for people, used to track familial affiliations (dwarven clans, halfling families, possibly orc hordes and deno'qai tribes too)
 - lastSeenBy: campaign-specific value of the date the NPC's location was last known by the party. Would be used to auto-populate a Current Location field based on campaign + date information.
 
+
+
+# Instructions for ChatGPT
+
+I'd like your help creating Markdown pages for NPCs in my D&D campaign. I will give you information about NPCs, and I want you to follow the instructions below to generate yaml frontmatter for the markdown page.
+
+## NPC YAML Format Instructions
+
+### Required Fields:
+
+- `type`: Always set to `NPC`.
+    
+- `name`: The name of the NPC.
+    
+- `species`: The species of the NPC.
+    
+- `ancestry`: An optional field indicating the NPC's lineage or heritage. If not provided, leave it blank.
+    
+- `gender`: Can be `male`, `female`, `enby`, or any other specified gender.
+    
+- `born`: The year the NPC was born. Use context to determine if not directly provided.
+    
+- `died`: The year the NPC died. If the NPC is still alive, this should be blank.
+    
+- `title`: The title of the NPC, e.g., "Lord." If not provided, leave it blank.
+    
+- `family`: The family name of the NPC. If not provided, leave it blank.
+    
+- `affiliations`: Groups the NPC is associated with. Use as a list.
+    
+- `aliases`: Other names or nicknames for the NPC. Use as a list.
+    
+- `tags`: Specific identifiers or categories for the NPC. Use as a list. 
+    
+
+### Location Tracking:
+
+- `lastSeenByParty`: Tracks the last known location of the NPC relative to the party.
+    
+    - `date`: Date format is "YYYY-MM-DD."
+        
+    - `prefix`: Always set to `DuFr`.
+        
+- `whereabouts`: Tracks the NPC's location over time. Use the following types:
+    
+    - `origin`: Where the NPC was born (date should be Jan 1 of birth year).
+        
+    - `home`: Where the NPC is based (date should be Jan 2 of birth year unless specified otherwise).
+        
+    - `excursion`: Represents trips (only include if mentioned).
+        
+
+### Presentation:
+
+- Enclose the YAML block with `---` at the start and end.
+    
+- After the YAML block, provide a concise markdown description (1-2 sentences) summarizing the NPC.
+
+Template:
+```
+---
+type: NPC
+name: 
+species: 
+ancestry: 
+gender: 
+born: 
+died: 
+title: 
+family: 
+affiliations: 
+  - 
+aliases: 
+  - 
+tags: 
+  - 
+lastSeenByParty: 
+  - { date: YYYY-MM-DD, prefix: DuFr }
+whereabouts: 
+  - { date: YYYY-01-01, place: "", region: "", type: origin }
+  - { date: YYYY-01-02, place: "", region: "", type: home }
+---
+
+```
+
+
+
+### Reformat Note Instructions
+
+I am going to give you potentially messy markdown text describing NPCs in my D&D campaign. When I tell you to reformat note, I want you to follow these instructions. 
+
+**Reformat Note Instructions:**
+
+1. If the note I give you includes any kind of yaml frontmatter or code, delete that.
+2. Start with a **1-2 sentence brief introduction** to the NPC. Do not use bold here. 
+3. Create an **## Overview** section that has up to a paragraph of text. This should be copied or restructured from the provided text, focusing on turning it into coherent and grammatically correct sentences.
+4. Provide a **## Description** section, which should consist of a few sentences describing the NPC's physical appearance or their usual surroundings.
+5. Add a **## Relationships** section as a bullet-point list of inferred relationships with other NPCs or organizations from the text.
+6. Create an **## Events** section that offers a summary of events inferred to have happened to or involving the NPC.
+7. Add a **## Rumors and Information** section as a bullet-pointed list of rumors, information, or other details about the NPC that player characters might know.
+8. Construct an **## Roleplaying Notes** section when applicable, delivering a bullet-point list of roleplaying tips for a DM running the NPC based on the provided details.
+9. Conclude with a **## Secrets** section that contains DM-only information. This will generally be based on information enclosed in `%%SECRET[1]%%` tags in the provided markdown.
+
+
+Try to include as much of the text in the note as possible, just moving it to the appropriate section and deleting redundancy. If there's insufficient information, the **## Relationships**, **## Events**, **## Rumors and Information**, **## Roleplaying Notes**, and **## Secrets** sections can be omitted. However, do your best to fill these in, even if you have to invent a few details. 
+
+Please don't include any addition sections. However, if the information I provide cannot be reasonably moved to one of the sections listed above, you can include a final ## Other Notes section at the end.
+

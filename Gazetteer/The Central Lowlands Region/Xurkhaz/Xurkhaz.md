@@ -3,7 +3,6 @@
 (zurk - kaz)
 
 XurKhaz, the Land of the Peaceful Sun, is the kingdom of the Free Orcs of Uzgash's Horde. 
-
 ## Overview
 
 Xurkhaz is roughly a triangle, wedged between the Kulthul and the Drogar rivers (Orcish names - these are the west branch and central branch of the Mahar, to the Dunmari). The borders of the orc's territory start in the northeast at a point on the Drogar about 120 miles north of the confluence, where the terrain on the east bank rises sharply into a series of jagged, broken hills, and the river rushes through a series of waterfalls and gorges. It follows the line of the Drogar south, remaining on the western bank until the hills to the east flatten into dry, cracked plains, about 60 miles north of the confluence. Here the river valley itself is hospitable, and the orcs of XurKhaz settle both sides of the Drogar densely, continuing south to a point about 40 miles downriver of the confluence with the Kulthul. Here, the river turns and flows slowly through sandy deserts, and the orcs have not tried to settle further south. 
@@ -42,45 +41,14 @@ No taverns to speak of, outside the cities. Villages are too small, forts too sp
 %%SECRET[3]%%
 ### In Uzgukar
 
-#### Chief Lubash
-
-The current ruler of Xurkhaz. An older man, probably in his late 50s, bald, with pale green skin, a hard, long face, and a large nose. Childless, unmarried. Came the throne 3 years ago, when his older brother, wife, and nephew were killed by a band of maundering hill giants while on a royal tour of the kingdom. 
-
-Deeply protective of his surviving nephew, Uzgul, son of his younger sister who died of sickness when Uzgul was young. 
-
-Intensely proud of Xurkhaz. Deeply mistrustful of gods.
-
-%%SECRET[4]%%
-
-Speaks Common, Sylvan, Orcish, and Giant.
 
 #### Chiefling Uzgul
 
-A young man of 14, current heir to the kingdom. The family resemblance to Lubash is apparent, but Uzgul is full of the vigor of youth, with a mohawk of wiry black hair, a dangling silver earring on a chain in one ear, and vibrant green skin. He has a nervous excitement to him, and has a hard time sitting still.
+A young man of 14, current heir to the kingdom. The family resemblance to [[Lubash]] is apparent, but Uzgul is full of the vigor of youth, with a mohawk of wiry black hair, a dangling silver earring on a chain in one ear, and vibrant green skin. He has a nervous excitement to him, and has a hard time sitting still.
 
 Believes the orcs of Xurkhaz can do anything, and will have no sense of the danger Grash poses. 
 
 Speaks Common and Sylvan.
 
-#### General Murook
 
-A woman in her prime, wearing chain mail, with a well-worn sword at her side. Silent, but has an unusual history - she was born to one of the roaming orc tribes in the Plaguelands, and suffered the rituals to bind her to Thark. Her tribe was slaughtered by Lubash's father, Karguk, but he saw something in her -- she fell silent, and lay down her weapons, when she came under the influence of the cloak, instead of gnashing and raging and going into a frenzy of violence, as many orcs do. 
-
-Karguk took her back to Xurkhaz, and slowly taught her to walk free of Thark's influence, although she still feels the pull of the curse, some days. 
-
-She will not speak of this, unless she fully trusts the party, or it is needed to convince them of what the orcs want. She is almost embarrassed by it, feeling she is somehow lesser for having been touched by Thark in the first place. 
-
-She is also the unofficial leader of the Hezguli, the reborn, the community of orcs in Xurkhaz who were born outside and freed from Thark's influence by the cloak. 
-#### Loremaster Azogar
-
-An old man, early 70s. Dark green skin, almost black in patches. Long, but thinning white hair. Frail, walks with a cane. Wears simple robes. Speaks with a wavering voice, but clear and precise. Uses phrase "To be precise" a lot. 
-
-Very knowledgable, can tell many stories and history. Low level wizard magic. Greatly respects Lubash and will look to him for acknowledgement before revealing anything to outsiders. 
-
-### In Khumarz
-
-#### Commander Vorgaz
-
-A bitter man of about 40. Extremely skilled warrior, but gruff and unpersonable. Genuinely brilliant tactician, but bad at politics and readily makes enemies, so not really welcome in the "high society" world of Uzgukar. Looks down on the kings who sit on their throne and don't fight - attitude seems a little too "orcish" for Uzgukar. But Vorgaz believes can't beat em if you don't fight like them. Pounds fist for emphasis.  Dead, killed by Grash's armies.
-
-%%SECRET[5]%%
+%%SECRET[4]%%

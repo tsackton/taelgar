@@ -27,4 +27,4 @@ The rescue was somewhat successful, but on the return journey across [[Dunmar]],
 
 During the ensuing battle, [[Hagrim]] broke and turned on [[Nora Silverspark]], claiming she was about to betray him. As dwarf fought dwarf, Odim laughed in victory. As Hagrim died, his betrayal and anger, and possibly the corruption in his mind from the aberrations of the [[Great War]], created the [[Shadowfell]] domain of [[Morkalan]] around him, trapping the surviving [[Dwarves]] in his nightmare. 
 
-![[hagrim-final.png|400]]
+![[hagrim-portrait.png|400]]

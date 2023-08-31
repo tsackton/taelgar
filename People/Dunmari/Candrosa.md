@@ -27,4 +27,4 @@ whereabouts:
 
 The Speaker of the Mystai of Shakun, the public face of the Temple of Shakun, and the official leader of the Mystai.
 
-![[candrosa.png]]
+![[candrosa-portrait.png]]

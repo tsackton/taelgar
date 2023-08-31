@@ -28,4 +28,4 @@ All pilgrims to Vetta must accept the blessing of [[Kaikkea]]. This involves bei
 
 %%SECRET[2]%%
 
-![[rsulfuratus_a_medieval_stone_viking_temple_with_cloisters_and_a_5b98942f-c645-47ba-9620-4f1ac3312f27.png]]
+![[pyhlla-village-church.png]]

@@ -9,7 +9,7 @@ family:
 title:
 affiliations:
 name: Jerome
-tags: [NPC/unsorted]
+tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # Jerome
 >[!info]+ Biographical Summary
