@@ -11,7 +11,8 @@ tags: [NPC/DuFr/met, NPC/DuFr/major]
 title:
 family: Tealeaf
 yearOverride: 
-lastSeenByParty_DuFr: 1748-07-15
+lastSeenByParty: 
+- { date: 1748-07-15, prefix: DuFr }
 aliases: [Garret]
 whereabouts:
   - { date: 1737-01-01, place: "Agata's lair", region: Garamjala Desert, excursion: true }

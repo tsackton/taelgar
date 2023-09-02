@@ -11,7 +11,8 @@ aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 family:
 title:
-lastSeenByParty_DuFr: 1748-10-23
+lastSeenByParty: 
+- { date: 1748-10-23, prefix: DuFr }
 whereabouts:
  - { date: 1691-01-01, place: "Chardon", region: Chardonian Empire}
  - { date: 1691-01-02, place: "Chardon", region: Chardonian Empire}
