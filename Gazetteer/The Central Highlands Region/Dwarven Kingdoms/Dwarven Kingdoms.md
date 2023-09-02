@@ -15,7 +15,7 @@ West of [[Khatridun]] is the kingdom of [[Am'khazar]], roughly "rich-iron-mounta
 ## [[Nidzahar]]
 In the current era, [[Nidzahar]] is the largest and richest of the dwarven kingdoms, known widely across the [[Western Green Sea]] and even as far as [[Chardon]] as the source of a wide range of expertly crafted goods. [[Nidzahar]] is the most technologically oriented of the dwarven kingdoms, and has the most extensive surface settlements. ~labeled DK4 on the map~
 ## [[Fahnukan]]
-In the far north, the dwarven kingdom of [[Fahnukan]] is strange and isolated, with little contact with the southern dwarven kingdoms for the past many generations. 
+In the far north, the dwarven kingdom of [[Fahnukan]] is strange and isolated, with little contact with the southern dwarven kingdoms for the past many generations. ~labeled DK5 on the map~
 
   
 %% 
@@ -23,7 +23,7 @@ Additional details, not fully worked out:
 
 The basic plotline: historically, the southern kingdoms ([[Ardith]] and [[Khatridun]]) were the center of power, the oldest/richest kingdoms, dating back to even before the founding of [[Drankor]], while Am’khazar to the northwest got by on trading mineral wealth while [[Nidzahar]] was a bit of a hippy backward (such as things exist in dwarven society). Then the [[Great War]] upends things, as the center of [[Khatridun]] is destroyed and all of [[Ardith]] is wiped out. The [[Ardith]] [[dwarves]] flee south to the Yuvanti, while the [[Khatridun]] turn inward looking for clues in dwarven history to recover what was lost and restore the golden age of [[dwarves]]. [[Nidzahar]], in contrast, looks to the [[Humans|human]] world and innovation, building on its artisan and craft-based traditions to push technological innovation. Throughout this, the kingdom of Am’khazar (the most traditional ‘dwarfish’ kingdom) chugs along on tradition and mining, while the weird, isolated [[dwarves]] of the north remain weird and isolated. 
 
-Elsewhere in the world, of course, there are other dwarven kingdoms, but historically the five kingdoms of the ~Central Mountains~ have been the center of dwarven culture and the largest population centers of [[dwarves]].**
+Elsewhere in the world, of course, there are other dwarven kingdoms, but historically the five kingdoms of the [[~CentralMountains~]] have been the center of dwarven culture and the largest population centers of [[dwarves]].
 
 Possible Dwarven names for things: 
 ~CentralMountains>~: Sheth’abad; Shethrabad; Abadkan;

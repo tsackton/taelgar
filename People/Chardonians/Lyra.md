@@ -11,7 +11,8 @@ died:
 affiliations: ["Great Library"]
 aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/minor, NPC/GrLi/met, NPC/GrLi/major]
-lastSeenBy_DuFr: 1748-08-26
+lastSeenByParty:
+ - { date: 1748-08-26, prefix: DuFr}
 whereabouts:
      - { date: 1705-01-01, place: "Darba", region: Western Dunmar}
      - { date: 1705-01-02, place: "Voltara", region: Chardonian Empire}

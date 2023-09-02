@@ -11,7 +11,7 @@ Cymea and Tollen, with their strong naval traditions, have often looked to Vosla
 
 Few people live in the forests and hills of the northern plateaus, the region called Voskald ("people of the cold"; often referred to as North Vostok or North Vosland in Sembara). Much more than the people of Voslaag, the Voskalders are closely connected by culture and shared history with the highland kingdoms of Greater Sembara, especially with Zovcka, the easternmost of these kingdoms. Yet the land is rough, travel is hard, and few people cross through the largely uninhabited lake region of the upper Volta river valley, so there is little direct commence despite a distant cultural connection. 
 
-Far to the north, the border of Vostok is demarcated with a massive and ancient wall. Stretching 400 miles from the ~CentralMountains~ to the ~VostokMountains~, this wall is no longer maintained or defended by the people of Vostok or anyway else. It was built in some distant mythical past, so long ago that none now remember its purpose, except perhaps among the elves. Yet, due to the skill and magic woven into its construction, it still stands nearly as strong as ever today. 
+Far to the north, the border of Vostok is demarcated with a massive and ancient wall. Stretching 400 miles from the [[~CentralMountains~]] to the ~VostokMountains~, this wall is no longer maintained or defended by the people of Vostok or anyway else. It was built in some distant mythical past, so long ago that none now remember its purpose, except perhaps among the elves. Yet, due to the skill and magic woven into its construction, it still stands nearly as strong as ever today. 
 
 ![[vostok-map.jpg]]
 

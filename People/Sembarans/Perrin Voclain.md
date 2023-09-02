@@ -10,7 +10,8 @@ affiliations:
 title:
 family:
 aliases: []
-lastMeetByParty_clee: 1719-10-20
+lastSeenByParty: 
+- { date: 1719-10-20, prefix: Clee }
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
      - { date: 1659-01-01, place: "Taviose", region: Sembara, type: home}    

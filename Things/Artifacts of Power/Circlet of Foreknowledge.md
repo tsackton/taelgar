@@ -1,10 +1,10 @@
 ---
 type: Item
-created:
-destroyed:
-owner:
-maker:
-dbbLink:
+created: 
+destroyed: 
+owner: 
+maker: 
+ddbLink: 
 magical: yes
 name: Circlet of Foreknowledge
 tags: []
