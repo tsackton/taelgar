@@ -24,7 +24,7 @@ whereabouts:
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >> Originally from: [[Chardon]], [[Chardonian Empire]]
 >> Based in: [[Chardon]], [[Chardonian Empire]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 8th, 1748: killed in Uzgukhar, [[Xurkhaz]] %%^End%%
+>>%%^Campaign:DuFr%% Last seen by The Side Quests at December 8th, 1748: killed in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A sorcerer and a member of [[the Cleansed]].  

@@ -25,4 +25,4 @@ whereabouts:
 >> Based in: unknown, unknown
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Known as Grash the Undying, an undead warrior and commander of a large orc army in Kharsan.
+Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan.

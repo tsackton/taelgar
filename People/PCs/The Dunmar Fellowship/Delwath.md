@@ -25,7 +25,7 @@ yearOverride:
 > 
 > Although the company was killed to the last elf (save for Delwath), the elven company was still powerful and, in turn, they destroyed the orcish company. In the final duel, the commander of the elven company killed the cloaked figure before succumbing to her wounds.
 > 
-> Delwath lay dazed for several days, as rains fell and the sky was torn asunder by the destruction of [[Cha'mutte]], in shock and despair. Finally, he recovered enough to start dragging the bodies of the dead from the field, when he noticed a dark circlet upon the arm of the wizard. His curiosity got the better of his, and he touched it, and was instantly pulled into a land of shadow. This realm was a vast open plain, with only dim light and a fading horizon. Vast shadowy mountains arose in all directions, and no matter where Delwath walked, he kept returning to the battlefield in which is comrades died. He time he returned, the he was caught, forced to watch the slaughter, and each time, it seemed, the dying elves died faster, and the orcs were more brutal. He was neither hungry, nor tired, nor thirsty, and time passed in strange ways.
+> Delwath lay dazed for several days, as rains fell and the sky was torn asunder by the destruction of [[Cha'mutte]], in shock and despair. Finally, he recovered enough to start dragging the bodies of the dead from the field, when he noticed a dark circlet upon the arm of the wizard. His curiosity got the better of his, and he touched it, and was instantly pulled into a land of shadow. This realm was a vast open plain, with only dim light and a fading horizon. Vast shadowy mountains arose in all directions, and no matter where Delwath walked, he kept returning to the battlefield in which is comrades died. He time he returned, the he was caught, forced to watch the slaughter, and each time, it seemed, the dying elves died faster, and the [[orcs]] were more brutal. He was neither hungry, nor tired, nor thirsty, and time passed in strange ways.
 > 
 > After a timeless period, he found he could, if he stretched his will in just the right way, move the shadowy world around him.
 > 
@@ -88,7 +88,7 @@ yearOverride:
 > 
 > In any case, both [[Alesh]] and [[Havdar]] think Delwath should take it, given he fought in that war as well, and pass it along with their blessing. 
 > 
-> [[Jasu]] is happy to work on the Dunmari shield, and in addition to strengthening it with adamantine, he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
+> [[Jasu]] is happy to work on the [[Dunmari shield]], and in addition to strengthening it with [[adamantine]], he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
 > 
 > ### Closing Affairs
 > 
@@ -114,13 +114,13 @@ yearOverride:
 >
 >[[Sura]], from a prominent family from around [[Darba]], raised in a traditional lifestyle but with cultural and familial ties to the west, was widely seen as being presented and prepared to take over as Samraat on Nayan Marathu's passing. 
 >
->[[Sura]] disappeared between [[Bas Udda]] and [[Askandi]], when traveling with the royal court. Marathu insisted on leading the search for her personally, but was tragically killed soon after in an orc ambush on the edge of the Garamjala. [[Sura]]'s brother Karnas, who was then the general of the southern armies (based in western [[Dunmar]]), was quickly crowned Samraat, and sent an army into the desert, but that force bogged down quickly and few returned. Soon the story became that [[Sura]] brought it upon herself traveling in the eastern wilds. 
+>[[Sura]] disappeared between [[Bas Udda]] and [[Askandi]], when traveling with the royal court. Marathu insisted on leading the search for her personally, but was tragically killed soon after in an [[Orcs|orc]] ambush on the edge of the Garamjala. [[Sura]]'s brother Karnas, who was then the general of the southern armies (based in western [[Dunmar]]), was quickly crowned Samraat, and sent an army into the desert, but that force bogged down quickly and few returned. Soon the story became that [[Sura]] brought it upon herself traveling in the eastern wilds. 
 >
 >**Rumors About Other Bad Stuff Happening While [[Shakun]]'s Protection Was Down**
 >
 >There are many rumors but few clear facts. [[Havdar]] and his troops did fight several smaller groups of gnolls on the road to [[Tokra]], and there are various rumors of those who couldn't make it to safety dying alone on the frontier. Indeed, there are definitely folks returning who lost people, who never made it to [[Tokra]]. But it is hard to say if this could have just been the gnolls that you knew about, or something else.
 >
->[[Alesh]], who has ridden probably 1000 miles over the past two months, doesn't think there were any other major fortresses like Raven's Hold with large armies of enemies of [[Dunmar]]. But could there be a few small lairs of monsters of various kinds that enjoyed the months of hunting and raiding freely on the soft interior of [[Dunmar]]? Sure, it is possible and could explain some of the missing people.  
+>[[Alesh]], who has ridden probably 1000 miles over the past two months, doesn't think there were any other major fortresses like [[Raven's Hold]] with large armies of enemies of [[Dunmar]]. But could there be a few small lairs of monsters of various kinds that enjoyed the months of hunting and raiding freely on the soft interior of [[Dunmar]]? Sure, it is possible and could explain some of the missing people.  
 >
 >**Rumors about [[Agata]] and her motives**
 >
