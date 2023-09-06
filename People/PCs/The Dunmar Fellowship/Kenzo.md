@@ -85,7 +85,7 @@ yearOverride:
 > I don’t answer but grasp her hand and bring her into meditation with me if she chooses
 > She talks quietly, not expecting a response. “I saw some shit growing up in [[Chardon]]. Near the chalyte refineries.”
 > I don’t answer but squeeze her hand in acknowledgement
-> Her voice moves to your mind. “I had something that might have helped with this, but the orc took it. Must have sent it on as it wasn’t with my stuff. I can forgive your lack of Chardonian ancestry, us humans have to stick together.”
+> Her voice moves to your mind. “I had something that might have helped with this, but the [[Orcs|orc]] took it. Must have sent it on as it wasn’t with my stuff. I can forgive your lack of Chardonian ancestry, us humans have to stick together.”
 > Interesting…you can communicate with your mind…
 > “Sometimes. It comes and goes.”
 > …are you from the north bank?

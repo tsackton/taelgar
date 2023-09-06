@@ -32,7 +32,7 @@ Bits to highlight:
 
 -morning prayers
 
--remembrance of those killed: the mystai in the shadow attack, and earlier attacks on Karawa; [[Havdar]]'s warriors in battle with orcs and gnolls; citizens and refugees killed by gnolls; the acolytes who went searching for Cintra
+-remembrance of those killed: the mystai in the shadow attack, and earlier attacks on Karawa; [[Havdar]]'s warriors in battle with [[orcs]] and gnolls; citizens and refugees killed by gnolls; the acolytes who went searching for Cintra
 
 -shrines and markers set up for the recently deceased
 

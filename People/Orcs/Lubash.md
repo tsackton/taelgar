@@ -8,17 +8,25 @@ born: 1691
 died: 
 title: Chief
 family: 
-affiliations: 
-aliases: 
-tags: 
+affiliations:
+  - The People of the Rainbow
+aliases: []
+tags:
   - NPC/DuFr/met
   - NPC/DuFr/major
   - status/uptodate
-lastSeenByParty: 
-  - { date: 1748-12-10, prefix: DuFr }
-whereabouts: 
-  - { date: 1691-01-01, place: "Uzgukar", region: "Xurkhaz", type: origin }
-  - { date: 1691-01-02, place: "Uzgukar", region: "Xurkhaz", type: home }
+lastSeenByParty:
+  - date: 1748-12-10
+    prefix: DuFr
+whereabouts:
+  - date: 1691-01-01
+    place: Uzgukhar
+    region: Xurkhaz
+    type: origin
+  - date: 1691-01-02
+    place: Uzgukhar
+    region: Xurkhaz
+    type: home
 ---
 # Chief Lubash
 >[!info]+ Biographical Summary
@@ -29,7 +37,7 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 10th, 1748: Uzgukar, [[Xurkhaz]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Chief Lubash is the stern and protective ruler of [[Xurkhaz]], and the bearer of the [[Mantle of Protection]].  Lubash holds immense pride for his kingdom, [[Xurkhaz]], and resides in Uzgukar.
+Chief Lubash is the stern and protective ruler of [[Xurkhaz]], and by extension the [[People of the Rainbow]]. He is also the bearer of the [[Mantle of Protection]].  Lubash holds immense pride for his kingdom, [[Xurkhaz]], and resides in [[Uzgukhar]].
 ## Overview
 
 Chief Lubash ascended to the throne of [[Xurkhaz]] three years prior. He took over rulership after a tragic event where his older brother, along with his brother's wife and child, were killed by marauding hill [[giants]] during a royal tour. As a ruler, Lubash is marked by his intense pride in [[Xurkhaz]] and a deep-seated mistrust of gods.
@@ -38,7 +46,7 @@ Chief Lubash ascended to the throne of [[Xurkhaz]] three years prior. He took ov
 Lubash has a pale green complexion and is bald. His features are striking, characterized by a long, stern face and a notably large nose.
 ## Relationships
 
-- **Uzgul**: Lubash's nephew, the son of his younger sister, and his heir. Lubash is deeply protective of Uzgul since his sister passed away due to sickness when Uzgul was young.
+- **[[Uzgul]]**: Lubash's nephew, the son of his younger sister, and his heir. Lubash is deeply protective of [[Uzgul]] since his sister passed away due to sickness when [[Uzgul]] was young.
 - **[[Murook]]**: Lubash's chief general and confidante. 
 - **[[Azogar]]**: Lubash's loremaster and confidante. 
 ## Events

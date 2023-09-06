@@ -8,6 +8,7 @@ ddbLink:
 magical: yes
 name: Circlet of Foreknowledge
 tags: []
+aliases:
 ---
 # Circlet of Foreknowledge
 ### (magical item)

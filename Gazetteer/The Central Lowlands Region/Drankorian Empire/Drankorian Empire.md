@@ -12,7 +12,7 @@ A rough timeline, in the Dwarven reckoning, of major dates in the history of [[D
 - 4302 (169 DR): Celadir is proclaimed the first Emperor of [[Drankor]]
 - circa 4500 (circa 365 DR): The Empire assimilates [[Sembara]] and the northern border at the [[River Volta|Volta]] river is established
 - circa 4700 (circa 565 DR): The Empire expands in the west, reaching as far north as Lake Valandros
-- circa 4750 - 5100 (circa 915 - 965 DR): The Golden Age of [[Drankor]], 350 years of peace and prosperity
+- circa 4750 - 5100 (circa 615 - 965 DR): The Golden Age of [[Drankor]], 350 years of peace and prosperity
 - circa 5100 (965 DR): The Drankorian civil war
-- circa 5100 - 5150: Expansionst wars of mixed success, until [[Emperor Apollyon|Apollyon]] takes the throne
+- circa 5100 - 5150: Expansionist wars of mixed success, until [[Emperor Apollyon|Apollyon]] takes the throne
 - 5192 (1059 DR): The destruction of [[Drankor]] by the Plague Mist
