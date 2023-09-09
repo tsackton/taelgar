@@ -21,4 +21,4 @@ tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 
 The twin sister of [[Elaine I]] and daughter of [[Reginald]], she was executed for treason after attempting to force her sister to abidicate he throne by magic.
 
-Her three children were allowed to live in exile: Wilhema and Eloise in Tollen, and her youngest, Peregrin, in Chardon.
+Her three children were allowed to live in exile: Wilhema and Eloise in [[Tollen]], and her youngest, Peregrin, in Chardon.

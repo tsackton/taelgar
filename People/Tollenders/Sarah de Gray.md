@@ -28,7 +28,7 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 29th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Sarah de Grey, a 16-year-old from the distinguished Isinguer family, is a student at the University of Tollen. Originally from the [[Duchy of Maseau]] in the south, she has come to Tollen to study, and has developed connections to the Insinguer community in the city, especially [[Guy Marchand]].  
+Sarah de Grey, a 16-year-old from the distinguished Isinguer family, is a student at the University of [[Tollen]]. Originally from the [[Duchy of Maseau]] in the south, she has come to [[Tollen]] to study, and has developed connections to the Insinguer community in the city, especially [[Guy Marchand]].  
 
 %%SECRET[1]%%
 

@@ -28,4 +28,4 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 30th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who has lived in Tollen for the past 20 years or so. 
+Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who has lived in [[Tollen]] for the past 20 years or so. 

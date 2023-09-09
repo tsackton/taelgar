@@ -26,6 +26,6 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 17th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-A young woman and priestess of [[Kaikkea]] in Tollen. Speaks with the power of the ocean, deeply connected to [[Kaikkea]]. 
+A young woman and priestess of [[Kaikkea]] in [[Tollen]]. Speaks with the power of the ocean, deeply connected to [[Kaikkea]]. 
 
 ![[laivan-iskra.png]]
