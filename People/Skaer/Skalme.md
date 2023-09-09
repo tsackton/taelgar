@@ -28,7 +28,7 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 21st, 1748: [[Antaka]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Skalme is the Priestess of Fire, the divine protector of the elemental fire, the volcano known as  Kuaine (coo-ine-a), on the Skaer volcanic island of Antaka. She is a powerful divine magic user. 
+Skalme is the Priestess of Fire, the divine protector of the elemental fire, the volcano known as  Kuaine (coo-ine-a), on the Skaer volcanic island of [[Antaka]]. She is a powerful divine magic user. 
 
 She is a very tall, dark skinned woman, with bright red facial tattoos in place of the blue that most priests wear. 
 

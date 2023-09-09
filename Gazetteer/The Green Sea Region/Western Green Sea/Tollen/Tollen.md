@@ -38,11 +38,9 @@ I do like the idea of Tollen as central to the treaty that stopped Drankorian 
 # The Free City of Tollen
 
 A bustling port on the [[River Volta|Volta]] River, which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply [[the Green Sea]], bringing back goods from near neighbors as well as the far East. 
-
 ## History
 
 Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied human city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
-
 ### Founding
 
 Tollen was originally founded on the north bank of the [[River Volta|Volta]] river by the first mariner migrants from Hkar, before the Downfall, in the year 3902 by the Dwarven reckoning. Although the western edge of [[the Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[the highlands]], and the non-humans ([[lizardfolk]] and [[halflings]], mostly) of the [[western Green sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
@@ -148,15 +146,14 @@ Old Gate stands where the original pre-Skaer mariner fortication stood, defendin
 
 ## Governance and Laws
 
-Tollen is an open city: there are no tolls to enter, and the gates are kept open from dawn until dusk. There are fees, tolls, and tariffs on goods crossing through Tollen, market sellers, and considerable income is made via licensure of guilds and other professions and crafts. But from an adventurer's perspective, there is little to stop someone from wandering in. There is no registration, etc.
+Tollen is an open city: there are no tolls to enter, and the gates are kept open from dawn until dusk. There are fees, tolls, and tariffs on goods crossing through Tollen, market sellers, and considerable income is made via licensure of guilds and other professions and crafts. But from an adventurer's perspective, there is little to stop someone from wandering in. 
 
 Formally speaking, "foreigners", are prohibited from carrying blades larger than a dagger, and prohibited armor, but in practice this is rarely or never enforced as long as the rule is not flaunted, and especially it is unlikely to be enforced against members of the Elder races, who are perceived to be no threat to the city. The city gates are guarded, but not tightly.
 
-The city is technically a republic, with government by a council elected from the various guilds. (Details probably don't matter too much)
-
+The city is technically a republic, with government by a council elected from the various guilds.
 ## Guilds
 
-(not sure the details matter...there are lots of guilds, both major and minor, and they are important to the economics and politics of the city)
+Tollen is a city of guilds: the various trade associations, craft guilds, and producer's compacts are the center of power in the city. 
 
 ## Landmarks
 
