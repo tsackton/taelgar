@@ -31,4 +31,4 @@ whereabouts:
 
 Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to a life of piracy. Sometime during his pirate days, he made a pact with a demon known as Mashtu the Corruptor. 
 
-In DR 1748, he was trapped on the holy island of Vetta by Kaikkea's curse, and was eventually [[Session 75 (DuFr)|killed]] by [[The Dunmar Fellowship]]. 
+In DR 1748, he was trapped on the holy island of [[Vetta]] by Kaikkea's curse, and was eventually [[Session 75 (DuFr)|killed]] by [[The Dunmar Fellowship]]. 

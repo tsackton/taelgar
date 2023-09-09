@@ -4,4 +4,4 @@ Antaka is a small island dominated by a massive volcano. There are four small vi
 
 Three of the villages are nestled by the ocean near small harbors, and are largely fishing villages. The fourth is associated with the volcanic sacred site.
 
-[[Skalme]] is the priest of the temple to Kaikkea at the volcanic site.
+[[Skalme]] is the priest of the temple to [[Kaikkea]] at the volcanic site.

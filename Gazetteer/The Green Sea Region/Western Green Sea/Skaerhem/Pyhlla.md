@@ -1,6 +1,6 @@
 # Overview
 
-Pyhlla a port town, on a volcanic rocky island, less than a day's sail from Vetta, the island of the sacred waters. 
+Pyhlla a port town, on a volcanic rocky island, less than a day's sail from [[Vetta]], the island of the sacred waters. 
 
 The town has a population of maybe 800 people: enough to feel substantial, but not a major city by any means. It sits on a deep, sheltered harbor in a rocky fjord, where a pair of wooden quays jut into the water, and several high-sided longboats rest at anchor. 
 
@@ -13,10 +13,9 @@ The main communal gathering places is the church of [[Kaikkea]], which has an at
 Most people live in turf houses, with grass roofs, with a significant cluster of houses around the docks and churchyard.
 
 Pyhlla is a particularly large district, with 11 oskunja, and two priests in addition to the hakeasa. 
-
 # People
 
-[[Tulvak]] (he/him), a ferry captain and mariner who has traditionally sailed the ferries that take pilgrims to Vetta. Only survivor of attack on Vetta.
+[[Tulvak]] (he/him), a ferry captain and mariner who has traditionally sailed the ferries that take pilgrims to [[Vetta]]. Only survivor of attack on [[Vetta]].
 
 [[Vaallinen]] (va-li-nen; he/him), the hakeasa of this district, and a divine magic user.
 
@@ -24,7 +23,7 @@ Pyhlla is a particularly large district, with 11 oskunja, and two priests in add
 
 # Blessing of [[Kaikkea]]
 
-All pilgrims to Vetta must accept the blessing of [[Kaikkea]]. This involves being submerged in a deep quarry cut out of the stone, and prayed over. The prayer is basically a divination spell that asks one question only: "will this person defile the sacred waters of Vetta"?
+All pilgrims to [[Vetta]] must accept the blessing of [[Kaikkea]]. This involves being submerged in a deep quarry cut out of the stone, and prayed over. 
 
 %%SECRET[2]%%
 
