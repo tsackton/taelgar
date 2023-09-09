@@ -1,3 +1,3 @@
 # Guildgate
 
-A district in Tollen.
+A district in [[Tollen]]. 

@@ -29,10 +29,10 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 29th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Umli is a stoneborn exile living in Tollen, a master metalworker, and a teacher. 
+Umli is a stoneborn exile living in [[Tollen]], a master metalworker, and a teacher. 
 ## Overview
 
-Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of metallury and her knowledge of the elemental plane of fire. Though loosely affiliated with the University of Tollen, she  does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. Born in the Vostok mountains, she was exiled from her Stoneborn community for reasons she keeps private, and has lived in Tollen for the past 15 years. 
+Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of metallury and her knowledge of the elemental plane of fire. Though loosely affiliated with the University of [[Tollen]], she  does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. Born in the Vostok mountains, she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] for the past 15 years. 
 ## Description
 
 Umli stands tall and imposing, typical of stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork. Her obsidian-like eyes reflect her intense focus.

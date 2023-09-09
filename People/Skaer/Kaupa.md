@@ -18,7 +18,7 @@ whereabouts:
 ---
 
 # Kaupa
-A diligent representative of the Skaer Trade Mission, Kaupa's role in Tollen is vital in ensuring that trade relations between Skaerhem and Tollen remain strong and beneficial for both parties.
+A diligent representative of the Skaer Trade Mission, Kaupa's role in [[Tollen]] is vital in ensuring that trade relations between Skaerhem and [[Tollen]] remain strong and beneficial for both parties.
 
 
 ![[kaupa.png]]

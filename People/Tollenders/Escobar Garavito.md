@@ -27,7 +27,7 @@ whereabouts:
 >> Based in: [[Tollen]], [[Western Green Sea]]
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-A young and charismatic student at the University of Tollen, Escobar's journey from the humble village of Lavila in Cymea to the bustling streets of Tollen showcases his adaptability and determination.
+A young and charismatic student at the University of [[Tollen]], Escobar's journey from the humble village of Lavila in Cymea to the bustling streets of [[Tollen]] showcases his adaptability and determination.
 
 %%SECRET[1]%%SECRET
 ## Roleplaying Notes
@@ -41,7 +41,7 @@ Often waving or saying hi to people he knows on the street.
 ## Background
 
 
-Escobar is a particularly gregarious and outgoing student, loud and boisterous. He is from the small village of Lavila, and fled because he felt he had no future there. He is bright and charming, and talked his way onto a Tollender trader as an able seaman. After 6 months at sea he decided he hated it and disappeared into the Tollen masses when next at port. 
+Escobar is a particularly gregarious and outgoing student, loud and boisterous. He is from the small village of Lavila, and fled because he felt he had no future there. He is bright and charming, and talked his way onto a Tollender trader as an able seaman. After 6 months at sea he decided he hated it and disappeared into the [[Tollen]] masses when next at port. 
 
 After bouncing around as a laborer, he connected with Cecilia Lister, a tattoo artist who specializes in magical tattoos, who eventually got him a scholarship via the Dyer's Guild to take classes at the University (with the idea he would come apprentice with her afterward).
 
