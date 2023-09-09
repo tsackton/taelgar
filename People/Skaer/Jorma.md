@@ -26,4 +26,4 @@ whereabouts:
 >> Based in: [[Vetta]], [[Skaerhem]]
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Jorma, a Skaer priest in his early 30s, served as the Priest of the Waters in [[Vetta]]. He was killed by Urgall the Black in May 1748.
+Jorma, a Skaer priest in his early 30s, served as the Priest of the Waters in [[Vetta]]. He was killed by [[Urgall the Black]] in May 1748.
