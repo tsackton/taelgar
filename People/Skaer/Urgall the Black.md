@@ -4,21 +4,32 @@ name: Urgall
 species: human
 ancestry: Skaer
 gender: male
-born: 1720 
+born: 1720
 died: 1748
 title: 
 family: 
-affiliations: [Urgall the Black]
-aliases: 
-tags: 
+affiliations: []
+aliases:
+  - Urgall
+tags:
   - NPC/DuFr/met
   - NPC/DuFr/major
-lastSeenByParty: 
-  - { date: 1748-12-22, prefix: DuFr }
-whereabouts: 
-  - { date: 1720-01-01, place: "Skaerhem", region: "", type: origin } 
-  - { date: 1741-01-02, place: "", region: "Western Green Sea", type: home }
-  - { date: 1748-05-01, place: "Vetta", region: "Skaerhem", type: excursion } 
+lastSeenByParty:
+  - date: 1748-12-22
+    prefix: DuFr
+whereabouts:
+  - date: 1720-01-01
+    place: Skaerhem
+    region: ""
+    type: origin
+  - date: 1741-01-02
+    place: ""
+    region: Western Green Sea
+    type: home
+  - date: 1748-05-01
+    place: Vetta
+    region: Skaerhem
+    type: excursion
 ---
 # Urgall
 >[!info]+ Biographical Summary
@@ -31,4 +42,4 @@ whereabouts:
 
 Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to a life of piracy. Sometime during his pirate days, he made a pact with a demon known as Mashtu the Corruptor. 
 
-In DR 1748, he was trapped on the holy island of [[Vetta]] by Kaikkea's curse, and was eventually [[Session 75 (DuFr)|killed]] by [[The Dunmar Fellowship]]. 
+In DR 1748, he was trapped on the holy island of [[Vetta]] by [[Kaikkea]]'s curse, and was eventually [[Session 75 (DuFr)|killed]] by [[The Dunmar Fellowship]]. 

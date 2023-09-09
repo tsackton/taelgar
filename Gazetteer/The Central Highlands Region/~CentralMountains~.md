@@ -5,6 +5,8 @@ tags: [stub]
 %% 
 Brainstorming name ideas
 
+I like Labkhan or Labkar in dwarvish and the Sentinels/Citadel Range/ some variant for English - Mike
+
 Many large/prominent mountain chains in real world have some derivation around "White" or "Snowy"(e.g. alps, Himalayas). 
 
 If we take a Deno'qai perspective, this could be something like:

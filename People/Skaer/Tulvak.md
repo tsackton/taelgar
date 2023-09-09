@@ -35,4 +35,4 @@ Tulvak is a skilled sailor hailing from the island of [[Pyhlla]] in Skaerhem, in
 
 ## Events
 
-Tulvak was on [[Vetta]] when Urgall the Black attacked in DR 1748. He was the only survivor of that assault, and still questions whether it was fate, or luck, that he was outside pissing when the fireballs began to fly. He fled watching the longhouse burn with all the pilgrims inside, and still carries the trauma of that night. 
+Tulvak was on [[Vetta]] when [[Urgall the Black]] attacked in DR 1748. He was the only survivor of that assault, and still questions whether it was fate, or luck, that he was outside pissing when the fireballs began to fly. He fled watching the longhouse burn with all the pilgrims inside, and still carries the trauma of that night. 
