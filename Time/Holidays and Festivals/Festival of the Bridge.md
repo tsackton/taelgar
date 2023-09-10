@@ -1,4 +1,7 @@
-
+---
+fc-date: 1719-11-03
+fc-calendar: Taelgar
+---
 # Festival of the Bridge
 
 A [[Mos Numena]] feast day, celebrated on November 3rd each winter in [[Cleenseau]] and the surrounding towns. It commerates an ancient miracle when a single patrol of guards, led by a blessed priest of the Warlord, [[Robert Sonneboar]], held the bridge for three days against a [[Orcs|orc]] horde without reenforcements.
