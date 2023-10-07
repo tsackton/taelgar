@@ -1,7 +1,6 @@
 ---
 aliases: [The Five Siblings of the Dunmari, Dunmari gods]
 ---
-
 # The Five Siblings of the Dunmari
 
 The religion of the Dunmari is an old religion, adapted and evolved from the old ways when the Dunmari were a nomadic people living far to the south, before they settled among the ruins of [[Drankorian Empire|Drankor]]. The Dunmari worship a family pantheon, the Five Silbings, along with other minor gods and goddesses. Dunmari temples are typically pentagonal, representing the five major deities:
@@ -23,3 +22,5 @@ The Dunmari also acknowledge the power of the creator gods, [[Shurat]] and [[Sam
 ### Relationships among the Divine
 
 ![[five-siblings-family-tree.png]]
+
+	
