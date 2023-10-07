@@ -5,16 +5,27 @@ species: human
 ancestry: Chardonian
 gender: male
 born: 1711
-died: 
-title:
-family:
-affiliations: ["The Society of the Open Scroll"]
-aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+died: 1748
+title: 
+family: 
+affiliations:
+  - The Society of the Open Scroll
+aliases: 
+tags:
+  - NPC/DuFr/major
+  - NPC/DuFr/met
 whereabouts:
-     - { date: 0001-01-02, place: "Chardon", region: Chardonian Empire}
-     - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, excursion: true}
-###secret[1]
+  - date: 0001-01-02
+    place: Chardon
+    region: Chardonian Empire
+  - date: 1748-11-15
+    place: somewhere in Dunmar
+    region: Dunmar
+    excursion: true
+  - date: 1748-11-19
+    place: Garamjala Desert
+    region: Dunmar
+    excursion: true
 ---
 # Kadmos
 >[!info]+ Biographical Summary
@@ -31,4 +42,4 @@ A character of dubious morality, clearly willing and able to use enchantment mag
 ![[kadmos-portrait.png]]
 
 
-%%SECRET[2]%%
+%%SECRET[1]%%

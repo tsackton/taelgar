@@ -20,7 +20,7 @@ By the 1300s DR, the Sembaran monarchy commaded fealty, either directly, from ne
 
 By the 1400s, a number of regional powers had started to emerge on the borders of [[Sembara]]. In the northwest, from the highland provinces of [[Drankorian Empire|Drankor]], two realms had emerged: [[Lavnoch]] and [[Ardlas]]. Perched on either side of [[Lake Derwent]], they grew rich with the profit of trade over the mountains, but were often in conflict over control of the lake and access to the Dwarven trade.
 
-North of [[Lavnoch]], the brief [[Zovcka|Unified Crown of Zovcka]] had collapsed, and two northern kingdoms emerged: [[Zovcka]], in the north, and [[Breva]], squeezed between [[Braebein]] and the growing power of the Duke of [[Duchy of Arnbury|Arnbury]], the [[~CentralMountains~]], and [[Zovcka]]. 
+North of [[Lavnoch]], the brief [[Zovcka|Unified Crown of Zovcka]] had collapsed, and two northern kingdoms emerged: [[Zovcka]], in the north, and [[Breva]], squeezed between [[Braebein]] and the growing power of the Duke of [[Duchy of Arnbury|Arnbury]], the [[Sentinel Range]], and [[Zovcka]]. 
 
 To the northeast, the [[Duchy of Telham]], between the [[River Teft|Teft]] and the [[River Volta|Volta]], commanded the loyalty of many of the small lords along the coast and the rivers, and was closely tied by culture and intermarriage to [[Sembara]].
 

@@ -2,20 +2,22 @@
 type: NPC
 name: Odim Mavdyrson
 species: giant
-ancestry: 
+ancestry: fire
 gender: male
 born: 
 died: 
 location: 
-locationRegion:
+locationRegion: 
 home: 
-homeRegion:
-origin:
-originRegion:
+homeRegion: 
+origin: 
+originRegion: 
 affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
-yearOverride: 
+aliases: 
+tags:
+  - NPC/DuFr/background
+  - NPC/DuFr/aware
+yearOverride:
 ---
 ### Odim Mavdyrson
 

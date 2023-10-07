@@ -1,8 +1,21 @@
 ---
 tags: [stub]
 ---
+# The Sentinels
 
-%% 
+The Sentinels, also called the Sentinel Mountains or the Sentinel Range, are the extensive mountain range that separates the Green Sea region from the West coast of Taelgar. 
+
+In the south, in northern Dunmar, the mountains are steep and rocky, with only a handful of passes. In the winter, they are snow-covered, but there is little permanent ice and few or no glaciers. 
+
+Further north, the mountains are somewhat less rugged, but high enough in places to be permanently snow-covered. 
+
+Major settlements of Dwarves and Stoneborn call the Sentinels their home, and historically this area was, and is, the center of Dwarven civilization. 
+
+The Sentinels have many names: they are called the Indalas by the Stoneborn, Labkhan by the dwarves, Beredri by the Deno'qai, and Tushara by the Dunmari. 
+
+
+
+%% OLD NAME NOTES
 Brainstorming name ideas
 
 I like Labkhan or Labkar in dwarvish and the Sentinels/Citadel Range/ some variant for English - Mike

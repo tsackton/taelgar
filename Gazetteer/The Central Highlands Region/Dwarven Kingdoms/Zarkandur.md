@@ -2,7 +2,7 @@
 
 ## Overview 
 
-**Location**: In the kingdom of Am’khazar, on the western edge of the [[~CentralMountains~]], deep underground.
+**Location**: In the kingdom of Am’khazar, on the western edge of the [[Sentinel Range]], deep underground.
 **Size**: Although a relatively small city, Zarkandur is densely settled, with a population of 25,000 dwarves.
 **Age**: Originally a waypoint on a long road, notable primarily for its natural beauty, Zarkandur grew into a town of minor importance 700 years ago, and flourished as a city of importance since the end of the Great War, 200 years ago.
 **Condition**: Magnificent. This is a city of great beauty.
