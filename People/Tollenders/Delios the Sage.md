@@ -32,5 +32,5 @@ whereabouts:
 An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the  [[Ancient and Honorable Guild of Philosophers]]
 
 Carries what appears to be a magic scroll, allowing him to query some kind of library or source of information. 
-
+![[rsulfuratus_an_old_medieval_philosopher_wearing_all_white_cb9371b9-685b-4fcf-86b0-56364d714ca6.png|400]]
 %%SECRET[1]%%

@@ -21,7 +21,7 @@ tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 >human (Deno'qai), she/her
 >unknown age
 >Based in: unknown
->Location (updated November 15, 1748): forest valleys of the north, [[~CentralMountains~]]
+>Location (updated November 15, 1748): forest valleys of the north, [[Sentinel Range]]
 
 An old Deno'qai druid with many stories and rumors to her name.
 

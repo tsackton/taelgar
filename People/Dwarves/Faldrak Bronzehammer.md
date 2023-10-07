@@ -4,23 +4,39 @@ name: Faldrak Bronzehammer
 species: dwarf
 ancestry: 
 gender: male
-born: 1516 # Calculated as current year (1749) minus 183
+born: 1516
 died: 
 title: 
 family: Bronzehammer
 affiliations: 
 aliases: 
-tags: 
+tags:
   - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty: 
-  - { date: 1748-12-30, prefix: DuFr } # Please replace YYYY-MM-DD with the actual date
-whereabouts: 
-  - { date: 1516-01-01, place: "Fahnukan", region: "", type: origin }
-  - { date: 1516-01-02, place: "Fahnukan", region: "", type: home }
-  - { date: 1693-01-01, place: "Feywild", region: "", type: excursion } # Began his journey to Feywild at age 127
-  - { date: 1698-01-01, place: "Feywild", region: "", type: excursion } # Ended his journey from Feywild after five years
-  - { date: 1727-01-02, place: "Tollen", region: "", type: home } # Moved to Tollen at age 161
+  - NPC/DuFr/major
+lastSeenByParty:
+  - date: 1748-12-30
+    prefix: DuFr
+whereabouts:
+  - date: 1516-01-01
+    place: Fahnukan
+    region: ""
+    type: origin
+  - date: 1516-01-02
+    place: Fahnukan
+    region: ""
+    type: home
+  - date: 1693-01-01
+    place: Feywild
+    region: ""
+    type: excursion
+  - date: 1698-01-01
+    place: Feywild
+    region: ""
+    type: excursion
+  - date: 1727-01-02
+    place: Tollen
+    region: ""
+    type: home
 ---
 # Faldrak Bronzehammer
 >[!info]+ Biographical Summary
@@ -38,6 +54,8 @@ Faldrak Bronzehammer, with his eccentric blend of traditional dwarven craftsmans
 ## Description
 
 Despite his aging exterior and graying, rune-braided beard, Faldrak's eyes sparkle with mischief. His wardrobe—a combination of dwarven armor and fey fabrics—reflects his diverse experiences. A small pouch, perpetually moving, is always by his side. He walks with a cane, which seems to be magical and multipurpose. 
+
+![[rsulfuratus_an_eccentric_eldery_dwarven_tinker_407c54ba-354b-47fe-a336-afcaeb049941.png|400]]
 ## Events
 
 - In DR 1748, during [[Pyravela]] in [[Tollen]], Faldrak attended the party hosted by The Dunmar Fellowship on [[Vindristjarna]], where he met and bonded with Seeker, requesting his aid in journeying to the Edge of Echoes, a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 

@@ -6,16 +6,26 @@ ancestry:
 gender: male
 born: 
 died: 
-title:
-family:
+title: 
+family: 
 affiliations: 
-aliases: ["Gloomshaper"]
-tags: [NPC/unsorted]
-lastSeenByParty: 
-     - { date: 0000-00-00,  prefix:  }
+aliases:
+  - Gloomshaper
+tags:
+  - NPC/unsorted
+  - NPC/DuFr/unaware
+lastSeenByParty:
+  - date: 0000-00-00
+    prefix: 
 whereabouts:
-     - { date: 0001-01-01, place: "Twilight's Grace", region: Feywild, type: origin}
-     - { date: 0001-01-02, place: "Duskmire", region: Feywild, type: home}
+  - date: 0001-01-01
+    place: Twilight's Grace
+    region: Feywild
+    type: origin
+  - date: 0001-01-02
+    place: Duskmire
+    region: Feywild
+    type: home
 ---
 # Lord Umbraeth
 >[!info]+ Biographical Summary

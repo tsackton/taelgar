@@ -1,6 +1,6 @@
 # Overview
 
-This region of Taelgar includes the land south of the [[~CentralMountains~]], from the [[Myraeni Gap]] and the Dunmari coast in the west, past the [[Garamjala Desert]] and the [[Nashtkar]] in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [[Drankor]], and beyond to the [[Sea of Storms]].  [[Dunmar]] is the largest extant polity in this region, though this is the former heartland of the vast [[Drankorian Empire]]. 
+This region of Taelgar includes the land south of the [[Sentinel Range]], from the [[Myraeni Gap]] and the Dunmari coast in the west, past the [[Garamjala Desert]] and the [[Nashtkar]] in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [[Drankor]], and beyond to the [[Sea of Storms]].  [[Dunmar]] is the largest extant polity in this region, though this is the former heartland of the vast [[Drankorian Empire]]. 
 
 This region experienced considerable upheaval after the [[Great War]], as the [[Yuvanti Mountains]] rose from the sea, creating the new land of [[Western Dunmar]], and turning the former fertile plains of the interior to desert. 
 # Climate
