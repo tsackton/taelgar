@@ -1,5 +1,3 @@
-
-
 ### Cleenseau
 *population 1189, halflings and human combined*
 *pronounciation Klen-sew*
@@ -22,7 +20,7 @@ The city walls are shaped like a bean, running north, then curving east before t
 * Underhill (E on the map), is the poorest neighborhood, and stretches along the base of the [[Essford Manor]] hill
 
 Three paths lead through the town:
-* A narrow dirt track runs along the interior of the southeast wall, lined with a number of small food stalls and shops (H). 
+* A narrow dirt track (known as Char Street) runs along the interior of the southeast wall, lined with a number of small food stalls and shops (H). 
 * A paved road leads from east to west, between the Market Gate and the North Gate, and divides the North Close from the Garrison Quarter and Underhill
 * A narrow track along the edge of the raised Essford Manor provides a shortcut from south to north
 
