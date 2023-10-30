@@ -1,7 +1,7 @@
 ---
 type: Ruler
 species: human
-born: 1541
+born: 1534
 ancestry: Sembaran
 gender: female
 died: 1567

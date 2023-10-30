@@ -14,7 +14,7 @@ graph TD
 
 DerikI(Derik I) --- DerikII(Derik II)
 DerikII --- CharlotteI(Charlotte I)
-CharlotteI --- Hugh1(Hugh)
+CharlotteI --- Hugh1(Hugh of Sewick)
 CharlotteI --- DerikIII(Derik III)
 Sarabet --- DerikIIIKidsSara( )
 DerikIII --- DerikIIIKidsSara( )
@@ -58,7 +58,7 @@ classDef noKids stroke:red,stroke-width:2px
 class DerikI,DerikII,CharlotteI,DerikIII,BertramI,BertramII,ArrynI,ElaineI,WisymI ruler;
 class BlancheI,DerikI,DerikII,CharlotteI,DerikIII,Jane,BertramI,BertramII,ArrynI,ElaineI internal-link;
 
-class Gyles,Hugh2,WisymI internal-link;
+class Gyles,Hugh2,WisymI,Hugh1 internal-link;
 
 class BlancheI,DerikIV,BlancheII,ArrynII,CharlotteII,CeceI,RobertI ruler;
 

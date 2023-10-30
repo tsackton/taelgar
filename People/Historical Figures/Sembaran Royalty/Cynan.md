@@ -1,10 +1,10 @@
 ---
 type: Ruler
 species: human
-born: 1548
+born: 1538
 ancestry: Tyrwinghan
 gender: male
-died: 1585
+died: 1589
 home:
 homeRegion: Tyrwingha
 origin:

@@ -1,8 +1,8 @@
 ---
 type: Ruler
 affiliations:
-reignStart:
-reignEnd:
+reignStart: 1428
+reignEnd: 1462
 name: Derik I
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 title:

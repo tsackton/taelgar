@@ -10,7 +10,7 @@ family:
 died: 1745
 gender: female
 ancestry: Sembaran
-born: 1670
+born: 1673
 species: human
 ---
 # Elaine II

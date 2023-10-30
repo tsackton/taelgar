@@ -1,20 +1,17 @@
 ---
 type: Ruler
 species: human
-born:
+born: 1504
 ancestry: Vostok
 gender: female
-died:
+died: 1565
 family:
 title:
 affiliations:
 reignStart:
 reignEnd:
-name: Jane
+name: Jane of Tollen
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-whereabouts:
-- {date: 0001-01-01, place: Tollen, region: Tollen}
-- {date: 0001-01-02, place: Embry, region: Sembara}
 ---
 # Jane
 >[!info]+ Biographical Summary

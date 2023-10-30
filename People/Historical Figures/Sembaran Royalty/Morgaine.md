@@ -7,10 +7,10 @@ name: Morgaine
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 title:
 family: House of Lils
-died: 1685
+died: 1713
 gender: female
 ancestry: Tyrwinghan
-born: 1585
+born: 1600
 species: human
 ---
 # Morgaine
