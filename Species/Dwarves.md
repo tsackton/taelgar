@@ -19,7 +19,7 @@ Bold, brave (sometimes to the point of foolhardiness) and hardy, dwarves are ren
 
 Their appearance is as varied as the stones they shape: though many have ruddy complexions, with dark or red hair and brown or tan skin, dwarves of all colors are regularly seen in Taelgar. Most dwarven men, and some dwarven women, grow long beards, which they braid with intricate ribbons. As dwarves age, their hair, including their beards, generally turns gray or white, and their faces acquire deep wrinkles, especially around the eyes.
 
-Dwarves mature at a little more slowly than humans. Dwarves typically reach physical maturity at around the age of 25, but are not considered full adults until they reach their age of majority at 36 and make a pilgrimage to [[The Heart of the Mountain]] to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 - 400 years.
+Dwarves mature at a little more slowly than humans. Dwarves typically reach physical maturity at around the age of 25, but are not considered full adults until they reach their age of majority at 36 and make a pilgrimage to [[The Heart of the Mountain]] to receive their name and thuhr. Dwarves have a long lifespan, often reaching 300 years.
 
 ### Bound By Tradition
 

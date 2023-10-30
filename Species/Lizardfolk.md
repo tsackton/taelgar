@@ -19,7 +19,7 @@ For the large part of their lives, though, most Lizardfolk are a variety of gree
 
 Lizardfolk feel a deep connection to the natural world, the elements and cycles of life, and the seasons. While they are not pacifists, they will rarely provoke fights or lose control of their tempers in a violent way. They believe very strongly in the circular nature of life, and feel that unjust deeds will be met in turn, giving them a strong sense of fairness and honor. They also believe in the preciousness of life, despite their long life spans, and see hurt, pain, and suffering as necessary evils at best. Many Lizardfolk find their calling as healers in the lands of other races. Most Lizardfolk also see themselves as protectors of their homelands; while this may necessitate violence, Lizardfolk generally strive not to become comfortable with a life of killing and destruction.
 
-Lizardfolk reach adulthood in their early 20s; the first 8-10 years of their life are spent as amphibious young. Most live into their third century, but few live beyond 300 years.
+Lizardfolk reach adulthood in their early 20s; the first 8-10 years of their life are spent as amphibious young. Most live into their second century, but few live beyond 200 years.
 
 ### Devotion to Kin and Home
 
