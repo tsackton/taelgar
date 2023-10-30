@@ -9,13 +9,15 @@ died:
 location: Ganboa
 locationRegion: Semabara
 home: Ganboa
-homeRegion: Semabara
-origin:
-originRegion:
+homeRegion: Sembara
+origin: 
+originRegion: 
 affiliations: 
-aliases: []
-tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
-yearOverride: 
+aliases: 
+tags:
+  - NPC/Clee/unaware
+  - NPC/DuFr/unaware
+yearOverride:
 ---
 
 # Koldo
@@ -23,8 +25,8 @@ yearOverride:
 >lizardfolk, he/him
 >b. 1512
 >207 years old
->Based in: Ganboa, [[Semabara]]
->Location (updated October 21, 1719): Ganboa, [[Semabara]]
+>Based in: Ganboa, [[Sembara]] 
+>Location (updated October 21, 1719): Ganboa, [[Sembara]]
 
 A reclusive druid, very rarely talks to outsiders.
 
