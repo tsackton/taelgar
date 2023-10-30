@@ -8,7 +8,7 @@ died: 1567
 family: House of Sewick
 title:
 affiliations:
-reignStart: 1560
+reignStart: 1561
 reignEnd:
 name: Blanche I
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]

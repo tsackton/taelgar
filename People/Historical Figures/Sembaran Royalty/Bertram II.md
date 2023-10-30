@@ -4,7 +4,7 @@ species: human
 born: 1535
 ancestry: Sembaran
 gender: male
-died: 1560
+died: 1561
 family:
 title:
 affiliations:
