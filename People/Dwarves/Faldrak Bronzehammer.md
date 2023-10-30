@@ -9,7 +9,8 @@ died:
 title: 
 family: Bronzehammer
 affiliations: 
-aliases: 
+aliases:
+  - Faldrak
 tags:
   - NPC/DuFr/met
   - NPC/DuFr/major
