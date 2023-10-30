@@ -1,14 +1,14 @@
 ---
 type: Ruler
 species: human
-born: 1533
+born: 1535
 ancestry: Sembaran
 gender: male
 died: 1560
 family:
 title:
 affiliations:
-reignStart:
+reignStart: 1552
 reignEnd:
 name: Bertram II
 tags: [NPC/historical, NPC/DuFr/unaware]

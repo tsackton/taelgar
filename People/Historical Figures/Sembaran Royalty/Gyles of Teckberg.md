@@ -10,7 +10,7 @@ title:
 died: 1630
 gender: male
 ancestry: Sembaran
-born: 1537
+born: 1539
 species: human
 ---
 # Gyles
