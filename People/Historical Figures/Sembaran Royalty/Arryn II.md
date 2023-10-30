@@ -1,7 +1,7 @@
 ---
 type: Ruler
 species: human
-born: 1595
+born: 1601
 ancestry: Sembaran
 gender: male
 died: 1628
@@ -12,7 +12,7 @@ originRegion:
 family: House of Sewick
 affiliations:
 whereabouts:
-reignStart: 1595
+reignStart: 1601
 reignEnd: 1628
 name: Arryn II
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]

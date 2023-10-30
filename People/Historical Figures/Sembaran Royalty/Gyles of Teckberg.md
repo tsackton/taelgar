@@ -7,10 +7,10 @@ reignEnd:
 reignStart:
 affiliations:
 title:
-died: 1640
+died: 1630
 gender: male
 ancestry: Sembaran
-born: 1550
+born: 1537
 species: human
 ---
 # Gyles

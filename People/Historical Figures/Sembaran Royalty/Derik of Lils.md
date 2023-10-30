@@ -10,7 +10,7 @@ family: House of Lils
 died: 1633
 gender: male
 ancestry: Sembaran
-born: 1574
+born: 1569
 species: human
 ---
 # Derik

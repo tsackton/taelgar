@@ -7,10 +7,10 @@ name: Elaine I
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 title:
 family:
-died: 1586
+died: 1592
 gender: female
 ancestry: Sembaran
-born: 1542
+born: 1536
 species: human
 ---
 # Elaine I

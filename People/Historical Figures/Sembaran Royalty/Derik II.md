@@ -2,8 +2,8 @@
 type: Ruler
 name: Derik II
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd:
-reignStart:
+reignEnd: 1496
+reignStart: 1462
 affiliations:
 title:
 family:

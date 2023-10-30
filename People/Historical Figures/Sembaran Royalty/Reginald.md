@@ -10,7 +10,7 @@ family:
 died: 1550
 gender: male
 ancestry: Sembaran
-born: 1510
+born: 1506
 species: human
 ---
 # Reginald

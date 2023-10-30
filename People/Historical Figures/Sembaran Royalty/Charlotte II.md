@@ -4,7 +4,7 @@ species: human
 born: 1621
 ancestry: Sembaran
 gender: female
-died: 1652
+died: 1648
 home: Embry
 homeRegion: Sembara
 origin:

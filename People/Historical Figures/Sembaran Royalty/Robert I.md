@@ -3,14 +3,14 @@ type: Ruler
 name: Robert I
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 reignEnd:
-reignStart:
+reignStart: 1713
 affiliations:
 title:
 family: House of Sewick
-died: 1722
+died: 1721
 gender: male
 ancestry: Sembaran
-born: 1662
+born: 1660
 species: human
 ---
 # Robert I

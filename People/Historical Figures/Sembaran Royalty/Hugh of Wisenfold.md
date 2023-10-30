@@ -7,10 +7,10 @@ reignEnd:
 reignStart:
 affiliations:
 title:
-died: 1551
+died: 1562
 gender: male
 ancestry: Sembaran
-born: 1512
+born: 1509
 species: human
 ---
 # Hugh
