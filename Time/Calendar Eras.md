@@ -6,6 +6,8 @@ The two most commonly used, both in these notes and by scholars and the learned 
 - Drankorian Reckoning, which dates years from the founding of Drankor. The new year in Drankorian Reckoning begins on January 1st. 
 - Dwarven Reckoning, which dates years since the beginning of time at the end of [[the Riving]]. The new year in Dwarven Reckoning begins on March 17th of the human calendar. 
 
+> Note: The founding of Drankor was in 4133 in the Dwarven Reckoning, so to convert between Dwarven and Drankorian reckoning, add or subtract 4133
+
 However, other calendar eras may occasionally be used, including:
 - Dunmari reckoning, which counts dynastic years, and counts the new year from the Festival of the New Dawn, on January 23rd.
 - Sembaran reckoning, which counts regnal years, and counts each year from the monarch's coronation. 
