@@ -14,7 +14,6 @@ Major settlements of Dwarves and Stoneborn call the Sentinels their home, and hi
 The Sentinels have many names: they are called the Indalas by the Stoneborn, Labkhan by the dwarves, Beredri by the Deno'qai, and Tushara by the Dunmari. 
 
 
-
 %% OLD NAME NOTES
 Brainstorming name ideas
 

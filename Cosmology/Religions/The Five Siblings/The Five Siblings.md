@@ -23,4 +23,8 @@ The Dunmari also acknowledge the power of the creator gods, [[Shurat]] and [[Sam
 
 ![[five-siblings-family-tree.png]]
 
-	
+Details about the Five Sibling religion can be found in:
+- [[Dunmari Beliefs]]
+- [[Dunmari Religious Practice]]
+- [[Dunmari Festivals]]
+]
