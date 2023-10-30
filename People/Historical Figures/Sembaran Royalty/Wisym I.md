@@ -3,11 +3,11 @@ type: Ruler
 family: House of Sewick
 title: King
 affiliations:
-reignStart: 1567
-reignEnd: 1580
+reignStart: 1568
+reignEnd: 1582
 name: Wisym I
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-died: 1580
+died: 1582
 gender: male
 ancestry: Sembaran
 born: 1510

@@ -1,10 +1,10 @@
 ---
 type: Ruler
 species: human
-born: 1504
+born: 1509
 ancestry: Vostok
 gender: female
-died: 1565
+died: 1559
 family:
 title:
 affiliations:

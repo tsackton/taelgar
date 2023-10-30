@@ -1,7 +1,7 @@
 ---
 type: Ruler
 affiliations:
-reignStart:
+reignStart: 1582
 reignEnd:
 name: Elaine I
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
@@ -10,7 +10,7 @@ family:
 died: 1592
 gender: female
 ancestry: Sembaran
-born: 1536
+born: 1537
 species: human
 ---
 # Elaine I
