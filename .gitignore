@@ -28,3 +28,6 @@ Campaigns/
 
 # Include gitignore
 !.gitignore
+
+# Include Player Guide
+!Player's Guide.md
