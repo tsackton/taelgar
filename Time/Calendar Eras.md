@@ -8,7 +8,7 @@ The two most commonly used, both in these notes and by scholars and the learned 
 
 However, other calendar eras may occasionally be used, including:
 - Dunmari reckoning, which counts dynastic years, and counts the new year from the Festival of the New Dawn, on January 23rd.
-- Sembaran reckoning, which counts regnal years
+- Sembaran reckoning, which counts regnal years, and counts each year from the monarch's coronation. 
 
 Halflings remember their history via the tale of years; each year has its own song and its own name. Typically halfings count the beginning of a new year from the day following the winter solstice, when the days begin to lengthen again. 
 
