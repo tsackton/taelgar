@@ -23,6 +23,6 @@ whereabouts:
 >> Based in: [[Cleenseau]], [[Sembara]]
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
- The husband of [[Rosalind Essford|Rosalind]], he wisely takes a back seat in local affairs. From a promient family in [[Ainswick]]. He is a aficionado of stories and songs and often frequents [[The Crossroads Inn]] to hear the latest news.
+ The husband of [[Rosalind Essford|Rosalind]], he wisely takes a back seat in local affairs. From a promient family in [[Ainwick]]. He is a aficionado of stories and songs and often frequents [[The Crossroads Inn]] to hear the latest news.
 
 ![[arthur-bybet-portrait.png]]
