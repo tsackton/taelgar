@@ -80,6 +80,7 @@ While this is a great victory, in the meantime the situation has deteriorated in
 In DR 1511, Derik III, still Prince and Heir, leads a campaign to the highlands. The conquest is bitter, as Breva descends into civil war with some of the people on the side of Sembara and others on the side of OldGod. Sembara prevails, and forces of OldGod flee to Zovcka, but the price is high, and Derik III does not pursue military conquest of Zovcka.   
 
 In DR 1523, shortly after Derik III comes to the throne, he finally launches a campaign against OldGod (perhaps now revealed to be stoked/encouraged by Cha’mutte), with the aid and support of the local lords on the Vostok side of the Volta. Zovcka is defeated, but worshippers of OldGod slip into hiding. Zovcka nominally acknowledges the overlordship of Sembara, but the local lords are not replaced, only forced to renounce OldGod. 
+
 %%
 
 By DR 1525, Derik III is at least nominally acknowledged as the overlord and high king of all the land from the southern highlands to the northern wall, from [[Sentinel Range]] to the[[Western Gulf]].  In DR 1533, now several years a widower, Derik III marries Jane, the young daughter of an important merchant family in Tollen. 
@@ -87,6 +88,7 @@ By DR 1525, Derik III is at least nominally acknowledged as the overlord and hig
 Over the next 20 years, Sembara remains a strong and united kingdom as various conflicts spread along its borders, culminating in the [[Great War]].
 
 ### The Blood Years
+
 DR 1545 - DR 1600; 26 Derik III - 7 Blanche I
 
 After the destruction of the Great War, Sembara experienced just over a year of much needed peace, marked largely by a huge influx of refugees from the south who settled in the [[Duchy of Maseau]] and [[Addermarch]]. In DR 1547. the peace is shattered by a large, grim army following from the south on the heels of the refugees -- first a grim hobgoblin army, then a disorganized mass of monstrosities, great beasts, and other fell terrors fleeing something even worse from the south. Sembara fights to a desperate standstill, holding ground in the Mosteve Hills for several years of death and famine. In the fall of 1549, Derik III dies on the battlefield near Valarin -- but in death, he wins a great victory, and a measure of peace for Sembara, as the last great host of hobgoblins is ridden down and killed.   
