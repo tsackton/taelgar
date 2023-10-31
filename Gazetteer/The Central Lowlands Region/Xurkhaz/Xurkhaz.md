@@ -28,7 +28,7 @@ While these are "towns", only the capitol has more than 1000 people living it in
 %%SECRET[2]%%
 ## People
 
-Generally most [[orcs]] are very wary of outsiders, and especially suspicious of [[humans]], [[Elf|elves]], and [[dwarves]]. Especially paranoid now, given rumors of war on the western border, scouts reporting undead army on the move, etc.
+Generally most [[orcs]] are very wary of outsiders, and especially suspicious of [[humans]], [[Elf|elves]], and [[Dwarves]]. Especially paranoid now, given rumors of war on the western border, scouts reporting undead army on the move, etc.
 
 Mostly speak Orcish; a few speak Common or Sylvan, so communication not trivial except via Tongues. 
 
