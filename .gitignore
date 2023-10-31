@@ -29,5 +29,6 @@ Campaigns/
 # Include gitignore
 !.gitignore
 
-# Include Player Guide
+# Include Player Guide material
 !Player's Guide.md
+!Character Creation Guide.md
