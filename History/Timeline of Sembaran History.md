@@ -110,7 +110,7 @@ DR 1545 - DR 1567; 26 Derik III - 6 Blanche I
 ### Overview
 
 ###
-* DR 1546: Significant refugee populations from [[Istabor Alliance|Istabor]] are settled in [[Duchy of Maseau|Maseau]], the [[Borderlands]], [[Addermarch]], and the [[Mostreve Hills]]
+* DR 1546: Significant refugee populations from [[Istabor Alliance|Istabor]] are settled in [[Duchy of Maseau|Maseau]], the [[Borderlands]], [[Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Addermarch]], and the [[Mostreve Hills]]
 * DR 1547: The [[Bloodlust Wars]] begin
 * DR 1549, summer: [[Derik III]] dies on the battlefield at [[Valarin]]
 * DR 1549, fall: The [[Bloodlust Wars]] ends
@@ -122,7 +122,7 @@ DR 1545 - DR 1567; 26 Derik III - 6 Blanche I
 * DR 1551, fall: The [[Blood Plague]] spreads north, killing everything
 * DR 1552, winter: A terrible winter of [[The Famine of 1552|famine]] 
 * DR 1552, winter: [[Bertram I]] dies and [[Bertram II]] is crowned with [[Jane of Tollen]] as his regent
-* DR 1552, spring: The [[Blood Plague]] ends, although the toll south of the [[Enst]] was immense. [[Duchy of Maseau|Maseau]] and [[Addermarch]] are abandoned as are many villages in the west
+* DR 1552, spring: The [[Blood Plague]] ends, although the toll south of the [[Enst]] was immense. [[Duchy of Maseau|Maseau]] and [[Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Addermarch]] are abandoned as are many villages in the west
 * DR 1553, winter: The [[Regency of Jane of Tollen]] ends and [[Bertram II]] takes power himself
 * DR 1558, spring: News reaches [[Embry]] of the [[Battle of White Pass]] (the opening thrust of the [[Sentinel Range War]] and at Jane's urging, no aid is sent to [[Ardlas]] or [[Lavnoch]]
 * DR 1559: [[Jane of Tollen]] dies and [[Bertram II]] rides north to aid [[Ardlas]]

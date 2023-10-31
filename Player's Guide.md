@@ -34,7 +34,7 @@ Long ago, in the ancient days of creation, the gods created sentient beings, fir
 
 Seven hundred years ago, the Drankorian empire fell, brought down by a magical plague that even the great wizards of Drankor could not stop. From the ashes of empire arose new realms and cities: Chardon, a center of learning and the great city of the west; Sembara, a powerful monarchy in the east; the Dunmari, people of the plains, migrating from the far away into the empty spaces left by the collapse of Drankor; and many others. But as these realms and others grew, the ancient skeletal dragon-god Cha'mutte was lurking in the north, biding his time and building his army of hobgoblins and worse.
 
-Two hundred years ago, Cha'mutte tried to overthrow the gods. The Great War, although it lead to Cha'mutte's defeat, left the world changed. A vast crater now lies where mountain passes once carried trade caravans between Sembara and Chardon, and the fertile [[River Istaros|Istaros]] river valley is now a choking land of dust and ash, called the Plaguelands. For fifty years after the Great War ended, the remains of Cha'mutte's armies roamed the land. These years, known as the Blood Years, saw the boundaries of civilization shrink, trade decline, and famine and sorrow spread. 
+Two hundred years ago, Cha'mutte tried to overthrow the gods. The Great War, although it lead to Cha'mutte's defeat, left the world changed. A vast crater now lies where mountain passes once carried trade caravans between Sembara and Chardon, and the fertile [[River Istaros|Istaros]] river valley is now a choking land of dust and ash, called the Plaguelands. For fifty years or more after the Great War ended, the remains of Cha'mutte's armies roamed the land. The boundaries of civilization shrnak, trade decline, and famine and sorrow spread.
 
 Over the past few generations, though, a new normalcy has come to the land, as the Great War and its aftermath fades from memory. The Chardonian Empire now stretches a thousand miles, built on the backs of the magical secrets of the Great Library and the Chardonian legions, with their battle mages. Peace and trade have once again come to Sembara, and the merchants of Tollen and Cymea ply the Green Sea once more. The Dunmari thrive behind the divine protections that guard their eastern border from the evils of the Plaguelands. While the frontiers remain dangerous, the world that has emerged from the darkness is one of hope. 
 ## Species
@@ -42,31 +42,13 @@ Over the past few generations, though, a new normalcy has come to the land, as t
 While humans are by far the most numerous sentient species on Taelgar, many other sentient species of diverse culture, appearance, and origin share the world with them. 
 
 The oldest sentient species on known as the Elder Folk, created by the influence and action of the divine firstborn of each race, known as the embodied gods. These species have long lifespans and unique connections to their creator gods that set them apart from humans and other sentient races. The Elder Folk  include:
-- The elves, the oldest of the Elder Folk, ancient and fey, graceful and full of magic. The elves have always defended the world from evil, ut this has taken a toll, and the elves are much reduced in number in recent years after the tragedy of the [[Great War]]. Many elves now look inward, seeking to nurture and protect their own people
-Five races (elves, dwarves, stoneborn, lizardfolk, and halflings) are known as the Elder Races. They were created by the Divine before time, through the influence and action of the Firstborn of their race. These races draw their strength and abilities through their connection to their Gods, which both gives them power and unique magic, and constrains them. While some of these races are relatively common (dwarves and halflings), others are uncommon (lizardfolk), or rare (elves, stoneborn). 
+- The elves, the oldest of the Elder Folk, ancient and fey, graceful and full of magic. The elves have always defended the world from evil, most recently at great cost in lives during the [[Great War]], a sorrow that still lingers for many elves. Elves do not age as other folk do, although many ancient elves grow tired of the mortal world and choose to depart. The elves' sense of time is defined by the *ka*, the 160-year cycle of generations stretching back to the first elves to walk the earth. 
+- The stoneborn, the least numerous of the Elder Folk, living in isolated communes high in the mountains, renowned as masters of craft. While Stoneborn communities occasionally attract students seeking masters, Stoneborn themselves rarely leave their homes. It is said that Stoneborn are truly born of the mountains of their home, and slowly return to stone as they age. 
+- The lizardfolk, keepers of dreams and prophecy, masters of the realms of spirits, living in scattered groups, large and small, across the world, usually, but not always, near water, and sometimes near humans. Lizardfolk guide the land to produce sustenance to support their carefully planned communities, spending their time mastering the world of dreams.
+- The dwarves, brave and bold, skilled in stonework, craft, and battle, dwelling in vast underground kingdoms beneath the mountains of the world. Keepers of history and tradition, dedicated to clan, and thuhr, the combination of secret society, craft guild, and religious order that all dwarves join when they reach the age of maturity. 
+- The halflings, full of song, light of foot, fond of travel and trade, food and stories. The halflings have no homeland, wandering the world instead, always seeking the next path, the next story, and maintaining their communities through a mystical shared memory. Halflings are the most numerous of the Elder Folk, found in all corners of the world, wherever other sentient species have stories to tell and goods to trade. 
 
-[Elves](https://www.gmbinder.com/share/-LubwNH3wBO1-n9L8MLu) are the oldest of the Elder races, ancient and fey, graceful and full of magic, but also haughty and aloof to the world of the younger races. [Stoneborn](https://www.gmbinder.com/share/-Lubw5j6u-KFTIbdi_Gm) are the children of the mountains, reclusive and content to watch the world below them. [Lizardfolk](https://www.gmbinder.com/share/-LubwPqvHgPLYMtwu74S) are creatures of the water, marsh and swamp, masters of dreams and the realm of spirits, skilled as healers. [Dwarves](https://www.gmbinder.com/share/-LtFg6GJLYThfAVQlu80) are bold and brave and tradition-bound, as skilled in artistry as in battle, deeply committed to clan and home. [Halflings](https://www.gmbinder.com/share/-LubwU3GSx1YnKGpVelc) are wanderers and travelers, rarely settling in one place for long, but maintaining ties of kin through a collective racial memory.
-
-[Humans](https://www.gmbinder.com/share/-LuboetFTPmjmXzKI2O3) are known as the Younger Race. They were created by the Divine at the beginning of time to spread and thrive across the world; they are the most numerous and diverse of all Divinely created races, free of ties to Firstborn that constrain their diversity.
-
-While humans and the Elder races are most commonly seen in the cities and towns of Taelgar, many other races exist, as described below.
-
-\pagebreak
-
-#### Dwarven Kingdoms
-Dwarves are one of the most populous of the non-human races. Numerous Dwarven kingdoms dot both the central mountain chain and other hilly or mountainous areas around the world. While the center of Dwarven industry and influence is in the central mountains on the western frontier of Sembara, dwarves can be found in any land.
-
-#### Stoneborn Communities
-Stoneborn are much rarer than dwarves, and tend to live in small communities in isolated places, either high in mountains, far to the north, or in deserts. However, they are renowned throughout the world as masters of their craft and often attract students of all races, despite rarely leaving their homes.
-
-#### Halfling Wanderers
-Halflings have no permanent home beyond the road. Traveling caravans of halflings follow long trading circuits, bringing goods and wealth from far away to new communities. Other groups sail the seas. Some halflings settle in human communities, as well, and like dwarves they can be found in most places in the world.
-
-#### Lizardfolk Conclaves
-Lizardfolk form small, dispersed communities in sheltered natural areas throughout the world, largely but not exclusively near water. Particularly notable settlements can be found south and east of Chardon, and on the frontier between Sembara and Cymea.
-
-#### Elven Cities
-The cities of the elves are hidden now, and no longer centers of wonder and magic open to the world. No one really knows where all the elves have gone -- or even if they survived the Great War -- although an occasional elven traveler makes a home for themselves outside their homelands.
+The most numerous species on Taelgar is the humans, created by the creator gods themselves and imbued with the Divine Spark, the power to 
 
 #### Other Races 
 
