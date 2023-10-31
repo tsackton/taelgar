@@ -3,7 +3,7 @@ aliases: [Tollen]
 ---
 # The Free City of Tollen
 
-A bustling port on the [[River Volta|Volta]] River, which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply [[the Green Sea]], bringing back goods from near neighbors as well as the far East. Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[dwarves]], [[stoneborn]], [[lizardfolk]], and even [[Elf|elves]] and stranger species can be found living together. 
+A bustling port on the [[River Volta|Volta]] River, which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply [[the Green Sea]], bringing back goods from near neighbors as well as the far East. Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[Dwarves]], [[stoneborn]], [[lizardfolk]], and even [[Elf|elves]] and stranger species can be found living together. 
 ## History
 
 Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
