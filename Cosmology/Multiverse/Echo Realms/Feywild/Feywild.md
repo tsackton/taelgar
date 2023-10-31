@@ -1,22 +1,6 @@
 ## The Feywild
 
-## People
-
-The echo realm of the fey, home to the realms of the Archfey and many other creatures. 
-
-The people of the Feywild are generally referred to as [[Fey]] or faerie as a whole, but within that category there are distinctions both obvious and subtle. 
-
--   The most common [[Fey]] are the humanoid, generally human looking people just know as “[[Fey]]”. The [[Fey]] are usually elegant and graceful humanoids, generally human-like or elf-like in appearance, who could pass for humans in the right circumstances, although usually their eyes and demeanor give them away. 
-    
--   The sometimes mischievous, sometimes helpful, and always magical flying fairies are also found in the feywild. These fey are usually small, and include creatures like the pixies, sprites, brownies, and other fairies.
-
--   The original archfey, at the dawn of the multiverse, were responsible for the awakening of many animals. Some of these now inhabit the Feywild as beastfolk of various kinds. Most famous and most common are the horned satyrs; rarer are the harengons (rabbit-folk) and owlins (owl-folk), and perhaps other creatures. While many of these fey have a fixed animal form, others are more like [[Humans]] with animal features. 
-    
--   [[Centaurs]], are more likely to be found in the material world of Taelgar, however some are found in the Feywild for various reasons.
-
-%% Notes on [[Centaurs]]: They were created by the archfey in the early days of the multiverse, just as satyrs and others. However, when the feywild was separately from the material plane, the [[Centaurs]] stayed, becoming tied to the world of Taelgar itself, seeing themselves as the guardians of Taelgar. In the current day, most [[Centaurs]] remain in the material plane, traveling and protecting the land of Taelgar itself. However, they are fey creatures, and some do find their way back to the feywild, for various reasons.  %%
-    
--   Throughout the feywild, there are also innumerable dryads, nymphs, and other spirits of the land. These fey are typically strongly tied to a particular place, rarely traveling. 
+The echo realm of the fey, home to the realms of the Archfey and the [[Fey]]
 
 ## Locations
 
