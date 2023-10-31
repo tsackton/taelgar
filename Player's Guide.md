@@ -4,7 +4,7 @@ This short guide provides an overview to the races of Taelgar, magic and religio
 
 >[!info] The world of Taelgar is free of misogyny, racism, homophobia and gender panics. Characters should be men, women, or something else without fear it will limit their opportunities or that villagers will have historically accurate attitudes. It's a magical place created by the made up gods. Realistic sexism, homophobia, transphobia, and racism is pointless and unfun.
 
-Taelgar draws inspiration from many sources, especially classic D&D settings, high fantasy, and world history. Magic is rare and powerful, but once was much more common; while humans dominate much of the world, they live alongside dwarves, halflings, and other sentient species. 
+Taelgar is a world of good and evil, where valiant heroes strive against the forces of darkness, created by evil gods seeking to undo all existence. While there is room in Taelgar for all kinds of stories and many shades of gray, many tales in Taelgar feature unredeemable evil, unambiguous villains, and noble heroes. Taelgar draws inspiration from many sources, especially classic D&D settings, high fantasy, and world history. Magic is rare and powerful, but once was much more common; while humans dominate much of the world, they live alongside dwarves, halflings, and other sentient species. 
 
 This document and the links here contain a wealth of information, representing years of playing. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The vibes are more important than the names and the detail: read what strikes your fancy. 
 

@@ -130,16 +130,6 @@ The runic choices available to your dwarven character are listed here, in alphab
 - ***Courage of the Bahrâzel (mastery, minimum level 3):*** You learn the *Heroism* spell. You can cast it once with this trait. If you cast this spell with this trait and target only yourself, your concentration on this spell cannot be ended by taking damage. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
 # Backgrounds
 
-Your background consists of the following features:
-- **Ability Scores.** When you determine your character’s ability scores, choose two of them, and increase one by 2 and the other one by 1. Alternatively, choose three ability scores, and increase each of them by 1.
-- **Skill Proficiencies.** Choose two Skills. Your character gains Proficiency in them.
-- **Tool Proficiency.** Choose one tool. Your character gains Tool Proficiency with it.
-- **Language.** Choose one language. Your character knows that language.
-- **Feat.** Choose one 1st-level Feat. Your character gains that feat.
-- **Equipment.** Your character gains 50 GP to spend on starting equipment. The character keeps any unspent GP as spare coin.
-
-You may optionally choose to forgo the **Language** feature, instead choosing a second **Tool Proficiency**, or vice versa.
-
 Sample backgrounds for each thuhr, representing the typical training and experience of members of that thuhr, are presented below, although these do not include specific equipment. **These can be customized by replacing any feature in the sample background with the feature of the same name listed above.**
 
 Note that feats marked with a * in sample backgrounds are from Unearthed Arcana documents. 

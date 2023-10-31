@@ -4,6 +4,8 @@ speciesDescriptor: dwarf
 ---
 # Dwarf
 
+This page contains lore information about dwarves. For details on character creation and playing a dwarf, see [[Playing a Dwarf]].
+
 ![[dwarven-hall-of-gems.png]]
 
 > [!quote] Dwarven Prayer of Naming, excerpt
@@ -39,11 +41,11 @@ All adult dwarves who have completed their naming rite are also a member of a th
 When a young dwarf learns their thuhr, they will usually apprentice to an elder of the same thuhr to learn a vocation, often traveling far from home for this purpose. The thuhr connect dwarves across clans, and play an important role in keeping dwarven society peaceful and resolving conflicts between clans. Rare Binthuhr dwarves (adults who never completed their pilgrimage to [[The Heart of the Mountain]], and thus never learned their thuhr) challenge the strict traditions of the race and are usually outcasts from dwarven society.
 #### Slow To Trust
 
-Dwarven kingdoms are generally friendly to other races, but are rarely close allies. They tend to treat “younger” races, especially [[halflings]] and humans, as valuable members of the kingdom, but generally still as outsiders.
+Dwarven kingdoms are generally friendly to other races, but are rarely close allies. They tend to treat “younger” races, especially [[Halflings]] and humans, as valuable members of the kingdom, but generally still as outsiders.
 
 However, dwarven kingdoms are often close allies with the Stoneborn, who share their mountain home and a long history of alliance in battle.
 
-Dwarven kingdoms rarely have extensive relations with elven society. Although dwarves generally treat [[Elf|elves]] as elders due respect, their rulers and diplomats tend to tire of the [[Elf|elves]] haughty attitudes quickly, as dwarves do not see themselves as children of the world.
+Dwarven kingdoms rarely have extensive relations with elven society. Although dwarves generally treat [[Elves|elves]] as elders due respect, their rulers and diplomats tend to tire of the [[Elves|elves]] haughty attitudes quickly, as dwarves do not see themselves as children of the world.
 ### Clans, Kings, and Cities
 
 Dwarven society is generally conserative and strongly hierarchical, organized around ties of honor among kin, thuhr, and clan. Family units tend to live close together in large extended families, and any dwarves’ first loyalty is to the matriarch or patriarch of their family. Dwarven kingdoms stretch deep underground, connecting dwarves to the mineral wealth of the mountains that is the source of much of their livelihood and trade. Some dwarven kingdoms spread extensively above ground, reaching into the foothills and valleys of their mountain homes. Members of other races, especially halflings, stoneborn, and humans, often live in these above ground settlements harmoniously, yet are rarely treated as a full part of the community. Despite their close knit societies, many dwarves have chosen to live among humans in their cities, where they are often skilled artisans or sought-after as mercenaries or bodyguards.

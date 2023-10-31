@@ -4,17 +4,17 @@
 
 The echo realm of the fey, home to the realms of the Archfey and many other creatures. 
 
-The people of the Feywild are generally referred to as [[fae]] or faerie as a whole, but within that category there are distinctions both obvious and subtle. 
+The people of the Feywild are generally referred to as [[Fey]] or faerie as a whole, but within that category there are distinctions both obvious and subtle. 
 
--   The most common [[fae]] are the humanoid, generally human looking people just know as “[[fae]]”. The [[Fae]] are usually elegant and graceful humanoids, generally human-like or elf-like in appearance, who could pass for humans in the right circumstances, although usually their eyes and demeanor give them away. 
+-   The most common [[Fey]] are the humanoid, generally human looking people just know as “[[Fey]]”. The [[Fey]] are usually elegant and graceful humanoids, generally human-like or elf-like in appearance, who could pass for humans in the right circumstances, although usually their eyes and demeanor give them away. 
     
 -   The sometimes mischievous, sometimes helpful, and always magical flying fairies are also found in the feywild. These fey are usually small, and include creatures like the pixies, sprites, brownies, and other fairies.
 
--   The original archfey, at the dawn of the multiverse, were responsible for the awakening of many animals. Some of these now inhabit the Feywild as beastfolk of various kinds. Most famous and most common are the horned satyrs; rarer are the harengons (rabbit-folk) and owlins (owl-folk), and perhaps other creatures. While many of these fey have a fixed animal form, others are more like [[humans]] with animal features. 
+-   The original archfey, at the dawn of the multiverse, were responsible for the awakening of many animals. Some of these now inhabit the Feywild as beastfolk of various kinds. Most famous and most common are the horned satyrs; rarer are the harengons (rabbit-folk) and owlins (owl-folk), and perhaps other creatures. While many of these fey have a fixed animal form, others are more like [[Humans]] with animal features. 
     
 -   [[Centaurs]], are more likely to be found in the material world of Taelgar, however some are found in the Feywild for various reasons.
 
-%% Notes on [[centaurs]]: They were created by the archfey in the early days of the multiverse, just as satyrs and others. However, when the feywild was separately from the material plane, the [[centaurs]] stayed, becoming tied to the world of Taelgar itself, seeing themselves as the guardians of Taelgar. In the current day, most [[centaurs]] remain in the material plane, traveling and protecting the land of Taelgar itself. However, they are fey creatures, and some do find their way back to the feywild, for various reasons.  %%
+%% Notes on [[Centaurs]]: They were created by the archfey in the early days of the multiverse, just as satyrs and others. However, when the feywild was separately from the material plane, the [[Centaurs]] stayed, becoming tied to the world of Taelgar itself, seeing themselves as the guardians of Taelgar. In the current day, most [[Centaurs]] remain in the material plane, traveling and protecting the land of Taelgar itself. However, they are fey creatures, and some do find their way back to the feywild, for various reasons.  %%
     
 -   Throughout the feywild, there are also innumerable dryads, nymphs, and other spirits of the land. These fey are typically strongly tied to a particular place, rarely traveling. 
 
@@ -50,7 +50,7 @@ The fey themselves also follow specific rules and customs.
 
 -   Pretty much all of the feywild is part of realms of various Archfey and Fey Lords. Each fey lords domain can be fairly different - some have glittering courts, even cities, while others are extremely wild, and many are in between; some are largely pleasant and friendly, others hostile or malicious. Some are pretty strict about policing their boundaries, others let anyone pass, still others are hidden and cannot be found by ordinary means. The transitions are often not obvious to non-fey (but all fey can easily sense these borders) and catching someone trespassing is an easy way the fey lords use to lure the unknowing or unwitting into deals and bargains.
     
--   The archfey and fey lords that rule the domains of the feywild generally owe their allegiance to either the Seelie Court or the Unseelie Court. While crudely considered "good" and "evil" fey by unknowing [[humans]], the real differences between them are subtler and more complicated, with the Seelie Court generally associated with protocol and the trappings of civilization, and the Unseelie Court generally associated with indulgence of primal instincts and a much more chaotic vibe. There are also independent archfey that shun the conflict of the Seelie and Unseelie courts and hold themselves neutral. 
+-   The archfey and fey lords that rule the domains of the feywild generally owe their allegiance to either the Seelie Court or the Unseelie Court. While crudely considered "good" and "evil" fey by unknowing [[Humans]], the real differences between them are subtler and more complicated, with the Seelie Court generally associated with protocol and the trappings of civilization, and the Unseelie Court generally associated with indulgence of primal instincts and a much more chaotic vibe. There are also independent archfey that shun the conflict of the Seelie and Unseelie courts and hold themselves neutral. 
 
 
 %%
