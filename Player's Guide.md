@@ -5,6 +5,10 @@ This short guide provides an overview to the races of Taelgar, magic and religio
 >[!info] The world of Taelgar is free of misogyny, racism, homophobia and gender panics. Characters should be men, women, or something else without fear it will limit their opportunities or that villagers will have historically accurate attitudes. It's a magical place created by the made up gods. Realistic sexism, homophobia, transphobia, and racism is pointless and unfun.
 
 Taelgar draws inspiration from many sources, especially classic D&D settings, high fantasy, and world history. Magic is rare and powerful, but once was much more common; while humans dominate much of the world, they live alongside dwarves, halflings, and other sentient species. 
+
+This document and the links here contain a wealth of information, representing years of playing. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The vibes are more important than the names and the detail: read what strikes your fancy. 
+
+For more information about character creation, please see the [[Character Creation Guide]].
 ## Geography and Culture
 
 The known world of Taelgar stretches 2,500 miles from the great city of [[Chardon]] in the West, to the shores of [[the Green Sea]] in the east.
@@ -48,127 +52,49 @@ The oldest sentient species on known as the Elder Folk, created by the influence
 - The dwarves, brave and bold, skilled in stonework, craft, and battle, dwelling in vast underground kingdoms beneath the mountains of the world. Keepers of history and tradition, dedicated to clan, and thuhr, the combination of secret society, craft guild, and religious order that all dwarves join when they reach the age of maturity. 
 - The halflings, full of song, light of foot, fond of travel and trade, food and stories. The halflings have no homeland, wandering the world instead, always seeking the next path, the next story, and maintaining their communities through a mystical shared memory. Halflings are the most numerous of the Elder Folk, found in all corners of the world, wherever other sentient species have stories to tell and goods to trade. 
 
-The most numerous species on Taelgar is the humans, created by the creator gods themselves and imbued with the Divine Spark, the power to 
+The most numerous species on Taelgar is the humans, created by the creator gods themselves and imbued with the Divine Spark, giving their belief the power to create and sustain the incorporeal divinities. Humans have spread through all corners of the world, and numerous diverse human cultures and civilizations exist in Taelgar. 
 
-#### Other Races 
+While humans and the Elder Races are the most commonly seen in the cities of Taelgar, many other species inhabit the world of Taelgar. From the Feywild, **satyrs**, **fae**, and **fairies** sometimes make a home in Taelgar, and rumors of stranger fey, **changelings** that can shift their form are persistent. The **centaurs**, guardians of the natural order of the world, follow their mysterious migrations across the wildlands. Although **kenku** infrequently venture from their homelands in the north, these flying bird people are sometimes seen in the cosmopolitan cities of the Green Sea. 
 
-While humans and the Elder Races are the most commonly seen in the cities of Taelgar, many other races exist. From the Feywild, **satyrs** and **fairies** sometimes make a home in Taelgar, and rumors of stranger fey, creatures that can shift their form like **changelings** and **shifters**, are persistent. The **centaurs**, guardians of the natural order of the world, follow their mysterious migrations across the wildlands. The **Peronar**, the halfborn, part elf and part human, once the protectors and nobility of the ancestral homeland of humans on Hkar, now are thought gone, but whether they still linger in some forgotten refuge is unknown. Rumors exist of **orcs**, freed from the curse of the God of War, making a home for themselves far from the meddling influence of humanity, and even some **goblins**, fled from the authoritarian rule of their hobgoblin masters, may be found trying to make their way in the larger cities of the world.
+Rumors exist of **orcs**, freed from the curse of the God of War, making a home for themselves far from the meddling influence of humanity, and even some **goblins**, fled from the authoritarian rule of their hobgoblin masters, may be found trying to make their way in the larger cities of the world. **Kobolds**, the children of dragons, make mischief wherever they are found. Most people know **hobgoblins** as cold-hearted authoritarians with no regard for the gods or morality, but whether this is the fixed destiny of all of that species is not known with certainty by the scholars of this age. 
 
-**Kobolds**, the children of dragons, make mischief wherever they are found. Most people know **hobgoblins** as cold-hearted authoritarians with no regard for the gods or morality, but whether this is the fixed destiny of all of that race is not known with certainty by the scholars of this age. And rumors of stranger things persist: the **catfolk** from the distant deserts and lands to the east and south; small **gnomes**, the surface-dwelling distant cousins of dwarves; the flying bird people the **kenku**, who retreated to the far north after the Great War; the underwater kingdoms of the **merfolk** who rarely emerge to visit the terrestrial world; and perhaps even stranger things in the distant corners of the vast world of Taelgar.
+And rumors of stranger things persist: small **gnomes**, the surface-dwelling distant cousins of dwarves; the underwater kingdoms of the **merfolk** who rarely emerge to visit the terrestrial world; and perhaps even stranger things in the distant corners of the vast world of Taelgar.
+## Religion and Divinity
 
+Many diverse deities can be found across the lands of Taelgar. The high gods, Arhat and Malik, who created the cosmos and embody the essence of divinity itself, take on many names among the sentient beings of Taelgar, though are rarely worshipped directly. The embodied gods, created by Arhat and Malik, are worshipped as the Firstborn by the species they created. The incorporeal gods, given form by the ineffable Divine Spark of humanity, form the basis of the diverse religions of humans on Taelgar. 
+### Embodied Gods
+The direct creations of the Divine, the embodied gods were given physical form by the High Gods, given permanence and consciousness, and the Divine power to create. Not dependent upon belief for their power, the embodied gods created people in their image.
 
-## Religion and Cosmology
+The Firstborn, created by Arha and Malik, gave rise to the Elder Folk: 
+- Aldanor and Elmerca, the Living Tree and the Wild Star of the elves
+- Entamba, the Elder Mountain of the stoneborn
+- Hazkunde, Bero, Udazkena, and Negu, known as Spring, Summer, Autumn, and Winter, the four Tharzen Anzinakoa of the lizardfolk
+- the Ruler, Runemaster, Priest, Warrior, Traveler, Stoneworker, and Farmer, the seven Bahrazel of the dwarves
+- Nwana, called the Stranger-Child, Obito, called the Merchant-Musician, and Jemghari, called the Traveler-Storyteller, the two-faced First Ones of the halflings.
 
+Evil creeps into the world through the children of the Three Despairs, the corrupted divinities of that which seeks to unmake creation:
+- Thark, the God of War Without End, who gave rise to the orcs, and through his compulsion drives them to violence for the sake of violence
+- Ghesyn, the Goddess of the End, also known as the Hopeless One, the Eater of Souls, and the protector of undeath
+- The Endless Chaos
+- The Mad One, the embodied avatar of Jinnik, the patron divinity of lycanthropy
+### Incorporeal Gods
+These gods are sustained by the belief of their human worshippers. While they can be very powerful, and have the strength to act in the world itself, their power in Taelgar waxes and wanes with the strength of their worshippers’ belief. The following religions are common in the northwestern corner of Taelgar:
 
-## Magic
-
-Taelgar is a world rich in magic. While it comes in many flavors, fundamentally all magic in Taelgar is ultimately extra-planar energy flowing into Taelgar. The Firstborn races have their own racial magics that draw power from connections to their Divine creators. While the exact nature of these racial magics is not always widely known, rumors abound of elves manipulating the essence of magic itself, of dwarves and their runes of power, of lizardfolk and their connection to the realm of spirits, of halfling telepathy, of stoneborn able to change their bodies and strengthen there minds. While humans do not have racial magic, all races can learn through prayer and study how to draw magic from the Divine into Taelgar. This is the magic of clerics and paladins.
-
-Some magic users learn to draw energy from the planes that are echoes of Taelgar itself, such as the dreamworld, the realms of the fey, and the dark energy of the shadow plane.
-Druids and rangers, who draw on the magical resonances within the natural world itself, are this type of caster. Other magic users draw energy from the wild chaos of the
-Plane of Magic itself, which intersects with Taelgar at connections known as ley lines. This arcane magic can be learned, as is done by wizards or bards, or it can be innate, as
-is the case for sorcerers. Rumors abound of magical energy drawn from the Plane of
-Consciousness, sometimes called the Plane of Souls, power that can be used to manipulate the world with mental force alone. And other magic users exist as well, such as warlocks
-who gain their power through pacts with extraplanar entities.
-
-## Languages
-
-Availability of magic and magical communication and travel, while rare, is frequent enough to encourage the spread of common trade tongues. In the part of Taelgar that is the focus of this guide, the primary trade tongue spoken is Common, the shared lingua franca of all areas that were at one time under the sphere of influence of the Drankorian empire, and some adjacent areas, including the Dunmari, and most parts of Varstok and Skagenland. Many non-human creatures also know Common, which allow communication among creatures of disparate backgrounds. At the DM's discretion, conversing in trade tongue may lack nuance, and slightly increase the difficulty of any ability check that relies on clear understanding of meaning. ***This is a work in progress and details may change as new areas of the world are explored in play. Characters will always have an opportunity to retcon their language choices if elements of this section are revised.***
-#### Human Languages
-* **Drankorian**: The original language of the Drankorian empire. While no longer commonly spoken, it is still used as a scholarly language in Chardon and parts of Sembara. Drankorian shares an alphabet and some similarities with Sembaran, Chardonian, and Cymean.
-    * **Sembaran**: A number of related languages and dialects spoken in Sembara, parts of Vorstok, and Cymea. Derived from Drankorian.
-    * **Chardonian**: A number of related dialects and languages spoken in Chardon and areas west of mountains. Derived from Drankorian.
-    * **Cymean**: A number of related dialects and languages spoken on the Cymean peninsula and along the coast of the Green Sea south of Cymea.
-* **Dunmari**: A number of related languages derived from a southern tongue, unrelated to Drankorian, and spoken primarily in Dunmar. Adopted the Drankorian alphabet, however.
-* **\<Unnamed Eastern Language>:** The language of the original people to settle the Green Sea. While now largely extinct, this alphabet lives on in the languages derived from it.
-    * **Skaegish**: A group of ancient languages spoken by the Skaer. Uses the same writing as old languages in Tywingha and highland areas of Sembara, although those old languages are largely extinct. Uses the Eastern alphabet.
-    * **Highlander**: A number of related languages spoken by some of the highlanders and in the far north of Vostok. Related to Skaegish, but has diverged significantly. Uses the Eastern alphabet.
-* **Northlander**: A number of related ancient languages spoken by the original inhabitants of the lands west of the mountains, still spoken by a number of Northerlander communities.
-
-#### Non-Human Languages
-* **Elder tongues**: The Elder races, created by the Embodied Gods, were endowed with language and writing by their creators. While some of these languages are commonly learned by non-native speakers, others are mysterious.
-    * **Dwarvish:** The language of the dwarves, uses a runic script, often learned by outsiders and traders who want to engage in commerce with the dwarven kingdoms.
-    * **Elvish:** The language of the elves, and often associated with magic. Frequently learned by scholars of magic or history. 
-    * **Lizarding:** The language of the lizardfolk. Often learned by those who spend time living in lizardfolk communities.
-    * **Halfing:** The secretive and rarely taught language of the halflings, made even more difficult for outsiders to learn given the expectation that speakers of this language will use telepathic cues for emphasis. 
-    * **Stoneborn:** The language of the Stoneborn. Often learned by those who spend time in Stoneborn communities.
-* **Goblin:** The language invented by the hobgoblins, and spoken by goblinoids of all types, as well as many of the servants and slaves of hobgoblins. Uses its own invented alphabet. While not commonly heard in the cities of Taelgar, it is not difficult to learn.
-* **Orcish:** The language gifted to the orcs by Thark, the God of War. While few outsiders speak this language or understand its unique alphabet, those who would engage with orcs in combat or negotiation (to the extent such a thing is possible) do sometimes find a way to learn this tongue.
-* **Giant:** The language created by the elder titans of old, and now spoken by the giants and their descendants. Often learned by scholars, or traders who would venture to giant settlements. Commonly learned by dwarves, especially those of the central mountains.
-* **Deep Speech:** This language is more a rumor than a known fact, but is suspected to be the tongue of the alien abberations of the underdark, notably the mind flayers, their slaves and the twisted creations. Difficult to learn.
-* **Draconic:** The language of dragons. Few learn the pure, **High Draconic** tongue of the ancient wyrms of old. More commonly heard in Taelgar is **Low Draconic**, the native tongue of kobolds and lesser dragons. However, these tongues are mutually intelligeble, and *PCs should simply take Draconic as a language and not worry about the distinction between low and high dialetcs.*
-* **Centaur:** The language of centaurs. Uses the Elvish alphabet. Something that many might learn, although most centaurs speak Elvish, Sylvan, or both in addition to their own tongue, and most outsiders who must speak with them do so in one of those tongues. 
-* **Rare tongues:** Many other creatures in the world of Taelgar speak a language of their own, including many of the unusual or rarer races in the world. These might include the strange language of clicks and hisses the **Giant Eagles** speak, or the strange demonic-influenced barking tongue of **Gnolls.** Most of these are difficult, if not impossible, to learn to speak without magic (and few have a written alphabet).
-* **Extraplanar languages:** Time and space do not work on the other planes as they do on the material plane, and each plane tends to be represented by a single language. These are typically difficult, although not impossible, for outsiders to learn.
-    * **Sylvan:** The language of the Feywild, of satyrs and fairies and others. The most common extraplanar language to be learned by natives of the material plane.
-    * **Shadowkar:** The language of the Shadowfell.
-    * **Primordial:** The four related languages of the elemental planes (**Aquan**, **Auran**, **Terran**, **Ignan** for the planes of water, air, earth, and fire respectively).
-    * **Abyssal:**  The language of the chaotic demons of the Abyss
-    * **Infernal:** The language of devils and others native to the Nine Hells
-    * **Celestial:** The language of the divine and all the creatures native to the Divine Realms.
-
-
-## Religon
-Many religions can be found across the lands of Taelgar, and many gods and goddesses are worshipped by the people of
-Taelgar. Belief and worshop has the power to shape the essence of the Divine, and so religions that prosper usually have strong gods, and those that fade usually have weak gods. Theologians who have studied the nature of the Divine teach that ultimately all the gods are but manifestations of the True Divine, the duality of Arhat (creation) and Malik (destruction), the truth at the center of the Divinity, but for most people the gods of their faith are more approachable than the unknownable essence of the true Divinity. Some of the major religions are briefly detailed below, although other gods are worshipped across the land.
-
-### Mos Numena
-The practices and traditions associated with the worship of the Eight Divines are known, broadly, as Mos Numera, from the Drankorian for the Way of the Divine, although in common usage these worship traditions are usually just called ‘the Way’.
-
-This tradition is a set of practices, rituals, and beliefs that have grown up aroun the worship of the Eight Divines, and broadly, follows several basic tenets:
-
-* The gods have a personal relationship with all, and priests are not the only source of prayer and blessing
-* Practices, places, and people who have been blessed in the past are more likely to be blessed in the future
-* The gods speak to humans in signs, riddles, and omens -- rarely are they clear
-
-The Eight Divines are:
-
-* The Mother (goddess of birth, fertility, spring, healing,
-wisdom, associated with the moon)
-* The Father (god of light, order, justice, summer, associated
-with the sun)
-* The Night Queen (goddess of darkness, death, sleep,
-winter, associated with the night)
-* The Warlord (god of war, vengeance, smiths, autumn,
-associated with day)
-* The Sibyl (goddess of magic, knowledge, love, beauty)
-* The Wanderer (god of travel, trade, strangers, and
-outcasts)
-* The Wyrdling (genderless diety of chaos, luck, fate,
-storms, and weather)
-* The Wilding (genderless diety of nature and elements)
-
-
-### The Kestavo
-The Kestavo is the ancient religion of northern Sembara and the Highlands, and is still practiced in some places in the highlands. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to Ako, the Divine. 
-
-Although most kestavo are worshipped only by the people of their particular town or village, some kestavo have gained great fame and pilgrims come from far and wide to their shrines to ask for blessings to be passed along to Ako. These include:
-
-* Romil, the glacier king, with his shrine in the tallest mountains in the north
-* Kamak, the lurker, who dwells at the bottom of the great Lake Kamchak
-* Besla, who came to the land in the ancient days from the Green Sea, and each spring asks Ahra to send the waters of her homeland to her for company, and thus brings the monsoon rains.
-
-The kestavo are not the only spirits in the land, however. The cruel west wind, Ziva, and Vacla, the fire-below, have many offspring, the vazska. These spirits must be appeased or driven off, or they bring misfortune.
-
-### The Five Siblings of the Dunmari
-The religion of the Dunmari is an old religion, adapted and evolved from the old ways when the Dunmari were a nomadic people living far to the south, before they settled among the ruins of Drankor. The Dunmari worship a family pantheon, the Five Silbings, along with other minor gods and goddesses. Dunmari temples are typically pentagonal, representing the five major deities:
-
-* Jeevali, the goddess of life, rebirth, home, and family; often the major diety associated with temples that are the
-center of worship in villages and small temporary settlements across Dunmar.
-* Laka, the god of knowledge, agriculture, and the seasons; often associated with centers of learning.
-* Aagir, the god of war, fire, and death; protector of soldiers 
-* Sonkar, the goddess of beauty, truth, artisans, and justice;
-* Chidya, the goddess of nature, the land, animals, and weather; worshiped especially by herders and shepherds and those who live a nomadic life
-
-### Non-Human Religions
-While many non-humans have their own gods and religions, of particular note are the Elder races, whose deities, the Firstborn hold a special place in Taelgar mythology. These are:
-
-* Aldanor (the living tree) and Elmerca (the wild star) of the
-elves
-* Entamba, the mountain god of the Stoneborn
-* the Tharzen Anzinakoa, the spirit gods of the Lizardfolk
-* the seven Bahrâzel, founding creators of the dwarves
-* the First Ones, the gods of the halflings.
-
-Little is known of the worship practices of the elder races.
-
+- The Eight Divines, the dominant pantheon of the Drankorian Empire, since spread to many cultures and civilizations that grew out of that Empire. The traditions associated with the worship of the Eight Divines are known, broadly, as Mos Numera, from the Drankorian for the Way of the Divine, although in common usage these worship traditions are usually just called ‘the Way’. The Eight Divines are: 
+	- The Mother (goddess of birth, fertility, spring, healing, wisdom, associated with the moon)
+	* The Father (god of light, order, justice, summer, associated with the sun)
+	* The Night Queen (goddess of darkness, death, sleep, winter, associated with the night)
+	* The Warlord (god of war, vengeance, smiths, autumn, associated with day)
+	* The Sibyl (goddess of magic, knowledge, love, beauty)
+	* The Wanderer (god of travel, trade, strangers, and outcasts)
+	* The Wyrdling (genderless diety of chaos, luck, fate, storms, and weather)
+	* The Wilding (genderless diety of nature and elements)
+* The Kestavo, an ancient religion still practiced in some places in the Sembaran highlands, and in Vostok. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to Ako, the Divine.
+* The Five Siblings of the Dunmari, the pantheon of the Dunmari people, brought with them from their distant ancestral homeland during their migration after the fall of Drankor. A family pantheon, with five major divinities: 
+	* Jeevali, the goddess of life, rebirth, home, and family;
+	* Laka, the god of knowledge, agriculture, and the seasons
+	* Aagir, the god of war, fire, and death; protector of soldiers 
+	* Sonkar, the goddess of beauty, truth, artisans, and justice;
+	* Chidya, the goddess of nature, the land, animals, and weather; worshiped especially by herders and shepherds and those who live a nomadic life
+- The tanshi, the small gods of the Deno'qai, who accept small sacrifices from their worshippers in exchange for carrying prayers
+- Kaikkea, the ancient ocean mother, worshipped by the monotheistic mariner people of Skaerhem. 
