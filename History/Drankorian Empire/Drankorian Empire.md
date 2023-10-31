@@ -10,7 +10,7 @@ The Drankorian Empire grew out of the city of Drankor, founded near the mouth of
 
 - 1 DR: The city of [[Drankor]] is founded by refugees from [[Hkar]] fleeing the wars of [[The Downfall]]
 - 169 DR: Celadir is proclaimed the first Emperor of [[Drankor]], laying claim to the coastal plains and the rich Crescara river valley.
-- 402 DR: The Treaty of Marhavn ('Mar-hahvn'), signed by Emperor Goristo, establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.
+- 402 DR: The [[Treaty of Marhavn]] is signed by Emperor Goristo, and establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.
 - 525-528 DR: The Demonfire Wars, fought against a severe abyssal incursion. Emperor Ingwelir, a renowned wizard and warrior, died at the gates of Drankor defending the city against a demon lord. 
 - 528-595 DR: The Peace of Drankor, a time of peace and prosperity in the aftermath of the Demonfire Wars. Ended by the fratricide of Oros the Cruel. Later known as the First Peace or the First Golden Age. 
 - 597 DR: The Battle of Yaroket ("Yah-roh-keht"), won by Drankor in the Myraeni Gap, begins the Western Wars and the conquest of the western coast by Drankor
