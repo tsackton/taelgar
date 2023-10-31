@@ -40,7 +40,7 @@ whereabouts:
 Chief Lubash is the stern and protective ruler of [[Xurkhaz]], and by extension the [[People of the Rainbow]]. He is also the bearer of the [[Mantle of Protection]].  Lubash holds immense pride for his kingdom, [[Xurkhaz]], and resides in [[Uzgukhar]].
 ## Overview
 
-Chief Lubash ascended to the throne of [[Xurkhaz]] three years prior. He took over rulership after a tragic event where his older brother, along with his brother's wife and child, were killed by marauding hill [[giants]] during a royal tour. As a ruler, Lubash is marked by his intense pride in [[Xurkhaz]] and a deep-seated mistrust of gods.
+Chief Lubash ascended to the throne of [[Xurkhaz]] three years prior. He took over rulership after a tragic event where his older brother, along with his brother's wife and child, were killed by marauding hill [[Giants]] during a royal tour. As a ruler, Lubash is marked by his intense pride in [[Xurkhaz]] and a deep-seated mistrust of gods.
 ## Description
 
 Lubash has a pale green complexion and is bald. His features are striking, characterized by a long, stern face and a notably large nose.
@@ -51,7 +51,7 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 - **[[Azogar]]**: Lubash's loremaster and confidante. 
 ## Events
 
-- Came to power in DR 1745 after his older brother's family was killed by hill [[giants]].
-- In DR 1748-1749, led the [[orcs]] of [[Xurkhaz]] in the war against [[Grash]], aided by [[The Dunmar Fellowship]]
+- Came to power in DR 1745 after his older brother's family was killed by hill [[Giants]].
+- In DR 1748-1749, led the [[Orcs]] of [[Xurkhaz]] in the war against [[Grash]], aided by [[The Dunmar Fellowship]]
 
 %%SECRET[1]%%

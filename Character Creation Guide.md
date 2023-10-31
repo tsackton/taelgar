@@ -6,7 +6,7 @@ To create your character, you will need to do the following, in any order:
 - Determine ability scores. We use point buy or standard array (player's choice). 
 - Pick a species (see the Species section, below)
 - Choose a class. Generally any published class or subclass from any sourcebook is fine, excluding partnered content (Critical Role and Magic: The Gathering books). We use D&D Beyond for character sheets; you should have an invitation to a campaign with content sharing. Ask if this isn't working for you. 
-- Pick a background. We use the [Character Origins UA (pdf)](https://media.dndbeyond.com/compendium-images/one-dnd/character-origins/CSWCVV0M4B6vX6E1/UA2022-CharacterOrigins.pdf) for backgrounds. The ability score increases in your background replace the ability score increases granted by your species. We modify these backgrounds to allow a choice of two tool proficiencies, two languages, or one of each. 
+- Pick a background. We use the [Character Origins UA (pdf)](https://media.dndbeyond.com/compendium-images/one-dnd/character-origins/CSWCVV0M4B6vX6E1/UA2022-CharacterOrigins.pdf) for backgrounds. The ability score increases in your background replace the ability score increases granted by your species. We modify these backgrounds to allow a choice of two tool proficiencies, two languages, or one of each. This currently requires homebrew on D&D Beyond; ask if you need something created for you.
 - Pick languages (see the Languages section, below)
 
 You can review the [[Player's Guide]], with lore notes, and the living document of [house rules](https://docs.google.com/document/d/1l2cPIqR7gkvSppYeM6ZBl7Mbf-Sd6qhRyW4HNuwnxfU/edit) as well. 
@@ -14,33 +14,31 @@ You can review the [[Player's Guide]], with lore notes, and the living document 
 
 Taelgar has extensive homebrewed species options, that exist in various stages of revision. Some have been playtested more extensively than others.
 
-The following species are common in cities, towns, and villages all across Taelgar. People you meet will not be surprised by you, and you can expect to meet your kinfolk nearly anywhere. 
-- Humans. Mechanically, humans in Taelgar generally use the standard Variant Human rules. I allow you to pick a feat from the [Feats for Skills UA (pdf)](https://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf), with DM permission. You may also choose to use the Human mechanics from the [Character Origins UA (pdf)](https://media.dndbeyond.com/compendium-images/one-dnd/character-origins/CSWCVV0M4B6vX6E1/UA2022-CharacterOrigins.pdf?icid_source=house-ads&icid_medium=crosspromo&icid_campaign=playtest1)
-- Halflings
-- Dwarves
-- Lizardfolk
-
-The following species are uncommon or rare outside of their homelands in Taelgar. Most people you meet will have heard of your species, but in smaller towns and villages you may be the first of your kind to travel here in a generation or more. You will rarely meet your kinfolk in your travels, unless you seek out an enclave or return to your homeland.
-- Stoneborn. 
-- Elves. While most elves from the major elven settlements in Taelgar would be best represented by the homebrew elven traits, you may also choose to use the [Eldarin](https://www.dndbeyond.com/races/1026386-eladrin)or [Shadar-kai](https://www.dndbeyond.com/races/1026401-shadar-kai) traits to represent an elf with a particular connection to the the Feywild or the Shadowfell. 
-- Centaurs. Mechnically, you use the [Centaur](https://www.dndbeyond.com/races/1026381-centaur).
-- Fae. Mechnically, fae in Taelgar represent a variety of humanoid fairy creatures. You may choose to use the [Fairy](https://www.dndbeyond.com/races/814913-fairy) or the [Hobgoblin](https://www.dndbeyond.com/races/1026393-hobgoblin) mechanics, although if you chose the later, you are considered Fey, not humanoid, and you don't count as a goblinoid.
-- Kenku. Mechanically, you can choose to use either the [Aarakocra](https://www.dndbeyond.com/races/1026377-aarakocra) or the [Owlin](https://www.dndbeyond.com/races/883673-owlin)
-- Satyrs. While satyrs are the most common of the animal-like fey, others may be available at the DM's discretion. 
-- Kobolds
-
-The following species are extremely rare outside of their homelands in Taelgar. Many people you encounter may never have heard of your species, or may believe your kind to be mythical. 
-- Gnomes
-- Changelings
-- Merfolk
-
-The following species are the creations of evil forces - gods of violence and other malevolent divinities. This does not mean that you cannot choose these as playable races, but your character will face serious challenges in human society. 
-- Orcs. Most orcs are bound by a birth ritual to serve Thark, the god of war without end, but rumors persist of free orcs who have escaped these divine bonds. 
-- Goblins. Goblins were created to serve as slaves for their hobgoblin masters, but those who escape are equally likely to be pitied as scorned.
-- Hobgoblins. 
-- Bugbears
+Playable species include the following, in order of unusualness:
+- [[Humans]], the most common species across Taelgar, with a variety of diverse cultures and religions.
+- [[Elves]], [[Dwarves]], [[Lizardfolk]], [[Stoneborn]], and [[Halflings]], known as the Elder Folk, the creations of the embodied gods, the Firstborn of their people. While [[Halflings]], [[Dwarves]], and [[Lizardfolk]] are relatively common travelers among human cities, and can frequently be encountered far from their homelands, [[Elves]] and [[Stoneborn]] are rare, and many commoners will have never met a member of these species before. 
+- [[Centaurs]], fey who have abandoned the feywild and see themselves as the guardians of Taelgar, are not an unusual sight on their travels across human kingdoms, but rarely stay long in human cities. 
+- The various [[Fey]], who are the subject of many wild tales, some true and others not, and while not native to the material plane, are sometimes encountered as visitors to and even residents of human settlements. 
+- The flying [[Kenku]], mysterious and secretive, who rarely leave their northern homelands, but are sometimes seen in the human cities and settlements, especially along the Green Sea. 
+- The trickster [[Kobolds]], descendants of dragons, who are known throughout the world, but rarely welcome in human settlements. 
+- Most [[Orcs]] are mystically bound at birth by a ritual to dedicate their lives to violence in the service of Thark, the god of war without end, but rumors persist across the human world of free orcs who have escaped these bonds. 
+- [[Goblins]], who were created by a malevolent force to serve their [[Hobgoblins|Hobgoblin]] and [[Bugbears|Bugbear]] masters; those who escape are as likely to be pitied as scorned. 
+- Only vague rumors of the mythical [[Gnomes]] and [[Merfolk]] reach the human settlements in northwestern Taelgar. 
 
 Species not listed here are not available to choose as playable race in Taelgar by default. If you would like to play something different from the options here, I am open to discuss whether there is a way for this species to fit into the world of Taelgar, without any promises. 
+## Backgrounds
+
+Your background consists of the following features:
+- **Ability Scores.** When you determine your character’s ability scores, choose two of them, and increase one by 2 and the other one by 1. Alternatively, choose three ability scores, and increase each of them by 1. *These replace the Ability Score increases from your species.*
+- **Skill Proficiencies.** Choose two Skills. Your character gains Proficiency in them.
+- **Tool Proficiency.** Choose one tool. Your character gains Tool Proficiency with it.
+- **Language.** Choose one language. Your character knows that language.
+- **Feat.** Choose one 1st-level Feat. Your character gains that feat. 
+- **Equipment.** Your character gains 50 GP to spend on starting equipment. The character keeps any unspent GP as spare coin.
+
+You may optionally choose to forgo the **Language** feature, instead choosing a second **Tool Proficiency**, or vice versa.
+
+Sample backgrounds for each species are included in the guides for that species. 
 ## Languages
 
 Availability of magic and magical communication and travel, while rare, is frequent enough to encourage the spread of common trade tongues. In the part of Taelgar that is the focus of this guide, the primary trade tongue spoken is Common, the shared lingua franca of all areas that were at one time under the sphere of influence of the Drankorian empire, and some adjacent areas, including the Dunmari, and most parts of Varstok and Skagenland. Many non-human creatures also know Common, which allow communication among creatures of disparate backgrounds. At the DM's discretion, conversing in trade tongue may lack nuance, and slightly increase the difficulty of any ability check that relies on clear understanding of meaning. ***This is a work in progress and details may change as new areas of the world are explored in play. Characters will always have an opportunity to retcon their language choices if elements of this section are revised.***

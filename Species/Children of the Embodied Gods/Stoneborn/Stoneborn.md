@@ -49,7 +49,7 @@ Those that do leave the mountains are generally either outcasts, departing their
 >[!tip] Strange and Foreign
 >Stoneborn tend to find the ambitions and greed that drive other races hard to understand, and rarely live among such folk. While they appreciate a desire for mastery, and the ambition to be the best at something is one that many Stoneborn feel, for them the skill is reward enough, and a desire for fame and fortune is foreign to them.
 >
->The exception is the dwarves, who despite their rigid, hierarchical society and lust for mineral wealth, share a long history of being allies in wars against the [[orcs]] and hobgoblins. Stoneborn still find dwarven society incomprehensible, but the proven loyalty and prowess in war of the dwarven armies has ensured a trusting, if not exactly warm and friendly, alliance.
+>The exception is the dwarves, who despite their rigid, hierarchical society and lust for mineral wealth, share a long history of being allies in wars against the [[Orcs]] and hobgoblins. Stoneborn still find dwarven society incomprehensible, but the proven loyalty and prowess in war of the dwarven armies has ensured a trusting, if not exactly warm and friendly, alliance.
 >
 >Stoneborn also tend to get along well with lizardfolk, who share some of their attitude towards the natural world and their love of their homeland, although Stoneborn find the lizardfolk love of swamps, forests, and and green living things to be strange.
 
