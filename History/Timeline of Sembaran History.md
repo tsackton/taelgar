@@ -3,7 +3,7 @@ DR 300 - DR 431
 ### Overview
 In the aftermath of [[The Downfall]] the land that will become [[Sembara]] is lightly populated. The [[Kestavo|kestavo-worshipping]] [[Highland Kingdoms|highlanders]] live in the foothills of the [[Sentinel Range]], and have spread down the valleys of the great rivers: the [[Semb|Semb]], the [[Volta|Volta]], the [[Teft|Teft]], and the [[Wistel|Wistel]]. Along the coast, [[Skaerhem|Skaer]] mariners raid, intermarry, and settle amongst the highlanders, and a Skaer-dominated mixed culture spreads from [[Tollen]] to the mouth of the [[Semb|Semb]]. The once mighty [[Lizardfolk|lizardfolk]] swamps have mostly disappeared, save for a remnant, [[Ozabal]], at the mouth of the [[Wistel|Wistel]], where a thriving lizardfolk community remains. South of the Wistel is the mixed community of humans, clustered along the coast, united by the their shared allegiance to the [[Archfey Ethlenn]].
 
-Over a series of start-and-start campaigns over 60 years, the Drankorian armies conquer most of the lands between the [[Sentinel Range]] and the [[Green Sea|Green Sea]], save for some of the highland realms in the northern foothills.
+Over a series of start-and-start campaigns over 60 years, the Drankorian armies conquer most of the lands between the [[Sentinel Range]] and the [[Western Gulf]], save for some of the highland realms in the northern foothills.
 ###
 * DR 358: [[Emperor Anates]] campaigns around the [[Mostreve Hills]]
 * DR 360: [[Emperor Anates]] crosses the [[Enst|Enst]] and establishes a garrison at [[Cleenseau]]
