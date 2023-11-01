@@ -74,7 +74,7 @@ Wisym spent two summers (in 1571 and 1572) campaigning in the highlands, but wit
 
 The next year, in DR 1574, a Sembara unprepared for a major attack was assaulted on the western front by a mass organized army of hobgoblins, seemingly allied with a darker horror. Rumors sped west from the battlefields of (something about mind flayers). The hobgoblins overran much of the west and south, and were stopped from overrunning all of Sembara only by great sacrifice. The next 4 years of the Hobgoblin Wars were the bloodiest in Sembara history since the Great War. Although the conflict ebbed and flowed, peace never lasted long, until, after 1578, it seemed that the ferocious (mind flayer allies) were defeated. 
 
-This, the First Hobgoblin War, ends in 1578, with the defeat of the mind flayers. But Sembara is not unified or strong enough to push the advantage and a substantial remanent of the Shattered Ice clan establishes a homeland just south of Urlich and in the upper headwaters of the Enst
+
 
 In 1582, with the Marches of Enford and much of the land south of the Enst still under hobgoblin control, Wisym I dies. 
 
@@ -86,14 +86,3 @@ In the first summer of her reign, in 1582, Elaine plans to launch a major offens
 
 For the next decade, the Shattered Ice clan skirmishes with Sembaran knights on the borders, and slowly expands their territory, pushing especially a wedge south of the Enst between Maseau and Sembara.
 
-In 1590, in alliance with some of the scattered clans of hobgoblins south of the Andonne, the Shattered Ice clan launches an attack on Maseau. Elaine I, the queen of Sembara at the time, refuses to abandon Maseau and embroils Sembara in the war
-
-The Second Hobgoblin War lasts from 1590 until 1602. At the end of it, the hobgoblins control a swath of territory fairly far East from the mountains. But the war faction of the hobgoblins have been defeated and exhaustion sets in.
-
-An uneasy peace is established and the border starts to be fortified (need to look at the map to see where the border would be exactly, but Cleenseau is near it)
-
-This uneasy peace lasts for a generation, but it is never truly peaceful. Skirmishes frequently break out.
-
-In 1644, something happens TBD and Sembara starts a new war with the hobgoblins. But it doesn’t go well. By 1647 the hobgoblin army has swept east almost as far as Fellburn. (Cleenseau is conquered by the hobgoblins at this point)
-  
-Cece raises and army and pushes the hobgoblins out over a series of campaigns and by 1650 the hobgoblins have been pushed into the deep mountains. Cece stops there, fortifies the borders, and turns to internal affairs
