@@ -86,7 +86,7 @@ He awakes the morning of October 20th, a Saturday, with a new feeling: the egg n
 > ![[Treph screenshot.png]]
 > 
 > **Sarlana Silversword** (she/her)
-> A human warrior and aspiring paladin from [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]]. Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
+> A human warrior and aspiring paladin from [[Tollen|Tollen]]. Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
 > 
 > ![[Sarlana screenshot (1).png]]
 

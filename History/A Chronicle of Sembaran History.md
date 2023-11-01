@@ -28,7 +28,7 @@ In DR 1523, shortly after Derik III comes to the throne, he finally launches a c
 
 %%
 
-By DR 1525, Derik III is at least nominally acknowledged as the overlord and high king of all the land from the southern highlands to the northern wall, from [[Sentinel Range]] to the[[Western Gulf]].  In DR 1533, now several years a widower, Derik III marries Jane, the young daughter of an important merchant family in Tollen. 
+By DR 1525, Derik III is at least nominally acknowledged as the overlord and high king of all the land from the southern highlands to the northern wall, from [[Sentinel Range]] to the [[Western Gulf]].  In DR 1533, now several years a widower, Derik III marries Jane, the young daughter of an important merchant family in Tollen. 
 
 Over the next 20 years, Sembara remains a strong and united kingdom as various conflicts spread along its borders, culminating in the [[Great War]].
 
@@ -36,11 +36,11 @@ Over the next 20 years, Sembara remains a strong and united kingdom as various c
 
 DR 1545 - DR 1600; 26 Derik III - 7 Blanche I
 
-After the destruction of the Great War, Sembara experienced just over a year of much needed peace, marked largely by a huge influx of refugees from the south who settled in the [[Duchy of Maseau]] and [[Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Addermarch]]. In DR 1547. the peace is shattered by a large, grim army following from the south on the heels of the refugees -- first a grim hobgoblin army, then a disorganized mass of monstrosities, great beasts, and other fell terrors fleeing something even worse from the south. Sembara fights to a desperate standstill, holding ground in the Mosteve Hills for several years of death and famine. In the fall of 1549, Derik III dies on the battlefield near Valarin -- but in death, he wins a great victory, and a measure of peace for Sembara, as the last great host of hobgoblins is ridden down and killed.   
+After the destruction of the Great War, Sembara experienced just over a year of much needed peace, marked largely by a huge influx of refugees from the south who settled in the [[Duchy of Maseau]] and [[Addermarch]]. In DR 1547. the peace is shattered by a large, grim army following from the south on the heels of the refugees -- first a grim hobgoblin army, then a disorganized mass of monstrosities, great beasts, and other fell terrors fleeing something even worse from the south. Sembara fights to a desperate standstill, holding ground in the Mosteve Hills for several years of death and famine. In the fall of 1549, Derik III dies on the battlefield near Valarin -- but in death, he wins a great victory, and a measure of peace for Sembara, as the last great host of hobgoblins is ridden down and killed.   
 
 Bertam I, Derik’s youngest son, takes the throne in December of 1549, a boy of 11. His mother, Jane, is appointed regent, and Bertram’s entire kingship is dominated by her, a shrewd woman who disliked waste. Bertram is not put forward as an heir by the Tyrwinghan [[Oracle of the Riven]], and instead a local duke ascended to the throne. War-weary, and pragmatic by nature, Jane councils forcefully against any attempt to retake Tyrwingha by might of arms, and focused the kingdom on rebuilding the six duchies. In 1550, Rumors of an endless horde of orcs, and worse, reach Embry from Vostok in this time, and an embassy from several of the Vostok chieftains arrives, but is turned back with only a company of knights to support it, none of whom ever return to Sembara. But whatever chaos consumes the north, little of it reaches the Volta, save for rumors. But Jane and Bertram drop the title “High King of Vostok” from the royal titles and Vostok turns inward for its defenses.  
 
-The year 1551 starts poorly, as winter lingers and it seems like spring will never come. And then, when spring does come, it comes in a season of unseasonably endless rain. Planting is delayed, and worries of famine, and worse spread. That summer, even worse news comes -- a deadly cloud of mists and fog moves north from the old territory of the [[Istabor Alliance]]. Everything -- plants, animals, humans, everything -- dies. Betram is ill-prepared for this threat and Jane pulls the borders close, abandoning the [[Duchy of Maseau]] and [[Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Addermarch]]. The advance of this curse terrifies the population, and this is, in part, what gives these years the name “the Blood Years” as many die. The deadly advance is stopped by mysterious forces. The area south of the Mostove Hills is left uninhabitable, a barren wasteland of ash and dust, and starts being referred to as the Plaguelands. Famine, on top of plague, makes the winter of 1551-1552 one of the worst in memory, and many villages in the west are abandoned. 
+The year 1551 starts poorly, as winter lingers and it seems like spring will never come. And then, when spring does come, it comes in a season of unseasonably endless rain. Planting is delayed, and worries of famine, and worse spread. That summer, even worse news comes -- a deadly cloud of mists and fog moves north from the old territory of the [[Istabor Alliance]]. Everything -- plants, animals, humans, everything -- dies. Betram is ill-prepared for this threat and Jane pulls the borders close, abandoning the [[Duchy of Maseau]] and [[Addermarch]]. The advance of this curse terrifies the population, and this is, in part, what gives these years the name “the Blood Years” as many die. The deadly advance is stopped by mysterious forces. The area south of the Mostove Hills is left uninhabitable, a barren wasteland of ash and dust, and starts being referred to as the Plaguelands. Famine, on top of plague, makes the winter of 1551-1552 one of the worst in memory, and many villages in the west are abandoned. 
 
 Jane does what she can, but many in the kingdom believe that her true loyalties are more closely aligned with Tollen than her own kingdom -- what food there is to spare from the lowlands is often sold to Tollen instead of the highlands, and muttering can be heard in the Aine Hills and further north, of how Jane is not a true Sembaran.
 
@@ -74,7 +74,7 @@ Wisym spent two summers (in 1571 and 1572) campaigning in the highlands, but wit
 
 The next year, in DR 1574, a Sembara unprepared for a major attack was assaulted on the western front by a mass organized army of hobgoblins, seemingly allied with a darker horror. Rumors sped west from the battlefields of (something about mind flayers). The hobgoblins overran much of the west and south, and were stopped from overrunning all of Sembara only by great sacrifice. The next 4 years of the Hobgoblin Wars were the bloodiest in Sembara history since the Great War. Although the conflict ebbed and flowed, peace never lasted long, until, after 1578, it seemed that the ferocious (mind flayer allies) were defeated. 
 
-This, the First Hobgoblin War, ends in 1578, with the defeat of the mind flayers. But Sembara is not unified or strong enough to push the advantage and a substantial remanent of the Shattered Ice clan establishes a homeland just south of Urlich and in the upper headwaters of the Enst
+
 
 In 1582, with the Marches of Enford and much of the land south of the Enst still under hobgoblin control, Wisym I dies. 
 
@@ -86,14 +86,3 @@ In the first summer of her reign, in 1582, Elaine plans to launch a major offens
 
 For the next decade, the Shattered Ice clan skirmishes with Sembaran knights on the borders, and slowly expands their territory, pushing especially a wedge south of the Enst between Maseau and Sembara.
 
-In 1590, in alliance with some of the scattered clans of hobgoblins south of the Andonne, the Shattered Ice clan launches an attack on Maseau. Elaine I, the queen of Sembara at the time, refuses to abandon Maseau and embroils Sembara in the war
-
-The Second Hobgoblin War lasts from 1590 until 1602. At the end of it, the hobgoblins control a swath of territory fairly far East from the mountains. But the war faction of the hobgoblins have been defeated and exhaustion sets in.
-
-An uneasy peace is established and the border starts to be fortified (need to look at the map to see where the border would be exactly, but Cleenseau is near it)
-
-This uneasy peace lasts for a generation, but it is never truly peaceful. Skirmishes frequently break out.
-
-In 1644, something happens TBD and Sembara starts a new war with the hobgoblins. But it doesn’t go well. By 1647 the hobgoblin army has swept east almost as far as Fellburn. (Cleenseau is conquered by the hobgoblins at this point)
-  
-Cece raises and army and pushes the hobgoblins out over a series of campaigns and by 1650 the hobgoblins have been pushed into the deep mountains. Cece stops there, fortifies the borders, and turns to internal affairs

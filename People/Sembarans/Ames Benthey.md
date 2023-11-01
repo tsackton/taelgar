@@ -1,20 +1,31 @@
 ---
-type: NPC
+subtype: NPC
 name: Ames Benthey
 species: human
 ancestry: Sembaran
 gender: male
 born: 1675
 died: 
-affiliations: ["Lord's Guard (Cleenseau)"]
+affiliations:
+  - Lord's Guard (Cleenseau)
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
-title:
-family:
+tags:
+  - NPC/Clee/unsorted
+  - NPC/DuFr/unaware
+title: 
+family: 
 whereabouts:
-     - { date: 1675-01-01, place: "Cleenseau", region: Sembara, type: home}
-     - { date: 1719-10-18, place: "somewhere upriver from Cleenseau", region: Sembara, excursion: true}
-     - { date: 1719-10-25, place: "Cleenseau", region: Sembara }
+  - date: 1675-01-01
+    place: Cleenseau
+    region: Sembara
+    type: home
+  - date: 1719-10-18
+    place: somewhere upriver from Cleenseau
+    region: Sembara
+    excursion: true
+  - date: 1719-10-25
+    place: Cleenseau
+    region: Sembara
 ---
 # Ames Benthey
 >[!info]+ Biographical Summary
