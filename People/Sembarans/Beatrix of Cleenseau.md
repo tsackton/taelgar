@@ -10,6 +10,7 @@ title:
 affiliations: [Army of the West, Bridge Patrol, Lord's Guard of Cleenseau]
 name: Béatrix of Cleenseau
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+aliases: [Béatrix of Cleenseau, Béatrix, Beatrix]
 ---
 # Béatrix of Cleenseau
 >[!info]+ Biographical Summary

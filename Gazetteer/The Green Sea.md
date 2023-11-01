@@ -1,14 +1,11 @@
 ---
-aliases: [Green Sea]
+aliases: [Green Sea, the Green Sea]
 tags: [stub]
 ---
 
 # The Green Sea
 
-
-
 %% named for the phytoplankton blooms that appear in the summer, driven by upwelling associated with the monsoon wind 
-
 
 Old notes, might not be useful
 The Green Sea stretches from the far east to the middle of the continent. To the west, major features are the Cymean peninsula and the islands north and south, including Skaegenland, as well as the Mostreve hills in southern Sembara, and the ~VostokMountains~. In the center and east, major features include a large island centrally located in the middle of the Green Sea, and a large, dense archipelago blocking the mouth of the Green Sea from the Endless Ocean. While the west is densely settled, in the east, along both coasts, most people live close to the ocean: in the north, due to the increasing cold and snow; in the south, the encroaching desert.
