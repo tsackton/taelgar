@@ -3,7 +3,7 @@ tags: []
 ---
 # Western Gulf
 
-The Western Gulf is the inland sea at the far western edge of [[The Green Sea]]. Separated from [[The Green Sea]] proper by the narrow Straits of [[Cymea]], the Western Gulf tends to milder weather and easier navigation. 
+The Western Gulf is the inland sea at the far western edge of the [[The Green Sea|Green Sea]] Separated from [[The Green Sea]] proper by the narrow Straits of [[Cymea]], the Western Gulf tends to milder weather and easier navigation. 
 
 In the 1700s, the Western Gulf has been controlled largely by the [[Tollen]] Navy, which extensively patrols and interdicts pirates, keeping shipping lanes safe. 
 
