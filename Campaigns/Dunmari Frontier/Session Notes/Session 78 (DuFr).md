@@ -12,7 +12,7 @@ End: afternoon, Jan 3rd, 1749
 #### [[Eudomes' Mirror]]
  - 23 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
  - 30 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's note: [[Urgall's Note Vision]]
- - *6 Jan 1749: [[Eudomes' mirror]] is available again*
+ - *6 Jan 1749: [[Eudomes' Mirror]] is available again*
 ## Timeline 
 - 29 Dec 1748: First day of [[Pyravela]]; attend parade; Insinguese party on [[Scrollwright Street]] hosted by [[Guy Marchand]]; student party at the university
 - 30 Dec 1748: Work on party preparations; speak with [[Umli]] ; attend [[Dyer's Guild]] party; host [[Pyravela]] party on [[Vindristjarna]]
@@ -40,7 +40,7 @@ The following day, on Friday, Jan 2nd, the party goes to visit the guildhall of 
 
 First, they trade the [[Mace of Terror]] for information about the [[Binding Stones]] taken from [[Stormcaller Tower]], that had been involved in trapping [[Hralgar]]. Delios tells them that these stones can be used to create a powerful, nearly eternal prison, trapping a creature in chains, or in a tomb underground, or in eternal sleep. This prison can only be undone by the most powerful magic, or by a specific event that must be specified when the prison is created. (Metagame: what he is describing is the 9th level spell [Imprisonment](https://www.dndbeyond.com/spells/imprisonment)). But there is added complexity, that Delios cannot explain now, and requires further research, saying that it will take one or two weeks to get a full answer. 
 
-Second, they trade the two spellbooks (the [[Arcane Grimoire]] from [[Mezzar|Grimbaskal]]'s hoard, and Cassian's chalyte spellbook), for information about the fate of [[Rai]]'s shattered [[jade]] hand, and information about [[Rai]] and [[Emperor Apollyon|Apollyon]] and how [[Emperor Apollyon|Apollyon]] was imprisoned.
+Second, they trade the two spellbooks (the [[Arcane Grimoire]] from [[Mezzar|Grimbaskal]]'s hoard, and Cassian's chalyte spellbook), for information about the fate of [[Rai]]'s shattered [[Jade]] hand, and information about [[Rai]] and [[Emperor Apollyon|Apollyon]] and how [[Emperor Apollyon|Apollyon]] was imprisoned.
 
 Delios gives the party information about the jade forest, west of [[Chardon]], for free. This is a forest of kelp, and living stone coral, maybe 600 or 700 miles due west of [[Chardon]], about a 100 miles off the coast of the peninsula. It is apparently tended by [[Merfolk]] and other denizens of the oceans. And, he says, the guild will do their best to find information that could lead to the location of the final fragment, that fell in the rainforest, but he cannot promise anything, and this will take considerable time. 
 

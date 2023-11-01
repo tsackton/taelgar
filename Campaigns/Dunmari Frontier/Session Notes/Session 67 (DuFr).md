@@ -5,7 +5,7 @@
 **In Taelgar:**  24 Nov 1748
 
 ## Summary
-[[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]], and [[Riswynn]] venture into the darkness of Hraglar's library, and from there into the [[dreamworld]], where they faced the puzzles and traps of Kurome, a creature of nightmares, who they eventually defeat by dreaming the phasing into the [[portable hole]]. When they wake up, quickly realize they are still dreaming, but are able to find their bodies and return to the material world before they freeze to death. 
+[[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]], and [[Riswynn]] venture into the darkness of Hraglar's library, and from there into the [[dreamworld]], where they faced the puzzles and traps of Kurome, a creature of nightmares, who they eventually defeat by dreaming the phasing into the [[Portable Hole]]. When they wake up, quickly realize they are still dreaming, but are able to find their bodies and return to the material world before they freeze to death. 
 
 ## Notes and Information
 
@@ -55,6 +55,6 @@ The party dives through the floor into an empty space, in which the phasing ston
 
 ![[nightmare-empty.png]]
 
-After a few failed attempts to capture it, the party realizes that working together is the only way to outdream Kurome. [[Seeker]] dreams a storm of hail and snow pelting the stone, which bursts into flame; [[Delwath]] dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [[Riswynn]] then dreams a wall of fire scorching the ice, and [[Kenzo]] adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [[Wellby]]'s dreaming: the [[portable hole]]. 
+After a few failed attempts to capture it, the party realizes that working together is the only way to outdream Kurome. [[Seeker]] dreams a storm of hail and snow pelting the stone, which bursts into flame; [[Delwath]] dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [[Riswynn]] then dreams a wall of fire scorching the ice, and [[Kenzo]] adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [[Wellby]]'s dreaming: the [[Portable Hole]]. 
 
-With that, the party seems to be awake in the library. Using the [[dream mirror]], they realize that they are still dreaming, but quickly find their freezing bodies at the campsite, and wake themselves up. After another round of warming drinks, the party spends the last few hours of the afternoon copying notes and finding books in [[Hralgar]]'s library before returning to the crashed airship via cloud travel at dusk.
+With that, the party seems to be awake in the library. Using the [[Dream Mirror]], they realize that they are still dreaming, but quickly find their freezing bodies at the campsite, and wake themselves up. After another round of warming drinks, the party spends the last few hours of the afternoon copying notes and finding books in [[Hralgar]]'s library before returning to the crashed airship via cloud travel at dusk.

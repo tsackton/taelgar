@@ -30,7 +30,7 @@ End: 23 Nov 1748, evening, in Hralgar's dreamscape
 
 ## Narrative
 
-We begin as the party stands outside the swirling storm around [[Stormcaller Tower]], listening to the news the winds bring, while deciding what to do as [[Kenzo]] mediates and communes with the storm, trying to learn more of it. Suddenly, [[Kenzo]] is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [[Riswynn]] and [[Wellby]] get the animals settled while [[Delwath]] and [[Seeker]] get [[Hralgar's Eyes]] from the [[portable hole]], hoping to convince Hraglar-as-[[Kenzo]] to make the storm safe. To no avail, for [[Kenzo]] says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party  pushes through the storm, following [[Kenzo]]. 
+We begin as the party stands outside the swirling storm around [[Stormcaller Tower]], listening to the news the winds bring, while deciding what to do as [[Kenzo]] mediates and communes with the storm, trying to learn more of it. Suddenly, [[Kenzo]] is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [[Riswynn]] and [[Wellby]] get the animals settled while [[Delwath]] and [[Seeker]] get [[Hralgar's Eyes]] from the [[Portable Hole]], hoping to convince Hraglar-as-[[Kenzo]] to make the storm safe. To no avail, for [[Kenzo]] says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party  pushes through the storm, following [[Kenzo]]. 
 
 ![[hralgar-storm-nov-1748-2.png]]
 
