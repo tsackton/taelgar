@@ -4,7 +4,7 @@ Festivals play a major role in Dunmari culture. They are not just religious cele
 
 The major festivals of the religious cycle are:
 
-- The Festival of the New Dawn, on January 23rd. This marks the beginning of the new year and a new cycle of the seasons. The first day of the new year, in the Dunmari reckoning. Strongly associated with Laka. Traditions include a pre-dawn vigil, often including magical rituals to invoke Laka's blessing for the past and the future, and a procession/mystery play/recitation of the history of the Dunmari people from creation until today. 
+- The [[Festival of the New Dawn]], on January 23rd. This marks the beginning of the new year and a new cycle of the seasons. The first day of the new year, in the Dunmari reckoning. Strongly associated with Laka. Traditions include a pre-dawn vigil, often including magical rituals to invoke Laka's blessing for the past and the future, and a procession/mystery play/recitation of the history of the Dunmari people from creation until today. 
 
 - The Night of Whispers, celebrated on the first new moon of the year, following the Festival of the New Dawn, usually in February. Traditionally seen as a time when the gods are far away, and lost spirits haunt the night. Prayers for lost souls, and remembrance of those who have faded away, are common. Sometimes associated with Adra, who some Dunmari claim was born on the first new moon of the year. 
 
