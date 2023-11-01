@@ -1,2 +1,0 @@
-### Endless Ocean
-The name given to the ocean that stretches west of Chardon. Some say one can sail west, so far as to arrive back at the eastern shores of the [[The Green Sea|Green Sea]]. Others claim the ocean is truly endless.

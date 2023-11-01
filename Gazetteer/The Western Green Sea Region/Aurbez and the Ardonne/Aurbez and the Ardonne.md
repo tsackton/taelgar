@@ -7,7 +7,7 @@ Snow is rare, but sometimes a large winter storm will blanket the [[Aurbez Plate
 Four rivers run through the region:
 * The [[Douren]]
 * The [[Aursen]]
-* The [[River Masance|Masance]]
+* The [[Masance]]
 * The [[Ardonne]]
 
 The rivers and the [[Maseau - Dunmar Road]]], running from [[Maseau]], provide the main places of settlement.

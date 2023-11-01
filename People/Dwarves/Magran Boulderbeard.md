@@ -27,4 +27,4 @@ family:
 
 A warrior from Tharn Todor who led a large expedition of dwarves into the ruins of Ardith, and to confront Chardonian interlopers. 
 
-Killed [[Inakara]] and the other denizens of the [[Dwarven outpost]] in late July, 1748.
+Killed [[Inakara]] and the other denizens of the [[Dwarven Outpost (Raven's Hold)|dwarven outpost near Raven's Hold]] in late July, 1748.
