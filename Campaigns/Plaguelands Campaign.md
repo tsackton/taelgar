@@ -1,0 +1,1 @@
+Abortive family campaign. Has some nice detail on Addermarch and the surrounding area to import. Set somewhat in the future w/r/t Dunmar and Great Library, so could still make it canon, etc. Maybe revisit at some point if Nathaniel is interested in playing D&D again?
