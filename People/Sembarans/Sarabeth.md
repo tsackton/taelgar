@@ -8,7 +8,7 @@ born: 1686
 title:
 family:
 died: 
-affiliations: 
+affiliations: Lord's Guard of Cleenseau
 aliases: []
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
