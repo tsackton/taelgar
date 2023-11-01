@@ -9,7 +9,7 @@ An ancient [[Mos Numena]] holiday, celebrated on the last three days of the year
 - Strongest universal traditions are associated with costumed parades / fetes / dances, and feasts, typically large parties where anyone is welcome to come and eat from your table. During Pyravela the rich and the poor sit together and no one is turned away because of status or wealth. 
 - Another universal tradition is bonfires the last night, and especially the idea of casting prayers into the fire, especially prayers for change, for hope for new beginnings, for dreams to come true. Often incense and sometimes drugs are burned in these fires, and those who breath the smoke are said to receive visions and prophecies from [[the Wyrdling]]. The last night, with the bonfires, are a time when the future is close and prophecy fills the air. 
 
-The typical Pyravela celebration in [[the Green Sea]] area is as follows:
+The typical Pyravela celebration in [[The Green Sea]] area is as follows:
 
 - First day starts with a prayer service in [[the Wyrdling]]’s temple, followed by a parade in which guilds sponsor reenactments of important miracles of [[the Wyrdling]], especially involving prophecy, dreams, and blessings of luck
 - First day ends with feasts: these are great public feasts open to all, and often where the rich and powerful serve their guests. Costumes, masks, and elaborate clothes are common for rich and poor alike. 

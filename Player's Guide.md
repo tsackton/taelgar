@@ -11,7 +11,7 @@ This document and the links here contain a wealth of information, representing y
 For more information about character creation, please see the [[Character Creation Guide]].
 ## Geography and Culture
 
-The known world of Taelgar stretches 2,500 miles from the great city of [[Chardon]] in the West, to the shores of [[the Green Sea]] in the east.
+The known world of Taelgar stretches 2,500 miles from the great city of [[Chardon]] in the West, to the shores of [[The Green Sea]] in the east.
 
 ![[player-map.png]]
 
