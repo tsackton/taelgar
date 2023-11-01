@@ -9,7 +9,11 @@ Now it is a frontier land and haven for refugees from the Great War, now resettl
 
 The capital, [[Valarin]], is the largest city in the Duchy, although the border towns along the Great South Road -- in particular, Cassons, in the south, and Evis, in the north, are, despite their small size, notable.
 
-%% Notes to incorporate from Tim
+%% 
+Southern Maseau
+The main notable town in southern Maseau is the border fort of Cassons. Once an important town on the road from Isingue to Embry, it is a shadow of its former self and is dotted with ruins and abandoned buildings. It is a dry and dusty place, just far enough south to get choking ash storms in the summer, and the people eke out a meager living on the proceeds from trade along the Dunmar Road and food shipments from Maseau, designed to encourage a defense here. In the hinterlands of Cassons a small number of ranchers have established themselves along the ruins of the Great South Road, and the forts of the Marcher Lords dot the ranchlands or several days' ride south.
+
+Notes to incorporate from Tim
 I think also the region south of the Mostreve hills on the central mountains side of the gap would plausibly be a place where natural resources are abundant, and perhaps even deceptively easy to get via abandoned dwarven mines and things like that, so this loose alliance of refugees, mountain folk, some scattered halflings and such, is growing a bit supported by these resources. I also imagine the Rangers providing some covert -- or perhaps overt -- support here and also to what is probably otherwise the relatively poor kingdom of “Southern Marches 2".
 
     
