@@ -166,7 +166,7 @@ DR 1650 - DR 1713; 2 Cece I - 65 Cece 1
 ### Overview
 In the autumn of 1650, after three summers of campaigning, the [[Shattered Ice Clan]] has been cleansed from the land. Three years prior, a hobgoblin dominion stretched in the Enst valley, from the [[Sentinel Range]] to the headwaters of the Aure in Addermarch, and even northwards into the Barony of Varbonne. It is now gone, although people have only slowly started returning to the war-torn lands.
 
-The reign of [[Cece I]] is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, although not entirely gone, is isolated to [[The Western Marches]]. 
+The reign of [[Cece I]] is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, although not entirely gone, is isolated to [[The Western Marches|the Western Marches]]. 
 # Recent Events
 Since DR 1713 (1 Robert I)
 
