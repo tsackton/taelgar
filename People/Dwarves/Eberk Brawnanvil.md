@@ -24,7 +24,7 @@ yearOverride:
 >Originally from: [[Raven's Hold]], [[Ardith]], [[Sentinel Range]]
 >Based in: [[Tharn Todor]], [[Nardith]], [[Yuvanti Mountains]]
 
-An elder [[Dwarves|dwarf]], a respected member of the Brawnanvil clan and priest of the [[Bahrazel]]. He was born in the [[Sentinel Range]] before the [[Great War]], and grew up in the [[Dwarven outpost]] near [[Raven's Hold]], but fled south during the [[Great War]]. He now lives with many other Brawnanvils in [[Tharn Todor]]. 
+An elder [[Dwarves|dwarf]], a respected member of the Brawnanvil clan and priest of the [[Bahrazel]]. He was born in the [[Sentinel Range]] before the [[Great War]], and grew up in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]], but fled south during the [[Great War]]. He now lives with many other Brawnanvils in [[Tharn Todor]]. 
 %%^Campaign:DuFr%%
-Eberk is [[Riswynn]]'s great uncle, who helped her develop her divine magic, and passed along a map of the [[Dwarven outpost]] to aid her in the quest to recover the [[Shield of the Brawnanvil Clan]]. 
+Eberk is [[Riswynn]]'s great uncle, who helped her develop her divine magic, and passed along a map of the [[Dwarven Outpost (Raven's Hold)|dwarven outpost near Raven's Hold]] to aid her in the quest to recover the [[Shield of the Brawnanvil Clan]]. 
 %%^End%%
