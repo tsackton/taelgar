@@ -6,7 +6,7 @@ This short guide provides an overview to the races of Taelgar, magic and religio
 
 **Taelgar is a world of good and evil, where valiant heroes strive against the forces of darkness, created by evil gods seeking to undo all existence. While there is room in Taelgar for all kinds of stories and many shades of gray, many tales in Taelgar feature unredeemable evil, unambiguous villains, and noble heroes. Taelgar draws inspiration from many sources, especially classic D&D settings, high fantasy, and world history. Magic is rare and powerful, but once was much more common; while [[humans]] dominate much of the world, they live alongside [[dwarves]], [[halflings]], and other  [[species|sentient species]].** 
 
->[!info] This document and the links here contain a wealth of information, representing years of playing. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The lore of Taelgar grows by the role-playing decisions of its players as much as the world building of its DMs. 
+>[!info] This document and the links here contain a huge amount of information, representing years of playing and worldbuilding. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The lore of Taelgar grows by the role-playing decisions of its players as much as the world building of its DMs. 
 
 For more information about character creation and game mechanics, please see the [[Character Creation Guide]].
 ## Geography and Culture
