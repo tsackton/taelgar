@@ -9,11 +9,11 @@ A bustling port on the [[Volta]], which forms the border between [[Sembara]] and
 Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
 ### Founding
 
-Tollen was originally founded on the north bank of the [[Volta]] river by the first mariner migrants from [[Hkar]], before [[the Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of the [[Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[the highlands]], and the non-[[Humans]] ([[Lizardfolk]] and [[Halflings]], mostly) of the [[western Green sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
+Tollen was originally founded on the north bank of the [[Volta]] river by the first mariner migrants from [[Hkar]], before [[The Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of the [[Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[the highlands]], and the non-[[Humans]] ([[Lizardfolk]] and [[Halflings]], mostly) of the [[western Green sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
 
 ### Downfall and Rebirth
 
-In 4050s, [[the Downfall]] Wars begin, and Tollen is cut off from the [[eastern Green Sea]], as long voyages become too dangerous. The ocean itself turns violent, as storms wrack the seas and the great swamps to the south start to dry. By 4122, when [[the Downfall]] Wars have ended, Tollen is virtually abandoned, and the land that will become [[Sembara]] depopulated, settled by scattered villages of farmers, with [[Embry]] and a few other river towns among the only significant population settlements.
+In 4050s, [[The Downfall]] Wars begin, and Tollen is cut off from the [[eastern Green Sea]], as long voyages become too dangerous. The ocean itself turns violent, as storms wrack the seas and the great swamps to the south start to dry. By 4122, when [[The Downfall]] Wars have ended, Tollen is virtually abandoned, and the land that will become [[Sembara]] depopulated, settled by scattered villages of farmers, with [[Embry]] and a few other river towns among the only significant population settlements.
 
 By the 4200s, the Skaer have established themselves as the dominant mariner culture in the [[Western Green Sea]], and resettle and rebuild Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the [[Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.
 
@@ -54,13 +54,13 @@ Tollen is traditionally divided into 17 wards:
 
 ### The Skaer City
 
-The original settlement by the mariners, as later expanded by the Skaer after [[the Downfall]] wars, was a small city, surrounded by a embankment and a wooden wall, set on the north side of the [[Volta]]. It mainly functioned as a port for timber and other goods leaving the [[Volta]] watershed. 
+The original settlement by the mariners, as later expanded by the Skaer after [[The Downfall]] wars, was a small city, surrounded by a embankment and a wooden wall, set on the north side of the [[Volta]]. It mainly functioned as a port for timber and other goods leaving the [[Volta]] watershed. 
 
 [[Skepwalk]]: North side of the [[Volta]], easternmost (oceanside) district. Excellent harbor area, where a curve in the river creates a wide, deep anchorage. Name derives from old Eastros word for docks; this is the westernmost ward on the north side of the river, and among the oldest docks and shipyards in the city. Now a major shipbuilding center.
 
 [[Fiskurth]]: North side of the [[Volta]], northwest of [[Skepwalk]]. Name derives from old Eastros for fish, one of the oldest districts in the city, although little is preserved of that time. Many taverns, and a hub of activity for sailors. Largest fish market, and other scattered market streets, but somewhat "low class". 
 
-Aesganstrad: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[the Downfall]]. Best preserved of the ancient districts, now home to many of the craft guilds, especially the powerful [[dyer's guild]].
+Aesganstrad: North and west along the river from [[Fiskurth]]; with [[Fiskurth]] and [[Skepwalk]] forms the ancient core of the pre-Drankorian city. Name derives from Aesgan, a semi-mythical Skaegish hero who is said to have protected/resettled Tollen during the chaos after [[The Downfall]]. Best preserved of the ancient districts, now home to many of the craft guilds, especially the powerful [[dyer's guild]].
 
 ### The Drankorian City
 
@@ -143,11 +143,11 @@ The Tollen economy is powered by trade. Tollenders produce dyes. cloth, and fine
 
 * I like the idea of Tollen always being on the 'edge' in the points where it wasn't powerful, and never being a major part of someone else's empire. That isn't to say it shouldn't have various ancient connections, but that it was never itself Sembaran, or Drankorian, or Skagen, at least not in an important sense.
 
-* Is there a place for some kind of magical / extraplanar reason for why it is so religiously open? A connection to outer planes, or maybe it was defended during [[the Downfall]] Wars by an army of small gods, and something about that sacrifice magnifies the divine essence. Or something.
+* Is there a place for some kind of magical / extraplanar reason for why it is so religiously open? A connection to outer planes, or maybe it was defended during [[The Downfall]] Wars by an army of small gods, and something about that sacrifice magnifies the divine essence. Or something.
 
 A few other times in history that you've outlined that seem fraught with possibility:
 
-* The Drankorian peace treaty. My history below centers Tollen as the architects of the peace treaty, and maybe there are reasons why. A storm giant foretold [[the downfall]] of [[Drankorian Empire|Drankor]] if they expanded past the Voltra, and Tollen had evidence? Some kind of divine intervention, the divinities of Mos Numera insisted Tollen remain free? Maybe there is something special about the place that makes all the various gods of Taelgar keen to ensure it is never fully controlled by a single set of gods. 
+* The Drankorian peace treaty. My history below centers Tollen as the architects of the peace treaty, and maybe there are reasons why. A storm giant foretold [[The Downfall]] of [[Drankorian Empire|Drankor]] if they expanded past the Voltra, and Tollen had evidence? Some kind of divine intervention, the divinities of Mos Numera insisted Tollen remain free? Maybe there is something special about the place that makes all the various gods of Taelgar keen to ensure it is never fully controlled by a single set of gods. 
 
 * Playing on the powerful-religion idea, maybe there are a set of worshippers of the old OceanGod floating around Tollen. Or various void-mind gods. 
 
@@ -157,7 +157,7 @@ What if the earliest settlers of Tollen were explicitly the misfits and dissa
 
 From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out [[The Highlands]] and the mariners have a lot to sell each other, so then comes the merchants.
 
-In the 4050s, [[the Downfall]] War certainly unsettles things, but that doesn't mean Tollen has to be abandoned. The merchants flee, and the city shrinks dramatically, but it is not abandoned entirely.  
+In the 4050s, [[The Downfall]] War certainly unsettles things, but that doesn't mean Tollen has to be abandoned. The merchants flee, and the city shrinks dramatically, but it is not abandoned entirely.  
 
 By the 4200s, the Skaer re-discover Tollen, and although it largely becomes a Skagen city, some ancient institutions of storytellers, knowledge seekers, and free-thinkers maintain their place in the city (need some kind of event to make this work out), and Tollen remains a place where the Skagen religion does not hold sway entirely.
 
