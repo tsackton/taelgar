@@ -7,9 +7,9 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 ###
 * DR 358: [[Emperor Anates]] campaigns around the [[Mostreve Hills]]
 * DR 360: [[Emperor Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
-* DR 389: [[Emperor Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
 * DR 402: The [[Treaty of Marhavn]] is signed by [[Emperor Goristo]] 
-* DR 421: The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor
+* DR 423: [[Emperor Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
+* DR 468: The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor
 
 # The Drankorian Age
 DR 431 - DR 1059
