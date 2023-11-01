@@ -1,0 +1,3 @@
+# Illithids
+
+(stub)
