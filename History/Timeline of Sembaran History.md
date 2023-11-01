@@ -1,12 +1,12 @@
 # The Drankorian Conquest
 DR 300 - DR 431
 ### Overview
-In the aftermath of [[The Downfall]] the land that will become [[Sembara]] is lightly populated. The [[Kestavo|kestavo-worshipping]] [[Highland Kingdoms|highlanders]] live in the foothills of the [[Sentinel Range]], and have spread down the valleys of the great rivers: the [[Semb|Semb]], the [[Volta|Volta]], the [[Teft|Teft]], and the [[Wistel|Wistel]]. Along the coast, [[Skaerhem|Skaer]] mariners raid, intermarry, and settle amongst the highlanders, and a Skaer-dominated mixed culture spreads from [[Tollen]] to the mouth of the [[Semb|Semb]]. The once mighty [[Lizardfolk|lizardfolk]] swamps have mostly disappeared, save for a remnant, [[Ozabal]], at the mouth of the [[Wistel|Wistel]], where a thriving lizardfolk community remains. South of the Wistel is the mixed community of humans, clustered along the coast, united by the their shared allegiance to the [[Archfey Ethlenn]].
+In the aftermath of [[The Downfall]] the land that will become [[Sembara]] is lightly populated. The [[Kestavo|kestavo-worshipping]] [[Highland Kingdoms|highlanders]] live in the foothills of the [[Sentinel Range]], and have spread down the valleys of the great rivers: the [[Semb]], the [[Volta]], the [[Teft]], and the [[Wistel]]. Along the coast, [[Skaerhem|Skaer]] mariners raid, intermarry, and settle amongst the highlanders, and a Skaer-dominated mixed culture spreads from [[Tollen]] to the mouth of the [[Semb]]. The once mighty [[Lizardfolk|lizardfolk]] swamps have mostly disappeared, save for a remnant, [[Ozabal]], at the mouth of the [[Wistel]], where a thriving lizardfolk community remains. South of the Wistel is the mixed community of humans, clustered along the coast, united by the their shared allegiance to the [[Archfey Ethlenn]].
 
 Over a series of start-and-start campaigns over 60 years, the Drankorian armies conquer most of the lands between the [[Sentinel Range]] and the [[Western Gulf]], save for some of the highland realms in the northern foothills.
 ###
 * DR 358: [[Emperor Anates]] campaigns around the [[Mostreve Hills]]
-* DR 360: [[Emperor Anates]] crosses the [[Enst|Enst]] and establishes a garrison at [[Cleenseau]]
+* DR 360: [[Emperor Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
 * DR 389: [[Emperor Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
 * DR 402: The [[Treaty of Marhavn]] is signed by [[Emperor Goristo]] 
 * DR 421: The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor
@@ -14,7 +14,7 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 # The Drankorian Age
 DR 431 - DR 1059
 ### Overview
-By DR 431, when the Drankorian army retreated from [[Zovcka]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb|Semb]]. North of the [[Semb|Semb]], Drankor ruled the the region south and west of the [[Volta]], as far north as the [[Braebine Hills]]. 
+By DR 431, when the Drankorian army retreated from [[Zovcka]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]]. North of the [[Semb]], Drankor ruled the the region south and west of the [[Volta]], as far north as the [[Braebine Hills]]. 
 
 The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. No great wars were fought and [[Mos Numena]] spread rapidly, and the old [[Kestavo|Kestavan]] traditions were largely forgotten.
 ###
@@ -36,7 +36,7 @@ By DR 1250, six great duchies had been established in the lands once ruled by Dr
 
 Over the next generation, a series of small summer conquests slowly added territory to the growing Realm of [[Sembara]], as minor lords pledge fealty to the monarch. Some did so because an army of 1000 Sembaran knights showed up at their castle, and they felt they had no choice; others did so to gain protection from their rivals and ensure stability for their people. The dukes of the five duchies and their knights and vassals become rich from these summer conquests as well as the fertile lands and the slow revival of trade in the [[Green Sea]]. 
 
-By the 1300s DR, the Sembaran monarchy commanded fealty, either directly, from newly minted barons, or indirectly, from lords sworn to the barons and dukes sworn to the crown, from most of the lowlands between the [[Teft|Teft]] and the [[Enst|Enst]]. For the next hundred years or so, the [[Green Sea]] is peaceful and prosperous. [[Sembara]] grows rich on the strength of its agricultural wealth, and its borders solidify: the [[Teft]] to the north, the [[Enst]] to the south, with the western border stretching roughly in a line from the source of the [[Enst|Enst]] through the [[Aine Hills]] to [[Braebein]], the highlands north of [[Duchy of Arnsbury|Arnsbury]].
+By the 1300s DR, the Sembaran monarchy commanded fealty, either directly, from newly minted barons, or indirectly, from lords sworn to the barons and dukes sworn to the crown, from most of the lowlands between the [[Teft]] and the [[Enst]]. For the next hundred years or so, the [[Green Sea]] is peaceful and prosperous. [[Sembara]] grows rich on the strength of its agricultural wealth, and its borders solidify: the [[Teft]] to the north, the [[Enst]] to the south, with the western border stretching roughly in a line from the source of the [[Enst]] through the [[Aine Hills]] to [[Braebein]], the highlands north of [[Duchy of Arnsbury|Arnsbury]].
 %%
 
 # The Unification
@@ -46,7 +46,7 @@ By the 1400s, a number of regional powers had started to emerge on the borders o
 
 North of [[Lavnoch]], the brief [[Zovcka|Unified Crown of Zovcka]] had collapsed, and two northern kingdoms emerged: [[Zovcka]], in the north, and [[Breva]], squeezed between [[Braebein]] and the growing power of the Duke of [[Duchy of Arnsbury|Arnsbury]], the [[Sentinel Range]], and [[Zovcka]]. 
 
-To the northeast, the [[Duchy of Telham]], between the [[Teft|Teft]] and the [[Volta|Volta]], commanded the loyalty of many of the small lords along the coast and the rivers, and was closely tied by culture and intermarriage to [[Sembara]].
+To the northeast, the [[Duchy of Telham]], between the [[Teft]] and the [[Volta]], commanded the loyalty of many of the small lords along the coast and the rivers, and was closely tied by culture and intermarriage to [[Sembara]].
 
 South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which emerged from the fall of [[Drankorian Empire|Drankor]] largely intact and still under the guardianship of the [[Archfey Ethlenn]], and the [[Dominion of Avatus]], a rising military autocracy exerting overlordship of a number of small kingdoms in the [[Mostreve Hills]], growing in power by taxing trade and recruiting mercenaries, largely [[Hobgoblins]].
 
@@ -59,7 +59,7 @@ South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which 
 * DR 1425, late fall: Sembaran army abandons all the lands between the [[Enst]] and the [[Wistel]] and retreats to [[Wisford]] for the winter
 * DR 1425, winter: [[Derik I]] [[Derik I's Arrival in Tyrwingha|lands]] in [[Tyrwingha]] and is proclaimed king by [[Archfey Ethlenn]]
 * DR 1426, spring: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the Wistel at the [[Battle of Wisford]]
-* DR 1426, summer: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Enst|Enst]] at the [[Battle of Fellburn]]
+* DR 1426, summer: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Enst]] at the [[Battle of Fellburn]]
 * DR 1427, spring and summer: [[Derik I]] campaigns south of the [[Enst]] 
 * DR 1428, spring: [[Derik I]] defeats [[Emperor Avatus|Avatus]] at the [[Battle of Dalfield]]
 * DR 1428, late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treay of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
@@ -75,26 +75,26 @@ By the 1400s, a number of regional powers had started to emerge on the borders o
 
 North of [[Lavnoch]], the brief [[Zovcka|Unified Crown of Zovcka]] had collapsed, and two northern kingdoms emerged: [[Zovcka]], in the north, and [[Breva]], squeezed between [[Braebein]] and the growing power of the Duke of [[Duchy of Arnsbury|Arnsbury]], the [[Sentinel Range]], and [[Zovcka]]. 
 
-To the northeast, the [[Duchy of Telham]], between the [[Teft|Teft]] and the [[Volta|Volta]], commanded the loyalty of many of the small lords along the coast and the rivers, and was closely tied by culture and intermarriage to [[Sembara]].
+To the northeast, the [[Duchy of Telham]], between the [[Teft]] and the [[Volta]], commanded the loyalty of many of the small lords along the coast and the rivers, and was closely tied by culture and intermarriage to [[Sembara]].
 
 South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which emerged from the fall of [[Drankorian Empire|Drankor]] largely intact and still under the guardianship of the [[Archfey Ethlenn]], and the [[Dominion of Avatus]], a rising military autocracy exerting overlordship of a number of small kingdoms in the [[Mostreve Hills]], growing in power by taxing trade and recruiting mercenaries, largely [[Hobgoblins]].
 #### Emergence of the [[House of Sewick]]
 
 While [[Sembara]] thrived during the long peace, underneath, the seeds of conflict grew. A series of weak rulers had ceded many of the royal prerogatives to the dukes and a feeling of security encouraged the dukes to pour resources into fine trade goods and luxuries, rather than castles and armies. Crushing tariffs on Dwarven goods enriched the border lords, but alienated many others, including [[Ardlas]] and [[Lavnoch]], who had traditionally enjoyed strong trade relations with [[Sembara]]. And prophets throughout [[Tyrwingha]] were preaching of the End Times, and whole villages were found to have disappeared. Whether fled to the safety of the [[Feywild]] or consumed by darkness, few could answer.
 
-In DR 1425, [[Emperor Avatus|Avatus]] saw an opportunity. With a mercenary army consisting largely of [[Hobgoblins]] and vicious werewolves, he launched an invasion across the [[Enst|Enst]]. A series of disasters befell the Sembarans -- the Duke of [[Duchy of Cheimen|Cheimin]] refused to march his troops south of the [[Wistel|Wistel]], three hundred knights from [[Duchy of Seham|Seham]] were lost in a summer storm at sea, and the muster of [[Duchy of Arnsbury|Arnsbury]] sent only half the men due to crown, claiming insufficient horses. And the expected help from [[Tyrwingha]] fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the [[Wistel|Wistel]], and [[Emperor Avatus|Avatus]] paused to consolidate his gains, and prepared to strike north and east.
+In DR 1425, [[Emperor Avatus|Avatus]] saw an opportunity. With a mercenary army consisting largely of [[Hobgoblins]] and vicious werewolves, he launched an invasion across the [[Enst]]. A series of disasters befell the Sembarans -- the Duke of [[Duchy of Cheimen|Cheimin]] refused to march his troops south of the [[Wistel]], three hundred knights from [[Duchy of Seham|Seham]] were lost in a summer storm at sea, and the muster of [[Duchy of Arnsbury|Arnsbury]] sent only half the men due to crown, claiming insufficient horses. And the expected help from [[Tyrwingha]] fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the [[Wistel]], and [[Emperor Avatus|Avatus]] paused to consolidate his gains, and prepared to strike north and east.
 
 Into this moment rode [[Derik I]], a distant relative of the current king, but far from the kingship himself. He had married the second daughter of the Duchess of [[Duchy of Telham|Telham]], on [[The Northlands]] coast, and had made a name for himself as a military commander in a series of skirmishes against pirates, in alliance with [[Tollen|Tollen]] mercenaries and halflings.
 
-In the months following the advance of [[Emperor Avatus|Avatus]] to the [[Wistel|Wistel]], a lizardfolk elder had approached Derik, and told him of an omen: he was prophesied to raise a mighty [[Sembara]] to form a pillar of strength in the dark times to come, and if he did not overthrow [[Emperor Avatus|Avatus]], the smallest cloud in the coming storm, the darkest shadows of today would seem like the brightest diamonds of tomorrow. But it was also foretold, this elder said, that only the Queen of the Evening Mist could herald his coming.  
+In the months following the advance of [[Emperor Avatus|Avatus]] to the [[Wistel]], a lizardfolk elder had approached Derik, and told him of an omen: he was prophesied to raise a mighty [[Sembara]] to form a pillar of strength in the dark times to come, and if he did not overthrow [[Emperor Avatus|Avatus]], the smallest cloud in the coming storm, the darkest shadows of today would seem like the brightest diamonds of tomorrow. But it was also foretold, this elder said, that only the Queen of the Evening Mist could herald his coming.  
 
 With the blessing of his mother-in-law, Derik sent a small tithe of the knights of the [[Duchy of Telham]] south to aid their ally, the King, and then he sailed with the bulk of the duchy’s forces to [[Tyrwingha]]. There, the old queen had been wracked by dreams of the horrible fate that would befall [[Tyrwingha]] if she entered the war, and so had kept her forces away, despite her misgivings for not aiding an ally.
 
 When Derik arrived in [[Tyrwingha]], he immediately disembarked and spoke with the queen. It is said that as he set foot on Tyrwinghan shores, the morning fog parted, and turned golden where he stepped, leaving a trail of sparklingly mist behind him. Crowds began to follow, and when he reached the castle, the people of [[Tyrwingha]] were watching as he bowed his head humbly to ask to speak with the queen, and [[Archfey Ethlenn]] herself appeared before him, and proclaimed that he would be the savior of [[Tyrwingha]], and kissed him on the forehead, passing him her blessing.   
 
-As news spread like wildfire of a knight from the north who had been blessed by Ethlenn herself, Derik was quickly proclaimed [[Derik I]], King of [[Tyrwingha]] by the [[Oracle of the Riven]]. Derik gathered an army of lizardfolk, the knights of Telham and [[Tyrwingha]], the fey-touched warlocks of the Ethlenn, and [[Tollen|Tollen]] and [[Vostok]] mercenaries, which he marched west in the early spring of 1426. Derik drove the forces of [[Emperor Avatus|Avatus]] before him, and his army is flanked on the banks of the [[Wistel|Wistel]] and decisively defeated by Derik at the Battle of Wisford. 
+As news spread like wildfire of a knight from the north who had been blessed by Ethlenn herself, Derik was quickly proclaimed [[Derik I]], King of [[Tyrwingha]] by the [[Oracle of the Riven]]. Derik gathered an army of lizardfolk, the knights of Telham and [[Tyrwingha]], the fey-touched warlocks of the Ethlenn, and [[Tollen|Tollen]] and [[Vostok]] mercenaries, which he marched west in the early spring of 1426. Derik drove the forces of [[Emperor Avatus|Avatus]] before him, and his army is flanked on the banks of the [[|Wistel]] and decisively defeated by Derik at the Battle of Wisford. 
 
-By the end of the summer of 1428, the war was over. Derik’s alliance, following the initial success of the Battle of Wisford in 1426, which broke [[Emperor Avatus|Avatus]]' lines on the [[Wistel|Wistel]], and the Battle of Fellburn in 1427, which forced [[Emperor Avatus|Avatus]] across the [[Enst|Enst]], won a decisive and complete victory at the Battle of Dalfield, in the northern Mosteve Hills, in the spring of 1428.   
+By the end of the summer of 1428, the war was over. Derik’s alliance, following the initial success of the Battle of Wisford in 1426, which broke [[Emperor Avatus|Avatus]]' lines on the [[Wistel]], and the Battle of Fellburn in 1427, which forced [[Emperor Avatus|Avatus]] across the [[Enst]], won a decisive and complete victory at the Battle of Dalfield, in the northern Mosteve Hills, in the spring of 1428.   
 
 Cloaked in glory and honor from his decisive military leadership and fey-enhanced charisma, Derik forged modern [[Sembara]] at the Treaty of Wisford, signed in the late fall of 1428 DR, which established the Royal Council, codified the independence of lizardfolk in the realm forevermore, and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 
@@ -159,7 +159,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 * DR 1648, spring: Cece I raises [[The Radiant Alliance]]
 * DR 1648, summer: [[The Enst Campaign]] pushes the [[Shattered Ice Clan]] west of [[Barony of Vaubonne|Vaubonne]] and south of the [[Enst]]
 * DR 1649, summer: [[The Maseau Campaign]] pushes the [[Shattered Ice Clan]] west of [[Duchy of Maseau|Maseau]], into the foothills of the [[Sentinel Range]] and the [[Marches of Enford]]
-* DR 1650, summer: [[The Enford Campaign]] pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst|Enst]] and establishes a strong garrison at [[Enford]]
+* DR 1650, summer: [[The Enford Campaign]] pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst]] and establishes a strong garrison at [[Enford]]
 * DR 1653: The [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] ends
 # The Peace of Cece
 DR 1650 - DR 1713; 2 Cece I - 65 Cece 1
