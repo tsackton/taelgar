@@ -106,7 +106,7 @@ The rest of [[Derik I]]’s long reign is a time of renewed prosperity in [[Semb
 %%
 
 # The Blood Years
-DR 1545 - DR 1567; 26 Derik III - 6 Blanche I
+DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 ### Overview
 
 ###
@@ -122,45 +122,58 @@ DR 1545 - DR 1567; 26 Derik III - 6 Blanche I
 * DR 1551, fall: The [[Blood Plague]] spreads north, killing everything
 * DR 1552, winter: A terrible winter of [[The Famine of 1552|famine]] 
 * DR 1552, winter: [[Bertram I]] dies and [[Bertram II]] is crowned with [[Jane of Tollen]] as his regent
-* DR 1552, spring: The [[Blood Plague]] ends, although the toll south of the [[Enst]] was immense. [[Duchy of Maseau|Maseau]] and [[Gazetteer/The Green Sea Region/Western Green Sea/Greater Sembara/Addermarch]] are abandoned as are many villages in the west
+* DR 1552, spring: The [[Blood Plague]] ends, although the toll south of the [[Enst]] was immense. [[Bertram I]] stops collecting rents from [[Addermarch]] and [[Duchy of Maseau|Maseau]]
 * DR 1553, winter: The [[Regency of Jane of Tollen]] ends and [[Bertram II]] takes power himself
-* DR 1558, spring: News reaches [[Embry]] of the [[Battle of White Pass]] (the opening thrust of the [[Sentinel Range War]] and at Jane's urging, no aid is sent to [[Ardlas]] or [[Lavnoch]]
+* DR 1558, spring: News reaches [[Embry]] of the [[Battle of White Pass]] (the opening thrust of the [[Sentinel Range War]]) and at Jane's urging, no aid is sent to [[Ardlas]] or [[Lavnoch]]
 * DR 1559: [[Jane of Tollen]] dies and [[Bertram II]] rides north to aid [[Ardlas]]
 * DR 1561, late winter: [[Bertram II]] dies in the [[Battle of SomeOtherPass]]
 * DR 1561, spring: [[Blanche I]] is crowned Queen
 * DR 1561, summer: The [[Sentinel Range War]] ends
-# The Sisters War
-DR 1563 - DR 1574; 3 Blanche I - 5 Wissym I
-###
 * DR 1563: The barons of [[Zovcka]] refuse to come to court and meet instead at the small trade town of Doka, and proclaim Mila, Baroness of the Upper Volta as Queen of Zovcka. [[Blanche I]] does nothing, claiming it was foretold by the stars
 * DR 1564: A year of fine harvests and the first year in living memory when the borders of Sembara are at peace
 * DR 1565: [[Blanche I]] departs on her [[Grand Ambassadorship of Blanche I]] to the Green Sea
 * DR 1566: [[Blanche I]] returns from her grand tour, and starts to show significant favoritism to her sister [[Elaine I]]
+* DR 1568: The [[Interregum of 1568]]. [[Wisym I]] appointed King.
+# The Hobgoblin Wars
+DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 
-# The First and Second Hobgoblin Wars
-DR 1574 - DR 1602; 5 Wissym I - 1 Arryn II
-
-# The Uneasy Peace
-DR 1602  - DR 1644; 2 Arryn II - 16 Charlotte II
-
-# The Third Hobgoblin War
-DR 1644 - DR 1650; 16 Charlotte II - 2 Cece I
-
-###
-DR 1644, summer: [[Charlotte II]] at the urging of her husband, the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
-DR 1644, fall: After several early successes, the Sembaran [[Army of the South]] is fought to a stalemate at the [[Battle of Lysandale]] in the western reaches of Maseau
-DR 1644, late fall/winter: The [[Shattered Ice Clan]] pushes west and besieges [[Valarin]] and several other prominent towns in [[Duchy of Maseau|Maseau]]. Most of the [[Army of the South]] is trapped.
-DR 1645, early winter: %% Orcs? Something? Army of West in trouble, North called %%
-DR 1645, spring and summer: %% setbacks, much of the west is overrun, bad thing is held back from the wall but Enford, 
+* DR 1574: The [[First Hobgoblin War (Sembara)|First Hobgoblin War]] begins. 
+* DR 1578: The [[First Hobgoblin War (Sembara)|First Hobgoblin War]] ends. A substantial portion of the [[Shattered Ice Clan]] remains established in the [[Marches of Enford]] and western [[Duchy of Maseau|Maseau]]
+* DR 1590: The [[Shattered Ice Clan]] launches significant raids across [[Duchy of Maseau|Maseau]], which sends an [[The Maseau Embassy of 1590|embassy]] to Sembara for aid
+* DR 1590, fall: [[Elaine I]] sends the [[Army of Mostreve]] and the [[Army of the South]] to aid [[Duchy of Maseau|Maseau]]. The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] begins
+* DR 1602: [[Blanche II]] dies in childbirth, and her great uncle, [[Percival Wynthrope]], becomes regent for her young son
+* DR 1602: The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends with the [[Treaty of Châteauclair]] between the regent, [[Percival Wynthrope]] and the [[Shattered Ice Clan]]. The lands south of the Enst and west of the Aure are ceded to the hobgoblins. 
+* DR 1644, summer: [[Charlotte II]] at the urging of her husband [[Lionel Falconhurst]], the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
+* DR 1644, fall: After several early successes, the Sembaran [[Army of the South]] is fought to a stalemate at the [[Battle of Lysandale]] in the western reaches of Maseau
+* DR 1644, late fall/winter: The [[Shattered Ice Clan]] pushes east and [[The Siege of Valarin (Third Hobgoblin War)|besieges]] [[Valarin]]. The hobgoblins refuse to press their advantage in [[Duchy of Maseau|Maseau]] and do not move south of [[Valarin]]
+* DR 1644, late fall/winter: The [[Shattered Ice Clan]] breaks the fortifications in [[Barony of Vaubonne|Vaubonne]] and camps outside [[Fellburn]]
+* DR 1645: Hobgoblins consolidate the lands south of the [[Enst]] and raid throughout the [[Duchy of Wisford]], the [[Barony of Dunfry]], the [[Barony of Aveil]], and the [[Barony of Ainwick]]. 
+* DR 1646, summer: The Sembaran [[Grand Army of Sembara (Third Hobgoblin War)|Grand Army]] is defeated at the [[Battle of Rinburg]]. 
+* DR 1647: The [[Shattered Ice Clan]] controls all of the lands west of the [[Mostreve Hills]] and the [[River Aure]], between [[Valarin]] and the [[Enst]], and holds several towns on the north side of the Enst including [[Cleenseau]] and [[Rinburg]].
+* DR 1647, summer: The [[Army of Mostreve]] in alliance with the [[Earl of Addermarch]] holds the line of the [[River Aure]] at the [[Battle of the Aure]]
+* DR 1647, summer: [[Dunfry]] is [[Siege of Dunfry (Third Hobgoblin War)|besieged]].
+* DR 1647, late fall: [[Fellburn]] is [[The Hobgoblin Sack of Fellburn|sacked]]
+* DR 1648, late winter: Charlotte II is [[The Ambush of Charlotte II|killed by hobgoblins]] while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]
+* DR 1648, late winter: Cece I crowned Queen
+* DR 1648, early spring: The [[Army of the North]] breaks the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]]
+* DR 1648, spring: Cece I raises [[The Radiant Alliance]]
+* DR 1648, summer: [[The Enst Campaign]] pushes the [[Shattered Ice Clan]] west of [[Barony of Vaubonne|Vaubonne]] and south of the [[Enst]]
+* DR 1649, summer: [[The Maseau Campaign]] pushes the [[Shattered Ice Clan]] west of [[Duchy of Maseau|Maseau]], into the foothills of the [[Sentinel Range]] and the [[Marches of Enford]]
+* DR 1650, summer: [[The Enford Campaign]] pushes the [[Shattered Ice Clan]] out of the headwaters of the [[River Enst|Enst]] and establishes a strong garrison at [[Enford]]
+* DR 1653: The [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] ends
 # The Peace of Cece
-DR 1650 - DR 1720; 2 Cece I - 6 Robert 1
+DR 1650 - DR 1713; 2 Cece I - 65 Cece 1
 ### Overview
-The reign of [[Cece I]] is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, if not gone, is isolated to [[The Western Marches]]. 
-###
-DR 1713: [[Cece I]] dies. In Sembara, Robert I is crowned king, but the [[Oracle of the Riven]] [[The Election of Elaine II|elects]] his cousin, [[Elaine II]] the Queen of [[Tyrwingha]]
-DR 1715, spring: [[Rowena Chemare]], [[Robert I|Robert's]] wife, is murdered by bandits in the [[Aine Hills]] while visiting her family holdings
-DR 1715, summer: Robert leads the [[Army of the North]] on a [[Robert I's Bandit War|summer campaign]] against bandits in the [[Aine Hills]] and [[The Highlands|Sembaran Highlands]]
-DR 1716, spring: [[Robert I|Robert's]] eldest son, [[Robert of Sewick|Robert]] is infected by a lycanthrope and disappears shortly afterward west of [[Marches of Enford|Enford]] 
-DR 1717, fall: [[Robert I|Robert's]] daughter, [[Arabella|Arabella of Sewick]] dies in childbirth, her son apparently possessed by a demon. Rumors spread of [[Cece I|Cece's]] ill luck with children as being passed down to her son.
-DR 1717, late winter: [[Robert I|Robert's]] younger son, [[Thaddeus of Sewick|Thaddeus]] is shipwrecked off the coast of [[Cymea]], with his wife and young child, and is never heard from again
-DR 1718, early spring: The Royal Council meets over [[Robert I|Robert's]] objections and declares [[Elaine II]] the heir to the Sembaran throne. 
+In the autumn of 1650, after three summers of campaigning, the [[Shattered Ice Clan]] has been cleansed from the land. Three years prior, a hobgoblin dominion stretched in the Enst valley, from the [[Sentinel Range]] to the headwaters of the Aure in Addermarch, and even northwards into the Barony of Varbonne. It is now gone, although people have only slowly started returning to the war-torn lands.
+
+The reign of [[Cece I]] is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, although not entirely gone, is isolated to [[The Western Marches]]. 
+# Recent Events
+Since DR 1713 (1 Robert I)
+
+* DR 1713: [[Cece I]] dies. In Sembara, Robert I is crowned king, but the [[Oracle of the Riven]] [[The Election of Elaine II|elects]] his cousin, [[Elaine II]] the Queen of [[Tyrwingha]]
+* DR 1715, spring: [[Rowena Chemare]], [[Robert I|Robert's]] wife, is murdered by bandits in the [[Aine Hills]] while visiting her family holdings
+* DR 1715, summer: Robert leads the [[Army of the North]] on a [[Robert I's Bandit War|summer campaign]] against bandits in the [[Aine Hills]] and [[The Highlands|Sembaran Highlands]]
+* DR 1716, spring: [[Robert I|Robert's]] eldest son, [[Robert of Sewick|Robert]] is infected by a lycanthrope and disappears shortly afterward west of [[Marches of Enford|Enford]] 
+* DR 1717, fall: [[Robert I|Robert's]] daughter, [[Arabella|Arabella of Sewick]] dies in childbirth, her son apparently possessed by a demon. Rumors spread that [[Cece I|Cece's]] ill luck with children as being passed down to her son.
+* DR 1717, late winter: [[Robert I|Robert's]] younger son, [[Thaddeus of Sewick|Thaddeus]] is shipwrecked off the coast of [[Cymea]], with his wife and young child, and is never heard from again
+* DR 1718, early spring: The Royal Council meets over [[Robert I|Robert's]] objections and declares [[Elaine II]] the heir to the Sembaran throne. [[Robert I]] acquiesces, although he vows to remarry and produce a new heir from his body.
