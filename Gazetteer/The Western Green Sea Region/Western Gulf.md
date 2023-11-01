@@ -1,6 +1,3 @@
----
-tags: []
----
 # Western Gulf
 
 The Western Gulf is the inland sea at the far western edge of the [[Green Sea]] Separated from [[Green Sea]] proper by the narrow [[Straits of Cymea]], the Western Gulf tends to milder weather and easier navigation. 
