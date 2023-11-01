@@ -1,0 +1,1 @@
+A book written in an ancient tongue, probably that of the first humans to live on Hkar, about the [[Land of the Dead]].

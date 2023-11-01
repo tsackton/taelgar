@@ -7,17 +7,8 @@ _DM_/
 # Add ignore unshared assets
 assets/unshared/
 
-# Ignore unshared items
-Things/*
-!/Things/Artifacts of Power
-/Things/Artifacts of Power/*
-!/Things/Artifacts of Power/Circlet of Foreknowledge.md
-
 # Ignore base md files
 /*.md
-
-# Ignore campaign directories
-Campaigns/
 
 # Ignore dot directories
 .*/
@@ -28,7 +19,3 @@ Campaigns/
 
 # Include gitignore
 !.gitignore
-
-# Include Player Guide material
-!Player's Guide.md
-!Character Creation Guide.md

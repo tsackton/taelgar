@@ -4,7 +4,7 @@ Eons ago, lost in the dawn of time when the Firstborn walked the earth and the g
 
 One such skyship, the Star on the Wind, known as Vindristjarna (vin-dree-shar-na) to the storm giants, crashed on what is now the Dunmari plains thousands of years ago. 
 
-Stormcaller Tower was originally constructed on the prow of this crashed ship by the [[Elf|elves]], before [[The Downfall]], during the height of power of the ancient elven kingdom of [[Alcarinquë]]. 
+Stormcaller Tower was originally constructed on the prow of this crashed ship by the [[Elves|elves]], before [[The Downfall]], during the height of power of the ancient elven kingdom of [[Alcarinquë]]. 
 
 The world turned, and the elves retreated, and humans spread across the land. The Drankorians soon found the tower, and studied the ancient magics within. Towards the end of the [[Drankorian Empire]], the tower became the base and outpost of [[Eudomes]] Stormcaller, a powerful Drankorian mage. He devised an elaborate magical mechanism to bind and trap storms themselves, harnessing their energy for magical works, and ultimately hoping to restore the skyship below somehow. 
 
