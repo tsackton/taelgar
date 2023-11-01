@@ -16,9 +16,6 @@ Things/*
 # Ignore base md files
 /*.md
 
-# Ignore campaign directories
-Campaigns/
-
 # Ignore dot directories
 .*/
 
@@ -29,6 +26,3 @@ Campaigns/
 # Include gitignore
 !.gitignore
 
-# Include Player Guide material
-!Player's Guide.md
-!Character Creation Guide.md
