@@ -27,9 +27,9 @@ The known world of Taelgar stretches 2,500 miles from the great city of [[Chardo
 - North and east of [[Dunmar]] is the [[Plaguelands]], a vast wasteland created by the aftermath of the [[Great War]], where few sentient beings willingly dwell. 
 - The [[Sentinel Range]] stretches more than 2,000 miles from the far north to the plains of [[Dunmar]]. The largest and most populous [[Dwarven Kingdoms]] of Taelgar lie among and beneath these peaks. 
 - Along the [[Western Gulf]], east of the [[Sentinel Range]] and north of the [[Plaguelands]] is the Kingdom of [[Sembara]], a hereditary monarchy on fertile agricultural land, known for its grain and prowess at arms. 
-- North of [[Sembara]], the city of [[Tollen|Tollen]] on the river [[River Volta|Volta]] sends navies across the [[Western Gulf]], and the powerful trade guilds of [[Tollen]] grow rich off the trade routes that crisscross the [[The Green Sea|Green Sea]]. 
-- Further north, the cold, rocky, and forested land of [[Vostok]] and the islands of [[Skaerhem]] are home to the descendants of a proud mariner culture that once dominated [[the Green Sea]]. 
-- [[Cymea]], across the [[Western Gulf]] from [[Sembara]], is home to an unruly collection of squabbling city-states, once, but no longer, the dominate maritime power on [[the Green Sea]]. 
+- North of [[Sembara]], the city of [[Tollen]] on the river [[Volta]] sends navies across the [[Western Gulf]], and the powerful trade guilds of [[Tollen]] grow rich off the trade routes that crisscross the [[Green Sea]]. 
+- Further north, the cold, rocky, and forested land of [[Vostok]] and the islands of [[Skaerhem]] are home to the descendants of a proud mariner culture that once dominated the Green Sea. 
+- [[Cymea]], across the [[Western Gulf]] from [[Sembara]], is home to an unruly collection of squabbling city-states, once, but no longer, the dominate maritime power on the Green Sea. 
 
 To the east, south, and north, and perhaps even across [[the Endless Ocean]] to the west, stranger lands exist in rumor and imagination, but few common folk of northwestern Taelgar have ever met anyone from these distant lands. 
 ## History
