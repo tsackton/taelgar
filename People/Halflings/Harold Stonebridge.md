@@ -19,4 +19,4 @@ yearOverride:
 ---
 ### Harold Stonebridge
 
-A halfling child, he is the errand boy of [[the Crossroads Inn]] in [[Cleenseau]]. 
+A halfling child, he is the errand boy of [[The Crossroads Inn]] in [[Cleenseau]]. 

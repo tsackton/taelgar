@@ -5,7 +5,7 @@ The breadbasket of Sembara and the merchant houses of Tollen are the twin econom
 ### Sembaran Trade Goods
 Sembara is rich in grain in particular, and [[The Heartlands]] generate significant grain surpluses which are traded mostly to Tollen. The region is also known for its cattle, pigs, and fine horses, and a secondary trade in leather is not insignificant. Flax is also grown here and linen cloth manufactured and traded to Tollen.
 
-The [[Braebein]] in the [[Duchy of Arnbury]] are rich in silver mines and fine marble, although the marble is rarely traded far due to the costs of shipping. In the western parts of Arnbury, and the highland kingdom of Ardlas, maple syrup is popular as well and some is traded south and east. Much of the silver of the Braebein flows out of Sembara to Tollen.
+The [[Braebein]] in the [[Duchy of Arnsbury]] are rich in silver mines and fine marble, although the marble is rarely traded far due to the costs of shipping. In the western parts of Arnsbury, and the highland kingdom of Ardlas, maple syrup is popular as well and some is traded south and east. Much of the silver of the Braebein flows out of Sembara to Tollen.
 
 The highlands, the northlands, and much of the Wistel and Semb river valleys are known for their sheep and wool. Cheimin sheep are especially highly regarded for their fine wool (think Merino wool or alpaca on earth) and the dukes of Cheimin closely guard their flocks.
 
