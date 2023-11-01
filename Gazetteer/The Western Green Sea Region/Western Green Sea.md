@@ -1,4 +1,4 @@
-# The Western Green
+# Western Green Sea
 
 The Western Green Sea region refers to the areas clustered around the [[Western Gulf]] and the more westerly parts of the Green Sea.
 

@@ -3,19 +3,19 @@ aliases: [Tollen]
 ---
 # The Free City of Tollen
 
-A bustling port on the [[River Volta|Volta]] River, which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply [[the Green Sea]], bringing back goods from near neighbors as well as the far East. Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[dwarves]], [[stoneborn]], [[lizardfolk]], and even [[Elf|elves]] and stranger species can be found living together. 
+A bustling port on the [[River Volta|Volta]] River, which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply [[The Green Sea]], bringing back goods from near neighbors as well as the far East. Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[dwarves]], [[stoneborn]], [[lizardfolk]], and even [[Elf|elves]] and stranger species can be found living together. 
 ## History
 
 Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
 ### Founding
 
-Tollen was originally founded on the north bank of the [[River Volta|Volta]] river by the first mariner migrants from [[Hkar]], before [[the Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of [[the Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[the highlands]], and the non-[[humans]] ([[lizardfolk]] and [[halflings]], mostly) of the [[western Green sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
+Tollen was originally founded on the north bank of the [[River Volta|Volta]] river by the first mariner migrants from [[Hkar]], before [[the Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of [[The Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[The Highlands]], and the non-[[humans]] ([[lizardfolk]] and [[halflings]], mostly) of the [[Western Green Sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
 
 ### Downfall and Rebirth
 
 In 4050s, [[the Downfall]] Wars begin, and Tollen is cut off from the [[eastern Green Sea]], as long voyages become too dangerous. The ocean itself turns violent, as storms wrack the seas and the great swamps to the south start to dry. By 4122, when [[the Downfall]] Wars have ended, Tollen is virtually abandoned, and the land that will become [[Sembara]] depopulated, settled by scattered villages of farmers, with [[Embry]] and a few other river towns among the only significant population settlements.
 
-By the 4200s, the Skaer have established themselves as the dominant mariner culture in the [[western Green Sea]], and resettle and rebuild Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the [[River Semb|Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.
+By the 4200s, the Skaer have established themselves as the dominant mariner culture in the [[Western Green Sea]], and resettle and rebuild Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the [[River Semb|Semb]], raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.
 
 ### Drankorian Influence
 
@@ -25,7 +25,7 @@ In 4535, the Drankorians and the Skaer sign a peace treaty, the [[Treaty of Marh
 
 By the 4600s, during the Long Peace, Tollen begins to assert more autonomy. By now it has become a mixing place of Drankorian, Skaer, and Highlander culture, with diverse religious practices and where many languages can be heard. During this era the first merchant houses are established, becoming rich off the trade of dyed cloth south to [[Drankorian Empire|Drankor]], and the development of magical tattoos, especially those that could help sailors control the wind and sea.
 
-In the 4800s, as Drankorian expansion to the west begins in earnest and the might of the empire is focused to the east, the Tollen merchant houses have de facto control over Tollen, and Tollen has become a major city and one of the central mercantile powers of the [[western Green Sea]]. It is during this era that the [[University of Tollen]] is founded.
+In the 4800s, as Drankorian expansion to the west begins in earnest and the might of the empire is focused to the east, the Tollen merchant houses have de facto control over Tollen, and Tollen has become a major city and one of the central mercantile powers of the [[Western Green Sea]]. It is during this era that the [[University of Tollen]] is founded.
 
 ### The Fall of [[Drankorian Empire|Drankor]] and the Growth of [[Sembara]]
 
@@ -76,7 +76,7 @@ Nordgate: North of Aesganstrad and east of [[Bridgeward]], around the original n
 
 ### The Sembaran City
 
-After the fall of the [[Drankorian Empire]], there was a major economic disruption in [[the Green Sea]], and Tollen suffered. The population of the city shrunk, the University drifted apart, and many Drankorian structures fell into disrepair. However, in the 5300s and 5400s, as [[Sembara]] grows, Tollen experiences a major economic boom, rapidly growing. 
+After the fall of the [[Drankorian Empire]], there was a major economic disruption in [[The Green Sea]], and Tollen suffered. The population of the city shrunk, the University drifted apart, and many Drankorian structures fell into disrepair. However, in the 5300s and 5400s, as [[Sembara]] grows, Tollen experiences a major economic boom, rapidly growing. 
 
 [[Godshome]]: West of Nordgate, along Temple Street where many different houses of worship to different gods are found. Grew around (some kind of religious complex pre-existing outside the walls in the Drankorian days, perhaps).
 
@@ -132,7 +132,7 @@ Other landmarks could include a theater, government palace, major clock tower, o
 %%
 ## Economy and Trade
 
-Tollen is the master of the [[western gulf]], with significant fishing, merchant, and naval fleets. The Tollender navy controls the islands in the gulf of Tollen, as well as the Straits of [[Cymea]], and patrols the [[Western Gulf]], keeping it free of pirates. 
+Tollen is the master of the [[Western Gulf]], with significant fishing, merchant, and naval fleets. The Tollender navy controls the islands in the gulf of Tollen, as well as the Straits of [[Cymea]], and patrols the [[Western Gulf]], keeping it free of pirates. 
 
 The Tollen economy is powered by trade. Tollenders produce dyes. cloth, and fine clothes that are widely sought across [[The Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollender merchant fleets travel widely, bringing exotic goods back west, both as the raw ingredients for dyes (both mundane and magical) and for trade. Tollen is also a center for the production of magical inks and tattoos.
 
@@ -155,7 +155,7 @@ Here's an idea for an alternative timeline that keeps Tollen independent the w
 
 What if the earliest settlers of Tollen were explicitly the misfits and dissatisfied with the marnier culture (not sure what it is like exactly, but I imagine by the 3900s the OceanGod was dominant in a way that would allow some questioners or people not wedded to the mariner way of life to want to strike out). I'm thinking a bit of a Roger Williams or some of the other 'free thinker' early New England settlers vibe. 
 
-From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out [[the Highlands]] and the mariners have a lot to sell each other, so then comes the merchants.
+From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out [[The Highlands]] and the mariners have a lot to sell each other, so then comes the merchants.
 
 In the 4050s, [[the Downfall]] War certainly unsettles things, but that doesn't mean Tollen has to be abandoned. The merchants flee, and the city shrinks dramatically, but it is not abandoned entirely.  
 
