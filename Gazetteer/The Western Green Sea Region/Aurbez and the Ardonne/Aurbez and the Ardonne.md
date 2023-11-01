@@ -10,7 +10,7 @@ Four rivers run through the region:
 * The [[Masance]]
 * The [[Ardonne]]
 
-The rivers and the [[Maseau - Dunmar Road]]], running from [[Maseau]], provide the main places of settlement.
+The rivers and the [[Maseau - Dunmar Road]]], running from [[Duchy of Maseau|Maseau]], provide the main places of settlement.
 
 In addition to these rivers, the land is divided into a highland and a lowland. A large plateau, the [[Aurbez Plateau]], stretches out from the mountain foothills from the just east of the headwaters of the [[Masance]] to the headwaters of the [[Douren]]. This highland is gentler than the rest of the region, as the ash storms fall less strongly here, and there is marginally more rain, especially in the southern and western parts of the plateau, where aspens thrive amongst small streams and alpine meadows. The Aurbez plateau drops off rapidly to the east, and beyond the Masance the land flattens significantly into long scrubby grasslands, the Ardonne Plain. The soil here is marginal, but can support grazing, especially north of the [[Ardonne]] where the plague ash lies less heavy on the land.
 

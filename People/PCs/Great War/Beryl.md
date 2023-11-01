@@ -17,14 +17,6 @@ yearOverride:
 ---
 ### Beryl
 
-A hero of the [[Great War]], now in the sky as the Hunter of the [[Fox and Hunter]].
+A hero of the [[Great War]], and the leader of [[The Rangers]] in the 1540s, now in the sky as the Hunter of the [[Fox and Hunter]].  Originally from the [[Istabor Alliance]].
 
-%%NOTES
-Ranger, warrior, from the ~Irebor~ river valley.
-
-Became a leader of the Rangers and a significant figure in the Great War.
-
-Known for his staff, Analadin, and his fox companion, Willow Wind.
-
-Now a constellation in the sky of the Fox and Hunter.
-%%
+Known for his staff, [[Analadin]], and his fox companion, [[Willow Wind]].

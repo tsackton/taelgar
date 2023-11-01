@@ -1,4 +1,4 @@
-road from ~Karawa to Chardon. needs a name.
+road from near Karawa to Chardon. needs a name.
 
 %%notes
 The old Drankorian Road that runs east/west, reasonably heavily used between Karawa and Tokra, then on to Songara, but peters out east of Karawa. 

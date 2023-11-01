@@ -17,7 +17,7 @@ You have identified the following properties of this item so far, although its f
 
 ## Destruction
 
-The Scepter of Command was destroyed in 1748, by [[The Dunmar Fellowship]]. It was immersed in the sacred waters on the island of [[Gazetteer/The Green Sea Region/Western Green Sea/Skaerhem/Vetta|Vetta]] in the Skaer Islands for 24 hours during a full moon, and then shattered with the combined power of [[Kenzo]]'s staff and the might of [[Kaikkea]]'s waters. 
+The Scepter of Command was destroyed in 1748, by [[The Dunmar Fellowship]]. It was immersed in the sacred waters on the island of [[Vetta|Vetta]] in the Skaer Islands for 24 hours during a full moon, and then shattered with the combined power of [[Kenzo]]'s staff and the might of [[Kaikkea]]'s waters. 
 
 
 %%SECRET[1]%%

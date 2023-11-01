@@ -1,7 +1,7 @@
 # 7 Robert I / 1719 DR
 
 ### March
-* [[Wymar Essford]] and more than a dozen other minor lords in the [[Baron of Aveil]], the [[Barony of Dunfry]], the [[Barony of Vaubonne]], the [[Barony of Ainwick]], the [[Marches of Beauchêne]], and the small lords around the [[Aine Hills]] developed dementia and other illnesses
+* [[Wymar Essford]] and more than a dozen other minor lords in the [[Barony of Aveil]], the [[Barony of Dunfry]], the [[Barony of Vaubonne]], the [[Barony of Ainwick]], the [[Marches of Beauchêne]], and the small lords around the [[Aine Hills]] developed dementia and other illnesses
 ### August
 * Mid August: The beginning of [[Wakog|Wakog's]] raids
 
@@ -56,4 +56,4 @@
 * January 3rd, evening: [[Rosalind Essford|Lady Rosalind Essford]], her husband [[Arthur Bybet]], her advisor [[Eremon]], [[Ames Benthey]], and most of the [[Lord's Guard of Cleenseau]] depart for [[Embry]]
 * January 4th: The party investigates [[Duncan Rivers]] missing ale and finds a secret tunnel under the [[The Crossroads Inn]], [[Izgil Moonseeker|Izgil]] researches [[Archfey Ethlenn]]
 * January 5th: [[Celyn]] looks for fey; [[Izgil Moonseeker|Izgil]] continues his research; [[Robin of Abenfyrd|Robin]] organizes defenses in [[Taviose]] and [[Aulout]]
-* January 6th, morning: [[Robin of Abenfyrd|Robin]] learns of [[Béatrix of Cleenseau|Béatrix's]] impending miscarriage, and the party is attacked by zombies outside the midwife [[Margaret Ashford|Margaret's]] house
+* January 6th, morning: [[Robin of Abenfyrd|Robin]] learns of [[Beatrix of Cleenseau|Béatrix's]] impending miscarriage, and the party is attacked by zombies outside the midwife [[Margaret Ashford|Margaret's]] house

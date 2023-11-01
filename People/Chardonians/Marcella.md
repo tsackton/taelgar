@@ -13,7 +13,7 @@ tags: [NPC/DuFr/major, NPC/DuFr/met]
 family:
 whereabouts:
      - { date: 1714-01-01, place: "Chardon", region: Chardonian Empire, type: origin }
-     - { date: 1748-11-23, place: "east of the ~CentralMountains~", region: Greater Sembara, type: excursion }
+     - { date: 1748-11-23, place: "east of the Sentinel Range", region: Greater Sembara, type: excursion }
 ---
 # Marcella
 >[!info]+ Biographical Summary

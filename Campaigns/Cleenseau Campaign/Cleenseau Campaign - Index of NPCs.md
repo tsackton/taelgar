@@ -24,7 +24,7 @@ This contains an index of NPCs the party has met or heard of.
 * [[Selma Wisthelwind]], the proprietor of [[The Fox’s Flagon]]
 * [[Marion of Cleenseau|Marion]] and [[Adam of Cleenseau|Adam]], soldiers of the Bridge Patrol
 * [[Ames Benthey]], the captain of the Lord's Guard, recently returned to town
-* [[Béatrix of Cleenseau|Béatrix]], a recently retired solider, now a member of the town watch under [[Ysabel]]
+* [[Beatrix of Cleenseau|Béatrix]], a recently retired solider, now a member of the town watch under [[Ysabel]]
 * [[Abigail Moss]], a young farmer
 * [[Duncan Rivers]], the proprietor of [[The Bandit’s End]]
 * [[Harold Stonebridge]], a young halfling errand boy at [[The Crossroads Inn]]
