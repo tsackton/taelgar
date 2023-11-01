@@ -20,7 +20,7 @@ Vetta also has long been rumored to be a place of riches: sparking gems light up
 Yet, it has always been protected. It is said that the priest of the waters can control the water around the island, and hostile creatures attempting to dock find the currents and winds turned against them, the waves dashing their ships on the shore. Innumerable pirate ships are said to be sunk beneath the rocky cliffs of Vetta. 
 ## Recent Events
 
-In DR 1748, [[Urgall the Black]] landed on Vetta. Urgall was (is) an outcast from Skaer society. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered [[Green Sea]], eventually turning to piracy, and pledging himself to a demon as a warlock. 
+In DR 1748, [[Urgall the Black]] landed on Vetta. Urgall was (is) an outcast from Skaer society. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered the [[Green Sea]], eventually turning to piracy, and pledging himself to a demon as a warlock. 
 
 In May of DR 1748, Urgall and his ship landed at Vetta and attacked. They slaughtered the pilgrims who were there, and the staff, and finally the priest of the waters. Thinking they had won a great victory, they began to plunder the island. 
 
