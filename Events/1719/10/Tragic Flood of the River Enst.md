@@ -8,4 +8,4 @@ fc-category: Cleenseau Campaign
 ### Tragic Flood of the River Enst
 *October 16th, 1719; 3pm*
 
-After a morning of heavy rain, the [[River Enst|Enst]] unexpected flooded its banks in several places between [[Cleenseau]] and [[Rinburg]]. The three children of [[Rosalind Essford]] and their nursemaid were swept away.
+After a morning of heavy rain, the [[Enst|Enst]] unexpected flooded its banks in several places between [[Cleenseau]] and [[Rinburg]]. The three children of [[Rosalind Essford]] and their nursemaid were swept away.

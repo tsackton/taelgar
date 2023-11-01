@@ -1,11 +1,11 @@
 # Skaerhem
 
-Skaerhem, called Skaegenland by the Sembarans, is a collection of islands (the Skaer Islands), many volcanic, and the nearby coastline in the northwestern corner of [[The Green Sea]]. This is a land of frequent storms, rocky land, and difficult seas, but also a region teaming with marine bounty, and rich in rare volcanic metals and precious stones. 
+Skaerhem, called Skaegenland by the Sembarans, is a collection of islands (the Skaer Islands), many volcanic, and the nearby coastline in the northwestern corner of [[Green Sea]]. This is a land of frequent storms, rocky land, and difficult seas, but also a region teaming with marine bounty, and rich in rare volcanic metals and precious stones. 
 
-The Skaer, sometimes called the Skaegish, are an ancient people, an insular society descended from the original mariner migrants who left [[Hkar]] and settled [[The Green Sea]] before [[the Downfall]]. They, unlike any other inhabitants of [[The Green Sea]], retain the worship of the ancient mariner ocean goddess, [[Kaikkea]].
+The Skaer, sometimes called the Skaegish, are an ancient people, an insular society descended from the original mariner migrants who left [[Hkar]] and settled [[Green Sea]] before [[the Downfall]]. They, unlike any other inhabitants of [[Green Sea]], retain the worship of the ancient mariner ocean goddess, [[Kaikkea]].
 ## Geography
 
-The Skaer islands are a volcanic archipelago of many small and medium sized islands in the northwestern corner of [[The Green Sea]]. 
+The Skaer islands are a volcanic archipelago of many small and medium sized islands in the northwestern corner of [[Green Sea]]. 
 ## Community
 
 The Skaer are a communal society. All Skaer (excepting exiles and ex-pats) are a member of an *oskunja*, (pronounced oss-kun-ya) roughly “work group”, which is a mixed professional and familial unit that tends to manage a farm, or crew a boat, or manage a fishery together. These are primarily familial groups but people can and do move between them either by marriage (it is taboo to marry within your oskunja) or just by preference or happenstance. Oskunja are typically between 30-100 people.
@@ -19,7 +19,7 @@ The tight knit communities of the Skaer tend to a certain degree of conformity. 
 The Skaer tend not to build large cities -- in part because with the extensive volcanic activity on the Skaer islands, it is not unusual for towns to be destroyed by slow moving lava flows. The largest and oldest cities with a Skaer heritage are actually on the mainland, generally in [[Vostok]] (including [[Tollen]]). Most Skaer live in small villages, and while settlement density tends to be higher in places with good harbors or abundant geothermal heat, true market towns don't exist in the Skaer culture. 
 ## History
 
-The Skaer have a long history, tracing their ancestry to the original mariners that left [[Hkar]] before [[the Downfall]] and settled in [[The Green Sea]]. Bullet points:
+The Skaer have a long history, tracing their ancestry to the original mariners that left [[Hkar]] before [[the Downfall]] and settled in [[Green Sea]]. Bullet points:
 
 - Original Skaer were eastern mariners fleeing a religious schism and trying to find a quiet place to live in peace
 - After [[the Downfall]], the expansionist strand of their religion became dominant, and the Skaer established a maritime empire stretching from the Skaer islands to the [[Western Gulf]] and much of [[Cymea]]. 
