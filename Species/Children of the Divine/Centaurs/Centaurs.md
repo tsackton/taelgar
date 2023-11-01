@@ -1,6 +1,3 @@
----
-tags: [stub]
----
 # Centaurs
 
 This page contains lore information about centaurs. For details on character creation and playing a centaur, see [[Playing a Centaur]]. 

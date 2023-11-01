@@ -28,35 +28,6 @@ No matter which traits you choose to use to represent your Fey character, all Fe
 
 **Lifespan:** While Fey age, they do not age as regular mortals. Fey suffer no ill effects of old age, and do not change in appearance as they age, unless they wish to. Most fey live to be between 100 and 200 years before fading away, although some fey have been known to live much longer. 
 
-
-# Backgrounds
-Consider one of the following sample backgrounds for your fey character, or create your own. Note that feats marked with a * in sample backgrounds are from Unearthed Arcana documents. 
-
-## Charlatan
-**Ability Scores.** +2 Dexterity, +1 Wisdom
-**Skill Proficiencies.** Stealth, Survival
-**Tool Proficiency.** Herbalism Kit
-**Language.** Sylvan
-**Feat.** Alert
-
-You served your people in your youth as a hunter, traveling far from your kin, hunting and tracking game. On the frontier, you learned to be alert to danger, reading the signs of your prey, hiding when needed. The quiet time, waiting in ambush, trained you to always be ready for anything. 
-## Storyteller
-**Ability Scores.** +2 Charisma, +1 Intelligence
-**Skill Proficiencies.** History, Performance
-**Tool Proficiency.** Musical instrument of your choice
-**Language.** Elvish
-**Feat.** Musician
-
-You spent your youth learning the stories and oral histories of your people, and learning to set them to song. Perhaps you trained with an elder centaur in your society, or even traveled far from home to learn music and song from reclusive elves. You learned to inspire your companions with song and story. 
-## Prophet
-**Ability Scores.** +2 Wisdom, +1 Intelligence
-**Skill Proficiencies.** Nature, Insight
-**Tool Proficiency.** Gaming Set of your choice
-**Language.** Primordial
-**Feat.** Magic Initiate (Primal)*
-
-You can read the signs of prophecy in the land, either a natural gift, or a hard won skill learned at the feat of a master of your people. Your connection to the land has given you the ability to lightly tap the magic of Taelgar itself. 
-
 # Languages
 
 When you create your character, you may choose two languages in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Sylvan. 

@@ -1,5 +1,5 @@
 
-## A Story About Hags
+# A Story About Hags
 
 Think for a second of how much you actually know as a commoner. You probably don't know specifically 'Hags', you instead have heard rumors about "The Woman of the Cliffs". People whisper that she's evil, cruel, and malicious. But you're in the tavern one night drinking away your worries about your eldest daughter's growing illness when Svenson, the local drunkard, is speaking to your neighbor, Wilfun, about his and his wife's problems having a child, and he says "Why not speak to the woman of the cliffs? They say she has powers". The other locals shush him up, talking about how bad an idea it is. But your neighbour looks thoughtful. You finish your tankard and forget about it.
 
