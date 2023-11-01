@@ -1,21 +1,30 @@
 # Dwarven Kingdoms of the [[Sentinel Range]]
 
-The Dwarven kingdoms of the [[Sentinel Range]] have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around ~UrlichMonastery~. 
+The Dwarven kingdoms of the [[Sentinel Range]] have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around the ancient [[Urlich Monastery]]. 
 
 During [[The Downfall]], when [[Hkar]] fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [[Dwarves]] survived, and while the [[Drankorian Empire]] was being established aboveground, the Five Kingdoms were growing below and among the [[Sentinel Range]].
 
 ![[dwarven-kingdoms-map.png|300]]
  
 ## [[Ardith]]
-In the far south, south of ~UrlichMonastery~, is [[Ardith]], growing rich on trade with [[Drankorian Empire|Drankor]], and later with [[Dunmar]], until at the end of the [[Great War]] they were driven from their homes and settled south, in the [[Yuvanti mountains]], founding [[Nardith]]. ~unlabeled on the map~
+In the far south, south of [[Urlich Monastery]], is [[Ardith]], growing rich on trade with [[Drankorian Empire|Drankor]], and later with [[Dunmar]], until at the end of the [[Great War]] they were driven from their homes and settled south, in the [[Yuvanti mountains]], founding [[Nardith]]. Now destroyed. 
 ## [[Khatridun]]
-North of [[Ardith]] is the kingdom of [[Khatridun]], centered on the great city of ~DwCity1~, one of the oldest Dwarven cities in the world during the Drankorian Era. During the [[Great War]], [[Khatridun]] was devastated, and ~DwCity1~ was destroyed. Now, a remnant of this ancient kingdom survives on the border of [[Sembara]]. Once rich and prosperous on the trade between [[Sembara]] and [[Chardon]], [[Khatridun]] now looks inward to Dwarven history and the legends of the past.  ~labeled DK2 on the map~
+_Labeled DK2 on the map_
+
+North of [[Ardith]] is the kingdom of [[Khatridun]], centered on the great city of [[~DwCity1~]], one of the oldest Dwarven cities in the world during the Drankorian Era. During the [[Great War]], [[Khatridun]] was devastated, and [[~DwCity1~]] was destroyed. Now, a remnant of this ancient kingdom survives on the border of [[Sembara]]. Once rich and prosperous on the trade between [[Sembara]] and [[Chardon]], [[Khatridun]] now looks inward to Dwarven history and the legends of the past.  
+
 ## [[Am'khazar]]
-West of [[Khatridun]] is the kingdom of [[Am'khazar]], roughly "rich-iron-mountains." [[Am'khazar]] has always been the center of mineral wealth in the [[Sentinel Range]], with deep mines and a rich trade in gemstones from [[Zarkandur]], the City of Gems. ~labeled DK3 on the map~
+_Labeled DK3 on the map_
+
+West of [[Khatridun]] is the kingdom of [[Am'khazar]], roughly "rich-iron-mountains." [[Am'khazar]] has always been the center of mineral wealth in the [[Sentinel Range]], with deep mines and a rich trade in gemstones from [[Zarkandur]], the City of Gems. 
 ## [[Nidzahar]]
-In the current era, [[Nidzahar]] is the largest and richest of the dwarven kingdoms, known widely across the [[Western Green Sea]] and even as far as [[Chardon]] as the source of a wide range of expertly crafted goods. [[Nidzahar]] is the most technologically oriented of the dwarven kingdoms, and has the most extensive surface settlements. ~labeled DK4 on the map~
+_Labeled DK4 on the map_
+
+In the current era, [[Nidzahar]] is the largest and richest of the dwarven kingdoms, known widely across the [[Western Green Sea]] and even as far as [[Chardon]] as the source of a wide range of expertly crafted goods. [[Nidzahar]] is the most technologically oriented of the dwarven kingdoms, and has the most extensive surface settlements. 
 ## [[Fahnukan]]
-In the far north, the dwarven kingdom of [[Fahnukan]] is strange and isolated, with little contact with the southern dwarven kingdoms for the past many generations. ~labeled DK5 on the map~
+_Labeled DK5 on the map_
+
+In the far north, the dwarven kingdom of [[Fahnukan]] is strange and isolated, with little contact with the southern dwarven kingdoms for the past many generations. 
 
   
 %% 
@@ -25,7 +34,6 @@ The basic plotline: historically, the southern kingdoms ([[Ardith]] and [[Khatri
 
 Elsewhere in the world, of course, there are other dwarven kingdoms, but historically the five kingdoms of the [[Sentinel Range]] have been the center of dwarven culture and the largest population centers of [[Dwarves]].
 
-Possible Dwarven names for things: 
-~CentralMountains>~: Sheth’abad; Shethrabad; Abadkan;
+
 
 %%

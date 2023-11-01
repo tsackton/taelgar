@@ -14,4 +14,4 @@ A large spider crept out of the woods onto the roof of [[Perrin Voclain|Perrin V
 
 [[Viepuck]] was able to badly damage the largest spider with eldritch magic, before being paralyzed by a smaller one. [[Robin of Abenfyrd|Robin]] rode down one spider, [[Izgil Moonseeker|Izgil]] destroyed one by calling down the power of the moon on it, and [[Celyn]]-- after vanishing a misty sparkle and reappearing next to [[Robin of Abenfyrd|Robin]] was able to skewer the final one in the eye.
 
-[[Perrin Voclain|Perrin]] was badly injured, but saved by the actions of [[Viepuck]], [[Izgil]], and [[Robin of Abenfyrd|Robin]], who magically healed him.
+[[Perrin Voclain|Perrin]] was badly injured, but saved by the actions of [[Viepuck]], [[Izgil Moonseeker|Izgil]], and [[Robin of Abenfyrd|Robin]], who magically healed him.

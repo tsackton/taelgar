@@ -10,7 +10,7 @@ DR 1400 - DR 1545
 ### Overview
 After [[Cha'mutte]] established himself in Pandar, the [[K'eye]] river became the de facto border of Deno'qai territory, and for several hundred years minor skirmishes were frequently fought across the river border, and the larger Deno'qai settlements retreated towards the hills and mountains. 
 
-In DR 1536, [[Cha'mutte]] launched his assault. Keeping dragons in reserve, an army of hobgoblins quickly established control over the ~200 miles of forest between the [[K'eye]] and Pandar, clearing the forests and using the timber for massive war machines.
+In DR 1536, [[Cha'mutte]] launched his assault. Keeping dragons in reserve, an army of hobgoblins quickly established control over the approximately 200 miles of forest between the [[K'eye]] and [[Pandar]], clearing the forests and using the timber for massive war machines.
 
 Six years later, in DR 1541, the first campaign of the [[Great War]] was launched across the [[K'eye]]. The Deno'qai fought a hopeless rearguard action, trying to keep the enemies at bay for as long as possible, with some minor successes until [[Cha'mutte]] begins calling in extraplanar forces, hobgoblin mages who can control the magic of the [[Shadowfell]], and great demons from the [[Abyss]] and from [[Pandemonium]].
 

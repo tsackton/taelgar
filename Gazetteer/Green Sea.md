@@ -1,6 +1,9 @@
 ---
-aliases: [Green Sea, the Green Sea]
-tags: [stub]
+aliases:
+  - Green Sea
+  - the Green Sea
+tags:
+  - stub
 ---
 
 # The Green Sea
@@ -8,14 +11,14 @@ tags: [stub]
 %% named for the phytoplankton blooms that appear in the summer, driven by upwelling associated with the monsoon wind 
 
 Old notes, might not be useful
-The Green Sea stretches from the far east to the middle of the continent. To the west, major features are the Cymean peninsula and the islands north and south, including Skaegenland, as well as the Mostreve hills in southern Sembara, and the ~VostokMountains~. In the center and east, major features include a large island centrally located in the middle of the Green Sea, and a large, dense archipelago blocking the mouth of the Green Sea from the Endless Ocean. While the west is densely settled, in the east, along both coasts, most people live close to the ocean: in the north, due to the increasing cold and snow; in the south, the encroaching desert.
+The Green Sea stretches from the far east to the middle of the continent. To the west, major features are the Cymean peninsula and the islands north and south, including Skaegenland, as well as the Mostreve hills in southern Sembara, and the [[~VostokMountains~]]. In the center and east, major features include a large island centrally located in the middle of the Green Sea, and a large, dense archipelago blocking the mouth of the Green Sea from the Endless Ocean. While the west is densely settled, in the east, along both coasts, most people live close to the ocean: in the north, due to the increasing cold and snow; in the south, the encroaching desert.
 
   
 
-Population centers in the Western Green Sea include: Greater Sembara, the Cymean peninsula, Greater Vostok (including the Skaer islands), and the center river valley, including [[Isingue]] and ~SouthCymea~
+Population centers in the Western Green Sea include: Greater Sembara, the Cymean peninsula, Greater Vostok (including the Skaer islands), and the center river valley, including [[Isingue]] and [[South Cymea]]
 
 
-Population centers in the Eastern Gree Sea include: ~NorthCoast, [[Irrla]] EasternDunmari, FarNorthPeninsula, EntranceIslands, and EastCoast.
+Population centers in the Eastern Gree Sea include: NorthCoast, [[Irrla]] EasternDunmari, FarNorthPeninsula, EntranceIslands, and EastCoast.
 
 The Green Sea forms a rough triangle, with the western point at about 40 degrees North, and the eastern edges stretching from roughly 60 degrees North to roughly 30 degrees North. The Green Sea is split into eastern and western halves, divided by Irrla.
 
@@ -49,3 +52,5 @@ The climate of the western islands is highly varied, being strongly oceanic and 
 The North Coast around Skaegenland is heavily maritime, reminiscent of Nova Scotia/Scandinavia, which continues east to the southernmost extend of the North Coast. The northeastern coast, however, is much colder, more reminiscent of eastern Siberia, with long winters and short summers, although the maritime influence moderates the seasonality.
 
 %%
+
+

@@ -4,7 +4,7 @@ The Western Marches are divided into four regions: the [[Marches of Enford]], in
 
 The [[Marches of Enford]] are a land of frontier lords. Although nominally sworn to the crown of Sembara, the lords in this region are freed from most taxes and royal prerogatives. It is a dangerous land, as the [[Sentinel Range]] are not free of danger, but also a land of opportunity. 
 
-The [[Barony of Ainwick]] is more a military district in some ways than a barony. There are two major garrisons of troops stationed here: the North Watch and the Central Watch. The North Watch maintains a line of castles from the Wistel to the river border with [[Ardlas]]; the Central Watch is responsible for the northern part of the ~WallNearUrlich~. These garrisons are supported by the crown, and much of the economy of the region is dedicated to feeding, equipping, and supporting them. 
+The [[Barony of Ainwick]] is more a military district in some ways than a barony. There are two major garrisons of troops stationed here: the North Watch and the Central Watch. The North Watch maintains a line of castles from the Wistel to the river border with [[Ardlas]]; the Central Watch is responsible for the northern part of the [[Western Wall of Sembara]]. These garrisons are supported by the crown, and much of the economy of the region is dedicated to feeding, equipping, and supporting them. 
  
 The [[Barony of Dunfry]] is also a major military district, responsible for the South Watch, which guards the southern half of the ~WallNearUrlich~ and also maintains a series of forts along the north branch of the Enst.
 

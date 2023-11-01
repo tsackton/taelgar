@@ -5,7 +5,7 @@ The defense of the realm and the people within it is a key concern of the nobili
 -   The lord of the manor is obligated to maintain defenses for their village or town. The deca (the tenth of the harvest tax due annually) is dedicated to this purpose
 -   The monarchy maintains a professional fighting force of about 7,000 soldiers, divided into four armies: the [[Army of Mostreve]], the [[Army of the West]], the [[Army of the South]], and the [[Army of the North]], plus a small navy of about 20 vessels  
 
-These armies are professional, well-equipped, and well-trained and can be brought together into a large fighting force when a serious threat emerges on the border.  In addition to the major garrisons, a number of border castles and fortifications (including the ~UlrichWall~) are staffed by the military, mostly in the west.
+These armies are professional, well-equipped, and well-trained and can be brought together into a large fighting force when a serious threat emerges on the border.  In addition to the major garrisons, a number of border castles and fortifications (including the [[Western Wall of Sembara]]) are staffed by the military, mostly in the west.
 
 Within the army, the Army of the West and the Army of Mostreve are often seen as the ‘real’ armies, and usually has significant skirmishes every year. The armies of the North and South are where the second children of barons go to have an honorable career with just the right amount of risk.
 

@@ -1,5 +1,5 @@
 # Session 76
-*in which the party returns to [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]] for [[Pyravela]]*
+*in which the party returns to [[Tollen]] for [[Pyravela]]*
 
 **In the real world:** Aug 9, 2023
 **In Taelgar:**  Dec 25th - Dec 30th, 1748
@@ -14,15 +14,15 @@ End: afternoon, Dec 20th
  - 30 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's note: [[Urgall's Note Vision]]
  - *6 Jan 1749: [[Eudomes' Mirror]] is available again*
 ## Timeline 
-- 25 Dec 1748: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. Speak with Skaer, depart for [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]].
-- 26 Dec 1748: Travel towards [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]]
-- 27 Dec 1748: Travel towards [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]]
-- 28 Dec 1748: Arrive in [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]] late afternoon; split up for various errands
+- 25 Dec 1748: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. Speak with Skaer, depart for [[Tollen]].
+- 26 Dec 1748: Travel towards [[Tollen]]
+- 27 Dec 1748: Travel towards [[Tollen]]
+- 28 Dec 1748: Arrive in [[Tollen]] late afternoon; split up for various errands
 - 29 Dec 1748: First day of [[Pyravela]]; attend parade; Insinguese party on [[Scrollwright Street]] hosted by [[Guy Marchand]]; student party at the university
 - 30 Dec 1748: Work on party preparations; speak with [[Umli]] 
 ## Narrative
 
-We begin as the party has been traveling for three days, across the [[western Green Sea]] and the interior forests of [[Vostok]], and is approaching [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]]. During this time, [[Delwath]] has been scrying, and messages have come in:
+We begin as the party has been traveling for three days, across the [[western Green Sea]] and the interior forests of [[Vostok]], and is approaching [[Tollen]]. During this time, [[Delwath]] has been scrying, and messages have come in:
 
 *In [[Xurkhaz]], [[Grash]]'s undead armies have been besieging the city of Uzgukar for 10 days now. But, you hear from [[Riswynn]] of the glorious first day, before [[Grash]] realized what was in store, when hundreds upon hundreds of zombies burned in the holy fire of the [[Bahrazel]]. Unfortunately, [[Grash]] learned his lesson, and retreated, settling in for a long siege. A few days ago siege weapons appeared on the horizon, and while no undead army can enter the city, the bombardment over the past two days has done considerable damage to the walls and the Hall of Ancestors in the center of Uzgukar. This morning, [[Murook]] and [[Riswynn]] led a sortie, aided by a deva messenger of the [[Bahrazel]], called forth by [[Riswynn]], and burned a dozen catapults. It will take time for [[Grash]] to rebuild, and for now the city is quiet, although [[Grash]] does not seem inclined to leave while [[Lubash]] remains hidden inside the palace.
 
@@ -30,7 +30,7 @@ We begin as the party has been traveling for three days, across the [[western Gr
 
 *In [[Chardon]], [[Fausto]]'s tower remains a blank wall, impossible to perceive via scrying. But [[Fausto]] himself does travel, and yesterday afternoon [[Delwath]] spotted him, wandering the slums north of the [[Chasa]], apparently looking for something, or someone. You see him again, later, leading a pair of seemingly sickly and drunken men, their arms scarred with purple lines, towards his tower. The next few days, he seems to spend holed up in his tower. With some careful scrying, you manage to get a few glimpses of the exterior: he seems to be receiving visitors, including several people you don't recognize entering with servants carrying chests, and leaving alone and empty handed. But what might be happening in the tower, you cannot tell.* 
 
-Arriving in [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]], the party receive letters from various contacts from a [[Halflings|halfling]] messenger sent by [[Wendel Quickstep]] from [[The Windward Sail]], and split up to handle errands. [[Kenzo]] speaks with [[Cecilia Lister]], from whom he learns about the [[Dyer's Guild]] [[Pyravela]] party, and also hears that [[Jane Chapman]] is a good person to speak to about [[Ursk]]. [[Kenzo]] also meets with [[Escobar Garavito|Escobar]] at the university, who tells him that [[Thomas Hawke]] is the person to meet; he'll be at the university party tomorrow. [[Wellby]] tells the story of the destruction of the scepter at various [[Halflings|halfling]] inns, spreading the word and building its tale into the song of this year. [[Seeker]] works on mechanical devices, with mixed success, building a pinball machine that is quite fiddly to actually load balls into. And [[Delwath]] spreads the word about the party, with mixed success. Between [[Kenzo]] and [[Delwath]], it is clear that the word is out, but many people are a bit surprised that an [[Elves]] and a Dunmari are hosting a [[Pyravela]] party, given the holiday's association with [[Mos Numena]] and [[The Wyrdling]].
+Arriving in [[Tollen]], the party receive letters from various contacts from a [[Halflings|halfling]] messenger sent by [[Wendel Quickstep]] from [[The Windward Sail]], and split up to handle errands. [[Kenzo]] speaks with [[Cecilia Lister]], from whom he learns about the [[Dyer's Guild]] [[Pyravela]] party, and also hears that [[Jane Chapman]] is a good person to speak to about [[Ursk]]. [[Kenzo]] also meets with [[Escobar Garavito|Escobar]] at the university, who tells him that [[Thomas Hawke]] is the person to meet; he'll be at the university party tomorrow. [[Wellby]] tells the story of the destruction of the scepter at various [[Halflings|halfling]] inns, spreading the word and building its tale into the song of this year. [[Seeker]] works on mechanical devices, with mixed success, building a pinball machine that is quite fiddly to actually load balls into. And [[Delwath]] spreads the word about the party, with mixed success. Between [[Kenzo]] and [[Delwath]], it is clear that the word is out, but many people are a bit surprised that an [[Elves]] and a Dunmari are hosting a [[Pyravela]] party, given the holiday's association with [[Mos Numena]] and [[The Wyrdling]].
 
 The next day, the party attends the [[Pyravela]] parade, full of floats depicting miracles of [[The Wyrdling]], and led by a procession of the elders of the [[Ancient and Honorable Guild of Philosophers]], said to be the oldest guild in the city, dating to before [[The Downfall]] of [[Hkar]]. Also watching the parade is a centaur, [[Aurelia]]; [[Delwath]] and [[Kenzo]] speak with her briefly, learning she has lived here for 20 years, turning away from the migratory habits of most of her people to really get to know one place. 
 

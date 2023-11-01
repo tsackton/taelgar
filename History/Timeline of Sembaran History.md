@@ -14,7 +14,7 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 # The Drankorian Age
 DR 431 - DR 1059
 ### Overview
-By DR 431, when the Drankorian army retreated from [[Zovcka]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]]. North of the [[Semb]], Drankor ruled the the region south and west of the [[Volta]], as far north as the [[Braebine Hills]]. 
+By DR 431, when the Drankorian army retreated from [[Zovcka]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]]. North of the [[Semb]], Drankor ruled the the region south and west of the [[Volta]], as far north as the [[Braebein]]
 
 The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. No great wars were fought and [[Mos Numena]] spread rapidly, and the old [[Kestavo|Kestavan]] traditions were largely forgotten.
 ###
@@ -58,7 +58,7 @@ South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which 
 * DR 1425, late summer: [[Derik I]] receives a [[The Prophecy of Udazken|prophecy]] fortelling his future kingship
 * DR 1425, late fall: Sembaran army abandons all the lands between the [[Enst]] and the [[Wistel]] and retreats to [[Wisford]] for the winter
 * DR 1425, winter: [[Derik I]] [[Derik I's Arrival in Tyrwingha|lands]] in [[Tyrwingha]] and is proclaimed king by [[Archfey Ethlenn]]
-* DR 1426, spring: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the Wistel at the [[Battle of Wisford]]
+* DR 1426, spring: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Wistel]] at the [[Battle of Wisford]]
 * DR 1426, summer: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Enst]] at the [[Battle of Fellburn]]
 * DR 1427, spring and summer: [[Derik I]] campaigns south of the [[Enst]] 
 * DR 1428, spring: [[Derik I]] defeats [[Emperor Avatus|Avatus]] at the [[Battle of Dalfield]]
@@ -84,7 +84,7 @@ While [[Sembara]] thrived during the long peace, underneath, the seeds of confli
 
 In DR 1425, [[Emperor Avatus|Avatus]] saw an opportunity. With a mercenary army consisting largely of [[Hobgoblins]] and vicious werewolves, he launched an invasion across the [[Enst]]. A series of disasters befell the Sembarans -- the Duke of [[Duchy of Cheimen|Cheimin]] refused to march his troops south of the [[Wistel]], three hundred knights from [[Duchy of Seham|Seham]] were lost in a summer storm at sea, and the muster of [[Duchy of Arnsbury|Arnsbury]] sent only half the men due to crown, claiming insufficient horses. And the expected help from [[Tyrwingha]] fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the [[Wistel]], and [[Emperor Avatus|Avatus]] paused to consolidate his gains, and prepared to strike north and east.
 
-Into this moment rode [[Derik I]], a distant relative of the current king, but far from the kingship himself. He had married the second daughter of the Duchess of [[Duchy of Telham|Telham]], on [[The Northlands]] coast, and had made a name for himself as a military commander in a series of skirmishes against pirates, in alliance with [[Tollen|Tollen]] mercenaries and halflings.
+Into this moment rode [[Derik I]], a distant relative of the current king, but far from the kingship himself. He had married the second daughter of the Duchess of [[Duchy of Telham|Telham]], on [[The Northlands]] coast, and had made a name for himself as a military commander in a series of skirmishes against pirates, in alliance with [[Tollen]] mercenaries and halflings.
 
 In the months following the advance of [[Emperor Avatus|Avatus]] to the [[Wistel]], a lizardfolk elder had approached Derik, and told him of an omen: he was prophesied to raise a mighty [[Sembara]] to form a pillar of strength in the dark times to come, and if he did not overthrow [[Emperor Avatus|Avatus]], the smallest cloud in the coming storm, the darkest shadows of today would seem like the brightest diamonds of tomorrow. But it was also foretold, this elder said, that only the Queen of the Evening Mist could herald his coming.  
 
@@ -92,7 +92,7 @@ With the blessing of his mother-in-law, Derik sent a small tithe of the knights 
 
 When Derik arrived in [[Tyrwingha]], he immediately disembarked and spoke with the queen. It is said that as he set foot on Tyrwinghan shores, the morning fog parted, and turned golden where he stepped, leaving a trail of sparklingly mist behind him. Crowds began to follow, and when he reached the castle, the people of [[Tyrwingha]] were watching as he bowed his head humbly to ask to speak with the queen, and [[Archfey Ethlenn]] herself appeared before him, and proclaimed that he would be the savior of [[Tyrwingha]], and kissed him on the forehead, passing him her blessing.   
 
-As news spread like wildfire of a knight from the north who had been blessed by Ethlenn herself, Derik was quickly proclaimed [[Derik I]], King of [[Tyrwingha]] by the [[Oracle of the Riven]]. Derik gathered an army of lizardfolk, the knights of Telham and [[Tyrwingha]], the fey-touched warlocks of the Ethlenn, and [[Tollen|Tollen]] and [[Vostok]] mercenaries, which he marched west in the early spring of 1426. Derik drove the forces of [[Emperor Avatus|Avatus]] before him, and his army is flanked on the banks of the [[|Wistel]] and decisively defeated by Derik at the Battle of Wisford. 
+As news spread like wildfire of a knight from the north who had been blessed by Ethlenn herself, Derik was quickly proclaimed [[Derik I]], King of [[Tyrwingha]] by the [[Oracle of the Riven]]. Derik gathered an army of lizardfolk, the knights of Telham and [[Tyrwingha]], the fey-touched warlocks of the Ethlenn, and [[Tollen]] and [[Vostok]] mercenaries, which he marched west in the early spring of 1426. Derik drove the forces of [[Emperor Avatus|Avatus]] before him, and his army is flanked on the banks of the [[Wistel]] and decisively defeated by Derik at the Battle of Wisford. 
 
 By the end of the summer of 1428, the war was over. Derik’s alliance, following the initial success of the Battle of Wisford in 1426, which broke [[Emperor Avatus|Avatus]]' lines on the [[Wistel]], and the Battle of Fellburn in 1427, which forced [[Emperor Avatus|Avatus]] across the [[Enst]], won a decisive and complete victory at the Battle of Dalfield, in the northern Mosteve Hills, in the spring of 1428.   
 

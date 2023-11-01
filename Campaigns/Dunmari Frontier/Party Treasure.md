@@ -249,7 +249,7 @@ Not in use:
 
 ### In Tollen
 - A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [[Seeker]] takes); 6 small crates of beaver fur hats in a variety of styles. Left with Adam Gower to sell / trade.
-- 8 swords and 4 spears of [[Skaer steel]] (used by Skaer warriors killed on [[Gazetteer/The Green Sea Region/Western Green Sea/Skaerhem/Vetta|Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
+- 8 swords and 4 spears of [[Skaer steel]] (used by Skaer warriors killed on [[Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
 - 5 pounds [[Skaer steel]], gifted by the Skaer. Given to [[Umli]] to reuse.
 - The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state. Being dismantled and converted to usable timber in [[Tokra]]. 
 ### In Chardon

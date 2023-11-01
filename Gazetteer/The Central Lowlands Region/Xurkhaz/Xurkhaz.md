@@ -23,7 +23,7 @@ There are four notable settlements, although most of the population is heavily r
 - Drogoloth, a mining town on the western banks of the Drogar, near the hills and at the furthest point north boats can travel on the Drogar before hitting the rapids
 - Gorzum, a peaceful trading oasis in the middle of the country
 
-While these are "towns", only the capitol has more than 1000 people living it in. Total population of the country is maybe 20,000 [[Orcs]], of which ~80% are rural (~16,000), ~1500 live in the capitol, ~500 live in each of the "major" towns, and other ~500 live in planned border forts. Most of the rural population lives in numerous (~200) small villages of 50-100 people.
+While these are "towns", only the capitol has more than 1000 people living it in. Total population of the country is maybe 20,000 [[Orcs]], of which about 16,000 (or 80%) are rural , about 1500 live in the capitol, about 500 live in each of the "major" towns, and other 500 live in planned border forts. Most of the rural population lives in numerous (200 or so) small villages of 50-100 people.
 
 %%SECRET[2]%%
 ## People

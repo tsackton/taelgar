@@ -4,24 +4,21 @@ name: Safri
 species: human
 ancestry: "Deno'qai"
 gender: female
-home: 
-homeRegion:
 born: 
 died: 
 affiliations: 
-location: "forest valleys of the north"
-locationRegion: "~CentralMountains~"
-origin:
-originRegion:
+title:
+family:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
+whereabouts:
+     - { date: 1720-01-06, place: "forest valleys of the north", region: Sentinel Range, type: excursion }
 ---
 # Safri
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Deno'qai), she/her
->unknown age
->Based in: unknown
->Location (updated November 15, 1748): forest valleys of the north, [[Sentinel Range]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 An old Deno'qai druid with many stories and rumors to her name.
 
