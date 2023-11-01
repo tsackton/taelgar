@@ -7,7 +7,7 @@ gender: female
 died:
 family:
 title:
-affiliations: [Army of the West, Bridge Patrol]
+affiliations: [Army of the West, Bridge Patrol, Lord's Guard of Cleenseau]
 name: Béatrix of Cleenseau
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
