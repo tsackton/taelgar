@@ -64,7 +64,7 @@ Adderfell and the region surrounding it is best known for the local apple brandy
 
 These days, things are tense in Adderfell. Crime has increased and there are attacks and thefts at night by unknown assailants. Outside the walls people are barring their doors at night. The lizardfolk communities despite being normally open and welcoming have withdrawn and are closed to visitors, as is the ruling district/manor house. While the military/manor area is pretty safe, and the docks are heavily guarded as are the main warehouses of merchant families. However alleys and streets of the historic district are pretty dicey right now, and Cinder Court is clearly trying to create fear and unrest in the town.
 
-![[Pasted image 20231030203844.png]]
+![[adderfell-map.png]]
 
 Additional Notes and Details
 

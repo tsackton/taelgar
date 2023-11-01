@@ -2,7 +2,7 @@
 
 This page contains lore information about centaurs. For details on character creation and playing a centaur, see [[Playing a Centaur]]. 
 
-![[Pasted image 20231031171953.png]]
+![[centaur-plains-frontmatter.png]]
 
 >[!quote] Centaur creation myth
 *Long ago, before the form of the world was fixed, we walked the ever-changing land, mindless and soulless, empty but for the whims of the Archfey. Yestare, the Beginning, and Mettare, the Ending, stepped into this chaos, and spoke words of separation, words of renewal, words of power to fix the form of the world and bring meaning to the chaos. In this timeless moment of sundering, when the lands of the Archfey were pulled away from the world, the World reached out, and chose us to be its guardians.*
