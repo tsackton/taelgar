@@ -32,4 +32,4 @@ whereabouts:
 >> Based in: north of [[Voltara]], [[The West Coast Region]]
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-The commander and leader of [[Grumella's Horde]], a large group of [[orcs]] that occupied the plains north of [[Voltara]] in the spring and summer of 1747, until being killed by the Grey Tempest in October 1747. 
+The commander and leader of [[Grumella's Horde]], a large group of [[Orcs]] that occupied the plains north of [[Voltara]] in the spring and summer of 1747, until being killed by the Grey Tempest in October 1747. 

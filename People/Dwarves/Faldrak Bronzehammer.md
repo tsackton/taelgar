@@ -56,7 +56,7 @@ Faldrak Bronzehammer, with his eccentric blend of traditional dwarven craftsmans
 
 Despite his aging exterior and graying, rune-braided beard, Faldrak's eyes sparkle with mischief. His wardrobe—a combination of dwarven armor and fey fabrics—reflects his diverse experiences. A small pouch, perpetually moving, is always by his side. He walks with a cane, which seems to be magical and multipurpose. 
 
-![[rsulfuratus_an_eccentric_eldery_dwarven_tinker_407c54ba-354b-47fe-a336-afcaeb049941.png|400]]
+![[faldrak-portrait-1.png|400]]
 ## Events
 
 - In DR 1748, during [[Pyravela]] in [[Tollen]], Faldrak attended the party hosted by The Dunmar Fellowship on [[Vindristjarna]], where he met and bonded with Seeker, requesting his aid in journeying to the Edge of Echoes, a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 

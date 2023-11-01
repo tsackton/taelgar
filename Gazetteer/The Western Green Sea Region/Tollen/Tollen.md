@@ -3,13 +3,13 @@ aliases: [Tollen]
 ---
 # The Free City of Tollen
 
-A bustling port on the [[River Volta|Volta]] River, which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply [[The Green Sea]], bringing back goods from near neighbors as well as the far East. Tollen is a cosmopolitan city, where [[humans]], [[halflings]], [[dwarves]], [[stoneborn]], [[lizardfolk]], and even [[Elf|elves]] and stranger species can be found living together. 
+A bustling port on the [[River Volta|Volta]] River, which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply [[the Green Sea]], bringing back goods from near neighbors as well as the far East. Tollen is a cosmopolitan city, where [[Humans]], [[Halflings]], [[Dwarves]], [[Stoneborn]], [[Lizardfolk]], and even [[Elves|elves]] and stranger species can be found living together. 
 ## History
 
 Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
 ### Founding
 
-Tollen was originally founded on the north bank of the [[River Volta|Volta]] river by the first mariner migrants from [[Hkar]], before [[the Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of [[The Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[The Highlands]], and the non-[[humans]] ([[lizardfolk]] and [[halflings]], mostly) of the [[Western Green Sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
+Tollen was originally founded on the north bank of the [[River Volta|Volta]] river by the first mariner migrants from [[Hkar]], before [[the Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of [[the Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[the highlands]], and the non-[[Humans]] ([[Lizardfolk]] and [[Halflings]], mostly) of the [[western Green sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
 
 ### Downfall and Rebirth
 
@@ -96,7 +96,7 @@ Battery: south side of the [[River Volta|Volta]], and on the easternmost (ocean)
 
 Fenslane: south side of the [[River Volta|Volta]], upriver (west) from [[Southbridge]], along the bend in the river. Former tidal marshland reclaimed and settled mostly by dyers, tanners, and other similar artisans expanding from [[Southbridge]]. Reasonably new.
 
-Tideswell: south side of the [[River Volta|Volta]], upriver (west) from Fenslane. A marshy area that floods on the high tide, mix of poorer/slums and [[lizardfolk]] communities.
+Tideswell: south side of the [[River Volta|Volta]], upriver (west) from Fenslane. A marshy area that floods on the high tide, mix of poorer/slums and [[Lizardfolk]] communities.
 
 Brooklawn: West of Haurhill, a swampy and wet area where the Little River was dammed and diverted into a canal. Also often separated into Brooklawn Inner (inside the walls) and Brooklawn Outer (outside the walls). Fairly poor, slummy area. Brooklawn Outer is where much of the leatherworking and tanning happens, so smelly. Tanner's Gate separates Brooklawn Inner and Brooklawn Outer, and Brooklawn Inner is also referred to as Tannersgate.
 
@@ -165,6 +165,6 @@ Throughout the 300 years of the Skagen dominion Tollen grows as a marnier cult
 
 By 4547, the Drankors are on the doorstep and the Skaer are at war with them. It is Tollen that brokers the peace treaty between the Drankorians and the Skaer, earning an uneasy freedom from both the Drankorians, who refrain from formally conqueoring the city in exchange for de facto control of its foreign policy, and from the Skaer, who are forbidden from sailing up the Voltra.
 
-I do like the idea of Tollen as central to the treaty that stopped Drankorian expansion, and it makes sense for this to have some kind of magical "great powers" connection -- either divine, or perhaps something connected to dragons or [[giants]] or elementals (fey are taken by [[Tyrwingha]]). Will think a bit more on this, again might be something best to see what happens during a game.
+I do like the idea of Tollen as central to the treaty that stopped Drankorian expansion, and it makes sense for this to have some kind of magical "great powers" connection -- either divine, or perhaps something connected to dragons or [[Giants]] or elementals (fey are taken by [[Tyrwingha]]). Will think a bit more on this, again might be something best to see what happens during a game.
 
 %%

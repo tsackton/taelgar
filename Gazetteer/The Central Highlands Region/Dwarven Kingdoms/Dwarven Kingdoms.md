@@ -2,7 +2,7 @@
 
 The Dwarven kingdoms of the [[Sentinel Range]] have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around ~UrlichMonastery~. 
 
-During [[The Downfall]], when [[Hkar]] fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [[dwarves]] survived, and while the [[Drankorian Empire]] was being established aboveground, the Five Kingdoms were growing below and among the [[Sentinel Range]].
+During [[The Downfall]], when [[Hkar]] fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [[Dwarves]] survived, and while the [[Drankorian Empire]] was being established aboveground, the Five Kingdoms were growing below and among the [[Sentinel Range]].
 
 ![[dwarven-kingdoms-map.png|300]]
  
@@ -21,9 +21,9 @@ In the far north, the dwarven kingdom of [[Fahnukan]] is strange and isolated, w
 %% 
 Additional details, not fully worked out:
 
-The basic plotline: historically, the southern kingdoms ([[Ardith]] and [[Khatridun]]) were the center of power, the oldest/richest kingdoms, dating back to even before the founding of [[Drankor]], while Am’khazar to the northwest got by on trading mineral wealth while [[Nidzahar]] was a bit of a hippy backward (such as things exist in dwarven society). Then the [[Great War]] upends things, as the center of [[Khatridun]] is destroyed and all of [[Ardith]] is wiped out. The [[Ardith]] [[dwarves]] flee south to the Yuvanti, while the [[Khatridun]] turn inward looking for clues in dwarven history to recover what was lost and restore the golden age of [[dwarves]]. [[Nidzahar]], in contrast, looks to the [[Humans|human]] world and innovation, building on its artisan and craft-based traditions to push technological innovation. Throughout this, the kingdom of Am’khazar (the most traditional ‘dwarfish’ kingdom) chugs along on tradition and mining, while the weird, isolated [[dwarves]] of the north remain weird and isolated. 
+The basic plotline: historically, the southern kingdoms ([[Ardith]] and [[Khatridun]]) were the center of power, the oldest/richest kingdoms, dating back to even before the founding of [[Drankor]], while Am’khazar to the northwest got by on trading mineral wealth while [[Nidzahar]] was a bit of a hippy backward (such as things exist in dwarven society). Then the [[Great War]] upends things, as the center of [[Khatridun]] is destroyed and all of [[Ardith]] is wiped out. The [[Ardith]] [[Dwarves]] flee south to the Yuvanti, while the [[Khatridun]] turn inward looking for clues in dwarven history to recover what was lost and restore the golden age of [[Dwarves]]. [[Nidzahar]], in contrast, looks to the [[Humans|human]] world and innovation, building on its artisan and craft-based traditions to push technological innovation. Throughout this, the kingdom of Am’khazar (the most traditional ‘dwarfish’ kingdom) chugs along on tradition and mining, while the weird, isolated [[Dwarves]] of the north remain weird and isolated. 
 
-Elsewhere in the world, of course, there are other dwarven kingdoms, but historically the five kingdoms of the [[Sentinel Range]] have been the center of dwarven culture and the largest population centers of [[dwarves]].
+Elsewhere in the world, of course, there are other dwarven kingdoms, but historically the five kingdoms of the [[Sentinel Range]] have been the center of dwarven culture and the largest population centers of [[Dwarves]].
 
 Possible Dwarven names for things: 
 ~CentralMountains>~: Sheth’abad; Shethrabad; Abadkan;

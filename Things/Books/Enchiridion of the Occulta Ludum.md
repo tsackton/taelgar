@@ -1,0 +1,1 @@
+A book found in Stormcaller Tower. Appears to be a blank handbook of the Occulta Ludum. Faintly magical.

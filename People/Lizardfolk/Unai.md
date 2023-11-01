@@ -19,7 +19,7 @@ yearOverride:
 ---
 # Unai
 >[!info]+ Basic information
->[[lizardfolk]], she/her
+>[[Lizardfolk]], she/her
 >b. 1602
 >117 years old
 >Based in: [[Ganboa]], [[Sembara]]
