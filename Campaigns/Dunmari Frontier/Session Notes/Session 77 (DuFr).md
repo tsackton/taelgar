@@ -12,7 +12,7 @@ End: morning, Jan 1st, 1749
 #### [[Eudomes' Mirror]]
  - 23 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
  - 30 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's note: [[Urgall's Note Vision]]
- - *6 Jan 1749: [[Eudomes' mirror]] is available again*
+ - *6 Jan 1749: [[Eudomes' Mirror]] is available again*
 ## Timeline 
 - 28 Dec 1748: Arrive in [[Gazetteer/The Green Sea Region/Western Green Sea/Tollen/Tollen|Tollen]] late afternoon; split up for various errands
 - 29 Dec 1748: First day of [[Pyravela]]; attend parade; Insinguese party on [[Scrollwright Street]] hosted by [[Guy Marchand]]; student party at the university

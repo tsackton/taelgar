@@ -229,7 +229,7 @@ Not in use:
 - Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in the fight with [[Kadmos]] and [[Casian]] in [[Session 44 (DuFr)]]. 
 - Leech Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut. (used in battle)
 -  [[Helm of Iron Will]]. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Raven's Hold]]. Used to protect Delwath in battle against [[Agata]]. 
--  Block of adamantine. Found in the [[dwarven outpost]] near [[Raven's Hold]], used to reinforce Delwath's [[Dunmari shield]]. 
+-  Block of adamantine. Found in the [[dwarven outpost]] near [[Raven's Hold]], used to reinforce Delwath's [[Dunmari Shield]]. 
 - [[Thorn Seed Bag]]. Destroyed in [[Session 31 (DuFr)]].
 - [[Soul Lantern]]. Destroyed in [[Session 32 (DuFr)]].
 - Seven iron spears carved with the incantation: “[[Mad One]], come to us, let [[Jinnik]]’s howl be heard.” From the [[Fraternity of the Empty Moon]]; destroyed. 

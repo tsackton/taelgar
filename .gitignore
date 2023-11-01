@@ -7,12 +7,6 @@ _DM_/
 # Add ignore unshared assets
 assets/unshared/
 
-# Ignore unshared items
-Things/*
-!/Things/Artifacts of Power
-/Things/Artifacts of Power/*
-!/Things/Artifacts of Power/Circlet of Foreknowledge.md
-
 # Ignore base md files
 /*.md
 
@@ -25,4 +19,3 @@ Things/*
 
 # Include gitignore
 !.gitignore
-

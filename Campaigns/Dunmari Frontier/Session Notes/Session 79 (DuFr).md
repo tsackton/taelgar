@@ -10,7 +10,7 @@
 Start:  afternoon, Jan 3rd, 1749 
 End: afternoon, Jan 8th, 1749
 #### [[Eudomes' Mirror]]
- - *6 Jan 1749: [[Eudomes' mirror]] is available again*
+ - *6 Jan 1749: [[Eudomes' Mirror]] is available again*
 ## Timeline 
 - 1 Jan 1749: Spend a day relaxing
 - 2 Jan 1749: Visit the [[Ancient and Honorable Guild of Philosophers]] and have dinner with [[Melindir]] and [[Elwis]]
