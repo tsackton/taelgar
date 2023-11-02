@@ -7,9 +7,14 @@ The Ausson’s are the primary and most important people in the Last Inn, as the
 
 They are:
 
+![[roland-ausson.png]]
 Roland Ausson (he/him), the innkeep. He was the leader of the settlement, the owner of the inn, and patriarch of the Ausson family. He was known to be absolutely devoted to his wife, Lisette, and his husband, Pierre, but was never a well-loved father to his four children. He grew the inn complex from a small single building to a settlement of almost a hundred, mostly through force of personality, and his wife Lisette’s trade acumen. He was found murdered in his bed 10 days ago.
+
+![[pierre-ausson.png]]
   
 Pierre Ausson  (he/him), his husband.  He is the host of the settlement. Whereas Roland provided the raw energy, Lisette the trade and business acumen, Pierre is the one welcoming travelers at the door and making the inn a home. Like Lisette, he traces his ancestry to Insingue, but he has no longing for the past nor is he charmed by tales of the old cities. He craves simple comforts: good food, a warm hearth, loved ones. He has not left the private upper floors of the inn since Roland died although he has received a small number of well-wishers.
+
+![[lisette-ausson.png]]
 
 Lisette Ausson (she/her), his wife. She is the mother of four children, and a shrewd accountant and trader, she came from the Aurbez plateau and is not-so-secretly a partisan of political unity amongst the Aurbez peoples and regions. She traces her family back to the lost city of Insingue and is known to be susceptible to romantic tales of the past. She wears her heart on her sleeve, and is openly distraught about Roland’s death. She has forbid anyone live the settlement until his murder is solved and the murderer brought to justice.
 
@@ -80,6 +85,7 @@ Jean’s children, ages 4 and 6
 
 #### The Temple
 
+![[ysabel-queval.png]]
 Ysabel Queval (she/her), middle aged, the temple steward. She is a stickler for rules and rites and ceremonies and at times comes across as a petty bureaucrat, seen to use her position administering the temple to her own benefit. Few in the town truly like her, but she is given grudging respect as she is very good at her job.
 
 Lorin (he/him), her young assistant, rumored to be having an affair with Ysabel
@@ -148,6 +154,8 @@ Johanne (she/her), so-called, an amnesiac who came to town with no memories, her
 
 Darrak Deepmine (he/him), an ambitious young dwarf, recruiting assistants to help him recover lost treasure in the mines
 
+Roe DoTorka, a cranky old dwarf who lives up in the plateau above Ausson’s Crossing. You are not close to him, but last winter you and he worked together to destroy an ashen element that had come out of the Plaguelands in an ash storm, came alive, and threatened to consume Ausson’s Crossing. He turned into beasts a lot and was not always pleasant to be around, but he was a good comrade and ally and was grudgingly respectful of you after the adventure together.
+
 ### The Halfling Caravan
 
 A caravan of halflings from Chardon, bound for Embry in Sembara has been staying here for the last few days. Mostly keeping to themselves, the caravan has four wagons, a dozen horses, and the following halflings:
@@ -177,7 +185,14 @@ The caravan was trading grain and young goats for metal, and had two wagons plus
   
 
 Gilles Festu (he/im), a charming storytelling and caravan master
+
+![[tomas-caravan-guard.png]]
+
 Tomas (he/him), a guard, now dead, found murdered 14 days ago
+%% From Robin Background:
+a young caravan guard who does not live in Ausson’s Crossing but who you have met on the road a few times. He is barely out of boyhood, but flirted outrageously with you a few times you encountered him on the road. He was part of various regular caravans traveling to and from Ausson’s Crossing but always wanted to head north to Maseau or Embry and find work as a cook for a noble family. He loves food and hates small place
+%%
+
 Dominic (he/him), a guard, now dead, found murdered 14 days ago
 
 ### Timeline of Events
