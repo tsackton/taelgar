@@ -1,6 +1,6 @@
 # Creating a human
 
-Humans are the most common species in Taelgar, far outnumbering any other sentient beings. Humans are also exceptionally diverse -- unlike many other species in Taelgar, they live across the world, inhabiting all climates, with a bewildering variety of languages and cultures.
+[[Humans]] are the most common species in Taelgar, far outnumbering any other sentient beings. Humans are also exceptionally diverse -- unlike many other species in Taelgar, they live across the world, inhabiting all climates, with a bewildering variety of languages and cultures.
 
 To create your human character, you can choose to use either the traits below, or use the standard or variant human traits from the Players' Handbook.
 
