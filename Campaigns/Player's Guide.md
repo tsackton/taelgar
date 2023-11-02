@@ -31,7 +31,7 @@ The known world of Taelgar stretches 2,500 miles from the great city of [[Chardo
 - Further north, the cold, rocky, and forested land of [[Vostok]] and the islands of [[Skaerhem]] are home to the descendants of a proud mariner culture that once dominated the Green Sea. 
 - [[Cymea]], across the [[Western Gulf]] from [[Sembara]], is home to an unruly collection of squabbling city-states, once, but no longer, the dominate maritime power on the Green Sea. 
 
-To the east, south, and north, and perhaps even across [[the Endless Ocean]] to the west, stranger lands exist in rumor and imagination, but few common folk of northwestern Taelgar have ever met anyone from these distant lands. 
+To the east, south, and north, and perhaps even across the [[Endless Ocean]] to the west, stranger lands exist in rumor and imagination, but few common folk of northwestern Taelgar have ever met anyone from these distant lands. 
 ## History
 
 Long ago, in the ancient days of creation, the gods created sentient beings, first the [[Elder Folk]], and later the [[humans]], who grew and spread from their ancestral home on the now-lost continent of [[Hkar]]. In the aftermath of the cataclysm that destroyed [[Hkar]], [[Humans|human]] refugees established the city of [[Drankor]], south of what is now [[Dunmar]]. From this humble beginning, a great empire grew, based on magic, known as the [[Drankorian Empire]]. As the empire grew, it spread its language, [[Mos Numena|religion]], and culture across large swaths of Taelgar. 
