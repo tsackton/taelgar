@@ -34,7 +34,6 @@ Stoneborn society has little organization beyond the village or local community.
 Those individuals that cannot abide by the consensus of their community or the elders find themselves cast out from Stoneborn society. While free to return and accept the strictures of community, these indviduals often seek their way alone in the world, reliant on their individual skills and talents. As a consequence of this, Stoneborn society tends towards sameness, as dissident voices drift away.
 
 While other races may sometimes live in Stoneborn communities, generally while apprenticed to a master, they are rarely given a voice in deliberations, and are expected to follow the will of the community. Those who don't quickly find themselves no longer welcome.
-
 ### Reclusive 
 Rarely do Stoneborn venture down from the summits of the high places of the world, preferring to live in isolated communities of their own kin. In their mountain strongholds, they are rumored to be able to mold stone with prayers to Entamba, the first Stoneborn, to cut villages from the cliff, and warm the high mountain meadows to create lush fields with days of meditation.
 
@@ -52,7 +51,7 @@ Stoneborn names are a living, changing part of their identity. All Stoneborn hav
 
 Use names typically either reflect a skill, or the name of a master. For example, a skilled stonemason may take the use name Stonebreaker or Stonecarver; a skilled warrior may take the use name Quickblade or Strongaxe; or a skilled teacher may take the use name Loremaster or Mindshaper. Alternatively, a use name may reflect the lineage of the master a Stoneborn trained under. For example, a student of the master Maumak Ironforger may take the use name Maumakandi or Maumakundi (student of Maumak). It is also common to adopt the use name of your master, so if your master is Maumak Ironforger, you may also take the Ironforger use name. 
 
-Like [[Dwarves|dwarves]] Stoneborn ascribe meaning to their use names as therefore often introduce themselves with use names in the trade tongues. But some may not follow this custom.
+Like [[Dwarves|dwarves]] Stoneborn ascribe meaning to their use names as therefore often introduce themselves with use names in the trade tongues. But some may not follow this custom. And some may invent new names for themselves when they travel outside their homeland. 
 
 **Birth Names:** Arvid, Aglath, Anathi, Bomika, Cebo, Dumoth, Elethu, Ivak, Kamva, Lumiko, Luvoth, Malimi, Maumak, Masandith, Nandi, Onako, Saliza, Songath, Sumeyad, Thandeka, Themba, Unathid, Yandisa, Zola
 
@@ -60,5 +59,9 @@ Like [[Dwarves|dwarves]] Stoneborn ascribe meaning to their use names as therefo
 
 **Use Names:** Ironforger, Stonebreaker, Stonecarver, Quickblade, Strongaxe, Mindshaper, Loremaster, Farseer, Longstrider, Bloodbasher, Fistmaster, Steelbender, Quartzminer, Heartsinger.
 
+%% not canonical yet
+
 **The Name Stoneborn**
 Outsiders typically refer to Stoneborn as either Stoneborn or Goliaths, referring to their large size. Stoneborn themselves sometimes adopt these terms when out in the world, but in their own society typically refer to themselves as Namatye, the people of the mountain. 
+
+%%
