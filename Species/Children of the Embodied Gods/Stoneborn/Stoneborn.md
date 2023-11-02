@@ -4,11 +4,7 @@ speciesDescriptor: stoneborn
 ---
 # Stoneborn
 
->[!quote] from *Tales of Creation*
->Arha molded the Stoneborn, strong and brave and wise. Yet they too were caught by Malik, and made to love their mountains too much. Rarely, if ever, did the Stoneborn come down from their lofty peaks to grace the world below.*
-
 High above the clouds, on the tallest peak of a mountain range, a Stoneborn sits quietly, watching the sunrise. On the steep slopes below, a small village comes to life with the sounds of bells, morning prayer, and martial practice. Scattered throughout the inhospitable high places of the world, Stoneborn live reclusively, rarely gracing the lowlands with their presence.
-
 ### Mountain folk
 Imposing creatures of muscles and concentrated energy, Stoneborn are large, usually standing between 7 and 8 feet tall, and weighing between 400 and 500 pounds of dense, solid muscle. Their skin is usually shades of gray, often covered in swirling patterns, reflecting the mountains in which they make their home. 
 
@@ -16,22 +12,20 @@ Stoneborn are bald and usually hairless, with bright eyes, typically the strikin
 
 Stoneborn tend towards simple lifestyles, having no use for the gold and treasure of the world below. They do, however, prize fine craftwork in metal or stone, and many Stoneborn wear intricate jewelry.
 
-Stoneborn are considered an adult by their late 20s, but usually don’t settle into fully adult roles until 40 or 50. Stoneborn typically live at least 300 years
-
+Stoneborn are considered an adult by their late 20s, but usually don’t settle into fully adult roles until their 30s. Stoneborn typically live at least 300 years. 
 ### Proud and Independent
-Like many long-lived Elder races, Stoneborn perceive the flow of time differently than humans. While they tend to prefer the slow pace of mountain life, where change comes rarely as the slow movement of a glacier, they are also the people of avalanches and volcanoes. Stoneborn see the decadal crawl of a glacier and the thunderous destruction of an avalanche as equal parts of the ebb and flow of the world. 
+Like many long-lived Elder Folk, Stoneborn perceive the flow of time differently than humans. While they tend to prefer the slow pace of mountain life, where change comes rarely as the slow movement of a glacier, they are also the people of avalanches and volcanoes. Stoneborn see the decadal crawl of a glacier and the thunderous destruction of an avalanche as equal parts of the ebb and flow of the world. 
 
 Stoneborn are deeply connected to their homelands, and tend to see themselves as masters of their domain. This attitude tends to encourage a fierce independence in Stoneborn society. Stoneborn tolerate few outsiders on their lands, and those they do allow rarely become trusted members of the community. 
 
 Individual Stoneborn tend to be proud and confident in their mastery of their discipline. Like many Elder races, they tend to be slow to trust outsiders to their society, but they also greatly respect skill and honor demonstrated masters even if they are not Stoneborn. They tend to be accepting of the ebb and flow of circumstance, resilient in failure and stoic in success. This can lead to a certain appearance of passivity, and among some Stoneborn this attitude leads to detachment from the trials and challenges of life outside their mountain refuges. Few Stoneborn care much for wealth, seeing little point in accumulating material goods; those that do find attachment to possessions generally prize skill in craft over raw value. 
 
 ### Disciplined Masters
-As one of the Elder races, Stoneborn are the embodiment of and draw magical power from the mystical founder of their race, Entamba, the Elder Mountain. Entamba is the first Stoneborn, born in the slow uplift of ground into mountains or the fiery blast of a volcano, and the last Stoneborn, the dust of mountain slowly worn away over eons and scattered into the sea and air. Through their connection to Entamba, Stoneborn are capable of feats of  concentration, single-minded focus, and supernatural mastery over their bodies and the stone of their mountain homes.
+Stoneborn are the embodiment of and draw magical power from the mystical founder of their race, Entamba, the Elder Mountain. Entamba is the first Stoneborn, born in the slow uplift of ground into mountains or the fiery blast of a volcano, and the last Stoneborn, the dust of mountain slowly worn away over eons and scattered into the sea and air. Through their connection to Entamba, Stoneborn are capable of feats of  concentration, single-minded focus, and supernatural mastery over their bodies and the stone of their mountain homes.
 
 In Stoneborn society, the concentration and discipline arising from their connection to Entamba leads to a high value being placed on expertise and training. Young Stoneborn apprentice themselves to masters in a skill or trade, and by years of training and practice become masters themselves. Stoneborn society is built around these relationships and specializations, and Stoneborn honor the training and dedication necessary to become true masters of any skill, whether in combat, crafting, teaching, tending the young, or healing. 
 
 While Stoneborn themselves rarely leave the mountains, they do sometimes accept members of other races who meet the rigorous standards they set for themselves for training and apprenticeship. Warriors who have trained with the Stoneborn usually find renown in battle, craftsfolk find fame in their craft, and teachers find themselves with large and loyal followings.
-
 ###  Consensus-Builders
 Stoneborn live in small communities, usually centered around one or a few gymnasiums or academies, where a renowned master may ply their trade. While they honor skill and training above all, these communities tend to make decisions based on consensus and share resources based on need. Stoneborn find hierarchical societies and the greed that drives many other races hard to conceptualize.
 
