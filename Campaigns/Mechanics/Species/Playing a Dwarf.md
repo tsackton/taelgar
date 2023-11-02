@@ -1,20 +1,11 @@
 # Creating A Dwarf
-Dwarves in Taelgar are one of the Elder Folk, divinely created by the Bahrazel, the dwarven gods and Firstborn of their race. Bold, brave, and tradition-bound, as skilled in artistry as in battle, deeply committed to clan and home, dwarves are among the most common of the Elder Folk in Taelgar. Squat and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common Elder Folk seen in the cities of humans in Taelgar.
+[[Dwarves]] in Taelgar are one of the [[Elder Folk]], divinely created by the [[Bahrazel]], the dwarven gods and Firstborn of their race. Bold, brave, and tradition-bound, as skilled in artistry as in battle, deeply committed to clan and home, [[dwarves]] are among the most common of the [[Elder Folk]] in Taelgar. Squat and often bearded, the first [[dwarves]] built majestic underground cities of light and splendor. While many [[dwarves]] still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common [[Elder Folk]] seen in the cities of [[humans]] in Taelgar.
 
 Dwarves, no matter where they live, have a mystical connection to the Bahrazel, that deepens when they reach adulthood and complete the rite of name-taking, becoming part of a thuhr. There are seven thuhr, each associated with one of the Bahrazel: Ruler, Runecrafter, Priest, Farmer, Stoneworker, Traveler, and Warrior. The thuhr function as a combination of guild, mentorship organization, found family, and secret society, creating ties between clans.
 
-The connection dwarves have with the Bahrâzel also allows them to inscribe runes with magical effects. While in most cases these are small, such as mending a broken item, some legendary dwarves can create extraordinary magical items, wards, and marks of power.
+To create your dwarf character, consider your relationship with your thuhr and the [[Bahrazel]]. Some dwarves have a deep and abiding connection to their thuhr, to the extent it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
 
-To create your dwarf character, choose the following things for your character:
-- **Thuhr** 
-- **Age**
-- **Name** 
-- **Background** 
-- **Languages**
-
-You will also want to consider your relationship with your thuhr and the [[Bahrazel]]. Some dwarves have a deep and abiding connection to their thuhr, to the extent it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
-
-All dwarves have a connection to the [[Bahrazel]], as this is what grants you your rune magic trait, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors, that is almost feudal in nature. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devote in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf. 
+All dwarves have also have a connection to the [[Bahrazel]], as this is what grants you your rune magic trait, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors, that is almost feudal in nature. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devote in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf. 
 # Dwarven Traits
 
 **Creature Type:** Humanoid.
@@ -210,6 +201,4 @@ You are adept at crafting things in the finest tradition of the dwarves.
 - **Master Eye**. When you make an Intelligence check to determine the origin or value of stonework or a work of art crafted by a tool with which you have proficiency, you are considered proficient in the relevant skill, and can add twice your proficiency bonus, instead of your normal proficiency bonus, to the check.  
 # Languages
 
-When you create your character, you may choose two languages in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Dwarvish, unless you grew up outside of normal Dwarven society. 
-
-Languages available to player characters in Taelgar are described [[Character Creation Guide#Languages|here]].
+When you create your character, you may choose two [[languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Dwarvish, unless you grew up outside of normal Dwarven society. 

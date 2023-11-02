@@ -1,13 +1,8 @@
 # Creating A Centaur
-Centaurs in Taelgar are descended from the archfey, but have made their home on the world of Taelgar. Many centaurs see themselves as protectors and guardians of the world, and centaur societies tend to be nomadic, rarely staying in one place for more than a year. 
 
-To create your centaur character, choose the following things for your character:
-- **Name** 
-- **Age**
-- **Background** 
-- **Languages**
+[[Centaurs]] in Taelgar are descended from the archfey, but have made their home on the world of Taelgar. Many [[centaurs]] see themselves as protectors and guardians of the world, and centaur societies tend to be nomadic, rarely staying in one place for more than a year. 
 
-Consider your relationship to your people, and society. Did you come from a typical centaur society, a wandering group of migratory folk? If so, what prompted you to leave and go adventuring? How do you feel about other species? Do you adopt the typical distaste for permanent construction of your people, or do you have different attitudes?
+To create your centaur character, consider your relationship to your people, and society. Did you come from a typical centaur society, a wandering group of migratory folk? If so, what prompted you to leave and go adventuring? How do you feel about other species? Do you adopt the typical distaste for permanent construction of your people, or do you have different attitudes?
 # Centaur Traits
 **Creature Type:** Fey
 **Size**: Medium (typically between 6-7 feet tall)
@@ -52,9 +47,6 @@ You spent your youth learning the stories and oral histories of your people, and
 **Feat.** Magic Initiate (Primal)*
 
 You can read the signs of prophecy in the land, either a natural gift, or a hard won skill learned at the feat of a master of your people. Your connection to the land has given you the ability to lightly tap the magic of Taelgar itself. 
-
 # Languages
 
-When you create your character, you may choose two languages in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Centaur, unless you grew up outside of normal centaur society. 
-
-Languages available to player characters in Taelgar are described [[Character Creation Guide#Languages|here]].
+When you create your character, you may choose two [[languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Centaur, unless you grew up outside of normal centaur society. 
