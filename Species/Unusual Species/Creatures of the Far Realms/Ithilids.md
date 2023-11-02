@@ -1,3 +1,3 @@
 # Illithids
 
-(stub)
+Abberations from the Far Realm. 
