@@ -13,8 +13,7 @@ aliases: []
 tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
 yearOverride: 
 whereabouts:
-     - { date: 1688-01-02, place: "Ganboa", region: Semabara, type: home }
-     - { date: 1719-12-04, place: "Ganboa", region: Semabara, type: excursion }
+     - { date: 1688-01-02, place: "Ganboa", region: Semabara, type: home }  
 ---
 # Izoko
 >[!info]+ Biographical Summary

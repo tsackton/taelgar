@@ -1,3 +1,8 @@
+---
+tags: [event-source]
+DR: 423
+---
+
 An agreement between the [[Emperor Goristo]] and the [[Archfey Ethlenn]] signed in DR 423.
 
 %%

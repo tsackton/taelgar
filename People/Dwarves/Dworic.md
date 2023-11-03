@@ -6,25 +6,24 @@ ancestry:
 gender: male
 born: 1502
 died: 
-location: 
-locationRegion: Nardith
-home: 
-homeRegion: Nardith
-origin: 
-originRegion: Ardith
+title:
+family:
 affiliations: 
 aliases: []
 tags: [NPC/DuFr/met_one, NPC/DuFr/background]
 yearOverride: 
+whereabouts:
+     - { date: 1502-01-01, place: "", region: Ardith, type: origin }
+     - { date: 1545-01-02, place: "", region: Bleakhold, type: excursion }
+     - { date: 1748-08-25, place: "", region: Nardith, type: home }
 ---
 # Dworic
->[!info]+ Basic information
->[[Dwarves|dwarf]], he/him
->b. 1502
->246 years old
->Originally from: [[Ardith]]
->Based in: [[Nardith]]
->Location (updated November 15, 1748): somewhere, [[Nardith]]
+>[!info]+ Biographical Summary
+>dwarf, he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Originally from: [[Ardith]]
+>> Based in: [[Nardith]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A dwarven smith, born in [[Ardith]] before the [[Great War]]. He was trapped there after the war, but rescued by an expedition sent from [[Nardith]] in DR 1575, led by [[Nora Silverspark|Nora]] Silverspark and [[Hagrim]] Firebrand. Trapped in the [[shadowfell]] realm of [[Bleakhold]] after the rescue mission failed. 
 

@@ -1,7 +1,8 @@
 ---
 type: Event
 subtype: Historical
-taelgar-date: 1718
+DR: 1718
+tag: [event-source]
 ---
 # The Awakened Soul Disaster
 
