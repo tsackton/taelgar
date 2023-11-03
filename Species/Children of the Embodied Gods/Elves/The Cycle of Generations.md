@@ -1,18 +1,13 @@
 
 # The Elven Cycle of Generations
 
-The elven cycle of generations, know as the *ka*, is the result of elves very long lifespan, but limited time when they can bear children. Elves are only fertile for about 30 years, but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from when the planes were separated and the material plane created. 
+The elven cycle of generations, know as the *ka*, is the result of elves very long lifespan, but limited time when they can bear children. Elves are only fertile for about 30 years, when the roots of Aldanor tie them to the material plane, but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from when the planes were separated and the material plane created. 
 ## *Mela and Leya*
 
-%% note
-this probably needs some bullet points or a cleaner text
-%%
+Each new *ka* begins with the *mela*, when the the Living Tree, Aldanor, puts roots into the material world. All elves feel the pull of this connection to Taelgar, as it grows over the first few years of the *mela*. An elf experiencing their first *mela* feels a particularly strong pull towards Aldanor, and those who accept this connection are able to bear children, until the *mela* ends. Elven children are born only during the *mela*, and as it ends they enter the Dreaming, the 50 year children of dreams and magic during which elves sleep for the only time in their lives. 
 
-Each *ka* has two distinct cycles. A new generation begins with a 30-year period of fertility and child birth, during which those who wish it who were born in the previous *ka* nurture elven children in the Dreaming. The *mela* ends as the 50 year dreaming comes to a close, and the elves of the new *ka* awake. 
+The Dreaming ends with the Rite of Awakening, which marks the beginning of the *leya*, the time when Elmerca, the Wild Star, is dominant, and elves feel a pull to disperse, to journey. Children are considered adults when the experience their first Awakening, and those new adults are encouraged to travel, until the *mela* and the Rite of Return pulls them back, and the cycle repeats. 
 
-The *leya*, which begins when the *mela* ends, is a time of journeys. Those who have just experienced their first Awakening are encouraged to travel, whether in body, mind, or spirit, and experience the world. As they do, their parents take on the role of caretaker, charged with keeping the new generation safe in the world, and the world safe for them. 
-
-Until the *mela* comes again, and the cycle repeats. Over the course of a period of three *ka*, an elf will go from a newborn, to a child dreaming, to a wanderer and traveler, to a nuturer themselves, to a caretaker of the world, and finally to a nuturer again, when their grandchildren are out in the world. 
 ## The Years of the *ka*
 
 Elves do not usually concern themselves with the passing of mere years, focusing instead on the cycle of *ka*, *mela*, and *leya*. Still, for those who must translate the elves into the history of other species, the dates of each *ka* in the Dwarven Count of Years (CY) and in Drankorian Reckoning (DR) are provided. 
