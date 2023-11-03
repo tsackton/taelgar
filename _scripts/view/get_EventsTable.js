@@ -222,7 +222,7 @@ async function get_table(input) {
         item.file.lists.where(t => t.DR != null).forEach(t => {
 
             let textWithDate = t.text;
-            let pattern = /\(\w+:: \d{4}(?:-\d{2})?(?:-\d{2})?\):?/;
+            let pattern = /\(\w+:: -?\d{1,4}(?:-\d{1,2})?(?:-\d{1,2})?\):?/;
             let realText = textWithDate.replace(pattern, '').trim(); // trim() is used to remove any leading or trailing whitespace that may be left after the replacement
 
             if (t.DR != undefined) {
