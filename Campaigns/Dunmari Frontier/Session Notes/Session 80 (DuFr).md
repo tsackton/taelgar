@@ -1,8 +1,13 @@
+---
+tags:
+  - "#session-note"
+
+---
 # Session 80
 *in which the party frees an elemental*
 
 **In the real world:** Oct 16, 2023
-**In Taelgar:**  Jan 8, 1749 - Jan 8, 1749
+**In Taelgar:**  Jan 8, 1749 - Jan 13, 1749
 ## Summary
 
 ## Notes and Information
@@ -10,10 +15,9 @@
 Start:  afternoon, Jan 3rd, 1749 
 End: afternoon, Jan 8th, 1749
 #### [[Eudomes' Mirror]]
- - 8 Jan 1749: [[Eudomes' Mirror]] used to look at the [[Fides Lucaris]] sending stone
- - *15 Jan 1749: mirror is available again*
+ - [ ] (DR:: 1749-01-08) [[Eudomes' Mirror]] used to look at the [[Fides Lucaris]] sending stone (recharge:: mirror)
 ## Timeline 
-- 8 Jan 1749: Arrive at Edge of Echoes early afternoon. Land [[Vindristjarna]], descend into cave. Navigate down underground river by boat; fight water elements in a vast underground lake; traverse elemental hazards; arrive at ancient Drankorian ruins, uncover mystery of the ruins, free elemental.
+- [ ] (DR:: 1749-01-08): Arrive at Edge of Echoes early afternoon. Land [[Vindristjarna]], descend into cave. Navigate down underground river by boat; fight water elements in a vast underground lake; traverse elemental hazards; arrive at ancient Drankorian ruins, uncover mystery of the ruins, free elemental.
 - 9 Jan 1749: Remain at the elemental forge while [[Faldrak Bronzehammer]] crafts magic
 - 10 Jan 1749: Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
 - 11 Jan 1749: Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic

@@ -1,7 +1,7 @@
 ---
 tags:
-  - stub
   - event-source
+  - stub
 ---
 
-# Summer Gnoll Raids
+# The Battle of Voltara

@@ -1,8 +1,8 @@
 # The *kestavo*
 
-The *kestavo* is the ancient religion of northern Sembara and the Highlands, and is still practiced in some places in the highlands. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to Ako, the Divine. 
+The *kestavo* is the ancient religion of northern Sembara and the Highlands, and is still practiced in some places in the highlands. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to [[Ako]], the Divine. 
 
-Although most kestavo are worshipped only by the people of their particular town or village, some kestavo have gained great fame and pilgrims come from far and wide to their shrines to ask for blessings to be passed along to Ako. These include:
+Although most kestavo are worshipped only by the people of their particular town or village, some kestavo have gained great fame and pilgrims come from far and wide to their shrines to ask for blessings to be passed along to [[Ako]]. These include:
 
 * [[Romil]], the glacier king, with his shrine in the tallest mountains in the north
 * [[Kamak]], the lurker, who dwells at the bottom of the great Lake Kamchak
@@ -28,7 +28,7 @@ Some spirits watch over many villages, and are therefore much more powerful… b
 
 Most practice is centered around maintaining the shrine; specific worship doesn’t necessarily occur in the shrine, but it is the house of the god, literally. It is very important that it be well kept, clean, decorated. Sometimes, this means a building -- but if the kestavo lives in a waterfall in the forest, it might mean ensuring no one draws the water or something. The practice also includes specific rituals around giving prayers and wishes to pass on to [[Ako]], and practices and rituals to scare off or bribe the children of Ziva.   
 
-Each kestavo also can only carry prayers to Ako if they are nearby. This leads to both pilgrimages to specific shrines as well as a great importance on having a shrine in each community, as a center of worship. A new village cannot be established if no kestavo will watch over it.
+Each kestavo also can only carry prayers to [[Ako]] if they are nearby. This leads to both pilgrimages to specific shrines as well as a great importance on having a shrine in each community, as a center of worship. A new village cannot be established if no kestavo will watch over it.
 
 %%
 Note kestavo have no extraplanar presence. This makes everything click - it is why they can’t grant prayers themselves, for example.  I do think this would imply that there are not faded kestavo drifting around the astral plane. Instead there would be places in Taelgar with ghost gods.

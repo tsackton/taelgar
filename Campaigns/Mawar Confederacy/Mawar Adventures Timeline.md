@@ -1,0 +1,17 @@
+---
+tags:
+  - timeline
+  - mawar-adventures-campaign
+---
+
+- (DR:: 1747-07-23) *(Mawar Adventures)*: Trok, Wazir, and Ryu defeat an elemental attack and help Illius, a merfolk recover a vial of water from the sentient ocean. 
+- (DR:: 1747-08-03) *(Mawar Adventures)*: Trok, Wazir, Ryu, and Kaleho meet in the Leviathan Inn in Hamri to discuss a scroll that Wazir had decoded. 
+- (DR:: 1747-08-04) *(Mawar Adventures)*: Trok, Wazir, Ryu, and Kaleho investigate the ruins of a watcher's tower, discovering it was built over an older tower. Speak with denizens of Hamri: Jaeson, on the cliffs; Orden, the beach bum; Samar and Reliah, the twins in the drowned flats; Benat, a lizardfolk historian; Yaz, an old ocean watcher, and Ovina, a shady dwarven smith. They learn that Azar is likely around, probably killed a number of gatza addicts in the Drowned Flats, and is quietly seeking a lead box to story something in. 
+- (DR:: 1747-08-05) *(Mawar Adventures)*: Trok, Wazir, Ryu, Kaleho confront Azar on the Shark's Dock, and defeat him. 
+- (DR:: 1747-10-23) *(Mawar Adventures)*: Orden approaches Trok and Kaleho on the beach and asks them to help find his missing daughter Hiyasa, recently returned from 10 years away. 
+- (DR:: 1747-10-24) *(Mawar Adventures)*: Trok and Kaleho have breakfast with Ryu and meet Nerissa. After gathering rumors from Abelard the singer in town, they head up river following Hiyasa's tracks. 
+- (DR:: 1747-10-26) *(Mawar Adventures)*: Trok, Kaleho, Nerissa and Ryu arrive at a monument or tomb to Yerkir-khor. Exploring they find stone guardians, some writing in Terran, and eventually Hiyasa, who they rescue from a animated statue protecting the inner sanctum of Yerkir-khor from the unfaithful. 
+- (DR:: 1747-10-28) *(Mawar Adventures)*: Trok, Kaleho, Nerissa and Ryu return to Hamri with Hiyasa and treasure. They obtain the treasure map Hiyasa stole from Chardon in thanks for saving her, and hand over some ancient scrolls to Wazir to decipher. 
+- (DR:: 1747-11-01) *(Mawar Adventures)*: Ander, a recently retired Chardonian solider, returns to Hamri after 20 years away.
+- (DR:: 1747-11-08) *(Mawar Adventures)*: Ander comes to visit his childhood friend Ryu in the towers. While having a late morning tea, Jaeson approaches, telling them that some beast is trying to take all the lizardfolk gatza, providing an opportunity to corner the market. Ryu and Ander meet up with Nerissa who had heard the same story, and decide to investigate. They arrive at Eskorola, the lizardfolk village, in the late afternoon. Speaking with Itzal, the village elder, they learn several lizardfolk have been killed by a strange beast, and a burned body washed ashore with a note demanding gatza be placed on a barge in the harbor in three days time. Amaya, a young lizardfolk scout, takes the party to the site where the last attack happened. 
+- (DR:: 1747-11-09) *(Mawar Adventures)*: The party leaves north for the mists in the salt marsh. They fight some steam imps and a fire cultist guardian, and then find the young dragon turtle Chaessenth under the magical control of a fire mage, a follower of Khathayi the Flametongue. After freeing the giant dragon turtle, who takes a liking to Nerissa, the party learns that the fire mage was seeking gatza to speak with the long-dead Khathayi. Chaessenth tells them of the song of the ocean and the Wanui Teora before heading west into the deep. 

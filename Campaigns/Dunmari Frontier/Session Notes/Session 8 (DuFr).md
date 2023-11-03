@@ -4,7 +4,7 @@
 
 The session begins on the road, at the edge of the mountains, with the party contemplating their next move. After some discussion of the relative merits of trying the front door, or searching in the mountains for a back door, either over the cliffs or via the hidden exit from the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] marked on [[Riswynn]]’s maps, the party decides to try the mountain route. Heading east, the party aims for a mountain valley just to the west of [[Raven's Hold]], hoping to find a route through or over and thus avoid the plains of cursed insanity vines encountered by [[Ander Charmheart]] to ill effect.
 
-Riswynn's map of the Dwarven outpost:
+[[Riswynn]]'s map of the Dwarven outpost:
 ![[Raven Hold Dwarves.png]]
 
 The area here is rough hilly terrain, with various loose erratic boulders and stones. Just before getting to the mountain stream flowing into the plains, [[Seeker]] notices a volcanic boulder that seems very out of place, as there don’t seem to be active volcanoes here. Searching, he finds a faint impression of Dwarven runes, indicating the number 2300, and also realizes the boulder was probably not naturally deposited here. With some searching, [[Seeker]] (assisted by [[Wellby]]) finds another out of place stone, this time marked with the number 2100. Continuing to search up the river valley, they find stones every few hundred feet, counting down what seems to be a distance. When the numbers get down to about 500, the fast-flowing stream turns into a high sided mountain gorge and heads into the mountain. Instead of a number, Dwarven runes spelling “enter” are carved here.
