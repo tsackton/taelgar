@@ -1,6 +1,16 @@
-**Visions of the [[Pandemonium Scroll]] in [[Eudomes' Mirror]]
+---
+tags:
+  - event-source
+  - dunmari-frontier-campaign
+DR: 1748-07-13
+recharge: mirror
+---
 
-The image in the mirror the reflection of the of the scrolls begins to fade, and the mirror turns dark. 
+# Pandemonium Scroll Vision
+
+Vision of a [[Pandemonium Scroll|scroll associated with Pandemonium]] in [[Eudomes' Mirror]]. 
+
+The image in the mirror of the reflection of the scroll begins to fade, and the mirror turns dark. 
 
 Not quite black – everything is dim and shades of gray, but you can vaguely make out what look like looming stones ahead. It seems that that you are seeing a path in the flat grayness, and although you cannot hear anything in the mirror, you almost feel as if you can hear the echoes of a howling wind. Something about the way the image is reflected in the mirror almost makes you cover your ears in pain, as the sound which you can almost feel in your mind grows to an intense howl. And you see a figure walking on this path, a humanoid, wearing a dark flowing cloak and a hood, pulled tight against the wind. The cloak is flapping and billowing, and every now and then it will blow up and you can see they are wearing armor, a breastplate under the cloak. 
 
