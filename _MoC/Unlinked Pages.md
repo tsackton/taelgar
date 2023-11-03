@@ -4,10 +4,9 @@ These are notes that are not linked from any other note.
 
 ## Gazetteer
 ```dataview
-TABLE file.inlinks as Backlinks, length(file.inlinks) as Total 
+LIST
 FROM "Gazetteer" 
 WHERE length(file.inlinks)=0 
-SORT length(file.inlinks) DESC
 ```
 
 ## Cosmology

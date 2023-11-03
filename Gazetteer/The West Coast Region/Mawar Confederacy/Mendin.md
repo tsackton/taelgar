@@ -1,1 +1,1 @@
-A small town on the southwestern edge of the Mawakel Peninsula, a center for trading with Chardon.
+A small town on the southwestern edge of the [[Mawakel Peninsula]], a center for trading with [[Chardon]].

@@ -1,6 +1,19 @@
-#### Session 42
+---
+tags:
+  - session-note
+  - dunmari-frontier-campaign
+---
 
-**(Sunday, March 13rd, 2022; in Taelgar, July 13th - July 18th)
+# Session 42
+
+**In the real world:** March 13, 2022
+**In Taelgar:**  July 13, 1748 - July 18, 1748
+
+## Notes and Information
+
+- (DR:: 1748-07-13) *(Eudomes Mirror)*: See a the [[Pandemonium Scroll Vision]] in [[Eudomes' Mirror]] (recharge:: mirror)
+
+## Narrative
 
 We begin as the party rests in [[Tokra]], waiting for their [[Portable Hole]] to be ready and to begin the journey to [[Darba]], and planning on wrapping up a few loose ends. The first of which is looking at the [[Pandemonium Scroll|scroll]] associated with [[Pandemonium]], recovered from the lair of the [[Fraternity of the Empty Moon]], in [[Eudomes' Mirror]]. As [[Seeker]] unrolls the scroll to hold it to the mirror, the runes shift and squirm and reach out to him, but he resists whatever effect might have occurred and [[Pandemonium Scroll Vision|sees the following]].
 
