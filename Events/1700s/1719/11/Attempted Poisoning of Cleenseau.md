@@ -1,7 +1,7 @@
 ---
 fc-calendar: Taelgar Calendar
 fc-date: 1719-11-03
-taelgar-date: 1719-11-03
+DR: 1719-11-03
 type: Event
 fc-category: Cleenseau Campaign
 ---

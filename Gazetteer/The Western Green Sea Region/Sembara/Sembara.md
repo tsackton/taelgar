@@ -17,7 +17,7 @@ The largest and most prosperous realm on the [[Western Gulf]] of the Green Sea, 
     
 -   Cooler relationship with dwarves -- not at all hostile, but dwarves are more aligned with the highland kingdoms, esp Ardlas and Lavnoch
     
--   Close relationship with lizardfolk, who have played an outsized role in Sembara’s history and establishment of House of Sewick.
+-   Close relationship with lizardfolk, who have played an outsized role in Sembara’s history and establishment of [[House of Sewick]].
     
 -   Elves very rare in Sembara, with little direct political contacts; largest Elven settlement nearby is the semi-mythical kingdom of Orenlas in the forests surrounding a supposedly enchanted lake south/southeast of Tyrwingha in the Cymea foothills.
     
