@@ -13,8 +13,6 @@ aliases:
 tags:
   - NPC/DuFr/background
 lastSeenByParty:
-  - date: 1749-01-08
-    prefix: DuFr
 whereabouts:
   - date: 1719-01-01
     place: Luminatia
