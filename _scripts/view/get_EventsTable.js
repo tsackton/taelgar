@@ -9,8 +9,10 @@ function get_table(input) {
             return [{ year: item.file.frontmatter.DR.year ?? item.file.frontmatter.DR, date: item.file.frontmatter.DR, text: item.file.name, file: item.file.name }];
         } else {
             return item.file.lists.where(t => t.DR != null).map(t => {
-                let firstColon = t.text.lastIndexOf(':')
-                let realText = firstColon > 0 ? t.text.substring(firstColon + 1) : t.text;
+                let textWithDate = t.text;
+                let pattern = /\(\w+:: \d{4}(?:-\d{2})?(?:-\d{2})?\):?/;
+                let realText = textWithDate.replace(pattern, '').trim(); // trim() is used to remove any leading or trailing whitespace that may be left after the replacement
+                
                 return { year: t.DR.year ?? t.DR, date: t.DR, file: item.file.name, text: realText };
             })
         }
