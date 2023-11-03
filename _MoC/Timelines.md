@@ -11,5 +11,5 @@ LIST WITHOUT ID events.text from #event-source flatten file.lists as events wher
 
 Javascript 
 ```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", { yearStart: 1740, yearEnd: 1748, pageFilter: "#event-source or #timeline"} )
+await dv.view("_scripts/view/get_EventsTable", { yearStart: 1600, yearEnd: 1749, pageFilter: "#event-source or #timeline"} )
 ```

@@ -1,8 +1,14 @@
-### The Exile of the Fraternity of the Empty Moon
+---
+tags: event-source
+DR: 1625-04-11
+DR-end: 1625-08-14
+---
+# The Exile of the Fraternity of the Empty Moon
 
-The events surrounding the first time the [[Fraternity of the Empty Moon]] was driven from Tokra. Commander Ila, the local garrison commander responsible for the defense of Tokra in the aftermath of the [[Second Hobgoblin War]], seems to have driven the werewolves away during the 1620s in Drankorian Reckoning, in the 67th-69th years of the Nayan Dynasty.
+The Exile of the Fraternity of the Empty Moon was a campaign waged over the course of four months in the summer of the 68th year of the Nayan Dynasty (DR 1625). 
 
-It was during this time that the [[Dunmari map of Pandemonium ruins]] was created. 
+The [[Fraternity of the Empty Moon]], a werewolf cult dedicated to the advancement of the [[Mad One]], was driven from [[Tokra]] during the course of this campaign, waged by the Dunmari under Commander [[Ila]], the local garrison commander responsible for the defense of [[Tokra]] at the time. 
 
-%%SECRET[1]%%
+The werewolves had established a base in abandoned ruins north of the city, build over an [[extraplanar weak point]] connected to [[Pandemonium]]. The energy leaking from the plane of madness prevented easy approach for the warriors under Commander [[Ila]], until a [[Dunmari map of Pandemonium ruins|map]] was created that documented a magical route allowing approach of the ruins. 
 
+The last werewolves in [[Tokra]] were executed in August of the 68th year of the Nayan Dynasty, but a significant fraction of the [[Fraternity of the Empty Moon]] was able to escape east. 
