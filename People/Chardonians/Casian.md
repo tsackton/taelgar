@@ -6,14 +6,24 @@ ancestry: Chardonian
 gender: male
 born: 1722
 died: 
-title:
-family:
-affiliations: ["Society of the Open Scroll"]
-aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+title: 
+family: 
+affiliations:
+  - Society of the Open Scroll
+aliases: 
+tags:
+  - NPC/DuFr/major
+  - NPC/DuFr/met
+  - event-source
 whereabouts:
-  - { date: 1722-01-02, place: "Chardon", region: Chardonian Empire, type: home }
-  - { date: 1748-11-23, place: "somewhere in Dunmar", region: Dunmar, type: excursion }
+  - date: 1722-01-02
+    place: Chardon
+    region: Chardonian Empire
+    type: home
+  - date: 1748-11-23
+    place: somewhere in Dunmar
+    region: Dunmar
+    type: excursion
 ---
 # Casian
 >[!info]+ Biographical Summary

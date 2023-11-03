@@ -1,8 +1,9 @@
 ---
-tags: [stub]
+tags: []
 ---
-
 # Nidzahar
+
+One of the [[Dwarven Kingdoms]] of the [[Sentinel Range]], 
 
 Historically, Nidzahar, was a backwater, a minor kingdom of not much importance, which is even reflected in its name, which loosely translates simply as ‘east-land’. Nestled along the easternmost edge of the mountains and spreading into the lightly settled highlands of [[Sembara]], the Kingdom of Nidzahar was never particularly populous or prosperous. Lacking the mineral wealth of [[Am'khazar]] and the trade connections of [[Ardith]] or [[Khatridun]], before the war the kingdom of Nidzahar was of little importance, known largely as a place of iconoclasts, thinkers, and artisans. 
 

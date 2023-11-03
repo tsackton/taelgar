@@ -131,7 +131,7 @@ for file_name in md_file_list:
 #print out what you want
 
 for date in sorted(all_events.keys()):
-    datestring = date.strftime("%d %b %Y")
+    datestring = str(date)
     display_events = []
     for date_event in all_events[date]:
         keep_event = True
@@ -167,20 +167,15 @@ for date in sorted(all_events.keys()):
             display_events.append(date_event)
         
     if display_events:
-        print("## " + datestring)
         secret_texts = []
+        formatted_date = "- (DR:: " + datestring + ")"
         for pe in display_events:
             header = pe["metadata"].get("header", "Other Event")
             text = pe.get("text", "")
             secret = pe["metadata"].get("secret", False)
-            display_string = "- **" + header + "**: " + text
             if secret == False:
+                display_string = formatted_date + " *(" + header + ")*: " + text
                 print (display_string)
             else: 
-                secret_texts.append(display_string)
-        if secret_texts:
-            print("%%SECRET")
-            for text in secret_texts:
-                print(text)
-            print("%%")
-        print("\n", end="")
+                display_string = formatted_date + " *(" + header + ")*: " + text
+                print (display_string)
