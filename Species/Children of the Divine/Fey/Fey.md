@@ -8,7 +8,7 @@ The fey are the natives of the [[Feywild]], the creations and children of the po
 - The sometimes mischievous, sometimes helpful, and always magical flying fairies are also common among the people of the Feywild. These folk are usually small, and include creatures like the pixies, sprites, brownies, and other fairies.
 - The original archfey, at the dawn of the multiverse, were responsible for the awakening of many animals. Some of these now inhabit the Feywild as beastfolk of various kinds. Most famous and most common are the horned satyrs, but whether other beastfolk may lurk in the corners of the Feywild is not recorded by human scholars. 
 - Throughout the feywild, there are also innumerable dryads, nymphs, and other spirits of the land. These fey are typically strongly tied to a particular place, rarely traveling. 
-- Hags are also fey, and often powerful ones, though many leave the Feywild to find easier prey for their schemes in the material plane. 
+- [[Hags]] are also fey, and often powerful ones, though many leave the Feywild to find easier prey for their schemes in the material plane. 
 
 The centaurs, although creations of the archfey, are not counted among the inhabitants of the Feywild, as centaurs have, in general, turned their backs on their fey forbearers and live now as the protectors and guardians of Taelgar. 
 
