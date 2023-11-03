@@ -14,7 +14,7 @@ function get_table(input) {
                 return { year: t.DR.year ?? t.DR, date: t.DR, file: item.file.name, text: realText };
             })
         }
-    }).where(f => (f.year >= yearStart) && (f.year <= yearEnd)).sort(f => f.date.year ?? f.date).map(f => [f.date, f.text, dv.fileLink(f.file)]))
+    }).where(f => (f.year >= yearStart) && (f.year <= yearEnd)).sort(f => f.date.year == null ? dv.date(f.date + "-01-01") : f.date).map(f => [f.date, f.text, dv.fileLink(f.file)]))
 }
 
 return get_table(input);
