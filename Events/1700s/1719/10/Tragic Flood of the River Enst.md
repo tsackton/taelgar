@@ -1,9 +1,6 @@
 ---
-taelgar-date: 1719-10-16
-type: Event
-fc-date: 1719-10-16
-fc-calendar: Taelgar Calendar
-fc-category: Cleenseau Campaign
+tags: [event-source]
+DR: 1719-10-16
 ---
 ### Tragic Flood of the River Enst
 *October 16th, 1719; 3pm*

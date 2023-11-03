@@ -17,7 +17,7 @@ lastSeenByParty:
 whereabouts:
   - { date: 1725-01-01, place: "Karawa", region: Eastern Dunmar, type: origin}
   - { date: 1725-01-02, place: "Plains around Karawa", region: Eastern Dunmar, type: home}
-  - { date: 1748-11-23, place: "Sura's army camp", region: Central Dunmar, excursion: true }
+  - { date: 1748-11-23, place: "Sura's army camp", region: Central Dunmar, type: excursion }
   - { date: 1748-12-14, place: "Tokra", region: Central Dunmar, type: excursion }
   - { date: 1748-12-19, place: "Plains between Tokra and Songara", region: Central Dunmar, type: excursion }
   - { date: 1748-12-27, place: "Songara", region: Central Dunmar, type: excursion }
