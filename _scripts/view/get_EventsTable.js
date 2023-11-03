@@ -49,27 +49,24 @@ function parse_date_to_events_date(inputDate) {
     switch (typeof (inputDate)) {
         case "number":
             // this is a bare year           
-            jsDate.setMonth(0)
             jsDate.setDate(1)
-            jsDate.setFullYear(inputDate)
-
+            jsDate.setMonth(0)    
+            jsDate.setFullYear(inputDate)            
             return { display: "DR " + inputDate, sort: get_date_sort_string(jsDate), year: inputDate };
 
         case "string":
             // this is a string which we expect is either yyyy-mm-dd or yyyy-mm but something is wrong, most likely the actual year is not 4 digits
-            let splitString = inputDate.split("-")
-            if (splitString.length == 3) {
-                jsDate.setFullYear(parseInt(splitString[0]))
-                jsDate.setMonth(parseInt(splitString[1]) - 1)
+            let splitString = inputDate.split("-")            
+            if (splitString.length == 3) {                
                 jsDate.setDate(parseInt(splitString[2]))
-
+                jsDate.setMonth(parseInt(splitString[1]) - 1)                 
+                jsDate.setFullYear(parseInt(splitString[0]))
                 return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getUTCFullYear() };
             }
             else if (splitString.length == 2) {
-                jsDate.setFullYear(parseInt(splitString[0]))
-                jsDate.setMonth(parseInt(splitString[1]) - 1)
                 jsDate.setDate(1)
-
+                jsDate.setMonth(parseInt(splitString[1]) - 1)
+                jsDate.setFullYear(parseInt(splitString[0]))                
                 return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getUTCFullYear() };
             }
 
@@ -79,9 +76,9 @@ function parse_date_to_events_date(inputDate) {
                 return undefined;
             }
 
-            jsDate.setFullYear(inputDate.year)
-            jsDate.setMonth(inputDate.month - 1 ?? 0)
             jsDate.setDate(inputDate.day ?? 1)
+            jsDate.setMonth(inputDate.month - 1 ?? 0)
+            jsDate.setFullYear(inputDate.year)            
             return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getUTCFullYear() };
     }
 
