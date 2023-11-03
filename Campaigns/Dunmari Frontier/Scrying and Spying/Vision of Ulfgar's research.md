@@ -34,9 +34,9 @@ Drankorian history. Here, Ulfgar seems to have copied out the annal of emperors 
 | Imrodel (f)                | Peronar          | her daugher Tariele died young and never ruled; historians mark this as beginning of end of Golden Age      | 879        | 934      |
 | Letusas the Quiet (f)      | Hkar             | weak ruler                                                                                                  | 934        | 936      |
 | Eiphis the Blind (m)       | Hkar             | came to the throne late in life                                                                             | 936        | 943      |
-| Helea (f)                  | Non-Hkar         | killed by Omnis Pura to start civil war                                                                     | 943        | 965      |
+| Helea (f)                  | Non-Hkar         | killed by [[Omnis Pura]] to start civil war                                                                     | 943        | 965      |
 | Ysabel (f)                 | Non-Hkar         | ally of Helea; defeated in civil war; known as the Pretender in later years                                 | 965        | 971      |
-| Vestian (m)                | Hkar             | won civil war against Helea faction; associated with Omnis Pura                                             | 965        | 980      |
+| Vestian (m)                | Hkar             | won civil war against Helea faction; associated with [[Omnis Pura]]                                             | 965        | 980      |
 | Akaston (m)                | Hkar             |                                                                                                             | 980        | 991      |
 | Persa (f)                  | Hkar             |                                                                                                             | 991        | 997      |
 | Iarus (m)                  | Hkar             | died in battle                                                                                              | 997        | 1006     |

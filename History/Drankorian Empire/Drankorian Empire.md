@@ -17,7 +17,7 @@ The Drankorian Empire grew out of the city of Drankor, founded near the mouth of
 - 634 DR: The Battle of Tawir Forest ends the Drankorian conquest of the west on the northern shores of Lake Valandros. 
 - 647 DR: The beginning of the Great Peace, sometimes called the Golden Age of Drankor, a period of 300 years of sustained peace and prosperity across the empire.  
 - 688 DR: The Sibyline Archives, which will eventually become the Great Library, is founded in the developing city of Chardon
-- 965 DR: The Drankorian Civil War begins with the assassination of Emperor Helea by allies of the Omnis Pura, and is won by Emperor Vestian, associated with Omnis Pura
+- 965 DR: The Drankorian Civil War begins with the assassination of Emperor Helea by allies of the [[Omnis Pura]], and is won by Emperor Vestian, associated with [[Omnis Pura]]
 - 1001-1013 DR: The Dominion Wars, a series of attempted conquests to the east
 - 1059 DR: The destruction of [[Drankor]] by the Plague Mist
 
@@ -53,9 +53,9 @@ Cavarrio's Chronicles of Drankor also records the line of emperors of Drankor, a
 | Imrodel (f)                | Peronar          | her daugher Tariele died young and never ruled; historians mark this as beginning of end of Golden Age      | 879        | 934      |
 | Letusas the Quiet (f)      | Hkar             | weak ruler                                                                                                  | 934        | 936      |
 | Eiphis the Blind (m)       | Hkar             | came to the throne late in life                                                                             | 936        | 943      |
-| Helea (f)                  | Non-Hkar         | killed by Omnis Pura to start civil war                                                                     | 943        | 965      |
+| Helea (f)                  | Non-Hkar         | killed by [[Omnis Pura]] to start civil war                                                                     | 943        | 965      |
 | Ysabel (f)                 | Non-Hkar         | ally of Helea; defeated in civil war; known as the Pretender in later years                                 | 965        | 971      |
-| Vestian (m)                | Hkar             | won civil war against Helea faction; associated with Omnis Pura                                             | 965        | 980      |
+| Vestian (m)                | Hkar             | won civil war against Helea faction; associated with [[Omnis Pura]]                                             | 965        | 980      |
 | Akaston (m)                | Hkar             |                                                                                                             | 980        | 991      |
 | Persa (f)                  | Hkar             |                                                                                                             | 991        | 997      |
 | Iarus (m)                  | Hkar             | died in battle                                                                                              | 997        | 1006     |
@@ -77,8 +77,8 @@ As Drankor grew into a major power, then great empire, a few aspects of its cult
 
 Little has come to modern times about the exact nature of Drankorian secret societies, but three at least have been noted by students and travelers. 
 
-- [[Omnis Pura]]: The Omnis Pura were heavily involved in the Drankorian Civil War, seen by later historians as a revolt against the increasing power and influence of diverse human cultures, including those who had left Hkar long before the Downfall, in the empire. The power behind the throne in the last hundred years of the Empire. Apollyon, the last emperor of Drankor, was strongly associated with Omnis Pura. 
-- [[Occulta Ludum]]: The Occulta Ludum were associated with the development of magic and especially with practical inventions of harnessing magical power. While they rejected the extremist claims of the Omnis Pura in the later years of the Empire, there is little evidence that has come down to current day that they actively opposed Omnis Pura.
+- [[Omnis Pura]]: The [[Omnis Pura]] were heavily involved in the Drankorian Civil War, seen by later historians as a revolt against the increasing power and influence of diverse human cultures, including those who had left Hkar long before the Downfall, in the empire. The power behind the throne in the last hundred years of the Empire. Apollyon, the last emperor of Drankor, was strongly associated with [[Omnis Pura]]. 
+- [[Occulta Ludum]]: The Occulta Ludum were associated with the development of magic and especially with practical inventions of harnessing magical power. While they rejected the extremist claims of the [[Omnis Pura]] in the later years of the Empire, there is little evidence that has come down to current day that they actively opposed [[Omnis Pura]].
 - [[Fides Lucaris]]: The Fides Lucaris were associated with the Emperor Helea and the losing side of the Drankorian civil war. Little is known about what they did in the last few hundred years of the Empire; the only records that have readily been accessible to historians are those of executions and exile when members of the Fides Lucaris were caught. They seem to have been a cross-species alliance, involving at least humans and elves. 
 
 %% SECRET 
