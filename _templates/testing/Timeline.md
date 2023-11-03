@@ -5,3 +5,8 @@
 * (DR:: 1) : Founding of Drankor
 * (DR:: 0003-02-02) Early Drankor
 * (DR:: 3-01-20) Early Drankor
+
+
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", {   yearStart: 1,   yearEnd: 2000,   pageFilter: "\"People/Chardonians\"",  includeAll : true })
+ ```
