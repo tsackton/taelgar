@@ -59,3 +59,4 @@ After the [[Awakened Soul Disaster]] in DR 1717, he took up residence in the des
 
 Avaras did not see him again until much later, on [[Session 19 (DuFr)|May 2, 1748]], when Delwath returned, with [[The Dunmar Fellowship]]. 
 %%^End%%
+
