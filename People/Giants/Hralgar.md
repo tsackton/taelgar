@@ -27,7 +27,7 @@ An ancient storm giant, of great power, who could become a storm and travel acro
 
 Hralgar was born just before the Downfall, and spent his younger days uninterested in the doings of humans, paying little attention to them. Once he settled down in the middle of his second century, he acquired a reputation for stories and for reading the portents and news on the winds. In middle age, during the Golden Age of Drankor, visitors came, and went - dwarves, stoneborn, humans - and they spoke of ancient magic, of myths and stories. 
 
-When the Golden Age ended in civil war, and the Omnis Pura came to power, things became more difficult, and some time later he was trapped by Eudomes, during Apollyon's reign. 
+When the Golden Age ended in civil war, and the [[Omnis Pura]] came to power, things became more difficult, and some time later he was trapped by Eudomes, during Apollyon's reign. 
 
 He was partially awakened from his imprisonment in the spring of 1748, by three Chardonians: [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]] (who died in the tower). He was later freed by [[The Dunmar Fellowship]], and vanished into the winds. 
 

@@ -1,12 +1,12 @@
 ---
 type: Organization
-tags: [stub, organization/unsorted]
+tags:
+  - organization/unsorted
 ---
-
 # Omnis Pura
 
-A mysterious Drankorian organization. 
+Omnis Pura is a Hkaran supremacist organization dedicated to the proposition that it is only the pure blooded children of ~HkarUrbanCultureElite~ that are destined to control the world.
 
-[[Emperor Apollyon|Apollyon]], the last emperor of [[Drankorian Empire|Drankor]], was associated with this group, and they came to be associated with the Imperial line after the Drankorian Civil War. 
+Associated with the winning side of the [[Drankorian Civil War]], and played a prominent role in the later history of the [[Drankorian Empire]]. [[Emperor Apollyon]], ithe last Emperor of the [[Drankorian Empire]], was supposedly a supporter. 
 
-Obsessed with Drankorian purity and the superiority of pure-blood descendants of Hkar.
+Re-emerged in [[Chardon]] some time after the [[Great War]]. 
