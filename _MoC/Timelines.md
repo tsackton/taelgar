@@ -9,3 +9,7 @@ Won't currently find things that are linked via alias but don't mention NPC, but
 LIST WITHOUT ID events.text from #event-source flatten file.lists as events where contains(events.text, this.file.name) sort events.DR
 ```
 
+Javascript 
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", { yearStart: 1740, yearEnd: 1748, pageFilter: "#event-source or #timeline"} )
+```
