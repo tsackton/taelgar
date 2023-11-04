@@ -4,7 +4,7 @@ The northern forests, north of the Blackwater Fens and inland from the coast, we
 
 This area, a vast forest stretching from the sea to the mountains, was north of the elven territories, and the Deno'qai who settled here were fierce, independent, less influenced by the Elven ways, living more openly in small towns and villages.
 
-The northern Deno'qai suffered greatly during the [[Great War]] and have only [[History of the Northern Deno'qai|recently begun]] to emerge from their mountain redoubts.
+The northern Deno'qai suffered greatly during the [[Events/1500s/Great War]] and have only [[History of the Northern Deno'qai|recently begun]] to emerge from their mountain redoubts.
 ### Customs
 
 The northern Deno'qai, while worshipping [[tanshi]] like their southern brethren, and descended from the same original settlers, are culturally distinct to a certain extent.

@@ -38,7 +38,7 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 ## Events
 
 - Agata was known as Dasoclese in the [[Feywild]] realm of [[Amberglow]]
-- Agata was rumored to have been an ally of [[Cha'mutte]] in the [[Great War]], focusing on the pain of war refugees and survivors. It was suggested by [[Hralgar]] and by [[Delios the Sage]] that she never forgave the Dunmari for their role in the [[Great War]], and her later actions were often driven by vengeance. 
+- Agata was rumored to have been an ally of [[Cha'mutte]] in the [[Events/1500s/Great War]], focusing on the pain of war refugees and survivors. It was suggested by [[Hralgar]] and by [[Delios the Sage]] that she never forgave the Dunmari for their role in the [[Events/1500s/Great War]], and her later actions were often driven by vengeance. 
 - In the early 1740s, Agata imprisoned Nayan [[Sura]] in a magic mirror, triggering a chain of events that led to the ascension of [[Nayan Karnas]], [[Sura]]'s brother, to the Dunmari throne, for mysterious ends.
 - Acquired the [[Scepter of Command]] from the [[Fraternity of the Empty Moon]] sometime in 1747 or early 1748, in exchange for assisting the Fraternity in their plan to draw the energy of [[Pandemonium]] closer to Taelgar, strengthening the curse of lycanthropy and causing madness to spread across [[Dunmar]]. 
 - Thought to be killed by [[The Dunmar Fellowship]] at [[Shakun’s Wellspring]] on [[Session 28 (DuFr)|May 29th, 1748]].
