@@ -10,6 +10,20 @@ The Dreaming ends with the Rite of Awakening, which marks the beginning of the *
 ## Aging and Leaving
 
 The pull of the *mela* gets fainter and fainter as elves age. Elves in their first *mela* feel the pull most strongly, and many become parents. In their second, and third mela, many elves take on roles as nurturers of children and elven society, or caretakers of the world. By their fourth *mela*, some elves begin to stop feeling the roots of Aldanor, the pull of Taelgar, and many begin to forget the past, or even pass on entirely. By their fifth *mela*, many elves being to depart, and only those who have a strong reason to stay connected to the world remain for their 6th *mela* and beyond to become ancients. 
+
+%% notes
+
+If you are ka X, your zeroth mela is when you are born, and your first leya is the leya of X
+1st mela is ka+1, you are ~160 and remember the last 80 years
+2nd mela is ka X+2, you are ~320 and remember the last ~240 years
+3rd mela is ka X+3, you are ~480 and remember the last 400 years; this is when you are an elder; some become unifiers but at this point most elves don't have formal roles in society, just "elders",
+4th mela is ka X+4, you are ~640 and remember the last 560 years, but the first 160 are often getting hazy, this when the age of forgetting begins, and some start leaving
+5th mela is ka X+5, you are ~800, and the age of leaving is in full swing; most elves have left by the end of their 5th leya (at 960)
+6th mela is ka X+6, these are truly ancients and rare
+
+Current time in Taelgar is 37th leya; elves of the 31st ka and earlier are very rare, considered ancients; elves of 32nd are rare (these are in the middle of the age of leaving); elves of the 33rd ka are in the age of forgetting and the oldest of the elders; elves of the 34th ka are the bulk of the elders and unifiers
+
+%%
 ## The Years of the *ka*
 
 Elves do not usually concern themselves with the passing of mere years, focusing instead on the cycle of *ka*, *mela*, and *leya*. Still, for those who must translate the elves into the history of other species, the dates of each *ka* in the Dwarven Count of Years (CY) and in Drankorian Reckoning (DR) are provided. 
