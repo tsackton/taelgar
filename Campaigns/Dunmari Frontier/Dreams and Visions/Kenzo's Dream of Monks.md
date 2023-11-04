@@ -1,4 +1,4 @@
-# [[Kenzo]]'s Dream of Monks in Drankor
+# [[Kenzo]]'s Dream of Monks in [[Drankor]]
 
 [[Session 14 (DuFr)]]
 

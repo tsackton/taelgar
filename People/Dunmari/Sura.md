@@ -47,3 +47,13 @@ Sura is a tall, striking Dunmari woman, with high cheekbones, light brown skin, 
 - Led her troops to victory against the Chardonian battle mages and a small group of Dunmari warriors loyal to Karnas during the [[Battle of Tokra]] on December 14th, 1748. 
 
 %%SECRET[1]%%
+
+
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", {   yearStart: 1,   yearEnd: 2000,   pageFilter: "\"People/Dunmari/Sura\"",  includeAll : true })
+ ```
+
+```dataview
+LIST WITHOUT ID events.text from #timeline or #event-source  flatten file.lists as events where contains(events.text, this.file.name) sort events.DR
+```
+
