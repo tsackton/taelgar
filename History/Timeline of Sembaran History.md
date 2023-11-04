@@ -58,13 +58,13 @@ South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which 
 * DR 1425, late summer: [[Derik I]] receives a [[The Prophecy of Udazken|prophecy]] fortelling his future kingship
 * DR 1425, late fall: Sembaran army abandons all the lands between the [[Enst]] and the [[Wistel]] and retreats to [[Wisford]] for the winter
 * DR 1425, winter: [[Derik I]] [[Derik I's Arrival in Tyrwingha|lands]] in [[Tyrwingha]] and is proclaimed king by [[Archfey Ethlenn]]
-* DR 1426, spring: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Wistel]] at the [[Battle of Wisford]]
-* DR 1426, summer: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Enst]] at the [[Battle of Fellburn]]
-* DR 1427, spring and summer: [[Derik I]] campaigns south of the [[Enst]] 
-* DR 1428, spring: [[Derik I]] defeats [[Emperor Avatus|Avatus]] at the [[Battle of Dalfield]]
-* DR 1428, late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treay of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
-* DR 1429, summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
-* DR 1429, fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
+* DR 1426, summer: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Wistel]] at the [[Battle of Wisford]]
+* DR 1427, summer: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Enst]] at the [[Battle of Fellburn]]
+* DR 1428, spring and summer: [[Derik I]] campaigns south of the [[Enst]] 
+* DR 1429, spring: [[Derik I]] defeats [[Emperor Avatus|Avatus]] at the [[Battle of Dalfield]]
+* DR 1429, late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treay of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
+* DR 1430, summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
+* DR 1430, fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
 
 # The Great War
 DR 1462 - DR 1545; 1 Derik II - 26 Derik III
@@ -143,9 +143,10 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 * DR 1590, fall: [[Elaine I]] sends the [[Army of Mostreve]] and the [[Army of the South]] to aid [[Duchy of Maseau|Maseau]]. The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] begins
 * DR 1602: [[Blanche II]] dies in childbirth, and her great uncle, [[Percival Wynthrope]], becomes regent for her young son
 * DR 1602: The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends with the [[Treaty of Châteauclair]] between the regent, [[Percival Wynthrope]] and the [[Shattered Ice Clan]]. The lands south of the Enst and west of the Aure are ceded to the hobgoblins. 
-* DR 1644, summer: [[Charlotte II]] at the urging of her husband [[Lionel Falconhurst]], the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
+* DR 1644, spring: A new leader amongst the [[Shattered Ice Clan]] starts a war of ethnic cleansing against [[Duchy of Maseau|Maseau]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
+* DR 1644, late spring: [[Charlotte II]] at the urging of her husband [[Lionel Falconhurst]], the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]]
 * DR 1644, fall: After several early successes, the Sembaran [[Army of the South]] is fought to a stalemate at the [[Battle of Lysandale]] in the western reaches of Maseau
-* DR 1644, late fall/winter: The [[Shattered Ice Clan]] pushes east and [[The Siege of Valarin (Third Hobgoblin War)|besieges]] [[Valarin]]. The hobgoblins refuse to press their advantage in [[Duchy of Maseau|Maseau]] and do not move south of [[Valarin]]
+* DR 1644, fall: The [[Shattered Ice Clan]] abandons the campaign in [[Duchy of Maseau|Maseau]] and redirects their armies to [[Sembara]]
 * DR 1644, late fall/winter: The [[Shattered Ice Clan]] breaks the fortifications in [[Barony of Vaubonne|Vaubonne]] and camps outside [[Fellburn]]
 * DR 1645: Hobgoblins consolidate the lands south of the [[Enst]] and raid throughout the [[Duchy of Wisford]], the [[Barony of Dunfry]], the [[Barony of Aveil]], and the [[Barony of Ainwick]]. 
 * DR 1646, summer: The Sembaran [[Grand Army of Sembara (Third Hobgoblin War)|Grand Army]] is defeated at the [[Battle of Rinburg]]. 
