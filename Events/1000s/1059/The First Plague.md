@@ -1,4 +1,5 @@
 ---
+aliases: [First Plague]
 tags: [event-source]
 DR: 1059
 ---
