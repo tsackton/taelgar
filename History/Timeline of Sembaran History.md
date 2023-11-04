@@ -156,9 +156,10 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 * DR 1647, late fall: [[Fellburn]] is [[The Hobgoblin Sack of Fellburn|sacked]]
 * DR 1648, late winter: Charlotte II is [[The Ambush of Charlotte II|killed by hobgoblins]] while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]
 * DR 1648, late winter: Cece I crowned Queen
-* DR 1648, early spring: The [[Army of the North]] breaks the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]]
-* DR 1648, spring: Cece I raises [[The Radiant Alliance]]
-* DR 1648, summer: [[The Enst Campaign]] pushes the [[Shattered Ice Clan]] west of [[Barony of Vaubonne|Vaubonne]] and south of the [[Enst]]
+* DR 1648, early spring: The [[Army of the North]] attempts to break the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]], and is bogged down
+* DR 1648, late spring: Cece I combines the Armies of the South, and Mostreve, and raises a special levy across the realm, and forms the [[Radiant Alliance]], which she takes personal command of
+* DR 1648, early summer: After a few stalemates, the [[Radiant Alliance]] breaks the siege of  Dunfry and the Armies of the North and West join with the Radiant Alliance
+* DR 1648, summer:  [[The Enst Campaign]] pushes the [[Shattered Ice Clan]] west of [[Barony of Vaubonne|Vaubonne]] and south of the [[Enst]]
 * DR 1649, summer: [[The Maseau Campaign]] pushes the [[Shattered Ice Clan]] west of [[Duchy of Maseau|Maseau]], into the foothills of the [[Sentinel Range]] and the [[Marches of Enford]]
 * DR 1650, summer: [[The Enford Campaign]] pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst]] and establishes a strong garrison at [[Enford]]
 * DR 1653: The [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] ends
