@@ -16,7 +16,7 @@ tags: [NPC/DuFr/major, NPC/DuFr/met]
 whereabouts:
      - { date: 1714-01-02, place: "Chardon", region: Chardonian Empire, type: home }
      - { date: 1748-11-10, place: "somewhere in Dunmar", region: Dunmar, type: excursion }
-     - { date: 1748-12-08, place: "in the mirror of soul trapping", region: extraplanar realms, type: excursion }
+     - { date: 1748-12-08, place: "the mirror of soul trapping", region: extraplanar realms, type: excursion }
 ---
 # Antonia
 >[!info]+ Biographical Summary
