@@ -7,6 +7,8 @@ type: Building
 
 A large caravanserai, inn, and trading post in [[Karawa]]. It is on the northern outskirts of the village, a large square building with an open courtyard, rooms for travelers, and space for merchants and animals. This is a center of commence in the village when the market is deserted, and many things can be acquired from [[Ikram]], the proprietor. 
 
+![[rsulfuratus_Illustrate_a_desert_caravanserai_and_inn_with_color_e1e061b9-7af3-4f19-9a35-e180ab74d2c8.png]]
+
 ## Food and Drink
 
 Popular menu items include:
