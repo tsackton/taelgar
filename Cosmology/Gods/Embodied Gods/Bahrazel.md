@@ -1,5 +1,5 @@
 ---
-aliases:[Bahrâzel]
+aliases: [Bahrâzel]
 ---
 
 # The Bahrâzel 
