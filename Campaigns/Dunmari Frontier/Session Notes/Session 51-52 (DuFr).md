@@ -62,7 +62,7 @@ As [[Delwath]] mentions this, [[Ninu]] tells [[Delwath]] that the Deno'qai have 
 
 Asking where the other armbands may be found, [[Ninu]] tells [[Delwath]] that a stoneborn, [[Aristaea]], knows the [[Forest of Nightmares]] well, and is at a hunting camp with [[Iascaire]], the druid. [[Ninu]] suggests they would help [[Delwath]] with his quest. 
 
-Deciding to head to the hunting camp, [[Delwath]] first meets with [[Enon]], the Godcaller of the [[Ko'zula]], who gifts him a [[Deno'qai Lynx Shield|shield]] and [[Deno'qai Scale Mail|armor]] carried by [[Balati]], a Deno'qai hero of the [[Great War]], to aid him on his quest. 
+Deciding to head to the hunting camp, [[Delwath]] first meets with [[Enon]], the Godcaller of the [[Ko'zula]], who gifts him a [[Deno'qai Lynx Shield|shield]] and [[Deno'qai Scale Mail|armor]] carried by [[Balati]], a Deno'qai hero of the [[Events/1500s/Great War]], to aid him on his quest. 
 
 ### Part 1
 

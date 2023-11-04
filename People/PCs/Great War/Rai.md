@@ -17,7 +17,7 @@ yearOverride:
 ---
 ### Rai
 
-Hero of the [[Great War]]. 
+Hero of the [[Events/1500s/Great War]]. 
 
 %%NOTES
 A mage of immense power, one of the Peronar, the half-born, the descendants of the elves who lived on Hkar with humanity. The last of the High Peronar, the magical elite of Hkar and later Drankor.

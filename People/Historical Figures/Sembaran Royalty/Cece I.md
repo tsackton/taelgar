@@ -25,7 +25,7 @@ tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 >`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >Based in: [[Embry]], [[Sembara]]
 
-Cece I reigned for 65 years, the longest reign in the annuals of the kings and queens of Sembara. Her reign was one of peace, prosperity, and recovery. Sembara finally began to climb out of the devastation of the [[Great War]] and the [[Blood Years]], and for the first time in five generations the future of Sembara seemed to be brighter than its past.
+Cece I reigned for 65 years, the longest reign in the annuals of the kings and queens of Sembara. Her reign was one of peace, prosperity, and recovery. Sembara finally began to climb out of the devastation of the [[Events/1500s/Great War]] and the [[Blood Years]], and for the first time in five generations the future of Sembara seemed to be brighter than its past.
 
 She was unlucky with her children, however, and of her six children: Bertram, Derik, Elleth, [[Robert I]], Diana, and Mara, only [[Robert I]] did not predecease her. 
 

@@ -33,7 +33,7 @@ When the Plague strikes, while Tollen is spared the worst of the chaos that enve
 
 As [[Sembara]] expands in the south, Tollen recovers, and over the 5400s and 5500s Tollen experiences a renaissance of sorts, based on the growing wool and linen trade from the Sembaran heartlands. The lost art of magical tattoos are rediscovered and most of the merchant houses of Tollen today are established during this time period.
 
-In the 5600s, war comes to the [[Green Sea]], first the battles against the ancient white dragon Vimfrost, and then the [[Great War]] itself. Tollen, however, survives intact, and if anything grows in power and influence, as many of the Sembaran kings in the years after the [[Great War]] have ties by blood or marriage to the great houses of Tollen.
+In the 5600s, war comes to the [[Green Sea]], first the battles against the ancient white dragon Vimfrost, and then the [[Events/1500s/Great War]] itself. Tollen, however, survives intact, and if anything grows in power and influence, as many of the Sembaran kings in the years after the [[Events/1500s/Great War]] have ties by blood or marriage to the great houses of Tollen.
 
 Now, in 5881, Tollen commands a significant navy and is the undisputed master of the Western Gult, controlling the Straights of [[Cymea]] and asserting influence over much of western [[Cymea]].
 
@@ -90,9 +90,9 @@ Haurhill: rise of land, name means "hill hill" in Eastros and Westros. Height of
 
 ### The Current City
 
-Tollen escaped the [[Great War]] largely unscathed, and has continued to grow in the past 200 years, despite the ups and downs of [[Sembara]] in this time. The city walls were expanded again to the west, and the city has now begun to overflow the walls. 
+Tollen escaped the [[Events/1500s/Great War]] largely unscathed, and has continued to grow in the past 200 years, despite the ups and downs of [[Sembara]] in this time. The city walls were expanded again to the west, and the city has now begun to overflow the walls. 
 
-Battery: south side of the [[Volta]], and on the easternmost (ocean) side of the city. Notable for the river fortifications that protect the main harbor; not densely populated, although small naval docks and barracks are here. Mostly dates to wars just before the [[Great War]], when Tollen was in alliance with [[Sembara]] against the dangers of the north. 
+Battery: south side of the [[Volta]], and on the easternmost (ocean) side of the city. Notable for the river fortifications that protect the main harbor; not densely populated, although small naval docks and barracks are here. Mostly dates to wars just before the [[Events/1500s/Great War]], when Tollen was in alliance with [[Sembara]] against the dangers of the north. 
 
 Fenslane: south side of the [[Volta]], upriver (west) from [[Southbridge]], along the bend in the river. Former tidal marshland reclaimed and settled mostly by dyers, tanners, and other similar artisans expanding from [[Southbridge]]. Reasonably new.
 

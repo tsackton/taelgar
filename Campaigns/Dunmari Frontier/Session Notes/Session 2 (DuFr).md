@@ -14,7 +14,7 @@ Returning in the morning after [[Seeker]] magically created a doorless earthen b
 
 In the distance, two towers, the gatehouse to a ruined fort, drew them in. Approaching the fort, the party saw before them a path leading to an earthenworks dike, upon which was set a ruined wall, with the two partially intact towers guarding the gate and causeway leading into the fort. Outside the walls were the foundations of a small cluster of buildings, all collapsed, and two large mounds -- on the left, a grassy mound, on the right, one of rubble and dirt. Passing the mound, [[Kenzo]] felt something evil, an undead presence, and shouted a warning just as a skeletal hand began reaching out of the dirt. Four skeletons climbed out of the disturbed ground and attacked, although were dispatched without much damage as the party discovered newfound abilities within themselves. 
 
-After the battle, searching the area revealed clear indications that the skeleton mound had been recently disturbed, in the past month or so at least, and [[Wellby]] noticed signs that someone had been around in that time frame. [[Seeker]], with his historical knowledge, identified the fort as likely dating to the [[Great War]], being a typical Dunmari layout and design at that time. 
+After the battle, searching the area revealed clear indications that the skeleton mound had been recently disturbed, in the past month or so at least, and [[Wellby]] noticed signs that someone had been around in that time frame. [[Seeker]], with his historical knowledge, identified the fort as likely dating to the [[Events/1500s/Great War]], being a typical Dunmari layout and design at that time. 
 
 With that, the party headed up the causeway to the fort, ready for anything.
 
