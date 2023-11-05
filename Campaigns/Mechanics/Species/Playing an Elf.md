@@ -6,7 +6,7 @@ Elves in Taelgar are also notable for the unique cycle of generations. There is 
 
 To create your elf character, consider first your age and your generation, or *ka*. If you were born in the 37th *ka*, you are likely between 120 and 150 years old. Many elves of this age are encouraged to leave their home, travel, explore, so this is a natural choice for an adventurer. If you wish to be older, consider what has made you an adventurer later in life. Consider also where you are from, and your relationship with your kin and other species. 
 
-A simple answer if engaging with the lore of elves is not of interest to you is that you came from an isolated elven kingdom (the kingdom of [[Orenlas]] is a good choice), were born in the 37th *ka* and are now spending the years of your life before you decide whether to return to your home traveling and adventuring. 
+A simple answer if engaging with the lore of elves is not of interest to you is that you came from an isolated elven kingdom (the kingdom of [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]] is a good choice), were born in the 37th *ka* and are now spending the years of your life before you decide whether to return to your home traveling and adventuring. 
 
 ## Elven Mechanics
 

@@ -38,8 +38,8 @@ whereabouts:
 >[!info]+ Biographical Summary
 >elf, she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Orenlas]]
->> Based in: [[Orenlas]]
+>> Originally from: [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]]
+>> Based in: [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]]
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at January 2nd, 1749: [[Tollen]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
