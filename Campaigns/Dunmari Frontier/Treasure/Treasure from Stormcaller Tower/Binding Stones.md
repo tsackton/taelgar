@@ -4,3 +4,4 @@ A set of five crystals, each a different color, originally located on the crown 
 
 Taken by the party from [[Fausto]] while fleeing his tower in [[Session 48 (DuFr)]].
 
+%%SECRET[1]%%
