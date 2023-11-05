@@ -22,7 +22,7 @@ End: afternoon, Jan 8th, 1749
 - 10 Jan 1749: Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
 - 11 Jan 1749: Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
 - 12 Jan 1749: Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
-- 13 Jan 1749: Return to [[Vindristjarna]], depart for [[Orenlas]]
+- 13 Jan 1749: Return to [[Vindristjarna]], depart for [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]]
 ## New Treasure
 
 ### Mundane Items
@@ -90,5 +90,5 @@ At this point, the party prepares for combat as the elemental storm that has bee
 
 In the aftermath of the battle, [[Kenzo]] reaches into the mind of the elemental, and glimpses bits of its story. Long ago, many hundreds of years, it was living on the [[Elemental Plane of Air]]. A vision of an impossible staircase of clouds, stretching to infinity, children of air and cloud running, throwing bits of cloudstuff at eachother as a game. A vision of a palace made of lightning, a creature studying in a grand hall, images appearing in the crackling electricity. A vision of a creature of air and smoke, exploring a strange landscape of dark mist and ash drifting through the sky, with three companions. Finally, a vision of the same group of air creatures encountering [[Humans]], flying through the air; one of the [[Humans]] speaks in Drankorian, his words taking on an impossible tone as reality is reshaped by his very commands, and at his wish silver threads appear and bind the elemental. And then the elemental drifts away, a last parting jolt of energy charging the forge. As it vanishes, it whispers it's name: "[[Sh’shethis]]".
 
-With the elemental freed and gone, the magic of the forge only lingers for a few days: enough time for [[Faldrak Bronzehammer|Faldrak]] to enhance his stone bird, improve [[Seeker]]'s glove, and construct two improvements for [[Vindristjarna]]. During these four days of crafting, the party prepares to travel south, to [[Orenlas]], and then to confront [[Grash]]. We end as the party returns to [[Vindristjarna]] on the morning of January 13th. 
+With the elemental freed and gone, the magic of the forge only lingers for a few days: enough time for [[Faldrak Bronzehammer|Faldrak]] to enhance his stone bird, improve [[Seeker]]'s glove, and construct two improvements for [[Vindristjarna]]. During these four days of crafting, the party prepares to travel south, to [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]], and then to confront [[Grash]]. We end as the party returns to [[Vindristjarna]] on the morning of January 13th. 
 
