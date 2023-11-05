@@ -16,4 +16,4 @@ tags: [NPC/unsorted]
 >human (Sembaran), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
-The father of [[Wymar Essford]] and the founder of [[Essford Manor]].
+The father of [[Wymar Essford]] and the founder of [[Essford Manor]]. The husband of [[Celine Essford]]
