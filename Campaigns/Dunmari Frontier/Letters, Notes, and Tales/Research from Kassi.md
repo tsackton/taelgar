@@ -2,7 +2,7 @@
 
 ## On Rai
 
-There are of course many legends of the heroes of the [[Events/1500s/Great War]], of their deeds in the desperate battles of that time, of the final battle at Urlich Monastery and the destruction, at great cost, of [[People/Extraplanar Powers/Cha'mutte|Cha'mutte]]. But little is recorded in our lore of the lives of these heroes after the [[Events/1500s/Great War]].
+There are of course many legends of the heroes of the [[Events/1500s/Great War]], of their deeds in the desperate battles of that time, of the final battle at [[Urlich Pass]] and the destruction, at great cost, of [[People/Extraplanar Powers/Cha'mutte|Cha'mutte]]. But little is recorded in our lore of the lives of these heroes after the [[Events/1500s/Great War]].
 
 [[Beryl]] of course now a constellation and this is probably noted and discussed at length in the archives. But little mention of Aerin or [[Kyr]], and [[Rai]] only slightly more. These are records of gods and myths of the divine, and [[Rai]] was, despite his power, not divine.
 
