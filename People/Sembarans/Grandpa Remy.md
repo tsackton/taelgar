@@ -6,12 +6,6 @@ ancestry: Sembaran
 gender: male
 born: 1640
 died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - Elder
 lastSeenByParty: 
   - { date: 1719-10-23, prefix: Clee }
 whereabouts: 
