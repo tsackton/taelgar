@@ -15,7 +15,7 @@ family:
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
      - { date: 1579-01-01, place: "Am'khazar", region: unknown, type: origin }
-     - { date: 1579-01-02, place: "Taviose", region: Sembara, type: home }
+     - { date: 1665-01-01, place: "Taviose", region: Sembara, type: home }
      - { date: 1719-10-21, place: "Valit", region: Sembara, type: excursion }
 ---
 # Brot Starsearcher

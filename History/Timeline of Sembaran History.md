@@ -137,6 +137,8 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 
 * DR 1574: The [[First Hobgoblin War (Sembara)|First Hobgoblin War]] begins. 
 * DR 1578: The [[First Hobgoblin War (Sembara)|First Hobgoblin War]] ends. A substantial portion of the [[Shattered Ice Clan]] remains established in the [[Marches of Enford]] and western [[Duchy of Maseau|Maseau]]
+* DR 1582: [[Wisym I]] dies. [[Anne]] [[Attempted Geas of Elaine I|attempts to *geas*]] [[Elaine I]] to prevent her from wishing to take the throne, but the spell fails. [[Elaine I]] is crowned queen and [[Anne]] executed, and her children exiled
+* DR 1583: The [[Cursed Cold]] spreads from the Plaguelands for five months, until [[The Rangers]] and others heal the land. Rumors spread that this was divine retribution for [[Anne|Anne's]] sins
 * DR 1590: The [[Shattered Ice Clan]] launches significant raids across [[Duchy of Maseau|Maseau]], which sends an [[The Maseau Embassy of 1590|embassy]] to Sembara for aid
 * DR 1590, fall: [[Elaine I]] sends the [[Army of Mostreve]] and the [[Army of the South]] to aid [[Duchy of Maseau|Maseau]]. The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] begins
 * DR 1602: [[Blanche II]] dies in childbirth, and her great uncle, [[Percival Wynthrope]], becomes regent for her young son

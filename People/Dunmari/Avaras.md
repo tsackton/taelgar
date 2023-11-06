@@ -45,7 +45,7 @@ Avaras was born in DR 1676 near [[Karawa]]. He was a loner as a child, but drawn
 
 ### Life Events
 
-* [DR:: 1693] Became an apprentice of the [[Order of the Awakened Soul]] at 17 and traveled around much of Eastern Dunmar until 
+* [DR:: 1693] Became an apprentice of the [[Order of the Awakened Soul]] at 17 and traveled around much of Eastern Dunmar 
 * [DR:: 1711], when he went to the [[Monastery of Bhishma]], met [[Pava]], and was raised out of his apprenticeship. 
 * [DR:: 1717], after the [[Awakened Soul Disaster]] took up residence in the desert with [[Pava]], to watch the comings and goings on the plains and rescue the lost and the desperate who come seeking treasure, glory, or death in the desert. 
 
