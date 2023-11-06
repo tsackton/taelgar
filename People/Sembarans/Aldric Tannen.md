@@ -8,11 +8,7 @@ born: 1682-12-07
 died: 
 title: 
 family: 
-affiliations: 
-  - Tannen Smithy
 aliases: 
-tags: 
-  - Blacksmith
 lastSeenByParty: 
   - { date: 1719-12-04, prefix: Clee }
 whereabouts: 

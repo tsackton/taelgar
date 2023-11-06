@@ -2,17 +2,11 @@
 type: NPC
 name: Vincent de Arban
 species: Human
-ancestry: 
+ancestry: Sembaran
 gender: male
-born: 1677
-died: 
-title: 
-family: 
+born: 1677 
 affiliations: 
   - Garay Family
-aliases: 
-tags: 
-  - Agent
 lastSeenByParty: 
   - { date: 1719-11-07, prefix: Clee }
 whereabouts: 
