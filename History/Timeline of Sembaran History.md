@@ -17,8 +17,6 @@ DR 431 - DR 1059
 By DR 431, when the Drankorian army retreated from [[Zovcka]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]]. North of the [[Semb]], Drankor ruled the the region south and west of the [[Volta]], as far north as the [[Braebein]]
 
 The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. No great wars were fought and [[Mos Numena]] spread rapidly, and the old [[Kestavo|Kestavan]] traditions were largely forgotten.
-###
-* DR 654: [[Embry]] is founded
 
 # The Plague Years
 DR 1059 - DR 1250

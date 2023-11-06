@@ -613,17 +613,11 @@ with the highland kingdoms. Furthest extent to the northwest.
 
 4497 Embry becomes a Drankorian province
 
-4491 First conquests from Drankor ride north of the Mostreve Hills and capture the southern 
+4491 First conquests from Drankor ride north of the Mostreve Hills and capture the southern part of Sembara
 
-part of Sembara
+4400 Kestavo is well established as the main religion everywhere north of the Mostreve Hills and along the borders of the Western Gulf
 
-4400 Kestavo is well established as the main religion everywhere north of the Mostreve Hills 
-
-and along the borders of the Western Gulf
-
-4150 Kestavo religion starts to emerge from the remnants of the mariner pantheon and the 
-
-local northern folk traditions
+4150 Kestavo religion starts to emerge from the remnants of the mariner pantheon and the local northern folk traditions
 
 4122 Downfall of Hkar
 
