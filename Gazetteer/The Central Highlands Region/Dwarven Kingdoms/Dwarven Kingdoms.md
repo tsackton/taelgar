@@ -1,13 +1,13 @@
 # Dwarven Kingdoms of the [[Sentinel Range]]
 
-The Dwarven kingdoms of the [[Sentinel Range]] have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around the ancient [[Urlich Monastery]]. 
+The Dwarven kingdoms of the [[Sentinel Range]] have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around the ancient [[Urlich Pass]]. 
 
 During [[The Downfall]], when [[Hkar]] fell and great wars were fought in the depths underground below the mountains, the Dwarven empire was shattered, and many of the deeper cities were abandoned. However, many [[Dwarves]] survived, and while the [[Drankorian Empire]] was being established aboveground, the Five Kingdoms were growing below and among the [[Sentinel Range]].
 
 ![[dwarven-kingdoms-map.png|300]]
  
 ## [[Ardith]]
-In the far south, south of [[Urlich Monastery]], is [[Ardith]], growing rich on trade with [[Drankorian Empire|Drankor]], and later with [[Dunmar]], until at the end of the [[Events/1500s/Great War]] they were driven from their homes and settled south, in the [[Yuvanti mountains]], founding [[Nardith]]. Now destroyed. 
+In the far south, south of [[Urlich Pass]], is [[Ardith]], growing rich on trade with [[Drankorian Empire|Drankor]], and later with [[Dunmar]], until at the end of the [[Events/1500s/Great War]] they were driven from their homes and settled south, in the [[Yuvanti mountains]], founding [[Nardith]]. Now destroyed. 
 ## [[Khatridun]]
 _Labeled DK2 on the map_
 
