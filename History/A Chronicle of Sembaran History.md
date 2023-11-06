@@ -74,15 +74,3 @@ Wisym spent two summers (in 1571 and 1572) campaigning in the highlands, but wit
 
 The next year, in DR 1574, a Sembara unprepared for a major attack was assaulted on the western front by a mass organized army of hobgoblins, seemingly allied with a darker horror. Rumors sped west from the battlefields of (something about mind flayers). The hobgoblins overran much of the west and south, and were stopped from overrunning all of Sembara only by great sacrifice. The next 4 years of the Hobgoblin Wars were the bloodiest in Sembara history since the Great War. Although the conflict ebbed and flowed, peace never lasted long, until, after 1578, it seemed that the ferocious (mind flayer allies) were defeated. 
 
-
-
-In 1582, with the Marches of Enford and much of the land south of the Enst still under hobgoblin control, Wisym I dies. 
-
-Ultimately, on Wisym’s death, Anne attempted to control Elaine’s mind with a powerful spell, and force her to give up any claim to the throne. When this failed, and the attempt came out, the populace and nobility turned on Anne, and Elaine was the undisputed queen.  
-
-Anne was executed for treason, although her children were allowed to live in exile and settled in Tollen for the most part, although her youngest son is said to have journeyed the long distance to Chardon.
-
-In the first summer of her reign, in 1582, Elaine plans to launch a major offensive against the hobgoblins in the west, but before her army can come together, in   magic goes wrong. Starting in the Tyrwinghan marches, rangers and others exploring in the Plaguelands notice that fires radiate cold, not heat, and the days get progressively colder as the sun rises, warming again at night. Cooking is impossible, and plants begin to freeze and die. The effect seems to spread along ley lines, out of the Plaguelands, and eventually begins to move into settled areas of Tyrwingha, reaching as far as the River Ernst and the eastern parts of Addermarch (but sparing the Tyrwinghan capitol, thankfully). People panic and flee, but many die in the great famines this causes before an expedition into the Plaguelands heals the land. Many believe this is divine retribution for Anne’s magic, and this strengthens a general distrust of arcane magic in Sembara.   
-
-For the next decade, the Shattered Ice clan skirmishes with Sembaran knights on the borders, and slowly expands their territory, pushing especially a wedge south of the Enst between Maseau and Sembara.
-
