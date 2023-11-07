@@ -19,16 +19,6 @@ yearOverride:
 
 ![[kenzo-full.jpg|400]]
 
-
-<iframe
-	height = 800
-	width = 100%
-	padding = 5.0
-	margins = 5.0
-	src="https://www.dndbeyond.com/characters/29407085">
-</iframe>
-
-
 > [!warning]- Kenzo's Backstory
 > 
 > Kenzo was born in [[Chardon]], the child of Dunmari immigrants. He has only fragmentary memories of the first years of his life -- flashes of his mother's smile, the smell of his father's hair. When he was five, his parents died, and he grew up on the streets, with only polished shard of [[Jade]] passed down from his family to remember his parents by.
@@ -99,7 +89,7 @@ yearOverride:
 > Who are true Chardonians?
 > “Everyone who has the spirit of knowledge in them. But I think your friends are right we should rest now."
 
-> [!warning]- The [[Land of the Dead]], Session 22
+> [!warning]- The Land of the Dead, Session 22
 > 
 > Kenzo's Experience of the [[Land of the Dead]], [[Session 22 (DuFr)]]
 > 
