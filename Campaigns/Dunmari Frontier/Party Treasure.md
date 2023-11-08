@@ -242,6 +242,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- A book of recipes, written in Giant
 - Notes and papers:
 	- A [[Urgall's scroll|scroll written in a cipher]], from the [[Flaming Tempest]], locked in chest in Urgall's cabin. 
+	- The [[Flaming Tempest log books]], recovered from the [[Flaming Tempest]]
 	- [[Papers from the Fraternity of the Empty Moon]]. Translations left at the [[Tokra]] [[Archives]] with [[Govir]]. No obvious value. 
 	- Monk's journal from the [[Great War]] era ([[Monastery of Bhishma]], [[Kenzo]]). A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [[Great War]]. The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then,  increasing danger and the growing militarization of [[Kharsan]], several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [[Bhishma]] watch over my soul. No obvious value although to the right person could be worth 5-30 gp.
 	- Captain's log and charts from The Flaming Tempest (allowing [[Wellby]] to reconstruct the journey of the [[Flaming Tempest]], with time and effort)

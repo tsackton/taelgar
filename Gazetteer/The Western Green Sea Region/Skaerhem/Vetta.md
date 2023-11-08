@@ -1,3 +1,7 @@
+---
+tags:
+  - "#event-source"
+---
 # Overview
 
 Vetta is a small volcanic island, perhaps 3 miles across, with steep cliffs on most of its sides, no trees, and abundant bird life. Even in winter it does not snow a huge amount, but most life is gone and the island looks barren and gray.
@@ -19,9 +23,6 @@ Vetta also has long been rumored to be a place of riches: sparking gems light up
 
 Yet, it has always been protected. It is said that the priest of the waters can control the water around the island, and hostile creatures attempting to dock find the currents and winds turned against them, the waves dashing their ships on the shore. Innumerable pirate ships are said to be sunk beneath the rocky cliffs of Vetta. 
 ## Recent Events
-
-In DR 1748, [[Urgall the Black]] landed on Vetta. Urgall was (is) an outcast from Skaer society. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered the [[Green Sea]], eventually turning to piracy, and pledging himself to a demon as a warlock. 
-
-In May of DR 1748, Urgall and his ship landed at Vetta and attacked. They slaughtered the pilgrims who were there, and the staff, and finally the priest of the waters. Thinking they had won a great victory, they began to plunder the island. 
-
-However, little did they know that the [[Jorma]], and [[Kaikkea]], had laid a curse on them, making it impossible for them to depart. For a few months, they survived on the supplies laid in for pilgrims, and seabirds. Once the food and water dwindled, the pirates were corrupted to undeath, instead of starving, by Mashtu the Corruptor.
+- (DR:: 1748-05-03): [[Urgall the Black]] landed on Vetta, and attacked. He and his crew slaughtered the pilgrims who were there, and the staff, and finally the priest of the waters, and then plundered the island. As they did so, they were cursed by [[Kaikkea]], making it impossible for them to depart.
+- (DR:: 1748-08-11): [[Urgall the Black]] and his crew run out of supplies on Vetta, as the nesting seabirds leave, having exhausted the food laid in for pilgrims. 
+- (DR:: 1748-08-30): [[Urgall the Black]] and his crew are turned into undead by Mashtu the Corruptor in a ritual of corruption. 

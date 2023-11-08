@@ -14,7 +14,7 @@ While the phasing stone that originally powered Vindristjarna is mostly destroye
 
 ## Recovery and Repair
 
-In DR 1748, [[The Dunmar Fellowship]] restored Vindristjarna, replacing the ruined phasing stone with a new one, recovered from [[Hralgar]]'s ancient mountain home. 
+I[[The Dunmar Fellowship]] [[Session 68 (DuFr)|restored Vindristjarna in the course of their adventures]], replacing the ruined phasing stone with a new one, [[Session 67 (DuFr)|recovered from Hralgar's ancient mountain home]]. 
 
 Currently, the hull of the ship has been restored and repaired, and two stone decks constructed, creating three floors: a storage hold currently unimproved, a lower deck, and an upper deck. 
 
@@ -29,11 +29,11 @@ These rooms function as [special facilities](https://media.dndbeyond.com/compend
 
 In addition to the phasing stone, Vindristjarna is equipped with the following magic.
 ### Pitcher of Purity
-A silver water pitcher, kept in the kitchens. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. Recovered from the Edge of Echoes. Drankorian make. 
+A silver water pitcher, kept in the kitchens. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. [[Session 80 (DuFr)|Recovered from the Edge of Echoes]]. Drankorian make. 
 ### Cleansing Stone
 A polished stone sphere, 1 foot in diameter, embedded on top of short marble pedestal. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. Originally located in Eudomes' bedroom in the Stormcaller Tower; recovered upon the destruction of the tower by Hralgar when he was freed from imprisonment. Drankorian make. 
 ### Cold Chest
-A 3 foot deep by 4 foot wide stone chest, recovered from an ancient Drankorian workshop and laboratory hidden along an underground portion of the Freccila River in south-central Cymea, historically known as the Elemental Forge, and more recently as the Edge of Echoes. The chest is enchanted. Any food or drink that is placed within the chest will not spoil. Drankorian make. 
+A 3 foot deep by 4 foot wide stone chest, [[Session 80 (DuFr)|recovered]] from an ancient Drankorian workshop and laboratory hidden along an underground portion of the Freccila River in south-central Cymea, historically known as the Elemental Forge, and more recently as the Edge of Echoes. The chest is enchanted. Any food or drink that is placed within the chest will not spoil. Drankorian make. 
 ### Planar Prism
 A fine hollow sphere made of wires of [[Inkaye]], in which a shimmering crystal prism is mounted. This item is magically linked to the [[Phasing Stones|phasing stone]] on [[Vindristjarna]]: if you are attuned to the phasing stone, you are considered attuned to the rainbow prism, and vice versa. 
 

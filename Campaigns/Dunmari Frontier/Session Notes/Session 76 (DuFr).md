@@ -8,7 +8,7 @@
 ## Notes and Information
 
 Start: mid-morning, Dec 25th
-End: afternoon, Dec 20th
+End: afternoon, Dec 30th
 #### [[Eudomes' Mirror]]
  - 23 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
  - 30 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's note: [[Urgall's Note Vision]]

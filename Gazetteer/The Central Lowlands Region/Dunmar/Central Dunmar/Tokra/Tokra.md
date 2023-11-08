@@ -1,3 +1,7 @@
+---
+tags:
+  - "#event-source"
+---
 ## Overview of Tokra
 
 *As you crest the height of the land, you can see the River [[Hara]] winding slowly from north to south, barely more than a trickle at this time of year, before the rains of the monsoon season come.
@@ -45,6 +49,34 @@ During the [[Fire War]] it was damaged, but not as badly as the [[Archives]], an
 %%SECRET[1]%%
 
 ### History
+
+Tokra was originally the site of a Drankorian settlement, a river crossing and trade post associated with a pair of forts guarding [[extraplanar weak point|extraplanar weak points]] to the north and south. After the [[The First Plague|First Plague]] and the [[Settlement of Dunmar]], was resettled by the Dunmari but remained little more than a small village associated with the monastery, until Tokra became the center of administration of the Dharajun. After surviving the [[Great War]] relatively unscathed, Tokra was severely damaged in the [[Fire War]], but rebuilt and became a notable center of administration during the Nayan dynasty. 
+
+- (DR:: 1183) *(Tokra)*: Resettled as a minor outpost by Dunmari settlers
+- (DR:: 1184) *(Tokra)*: The Lakan Monastery is founded slightly to the south of Tokra
+- (DR:: 1405) *(Tokra)*: Tokra is established as the central court for the Dharajun dynasty, and construction on a large temple complex, a palace, and an archives is begun.
+- (DR:: 1409) *(Tokra)*: Construction on the palace of Tokra is complete. 
+- (DR:: 1411) *(Tokra)*: Construction is completed on the [[Archives]]
+- (DR:: 1434) *(Tokra)*: The grand temple complex in Tokra is completed
+- (DR::1552) *(Tokra)*: The [[Fire War]] begins
+- (DR: 1553) *(Tokra)*: The [[Fire War]] ends
+
+
+%% notes
+
+In DR 1405, Samraat Dharajun [[Jita]] made Tokra her central court, ordering construction of a large temple, a palace, and [[Archives]]. The palace was finished first, in DR 1409; the [[Archives]] soon after, in DR 1411; the temple, a generation later in DR 1434.
+
+For the next 100 years, Tokra was a major center of Dunmari adminstration and power, until the [[Events/1500s/Great War]].
+
+Shortly after the [[Events/1500s/Great War]], in DR 1552, the fire giant [[Mavdyr]] attacked with [[Orcs]] and others, and Tokra was largely overrun and suffered much destruction. While the fire giant was defeated with the aid of dwarves and stoneborn, and Tokra rebuilt, the power center of [[Dunmar]] shifted west once again, to the new lands and to [[Nayahar]].
+
+Over the next 200 years, Tokra maintained significant administrative capacity as a frontier / provincial capitol, but as interest in eastern [[Dunmar]] waned in the west, Tokra's significance waned as well.
+
+Nonetheless, it remains a prosperous city, sitting on one of the major long distance trade routes from Sembara to [[Chardon]], and benefiting from the [[Hara]] river, navigable for about half the year. Aided in part by the present of the Lakan monks, Tokra has gained something of a reputation as a city of scholars, and the [[Archives]] here store not just records of the Dharajun dynasty, but many earlier records rescued from [[Kharsan]] and points east during the [[Events/1500s/Great War]].
+
+The horse herders and traders descended from the Dharajun rulers remain prominent and important here, and the Lakan monks hold considerable sway as well, having preserved the [[Archives]] and history here.
+
+%%
 
 %%SECRET[2]%%
 
