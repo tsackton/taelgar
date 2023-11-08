@@ -26,7 +26,7 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at November 15th, 1748: Heartwood Grove, [[Amberglow]], [[Feywild]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
+Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
 ## Overview
 
 Agata Dustmother, known as the Old Woman of the Dusts, is an ancient fey [[Hags|hag]] renowned for her plotting and deal-making skills, who always seems to emerge victorious in her bargains. She has dwelt at the edge of the [[Garamjala Desert]], in [[Eastern Dunmar]], for as long as anyone can remember, luring the desperate and unwary into bargains. She is fascinated by strange and especially gruesome magic, and is a collector of magic items, from the common to the extraordinary. 

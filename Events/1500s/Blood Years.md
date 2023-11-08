@@ -1,4 +1,17 @@
-### The Blood Years
+---
+DR: 1545
+DR-end: 1600
+tags:
+  - "#event-source"
+---
+# The Blood Years
 
-The fifty years after the [[Events/1500s/Great War]], a time of great hardship in many parts of the world in the aftermath of [[Cha'mutte]]'s defeat. Roughly dated from DR 1545 - DR 1590, but varies in different parts of the world. 
+An informal name for the roughly fifty year period after the [[Great War]], marked by continued conflict in the many parts of the world.
+
+## Major Events of the Blood Years
+
+
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", { yearStart: 1545, yearEnd: 1600, pageFilter: "#event-source",includeAll: false } )
+```
 

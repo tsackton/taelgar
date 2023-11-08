@@ -14,7 +14,7 @@ tags: [NPC/DuFr/met_one, NPC/DuFr/background]
 yearOverride: 
 whereabouts:
      - { date: 1502-01-01, place: "", region: Ardith, type: origin }
-     - { date: 1545-01-02, place: "", region: Bleakhold, type: excursion }
+     - { date: 1575-09-19, place: "", region: Bleakhold, type: excursion }
      - { date: 1748-08-25, place: "", region: Nardith, type: home }
 ---
 # Dworic
