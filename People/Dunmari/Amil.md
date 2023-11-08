@@ -6,36 +6,39 @@ ancestry: Dunmari
 gender: male
 born: 1731
 died: 
-location: "Pava and Avaras' House"
-locationRegion: Nashtkar
-home: "Pava and Avaras' House"
-homeRegion: Nashtkar
-origin:
-originRegion:
-affiliations: ["Order of the Awakened Soul"]
-aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
-family:
+affiliations:
+  - Order of the Awakened Soul
+title: 
+aliases: 
+tags:
+  - NPC/DuFr/met
+  - NPC/DuFr/minor
+  - event-source
+family: 
+whereabouts:
+  - date: 1731-01-02
+    place: Pava and Avaras' House
+    region: Nashtkar
+    type: home
+  - date: 1749-01-01
+    place: Pava and Avaras' House
+    region: Nashtkar
+    type: excursion
 ---
 # Amil
 >[!info]+ Biographical Summary
 >human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Based in: [[Pava and Avaras' House]], [[Nashtkar]]
-
->Location (updated November 15, 1748): [[Pava and Avaras' House]], [[Nashtkar]]
+>> Based in: [[Pava and Avaras' House]], [[Nashtkar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
 
 %%SECRET[1]%%
+## Events
+- (DR:: 1748-04-27) *(Amil)*: Arrives in Bas Udda to tend the unburied dead from the gnoll attacks
+- (DR:: 1748-04-29) *(Amil)*: Meets [[Havdar]] and [[The Dunmar Fellowship]], who aid him in his task. 
+- (DR:: 1748-04-30) *(Amil)*: Leaves Bas Udda with The Dunmar Fellowship, traveling to his masters' house in the desert
+- (DR:: 1748-05-02) *(Amil)*: Arrives at Pava and Avaras' House with The Dunmar Fellowship. 
+- (DR:: 1748-05-17) *(Amil)*: At Pava and Avaras' House when [[The Dunmar Fellowship]] spend the night
 
-## Chronology
-%%SECRET[2]%%
-- 27 Apr 1748: Arrives in Bas Udda to tend the unburied dead from the gnoll attacks
-- 29 Apr 1748: Meets [[Havdar]] and [[The Dunmar Fellowship]], who aid him in his task. 
-- 30 Apr 1748: Leaves Bas Udda with The Dunmar Fellowship, traveling to his masters' house in the desert
-- 2 May 1748: Arrives at Pava and Avaras' House with The Dunmar Fellowship. 
-- 17 May 1748: At Pava and Avaras' House when [[The Dunmar Fellowship]] spend the night
-%%SECRET[3]%%
-
-%%SECRET[4]%%

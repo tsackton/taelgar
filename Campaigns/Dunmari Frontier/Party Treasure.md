@@ -2,17 +2,16 @@
 
 ## Magic Items to Allocate from Elemental Forge
 - Ring of Sharp Mind. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can expend your reaction to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
-- A small crystal vial containing one dose of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge. 
-- A gray cloak. Also found in the lead box. Functions as a Cloak of Elvenkind.
+- A small crystal vial containing one remaining dose of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge. 
+- A gray cloak. Also found in the lead box. Functions as a Cloak of Elvenkind. 
 ## Magic Items under Construction by Umli
 
-Started work on Skaer steel items on 5 Jan 1749, will work 6 days/week. Started with 27 lb of Skaer steel. 
+Started work on Skaer steel items on 5 Jan 1749, will work 6 days/week. Started with 27 lb of Skaer steel. **On 17 Jan will send magic chest with Riswynn shield and 4 quivers of arrows for Wellby.** 
 ### Arrows for Wellby
 12 lb Skaer steel for construction
-Started: 19 Jan 1749
+Started: 5 Jan 1749
 
-Can make a quiver of 20 fine arrows or 10 exceptional arrows in a day, each quiver requiring 1.25 pounds of Skaer steel, including extra steel for payment. Can create 9 quivers with the available steel.
-Will finish one quiver on each of Jan 19, 20, 21, 22, 23, 24, 26, 27, 28. 
+Working in her spare time while making armor, can construct a quiver of *20 fine arrows* or *10 exceptional arrows* in every 3rd day, each quiver requiring 1.33 pounds of Skaer steel, including extra steel for payment. Can create 9 quivers with the available steel. Will finish one quiver on each of Jan 7th, 10th, 14th, 17th, 21st, (22nd, 23rd, 24th, 26th)
 
 Choices (fine):
 Honed: A perfectly balanced weapon giving +1 to attack
@@ -32,9 +31,9 @@ Used 7.5 lb Skaer steel
 ### Shield upgrade for Delwath
 Upgrade lynx shield from +1 to +2. 
 Requires 12 days (3 days can be done without the shield on prep work), 4000 gp, 7.5 pounds of Skaer steel.
-Start: 29 Jan 1749
-Finished prep: 31 Jan 1749
-Will then finish 9 days after party arrives - will work 7 days per week to accomplish. 
+Start: 19 Jan 1749
+Finished prep: 21 Jan 1749
+Will then finish 9 days after party arrives, skipping Sundays
 ## Magic Items
 
 ### Delwath

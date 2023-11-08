@@ -14,7 +14,13 @@ We begin in a vast cavern with a still pool in the center, a place in [[The Hear
 
 As the sound of hammers banging against anvils and the smell of iron permeates the chamber, the party feels they are in the presence of the gods. All, but [[Riswynn]], owing a debt, which the [[Bahrazel]] now claim, a physical token of this debt appearing out of the water in the pool. To redeem their debts to the [[Bahrazel]], the party is to travel to the [[Shadowfell]] domain of [[Morkalan]], where they will find the dwarf [[Hagrim]], whose evil deeds created the place, and either send him to damnation or atonement with the power of the [[Chalice of the Runepriest]]. 
 
-As the party rests before preparing to depart, they see scenes of the [[Chalice of the Runepriest#History of the Chalice|history of the chalice]], and prepare.
+As the party rests before preparing to depart, they see scenes of the history of the Chalice of the Runepriest:
+
+- The chalice started as a mark of safety, a place of refuge from war in the new kingdom of [[Nardith]]. It was taken north, later, by a group of soldiers, traveling to find refugees, gathering lists of names of those who were lost in the [[Great War]], with the hope the chalice can help lead them to safety. 
+- In the north, these warriors found success, finding hundreds upon hundreds of refugees, hiding in the dark. On the way back, the long march across the plains, they are sustained by the chalice. 
+- Until a fire giant, [[Odim Mavdyrson]], attacked the refugees, screaming about vengeance for his father, trolls with him. 
+- The refugees flee with the chalice, to a massive Stoneborn statue on the plains. They build hasty fortifications, a grim warrior bearing a large two-handed axe and an iron helm leading the way. Carrying the chalice. 
+- Then flames flickering at the end of the fight. The grim warrior turning on his companions, dwarf fighting dwarf, the warrior screaming that death is all that is left. The chalice, lying forgotten. The smoke gradually growing thicker and thicker as the grim warrior, the refugees, the trolls, all flicker out one by one and vanish. The chalice left, abandoned.
 
 The party steps through the waters of the pool, with the chalice, and arrives in [[Morkalan]], a land of dim light, constantly cloudy skies, a slow muddy river, and a pervasive grayness, seemingly a distorted echo of the land around the Stoneborn statue from the vision of the chalice' history. The party heads for lights that seem to mark a settlement at the base of a series of cliffs along the left bank of the river. 
 
