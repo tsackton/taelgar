@@ -1,3 +1,7 @@
+---
+tags:
+  - "#event-source"
+---
 ## Overview of Darba
 
 Darba is a walled city set on the rocky coast, perched above the flooded swamps of the Rudhan river. From a distance, the white walls of the old Drankorian fort that guards the harbor gleam in the sun, its six towers commanding a wide view across the bustling city. The old trade road follows the height of land north of the river, avoiding the flooded swamps of the delta in monsoon, approaching the old gates of the city, the ancient Drankorian wrought iron motifs of confronted lions framing the gate and visible even from a distance.
@@ -11,6 +15,13 @@ A steady flow of traffic - dwarves with iron wares to trade, merchant caravans l
 The land along the river is marshy and not much settled, but the floodplains are fertile farmland and you pass many communal pastures and fields, and the occasional small village, although even here the population is restless and many dwellings are not permanent.
 
 The north bank is less marshy than the south, and there are several weirs and water mills that dot the landscape just inland of Darba, helping fuel in the industry of the city.
+
+## History
+
+- (DR:: 377): A Drankorian fort, to provide naval defenses for the western frontier of the Empire, is constructed at the mouth of the Rudhan river, in the location that will eventually grow to become the city of Darba. 
+- (DR:: 1552): An Illorian captain, Chirce, claims sovreignity over Darba and the surrouding coastal plain
+- (DR:: 1558): The Samraat Nayan Kundar drives the Illorian from Darba and reclaims the city 
+- (DR:: 1644): A massive new public market is constructed in Darba by dwarven craftsfolk, commissioned by the Samraat to reflect the growing importance of Darba as a center of trade
 
 %%SECRET[1]%%
 
