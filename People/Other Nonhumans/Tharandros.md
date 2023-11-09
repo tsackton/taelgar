@@ -21,7 +21,7 @@ whereabouts:
 >[!info]+ Biographical Summary
 >centaur, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A centaur, the leader of a herd who the party met traveling across the northern plains of [[Dunmar]]. Convinced to aid [[Karawa]], and proved crucial in driving off gnoll attacks. 
 
