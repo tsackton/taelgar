@@ -6,22 +6,19 @@ ancestry: Dunmari
 gender: male
 born: 
 died: 
-location: Tokra
-locationRegion: "Central Dunmar"
-home: 
-homeRegion: 
-origin:
-originRegion:
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/background]
+whereabouts:
+     - { date: 1748-11-15, place: "Tokra", region: Central Dunmar, type: excursion }
 ---
 # Amay
 >[!info]+ Biographical Summary
 >human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
-
->Location (updated November 15, 1748): Tokra, [[Central Dunmar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A captain in the Dunmari army camped near [[Tokra]], in service of [[Illyan]] and ultimately the Samraat [[Nayan Karnas]]. 
 

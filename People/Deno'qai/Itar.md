@@ -4,25 +4,22 @@ name: Itar
 species: human
 ancestry: "Deno'qai"
 gender: male
-home: "Bek'eni village"
-homeRegion: "Elderwood"
-location: 
-locationRegion: 
-origin:
-originRegion:
 born: 1716
 died: 
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
+whereabouts:
+     - { date: 1716-01-02, place: "Bek'eni village", region: Elderwood, type: home }
 ---
 # Itar
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Deno'qai), he/him
->b. 1716
->32 years old
->Based in: Bek'eni village, [[Elderwood]]
->Location (updated November 15, 1748): unknown
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Based in: Bek'eni village, [[Elderwood]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 The Godcaller of the [[Bek'eni]] tribe of Deno'qai, under the sway of [[Mezzar]].
 

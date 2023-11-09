@@ -65,12 +65,11 @@
                 "ancestry",
                 "gender",
                 "died",
-                "origin",
-                "originRegion",
                 "affiliations",
                 "player",
                 "campaign"
             ],
+            "supportsWhereabouts": true,        
             "initialTags": [
                 "PC/unsorted"
             ]
