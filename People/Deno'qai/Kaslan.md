@@ -4,24 +4,21 @@ name: Kaslan
 species: human
 ancestry: "Deno'qai"
 gender: male
-home: "Ko'zula village"
-homeRegion:
-origin:
-originRegion:
 born: 1699
 died: 
+title:
+family:
 affiliations: 
-location: "Ko'zula village"
-locationRegion:
 aliases: []
 tags: [NPC/DuFr/met_one, NPC/DuFr/background]
+whereabouts:
+     - { date: 1699-01-02, place: "Ko'zula village", region: unknown, type: home }
 ---
 # Kaslan
->[!info] Basic information
+>[!info]+ Biographical Summary
 >human (Deno'qai), he/him
->b. 1699
->49 years old
->Based in: Ko'zula village
->Location (updated November 15, 1748): Ko'zula village
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Based in: Ko'zula village, unknown
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 Experienced in woodcraft; leader of the hunting camp [[Delwath]] first found after arriving in the north. 
