@@ -19,7 +19,9 @@ whereabouts:
 >[!info]+ Biographical Summary
 >human (Chardonian), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> Originally from: [[Chardon]], [[Chardonian Empire]]
+>> Based in: [[Darba]], [[Western Dunmar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A Chardonian bookseller who lives and works in [[Darba]]. Well connected to the local academic community. 
 %%^Date:1748-08-05%%
