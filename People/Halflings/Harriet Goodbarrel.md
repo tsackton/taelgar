@@ -22,21 +22,18 @@ whereabouts:
     place: At Sea
     region: Western Gulf
     type: origin
-  - date: 1685-01-02
-    place: At Sea
-    region: Western Gulf
-    type: home
   - date: 1722-03-10
     place: Tollen
     region: Western Green Sea
     type: home
+title:
 ---
 # Harriet
 >[!info]+ Biographical Summary
->[[Halflings|halfling]], she/her
+>halfling, she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >> Originally from: At Sea, [[Western Gulf]]
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> Based in: [[Tollen]], [[Western Green Sea]]
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 30th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 

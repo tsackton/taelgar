@@ -13,7 +13,7 @@ aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "unknown", region: Orekatu}
+     - { date: 0001-01-02, place: "unknown", region: Orekatu, type: home }
      - { date: 1748-11-23, place: "Bedez", region: Orekatu, type: excursion }
 ---
 # Enari

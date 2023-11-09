@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/major, NPC/DuFr/met, stub]
 yearOverride: 
 whereabouts:
-     - { date: 1714-01-02, place: "Tokra", region: Central Dunmar}
+     - { date: 1714-01-02, place: "Tokra", region: Central Dunmar, type: home }
 ---
 # Govir
 >[!info]+ Biographical Summary

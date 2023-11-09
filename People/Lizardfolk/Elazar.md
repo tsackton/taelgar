@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
 whereabouts:
-     - { date: 1665-01-02, place: "Bedez", region: Orekatu}
+     - { date: 1665-01-02, place: "Bedez", region: Orekatu, type: home}
 ---
 # Elazar
 >[!info]+ Biographical Summary

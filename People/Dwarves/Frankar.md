@@ -16,7 +16,6 @@ tags: [NPC/DuFr/met_one, NPC/DuFr/minor]
 yearOverride: 
 whereabouts:
      - { date: 1714-01-01, place: "Darakan, Khatridun", region: "Sentinel Range"}
-     - { date: 1714-01-02, place: "Darakan, Khatridun", region: "Sentinel Range"}
 ---
 # Frankar
 >[!info]+ Biographical Summary

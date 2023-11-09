@@ -17,7 +17,6 @@ lastSeenByParty:
   - { date: 1748-12-29, prefix: DuFr }
 whereabouts: 
   - { date: 1666-01-01, place: "Vostok Mountains", region: "Western Green Sea", type: origin }
-  - { date: 1666-01-02, place: "Vostok Mountains", region: "Western Green Sea", type: home }
   - { date: 1732-01-02, place: "Tollen", region: "Western Green Sea", type: home }
 ---
 # Umli the Exile
@@ -25,7 +24,7 @@ whereabouts:
 >stoneborn, she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >> Originally from: Vostok Mountains, [[Western Green Sea]]
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> Based in: [[Tollen]], [[Western Green Sea]]
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 29th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 

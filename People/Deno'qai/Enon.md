@@ -12,7 +12,7 @@ affiliations:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 whereabouts:
-     - { date: 1688-01-02, place: "Ko'zula village", region: unknown}
+     - { date: 1688-01-02, place: "Ko'zula village", region: unknown, type: home }
 ---
 # Enon
 >[!info]+ Biographical Summary

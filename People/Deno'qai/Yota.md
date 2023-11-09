@@ -12,8 +12,7 @@ affiliations:
 aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met]
 whereabouts:
-     - { date: 0001-01-02, place: "Te'kula village", region: Elderwood}
-     - { date: 1748-11-23, place: "unknown", region: Elderwood, type: excursion }
+     - { date: 0001-01-02, place: "Te'kula village", region: Elderwood, type: home }
 ---
 # Yota
 >[!info]+ Biographical Summary

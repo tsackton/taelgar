@@ -13,8 +13,8 @@ aliases: []
 tags: [NPC/DuFr/major, NPC/DuFr/met]
 yearOverride: 
 whereabouts:
-     - { date: 1673-01-01, place: "plains to the east, Songara", region: Central Dunmar}
-     - { date: 1673-01-02, place: "Pava and Avaras' House", region: Garamjala Desert}
+     - { date: 1673-01-01, place: "plains to the east, Songara", region: Central Dunmar, type: origin}
+     - { date: 1673-01-02, place: "Pava and Avaras' House", region: Garamjala Desert, type: home}
 ---
 # Pava
 >[!info]+ Biographical Summary

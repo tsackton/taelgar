@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Tokra", region: Central Dunmar}
+     - { date: 0001-01-02, place: "Tokra", region: Central Dunmar, type: home }
 ---
 # Dunmari werewolf woman
 >[!info]+ Biographical Summary

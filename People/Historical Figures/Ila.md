@@ -13,7 +13,7 @@ family:
 tags: [NPC/historical, NPC/DuFr/aware]
 yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "unknown", region: Central Dunmar}
+     - { date: 0001-01-02, place: "unknown", region: Central Dunmar, type: home}
 ---
 # Commander Ila
 >[!info]+ Biographical Summary

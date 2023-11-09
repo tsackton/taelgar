@@ -11,7 +11,7 @@ affiliations:
 name: Erick Murtha
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: 1671-01-02, place: "Beury, Aveil", region: Sembara}
+     - { date: 1671-01-02, place: "Beury, Aveil", region: Sembara, type: home}
 ---
 # Lord Erick Murtha
 >[!info]+ Biographical Summary
