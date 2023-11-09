@@ -97,7 +97,7 @@ async function get_table(input) {
 
     let yearStart = input.yearStart;
     let yearEnd = input.yearEnd ?? input.yearStart;
-    let pageFilter = input.pageFilter ?? "#event-source";
+    let pageFilter = input.pageFilter.trim() ?? "#event-source";
     let map = input.map ?? (f => [f.date, f.text, dv.fileLink(f.file)])
     let header = input.header ?? ["Date", "Event", "File"]
     let options = {
