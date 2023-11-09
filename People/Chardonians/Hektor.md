@@ -12,7 +12,7 @@ aliases: []
 tags: [NPC/DuFr/major, NPC/DuFr/met]
 family:
 whereabouts:
-     - { date: 1726-01-01, place: "Chardon", region: Chardonian Empire}
+     - { date: 1726-01-01, place: "Chardon", region: Chardonian Empire, type: home }
 ###secret[1]
      - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, type: excursion}
 ###secret[2]

@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/background, NPC/DuFr/met]
 yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Darba", region: Western Dunmar}
+     - { date: 0001-01-02, place: "Darba", region: Western Dunmar, type: home }
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Summary
