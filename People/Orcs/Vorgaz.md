@@ -23,10 +23,6 @@ whereabouts:
     place: Uzgukar
     region: Xurkhaz
     type: origin
-  - date: 1707-01-02
-    place: Uzgukar
-    region: Xurkhaz
-    type: home
   - date: 1741-01-01
     place: Khumarz
     region: Xurkhaz
@@ -34,10 +30,10 @@ whereabouts:
 ---
 # Commander Vorgaz
 >[!info]+ Biographical Summary
->[[Orcs|orc]], he/him
+>orc, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 >> Originally from: Uzgukar, [[Xurkhaz]]
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> Based in: [[Khumarz]], [[Xurkhaz]]
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 4th, 1748: [[Khumarz]], [[Xurkhaz]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 

@@ -12,8 +12,7 @@ family:
 aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met_one]
 whereabouts:
-     - { date: 1734-01-01, place: "Ko'zula village", region: The Central Highlands}
-     - { date: 1734-01-02, place: "Ko'zula village", region: The Central Highlands}
+     - { date: 1734-01-01, place: "Ko'zula village", region: The Central Highlands, type: home }
 ---
 # Zevi
 >[!info]+ Biographical Summary

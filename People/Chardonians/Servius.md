@@ -12,7 +12,7 @@ affiliations: ["Society of the Open Scroll"]
 aliases: []
 tags: [NPC/DuFr/aware, NPC/DuFr/major]
 whereabouts:
-     - { date: 1689-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1689-01-02, place: "Chardon", region: Chardonian Empire, type: home }
      - { date: 1748-11-23, place: "unknown", region: Illoria, type: excursion}
 ---
 # Servius

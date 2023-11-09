@@ -12,7 +12,7 @@ family:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
-     - { date: 0001-01-02, place: "Bek'eni village", region: Elderwood}
+     - { date: 0001-01-02, place: "Bek'eni village", region: Elderwood, type: home }
 ---
 # Zaro
 >[!info]+ Biographical Summary

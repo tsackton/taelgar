@@ -12,9 +12,8 @@ affiliations: ["University of Chardon", "Sibyl's Hall"]
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
-     - { date: 1701-01-01, place: "Arendum", region: Chardonian Empire}
-     - { date: 1701-01-02, place: "Chardon", region: Chardonian Empire}
-     - { date: 1748-11-15, place: "Chardon", region: Chardonian Empire}
+     - { date: 1701-01-01, place: "Arendum", region: Chardonian Empire, type: origin}
+     - { date: 1701-01-02, place: "Chardon", region: Chardonian Empire, type: home}
 ---
 # Gnaeus
 >[!info]+ Biographical Summary

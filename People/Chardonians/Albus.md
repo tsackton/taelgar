@@ -12,8 +12,8 @@ affiliations:
 aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met]
 whereabouts:
-     - { date: 1694-01-01, place: "Chardon", region: Chardonian Empire}
-     - { date: 1694-01-02, place: "Darba", region: Western Dunmar}
+     - { date: 1694-01-01, place: "Chardon", region: Chardonian Empire, type: origin}
+     - { date: 1694-01-02, place: "Darba", region: Western Dunmar, type: home}
 ---
 # Albus
 >[!info]+ Biographical Summary

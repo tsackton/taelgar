@@ -13,13 +13,14 @@ title:
 yearOverride: 
 family:
 whereabouts:
-     - { date: 1599-01-02, place: "Chardon", region: Chardonian Empire}
+     - { date: 1599-01-02, place: "Chardon", region: Chardonian Empire, type: home }
 ---
 # Ulfgar Frostbeard
 >[!info]+ Biographical Summary
 >dwarf, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> Based in: [[Chardon]], [[Chardonian Empire]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A dwarven scholar and theoretical metaphysicist, on the Faculty of Metaphysics at the [[University of Chardon]].  Author of [[The Lore of the Feywild]]. 
 

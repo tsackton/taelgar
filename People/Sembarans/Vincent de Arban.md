@@ -10,9 +10,9 @@ affiliations:
 lastSeenByParty: 
   - { date: 1719-11-07, prefix: Clee }
 whereabouts: 
-  - { date: 1677-05-18, place: Embry, region: Sembara, type: origin }
+  - { date: 1677-05-18, place: Embry, region: Sembara, type: home }
   - { date: 1719-11-07, place: Cleenseau, region: Sembara, type: excursion }
-  - { date: 1719-11-22, place: Embry, region: Sembara }
+  - { date: 1719-11-22, place: Embry, region: Sembara, type: home }
 ---
 # Vincent de Arban
 >[!info]+ Biographical Summary

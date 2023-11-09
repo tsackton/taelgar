@@ -12,8 +12,7 @@ affiliations:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
-     - { date: 1688-01-02, place: "Te'kula village", region: Elderwood}
-     - { date: 1748-11-23, place: "Te'kula village", region: Elderwood, type: excursion }
+     - { date: 1688-01-02, place: "Te'kula village", region: Elderwood, type: home }
 ---
 # Obel
 >[!info]+ Biographical Summary

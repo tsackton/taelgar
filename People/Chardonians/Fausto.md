@@ -12,9 +12,9 @@ affiliations: ["The Society of the Open Scroll", "The Cleansed"]
 aliases: []
 tags: [NPC/DuFr/major, NPC/DuFr/met]
 whereabouts:
-- { date: 1731-01-01, place: "Chardon", region: Chardonian Empire}
+- { date: 1731-01-01, place: "Chardon", region: Chardonian Empire, type: home}
 ###secret[1]
-- { date: 1737-01-01, place: "Chardon", region: Chardonian Empire}
+- { date: 1737-01-01, place: "Chardon", region: Chardonian Empire, type: home}
 ---
 
 # Fausto

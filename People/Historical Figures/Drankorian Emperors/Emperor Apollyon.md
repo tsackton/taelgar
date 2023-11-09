@@ -13,14 +13,16 @@ family:
 yearOverride: 
 aliases: [Emperor Apollyon, Apollyon]
 whereabouts:
-     - { date: 0001-01-01, place: "Drankor", region: Drankorian Empire}
-     - { date: 0001-01-02, place: "unknown", region: "unknown"}
+     - { date: 0001-01-01, place: "Drankor", region: Drankorian Empire, type: origin }
+     - { date: 0001-01-02, place: "unknown", region: "unknown", type: home}
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Summary
 >undead, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> Originally from: [[Drankor]], [[Drankorian Empire]]
+>> Based in: unknown, unknown
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 ### Apollyon
 

@@ -12,7 +12,7 @@ affiliations: ["Society of the Open Scroll"]
 aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/major]
 whereabouts:
-     - { date: 1721-01-01, place: "Chardon", region: Chardonian Empire}
+     - { date: 1721-01-01, place: "Chardon", region: Chardonian Empire, type: home }
      - { date: 1748-11-23, place: "unknown", region: Dunmar, type: excursion }
 ---
 # Vola Forena
