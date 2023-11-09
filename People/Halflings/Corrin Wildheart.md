@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/met_one, NPC/DuFr/background]
 yearOverride: 
 whereabouts:
-     - { date: 1748-11-23, place: "unknown", region: Eastern Green Sea, excursion: true }
+     - { date: 1748-11-23, place: "unknown", region: Eastern Green Sea, type: excursion }
 ---
 # Corrin Wildheart
 >[!info]+ Biographical Summary

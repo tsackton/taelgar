@@ -13,7 +13,7 @@ yearOverride:
 title:
 family:
 whereabouts:
-     - { date: 1748-11-23, place: "unknown", region: Eastern Green, excursion: true }
+     - { date: 1748-11-23, place: "unknown", region: Eastern Green, type: excursion }
 ---
 # Pearl Brightmoon
 >[!info]+ Biographical Summary

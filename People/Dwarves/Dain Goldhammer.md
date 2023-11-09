@@ -15,7 +15,7 @@ yearOverride:
 whereabouts:
      - { date: 1710-01-01, place: "Chardon", region: Chardonian Empire}
      - { date: 1710-01-02, place: "Chardon", region: Chardonian Empire}
-     - { date: 1748-11-23, place: "unknown", region: Illoria, excursion: true }
+     - { date: 1748-11-23, place: "unknown", region: Illoria, type: excursion }
 ---
 # Dain Goldhammer
 >[!info]+ Biographical Summary

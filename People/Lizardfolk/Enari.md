@@ -14,7 +14,7 @@ tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
 whereabouts:
      - { date: 0001-01-02, place: "unknown", region: Orekatu}
-     - { date: 1748-11-23, place: "Bedez", region: Orekatu, excursion: true }
+     - { date: 1748-11-23, place: "Bedez", region: Orekatu, type: excursion }
 ---
 # Enari
 >[!info]+ Biographical Summary

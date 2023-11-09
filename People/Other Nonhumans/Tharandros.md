@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/met, NPC/DuFr/major]
 yearOverride: 
 whereabouts:
-     - { date: 1748-06-03, place: "Karawa", region: Eastern Dunmar, excursion: true }
+     - { date: 1748-06-03, place: "Karawa", region: Eastern Dunmar, type: excursion }
 ###secret[1]
 ###secret[2]
 ---

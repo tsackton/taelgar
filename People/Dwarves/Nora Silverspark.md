@@ -13,7 +13,7 @@ yearOverride:
 title:
 family:
 whereabouts:
-     - { date: 1748-11-23, place: "deceased", region: unknown, excursion: true }
+     - { date: 1748-11-23, place: "deceased", region: unknown, type: excursion }
 ---
 # Nora Silverspark
 >[!info]+ Biographical Summary

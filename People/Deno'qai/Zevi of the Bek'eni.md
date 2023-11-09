@@ -13,7 +13,7 @@ aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met]
 whereabouts:
      - { date: 0001-01-02, place: "unknown", region: Elderwood}
-     - { date: 1748-11-23, place: "deceased", region: "", excursion: true }
+     - { date: 1748-11-23, place: "deceased", region: "", type: excursion }
 ---
 # Zevi
 >[!info]+ Biographical Summary

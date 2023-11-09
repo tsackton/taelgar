@@ -16,7 +16,7 @@ lastSeenByParty:
 whereabouts:
      - { date: 1705-01-01, place: "Darba", region: Western Dunmar}
      - { date: 1705-01-02, place: "Voltara", region: Chardonian Empire}
-     - { date: 1748-11-23, place: "Chardon", region: Chardonian Empire, excursion: true }
+     - { date: 1748-11-23, place: "Chardon", region: Chardonian Empire, type: excursion }
 ---
 # Lyra
 >[!info]+ Biographical Summary

@@ -21,11 +21,11 @@ whereabouts:
   - date: 1748-11-15
     place: somewhere in Dunmar
     region: Dunmar
-    excursion: true
+    type: excursion
   - date: 1748-11-19
     place: Garamjala Desert
     region: Dunmar
-    excursion: true
+    type: excursion
 ---
 # Kadmos
 >[!info]+ Biographical Summary

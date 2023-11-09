@@ -14,8 +14,7 @@ tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 whereabouts:
      - { date: 0001-01-01, place: "somewhere", region: unknown }
      - { date: 0001-01-02, place: "Amberglow", region: Feywild }
-     - { date: 1700-11-15, place: "imprisoned", region: somewhere, excursion: true }
-     - { date: 1748-11-15, place: "imprisoned", region: somewhere, excursion: true }
+     - { date: 1700-11-15, place: "imprisoned", region: somewhere, type: excursion }     
 ---
 # Cloudspinner
 >[!info]+ Biographical Summary
