@@ -11,13 +11,6 @@
 
 Start: 23 Nov 1748, evening, in Hraglar's dreamscape
 End: 23 Nov 1748, evening, outside the destroyed remains of the tower
-
-#### [[Eudomes' Mirror]]:
-***23 Nov 1748: [[Eudomes' Mirror]] recharges.***
-
-#### Divine Inspiration
-- 28 Nov 1748: *[[Riswynn]]'s Divine Intervention will be available again to attempt.*
-
 #### Character Advancement
 - Everyone advances to level 11
 
@@ -31,7 +24,7 @@ End: 23 Nov 1748, evening, outside the destroyed remains of the tower
 
 ## Timeline
 
-- **23 Nov 1748**: Arrive at [[Stormcaller Tower]] mid-afternoon, spend time planning and scouting with spells. Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. Fight Hraglar's storm-crazed ghost duplicate. Free Hraglar from his chains, watch as he destroys the tower and the statue of his bust. Sit with [[Hralgar]] for the evening. 
+- (DR:: 1748-11-23): *(evening)* Fight Hraglar's storm-crazed ghost duplicate. Free Hraglar from his chains, watch as he destroys the tower and the statue of his bust. Sit with [[Hralgar]] for the evening, talking. 
 
 ## Narrative
 

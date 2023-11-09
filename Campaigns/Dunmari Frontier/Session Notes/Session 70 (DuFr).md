@@ -2,32 +2,17 @@
 *in which the party meets the [[Orcs]] of [[Xurkhaz]]*
 
 **In the real world:** Sunday, May 7, 2023
-**In Taelgar:** 29 Nov 1748 to 4 Dec 1748
-
+**In Taelgar:** 4 Dec 1748 to 5 Dec 1748
 ## Summary
 
 ## Notes and Information
 
 Start: early morning, Dec 4th
 End: afternoon, Dec 5th
-
-#### Eudomes’ Mirror:
- - **2 Dec 1748: [[Eudomes' Mirror]] is available to use**
-
-#### Divine Inspiration
-- **28 Nov 1748: [[Riswynn]]'s Divine Intervention is available again to attempt.**
-
 ## Timeline
 
-- 30 Nov 1748: [[Seeker]] spends the day learning to control and fly [[Vindristjarna]], while the rest of the party prepares for the journey east.
-- 1 Dec 1748: [[Kenzo]] attunes to the phasing stone and spends the day learning to control and fly [[Vindristjarna]]; speak with [[Sura]] via Sending Stone
-- 2 Dec 1748: [[Riswynn]] asks the Baharazel about their chosen course of action; [[Delwath]]'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [[Kenzo]] and [[Seeker]] alternating piloting; fly 22 hours
-- 3 Dec 1748: Continue flying east, [[Kenzo]] and [[Seeker]] alternating over 22 hours
-- 4 Dec 1748: See at the edge of the [[Orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light. Overfly kingdom of [[Xurkhaz]], scouting. Speak with [[Vorgaz]], commander of a fort on the western border, then fly through the night to [[Uzgukhar]], the capital. Scry on [[Govir]] and Ulfgar to gather their research on the way. 
-- 5 Dec 1748: Arrive at [[Uzgukhar]] early in the morning. Land, leaving [[Seeker]] in charge of [[Vindristjarna]]. Wait for hours for an audience with the Chief. Speak with Chief [[Lubash]] and his advisors. 
-
-- *11 Dec 1748: [[Govir]] will be open to being scried with more research notes at sunset* 
-
+- (DR:: 1748-12-04): See at the edge of the [[Orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light. Overfly kingdom of [[Xurkhaz]], scouting. Speak with [[Vorgaz]], commander of a fort on the western border, then fly through the night to [[Uzgukhar]], the capital. Scry on [[Govir]] and Ulfgar to gather their research on the way. 
+- (DR:: 1748-12-05):Arrive at [[Uzgukhar]] early in the morning. Land, leaving [[Seeker]] in charge of [[Vindristjarna]]. Wait for hours for an audience with the Chief. Speak with Chief [[Lubash]] and his advisors. 
 ## Narrative
 
 We begin high above the orcish kingdom of [[Xurkhaz]] (zurk - kaz), as the party scouts and debates what to do. The territory is large - at least 150 miles across, nestled between two rivers on its eastern and western borders. From the air, it appears mostly rural, with only a few forts and towers defending the western border, and one major city near the confluence of the two border rivers. This is a dry, arid land of rolling hills, sustained by heavy irrigation that supports what appears to be mostly wheat and cattle farming. 

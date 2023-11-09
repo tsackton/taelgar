@@ -1,3 +1,7 @@
+---
+tags:
+  - "#event-source"
+---
 # Before the Great War
 Before DR 1400
 
@@ -18,6 +22,12 @@ By the bitter winter of 1541-1542, the Deno'qai were nearly wiped out, despite t
 
 As [[Cha'mutte]]'s army proceeds south, into elven lands and the southern Deno'qai, the surviving [[Shu'anra]] and [[Ko'zula]] people are cut off, isolated without help or hope. Many die of exposure and starvation in the difficult years that follow, and many who survive are saved only by the aid of the Stoneborn and the Dwarves.
 
+###
+- (DR:: 1536): Cha'mutte launches a surprise attack against the [[Deno'qai]] of the northern forests, quickly capturing the territory between the [[K'eye]] and [[Pandar]]
+- (DR:: 1541): Cha'mutte's armies cross the [[K'eye]] in the first campaign of the [[Great War]]
+- (DR:: 1542), winter: Many Deno'qai die of exposure and starvation in the north, cut off by Cha'mutte's armies
+- (DR:: 1542), summer: The surviving [[Shu'anra]] and [[Ko'zula]] [[Deno'qai]] tribes flee into the mountains, abandoning the lowland forests to Cha'mutte's armies
+
 # Years of Isolation
 DR 1545 - DR 1640
 
@@ -27,6 +37,9 @@ DR 1640 - DR 1700
 It is not until the 1640s that the isolated northern Deno'qai tribes begin to slowly, cautiously leave their mountain redoubts. The forests north of the Blackwater Fens are deeply changed, cursed and corrupted by [[Cha'mutte]]'s armies, the demons of his horde, and none can live there. The elves are now gone, or hidden, and the Deno'qai cannot find them again. Loose trade connections to the Deno'qai living to the southeast of the Blackwater Fens are established, but these are tenuous, at best. Whatever people survive along the coast are far away, isolated by the fens themselves and the corruption of the forests south of Pandar.
 
 Still, slowly connections grow, and over time more rumors come to the [[Shu'anra]] and [[Ko'zula]] tribes, of safer places to the south, warmer and easier to live, further from the haunted reminders of [[Cha'mutte]]'s wars. Some flee, but many stay.
+
+###
+- (DR:: 1644): The northern Deno'qai begin to cautiously leave their mountain redoubts and reestablish contact with southern tribes
 
 # Recent Events
 After DR 1700

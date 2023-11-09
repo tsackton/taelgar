@@ -12,12 +12,11 @@ Start: early morning, Dec 8th
 End: early afternoon, Dec 10th
 
 #### [[Eudomes' Mirror]]
-- 9 Dec 1748: Used to look at the [[Mantle of Protection]]: [[Mantle of Protection Vision]]
+- (DR:: 1748-12-09): Eudomes Mirror used to look at the [[Mantle of Protection]]: [[Mantle of Protection Vision]] (recharge:: mirror)
 
 ## Timeline
-8 Dec 1748: [[Kadmos]] and company attack in the early morning hours, well before dawn, and are defeated. 
-9 Dec 1748: The prisoners are interrogated and plans are made.
-10 Dec 1748: [[Delwath]], [[Seeker]], [[Wellby]], and [[Kenzo]] leave for the north to destroy the [[Scepter of Command]]
+- (DR:: 1748-12-09): The prisoners are interrogated and plans are made.
+- (DR:: 1748-12-10): *(morning)* [[Delwath]], [[Seeker]], [[Wellby]], and [[Kenzo]] leave for the north to destroy the [[Scepter of Command]]
 
 ## New Treasure
 

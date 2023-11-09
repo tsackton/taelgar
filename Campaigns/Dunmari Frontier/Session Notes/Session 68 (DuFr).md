@@ -12,25 +12,14 @@
 Start: evening, Nov 24th 1748
 End: night, Nov 29th 1748
 
-#### Eudomes’ Mirror:
- - 24 Nov 1748: [[Eudomes' Mirror]] used to look at the Enchiridion of the [[Occulta Ludum]].
- - *2 Dec 1748: [[Eudomes' Mirror]] will recharge again*
-
-#### Divine Inspiration
-- 28 Nov 1748: [[Riswynn]]'s Divine Intervention is available again to attempt.
-
 ## Timeline
 
-- **24 Nov 1748:** The party says goodbye to [[Hralgar]] and receives his wind blessing, allowing them to travel quickly as clouds to his ruined palace in the mountains. Scout, and find dark shadows boiling out of the basement, and a icy structure on the main floor. Parlay with an ice maiden, until she brags of freezing travelers on the passes and [[Wellby]] shoots. Defeat her ice maiden form, and then crush her heart of ice and crystal, destroying her. Venture to the library, and find their way to the [[dreamworld]], where they encounter the tricks of Kurome. Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [[Hralgar]]'s library about skyships. Return to the crash of [[Vindristjarna]] that evening with [[Hralgar]]'s wind blessing.
-- **25 Nov 1748**: Work on skyship. Convert [[Delwath]]'s shield to an adamantine harness to hold phasing stone.
-- **26 Nov 1748:** Work on skyship, finishing the stone helm on which the phasing stone will be mounted; scry on [[Kharsan]], [[Kadmos]].
-- **27 Nov 1748:** Work on skyship, converting gold and silver to wire to construct the channeling device. Meet [[Alesh]]; speak with her about events in [[Dunmar]] and give her letter and sending stone for [[Sura]]. Sending with Ulfgar and [[Govir]], who both agree to do research.
-- **28 Nov 1748:** Continue to work on the channeling device; scry [[Kharsan]] and see army leaving. [[Seeker]] dreams of shadow hunter threatening that he is coming.
-- **29 Nov 1748:** Finish work on [[Vindristjarna]]. [[Seeker]] attunes to the phasing stone, begins to practice flying. Shadow dogs attack at midnight.
-
-- *30 Nov 1748: [[Seeker]] will spend the day learning to fly the ship; [[Alesh]] should hopefully arrive at [[Sura]]'s camp this day or the next.*
-- *1 Dec 1748: Skyship can depart; [[Alesh]] should have arrived at camp by now.* 
-- *4 Dec 1748: [[Govir]] and Ulfgar will be open to being scried with research notes at sunset* 
+- (DR:: 1748-11-24): *(evening)* Return to the crash of [[Vindristjarna]] by evening with [[Hralgar]]'s wind blessing.
+- (DR:: 1748-11-25): Work on skyship. Convert [[Delwath]]'s shield to an adamantine harness to hold phasing stone.
+- (DR:: 1748-11-26): Work on skyship, finishing the stone helm on which the phasing stone will be mounted; scry on [[Kharsan]], [[Kadmos]].
+- (DR:: 1748-11-27):  Work on skyship, converting gold and silver to wire to construct the channeling device. Meet [[Alesh]]; speak with her about events in [[Dunmar]] and give her letter and sending stone for [[Sura]]. Sending with Ulfgar and [[Govir]], who both agree to do research.
+- (DR:: 1748-11-28): Continue to work on the channeling device; scry [[Kharsan]] and see army leaving. [[Seeker]] dreams of shadow hunter threatening that he is coming.
+- (DR:: 1748-11-29): Finish work on [[Vindristjarna]]. [[Seeker]] attunes to the phasing stone, begins to practice flying. Shadow dogs attack at midnight.
 
 ## Narrative
 

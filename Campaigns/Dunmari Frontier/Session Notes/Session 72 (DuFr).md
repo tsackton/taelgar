@@ -10,17 +10,11 @@
 
 Start: morning, Dec 6th
 End: middle of the night, Dec 8th
-
-#### Eudomes’ Mirror
- - **2 Dec 1748: [[Eudomes' Mirror]] is available to use**
-
 ## Timeline
 
-5 Dec 1748: Arrive at [[Uzgukhar]] early in the morning. Land, leaving [[Seeker]] in charge of [[Vindristjarna]]. Wait for hours for an audience with the Chief. Speak with Chief [[Lubash]] and his advisors. Give General [[Murook]] and Loremaster [[Azogar]] tour of skyship. Dinner and conversation with [[Lubash]]. Plan for possible attack from [[Kadmos]] and company.
-6 Dec 1748: Spend the day in [[Uzgukhar]], trying to play-act a fight with Chief [[Lubash]]; depart in fake disgrace; sneak back into palace under cover of darkness to wait. No attack comes during the fitful night.
-7 Dec 1748: Pass the day hidden at the palace, waiting.
-8 Dec 1748: [[Kadmos]] and company attack in the early morning hours, well before dawn, and are defeated. 
-
+- (DR::1748-12-06): Spend the day in [[Uzgukhar]], trying to play-act a fight with Chief [[Lubash]]; depart in fake disgrace; sneak back into palace under cover of darkness to wait. No attack comes during the fitful night.
+- (DR:: 1748-12-07): Pass the day hidden at the palace, waiting.
+- (DR:: 1748-12-08): [[Kadmos]] and company attack in the early morning hours, well before dawn, and are defeated. 
 ## Narrative
 
 We begin as the day of deception passes, Dec 6th, during which the party tries to fool anyone scrying, convincing watchers that they have attempted to steal the [[Mantle of Protection]] from Chief [[Lubash]]. The day passes in fits and starts, until the party departs in false disgrace in the late afternoon. Camping in the desert, the party scries [[Hektor]], seeing him on a boat on the river, an uncertain distance away. After preparing for a battle with Hero's Feast, and sneaking back into the palace, the party passes a fitful night waiting for an attack that does not come.

@@ -1,5 +1,7 @@
 ---
-tags: [DuFr]
+tags:
+  - DuFr
+  - session-note
 ---
 # Session 63, Dunmar Frontier
 *in which the party journeys across Dunmar to Stormcaller Tower.*
@@ -17,15 +19,12 @@ Start: 15 Nov 1748, late evening, camped outside the fey crossing at Lastlight F
 End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormcaller Tower]]
 
 #### Eudomes’ Mirror:
-***23 Nov 1748: [[Eudomes' Mirror]] recharges.***
-- [[Cha'mutte Armband Vision]] (15 Nov 1748)
 - [[Mace of Terror Vision]] (retcon from [[Session 50 (DuFr)]])
 - [[Hralgar's Eyes Vision]] (retcon from [[Session 50 (DuFr)]])
+- (DR:: 1748-11-15) [[Cha'mutte Armband Vision]] see in [[Eudomes' Mirror]] (recharge:: mirror)
 
 #### Divine Inspiration
-- 20 Nov 1748: Success!
-- 28 Nov 1748: *[[Riswynn]]'s Divine Intervention will be available again to attempt.*
-
+- (DR:: 1748-11-20): Riswynn's prayers are granted by the Bahrazel, freeing Havdar from his cursed sword. (recharge:: "divine inspiration")
 #### Commune
 | Question                                                                 | Answer      | Date        |
 | :------------------------------------------------------------------------ | :----------- | :----------- |
@@ -42,16 +41,15 @@ End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormca
 
 ## Timeline
 
-- **15 Nov 1748**: [[Wellby]], [[Seeker]], and [[Kenzo]] exit the [[feywild]] at sunset, and are reunited with [[Delwath]] and [[Riswynn]]. Talk and catch up. Use the mirror to look at [[Cha'mutte’s Shadow Armband]] before sleep.
-- **16 Nov 1748**: [[Kenzo]] is uncursed by [[Riswynn]], sacrificing his [[Horn of Silent Alarm]] in the process; [[Riswynn]] speaks with [[Johar]] via sending. Party travels west towards [[Stormcaller Tower]].
-- **17 Nov 1748**: Travel west; speak with [[Johar]] via Sending; scry on [[Hektor]].
-- **18 Nov 1748**: Travel west; learn [[Johar]] is meeting with Samraat [[Nayan Karnas]]; detour around some ogres.
-- **19 Nov 1748**: Arrive south of [[Raven's Hold]]. Scout, discover it is quiet; camp early.
-- **20 Nov 1748**: [[Riswynn]]'s prayers are answered and [[Havdar]]'s cursed sword is destroyed by the Baharazel, freeing him of its influence. Send a message with sending to apologize. Travel west.
-- **21 Nov 1748**: Travel west.
-- **22 Nov 1748**: Travel west.
-- **23 Nov 1748**: Arrive at [[Stormcaller Tower]] mid-afternoon, spend time planning and scouting with spells. 
-
+- (DR:: 1748-11-15): *(evening)* [[Wellby]], [[Seeker]], [[Kenzo]], [[Delwath]] and [[Riswynn]] talk and catch up. Use the mirror to look at [[Cha'mutte’s Shadow Armband]] before sleep.
+- (DR:: 1748-11-16): [[Kenzo]] is uncursed by [[Riswynn]], sacrificing his [[Horn of Silent Alarm]] in the process; [[Riswynn]] speaks with [[Johar]] via sending. Party travels west towards [[Stormcaller Tower]].
+- (DR:: 1748-11-17): Travel west; speak with [[Johar]] via Sending; scry on [[Hektor]].
+- (DR:: 1748-11-18): Travel west; learn [[Johar]] is meeting with Samraat [[Nayan Karnas]]; detour around some ogres.
+- (DR:: 1748-11-19): Arrive south of [[Raven's Hold]]. Scout, discover it is quiet; camp early.
+- (DR:: 1748-11-20):  [[Riswynn]]'s prayers are answered and [[Havdar]]'s cursed sword is destroyed by the Baharazel, freeing him of its influence. Send a message with sending to apologize. Travel west.
+- (DR:: 1748-11-21): Travel west.
+- (DR:: 1748-11-22): Travel west.
+- (DR:: 1748-11-123): *(mid-afternoon)* Arrive at [[Stormcaller Tower]], spend time planning and scouting with spells. 
 ## Narrative
 
 We begin as the party settles in for the night outside Lastlight Falls, after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm]] carried for many months. 
