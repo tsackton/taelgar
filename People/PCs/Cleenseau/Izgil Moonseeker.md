@@ -6,24 +6,22 @@ ancestry:
 gender: male
 born: 1453
 died: 
-location: Taviose
-locationRegion: Sembara
-origin: "[[Nidzahar]]"
-originRegion:
 affiliations: 
 aliases: [Durgil Barzinduk, Izgil]
 tags: [PC/Cleenseau]
 campaign: "Cleenseau"
 player: "Matt Rand"
 yearOverride: 
+whereabouts:
+     - { date: 1453-01-01, place: , region: Nidzahar, type: origin }
+     - { date: 1720-01-06, place: "Taviose", region: Sembara, type: excursion }
 ---
 # Izgil Moonseeker
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >dwarf, he/him
->b. 1453
->266 years old
->Originally from: [[Nidzahar]]
->Location (updated October 21, 1719): Taviose, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Originally from: [[Nidzahar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [[Gemcrafters]] clan in [[Nidzahar]].
 

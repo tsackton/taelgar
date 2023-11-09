@@ -6,10 +6,6 @@ ancestry: Chardonian
 gender: male
 born: 1705
 died: 1765
-home: Chardon
-homeRegion: "Chardonian Empire"
-origin: OldTown
-originRegion: "Lost Empire"
 affiliations: ["Great Library"]
 aliases: []
 tags: [NPC/testing]
