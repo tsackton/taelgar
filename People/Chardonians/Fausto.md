@@ -16,12 +16,12 @@ whereabouts:
 ###secret[1]
 - { date: 1737-01-01, place: "Chardon", region: Chardonian Empire, type: home}
 ---
-
 # Fausto
 >[!info]+ Biographical Summary
 >human (Chardonian), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A young, striking man, with fine features, well groomed curly black hair, and elegant dress that clearly yet subtly displays his wealth. Fausto is not from a wealthy background, and he does not speak of his childhoood. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard. 
 
