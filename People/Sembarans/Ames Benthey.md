@@ -19,13 +19,6 @@ whereabouts:
     place: Cleenseau
     region: Sembara
     type: home
-  - date: 1719-10-18
-    place: somewhere upriver from Cleenseau
-    region: Sembara
-    excursion: true
-  - date: 1719-10-25
-    place: Cleenseau
-    region: Sembara
 ---
 # Ames Benthey
 >[!info]+ Biographical Summary

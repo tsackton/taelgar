@@ -13,7 +13,6 @@ aliases: [Lord Rinault, Lord Rinault Essford]
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
      - { date: 1688-01-01, place: "Cleenseau", region: Sembara, type: home}
-     - { date: 1719-10-18, place: "somewhere upriver from Cleenseau", region: Sembara, excursion: true}
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Summary

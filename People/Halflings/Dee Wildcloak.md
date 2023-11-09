@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
 whereabouts:
-     - { date: 1748-11-23, place: "somewhere", region: Sea of Storms, excursion: true }
+     - { date: 1748-11-23, place: "somewhere", region: Sea of Storms, type: excursion }
 ---
 # Dee Wildcloak
 >[!info]+ Biographical Summary

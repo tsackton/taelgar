@@ -15,10 +15,10 @@ lastSeenByParty:
 - { date: 1748-07-15, prefix: DuFr }
 aliases: [Garret]
 whereabouts:
-  - { date: 1737-01-01, place: "Agata's lair", region: Garamjala Desert, excursion: true }
-  - { date: 1748-06-08, place: "Karawa", region: Eastern Dunmar, excursion: true }
-  - { date: 1748-06-08, place: "Karawa", region: Eastern Dunmar, excursion: true }
-  - { date: 1748-06-30, place: "Tokra", region: Central Dunmar, excursion: true } 
+  - { date: 1737-01-01, place: "Agata's lair", region: Garamjala Desert, type: excursion }
+  - { date: 1748-06-08, place: "Karawa", region: Eastern Dunmar, type: excursion }
+  - { date: 1748-06-08, place: "Karawa", region: Eastern Dunmar, type: excursion }
+  - { date: 1748-06-30, place: "Tokra", region: Central Dunmar, type: excursion } 
 ###secret[1]
 ---
 # Garret Tealeaf

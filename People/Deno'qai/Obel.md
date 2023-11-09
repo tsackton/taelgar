@@ -13,7 +13,7 @@ aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
      - { date: 1688-01-02, place: "Te'kula village", region: Elderwood}
-     - { date: 1748-11-23, place: "Te'kula village", region: Elderwood, excursion: true }
+     - { date: 1748-11-23, place: "Te'kula village", region: Elderwood, type: excursion }
 ---
 # Obel
 >[!info]+ Biographical Summary

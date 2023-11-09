@@ -13,7 +13,7 @@ tags: [NPC/DuFr/unaware, NPC/GrLi/unsorted]
 family:
 title:
 whereabouts:
-     - { date: 1748-11-23, place: "plains south of Voltara, Voltara", region: Chardonian Empire, excursion: true }
+     - { date: 1748-11-23, place: "plains south of Voltara, Voltara", region: Chardonian Empire, type: excursion }
 ---
 # Herasto
 >[!info]+ Biographical Summary

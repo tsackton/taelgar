@@ -13,7 +13,7 @@ aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met]
 whereabouts:
      - { date: 0001-01-02, place: "Te'kula village", region: Elderwood}
-     - { date: 1748-11-23, place: "unknown", region: Elderwood, excursion: true }
+     - { date: 1748-11-23, place: "unknown", region: Elderwood, type: excursion }
 ---
 # Yota
 >[!info]+ Biographical Summary

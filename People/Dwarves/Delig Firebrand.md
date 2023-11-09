@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
 whereabouts:
-     - { date: 1748-11-23, place: "Tharn Todor", region: Nardith, excursion: true }
+     - { date: 1748-11-23, place: "Tharn Todor", region: Nardith, type: excursion }
 ---
 # Delig Firebrand
 >[!info]+ Biographical Summary

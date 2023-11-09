@@ -13,7 +13,7 @@ family:
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
 whereabouts:
-     - { date: 1748-11-23, place: "traveling", region: Nevos Sea, excursion: true }
+     - { date: 1748-11-23, place: "traveling", region: Nevos Sea, type: excursion }
 ---
 # Dani Silversong
 >[!info]+ Biographical Summary

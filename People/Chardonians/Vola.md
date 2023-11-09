@@ -13,7 +13,7 @@ aliases: []
 tags: [NPC/DuFr/met, NPC/DuFr/major]
 whereabouts:
      - { date: 1721-01-01, place: "Chardon", region: Chardonian Empire}
-     - { date: 1748-11-23, place: "unknown", region: Dunmar, excursion: true }
+     - { date: 1748-11-23, place: "unknown", region: Dunmar, type: excursion }
 ---
 # Vola Forena
 >[!info]+ Biographical Summary

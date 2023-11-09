@@ -13,7 +13,7 @@ tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 family:
 whereabouts:
      - { date: , place: "Cleenseau", region: Sembara, type: home}
-     - { date: 1719-10-21, place: "Taviose", region: Cleenseau, excursion: true}
+     - { date: 1719-10-21, place: "Taviose", region: Cleenseau, type: excursion}
 ---
 # Sergeant Odo Cordwaner
 >[!info]+ Biographical Summary

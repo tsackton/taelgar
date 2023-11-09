@@ -14,7 +14,7 @@ tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
 whereabouts:
      - { date: 0001-01-01, place: "", region: "Land of the Dead"}
-     - { date: 1748-11-23, place: "Azta Lekua", region: Orekatu, excursion: true }
+     - { date: 1748-11-23, place: "Azta Lekua", region: Orekatu, type: excursion }
 ---
 # Motua
 >[!info]+ Biographical Summary

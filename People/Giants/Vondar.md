@@ -14,7 +14,7 @@ yearOverride:
 family:
 whereabouts:
      - { date: 0001-01-01, place: "unknown", region: unknown}
-     - { date: 1748-11-23, place: "unknown", region: Amberglow, excursion: true }
+     - { date: 1748-11-23, place: "unknown", region: Amberglow, type: excursion }
 ---
 # Vondar
 >[!info]+ Biographical Summary
