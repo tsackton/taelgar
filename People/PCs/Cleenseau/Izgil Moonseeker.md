@@ -14,7 +14,7 @@ player: "Matt Rand"
 yearOverride: 
 whereabouts:
      - { date: 1453-01-01, place: , region: Nidzahar, type: origin }
-     - { date: 1720-01-06, place: "Taviose", region: Sembara, type: excursion }
+     - { date: 1719-10-19, place: "Taviose", region: Sembara, type: excursion }
 ---
 # Izgil Moonseeker
 >[!info]+ Biographical Summary

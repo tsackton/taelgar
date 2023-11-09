@@ -6,25 +6,23 @@ ancestry: Dunmari
 gender: male
 born: 1719
 died: 1748
-location: deceased
-locationRegion:
-home: Tokra
-homeRegion: "Central Dunmar"
-origin: Tokra
-originRegion: "Central Dunmar"
+title:
+family:
 affiliations: 
 aliases: []
 tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 yearOverride: 
+whereabouts:
+     - { date: 1719-01-02, place: "Tokra", region: Central Dunmar, type: home }
+     - { date: 1748-11-15, place: "deceased", region: unknown, type: excursion }
 ---
 # Hada
 >[!info]+ Biographical Summary
 >human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Tokra]], [[Central Dunmar]]
->Based in: [[Tokra]], [[Central Dunmar]]
-
->Location (updated November 15, 1748): deceased
+>> Originally from: [[Tokra]], [[Central Dunmar]]
+>> Based in: [[Tokra]], [[Central Dunmar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 The head scribe of the military section of the [[Tokra]] [[Archives]]. He was researching, with [[Govir]], the events surrounding [[The Exile of Fraternity of the Empty Moon]] in DR 1625 from [[Tokra]] in the [[Archives]], in support of [[Govir]]'s planned treatise on the miracles of the [[The Five Siblings|The Five Siblings]] in aid of the Nayan dynasty. 
 %%^Date:1748%%

@@ -6,24 +6,23 @@ ancestry: Dunmari
 gender: male
 born: 1723
 died: 1748
-location: Copper Hills
-locationRegion: Central Dunmar
-home: Tokra
-homeRegion: Central Dunmar
-origin: Tokra
-originRegion: Central Dunmar
 affiliations: 
+title:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
 family:
+whereabouts:
+     - { date: 1723-01-02, place: "Tokra", region: Central Dunmar, type: home }
+     - { date: 1748-05-01, place: "Copper Hills", region: Central Dunmar, type: excursion }
 ---
 # Justan
 >[!info]+ Biographical Summary
 >human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Originally from: [[Tokra]], [[Central Dunmar]]
->Based in: [[Tokra]], [[Central Dunmar]]
+>> Originally from: [[Tokra]], [[Central Dunmar]]
+>> Based in: [[Tokra]], [[Central Dunmar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A Dunmari man, from a family of horse herders traveling on the lands around Tokra. 
 %%^Date:1748%%

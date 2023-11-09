@@ -6,24 +6,22 @@ ancestry: "Islander"
 gender: male
 born: 1700
 died: 
-location: "sea elf village, Quanyi"
-locationRegion: "Eastern Green Sea"
-home: "Wahacha, Vermillion Isles"
-homeRegion: "Eastern Green Sea"
-origin:
-originRegion:
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/DuFr/met_one, NPC/DuFr/minor]
 yearOverride: 
+whereabouts:
+     - { date: 1700-01-02, place: "Wahacha, Vermillion Isles", region: Eastern Green Sea, type: home }
+     - { date: 1748-10-14, place: "sea elf village, Quanyi", region: Eastern Green Sea, type: excursion }
 ---
 # Nahto
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >kenku (Islander), he/him
->b. 1700
->48 years old
->Based in: Wahacha, Vermillion Isles, [[Eastern Green Sea]]
->Location (updated October 16, 1748): sea elf village, Quanyi, [[Eastern Green Sea]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Based in: [[Wahacha]], [[Vermillion Isles]], [[Eastern Green Sea]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern Green Sea with his partner, Skoda. 
 
