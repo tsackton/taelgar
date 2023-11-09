@@ -7,15 +7,22 @@ gender: male
 born: 
 died: 
 affiliations: 
-origin:
-originRegion: Ainumarya
 aliases: []
 tags: [PC/DunmarFrontier]
 campaign: "The Dunmar Fellowship"
+title:
+family:
 player: "Mike Sackton"
 yearOverride: 
+whereabouts:
+     - { date: , place: "Ainumarya", region: West Coast Region, type: origin }
 ---
 # Delwath
+>[!info]+ Biographical Summary
+>elf, he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Originally from: [[Ainumarya]], West Coast Region
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 ![[delwath-portrait.jpg]]
 

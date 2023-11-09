@@ -6,24 +6,21 @@ ancestry: Tyrwinghan
 gender: male
 born: 1697
 died: 
-location: Taviose
-locationRegion: Sembara
-origin: Clawyn
-originRegion: Tyrwingha
 affiliations: 
 aliases: []
 tags: [PC/Cleenseau]
 campaign: Cleenseau
 player: Kiya Nicoll
-yearOverride: 
+whereabouts:
+     - { date: 1697-01-01, place: "Clawyn", region: Tyrwingha, type: origin }
+     - { date: 1720-01-06, place: "Cleenseau", region: Sembara, type: excursion }
 ---
 # Celyn
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Tyrwinghan), he/him
->b. 1697
->22 years old
->Originally from: [[Clawyn]], [[Tyrwingha]]
->Location (updated October 21, 1719): Taviose, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Originally from: [[Clawyn]], [[Tyrwingha]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 Celyn is a slightly short, pale, blond young human man, probably in his early twenties, with quick hands and a wide, open blue-eyed attention.  His demeanor is generally cheerful if perhaps a bit naive; he appears to be amiably accepting of a number of the foibles of other people around him where someone else might make comment.  Perhaps this is related to the way he is utterly unapologetic about his own quirks, which are reasonably numerous and include frequent references to luck and good fortune, current objects of his apparently infinite curiosity, and off-the-wall commentary.  He does not make eye contact but is very clearly attentive to conversations he’s in; he has small brief rituals that he does when drinking wine.  
   

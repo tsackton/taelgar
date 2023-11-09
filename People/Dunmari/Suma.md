@@ -6,24 +6,21 @@ ancestry: Dunmari
 gender: female
 born: 1707
 died: 
-location: Karawa
-locationRegion: "Eastern Dunmar"
-home: Karawa
-homeRegion: "Eastern Dunmar"
-origin:
-originRegion:
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
+whereabouts:
+     - { date: 1707-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
 ---
 # Suma
 >[!info]+ Biographical Summary
 >human (Dunmari), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->Based in: [[Karawa]], [[Eastern Dunmar]]
-
->Location (updated November 15, 1748): Karawa, [[Eastern Dunmar]]
+>> Based in: [[Karawa]], [[Eastern Dunmar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 The priestess of the temple of [[The Five Siblings|The Five Siblings]] in [[Karawa]], a small institution often overshadowed by the [[Temple of Shakun]], but nonetheless an important focus of civic life and civil administration for the Karawa region. 
 

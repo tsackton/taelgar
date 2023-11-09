@@ -6,23 +6,21 @@ ancestry: Tyrwinghan
 gender: male
 born: 1700
 died: 
-location: Taviose
-locationRegion: Sembara
-origin: Abenfyrd
-originRegion: Tyrwingha
 affiliations: 
 campaign: "Cleenseau"
 player: "Dan Walters"
 aliases: [Robin]
 tags: [PC/Cleenseau]
+whereabouts:
+     - { date: 1700-01-01, place: "Abenfyrd", region: Tyrwingha, type: origin }
+     - { date: 1719-10-19, place: "Cleenseau", region: Sembara, type: excursion }
 ---
 # Robin of Abenfyrd
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >human (Tyrwinghan), he/him
->b. 1700
->19 years old
->Originally from: [[Abenfyrd]], [[Tyrwingha]]
->Location (updated October 21, 1719): Taviose, [[Sembara]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Originally from: [[Abenfyrd]], [[Tyrwingha]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 Robin of Abenfyrd is a young man of about twenty, a paladin of [[The Wanderer]], and hails from [[Tyrwingha]]. He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a [[Lantern of the Bright Hearth|small lantern]] on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) for that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays
 
