@@ -27,7 +27,10 @@ whereabouts:
 >[!info]+ Biographical Summary
 >human (Chardonian), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> Originally from: [[Chardon]], [[Chardonian Empire]]
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>>%%^Campaign:DuFr%% Last seen by The Side Quests at October 23rd, 1748: [[Hamri]], [[Mawakel Peninsula]] %%^End%%
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 

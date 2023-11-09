@@ -19,7 +19,8 @@ whereabouts:
 >[!info]+ Biographical Summary
 >human (Dunmari), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> Based in: unknown, [[Central Dunmar]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 The commander of the eastern Dunmari army in Tokra during and after the [[Second Hobgoblin War]]. Involved in [[The Exile of Fraternity of the Empty Moon]]. 
 

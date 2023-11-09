@@ -22,7 +22,10 @@ whereabouts:
 >[!info]+ Biographical Summary
 >human (Chardonian), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> Originally from: [[Darba]], [[Western Dunmar]]
+>> Based in: [[Voltara]], [[Chardonian Empire]]
+>>%%^Campaign:DuFr%% Last seen by The Side Quests at August 26th, 1748: [[Voltara]], [[Chardonian Empire]] %%^End%%
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 
 An archivist with the Great Library, responsible for arranging adventuring expeditions to recover magic, knowledge, and treasure. Spend considerable time in the north of the [[Chardonian Empire]].
