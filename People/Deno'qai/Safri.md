@@ -12,7 +12,7 @@ family:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 whereabouts:
-     - { date: 1720-01-06, place: "forest valleys of the north", region: Sentinel Range, type: excursion }
+     - { date: 1748-10-25, place: "forest valleys of the north", region: Sentinel Range, type: excursion }
 ---
 # Safri
 >[!info]+ Biographical Summary

@@ -6,24 +6,22 @@ ancestry: Islander
 gender: female
 born: 1700
 died: 
-location: "sea elf village, Quanyi"
-locationRegion: "Eastern Green Sea"
-home: "Wahacha, Vermillion Isles"
-homeRegion: "Eastern Green Sea"
-origin:
-originRegion:
 affiliations: 
+title:
+family:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
+whereabouts:
+     - { date: 1700-01-02, place: "Wahacha, Vermillion Isles", region: Eastern Green Sea, type: home }
+     - { date: 1748-10-14, place: "sea elf village, Quanyi", region: Eastern Green Sea, type: excursion }
 ---
 # Skoda
->[!info]+ Basic information
+>[!info]+ Biographical Summary
 >kenku (Islander), she/her
->b. 1700
->48 years old
->Based in: [[Wahacha]], [[Vermillion Isles]], [[Eastern Green Sea]]
->Location (updated November 15, 1748): sea [[Elves]] village, [[Quanyi]], [[Eastern Green Sea]]
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>> Based in: [[Wahacha]], [[Vermillion Isles]], [[Eastern Green Sea]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A kenku woman in late middle age, who travels the islands of the [[Eastern Green Sea]] with her partner [[Nahto]]. She is fey-touched and has a hint of magic about her. 
 

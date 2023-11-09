@@ -13,7 +13,7 @@ campaign: Cleenseau
 player: Kiya Nicoll
 whereabouts:
      - { date: 1697-01-01, place: "Clawyn", region: Tyrwingha, type: origin }
-     - { date: 1720-01-06, place: "Cleenseau", region: Sembara, type: excursion }
+     - { date: 1719-10-17, place: "Cleenseau", region: Sembara, type: excursion }
 ---
 # Celyn
 >[!info]+ Biographical Summary
