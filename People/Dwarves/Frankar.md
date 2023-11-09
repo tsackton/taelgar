@@ -15,13 +15,15 @@ aliases: []
 tags: [NPC/DuFr/met_one, NPC/DuFr/minor]
 yearOverride: 
 whereabouts:
-     - { date: 1714-01-01, place: "Darakan, Khatridun", region: "Sentinel Range"}
+     - { date: 1714-01-01, place: "Darakan, Khatridun", region: "Sentinel Range", type: origin }
+     - { date: 1730-01-01, place: "unknown", region: "unknown", type: excursion }
 ---
 # Frankar
 >[!info]+ Biographical Summary
 >dwarf, he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.configDir +  "/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> Originally from: Darakan, [[Khatridun]], [[Sentinel Range]]
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A dwarf from the city of Darakan, in the kingdom of [[Khatridun]], fascinated with mechanical devices and runic magic. 
 %%^Date:1730%%

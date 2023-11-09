@@ -18,6 +18,7 @@ whereabouts:
   - date: 0001-01-02
     place: Chardon
     region: Chardonian Empire
+    type: home 
   - date: 1748-11-15
     place: somewhere in Dunmar
     region: Dunmar
