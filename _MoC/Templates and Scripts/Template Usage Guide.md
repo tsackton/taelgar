@@ -118,7 +118,7 @@ The home, homeRegion, origin, originRegion, location, and locationRegion element
 >[!Tip]
 >If you rerun the process-note template after setting a born date it will fixup any whereabouts that still have 0001-years
 
-#### Generating Headers
+#### Generating Headers (OBSOLETE)
 The whereabouts is turned into a header via the get_Whereabouts DataView view script. This generates between 0 and 4 headers:
 
 * A "Based in" line using the last whereabout value before the current fantasy calendar date that is not an excursion 

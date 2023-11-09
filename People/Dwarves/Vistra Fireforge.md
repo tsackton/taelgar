@@ -21,9 +21,11 @@ whereabouts:
 ---
 # Vistra Fireforge
 >[!info]+ Biographical Summary
->unknown species, they/them
+>dwarf, she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.getRoot().path + ".obsidian/taelgarConfig.json"), "prefix": ">", "suffix":""})`
+>> Originally from: [[Tharn Todor]], [[Nardith]]
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler thuhr and originally from [[Nardith]]. She was born after the [[Events/1500s/Great War]] and has always been eager to work with humans. She is charming and pleasant enough, but perhaps not that bright and she sometimes makes mistakes in her trades, although she rarely wants to believe it.
 
