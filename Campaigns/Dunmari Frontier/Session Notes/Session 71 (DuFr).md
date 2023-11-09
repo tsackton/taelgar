@@ -10,21 +10,9 @@
 
 Start: afternoon, Dec 5th
 End: late evening, Dec 5th
-
-#### [[Eudomes' Mirror]]
- - **2 Dec 1748: [[Eudomes' Mirror]] is available to use**
-
-#### Divine Inspiration
-- **28 Nov 1748: [[Riswynn]]'s Divine Intervention is available again to attempt.**
-
 ## Timeline
 
-- 2 Dec 1748: [[Riswynn]] asks the Baharazel about their chosen course of action; [[Delwath]]'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [[Kenzo]] and [[Seeker]] alternating piloting; fly 22 hours
-- 3 Dec 1748: Continue flying east, [[Kenzo]] and [[Seeker]] alternating over 22 hours
-- 4 Dec 1748: See at the edge of the [[Orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light. Overfly kingdom of [[Xurkhaz]], scouting. Speak with [[Vorgaz]], commander of a fort on the western border, then fly through the night to [[Uzgukhar]], the capital. Scry on [[Govir]] and Ulfgar to gather their research on the way. 
-- 5 Dec 1748: Arrive at [[Uzgukhar]] early in the morning. Land, leaving [[Seeker]] in charge of [[Vindristjarna]]. Wait for hours for an audience with the Chief. Speak with Chief [[Lubash]] and his advisors. Give General [[Murook]] and Loremaster [[Azogar]] tour of skyship. Dinner and conversation with [[Lubash]]. Plan for possible attack from [[Kadmos]] and company. [[Kenzo]] receives [[Lakan Monk Letter]].
-
-- *11 Dec 1748: [[Govir]] will be open to being scried with more research notes at sunset* 
+- (DR:: 1748-12-05): *(afternoon)* Give General [[Murook]] and Loremaster [[Azogar]] tour of skyship. Dinner and conversation with [[Lubash]]. Plan for possible attack from [[Kadmos]] and company. [[Kenzo]] receives [[Lakan Monk Letter]].
 
 ## Narrative
 

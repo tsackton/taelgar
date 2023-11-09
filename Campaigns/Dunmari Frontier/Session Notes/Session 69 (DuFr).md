@@ -19,18 +19,12 @@ End: early morning, Dec 4th
 
 ## Timeline
 
-- **25 Nov 1748**: Work on skyship. Convert [[Delwath]]'s shield to an adamantine harness to hold phasing stone.
-- **26 Nov 1748:** Work on skyship, finishing the stone helm on which the phasing stone will be mounted; scry on [[Kharsan]], [[Kadmos]].
-- **27 Nov 1748:** Work on skyship, converting gold and silver to wire to construct the channeling device. Meet [[Alesh]]; speak with her about events in [[Dunmar]] and give her letter and sending stone for [[Sura]]. Sending with Ulfgar and [[Govir]], who both agree to do research.
-- **28 Nov 1748:** Continue to work on the channeling device; scry [[Kharsan]] and see army leaving. [[Seeker]] dreams of shadow hunter threatening that he is coming.
-- **29 Nov 1748:** Finish work on [[Vindristjarna]]. [[Seeker]] attunes to the phasing stone, begins to practice flying. Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [[Kenzo]] unconscious and attempts to flee with him.
-- 30 Nov 1748: [[Seeker]] spends the day learning to control and fly [[Vindristjarna]], while the rest of the party prepares for the journey east.
-- 1 Dec 1748: [[Kenzo]] attunes to the phasing stone and spends the day learning to control and fly [[Vindristjarna]]; speak with [[Sura]] via Sending Stone
-- 2 Dec 1748: [[Riswynn]] asks the Baharazel about their chosen course of action; [[Delwath]]'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [[Kenzo]] and [[Seeker]] alternating piloting; fly 22 hours
-- 3 Dec 1748: Continue flying east, [[Kenzo]] and [[Seeker]] alternating over 22 hours
-- 4 Dec 1748: See at the edge of the [[Orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light.
-
-- *4 Dec 1748: [[Govir]] and Ulfgar will be open to being scried with research notes at sunset* 
+- (DR:: 1748-11-29): *(midnight)* Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [[Kenzo]] unconscious and attempts to flee with him.
+- (DR:: 1748-11-30): [[Seeker]] spends the day learning to control and fly [[Vindristjarna]], while the rest of the party prepares for the journey east.
+- (DR:: 1748-12-1): [[Kenzo]] attunes to the phasing stone and spends the day learning to control and fly [[Vindristjarna]]; speak with [[Sura]] via Sending Stone
+- (DR:: 1748-12-2): [[Riswynn]] asks the Baharazel about their chosen course of action; [[Delwath]]'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [[Kenzo]] and [[Seeker]] alternating piloting; fly 22 hours
+- (DR:: 1748-12-3): Continue flying east, [[Kenzo]] and [[Seeker]] alternating over 22 hours
+- (DR:: 1748-12-4): See at the edge of the [[Orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light.
 
 ## Narrative
 

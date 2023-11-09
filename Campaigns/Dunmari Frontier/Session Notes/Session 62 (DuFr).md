@@ -34,7 +34,7 @@ Delwath's Rumor Gathering:
 
 ## Timeline
 
-**Nov 15 1748**: [[Wellby]], [[Seeker]], and [[Kenzo]] exit [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]] at sunset, meet [[Delwath]] and [[Riswynn]].
+- (DR:: 1748-11-15): [[Wellby]], [[Seeker]], and [[Kenzo]] exit the [[Feywild]] at sunset, and are reunited with  [[Delwath]] and [[Riswynn]].
 
 ## Narrative
 

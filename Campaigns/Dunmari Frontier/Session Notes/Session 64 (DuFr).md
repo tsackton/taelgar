@@ -15,18 +15,12 @@ tags: [DuFr]
 Start: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormcaller Tower]]
 End: 23 Nov 1748, evening, in Hralgar's dreamscape
 
-#### [[Eudomes' Mirror]]:
-***23 Nov 1748: [[Eudomes' Mirror]] recharges.***
-
-#### Divine Inspiration
-- 28 Nov 1748: *[[Riswynn]]'s Divine Intervention will be available again to attempt.*
-
 #### Character Advancement
 - [[Seeker]], struck full on by a magical lightning blast in [[Hralgar]]'s storm, infused with the giant's magic, learned the Shocking Grasp cantrip while nearly being fried to death. 
 
 ## Timeline
 
-- **23 Nov 1748**: Arrive at [[Stormcaller Tower]] mid-afternoon, spend time planning and scouting with spells. Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. 
+- (DR:: 1748-11-23): *(late afternoon)* Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. 
 
 ## Narrative
 

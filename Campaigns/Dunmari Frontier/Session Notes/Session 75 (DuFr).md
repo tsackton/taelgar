@@ -12,19 +12,18 @@ Start: morning, Dec 17th
 End: mid-morning, Dec 25th
 
 #### [[Eudomes' Mirror]]
- - 23 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
- - *30 Dec 1748: [[Eudomes' Mirror]] available again*
+ - (DR: 1748-12-23): Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
 
 ## Timeline
-- 17 Dec 1748: Speak with [[Melindir]]; then meet [[Iskra]] at the Temple of [[Kaikkea]]. Meet Nika at [[The Windward Sail]], who takes party to [[Umli]] and then [[Caelynn]]. Speak with [[Umli]]; speak with [[Caelynn]]. [[Kenzo]] returns to speak with [[Iskra]] for the afternoon. 
-- 18 Dec 1748. [[Kenzo]] gets tattoo (2000 gp) and collects Cecilia's story. [[Delwath]] spend another 250 gp on furniture in the morning. Party leaves north on the skyship. 
-- 19 Dec 1748: Fly north and east towards [[Skaerhem|Skaer Islands]]
-- 20 Dec 1748: Fly north and east towards  [[Skaerhem|Skaer Islands]]
-- 21 Dec 1748: Meet [[Skalme]] on [[Antaka]], learn about how to destroy the [[Scepter of Command]]. Arrive at [[Pyhlla]], talk to [[Vaallinen]], learn about [[Urgall the Black]]. Talk to [[Tulvak]] about the raid. 
-- 22 Dec 1748: Blessed by [[Kaikkea]] at dawn. Fly to island. Scout, find lava tube. Enter under the temple complex. Surprise [[Urgall the Black|Urgall]] and kill him. Attack demonic entity corrupting the waters, kill it. Rest. 
-- 23 Dec 1748: Kill the undead hordes remaining. Search the island, return treasure to rightful place, clean up and lay out bodies. Loot pirate ship. Use mirror on Urgall's helm. 
-- 24 Dec 1748: Place the [[Scepter of Command]] in the sacred waters. Stand guard, not sleeping, for 24 hours. 
-- 25 Dec 1748: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
+- (DR:: 1748-12-17): *(afternoon)* Meet [[Iskra]] at the Temple of [[Kaikkea]]. Meet Nika at [[The Windward Sail]], who takes party to [[Umli]] and then [[Caelynn]]. Speak with [[Umli]]; speak with [[Caelynn]]. [[Kenzo]] returns to speak with [[Iskra]] for the afternoon. 
+- (DR:: 1748-12-18): [[Kenzo]] gets tattoo (2000 gp) and collects Cecilia's story. [[Delwath]] spend another 250 gp on furniture in the morning. Party leaves north on the skyship. 
+- (DR:: 1748-12-19): Fly north and east towards [[Skaerhem|Skaer Islands]]
+- (DR:: 1748-12-20): Fly north and east towards  [[Skaerhem|Skaer Islands]]
+- (DR:: 1748-12-21): Meet [[Skalme]] on [[Antaka]], learn about how to destroy the [[Scepter of Command]]. Arrive at [[Pyhlla]], talk to [[Vaallinen]], learn about [[Urgall the Black]]. Talk to [[Tulvak]] about the raid. 
+- (DR:: 1748-12-22): Blessed by [[Kaikkea]] at dawn. Fly to island. Scout, find lava tube. Enter under the temple complex. Surprise [[Urgall the Black|Urgall]] and kill him. Attack demonic entity corrupting the waters, kill it. Rest. 
+- (DR:: 1748-12-23): Kill the undead hordes remaining. Search the island, return treasure to rightful place, clean up and lay out bodies. Loot pirate ship. Use mirror on Urgall's helm. 
+- (DR:: 1748-12-24): Place the [[Scepter of Command]] in the sacred waters. Stand guard, not sleeping, for 24 hours. 
+- (DR:: 1748-12-25): Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
 
 ## New Treasure
 - The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state

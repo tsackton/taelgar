@@ -13,16 +13,12 @@ Start: just after sunset, Nov 23rd 1748
 End: mid-morning, Nov 24th 1748
 
 #### [[Eudomes' Mirror]]:
- - 24 Nov 1748: [[Eudomes' Mirror]] used to look at the Enchiridion of the [[Occulta Ludum]].
- - 2 Dec 1748: *Eudomes' Mirror will recharge again*
-
-#### Divine Inspiration
-- 28 Nov 1748: *[[Riswynn]]'s Divine Intervention will be available again to attempt.*
+- (DR:: 1748-11-24): [[Eudomes' Mirror]] used to look at the Enchiridion of the [[Occulta Ludum]]. (recharge:: mirror)
 
 ## Timeline
 
-- **23 Nov 1748**: Arrive at [[Stormcaller Tower]] mid-afternoon, spend time planning and scouting with spells. Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. Fight Hraglar's storm-crazed ghost duplicate. Free Hraglar from his chains, watch as he destroys the tower and the statue of his bust. Sit with [[Hralgar]] for the evening, talking. 
-- **24 Nov 1748:** The party says goodbye to [[Hralgar]] and receives his wind blessing, allowing them to travel quickly as clouds to his ruined palace in the mountains. Scout, and find dark shadows boiling out of the basement, and a icy structure on the main floor. Parlay with an ice maiden, until she brags of freezing travelers on the passes and [[Wellby]] shoots. Defeat her ice maiden form, and then crush her heart of ice and crystal, destroying her. 
+- (DR:: 1748-11-23): *(night)* Listen to Hralgar's stories into the night
+- (DR:: 1748-11-24): The party says goodbye to [[Hralgar]] and receives his wind blessing, allowing them to travel quickly as clouds to his ruined palace in the mountains. Scout, and find dark shadows boiling out of the basement, and a icy structure on the main floor. Parlay with an ice maiden, until she brags of freezing travelers on the passes and [[Wellby]] shoots. Defeat her ice maiden form, and then crush her heart of ice and crystal, destroying her. 
 
 ## Narrative
 

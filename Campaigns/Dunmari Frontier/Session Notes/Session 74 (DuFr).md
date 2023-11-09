@@ -3,27 +3,21 @@
 
 **In the real world:** July 27, 2023
 **In Taelgar:**  Dec 10th, 1748 - Dec 17th, 1748
-
 ## Summary
 
 ## Notes and Information
 
 Start: early afternoon, Dec 10th
 End: morning, Dec 17th
-
-#### [[Eudomes' Mirror]]
- - **16 Dec 1748: [[Eudomes' Mirror]] is available to use**
-
 ## Timeline
-- 10 Dec 1748: Leave Uzgukhar, flying north on [[Vindristjarna]]
-- 11 Dec 1748: Fly north, high over the [[Plaguelands]]
-- 12 Dec 1748: Fly over [[Isingue]]; descend to investigate, attacked by some kind of acidic ooze
-- 13 Dec 1748: Reach [[Mostreve Hills]]; fly over [[Tyrwingha]]
-- 14 Dec 1748: Reach [[Western Gulf]]; [[Kenzo]] communes with the ocean life
-- 15 Dec 1748: Fly across [[Western Gulf]]
-- 16 Dec 1748: Arrive in [[Tollen]]; split up and speak with various people; spend the night at *[[The Windward Sail]]*
-- 17 Dec 1748: Speak with [[Melindir]]
-
+- (DR:: 1748-12-10): Leave Uzgukhar, flying north on [[Vindristjarna]]
+- (DR:: 1748-12-11): Fly north, high over the [[Plaguelands]]
+- (DR:: 1748-12-12): Fly over [[Isingue]]; descend to investigate, attacked by some kind of acidic ooze
+- (DR:: 1748-12-13): Reach [[Mostreve Hills]]; fly over [[Tyrwingha]]
+- (DR:: 1748-12-14): Reach [[Western Gulf]]; [[Kenzo]] communes with the ocean life
+- (DR:: 1748-12-15): Fly across [[Western Gulf]]
+- (DR:: 1748-12-16): Arrive in [[Tollen]]; split up and speak with various people; spend the night at *[[The Windward Sail]]*
+- (DR:: 1748-12-17): *(morning)* Speak with [[Melindir]]
 ## Narrative
 
 We begin as the party departs [[Uzgukhar]], north to find a volcano in which to destroy the [[Scepter of Command]]. Flying nearly 24 hours, the party covers more than 200 miles per day. The first three days are spend crossing the [[Plaguelands]], including a brief flyover of [[Isingue]], a ruined trading city south of [[Sembara]]. In [[Isingue]], [[Seeker]] brings the ship lower, noting that the entire ground of the city seems to be teeming with a strange black squirming mold. Which attacks, launched a black globule of acidic ooze that begins to burn through the stone of the ship, until it is burned out by [[Wellby]].

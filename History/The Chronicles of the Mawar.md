@@ -1,3 +1,7 @@
+---
+tags:
+  - "#event-source"
+---
 # Before the Great War
 Before DR 1545
 
@@ -13,22 +17,25 @@ The Mawakel peninsula was always a lightly populated and insular place. Largely 
 This was a time of endless foggy mists, and dangers as fishing boats were lost, and even with the fogs, some [[Orcs]] and whatnot made it into the hills. The interior of the peninsula suffered the most -- between the endless grey, and the dangers that did penetrate -- and few of the small communities nestled amongst the pine forests emerged from this time intact. 
 ###
 
-* DR 1545: The [[Grand Conclave of Mawakel]] between the Mawar and the salt lizardfolk meets, and undertakes a great magic to hide the land, and summoned the [[Fog of Mawar|great fog]] to protect the peninsula.
-* DR 1590, spring: Rumors of recovery in the south spread, and the [[Grand Conclave of Mawakel|conclave]] meets for the the second time, and agress to allow the [[Fog of Mawar|mists]] to disperse
-* DR 1590, summer: The first trade ships depart Mawar.
+* (DR:: 1545): The [[Grand Conclave of Mawakel]] between the Mawar and the salt lizardfolk meets, and undertakes a great magic to hide the land, and summoned the [[Fog of Mawar|great fog]] to protect the peninsula.
+* (DR:: 1590), spring: Rumors of recovery in the south spread, and the [[Grand Conclave of Mawakel|conclave]] meets for the the second time, and agress to allow the [[Fog of Mawar|mists]] to disperse
+* (DR:: 1590), summer: The first trade ships depart Mawar.
 
 # The Mawar Renaissance
 DR 1594 - 1675
 ### Overview
 The four generations following the emergence of the Mawakel peninsula from the hidden mists are now often referred to as the the “golden age of Mawar,” dated by most chroniclers from the first (re)contact with Chardon, in 1594. This was a period of propensity and growth, as the stagnating population boomed, and traditions from before the war saw a resurgence. Much can be said of the exploits of the Mawar during these golden years. This is the height of the "classical" Mawar culture and a lot of "traditionalist" in the modern period would harken back to this time. Ocean watchers and towers are built during this time, and perhaps it is when a lot of the guild halls were built, and so on. Whether it is luck, or Chardon's actions, or the lingering effects of the mists, very few 'big bad' things come into the Mawalek during this period. Perhaps everything is focused southward, trying to beat Chardon. Or perhaps it really is just luck, or perhaps some kind of secret supernatural blessing. 
 ###
-* DR 1594: The first (re) contact with Chardon after the Great War.
+* (DR:: 1594): The first (re) contact with Chardon after the Great War.
 
 # The Mindknife Wars
 DR 1675 - 1685
 
 ### Overview
 Something bad is loose in the north, and Mawar bears the brunt of it. This scars a generation and ends the renaissance. %% (ala WW1 and the gilded age of Europe)%%
+
+- (DR:: 1675): [[The Mindknife War]] begins in Mawar
+- (DR:: 1685): [[The Mindknife War]] ends in Mawar
 
 # Retrenchment
 DR 1685 - 1745
