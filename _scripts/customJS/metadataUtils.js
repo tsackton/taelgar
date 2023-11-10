@@ -95,18 +95,20 @@ class metadataUtils {
     }
 
     get_Location (place) {
+        
         if (place == undefined) return "";        
         if (place.region == undefined && place.place == undefined) return this.get_LocationFromPieces("", place)
+       
         return this.get_LocationFromPieces(place.place, place.region)
     } 
 
     get_LocationFromPieces (place, region) {
-    
         // construct variables //
-        loc = place
-        locRegion = region
+        let loc = place
+        let locRegion = region
+        let locArray = []
     
-        if (loc) {
+        if (loc) {            
             if (locRegion) {
                 locArray = loc.split(',')
                 locArray.push(locRegion)
@@ -123,9 +125,9 @@ class metadataUtils {
         }
     
         let locArrayValues = locArray.map(function(f) {
-            pieceValue = f.trim();
+            let pieceValue = f.trim();
 
-            file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
+            let file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
             if (file != undefined) { return "[[" + pieceValue + "]]";  }
             return pieceValue;
         });
