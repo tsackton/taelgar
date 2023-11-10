@@ -174,7 +174,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
             }   
         }
 
-        ["home", "homeRegion", "location", "locationRegion", "originRegion"].forEach(element => {
+        ["home", "homeRegion", "location", "locationRegion", "originRegion", "origin"].forEach(element => {
             var index = currentContents.findIndex(s => s.startsWith(element + ":"));            
             if (index > 0) {
                 console.log(`Found ${element}: element to remove at index ${index}`);
