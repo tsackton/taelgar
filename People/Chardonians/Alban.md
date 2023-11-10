@@ -5,15 +5,20 @@ species: human
 ancestry: Chardonian
 gender: male
 born: 1719
-died: 1748
-title:
-family:
-affiliations: ["Society of the Open Scroll"]
-aliases: []
-tags: [NPC/DuFr/aware, NPC/DuFr/minor]
+died: 1748-03-18
+title: 
+family: 
+affiliations:
+  - Society of the Open Scroll
+aliases: 
+tags:
+  - NPC/DuFr/aware
+  - NPC/DuFr/minor
 whereabouts:
-     - { date: 1719-01-02, place: "Chardon", region: Chardonian Empire, type: home }
-     - { date: 1748-11-23, place: "deceased", region: Eastern Dunmar, type: excursion }
+  - date: 1719-01-02
+    place: Chardon
+    region: Chardonian Empire
+    type: home
 ---
 # Alban
 >[!info]+ Biographical Summary
