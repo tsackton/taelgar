@@ -8,10 +8,12 @@ All dates are (currently) able to be specified in one of three formats:
 Note that in frontmatter, specifying YYYY-MM and YYYY-MM-01 are identical. If you want to indicate that the day is unknown, set the date as YYYY-MMx
 YYYY compares as YYYY-01-01 for start and YYYY-12-31 for end, i.e. a death of 1728 = 1728-12-31 whereas a birth of 1728 = 1728-01-01
 
+See also [[Formatting]]
+
 The dates supported are:
 
-* born, created, founded, built: these are used to determine at what point the page started to exist. If the page has a type, then only the type value will be used. Otherwise, the order here is searched and the first defined one used.
-* died, destroyed: these are used to determine at what point the page ceased to exist. If the page has a type, then only the type value will be used. Otherwise, the order here is searched and the first defined one used.
+* born, created: these are used to determine at what point the page started to exist. If the page is a Ruler, PC, or NPC, born will be used. Otherwise created.
+* died, destroyed: these are used to determine at what point the page ceased to exist. If the page a Ruler, PC, or NPC, died will be used. Otherwise, destroyed
 * reignStart: For rulers only. When their reign started
 * reignEnd: For rulers only. When their reign ended
 * pageTargetDate: Used to define the "current year" for this page, mostly for debugging
@@ -19,7 +21,7 @@ The dates supported are:
 Logically, we can turn these into the following outputs:
 
 * Page Target Date: If pageTargetDate is true, use that. Otherwise use the current Fantasy Calendar date
-* Page Existence Date: The born, created, founded, or built date, if set, undefined otherwise
+* Page Existence Date: The born or created date, if set, undefined otherwise
 * Page End Date: The died or destroyed date, if set, undefined otherwise
 ### get_PageDatedValue
 
