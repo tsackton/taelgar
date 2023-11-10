@@ -6,6 +6,7 @@ ancestry: Deno'qai
 gender: female
 born: 1674
 title: 
+origin: {  place: Shu'anra village, region: Forest of Dreams }
 family: 
 died: 
 affiliations: 
@@ -15,26 +16,16 @@ tags:
   - NPC/DuFr/met
   - event-source
 whereabouts:
-  - date: 1674-01-01
-    place: Shu'anra village
-    region: Forest of Dreams
-    type: origin
-  - date: 1674-01-02
-    place: Te'kula village
+  - place: Te'kula village
     region: Elderwood
     type: home
-  - date: 1749-01-01
-    place: Te'kula village
-    region: Elderwood
-    type: excursion
 ---
 # Ariel
 >[!info]+ Biographical Summary
->[[Humans|human]] ([[Deno'qai]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Shu'anra]] village, [[Forest of Dreams]]
->> Based in: [[Te'kula]] village, [[Elderwood]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Deno'qai|Deno'qai]]), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> Originally from: Shu'anra village, [[Forest of Dreams]]
+>> Based in: Te'kula village, [[Elderwood]]
 
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the Meswati and the [[Great War]]
 
