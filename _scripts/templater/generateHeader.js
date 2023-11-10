@@ -1,3 +1,23 @@
+function get_Pronouns(metadata) {
+        
+    // if pronouns are defined in note metadata, use those
+
+    if (metadata.pronouns) {
+        return metadata.pronouns
+    }
+
+    // otherwise calculate pronouns from note metadata gender
+    
+    if (metadata.gender == "male") {
+        return "he/him"
+    } else if (metadata.gender == "female") {
+        return "she/her"
+    } 
+
+    // if no gender or nonbinary, use they/them pronouns
+    return "they/them"
+}
+
 async function generateHeader(tp) {
 
     const { metadataUtils } = customJS
@@ -8,9 +28,7 @@ async function generateHeader(tp) {
     let metadata = JSON.parse(metadataFile);
 
 
-    if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler" || tp.frontmatter.type == "PC") {
-        let isHistorical = metadata.historicalYear && tp.frontmatter.died && metadataUtils.parse_date_to_events_date(tp.frontmatter.died).year < metadata.historicalYear;
-
+    if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler" || tp.frontmatter.type == "PC") {   
         let ancestryDisplayValue = ""
         let speciesDisplayValue = ""
 
@@ -38,67 +56,43 @@ async function generateHeader(tp) {
             }
         }
 
-        let pronounDisplayValue = ", " + metadataUtils.get_Pronouns(tp.frontmatter)
+        let pronounDisplayValue = ", " + get_Pronouns(tp.frontmatter)
         let locationDisplay = "";
-
-        if (tp.frontmatter.origin) {
-            if (tp.frontmatter.whereabouts && tp.frontmatter.whereabouts.filter(w => w.type == "home").length > 0) {
-                locationDisplay = "\n>> Originally from: " + metadataUtils.get_Location(tp.frontmatter.origin);
-            }
-            else {
-                locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
-            }
-        }
 
         // get home and origin // 
         if (tp.frontmatter.whereabouts) {
+            locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
 
-            let homeCount = tp.frontmatter.whereabouts.filter(w => w.type == "home").length;
-            if (homeCount > 0) {
-                locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
-            }    
-
-            if (tp.frontmatter.whereabouts.filter(w => w.date != undefined).length > 0) {
-                locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";
-            }
-        }
-
-        if (tp.frontmatter.lastSeenByParty) {
-            tp.frontmatter.lastSeenByParty.filter(e => e.prefix != undefined && e.date != undefined).forEach(element => {
-
-                let whereAboutsArray = [];
-                if (tp.frontmatter.origin)
-                {
-                    if (tp.frontmatter.origin.place || tp.frontmatter.origin.region) 
-                    {
-                        whereAboutsArray.push({date: "0001-01-1", place: tp.frontmatter.origin.place, region: tp.frontmatter.origin.region, type: "home" })
-                    }
-                    else
-                    {
-                        whereAboutsArray.push({date: "0001-01-1", place: tp.frontmatter.origin, type: "home" })
-                    }
-                }
-                if (tp.frontmatter.whereabouts) {
-                    for (w of tp.frontmatter.whereabouts) {
-                        if (w.date != undefined) {
-                            whereAboutsArray.push(w)
+            if (tp.frontmatter.lastSeenByPartyX) {
+                tp.frontmatter.lastSeenByParty.filter(e => e.prefix != undefined && e.date != undefined).forEach(element => {
+    
+                    let whereAboutsArray = [];
+    
+                    if (tp.frontmatter.whereabouts) {
+                        for (w of tp.frontmatter.whereabouts) {
+                            if (w.date != undefined) {
+                                whereAboutsArray.push(w)
+                            }
                         }
                     }
-                }
-
-                let loc = whereAboutsArray.findLast(s => s.date != undefined && metadataUtils.parse_date_to_events_date(s.date).sort <= metadataUtils.parse_date_to_events_date(element.date).sort);                
-                let partyName = "the party";
-                let campaignData = metadata.campaigns;
-                if (campaignData) {
-                    let thisCampaign = campaignData.find(search => search.prefix == element.prefix);
-                    if (thisCampaign) partyName = thisCampaign.partyName;
-                }
-                if (loc != undefined) {
-                    locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${metadataUtils.parse_date_to_events_date(element.date).display}: ${metadataUtils.get_Location(loc)} %%^End%%`;
-                }
-            });
+    
+                    let loc = whereAboutsArray.findLast(s => s.date != undefined && metadataUtils.parse_date_to_events_date(s.date).sort <= metadataUtils.parse_date_to_events_date(element.date).sort);                
+                    let partyName = "the party";
+                    let campaignData = metadata.campaigns;
+                    if (campaignData) {
+                        let thisCampaign = campaignData.find(search => search.prefix == element.prefix);
+                        if (thisCampaign) partyName = thisCampaign.partyName;
+                    }
+                    if (loc != undefined) {
+                        locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${metadataUtils.parse_date_to_events_date(element.date).display}: ${metadataUtils.get_Location(loc)} %%^End%%`;
+                    }
+                });
+            }
+    
+            locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";            
         }
 
+     
         // return string //
         let nameString = tp.frontmatter.name;
         if (tp.frontmatter.title) {

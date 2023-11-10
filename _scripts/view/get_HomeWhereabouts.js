@@ -11,28 +11,38 @@ function get_HomeWhereabouts(metadata) {
    
     const { metadataUtils } = customJS
    
-    let current = metadataUtils.get_currentEventsDate();
+    let current = metadataUtils.get_pageEventsDate(metadata);
+    let pageExist = metadataUtils.get_existEventsDate(metadata)
+    let pageEnd = metadataUtils.get_endEventsDate(metadata);
+
+    if (pageExist && current.sort < pageExist.sort) return "";
+
+    let pageIsEnded = pageEnd && pageEnd.sort < current.sort;
 
     if (metadata.whereabouts) {
 
-        let home = metadata.whereabouts.findLast(s => (s.date == undefined || metadataUtils.parse_date_to_events_date(s.date).sort <= current.sort) && s.type === "home");
-        if (home && (home.place || home.region)) {
+        let origin = metadataUtils.get_originWhereabouts(metadata);
+        let home =  metadataUtils.get_homeWhereabouts(metadata, current);
 
-            if (metadata.died && (metadataUtils.parse_date_to_events_date(metadata.died).sort < metadataUtils.get_pageEventsDate(metadata).sort)) {
-                return "Lived in: " + metadataUtils.get_Location(home) + "\n";
-            }
+        let showOrigin = origin && ( !home || origin.location != home.location)
+        let showHome = home;
 
-            return "Based in: " + metadataUtils.get_Location(home) + "\n";
-        } 
-    }
+        let displayString = "";
 
-    if (metadata.origin) {
-          
-        if (metadata.died && (metadataUtils.parse_date_to_events_date(metadata.died).sort < metadataUtils.get_pageEventsDate(metadata).sort)) {
-            return "Lived in: " + metadataUtils.get_Location(metadata.origin) + "\n";
+        if (showOrigin) {
+            displayString = "Originally from: " + metadataUtils.get_Location(origin);
         }
-      
-        return "Based in: " + metadataUtils.get_Location(metadata.origin) + "\n";
+
+        if (showHome && pageIsEnded) {
+            displayString += "\nLived in: " + metadataUtils.get_Location(home);
+        }
+
+        if (showHome && !pageIsEnded) {
+            displayString += "\nBased in: " + metadataUtils.get_Location(home);
+        }
+        
+
+        return displayString;
     }
 
     return ""

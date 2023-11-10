@@ -17,10 +17,10 @@ function get_PageDatedValue(metadata) {
         defaultStart = "built";       
     } else if (metadata.type == "Item") {
         defaultPreexistError = "**(not yet created)**"
-        defaultStart =  "created";      
+        defaultStart = "created";      
     } else if (metadata.type == "Place") {
         defaultPreexistError =  "**(not yet founded)**"
-        defaultStart =  "founded";       
+        defaultStart = "founded";       
 
     }
 
@@ -29,39 +29,31 @@ function get_PageDatedValue(metadata) {
     endPrefix = metadata.endPrefix ? metadata.endPrefix : defaultEnd
     endStatus = metadata.endStatus ? metadata.endStatus : defaultEndStatus
 
-    currentYear = metadataUtils.get_pageEventsDate(metadata);
-    yearStart = metadataUtils.get_existEventsDate(metadata)
-    yearEnd = metadataUtils.get_endEventsDate(metadata)
+    currentYear = metadataUtils.get_pageEventsDate(metadata, false);
+    yearStart = metadataUtils.get_existEventsDate(metadata, false)
+    yearEnd = metadataUtils.get_endEventsDate(metadata, true)
 
-    console.log("Using " + currentYear.display + " as current, " + (yearStart ? yearStart.display : "none") + " as start")
+    if (!yearStart) {
+        if (!yearEnd) return "";
+        if (yearEnd.sort > current.sort) return "";
+        return endStatus + " " + yearEnd.display;
+    } 
 
-    if (!yearStart && !yearEnd) return "";
-    if (yearStart && yearEnd && yearStart.sort > yearEnd.sort) return "**(timetraveler, check your YAML)**";
+    // we have a year start
+    let age = metadataUtils.get_Age(currentYear, yearStart)
 
-    // we have a created year, no ended year
-    if (yearStart && !yearEnd) {
-        if (yearStart.sort > currentYear.sort) return preExistError;
-        
-        let age = metadataUtils.get_Age(currentYear.jsDate, yearStart.jsDate)
+    if (yearStart.sort > currentYear.sort) return preExistError;
 
+    // no end
+    if (!yearEnd) {
         return startPrefix + " " + yearStart.display + " (" + age + " years old)";
     }
 
-    // we have a death year, no born year
-    if (yearEnd && !yearStart) {
-        if (yearEnd.sort  <= currentYear.sort) return endStatus + " " + yearEnd.display;
-        // they have a death date, and it hasn't happened yet, but no born date, so nothing to show
-        return "";
-    }
+    // we have both
+    if (yearStart.sort > yearEnd.sort) return "**(timetraveler, check your YAML)**";
+    if (yearEnd.sort > current.sort)  return startPrefix + " " + yearStart.display + " (" + age + " years old)";
 
-    if (yearStart.sort  > currentYear.sort ) return preExistError;
-
-    // we have both a start and end date - and they died before now
-    if (yearEnd.sort  <= currentYear.sort) {       
-        return startPrefix + " " + yearStart.display + " - " + endPrefix + " " + yearEnd.display +  ", " + endStatus + " at " + (metadataUtils.get_Age(yearEnd.jsDate, yearStart.jsDate)) + " years old"
-    }
-
-    return startPrefix + " " + yearStart.display + " (" + ( metadataUtils.get_Age(currentYear.jsDate, yearStart.jsDate)) + " years old)";
+    return startPrefix + " " + yearStart.display + " - " + endPrefix + " " + yearEnd.display +  ", " + endStatus + " at " + (age) + " years old"
 }
 
 return get_PageDatedValue(dv.current())

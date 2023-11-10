@@ -42,7 +42,7 @@ Algorithm:
 * Find the "last known whereabout"
 	* Candidate set = Take all of the whereabouts where type = away
 		* Start is before or equal to target
-	* If there are multiples, take the one with the most recent logical end date before the target date
+	* If there are multiples, take start date that is closed to the target date
 * Find the "origin whereabout"
 	* Candidate set = Take all of the whereabouts where type = home and start = undefined
 	* If there are multiples, select the lexically first one in the yaml
@@ -51,7 +51,7 @@ We can then define our 4 location types:
 
 **An origin location** is defined as
 	Value: the origin whereabout
-	Output: origin whereabout is defined and whereabouts with type home > 1 or the origin whereabout is defined and there is no home whereabout
+	Output: origin whereabout is defined and home is defined but not equal, or the origin whereabout is defined and there is no home whereabout
 
 A **current location** is defined as
 	Value: 

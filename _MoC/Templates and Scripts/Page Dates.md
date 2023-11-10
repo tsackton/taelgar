@@ -33,7 +33,7 @@ Page start and page end defined, end in past: ```(startPrefix) (existenceDate) -
 Page start and page end defined, end in future: ```(startPrefix) (existenceDate) ((age) years old)```
 Page start defined and page end not defined: ```(startPrefix) (existenceDate) ((age) years old)```
 Page start not defined page end defined, page end in future: empty
-Page start not defined page end defined, page end in past: ```(end prefix) (end date) (endStatus)```
+Page start not defined page end defined, page end in past: ```(end status) (end date)```
 Page start not defined, page end not defined: empty
 
 * age is calculated in the logical way (i.e. same as a human age)
