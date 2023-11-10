@@ -16,4 +16,9 @@ Dates are in one of 3 forms: YYYY, YYYY-MM or YYYY-MM-DD. Ideally they would be 
 * YYYY-MM: MonthName YYYY
 * YYYY-MM-DD: MonthName Day, YYYY
 
-MonthName should ideally be the month from Fantasy Calendar, in case we rename them. But at the moment it could be the English month
+MonthName should ideally be the month from Fantasy Calendar, in case we rename them. But at the moment it could be the English month.
+
+YYYY dates should be treated as YYYY-01-01 if they are "start" dates and YYYY-12-31 if the are "end" dates for sorting and comparsion.
+YYYY-MM dates should be treated as YYYY-MM-01 if they are "start" dates and YYYY-MM-(last day) if they are "end" dates for sorting and comparison
+
+Note: YAML embeds 01 to YYYY-MM dates when used in frontmatter, which can be avoided by adding x to the end, i.e. YYYY-MMx. A stray trailing character should be considered expected on YYYY-MM dates.

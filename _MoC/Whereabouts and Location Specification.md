@@ -73,22 +73,25 @@ A **last known location** is defined as
 
 
 ### get_Homewhereabouts
-First, it calculates the four values above using the current Fantasy Calendar date as the target date. 
-For debugging, it supports the ability to use the "pageTargetDate" from the page instead, which overrides the Fantasy Calendar date.
 
-Second, it outputs between 1 and 2 lines.
+1. Gets the Page Existence Date and the Target Date (see [[Page Dates]])
+* If the Page Existence Date  is defined Target Date is before the Page Existence Date, it exits with no output.
+2. Calculates the four values above using the Target Date 
+3. Sets the "page exists" flag to true if the Page End Date is defined Page End Date is before the Target Date
+4. It outputs between 1 and 2 lines.
 
 Line 1: If the origin output flag is true: "Originally from: (origin)"
-Line 2: If the home output flag is true, and the person is alive at the current date: "Based in: (home)"
-Line 2: If the home output flag is true, and the person is dead at the current date: "Lived in: (home)"
+Line 2: If the home output flag is true, and the page exists flag is true: "Based in: (home)"
+Line 2: If the home output flag is true, and the page exists flag is false: "Lived in: (home)"
 
 ### get_CurrentWhereabouts
-First, it calculates the four values above using the current Fantasy Calendar date as the target date. 
-For debugging, it supports the ability to use the "pageTargetDate" from the page instead, which overrides the Fantasy Calendar date.
-
-Second, it outputs between 1 and 2 lines:
+1. Gets the Page Existence Date and the Target Date (see [[Page Dates]])
+* If the Page Existence Date is defined and the Target Date is before the Page Existence Date, it exits with no output.
+2. Calculates the four values above using the Target Date 
+3. Sets the "page exists" flag to true if the Page End Date is defined Page End Date is before the Target Date
+4. It outputs between 1 and 2 lines.
 
 Line 1: If the last known location output flag is true, "Last known Location (as of lastknown.date): (lastknown)"
-Line 2: If the current location output flag is true, and the person is alive: "Current location (as of target date): (current)"
+Line 2: If the current location output flag is true, and the page exists flag is true: "Current location (as of target date): (current)"
 
 See [[Formatting]],  [[Whereabouts and Last Seen By Party]] and [[Page Dates]] for more information.
