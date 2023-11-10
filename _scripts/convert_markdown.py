@@ -3,10 +3,17 @@ import yaml
 import re
 import os
 import sys
-import json
 from pathlib import Path
-import datetime
-import urllib.parse 
+from metadataUtils import *
+import importlib.util
+
+## import dview_functions.py as module
+dview_file_name = "dview_functions.py"
+dview_functions = importlib.import_module(dview_file_name)
+
+def is_function(module, attribute):
+    attr = getattr(module, attribute)
+    return callable(attr)
 
 def get_links_dict(files):
     links = {}
@@ -15,156 +22,25 @@ def get_links_dict(files):
         links[filepath.stem] = filepath
     return links
 
-def get_link(string, file, links):
-    if string in links:
-        dest = links[string]
-        orig = links[Path(file).stem].parent
-        linkpath = os.path.relpath(dest,orig)
-        return "[" + string + "](" + urllib.parse.quote(linkpath) + ")"
-    else:
-        return string
-
-def get_currentFantasyDate(directory):    
-    with open(os.path.join(directory, 'plugins', 'fantasy-calendar', 'data.json'), 'r', 2048, "utf-8") as f:
-        data = json.load(f)
-        return data['calendars'][0]['current']['year']
-
-def get_Existence(metadata):
-    # get start year
-    
-    yearStart = None
-
-    if metadata.get("type") == "NPC":
-        yearStart = metadata.get("born")
-    elif metadata.get("type") == "Ruler":
-        yearStart = metadata.get("born")
-    elif metadata.get("type") == "Building":
-        yearStart = metadata.get("built")
-    elif metadata.get("type") == "Item":
-        yearStart = metadata.get("created")
-
-    if yearStart and (yearStart > int(metadata["curYear"])):
-        return False
-    else:
-        return True
-
 def get_md_files(directory):
     markdown_files = []
     for root, dirs, files in os.walk(directory):
         markdown_files += [os.path.join(root, file) for file in files if file.endswith('.md')]
     return markdown_files
 
-def get_RegnalValue(metadata):
-    
-    currentYear = int(metadata["curYear"])
-
-    yearStart = metadata.get("reignStart")
-    yearEnd = metadata.get("reignEnd")
-    
-    if yearEnd == None: yearEnd = metadata.get("died")
-    
-    if yearStart is None: 
-        return ""
-    else:
-        if (yearEnd is None) or (yearEnd is not None and yearEnd >= currentYear):
-            reignLength = currentYear - yearStart
-            return "reigning since " + str(yearStart) + " (" + str(reignLength) + " years)"
-        else:
-            if yearStart and yearEnd and yearStart > yearEnd: return "**(timetraveler, check your YAML)**"
-            if yearStart > currentYear: return ""
-    
-    return "reigned " + str(yearStart) + " - " + str(yearEnd) + " (" + str(yearEnd-yearStart) + " years)"
-
-def get_PageDatedValue(metadata):
-
-    currentYear = int(metadata["curYear"])
-
-    if metadata.get("type") == "NPC":
-        yearStart = metadata.get("born")
-        yearEnd = metadata.get("died")
-        preExistError = metadata.get("preExistError", "**(not yet born)**")
-        startPrefix = metadata.get("startPrefix", "b.")
-        endPrefix = metadata.get("endPrefix", "d.")
-        endStatus = metadata.get("endStatus", "died")
-    elif metadata.get("type") == "Ruler":
-        yearStart = metadata.get("born")
-        yearEnd = metadata.get("died")
-        preExistError = metadata.get("preExistError", "**(not yet born)**")
-        startPrefix = metadata.get("startPrefix", "b.")
-        endPrefix = metadata.get("endPrefix", "d.")
-        endStatus = metadata.get("endStatus", "died")
-    elif metadata.get("type") == "Building":
-        yearStart = metadata.get("built")
-        yearEnd = metadata.get("destroyed")
-        preExistError = metadata.get("preExistError", "**(not yet built)**")
-        startPrefix = metadata.get("startPrefix", "built")
-        endPrefix = metadata.get("endPrefix", "destroyed")
-        endStatus = metadata.get("endStatus", "destroyed")
-    elif metadata.get("type") == "Item":
-        yearStart = metadata.get("created")
-        yearEnd = metadata.get("destroyed")
-        preExistError = metadata.get("preExistError", "**(not yet created)**")
-        startPrefix = metadata.get("startPrefix", "created")
-        endPrefix = metadata.get("endPrefix", "destroyed")
-        endStatus = metadata.get("endStatus", "destroyed")
-    else: 
-        yearStart = None
-        yearEnd = None
-    
-    if yearStart is None: 
-        if yearEnd is None: 
-            return "unknown age"
-        else:
-            if yearEnd <= currentYear: return endPrefix + " " + str(yearEnd) + ", " + endStatus + " at unknown age"
-            return "unknown age"
-    else:
-        if yearEnd is None:
-            if yearStart > currentYear: return preExistError
-            age = currentYear - yearStart
-            return startPrefix + " " + str(yearStart) + " (" + str(age) + " years old)"
-        else:
-            if yearStart > yearEnd: return "**(timetraveler, check your YAML)**"
-            if yearStart > currentYear: return preExistError
-            if yearEnd <= currentYear:
-                return startPrefix + " " + str(yearStart) + " - " + endPrefix + " " + str(yearEnd) +  ", " + endStatus + " at " + str(yearEnd-yearStart) + " years old"
-            return startPrefix + " " + str(yearStart) + " (" + str(currentYear-yearStart) + " years old)"
-
-def get_HomeWhereabouts(metadata,file_name,links):
-    cur_year = datetime.date(int(metadata["curYear"]),1,1)
-    
-    if "whereabouts" not in metadata:
-        return ""
-    
-    home_whereabouts = [w for w in metadata["whereabouts"] if w["type"] == "home" and w.get("date",datetime.date(1,1,1)) <= cur_year]
-    if home_whereabouts:
-        most_recent_home = max(home_whereabouts, key=lambda x: x.get("date",datetime.date(1,1,1)))
-        home =  most_recent_home["place"] + ","  + most_recent_home["region"]
-        home_parts =  [x.strip() for x in home.split(',')]
-        home_text = [get_link(x,file_name,links) for x in home_parts]
-        return "Based in: " + ", ".join(home_text)
-    else:
-        return ""
-
-
-def process_string(s, metadata, file_name, links):
+def process_string(s, metadata):
     def callback(match):
         function_name = match.group(1).split(",", maxsplit=1)[0].strip('\"').split("/")[-1]
 
-        if (function_name == "get_PageDatedValue"):
-            return_value = get_PageDatedValue(metadata)
-        elif (function_name == "get_HomeWhereabouts"):
-            return_value = get_HomeWhereabouts(metadata, file_name, links)
-        elif (function_name == "get_RegnalValue"):
-            return_value = get_RegnalValue(metadata)
-        elif (function_name == "get_CurrentWhereabouts"):
-            return_value = ""     
-        elif (function_name == "get_Whereabouts"):
-            return_value = ""             
+        # Check if the function exists in the module and is a callable
+        if function_name in dir(dview_functions) and is_function(dview_functions, function_name):
+            dview_call = getattr(dview_functions, function_name)
+            # Now you can call the function
+            result = dview_call(metadata)
         else:
-            print("Function name " + function_name + " not found in " + file_name, file=sys.stderr)
-            return_value = ""
-        
-        return return_value
+            result = print(f"Function {function_name} not implemented in conversion code.", file=sys.stderr)
+            result = ""
+        return result
 
     pattern = "\`\$\=dv\.view\((.*)\)\`"
     return re.sub(pattern, callback, s)
@@ -173,24 +49,15 @@ parser = argparse.ArgumentParser()
 parser.add_argument('--date', required=False)
 parser.add_argument('--dir', required=True)
 parser.add_argument('--campaign', required=False)
-parser.add_argument('--configDir', required=False)
+parser.add_argument('--configDir', required=True)
 args = parser.parse_args()
 
 # Get the date, campaign, and directory name from the command line arguments
-if (args.date):
-    input_date = args.date.split("-")[0]
-elif (args.configDir):
-    input_date = get_currentFantasyDate(args.configDir)
-else:
-    print("Error: Requires either a configDir or an input date")
-    exit
-
 dir_name = args.dir
 input_campaign = args.campaign
 md_file_list = get_md_files(dir_name)
 links = get_links_dict(md_file_list)
-
-print("Using year:", input_date)
+override_year = clean_date(args.date) if args.date else None
 
 for file_name in md_file_list:
     # Open the input file
@@ -216,9 +83,11 @@ for file_name in md_file_list:
         if metadata_block:
             metadata = yaml.safe_load(''.join(metadata_block))
 
-    metadata["curYear"] = input_date if "yearOverride" not in metadata or metadata["yearOverride"] is None else metadata["yearOverride"]
     metadata["campaign"] = input_campaign
-    thing_exist = get_Existence(metadata)
+    metadata["override_year"] = override_year
+    metadata["directory"] = args.configDir
+    metadata["links"] = links
+    metadata["file"] = file_name
 
     #Process the rest of the file with access to the metadata information
     filter_start = False
@@ -263,10 +132,12 @@ for file_name in md_file_list:
 
     # Write the updated lines to a new file
     with open(file_name, 'w', 2048, "utf-8") as output_file:
+        '''
+        Would replace text with this if we wanted to add a note that the thing doesn't exist yet
         if not thing_exist:
             newlines = metadata_block
             newlines.append("# " + metadata.get("name", "unnamed entity") + "\n")
             newlines.append("**This does not exist yet!**\n")
-
+        '''
         output_file.writelines(newlines)
  
