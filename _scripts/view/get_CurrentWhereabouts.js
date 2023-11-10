@@ -30,7 +30,7 @@ function get_Whereabouts(metadata) {
             };
             
             let date_end = w.date_end;
-            if (date_end == undefined && w.type == "visit") date_end = w.date;
+            if (date_end == undefined && w.type == "visit" && w.end != false) date_end = w.date;
 
             if (date_end != undefined)
             {
@@ -49,7 +49,10 @@ function get_Whereabouts(metadata) {
             let actualWhereabout = validWhereabouts.slice(-1)[0]
             console.log(actualWhereabout)
             let whereaboutsName = "";
-            if (actualWhereabout.region || actualWhereabout.place) whereaboutsName = metadataUtils.get_Location(actualWhereabout);
+            if (actualWhereabout.region || actualWhereabout.place) {
+                whereaboutsName = metadataUtils.get_Location(actualWhereabout);
+                if (actualWhereabout.type == "travel") whereaboutsName = "travelling in " + whereaboutsName;
+            }
             else if (actualWhereabout.type == "travel") whereaboutsName = "travelling";
             else if (actualWhereabout.type == "visit") whereaboutsName = "(unknown stop)"           
             else if (actualWhereabout.type == "home") whereaboutsName = "(unknown home)"           

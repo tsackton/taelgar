@@ -19,7 +19,7 @@ The monsoon has been good to [[Karawa]], and the rebuilding is in full swing. Fr
 
 #### Eudomes' Tower
 
-First scrying attempt on [[Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Stormcaller Tower]] fails. In your second attempt, you see nothing but whirling winds and lightning, visibility almost nothing, the calm that was at the center of the storm when you last visited seemingly gone.
+First scrying attempt on [[Stormcaller Tower]] fails. In your second attempt, you see nothing but whirling winds and lightning, visibility almost nothing, the calm that was at the center of the storm when you last visited seemingly gone.
 
 #### Tokra
 

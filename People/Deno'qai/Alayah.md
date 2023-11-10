@@ -17,7 +17,7 @@ tags: [NPC/DuFr/minor, NPC/DuFr/met]
 >[!info]+ Biographical Summary
 >[[Humans|human]] ([[Deno'qai|Deno'qai]]), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
->> Based in: Te'kula village, [[Elderwood]]
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
 
 The young Godcaller of the [[Te'kula]] tribe in the Elderwood. Dreamed of [[Rai]] and [[Kenzo]]. 
 

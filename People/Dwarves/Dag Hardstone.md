@@ -6,21 +6,18 @@ ancestry:
 gender: male
 born: 1729
 died: 
+origin: { place: "Tokra", region: Central Dunmar }
 affiliations: 
 aliases: []
 title:
 family: Hardstone
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
-whereabouts:
-     - { date: 1729-01-02, place: "Tokra", region: Central Dunmar, type: home}
 ---
 # Dag Hardstone
 >[!info]+ Biographical Summary
->dwarf, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Tokra]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Dwarves|dwarf]], he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
 
 One of the Hardstone dwarves, who help maintain the [[Tokra]] [[Archives]]. Dag was caught by werewolves when the [[Archives]] were raided, and wounded, becoming cursed by lycanthropy. 
 
