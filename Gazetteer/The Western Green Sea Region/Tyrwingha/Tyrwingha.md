@@ -1,3 +1,6 @@
+---
+cultureDescriptor: Tyrwinghan
+---
 # Tyrwingha
 
 The land of Tyrwingha, nestled on the southern shores of the [[Green Sea]], is ruled by the monarch of [[Sembara]] in a personal union of the crowns.  Over its history, it has been been united with Sembara on two separate occasions, the most recently by [[Elaine I]].
