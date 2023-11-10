@@ -5,22 +5,19 @@ species: human
 ancestry: "Deno'qai"
 gender: male
 born: 
-died: 1748
+died: 1748-11-23
 title:
+origin: Elderwood
 family:
 affiliations: 
 aliases: []
 tags: [NPC/DuFr/background, NPC/DuFr/met]
-whereabouts:
-     - { date: 0001-01-02, place: "unknown", region: Elderwood, type: home }
-     - { date: 1748-11-23, place: "deceased", region: "", type: excursion }
 ---
 # Zevi
 >[!info]+ Biographical Summary
->human (Deno'qai), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: unknown, [[Elderwood]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Deno'qai|Deno'qai]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
 
 A scout and warrior of the [[Bek'eni]]. Part of the patrol that originally found the party in the [[Elderwood]]. 
 
