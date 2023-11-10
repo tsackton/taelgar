@@ -1,0 +1,3 @@
+---
+cultureDescriptor: Deno'qai
+---

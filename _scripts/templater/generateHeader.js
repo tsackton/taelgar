@@ -1,28 +1,6 @@
 async function generateHeader(tp) {
 
-    function get_displayDateFromYaml(yamlDate) {
-        let pieces = yamlDate.split('-');
-
-        if (pieces.length != 3 || pieces[0] == 1) return "(unknown)";
-
-
-        return get_displayDate(pieces[0], pieces[1] - 1, pieces[2]);
-    }
-
-    function get_currentDisplayDate() {
-        let currentYear = window.FantasyCalendarAPI.getCalendars()[0].current.year;
-        let currentMonth = window.FantasyCalendarAPI.getCalendars()[0].current.month;
-        let currentDay = window.FantasyCalendarAPI.getCalendars()[0].current.day;
-
-        return get_displayDate(currentYear, currentMonth, currentDay);
-    }
-
-    function get_displayDate(year, month, day) {
-        let currentFantasyCal = window.FantasyCalendarAPI.getCalendars()[0];
-        console.log(`${year} ${month} ${day}`)
-        let date = { year: year, month: month, day: day };
-        return window.FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
-    }
+    const { metadataUtils } = customJS
 
     const metadataFilePath = app.vault.configDir + "/metadata.json";
 
@@ -30,72 +8,89 @@ async function generateHeader(tp) {
     let metadata = JSON.parse(metadataFile);
 
 
-    if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler") {
-        // create a NPC header // 
+    if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler" || tp.frontmatter.type == "PC") {
+        let isHistorical = metadata.historicalYear && tp.frontmatter.died && metadataUtils.parse_date_to_events_date(tp.frontmatter.died).year < metadata.historicalYear;
 
+        let ancestryDisplayValue = ""
+        let speciesDisplayValue = ""
 
-        // load metadataUtils via customJS //
+        let species = tp.frontmatter.species;
+        if (species) {
+            let link = app.plugins.plugins.dataview.api.pages().where(p => p.speciesDescriptor == species).first()
+            if (link) {
+                speciesDisplayValue = "[[" + link.file.name + "|" + species + "]]"
+            }
+            else {
+                speciesDisplayValue = species;
+            }
+        }
 
-        const { metadataUtils } = customJS
-
-        // reformat basic variables //
-
-        let ancestryDisplayValue = metadataUtils.Reformat(tp.frontmatter, "ancestry", " (", ")", "")
-        let speciesDisplayValue = metadataUtils.Reformat(tp.frontmatter, "species", "", "", "unknown species")
-
-        // get pronouns //
+        let ancestry = tp.frontmatter.ancestry;
+        if (ancestry) {
+            let link = app.plugins.plugins.dataview.api.pages().where(p => p.cultureDescriptor == ancestry).first()
+            if (link) {
+                if (species) ancestryDisplayValue = " ([[" + link.file.name + "|" + ancestry + "]])"
+                else ancestryDisplayValue = "[[" + link.file.name + "|" + ancestry + "]]"
+            }
+            else {
+                if (species) ancestryDisplayValue = " (" + ancestry + ")"
+                else ancestryDisplayValue = ancestry;
+            }
+        }
 
         let pronounDisplayValue = ", " + metadataUtils.get_Pronouns(tp.frontmatter)
         let locationDisplay = "";
 
+        if (tp.frontmatter.origin) {
+            if (tp.frontmatter.whereabouts) {
+                locationDisplay = "\n>> Originally from: " + metadataUtils.get_Location(tp.frontmatter.origin);
+            }
+            else {
+                if (isHistorical) {
+                    locationDisplay += "\n>> Lived in: " + metadataUtils.get_Location(tp.frontmatter.origin);
+                }
+                else {
+                    locationDisplay += "\n>> Based in: " + metadataUtils.get_Location(tp.frontmatter.origin);
+                }
+            }
+        }
+
         // get home and origin // 
         if (tp.frontmatter.whereabouts) {
-            if (tp.frontmatter.whereabouts.find(s => s.type != undefined) == undefined) {
-                locationDisplay = `\n>\`$=dv.view("_scripts/view/get_Whereabouts", {"config": await app.vault.adapter.read(app.vault.configDir +  \"/taelgarConfig.json\"), "prefix": ">", "suffix":""})\``;                
-            } else {
 
-                let origin = tp.frontmatter.whereabouts.find(w => w.type === "origin");
-                if (origin) {
-                    locationDisplay = "\n>> Originally from: " + tp.user.getLocation(tp, origin.place, origin.region);
+            let homeCount = tp.frontmatter.whereabouts.filter(w => w.type == "home").length;
+            if (homeCount == 1) {
+                let home = tp.frontmatter.whereabouts.find(w => w.type == "home");
+
+                if (tp.frontmatter.died && metadataUtils.parse_date_to_events_date(tp.frontmatter.died).year < 1680) {
+                    locationDisplay += "\n>> Lived in: " + metadataUtils.get_Location(home);
                 }
-
-                let homeCount = tp.frontmatter.whereabouts.filter(w => w.type === "home").length;
-                if (homeCount == 1) {
-                    let home = tp.frontmatter.whereabouts.find(w => w.type === "home");
-
-                    locationDisplay += "\n>> Based in: " + tp.user.getLocation(tp, home.place, home.region);
+                else {
+                    locationDisplay += "\n>> Based in: " + metadataUtils.get_Location(home);
                 }
-                else if (homeCount > 1) {
-                    locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
-                }
-
-
-
-                if (tp.frontmatter.lastSeenByParty) {
-                    tp.frontmatter.lastSeenByParty.filter(e => e.prefix != undefined).forEach(element => {
-                        let loc = tp.frontmatter.whereabouts.findLast(s => s.date <= element.date);
-                        let partyName = "the party";
-                        let campaignData = metadata.campaigns;
-                        if (campaignData) {
-                            let thisCampaign = campaignData.find(search => search.prefix == element.prefix);
-                            if (thisCampaign) partyName = thisCampaign.partyName;
-                        }
-                        if (loc != undefined) {
-                            locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${get_displayDateFromYaml(element.date)}: ${tp.user.getLocation(tp, loc.place, loc.region)} %%^End%%`;
-                        }
-                    });
-                }
-
-                locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\", {\"config\": await app.vault.adapter.read(app.vault.configDir + \"/taelgarConfig.json\")})`";
             }
-        } else {
-            let homeDisplayValue = (tp.frontmatter.home || tp.frontmatter.homeRegion) ?
-                "\n>Based in: " + tp.user.getLocation(tp, "home") : ""
+            else if (homeCount > 1) {
+                locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
+            }
 
-            let originDisplayValue = (tp.frontmatter.origin || tp.frontmatter.originRegion) ?
-                "\n>Originally from: " + tp.user.getLocation(tp, "origin") : ""
+            if (tp.frontmatter.lastSeenByParty) {
+                tp.frontmatter.lastSeenByParty.filter(e => e.prefix != undefined && e.date != undefined).forEach(element => {
+                    let loc = tp.frontmatter.whereabouts.findLast(s => s.date != undefined && metadataUtils.parse_date_to_events_date(s.date).sort <= metadataUtils.parse_date_to_events_date(element.date).sort);
+                    let partyName = "the party";
+                    let campaignData = metadata.campaigns;
+                    if (campaignData) {
+                        let thisCampaign = campaignData.find(search => search.prefix == element.prefix);
+                        if (thisCampaign) partyName = thisCampaign.partyName;
+                    }
+                    if (loc != undefined) {
+                        locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${metadataUtils.parse_date_to_events_date(element.date).display}: ${metadataUtils.get_Location(loc)})} %%^End%%`;
+                    }
+                });
+            }
 
-            locationDisplay = homeDisplayValue + originDisplayValue;
+            if (tp.frontmatter.whereabouts.filter(w => w.date != undefined).length > 0) {
+                locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";
+            }
         }
 
         // return string //
@@ -104,19 +99,21 @@ async function generateHeader(tp) {
             nameString = tp.frontmatter.title + " " + nameString;
         }
 
-        if (tp.frontmatter.type == "NPC") {
+        let elfDisplay = "";
+        if (tp.frontmatter.ka) {
+            elfDisplay = " ([[The Cycle of Generations|ka " + tp.frontmatter.ka + "]])";
+        }
+
+        if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "PC") {
             headerString = "# " + nameString + "\n>[!info]+ Biographical Summary" +
                 "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
-                "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
-                'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
+                "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`' + elfDisplay +
                 locationDisplay + "\n"
         } else {
             headerString = "# " + nameString + "\n>[!info]+ Biographical Summary" +
                 "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
-                "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
-                'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
-                "\n>" + '`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? ' +
-                'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`' +
+                "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`' + elfDisplay +
+                "\n>" + '`$=dv.view("_scripts/view/get_RegnalValue")`' +
                 locationDisplay + "\n"
         }
     } else if (tp.frontmatter.type == "Item") {
@@ -132,8 +129,7 @@ async function generateHeader(tp) {
             makerDisplay = ">Maker: [[" + tp.frontmatter.maker + "]]\n";
         }
         if (tp.frontmatter.created || tp.frontmatter.destroyed) {
-            timeDisplay = '>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? ' +
-                'dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`';
+            timeDisplay = '>`$=dv.view("_scripts/view/get_PageDatedValue")`';
         }
 
         if (tp.frontmatter.gpValueMin || tp.frontmatter.gpValueMax) {

@@ -130,32 +130,10 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
     }
 
     if (filetypeMetadata) {
-        let infoLine = currentContents.find((f) => (f.contains("b.") || f.contains("she/her")|| f.contains("he/him")|| f.contains("they/them")));
-
         for (const element of filetypeMetadata.frontmatter) {            
             if (Object.keys(tp.frontmatter).find(f => f == element) == undefined) {
                
-                let value = getKeyDefault(element, folder, config, fileType);
-                if (infoLine != undefined) {
-                    console.log("has infoline: " + infoLine);
-                    if (element == "gender") {
-                        if (infoLine.contains("she")) value = "female";
-                        else if (infoLine.contains("they")) value = "nonbinary";
-                        else if (infoLine.contains("he")) value= "male";
-                    } 
-                    else if (element == "born") {
-                        let bIndex = infoLine.search("b.");
-                        if (bIndex > 0)     {
-                            value = infoLine.substr(bIndex+3, 4);
-                        }                        
-                    }
-                    else if (element == "died") {
-                        let dIndex = infoLine.search("d.");
-                        if (dIndex > 0)     {
-                            value = infoLine.substr(dIndex+3, 4);
-                        }                        
-                    }
-                }
+                let value = getKeyDefault(element, folder, config, fileType);        
 
                 if (newFile && !value && allowPrompting) {
                     if (element == "gender") {
@@ -186,82 +164,6 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
 
     if (filetypeMetadata.supportsWhereabouts) {
         console.log("Filetype supports whereabouts. Starting whereabouts processing.");
-        if (!tp.frontmatter.whereabouts || tp.frontmatter.whereabouts.length == 0) {           
-            var indexOfWhereabouts = currentContents.findIndex(s => s.startsWith("whereabouts:"));
-            if (indexOfWhereabouts > 0) {
-                currentContents.splice(indexOfWhereabouts, 1);      
-                indexOfYamlEnd--;  
-            }
-
-            let insertedWhereabouts = false;
-            let whereaboutsInsertIndex = indexOfYamlEnd;
-
-            if (tp.frontmatter.origin || tp.frontmatter.originRegion) {
-                let initialDate = "";
-                if (!tp.frontmatter.origin) { tp.frontmatter.origin = "unknown"}
-                if (!tp.frontmatter.originRegion) { tp.frontmatter.originRegion = "unknown"}
-                if (tp.frontmatter.born || newFrontMatter.born) {
-                    initialDate = (tp.frontmatter.born??newFrontMatter.born) + "-01-01" 
-                }
-
-                if (!insertedWhereabouts) { 
-                    currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
-                    insertedWhereabouts = true;
-                }
-         
-                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.origin)}", region: ${fixupLocation(tp.frontmatter.originRegion)}, type: origin }`);
-         
-                // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
-                indexOfYamlEnd--;
-            }       
-
-            if (tp.frontmatter.home || tp.frontmatter.homeRegion) {             
-                let initialDate = "";
-                if (!tp.frontmatter.home) { tp.frontmatter.home = "unknown"}
-                if (!tp.frontmatter.homeRegion) { tp.frontmatter.homeRegion = "unknown"}
-                if (tp.frontmatter.born || newFrontMatter.born) {
-                    initialDate = (tp.frontmatter.born??newFrontMatter.born) + "-01-02" 
-                }
-         
-                if (!insertedWhereabouts) { 
-                    currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
-                    insertedWhereabouts = true;
-                }
-                currentContents.splice(whereaboutsInsertIndex++, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.home)}", region: ${fixupLocation(tp.frontmatter.homeRegion)}, type: home }`);
-         
-                // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
-                indexOfYamlEnd--;                
-            }        
-
-            if (tp.frontmatter.location || tp.frontmatter.locationRegion) {
-                let currentYear = String(window.FantasyCalendarAPI.getCalendars()[0].current.year).padStart(4, '0');
-                let currentMonth = String(window.FantasyCalendarAPI.getCalendars()[0].current.month+1).padStart(2, '0');
-                let currentDay = String(window.FantasyCalendarAPI.getCalendars()[0].current.day).padStart(2, '0');
-            
-                let initialDate = `${currentYear}-${currentMonth}-${currentDay}`;
-                if (!tp.frontmatter.location) { tp.frontmatter.location = "unknown"}
-                if (!tp.frontmatter.locationRegion) { tp.frontmatter.locationRegion = "unknown"}
-                if (!insertedWhereabouts) { 
-                    currentContents.splice(whereaboutsInsertIndex++, 0, "whereabouts:");
-                    insertedWhereabouts = true;
-                }
-                currentContents.splice(whereaboutsInsertIndex, 0, `     - { date: ${initialDate}, place: "${fixupLocation(tp.frontmatter.location)}", region: ${fixupLocation(tp.frontmatter.locationRegion)}, type: excursion }`);
-        
-                // we need to keep the insert elements in the right spot, so we change where the "yaml end" is
-                indexOfYamlEnd--;
-            }   
-
-            if (insertedWhereabouts) indexOfYamlEnd--;
-        } else {
-
-            // we need to fixup whereabouts if they are missing types
-            if (tp.frontmatter.whereabouts.find(s => s.type == undefined) != undefined) {
-                console.log("Filetype already has whereabouts with old style data. Fixup required.");    
-            }
-            else {
-                console.log("Filetype already has whereabouts present. No processing required.");
-            }
-        }
 
         if (tp.frontmatter.born || newFrontMatter.born) {
             var originDateWhereabouts = currentContents.findIndex((f,i) => i<indexOfYamlEnd && f.startsWith("     - { date: 0001-01"));
@@ -272,7 +174,7 @@ async function updateFrontmatter(tp, allowPrompting, typeToUse) {
             }   
         }
 
-        ["home", "homeRegion", "location", "locationRegion", "origin", "originRegion"].forEach(element => {
+        ["home", "homeRegion", "location", "locationRegion", "originRegion"].forEach(element => {
             var index = currentContents.findIndex(s => s.startsWith(element + ":"));            
             if (index > 0) {
                 console.log(`Found ${element}: element to remove at index ${index}`);

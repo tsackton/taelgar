@@ -1,105 +1,71 @@
-function get_Whereabouts(metadata, input) {
+function compare_event_dates(older, younger) {    
+    return older.sort.localeCompare(younger.sort)
+}
+
+
+function get_Whereabouts(metadata) {
    
-    // this converts a yamlDate to a string and a jsDate to a string and then compares them as strings
-    // returns 1 if yaml is greater than js, 0 if equal, -1 if less
-    function compare_dates(yamlDate, jsDate) {
-        if (!yamlDate) console.log("no yaml date");
-        if (!jsDate) console.log("no yaml date");
+    const { metadataUtils } = customJS
 
-        let yamlDateStr = yamlDate.year.toString().padStart(4, '0') + yamlDate.month.toString().padStart(2,'0') + yamlDate.day.toString().padStart(2,'0');
-        let jsDateStr = jsDate.getUTCFullYear().toString().padStart(4, '0') + (jsDate.getUTCMonth()+1).toString().padStart(2,'0') + jsDate.getUTCDate().toString().padStart(2,'0');
-
-        console.log("yamldate: " + yamlDateStr + " jsDate: " + jsDateStr);
-
-        if (yamlDateStr == jsDateStr) return 0;
-        return yamlDateStr > jsDateStr ? 1 : -1;
-    }
-
-    function get_displayDateFromYaml(yamlDate) {         
-        return get_displayDate(yamlDate.year, yamlDate.month-1, yamlDate.day);
-    }
-
-    function get_currentDisplayDate() {
-        let currentYear = window.FantasyCalendarAPI.getCalendars()[0].current.year;
-        let currentMonth = window.FantasyCalendarAPI.getCalendars()[0].current.month;
-        let currentDay = window.FantasyCalendarAPI.getCalendars()[0].current.day;
-    
-        return get_displayDate(currentYear, currentMonth, currentDay);
-    }
-
-    function get_displayDate(year, month, day) {
-        let currentFantasyCal = window.FantasyCalendarAPI.getCalendars()[0];
-        console.log(`${year} ${month} ${day}`)
-        let date = {year: year, month: month, day: day};
-        return window.FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;      
-    }
-
-    // copied from getLocation for now; should be considated
-    function get_Location(place, region) {
-
-        // construct variables //
-        loc = place
-        locRegion = region
-
-        if (loc) {
-            if (locRegion) {
-                locArray = loc.split(',')
-                locArray.push(locRegion)
-            } else {
-                locArray = loc.split(',')
-            }
-        } else {
-            if (locRegion) {
-                locArray = locRegion.split(',')
-            } else {
-                // no values
-                return ""
-            }
-        }
-
-        let locArrayValues = locArray.map(function (f) {
-            pieceValue = f.trim();
-
-            file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
-            if (file != undefined) { return "[[" + pieceValue + "]]"; }
-            return pieceValue;
-        });
-
-        return locArrayValues.join(', ');
-    }
-
-    let currentYear = window.FantasyCalendarAPI.getCalendars()[0].current.year;
-    let currentMonth = window.FantasyCalendarAPI.getCalendars()[0].current.month;
-    let currentDay = window.FantasyCalendarAPI.getCalendars()[0].current.day;
-    let currentJsDate = new Date(currentYear, currentMonth, currentDay, 0, 0, 0);
-    
-    let config = {};
-
-    if (input.config != undefined) {
-        config = JSON.parse(input.config);    
-    }
-
-    if (!config.whereaboutsSettings) config.whereaboutsSettings = {};
+    let pageYear = metadataUtils.get_pageEventsDate(metadata)
+    let existYear = metadataUtils.get_existEventsDate(metadata)
+    let endYear = metadataUtils.get_endEventsDate(metadata)
 
     if (metadata.whereabouts) {
-        if (metadata.born > currentYear) return "";
+        if (existYear && pageYear.sort < existYear.sort) return "";
+        if (endYear && pageYear.sort > endYear.sort) return "";
 
-        let current = metadata.whereabouts.findLast(s => s.type != "origin" && (s.date == undefined || compare_dates(s.date, currentJsDate) <= 0));
-        let home = metadata.whereabouts.findLast(s => (s.date == undefined || compare_dates(s.date, currentJsDate) <= 0) && s.type === "home");
-        
-        if (current) {
-            // we have a current place -- show if it doesn't match home
-            let alwaysShowLocation = config.whereaboutsSettings.alwaysShowLocation;
-            let outputString = "Current location (as of " + get_currentDisplayDate() + "): " + get_Location(current.place, current.region);
+        let validWhereabouts = [];
+        let homeWhereabouts;
 
-            if (alwaysShowLocation) return outputString;
-            if (!home) return outputString;
-            if (current.region != home.region) return outputString;
-            if (current.place !=  home.place) return outputString;
+        for (w of metadata.whereabouts) {
+            if (w.date == undefined) {
+                if (w.type == "home") homeWhereabouts = w;
+                continue;
+            }
+
+            if (metadataUtils.parse_date_to_events_date(w.date).sort > pageYear.sort) {
+                console.log("skipping - too late")
+                continue;
+            };
+            
+            let date_end = w.date_end;
+            if (date_end == undefined && w.type == "visit") date_end = w.date;
+
+            if (date_end != undefined)
+            {
+                if (metadataUtils.parse_date_to_events_date(date_end).sort < pageYear.sort) {
+                    console.log("skipping - already over")
+                    continue;
+                }   
+            } 
+
+            validWhereabouts.push(w);
+            validWhereabouts.sort((a,b) =>  compare_event_dates(metadataUtils.parse_date_to_events_date(a.date),metadataUtils.parse_date_to_events_date(b.date)))
         }
+
+        let outputString = "Current location: (as of " + pageYear.display + "): ";
+        if (validWhereabouts.length > 0) {
+            let actualWhereabout = validWhereabouts.slice(-1)[0]
+            console.log(actualWhereabout)
+            let whereaboutsName = "";
+            if (actualWhereabout.region || actualWhereabout.place) whereaboutsName = metadataUtils.get_Location(actualWhereabout);
+            else if (actualWhereabout.type == "travel") whereaboutsName = "travelling";
+            else if (actualWhereabout.type == "visit") whereaboutsName = "(unknown stop)"           
+            else if (actualWhereabout.type == "home") whereaboutsName = "(unknown home)"           
+
+            outputString += whereaboutsName;           
+        } 
+        else if (homeWhereabouts != undefined) {
+            outputString += metadataUtils.get_Location(homeWhereabouts);
+        } else {
+            outputString += "(unknown)"
+        }
+
+        return outputString;
     }
 
     return ""
 }
 
-return get_Whereabouts(dv.current(), input);
+return get_Whereabouts(dv.current());
