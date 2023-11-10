@@ -36,7 +36,7 @@ Page start not defined page end defined, page end in future: empty
 Page start not defined page end defined, page end in past: ```(end status) (end date)```
 Page start not defined, page end not defined: empty
 
-* age is calculated in the logical way (i.e. same as a human age)
+	* age is calculated in the logical way (i.e. same as a human age)
 * start prefix, end prefix, not exist text, and end status can come from YAML or have defaults. See the Javascript for details
 
 ### get_RegnalValue

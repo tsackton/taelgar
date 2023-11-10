@@ -4,17 +4,26 @@ name: Dain Goldhammer
 species: dwarf
 ancestry: 
 gender: male
-born: 1710
+born: 1704
 died: 
-origin: {place: "Chardon", region: Chardonian Empire}
-title:
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+origin:
+  place: Chardon
+  region: Chardonian Empire
+title: 
+family: 
+affiliations:
+aliases: 
+tags:
+  - NPC/DuFr/minor
+  - NPC/DuFr/met
 yearOverride: 
+lastSeenByParty:
+  date: 1748-10-23
+  prefix: DuFr
 whereabouts:
-     - { date: 1748-11-23, region: Illoria, type: travel }
+  - date: 1748-10-23
+    region: Illoria
+    type: travel
 ---
 # Dain Goldhammer
 >[!info]+ Biographical Summary

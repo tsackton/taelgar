@@ -1,0 +1,116 @@
+from metadataUtils import *
+
+## DVIEW FUNCTIONS
+
+def get_PageDatedValue(metadata):
+
+    # Setting default values
+    defaultPreexistError = "**(doesn't yet exist)**"
+    defaultStart = "created"
+    defaultEnd = "destroyed"
+    defaultEndStatus = "destroyed"
+    pageStartDate = clean_date(metadata["created"]) if "created" in metadata else None
+    pageEndDate = clean_date(metadata["destroyed"], end=True) if "destroyed" in metadata else None
+
+    # Set start, end, text for each type
+    if metadata["type"] in ["NPC", "PC", "Ruler"]:
+        defaultPreexistError = "**(not yet born)**"
+        defaultStart = "b."
+        defaultEnd = "d."
+        defaultEndStatus = "died"
+        pageStartDate = clean_date(metadata["born"]) if "born" in metadata else None
+        pageEndDate = clean_date(metadata["died"], end=True) if "died" in metadata else None
+    elif metadata["type"] == "Building":
+        defaultPreexistError = "**(not yet built)**"
+        defaultStart = "built"
+    elif metadata["type"] == "Item":
+        defaultPreexistError = "**(not yet created)**"
+        defaultStart = "created"
+    elif metadata["type"] == "Place":
+        defaultPreexistError = "**(not yet founded)**"
+        defaultStart = "founded"
+
+    # Overriding defaults with metadata values if they exist
+    preExistError = metadata.get("preExistError", defaultPreexistError)
+    startPrefix = metadata.get("startPrefix", defaultStart)
+    endPrefix = metadata.get("endPrefix", defaultEnd)
+    endStatus = metadata.get("endStatus", defaultEndStatus)
+
+    currentDate = get_current_date(metadata)
+
+    # Logic to determine the output based on various conditions
+    
+    ## Page start in future:  ```(not exist text)```
+    if pageStartDate and pageStartDate > currentDate:
+        return preExistError
+
+    ## Page start and page end defined, start after end: ```Time Traveler, Check your YAML```
+
+    if pageStartDate and pageEndDate and pageStartDate > pageEndDate:
+        return "**(timetraveler, check your YAML)**"
+    
+    ## Page start and page end defined, end in past: ```(startPrefix) (existenceDate) - (end prefix) (end date) (endStatus) at (age) years```
+    
+    if pageStartDate and pageEndDate and pageEndDate <= currentDate:
+        age = get_Age(pageEndDate, pageStartDate)
+        return f"{startPrefix} {display_date(pageStartDate, full=False)} - {endPrefix} {display_date(pageEndDate, full=False)} {endStatus} at {age} years old"
+  
+    ## Page start and page end defined, end in future: ```(startPrefix) (existenceDate) ((age) years old)```
+
+    if pageStartDate and pageEndDate and pageEndDate > currentDate:
+        age = get_Age(currentDate, pageStartDate)
+        return f"{startPrefix} {display_date(pageStartDate, full=False)} ({age} years old)"
+    
+    ## Page start defined and page end not defined: ```(startPrefix) (existenceDate) ((age) years old)```
+
+    if pageStartDate and not pageEndDate:
+        age = get_Age(currentDate, pageStartDate)
+        return f"{startPrefix} {display_date(pageStartDate, full=False)} ({age} years old)"
+    
+    ## Page start not defined page end defined, page end in future: empty
+
+    if not pageStartDate and pageEndDate and pageEndDate > currentDate:
+        return ""
+   
+    ## Page start not defined page end defined, page end in past: ```(end prefix) (end date) (endStatus)```
+
+    if not pageStartDate and pageEndDate and pageEndDate <= currentDate:
+        return f"{endPrefix} {display_date(pageEndDate, full=False)} {endStatus}"
+ 
+    ## Page start not defined, page end not defined: empty
+    
+    if not pageStartDate and not pageEndDate:
+        return ""
+
+
+def get_RegnalValue(metadata):
+    currentDate = get_current_date(metadata)
+    reignStartDate = clean_date(metadata["reignStart"]) if "reignStart" in metadata else None
+    reignEndDate = clean_date(metadata["reignEnd"], end=True) if "reignEnd" in metadata else None
+    pageStartDate = clean_date(metadata["born"]) if "born" in metadata else None
+    pageEndDate = clean_date(metadata["died"], end=True) if "died" in metadata else None
+    
+    # If the reignStart is not set, output nothing.
+
+    if not reignStartDate:
+        return ""
+    
+    # If the reignStart is after the target date, output nothing.
+
+    if reignStartDate > currentDate:
+        return ""
+    
+    # If the reignEnd is not set, set to page end date
+    if reignEndDate is None:
+        reignEndDate = pageEndDate 
+
+    # If the reignEnd and in the past, is defined: ```reigned (reign start) - (reign end) ((age) years)```
+    if reignEndDate and reignEndDate <= currentDate:
+        age = get_Age(reignEndDate, reignStartDate)
+        return f"reigned {display_date(reignStartDate, full=False)} - {display_date(reignEndDate, full=False)} ({age} years)"
+    
+    # # If the reignEnd is not defined, or in the future: ```reigning since (reign start) ((age) years)```
+    if (reignEndDate and reignEndDate > currentDate) or reignEndDate is None:
+        age = get_Age(currentDate, reignStartDate)
+        return f"reigning since {display_date(reignStartDate, full=False)} ({age} years)"
+
