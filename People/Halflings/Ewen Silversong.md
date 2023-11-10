@@ -13,7 +13,7 @@ family: Silversong
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
 yearOverride: 
 whereabouts:
-     - { date: 1748-08-26, place: "Chardon", region: Chardonian Empire, type: excursion }
+     - { date: 1748-08-26, place: "Chardon", region: Chardonian Empire, type: excursion}
      - { date: 1748-11-23, place: "unknown", region: Nevos Sea, type: excursion }
 ---
 # Ewen Silversong

@@ -22,7 +22,7 @@ It was found when the [[Dwarves]] fleeing the destruction of the kingdom of [[Ar
 - (DR:: 1575-09-19): [[Odim Mavdyrson]] attacks the fortifications, breaking through. The leader of the dwarves, Hagrim Firebrand, turns on his companions as Odim approaches, creating the Shadowfell domain of [[Morkalan]] in death, and dragging the surviving dwarves to this realm with him. The chalice is abandoned in the fortifications surrounded the [[Statue of the Stoneborn Warrior]]. 
 - (DR:: 1747-12-05) A group of Chardonian treasure hunters arrives at the ancient [[Statue of the Stoneborn Warrior]] and finds a major cache of Dwarven relics hidden nearby, including the Chalice of the Runepriest. Two of them -- Vita, an archer, and Caius, a skirmisher -- are pulled into [[Morkalan]].
 - (DR:: 1747-12-15): The Chalice of the Runepriest passes through Songara, carried by Chardonian treasure hunters 
-- (DR:: 1748-01-15): Rumors reach the dwarven kingdom of [[Nardith]] in the Yuvanti Mountains that treasure hunters are seeking ancient artifacts among the ruins of [[Ardith]], including rumors that the Chalice of the Runepriest has been recovered.
+- (DR:: 1748-01-15): Rumors reach Riswynn Brawnanvil and other dwarves of [[Nardith]] in the Yuvanti Mountains that treasure hunters are seeking ancient artifacts among the ruins of [[Ardith]], including rumors that the Chalice of the Runepriest has been recovered.
 - (DR:: 1748-02-04): The Chalice of the Runepriest arrives in Chardon
 - (DR:: 1748-04-11): The Chalice of the Runepriest is purchased by [[Galen]] for his private study
 - (DR:: 1748-08-23): Galen argrees to sell the Chalice of the Runepriest to Riswynn, a dwarf of Nardith

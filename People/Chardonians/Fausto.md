@@ -12,9 +12,9 @@ affiliations: ["The Society of the Open Scroll", "The Cleansed"]
 aliases: []
 tags: [NPC/DuFr/major, NPC/DuFr/met]
 whereabouts:
-- { date: 1731-01-01, place: "Chardon", region: Chardonian Empire, type: home}
-###secret[1]
-- { date: 1737-01-01, place: "Chardon", region: Chardonian Empire, type: home}
+- { date: 1731-01-01, place: "Chardon", region: "Chardonian Empire", type: home}
+- { date: 1734-01-01, place: "adventuring", region: "The West Coast Region", type: excursion}
+- { date: 1737-01-01, place: "Chardon", region: "Chardonian Empire", type: home}
 ---
 # Fausto
 >[!info]+ Biographical Summary
@@ -31,4 +31,4 @@ Fausto is also a powerful enchanter who tricked [[The Dunmar Fellowship]], attem
 
 He is also apparently a member of a secret organization called [[The Cleansed]]. 
 
-%%SECRET[2]%%
+%%SECRET[1]%%
