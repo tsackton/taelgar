@@ -1,6 +1,6 @@
 ### Eudomes' Mirror 
 
-A large ornate wall mirror, originally mounted in [[Eudomes]]' bedroom in [[Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Stormcaller Tower]], found by Delwath in [[Session 16 (DuFr)]].
+A large ornate wall mirror, originally mounted in [[Eudomes]]' bedroom in [[Stormcaller Tower]], found by Delwath in [[Session 16 (DuFr)]].
 
 When an object is shown to the mirror and a question is asked, the mirror shows scenes of the item that, potentially, reflect the question asked, depending on the insight and willpower of the question asker. 
 

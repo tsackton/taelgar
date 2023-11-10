@@ -11,7 +11,7 @@
 **Oct 16 - Oct 22**: Organize a ship and supplies from [[Wahacha]], to sail north. 
 **Oct 23**: Say farewell to [[Rufus]]; depart with [[Alimash]] and [[Shoal]] for the tower of [[Arryn]] the Wanderer. 
 **Oct 24 - Nov 12**: Sail north, passing many strange islands along the way. 
-**Nov 13**: Arrive [[Arryn]]'s tower. Fight mirror shards, meet [[Gyles]] the steward, discover that [[Arryn]] is trapped in the [[Mirror Realm]]. Free [[Arryn]]. Say goodbye to [[Shoal]], who heads south again to court his lady love, and [[Alimash]], who remains in [[Arryn]]’s service for the time being. Plane shift to Lastlight Falls, the fey crossing near [[Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Stormcaller Tower]] in the north of [[Dunmar]], by [[Arryn]]’s magic.
+**Nov 13**: Arrive [[Arryn]]'s tower. Fight mirror shards, meet [[Gyles]] the steward, discover that [[Arryn]] is trapped in the [[Mirror Realm]]. Free [[Arryn]]. Say goodbye to [[Shoal]], who heads south again to court his lady love, and [[Alimash]], who remains in [[Arryn]]’s service for the time being. Plane shift to Lastlight Falls, the fey crossing near [[Stormcaller Tower]] in the north of [[Dunmar]], by [[Arryn]]’s magic.
 
 ## Session Notes
 
