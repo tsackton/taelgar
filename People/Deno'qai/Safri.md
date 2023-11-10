@@ -12,13 +12,13 @@ family:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 whereabouts:
-     - { date: 1748-10-25, place: "forest valleys of the north", region: Sentinel Range, type: excursion }
+     - { date: 1748-10-25, place: "forest valleys of the north", region: Sentinel Range, type: visit }
 ---
 # Safri
 >[!info]+ Biographical Summary
->human (Deno'qai), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Deno'qai|Deno'qai]]), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 An old Deno'qai druid with many stories and rumors to her name.
 
