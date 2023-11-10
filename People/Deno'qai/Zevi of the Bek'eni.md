@@ -5,7 +5,7 @@ species: human
 ancestry: "Deno'qai"
 gender: male
 born: 
-died: 1748-11-23
+died: 1748
 title:
 origin: Elderwood
 family:
