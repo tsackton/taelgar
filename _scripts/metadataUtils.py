@@ -75,3 +75,10 @@ def get_Age(younger, older):
     older = clean_date(older)
     return younger.year - older.year - ((younger.month, younger.day) < (older.month, older.day))
 
+
+def parse_loc_string(string, metadata):
+    pieces = string.split(",")
+    for piece in pieces:
+        piece = piece.strip()
+        piece = get_link(piece, metadata)
+    return ", ".join(pieces)
