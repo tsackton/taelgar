@@ -9,16 +9,11 @@
 
 Start: mid-morning, Dec 25th
 End: morning, Jan 1st, 1749
-#### [[Eudomes' Mirror]]
- - 23 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
- - 30 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's note: [[Urgall's Note Vision]]
- - *6 Jan 1749: [[Eudomes' Mirror]] is available again*
 ## Timeline 
-- 28 Dec 1748: Arrive in [[Tollen]] late afternoon; split up for various errands
-- 29 Dec 1748: First day of [[Pyravela]]; attend parade; Insinguese party on [[Scrollwright Street]] hosted by [[Guy Marchand]]; student party at the university
-- 30 Dec 1748: Work on party preparations; speak with [[Umli]] ; attend [[Dyer's Guild]] party; host [[Pyravela]] party on [[Vindristjarna]]
-- 31 Dec 1748: Everyone experiences the final day of [[Pyravela]] in their own way
-- 1 Jan 1749: Session ends in the morning
+- (DR:: 1748-12-30): *(afternoon)* Attend [[Dyer's Guild]] party
+- (DR:: 1748-12-30): *(evening)* Host [[Pyravela]] party on [[Vindristjarna]]
+- (DR::1748-12-31): Everyone experiences the final day of [[Pyravela]] in their own way
+- (DR:: 1749-01-01): *(early morning)* The sun rises on a new year in Tollen
 ## Narrative
 
 We begin on Dec 30th, the second day of the [[Pyravela]] festival, as the party heads to the [[Dyer's Guild]] guildhall, where the guild is hosting an elaborate [[Pyravela]] party. It is crowded, and much more explicitly religious than the [[Session 76 (DuFr)|parties yesterday]], with priests of [[the wyrdling]] wandering around, giving blessings and asking for donations to various charitable causes. Several familiar faces are at the party, including the tattoo artist [[Cecilia Lister]] and [[Escobar Garavito]], the student on a [[dyer's guild]] scholarship. 

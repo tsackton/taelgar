@@ -9,17 +9,13 @@
 
 Start:  afternoon, Jan 3rd, 1749 
 End: afternoon, Jan 8th, 1749
-#### [[Eudomes' Mirror]]
- - *6 Jan 1749: [[Eudomes' Mirror]] is available again*
 ## Timeline 
-- 1 Jan 1749: Spend a day relaxing
-- 2 Jan 1749: Visit the [[Ancient and Honorable Guild of Philosophers]] and have dinner with [[Melindir]] and [[Elwis]]
-- 3 Jan 1749: Have breakfast with [[Faldrak Bronzehammer]]; spend afternoon in [[Tollen]]
-- 4 Jan 1749: Take care of [[Tollen]] business
-- 5 Jan 1749: Take care of [[Tollen]] business
-- 6 Jan 1749: Depart; reach middle of the [[western gulf]] by nightfall
-- 7 Jan 1749: Dawn over [[Western Gulf]]; reach coast of [[Cymea]] by evening; fly over [[Cymea]] overnight
-- 8 Jan 1749: Arrive at Edge of Echoes early afternoon. Land [[Vindristjarna]], descend into cave. Navigate down underground river by boat; fight water elements in a vast underground lake; traverse elemental hazards; arrive at ancient Drankorian ruins. 
+- (DR:: 1749-01-03): Spend afternoon in [[Tollen]]
+- (DR:: 1749-01-04): Take care of [[Tollen]] business
+- (DR:: 1749-01-05): Take care of [[Tollen]] business
+- (DR:: 1749-01-06): Depart; reach middle of the [[western gulf]] by nightfall
+- (DR:: 1749-01-07): Dawn over [[Western Gulf]]; reach coast of [[Cymea]] by evening; fly over [[Cymea]] overnight
+- (DR:: 1749-01-08): Arrive at Edge of Echoes early afternoon. Land [[Vindristjarna]], descend into cave. Navigate down underground river by boat; fight water elements in a vast underground lake; traverse elemental hazards; arrive at ancient Drankorian ruins. 
 ## New Treasure
 - A darkvision tattoo, acquired by [[Wellby]] from [[Cecilia Lister]]
 

@@ -10,16 +10,15 @@
 Start: mid-morning, Dec 25th
 End: afternoon, Dec 30th
 #### [[Eudomes' Mirror]]
- - 23 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
- - 30 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's note: [[Urgall's Note Vision]]
- - *6 Jan 1749: [[Eudomes' Mirror]] is available again*
+- (DR:: 1748-12-23): Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]] (recharge:: mirror)
+ - (DR:: 1748-12-30): Use [[Eudomes' Mirror]] on Urgall's note: [[Urgall's Note Vision]] (recharge:: mirror)
 ## Timeline 
-- 25 Dec 1748: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. Speak with Skaer, depart for [[Tollen]].
-- 26 Dec 1748: Travel towards [[Tollen]]
-- 27 Dec 1748: Travel towards [[Tollen]]
-- 28 Dec 1748: Arrive in [[Tollen]] late afternoon; split up for various errands
-- 29 Dec 1748: First day of [[Pyravela]]; attend parade; Insinguese party on [[Scrollwright Street]] hosted by [[Guy Marchand]]; student party at the university
-- 30 Dec 1748: Work on party preparations; speak with [[Umli]] 
+- (DR:: 1748-12-25): Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. Speak with Skaer, depart for [[Tollen]].
+- (DR:: 1748-12-26): Travel towards [[Tollen]]
+- (DR:: 1748-12-27): Travel towards [[Tollen]]
+- (DR:: 1748-12-28): Arrive in [[Tollen]] late afternoon; split up for various errands
+- (DR:: 1748-12-29): First day of [[Pyravela]]; attend parade; Insinguese party on [[Scrollwright Street]] hosted by [[Guy Marchand]]; student party at the university
+- (DR:: 1748-12-30): Work on party preparations; speak with [[Umli]] 
 ## Narrative
 
 We begin as the party has been traveling for three days, across the [[western Green Sea]] and the interior forests of [[Vostok]], and is approaching [[Tollen]]. During this time, [[Delwath]] has been scrying, and messages have come in:

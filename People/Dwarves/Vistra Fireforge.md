@@ -14,7 +14,7 @@ tags: [NPC/DuFr/minor, NPC/DuFr/met, NPC/Clee/unsorted]
 yearOverride: 
 whereabouts:
      - { date: 1589-01-01, place: "Tharn Todor", region: Nardith, type: origin}
-     - { date: 1620-01-01, place: "Ausson's Crossing", region: Greater Sembara, type: home}
+     - { date: 1620-01-01, place: "Ausson's Crossing", region: Refounded Alliance of Aurbez, type: home}
      - { date: 1730-01-01, place: "Tokra", region: Central Dunmar, type: home}
 ## years are arbitrary for Nardith -> Ausson's Crossing -> Tokra
 ## could be changed but should be in Tokra by 1735 at the latest

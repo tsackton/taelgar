@@ -179,11 +179,12 @@ async function get_table(input) {
         if (options.includeExcursions == true && item.file.frontmatter.whereabouts != null) {
             console.log("whereabouts from " + item.file.name)
             let origin = item.file.frontmatter.whereabouts.find(w => w.type === "origin");
-            let  homeCount = 0;
+            let homeCount = 0;
             item.file.frontmatter.whereabouts.forEach(element => {
                 if (element.type == "home") {                    
                     if (origin == undefined && homeCount == 0) {
-                       console.log("Skipping first home event as we don't have an origin, so first home is treated as origin")                    
+                       console.log("Skipping first home event as we don't have an origin, so first home is treated as origin")  
+                       origin = { place: "unknown", region: "unknown"}         
                     }                    
                     else if (element.date == undefined) {
                         console.log("Whereabouts doesn't have a date. Skipping. " + item.file.name + " " + element);
