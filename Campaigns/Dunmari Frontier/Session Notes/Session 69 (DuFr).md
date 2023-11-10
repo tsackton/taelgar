@@ -10,13 +10,6 @@
 
 Start: night, Nov 29th 1748
 End: early morning, Dec 4th
-
-#### Eudomes’ Mirror:
- - **2 Dec 1748: [[Eudomes' Mirror]] is available to use**
-
-#### Divine Inspiration
-- **28 Nov 1748: [[Riswynn]]'s Divine Intervention is available again to attempt.**
-
 ## Timeline
 
 - (DR:: 1748-11-29): *(midnight)* Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [[Kenzo]] unconscious and attempts to flee with him.
