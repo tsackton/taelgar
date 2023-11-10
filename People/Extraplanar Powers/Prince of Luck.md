@@ -6,19 +6,18 @@ ancestry:
 gender: male
 born: 
 died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
 origin:
-originRegion:
 affiliations: 
 aliases: [Chanceweaver]
 tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 yearOverride: 
+title:
+family:
 ---
-## The Prince of Luck
-(he/him)
+# Prince of Luck
+>[!info]+ Biographical Summary
+>fey, he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 
 The Prince of Luck, known as the Chanceweaver, is the ruler of the domain of Fortune’s Rest, and a charming gambler ruling over an endless casino court. 
 
