@@ -71,12 +71,24 @@ A **last known location** is defined as
 	Value: the last known whereabouts
 	Output: the last known whereabouts is defined and the current location is Unknown
 
-Given the above information, we expect the "get_CurrentWhereabouts" script to output the following:
+
+### get_Homewhereabouts
+First, it calculates the four values above using the current Fantasy Calendar date as the target date. 
+For debugging, it supports the ability to use the "pageTargetDate" from the page instead, which overrides the Fantasy Calendar date.
+
+Second, it outputs between 1 and 2 lines.
 
 Line 1: If the origin output flag is true: "Originally from: (origin)"
 Line 2: If the home output flag is true, and the person is alive at the current date: "Based in: (home)"
 Line 2: If the home output flag is true, and the person is dead at the current date: "Lived in: (home)"
-Line 3: If the last known location output flag is true, "Last known Location (as of lastknown.date): (lastknown)"
-Line 4: If the current location output flag is true, and the person is alive: "Current location (as of target date): (current)"
+
+### get_CurrentWhereabouts
+First, it calculates the four values above using the current Fantasy Calendar date as the target date. 
+For debugging, it supports the ability to use the "pageTargetDate" from the page instead, which overrides the Fantasy Calendar date.
+
+Second, it outputs between 1 and 2 lines:
+
+Line 1: If the last known location output flag is true, "Last known Location (as of lastknown.date): (lastknown)"
+Line 2: If the current location output flag is true, and the person is alive: "Current location (as of target date): (current)"
 
 See [[Formatting]],  [[Whereabouts and Last Seen By Party]] and [[Page Dates]] for more information.
