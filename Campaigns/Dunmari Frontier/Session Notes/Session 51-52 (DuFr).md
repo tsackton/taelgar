@@ -21,7 +21,7 @@
 **Oct 24**: Wait at camp.
 **Oct 25**: Meet [[Safri]], in deer form. Descend to [[Safri]]'s valley, and speak with her. 
 **Oct 26**: Teleport via trees to the slopes of [[Sentinel Range]]
-**Oct 26 - Oct 28**: Ride out of the mountains, past the growing storm around [[Gazetteer/The Central Lowlands Region/Dunmar/Eastern Dunmar/Stormcaller Tower]]. 
+**Oct 26 - Oct 28**: Ride out of the mountains, past the growing storm around [[Stormcaller Tower]]. 
 **Oct 29**: Ride south, reaching settled lands
 **Oct 30 - Nov 3**: gather rumors around [[Karawa]]
 **Nov 4**: Turn east for the fey portal
