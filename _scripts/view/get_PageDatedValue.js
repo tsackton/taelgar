@@ -1,66 +1,68 @@
-function get_PageDatedValue(metadata, currentYear) {
 
-    // get type //
 
-    if (metadata.type == "NPC") {
-        yearStart = metadata.born ? metadata.born.toString().split("-")[0] : metadata.born
-        yearEnd = metadata.died
-        preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet born)**"
-        startPrefix = metadata.startPrefix ? metadata.startPrefix : "b.";
-        endPrefix = metadata.endPrefix ? metadata.endPrefix : "d.";
-        endStatus = metadata.endStatus ? metadata.endStatus : "died"
-    } else if (metadata.type == "Ruler") {
-        yearStart = metadata.born ? metadata.born.toString().split("-")[0] : metadata.born
-        yearEnd = metadata.died
-        preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet born)**"
-        startPrefix = metadata.startPrefix ? metadata.startPrefix : "b.";
-        endPrefix = metadata.endPrefix ? metadata.endPrefix : "d.";
-        endStatus = metadata.endStatus ? metadata.endStatus : "died"
+function get_PageDatedValue(metadata) {
+
+    const { metadataUtils } = customJS
+
+    let defaultPreexistError = "**(doesn't yet exist)**"
+    let defaultStart = "created"
+    let defaultEnd = "destroyed"
+    let defaultEndStatus = "destroyed"
+
+    if (metadata.type == "NPC" || metadata.type == "PC" || metadata.type == "Ruler") {
+        defaultPreexistError = "**(not yet born)**"
+        defaultStart = "b.";
+        defaultEnd=  "d.";
+        defaultEndStatus = "died"
     } else if (metadata.type == "Building") {
-        yearStart = metadata.built ? metadata.built.toString().split("-")[0] : metadata.built
-        yearEnd = metadata.destroyed
-        preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet built)**"
-        startPrefix = metadata.startPrefix ? metadata.startPrefix : "built";
-        endPrefix = metadata.endPrefix ? metadata.endPrefix : "destroyed";
-        endStatus = metadata.endStatus ? metadata.endStatus : "destroyed"
+        defaultPreexistError =  "**(not yet built)**"
+        defaultStart = "built";       
     } else if (metadata.type == "Item") {
-        yearStart = metadata.created ? metadata.created.toString().split("-")[0] : metadata.created
-        yearEnd = metadata.destroyed
-        preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet created)**"
-        startPrefix = metadata.startPrefix ? metadata.startPrefix : "created";
-        endPrefix = metadata.endPrefix ? metadata.endPrefix : "destroyed";
-        endStatus = metadata.endStatus ? metadata.endStatus : "destroyed"
+        defaultPreexistError = "**(not yet created)**"
+        defaultStart =  "created";      
+    } else if (metadata.type == "Place") {
+        defaultPreexistError =  "**(not yet founded)**"
+        defaultStart =  "founded";       
     }
 
-    currentYear = metadata.yearOverride ? metadata.yearOverride : currentYear
-    
-    if (!yearStart && !yearEnd) return "unknown age";
-    if (yearStart && yearEnd && yearStart > yearEnd) return "**(timetraveler, check your YAML)**";
-    
+    preExistError = metadata.preExistError ? metadata.preExistError : defaultPreexistError
+    startPrefix = metadata.startPrefix ? metadata.startPrefix : defaultStart
+    endPrefix = metadata.endPrefix ? metadata.endPrefix : defaultEnd
+    endStatus = metadata.endStatus ? metadata.endStatus : defaultEndStatus
+
+    currentYear = metadataUtils.get_pageEventsDate(metadata);
+    yearStart = metadataUtils.get_existEventsDate(metadata)
+    yearEnd = metadataUtils.get_endEventsDate(metadata)
+
+    console.log("Using " + currentYear.display + " as current, " + yearStart.display + " as start")
+
+    if (!yearStart && !yearEnd) return "";
+    if (yearStart && yearEnd && yearStart.sort > yearEnd.sort) return "**(timetraveler, check your YAML)**";
+
     // we have a created year, no ended year
     if (yearStart && !yearEnd) {
-        if (yearStart > currentYear) return preExistError;
+        if (yearStart.sort > currentYear.sort) return preExistError;
         
-        let age = currentYear - yearStart;
+        let age = metadataUtils.get_Age(currentYear.jsDate, yearStart.jsDate)
 
-        return startPrefix + " " + yearStart + " (" + age + " years old)";
+        return startPrefix + " " + yearStart.display + " (" + age + " years old)";
     }
 
     // we have a death year, no born year
     if (yearEnd && !yearStart) {
-        if (yearEnd <= currentYear) return endPrefix + " " + yearEnd + ", " + endStatus + " at unknown age";
+        if (yearEnd.sort  <= currentYear.sort) return endStatus + " " + yearEnd.display;
         // they have a death date, and it hasn't happened yet, but no born date, so nothing to show
-        return "unknown age";
+        return "";
     }
 
-    if (yearStart > currentYear) return preExistError;
+    if (yearStart.sort  > currentYear.sort ) return preExistError;
 
     // we have both a start and end date - and they died before now
-    if (yearEnd <= currentYear) {       
-        return startPrefix + " " + yearStart + " - " + endPrefix + " " + yearEnd +  ", " + endStatus + " at " + (yearEnd-yearStart) + " years old"
+    if (yearEnd.sort  <= currentYear.sort) {       
+        return startPrefix + " " + yearStart.display + " - " + endPrefix + " " + yearEnd.display +  ", " + endStatus + " at " + (metadataUtils.get_Age(yearEnd.jsDate, yearStart.jsDate)) + " years old"
     }
 
-    return startPrefix + " " + yearStart + " (" + (currentYear-yearStart) + " years old)";
+    return startPrefix + " " + yearStart.display + " (" + ( metadataUtils.get_Age(currentYear.jsDate, yearStart.jsDate)) + " years old)";
 }
 
-return get_PageDatedValue(dv.current(), input.currentYear)
+return get_PageDatedValue(dv.current())

@@ -7,21 +7,17 @@ gender: female
 affiliations: 
 born: 1725
 title:
+origin: { place: "Te'kula village", region: Elderwood }
 family:
 died: 
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
-whereabouts:
- - { date: 1725-01-01, place: "Te'kula village", region: Elderwood, type: origin }
- - { date: 1725-01-02, place: "Te'kula village", region: Elderwood, type: home }
 ---
 # Alayah
 >[!info]+ Biographical Summary
->human (Deno'qai), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Te'kula village, [[Elderwood]]
+>[[Humans|human]] ([[Deno'qai|Deno'qai]]), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> Based in: Te'kula village, [[Elderwood]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
 The young Godcaller of the [[Te'kula]] tribe in the Elderwood. Dreamed of [[Rai]] and [[Kenzo]]. 
 

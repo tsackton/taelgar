@@ -1,3 +1,9 @@
+---
+cultureDescriptor: Sembaran
+---
+
+---
+
 # Sembara
 
 ![[sembara-1750-updated.png]]

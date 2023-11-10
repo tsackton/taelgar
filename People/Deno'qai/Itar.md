@@ -6,13 +6,12 @@ ancestry: "Deno'qai"
 gender: male
 born: 1716
 died: 
+origin: {place: "Bek'eni village", region: Elderwood}
 affiliations: 
 title:
 family:
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
-whereabouts:
-     - { date: 1716-01-02, place: "Bek'eni village", region: Elderwood, type: home }
 ---
 # Itar
 >[!info]+ Biographical Summary
