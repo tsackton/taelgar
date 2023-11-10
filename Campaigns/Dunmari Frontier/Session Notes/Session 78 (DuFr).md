@@ -9,17 +9,10 @@
 
 Start: morning, Jan 1st, 1749
 End: afternoon, Jan 3rd, 1749
-#### [[Eudomes' Mirror]]
- - 23 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
- - 30 Dec 1748: Use [[Eudomes' Mirror]] on Urgall's note: [[Urgall's Note Vision]]
- - *6 Jan 1749: [[Eudomes' Mirror]] is available again*
 ## Timeline 
-- 29 Dec 1748: First day of [[Pyravela]]; attend parade; Insinguese party on [[Scrollwright Street]] hosted by [[Guy Marchand]]; student party at the university
-- 30 Dec 1748: Work on party preparations; speak with [[Umli]] ; attend [[Dyer's Guild]] party; host [[Pyravela]] party on [[Vindristjarna]]
-- 31 Dec 1748: Everyone experiences the final day of [[Pyravela]] in their own way
-- 1 Jan 1749: Spend a day relaxing
-- 2 Jan 1749: Visit the [[Ancient and Honorable Guild of Philosophers]] and have dinner with [[Melindir]] and [[Elwis]]
-- 3 Jan 1749: Have breakfast with [[Faldrak Bronzehammer]] 
+- (DR:: 1749-01-01): Spend a day relaxing
+- (DR:: 1749-01-02): Visit the [[Ancient and Honorable Guild of Philosophers]] and have dinner with [[Melindir]] and [[Elwis]]
+- (DR:: 1749-01-03): *(morning)* Have breakfast with [[Faldrak Bronzehammer]] 
 ## Narrative
 
 We begin on Jan 1st, 1749, as the new year, by [[Tollen]] reckoning, dawns. 

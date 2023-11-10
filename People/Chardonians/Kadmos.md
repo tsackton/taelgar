@@ -15,18 +15,9 @@ tags:
   - NPC/DuFr/major
   - NPC/DuFr/met
 whereabouts:
-  - date: 0001-01-02
-    place: Chardon
-    region: Chardonian Empire
-    type: home 
-  - date: 1748-11-15
-    place: somewhere in Dunmar
-    region: Dunmar
-    type: excursion
-  - date: 1748-11-19
-    place: Garamjala Desert
-    region: Dunmar
-    type: excursion
+  - {date: 0001-01-02, place: Chardon, region: "Chardonian Empire", type: home} 
+  - {date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, type: excursion}
+  - {date: 1748-11-19, place: "Garamjala Desert", region: Dunmar, type: excursion} 
 ---
 # Kadmos
 >[!info]+ Biographical Summary

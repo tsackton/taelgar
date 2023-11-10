@@ -1,5 +1,3 @@
-
-
 function get_PageDatedValue(metadata) {
 
     const { metadataUtils } = customJS
@@ -23,6 +21,7 @@ function get_PageDatedValue(metadata) {
     } else if (metadata.type == "Place") {
         defaultPreexistError =  "**(not yet founded)**"
         defaultStart =  "founded";       
+
     }
 
     preExistError = metadata.preExistError ? metadata.preExistError : defaultPreexistError
