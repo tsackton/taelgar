@@ -8,17 +8,15 @@ born: 1688
 died: 
 title:
 family:
+origin: { place: "Te'kula village", region: Elderwood }
 affiliations: 
 aliases: []
 tags: [NPC/DuFr/minor, NPC/DuFr/met]
-whereabouts:
-     - { date: 1688-01-02, place: "Te'kula village", region: Elderwood, type: home }
 ---
 # Obel
 >[!info]+ Biographical Summary
->human (Deno'qai), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: Te'kula village, [[Elderwood]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Deno'qai|Deno'qai]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
 
 An old ranger of the Te'kula who volunteered to fight [[Mezzar|Grimbaskal]] with the party. Miraculously survived. 

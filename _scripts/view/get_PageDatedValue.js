@@ -33,7 +33,7 @@ function get_PageDatedValue(metadata) {
     yearStart = metadataUtils.get_existEventsDate(metadata)
     yearEnd = metadataUtils.get_endEventsDate(metadata)
 
-    console.log("Using " + currentYear.display + " as current, " + yearStart.display + " as start")
+    console.log("Using " + currentYear.display + " as current, " + (yearStart ? yearStart.display : "none") + " as start")
 
     if (!yearStart && !yearEnd) return "";
     if (yearStart && yearEnd && yearStart.sort > yearEnd.sort) return "**(timetraveler, check your YAML)**";
