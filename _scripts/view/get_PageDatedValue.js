@@ -4,28 +4,28 @@ function get_PageDatedValue(metadata, currentYear) {
 
     if (metadata.type == "NPC") {
         yearStart = metadata.born ? metadata.born.toString().split("-")[0] : metadata.born
-        yearEnd = metadata.died
+        yearEnd = metadata.died ? metadata.died.toString().split("-")[0] : metadata.died
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet born)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "b.";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "d.";
         endStatus = metadata.endStatus ? metadata.endStatus : "died"
     } else if (metadata.type == "Ruler") {
         yearStart = metadata.born ? metadata.born.toString().split("-")[0] : metadata.born
-        yearEnd = metadata.died
+        yearEnd = metadata.died ? metadata.died.toString().split("-")[0] : metadata.died
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet born)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "b.";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "d.";
         endStatus = metadata.endStatus ? metadata.endStatus : "died"
     } else if (metadata.type == "Building") {
         yearStart = metadata.built ? metadata.built.toString().split("-")[0] : metadata.built
-        yearEnd = metadata.destroyed
+        yearEnd = metadata.destroyed ? metadata.destroyed.toString().split("-")[0] : metadata.destroyed
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet built)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "built";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "destroyed";
         endStatus = metadata.endStatus ? metadata.endStatus : "destroyed"
     } else if (metadata.type == "Item") {
         yearStart = metadata.created ? metadata.created.toString().split("-")[0] : metadata.created
-        yearEnd = metadata.destroyed
+        yearEnd = metadata.destroyed ? metadata.destroyed.toString().split("-")[0] : metadata.destroyed
         preExistError = metadata.preExistError ? metadata.preExistError : "**(not yet created)**"
         startPrefix = metadata.startPrefix ? metadata.startPrefix : "created";
         endPrefix = metadata.endPrefix ? metadata.endPrefix : "destroyed";
