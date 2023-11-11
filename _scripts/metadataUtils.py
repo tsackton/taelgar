@@ -82,3 +82,42 @@ def parse_loc_string(string, metadata):
         piece = piece.strip()
         piece = get_link(piece, metadata)
     return ", ".join(pieces)
+
+def get_page_start_date(metadata):
+    pageStartDate = clean_date(metadata["created"]) if "created" in metadata else None
+    if metadata["type"] in ["NPC", "PC", "Ruler"]:
+        pageStartDate = clean_date(metadata["born"]) if "born" in metadata else pageStartDate
+    return pageStartDate
+
+def get_page_end_date(metadata):
+    pageEndDate = clean_date(metadata["destroyed"], end=True) if "destroyed" in metadata else None
+    if metadata["type"] in ["NPC", "PC", "Ruler"]:
+        pageEndDate = clean_date(metadata["died"], end=True) if "died" in metadata else pageEndDate
+    return pageEndDate
+
+def parse_whereabouts(metadata):
+    '''
+    parse whereabouts generates four location types:
+    An origin location is defined as
+    Value: the origin whereabout
+    Output: origin whereabout is defined and whereabouts with type home > 1 or the origin whereabout is defined and there is no home whereabout
+
+    A current location is defined as
+    Value:
+    If there is an exact known whereabouts, use that and set the output flag to true
+    Otherwise, if there is both a home and last known whereabouts where
+    The last known whereabouts has a defined end and
+    The last known whereabouts end date is in the past compared to the target date
+    Then use the home whereabout as the current location and set the output flag to false
+    Otherwise, the current location is Unknown and set the output flag to true
+    Output: See algorithm above
+
+    A home location is defined as
+    Value: the home whereabouts
+    Output: the home whereabouts is defined
+
+    A last known location is defined as
+    Value: the last known whereabouts
+    Output: the last known whereabouts is defined and the current location is Unknown
+    Date: the last known whereabouts date
+    '''
