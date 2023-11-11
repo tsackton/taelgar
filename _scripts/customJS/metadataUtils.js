@@ -79,15 +79,23 @@ class metadataUtils {
     get_Location(place) {
         function get_LocationFromPieces(singleLoc) {
 
-            let locArrayValues = singleLoc.split(",").map(function (f) {
-                let pieceValue = f.trim();
 
-                let file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
-                if (file != undefined) { return "[[" + pieceValue + "]]"; }
-                return pieceValue;
-            });
+            if (singleLoc == undefined) return "Unknown"
+            if (singleLoc == "") return "Unknown"
+            if (typeof singleLoc === 'string' || singleLoc instanceof String) {
 
-            return locArrayValues.join(', ');
+                let locArrayValues = singleLoc.split(",").map(function (f) {
+                    let pieceValue = f.trim();
+
+                    let file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
+                    if (file != undefined) { return "[[" + pieceValue + "]]"; }
+                    return pieceValue;
+                });
+
+                return locArrayValues.join(', ');
+            }
+
+            return "Unknown"
         }
 
 
@@ -145,25 +153,26 @@ class metadataUtils {
         let start = this.parse_date_to_events_date(whereaboutItem.start, false);
         let end = this.parse_date_to_events_date(whereaboutItem.end, true);
         let logicalEnd = end ?? start;
-        let jsDateMin = new Date(0)
+        let jsDateMin = new Date('0001-01-01')
 
         if (!whereaboutItem.location) {
-           let locToUse = undefined;
-           if (whereaboutItem.place) {
-            locToUse = whereaboutItem.place;
-           }
-           if (whereaboutItem.region) {
-             if (locToUse) {
-                locToUse = locToUse + "," + whereaboutItem.region;
-             }
-             else {
-                locToUse = whereaboutItem.region;
-             }
-           }
+            let locToUse = undefined;
+            if (whereaboutItem.place) {
+                locToUse = whereaboutItem.place;
+            }
+            if (whereaboutItem.region) {
+                if (locToUse) {
+                    locToUse = locToUse + "," + whereaboutItem.region;
+                }
+                else {
+                    locToUse = whereaboutItem.region;
+                }
+            }
 
-           whereaboutItem.location = locToUse;
+            whereaboutItem.location = locToUse;
         }
 
+        console.log(jsDateMin)
 
         return {
             item: whereaboutItem,
@@ -212,7 +221,8 @@ class metadataUtils {
             .filter(filter_lastKnown)
             .toSorted((a, b) => a.normalizedStart.jsDate - b.normalizedStart.jsDate);
 
-        if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
+        for (let i of allowedWhereabouts) console.log(i)
+        if (allowedWhereabouts.length > 0) return allowedWhereabouts.last().item;
         return undefined;
     }
 

@@ -1,5 +1,5 @@
 function get_Pronouns(metadata) {
-        
+
     // if pronouns are defined in note metadata, use those
 
     if (metadata.pronouns) {
@@ -7,12 +7,12 @@ function get_Pronouns(metadata) {
     }
 
     // otherwise calculate pronouns from note metadata gender
-    
+
     if (metadata.gender == "male") {
         return "he/him"
     } else if (metadata.gender == "female") {
         return "she/her"
-    } 
+    }
 
     // if no gender or nonbinary, use they/them pronouns
     return "they/them"
@@ -28,7 +28,7 @@ async function generateHeader(tp) {
     let metadata = JSON.parse(metadataFile);
 
 
-    if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler" || tp.frontmatter.type == "PC") {   
+    if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler" || tp.frontmatter.type == "PC") {
         let ancestryDisplayValue = ""
         let speciesDisplayValue = ""
 
@@ -63,36 +63,37 @@ async function generateHeader(tp) {
         if (tp.frontmatter.whereabouts) {
             locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
 
-            if (tp.frontmatter.lastSeenByPartyX) {
-                tp.frontmatter.lastSeenByParty.filter(e => e.prefix != undefined && e.date != undefined).forEach(element => {
-    
-                    let whereAboutsArray = [];
-    
-                    if (tp.frontmatter.whereabouts) {
-                        for (w of tp.frontmatter.whereabouts) {
-                            if (w.date != undefined) {
-                                whereAboutsArray.push(w)
+            if (tp.frontmatter.lastSeenByParty) {
+                tp.frontmatter.lastSeenByParty.filter(e => e.prefix && e.date).forEach(element => {
+
+                     console.log(element) ;
+                     
+                    let parsedDate = metadataUtils.parse_date_to_events_date(element.date);
+                    let locForThisDate = metadataUtils.get_currentWhereabouts(tp.frontmatter, parsedDate);
+
+                    console.log(locForThisDate)
+
+                    if (locForThisDate) {
+                        let partyName = "the party";
+                        let campaignData = metadata.campaigns;
+                        if (campaignData) {
+                            let thisCampaign = campaignData.find(search => search.prefix == element.prefix);
+                            if (thisCampaign) {
+                                partyName = thisCampaign.partyName;
+                                if (thisCampaign.partyFile) {
+                                    partyName = "[[" + thisCampaign.partyFile + "|" + partyName + "]]"
+                                }
                             }
+                            locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${parsedDate.display}: ${metadataUtils.get_Location(locForThisDate)} %%^End%%`;
                         }
-                    }
-    
-                    let loc = whereAboutsArray.findLast(s => s.date != undefined && metadataUtils.parse_date_to_events_date(s.date).sort <= metadataUtils.parse_date_to_events_date(element.date).sort);                
-                    let partyName = "the party";
-                    let campaignData = metadata.campaigns;
-                    if (campaignData) {
-                        let thisCampaign = campaignData.find(search => search.prefix == element.prefix);
-                        if (thisCampaign) partyName = thisCampaign.partyName;
-                    }
-                    if (loc != undefined) {
-                        locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${metadataUtils.parse_date_to_events_date(element.date).display}: ${metadataUtils.get_Location(loc)} %%^End%%`;
                     }
                 });
             }
-    
-            locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";            
+
+            locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";
         }
 
-     
+
         // return string //
         let nameString = tp.frontmatter.name;
         if (tp.frontmatter.title) {
