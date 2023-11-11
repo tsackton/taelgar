@@ -4,12 +4,12 @@ Whereabouts is YAML list with the following format:
 
 ```yaml
 whereabouts:
- - { start: date or blank, end: date or blank, place: string, region: string, type: away or home }
+ - { start: date or blank, end: date or blank, location: string, type: away or home }
 ```
 
 * If the type is away at least the start date is expected to be specified and undefined behavior might occur (such as Javascript errors) if this is not specified.
-* If the type is home, one of place or region must be specified, and undefined behavior might occur (such as Javascript errors) if this is not specified.
-* Dates can be in the format YYYY, YYYY-MM, or YYYY-MM-DD
+* If the type is home no other values are required
+* Dates can be in the format YYYY, YYYY-MM, YYYY-MMx, or YYYY-MM-DD (see [[Formatting#Dates|Date Formatting]])
 
 This whereabouts YAML is then structured to generate the following logical pieces of information:
 
@@ -24,6 +24,7 @@ These are generated as follows:
 
 Terms: 
 * *logical end date* is the start date if the end date is undefined, otherwise the start date
+* *home count* is the number of "home" lines in the whereabouts section ignoring dates
 
 Algorithm:
 * Find the "exact known whereabouts". 
@@ -36,16 +37,19 @@ Algorithm:
 	* Candidate set = Take all of the whereabouts with type = home
 		* Start is unset or before or equal to target date and end (not logical end) is after or equal to target date
 		* Start is unset or before or equal to target date and end is unset
-	* If there are multiples reduce the set to all of the items with the latest start date that is before the target date. An unset start date should be treated as the earliest possible date
-	* If there are still multiples (because multiple items have the same or blank start date), take the one that is lexically last in the yaml
-	* If there are no items, the "home whereabouts" is undefined
+	* If there is a single value, and the home count is greater than one, and the single value has an undefined start and end date, the "home whereabout" is undefined
+		* This spec line is to handle the situation where you have a home with no dates (for the origin) and another home with an end date that is in the past
+	* If there is a single value and the home count is one, use it as the home origin
+	* If there are multiples sort by start date, then order in the yaml file, and take the last one
+	* If the set is empty, "home whereabouts" is undefined
+	* Regardless of the rules above, a home whereabouts with a blank location should be considered undefined
 * Find the "last known whereabout"
 	* Candidate set = Take all of the whereabouts where type = away
 		* Start is before or equal to target
 	* If there are multiples, take start date that is closed to the target date
 * Find the "origin whereabout"
 	* Candidate set = Take all of the whereabouts where type = home and start = undefined
-	* If there are multiples, select the lexically first one in the yaml
+	* If there are multiples, select the first one in the yaml
 
 We can then define our 4 location types:
 

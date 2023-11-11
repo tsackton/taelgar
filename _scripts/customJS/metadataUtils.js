@@ -94,7 +94,7 @@ class metadataUtils {
         if (!place.region && place.place) return get_LocationFromPieces(place.place)
         if (place.region && place.place) return get_LocationFromPieces(place.place + "," + place.region)
         if (place.location) return get_LocationFromPieces(place.location)
-    
+
         return get_LocationFromPieces(place)
     }
 
@@ -165,13 +165,13 @@ class metadataUtils {
 
     get_originWhereabouts(metadata) {
         let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f)).filter(f => f.type == "home" && f.startDate == undefined);
-      
+
         if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
         return undefined;
     }
 
     get_homeWhereabouts(metadata, targetDate) {
-        function sort_date(a, b) {          
+        function sort_date(a, b) {
             if (a.startDate == undefined && a.endDate == undefined && a.endDate == undefined && b.endDate == undefined) return 0;
             if (a.startDate == undefined && a.endDate != undefined && a.endDate == undefined && b.endDate == undefined) return -1;
             if (a.startDate == undefined && a.endDate == undefined && a.endDate == undefined && b.endDate != undefined) return 1;
@@ -185,16 +185,19 @@ class metadataUtils {
             && (f.endDate == undefined || (f.endDate && f.endDate.sort >= targetDate.sort)))
             .toSorted(sort_date)
 
-            let hasOtherHomes = metadata.whereabouts.filter(f => f.type == "home").length > 1;
-            
-            if (allowedWhereabouts.length == 1) {
-                if (hasOtherHomes && allowedWhereabouts.first().startDate == undefined && allowedWhereabouts.first().endDate == undefined) return undefined;
-                return allowedWhereabouts.first().item;
-            }
-            if (allowedWhereabouts.length > 1) {                
-                return allowedWhereabouts.first().item;
-            }
+        let hasOtherHomes = metadata.whereabouts.filter(f => f.type == "home").length > 1;
+
+        if (allowedWhereabouts.length == 0) return undefined;
+
+        let homePoss = allowedWhereabouts.first();
+
+        if (hasOtherHomes && allowedWhereabouts.length == 1 && !homePoss.startDate && !homePoss.endDate)
             return undefined;
+
+        if (!homePoss.item.location)
+            return undefined;
+
+        return homePoss.item;
     }
 
     get_exactWhereabouts(metadata, targetDate) {
@@ -203,9 +206,9 @@ class metadataUtils {
             && f.startDate.sort <= targetDate.sort
             && f.logicalEnd.sort >= targetDate.sort).toSorted((a, b) => a.duration - b.duration);
 
-       
-            if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
-            return undefined;
+
+        if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
+        return undefined;
 
     }
 }

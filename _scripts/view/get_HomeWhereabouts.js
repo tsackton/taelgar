@@ -25,7 +25,7 @@ function get_HomeWhereabouts(metadata) {
         let home =  metadataUtils.get_homeWhereabouts(metadata, current);
 
         let showOrigin = origin && ( !home || origin.location != home.location)
-        let showHome = home;
+        let showHome = home ;
 
         let displayString = "";
 
