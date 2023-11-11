@@ -18,25 +18,23 @@ lastSeenByParty:
     prefix: DuFr
 whereabouts:
   - start: 1634-01-01
-    place: Orenlas
-    region: ""
+    location: Orenlas
     type: home
   - start: 1744-01-01
     end: 1748-08-28
-    place: Green Sea
-    region: ""
+    location: Green Sea
     type: away
   - start: 1748-08-29
-    place: Tollen
-    region: ""
+    end: 1750 #end is approx
+    location: Tollen
     type: away
 ---
 # Elwis
 >[!info]+ Biographical Summary
 >[[Elves|elf]], she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka 37]])
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>b. DR1634 (115 years old) ([[The Cycle of Generations|ka 37]])
+>> Based in: Orenlas
+>> Current location (as of Jan 16, 1749): Tollen
 
 Elwis is a female elf from Orenlas. 
 

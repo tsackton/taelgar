@@ -15,8 +15,8 @@ tags: [NPC/DuFr/minor]
 lastSeenByParty: 
      - { date: 1748-12-17,  prefix: DuFr}
 whereabouts:
-     - { date: 0001-01-01, place: "Orenlas", region: "Western Green Sea", type: home}
-     - { date: 0001-01-02, place: "Tollen", region: "Western Green Sea" , type: home}
+     - { start: "", place: "Orenlas", region: "Western Green Sea", type: home}
+     - { start: "", place: "Tollen", region: "Western Green Sea" , type: home}
 ---
 # Melindir
 >[!info]+ Biographical Summary
