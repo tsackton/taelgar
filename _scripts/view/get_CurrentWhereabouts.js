@@ -13,69 +13,33 @@ function get_Whereabouts(metadata) {
 
     if (metadata.whereabouts) {
         if (existYear && pageYear.sort < existYear.sort) return "";
-        if (endYear && pageYear.sort > endYear.sort) return "";
-
-        let exactWhereabouts = metadataUtils.get_exactWhereabouts(metadata, pageYear)
         let lastKnownWhereabouts = metadataUtils.get_lastKnownWhereabouts(metadata, pageYear)
         let homeWhereabouts = metadataUtils.get_homeWhereabouts(metadata, pageYear)
+        let currentWhereabouts = metadataUtils.get_currentWhereabouts(metadata, pageYear)
 
-        let currentWhereabouts = undefined;
-        let outputCurrent = false;  
-
-        if (exactWhereabouts) {
-            currentWhereabouts = exactWhereabouts;
-            outputCurrent = true;
-        }
-    
-        let validWhereabouts = [];
-          for (w of metadata.whereabouts) {
-            if (w.date == undefined) {
-                if (w.type == "home") homeWhereabouts = w;
-                continue;
-            }
-
-            if (metadataUtils.parse_date_to_events_date(w.date).sort > pageYear.sort) {
-                console.log("skipping - too late")
-                continue;
-            };
-            
-            let date_end = w.date_end;
-            if (date_end == undefined && w.type == "visit" && w.end != false) date_end = w.date;
-
-            if (date_end != undefined)
-            {
-                if (metadataUtils.parse_date_to_events_date(date_end).sort < pageYear.sort) {
-                    console.log("skipping - already over")
-                    continue;
-                }   
-            } 
-
-            validWhereabouts.push(w);
-            validWhereabouts.sort((a,b) =>  compare_event_dates(metadataUtils.parse_date_to_events_date(a.date),metadataUtils.parse_date_to_events_date(b.date)))
+        if (homeWhereabouts) {
+            // we have a home
+            if (homeWhereabouts.location == currentWhereabouts.location) return "";            
         }
 
-        let outputString = "Current location: (as of " + pageYear.display + "): ";
-        if (validWhereabouts.length > 0) {
-            let actualWhereabout = validWhereabouts.slice(-1)[0]
-            console.log(actualWhereabout)
-            let whereaboutsName = "";
-            if (actualWhereabout.region || actualWhereabout.place) {
-                whereaboutsName = metadataUtils.get_Location(actualWhereabout);
-                if (actualWhereabout.type == "travel") whereaboutsName = "travelling in " + whereaboutsName;
-            }
-            else if (actualWhereabout.type == "travel") whereaboutsName = "travelling";
-            else if (actualWhereabout.type == "visit") whereaboutsName = "(unknown stop)"           
-            else if (actualWhereabout.type == "home") whereaboutsName = "(unknown home)"           
+        let pageExists = !endYear || (endYear && pageYear.sort <= endYear.sort)
 
-            outputString += whereaboutsName;           
-        } 
-        else if (homeWhereabouts != undefined) {
-            outputString += metadataUtils.get_Location(homeWhereabouts);
-        } else {
-            outputString += "(unknown)"
+        if (currentWhereabouts.location && pageExists) {
+            return "Current location: (as of " + pageYear.display + "): " + metadataUtils.get_Location(currentWhereabouts)
         }
 
+        let outputString = "";
+
+        if (lastKnownWhereabouts && lastKnownWhereabouts.location) {
+            let eventDateForStart = metadataUtils.parse_date_to_events_date(lastKnownWhereabouts.start)
+            outputString = "Last known location: (as of " + eventDateForStart.display + "): " + metadataUtils.get_Location(lastKnownWhereabouts)
+        }
+
+        if (pageExists) {
+             outputString += "\n Current location: Unknown";
+        }
         return outputString;
+
     }
 
     return ""
