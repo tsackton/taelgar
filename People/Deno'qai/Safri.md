@@ -1,18 +1,32 @@
 ---
 type: NPC
 name: Safri
-species: human
-ancestry: "Deno'qai"
-gender: female
-born: 
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1748-10-25, place: "forest valleys of the north", region: Sentinel Range, type: visit }
+- type: away
+  start: 1748-10-25
+  end: ''
+  location: forest valleys of the north, Sentinel Range
+lastSeenByParty: []
 ---
 # Safri
 >[!info]+ Biographical Summary

@@ -1,21 +1,29 @@
 ---
 type: NPC
 name: Ander Charmheart
-species: halfling
-ancestry: 
-gender: male
-born: 1711
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: [Charmhearts]
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1711
+died:
+gender: male
+pronouns:
+ancestry:
+species: halfling
+affiliations:
+- Charmhearts
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Ander Charmheart
 >[!info]+ Basic information

@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Ysabel
-species: human
-ancestry: Sembaran
-gender: female
-born: 1688
-died: 
-title:
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1688
+died:
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1688-01-02, place: "Cleenseau", region: Sembara, type: home }
-     - { date: 1719-10-21, place: "Cleenseau", region: Sembara, type: excursion }
+- type: home
+  start: 1688-01-02
+  end: ''
+  location: Cleenseau, Sembara
+- type: away
+  start: 1719-10-21
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Ysabel
 >[!info]+ Biographical Summary

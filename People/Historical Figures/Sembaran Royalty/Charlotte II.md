@@ -1,17 +1,31 @@
 ---
 type: Ruler
-species: human
-born: 1621
-ancestry: Sembaran
-gender: female
-died: 1648
-family:
-affiliations:
-reignStart: 1628
 name: Charlotte II
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd:
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1621
+died: 1648
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
+reignStart: 1628
+reignEnd:
 ---
 # Charlotte II
 >[!info]+ Biographical Summary

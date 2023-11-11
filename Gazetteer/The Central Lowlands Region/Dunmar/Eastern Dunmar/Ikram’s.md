@@ -1,7 +1,20 @@
 ---
-tags:
-  - event-source
 type: Building
+name:
+pronouciation:
+aliases: []
+tags:
+- event-source
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: built
+startPrefix: b.
+preExistError: '**(not yet created)**'
+created:
+destroyed:
+owner:
+place:
 ---
 # Ikram's Caravanserai
 

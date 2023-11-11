@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Shani
-species: human
-ancestry: Dunmari
-gender: female
-born:  
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: , place: "plains north of Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: plains north of Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Shani
 >[!info]+ Biographical Summary

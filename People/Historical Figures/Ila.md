@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Ila
-species: human
-ancestry: Dunmari
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/historical
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title: Commander
+born:
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/historical, NPC/DuFr/aware]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "unknown", region: Central Dunmar, type: home}
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: unknown, Central Dunmar
+lastSeenByParty: []
 ---
 # Commander Ila
 >[!info]+ Biographical Summary

@@ -1,6 +1,21 @@
 ---
 type: Place
-aliases: [Gomat]
+name:
+pronouciation:
+aliases:
+- Gomat
+tags: []
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: founded
+startPrefix: f.
+preExistError: '**(not yet created)**'
+created:
+destroyed:
+location:
+population:
+politicalUnit:
 ---
 # Gomat Oasis
 

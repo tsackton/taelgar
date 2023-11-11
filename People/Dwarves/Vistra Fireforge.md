@@ -1,23 +1,41 @@
 ---
 type: NPC
 name: Vistra Fireforge
-species: dwarf
-ancestry: 
-gender: female
-born: 1589
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+- NPC/Clee/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1589
+died:
+gender: female
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met, NPC/Clee/unsorted]
-yearOverride: 
 whereabouts:
-     - { date: 1589-01-01, place: "Tharn Todor", region: Nardith, type: origin}
-     - { date: 1620-01-01, place: "Ausson's Crossing", region: Refounded Alliance of Aurbez, type: home}
-     - { date: 1730-01-01, place: "Tokra", region: Central Dunmar, type: home}
-## years are arbitrary for Nardith -> Ausson's Crossing -> Tokra
-## could be changed but should be in Tokra by 1735 at the latest
+- type: home
+  start: ''
+  end: ''
+  location: Tharn Todor, Nardith
+- type: home
+  start: 1620-01-01
+  end: ''
+  location: Ausson's Crossing, Refounded Alliance of Aurbez
+- type: home
+  start: 1730-01-01
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Vistra Fireforge
 >[!info]+ Biographical Summary

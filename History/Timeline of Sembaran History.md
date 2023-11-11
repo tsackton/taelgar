@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#event-source"
+- '#event-source'
 ---
 # The Drankorian Conquest
 DR 300 - DR 431

@@ -1,24 +1,39 @@
 ---
 type: NPC
 name: Hugo Dupont
-species: human
-ancestry: Isinguer
-gender: male
-born: 1691
-died: 
-title: 
-family: 
-affiliations:
-  - University of Tollen
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty: 
-     - { date: "1748-12-29", prefix: "DuFr" }
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1691
+died:
+gender: male
+pronouns:
+ancestry: Isinguer
+species: human
+affiliations:
+- University of Tollen
+family:
 whereabouts:
-     - { date: "1689-01-01", place: "Tollen", region: "Western Green Sea", type: "origin" }
-     - { date: "1689-01-02", place: "Tollen", region: "Western Green Sea", type: "home" }
+- type: home
+  start: '1689-01-01'
+  end: ''
+  location: Tollen, Western Green Sea
+- type: home
+  start: '1689-01-02'
+  end: ''
+  location: Tollen, Western Green Sea
+lastSeenByParty:
+- date: '1748-12-29'
+  prefix: DuFr
 ---
 # Hugo Dupont
 >[!info]+ Biographical Summary

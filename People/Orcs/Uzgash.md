@@ -1,20 +1,29 @@
 ---
 type: NPC
 name: Uzgash
-species: orc
-born: 
-ancestry: 
-gender: male
-died: 
-home: 
-homeRegion: 
-origin: 
-originRegion: 
-affiliations:
-  - The People of the Rainbow
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/aware
-  - NPC/DuFr/minor
+- NPC/DuFr/aware
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: orc
+affiliations:
+- The People of the Rainbow
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Uzgash
 >[!info]+ Biographical Summary

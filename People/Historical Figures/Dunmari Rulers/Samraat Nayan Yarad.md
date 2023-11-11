@@ -1,21 +1,30 @@
 ---
 type: NPC
 name: Samraat Nayan Yarad
-species: human
-ancestry: Dunmari
+pronouciation:
+aliases:
+- Nayan Yarad
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/aware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-tags: [NPC/DuFr/background, NPC/DuFr/aware, NPC/historical]
-yearOverride: 
-aliases: [Nayan Yarad]
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 
 ### Samraat Nayan Yarad

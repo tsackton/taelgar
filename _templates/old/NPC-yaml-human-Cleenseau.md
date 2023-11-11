@@ -1,14 +1,25 @@
 ---
 type: NPC
 name: <% tp.file.title %>
-species: human
-ancestry: Sembaran
-gender: 
-born: 
-died: 
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/unsorted]
+tags:
+- NPC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---

@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Padma
-species: human
-ancestry: Dunmari
-gender: female
-born: 1720
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
+born: 1720
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: 1720-01-02, place: "caravanserai, Tokra-Darba Road", region: Central Dunmar, type: home  }
+- type: home
+  start: 1720-01-02
+  end: ''
+  location: caravanserai, Tokra-Darba Road, Central Dunmar
+lastSeenByParty: []
 ---
 # Padma
 >[!info]+ Biographical Summary

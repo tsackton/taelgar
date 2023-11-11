@@ -1,18 +1,30 @@
 ---
 type: NPC
 name: Lightdancer
-species: fey
-ancestry: archfey
-gender: nonbinary
-born: 
-died: 
-origin:
-affiliations: 
-aliases: [Egon,Lord Egon]
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
-yearOverride: 
+pronouciation:
+aliases:
+- Egon
+- Lord Egon
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: nonbinary
+pronouns:
+ancestry: archfey
+species: fey
+affiliations: []
 family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Lightdancer
 >[!info]+ Biographical Summary

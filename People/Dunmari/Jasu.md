@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Jasu
-species: human
-ancestry: Dunmari
-gender: male
-born: 1694
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
+born: 1694
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: 1694-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: 1694-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Jasu
 >[!info]+ Biographical Summary

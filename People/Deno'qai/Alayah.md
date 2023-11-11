@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Alayah
-species: human
-ancestry: "Deno'qai"
-gender: female
-affiliations: 
-born: 1725
-title:
-origin: { place: "Te'kula village", region: Elderwood }
-family:
-died: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1725
+died:
+gender: female
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Te'kula village
+lastSeenByParty: []
 ---
 # Alayah
 >[!info]+ Biographical Summary

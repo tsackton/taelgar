@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Amar
-species: human
-ancestry: Dunmari
-gender: male
-born: 1710
-died: 
-title:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1710
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: 1710-01-01, place: "Hara river valley", region: Central Dunmar, type: origin }
-     - { date: 1710-01-02, place: "Akela Inn", region: Central Dunmar, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Hara river valley, Central Dunmar
+- type: home
+  start: 1710-01-02
+  end: ''
+  location: Akela Inn, Central Dunmar
+lastSeenByParty: []
 ---
 # Amar
 >[!info]+ Biographical Summary

@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Selma Wisthelwind
-species: human
-ancestry: Highlander
-gender: female
-born: 1644
-title:
-family:
-died: 
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1644
+died:
+gender: female
+pronouns:
+ancestry: Highlander
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: , place: "", region: Ardlas, type: origin }
-     - { date: , place: "Cleenseau", region: Sembara, type: home}
+- type: home
+  start: null
+  end: ''
+  location: Ardlas
+- type: home
+  start: null
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Selma Wisthelwind
 >[!info]+ Biographical Summary

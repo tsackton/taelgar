@@ -1,6 +1,8 @@
 ---
-aliases: [Wistel]
-tags: [stub]
+aliases:
+- Wistel
+tags:
+- stub
 ---
 
 

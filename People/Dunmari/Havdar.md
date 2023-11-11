@@ -1,26 +1,56 @@
 ---
 type: NPC
 name: Havdar
-species: human
-ancestry: Dunmari
-gender: male
-born: 1724
-died: 
-affiliations: ["Havdar's Warband"]
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/major, status/uptodate]
-yearOverride: 
-lastSeenByParty: 
-  - { date: 1748-12-26, prefix: DuFr } #scrying in session 76
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/major
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1724
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations:
+- Havdar's Warband
+family:
 whereabouts:
-  - { date: 1725-01-01, place: "Karawa", region: Eastern Dunmar, type: origin}
-  - { date: 1725-01-02, place: "Plains around Karawa", region: Eastern Dunmar, type: home}
-  - { date: 1748-11-23, place: "Sura's army camp", region: Central Dunmar, type: excursion }
-  - { date: 1748-12-14, place: "Tokra", region: Central Dunmar, type: excursion }
-  - { date: 1748-12-19, place: "Plains between Tokra and Songara", region: Central Dunmar, type: excursion }
-  - { date: 1748-12-27, place: "Songara", region: Central Dunmar, type: excursion }
+- type: home
+  start: 1725-01-01
+  end: ''
+  location: Karawa, Eastern Dunmar
+- type: home
+  start: 1725-01-02
+  end: ''
+  location: Plains around Karawa, Eastern Dunmar
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: Sura's army camp, Central Dunmar
+- type: away
+  start: 1748-12-14
+  end: ''
+  location: Tokra, Central Dunmar
+- type: away
+  start: 1748-12-19
+  end: ''
+  location: Plains between Tokra and Songara, Central Dunmar
+- type: away
+  start: 1748-12-27
+  end: ''
+  location: Songara, Central Dunmar
+lastSeenByParty:
+- date: 1748-12-26
+  prefix: DuFr
 ---
 # Havdar
 >[!info]+ Biographical Summary

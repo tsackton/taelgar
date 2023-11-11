@@ -1,20 +1,36 @@
 ---
 type: NPC
 name: Hada
-species: human
-ancestry: Dunmari
-gender: male
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/aware
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1719
 died: 1748
-title:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/aware, NPC/DuFr/minor]
-yearOverride: 
 whereabouts:
-     - { date: 1719-01-02, place: "Tokra", region: Central Dunmar, type: home }
-     - { date: 1748-11-15, place: "deceased", region: unknown, type: excursion }
+- type: home
+  start: 1719-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+- type: away
+  start: 1748-11-15
+  end: ''
+  location: deceased, unknown
+lastSeenByParty: []
 ---
 # Hada
 >[!info]+ Biographical Summary

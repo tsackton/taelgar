@@ -1,6 +1,18 @@
 ---
 type: Organization
-tags: [organization/religious]
+name:
+pronouciation:
+aliases: []
+tags:
+- organization/religious
+pageTargetDate:
+endStatus: disbanded
+endPrefix: d.
+startStatus: founded
+startPrefix: f.
+preExistError: '**(not yet founded)**'
+created:
+destroyed:
 ---
 # The Shakun Mystai
 

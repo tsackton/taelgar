@@ -440,7 +440,7 @@ def define_metadata(type):
         elif type=="Session Note":
             metadata = {**metadata_core, **metadata_session, **metadata_dates}
     else:
-        metadata = {**metadata_core, **metadata_other}
+        metadata = {**metadata_core, **metadata_dates, **metadata_other}
     
     ## sets default values for metadata fields based on type
 
@@ -502,12 +502,13 @@ def guess_type(file):
     # NOT IMPLEMENTED
     return None
 
-def update_metadata(metadata, guess_type=False):
+def update_metadata(metadata, metadata_orig, guess_type=False):
 
     # takes as input an metadata dictionary, and returns an updated metadata dictionary according to the speck
     # if guess_type is true, attempts to guess the type based on path
 
     type = metadata["type"] if "type" in metadata else None
+    valid_types = get_valid_types()
 
     if guess_type and type is None:
         type = guess_type(metadata["file"])
@@ -516,12 +517,15 @@ def update_metadata(metadata, guess_type=False):
     
     metadata_default = define_metadata(type)
 
+    if type not in valid_types:
+        return(metadata_orig)
+
     # for each key in metadata_default, check to see if key exists in metadata. if yes, take value. else, use default or leave blank
 
     metadata_fixed = dict()
 
     for key in metadata_default:
-        if key in metadata:
+        if key in metadata and metadata[key] is not None:
             metadata_fixed[key] = metadata[key]
         else:
             metadata_fixed[key] = metadata_default[key]
@@ -566,7 +570,13 @@ def update_metadata(metadata, guess_type=False):
     metadata_fixed["pageTargetDate"] = metadata["yearOverride"] if "yearOverride" in metadata else metadata_fixed["pageTargetDate"]
     
     # campaign - replaced by affiliations
-    if type=="PC" and "campaign" in metadata:
+    # Assuming 'type' is a variable you've defined earlier
+    if type == "PC" and "campaign" in metadata:
+        # Initialize metadata_fixed["affiliations"] as a list if it doesn't exist or is None
+        if "affiliations" not in metadata_fixed or metadata_fixed["affiliations"] is None:
+            metadata_fixed["affiliations"] = []
+
+        # Now safely append to metadata_fixed["affiliations"]
         metadata_fixed["affiliations"].append(metadata["campaign"])
     
     # home, homeRegion, location, locationRegion, origin, originRegion - replaced by whereabouts, seea bove

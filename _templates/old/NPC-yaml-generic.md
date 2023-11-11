@@ -1,19 +1,25 @@
 ---
 type: NPC
 name: <% tp.file.title %>
-species: 
-ancestry: 
-gender: 
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/unsorted]
-yearOverride: 
+tags:
+- NPC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry:
+species:
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---

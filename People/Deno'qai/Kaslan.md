@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Kaslan
-species: human
-ancestry: "Deno'qai"
-gender: male
-born: 1699
-died: 
-title:
-family:
-origin: "Ko'zula village"
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1699
+died:
+gender: male
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Ko'zula village
+lastSeenByParty: []
 ---
 # Kaslan
 >[!info]+ Biographical Summary

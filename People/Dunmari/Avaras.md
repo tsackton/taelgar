@@ -1,33 +1,42 @@
 ---
 type: NPC
 name: Avaras
-species: human
-ancestry: Dunmari
-gender: male
-born: 1676
-died: 
-title: 
-affiliations:
-  - Order of the Awakened Soul
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/major
-  - event-source
-family: 
+- NPC/DuFr/met
+- NPC/DuFr/major
+- event-source
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1676
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations:
+- Order of the Awakened Soul
+family:
 whereabouts:
-  - date: 1676-01-01
-    place: Karawa
-    region: Eastern Dunmar
-    type: origin
-  - date: 1717-01-01
-    place: Pava and Avaras' House
-    region: Garamjala Desert
-    type: home
-  - date: 1749-01-01
-    place: Pava and Avaras' House
-    region: Nashtkar
-    type: excursion
+- type: home
+  start: ''
+  end: ''
+  location: Karawa, Eastern Dunmar
+- type: home
+  start: 1717-01-01
+  end: ''
+  location: Pava and Avaras' House, Garamjala Desert
+- type: away
+  start: 1749-01-01
+  end: ''
+  location: Pava and Avaras' House, Nashtkar
+lastSeenByParty: []
 ---
 # Avaras
 >[!info]+ Biographical Summary

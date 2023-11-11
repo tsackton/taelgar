@@ -1,6 +1,8 @@
 ---
-aliases: [Volta]
-tags: [stub]
+aliases:
+- Volta
+tags:
+- stub
 ---
 
 

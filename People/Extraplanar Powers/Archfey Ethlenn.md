@@ -1,19 +1,34 @@
 ---
 type: NPC
 name: Archfey Ethlenn
-species: fey
-ancestry: archfey
-gender: female
-born: 
-died: 
-affiliations: 
+pronouciation:
+aliases:
+- Queen of the Evening Mist
+tags:
+- NPC/DuFr/unaware
+- NPC/Clee/unsorted
+- stub
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry: archfey
+species: fey
+affiliations: []
 family:
-aliases: ["Queen of the Evening Mist"]
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted, stub]
-yearOverride: 
 whereabouts:
-     - { date: , place: "unknown", region: Feywild, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: unknown, Feywild
+lastSeenByParty: []
 ---
 # Archfey Ethlenn
 >[!info]+ Biographical Summary

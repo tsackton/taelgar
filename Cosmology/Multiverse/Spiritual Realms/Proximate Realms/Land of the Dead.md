@@ -1,5 +1,6 @@
 ---
-aliases: [River of Souls]
+aliases:
+- River of Souls
 ---
 
 # Land of the Dead

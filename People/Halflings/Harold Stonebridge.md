@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Harold Stonebridge
-species: 
-ancestry: 
-gender: 
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
-yearOverride: 
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry:
+species:
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 ### Harold Stonebridge
 

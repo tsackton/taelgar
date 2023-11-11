@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Devana
-species: human
-ancestry: Dunmari
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "north and west of Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: north and west of Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Devana
 >[!info]+ Biographical Summary

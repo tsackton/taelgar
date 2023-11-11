@@ -1,19 +1,37 @@
 ---
 type: NPC
 name: Servius
-species: human
-ancestry: Chardonian
-gender: male
-born: 1689
-died: 
-title:
-family:
-affiliations: ["Society of the Open Scroll"]
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/aware, NPC/DuFr/major]
+tags:
+- NPC/DuFr/aware
+- NPC/DuFr/major
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1689
+died:
+gender: male
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations:
+- Society of the Open Scroll
+family:
 whereabouts:
-     - { date: 1689-01-02, place: "Chardon", region: Chardonian Empire, type: home }
-     - { date: 1748-11-23, place: "unknown", region: Illoria, type: excursion}
+- type: home
+  start: 1689-01-02
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: unknown, Illoria
+lastSeenByParty: []
 ---
 # Servius
 >[!info]+ Biographical Summary

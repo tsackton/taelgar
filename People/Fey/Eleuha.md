@@ -1,19 +1,33 @@
 ---
 type: NPC
 name: Eleuha
-species: dryad
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met_one
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: dryad
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met_one, status/uptodate]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02 , place: "Azta Lekua", region: Orekatu, type: home }
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Azta Lekua, Orekatu
+lastSeenByParty: []
 ---
 # Eleuha
 >[!info]+ Biographical Summary

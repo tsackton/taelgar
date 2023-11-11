@@ -1,22 +1,36 @@
 ---
 type: NPC
 name: Jorma
-species: human
-ancestry: Skaer
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/aware
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1716
+died: 1748
 gender: male
-born: 1716 
-died: 1748 # Killed by Urgall the Black in May 1748
-title: 
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/aware
-  - NPC/DuFr/background
-lastSeenByParty: 
-whereabouts: 
-  - { date: 1716-01-01, place: "", region: "Skaerhem", type: origin }
-  - { date: 1737-01-02, place: "Vetta", region: "Skaerhem", type: home }
+pronouns:
+ancestry: Skaer
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Skaerhem
+- type: home
+  start: 1737-01-02
+  end: ''
+  location: Vetta, Skaerhem
+lastSeenByParty: []
 ---
 # Jorma
 >[!info]+ Biographical Summary

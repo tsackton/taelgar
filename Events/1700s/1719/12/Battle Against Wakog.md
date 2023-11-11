@@ -1,9 +1,20 @@
 ---
-fc-calendar: Taelgar Calendar
-fc-date: 1719-12-06
-taelgar-date: 1719-12-06
 type: Event
-fc-category: Cleenseau Campaign
+name:
+pronouciation:
+aliases: []
+tags: []
+pageTargetDate:
+endStatus: ended
+endPrefix: ''
+startStatus: started
+startPrefix: ''
+preExistError: '**(has not happened)**'
+DR: 1719-12-06
+DR_end:
+fc-date: 1719-12-06
+fc-end:
+fc-display-name:
 ---
 
 # Battle Against Wakog

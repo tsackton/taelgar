@@ -1,23 +1,39 @@
 ---
 type: NPC
 name: Thomas Hawke
-species: human
-ancestry: Tollender
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1716
+died:
 gender: male
-born: 1716 
-died: 
-title: 
-family: 
-affiliations: [University of Tollen]
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty: 
-  - { date: 1748-12-30, prefix: DuFr } 
-whereabouts: 
-  - { date: 1716-01-01, place: "Tollen", region: "Western Green Sea", type: origin }
-  - { date: 1716-01-02, place: "Tollen", region: "Western Green Sea", type: home }
+pronouns:
+ancestry: Tollender
+species: human
+affiliations:
+- University of Tollen
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Tollen, Western Green Sea
+- type: home
+  start: 1716-01-02
+  end: ''
+  location: Tollen, Western Green Sea
+lastSeenByParty:
+- date: 1748-12-30
+  prefix: DuFr
 ---
 # Thomas Hawke
 >[!info]+ Biographical Summary

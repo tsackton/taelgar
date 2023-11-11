@@ -1,18 +1,35 @@
 ---
 type: NPC
 name: Roscelia
-species: human
-ancestry: Chardonian
-gender: female
-born: 1677
-died: 
-title:
-family:
-affiliations: ["Faculty of Magic", "University of Chardon", "Society of the Open Scroll"]
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1677
+died:
+gender: female
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations:
+- Faculty of Magic
+- University of Chardon
+- Society of the Open Scroll
+family:
 whereabouts:
-     - { date: 1677-01-02, place: "Chardon", region: Chardonian Empire, type: home }
+- type: home
+  start: 1677-01-02
+  end: ''
+  location: Chardon, Chardonian Empire
+lastSeenByParty: []
 ---
 # Roscelia
 >[!info]+ Biographical Summary

@@ -1,15 +1,27 @@
 ---
 type: NPC
-species: human
-born: 1621
-ancestry: Sembaran
-gender: female
-died: 1699
-family:
-title:
-affiliations:
 name: Celine Essford
-tags: [NPC/unsorted]
+pronouciation:
+aliases: []
+tags:
+- NPC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1621
+died: 1699
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Celine Essford
 >[!info]+ Biographical Summary

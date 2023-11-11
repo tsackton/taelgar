@@ -1,5 +1,6 @@
 ---
-aliases: ["The Elderwood"]
+aliases:
+- The Elderwood
 ---
 
 ### The Elderwood

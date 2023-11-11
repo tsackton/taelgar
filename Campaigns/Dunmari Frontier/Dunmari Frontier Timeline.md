@@ -1,7 +1,7 @@
 ---
 tags:
-  - "timeline"
-  - "dunmari-frontier-campaign"
+- timeline
+- dunmari-frontier-campaign
 ---
 
 - (DR:: 1747-08-02) *(Dunmari Frontier)*: Wellby leaves Semabara, heading south. Spends some time wandering.

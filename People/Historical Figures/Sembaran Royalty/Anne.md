@@ -1,17 +1,31 @@
 ---
 type: Ruler
-species: human
-born: 1537
-ancestry: Sembaran
-gender: female
-died: 1582
-family:
+name: Anne of Sewick
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-affiliations:
+born: 1537
+died: 1582
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 reignStart:
 reignEnd:
-name: Anne of Sewick
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Anne of Sewick
 >[!info]+ Biographical Summary

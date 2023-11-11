@@ -1,10 +1,10 @@
 ---
 tags: []
 aliases:
-  - orc
-  - Orc
-  - Orcs
-  - orcs
+- orc
+- Orc
+- Orcs
+- orcs
 speciesDescriptor: orc
 ---
 # Orcs

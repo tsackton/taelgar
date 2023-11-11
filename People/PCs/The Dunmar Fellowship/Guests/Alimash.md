@@ -1,17 +1,37 @@
 ---
 type: PC
-species: human
-born:
-ancestry:
-gender: male
-died:
-origin:
-originRegion:
-affiliations:
-player:
-campaign:
 name: Alimash
-tags: [PC/DunmarFrontier, PC/DunmarFrontier/SoloGuest]
+pronouciation:
+aliases: []
+tags:
+- PC/DunmarFrontier
+- PC/DunmarFrontier/SoloGuest
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: human
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player:
+ddbLink:
 ---
 
 ## Alimash

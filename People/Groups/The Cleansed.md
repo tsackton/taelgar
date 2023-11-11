@@ -1,6 +1,18 @@
 ---
 type: Organization
-tags: [organization/unsorted]
+name:
+pronouciation:
+aliases: []
+tags:
+- organization/unsorted
+pageTargetDate:
+endStatus: disbanded
+endPrefix: d.
+startStatus: founded
+startPrefix: f.
+preExistError: '**(not yet founded)**'
+created:
+destroyed:
 ---
 
 # The Cleansed

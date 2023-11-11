@@ -1,6 +1,8 @@
 ---
-aliases: [kenku]
+aliases:
+- kenku
 speciesDescriptor: kenku
-tags: [stub]
+tags:
+- stub
 ---
 (stub)

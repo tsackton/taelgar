@@ -1,22 +1,28 @@
 ---
 type: NPC
 name: Lengau
-species: divine
-ancestry: 
-gender: nonbinary
-pronouns: "he/him or she/her (as they desire)"
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: nonbinary
+pronouns: he/him or she/her (as they desire)
+ancestry:
+species: divine
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Lengau
 >[!info]+ Biographical Summary

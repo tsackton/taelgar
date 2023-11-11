@@ -1,23 +1,44 @@
 ---
 type: NPC
 name: Belegor
-species: elf
-ancestry: 
-gender: male
-ka: 36
-born: 1468
-died: 
-title:
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/minor, status/uptodate]
-lastSeenByParty: 
- - { date: 1748-9-30, prefix: DuFr }
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1468
+ka: 36
+died:
+gender: male
+pronouns:
+ancestry:
+species: elf
+affiliations: []
+family:
 whereabouts:
-     - { start: 1468-01-01, end: 1600,  place: "unknown", region: Ainumarya, type: home } #end is approx
-     - { start: 1733-01-01, place: "unknown", region: Elderwood, type: away }
-     - { start: 1748-08-15, place: "Te'kula village", region: Elderwood, type: away}
+- type: home
+  start: ''
+  end: 1600
+  location: unknown, Ainumarya
+- type: away
+  start: 1733-01-01
+  end: ''
+  location: unknown, Elderwood
+- type: away
+  start: 1748-08-15
+  end: ''
+  location: Te'kula village, Elderwood
+lastSeenByParty:
+- date: 1748-9-30
+  prefix: DuFr
 ---
 # Belegor
 >[!info]+ Biographical Summary

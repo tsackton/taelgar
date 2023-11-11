@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Mermin Stonebridge
-species: halfling
-ancestry: 
-gender: male
-born: 
-died: 
-family: Stonebridge
-affiliations:
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/unaware
-  - NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/Clee/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: halfling
+affiliations: []
+family: Stonebridge
 whereabouts:
-  - {date: 0001-01-02, place: "Cleanseau", region: , type: home}
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Cleanseau
+lastSeenByParty: []
 ---
 # Mermin Stonebridge
 >[!info]+ Biographical Summary

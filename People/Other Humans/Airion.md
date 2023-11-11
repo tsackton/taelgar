@@ -1,15 +1,29 @@
 ---
 type: NPC
-species: human
-born:
-ancestry:
-gender: male
-died: 1545
-family:
-title:
-affiliations:
 name: Airion
-tags: [NPC/historical, NPC/DuFr/unaware, NPC/GrLi/major]
+pronouciation:
+aliases: []
+tags:
+- NPC/historical
+- NPC/DuFr/unaware
+- NPC/GrLi/major
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died: 1545
+gender: male
+pronouns:
+ancestry:
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Airion
 >[!info]+ Biographical Summary

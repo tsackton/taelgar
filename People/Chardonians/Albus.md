@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Albus
-species: human
-ancestry: Chardonian
-gender: male
-born: 1694
-title:
-family:
-died: 
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1694
+died:
+gender: male
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1694-01-01, place: "Chardon", region: Chardonian Empire, type: origin}
-     - { date: 1694-01-02, place: "Darba", region: Western Dunmar, type: home}
+- type: home
+  start: ''
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: home
+  start: 1694-01-02
+  end: ''
+  location: Darba, Western Dunmar
+lastSeenByParty: []
 ---
 # Albus
 >[!info]+ Biographical Summary

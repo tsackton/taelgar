@@ -1,20 +1,37 @@
 ---
 type: NPC
 name: Vondar
-species: giant
-ancestry: cursed
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met_one
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-tags: [NPC/DuFr/background, NPC/DuFr/met_one, status/uptodate]
-yearOverride: 
+born:
+died:
+gender: male
+pronouns:
+ancestry: cursed
+species: giant
+affiliations: []
 family:
 whereabouts:
-     - { date: 0001-01-01, place: "unknown", region: unknown, type: origin }
-     - { date: 1748-11-23, place: "unknown", region: Amberglow, type: excursion }
+- type: home
+  start: 0001-01-01
+  end: ''
+  location: unknown, unknown
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: unknown, Amberglow
+lastSeenByParty: []
 ---
 # Vondar
 >[!info]+ Biographical Summary

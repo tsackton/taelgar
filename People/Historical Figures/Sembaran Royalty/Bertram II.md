@@ -1,17 +1,30 @@
 ---
 type: Ruler
-species: human
-born: 1535
-ancestry: Sembaran
-gender: male
-died: 1561
-family:
+name: Bertram II
+pronouciation:
+aliases: []
+tags:
+- NPC/historical
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-affiliations:
+born: 1535
+died: 1561
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 reignStart: 1552
 reignEnd:
-name: Bertram II
-tags: [NPC/historical, NPC/DuFr/unaware]
 ---
 # Bertram II
 >[!info]+ Biographical Summary

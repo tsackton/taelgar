@@ -1,17 +1,31 @@
 ---
 type: Ruler
-species: human
-born: 1509
-ancestry: Vostok
-gender: female
-died: 1559
-family:
+name: Jane of Tollen
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-affiliations:
+born: 1509
+died: 1559
+gender: female
+pronouns:
+ancestry: Vostok
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 reignStart:
 reignEnd:
-name: Jane of Tollen
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Jane of Tollen
 >[!info]+ Biographical Summary

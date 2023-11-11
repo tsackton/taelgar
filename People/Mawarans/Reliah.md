@@ -1,15 +1,28 @@
 ---
 type: NPC
-species:
-born:
-ancestry:
-gender: female
-died:
-family:
-title:
-affiliations:
 name: Reliah
-tags: [NPC/DuFr/unaware, NPC/MC/met]
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/unaware
+- NPC/MC/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species:
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Reliah
 >[!info]+ Biographical Summary

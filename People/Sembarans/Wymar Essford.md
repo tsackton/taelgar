@@ -1,18 +1,32 @@
 ---
 type: NPC
 name: Wymar Essford
-species: human
-ancestry: Sembaran
-gender: male
-born: 1652
-died: 
-title: Lord
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Lord
+born: 1652
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1652-01-02, place: Cleenseau, region: Sembara, type: home}
+- type: home
+  start: 1652-01-02
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Lord Wymar Essford
 >[!info]+ Biographical Summary

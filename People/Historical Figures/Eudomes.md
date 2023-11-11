@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Eudomes
-species: human
-ancestry: Drankorian
-gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/historical, NPC/DuFr/aware]
-yearOverride: 
+tags:
+- NPC/historical
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: Drankorian
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 ### Eudomes
 

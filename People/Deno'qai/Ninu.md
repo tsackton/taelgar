@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Ninu
-species: human
-ancestry: "Deno'qai"
-gender: female
-born: 1703
-died: 
-title:
-origin: "Ko'zula village"
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1703
+died:
+gender: female
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Ko'zula village
+lastSeenByParty: []
 ---
 # Ninu
 >[!info]+ Biographical Summary

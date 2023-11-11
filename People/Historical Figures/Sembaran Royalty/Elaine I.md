@@ -1,17 +1,31 @@
 ---
 type: Ruler
-affiliations:
-reignStart: 1582
-reignEnd:
 name: Elaine I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family:
+born: 1537
 died: 1592
 gender: female
+pronouns:
 ancestry: Sembaran
-born: 1537
 species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
+reignStart: 1582
+reignEnd:
 ---
 # Elaine I
 >[!info]+ Biographical Summary

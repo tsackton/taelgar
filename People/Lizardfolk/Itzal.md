@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: lizardfolk
-born: 1531
-ancestry:
-gender:
-died:
-family:
-title:
-affiliations:
 name: Itzal
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/MC/minor
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1531
+died:
+gender:
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Itzal
 >[!info]+ Biographical Summary

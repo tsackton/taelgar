@@ -1,19 +1,37 @@
 ---
 type: PC
 name: Aerin
-species: 
-ancestry: 
-gender: 
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
+pronouciation:
 aliases: []
-tags: [PC/GreatWar, stub]
-campaign: "Great War"
-player: "David Schwartz"
-yearOverride: 
+tags:
+- PC/GreatWar
+- stub
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry:
+species:
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player: David Schwartz
+ddbLink:
 ---
 
 %%NOTES

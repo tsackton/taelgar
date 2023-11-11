@@ -1,20 +1,36 @@
 ---
 type: NPC
 name: Skoda
-species: kenku
-ancestry: Islander
-gender: female
-born: 1700
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1700
+died:
+gender: female
+pronouns:
+ancestry: Islander
+species: kenku
+affiliations: []
+family:
 whereabouts:
-     - { date: 1700-01-02, place: "Wahacha, Vermillion Isles", region: Eastern Green Sea, type: home }
-     - { date: 1748-10-14, place: "sea elf village, Quanyi", region: Eastern Green Sea, type: excursion }
+- type: home
+  start: 1700-01-02
+  end: ''
+  location: Wahacha, Vermillion Isles, Eastern Green Sea
+- type: away
+  start: 1748-10-14
+  end: ''
+  location: sea elf village, Quanyi, Eastern Green Sea
+lastSeenByParty: []
 ---
 # Skoda
 >[!info]+ Biographical Summary

@@ -1,24 +1,39 @@
 ---
 type: NPC
 name: Jane Chapman
-species: human
-ancestry: Tollender
-gender: female
-born: 1715
-died: 
-title: Captain
-family: Chapman
-affiliations:
-  - Dyer's Guild
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-lastSeenByParty: 
-     - { date: "1748-12-30", prefix: "DuFr" }
+- NPC/DuFr/met
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Captain
+born: 1715
+died:
+gender: female
+pronouns:
+ancestry: Tollender
+species: human
+affiliations:
+- Dyer's Guild
+family: Chapman
 whereabouts:
-     - { date: "1715-01-01", place: "Tollen", region: "Western Green Sea", type: "origin" }
-     - { date: "1715-01-02", place: "Tollen", region: "Western Green Sea", type: "home" }
+- type: home
+  start: ''
+  end: ''
+  location: Tollen, Western Green Sea
+- type: home
+  start: '1715-01-02'
+  end: ''
+  location: Tollen, Western Green Sea
+lastSeenByParty:
+- date: '1748-12-30'
+  prefix: DuFr
 ---
 # Captain Jane Chapman
 >[!info]+ Biographical Summary

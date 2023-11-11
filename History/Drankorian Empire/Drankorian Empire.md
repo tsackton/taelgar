@@ -1,5 +1,6 @@
 ---
-aliases: [Drankor]
+aliases:
+- Drankor
 ---
 # The Drankorian Empire
 

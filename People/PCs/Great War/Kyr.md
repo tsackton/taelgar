@@ -1,19 +1,36 @@
 ---
 type: PC
 name: Kyr
-species: lizardfolk
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
+pronouciation:
 aliases: []
-tags: [PC/GreatWar]
-campaign: "Great War"
-player: "Eric Rosenbaum"
-yearOverride: 
+tags:
+- PC/GreatWar
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player: Eric Rosenbaum
+ddbLink:
 ---
 ### Kyr
 

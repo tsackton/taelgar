@@ -1,19 +1,34 @@
 ---
 type: NPC
 name: Wella Brightmoon
-species: halfling
-ancestry: 
-gender: female
-born: 1639
-died: 
-affiliations: ["Brightmoons"]
-aliases: [Wella]
+pronouciation:
+aliases:
+- Wella
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1639
+died:
+gender: female
+pronouns:
+ancestry:
+species: halfling
+affiliations:
+- Brightmoons
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
-yearOverride: 
 whereabouts:
-     - { date: 1639-01-02, place: "unknown", region: Eastern Green Sea, type: home }
+- type: home
+  start: 1639-01-02
+  end: ''
+  location: unknown, Eastern Green Sea
+lastSeenByParty: []
 ---
 # Wella Brightmoon
 >[!info]+ Biographical Summary

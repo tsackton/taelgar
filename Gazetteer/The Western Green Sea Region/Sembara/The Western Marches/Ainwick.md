@@ -1,6 +1,6 @@
 ---
 tags:
-  - stub
+- stub
 ---
 # Ainswick
 

@@ -1,35 +1,42 @@
 ---
 type: NPC
 name: Elwis
-species: elf
-ancestry: 
-gender: female
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1634
 ka: 37
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags:
-  - NPC/DuFr/met
-lastSeenByParty:
-  - date: 1749-01-02
-    prefix: DuFr
+died:
+gender: female
+pronouns:
+ancestry:
+species: elf
+affiliations: []
+family:
 whereabouts:
-  - start: 1634-01-01
-    place: Orenlas
-    region: ""
-    type: home
-  - start: 1744-01-01
-    end: 1748-08-28
-    place: Green Sea
-    region: ""
-    type: away
-  - start: 1748-08-29
-    place: Tollen
-    region: ""
-    type: away
+- type: home
+  start: ''
+  end: ''
+  location: Orenlas
+- type: away
+  start: 1744-01-01
+  end: 1748-08-28
+  location: Green Sea
+- type: away
+  start: 1748-08-29
+  end: ''
+  location: Tollen
+lastSeenByParty:
+- date: 1749-01-02
+  prefix: DuFr
 ---
 # Elwis
 >[!info]+ Biographical Summary

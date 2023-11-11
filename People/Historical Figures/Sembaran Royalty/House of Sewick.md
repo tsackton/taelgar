@@ -1,7 +1,19 @@
 ---
-aliases: [Sewick]
-tags: [organization/unsorted]
 type: Organization
+name:
+pronouciation:
+aliases:
+- Sewick
+tags:
+- organization/unsorted
+pageTargetDate:
+endStatus: disbanded
+endPrefix: d.
+startStatus: founded
+startPrefix: f.
+preExistError: '**(not yet founded)**'
+created:
+destroyed:
 ---
 ### The House of Sewick
 

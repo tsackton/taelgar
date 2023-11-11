@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Pearl Brightmoon
-species: halfling
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: Sea
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
-yearOverride: 
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: halfling
+affiliations: Sea
 family:
 whereabouts:
-     - { date: 1748-11-23, place: "unknown", region: Eastern Green, type: excursion }
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: unknown, Eastern Green
+lastSeenByParty: []
 ---
 # Pearl Brightmoon
 >[!info]+ Biographical Summary

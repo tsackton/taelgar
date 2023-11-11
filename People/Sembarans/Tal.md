@@ -1,18 +1,36 @@
 ---
 type: NPC
-species: human
-born:
-ancestry:
-gender: male
-died:
-family:
-title:
-affiliations:
 name: Tal
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: , place: "Embry", region: Sembara, type: origin }
-     - { date: 1719-10-21, place: "somewhere, River Semb", region: Sembara, type: excursion }
+- type: home
+  start: ''
+  end: ''
+  location: Embry, Sembara
+- type: away
+  start: 1719-10-21
+  end: ''
+  location: somewhere, River Semb, Sembara
+lastSeenByParty: []
 ---
 # Tal
 >[!info]+ Biographical Summary

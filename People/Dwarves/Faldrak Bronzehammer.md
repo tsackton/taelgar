@@ -1,43 +1,51 @@
 ---
 type: NPC
 name: Faldrak Bronzehammer
-species: dwarf
-ancestry: 
-gender: male
-born: 1516
-died: 
-title: 
-family: Bronzehammer
-affiliations: 
+pronouciation:
 aliases:
-  - Faldrak
+- Faldrak
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/major
-lastSeenByParty:
-  - date: 1748-12-30
-    prefix: DuFr
+- NPC/DuFr/met
+- NPC/DuFr/major
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1516
+died:
+gender: male
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
+family: Bronzehammer
 whereabouts:
-  - date: 1516-01-01
-    place: Fahnukan
-    region: ""
-    type: origin
-  - date: 1516-01-02
-    place: Fahnukan
-    region: ""
-    type: home
-  - date: 1693-01-01
-    place: Feywild
-    region: ""
-    type: excursion
-  - date: 1698-01-01
-    place: Feywild
-    region: ""
-    type: excursion
-  - date: 1727-01-02
-    place: Tollen
-    region: ""
-    type: home
+- type: home
+  start: ''
+  end: ''
+  location: Fahnukan
+- type: home
+  start: 1516-01-02
+  end: ''
+  location: Fahnukan
+- type: away
+  start: 1693-01-01
+  end: ''
+  location: Feywild
+- type: away
+  start: 1698-01-01
+  end: ''
+  location: Feywild
+- type: home
+  start: 1727-01-02
+  end: ''
+  location: Tollen
+lastSeenByParty:
+- date: 1748-12-30
+  prefix: DuFr
 ---
 # Faldrak Bronzehammer
 >[!info]+ Biographical Summary

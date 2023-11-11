@@ -1,17 +1,31 @@
 ---
 type: Ruler
 name: Gyles
-family: House of Teckberg
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd:
-reignStart:
-affiliations:
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1539
 died: 1630
 gender: male
+pronouns:
 ancestry: Sembaran
-born: 1539
 species: human
+affiliations: []
+family: House of Teckberg
+whereabouts: []
+lastSeenByParty: []
+reignStart:
+reignEnd:
 ---
 # Gyles
 >[!info]+ Biographical Summary

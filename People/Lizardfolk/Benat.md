@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: lizardfolk
-born:
-ancestry:
-gender: male
-died:
-family:
-title:
-affiliations:
 name: Benat
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/MC/minor
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Benat
 >[!info]+ Biographical Summary

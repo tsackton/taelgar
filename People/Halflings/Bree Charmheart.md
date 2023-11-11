@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Bree Charmheart
-species: halfling
-ancestry: 
-gender: female
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: halfling
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Bree Charmheart
 >[!info]+ Biographical Summary

@@ -1,17 +1,31 @@
 ---
 type: Ruler
 name: Derik II
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd: 1496
-reignStart: 1462
-affiliations:
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family:
+born: 1422
 died: 1496
 gender: male
+pronouns:
 ancestry: Sembaran
-born: 1422
 species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
+reignStart: 1462
+reignEnd: 1496
 ---
 # Derik II
 >[!info]+ Biographical Summary

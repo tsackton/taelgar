@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Torgga Redpeak
-species: dwarf
-ancestry: 
-gender: female
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/background]
-yearOverride: 
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 ### Torgga Redpeak
 

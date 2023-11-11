@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Yota
-species: human
-ancestry: "Deno'qai"
-gender: male
-born: 
-died: 
-title:
-origin: { place: "Te'kula village", region: Elderwood}
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Te'kula village
+lastSeenByParty: []
 ---
 # Yota
 >[!info]+ Biographical Summary

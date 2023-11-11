@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: human
-born: 1691
-ancestry: Sembaran
-gender: male
-died:
-family:
-title:
-affiliations:
 name: Colin
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/unaware
+- NPC/Clee/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1691
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Colin
 >[!info]+ Biographical Summary

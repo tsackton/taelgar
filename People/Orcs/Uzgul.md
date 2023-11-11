@@ -1,32 +1,40 @@
 ---
 type: NPC
 name: Uzgul
-species: orc
-ancestry: 
-gender: male
-born: 1734
-died: 
-title: Chiefling
-family: 
-affiliations:
-  - The People of the Rainbow
+pronouciation:
 aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-  - status/uptodate
-lastSeenByParty:
-  - date: 1748-12-10
-    prefix: DuFr
+- NPC/DuFr/met
+- NPC/DuFr/minor
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Chiefling
+born: 1734
+died:
+gender: male
+pronouns:
+ancestry:
+species: orc
+affiliations:
+- The People of the Rainbow
+family:
 whereabouts:
-  - date: 1734-01-01
-    place: Uzgukhar
-    region: Xurkhaz
-    type: origin
-  - date: 1734-01-02
-    place: Uzgukhar
-    region: Xurkhaz
-    type: home
+- type: home
+  start: ''
+  end: ''
+  location: Uzgukhar, Xurkhaz
+- type: home
+  start: 1734-01-02
+  end: ''
+  location: Uzgukhar, Xurkhaz
+lastSeenByParty:
+- date: 1748-12-10
+  prefix: DuFr
 ---
 # Chiefling Uzgul
 

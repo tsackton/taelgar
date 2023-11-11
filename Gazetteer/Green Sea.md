@@ -1,9 +1,9 @@
 ---
 aliases:
-  - Green Sea
-  - the Green Sea
+- Green Sea
+- the Green Sea
 tags:
-  - stub
+- stub
 ---
 
 # The Green Sea

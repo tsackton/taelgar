@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Fallthra Hardstone
-species: dwarf
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
 family:
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Fallthra Hardstone
 >[!info]+ Biographical Summary

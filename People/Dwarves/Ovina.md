@@ -1,15 +1,29 @@
 ---
 type: NPC
-species: dwarf
-born:
-ancestry:
-gender: female
-died:
-family:
-title:
-affiliations:
 name: Ovina
-tags: [NPC/MC/met, NPC/MC/minor, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/MC/met
+- NPC/MC/minor
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Ovina
 >[!info]+ Biographical Summary

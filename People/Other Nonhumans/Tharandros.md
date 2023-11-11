@@ -1,21 +1,40 @@
 ---
 type: NPC
 name: Tharandros
-species: centaur
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/major
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: centaur
+affiliations: []
 family:
-tags: [NPC/DuFr/met, NPC/DuFr/major]
-yearOverride: 
 whereabouts:
-     - { date: 1748-06-03, place: "Karawa", region: Eastern Dunmar, type: excursion }
-###secret[1]
-###secret[2]
+- type: away
+  start: 1748-06-03
+  end: ''
+  location: Karawa, Eastern Dunmar
+- type: away
+  start: 1748-07-18
+  end: ''
+  location: Myraeni Gap, Central Dunmar
+- type: away
+  start: 1748-08-25
+  end: ''
+  location: unknown, unknown
+lastSeenByParty: []
 ---
 # Tharandros
 >[!info]+ Biographical Summary
@@ -27,6 +46,6 @@ A centaur, the leader of a herd who the party met traveling across the northern 
 
 ![[tharandros.png|500]]
 
-Left to travel north in [[Session 29 (DuFr)]], around 1 June 1748. %%SECRET[3]%%
+Left to travel north in [[Session 29 (DuFr)]], around 1 June 1748. %%SECRET[1]%%
 
-%%SECRET[4]%%
+%%SECRET[2]%%

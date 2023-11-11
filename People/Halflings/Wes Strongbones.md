@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Wes Strongbones
-species: halfling
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: halfling
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Wes Strongbones
 >[!info]+ Biographical Summary

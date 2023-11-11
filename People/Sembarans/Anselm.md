@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Anselm
-species: human
-ancestry: Sembaran
-gender: male
-born: 1655
-died: 
-title:
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1655
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1655-01-02, place: "Cleenseau", region: Sembara, type: origin}
-     - { date: 1719-10-21, place: "Cleenseau", region: Sembara, type: home}
+- type: home
+  start: 1655-01-02
+  end: ''
+  location: Cleenseau, Sembara
+- type: home
+  start: 1719-10-21
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Anselm
 >[!info]+ Biographical Summary

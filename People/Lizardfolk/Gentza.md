@@ -1,20 +1,36 @@
 ---
 type: NPC
 name: Gentza
-species: lizardfolk
-ancestry: 
-gender: female
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unaware
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1681
 died: 1719
-affiliations: 
-title:
+gender: female
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations: []
 family:
-aliases: []
-tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
-yearOverride: 
 whereabouts:
-     - { date: 1681-01-02, place: "Ganboa", region: Semabara, type: home }
-     - { date: 1719-11-01, place: "deceased", type: excursion }
+- type: home
+  start: 1681-01-02
+  end: ''
+  location: Ganboa, Semabara
+- type: away
+  start: 1719-11-01
+  end: ''
+  location: deceased
+lastSeenByParty: []
 ---
 # Gentza
 >[!info]+ Biographical Summary

@@ -1,24 +1,39 @@
 ---
 type: NPC
 name: Cecilia Lister
-species: human
-ancestry: Tollender
-gender: female
-born: 1694
-died: 
-title: 
-family: 
-affiliations:
-  - Dyer's Guild
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty: 
-     - { date: "1748-12-30", prefix: "DuFr" }
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1694
+died:
+gender: female
+pronouns:
+ancestry: Tollender
+species: human
+affiliations:
+- Dyer's Guild
+family:
 whereabouts:
-     - { date: "1694-01-01", place: "Tollen", region: "Western Green Sea", type: "origin" }
-     - { date: "1694-01-02", place: "Tollen", region: "Western Green Sea", type: "home" }
+- type: home
+  start: ''
+  end: ''
+  location: Tollen, Western Green Sea
+- type: home
+  start: '1694-01-02'
+  end: ''
+  location: Tollen, Western Green Sea
+lastSeenByParty:
+- date: '1748-12-30'
+  prefix: DuFr
 ---
 # Cecilia Lister
 >[!info]+ Biographical Summary

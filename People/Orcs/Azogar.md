@@ -1,32 +1,40 @@
 ---
 type: NPC
 name: Azogar
-species: orc
-ancestry: 
-gender: male
-born: 1678
-died: 
-family: 
-title: Loremaster
-affiliations:
-  - The People of the Rainbow
+pronouciation:
 aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-  - status/uptodate
-lastSeenByParty:
-  - date: 1748-12-09
-    prefix: DuFr
+- NPC/DuFr/met
+- NPC/DuFr/minor
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Loremaster
+born: 1678
+died:
+gender: male
+pronouns:
+ancestry:
+species: orc
+affiliations:
+- The People of the Rainbow
+family:
 whereabouts:
-  - date: 1678-01-01
-    place: Xurkhaz
-    region: Central Lowlands
-    type: origin
-  - date: 1678-01-02
-    place: Uzgukar, Xurkhaz
-    region: Central Lowlands
-    type: home
+- type: home
+  start: ''
+  end: ''
+  location: Xurkhaz, Central Lowlands
+- type: home
+  start: 1678-01-02
+  end: ''
+  location: Uzgukar, Xurkhaz, Central Lowlands
+lastSeenByParty:
+- date: 1748-12-09
+  prefix: DuFr
 ---
 # Loremaster Azogar
 >[!info]+ Biographical Summary

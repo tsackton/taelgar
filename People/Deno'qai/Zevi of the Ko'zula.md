@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Zevi
-species: human
-ancestry: "Deno'qai"
-gender: male
-born: 1734
-died: 
-origin: {place: "Ko'zula village", region: The Central Highlands}
-affiliations: 
-title:
-family: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1734
+died:
+gender: male
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Ko'zula village
+lastSeenByParty: []
 ---
 # Zevi
 >[!info]+ Biographical Summary

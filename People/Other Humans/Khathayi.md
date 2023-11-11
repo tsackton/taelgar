@@ -1,15 +1,29 @@
 ---
 type: NPC
-species: 
-born:
-ancestry:
-gender:
-died:
-family:
-title:
-affiliations:
 name: Khathayi
-tags: [NPC/MC/aware, NPC/DuFr/unaware, NPC/historical]
+pronouciation:
+aliases: []
+tags:
+- NPC/MC/aware
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry:
+species:
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Khathayi
 >[!info]+ Biographical Summary

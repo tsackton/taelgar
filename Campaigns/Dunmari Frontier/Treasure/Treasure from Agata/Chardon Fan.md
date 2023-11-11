@@ -1,7 +1,21 @@
 ---
 type: Item
-currentOwner: Kenzo
-magical: no
+name:
+pronouciation:
+aliases: []
+tags: []
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: created
+startPrefix: c.
+preExistError: '**(not yet created)**'
+created:
+destroyed:
+magical: false
+maker:
+owner: Kenzo
+ddbLink:
 ---
 # Chardon Fan
 

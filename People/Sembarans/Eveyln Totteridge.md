@@ -1,20 +1,40 @@
 ---
 type: NPC
 name: Eveyln Totteridge
-species: human
-ancestry: Sembaran
-gender: female
-born: 1699
-died: 
-title:
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1699
+died:
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home }
-     - { date: 1719-10-15, place: "Bandit's Way", region: Greater Sembara, type: excursion }
-     - { date: 1719-11-26, place: "Dunfry", region: Sembara, type: excursion }
+- type: home
+  start: null
+  end: ''
+  location: Cleenseau, Sembara
+- type: away
+  start: 1719-10-15
+  end: ''
+  location: Bandit's Way, Greater Sembara
+- type: away
+  start: 1719-11-26
+  end: ''
+  location: Dunfry, Sembara
+lastSeenByParty: []
 ---
 # Eveyln Totteridge
 >[!info]+ Biographical Summary

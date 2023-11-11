@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Dunmari werewolf woman
-species: human
-ancestry: Dunmari
-gender: female
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Dunmari werewolf woman
 >[!info]+ Biographical Summary

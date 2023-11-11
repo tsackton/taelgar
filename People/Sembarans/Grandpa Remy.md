@@ -1,16 +1,36 @@
 ---
 type: NPC
 name: Grandpa Remy
-species: Human
-ancestry: Sembaran
-gender: male
+pronouciation:
+aliases: []
+tags: []
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1640
-died: 
-lastSeenByParty: 
-  - { date: 1719-10-23, prefix: Clee }
-whereabouts: 
-  - { date: 1640-04-09, place: Tavoise, region: Sembara, type: origin }
-  - { date: 1719-10-23, place: Tavoise, region: Sembara, type: home }
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: Human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: 1640-04-09
+  end: ''
+  location: Tavoise, Sembara
+- type: home
+  start: 1719-10-23
+  end: ''
+  location: Tavoise, Sembara
+lastSeenByParty:
+- date: 1719-10-23
+  prefix: Clee
 ---
 # Grandpa Remy
 >[!info]+ Biographical Summary

@@ -1,24 +1,39 @@
 ---
 type: NPC
 name: Vaallinen
-species: human
-ancestry: Skaer
-gender: male
-born: 1713
-died: 
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/background
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title: Hakeasa
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-  - status/uptodate
-lastSeenByParty: 
-  - { date: 1748-12-25, prefix: DuFr }
-whereabouts: 
-  - { date: 1713-01-01, place: "Pyhlla", region: "Skaerhem", type: origin }
-  - { date: 1713-01-02, place: "Pyhlla", region: "Skaerhem", type: home }
+born: 1713
+died:
+gender: male
+pronouns:
+ancestry: Skaer
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Pyhlla, Skaerhem
+- type: home
+  start: 1713-01-02
+  end: ''
+  location: Pyhlla, Skaerhem
+lastSeenByParty:
+- date: 1748-12-25
+  prefix: DuFr
 ---
 # Hakeasa Vaallinen
 >[!info]+ Biographical Summary

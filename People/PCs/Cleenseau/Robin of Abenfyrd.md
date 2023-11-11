@@ -1,19 +1,45 @@
 ---
 type: PC
 name: Robin of Abenfyrd
-species: human 
-ancestry: Tyrwinghan
-gender: male
+pronouciation:
+aliases:
+- Robin
+tags:
+- PC/Cleenseau
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1700
-died: 
-affiliations: 
-campaign: "Cleenseau"
-player: "Dan Walters"
-aliases: [Robin]
-tags: [PC/Cleenseau]
+died:
+gender: male
+pronouns:
+ancestry: Tyrwinghan
+species: human
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
 whereabouts:
-     - { date: 1700-01-01, place: "Abenfyrd", region: Tyrwingha, type: origin }
-     - { date: 1719-10-19, place: "Cleenseau", region: Sembara, type: excursion }
+- type: home
+  start: ''
+  end: ''
+  location: Abenfyrd, Tyrwingha
+- type: away
+  start: 1719-10-19
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
+player: Dan Walters
+ddbLink:
 ---
 # Robin of Abenfyrd
 >[!info]+ Biographical Summary

@@ -1,19 +1,33 @@
 ---
 type: NPC
 name: Jasper
-species: Human
-ancestry: 
-gender: male
+pronouciation:
+aliases: []
+tags:
+- NPC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1680-09-21
-died: 
-tags: [NPC/unsorted]
-affiliations:
-title: 
-family: 
-lastSeenByParty: 
-  - { date: 1719-12-04, prefix: Clee }
-whereabouts: 
-  - { date: , place: Beury, region: Sembara, type: home }
+died:
+gender: male
+pronouns:
+ancestry:
+species: Human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: null
+  end: ''
+  location: Beury, Sembara
+lastSeenByParty:
+- date: 1719-12-04
+  prefix: Clee
 ---
 # Jasper
 >[!info]+ Biographical Summary

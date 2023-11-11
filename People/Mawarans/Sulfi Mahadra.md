@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: human
-born:
-ancestry:
-gender: female
-died:
-family:
-title:
-affiliations:
 name: Sulfi Mahadra
-tags: [NPC/MC/background, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/MC/background
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Sulfi Mahadra
 >[!info]+ Biographical Summary

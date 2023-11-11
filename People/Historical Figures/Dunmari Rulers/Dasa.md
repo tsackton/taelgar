@@ -1,25 +1,34 @@
 ---
-name: Dasa
-species: human
-ancestry: Dunmari
-gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-tags: [NPC/historical, NPC/DuFr/aware, NPC/DuFr/background]
-yearOverride: 
-aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
-reignEnd:
-reignStart:
-whereabouts:
-family:
 type: Ruler
+name: Dasa
+pronouciation:
+aliases:
+- Samraat Dasa
+- Samraat Aatmaj Dasa
+- Aatmaj Dasa
+tags:
+- NPC/historical
+- NPC/DuFr/aware
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
+reignStart:
+reignEnd:
 ---
 # Dasa
 >[!info]+ Biographical Summary

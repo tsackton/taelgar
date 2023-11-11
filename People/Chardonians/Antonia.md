@@ -1,23 +1,42 @@
 ---
 type: NPC
 name: Antonia
-species: human
-ancestry: Chardonian
-gender: female
-born: 1714
-died: 
-title:
-origin: {place: "Chardon", region: Chardonian Empire}
-family:
-affiliations:
-lastSeenByParty: 
-     - { date: 1748-12-10,  prefix: DuFr }
+pronouciation:
 aliases: []
-yearOverride: 1748-12-10
-tags: [NPC/DuFr/major, NPC/DuFr/met]
-whereabouts:     
-     - { date: 1748-11-10, region: Dunmar, type: travel }
-     - { date: 1748-12-08, end: false, place: "the mirror of soul trapping", region: extraplanar realms, type: visit }
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/met
+pageTargetDate: 1748-12-10
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1714
+died:
+gender: female
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: away
+  start: 1748-11-10
+  end: ''
+  location: Dunmar
+- type: away
+  start: 1748-12-08
+  end: false
+  location: the mirror of soul trapping, extraplanar realms
+- type: home
+  start: ''
+  end: ''
+  location: Chardon
+lastSeenByParty:
+- date: 1748-12-10
+  prefix: DuFr
 ---
 # Antonia
 >[!info]+ Biographical Summary

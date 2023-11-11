@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Karmana
-species: human
-ancestry: Dunmari
-gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
-yearOverride: 
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 ### Karmana
 (he/him)

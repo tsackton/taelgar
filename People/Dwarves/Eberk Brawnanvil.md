@@ -1,20 +1,37 @@
 ---
 type: NPC
 name: Eberk Brawnanvil
-species: dwarf
-ancestry: 
-gender: male
-born: 1502
-died: 
-affiliations: ["Brawnanvils"]
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
-yearOverride: 
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1502
+died:
+gender: male
+pronouns:
+ancestry:
+species: dwarf
+affiliations:
+- Brawnanvils
+family:
 whereabouts:
-     - { date: 1502-01-01, place: "Raven's Hold, Ardith", region: "Sentinel Range", type: origin }
-     - { date: 1547-01-01, place: "Tharn Todor, Nardith", region: Yuvanti Mountains, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Raven's Hold, Ardith, Sentinel Range
+- type: home
+  start: 1547-01-01
+  end: ''
+  location: Tharn Todor, Nardith, Yuvanti Mountains
+lastSeenByParty: []
 ---
 # Eberk Brawnanvil
 >[!info]+ Biographical Summary

@@ -1,17 +1,31 @@
 ---
 type: Ruler
-affiliations:
-reignStart:
-reignEnd:
 name: Morgaine
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family: House of Lils
+born: 1600
 died: 1713
 gender: female
+pronouns:
 ancestry: Tyrwinghan
-born: 1600
 species: human
+affiliations: []
+family: House of Lils
+whereabouts: []
+lastSeenByParty: []
+reignStart:
+reignEnd:
 ---
 # Morgaine
 >[!info]+ Biographical Summary

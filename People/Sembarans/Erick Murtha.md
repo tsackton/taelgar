@@ -1,17 +1,32 @@
 ---
 type: NPC
-species: human
-born: 1671
-ancestry: Sembaran
-gender: male
-died:
-family:
-title: Lord
-affiliations:
 name: Erick Murtha
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Lord
+born: 1671
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1671-01-02, place: "Beury, Aveil", region: Sembara, type: home}
+- type: home
+  start: 1671-01-02
+  end: ''
+  location: Beury, Aveil, Sembara
+lastSeenByParty: []
 ---
 # Lord Erick Murtha
 >[!info]+ Biographical Summary

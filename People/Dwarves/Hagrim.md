@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Hagrim
-species: dwarf
-ancestry: 
-gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 ## Hagrim of [[Morkalan]]
 

@@ -1,18 +1,33 @@
 ---
 type: NPC
 name: Crispus
-species: human
-ancestry: Chardonian
-gender: male
-born: 1697
-died: 
-title:
-family:
-affiliations: ["Great Library"]
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/aware, NPC/DuFr/minor]
+tags:
+- NPC/DuFr/aware
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1697
+died:
+gender: male
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations:
+- Great Library
+family:
 whereabouts:
-     - { date: 1697-01-02, place: "Chardon", region: Chardonian Empire, type: home }
+- type: home
+  start: 1697-01-02
+  end: ''
+  location: Chardon, Chardonian Empire
+lastSeenByParty: []
 ---
 # Crispus
 >[!info]+ Biographical Summary

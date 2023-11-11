@@ -1,5 +1,6 @@
 ---
-tags: [stub]
+tags:
+- stub
 ---
 
 # Splender's Gleam

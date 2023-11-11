@@ -1,17 +1,29 @@
 ---
 type: PC
 name: <% tp.file.title %>
-species: 
-ancestry: 
-gender: 
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
+pronouciation:
 aliases: []
-tags: [PC/unsorted]
-campaign: 
-player: 
-yearOverride: 
+tags:
+- PC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry:
+species:
+affiliations:
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player:
+ddbLink:
 ---

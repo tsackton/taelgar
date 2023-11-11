@@ -1,4 +1,5 @@
 ---
-tags: [event-source]
+tags:
+- event-source
 DR: 15
 ---

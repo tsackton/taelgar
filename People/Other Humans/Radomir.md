@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Radomir
-species: human
-ancestry: Urskan
-gender: male
-born: 1710
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1710
+died:
+gender: male
+pronouns:
+ancestry: Urskan
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/aware]
-yearOverride: 
 whereabouts:
-     - { date: 1710-01-02, place: "unknown", region: Ursk, type: home }
+- type: home
+  start: 1710-01-02
+  end: ''
+  location: unknown, Ursk
+lastSeenByParty: []
 ---
 # Radomir
 >[!info]+ Biographical Summary

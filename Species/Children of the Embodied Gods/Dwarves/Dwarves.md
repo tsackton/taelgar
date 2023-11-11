@@ -1,5 +1,9 @@
 ---
-aliases: [dwarf, Dwarf, Dwarves, dwarves]
+aliases:
+- dwarf
+- Dwarf
+- Dwarves
+- dwarves
 speciesDescriptor: dwarf
 ---
 # Dwarf

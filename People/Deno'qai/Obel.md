@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Obel
-species: human
-ancestry: "Deno'qai"
-gender: male
-born: 1688
-died: 
-title:
-family:
-origin: { place: "Te'kula village", region: Elderwood }
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1688
+died:
+gender: male
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Te'kula village
+lastSeenByParty: []
 ---
 # Obel
 >[!info]+ Biographical Summary

@@ -1,19 +1,33 @@
 ---
 type: NPC
 name: Govir
-species: human
-ancestry: Dunmari
-gender: male
-born: 1708
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/met
+- stub
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1708
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/major, NPC/DuFr/met, stub]
-yearOverride: 
 whereabouts:
-     - { date: 1714-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- type: home
+  start: 1714-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Govir
 >[!info]+ Biographical Summary

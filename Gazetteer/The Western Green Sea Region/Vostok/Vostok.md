@@ -1,5 +1,6 @@
 ---
-aliases: [Vosland]
+aliases:
+- Vosland
 ---
 # Vostok
 

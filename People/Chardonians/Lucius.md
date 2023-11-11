@@ -1,25 +1,33 @@
 ---
 type: NPC
 name: Lucius
-species: human
-ancestry: Chardonian
-gender: male
-born: 1743
-died: 
-affiliations: 
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-  - event-source
-title: 
-family: 
-yearOverride: 
+- NPC/DuFr/met
+- NPC/DuFr/background
+- event-source
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1743
+died:
+gender: male
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations: []
+family:
 whereabouts:
-  - date: 1743-01-01
-    place: Luminatia
-    region: Chardonian Empire
-    type: origin
+- type: home
+  start: ''
+  end: ''
+  location: Luminatia, Chardonian Empire
+lastSeenByParty: []
 ---
 # Lucius
 >[!info]+ Biographical Summary

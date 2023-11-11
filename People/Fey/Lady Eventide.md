@@ -1,22 +1,39 @@
 ---
 type: NPC
 name: Lady Eventide
-species: fey
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one, status/uptodate]
-yearOverride: 
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: fey
+affiliations: []
 family:
-lastSeenByParty: 
-  - { date: 1748-11-01, prefix: DuFr } # Please replace YYYY-MM-DD with the actual date
-whereabouts: 
-  - { date: 0001-01-01, place: "Amberglow", region: "Feywild" , type: origin }
-  - { date: 0001-01-02, place: "Amberglow", region: "Feywild", type: home }
+whereabouts:
+- type: home
+  start: 0001-01-01
+  end: ''
+  location: Amberglow, Feywild
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Amberglow, Feywild
+lastSeenByParty:
+- date: 1748-11-01
+  prefix: DuFr
 ---
 # Lady Eventide
 >[!info]+ Biographical Summary

@@ -1,20 +1,42 @@
 ---
 type: NPC
 name: Fausto
-species: human
-ancestry: Chardonian
-gender: male
-born: 1714
-died: 
-title:
-family:
-affiliations: ["The Society of the Open Scroll", "The Cleansed"] 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1714
+died:
+gender: male
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations:
+- The Society of the Open Scroll
+- The Cleansed
+family:
 whereabouts:
-- { date: 1731-01-01, place: "Chardon", region: "Chardonian Empire", type: home}
-- { date: 1734-01-01, place: "adventuring", region: "The West Coast Region", type: excursion}
-- { date: 1737-01-01, place: "Chardon", region: "Chardonian Empire", type: home}
+- type: home
+  start: 1731-01-01
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: away
+  start: 1734-01-01
+  end: ''
+  location: adventuring, The West Coast Region
+- type: home
+  start: 1737-01-01
+  end: ''
+  location: Chardon, Chardonian Empire
+lastSeenByParty: []
 ---
 # Fausto
 >[!info]+ Biographical Summary

@@ -1,20 +1,36 @@
 ---
 type: NPC
 name: Alesh
-species: human
-ancestry: Dunmari
-gender: female
-born: 1727
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/major]
-summary: "Scout, history buff, messenger; expert rider; loves her horse."
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/major
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1727
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1727-01-01, place: "Karawa", region: Eastern Dunmar, type: origin }
-     - { date: 1727-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Karawa, Eastern Dunmar
+- type: home
+  start: 1727-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Alesh
 >[!info]+ Biographical Summary

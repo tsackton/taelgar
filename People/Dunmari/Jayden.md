@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Jayden
-species: human
-ancestry: Dunmari
-gender: female
-born: 1729
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1729
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1729-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: 1729-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Jayden
 >[!info]+ Biographical Summary

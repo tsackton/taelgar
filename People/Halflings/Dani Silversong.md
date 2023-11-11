@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Dani Silversong
-species: halfling
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: halfling
+affiliations: []
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1748-11-23, place: "traveling", region: Nevos Sea, type: excursion }
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: traveling, Nevos Sea
+lastSeenByParty: []
 ---
 # Dani Silversong
 >[!info]+ Biographical Summary

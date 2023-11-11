@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#event-source"
+- '#event-source'
 ---
 # Before the Great War
 Before DR 1400

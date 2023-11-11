@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Jordo
-species: human
-ancestry: "Deno'qai"
-gender: male
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1672
 died: 1744
-title:
-origin: {place: "Te'kula village", region: Elderwood}
+gender: male
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
 family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Te'kula village
+lastSeenByParty: []
 ---
 # Jordo
 >[!info]+ Biographical Summary

@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Corrin Wildheart
-species: hafling
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: hafling
+affiliations: []
 family:
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
-yearOverride: 
 whereabouts:
-     - { date: 1748-11-23, place: "unknown", region: Eastern Green Sea, type: excursion }
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: unknown, Eastern Green Sea
+lastSeenByParty: []
 ---
 # Corrin Wildheart
 >[!info]+ Biographical Summary

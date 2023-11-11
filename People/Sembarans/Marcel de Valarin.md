@@ -1,6 +1,27 @@
 ---
 type: NPC
-tags: [stub]
+name:
+pronouciation:
+aliases: []
+tags:
+- stub
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry:
+species:
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 
 historical; friend or perhaps lover of [[Cedric Cyfenwid]]

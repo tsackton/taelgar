@@ -1,29 +1,38 @@
 ---
 type: NPC
 name: Amil
-species: human
-ancestry: Dunmari
-gender: male
-born: 1731
-died: 
-affiliations:
-  - Order of the Awakened Soul
-title: 
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-  - event-source
-family: 
+- NPC/DuFr/met
+- NPC/DuFr/minor
+- event-source
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1731
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations:
+- Order of the Awakened Soul
+family:
 whereabouts:
-  - date: 1731-01-02
-    place: Pava and Avaras' House
-    region: Nashtkar
-    type: home
-  - date: 1749-01-01
-    place: Pava and Avaras' House
-    region: Nashtkar
-    type: excursion
+- type: home
+  start: 1731-01-02
+  end: ''
+  location: Pava and Avaras' House, Nashtkar
+- type: away
+  start: 1749-01-01
+  end: ''
+  location: Pava and Avaras' House, Nashtkar
+lastSeenByParty: []
 ---
 # Amil
 >[!info]+ Biographical Summary

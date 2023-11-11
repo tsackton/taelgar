@@ -1,6 +1,18 @@
 ---
-tags: [organization/party]
 type: Organization
+name:
+pronouciation:
+aliases: []
+tags:
+- organization/party
+pageTargetDate:
+endStatus: disbanded
+endPrefix: d.
+startStatus: founded
+startPrefix: f.
+preExistError: '**(not yet founded)**'
+created:
+destroyed:
 ---
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 

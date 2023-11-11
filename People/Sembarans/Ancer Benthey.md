@@ -1,18 +1,36 @@
 ---
 type: NPC
-species: human
-born: 1689
-ancestry: Sembaran
-gender: male
-died:
-family: Benthey
-title:
-affiliations:
 name: Ancer Benthey
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1689
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family: Benthey
 whereabouts:
-- { type: home, place: Cleenseau, region: Sembara}
-- { type: excursion, place: Dunfry, region: Sembara}
+- type: home
+  start: ''
+  end: ''
+  location: Cleenseau, Sembara
+- type: away
+  start: ''
+  end: ''
+  location: Dunfry, Sembara
+lastSeenByParty: []
 ---
 # Ancer Benthey
 >[!info]+ Biographical Summary

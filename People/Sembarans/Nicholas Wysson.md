@@ -1,18 +1,32 @@
 ---
 type: NPC
 name: Nicholas Wysson
-species: human
-ancestry: Sembaran
-gender: male
-born: 1697
-affiliations: 
-title:
-family:
-died:
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1697
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home }
+- type: home
+  start: null
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Nicholas Wysson
 >[!info]+ Biographical Summary

@@ -1,23 +1,39 @@
 ---
 type: NPC
 name: Umli the Exile
-species: stoneborn
-ancestry: 
-gender: female
+pronouciation:
+aliases:
+- Umli
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1666
-died: 
-title: 
-family: 
-affiliations: 
-aliases: [Umli]
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
+died:
+gender: female
+pronouns:
+ancestry:
+species: stoneborn
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Vostok Mountains, Western Green Sea
+- type: home
+  start: 1732-01-02
+  end: ''
+  location: Tollen, Western Green Sea
 lastSeenByParty:
-  - { date: 1748-12-29, prefix: DuFr }
-whereabouts: 
-  - { date: 1666-01-01, place: "Vostok Mountains", region: "Western Green Sea", type: origin }
-  - { date: 1732-01-02, place: "Tollen", region: "Western Green Sea", type: home }
+- date: 1748-12-29
+  prefix: DuFr
 ---
 # Umli the Exile
 >[!info]+ Biographical Summary

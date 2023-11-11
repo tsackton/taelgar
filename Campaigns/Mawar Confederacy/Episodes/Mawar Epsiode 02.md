@@ -3,7 +3,11 @@ type: Session Notes
 realWorldDate: 2021-08-19
 taelgar-date: 1747-08-03
 taelgar-date-end: 1747-08-09
-players: ["Ryu", "Wazir", "Trok", "Kaleho"]
+players:
+- Ryu
+- Wazir
+- Trok
+- Kaleho
 ---
 
 # Episode 2: The Tragedy of Azar

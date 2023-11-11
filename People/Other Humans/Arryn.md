@@ -1,20 +1,36 @@
 ---
 type: NPC
 name: Arryn
-species: human
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/minor]
-yearOverride: 
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: , place: "Free City of Tollen", region: Greater Sembara, Western Green Sea, type: origin }
-     - { date: 1748-11-13, place: "unknown", region: Eastern Green Sea, type: excursion }
+- type: home
+  start: ''
+  end: ''
+  location: Free City of Tollen, Greater Sembara
+- type: away
+  start: 1748-11-13
+  end: ''
+  location: unknown, Eastern Green Sea
+lastSeenByParty: []
 ---
 # Arryn
 >[!info]+ Biographical Summary

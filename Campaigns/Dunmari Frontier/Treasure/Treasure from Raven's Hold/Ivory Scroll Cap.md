@@ -1,8 +1,21 @@
 ---
 type: Item
-tags: 
-aliases: 
+name:
+pronouciation:
+aliases: []
+tags: []
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: created
+startPrefix: c.
+preExistError: '**(not yet created)**'
+created:
+destroyed:
+magical:
 maker:
+owner:
+ddbLink:
 ---
 # Ivory Scroll Case
 

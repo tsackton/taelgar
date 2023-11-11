@@ -1,19 +1,35 @@
 ---
 type: NPC
 name: Somi-nai
-species: elemental
-ancestry: fire
-gender: male
-born: 
-died: 
-affiliations: [Ember, Sugarra]
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: fire
+species: elemental
+affiliations:
+- Ember
+- Sugarra
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one, status/uptodate]
-yearOverride: 
 whereabouts:
-     - { date: , place: "Azta Lekua", region: Orekatu, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Azta Lekua, Orekatu
+lastSeenByParty: []
 ---
 # Somi-nai
 >[!info]+ Biographical Summary

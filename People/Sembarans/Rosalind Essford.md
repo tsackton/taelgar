@@ -1,18 +1,34 @@
 ---
 type: NPC
 name: Rosalind Essford
-species: human
-ancestry: Sembaran
-gender: female
+pronouciation:
+aliases:
+- Lady Essford
+- Lady Rosalind Essford
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title: Lady
 born: 1677
-died: 
-affiliations: 
-aliases: [Lady Essford, Lady Rosalind Essford]
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+died:
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home }    
+- type: home
+  start: null
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Lady Rosalind Essford
 >[!info]+ Biographical Summary

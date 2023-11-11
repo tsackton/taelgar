@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Arrosa
-species: lizardfolk
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
-yearOverride: 
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations: []
+family:
 whereabouts:
-     - { date: , place: "Bedez", region: Orekatu, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Bedez, Orekatu
+lastSeenByParty: []
 ---
 # Arrosa
 >[!info]+ Biographical Summary

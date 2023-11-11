@@ -1,17 +1,31 @@
 ---
 type: Ruler
-affiliations:
-reignStart:
-reignEnd:
 name: Eloise
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family:
+born: 1486
 died: 1562
 gender: female
+pronouns:
 ancestry: Sembaran
-born: 1486
 species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
+reignStart:
+reignEnd:
 ---
 # Eloise
 >[!info]+ Biographical Summary

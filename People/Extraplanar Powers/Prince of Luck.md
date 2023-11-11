@@ -1,18 +1,29 @@
 ---
 type: NPC
 name: Prince of Luck
-species: fey
-ancestry: 
-gender: male
-born: 
-died: 
-origin:
-affiliations: 
-aliases: [Chanceweaver]
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
+pronouciation:
+aliases:
+- Chanceweaver
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: fey
+affiliations: []
 family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Prince of Luck
 >[!info]+ Biographical Summary

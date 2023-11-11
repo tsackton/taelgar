@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: human
-born: 1673
-ancestry:
-gender: female
-died:
-family:
-title:
-affiliations:
 name: Avelina Smith
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1673
+died:
+gender: female
+pronouns:
+ancestry:
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Avelina Smith
 >[!info]+ Biographical Summary

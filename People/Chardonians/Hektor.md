@@ -1,21 +1,44 @@
 ---
 type: NPC
 name: Hektor
-species: human
-ancestry: Chardonian
-gender: male
-born: 1726
-died: 
-affiliations: 
-title:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1726
+died:
+gender: male
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: 1726-01-01, place: "Chardon", region: Chardonian Empire, type: home }
-###secret[1]
-     - { date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, type: excursion}
-###secret[2]
+- type: home
+  start: ''
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: away
+  start: 1748-11-10
+  end: ''
+  location: somewhere in Dunmar, Dunmar
+- type: away
+  start: 1748-11-15
+  end: ''
+  location: somewhere in Dunmar, Dunmar
+- type: away
+  start: 1748-11-20
+  end: ''
+  location: Garamjala Desert, Dunmar
+lastSeenByParty: []
 ---
 # Hektor
 >[!info]+ Biographical Summary
@@ -30,4 +53,4 @@ According to [[Marcella]], he was once a sweet sailor with a beautiful singing v
 
 ![[hektor.png|500]]
 
-%%SECRET[3]%%
+%%SECRET[1]%%
