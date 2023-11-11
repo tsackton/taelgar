@@ -11,6 +11,20 @@ whereabouts:
 * If the type is home no other values are required
 * Dates can be in the format YYYY, YYYY-MM, YYYY-MMx, or YYYY-MM-DD (see [[Formatting#Dates|Date Formatting]])
 
+**PROPOSED**
+Whereabouts is YAML list with the following format:
+
+```yaml
+whereabouts:
+ - { start: date or blank, end: date or blank, location: string, type: away or home }
+```
+* If the type is away at least the start date is expected to be specified and undefined behavior might occur (such as Javascript errors) if this is not specified.
+* If the type is home, one of place or region must be specified, and undefined behavior might occur (such as Javascript errors) if this is not specified.
+* Dates can be in the format YYYY, YYYY-MM, or YYYY-MM-DD
+
+**END**
+
+
 This whereabouts YAML is then structured to generate the following logical pieces of information:
 
 * A last known location. This is where an person "last was", based on a defined date. 

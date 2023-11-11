@@ -15,17 +15,16 @@ tags: [NPC/DuFr/met, NPC/DuFr/minor, status/uptodate]
 lastSeenByParty: 
  - { date: 1748-9-30, prefix: DuFr }
 whereabouts:
-     - { date: 1468-01-01, place: "unknown", region: Ainumarya, type: origin }
-     - { date: 1733-01-01, place: "unknown", region: Elderwood, type: excursion }
-     - { date: 1748-08-15, place: "Te'kula village", region: Elderwood, type: excursion}
+     - { start: 1468-01-01, end: 1600,  place: "unknown", region: Ainumarya, type: home } #end is approx
+     - { start: 1733-01-01, place: "unknown", region: Elderwood, type: away }
+     - { start: 1748-08-15, place: "Te'kula village", region: Elderwood, type: away}
 ---
 # Belegor
 >[!info]+ Biographical Summary
->[[Elves]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: unknown, [[Ainumarya]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at September 30th, 1748: [[Te'kula]] village, [[Elderwood]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Elves|elf]], he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka 36]])
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Belegor is a solitary [[Elves]] wander, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [[Events/1500s/Great War]]. 
 ## Overview
