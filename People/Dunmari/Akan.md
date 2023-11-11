@@ -29,12 +29,13 @@ whereabouts:
   location: area north and east of Karawa, Eastern Dunmar
 lastSeenByParty: []
 ---
+
 # Akan
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: area north and east of Karawa, [[Eastern Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, typical of the Dunmari in the eastern region of the country. 
 
