@@ -2,29 +2,22 @@ function get_PageDatedValue(metadata) {
 
     const { metadataUtils } = customJS
 
-    let defaultPreexistError = "**(doesn't yet exist)**"
     let defaultStart = "created"
     let defaultEnd = "destroyed"
     let defaultEndStatus = "destroyed"
 
     if (metadata.type == "NPC" || metadata.type == "PC" || metadata.type == "Ruler") {
-        defaultPreexistError = "**(not yet born)**"
         defaultStart = "b.";
         defaultEnd=  "d.";
         defaultEndStatus = "died"
     } else if (metadata.type == "Building") {
-        defaultPreexistError =  "**(not yet built)**"
         defaultStart = "built";       
     } else if (metadata.type == "Item") {
-        defaultPreexistError = "**(not yet created)**"
         defaultStart = "created";      
     } else if (metadata.type == "Place") {
-        defaultPreexistError =  "**(not yet founded)**"
         defaultStart = "founded";       
-
     }
 
-    preExistError = metadata.preExistError ? metadata.preExistError : defaultPreexistError
     startPrefix = metadata.startPrefix ? metadata.startPrefix : defaultStart
     endPrefix = metadata.endPrefix ? metadata.endPrefix : defaultEnd
     endStatus = metadata.endStatus ? metadata.endStatus : defaultEndStatus
@@ -42,7 +35,7 @@ function get_PageDatedValue(metadata) {
     // we have a year start
     let age = metadataUtils.get_Age(currentYear, yearStart)
 
-    if (yearStart.sort > currentYear.sort) return preExistError;
+    if (yearStart.sort > currentYear.sort) return "**(doesn't yet exist)**";
 
     // no end
     if (!yearEnd) {
