@@ -62,3 +62,39 @@ const {metadataUtils} = customJS
 let target = metadataUtils.parse_date_to_events_date(dv.current().pageTargetDate, false);
 dv.span(metadataUtils.get_exactWhereabouts(dv.current(), target))
 ```
+
+Additional testing of campaign and date filters.
+
+The following line should be removed:
+%%^Date:1750%% hasn't happened %%^End%%
+
+This block should also be removed:
+%%^Date:1750%% 
+hasn't happened 
+%%^End%%
+
+These should stay:
+%%^Date:1110%% history stuff %%^End%%
+
+%%^Date:1110%% 
+history stuff %%^End%%
+
+%%^Date:1110%% 
+history stuff 
+%%^End%%
+
+This should stay in based on DuFr campaign:
+%%^Campaign:DuFr%%Seeker event %%^End%%
+
+SO SHOULD this:
+%%^Campaign:DuFr%%
+delwath does stuff
+%%^End%%
+
+This should be removed based on DuFr campaign
+%%^Campaign:GrLi%%Adrik smash %%^End%%
+
+%%^Campaign:GrLi%%
+lily pads
+%%^End%%
+
