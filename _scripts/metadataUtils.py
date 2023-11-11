@@ -29,11 +29,16 @@ def get_current_date(metadata):
         current_data_string = str(data['calendars'][0]['current']['year']) + "-" + str(data['calendars'][0]['current']['month']+1) + "-" + str(data['calendars'][0]['current']['day'])
         return clean_date(current_data_string)
 
-def clean_date(value, end = False):
-    print(value, type(value), file=sys.stderr)
+def clean_date(value, end = False, debug = False):
+
+    def sanitize(input_string):
+        return re.sub(r'\D', '', input_string)
+
+    if debug:
+        print(value, type(value), file=sys.stderr)
 
     # If value is None, return None
-    if value is None:
+    if value is None or not value:
         return None
 
     if isinstance(value, datetime):
@@ -51,9 +56,6 @@ def clean_date(value, end = False):
             return date(value, 1, 1)
 
     if isinstance(value, str):
-
-        def sanitize(input_string):
-            return re.sub(r'\D', '', input_string)
 
         parts = value.split('-')
 
@@ -96,17 +98,17 @@ def parse_loc_string(string, metadata):
 
 def get_page_start_date(metadata):
     pageStartDate = clean_date(metadata["created"]) if "created" in metadata else None
-    if metadata["type"] in ["NPC", "PC", "Ruler"]:
+    if "type" in metadata and metadata["type"] in ["NPC", "PC", "Ruler"]:
         pageStartDate = clean_date(metadata["born"]) if "born" in metadata else pageStartDate
     return pageStartDate
 
 def get_page_end_date(metadata):
     pageEndDate = clean_date(metadata["destroyed"], end=True) if "destroyed" in metadata else None
-    if metadata["type"] in ["NPC", "PC", "Ruler"]:
+    if "type" in metadata and metadata["type"] in ["NPC", "PC", "Ruler"]:
         pageEndDate = clean_date(metadata["died"], end=True) if "died" in metadata else pageEndDate
     return pageEndDate
 
-def parse_whereabouts(metadata):
+def parse_whereabouts(metadata, debug = False):
 
     whereabouts = metadata["whereabouts"]
     target_date = get_current_date(metadata)
@@ -128,6 +130,7 @@ def parse_whereabouts(metadata):
     locations["last"]["output"] = False
     locations["last"]["date"] = None
     locations["last"]["duration"] = None
+    locations["last"]["end"] = None
     locations["current"]["value"] = None
     locations["current"]["output"] = False
     locations["current"]["date"] = None
@@ -212,6 +215,7 @@ def parse_whereabouts(metadata):
                 locations["last"]["value"] = value
                 locations["last"]["date"] = start
                 locations["last"]["output"] = True
+                locations["last"]["end"] = end
         
         # Find the "origin whereabout"
         # Candidate set = Take all of the whereabouts where type = home and start = undefined
@@ -226,15 +230,28 @@ def parse_whereabouts(metadata):
     # Value: the origin whereabout
     # Output: origin whereabout is defined and whereabouts with type home > 1 or the origin whereabout is defined and there is no home whereabout
 
-    if locations["origin"]["value"] is not None:
-        if home_count > 1:
+    # if home_count == 1:
+    # home = True and origin = False if home value is defined, otherwise origin = True and home = False
+    # logic is if home_count == 1, should always just output home unless home has an end date, implying no current home
+    # by definition if home_count == 1, origin and home must have the same value if both defined, so don't need to check
+    # if home_count > 1, we need to check if home and origin have the same value. 
+    # if they have the same value, that means the only valid home is the origin, so we output origin True and home True but set home value to "Unknown"
+
+    if home_count == 0:
+        locations["origin"]["output"] = False
+        locations["home"]["output"] = False
+    elif home_count == 1:
+        locations["origin"]["output"] = False
+        locations["home"]["output"] = True
+        if locations["home"]["value"] is None or locations["home"]["value"] == "Unknown":
+            locations["home"]["output"] = False
             locations["origin"]["output"] = True
-        elif locations["home"]["value"] is None:
-            locations["origin"]["output"] = True
-            if locations["home"]["value"] == location["origin"]["value"]:
-                 locations["origin"]["output"] = False
-        else:
-            locations["origin"]["output"] = False
+    else:
+        locations["home"]["output"] = True
+        locations["origin"]["output"] = True
+        if locations["home"]["value"] == locations["origin"]["value"]:
+            locations["home"]["value"] = "Unknown"
+            locations["home"]["output"] = False
 
     # A current location is defined as
     # Value:
@@ -249,16 +266,19 @@ def parse_whereabouts(metadata):
     if locations["exact"]["value"] is not None:
         locations["current"]["value"] = locations["exact"]["value"]
         locations["current"]["output"] = True
-    elif locations["home"]["value"] is not None and locations["last"]["value"] is not None:
-        if locations["last"]["date"] is not None and locations["last"]["date"] < target_date:
+    elif locations["home"]["value"] is not None:
+        if locations["last"]["end"] is not None and locations["last"]["end"] < target_date:
+            locations["current"]["value"] = locations["home"]["value"]
+            locations["current"]["output"] = False
+        elif locations["last"]["value"] is None:
             locations["current"]["value"] = locations["home"]["value"]
             locations["current"]["output"] = False
         else:
             locations["current"]["value"] = "Unknown"
             locations["current"]["output"] = True
     else:
-        locations["current"]["value"] = None
-        locations["current"]["output"] = False
+        locations["current"]["value"] = "Unknown"
+        locations["current"]["output"] = True
 
     # a last known location is defined as
     # Value: the last known whereabouts
@@ -268,6 +288,9 @@ def parse_whereabouts(metadata):
         locations["last"]["output"] = True
     else:
         locations["last"]["output"] = False
+
+    if debug:
+        print(metadata["name"], locations, file=sys.stderr)
 
     return locations
 

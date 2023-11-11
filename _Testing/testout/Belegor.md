@@ -15,16 +15,17 @@ tags: [NPC/DuFr/met, NPC/DuFr/minor, status/uptodate]
 lastSeenByParty: 
  - { date: 1748-9-30, prefix: DuFr }
 whereabouts:
-     - { start: 1468-01-01, end: 1600,  place: "unknown", region: Ainumarya, type: home } #end is approx
-     - { start: 1733-01-01, place: "unknown", region: Elderwood, type: away }
-     - { start: 1748-08-15, place: "Te'kula village", region: Elderwood, type: away}
+     - { start: "", end: 1600, location: Ainumarya, type: home } #end is approx
+     - { start: 1733-01-01, location: "Elderwood", type: away }
+     - { start: 1748-08-15, location: "Te'kula village, Elderwood", type: away} 
 ---
 # Belegor
 >[!info]+ Biographical Summary
 >[[Elves|elf]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka 36]])
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>b. DR1468 (281 years old) ([[The Cycle of Generations|ka 36]])
+>> Originally from: Ainumarya
+>> Last known location (as of Aug 15, 1748): Te'kula village,  Elderwood
+Current location (as of Jan 16, 1749): Unknown
 
 Belegor is a solitary [[Elves]] wander, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [[Events/1500s/Great War]]. 
 ## Overview
