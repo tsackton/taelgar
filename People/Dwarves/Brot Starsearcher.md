@@ -8,21 +8,20 @@ born: 1579
 title:
 family:
 died: 
-origin: "Am'khazar"
 affiliations: 
 aliases: []
 title:
 family:
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: 1665-01-01, place: "Taviose", region: Sembara, type: home }
+     - { location: "Am'khazar", type: home }
+     - { location: "Taviose, Sembara", type: home }
      - { date: 1719-11-21, date_end: 1719-12-05, place: "Dunfry", region: Sembara, type: travel }
 ---
 # Brot Starsearcher
 >[!info]+ Biographical Summary
 >[[Dwarves|dwarf]], they/them
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
->> Originally from: [[Am'khazar]]
 >> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
