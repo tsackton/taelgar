@@ -6,9 +6,8 @@ ancestry:
 gender: male
 born: 1704
 died: 
-origin:
-  place: Chardon
-  region: Chardonian Empire
+origin: Chardon
+originRegion: Chardonian Empire
 title: 
 family: 
 affiliations:

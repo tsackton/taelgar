@@ -12,6 +12,18 @@ import shutil
 dview_file_name = "dview_functions"
 dview_functions = importlib.import_module(dview_file_name)
 
+def dict_to_yaml(d):
+    yaml_lines = []
+    for key, value in d.items():
+        if value is None:
+            # Output the key without a value
+            yaml_lines.append(f"{key}:\n")
+        else:
+            # Use yaml.dump for other values
+            yaml_value = yaml.safe_dump({key: value}, sort_keys=False)
+            yaml_lines.append(yaml_value)
+    return ''.join(yaml_lines)
+
 def is_function(module, attribute):
     attr = getattr(module, attribute)
     return callable(attr)
@@ -56,6 +68,7 @@ parser.add_argument('--campaign', required=False, help="Campaign prefix (optiona
 parser.add_argument('--date', required=False, help="Target date in YYYY or YYYY-MM-DD format (optional, overrides current date in config file)")
 parser.add_argument('--dview', required=False, default=False,  action='store_true', help="Replace dv.view() calls with dview_functions.py calls (optional)")
 parser.add_argument('--yaml', required=False, default=False,  action='store_true', help="*NOT IMPLEMENTED* Check yaml against metadata spec and clean up (optional)")
+parser.add_argument('--export-null', required=False, default=False,  action='store_true', help="Convert empty strings to null values in yaml frontmatter (optional)")
 parser.add_argument('--filter', required=False, default=False,  action='store_true', help="Filter out text based on campaign and date information (optional)")
 parser.add_argument('--filter2', required=False, default=False, action='store_true', help="*NOT IMPLEMENTED* Remove pages that don't exist yet (optional)")
 parser.add_argument('-b', '--backup', required=False, help="Create backup files in the specified directory (optional)")
@@ -124,12 +137,28 @@ for file_name in md_file_list:
     metadata["file"] = file_name
     current_date = get_current_date(metadata)
 
+    if clean_yaml:
+        metadata_clean = update_metadata(metadata)
+
+        # remove ka from  metadata if we are not species == elf
+        if "species" in metadata_clean and (metadata_clean["species"] != "elf"):
+            metadata_clean.pop("ka", None)
+
+        if not args.export_null:
+            new_frontmatter = dict_to_yaml(metadata_clean)
+        else:
+            new_frontmatter = yaml.safe_dump(metadata_clean, sort_keys=False, allow_unicode=True)
+        end_of_frontmatter = lines.index('---\n', 1) + 1
+        updated_content = ['---\n', new_frontmatter, '---\n'] + lines[end_of_frontmatter:]
+    else:
+        updated_content = lines
+
     #Process the rest of the file with access to the metadata information
     filter_start = False
     filter_end = False
     filter_block = False
     newlines = []
-    for line in lines:
+    for line in updated_content:
         filter_start = line.startswith(("%%^", ">%%^", ">>%%^", ">>>%%^"))
         line_start = ""
         filter_end = line.endswith(("%%^End%%\n","%%^End%%"))
