@@ -6,6 +6,32 @@ import json
 import sys
 import re
 
+def loc_join(l):
+    if not l:
+        return ""
+    
+    if isinstance(l, str):
+        return l
+
+    # Check if the input is a list
+    if isinstance(l, list):
+        # Process each element in the list
+        processed_list = [item if isinstance(item, str) else str(list(item.values())[0]) for item in l if item is not None and item != ""]
+
+        if len(processed_list) == 1:
+            return processed_list[0]
+        else:
+            return ', '.join(processed_list)
+
+    # Return an empty string for other types
+    return ""
+
+def get_valid_types(): 
+    return(["Ruler", "PC", "NPC", "Item", "Place", "Building", "Event", "Organization", "Session Note"])
+
+def get_tags_to_output():
+    return(["sessionStartTime", "sessionEndDate", "sessionEndTime", "summary"])
+
 def get_link(string, metadata):
     links = metadata["links"]
     file = metadata["file"]
@@ -78,6 +104,9 @@ def clean_date(value, end = False, debug = False):
     raise ValueError("Input must be a datetime object, an integer, or a string in YYYY, YYYY-MM, or YYYY-MM-DD format.")
 
 def display_date(date, full = True, cr = "DR"):
+    if (date is None) or (date == ""):
+        return None
+
     if (full):
         return date.strftime("%b %d, %Y")
     else:
@@ -294,3 +323,326 @@ def parse_whereabouts(metadata, debug = False):
 
     return locations
 
+def define_metadata(type): 
+
+    ## creates a blank metadata dictionary with all valid fields
+
+    valid_types = get_valid_types()
+
+    metadata_core = {
+        'type' : None, 
+        'name' : None,
+        'pronouciation' : None, 
+        'aliases' : [],
+        'tags' : [],
+        'pageTargetDate' : None,
+        'endStatus' : None,
+        'endPrefix' : None,
+        'startStatus': None,
+        'startPrefix' : None,
+        'preExistError': None
+    }
+
+    metadata_people = {
+        'title' : None,
+        'born' : None,
+        'ka' : None,
+        'died' : None,
+        'gender' : None,
+        'pronouns' : None,
+        'ancestry' : None,
+        'species' : None,
+        'affiliations' : [],
+        'family' : None,
+        'whereabouts' : [],
+        'lastSeenByParty' : []
+    }
+
+    metadata_ruler = {
+        'reignStart' : None,
+        'reignEnd' : None
+    }
+
+    metadata_pc = {
+        'player' : None,
+        'ddbLink' : None
+    }
+
+    metadata_place = {
+        'created' : None,
+        'destroyed' : None,
+        'location' : None,
+        'population' : None,
+        'politicalUnit' : None
+    }
+
+    metadata_item = {
+        'created' : None,
+        'destroyed' : None,
+        'magical' : None,
+        'maker' : None,
+        'owner' : None,
+        'ddbLink' : None
+    }
+
+    metadata_building = {
+        'created' : None,
+        'destroyed' : None,
+        'owner' : None,
+        'place' : None
+    }
+
+    metadata_dates = {
+        'DR' : None,
+        'DR_end' : None,
+        'fc-date' : None,
+        'fc-end' : None,
+        'fc-display-name' : None
+    }
+
+    metadata_session = {
+        'sessionNumber' : None,
+        'realWorldDate' : None,
+        'players' : [],
+        'campaign' : None
+    }
+
+    metadata_other = {
+        'speciesDescriptor' : None,
+        'cultureDescriptor' : None
+    }
+
+    metadata_organization = {
+        'created' : None,
+        'destroyed' : None
+    }
+
+    # construct metadata by type
+
+    # ["Ruler", "PC", "NPC", "Item", "Place", "Building", "Event", "Organization", "Session Note"]
+    if type in valid_types:
+        if type == "Ruler":
+            metadata = {**metadata_core, **metadata_people, **metadata_ruler}
+        elif type=="PC":
+            metadata = {**metadata_core, **metadata_people, **metadata_pc}
+        elif type=="NPC":
+            metadata = {**metadata_core, **metadata_people}
+        elif type=="Item":
+            metadata = {**metadata_core, **metadata_item}
+        elif type=="Place":
+            metadata = {**metadata_core, **metadata_place}
+        elif type=="Building":
+            metadata = {**metadata_core, **metadata_building}
+        elif type=="Event":
+            metadata = {**metadata_core, **metadata_dates}
+        elif type=="Organization":
+            metadata = {**metadata_core, **metadata_organization}
+        elif type=="Session Note":
+            metadata = {**metadata_core, **metadata_session, **metadata_dates}
+    else:
+        metadata = {**metadata_core, **metadata_other}
+    
+    ## sets default values for metadata fields based on type
+
+    if type in valid_types:
+        if type == "Ruler" or type == "PC" or type == "NPC":
+            metadata["endStatus"] = "died"
+            metadata["endPrefix"] = "d."
+            metadata["startStatus"] = "born"
+            metadata["startPrefix"] = "b."
+            metadata["preExistError"] = "**(not yet born)**"
+        elif type=="Organization":
+            metadata["endStatus"] = "disbanded"
+            metadata["endPrefix"] = "d."
+            metadata["startStatus"] = "founded"
+            metadata["startPrefix"] = "f."
+            metadata["preExistError"] = "**(not yet founded)**"
+        elif type=="Item":
+            metadata["endStatus"] = "destroyed"
+            metadata["endPrefix"] = "d."
+            metadata["startStatus"] = "created"
+            metadata["startPrefix"] = "c."
+            metadata["preExistError"] = "**(not yet created)**"
+        elif type=="Place":
+            metadata["endStatus"] = "destroyed"
+            metadata["endPrefix"] = "d."
+            metadata["startStatus"] = "founded"
+            metadata["startPrefix"] = "f."
+            metadata["preExistError"] = "**(not yet created)**"
+        elif type=="Building":
+            metadata["endStatus"] = "destroyed"
+            metadata["endPrefix"] = "d."
+            metadata["startStatus"] = "built"
+            metadata["startPrefix"] = "b."
+            metadata["preExistError"] = "**(not yet created)**"
+        elif type=="Event":
+            metadata["endStatus"] = "ended"
+            metadata["endPrefix"] = ""
+            metadata["startStatus"] = "started"
+            metadata["startPrefix"] = ""
+            metadata["preExistError"] = "**(has not happened)**"
+        elif type=="Session Note":
+            metadata["endStatus"] = "ended"
+            metadata["endPrefix"] = ""
+            metadata["startStatus"] = "started"
+            metadata["startPrefix"] = ""
+            metadata["preExistError"] = "**(has not happened)**"
+    else:
+            metadata["endStatus"] = "ended"
+            metadata["endPrefix"] = ""
+            metadata["startStatus"] = "started"
+            metadata["startPrefix"] = ""
+            metadata["preExistError"] = "**(doesn't exist)**"
+    
+    # return blank metadata
+
+    return metadata
+
+def guess_type(file):
+    # NOT IMPLEMENTED
+    return None
+
+def update_metadata(metadata, guess_type=False):
+
+    # takes as input an metadata dictionary, and returns an updated metadata dictionary according to the speck
+    # if guess_type is true, attempts to guess the type based on path
+
+    type = metadata["type"] if "type" in metadata else None
+
+    if guess_type and type is None:
+        type = guess_type(metadata["file"])
+    
+    type = "" if type is None else type
+    
+    metadata_default = define_metadata(type)
+
+    # for each key in metadata_default, check to see if key exists in metadata. if yes, take value. else, use default or leave blank
+
+    metadata_fixed = dict()
+
+    for key in metadata_default:
+        if key in metadata:
+            metadata_fixed[key] = metadata[key]
+        else:
+            metadata_fixed[key] = metadata_default[key]
+    
+    # special cleanup for whereabouts
+
+    ## if we have old home, origin, location tags, convert those to whereabouts; location tags get current date
+    ## if we have whereabouts, check each entry and fix up, but return in same order
+
+    ## procedure is: first check for whereabouts in fixed, and clean up
+    ## then add additional whereabouts lines as needed from home, origin, location, tags
+    
+    if "whereabouts" in metadata_fixed:
+        #we have whereabouts
+        #get born date to remove from start if needed
+        born = clean_date(metadata_fixed["born"]) if "born" in metadata_fixed else None
+        metadata_fixed["whereabouts"] = clean_whereabouts(metadata_fixed["whereabouts"],born)
+    
+    if ("origin" in metadata and metadata["origin"]) or ("originRegion" in metadata and metadata["originRegion"]): 
+        place = metadata["origin"] if "origin" in metadata else None
+        region = metadata["originRegion"] if "originRegion" in metadata else None
+        new_home = {'type': "home", 'start': "", 'end': "", 'location': loc_join([place,region])}
+        metadata_fixed["whereabouts"].append(new_home)
+
+    if ("home" in metadata and metadata["home"]) or ("homeRegion" in metadata and metadata["homeRegion"]): 
+        place = metadata["home"] if "home" in metadata else None
+        region = metadata["homeRegion"] if "homeRegion" in metadata else None
+        new_home = {'type': "home", 'start': "", 'end': "", 'location': loc_join([place,region])}
+        metadata_fixed["whereabouts"].append(new_home)
+    
+    if ("location" in metadata and metadata["location"]) or ("locationRegion" in metadata and metadata["locationRegion"]): 
+        place = metadata["location"] if "location" in metadata else None
+        region = metadata["locationRegion"] if "locationRegion" in metadata else None
+        date=display_date(get_current_date(metadata))
+        new_loc = {'type': "away", 'start': date, 'end': "", 'location': loc_join([place,region])}
+        metadata_fixed["whereabouts"].append(new_loc)
+
+    ## update obselete tags
+
+    # yearOverride - replaced by pageTargetDate
+
+    metadata_fixed["pageTargetDate"] = metadata["yearOverride"] if "yearOverride" in metadata else metadata_fixed["pageTargetDate"]
+    
+    # campaign - replaced by affiliations
+    if type=="PC" and "campaign" in metadata:
+        metadata_fixed["affiliations"].append(metadata["campaign"])
+    
+    # home, homeRegion, location, locationRegion, origin, originRegion - replaced by whereabouts, seea bove
+
+    # realDate: replaced with realWorldDate
+    if "realWorldDate" in metadata_fixed:
+        metadata_fixed["realWorldDate"] = metadata["realDate"] if "realDate" in metadata else metadata_fixed["realWorldDate"]
+    
+    # taelgar-date: replaced with DR
+    # taelgar-date-end: replaced with DR_end
+    # DR-end replaced with DR_end
+
+    if "DR" in metadata_fixed:
+        metadata_fixed["DR"] = metadata["taelgar-date"] if "taelgar-date" in metadata else metadata_fixed["DR"]
+    if "DR_end" in metadata_fixed:
+        metadata_fixed["DR_end"] = metadata["taelgar-date-end"] if "taelgar-date-end" in metadata else metadata_fixed["DR_end"]
+        metadata_fixed["DR_end"] = metadata["DR-end"] if "DR-end" in metadata else metadata_fixed["DR_end"]
+
+    # currentOwner: replaced with owner
+
+    if "owner" in metadata_fixed:
+        metadata_fixed["owner"] = metadata["currentOwner"] if "currentOwner" in metadata else metadata_fixed["owner"]
+    
+    # dbbLink: replace with ddbLink (d d beyond link)
+    if "ddbLink" in metadata_fixed:
+        metadata_fixed["ddbLink"] = metadata["dbbLink"] if "dbbLink" in metadata else metadata_fixed["ddbLink"]
+
+    # tag: typo for tags; replace with tags
+    if "tag" in metadata:
+        metadata_fixed["tags"].append(metadata["tag"])
+
+    if "created" in metadata_fixed:
+        metadata_fixed["created"] = metadata["built"] if "built" in metadata else metadata_fixed["created"]
+
+    return(metadata_fixed)
+
+def clean_whereabouts(whereabouts, born):
+
+    whereabouts_clean = []
+
+    for loc in whereabouts:
+        if "start" in loc:
+            start = loc["start"]
+        elif "date" in loc:
+            start = loc["date"]
+        else:
+            start = ""
+
+        if "end" in loc:
+            end = loc["end"]
+        else:
+            end = ""
+        
+        if "location" in loc:
+            location = loc["location"]
+        elif "place" in loc or "region" in loc:
+            place = loc["place"] if "place" in loc else None
+            region = loc["region"] if "region" in loc else None
+            location = loc_join([place, region])
+        else:
+            location = ""
+        
+        if "type" in loc:
+            type = loc["type"]
+            if type == "home" or type == "origin":
+                type = "home"
+            else:
+                type = "away"
+        else:
+            type = "away"
+    
+        #check start date
+        if display_date(clean_date(start),full=True) == display_date(clean_date(born),full=True):
+            start = ""
+
+        new_loc = {"type": type, "start": start, "end": end, "location": location}
+        whereabouts_clean.append(new_loc)
+
+    return whereabouts_clean
