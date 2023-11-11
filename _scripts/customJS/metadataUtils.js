@@ -19,7 +19,8 @@ class metadataUtils {
 
         let jsDate = new Date(1, 0, 0, 0, 0, 0, 0);
 
-        if (inputDate== undefined) return undefined;
+        if (inputDate == undefined) return undefined;
+        if (inputDate == "") return undefined;
 
         switch (typeof (inputDate)) {
             case "number":
@@ -145,7 +146,24 @@ class metadataUtils {
         let end = this.parse_date_to_events_date(whereaboutItem.end, true);
         let logicalEnd = end ?? start;
         let jsDateMin = new Date(0)
-        
+
+        if (!whereaboutItem.location) {
+           let locToUse = undefined;
+           if (whereaboutItem.place) {
+            locToUse = whereaboutItem.place;
+           }
+           if (whereaboutItem.region) {
+             if (locToUse) {
+                locToUse = locToUse + "," + whereaboutItem.region;
+             }
+             else {
+                locToUse = whereaboutItem.region;
+             }
+           }
+
+           whereaboutItem.location = locToUse;
+        }
+
 
         return {
             item: whereaboutItem,
@@ -176,7 +194,7 @@ class metadataUtils {
             return home;
         }
 
-        return { location: undefined, type: "away"  }
+        return { location: undefined, type: "away" }
     }
 
     get_lastKnownWhereabouts(metadata, targetDate) {
@@ -217,7 +235,7 @@ class metadataUtils {
 
             if (startA && startB)
                 return startA.jsDate - startB.jsDate;
-            
+
             if (startA)
                 return 1;
             if (startB)
@@ -235,7 +253,7 @@ class metadataUtils {
                 return 1;
 
             // should be unreachable
-            return 0;    
+            return 0;
         }
 
         let allowedWhereabouts = metadata.whereabouts.map((f, index) => [index, this.parseWhereabouts_to_datedWhereabouts(f)]).filter(f => f[1].type == "home"
