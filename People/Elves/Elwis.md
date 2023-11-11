@@ -17,31 +17,26 @@ lastSeenByParty:
   - date: 1749-01-02
     prefix: DuFr
 whereabouts:
-  - date: 1634-01-01
-    place: Orenlas
-    region: ""
-    type: origin
-  - date: 1634-01-01
+  - start: 1634-01-01
     place: Orenlas
     region: ""
     type: home
-  - date: 1744-01-01
+  - start: 1744-01-01
+    end: 1748-08-28
     place: Green Sea
     region: ""
-    type: excursion
-  - date: 1748-08-29
+    type: away
+  - start: 1748-08-29
     place: Tollen
     region: ""
-    type: excursion
+    type: away
 ---
 # Elwis
 >[!info]+ Biographical Summary
->elf, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]]
->> Based in: [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at January 2nd, 1749: [[Tollen]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Elves|elf]], she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka 37]])
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Elwis is a female elf from Orenlas. 
 

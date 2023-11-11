@@ -6,9 +6,10 @@ import sys
 from pathlib import Path
 from metadataUtils import *
 import importlib.util
+import shutil
 
 ## import dview_functions.py as module
-dview_file_name = "dview_functions.py"
+dview_file_name = "dview_functions"
 dview_functions = importlib.import_module(dview_file_name)
 
 def is_function(module, attribute):
@@ -45,11 +46,19 @@ def process_string(s, metadata):
     pattern = "\`\$\=dv\.view\((.*)\)\`"
     return re.sub(pattern, callback, s)
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--date', required=False)
-parser.add_argument('--dir', required=True)
-parser.add_argument('--campaign', required=False)
-parser.add_argument('--configDir', required=True)
+parser = argparse.ArgumentParser(
+    prog='convert_markdown.py',
+    formatter_class=argparse.ArgumentDefaultsHelpFormatter)
+parser.add_argument('-c', '--config', required=True, help="Path to config directory (required)")
+parser.add_argument('-d', '--dir', required=True, help="Path to directory containing markdown files (required)")
+parser.add_argument('--campaign', required=False, help="Campaign prefix (optional)")
+parser.add_argument('--date', required=False, help="Target date in YYYY or YYYY-MM-DD format (optional, overrides current date in config file)")
+parser.add_argument('--dview', required=False, default=False,  action='store_true', help="Replace dv.view() calls with dview_functions.py calls (optional)")
+parser.add_argument('--yaml', required=False, default=False,  action='store_true', help="*NOT IMPLEMENTED* Check yaml against metadata spec and clean up (optional)")
+parser.add_argument('--filter', required=False, default=False,  action='store_true', help="Filter out text based on campaign and date information (optional)")
+parser.add_argument('--filter2', required=False, default=False, action='store_true', help="*NOT IMPLEMENTED* Remove pages that don't exist yet (optional)")
+parser.add_argument('-b', '--backup', required=False, help="Create backup files in the specified directory (optional)")
+
 args = parser.parse_args()
 
 # Get the date, campaign, and directory name from the command line arguments
@@ -58,6 +67,18 @@ input_campaign = args.campaign
 md_file_list = get_md_files(dir_name)
 links = get_links_dict(md_file_list)
 override_year = clean_date(args.date) if args.date else None
+filter_text = args.filter
+clean_yaml = args.yaml
+replace_dview = args.dview
+create_backup = args.backup if args.backup else None
+
+if create_backup:
+    # Create backup directory if it doesn't exist
+    if not os.path.exists(create_backup):
+        os.makedirs(create_backup)
+
+    # Copy all files to backup directory
+    shutil.copytree(dir_name, create_backup, dirs_exist_ok=True)
 
 for file_name in md_file_list:
     # Open the input file
@@ -85,9 +106,10 @@ for file_name in md_file_list:
 
     metadata["campaign"] = input_campaign
     metadata["override_year"] = override_year
-    metadata["directory"] = args.configDir
+    metadata["directory"] = args.config
     metadata["links"] = links
     metadata["file"] = file_name
+    current_date = get_current_date(metadata)
 
     #Process the rest of the file with access to the metadata information
     filter_start = False
@@ -109,7 +131,8 @@ for file_name in md_file_list:
             if match:
                 if match.group(2) == "Date":
                     # we have a date filter
-                    filter_block = True if int(metadata["curYear"]) < int(match.group(3)) else filter_block
+                    filter_date = clean_date(match.group(3))
+                    filter_block = True if current_date < filter_date else filter_block
                 elif match.group(2) == "Campaign":
                     # we have a campaign filter
                     filter_block = True if metadata["campaign"] != match.group(3) else filter_block
@@ -120,9 +143,13 @@ for file_name in md_file_list:
             else:
                 print("In file " + file_name + ", couldn't parse filter at line: " + line, end="", file=sys.stderr)
         
-        if not filter_block:
-            # if filter block is False, we should print the line
-            newline = process_string(line,metadata,file_name,links)
+        if (filter_text and not filter_block) or (not filter_text):
+            # if filter text is true, print line only if filter block is false
+            # if filter text is false, print line
+            if replace_dview:
+                newline = process_string(line,metadata)
+            else:
+                newline=line
             newlines.append(newline)
         
         # now need to check filter_end and reset filter_block if we are at the end
