@@ -15,10 +15,20 @@ function get_Whereabouts(metadata) {
         if (existYear && pageYear.sort < existYear.sort) return "";
         if (endYear && pageYear.sort > endYear.sort) return "";
 
-        let validWhereabouts = [];
-        let homeWhereabouts;
+        let exactWhereabouts = metadataUtils.get_exactWhereabouts(metadata, pageYear)
+        let lastKnownWhereabouts = metadataUtils.get_lastKnownWhereabouts(metadata, pageYear)
+        let homeWhereabouts = metadataUtils.get_homeWhereabouts(metadata, pageYear)
 
-        for (w of metadata.whereabouts) {
+        let currentWhereabouts = undefined;
+        let outputCurrent = false;  
+
+        if (exactWhereabouts) {
+            currentWhereabouts = exactWhereabouts;
+            outputCurrent = true;
+        }
+    
+        let validWhereabouts = [];
+          for (w of metadata.whereabouts) {
             if (w.date == undefined) {
                 if (w.type == "home") homeWhereabouts = w;
                 continue;
