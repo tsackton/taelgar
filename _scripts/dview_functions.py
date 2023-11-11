@@ -125,7 +125,7 @@ def get_HomeWhereabouts(metadata):
         return ""
     
     # calculate known whereabouts
-    locations = parse_whereabouts(metadata)
+    locations = parse_whereabouts(metadata, debug=False)
     # It outputs between 1 and 2 lines.
     # Line 1: If the origin output flag is true: "Originally from: (origin)"
     # Line 2: If the home output flag is true, and the page exists flag is true: "Based in: (home)"
@@ -156,7 +156,7 @@ def get_CurrentWhereabouts(metadata):
         return ""
     
      # calculate known whereabouts
-    locations = parse_whereabouts(metadata)
+    locations = parse_whereabouts(metadata, debug=False)
 
     output_string = []
 
@@ -168,6 +168,6 @@ def get_CurrentWhereabouts(metadata):
     if locations["last"]["output"]:
         output_string.append(f"Last known location (as of {display_date(locations['last']['date'])}): {parse_loc_string(locations['last']['value'],metadata)}")
     if locations["current"]["output"] and pageExists:
-        output_string.append(f"Current location (as of {display_date(currentDate)}): {parse_loc_string(locations['exact']['value'],metadata)}")
+        output_string.append(f"Current location (as of {display_date(currentDate)}): {parse_loc_string(locations['current']['value'],metadata)}")
 
     return "\n".join(output_string) 
