@@ -51,6 +51,7 @@ parser = argparse.ArgumentParser(
     formatter_class=argparse.ArgumentDefaultsHelpFormatter)
 parser.add_argument('-c', '--config', required=True, help="Path to config directory (required)")
 parser.add_argument('-d', '--dir', required=True, help="Path to directory containing markdown files (required)")
+parser.add_argument('-o', '--output', required=False, help="Path to output directory (optional, default is to overrite input files)")
 parser.add_argument('--campaign', required=False, help="Campaign prefix (optional)")
 parser.add_argument('--date', required=False, help="Target date in YYYY or YYYY-MM-DD format (optional, overrides current date in config file)")
 parser.add_argument('--dview', required=False, default=False,  action='store_true', help="Replace dv.view() calls with dview_functions.py calls (optional)")
@@ -63,9 +64,8 @@ args = parser.parse_args()
 
 # Get the date, campaign, and directory name from the command line arguments
 dir_name = args.dir
+output_dir = args.output if args.output else None
 input_campaign = args.campaign
-md_file_list = get_md_files(dir_name)
-links = get_links_dict(md_file_list)
 override_year = clean_date(args.date) if args.date else None
 filter_text = args.filter
 clean_yaml = args.yaml
@@ -79,6 +79,19 @@ if create_backup:
 
     # Copy all files to backup directory
     shutil.copytree(dir_name, create_backup, dirs_exist_ok=True)
+
+if output_dir:
+    # Create backup directory if it doesn't exist
+    if not os.path.exists(output_dir):
+        os.makedirs(output_dir)
+
+    # Copy all files to backup directory
+    shutil.copytree(dir_name, output_dir, dirs_exist_ok=True)
+    md_file_list = get_md_files(output_dir)
+else:
+    md_file_list = get_md_files(dir_name)
+
+links = get_links_dict(md_file_list)
 
 for file_name in md_file_list:
     # Open the input file
