@@ -19,6 +19,8 @@ class metadataUtils {
 
         let jsDate = new Date(1, 0, 0, 0, 0, 0, 0);
 
+        if (inputDate== undefined) return undefined;
+
         switch (typeof (inputDate)) {
             case "number":
                 // this is a bare year           
@@ -72,7 +74,6 @@ class metadataUtils {
         console.log("Error - unable to parse input date: " + inputDate)
         return undefined;
     }
-
 
     get_Location(place) {
         function get_LocationFromPieces(singleLoc) {
@@ -143,9 +144,12 @@ class metadataUtils {
         let start = this.parse_date_to_events_date(whereaboutItem.start, false);
         let end = this.parse_date_to_events_date(whereaboutItem.end, true);
         let logicalEnd = end ?? start;
+        let jsDateMin = new Date(0)
+        
 
         return {
             item: whereaboutItem,
+            normalizedStart: start ? start.jsDate : jsDateMin,
             startDate: start,
             endDate: end,
             logicalEnd: logicalEnd,
@@ -176,9 +180,19 @@ class metadataUtils {
     }
 
     get_lastKnownWhereabouts(metadata, targetDate) {
+        function filter_lastKnown(f) {
+            if (f.type == "away") {
+                return (f.startDate != undefined && f.startDate.sort <= targetDate.sort)
+            }
+            else if (f.type == "home") {
+                if (f.endDate) return f.endDate.sort < targetDate.sort;
+            }
+
+            return false;
+        }
         let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f))
-            .filter(f => f.type == "away" && (f.startDate != undefined && f.startDate.sort <= targetDate.sort))
-            .toSorted((a, b) => b.startDate.jsDate = a.startDate.jsDate);
+            .filter(filter_lastKnown)
+            .toSorted((a, b) => a.normalizedStart.jsDate - b.normalizedStart.jsDate);
 
         if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
         return undefined;
@@ -193,24 +207,47 @@ class metadataUtils {
 
     get_homeWhereabouts(metadata, targetDate) {
         function sort_date(a, b) {
-            if (a.startDate == undefined && a.endDate == undefined && a.endDate == undefined && b.endDate == undefined) return 0;
-            if (a.startDate == undefined && a.endDate != undefined && a.endDate == undefined && b.endDate == undefined) return -1;
-            if (a.startDate == undefined && a.endDate == undefined && a.endDate == undefined && b.endDate != undefined) return 1;
+            let indexA = a[0];
+            let indexB = b[0];
 
-            if (b.startDate == undefined) return -1;
-            return a.startDate.jsDate - b.startDate.jsDate;
+            let startA = a[1].startDate;
+            let startB = b[1].startDate;
+            let endA = a[1].endDate;
+            let endB = b[1].endDate;
+
+            if (startA && startB)
+                return startA.jsDate - startB.jsDate;
+            
+            if (startA)
+                return 1;
+            if (startB)
+                return -1;
+
+            if (!endA && !endB)
+                return indexB - indexA;
+
+            if (endA && endB)
+                return endB.jsDate - endA.jsDate;
+
+            if (endA)
+                return -1;
+            if (endB)
+                return 1;
+
+            // should be unreachable
+            return 0;    
         }
 
-        let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f)).filter(f => f.type == "home"
-            && (f.startDate == undefined || f.startDate.sort <= targetDate.sort)
-            && (f.endDate == undefined || (f.endDate && f.endDate.sort >= targetDate.sort)))
+        let allowedWhereabouts = metadata.whereabouts.map((f, index) => [index, this.parseWhereabouts_to_datedWhereabouts(f)]).filter(f => f[1].type == "home"
+            && (f[1].startDate == undefined || f[1].startDate.sort <= targetDate.sort)
+            && (f[1].endDate == undefined || (f[1].endDate && f[1].endDate.sort >= targetDate.sort)))
             .toSorted(sort_date)
 
         let hasOtherHomes = metadata.whereabouts.filter(f => f.type == "home").length > 1;
 
         if (allowedWhereabouts.length == 0) return undefined;
 
-        let homePoss = allowedWhereabouts.first();
+        let homePoss = allowedWhereabouts.first()[1];
 
         if (hasOtherHomes && allowedWhereabouts.length == 1 && !homePoss.startDate && !homePoss.endDate)
             return undefined;
