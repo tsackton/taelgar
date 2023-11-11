@@ -1,18 +1,33 @@
 ---
 type: NPC
 name: Sabine de Brune
-species: human
-ancestry: Sembaran
-gender: female
-born: 1662
-died: 
-title:
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/unaware, NPC/Clee/aware, NPC/Clee/minor]
+tags:
+- NPC/DuFr/unaware
+- NPC/Clee/aware
+- NPC/Clee/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1662
+died:
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: , place: "Valit", region: Sembara, type: home}     
+- type: home
+  start: null
+  end: ''
+  location: Valit, Sembara
+lastSeenByParty: []
 ---
 # Sabine de Brune
 >[!info]+ Biographical Summary

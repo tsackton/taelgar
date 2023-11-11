@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Ikram
-species: human
-ancestry: Dunmari
-gender: male
-born: 1710
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
+born: 1710
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: 1710-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: 1710-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Ikram
 >[!info]+ Biographical Summary

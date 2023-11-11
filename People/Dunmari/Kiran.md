@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Kiran
-species: human
-ancestry: Dunmari
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: , place: "plains north of Tokra", region: Central Dunmar, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: plains north of Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Kiran
 >[!info]+ Biographical Summary

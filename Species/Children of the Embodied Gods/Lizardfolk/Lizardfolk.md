@@ -1,5 +1,6 @@
 ---
-aliases: [lizardfolk]
+aliases:
+- lizardfolk
 speciesDescriptor: lizardfolk
 ---
 # Lizardfolk

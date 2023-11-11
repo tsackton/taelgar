@@ -1,9 +1,23 @@
 ---
 type: Item
+name:
+pronouciation:
+aliases: []
 tags:
-  - Item/unsorted
-  - event-source
+- Item/unsorted
+- event-source
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: created
+startPrefix: c.
+preExistError: '**(not yet created)**'
+created:
+destroyed:
+magical:
 maker:
+owner:
+ddbLink:
 ---
 # The Chalice of the Runepriest
 

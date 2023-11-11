@@ -1,17 +1,38 @@
 ---
 type: PC
-species:
-born:
-ancestry:
-gender:
-died:
-origin:
-originRegion:
-affiliations:
-player:
-campaign:
 name: Willow Wind
-tags: [PC/GreatWar, stub, PC/Companion]
+pronouciation:
+aliases: []
+tags:
+- PC/GreatWar
+- stub
+- PC/Companion
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry:
+species:
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player:
+ddbLink:
 ---
 ### Willow Wind
 

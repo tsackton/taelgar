@@ -1,18 +1,33 @@
 ---
 type: NPC
 name: Aram
-species: human
-ancestry: Dunmari
-gender: male
-born: 1717
-died: 
-affiliations: ["Havdar's Warband"]
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
+born: 1717
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations:
+- Havdar's Warband
 family:
 whereabouts:
-     - { date: 1748-11-15, place: "Sura's army camp", region: Central Dunmar, type: excursion }
+- type: away
+  start: 1748-11-15
+  end: ''
+  location: Sura's army camp, Central Dunmar
+lastSeenByParty: []
 ---
 # Aram
 >[!info]+ Biographical Summary

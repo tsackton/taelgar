@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Magran Boulderbeard
-species: dwarf
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-yearOverride: 
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
 family:
 whereabouts:
-     - { date: , place: "Tharn Todor", region: Nardith, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Tharn Todor, Nardith
+lastSeenByParty: []
 ---
 # Magran Boulderbeard
 >[!info]+ Biographical Summary

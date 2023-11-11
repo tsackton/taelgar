@@ -1,5 +1,20 @@
 ---
 type: Place
+name:
+pronouciation:
+aliases: []
+tags: []
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: founded
+startPrefix: f.
+preExistError: '**(not yet created)**'
+created:
+destroyed:
+location:
+population:
+politicalUnit:
 ---
 
 # The Crimson Forest

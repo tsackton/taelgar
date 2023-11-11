@@ -1,18 +1,32 @@
 ---
 type: NPC
 name: Conrad
-species: human
-ancestry: Sembaran
-gender: male
-born: 1699
-died: 
-title:
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1699
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-   - { place: "Cleenseau", region: Sembara, type: home}
+- type: home
+  start: ''
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Conrad
 >[!info]+ Biographical Summary

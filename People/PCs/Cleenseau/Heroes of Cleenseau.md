@@ -1,6 +1,18 @@
 ---
-tags: [organization/party]
 type: Organization
+name:
+pronouciation:
+aliases: []
+tags:
+- organization/party
+pageTargetDate:
+endStatus: disbanded
+endPrefix: d.
+startStatus: founded
+startPrefix: f.
+preExistError: '**(not yet founded)**'
+created:
+destroyed:
 ---
 A group of four fate-blown adventures who met in [[Taviose]] during the [[First Spider Attack on Tavoise]]. Since then, have become well-known in the region. 
 

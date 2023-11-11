@@ -1,19 +1,38 @@
 ---
 type: NPC
 name: Candrosa
-species: human
-ancestry: Dunmari
-gender: male
-born: 1715
-title:
-family:
-died: 
-affiliations: ["Shakun mystai"]
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met, stub]
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/met
+- stub
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1715
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations:
+- Shakun mystai
+family:
 whereabouts:
-     - { date: 1715-01-01, place: "Karawa", region: Eastern Dunmar, type: origin }
-     - { date: 1715-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Karawa, Eastern Dunmar
+- type: home
+  start: 1715-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Candrosa
 >[!info]+ Biographical Summary

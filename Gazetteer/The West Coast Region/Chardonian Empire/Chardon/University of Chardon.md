@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#event-source"
+- '#event-source'
 ---
 ### The University of Chardon
 

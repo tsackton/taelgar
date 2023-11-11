@@ -2,7 +2,7 @@
 DR: 1545
 DR-end: 1600
 tags:
-  - "#event-source"
+- '#event-source'
 ---
 # The Blood Years
 

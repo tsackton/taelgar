@@ -1,23 +1,38 @@
 ---
 type: NPC
 name: Aurelia
-species: centaur
-ancestry: 
-gender: female
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1703
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-lastSeenByParty: 
-  - { date: 1748-12-30, prefix: DuFr }
-whereabouts: 
-  - { date: 1703-01-01, place: "unknown", region: "", type: origin }
-  - { date: 1733-01-02, place: "Tollen", region: "Western Green Sea", type: home }
+died:
+gender: female
+pronouns:
+ancestry:
+species: centaur
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: unknown
+- type: home
+  start: 1733-01-02
+  end: ''
+  location: Tollen, Western Green Sea
+lastSeenByParty:
+- date: 1748-12-30
+  prefix: DuFr
 ---
 # Aurelia
 >[!info]+ Biographical Summary

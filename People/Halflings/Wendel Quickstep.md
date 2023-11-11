@@ -1,23 +1,38 @@
 ---
 type: NPC
 name: Wendel Quickstep
-species: halfling
-ancestry: 
-gender: male
-born: 1671
-died: 
-title: 
-family: Quickstep
-affiliations:
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty:
-  - {date: 1748-12-30, prefix: DuFr}
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1671
+died:
+gender: male
+pronouns:
+ancestry:
+species: halfling
+affiliations: []
+family: Quickstep
 whereabouts:
-  - {date: 1671-01-01, place: "Tollen", region: "Western Green Sea", type: origin}
-  - {date: 1671-01-02, place: "Tollen", region: "Western Green Sea", type: home}
+- type: home
+  start: ''
+  end: ''
+  location: Tollen, Western Green Sea
+- type: home
+  start: 1671-01-02
+  end: ''
+  location: Tollen, Western Green Sea
+lastSeenByParty:
+- date: 1748-12-30
+  prefix: DuFr
 ---
 # Wendel Quickstep
 >[!info]+ Biographical Summary

@@ -1,18 +1,33 @@
 ---
 type: NPC
 name: Beli
-species: human
-ancestry: Dunmari
-gender: female
-born: 1720
-died: 
-title:
-family:
-affiliations: ["Shakun mystai"]
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/background]
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1720
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations:
+- Shakun mystai
+family:
 whereabouts:
-     - { date: 1720-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: 1720-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Beli
 >[!info]+ Biographical Summary

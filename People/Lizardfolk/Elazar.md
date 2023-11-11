@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Elazar
-species: lizardfolk
-ancestry: 
-gender: male
-born: 1665
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1665
+died:
+gender: male
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations: []
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
 whereabouts:
-     - { date: 1665-01-02, place: "Bedez", region: Orekatu, type: home}
+- type: home
+  start: 1665-01-02
+  end: ''
+  location: Bedez, Orekatu
+lastSeenByParty: []
 ---
 # Elazar
 >[!info]+ Biographical Summary

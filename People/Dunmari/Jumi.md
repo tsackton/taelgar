@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Jumi
-species: human
-ancestry: Dunmari
-gender: female
-born: 1746
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1746
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
-yearOverride: 
 whereabouts:
-     - { date: 1746-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: 1746-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Jumi
 >[!info]+ Biographical Summary

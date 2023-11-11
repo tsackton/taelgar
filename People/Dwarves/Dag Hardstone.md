@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Dag Hardstone
-species: dwarf
-ancestry: 
-gender: male
-born: 1729
-died: 
-origin: { place: "Tokra", region: Central Dunmar }
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1729
+died:
+gender: male
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
 family: Hardstone
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Tokra
+lastSeenByParty: []
 ---
 # Dag Hardstone
 >[!info]+ Biographical Summary

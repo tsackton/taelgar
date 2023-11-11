@@ -1,21 +1,29 @@
 ---
 type: NPC
 name: Emperor Avatus
-species: human
-ancestry: 
+pronouciation:
+aliases:
+- Avatus
+tags:
+- NPC/historical
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: [Avatus]
-tags: [NPC/historical, NPC/DuFr/aware]
-yearOverride: 
+pronouns:
+ancestry:
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 
 ### Emperor Avatus

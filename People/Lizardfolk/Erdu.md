@@ -1,20 +1,36 @@
 ---
 type: NPC
 name: Erdu
-species: lizardfolk
-ancestry: 
-gender: male
-born: 1441
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
-yearOverride: 
+tags:
+- NPC/Clee/unaware
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1441
+died:
+gender: male
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations: []
+family:
 whereabouts:
-     - { date: 1441-01-02, place: "Ganboa", region: Semabara, type: home }
-     - { date: 1719-12-04, place: "Ganboa", region: Semabara, type: excursion }
+- type: home
+  start: 1441-01-02
+  end: ''
+  location: Ganboa, Semabara
+- type: away
+  start: 1719-12-04
+  end: ''
+  location: Ganboa, Semabara
+lastSeenByParty: []
 ---
 # Erdu
 >[!info]+ Biographical Summary

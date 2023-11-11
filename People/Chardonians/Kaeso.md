@@ -1,27 +1,63 @@
 ---
 type: NPC
 name: Kaeso
-species: human
-ancestry: Chardonian
-gender: male
-born: 1691
-died: 
-affiliations: ["Shakun Mystai"]
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-family:
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-lastSeenByParty: 
-- { date: 1748-10-23, prefix: DuFr }
+born: 1691
+died:
+gender: male
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations:
+- Shakun Mystai
+family:
 whereabouts:
- - { date: 1691-01-01, place: "Chardon", region: Chardonian Empire, type: origin }
- - { date: 1691-01-02, place: "Chardon", region: Chardonian Empire, type: home }
- - { date: 1713-01-01, place: "traveling", region: Dunmar, type: excursion}
- - { date: 1717-01-01, place: "Karawa", region: Eastern Dunmar, type: excursion}
- - { date: 1719-01-01, place: "traveling", region: "The Central Highlands Region", type: excursion}
- - { date: 1723-01-01, place: "Chardon", region: Chardonian Empire, type: home }
- - { date: 1748-09-10, place: "traveling", region: Chardonian Empire, type: excursion}
- - { date: 1748-10-12, place: "Hamri", region: "Mawakel Peninsula", type: excursion}
+- type: home
+  start: ''
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: home
+  start: 1691-01-02
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: away
+  start: 1713-01-01
+  end: ''
+  location: traveling, Dunmar
+- type: away
+  start: 1717-01-01
+  end: ''
+  location: Karawa, Eastern Dunmar
+- type: away
+  start: 1719-01-01
+  end: ''
+  location: traveling, The Central Highlands Region
+- type: home
+  start: 1723-01-01
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: away
+  start: 1748-09-10
+  end: ''
+  location: traveling, Chardonian Empire
+- type: away
+  start: 1748-10-12
+  end: ''
+  location: Hamri, Mawakel Peninsula
+lastSeenByParty:
+- date: 1748-10-23
+  prefix: DuFr
 ---
 # Kaeso
 >[!info]+ Biographical Summary

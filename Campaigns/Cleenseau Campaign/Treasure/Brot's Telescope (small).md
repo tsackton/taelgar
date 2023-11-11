@@ -1,14 +1,21 @@
 ---
 type: Item
-created: 1719
-destroyed: 
-owner: Izgil Moonseeker
-maker: Brot Starsearcher
-dbbLink:
-magical: false
-gpValue: 
 name: Brot's Telescope (small)
+pronouciation:
+aliases: []
 tags: []
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: created
+startPrefix: c.
+preExistError: '**(not yet created)**'
+created: 1719
+destroyed:
+magical: false
+maker: Brot Starsearcher
+owner: Izgil Moonseeker
+ddbLink:
 ---
 # Brot's Telescope (small)
 ### (mundane item)

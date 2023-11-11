@@ -1,17 +1,31 @@
 ---
 type: Ruler
-affiliations:
-reignStart:
-reignEnd:
 name: Reginald
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family:
+born: 1506
 died: 1550
 gender: male
+pronouns:
 ancestry: Sembaran
-born: 1506
 species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
+reignStart:
+reignEnd:
 ---
 # Reginald
 >[!info]+ Biographical Summary

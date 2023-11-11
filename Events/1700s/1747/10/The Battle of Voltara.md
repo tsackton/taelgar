@@ -1,7 +1,7 @@
 ---
 tags:
-  - event-source
-  - stub
+- event-source
+- stub
 ---
 
 # The Battle of Voltara

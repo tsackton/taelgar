@@ -1,17 +1,31 @@
 ---
 type: Ruler
-species: human
-born: 1488
-ancestry: Sembaran
-gender: female
-died: 1529
-family:
+name: Sarabet
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-affiliations:
+born: 1488
+died: 1529
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 reignStart:
 reignEnd:
-name: Sarabet
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Sarabet
 >[!info]+ Biographical Summary

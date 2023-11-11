@@ -1,18 +1,34 @@
 ---
 type: NPC
 name: Cintra
-species: human
-ancestry: Dunmari
-gender: female
-born: 1705
-died: 
-title:
-family:
-affiliations: ["Shakun mystai"]
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met, stub]
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/met
+- stub
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1705
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations:
+- Shakun mystai
+family:
 whereabouts:
-     - { date: 1705-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: 1705-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Cintra
 >[!info]+ Biographical Summary

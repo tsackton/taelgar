@@ -1,19 +1,33 @@
 ---
 type: NPC
 name: Nora Silverspark
-species: dwarf
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: 
-aliases: [Nora]
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
+pronouciation:
+aliases:
+- Nora
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
 family:
 whereabouts:
-     - { date: 1748-11-23, place: "deceased", region: unknown, type: excursion }
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: deceased, unknown
+lastSeenByParty: []
 ---
 # Nora Silverspark
 >[!info]+ Biographical Summary

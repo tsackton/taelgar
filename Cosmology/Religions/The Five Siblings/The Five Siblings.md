@@ -1,5 +1,7 @@
 ---
-aliases: [The Five Siblings of the Dunmari, Dunmari gods]
+aliases:
+- The Five Siblings of the Dunmari
+- Dunmari gods
 ---
 # The Five Siblings of the Dunmari
 

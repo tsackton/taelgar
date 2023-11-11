@@ -1,7 +1,12 @@
 ---
-aliases: [elf, elves, Elf, Elves]
+aliases:
+- elf
+- elves
+- Elf
+- Elves
 speciesDescriptor: elf
-tags: [stub]
+tags:
+- stub
 ---
 # Elves
 

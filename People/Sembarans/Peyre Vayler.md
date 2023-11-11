@@ -1,17 +1,32 @@
 ---
 type: NPC
-species: human
-born: 1655
-ancestry: Sembaran
-gender: male
-died:
-family:
-title:
-affiliations:
 name: Peyre Vayler
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/unaware
+- NPC/Clee/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1655
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
- - { type: home, place: "Evis", region: "Duchy of Maseau" }
+- type: home
+  start: ''
+  end: ''
+  location: Evis, Duchy of Maseau
+lastSeenByParty: []
 ---
 # Peyre Vayler
 >[!info]+ Biographical Summary

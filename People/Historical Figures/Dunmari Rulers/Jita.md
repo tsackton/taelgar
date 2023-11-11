@@ -1,30 +1,38 @@
 ---
 type: NPC
 name: Jita
-species: human
-ancestry: Dunmari
-gender: female
+pronouciation:
+aliases:
+- Samraat Jita
+tags:
+- NPC/DuFr/aware
+- NPC/historical
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Samraat Dharajun
 born: 1386
 died: 1460
-affiliations: 
-tags:
-  - NPC/DuFr/aware
-  - NPC/historical
-  - NPC/DuFr/background
-yearOverride: 
-title: Samraat Dharajun
-family: 
-aliases:
-  - Samraat Jita
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
 whereabouts:
-  - date: 1386-01-01
-    place: plains of Songara
-    region: Dunmar
-    type: origin
-  - date: 1405-01-01
-    place: Tokra
-    region: Dunmar
-    type: home
+- type: home
+  start: ''
+  end: ''
+  location: plains of Songara, Dunmar
+- type: home
+  start: 1405-01-01
+  end: ''
+  location: Tokra, Dunmar
+lastSeenByParty: []
 ---
 # Samraat Dharajun Jita
 >[!info]+ Biographical Summary

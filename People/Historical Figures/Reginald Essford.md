@@ -1,15 +1,27 @@
 ---
 type: NPC
-species: human
-born: 1619
-ancestry: Sembaran
-gender: male
-died: 1689
-family: Essford
-title: Lord
-affiliations:
 name: Reginald Essford
-tags: [NPC/unsorted]
+pronouciation:
+aliases: []
+tags:
+- NPC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Lord
+born: 1619
+died: 1689
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family: Essford
+whereabouts: []
+lastSeenByParty: []
 ---
 # Lord Reginald Essford
 >[!info]+ Biographical Summary

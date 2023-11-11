@@ -1,21 +1,41 @@
 ---
 type: NPC
 name: Viepuck
-species: human
-ancestry: 
-gender: male
-born: 1706
-died: 
-affiliations: 
-aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
+pronouciation:
+aliases:
+- Viepuck
+- Vala Xendra
+- Treph Hardpick
+- Sarlana Silversword
+- Najeer
+- Najeer Garay
+tags:
+- PC/Cleenseau
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1706
+died:
+gender: male
+pronouns:
+ancestry:
+species: human
+affiliations: []
 family:
-tags: [PC/Cleenseau]
-campaign: Cleenseau
-player: Chris Kelly
 whereabouts:
-     - { date: 1706-01-01, place: "Embry", region: Sembara, type: origin }
-     - { date: 1719-10-19, place: "Cleenseau", region: Sembara, type: excursion }
+- type: home
+  start: ''
+  end: ''
+  location: Embry, Sembara
+- type: away
+  start: 1719-10-19
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Viepuck
 >[!info]+ Biographical Summary

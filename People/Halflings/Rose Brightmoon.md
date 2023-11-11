@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Rose Brightmoon
-species: halfling
-ancestry: 
-gender: female
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
-yearOverride: 
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: halfling
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 ## Rose Brightmoon
 

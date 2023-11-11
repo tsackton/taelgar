@@ -1,23 +1,42 @@
 ---
 type: NPC
 name: Johar
-species: human
-ancestry: Dunmari
-gender: male
-born: 1721
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
-lastSeenByParty:
-     - { date: 1748-11-15, prefix: DuFr }
-yearOverride: 
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1721
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1721-01-02, place: "Tokra", region: Central Dunmar, type: home}
-     - { date: 1748-08-08, place: "Darba", region: Central Dunmar, type: excursion}
-     - { date: 1748-08-27, place: "Nayahar", region: Western Dunmar, type: excursion}
+- type: home
+  start: 1721-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+- type: away
+  start: 1748-08-08
+  end: ''
+  location: Darba, Central Dunmar
+- type: away
+  start: 1748-08-27
+  end: ''
+  location: Nayahar, Western Dunmar
+lastSeenByParty:
+- date: 1748-11-15
+  prefix: DuFr
 ---
 # Johar
 >[!info]+ Biographical Summary

@@ -1,17 +1,30 @@
 ---
 type: Ruler
-species: human
-born: 1564
-ancestry: Sembaran
-gender: female
-died: 1601
-family:
+name: Blanche II
+pronouciation:
+aliases: []
+tags:
+- NPC/historical
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-affiliations:
+born: 1564
+died: 1601
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 reignStart:
 reignEnd:
-name: Blanche II
-tags: [NPC/historical, NPC/DuFr/unaware]
 ---
 # Blanche II
 >[!info]+ Biographical Summary

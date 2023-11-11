@@ -4,7 +4,9 @@ fc-date: 1719-10-22
 fc-end: 1719-10-25
 fc-category: Cleenseau Campaign
 realDate: 2023-02-12
-tags: [session-note, cleenseau-campaign]
+tags:
+- session-note
+- cleenseau-campaign
 campaign: Cleenseau
 sessionNumber: 2
 name: Cleenseau - Session 02

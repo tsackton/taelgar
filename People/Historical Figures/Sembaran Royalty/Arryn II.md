@@ -1,17 +1,31 @@
 ---
 type: Ruler
-species: human
+name: Arryn II
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1601
-ancestry: Sembaran
-gender: male
 died: 1628
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
 family: House of Sewick
-affiliations:
+whereabouts: []
+lastSeenByParty: []
 reignStart: 1601
 reignEnd: 1628
-title:
-name: Arryn II
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Arryn II
 >[!info]+ Biographical Summary

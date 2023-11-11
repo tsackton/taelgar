@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Samerki
-species: giant
-ancestry: oni
-gender: male
-born: 
-died: 1748
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died: 1748
+gender: male
+pronouns:
+ancestry: oni
+species: giant
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 ### Samerki
 

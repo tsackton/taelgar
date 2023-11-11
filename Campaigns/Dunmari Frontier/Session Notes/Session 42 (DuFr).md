@@ -1,7 +1,7 @@
 ---
 tags:
-  - session-note
-  - dunmari-frontier-campaign
+- session-note
+- dunmari-frontier-campaign
 ---
 
 # Session 42

@@ -1,19 +1,33 @@
 ---
 type: NPC
 name: Kaleha
-species: human
-ancestry: Dunmari
-gender: female
-born: 1699
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+- stub
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1699
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met, stub]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-01, place: "Tokra", region: Central Dunmar, type: home }
+- type: home
+  start: 0001-01-01
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Kaleha
 >[!info]+ Biographical Summary

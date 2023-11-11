@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Izoko
-species: lizardfolk
-ancestry: 
-gender: male
-born: 1688
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
-yearOverride: 
+tags:
+- NPC/Clee/unaware
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1688
+died:
+gender: male
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations: []
+family:
 whereabouts:
-     - { date: 1688-01-02, place: "Ganboa", region: Semabara, type: home }  
+- type: home
+  start: 1688-01-02
+  end: ''
+  location: Ganboa, Semabara
+lastSeenByParty: []
 ---
 # Izoko
 >[!info]+ Biographical Summary

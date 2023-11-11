@@ -1,25 +1,33 @@
 ---
 type: NPC
 name: Orc in the Mirror
-species: orc
-ancestry: 
-gender: female
-born: 1662
-died: 
-affiliations:
-  - The People of the Rainbow
+pronouciation:
 aliases: []
 tags:
-  - NPC/DuFr/background
-  - NPC/DuFr/met
-title: 
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1662
+died:
+gender: female
+pronouns:
+ancestry:
+species: orc
+affiliations:
+- The People of the Rainbow
 family: []
-yearOverride: 
 whereabouts:
-  - date: 1662-01-01
-    place: Xurkhaz
-    region: unknown
-    type: origin
+- type: home
+  start: ''
+  end: ''
+  location: Xurkhaz, unknown
+lastSeenByParty: []
 ---
 # [[Orcs|Orc]] in the Mirror
 >[!info]+ Biographical Summary

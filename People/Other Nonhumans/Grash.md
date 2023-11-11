@@ -1,21 +1,40 @@
 ---
 type: NPC
 name: Grash
-species: undead
-ancestry: skeletal
-gender: male
-born: 
-died: 
-title:
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/aware]
-yearOverride: 
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: skeletal
+species: undead
+affiliations: []
+family:
 whereabouts:
-     - { date: , place: "unknown", region: unknown, type: origin }
-     - { date: , place: "unknown", region: unknown, type: home }
-     - { date: 1748-12-14, place: "Uzgukhar", region: Xurkhaz, type: excursion }
+- type: home
+  start: ''
+  end: ''
+  location: unknown, unknown
+- type: home
+  start: ''
+  end: ''
+  location: unknown, unknown
+- type: away
+  start: 1748-12-14
+  end: ''
+  location: Uzgukhar, Xurkhaz
+lastSeenByParty: []
 ---
 # Grash
 >[!info]+ Biographical Summary

@@ -1,17 +1,31 @@
 ---
 type: Ruler
-family: House of Wisenfold
 name: Hugh
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd:
-reignStart:
-affiliations:
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1509
 died: 1562
 gender: male
+pronouns:
 ancestry: Sembaran
-born: 1509
 species: human
+affiliations: []
+family: House of Wisenfold
+whereabouts: []
+lastSeenByParty: []
+reignStart:
+reignEnd:
 ---
 # Hugh
 >[!info]+ Biographical Summary

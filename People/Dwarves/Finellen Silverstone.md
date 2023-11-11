@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Finellen Silverstone
-species: dwarf
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Darba", region: Western Dunmar, type: home }
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Darba, Western Dunmar
+lastSeenByParty: []
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Summary

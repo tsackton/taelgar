@@ -1,13 +1,21 @@
 ---
 type: Item
+name: Lantern of the Bright Hearth
+pronouciation:
+aliases: []
+tags: []
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: created
+startPrefix: c.
+preExistError: '**(not yet created)**'
 created:
 destroyed:
-owner: Robin of Abenfyrd
-maker: 
-dbbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 magical: true
-name: Lantern of the Bright Hearth
-tags: []
+maker:
+owner: Robin of Abenfyrd
+ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 ---
 # Lantern of the Bright Hearth
 ### (magical item)

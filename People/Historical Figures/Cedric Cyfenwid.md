@@ -1,15 +1,28 @@
 ---
 type: NPC
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 name: Cedric Cyfenwid
-affiliations:
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family:
+born: 1598
 died: 1674
 gender: male
+pronouns:
 ancestry: Sembaran
-born: 1598
 species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Cedric Cyfenwid
 >[!info]+ Biographical Summary

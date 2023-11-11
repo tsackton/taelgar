@@ -3,7 +3,11 @@ type: Session Notes
 realWorldDate: 2021-11-27
 taelgar-date: 1747-10-23
 taelgar-date-end: 1747-10-28
-players: ["Ryu", "Nerissa", "Trok", "Kaleho"]
+players:
+- Ryu
+- Nerissa
+- Trok
+- Kaleho
 ---
 # Episode 3: The Tomb of Yerkir-khor
 *In which [[Kaleho]], [[Trok]], [[Nerissa]], and [[Ryu]] head inland to find a missing treasure hunter, and uncover the lost tomb of [[Yerkir-khor]] in the process*

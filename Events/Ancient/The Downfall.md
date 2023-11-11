@@ -1,5 +1,6 @@
 ---
-aliases: [Downfall]
+aliases:
+- Downfall
 ---
 
 ### The Downfall

@@ -1,5 +1,6 @@
 ---
-tags: [event-source]
+tags:
+- event-source
 DR: 1719-10-16
 ---
 ### Tragic Flood of the River Enst

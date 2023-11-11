@@ -1,19 +1,33 @@
 ---
 type: NPC
 name: Melusine
-species: fey
-ancestry: nymph
-gender: female
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/background
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry: nymph
+species: fey
+affiliations: []
 family:
-tags: [NPC/DuFr/met_one, NPC/DuFr/background, status/uptodate]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Amberglow", region: Feywild, type: home }
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Amberglow, Feywild
+lastSeenByParty: []
 ---
 # Melusine
 >[!info]+ Biographical Summary

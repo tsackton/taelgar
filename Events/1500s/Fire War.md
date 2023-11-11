@@ -1,10 +1,10 @@
 ---
 aliases:
-  - Mavdyr's War
+- Mavdyr's War
 DR: 1552-05-17
 DR-end: 1553-07-10
 tags:
-  - "#event-source"
+- '#event-source'
 ---
 
 # The Fire War

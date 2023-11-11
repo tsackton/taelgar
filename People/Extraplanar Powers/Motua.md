@@ -1,20 +1,36 @@
 ---
 type: NPC
 name: Motua
-species: divine
-ancestry: Gidari
-gender: nonbinary
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met_one
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: nonbinary
+pronouns:
+ancestry: Gidari
+species: divine
+affiliations: []
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-01, place: "", region: "Land of the Dead", type: origin }
-     - { date: 1748-11-23, place: "Azta Lekua", region: Orekatu, type: excursion }
+- type: home
+  start: 0001-01-01
+  end: ''
+  location: Land of the Dead
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: Azta Lekua, Orekatu
+lastSeenByParty: []
 ---
 # Motua
 >[!info]+ Biographical Summary

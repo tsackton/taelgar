@@ -1,5 +1,6 @@
 ---
-tag: [event-source]
+tag:
+- event-source
 DR: 1583
 ---
 

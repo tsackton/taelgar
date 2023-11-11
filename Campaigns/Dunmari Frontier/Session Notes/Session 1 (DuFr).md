@@ -1,6 +1,7 @@
 ---
-tags: [DuFr]
-sessionNumber:  1
+tags:
+- DuFr
+sessionNumber: 1
 realWorldDate: 05 29 2020
 sessionStartDate: 1748 03 22
 sessionStartTime: morning

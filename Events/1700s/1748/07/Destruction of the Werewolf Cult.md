@@ -1,7 +1,7 @@
 ---
 tags:
-  - event-source
-  - stub
+- event-source
+- stub
 DR: 1748-07-03
 ---
 # Destruction of the Werewolf Culf

@@ -1,7 +1,9 @@
 ---
-aliases: [human]
+aliases:
+- human
 speciesDescriptor: human
-tags: [stub]
+tags:
+- stub
 ---
 # Humans
 

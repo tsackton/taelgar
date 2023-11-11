@@ -1,18 +1,32 @@
 ---
 type: NPC
 name: Jonathon Henwyn
-species: human
-ancestry: Sembaran
-gender: male
-born: 1690
-died: 
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1690
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home }  
+- type: home
+  start: null
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Jonathon Henwyn
 >[!info]+ Biographical Summary

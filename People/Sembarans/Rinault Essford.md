@@ -1,18 +1,34 @@
 ---
 type: NPC
 name: Rinault Essford
+pronouciation:
+aliases:
+- Lord Rinault
+- Lord Rinault Essford
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title: Lord
-species: human
-ancestry: Sembaran
-gender: male
 born: 1688
-died: 
-affiliations: 
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
 family:
-aliases: [Lord Rinault, Lord Rinault Essford]
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: 1688-01-01, place: "Cleenseau", region: Sembara, type: home}
+- type: home
+  start: ''
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Summary

@@ -1,19 +1,36 @@
 ---
 type: PC
 name: Wellby
-species: halfling
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
+pronouciation:
 aliases: []
-tags: [PC/DunmarFrontier]
-campaign: "The Dunmar Fellowship"
-player: "David Schwartz"
-yearOverride: 
+tags:
+- PC/DunmarFrontier
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: halfling
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player: David Schwartz
+ddbLink:
 ---
 
 # Wellby

@@ -1,6 +1,11 @@
 ---
-tags: [stub]
-aliases: [hobgoblin, Hobgoblin, hobgoblins, Hobgoblins]
+tags:
+- stub
+aliases:
+- hobgoblin
+- Hobgoblin
+- hobgoblins
+- Hobgoblins
 speciesDescriptor: hobgoblin
 ---
 (stub)

@@ -1,6 +1,8 @@
 ---
-aliases: [Teft]
-tags: [stub]
+aliases:
+- Teft
+tags:
+- stub
 ---
 
 

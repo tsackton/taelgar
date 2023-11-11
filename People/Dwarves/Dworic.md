@@ -1,21 +1,40 @@
 ---
 type: NPC
 name: Dworic
-species: dwarf
-ancestry: 
-gender: male
-born: 1502
-died: 
-title:
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
-yearOverride: 
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1502
+died:
+gender: male
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
+family:
 whereabouts:
-     - { date: 1502-01-01, place: "", region: Ardith, type: origin }
-     - { date: 1575-09-19, place: "", region: Bleakhold, type: excursion }
-     - { date: 1748-08-25, place: "", region: Nardith, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Ardith
+- type: away
+  start: 1575-09-19
+  end: ''
+  location: Bleakhold
+- type: home
+  start: 1748-08-25
+  end: ''
+  location: Nardith
+lastSeenByParty: []
 ---
 # Dworic
 >[!info]+ Biographical Summary

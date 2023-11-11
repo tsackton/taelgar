@@ -1,17 +1,31 @@
 ---
 type: Ruler
-affiliations:
-reignStart:
-reignEnd:
 name: Elaine II
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family:
+born: 1673
 died: 1745
 gender: female
+pronouns:
 ancestry: Sembaran
-born: 1673
 species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
+reignStart:
+reignEnd:
 ---
 # Elaine II
 >[!info]+ Biographical Summary

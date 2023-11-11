@@ -1,24 +1,28 @@
 ---
 type: NPC
 name: Vestian
-title: Emperor
-species: human
-ancestry: 
-gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/historical, NPC/DuFr/unaware]
-yearOverride: 
-whereabouts:
+tags:
+- NPC/historical
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Emperor
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: human
+affiliations: []
 family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Emperor Vestian
 >[!info]+ Biographical Summary

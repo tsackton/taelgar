@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Tye Strongbones
-species: halfling
-gender: male
-ancestry: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family: Strongbones
-died:
 born:
-tags: [NPC/DuFr/met, NPC/DuFr/background]
-yearOverride: 
+died:
+gender: male
+pronouns:
+ancestry:
+species: halfling
+affiliations: []
+family: Strongbones
 whereabouts:
-     - { date: 0001-01-02, place: "Tokra", region: Central Dunmar, type: origin}
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Tye Strongbones
 >[!info]+ Biographical Summary

@@ -1,5 +1,6 @@
 ---
-aliases: [Aaviskar]
+aliases:
+- Aaviskar
 ---
 ### Yezali
 

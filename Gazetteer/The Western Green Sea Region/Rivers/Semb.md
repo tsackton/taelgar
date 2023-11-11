@@ -1,6 +1,8 @@
 ---
-aliases: [Semb]
-tags: [stub]
+aliases:
+- Semb
+tags:
+- stub
 ---
 
 

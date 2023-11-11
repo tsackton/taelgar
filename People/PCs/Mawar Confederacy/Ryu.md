@@ -1,17 +1,36 @@
 ---
 type: PC
-species: human
-born:
-ancestry: Mawaran
-gender: male
-died:
-origin:
-originRegion:
-affiliations:
-player: David Kong
-campaign: Mawar Confederacy
 name: Ryu
-tags: [PC/unsorted]
+pronouciation:
+aliases: []
+tags:
+- PC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: Mawaran
+species: human
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player: David Kong
+ddbLink:
 ---
 # Ryu
 

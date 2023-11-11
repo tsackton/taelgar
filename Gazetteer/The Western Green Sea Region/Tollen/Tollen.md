@@ -1,5 +1,6 @@
 ---
-aliases: [Tollen]
+aliases:
+- Tollen
 ---
 # The Free City of Tollen
 

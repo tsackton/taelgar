@@ -1,18 +1,32 @@
 ---
 type: NPC
 name: Badya
-species: human
-ancestry: Dunmari
-gender: female
-born: 1723
-died: 
-affiliations: 
-title:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1723
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: 1723-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- type: home
+  start: 1723-01-02
+  end: ''
+  location: Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Badya
 >[!info]+ Biographical Summary

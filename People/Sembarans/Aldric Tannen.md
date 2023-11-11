@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Aldric Tannen
-species: Human
-ancestry: Sembaran
-gender: male
+pronouciation:
+aliases: []
+tags: []
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1682-12-07
-died: 
-title: 
-family: 
-aliases: 
-lastSeenByParty: 
-  - { date: 1719-12-04, prefix: Clee }
-whereabouts: 
-  - { date: 1682-12-07, place: Cleenseau, region: Sembara, type: origin }
-  - { date: 1719-12-04, place: Tannen Smithy, region: Sembara, type: home }
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: Human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Cleenseau, Sembara
+- type: home
+  start: 1719-12-04
+  end: ''
+  location: Tannen Smithy, Sembara
+lastSeenByParty:
+- date: 1719-12-04
+  prefix: Clee
 ---
 # Aldric Tannen
 >[!info]+ Biographical Summary

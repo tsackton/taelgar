@@ -1,24 +1,39 @@
 ---
 type: NPC
 name: Illaran
-species: korred
-ancestry: 
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/minor
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
 gender: male
-born: 
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/met_one
-  - NPC/DuFr/minor
-  - status/uptodate
-lastSeenByParty: 
-  - { date: 1748-11-01, prefix: DuFr } 
-whereabouts: 
-  - { date: 0001-01-01, place: "Crystal Peak", region: "Feywild" , type: origin }
-  - { date: 0001-01-02, place: "Crystal Peak", region: "Feywild", type: home }
+pronouns:
+ancestry:
+species: korred
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: 0001-01-01
+  end: ''
+  location: Crystal Peak, Feywild
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Crystal Peak, Feywild
+lastSeenByParty:
+- date: 1748-11-01
+  prefix: DuFr
 ---
 # Illaran
 >[!info]+ Biographical Summary

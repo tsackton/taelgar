@@ -1,19 +1,36 @@
 ---
 type: PC
 name: Kenzo
-species: human
-ancestry: Dunmari
-gender: male
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
+pronouciation:
 aliases: []
-tags: [PC/DunmarFrontier]
-campaign: "The Dunmar Fellowship"
-player: "David Kong"
-yearOverride: 
+tags:
+- PC/DunmarFrontier
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player: David Kong
+ddbLink:
 ---
 ## Kenzo
 

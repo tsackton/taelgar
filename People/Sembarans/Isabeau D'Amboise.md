@@ -1,15 +1,27 @@
 ---
 type: NPC
-species: human
-born: 1672
-ancestry: Sembaran
-gender: female
-died:
-family:
-title: Baron
-affiliations:
 name: Isabeau D'Amboise
-tags: [NPC/unsorted]
+pronouciation:
+aliases: []
+tags:
+- NPC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: Baron
+born: 1672
+died:
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Baron Isabeau D'Amboise
 >[!info]+ Biographical Summary

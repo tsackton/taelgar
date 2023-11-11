@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Umber
-species: human
-ancestry: Dunmari
-gender: male
-born: 
-died: 1748
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died: 1748
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Umber
 >[!info]+ Biographical Summary

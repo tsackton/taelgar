@@ -1,20 +1,32 @@
 ---
 type: NPC
 name: Koldo
-species: lizardfolk
-ancestry: 
-family:
-gender: male
-born: 1512
-died: 
-affiliations: 
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/Clee/unaware
-  - NPC/DuFr/unaware
+- NPC/Clee/unaware
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1512
+died:
+gender: male
+pronouns:
+ancestry:
+species: lizardfolk
+affiliations: []
+family:
 whereabouts:
-     - { date: 1512-01-02, place: "Ganboa", region: Sembara, type: home }
+- type: home
+  start: 1512-01-02
+  end: ''
+  location: Ganboa, Sembara
+lastSeenByParty: []
 ---
 # Koldo
 >[!info]+ Biographical Summary

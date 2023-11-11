@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: human
-born:
-ancestry: Sembaran
-gender: male
-died: 1719
-family:
+name: "Fran\xE7ois the Bandit"
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/unaware
+- NPC/Clee/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-affiliations:
-name: François the Bandit
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
+born:
+died: 1719
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # François the Bandit
 >[!info]+ Biographical Summary

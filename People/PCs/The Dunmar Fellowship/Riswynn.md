@@ -1,19 +1,37 @@
 ---
 type: PC
 name: Riswynn
-species: dwarf
-ancestry: 
-gender: female
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
+pronouciation:
 aliases: []
-tags: [PC/DunmarFrontier, stub]
-campaign: "The Dunmar Fellowship"
-player: "Kate Sackton"
-yearOverride: 
+tags:
+- PC/DunmarFrontier
+- stub
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry:
+species: dwarf
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player: Kate Sackton
+ddbLink:
 ---
 ### Riswynn
 

@@ -1,23 +1,38 @@
 ---
 type: NPC
 name: Tulvak
-species: human
-ancestry: Skaer
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1719
+died:
 gender: male
-born: 1719 
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty: 
-  - { date: 1748-12-25, prefix: DuFr }
-whereabouts: 
-  - { date: 1719-01-01, place: "Pyhlla", region: "Skaerhem", type: origin }
-  - { date: 1719-01-02, place: "Pyhlla", region: "Skaerhem", type: home }
+pronouns:
+ancestry: Skaer
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Pyhlla, Skaerhem
+- type: home
+  start: 1719-01-02
+  end: ''
+  location: Pyhlla, Skaerhem
+lastSeenByParty:
+- date: 1748-12-25
+  prefix: DuFr
 ---
 # Tulvak
 >[!info]+ Biographical Summary

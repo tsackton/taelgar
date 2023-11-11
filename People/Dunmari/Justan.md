@@ -1,20 +1,36 @@
 ---
 type: NPC
 name: Justan
-species: human
-ancestry: Dunmari
-gender: male
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1723
 died: 1748
-affiliations: 
-title:
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: 1723-01-02, place: "Tokra", region: Central Dunmar, type: home }
-     - { date: 1748-05-01, place: "Copper Hills", region: Central Dunmar, type: excursion }
+- type: home
+  start: 1723-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+- type: away
+  start: 1748-05-01
+  end: ''
+  location: Copper Hills, Central Dunmar
+lastSeenByParty: []
 ---
 # Justan
 >[!info]+ Biographical Summary

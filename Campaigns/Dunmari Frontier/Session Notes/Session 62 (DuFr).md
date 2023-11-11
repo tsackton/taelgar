@@ -1,5 +1,6 @@
 ---
-tags: [DuFr]
+tags:
+- DuFr
 ---
 
 # Session 62

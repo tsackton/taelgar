@@ -1,23 +1,38 @@
 ---
 type: NPC
 name: Skalme
-species: human
-ancestry: Skaer
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1707
+died:
 gender: female
-born: 1707 
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty: 
-  - { date: 1748-12-21, prefix: DuFr }
-whereabouts: 
-  - { date: 1709-01-01, place: "", region: "Skaerhem", type: origin }
-  - { date: 1731-01-02, place: "Antaka", region: "", type: home }
+pronouns:
+ancestry: Skaer
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: 1709-01-01
+  end: ''
+  location: Skaerhem
+- type: home
+  start: 1731-01-02
+  end: ''
+  location: Antaka
+lastSeenByParty:
+- date: 1748-12-21
+  prefix: DuFr
 ---
 # Skalme
 >[!info]+ Biographical Summary

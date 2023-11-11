@@ -1,24 +1,37 @@
 ---
 type: NPC
 name: Ariel
-species: human
-ancestry: Deno'qai
-gender: female
-born: 1674
-title: 
-origin: {  place: Shu'anra village, region: Forest of Dreams }
-family: 
-died: 
-affiliations: 
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/minor
-  - NPC/DuFr/met
-  - event-source
+- NPC/DuFr/minor
+- NPC/DuFr/met
+- event-source
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1674
+died:
+gender: female
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
 whereabouts:
-  - place: Te'kula village
-    region: Elderwood
-    type: home
+- type: home
+  start: ''
+  end: ''
+  location: Te'kula village, Elderwood
+- type: home
+  start: ''
+  end: ''
+  location: Shu'anra village
+lastSeenByParty: []
 ---
 # Ariel
 >[!info]+ Biographical Summary

@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Jothai
-species: human
-ancestry: "Deno'qai"
-gender: male
-born: 1719
-died: 
-affiliations: 
-title:
-origin: Ko'zula village
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1719
+died:
+gender: male
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Ko'zula village
+lastSeenByParty: []
 ---
 # Jothai
 >[!info]+ Biographical Summary

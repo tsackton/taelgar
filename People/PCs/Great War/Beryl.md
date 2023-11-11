@@ -1,19 +1,36 @@
 ---
 type: PC
 name: Beryl
-species: human
-ancestry: Isinguen
-gender: male
+pronouciation:
+aliases: []
+tags:
+- PC/GreatWar
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1510
 died: 1545
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/GreatWar]
-campaign: "Great War"
-player: "Mike Sackton"
-yearOverride: 
+gender: male
+pronouns:
+ancestry: Isinguen
+species: human
+affiliations:
+- null
+- null
+- null
+- null
+- null
+- null
+- null
+family:
+whereabouts: []
+lastSeenByParty: []
+player: Mike Sackton
+ddbLink:
 ---
 ### Beryl
 

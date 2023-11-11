@@ -3,7 +3,10 @@ type: Session Notes
 realWorldDate: 2021-07-24
 taelgar-date: 1747-07-23
 taelgar-date-end: 1747-07-23
-players: ["Ryu", "Wazir", "Trok"]
+players:
+- Ryu
+- Wazir
+- Trok
 ---
 
 # Episode 1: The Merfolk Visitor

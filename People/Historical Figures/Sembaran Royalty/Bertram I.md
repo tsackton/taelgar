@@ -1,17 +1,31 @@
 ---
 type: Ruler
-species: human
-born: 1538
-ancestry: Sembaran
-gender: male
-died: 1552
-family: House of Sewick
+name: Bertram I
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-affiliations:
+born: 1538
+died: 1552
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family: House of Sewick
+whereabouts: []
+lastSeenByParty: []
 reignStart: 1549
 reignEnd:
-name: Bertram I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Bertram I
 >[!info]+ Biographical Summary

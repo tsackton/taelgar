@@ -1,26 +1,34 @@
 ---
 type: NPC
 name: Gorkil
-species: orc
-ancestry: 
-gender: male
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/met
+- NPC/DuFr/background
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1729
 died: 1748
+gender: male
+pronouns:
+ancestry:
+species: orc
 affiliations:
-  - Grash's Horde
-aliases: []
-title: 
-family: 
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-  - status/uptodate
-yearOverride: 
+- Grash's Horde
+family:
 whereabouts:
-  - date: 1729-01-02
-    place: Kharsan
-    region: Nashtkar
-    type: home
+- type: home
+  start: 1729-01-02
+  end: ''
+  location: Kharsan, Nashtkar
+lastSeenByParty: []
 ---
 # Gorkil
 >[!info]+ Biographical Summary

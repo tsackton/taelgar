@@ -3,7 +3,10 @@ type: Session Notes
 realWorldDate: 2021-12-27
 taelgar-date: 1747-11-08
 taelgar-date-end: 1747-11-09
-players: ["Ryu", "Nerissa", "Ander"]
+players:
+- Ryu
+- Nerissa
+- Ander
 ---
 # Episode 4: The Chained Beast
 *In which [[Ander]], [[Nerissa]], and [[Ryu]] battle steam creatures and fire cultists to save a captive dragon turtle.*

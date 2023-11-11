@@ -1,15 +1,29 @@
 ---
 type: NPC
-species: human
-born: 1600
-ancestry: Tyrwinghan
-gender: female
-died: 1655
-family: House of Lils
-affiliations:
 name: Annabeth
-tags: [NPC/historical, NPC/Clee/unsorted, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/historical
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1600
+died: 1655
+gender: female
+pronouns:
+ancestry: Tyrwinghan
+species: human
+affiliations: []
+family: House of Lils
+whereabouts: []
+lastSeenByParty: []
 ---
 # Annabeth
 >[!info]+ Biographical Summary

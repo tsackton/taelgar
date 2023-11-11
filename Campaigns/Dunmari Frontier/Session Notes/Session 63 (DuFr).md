@@ -1,7 +1,7 @@
 ---
 tags:
-  - DuFr
-  - session-note
+- DuFr
+- session-note
 ---
 # Session 63, Dunmar Frontier
 *in which the party journeys across Dunmar to Stormcaller Tower.*

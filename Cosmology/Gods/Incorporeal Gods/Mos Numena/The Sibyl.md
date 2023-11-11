@@ -1,5 +1,6 @@
 ---
-aliases: [Sibyl]
+aliases:
+- Sibyl
 ---
 # The Sibyl
 *she/her*

@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Kassi
-species: human
-ancestry: Dunmari
-gender: female
-born: 1695
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born: 1695
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1695-01-02, place: "Lakan Monastery, Tokra", region: Central Dunmar, type: home }
+- type: home
+  start: 1695-01-02
+  end: ''
+  location: Lakan Monastery, Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Kassi
 >[!info]+ Biographical Summary

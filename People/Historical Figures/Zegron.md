@@ -1,22 +1,28 @@
 ---
 type: NPC
 name: Zegron
-species: giant
-ancestry: 
-gender: male
-born: 
-died: 1545
-endStatus: "cursed to linger as a ghost"
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
-yearOverride: 
+tags:
+- NPC/DuFr/met_one
+- NPC/DuFr/background
+pageTargetDate:
+endStatus: cursed to linger as a ghost
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died: 1545
+gender: male
+pronouns:
+ancestry:
+species: giant
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Zegron
 >[!info]+ Biographical Summary

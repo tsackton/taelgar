@@ -1,5 +1,7 @@
 ---
-aliases: [Stoneborn, stoneborn]
+aliases:
+- Stoneborn
+- stoneborn
 speciesDescriptor: stoneborn
 ---
 # Stoneborn

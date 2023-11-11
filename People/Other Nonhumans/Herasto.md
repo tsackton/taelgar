@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Herasto
-species: centaur
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
-yearOverride: 
-tags: [NPC/DuFr/unaware, NPC/GrLi/unsorted]
-family:
+tags:
+- NPC/DuFr/unaware
+- NPC/GrLi/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: centaur
+affiliations: []
+family:
 whereabouts:
-     - { date: 1748-11-23, place: "plains south of Voltara, Voltara", region: Chardonian Empire, type: excursion }
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: plains south of Voltara, Voltara, Chardonian Empire
+lastSeenByParty: []
 ---
 # Herasto
 >[!info]+ Biographical Summary

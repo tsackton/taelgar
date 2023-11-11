@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Marcella
-species: human
-ancestry: Chardonian
-gender: female
-born: 1718
-died: 
-affiliations: 
-title:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+tags:
+- NPC/DuFr/major
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1718
+died:
+gender: female
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations: []
 family:
 whereabouts:
-     - { date: 1714-01-01, place: "Chardon", region: Chardonian Empire, type: origin }
-     - { date: 1748-11-23, place: "east of the Sentinel Range", region: Greater Sembara, type: excursion }
+- type: home
+  start: 1714-01-01
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: away
+  start: 1748-11-23
+  end: ''
+  location: east of the Sentinel Range, Greater Sembara
+lastSeenByParty: []
 ---
 # Marcella
 >[!info]+ Biographical Summary

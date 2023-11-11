@@ -1,6 +1,6 @@
 ---
 aliases:
-  - Cloak of Rainbows
+- Cloak of Rainbows
 ---
 
 # The Mantle of Protection

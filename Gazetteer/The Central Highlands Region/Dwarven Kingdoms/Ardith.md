@@ -1,3 +1,4 @@
 ---
-tags: [stub]
+tags:
+- stub
 ---

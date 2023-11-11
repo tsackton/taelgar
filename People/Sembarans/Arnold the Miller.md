@@ -1,15 +1,28 @@
 ---
 type: NPC
-species:
-born:
-ancestry:
-gender:
-died:
-family:
-title:
-affiliations:
 name: Arnold the Miller
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender:
+pronouns:
+ancestry:
+species:
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 ### Arnold the Miller
 

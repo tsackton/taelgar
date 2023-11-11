@@ -1,20 +1,41 @@
 ---
 type: NPC
 name: Cloudspinner
-species: fey
-ancestry: archfey
-gender: female
-born: 
-died: 
+pronouciation:
+aliases:
+- Queen of Sunset
+tags:
+- NPC/DuFr/aware
+- NPC/DuFr/minor
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: female
+pronouns:
+ancestry: archfey
+species: fey
+affiliations: []
 family:
-affiliations: 
-aliases: ["Queen of Sunset"]
-tags: [NPC/DuFr/aware, NPC/DuFr/minor]
 whereabouts:
-     - { date: 0001-01-01, place: "somewhere", region: unknown, type: origin }
-     - { date: 0001-01-02, place: "Amberglow", region: Feywild, type: home }
-     - { date: 1700-11-15, place: "imprisoned", region: somewhere, type: excursion }     
+- type: home
+  start: 0001-01-01
+  end: ''
+  location: somewhere, unknown
+- type: home
+  start: 0001-01-02
+  end: ''
+  location: Amberglow, Feywild
+- type: away
+  start: 1700-11-15
+  end: ''
+  location: imprisoned, somewhere
+lastSeenByParty: []
 ---
 # Cloudspinner
 >[!info]+ Biographical Summary

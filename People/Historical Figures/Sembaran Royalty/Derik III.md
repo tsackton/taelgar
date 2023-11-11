@@ -1,17 +1,31 @@
 ---
 type: Ruler
 name: Derik III
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd: 1549
-reignStart: 1519
-affiliations:
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title: King
-family:
+born: 1484
 died: 1549
 gender: male
+pronouns:
 ancestry: Sembaran
-born: 1484
 species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
+reignStart: 1519
+reignEnd: 1549
 ---
 # King Derik III
 >[!info]+ Biographical Summary

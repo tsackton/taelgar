@@ -1,24 +1,33 @@
 ---
 type: NPC
 name: Akan
-species: human
-ancestry: Dunmari
-gender: male
-born: 1693
-died: 
-affiliations: 
-title: 
-family: 
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/minor
-  - NPC/DuFr/met
-  - status/uptodate
+- NPC/DuFr/minor
+- NPC/DuFr/met
+- status/uptodate
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1693
+died:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
 whereabouts:
-  - date: 1693-01-02
-    place: area north and east of Karawa
-    region: Eastern Dunmar
-    type: home
+- type: home
+  start: 1693-01-02
+  end: ''
+  location: area north and east of Karawa, Eastern Dunmar
+lastSeenByParty: []
 ---
 # Akan
 >[!info]+ Biographical Summary

@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Delig Hardstone
-species: dwarf
-ancestry: 
-gender: male
-born: 
-died: 
-affiliations: 
+pronouciation:
 aliases: []
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
+born:
+died:
+gender: male
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
 family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: , place: "Tokra", region: Central Dunmar, type: home}
+- type: home
+  start: ''
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Delig Hardstone
 >[!info]+ Biographical Summary

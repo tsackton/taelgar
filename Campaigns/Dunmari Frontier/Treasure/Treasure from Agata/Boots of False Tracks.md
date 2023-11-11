@@ -1,8 +1,21 @@
 ---
 type: Item
-ddbLink: "https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks"
-currentOwner: Marcella
-magical: yes
+name:
+pronouciation:
+aliases: []
+tags: []
+pageTargetDate:
+endStatus: destroyed
+endPrefix: d.
+startStatus: created
+startPrefix: c.
+preExistError: '**(not yet created)**'
+created:
+destroyed:
+magical: true
+maker:
+owner: Marcella
+ddbLink: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
 ---
 # Boots of False Tracks
 

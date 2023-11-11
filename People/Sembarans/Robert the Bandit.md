@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: human
-born:
-ancestry: Sembaran
-gender: male
-died: 1719
-family:
-title:
-affiliations:
 name: Robert
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/unaware
+- NPC/Clee/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died: 1719
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Robert
 >[!info]+ Biographical Summary

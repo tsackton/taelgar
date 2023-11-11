@@ -1,6 +1,9 @@
 ---
 fc-calendar: Taelgar
-fc-date: {"day": 30, "month":9, "year":1748}
+fc-date:
+  day: 30
+  month: 9
+  year: 1748
 ---
 
 # Aagirvala

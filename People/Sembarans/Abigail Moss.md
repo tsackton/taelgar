@@ -1,20 +1,37 @@
 ---
 type: NPC
 name: Abigail Moss
-species: Human
-ancestry: Sembaran
-gender: female
+pronouciation:
+aliases: []
+tags:
+- NPC/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1698
-died: 
-title: 
-lastSeenByParty: 
-  - { date: 1719-12-04, prefix: Clee }
-whereabouts: 
-  - { date: 1698-03-19, place: Taviose, region: Sembara, type: origin }
-  - { date: 1719-12-04, place: Taviose, region: Sembara, type: home }
-tags: [NPC/unsorted]
-affiliations:
+died:
+gender: female
+pronouns:
+ancestry: Sembaran
+species: Human
+affiliations: []
 family:
+whereabouts:
+- type: home
+  start: 1698-03-19
+  end: ''
+  location: Taviose, Sembara
+- type: home
+  start: 1719-12-04
+  end: ''
+  location: Taviose, Sembara
+lastSeenByParty:
+- date: 1719-12-04
+  prefix: Clee
 ---
 # Abigail Moss
 >[!info]+ Biographical Summary

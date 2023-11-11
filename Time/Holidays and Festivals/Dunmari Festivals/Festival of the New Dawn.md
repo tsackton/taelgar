@@ -1,6 +1,8 @@
 ---
 fc-calendar: Taelgar
-fc-date: {"day": 23, "month": 1}
+fc-date:
+  day: 23
+  month: 1
 ---
 
 

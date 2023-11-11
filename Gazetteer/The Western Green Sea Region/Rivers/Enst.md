@@ -1,6 +1,8 @@
 ---
-aliases: [Enst]
-tags: [stub]
+aliases:
+- Enst
+tags:
+- stub
 ---
 
 

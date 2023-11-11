@@ -1,23 +1,38 @@
 ---
 type: NPC
 name: Balthazar
-species: Human
-ancestry: 
-gender: male
+pronouciation:
+aliases: []
+tags:
+- null
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1705-03-15
-died: 
-title: 
-family: 
-affiliations: 
-  - 
-aliases: 
-tags: 
-  - 
-lastSeenByParty: 
-  - { date: 1719-12-04, prefix: Clee }
-whereabouts: 
-  - { date: , place: Evis, region: Duchy of Maseau, type: origin }
-  - { date: 1719-12-06, place: Cleenseau, region: Sembara, type: home }
+died:
+gender: male
+pronouns:
+ancestry:
+species: Human
+affiliations:
+- null
+family:
+whereabouts:
+- type: home
+  start: null
+  end: ''
+  location: Evis, Duchy of Maseau
+- type: home
+  start: 1719-12-06
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty:
+- date: 1719-12-04
+  prefix: Clee
 ---
 # Balthazar
 >[!info]+ Biographical Summary

@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: human
-born:
-ancestry: Mawaran
-gender: female
-died:
-family:
-title:
-affiliations:
 name: Hiyasa
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/MC/minor
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: female
+pronouns:
+ancestry: Mawaran
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Hiyasa
 >[!info]+ Biographical Summary

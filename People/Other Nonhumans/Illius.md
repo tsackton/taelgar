@@ -1,15 +1,28 @@
 ---
 type: NPC
-species: merfolk
-born:
-ancestry:
-gender: nonbinary
-died:
-family:
-title:
-affiliations:
 name: Illius
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
+pronouciation:
+aliases: []
+tags:
+- NPC/MC/minor
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
+gender: nonbinary
+pronouns:
+ancestry:
+species: merfolk
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Illius
 >[!info]+ Biographical Summary

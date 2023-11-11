@@ -1,19 +1,32 @@
 ---
 type: NPC
 name: Darshana
-species: human
-ancestry: Dunmari
-gender: female
-born: 1699
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1699
+died:
+gender: female
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1699-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- type: home
+  start: 1699-01-02
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Darshana
 >[!info]+ Biographical Summary

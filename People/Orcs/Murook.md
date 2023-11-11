@@ -1,33 +1,41 @@
 ---
 type: NPC
 name: Murook
-species: orc
-ancestry: 
-gender: female
-born: 1716
-died: 
-title: General
-family: 
-affiliations:
-  - Hezguli
-  - The People of the Rainbow
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-  - event-source
-lastSeenByParty:
-  - date: 1749-12-10
-    prefix: DuFr
+- NPC/DuFr/met
+- NPC/DuFr/minor
+- event-source
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title: General
+born: 1716
+died:
+gender: female
+pronouns:
+ancestry:
+species: orc
+affiliations:
+- Hezguli
+- The People of the Rainbow
+family:
 whereabouts:
-  - date: 1716-01-01
-    place: Plaguelands
-    region: Central Lowlands
-    type: origin
-  - date: 1725-01-01
-    place: Xurkhaz
-    region: Central Lowlands
-    type: home
+- type: home
+  start: ''
+  end: ''
+  location: Plaguelands, Central Lowlands
+- type: home
+  start: 1725-01-01
+  end: ''
+  location: Xurkhaz, Central Lowlands
+lastSeenByParty:
+- date: 1749-12-10
+  prefix: DuFr
 ---
 # General Murook
 >[!info]+ Biographical Summary

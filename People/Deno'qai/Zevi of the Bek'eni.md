@@ -1,17 +1,32 @@
 ---
 type: NPC
 name: Zevi
-species: human
-ancestry: "Deno'qai"
-gender: male
-born: 
-died: 1748
-title:
-origin: Elderwood
-family:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+tags:
+- NPC/DuFr/background
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died: 1748
+gender: male
+pronouns:
+ancestry: Deno'qai
+species: human
+affiliations: []
+family:
+whereabouts:
+- type: home
+  start: ''
+  end: ''
+  location: Elderwood
+lastSeenByParty: []
 ---
 # Zevi
 >[!info]+ Biographical Summary

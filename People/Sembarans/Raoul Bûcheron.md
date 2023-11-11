@@ -1,15 +1,29 @@
 ---
 type: NPC
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
-name: Raoul Bûcheron
-affiliations: [Order of the Charitable Wanderer]
+name: "Raoul B\xFBcheron"
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/unaware
+- NPC/Clee/unsorted
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-family:
+born: 1666
 died:
 gender: male
+pronouns:
 ancestry: Sembaran
-born: 1666
 species: human
+affiliations:
+- Order of the Charitable Wanderer
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Raoul Bûcheron
 >[!info]+ Biographical Summary

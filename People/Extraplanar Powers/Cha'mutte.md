@@ -1,21 +1,28 @@
 ---
 type: NPC
 name: Cha'mutte
-species: dragon
-ancestry: elder wyrm
-gender: male
-born: 
-died: 1545
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/historical, NPC/DuFr/aware]
-yearOverride: 
+tags:
+- NPC/historical
+- NPC/DuFr/aware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died: 1545
+gender: male
+pronouns:
+ancestry: elder wyrm
+species: dragon
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Cha'mutte
 >[!info]+ Biographical Summary

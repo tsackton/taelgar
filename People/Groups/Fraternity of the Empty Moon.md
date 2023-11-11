@@ -1,8 +1,19 @@
 ---
 type: Organization
+name:
+pronouciation:
+aliases: []
 tags:
-  - organization/unsorted
-  - event-source
+- organization/unsorted
+- event-source
+pageTargetDate:
+endStatus: disbanded
+endPrefix: d.
+startStatus: founded
+startPrefix: f.
+preExistError: '**(not yet founded)**'
+created:
+destroyed:
 ---
 # The Fraternity of the Empty Moon
 

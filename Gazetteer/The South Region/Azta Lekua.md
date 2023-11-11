@@ -1,5 +1,6 @@
 ---
-aliases: [Footprint of the Gods]
+aliases:
+- Footprint of the Gods
 ---
 
 # Azta Lekua

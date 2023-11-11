@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Drusa
-species: human
-ancestry: Chardonian
-gender: female
-born: 1711
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+tags:
+- NPC/DuFr/minor
+- NPC/DuFr/met
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1711
+died:
+gender: female
+pronouns:
+ancestry: Chardonian
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1711-01-01, place: "Chardon", region: Chardonian Empire, type: home}
-     - { date: 1748-05-01, place: "Tokra", region: Central Dunmar, type: excursion}
+- type: home
+  start: ''
+  end: ''
+  location: Chardon, Chardonian Empire
+- type: away
+  start: 1748-05-01
+  end: ''
+  location: Tokra, Central Dunmar
+lastSeenByParty: []
 ---
 # Drusa
 >[!info]+ Biographical Summary

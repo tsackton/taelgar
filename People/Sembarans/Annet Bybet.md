@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Annet Bybet
-species: human
-ancestry: Sembaran
-gender: female
-born: 1692
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1692
+died:
+gender: female
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1692-01-01, place: "Ainswick", region: Sembara, type: origin}
-     - { date: 1692-01-02, place: "Cleenseau", region: Sembara, type: home}
+- type: home
+  start: ''
+  end: ''
+  location: Ainswick, Sembara
+- type: home
+  start: 1692-01-02
+  end: ''
+  location: Cleenseau, Sembara
+lastSeenByParty: []
 ---
 # Annet Bybet
 >[!info]+ Biographical Summary

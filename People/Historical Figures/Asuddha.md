@@ -1,19 +1,33 @@
 ---
 type: NPC
 name: Asuddha
-species: human
-ancestry: Dunmari
-gender: male
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/aware
+- NPC/DuFr/background
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1136
 died: 1208
-affiliations: 
-aliases: []
-title:
+gender: male
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
 family:
-tags: [NPC/DuFr/aware, NPC/DuFr/background, NPC/historical]
-yearOverride: 
 whereabouts:
-     - { date: 1136-01-02, place: "unknown", region: Dunmar, type: home }
+- type: home
+  start: 1136-01-02
+  end: ''
+  location: unknown, Dunmar
+lastSeenByParty: []
 ---
 # Asuddha
 >[!info]+ Biographical Summary

@@ -1,19 +1,36 @@
 ---
 type: NPC
 name: Diesla Starsearcher
-species: dwarf
-ancestry: 
-gender: female
-born: 1512
-title:
-family:
-died: 
-affiliations: 
+pronouciation:
 aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1512
+died:
+gender: female
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
+family:
 whereabouts:
-     - { date: 1512-01-01, place: "Ardith", region: unknown, type: origin }
-     - { date: 1512-01-02, place: "Taviose", region: Sembara, type: home }
+- type: home
+  start: ''
+  end: ''
+  location: Ardith, unknown
+- type: home
+  start: 1512-01-02
+  end: ''
+  location: Taviose, Sembara
+lastSeenByParty: []
 ---
 # Diesla Starsearcher
 >[!info]+ Biographical Summary

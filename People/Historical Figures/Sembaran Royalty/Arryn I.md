@@ -1,21 +1,31 @@
 ---
 type: Ruler
-species: human
+name: Arryn I
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1562
-ancestry: Sembaran
-gender: male
 died: 1600
-home:
-homeRegion:
-origin:
-originRegion:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
 family:
-affiliations:
-whereabouts:
+whereabouts: []
+lastSeenByParty: []
 reignStart:
 reignEnd:
-name: Arryn I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Arryn I
 >[!info]+ Biographical Summary

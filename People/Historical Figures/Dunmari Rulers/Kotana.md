@@ -1,21 +1,30 @@
 ---
 type: NPC
 name: Kotana
-species: human
-ancestry: Dunmari
+pronouciation:
+aliases:
+- Samraat Kotana
+tags:
+- NPC/DuFr/aware
+- NPC/DuFr/background
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born:
+died:
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-tags: [NPC/DuFr/aware, NPC/DuFr/background, NPC/historical]
-yearOverride: 
-aliases: [Samraat Kotana]
+pronouns:
+ancestry: Dunmari
+species: human
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 
 ### Kotana

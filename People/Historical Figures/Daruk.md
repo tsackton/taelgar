@@ -1,21 +1,29 @@
 ---
 type: NPC
 name: Daruk
-species: dwarf
-ancestry: 
-gender: male
+pronouciation:
+aliases: []
+tags:
+- NPC/DuFr/aware
+- NPC/DuFr/background
+- NPC/historical
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
 born: 1323
 died: 1533
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/aware, NPC/DuFr/background, NPC/historical]
-yearOverride: 
+gender: male
+pronouns:
+ancestry:
+species: dwarf
+affiliations: []
+family:
+whereabouts: []
+lastSeenByParty: []
 ---
 # Daruk
 >[!info]+ Biographical Summary

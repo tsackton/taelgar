@@ -1,29 +1,37 @@
 ---
 type: NPC
 name: Oudine
-species: Human
-ancestry: Sembaran
-gender: female
-born: 1693-08-12
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
+pronouciation:
+aliases: []
 tags:
-  - NPC/DuFr/unaware
-lastSeenByParty:
-  - date: 1719-12-04
-    prefix: Clee
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1693-08-12
+died:
+gender: female
+pronouns:
+ancestry: Sembaran
+species: Human
+affiliations: []
+family:
 whereabouts:
-  - date: 
-    place: Beggar's Way
-    region: Cleenseau
-    type: origin
-  - date: 
-    place: 
-    region: 
-    type: home
+- type: home
+  start: null
+  end: ''
+  location: Beggar's Way, Cleenseau
+- type: home
+  start: null
+  end: ''
+  location: ''
+lastSeenByParty:
+- date: 1719-12-04
+  prefix: Clee
 ---
 # Oudine
 >[!info]+ Biographical Summary

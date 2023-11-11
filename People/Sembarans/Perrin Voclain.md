@@ -1,21 +1,38 @@
 ---
 type: NPC
 name: Perrin Voclain
-species: human
-ancestry: Sembaran
-gender: male
-born: 1659
-died: 
-affiliations: 
-title:
-family:
+pronouciation:
 aliases: []
-lastSeenByParty: 
-- { date: 1719-10-20, prefix: Clee }
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
+title:
+born: 1659
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family:
 whereabouts:
-     - { date: 1659-01-01, place: "Taviose", region: Sembara, type: home}    
-     - { date: 1719-10-21, place: "Valit", region: Sembara, type: excursion }
+- type: home
+  start: ''
+  end: ''
+  location: Taviose, Sembara
+- type: away
+  start: 1719-10-21
+  end: ''
+  location: Valit, Sembara
+lastSeenByParty:
+- date: 1719-10-20
+  prefix: Clee
 ---
 # Perrin Voclain
 >[!info]+ Biographical Summary

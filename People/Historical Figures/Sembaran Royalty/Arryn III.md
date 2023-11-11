@@ -1,17 +1,30 @@
 ---
 type: Ruler
-species: human
-born: 1702
-ancestry: Sembaran
-gender: male
-died:
-family: House of Lils
+name: Arryn III
+pronouciation:
+aliases: []
+tags:
+- NPC/Clee/unsorted
+- NPC/DuFr/unaware
+pageTargetDate:
+endStatus: died
+endPrefix: d.
+startStatus: born
+startPrefix: b.
+preExistError: '**(not yet born)**'
 title:
-affiliations:
+born: 1702
+died:
+gender: male
+pronouns:
+ancestry: Sembaran
+species: human
+affiliations: []
+family: House of Lils
+whereabouts: []
+lastSeenByParty: []
 reignStart: 1745
 reignEnd:
-name: Arryn III
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Arryn III
 >[!info]+ Biographical Summary
