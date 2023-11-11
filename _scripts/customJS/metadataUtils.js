@@ -154,6 +154,27 @@ class metadataUtils {
         }
     }
 
+    get_currentWhereabouts(metadata, targetDate) {
+        let exactKnown = this.get_exactWhereabouts(metadata, targetDate)
+        let home = this.get_homeWhereabouts(metadata, targetDate)
+        let lastKnown = this.get_lastKnownWhereabouts(metadata, targetDate)
+
+        if (exactKnown) return exactKnown;
+        if (home && lastKnown) {
+            let lastKnownEnd = this.parse_date_to_events_date(lastKnown.end)
+            if (lastKnownEnd) {
+                if (lastKnownEnd.sort < targetDate.sort) {
+                    return home
+                }
+            }
+        }
+        else if (home) {
+            return home;
+        }
+
+        return { location: undefined, type: "away"  }
+    }
+
     get_lastKnownWhereabouts(metadata, targetDate) {
         let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f))
             .filter(f => f.type == "away" && (f.startDate != undefined && f.startDate.sort <= targetDate.sort))
