@@ -79,7 +79,6 @@ def get_PageDatedValue(metadata):
     if not pageStartDate and not pageEndDate:
         return ""
 
-
 def get_RegnalValue(metadata):
     currentDate = get_current_date(metadata)
     reignStartDate = clean_date(metadata["reignStart"]) if "reignStart" in metadata else None
@@ -110,7 +109,6 @@ def get_RegnalValue(metadata):
     if (reignEndDate and reignEndDate > currentDate) or reignEndDate is None:
         age = get_Age(currentDate, reignStartDate)
         return f"reigning since {display_date(reignStartDate, full=False)} ({age} years)"
-
 
 def get_HomeWhereabouts(metadata): 
     # Gets the Page Existence Date and the Target Date (see Page Dates)
@@ -170,6 +168,6 @@ def get_CurrentWhereabouts(metadata):
     if locations["last"]["output"]:
         output_string.append(f"Last known location (as of {display_date(locations['last']['date'])}): {parse_loc_string(locations['last']['value'],metadata)}")
     if locations["current"]["output"] and pageExists:
-        output_string.append(f"Current location (as of {display_date(currentDate)}): {parse_loc_string(locations['current']['value'],metadata)}")
+        output_string.append(f"Current location (as of {display_date(currentDate)}): {parse_loc_string(locations['exact']['value'],metadata)}")
 
-    return "\n".join(output_string)
+    return "\n".join(output_string) 
