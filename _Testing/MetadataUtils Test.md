@@ -1,5 +1,6 @@
 ---
-pageTargetDate: 1399-12-10
+pageTargetDate: 1399-11-06
+destroyed: 1400
 whereabouts:
 - {type: home, location: Origin Place }
 - {type: home, end: 1399-11-05, location: Home Place }
@@ -14,10 +15,23 @@ whereabouts:
 await dv.view("_scripts/view/get_Homewhereabouts")
 ```
 
+```dataviewjs
+await dv.view("_scripts/view/get_CurrentWhereabouts")
+```
+
+
+Current
+```dataviewjs
+const {metadataUtils} = customJS
+let target = metadataUtils.parse_date_to_events_date(dv.current().pageTargetDate);
+dv.span(metadataUtils.get_currentWhereabouts(dv.current(), target))
+```
+
+
 Origin
 ```dataviewjs
 const {metadataUtils} = customJS
-let target = metadataUtils.parse_date_to_events_date(dv.current().yearOverride);
+let target = metadataUtils.parse_date_to_events_date(dv.current().pageTargetDate);
 dv.span(metadataUtils.get_originWhereabouts(dv.current(), target))
 ```
 

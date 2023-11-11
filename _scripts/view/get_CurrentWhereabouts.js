@@ -13,6 +13,7 @@ function get_Whereabouts(metadata) {
 
     if (metadata.whereabouts) {
         if (existYear && pageYear.sort < existYear.sort) return "";
+
         let lastKnownWhereabouts = metadataUtils.get_lastKnownWhereabouts(metadata, pageYear)
         let homeWhereabouts = metadataUtils.get_homeWhereabouts(metadata, pageYear)
         let currentWhereabouts = metadataUtils.get_currentWhereabouts(metadata, pageYear)
@@ -31,7 +32,11 @@ function get_Whereabouts(metadata) {
         let outputString = "";
 
         if (lastKnownWhereabouts && lastKnownWhereabouts.location) {
-            let eventDateForStart = metadataUtils.parse_date_to_events_date(lastKnownWhereabouts.start)
+            let eventDateForStart = lastKnownWhereabouts.type == "home"  ?
+                    metadataUtils.parse_date_to_events_date(lastKnownWhereabouts.end) :
+                    metadataUtils.parse_date_to_events_date(lastKnownWhereabouts.start)
+
+
             outputString = "Last known location: (as of " + eventDateForStart.display + "): " + metadataUtils.get_Location(lastKnownWhereabouts)
         }
 
