@@ -23,11 +23,11 @@ affiliations: []
 family: Nayan Dynasty
 whereabouts:
 - type: home
-  start: 1707-01-01
-  end: ''
+  start: ''
+  end: 1737
   location: Darba, Western Dunmar
 - type: home
-  start: 1738-01-01
+  start: 1738
   end: ''
   location: Nayahar, Western Dunmar
 lastSeenByParty: []
@@ -36,12 +36,11 @@ reignEnd:
 ---
 # Samraat Nayan Karnas
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Darba]], [[Western Dunmar]]
->> Based in: [[Nayahar]], [[Western Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 The current Samraat of [[Dunmar]], of the Nayan dynasty. Brother to [[Sura]], whom he thought dead. 
 

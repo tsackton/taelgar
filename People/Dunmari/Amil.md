@@ -29,17 +29,17 @@ whereabouts:
   end: ''
   location: Pava and Avaras' House, Nashtkar
 - type: away
-  start: 1749-01-01
+  start: 1748-07-18
   end: ''
   location: Pava and Avaras' House, Nashtkar
 lastSeenByParty: []
 ---
 # Amil
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Pava and Avaras' House]], [[Nashtkar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
 
