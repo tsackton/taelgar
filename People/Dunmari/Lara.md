@@ -24,7 +24,7 @@ affiliations:
 family:
 whereabouts:
 - type: home
-  start: 1707-01-02
+  start: ''
   end: ''
   location: Lakan Monastery, Tokra, Central Dunmar
 lastSeenByParty: []

@@ -118,7 +118,7 @@ def get_HomeWhereabouts(metadata):
     currentDate = get_current_date(metadata)
 
     # Sets the "page exists" flag to true if the Page End Date is defined Page End Date is before the Target Date
-    pageExists = True if ((pageEndDate and pageEndDate <= currentDate) or (pageEndDate is None)) else False
+    pageExists = True if ((pageEndDate and pageEndDate >= currentDate) or (pageEndDate is None)) else False
 
     # If the Page Existence Date is defined Target Date is before the Page Existence Date, it exits with no output.
     if pageStartDate and pageStartDate > currentDate:
@@ -149,7 +149,7 @@ def get_CurrentWhereabouts(metadata):
     currentDate = get_current_date(metadata)
 
     # Sets the "page exists" flag to true if the Page End Date is defined Page End Date is before the Target Date
-    pageExists = True if ((pageEndDate and pageEndDate <= currentDate) or (pageEndDate is None)) else False
+    pageExists = True if ((pageEndDate and pageEndDate >= currentDate) or (pageEndDate is None)) else False
 
     # If the Page Existence Date is defined Target Date is before the Page Existence Date, it exits with no output.
     if pageStartDate and pageStartDate > currentDate:
@@ -166,7 +166,8 @@ def get_CurrentWhereabouts(metadata):
     # Line 2: If the current location output flag is true, and the page exists flag is true: "Current location (as of target date): (current)"
 
     if locations["last"]["output"]:
-        output_string.append(f"Last known location (as of {display_date(locations['last']['date'])}): {parse_loc_string(locations['last']['value'],metadata)}")
+        output_date = display_date(locations['last']['date'])
+        output_string.append(f"Last known location (as of {output_date}): {parse_loc_string(locations['last']['value'],metadata)}")
     if locations["current"]["output"] and pageExists:
         output_string.append(f"Current location (as of {display_date(currentDate)}): {parse_loc_string(locations['current']['value'],metadata)}")
 

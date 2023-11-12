@@ -110,7 +110,7 @@ def display_date(date, full = True, cr = "DR"):
     if (full):
         return date.strftime("%b %d, %Y")
     else:
-        return cr + date.strftime("%Y")
+        return cr + " " + date.strftime("%Y")
 
 def get_Age(younger, older):
     younger = clean_date(younger)
@@ -141,6 +141,10 @@ def parse_whereabouts(metadata, debug = False):
 
     whereabouts = metadata["whereabouts"]
     target_date = get_current_date(metadata)
+    died_date = clean_date(metadata["died"]) if "died" in metadata else None
+    if died_date is not None:
+        target_date = died_date
+
     locations = {"exact": {}, "home": {}, "origin": {}, "last": {}, "current": {}}
 
     locations["exact"]["value"] = None
@@ -317,6 +321,14 @@ def parse_whereabouts(metadata, debug = False):
         locations["last"]["output"] = True
     else:
         locations["last"]["output"] = False
+
+    """
+    # if you are dead, current location should never be output
+    if died_date is not None and target_date > died_date:
+        locations["current"]["output"] = False
+    
+    """
+
 
     if debug:
         print(metadata["name"], locations, file=sys.stderr)
