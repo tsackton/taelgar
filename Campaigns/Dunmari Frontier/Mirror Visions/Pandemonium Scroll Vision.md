@@ -3,7 +3,6 @@ tags:
 - event-source
 - dunmari-frontier-campaign
 DR: 1748-07-13
-recharge: mirror
 ---
 
 # Pandemonium Scroll Vision
