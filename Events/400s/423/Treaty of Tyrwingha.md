@@ -1,11 +1,20 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 tags:
 - event-source
 =======
 tags: [event-source]
 summary: An agreement between the Emperor Goristo and the Archfey Ethlenn to establish Tyrwingha
 >>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
+=======
+tags: [event-source]
+summary: An agreement between the Emperor Goristo and the Archfey Ethlenn to establish Tyrwingha
+=======
+tags:
+- event-source
+>>>>>>> 160dd10 (massive metadata cleanup and update)
+>>>>>>> 51f7760 (massive metadata cleanup and update)
 DR: 423
 ---
 

@@ -25,6 +25,7 @@ affiliations:
 family:
 whereabouts:
 - type: home
+<<<<<<< HEAD
   start: 
   end: ''
   location: Karawa, Eastern Dunmar
@@ -32,6 +33,15 @@ whereabouts:
   start: 
   end: ''
   location: Eastern Dunmar
+=======
+  start: 1725-01-01
+  end: ''
+  location: Karawa, Eastern Dunmar
+- type: home
+  start: 1725-01-02
+  end: ''
+  location: Plains around Karawa, Eastern Dunmar
+>>>>>>> 51f7760 (massive metadata cleanup and update)
 - type: away
   start: 1748-11-23
   end: ''
@@ -49,7 +59,11 @@ whereabouts:
   end: ''
   location: Songara, Central Dunmar
 lastSeenByParty:
+<<<<<<< HEAD
 - date: 1748-12-27
+=======
+- date: 1748-12-26
+>>>>>>> 51f7760 (massive metadata cleanup and update)
   prefix: DuFr
 ---
 

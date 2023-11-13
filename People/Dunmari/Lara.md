@@ -24,7 +24,11 @@ affiliations:
 family:
 whereabouts:
 - type: home
+<<<<<<< HEAD
   start: ''
+=======
+  start: 1707-01-02
+>>>>>>> 51f7760 (massive metadata cleanup and update)
   end: ''
   location: Lakan Monastery, Tokra, Central Dunmar
 lastSeenByParty: []

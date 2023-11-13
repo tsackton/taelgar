@@ -1,8 +1,13 @@
 ---
 type: Session Notes
 realWorldDate: 2021-07-24
+<<<<<<< HEAD
 DR: 1747-07-23
 DR_end: 1747-07-23
+=======
+taelgar-date: 1747-07-23
+taelgar-date-end: 1747-07-23
+>>>>>>> 51f7760 (massive metadata cleanup and update)
 players:
 - Ryu
 - Wazir

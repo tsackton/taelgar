@@ -1,12 +1,21 @@
 ---
 tags:
 <<<<<<< HEAD
+<<<<<<< HEAD
 - '#event-source'
 =======
   - "#event-source"
 parentLocation: Dunmar
 name: Tokra
 >>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
+=======
+  - "#event-source"
+parentLocation: Dunmar
+name: Tokra
+=======
+- '#event-source'
+>>>>>>> 160dd10 (massive metadata cleanup and update)
+>>>>>>> 51f7760 (massive metadata cleanup and update)
 ---
 ## Overview of Tokra
 

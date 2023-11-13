@@ -1,10 +1,20 @@
 ---
 tags:
+<<<<<<< HEAD
   - DuFr
 sessionNumber: 1
 realWorldDate: 2020-05-29
 DR: 1748-03-22
 DR_end: 1748-03-23
+=======
+- DuFr
+sessionNumber: 1
+realWorldDate: 05 29 2020
+sessionStartDate: 1748 03 22
+sessionStartTime: morning
+sessionEndDate: 1748 03 23
+sessionEndTime: evening
+>>>>>>> 51f7760 (massive metadata cleanup and update)
 ---
 # Session 1
 
