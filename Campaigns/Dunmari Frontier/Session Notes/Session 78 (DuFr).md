@@ -1,3 +1,7 @@
+---
+type: SessionNote
+campaign: Dunmari Frontier
+---
 # Session 78
 *in which the party gathering information*
 

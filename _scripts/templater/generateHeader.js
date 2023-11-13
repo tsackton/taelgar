@@ -22,11 +22,7 @@ async function generateHeader(tp) {
 
     const { metadataUtils } = customJS
 
-    const metadataFilePath = app.vault.configDir + "/metadata.json";
-
-    let metadataFile = await app.vault.adapter.read(metadataFilePath);
-    let metadata = JSON.parse(metadataFile);
-
+    let nameString = metadataUtils.get_Name(tp, false);
 
     if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler" || tp.frontmatter.type == "PC") {
         let ancestryDisplayValue = ""
@@ -64,26 +60,14 @@ async function generateHeader(tp) {
             locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
 
             if (tp.frontmatter.lastSeenByParty) {
-                tp.frontmatter.lastSeenByParty.filter(e => e.prefix && e.date).forEach(element => {
-
-                     console.log(element) ;
-                     
-                    let parsedDate = metadataUtils.parse_date_to_events_date(element.date);
+                tp.frontmatter.lastSeenByParty.filter(e => e.prefix && e.date).forEach(async element => {
+            
+                    let parsedDate = metadataUtils.parse_date_to_events_date(element.date, false);
                     let locForThisDate = metadataUtils.get_currentWhereabouts(tp.frontmatter, parsedDate);
-
-                    console.log(locForThisDate)
-
+            
                     if (locForThisDate) {
-                        let partyName = "the party";
-                        let campaignData = metadata.campaigns;
-                        if (campaignData) {
-                            let thisCampaign = campaignData.find(search => search.prefix == element.prefix);
-                            if (thisCampaign) {
-                                partyName = thisCampaign.partyName;
-                                if (thisCampaign.partyFile) {
-                                    partyName = "[[" + thisCampaign.partyFile + "|" + partyName + "]]"
-                                }
-                            }
+                        let partyName = await metadataUtils.get_party_name_for_party(element.prefix)
+                        if (partyName) {
                             locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${parsedDate.display}: ${metadataUtils.get_Location(locForThisDate)} %%^End%%`;
                         }
                     }
@@ -91,13 +75,6 @@ async function generateHeader(tp) {
             }
 
             locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";
-        }
-
-
-        // return string //
-        let nameString = tp.frontmatter.name;
-        if (tp.frontmatter.title) {
-            nameString = tp.frontmatter.title + " " + nameString;
         }
 
         let elfDisplay = "";
@@ -130,7 +107,7 @@ async function generateHeader(tp) {
             makerDisplay = ">Maker: [[" + tp.frontmatter.maker + "]]\n";
         }
         if (tp.frontmatter.created || tp.frontmatter.destroyed) {
-            timeDisplay = '>`$=dv.view("_scripts/view/get_PageDatedValue")`';
+            timeDisplay = '>`$=dv.view("_scripts/view/get_PageDatedValue")`\n';
         }
 
         if (tp.frontmatter.gpValueMin || tp.frontmatter.gpValueMax) {
@@ -151,24 +128,36 @@ async function generateHeader(tp) {
         }
 
         if (tp.frontmatter.dbbLink) {
-            mechanics = "> [Mechanics](" + tp.frontmatter.dbbLink + ")";
+            mechanics = "> [Mechanics](" + tp.frontmatter.dbbLink + ")\n";
         }
 
-        headerString = "# " + tp.frontmatter.name + "\n";
+        headerString = "# " + nameString + "\n";
+        let summaryType = "";
         if (tp.frontmatter.magical) {
-            headerString += "### (magical item)\n";
+            summaryType = "Magical Item"
         } else if (tp.frontmatter.magical != undefined) {
-            headerString += "### (mundane item)\n";
+            summaryType = "Mundane Item"
+        }
+        else {
+            summaryType = "Information"
         }
         if (ownerDisplay || makerDisplay || timeDisplay || mechanics || valueDisplay) {
-            headerString += ">[!info]+ Summary\n" + valueDisplay + ownerDisplay + makerDisplay + timeDisplay + mechanics;
+            headerString += ">[!info]+ " + summaryType + "\n" + valueDisplay + ownerDisplay + makerDisplay + timeDisplay + mechanics
         }
-        headerString += "\n";
+    }
+    else if (tp.frontmatter.type == "Place") {
+        headerString = "# " + nameString + "\n";
+    } else if (tp.frontmatter.type == "SessionNote") {
+        headerString = "# " + nameString + "\n";
+    } else if (tp.frontmatter.type == "Event") {
+        headerString = "# " + nameString + "\n";
+    } else if (tp.frontmatter.type == "Building") {
+        headerString = "# " + nameString + "\n";
+    } else if (tp.frontmatter.type == "Holiday") {
+        headerString = "# " + nameString + "\n";
     }
     else {
-        let title = tp.frontmatter.name;
-        if (!title) title = tp.file.title;
-        headerString = "# " + title + "\n>[!warning]+\n>**Header for type " + tp.frontmatter.type + " doesn't exist!**"
+        headerString = "# " + nameString + "\n>[!warning]+\n>**Header for type " + tp.frontmatter.type + " doesn't exist!**\n"
     }
     return headerString
 }

@@ -1,5 +1,6 @@
 ---
 cultureDescriptor: Tyrwinghan
+parentLocation: The Western Green Sea Region
 ---
 # Tyrwingha
 

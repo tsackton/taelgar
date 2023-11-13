@@ -1,6 +1,12 @@
 ---
 tags:
+<<<<<<< HEAD
 - '#event-source'
+=======
+  - "#event-source"
+name: The University of Chardon
+parentLocation: Chardon
+>>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
 ---
 ### The University of Chardon
 

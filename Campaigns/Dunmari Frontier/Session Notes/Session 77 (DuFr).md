@@ -1,3 +1,9 @@
+---
+type: SessionNote
+campaign: Dunmari Frontier
+---
+
+
 # Session 77
 *in which the party hosts a party*
 
