@@ -1,8 +1,14 @@
 ---
+<<<<<<< HEAD
 fc-calendar: Taelgar
 fc-date:
   day: 29
   month: 12
+=======
+fc-date: 
+ day: 29
+ month: 12
+>>>>>>> 293f45b (Set dates on some holidays)
 fc-end:
   day: 31
   month: 12

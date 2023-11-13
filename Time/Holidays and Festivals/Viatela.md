@@ -1,6 +1,5 @@
 ---
-fc-date: 1719-12-11
-fc-calendar: Taelgar
+fc-date: { day: 11, month: 12 }
 ---
 
 %% NOTES
