@@ -1,3 +1,9 @@
+---
+type: Location
+parentLocation: Barony of Aveil
+pronounciation: Klen-sew
+population: 1189
+---
 ### Cleenseau
 *population 1189, halflings and human combined*
 *pronounciation Klen-sew*

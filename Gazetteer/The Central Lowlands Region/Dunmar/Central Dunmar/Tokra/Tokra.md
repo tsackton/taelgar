@@ -1,6 +1,12 @@
 ---
 tags:
+<<<<<<< HEAD
 - '#event-source'
+=======
+  - "#event-source"
+parentLocation: Dunmar
+name: Tokra
+>>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
 ---
 ## Overview of Tokra
 
@@ -59,7 +65,7 @@ Tokra was originally the site of a Drankorian settlement, a river crossing and t
 - (DR:: 1411) *(Tokra)*: Construction is completed on the [[Archives]]
 - (DR:: 1434) *(Tokra)*: The grand temple complex in Tokra is completed
 - (DR::1552) *(Tokra)*: The [[Fire War]] begins
-- (DR: 1553) *(Tokra)*: The [[Fire War]] ends
+- (DR:: 1553) *(Tokra)*: The [[Fire War]] ends
 
 
 %% notes

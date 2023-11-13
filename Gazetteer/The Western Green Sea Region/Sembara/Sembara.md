@@ -1,9 +1,7 @@
 ---
 cultureDescriptor: Sembaran
+parentLocation: The Western Green Sea Region
 ---
-
----
-
 # Sembara
 
 ![[sembara-1750-updated.png]]

@@ -1,3 +1,9 @@
+---
+type: Location
+parentLocation: Barony of Averil
+population: 549
+pronounciation: Val-le
+---
 ### Valit
 *population 549*
 *pronounciation Val-le*

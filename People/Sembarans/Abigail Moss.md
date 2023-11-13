@@ -1,6 +1,7 @@
 ---
 type: NPC
 name: Abigail Moss
+<<<<<<< HEAD
 pronouciation:
 aliases: []
 tags:
@@ -32,14 +33,24 @@ whereabouts:
 lastSeenByParty:
 - date: 1719-12-04
   prefix: Clee
+=======
+species: human
+ancestry: Sembaran
+gender: female
+born: 1698
+lastSeenByParty: 
+  - { date: 1719-12-04, prefix: Clee }
+whereabouts: 
+  - { type: home, location: Taviose }
+tags: [NPC/unsorted]
+>>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
 ---
 # Abigail Moss
 >[!info]+ Biographical Summary
->Human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Taviose]], [[Sembara]]
->> Based in: [[Taviose]], [[Sembara]]
->>%%^Campaign:Clee%% Last seen by the party at December 4th, 1719: [[Taviose]], [[Sembara]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Sembara|Sembaran]]), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>>%%^Campaign:Clee%% Last seen by the party at December 4th, 1719: [[Taviose]], [[Barony of Aveil]], [[Sembara]] %%^End%%
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [[Taviose]]. [[Robin of Abenfyrd|Robin]] was able to disinfect it with his lay on hands ability.

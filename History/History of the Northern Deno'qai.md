@@ -25,9 +25,8 @@ As [[Cha'mutte]]'s army proceeds south, into elven lands and the southern Deno'q
 ###
 - (DR:: 1536): Cha'mutte launches a surprise attack against the [[Deno'qai]] of the northern forests, quickly capturing the territory between the [[K'eye]] and [[Pandar]]
 - (DR:: 1541): Cha'mutte's armies cross the [[K'eye]] in the first campaign of the [[Great War]]
-- (DR:: 1542), winter: Many Deno'qai die of exposure and starvation in the north, cut off by Cha'mutte's armies
-- (DR:: 1542), summer: The surviving [[Shu'anra]] and [[Ko'zula]] [[Deno'qai]] tribes flee into the mountains, abandoning the lowland forests to Cha'mutte's armies
-
+- (DR:: 1542): *(winter)* Many Deno'qai die of exposure and starvation in the north, cut off by Cha'mutte's armies
+- (DR:: 1542): *(summer)* The surviving [[Shu'anra]] and [[Ko'zula]] [[Deno'qai]] tribes flee into the mountains, abandoning the lowland forests to Cha'mutte's armies
 # Years of Isolation
 DR 1545 - DR 1640
 

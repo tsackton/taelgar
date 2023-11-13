@@ -11,18 +11,14 @@ function get_HomeWhereabouts(metadata) {
    
     const { metadataUtils } = customJS
    
-    let current = metadataUtils.get_pageEventsDate(metadata);
-    let pageExist = metadataUtils.get_existEventsDate(metadata)
-    let pageEnd = metadataUtils.get_endEventsDate(metadata);
+    if (!metadataUtils.isPageCreated(metadata)) return "";
 
-    if (pageExist && current.sort < pageExist.sort) return "";
-
-    let pageIsEnded = pageEnd && pageEnd.sort < current.sort;
-
+    let isPageAlive =  metadataUtils.isPageAlive(metadata);
+    
     if (metadata.whereabouts) {
 
         let origin = metadataUtils.get_originWhereabouts(metadata);
-        let home =  metadataUtils.get_homeWhereabouts(metadata, current);
+        let home =  metadataUtils.get_homeWhereabouts(metadata);
 
         let showOrigin = origin && ( !home || origin.location != home.location)
         let showHome = home ;
@@ -33,11 +29,11 @@ function get_HomeWhereabouts(metadata) {
             displayString = "Originally from: " + metadataUtils.get_Location(origin);
         }
 
-        if (showHome && pageIsEnded) {
+        if (showHome && !isPageAlive) {
             displayString += "\nLived in: " + metadataUtils.get_Location(home);
         }
 
-        if (showHome && !pageIsEnded) {
+        if (showHome && isPageAlive) {
             displayString += "\nBased in: " + metadataUtils.get_Location(home);
         }
         
