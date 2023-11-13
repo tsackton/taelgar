@@ -26,7 +26,9 @@ The following types of notes are defined and have specific metadata.
 - type: PC
 - type: Organization
 
-Most people are NPCs. Rulers are NPCs that add metadata about regnal years, and have alternate info boxes. PCs add information about players, and might have alternate info boxes, but are not fully implemented. Organizations are a special class that represents a collection of people (a family, a clan, a secret society, an adventuring party, etc).
+Most people are NPCs. Rulers are NPCs that add metadata about regnal years, and have alternate info boxes. PCs add information about players, and might have alternate info boxes, but are not fully implemented. 
+
+Organizations are a special class that represents a collection of people (a family, a clan, a secret society, an adventuring party, etc). Beyond founded / disbanded dates, if they exist, it is not clear there is anything useful to track with organizations. Primarily, these exist to allow people to be tagged to specific groups. 
 
 **Locations**:
 - type: Building
@@ -64,7 +66,7 @@ Timelines could alternately be in events as a way to represent notes with sequen
 
 This is used to indicate "this file has metadata that is not in part of the universal metadata definition and shouldn't be modified by metadata cleanup scripts."
 
-Other things that could use tags: 
+Other things that could use tags, maybe: 
 - Religions
 - Gods
 - Other Planes
@@ -100,7 +102,7 @@ displayDefaults : { startStatus : "created", startPrefix: "created", endStatus :
 | species         | string - links to page with matching speciesDescriptor                                                             | yes              | none    |
 | ancestry        | string - links to page with matching cultureDescriptor                                                             | yes              | none    |
 | gender          | male, female, nonbinary - used to calculate pronouns                                                               | yes              | none    |
-| born            | [[Formatting#Dates\|any date]]                                                                                     | yes              | none    |
+| born            | [[Formatting#Dates\|any date]]                                                                                     | yes              | none (for elves, autocalculate from ka?)   |
 | ddbLink         | link to page on D&D beyond (type: PC only)                                                                         | no               | none    |
 | lastSeenByParty | See [[Whereabouts and Last Seen By Party]]                                                                         | no               | none    |
 | whereabouts     | See [[Whereabouts and Location Specification]]                                                                     | no               | none    |
