@@ -30,10 +30,10 @@ lastSeenByParty: []
 ---
 # Lord Wymar Essford
 >[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Cleenseau]], [[Gazetteer/The Western Green Sea Region/Sembara/Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Sembara|Sembaran]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 The aging and senile lord of the manor in [[Cleenseau]]. He is rarely involved in the day to day events of the town. His children are [[Rosalind Essford]] and [[Rinault Essford]]
 
