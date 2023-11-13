@@ -23,7 +23,11 @@ affiliations: []
 family:
 whereabouts:
 - type: home
+<<<<<<< HEAD
   start: ''
+=======
+  start: 1680-01-02
+>>>>>>> 51f7760 (massive metadata cleanup and update)
   end: ''
   location: Karawa, Eastern Dunmar
 lastSeenByParty: []

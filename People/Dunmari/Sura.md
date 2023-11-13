@@ -25,17 +25,17 @@ affiliations: []
 family: Nayan Dynasty
 whereabouts:
 - type: home
-  start: ''
-  end: 1740-01-01
+  start: 1721-01-01
+  end: ''
   location: Darba, Western Dunmar
 - type: away
-  start: 1740-01-02
+  start: 1740-01-01
   end: ''
   location: Mirror of Soul Trapping
-- type: home
+- type: away
   start: 1748-06-08
   end: ''
-  location: Eastern Dunmar
+  location: Karawa, Eastern Dunmar
 - type: away
   start: 1748-11-23
   end: ''
@@ -49,7 +49,7 @@ whereabouts:
   end: ''
   location: plains south of Tokra, Central Dunmar
 lastSeenByParty:
-- date: 1748-12-22
+- date: 1748-12-26
   prefix: DuFr
 ---
 

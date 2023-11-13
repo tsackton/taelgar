@@ -25,9 +25,8 @@ species: fey
 affiliations: []
 family:
 whereabouts:
-<<<<<<< HEAD
 - type: home
-  start: 0001-01-02
+  start: ""
   end: ''
   location: edge of the Garamjala Desert, Eastern Dunmar
 - type: away
@@ -37,10 +36,6 @@ whereabouts:
 lastSeenByParty:
 - date: 1748-11-15
   prefix: DuFr
-=======
- - { place: "edge of the Garamjala Desert", region: Eastern Dunmar, type: home }
- - { start: 1748-11-15, place: "Heartwood Grove, Amberglow", region: Feywild, type: away }
->>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
 ---
 # Agata Dustmother
 >[!info]+ Biographical Summary

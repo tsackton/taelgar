@@ -1,5 +1,6 @@
 ---
 <<<<<<< HEAD
+<<<<<<< HEAD
 fc-calendar: Taelgar
 fc-date:
   day: 29
@@ -9,6 +10,17 @@ fc-date:
  day: 29
  month: 12
 >>>>>>> 293f45b (Set dates on some holidays)
+=======
+fc-date: 
+ day: 29
+ month: 12
+=======
+fc-calendar: Taelgar
+fc-date:
+  day: 29
+  month: 12
+>>>>>>> 160dd10 (massive metadata cleanup and update)
+>>>>>>> 51f7760 (massive metadata cleanup and update)
 fc-end:
   day: 31
   month: 12

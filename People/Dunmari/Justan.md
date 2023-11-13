@@ -14,7 +14,11 @@ startPrefix: b.
 preExistError: '**(not yet born)**'
 title:
 born: 1723
+<<<<<<< HEAD
 died: 1748-07-23
+=======
+died: 1748
+>>>>>>> 51f7760 (massive metadata cleanup and update)
 gender: male
 pronouns:
 ancestry: Dunmari
@@ -23,7 +27,11 @@ affiliations: []
 family:
 whereabouts:
 - type: home
+<<<<<<< HEAD
   start: ''
+=======
+  start: 1723-01-02
+>>>>>>> 51f7760 (massive metadata cleanup and update)
   end: ''
   location: Tokra, Central Dunmar
 - type: away
