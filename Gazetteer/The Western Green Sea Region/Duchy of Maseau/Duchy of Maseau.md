@@ -1,5 +1,6 @@
 ---
 aliases: Maseau
+type: Location
 ---
 # The Duchy of Maseau
 

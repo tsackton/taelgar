@@ -3,6 +3,7 @@ type: Organization
 tags:
   - organization/unsorted
   - event-source
+timelineDescriptor: Fraternity of the Empty Moon
 ---
 # The Fraternity of the Empty Moon
 

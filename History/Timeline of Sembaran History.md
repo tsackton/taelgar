@@ -1,6 +1,6 @@
 ---
-tags:
-  - "#event-source"
+tags: [event-source]
+timelineDescriptor: Sembaran History
 ---
 # The Drankorian Conquest
 DR 300 - DR 431

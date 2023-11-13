@@ -1,4 +1,6 @@
 ---
+name: Ruined Elven Workshop (near Tokra)
+parentLocation: Lakan Monastery
 tags:
   - "#event-source"
 ---

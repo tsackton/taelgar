@@ -15,16 +15,15 @@ yearOverride:
 lastSeenByParty: 
  - { date: 1748-11-15, prefix: DuFr}
 whereabouts:
- - { date: 0001-01-02, place: "edge of the Garamjala Desert", region: Eastern Dunmar, type: home }
- - { date: 1748-11-15, place: "Heartwood Grove, Amberglow", region: Feywild, type: excursion }
+ - { place: "edge of the Garamjala Desert", region: Eastern Dunmar, type: home }
+ - { start: 1748-11-15, place: "Heartwood Grove, Amberglow", region: Feywild, type: away }
 ---
-# Agata
+# Agata Dustmother
 >[!info]+ Biographical Summary
 >fey (hag), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: edge of the [[Garamjala Desert]], [[Eastern Dunmar]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at November 15th, 1748: Heartwood Grove, [[Amberglow]], [[Feywild]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
 ## Overview

@@ -1,5 +1,6 @@
 ---
 tags: [stub]
+parentLocation: The Central Highlands Region
 ---
 # Am'khazar
 

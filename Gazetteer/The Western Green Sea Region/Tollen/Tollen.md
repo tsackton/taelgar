@@ -1,5 +1,7 @@
 ---
 aliases: [Tollen]
+cultureDescriptor: Tollender
+parentLocation: The Western Green Sea Region
 ---
 # The Free City of Tollen
 

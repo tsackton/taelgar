@@ -1,6 +1,8 @@
 ---
 tags:
   - "#event-source"
+name: The University of Chardon
+parentLocation: Chardon
 ---
 ### The University of Chardon
 

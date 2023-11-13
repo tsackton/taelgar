@@ -1,3 +1,9 @@
+---
+type: Location
+parentLocation: Barony of Aveil
+population: 48
+pronounciation: Ta-vi-ose
+---
 ### Taviose
 *population 48*
 *pronouciation: Ta-vi-ose*

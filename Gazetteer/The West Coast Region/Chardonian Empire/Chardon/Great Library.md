@@ -1,6 +1,8 @@
 ---
 tags:
   - "#event-source"
+name: The Great Library
+parentLocation: Chardon
 ---
 # The Great Library
 
