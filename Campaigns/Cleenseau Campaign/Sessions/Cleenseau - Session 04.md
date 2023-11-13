@@ -2,8 +2,16 @@
 fc-date: 1719-11-03
 fc-end: 1719-12-04
 <<<<<<< HEAD
+<<<<<<< HEAD
 fc-category: Cleenseau Campaign
 realWorldDate: 2023-04-30
+=======
+realDate: 2023-04-30
+=======
+fc-category: Cleenseau Campaign
+realWorldDate: 2023-04-30
+>>>>>>> 647bb40 (medata clean, _MOC_ work)
+>>>>>>> 0ca5ae4 (medata clean, _MOC_ work)
 tags:
 - session-note
 - cleenseau-campaign
