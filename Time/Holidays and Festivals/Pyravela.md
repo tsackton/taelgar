@@ -1,5 +1,4 @@
 ---
-fc-calendar: Taelgar
 fc-date: 
  day: 29
  month: 12
