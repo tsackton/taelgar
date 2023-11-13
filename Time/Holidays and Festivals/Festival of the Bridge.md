@@ -1,6 +1,5 @@
 ---
-fc-date: 1719-11-03
-fc-calendar: Taelgar
+fc-date: { day: 03, month: 11 }
 ---
 # Festival of the Bridge
 
