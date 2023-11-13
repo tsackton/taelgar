@@ -1,8 +1,8 @@
 ---
 type: Session Notes
 realWorldDate: 2021-11-27
-taelgar-date: 1747-10-23
-taelgar-date-end: 1747-10-28
+DR: 1747-10-23
+DR_end: 1747-10-28
 players:
 - Ryu
 - Nerissa

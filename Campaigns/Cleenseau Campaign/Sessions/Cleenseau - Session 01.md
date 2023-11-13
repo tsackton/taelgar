@@ -3,7 +3,7 @@ fc-calendar: Taelgar Calendar
 fc-date: 1719-10-19
 fc-end: 1719-10-21
 fc-category: Cleenseau Campaign
-realDate: 2023-01-08
+realWorldDate: 2023-01-08
 tags:
 - session-note
 - cleenseau-campaign

@@ -1,3 +1,11 @@
+Metadata conventions:
+
+- Metadata entries use camelCase when possible. Because fantasy calendar uses kebab/dash case for fc-date, dates use dash case.
+- Required metadata is always displayed in a file, even if it is null. Optional metadata should only be displayed if it is 
+
+
+
+
 The following metadata is used:
 
 

@@ -1,8 +1,8 @@
 ---
 type: Session Notes
 realWorldDate: 2021-07-24
-taelgar-date: 1747-07-23
-taelgar-date-end: 1747-07-23
+DR: 1747-07-23
+DR_end: 1747-07-23
 players:
 - Ryu
 - Wazir
