@@ -1,10 +1,17 @@
 Metadata conventions:
 
 - Metadata entries use camelCase when possible. Because fantasy calendar uses kebab/dash case for fc-date, dates use dash case.
-- Required metadata is always displayed in a file, even if it is null. Optional metadata should only be displayed if it is 
+- Required metadata is always displayed in a file, even if it is null. Optional metadata should only be displayed if it has a non-null value.
+- Metadata defaults can be defined as null, {guess}, or a fixed value. Metadata with a {guess} default should have a function implemented to attempt to derive a value based on file properties (path, name, etc)
+- Metadata is defined by type; each type has different metadata, and required flags and defaults can vary as well. 
+- The formal metadata spec consists of a set of json files and a file that defines which metadata files are combined in order to create the input metadata for each type. Each json file consists of an entry for each metadata, with the following:
+  ```yaml
+  key : {required : logical, default : some value or null }
+  ```
 
-
-
+Updating metadata:
+- As metadata standards have changed, some old tags exist. In general, these conversions are handled only by Python update code, and can probably be ignored in templater and javascript code (but they are listed in the table as needed).
+- Whereabouts requires special handling to conform to standard, which is implemented in Python update code. Templater and javascript code can assume whereabouts meets current standards. 
 
 The following metadata is used:
 
