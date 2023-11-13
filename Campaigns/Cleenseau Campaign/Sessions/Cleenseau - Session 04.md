@@ -1,12 +1,16 @@
 ---
-fc-calendar: Taelgar Calendar
 fc-date: 1719-11-03
 fc-end: 1719-12-04
+<<<<<<< HEAD
 fc-category: Cleenseau Campaign
 realWorldDate: 2023-04-30
 tags:
 - session-note
 - cleenseau-campaign
+=======
+realDate: 2023-04-30
+tags: [session-note, cleenseau-campaign]
+>>>>>>> 907c921 (Minor updates from Cleenseau session 8)
 campaign: Cleenseau
 sessionNumber: 4
 name: Cleenseau - Session 04

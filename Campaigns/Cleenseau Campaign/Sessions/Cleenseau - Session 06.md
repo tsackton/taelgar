@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 fc-calendar: Taelgar Calendar
 fc-date: 1719-12-10
 fc-end: 1720-01-1
@@ -7,9 +8,12 @@ realWorldDate: 2023-09-10
 tags:
 - session-note
 - cleenseau-campaign
+=======
+realDate: 2023-09-10
+tags: [session-note, cleenseau-campaign]
+>>>>>>> 907c921 (Minor updates from Cleenseau session 8)
 campaign: Cleenseau
 sessionNumber: 6
-name: Cleenseau - Session 05
 type: SessionNote
 ---
 # Cleenseau - Session 6
