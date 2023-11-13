@@ -9,7 +9,7 @@ born: 1688
 died: 
 affiliations: 
 family:
-aliases: [Lord Rinault, Lord Rinault Essford]
+aliases: [Lord Rinault, Lord Rinault Essford, Rinault]
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
      - { date: 1688-01-01, place: "Cleenseau", region: Sembara, type: home}
