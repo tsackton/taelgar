@@ -1,17 +1,13 @@
 ---
 type: Item
-created:
-destroyed:
 owner: Robin of Abenfyrd
-maker: 
 dbbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 magical: true
 name: Lantern of the Bright Hearth
 tags: []
 ---
 # Lantern of the Bright Hearth
-### (magical item)
->[!info]+ Summary
+>[!info]+ Magical Item
 >Owner: [[Robin of Abenfyrd]]
 > [Mechanics](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth)
 

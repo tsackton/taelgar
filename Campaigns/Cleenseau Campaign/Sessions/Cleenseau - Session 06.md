@@ -1,13 +1,8 @@
 ---
-fc-calendar: Taelgar Calendar
-fc-date: 1719-12-10
-fc-end: 1720-01-1
-fc-category: Cleenseau Campaign
 realDate: 2023-09-10
 tags: [session-note, cleenseau-campaign]
 campaign: Cleenseau
 sessionNumber: 6
-name: Cleenseau - Session 05
 type: SessionNote
 ---
 # Cleenseau - Session 6
