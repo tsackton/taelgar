@@ -1,5 +1,6 @@
 ---
 type: Item
+<<<<<<< HEAD
 name: Lantern of the Bright Hearth
 pronouciation:
 aliases: []
@@ -12,14 +13,17 @@ startPrefix: c.
 preExistError: '**(not yet created)**'
 created:
 destroyed:
+=======
+owner: Robin of Abenfyrd
+dbbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
+>>>>>>> 907c921 (Minor updates from Cleenseau session 8)
 magical: true
 maker:
 owner: Robin of Abenfyrd
 ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 ---
 # Lantern of the Bright Hearth
-### (magical item)
->[!info]+ Summary
+>[!info]+ Magical Item
 >Owner: [[Robin of Abenfyrd]]
 > [Mechanics](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth)
 

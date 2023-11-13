@@ -1,4 +1,5 @@
 ---
+<<<<<<< HEAD
 type: Event
 name:
 pronouciation:
@@ -15,6 +16,10 @@ DR_end:
 fc-date: 1719-12-06
 fc-end:
 fc-display-name:
+=======
+DR: 1719-12-06
+type: Event
+>>>>>>> 907c921 (Minor updates from Cleenseau session 8)
 ---
 
 # Battle Against Wakog
