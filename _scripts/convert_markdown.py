@@ -14,7 +14,7 @@ TODO:
 - Fix functions so that rather than overloading metadata dict, create a new "globs" object to pass around
 """
 
-debug = False
+debug = True
 
 def find_end_of_frontmatter(lines):
     for i, line in enumerate(lines):
@@ -28,11 +28,13 @@ def find_end_of_frontmatter(lines):
 dview_file_name = "dview_functions"
 dview_functions = importlib.import_module(dview_file_name)
 
-# fix yaml output
-def flow_style_list_representer(dumper, data):
-    return dumper.represent_sequence(u'tag:yaml.org,2002:seq', data, flow_style=True)
+# Custom dumper for handling empty values
+class CustomDumper(yaml.SafeDumper):
+    def represent_none(self, _):
+        return self.represent_scalar('tag:yaml.org,2002:null', '')
 
-yaml.add_representer(list, flow_style_list_representer)
+# Add custom representation for None (null) values
+CustomDumper.add_representer(type(None), CustomDumper.represent_none)
 
 def dict_to_yaml(d):
     yaml_lines = []
@@ -42,7 +44,7 @@ def dict_to_yaml(d):
             yaml_lines.append(f"{key}:\n")
         else:
             # Use yaml.dump for other values
-            yaml_value = yaml.safe_dump({key: value}, sort_keys=False, default_flow_style=None, allow_unicode=True)
+            yaml_value = yaml.dump({key: value}, Dumper=CustomDumper, sort_keys=False, default_flow_style=False, allow_unicode=True)
             yaml_lines.append(yaml_value)
     return ''.join(yaml_lines)
 
@@ -169,10 +171,7 @@ for file_name in md_file_list:
         if metadata_clean is None:
             updated_content = lines
         else:
-            if not args.export_null:
-                new_frontmatter = dict_to_yaml(metadata_clean)
-            else:
-                new_frontmatter = yaml.safe_dump(metadata_clean, sort_keys=False, allow_unicode=True, default_flow_style=None)
+            new_frontmatter = yaml.dump(metadata_clean, sort_keys=False, default_flow_style=None, allow_unicode=True, Dumper=CustomDumper, width=2000)
             end_of_frontmatter = find_end_of_frontmatter(lines)
             if end_of_frontmatter != -1:
                 end_of_frontmatter += 1  # Adjust to get the line after '---'
