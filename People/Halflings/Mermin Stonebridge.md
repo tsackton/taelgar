@@ -9,7 +9,7 @@ ancestry:
 gender: male
 family: Stonebridge
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: Cleanseau}
+- {type: home, start: , end: '', location: Cleanseau}
 ---
 # Mermin Stonebridge
 >[!info]+ Biographical Summary

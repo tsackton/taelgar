@@ -10,7 +10,7 @@ ancestry: Skaer
 gender: female
 title: Laivan
 whereabouts:
-- {type: home, start: 0001-01-01, end: '', location: 'Pikkua, Skaerhem'}
+- {type: home, start: "", end: '', location: 'Pikkua, Skaerhem'}
 - {type: home, start: 1743-01-01, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Laivan Iskra

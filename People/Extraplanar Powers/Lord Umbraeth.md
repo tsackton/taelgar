@@ -16,17 +16,10 @@ born:
 species: fey
 ancestry: 
 gender: male
-aliases:
-  - Gloomshaper
+aliases: [Gloomshaper]
 whereabouts:
-  - type: home
-    start: 0001-01-01
-    end: ""
-    location: Twilight's Grace, Feywild
-  - type: home
-    start: 0001-01-02
-    end: ""
-    location: Duskmire, Feywild
+  - { type: home, start: "", end: "", location: Twilight's Grace, Feywild }
+  - { type: home, start: "", end: "", location: Duskmire, Feywild }
 ---
 # Lord Umbraeth
 >[!info]+ Biographical Summary

@@ -8,7 +8,7 @@ species: dryad
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: 'Azta Lekua, Orekatu'}
+- {type: home, start: , end: '', location: 'Azta Lekua, Orekatu'}
 ---
 # Eleuha
 >[!info]+ Biographical Summary

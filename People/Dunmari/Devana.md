@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: 'north and west of Karawa, Eastern Dunmar'}
+- {type: home, start: '', end: '', location: 'north and west of Karawa, Eastern Dunmar'}
 ---
 # Devana
 >[!info]+ Biographical Summary

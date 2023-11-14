@@ -8,8 +8,8 @@ species: lizardfolk
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: 'unknown, Orekatu'}
-- {type: away, start: 1748-11-23, end: '', location: 'Bedez, Orekatu'}
+- {type: home, start: "", end: '', location: 'Orekatu'}
+- {type: away, start: 1748-11-01, end: 1749-12-01, location: 'Bedez, Orekatu'} #check start and end dates on session notes from Kenzo solo
 ---
 # Enari
 >[!info]+ Biographical Summary

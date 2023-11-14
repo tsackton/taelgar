@@ -8,7 +8,7 @@ species: dwarf
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: 'Darba, Western Dunmar'}
+- {type: home, start: , end: '', location: 'Darba, Western Dunmar'}
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Summary

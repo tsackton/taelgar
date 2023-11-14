@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, start: 0001-01-01, end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Kaleha
 >[!info]+ Biographical Summary

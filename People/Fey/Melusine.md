@@ -8,7 +8,7 @@ species: fey
 ancestry: nymph
 gender: female
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: 'Amberglow, Feywild'}
+- {type: home, start: , end: '', location: 'Amberglow, Feywild'}
 ---
 # Melusine
 >[!info]+ Biographical Summary

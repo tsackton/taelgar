@@ -10,8 +10,7 @@ gender: female
 died: 1747
 affiliations: [Grumella's Horde]
 whereabouts:
-- {type: home, start: 0001-01-01, end: '', location: 'north of Voltara, The West Coast Region'}
-- {type: home, start: 0001-01-02, end: '', location: 'north of Voltara, The West Coast Region'}
+- {type: home, start: "", end: '', location: 'north of Voltara, The West Coast Region'}
 ---
 # Grumella
 >[!info]+ Biographical Summary

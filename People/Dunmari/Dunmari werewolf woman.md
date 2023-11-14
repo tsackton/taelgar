@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: , end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Dunmari werewolf woman
 >[!info]+ Biographical Summary
