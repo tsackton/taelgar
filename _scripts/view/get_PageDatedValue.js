@@ -2,17 +2,16 @@ function get_PageDatedValue(metadata) {
 
     const { metadataUtils } = customJS
 
-    currentYear = metadataUtils.get_pageEventsDate(metadata, false);
     pageExistenceData = metadataUtils.get_pageExistenceData(metadata, false)        
 
     if (!pageExistenceData.isCreated) return "**(doesn't yet exist)**";
     
     if (!pageExistenceData.isAlive) {
         if (pageExistenceData.age) {
-            return pageExistenceData.startPrefix + " " + pageExistenceData.startDate.display + " - " + pageExistenceData.endPrefix + " " + pageExistenceData.endDate.display +  ", " + pageExistenceData.endDescriptor + " at " + (pageExistenceData.age) + " years old"
+            return pageExistenceData.startPrefix + " " + pageExistenceData.startDate.display + " - " + pageExistenceData.endPrefix + " " +  pageExistenceData.endDate.display +  ", " + pageExistenceData.endDescriptor + " at " + (pageExistenceData.age) + " years old"
         }
         else {
-            return pageExistenceData.endDescriptor + " " + yearEnd.display;
+            return pageExistenceData.endDescriptor + " " + pageExistenceData.endDate.display ;
         }
     }
     else if (pageExistenceData.age) {

@@ -4,7 +4,7 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Valit
 placeType:
-partOf: Barony of Averil
+partOf: Barony of Aveil
 population: 549
 pronunciation: Val-le
 ---

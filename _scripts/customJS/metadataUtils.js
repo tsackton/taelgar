@@ -6,24 +6,27 @@ class metadataUtils {
     privatehelper_getAge(older, younger) {
 
         if (older == undefined || younger == undefined) return undefined;
-    
+
         let jsOlder = older.jsDate ?? older
         let jsYounger = younger.jsDate ?? younger
         var yearsDiff = jsOlder.getFullYear() - jsYounger.getFullYear();
-    
+
         if (jsYounger.getMonth() > jsOlder.getMonth()) return yearsDiff - 1;
         else if (jsYounger.getMonth() == jsOlder.getMonth() && jsYounger.getDate() > jsOlder.getDate()) return yearsDiff - 1;
-    
+
         return yearsDiff;
-    }    
+    }
 
 
     inLocation(targetLocation, metadata, targetDate) {
+
+
         if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
 
         let current = this.get_currentWhereabouts(metadata, targetDate);
-        if (current == undefined) return false;
-        if (current.location == undefined || current.location == "Unknown") return false;
+        if (current == undefined || current.location == undefined || current.location == "Unknown") {
+            return false;
+        }
 
         let found = this.locationSearch(current.location, targetLocation)
 
@@ -63,29 +66,45 @@ class metadataUtils {
     }
 
     locationSearch(startingLocation, targetLocation) {
-        if (startingLocation == targetLocation) return true;
+
+        if (startingLocation.trim() === targetLocation.trim())
+            return true;
 
         if (startingLocation.indexOf(",") == -1) {
             // we have a single string
-            let file = window.app.vault.getFiles().find(f => f.basename == startingLocation);
+            let file = window.app.metadataCache.getFirstLinkpathDest(startingLocation, ".");
             if (file) {
-                let fm = window.app.metadataCache.getFileCache(file).frontmatter
-                if (fm && fm.parentLocation) {
-                    if (fm.parentLocation == targetLocation) return true;
-                    return this.locationSearch(fm.parentLocation, targetLocation)
+                let fm = window.app.metadataCache.getFileCache(file)
+                if (fm && fm.frontmatter && fm.frontmatter.partOf) {
+                    return this.locationSearch(fm.frontmatter.partOf, targetLocation)
                 }
 
                 return false;
             }
+
+            console.log("Unable to retrieve linkpath for " + startingLocation)
+            return false;
         } else {
             return startingLocation.contains(targetLocation)
         }
     }
 
-    get_Name(input, link) {
-        // we have two possible inputs - a templater "tp" object or a dataview "file" object - both use frontmatter for yaml
+    get_NameForPossibleLink(input, link) {
+        let file = window.app.metadataCache.getFirstLinkpathDest(input, ".");
+        if (file) {
+            if (file) {
+                let fm = window.app.metadataCache.getFileCache(file)
+                return this.get_Name({ file: file, frontmatter: fm.frontmatter }, true)
+            }
+        }
 
-        let fileName = input.file ? input.file.title : input.name;
+        return input
+    }
+
+    get_Name(input, link) {
+        // we have three possible inputs - a templater "tp" object or a dataview "file" object or a constructed object where x.file is obsidian file and x.frontmatter is metadata
+
+        let fileName = input.file ? (input.file.title ?? input.file.basename ?? input.file.name) : input.name;
 
         if (fileName == undefined) return fileName;
 
@@ -100,23 +119,33 @@ class metadataUtils {
             }
         }
 
+
+        if (descriptiveName == "Untitled") return undefined;
+
+
         if (!link) return descriptiveName;
         else if (descriptiveName == fileName) return "[[" + descriptiveName + "]]"
         else return "[[" + fileName + "|" + descriptiveName + "]]"
     }
 
-    async get_party_name_for_party(prefix) {
+    async get_party_name_for_party_without_metadata(prefix) {
 
         const metadataFilePath = app.vault.configDir + "/metadata.json";
 
         let metadataFile = await app.vault.adapter.read(metadataFilePath);
-        let metadata = JSON.parse(metadataFile);
+        metadata = JSON.parse(metadataFile);
 
+        return this.get_party_name_for_party(metadata, prefix)
+
+    }
+
+
+    get_party_name_for_party(metadata, prefix) {
 
         let partyName = undefined;
         let campaignData = metadata.campaigns;
         if (campaignData) {
-            let thisCampaign = campaignData.find(search => search.prefix == prefix);
+            let thisCampaign = campaignData.find(search => search.prefix.toUpperCase() == prefix.toUpperCase());
             if (thisCampaign) {
                 partyName = thisCampaign.partyName;
                 if (thisCampaign.partyFile) partyName = "[[" + thisCampaign.partyFile + "|" + partyName + "]]"
@@ -202,49 +231,53 @@ class metadataUtils {
         return undefined;
     }
 
-    get_Location(place) {
-        function get_LocationFromPieces(singleLoc, depth) {
-            if (singleLoc == undefined) return "Unknown"
-            if (singleLoc == "") return "Unknown"
-            if (typeof singleLoc === 'string' || singleLoc instanceof String) {
+    get_LocationFromPieces(singleLoc, depth) {
 
-                if (singleLoc.indexOf(",") == -1) {
-                    // we have a single string
-                    let file = window.app.vault.getFiles().find(f => f.basename == singleLoc);
-                    if (file) {
-                        let fm = window.app.metadataCache.getFileCache(file).frontmatter
-                        if (fm && fm.parentLocation && depth < 2) {
-                            let parent = get_LocationFromPieces(fm.parentLocation, depth + 1)
-                            return "[[" + singleLoc + "]], " + parent
-                        }
+        if (singleLoc == undefined) return "Unknown"
+        if (singleLoc == "") return "Unknown"
+        if (typeof singleLoc === 'string' || singleLoc instanceof String) {
 
-                        return "[[" + singleLoc + "]]"
+            if (singleLoc.indexOf(",") == -1) {
+                // we have a single string
+                let file = window.app.vault.getFiles().find(f => f.basename == singleLoc);
+                if (file) {
+                    let fm = window.app.metadataCache.getFileCache(file)
+                    let name = this.get_Name({ file: file, frontmatter: fm.frontmatter }, true)
+                    if (fm && fm.frontmatter && fm.frontmatter.partOf && depth < 2) {
+                        let parent = this.get_LocationFromPieces(fm.frontmatter.partOf, depth + 1)
+                        return name + ", " + parent
                     }
+
+                    return name
                 }
-
-                let locArrayValues = singleLoc.split(",").map(function (f) {
-                    let pieceValue = f.trim();
-                    let file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
-                    if (file != undefined) {
-                        return "[[" + pieceValue + "]]";
-                    }
-                    return pieceValue;
-                });
-
-                return locArrayValues.join(', ');
             }
 
-            return "Unknown"
+            let locArrayValues = singleLoc.split(",").map(function (f) {
+                let pieceValue = f.trim();
+                let file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
+                if (file != undefined) {
+                    return "[[" + pieceValue + "]]";
+                }
+                return pieceValue;
+            });
+
+            return locArrayValues.join(', ');
         }
+
+        return "Unknown"
+    }
+
+
+    get_Location(place) {
 
 
         if (place == undefined) return "";
-        if (place.region && !place.place) return get_LocationFromPieces(place.region, 0)
-        if (!place.region && place.place) return get_LocationFromPieces(place.place, 0)
-        if (place.region && place.place) return get_LocationFromPieces(place.place + ", " + place.region, 0)
-        if (place.location) return get_LocationFromPieces(place.location, 0)
+        if (place.region && !place.place) return this.get_LocationFromPieces(place.region, 0)
+        if (!place.region && place.place) return this.get_LocationFromPieces(place.place, 0)
+        if (place.region && place.place) return this.get_LocationFromPieces(place.place + ", " + place.region, 0)
+        if (place.location) return this.get_LocationFromPieces(place.location, 0)
 
-        return get_LocationFromPieces(place, 0)
+        return this.get_LocationFromPieces(place, 0)
     }
 
     get_pageEventsDate(metadata) {
@@ -261,7 +294,7 @@ class metadataUtils {
 
         status.endDate = this.parse_date_to_events_date(metadata.reignEnd, true) ?? this.parse_date_to_events_date(metadata.died, true);
         status.startDate = this.parse_date_to_events_date(metadata.reignStart, false)
-        status.isStarted = status.startDate && status.startDate.sort >= targetDate.sort
+        status.isStarted = status.startDate && status.startDate.sort <= targetDate.sort
         status.isCurrent = status.isStarted && (status.endDate == undefined || targetDate.sort < status.endDate.sort)
 
         if (status.startDate) {
@@ -309,9 +342,7 @@ class metadataUtils {
             status.startDescriptor =  metadata.displayDefaults.startStatus
             status.endDescriptor = metadata.displayDefaults.endStatus
             status.startPrefix = metadata.displayDefaults.startPrefix
-            status.endPrefix = metadata.displayDefaults.endPrefix
-            if (!status.startPrefix) status.startPrefix = status.startDescriptor[0] + "."
-            if (!status.endPrefix) status.endPrefix = status.endDescriptor[0] + "."
+            status.endPrefix = metadata.displayDefaults.endPrefix           
         }
 
 
@@ -349,6 +380,10 @@ class metadataUtils {
                 status.age = this.privatehelper_getAge(status.endDate, status.startDate)
             }
         }
+
+        if (!status.startPrefix) status.startPrefix = status.startDescriptor[0] + "."
+        if (!status.endPrefix) status.endPrefix = status.endDescriptor[0] + "."
+        
         return status;
     }
 
@@ -387,11 +422,14 @@ class metadataUtils {
     }
 
     get_currentWhereabouts(metadata, targetDate) {
+
         if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
 
         let pageExistDate = this.get_pageExistenceData(metadata, targetDate)
 
-        if (!pageExistDate.isAlive) return undefined;
+        if (!pageExistDate.isAlive) {
+            return undefined;
+        }
 
         let exactKnown = this.get_exactWhereabouts(metadata, targetDate)
         let home = this.get_homeWhereabouts(metadata, targetDate)

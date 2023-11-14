@@ -12,21 +12,55 @@ function get_Pronouns(metadata) {
         return "he/him"
     } else if (metadata.gender == "female") {
         return "she/her"
+    } else if (metadata.gender) {
+        return "they/them"
     }
 
-    // if no gender or nonbinary, use they/them pronouns
-    return "they/them"
+    return undefined
 }
 
 async function generateHeader(tp) {
 
     const { metadataUtils } = customJS
 
+    const metadataFilePath = app.vault.configDir + "/metadata.json";
+
+    let metadataFile = await app.vault.adapter.read(metadataFilePath);
+    campaignMetadata = JSON.parse(metadataFile);
+
+
+
     let nameString = metadataUtils.get_Name(tp, false);
 
-    if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "Ruler" || tp.frontmatter.type == "PC") {
-        let ancestryDisplayValue = ""
-        let speciesDisplayValue = ""
+    if (!nameString) {
+        new Notice("The file does not have a name; please set the name before processing the header")
+        return "<% tp.user.generateHeader(tp) %>"
+    }
+
+    let output = "# " + nameString + "\n"
+
+    let pronunciation = tp.frontmatter.pronunciation
+    if (pronunciation) {
+        output += "*(" + pronunciation + ")*\n"
+    }
+
+    let isPerson = tp.frontmatter.tags.filter(f => f.startsWith("person")).length > 0
+    let isPlace = tp.frontmatter.tags.filter(f => f.startsWith("place")).length > 0
+    let isOrganization = tp.frontmatter.tags.filter(f => f.startsWith("organization")).length > 0
+    let isItem = tp.frontmatter.tags.filter(f => f.startsWith("item")).length > 0
+    let isSessionNote = tp.frontmatter.tags.filter(f => f.startsWith("sessionNote")).length > 0
+
+    let isRuler = isPerson && tp.frontmatter.tags.filter(f => f.contains("ruler")).length > 0
+
+    let hasPageDates = tp.frontmatter.born || tp.frontmatter.died || tp.frontmatter.created || tp.frontmatter.destroyed
+    let hasReignInfo = isRuler && (tp.frontmatter.reignStart || tp.frontmatter.reignEnd)
+
+    if (isPerson) {
+        output += ">[!info]+ Biographical Summary"
+
+        let ancestryDisplayValue = undefined
+        let speciesDisplayValue = undefined
+        let pronounDisplayValue = get_Pronouns(tp.frontmatter)
 
         let species = tp.frontmatter.species;
         if (species) {
@@ -52,113 +86,153 @@ async function generateHeader(tp) {
             }
         }
 
-        let pronounDisplayValue = ", " + get_Pronouns(tp.frontmatter)
-        let locationDisplay = "";
 
-        // get home and origin // 
-        if (tp.frontmatter.whereabouts) {
-            locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
-
-            if (tp.frontmatter.lastSeenByParty) {
-                tp.frontmatter.lastSeenByParty.filter(e => e.prefix && e.date).forEach(async element => {
-            
-                    let parsedDate = metadataUtils.parse_date_to_events_date(element.date, false);
-                    let locForThisDate = metadataUtils.get_currentWhereabouts(tp.frontmatter, parsedDate);
-            
-                    if (locForThisDate) {
-                        let partyName = await metadataUtils.get_party_name_for_party(element.prefix)
-                        if (partyName) {
-                            locationDisplay += `\n>>%%^Campaign:${element.prefix}%% Last seen by ${partyName} at ${parsedDate.display}: ${metadataUtils.get_Location(locForThisDate)} %%^End%%`;
-                        }
-                    }
-                });
+        if (tp.frontmatter.rulerOf && isRuler) {
+            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.rulerOf)
+            let title = tp.frontmatter.title ?? "Ruler"
+            if (locationDisplay) {
+                output += "\n>" + title + " of " + locationDisplay
             }
+        }
 
-            locationDisplay += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";
+        if (ancestryDisplayValue || speciesDisplayValue || pronounDisplayValue) {
+            output += "\n>"
+        }
+
+        if (speciesDisplayValue) {
+            output += speciesDisplayValue
+        }
+
+        if (ancestryDisplayValue) {
+            if (speciesDisplayValue) output += " " + ancestryDisplayValue
+            else output += ancestryDisplayValue
+        }
+
+        if (pronounDisplayValue) {
+            if (speciesDisplayValue || ancestryDisplayValue) output += ", " + pronounDisplayValue
+            else output += pronounDisplayValue
         }
 
         let elfDisplay = "";
-        if (tp.frontmatter.ka) {
-            elfDisplay = " ([[The Cycle of Generations|ka " + tp.frontmatter.ka + "]])";
+        if (tp.frontmatter.ka || species == "elf") {
+            elfDisplay = " ([[The Cycle of Generations|ka " + (tp.frontmatter.ka ?? "unknown") + "]])"
         }
 
-        if (tp.frontmatter.type == "NPC" || tp.frontmatter.type == "PC") {
-            headerString = "# " + nameString + "\n>[!info]+ Biographical Summary" +
-                "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
-                "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`' + elfDisplay +
-                locationDisplay + "\n"
-        } else {
-            headerString = "# " + nameString + "\n>[!info]+ Biographical Summary" +
-                "\n>" + speciesDisplayValue + ancestryDisplayValue + pronounDisplayValue +
-                "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`' + elfDisplay +
-                "\n>" + '`$=dv.view("_scripts/view/get_RegnalValue")`' +
-                locationDisplay + "\n"
+        if (hasPageDates) {
+            output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`' + elfDisplay
         }
-    } else if (tp.frontmatter.type == "Item") {
-        let ownerDisplay = "";
-        let makerDisplay = "";
-        let timeDisplay = "";
-        let mechanics = "";
-        let valueDisplay = "";
-        if (tp.frontmatter.owner) {
-            ownerDisplay = ">Owner: [[" + tp.frontmatter.owner + "]]\n";
-        }
-        if (tp.frontmatter.maker) {
-            makerDisplay = ">Maker: [[" + tp.frontmatter.maker + "]]\n";
-        }
-        if (tp.frontmatter.created || tp.frontmatter.destroyed) {
-            timeDisplay = '>`$=dv.view("_scripts/view/get_PageDatedValue")`\n';
-        }
+    }
 
-        if (tp.frontmatter.gpValueMin || tp.frontmatter.gpValueMax) {
-            if (!tp.frontmatter.gpValueMax) {
-                valueDisplay = ">Worth at least " + tp.frontmatter.gpValueMin + " gold pieces\n";
-            }
-            else if (!tp.frontmatter.gpValueMin) {
-                valueDisplay = ">Worth at most " + tp.frontmatter.gpValueMax + " gold pieces\n";
-            }
-            else {
-                valueDisplay = ">Worth between " + tp.frontmatter.gpValueMin + " and " + tp.frontmatter.gpValueMax + " gold pieces\n";
+    if (isOrganization && (hasPageDates || tp.frontmatter.basedIn)) {
+        output += ">[!info]+ Summary"
+        if (hasPageDates) output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
+        if (tp.frontmatter.basedIn) {
+            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.basedIn)
+            if (locationDisplay) {
+                output += "\n> Based in: " + locationDisplay
             }
         }
+    }
 
-        // this order is important to ensure that specific value wins over range
-        if (tp.frontmatter.gpValue) {
-            valueDisplay = ">Worth " + tp.frontmatter.gpValue + " gold pieces\n";
+    if (hasReignInfo || (isRuler && tp.frontmatter.rulerOf)) {
+        output += "\n>" + '`$=dv.view("_scripts/view/get_RegnalValue")`'
+    }
+
+    if (isItem) {
+        output += ">[!info]+ Item Info"
+
+
+        let mechanicsLink = undefined
+        if (tp.frontmatter.ddbLink) {
+            mechanicsLink = "(" + tp.frontmatter.ddbLink + ")"
         }
 
-        if (tp.frontmatter.dbbLink) {
-            mechanics = "> [Mechanics](" + tp.frontmatter.dbbLink + ")\n";
+        let itemType = undefined
+        if (tp.frontmatter.unique == true && tp.frontmatter.magical == true) {
+            itemType = "(unique magical item)"
+        }
+        else if (tp.frontmatter.unique == true && tp.frontmatter.magical == false) {
+            itemType = "(unique mundane item)"
+        }
+        else if (tp.frontmatter.unique == false && tp.frontmatter.magical == true) {
+            itemType = "(magical item)"
+        }
+        else  /*if (tp.frontmatter.unique == false && tp.frontmatter.magical == false)*/ { 
+            itemType = "(mundane item)"
         }
 
-        headerString = "# " + nameString + "\n";
-        let summaryType = "";
-        if (tp.frontmatter.magical) {
-            summaryType = "Magical Item"
-        } else if (tp.frontmatter.magical != undefined) {
-            summaryType = "Mundane Item"
+        if (mechanicsLink) {
+            output += "\n> [" + itemType + "]" + mechanicsLink
         }
         else {
-            summaryType = "Information"
+            output += "\n>" + itemType
         }
-        if (ownerDisplay || makerDisplay || timeDisplay || mechanics || valueDisplay) {
-            headerString += ">[!info]+ " + summaryType + "\n" + valueDisplay + ownerDisplay + makerDisplay + timeDisplay + mechanics
+
+        if (tp.frontmatter.owner) {
+            output += "\n> Owner: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.owner, true)
+        }
+
+        if (tp.frontmatter.maker) {
+            output += "\n> Maker: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.maker, true)
+        }
+
+        if (hasPageDates) {
+            output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
         }
     }
-    else if (tp.frontmatter.type == "Place") {
-        headerString = "# " + nameString + "\n";
-    } else if (tp.frontmatter.type == "SessionNote") {
-        headerString = "# " + nameString + "\n";
-    } else if (tp.frontmatter.type == "Event") {
-        headerString = "# " + nameString + "\n";
-    } else if (tp.frontmatter.type == "Building") {
-        headerString = "# " + nameString + "\n";
-    } else if (tp.frontmatter.type == "Holiday") {
-        headerString = "# " + nameString + "\n";
+
+    if (isPlace) {
+        output += ">[!info]+ Summary"
+        if (hasPageDates) {
+            output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
+        }
+
+        if (tp.frontmatter.population) {
+            if (!hasPageDates) {
+                output += "\n>"
+            }
+            output += " *(pop. " + tp.frontmatter.population.toLocaleString() + ")*"
+        }
+
+        if (tp.frontmatter.partOf) {
+
+            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.partOf)
+
+            if (tp.frontmatter.placeType) {
+                let firstChar = tp.frontmatter.placeType[0]
+                if (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u') {
+                    output += "\n> an " + tp.frontmatter.placeType + " in " + locationDisplay
+                } else {
+                    output += "\n> a " + tp.frontmatter.placeType + " in " + locationDisplay
+                }
+            } else {
+                output += "\n> a place in " + locationDisplay
+            }
+        }
     }
-    else {
-        headerString = "# " + nameString + "\n>[!warning]+\n>**Header for type " + tp.frontmatter.type + " doesn't exist!**\n"
+
+    if (tp.frontmatter.whereabouts && (isPerson)) {
+        output += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
+
+        if (tp.frontmatter.campaignInfo) {
+            tp.frontmatter.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {
+                let parsedDate = metadataUtils.parse_date_to_events_date(element.date, false);
+                let locForThisDate = metadataUtils.get_currentWhereabouts(tp.frontmatter, parsedDate);
+
+                if (locForThisDate) {
+                    let partyName = metadataUtils.get_party_name_for_party(campaignMetadata, element.campaign)
+                    if (partyName) {
+                        let type = element.type ?? "seen"
+                        let newText = `\n>>%%^Campaign:${element.campaign}%% Last ${type} by ${partyName} on ${parsedDate.display} in: ${metadataUtils.get_Location(locForThisDate)} %%^End%%`;
+                        output += newText
+                    }
+                }
+            });
+        }
+
+        output += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";
     }
-    return headerString
+
+    return output
 }
 module.exports = generateHeader
