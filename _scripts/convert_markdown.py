@@ -21,12 +21,18 @@ def find_end_of_frontmatter(lines):
         # Check for '---' at the end of a line (with or without a newline character)
         if line.strip() == '---' and i != 0:
             return i
-    return -1  # Indicates that the closing '---' was not found
+    return 0  # Indicates that the closing '---' was not found
 
 
 ## import dview_functions.py as module
 dview_file_name = "dview_functions"
 dview_functions = importlib.import_module(dview_file_name)
+
+# fix yaml output
+def flow_style_list_representer(dumper, data):
+    return dumper.represent_sequence(u'tag:yaml.org,2002:seq', data, flow_style=True)
+
+yaml.add_representer(list, flow_style_list_representer)
 
 def dict_to_yaml(d):
     yaml_lines = []
@@ -36,7 +42,7 @@ def dict_to_yaml(d):
             yaml_lines.append(f"{key}:\n")
         else:
             # Use yaml.dump for other values
-            yaml_value = yaml.safe_dump({key: value}, sort_keys=False)
+            yaml_value = yaml.safe_dump({key: value}, sort_keys=False, default_flow_style=None, allow_unicode=True)
             yaml_lines.append(yaml_value)
     return ''.join(yaml_lines)
 
@@ -154,28 +160,27 @@ for file_name in md_file_list:
     metadata["file"] = file_name
     current_date = get_current_date(metadata)
 
-    if clean_yaml and (lines[0].strip() == '---'):
+    if clean_yaml:
         if debug:
             print("Cleaning up yaml frontmatter in " + file_name, file=sys.stderr)
         
         metadata_clean = update_metadata(metadata, metadata_orig)
 
-        # remove ka from  metadata if we are not species == elf
-        if "species" in metadata_clean and (metadata_clean["species"] != "elf"):
-            metadata_clean.pop("ka", None)
-
-        if not args.export_null:
-            new_frontmatter = dict_to_yaml(metadata_clean)
+        if metadata_clean is None:
+            updated_content = lines
         else:
-            new_frontmatter = yaml.safe_dump(metadata_clean, sort_keys=False, allow_unicode=True)
-        end_of_frontmatter = find_end_of_frontmatter(lines)
-        if end_of_frontmatter != -1:
-            end_of_frontmatter += 1  # Adjust to get the line after '---'
-            updated_content = ['---\n', new_frontmatter, '---\n'] + lines[end_of_frontmatter:]
-        else:
-            # Handle the case where the frontmatter is not properly closed
-            print(f"Error: Frontmatter not properly closed in {file_name}", file=sys.stderr)
-            updated_content = liness
+            if not args.export_null:
+                new_frontmatter = dict_to_yaml(metadata_clean)
+            else:
+                new_frontmatter = yaml.safe_dump(metadata_clean, sort_keys=False, allow_unicode=True, default_flow_style=None)
+            end_of_frontmatter = find_end_of_frontmatter(lines)
+            if end_of_frontmatter != -1:
+                end_of_frontmatter += 1  # Adjust to get the line after '---'
+                updated_content = ['---\n', new_frontmatter, '---\n'] + lines[end_of_frontmatter:]
+            else:
+                # Handle the case where the frontmatter is not properly closed
+                print(f"Error: Frontmatter not properly closed in {file_name}", file=sys.stderr)
+                updated_content = lines
     else:
         updated_content = lines
 
