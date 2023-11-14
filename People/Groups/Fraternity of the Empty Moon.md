@@ -4,8 +4,6 @@ name:
 pronouciation:
 aliases: []
 tags:
-<<<<<<< HEAD
-<<<<<<< HEAD
 - organization/unsorted
 - event-source
 pageTargetDate:
@@ -14,30 +12,7 @@ endPrefix: d.
 startStatus: founded
 startPrefix: f.
 preExistError: '**(not yet founded)**'
-created:
-destroyed:
-=======
-  - organization/unsorted
-  - event-source
 timelineDescriptor: Fraternity of the Empty Moon
->>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
-=======
-  - organization/unsorted
-  - event-source
-timelineDescriptor: Fraternity of the Empty Moon
-=======
-- organization/unsorted
-- event-source
-pageTargetDate:
-endStatus: disbanded
-endPrefix: d.
-startStatus: founded
-startPrefix: f.
-preExistError: '**(not yet founded)**'
-created:
-destroyed:
->>>>>>> 160dd10 (massive metadata cleanup and update)
->>>>>>> 51f7760 (massive metadata cleanup and update)
 ---
 # The Fraternity of the Empty Moon
 
