@@ -9,7 +9,7 @@ function get_PageDatedValue(metadata) {
     
     if (!pageExistenceData.isAlive) {
         if (pageExistenceData.age) {
-            return pageExistenceData.startDescriptor[0] + ". " + pageExistenceData.startDate.display + " - " + pageExistenceData.endDescriptor[0] + ". " + pageExistenceData.endDate.display +  ", " + pageExistenceData.endDescriptor + " at " + (pageExistenceData.age) + " years old"
+            return pageExistenceData.startPrefix + " " + pageExistenceData.startDate.display + " - " + pageExistenceData.endPrefix + " " + pageExistenceData.endDate.display +  ", " + pageExistenceData.endDescriptor + " at " + (pageExistenceData.age) + " years old"
         }
         else {
             return pageExistenceData.endDescriptor + " " + yearEnd.display;
