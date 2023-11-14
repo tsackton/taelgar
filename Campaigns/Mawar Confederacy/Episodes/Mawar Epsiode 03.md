@@ -1,18 +1,8 @@
 ---
 type: Session Notes
 realWorldDate: 2021-11-27
-<<<<<<< HEAD
-<<<<<<< HEAD
 DR: 1747-10-23
 DR_end: 1747-10-28
-=======
-taelgar-date: 1747-10-23
-taelgar-date-end: 1747-10-28
->>>>>>> 51f7760 (massive metadata cleanup and update)
-=======
-DR: 1747-10-23
-DR_end: 1747-10-28
->>>>>>> 0ca5ae4 (medata clean, _MOC_ work)
 players:
 - Ryu
 - Nerissa

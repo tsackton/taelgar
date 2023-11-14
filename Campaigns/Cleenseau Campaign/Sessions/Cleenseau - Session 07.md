@@ -3,15 +3,7 @@ fc-calendar: Taelgar Calendar
 fc-date: 1720-01-01
 fc-end: 1720-01-06
 fc-category: Cleenseau Campaign
-<<<<<<< HEAD
-<<<<<<< HEAD
 realWorldDate: 2023-10-22
-=======
-realDate: 2023-10-22
->>>>>>> 51f7760 (massive metadata cleanup and update)
-=======
-realWorldDate: 2023-10-22
->>>>>>> 0ca5ae4 (medata clean, _MOC_ work)
 tags:
 - session-note
 - cleenseau-campaign

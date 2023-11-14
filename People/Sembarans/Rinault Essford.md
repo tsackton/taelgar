@@ -23,18 +23,8 @@ ancestry: Sembaran
 species: human
 affiliations: []
 family:
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
 aliases: [Lord Rinault, Lord Rinault Essford, Rinault]
 tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
->>>>>>> 1f96ba0 (Additional alias for Rinault)
-=======
-aliases: [Lord Rinault, Lord Rinault Essford, Rinault]
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
-=======
->>>>>>> 160dd10 (massive metadata cleanup and update)
->>>>>>> 51f7760 (massive metadata cleanup and update)
 whereabouts:
 - type: home
   start: ''
