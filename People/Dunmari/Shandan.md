@@ -9,7 +9,8 @@ ancestry: Dunmari
 gender: male
 affiliations: [Shandan's Warband]
 whereabouts:
-- {type: home, start: 1692-01-02, end: '', location: 'plains east of Songara, Central Dunmar'}
+- {type: home, start: "", end: '', location: 'plains east of Songara, Central Dunmar'}
+pronunciation: Shun-dhun
 ---
 # Shandan
 >[!info]+ Biographical Summary

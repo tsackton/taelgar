@@ -9,9 +9,13 @@ A whereabouts entry consists of four parts:
 A whereabouts entry must have a type.
 A whereabouts entry with a type of away must have a start that is a valid date.
 
-To calculate a whereabouts result requires a whereabouts metadata and a target date. The target\ date is usually the current date, but can be overwritten with yaml frontmatter (e.g. pageTargetDate). Functions to calculate whereabouts locations assume they will always be passed a metadata object from which whereabouts can be extracted, and a target date. If there is a pageTargetDate in the metadata, this will override the target date passed to the function.
-
 Given a whereabouts and a target date two additional values are calculated - imputed start, imputed end. We also assume that born and died may exist or may be undefined. 
+
+We assume unless otherwise specified that all dates are passed to a clean_date function, with an end parameter. When dates are passed with end=False, the earliest valid date consistent with a partial representation is returned. When dates are passed with end=True, the latest valid date consistent with a partial representation is returned.
+
+born and died are computed as: 
+
+Imputed_start:
 - for type home, the imputed start is equal to the earliest possible date derived from born, or a generic earliest possible date if born is undefined, and the imputed end is equal to the target date, or the died date if it exists
 - for type away, imputed start is always equal to start, which must be provided. if start is YYYY or YYYY-MM, imputed start should be the earliest valid month/day
 - for type away, imputed end is always equal to imputed_start

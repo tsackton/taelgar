@@ -4,8 +4,9 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Vostok
 placeType:
-partOf:
+partOf: Western Green Sea Region
 aliases: [Vosland]
+pronunciation: VOS-tok
 ---
 # Vostok
 
@@ -21,13 +22,11 @@ Far to the north, the border of Vostok is demarcated with a massive and ancient 
 
 ![[vostok-map.jpg]]
 
-%% Politics
+%% NOTES
 Key political organization around a set of chieftains of clans who control a central territory and some of the hinterlands - but some areas are overlapped between multiple chieftains and it isn’t a land of clear regional boundaries. The idea is not really borders, a set of related clans/tribes/chieftains/kingdoms whatever with overlapping circles of influence. 
 Inspiration:
 - [Middle African Hausa Kingdoms](https://en.wikipedia.org/wiki/Hausa_Kingdoms) 
 - [Mandala political model of south east Asia](https://en.wikipedia.org/wiki/Mandala_(political_model))
-%%
 
-%% Notes / To do 
 The names might need an edit - Voslaag and Voskald are more like names of people than places, maybe? at least based on the made up meanings
 %%
