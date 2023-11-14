@@ -305,8 +305,8 @@ class metadataUtils {
             age: undefined
         }
 
-        status.startDescriptor = metadata.startDescriptor
-        status.endDescriptor = metadata.endDescriptor
+        status.startDescriptor =  metadata.displayDefaults.startStatus
+        status.endDescriptor = metadata.displayDefaults.endStatus
 
         if (metadata.born) {
             status.startDate = this.parse_date_to_events_date(metadata.born, false);
