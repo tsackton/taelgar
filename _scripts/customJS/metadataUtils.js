@@ -305,10 +305,15 @@ class metadataUtils {
             age: undefined
         }
 
-        status.startDescriptor =  metadata.displayDefaults.startStatus
-        status.endDescriptor = metadata.displayDefaults.endStatus
-        status.startPrefix = metadata.displayDefaults.startPrefix
-        status.endPrefix = metadata.displayDefaults.endPrefix
+        if (metadata.displayDefaults) {
+            status.startDescriptor =  metadata.displayDefaults.startStatus
+            status.endDescriptor = metadata.displayDefaults.endStatus
+            status.startPrefix = metadata.displayDefaults.startPrefix
+            status.endPrefix = metadata.displayDefaults.endPrefix
+            if (!status.startPrefix) status.startPrefix = status.startDescriptor[0] + "."
+            if (!status.endPrefix) status.endPrefix = status.endDescriptor[0] + "."
+        }
+
 
         if (metadata.born) {
             status.startDate = this.parse_date_to_events_date(metadata.born, false);
@@ -344,8 +349,6 @@ class metadataUtils {
                 status.age = this.privatehelper_getAge(status.endDate, status.startDate)
             }
         }
-        if (!status.startPrefix) status.startPrefix = status.startDescriptor[0] + "."
-        if (!status.endPrefix) status.endPrefix = status.endDescriptor[0] + "."
         return status;
     }
 
