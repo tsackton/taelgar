@@ -1,17 +1,15 @@
 ---
-type: Ruler
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Robert I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd:
-reignStart: 1713
-affiliations:
-title:
-family: House of Sewick
-died: 1721
-gender: male
-ancestry: Sembaran
 born: 1660
 species: human
+ancestry: Sembaran
+gender: male
+reignStart: 1713
+died: 1721
+family: House of Sewick
 ---
 # Robert I
 >[!info]+ Biographical Summary

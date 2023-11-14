@@ -1,17 +1,15 @@
 ---
-type: Ruler
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Gyles
-family: House of Lils
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd:
-reignStart:
-affiliations:
-title:
-died: 1706
-gender: male
-ancestry: Sembaran
 born: 1634
 species: human
+ancestry: Sembaran
+gender: male
+reignStart:
+died: 1706
+family: House of Lils
 ---
 # Gyles
 >[!info]+ Biographical Summary

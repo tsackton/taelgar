@@ -1,17 +1,15 @@
 ---
-type: Ruler
-affiliations:
-reignStart: 1496
-reignEnd: 1519
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Charlotte I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-title:
-family:
-died: 1519
-gender: female
-ancestry: Sembaran
 born: 1460
 species: human
+ancestry: Sembaran
+gender: female
+reignStart: 1496
+died: 1519
+reignEnd: 1519
 ---
 # Charlotte I
 >[!info]+ Biographical Summary

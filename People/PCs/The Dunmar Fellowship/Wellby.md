@@ -1,19 +1,14 @@
 ---
-type: PC
+tags: [pc, person, pc/dunmarfrontier]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Wellby
+born:
 species: halfling
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/DunmarFrontier]
-campaign: "The Dunmar Fellowship"
-player: "David Schwartz"
-yearOverride: 
+player: David Schwartz
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 
 # Wellby

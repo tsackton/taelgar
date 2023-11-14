@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: 
+tags: [mc/aware, historical, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Khathayi
 born:
+species:
 ancestry:
 gender:
-died:
-family:
-title:
-affiliations:
-name: Khathayi
-tags: [NPC/MC/aware, NPC/DuFr/unaware, NPC/historical]
 ---
 # Khathayi
 >[!info]+ Biographical Summary

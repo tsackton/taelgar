@@ -1,17 +1,16 @@
 ---
-type: Ruler
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Derik III
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd: 1549
-reignStart: 1519
-affiliations:
-title: King
-family:
-died: 1549
-gender: male
-ancestry: Sembaran
 born: 1484
 species: human
+ancestry: Sembaran
+gender: male
+reignStart: 1519
+title: King
+died: 1549
+reignEnd: 1549
 ---
 # King Derik III
 >[!info]+ Biographical Summary

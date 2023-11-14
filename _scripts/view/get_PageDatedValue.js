@@ -2,51 +2,27 @@ function get_PageDatedValue(metadata) {
 
     const { metadataUtils } = customJS
 
-    let defaultStart = "created"
-    let defaultEnd = "destroyed"
-    let defaultEndStatus = "destroyed"
-
-    if (metadata.type == "NPC" || metadata.type == "PC" || metadata.type == "Ruler") {
-        defaultStart = "b.";
-        defaultEnd=  "d.";
-        defaultEndStatus = "died"
-    } else if (metadata.type == "Building") {
-        defaultStart = "built";       
-    } else if (metadata.type == "Item") {
-        defaultStart = "created";      
-    } else if (metadata.type == "Place") {
-        defaultStart = "founded";       
-    }
-
-    startPrefix = metadata.startPrefix ? metadata.startPrefix : defaultStart
-    endPrefix = metadata.endPrefix ? metadata.endPrefix : defaultEnd
-    endStatus = metadata.endStatus ? metadata.endStatus : defaultEndStatus
-
     currentYear = metadataUtils.get_pageEventsDate(metadata, false);
-    yearStart = metadataUtils.get_existEventsDate(metadata, false)
-    yearEnd = metadataUtils.get_endEventsDate(metadata, true)
+    pageExistenceData = metadataUtils.get_pageExistenceData(metadata, false)        
 
-    if (!yearStart) {
-        if (!yearEnd) return "";
-        if (yearEnd.sort > current.sort) return "";
-        return endStatus + " " + yearEnd.display;
-    } 
-
-    // we have a year start
-    let age = metadataUtils.get_Age(currentYear, yearStart)
-
-    if (yearStart.sort > currentYear.sort) return "**(doesn't yet exist)**";
-
-    // no end
-    if (!yearEnd) {
-        return startPrefix + " " + yearStart.display + " (" + age + " years old)";
+    if (!pageExistenceData.isCreated) return "**(doesn't yet exist)**";
+    
+    if (!pageExistenceData.isAlive) {
+        if (pageExistenceData.age) {
+            return pageExistenceData.startDescriptor[0] + ". " + pageExistenceData.startDate.display + " - " + pageExistenceData.endDescriptor[0] + ". " + pageExistenceData.endDate.display +  ", " + pageExistenceData.endDescriptor + " at " + (pageExistenceData.age) + " years old"
+        }
+        else {
+            return pageExistenceData.endDescriptor + " " + yearEnd.display;
+        }
     }
-
-    // we have both
-    if (yearStart.sort > yearEnd.sort) return "**(timetraveler, check your YAML)**";
-    if (yearEnd.sort > current.sort)  return startPrefix + " " + yearStart.display + " (" + age + " years old)";
-
-    return startPrefix + " " + yearStart.display + " - " + endPrefix + " " + yearEnd.display +  ", " + endStatus + " at " + (age) + " years old"
+    else if (pageExistenceData.age) {
+        // we are alive with a start date
+        return pageExistenceData.startDescriptor + " " + pageExistenceData.startDate.display + " (" + pageExistenceData.age + " years old)";
+    }
+    else {
+        // alive with no start date
+        return "";
+    }  
 }
 
 return get_PageDatedValue(dv.current())

@@ -1,7 +1,15 @@
 ---
-tags: event-source
+tags:
+  - event-source
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: The Exile of Fraternity of the Empty Moon
 DR: 1625-04-11
-DR-end: 1625-08-14
+DR_end: 1625-08-14
 ---
 # The Exile of the Fraternity of the Empty Moon
 

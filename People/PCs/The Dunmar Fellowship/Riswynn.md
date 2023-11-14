@@ -1,19 +1,14 @@
 ---
-type: PC
+tags: [status/stub, pc, person, pc/dunmarfrontier]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Riswynn
+born:
 species: dwarf
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/DunmarFrontier, stub]
-campaign: "The Dunmar Fellowship"
-player: "Kate Sackton"
-yearOverride: 
+player: Kate Sackton
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Riswynn
 

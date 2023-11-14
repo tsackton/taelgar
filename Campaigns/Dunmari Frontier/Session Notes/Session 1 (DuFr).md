@@ -1,11 +1,12 @@
 ---
-tags: [DuFr]
-sessionNumber:  1
-realWorldDate: 05 29 2020
-sessionStartDate: 1748 03 22
-sessionStartTime: morning
-sessionEndDate: 1748 03 23
-sessionEndTime: evening
+tags: [dufr]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Session 1 (DuFr)
+sessionNumber: 1
+realWorldDate: 2020-05-29
+DR: 1748-03-22
+DR_end: 1748-03-23
 ---
 # Session 1
 

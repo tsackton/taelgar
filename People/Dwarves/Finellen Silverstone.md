@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Finellen Silverstone
+born:
 species: dwarf
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Darba", region: Western Dunmar, type: home }
+- {type: home, start: , end: '', location: 'Darba, Western Dunmar'}
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Summary

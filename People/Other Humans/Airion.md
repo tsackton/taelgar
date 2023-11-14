@@ -1,15 +1,13 @@
 ---
-type: NPC
-species: human
+tags: [historical, person, dufr/unaware, grli/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Airion
 born:
+species: human
 ancestry:
 gender: male
 died: 1545
-family:
-title:
-affiliations:
-name: Airion
-tags: [NPC/historical, NPC/DuFr/unaware, NPC/GrLi/major]
 ---
 # Airion
 >[!info]+ Biographical Summary

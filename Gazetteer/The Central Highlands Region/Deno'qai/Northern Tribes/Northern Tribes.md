@@ -1,4 +1,11 @@
-### [[History of the Northern Deno'qai|History]]
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Northern Tribes
+placeType:
+partOf:
+---
 
 The northern forests, north of the Blackwater Fens and inland from the coast, were once home to many Deno'qai, before [[Cha'mutte]] established himself in Pandar. 
 

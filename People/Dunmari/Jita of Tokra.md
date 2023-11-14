@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jita
+born: 1713
 species: human
 ancestry: Dunmari
 gender: female
-born: 1713
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1713-01-01, place: "plains north of Tokra", region: Central Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'plains north of Tokra, Central Dunmar'}
 ---
 # Jita
 >[!info]+ Biographical Summary

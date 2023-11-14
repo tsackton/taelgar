@@ -1,21 +1,12 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Marigold Stonebridge
-species: 
-ancestry: 
-gender: 
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
-yearOverride: 
+born:
+species:
+ancestry:
+gender:
 ---
 ### Marigold Stonebridge
 

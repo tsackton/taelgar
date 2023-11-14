@@ -1,4 +1,10 @@
 ---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Tyrwingha
+placeType:
+partOf: The Western Green Sea Region
 cultureDescriptor: Tyrwinghan
 ---
 # Tyrwingha

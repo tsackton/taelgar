@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [mc/minor, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Hiyasa
 born:
+species: human
 ancestry: Mawaran
 gender: female
-died:
-family:
-title:
-affiliations:
-name: Hiyasa
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Hiyasa
 >[!info]+ Biographical Summary

@@ -1,26 +1,21 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kirian
+born: 1702
 species: human
 ancestry: Dunmari
 gender: male
-born: 1702
-died: 
-affiliations: 
-aliases: []
-title:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
-family:
 whereabouts:
-     - { date: 1702-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Kirian
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Tokra]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A retired Dunmari solider who spent his early twenties riding in the warband of [[Shandan]], a charismatic soldier, traveling in the [[Myraeni Gap]] and elsewhere. Wounded in a skirmish with kobolds in DR 1728, and returned to [[Tokra]]. 
 

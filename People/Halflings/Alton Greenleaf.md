@@ -1,22 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Alton Greenleaf
+born:
 species: halfling
-family: Greenleaf
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
+family: Greenleaf
 ---
 # Alton Greenleaf
 >[!info]+ Basic information

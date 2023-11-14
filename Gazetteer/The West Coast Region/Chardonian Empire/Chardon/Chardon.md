@@ -1,4 +1,11 @@
-# Overview of Chardon
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Chardon
+placeType:
+partOf:
+---
 
 Chardon is a city of many things. It is the capitol and seat of government of the [[Chardonian Empire]]. It is a major center of learning and magic. It is a trade hub and economic powerhouse.
 

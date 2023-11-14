@@ -1,15 +1,12 @@
 ---
-type: NPC
-species:
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Arnold the Miller
 born:
+species:
 ancestry:
 gender:
-died:
-family:
-title:
-affiliations:
-name: Arnold the Miller
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 ### Arnold the Miller
 

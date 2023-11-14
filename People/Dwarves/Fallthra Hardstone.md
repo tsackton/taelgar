@@ -1,25 +1,20 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Fallthra Hardstone
+born:
 species: dwarf
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Fallthra Hardstone
 >[!info]+ Biographical Summary
->dwarf, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Tokra]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Dwarves|dwarf]], she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Matriach of the Hardstone clan; mother to [[Dag Hardstone]]. 

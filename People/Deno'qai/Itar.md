@@ -1,17 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Itar
-species: human
-ancestry: "Deno'qai"
-gender: male
 born: 1716
-died: 
-origin: {place: "Bek'eni village", region: Elderwood}
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+species: human
+ancestry: Deno'qai
+gender: male
+whereabouts:
+- {type: home, start: '', end: '', location: Bek'eni village}
 ---
 # Itar
 >[!info]+ Biographical Summary

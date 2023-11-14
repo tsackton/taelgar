@@ -1,21 +1,12 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Revaka
+born:
 species: hobgoblin
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 ---
 # Revaka
 >[!info]+ Biographical Summary

@@ -1,35 +1,30 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-27, type: met}
 name: Havdar
+born: 1724
 species: human
 ancestry: Dunmari
 gender: male
-born: 1724
-died: 
-affiliations: ["Havdar's Warband"]
-title:
-family:
-aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/major, status/uptodate]
-yearOverride: 
-lastSeenByParty: 
-  - { date: 1748-12-26, prefix: DuFr } #scrying in session 76
+affiliations: [Havdar's Warband]
 whereabouts:
-  - { date: 1725-01-01, place: "Karawa", region: Eastern Dunmar, type: origin}
-  - { date: 1725-01-02, place: "Plains around Karawa", region: Eastern Dunmar, type: home}
-  - { date: 1748-11-23, place: "Sura's army camp", region: Central Dunmar, type: excursion }
-  - { date: 1748-12-14, place: "Tokra", region: Central Dunmar, type: excursion }
-  - { date: 1748-12-19, place: "Plains between Tokra and Songara", region: Central Dunmar, type: excursion }
-  - { date: 1748-12-27, place: "Songara", region: Central Dunmar, type: excursion }
+- {type: home, start: !!null '', end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: home, start: !!null '', end: '', location: Eastern Dunmar}
+- {type: away, start: 1748-11-23, end: '', location: 'Sura''s army camp, Central Dunmar'}
+- {type: away, start: 1748-12-14, end: '', location: 'Tokra, Central Dunmar'}
+- {type: away, start: 1748-12-19, end: '', location: 'Plains between Tokra and Songara, Central Dunmar'}
+- {type: away, start: 1748-12-27, end: '', location: 'Songara, Central Dunmar'}
 ---
+
 # Havdar
 >[!info]+ Biographical Summary
 >[[Humans|human]] (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Karawa]], [[Eastern Dunmar]]
->> Based in: Plains around [[Karawa]], [[Eastern Dunmar]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 26th, 1748: Plains between [[Tokra]] and [[Songara]], [[Central Dunmar]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>>%%^Campaign:DuFr%% Last seen by [[The Dunmar Fellowship|The Side Quests]] at December 27th, 1748: [[Songara]], [[Central Dunmar]] %%^End%%
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Havdar, a brash and confident warrior, made a name for himself as a war leader in [[eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people. 
 ## Overview

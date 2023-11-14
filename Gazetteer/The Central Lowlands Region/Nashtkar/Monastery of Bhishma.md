@@ -1,7 +1,10 @@
 ---
-type: Building
-built:
-destroyed:
+tags: [place, place/building]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
+placeType:
+partOf:
 ---
 # The Monastery of [[Bhishma]]
 

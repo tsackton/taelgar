@@ -1,20 +1,17 @@
 ---
-type: NPC
+tags: [historical, person, dufr/major, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Apollyon
-title: Emperor
+born:
 species: undead
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-affiliations: 
-tags: [NPC/historical, NPC/DuFr/aware, NPC/DuFr/major]
-family:
-yearOverride: 
 aliases: [Emperor Apollyon, Apollyon]
+title: Emperor
 whereabouts:
-     - { date: 0001-01-01, place: "Drankor", region: Drankorian Empire, type: origin }
-     - { date: 0001-01-02, place: "unknown", region: "unknown", type: home}
+- {type: home, start: "", end: '', location: 'Drankor, Drankorian Empire'}
+- {type: home, start: "", end: '', location: 'unknown'}
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Summary

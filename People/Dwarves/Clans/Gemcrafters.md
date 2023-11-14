@@ -1,6 +1,8 @@
 ---
-type: Organization
 tags: [organization/family]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
+name:
 ---
 # The Gemcrafters
 *in dwarvish, Barzinduk*

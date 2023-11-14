@@ -1,3 +1,6 @@
+---
+tags: [session-note]
+---
 # Session 78
 *in which the party gathering information*
 
@@ -41,7 +44,7 @@ Delios also speaks briefly of [[Emperor Apollyon|Apollyon]]'s imprisonment. He s
 
 Finally, [[Seeker]] asks after his brother, [[Frankar]], trading the [[Floating Disc Coin]] for information about whether he is alive, and if so where he is, and how he got there. Delios says that the guild is aware he is alive, but further time will be necessary before he can say for sure where [[Frankar]] might be now. 
 
-After this conversation, the party departs the guildhall, and returns to the ship to be ready to host [[Melindir]] and [[Elwis]] for dinner. [[Elwis]] is a painter from [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]], and is in town to learn more about the magic inks used in tattoos here, after traveling around [[Green Sea]] for the past several years. She speaks with [[Delwath]] about [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]], talking of the beauty of the forest, the grandeur of the ancient city of Erelion, and the ancient feeling as if it were still the days of creation when Aldanor walked the earth. 
+After this conversation, the party departs the guildhall, and returns to the ship to be ready to host [[Melindir]] and [[Elwis]] for dinner. [[Elwis]] is a painter from [[Orenlas]], and is in town to learn more about the magic inks used in tattoos here, after traveling around [[Green Sea]] for the past several years. She speaks with [[Delwath]] about [[Orenlas]], talking of the beauty of the forest, the grandeur of the ancient city of Erelion, and the ancient feeling as if it were still the days of creation when Aldanor walked the earth. 
 
 The next morning, [[Faldrak Bronzehammer]] arrives, ready to leave. He has traded for information about the Edge of Echoes from the [[Ancient and Honorable Guild of Philosophers]]. He has learned that is in central [[Cymea]], on the Freccilia (FREH-chee-lah) River, just upstream from its confluence with the Ampogio (ahm-POH-joh) River. Now, it is claimed by the locals simply to be a haunted cave system, but long ago it was a Drankorian forge, where the power of the elemental planes that leaks through here was harnessed to create magic. Faldrak, armed with this information, has packed his stuff already, assuming that the party will set out immediately. 
 

@@ -1,4 +1,11 @@
-### The Red Lily Inn
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Red Lily Inn
+placeType:
+partOf:
+---
 
 A halfling inn, also on the west side of town, just inside the walls, near the western gate. Run by [[Wes Strongbones]] and his twin sons Tye and Cade. 
 

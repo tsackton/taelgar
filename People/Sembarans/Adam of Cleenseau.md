@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Adam of Cleenseau
 born: 1691
+species: human
 ancestry: Sembaran
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Adam of Cleenseau
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Adam of Cleenseau
 >[!info]+ Biographical Summary

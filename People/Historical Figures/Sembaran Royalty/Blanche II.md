@@ -1,17 +1,14 @@
 ---
-type: Ruler
-species: human
+tags: [historical, person/ruler, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Blanche II
 born: 1564
+species: human
 ancestry: Sembaran
 gender: female
-died: 1601
-family:
-title:
-affiliations:
 reignStart:
-reignEnd:
-name: Blanche II
-tags: [NPC/historical, NPC/DuFr/unaware]
+died: 1601
 ---
 # Blanche II
 >[!info]+ Biographical Summary

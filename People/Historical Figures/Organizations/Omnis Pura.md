@@ -1,7 +1,8 @@
 ---
-type: Organization
-tags:
-  - organization/unsorted
+tags: [status/stub, organization]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
+name:
 ---
 # Omnis Pura
 

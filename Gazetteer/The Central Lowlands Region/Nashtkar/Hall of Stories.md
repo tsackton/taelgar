@@ -1,4 +1,11 @@
-# The Hall of Stories
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Hall of Stories
+placeType:
+partOf:
+---
 
 A building in the [[Monastery of Bhishma]] that houses the stories of the Dunmari. 
 

@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [clee/unaware, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Izoko
-species: lizardfolk
-ancestry: 
-gender: male
 born: 1688
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
-yearOverride: 
+species: lizardfolk
+ancestry:
+gender: male
 whereabouts:
-     - { date: 1688-01-02, place: "Ganboa", region: Semabara, type: home }  
+- {type: home, start: 1688-01-02, end: '', location: 'Ganboa, Semabara'}
 ---
 # Izoko
 >[!info]+ Biographical Summary

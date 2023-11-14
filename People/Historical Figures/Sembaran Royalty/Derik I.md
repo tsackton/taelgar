@@ -1,17 +1,15 @@
 ---
-type: Ruler
-affiliations:
-reignStart: 1428
-reignEnd: 1462
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Derik I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-title:
-family:
-died: 1462
-gender: male
-ancestry: Sembaran
 born: 1396
 species: human
+ancestry: Sembaran
+gender: male
+reignStart: 1428
+died: 1462
+reignEnd: 1462
 ---
 # Derik I
 >[!info]+ Biographical Summary

@@ -1,17 +1,14 @@
 ---
-type: Ruler
-affiliations:
-reignStart:
-reignEnd:
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Reginald
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-title:
-family:
-died: 1550
-gender: male
-ancestry: Sembaran
 born: 1506
 species: human
+ancestry: Sembaran
+gender: male
+reignStart:
+died: 1550
 ---
 # Reginald
 >[!info]+ Biographical Summary

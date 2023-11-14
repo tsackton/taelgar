@@ -1,33 +1,18 @@
 ---
-type: NPC
+tags: [event-source, person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1749-12-10, type: met}
 name: Murook
-species: orc
-ancestry: 
-gender: female
 born: 1716
-died: 
+species: orc
+ancestry:
+gender: female
 title: General
-family: 
-affiliations:
-  - Hezguli
-  - The People of the Rainbow
-aliases: 
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-  - event-source
-lastSeenByParty:
-  - date: 1749-12-10
-    prefix: DuFr
+affiliations: [Hezguli, The People of the Rainbow]
 whereabouts:
-  - date: 1716-01-01
-    place: Plaguelands
-    region: Central Lowlands
-    type: origin
-  - date: 1725-01-01
-    place: Xurkhaz
-    region: Central Lowlands
-    type: home
+- {type: home, start: '', end: '', location: 'Plaguelands, Central Lowlands'}
+- {type: home, start: 1725-01-01, end: '', location: 'Xurkhaz, Central Lowlands'}
 ---
 # General Murook
 >[!info]+ Biographical Summary

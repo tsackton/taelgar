@@ -1,26 +1,16 @@
 ---
-type: NPC
+tags: [dufr/background, status/uptodate, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Gorkil
-species: orc
-ancestry: 
-gender: male
 born: 1729
+species: orc
+ancestry:
+gender: male
 died: 1748
-affiliations:
-  - Grash's Horde
-aliases: []
-title: 
-family: 
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-  - status/uptodate
-yearOverride: 
+affiliations: [Grash's Horde]
 whereabouts:
-  - date: 1729-01-02
-    place: Kharsan
-    region: Nashtkar
-    type: home
+- {type: home, start: 1729-01-02, end: '', location: 'Kharsan, Nashtkar'}
 ---
 # Gorkil
 >[!info]+ Biographical Summary

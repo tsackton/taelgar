@@ -1,19 +1,16 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Wella Brightmoon
-species: halfling
-ancestry: 
-gender: female
 born: 1639
-died: 
-affiliations: ["Brightmoons"]
+species: halfling
+ancestry:
+gender: female
 aliases: [Wella]
-title:
-family:
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
-yearOverride: 
+affiliations: [Brightmoons]
 whereabouts:
-     - { date: 1639-01-02, place: "unknown", region: Eastern Green Sea, type: home }
+- {type: home, start: 1639-01-02, end: '', location: 'unknown, Eastern Green Sea'}
 ---
 # Wella Brightmoon
 >[!info]+ Biographical Summary

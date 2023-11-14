@@ -1,18 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Rosalind Essford
+born: 1677
 species: human
 ancestry: Sembaran
 gender: female
-title: Lady
-born: 1677
-died: 
-affiliations: 
 aliases: [Lady Essford, Lady Rosalind Essford]
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
-family:
+title: Lady
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home }    
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Lady Rosalind Essford
 >[!info]+ Biographical Summary

@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: merfolk
+tags: [mc/minor, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Illius
 born:
+species: merfolk
 ancestry:
 gender: nonbinary
-died:
-family:
-title:
-affiliations:
-name: Illius
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Illius
 >[!info]+ Biographical Summary

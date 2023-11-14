@@ -1,16 +1,13 @@
 ---
-type: PC
-species:
+tags: [status/stub, pc, person, pc/unsorted]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Izar
 born:
+species:
 ancestry:
 gender:
-died:
-origin:
-originRegion:
-affiliations:
 player:
-campaign:
-name: Izar
-tags: [PC/unsorted, stub]
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 

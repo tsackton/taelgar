@@ -1,15 +1,12 @@
 ---
-type: NPC
-species:
+tags: [mc/met, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Reliah
 born:
+species:
 ancestry:
 gender: female
-died:
-family:
-title:
-affiliations:
-name: Reliah
-tags: [NPC/DuFr/unaware, NPC/MC/met]
 ---
 # Reliah
 >[!info]+ Biographical Summary

@@ -1,17 +1,15 @@
 ---
-type: Ruler
-affiliations:
-reignStart:
-reignEnd:
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Morgaine
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-title:
-family: House of Lils
-died: 1713
-gender: female
-ancestry: Tyrwinghan
 born: 1600
 species: human
+ancestry: Tyrwinghan
+gender: female
+reignStart:
+died: 1713
+family: House of Lils
 ---
 # Morgaine
 >[!info]+ Biographical Summary

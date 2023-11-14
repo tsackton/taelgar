@@ -1,25 +1,21 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-07-15, type: met}
 name: Garret Tealeaf
-species: halfling
-ancestry: 
-gender: male
 born: 1656
-died: 
-affiliations: 
-tags: [NPC/DuFr/met, NPC/DuFr/major]
-title:
-family: Tealeaf
-yearOverride: 
-lastSeenByParty: 
-- { date: 1748-07-15, prefix: DuFr }
+species: halfling
+ancestry:
+gender: male
 aliases: [Garret]
+family: Tealeaf
 whereabouts:
-  - { date: 1737-01-01, place: "Agata's lair", region: Garamjala Desert, type: excursion }
-  - { date: 1748-06-08, place: "Karawa", region: Eastern Dunmar, type: excursion }
-  - { date: 1748-06-08, place: "Karawa", region: Eastern Dunmar, type: excursion }
-  - { date: 1748-06-30, place: "Tokra", region: Central Dunmar, type: excursion } 
-###secret[1]
+- {type: away, start: 1737-01-01, end: '', location: 'Agata''s lair, Garamjala Desert'}
+- {type: away, start: 1748-06-08, end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1748-06-08, end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1748-06-30, end: '', location: 'Tokra, Central Dunmar'}
+- {type: away, start: 1748-08-13, end: '', location: 'Darba, Western Dunmar'}
 ---
 # Garret Tealeaf
 >[!info]+ Biographical Summary
@@ -28,4 +24,4 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at July 15th, 1748: [[Tokra]], [[Central Dunmar]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-%%SECRET[2]%%
+%%SECRET[1]%%

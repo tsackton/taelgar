@@ -1,21 +1,12 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kaya
+born:
 species: human
 ancestry: Dunmari
 gender: female
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 ---
 ### Kaya
 (she/her)

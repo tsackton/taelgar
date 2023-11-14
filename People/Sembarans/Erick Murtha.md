@@ -1,17 +1,15 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Erick Murtha
 born: 1671
+species: human
 ancestry: Sembaran
 gender: male
-died:
-family:
 title: Lord
-affiliations:
-name: Erick Murtha
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: 1671-01-02, place: "Beury, Aveil", region: Sembara, type: home}
+- {type: home, start: 1671-01-02, end: '', location: 'Beury, Aveil, Sembara'}
 ---
 # Lord Erick Murtha
 >[!info]+ Biographical Summary

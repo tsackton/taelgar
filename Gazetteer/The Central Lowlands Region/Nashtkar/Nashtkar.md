@@ -1,4 +1,11 @@
-# Nashtkar, the Blasted Plains
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Nashtkar
+placeType:
+partOf:
+---
 
 The Dunmari name for the desolation east of [[Karawa]], the ruined land cursed by [[Cha'mutte]]'s death. 
 

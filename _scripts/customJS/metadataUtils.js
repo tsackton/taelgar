@@ -1,4 +1,130 @@
+
+
+
 class metadataUtils {
+
+    privatehelper_getAge(older, younger) {
+
+        if (older == undefined || younger == undefined) return undefined;
+    
+        let jsOlder = older.jsDate ?? older
+        let jsYounger = younger.jsDate ?? younger
+        var yearsDiff = jsOlder.getFullYear() - jsYounger.getFullYear();
+    
+        if (jsYounger.getMonth() > jsOlder.getMonth()) return yearsDiff - 1;
+        else if (jsYounger.getMonth() == jsOlder.getMonth() && jsYounger.getDate() > jsOlder.getDate()) return yearsDiff - 1;
+    
+        return yearsDiff;
+    }    
+
+
+    inLocation(targetLocation, metadata, targetDate) {
+        if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
+
+        let current = this.get_currentWhereabouts(metadata, targetDate);
+        if (current == undefined) return false;
+        if (current.location == undefined || current.location == "Unknown") return false;
+
+        let found = this.locationSearch(current.location, targetLocation)
+
+        return found;
+
+    }
+
+    homeLocation(targetLocation, metadata, targetDate, includeDead) {
+
+        if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
+
+        if (includeDead || this.isPageAlive(metadata, targetDate)) {
+
+            let home = this.get_homeWhereabouts(metadata, targetDate);
+            if (home == undefined) return false;
+            if (home.location == undefined || home.location == "Unknown") return false;
+
+            let found = this.locationSearch(home.location, targetLocation)
+
+            return found;
+        }
+
+        return false;
+    }
+
+    fromLocation(targetLocation, metadata, targetDate) {
+        if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
+
+        let origin = this.get_originWhereabouts(metadata, targetDate);
+        if (origin == undefined) return false;
+        if (origin.location == undefined || origin.location == "Unknown") return false;
+
+        let found = this.locationSearch(origin.location, targetLocation)
+
+        return found;
+
+    }
+
+    locationSearch(startingLocation, targetLocation) {
+        if (startingLocation == targetLocation) return true;
+
+        if (startingLocation.indexOf(",") == -1) {
+            // we have a single string
+            let file = window.app.vault.getFiles().find(f => f.basename == startingLocation);
+            if (file) {
+                let fm = window.app.metadataCache.getFileCache(file).frontmatter
+                if (fm && fm.parentLocation) {
+                    if (fm.parentLocation == targetLocation) return true;
+                    return this.locationSearch(fm.parentLocation, targetLocation)
+                }
+
+                return false;
+            }
+        } else {
+            return startingLocation.contains(targetLocation)
+        }
+    }
+
+    get_Name(input, link) {
+        // we have two possible inputs - a templater "tp" object or a dataview "file" object - both use frontmatter for yaml
+
+        let fileName = input.file ? input.file.title : input.name;
+
+        if (fileName == undefined) return fileName;
+
+        let descriptiveName = fileName;
+
+        if (input.frontmatter && input.frontmatter.name) {
+            if (input.frontmatter.title) {
+                descriptiveName = input.frontmatter.title + " " + input.frontmatter.name
+            }
+            else if (input.frontmatter.name) {
+                descriptiveName = input.frontmatter.name
+            }
+        }
+
+        if (!link) return descriptiveName;
+        else if (descriptiveName == fileName) return "[[" + descriptiveName + "]]"
+        else return "[[" + fileName + "|" + descriptiveName + "]]"
+    }
+
+    async get_party_name_for_party(prefix) {
+
+        const metadataFilePath = app.vault.configDir + "/metadata.json";
+
+        let metadataFile = await app.vault.adapter.read(metadataFilePath);
+        let metadata = JSON.parse(metadataFile);
+
+
+        let partyName = undefined;
+        let campaignData = metadata.campaigns;
+        if (campaignData) {
+            let thisCampaign = campaignData.find(search => search.prefix == prefix);
+            if (thisCampaign) {
+                partyName = thisCampaign.partyName;
+                if (thisCampaign.partyFile) partyName = "[[" + thisCampaign.partyFile + "|" + partyName + "]]"
+            }
+        }
+
+        return partyName;
+    }
 
     parse_date_to_events_date(inputDate, isEnd) {
         function daysInMonth(dm, dy) {
@@ -77,18 +203,31 @@ class metadataUtils {
     }
 
     get_Location(place) {
-        function get_LocationFromPieces(singleLoc) {
-
-
+        function get_LocationFromPieces(singleLoc, depth) {
             if (singleLoc == undefined) return "Unknown"
             if (singleLoc == "") return "Unknown"
             if (typeof singleLoc === 'string' || singleLoc instanceof String) {
 
+                if (singleLoc.indexOf(",") == -1) {
+                    // we have a single string
+                    let file = window.app.vault.getFiles().find(f => f.basename == singleLoc);
+                    if (file) {
+                        let fm = window.app.metadataCache.getFileCache(file).frontmatter
+                        if (fm && fm.parentLocation && depth < 2) {
+                            let parent = get_LocationFromPieces(fm.parentLocation, depth + 1)
+                            return "[[" + singleLoc + "]], " + parent
+                        }
+
+                        return "[[" + singleLoc + "]]"
+                    }
+                }
+
                 let locArrayValues = singleLoc.split(",").map(function (f) {
                     let pieceValue = f.trim();
-
                     let file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
-                    if (file != undefined) { return "[[" + pieceValue + "]]"; }
+                    if (file != undefined) {
+                        return "[[" + pieceValue + "]]";
+                    }
                     return pieceValue;
                 });
 
@@ -100,53 +239,111 @@ class metadataUtils {
 
 
         if (place == undefined) return "";
-        if (place.region && !place.place) return get_LocationFromPieces(place.region)
-        if (!place.region && place.place) return get_LocationFromPieces(place.place)
-        if (place.region && place.place) return get_LocationFromPieces(place.place + "," + place.region)
-        if (place.location) return get_LocationFromPieces(place.location)
+        if (place.region && !place.place) return get_LocationFromPieces(place.region, 0)
+        if (!place.region && place.place) return get_LocationFromPieces(place.place, 0)
+        if (place.region && place.place) return get_LocationFromPieces(place.place + ", " + place.region, 0)
+        if (place.location) return get_LocationFromPieces(place.location, 0)
 
-        return get_LocationFromPieces(place)
+        return get_LocationFromPieces(place, 0)
     }
 
-
     get_pageEventsDate(metadata) {
-
-        if (metadata.pageTargetDate) {
+        if (metadata && metadata.pageTargetDate) {
             return this.parse_date_to_events_date(metadata.pageTargetDate, false);
         }
-
         return this.parse_date_to_events_date(window.FantasyCalendarAPI.getCalendars()[0].current, false);
     }
 
-    get_Age(older, younger) {
 
-        let jsOlder = older.jsDate ?? older
-        let jsYounger = younger.jsDate ?? younger
-        var yearsDiff = jsOlder.getFullYear() - jsYounger.getFullYear();
+    get_regnalData(metadata, targetDate) {
+        if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
+        let status = { isStarted: undefined, isCurrent: undefined, startDate: undefined, endDate: undefined, length: undefined }
 
-        if (jsYounger.getMonth() > jsOlder.getMonth()) return yearsDiff - 1;
-        else if (jsYounger.getMonth() == jsOlder.getMonth() && jsYounger.getDate() > jsOlder.getDate()) return yearsDiff - 1;
+        status.endDate = this.parse_date_to_events_date(metadata.reignEnd, true) ?? this.parse_date_to_events_date(metadata.died, true);
+        status.startDate = this.parse_date_to_events_date(metadata.reignStart, false)
+        status.isStarted = status.startDate && status.startDate.sort >= targetDate.sort
+        status.isCurrent = status.isStarted && (status.endDate == undefined || targetDate.sort < status.endDate.sort)
 
-        return yearsDiff;
-    }
-
-    get_existEventsDate(metadata) {
-
-        if (metadata.type == "Ruler" || metadata.type == "NPC" || metadata.type == "PC") {
-            if (!metadata.born) return undefined;
-            return this.parse_date_to_events_date(metadata.born, false);
+        if (status.startDate) {
+            if (status.isCurrent) {
+                status.length = this.privatehelper_getAge(targetDate, status.startDate)
+            }
+            else if (status.endDate) {
+                status.length = this.privatehelper_getAge(status.endDate, status.startDate)
+            }
         }
 
-        return this.parse_date_to_events_date(metadata.created, false);
+        return status;
     }
 
-    get_endEventsDate(metadata) {
-        if (metadata.type == "Ruler" || metadata.type == "NPC" || metadata.type == "PC") {
-            if (!metadata.died) return undefined;
-            return this.parse_date_to_events_date(metadata.died, true);
+    isReignCurrent(metadata, targetDate) {
+        return this.get_regnalData(metadata, targetDate).isCurrent
+    }
+
+    isReignStarted(metadata, targetDate) {
+        return this.get_regnalData(metadata, targetDate).isStarted
+    }
+
+    isPageCreated(metadata, targetDate) {
+        return this.get_pageExistenceData(metadata, targetDate).isCreated
+    }
+
+    isPageAlive(metadata, targetDate) {
+        return this.get_pageExistenceData(metadata, targetDate).isAlive
+    }
+
+    get_pageExistenceData(metadata, targetDate) {
+        if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
+
+        let status = {
+            startDate: undefined,
+            startDescriptor: undefined,
+            endDate: undefined,
+            endDescriptor: undefined,
+            isCreated: true,
+            isAlive: true,
+            age: undefined
         }
 
-        return this.parse_date_to_events_date(metadata.destroyed, true);
+        status.startDescriptor = metadata.startDescriptor
+        status.endDescriptor = metadata.endDescriptor
+
+        if (metadata.born) {
+            status.startDate = this.parse_date_to_events_date(metadata.born, false);
+            if (!status.startDescriptor) status.startDescriptor = "born";
+        } else if (metadata.created) {
+            status.startDate = this.parse_date_to_events_date(metadata.created, false);
+            if (!status.startDescriptor) status.startDescriptor = "created";
+        }
+
+        if (metadata.died) {
+            status.endDate = this.parse_date_to_events_date(metadata.died, true);
+            if (!status.endDescriptor) status.endDescriptor = "died";
+        } else if (metadata.destroyed) {
+            status.endDate = this.parse_date_to_events_date(metadata.destroyed, true);
+            if (!status.endDescriptor) status.endDescriptor = "destroyed";
+        }
+
+        if (status.startDate) {
+            status.isCreated = status.startDate.sort < targetDate.sort;
+        }
+
+        if (status.endDate) {
+            status.isAlive = status.endDate.sort >= targetDate.sort;
+        } else {
+            status.isAlive = status.isCreated
+        }
+
+        if (status.startDate) {
+            if (status.isAlive) {
+                status.age = this.privatehelper_getAge(targetDate, status.startDate)
+            }
+            else if (status.endDate) {
+                status.age = this.privatehelper_getAge(status.endDate, status.startDate)
+            }
+        }
+
+        return status;
     }
 
     parseWhereabouts_to_datedWhereabouts(whereaboutItem) {
@@ -162,7 +359,7 @@ class metadataUtils {
             }
             if (whereaboutItem.region) {
                 if (locToUse) {
-                    locToUse = locToUse + "," + whereaboutItem.region;
+                    locToUse = locToUse + ", " + whereaboutItem.region;
                 }
                 else {
                     locToUse = whereaboutItem.region;
@@ -171,8 +368,6 @@ class metadataUtils {
 
             whereaboutItem.location = locToUse;
         }
-
-        console.log(jsDateMin)
 
         return {
             item: whereaboutItem,
@@ -186,11 +381,19 @@ class metadataUtils {
     }
 
     get_currentWhereabouts(metadata, targetDate) {
+        if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
+
+        let pageExistDate = this.get_pageExistenceData(metadata, targetDate)
+
+        if (!pageExistDate.isAlive) return undefined;
+
         let exactKnown = this.get_exactWhereabouts(metadata, targetDate)
         let home = this.get_homeWhereabouts(metadata, targetDate)
         let lastKnown = this.get_lastKnownWhereabouts(metadata, targetDate)
 
-        if (exactKnown) return exactKnown;
+        if (exactKnown)
+            return exactKnown;
+
         if (home && lastKnown) {
             let lastKnownEnd = this.parse_date_to_events_date(lastKnown.end)
             if (lastKnownEnd) {
@@ -207,6 +410,8 @@ class metadataUtils {
     }
 
     get_lastKnownWhereabouts(metadata, targetDate) {
+        if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
+
         function filter_lastKnown(f) {
             if (f.type == "away") {
                 return (f.startDate != undefined && f.startDate.sort <= targetDate.sort)
@@ -217,19 +422,25 @@ class metadataUtils {
 
             return false;
         }
-        let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f))
-            .filter(filter_lastKnown)
-            .toSorted((a, b) => a.normalizedStart.jsDate - b.normalizedStart.jsDate);
+        if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
+            let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f))
+                .filter(filter_lastKnown)
+                .toSorted((a, b) => a.normalizedStart.jsDate - b.normalizedStart.jsDate);
 
-        for (let i of allowedWhereabouts) console.log(i)
-        if (allowedWhereabouts.length > 0) return allowedWhereabouts.last().item;
+            if (allowedWhereabouts.length > 0) return allowedWhereabouts.last().item;
+        }
         return undefined;
     }
 
-    get_originWhereabouts(metadata) {
-        let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f)).filter(f => f.type == "home" && f.startDate == undefined);
+    get_originWhereabouts(metadata, targetDate) {
 
-        if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
+        if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
+
+            if (!this.isPageCreated(metadata, targetDate)) return undefined;
+
+            let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f)).filter(f => f.type == "home" && f.startDate == undefined);
+            if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
+        }
         return undefined;
     }
 
@@ -266,34 +477,47 @@ class metadataUtils {
             return 0;
         }
 
-        let allowedWhereabouts = metadata.whereabouts.map((f, index) => [index, this.parseWhereabouts_to_datedWhereabouts(f)]).filter(f => f[1].type == "home"
-            && (f[1].startDate == undefined || f[1].startDate.sort <= targetDate.sort)
-            && (f[1].endDate == undefined || (f[1].endDate && f[1].endDate.sort >= targetDate.sort)))
-            .toSorted(sort_date)
+        if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
+            if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
 
-        let hasOtherHomes = metadata.whereabouts.filter(f => f.type == "home").length > 1;
+            let pageExistData = this.get_pageExistenceData(metadata, targetDate)
 
-        if (allowedWhereabouts.length == 0) return undefined;
+            // if the person doesn't yet exist, they don't have a home
+            if (!pageExistData.isCreated) return undefined;
 
-        let homePoss = allowedWhereabouts.first()[1];
+            let allowedWhereabouts = metadata.whereabouts.map((f, index) => [index, this.parseWhereabouts_to_datedWhereabouts(f)]).filter(f => f[1].type == "home"
+                && (f[1].startDate == undefined || f[1].startDate.sort <= targetDate.sort)
+                && (f[1].endDate == undefined || (f[1].endDate && f[1].endDate.sort >= targetDate.sort)))
+                .toSorted(sort_date)
 
-        if (hasOtherHomes && allowedWhereabouts.length == 1 && !homePoss.startDate && !homePoss.endDate)
-            return undefined;
+            let hasOtherHomes = metadata.whereabouts.filter(f => f.type == "home").length > 1;
 
-        if (!homePoss.item.location)
-            return undefined;
+            if (allowedWhereabouts.length == 0) return undefined;
 
-        return homePoss.item;
+            let homePoss = allowedWhereabouts.first()[1];
+
+            if (hasOtherHomes && allowedWhereabouts.length == 1 && !homePoss.startDate && !homePoss.endDate)
+                return undefined;
+
+            if (!homePoss.item.location)
+                return undefined;
+
+            return homePoss.item;
+        }
+        return undefined;
     }
 
     get_exactWhereabouts(metadata, targetDate) {
-        let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f)).filter(f => f.type == "away"
-            && f.startDate
-            && f.startDate.sort <= targetDate.sort
-            && f.logicalEnd.sort >= targetDate.sort).toSorted((a, b) => a.duration - b.duration);
+        if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
+            if (!targetDate) targetDate = this.get_pageEventsDate(metadata)
 
+            let allowedWhereabouts = metadata.whereabouts.map(f => this.parseWhereabouts_to_datedWhereabouts(f)).filter(f => f.type == "away"
+                && f.startDate
+                && f.startDate.sort <= targetDate.sort
+                && f.logicalEnd.sort >= targetDate.sort).toSorted((a, b) => a.duration - b.duration);
 
-        if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
+            if (allowedWhereabouts.length > 0) return allowedWhereabouts.first().item;
+        }
         return undefined;
 
     }

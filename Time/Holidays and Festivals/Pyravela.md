@@ -1,10 +1,10 @@
 ---
-fc-date: 
- day: 29
- month: 12
-fc-end:
- day: 31
- month: 12
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Pyravela
+fc-date: {day: 29, month: 12}
+fc-end: {day: 31, month: 12}
 ---
 
 

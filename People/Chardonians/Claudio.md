@@ -1,31 +1,16 @@
 ---
-type: NPC
+tags: [dufr/background, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Claudio
-species: human
-ancestry: 
-gender: male
 born: 1719
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags:
-  - NPC/DuFr/background
-lastSeenByParty:
+species: human
+ancestry:
+gender: male
 whereabouts:
-  - date: 1719-01-01
-    place: Luminatia
-    region: Chardonian Empire
-    type: origin
-  - date: 1719-01-02
-    place: Luminatia
-    region: Chardonian Empire
-    type: home
-  - date: 1748-03-11
-    place: unknown
-    region: unknown
-    type: excursion
+- {type: home, start: '', end: '', location: 'Luminatia, Chardonian Empire'}
+- {type: home, start: 1719-01-02, end: '', location: 'Luminatia, Chardonian Empire'}
+- {type: away, start: 1748-03-11, end: '', location: 'unknown, unknown'}
 ---
 # Claudio
 >[!info]+ Biographical Summary

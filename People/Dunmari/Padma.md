@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Padma
+born: 1720
 species: human
 ancestry: Dunmari
 gender: female
-born: 1720
-died: 
-affiliations: 
-aliases: []
-title:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
-family:
 whereabouts:
-     - { date: 1720-01-02, place: "caravanserai, Tokra-Darba Road", region: Central Dunmar, type: home  }
+- {type: home, start: 1720-01-02, end: '', location: 'caravanserai, Tokra-Darba Road, Central Dunmar'}
 ---
 # Padma
 >[!info]+ Biographical Summary

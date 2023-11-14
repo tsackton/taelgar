@@ -1,18 +1,15 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Lorin Valbert
 born: 1677
+species: human
 ancestry: Sembaran
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Lorin Valbert
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 whereabouts:
- - { place: Embry, region: Sembara, type: origin }
- - { place: Asineau, region: Sembara, type: home }
+- {type: home, start: '', end: '', location: 'Embry, Sembara'}
+- {type: home, start: '', end: '', location: 'Asineau, Sembara'}
 ---
 # Lorin Valbert
 >[!info]+ Biographical Summary

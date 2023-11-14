@@ -1,52 +1,29 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: 
+- { prefix: dufr, date: 1749-01-16, type: met }
 name: Faldrak Bronzehammer
-species: dwarf
-ancestry: 
-gender: male
 born: 1516
-died: 
-title: 
+species: dwarf
+ancestry:
+gender: male
+aliases: [Faldrak]
 family: Bronzehammer
-affiliations: 
-aliases:
-  - Faldrak
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/major
-lastSeenByParty:
-  - date: 1748-12-30
-    prefix: DuFr
 whereabouts:
-  - date: 1516-01-01
-    place: Fahnukan
-    region: ""
-    type: origin
-  - date: 1516-01-02
-    place: Fahnukan
-    region: ""
-    type: home
-  - date: 1693-01-01
-    place: Feywild
-    region: ""
-    type: excursion
-  - date: 1698-01-01
-    place: Feywild
-    region: ""
-    type: excursion
-  - date: 1727-01-02
-    place: Tollen
-    region: ""
-    type: home
+- {type: home, start: '', end: '', location: Fahnukan}
+- {type: away, start: 1693-01-01, end: '', location: Feywild}
+- {type: away, start: 1698-01-01, end: '', location: Feywild}
+- {type: home, start: 1727-01-02, end: '', location: Tollen}
+- {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
 ---
 # Faldrak Bronzehammer
 >[!info]+ Biographical Summary
->dwarf, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Fahnukan]]
+>[[Dwarves|dwarf]], he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 30th, 1748: [[Tollen]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>>%%^Campaign:DuFr%% Last seen by [[The Dunmar Fellowship|The Side Quests]] at December 30th, 1748: [[Tollen]], [[The Western Green Sea Region]] %%^End%%
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview

@@ -1,21 +1,13 @@
 ---
-type: NPC
+tags: [historical, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Emperor Avatus
+born:
 species: human
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
 aliases: [Avatus]
-tags: [NPC/historical, NPC/DuFr/aware]
-yearOverride: 
 ---
 
 ### Emperor Avatus

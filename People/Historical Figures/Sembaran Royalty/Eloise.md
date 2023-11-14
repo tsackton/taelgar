@@ -1,17 +1,14 @@
 ---
-type: Ruler
-affiliations:
-reignStart:
-reignEnd:
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Eloise
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-title:
-family:
-died: 1562
-gender: female
-ancestry: Sembaran
 born: 1486
 species: human
+ancestry: Sembaran
+gender: female
+reignStart:
+died: 1562
 ---
 # Eloise
 >[!info]+ Biographical Summary

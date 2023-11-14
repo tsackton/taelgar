@@ -1,17 +1,14 @@
 ---
-type: Ruler
-affiliations:
-reignStart: 1582
-reignEnd:
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Elaine I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-title:
-family:
-died: 1592
-gender: female
-ancestry: Sembaran
 born: 1537
 species: human
+ancestry: Sembaran
+gender: female
+reignStart: 1582
+died: 1592
 ---
 # Elaine I
 >[!info]+ Biographical Summary

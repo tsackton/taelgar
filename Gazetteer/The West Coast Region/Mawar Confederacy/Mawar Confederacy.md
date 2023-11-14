@@ -1,4 +1,11 @@
-# The Mawar Confederacy
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Mawar Confederacy
+placeType:
+partOf:
+---
 
 ## Overview
 

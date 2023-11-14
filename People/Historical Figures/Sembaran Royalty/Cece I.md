@@ -1,17 +1,16 @@
 ---
-type: Ruler
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Cece I
 born: 1628
+species: human
 ancestry: Sembaran
 gender: female
+reignStart: 1648
+title: Queen
 died: 1713
 family: House of Sewick
-title: Queen
-affiliations:
-reignStart: 1648 
-reignEnd:
-name: Cece I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Queen Cece I
 >[!info]+ Biographical Summary

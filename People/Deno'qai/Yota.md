@@ -1,17 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Yota
+born:
 species: human
-ancestry: "Deno'qai"
+ancestry: Deno'qai
 gender: male
-born: 
-died: 
-title:
-origin: { place: "Te'kula village", region: Elderwood}
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+whereabouts:
+- {type: home, start: '', end: '', location: Te'kula village}
 ---
 # Yota
 >[!info]+ Biographical Summary

@@ -1,7 +1,14 @@
 ---
-type: Item
-currentOwner: Kenzo
-magical: no
+tags:
+  - item
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: 
+owner: Kenzo
 ---
 # Chardon Fan
 

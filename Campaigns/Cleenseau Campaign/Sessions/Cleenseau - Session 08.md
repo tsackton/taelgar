@@ -1,14 +1,13 @@
 ---
-fc-calendar: Taelgar Calendar
+tags: [session-note, cleenseau-campaign]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau - Session 08
 fc-date: 1720-01-01
 fc-end: 1720-01-06
 fc-category: Cleenseau Campaign
-realDate: 2023-10-22
-tags: [session-note, cleenseau-campaign]
-campaign: Cleenseau
+realWorldDate: 2023-10-22
 sessionNumber: 8
-name: Cleenseau - Session 08
-type: SessionNote
 ---
 # Cleenseau - Session 8
 >_in Taelgar from January 6st - January 7th

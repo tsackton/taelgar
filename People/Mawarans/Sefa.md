@@ -1,15 +1,13 @@
 ---
-type: NPC
-species: human
+tags: [mc/background, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Sefa
 born:
+species: human
 ancestry: Mawaran
 gender: female
 died: 1747
-family:
-title:
-affiliations:
-name: Sefa
-tags: [NPC/MC/background, NPC/DuFr/unaware]
 ---
 # Sefa
 >[!info]+ Biographical Summary

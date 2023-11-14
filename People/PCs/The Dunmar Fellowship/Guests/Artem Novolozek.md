@@ -1,18 +1,23 @@
 ---
-aliases: [Artem]
-tags: [PC/DunmarFrontier, PC/DunmarFrontier/SoloGuest]
+tags:
+  - pc
+  - person
+  - pc/guest
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Artem Novolozek
-campaign:
-player:
+born: 
+species: 
+ancestry: 
+gender: 
+player: 
+aliases:
+  - Artem
 affiliations:
-originRegion:
-origin:
-died:
-gender:
-ancestry:
-born:
-species:
-type: PC
 ---
 ## Artem Novolozek
 (he/him)

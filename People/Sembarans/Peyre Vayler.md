@@ -1,17 +1,14 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Peyre Vayler
 born: 1655
+species: human
 ancestry: Sembaran
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Peyre Vayler
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 whereabouts:
- - { type: home, place: "Evis", region: "Duchy of Maseau" }
+- {type: home, start: '', end: '', location: 'Evis, Duchy of Maseau'}
 ---
 # Peyre Vayler
 >[!info]+ Biographical Summary

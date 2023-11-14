@@ -1,5 +1,12 @@
 ---
-type: NPC
+tags: [person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name:
+born:
+species:
+ancestry:
+gender:
 ---
 (stub)
 

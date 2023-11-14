@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Samuel
 born: 1700
+species: human
 ancestry: Sembaran
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Samuel
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # Samuel
 >[!info]+ Biographical Summary

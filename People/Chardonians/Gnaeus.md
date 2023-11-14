@@ -1,19 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Gnaeus
+born: 1701
 species: human
 ancestry: Chardonian
 gender: male
-born: 1701
-title:
-family:
-died: 
-affiliations: ["University of Chardon", "Sibyl's Hall"]
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+affiliations: [University of Chardon, Sibyl's Hall]
 whereabouts:
-     - { date: 1701-01-01, place: "Arendum", region: Chardonian Empire, type: origin}
-     - { date: 1701-01-02, place: "Chardon", region: Chardonian Empire, type: home}
+- {type: home, start: '', end: '', location: 'Arendum, Chardonian Empire'}
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Gnaeus
 >[!info]+ Biographical Summary

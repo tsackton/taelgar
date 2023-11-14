@@ -1,17 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Obel
-species: human
-ancestry: "Deno'qai"
-gender: male
 born: 1688
-died: 
-title:
-family:
-origin: { place: "Te'kula village", region: Elderwood }
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+species: human
+ancestry: Deno'qai
+gender: male
+whereabouts:
+- {type: home, start: '', end: '', location: Te'kula village}
 ---
 # Obel
 >[!info]+ Biographical Summary

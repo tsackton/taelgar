@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: dragon turtle
+tags: [mc/met, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Chaessenth
 born:
+species: dragon turtle
 ancestry:
 gender:
-died:
-family:
-title:
-affiliations:
-name: Chaessenth
-tags: [NPC/MC/met, NPC/DuFr/unaware]
 ---
 
 Dragon turtle

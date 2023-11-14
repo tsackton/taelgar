@@ -1,25 +1,15 @@
 ---
-subtype: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ames Benthey
+born: 1675
 species: human
 ancestry: Sembaran
 gender: male
-born: 1675
-died: 
-affiliations:
-  - Lord's Guard (Cleenseau)
-aliases: []
-tags:
-  - NPC/Clee/unsorted
-  - NPC/DuFr/unaware
-title: 
-family: 
+affiliations: [Lord's Guard (Cleenseau)]
 whereabouts:
-  - date: 1675-01-01
-    place: Cleenseau
-    region: Sembara
-    type: home
-type: NPC
+- {type: home, start: '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Ames Benthey
 >[!info]+ Biographical Summary

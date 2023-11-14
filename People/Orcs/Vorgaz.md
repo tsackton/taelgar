@@ -1,32 +1,19 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-04, type: met}
 name: Vorgaz
-species: orc
-ancestry: 
-gender: male
 born: 1707
-died: 1748
+species: orc
+ancestry:
+gender: male
 title: Commander
-family: 
-affiliations:
-  - The People of the Rainbow
-aliases: []
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-  - status/uptodate
-lastSeenByParty:
-  - date: 1748-12-04
-    prefix: DuFr
+died: 1748
+affiliations: [The People of the Rainbow]
 whereabouts:
-  - date: 1707-01-01
-    place: Uzgukar
-    region: Xurkhaz
-    type: origin
-  - date: 1741-01-01
-    place: Khumarz
-    region: Xurkhaz
-    type: home
+- {type: home, start: '', end: '', location: 'Uzgukar, Xurkhaz'}
+- {type: home, start: 1741-01-01, end: '', location: 'Khumarz, Xurkhaz'}
 ---
 # Commander Vorgaz
 >[!info]+ Biographical Summary

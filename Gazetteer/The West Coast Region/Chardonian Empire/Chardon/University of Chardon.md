@@ -1,6 +1,10 @@
 ---
-tags:
-  - "#event-source"
+tags: [place, '#event-source']
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The University of Chardon
+placeType:
+partOf: Chardon
 ---
 ### The University of Chardon
 

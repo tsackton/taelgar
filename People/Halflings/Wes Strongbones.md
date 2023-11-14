@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Wes Strongbones
+born:
 species: halfling
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- {type: home, start: , end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Wes Strongbones
 >[!info]+ Biographical Summary

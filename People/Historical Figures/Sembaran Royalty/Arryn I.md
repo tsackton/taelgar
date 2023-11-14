@@ -1,21 +1,14 @@
 ---
-type: Ruler
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Arryn I
 born: 1562
+species: human
 ancestry: Sembaran
 gender: male
-died: 1600
-home:
-homeRegion:
-origin:
-originRegion:
-family:
-affiliations:
-whereabouts:
 reignStart:
-reignEnd:
-name: Arryn I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+died: 1600
 ---
 # Arryn I
 >[!info]+ Biographical Summary

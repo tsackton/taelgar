@@ -1,18 +1,15 @@
 ---
-type: NPC
+tags: [dufr/aware, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Agon
+born: 1694
 species: human
 ancestry: Chardonian
 gender: male
-born: 1694
-died: 
-title:
-family:
-affiliations: ["Society of the Open Scroll"]
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/aware]
+affiliations: [Society of the Open Scroll]
 whereabouts:
-     - { date: 1694-01-02, place: "Chardon", region: Chardonian Empire, type: home}
+- {type: home, start: 1694-01-02, end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Agon
 >[!info]+ Biographical Summary

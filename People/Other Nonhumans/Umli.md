@@ -1,23 +1,17 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-29, type: met}
 name: Umli the Exile
-species: stoneborn
-ancestry: 
-gender: female
 born: 1666
-died: 
-title: 
-family: 
-affiliations: 
+species: stoneborn
+ancestry:
+gender: female
 aliases: [Umli]
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty:
-  - { date: 1748-12-29, prefix: DuFr }
-whereabouts: 
-  - { date: 1666-01-01, place: "Vostok Mountains", region: "Western Green Sea", type: origin }
-  - { date: 1732-01-02, place: "Tollen", region: "Western Green Sea", type: home }
+whereabouts:
+- {type: home, start: '', end: '', location: 'Vostok Mountains, Western Green Sea'}
+- {type: home, start: 1732-01-02, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Umli the Exile
 >[!info]+ Biographical Summary

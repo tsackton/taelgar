@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Magran Boulderbeard
+born:
 species: dwarf
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
-title:
-yearOverride: 
-family:
 whereabouts:
-     - { date: , place: "Tharn Todor", region: Nardith, type: home }
+- {type: home, start: '', end: '', location: 'Tharn Todor, Nardith'}
 ---
 # Magran Boulderbeard
 >[!info]+ Biographical Summary

@@ -1,19 +1,22 @@
 ---
-type: PC
+tags:
+  - status/stub
+  - pc
+  - person
+  - pc/guest
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Drikod
+born: 
 species: stoneborn
 ancestry: 
 gender: male
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/DunmarFrontier, stub]
-campaign: "The Dunmar Fellowship"
-player: "John Leeker"
-yearOverride: 
+player: John Leeker
+affiliations:
 ---
 
 ### Drikod

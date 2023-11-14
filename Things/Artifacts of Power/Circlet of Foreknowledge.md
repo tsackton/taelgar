@@ -1,17 +1,16 @@
 ---
-type: Item
-created: 
-destroyed: 
-owner: 
-maker: 
-ddbLink: 
-magical: yes
+tags:
+  - item
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Circlet of Foreknowledge
-tags: []
-aliases:
+magical: true
 ---
 # Circlet of Foreknowledge
-### (magical item)
 
 A circlet set with a single white gem that supposedly gives perfect foreknowledge, known from elven lore but unclear if it is real or mythical. 
 

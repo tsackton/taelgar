@@ -1,21 +1,12 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Rose Brightmoon
+born:
 species: halfling
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
-yearOverride: 
 ---
 ## Rose Brightmoon
 

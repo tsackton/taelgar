@@ -1,32 +1,18 @@
 ---
-type: NPC
+tags: [dufr/background, status/uptodate, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-30, type: met}
 name: Harriet
-species: halfling
-ancestry: 
-gender: female
 born: 1685
-died: 
+species: halfling
+ancestry:
+gender: female
+aliases: [Harriet Goodbarrel]
 family: Goodbarrel
-affiliations: 
-aliases:
-  - Harriet Goodbarrel
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-  - status/uptodate
-lastSeenByParty:
-  - date: 1748-12-30
-    prefix: DuFr
 whereabouts:
-  - date: 1685-01-01
-    place: At Sea
-    region: Western Gulf
-    type: origin
-  - date: 1722-03-10
-    place: Tollen
-    region: Western Green Sea
-    type: home
-title:
+- {type: home, start: '', end: 1722-03-09, location: 'At Sea, Western Gulf'}
+- {type: home, start: 1722-03-10, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Harriet
 >[!info]+ Biographical Summary

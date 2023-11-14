@@ -1,15 +1,12 @@
 ---
-type: NPC
-species:
+tags: [mc/aware, historical, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Yerkir-khor
 born:
+species:
 ancestry:
 gender:
-died:
-family:
-title:
-affiliations:
-name: Yerkir-khor
-tags: [NPC/DuFr/unaware, NPC/MC/aware, NPC/historical]
 ---
 
 %%SECRET[1]%%

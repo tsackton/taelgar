@@ -1,23 +1,17 @@
 ---
-type: NPC
+tags: [person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-12-04, type: met}
 name: Balthazar
-species: Human
-ancestry: 
-gender: male
 born: 1705-03-15
-died: 
-title: 
-family: 
-affiliations: 
-  - 
-aliases: 
-tags: 
-  - 
-lastSeenByParty: 
-  - { date: 1719-12-04, prefix: Clee }
-whereabouts: 
-  - { date: , place: Evis, region: Duchy of Maseau, type: origin }
-  - { date: 1719-12-06, place: Cleenseau, region: Sembara, type: home }
+species: Human
+ancestry:
+gender: male
+affiliations: [!!null '']
+whereabouts:
+- {type: home, start: !!null '', end: '', location: 'Evis, Duchy of Maseau'}
+- {type: home, start: 1719-12-06, end: '', location: 'Cleenseau, Sembara'}
 ---
 # Balthazar
 >[!info]+ Biographical Summary

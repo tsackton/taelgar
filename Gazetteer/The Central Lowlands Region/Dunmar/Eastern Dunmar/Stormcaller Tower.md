@@ -1,10 +1,17 @@
-# Stormcaller Tower
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Stormcaller Tower
+placeType:
+partOf:
+---
 
 Eons ago, lost in the dawn of time when the Firstborn walked the earth and the great empires of giants and dragons and other creatures of myth and legend  stretched across the world, great skyships of the storm giants sailed the skies, powered by [[Phasing Stones]] that could remake reality around them. While a few may remain in distant hidden corners of the world, or travel the skies of other planes, many crashed or were destroyed.
 
 One such skyship, the Star on the Wind, known as Vindristjarna (vin-dree-shar-na) to the storm giants, crashed on what is now the Dunmari plains thousands of years ago. 
 
-Stormcaller Tower was originally constructed on the prow of this crashed ship by the [[Elves|elves]], before [[The Downfall]], during the height of power of the ancient elven kingdom of [[Alcarinquë]]. 
+Stormcaller Tower was originally constructed on the prow of this crashed ship by the [[Elves|elves]], before [[The Downfall]], during the height of power of the ancient elven kingdom of [[Alcarinque]]. 
 
 The world turned, and the elves retreated, and humans spread across the land. The Drankorians soon found the tower, and studied the ancient magics within. Towards the end of the [[Drankorian Empire]], the tower became the base and outpost of [[Eudomes]] Stormcaller, a powerful Drankorian mage. He devised an elaborate magical mechanism to bind and trap storms themselves, harnessing their energy for magical works, and ultimately hoping to restore the skyship below somehow. 
 

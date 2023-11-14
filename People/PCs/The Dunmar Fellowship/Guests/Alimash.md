@@ -1,17 +1,21 @@
 ---
-type: PC
-species: human
-born:
-ancestry:
-gender: male
-died:
-origin:
-originRegion:
-affiliations:
-player:
-campaign:
+tags:
+  - pc
+  - person
+  - pc/guest
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Alimash
-tags: [PC/DunmarFrontier, PC/DunmarFrontier/SoloGuest]
+born: 
+species: human
+ancestry: 
+gender: male
+player: 
+affiliations:
 ---
 
 ## Alimash

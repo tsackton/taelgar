@@ -1,18 +1,18 @@
 ---
-type: NPC
+tags: [person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-11-07, type: met}
 name: Vincent de Arban
+born: 1677
 species: Human
 ancestry: Sembaran
 gender: male
-born: 1677 
-affiliations: 
-  - Garay Family
-lastSeenByParty: 
-  - { date: 1719-11-07, prefix: Clee }
-whereabouts: 
-  - { date: 1677-05-18, place: Embry, region: Sembara, type: home }
-  - { date: 1719-11-07, place: Cleenseau, region: Sembara, type: excursion }
-  - { date: 1719-11-22, place: Embry, region: Sembara, type: home }
+affiliations: [Garay Family]
+whereabouts:
+- {type: home, start: 1677-05-18, end: '', location: 'Embry, Sembara'}
+- {type: away, start: 1719-11-07, end: '', location: 'Cleenseau, Sembara'}
+- {type: home, start: 1719-11-22, end: '', location: 'Embry, Sembara'}
 ---
 # Vincent de Arban
 >[!info]+ Biographical Summary

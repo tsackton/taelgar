@@ -1,3 +1,11 @@
+---
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau Campaign - Timeline
+timelineDescriptor: Cleenseau Campaign
+---
+
 # 7 Robert I / 1719 DR
 
 ### March

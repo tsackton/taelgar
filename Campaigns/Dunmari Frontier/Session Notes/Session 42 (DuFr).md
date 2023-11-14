@@ -1,7 +1,13 @@
 ---
 tags:
   - session-note
-  - dunmari-frontier-campaign
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: Session 42 (DuFr)
 ---
 
 # Session 42

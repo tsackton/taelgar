@@ -1,18 +1,14 @@
 ---
-type: NPC
+tags: [clee/minor, person, dufr/unaware, clee/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Sabine de Brune
+born: 1662
 species: human
 ancestry: Sembaran
 gender: female
-born: 1662
-died: 
-title:
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/unaware, NPC/Clee/aware, NPC/Clee/minor]
 whereabouts:
-     - { date: , place: "Valit", region: Sembara, type: home}     
+- {type: home, start: !!null '', end: '', location: 'Valit, Sembara'}
 ---
 # Sabine de Brune
 >[!info]+ Biographical Summary

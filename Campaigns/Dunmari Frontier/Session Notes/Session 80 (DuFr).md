@@ -1,6 +1,6 @@
 ---
 tags:
-  - "#session-note"
+- '#session-note'
 ---
 # Session 80
 *in which the party frees an elemental*

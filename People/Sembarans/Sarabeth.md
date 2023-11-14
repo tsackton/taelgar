@@ -1,19 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Sarabeth
+born: 1686
 species: human
 ancestry: Sembaran
 gender: female
-born: 1686
-title:
-family:
-died: 
 affiliations: Lord's Guard of Cleenseau
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: , place: "Dunfry", region: Sembara, type: origin}
-     - { date: , place: "Cleenseau", region: Sembara, type: home}
+- {type: home, start: !!null '', end: '', location: 'Dunfry, Sembara'}
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Sarabeth
 >[!info]+ Biographical Summary

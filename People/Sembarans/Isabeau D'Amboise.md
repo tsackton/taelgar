@@ -1,15 +1,18 @@
 ---
-type: NPC
-species: human
+tags:
+  - person
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
+name: Isabeau D'Amboise
 born: 1672
+species: human
 ancestry: Sembaran
 gender: female
-died:
-family:
 title: Baron
-affiliations:
-name: Isabeau D'Amboise
-tags: [NPC/unsorted]
 ---
 # Baron Isabeau D'Amboise
 >[!info]+ Biographical Summary

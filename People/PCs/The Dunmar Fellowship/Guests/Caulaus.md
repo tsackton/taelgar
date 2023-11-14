@@ -1,17 +1,21 @@
 ---
-type: PC
-species:
-born:
-ancestry:
-gender:
-died:
-origin:
-originRegion:
-affiliations:
-player:
-campaign:
+tags:
+  - pc
+  - person
+  - pc/guest
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Caulaus
-tags: [PC/DunmarFrontier, PC/DunmarFrontier/SoloGuest]
+born: 
+species: 
+ancestry: 
+gender: 
+player: 
+affiliations:
 ---
 ## Caulaus Aportino 
 (he/him)

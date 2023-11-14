@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, status/uptodate, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Eleuha
+born:
 species: dryad
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/background, NPC/DuFr/met_one, status/uptodate]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02 , place: "Azta Lekua", region: Orekatu, type: home }
+- {type: home, start: , end: '', location: 'Azta Lekua, Orekatu'}
 ---
 # Eleuha
 >[!info]+ Biographical Summary

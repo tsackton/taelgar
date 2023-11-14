@@ -1,9 +1,10 @@
 ---
-taelgar-date: 1719-10-21
-type: Event
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
+DR: 1719-10-21
 fc-date: 1719-10-21
-fc-calendar: Taelgar Calendar
-fc-category: Cleenseau Campaign
 ---
 ### Second Spider Attack on Taviose
 *October 21st, 1719; 3am*

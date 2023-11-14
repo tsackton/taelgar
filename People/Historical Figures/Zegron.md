@@ -1,22 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Zegron
+born:
 species: giant
-ancestry: 
+ancestry:
 gender: male
-born: 
 died: 1545
-endStatus: "cursed to linger as a ghost"
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
-yearOverride: 
 ---
 # Zegron
 >[!info]+ Biographical Summary

@@ -1,20 +1,15 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Enari
+born:
 species: lizardfolk
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "unknown", region: Orekatu, type: home }
-     - { date: 1748-11-23, place: "Bedez", region: Orekatu, type: excursion }
+- {type: home, start: "", end: '', location: 'Orekatu'}
+- {type: away, start: 1748-11-01, end: 1749-12-01, location: 'Bedez, Orekatu'} #check start and end dates on session notes from Kenzo solo
 ---
 # Enari
 >[!info]+ Biographical Summary

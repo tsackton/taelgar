@@ -1,18 +1,13 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Prince of Luck
+born:
 species: fey
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-origin:
-affiliations: 
 aliases: [Chanceweaver]
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
-title:
-family:
 ---
 # Prince of Luck
 >[!info]+ Biographical Summary

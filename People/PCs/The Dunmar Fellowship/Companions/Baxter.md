@@ -1,17 +1,22 @@
 ---
-type: PC
-species:
-born:
-ancestry:
-gender:
-died:
-origin:
-originRegion:
-affiliations:
-player:
-campaign:
+tags:
+  - pc/companion
+  - pc
+  - person
+  - status/stub
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Baxter
-tags: [PC/DunmarFrontier, stub, PC/Companion]
+born: 
+species: 
+ancestry: 
+gender: 
+player: 
+affiliations:
 ---
 ### Baxter the Axebeak
 

@@ -1,36 +1,23 @@
 ---
-type: NPC
+tags: [event-source, person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Amil
+born: 1731
 species: human
 ancestry: Dunmari
 gender: male
-born: 1731
-died: 
-affiliations:
-  - Order of the Awakened Soul
-title: 
-aliases: 
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-  - event-source
-family: 
+affiliations: [Order of the Awakened Soul]
 whereabouts:
-  - date: 1731-01-02
-    place: Pava and Avaras' House
-    region: Nashtkar
-    type: home
-  - date: 1749-01-01
-    place: Pava and Avaras' House
-    region: Nashtkar
-    type: excursion
+- {type: home, start: 1731-01-02, end: '', location: 'Pava and Avaras'' House, Nashtkar'}
+- {type: away, start: 1748-07-18, end: '', location: 'Pava and Avaras'' House, Nashtkar'}
 ---
 # Amil
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Pava and Avaras' House]], [[Nashtkar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
 

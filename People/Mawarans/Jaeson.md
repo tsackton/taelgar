@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [mc/minor, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Jaeson
 born:
+species: human
 ancestry: Mawaran
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Jaeson
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Jaeson
 >[!info]+ Biographical Summary

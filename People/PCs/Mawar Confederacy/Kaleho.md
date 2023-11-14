@@ -1,17 +1,21 @@
 ---
-type: PC
-species: human
-born:
-ancestry:
-gender: male
-died:
-origin:
-originRegion:
-affiliations:
-player: John Leeker
-campaign: Mawar Confederacy
+tags:
+  - pc
+  - person
+  - pc/mawar
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Kaleho
-tags: [PC/unsorted]
+born: 
+species: human
+ancestry: 
+gender: male
+player: John Leeker
+affiliations:
 ---
 
 A sailor who regularly passes through Hamri, obsessed with rumors of merfolk.

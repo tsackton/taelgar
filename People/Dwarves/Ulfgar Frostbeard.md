@@ -1,19 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ulfgar Frostbeard
-species: dwarf
-ancestry: 
-gender: male
 born: 1599
-died: 
-affiliations: ["Faculty of Metaphysics", "University of Chardon", "Society of the Open Scroll"]
-aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
-title:
-yearOverride: 
-family:
+species: dwarf
+ancestry:
+gender: male
+affiliations: [Faculty of Metaphysics, University of Chardon, Society of the Open Scroll]
 whereabouts:
-     - { date: 1599-01-02, place: "Chardon", region: Chardonian Empire, type: home }
+- {type: home, start: 1599-01-02, end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Ulfgar Frostbeard
 >[!info]+ Biographical Summary

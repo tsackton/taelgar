@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [mc/background, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Sulfi Mahadra
 born:
+species: human
 ancestry:
 gender: female
-died:
-family:
-title:
-affiliations:
-name: Sulfi Mahadra
-tags: [NPC/MC/background, NPC/DuFr/unaware]
 ---
 # Sulfi Mahadra
 >[!info]+ Biographical Summary

@@ -1,4 +1,8 @@
 ---
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Yezali
 aliases: [Aaviskar]
 ---
 ### Yezali

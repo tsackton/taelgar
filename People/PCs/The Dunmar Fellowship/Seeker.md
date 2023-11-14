@@ -1,19 +1,21 @@
 ---
-type: PC
+tags:
+  - pc
+  - person
+  - pc/dunmarfrontier
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Seeker
+born: 
 species: dwarf
 ancestry: 
-gender: 
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/DunmarFrontier]
-campaign: "The Dunmar Fellowship"
-player: "Eric Rosenbaum"
-yearOverride: 
+gender: male
+player: Eric Rosenbaum
+affiliations:
 ---
 ### Seeker
 

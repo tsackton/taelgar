@@ -1,17 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jordo
-species: human
-ancestry: "Deno'qai"
-gender: male
 born: 1672
+species: human
+ancestry: Deno'qai
+gender: male
 died: 1744
-title:
-origin: {place: "Te'kula village", region: Elderwood}
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
+whereabouts:
+- {type: home, start: '', end: '', location: Te'kula village}
 ---
 # Jordo
 >[!info]+ Biographical Summary

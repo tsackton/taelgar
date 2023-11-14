@@ -1,34 +1,31 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-26, type: met}
 name: Nayan Sura
+born: 1720
 species: human
 ancestry: Dunmari
 gender: female
-born: 1720
-died: 
-affiliations: 
-title: 
-family: Nayan Dynasty
 aliases: [Nayan Sura]
-tags: [NPC/DuFr/met, NPC/DuFr/major, status/uptodate]
-yearOverride: 
-lastSeenByParty:
-  - { date: 1748-12-26, prefix: DuFr}
+family: Nayan Dynasty
 whereabouts:
-     - { date: 1721-01-01, place: "Darba", region: Western Dunmar, type: origin}
-     - { date: 1740-01-01, place: "Mirror of Soul Trapping", type: excursion}
-     - { date: 1748-06-08, place: "Karawa", region: "Eastern Dunmar", type: excursion}
-     - { date: 1748-11-23, place: "Sura's army camp", region: Central Dunmar, type: excursion}
-     - { date: 1748-12-14, place: "Tokra", region: Central Dunmar, type: excursion}
-     - { date: 1748-12-22, place: "plains south of Tokra", region: Central Dunmar, type: excursion}
+- {type: home, start: 1721-01-01, end: '', location: 'Darba, Western Dunmar'}
+- {type: away, start: 1740-01-01, end: '', location: Mirror of Soul Trapping}
+- {type: away, start: 1748-06-08, end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1748-11-23, end: '', location: 'Sura''s army camp, Central Dunmar'}
+- {type: away, start: 1748-12-14, end: '', location: 'Tokra, Central Dunmar'}
+- {type: away, start: 1748-12-22, end: '', location: 'plains south of Tokra, Central Dunmar'}
 ---
+
 # Nayan Sura
 >[!info]+ Biographical Summary
 >[[Humans|human]] (Dunmari), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Darba]], [[Western Dunmar]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 26th, 1748: plains south of [[Tokra]], [[Central Dunmar]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>>%%^Campaign:DuFr%% Last seen by [[The Dunmar Fellowship|The Side Quests]] at December 22nd, 1748: plains south of Tokra, [[Central Dunmar]] %%^End%%
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Nayan Sura is the younger sister of Samraat [[Nayan Karnas]]. Once seen as a future Samraat and a unifier of [[Eastern Dunmar|eastern]] and [[Western Dunmar]], she vanished eight years ago, trapped by [[Agata]] Dustmother in the [[Mirror of Soul Trapping]]. In her absence, her brother, [[Nayan Karnas]], claimed the throne of [[Dunmar]]. In DR 1748, Nayan Sura was freed from [[Agata]]'s imprisonment, and now seeks to reclaim her destiny. 
 ## Overview

@@ -1,6 +1,9 @@
 ---
-aliases:
-  - Cloak of Rainbows
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Mantle of Protection
+aliases: [Cloak of Rainbows]
 ---
 
 # The Mantle of Protection

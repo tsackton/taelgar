@@ -1,8 +1,10 @@
 ---
-type: Event
-subtype: Historical
-taelgar-date: 1709-06
-taelgar-date-end: 1709-08
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
+DR: 1709-06
+DR_end: 1709-08
 ---
 # The Summer of Red Storms
 

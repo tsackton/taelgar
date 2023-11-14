@@ -1,19 +1,14 @@
 ---
-type: PC
+tags: [pc, person, pc/dunmarfrontier]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kenzo
+born:
 species: human
 ancestry: Dunmari
 gender: male
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/DunmarFrontier]
-campaign: "The Dunmar Fellowship"
-player: "David Kong"
-yearOverride: 
+player: David Kong
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ## Kenzo
 

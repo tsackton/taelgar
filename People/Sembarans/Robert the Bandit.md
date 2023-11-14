@@ -1,15 +1,13 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Robert
 born:
+species: human
 ancestry: Sembaran
 gender: male
 died: 1719
-family:
-title:
-affiliations:
-name: Robert
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
 ---
 # Robert
 >[!info]+ Biographical Summary

@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [mc/major, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Azar
 born:
+species: human
 ancestry:
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Azar
-tags: [NPC/MC/major, NPC/DuFr/unaware]
 ---
 # Azar
 >[!info]+ Biographical Summary

@@ -1,20 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Theba
-species: human
-ancestry: "Deno'qai"
-gender: female
 born: 1717
-died: 
-yearOverride: 1749-11-01
-title:
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
+species: human
+ancestry: Deno'qai
+gender: female
 whereabouts:
-     - { place: "Bek'eni village", region: Elderwood, type: home }
-     - { date: 1749-01-01, date_end: 1749-10-01, region: Elderwood, type: travel }
+- {type: home, start: '', end: '', location: 'Bek''eni village, Elderwood'}
+- {type: away, start: 1749-01-01, end: '', location: Elderwood}
 ---
 # Theba
 >[!info]+ Biographical Summary

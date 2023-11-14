@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Dee Wildcloak
+born:
 species: halfling
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1748-11-23, place: "somewhere", region: Sea of Storms, type: excursion }
+- {type: away, start: 1748-11-23, end: '', location: 'somewhere, Sea of Storms'}
 ---
 # Dee Wildcloak
 >[!info]+ Biographical Summary

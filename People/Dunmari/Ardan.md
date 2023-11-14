@@ -1,19 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ardan
+born: 1695
 species: human
 ancestry: Dunmari
 gender: male
-born: 1695
-title:
-family:
-died: 
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
 whereabouts:
-     - { date: 1695-01-01, place: "Tokra", region: Central Dunmar, type: origin }
-     - { date: 1695-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: 1695-01-02, end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Ardan
 >[!info]+ Biographical Summary

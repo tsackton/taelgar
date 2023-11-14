@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: lizardfolk
+tags: [mc/background, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Amaya
 born:
+species: lizardfolk
 ancestry:
 gender: female
-died:
-family:
-title:
-affiliations:
-name: Amaya
-tags: [NPC/MC/background, NPC/DuFr/unaware]
 ---
 # Amaya
 >[!info]+ Biographical Summary

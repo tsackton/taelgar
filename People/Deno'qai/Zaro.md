@@ -1,17 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Zaro
+born:
 species: human
-ancestry: "Deno'qai"
+ancestry: Deno'qai
 gender: male
-born: 
-died: 
-affiliations: 
-title:
-origin: {place: "Bek'eni village", region: Elderwood}
-family:
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+whereabouts:
+- {type: home, start: '', end: '', location: Bek'eni village}
 ---
 # Zaro
 >[!info]+ Biographical Summary

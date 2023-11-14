@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ikram
+born: 1710
 species: human
 ancestry: Dunmari
 gender: male
-born: 1710
-died: 
-affiliations: 
-aliases: []
-title:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
-family:
 whereabouts:
-     - { date: 1710-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: 1710-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Ikram
 >[!info]+ Biographical Summary

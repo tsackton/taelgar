@@ -1,18 +1,14 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Conrad
+born: 1699
 species: human
 ancestry: Sembaran
 gender: male
-born: 1699
-died: 
-title:
-family:
-affiliations: 
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-   - { place: "Cleenseau", region: Sembara, type: home}
+- {type: home, start: '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Conrad
 >[!info]+ Biographical Summary

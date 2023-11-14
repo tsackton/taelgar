@@ -1,28 +1,23 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Justan
+born: 1723
 species: human
 ancestry: Dunmari
 gender: male
-born: 1723
-died: 1748
-affiliations: 
-title:
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
-family:
+died: 1748-07-23
 whereabouts:
-     - { date: 1723-01-02, place: "Tokra", region: Central Dunmar, type: home }
-     - { date: 1748-05-01, place: "Copper Hills", region: Central Dunmar, type: excursion }
+- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
+- {type: away, start: 1748-05-01, end: '', location: 'Copper Hills, Central Dunmar'}
 ---
 # Justan
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Tokra]], [[Central Dunmar]]
->> Based in: [[Tokra]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A Dunmari man, from a family of horse herders traveling on the lands around Tokra. 
 %%^Date:1748%%

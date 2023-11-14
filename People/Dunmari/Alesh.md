@@ -1,28 +1,22 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Alesh
+born: 1727
 species: human
 ancestry: Dunmari
 gender: female
-born: 1727
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/major]
-summary: "Scout, history buff, messenger; expert rider; loves her horse."
 whereabouts:
-     - { date: 1727-01-01, place: "Karawa", region: Eastern Dunmar, type: origin }
-     - { date: 1727-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1748-12-26, end: '', location: 'Sura''s army camp, Central Dunmar'}
 ---
 # Alesh
 >[!info]+ Biographical Summary
->human (Dunmari), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Karawa]], [[Eastern Dunmar]]
->> Based in: [[Karawa]], [[Eastern Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 ## Overview
 

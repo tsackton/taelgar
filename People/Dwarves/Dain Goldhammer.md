@@ -1,28 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-10-23, type: met}
 name: Dain Goldhammer
-species: dwarf
-ancestry: 
-gender: male
 born: 1704
-died: 
-origin: Chardon
-originRegion: Chardonian Empire
-title: 
-family: 
-affiliations:
-aliases: 
-tags:
-  - NPC/DuFr/minor
-  - NPC/DuFr/met
-yearOverride: 
-lastSeenByParty:
-  date: 1748-10-23
-  prefix: DuFr
+species: dwarf
+ancestry:
+gender: male
 whereabouts:
-  - date: 1748-10-23
-    region: Illoria
-    type: travel
+- {type: away, start: 1748-10-23, end: '', location: Illoria}
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Dain Goldhammer
 >[!info]+ Biographical Summary

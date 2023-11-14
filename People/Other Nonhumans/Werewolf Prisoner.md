@@ -1,21 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Werewolf Prisoner
+born:
 species: human
 ancestry: lycanthrope
 gender: male
-born: 
 died: 1748
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 ---
 ### The Unnamed Werewolf
 

@@ -1,18 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Badya
+born: 1723
 species: human
 ancestry: Dunmari
 gender: female
-born: 1723
-died: 
-affiliations: 
-title:
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-family:
 whereabouts:
-     - { date: 1723-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: 1723-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Badya
 >[!info]+ Biographical Summary

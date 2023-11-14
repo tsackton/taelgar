@@ -1,17 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ninu
-species: human
-ancestry: "Deno'qai"
-gender: female
 born: 1703
-died: 
-title:
-origin: "Ko'zula village"
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met_one]
+species: human
+ancestry: Deno'qai
+gender: female
+whereabouts:
+- {type: home, start: '', end: '', location: Ko'zula village}
 ---
 # Ninu
 >[!info]+ Biographical Summary

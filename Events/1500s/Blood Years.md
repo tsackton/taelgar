@@ -1,8 +1,10 @@
 ---
+tags: ['#event-source']
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Blood Years
 DR: 1545
-DR-end: 1600
-tags:
-  - "#event-source"
+DR_end: 1600
 ---
 # The Blood Years
 

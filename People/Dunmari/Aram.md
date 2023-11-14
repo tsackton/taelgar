@@ -1,18 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Aram
+born: 1717
 species: human
 ancestry: Dunmari
 gender: male
-born: 1717
-died: 
-affiliations: ["Havdar's Warband"]
-aliases: []
-title:
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
-family:
+affiliations: [Havdar's Warband]
 whereabouts:
-     - { date: 1748-11-15, place: "Sura's army camp", region: Central Dunmar, type: excursion }
+- {type: away, start: 1748-11-15, end: '', location: 'Sura''s army camp, Central Dunmar'}
 ---
 # Aram
 >[!info]+ Biographical Summary

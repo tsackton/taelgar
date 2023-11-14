@@ -1,5 +1,9 @@
 ---
-fc-date: { day: 11, month: 12 }
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Viatela
+fc-date: {day: 11, month: 12}
 ---
 
 %% NOTES

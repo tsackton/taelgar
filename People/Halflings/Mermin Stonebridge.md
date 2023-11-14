@@ -1,19 +1,15 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Mermin Stonebridge
+born:
 species: halfling
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
 family: Stonebridge
-affiliations:
-aliases: 
-tags:
-  - NPC/DuFr/unaware
-  - NPC/Clee/unsorted
 whereabouts:
-  - {date: 0001-01-02, place: "Cleanseau", region: , type: home}
+- {type: home, start: , end: '', location: Cleanseau}
 ---
 # Mermin Stonebridge
 >[!info]+ Biographical Summary

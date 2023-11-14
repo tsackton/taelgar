@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Shani
+born:
 species: human
 ancestry: Dunmari
 gender: female
-born:  
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: , place: "plains north of Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'plains north of Karawa, Eastern Dunmar'}
 ---
 # Shani
 >[!info]+ Biographical Summary

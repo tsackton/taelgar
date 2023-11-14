@@ -1,5 +1,10 @@
 ---
-tags: [stub]
+tags: [place, status/stub]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Refounded Alliance of Aurbez
+placeType:
+partOf:
 ---
 
 ### The Refounded Alliance of Aurbez

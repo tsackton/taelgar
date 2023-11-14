@@ -1,4 +1,10 @@
 ---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Aursen
+placeType:
+partOf:
 aliases: Aursen
 ---
 ### River Aursen

@@ -1,20 +1,17 @@
 ---
-type: NPC
+tags: [historical, dufr/minor, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Balati
-species: human
-ancestry: "Deno'qai"
-gender: male
 born: 1520
+species: human
+ancestry: Deno'qai
+gender: male
 died: 1544
-affiliations: ["Ko'zula"]
-title:
-family:
-aliases: []
-tags: [NPC/historical, NPC/DuFr/aware, NPC/DuFr/minor]
-yearOverride: 
+affiliations: [Ko'zula]
 whereabouts:
-     - { date: 1520-01-02, place: "Ko'zula village", region: unknown, type: home }
-     - { date: 1544-01-01, place: "deceased", region: Forest of Nightmares, type: excursion }
+- {type: home, start: 1520-01-02, end: '', location: 'Ko''zula village, unknown'}
+- {type: away, start: 1544-01-01, end: '', location: 'deceased, Forest of Nightmares'}
 ---
 # Balati
 >[!info]+ Biographical Summary
