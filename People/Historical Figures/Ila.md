@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: male
 title: Commander
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: 'unknown, Central Dunmar'}
+- {type: home, start: "", end: '', location: 'unknown, Central Dunmar'}
 ---
 # Commander Ila
 >[!info]+ Biographical Summary

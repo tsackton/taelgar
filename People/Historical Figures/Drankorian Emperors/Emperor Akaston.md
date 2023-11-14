@@ -10,7 +10,7 @@ gender: male
 title: Emperor
 died: 911
 whereabouts:
-- {type: home, start: 0001-01-01, end: '', location: 'Drankor, Drankorian Empire'}
+- {type: home, start: "", end: '', location: 'Drankor, Drankorian Empire'}
 ---
 # Emperor Akaston
 >[!info]+ Biographical Summary

@@ -10,8 +10,8 @@ species: elf
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: 0001-01-01, end: '', location: 'Orenlas, Western Green Sea'}
-- {type: home, start: 0001-01-02, end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: "", end: '', location: 'Orenlas, Western Green Sea'}
+- {type: home, start: "", end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Melindir
 >[!info]+ Biographical Summary

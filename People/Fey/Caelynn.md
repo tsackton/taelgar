@@ -8,16 +8,15 @@ species: fey
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: 0001-01-01, end: '', location: 'Dreamhaven, Feywild'}
-- {type: home, start: 0001-01-02, end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: "", end: '', location: 'Dreamhaven, Feywild'}
+- {type: home, start: "", end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Caelynn the Seer
 >[!info]+ Biographical Summary
 >fey, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Dreamhaven]], [[Feywild]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A fey woman from across the mountains, from the fey realm of [[Dreamhaven]], who has been living in [[Tollen]] for many years, although whether a hundred or a thousand is the matter of much debate. 
 ## Overview

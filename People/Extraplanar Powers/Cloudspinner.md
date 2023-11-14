@@ -9,17 +9,16 @@ ancestry: archfey
 gender: female
 aliases: [Queen of Sunset]
 whereabouts:
-- {type: home, start: 0001-01-01, end: '', location: 'somewhere, unknown'}
-- {type: home, start: 0001-01-02, end: '', location: 'Amberglow, Feywild'}
-- {type: away, start: 1700-11-15, end: '', location: 'imprisoned, somewhere'}
+- {type: home, start: '', end: '', location: 'somewhere, unknown'}
+- {type: home, start: '', end: '', location: 'Amberglow, Feywild'}
+- {type: away, start: 900, end: 2000, location: 'imprisoned, somewhere'} #start is approx, end is arbitrary
 ---
 # Cloudspinner
 >[!info]+ Biographical Summary
 >fey (archfey), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: somewhere, unknown
->> Based in: [[Amberglow]], [[Feywild]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 

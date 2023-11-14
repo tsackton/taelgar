@@ -9,17 +9,14 @@ species: korred
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: 0001-01-01, end: '', location: 'Crystal Peak, Feywild'}
-- {type: home, start: 0001-01-02, end: '', location: 'Crystal Peak, Feywild'}
+- {type: home, start: "", end: '', location: 'Crystal Peak, Feywild'}
 ---
 # Illaran
 >[!info]+ Biographical Summary
 >korred, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Crystal Peak, [[Feywild]]
->> Based in: Crystal Peak, [[Feywild]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at November 1st, 1748: Crystal Peak, [[Feywild]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Illaran, the guardian of Crystal Peak in the [[Feywild]], is a whimsical fey who wields power over the very stones of his domain.
 ## Overview

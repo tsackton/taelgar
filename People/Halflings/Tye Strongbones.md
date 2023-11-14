@@ -9,7 +9,7 @@ ancestry:
 gender: male
 family: Strongbones
 whereabouts:
-- {type: home, start: 0001-01-02, end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: , end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Tye Strongbones
 >[!info]+ Biographical Summary
