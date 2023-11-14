@@ -1,7 +1,6 @@
 ---
-fc-calendar: Taelgar
-fc-date: 1748-6-17
-fc-end: 1748-6-19
+fc-date: { day : 17, month : 6, year : 1748 }
+fc-end: { day : 19, month : 6, year : 1748 }
 ---
 # The Feast of Bhishma
 

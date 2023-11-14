@@ -1,5 +1,4 @@
 ---
-fc-calendar: Taelgar
 fc-date: 1748-4-6
 ---
 # The Festival of Rebirth
