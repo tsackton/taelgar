@@ -5,6 +5,7 @@ campaignInfo: []
 name: Braebein
 placeType:
 partOf:
+pronunciation: BRAY-been
 ---
 
 

@@ -8,7 +8,8 @@ species: dwarf
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: '', end: '', location: 'Tokra'}
+pronunciation: FAHL-thrah
 ---
 # Fallthra Hardstone
 >[!info]+ Biographical Summary

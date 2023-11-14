@@ -11,6 +11,7 @@ whereabouts:
 - {type: away, start: 1748-06-03, end: '', location: 'Karawa, Eastern Dunmar'}
 - {type: away, start: 1748-07-18, end: '', location: 'Myraeni Gap, Central Dunmar'}
 - {type: away, start: 1748-08-25, end: '', location: 'unknown, unknown'}
+pronunciation: tha-RAN-dros
 ---
 # Tharandros
 >[!info]+ Biographical Summary

@@ -1,6 +1,5 @@
 ---
-tags:
-  - timeline
+tags: [ timeline ]
 timelineDescriptor: Great Library Campaign
 ---
 - (DR:: 1747-02-16) *(Great Library)*: Samso and Adrik meet on the road south of Chardon and retrieve a lost messenger bag from a messenger killed by bullywugs. 

@@ -10,6 +10,7 @@ gender: male
 affiliations: [Great Library]
 whereabouts:
 - {type: home, start: 1697-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+pronunciation: CRIS-pus
 ---
 # Crispus
 >[!info]+ Biographical Summary

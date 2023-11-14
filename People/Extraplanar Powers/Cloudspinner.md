@@ -11,7 +11,7 @@ aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, start: '', end: '', location: 'somewhere, unknown'}
 - {type: home, start: '', end: '', location: 'Amberglow, Feywild'}
-- {type: away, start: 900, end: 2000, location: 'imprisoned, somewhere'} #start is approx, end is arbitrary
+- {type: away, start: 990, end: 2000, location: 'imprisoned, somewhere'} #start is approx, end is arbitrary
 ---
 # Cloudspinner
 >[!info]+ Biographical Summary

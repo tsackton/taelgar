@@ -3,7 +3,8 @@ tags: [place, status/stub]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Kem
-placeType:
+pronunciation: KEM
+placeType: river
 partOf:
 ---
 
