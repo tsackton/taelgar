@@ -1,41 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kadmos
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1711
-died: 1748
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- The Society of the Open Scroll
-family:
+ancestry: Chardonian
+gender: male
+died: 1748
+affiliations: [The Society of the Open Scroll]
 whereabouts:
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1748-11-15
-  end: ''
-  location: somewhere in Dunmar, Dunmar
-- type: away
-  start: 1748-11-19
-  end: ''
-  location: Garamjala Desert, Dunmar
-lastSeenByParty: []
+- {type: home, start: 0001-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-11-15, end: '', location: 'somewhere in Dunmar, Dunmar'}
+- {type: away, start: 1748-11-19, end: '', location: 'Garamjala Desert, Dunmar'}
 ---
 # Kadmos
 >[!info]+ Biographical Summary

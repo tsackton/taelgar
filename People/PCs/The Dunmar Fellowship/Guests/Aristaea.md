@@ -1,36 +1,14 @@
 ---
-type: PC
+tags: [pc, person, pc/dunmarfrontier/sologuest]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Aristaea
-pronouciation:
-aliases: []
-tags:
-- PC/DunmarFrontier/SoloGuest
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: stoneborn
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: female
 player:
-ddbLink:
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Aristaea Mountainhands
 

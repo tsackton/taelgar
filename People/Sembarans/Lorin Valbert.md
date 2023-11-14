@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Lorin Valbert
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1677
-died:
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
+ancestry: Sembaran
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Embry, Sembara
-- type: home
-  start: ''
-  end: ''
-  location: Asineau, Sembara
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Embry, Sembara'}
+- {type: home, start: '', end: '', location: 'Asineau, Sembara'}
 ---
 # Lorin Valbert
 >[!info]+ Biographical Summary

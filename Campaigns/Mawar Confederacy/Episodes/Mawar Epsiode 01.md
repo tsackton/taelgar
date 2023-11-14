@@ -1,12 +1,12 @@
 ---
-type: Session Notes
+tags: [session-note]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Mawar Epsiode 01
 realWorldDate: 2021-07-24
 DR: 1747-07-23
 DR_end: 1747-07-23
-players:
-- Ryu
-- Wazir
-- Trok
+players: [Ryu, Wazir, Trok]
 ---
 
 # Episode 1: The Merfolk Visitor

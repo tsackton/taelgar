@@ -1,6 +1,9 @@
 ---
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Battle Against Wakog
 DR: 1719-12-06
-type: Event
 ---
 
 # Battle Against Wakog

@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Rishi
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1670
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
+ancestry: Dunmari
+gender: male
 whereabouts:
-- type: home
-  start: 1670-01-02
-  end: ''
-  location: Lakan Monastery, Tokra, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: 1670-01-02, end: '', location: 'Lakan Monastery, Tokra, Central Dunmar'}
 ---
 # Rishi
 >[!info]+ Biographical Summary

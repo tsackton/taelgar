@@ -1,28 +1,13 @@
 ---
-type: NPC
+tags: [mc/background, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Sefa
-pronouciation:
-aliases: []
-tags:
-- NPC/MC/background
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died: 1747
-gender: female
-pronouns:
-ancestry: Mawaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Mawaran
+gender: female
+died: 1747
 ---
 # Sefa
 >[!info]+ Biographical Summary

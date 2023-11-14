@@ -1,20 +1,10 @@
 ---
-type: Event
-name:
-pronouciation:
-aliases: []
 tags: []
-pageTargetDate:
-endStatus: ended
-endPrefix: ''
-startStatus: started
-startPrefix: ''
-preExistError: '**(has not happened)**'
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
 DR: 1719-10-20
-DR_end:
 fc-date: 1719-10-20
-fc-end:
-fc-display-name:
 ---
 ### First Spider Attack on Taviose
 *October 20th, 1719; 10am*

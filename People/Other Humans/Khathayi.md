@@ -1,29 +1,12 @@
 ---
-type: NPC
+tags: [mc/aware, historical, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Khathayi
-pronouciation:
-aliases: []
-tags:
-- NPC/MC/aware
-- NPC/DuFr/unaware
-- NPC/historical
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender:
-pronouns:
-ancestry:
 species:
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender:
 ---
 # Khathayi
 >[!info]+ Biographical Summary

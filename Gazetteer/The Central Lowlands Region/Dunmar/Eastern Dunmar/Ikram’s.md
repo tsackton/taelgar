@@ -1,20 +1,10 @@
 ---
-type: Building
+tags: [place, event-source, place/building]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags:
-- event-source
-pageTargetDate:
-endStatus: destroyed
-endPrefix: d.
-startStatus: built
-startPrefix: b.
-preExistError: '**(not yet created)**'
-created:
-destroyed:
-owner:
-place:
+placeType:
+partOf:
 ---
 # Ikram's Caravanserai
 

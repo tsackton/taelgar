@@ -1,21 +1,9 @@
 ---
-type: Event
+tags: [event-source]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags:
-- - event-source
-pageTargetDate:
-endStatus: ended
-endPrefix: ''
-startStatus: started
-startPrefix: ''
-preExistError: '**(has not happened)**'
 DR: 1718
-DR_end:
-fc-date:
-fc-end:
-fc-display-name:
 ---
 # The Awakened Soul Disaster
 

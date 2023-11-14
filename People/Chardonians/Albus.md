@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Albus
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1694
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations: []
-family:
+ancestry: Chardonian
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: 1729
-  location: Chardon, Chardonian Empire
-- type: home
-  start: 1730 #approx
-  end: ''
-  location: Darba, Western Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: 1729, location: 'Chardon, Chardonian Empire'}
+- {type: home, start: 1730, end: '', location: 'Darba, Western Dunmar'}
 ---
 # Albus
 >[!info]+ Biographical Summary

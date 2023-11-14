@@ -1,28 +1,12 @@
 ---
-type: NPC
+tags: [mc/minor, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Itzal
-pronouciation:
-aliases: []
-tags:
-- NPC/MC/minor
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1531
-died:
-gender:
-pronouns:
-ancestry:
 species: lizardfolk
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender:
 ---
 # Itzal
 >[!info]+ Biographical Summary

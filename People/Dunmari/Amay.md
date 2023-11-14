@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Amay
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
+ancestry: Dunmari
+gender: male
 whereabouts:
-- type: away
-  start: 1748-11-15
-  end: ''
-  location: Tokra, Central Dunmar
-lastSeenByParty: []
+- {type: away, start: 1748-11-15, end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Amay
 >[!info]+ Biographical Summary

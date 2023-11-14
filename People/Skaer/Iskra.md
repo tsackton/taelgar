@@ -1,37 +1,17 @@
 ---
-type: NPC
+tags: [person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-17, type: met}
 name: Iskra
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Laivan
 born: 1724
-died:
-gender: female
-pronouns:
-ancestry: Skaer
 species: human
-affiliations: []
-family:
+ancestry: Skaer
+gender: female
+title: Laivan
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: Pikkua, Skaerhem
-- type: home
-  start: 1743-01-01
-  end: ''
-  location: Tollen, Western Green Sea
-lastSeenByParty:
-- date: 1748-12-17
-  prefix: DuFr
+- {type: home, start: 0001-01-01, end: '', location: 'Pikkua, Skaerhem'}
+- {type: home, start: 1743-01-01, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Laivan Iskra
 >[!info]+ Biographical Summary

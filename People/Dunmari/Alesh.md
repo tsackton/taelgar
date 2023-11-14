@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Alesh
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/major
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1727
-died:
-gender: female
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
+ancestry: Dunmari
+gender: female
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Karawa, Eastern Dunmar
-- type: away
-  start: 1748-12-26
-  end: ''
-  location: Sura's army camp, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1748-12-26, end: '', location: 'Sura''s army camp, Central Dunmar'}
 ---
 # Alesh
 >[!info]+ Biographical Summary

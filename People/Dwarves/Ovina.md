@@ -1,29 +1,12 @@
 ---
-type: NPC
+tags: [mc/met, mc/minor, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ovina
-pronouciation:
-aliases: []
-tags:
-- NPC/MC/met
-- NPC/MC/minor
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: female
 ---
 # Ovina
 >[!info]+ Biographical Summary

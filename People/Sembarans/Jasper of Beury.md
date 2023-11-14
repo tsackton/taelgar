@@ -1,33 +1,15 @@
 ---
-type: NPC
+tags: [unsorted, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-12-04, type: met}
 name: Jasper
-pronouciation:
-aliases: []
-tags:
-- NPC/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1680-09-21
-died:
-gender: male
-pronouns:
-ancestry:
 species: Human
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: home
-  start: null
-  end: ''
-  location: Beury, Sembara
-lastSeenByParty:
-- date: 1719-12-04
-  prefix: Clee
+- {type: home, start: !!null '', end: '', location: 'Beury, Sembara'}
 ---
 # Jasper
 >[!info]+ Biographical Summary

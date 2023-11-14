@@ -1,29 +1,14 @@
 ---
-type: Ruler
+tags: [unsorted, ruler, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Hugh of Sewick
-pronouciation:
-aliases: []
-tags:
-- NPC/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1482
-died: 1518
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: male
 reignStart:
-reignEnd:
+died: 1518
 ---
 # Hugh of Sewick
 >[!info]+ Biographical Summary

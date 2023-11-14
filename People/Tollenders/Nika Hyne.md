@@ -1,39 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-17, type: met}
 name: Nika Hyne
-pronouciation:
-aliases:
-- Nika
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1728
-died:
-gender: female
-pronouns:
-ancestry: Tollender
 species: human
-affiliations: []
+ancestry: Tollender
+gender: female
+aliases: [Nika]
 family: Hyne
 whereabouts:
-- type: home
-  start: 1730-01-01
-  end: ''
-  location: Fiskurth, Tollen, Western Green Sea
-- type: home
-  start: 1730-01-02
-  end: ''
-  location: Tollen, Western Green Sea
-lastSeenByParty:
-- date: 1748-12-17
-  prefix: DuFr
+- {type: home, start: 1730-01-01, end: '', location: 'Fiskurth, Tollen, Western Green Sea'}
+- {type: home, start: 1730-01-02, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Nika Hyne
 >[!info]+ Biographical Summary

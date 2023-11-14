@@ -1,27 +1,12 @@
 ---
-type: NPC
+tags: [status/stub, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags:
-- stub
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender:
-pronouns:
-ancestry:
 species:
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender:
 ---
 
 historical; friend or perhaps lover of [[Cedric Cyfenwid]]

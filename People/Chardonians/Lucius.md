@@ -1,33 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, event-source, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Lucius
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/background
-- event-source
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1743
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations: []
-family:
+ancestry: Chardonian
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Luminatia, Chardonian Empire
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Luminatia, Chardonian Empire'}
 ---
 # Lucius
 >[!info]+ Biographical Summary

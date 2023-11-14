@@ -1,12 +1,12 @@
 ---
-type: Session Notes
+tags: [session-note]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Mawar Epsiode 04
 realWorldDate: 2021-12-27
 DR: 1747-11-08
 DR_end: 1747-11-09
-players:
-- Ryu
-- Nerissa
-- Ander
+players: [Ryu, Nerissa, Ander]
 ---
 # Episode 4: The Chained Beast
 *In which [[Ander]], [[Nerissa]], and [[Ryu]] battle steam creatures and fire cultists to save a captive dragon turtle.*

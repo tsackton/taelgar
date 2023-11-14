@@ -1,38 +1,16 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-30, type: met}
 name: Kaupa
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1710
-died:
-gender: male
-pronouns:
-ancestry: Skaer
 species: human
-affiliations: []
-family:
+ancestry: Skaer
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Skaerhem, Western Green Sea
-- type: home
-  start: 1745-04-11
-  end: ''
-  location: Tollen, Western Green Sea
-lastSeenByParty:
-- date: 1748-12-30
-  prefix: DuFr
+- {type: home, start: '', end: '', location: 'Skaerhem, Western Green Sea'}
+- {type: home, start: 1745-04-11, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Kaupa
 >[!info]+ Biographical Summary

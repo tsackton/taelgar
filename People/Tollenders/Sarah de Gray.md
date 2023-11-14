@@ -1,38 +1,17 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-29, type: met}
 name: Sarah de Grey
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1733
-died:
-gender: female
-pronouns:
-ancestry: Isinguer
 species: human
-affiliations: []
+ancestry: Isinguer
+gender: female
 family: de Grey
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Duchy of Maseau
-- type: home
-  start: 1746-01-01
-  end: ''
-  location: Tollen, Western Green Sea
-lastSeenByParty:
-- date: 1748-12-29
-  prefix: DuFr
+- {type: home, start: '', end: '', location: Duchy of Maseau}
+- {type: home, start: 1746-01-01, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Sarah de Grey
 >[!info]+ Biographical Summary

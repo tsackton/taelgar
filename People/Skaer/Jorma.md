@@ -1,36 +1,16 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jorma
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/aware
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1716
-died: 1748
-gender: male
-pronouns:
-ancestry: Skaer
 species: human
-affiliations: []
-family:
+ancestry: Skaer
+gender: male
+died: 1748
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Skaerhem
-- type: home
-  start: 1737-01-02
-  end: ''
-  location: Vetta, Skaerhem
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: Skaerhem}
+- {type: home, start: 1737-01-02, end: '', location: 'Vetta, Skaerhem'}
 ---
 # Jorma
 >[!info]+ Biographical Summary

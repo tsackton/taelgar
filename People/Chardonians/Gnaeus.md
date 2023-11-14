@@ -1,38 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Gnaeus
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1701
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- University of Chardon
-- Sibyl's Hall
-family:
+ancestry: Chardonian
+gender: male
+affiliations: [University of Chardon, Sibyl's Hall]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Arendum, Chardonian Empire
-- type: home
-  start: ''
-  end: ''
-  location: Chardon, Chardonian Empire
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Arendum, Chardonian Empire'}
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Gnaeus
 >[!info]+ Biographical Summary

@@ -1,6 +1,11 @@
 ---
-aliases:
-- Footprint of the Gods
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Azta Lekua
+placeType:
+partOf:
+aliases: [Footprint of the Gods]
 ---
 
 # Azta Lekua

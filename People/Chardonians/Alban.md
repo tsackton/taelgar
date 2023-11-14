@@ -1,33 +1,16 @@
 ---
-type: NPC
+tags: [dufr/minor, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Alban
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/aware
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1719
-died: 1748-03-18
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Society of the Open Scroll
-family:
+ancestry: Chardonian
+gender: male
+died: 1748-03-18
+affiliations: [Society of the Open Scroll]
 whereabouts:
-- type: home
-  start: 1719-01-02
-  end: ''
-  location: Chardon, Chardonian Empire
-lastSeenByParty: []
+- {type: home, start: 1719-01-02, end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Alban
 >[!info]+ Biographical Summary

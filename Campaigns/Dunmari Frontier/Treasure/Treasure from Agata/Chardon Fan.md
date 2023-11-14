@@ -1,21 +1,9 @@
 ---
-type: Item
+tags: [thing/item, thing]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: destroyed
-endPrefix: d.
-startStatus: created
-startPrefix: c.
-preExistError: '**(not yet created)**'
-created:
-destroyed:
-magical: false
-maker:
 owner: Kenzo
-ddbLink:
 ---
 # Chardon Fan
 

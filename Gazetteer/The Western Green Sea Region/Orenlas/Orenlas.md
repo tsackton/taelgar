@@ -1,4 +1,11 @@
-# Orenlas
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Orenlas
+placeType:
+partOf:
+---
 
 The ancient elven kingdom of Orenlas is the last remnant of [[Alcarinquë]], one of the great elven civilizations of the ancient days. Orenlas is one of the few places in the world where the magic of the ancient days of myth still lingers. Here can still be found the great dreaming trees of the elves, still echoing the ancient song of Aldanor. 
 

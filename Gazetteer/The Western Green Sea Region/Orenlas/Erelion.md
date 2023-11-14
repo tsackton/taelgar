@@ -1,4 +1,11 @@
-# Erelion
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Erelion
+placeType:
+partOf:
+---
 *air-lee-on*
 
 ## Overview

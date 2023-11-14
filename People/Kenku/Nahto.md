@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Nahto
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met_one
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1700
-died:
-gender: male
-pronouns:
-ancestry: Islander
 species: kenku
-affiliations: []
-family:
+ancestry: Islander
+gender: male
 whereabouts:
-- type: home
-  start: 1700-01-02
-  end: ''
-  location: Wahacha, Vermillion Isles, Eastern Green Sea
-- type: away
-  start: 1748-10-14
-  end: ''
-  location: sea elf village, Quanyi, Eastern Green Sea
-lastSeenByParty: []
+- {type: home, start: 1700-01-02, end: '', location: 'Wahacha, Vermillion Isles, Eastern Green Sea'}
+- {type: away, start: 1748-10-14, end: '', location: 'sea elf village, Quanyi, Eastern Green Sea'}
 ---
 # Nahto
 >[!info]+ Biographical Summary

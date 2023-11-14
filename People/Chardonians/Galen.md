@@ -1,35 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Galen
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Faculty of Magic
-- University of Chardon
-- Society of the Open Scroll
-family:
+ancestry: Chardonian
+gender: male
+affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scroll]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Chardon, Chardonian Empire
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Galen
 >[!info]+ Biographical Summary

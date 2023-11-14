@@ -1,39 +1,16 @@
 ---
-type: NPC
+tags: [status/uptodate, dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-11-01, type: met}
 name: Illaran
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met_one
-- NPC/DuFr/minor
-- status/uptodate
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: korred
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: Crystal Peak, Feywild
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: Crystal Peak, Feywild
-lastSeenByParty:
-- date: 1748-11-01
-  prefix: DuFr
+- {type: home, start: 0001-01-01, end: '', location: 'Crystal Peak, Feywild'}
+- {type: home, start: 0001-01-02, end: '', location: 'Crystal Peak, Feywild'}
 ---
 # Illaran
 >[!info]+ Biographical Summary

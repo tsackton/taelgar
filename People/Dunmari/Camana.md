@@ -1,37 +1,17 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Camana
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/aware
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1721
-died: 1748
-gender: female
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations:
-- Havdar's Warriors
-family:
+ancestry: Dunmari
+gender: female
+died: 1748
+affiliations: [Havdar's Warriors]
 whereabouts:
-- type: home
-  start: 1721-01-02
-  end: ''
-  location: Eastern Dunmar
-- type: away
-  start: 1748-05-01
-  end: ''
-  location: deceased, unknown
-lastSeenByParty: []
+- {type: home, start: 1721-01-02, end: '', location: Eastern Dunmar}
+- {type: away, start: 1748-05-01, end: '', location: 'deceased, unknown'}
 ---
 # Camana
 >[!info]+ Biographical Summary

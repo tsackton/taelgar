@@ -1,32 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Tye Strongbones
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: halfling
-affiliations: []
+ancestry:
+gender: male
 family: Strongbones
 whereabouts:
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: Tokra, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: 0001-01-02, end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Tye Strongbones
 >[!info]+ Biographical Summary

@@ -1,45 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor, grli/major, grli/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-08-26, type: met}
 name: Lyra
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/minor
-- NPC/GrLi/met
-- NPC/GrLi/major
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1705
-died:
-gender: female
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Great Library
-family:
+ancestry: Chardonian
+gender: female
+affiliations: [Great Library]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Darba, Western Dunmar
-- type: home
-  start: 1705-01-02
-  end: ''
-  location: Voltara, Chardonian Empire
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: Chardon, Chardonian Empire
-lastSeenByParty:
-- date: 1748-08-26
-  prefix: DuFr
+- {type: home, start: '', end: '', location: 'Darba, Western Dunmar'}
+- {type: home, start: 1705-01-02, end: '', location: 'Voltara, Chardonian Empire'}
+- {type: away, start: 1748-11-23, end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Lyra
 >[!info]+ Biographical Summary

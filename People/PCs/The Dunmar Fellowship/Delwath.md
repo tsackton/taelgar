@@ -1,41 +1,27 @@
 ---
-type: PC
-name: Delwath
-pronouciation:
-aliases: []
 tags:
-- PC/DunmarFrontier
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
-born:
-ka:
-died:
-gender: male
-pronouns:
-ancestry:
+  - pc
+  - person
+  - pc/dunmarfrontier
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
+name: Delwath
+born: 
+ka: 36
 species: elf
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Ainumarya, West Coast Region
-lastSeenByParty: []
+ancestry: 
+gender: male
 player: Mike Sackton
-ddbLink:
+affiliations: 
+whereabouts:
+  - type: home
+    start: ""
+    end: ""
+    location: Ainumarya, West Coast Region
 ---
 # Delwath
 >[!info]+ Biographical Summary

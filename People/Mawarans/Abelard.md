@@ -1,27 +1,12 @@
 ---
-type: NPC
+tags: [person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Abelard
-pronouciation: 
-aliases: 
-tags:
-  - NPC/DuFr/unaware
-pageTargetDate: 
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: "**(not yet born)**"
-title: 
-born: 
-died: 
-gender: male
-pronouns: 
-ancestry: Mawaran
+born:
 species: human
-affiliations: 
-family: 
-whereabouts: 
-lastSeenByParty:
+ancestry: Mawaran
+gender: male
 ---
 # Abelard
 >[!info]+ Biographical Summary

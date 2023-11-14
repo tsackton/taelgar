@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Alayah
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1725
-died:
-gender: female
-pronouns:
-ancestry: Deno'qai
 species: human
-affiliations: []
-family:
+ancestry: Deno'qai
+gender: female
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Te'kula village
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: Te'kula village}
 ---
 # Alayah
 >[!info]+ Biographical Summary

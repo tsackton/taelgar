@@ -1,4 +1,11 @@
-# Kharsan
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Kharsan
+placeType:
+partOf:
+---
 
 Once a major Dunmari city, now a ruin controlled by the undead warrior [[Grash]]. 
 

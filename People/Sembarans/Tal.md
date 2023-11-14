@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Tal
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: human
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Embry, Sembara
-- type: away
-  start: 1719-10-21
-  end: ''
-  location: somewhere, River Semb, Sembara
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Embry, Sembara'}
+- {type: away, start: 1719-10-21, end: '', location: 'somewhere, River Semb, Sembara'}
 ---
 # Tal
 >[!info]+ Biographical Summary

@@ -1,7 +1,9 @@
 ---
-aliases:
-- The Five Siblings of the Dunmari
-- Dunmari gods
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Five Siblings
+aliases: [The Five Siblings of the Dunmari, Dunmari gods]
 ---
 # The Five Siblings of the Dunmari
 

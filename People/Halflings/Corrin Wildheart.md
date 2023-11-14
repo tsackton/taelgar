@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Corrin Wildheart
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met_one
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: hafling
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: unknown, Eastern Green Sea
-lastSeenByParty: []
+- {type: away, start: 1748-11-23, end: '', location: 'unknown, Eastern Green Sea'}
 ---
 # Corrin Wildheart
 >[!info]+ Biographical Summary

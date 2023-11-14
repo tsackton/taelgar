@@ -1,39 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-30, type: met}
 name: Delios the Sage
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1668
-died:
-gender: male
-pronouns:
-ancestry: Tollender
 species: human
+ancestry: Tollender
+gender: male
 affiliations:
-- - - Ancient and Honorable Guild of Philosophers
-family:
+- - [Ancient and Honorable Guild of Philosophers]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Tollen, Western Green Sea
-- type: home
-  start: 1668-01-02
-  end: ''
-  location: Tollen, Western Green Sea
-lastSeenByParty:
-- date: 1748-12-30
-  prefix: DuFr
+- {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: 1668-01-02, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Delios the Sage
 >[!info]+ Biographical Summary

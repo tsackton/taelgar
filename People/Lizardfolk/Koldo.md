@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [clee/unaware, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Koldo
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unaware
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1512
-died:
-gender: male
-pronouns:
-ancestry:
 species: lizardfolk
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: home
-  start: 1512-01-02
-  end: ''
-  location: Ganboa, Sembara
-lastSeenByParty: []
+- {type: home, start: 1512-01-02, end: '', location: 'Ganboa, Sembara'}
 ---
 # Koldo
 >[!info]+ Biographical Summary

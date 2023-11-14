@@ -1,33 +1,14 @@
 ---
-type: NPC
+tags: [clee/minor, person, dufr/unaware, clee/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Sabine de Brune
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/aware
-- NPC/Clee/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1662
-died:
-gender: female
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
+ancestry: Sembaran
+gender: female
 whereabouts:
-- type: home
-  start: null
-  end: ''
-  location: Valit, Sembara
-lastSeenByParty: []
+- {type: home, start: !!null '', end: '', location: 'Valit, Sembara'}
 ---
 # Sabine de Brune
 >[!info]+ Biographical Summary

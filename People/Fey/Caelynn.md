@@ -1,37 +1,15 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Caelynn the Seer
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/major
-- status/uptodate
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: fey
-affiliations: []
-family:
+ancestry:
+gender: female
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: Dreamhaven, Feywild
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: Tollen, Western Green Sea
-lastSeenByParty: []
+- {type: home, start: 0001-01-01, end: '', location: 'Dreamhaven, Feywild'}
+- {type: home, start: 0001-01-02, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Caelynn the Seer
 >[!info]+ Biographical Summary

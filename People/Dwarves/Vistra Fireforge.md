@@ -1,41 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Vistra Fireforge
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-- NPC/Clee/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1589
-died:
-gender: female
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
+ancestry:
+gender: female
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Tharn Todor, Nardith
-- type: home
-  start: 1620-01-01
-  end: ''
-  location: Ausson's Crossing, Refounded Alliance of Aurbez
-- type: home
-  start: 1730-01-01
-  end: ''
-  location: Tokra, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Tharn Todor, Nardith'}
+- {type: home, start: 1620-01-01, end: '', location: 'Ausson''s Crossing, Refounded Alliance of Aurbez'}
+- {type: home, start: 1730-01-01, end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Vistra Fireforge
 >[!info]+ Biographical Summary

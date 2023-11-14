@@ -1,37 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Vola Forena
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/major
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1721
-died:
-gender: female
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Society of the Open Scroll
-family:
+ancestry: Chardonian
+gender: female
+affiliations: [Society of the Open Scroll]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: unknown, Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-11-23, end: '', location: 'unknown, Dunmar'}
 ---
 # Vola Forena
 >[!info]+ Biographical Summary

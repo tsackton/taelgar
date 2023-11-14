@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Delig Firebrand
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met_one
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: Tharn Todor, Nardith
-lastSeenByParty: []
+- {type: away, start: 1748-11-23, end: '', location: 'Tharn Todor, Nardith'}
 ---
 # Delig Firebrand
 >[!info]+ Biographical Summary

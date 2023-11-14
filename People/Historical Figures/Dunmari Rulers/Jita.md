@@ -1,38 +1,18 @@
 ---
-type: NPC
+tags: [historical, dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jita
-pronouciation:
-aliases:
-- Samraat Jita
-tags:
-- NPC/DuFr/aware
-- NPC/historical
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Samraat Dharajun
 born: 1386
-died: 1460
-gender: female
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
+ancestry: Dunmari
+gender: female
+aliases: [Samraat Jita]
+title: Samraat Dharajun
+died: 1460
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: plains of Songara, Dunmar
-- type: home
-  start: 1405-01-01
-  end: ''
-  location: Tokra, Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'plains of Songara, Dunmar'}
+- {type: home, start: 1405-01-01, end: '', location: 'Tokra, Dunmar'}
 ---
 # Samraat Dharajun Jita
 >[!info]+ Biographical Summary

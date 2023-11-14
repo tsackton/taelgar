@@ -1,6 +1,10 @@
 ---
-type: Building
-parentLocation: Cleenseau
+tags: [place, place/building]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The River’s Blessing
+placeType:
+partOf: Cleenseau
 ---
 
 ### The River's Blessing

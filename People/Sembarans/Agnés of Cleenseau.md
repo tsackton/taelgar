@@ -1,36 +1,16 @@
 ---
-type: NPC
-name: "Agn\xE9s of Cleenseau"
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
+tags: [person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-12-04, type: met}
+name: Agnés of Cleenseau
 born: 1690-04-03
-died:
-gender: female
-pronouns:
-ancestry:
 species: Human
-affiliations: []
-family:
+ancestry:
+gender: female
 whereabouts:
-- type: home
-  start: null
-  end: ''
-  location: Evis, Duchy of Maseau
-- type: home
-  start: null
-  end: ''
-  location: Cleenseau, Sembara
-lastSeenByParty:
-- date: 1719-12-04
-  prefix: Clee
+- {type: home, start: !!null '', end: '', location: 'Evis, Duchy of Maseau'}
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Agnés of Cleenseau
 >[!info]+ Biographical Summary

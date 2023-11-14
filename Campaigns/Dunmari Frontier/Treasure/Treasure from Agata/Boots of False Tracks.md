@@ -1,19 +1,9 @@
 ---
-type: Item
+tags: [thing/item, thing]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: destroyed
-endPrefix: d.
-startStatus: created
-startPrefix: c.
-preExistError: '**(not yet created)**'
-created:
-destroyed:
 magical: true
-maker:
 owner: Marcella
 ddbLink: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
 ---

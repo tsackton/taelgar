@@ -1,8 +1,10 @@
 ---
+tags: [place, '#event-source']
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name: Ruined Elven Workshop (near Tokra)
-parentLocation: Lakan Monastery
-tags:
-- '#event-source'
+placeType:
+partOf: Lakan Monastery
 ---
 # Ruined Elven Workshop
 

@@ -1,6 +1,9 @@
 ---
-aliases:
-- River of Souls
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Land of the Dead
+aliases: [River of Souls]
 ---
 
 # Land of the Dead

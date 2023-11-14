@@ -1,38 +1,16 @@
 ---
-type: NPC
+tags: [event-source, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Casian
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/met
-- event-source
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1722
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Society of the Open Scroll
-family:
+ancestry: Chardonian
+gender: male
+affiliations: [Society of the Open Scroll]
 whereabouts:
-- type: home
-  start: 1722-01-02
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: somewhere in Dunmar, Dunmar
-lastSeenByParty: []
+- {type: home, start: 1722-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-11-23, end: '', location: 'somewhere in Dunmar, Dunmar'}
 ---
 # Casian
 >[!info]+ Biographical Summary

@@ -1,36 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Odo Cordwaner
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Sergeant
 born: 1700
-died:
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
+ancestry: Sembaran
+gender: male
+title: Sergeant
 whereabouts:
-- type: home
-  start: null
-  end: ''
-  location: Cleenseau, Sembara
-- type: away
-  start: 1719-10-21
-  end: ''
-  location: Taviose, Cleenseau
-lastSeenByParty: []
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
+- {type: away, start: 1719-10-21, end: '', location: 'Taviose, Cleenseau'}
 ---
 # Sergeant Odo Cordwaner
 >[!info]+ Biographical Summary

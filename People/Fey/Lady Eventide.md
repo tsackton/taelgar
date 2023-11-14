@@ -1,39 +1,16 @@
 ---
-type: NPC
+tags: [status/uptodate, dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-11-01, type: met}
 name: Lady Eventide
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met_one
-- status/uptodate
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: fey
-affiliations: []
-family:
+ancestry:
+gender: female
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: Amberglow, Feywild
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: Amberglow, Feywild
-lastSeenByParty:
-- date: 1748-11-01
-  prefix: DuFr
+- {type: home, start: 0001-01-01, end: '', location: 'Amberglow, Feywild'}
+- {type: home, start: 0001-01-02, end: '', location: 'Amberglow, Feywild'}
 ---
 # Lady Eventide
 >[!info]+ Biographical Summary

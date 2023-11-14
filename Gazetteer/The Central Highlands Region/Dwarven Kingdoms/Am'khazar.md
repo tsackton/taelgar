@@ -1,6 +1,10 @@
 ---
-tags: [stub]
-parentLocation: The Central Highlands Region
+tags: [place, status/stub]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Am'khazar
+placeType:
+partOf: The Central Highlands Region
 ---
 # Am'khazar
 

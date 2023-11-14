@@ -1,29 +1,13 @@
 ---
-type: NPC
+tags: [historical, person, dufr/unaware, grli/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Airion
-pronouciation:
-aliases: []
-tags:
-- NPC/historical
-- NPC/DuFr/unaware
-- NPC/GrLi/major
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died: 1545
-gender: male
-pronouns:
-ancestry:
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: male
+died: 1545
 ---
 # Airion
 >[!info]+ Biographical Summary

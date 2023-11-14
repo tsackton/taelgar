@@ -1,7 +1,11 @@
 ---
-type: Location
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Hamri
+placeType: town
+partOf: Mawar Confdederacy
 population: 3500
-parentLocation: Mawar Confdederacy
 ---
 # Hamri
 

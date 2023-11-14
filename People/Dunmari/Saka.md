@@ -1,33 +1,14 @@
 ---
-type: NPC
+tags: [status/stub, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Saka
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/met
-- stub
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1664
-died:
-gender: female
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
+ancestry: Dunmari
+gender: female
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: northern plains, Tokra, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'northern plains, Tokra, Central Dunmar'}
 ---
 # Saka
 >[!info]+ Biographical Summary

@@ -1,36 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Nicholas the Beggar
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1651
-died: 1719
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
+ancestry: Sembaran
+gender: male
+died: 1719
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Cleenseau, Sembara
-- type: home
-  start: 1719-10-14
-  end: ''
-  location: deceased
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Cleenseau, Sembara'}
+- {type: home, start: 1719-10-14, end: '', location: deceased}
 ---
 # Nicholas the Beggar
 >[!info]+ Biographical Summary

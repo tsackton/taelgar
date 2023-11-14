@@ -1,21 +1,9 @@
 ---
-type: Item
+tags: [thing/item, thing, status/uptodate]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags:
-- status/uptodate
-pageTargetDate:
-endStatus: destroyed
-endPrefix: d.
-startStatus: created
-startPrefix: c.
-preExistError: '**(not yet created)**'
-created:
-destroyed:
 magical: true
-maker:
-owner:
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm
 ---
 # Horn of Silent Alarm

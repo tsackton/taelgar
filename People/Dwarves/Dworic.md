@@ -1,40 +1,16 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Dworic
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met_one
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1502
-died:
-gender: male
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Ardith
-- type: away
-  start: 1575-09-19
-  end: ''
-  location: Bleakhold
-- type: home
-  start: 1748-08-25
-  end: ''
-  location: Nardith
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: Ardith}
+- {type: away, start: 1575-09-19, end: '', location: Bleakhold}
+- {type: home, start: 1748-08-25, end: '', location: Nardith}
 ---
 # Dworic
 >[!info]+ Biographical Summary

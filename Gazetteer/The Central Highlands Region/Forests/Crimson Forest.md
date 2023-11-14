@@ -1,20 +1,10 @@
 ---
-type: Place
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: destroyed
-endPrefix: d.
-startStatus: founded
-startPrefix: f.
-preExistError: '**(not yet created)**'
-created:
-destroyed:
-location:
-population:
-politicalUnit:
+placeType:
+partOf:
 ---
 
 # The Crimson Forest

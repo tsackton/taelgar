@@ -1,4 +1,11 @@
-# Voltara
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Voltara
+placeType:
+partOf:
+---
 
 ## Overview
 

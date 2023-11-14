@@ -1,13 +1,12 @@
 ---
-type: Session Notes
+tags: [session-note]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Mawar Epsiode 03
 realWorldDate: 2021-11-27
 DR: 1747-10-23
 DR_end: 1747-10-28
-players:
-- Ryu
-- Nerissa
-- Trok
-- Kaleho
+players: [Ryu, Nerissa, Trok, Kaleho]
 ---
 # Episode 3: The Tomb of Yerkir-khor
 *In which [[Kaleho]], [[Trok]], [[Nerissa]], and [[Ryu]] head inland to find a missing treasure hunter, and uncover the lost tomb of [[Yerkir-khor]] in the process*

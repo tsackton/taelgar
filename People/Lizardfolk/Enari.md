@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Enari
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met_one
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: lizardfolk
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: unknown, Orekatu
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: Bedez, Orekatu
-lastSeenByParty: []
+- {type: home, start: 0001-01-02, end: '', location: 'unknown, Orekatu'}
+- {type: away, start: 1748-11-23, end: '', location: 'Bedez, Orekatu'}
 ---
 # Enari
 >[!info]+ Biographical Summary

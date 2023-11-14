@@ -1,41 +1,17 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-11-15, type: met}
 name: Agata Dustmother
-pronouciation:
-aliases:
-- Old Woman of the Dusts
-- Dasoclese
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/met
-- status/uptodate
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry: hag
 species: fey
-affiliations: []
-family:
+ancestry: hag
+gender: female
+aliases: [Old Woman of the Dusts, Dasoclese]
 whereabouts:
-- type: home
-  start: ""
-  end: ''
-  location: edge of the Garamjala Desert, Eastern Dunmar
-- type: away
-  start: 1748-11-15
-  end: ''
-  location: Heartwood Grove, Amberglow, Feywild
-lastSeenByParty:
-- date: 1748-11-15
-  prefix: DuFr
+- {type: home, start: '', end: '', location: 'edge of the Garamjala Desert, Eastern Dunmar'}
+- {type: away, start: 1748-11-15, end: '', location: 'Heartwood Grove, Amberglow, Feywild'}
 ---
 # Agata Dustmother
 >[!info]+ Biographical Summary

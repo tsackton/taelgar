@@ -1,21 +1,9 @@
 ---
-type: Item
+tags: [thing/item, thing]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name: Circlet of Foreknowledge
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: destroyed
-endPrefix: d.
-startStatus: created
-startPrefix: c.
-preExistError: '**(not yet created)**'
-created:
-destroyed:
 magical: true
-maker:
-owner:
-ddbLink:
 ---
 # Circlet of Foreknowledge
 ### (magical item)

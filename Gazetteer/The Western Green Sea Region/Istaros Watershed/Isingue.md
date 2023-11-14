@@ -1,4 +1,11 @@
-# Isingue
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Isingue
+placeType:
+partOf:
+---
 
 The now-ruined city on the [[Istaros]], once the cultural and spiritual capitol of the [[Istabor Alliance]]. 
 

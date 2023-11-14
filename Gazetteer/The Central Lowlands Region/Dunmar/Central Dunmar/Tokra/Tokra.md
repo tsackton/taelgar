@@ -1,8 +1,10 @@
 ---
-tags:
-  - "#event-source"
-parentLocation: Dunmar
+tags: [place, '#event-source']
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name: Tokra
+placeType:
+partOf: Dunmar
 ---
 ## Overview of Tokra
 

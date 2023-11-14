@@ -1,38 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-25, type: met}
 name: Tulvak
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1719
-died:
-gender: male
-pronouns:
-ancestry: Skaer
 species: human
-affiliations: []
-family:
+ancestry: Skaer
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Pyhlla, Skaerhem
-- type: home
-  start: 1719-01-02
-  end: ''
-  location: Pyhlla, Skaerhem
-lastSeenByParty:
-- date: 1748-12-25
-  prefix: DuFr
+- {type: home, start: '', end: '', location: 'Pyhlla, Skaerhem'}
+- {type: home, start: 1719-01-02, end: '', location: 'Pyhlla, Skaerhem'}
 ---
 # Tulvak
 >[!info]+ Biographical Summary

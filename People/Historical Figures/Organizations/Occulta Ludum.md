@@ -1,19 +1,8 @@
 ---
-type: Organization
+tags: [status/stub, organization, organization/unsorted]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags:
-- stub
-- organization/unsorted
-pageTargetDate:
-endStatus: disbanded
-endPrefix: d.
-startStatus: founded
-startPrefix: f.
-preExistError: '**(not yet founded)**'
-created:
-destroyed:
 ---
 
 # Occulta Ludum

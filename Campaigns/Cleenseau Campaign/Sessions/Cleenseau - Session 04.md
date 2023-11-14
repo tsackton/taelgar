@@ -1,14 +1,12 @@
 ---
+tags: [session-note, cleenseau-campaign]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau - Session 04
 fc-date: 1719-11-03
 fc-end: 1719-12-04
 realDate: 2023-04-30
-tags:
-- session-note
-- cleenseau-campaign
-campaign: Cleenseau
 sessionNumber: 4
-name: Cleenseau - Session 04
-type: SessionNote
 ---
 # Cleenseau - Session 4
 >_in Taelgar from the late afternoon of the [[Festival of the Bridge]], on November 3rd, through the late afternoon of December 4th

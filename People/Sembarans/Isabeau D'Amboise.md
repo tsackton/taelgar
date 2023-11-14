@@ -1,27 +1,13 @@
 ---
-type: NPC
+tags: [unsorted, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Isabeau D'Amboise
-pronouciation:
-aliases: []
-tags:
-- NPC/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Baron
 born: 1672
-died:
-gender: female
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: female
+title: Baron
 ---
 # Baron Isabeau D'Amboise
 >[!info]+ Biographical Summary

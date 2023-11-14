@@ -1,8 +1,9 @@
 ---
-aliases:
-- kenku
+tags: [status/stub]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Kenku
+aliases: [kenku]
 speciesDescriptor: kenku
-tags:
-- stub
 ---
 (stub)

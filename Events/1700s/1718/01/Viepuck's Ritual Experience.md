@@ -1,19 +1,10 @@
 ---
-type: Event
-name:
-pronouciation:
-aliases: []
 tags: []
-pageTargetDate:
-endStatus: ended
-endPrefix: ''
-startStatus: started
-startPrefix: ''
-preExistError: '**(has not happened)**'
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
 DR: 1719-10-20
-DR_end:
 fc-date: 1718-01-24
-fc-end:
 fc-display-name: Viepuck Meeting his Patron
 ---
 ### Viepuck Meetings His Patron

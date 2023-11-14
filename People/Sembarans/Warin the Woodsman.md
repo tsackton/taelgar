@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [clee/unaware, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Warin the Woodsman
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1671
-died:
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
+ancestry: Sembaran
+gender: male
 whereabouts:
-- type: home
-  start: 1671-01-02
-  end: ''
-  location: Valit, Sembara
-lastSeenByParty: []
+- {type: home, start: 1671-01-02, end: '', location: 'Valit, Sembara'}
 ---
 # Warin the Woodsman
 >[!info]+ Biographical Summary

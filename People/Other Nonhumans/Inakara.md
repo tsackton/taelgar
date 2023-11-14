@@ -1,36 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Inakara
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1702
-died: 1748
-gender: female
-pronouns:
-ancestry:
 species: derro
-affiliations: []
-family:
+ancestry:
+gender: female
+died: 1748
 whereabouts:
-- type: home
-  start: 1702-01-02
-  end: ''
-  location: Dwarven Outpost, Raven's Hold, Eastern Dunmar
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: deceased, Dwarven outpost, Raven's Hold, Eastern Dunmar
-lastSeenByParty: []
+- {type: home, start: 1702-01-02, end: '', location: 'Dwarven Outpost, Raven''s Hold, Eastern Dunmar'}
+- {type: away, start: 1748-11-23, end: '', location: 'deceased, Dwarven outpost, Raven''s Hold, Eastern Dunmar'}
 ---
 # Inakara
 >[!info]+ Biographical Summary

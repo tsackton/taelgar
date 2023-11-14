@@ -1,36 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Theba
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/met
-pageTargetDate: 1749-11-01
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1717
-died:
-gender: female
-pronouns:
-ancestry: Deno'qai
 species: human
-affiliations: []
-family:
+ancestry: Deno'qai
+gender: female
+pageTargetDate: 1749-11-01
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Bek'eni village, Elderwood
-- type: away
-  start: 1749-01-01
-  end: ''
-  location: Elderwood
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Bek''eni village, Elderwood'}
+- {type: away, start: 1749-01-01, end: '', location: Elderwood}
 ---
 # Theba
 >[!info]+ Biographical Summary

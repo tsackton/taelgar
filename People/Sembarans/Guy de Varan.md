@@ -1,44 +1,18 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Guy de Varan
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1693
-died:
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
+ancestry: Sembaran
+gender: male
 family: de Varan
 whereabouts:
-- type: home
-  start: null
-  end: ''
-  location: Evis, Duchy of Maseau
-- type: away
-  start: 1719-10-31
-  end: ''
-  location: Orc Fort, Duchy of Maseau
-- type: away
-  start: 1719-11-30
-  end: ''
-  location: Bandit's Way, Duchy of Maseau
-- type: away
-  start: 1719-12-01
-  end: ''
-  location: Cleenseau, Sembara
-lastSeenByParty: []
+- {type: home, start: !!null '', end: '', location: 'Evis, Duchy of Maseau'}
+- {type: away, start: 1719-10-31, end: '', location: 'Orc Fort, Duchy of Maseau'}
+- {type: away, start: 1719-11-30, end: '', location: 'Bandit''s Way, Duchy of Maseau'}
+- {type: away, start: 1719-12-01, end: '', location: 'Cleenseau, Sembara'}
 ---
 # Guy de Varan
 >[!info]+ Biographical Summary

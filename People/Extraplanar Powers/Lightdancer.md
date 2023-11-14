@@ -1,30 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Lightdancer
-pronouciation:
-aliases:
-- Egon
-- Lord Egon
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/met_one
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: nonbinary
-pronouns:
-ancestry: archfey
 species: fey
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: archfey
+gender: nonbinary
+aliases: [Egon, Lord Egon]
 ---
 # Lightdancer
 >[!info]+ Biographical Summary

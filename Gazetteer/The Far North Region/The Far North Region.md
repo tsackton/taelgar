@@ -1,4 +1,11 @@
-## Overview
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Far North Region
+placeType:
+partOf:
+---
 
 This region of Taelgar spans the distant, rumored north, from the polar coasts in the west, across the strange lands north of [[Pandar]], to the expansive tundra and taiga north of the kenku homelands and the coastal cities of the [[Eastern Green Sea]]. 
 

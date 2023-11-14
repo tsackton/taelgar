@@ -1,8 +1,9 @@
 ---
-type: Item
+tags: [thing/item, thing]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name: Brot's Telescope (small)
 created: 1719
-magical: false
 maker: Brot Starsearcher
 owner: Izgil Moonseeker
 ---

@@ -1,36 +1,16 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Frankar
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met_one
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: mysteriously vanished
-endPrefix: disappeared
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1714
-died: 1730
-gender: male
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
+ancestry:
+gender: male
+died: 1730
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Darakan, Khatridun, Sentinel Range
-- type: away
-  start: 1730-01-01
-  end: ''
-  location: unknown, unknown
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Darakan, Khatridun, Sentinel Range'}
+- {type: away, start: 1730-01-01, end: '', location: 'unknown, unknown'}
 ---
 # Frankar
 >[!info]+ Biographical Summary

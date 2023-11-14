@@ -1,33 +1,15 @@
 ---
-type: NPC
+tags: [dufr/aware, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Agon
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/aware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1694
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Society of the Open Scroll
-family:
+ancestry: Chardonian
+gender: male
+affiliations: [Society of the Open Scroll]
 whereabouts:
-- type: home
-  start: 1694-01-02
-  end: ''
-  location: Chardon, Chardonian Empire
-lastSeenByParty: []
+- {type: home, start: 1694-01-02, end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Agon
 >[!info]+ Biographical Summary

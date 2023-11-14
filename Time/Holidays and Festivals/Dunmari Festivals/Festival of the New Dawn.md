@@ -1,8 +1,10 @@
 ---
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Festival of the New Dawn
 fc-calendar: Taelgar
-fc-date:
-  day: 23
-  month: 1
+fc-date: {day: 23, month: 1}
 ---
 
 

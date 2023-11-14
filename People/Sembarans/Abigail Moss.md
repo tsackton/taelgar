@@ -1,15 +1,15 @@
 ---
-type: NPC
+tags: [unsorted, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-12-04, type: met}
 name: Abigail Moss
+born: 1698
 species: human
 ancestry: Sembaran
 gender: female
-born: 1698
-lastSeenByParty: 
-  - { date: 1719-12-04, prefix: Clee }
-whereabouts: 
-  - { type: home, location: Taviose }
-tags: [NPC/unsorted]
+whereabouts:
+- {type: home, location: Taviose}
 ---
 # Abigail Moss
 >[!info]+ Biographical Summary

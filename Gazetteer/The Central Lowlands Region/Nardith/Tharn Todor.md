@@ -1,6 +1,10 @@
 ---
-type: Location
-parentLocation: Nardith
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Tharn Todor
+placeType:
+partOf: Nardith
 ---
 
 ### Tharn Todor

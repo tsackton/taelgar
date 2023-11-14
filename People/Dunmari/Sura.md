@@ -1,56 +1,22 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-26, type: met}
 name: Nayan Sura
-pronouciation:
-aliases:
-- Nayan Sura
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/major
-- status/uptodate
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1720
-died:
-gender: female
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
+ancestry: Dunmari
+gender: female
+aliases: [Nayan Sura]
 family: Nayan Dynasty
 whereabouts:
-- type: home
-  start: 1721-01-01
-  end: ''
-  location: Darba, Western Dunmar
-- type: away
-  start: 1740-01-01
-  end: ''
-  location: Mirror of Soul Trapping
-- type: away
-  start: 1748-06-08
-  end: ''
-  location: Karawa, Eastern Dunmar
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: Sura's army camp, Central Dunmar
-- type: away
-  start: 1748-12-14
-  end: ''
-  location: Tokra, Central Dunmar
-- type: away
-  start: 1748-12-22
-  end: ''
-  location: plains south of Tokra, Central Dunmar
-lastSeenByParty:
-- date: 1748-12-26
-  prefix: DuFr
+- {type: home, start: 1721-01-01, end: '', location: 'Darba, Western Dunmar'}
+- {type: away, start: 1740-01-01, end: '', location: Mirror of Soul Trapping}
+- {type: away, start: 1748-06-08, end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1748-11-23, end: '', location: 'Sura''s army camp, Central Dunmar'}
+- {type: away, start: 1748-12-14, end: '', location: 'Tokra, Central Dunmar'}
+- {type: away, start: 1748-12-22, end: '', location: 'plains south of Tokra, Central Dunmar'}
 ---
 
 # Nayan Sura

@@ -1,6 +1,10 @@
 ---
-type: Location
-parentLocation: Tyrwingha
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Clawyn
+placeType:
+partOf: Tyrwingha
 ---
 ### Clawyn
 

@@ -1,33 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Cade Strongbones
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1709
-died:
-gender: male
-pronouns:
-ancestry:
 species: halfling
-affiliations:
-- Strongbones
-family:
+ancestry:
+gender: male
+affiliations: [Strongbones]
 whereabouts:
-- type: home
-  start: 1709-01-02
-  end: ''
-  location: Tokra, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: 1709-01-02, end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Cade Strongbones
 >[!info]+ Biographical Summary

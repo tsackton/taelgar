@@ -1,40 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Tharandros
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/major
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: centaur
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: away
-  start: 1748-06-03
-  end: ''
-  location: Karawa, Eastern Dunmar
-- type: away
-  start: 1748-07-18
-  end: ''
-  location: Myraeni Gap, Central Dunmar
-- type: away
-  start: 1748-08-25
-  end: ''
-  location: unknown, unknown
-lastSeenByParty: []
+- {type: away, start: 1748-06-03, end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1748-07-18, end: '', location: 'Myraeni Gap, Central Dunmar'}
+- {type: away, start: 1748-08-25, end: '', location: 'unknown, unknown'}
 ---
 # Tharandros
 >[!info]+ Biographical Summary

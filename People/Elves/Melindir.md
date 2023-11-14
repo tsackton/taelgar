@@ -1,38 +1,17 @@
 ---
-type: NPC
+tags: [person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-17, type: met}
 name: Melindir
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
 ka: 35
-died:
-gender: male
-pronouns:
-ancestry:
 species: elf
-affiliations: []
-family:
+ancestry:
+gender: male
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: Orenlas, Western Green Sea
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: Tollen, Western Green Sea
-lastSeenByParty:
-- date: 1748-12-17
-  prefix: DuFr
+- {type: home, start: 0001-01-01, end: '', location: 'Orenlas, Western Green Sea'}
+- {type: home, start: 0001-01-02, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Melindir
 >[!info]+ Biographical Summary

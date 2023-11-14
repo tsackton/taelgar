@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Finellen Silverstone
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
+ancestry:
+gender: female
 whereabouts:
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: Darba, Western Dunmar
-lastSeenByParty: []
+- {type: home, start: 0001-01-02, end: '', location: 'Darba, Western Dunmar'}
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Summary

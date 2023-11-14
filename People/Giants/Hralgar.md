@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Hralgar
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: storm
 species: giant
-affiliations: []
-family:
+ancestry: storm
+gender: male
 whereabouts:
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: trapped in Stormcaller Tower, Eastern Dunmar
-- type: home
-  start: 1748-11-24
-  end: ''
-  location: drifting on the storm, Taelgar
-lastSeenByParty: []
+- {type: away, start: 1748-11-23, end: '', location: 'trapped in Stormcaller Tower, Eastern Dunmar'}
+- {type: home, start: 1748-11-24, end: '', location: 'drifting on the storm, Taelgar'}
 ---
 # Hralgar
 >[!info]+ Biographical Summary

@@ -1,6 +1,10 @@
 ---
-type: Location
-parentLocation: Barony of Aveil
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau
+placeType:
+partOf: Barony of Aveil
 pronounciation: Klen-sew
 population: 1189
 ---
