@@ -27,6 +27,12 @@ Given a whereabouts and a target date two additional values are calculated - imp
 	- If there are no valid home locations, home is unknown. Note if you want a defined origin and an unknown home, you must have only home locations with real end dates < target date in the whereabouts. 
 
 Examples:
+
+```yaml
+born: 1450
+{ type: home, start: , end: , location: origin}
+{ type: home, start: 1500, end: , location: home}
+```
 ```yaml
 born: 1450
 { type: home, start: , end: , location: origin}
@@ -67,6 +73,7 @@ born: 1450
 { type: home, start: , end: , location: home}
 ```
 This should generate "origin/home" for all valid dates (>1450)
+
 
 1. A current whereabouts is defined as the valid current location with the shortest duration. A valid current location is determined by the following algorithm:
 	- if there are no away lines in the whereabouts, the only valid current location is the home location, which might be unknown
