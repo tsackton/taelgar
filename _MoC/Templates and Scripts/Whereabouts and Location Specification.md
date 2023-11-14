@@ -59,6 +59,7 @@ This should generate "origin" as the origin whereabouts.
 2. A home whereabouts is defined as the valid home location with the shortest duration between imputed start and target date.
 	- A valid home location is a home location where imputed end >= target date
 	- If there are multiple valid home locations with equal duration between imputed start and target date, the lexicographically last home is considered the home whereabouts.
+	- If there are no valid home locations, home is unknown. Note if you want a defined origin and an unknown home, you must have only home locations with real end dates < target date in the whereabouts. 
 
 3. A current whereabouts is defined as the valid current location with the shortest duration. A valid current location is determined by the following algorithm:
 	- if there are no away lines in the whereabouts, the only valid current location is the home location
