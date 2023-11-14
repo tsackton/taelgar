@@ -1,3 +1,74 @@
+## Whereabouts Handling, Take 2
+
+A whereabouts entry consists of four parts:
+- a type, which can be home or away
+- a start, which is any date, an empty string, or a null/None value
+- an end, which is any date, an empty string, or a null/None value
+- a location, which is any string, which can be empty, or a null/None
+  
+A whereabouts entry must have a type.
+A whereabouts entry with a type of away must have a start that is a valid date.
+
+To calculate a whereabouts result requires a whereabouts metadata and a target date. The target\ date is usually the current date, but can be overwritten with yaml frontmatter (e.g. pageTargetDate). Functions to calculate whereabouts locations assume they will always be passed a metadata object from which whereabouts can be extracted, and a target date. If there is a pageTargetDate in the metadata, this will override the target date passed to the function.
+
+Given a whereabouts and a target date two additional values are calculated - imputed start, imputed end. We also assume that born and died may exist or may be undefined. 
+- for type home, the imputed start is equal to the earliest possible date derived from born, or a generic earliest possible date if born is undefined, and the imputed end is equal to the target date, or the died date if it exists
+- for type away, imputed start is always equal to start, which must be provided. if start is YYYY or YYYY-MM, imputed start should be the earliest valid month/day
+- for type away, imputed end is always equal to imputed_start
+
+1. An origin whereabouts is defined as the earliest 'home' location, where earliest is defined as the smallest imputed start.
+	- if multiple home locations have the same imputed start, the lexicographically first home is considered the origin whereabouts.
+	- if born is defined and imputed_start > born, origin whereabouts is "unknown"
+
+Examples:
+```yaml
+{ type: home, start: , end: , location: origin}
+{ type: home, start: 1500, end: , location: home}
+```
+This should generate "origin" as the origin whereabouts
+
+```yaml
+born: 1450
+{ type: home, start: 1475, end: 1499, location: first home}
+{ type: home, start: 1500, end: , location: home}
+```
+This should generate "unknown" as the origin whereabouts
+
+```yaml
+born: 1450
+{ type: home, start: 1475, end: , location: home}
+{ type: home, start: , end: , location: origin}
+```
+This should generate "origin" as the origin whereabouts
+
+
+2. A home whereabouts is defined as the valid home location with the shortest duration between imputed start and target date.
+	- A valid home location is a home location where imputed end >= target date
+	- If there are multiple valid home locations with equal duration between imputed start and target date, the lexicographically last home is considered the home whereabouts.
+
+3. A current whereabouts is defined as the valid current location with the shortest duration. A valid current location is determined by the following algorithm:
+	- if there are no away lines in the whereabouts, the only valid current location is the home location
+	- if there are away lines, the list of valid current locations is the set of away locations where imputed start <= target_date <= imputed_end
+	- if the list of valid current locations is empty, then the current whereabouts is set to unknown if real end is undefined, and home otherwise
+	- if the list of valid current locations is not empty, then the current whereabouts is set to the valid location with the shortest duration (imputed_end - imputed_start)
+
+4. A last know whereabouts is defined as the valid current location with the shortest duration, defined as imputed_end - target_date. A known location cannot be unknown. A known location is determined by the following algorithm:
+	- if the current whereabouts is not unknown, the last known whereabouts is the current whereabouts, and the last known date is the target date
+	- if the current whereabouts is unknown, by definition there must be away lines, and there must be away lines with undefined real ends. in this scenario, to determine the last known location:
+	- the last known location is the away lines where imputed_start <= target_date and with the shortest duration between imputed_end and target_date
+	- if there are multiple valid last known locations, the one with the shortest duration (imputed_end - imputed_start) is preferred
+	- if there are multiple valid last known locations with the same duration, the one lexigraphically last in the file is preferred
+	- the last known date is defined as the imputed_end of the last known location
+
+**For discussion:**
+
+If there is a died date in the metadata, this will also override the target date. Or is there a better way to handle dead people?
+
+
+## Whereabouts Handling, Take 1
+
+
+
 This is the new specification for whereabouts. Note that the intention here is to assume sensibility on the author of the metadata, so undefined cases (i.e. multiple events with the same dates) might have unpredictable results.
 
 Whereabouts is YAML list with the following format:

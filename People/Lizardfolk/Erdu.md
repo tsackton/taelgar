@@ -8,7 +8,7 @@ species: lizardfolk
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: 1441-01-02, end: '', location: 'Ganboa, Semabara'}
+- {type: home, start: "", end: '', location: 'Ganboa, Semabara'}
 - {type: away, start: 1719-12-04, end: '', location: 'Ganboa, Semabara'}
 ---
 # Erdu
