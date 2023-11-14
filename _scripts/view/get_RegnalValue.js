@@ -4,7 +4,6 @@ function get_RegnalValue(metadata) {
 
     let regnalData = metadataUtils.get_regnalData(metadata)
 
-
     if (!regnalData.isStarted) return "";
 
     if (!regnalData.isCurrent) {
@@ -12,10 +11,10 @@ function get_RegnalValue(metadata) {
             return "reigned " + regnalData.startDate.display + " - " + regnalData.endDate.display + " (" + regnalData.length + " years)";
         }
         else {
-            return "reign ended " + yearEnd.display;
+            return "reign ended " + regnalData.endDate.display;
         }
     }
-    else if (pageExistenceData.length) {       
+    else if (regnalData.length) {       
         return "reigning since " + regnalData.startDate.display + " (" + regnalData.length + " years)";       
     }
     else {    

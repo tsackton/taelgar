@@ -9,10 +9,15 @@ async function regenerateHeader(tp) {
     let filecontents = await app.vault.adapter.read(tfile.path);
     let currentContents = filecontents.split('\n');  
 
-    let fileType = tp.frontmatter.type;
-    if (!fileType) {
-        new Notice("This file has no filetype and therefore does not support header regeneration");
+    let hasTags = tp.frontmatter.tags && tp.frontmatter.tags.length > 0;
+    if (!hasTags) {
+        new Notice("This file has no tags and therefore does not support header regeneration");
         return;
+    }
+
+    if (tp.frontmatter.tags.filter(f => !f.startsWith("status")).length == 0) {
+        new Notice("Skipping regeneration of stub header; remove stub to process header")
+        return
     }
 
     // the end of the yaml -- this is 0-counting, so if the file is just a yaml start and end it will be 1

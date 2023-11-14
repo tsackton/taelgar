@@ -11,7 +11,7 @@ title:
 family: 
 affiliations: 
 aliases: 
-tags: []
+tags: [person]
 lastSeenByParty:
   - date: 1748-12-17
     prefix: DuFr
