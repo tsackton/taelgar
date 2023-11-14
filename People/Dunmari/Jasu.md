@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jasu
+born: 1694
 species: human
 ancestry: Dunmari
 gender: male
-born: 1694
-died: 
-affiliations: 
-aliases: []
-title:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
-family:
 whereabouts:
-     - { date: 1694-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: 1694-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Jasu
 >[!info]+ Biographical Summary

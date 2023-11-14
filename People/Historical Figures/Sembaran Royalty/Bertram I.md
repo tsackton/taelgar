@@ -1,17 +1,15 @@
 ---
-type: Ruler
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Bertram I
 born: 1538
+species: human
 ancestry: Sembaran
 gender: male
+reignStart: 1549
 died: 1552
 family: House of Sewick
-title:
-affiliations:
-reignStart: 1549
-reignEnd:
-name: Bertram I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Bertram I
 >[!info]+ Biographical Summary

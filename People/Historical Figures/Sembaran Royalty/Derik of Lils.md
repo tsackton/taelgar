@@ -1,17 +1,15 @@
 ---
-type: Ruler
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Derik
-reignEnd:
-reignStart:
-affiliations:
-title:
-family: House of Lils
-died: 1633
-gender: male
-ancestry: Sembaran
 born: 1569
 species: human
+ancestry: Sembaran
+gender: male
+reignStart:
+died: 1633
+family: House of Lils
 ---
 # Derik
 >[!info]+ Biographical Summary

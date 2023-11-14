@@ -1,21 +1,17 @@
 ---
-type: NPC
+tags: [pc/cleenseau, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Viepuck
-species: human
-ancestry: 
-gender: male
 born: 1706
-died: 
-affiliations: 
+species: human
+ancestry:
+gender: male
+player:
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
-title:
-family:
-tags: [PC/Cleenseau]
-campaign: Cleenseau
-player: Chris Kelly
 whereabouts:
-     - { date: 1706-01-01, place: "Embry", region: Sembara, type: origin }
-     - { date: 1719-10-19, place: "Cleenseau", region: Sembara, type: excursion }
+- {type: home, start: '', end: '', location: 'Embry, Sembara'}
+- {type: away, start: 1719-10-19, end: '', location: 'Cleenseau, Sembara'}
 ---
 # Viepuck
 >[!info]+ Biographical Summary

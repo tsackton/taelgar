@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Devana
+born:
 species: human
 ancestry: Dunmari
 gender: male
-born: 
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "north and west of Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'north and west of Karawa, Eastern Dunmar'}
 ---
 # Devana
 >[!info]+ Biographical Summary

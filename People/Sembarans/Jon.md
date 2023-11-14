@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Jon
 born: 1700
+species: human
 ancestry: Sembaran
 gender: male
-died: 
-family:
-title:
-affiliations:
-name: Jon
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Jon
 >[!info]+ Biographical Summary

@@ -1,9 +1,12 @@
 ---
-type: Session Notes
+tags: [session-note]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Mawar Epsiode 02
 realWorldDate: 2021-08-19
-taelgar-date: 1747-08-03
-taelgar-date-end: 1747-08-09
-players: ["Ryu", "Wazir", "Trok", "Kaleho"]
+DR: 1747-08-03
+DR_end: 1747-08-09
+players: [Ryu, Wazir, Trok, Kaleho]
 ---
 
 # Episode 2: The Tragedy of Azar

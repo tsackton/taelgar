@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [clee/unaware, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Unai
-species: lizardfolk
-ancestry: 
-gender: female
 born: 1602
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
-yearOverride: 
+species: lizardfolk
+ancestry:
+gender: female
 whereabouts:
-     - { date: 1602-01-02, place: "Ganboa", region: Sembara, type: home }
+- {type: home, start: 1602-01-02, end: '', location: 'Ganboa, Sembara'}
 ---
 # Unai
 >[!info]+ Biographical Summary

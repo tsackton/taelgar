@@ -1,1 +1,8 @@
-%% (just south of Addermarch, and north of Plaguelands, beyond borders of Sembara) %%
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Darkwood
+placeType:
+partOf:
+---

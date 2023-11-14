@@ -1,28 +1,23 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-10-20, type: met}
 name: Perrin Voclain
+born: 1659
 species: human
 ancestry: Sembaran
 gender: male
-born: 1659
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-lastSeenByParty: 
-- { date: 1719-10-20, prefix: Clee }
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: 1659-01-01, place: "Taviose", region: Sembara, type: home}    
-     - { date: 1719-10-21, place: "Valit", region: Sembara, type: excursion }
+- {type: home, start: '', end: '', location: 'Taviose'}
+- {type: away, start: 1719-10-21, end: 1719-10-26, location: 'Valit'}
 ---
 # Perrin Voclain
 >[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Taviose]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Sembara|Sembaran]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Perrin Voclain is a sage and druid who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]].
 

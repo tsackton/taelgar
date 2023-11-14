@@ -1,17 +1,14 @@
 ---
-type: Ruler
-species: human
+tags: [historical, person/ruler, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Bertram II
 born: 1535
+species: human
 ancestry: Sembaran
 gender: male
-died: 1561
-family:
-title:
-affiliations:
 reignStart: 1552
-reignEnd:
-name: Bertram II
-tags: [NPC/historical, NPC/DuFr/unaware]
+died: 1561
 ---
 # Bertram II
 >[!info]+ Biographical Summary

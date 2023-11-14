@@ -1,17 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Alayah
-species: human
-ancestry: "Deno'qai"
-gender: female
-affiliations: 
 born: 1725
-title:
-origin: { place: "Te'kula village", region: Elderwood }
-family:
-died: 
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+species: human
+ancestry: Deno'qai
+gender: female
+whereabouts:
+- {type: home, start: '', end: '', location: Te'kula village}
 ---
 # Alayah
 >[!info]+ Biographical Summary

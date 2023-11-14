@@ -1,19 +1,14 @@
 ---
-type: PC
+tags: [pc/greatwar, pc, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kyr
+born:
 species: lizardfolk
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/GreatWar]
-campaign: "Great War"
-player: "Eric Rosenbaum"
-yearOverride: 
+player: Eric Rosenbaum
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Kyr
 

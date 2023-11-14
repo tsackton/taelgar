@@ -1,17 +1,15 @@
 ---
-type: Ruler
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Blanche I
 born: 1536
+species: human
 ancestry: Sembaran
 gender: female
+reignStart: 1561
 died: 1567
 family: House of Sewick
-title:
-affiliations:
-reignStart: 1561
-reignEnd:
-name: Blanche I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
 ---
 # Blanche I
 >[!info]+ Biographical Summary

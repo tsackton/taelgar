@@ -1,17 +1,14 @@
 ---
-type: Ruler
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Anne of Sewick
 born: 1537
+species: human
 ancestry: Sembaran
 gender: female
-died: 1582
-family:
-title:
-affiliations:
 reignStart:
-reignEnd:
-name: Anne of Sewick
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+died: 1582
 ---
 # Anne of Sewick
 >[!info]+ Biographical Summary

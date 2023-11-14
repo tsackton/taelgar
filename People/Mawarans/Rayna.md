@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Rayna
 born:
+species: human
 ancestry: Mawaran
 gender: female
-died:
-family:
-title:
-affiliations:
-name: Rayna
-tags: [NPC/MC/unaware, NPC/DuFr/unaware]
 ---
 # Rayna
 >[!info]+ Biographical Summary

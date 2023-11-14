@@ -1,5 +1,10 @@
 ---
-tags: [stub]
+tags: [place, status/stub]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Great South Road
+placeType:
+partOf:
 ---
 # Great South Road
 

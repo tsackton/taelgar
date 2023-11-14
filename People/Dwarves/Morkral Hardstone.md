@@ -1,21 +1,12 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Morkral Hardstone
+born:
 species: dwarf
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/background]
-yearOverride: 
 ---
 ### Morkral Hardstone
 

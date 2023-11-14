@@ -1,3 +1,13 @@
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau
+placeType:
+partOf: Barony of Aveil
+pronunciation: Klen-sew
+population: 1189
+---
 ### Cleenseau
 *population 1189, halflings and human combined*
 *pronounciation Klen-sew*

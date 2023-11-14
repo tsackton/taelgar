@@ -1,31 +1,25 @@
 ---
-type: NPC
+tags:
+  - person
+  - dufr/unaware
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo:
+  - campaign: 
+    date: 0001-01-01
+    type: met
 name: Lord Umbraeth
+born: 
 species: fey
 ancestry: 
 gender: male
-born: 
-died: 
-title: 
-family: 
-affiliations: 
-aliases:
-  - Gloomshaper
-tags:
-  - NPC/unsorted
-  - NPC/DuFr/unaware
-lastSeenByParty:
-  - date: 0000-00-00
-    prefix: 
+aliases: [Gloomshaper]
 whereabouts:
-  - date: 0001-01-01
-    place: Twilight's Grace
-    region: Feywild
-    type: origin
-  - date: 0001-01-02
-    place: Duskmire
-    region: Feywild
-    type: home
+  - { type: home, start: "", end: "", location: Twilight's Grace, Feywild }
+  - { type: home, start: "", end: "", location: Duskmire, Feywild }
 ---
 # Lord Umbraeth
 >[!info]+ Biographical Summary

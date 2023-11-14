@@ -1,15 +1,13 @@
 ---
-type: NPC
-tags: [NPC/DuFr/unaware, NPC/Clee/unsorted]
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Narrisa de Abadelle
-affiliations: [Order of the Charitable Wanderer]
-title:
-family:
-died:
-gender: female
-ancestry: Sembaran
 born: 1682
 species: human
+ancestry: Sembaran
+gender: female
+affiliations: [Order of the Charitable Wanderer]
 ---
 # Narrisa de Abadelle
 >[!info]+ Biographical Summary

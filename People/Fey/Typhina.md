@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Typhina
+born:
 species: fey
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/background, NPC/DuFr/aware]
-yearOverride: 
 whereabouts:
-     - { date: , place: "Amberglow", region: Feywild, type: origin }
+- {type: home, start: '', end: '', location: 'Amberglow, Feywild'}
 ---
 # Typhina
 >[!info]+ Biographical Summary

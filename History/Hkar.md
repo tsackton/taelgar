@@ -1,5 +1,6 @@
 ---
-tags: [stub]
+tags:
+- status/stub
 ---
 # Hkar
 

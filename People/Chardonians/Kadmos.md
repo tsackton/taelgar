@@ -1,30 +1,27 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: 
+- { prefix: dufr, date: 1748-12-08, type: encountered }
 name: Kadmos
+born: 1711
 species: human
 ancestry: Chardonian
 gender: male
-born: 1711
-died: 1748
-title: 
-family: 
-affiliations:
-  - The Society of the Open Scroll
-aliases: 
-tags:
-  - NPC/DuFr/major
-  - NPC/DuFr/met
+died: 1748-12-08 #double check this
+affiliations: [The Society of the Open Scroll]
 whereabouts:
-  - {date: 0001-01-02, place: Chardon, region: "Chardonian Empire", type: home} 
-  - {date: 1748-11-15, place: "somewhere in Dunmar", region: Dunmar, type: excursion}
-  - {date: 1748-11-19, place: "Garamjala Desert", region: Dunmar, type: excursion} 
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-11-15, end: '', location: 'somewhere in Dunmar, Dunmar'}
+- {type: away, start: 1748-11-19, end: '', location: 'Garamjala Desert, Dunmar'}
+- {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
 ---
 # Kadmos
 >[!info]+ Biographical Summary
->human (Chardonian), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Chardon]], [[Chardonian Empire]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
 

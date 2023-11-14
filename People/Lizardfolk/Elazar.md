@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Elazar
-species: lizardfolk
-ancestry: 
-gender: male
 born: 1665
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
+species: lizardfolk
+ancestry:
+gender: male
 whereabouts:
-     - { date: 1665-01-02, place: "Bedez", region: Orekatu, type: home}
+- {type: home, start: 1665-01-02, end: '', location: 'Bedez, Orekatu'}
 ---
 # Elazar
 >[!info]+ Biographical Summary

@@ -1,15 +1,13 @@
 ---
-type: NPC
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Cedric Cyfenwid
-affiliations:
-title:
-family:
-died: 1674
-gender: male
-ancestry: Sembaran
 born: 1598
 species: human
+ancestry: Sembaran
+gender: male
+died: 1674
 ---
 # Cedric Cyfenwid
 >[!info]+ Biographical Summary

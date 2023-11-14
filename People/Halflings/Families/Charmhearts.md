@@ -1,7 +1,8 @@
 ---
-name: Charmhearts
 tags: [organization/family]
-type: Organization
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
+name: Charmhearts
 ---
 # The Charmhearts
 

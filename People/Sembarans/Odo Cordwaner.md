@@ -1,19 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Odo Cordwaner
+born: 1700
 species: human
 ancestry: Sembaran
 gender: male
-born: 1700
-died: 
 title: Sergeant
-affiliations: 
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
-family:
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home}
-     - { date: 1719-10-21, place: "Taviose", region: Cleenseau, type: excursion}
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
+- {type: away, start: 1719-10-21, end: '', location: 'Taviose, Cleenseau'}
 ---
 # Sergeant Odo Cordwaner
 >[!info]+ Biographical Summary

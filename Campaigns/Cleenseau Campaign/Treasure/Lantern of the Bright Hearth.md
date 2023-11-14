@@ -1,10 +1,16 @@
 ---
-type: Item
-owner: Robin of Abenfyrd
-dbbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
-magical: true
+tags:
+  - item
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Lantern of the Bright Hearth
-tags: []
+owner: Robin of Abenfyrd
+ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
+magical: true
 ---
 # Lantern of the Bright Hearth
 >[!info]+ Magical Item

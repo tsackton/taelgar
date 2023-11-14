@@ -1,7 +1,10 @@
 ---
-fc-calendar: Taelgar
-fc-date: 1748-6-17
-fc-end: 1748-6-19
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Feast of Bhishma
+fc-date: {day: 17, month: 6, year: 1748}
+fc-end: {day: 19, month: 6, year: 1748}
 ---
 # The Feast of Bhishma
 

@@ -1,4 +1,11 @@
-### The Chardon Canal
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Old Chardon Canal
+placeType:
+partOf:
+---
 
 Variously referred to as the [[Chardon]] Canal, the Old [[Chardon]] Canal, the Great [[Chardon]] Canal, or just the Canal, this is an 87 mile long sea-level canal that connects the Endless Ocean near [[Chardon]] with the Emerald Bay and the [[Nevos Sea]]. 
 

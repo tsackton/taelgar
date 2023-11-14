@@ -1,23 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Escobar Garavito
+born: 1727
 species: human
 ancestry: Cymean
 gender: male
-born: 1727
-died: 
-title: 
-family: 
-affiliations:
-  - "University of Tollen"
-  - "Dyer's Guild"
-aliases: []
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
+affiliations: [University of Tollen, Dyer's Guild]
 whereabouts:
-     - { date: 1727-01-01, place: "Lavila, Cymea", region: "Western Green Sea", type: origin}
-     - { date: 1727-01-02, place: "Tollen", region: "Western Green Sea", type: home}
+- {type: home, start: '', end: '', location: 'Lavila, Cymea, Western Green Sea'}
+- {type: home, start: 1727-01-02, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Escobar Garavito
 >[!info]+ Biographical Summary

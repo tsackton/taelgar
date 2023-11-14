@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jumi
+born: 1746
 species: human
 ancestry: Dunmari
 gender: female
-born: 1746
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/met, NPC/DuFr/minor]
-yearOverride: 
 whereabouts:
-     - { date: 1746-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: 1746-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Jumi
 >[!info]+ Biographical Summary

@@ -1,4 +1,4 @@
-async function regenerateHeader(tp, type) {
+async function regenerateHeader(tp) {
        
     async function updateCurrentFile(someContent, someFile) {
         someContent = someContent.join("\n");     
@@ -9,7 +9,7 @@ async function regenerateHeader(tp, type) {
     let filecontents = await app.vault.adapter.read(tfile.path);
     let currentContents = filecontents.split('\n');  
 
-    let fileType = type;
+    let fileType = tp.frontmatter.type;
     if (!fileType) {
         new Notice("This file has no filetype and therefore does not support header regeneration");
         return;

@@ -1,20 +1,15 @@
 ---
-type: NPC
+tags: [clee/unaware, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Erdu
-species: lizardfolk
-ancestry: 
-gender: male
 born: 1441
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/Clee/unaware, NPC/DuFr/unaware]
-yearOverride: 
+species: lizardfolk
+ancestry:
+gender: male
 whereabouts:
-     - { date: 1441-01-02, place: "Ganboa", region: Semabara, type: home }
-     - { date: 1719-12-04, place: "Ganboa", region: Semabara, type: excursion }
+- {type: home, start: 1441-01-02, end: '', location: 'Ganboa, Semabara'}
+- {type: away, start: 1719-12-04, end: '', location: 'Ganboa, Semabara'}
 ---
 # Erdu
 >[!info]+ Biographical Summary

@@ -1,18 +1,14 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Susanne Garay
+born: 1666
 species: human
 ancestry: Sembaran
 gender: female
-born: 1666
-died: 
-title:
-family:
-affiliations: 
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: 1666-01-02, place: "Embry", region: Sembara, type: home}
+- {type: home, start: 1666-01-02, end: '', location: 'Embry, Sembara'}
 ---
 # Susanne Garay
 >[!info]+ Biographical Summary

@@ -1,19 +1,15 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Eremon
+born: 1663
 species: human
 ancestry: Sembaran
 gender: male
-born: 1663
-title:
-family:
-died: 
-affiliations: 
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: , place: "Fellburn", region: Sembara, type: origin}
-     - { date: 1719-05-15, place: "Cleenseau", region: Sembara, type: home}
+- {type: home, start: !!null '', end: '', location: 'Fellburn, Sembara'}
+- {type: home, start: 1719-05-15, end: '', location: 'Cleenseau, Sembara'}
 ---
 # Eremon
 >[!info]+ Biographical Summary

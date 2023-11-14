@@ -1,20 +1,17 @@
 ---
-type: PC
+tags: [pc, person, pc/guest]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Shoal
+born: 1652
+ka: 37
 species: elf
 ancestry: sea
 gender: male
-born: 1652
-ka: 37
-died: 
-affiliations: 
-player: "Phil Grayson"
-campaign: "Dunmar Frontier"
-aliases: []
-yearOverride: 
-tags: [PC/DunmarFrontier/SoloGuest]
+player: Phil Grayson
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 whereabouts:
-     - { date: 1652-01-02, place: "unknown", region: Quanyi, type: home }
+- {type: home, start: 1652-01-02, end: '', location: 'unknown, Quanyi'}
 ---
 # Shoal
 >[!info]+ Biographical Summary

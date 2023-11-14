@@ -1,4 +1,8 @@
 ---
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 speciesDescriptor: stoneborn
 ---

@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [mc/minor, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Yaz
 born:
+species: human
 ancestry:
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Yaz
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Yaz
 >[!info]+ Biographical Summary

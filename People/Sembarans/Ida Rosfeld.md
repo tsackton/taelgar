@@ -1,20 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ida Rosfeld
+born: 1692
 species: human
 ancestry: Sembaran
 gender: female
-born: 1692
-title:
-family:
-died: 
-affiliations: ["Army of the West"]
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+affiliations: [Army of the West]
 whereabouts:
-     - { date: , place: "Dunfry", region: Sembara, type: origin }
-     - { date: , place: "Cleenseau", region: Sembara, type: home }
-
+- {type: home, start: !!null '', end: '', location: 'Dunfry, Sembara'}
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Ida Rosfeld
 >[!info]+ Biographical Summary

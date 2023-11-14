@@ -1,5 +1,8 @@
 ---
 tags: [event-source]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Treaty of Marhavn
 DR: 402
 ---
 

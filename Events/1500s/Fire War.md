@@ -1,10 +1,11 @@
 ---
-aliases:
-  - Mavdyr's War
+tags: ['#event-source']
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Fire War
+aliases: [Mavdyr's War]
 DR: 1552-05-17
-DR-end: 1553-07-10
-tags:
-  - "#event-source"
+DR_end: 1553-07-10
 ---
 
 # The Fire War

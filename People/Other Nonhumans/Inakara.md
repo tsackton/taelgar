@@ -1,20 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Inakara
-species: derro
-ancestry: 
-gender: female
 born: 1702
+species: derro
+ancestry:
+gender: female
 died: 1748
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1702-01-02, place: "Dwarven Outpost, Raven's Hold", region: "Eastern Dunmar", type: home }
-     - { date: 1748-11-23, place: "deceased, Dwarven outpost, Raven's Hold", region: "Eastern Dunmar", type: excursion }
+- {type: home, start: 1702-01-02, end: '', location: 'Dwarven Outpost, Raven''s Hold, Eastern Dunmar'}
+- {type: away, start: 1748-11-23, end: '', location: 'deceased, Dwarven outpost, Raven''s Hold, Eastern Dunmar'}
 ---
 # Inakara
 >[!info]+ Biographical Summary

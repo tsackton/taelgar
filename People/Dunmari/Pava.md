@@ -1,20 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Pava
+born: 1673
 species: human
 ancestry: Dunmari
 gender: male
-born: 1673
-died: 
-affiliations: ["Order of the Awakened Soul"]
-title:
-family:
-aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/met]
-yearOverride: 
+affiliations: [Order of the Awakened Soul]
 whereabouts:
-     - { date: 1673-01-01, place: "plains to the east, Songara", region: Central Dunmar, type: origin}
-     - { date: 1673-01-02, place: "Pava and Avaras' House", region: Garamjala Desert, type: home}
+- {type: home, start: '', end: '', location: 'plains to the east, Songara, Central Dunmar'}
+- {type: home, start: 1673-01-02, end: '', location: 'Pava and Avaras'' House, Garamjala Desert'}
 ---
 # Pava
 >[!info]+ Biographical Summary

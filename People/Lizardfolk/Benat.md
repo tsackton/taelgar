@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: lizardfolk
+tags: [mc/minor, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Benat
 born:
+species: lizardfolk
 ancestry:
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Benat
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Benat
 >[!info]+ Biographical Summary

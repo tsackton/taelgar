@@ -1,21 +1,18 @@
 ---
-type: NPC
+tags: [person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: !!null '', date: !!null '', type: met}
 name: Captain Symone Barbet
-species: Human
-ancestry: 
-gender: female
 born: 1690-11-15
-died: 
+species: Human
+ancestry:
+gender: female
 title: Commander of the South Watch
-family: 
-affiliations: 
-  - South Watch
-aliases: 
-tags: 
-  - 
-lastSeenByParty: 
-  - { date: , prefix: }
-whereabouts: 
-  - { date: , place: , region: , type: origin }
-  - { date: , place: , region: , type: home }
+affiliations: [South Watch]
+whereabouts:
+- {type: home, start: !!null '', end: '', location: ''}
+- {type: home, start: !!null '', end: '', location: ''}
+---
+
 %% Captain Symone Barbet is the respected 29-year-old commander of the South Watch in Dunfry. %%

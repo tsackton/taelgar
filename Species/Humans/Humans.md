@@ -1,7 +1,10 @@
 ---
+tags: [status/stub]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Humans
 aliases: [human]
 speciesDescriptor: human
-tags: [stub]
 ---
 # Humans
 

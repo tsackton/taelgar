@@ -1,17 +1,14 @@
 ---
-type: Ruler
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Charlotte II
 born: 1621
+species: human
 ancestry: Sembaran
 gender: female
-died: 1648
-family:
-affiliations:
 reignStart: 1628
-name: Charlotte II
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd:
-title:
+died: 1648
 ---
 # Charlotte II
 >[!info]+ Biographical Summary

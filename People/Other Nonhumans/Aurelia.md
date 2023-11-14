@@ -1,23 +1,16 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-30, type: met}
 name: Aurelia
-species: centaur
-ancestry: 
-gender: female
 born: 1703
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-lastSeenByParty: 
-  - { date: 1748-12-30, prefix: DuFr }
-whereabouts: 
-  - { date: 1703-01-01, place: "unknown", region: "", type: origin }
-  - { date: 1733-01-02, place: "Tollen", region: "Western Green Sea", type: home }
+species: centaur
+ancestry:
+gender: female
+whereabouts:
+- {type: home, start: '', end: '', location: unknown}
+- {type: home, start: 1733-01-02, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Aurelia
 >[!info]+ Biographical Summary

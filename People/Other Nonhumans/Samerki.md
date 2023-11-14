@@ -1,21 +1,13 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Samerki
+born:
 species: giant
 ancestry: oni
 gender: male
-born: 
 died: 1748
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
 ---
 ### Samerki
 

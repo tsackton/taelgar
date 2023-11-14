@@ -1,19 +1,16 @@
 ---
-type: NPC
+tags: [historical, dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Akaston
-title: Emperor
+born:
 species: human
 ancestry: Hkaran
 gender: male
-born: 
+title: Emperor
 died: 911
-affiliations: 
-tags: [NPC/historical, NPC/DuFr/aware, NPC/DuFr/background]
-family:
-yearOverride: 
-aliases:
 whereabouts:
-     - { date: 0001-01-01, place: "Drankor", region: Drankorian Empire, type: home}
+- {type: home, start: "", end: '', location: 'Drankor, Drankorian Empire'}
 ---
 # Emperor Akaston
 >[!info]+ Biographical Summary

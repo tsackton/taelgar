@@ -1,4 +1,11 @@
-### Lakan Monastery
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Lakan Monastery
+placeType:
+partOf:
+---
 
 The Lakan monastery is set on a hill about 3 1/2 miles south of [[Tokra]], overlooking the River [[Hara]]. The ancient road from [[Tokra]] winds up the cliffs approaching the monastery.
 

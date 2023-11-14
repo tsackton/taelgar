@@ -1,19 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ashar
+born: 1688
 species: human
 ancestry: Dunmari
 gender: male
-born: 1688
-died: 
-title:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-family:
 whereabouts:
-     - { date: 1688-01-01, place: "Tokra", region: Central Dunmar, type: origin }
-     - { date: 1688-01-02, place: "Tokra", region: Central Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: 1688-01-02, end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Ashar
 >[!info]+ Biographical Summary

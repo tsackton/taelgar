@@ -1,7 +1,8 @@
 ---
-tags:
-  - DuFr
-  - session-note
+tags: [session-note, dufr]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Session 63 (DuFr)
 ---
 # Session 63, Dunmar Frontier
 *in which the party journeys across Dunmar to Stormcaller Tower.*

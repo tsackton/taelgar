@@ -1,14 +1,14 @@
 ---
+tags: [session-note, cleenseau-campaign]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau - Session 03
 fc-calendar: Taelgar Calendar
 fc-date: 1719-10-25
 fc-end: 1719-11-03
 fc-category: Cleenseau Campaign
-realDate: 2023-03-19
-tags: [session-note, cleenseau-campaign]
-campaign: Cleenseau
+realWorldDate: 2023-03-19
 sessionNumber: 3
-name: Cleenseau - Session 03
-type: SessionNote
 ---
 # Cleenseau - Session 3
 >_in Taelgar from the October 25th through the late afternoon of the [[Festival of the Bridge]], on November 3rd

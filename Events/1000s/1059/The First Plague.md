@@ -1,6 +1,9 @@
 ---
-aliases: [First Plague]
 tags: [event-source]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The First Plague
+aliases: [First Plague]
 DR: 1059
 ---
 

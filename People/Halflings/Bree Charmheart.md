@@ -1,21 +1,12 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Bree Charmheart
+born:
 species: halfling
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
 ---
 # Bree Charmheart
 >[!info]+ Biographical Summary

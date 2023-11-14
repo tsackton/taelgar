@@ -1,7 +1,9 @@
 ---
+tags: [organization]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
+name:
 aliases: [Sewick]
-tags: [organization/unsorted]
-type: Organization
 ---
 ### The House of Sewick
 

@@ -1,18 +1,14 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Safri
+born:
 species: human
-ancestry: "Deno'qai"
+ancestry: Deno'qai
 gender: female
-born: 
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
 whereabouts:
-     - { date: 1748-10-25, place: "forest valleys of the north", region: Sentinel Range, type: visit }
+- {type: away, start: 1748-10-25, end: '', location: 'forest valleys of the north, Sentinel Range'}
 ---
 # Safri
 >[!info]+ Biographical Summary

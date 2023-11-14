@@ -1,16 +1,14 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Béatrix of Cleenseau
 born: 1698
+species: human
 ancestry: Sembaran
 gender: female
-died:
-family:
-title:
-affiliations: [Army of the West, Bridge Patrol, Lord's Guard of Cleenseau]
-name: Béatrix of Cleenseau
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 aliases: [Béatrix of Cleenseau, Béatrix, Beatrix]
+affiliations: [Army of the West, Bridge Patrol, Lord's Guard of Cleenseau]
 ---
 # Béatrix of Cleenseau
 >[!info]+ Biographical Summary

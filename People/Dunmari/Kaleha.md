@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [status/stub, person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kaleha
+born: 1699
 species: human
 ancestry: Dunmari
 gender: female
-born: 1699
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met, stub]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-01, place: "Tokra", region: Central Dunmar, type: home }
+- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Kaleha
 >[!info]+ Biographical Summary

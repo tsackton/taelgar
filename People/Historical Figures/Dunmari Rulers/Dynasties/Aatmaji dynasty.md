@@ -1,6 +1,8 @@
 ---
-tags: [organization/unsorted, stub]
-type: Organization
+tags: [status/stub, organization]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
+name:
 ---
 
 ## The Aatmaji Dynasty

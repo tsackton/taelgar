@@ -1,19 +1,15 @@
 ---
-type: NPC
+tags: [historical, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ila
+born:
 species: human
 ancestry: Dunmari
 gender: male
-born: 
-died: 
-affiliations: 
-aliases: []
 title: Commander
-family:
-tags: [NPC/historical, NPC/DuFr/aware]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "unknown", region: Central Dunmar, type: home}
+- {type: home, start: "", end: '', location: 'unknown, Central Dunmar'}
 ---
 # Commander Ila
 >[!info]+ Biographical Summary

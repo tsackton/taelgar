@@ -1,17 +1,14 @@
 ---
-type: PC
-species:
+tags: [pc, person, pc/guest]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Rothfis
 born:
+species:
 ancestry:
 gender:
-died:
-origin:
-originRegion:
-affiliations:
 player:
-campaign:
-name: Rothfis
-tags: [PC/DunmarFrontier/SoloGuest]
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ## Rothfis
 

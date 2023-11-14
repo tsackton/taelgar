@@ -1,18 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Beli
+born: 1720
 species: human
 ancestry: Dunmari
 gender: female
-born: 1720
-died: 
-title:
-family:
-affiliations: ["Shakun mystai"]
-aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/background]
+affiliations: [Shakun mystai]
 whereabouts:
-     - { date: 1720-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: 1720-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Beli
 >[!info]+ Biographical Summary

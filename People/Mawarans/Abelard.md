@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Abelard
 born:
+species: human
 ancestry: Mawaran
 gender: male
-died:
-family:
-title:
-affiliations:
-name: Abelard
-tags: [NPC/MC/unsorted, NPC/DuFr/unaware]
 ---
 # Abelard
 >[!info]+ Biographical Summary

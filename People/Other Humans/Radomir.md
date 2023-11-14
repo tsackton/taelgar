@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/aware, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Radomir
+born: 1710
 species: human
 ancestry: Urskan
 gender: male
-born: 1710
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/minor, NPC/DuFr/aware]
-yearOverride: 
 whereabouts:
-     - { date: 1710-01-02, place: "unknown", region: Ursk, type: home }
+- {type: home, start: 1710-01-02, end: '', location: 'unknown, Ursk'}
 ---
 # Radomir
 >[!info]+ Biographical Summary

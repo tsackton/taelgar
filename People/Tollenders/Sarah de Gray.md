@@ -1,23 +1,17 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-29, type: met}
 name: Sarah de Grey
+born: 1733
 species: human
 ancestry: Isinguer
 gender: female
-born: 1733 
-died: 
-title: 
 family: de Grey
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/background
-lastSeenByParty: 
-  - { date: 1748-12-29, prefix: DuFr } # Please replace YYYY-MM-DD with the actual date
-whereabouts: 
-  - { date: 1733-01-01, place: "", region: "Duchy of Maseau", type: origin }
-  - { date: 1746-01-01, place: "Tollen", region: "Western Green Sea", type: home }
+whereabouts:
+- {type: home, start: '', end: '', location: Duchy of Maseau}
+- {type: home, start: 1746-01-01, end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Sarah de Grey
 >[!info]+ Biographical Summary

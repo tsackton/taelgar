@@ -1,35 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1749-01-02, type: met}
 name: Elwis
-species: elf
-ancestry: 
-gender: female
 born: 1634
 ka: 37
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags:
-  - NPC/DuFr/met
-lastSeenByParty:
-  - date: 1749-01-02
-    prefix: DuFr
+species: elf
+ancestry:
+gender: female
 whereabouts:
-  - start: 1634-01-01
-    place: Orenlas
-    region: ""
-    type: home
-  - start: 1744-01-01
-    end: 1748-08-28
-    place: Green Sea
-    region: ""
-    type: away
-  - start: 1748-08-29
-    place: Tollen
-    region: ""
-    type: away
+- {type: home, start: '', end: '', location: Orenlas}
+- {type: away, start: 1744-01-01, end: 1748-08-28, location: Green Sea}
+- {type: away, start: 1748-08-29, end: '', location: Tollen}
 ---
 # Elwis
 >[!info]+ Biographical Summary

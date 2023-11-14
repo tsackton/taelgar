@@ -1,19 +1,18 @@
 ---
-type: Ruler
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Cynan
 born: 1538
+species: human
 ancestry: Tyrwinghan
 gender: male
-died: 1589
-family:
-title: King
-affiliations:
 reignStart:
-reignEnd: 1585
-name: Cynan
-tags: [NPC/Clee/unsorted, NPC/historical, NPC/DuFr/unaware]
+title: King
+died: 1589
 whereabouts:
-     - { date: 1538-01-02, place: "unknown", region: Tyrwingha, type: home }
+- {type: home, start: 1538-01-02, end: '', location: 'unknown, Tyrwingha'}
+reignEnd: 1585
 ---
 # King Cynan
 >[!info]+ Biographical Summary

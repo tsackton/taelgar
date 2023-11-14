@@ -1,23 +1,12 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Odim Mavdyrson
+born:
 species: giant
 ancestry: fire
 gender: male
-born: 
-died: 
-location: 
-locationRegion: 
-home: 
-homeRegion: 
-origin: 
-originRegion: 
-affiliations: 
-aliases: 
-tags:
-  - NPC/DuFr/background
-  - NPC/DuFr/aware
-yearOverride:
 ---
 ### Odim Mavdyrson
 

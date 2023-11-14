@@ -1,17 +1,14 @@
 ---
-type: PC
-species: stoneborn
+tags: [pc, person, pc/guest]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Aristaea
 born:
+species: stoneborn
 ancestry:
 gender: female
-died:
-origin:
-originRegion:
-affiliations:
 player:
-campaign:
-name: Aristaea
-tags: [PC/DunmarFrontier/SoloGuest]
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Aristaea Mountainhands
 

@@ -1,16 +1,20 @@
 ---
-type: Ruler
-species: human
+tags:
+  - person/ruler
+  - person
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
+name: Hugh of Sewick
 born: 1482
+species: human
 ancestry: Sembaran
 gender: male
+reignStart: 
 died: 1518
-family:
-title:
-affiliations:
-reignStart:
-name: Hugh of Sewick
-tags: [NPC/unsorted]
 ---
 # Hugh of Sewick
 >[!info]+ Biographical Summary

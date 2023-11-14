@@ -1,4 +1,8 @@
 ---
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Drankorian Empire
 aliases: [Drankor]
 ---
 # The Drankorian Empire

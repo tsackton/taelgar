@@ -1,17 +1,14 @@
 ---
-type: PC
-species:
+tags: [pc, person, pc/guest]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Raven
 born:
+species:
 ancestry:
 gender:
-died:
-origin:
-originRegion:
-affiliations:
 player:
-campaign:
-name: Raven
-tags: [PC/DunmarFrontier/SoloGuest]
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 <% tp.user.generateHeader(tp) %>
 ## Raven 

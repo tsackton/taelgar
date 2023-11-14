@@ -1,23 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-21, type: met}
 name: Skalme
+born: 1707
 species: human
 ancestry: Skaer
 gender: female
-born: 1707 
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty: 
-  - { date: 1748-12-21, prefix: DuFr }
-whereabouts: 
-  - { date: 1709-01-01, place: "", region: "Skaerhem", type: origin }
-  - { date: 1731-01-02, place: "Antaka", region: "", type: home }
+whereabouts:
+- {type: home, start: 1709-01-01, end: '', location: Skaerhem}
+- {type: home, start: 1731-01-02, end: '', location: Antaka}
 ---
 # Skalme
 >[!info]+ Biographical Summary

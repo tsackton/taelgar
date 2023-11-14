@@ -1,17 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kaslan
-species: human
-ancestry: "Deno'qai"
-gender: male
 born: 1699
-died: 
-title:
-family:
-origin: "Ko'zula village"
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
+species: human
+ancestry: Deno'qai
+gender: male
+whereabouts:
+- {type: home, start: '', end: '', location: Ko'zula village}
 ---
 # Kaslan
 >[!info]+ Biographical Summary

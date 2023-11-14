@@ -1,21 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, person, historical, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Daruk
-species: dwarf
-ancestry: 
-gender: male
 born: 1323
+species: dwarf
+ancestry:
+gender: male
 died: 1533
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/aware, NPC/DuFr/background, NPC/historical]
-yearOverride: 
 ---
 # Daruk
 >[!info]+ Biographical Summary

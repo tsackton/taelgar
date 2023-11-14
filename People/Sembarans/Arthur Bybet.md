@@ -1,19 +1,15 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Arthur Bybet
+born: 1682
 species: human
 ancestry: Sembaran
 gender: male
-born: 1682
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { place: Ainswick, region: Sembara, type: origin }
-     - { place: Cleenseau, region: Sembara, type: home }
+- {type: home, start: '', end: '', location: 'Ainswick, Sembara'}
+- {type: home, start: '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Arthur Bybet
 >[!info]+ Biographical Summary

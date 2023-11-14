@@ -1,6 +1,9 @@
 ---
-tags:
-  - "#event-source"
+tags: [event-source]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Timeline of Sembaran History
+timelineDescriptor: Sembaran History
 ---
 # The Drankorian Conquest
 DR 300 - DR 431

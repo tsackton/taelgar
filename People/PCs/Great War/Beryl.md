@@ -1,19 +1,15 @@
 ---
-type: PC
+tags: [pc/greatwar, pc, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Beryl
+born: 1510
 species: human
 ancestry: Isinguen
 gender: male
-born: 1510
+player: Mike Sackton
 died: 1545
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/GreatWar]
-campaign: "Great War"
-player: "Mike Sackton"
-yearOverride: 
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Beryl
 

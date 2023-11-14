@@ -1,7 +1,9 @@
 ---
-DR: 1719-11-03
-type: Event
 tags: [event-source]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
+DR: 1719-11-03
 ---
 ## Attempted Poisoning of Cleenseau
 A group of bandits lead by [[François the Bandit]] attempted to poison the [[Army Garrison of Cleenseau]] and much of the rest of the populace during the [[Festival of the Bridge]]. Using a purgative derived from [[Gentza]]'s research the group was apparently planning on sickening much of the defensive strength of the town and then burning as much of it down as they could.

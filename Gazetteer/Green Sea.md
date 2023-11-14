@@ -1,9 +1,11 @@
 ---
-aliases:
-  - Green Sea
-  - the Green Sea
-tags:
-  - stub
+tags: [place, status/stub]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Green Sea
+placeType:
+partOf:
+aliases: [Green Sea, the Green Sea]
 ---
 
 # The Green Sea

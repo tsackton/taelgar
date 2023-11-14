@@ -1,17 +1,14 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Enon
-species: human
-ancestry: "Deno'qai"
-gender: male
 born: 1688
-died: 
-origin: "Ko'zula village"
-title:
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
+species: human
+ancestry: Deno'qai
+gender: male
+whereabouts:
+- {type: home, start: '', end: '', location: Ko'zula village}
 ---
 # Enon
 >[!info]+ Biographical Summary

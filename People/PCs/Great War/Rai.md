@@ -1,19 +1,14 @@
 ---
-type: PC
+tags: [pc/greatwar, pc, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Rai
-species: 
-ancestry: 
+born:
+species:
+ancestry:
 gender: male
-born: 
-died: 
-affiliations: 
-origin:
-originRegion:
-aliases: []
-tags: [PC/GreatWar]
-campaign: "Great War"
-player: "David Kong"
-yearOverride: 
+player: David Kong
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Rai
 

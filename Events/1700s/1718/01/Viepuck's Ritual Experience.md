@@ -1,6 +1,9 @@
 ---
-taelgar-date: 1719-10-20
-type: Event
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
+DR: 1719-10-20
 fc-date: 1718-01-24
 fc-display-name: Viepuck Meeting his Patron
 ---

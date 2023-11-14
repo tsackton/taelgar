@@ -1,9 +1,10 @@
 ---
-fc-calendar: Taelgar Calendar
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
+DR: 1719-10-20
 fc-date: 1719-10-20
-taelgar-date: 1719-10-20
-type: Event
-fc-category: Cleenseau Campaign
 ---
 ### First Spider Attack on Taviose
 *October 20th, 1719; 10am*

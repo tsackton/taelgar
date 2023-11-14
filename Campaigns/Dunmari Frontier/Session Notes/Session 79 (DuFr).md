@@ -31,7 +31,7 @@ During this time, everyone has taken care of personal business, too. [[Seeker]] 
 
 [[Kenzo]] spends time cultivating the garden on the skyship, and wandering [[Tollen]] learning of the local fauna and the local nature, while also spending time with [[Iskra]], who he shares a deep connection and spiritual journey with, and is perhaps kind of his girlfriend now. While not out and about, [[Kenzo]] has also been working on a hall of stories for the ship, in honor of [[Bhishma]], telling not just the tales of the party, but those they have met as well. 
 
-[[Delwath]] spends time returning to his quartermaster roots, both working on the kitchen and the storerooms on [[Vindristjarna]], and spending time stocking the ship with a variety of useful goods for the journey. He also visits [[Melindir]] again, and gets the packet of letters he promised to deliver to [[Gazetteer/The Western Green Sea Region/Istaros Watershed/Orenlas]]. 
+[[Delwath]] spends time returning to his quartermaster roots, both working on the kitchen and the storerooms on [[Vindristjarna]], and spending time stocking the ship with a variety of useful goods for the journey. He also visits [[Melindir]] again, and gets the packet of letters he promised to deliver to [[Orenlas]].
 
 The party departs [[Tollen]] the morning of January 6th, crossing the [[Western Gulf]] and arriving on the western shores of [[Cymea]] by nightfall on January 7th. Traveling through the night and into the morning, the party arrives at the Freccila River and the cave entrance to the Edge of Echoes at midday. Before exploring, they are interrupted by the arrival of a paper bird bearing a [[Philosopher's Information Concerning Frankar|message]] for [[Seeker]].
 

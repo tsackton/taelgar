@@ -1,4 +1,11 @@
-# Garamjala Desert
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Garamjala Desert
+placeType:
+partOf:
+---
 
 A vast sandy desert south and east of [[Karawa]], formed in the aftermath of the [[Events/1500s/Great War]] by the rain shadow cast by the newly rising [[Yuvanti Mountains]]. 
 

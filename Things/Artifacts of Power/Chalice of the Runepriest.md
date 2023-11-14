@@ -1,11 +1,17 @@
 ---
-type: Item
 tags:
-  - Item/unsorted
+  - item
   - event-source
-maker:
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: 
+unique: true
 ---
-# The Chalice of the Runepriest
+# Chalice of the Runepriest
 
 A elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it. 
 

@@ -1,17 +1,17 @@
 ---
-type: Ruler
-family: House of Sewick
-title: King
-affiliations:
-reignStart: 1568
-reignEnd: 1582
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Wisym I
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-died: 1582
-gender: male
-ancestry: Sembaran
 born: 1510
 species: human
+ancestry: Sembaran
+gender: male
+reignStart: 1568
+title: King
+died: 1582
+family: House of Sewick
+reignEnd: 1582
 ---
 # King Wisym I
 >[!info]+ Biographical Summary

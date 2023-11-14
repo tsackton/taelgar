@@ -1,8 +1,9 @@
 ---
-type: Event
-subtype: Historical
+tags: [event-source]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
 DR: 1718
-tag: [event-source]
 ---
 # The Awakened Soul Disaster
 

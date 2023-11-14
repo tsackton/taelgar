@@ -1,21 +1,17 @@
 ---
-type: NPC
+tags: [person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-12-04, type: met}
 name: Margaret Ashford
+born: 1680-07-12
 species: Human
 ancestry: Sembaran
 gender: female
-born: 1680-07-12
-died: 
-title: 
-family: 
-affiliations: 
-  - Ashford Apothecary
-aliases: 
-lastSeenByParty: 
-  - { date: 1719-12-04, prefix: Clee }
-whereabouts: 
-  - { date: 1692-07-12, place: Cleenseau, region: Sembara, type: origin }
-  - { date: 1719-12-04, place: Ashford Apothecary, region: Sembara, type: home }
+affiliations: [Ashford Apothecary]
+whereabouts:
+- {type: home, start: 1692-07-12, end: '', location: 'Cleenseau, Sembara'}
+- {type: home, start: 1719-12-04, end: '', location: 'Ashford Apothecary, Sembara'}
 ---
 # Margaret Ashford
 >[!info]+ Biographical Summary

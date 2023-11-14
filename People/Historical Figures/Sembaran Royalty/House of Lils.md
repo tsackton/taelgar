@@ -1,6 +1,8 @@
 ---
-tags: [organization/unsorted]
-type: Organization
+tags: [organization]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
+name:
 ---
 ### House of Lils
 

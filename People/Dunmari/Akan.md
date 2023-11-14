@@ -1,31 +1,22 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Akan
+born: 1693
 species: human
 ancestry: Dunmari
 gender: male
-born: 1693
-died: 
-affiliations: 
-title: 
-family: 
-aliases: 
-tags:
-  - NPC/DuFr/minor
-  - NPC/DuFr/met
-  - status/uptodate
 whereabouts:
-  - date: 1693-01-02
-    place: area north and east of Karawa
-    region: Eastern Dunmar
-    type: home
+- {type: home, start: 1693-01-02, end: '', location: 'area north and east of Karawa, Eastern Dunmar'}
 ---
+
 # Akan
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: area north and east of Karawa, [[Eastern Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, typical of the Dunmari in the eastern region of the country. 
 

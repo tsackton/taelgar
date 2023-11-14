@@ -1,18 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Makha
+born: 1712
 species: kenku
 ancestry: Islander
 gender: male
-born: 1712
-died: 
-title:
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
 whereabouts:
-     - { date: 1712-01-02, place: "Wahacha", region: Vermillion Isles, type: home }
+- {type: home, start: 1712-01-02, end: '', location: 'Wahacha, Vermillion Isles'}
 ---
 # Makha
 >[!info]+ Biographical Summary

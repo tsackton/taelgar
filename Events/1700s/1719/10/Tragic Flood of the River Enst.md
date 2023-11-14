@@ -1,5 +1,8 @@
 ---
 tags: [event-source]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Tragic Flood of the River Enst
 DR: 1719-10-16
 ---
 ### Tragic Flood of the River Enst

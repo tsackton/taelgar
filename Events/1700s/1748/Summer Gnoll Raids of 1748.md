@@ -1,7 +1,7 @@
 ---
 tags:
-  - stub
-  - event-source
+- status/stub
+- event-source
 ---
 
 # Summer Gnoll Raids

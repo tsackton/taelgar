@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jayden
+born: 1729
 species: human
 ancestry: Dunmari
 gender: female
-born: 1729
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/background, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1729-01-02, place: "Karawa", region: Eastern Dunmar, type: home }
+- {type: home, start: 1729-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Jayden
 >[!info]+ Biographical Summary

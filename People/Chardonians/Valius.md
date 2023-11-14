@@ -1,25 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-09, type: met}
 name: Valius
+born: 1722
 species: human
 ancestry: Chardonian
 gender: male
-born: 1722
-died:
-family:
-affiliations:
-  - "Chardonian Legion"
-  - "Society of the Open Scroll"
-aliases: []
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/major
-lastSeenByParty: 
-     - { date: 1748-12-09, prefix: DuFr }
+affiliations: [Chardonian Legion, Society of the Open Scroll]
 whereabouts:
-     - { date: 1722-01-01, place: "Chardon", region: "Chardonian Empire", type: origin}
-     - { date: 1722-01-02, place: "Chardon", region: "Chardonian Empire", type: home}
-     - { date: 1748-12-09, place: "Trapped in the Mirror of Soul Trapping", region: "", type: excursion}
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, start: 1722-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-12-09, end: '', location: Trapped in the Mirror of Soul Trapping}
 ---
 # Valius
 >[!info]+ Biographical Summary

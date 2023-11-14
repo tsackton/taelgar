@@ -1,17 +1,15 @@
 ---
-type: Ruler
-family: House of Wisenfold
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Hugh
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
-reignEnd:
-reignStart:
-affiliations:
-title:
-died: 1562
-gender: male
-ancestry: Sembaran
 born: 1509
 species: human
+ancestry: Sembaran
+gender: male
+reignStart:
+died: 1562
+family: House of Wisenfold
 ---
 # Hugh
 >[!info]+ Biographical Summary

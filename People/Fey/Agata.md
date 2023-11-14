@@ -1,30 +1,24 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-11-15, type: met}
 name: Agata Dustmother
+born:
 species: fey
 ancestry: hag
 gender: female
-born: 
-died: 
-affiliations: 
-aliases: ["Old Woman of the Dusts", Dasoclese]
-title:
-family:
-tags: [NPC/DuFr/major, NPC/DuFr/met, status/uptodate]
-yearOverride: 
-lastSeenByParty: 
- - { date: 1748-11-15, prefix: DuFr}
+aliases: [Old Woman of the Dusts, Dasoclese]
 whereabouts:
- - { date: 0001-01-02, place: "edge of the Garamjala Desert", region: Eastern Dunmar, type: home }
- - { date: 1748-11-15, place: "Heartwood Grove, Amberglow", region: Feywild, type: excursion }
+- {type: home, start: '', end: '', location: 'edge of the Garamjala Desert, Eastern Dunmar'}
+- {type: away, start: 1748-11-15, end: '', location: 'Heartwood Grove, Amberglow, Feywild'}
 ---
-# Agata
+# Agata Dustmother
 >[!info]+ Biographical Summary
 >fey (hag), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: edge of the [[Garamjala Desert]], [[Eastern Dunmar]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at November 15th, 1748: Heartwood Grove, [[Amberglow]], [[Feywild]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
 ## Overview

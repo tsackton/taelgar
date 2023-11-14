@@ -1,17 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Dag Hardstone
-species: dwarf
-ancestry: 
-gender: male
 born: 1729
-died: 
-origin: { place: "Tokra", region: Central Dunmar }
-affiliations: 
-aliases: []
-title:
+species: dwarf
+ancestry:
+gender: male
 family: Hardstone
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
+whereabouts:
+- {type: home, start: '', end: '', location: Tokra}
 ---
 # Dag Hardstone
 >[!info]+ Biographical Summary

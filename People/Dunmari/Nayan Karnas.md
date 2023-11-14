@@ -1,31 +1,26 @@
 ---
-type: Ruler
+tags: [dufr/aware, person/ruler, person, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Nayan Karnas
+born: 1712
 species: human
 ancestry: Dunmari
 gender: male
-born: 1712
-died: 
-affiliations: 
+reignStart: 1740
 title: Samraat
 family: Nayan Dynasty
-aliases: []
-tags: [NPC/DuFr/major, NPC/DuFr/aware]
-yearOverride: 
 whereabouts:
-     - { date: 1707-01-01, place: "Darba", region: Western Dunmar, type: origin}
-     - { date: 1738-01-01, place: "Nayahar", region: Western Dunmar, type: home}
-reignStart: 1740
-reignEnd: 
+- {type: home, start: '', end: 1737, location: 'Darba, Western Dunmar'}
+- {type: home, start: 1738, end: '', location: 'Nayahar, Western Dunmar'}
 ---
 # Samraat Nayan Karnas
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Darba]], [[Western Dunmar]]
->> Based in: [[Nayahar]], [[Western Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 The current Samraat of [[Dunmar]], of the Nayan dynasty. Brother to [[Sura]], whom he thought dead. 
 

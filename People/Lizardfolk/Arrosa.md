@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Arrosa
+born:
 species: lizardfolk
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-affiliations: 
-title:
-family:
-aliases: []
-tags: [NPC/DuFr/met_one, NPC/DuFr/background]
-yearOverride: 
 whereabouts:
-     - { date: , place: "Bedez", region: Orekatu, type: home }
+- {type: home, start: '', end: '', location: 'Bedez, Orekatu'}
 ---
 # Arrosa
 >[!info]+ Biographical Summary

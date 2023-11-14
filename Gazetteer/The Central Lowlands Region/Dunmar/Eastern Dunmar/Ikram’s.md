@@ -1,7 +1,10 @@
 ---
-tags:
-  - event-source
-type: Building
+tags: [place, event-source, place/building]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
+placeType:
+partOf:
 ---
 # Ikram's Caravanserai
 

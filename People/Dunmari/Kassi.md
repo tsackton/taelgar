@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kassi
+born: 1695
 species: human
 ancestry: Dunmari
 gender: female
-born: 1695
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1695-01-02, place: "Lakan Monastery, Tokra", region: Central Dunmar, type: home }
+- {type: home, start: 1695-01-02, end: '', location: 'Lakan Monastery, Tokra, Central Dunmar'}
 ---
 # Kassi
 >[!info]+ Biographical Summary

@@ -1,17 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Zevi
+born:
 species: human
-ancestry: "Deno'qai"
+ancestry: Deno'qai
 gender: male
-born: 
 died: 1748
-title:
-origin: Elderwood
-family:
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/background, NPC/DuFr/met]
+whereabouts:
+- {type: home, start: '', end: '', location: Elderwood}
 ---
 # Zevi
 >[!info]+ Biographical Summary

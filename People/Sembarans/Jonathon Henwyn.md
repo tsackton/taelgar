@@ -1,18 +1,14 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jonathon Henwyn
+born: 1690
 species: human
 ancestry: Sembaran
 gender: male
-born: 1690
-died: 
-affiliations: 
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
-title:
-family:
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home }  
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Jonathon Henwyn
 >[!info]+ Biographical Summary

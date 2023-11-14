@@ -1,32 +1,18 @@
 ---
-type: NPC
+tags: [status/uptodate, person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-10, type: met}
 name: Lubash
-species: orc
-ancestry: 
-gender: male
 born: 1691
-died: 
+species: orc
+ancestry:
+gender: male
 title: Chief
-family: 
-affiliations:
-  - The People of the Rainbow
-aliases: []
-tags:
-  - NPC/DuFr/met
-  - NPC/DuFr/major
-  - status/uptodate
-lastSeenByParty:
-  - date: 1748-12-10
-    prefix: DuFr
+affiliations: [The People of the Rainbow]
 whereabouts:
-  - date: 1691-01-01
-    place: Uzgukhar
-    region: Xurkhaz
-    type: origin
-  - date: 1691-01-02
-    place: Uzgukhar
-    region: Xurkhaz
-    type: home
+- {type: home, start: '', end: '', location: 'Uzgukhar, Xurkhaz'}
+- {type: home, start: 1691-01-02, end: '', location: 'Uzgukhar, Xurkhaz'}
 ---
 # Chief Lubash
 >[!info]+ Biographical Summary

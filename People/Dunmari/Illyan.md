@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [status/stub, person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Illyan
+born: 1708
 species: human
 ancestry: Dunmari
 gender: male
-born: 1708
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/minor, NPC/DuFr/met, stub]
-yearOverride: 
 whereabouts:
-     - { date: 1748-11-23, place: "Tokra", region: Central Dunmar, type: excursion }
+- {type: away, start: 1748-11-23, end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Illyan
 >[!info]+ Biographical Summary

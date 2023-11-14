@@ -1,17 +1,22 @@
 ---
-type: PC
-species:
-born:
-ancestry:
-gender:
-died:
-origin:
-originRegion:
-affiliations:
-player:
-campaign:
+tags:
+  - pc/companion
+  - pc
+  - person
+  - status/stub
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Ladder
-tags: [PC/DunmarFrontier, PC/Companion, stub]
+born: 
+species: 
+ancestry: 
+gender: 
+player: 
+affiliations:
 ---
 # Ladder
 

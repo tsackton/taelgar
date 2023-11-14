@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [mc/minor, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Samar
 born:
+species: human
 ancestry:
 gender: female
-died:
-family:
-title:
-affiliations:
-name: Samar
-tags: [NPC/MC/minor, NPC/DuFr/unaware]
 ---
 # Samar
 >[!info]+ Biographical Summary

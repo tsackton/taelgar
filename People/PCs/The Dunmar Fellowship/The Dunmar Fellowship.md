@@ -1,6 +1,8 @@
 ---
 tags: [organization/party]
-type: Organization
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
+name:
 ---
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 

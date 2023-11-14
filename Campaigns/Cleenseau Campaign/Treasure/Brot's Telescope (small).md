@@ -1,14 +1,19 @@
 ---
-type: Item
-created: 1719
-destroyed: 
-owner: Izgil Moonseeker
-maker: Brot Starsearcher
-dbbLink:
-magical: false
-gpValue: 
+tags:
+  - item
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Brot's Telescope (small)
+created: 1719
+maker: Brot Starsearcher
+owner: Izgil Moonseeker
+magical: false
 ---
+
 # Brot's Telescope (small)
 >[!info]+ Mundane Item
 >Owner: [[Izgil Moonseeker]]

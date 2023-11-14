@@ -1,9 +1,12 @@
 ---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Sembara
+placeType:
+partOf: The Western Green Sea Region
 cultureDescriptor: Sembaran
 ---
-
----
-
 # Sembara
 
 ![[sembara-1750-updated.png]]

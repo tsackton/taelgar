@@ -1,5 +1,11 @@
 ---
-aliases: ["The Elderwood"]
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Elderwood
+placeType:
+partOf:
+aliases: [The Elderwood]
 ---
 
 ### The Elderwood

@@ -1,24 +1,13 @@
 ---
-type: NPC
+tags: [historical, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Vestian
-title: Emperor
+born:
 species: human
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/historical, NPC/DuFr/unaware]
-yearOverride: 
-whereabouts:
-family:
+title: Emperor
 ---
 # Emperor Vestian
 >[!info]+ Biographical Summary

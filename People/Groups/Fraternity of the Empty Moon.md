@@ -1,8 +1,9 @@
 ---
-type: Organization
-tags:
-  - organization/unsorted
-  - event-source
+tags: [organization]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
+name:
+timelineDescriptor: Fraternity of the Empty Moon
 ---
 # The Fraternity of the Empty Moon
 

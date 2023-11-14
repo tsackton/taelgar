@@ -8,9 +8,33 @@ from metadataUtils import *
 import importlib.util
 import shutil
 
+"""
+TODO:
+- Add --filter2 option
+- Fix functions so that rather than overloading metadata dict, create a new "globs" object to pass around
+"""
+
+debug = True
+
+def find_end_of_frontmatter(lines):
+    for i, line in enumerate(lines):
+        # Check for '---' at the end of a line (with or without a newline character)
+        if line.strip() == '---' and i != 0:
+            return i
+    return 0  # Indicates that the closing '---' was not found
+
+
 ## import dview_functions.py as module
 dview_file_name = "dview_functions"
 dview_functions = importlib.import_module(dview_file_name)
+
+# Custom dumper for handling empty values
+class CustomDumper(yaml.SafeDumper):
+    def represent_none(self, _):
+        return self.represent_scalar('tag:yaml.org,2002:null', '')
+
+# Add custom representation for None (null) values
+CustomDumper.add_representer(type(None), CustomDumper.represent_none)
 
 def dict_to_yaml(d):
     yaml_lines = []
@@ -20,7 +44,7 @@ def dict_to_yaml(d):
             yaml_lines.append(f"{key}:\n")
         else:
             # Use yaml.dump for other values
-            yaml_value = yaml.safe_dump({key: value}, sort_keys=False)
+            yaml_value = yaml.dump({key: value}, Dumper=CustomDumper, sort_keys=False, default_flow_style=False, allow_unicode=True)
             yaml_lines.append(yaml_value)
     return ''.join(yaml_lines)
 
@@ -38,7 +62,7 @@ def get_links_dict(files):
 def get_md_files(directory):
     markdown_files = []
     for root, dirs, files in os.walk(directory):
-        markdown_files += [os.path.join(root, file) for file in files if file.endswith('.md')]
+        markdown_files += [os.path.join(root, file) for file in files if file.endswith('.md') and not root.startswith('./_')]
     return markdown_files
 
 def process_string(s, metadata):
@@ -67,7 +91,7 @@ parser.add_argument('-o', '--output', required=False, help="Path to output direc
 parser.add_argument('--campaign', required=False, help="Campaign prefix (optional)")
 parser.add_argument('--date', required=False, help="Target date in YYYY or YYYY-MM-DD format (optional, overrides current date in config file)")
 parser.add_argument('--dview', required=False, default=False,  action='store_true', help="Replace dv.view() calls with dview_functions.py calls (optional)")
-parser.add_argument('--yaml', required=False, default=False,  action='store_true', help="*NOT IMPLEMENTED* Check yaml against metadata spec and clean up (optional)")
+parser.add_argument('--yaml', required=False, default=False,  action='store_true', help="Check yaml against metadata spec and clean up (optional)")
 parser.add_argument('--export-null', required=False, default=False,  action='store_true', help="Convert empty strings to null values in yaml frontmatter (optional)")
 parser.add_argument('--filter', required=False, default=False,  action='store_true', help="Filter out text based on campaign and date information (optional)")
 parser.add_argument('--filter2', required=False, default=False, action='store_true', help="*NOT IMPLEMENTED* Remove pages that don't exist yet (optional)")
@@ -129,7 +153,8 @@ for file_name in md_file_list:
                 break
         if metadata_block:
             metadata = yaml.safe_load(''.join(metadata_block))
-
+    
+    metadata_orig = metadata.copy()
     metadata["campaign"] = input_campaign
     metadata["override_year"] = override_year
     metadata["directory"] = args.config
@@ -138,18 +163,23 @@ for file_name in md_file_list:
     current_date = get_current_date(metadata)
 
     if clean_yaml:
-        metadata_clean = update_metadata(metadata)
+        if debug:
+            print("Cleaning up yaml frontmatter in " + file_name, file=sys.stderr)
+        
+        metadata_clean = update_metadata(metadata, metadata_orig)
 
-        # remove ka from  metadata if we are not species == elf
-        if "species" in metadata_clean and (metadata_clean["species"] != "elf"):
-            metadata_clean.pop("ka", None)
-
-        if not args.export_null:
-            new_frontmatter = dict_to_yaml(metadata_clean)
+        if metadata_clean is None:
+            updated_content = lines
         else:
-            new_frontmatter = yaml.safe_dump(metadata_clean, sort_keys=False, allow_unicode=True)
-        end_of_frontmatter = lines.index('---\n', 1) + 1
-        updated_content = ['---\n', new_frontmatter, '---\n'] + lines[end_of_frontmatter:]
+            new_frontmatter = yaml.dump(metadata_clean, sort_keys=False, default_flow_style=None, allow_unicode=True, Dumper=CustomDumper, width=2000)
+            end_of_frontmatter = find_end_of_frontmatter(lines)
+            if end_of_frontmatter != -1:
+                end_of_frontmatter += 1  # Adjust to get the line after '---'
+                updated_content = ['---\n', new_frontmatter, '---\n'] + lines[end_of_frontmatter:]
+            else:
+                # Handle the case where the frontmatter is not properly closed
+                print(f"Error: Frontmatter not properly closed in {file_name}", file=sys.stderr)
+                updated_content = lines
     else:
         updated_content = lines
 

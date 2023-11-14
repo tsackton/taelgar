@@ -1,18 +1,14 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Nicholas Wysson
+born: 1697
 species: human
 ancestry: Sembaran
 gender: male
-born: 1697
-affiliations: 
-title:
-family:
-died:
-aliases: []
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 whereabouts:
-     - { date: , place: "Cleenseau", region: Sembara, type: home }
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Nicholas Wysson
 >[!info]+ Biographical Summary

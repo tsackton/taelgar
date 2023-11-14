@@ -1,15 +1,12 @@
 ---
-type: NPC
-species: human
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Avelina Smith
 born: 1673
+species: human
 ancestry:
 gender: female
-died:
-family:
-title:
-affiliations:
-name: Avelina Smith
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
 ---
 # Avelina Smith
 >[!info]+ Biographical Summary

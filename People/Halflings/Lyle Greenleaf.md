@@ -1,17 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Lyle Greenleaf
+born:
 species: halfling
-ancestry: 
-family: Greenleaf
+ancestry:
 gender: male
-born: 
-died: 
-affiliations: 
-aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/background]
-yearOverride: 
-title:
+family: Greenleaf
 ---
 
 # Lyle Greenleaf

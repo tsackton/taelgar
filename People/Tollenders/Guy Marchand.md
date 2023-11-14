@@ -1,24 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-29, type: met}
 name: Guy Marchand
+born: 1687
 species: human
 ancestry: Isinguer
 gender: male
-born: 1687 
-died: 
-title: 
+affiliations: [University of Tollen]
 family: Marchand
-affiliations: 
-  - University of Tollen
-aliases: 
-tags: 
-  - NPC/DuFr/met
-  - NPC/DuFr/minor
-lastSeenByParty: 
-  - { date: 1748-12-29, prefix: DuFr }
-whereabouts: 
-  - { date: 1687-01-01, place: "Tollen", region: "Western Green Sea", type: origin }
-  - { date: 1687-01-02, place: "Nordgate, Tollen", region: "Western Green Sea", type: home }
+whereabouts:
+- {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: 1687-01-02, end: '', location: 'Nordgate, Tollen, Western Green Sea'}
 ---
 # Guy Marchand
 >[!info]+ Biographical Summary

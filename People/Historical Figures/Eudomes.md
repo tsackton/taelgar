@@ -1,21 +1,12 @@
 ---
-type: NPC
+tags: [historical, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Eudomes
+born:
 species: human
 ancestry: Drankorian
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/historical, NPC/DuFr/aware]
-yearOverride: 
 ---
 ### Eudomes
 

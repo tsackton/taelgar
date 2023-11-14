@@ -1,20 +1,17 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ewen Silversong
-species: halfling
-ancestry: 
-gender: male
 born: 1649
-died: 
-affiliations: ["Emerald Song crew"]
-aliases: []
-title:
+species: halfling
+ancestry:
+gender: male
+affiliations: [Emerald Song crew]
 family: Silversong
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-yearOverride: 
 whereabouts:
-     - { date: 1748-08-26, place: "Chardon", region: Chardonian Empire, type: excursion}
-     - { date: 1748-11-23, place: "unknown", region: Nevos Sea, type: excursion }
+- {type: away, start: 1748-08-26, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-11-23, end: '', location: 'unknown, Nevos Sea'}
 ---
 # Ewen Silversong
 >[!info]+ Biographical Summary

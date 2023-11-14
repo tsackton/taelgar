@@ -1,19 +1,15 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Nora Silverspark
+born:
 species: dwarf
-ancestry: 
+ancestry:
 gender: female
-born: 
-died: 
-affiliations: 
 aliases: [Nora]
-tags: [NPC/DuFr/minor, NPC/DuFr/met_one]
-yearOverride: 
-title:
-family:
 whereabouts:
-     - { date: 1748-11-23, place: "deceased", region: unknown, type: excursion }
+- {type: away, start: 1748-11-23, end: '', location: 'deceased, unknown'}
 ---
 # Nora Silverspark
 >[!info]+ Biographical Summary

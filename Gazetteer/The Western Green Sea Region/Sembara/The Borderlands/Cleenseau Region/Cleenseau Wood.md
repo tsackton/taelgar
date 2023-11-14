@@ -1,4 +1,11 @@
-### Cleenseau Wood
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau Wood
+placeType:
+partOf:
+---
 
 The Wood as it is known locally, is an old growth forest, stretching north of [[Cleenseau]] for what is said to be hundreds of miles. The fringes are used for firewood, charcoal gathering, and pig farming, but after a mile or two it becomes wild and trackless.
 

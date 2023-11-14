@@ -1,9 +1,17 @@
 ---
 tags:
+  - item
   - status/uptodate
-type: Item
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: 
 magical: true
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm
+unique:
 ---
 # Horn of Silent Alarm
 

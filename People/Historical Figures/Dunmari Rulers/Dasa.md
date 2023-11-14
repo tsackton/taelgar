@@ -1,25 +1,14 @@
 ---
+tags: [historical, person, dufr/background, person/ruler, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Dasa
+born:
 species: human
 ancestry: Dunmari
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-tags: [NPC/historical, NPC/DuFr/aware, NPC/DuFr/background]
-yearOverride: 
-aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
-reignEnd:
 reignStart:
-whereabouts:
-family:
-type: Ruler
+aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 ---
 # Dasa
 >[!info]+ Biographical Summary

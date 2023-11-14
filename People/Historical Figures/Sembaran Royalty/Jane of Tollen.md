@@ -1,17 +1,14 @@
 ---
-type: Ruler
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Jane of Tollen
 born: 1509
+species: human
 ancestry: Vostok
 gender: female
-died: 1559
-family:
-title:
-affiliations:
 reignStart:
-reignEnd:
-name: Jane of Tollen
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware, NPC/historical]
+died: 1559
 ---
 # Jane of Tollen
 >[!info]+ Biographical Summary

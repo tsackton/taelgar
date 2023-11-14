@@ -1,21 +1,12 @@
 ---
-type: NPC
+tags: [historical, dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Mavdyr
+born:
 species: giant
-ancestry: 
+ancestry:
 gender: male
-born: 
-died: 
-location: 
-locationRegion:
-home: 
-homeRegion:
-origin:
-originRegion:
-affiliations: 
-aliases: []
-tags: [NPC/historical, NPC/DuFr/background, NPC/DuFr/aware]
-yearOverride: 
 ---
 ### Mavdyr
 

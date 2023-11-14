@@ -1,3 +1,13 @@
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Taviose
+placeType:
+partOf: Barony of Aveil
+population: 48
+pronunciation: Ta-vi-ose
+---
 ### Taviose
 *population 48*
 *pronouciation: Ta-vi-ose*

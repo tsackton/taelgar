@@ -1,5 +1,10 @@
 ---
-type: Place
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
+placeType:
+partOf:
 aliases: [Gomat]
 ---
 # Gomat Oasis

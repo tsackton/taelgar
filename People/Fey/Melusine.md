@@ -1,19 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, status/uptodate, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Melusine
+born:
 species: fey
 ancestry: nymph
 gender: female
-born: 
-died: 
-affiliations: 
-aliases: []
-title:
-family:
-tags: [NPC/DuFr/met_one, NPC/DuFr/background, status/uptodate]
-yearOverride: 
 whereabouts:
-     - { date: 0001-01-02, place: "Amberglow", region: Feywild, type: home }
+- {type: home, start: , end: '', location: 'Amberglow, Feywild'}
 ---
 # Melusine
 >[!info]+ Biographical Summary

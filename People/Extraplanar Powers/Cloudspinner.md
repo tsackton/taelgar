@@ -1,28 +1,24 @@
 ---
-type: NPC
+tags: [dufr/minor, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Cloudspinner
+born:
 species: fey
 ancestry: archfey
 gender: female
-born: 
-died: 
-title:
-family:
-affiliations: 
-aliases: ["Queen of Sunset"]
-tags: [NPC/DuFr/aware, NPC/DuFr/minor]
+aliases: [Queen of Sunset]
 whereabouts:
-     - { date: 0001-01-01, place: "somewhere", region: unknown, type: origin }
-     - { date: 0001-01-02, place: "Amberglow", region: Feywild, type: home }
-     - { date: 1700-11-15, place: "imprisoned", region: somewhere, type: excursion }     
+- {type: home, start: '', end: '', location: 'somewhere, unknown'}
+- {type: home, start: '', end: '', location: 'Amberglow, Feywild'}
+- {type: away, start: 900, end: 2000, location: 'imprisoned, somewhere'} #start is approx, end is arbitrary
 ---
 # Cloudspinner
 >[!info]+ Biographical Summary
 >fey (archfey), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: somewhere, unknown
->> Based in: [[Amberglow]], [[Feywild]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 

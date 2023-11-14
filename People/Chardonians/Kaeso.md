@@ -1,27 +1,23 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-10-23, type: met}
 name: Kaeso
+born: 1691
 species: human
 ancestry: Chardonian
 gender: male
-born: 1691
-died: 
-affiliations: ["Shakun Mystai"]
-aliases: []
-tags: [NPC/DuFr/minor, NPC/DuFr/met]
-family:
-title:
-lastSeenByParty: 
-- { date: 1748-10-23, prefix: DuFr }
+affiliations: [Shakun Mystai]
 whereabouts:
- - { date: 1691-01-01, place: "Chardon", region: Chardonian Empire, type: origin }
- - { date: 1691-01-02, place: "Chardon", region: Chardonian Empire, type: home }
- - { date: 1713-01-01, place: "traveling", region: Dunmar, type: excursion}
- - { date: 1717-01-01, place: "Karawa", region: Eastern Dunmar, type: excursion}
- - { date: 1719-01-01, place: "traveling", region: "The Central Highlands Region", type: excursion}
- - { date: 1723-01-01, place: "Chardon", region: Chardonian Empire, type: home }
- - { date: 1748-09-10, place: "traveling", region: Chardonian Empire, type: excursion}
- - { date: 1748-10-12, place: "Hamri", region: "Mawakel Peninsula", type: excursion}
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, start: 1691-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1713-01-01, end: '', location: 'traveling, Dunmar'}
+- {type: away, start: 1717-01-01, end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1719-01-01, end: '', location: 'traveling, The Central Highlands Region'}
+- {type: home, start: 1723-01-01, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-09-10, end: '', location: 'traveling, Chardonian Empire'}
+- {type: away, start: 1748-10-12, end: '', location: 'Hamri, Mawakel Peninsula'}
 ---
 # Kaeso
 >[!info]+ Biographical Summary

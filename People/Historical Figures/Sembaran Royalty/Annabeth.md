@@ -1,15 +1,14 @@
 ---
-type: NPC
-species: human
+tags: [historical, clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Annabeth
 born: 1600
+species: human
 ancestry: Tyrwinghan
 gender: female
 died: 1655
 family: House of Lils
-affiliations:
-name: Annabeth
-tags: [NPC/historical, NPC/Clee/unsorted, NPC/DuFr/unaware]
-title:
 ---
 # Annabeth
 >[!info]+ Biographical Summary

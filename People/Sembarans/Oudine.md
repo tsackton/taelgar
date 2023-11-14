@@ -1,29 +1,16 @@
 ---
-type: NPC
+tags: [person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-12-04, type: met}
 name: Oudine
+born: 1693-08-12
 species: Human
 ancestry: Sembaran
 gender: female
-born: 1693-08-12
-died: 
-title: 
-family: 
-affiliations: 
-aliases: 
-tags:
-  - NPC/DuFr/unaware
-lastSeenByParty:
-  - date: 1719-12-04
-    prefix: Clee
 whereabouts:
-  - date: 
-    place: Beggar's Way
-    region: Cleenseau
-    type: origin
-  - date: 
-    place: 
-    region: 
-    type: home
+- {type: home, start: !!null '', end: '', location: 'Beggar''s Way, Cleenseau'}
+- {type: home, start: !!null '', end: '', location: ''}
 ---
 # Oudine
 >[!info]+ Biographical Summary
