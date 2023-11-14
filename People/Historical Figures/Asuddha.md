@@ -22,24 +22,7 @@ ancestry: Dunmari
 species: human
 affiliations: []
 family:
-whereabouts:
-<<<<<<< HEAD
-<<<<<<< HEAD
-- type: home
-  start: 1136-01-02
-  end: ''
-  location: unknown, Dunmar
-lastSeenByParty: []
-=======
-     - { location: Dunmar, type: home }
->>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
-=======
-- type: home
-  start: ""
-  end: ''
-  location: unknown, Dunmar
-lastSeenByParty: []
->>>>>>> 51f7760 (massive metadata cleanup and update)
+whereabouts: [ { location: Dunmar, type: home } ]
 ---
 # Asuddha
 >[!info]+ Biographical Summary

@@ -1,20 +1,6 @@
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
-tags:
-- '#event-source'
-=======
 tags: [event-source]
 timelineDescriptor: Sembaran History
->>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
-=======
-tags: [event-source]
-timelineDescriptor: Sembaran History
-=======
-tags:
-- '#event-source'
->>>>>>> 160dd10 (massive metadata cleanup and update)
->>>>>>> 51f7760 (massive metadata cleanup and update)
 ---
 # The Drankorian Conquest
 DR 300 - DR 431

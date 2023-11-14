@@ -8,6 +8,12 @@ from metadataUtils import *
 import importlib.util
 import shutil
 
+"""
+TODO:
+- Add --filter2 option
+- Fix functions so that rather than overloading metadata dict, create a new "globs" object to pass around
+"""
+
 debug = False
 
 def find_end_of_frontmatter(lines):

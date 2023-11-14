@@ -1,21 +1,8 @@
 ---
 tags:
-<<<<<<< HEAD
-<<<<<<< HEAD
-- '#event-source'
-=======
   - "#event-source"
 name: The Great Library
 parentLocation: Chardon
->>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
-=======
-  - "#event-source"
-name: The Great Library
-parentLocation: Chardon
-=======
-- '#event-source'
->>>>>>> 160dd10 (massive metadata cleanup and update)
->>>>>>> 51f7760 (massive metadata cleanup and update)
 ---
 # The Great Library
 

@@ -1,45 +1,10 @@
 ---
 type: Item
-<<<<<<< HEAD
-<<<<<<< HEAD
-name: Lantern of the Bright Hearth
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: destroyed
-endPrefix: d.
-startStatus: created
-startPrefix: c.
-preExistError: '**(not yet created)**'
-created:
-destroyed:
-=======
 owner: Robin of Abenfyrd
 dbbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
->>>>>>> 907c921 (Minor updates from Cleenseau session 8)
-=======
-owner: Robin of Abenfyrd
-dbbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
-=======
-name: Lantern of the Bright Hearth
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: destroyed
-endPrefix: d.
-startStatus: created
-startPrefix: c.
-preExistError: '**(not yet created)**'
-created:
-destroyed:
->>>>>>> 160dd10 (massive metadata cleanup and update)
->>>>>>> 51f7760 (massive metadata cleanup and update)
 magical: true
-maker:
-owner: Robin of Abenfyrd
-ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
+name: Lantern of the Bright Hearth
+tags: []
 ---
 # Lantern of the Bright Hearth
 >[!info]+ Magical Item

@@ -6,7 +6,17 @@ import json
 import sys
 import re
 
+"""
+Core functions to process metadata for Obsidian Taelgar notes
+"""
+
 def loc_join(l):
+    """
+    Takes a string or a list of location elements, potentially including one or more empty strings or Nones
+    Returns a string with the elements joined by commas, with empty strings and Nones removed
+    Returns "" if given a falsey value
+    """
+
     if not l:
         return ""
     
@@ -27,35 +37,24 @@ def loc_join(l):
     return ""
 
 def get_valid_types(): 
+    """
+    Returns a list of valid types
+    TO DO: read from a file
+    """
     return(["Ruler", "PC", "NPC", "Item", "Place", "Building", "Event", "Organization", "Session Note"])
 
-def get_tags_to_output():
-    return(["sessionStartTime", "sessionEndDate", "sessionEndTime", "summary"])
-
-def get_link(string, metadata):
-    links = metadata["links"]
-    file = metadata["file"]
-    if string in links:
-        dest = links[string]
-        orig = links[Path(file).stem].parent
-        linkpath = os.path.relpath(dest,orig)
-        return "[" + string + "](" + urllib.parse.quote(linkpath) + ")"
-    else:
-        return string
-
-def get_current_date(metadata):
-    directory = metadata["directory"]
-    target_date = metadata.get("pageTargetDate", None)
-    if target_date is not None:
-        return clean_date(metadata["pageTargetDate"])
-    if metadata["override_year"] is not None:
-        return clean_date(metadata["override_year"])
-    with open(os.path.join(directory, 'plugins', 'fantasy-calendar', 'data.json'), 'r', 2048, "utf-8") as f:
-        data = json.load(f)
-        current_data_string = str(data['calendars'][0]['current']['year']) + "-" + str(data['calendars'][0]['current']['month']+1) + "-" + str(data['calendars'][0]['current']['day'])
-        return clean_date(current_data_string)
-
 def clean_date(value, end = False, debug = False):
+    """
+    Takes as input a date in some format and returns a datetime object
+    If end is true, returns the last possible day in an incomplete date (e.g., 2001 returns 2001-12-31)
+    If end is false, returns the earliest possible day in an incomplete date (e.g., 2001 returns 2001-01-01)
+
+    Allowable formats:
+    - datetime object
+    - date object
+    - integer (year)
+    - string in YYYY, YYYY-MM, or YYYY-MM-DD format
+    """
 
     def sanitize(input_string):
         return re.sub(r'\D', '', input_string)
@@ -104,6 +103,12 @@ def clean_date(value, end = False, debug = False):
     raise ValueError("Input must be a datetime object, an integer, or a string in YYYY, YYYY-MM, or YYYY-MM-DD format.")
 
 def display_date(date, full = True, cr = "DR"):
+    """
+    Takes as input a date object and returns a formatted string
+    The default short format is DR YYYY, but the DR can be changed by passing a different cr value
+    The default long format is Mon DD, YYYY, triggered by setting full to True
+    """
+    
     if (date is None) or (date == ""):
         return None
 
@@ -112,228 +117,98 @@ def display_date(date, full = True, cr = "DR"):
     else:
         return cr + " " + date.strftime("%Y")
 
-def get_Age(younger, older):
-    younger = clean_date(younger)
-    older = clean_date(older)
+def get_age(age1, age2):
+    """
+    Takes two dates and returns the difference in years
+    Always returns a positive value; the input order does not matter
+    """
+
+    age1 = clean_date(age1)
+    age2 = clean_date(age2)
+
+    if age1 > age2:
+        younger = age1
+        older = age2
+    elif age2 > age1:
+        younger = age2
+        older = age1
+    else:
+        return 0
+    
     return younger.year - older.year - ((younger.month, younger.day) < (older.month, older.day))
 
-
-def parse_loc_string(string, metadata):
-    pieces = string.split(",")
-    for piece in pieces:
-        piece = piece.strip()
-        piece = get_link(piece, metadata)
-    return ", ".join(pieces)
-
 def get_page_start_date(metadata):
+    """
+    Computes start date for page based on metadata
+    """
     pageStartDate = clean_date(metadata["created"]) if "created" in metadata else None
     if "type" in metadata and metadata["type"] in ["NPC", "PC", "Ruler"]:
         pageStartDate = clean_date(metadata["born"]) if "born" in metadata else pageStartDate
     return pageStartDate
 
 def get_page_end_date(metadata):
+    """
+    Computes end date for a page based on metadata
+    """
     pageEndDate = clean_date(metadata["destroyed"], end=True) if "destroyed" in metadata else None
     if "type" in metadata and metadata["type"] in ["NPC", "PC", "Ruler"]:
         pageEndDate = clean_date(metadata["died"], end=True) if "died" in metadata else pageEndDate
     return pageEndDate
 
-def parse_whereabouts(metadata, debug = False):
 
-    whereabouts = metadata["whereabouts"]
-    target_date = get_current_date(metadata)
-    died_date = clean_date(metadata["died"]) if "died" in metadata else None
-    if died_date is not None:
-        target_date = died_date
+"""
+Helper functions for output control
+"""
 
-    locations = {"exact": {}, "home": {}, "origin": {}, "last": {}, "current": {}}
-
-    locations["exact"]["value"] = None
-    locations["exact"]["output"] = False
-    locations["exact"]["date"] = None
-    locations["exact"]["duration"] = None
-    locations["home"]["value"] = None
-    locations["home"]["output"] = False
-    locations["home"]["date"] = None
-    locations["home"]["duration"] = None
-    locations["origin"]["value"] = None
-    locations["origin"]["output"] = False
-    locations["origin"]["date"] = None
-    locations["origin"]["duration"] = None
-    locations["last"]["value"] = None
-    locations["last"]["output"] = False
-    locations["last"]["date"] = None
-    locations["last"]["duration"] = None
-    locations["last"]["end"] = None
-    locations["current"]["value"] = None
-    locations["current"]["output"] = False
-    locations["current"]["date"] = None
-    locations["current"]["duration"] = None
-
-    home_count = 0 
-
-    for whereabout in whereabouts:
-        ## define variables ##
-
-        # a logical end date is the start date if the end date is undefined, otherwise the start date
-        start = clean_date(whereabout["start"]) if "start" in whereabout else None
-        end = clean_date(whereabout["end"], end=True) if "end" in whereabout else None
-        logical_end = end if end is not None else start
-        type = whereabout["type"] if whereabout["type"] is not None else None
-        if type is None:
-            raise ValueError("Whereabouts must have a type")
-        elif type == "away" and start is None:
-            raise ValueError("Away whereabouts must have a start date")
-        
-        type = "home" if type == "origin" else type #clean up old origin type, which is now home
-
-        # a location is constructed from the location , place, and region fields
-        # location field is preferred if multiple fields exist
-        location = whereabout["location"] if "location" in whereabout else None
-        place = whereabout["place"] if "place" in whereabout else None
-        region = whereabout["region"] if "region" in whereabout else None
-        value = location if location is not None else ",".join([place, region])
-        if value is None:
-            value = "Unknown"
-        
-        home_count = home_count + 1 if type == "home" else home_count
-        
-        # Find the "exact known whereabouts".
-        # Candidate set = Take all of the whereabouts with type = away
-        # Start is defined and before or equal to target date
-        # Logical end is after or equal to target date
-        # If there are multiple items in the candidate set, select the one with the smallest duration between the logic end date and the start date
-        # If there are no items, the "exact known whereabouts" is undefined
-
-        if type == "away" and start is not None and start <= target_date and (logical_end >= target_date):
-            if locations["exact"]["value"] is None or (logical_end - start) < locations["exact"]["duration"]:
-                locations["exact"]["value"] = value
-                locations["exact"]["date"] = target_date
-                locations["exact"]["duration"] = logical_end - start
-                locations["exact"]["output"] = True
-    
-        # Find the "home whereabouts".
-        # Candidate set = Take all of the whereabouts with type = home
-        # Start is unset or before or equal to target date and end (not logical end) is after or equal to target date
-        # Start is unset or before or equal to target date and end is unset
-        # If there are multiples reduce the set to all of the items with the latest start date that is before the target date. 
-        # An unset start date should be treated as the earliest possible date
-        # If there are still multiples (because multiple items have the same or blank start date), take the one that is lexically last in the yaml
-        # If there are no items, the "home whereabouts" is undefined
-
-        if type == "home" and ((start is None or start <= target_date) and (end is None or end >= target_date)):
-            home_implied_start = start if start is not None else clean_date(int(1))
-            # if we don't have a home, set one
-            if locations["home"]["value"] is None:
-                locations["home"]["value"] = value
-                locations["home"]["date"] = home_implied_start
-                locations["home"]["output"] = True
-            # if we have a home, skip if the start is earlier than the current home
-            elif home_implied_start < locations["home"]["date"]:
-                continue
-            # we have a home, but we've encountered a new home listed later in the yaml
-            # or a new home with a later date
-            # replace old home with new home
-            else: 
-                locations["home"]["value"] = value
-                locations["home"]["date"] = home_implied_start
-                locations["home"]["output"] = True
-        
-        # Find the "last known whereabout"
-        # Candidate set = Take all of the whereabouts where type = away
-        # Start is before or equal to target
-        # If there are multiples, take start date that is closest to the target date
-
-        if type == "away" and start is not None and start <= target_date:
-            if locations["last"]["value"] is None or start > locations["last"]["date"]:
-                locations["last"]["value"] = value
-                locations["last"]["date"] = start
-                locations["last"]["output"] = True
-                locations["last"]["end"] = end
-        
-        # Find the "origin whereabout"
-        # Candidate set = Take all of the whereabouts where type = home and start = undefined
-        # If there are multiples, select the lexically first one in the yaml
-        if type == "home" and start is None:
-            if locations["origin"]["value"] is None:
-                locations["origin"]["value"] = value
-                locations["origin"]["output"] = True
-    
-    # clean up output flags
-    # An origin location is defined as
-    # Value: the origin whereabout
-    # Output: origin whereabout is defined and whereabouts with type home > 1 or the origin whereabout is defined and there is no home whereabout
-
-    # if home_count == 1:
-    # home = True and origin = False if home value is defined, otherwise origin = True and home = False
-    # logic is if home_count == 1, should always just output home unless home has an end date, implying no current home
-    # by definition if home_count == 1, origin and home must have the same value if both defined, so don't need to check
-    # if home_count > 1, we need to check if home and origin have the same value. 
-    # if they have the same value, that means the only valid home is the origin, so we output origin True and home True but set home value to "Unknown"
-
-    if home_count == 0:
-        locations["origin"]["output"] = False
-        locations["home"]["output"] = False
-    elif home_count == 1:
-        locations["origin"]["output"] = False
-        locations["home"]["output"] = True
-        if locations["home"]["value"] is None or locations["home"]["value"] == "Unknown":
-            locations["home"]["output"] = False
-            locations["origin"]["output"] = True
-    else:
-        locations["home"]["output"] = True
-        locations["origin"]["output"] = True
-        if locations["home"]["value"] == locations["origin"]["value"]:
-            locations["home"]["value"] = "Unknown"
-            locations["home"]["output"] = False
-
-    # A current location is defined as
-    # Value:
-    # If there is an exact known whereabouts, use that and set the output flag to true
-    # Otherwise, if there is both a home and last known whereabouts where
-    # The last known whereabouts has a defined end and
-    # The last known whereabouts end date is in the past compared to the target date
-    # Then use the home whereabout as the current location and set the output flag to false
-    # Otherwise, the current location is Unknown and set the output flag to true
-    # Output: See algorithm above
-
-    if locations["exact"]["value"] is not None:
-        locations["current"]["value"] = locations["exact"]["value"]
-        locations["current"]["output"] = True
-    elif locations["home"]["value"] is not None:
-        if locations["last"]["end"] is not None and locations["last"]["end"] < target_date:
-            locations["current"]["value"] = locations["home"]["value"]
-            locations["current"]["output"] = False
-        elif locations["last"]["value"] is None:
-            locations["current"]["value"] = locations["home"]["value"]
-            locations["current"]["output"] = False
-        else:
-            locations["current"]["value"] = "Unknown"
-            locations["current"]["output"] = True
-    else:
-        locations["current"]["value"] = "Unknown"
-        locations["current"]["output"] = True
-
-    # a last known location is defined as
-    # Value: the last known whereabouts
-    # Output: the last known whereabouts is defined and the current location is Unknown
-    # Date: the last known whereabouts date
-    if locations["current"]["value"] == "Unknown" and locations["last"]["value"] is not None:
-        locations["last"]["output"] = True
-    else:
-        locations["last"]["output"] = False
-
+def get_link(string, metadata):
     """
-    # if you are dead, current location should never be output
-    if died_date is not None and target_date > died_date:
-        locations["current"]["output"] = False
-    
+    Takes a string and a metadata dictionary that has a links field and a file name
+    Returns a markdown link to the string if it is in the links field, otherwise returns the string
     """
+    links = metadata["links"]
+    file = metadata["file"]
+    if string in links:
+        dest = links[string]
+        orig = links[Path(file).stem].parent
+        linkpath = os.path.relpath(dest,orig)
+        return "[" + string + "](" + urllib.parse.quote(linkpath) + ")"
+    else:
+        return string
 
+def get_current_date(metadata):
+    """
+    FIXME: use globs instead of overloaded metadata
+    """
+    directory = metadata["directory"]
+    target_date = metadata.get("pageTargetDate", None)
+    if target_date is not None:
+        return clean_date(metadata["pageTargetDate"])
+    if metadata["override_year"] is not None:
+        return clean_date(metadata["override_year"])
+    with open(os.path.join(directory, 'plugins', 'fantasy-calendar', 'data.json'), 'r', 2048, "utf-8") as f:
+        data = json.load(f)
+        current_data_string = str(data['calendars'][0]['current']['year']) + "-" + str(data['calendars'][0]['current']['month']+1) + "-" + str(data['calendars'][0]['current']['day'])
+        return clean_date(current_data_string)
 
-    if debug:
-        print(metadata["name"], locations, file=sys.stderr)
+def get_tags_to_output():
+    """
+    Returns a list of tags to output even if they are not included in spec
+    """
+    return(["sessionStartTime", "sessionEndDate", "sessionEndTime", "summary"])
 
-    return locations
+def parse_loc_string(string, metadata):
+    """
+    Adds links to pieces of a comma-separated location string
+    """
+    pieces = string.split(",")
+    for piece in pieces:
+        piece = piece.strip()
+        piece = get_link(piece, metadata)
+    return ", ".join(pieces)
+
+"""
+Helper functions to clean and update metadata
+"""
 
 def define_metadata(type): 
 
@@ -668,3 +543,228 @@ def clean_whereabouts(whereabouts, born):
         whereabouts_clean.append(new_loc)
 
     return whereabouts_clean
+
+### NOT EDITED BELOW HERE
+
+def parse_whereabouts(metadata, target_date, debug = False):
+    """
+    Takes as input a metadata dictionay, and optionally a current date
+    Reports as output a dict of dicts, with one dict for each type of location:
+        current: the exact known whereabouts at target date
+        home: the home whereabouts at target date
+        origin: the origin whereabouts
+        last: the last known whereabouts
+    
+    Each location dict has the following fields:
+        value: the location string
+        date: the date of the location
+        duration: the duration of the location in days, with fractional days allowed
+
+    """
+
+    ## get target date for page: this is current date
+    ## defined as pageTargetDate if it exists, otherwise target_date passed to function
+    if "pageTargetDate" in metadata and metadata["pageTargetDate"] is not None:
+        target_date = clean_date(metadata["pageTargetDate"])
+    else:
+        target_date = clean_date(target_date)
+
+
+
+
+    whereabouts = metadata["whereabouts"]
+    target_date = get_current_date(metadata)
+    died_date = clean_date(metadata["died"]) if "died" in metadata else None
+    if died_date is not None:
+        target_date = died_date
+
+    locations = {"exact": {}, "home": {}, "origin": {}, "last": {}, "current": {}}
+
+    locations["exact"]["value"] = None
+    locations["exact"]["output"] = False
+    locations["exact"]["date"] = None
+    locations["exact"]["duration"] = None
+    locations["home"]["value"] = None
+    locations["home"]["output"] = False
+    locations["home"]["date"] = None
+    locations["home"]["duration"] = None
+    locations["origin"]["value"] = None
+    locations["origin"]["output"] = False
+    locations["origin"]["date"] = None
+    locations["origin"]["duration"] = None
+    locations["last"]["value"] = None
+    locations["last"]["output"] = False
+    locations["last"]["date"] = None
+    locations["last"]["duration"] = None
+    locations["last"]["end"] = None
+    locations["current"]["value"] = None
+    locations["current"]["output"] = False
+    locations["current"]["date"] = None
+    locations["current"]["duration"] = None
+
+    home_count = 0 
+
+    for whereabout in whereabouts:
+        ## define variables ##
+
+        # a logical end date is the start date if the end date is undefined, otherwise the start date
+        start = clean_date(whereabout["start"]) if "start" in whereabout else None
+        end = clean_date(whereabout["end"], end=True) if "end" in whereabout else None
+        logical_end = end if end is not None else start
+        type = whereabout["type"] if whereabout["type"] is not None else None
+        if type is None:
+            raise ValueError("Whereabouts must have a type")
+        elif type == "away" and start is None:
+            raise ValueError("Away whereabouts must have a start date")
+        
+        type = "home" if type == "origin" else type #clean up old origin type, which is now home
+
+        # a location is constructed from the location , place, and region fields
+        # location field is preferred if multiple fields exist
+        location = whereabout["location"] if "location" in whereabout else None
+        place = whereabout["place"] if "place" in whereabout else None
+        region = whereabout["region"] if "region" in whereabout else None
+        value = location if location is not None else ",".join([place, region])
+        if value is None:
+            value = "Unknown"
+        
+        home_count = home_count + 1 if type == "home" else home_count
+        
+        # Find the "exact known whereabouts".
+        # Candidate set = Take all of the whereabouts with type = away
+        # Start is defined and before or equal to target date
+        # Logical end is after or equal to target date
+        # If there are multiple items in the candidate set, select the one with the smallest duration between the logic end date and the start date
+        # If there are no items, the "exact known whereabouts" is undefined
+
+        if type == "away" and start is not None and start <= target_date and (logical_end >= target_date):
+            if locations["exact"]["value"] is None or (logical_end - start) < locations["exact"]["duration"]:
+                locations["exact"]["value"] = value
+                locations["exact"]["date"] = target_date
+                locations["exact"]["duration"] = logical_end - start
+                locations["exact"]["output"] = True
+    
+        # Find the "home whereabouts".
+        # Candidate set = Take all of the whereabouts with type = home
+        # Start is unset or before or equal to target date and end (not logical end) is after or equal to target date
+        # Start is unset or before or equal to target date and end is unset
+        # If there are multiples reduce the set to all of the items with the latest start date that is before the target date. 
+        # An unset start date should be treated as the earliest possible date
+        # If there are still multiples (because multiple items have the same or blank start date), take the one that is lexically last in the yaml
+        # If there are no items, the "home whereabouts" is undefined
+
+        if type == "home" and ((start is None or start <= target_date) and (end is None or end >= target_date)):
+            home_implied_start = start if start is not None else clean_date(int(1))
+            # if we don't have a home, set one
+            if locations["home"]["value"] is None:
+                locations["home"]["value"] = value
+                locations["home"]["date"] = home_implied_start
+                locations["home"]["output"] = True
+            # if we have a home, skip if the start is earlier than the current home
+            elif home_implied_start < locations["home"]["date"]:
+                continue
+            # we have a home, but we've encountered a new home listed later in the yaml
+            # or a new home with a later date
+            # replace old home with new home
+            else: 
+                locations["home"]["value"] = value
+                locations["home"]["date"] = home_implied_start
+                locations["home"]["output"] = True
+        
+        # Find the "last known whereabout"
+        # Candidate set = Take all of the whereabouts where type = away
+        # Start is before or equal to target
+        # If there are multiples, take start date that is closest to the target date
+
+        if type == "away" and start is not None and start <= target_date:
+            if locations["last"]["value"] is None or start > locations["last"]["date"]:
+                locations["last"]["value"] = value
+                locations["last"]["date"] = start
+                locations["last"]["output"] = True
+                locations["last"]["end"] = end
+        
+        # Find the "origin whereabout"
+        # Candidate set = Take all of the whereabouts where type = home and start = undefined
+        # If there are multiples, select the lexically first one in the yaml
+        if type == "home" and start is None:
+            if locations["origin"]["value"] is None:
+                locations["origin"]["value"] = value
+                locations["origin"]["output"] = True
+    
+    # clean up output flags
+    # An origin location is defined as
+    # Value: the origin whereabout
+    # Output: origin whereabout is defined and whereabouts with type home > 1 or the origin whereabout is defined and there is no home whereabout
+
+    # if home_count == 1:
+    # home = True and origin = False if home value is defined, otherwise origin = True and home = False
+    # logic is if home_count == 1, should always just output home unless home has an end date, implying no current home
+    # by definition if home_count == 1, origin and home must have the same value if both defined, so don't need to check
+    # if home_count > 1, we need to check if home and origin have the same value. 
+    # if they have the same value, that means the only valid home is the origin, so we output origin True and home True but set home value to "Unknown"
+
+    if home_count == 0:
+        locations["origin"]["output"] = False
+        locations["home"]["output"] = False
+    elif home_count == 1:
+        locations["origin"]["output"] = False
+        locations["home"]["output"] = True
+        if locations["home"]["value"] is None or locations["home"]["value"] == "Unknown":
+            locations["home"]["output"] = False
+            locations["origin"]["output"] = True
+    else:
+        locations["home"]["output"] = True
+        locations["origin"]["output"] = True
+        if locations["home"]["value"] == locations["origin"]["value"]:
+            locations["home"]["value"] = "Unknown"
+            locations["home"]["output"] = False
+
+    # A current location is defined as
+    # Value:
+    # If there is an exact known whereabouts, use that and set the output flag to true
+    # Otherwise, if there is both a home and last known whereabouts where
+    # The last known whereabouts has a defined end and
+    # The last known whereabouts end date is in the past compared to the target date
+    # Then use the home whereabout as the current location and set the output flag to false
+    # Otherwise, the current location is Unknown and set the output flag to true
+    # Output: See algorithm above
+
+    if locations["exact"]["value"] is not None:
+        locations["current"]["value"] = locations["exact"]["value"]
+        locations["current"]["output"] = True
+    elif locations["home"]["value"] is not None:
+        if locations["last"]["end"] is not None and locations["last"]["end"] < target_date:
+            locations["current"]["value"] = locations["home"]["value"]
+            locations["current"]["output"] = False
+        elif locations["last"]["value"] is None:
+            locations["current"]["value"] = locations["home"]["value"]
+            locations["current"]["output"] = False
+        else:
+            locations["current"]["value"] = "Unknown"
+            locations["current"]["output"] = True
+    else:
+        locations["current"]["value"] = "Unknown"
+        locations["current"]["output"] = True
+
+    # a last known location is defined as
+    # Value: the last known whereabouts
+    # Output: the last known whereabouts is defined and the current location is Unknown
+    # Date: the last known whereabouts date
+    if locations["current"]["value"] == "Unknown" and locations["last"]["value"] is not None:
+        locations["last"]["output"] = True
+    else:
+        locations["last"]["output"] = False
+
+    """
+    # if you are dead, current location should never be output
+    if died_date is not None and target_date > died_date:
+        locations["current"]["output"] = False
+    
+    """
+
+
+    if debug:
+        print(metadata["name"], locations, file=sys.stderr)
+
+    return locations
+

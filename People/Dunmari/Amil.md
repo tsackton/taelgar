@@ -29,11 +29,7 @@ whereabouts:
   end: ''
   location: Pava and Avaras' House, Nashtkar
 - type: away
-<<<<<<< HEAD
   start: 1748-07-18
-=======
-  start: 1749-01-01
->>>>>>> 51f7760 (massive metadata cleanup and update)
   end: ''
   location: Pava and Avaras' House, Nashtkar
 lastSeenByParty: []

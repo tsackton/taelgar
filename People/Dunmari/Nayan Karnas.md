@@ -23,19 +23,11 @@ affiliations: []
 family: Nayan Dynasty
 whereabouts:
 - type: home
-<<<<<<< HEAD
   start: ''
   end: 1737
   location: Darba, Western Dunmar
 - type: home
   start: 1738
-=======
-  start: 1707-01-01
-  end: ''
-  location: Darba, Western Dunmar
-- type: home
-  start: 1738-01-01
->>>>>>> 51f7760 (massive metadata cleanup and update)
   end: ''
   location: Nayahar, Western Dunmar
 lastSeenByParty: []

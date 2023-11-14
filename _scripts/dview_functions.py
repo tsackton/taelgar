@@ -49,19 +49,19 @@ def get_PageDatedValue(metadata):
     ## Page start and page end defined, end in past: ```(startPrefix) (existenceDate) - (end prefix) (end date) (endStatus) at (age) years```
     
     if pageStartDate and pageEndDate and pageEndDate <= currentDate:
-        age = get_Age(pageEndDate, pageStartDate)
+        age = get_age(pageEndDate, pageStartDate)
         return f"{startPrefix} {display_date(pageStartDate, full=False)} - {endPrefix} {display_date(pageEndDate, full=False)} {endStatus} at {age} years old"
   
     ## Page start and page end defined, end in future: ```(startPrefix) (existenceDate) ((age) years old)```
 
     if pageStartDate and pageEndDate and pageEndDate > currentDate:
-        age = get_Age(currentDate, pageStartDate)
+        age = get_age(currentDate, pageStartDate)
         return f"{startPrefix} {display_date(pageStartDate, full=False)} ({age} years old)"
     
     ## Page start defined and page end not defined: ```(startPrefix) (existenceDate) ((age) years old)```
 
     if pageStartDate and not pageEndDate:
-        age = get_Age(currentDate, pageStartDate)
+        age = get_age(currentDate, pageStartDate)
         return f"{startPrefix} {display_date(pageStartDate, full=False)} ({age} years old)"
     
     ## Page start not defined page end defined, page end in future: empty
@@ -102,12 +102,12 @@ def get_RegnalValue(metadata):
 
     # If the reignEnd and in the past, is defined: ```reigned (reign start) - (reign end) ((age) years)```
     if reignEndDate and reignEndDate <= currentDate:
-        age = get_Age(reignEndDate, reignStartDate)
+        age = get_age(reignEndDate, reignStartDate)
         return f"reigned {display_date(reignStartDate, full=False)} - {display_date(reignEndDate, full=False)} ({age} years)"
     
     # # If the reignEnd is not defined, or in the future: ```reigning since (reign start) ((age) years)```
     if (reignEndDate and reignEndDate > currentDate) or reignEndDate is None:
-        age = get_Age(currentDate, reignStartDate)
+        age = get_age(currentDate, reignStartDate)
         return f"reigning since {display_date(reignStartDate, full=False)} ({age} years)"
 
 def get_HomeWhereabouts(metadata): 

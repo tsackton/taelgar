@@ -1,22 +1,7 @@
 ---
-<<<<<<< HEAD
-<<<<<<< HEAD
-aliases:
-- Tollen
-=======
 aliases: [Tollen]
 cultureDescriptor: Tollender
 parentLocation: The Western Green Sea Region
->>>>>>> 470ab2d (Some work in progress changes for Javascript handling of metadata)
-=======
-aliases: [Tollen]
-cultureDescriptor: Tollender
-parentLocation: The Western Green Sea Region
-=======
-aliases:
-- Tollen
->>>>>>> 160dd10 (massive metadata cleanup and update)
->>>>>>> 51f7760 (massive metadata cleanup and update)
 ---
 # The Free City of Tollen
 

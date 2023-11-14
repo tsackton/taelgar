@@ -1,23 +1,6 @@
 ---
-<<<<<<< HEAD
-fc-calendar: Taelgar Calendar
-fc-date: 1719-12-10
-fc-end: 1720-01-1
-fc-category: Cleenseau Campaign
 realWorldDate: 2023-09-10
-tags:
-- session-note
-- cleenseau-campaign
-=======
-realDate: 2023-09-10
-<<<<<<< HEAD
 tags: [session-note, cleenseau-campaign]
->>>>>>> 907c921 (Minor updates from Cleenseau session 8)
-=======
-tags:
-- session-note
-- cleenseau-campaign
->>>>>>> 51f7760 (massive metadata cleanup and update)
 campaign: Cleenseau
 sessionNumber: 6
 type: SessionNote
