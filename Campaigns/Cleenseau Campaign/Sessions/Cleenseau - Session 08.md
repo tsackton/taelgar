@@ -3,7 +3,6 @@ tags: [session-note, cleenseau-campaign]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Cleenseau - Session 08
-fc-calendar: Taelgar Calendar
 fc-date: 1720-01-01
 fc-end: 1720-01-06
 fc-category: Cleenseau Campaign
