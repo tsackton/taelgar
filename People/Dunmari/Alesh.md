@@ -26,10 +26,10 @@ whereabouts:
   start: ''
   end: ''
   location: Karawa, Eastern Dunmar
-- type: home
-  start: 1727-01-02
+- type: away
+  start: 1748-12-26
   end: ''
-  location: Karawa, Eastern Dunmar
+  location: Sura's army camp, Central Dunmar
 lastSeenByParty: []
 ---
 # Alesh
