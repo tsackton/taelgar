@@ -24,10 +24,10 @@ family:
 whereabouts:
 - type: home
   start: ''
-  end: ''
+  end: 1729
   location: Chardon, Chardonian Empire
 - type: home
-  start: 1694-01-02
+  start: 1730 #approx
   end: ''
   location: Darba, Western Dunmar
 lastSeenByParty: []

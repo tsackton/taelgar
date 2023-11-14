@@ -29,7 +29,7 @@ whereabouts:
   end: ''
   location: Arendum, Chardonian Empire
 - type: home
-  start: 1701-01-02
+  start: ''
   end: ''
   location: Chardon, Chardonian Empire
 lastSeenByParty: []

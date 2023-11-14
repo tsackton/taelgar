@@ -26,7 +26,7 @@ family: Goodbarrel
 whereabouts:
 - type: home
   start: ''
-  end: ''
+  end: 1722-03-09
   location: At Sea, Western Gulf
 - type: home
   start: 1722-03-10

@@ -24,12 +24,12 @@ affiliations:
 family: Goodbarrel
 whereabouts:
 - type: home
-  start: ''
-  end: ''
+  start: 
+  end: 1721
   location: Sembara, Western Green Sea
 - type: home
-  start: 1722-03-10
-  end: ''
+  start: 1722
+  end: 
   location: Tollen, Western Green Sea
 lastSeenByParty:
 - date: 1748-12-30
@@ -37,12 +37,10 @@ lastSeenByParty:
 ---
 # Chenna
 >[!info]+ Biographical Summary
->halfling, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Sembara]], [[Western Green Sea]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 30th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Halflings|halfling]], she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Together with her spouse, Harriet, Chenna runs the charming halfling tavern *The Singing Fox* in Fairgate Outer. Warm, welcoming, and charming, she's the heart of the establishment.
 
