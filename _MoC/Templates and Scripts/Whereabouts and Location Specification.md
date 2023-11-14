@@ -62,18 +62,19 @@ This should generate "origin" as the origin whereabouts.
 	- If there are no valid home locations, home is unknown. Note if you want a defined origin and an unknown home, you must have only home locations with real end dates < target date in the whereabouts. 
 
 3. A current whereabouts is defined as the valid current location with the shortest duration. A valid current location is determined by the following algorithm:
-	- if there are no away lines in the whereabouts, the only valid current location is the home location
+	- if there are no away lines in the whereabouts, the only valid current location is the home location, which might be unknown
 	- if there are away lines, the list of valid current locations is the set of away locations where imputed start <= target_date <= imputed_end
 	- if the list of valid current locations is empty, then the current whereabouts is set to unknown if real end is undefined, and home otherwise
 	- if the list of valid current locations is not empty, then the current whereabouts is set to the valid location with the shortest duration (imputed_end - imputed_start)
 
 4. A last know whereabouts is defined as the valid current location with the shortest duration, defined as imputed_end - target_date. A known location cannot be unknown. A known location is determined by the following algorithm:
 	- if the current whereabouts is not unknown, the last known whereabouts is the current whereabouts, and the last known date is the target date
-	- if the current whereabouts is unknown, by definition there must be away lines, and there must be away lines with undefined real ends. in this scenario, to determine the last known location:
-	- the last known location is the away lines where imputed_start <= target_date and with the shortest duration between imputed_end and target_date
-	- if there are multiple valid last known locations, the one with the shortest duration (imputed_end - imputed_start) is preferred
-	- if there are multiple valid last known locations with the same duration, the one lexigraphically last in the file is preferred
-	- the last known date is defined as the imputed_end of the last known location
+	- if the current whereabouts is unknown, determine the last known location as follows if there is at least one away line:
+		- the last known location is the away lines where imputed_start <= target_date and with the shortest duration between imputed_end and target_date
+		- if there are multiple valid last known locations, the one with the shortest duration (imputed_end - imputed_start) is preferred
+		- if there are multiple valid last known locations with the same duration, the one lexigraphically last in the file is preferred
+		- the last known date is defined as the imputed_end of the last known location
+	- if there are no away lines, for example because home is unknown (e.g. there is an origin, but no known home), the last known location is the origin, and the last known location date is the origin end date
 
 **For discussion:**
 
