@@ -1,4 +1,11 @@
-### Cleenseau Region
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau Region
+placeType:
+partOf:
+---
 
 The Cleenseau region is the area around the significant market town of [[Cleenseau]], nestled on the north bank of the River Enst, bounded by the River Enst in the south, the [[Cleenseau Wood]] in the north, [[Rinburg]] in the east, and [[Taviose]] in the west.
 

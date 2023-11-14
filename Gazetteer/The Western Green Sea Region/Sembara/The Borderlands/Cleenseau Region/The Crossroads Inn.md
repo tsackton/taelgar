@@ -1,6 +1,10 @@
 ---
-type: Building
-parentLocation: Cleenseau
+tags: [place, place/building]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Crossroads Inn
+placeType:
+partOf: Cleenseau
 created: 1392
 ---
 # The Crossroads Inn

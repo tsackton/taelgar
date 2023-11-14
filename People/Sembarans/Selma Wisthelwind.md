@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Selma Wisthelwind
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1644
-died:
-gender: female
-pronouns:
-ancestry: Highlander
 species: human
-affiliations: []
-family:
+ancestry: Highlander
+gender: female
 whereabouts:
-- type: home
-  start: null
-  end: ''
-  location: Ardlas
-- type: home
-  start: null
-  end: ''
-  location: Cleenseau, Sembara
-lastSeenByParty: []
+- {type: home, start: !!null '', end: '', location: Ardlas}
+- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Selma Wisthelwind
 >[!info]+ Biographical Summary

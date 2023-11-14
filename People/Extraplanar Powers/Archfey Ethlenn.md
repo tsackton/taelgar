@@ -1,34 +1,15 @@
 ---
-type: NPC
+tags: [status/stub, clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Archfey Ethlenn
-pronouciation:
-aliases:
-- Queen of the Evening Mist
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/unsorted
-- stub
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry: archfey
 species: fey
-affiliations: []
-family:
+ancestry: archfey
+gender: female
+aliases: [Queen of the Evening Mist]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: unknown, Feywild
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'unknown, Feywild'}
 ---
 # Archfey Ethlenn
 >[!info]+ Biographical Summary

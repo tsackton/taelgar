@@ -1,30 +1,15 @@
 ---
-type: Ruler
+tags: [historical, clee/unsorted, person, dufr/unaware, ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Arryn II
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-- NPC/historical
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1601
-died: 1628
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family: House of Sewick
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: male
 reignStart: 1601
+died: 1628
+family: House of Sewick
 reignEnd: 1628
 ---
 # Arryn II

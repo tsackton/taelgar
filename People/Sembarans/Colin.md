@@ -1,28 +1,12 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Colin
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1691
-died:
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: male
 ---
 # Colin
 >[!info]+ Biographical Summary

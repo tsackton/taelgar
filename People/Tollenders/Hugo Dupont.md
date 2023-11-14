@@ -1,39 +1,17 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: '1748-12-29', type: met}
 name: Hugo Dupont
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1691
-died:
-gender: male
-pronouns:
-ancestry: Isinguer
 species: human
-affiliations:
-- University of Tollen
-family:
+ancestry: Isinguer
+gender: male
+affiliations: [University of Tollen]
 whereabouts:
-- type: home
-  start: '1689-01-01'
-  end: ''
-  location: Tollen, Western Green Sea
-- type: home
-  start: '1689-01-02'
-  end: ''
-  location: Tollen, Western Green Sea
-lastSeenByParty:
-- date: '1748-12-29'
-  prefix: DuFr
+- {type: home, start: '1689-01-01', end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: '1689-01-02', end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Hugo Dupont
 >[!info]+ Biographical Summary

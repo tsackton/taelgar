@@ -1,30 +1,14 @@
 ---
-type: Ruler
+tags: [clee/unsorted, ruler, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Arryn III
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1702
-died:
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family: House of Lils
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: male
 reignStart: 1745
-reignEnd:
+family: House of Lils
 ---
 # Arryn III
 >[!info]+ Biographical Summary

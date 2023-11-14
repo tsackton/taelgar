@@ -1,38 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-08, type: met}
 name: Evelina
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: killed in Uzgukhar
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1691
-died: 1748-12-08
-gender: female
-pronouns:
-ancestry: Chardonian
 species: human
+ancestry: Chardonian
+gender: female
+died: 1748-12-08
 affiliations: The Cleansed
-family:
 whereabouts:
-- type: away
-  start: 1748-12-01
-  end: false
-  location: Uzgukhar, Xurkhaz
-- type: home
-  start: ''
-  end: ''
-  location: Chardon
-lastSeenByParty:
-- date: 1748-12-08
-  prefix: DuFr
+- {type: away, start: 1748-12-01, end: false, location: 'Uzgukhar, Xurkhaz'}
+- {type: home, start: '', end: '', location: Chardon}
 ---
 # Evelina
 >[!info]+ Biographical Summary

@@ -1,30 +1,14 @@
 ---
-type: Ruler
+tags: [historical, clee/unsorted, person, dufr/unaware, ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Derik I
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-- NPC/historical
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1396
-died: 1462
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: male
 reignStart: 1428
+died: 1462
 reignEnd: 1462
 ---
 # Derik I

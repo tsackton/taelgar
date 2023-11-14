@@ -1,4 +1,11 @@
-# Overview
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Pyhlla
+placeType:
+partOf:
+---
 
 Pyhlla a port town, on a volcanic rocky island, less than a day's sail from [[Vetta]], the island of the sacred waters. 
 

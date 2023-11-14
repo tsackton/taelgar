@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jothai
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/aware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1719
-died:
-gender: male
-pronouns:
-ancestry: Deno'qai
 species: human
-affiliations: []
-family:
+ancestry: Deno'qai
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Ko'zula village
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: Ko'zula village}
 ---
 # Jothai
 >[!info]+ Biographical Summary

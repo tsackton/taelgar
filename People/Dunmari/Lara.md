@@ -1,33 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Lara
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1707
-died:
-gender: female
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations:
-- Lakan Mystai
-family:
+ancestry: Dunmari
+gender: female
+affiliations: [Lakan Mystai]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Lakan Monastery, Tokra, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Lakan Monastery, Tokra, Central Dunmar'}
 ---
 # Lara
 >[!info]+ Biographical Summary

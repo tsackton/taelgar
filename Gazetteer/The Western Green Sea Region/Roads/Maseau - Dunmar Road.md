@@ -1,4 +1,11 @@
-### The Maseau - Dunmar Road
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Maseau - Dunmar Road
+placeType:
+partOf:
+---
 It is 480 miles from [[Cassons]] to the high pass over the [[Sentinel Range]], and the road passes through three major areas on the journey. The first 140 miles run through the [[March of Andonne]], a land of small-scale ranchers and marcher lords. Clustered along the road fortified ranchers, once the main defense from the Plaguelands. Today these ranchers are open and have grown into small villages and markets,  and the lords 50 miles or more to the south and east bear the brunt of whatever comes out of the [[Plaguelands]]. Travelers are advised to avoid sleeping on the roadside, but rarely is it needed as the ranches along the road have developed into waystops and places of refuge, earning a second income as inns and taverns.
 
 To the right (north-north-west) the land rises sharply to the Aurbez plateau, a very steep ride unsuitable for wagons. The higher elevation is slightly wetter and safer, and occasionally travelers see goat herders and shepherds tending flocks along the ridge. The road runs beneath the plateau ridge, several thousand feet below the high ridge from which the plateau stretches.

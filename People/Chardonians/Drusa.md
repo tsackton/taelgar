@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Drusa
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1711
-died:
-gender: female
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations: []
-family:
+ancestry: Chardonian
+gender: female
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1748-05-01
-  end: ''
-  location: Tokra, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-05-01, end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Drusa
 >[!info]+ Biographical Summary

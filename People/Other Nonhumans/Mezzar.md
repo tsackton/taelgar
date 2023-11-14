@@ -1,42 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Grimbaskal
-pronouciation:
-aliases:
-- Grimbaskal
-- Mezzar
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died: 1748
-gender: male
-pronouns:
-ancestry: green
 species: dragon
-affiliations: []
-family:
+ancestry: green
+gender: male
+aliases: [Grimbaskal, Mezzar]
+died: 1748
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: unknown, unknown
-- type: home
-  start: ''
-  end: ''
-  location: unknown, Elderwood
-- type: away
-  start: 1748-10-01
-  end: ''
-  location: deceased, Elderwood
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'unknown, unknown'}
+- {type: home, start: '', end: '', location: 'unknown, Elderwood'}
+- {type: away, start: 1748-10-01, end: '', location: 'deceased, Elderwood'}
 ---
 # Grimbaskal
 >[!info]+ Biographical Summary

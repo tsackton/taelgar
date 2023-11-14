@@ -1,39 +1,18 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-30, type: met}
 name: Chenna
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1688
-died:
-gender: female
-pronouns:
-ancestry:
 species: halfling
-affiliations:
-- The Singing Fox
+ancestry:
+gender: female
+affiliations: [The Singing Fox]
 family: Goodbarrel
 whereabouts:
-- type: home
-  start: 
-  end: 1721
-  location: Sembara, Western Green Sea
-- type: home
-  start: 1722
-  end: 
-  location: Tollen, Western Green Sea
-lastSeenByParty:
-- date: 1748-12-30
-  prefix: DuFr
+- {type: home, start: !!null '', end: 1721, location: 'Sembara, Western Green Sea'}
+- {type: home, start: 1722, end: !!null '', location: 'Tollen, Western Green Sea'}
 ---
 # Chenna
 >[!info]+ Biographical Summary

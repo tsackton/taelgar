@@ -1,29 +1,13 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ander Charmheart
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1711
-died:
-gender: male
-pronouns:
-ancestry:
 species: halfling
-affiliations:
-- Charmhearts
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: male
+affiliations: [Charmhearts]
 ---
 # Ander Charmheart
 >[!info]+ Basic information

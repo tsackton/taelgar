@@ -1,36 +1,14 @@
 ---
-type: PC
+tags: [pc, person, pc/unsorted]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ryu
-pronouciation:
-aliases: []
-tags:
-- PC/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: Mawaran
 species: human
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Mawaran
+gender: male
 player: David Kong
-ddbLink:
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 # Ryu
 

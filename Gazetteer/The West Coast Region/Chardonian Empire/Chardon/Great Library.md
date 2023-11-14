@@ -1,8 +1,10 @@
 ---
-tags:
-  - "#event-source"
+tags: [place, '#event-source']
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
 name: The Great Library
-parentLocation: Chardon
+placeType:
+partOf: Chardon
 ---
 # The Great Library
 

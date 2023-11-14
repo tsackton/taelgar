@@ -1,6 +1,10 @@
 ---
-type: Location
-parentLocation: Barony of Averil
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Valit
+placeType:
+partOf: Barony of Averil
 population: 549
 pronounciation: Val-le
 ---

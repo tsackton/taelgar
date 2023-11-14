@@ -1,4 +1,11 @@
-# The Sembaran Western Marches
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Western Marches
+placeType:
+partOf:
+---
 
 The Western Marches are divided into four regions: the [[Marches of Enford]], in the foothills between the north and central branches of the River Enst; the [[Barony of Ainwick]], centered around Ainwick on the River Wistel; the [[Barony of Dunfry]], amongst the flat lands north of the Enst, and the [[Marches of ~CentralMountains~]], north of the Wistel. Much of this land was war-torn and devastated by the Western War three generations ago, and is still underpopulated. The Marches of Enford and much of the Barony of Dunfry in particular were overrun and subjagated by hobgoblins during the wars of the 1590s, and the marks of that occupation on the land and the people are still evident. 
 

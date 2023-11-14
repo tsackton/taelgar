@@ -1,31 +1,14 @@
 ---
-type: NPC
+tags: [grli/unsorted, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Herasto
-pronouciation: 
-aliases: 
-tags:
-  - NPC/GrLi/unsorted
-pageTargetDate: 
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: "**(not yet born)**"
-title: 
-born: 
-died: 
-gender: male
-pronouns: 
-ancestry: 
+born:
 species: centaur
-affiliations: 
-family: 
+ancestry:
+gender: male
 whereabouts:
-  - type: away
-    start: 1748-11-23
-    end: ""
-    location: plains south of Voltara, Voltara, Chardonian Empire
-lastSeenByParty:
+- {type: away, start: 1748-11-23, end: '', location: 'plains south of Voltara, Voltara, Chardonian Empire'}
 ---
 # Herasto
 >[!info]+ Biographical Summary

@@ -1,36 +1,14 @@
 ---
-type: PC
+tags: [pc, person, pc/dunmarfrontier]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kenzo
-pronouciation:
-aliases: []
-tags:
-- PC/DunmarFrontier
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Dunmari
+gender: male
 player: David Kong
-ddbLink:
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ## Kenzo
 

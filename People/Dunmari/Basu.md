@@ -1,33 +1,15 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Basu
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1705
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations:
-- Lakan mystai
-family:
+ancestry: Dunmari
+gender: male
+affiliations: [Lakan mystai]
 whereabouts:
-- type: home
-  start: 1705-01-02
-  end: ''
-  location: Lakan Monastery, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: 1705-01-02, end: '', location: 'Lakan Monastery, Central Dunmar'}
 ---
 # Basu
 >[!info]+ Biographical Summary

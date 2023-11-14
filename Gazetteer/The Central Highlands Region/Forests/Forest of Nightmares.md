@@ -1,4 +1,11 @@
-## Forest of Nightmares
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Forest of Nightmares
+placeType:
+partOf:
+---
 
 A cursed forest, once home to many Deno'qai. The scene of many battles during the [[Events/1500s/Great War]], and now haunted by the dead. Not a safe place to travel for the restless dead swarm the living who enter the forest and remain still for more than a few hours. 
 

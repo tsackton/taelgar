@@ -1,20 +1,10 @@
 ---
-type: Event
-name:
-pronouciation:
-aliases: []
 tags: []
-pageTargetDate:
-endStatus: ended
-endPrefix: ''
-startStatus: started
-startPrefix: ''
-preExistError: '**(has not happened)**'
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name:
 DR: 1709-06
 DR_end: 1709-08
-fc-date:
-fc-end:
-fc-display-name:
 ---
 # The Summer of Red Storms
 

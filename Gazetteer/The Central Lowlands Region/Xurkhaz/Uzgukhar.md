@@ -1,4 +1,11 @@
-# Uzgukhar
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Uzgukhar
+placeType:
+partOf:
+---
 
 Uzgukhar is the capitol and primary city of the kingdom of [[Xurkhaz]], home of the [[People of the Rainbow]]. A desert city, nestled between the Kulthul and the Drogar rivers, Uzgukhar consists largely of mud brick buildings decorated with colorful murlals and intricate carvings. Notable landmarks include the palace, a large cattle market, the plaza of freedom, and the hall of the ancestors. 
 

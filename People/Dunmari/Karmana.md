@@ -1,28 +1,12 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Karmana
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Dunmari
+gender: male
 ---
 ### Karmana
 (he/him)

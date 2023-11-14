@@ -1,7 +1,9 @@
 ---
+tags: [excalidraw]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: voltara-outline.excalidraw
 excalidraw-plugin: parsed
-tags:
-- excalidraw
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 

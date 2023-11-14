@@ -1,18 +1,8 @@
 ---
-type: Organization
+tags: [organization/unsorted, organization]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags:
-- organization/unsorted
-pageTargetDate:
-endStatus: disbanded
-endPrefix: d.
-startStatus: founded
-startPrefix: f.
-preExistError: '**(not yet founded)**'
-created:
-destroyed:
 ---
 # Omnis Pura
 

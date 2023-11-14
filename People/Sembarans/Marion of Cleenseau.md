@@ -1,30 +1,13 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Marion of Cleenseau
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1698
-died:
-gender: female
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations:
-- Bridge Patrol
-- Army of the West
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: female
+affiliations: [Bridge Patrol, Army of the West]
 ---
 # Marion of Cleenseau
 >[!info]+ Biographical Summary

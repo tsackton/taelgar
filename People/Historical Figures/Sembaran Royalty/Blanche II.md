@@ -1,30 +1,14 @@
 ---
-type: Ruler
+tags: [historical, ruler, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Blanche II
-pronouciation:
-aliases: []
-tags:
-- NPC/historical
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1564
-died: 1601
-gender: female
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: female
 reignStart:
-reignEnd:
+died: 1601
 ---
 # Blanche II
 >[!info]+ Biographical Summary

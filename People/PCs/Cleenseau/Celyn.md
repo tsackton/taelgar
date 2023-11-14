@@ -1,44 +1,17 @@
 ---
-type: PC
+tags: [pc, pc/cleenseau, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Celyn
-pronouciation:
-aliases: []
-tags:
-- PC/Cleenseau
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1697
-died:
-gender: male
-pronouns:
-ancestry: Tyrwinghan
 species: human
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Clawyn, Tyrwingha
-- type: away
-  start: 1719-10-17
-  end: ''
-  location: Cleenseau, Sembara
-lastSeenByParty: []
+ancestry: Tyrwinghan
+gender: male
 player: Kiya Nicoll
-ddbLink:
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+whereabouts:
+- {type: home, start: '', end: '', location: 'Clawyn, Tyrwingha'}
+- {type: away, start: 1719-10-17, end: '', location: 'Cleenseau, Sembara'}
 ---
 # Celyn
 >[!info]+ Biographical Summary

@@ -1,33 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Orc in the Mirror
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1662
-died:
-gender: female
-pronouns:
-ancestry:
 species: orc
-affiliations:
-- The People of the Rainbow
-family: []
+ancestry:
+gender: female
+affiliations: [The People of the Rainbow]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Xurkhaz, unknown
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Xurkhaz, unknown'}
 ---
 # [[Orcs|Orc]] in the Mirror
 >[!info]+ Biographical Summary

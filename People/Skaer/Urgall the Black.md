@@ -1,43 +1,19 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-22, type: met}
 name: Urgall
-pronouciation:
-aliases:
-- Urgall
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/major
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1720
-died: 1748
-gender: male
-pronouns:
-ancestry: Skaer
 species: human
-affiliations: []
-family:
+ancestry: Skaer
+gender: male
+aliases: [Urgall]
+died: 1748
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Skaerhem
-- type: home
-  start: 1741-01-02
-  end: ''
-  location: Western Green Sea
-- type: away
-  start: 1748-05-01
-  end: ''
-  location: Vetta, Skaerhem
-lastSeenByParty:
-- date: 1748-12-22
-  prefix: DuFr
+- {type: home, start: '', end: '', location: Skaerhem}
+- {type: home, start: 1741-01-02, end: '', location: Western Green Sea}
+- {type: away, start: 1748-05-01, end: '', location: 'Vetta, Skaerhem'}
 ---
 # Urgall
 >[!info]+ Biographical Summary

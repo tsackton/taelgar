@@ -1,6 +1,9 @@
 ---
-aliases:
-- Sibyl
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Sibyl
+aliases: [Sibyl]
 ---
 # The Sibyl
 *she/her*

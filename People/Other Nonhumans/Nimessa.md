@@ -1,28 +1,12 @@
 ---
-type: NPC
+tags: [mc/aware, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Nimessa
-pronouciation:
-aliases: []
-tags:
-- NPC/MC/aware
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry: marid
 species: elemental
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: marid
+gender: female
 ---
 
 %%SECRET[1]%%

@@ -1,30 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, person, historical, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Samraat Nayan Yarad
-pronouciation:
-aliases:
-- Nayan Yarad
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/aware
-- NPC/historical
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Dunmari
+gender: male
+aliases: [Nayan Yarad]
 ---
 
 ### Samraat Nayan Yarad

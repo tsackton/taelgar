@@ -1,6 +1,9 @@
 ---
-aliases:
-- Downfall
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Downfall
+aliases: [Downfall]
 ---
 
 ### The Downfall

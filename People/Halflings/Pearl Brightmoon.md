@@ -1,32 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Pearl Brightmoon
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met_one
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: halfling
+ancestry:
+gender: female
 affiliations: Sea
-family:
 whereabouts:
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: unknown, Eastern Green
-lastSeenByParty: []
+- {type: away, start: 1748-11-23, end: '', location: 'unknown, Eastern Green'}
 ---
 # Pearl Brightmoon
 >[!info]+ Biographical Summary

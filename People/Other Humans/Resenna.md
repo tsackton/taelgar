@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Resenna
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met_one
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1724
-died:
-gender: female
-pronouns:
-ancestry:
 species: human
-affiliations: []
-family:
+ancestry:
+gender: female
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Medju, Eastern Green Sea
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: sea elf village, Quanyi, Eastern Green Sea
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Medju, Eastern Green Sea'}
+- {type: away, start: 1748-11-23, end: '', location: 'sea elf village, Quanyi, Eastern Green Sea'}
 ---
 # Resenna
 >[!info]+ Biographical Summary

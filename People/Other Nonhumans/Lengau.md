@@ -1,28 +1,13 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Lengau
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met_one
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
+species: divine
+ancestry:
 gender: nonbinary
 pronouns: he/him or she/her (as they desire)
-ancestry:
-species: divine
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
 ---
 # Lengau
 >[!info]+ Biographical Summary

@@ -1,46 +1,18 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-09, type: met}
 name: Vargus
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/major
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1722
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Chardonian Legion
-- Society of the Open Scroll
-- Fausto
-- Evelina
-family:
+ancestry: Chardonian
+gender: male
+affiliations: [Chardonian Legion, Society of the Open Scroll, Fausto, Evelina]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: home
-  start: 1722-01-02
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1748-12-09
-  end: ''
-  location: Trapped in the Mirror of Soul Trapping
-lastSeenByParty:
-- date: 1748-12-09
-  prefix: DuFr
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, start: 1722-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-12-09, end: '', location: Trapped in the Mirror of Soul Trapping}
 ---
 # Vargus
 >[!info]+ Biographical Summary

@@ -1,31 +1,16 @@
 ---
-type: Ruler
+tags: [historical, clee/unsorted, person, dufr/unaware, ruler]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Cece I
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-- NPC/historical
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Queen
 born: 1628
-died: 1713
-gender: female
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family: House of Sewick
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: female
 reignStart: 1648
-reignEnd:
+title: Queen
+died: 1713
+family: House of Sewick
 ---
 # Queen Cece I
 >[!info]+ Biographical Summary

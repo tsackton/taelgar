@@ -1,29 +1,13 @@
 ---
-type: NPC
+tags: [dufr/minor, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Uzgash
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/aware
-- NPC/DuFr/minor
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: orc
-affiliations:
-- The People of the Rainbow
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: male
+affiliations: [The People of the Rainbow]
 ---
 # Uzgash
 >[!info]+ Biographical Summary

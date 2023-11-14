@@ -1,37 +1,14 @@
 ---
-type: PC
+tags: [status/stub, pc, person, pc/dunmarfrontier]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Riswynn
-pronouciation:
-aliases: []
-tags:
-- PC/DunmarFrontier
-- stub
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: dwarf
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: female
 player: Kate Sackton
-ddbLink:
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Riswynn
 

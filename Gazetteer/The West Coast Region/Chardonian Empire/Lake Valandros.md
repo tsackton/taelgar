@@ -1,1 +1,8 @@
-A large lake in the north of the Chardonian Empire.
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Lake Valandros
+placeType:
+partOf:
+---

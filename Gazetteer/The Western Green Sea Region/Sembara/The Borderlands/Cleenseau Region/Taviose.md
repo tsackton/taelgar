@@ -1,6 +1,10 @@
 ---
-type: Location
-parentLocation: Barony of Aveil
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Taviose
+placeType:
+partOf: Barony of Aveil
 population: 48
 pronounciation: Ta-vi-ose
 ---

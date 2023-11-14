@@ -1,28 +1,13 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Terry the Bandit
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/unaware
-- NPC/Clee/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died: 1719
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: male
+died: 1719
 ---
 # Terry the Bandit
 >[!info]+ Biographical Summary

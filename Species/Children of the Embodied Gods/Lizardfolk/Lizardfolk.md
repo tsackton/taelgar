@@ -1,6 +1,9 @@
 ---
-aliases:
-- lizardfolk
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Lizardfolk
+aliases: [lizardfolk]
 speciesDescriptor: lizardfolk
 ---
 # Lizardfolk

@@ -1,27 +1,13 @@
 ---
-type: NPC
+tags: [unsorted, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Celine Essford
-pronouciation:
-aliases: []
-tags:
-- NPC/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1621
-died: 1699
-gender: female
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: female
+died: 1699
 ---
 # Celine Essford
 >[!info]+ Biographical Summary

@@ -1,28 +1,12 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Hagrim
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met_one
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: male
 ---
 ## Hagrim of [[Morkalan]]
 

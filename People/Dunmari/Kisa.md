@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kisa
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1680
-died:
-gender: female
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
+ancestry: Dunmari
+gender: female
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Karawa, Eastern Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Kisa
 >[!info]+ Biographical Summary

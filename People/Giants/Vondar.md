@@ -1,37 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, status/uptodate, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Vondar
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/met_one
-- status/uptodate
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: cursed
 species: giant
-affiliations: []
-family:
+ancestry: cursed
+gender: male
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: unknown, unknown
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: unknown, Amberglow
-lastSeenByParty: []
+- {type: home, start: 0001-01-01, end: '', location: 'unknown, unknown'}
+- {type: away, start: 1748-11-23, end: '', location: 'unknown, Amberglow'}
 ---
 # Vondar
 >[!info]+ Biographical Summary

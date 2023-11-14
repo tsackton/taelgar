@@ -1,46 +1,18 @@
 ---
-type: PC
+tags: [pc, pc/cleenseau, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Izgil Moonseeker
-pronouciation:
-aliases:
-- Durgil Barzinduk
-- Izgil
-tags:
-- PC/Cleenseau
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1453
-died:
-gender: male
-pronouns:
-ancestry:
 species: dwarf
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Nidzahar
-- type: away
-  start: 1719-10-19
-  end: ''
-  location: Taviose, Sembara
-lastSeenByParty: []
+ancestry:
+gender: male
 player: Matt Rand
-ddbLink:
+aliases: [Durgil Barzinduk, Izgil]
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+whereabouts:
+- {type: home, start: '', end: '', location: Nidzahar}
+- {type: away, start: 1719-10-19, end: '', location: 'Taviose, Sembara'}
 ---
 # Izgil Moonseeker
 >[!info]+ Biographical Summary

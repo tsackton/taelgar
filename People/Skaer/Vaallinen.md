@@ -1,39 +1,17 @@
 ---
-type: NPC
+tags: [dufr/background, status/uptodate, person, dufr/met]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-12-25, type: met}
 name: Vaallinen
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met
-- NPC/DuFr/background
-- status/uptodate
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Hakeasa
 born: 1713
-died:
-gender: male
-pronouns:
-ancestry: Skaer
 species: human
-affiliations: []
-family:
+ancestry: Skaer
+gender: male
+title: Hakeasa
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Pyhlla, Skaerhem
-- type: home
-  start: 1713-01-02
-  end: ''
-  location: Pyhlla, Skaerhem
-lastSeenByParty:
-- date: 1748-12-25
-  prefix: DuFr
+- {type: home, start: '', end: '', location: 'Pyhlla, Skaerhem'}
+- {type: home, start: 1713-01-02, end: '', location: 'Pyhlla, Skaerhem'}
 ---
 # Hakeasa Vaallinen
 >[!info]+ Biographical Summary

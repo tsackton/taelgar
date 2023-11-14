@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Zevi
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/met_one
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1734
-died:
-gender: male
-pronouns:
-ancestry: Deno'qai
 species: human
-affiliations: []
-family:
+ancestry: Deno'qai
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Ko'zula village
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: Ko'zula village}
 ---
 # Zevi
 >[!info]+ Biographical Summary

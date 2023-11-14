@@ -1,4 +1,8 @@
 ---
+tags: []
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Festival of Rebirth
 fc-date: 1748-4-6
 ---
 # The Festival of Rebirth

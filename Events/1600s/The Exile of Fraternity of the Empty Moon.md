@@ -1,5 +1,8 @@
 ---
-tags: event-source
+tags: [v, u, s, o, t, e, c, r, '-', n]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Exile of Fraternity of the Empty Moon
 DR: 1625-04-11
 DR_end: 1625-08-14
 ---

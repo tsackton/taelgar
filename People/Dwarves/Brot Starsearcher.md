@@ -1,40 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Brot Starsearcher
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1579
-died:
-gender: nonbinary
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
+ancestry:
+gender: nonbinary
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Am'khazar
-- type: home
-  start: ''
-  end: ''
-  location: Taviose, Sembara
-- type: away
-  start: 1719-11-21
-  end: ''
-  location: Dunfry, Sembara
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: Am'khazar}
+- {type: home, start: '', end: '', location: 'Taviose, Sembara'}
+- {type: away, start: 1719-11-21, end: '', location: 'Dunfry, Sembara'}
 ---
 # Brot Starsearcher
 >[!info]+ Biographical Summary

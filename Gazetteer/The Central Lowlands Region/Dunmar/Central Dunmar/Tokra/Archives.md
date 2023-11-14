@@ -1,4 +1,11 @@
-### The Tokra Archives
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Archives
+placeType:
+partOf:
+---
 
 The archives are a large square building with a significant tower rising 100 feet above the city, across the Dharajun Plaza from the temple. Also constructed during the early years of the Dharajun dynasty, this building suffered more damage during the [[Fire War]] than the temple, and was reconstructed in the simpler, less ostentatious, more flowing, melancholic, and organic style of post-Great-War Dunmari architecture.
 

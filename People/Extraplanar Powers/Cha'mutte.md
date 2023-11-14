@@ -1,28 +1,13 @@
 ---
-type: NPC
+tags: [historical, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Cha'mutte
-pronouciation:
-aliases: []
-tags:
-- NPC/historical
-- NPC/DuFr/aware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died: 1545
-gender: male
-pronouns:
-ancestry: elder wyrm
 species: dragon
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: elder wyrm
+gender: male
+died: 1545
 ---
 # Cha'mutte
 >[!info]+ Biographical Summary

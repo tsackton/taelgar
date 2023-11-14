@@ -1,63 +1,23 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: DuFr, date: 1748-10-23, type: met}
 name: Kaeso
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1691
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Shakun Mystai
-family:
+ancestry: Chardonian
+gender: male
+affiliations: [Shakun Mystai]
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: home
-  start: 1691-01-02
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1713-01-01
-  end: ''
-  location: traveling, Dunmar
-- type: away
-  start: 1717-01-01
-  end: ''
-  location: Karawa, Eastern Dunmar
-- type: away
-  start: 1719-01-01
-  end: ''
-  location: traveling, The Central Highlands Region
-- type: home
-  start: 1723-01-01
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1748-09-10
-  end: ''
-  location: traveling, Chardonian Empire
-- type: away
-  start: 1748-10-12
-  end: ''
-  location: Hamri, Mawakel Peninsula
-lastSeenByParty:
-- date: 1748-10-23
-  prefix: DuFr
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, start: 1691-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1713-01-01, end: '', location: 'traveling, Dunmar'}
+- {type: away, start: 1717-01-01, end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: away, start: 1719-01-01, end: '', location: 'traveling, The Central Highlands Region'}
+- {type: home, start: 1723-01-01, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-09-10, end: '', location: 'traveling, Chardonian Empire'}
+- {type: away, start: 1748-10-12, end: '', location: 'Hamri, Mawakel Peninsula'}
 ---
 # Kaeso
 >[!info]+ Biographical Summary

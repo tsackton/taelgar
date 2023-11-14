@@ -1,37 +1,17 @@
 ---
-type: NPC
+tags: [dufr/aware, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Arcus
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/aware
-pageTargetDate:
-endStatus: petrified
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1723
-died: 1748
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations:
-- Society of the Open Scroll
-family:
+ancestry: Chardonian
+gender: male
+died: 1748
+affiliations: [Society of the Open Scroll]
 whereabouts:
-- type: home
-  start: null
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: petrified in a fort east of Gomat, Nashtkar
-lastSeenByParty: []
+- {type: home, start: !!null '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-11-23, end: '', location: 'petrified in a fort east of Gomat, Nashtkar'}
 ---
 # Arcus
 >[!info]+ Biographical Summary

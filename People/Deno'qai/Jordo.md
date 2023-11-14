@@ -1,32 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Jordo
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/background
-- NPC/DuFr/aware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1672
-died: 1744
-gender: male
-pronouns:
-ancestry: Deno'qai
 species: human
-affiliations: []
-family:
+ancestry: Deno'qai
+gender: male
+died: 1744
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Te'kula village
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: Te'kula village}
 ---
 # Jordo
 >[!info]+ Biographical Summary

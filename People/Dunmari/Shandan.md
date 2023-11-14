@@ -1,33 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Shandan
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/aware
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1692
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations:
-- Shandan's Warband
-family:
+ancestry: Dunmari
+gender: male
+affiliations: [Shandan's Warband]
 whereabouts:
-- type: home
-  start: 1692-01-02
-  end: ''
-  location: plains east of Songara, Central Dunmar
-lastSeenByParty: []
+- {type: home, start: 1692-01-02, end: '', location: 'plains east of Songara, Central Dunmar'}
 ---
 # Shandan
 >[!info]+ Biographical Summary

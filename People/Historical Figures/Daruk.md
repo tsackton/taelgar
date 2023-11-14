@@ -1,29 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, person, historical, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Daruk
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/aware
-- NPC/DuFr/background
-- NPC/historical
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1323
-died: 1533
-gender: male
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: male
+died: 1533
 ---
 # Daruk
 >[!info]+ Biographical Summary

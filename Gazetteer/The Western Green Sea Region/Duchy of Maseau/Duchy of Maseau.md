@@ -1,6 +1,11 @@
 ---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Duchy of Maseau
+placeType:
+partOf:
 aliases: Maseau
-type: Location
 ---
 # The Duchy of Maseau
 

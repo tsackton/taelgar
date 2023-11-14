@@ -1,4 +1,11 @@
-# [[Agata]]' Hut
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Agata's lair
+placeType:
+partOf:
+---
 
 The home of the hag [[Agata]] Dustmother. Looted, but not destroyed, by the party in [[Session 30 (DuFr)]]
 

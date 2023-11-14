@@ -1,28 +1,15 @@
 ---
-type: NPC
+tags: [dufr/background, person, historical, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Asuddha
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/aware
-- NPC/DuFr/background
-- NPC/historical
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1136
-died: 1208
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
-whereabouts: [ { location: Dunmar, type: home } ]
+ancestry: Dunmari
+gender: male
+died: 1208
+whereabouts:
+- {location: Dunmar, type: home}
 ---
 # Asuddha
 >[!info]+ Biographical Summary

@@ -1,27 +1,15 @@
 ---
-type: NPC
+tags: [unsorted, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Reginald Essford
-pronouciation:
-aliases: []
-tags:
-- NPC/unsorted
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Lord
 born: 1619
-died: 1689
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
+ancestry: Sembaran
+gender: male
+title: Lord
+died: 1689
 family: Essford
-whereabouts: []
-lastSeenByParty: []
 ---
 # Lord Reginald Essford
 >[!info]+ Biographical Summary

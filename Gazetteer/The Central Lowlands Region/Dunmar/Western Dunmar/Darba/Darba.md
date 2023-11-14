@@ -1,6 +1,10 @@
 ---
-tags:
-- '#event-source'
+tags: [place, '#event-source']
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Darba
+placeType:
+partOf:
 ---
 ## Overview of Darba
 

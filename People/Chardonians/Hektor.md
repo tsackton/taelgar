@@ -1,44 +1,17 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Hektor
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1726
-died:
-gender: male
-pronouns:
-ancestry: Chardonian
 species: human
-affiliations: []
-family:
+ancestry: Chardonian
+gender: male
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Chardon, Chardonian Empire
-- type: away
-  start: 1748-11-10
-  end: ''
-  location: somewhere in Dunmar, Dunmar
-- type: away
-  start: 1748-11-15
-  end: ''
-  location: somewhere in Dunmar, Dunmar
-- type: away
-  start: 1748-11-20
-  end: ''
-  location: Garamjala Desert, Dunmar
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-11-10, end: '', location: 'somewhere in Dunmar, Dunmar'}
+- {type: away, start: 1748-11-15, end: '', location: 'somewhere in Dunmar, Dunmar'}
+- {type: away, start: 1748-11-20, end: '', location: 'Garamjala Desert, Dunmar'}
 ---
 # Hektor
 >[!info]+ Biographical Summary

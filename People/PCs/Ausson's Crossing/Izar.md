@@ -1,36 +1,13 @@
 ---
-type: PC
+tags: [status/stub, pc, person, pc/unsorted]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Izar
-pronouciation:
-aliases: []
-tags:
-- PC/unsorted
-- stub
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender:
-pronouns:
-ancestry:
 species:
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender:
 player:
-ddbLink:
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 

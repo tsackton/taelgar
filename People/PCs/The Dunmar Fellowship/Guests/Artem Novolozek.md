@@ -1,38 +1,15 @@
 ---
-type: PC
+tags: [pc, person, pc/dunmarfrontier/sologuest, pc/dunmarfrontier]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Artem Novolozek
-pronouciation:
-aliases:
-- Artem
-tags:
-- PC/DunmarFrontier
-- PC/DunmarFrontier/SoloGuest
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender:
-pronouns:
-ancestry:
 species:
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender:
 player:
-ddbLink:
+aliases: [Artem]
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ## Artem Novolozek
 (he/him)

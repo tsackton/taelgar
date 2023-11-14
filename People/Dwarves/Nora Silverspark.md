@@ -1,33 +1,15 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Nora Silverspark
-pronouciation:
-aliases:
-- Nora
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met_one
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: dwarf
-affiliations: []
-family:
+ancestry:
+gender: female
+aliases: [Nora]
 whereabouts:
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: deceased, unknown
-lastSeenByParty: []
+- {type: away, start: 1748-11-23, end: '', location: 'deceased, unknown'}
 ---
 # Nora Silverspark
 >[!info]+ Biographical Summary

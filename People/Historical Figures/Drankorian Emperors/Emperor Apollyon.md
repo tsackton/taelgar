@@ -1,39 +1,17 @@
 ---
-type: NPC
+tags: [historical, person, dufr/major, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Apollyon
-pronouciation:
-aliases:
-- Emperor Apollyon
-- Apollyon
-tags:
-- NPC/historical
-- NPC/DuFr/aware
-- NPC/DuFr/major
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Emperor
 born:
-died:
-gender: male
-pronouns:
-ancestry:
 species: undead
-affiliations: []
-family:
+ancestry:
+gender: male
+aliases: [Emperor Apollyon, Apollyon]
+title: Emperor
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: Drankor, Drankorian Empire
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: unknown, unknown
-lastSeenByParty: []
+- {type: home, start: 0001-01-01, end: '', location: 'Drankor, Drankorian Empire'}
+- {type: home, start: 0001-01-02, end: '', location: 'unknown, unknown'}
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Summary

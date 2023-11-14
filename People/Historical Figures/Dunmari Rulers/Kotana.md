@@ -1,30 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, person, historical, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Kotana
-pronouciation:
-aliases:
-- Samraat Kotana
-tags:
-- NPC/DuFr/aware
-- NPC/DuFr/background
-- NPC/historical
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Dunmari
+gender: male
+aliases: [Samraat Kotana]
 ---
 
 ### Kotana

@@ -1,28 +1,13 @@
 ---
-type: NPC
+tags: [dufr/background, dufr/met_one, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Zegron
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/met_one
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: cursed to linger as a ghost
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died: 1545
-gender: male
-pronouns:
-ancestry:
 species: giant
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: male
+died: 1545
 ---
 # Zegron
 >[!info]+ Biographical Summary

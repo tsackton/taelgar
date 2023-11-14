@@ -1,6 +1,10 @@
 ---
-type: Building
-parentLocation: Cleenseau
+tags: [place, place/building]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Fox’s Flagon
+placeType:
+partOf: Cleenseau
 ---
 
 ### The Fox's Flagon

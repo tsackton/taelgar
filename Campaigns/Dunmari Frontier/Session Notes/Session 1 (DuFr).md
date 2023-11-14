@@ -1,6 +1,8 @@
 ---
-tags:
-  - DuFr
+tags: [dufr]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Session 1 (DuFr)
 sessionNumber: 1
 realWorldDate: 2020-05-29
 DR: 1748-03-22

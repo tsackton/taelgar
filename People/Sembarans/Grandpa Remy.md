@@ -1,36 +1,16 @@
 ---
-type: NPC
+tags: [person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+- {campaign: Clee, date: 1719-10-23, type: met}
 name: Grandpa Remy
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1640
-died:
-gender: male
-pronouns:
-ancestry: Sembaran
 species: Human
-affiliations: []
-family:
+ancestry: Sembaran
+gender: male
 whereabouts:
-- type: home
-  start: 1640-04-09
-  end: ''
-  location: Tavoise, Sembara
-- type: home
-  start: 1719-10-23
-  end: ''
-  location: Tavoise, Sembara
-lastSeenByParty:
-- date: 1719-10-23
-  prefix: Clee
+- {type: home, start: 1640-04-09, end: '', location: 'Tavoise, Sembara'}
+- {type: home, start: 1719-10-23, end: '', location: 'Tavoise, Sembara'}
 ---
 # Grandpa Remy
 >[!info]+ Biographical Summary

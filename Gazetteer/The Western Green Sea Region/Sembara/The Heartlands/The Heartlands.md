@@ -1,4 +1,11 @@
-# The Sembaran Heartlands
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: The Heartlands
+placeType:
+partOf:
+---
 
 The heartlands are a rich agricultural region in the lowlands between the [[Enst]], in the south, and the [[Teft]], in the north. Much of this region, around the River [[Semb]], is the [[Duchy of Sembara]], a powerful and rich farming region, control of which is the source of much of the monarch’s power. This land is the breadbasket of [[Sembara]].
 

@@ -1,34 +1,14 @@
 ---
-type: NPC
-name: "B\xE9atrix of Cleenseau"
-pronouciation:
-aliases:
-- "B\xE9atrix of Cleenseau"
-- "B\xE9atrix"
-- Beatrix
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
+name: Béatrix of Cleenseau
 born: 1698
-died:
-gender: female
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations:
-- Army of the West
-- Bridge Patrol
-- Lord's Guard of Cleenseau
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Sembaran
+gender: female
+aliases: [Béatrix of Cleenseau, Béatrix, Beatrix]
+affiliations: [Army of the West, Bridge Patrol, Lord's Guard of Cleenseau]
 ---
 # Béatrix of Cleenseau
 >[!info]+ Biographical Summary

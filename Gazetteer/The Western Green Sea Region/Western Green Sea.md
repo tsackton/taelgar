@@ -1,4 +1,11 @@
-# Western Green Sea
+---
+tags: [place]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Western Green Sea
+placeType:
+partOf:
+---
 
 The Western Green Sea region refers to the areas clustered around the [[Western Gulf]] and the more westerly parts of the Green Sea.
 

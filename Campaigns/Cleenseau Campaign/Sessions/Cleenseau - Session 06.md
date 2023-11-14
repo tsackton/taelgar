@@ -1,9 +1,10 @@
 ---
-realWorldDate: 2023-09-10
 tags: [session-note, cleenseau-campaign]
-campaign: Cleenseau
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Cleenseau - Session 06
+realWorldDate: 2023-09-10
 sessionNumber: 6
-type: SessionNote
 ---
 # Cleenseau - Session 6
 >_in Taelgar from December 10th to January 1st

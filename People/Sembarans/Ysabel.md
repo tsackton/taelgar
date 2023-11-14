@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Ysabel
-pronouciation:
-aliases: []
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1688
-died:
-gender: female
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
+ancestry: Sembaran
+gender: female
 whereabouts:
-- type: home
-  start: 1688-01-02
-  end: ''
-  location: Cleenseau, Sembara
-- type: away
-  start: 1719-10-21
-  end: ''
-  location: Cleenseau, Sembara
-lastSeenByParty: []
+- {type: home, start: 1688-01-02, end: '', location: 'Cleenseau, Sembara'}
+- {type: away, start: 1719-10-21, end: '', location: 'Cleenseau, Sembara'}
 ---
 # Ysabel
 >[!info]+ Biographical Summary

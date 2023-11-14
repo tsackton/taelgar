@@ -1,38 +1,18 @@
 ---
-type: Ruler
+tags: [dufr/aware, ruler, person, dufr/major]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Nayan Karnas
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/major
-- NPC/DuFr/aware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Samraat
 born: 1712
-died:
-gender: male
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
+ancestry: Dunmari
+gender: male
+reignStart: 1740
+title: Samraat
 family: Nayan Dynasty
 whereabouts:
-- type: home
-  start: ''
-  end: 1737
-  location: Darba, Western Dunmar
-- type: home
-  start: 1738
-  end: ''
-  location: Nayahar, Western Dunmar
-lastSeenByParty: []
-reignStart: 1740
-reignEnd:
+- {type: home, start: '', end: 1737, location: 'Darba, Western Dunmar'}
+- {type: home, start: 1738, end: '', location: 'Nayahar, Western Dunmar'}
 ---
 # Samraat Nayan Karnas
 >[!info]+ Biographical Summary

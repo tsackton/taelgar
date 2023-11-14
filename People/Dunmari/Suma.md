@@ -1,32 +1,14 @@
 ---
-type: NPC
+tags: [person, dufr/met, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Suma
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1707
-died:
-gender: female
-pronouns:
-ancestry: Dunmari
 species: human
-affiliations: []
-family:
+ancestry: Dunmari
+gender: female
 whereabouts:
-- type: home
-  start: 1707-01-02
-  end: ''
-  location: Karawa, Eastern Dunmar
-lastSeenByParty: []
+- {type: home, start: 1707-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Suma
 >[!info]+ Biographical Summary

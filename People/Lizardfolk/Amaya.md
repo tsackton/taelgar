@@ -1,28 +1,12 @@
 ---
-type: NPC
+tags: [mc/background, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Amaya
-pronouciation:
-aliases: []
-tags:
-- NPC/MC/background
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: female
-pronouns:
-ancestry:
 species: lizardfolk
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry:
+gender: female
 ---
 # Amaya
 >[!info]+ Biographical Summary

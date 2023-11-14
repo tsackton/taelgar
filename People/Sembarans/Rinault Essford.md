@@ -1,36 +1,16 @@
 ---
-type: NPC
+tags: [clee/unsorted, person, dufr/unaware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Rinault Essford
-pronouciation:
-aliases:
-- Lord Rinault
-- Lord Rinault Essford
-tags:
-- NPC/Clee/unsorted
-- NPC/DuFr/unaware
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Lord
 born: 1688
-died:
-gender: male
-pronouns:
-ancestry: Sembaran
 species: human
-affiliations: []
-family:
+ancestry: Sembaran
+gender: male
 aliases: [Lord Rinault, Lord Rinault Essford, Rinault]
-tags: [NPC/Clee/unsorted, NPC/DuFr/unaware]
+title: Lord
 whereabouts:
-- type: home
-  start: ''
-  end: ''
-  location: Cleenseau, Sembara
-lastSeenByParty: []
+- {type: home, start: '', end: '', location: 'Cleenseau, Sembara'}
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Summary

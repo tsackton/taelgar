@@ -1,7 +1,8 @@
 ---
-tags:
-- event-source
-- stub
+tags: [status/stub, event-source]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo: []
+name: Destruction of the Werewolf Cult
 DR: 1748-07-03
 ---
 # Destruction of the Werewolf Culf

@@ -1,36 +1,15 @@
 ---
-type: PC
+tags: [pc/greatwar, pc, person]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Beryl
-pronouciation:
-aliases: []
-tags:
-- PC/GreatWar
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born: 1510
-died: 1545
-gender: male
-pronouns:
-ancestry: Isinguen
 species: human
-affiliations:
-- null
-- null
-- null
-- null
-- null
-- null
-- null
-family:
-whereabouts: []
-lastSeenByParty: []
+ancestry: Isinguen
+gender: male
 player: Mike Sackton
-ddbLink:
+died: 1545
+affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Beryl
 

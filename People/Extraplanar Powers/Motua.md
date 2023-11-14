@@ -1,36 +1,15 @@
 ---
-type: NPC
+tags: [dufr/met_one, person, dufr/minor]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Motua
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/minor
-- NPC/DuFr/met_one
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
 born:
-died:
-gender: nonbinary
-pronouns:
-ancestry: Gidari
 species: divine
-affiliations: []
-family:
+ancestry: Gidari
+gender: nonbinary
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: Land of the Dead
-- type: away
-  start: 1748-11-23
-  end: ''
-  location: Azta Lekua, Orekatu
-lastSeenByParty: []
+- {type: home, start: 0001-01-01, end: '', location: Land of the Dead}
+- {type: away, start: 1748-11-23, end: '', location: 'Azta Lekua, Orekatu'}
 ---
 # Motua
 >[!info]+ Biographical Summary

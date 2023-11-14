@@ -1,33 +1,16 @@
 ---
-type: NPC
+tags: [historical, dufr/background, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Akaston
-pronouciation:
-aliases: []
-tags:
-- NPC/historical
-- NPC/DuFr/aware
-- NPC/DuFr/background
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title: Emperor
 born:
-died: 911
-gender: male
-pronouns:
-ancestry: Hkaran
 species: human
-affiliations: []
-family:
+ancestry: Hkaran
+gender: male
+title: Emperor
+died: 911
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: Drankor, Drankorian Empire
-lastSeenByParty: []
+- {type: home, start: 0001-01-01, end: '', location: 'Drankor, Drankorian Empire'}
 ---
 # Emperor Akaston
 >[!info]+ Biographical Summary

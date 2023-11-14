@@ -1,29 +1,13 @@
 ---
-type: NPC
+tags: [status/stub, person, dufr/aware]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo: []
 name: Elandrial
-pronouciation:
-aliases: []
-tags:
-- NPC/DuFr/aware
-- stub
-pageTargetDate:
-endStatus: died
-endPrefix: d.
-startStatus: born
-startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
-born: 
-ka: 
-died:
-gender: male
-pronouns:
-ancestry:
+born:
+ka:
 species: elf
-affiliations: []
-family:
-whereabouts:
-lastSeenByParty:
+ancestry:
+gender: male
 ---
 # Elandrial
 >[!info]+ Biographical Summary
