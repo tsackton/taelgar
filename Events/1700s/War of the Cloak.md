@@ -1,3 +1,8 @@
+---
+tags: [event-source]
+timelineDescriptor: War of the Cloak
+---
+
 # War of the Cloak
 
 A war fought between the armies of [[Grash]] and the orcs of [[Xurkhaz]], aided by [[The Dunmar Fellowship]], over the [[Mantle of Protection]]. 

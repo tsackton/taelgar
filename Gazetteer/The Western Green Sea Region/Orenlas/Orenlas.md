@@ -7,7 +7,7 @@ placeType:
 partOf:
 ---
 
-The ancient elven kingdom of Orenlas is the last remnant of [[Alcarinquë]], one of the great elven civilizations of the ancient days. Orenlas is one of the few places in the world where the magic of the ancient days of myth still lingers. Here can still be found the great dreaming trees of the elves, still echoing the ancient song of Aldanor. 
+The ancient elven kingdom of Orenlas is the last remnant of [[Alcarinque]], one of the great elven civilizations of the ancient days. Orenlas is one of the few places in the world where the magic of the ancient days of myth still lingers. Here can still be found the great dreaming trees of the elves, still echoing the ancient song of Aldanor. 
 
 Orenlas proper occupies the forest southeast of ~LakeCymeanMountains~ and southwest of ~CymeanMountains~, north and eat of the [[Plaguelands]], an area about 140 miles east to west and 80 miles north to south. Dense mists cling to these woods, and the trees listen. It is rumored that those who are unwelcome find paths closed to them, turned in circles until they find themselves outside the forest again. Those who would do harm and led to more permanent fates. 
 

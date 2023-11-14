@@ -11,8 +11,7 @@ title:
 family: 
 affiliations: 
 aliases: 
-tags:
-  - NPC/DuFr/met
+tags: []
 lastSeenByParty:
   - date: 1749-01-02
     prefix: DuFr
@@ -25,7 +24,7 @@ whereabouts:
     location: Green Sea
     type: away
   - start: 1748-08-29
-    end: 1750 #end is approx
+    end: 1750
     location: Tollen
     type: away
 ---

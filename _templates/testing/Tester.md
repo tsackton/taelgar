@@ -2,27 +2,40 @@
 type: Ruler
 name: Tester
 species: human
-ancestry:
+ancestry: 
 gender: male
 born: 1700
 reignStart: 1717
 died: 1718
 endStatus: petrified
-affiliations: ["Great Library"]
-aliases: []
-tags: [NPC/testing]
+affiliations:
+  - Great Library
+aliases: 
+tags: []
 yearOverride: 
-reignEnd:
-title:
-family:
-lastSeenByParty: 
-     - { date: 1701-02-03, prefix: clee }
-     - { date: 1719-02-03,  prefix: DuFr }
+reignEnd: 
+title: 
+family: 
+lastSeenByParty:
+  - date: 1701-02-03
+    prefix: clee
+  - date: 1719-02-03
+    prefix: DuFr
 whereabouts:
-     - { place: "Home District, Chardon", region: Chardonian Empire, type: origin}
-     - {  place: "Whitsun District, Chardon", region: Chardonian Empire, type: home}
-     - { date: 1717-01-01, place: "mysterious inn, CityName", region: Mawar, type: excursion }        
-     - { date: 1728-05-01, place: "Amberglow", region: Feywild, type: excursion }   
+  - place: Home District, Chardon
+    region: Chardonian Empire
+    type: origin
+  - place: Whitsun District, Chardon
+    region: Chardonian Empire
+    type: home
+  - date: 1717-01-01
+    place: mysterious inn, CityName
+    region: Mawar
+    type: excursion
+  - date: 1728-05-01
+    place: Amberglow
+    region: Feywild
+    type: excursion
 ---
 # Tester
 >[!info]+ Biographical Summary

@@ -1,13 +1,19 @@
 ---
-tags: [unsorted, ruler, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - person/ruler
+  - person
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Hugh of Sewick
 born: 1482
 species: human
 ancestry: Sembaran
 gender: male
-reignStart:
+reignStart: 
 died: 1518
 ---
 # Hugh of Sewick

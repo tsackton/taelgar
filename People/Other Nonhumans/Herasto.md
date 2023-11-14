@@ -1,14 +1,22 @@
 ---
-tags: [grli/unsorted, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - person
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Herasto
-born:
+born: 
 species: centaur
-ancestry:
+ancestry: 
 gender: male
 whereabouts:
-- {type: away, start: 1748-11-23, end: '', location: 'plains south of Voltara, Voltara, Chardonian Empire'}
+  - type: away
+    start: 1748-11-23
+    end: ""
+    location: plains south of Voltara, Voltara, Chardonian Empire
 ---
 # Herasto
 >[!info]+ Biographical Summary

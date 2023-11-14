@@ -1,18 +1,8 @@
 ---
-type: Organization
+tags: [organization/religious]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags:
-- organization/religious
-pageTargetDate:
-endStatus: disbanded
-endPrefix: d.
-startStatus: founded
-startPrefix: f.
-preExistError: '**(not yet founded)**'
-created:
-destroyed:
 ---
 # The Shakun Mystai
 

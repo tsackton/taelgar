@@ -8,7 +8,6 @@ born: 1714
 species: human
 ancestry: Chardonian
 gender: female
-pageTargetDate: 1748-12-10
 whereabouts:
 - {type: away, start: 1748-11-10, end: '', location: Dunmar}
 - {type: away, start: 1748-12-08, end: false, location: 'the mirror of soul trapping, extraplanar realms'}

@@ -1,3 +1,8 @@
+---
+tags: [event-source]
+timelineDescriptor: War of the Cloak
+---
+
 # The Siblings War
 
 A civil war fought between [[Sura|Nayan Sura]] and her brother, [[Nayan Karnas]], over the rule of Dunmar.

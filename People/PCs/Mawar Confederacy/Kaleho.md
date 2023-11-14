@@ -1,14 +1,21 @@
 ---
-tags: [pc, person, pc/unsorted]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - pc
+  - person
+  - pc/mawar
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Kaleho
-born:
+born: 
 species: human
-ancestry:
+ancestry: 
 gender: male
 player: John Leeker
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+affiliations:
 ---
 
 A sailor who regularly passes through Hamri, obsessed with rumors of merfolk.

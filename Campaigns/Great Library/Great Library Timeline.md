@@ -1,7 +1,7 @@
 ---
 tags:
-- timeline
-- great-library-campaign
+  - timeline
+timelineDescriptor: Great Library Campaign
 ---
 - (DR:: 1747-02-16) *(Great Library)*: Samso and Adrik meet on the road south of Chardon and retrieve a lost messenger bag from a messenger killed by bullywugs. 
 - (DR:: 1747-04-04) *(Great Library)*: Samso, Brelith, Adrik, and Alton are attacked by goblins on the road to Voltara, and then meet Archivist Lyra at her camp. 

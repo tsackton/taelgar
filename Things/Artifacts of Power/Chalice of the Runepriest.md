@@ -1,8 +1,15 @@
 ---
-tags: [thing/item, item/unsorted, thing, event-source]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name:
+tags:
+  - item
+  - event-source
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: 
+unique: true
 ---
 # The Chalice of the Runepriest
 

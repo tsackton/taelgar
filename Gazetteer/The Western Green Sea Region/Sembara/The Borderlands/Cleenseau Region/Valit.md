@@ -6,7 +6,7 @@ name: Valit
 placeType:
 partOf: Barony of Averil
 population: 549
-pronounciation: Val-le
+pronunciation: Val-le
 ---
 ### Valit
 *population 549*

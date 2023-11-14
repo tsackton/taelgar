@@ -1,8 +1,14 @@
 ---
-tags: [dunmari-frontier-campaign, timeline]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - timeline
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Dunmari Frontier Timeline
+timelineDescriptor: Dunmari Frontier Campaign
 ---
 
 - (DR:: 1747-08-02) *(Dunmari Frontier)*: Wellby leaves Semabara, heading south. Spends some time wandering.

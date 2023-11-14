@@ -1,14 +1,22 @@
 ---
-tags: [pc/companion, pc, person, pc/greatwar, status/stub]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - pc/companion
+  - pc
+  - person
+  - status/stub
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Dimitaur
-born:
-species:
-ancestry:
-gender:
-player:
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+born: 
+species: 
+ancestry: 
+gender: 
+player: 
+affiliations:
 ---
 
 ### Dimitaur

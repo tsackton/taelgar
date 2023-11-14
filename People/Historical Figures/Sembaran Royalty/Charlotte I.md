@@ -1,5 +1,5 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Charlotte I

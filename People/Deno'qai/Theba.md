@@ -7,7 +7,6 @@ born: 1717
 species: human
 ancestry: Deno'qai
 gender: female
-pageTargetDate: 1749-11-01
 whereabouts:
 - {type: home, start: '', end: '', location: 'Bek''eni village, Elderwood'}
 - {type: away, start: 1749-01-01, end: '', location: Elderwood}

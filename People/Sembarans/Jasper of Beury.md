@@ -1,15 +1,25 @@
 ---
-tags: [unsorted, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags:
+  - person
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
 campaignInfo:
-- {campaign: Clee, date: 1719-12-04, type: met}
+  - campaign: Clee
+    date: 1719-12-04
+    type: met
 name: Jasper
 born: 1680-09-21
 species: Human
-ancestry:
+ancestry: 
 gender: male
 whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Beury, Sembara'}
+  - type: home
+    start: 
+    end: ""
+    location: Beury, Sembara
 ---
 # Jasper
 >[!info]+ Biographical Summary

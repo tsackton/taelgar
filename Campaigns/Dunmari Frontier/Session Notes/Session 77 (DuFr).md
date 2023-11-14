@@ -1,6 +1,5 @@
 ---
-type: SessionNote
-campaign: Dunmari Frontier
+tags: [session-note]
 ---
 
 
