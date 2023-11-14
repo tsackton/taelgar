@@ -1,28 +1,27 @@
 ---
 type: NPC
 name: Rayna
-pronouciation:
-aliases: []
+pronouciation: 
+aliases: 
 tags:
-- NPC/MC/unaware
-- NPC/DuFr/unaware
-pageTargetDate:
+  - NPC/DuFr/unaware
+pageTargetDate: 
 endStatus: died
 endPrefix: d.
 startStatus: born
 startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
-born:
-died:
+preExistError: "**(not yet born)**"
+title: 
+born: 
+died: 
 gender: female
-pronouns:
+pronouns: 
 ancestry: Mawaran
 species: human
-affiliations: []
-family:
-whereabouts: []
-lastSeenByParty: []
+affiliations: 
+family: 
+whereabouts: 
+lastSeenByParty:
 ---
 # Rayna
 >[!info]+ Biographical Summary

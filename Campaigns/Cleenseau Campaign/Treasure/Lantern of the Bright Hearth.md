@@ -1,7 +1,7 @@
 ---
 type: Item
 owner: Robin of Abenfyrd
-dbbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
+ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 magical: true
 name: Lantern of the Bright Hearth
 tags: []
