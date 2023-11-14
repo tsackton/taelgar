@@ -36,13 +36,6 @@ def loc_join(l):
     # Return an empty string for other types
     return ""
 
-def get_valid_types(): 
-    """
-    Returns a list of valid types
-    TO DO: read from a file
-    """
-    return(["Ruler", "PC", "NPC", "Item", "Place", "Building", "Event", "Organization", "Session Note"])
-
 def clean_date(value, end = False, debug = False):
     """
     Takes as input a date in some format and returns a datetime object
@@ -210,202 +203,169 @@ def parse_loc_string(string, metadata):
 Helper functions to clean and update metadata
 """
 
-def define_metadata(type): 
+def update_metadata(metadata, metadata_orig):
 
-    ## creates a blank metadata dictionary with all valid fields
+    """
+    delete endStatus, startPrefix, endPrefix, etc and create displayDefaults instead
+    delete lastSeenByParty and create campaignInfo instead
+    delete type and instead add relevant tag (person, place, thing, etc, with for now person/pc and person/ruler)
+    delete blank metadata except for a small handful of key things: tags, name,
+      born/species/ancestry/gender for people, player for PC, reignStart for rulers, partOf, placeType for locations
 
-    valid_types = get_valid_types()
+    329 type: NPC
+    33 type: Ruler
+    42 type: PC   
+    22 type: Organization
+    6 type: Building
+    8 type: Item
+    12 type: Location
+    2 type: Place
 
-    metadata_core = {
-        'type' : None, 
-        'name' : None,
-        'pronouciation' : None, 
-        'aliases' : [],
-        'tags' : [],
-        'pageTargetDate' : None,
-        'endStatus' : None,
-        'endPrefix' : None,
-        'startStatus': None,
-        'startPrefix' : None,
-        'preExistError': None
-    }
+    4 type: Session Notes
+    10 type: SessionNote
+    1 type: Testing
 
-    metadata_people = {
-        'title' : None,
-        'born' : None,
-        'ka' : None,
-        'died' : None,
-        'gender' : None,
-        'pronouns' : None,
-        'ancestry' : None,
-        'species' : None,
-        'affiliations' : [],
-        'family' : None,
-        'whereabouts' : [],
-        'lastSeenByParty' : []
-    }
+    """
 
-    metadata_ruler = {
-        'reignStart' : None,
-        'reignEnd' : None
-    }
+    ## set type of metadata to "place" if in gazeeter
+    pathtext = metadata["file"].lower()
+    if ("type" in metadata and metadata["type"] is None):
+        if "gazetteer" in pathtext:
+            metadata["type"] = "Place"
+        elif "people" in pathtext:
+            metadata["type"] = "Person"
 
-    metadata_pc = {
-        'player' : None,
-        'ddbLink' : None
-    }
-
-    metadata_place = {
-        'created' : None,
-        'destroyed' : None,
-        'location' : None,
-        'population' : None,
-        'politicalUnit' : None
-    }
-
-    metadata_item = {
-        'created' : None,
-        'destroyed' : None,
-        'magical' : None,
-        'maker' : None,
-        'owner' : None,
-        'ddbLink' : None
-    }
-
-    metadata_building = {
-        'created' : None,
-        'destroyed' : None,
-        'owner' : None,
-        'place' : None
-    }
-
-    metadata_dates = {
-        'DR' : None,
-        'DR_end' : None,
-        'fc-date' : None,
-        'fc-end' : None,
-        'fc-display-name' : None
-    }
-
-    metadata_session = {
-        'sessionNumber' : None,
-        'realWorldDate' : None,
-        'players' : [],
-        'campaign' : None
-    }
-
-    metadata_other = {
-        'speciesDescriptor' : None,
-        'cultureDescriptor' : None
-    }
-
-    metadata_organization = {
-        'created' : None,
-        'destroyed' : None
-    }
-
-    # construct metadata by type
-
-    # ["Ruler", "PC", "NPC", "Item", "Place", "Building", "Event", "Organization", "Session Note"]
-    if type in valid_types:
-        if type == "Ruler":
-            metadata = {**metadata_core, **metadata_people, **metadata_ruler}
-        elif type=="PC":
-            metadata = {**metadata_core, **metadata_people, **metadata_pc}
-        elif type=="NPC":
-            metadata = {**metadata_core, **metadata_people}
-        elif type=="Item":
-            metadata = {**metadata_core, **metadata_item}
-        elif type=="Place":
-            metadata = {**metadata_core, **metadata_place}
-        elif type=="Building":
-            metadata = {**metadata_core, **metadata_building}
-        elif type=="Event":
-            metadata = {**metadata_core, **metadata_dates}
-        elif type=="Organization":
-            metadata = {**metadata_core, **metadata_organization}
-        elif type=="Session Note":
-            metadata = {**metadata_core, **metadata_session, **metadata_dates}
-    else:
-        metadata = {**metadata_core, **metadata_dates, **metadata_other}
+    metadata_default = { "tags" : [], 
+                      "displayDefaults" : { "startStatus" : "created",
+                                           "startPrefix" : "created",
+                                           "endPrefix" : "destroyed",
+                                           "endStatus" : "destroyed"}, 
+                      "campaignInfo" : [],
+                      "name" : metadata["name"] if "name" in metadata else None, }
     
-    ## sets default values for metadata fields based on type
+    clean_metadata = metadata_default.copy()
 
-    if type in valid_types:
-        if type == "Ruler" or type == "PC" or type == "NPC":
-            metadata["endStatus"] = "died"
-            metadata["endPrefix"] = "d."
-            metadata["startStatus"] = "born"
-            metadata["startPrefix"] = "b."
-            metadata["preExistError"] = "**(not yet born)**"
-        elif type=="Organization":
-            metadata["endStatus"] = "disbanded"
-            metadata["endPrefix"] = "d."
-            metadata["startStatus"] = "founded"
-            metadata["startPrefix"] = "f."
-            metadata["preExistError"] = "**(not yet founded)**"
-        elif type=="Item":
-            metadata["endStatus"] = "destroyed"
-            metadata["endPrefix"] = "d."
-            metadata["startStatus"] = "created"
-            metadata["startPrefix"] = "c."
-            metadata["preExistError"] = "**(not yet created)**"
-        elif type=="Place":
-            metadata["endStatus"] = "destroyed"
-            metadata["endPrefix"] = "d."
-            metadata["startStatus"] = "founded"
-            metadata["startPrefix"] = "f."
-            metadata["preExistError"] = "**(not yet created)**"
-        elif type=="Building":
-            metadata["endStatus"] = "destroyed"
-            metadata["endPrefix"] = "d."
-            metadata["startStatus"] = "built"
-            metadata["startPrefix"] = "b."
-            metadata["preExistError"] = "**(not yet created)**"
-        elif type=="Event":
-            metadata["endStatus"] = "ended"
-            metadata["endPrefix"] = ""
-            metadata["startStatus"] = "started"
-            metadata["startPrefix"] = ""
-            metadata["preExistError"] = "**(has not happened)**"
-        elif type=="Session Note":
-            metadata["endStatus"] = "ended"
-            metadata["endPrefix"] = ""
-            metadata["startStatus"] = "started"
-            metadata["startPrefix"] = ""
-            metadata["preExistError"] = "**(has not happened)**"
-    else:
-            metadata["endStatus"] = "ended"
-            metadata["endPrefix"] = ""
-            metadata["startStatus"] = "started"
-            metadata["startPrefix"] = ""
-            metadata["preExistError"] = "**(doesn't exist)**"
+    ## First we update tags, to insert type
+    if "type" in metadata and metadata["type"] is not None:
+        if metadata["type"] in ["PC", "Ruler", "NPC"]:
+            clean_metadata["tags"].append("person")
+            if metadata["type"] != "NPC":
+                clean_metadata["tags"].append(metadata["type"].lower())   
+        elif metadata["type"] in ["Place", "Location", "Building"]: 
+            clean_metadata["tags"].append("place")
+            if metadata["type"] == "Building":
+                clean_metadata["tags"].append("place/building")
+        elif metadata["type"] == "Organization":
+            clean_metadata["tags"].append("organization")
+        elif metadata["type"] == "Item":
+            clean_metadata["tags"].append("thing")
+            clean_metadata["tags"].append("thing/item")
+        elif metadata["type"] == "Session Notes" or metadata["type"] == "SessionNote":
+            clean_metadata["tags"].append("session-note")
     
-    # return blank metadata
+    old_tags = metadata["tags"] if "tags" in metadata else None
+    if old_tags is not None:
+        for tag in old_tags:
+            tag = tag.lower()
+            if tag == "stub":
+                clean_metadata["tags"].append("status/stub")
+            elif tag.startswith("npc/"):
+                ## remove NPC prefix from NPC heirarchical tags
+                ## e.g., NPC/DuFr/met -> DuFr/met
+                tag_parts = tag.split("/")
+                if len(tag_parts) > 2:
+                   clean_metadata["tags"].append("/".join(tag_parts[1:]))
+                if len(tag_parts) == 2:
+                    clean_metadata["tags"].append(tag_parts[1])
+            else:
+                clean_metadata["tags"].append(tag)
+    
+    ## Next we update displayDefaults
+    ## Tags contain things like person, person/pc
+    ## first check to see if we have a person, place, thing, etc
 
-    return metadata
+    tag_set = {item for s in clean_metadata["tags"] for item in s.split('/')}
 
-def guess_type(file):
-    # NOT IMPLEMENTED
-    return None
+    if "person" in tag_set:
+        clean_metadata["displayDefaults"]["startStatus"] = "born"
+        clean_metadata["displayDefaults"]["startPrefix"] = "b."
+        clean_metadata["displayDefaults"]["endPrefix"] = "d."
+        clean_metadata["displayDefaults"]["endStatus"] = "died"
+        new_metadata = { "born" : metadata["born"] if "born" in metadata else None,
+                         "species" : metadata["species"] if "species" in metadata else None,
+                         "ancestry": metadata["ancestry"] if "ancestry" in metadata else None,
+                         "gender" : metadata["gender"] if "gender" in metadata else None }
+        if "species" in metadata and metadata["species"] == "elf":
+            new_metadata = { "born" : metadata["born"] if "born" in metadata else None,
+                            "ka" : metadata["ka"] if "ka" in metadata else None,
+                            "species" : metadata["species"] if "species" in metadata else None,
+                            "ancestry": metadata["ancestry"] if "ancestry" in metadata else None,
+                            "gender" : metadata["gender"] if "gender" in metadata else None }
+        if "pc" in tag_set:
+            new_metadata["player"] = metadata["player"] if "player" in metadata else None
+        if "ruler" in tag_set:
+            new_metadata["reignStart"] = metadata["reignStart"] if "reignStart" in metadata else None
 
-def update_metadata(metadata, metadata_orig, guess_type=False):
+    elif "place" in tag_set:
+        clean_metadata["displayDefaults"]["startStatus"] = "founded"
+        clean_metadata["displayDefaults"]["startPrefix"] = "founded"
+        clean_metadata["displayDefaults"]["endPrefix"] = "destroyed"
+        clean_metadata["displayDefaults"]["endStatus"] = "destroyed"
+
+        if "partOf" in metadata and metadata["partOf"] is not None:
+            partOf = metadata["partOf"]
+        elif "parentLocation" in metadata and metadata["parentLocation"] is not None:
+            partOf = metadata["parentLocation"]
+        else:
+            partOf = None
+
+        new_metadata = { "placeType" : metadata["placeType"] if "placeType" in metadata else None,
+                         "partOf" : partOf }
+        
+    elif "organization" in tag_set:
+        clean_metadata["displayDefaults"]["startStatus"] = "founded"
+        clean_metadata["displayDefaults"]["startPrefix"] = "founded"
+        clean_metadata["displayDefaults"]["endPrefix"] = "disbanded"
+        clean_metadata["displayDefaults"]["endStatus"] = "disbanded"
+        new_metadata = {}
+    else:
+        clean_metadata["displayDefaults"]["startStatus"] = "created"
+        clean_metadata["displayDefaults"]["startPrefix"] = "created"
+        clean_metadata["displayDefaults"]["endPrefix"] = "destroyed"
+        clean_metadata["displayDefaults"]["endStatus"] = "destroyed"
+        new_metadata = {}
+
+    ## Next we update campaignInfo
+    if "lastSeenByParty" in metadata and metadata["lastSeenByParty"] is not None and metadata["lastSeenByParty"]:
+        for partyInfo in metadata["lastSeenByParty"]:
+            campaignInfo = {"campaign" : partyInfo["prefix"], "date" : partyInfo["date"], "type" : "met"}
+            clean_metadata["campaignInfo"].append(campaignInfo)
+
+    # add new_metadata to clean_metadata even if None
+    for key in new_metadata:
+        print(key, new_metadata[key], file=sys.stderr)
+        clean_metadata[key] = new_metadata[key]
+
+    ## now pass along non-empty keys from original metadata
+    for key in metadata:
+        if metadata[key] is not None and metadata[key] != "" and key not in clean_metadata:
+            if key not in ["tags", "startStatus", "endStatus", "startPrefix", "endPrefix", "preExistError", 
+                           "lastSeenByParty", "born", "species", "reignStart", "ancestry", "gender", "parentLocation", 
+                           "placeType", "partOf", "player", "name", "file", "override_year", "directory", "links", "type"]:
+                clean_metadata[key] = metadata[key]
+    ## print(clean_metadata, file=sys.stderr)
+    if clean_metadata == metadata_default:
+        return None
+    return clean_metadata
+
+def clean_metadata_old(metadata, metadata_default, guess_type=False):
+
+    """
+    Doesn't work anymore
+    """
 
     # takes as input an metadata dictionary, and returns an updated metadata dictionary according to the speck
     # if guess_type is true, attempts to guess the type based on path
-
-    type = metadata["type"] if "type" in metadata else None
-    valid_types = get_valid_types()
-
-    if guess_type and type is None:
-        type = guess_type(metadata["file"])
-    
-    type = "" if type is None else type
-    
-    metadata_default = define_metadata(type)
-
-    if type not in valid_types:
-        return(metadata_orig)
 
     # for each key in metadata_default, check to see if key exists in metadata. if yes, take value. else, use default or leave blank
 
@@ -548,7 +508,7 @@ def clean_whereabouts(whereabouts, born):
 
 def parse_whereabouts(metadata, target_date, debug = False):
     """
-    Takes as input a metadata dictionay, and optionally a current date
+    Takes as input a metadata dictionary, and optionally a current date
     Reports as output a dict of dicts, with one dict for each type of location:
         current: the exact known whereabouts at target date
         home: the home whereabouts at target date
