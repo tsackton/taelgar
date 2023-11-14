@@ -1,38 +1,37 @@
 ---
 type: NPC
 name: Grumella
-pronouciation:
-aliases: []
+pronouciation: 
+aliases: 
 tags:
-- NPC/GrLi/unsorted
-- NPC/DuFr/unaware
-- status/uptodate
-pageTargetDate:
+  - NPC/DuFr/unaware
+  - status/uptodate
+pageTargetDate: 
 endStatus: died
 endPrefix: d.
 startStatus: born
 startPrefix: b.
-preExistError: '**(not yet born)**'
-title:
-born:
+preExistError: "**(not yet born)**"
+title: 
+born: 
 died: 1747
 gender: female
-pronouns:
-ancestry:
+pronouns: 
+ancestry: 
 species: orc
 affiliations:
-- Grumella's Horde
-family:
+  - Grumella's Horde
+family: 
 whereabouts:
-- type: home
-  start: 0001-01-01
-  end: ''
-  location: north of Voltara, The West Coast Region
-- type: home
-  start: 0001-01-02
-  end: ''
-  location: north of Voltara, The West Coast Region
-lastSeenByParty: []
+  - type: home
+    start: 0001-01-01
+    end: ""
+    location: north of Voltara, The West Coast Region
+  - type: home
+    start: 0001-01-02
+    end: ""
+    location: north of Voltara, The West Coast Region
+lastSeenByParty:
 ---
 # Grumella
 >[!info]+ Biographical Summary
