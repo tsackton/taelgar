@@ -226,11 +226,15 @@ def update_metadata(metadata, metadata_orig):
     1 type: Testing
 
     """
+    # print("Checking metadata", file=sys.stderr)
 
     ## set type of metadata to "place" if in gazeeter
-    pathtext = metadata["file"].lower()
-    if ("type" in metadata and metadata["type"] is None):
+    basename=Path(metadata["file"]).stem
+    pathtext = str(metadata["file"].lower())
+    # print(pathtext, file=sys.stderr)
+    if ("type" in metadata and metadata["type"] is None) or ("type" not in metadata):
         if "gazetteer" in pathtext:
+            # print("place", file=sys.stderr)
             metadata["type"] = "Place"
         elif "people" in pathtext:
             metadata["type"] = "Person"
@@ -241,7 +245,7 @@ def update_metadata(metadata, metadata_orig):
                                            "endPrefix" : "destroyed",
                                            "endStatus" : "destroyed"}, 
                       "campaignInfo" : [],
-                      "name" : metadata["name"] if "name" in metadata else None, }
+                      "name" : metadata["name"] if "name" in metadata else basename }
     
     clean_metadata = metadata_default.copy()
 
@@ -266,6 +270,8 @@ def update_metadata(metadata, metadata_orig):
     old_tags = metadata["tags"] if "tags" in metadata else None
     if old_tags is not None:
         for tag in old_tags:
+            if tag is None: 
+                continue
             tag = tag.lower()
             if tag == "stub":
                 clean_metadata["tags"].append("status/stub")
@@ -343,17 +349,20 @@ def update_metadata(metadata, metadata_orig):
 
     # add new_metadata to clean_metadata even if None
     for key in new_metadata:
-        print(key, new_metadata[key], file=sys.stderr)
+        # print(key, new_metadata[key], file=sys.stderr)
         clean_metadata[key] = new_metadata[key]
 
     ## now pass along non-empty keys from original metadata
     for key in metadata:
-        if metadata[key] is not None and metadata[key] != "" and key not in clean_metadata:
+        if metadata[key] is not None and metadata[key] and key not in clean_metadata:
             if key not in ["tags", "startStatus", "endStatus", "startPrefix", "endPrefix", "preExistError", 
                            "lastSeenByParty", "born", "species", "reignStart", "ancestry", "gender", "parentLocation", 
                            "placeType", "partOf", "player", "name", "file", "override_year", "directory", "links", "type"]:
                 clean_metadata[key] = metadata[key]
     ## print(clean_metadata, file=sys.stderr)
+
+    clean_metadata["tags"] = list(set(clean_metadata["tags"]))
+
     if clean_metadata == metadata_default:
         return None
     return clean_metadata
