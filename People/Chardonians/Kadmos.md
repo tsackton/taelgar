@@ -1,6 +1,6 @@
 ---
 tags: [person, dufr/met, dufr/major]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed}
 campaignInfo: 
 - { prefix: dufr, date: 1748-12-08, type: encountered }
 name: Kadmos
