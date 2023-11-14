@@ -11,6 +11,7 @@ name: Brot's Telescope (small)
 created: 1719
 maker: Brot Starsearcher
 owner: Izgil Moonseeker
+magical: false
 ---
 
 # Brot's Telescope (small)

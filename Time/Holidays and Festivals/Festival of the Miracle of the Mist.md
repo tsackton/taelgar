@@ -3,7 +3,7 @@ tags: []
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Festival of the Miracle of the Mist
-fc-date: {day: 18, month: 4}
+fc-date: {day: 18, month: 04}
 ---
 
 # Festival of the Miracle of the Mist
