@@ -5,7 +5,7 @@ campaignInfo: []
 name: Cleenseau - Session 04
 fc-date: 1719-11-03
 fc-end: 1719-12-04
-realDate: 2023-04-30
+realWorldDate: 2023-04-30
 sessionNumber: 4
 ---
 # Cleenseau - Session 4

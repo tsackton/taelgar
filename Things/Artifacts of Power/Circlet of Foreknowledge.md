@@ -1,7 +1,12 @@
 ---
-tags: [thing/item, thing]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - item
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Circlet of Foreknowledge
 magical: true
 ---

@@ -1,14 +1,22 @@
 ---
-tags: [status/stub, pc, person, pc/dunmarfrontier]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - status/stub
+  - pc
+  - person
+  - pc/guest
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Drikod
-born:
+born: 
 species: stoneborn
-ancestry:
+ancestry: 
 gender: male
 player: John Leeker
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+affiliations:
 ---
 
 ### Drikod

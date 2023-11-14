@@ -1,8 +1,8 @@
 ---
-tags: [thing/item, thing]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name:
+tags: [ item ]
+displayDefaults: { startStatus: created, startPrefix: created, endPrefix: destroyed,   endStatus: destroyed }
+campaignInfo: 
+name: 
 magical: true
 owner: Marcella
 ddbLink: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks

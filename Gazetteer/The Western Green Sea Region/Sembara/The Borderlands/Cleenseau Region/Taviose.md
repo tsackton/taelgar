@@ -6,7 +6,7 @@ name: Taviose
 placeType:
 partOf: Barony of Aveil
 population: 48
-pronounciation: Ta-vi-ose
+pronunciation: Ta-vi-ose
 ---
 ### Taviose
 *population 48*

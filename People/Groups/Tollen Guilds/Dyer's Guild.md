@@ -1,17 +1,8 @@
 ---
-type: Organization
+tags: [status/stub, organization]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo: []
 name:
-pronouciation:
-aliases: []
-tags: []
-pageTargetDate:
-endStatus: disbanded
-endPrefix: d.
-startStatus: founded
-startPrefix: f.
-preExistError: '**(not yet founded)**'
-created:
-destroyed:
 ---
 
 # Dyer's Guild

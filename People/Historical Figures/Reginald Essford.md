@@ -1,7 +1,12 @@
 ---
-tags: [unsorted, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - person
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Reginald Essford
 born: 1619
 species: human

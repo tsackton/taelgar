@@ -7,17 +7,25 @@ gender: male
 ka: 36
 born: 1468
 died: 
-title:
-family:
+title: 
+family: 
 affiliations: 
-aliases: []
-tags: [NPC/DuFr/met, NPC/DuFr/minor, status/uptodate]
-lastSeenByParty: 
- - { date: 1748-9-30, prefix: DuFr }
+aliases: 
+tags: []
+lastSeenByParty:
+  - date: 1748-9-30
+    prefix: DuFr
 whereabouts:
-     - { start: "", end: 1600, location: Ainumarya, type: home } #end is approx
-     - { start: 1733-01-01, location: "Elderwood", type: away }
-     - { start: 1748-08-15, location: "Te'kula village, Elderwood", type: away} 
+  - start: ""
+    end: 1600
+    location: Ainumarya
+    type: home
+  - start: 1733-01-01
+    location: Elderwood
+    type: away
+  - start: 1748-08-15
+    location: Te'kula village, Elderwood
+    type: away
 ---
 # Belegor
 >[!info]+ Biographical Summary

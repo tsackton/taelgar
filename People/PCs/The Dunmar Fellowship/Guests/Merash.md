@@ -1,5 +1,5 @@
 ---
-tags: [pc, person, pc/dunmarfrontier/sologuest]
+tags: [pc, person, pc/guest]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Merash

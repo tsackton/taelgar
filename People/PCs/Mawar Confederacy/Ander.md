@@ -1,14 +1,21 @@
 ---
-tags: [pc, person, pc/unsorted]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - pc
+  - person
+  - pc/mawar
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Ander
-born:
+born: 
 species: human
 ancestry: Mawaran
-gender:
+gender: 
 player: David Schwartz
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+affiliations:
 ---
 
 A native of Hamri who left at 16, and joined the Chardonian legions, where he served for 20 years, eventually becoming a captain and a skilled warrior. Recently left the army and came home to Hamri.

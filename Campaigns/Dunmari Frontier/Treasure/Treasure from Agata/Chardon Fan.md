@@ -1,8 +1,13 @@
 ---
-tags: [thing/item, thing]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name:
+tags:
+  - item
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: 
 owner: Kenzo
 ---
 # Chardon Fan

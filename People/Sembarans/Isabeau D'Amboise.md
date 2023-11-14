@@ -1,7 +1,12 @@
 ---
-tags: [unsorted, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - person
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Isabeau D'Amboise
 born: 1672
 species: human

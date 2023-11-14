@@ -1,5 +1,5 @@
 ---
-tags: [historical, person, dufr/background, ruler, dufr/aware]
+tags: [historical, person, dufr/background, person/ruler, dufr/aware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Dasa

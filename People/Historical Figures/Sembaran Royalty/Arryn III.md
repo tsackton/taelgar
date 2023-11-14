@@ -1,5 +1,5 @@
 ---
-tags: [clee/unsorted, ruler, person, dufr/unaware]
+tags: [clee/unsorted, person/ruler, person, dufr/unaware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Arryn III

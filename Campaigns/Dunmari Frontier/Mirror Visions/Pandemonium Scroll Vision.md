@@ -1,9 +1,15 @@
 ---
-tags: [dunmari-frontier-campaign, event-source]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - event-source
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Pandemonium Scroll Vision
 DR: 1748-07-13
+timelineDescriptor: Dunmari Frontier Campaign
 ---
 
 # Pandemonium Scroll Vision

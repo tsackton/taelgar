@@ -7,16 +7,23 @@ gender: male
 ka: 35
 born: 
 died: 
-title:
-family:
+title: 
+family: 
 affiliations: 
-aliases: []
-tags: [NPC/DuFr/minor]
-lastSeenByParty: 
-     - { date: 1748-12-17,  prefix: DuFr}
+aliases: 
+tags: []
+lastSeenByParty:
+  - date: 1748-12-17
+    prefix: DuFr
 whereabouts:
-     - { start: "", place: "Orenlas", region: "Western Green Sea", type: home}
-     - { start: "", place: "Tollen", region: "Western Green Sea" , type: home}
+  - start: ""
+    place: Orenlas
+    region: Western Green Sea
+    type: home
+  - start: ""
+    place: Tollen
+    region: Western Green Sea
+    type: home
 ---
 # Melindir
 >[!info]+ Biographical Summary

@@ -1,7 +1,12 @@
 ---
-tags: [dunmari-frontier-campaign, session-note]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - session-note
+displayDefaults:
+  startStatus: created
+  startPrefix: created
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Session 42 (DuFr)
 ---
 

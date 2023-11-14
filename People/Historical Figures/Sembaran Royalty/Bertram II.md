@@ -1,5 +1,5 @@
 ---
-tags: [historical, ruler, person, dufr/unaware]
+tags: [historical, person/ruler, person, dufr/unaware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Bertram II

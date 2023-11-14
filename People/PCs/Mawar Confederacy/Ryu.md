@@ -1,14 +1,21 @@
 ---
-tags: [pc, person, pc/unsorted]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - pc
+  - person
+  - pc/mawar
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Ryu
-born:
+born: 
 species: human
 ancestry: Mawaran
 gender: male
 player: David Kong
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+affiliations:
 ---
 # Ryu
 

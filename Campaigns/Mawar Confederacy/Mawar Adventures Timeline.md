@@ -1,7 +1,7 @@
 ---
 tags:
-- timeline
-- mawar-adventures-campaign
+  - timeline
+timelineDescriptor: Mawar Adventures
 ---
 
 - (DR:: 1747-07-23) *(Mawar Adventures)*: Trok, Wazir, and Ryu defeat an elemental attack and help Illius, a merfolk recover a vial of water from the sentient ocean. 

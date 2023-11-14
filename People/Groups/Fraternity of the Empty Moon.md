@@ -1,5 +1,5 @@
 ---
-tags: [organization/unsorted, organization, event-source]
+tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo: []
 name:

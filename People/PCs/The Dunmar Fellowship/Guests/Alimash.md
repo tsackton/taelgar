@@ -1,14 +1,21 @@
 ---
-tags: [pc, person, pc/dunmarfrontier/sologuest, pc/dunmarfrontier]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - pc
+  - person
+  - pc/guest
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Alimash
-born:
+born: 
 species: human
-ancestry:
+ancestry: 
 gender: male
-player:
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+player: 
+affiliations:
 ---
 
 ## Alimash

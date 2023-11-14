@@ -5,7 +5,7 @@ campaignInfo: []
 name: Cleenseau
 placeType:
 partOf: Barony of Aveil
-pronounciation: Klen-sew
+pronunciation: Klen-sew
 population: 1189
 ---
 ### Cleenseau
