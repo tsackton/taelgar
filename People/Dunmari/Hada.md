@@ -14,11 +14,10 @@ whereabouts:
 ---
 # Hada
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Tokra]], [[Central Dunmar]]
->> Based in: [[Tokra]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] (Dunmari), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 The head scribe of the military section of the [[Tokra]] [[Archives]]. He was researching, with [[Govir]], the events surrounding [[The Exile of Fraternity of the Empty Moon]] in DR 1625 from [[Tokra]] in the [[Archives]], in support of [[Govir]]'s planned treatise on the miracles of the [[The Five Siblings|The Five Siblings]] in aid of the Nayan dynasty. 
 %%^Date:1748%%
