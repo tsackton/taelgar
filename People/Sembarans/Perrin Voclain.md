@@ -9,15 +9,15 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: 'Taviose, Sembara'}
-- {type: away, start: 1719-10-21, end: '', location: 'Valit, Sembara'}
+- {type: home, start: '', end: '', location: 'Taviose'}
+- {type: away, start: 1719-10-21, end: 1719-10-26, location: 'Valit'}
 ---
 # Perrin Voclain
 >[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Taviose]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]] ([[Sembara|Sembaran]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Perrin Voclain is a sage and druid who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]].
 

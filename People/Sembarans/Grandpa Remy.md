@@ -14,11 +14,9 @@ whereabouts:
 ---
 # Grandpa Remy
 >[!info]+ Biographical Summary
->Human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Tavoise, [[Sembara]]
->> Based in: Tavoise, [[Sembara]]
->>%%^Campaign:Clee%% Last seen by the party at October 23rd, 1719: Tavoise, [[Sembara]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>Human ([[Sembara|Sembaran]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Grandpa Remy is well-liked for his off-color jokes and his fondness for apple brand.
