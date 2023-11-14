@@ -22,6 +22,7 @@ Given a whereabouts and a target date two additional values are calculated - imp
 
 Examples:
 ```yaml
+born: 1450
 { type: home, start: , end: , location: origin}
 { type: home, start: 1500, end: , location: home}
 ```
@@ -32,15 +33,28 @@ born: 1450
 { type: home, start: 1475, end: 1499, location: first home}
 { type: home, start: 1500, end: , location: home}
 ```
-This should generate "unknown" as the origin whereabouts
+This should generate "unknown" as the origin whereabouts.
+
+```yaml
+born: 
+{ type: home, start: 1475, end: 1499, location: first home}
+{ type: home, start: 1500, end: , location: home}
+```
+This should generate "first home" as the origin whereabouts.
 
 ```yaml
 born: 1450
 { type: home, start: 1475, end: , location: home}
 { type: home, start: , end: , location: origin}
 ```
-This should generate "origin" as the origin whereabouts
+This should generate "origin" as the origin whereabouts.
 
+```yaml
+born: 1450
+{ type: home, start: , end: , location: origin}
+{ type: home, start: , end: , location: home}
+```
+This should generate "origin" as the origin whereabouts.
 
 2. A home whereabouts is defined as the valid home location with the shortest duration between imputed start and target date.
 	- A valid home location is a home location where imputed end >= target date
