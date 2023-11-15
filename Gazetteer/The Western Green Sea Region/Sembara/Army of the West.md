@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Army of the West

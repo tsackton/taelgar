@@ -3,11 +3,14 @@ tags: [clee/unsorted, person, dufr/unaware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Harold Stonebridge
-born:
-species:
+born: 1708
+species: halfling
 ancestry:
-gender:
+gender: male
 ---
-### Harold Stonebridge
+# Harold Stonebridge
+>[!info]+ Biographical Summary
+>[[Halflings|halfling]], he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 
 A halfling child, he is the errand boy of [[The Crossroads Inn]] in [[Cleenseau]]. 
