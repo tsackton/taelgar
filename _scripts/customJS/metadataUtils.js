@@ -427,8 +427,10 @@ class metadataUtils {
             }
         }
 
-        if (!status.startPrefix) status.startPrefix = status.startDescriptor[0] + "."
+    
+        if (!status.startPrefix && status.startDescriptor) status.startPrefix = status.startDescriptor[0] + "."
         if (!status.endPrefix && status.endDescriptor) status.endPrefix = status.endDescriptor[0] + "."
+        
 
         return status;
     }

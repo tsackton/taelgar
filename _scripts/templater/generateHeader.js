@@ -228,11 +228,11 @@ async function generateHeader(tp) {
         }
 
         if (tp.frontmatter.owner) {
-            output += "\n> Owner: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.owner, true, true)
+            output += "\n> Owner: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.owner, true, undefined, true)
         }
 
         if (tp.frontmatter.maker) {
-            output += "\n> Maker: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.maker, true, true)
+            output += "\n> Maker: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.maker, true, undefined, true)
         }
 
         if (hasPageDates) {
