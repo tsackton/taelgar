@@ -14,10 +14,10 @@ whereabouts:
 # Agon
 >[!info]+ Biographical Summary
 >[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: [[Society of the Open Scroll]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
- 
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
 [[Vola]]'s mentor, a member of the [[Society of the Open Scroll]] and scholar in [[Chardon]]. 
 
 %%SECRET[1]%%

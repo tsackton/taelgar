@@ -14,11 +14,10 @@ whereabouts:
 ---
 # Gnaeus
 >[!info]+ Biographical Summary
->human (Chardonian), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Arendum]], [[Chardonian Empire]]
->> Based in: [[Chardon]], [[Chardonian Empire]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: [[University of Chardon|The University of Chardon]], Sibyl's Hall
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A disgraced historian and scholar, expelled from the Faculty for using enchantment magic to aid his research, now making a poor living as a tutor. 
 

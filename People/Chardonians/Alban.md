@@ -10,14 +10,14 @@ gender: male
 died: 1748-03-18
 affiliations: [Society of the Open Scroll]
 whereabouts:
-- {type: home, start: 1719-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, start: "", end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Alban
 >[!info]+ Biographical Summary
->human (Chardonian), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Chardon]], [[Chardonian Empire]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: [[Society of the Open Scroll]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 One of the adventurers of the [[Society of the Open Scroll]]. Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
 

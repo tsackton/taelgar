@@ -18,7 +18,7 @@ species: human
 ancestry: Chardonian
 gender: male
 died: 1748-12-08
-pageTargetDate: 1748-12-08
+pageTargetDate:
 affiliations:
   - The Society of the Open Scroll
 whereabouts:
@@ -41,10 +41,10 @@ whereabouts:
 ---
 # Kadmos
 >[!info]+ Biographical Summary
->[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: The Society of the Open Scroll
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
 
