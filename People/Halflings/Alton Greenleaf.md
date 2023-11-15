@@ -8,12 +8,13 @@ species: halfling
 ancestry:
 gender: male
 family: Greenleaf
+whereabouts : 
+- { type: away, start: 1748-07-11, location: ~AncientWestRoad~ } #check date with session notes
 ---
 # Alton Greenleaf
->[!info]+ Basic information
->halfling, he/him
->unknown age
->Based in: unknown
->Location (updated July 18, 1748): inn at the crossroads of the [[Tokra-Darba Road]] and the [[~AncientWestRoad~]], [[Central Dunmar]]
+>[!info]+ Biographical Summary
+>[[Halflings|halfling]], he/him
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Halfling traveler, heading east towards [[Tokra]] on the [[~AncientWestRoad~]] with his brother to [[Lyle Greenleaf]]. 

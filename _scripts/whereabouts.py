@@ -35,6 +35,7 @@ def get_whereabouts(metadata, target_date):
 
     # Get whereabouts from metadata
     whereabouts = metadata.get('whereabouts', [])
+    born = metadata.get('born', date.min)
 
     # Get valid locations for each type
     valid_homes = filter_whereabouts(whereabouts, target_date, type='home', allow_past=False)
@@ -42,10 +43,33 @@ def get_whereabouts(metadata, target_date):
     valid_current = filter_whereabouts(whereabouts, target_date, allow_past=False)
     valid_known = filter_whereabouts(whereabouts, target_date, allow_past=True)
 
-    # Get current home as the most recent valid home, or if there are multiple equally recent homes, the last one
-    current_home = None
-    if len(valid_homes) > 0:
-        for home in valid_homes:
-            if current_home is None or clean_date(home['start']) > clean_date(current_home['start']):
-                current_home = home
+    # Get current home as the valid home with the smallest recency, with ties broken by order in the metadata.
+    if not valid_homes:
+        current_home = None
+    else:
+        current_home = min(valid_homes, key=lambda x: x["recency"]) #this is not quite right as it will return the first home in the list if there are multiple with the same recency, not the last
+    
+    # Get current location as the valid location with the smallest recency, with ties broken by duration, then order in the metadata.
+
+    if not valid_current:
+        current_location = None
+    else:
+        current_location = min(valid_current, key=lambda x: (x["recency"], x["duration"])) #this is not quite right as it will return the first location in the list if there are multiple with the same recency and duration, not the last
+        if current_location["end"] is None:
+            current_location = None
+
+    # Get the origin as the earliest home in the metadata where start date >= born
+    if not valid_origins:
+        origin = None
+    else:
+        origin = min(valid_origins, key=lambda x: x["start"])
+        if clean_date(origin['start']) < born:
+            origin = None
+    
+    # Get the known location as the latest defined location in the metadata, where 
+    if not valid_known:
+        known_location = None
+    known_location = max(valid_known, key=lambda x: x["start"])
+
+    return { "home" : current_home, "current" : current_location, "origin" : origin, "known" : known_location }
 

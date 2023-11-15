@@ -15,10 +15,10 @@ whereabouts:
 ---
 # Balati
 >[!info]+ Biographical Summary
->human (Deno'qai), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: Ko'zula village, unknown
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Deno'qai|Deno'qai]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 A hero of the Deno'qai during the [[Events/1500s/Great War]], and the man who once bore the armor and shield [[Delwath]] now carries.
 
