@@ -7,4 +7,4 @@ placeType:
 partOf:
 ---
 
-A large island in the middle of the Green Sea.
+A large island in the middle of the [[Green Sea]].

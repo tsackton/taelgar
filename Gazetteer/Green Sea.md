@@ -1,11 +1,17 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name: Green Sea
-placeType:
-partOf:
-aliases: [Green Sea, the Green Sea]
+tags:
+  - place
+  - status/stub
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: the Green Sea
+placeType: 
+partOf: 
+aliases:
 ---
 
 # The Green Sea

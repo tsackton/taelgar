@@ -8,9 +8,9 @@ partOf:
 ---
 # Ursk
 
-Ursk is a secretive civilization on the north coast of the Green Sea. Rumors are that it is a land of wizards and magic, of ice and snow, of monsters and secret treasure. While outsiders are allowed to trade at a handful of port cities, including [[Zakat]] and [[Praznitsky]], the warehouses and docks of these cities are kept isolated from the city proper, and foreigners are not allowed to pass the borders. Trade with Ursk, however, is worth the hassle, for the valuable hides, furs, and other monster parts, especially the most prized of all, dragonhide from the northern wastes.
+Ursk is a secretive civilization on the north coast of the [[Green Sea]]. Rumors are that it is a land of wizards and magic, of ice and snow, of monsters and secret treasure. While outsiders are allowed to trade at a handful of port cities, including [[Zakat]] and [[Praznitsky]], the warehouses and docks of these cities are kept isolated from the city proper, and foreigners are not allowed to pass the borders. Trade with Ursk, however, is worth the hassle, for the valuable hides, furs, and other monster parts, especially the most prized of all, dragonhide from the northern wastes.
 
-Ursk itself lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of Zovcka. The winters are long and cold, and the westerly winds off the Green Sea bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. Much like the central plateaus of Vostok, this is a land of many small, cold rivers, and with the maritime influence wetlands are common, especially along the coast. To the north, the vast taiga of the northern wastes extends are far as one can travel, until it is replaced by tundra in the higher elevations and the far north.
+Ursk itself lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of Zovcka. The winters are long and cold, and the westerly winds off the [[Green Sea]] bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. Much like the central plateaus of Vostok, this is a land of many small, cold rivers, and with the maritime influence wetlands are common, especially along the coast. To the north, the vast taiga of the northern wastes extends are far as one can travel, until it is replaced by tundra in the higher elevations and the far north.
 
 The people of Ursk speak their own tongue. Common is rarely spoken, although the trade tongue of the far east, Eastros, is more common. None speak Sembaran or any tongue of the western isles. 
 ## Rumors
@@ -27,10 +27,10 @@ The northern coasts between Skaegenland and Ursk are inhospitable, with few or n
 
 %% NOTES, FROM GOOGLE DRIVE
 
-On the northern shores of the Green Sea, stretching a few hundred miles along the coast and extending inland, lies a civilization ruled by wizards. A closed culture, foreigners are restricted to a few offshore islands on the outskirts of coastal trading cities, where they trade for prized furs and hides, especially dragonhide, of the northern wastes.
+On the northern shores of the [[Green Sea]], stretching a few hundred miles along the coast and extending inland, lies a civilization ruled by wizards. A closed culture, foreigners are restricted to a few offshore islands on the outskirts of coastal trading cities, where they trade for prized furs and hides, especially dragonhide, of the northern wastes.
 ### Climate
 
-Ursk  lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of Zovcka. The winters are long and cold, and the westerly winds off the Green Sea bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. 
+Ursk  lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of Zovcka. The winters are long and cold, and the westerly winds off the [[Green Sea]] bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. 
 
 The land rises gradually to the north, and the northern edge of Ursk  is defined by the rough, rugged mountains of the [[~NorthUrskMountains~]]. Much like the central plateaus of Vostok, this is a land of many small, cold rivers, and with the maritime influence wetlands are common, especially along the coast. To the north, the vast taiga of the northern wastes extends are far as one can travel, until it is replaced by tundra in the higher elevations and the far north.
 

@@ -8,7 +8,7 @@ partOf:
 ---
 # The Sentinels
 
-The Sentinels, also called the Sentinel Mountains or the Sentinel Range, are the extensive mountain range that separates the Green Sea region from the West coast of Taelgar. 
+The Sentinels, also called the Sentinel Mountains or the Sentinel Range, are the extensive mountain range that separates the [[Green Sea]] region from the West coast of Taelgar. 
 
 In the south, in northern Dunmar, the mountains are steep and rocky, with only a handful of passes. In the winter, they are snow-covered, but there is little permanent ice and few or no glaciers. 
 

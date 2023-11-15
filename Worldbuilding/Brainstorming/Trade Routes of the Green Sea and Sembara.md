@@ -1,6 +1,6 @@
-Some notes on trade in the Green Sea region, partially formed. 
+Some notes on trade in the [[Green Sea]] region, partially formed. 
 
-The breadbasket of Sembara and the merchant houses of Tollen are the twin economic engines of the Western Green Sea.
+The breadbasket of Sembara and the merchant houses of Tollen are the twin economic engines of the Western [[Green Sea]].
 
 ### Sembaran Trade Goods
 Sembara is rich in grain in particular, and [[The Heartlands]] generate significant grain surpluses which are traded mostly to Tollen. The region is also known for its cattle, pigs, and fine horses, and a secondary trade in leather is not insignificant. Flax is also grown here and linen cloth manufactured and traded to Tollen.
@@ -9,7 +9,7 @@ The [[Braebein]] in the [[Duchy of Arnsbury]] are rich in silver mines and fine 
 
 The highlands, the northlands, and much of the Wistel and Semb river valleys are known for their sheep and wool. Cheimin sheep are especially highly regarded for their fine wool (think Merino wool or alpaca on earth) and the dukes of Cheimin closely guard their flocks.
 
-In the northlands, along the Volta much small scale manufacturing takes place, especially weaving of wool into cloth which travels downriver to Tollen usually in exchange for silver. Several towns in Telham along both the Teft and Volta are known for their terracotta and cermanic housewares, and both the Teft and Volta styles are traded (again, via Tollen) widely in the Green Sea region.
+In the northlands, along the Volta much small scale manufacturing takes place, especially weaving of wool into cloth which travels downriver to Tollen usually in exchange for silver. Several towns in Telham along both the Teft and Volta are known for their terracotta and cermanic housewares, and both the Teft and Volta styles are traded (again, via Tollen) widely in the [[Green Sea]] region.
 
 The Highland Kingdoms, especially Breva and Ardlas trade foodstuffs heavily with the dwarves for gold, steel, and fine metalworking. Timber is also traded downriver, as are furs, honey, and fine wax for candle-making. Much of the foodstuffs comes from Sembara via halfling traders or Tollender merchant houses.
 

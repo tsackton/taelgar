@@ -7,6 +7,6 @@ placeType:
 partOf:
 ---
 
-A series of islands, largely made of red stone, that make up the kenku lands in the eastern Green Sea. 
+A series of islands, largely made of red stone, that make up the kenku lands in the eastern [[Green Sea]]. 
 
 ![[wahacha-coast.png|500]]

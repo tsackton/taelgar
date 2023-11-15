@@ -18,7 +18,7 @@ whereabouts:
 >> Based in: [[Wahacha]], [[Vermillion Isles]], [[Eastern Green Sea]]
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern Green Sea with his partner, Skoda. 
+Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [[Green Sea]] with his partner, Skoda. 
 
 In early October 1748, he was captured by a recently awakened aboleth and dragged to its undersea lair with Skoda. He was rescued, along with other captives, by Wellby and his companions on October 14, 1748. However, he suffered from the aboleth's curse, and could no longer survive without frequently being immersed in water. After repairing [[Wellby]]’s [[Magic Kenku Armor]] to restore its flight function, in gratitude for his rescue, he traveled with other victims of the aboleth to the sea elf village off the coast of Quanyi, where he remains a guest until a cure for the aboleth's curse can be found. 
 

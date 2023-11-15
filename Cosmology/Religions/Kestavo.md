@@ -6,7 +6,7 @@ Although most kestavo are worshipped only by the people of their particular town
 
 * [[Romil]], the glacier king, with his shrine in the tallest mountains in the north
 * [[Kamak]], the lurker, who dwells at the bottom of the great Lake Kamchak
-* [[Besla]], who came to the land in the ancient days from the Green Sea, and each spring asks Ahra to send the waters of her homeland to her for company, and thus brings the monsoon rains.
+* [[Besla]], who came to the land in the ancient days from the [[Green Sea]], and each spring asks Ahra to send the waters of her homeland to her for company, and thus brings the monsoon rains.
 
 The kestavo are not the only spirits in the land, however. The cruel west wind, [[Ziva]], and [[Vacla]], the fire-below, have many offspring, the vazska. These spirits must be appeased or driven off, or they bring misfortune. The children of Ziva are the spirits of the cold and dry air, of hardship, shortages, and mischief, and although they are not worshipped, they are placated and bribed to stay away. The children of Vacla are the spirits of war and destruction, of injury, of sudden death, of the burning home. They are feared and driven off, whenever possible.  
 

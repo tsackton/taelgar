@@ -141,7 +141,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1561), summer: The [[Sentinel Range War]] ends
 - (DR:: 1563): The barons of [[Zovcka]] refuse to come to court and meet instead at the small trade town of Doka, and proclaim Mila, Baroness of the Upper Volta as Queen of Zovcka. [[Blanche I]] does nothing, claiming it was foretold by the stars
 - (DR:: 1564): A year of fine harvests and the first year in living memory when the borders of Sembara are at peace
-- (DR:: 1565): [[Blanche I]] departs on her [[Grand Ambassadorship of Blanche I]] to the Green Sea
+- (DR:: 1565): [[Blanche I]] departs on her [[Grand Ambassadorship of Blanche I]] to the [[Green Sea]]
 - (DR:: 1566): [[Blanche I]] returns from her grand tour, and starts to show significant favoritism to her sister [[Elaine I]]
 - (DR:: 1568): The [[Interregum of 1568]]. [[Wisym I]] appointed King.
 # The Hobgoblin Wars

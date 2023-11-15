@@ -27,7 +27,7 @@ She is a painter, of the 37th ka, born in 1634 DR, so she is currently 114 years
 
 But, after 60 years of this, she grew disillusioned with always looking to the past, always studying the dreams of the eldest, and wanted to find something new in the world. 
 
-For the past 4 years, she has been traveling around the Green Sea, trying to make new art that hasn't been dreamed before in the history of her people. 
+For the past 4 years, she has been traveling around the [[Green Sea]], trying to make new art that hasn't been dreamed before in the history of her people. 
 
 She has come to [[Tollen]] fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
 

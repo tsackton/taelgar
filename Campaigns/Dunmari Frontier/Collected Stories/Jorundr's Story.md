@@ -1,7 +1,7 @@
 ### Jorundr's Story
 (as told to Kenzo in Session 65, by Hraglar)
 
-Jorundr's story starts east and north of here, in the Green Sea. He was born to some of my kind of who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea. 
+Jorundr's story starts east and north of here, in the [[Green Sea]]. He was born to some of my kind of who live underwater there -- while many of our kind dwell in the high mountains among the clouds, others dwell deep below the sea. 
 
 Jornundr did not wish a life on the currents, following the weather of the ocean and the movement of the waters. The ocean is not so changeable as the storms above, and Jorundr was always a changeable person. More so than many of my kind, eager and impulsive. Sometimes he had trouble seeing the paths of the future that guide our decisions. 
 

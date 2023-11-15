@@ -21,7 +21,7 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by The Side Quests at December 25th, 1748: [[Pyhlla]], [[Skaerhem]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
 
-Tulvak is a skilled sailor hailing from the island of [[Pyhlla]] in Skaerhem, in the Western Green Sea. He has for many years served as the ferry captain guiding pilgrims to [[Vetta]], and knows the coast of [[Vetta]] like the back of his hand. 
+Tulvak is a skilled sailor hailing from the island of [[Pyhlla]] in Skaerhem, in the Western [[Green Sea]]. He has for many years served as the ferry captain guiding pilgrims to [[Vetta]], and knows the coast of [[Vetta]] like the back of his hand. 
 ## Description
 
 ![[tulvak.png]]
