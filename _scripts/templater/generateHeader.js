@@ -22,7 +22,7 @@ function get_Pronouns(metadata) {
 async function generateHeader(tp) {
 
     const { metadataUtils } = customJS
-    
+
     let nameString = metadataUtils.get_Name(tp, false, true);
 
     if (!nameString) {
@@ -85,16 +85,30 @@ async function generateHeader(tp) {
         }
 
 
+        let leadersCheck = []
+
         if (tp.frontmatter.leaderOf && tp.frontmatter.leaderOf.length > 0) {
             let title = tp.frontmatter.title ?? "Ruler"
+            leadersCheck = tp.frontmatter.leaderOf
+            let source = tp.frontmatter.leaderOf.map(leader => {
+                return {
+                    title: tp.frontmatter.displayDefaults?.leaders == undefined ? title : tp.frontmatter.displayDefaults.leaders.filter(f => f.name == leader).first()?.title ?? title,
+                    place: metadataUtils.get_NameForPossibleLink(leader, true, undefined, false)
+                };
+            }).filter(f => f.place != undefined)
 
-            output += "\n>" + title + " of "
-            let matched = tp.frontmatter.leaderOf.map(f => metadataUtils.get_NameForPossibleLink(f, true, "place", false)).filter(f => f != undefined)
+            while (source.length > 0) {
+                
+                let thisOne = source.first();
+                let matched = source.filter(x => x.title == thisOne.title)
+                source = source.filter(x => x.title != thisOne.title)
 
-            for (let i = 0; i < matched.length; i++) {
-                let rl = matched[i]
-                output += rl
-                if (i < matched.length - 1) output += " and "
+                output += "\n>" + thisOne.title + " of "
+                for (let i = 0; i < matched.length; i++) {
+                    let rl = matched[i].place
+                    output += rl
+                    if (i < matched.length - 1) output += " and "
+                }
             }
         }
 
@@ -128,10 +142,12 @@ async function generateHeader(tp) {
         if (tp.frontmatter.affiliations && tp.frontmatter.affiliations.length > 0) {
             orgText = "\n> Member of: "
             for (let i = 0; i < tp.frontmatter.affiliations.length; i++) {
-
                 let aff = tp.frontmatter.affiliations[i]
+
+                if (leadersCheck.includes(aff)) continue
+
                 if (!familyDisplay) {
-                    familyDisplay = metadataUtils.get_NameForOrganization(aff, true, primaryOrgType,false)                
+                    familyDisplay = metadataUtils.get_NameForOrganization(aff, true, primaryOrgType, false)
                     if (familyDisplay) continue
                 }
 
@@ -139,6 +155,9 @@ async function generateHeader(tp) {
                 hasOrg = true
                 if (i < tp.frontmatter.affiliations.length - 1) orgText += ", "
             }
+
+            orgText = orgText.trimEnd()
+            if (orgText.endsWith(",")) orgText = orgText.substring(0, orgText.length - 1)
         }
 
         if (familyDisplay) {
