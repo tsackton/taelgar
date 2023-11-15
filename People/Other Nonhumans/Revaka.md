@@ -8,7 +8,7 @@ species: hobgoblin
 ancestry:
 gender: female
 whereabouts: 
-- { type: "away", start: "", end: 1750, location: Mirror of Soul Trapping }
+- { type: "away", start: , end: , location: Mirror of Soul Trapping } 
 ---
 # Revaka
 >[!info]+ Biographical Summary

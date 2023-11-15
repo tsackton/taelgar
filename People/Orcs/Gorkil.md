@@ -15,9 +15,9 @@ whereabouts:
 # Gorkil
 >[!info]+ Biographical Summary
 >[[Orcs|orc]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Kharsan]], [[Nashtkar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+> Member of: [[Grash's Horde]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An [[Orcs|orc]] cleric in [[Grash's Horde|Grash's army]]. 
 

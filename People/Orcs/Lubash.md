@@ -1,27 +1,45 @@
 ---
-tags: [status/uptodate, person, dufr/met, dufr/major]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags:
+  - status/uptodate
+  - person
+  - dufr/met
+  - dufr/major
+  - person/ruler
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
 campaignInfo:
-- {campaign: DuFr, date: 1748-12-10, type: met}
+  - campaign: DuFr
+    date: 1748-12-10
+    type: met
 name: Lubash
 born: 1691
 species: orc
-ancestry:
+ancestry: 
 gender: male
 title: Chief
-affiliations: [The People of the Rainbow]
+affiliations:
+  - The People of the Rainbow
 whereabouts:
-- {type: home, start: '', end: '', location: 'Uzgukhar, Xurkhaz'}
-- {type: home, start: 1691-01-02, end: '', location: 'Uzgukhar, Xurkhaz'}
+  - type: home
+    start: ""
+    end: ""
+    location: Uzgukhar, Xurkhaz
+  - type: home
+    start: 1691-01-02
+    end: ""
+    location: Uzgukhar, Xurkhaz
 ---
 # Chief Lubash
 >[!info]+ Biographical Summary
 >[[Orcs|orc]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Uzgukar, [[Xurkhaz]]
->> Based in: Uzgukar, [[Xurkhaz]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 10th, 1748: Uzgukar, [[Xurkhaz]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+> Member of: The People of the Rainbow
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>>%%^Campaign:DuFr%% Last met by [[The Dunmar Fellowship|The Side Quests]] on December 10th, 1748 in: [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
 Chief Lubash is the stern and protective ruler of [[Xurkhaz]], and by extension the [[People of the Rainbow]]. He is also the bearer of the [[Mantle of Protection]].  Lubash holds immense pride for his kingdom, [[Xurkhaz]], and resides in [[Uzgukhar]].
 ## Overview

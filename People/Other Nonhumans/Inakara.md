@@ -10,14 +10,12 @@ gender: female
 died: 1748
 whereabouts:
 - {type: home, start: 1702-01-02, end: '', location: 'Dwarven Outpost, Raven''s Hold, Eastern Dunmar'}
-- {type: away, start: 1748-11-23, end: '', location: 'deceased, Dwarven outpost, Raven''s Hold, Eastern Dunmar'}
 ---
 # Inakara
 >[!info]+ Biographical Summary
 >derro, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: Dwarven Outpost, [[Raven's Hold]], [[Eastern Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A mad twisted creature and sorcerer living in the old [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near Raven's Hold. 
 
