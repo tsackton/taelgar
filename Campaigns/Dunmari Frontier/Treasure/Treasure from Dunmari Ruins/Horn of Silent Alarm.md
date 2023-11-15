@@ -1,21 +1,14 @@
 ---
-tags:
-  - item
-  - status/uptodate
-displayDefaults:
-  startStatus: created
-  startPrefix: created
-  endPrefix: destroyed
-  endStatus: destroyed
+tags: [ item,  status/uptodate ]
 campaignInfo: 
 name: 
-magical: true
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm
-unique:
+typeOf: horn
+rarity: common
 ---
 # Horn of Silent Alarm
-
-[Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)
+>[!info]+ Item Info
+> [(common magical horn)](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)
 
 The party currently has one of these, apparently a fairly common Dunmari magic item.
 

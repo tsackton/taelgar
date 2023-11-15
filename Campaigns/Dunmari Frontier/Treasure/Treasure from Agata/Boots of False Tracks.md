@@ -2,14 +2,14 @@
 tags: [ item ]
 displayDefaults: { startStatus: created, startPrefix: created, endPrefix: destroyed,   endStatus: destroyed }
 campaignInfo: 
-name: 
-magical: true
+typeOf: boots
 owner: Marcella
 ddbLink: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
 ---
 # Boots of False Tracks
-
-[Mechanics](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)
+>[!info]+ Item Info
+> [(magical boots)](https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks)
+> Owner: [[Marcella]]
 
 A pair of soft boots made of dark brown leather, which radiate illusion magic. Dunmari in origin. Can be used to change your footprints into any humanoid creature you desire. 
 
