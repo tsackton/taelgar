@@ -33,7 +33,7 @@ The party defeats the ettercap, and a woman, [[Narrisa de Abadelle]] appears fro
 In the lair are several bodies:
 * an old man, later identified as [[Nicholas the Beggar]], who has been missing for 8 days
 * a teenage girl, unidentified
-* a lizardfolk of indeterminate age and gender, unidentified
+* a lizardfolk of indeterminate age and gender, unidentified (later identified as [[Edur]])
 * two recently deceased humans from Tavoise:
 	* [[Denis of Tavoise|Denis]]
 	* [[Nicole of Tavoise|Nicole]]

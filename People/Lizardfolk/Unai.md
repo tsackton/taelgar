@@ -1,21 +1,21 @@
 ---
-tags: [clee/unaware, person, dufr/unaware]
+tags: [person, dufr/unaware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: [{campaign: clee, type: met, date: 1719-10-28}]
 name: Unai
 born: 1602
 species: lizardfolk
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: 1602-01-02, end: '', location: 'Ganboa, Sembara'}
+- {type: home,  location: Ganboa }
 ---
 # Unai
 >[!info]+ Biographical Summary
->lizardfolk, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Ganboa]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Lizardfolk|lizardfolk]], she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>>%%^Campaign:clee%% Last met by [[Heroes of Cleenseau|The Andover Crowd]] on October 28th, 1719 in: [[Ganboa]], [[Sembara]], [[The Western Green Sea Region]] %%^End%%
 
 An herbalist and healer, teacher of [[Gentza]].
 
