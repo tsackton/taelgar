@@ -28,7 +28,7 @@ async function generateHeader(tp) {
     let metadataFile = await app.vault.adapter.read(metadataFilePath);
     campaignMetadata = JSON.parse(metadataFile);
 
-    let nameString = metadataUtils.get_Name(tp, false);
+    let nameString = metadataUtils.get_Name(tp, false, true);
 
     if (!nameString) {
         new Notice("The file does not have a name; please set the name before processing the header")
@@ -89,7 +89,7 @@ async function generateHeader(tp) {
             let title = tp.frontmatter.title ?? "Ruler"
 
             output += "\n>" + title + " of "
-            let matched = tp.frontmatter.leaderOf.map(f => metadataUtils.get_NameForPossibleLink(f, true, "place")).filter(f => f != undefined)
+            let matched = tp.frontmatter.leaderOf.map(f => metadataUtils.get_NameForPossibleLink(f, true, "place", false)).filter(f => f != undefined)
 
             for (let i = 0; i < matched.length; i++) {
                 let rl = matched[i]
@@ -131,12 +131,12 @@ async function generateHeader(tp) {
 
                 let aff = tp.frontmatter.affiliations[i]
                 if (!familyDisplay) {
-                    familyDisplay = metadataUtils.get_NameForFamily(aff, true)
+                    familyDisplay = metadataUtils.get_NameForFamily(aff, true, false)
                     console.log(familyDisplay)
                     if (familyDisplay) continue
                 }
 
-                orgText += metadataUtils.get_NameForPossibleLink(aff, true)
+                orgText += metadataUtils.get_NameForPossibleLink(aff, true, undefined, true)
                 hasOrg = true
                 if (i < tp.frontmatter.affiliations.length - 1) orgText += ", "
             }
@@ -168,7 +168,7 @@ async function generateHeader(tp) {
                         let partyName = metadataUtils.get_party_name_for_party(campaignMetadata, element.campaign)
                         if (partyName) {
                             let type = element.type ?? "seen"
-                            let newText = `\n>>%%^Campaign:${element.campaign}%% Last ${type} by ${partyName} on ${parsedDate.display} in: ${metadataUtils.get_Location(locForThisDate)} %%^End%%`;
+                            let newText = `\n>>%%^Campaign:${element.campaign}%% Last ${type} by ${partyName} on ${parsedDate.display} in: ${metadataUtils.get_Location(locForThisDate, true)} %%^End%%`;
                             output += newText
                         }
                     }
@@ -185,13 +185,13 @@ async function generateHeader(tp) {
         output += ">[!info]+ Summary"
         if (hasPageDates) output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
         if (tp.frontmatter.basedIn) {
-            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.basedIn)
+            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.basedIn, true)
             if (locationDisplay) {
                 output += "\n> Based in: " + locationDisplay
             }
         }
         if (tp.frontmatter.partOf) {
-            let partOf = metadataUtils.get_NameForPossibleLink(tp.frontmatter.partOf, true, "organization")
+            let partOf = metadataUtils.get_NameForPossibleLink(tp.frontmatter.partOf, true, "organization", true)
             if (partOf) {
                 output += "\n> Parent Organization: " + partOf
             }
@@ -229,11 +229,11 @@ async function generateHeader(tp) {
         }
 
         if (tp.frontmatter.owner) {
-            output += "\n> Owner: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.owner, true)
+            output += "\n> Owner: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.owner, true, true)
         }
 
         if (tp.frontmatter.maker) {
-            output += "\n> Maker: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.maker, true)
+            output += "\n> Maker: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.maker, true, true)
         }
 
         if (hasPageDates) {
@@ -256,7 +256,7 @@ async function generateHeader(tp) {
 
         if (tp.frontmatter.partOf) {
 
-            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.partOf)
+            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.partOf, false)
 
             if (tp.frontmatter.placeType) {
                 let firstChar = tp.frontmatter.placeType[0]
