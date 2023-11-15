@@ -12,9 +12,9 @@ died: 1582
 ---
 # Anne of Sewick
 >[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[[Humans|human]]  ([[Sembara|Sembaran]]), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 The twin sister of [[Elaine I]] and daughter of [[Reginald]], she was executed for treason after attempting to force her sister to abdicate he throne by magic.
 

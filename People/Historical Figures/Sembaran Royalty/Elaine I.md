@@ -7,14 +7,17 @@ born: 1537
 species: human
 ancestry: Sembaran
 gender: female
+title: Queen
+leaderOf: [Sembara, Tyrwingha]
 reignStart: 1582
 died: 1592
 ---
-# Elaine I
+# Queen Elaine I
 >[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Queen of [[Sembara]] and [[Tyrwingha]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 The twin sister of [[Anne]], her disputes with her sister over the throne dominated the 1560s and 1580s.
 

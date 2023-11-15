@@ -7,14 +7,18 @@ born: 1564
 species: human
 ancestry: Sembaran
 gender: female
-reignStart:
+reignStart: 1600
 died: 1601
+title: Queen
+leaderOf: [Sembara, Tyrwingha]
+affiliations: [House of Sewick]
 ---
-# Blanche II
+# Queen Blanche II
 >[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Queen of [[Sembara]] and [[Tyrwingha]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of [[House of Sewick|The House of Sewick]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 The second child of [[Elaine I]] and [[Cynan]], a ruler of Sembara and Tyrwingha.
 

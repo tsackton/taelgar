@@ -9,12 +9,13 @@ ancestry: Sembaran
 gender: female
 reignStart:
 died: 1562
+affiliations: [House of Sewick]
 ---
 # Eloise
 >[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of [[House of Sewick|The House of Sewick]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 The youngest daughter of [[Charlotte I]], she lived a long life and had eight children, who married into many of the noble families of Sembara and Tyrwingha.
 
