@@ -9,13 +9,14 @@ ancestry: Tyrwinghan
 gender: female
 reignStart:
 died: 1713
-family: House of Lils
+affiliations: [House of Lils, Oracle of the Riven]
 ---
 # Morgaine
 >[!info]+ Biographical Summary
->human (Tyrwinghan), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[[Humans|human]]  ([[Tyrwingha|Tyrwinghan]]), she/her of [[House of Lils]]
+> Member of: [[Oracle of the Riven]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 One of the founders of the [[House of Lils]], originally an [[Oracle of the Riven]].
 

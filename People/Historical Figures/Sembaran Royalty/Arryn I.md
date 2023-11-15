@@ -8,13 +8,16 @@ species: human
 ancestry: Sembaran
 gender: male
 reignStart:
+title: King
+leaderOf: [Sembara, Tyrwingha]
 died: 1600
 ---
-# Arryn I
+# King Arryn I
 >[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>King of [[Sembara]] and [[Tyrwingha]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 A ruler of Sembara and Tyrwingha. The eldest son of [[Elaine I]] and [[Cynan]]. 
 

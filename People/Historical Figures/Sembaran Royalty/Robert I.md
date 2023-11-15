@@ -8,14 +8,17 @@ species: human
 ancestry: Sembaran
 gender: male
 reignStart: 1713
-died: 1721
-family: House of Sewick
+died: 1720
+leaderOf: [Sembara]
+title: King
+affiliations: [House of Sewick]
 ---
-# Robert I
+# King Robert I
 >[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>King of [[Sembara]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Sewick|The House of Sewick]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 A ruler of Sembara, son of [[Cece I]].  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [[Elaine II]]. 
 

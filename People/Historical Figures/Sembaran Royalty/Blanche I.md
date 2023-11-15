@@ -9,13 +9,16 @@ ancestry: Sembaran
 gender: female
 reignStart: 1561
 died: 1567
-family: House of Sewick
+title: King
+leaderOf: [Sembara, Ardlas, Breva, Lavnoch]
+affiliations: [House of Sewick]
 ---
-# Blanche I
+# King Blanche I
 >[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>King of [[Sembara]] and [[Ardlas]] and [[Breva]] and [[Lavnoch]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of [[House of Sewick|The House of Sewick]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 A ruler of Sembara during the 1560s, she was the second child of [[Reginald]]. Her death launched the [[Interregum of 1568]], as her sisters, [[Anne]] and [[Elaine I]] disputed the succession.
 

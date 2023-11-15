@@ -10,13 +10,15 @@ gender: male
 reignStart: 1568
 title: King
 died: 1582
-family: House of Sewick
+affiliations: [House of Sewick]
+leaderOf: [Sembara]
 reignEnd: 1582
 ---
 # King Wisym I
 >[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>King of [[Sembara]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Sewick|The House of Sewick]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
 The eldest son of [[Eloise|Eloise]], he ruled Sembara briefly after the [[Interregum of 1568]]. He was a mostly ineffectual king, and he never married or had children.
