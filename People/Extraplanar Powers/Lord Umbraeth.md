@@ -24,10 +24,7 @@ whereabouts:
 # Lord Umbraeth
 >[!info]+ Biographical Summary
 >fey, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Twilight's Grace, [[Feywild]]
->> Based in: [[Duskmire]], [[Feywild]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Lord Umbraeth, the Gloomshaper, is the ruler of [[Duskmire]]. 
 

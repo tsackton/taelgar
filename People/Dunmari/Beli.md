@@ -13,10 +13,10 @@ whereabouts:
 ---
 # Beli
 >[!info]+ Biographical Summary
->human (Dunmari), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Karawa]], [[Eastern Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Dunmar|Dunmari]]), she/her
+> Member of: [[Shakun Mystai]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An initiate of the [[Shakun Mystai]], a young woman skilled in healing and midwifery, with a hint of divine magic about her.
 
