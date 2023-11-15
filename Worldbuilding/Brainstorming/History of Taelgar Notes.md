@@ -107,7 +107,7 @@ The stoneborn, even less numerous than elves, and always reclusive, do not figur
 
   
 
-The lizardfolk remained largely in their homelands, in the vast coastal swamps of the southern Green Sea, stretching from north of what is now the great desert all the way to the Sembaran lowlands.
+The lizardfolk remained largely in their homelands, in the vast coastal swamps of the southern [[Green Sea]], stretching from north of what is now the great desert all the way to the Sembaran lowlands.
 
   
 
@@ -115,7 +115,7 @@ The dwarves grew quickly after they awoke under the ~CentralMountains~, and bega
 
   
 
-The halflings, always wanderers, spread across the Green Sea, and along the coasts, although from where, originally, they came, lore does not say, and the halflings themselves do not share. While they traveled everywhere, they remained most prevalent along the shores of the Green Sea, along the southeast coast of the continent, and across the great plains of the interior.
+The halflings, always wanderers, spread across the [[Green Sea]], and along the coasts, although from where, originally, they came, lore does not say, and the halflings themselves do not share. While they traveled everywhere, they remained most prevalent along the shores of the [[Green Sea]], along the southeast coast of the continent, and across the great plains of the interior.
 
   
 
@@ -210,15 +210,15 @@ The western mariners left first. This important mariner culture, largely on the 
 
   
 
-When they discovered a vast land, far to the west, with a enormous inner sea, they felt called home, and emigrated there in great numbers. They begin to settle on the east coast of the mainland and the eastern end of the Green Sea, where there are relatively few of the Elder races, and no people. 
+When they discovered a vast land, far to the west, with a enormous inner sea, they felt called home, and emigrated there in great numbers. They begin to settle on the east coast of the mainland and the eastern end of the [[Green Sea]], where there are relatively few of the Elder races, and no people. 
 
   
 
-As the mariners spread around the Green Sea, some began to follow a new religious tradition, ~ArhaMalikMeditation~, which preached the primacy of the true gods Arha and Malik, and the importance of meditation practice for reaching them directly. The spread of this new religion caused a schism. Not all of the mariners forsook their old gods, and those who held to the traditional ways sailed west. 
+As the mariners spread around the [[Green Sea]], some began to follow a new religious tradition, ~ArhaMalikMeditation~, which preached the primacy of the true gods Arha and Malik, and the importance of meditation practice for reaching them directly. The spread of this new religion caused a schism. Not all of the mariners forsook their old gods, and those who held to the traditional ways sailed west. 
 
   
 
-As the remnant of the mariners spread into the western Green Sea, some settled on the Skaer islands. Over the long years, the Skaer traditions empowered the ~OceanGod~, and gradually, the rest of the pantheon was forgotten. From here came the ~SkaerReligion~, still practiced among the Skaer islands. Others settled on the coastlines around the Western Gulf, and as their villages moved up the great river valleys of the region, they met the Northerners, their long sundered brethren. The northern folk traditions mixed with pantheonic ideas of the mariners, and a new religion was born, worshipping the local spirits called the Kestavo. 
+As the remnant of the mariners spread into the western [[Green Sea]], some settled on the Skaer islands. Over the long years, the Skaer traditions empowered the ~OceanGod~, and gradually, the rest of the pantheon was forgotten. From here came the ~SkaerReligion~, still practiced among the Skaer islands. Others settled on the coastlines around the Western Gulf, and as their villages moved up the great river valleys of the region, they met the Northerners, their long sundered brethren. The northern folk traditions mixed with pantheonic ideas of the mariners, and a new religion was born, worshipping the local spirits called the Kestavo. 
 
 #### The Slow Emigration 
 
@@ -232,7 +232,7 @@ More two millennia after being created on Hkar, humanity had finally spread far 
 
 - On Hkar, a relatively unified culture, with an urban, magical orientation largely worshipping the Eight Divines. This is the vast majority of humanity still.
     
-- Around the eastern Green Sea, an ‘eastern’ culture, with a significant seafarer element to their culture. These people, settling in empty land, have a more urban culture than most other mainland humans, and small kingdoms and other political units have developed. They are the second most numerous group of humans.
+- Around the eastern [[Green Sea]], an ‘eastern’ culture, with a significant seafarer element to their culture. These people, settling in empty land, have a more urban culture than most other mainland humans, and small kingdoms and other political units have developed. They are the second most numerous group of humans.
     
 
 - The eastern culture has two strands, based on a religious split. One strand, the “neo-easterners”, are followers of a new philosophical-religious tradition, which holds that through meditation and practice humanity can access the divine spark directly. The other strand, the “old eastenders”, follow the traditional mariner pantheon of their culture on Hkar. The “neo-easterners” are significantly larger and more widespread than the “old easterners”
@@ -264,11 +264,11 @@ The ~ThirdAge~ ended in fire and cataclysmic, as the allies, servants, and slave
 
   
 
-With the sinking of Hkar, the land changed: mountains arose from the plains, hills turned into seas, desserts blossomed and forests withered. Even the land itself was shattered. New oceans cut through what had once been fertile land in the south, breaking the continent in two. In the chaos, little of the south survived, and the great elven kingdom of Tinwerquë sank beneath the waves. Old oceans also retreated, and the great swamps of the lizardfolk on the shores of the Green Sea dried up as the plains turned to desert and the water retreated. While some settled in fragmented remains of the great wetlands of old, others fled to seek a new home. What became of them is not recorded in the north. Even the dwarven kingdoms were not spared, despite their fortifications. The horrors of the underdark claimed many deep halls, and many dwarfs retreated to the surface, living in aboveground cities.
+With the sinking of Hkar, the land changed: mountains arose from the plains, hills turned into seas, desserts blossomed and forests withered. Even the land itself was shattered. New oceans cut through what had once been fertile land in the south, breaking the continent in two. In the chaos, little of the south survived, and the great elven kingdom of Tinwerquë sank beneath the waves. Old oceans also retreated, and the great swamps of the lizardfolk on the shores of the [[Green Sea]] dried up as the plains turned to desert and the water retreated. While some settled in fragmented remains of the great wetlands of old, others fled to seek a new home. What became of them is not recorded in the north. Even the dwarven kingdoms were not spared, despite their fortifications. The horrors of the underdark claimed many deep halls, and many dwarfs retreated to the surface, living in aboveground cities.
 
   
 
-Among the humans, the destruction was greatest on Hkar. Many refugees from Hkar, buoyed by the Eight Divines, landed in the war-torn remnants of the dying elven kingdom of Alcarinquë. Whether others survived the long journey south, beyond the destruction, to some far distant land, is not known by modern scholars. But those living on the mainland were not spared the ravages of war. The cities and civilizations of the south, once the most powerful kingdoms outside of Drankor, fell, and were swallowed by the changing land. Only those humans who had lived on the margins of the world, in the far north, or on the shores of the Green Sea, escaped largely unscathed, although not untouched by war. 
+Among the humans, the destruction was greatest on Hkar. Many refugees from Hkar, buoyed by the Eight Divines, landed in the war-torn remnants of the dying elven kingdom of Alcarinquë. Whether others survived the long journey south, beyond the destruction, to some far distant land, is not known by modern scholars. But those living on the mainland were not spared the ravages of war. The cities and civilizations of the south, once the most powerful kingdoms outside of Drankor, fell, and were swallowed by the changing land. Only those humans who had lived on the margins of the world, in the far north, or on the shores of the [[Green Sea]], escaped largely unscathed, although not untouched by war. 
 
   
 
@@ -307,7 +307,7 @@ The downfall of Hkar was a massive disaster. A continent sized place sank, and t
 
 Among non-human cultures:
 
-- The great elven kingdoms are gone, save for some remnants of the ancient forests in the ~Irebor River Valley~ and south and east of the Mostreve HIlls. Most elves who survive the downfall retreated the western forests, or the remnants of Alcarinquë near the Green Sea, now called Orenlas (loosely, “dawn leaves”). 
+- The great elven kingdoms are gone, save for some remnants of the ancient forests in the ~Irebor River Valley~ and south and east of the Mostreve HIlls. Most elves who survive the downfall retreated the western forests, or the remnants of Alcarinquë near the [[Green Sea]], now called Orenlas (loosely, “dawn leaves”). 
     
 - The lizardfolk scatter, some staying in the remnants of the great swamps of the prior age, others finding new refuges in the changed world, and many leaving on a great migration to find a new homeland to the south. 
     
@@ -356,17 +356,17 @@ The first war the Drankorian Empire fought was against the hobgoblins of the ~Ea
 
   
 
-However, despite a clear victory, the Drankorians did not seek to expand east. The land beyond the mountains was barren and empty, rugged unpopulated wastelands unsuitable for farming, and even the shores of the Green Sea were largely empty. The nomadic Dunmari and other desert people traveled through this land occasionally, but the civilization growing in the coastal lands abandoned by the lizardfolk at the end of the ~ThirdAge~ is more than 1000 miles away, and the Drankorians did not push far into the wastes of ~NAME~. 
+However, despite a clear victory, the Drankorians did not seek to expand east. The land beyond the mountains was barren and empty, rugged unpopulated wastelands unsuitable for farming, and even the shores of the [[Green Sea]] were largely empty. The nomadic Dunmari and other desert people traveled through this land occasionally, but the civilization growing in the coastal lands abandoned by the lizardfolk at the end of the ~ThirdAge~ is more than 1000 miles away, and the Drankorians did not push far into the wastes of ~NAME~. 
 
-#### Assimilation of the Western Green Sea
-
-  
-
-By 4400, the Drankorian Empire is firmly established in the lands that are now Dunmar, with fortified borders to the west, along the Myrenai Gap, and the east, along the ~NAME Mountains~. Over the next 150 years, Drankor fully comes into its own as by far the dominant power on the continent, and expands -- largely by assimilation and relatively non-violent conquest -- north along the ~Irebor River Valley~ into the western Green Sea. By 4550, Drankor has pushed north to the Volta, and east to the coasts of the Green Sea, save for the fey-protected land of Tyrwingha, a few small highland kingdoms in the foothills of the ~CentralMountains~, and the forests and swamps of the Elven and Lizardfolk kingdoms. 
+#### Assimilation of the Western [[Green Sea]]
 
   
 
-As the Drankorian Empire spread, its institutions spread as well. Most prominent was Mos Numena, the religion of the Eight Divines that was central to Drankorian worship. While in some parts of the Green Sea the worship practice of the Mos Numena changed to fit local customs, the power of the Eight Divines was undeniable, and many converted, even those not directly under Drankorian rule. The organized practice of magic also spread with Drankorian expansion. Drankorian society was both highly magical and full of membership groups, many devoted to the study of magic, both divine and arcane
+By 4400, the Drankorian Empire is firmly established in the lands that are now Dunmar, with fortified borders to the west, along the Myrenai Gap, and the east, along the ~NAME Mountains~. Over the next 150 years, Drankor fully comes into its own as by far the dominant power on the continent, and expands -- largely by assimilation and relatively non-violent conquest -- north along the ~Irebor River Valley~ into the western [[Green Sea]]. By 4550, Drankor has pushed north to the Volta, and east to the coasts of the [[Green Sea]], save for the fey-protected land of Tyrwingha, a few small highland kingdoms in the foothills of the ~CentralMountains~, and the forests and swamps of the Elven and Lizardfolk kingdoms. 
+
+  
+
+As the Drankorian Empire spread, its institutions spread as well. Most prominent was Mos Numena, the religion of the Eight Divines that was central to Drankorian worship. While in some parts of the [[Green Sea]] the worship practice of the Mos Numena changed to fit local customs, the power of the Eight Divines was undeniable, and many converted, even those not directly under Drankorian rule. The organized practice of magic also spread with Drankorian expansion. Drankorian society was both highly magical and full of membership groups, many devoted to the study of magic, both divine and arcane
 
   
 
@@ -378,19 +378,19 @@ During the years of the expansion of the Drankorian empire, the other human cult
 
   
 
-- The ‘east northerner’ culture of the western Green Sea is almost entirely assimilated into Drankor, with only some remnants in the highlands and in particular in the highlands of Vostok.
+- The ‘east northerner’ culture of the western [[Green Sea]] is almost entirely assimilated into Drankor, with only some remnants in the highlands and in particular in the highlands of Vostok.
     
-- Further east, on the shores of the Green Sea, the influence of Drankor is felt, but is not dominate. 
+- Further east, on the shores of the [[Green Sea]], the influence of Drankor is felt, but is not dominate. 
     
 
-- In the islands and the north coast of the green sea, the people are trading and interacting with the Drankorian empire but never significantly under threat of conquest. These people develop into the ~NorthCoast~, ~Skaer~, and ~GreenSeaIsland~ cultures, and especially in the far east and north retain the original Hkaran mariner cultures.
+- In the islands and the north coast of the [[green sea]], the people are trading and interacting with the Drankorian empire but never significantly under threat of conquest. These people develop into the ~NorthCoast~, ~Skaer~, and ~GreenSeaIsland~ cultures, and especially in the far east and north retain the original Hkaran mariner cultures.
     
-- Along the south coast of the green sea, beyond the ~Drankor Frontier Mountains~, trade begins to increase considerably as the Drankorian Empire settles the shores of the Green Sea. While the Empire never conquerors the land to the east, and never becomes a major maritime power, trade and the spread of institutions, especially Mos Numena, is a major influence on the development of the south coast cultures. 
+- Along the south coast of the [[green sea]], beyond the ~Drankor Frontier Mountains~, trade begins to increase considerably as the Drankorian Empire settles the shores of the [[Green Sea]]. While the Empire never conquerors the land to the east, and never becomes a major maritime power, trade and the spread of institutions, especially Mos Numena, is a major influence on the development of the south coast cultures. 
     
 - The proto-Dunmari, a small and relatively isolated/culturally unique group, are of course aware of the existence of a great empire to the west, but remain aloof to its cultural influence.
     
 
-- The ‘mainland’ southern culture, south and east of the desert, as well as the southern island cultures, remain far distant from Drankor itself, but the east coast and the western islands, in particular, has a bit of a “Europe” relationship with Drankor’s “China”, as long distance trade flows along the south coast of the Green Sea and across the desert from the urbanized empires of the east to the heartland of the Drankorian Empire. 
+- The ‘mainland’ southern culture, south and east of the desert, as well as the southern island cultures, remain far distant from Drankor itself, but the east coast and the western islands, in particular, has a bit of a “Europe” relationship with Drankor’s “China”, as long distance trade flows along the south coast of the [[Green Sea]] and across the desert from the urbanized empires of the east to the heartland of the Drankorian Empire. 
     
 - The south continent cultures are left undeveloped but totally outside the Drankorian sphere of influence
     
@@ -447,7 +447,7 @@ In the 500 years between the fall of Drankor and the Great War, the following de
 - The islands and coastal cultures remain
     
 
-- In the Green Sea
+- In the [[Green Sea]]
     
 
 - Development of Sembara, Vostok, Cymea, etc; plus ~Irebor~ and ~South Cymea~ with a more Drankorian (Cymea-like) culture
@@ -458,7 +458,7 @@ In the 500 years between the fall of Drankor and the Great War, the following de
 
 - Dunmari migrate northwest, conquering and settling the Drankorian plains
     
-- Also some move more north and east, and settle/conquer/assimilate/blend with the “non-Drankorian, central/easterner culture on the green sea coast north of the desert
+- Also some move more north and east, and settle/conquer/assimilate/blend with the “non-Drankorian, central/easterner culture on the [[green sea]] coast north of the desert
     
 
 - In south and far east, fall of Drankor has less influence and things proceed as during the empire, with modest changes in trade, communication, etc as a big vacuum is left in the west.
@@ -497,7 +497,7 @@ In the current day, you have the following human cultures:
 
 - In Dunmar, the Dunmari themselves, a pure Dunmari culture that settled conquered land after the fall of Drankor
     
-- In “EasternDunmar” on the south shore of the Green Sea, a more blended culture, Dunmari in religion but with Drankorian, eastern, and desert influences
+- In “EasternDunmar” on the south shore of the [[Green Sea]], a more blended culture, Dunmari in religion but with Drankorian, eastern, and desert influences
     
 
 - Broadly, the northern cultures, who follow the Northern Religion:
@@ -583,7 +583,7 @@ VERY ROUGH DRAFT:
   
   
 
-GREEN SEA
+[[GREEN SEA]]
 
 5788 Crisis with Malach, the Lich King
 
@@ -637,7 +637,7 @@ with the highland kingdoms. Furthest extent to the northwest.
 
 3603 First mariners migrations leave Hkar
 
-3591 First mariner explorers find the Green Sea
+3591 First mariner explorers find the [[Green Sea]]
 
   
   

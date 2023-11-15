@@ -1,6 +1,6 @@
 ## The Wave Dancer
 
-A halfling ship plying the trade routes of the eastern Green Sea. Crewed by the Brightmoon halfling family, by and large, including:
+A halfling ship plying the trade routes of the eastern [[Green Sea]]. Crewed by the Brightmoon halfling family, by and large, including:
 
 [[Wella Brightmoon]], captain and matriach of the family
 [[Rose Brightmoon]], musician and [[Wella Brightmoon|Wella]]'s wife

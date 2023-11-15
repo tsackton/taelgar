@@ -19,7 +19,7 @@ Playable species include the following, listed in order of unusualness:
 - [[Playing an Elf|Elves]], [[Playing a Dwarf|Dwarves]], [[Playing a Lizardfolk|Lizardfolk]], [[Playing a Stoneborn|Stoneborn]], and [[Playing a Halfling|Halflings]], known as the [[Elder Folk]], the creations of the embodied gods, the Firstborn of their people. While Halflings, Dwarves, and Lizardfolk are relatively common travelers among human cities, and can frequently be encountered far from their homelands, Elves and Stoneborn are rare, and many commoners will have never met a member of these species before. 
 - The various [[Playing a Fey Species|Fey]], who are the subject of many wild tales, some true and others not, and while not native to the material plane, are sometimes encountered as visitors to and even residents of human settlements. 
 - [[Playing a Centaur|Centaurs]], fey who have abandoned the feywild and see themselves as the guardians of Taelgar, are not an unusual sight on their travels across human kingdoms, but rarely stay long in human cities. 
-- The flying [[Playing a Kenku|Kenku]], mysterious and secretive, who rarely leave their northern homelands, but are sometimes seen in the human cities and settlements, especially along the Green Sea. 
+- The flying [[Playing a Kenku|Kenku]], mysterious and secretive, who rarely leave their northern homelands, but are sometimes seen in the human cities and settlements, especially along the [[Green Sea]]. 
 - The trickster [[Playing a Kobold|Kobolds]], descendants of dragons, who are known throughout the world, but rarely welcome in human settlements. 
 
 While these are theoretically playable races, they should be discussed as they are either extremely unusual, or usually considered evil by humans:
