@@ -234,10 +234,8 @@ async function generateHeader(tp) {
         let typeOfLinked = false;
 
         let typeOf = tp.frontmatter.typeOf
-        if (typeOf && typeOf != "unique") {
+        if (typeOf) {
             let file = window.app.metadataCache.getFirstLinkpathDest(typeOf, ".");
-            console.log(file)
-            console.log(typeOf)
             if (file) {
                 typeOfLinked = true
                 typeOf = "[[" + typeOf + "]]"
