@@ -7,13 +7,14 @@ name: Mantle of Protection
 aliases: [Cloak of Rainbows]
 owner: Lubash
 magical: true
-unique: true
+typeOf: cloak
+rarity: unique
 ---
 # Mantle of Protection
 >[!info]+ Item Info
->(unique magical item)
-> Owner: undefined
-> Maker: undefined
+>(unique magical cloak)
+> Owner: [[Lubash|Chief Lubash]]
+> Maker: [[Cloudspinner]]
 
 A rumored multi-colored shimmering cloak or mantle that shields the wearer from divine influence in some way. 
 

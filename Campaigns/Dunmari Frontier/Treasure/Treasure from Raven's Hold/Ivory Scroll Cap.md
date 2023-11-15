@@ -1,15 +1,13 @@
 ---
-tags:
-  - item
-displayDefaults:
-  startStatus: created
-  startPrefix: created
-  endPrefix: destroyed
-  endStatus: destroyed
+tags: [ item ]
 campaignInfo: 
 name:
+typeOf: scroll case
+mundane: true
 ---
-# Ivory Scroll Case
+# Ivory Scroll Cap
+>[!info]+ Item Info
+>(mundane scroll case)
 
 An elaborate ivory scroll case. 
 

@@ -1,10 +1,12 @@
 ---
 tags: [item]
 name: On the Lost People of the Forests
+typeOf: book
+mundane: true
 ---
 # On the Lost People of the Forests
 >[!info]+ Item Info
->(mundane item)
+>(mundane book)
 
 Written by the scholar [[Gnaeus]], of [[Chardon]], disgraced for using enchanment magic in his research. 
 

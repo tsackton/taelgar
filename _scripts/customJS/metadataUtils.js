@@ -127,7 +127,8 @@ class metadataUtils {
 
         }
 
-        return "[[" + input + "]]"
+        if (link)  return "[[" + input + "]]"
+        return input
     }
 
     get_Name(input, link, titleCase) {

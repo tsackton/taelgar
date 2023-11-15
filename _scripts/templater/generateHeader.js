@@ -98,7 +98,7 @@ async function generateHeader(tp) {
             }).filter(f => f.place != undefined)
 
             while (source.length > 0) {
-                
+
                 let thisOne = source.first();
                 let matched = source.filter(x => x.title == thisOne.title)
                 source = source.filter(x => x.title != thisOne.title)
@@ -226,21 +226,40 @@ async function generateHeader(tp) {
         }
 
         let itemType = undefined
-        if (tp.frontmatter.unique == true && tp.frontmatter.magical == true) {
-            itemType = "(unique magical item)"
+        let itemRarity = ""
+        if (tp.frontmatter.rarity) {
+            itemRarity = tp.frontmatter.rarity + " "
         }
-        else if (tp.frontmatter.unique == true && tp.frontmatter.magical == false) {
-            itemType = "(unique mundane item)"
+
+        let typeOfLinked = false;
+
+        let typeOf = tp.frontmatter.typeOf
+        if (typeOf && typeOf != "unique") {
+            let file = window.app.metadataCache.getFirstLinkpathDest(typeOf, ".");
+            console.log(file)
+            console.log(typeOf)
+            if (file) {
+                typeOfLinked = true
+                typeOf = "[[" + typeOf + "]]"
+            }
         }
-        else if (tp.frontmatter.unique == false && tp.frontmatter.magical == true) {
-            itemType = "(magical item)"
+
+        if (!typeOf) typeOf = "item"
+
+        if (tp.frontmatter.mundane) {
+            itemType = "(" + itemRarity + "mundane " + typeOf + ")"
         }
-        else  /*if (tp.frontmatter.unique == false && tp.frontmatter.magical == false)*/ {
-            itemType = "(mundane item)"
+        else {
+            itemType = "(" + itemRarity + "magical " + typeOf + ")"
         }
 
         if (mechanicsLink) {
-            output += "\n> [" + itemType + "]" + mechanicsLink
+            if (typeOfLinked) {
+                output += "\n> " + itemType + " [Mechanics](" + mechanicsLink + ")"
+            }
+            else {
+                output += "\n> [" + itemType + "]" + mechanicsLink
+            }
         }
         else {
             output += "\n>" + itemType

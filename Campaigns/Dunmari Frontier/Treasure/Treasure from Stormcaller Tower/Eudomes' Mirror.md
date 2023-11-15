@@ -1,9 +1,14 @@
-### Eudomes' Mirror 
+---
+tags: [item]
+typeOf: mirror
+---
+# Eudomes' Mirror
+>[!info]+ Item Info
+>(magical mirror)
 
 A large ornate wall mirror, originally mounted in [[Eudomes]]' bedroom in [[Stormcaller Tower]], found by Delwath in [[Session 16 (DuFr)]].
 
 When an object is shown to the mirror and a question is asked, the mirror shows scenes of the item that, potentially, reflect the question asked, depending on the insight and willpower of the question asker. 
-
 This was inadvertently discovered by Delwath when he asked the mirror how to get out of Eudomes' bedroom while a reflection of the door could be seen, which of course showed him imagines of people who had come and gone through the door. 
 
 Can be used once per week. 

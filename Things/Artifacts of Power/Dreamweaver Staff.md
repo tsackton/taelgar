@@ -1,14 +1,13 @@
 ---
 tags: [item]
-magical: true
 owner: Candrosa
-unique: true
+rarity: unique
+typeOf: staff
 ---
 # Dreamweaver Staff
 >[!info]+ Item Info
->(mundane item)
-> Owner: undefined
-
+>(unique magical staff)
+> Owner: [[Candrosa]]
 
 The staff that [[Candrosa]] carries, which allows him to project visions into dreams and also transport willing subjects to the [[Dreamworld]]. 
 
