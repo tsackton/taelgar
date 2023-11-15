@@ -86,7 +86,7 @@ class WhereaboutsManager {
             whereaboutResult.home = homes.last()
             whereaboutResult.origin = origins.first()
 
-            if (whereaboutResult.origin.startDate) whereaboutResult.origin = undefined
+            if (whereaboutResult.origin && whereaboutResult.origin.startDate) whereaboutResult.origin = undefined
 
             let current = this.filterWhereabouts(normalized, undefined, targetDate, false).last()
         

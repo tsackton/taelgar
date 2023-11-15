@@ -28,8 +28,6 @@ async function generateHeader(tp) {
     let metadataFile = await app.vault.adapter.read(metadataFilePath);
     campaignMetadata = JSON.parse(metadataFile);
 
-
-
     let nameString = metadataUtils.get_Name(tp, false);
 
     if (!nameString) {
@@ -91,11 +89,11 @@ async function generateHeader(tp) {
             let title = tp.frontmatter.title ?? "Ruler"
 
             output += "\n>" + title + " of "
-            let matched = tp.frontmatter.leaderOf.map(f => metadataUtils.get_NameForPossibleLink(f, true, "place")).filter(f => f!=undefined)
-            
+            let matched = tp.frontmatter.leaderOf.map(f => metadataUtils.get_NameForPossibleLink(f, true, "place")).filter(f => f != undefined)
+
             for (let i = 0; i < matched.length; i++) {
                 let rl = matched[i]
-                output += rl                
+                output += rl
                 if (i < matched.length - 1) output += " and "
             }
         }
@@ -126,7 +124,7 @@ async function generateHeader(tp) {
         let familyDisplay = undefined
         let orgText = undefined
 
-        if (tp.frontmatter.affiliations && tp.frontmatter.affiliations.length > 0) {          
+        if (tp.frontmatter.affiliations && tp.frontmatter.affiliations.length > 0) {
             orgText = "\n> Member of: "
             for (let i = 0; i < tp.frontmatter.affiliations.length; i++) {
 
@@ -135,18 +133,15 @@ async function generateHeader(tp) {
                     familyDisplay = metadataUtils.get_NameForFamily(aff, true)
                     if (familyDisplay) continue
                 }
-              
-                orgText += metadataUtils.get_NameForPossibleLink(aff, true)                
+
+                orgText += metadataUtils.get_NameForPossibleLink(aff, true)
                 if (i < tp.frontmatter.affiliations.length - 1) orgText += ", "
             }
         }
-        
 
-        if (familyDisplay) {            
+        if (familyDisplay) {
             output += " of " + familyDisplay
         }
-
-    
         if (orgText) {
             output += orgText
         }
@@ -158,6 +153,29 @@ async function generateHeader(tp) {
         if (hasReignInfo || (isRuler || tp.frontmatter.leaderOf)) {
             output += "\n>" + '`$=dv.view("_scripts/view/get_RegnalValue")`'
         }
+
+        if (tp.frontmatter.whereabouts) {
+            output += "\n>> `$=dv.view(\"_scripts/view/get_Whereabouts\")`";
+            if (tp.frontmatter.campaignInfo) {
+                tp.frontmatter.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {
+                    let parsedDate = metadataUtils.parse_date_to_events_date(element.date, false);
+                    let locForThisDate = metadataUtils.get_currentWhereabouts(tp.frontmatter, parsedDate);
+
+                    if (locForThisDate) {
+                        let partyName = metadataUtils.get_party_name_for_party(campaignMetadata, element.campaign)
+                        if (partyName) {
+                            let type = element.type ?? "seen"
+                            let newText = `\n>>%%^Campaign:${element.campaign}%% Last ${type} by ${partyName} on ${parsedDate.display} in: ${metadataUtils.get_Location(locForThisDate)} %%^End%%`;
+                            output += newText
+                        }
+                    }
+                });
+            }
+        }
+    }
+
+    if (isSessionNote) {
+
     }
 
     if (isOrganization && (hasPageDates || tp.frontmatter.basedIn || tp.frontmatter.partOf)) {
@@ -174,13 +192,12 @@ async function generateHeader(tp) {
             if (partOf) {
                 output += "\n> Parent Organization: " + partOf
             }
-            
+
         }
     }
-    
+
     if (isItem) {
         output += ">[!info]+ Item Info"
-
 
         let mechanicsLink = undefined
         if (tp.frontmatter.ddbLink) {
@@ -251,26 +268,6 @@ async function generateHeader(tp) {
         }
     }
 
-    if (tp.frontmatter.whereabouts && (isPerson)) {
-        output += "\n>> `$=dv.view(\"_scripts/view/get_Whereabouts\")`";
-
-        if (tp.frontmatter.campaignInfo) {
-            tp.frontmatter.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {
-                let parsedDate = metadataUtils.parse_date_to_events_date(element.date, false);
-                let locForThisDate = metadataUtils.get_currentWhereabouts(tp.frontmatter, parsedDate);
-
-                if (locForThisDate) {
-                    let partyName = metadataUtils.get_party_name_for_party(campaignMetadata, element.campaign)
-                    if (partyName) {
-                        let type = element.type ?? "seen"
-                        let newText = `\n>>%%^Campaign:${element.campaign}%% Last ${type} by ${partyName} on ${parsedDate.display} in: ${metadataUtils.get_Location(locForThisDate)} %%^End%%`;
-                        output += newText
-                    }
-                }
-            });
-        }         
-    }
-
-    return output
+    return output + "\n"
 }
 module.exports = generateHeader
