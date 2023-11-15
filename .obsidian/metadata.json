@@ -1,5 +1,5 @@
 {
-    "historicalYear" : 1680,
+    "placeNameFragmentsThatSkipAutoLinking" : ["somewhere", "unknown", "of", "in"], 
     "campaigns":[
         {
             "prefix": "clee",
@@ -18,101 +18,6 @@
             "campaignName": "The Great War",
             "partyName" : "The Highschoolers",
             "partyFile" : "The Heroes of the Great War"
-        }
-    ],
-    "types": [
-        {
-            "typeName" : "SessionNote",
-            "typeFolderNames": [
-                "Campaigns.*Sessions.*"
-            ],
-            "frontmatter":[
-                "fc-date",
-                "fc-end",
-                "campaign",
-                "realDate",
-                "sessionIndex"
-            ]
-        },
-        {
-            "typeName": "Ruler",
-            "typeFolderNames": [
-                "People.*Ruler.*",
-                "People.*Royalty.*"
-            ],
-            "frontmatter": [
-                "species",
-                "born",
-                "ancestry",
-                "gender",
-                "died",
-                "family",
-                "title",
-                "affiliations",
-                "reignStart"                
-                
-            ],
-            "supportsWhereabouts": true,        
-            "initialTags": [
-                "NPC/unsorted"
-            ]
-        },
-        {
-            "typeName": "PC",
-            "typeFolderNames": [
-                ".*PCs.*"
-            ],
-            "frontmatter": [
-                "species",
-                "born",
-                "ancestry",
-                "gender",
-                "died",
-                "affiliations",
-                "player",
-                "campaign"
-            ],
-            "supportsWhereabouts": true,        
-            "initialTags": [
-                "PC/unsorted"
-            ]
-        },
-        {
-            "typeName": "NPC",
-            "supportsWhereabouts": true,
-            "typeFolderNames": [
-                "People"
-            ],
-            "frontmatter": [
-                "species",
-                "born",
-                "ancestry",
-                "gender",
-                "died",          
-                "family",
-                "title",
-                "affiliations"
-            ],
-            "initialTags": [
-                "NPC/unsorted"
-            ]
-        },
-        {
-            "typeName": "Item",
-            "supportsWhereabouts": false,
-            "typeFolderNames": [
-                "Things"
-            ],
-            "frontmatter": [
-                "created",
-                "destroyed",
-                "owner",
-                "maker",
-                "dbbLink",          
-                "magical",
-                "gpValue"
-            ],
-            "initialTags": []
         }
     ]
 }

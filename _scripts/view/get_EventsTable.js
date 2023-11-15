@@ -26,9 +26,7 @@ async function get_table(input) {
       
         if (item.file.frontmatter.DR != null) {
             let jsDate = metadataUtils.parse_date_to_events_date(item.file.frontmatter.DR, false)
-
-            console.log(item.file)
-
+            
             if (item.file.frontmatter.summary) {
                 name = "*(" + name + ")*: " + item.file.frontmatter.summary
             }            
@@ -80,7 +78,7 @@ async function get_table(input) {
                 let locForThisDate = metadataUtils.get_currentWhereabouts(item.file.frontmatter, parsedDate);
 
                 if (locForThisDate) {
-                    let partyName = await metadataUtils.get_party_name_for_party_without_metadata(element.prefix)
+                    let partyName = metadataUtils.get_party_name_for_party(element.prefix)
                     if (partyName) {
                         let text = name + " meet " + partyName + " at " + metadataUtils.get_Location(locForThisDate)
                         events.push({ year: parsedDate.year, date: parsedDate.display, text: text, rawText: text, file: item.file.name, sort: parsedDate.sort })

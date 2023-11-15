@@ -22,12 +22,7 @@ function get_Pronouns(metadata) {
 async function generateHeader(tp) {
 
     const { metadataUtils } = customJS
-
-    const metadataFilePath = app.vault.configDir + "/metadata.json";
-
-    let metadataFile = await app.vault.adapter.read(metadataFilePath);
-    campaignMetadata = JSON.parse(metadataFile);
-
+    
     let nameString = metadataUtils.get_Name(tp, false, true);
 
     if (!nameString) {
@@ -169,7 +164,7 @@ async function generateHeader(tp) {
                     let locForThisDate = metadataUtils.get_currentWhereabouts(tp.frontmatter, parsedDate);
 
                     if (locForThisDate) {
-                        let partyName = metadataUtils.get_party_name_for_party(campaignMetadata, element.campaign)
+                        let partyName = metadataUtils.get_party_name_for_party(element.campaign)
                         if (partyName) {
                             let type = element.type ?? "seen"
                             let newText = `\n>>%%^Campaign:${element.campaign}%% Last ${type} by ${partyName} on ${parsedDate.display} in: ${metadataUtils.get_Location(locForThisDate, true)} %%^End%%`;

@@ -1,7 +1,15 @@
-
-
-
 class metadataUtils {
+
+    #coreMetadata;
+
+    #getElementFromMetadata(elem) {
+        if (this.#coreMetadata) return this.#coreMetadata[elem];
+        else if ( customJS.state.coreMeta) {
+            this.#coreMetadata = customJS.state.coreMeta
+            return this.#coreMetadata[elem];
+        }
+        return undefined;
+    }
 
     privatehelper_getAge(older, younger) {
 
@@ -166,22 +174,10 @@ class metadataUtils {
         else return "[[" + fileName + "|" + descriptiveName + "]]"
     }
 
-    async get_party_name_for_party_without_metadata(prefix) {
-
-        const metadataFilePath = app.vault.configDir + "/metadata.json";
-
-        let metadataFile = await app.vault.adapter.read(metadataFilePath);
-        metadata = JSON.parse(metadataFile);
-
-        return this.get_party_name_for_party(metadata, prefix)
-
-    }
-
-
-    get_party_name_for_party(metadata, prefix) {
+    get_party_name_for_party(prefix) {
 
         let partyName = undefined;
-        let campaignData = metadata.campaigns;
+        let campaignData = this.#getElementFromMetadata("campaign")
         if (campaignData) {
             let thisCampaign = campaignData.find(search => search.prefix.toUpperCase() == prefix.toUpperCase());
             if (thisCampaign) {
@@ -269,8 +265,19 @@ class metadataUtils {
         return undefined;
     }
 
-    get_LocationFromPieces(singleLoc, depth, titleCase) {
+    #shouldLink(potentialLinkItem) {        
+        let skipList = this.#getElementFromMetadata("placeNameFragmentsThatSkipAutoLinking")    
+        
+        if (!skipList) return true;
 
+        for (let word of potentialLinkItem.split(' ')) {
+            if (skipList.includes(word)) return false;            
+        }
+
+        return true;
+    }
+
+    #get_LocationFromPieces(singleLoc, depth, titleCase) {        
         if (singleLoc == undefined) return "Unknown"
         if (singleLoc == "") return "Unknown"
         if (typeof singleLoc === 'string' || singleLoc instanceof String) {
@@ -279,23 +286,27 @@ class metadataUtils {
                 // we have a single string
                 let file = window.app.vault.getFiles().find(f => f.basename == singleLoc);
                 if (file) {
+
                     let fm = window.app.metadataCache.getFileCache(file)
                     let name = this.get_Name({ file: file, frontmatter: fm.frontmatter }, true, titleCase)
                     if (fm && fm.frontmatter && fm.frontmatter.partOf && depth < 2) {
-                        let parent = this.get_LocationFromPieces(fm.frontmatter.partOf, depth + 1, true)
+                        let parent = this.#get_LocationFromPieces(fm.frontmatter.partOf, depth + 1, true)
                         return name + ", " + parent
                     }
 
                     return name
                 }
 
-                return "[[" + singleLoc + "]]"
+                if (this.#shouldLink(singleLoc)) return "[[" + singleLoc + "]]"
+                return singleLoc
             }
 
             let locArrayValues = singleLoc.split(",").map(function (f) {
                 let pieceValue = f.trim();
-                return "[[" + pieceValue + "]]";
-            });
+                                
+                if (this.#shouldLink(pieceValue)) return "[[" + pieceValue + "]]"
+                return pieceValue
+            }, this);
 
             return locArrayValues.join(', ');
         }
@@ -306,14 +317,13 @@ class metadataUtils {
 
     get_Location(place, titleCase) {
 
-
         if (place == undefined) return "";
-        if (place.region && !place.place) return this.get_LocationFromPieces(place.region, 0, titleCase)
-        if (!place.region && place.place) return this.get_LocationFromPieces(place.place, 0, titleCase)
-        if (place.region && place.place) return this.get_LocationFromPieces(place.place + ", " + place.region, 0, titleCase)
-        if (place.location) return this.get_LocationFromPieces(place.location, 0, titleCase)
+        if (place.region && !place.place) return this.#get_LocationFromPieces(place.region, 0, titleCase)
+        if (!place.region && place.place) return this.#get_LocationFromPieces(place.place, 0, titleCase)
+        if (place.region && place.place) return this.#get_LocationFromPieces(place.place + ", " + place.region, 0, titleCase)
+        if (place.location) return this.#get_LocationFromPieces(place.location, 0, titleCase)
 
-        return this.get_LocationFromPieces(place, 0, titleCase)
+        return this.#get_LocationFromPieces(place, 0, titleCase)
     }
 
     get_pageEventsDate(metadata) {
