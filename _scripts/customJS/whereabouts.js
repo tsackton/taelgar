@@ -26,11 +26,6 @@ class WhereaboutsManager {
         if (type == "excursion") type = "away"
         if (type == "origin") type = "home"
 
-        if (type == "away" && !startDate) {
-            console.log("Whereabouts not valid - type of away but no date")
-            return undefined;
-        }
-
         let location = w.location
         if (!location) {
             let hasPlace = isValidLocPiece(w.place)
