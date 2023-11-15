@@ -1,14 +1,44 @@
-from datetime import datetime, date
+
 import os
 from pathlib import Path
 import urllib.parse 
-import json
 import sys
-import re
+from dateFunctions import *
 
 """
-Core functions to process metadata for Obsidian Taelgar notes
+Helper functions for output control
 """
+
+def get_link(string, metadata):
+    """
+    Takes a string and a metadata dictionary that has a links field and a file name
+    Returns a markdown link to the string if it is in the links field, otherwise returns the string
+    """
+    links = metadata["links"]
+    file = metadata["file"]
+    if string in links:
+        dest = links[string]
+        orig = links[Path(file).stem].parent
+        linkpath = os.path.relpath(dest,orig)
+        return "[" + string + "](" + urllib.parse.quote(linkpath) + ")"
+    else:
+        return string
+
+def get_tags_to_output():
+    """
+    Returns a list of tags to output even if they are not included in spec
+    """
+    return(["sessionStartTime", "sessionEndDate", "sessionEndTime", "summary"])
+
+def parse_loc_string(string, metadata):
+    """
+    Adds links to pieces of a comma-separated location string
+    """
+    pieces = string.split(",")
+    for piece in pieces:
+        piece = piece.strip()
+        piece = get_link(piece, metadata)
+    return ", ".join(pieces)
 
 def loc_join(l):
     """
@@ -36,168 +66,6 @@ def loc_join(l):
     # Return an empty string for other types
     return ""
 
-def clean_date(value, end = False, debug = False):
-    """
-    Takes as input a date in some format and returns a datetime object
-    If end is true, returns the last possible day in an incomplete date (e.g., 2001 returns 2001-12-31)
-    If end is false, returns the earliest possible day in an incomplete date (e.g., 2001 returns 2001-01-01)
-
-    Allowable formats:
-    - datetime object
-    - date object
-    - integer (year)
-    - string in YYYY, YYYY-MM, or YYYY-MM-DD format
-    """
-
-    def sanitize(input_string):
-        return re.sub(r'\D', '', input_string)
-
-    if debug:
-        print(value, type(value), file=sys.stderr)
-
-    # If value is None, return None
-    if value is None or not value:
-        return None
-
-    if isinstance(value, datetime):
-        return date(value.year, value.month, value.day)
-    
-    # If the value is already a datetime object, return it as is
-    if isinstance(value, date):
-        return value
-
-    if isinstance(value, int):
-        # Assuming the integer is a year
-        if (end):
-            return date(value, 12, 31)
-        else:
-            return date(value, 1, 1)
-
-    if isinstance(value, str):
-
-        parts = value.split('-')
-
-        year = int(sanitize(parts[0]))
-        if len(parts) == 1: 
-            if (end):
-                return date(year, 12, 31)
-            else:
-                return date(year, 1, 1)
-        elif len(parts) == 2:
-            if (end): 
-                return date(year, int(sanitize(parts[1])), 31)
-            else:
-                return date(year, int(sanitize(parts[1])), 1)
-        elif len(parts) == 3:
-            return date(year, int(sanitize(parts[1])), int(sanitize(parts[2])))
-        else:
-            raise ValueError("Input must be a datetime object, an integer, or a string in YYYY, YYYY-MM, or YYYY-MM-DD format.")
-        
-    raise ValueError("Input must be a datetime object, an integer, or a string in YYYY, YYYY-MM, or YYYY-MM-DD format.")
-
-def display_date(date, full = True, cr = "DR"):
-    """
-    Takes as input a date object and returns a formatted string
-    The default short format is DR YYYY, but the DR can be changed by passing a different cr value
-    The default long format is Mon DD, YYYY, triggered by setting full to True
-    """
-    
-    if (date is None) or (date == ""):
-        return None
-
-    if (full):
-        return date.strftime("%b %d, %Y")
-    else:
-        return cr + " " + date.strftime("%Y")
-
-def get_age(age1, age2):
-    """
-    Takes two dates and returns the difference in years
-    Always returns a positive value; the input order does not matter
-    """
-
-    age1 = clean_date(age1)
-    age2 = clean_date(age2)
-
-    if age1 > age2:
-        younger = age1
-        older = age2
-    elif age2 > age1:
-        younger = age2
-        older = age1
-    else:
-        return 0
-    
-    return younger.year - older.year - ((younger.month, younger.day) < (older.month, older.day))
-
-def get_page_start_date(metadata):
-    """
-    Computes start date for page based on metadata
-    """
-    pageStartDate = clean_date(metadata["created"]) if "created" in metadata else None
-    if "type" in metadata and metadata["type"] in ["NPC", "PC", "Ruler"]:
-        pageStartDate = clean_date(metadata["born"]) if "born" in metadata else pageStartDate
-    return pageStartDate
-
-def get_page_end_date(metadata):
-    """
-    Computes end date for a page based on metadata
-    """
-    pageEndDate = clean_date(metadata["destroyed"], end=True) if "destroyed" in metadata else None
-    if "type" in metadata and metadata["type"] in ["NPC", "PC", "Ruler"]:
-        pageEndDate = clean_date(metadata["died"], end=True) if "died" in metadata else pageEndDate
-    return pageEndDate
-
-
-"""
-Helper functions for output control
-"""
-
-def get_link(string, metadata):
-    """
-    Takes a string and a metadata dictionary that has a links field and a file name
-    Returns a markdown link to the string if it is in the links field, otherwise returns the string
-    """
-    links = metadata["links"]
-    file = metadata["file"]
-    if string in links:
-        dest = links[string]
-        orig = links[Path(file).stem].parent
-        linkpath = os.path.relpath(dest,orig)
-        return "[" + string + "](" + urllib.parse.quote(linkpath) + ")"
-    else:
-        return string
-
-def get_current_date(metadata):
-    """
-    FIXME: use globs instead of overloaded metadata
-    """
-    directory = metadata["directory"]
-    target_date = metadata.get("pageTargetDate", None)
-    if target_date is not None:
-        return clean_date(metadata["pageTargetDate"])
-    if metadata["override_year"] is not None:
-        return clean_date(metadata["override_year"])
-    with open(os.path.join(directory, 'plugins', 'fantasy-calendar', 'data.json'), 'r', 2048, "utf-8") as f:
-        data = json.load(f)
-        current_data_string = str(data['calendars'][0]['current']['year']) + "-" + str(data['calendars'][0]['current']['month']+1) + "-" + str(data['calendars'][0]['current']['day'])
-        return clean_date(current_data_string)
-
-def get_tags_to_output():
-    """
-    Returns a list of tags to output even if they are not included in spec
-    """
-    return(["sessionStartTime", "sessionEndDate", "sessionEndTime", "summary"])
-
-def parse_loc_string(string, metadata):
-    """
-    Adds links to pieces of a comma-separated location string
-    """
-    pieces = string.split(",")
-    for piece in pieces:
-        piece = piece.strip()
-        piece = get_link(piece, metadata)
-    return ", ".join(pieces)
 
 """
 Helper functions to clean and update metadata
