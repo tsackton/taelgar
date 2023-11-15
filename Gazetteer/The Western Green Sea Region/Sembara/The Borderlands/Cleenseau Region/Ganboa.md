@@ -4,7 +4,7 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Ganboa
 placeType:
-partOf:
+partOf: Sembara
 ---
 *population 62*
 

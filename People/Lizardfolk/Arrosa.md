@@ -12,9 +12,7 @@ whereabouts:
 ---
 # Arrosa
 >[!info]+ Biographical Summary
->lizardfolk, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Bedez]], [[Orekatu]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Lizardfolk|lizardfolk]], she/her
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A lizardfolk elder, the matriarch of the village of [[Bedez]], in the Kingdom of [[Orekatu]]. 

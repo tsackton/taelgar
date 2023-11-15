@@ -1,22 +1,21 @@
 ---
-tags: [clee/unaware, person, dufr/unaware]
+tags: [person, dufr/unaware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: [ { campaign: clee, type: met, date: 1719-10-28 }]
 name: Erdu
-born: 1441
+born: 1517
 species: lizardfolk
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: "", end: '', location: 'Ganboa, Semabara'}
-- {type: away, start: 1719-12-04, end: '', location: 'Ganboa, Semabara'}
+- {type: home, location: Ganboa }
 ---
 # Erdu
 >[!info]+ Biographical Summary
->lizardfolk, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Ganboa]], Semabara
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Lizardfolk|lizardfolk]], he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>>%%^Campaign:clee%% Last met by [[Heroes of Cleenseau|The Andover Crowd]] on October 28th, 1719 in: [[Ganboa]] %%^End%%
 
 The spokesperson for the village of [[Ganboa]] when dealing with humans. Older, with graying scale.
 
