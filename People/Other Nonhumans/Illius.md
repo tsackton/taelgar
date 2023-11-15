@@ -11,5 +11,4 @@ gender: nonbinary
 # Illius
 >[!info]+ Biographical Summary
 >merfolk, they/them
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
 

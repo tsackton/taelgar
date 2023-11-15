@@ -11,15 +11,12 @@ aliases: [Emperor Apollyon, Apollyon]
 title: Emperor
 whereabouts:
 - {type: home, start: "", end: '', location: 'Drankor, Drankorian Empire'}
-- {type: home, start: "", end: '', location: 'unknown'}
+- {type: away, start: "", end: '', location: ''}
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Summary
 >undead, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Drankor]], [[Drankorian Empire]]
->> Based in: unknown, unknown
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ### Apollyon
 

@@ -15,9 +15,8 @@ whereabouts:
 # Grumella
 >[!info]+ Biographical Summary
 >[[Orcs|orc]], she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: north of [[Voltara]], [[The West Coast Region]]
->> Based in: north of [[Voltara]], [[The West Coast Region]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+> Member of: [[Grumella's Horde]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The commander and leader of [[Grumella's Horde]], a large group of [[Orcs]] that occupied the plains north of [[Voltara]] in the spring and summer of 1747, until being killed by the Grey Tempest in October 1747. 

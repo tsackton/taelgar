@@ -11,6 +11,6 @@ died: 1545
 ---
 # Airion
 >[!info]+ Biographical Summary
->human, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[[Humans|human]], he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 

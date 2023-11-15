@@ -17,11 +17,10 @@ whereabouts:
 # Loremaster Azogar
 >[!info]+ Biographical Summary
 >[[Orcs|orc]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Xurkhaz]], Central Lowlands
->> Based in: Uzgukar, [[Xurkhaz]], Central Lowlands
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 9th, 1748: Uzgukar, [[Xurkhaz]], Central Lowlands %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+> Member of: The People of the Rainbow
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>>%%^Campaign:DuFr%% Last met by [[The Dunmar Fellowship|The Side Quests]] on December 9th, 1748 in: [[Xurkhaz]], Central Lowlands %%^End%%
 
 Azogar is an old [[Orcs|orc]] loremaster from [[Xurkhaz]], one of the unchained [[Orcs]] of the [[People of the Rainbow]]. He has dark green skin, which is almost black in patches, and long, but thinning white hair. He is frail and uses a cane to walk. Generally prefers simple robes and understated dress. Although he speaks with a wavering voice, he is clear and precise in this language. 
 

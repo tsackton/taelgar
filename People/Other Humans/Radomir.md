@@ -8,14 +8,13 @@ species: human
 ancestry: Urskan
 gender: male
 whereabouts:
-- {type: home, start: 1710-01-02, end: '', location: 'unknown, Ursk'}
+- {type: home, start: , end: , location: 'Ursk'}
 ---
 # Radomir
 >[!info]+ Biographical Summary
->human (Urskan), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: unknown, [[Ursk]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  (Urskan), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A man from a strange place to the east.
 
