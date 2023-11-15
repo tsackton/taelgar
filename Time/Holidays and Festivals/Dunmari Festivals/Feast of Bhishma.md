@@ -1,6 +1,6 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+tags: [status/wip, holiday]
+displayDefaults: {startStatus: began, startPrefix: began, endPrefix: ended, endStatus: ended}
 campaignInfo: []
 name: Feast of Bhishma
 fc-date: {day: 17, month: 6, year: 1748}

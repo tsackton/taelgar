@@ -1,15 +1,16 @@
 ---
-tags: []
+tags: [status/wip, holiday]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Pyravela
+pronunciation: PIE-ra-VEL-a
 fc-date: {day: 29, month: 12}
 fc-end: {day: 31, month: 12}
 ---
 
 
 # Pyravela
-(pie-ra-vel-a)
+*(pie-ra-vel-a)*
 
 An ancient [[Mos Numena]] holiday, celebrated on the last three days of the year in the Drankorian reckoning, December 29-31. 
 

@@ -1,12 +1,16 @@
 ---
-type: Item
+tags: [item]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed }
+unique: true
 destroyed: 1545
 owner: Beryl
 magical: true
+name: Analadin
 ---
 # Analadin
->[!info]+ Magical Item
->Owner: [[Beryl]]
+>[!info]+ Item Info
+>(unique magical item)
+> Owner: undefined
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 
 A staff carried by [[Beryl]] during the Great War, now said to be part of the [[Fox and Hunter]]. It was said to have granted [[Beryl]] extraordinary perception and willpower.

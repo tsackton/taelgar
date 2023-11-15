@@ -1,0 +1,3 @@
+---
+tags: [status/stub, holiday]
+---

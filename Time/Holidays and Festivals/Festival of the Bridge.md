@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [holiday]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Festival of the Bridge
