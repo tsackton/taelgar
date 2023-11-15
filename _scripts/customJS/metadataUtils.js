@@ -95,12 +95,13 @@ class metadataUtils {
 
             let fm = window.app.metadataCache.getFileCache(file)
             if (!fm.frontmatter.tags || fm.frontmatter.tags.length == 0) return undefined
-            if (fm.frontmatter.tags.filter(f => f.startsWith("organization")).length == 0 || fm.frontmatter.orgType != "family") return undefined;
+            if (fm.frontmatter.orgType != "family") return undefined
+            if (fm.frontmatter.tags.filter(f => f.startsWith("organization")).length == 0) return undefined;
             return this.get_Name({ file: file, frontmatter: fm.frontmatter }, link)
 
         }
 
-        return input
+        return undefined
     }
 
     get_NameForPossibleLink(input, link, requiredTag) {
@@ -137,11 +138,13 @@ class metadataUtils {
             else if (input.frontmatter.name) {
                 descriptiveName = input.frontmatter.name
             }
+        } else if (input.frontmatter && input.frontmatter.campaign) {
+            if (input.frontmatter.sessionNumber) {
+                descriptiveName = input.frontmatter.campaign + " " + input.frontmatter.sessionNumber
+            }
         }
 
-
         if (descriptiveName == "Untitled") return undefined;
-
 
         if (!link) return descriptiveName;
         else if (descriptiveName == fileName) return "[[" + descriptiveName + "]]"

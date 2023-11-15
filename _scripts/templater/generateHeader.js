@@ -122,6 +122,7 @@ async function generateHeader(tp) {
         }
 
         let familyDisplay = undefined
+        let hasOrg = false;
         let orgText = undefined
 
         if (tp.frontmatter.affiliations && tp.frontmatter.affiliations.length > 0) {
@@ -131,10 +132,12 @@ async function generateHeader(tp) {
                 let aff = tp.frontmatter.affiliations[i]
                 if (!familyDisplay) {
                     familyDisplay = metadataUtils.get_NameForFamily(aff, true)
+                    console.log(familyDisplay)
                     if (familyDisplay) continue
                 }
 
                 orgText += metadataUtils.get_NameForPossibleLink(aff, true)
+                hasOrg = true
                 if (i < tp.frontmatter.affiliations.length - 1) orgText += ", "
             }
         }
@@ -142,7 +145,7 @@ async function generateHeader(tp) {
         if (familyDisplay) {
             output += " of " + familyDisplay
         }
-        if (orgText) {
+        if (hasOrg) {
             output += orgText
         }
 
