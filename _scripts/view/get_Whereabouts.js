@@ -11,7 +11,7 @@ function get_Whereabouts(metadata) {
     let isPageAlive = pageData.isAlive
     if (!isPageAlive) pageYear = pageData.endDate
 
-    let whereabout = WhereaboutsManager.getWhereabouts(metadata, pageYear)    
+    let whereabout = WhereaboutsManager.getWhereabouts(metadata, pageYear)
     let showOrigin = whereabout.origin && whereabout.origin.location && (!whereabout.home || whereabout.origin.location != whereabout.home.location)
 
     let displayString = "";
@@ -33,27 +33,36 @@ function get_Whereabouts(metadata) {
             return displayString;
     }
 
+    if ((whereabout.current && !whereabout.current.location) || (whereabout.lastKnown && !whereabout.lastKnown.location)) {
+        if (isPageAlive) {
+            displayString += "\n Current location: Unknown";
+        }
+
+        return displayString;
+    }
+
     if (whereabout.current && whereabout.current.location) {
         if (isPageAlive) {
             displayString += "\nCurrent location: (as of " + pageYear.display + "): " + metadataUtils.get_Location(whereabout.current)
         }
         else {
-            let capitalizedEnd = pageData.endDescriptor.charAt(0).toUpperCase() + pageData.endDescriptor.slice(1);        
+            let capitalizedEnd = pageData.endDescriptor.charAt(0).toUpperCase() + pageData.endDescriptor.slice(1);
             displayString += "\n " + capitalizedEnd + " in " + metadataUtils.get_Location(whereabout.current)
         }
         return displayString;
     }
 
     if (whereabout.lastKnown && whereabout.lastKnown.location) {
-        let eventDateForLastKnown = whereabout.lastKnown.logicalStart.sort < pageYear.sort ? whereabout.lastKnown.awayEnd.display : whereabout.lastKnown.start.display        
-        displayString += "\nLast known location: (as of " + eventDateForLastKnown + "): " + metadataUtils.get_Location(whereabout.lastKnown)
 
+        displayString += "\nLast known location: (as of " + whereabout.lastKnown.awayEnd.display + "): " + metadataUtils.get_Location(whereabout.lastKnown)
         if (isPageAlive) {
             displayString += "\n Current location: Unknown";
         }
-        
+
         return displayString;
     }
+
+    return displayString;
 }
 
 return get_Whereabouts(dv.current());
