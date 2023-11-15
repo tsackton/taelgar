@@ -89,13 +89,33 @@ class metadataUtils {
         }
     }
 
-    get_NameForPossibleLink(input, link) {
+    get_NameForFamily(input, link) {
         let file = window.app.metadataCache.getFirstLinkpathDest(input, ".");
         if (file) {
-            if (file) {
-                let fm = window.app.metadataCache.getFileCache(file)
-                return this.get_Name({ file: file, frontmatter: fm.frontmatter }, true)
+
+            let fm = window.app.metadataCache.getFileCache(file)
+            if (!fm.frontmatter.tags || fm.frontmatter.tags.length == 0) return undefined
+            if (fm.frontmatter.tags.filter(f => f.startsWith("organization")).length == 0 || fm.frontmatter.orgType != "family") return undefined;
+            return this.get_Name({ file: file, frontmatter: fm.frontmatter }, link)
+
+        }
+
+        return input
+    }
+
+    get_NameForPossibleLink(input, link, requiredTag) {
+        let file = window.app.metadataCache.getFirstLinkpathDest(input, ".");
+        if (file) {
+
+            let fm = window.app.metadataCache.getFileCache(file)
+
+            if (requiredTag) {
+                if (!fm.frontmatter.tags || fm.frontmatter.tags.length == 0) return undefined
+                if (fm.frontmatter.tags.filter(f => f.startsWith(requiredTag)).length == 0) return undefined;
             }
+
+            return this.get_Name({ file: file, frontmatter: fm.frontmatter }, link)
+
         }
 
         return input
@@ -339,10 +359,10 @@ class metadataUtils {
         }
 
         if (metadata.displayDefaults) {
-            status.startDescriptor =  metadata.displayDefaults.startStatus
+            status.startDescriptor = metadata.displayDefaults.startStatus
             status.endDescriptor = metadata.displayDefaults.endStatus
             status.startPrefix = metadata.displayDefaults.startPrefix
-            status.endPrefix = metadata.displayDefaults.endPrefix           
+            status.endPrefix = metadata.displayDefaults.endPrefix
         }
 
 
@@ -383,7 +403,7 @@ class metadataUtils {
 
         if (!status.startPrefix) status.startPrefix = status.startDescriptor[0] + "."
         if (!status.endPrefix) status.endPrefix = status.endDescriptor[0] + "."
-        
+
         return status;
     }
 

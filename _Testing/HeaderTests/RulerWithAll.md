@@ -12,8 +12,9 @@ gender: enby
 title: Queen
 reignStart: 1660
 reignEnd: 1721
-rulerOf: Sembara
+leaderOf: [Sembara, Tyrwingha, Army of the West]
 pronunciation: Sm-n-p-c
+affiliations: [OrgThatIsFamily, OrganizationWithAll, NotLinked]
 whereabouts:
 - {type: home, location: 'Taviose'}
 - {type: home, end: 1799-01-12, location: 'Cleenseau'}
@@ -22,10 +23,10 @@ whereabouts:
 # Queen Some NPC
 *(Sm-n-p-c)*
 >[!info]+ Biographical Summary
->Queen of [[Sembara]], [[The Western Green Sea Region]]
->[[Elves|elf]]  ([[Tyrwingha|Tyrwinghan]]), they/them
+>Queen of [[Sembara]] and [[Tyrwingha]]
+>[[Elves|elf]]  ([[Tyrwingha|Tyrwinghan]]), they/them of [[OrgThatIsFamily|The Family of Someones]]
+> Member of: [[OrganizationWithAll|Something Org Something]], NotLinked
 >`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka 25]])
 >`$=dv.view("_scripts/view/get_RegnalValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 >>%%^Campaign:DuFr%% Last met by [[The Dunmar Fellowship|The Side Quests]] on October 20th, 1719 in: [[Valit]], [[Barony of Aveil]], [[Sembara]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
