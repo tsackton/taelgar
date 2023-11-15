@@ -89,7 +89,7 @@ class metadataUtils {
         }
     }
 
-    get_NameForFamily(input, link) {
+    get_NameForFamily(input, link, titleCase) {
         let file = window.app.metadataCache.getFirstLinkpathDest(input, ".");
         if (file) {
 
@@ -97,14 +97,14 @@ class metadataUtils {
             if (!fm.frontmatter.tags || fm.frontmatter.tags.length == 0) return undefined
             if (fm.frontmatter.orgType != "family") return undefined
             if (fm.frontmatter.tags.filter(f => f.startsWith("organization")).length == 0) return undefined;
-            return this.get_Name({ file: file, frontmatter: fm.frontmatter }, link)
+            return this.get_Name({ file: file, frontmatter: fm.frontmatter }, link, titleCase)
 
         }
 
         return undefined
     }
 
-    get_NameForPossibleLink(input, link, requiredTag) {
+    get_NameForPossibleLink(input, link, requiredTag, titleCase) {
         let file = window.app.metadataCache.getFirstLinkpathDest(input, ".");
         if (file) {
 
@@ -115,14 +115,24 @@ class metadataUtils {
                 if (fm.frontmatter.tags.filter(f => f.startsWith(requiredTag)).length == 0) return undefined;
             }
 
-            return this.get_Name({ file: file, frontmatter: fm.frontmatter }, link)
+            return this.get_Name({ file: file, frontmatter: fm.frontmatter }, link, titleCase)
 
         }
 
         return "[[" + input + "]]"
     }
 
-    get_Name(input, link) {
+    get_Name(input, link, titleCase) {
+
+        function toTitle(str) {
+            const lowers = ['A', 'An', 'The', 'And', 'But', 'Or', 'For', 'Nor', 'As', 'At', 'By', 'For', 'From', 'In', 'Into', 'Near', 'Of', 'On', 'Onto', 'To', 'With'];
+
+            return str.
+                split(' ').
+                map((elem, index) => lowers.findIndex(item => elem.toLowerCase() === item.toLowerCase()) >= 0 && index > 0 ? elem : (elem[0].toUpperCase() + elem.substr(1))).
+                join(' ')
+        }
+
         // we have three possible inputs - a templater "tp" object or a dataview "file" object or a constructed object where x.file is obsidian file and x.frontmatter is metadata
 
         let fileName = input.file ? (input.file.title ?? input.file.basename ?? input.file.name) : input.name;
@@ -145,6 +155,11 @@ class metadataUtils {
         }
 
         if (descriptiveName == "Untitled") return undefined;
+
+        if (titleCase) {
+            descriptiveName = toTitle(descriptiveName)
+        }
+
 
         if (!link) return descriptiveName;
         else if (descriptiveName == fileName) return "[[" + descriptiveName + "]]"
@@ -254,7 +269,7 @@ class metadataUtils {
         return undefined;
     }
 
-    get_LocationFromPieces(singleLoc, depth) {
+    get_LocationFromPieces(singleLoc, depth, titleCase) {
 
         if (singleLoc == undefined) return "Unknown"
         if (singleLoc == "") return "Unknown"
@@ -265,9 +280,9 @@ class metadataUtils {
                 let file = window.app.vault.getFiles().find(f => f.basename == singleLoc);
                 if (file) {
                     let fm = window.app.metadataCache.getFileCache(file)
-                    let name = this.get_Name({ file: file, frontmatter: fm.frontmatter }, true)
+                    let name = this.get_Name({ file: file, frontmatter: fm.frontmatter }, true, titleCase)
                     if (fm && fm.frontmatter && fm.frontmatter.partOf && depth < 2) {
-                        let parent = this.get_LocationFromPieces(fm.frontmatter.partOf, depth + 1)
+                        let parent = this.get_LocationFromPieces(fm.frontmatter.partOf, depth + 1, true)
                         return name + ", " + parent
                     }
 
@@ -279,11 +294,7 @@ class metadataUtils {
 
             let locArrayValues = singleLoc.split(",").map(function (f) {
                 let pieceValue = f.trim();
-                let file = window.app.vault.getFiles().find(f => f.basename == pieceValue);
-                if (file != undefined) {
-                    return "[[" + pieceValue + "]]";
-                }
-                return pieceValue;
+                return "[[" + pieceValue + "]]";
             });
 
             return locArrayValues.join(', ');
@@ -293,16 +304,16 @@ class metadataUtils {
     }
 
 
-    get_Location(place) {
+    get_Location(place, titleCase) {
 
 
         if (place == undefined) return "";
-        if (place.region && !place.place) return this.get_LocationFromPieces(place.region, 0)
-        if (!place.region && place.place) return this.get_LocationFromPieces(place.place, 0)
-        if (place.region && place.place) return this.get_LocationFromPieces(place.place + ", " + place.region, 0)
-        if (place.location) return this.get_LocationFromPieces(place.location, 0)
+        if (place.region && !place.place) return this.get_LocationFromPieces(place.region, 0, titleCase)
+        if (!place.region && place.place) return this.get_LocationFromPieces(place.place, 0, titleCase)
+        if (place.region && place.place) return this.get_LocationFromPieces(place.place + ", " + place.region, 0, titleCase)
+        if (place.location) return this.get_LocationFromPieces(place.location, 0, titleCase)
 
-        return this.get_LocationFromPieces(place, 0)
+        return this.get_LocationFromPieces(place, 0, titleCase)
     }
 
     get_pageEventsDate(metadata) {
