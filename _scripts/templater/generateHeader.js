@@ -260,7 +260,7 @@ async function generateHeader(tp) {
 
             if (tp.frontmatter.placeType) {
                 let firstChar = tp.frontmatter.placeType[0]
-                if (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u') {
+                if (!tp.frontmatter.placeType.startsWith("uni") && (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u' &&)) {
                     output += "\n> an " + tp.frontmatter.placeType + " in " + locationDisplay
                 } else {
                     output += "\n> a " + tp.frontmatter.placeType + " in " + locationDisplay

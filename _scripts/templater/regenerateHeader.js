@@ -25,16 +25,28 @@ async function regenerateHeader(tp) {
 
     // find the end of the header block -- the first newline (blank line) after the YAML block
     let indexOfHeaderBlockEnd = currentContents.findIndex((f, i) => i > indexOfYamlEnd && f.trim() == "");
-    
+
     // the file is ONLY yaml
     if (indexOfHeaderBlockEnd == -1) {
         indexOfHeaderBlockEnd = currentContents.length;
     }
+
+    // starting from the first newline, find the first non-newline
+    let emptySpaceEnd = currentContents.findIndex((f, i) => i > indexOfHeaderBlockEnd && f.trim() != "");
+    if (emptySpaceEnd != -1) {
+        indexOfHeaderBlockEnd = emptySpaceEnd - 1
+    }
+    
       
     if (currentContents[indexOfYamlEnd+1] && currentContents[indexOfYamlEnd+1].startsWith("<%"))
     {
         new Notice("This file appears to have an unprocessed template. Please run the template before running this file. ALT-R is the hotkey");
         return;
+    }
+
+    if (currentContents.slice(indexOfYamlEnd, indexOfHeaderBlockEnd).filter(f => f.trim().startsWith("#")).length == 0) {
+        // there is no H1 block in the "header" so it cannot have been an actual header. 
+        indexOfHeaderBlockEnd = indexOfYamlEnd
     }
 
     // remove the header block
