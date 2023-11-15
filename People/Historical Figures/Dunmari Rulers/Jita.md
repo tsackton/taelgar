@@ -10,17 +10,19 @@ gender: female
 aliases: [Samraat Jita]
 title: Samraat Dharajun
 died: 1460
+affiliations: [Dharajun Dynasty]
+leaderOf: [Dunmar]
 whereabouts:
-- {type: home, start: '', end: '', location: 'plains of Songara, Dunmar'}
-- {type: home, start: 1405-01-01, end: '', location: 'Tokra, Dunmar'}
+- {type: home, location: 'plains of Songara, Dunmar'}
+- {type: home, location: 'Tokra, Dunmar'}
 ---
 # Samraat Dharajun Jita
 >[!info]+ Biographical Summary
->human (Dunmari), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: plains of Songara, [[Dunmar]]
->> Based in: [[Tokra]], [[Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>Samraat Dharajun of [[Dunmar]]
+>[[Humans|human]]  ([[Dunmar|Dunmari]]), she/her of [[Dharajun Dynasty|the Dharajun dynasty]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>`$=dv.view("_scripts/view/get_RegnalValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The founding ruler and Samraat of the Dharajun dynasty, associated with [[Chidya]] and often called the dynasty of the horse. 
 

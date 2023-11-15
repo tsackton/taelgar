@@ -8,15 +8,18 @@ species: human
 ancestry: Dunmari
 gender: male
 reignStart:
+leaderOf: [Dunmar]
+title: Samraat Aatmaj
+affiliations: [Aatmaji Dynasty]
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 ---
-# Dasa
+# Samraat Aatmaj Dasa
 >[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>Samraat Aatmaj of [[Dunmar]]
+>[[Humans|human]]  ([[Dunmar|Dunmari]]), he/him of [[Aatmaji Dynasty|the Aatmaji dynasty]]
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 
-The last Samraat of the [[Aatmaji dynasty]]. 
+The last Samraat of the [[Aatmaji Dynasty]]. 
 
 His tomb is among the monuments in Kharsan. 
 
