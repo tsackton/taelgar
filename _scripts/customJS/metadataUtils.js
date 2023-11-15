@@ -368,7 +368,6 @@ class metadataUtils {
             status.endPrefix = metadata.displayDefaults.endPrefix
         }
 
-
         if (metadata.born) {
             status.startDate = this.parse_date_to_events_date(metadata.born, false);
             if (!status.startDescriptor) status.startDescriptor = "born";
@@ -395,6 +394,7 @@ class metadataUtils {
             status.isAlive = status.isCreated
         }
 
+
         if (status.startDate) {
             if (status.isAlive) {
                 status.age = this.privatehelper_getAge(targetDate, status.startDate)
@@ -405,7 +405,7 @@ class metadataUtils {
         }
 
         if (!status.startPrefix) status.startPrefix = status.startDescriptor[0] + "."
-        if (!status.endPrefix) status.endPrefix = status.endDescriptor[0] + "."
+        if (!status.endPrefix && status.endDescriptor) status.endPrefix = status.endDescriptor[0] + "."
 
         return status;
     }
