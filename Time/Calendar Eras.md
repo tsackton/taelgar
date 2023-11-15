@@ -2,13 +2,13 @@
 
 There are many different calendar eras in use across the world of Taelgar. The two most commonly used, both in these notes and by scholars and the learned across Taelgar are Drankorian Reckoning (DR), and the Dwarven Count of Years (CY). 
 
-> Note: The founding of [[Drankor]] was in 4133 in the Dwarven Reckoning, so to convert between Dwarven and Drankorian reckoning, add or subtract 4133
+> Note: [[Drankor]] founded towards the end of the year 4132 in the Dwarven Reckoning. To approximately convert a year, add or subtract 4133.
 
 ## Drankorian Reckoning
 The system of dates and years developed by the world-spanning [[Drankorian Empire]], dating years from the founding of the city of [[Drankor]]. The new year in Drankorian Reckoning begins on January 1st. Usually abbreviated DR. 
 
 ## Dwarven Count of Years
-The system of dates and years used by Dwarven historians, who count each year since the material plane was created and time began to flow in a predictable way, at the end of [[The Riving]]. The new year in Dwarven Reckoning begins on March 17th of the [[Humans|human]] calendar. 
+The system of dates and years used by Dwarven historians, who count each year since the material plane was created and time began to flow in a predictable way, at the end of [[The Riving]]. The new year in Dwarven Reckoning begins on March 17th of the [[Humans|human]] calendar. Usually abbreviated CY. 
 
 ## Other Calendar Eras
 

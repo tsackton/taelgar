@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [status/notes, holiday]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Viatela

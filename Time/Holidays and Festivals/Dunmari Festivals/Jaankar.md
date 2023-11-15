@@ -1,3 +1,8 @@
+---
+tags: [holiday, status/wip]
+---
+
+
 # Jaankar
 
 [[Chidya]]'s Feast Day, celebrated around July 21/22, when the month of the summer solstice ends. 
