@@ -5,6 +5,7 @@ import os
 import sys
 from pathlib import Path
 from metadataUtils import *
+from dateFunctions import *
 import importlib.util
 import shutil
 
@@ -12,17 +13,10 @@ import shutil
 TODO:
 - Add --filter2 option
 - Fix functions so that rather than overloading metadata dict, create a new "globs" object to pass around
+- Add --verebose option for debugging
 """
 
 debug = True
-
-def find_end_of_frontmatter(lines):
-    for i, line in enumerate(lines):
-        # Check for '---' at the end of a line (with or without a newline character)
-        if line.strip() == '---' and i != 0:
-            return i
-    return 0  # Indicates that the closing '---' was not found
-
 
 ## import dview_functions.py as module
 dview_file_name = "dview_functions"
@@ -35,6 +29,16 @@ class CustomDumper(yaml.SafeDumper):
 
 # Add custom representation for None (null) values
 CustomDumper.add_representer(type(None), CustomDumper.represent_none)
+
+
+def find_end_of_frontmatter(lines):
+    for i, line in enumerate(lines):
+        # Check for '---' at the end of a line (with or without a newline character)
+        if line.strip() == '---' and i != 0:
+            return i
+    return 0  # Indicates that the closing '---' was not found
+
+
 
 def dict_to_yaml(d):
     yaml_lines = []

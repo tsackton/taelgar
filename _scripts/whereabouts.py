@@ -15,10 +15,12 @@ def filter_whereabouts(whereabouts, target_date, type=None, allow_past=False):
             continue
         else:
             #valid type, or no type specified
-            start_date = clean_date(entry['start']) if "start" in entry else date.min
-            end_date = clean_date(entry['end'], end=True) if "end" in entry else date.max
+            start_date = clean_date(entry['start']) if "start" in entry and entry['start'] else date.min
+            end_date = clean_date(entry['end'], end=True) if "end" in entry and entry['end'] else date.max
             entry["recency"] = (target_date - start_date).days
             entry["duration"] = (end_date - start_date).days
+            entry["start_date"] = start_date
+            entry["end_date"] = end_date
             if allow_past and start_date <= target_date:
                 valid_whereabouts.append(entry)
             elif start_date <= target_date and end_date >= target_date:
@@ -55,21 +57,21 @@ def get_whereabouts(metadata, target_date):
         current_location = None
     else:
         current_location = min(valid_current, key=lambda x: (x["recency"], x["duration"])) #this is not quite right as it will return the first location in the list if there are multiple with the same recency and duration, not the last
-        if current_location["end"] is None:
+        if "end_date" in current_location and current_location["end_date"] is None or "end_date" not in current_location:
             current_location = None
 
     # Get the origin as the earliest home in the metadata where start date >= born
     if not valid_origins:
         origin = None
     else:
-        origin = min(valid_origins, key=lambda x: x["start"])
-        if clean_date(origin['start']) < born:
+        origin = min(valid_origins, key=lambda x: x["start_date"])
+        if clean_date(origin['start_date']) < born:
             origin = None
     
     # Get the known location as the latest defined location in the metadata, where 
     if not valid_known:
         known_location = None
-    known_location = max(valid_known, key=lambda x: x["start"])
+    known_location = max(valid_known, key=lambda x: x["start_date"])
 
     return { "home" : current_home, "current" : current_location, "origin" : origin, "known" : known_location }
 
