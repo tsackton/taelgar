@@ -1,6 +1,6 @@
 ---
 tags: [dufr/aware, person, dufr/minor]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: petrified}
 campaignInfo: []
 name: Arcus
 born: 1723
@@ -10,15 +10,14 @@ gender: male
 died: 1748
 affiliations: [Society of the Open Scroll]
 whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1748-11-23, end: '', location: 'petrified in a fort east of Gomat, Nashtkar'}
+- {type: home, location: 'Chardon, Chardonian Empire'}
 ---
 # Arcus
 >[!info]+ Biographical Summary
->[[Humans|human]] (Chardonian), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Chardon]], [[Chardonian Empire]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 An adventurer and treasure hunter from the [[Society of the Open Scroll]], found petrified in the fort east of [[Gomat]]. 
 
