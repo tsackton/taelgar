@@ -1,4 +1,10 @@
-### Mirror of Soul Trapping
+---
+typeOf: mirror
+tags: [item]
+---
+# Mirror of Soul Trapping
+>[!info]+ Item Info
+>(magical mirror)
 
 This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
 
