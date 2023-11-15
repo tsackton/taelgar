@@ -2,7 +2,7 @@
 tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: ended }
 campaignInfo: []
-name: The House of Sewick
+name: the House of Sewick
 orgType: family
 destroyed: 1720
 aliases: [Sewick]
