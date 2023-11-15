@@ -12,10 +12,9 @@ whereabouts:
 ---
 # Lucius
 >[!info]+ Biographical Summary
->human (Drankorian), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Luminatia]], [[Drankorian Empire]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A boy of about 5, who lives with his mother, [[Livia]], in the village of [[Luminatia]], near [[Lake Valandros]] in the [[Chardonian Empire]]. He found a stone, in which he believes his imaginary friend Benji lives, in his [[Claudio|father's]] study, after his father abandoned the family. 
 

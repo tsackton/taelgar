@@ -13,10 +13,10 @@ whereabouts:
 ---
 # Roscelia
 >[!info]+ Biographical Summary
->human (Chardonian), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Chardon]], [[Chardonian Empire]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), she/her of Faculty of Magic
+> Member of: [[University of Chardon|The University of Chardon]], [[Society of the Open Scroll]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An elderly magician, prim and proper, a member of the Faculty of Magic at the [[University of Chardon]] and [[Kaeso]]'s mentor.
 

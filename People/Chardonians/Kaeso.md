@@ -2,7 +2,7 @@
 tags: [person, dufr/met, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-- {campaign: DuFr, date: 1748-10-23, type: met}
+- {campaign: DuFr, date: 1748-10-12, type: scryed}
 name: Kaeso
 born: 1691
 species: human
@@ -21,12 +21,11 @@ whereabouts:
 ---
 # Kaeso
 >[!info]+ Biographical Summary
->human (Chardonian), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Chardon]], [[Chardonian Empire]]
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->>%%^Campaign:DuFr%% Last seen by The Side Quests at October 23rd, 1748: [[Hamri]], [[Mawakel Peninsula]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: [[Shakun Mystai]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>>%%^Campaign:DuFr%% Last scryed by [[The Dunmar Fellowship|The Side Quests]] on October 12th, 1748 in: [[Hamri]], [[Mawakel Peninsula]] %%^End%%
 
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 

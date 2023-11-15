@@ -7,10 +7,12 @@ born:
 species: hobgoblin
 ancestry:
 gender: female
+whereabouts: 
+- { type: "away", start: "", end: 1750, location: Mirror of Soul Trapping }
 ---
 # Revaka
 >[!info]+ Biographical Summary
->hobgoblin, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[[Hobgoblins|hobgoblin]], she/her
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A hobgoblin trapped in the [[Mirror of Soul Trapping]]. A fairly powerful sorcerer from before the [[Events/1500s/Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
