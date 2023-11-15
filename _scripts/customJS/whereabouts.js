@@ -38,7 +38,8 @@ class WhereaboutsManager {
 
         let logicalEnd = endDate ?? dateMax
         let logicalStart = startDate ?? dateMin
-        let awayEnd = endDate ?? (w.type == "home" ? dateMax : DateManager.parse_date_to_events_date(w.start, true))
+        let awayEnd = endDate ?? (w.type == "home" ? dateMax 
+                    : DateManager.parse_date_to_events_date(w.start, true) ?? dateMax)
 
         return {
             start: startDate,

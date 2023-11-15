@@ -4,7 +4,8 @@
         {
             "prefix": "clee",
             "campaignName": "Cleenseau",
-            "partyName" : "The Andover Crowd"
+            "partyName" : "The Andover Crowd",
+            "partyFile" : "Heroes of Cleenseau"
         },
         {
             "prefix": "DuFr",
@@ -15,7 +16,8 @@
         {
             "prefix": "GW",
             "campaignName": "The Great War",
-            "partyName" : "The Highschoolers"
+            "partyName" : "The Highschoolers",
+            "partyFile" : "The Heroes of the Great War"
         }
     ],
     "types": [

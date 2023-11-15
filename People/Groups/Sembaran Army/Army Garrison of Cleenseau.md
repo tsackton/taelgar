@@ -1,11 +1,13 @@
 ---
-tags: [place]
+tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Army Garrison of Cleenseau
-placeType:
-partOf:
+partOf: Army of the Wes
 ---
+# Army Garrison of Cleenseau
+>[!info]+ Summary
+> Parent Organization: [[Army of the West]]
 
 The Cleenseau Garrison is the furthest east-most garrison of the [[Army of the West]]. It is commanded by [[Ida Rosfeld|Captain Ida Rosfeld]] and consists of two patrols:
 
