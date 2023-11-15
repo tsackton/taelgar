@@ -87,11 +87,16 @@ async function generateHeader(tp) {
         }
 
 
-        if (tp.frontmatter.rulerOf && isRuler) {
-            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.rulerOf)
+        if (tp.frontmatter.leaderOf && tp.frontmatter.leaderOf.length > 0) {
             let title = tp.frontmatter.title ?? "Ruler"
-            if (locationDisplay) {
-                output += "\n>" + title + " of " + locationDisplay
+
+            output += "\n>" + title + " of "
+            let matched = tp.frontmatter.leaderOf.map(f => metadataUtils.get_NameForPossibleLink(f, true, "place")).filter(f => f!=undefined)
+            
+            for (let i = 0; i < matched.length; i++) {
+                let rl = matched[i]
+                output += rl                
+                if (i < matched.length - 1) output += " and "
             }
         }
 
@@ -118,12 +123,44 @@ async function generateHeader(tp) {
             elfDisplay = " ([[The Cycle of Generations|ka " + (tp.frontmatter.ka ?? "unknown") + "]])"
         }
 
+        let familyDisplay = undefined
+        let orgText = undefined
+
+        if (tp.frontmatter.affiliations && tp.frontmatter.affiliations.length > 0) {          
+            orgText = "\n> Member of: "
+            for (let i = 0; i < tp.frontmatter.affiliations.length; i++) {
+
+                let aff = tp.frontmatter.affiliations[i]
+                if (!familyDisplay) {
+                    familyDisplay = metadataUtils.get_NameForFamily(aff, true)
+                    if (familyDisplay) continue
+                }
+              
+                orgText += metadataUtils.get_NameForPossibleLink(aff, true)                
+                if (i < tp.frontmatter.affiliations.length - 1) orgText += ", "
+            }
+        }
+        
+
+        if (familyDisplay) {            
+            output += " of " + familyDisplay
+        }
+
+    
+        if (orgText) {
+            output += orgText
+        }
+
         if (hasPageDates) {
             output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`' + elfDisplay
         }
+
+        if (hasReignInfo || (isRuler || tp.frontmatter.leaderOf)) {
+            output += "\n>" + '`$=dv.view("_scripts/view/get_RegnalValue")`'
+        }
     }
 
-    if (isOrganization && (hasPageDates || tp.frontmatter.basedIn)) {
+    if (isOrganization && (hasPageDates || tp.frontmatter.basedIn || tp.frontmatter.partOf)) {
         output += ">[!info]+ Summary"
         if (hasPageDates) output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
         if (tp.frontmatter.basedIn) {
@@ -132,12 +169,15 @@ async function generateHeader(tp) {
                 output += "\n> Based in: " + locationDisplay
             }
         }
+        if (tp.frontmatter.partOf) {
+            let partOf = metadataUtils.get_NameForPossibleLink(tp.frontmatter.partOf, true, "organization")
+            if (partOf) {
+                output += "\n> Parent Organization: " + partOf
+            }
+            
+        }
     }
-
-    if (hasReignInfo || (isRuler && tp.frontmatter.rulerOf)) {
-        output += "\n>" + '`$=dv.view("_scripts/view/get_RegnalValue")`'
-    }
-
+    
     if (isItem) {
         output += ">[!info]+ Item Info"
 
@@ -157,7 +197,7 @@ async function generateHeader(tp) {
         else if (tp.frontmatter.unique == false && tp.frontmatter.magical == true) {
             itemType = "(magical item)"
         }
-        else  /*if (tp.frontmatter.unique == false && tp.frontmatter.magical == false)*/ { 
+        else  /*if (tp.frontmatter.unique == false && tp.frontmatter.magical == false)*/ {
             itemType = "(mundane item)"
         }
 
@@ -212,7 +252,7 @@ async function generateHeader(tp) {
     }
 
     if (tp.frontmatter.whereabouts && (isPerson)) {
-        output += "\n>> `$=dv.view(\"_scripts/view/get_HomeWhereabouts\")`";
+        output += "\n>> `$=dv.view(\"_scripts/view/get_Whereabouts\")`";
 
         if (tp.frontmatter.campaignInfo) {
             tp.frontmatter.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {
@@ -228,9 +268,7 @@ async function generateHeader(tp) {
                     }
                 }
             });
-        }
-
-        output += "\n>> `$=dv.view(\"_scripts/view/get_CurrentWhereabouts\")`";
+        }         
     }
 
     return output
