@@ -119,7 +119,7 @@ class metadataUtils {
 
         }
 
-        return input
+        return "[[" + input + "]]"
     }
 
     get_Name(input, link) {
@@ -273,6 +273,8 @@ class metadataUtils {
 
                     return name
                 }
+
+                return "[[" + singleLoc + "]]"
             }
 
             let locArrayValues = singleLoc.split(",").map(function (f) {
