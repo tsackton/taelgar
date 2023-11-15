@@ -1,7 +1,7 @@
 ---
 tags:
   - place
-  - status/stub
+  - status/notes
 displayDefaults:
   startStatus: founded
   startPrefix: founded
@@ -15,6 +15,8 @@ aliases:
 ---
 
 # The Green Sea
+>[!info]+ Summary
+
 
 %% named for the phytoplankton blooms that appear in the summer, driven by upwelling associated with the monsoon wind 
 

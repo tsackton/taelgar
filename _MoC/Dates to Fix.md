@@ -3,7 +3,7 @@ This file contains search results using embedded `query` blocks that contain dat
 # People with dates
 
 ```query
-(/DR\s*\d+/ OR /\d+/s*DR/ OR /\d+\s+\w+\s+\d+:/) -tag:#event-source -tag:#timeline ([type:NPC] OR [type:PC] OR [type:Organization] OR [type:Ruler])
+(/DR\s*\d+/ OR /\d+/s*DR/ OR /\d+\s+\w+\s+\d+:/) -tag:#event-source -tag:#timeline path:People
 ```
 # Campaign Notes with dates
 
@@ -14,6 +14,6 @@ This file contains search results using embedded `query` blocks that contain dat
 # Other Notes
 
 ```query
-(/DR\s*\d+/ OR /\d+/s*DR/ OR /\d+\s+\w+\s+\d+:/) -tag:#event-source -tag:#timeline -[type:NPC] -path:Campaign -path:Worldbuilding -path:_DM -[type:PC] -[type:Organization] -[type:Ruler] -path:_templates -path:"Primary Sources"
+(/DR\s*\d+/ OR /\d+/s*DR/ OR /\d+\s+\w+\s+\d+:/) -tag:#event-source -tag:#timeline -path:People -path:Campaign -path:Worldbuilding -path:_DM -path:_templates -path:"Primary Sources"
 ```
 

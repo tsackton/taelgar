@@ -16,11 +16,10 @@ whereabouts:
 ---
 # Samraat Nayan Karnas
 >[!info]+ Biographical Summary
->[[Humans|human]] (Dunmari), he/him
+>[[Humans|human]]  ([[Dunmar|Dunmari]]), he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The current Samraat of [[Dunmar]], of the Nayan dynasty. Brother to [[Sura]], whom he thought dead. 
 

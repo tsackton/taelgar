@@ -1,5 +1,5 @@
 ---
-tags: [pc/greatwar, pc, person]
+tags: [pc/greatwar, pc, person, status/stub]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Kyr
@@ -8,11 +8,14 @@ species: lizardfolk
 ancestry:
 gender: male
 player: Eric Rosenbaum
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+affiliations: [ "Heroes of the Great War" ]
 ---
-### Kyr
+# Kyr
+>[!info]+ Biographical Summary
+>[[Lizardfolk|lizardfolk]], he/him
+> Member of: [[Heroes of the Great War]]
 
-A hero of the [[Events/1500s/Great War]], a lizardfolk renowned for control over the [[Plane of Souls]].
+A hero of the [[Great War]], a lizardfolk renowned for control over the [[Plane of Souls]].
 
 %%NOTES
 Lizardfolk druid, shaman, healer.

@@ -8,16 +8,17 @@ born: 1671
 species: halfling
 ancestry:
 gender: male
-family: Quickstep
+affiliations: [ Quicksteps ]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Wendel Quickstep
 >[!info]+ Biographical Summary
 >[[Halflings|halfling]], he/him
+> Member of: [[Quicksteps]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>>%%^Campaign:DuFr%% Last met by [[The Dunmar Fellowship|The Side Quests]] on December 30th, 1748 in: [[Tollen]], [[Western Green Sea]] %%^End%%
 
 Proprietor of *The Windward Sail*, a busy sailor's tavern in Fiskurth. Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 
 
