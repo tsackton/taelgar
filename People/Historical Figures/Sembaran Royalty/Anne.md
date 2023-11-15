@@ -9,10 +9,11 @@ ancestry: Sembaran
 gender: female
 reignStart:
 died: 1582
+affiliations: [ House of Sewick ]
 ---
 # Anne of Sewick
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), she/her
+>[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of [[House of Sewick|the House of Sewick]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 

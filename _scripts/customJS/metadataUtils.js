@@ -89,13 +89,13 @@ class metadataUtils {
         }
     }
 
-    get_NameForFamily(input, link, titleCase) {
+    get_NameForOrganization(input, link, orgType, titleCase) {
         let file = window.app.metadataCache.getFirstLinkpathDest(input, ".");
         if (file) {
 
             let fm = window.app.metadataCache.getFileCache(file)
             if (!fm.frontmatter.tags || fm.frontmatter.tags.length == 0) return undefined
-            if (fm.frontmatter.orgType != "family") return undefined
+            if (fm.frontmatter.orgType != orgType) return undefined
             if (fm.frontmatter.tags.filter(f => f.startsWith("organization")).length == 0) return undefined;
             return this.get_Name({ file: file, frontmatter: fm.frontmatter }, link, titleCase)
 

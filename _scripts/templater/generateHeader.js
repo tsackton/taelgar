@@ -53,6 +53,11 @@ async function generateHeader(tp) {
     let hasPageDates = tp.frontmatter.born || tp.frontmatter.died || tp.frontmatter.created || tp.frontmatter.destroyed
     let hasReignInfo = isRuler && (tp.frontmatter.reignStart || tp.frontmatter.reignEnd)
 
+    let primaryOrgType = "family"
+    if (tp.frontmatter.displayDefaults && tp.frontmatter.displayDefaults.primaryOrgType) {
+        primaryOrgType = tp.frontmatter.displayDefaults.primaryOrgType
+    }
+
     if (isPerson) {
         output += ">[!info]+ Biographical Summary"
 
@@ -131,8 +136,7 @@ async function generateHeader(tp) {
 
                 let aff = tp.frontmatter.affiliations[i]
                 if (!familyDisplay) {
-                    familyDisplay = metadataUtils.get_NameForFamily(aff, true, false)
-                    console.log(familyDisplay)
+                    familyDisplay = metadataUtils.get_NameForOrganization(aff, true, primaryOrgType,false)                
                     if (familyDisplay) continue
                 }
 
@@ -260,7 +264,7 @@ async function generateHeader(tp) {
 
             if (tp.frontmatter.placeType) {
                 let firstChar = tp.frontmatter.placeType[0]
-                if (!tp.frontmatter.placeType.startsWith("uni") && (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u' &&)) {
+                if (!tp.frontmatter.placeType.startsWith("uni") && (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u')) {
                     output += "\n> an " + tp.frontmatter.placeType + " in " + locationDisplay
                 } else {
                     output += "\n> a " + tp.frontmatter.placeType + " in " + locationDisplay
