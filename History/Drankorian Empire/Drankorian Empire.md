@@ -8,7 +8,7 @@ timelineDescriptor: Drankorian History
 ---
 # The Drankorian Empire
 
-The Drankorian Empire was a vast, continent-spanning empire that stretched from the Endless Ocean to the [[Green Sea]] and ruled over much of humanity during the millenia following [[The Downfall]] of [[Hkar]]. The Drankorian Empire was known for its strength in magic; the battle mages of [[Drankor]] not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [[Drankor]] was filled with learned societies, organizations dedicated to magical lore.
+The Drankorian Empire was a vast, continent-spanning empire that stretched from the [[Endless Ocean]] to the [[Green Sea]] and ruled over much of humanity during the millenia following [[The Downfall]] of [[Hkar]]. The Drankorian Empire was known for its strength in magic; the battle mages of [[Drankor]] not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [[Drankor]] was filled with learned societies, organizations dedicated to magical lore.
 ## History
 
 The Drankorian Empire grew out of the city of Drankor, founded near the mouth of the Crescara ("Kres-kah-rah") river, largely by refugees fleeing the destruction of Hkar. From this base, the Drankorians quickly came to rule over the fertile plains along the coast, and the Crescara river valley. In Drankorian reckoning, which dates to the founding of Drankor in 4133 by the dwarven count of years, the following major events summarize the history of Drankor (taken from Cavarrio's Chronicles of Drankor.):

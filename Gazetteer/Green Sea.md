@@ -26,9 +26,9 @@ In the winter, a zone of high pressure tends to sit over the southernmost parts 
 
 Irrla has a climate not dissimilar to Japan, with the summer monsoon bringing rain to the southeastern side of the island and the winter westerlies bringing snow to the northwestern side of the island. 
 
-The South Coast, from SouthCymea all the way east, tends to be dry, with a climate reminiscent of North Africa “between the mountains,” with almost no rain; only SouthCymea itself trends towards a humid subtropical climate (perhaps Pampas-like). The exception is the far east, east of the mountains, which is much more influenced by the Endless Ocean than the Green Sea, and has a much wetter and warmer climate influenced by the warm currents and prevailing trade wind of the Endless Ocean. 
+The South Coast, from SouthCymea all the way east, tends to be dry, with a climate reminiscent of North Africa “between the mountains,” with almost no rain; only SouthCymea itself trends towards a humid subtropical climate (perhaps Pampas-like). The exception is the far east, east of the mountains, which is much more influenced by the [[Endless Ocean]] than the Green Sea, and has a much wetter and warmer climate influenced by the warm currents and prevailing trade wind of the [[Endless Ocean]]. 
  
-The climate of the western islands is highly varied, being strongly oceanic and influenced by the Green Sea, the Endless Ocean, and magic.   
+The climate of the western islands is highly varied, being strongly oceanic and influenced by the Green Sea, the [[Endless Ocean]], and magic.   
 
 The North Coast around Skaegenland is heavily maritime, reminiscent of Nova Scotia/Scandinavia, which continues east to the southernmost extend of the North Coast. The northeastern coast, however, is much colder, more reminiscent of eastern Siberia, with long winters and short summers, although the maritime influence moderates the seasonality.
 %%
