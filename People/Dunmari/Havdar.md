@@ -26,10 +26,10 @@ whereabouts:
 >>%%^Campaign:DuFr%% Last seen by [[The Dunmar Fellowship|The Side Quests]] at December 27th, 1748: [[Songara]], [[Central Dunmar]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
-Havdar, a brash and confident warrior, made a name for himself as a war leader in [[eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people. 
+Havdar, a brash and confident warrior, made a name for himself as a war leader in [[Eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people. 
 ## Overview
 
-Havdar was born outside [[Karawa]], and grew up herding goats amongst the rough, rocky deserts and scrublands of [[eastern Dunmar]]. Always passionate about the traditions of the Dunmari, he is dedicated to his homeland and [[eastern Dunmar]], and the traditions of his people, and skeptical of the city folk to the west and especially the Samraat. Blessed with natural strength and dexterity, Havdar gathered a small group of dedicated warriors around him, and became know as something of a protector of [[eastern Dunmar]]. He often speaks reverently about the [[Red Mesa]], the [[Gomat]] Oasis, and other landmarks of the eastern plains. 
+Havdar was born outside [[Karawa]], and grew up herding goats amongst the rough, rocky deserts and scrublands of [[Eastern Dunmar]]. Always passionate about the traditions of the Dunmari, he is dedicated to his homeland and [[Eastern Dunmar]], and the traditions of his people, and skeptical of the city folk to the west and especially the Samraat. Blessed with natural strength and dexterity, Havdar gathered a small group of dedicated warriors around him, and became know as something of a protector of [[Eastern Dunmar]]. He often speaks reverently about the [[Red Mesa]], the [[Gomat]] Oasis, and other landmarks of the eastern plains. 
 
 In the summer of DR 1748, he took on a pivotal role as the chief general to Nayan [[Sura]], standing steadfastly by her side as she asserts her claim to the Dunmari throne.
 ## Description

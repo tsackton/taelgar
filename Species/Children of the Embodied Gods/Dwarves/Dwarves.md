@@ -54,7 +54,7 @@ Dwarven kingdoms rarely have extensive relations with elven society. Although dw
 
 Dwarven society is generally conserative and strongly hierarchical, organized around ties of honor among kin, thuhr, and clan. Family units tend to live close together in large extended families, and any dwarves’ first loyalty is to the matriarch or patriarch of their family. Dwarven kingdoms stretch deep underground, connecting dwarves to the mineral wealth of the mountains that is the source of much of their livelihood and trade. Some dwarven kingdoms spread extensively above ground, reaching into the foothills and valleys of their mountain homes. Members of other races, especially halflings, stoneborn, and humans, often live in these above ground settlements harmoniously, yet are rarely treated as a full part of the community. Despite their close knit societies, many dwarves have chosen to live among humans in their cities, where they are often skilled artisans or sought-after as mercenaries or bodyguards.
 
-In the west of Taelgar, there are five great [[dwarven kingdoms]]:
+In the west of Taelgar, there are five great [[Dwarven Kingdoms]]:
 
 - [[Fahnukan]], in the far north, isolated since before the [[Events/1500s/Great War]], the home to strange dwarves who sculpt in ice and relish the cold.
 - [[Nidzahar]], the largest and richest of the five kingdoms, building great cities on the mountain slopes as centers of trade and industry, and growing rich of the prosperous trade connections with [[Sembara]] to the east.

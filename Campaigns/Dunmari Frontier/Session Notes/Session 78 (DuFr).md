@@ -22,7 +22,7 @@ We begin on Jan 1st, 1749, as the new year, by [[Tollen]] reckoning, dawns.
 
 *On the skyship [[Vindristjarna]], however, none of the travelers would mark this as the dawning of a new year, were they not in [[Tollen]]. 
 
-*The hammers and bells of the [[dwarven kingdoms]] of the [[Sentinel Range]] will not ring to mark the new year for another few months, until March 17th in the human reckoning. Few except the dwarven lorekeepers now remember, but this will mark the beginning of the 5,882nd year since the planes were pulled apart and time began on Taelgar.*
+*The hammers and bells of the [[Dwarven Kingdoms]] of the [[Sentinel Range]] will not ring to mark the new year for another few months, until March 17th in the human reckoning. Few except the dwarven lorekeepers now remember, but this will mark the beginning of the 5,882nd year since the planes were pulled apart and time began on Taelgar.*
 
 *In [[Dunmar]], the new year -- the 192nd year of the Nayan Dynasty -- will not come for another three weeks, when the The Festival of the New Dawn on January 23rd marks the end of the holy month, and the beginning of the new year.*
 

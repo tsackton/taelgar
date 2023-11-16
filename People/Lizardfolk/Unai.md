@@ -15,7 +15,7 @@ whereabouts:
 >[[Lizardfolk|lizardfolk]], she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:clee%% Last met by [[Heroes of Cleenseau|The Andover Crowd]] on October 28th, 1719 in: [[Ganboa]], [[Sembara]], [[The Western Green Sea Region]] %%^End%%
+>>%%^Campaign:clee%% Last met by [[Heroes of Cleenseau|The Andover Crowd]] on October 28th, 1719 in: [[Ganboa]], [[Sembara]], [[Western Green Sea Region]] %%^End%%
 
 An herbalist and healer, teacher of [[Gentza]].
 

@@ -4,7 +4,7 @@ Dear friends,
 
 Let us rejoice in the light of the Divine, and give thanks to [[Laka]] and his siblings for their continued guidance, and the [[Bahrazel]] for their healing power. I still hear the echoes of their forges sometimes when I sleep, and it brings me great comfort, for they and their servant [[Riswynn]] banished the nightmares from my mind. 
 
-I received your letter some months ago, asking after information about the rumored legendary cloak of [[Drankorian Empire|Drankor]], the lost artifact that [[Servius]] was searching for. It has taken some searching, but the new scribes [[Ardan]] has provided have been invaluable, and we are making progress with the [[archives]]. When I heard the news that [[Riswynn]] was in [[Tokra]], I hastily wrote this missive for you.
+I received your letter some months ago, asking after information about the rumored legendary cloak of [[Drankorian Empire|Drankor]], the lost artifact that [[Servius]] was searching for. It has taken some searching, but the new scribes [[Ardan]] has provided have been invaluable, and we are making progress with the [[Archives]]. When I heard the news that [[Riswynn]] was in [[Tokra]], I hastily wrote this missive for you.
 
 My breakthrough came in the records of the Aagiri, the [[Aagir Mystai]]. As you know, in these days they have no permanent home; they are an itinerant order of knights who protect our roads. But long ago, before the [[Events/1500s/Great War]], the Aagiri maintained a series of fortified castles along the southeastern border of [[Dunmar]], protecting us from the dangers of the desolation of [[Drankor]].
 

@@ -13,4 +13,4 @@ placeType: city
 *(town of s-i-x)*
 >[!info]+ Summary
 >`$=dv.view("_scripts/view/get_PageDatedValue")` *(pop. 20,000)*
-> a city in [[Barony of Aveil]], [[Sembara]], [[The Western Green Sea Region]]
+> a city in [[Barony of Aveil]], [[Sembara]], [[Western Green Sea Region]]

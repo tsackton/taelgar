@@ -8,7 +8,7 @@ displayDefaults:
   endPrefix: destroyed
   endStatus: destroyed
 campaignInfo: 
-name: the Endless Ocean
+name: Endless Ocean
 placeType: 
 partOf:
 ---

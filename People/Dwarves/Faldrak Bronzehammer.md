@@ -22,7 +22,7 @@ whereabouts:
 >[[Dwarves|dwarf]], he/him
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->>%%^Campaign:DuFr%% Last seen by [[The Dunmar Fellowship|The Side Quests]] at December 30th, 1748: [[Tollen]], [[The Western Green Sea Region]] %%^End%%
+>>%%^Campaign:DuFr%% Last seen by [[The Dunmar Fellowship|The Side Quests]] at December 30th, 1748: [[Tollen]], [[Western Green Sea Region]] %%^End%%
 >> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
 
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
