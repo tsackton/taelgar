@@ -2,8 +2,8 @@
 tags:
 - '#event-source'
 ---
-# Before the Great War
-Before DR 1545
+# The Chronicles of the Mawar
+
 
 ### Overview
 After the fall of [[Drankorian Empire|Drankor]], the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [[Chardon]] and as far north as the far northern shores of beyond the Great Bay.

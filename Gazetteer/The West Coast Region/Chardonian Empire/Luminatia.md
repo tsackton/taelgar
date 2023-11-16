@@ -6,5 +6,8 @@ name: Luminatia
 placeType: village
 partOf:
 ---
+# Luminatia
+>[!info]+ Summary
+
 
 A small village near Lake Valandros.

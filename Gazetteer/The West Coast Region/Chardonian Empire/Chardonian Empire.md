@@ -8,7 +8,7 @@ displayDefaults:
   endPrefix: destroyed
   endStatus: destroyed
 campaignInfo: 
-name: the Chardonian Empire
+name: Chardonian Empire
 placeType: 
 partOf: 
 cultureDescriptor: Chardonian
