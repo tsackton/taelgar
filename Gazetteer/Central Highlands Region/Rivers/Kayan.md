@@ -10,6 +10,6 @@ pronunciation: KAH-yan
 # Kayan
 *(KAH-yan)*
 >[!info]+ Summary
-> a river in [[Elderwood]], the [[Central Highlands Region]]
+> a river in the [[Elderwood]], [[Central Highlands Region]]
 
 

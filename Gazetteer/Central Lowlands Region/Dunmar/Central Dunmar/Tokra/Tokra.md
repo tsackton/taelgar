@@ -46,7 +46,7 @@ The temple was constructed during the early years of the Dharajun dynasty, and s
 
 ### Palace 
 
-The palace is a large rectangular building with a large central courtyard, originally constructed at the same time as the [[Archives]] for the use of the traveling court of the Darajun dynastic court. During the [[Events/1500s/Great War]], this was used as the headquarters of the western army of the Dunmari, coordinating defenses against the eldritch horrors in the mountains to the north. During this time it was expanded and used as a barracks as well, so it is a bit of a clash of architectural styles, with a older "Dharajunic" building and a newer more utilitarian design.
+The palace is a large rectangular building with a large central courtyard, originally constructed at the same time as the [[Archives]] for the use of the traveling court of the Darajun dynastic court. During the [[Great War]], this was used as the headquarters of the western army of the Dunmari, coordinating defenses against the eldritch horrors in the mountains to the north. During this time it was expanded and used as a barracks as well, so it is a bit of a clash of architectural styles, with a older "Dharajunic" building and a newer more utilitarian design.
 
 During the [[Fire War]] it was damaged, but not as badly as the [[Archives]], and required only cosmetic repairs, which were done in a Dwarvish style.
 
@@ -70,13 +70,13 @@ Tokra was originally the site of a Drankorian settlement, a river crossing and t
 
 In DR 1405, Samraat Dharajun [[Jita]] made Tokra her central court, ordering construction of a large temple, a palace, and [[Archives]]. The palace was finished first, in DR 1409; the [[Archives]] soon after, in DR 1411; the temple, a generation later in DR 1434.
 
-For the next 100 years, Tokra was a major center of Dunmari adminstration and power, until the [[Events/1500s/Great War]].
+For the next 100 years, Tokra was a major center of Dunmari adminstration and power, until the [[Great War]].
 
-Shortly after the [[Events/1500s/Great War]], in DR 1552, the fire giant [[Mavdyr]] attacked with [[Orcs]] and others, and Tokra was largely overrun and suffered much destruction. While the fire giant was defeated with the aid of dwarves and stoneborn, and Tokra rebuilt, the power center of [[Dunmar]] shifted west once again, to the new lands and to [[Nayahar]].
+Shortly after the [[Great War]], in DR 1552, the fire giant [[Mavdyr]] attacked with [[Orcs]] and others, and Tokra was largely overrun and suffered much destruction. While the fire giant was defeated with the aid of dwarves and stoneborn, and Tokra rebuilt, the power center of [[Dunmar]] shifted west once again, to the new lands and to [[Nayahar]].
 
 Over the next 200 years, Tokra maintained significant administrative capacity as a frontier / provincial capitol, but as interest in eastern [[Dunmar]] waned in the west, Tokra's significance waned as well.
 
-Nonetheless, it remains a prosperous city, sitting on one of the major long distance trade routes from Sembara to [[Chardon]], and benefiting from the [[Hara]] river, navigable for about half the year. Aided in part by the present of the Lakan monks, Tokra has gained something of a reputation as a city of scholars, and the [[Archives]] here store not just records of the Dharajun dynasty, but many earlier records rescued from [[Kharsan]] and points east during the [[Events/1500s/Great War]].
+Nonetheless, it remains a prosperous city, sitting on one of the major long distance trade routes from Sembara to [[Chardon]], and benefiting from the [[Hara]] river, navigable for about half the year. Aided in part by the present of the Lakan monks, Tokra has gained something of a reputation as a city of scholars, and the [[Archives]] here store not just records of the Dharajun dynasty, but many earlier records rescued from [[Kharsan]] and points east during the [[Great War]].
 
 The horse herders and traders descended from the Dharajun rulers remain prominent and important here, and the Lakan monks hold considerable sway as well, having preserved the [[Archives]] and history here.
 

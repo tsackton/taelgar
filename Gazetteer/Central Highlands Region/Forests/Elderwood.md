@@ -1,20 +1,22 @@
 ---
 tags:
   - place
-displayDefaults: { startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definiteArticle: the }
+  - status/needswork
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+  definitiveArticle: the
 campaignInfo: 
 name: 
 placeType: forest
-partOf: Central Highlands Region
-aliases: []
+partOf: Ainumarya
+aliases:
 ---
-# Elderwood
+# The Elderwood
 >[!info]+ Summary
-> a forest in the [[Central Highlands Region]]
-
-### The Elderwood
-
-The southernmost part of what once was called [[Ainumarya]], an ancient forest. 
+> a forest in [[Central Highlands Region]]
 
 Once the southern extent of [[Ainumarya]]; now inhabited by several Deno'qai tribes: [[Te'kula]], [[Baz'aku]], [[Bek'eni]].
 

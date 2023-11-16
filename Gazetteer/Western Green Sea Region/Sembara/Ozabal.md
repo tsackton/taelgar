@@ -4,17 +4,11 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Ozabal
 placeType:
-partOf:
+partOf: 
 aliases: Ozabal Swamp
 ---
 # Ozabal
 
-%% notes
+A large area of swampy lowlands centered around the confluence of the [[Wistel]] and the [[Enst]], which is home to a substantial [[lizardfolk]] population. 
 
-remnant, with [[Latazaro]], of the vast swamps that once covered much of the Sembara lowlands
-
-home to a major lizardfolk community
-
-what else?
-
-%%
+The Ozabal is the remnants, along with the [[Latazaro]] swamp, of the vast wetlands that once covered much of the Sembaran lowlands, before the [[The Downfall|Downfall]]. 

@@ -43,7 +43,7 @@ We begin as the party meets again, all together after a long absence. Everyone r
 
 ![[lastlight-falls-dunmar-side.png|600]]
 
-[[Delwath]] speaks of how he found himself in the Deno’qai forests in the far north, a land once known as the [[Forest of Dreams]], but now called the [[Forest of Nightmares]] as it was cursed during the [[Events/1500s/Great War]] against Cha’mutte. Traveling with the [[Stoneborn]] paladin [[Aristaea]] Mountainhands, and the Deno’qai wildfire druid [[Iascaire]], [[Session 51-52 (DuFr)|Delwath sought to restore the lost tanshi trapped by Cha’mutte’s evil on the battlefields of the Great War.]]
+[[Delwath]] speaks of how he found himself in the Deno’qai forests in the far north, a land once known as the [[Forest of Dreams]], but now called the [[Forest of Nightmares]] as it was cursed during the [[Great War]] against Cha’mutte. Traveling with the [[Stoneborn]] paladin [[Aristaea]] Mountainhands, and the Deno’qai wildfire druid [[Iascaire]], [[Session 51-52 (DuFr)|Delwath sought to restore the lost tanshi trapped by Cha’mutte’s evil on the battlefields of the Great War.]]
 
 [[Riswynn]] speaks of her adventures, and apologizes for vanishing. After grabbing the  the [[Chalice of the Runepriest]], she found herself in [[the Heart of the Mountain]], the realm of the dwarven gods. Here, she met other [[Dwarves]] summoned to fulfill a debt to the Barahzel: [[Thror]] Redpeak, a storm sorcerer; [[Rothfis]] Stonefist, a bartender and monk;  and [[Merash]] Emberfoot, a smith and warrior. Together, they [[Session 53-54 (DuFr)| investigated the Shadowfell realm of Morkalan and uncovered the tragic story of the loss of the Chalice in the years after the Great War.]]
 
@@ -56,7 +56,7 @@ We begin as the party meets again, all together after a long absence. Everyone r
 During the conversation, the party reads letters from [[Tokra]] and elsewhere, and [[Delwath]] reports on the information he has learned from scrying in [[Scrying Delwath Oct 21|mid October]], [[Scrying Delwath Oct 26|late October]], and [[Scrying Delwath Nov 15|mid November]], and from a [[Session 51-52 (DuFr)#Dunmar Rumors|week spent on the plains of Dunmar]]. The key facts include:
 - [[Dunmar]] is on the bring of civil war: [[Nayan Karnas]] has seemingly not spoken to [[Johar]]; [[Havdar]] is turning bloodthirsty under the sway of a cursed sword; and the Lakan monks have not done anything yet.
 - [[Kadmos]] and company, now traveling with a subdued [[Vola]] (whether due to mundane or magical coercion is not entirely clear), are crossing [[Dunmar]].
-- [[Grash]] is preparing to march east, and soon, with a large army of [[Orcs]] and undead, presumably to recover the [[Mantle of Protection]] which was, according to [[Govir]]'s research, lost in a fortification of the [[Aagir Mystai]] to the east during the [[Events/1500s/Great War]]. 
+- [[Grash]] is preparing to march east, and soon, with a large army of [[Orcs]] and undead, presumably to recover the [[Mantle of Protection]] which was, according to [[Govir]]'s research, lost in a fortification of the [[Aagir Mystai]] to the east during the [[Great War]]. 
 - A man in [[Ursk]] named [[Radomir]] found a piece of [[Rai]]'s [[Jade]], and it is now apparently in the possession of someone or something called Rodnya Voknaz.
 
 The party decides to first try to restore [[Hralgar]], and then likely head east to attempt to beat [[Grash]] to the [[Mantle of Protection]].

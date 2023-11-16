@@ -16,7 +16,7 @@ pronunciation: yeh-moh-TEH
 # Yemo'te
 *(yeh-moh-TEH)*
 >[!info]+ Summary
-> a river in the [[Forest of Nightmares]], the [[Central Highlands Region]]
+> a river in the [[Forest of Nightmares]], [[Central Highlands Region]]
 
 The southernmost of the two rivers that flow through the the [[Forest of Nightmares]]. 
 

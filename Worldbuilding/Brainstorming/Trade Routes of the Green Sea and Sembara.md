@@ -13,7 +13,7 @@ In the northlands, along the Volta much small scale manufacturing takes place, e
 
 The Highland Kingdoms, especially Breva and Ardlas trade foodstuffs heavily with the dwarves for gold, steel, and fine metalworking. Timber is also traded downriver, as are furs, honey, and fine wax for candle-making. Much of the foodstuffs comes from Sembara via halfling traders or Tollender merchant houses.
 
-Along the coast, the [[Duchy of Telham]] has a significant amount of fishing, and some profitable coastal salt flats from which a fine sea salt is obtained. Even more salt comes from the royal salt flats in the marshy delta of the Wisford, near Ozabal Swamp, and the coastlines of the Duchy of Seham. 
+Along the coast, the [[Duchy of Telham]] has a significant amount of fishing, and some profitable coastal salt flats from which a fine sea salt is obtained. Even more salt comes from the royal salt flats in the marshy delta of the Wisford, near [[Ozabal]] Swamp, and the coastlines of the Duchy of Seham. 
 
 Farther south in [[Tyrwingha]], wine is a common export, and the silversmiths of [[Tafolwern]] are well known, as are the glassmakers, but significant trade routes are not common in the region. Tollender merchants have a significant presence in Tafolwern, and Tollen dyed cloth and fine clothes are popular. But outside of the wine industry, which exports a significant number of barrels each year, and a small number of specialized artisians, there are no major traders in Tyrwingha.
 

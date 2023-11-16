@@ -30,7 +30,7 @@ In DR 1523, shortly after Derik III comes to the throne, he finally launches a c
 
 By DR 1525, Derik III is at least nominally acknowledged as the overlord and high king of all the land from the southern highlands to the northern wall, from [[Sentinel Range]] to the [[Western Gulf]].  In DR 1533, now several years a widower, Derik III marries Jane, the young daughter of an important merchant family in Tollen. 
 
-Over the next 20 years, Sembara remains a strong and united kingdom as various conflicts spread along its borders, culminating in the [[Events/1500s/Great War]].
+Over the next 20 years, Sembara remains a strong and united kingdom as various conflicts spread along its borders, culminating in the [[Great War]].
 
 ### The Blood Years
 

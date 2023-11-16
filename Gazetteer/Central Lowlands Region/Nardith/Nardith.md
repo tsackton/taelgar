@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/needswork]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Nardith
@@ -9,7 +9,7 @@ partOf:
 
 ## Nardith
 
-The Kingdom of [[Ardith]] was once the great and prosperous southernmost kingdom in the central mountains, trading with the Dunmari, the people of the [[Istabor Alliance]], and even the mysterious Myraenians. However, during the [[Events/1500s/Great War]] and the destruction that followed, this kingdom was entirely destroyed, and all that remains are ruins, lost mines, and forgotten roads in the deep.
+The Kingdom of [[Ardith]] was once the great and prosperous southernmost kingdom in the central mountains, trading with the Dunmari, the people of the [[Istabor Alliance]], and even the mysterious Myraenians. However, during the [[Great War]] and the destruction that followed, this kingdom was entirely destroyed, and all that remains are ruins, lost mines, and forgotten roads in the deep.
 
 Many of the people of [[Ardith]] fled south, crossing the Dunmari plains to settle in the [[Yuvanti Mountains]], and founding the new kingdom of Nardith (new [[Ardith]]). The Yuvanti, newly risen from the plains of [[Dunmar]], turned out to be easy to mine and full of mineral wealth, and the Kingdom of Nardith has grown prosperous over the past century, trading with [[Dunmar]] and [[Chardon]]. 
 

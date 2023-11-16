@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/needswork]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Ursk

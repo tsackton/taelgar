@@ -21,11 +21,11 @@ It was found when the [[Dwarves]] fleeing the destruction of the kingdom of [[Ar
 ![[chalice-of-the-runepriest.png]]
 
 ## History of the Chalice
-- (DR:: 1547): The Chalice of the Runepriest is discovered by dwarven refugees from Ardith, while exploring the newly risen Yuvanti Mountains. 
-- (DR:: 1575-03): The Chalice of the Runepriest is carried north by an expedition under the leadership of Hagrim Firebrand to search for survivors among the ruins of Ardith. 
+- (DR:: 1547): The Chalice of the Runepriest is discovered by dwarven refugees from [[Ardith]], while exploring the newly risen Yuvanti Mountains. 
+- (DR:: 1575-03): The Chalice of the Runepriest is carried north by an expedition under the leadership of Hagrim Firebrand to search for survivors among the ruins of [[Ardith]]. 
 - (DR:: 1575-05): The Chalice provides protection and healing for soldiers and refugees alike, and many hundreds of dwarves are rescued. 
-- (DR:: 1575-08): The Chalice of the Runepriest sustains the refugees of Ardith and their rescuers on the long march south.
-- (DR:: 1575-09-14): A fire giant, [[Odim Mavdyrson]], attacks dwarven refugees from Ardith and the warrior mission sent to find them, on the Dunmari plains north of Tokra. The dwarves flee, constructing hasty fortifications around the [[Statue of the Stoneborn Warrior]] on the Dunmari plains
+- (DR:: 1575-08): The Chalice of the Runepriest sustains the refugees of [[Ardith]] and their rescuers on the long march south.
+- (DR:: 1575-09-14): A fire giant, [[Odim Mavdyrson]], attacks dwarven refugees from [[Ardith]] and the warrior mission sent to find them, on the Dunmari plains north of Tokra. The dwarves flee, constructing hasty fortifications around the [[Statue of the Stoneborn Warrior]] on the Dunmari plains
 - (DR:: 1575-09-19): [[Odim Mavdyrson]] attacks the fortifications, breaking through. The leader of the dwarves, Hagrim Firebrand, turns on his companions as Odim approaches, creating the Shadowfell domain of [[Morkalan]] in death, and dragging the surviving dwarves to this realm with him. The chalice is abandoned in the fortifications surrounded the [[Statue of the Stoneborn Warrior]]. 
 - (DR:: 1747-12-05) A group of Chardonian treasure hunters arrives at the ancient [[Statue of the Stoneborn Warrior]] and finds a major cache of Dwarven relics hidden nearby, including the Chalice of the Runepriest. Two of them -- Vita, an archer, and Caius, a skirmisher -- are pulled into [[Morkalan]].
 - (DR:: 1747-12-15): The Chalice of the Runepriest passes through Songara, carried by Chardonian treasure hunters 

@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/draft]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Zarkandur
