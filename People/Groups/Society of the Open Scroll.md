@@ -2,7 +2,7 @@
 tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo: []
-name: The Society of the Open Scroll
+name: Society of the Open Scroll
 ---
 
 # The Society of the Open Scroll

@@ -18,7 +18,7 @@ whereabouts:
 >[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Last imprisoned by [[The Dunmar Fellowship|The Side Quests]] on December 8th, 1748 in: the Mirror of Soul Trapping %%^End%%
+>>%%^Campaign:DuFr%% Imprisoned by [[The Dunmar Fellowship|The Side Quests]] on December 8th, 1748 in: the Mirror of Soul Trapping %%^End%%
 
 A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 

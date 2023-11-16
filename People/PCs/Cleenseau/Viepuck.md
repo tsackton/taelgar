@@ -1,24 +1,24 @@
 ---
 tags: [pc/cleenseau, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died, primaryOrgType: party}
 campaignInfo: []
 name: Viepuck
-born: 1706
+born: 1706-10-01
 species: human
 ancestry:
 gender: male
 player:
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
+affiliations: [Heroes of Cleenseau]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Embry, Sembara'}
-- {type: away, start: 1719-10-19, end: '', location: 'Cleenseau, Sembara'}
+- {type: home, end: 1719, location: Embry }
+- {type: away, start: 1719-10-19, end: 1720-01-10, location: Cleenseau}
 ---
 # Viepuck
 >[!info]+ Biographical Summary
->human, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Embry]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]], he/him of [[Heroes of Cleenseau]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Najeer Garay is the fourth son of [[Susanne Garay]], the matriarch of a wealthy cloth merchant family in [[Embry]]. He is not set to inherit but has a job in the family and seems interested in finding something of his own in the world. He does not like to fight and it makes him uncomfortable after, but he seems to be solid while it’s happening.  Alternates between solidly responsible and a little immature.  Obviously has something else going on -- he appears to have some magic, at least.  A little class-struck by being invited to the manor for dinner, kind of kept more quiet than expected. 
 
