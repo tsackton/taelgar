@@ -75,8 +75,13 @@ async function get_table(input) {
             }
         }
         if (options.includePartyMeetings) {            
-            WhereaboutsManager.getPartyMeeting(item.file.frontmatter, undefined).forEach(element => {                
-                events.push({ year: element.date.year, date: element.date.display, text: element.text, rawText: element.text, file: item.file.name, sort: element.date.sort })
+            WhereaboutsManager.getPartyMeeting(item.file.frontmatter, undefined).forEach(element => {        
+                let name = metadataUtils.get_Name(item.file, true, false)
+                let uncap = element.text.charAt(0).toLowerCase() + element.text.slice(1)
+
+                let processedText = name + " " + uncap
+                
+                events.push({ year: element.date.year, date: element.date.display, text: processedText, rawText: element.text, file: item.file.name, sort: element.date.sort })
             });
         }
 

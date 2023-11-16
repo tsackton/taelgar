@@ -152,11 +152,10 @@ class metadataUtils {
         if (descriptiveName == "Untitled") return undefined;
 
         let article = ""
-        let isPerson = input.frontmatter.tags && input.frontmatter.tags.some(f => f.startsWith("person"))
+        let isPerson = input.frontmatter && input.frontmatter.tags && input.frontmatter.tags.some(f => f.startsWith("person"))
 
-        console.log(isPerson)
         // add definitive article //
-        if (input.frontmatter.displayDefaults && "definitiveArticle" in input.frontmatter.displayDefaults) {
+        if (input.frontmatter && input.frontmatter.displayDefaults && "definitiveArticle" in input.frontmatter.displayDefaults) {
             // we have a page override, use as is
             // if null or undefined or blank, don't add anything
             if (input.frontmatter.displayDefaults.definitiveArticle) article = input.frontmatter.displayDefaults.definitiveArticle + " ";
@@ -185,7 +184,6 @@ class metadataUtils {
 
         let partyName = undefined;
         let campaignData = this.#getElementFromMetadata("campaigns")
-        console.log(campaignData)
         if (campaignData) {
             let thisCampaign = campaignData.find(search => search.prefix.toUpperCase() == prefix.toUpperCase());
             if (thisCampaign) {

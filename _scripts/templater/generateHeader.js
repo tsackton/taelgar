@@ -180,7 +180,6 @@ async function generateHeader(tp) {
             output += "\n>> `$=dv.view(\"_scripts/view/get_Whereabouts\")`";
 
             for (let meeting of WhereaboutsManager.getPartyMeeting(tp.frontmatter, undefined)) {
-                console.log(meeting)
                 let newText = `\n>>%%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`;
                 output += newText
             }
