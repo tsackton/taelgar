@@ -1,14 +1,9 @@
 ---
-tags: [session-note, cleenseau-campaign]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name: Cleenseau - Session 05
-fc-calendar: Taelgar Calendar
-fc-date: 1719-12-04
-fc-end: 1719-12-06
-fc-category: Cleenseau Campaign
+tags: [session-note]
+campaign: Cleenseau
 realWorldDate: 2023-06-05
 sessionNumber: 5
+players: [Robin, Viepuck, Celyn]
 ---
 # Cleenseau - Session 5
 >_in Taelgar from December 4th to December 6th

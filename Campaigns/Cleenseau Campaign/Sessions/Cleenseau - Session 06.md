@@ -1,10 +1,9 @@
 ---
-tags: [session-note, cleenseau-campaign]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name: Cleenseau - Session 06
+tags: [session-note]
+campaign: Cleenseau
 realWorldDate: 2023-09-10
 sessionNumber: 6
+players: [Izgil, Robin, Viepuck, Celyn]
 ---
 # Cleenseau - Session 6
 >_in Taelgar from December 10th to January 1st
