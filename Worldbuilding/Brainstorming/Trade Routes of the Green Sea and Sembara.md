@@ -3,7 +3,7 @@ Some notes on trade in the [[Green Sea]] region, partially formed.
 The breadbasket of Sembara and the merchant houses of Tollen are the twin economic engines of the Western [[Green Sea]].
 
 ### Sembaran Trade Goods
-Sembara is rich in grain in particular, and [[The Heartlands]] generate significant grain surpluses which are traded mostly to Tollen. The region is also known for its cattle, pigs, and fine horses, and a secondary trade in leather is not insignificant. Flax is also grown here and linen cloth manufactured and traded to Tollen.
+Sembara is rich in grain in particular, and [[Heartlands]] generate significant grain surpluses which are traded mostly to Tollen. The region is also known for its cattle, pigs, and fine horses, and a secondary trade in leather is not insignificant. Flax is also grown here and linen cloth manufactured and traded to Tollen.
 
 The [[Braebein]] in the [[Duchy of Arnsbury]] are rich in silver mines and fine marble, although the marble is rarely traded far due to the costs of shipping. In the western parts of Arnsbury, and the highland kingdom of Ardlas, maple syrup is popular as well and some is traded south and east. Much of the silver of the Braebein flows out of Sembara to Tollen.
 

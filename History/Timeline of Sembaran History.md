@@ -93,7 +93,7 @@ While [[Sembara]] thrived during the long peace, underneath, the seeds of confli
 
 In DR 1425, [[Emperor Avatus|Avatus]] saw an opportunity. With a mercenary army consisting largely of [[Hobgoblins]] and vicious werewolves, he launched an invasion across the [[Enst]]. A series of disasters befell the Sembarans -- the Duke of [[Duchy of Cheimen|Cheimin]] refused to march his troops south of the [[Wistel]], three hundred knights from [[Duchy of Seham|Seham]] were lost in a summer storm at sea, and the muster of [[Duchy of Arnsbury|Arnsbury]] sent only half the men due to crown, claiming insufficient horses. And the expected help from [[Tyrwingha]] fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the [[Wistel]], and [[Emperor Avatus|Avatus]] paused to consolidate his gains, and prepared to strike north and east.
 
-Into this moment rode [[Derik I]], a distant relative of the current king, but far from the kingship himself. He had married the second daughter of the Duchess of [[Duchy of Telham|Telham]], on [[The Northlands]] coast, and had made a name for himself as a military commander in a series of skirmishes against pirates, in alliance with [[Tollen]] mercenaries and halflings.
+Into this moment rode [[Derik I]], a distant relative of the current king, but far from the kingship himself. He had married the second daughter of the Duchess of [[Duchy of Telham|Telham]], on [[Northlands]] coast, and had made a name for himself as a military commander in a series of skirmishes against pirates, in alliance with [[Tollen]] mercenaries and halflings.
 
 In the months following the advance of [[Emperor Avatus|Avatus]] to the [[Wistel]], a lizardfolk elder had approached Derik, and told him of an omen: he was prophesied to raise a mighty [[Sembara]] to form a pillar of strength in the dark times to come, and if he did not overthrow [[Emperor Avatus|Avatus]], the smallest cloud in the coming storm, the darkest shadows of today would seem like the brightest diamonds of tomorrow. But it was also foretold, this elder said, that only the Queen of the Evening Mist could herald his coming.  
 
@@ -181,13 +181,13 @@ DR 1650 - DR 1713; 2 Cece I - 65 Cece 1
 ### Overview
 In the autumn of 1650, after three summers of campaigning, the [[Shattered Ice Clan]] has been cleansed from the land. Three years prior, a hobgoblin dominion stretched in the Enst valley, from the [[Sentinel Range]] to the headwaters of the Aure in Addermarch, and even northwards into the Barony of Varbonne. It is now gone, although people have only slowly started returning to the war-torn lands.
 
-The reign of [[Cece I]] is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, although not entirely gone, is isolated to [[The Western Marches|the Western Marches]]. 
+The reign of [[Cece I]] is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, although not entirely gone, is isolated to [[Western Marches|the Western Marches]]. 
 # Recent Events
 Since DR 1713 (1 Robert I)
 
 - (DR:: 1713): [[Cece I]] dies. In Sembara, Robert I is crowned king, but the [[Oracle of the Riven]] [[The Election of Elaine II|elects]] his cousin, [[Elaine II]] the Queen of [[Tyrwingha]]
 - (DR:: 1715), spring: [[Rowena Chemare]], [[Robert I|Robert's]] wife, is murdered by bandits in the [[Aine Hills]] while visiting her family holdings
-- (DR:: 1715), summer: Robert leads the [[Army of the North]] on a [[Robert I's Bandit War|summer campaign]] against bandits in the [[Aine Hills]] and [[The Highlands|Sembaran Highlands]]
+- (DR:: 1715), summer: Robert leads the [[Army of the North]] on a [[Robert I's Bandit War|summer campaign]] against bandits in the [[Aine Hills]] and [[Highlands|Sembaran Highlands]]
 - (DR:: 1716), spring: [[Robert I|Robert's]] eldest son, [[Robert of Sewick|Robert]] is infected by a lycanthrope and disappears shortly afterward west of [[Marches of Enford|Enford]] 
 - (DR:: 1717), fall: [[Robert I|Robert's]] daughter, [[Arabella|Arabella of Sewick]] dies in childbirth, her son apparently possessed by a demon. Rumors spread that [[Cece I|Cece's]] ill luck with children as being passed down to her son.
 - (DR:: 1717), late winter: [[Robert I|Robert's]] younger son, [[Thaddeus of Sewick|Thaddeus]] is shipwrecked off the coast of [[Cymea]], with his wife and young child, and is never heard from again
