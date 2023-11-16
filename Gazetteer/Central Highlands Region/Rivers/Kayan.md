@@ -1,11 +1,15 @@
 ---
-tags: [place]
+tags: [place, status/stub]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Kayan
-placeType:
-partOf:
+placeType: river
+partOf: Elderwood
+pronunciation: KAH-yan
 ---
+# Kayan
+*(KAH-yan)*
+>[!info]+ Summary
+> a river in [[Elderwood]], the [[Central Highlands Region]]
 
-River that flows through the [[Elderwood]]
 

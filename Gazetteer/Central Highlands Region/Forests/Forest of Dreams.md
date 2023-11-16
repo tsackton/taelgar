@@ -1,10 +1,15 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Forest of Dreams
-placeType:
-partOf:
+placeType: forest
+partOf: Central Highlands Region
 ---
 # The Forest of Dreams
 >[!info]+ Summary

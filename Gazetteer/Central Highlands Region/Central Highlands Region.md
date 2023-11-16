@@ -1,9 +1,14 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name: The Central Highlands Region
-placeType:
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: Central Highlands Region
+placeType: 
 partOf:
 ---
 
