@@ -135,7 +135,7 @@ And yet, Arha and Malik were not satisfied. After millenia, the world of Taelgar
 
 ### The Creation of Humans
 
-So Arha and Malik created one last thing: the humans. To give them time to grow, they raised a great land in the Endless Ocean to be their homeland, which became known as Hkar. At first, little changed, although in the reckoning of elven scholars, the creation of humans -- the final great act of Creation by the gods in the world of Taelgar -- marks the end of the Age of Creation, and the beginning of the third age of the world.
+So Arha and Malik created one last thing: the humans. To give them time to grow, they raised a great land in the [[Endless Ocean]] to be their homeland, which became known as Hkar. At first, little changed, although in the reckoning of elven scholars, the creation of humans -- the final great act of Creation by the gods in the world of Taelgar -- marks the end of the Age of Creation, and the beginning of the third age of the world.
 
   
 
@@ -206,7 +206,7 @@ Whether because of the growing dominance of Mos Numena and its city-states, the 
 
 #### The Mariner Exodus 
 
-The western mariners left first. This important mariner culture, largely on the far western coast of Hkar, had been exploring the Endless Ocean, wandering far and wide across the trackless seas, and worshipping their own pantheon of gods. While the details of this ancient mariner religion have been lost to time, many scholars speculate that the ~OceanGod~ of the Skaer Islands was once part of this pantheon, but the rest of the gods of these ancient people have faded away over the millenia. 
+The western mariners left first. This important mariner culture, largely on the far western coast of Hkar, had been exploring the [[Endless Ocean]], wandering far and wide across the trackless seas, and worshipping their own pantheon of gods. While the details of this ancient mariner religion have been lost to time, many scholars speculate that the ~OceanGod~ of the Skaer Islands was once part of this pantheon, but the rest of the gods of these ancient people have faded away over the millenia. 
 
   
 
@@ -240,7 +240,7 @@ More two millennia after being created on Hkar, humanity had finally spread far 
 
 - On the main continent, spread along the tropical western coast and the equatorial interior, a ‘southern’ culture, the third largest group of humanity, but by a relatively narrow margin behind the easterners. They maintain trade and cultural connections with Hkar.
     
-- On the main continent, spread along the temperate west coast, and the central interior and far north, a ‘northern’ culture, with a unique religion based around many small intercessory spirits and semi-divine great heroes. Living almost entirely in the shadow of the Elder race empires, except perhaps on some islands in the Endless Ocean west of the coast. These people are noticeably less numerous, and more widely spread, than either the Southerners or Easterners.
+- On the main continent, spread along the temperate west coast, and the central interior and far north, a ‘northern’ culture, with a unique religion based around many small intercessory spirits and semi-divine great heroes. Living almost entirely in the shadow of the Elder race empires, except perhaps on some islands in the [[Endless Ocean]] west of the coast. These people are noticeably less numerous, and more widely spread, than either the Southerners or Easterners.
     
 - Across the central plains of the main continent, the proto-Dunmari, with their own unique language and pantheonic religion. They are the smallest group of humanity by a significant margin.
     
