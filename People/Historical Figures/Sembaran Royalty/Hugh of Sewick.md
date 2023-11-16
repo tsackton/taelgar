@@ -8,9 +8,9 @@ gender: male
 died: 1518
 affiliations: [House of Sewick]
 ---
-# Hugh of Sewick
+# The Hugh of Sewick
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Sewick|The House of Sewick]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of the [[House of Sewick]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 

@@ -13,10 +13,10 @@ died: 1713
 leaderOf: [Sembara, Tyrwingha]
 affiliations: [House of Sewick]
 ---
-# Queen Cece I
+# The Queen Cece I
 >[!info]+ Biographical Summary
 >Queen of [[Sembara]] and [[Tyrwingha]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of [[House of Sewick|The House of Sewick]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of the [[House of Sewick]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 

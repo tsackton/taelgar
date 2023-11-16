@@ -13,7 +13,7 @@ affiliations: [House of Lils]
 ---
 # Derik
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Lils]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of the [[House of Lils]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 

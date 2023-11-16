@@ -13,7 +13,7 @@ affiliations: [House of Lils, Oracle of the Riven]
 ---
 # Morgaine
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Tyrwingha|Tyrwinghan]]), she/her of [[House of Lils]]
+>[[Humans|human]]  ([[Tyrwingha|Tyrwinghan]]), she/her of the [[House of Lils]]
 > Member of: [[Oracle of the Riven]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`

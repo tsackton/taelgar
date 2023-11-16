@@ -2,7 +2,7 @@
 tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: ended }
 campaignInfo: []
-name: the House of Sewick
+name: House of Sewick
 orgType: family
 destroyed: 1720
 aliases: [Sewick]
@@ -80,8 +80,11 @@ class KingOrQueen ruler;
 
 
 
+### Members
 
-
+```dataview
+TABLE reignStart, died from #person where contains(leaderOf, "Sembara") sort reignStart
+```
 
 
 

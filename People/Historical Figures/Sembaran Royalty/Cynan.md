@@ -12,7 +12,7 @@ title: King
 reignStart: 1571
 died: 1589
 ---
-# King Cynan
+# The King Cynan
 >[!info]+ Biographical Summary
 >King of [[Tyrwingha]]
 >[[Humans|human]]  ([[Tyrwingha|Tyrwinghan]]), he/him

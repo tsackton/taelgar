@@ -7,12 +7,12 @@ born: 1562
 species: human
 ancestry: Sembaran
 gender: male
-reignStart:
+reignStart: 1592
 title: King
 leaderOf: [Sembara, Tyrwingha]
 died: 1600
 ---
-# King Arryn I
+# The King Arryn I
 >[!info]+ Biographical Summary
 >King of [[Sembara]] and [[Tyrwingha]]
 >[[Humans|human]]  ([[Sembara|Sembaran]]), he/him
