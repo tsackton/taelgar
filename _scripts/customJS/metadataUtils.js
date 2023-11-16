@@ -131,7 +131,7 @@ class metadataUtils {
         return input
     }
 
-    get_Name(input, link, titleCase) {
+    get_Name(input, link, titleCase, returnArticle = true) {
 
         function toTitle(str) {
             const lowers = ['A', 'An', 'The', 'And', 'But', 'Or', 'For', 'Nor', 'As', 'At', 'By', 'For', 'From', 'In', 'Into', 'Near', 'Of', 'On', 'Onto', 'To', 'With'];
@@ -182,6 +182,10 @@ class metadataUtils {
         if (titleCase) {
             descriptiveName = toTitle(descriptiveName)
             article = article.charAt(0).toUpperCase() + article.slice(1);
+        }
+
+        if (!returnArticle) {
+            article = ""
         }
 
         if (!link) return (article + descriptiveName);
