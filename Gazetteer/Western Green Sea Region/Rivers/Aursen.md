@@ -5,7 +5,7 @@ campaignInfo: []
 name: Aursen
 placeType:
 partOf:
-aliases: Aursen
+aliases: [Aursen]
 ---
 ### River Aursen
 The Aursen falls rapidly out of the [[Sentinel Range]] before become wide and gentle as it flows east. Once the [[Douren|Douren]] joins it, it falls rapidly through a series of six large waterfalls before joining the [[Masance]] to become the [[Ardonne]].

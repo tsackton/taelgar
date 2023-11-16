@@ -66,7 +66,8 @@ class WhereaboutsManager {
     }
 
     getPartyMeeting(metadata, campaign) {
-        const {metadataUtils} = customJS
+        const { LocationManager } = customJS
+        const { NameManager} = customJS
         const { DateManager } = customJS
 
         let results = []
@@ -78,11 +79,11 @@ class WhereaboutsManager {
                 let locForThisDate = this.getWhereabouts(metadata, element.date).current;
 
                 if (locForThisDate && (element.campaign == campaign || !campaign)) {                    
-                    let partyName = metadataUtils.get_party_name_for_party(element.campaign)                    
+                    let partyName = NameManager.getName(element.campaign, NameManager.CreateLink, NameManager.PreserveCase)
                     if (partyName) {
                         let type = element.type ?? "seen"
                         let capitalized = type.charAt(0).toUpperCase() + type.slice(1);                        
-                        results.push ({ text: `${capitalized} by ${partyName} on ${displayDate.display} in: ${metadataUtils.get_Location(locForThisDate, false)}`, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
+                        results.push ({ text: `${capitalized} by ${partyName} on ${displayDate.display} in ${LocationManager.getLocationName(locForThisDate.location)}`, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }
             });

@@ -4,7 +4,7 @@ owner: Candrosa
 rarity: unique
 typeOf: staff
 ---
-# Dreamweaver Staff
+# The Dreamweaver Staff
 >[!info]+ Item Info
 >(unique magical staff)
 > Owner: [[Candrosa]]

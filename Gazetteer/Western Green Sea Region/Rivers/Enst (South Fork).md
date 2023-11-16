@@ -5,7 +5,7 @@ campaignInfo: []
 name: Enst (South Fork)
 placeType:
 partOf:
-aliases: South Fork
+aliases: [South Fork]
 ---
 
 ### Enst (South Fork)

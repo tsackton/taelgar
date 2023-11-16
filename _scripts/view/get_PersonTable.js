@@ -4,7 +4,7 @@ async function get_table(input) {
     let map = input.map ?? (f => [f.name, dv.fileLink(f.file)])
     let header = input.header ?? ["Name", "File"]
 
-    const { metadataUtils } = customJS
+    const { NameManager } = customJS
     const { WhereaboutsManager } = customJS
     const { DateManager } = customJS
 
@@ -15,7 +15,7 @@ async function get_table(input) {
     return await dv.table(header, pages.where(pageWhere).flatMap(item => {
         let people = [];
 
-        let name = metadataUtils.get_Name(item.file, true)
+        let name = NameManager.getName(item.file.basename, NameManager.NoLink, NameManager.TitleCase)
 
         let whereabouts = WhereaboutsManager.getWhereabouts(item.file.frontmatter)
 

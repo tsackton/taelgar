@@ -5,7 +5,6 @@ campaignInfo: []
 name: Ardonne
 placeType:
 partOf:
-aliases: Andonne
 ---
 # River Ardonne
 

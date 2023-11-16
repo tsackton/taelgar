@@ -1,5 +1,7 @@
 ---
+displayDefaults: {definitiveArticle: ""}
 tags: [item, status/notes]
+aliases: [Phasing Stone]
 typeOf: stone
 ---
 # Phasing Stones

@@ -1,3 +1,7 @@
+---
+aliases: [Mindflayer, Mind Flayer, Illithid]
+---
+
 # Illithids
 
 Aberrations from the Far Realm. 

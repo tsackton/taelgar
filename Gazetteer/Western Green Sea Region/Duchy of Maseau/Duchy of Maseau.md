@@ -5,7 +5,7 @@ campaignInfo: []
 name: Duchy of Maseau
 placeType:
 partOf:
-aliases: Maseau
+aliases: [Maseau]
 ---
 # The Duchy of Maseau
 

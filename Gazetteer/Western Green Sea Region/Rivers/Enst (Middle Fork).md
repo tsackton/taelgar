@@ -5,7 +5,7 @@ campaignInfo: []
 name: Enst (Middle Fork)
 placeType:
 partOf:
-aliases: Middle Fork, Middle Fork of the Enst
+aliases: [Middle Fork, Middle Fork of the Enst]
 ---
 
 ### Enst (Middle Fork)

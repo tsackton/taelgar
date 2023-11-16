@@ -81,12 +81,12 @@ class DateManager {
     getRegnalDates(metadata, targetDate) {
         
         if (!targetDate) targetDate = this.getTargetDateForPage(metadata)
-        let status = { isStarted: undefined, isCurrent: undefined, startDate: undefined, endDate: undefined, length: undefined }
+        let status = { isCreated: undefined, isCurrent: undefined, startDate: undefined, endDate: undefined, length: undefined }
 
         status.endDate = this.normalizeDate(metadata.reignEnd, true) ?? this.normalizeDate(metadata.died, true);
         status.startDate = this.normalizeDate(metadata.reignStart, false)
-        status.isStarted = status.startDate && status.startDate.sort <= targetDate.sort
-        status.isCurrent = status.isStarted && (status.endDate == undefined || targetDate.sort < status.endDate.sort)
+        status.isCreated = status.startDate && status.startDate.sort <= targetDate.sort
+        status.isCurrent = status.isCreated && (status.endDate == undefined || targetDate.sort <= status.endDate.sort)
 
         if (status.startDate) {
             if (status.isCurrent) {
