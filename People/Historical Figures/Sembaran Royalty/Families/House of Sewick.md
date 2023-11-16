@@ -77,14 +77,3 @@ class KingOrQueen ruler;
 
 ```
 
-
-
-
-### Members
-
-```dataview
-TABLE reignStart, died from #person where contains(leaderOf, "Sembara") sort reignStart
-```
-
-
-
