@@ -1,10 +1,15 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name:
-placeType:
-partOf:
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: 
+placeType: forest
+partOf: Central Highlands Region
 ---
 # The Crimson Forest
 >[!info]+ Summary

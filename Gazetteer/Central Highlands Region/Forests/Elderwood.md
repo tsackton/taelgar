@@ -1,12 +1,16 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name: Elderwood
-placeType:
-partOf:
-aliases: [The Elderwood]
+tags:
+  - place
+displayDefaults: { startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definiteArticle: the }
+campaignInfo: 
+name: 
+placeType: forest
+partOf: Central Highlands Region
+aliases: []
 ---
+# Elderwood
+>[!info]+ Summary
+> a forest in the [[Central Highlands Region]]
 
 ### The Elderwood
 
