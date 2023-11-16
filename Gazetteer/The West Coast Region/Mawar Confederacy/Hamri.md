@@ -1,10 +1,15 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Hamri
 placeType: town
-partOf: Mawar Confdederacy
+partOf: Mawar Confederacy
 population: 3500
 ---
 # Hamri
