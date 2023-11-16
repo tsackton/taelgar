@@ -1,16 +1,21 @@
 ---
 tags:
   - place
+  - status/draft
 displayDefaults:
   startStatus: founded
   startPrefix: founded
   endPrefix: destroyed
   endStatus: destroyed
+  definitiveArticle: ""
 campaignInfo: 
 name: Central Highlands Region
-placeType: 
-partOf:
+placeType: region
+partOf: Taelgar
 ---
+# Central Highlands Region
+>[!info]+ Summary
+> a region in [[Taelgar]]
 
 ### Overview
 

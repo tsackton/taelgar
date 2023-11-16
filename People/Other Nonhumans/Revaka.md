@@ -15,4 +15,4 @@ whereabouts:
 >[[Hobgoblins|hobgoblin]], she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A hobgoblin trapped in the [[Mirror of Soul Trapping]]. A fairly powerful sorcerer from before the [[Events/1500s/Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
+A hobgoblin trapped in the [[Mirror of Soul Trapping]]. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 

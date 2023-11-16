@@ -20,4 +20,6 @@ whereabouts:
 
 A dwarven scholar and theoretical metaphysicist, on the Faculty of Metaphysics at the [[University of Chardon]].  Author of [[The Lore of the Feywild]]. 
 
-Met [[Seeker]] in December 1757, when [[Seeker]] passed through [[Chardon]] before arriving in [[Karawa]].
+Met [[Seeker]] in December 1747, when [[Seeker]] passed through [[Chardon]] before arriving in [[Karawa]].
+
+%%SECRET[1]%%
