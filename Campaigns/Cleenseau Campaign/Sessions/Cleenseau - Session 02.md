@@ -1,14 +1,9 @@
 ---
-tags: [session-note, cleenseau-campaign]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name: Cleenseau - Session 02
-fc-calendar: Taelgar Calendar
-fc-date: 1719-10-22
-fc-end: 1719-10-25
-fc-category: Cleenseau Campaign
+tags: [session-note]
+campaign: Cleenseau
 realWorldDate: 2023-02-12
 sessionNumber: 2
+players: [Izgil, Robin, Viepuck, Celyn]
 ---
 # Cleenseau - Session 2
 >_in Taelgar from the pre-dawn of October 22nd until the morning of October 25th
