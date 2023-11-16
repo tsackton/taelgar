@@ -8,14 +8,13 @@ species: dwarf
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Ardith, unknown'}
-- {type: home, start: 1512-01-02, end: '', location: 'Taviose, Sembara'}
+- {type: home, start: '', end: '', location: 'Ardith'}
+- {type: home, start: 1512-01-02, end: '', location: 'Taviose'}
 ---
 # Diesla Starsearcher
 >[!info]+ Biographical Summary
 >[[Dwarves|dwarf]], she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 [[Brot Starsearcher]]'s wife, a respected metalsmith in [[Taviose]].

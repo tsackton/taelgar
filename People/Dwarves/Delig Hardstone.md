@@ -10,11 +10,9 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
 ---
-# Delig Hardstone
+# The Delig Hardstone
 >[!info]+ Biographical Summary
 >[[Dwarves|dwarf]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Patriach of the Hardstone clan, father to [[Dag Hardstone]]. 

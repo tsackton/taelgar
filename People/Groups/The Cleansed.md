@@ -1,6 +1,6 @@
 ---
 tags: [status/stub, organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded, definitiveArticle: ""}
 campaignInfo: []
 name:
 ---

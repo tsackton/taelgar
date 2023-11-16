@@ -1,6 +1,6 @@
 ---
 tags: [pc, pc/cleenseau, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died, primaryOrgType: party}
 campaignInfo: []
 name: Celyn
 born: 1697
@@ -8,17 +8,16 @@ species: human
 ancestry: Tyrwinghan
 gender: male
 player: Kiya Nicoll
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+affiliations: [Heroes of Cleenseau]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Clawyn, Tyrwingha'}
-- {type: away, start: 1719-10-17, end: '', location: 'Cleenseau, Sembara'}
+- {type: home, end: 1719, location: Clawyn}
+- {type: away, start: 1719-10-17, end: 1720-01-10, location: Cleenseau}
 ---
 # Celyn
 >[!info]+ Biographical Summary
->human (Tyrwinghan), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Clawyn]], [[Tyrwingha]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Tyrwingha|Tyrwinghan]]), he/him of [[Heroes of Cleenseau]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Celyn is a slightly short, pale, blond young human man, probably in his early twenties, with quick hands and a wide, open blue-eyed attention.  His demeanor is generally cheerful if perhaps a bit naive; he appears to be amiably accepting of a number of the foibles of other people around him where someone else might make comment.  Perhaps this is related to the way he is utterly unapologetic about his own quirks, which are reasonably numerous and include frequent references to luck and good fortune, current objects of his apparently infinite curiosity, and off-the-wall commentary.  He does not make eye contact but is very clearly attentive to conversations he’s in; he has small brief rituals that he does when drinking wine.  
   

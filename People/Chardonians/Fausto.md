@@ -7,7 +7,7 @@ born: 1714
 species: human
 ancestry: Chardonian
 gender: male
-affiliations: [The Society of the Open Scroll, The Cleansed]
+affiliations: [Society of the Open Scroll, The Cleansed]
 whereabouts:
 - {type: home, start: 1731-01-01, end: '', location: 'Chardon, Chardonian Empire'}
 - {type: away, start: 1734-01-01, end: '', location: 'adventuring, The West Coast Region'}
@@ -15,8 +15,8 @@ whereabouts:
 ---
 # Fausto
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him of The Society of the Open Scroll
-> Member of: [[The Cleansed]]
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: The [[Society of the Open Scroll]], [[The Cleansed]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

@@ -1,7 +1,8 @@
 ---
 tags: [pc, pc/cleenseau, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died, primaryOrgType: party}
 campaignInfo: []
+campaign: Cleenseau
 name: Robin of Abenfyrd
 born: 1700
 species: human
@@ -9,17 +10,16 @@ ancestry: Tyrwinghan
 gender: male
 player: Dan Walters
 aliases: [Robin]
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+affiliations: [Heroes of Cleenseau]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Abenfyrd, Tyrwingha'}
-- {type: away, start: 1719-10-19, end: '', location: 'Cleenseau, Sembara'}
+- {type: home, end: 1719, location: Abenfyrd }
+- {type: away, start: 1719-10-19, end: 1720-01-10, location: Cleenseau}
 ---
 # Robin of Abenfyrd
 >[!info]+ Biographical Summary
->human (Tyrwinghan), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Abenfyrd]], [[Tyrwingha]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[[Humans|human]]  ([[Tyrwingha|Tyrwinghan]]), he/him of [[Heroes of Cleenseau]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Robin of Abenfyrd is a young man of about twenty, a paladin of [[The Wanderer]], and hails from [[Tyrwingha]]. He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a [[Lantern of the Bright Hearth|small lantern]] on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) for that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays
 

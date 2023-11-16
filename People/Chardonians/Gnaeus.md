@@ -15,7 +15,7 @@ whereabouts:
 # Gnaeus
 >[!info]+ Biographical Summary
 >[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: [[University of Chardon|The University of Chardon]], Sibyl's Hall
+> Member of: The [[University of Chardon]], [[Sibyl's Hall]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
