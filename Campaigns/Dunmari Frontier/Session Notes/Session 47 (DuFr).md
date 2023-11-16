@@ -11,7 +11,7 @@ As dinner ends, [[Harol Silversong]] and [[Pearl Copperharp]] take out their ins
 Lyle's chart:
 ![[halfling-chart.png|500]]
 
-The next days pass quietly in the routine of the ship. While a few vessels are spotted – Chardonians and other traders – none come close or threaten to board. After a few days sailing, the [[Emerald Song]] approaches the [[Old Chardon Canal]] that connects the [[Nevos Sea]] to the Endless Ocean to the north, and cuts many weeks off the sailing time between [[Dunmar]] and [[Chardon]]. Originally built by the Drankorians, it is now managed and run by the [[Chardonian Empire]]. 
+The next days pass quietly in the routine of the ship. While a few vessels are spotted – Chardonians and other traders – none come close or threaten to board. After a few days sailing, the [[Emerald Song]] approaches the [[Old Chardon Canal]] that connects the [[Nevos Sea]] to the [[Endless Ocean]] to the north, and cuts many weeks off the sailing time between [[Dunmar]] and [[Chardon]]. Originally built by the Drankorians, it is now managed and run by the [[Chardonian Empire]]. 
 
 Before arriving, [[Riswynn]] magically constructs a small lead box, for [[Wellby]] to store the [[Portable Hole]] in. Everyone but [[Wellby]] climbs into the mirror; [[Wellby]] then stores it in the [[Portable Hole]], which he keeps in the lead box. So only [[Wellby]] sees the scenes of the next day, the journey through the canal.
 
