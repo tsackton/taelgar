@@ -25,12 +25,14 @@ The Central Highlands Region is a land of contrasts, from vast forests dominated
 
 ## Boundaries
 
+The Central Highlands includes the Sentinel Range, as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the [[[~NorthNahadiRiver~]].
+
 - To the north, this region is bordered by the cold polar regions of the [[Far North Region]]. 
 - To the east, this region is bordered by the [[Highland Kingdoms]], the [[The Western Marches]] of [[Sembara]], and the [[Refounded Alliance of Aurbez]]. 
 - To the south, this region is bordered by the plains of [[Dunmar]]. 
 - To the west, this region is bordered by the [[Chardonian Empire]], the northern hinterlands of the [[Chardonian Empire]], and the coastal north. 
 
-### Major Features
+## Major Features
 
 %% TO DO
 Some of this description should be ported to individual pages, with real world details in comments
