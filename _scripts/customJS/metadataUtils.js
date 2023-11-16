@@ -309,7 +309,7 @@ class metadataUtils {
                     let fm = window.app.metadataCache.getFileCache(file)
                     let name = this.get_Name({ file: file, frontmatter: fm.frontmatter }, true, titleCase)
                     if (fm && fm.frontmatter && fm.frontmatter.partOf && depth < 2) {
-                        let parent = this.#get_LocationFromPieces(fm.frontmatter.partOf, depth + 1, true)
+                        let parent = this.#get_LocationFromPieces(fm.frontmatter.partOf, depth + 1, titleCase)
                         return name + ", " + parent
                     }
 
