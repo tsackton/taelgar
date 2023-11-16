@@ -1,11 +1,19 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Mawar Confederacy
-placeType:
-partOf:
+placeType: 
+partOf: West Coast Region
 ---
+# The Mawar Confederacy
+>[!info]+ Summary
+> a place in the [[West Coast Region]]
 
 ## Overview
 

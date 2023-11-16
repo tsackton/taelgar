@@ -8,7 +8,7 @@ partOf: Hamri
 ---
 # The Leviathan Inn
 >[!info]+ Summary
-> an inn in [[Hamri]], the [[Mawar Confederacy]]
+> an inn in [[Hamri]], the [[Mawar Confederacy]], the [[West Coast Region]]
 
 (stub)
 
