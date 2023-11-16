@@ -1,11 +1,17 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Tollen
-placeType:
-partOf: The Western Green Sea Region
-aliases: [Tollen]
+placeType: 
+partOf: Western Green Sea Region
+aliases:
+  - Tollen
 cultureDescriptor: Tollender
 ---
 # The Free City of Tollen
