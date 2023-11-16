@@ -7,7 +7,11 @@ placeType:
 partOf:
 ---
 
+%% TODO
+update player map with more recent, cleaned up version
+%%
 
+## Known World of Taelgar, Default Player Map:
 
 ```leaflet 
 id: world-of-taelgar
