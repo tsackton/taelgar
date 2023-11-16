@@ -1,23 +1,64 @@
 {
-    "placeNameFragmentsThatSkipAutoLinking" : ["somewhere", "unknown", "of", "in"], 
-    "campaigns":[
+    "fragmentsThatDontAutoLink": [ "somewhere", "unknown", "of", "in", "near"], 
+    "displayDefaults" : {
+        "person" :  { "startStatus": "born", "startPrefix": "b.", "endPrefix": "d.", "endStatus": "died", "primaryOrgType": "family", "definitiveArticle" : ""},
+        "place" : { "startStatus": "founded", "startPrefix": "founded", "endPrefix": "destroyed", "endStatus": "destroyed"},
+        "item" :  { "startStatus": "created", "startPrefix": "created", "endPrefix": "destroyed", "endStatus": "destroyed"},
+        "organization" : { "startStatus": "founded", "startPrefix": "founded", "endPrefix": "disbanded", "endStatus": "disbanded"},
+        "default" :  { "startStatus": "created", "startPrefix": "created", "endPrefix": "destroyed", "endStatus": "destroyed", "definitiveArticle" : ""}
+    },   
+    "linkmap": [
         {
-            "prefix": "clee",
-            "campaignName": "Cleenseau",
-            "partyName" : "The Andover Crowd",
-            "partyFile" : "Heroes of Cleenseau"
+            "from": "clee",
+            "to": "Heroes of Cleenseau"
         },
         {
-            "prefix": "DuFr",
-            "campaignName": "Dunmari Frontier",
-            "partyFile" : "The Dunmar Fellowship",
-            "partyName" : "The Side Quests"
+            "from": "ka",
+            "to": "The Cycle of Generations",
+            "isAlias": true
         },
         {
-            "prefix": "GW",
-            "campaignName": "The Great War",
-            "partyName" : "The Highschoolers",
-            "partyFile" : "The Heroes of the Great War"
+            "from": "DuFr",
+            "to": "The Dunmar Fellowship"
+        },
+        {
+            "from": "GW",
+            "to": "The Heroes of the Great War"
+        },
+        {
+            "from": "Dunmari",
+            "to": "Dunmar",
+            "isAlias": true
+        },
+        {
+            "from": "Sembaran",
+            "to": "Sembara",
+            "isAlias": true
+        },
+        {
+            "from": "Tyrwinghan",
+            "to": "Tyrwingha",
+            "isAlias": true
+        },
+        {
+            "from": "Chardonian",
+            "to": "Chardonian Empire",
+            "isAlias": true
+        },        
+        {
+            "from": "Drankorian",
+            "to": "Drankorian Empire",
+            "isAlias": true
+        },
+        {
+            "from": "Tollender",
+            "to": "Tollen",
+            "isAlias": true
+        },
+        {
+            "from": "Cymean",
+            "to": "Cymea",
+            "isAlias": true
         }
     ]
 }

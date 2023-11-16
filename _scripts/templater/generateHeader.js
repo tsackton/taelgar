@@ -21,10 +21,11 @@ function get_Pronouns(metadata) {
 
 async function generateHeader(tp) {
 
-    const { metadataUtils } = customJS
     const { WhereaboutsManager } = customJS
-
-    let nameString = metadataUtils.get_Name(tp, false, true);
+    const { NameManager } = customJS
+    const { LocationManager } = customJS
+    
+    let nameString = NameManager.getName(tp.file.title, NameManager.NoLink, NameManager.TitleCase);
 
     if (!nameString) {
         new Notice("The file does not have a name; please set the name before processing the header")
@@ -49,10 +50,7 @@ async function generateHeader(tp) {
     let hasPageDates = tp.frontmatter.born || tp.frontmatter.died || tp.frontmatter.created || tp.frontmatter.destroyed
     let hasReignInfo = isRuler && (tp.frontmatter.reignStart || tp.frontmatter.reignEnd)
 
-    let primaryOrgType = "family"
-    if (tp.frontmatter.displayDefaults && tp.frontmatter.displayDefaults.primaryOrgType) {
-        primaryOrgType = tp.frontmatter.displayDefaults.primaryOrgType
-    }
+    let displayDefaults = NameManager.getDisplayData(tp.frontmatter)
 
     if (isPerson) {
         output += ">[!info]+ Biographical Summary"
@@ -63,26 +61,15 @@ async function generateHeader(tp) {
 
         let species = tp.frontmatter.species;
         if (species) {
-            let link = app.plugins.plugins.dataview.api.pages().where(p => p.speciesDescriptor == species).first()
-            if (link) {
-                speciesDisplayValue = "[[" + link.file.name + "|" + species + "]]"
-            }
-            else {
-                speciesDisplayValue = species;
-            }
+            speciesDisplayValue = NameManager.getName(species, NameManager.LinkIfExists, NameManager.LowerCase)
         }
 
         let ancestry = tp.frontmatter.ancestry;
         if (ancestry) {
-            let link = app.plugins.plugins.dataview.api.pages().where(p => p.cultureDescriptor == ancestry).first()
-            if (link) {
-                if (species) ancestryDisplayValue = " ([[" + link.file.name + "|" + ancestry + "]])"
-                else ancestryDisplayValue = "[[" + link.file.name + "|" + ancestry + "]]"
-            }
-            else {
-                if (species) ancestryDisplayValue = " (" + ancestry + ")"
-                else ancestryDisplayValue = ancestry;
-            }
+            let ancestryValue = NameManager.getName(ancestry)
+
+            if (species) ancestryDisplayValue = " (" + ancestryValue + ")"
+            else ancestryDisplayValue = ancestryValue;
         }
 
 
@@ -93,10 +80,10 @@ async function generateHeader(tp) {
             leadersCheck = tp.frontmatter.leaderOf
             let source = tp.frontmatter.leaderOf.map(leader => {
                 return {
-                    title: tp.frontmatter.displayDefaults?.leaders == undefined ? title : tp.frontmatter.displayDefaults.leaders.filter(f => f.name == leader).first()?.title ?? title,
-                    place: metadataUtils.get_NameForPossibleLink(leader, true, undefined, false)
+                    title: displayDefaults.leaders == undefined ? title : displayDefaults.leaders.filter(f => f.name == leader).first()?.title ?? title,
+                    place: NameManager.getName(leader, NameManager.CreateLink)
                 };
-            }).filter(f => f.place != undefined)
+            })
 
             while (source.length > 0) {
 
@@ -133,7 +120,7 @@ async function generateHeader(tp) {
 
         let elfDisplay = "";
         if (tp.frontmatter.ka || species == "elf") {
-            elfDisplay = " ([[The Cycle of Generations|ka " + (tp.frontmatter.ka ?? "unknown") + "]])"
+            elfDisplay = " (" + NameManager.getName("ka") + " " + (tp.frontmatter.ka ?? "unknown") + ")"            
         }
 
         let familyDisplay = undefined
@@ -148,11 +135,11 @@ async function generateHeader(tp) {
                 if (leadersCheck.includes(aff)) continue
 
                 if (!familyDisplay) {
-                    familyDisplay = metadataUtils.get_NameForOrganization(aff, true, primaryOrgType, false)
+                    familyDisplay = NameManager.getFilteredName(aff, f => f.orgType == displayDefaults.primaryOrgType, NameManager.CreateLink)
                     if (familyDisplay) continue
                 }
 
-                orgText += metadataUtils.get_NameForPossibleLink(aff, true, undefined, true)
+                orgText += NameManager.getName(aff, NameManager.CreateLink, NameManager.TitleCase)
                 hasOrg = true
                 if (i < tp.frontmatter.affiliations.length - 1) orgText += ", "
             }
@@ -194,13 +181,13 @@ async function generateHeader(tp) {
         output += ">[!info]+ Summary"
         if (hasPageDates) output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
         if (tp.frontmatter.basedIn) {
-            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.basedIn, true)
+            let locationDisplay = LocationManager.getLocationName(tp.frontmatter.basedIn, "title")
             if (locationDisplay) {
                 output += "\n> Based in: " + locationDisplay
             }
         }
         if (tp.frontmatter.partOf) {
-            let partOf = metadataUtils.get_NameForPossibleLink(tp.frontmatter.partOf, true, "organization", true)
+            let partOf = NameManager.getFilteredName(tp.frontmatter.partOf, f => f.tags && f.tags.some(t => t.startsWith("organization")), NameManager.CreateLink, NameManager.TitleCase)
             if (partOf) {
                 output += "\n> Parent Organization: " + partOf
             }
@@ -226,11 +213,8 @@ async function generateHeader(tp) {
 
         let typeOf = tp.frontmatter.typeOf
         if (typeOf) {
-            let file = window.app.metadataCache.getFirstLinkpathDest(typeOf, ".");
-            if (file) {
-                typeOfLinked = true
-                typeOf = "[[" + typeOf + "]]"
-            }
+            typeOf = NameManager.getName(typeOf, NameManager.LinkIfExists, NameManager.LowerCase)
+            typeOfLinked = typeOf.includes("[")
         }
 
         if (!typeOf) typeOf = "item"
@@ -255,11 +239,11 @@ async function generateHeader(tp) {
         }
 
         if (tp.frontmatter.owner) {
-            output += "\n> Owner: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.owner, true, undefined, true)
+            output += "\n> Owner: " + NameManager.getName(tp.frontmatter.owner, NameManager.CreateLink)
         }
 
         if (tp.frontmatter.maker) {
-            output += "\n> Maker: " + metadataUtils.get_NameForPossibleLink(tp.frontmatter.maker, true, undefined, true)
+            output += "\n> Maker: " + NameManager.getName(tp.frontmatter.maker, NameManager.CreateLink)
         }
 
         if (hasPageDates) {
@@ -282,7 +266,8 @@ async function generateHeader(tp) {
 
         if (tp.frontmatter.partOf) {
 
-            let locationDisplay = metadataUtils.get_Location(tp.frontmatter.partOf, false)
+            let locationDisplay = LocationManager.getLocationName(tp.frontmatter.partOf)
+            
 
             if (tp.frontmatter.placeType) {
                 let firstChar = tp.frontmatter.placeType[0]

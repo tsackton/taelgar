@@ -1,6 +1,6 @@
 function get_Whereabouts(metadata) {
 
-    const { metadataUtils } = customJS
+    const { LocationManager } = customJS
     const { WhereaboutsManager } = customJS
     const  { DateManager } = customJS
 
@@ -18,15 +18,15 @@ function get_Whereabouts(metadata) {
     let displayString = "";
 
     if (showOrigin) {
-        displayString = "Originally from: " + metadataUtils.get_Location(whereabout.origin, false);
+        displayString = "Originally from: " + LocationManager.getLocationName(whereabout.origin.location);
     }
 
     if (whereabout.home && whereabout.home.location) {
         if (!isPageAlive) {
-            displayString += "\nLived in: " + metadataUtils.get_Location(whereabout.home, false);
+            displayString += "\nLived in: " + LocationManager.getLocationName(whereabout.home.location);
         }
         else {
-            displayString += "\nBased in: " + metadataUtils.get_Location(whereabout.home, false);
+            displayString += "\nBased in: " + LocationManager.getLocationName(whereabout.home.location);
         }
 
         // if we have a current location that matches home, we are done
@@ -44,18 +44,18 @@ function get_Whereabouts(metadata) {
 
     if (whereabout.current && whereabout.current.location) {
         if (isPageAlive) {
-            displayString += "\nCurrent location: (as of " + pageYear.display + "): " + metadataUtils.get_Location(whereabout.current, false)
+            displayString += "\nCurrent location: (as of " + pageYear.display + "): " + LocationManager.getLocationName(whereabout.current.location)
         }
         else {
             let capitalizedEnd = pageData.endDescriptor.charAt(0).toUpperCase() + pageData.endDescriptor.slice(1);
-            displayString += "\n " + capitalizedEnd + " in " + metadataUtils.get_Location(whereabout.current, false)
+            displayString += "\n " + capitalizedEnd + " in " + LocationManager.getLocationName(whereabout.current.location)
         }
         return displayString;
     }
 
     if (whereabout.lastKnown && whereabout.lastKnown.location) {
 
-        displayString += "\nLast known location: (as of " + whereabout.lastKnown.awayEnd.display + "): " + metadataUtils.get_Location(whereabout.lastKnown, false)
+        displayString += "\nLast known location: (as of " + whereabout.lastKnown.awayEnd.display + "): " + LocationManager.getLocationName(whereabout.lastKnown.location)
         if (isPageAlive) {
             displayString += "\n Current location: Unknown";
         }

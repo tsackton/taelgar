@@ -5,7 +5,7 @@ campaignInfo: []
 name: Enst (North Fork)
 placeType:
 partOf:
-aliases: North Fork, North Fork of the Enst
+aliases: [North Fork, North Fork of the Enst]
 ---
 
 ### Enst (North Fork)

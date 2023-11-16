@@ -1,6 +1,6 @@
 ---
 tags: [organization/party]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded, definitiveArticle: ""}
 campaignInfo: []
 name:
 ---

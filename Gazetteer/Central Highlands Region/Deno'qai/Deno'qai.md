@@ -5,5 +5,4 @@ campaignInfo: []
 name: Deno'qai
 placeType:
 partOf:
-cultureDescriptor: Deno'qai
 ---

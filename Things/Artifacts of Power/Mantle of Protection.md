@@ -10,7 +10,7 @@ magical: true
 typeOf: cloak
 rarity: unique
 ---
-# Mantle of Protection
+# The Mantle of Protection
 >[!info]+ Item Info
 >(unique magical cloak)
 > Owner: [[Lubash|Chief Lubash]]

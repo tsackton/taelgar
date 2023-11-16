@@ -13,7 +13,8 @@ async function get_table(input) {
         includePartyMeetings: input.includePartyMeetings ?? input.includeAll ?? false
     };
 
-    const { metadataUtils } = customJS
+    const { NameManager } = customJS
+    const { LocationManager } = customJS
     const { DateManager } = customJS
     const { WhereaboutsManager } = customJS
 
@@ -24,7 +25,7 @@ async function get_table(input) {
     return await dv.table(header, pages.where(pageWhere).flatMap(item => {
         let events = [];
         
-        let name = metadataUtils.get_Name(item.file, true)
+        let name = NameManager.getName(item.file.name, NameManager.NoLink, NameManager.TitleCase)
       
         if (item.file.frontmatter.DR != null) {
             let jsDate = DateManager.normalizeDate(item.file.frontmatter.DR, false)
@@ -43,7 +44,7 @@ async function get_table(input) {
                 let origin = WhereaboutsManager.getWhereabouts(item.file.frontmatter).origin
                 let text = name + " " + pageExistenceData.startDescriptor
                 if (origin) {
-                    text += " in " + metadataUtils.get_Location(origin)
+                    text += " in " + LocationManager.getLocationName(origin, NameManager.PreserveCase, 2, NameManager.CreateLink)
                 }
 
                 events.push({ year: pageExistenceData.startDate.year, date: pageExistenceData.startDate.display, text: text, rawText: text, file: item.file.name, sort: pageExistenceData.startDate.sort })
@@ -53,7 +54,7 @@ async function get_table(input) {
                 let diedSpot = WhereaboutsManager.getWhereabouts(item.file.frontmatter, pageExistenceData.endDate).lastKnown
                 let text = name + " " + pageExistenceData.endDescriptor
                 if (diedSpot) {
-                    text += " in " + metadataUtils.get_Location(diedSpot)
+                    text += " in " + LocationManager.getLocationName(diedSpot, NameManager.PreserveCase, 2, NameManager.CreateLink)
                 }
 
                 events.push({ year: pageExistenceData.endDate.year, date: pageExistenceData.endDate.display, text: text, rawText: text, file: item.file.name, sort: pageExistenceData.endDate.sort })
@@ -76,7 +77,7 @@ async function get_table(input) {
         }
         if (options.includePartyMeetings) {            
             WhereaboutsManager.getPartyMeeting(item.file.frontmatter, undefined).forEach(element => {        
-                let name = metadataUtils.get_Name(item.file, true, false)
+                let name = NameManager.getName(item.file.name, NameManager.CreateLink, NameManager.TitleCase)
                 let uncap = element.text.charAt(0).toLowerCase() + element.text.slice(1)
 
                 let processedText = name + " " + uncap
@@ -89,7 +90,7 @@ async function get_table(input) {
             item.file.frontmatter.whereabouts.filter(e => e.start || e.end).forEach(element => {
                 let parsedStart = DateManager.normalizeDate(element.start, false)
                 let parsedEnd = DateManager.normalizeDate(element.end, true)
-                let location = metadataUtils.get_Location(element)
+                let location = LocationManager.getLocationName(element.location, NameManager.PreserveCase, 1, NameManager.CreateLink)
 
                 let arriveVerb = "was at"
                 let departVerb = "left"
