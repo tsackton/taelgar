@@ -10,7 +10,7 @@ gender: female
 reignStart:
 died: 1559
 ---
-# Jane of Tollen
+# The Jane of Tollen
 >[!info]+ Biographical Summary
 >[[Humans|human]]  ([[Tollen|Tollender]]), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue")`

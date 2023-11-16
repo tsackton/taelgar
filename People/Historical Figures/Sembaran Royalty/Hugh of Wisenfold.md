@@ -13,7 +13,7 @@ affiliations: [House of Wisenfold]
 ---
 # Hugh
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Wisenfold]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of the [[House of Wisenfold]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 

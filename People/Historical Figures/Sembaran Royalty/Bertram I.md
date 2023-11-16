@@ -13,10 +13,10 @@ title: King
 leaderOf: [Sembara, Zovcka, Ardlas, Breva,Lavnoch]
 affiliations: [House of Sewick]
 ---
-# King Bertram I
+# The King Bertram I
 >[!info]+ Biographical Summary
 >King of [[Sembara]] and [[Zovcka]] and [[Ardlas]] and [[Breva]] and [[Lavnoch]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Sewick|The House of Sewick]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of the [[House of Sewick]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 

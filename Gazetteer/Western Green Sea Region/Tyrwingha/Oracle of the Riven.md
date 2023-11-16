@@ -1,11 +1,12 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+tags: [organization]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ""}
 campaignInfo: []
 name: Oracle of the Riven
 placeType:
 partOf:
 ---
+# Oracle of the Riven
 
 The royal electors of [[Tyrwingha]]. There are six of these royal electors:
 

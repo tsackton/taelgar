@@ -1,12 +1,10 @@
 ---
 tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
-campaignInfo: []
-name:
 orgType: family
 created: 1570
 ---
-# House of Lils
+# The House of Lils
 >[!info]+ Summary
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 

@@ -13,10 +13,10 @@ reignEnd: 1519
 leaderOf: [Sembara, Ardlas, Breva, Lavnoch]
 affiliations: [House of Sewick]
 ---
-# Charlotte I
+# The Charlotte I
 >[!info]+ Biographical Summary
 >Ruler of [[Sembara]] and [[Ardlas]] and [[Breva]] and [[Lavnoch]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of [[House of Sewick|The House of Sewick]]
+>[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of the [[House of Sewick]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 
