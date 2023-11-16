@@ -5,6 +5,8 @@ async function get_table(input) {
     let header = input.header ?? ["Name", "File"]
 
     const { metadataUtils } = customJS
+    const { WhereaboutsManager } = customJS
+    const { DateManager } = customJS
 
     let pages = undefined;
     if (input.pageFilter) pages = dv.pages(input.pageFilter.trim());
@@ -14,10 +16,13 @@ async function get_table(input) {
         let people = [];
 
         let name = metadataUtils.get_Name(item.file, true)
-        let existData = metadataUtils.get_pageExistenceData(item.file.frontmatter)
-        let currentLoc = metadataUtils.get_currentWhereabouts(item.file.frontmatter)
-        let home = metadataUtils.get_homeWhereabouts(item.file.frontmatter)
-        let origin = metadataUtils.get_originWhereabouts(item.file.frontmatter)
+
+        let whereabouts = WhereaboutsManager.getWhereabouts(item.file.frontmatter)
+
+        let existData = DateManager.getPageDates(item.file.frontmatter)
+        let currentLoc = whereabouts.current
+        let home = whereabouts.home
+        let origin =  whereabouts.origin
 
         people.push({ name: name, file: item.file.name, life: existData, currentLocation: currentLoc?.location ?? "Unknown", homeLocation: home?.location ?? "Unknown", origin: origin?.location ?? "Unknown", debug_whereabouts: { c : currentLoc, h: home, o: origin} })
 
