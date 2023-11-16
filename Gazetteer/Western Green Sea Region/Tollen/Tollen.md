@@ -22,7 +22,7 @@ A bustling port on the [[Volta]], which forms the border between [[Sembara]] and
 Tollenders are deeply proud of their long history, and many will claim that Tollen is the oldest continually occupied [[Humans|human]] city in the world. Whether true or not is hard to know, but regardless Tollen's history stretches deep into the past.
 ### Founding
 
-Tollen was originally founded on the north bank of the [[Volta]] river by the first mariner migrants from [[Hkar]], before [[The Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of the [[Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[The Highlands]], and the non-[[Humans]] ([[Lizardfolk]] and [[Halflings]], mostly) of the [[Western Green Sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
+Tollen was originally founded on the north bank of the [[Volta]] river by the first mariner migrants from [[Hkar]], before [[The Downfall]], in the year 3902 by the Dwarven reckoning. Although the western edge of the [[Green Sea]], and the [[Western Gulf]], is originally something of a frontier backwater, over the next 100 years Tollen becomes a center of commerce and trade, a place where the mariner culture, the northern culture of [[Highlands]], and the non-[[Humans]] ([[Lizardfolk]] and [[Halflings]], mostly) of the [[Western Green Sea]] mingle. Even in this early age, Tollen was a religiously open and cosmopolitan place, and the worship of [[Kaikkea]], the ocean goddess of the early mariners and now the Skaer people, coexisted with the developing Kestavan tradition.
 
 ### Downfall and Rebirth
 
@@ -168,7 +168,7 @@ Here's an idea for an alternative timeline that keeps Tollen independent the w
 
 What if the earliest settlers of Tollen were explicitly the misfits and dissatisfied with the marnier culture (not sure what it is like exactly, but I imagine by the 3900s the OceanGod was dominant in a way that would allow some questioners or people not wedded to the mariner way of life to want to strike out). I'm thinking a bit of a Roger Williams or some of the other 'free thinker' early New England settlers vibe. 
 
-From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out [[The Highlands]] and the mariners have a lot to sell each other, so then comes the merchants.
+From that earliest point, Tollen gains a reputation as a free-wheeling place of stories and misfits and those who are looking for a new life. And with them comes the curious from other cultures, and it turns out [[Highlands]] and the mariners have a lot to sell each other, so then comes the merchants.
 
 In the 4050s, [[The Downfall]] War certainly unsettles things, but that doesn't mean Tollen has to be abandoned. The merchants flee, and the city shrinks dramatically, but it is not abandoned entirely.  
 

@@ -12,4 +12,4 @@ died: 1630
 affiliations: [House of Teckberg]
 ---
 <% tp.user.generateHeader(tp) %>
-The fifth child of [[Reginald]], Gyles founded the great House of Teckberg, based in the [[The Highlands]].  
+The fifth child of [[Reginald]], Gyles founded the great House of Teckberg, based in the [[Highlands]].  
