@@ -56,19 +56,19 @@ Update boundaries of what is considered "once part of Ainumarya" in forest notes
 	- ***Real world analogs:*** Temperate rainforests, especially the forests of the Pacific Northwest, are probably the best model, albeit with more magic. 
 - [[Forest of Dreams]]: North of [[Ainumarya]] is the [[Forest of Dreams]], clinging to the western slopes of the Sentinels east of the [[~VoltaraPlains~]] and the [[Blackwater Fens]], and spreading west along the foothills of [[Pandar]]. This forest is cooler and dried than [[Ainumarya]], with cold winters and significant snow at higher elevations. 
 	- ***Real world analogs:*** Temperate coniferous forest, especially the pine forests of western Canada and the interior Rockies, and classic mixed forests of the Alps. The lowlands north of the Blackwater Fens are probably more like temperate broadleaf and mixed forests. 
-- [[Blackwater Fens]]: *not really developed; was the home to a black dragon in the Great Library campaign, probably analogous to various low-lying high latitude bogs. unpleasant but not frozen in the winter. Around 50 degrees North. *
+- [[Blackwater Fens]]: *not really developed; was the home to a black dragon in the Great Library campaign, unpleasant but not frozen in the winter. Around 50 degrees North. There is probably not a great real world analogy, the basic idea is something like a temperate version of a [peat swamp forest](https://en.wikipedia.org/wiki/Peat_swamp_forest). Maybe a place like [here](https://www.visitestonia.com/en/where-to-go/west-estonia/soomaa-national-park) or just a more northerly version of the Great Dismal Swamp or something like that.* 
 
 %% comments
 - climatically, Ainumarya probably shouldn't be a temperate rainforest (too far from the coast), but the vibe is very much coastal redwoods, high producitivity; so this is a good place for elven magic, perhaps a high density of feywild connections brings rain and moisture. The mountains can also produce a rain shadow effect but it is very far inland for coastal moisture in a "normal earth" world, as least as understand it. But perhaps if the Sierras didn't exist, Utah would be a rainforest?
 - mountain passes: for worldbuilding reasons it is pretty important that Sembara - Chardon trade was once easy via Urlich but is now impossible, more or less, except via the dwarves as an intermediary. need to figure out the deal with High Horn, and also think a little bit about how to make it feasible that trade does not cross; presumably part is just the mountains are quite high and thus picking your way through is slow. Drankor presumably built roads but these would have largely connected via Urlich. 
-
 %%
 
 ## Climate
 
-This region of Taelgar is largely an inland, [continental climate](https://geodiode.com/climate/continental), generally with balanced rainfall or with wet winters and dry summers at the lower elevations. At higher elevations, the climate is temperate [highlands](https://geodiode.com/biomes/highlands), with the highest peaks covered in ice and snow year round.
+The region is climatically dominated by the Sentinel Range, which forms a barrier between the east and west of Taelgar. Entirely inland, this region has a largely [continental climate](https://geodiode.com/climate/continental), generally with balanced rainfall or with wet winters and dry summers at the lower elevations. At higher elevations, the climate is temperate [highlands](https://geodiode.com/biomes/highlands), with the highest peaks covered in ice and snow year round.
 
-### Real World Analogs
-
+***Real world analogs:***
+- Mountains of the Pacific Northwest, which have a similar north-south orientation, high peaks, and roughly equivalent latitude
+- Canadian Rockies, which mirror the northernmost section of the Sentinel Range
 
 
