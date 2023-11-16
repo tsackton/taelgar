@@ -14,6 +14,8 @@ async function get_table(input) {
     };
 
     const { metadataUtils } = customJS
+    const { DateManager } = customJS
+    const { WhereaboutsManager } = customJS
 
     let pages = undefined;
     if (input.pageFilter) pages = dv.pages(input.pageFilter.trim());
@@ -25,7 +27,7 @@ async function get_table(input) {
         let name = metadataUtils.get_Name(item.file, true)
       
         if (item.file.frontmatter.DR != null) {
-            let jsDate = metadataUtils.parse_date_to_events_date(item.file.frontmatter.DR, false)
+            let jsDate = DateManager.normalizeDate(item.file.frontmatter.DR, false)
             
             if (item.file.frontmatter.summary) {
                 name = "*(" + name + ")*: " + item.file.frontmatter.summary
@@ -35,10 +37,10 @@ async function get_table(input) {
         }
 
         if (options.includeCreate == true || options.includeEnd == true) {
-            let pageExistenceData = metadataUtils.get_pageExistenceData(item.file.frontmatter)
+            let pageExistenceData = DateManager.getPageDates(item.file.frontmatter)
 
             if (options.includeCreate && pageExistenceData.startDate) {
-                let origin = metadataUtils.get_originWhereabouts(item.file.frontmatter)
+                let origin = WhereaboutsManager.getWhereabouts(item.file.frontmatter).origin
                 let text = name + " " + pageExistenceData.startDescriptor
                 if (origin) {
                     text += " in " + metadataUtils.get_Location(origin)
@@ -48,7 +50,7 @@ async function get_table(input) {
             }
 
             if (options.includeEnd && pageExistenceData.endDate) {
-                let diedSpot = metadataUtils.get_lastKnownWhereabouts(item.file.frontmatter, pageExistenceData.endDate)
+                let diedSpot = WhereaboutsManager.getWhereabouts(item.file.frontmatter, pageExistenceData.endDate).lastKnown
                 let text = name + " " + pageExistenceData.endDescriptor
                 if (diedSpot) {
                     text += " in " + metadataUtils.get_Location(diedSpot)
@@ -60,8 +62,8 @@ async function get_table(input) {
         }
 
         if (options.includeRegnal == true && item.file.frontmatter.reignStart != null) {
-            let regnalData = metadataUtils.get_regnalData(item.file.frontmatter)
-            let pageExistData = metadataUtils.get_pageExistenceData(item.file.frontmatter)
+            let regnalData = DateManager.getRegnalDates(item.file.frontmatter)
+            let pageExistData = DateManager.getPageDates(item.file.frontmatter)
             if (regnalData.startDate) {
                 let text = name + " was crowned"
                 events.push({ year: regnalData.startDate.year, date: regnalData.startDate.display, text: text, rawText: text, file: item.file.name, sort: regnalData.startDate.sort })
@@ -72,25 +74,16 @@ async function get_table(input) {
                 events.push({ year: regnalData.startDate.year, date: regnalData.startDate.display, text: text, rawText: text, file: item.file.name, sort: regnalData.startDate.sort })
             }
         }
-        if (options.includePartyMeetings && item.file.frontmatter.lastSeenByParty && item.file.frontmatter.lastSeenByParty.length > 0) {            
-            item.file.frontmatter.lastSeenByParty.filter(element => element.prefix && element.date).forEach(async element => {
-                let parsedDate = metadataUtils.parse_date_to_events_date(element.date, false);
-                let locForThisDate = metadataUtils.get_currentWhereabouts(item.file.frontmatter, parsedDate);
-
-                if (locForThisDate) {
-                    let partyName = metadataUtils.get_party_name_for_party(element.prefix)
-                    if (partyName) {
-                        let text = name + " meet " + partyName + " at " + metadataUtils.get_Location(locForThisDate)
-                        events.push({ year: parsedDate.year, date: parsedDate.display, text: text, rawText: text, file: item.file.name, sort: parsedDate.sort })
-                    }
-                }
+        if (options.includePartyMeetings) {            
+            WhereaboutsManager.getPartyMeeting(item.file.frontmatter, undefined).forEach(element => {                
+                events.push({ year: element.date.year, date: element.date.display, text: element.text, rawText: element.text, file: item.file.name, sort: element.date.sort })
             });
         }
 
         if (options.includeTravel && item.file.frontmatter.whereabouts && item.file.frontmatter.whereabouts.length > 0) {
             item.file.frontmatter.whereabouts.filter(e => e.start || e.end).forEach(element => {
-                let parsedStart = metadataUtils.parse_date_to_events_date(element.start, false)
-                let parsedEnd = metadataUtils.parse_date_to_events_date(element.end, true)
+                let parsedStart = DateManager.normalizeDate(element.start, false)
+                let parsedEnd = DateManager.normalizeDate(element.end, true)
                 let location = metadataUtils.get_Location(element)
 
                 let arriveVerb = "was at"
@@ -117,7 +110,7 @@ async function get_table(input) {
         }
 
         item.file.lists.where(t => t.DR != null).forEach(t => {            
-            let jsDate = metadataUtils.parse_date_to_events_date(t.DR, false)
+            let jsDate = DateManager.normalizeDate(t.DR, false)
             if (jsDate != undefined) {
         
                 let textWithDate = t.text;

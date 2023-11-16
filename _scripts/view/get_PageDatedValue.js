@@ -1,8 +1,8 @@
 function get_PageDatedValue(metadata) {
 
-    const { metadataUtils } = customJS
+    const { DateManager } = customJS
 
-    pageExistenceData = metadataUtils.get_pageExistenceData(metadata)        
+    pageExistenceData = DateManager.getPageDates(metadata)        
 
     if (!pageExistenceData.isCreated) return "**(doesn't yet exist)**";
     

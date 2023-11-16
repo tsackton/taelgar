@@ -22,6 +22,7 @@ function get_Pronouns(metadata) {
 async function generateHeader(tp) {
 
     const { metadataUtils } = customJS
+    const { WhereaboutsManager } = customJS
 
     let nameString = metadataUtils.get_Name(tp, false, true);
 
@@ -177,20 +178,11 @@ async function generateHeader(tp) {
 
         if (tp.frontmatter.whereabouts) {
             output += "\n>> `$=dv.view(\"_scripts/view/get_Whereabouts\")`";
-            if (tp.frontmatter.campaignInfo) {
-                tp.frontmatter.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {
-                    let parsedDate = metadataUtils.parse_date_to_events_date(element.date, false);
-                    let locForThisDate = metadataUtils.get_currentWhereabouts(tp.frontmatter, parsedDate);
 
-                    if (locForThisDate) {
-                        let partyName = metadataUtils.get_party_name_for_party(element.campaign)
-                        if (partyName) {
-                            let type = element.type ?? "seen"
-                            let newText = `\n>>%%^Campaign:${element.campaign}%% Last ${type} by ${partyName} on ${parsedDate.display} in: ${metadataUtils.get_Location(locForThisDate, true)} %%^End%%`;
-                            output += newText
-                        }
-                    }
-                });
+            for (let meeting of WhereaboutsManager.getPartyMeeting(tp.frontmatter, undefined)) {
+                console.log(meeting)
+                let newText = `\n>>%%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`;
+                output += newText
             }
         }
     }

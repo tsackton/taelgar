@@ -1,8 +1,8 @@
 function get_RegnalValue(metadata) {
     
-    const { metadataUtils } = customJS
+    const { DateManager } = customJS
 
-    let regnalData = metadataUtils.get_regnalData(metadata)
+    let regnalData = DateManager.getRegnalDates(metadata)
 
     if (!regnalData.isStarted) return "";
 
@@ -20,7 +20,6 @@ function get_RegnalValue(metadata) {
     else {    
         return "";
     }  
-
-
 }
+
 return get_RegnalValue(dv.current() )
