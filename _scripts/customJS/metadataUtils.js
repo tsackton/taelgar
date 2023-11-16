@@ -165,14 +165,28 @@ class metadataUtils {
 
         if (descriptiveName == "Untitled") return undefined;
 
+        let article = ""
+
+        // add definitive article //
+        if (input.frontmatter.displayDefaults && "definitiveArticle" in input.frontmatter.displayDefaults) {
+            // we have a page override, use as is
+            // if null or undefined or blank, don't add anything
+            if (input.frontmatter.displayDefaults.definitiveArticle) article = input.frontmatter.displayDefaults.definitiveArticle + " ";
+        }
+        else if (descriptiveName.split(' ').length > 1) {
+            // name is more than one piece
+            article = "the ";
+        }
+        // name is one piece, don't change descriptiveName
+
         if (titleCase) {
             descriptiveName = toTitle(descriptiveName)
+            article = article.charAt(0).toUpperCase() + article.slice(1);
         }
 
-
-        if (!link) return descriptiveName;
-        else if (descriptiveName == fileName) return "[[" + descriptiveName + "]]"
-        else return "[[" + fileName + "|" + descriptiveName + "]]"
+        if (!link) return (article + descriptiveName);
+        else if (descriptiveName == fileName) return (article + "[[" + descriptiveName + "]]");
+        else return "[[" + fileName + "|" + article + descriptiveName + "]]"
     }
 
     get_party_name_for_party(prefix) {

@@ -6,7 +6,7 @@ name: Laughing Wolf Inn
 placeType: inn
 partOf: Arendum
 ---
-# Laughing Wolf Inn
+# The Laughing Wolf Inn
 >[!info]+ Summary
-> an inn in [[Arendum]], [[Chasa River Valley|The Chasa River Valley]], [[Chardonian Empire|The Chardonian Empire]]
+> an inn in [[Arendum]], The [[Chasa River Valley]], The [[Chardonian Empire]]
 

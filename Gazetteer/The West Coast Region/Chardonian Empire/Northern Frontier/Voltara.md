@@ -3,9 +3,12 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Voltara
-placeType:
-partOf:
+placeType: city
+partOf: Chardonian Empire
 ---
+# Voltara
+>[!info]+ Summary
+> a city in the [[Chardonian Empire]]
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
 tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: the}
 campaignInfo: []
 name: Bahrazel
 aliases: [Bahrâzel]

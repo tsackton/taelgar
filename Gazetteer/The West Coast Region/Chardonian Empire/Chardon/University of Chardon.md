@@ -2,14 +2,13 @@
 tags: [place, '#event-source']
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
-name: the University of Chardon
 placeType: university
 partOf: Chardon
 timelineDescriptor: University of Chardon
 ---
 # The University of Chardon
 >[!info]+ Summary
-> a university in [[Chardon]], [[Chardonian Empire]]
+> a university in [[Chardon]], [[Chardonian Empire|The the Chardonian Empire]]
 
 A great center of learning and teaching in Chardon, famous throughout Taelgar. Organized into the Chardonian Lecti, a series of undergraduate colleges, that employ masters to teach undergraduates. 
 
