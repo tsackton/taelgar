@@ -18,13 +18,13 @@ Climatically, the [[Western Green Sea]] is dominated by the spring and summer mo
 The prevailing winds tend to favor sailing east in the winter, and west in the summer, especially along the north and west parts of the ocean, where monsoon winds are most dominant. 
 
 %% Climate explanation - probably too much detail
-The Green Sea forms a rough triangle, with the western point at about 40 degrees North, and the eastern edges stretching from roughly 60 degrees North to roughly 30 degrees North. The Green Sea is split into eastern and western halves, divided by Irrla.
+The Green Sea forms a rough triangle, with the western point at about 40 degrees North, and the eastern edges stretching from roughly 60 degrees North to roughly 30 degrees North. The Green Sea is split into eastern and western halves, divided by [[Irrla]].
 
-In the summer, the land to the west heats up and the zone of high pressure shifts polarward. In the western Green Sea, a monsoon wind blows from the east, bringing summer rains to Sembara and Vostok, while in the east, light and variable winds shift northward. In the south, the powerful trade winds blow from the open ocean to the east. 
+In the summer, the land to the west heats up and the zone of high pressure shifts polarward. In the [[western Green Sea]], a monsoon wind blows from the east, bringing summer rains to [[Sembara]] and [[Vostok]], while in the east, light and variable winds shift northward. In the south, the powerful trade winds blow from the open ocean to the east. 
 
-In the winter, a zone of high pressure tends to sit over the southernmost parts of the Green Sea (from about 30 N - 35 N), causing light and variable trade winds south of the Irrla, and a dry climate with little precipitation, while strong westerlies blow north of about 35 N. 
+In the winter, a zone of high pressure tends to sit over the southernmost parts of the Green Sea (from about 30 N - 35 N), causing light and variable trade winds south of the [[Irrla]], and a dry climate with little precipitation, while strong westerlies blow north of about 35 N. 
 
-Irrla has a climate not dissimilar to Japan, with the summer monsoon bringing rain to the southeastern side of the island and the winter westerlies bringing snow to the northwestern side of the island. 
+[[Irrla]] has a climate not dissimilar to Japan, with the summer monsoon bringing rain to the southeastern side of the island and the winter westerlies bringing snow to the northwestern side of the island. 
 
 The South Coast, from SouthCymea all the way east, tends to be dry, with a climate reminiscent of North Africa “between the mountains,” with almost no rain; only SouthCymea itself trends towards a humid subtropical climate (perhaps Pampas-like). The exception is the far east, east of the mountains, which is much more influenced by the ~Great Ocean~ than the Green Sea, and has a much wetter and warmer climate influenced by the warm currents and prevailing trade wind of the  ~GreatOcean~
  

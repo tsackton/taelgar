@@ -3,8 +3,14 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Kunda
-placeType:
-partOf:
+placeType: village
+partOf: Indalas
 ---
+# Kunda
+>[!info]+ Summary
+> a village in [[Indalas]]
 
-In the [[Sentinel Range]], called the Indalas by the Stonebone.
+
+
+
+In the [[Sentinel Range]], called the [[Sentinel Range|Indalas]] by the Stonebone.
