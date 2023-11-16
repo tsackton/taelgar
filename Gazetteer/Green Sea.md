@@ -8,7 +8,7 @@ displayDefaults:
   endPrefix: destroyed
   endStatus: destroyed
 campaignInfo: 
-name: the Green Sea
+name: Green Sea
 placeType: 
 partOf: 
 aliases:
@@ -17,6 +17,9 @@ aliases:
 # The Green Sea
 >[!info]+ Summary
 
+The Green Sea is a large inland sea, surrounded on all sides by significant land masses. To the west, it is bordered by the [[Western Gulf]] and the [[Cymean Peninsula]]; to the north, by the varied islands of [[Skaerhem]] and the strange lands of [[Ursk]]; to the east, the mysterious and magical [[~Eastern Islands~]]; and a variety of diverse lands to the south. The large island known as [[Irrla]] forms the boundary between the [[Eastern Green Sea]] and the [[Western Green Sea]]. 
+
+Climatically, the [[Western Green Sea]] is dominated by the summer monsoons, that bring rain from the ocean to the fertile heartlands of [[Sembara]], [[Cymea]], and [[Tyrwingha]]. 
 
 %% named for the phytoplankton blooms that appear in the summer, driven by upwelling associated with the monsoon wind 
 

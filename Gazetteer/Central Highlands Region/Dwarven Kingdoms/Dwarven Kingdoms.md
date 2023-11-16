@@ -14,7 +14,7 @@ During [[The Downfall]], when [[Hkar]] fell and great wars were fought in the de
 ![[dwarven-kingdoms-map.png|300]]
  
 ## [[Ardith]]
-In the far south, south of [[Urlich Pass]], is [[Ardith]], growing rich on trade with [[Drankorian Empire|Drankor]], and later with [[Dunmar]], until at the end of the [[Events/1500s/Great War]] they were driven from their homes and settled south, in the [[Yuvanti mountains]], founding [[Nardith]]. Now destroyed. 
+In the far south, south of [[Urlich Pass]], is [[Ardith]], growing rich on trade with [[Drankorian Empire|Drankor]], and later with [[Dunmar]], until at the end of the [[Events/1500s/Great War]] they were driven from their homes and settled south, in the [[Yuvanti Mountains]], founding [[Nardith]]. Now destroyed. 
 ## [[Khatridun]]
 _Labeled DK2 on the map_
 

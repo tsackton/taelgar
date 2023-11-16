@@ -17,7 +17,7 @@ population: 3500
 > *(pop. 3,500)*
 > a town in the [[Mawar Confederacy]], [[West Coast Region]]
 
-Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [[Mirmir]] River that cascades from the interior over a series of rapids and waterfalls before emptying into the Endless Ocean. These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [[Mawakel peninsula]].
+Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [[Mirmir]] River that cascades from the interior over a series of rapids and waterfalls before emptying into the Endless Ocean. These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [[Mawakel Peninsula]].
 
 ![[hamri-map.png]]
 

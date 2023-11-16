@@ -13,7 +13,7 @@ End: afternoon, Jan 8th, 1749
 - (DR:: 1749-01-03): Spend afternoon in [[Tollen]]
 - (DR:: 1749-01-04): Take care of [[Tollen]] business
 - (DR:: 1749-01-05): Take care of [[Tollen]] business
-- (DR:: 1749-01-06): Depart; reach middle of the [[western gulf]] by nightfall
+- (DR:: 1749-01-06): Depart; reach middle of the [[Western Gulf]] by nightfall
 - (DR:: 1749-01-07): Dawn over [[Western Gulf]]; reach coast of [[Cymea]] by evening; fly over [[Cymea]] overnight
 - (DR:: 1749-01-08): Arrive at Edge of Echoes early afternoon. Land [[Vindristjarna]], descend into cave. Navigate down underground river by boat; fight water elements in a vast underground lake; traverse elemental hazards; arrive at ancient Drankorian ruins. 
 ## New Treasure

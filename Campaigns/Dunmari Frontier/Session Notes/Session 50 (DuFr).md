@@ -69,7 +69,7 @@ That night, [[Delwath]] prays to [[Yezali|Aaviskar]], and understands the truth 
 
 That night, [[Kenzo]] and [[Alayah]] also [[Second Dream of Rai|dream]] together. 
 
-The next morning, [[Delwath]] speaks with the old woman [[Ariel]], who remembers the lost tanshi and tells him they can be found in the [[forest of dreams]], to the north. Then [[Theba]] approaches, telling the party she has been praying all night and decided they must fight the dragon. 
+The next morning, [[Delwath]] speaks with the old woman [[Ariel]], who remembers the lost tanshi and tells him they can be found in the [[Forest of Dreams]], to the north. Then [[Theba]] approaches, telling the party she has been praying all night and decided they must fight the dragon. 
 
 War planning then commences, with [[Theba]] and the tanshi offering blessings to help, and [[Obel]], an old ranger whose parents and brother were killed by the original attack volunteering to join as well. 
 
