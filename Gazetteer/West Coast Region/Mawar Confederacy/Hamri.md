@@ -17,7 +17,7 @@ population: 3500
 > *(pop. 3,500)*
 > a town in the [[Mawar Confederacy]], [[West Coast Region]]
 
-Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [[Mirmir]] River that cascades from the interior over a series of rapids and waterfalls before emptying into the Endless Ocean. These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [[Mawakel Peninsula]].
+Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [[Mirmir]] River that cascades from the interior over a series of rapids and waterfalls before emptying into the [[Endless Ocean]]. These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [[Mawakel Peninsula]].
 
 ![[hamri-map.png]]
 
@@ -28,7 +28,7 @@ One of the most significant buildings in Low Town is the Leviathan, a huge two-s
 
 Above Low Town, stretching along the steep cliffs, is the Cliffside district, a series of narrow, terraced steps in the sheer cliff face, connected by switchbacks and steep passages. This district houses many of the merchants, ship owners, and wealthier traders of Hamri. Sheltered from the wind and weather, these houses tend to be finer, drier, and warmer than the Low Town, although the steep terrain limits the building space. At best maybe five hundred people are lucky enough to live up here, above the bustle of the Low Town.
 
-Finally, on the windswept tops of the high cliffs are the Towers. Few people live here, as the biting winds make this a dreary home in winter, and the narrow, rocky paths are difficult to navigate in the rains. The most notable feature of the Towers, on both sides of the harbor, are a series of tall seawatch towers, facing the ocean, that serve as watch posts both to spot danger from the ocean and spot wrecks off shore from which people can be saved. The largest tower, maintained by the citizens of Hamri, sits on the western tip of the main cliffs above town, overlooking the Shark’s Teeth, a series of jagged rocks that jut out in a line from the cliffs. But many other towers, some abandoned, some now inhabited by ocean watchers who commune with the waters of the Endless Ocean, dot the tops of the cliffs.  
+Finally, on the windswept tops of the high cliffs are the Towers. Few people live here, as the biting winds make this a dreary home in winter, and the narrow, rocky paths are difficult to navigate in the rains. The most notable feature of the Towers, on both sides of the harbor, are a series of tall seawatch towers, facing the ocean, that serve as watch posts both to spot danger from the ocean and spot wrecks off shore from which people can be saved. The largest tower, maintained by the citizens of Hamri, sits on the western tip of the main cliffs above town, overlooking the Shark’s Teeth, a series of jagged rocks that jut out in a line from the cliffs. But many other towers, some abandoned, some now inhabited by ocean watchers who commune with the waters of the [[Endless Ocean]], dot the tops of the cliffs.  
 
 ### The Drowned Flats
 
