@@ -46,7 +46,7 @@ class DateManager {
         }
 
         if (status.startDate) {
-            status.isCreated = status.startDate.sort < targetDate.sort;
+            status.isCreated = status.startDate.sort <= targetDate.sort;
         }
 
         if (status.endDate) {
