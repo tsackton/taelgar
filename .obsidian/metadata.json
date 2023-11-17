@@ -1,12 +1,83 @@
 {
-    "fragmentsThatDontAutoLink": [ "somewhere", "unknown", "of", "in", "near"], 
-    "displayDefaults" : {
-        "person" :  { "startStatus": "born", "startPrefix": "b.", "endPrefix": "d.", "endStatus": "died", "primaryOrgType": "family", "definitiveArticle" : ""},
-        "place" : { "startStatus": "founded", "startPrefix": "founded", "endPrefix": "destroyed", "endStatus": "destroyed"},
-        "item" :  { "startStatus": "created", "startPrefix": "created", "endPrefix": "destroyed", "endStatus": "destroyed"},
-        "organization" : { "startStatus": "founded", "startPrefix": "founded", "endPrefix": "disbanded", "endStatus": "disbanded"},
-        "default" :  { "startStatus": "created", "startPrefix": "created", "endPrefix": "destroyed", "endStatus": "destroyed", "definitiveArticle" : ""}
-    },   
+    "fragmentsThatDontAutoLink": [
+        "somewhere",
+        "unknown",
+        "of",
+        "in",
+        "near"
+    ],
+    "displayDefaults": {
+        "person": {
+            "startStatus": "born",
+            "startPrefix": "b.",
+            "endPrefix": "d.",
+            "endStatus": "died",
+            "primaryOrgType": "family",
+            "definitiveArticle": "",
+            "whereaboutsOrigin" : "Originally from: <loc>", 
+            "whereaboutsHome": "Based in: <loc>", 
+            "whereaboutsPastHome": "Lived in: <loc>",
+            "pageCurrent": "<start> <startDate> (<length> years old)",
+            "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
+            "pagePast": "<end> <endDate>"
+        },
+        "place": {
+            "startStatus": "founded",
+            "startPrefix": "founded",
+            "endPrefix": "destroyed",
+            "endStatus": "destroyed",
+            "pageCurrent": "<start> <startDate> (<length> years ago)",
+            "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
+            "pagePast": "<end> <endDate>"
+        },
+        "item": {
+            "startStatus": "created",
+            "startPrefix": "created",
+            "endPrefix": "destroyed",
+            "endStatus": "destroyed",
+            "whereaboutsOrigin" : "Made by: <loc>", 
+            "whereaboutsHome": "Owner: <loc>", 
+            "whereaboutsPastHome": "Was owned by: <loc>",
+            "pageCurrent": "<start> <startDate> (<length> years ago)",
+            "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
+            "pagePast": "<end> <endDate>"
+        },
+        "organization": {
+            "startStatus": "founded",
+            "startPrefix": "founded",
+            "endPrefix": "disbanded",
+            "endStatus": "disbanded",
+            "whereaboutsOrigin" : "Founded in: <loc>", 
+            "whereaboutsHome": "Based in: <loc>", 
+            "whereaboutsPastHome": "Was based in: <loc>",
+            "pageCurrent": "<start> <startDate> (<length> years ago)",
+            "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
+            "pagePast": "<end> <endDate>"
+        },
+        "event": {
+            "startStatus": "started in",
+            "endStatus": "ended in",            
+            "whereaboutsOrigin" : "Started in: <loc>", 
+            "whereaboutsHome": "Occurring in: <loc>", 
+            "whereaboutsPastHome": "Happened in: <loc>",
+            "pageCurrent": "<start> <startDate> (<length> years ago)",
+            "pagePastWithStart": "<startDate> - <endDate>, ended after <length> years",
+            "pagePast": "<end> <endDate>"
+        },
+        "default": {
+            "startStatus": "created",
+            "startPrefix": "created",
+            "endPrefix": "destroyed",
+            "endStatus": "destroyed",
+            "definitiveArticle": "",
+            "whereaboutsOrigin" : "<loc>", 
+            "whereaboutsHome": "<loc>", 
+            "whereaboutsPastHome": "<loc>",
+            "pageCurrent": "<start> <startDate>",
+            "pagePastWithStart": "<start> <startDate> - <end> <endDate>",
+            "pagePast": "<end> <endDate>"
+        }
+    },
     "linkmap": [
         {
             "from": "clee",
@@ -44,7 +115,7 @@
             "from": "Chardonian",
             "to": "Chardonian Empire",
             "isAlias": true
-        },        
+        },
         {
             "from": "Drankorian",
             "to": "Drankorian Empire",

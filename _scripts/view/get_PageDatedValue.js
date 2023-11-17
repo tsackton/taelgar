@@ -4,11 +4,8 @@ function get_PageDatedValue(metadata) {
     const { NameManager } = customJS
 
     pageExistenceData = DateManager.getPageDates(metadata)        
-    pageExistenceData.notExistenceError =  "**(doesn't yet exist)**";
-    pageExistenceData.lengthDescriptor = "years old"
-    pageExistenceData.lengthPrefix = "at"
 
-    return NameManager.getDescriptionOfDateInformation(pageExistenceData)
+    return NameManager.getDescriptionOfDateInformation(metadata, pageExistenceData)
 }
 
 return get_PageDatedValue(dv.current())

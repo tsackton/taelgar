@@ -3,10 +3,13 @@ function get_Whereabouts(metadata) {
     const { LocationManager } = customJS
     const { WhereaboutsManager } = customJS
     const  { DateManager } = customJS
+    const  { NameManager } = customJS
 
+    let displayDefaults = NameManager.getDisplayData(metadata)
 
     let pageData = DateManager.getPageDates(metadata);
     let pageYear = DateManager.getTargetDateForPage(metadata)
+    
     if (!pageData.isCreated) return "";
 
     let isPageAlive = pageData.isAlive
@@ -18,16 +21,14 @@ function get_Whereabouts(metadata) {
     let displayString = "";
 
     if (showOrigin) {
-        displayString = "Originally from: " + LocationManager.getLocationName(whereabout.origin.location);
+        displayString =  displayDefaults.whereaboutsOrigin.replace("<loc>",  LocationManager.getLocationName(whereabout.origin.location))
     }
 
     if (whereabout.home && whereabout.home.location) {
-        if (!isPageAlive) {
-            displayString += "\nLived in: " + LocationManager.getLocationName(whereabout.home.location);
-        }
-        else {
-            displayString += "\nBased in: " + LocationManager.getLocationName(whereabout.home.location);
-        }
+        if (showOrigin) displayString += "\n"
+
+        let formatStr = isPageAlive ? displayDefaults.whereaboutsHome : displayDefaults.whereaboutsPastHome
+        displayString += formatStr.replace("<loc>",  LocationManager.getLocationName(whereabout.home.location))
 
         // if we have a current location that matches home, we are done
         if (whereabout.current && whereabout.home.location == whereabout.current.location)
@@ -35,7 +36,7 @@ function get_Whereabouts(metadata) {
     }
 
     if ((whereabout.current && !whereabout.current.location) || (whereabout.lastKnown && !whereabout.lastKnown.location)) {
-        if (isPageAlive) {
+        if (isPageAlive) {            
             displayString += "\n Current location: Unknown";
         }
 

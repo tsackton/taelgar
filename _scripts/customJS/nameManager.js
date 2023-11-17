@@ -16,12 +16,17 @@ class NameManager {
     }
 
     #getPageType(metadata) {
-        if (!metadata?.tags) return "default"
 
-        if (metadata.tags.some(f => f.startsWith("person"))) return "person"
-        else if (metadata.tags.some(f => f.startsWith("place"))) return "place"
-        else if (metadata.tags.some(f => f.startsWith("organization"))) return "organization"
-        else if (metadata.tags.some(f => f.startsWith("item"))) return "item"
+        if (!metadata) return "default"
+
+        let tags = metadata.tags ?? [];
+
+
+        if (metadata.DR || metadata.DR_end || metadata.CY || metadata.CY_end) return "event"
+        else if (tags.some(f => f.startsWith("person"))) return "person"
+        else if (tags.some(f => f.startsWith("place"))) return "place"
+        else if (tags.some(f => f.startsWith("organization"))) return "organization"
+        else if (tags.some(f => f.startsWith("item"))) return "item"
 
         return "default"
     }
@@ -29,7 +34,7 @@ class NameManager {
 
     #toTitle(str) {
         const lowers = ['A', 'An', 'The', 'And', 'But', 'Or', 'For', 'Nor', 'As', 'At', 'By', 'For', 'From', 'In', 'Into', 'Near', 'Of', 'On', 'Onto', 'To', 'With'];
-    
+
         return str.
             split(' ').
             map((elem, index) => (lowers.findIndex(item => elem.toLowerCase() === item.toLowerCase()) >= 0 && index > 0) || elem.length == 0 ? elem : (elem[0].toUpperCase() + elem.substr(1))).
@@ -145,16 +150,26 @@ class NameManager {
 
         let displayDefaultData = this.#getElementFromMetadata("displayDefaults")
         let defaultForThisItem = displayDefaultData ? displayDefaultData[this.#getPageType(metadata)] : undefined
-
         if (!defaultForThisItem) defaultForThisItem = this.#getElementFromMetadata("displayDefaults")?.default
-        if (!defaultForThisItem) defaultForThisItem = { startStatus: "", startPrefix: "", endPrefix: "", endStatus: "" }
 
-        return merge_options(defaultForThisItem, metadata.displayDefaults)
+        let required = {
+            startStatus: "", 
+            endStatus: "", 
+            whereaboutsOrigin: "<loc>", 
+            whereaboutsHome: "<loc>", 
+            whereaboutsPastHome: "<loc>",
+            pageCurrent: "<start> <startDate>",
+            pagePastWithStart: "<start> <startDate> - <end> <endDate>",
+            pagePast: "<end> <endDate>"
+        }
+
+        let base = merge_options(required, defaultForThisItem)
+        return merge_options(base, metadata.displayDefaults)
     }
 
     // this returns a name only if the (a) file exists and (b) matches the filter
     getFilteredName(target, filter, linkType = this.LinkIfValid, casing = this.PreserveCase) {
-        
+
         // this gets the canonical name of a potential link
         if (!target || target == "Untitled") return undefined
 
@@ -217,7 +232,7 @@ class NameManager {
         return this.getFilteredName(target, undefined, linkType, casing)
     }
 
-    getDescriptionOfDateInformation(dateInfo) {
+    getDescriptionOfDateInformation(metadata, dateInfo, overrideDisplayInfo) {
 
         let isExist = dateInfo.isCreated || dateInfo.isStarted
         if (!isExist) return dateInfo.notExistenceError ?? ""
@@ -225,21 +240,18 @@ class NameManager {
         let isActive = dateInfo.isAlive || dateInfo.isCurrent
         let length = dateInfo.age ?? dateInfo.length
 
-        if (!isActive) {
-            if (length) {
-                return dateInfo.startPrefix + " " + dateInfo.startDate.display + " - " + dateInfo.endPrefix + " " + dateInfo.endDate.display + ", " + dateInfo.endDescriptor + " " + dateInfo.lengthPrefix + " " + (length) + " " + dateInfo.lengthDescriptor
-            }
-            else {
-                return dateInfo.endDescriptor + " " + dateInfo.endDate.display;
-            }
-        }
-        else if (length) {
-            // we are alive with a start date
-            return dateInfo.startDescriptor + " " + dateInfo.startDate.display + " (" + length + " " + dateInfo.lengthDescriptor + ")";
-        }
-        else {
-            // alive with no start date
-            return "";
-        }
+        let pageDisplayData = overrideDisplayInfo ?? this.getDisplayData(metadata)
+
+        let formatStr = undefined
+
+        if (isActive) formatStr = pageDisplayData.pageCurrent
+        else if (length) formatStr = pageDisplayData.pagePastWithStart
+        else formatStr = pageDisplayData.pagePast
+
+        return formatStr.replace("<length>", length)
+                        .replace("<start>", pageDisplayData.startStatus)
+                        .replace("<end>", pageDisplayData.endStatus)
+                        .replace("<startDate>", dateInfo.startDate.display)
+                        .replace("<endDate>", dateInfo.endDate.display)
     }
 }

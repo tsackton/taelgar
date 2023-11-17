@@ -4,16 +4,16 @@ function get_RegnalValue(metadata) {
     const { NameManager } = customJS
 
     let regnalData = DateManager.getRegnalDates(metadata)
-    console.log(regnalData)
-    regnalData.notExistenceError = ""
-    regnalData.startDescriptor = "reigning since"
-    regnalData.startPrefix = "reigned"
-    regnalData.endPrefix = ""
-    regnalData.endDescriptor = ""
-    regnalData.lengthDescriptor = "years"
-    regnalData.lengthPrefix = "for"
+   
+    let displayOverride = 
+    {
+        pagePast : "reigned until <endDate>",
+        pageCurrent: "reign started <startDate> (<length> years ago)",
+        pagePastWithStart: "reigned <startDate> - <endDate> (<length> years)"
+    }
 
-    return NameManager.getDescriptionOfDateInformation(regnalData) 
+
+    return NameManager.getDescriptionOfDateInformation(metadata, regnalData, displayOverride) 
 }
 
 return get_RegnalValue(dv.current() )
