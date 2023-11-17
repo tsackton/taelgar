@@ -54,9 +54,9 @@ class LocationManager {
         let formatted = formatStr.replace("<loc>", location)
             .replace("<end>", whereabout?.awayEnd?.display)
             .replace("<start>", whereabout?.start?.display)
-            .replace("<endStatus>", endStatus)
+            .replace("<end>", endStatus)
             .replace("<person>", person)
-            .replace("<metStatus>", metStatus)
+            .replace("<met>", metStatus)
             .replace("<target>", (!targetDate ? "" : targetDate.display))
 
         return (formatted.charAt(0).toUpperCase() + formatted.slice(1)).trim()

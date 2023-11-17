@@ -1,6 +1,6 @@
 class DateManager {
 
-    #getAge(older, younger) {
+   #getAge(older, younger) {
 
         if (older == undefined || younger == undefined) return undefined;
 
@@ -14,6 +14,30 @@ class DateManager {
         return yearsDiff;
     }
 
+    setPageDateProperties(pageDates, targetDate) {
+
+        if (pageDates.startDate) {
+            pageDates.isCreated = pageDates.startDate.sort <= targetDate.sort;
+        } else {
+            pageDates.isCreated = true
+        }
+
+        if (pageDates.endDate) {
+            pageDates.isAlive = pageDates.endDate.sort >= targetDate.sort;
+        } else {
+            pageDates.isAlive = pageDates.isCreated
+        }
+
+        if (pageDates.startDate) {
+            if (pageDates.isAlive) {
+                pageDates.age = this.#getAge(targetDate, pageDates.startDate)
+            }
+            else if (pageDates.endDate) {
+                pageDates.age = this.#getAge(pageDates.endDate, pageDates.startDate)
+            }
+        }
+    }
+
     getPageDates(metadata, targetDate) {
 
         if (!targetDate) targetDate = this.getTargetDateForPage(metadata)
@@ -21,8 +45,8 @@ class DateManager {
         let status = {
             startDate: undefined,
             endDate: undefined,
-            isCreated: true,
-            isAlive: true,
+            isCreated: undefined,
+            isAlive: undefined,
             age: undefined
         }
 
@@ -45,49 +69,11 @@ class DateManager {
             status.endDate = this.normalizeDate(metadata.DR, true);
         }
 
-        if (status.startDate) {
-            status.isCreated = status.startDate.sort <= targetDate.sort;
-        }
-
-        if (status.endDate) {
-            status.isAlive = status.endDate.sort >= targetDate.sort;
-        } else {
-            status.isAlive = status.isCreated
-        }
-
-        if (status.startDate) {
-            if (status.isAlive) {
-                status.age = this.#getAge(targetDate, status.startDate)
-            }
-            else if (status.endDate) {
-                status.age = this.#getAge(status.endDate, status.startDate)
-            }
-        }
+        this.setPageDateProperties(status, targetDate)
 
         return status;
     }
 
-    getRegnalDates(metadata, targetDate) {
-
-        if (!targetDate) targetDate = this.getTargetDateForPage(metadata)
-        let status = { isCreated: undefined, isCurrent: undefined, startDate: undefined, endDate: undefined, length: undefined }
-
-        status.endDate = this.normalizeDate(metadata.reignEnd, true) ?? this.normalizeDate(metadata.died, true);
-        status.startDate = this.normalizeDate(metadata.reignStart, false)
-        status.isCreated = status.startDate && status.startDate.sort <= targetDate.sort
-        status.isCurrent = status.isCreated && (status.endDate == undefined || targetDate.sort <= status.endDate.sort)
-
-        if (status.startDate) {
-            if (status.isCurrent) {
-                status.length = this.#getAge(targetDate, status.startDate)
-            }
-            else if (status.endDate) {
-                status.length = this.#getAge(status.endDate, status.startDate)
-            }
-        }
-
-        return status;
-    }
 
     getTargetDateForPage(metadata) {
         if (metadata && metadata.pageTargetDate) {

@@ -18,15 +18,13 @@
             "whereaboutsOrigin" : "Originally from: <loc>", 
             "whereaboutsHome": "Based in: <loc>", 
             "whereaboutsPastHome": "Lived in: <loc>",      
-            "whereaboutsParty" : "<metStatus> by <person> on <target> in <loc>",
+            "whereaboutsParty" : "<met> by <person> on <target> in <loc>",
             "pageCurrent": "<start> <startDate> (<length> years old)",
             "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",            
             "pagePast": "<end> <endDate>"
         },
         "place": {
             "startStatus": "founded",
-            "startPrefix": "founded",
-            "endPrefix": "destroyed",
             "endStatus": "destroyed",
             "pageCurrent": "<start> <startDate> (<length> years ago)",
             "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
@@ -36,8 +34,6 @@
         },
         "item": {
             "startStatus": "created",
-            "startPrefix": "created",
-            "endPrefix": "destroyed",
             "endStatus": "destroyed",
             "whereaboutsOrigin" : "Made by: <loc>", 
             "whereaboutsHome": "Owner: <loc>", 
@@ -48,8 +44,6 @@
         },
         "organization": {
             "startStatus": "founded",
-            "startPrefix": "founded",
-            "endPrefix": "disbanded",
             "endStatus": "disbanded",
             "whereaboutsOrigin" : "Founded in: <loc>", 
             "whereaboutsHome": "Based in: <loc>", 
@@ -70,11 +64,8 @@
             "pagePast": "<end> <endDate>",
             "partOf" : "part of <loc:1>"
         },
-        "default": {
-            "boxName": "Information",
+        "unknown": {            
             "startStatus": "created",
-            "startPrefix": "created",
-            "endPrefix": "destroyed",
             "endStatus": "destroyed",
             "definitiveArticle": "",
             "whereaboutsOrigin" : "<loc>", 
