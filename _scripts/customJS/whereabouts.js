@@ -11,6 +11,7 @@ class WhereaboutsManager {
             return true
         }
 
+
         let endDate = DateManager.normalizeDate(w.end, true)
         let startDate = DateManager.normalizeDate(w.start, false)
         if (!startDate) startDate = DateManager.normalizeDate(w.date, false)
@@ -38,8 +39,8 @@ class WhereaboutsManager {
 
         let logicalEnd = endDate ?? dateMax
         let logicalStart = startDate ?? dateMin
-        let awayEnd = endDate ?? (w.type == "home" ? dateMax 
-                    : DateManager.normalizeDate(w.start, true) ?? dateMax)
+        let awayEnd = endDate ?? (w.type == "home" ? dateMax
+            : DateManager.normalizeDate(w.start, true) ?? dateMax)
 
         return {
             start: startDate,
@@ -52,8 +53,8 @@ class WhereaboutsManager {
         }
     }
 
-    #get_distance_to_target(item, target) {    
-        if (item.logicalEnd.sort < target.sort) { 
+    #get_distance_to_target(item, target) {
+        if (item.logicalEnd.sort < target.sort) {
             return target.jsDate - item.logicalEnd.jsDate
         }
         else return target.jsDate - item.logicalStart.jsDate
@@ -61,29 +62,29 @@ class WhereaboutsManager {
 
     #filterWhereabouts(whereaboutsList, type, target, allowPast) {
         let candidateSet = whereaboutsList.filter(w => (!type || w.type == type) && (w.logicalStart.sort <= target.sort)).filter(w => allowPast || target.sort <= w.logicalEnd.sort)
-        let soonestPossible =   Math.min(...candidateSet.map(w =>  this.#get_distance_to_target(w, target)))           
-        return candidateSet.filter(w =>  this.#get_distance_to_target(w, target) == soonestPossible)
+        let soonestPossible = Math.min(...candidateSet.map(w => this.#get_distance_to_target(w, target)))
+        return candidateSet.filter(w => this.#get_distance_to_target(w, target) == soonestPossible)
     }
 
     getPartyMeeting(metadata, campaign) {
         const { LocationManager } = customJS
-        const { NameManager} = customJS
+        const { NameManager } = customJS
         const { DateManager } = customJS
 
         let results = []
-       
+
         if (metadata.campaignInfo) {
-            metadata.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {           
-                                      
-                let displayDate = DateManager.normalizeDate(element.date)                  
+            metadata.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {
+
+                let displayDate = DateManager.normalizeDate(element.date)
                 let locForThisDate = this.getWhereabouts(metadata, element.date).current;
 
-                if (locForThisDate && (element.campaign == campaign || !campaign)) {                    
+                if (locForThisDate && (element.campaign == campaign || !campaign)) {
                     let partyName = NameManager.getName(element.campaign, NameManager.CreateLink, NameManager.PreserveCase)
                     if (partyName) {
                         let type = element.type ?? "seen"
-                        let capitalized = type.charAt(0).toUpperCase() + type.slice(1);                        
-                        results.push ({ text: `${capitalized} by ${partyName} on ${displayDate.display} in ${LocationManager.getLocationName(locForThisDate.location)}`, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
+                        let capitalized = type.charAt(0).toUpperCase() + type.slice(1);
+                        results.push({ text: `${capitalized} by ${partyName} on ${displayDate.display} in ${LocationManager.getLocationName(locForThisDate.location)}`, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }
             });
@@ -92,47 +93,57 @@ class WhereaboutsManager {
         return results
     }
 
+    getWhereaboutsList(metadata) {
+        if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
+            let wb = metadata.whereabouts
+            if (typeof metadata.whereabouts === 'string' || metadata.whereabouts instanceof String) {
+                wb = [{ type: "home", location: metadata.whereabouts }]
+            }
+
+            return wb.map(f => this.#getNormalizedWhereabout(f))
+        }
+
+        return []
+    }
+
     getWhereabouts(metadata, targetDate) {
         const { DateManager } = customJS
 
-        targetDate = DateManager.normalizeDate(targetDate)        
+        targetDate = DateManager.normalizeDate(targetDate)
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
-     
+
         let whereaboutResult = { current: undefined, home: undefined, origin: undefined, lastKnown: undefined }
 
-        if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
+        let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate("0001-01-01", false)
+        let normalized = this.getWhereaboutsList(metadata)
 
-            let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate("0001-01-01", false)
-            let normalized = metadata.whereabouts.map(f => this.#getNormalizedWhereabout(f))
-           
-            let homes = this.#filterWhereabouts(normalized, "home", targetDate, false)
-            let origins = this.#filterWhereabouts(normalized, "home", originDate, false)
-           
-            whereaboutResult.home = homes.last()
-            whereaboutResult.origin = origins.first()
+        let homes = this.#filterWhereabouts(normalized, "home", targetDate, false)
+        let origins = this.#filterWhereabouts(normalized, "home", originDate, false)
 
-            if (whereaboutResult.origin && whereaboutResult.origin.startDate) whereaboutResult.origin = undefined
+        whereaboutResult.home = homes.last()
+        whereaboutResult.origin = origins.first()
 
-            let current = this.#filterWhereabouts(normalized, undefined, targetDate, false).last()
-        
-            if (current) {
-                if (targetDate.sort <= current.awayEnd.sort) {
-                    // this away is truely valid
-                    whereaboutResult.current = current
-                    whereaboutResult.lastKnown = undefined;
-                } else {
-                    // this away is our best guess as to location, but we are not still there
-                    whereaboutResult.current = undefined
-                    whereaboutResult.lastKnown = current;
-                }
+        if (whereaboutResult.origin && whereaboutResult.origin.startDate) whereaboutResult.origin = undefined
 
-                return whereaboutResult
+        let current = this.#filterWhereabouts(normalized, undefined, targetDate, false).last()
+
+        if (current) {
+            if (targetDate.sort <= current.awayEnd.sort) {
+                // this away is truely valid
+                whereaboutResult.current = current
+                whereaboutResult.lastKnown = undefined;
+            } else {
+                // this away is our best guess as to location, but we are not still there
+                whereaboutResult.current = undefined
+                whereaboutResult.lastKnown = current;
             }
 
-            // this means we don't have a current whereabout - everything is in the past
-            whereaboutResult.lastKnown = this.#filterWhereabouts(normalized, undefined, targetDate, true).last()                   
+            return whereaboutResult
         }
 
-        return whereaboutResult  
+        // this means we don't have a current whereabout - everything is in the past
+        whereaboutResult.lastKnown = this.#filterWhereabouts(normalized, undefined, targetDate, true).last()
+
+        return whereaboutResult
     }
 }
