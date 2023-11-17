@@ -14,41 +14,35 @@ class DateManager {
         return yearsDiff;
     }
 
-    getPageDates(metadata, targetDate) {
-        
+    getPageDates(metadata, targetDate) {    
+
         if (!targetDate) targetDate = this.getTargetDateForPage(metadata)
 
         let status = {
-            startDate: undefined,
-            startDescriptor: undefined,
-            endDate: undefined,
-            endDescriptor: undefined,
+            startDate: undefined,          
+            endDate: undefined,         
             isCreated: true,
             isAlive: true,
             age: undefined
         }
 
-        if (metadata.displayDefaults) {
-            status.startDescriptor = metadata.displayDefaults.startStatus
-            status.endDescriptor = metadata.displayDefaults.endStatus
-            status.startPrefix = metadata.displayDefaults.startPrefix
-            status.endPrefix = metadata.displayDefaults.endPrefix
-        }
-
         if (metadata.born) {
-            status.startDate = this.normalizeDate(metadata.born, false);
-            if (!status.startDescriptor) status.startDescriptor = "born";
+            status.startDate = this.normalizeDate(metadata.born, false);        
         } else if (metadata.created) {
-            status.startDate = this.normalizeDate(metadata.created, false);
-            if (!status.startDescriptor) status.startDescriptor = "created";
+            status.startDate = this.normalizeDate(metadata.created, false);           
+        } else if (metadata.DR) {
+            status.startDate = this.normalizeDate(metadata.DR, false);           
         }
 
         if (metadata.died) {
-            status.endDate = this.normalizeDate(metadata.died, true);
-            if (!status.endDescriptor) status.endDescriptor = "died";
+            status.endDate = this.normalizeDate(metadata.died, true);          
         } else if (metadata.destroyed) {
-            status.endDate = this.normalizeDate(metadata.destroyed, true);
-            if (!status.endDescriptor) status.endDescriptor = "destroyed";
+            status.endDate = this.normalizeDate(metadata.destroyed, true);          
+        } else if ("DR_end" in metadata) {
+            // this is to allow a blank DR_end to mean "unknown"
+            if (metadata.DR_end) status.endDate = this.normalizeDate(metadata.DR_end, true);          
+        } else if (metadata.DR) {
+            status.endDate = this.normalizeDate(metadata.DR, true);          
         }
 
         if (status.startDate) {
@@ -61,7 +55,6 @@ class DateManager {
             status.isAlive = status.isCreated
         }
 
-
         if (status.startDate) {
             if (status.isAlive) {
                 status.age = this.#getAge(targetDate, status.startDate)
@@ -70,10 +63,6 @@ class DateManager {
                 status.age = this.#getAge(status.endDate, status.startDate)
             }
         }
-
-
-        if (!status.startPrefix && status.startDescriptor) status.startPrefix = status.startDescriptor[0] + "."
-        if (!status.endPrefix && status.endDescriptor) status.endPrefix = status.endDescriptor[0] + "."
 
         return status;
     }

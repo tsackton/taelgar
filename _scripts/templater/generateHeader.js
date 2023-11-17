@@ -171,6 +171,10 @@ async function generateHeader(tp) {
                 output += newText
             }
         }
+    } else {
+        if (tp.frontmatter.whereabouts) {
+            output += "\n>> `$=dv.view(\"_scripts/view/get_Whereabouts\")`";
+        }
     }
 
     if (isSessionNote) {
