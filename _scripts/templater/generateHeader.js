@@ -52,9 +52,10 @@ function buildTypeHeader(metadata, displayDefaults) {
         typeOfs.push(NameManager.getName(metadata.ancestry, NameManager.LinkIfExists, NameManager.PreserveCase))
     }
 
+    /*
     if (metadata.gender) {
         typeOfs.push(NameManager.getName(metadata.gender, NameManager.LinkIfExists, NameManager.LowerCase))
-    }
+    }*/
 
     if (metadata.species) {
         typeOfs.push(NameManager.getName(metadata.species, NameManager.LinkIfExists, NameManager.LowerCase))
@@ -150,10 +151,8 @@ async function generateHeader(tp) {
 
     let nameString = NameManager.getName(tp.file.title, NameManager.NoLink, NameManager.TitleCase);
     let displayDefaults = NameManager.getDisplayData(tp.frontmatter)
-    let pageDates = DateManager.getPageDates(tp.frontmatter)
-    let regnalDates = DateManager.getRegnalDates(tp.frontmatter)
+    let pageDates = DateManager.getPageDates(tp.frontmatter)    
     let hasPageDates = pageDates.startDate || pageDates.endDate
-    let hasRegnalDates = regnalDates.startDate || regnalDates.endDate
 
     if (!nameString) {
         new Notice("The file does not have a name; please set the name before processing the header")
@@ -172,36 +171,10 @@ async function generateHeader(tp) {
     let typeOf = buildTypeHeader(tp.frontmatter, displayDefaults)
     if (typeOf) summaryBlockLines.push("> " + typeOf)      
     if (hasPageDates) summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_PageDatedValue")`')
-    
-    let leadersCheck = []
 
-    if (tp.frontmatter.leaderOf && tp.frontmatter.leaderOf.length > 0) {
-        leadersCheck = tp.frontmatter.leaderOf
-        let title = tp.frontmatter.title ?? "Ruler"
-        let source = tp.frontmatter.leaderOf.map(leader => {
-            return {
-                title: displayDefaults.leaders == undefined ? title : displayDefaults.leaders.filter(f => f.name == leader).first()?.title ?? title,
-                place: NameManager.getName(leader, NameManager.CreateLink)
-            };
-        })
-
-        while (source.length > 0) {
-            let thisOne = source.first();
-            let matched = source.filter(x => x.title == thisOne.title)
-            source = source.filter(x => x.title != thisOne.title)
-            let thisOneLine = thisOne.title + " of "
-
-            for (let i = 0; i < matched.length; i++) {
-                let rl = matched[i].place
-                thisOneLine += rl
-                if (i < matched.length - 1) thisOneLine += " and "
-            }
-
-            summaryBlockLines.push("> " + thisOneLine)
-        }
+    if (tp.frontmatter.leaderOf) {
+        summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_RegnalValue")`')
     }
-
-    if (hasRegnalDates) summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_RegnalValue")`')
 
     let partOf = buildPartOfHeader(tp.frontmatter, displayDefaults)
     if (partOf) summaryBlockLines.push("> " + partOf)      
@@ -220,9 +193,7 @@ async function generateHeader(tp) {
         for (let i = 0; i < tp.frontmatter.affiliations.length; i++) {
             let aff = tp.frontmatter.affiliations[i]
 
-            if (leadersCheck.includes(aff)) continue
             if (getPrimaryAffiliationName(aff, displayDefaults)) continue
-
             memberOfLines.push(NameManager.getName(aff, NameManager.CreateLink, NameManager.TitleCase))
         }
     }

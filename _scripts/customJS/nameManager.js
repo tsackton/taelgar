@@ -17,17 +17,17 @@ class NameManager {
 
     #getPageType(metadata) {
 
-        if (!metadata) return "default"
+        if (!metadata) return "unknown"
 
         let tags = metadata.tags ?? [];
 
         if (metadata.DR || metadata.DR_end || metadata.CY || metadata.CY_end) return "event"
         else if (tags.some(f => f.startsWith("person"))) return "person"
-        else if (tags.some(f => f.startsWith("place"))) return "place"
+        else if (metadata.location || tags.some(f => f.startsWith("place"))) return "place"
         else if (tags.some(f => f.startsWith("organization"))) return "organization"
         else if (tags.some(f => f.startsWith("item"))) return "item"
 
-        return "default"
+        return "unknown"
     }
 
 
@@ -148,6 +148,9 @@ class NameManager {
         let defaultForThisItem = displayDefaultData ? displayDefaultData[this.#getPageType(metadata)] : undefined
         if (!defaultForThisItem) defaultForThisItem = this.#getElementFromMetadata("displayDefaults")?.default
 
+
+        // definitiveArticle is not required to be present
+
         let required = {
             startStatus: "", 
             endStatus: "", 
@@ -158,13 +161,14 @@ class NameManager {
             whereaboutsPast: "<end> in <loc>",
             whereaboutsLastKnown: "Last known location: (as of <endDate>): <loc>",
             whereaboutsUnknown: "Current location: Unknown",
-            whereaboutsParty: "<metStatus> by <person> on <target> in <loc>",
+            whereaboutsParty: "<met> by <person> on <target> in <loc>",
             pageCurrent: "<start> <startDate>",
             pagePastWithStart: "<start> <startDate> - <end> <endDate>",
             pagePast: "<end> <endDate>",
             boxName: "Information",
             partOf: "<loc>",
-            defaultTypeOfForDisplay : ""
+            defaultTypeOfForDisplay : "",
+            affiliationTypeOf: []
         }
 
         let base = merge_options(required, defaultForThisItem)
@@ -238,22 +242,18 @@ class NameManager {
     }
 
     getDescriptionOfDateInformation(metadata, dateInfo, overrideDisplayInfo) {
-
-        let isExist = dateInfo.isCreated || dateInfo.isStarted
-        if (!isExist) return dateInfo.notExistenceError ?? ""
-
-        let isActive = dateInfo.isAlive || dateInfo.isCurrent
-        let length = dateInfo.age ?? dateInfo.length
+        
+        if (!dateInfo.isCreated) return "**(page is future dated)**"
 
         let pageDisplayData = overrideDisplayInfo ?? this.getDisplayData(metadata)
         let formatStr = undefined
 
-        if (isActive) formatStr = pageDisplayData.pageCurrent
-        else if (length) formatStr = pageDisplayData.pagePastWithStart        
+        if (dateInfo.isAlive) formatStr = pageDisplayData.pageCurrent
+        else if (dateInfo.age) formatStr = pageDisplayData.pagePastWithStart        
         else if (dateInfo.endDate) formatStr = pageDisplayData.pagePast
         else return ""
-
-        return formatStr.replace("<length>", length)
+        
+        return formatStr.replace("<length>", dateInfo.age)
                         .replace("<start>", pageDisplayData.startStatus)
                         .replace("<end>", pageDisplayData.endStatus)
                         .replace("<startDate>", dateInfo.startDate?.display ?? "")
