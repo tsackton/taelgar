@@ -9,7 +9,7 @@ function get_Whereabouts(metadata) {
 
     let pageData = DateManager.getPageDates(metadata);
     let pageYear = DateManager.getTargetDateForPage(metadata)
-    
+
     if (!pageData.isCreated) return "";
 
     let isPageAlive = pageData.isAlive
@@ -43,12 +43,15 @@ function get_Whereabouts(metadata) {
         return displayString;
     }
 
+    let pageDisplayData = NameManager.getDisplayData(metadata)
+
     if (whereabout.current && whereabout.current.location) {
         if (isPageAlive) {
             displayString += "\nCurrent location: (as of " + pageYear.display + "): " + LocationManager.getLocationName(whereabout.current.location)
         }
         else {
-            let capitalizedEnd = pageData.endDescriptor.charAt(0).toUpperCase() + pageData.endDescriptor.slice(1);
+            console.log(pageDisplayData)
+            let capitalizedEnd = pageDisplayData.endStatus.charAt(0).toUpperCase() + pageDisplayData.endStatus.slice(1);
             displayString += "\n " + capitalizedEnd + " in " + LocationManager.getLocationName(whereabout.current.location)
         }
         return displayString;
