@@ -8,10 +8,10 @@ class NameManager {
     LinkIfValid = "exists"
 
     #getElementFromMetadata(elem) {
-
         if (customJS.state.coreMeta) {
             return customJS.state.coreMeta[elem];
         }
+ 
         return undefined;
     }
 
@@ -20,7 +20,6 @@ class NameManager {
         if (!metadata) return "default"
 
         let tags = metadata.tags ?? [];
-
 
         if (metadata.DR || metadata.DR_end || metadata.CY || metadata.CY_end) return "event"
         else if (tags.some(f => f.startsWith("person"))) return "person"
@@ -42,9 +41,6 @@ class NameManager {
     }
 
     #processDescriptiveName(descriptiveName, targetLink, article, linkType = "exists", casing = "default") {
-        function buildName(pre, main) {
-            return (pre + " " + main).trim()
-        }
 
         if (!article) article = ""
         if (!descriptiveName) return undefined
@@ -67,10 +63,10 @@ class NameManager {
 
         if (link) {
             if (descriptiveName == targetLink || !targetLink) return (article + " " + "[[" + descriptiveName + "]]").trim();
-            else return "[[" + targetLink + "|" + buildName(article, descriptiveName) + "]]"
+            else return (article + " " + "[[" + targetLink + "|" +descriptiveName+ "]]").trim()
         }
 
-        return buildName(article, descriptiveName)
+        return (article + " " + descriptiveName).trim()
     }
 
     getFileForTarget(target, filter = undefined) {
@@ -158,14 +154,21 @@ class NameManager {
             whereaboutsOrigin: "<loc>", 
             whereaboutsHome: "<loc>", 
             whereaboutsPastHome: "<loc>",
+            whereaboutsCurrent: "Current location (as of <target>): <loc>",
+            whereaboutsPast: "<end> in <loc>",
+            whereaboutsLastKnown: "Last known location: (as of <endDate>): <loc>",
+            whereaboutsUnknown: "Current location: Unknown",
+            whereaboutsParty: "<metStatus> by <person> on <target> in <loc>",
             pageCurrent: "<start> <startDate>",
             pagePastWithStart: "<start> <startDate> - <end> <endDate>",
+
             pagePast: "<end> <endDate>"
         }
 
         let base = merge_options(required, defaultForThisItem)
         return merge_options(base, metadata.displayDefaults)
     }
+
 
     // this returns a name only if the (a) file exists and (b) matches the filter
     getFilteredName(target, filter, linkType = this.LinkIfValid, casing = this.PreserveCase) {
@@ -241,17 +244,17 @@ class NameManager {
         let length = dateInfo.age ?? dateInfo.length
 
         let pageDisplayData = overrideDisplayInfo ?? this.getDisplayData(metadata)
-
         let formatStr = undefined
 
         if (isActive) formatStr = pageDisplayData.pageCurrent
         else if (length) formatStr = pageDisplayData.pagePastWithStart
-        else formatStr = pageDisplayData.pagePast
+        else if (dateInfo.end) formatStr = pageDisplayData.pagePast
+        else return ""
 
         return formatStr.replace("<length>", length)
                         .replace("<start>", pageDisplayData.startStatus)
                         .replace("<end>", pageDisplayData.endStatus)
-                        .replace("<startDate>", dateInfo.startDate.display)
-                        .replace("<endDate>", dateInfo.endDate.display)
+                        .replace("<startDate>", dateInfo.startDate?.display ?? "")
+                        .replace("<endDate>", dateInfo.endDate?.display ?? "")
     }
 }

@@ -16,7 +16,8 @@
             "definitiveArticle": "",
             "whereaboutsOrigin" : "Originally from: <loc>", 
             "whereaboutsHome": "Based in: <loc>", 
-            "whereaboutsPastHome": "Lived in: <loc>",
+            "whereaboutsPastHome": "Lived in: <loc>",      
+            "whereaboutsParty" : "<metStatus> by <person> on <target> in <loc>",
             "pageCurrent": "<start> <startDate> (<length> years old)",
             "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
             "pagePast": "<end> <endDate>"
@@ -37,7 +38,7 @@
             "endStatus": "destroyed",
             "whereaboutsOrigin" : "Made by: <loc>", 
             "whereaboutsHome": "Owner: <loc>", 
-            "whereaboutsPastHome": "Was owned by: <loc>",
+            "whereaboutsPastHome": "Was owned by: <loc>",   
             "pageCurrent": "<start> <startDate> (<length> years ago)",
             "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end> <endDate>"
@@ -49,7 +50,7 @@
             "endStatus": "disbanded",
             "whereaboutsOrigin" : "Founded in: <loc>", 
             "whereaboutsHome": "Based in: <loc>", 
-            "whereaboutsPastHome": "Was based in: <loc>",
+            "whereaboutsPastHome": "Was based in: <loc>",            
             "pageCurrent": "<start> <startDate> (<length> years ago)",
             "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end> <endDate>"
@@ -59,7 +60,7 @@
             "endStatus": "ended in",            
             "whereaboutsOrigin" : "Started in: <loc>", 
             "whereaboutsHome": "Occurring in: <loc>", 
-            "whereaboutsPastHome": "Happened in: <loc>",
+            "whereaboutsPastHome": "Happened in: <loc>",            
             "pageCurrent": "<start> <startDate> (<length> years ago)",
             "pagePastWithStart": "<startDate> - <endDate>, ended after <length> years",
             "pagePast": "<end> <endDate>"
@@ -73,6 +74,10 @@
             "whereaboutsOrigin" : "<loc>", 
             "whereaboutsHome": "<loc>", 
             "whereaboutsPastHome": "<loc>",
+            "whereaboutsCurrent" :"Current location (as of <target>): <loc>",
+            "whereaboutsPast": "<end> in <loc>",
+            "whereaboutsLastKnown": "Last known location: (as of <endDate>): <loc>",
+            "whereaboutsUnknown" : "Current location: Unknown",
             "pageCurrent": "<start> <startDate>",
             "pagePastWithStart": "<start> <startDate> - <end> <endDate>",
             "pagePast": "<end> <endDate>"

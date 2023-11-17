@@ -73,6 +73,10 @@ class WhereaboutsManager {
 
         let results = []
 
+        let displayData = NameManager.getDisplayData(metadata)
+
+        let format = displayData.whereaboutsParty
+
         if (metadata.campaignInfo) {
             metadata.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {
 
@@ -83,8 +87,11 @@ class WhereaboutsManager {
                     let partyName = NameManager.getName(element.campaign, NameManager.CreateLink, NameManager.PreserveCase)
                     if (partyName) {
                         let type = element.type ?? "seen"
-                        let capitalized = type.charAt(0).toUpperCase() + type.slice(1);
-                        results.push({ text: `${capitalized} by ${partyName} on ${displayDate.display} in ${LocationManager.getLocationName(locForThisDate.location)}`, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
+                        
+                        let text = LocationManager.buildFormattedLocationString(format, locForThisDate, displayDate, undefined, type, partyName)
+                        text = (text.charAt(0).toUpperCase() + text.slice(1)).trim()
+
+                        results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }
             });
