@@ -161,8 +161,10 @@ class NameManager {
             whereaboutsParty: "<metStatus> by <person> on <target> in <loc>",
             pageCurrent: "<start> <startDate>",
             pagePastWithStart: "<start> <startDate> - <end> <endDate>",
-
-            pagePast: "<end> <endDate>"
+            pagePast: "<end> <endDate>",
+            boxName: "Information",
+            partOf: "<loc>",
+            defaultTypeOfForDisplay : ""
         }
 
         let base = merge_options(required, defaultForThisItem)
@@ -247,8 +249,8 @@ class NameManager {
         let formatStr = undefined
 
         if (isActive) formatStr = pageDisplayData.pageCurrent
-        else if (length) formatStr = pageDisplayData.pagePastWithStart
-        else if (dateInfo.end) formatStr = pageDisplayData.pagePast
+        else if (length) formatStr = pageDisplayData.pagePastWithStart        
+        else if (dateInfo.endDate) formatStr = pageDisplayData.pagePast
         else return ""
 
         return formatStr.replace("<length>", length)
