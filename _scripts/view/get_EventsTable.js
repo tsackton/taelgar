@@ -26,7 +26,8 @@ async function get_table(input) {
         let events = [];
         
         let name = NameManager.getName(item.file.name, NameManager.NoLink, NameManager.TitleCase)
-      
+        let pageDisplayData = NameManager.getDisplayData(item.file.frontmatter)
+
         if (item.file.frontmatter.DR != null) {
             let jsDate = DateManager.normalizeDate(item.file.frontmatter.DR, false)
             
@@ -42,7 +43,7 @@ async function get_table(input) {
 
             if (options.includeCreate && pageExistenceData.startDate) {
                 let origin = WhereaboutsManager.getWhereabouts(item.file.frontmatter).origin
-                let text = name + " " + pageExistenceData.startDescriptor
+                let text = name + " " + pageDisplayData.startStatus
                 if (origin) {
                     text += " in " + LocationManager.getLocationName(origin, NameManager.PreserveCase, 2, NameManager.CreateLink)
                 }
@@ -52,7 +53,7 @@ async function get_table(input) {
 
             if (options.includeEnd && pageExistenceData.endDate) {
                 let diedSpot = WhereaboutsManager.getWhereabouts(item.file.frontmatter, pageExistenceData.endDate).lastKnown
-                let text = name + " " + pageExistenceData.endDescriptor
+                let text = name + " " + pageDisplayData.endStatus
                 if (diedSpot) {
                     text += " in " + LocationManager.getLocationName(diedSpot, NameManager.PreserveCase, 2, NameManager.CreateLink)
                 }

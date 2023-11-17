@@ -1,5 +1,5 @@
 class DateManager {
-    
+
     #getAge(older, younger) {
 
         if (older == undefined || younger == undefined) return undefined;
@@ -14,35 +14,35 @@ class DateManager {
         return yearsDiff;
     }
 
-    getPageDates(metadata, targetDate) {    
+    getPageDates(metadata, targetDate) {
 
         if (!targetDate) targetDate = this.getTargetDateForPage(metadata)
 
         let status = {
-            startDate: undefined,          
-            endDate: undefined,         
+            startDate: undefined,
+            endDate: undefined,
             isCreated: true,
             isAlive: true,
             age: undefined
         }
 
         if (metadata.born) {
-            status.startDate = this.normalizeDate(metadata.born, false);        
+            status.startDate = this.normalizeDate(metadata.born, false);
         } else if (metadata.created) {
-            status.startDate = this.normalizeDate(metadata.created, false);           
+            status.startDate = this.normalizeDate(metadata.created, false);
         } else if (metadata.DR) {
-            status.startDate = this.normalizeDate(metadata.DR, false);           
+            status.startDate = this.normalizeDate(metadata.DR, false);
         }
 
         if (metadata.died) {
-            status.endDate = this.normalizeDate(metadata.died, true);          
+            status.endDate = this.normalizeDate(metadata.died, true);
         } else if (metadata.destroyed) {
-            status.endDate = this.normalizeDate(metadata.destroyed, true);          
+            status.endDate = this.normalizeDate(metadata.destroyed, true);
         } else if ("DR_end" in metadata) {
             // this is to allow a blank DR_end to mean "unknown"
-            if (metadata.DR_end) status.endDate = this.normalizeDate(metadata.DR_end, true);          
+            if (metadata.DR_end) status.endDate = this.normalizeDate(metadata.DR_end, true);
         } else if (metadata.DR) {
-            status.endDate = this.normalizeDate(metadata.DR, true);          
+            status.endDate = this.normalizeDate(metadata.DR, true);
         }
 
         if (status.startDate) {
@@ -66,9 +66,9 @@ class DateManager {
 
         return status;
     }
-    
+
     getRegnalDates(metadata, targetDate) {
-        
+
         if (!targetDate) targetDate = this.getTargetDateForPage(metadata)
         let status = { isCreated: undefined, isCurrent: undefined, startDate: undefined, endDate: undefined, length: undefined }
 
@@ -118,7 +118,42 @@ class DateManager {
         if (inputDate == undefined) return undefined;
         if (inputDate == "") return undefined;
 
-        if (inputDate.isEventsDate) return inputDate
+        let isString = typeof inputDate === 'string' || inputDate instanceof String
+
+        if (!isString && inputDate.isEventsDate) return inputDate
+
+        if (isString) {
+            // this is a string which we expect is either yyyy-mm-dd or yyyy-mm but something is wrong, most likely the actual year is not 4 digits
+            let splitString = inputDate.split("-")
+            if (splitString.length == 3) {
+                jsDate.setDate(parseInt(splitString[2]))
+                jsDate.setMonth(parseInt(splitString[1]) - 1)
+                jsDate.setFullYear(parseInt(splitString[0]))
+                return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isEventsDate: true };
+            }
+            else if (splitString.length == 2) {
+                let monthInt = parseInt(splitString[1]);
+                let dayInMonth = daysInMonth(monthInt, 1999)
+                if (dayInMonth == 29) dayInMonth = 28;
+
+                jsDate.setMonth(monthInt - 1)
+                jsDate.setDate(isEnd ? dayInMonth : 1)
+                jsDate.setFullYear(parseInt(splitString[0]))
+
+                let display = FantasyCalendarAPI.getCalendars()[0].static.months[monthInt - 1].name + " " + splitString[0];
+
+                return { display: display, sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isEventsDate: true };
+            } else if (splitString.length == 1) {
+                // bare year
+                jsDate.setDate(isEnd ? 31 : 1)
+                jsDate.setMonth(isEnd ? 11 : 0)
+                jsDate.setFullYear(parseInt(splitString[0]))
+                return { display: "DR " + inputDate, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isEventsDate: true };
+            } else {
+                console.log("Unexpected incoming string: " + inputDate)
+                return undefined
+            }
+        }
 
         switch (typeof (inputDate)) {
             case "number":
@@ -127,29 +162,6 @@ class DateManager {
                 jsDate.setMonth(isEnd ? 11 : 0)
                 jsDate.setFullYear(inputDate)
                 return { display: "DR " + inputDate, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isEventsDate: true };
-
-            case "string":
-                // this is a string which we expect is either yyyy-mm-dd or yyyy-mm but something is wrong, most likely the actual year is not 4 digits
-                let splitString = inputDate.split("-")
-                if (splitString.length == 3) {
-                    jsDate.setDate(parseInt(splitString[2]))
-                    jsDate.setMonth(parseInt(splitString[1]) - 1)
-                    jsDate.setFullYear(parseInt(splitString[0]))
-                    return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isEventsDate: true };
-                }
-                else if (splitString.length == 2) {
-                    let monthInt = parseInt(splitString[1]);
-                    let dayInMonth = daysInMonth(monthInt, 1999)
-                    if (dayInMonth == 29) dayInMonth = 28;
-
-                    jsDate.setMonth(monthInt - 1)
-                    jsDate.setDate(isEnd ? dayInMonth : 1)
-                    jsDate.setFullYear(parseInt(splitString[0]))
-
-                    let display = FantasyCalendarAPI.getCalendars()[0].static.months[monthInt - 1].name + " " + splitString[0];
-
-                    return { display: display, sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isEventsDate: true };
-                }
 
             case "object":
                 if (inputDate.year == undefined) {
