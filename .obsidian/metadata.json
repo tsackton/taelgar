@@ -8,18 +8,19 @@
     ],
     "displayDefaults": {
         "person": {
+            "boxName": "Biographical Info",
             "startStatus": "born",
             "startPrefix": "b.",
             "endPrefix": "d.",
-            "endStatus": "died",
-            "primaryOrgType": "family",
+            "endStatus": "died",            
+            "affiliationTypeOf": ["family"],
             "definitiveArticle": "",
             "whereaboutsOrigin" : "Originally from: <loc>", 
             "whereaboutsHome": "Based in: <loc>", 
             "whereaboutsPastHome": "Lived in: <loc>",      
             "whereaboutsParty" : "<metStatus> by <person> on <target> in <loc>",
             "pageCurrent": "<start> <startDate> (<length> years old)",
-            "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
+            "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",            
             "pagePast": "<end> <endDate>"
         },
         "place": {
@@ -29,7 +30,9 @@
             "endStatus": "destroyed",
             "pageCurrent": "<start> <startDate> (<length> years ago)",
             "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
-            "pagePast": "<end> <endDate>"
+            "pagePast": "<end> <endDate>",
+            "partOf" : "<article> <typeof> in <loc:10>",
+            "defaultTypeOfForDisplay" : "place"
         },
         "item": {
             "startStatus": "created",
@@ -53,7 +56,8 @@
             "whereaboutsPastHome": "Was based in: <loc>",            
             "pageCurrent": "<start> <startDate> (<length> years ago)",
             "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
-            "pagePast": "<end> <endDate>"
+            "pagePast": "<end> <endDate>",
+            "partOf" : "Parent Organization: <loc:1>"
         },
         "event": {
             "startStatus": "started in",
@@ -62,10 +66,12 @@
             "whereaboutsHome": "Occurring in: <loc>", 
             "whereaboutsPastHome": "Happened in: <loc>",            
             "pageCurrent": "<start> <startDate> (<length> years ago)",
-            "pagePastWithStart": "<startDate> - <endDate>, ended after <length> years",
-            "pagePast": "<end> <endDate>"
+            "pagePastWithStart": "<startDate> - <endDate>, ended after <length> years",            
+            "pagePast": "<end> <endDate>",
+            "partOf" : "part of <loc:1>"
         },
         "default": {
+            "boxName": "Information",
             "startStatus": "created",
             "startPrefix": "created",
             "endPrefix": "destroyed",
@@ -80,7 +86,8 @@
             "whereaboutsUnknown" : "Current location: Unknown",
             "pageCurrent": "<start> <startDate>",
             "pagePastWithStart": "<start> <startDate> - <end> <endDate>",
-            "pagePast": "<end> <endDate>"
+            "pagePast": "<end> <endDate>",
+            "partOf" : "<loc>"
         }
     },
     "linkmap": [

@@ -19,13 +19,141 @@ function get_Pronouns(metadata) {
     return undefined
 }
 
+function get_Population(metadata) {
+
+    if (metadata.population) {
+
+        let intPop = parseInt(metadata.population)
+        if (intPop) return "pop. " + metadata.population.toLocaleString()
+        return metadata.population
+    }
+
+    return undefined
+
+}
+
+function buildTypeHeader(metadata, displayDefaults) {
+    const { NameManager } = customJS
+
+
+    let typeOfs = []
+
+    if (metadata.rarity) {
+        typeOfs.push(NameManager.getName(metadata.rarity, NameManager.LinkIfExists, NameManager.LowerCase))
+    }
+
+    if (metadata.mundane) {
+        typeOfs.push("mundane")
+    } else if (metadata.magical) {
+        typeOfs.push("magical")
+    }
+
+    if (metadata.ancestry) {
+        typeOfs.push(NameManager.getName(metadata.ancestry, NameManager.LinkIfExists, NameManager.PreserveCase))
+    }
+
+    if (metadata.gender) {
+        typeOfs.push(NameManager.getName(metadata.gender, NameManager.LinkIfExists, NameManager.LowerCase))
+    }
+
+    if (metadata.species) {
+        typeOfs.push(NameManager.getName(metadata.species, NameManager.LinkIfExists, NameManager.LowerCase))
+    }
+
+    if (metadata.typeOf && !metadata.partOf) {
+        typeOfs.push(NameManager.getName(metadata.typeOf, NameManager.LinkIfExists, NameManager.LowerCase))
+    }
+
+    let primaryAffs = []
+
+    if (metadata.affiliations && metadata.affiliations.length > 0 && displayDefaults.affiliationTypeOf && displayDefaults.affiliationTypeOf.length > 0) {
+        for (let i = 0; i < metadata.affiliations.length; i++) {
+            let aff = metadata.affiliations[i]
+            let primaryAff = getPrimaryAffiliationName(aff, displayDefaults)
+            if (primaryAff) primaryAffs.push(primaryAff)
+        }
+    }
+
+    let affiliations = primaryAffs.join(' and ')
+    if (primaryAffs.length > 0) {
+        typeOfs.push("of " + affiliations)
+    }
+
+    if (metadata.ka || metadata.species == "elf") {
+        typeOfs.push("(" + NameManager.getName("ka", NameManager.LinkIfExists, NameManager.LowerCase) + " " + (metadata.ka ?? "unknown") + ")")
+    }
+
+    let result = typeOfs.join(' ')
+
+    if (metadata.ddbLink) {
+        result += " [Mechanics](" + metadata.ddbLink + ")"
+    }
+
+    return result.trim()
+}
+
+function getPrimaryAffiliationName(affiliation, displayDefaultData) {
+    const { NameManager } = customJS
+    return NameManager.getFilteredName(affiliation, f => displayDefaultData.affiliationTypeOf && displayDefaultData.affiliationTypeOf.includes(f.typeOf), NameManager.CreateLink)
+}
+
+function buildSecondaryHeader(metadata) {
+
+    // builds something like
+    // (pronounciation) [key detail]
+
+    let pronc = metadata.pronunciation
+    let keyDetail = get_Pronouns(metadata) ?? get_Population(metadata)
+
+    if (pronc && keyDetail) return "*(" + pronc + "),* " + keyDetail
+    if (pronc) return "*(" + pronc + ")*"
+    if (keyDetail) return keyDetail
+}
+
+function buildPartOfHeader(metadata, displayData) {
+
+    const { LocationManager } = customJS
+    const { NameManager } = customJS
+    if (metadata.partOf) {
+
+        let typeOf = metadata.typeOf ?? displayData.defaultTypeOfForDisplay;
+        let firstChar = typeOf.length == 0 ? '' : typeOf[0]
+        let article = "a"
+        if (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u') article = "an"
+
+        let formatString = displayData.partOf.replace("<typeof>", typeOf.trim()).replace("<article>", article)
+        return LocationManager.buildFormattedLocationString(formatString, { location: metadata.partOf }, undefined, "", "", "")
+    }
+
+    return ""
+}
+
+
+/*  # DisplayName
+    *(pronunciation)*
+    >[!info] BOXNAME
+    > TYPE-SPECIFIC TEXT
+    > pagedated if it exists (dynamic, insert call to "get page dates")
+    > regnal info (dynamic, includes leader of)    
+    > partOf if it exists [static line, not auto-generated]
+    >> whereabouts if it exists
+    >> campaign info
+    >> afflitaions
+*/
+
 async function generateHeader(tp) {
 
     const { WhereaboutsManager } = customJS
     const { NameManager } = customJS
     const { LocationManager } = customJS
-    
+    const { DateManager } = customJS
+
     let nameString = NameManager.getName(tp.file.title, NameManager.NoLink, NameManager.TitleCase);
+    let displayDefaults = NameManager.getDisplayData(tp.frontmatter)
+    let pageDates = DateManager.getPageDates(tp.frontmatter)
+    let regnalDates = DateManager.getRegnalDates(tp.frontmatter)
+    let hasPageDates = pageDates.startDate || pageDates.endDate
+    let hasRegnalDates = regnalDates.startDate || regnalDates.endDate
 
     if (!nameString) {
         new Notice("The file does not have a name; please set the name before processing the header")
@@ -34,258 +162,80 @@ async function generateHeader(tp) {
 
     let output = "# " + nameString + "\n"
 
-    let pronunciation = tp.frontmatter.pronunciation
-    if (pronunciation) {
-        output += "*(" + pronunciation + ")*\n"
+    let secondary = buildSecondaryHeader(tp.frontmatter)
+    if (secondary) {
+        output += secondary + "\n"
     }
 
-    let isPerson = tp.frontmatter.tags.filter(f => f.startsWith("person")).length > 0
-    let isPlace = tp.frontmatter.tags.filter(f => f.startsWith("place")).length > 0
-    let isOrganization = tp.frontmatter.tags.filter(f => f.startsWith("organization")).length > 0
-    let isItem = tp.frontmatter.tags.filter(f => f.startsWith("item")).length > 0
-    let isSessionNote = tp.frontmatter.tags.filter(f => f.startsWith("sessionNote")).length > 0
+    let summaryBlockLines = []
 
-    let isRuler = isPerson && tp.frontmatter.tags.filter(f => f.contains("ruler")).length > 0
+    let typeOf = buildTypeHeader(tp.frontmatter, displayDefaults)
+    if (typeOf) summaryBlockLines.push("> " + typeOf)      
+    if (hasPageDates) summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_PageDatedValue")`')
+    
+    let leadersCheck = []
 
-    let hasPageDates = tp.frontmatter.born || tp.frontmatter.died || tp.frontmatter.created || tp.frontmatter.destroyed
-    let hasReignInfo = isRuler && (tp.frontmatter.reignStart || tp.frontmatter.reignEnd)
+    if (tp.frontmatter.leaderOf && tp.frontmatter.leaderOf.length > 0) {
+        leadersCheck = tp.frontmatter.leaderOf
+        let title = tp.frontmatter.title ?? "Ruler"
+        let source = tp.frontmatter.leaderOf.map(leader => {
+            return {
+                title: displayDefaults.leaders == undefined ? title : displayDefaults.leaders.filter(f => f.name == leader).first()?.title ?? title,
+                place: NameManager.getName(leader, NameManager.CreateLink)
+            };
+        })
 
-    let displayDefaults = NameManager.getDisplayData(tp.frontmatter)
+        while (source.length > 0) {
+            let thisOne = source.first();
+            let matched = source.filter(x => x.title == thisOne.title)
+            source = source.filter(x => x.title != thisOne.title)
+            let thisOneLine = thisOne.title + " of "
 
-    if (isPerson) {
-        output += ">[!info]+ Biographical Summary"
-
-        let ancestryDisplayValue = undefined
-        let speciesDisplayValue = undefined
-        let pronounDisplayValue = get_Pronouns(tp.frontmatter)
-
-        let species = tp.frontmatter.species;
-        if (species) {
-            speciesDisplayValue = NameManager.getName(species, NameManager.LinkIfExists, NameManager.LowerCase)
-        }
-
-        let ancestry = tp.frontmatter.ancestry;
-        if (ancestry) {
-            let ancestryValue = NameManager.getName(ancestry)
-
-            if (species) ancestryDisplayValue = " (" + ancestryValue + ")"
-            else ancestryDisplayValue = ancestryValue;
-        }
-
-
-        let leadersCheck = []
-
-        if (tp.frontmatter.leaderOf && tp.frontmatter.leaderOf.length > 0) {
-            let title = tp.frontmatter.title ?? "Ruler"
-            leadersCheck = tp.frontmatter.leaderOf
-            let source = tp.frontmatter.leaderOf.map(leader => {
-                return {
-                    title: displayDefaults.leaders == undefined ? title : displayDefaults.leaders.filter(f => f.name == leader).first()?.title ?? title,
-                    place: NameManager.getName(leader, NameManager.CreateLink)
-                };
-            })
-
-            while (source.length > 0) {
-
-                let thisOne = source.first();
-                let matched = source.filter(x => x.title == thisOne.title)
-                source = source.filter(x => x.title != thisOne.title)
-
-                output += "\n>" + thisOne.title + " of "
-                for (let i = 0; i < matched.length; i++) {
-                    let rl = matched[i].place
-                    output += rl
-                    if (i < matched.length - 1) output += " and "
-                }
-            }
-        }
-
-        if (ancestryDisplayValue || speciesDisplayValue || pronounDisplayValue) {
-            output += "\n>"
-        }
-
-        if (speciesDisplayValue) {
-            output += speciesDisplayValue
-        }
-
-        if (ancestryDisplayValue) {
-            if (speciesDisplayValue) output += " " + ancestryDisplayValue
-            else output += ancestryDisplayValue
-        }
-
-        if (pronounDisplayValue) {
-            if (speciesDisplayValue || ancestryDisplayValue) output += ", " + pronounDisplayValue
-            else output += pronounDisplayValue
-        }
-
-        let elfDisplay = "";
-        if (tp.frontmatter.ka || species == "elf") {
-            elfDisplay = " (" + NameManager.getName("ka") + " " + (tp.frontmatter.ka ?? "unknown") + ")"            
-        }
-
-        let familyDisplay = undefined
-        let hasOrg = false;
-        let orgText = undefined
-
-        if (tp.frontmatter.affiliations && tp.frontmatter.affiliations.length > 0) {
-            orgText = "\n> Member of: "
-            for (let i = 0; i < tp.frontmatter.affiliations.length; i++) {
-                let aff = tp.frontmatter.affiliations[i]
-
-                if (leadersCheck.includes(aff)) continue
-
-                if (!familyDisplay) {
-                    familyDisplay = NameManager.getFilteredName(aff, f => f.orgType == displayDefaults.primaryOrgType, NameManager.CreateLink)
-                    if (familyDisplay) continue
-                }
-
-                orgText += NameManager.getName(aff, NameManager.CreateLink, NameManager.TitleCase)
-                hasOrg = true
-                if (i < tp.frontmatter.affiliations.length - 1) orgText += ", "
+            for (let i = 0; i < matched.length; i++) {
+                let rl = matched[i].place
+                thisOneLine += rl
+                if (i < matched.length - 1) thisOneLine += " and "
             }
 
-            orgText = orgText.trimEnd()
-            if (orgText.endsWith(",")) orgText = orgText.substring(0, orgText.length - 1)
-        }
-
-        if (familyDisplay) {
-            output += " of " + familyDisplay
-        }
-        if (hasOrg) {
-            output += orgText
-        }
-
-        if (hasPageDates) {
-            output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`' + elfDisplay
-        }
-
-        if (hasReignInfo || (isRuler || tp.frontmatter.leaderOf)) {
-            output += "\n>" + '`$=dv.view("_scripts/view/get_RegnalValue")`'
-        }
-
-        if (tp.frontmatter.whereabouts) {
-            output += "\n>> `$=dv.view(\"_scripts/view/get_Whereabouts\")`";
-
-            for (let meeting of WhereaboutsManager.getPartyMeeting(tp.frontmatter, undefined)) {
-                let newText = `\n>>%%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`;
-                output += newText
-            }
-        }
-    } else {
-        if (tp.frontmatter.whereabouts) {
-            output += "\n>> `$=dv.view(\"_scripts/view/get_Whereabouts\")`";
+            summaryBlockLines.push("> " + thisOneLine)
         }
     }
 
-    if (isSessionNote) {
+    if (hasRegnalDates) summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_RegnalValue")`')
 
+    let partOf = buildPartOfHeader(tp.frontmatter, displayDefaults)
+    if (partOf) summaryBlockLines.push("> " + partOf)      
+
+    if (tp.frontmatter.whereabouts) {
+        summaryBlockLines.push(">> `$=dv.view(\"_scripts/view/get_Whereabouts\")`")         
     }
 
-    if (isOrganization && (hasPageDates || tp.frontmatter.basedIn || tp.frontmatter.partOf)) {
-        output += ">[!info]+ Summary"
-        if (hasPageDates) output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
-        if (tp.frontmatter.basedIn) {
-            let locationDisplay = LocationManager.getLocationName(tp.frontmatter.basedIn, "title")
-            if (locationDisplay) {
-                output += "\n> Based in: " + locationDisplay
-            }
-        }
-        if (tp.frontmatter.partOf) {
-            let partOf = NameManager.getFilteredName(tp.frontmatter.partOf, f => f.tags && f.tags.some(t => t.startsWith("organization")), NameManager.CreateLink, NameManager.TitleCase)
-            if (partOf) {
-                output += "\n> Parent Organization: " + partOf
-            }
-
-        }
+    for (let meeting of WhereaboutsManager.getPartyMeeting(tp.frontmatter, undefined)) {
+        summaryBlockLines.push(`>> %%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`);
     }
 
-    if (isItem) {
-        output += ">[!info]+ Item Info"
+    let memberOfLines = []
 
-        let mechanicsLink = undefined
-        if (tp.frontmatter.ddbLink) {
-            mechanicsLink = "(" + tp.frontmatter.ddbLink + ")"
-        }
+    if (tp.frontmatter.affiliations && tp.frontmatter.affiliations.length > 0) {
+        for (let i = 0; i < tp.frontmatter.affiliations.length; i++) {
+            let aff = tp.frontmatter.affiliations[i]
 
-        let itemType = undefined
-        let itemRarity = ""
-        if (tp.frontmatter.rarity) {
-            itemRarity = tp.frontmatter.rarity + " "
-        }
+            if (leadersCheck.includes(aff)) continue
+            if (getPrimaryAffiliationName(aff, displayDefaults)) continue
 
-        let typeOfLinked = false;
-
-        let typeOf = tp.frontmatter.typeOf
-        if (typeOf) {
-            typeOf = NameManager.getName(typeOf, NameManager.LinkIfExists, NameManager.LowerCase)
-            typeOfLinked = typeOf.includes("[")
-        }
-
-        if (!typeOf) typeOf = "item"
-
-        if (tp.frontmatter.mundane) {
-            itemType = "(" + itemRarity + "mundane " + typeOf + ")"
-        }
-        else {
-            itemType = "(" + itemRarity + "magical " + typeOf + ")"
-        }
-
-        if (mechanicsLink) {
-            if (typeOfLinked) {
-                output += "\n> " + itemType + " [Mechanics](" + mechanicsLink + ")"
-            }
-            else {
-                output += "\n> [" + itemType + "]" + mechanicsLink
-            }
-        }
-        else {
-            output += "\n>" + itemType
-        }
-
-        if (tp.frontmatter.owner) {
-            output += "\n> Owner: " + NameManager.getName(tp.frontmatter.owner, NameManager.CreateLink)
-        }
-
-        if (tp.frontmatter.maker) {
-            output += "\n> Maker: " + NameManager.getName(tp.frontmatter.maker, NameManager.CreateLink)
-        }
-
-        if (hasPageDates) {
-            output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
+            memberOfLines.push(NameManager.getName(aff, NameManager.CreateLink, NameManager.TitleCase))
         }
     }
 
-    if (isPlace) {
-        output += ">[!info]+ Summary"
-        if (hasPageDates) {
-            output += "\n>" + '`$=dv.view("_scripts/view/get_PageDatedValue")`'
-        }
-
-        if (tp.frontmatter.population) {
-            if (!hasPageDates) {
-                output += "\n>"
-            }
-            output += " *(pop. " + tp.frontmatter.population.toLocaleString() + ")*"
-        }
-
-        if (tp.frontmatter.partOf) {
-
-            let locationDisplay = LocationManager.getLocationName(tp.frontmatter.partOf)
-            
-
-            if (tp.frontmatter.placeType) {
-                let firstChar = tp.frontmatter.placeType[0]
-                if (!tp.frontmatter.placeType.startsWith("uni") && (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u')) {
-                    output += "\n> an " + tp.frontmatter.placeType + " in " + locationDisplay
-                } else {
-                    output += "\n> a " + tp.frontmatter.placeType + " in " + locationDisplay
-                }
-            } else {
-                output += "\n> a place in " + locationDisplay
-            }
-        }
+    if (memberOfLines.length > 0) {
+        summaryBlockLines.push(">> Member of: " + memberOfLines.join(", "));
     }
 
+    if (summaryBlockLines.length > 0) {
+        output += ">[!info]+ " + displayDefaults.boxName + "\n"
+    }
+
+    output += summaryBlockLines.join("\n")
     return output + "\n"
 }
 module.exports = generateHeader
