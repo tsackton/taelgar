@@ -87,9 +87,9 @@ async function get_table(input) {
         }
 
         if (options.includeTravel && item.file.frontmatter.whereabouts && item.file.frontmatter.whereabouts.length > 0) {
-            item.file.frontmatter.whereabouts.filter(e => e.start || e.end).forEach(element => {
-                let parsedStart = DateManager.normalizeDate(element.start, false)
-                let parsedEnd = DateManager.normalizeDate(element.end, true)
+            WhereaboutsManager.getWhereaboutsList(item.file.frontmatter.whereabouts).filter(e => e.start || e.end).forEach(element => {
+                let parsedStart = element.start
+                let parsedEnd = element.end
                 let location = LocationManager.getLocationName(element.location, NameManager.PreserveCase, 1, NameManager.CreateLink)
 
                 let arriveVerb = "was at"
