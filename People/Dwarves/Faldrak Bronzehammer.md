@@ -22,7 +22,7 @@ whereabouts:
 > [[Dwarves|dwarf]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[The Dunmar Fellowship]] on January 16th, 1749 in [[Vindristjarna]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on January 16th, 1749 in [[Vindristjarna]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
 
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview

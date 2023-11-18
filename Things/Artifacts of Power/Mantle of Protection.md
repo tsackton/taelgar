@@ -18,7 +18,7 @@ rarity: unique
 
 A rumored multi-colored shimmering cloak or mantle that shields the wearer from divine influence in some way. 
 
-[[Cintra]] believed [[Agata]] was searching for this, and supposedly it was created by [[Emperor Apollyon]]. 
+[[Cintra]] believed [[Agata]] was searching for this, and supposedly it was created by [[Apollyon]]. 
 
 %%SECRET[1]%%
 

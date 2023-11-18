@@ -18,6 +18,6 @@ whereabouts:
 
 The young Godcaller of the [[Te'kula]] tribe in the Elderwood. Dreamed of [[Rai]] and [[Kenzo]]. 
 
-Gave her fragment of [[Jade]] to [[Kenzo]] after [[The Dunmar Fellowship]] defeated the green dragon [[Mezzar|Grimbaskal]]. 
+Gave her fragment of [[Jade]] to [[Kenzo]] after [[Dunmar Fellowship]] defeated the green dragon [[Mezzar|Grimbaskal]]. 
 
 %%SECRET[1]%%

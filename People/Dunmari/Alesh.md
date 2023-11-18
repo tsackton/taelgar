@@ -33,7 +33,7 @@ A short, quick-footed woman, with a nondescript face, short, black hair and ligh
 
 ## Chronology
 - 21 Mar 1748: Spends the night at the [[Gomat]] oasis with [[Akan]] and his family
-- 22 Mar 1748: Meets [[The Dunmar Fellowship]] on the road, while returning to [[Karawa]] from [[Gomat]].
+- 22 Mar 1748: Meets [[Dunmar Fellowship]] on the road, while returning to [[Karawa]] from [[Gomat]].
 - 23 Mar 1748: Arrives in [[Karawa]]
 - 28 Mar 1748: Leaves to collect news and rumors from the herders to the north and east. 
 - 2 Apr 1748: Returns to Karawa with news from the north and east. 
@@ -44,6 +44,6 @@ A short, quick-footed woman, with a nondescript face, short, black hair and ligh
 - 1 June 1748: Rides for [[Tokra]] to inform refugees it is safe to return
 - 5 June 1748: Arrives in [[Tokra]] with news of safety in [[Karawa]]
 - 6 June 1748: Leaves to return to [[Karawa]] at first light
-- 10 June 1748: Arrives back in [[Karawa]]. Reports on rumors from [[Karawa]] to [[Delwath]], and speaks with him about the Dunmari shield recovered from [[Agata's lair]]. 
-- 18-19 June 1748: Celebrates the [[Feast of Bhishma]] in [[Karawa]] with [[The Dunmar Fellowship]] and others. 
+- 10 June 1748: Arrives back in [[Karawa]]. Reports on rumors from [[Karawa]] to [[Delwath]], and speaks with him about the Dunmari shield recovered from [[Agata's Lair]]. 
+- 18-19 June 1748: Celebrates the [[Feast of Bhishma]] in [[Karawa]] with [[Dunmar Fellowship]] and others. 
 %%SECRET[2]%%

@@ -1,11 +1,20 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Kharsan
-placeType:
+typeOf: city
 partOf: Garamjala Desert
 ---
+# Kharsan
+>[!info]+ Information
+> A city in the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
+
 
 Once a major Dunmari city, now a ruin controlled by the undead warrior [[Grash]]. 
 

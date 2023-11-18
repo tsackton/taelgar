@@ -8,7 +8,7 @@ species: lizardfolk
 ancestry:
 gender: male
 whereabouts:
-- {type: home, location: 'Bedez, Orekatu'}
+- {type: home, location: 'Bedez'}
 ---
 # Elazar
 >[!info]+ Biographical Summary

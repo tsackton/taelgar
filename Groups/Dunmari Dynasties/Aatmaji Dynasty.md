@@ -2,7 +2,7 @@
 tags: [status/stub, organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo: []
-name: the Aatmaji dynasty
+name: Aatmaji dynasty
 orgType: family
 ---
 # The Aatmaji Dynasty

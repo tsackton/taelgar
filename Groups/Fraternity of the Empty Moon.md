@@ -27,5 +27,5 @@ As of DR 1748, the cult is thought to be destroyed.
 - (DR:: 1748-03-19) *(Fraternity of the Empty Moon)*:  Leader of the Fraternity of the Empty Moon arrives with at [[Raven's Hold]] with [[Agata]]'s jackalwere and [[Orcs|orc]]. Uses scroll to summon [[Oduk]], who begins creating a gnoll army to cause chaos on the border. [[Agata]]'s allies remain to watch and assist, as part of the deal with [[Agata]].
 - (DR:: 1748-04-11) *(Fraternity of the Empty Moon)*: Werewolves begin to slip across the border of [[Dunmar]], using the cover of refugees fleeing east to hide.
 - (DR:: 1748-04-24) *(Fraternity of the Empty Moon)*: The [[Fraternity of the Empty Moon]] arrives in [[Tokra]], and begins to set up a secret lair. 
-- (DR:: 1748-07-02) *(Fraternity of the Empty Moon)*: The [[Destruction of the Werewolf Cult]] by [[The Dunmar Fellowship]]
+- (DR:: 1748-07-02) *(Fraternity of the Empty Moon)*: The [[Destruction of the Werewolf Cult]] by [[Dunmar Fellowship]]
  

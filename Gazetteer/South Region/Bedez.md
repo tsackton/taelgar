@@ -1,10 +1,15 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Bedez
-placeType:
-partOf:
+typeOf: village
+partOf: Orekatu
 ---
 
 Bedez is a village in the lizardfolk kingdom of [[Orekatu]]. 

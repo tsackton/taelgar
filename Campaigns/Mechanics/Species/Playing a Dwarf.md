@@ -57,7 +57,7 @@ Dwarves of the Traveler thuhr have a special connection to Maganna (she/her), th
 
 As a member of the Traveler thuhr, you know one of the following runes: the Rune of Delving or the Rune of Exploration.
 ## Lifespan
-Dwarves, like many of the Elder Folk, are exceptionally long lived, with a typical lifespan of 250-300 years. Dwarves reach physical maturity in their 20s, but are not considered adults until they undertake their pilgrimage to the [[The Heart of the Mountain]] and participate in the rite of name-taking, usually in their mid-30s. Dwarves are not considered old until their second century, and some elders of the race have been known to live past 350. Despite their long age, dwarves tend to have relatively few children, and most dwarven families are small, often with widely-spaced siblings. 
+Dwarves, like many of the Elder Folk, are exceptionally long lived, with a typical lifespan of 250-300 years. Dwarves reach physical maturity in their 20s, but are not considered adults until they undertake their pilgrimage to the [[Heart of the Mountain]] and participate in the rite of name-taking, usually in their mid-30s. Dwarves are not considered old until their second century, and some elders of the race have been known to live past 350. Despite their long age, dwarves tend to have relatively few children, and most dwarven families are small, often with widely-spaced siblings. 
 
 As a dwarven adventurer, you can pick any age you prefer. Dwarves younger than 80 or so would often be considered young; dwarves older than 200 would often be considered old. 
 ## Dwarven Names

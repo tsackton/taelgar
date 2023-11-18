@@ -371,7 +371,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves at the elemental forge. Given to Faldrak as partial payment for magic item construction. 
 - [[Hralgar's Eyes]] (legendary major item*, party), returned to [[Hralgar]] as part of freeing him.
 - [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 78 (DuFr)]]
-- [[Arcane Grimoire]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Emperor Apollyon|Apollyon]], in [[Session 78 (DuFr)]]
+- [[Arcane Grimoire]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 78 (DuFr)]]
 - Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 78 (DuFr)]]
 - [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 78 (DuFr)]]
 - [[Black Iron Staff]],  given to the [[Archives]] in [[Tokra]]. 
@@ -392,5 +392,5 @@ The following mundane items are kept on [[Vindristjarna]]:
 ### Stolen or Lost
 
 - [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 73 (DuFr)]]
--  A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].
--  Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].
+-  A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's Lair]].
+-  Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's Lair]].

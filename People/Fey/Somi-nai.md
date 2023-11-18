@@ -7,16 +7,14 @@ born:
 species: elemental
 ancestry: fire
 gender: male
-affiliations: [Ember, Sugarra]
+aliases: [Ember, Sugarra]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Azta Lekua, Orekatu'}
 ---
 # Somi-nai
->[!info]+ Biographical Summary
->elemental (fire), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Azta Lekua]], [[Orekatu]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> fire elemental, he/him
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Somi-nai, also known as Ember, or Sugarra among the [[Lizardfolk]], stands as the personification of the volcanic essence and a spirit of the encompassing jungle.
 ## Overview

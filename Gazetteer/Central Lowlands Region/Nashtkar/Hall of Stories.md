@@ -1,11 +1,20 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Hall of Stories
-placeType:
-partOf:
+typeOf: building
+partOf: Monastery of Bhishma
 ---
+# The Hall of Stories
+>[!info]+ Information
+> A building in the [[Monastery of Bhishma]]
+
 
 A building in the [[Monastery of Bhishma]] that houses the stories of the Dunmari. 
 

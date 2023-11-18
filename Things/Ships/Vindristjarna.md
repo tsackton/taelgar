@@ -45,11 +45,11 @@ While the phasing stone that originally powered Vindristjarna is mostly destroye
 
 ## Recovery and Repair
 
-[[The Dunmar Fellowship]] [[Session 68 (DuFr)|restored Vindristjarna in the course of their adventures]], replacing the ruined phasing stone with a new one, [[Session 67 (DuFr)|recovered from Hralgar's ancient mountain home]]. 
+[[Dunmar Fellowship]] [[Session 68 (DuFr)|restored Vindristjarna in the course of their adventures]], replacing the ruined phasing stone with a new one, [[Session 67 (DuFr)|recovered from Hralgar's ancient mountain home]]. 
 
 Currently, the hull of the ship has been restored and repaired, and two stone decks constructed, creating three floors: a storage hold currently unimproved, a lower deck, and an upper deck. 
 
-The upper deck, occupying a total of 12,000 square feet (480 squares), is dominated by a large central courtyard, greenhouse, and garden, maintained by Kenzo. Around the railing of the upper deck is also a depiction of the travels of [[The Dunmar Fellowship]], and especially the stories of the people they have met, recalling the [[Hall of Stories]] in the [[Monastery of Bhishma]]. 
+The upper deck, occupying a total of 12,000 square feet (480 squares), is dominated by a large central courtyard, greenhouse, and garden, maintained by Kenzo. Around the railing of the upper deck is also a depiction of the travels of [[Dunmar Fellowship]], and especially the stories of the people they have met, recalling the [[Hall of Stories]] in the [[Monastery of Bhishma]]. 
 
 Also constructed are a well-equipped galley and kitchen, a dining hall, a map room maintained by Wellby, a workshop maintained by Seeker and providing space for Faldrak to work, and comfortable living quarters for ten people. 
 

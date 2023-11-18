@@ -2,7 +2,7 @@
 
 ## Timeline
 
-**Aug 24**: Vanish from [[Chardon]] after using the [[Chalice of the Runepriest]]; appear in [[The Heart of the Mountain]]; speak with the [[Bahrazel]]; rest.
+**Aug 24**: Vanish from [[Chardon]] after using the [[Chalice of the Runepriest]]; appear in [[Heart of the Mountain]]; speak with the [[Bahrazel]]; rest.
 **Aug 25**: Venture into the realm of [[Morkalan]]; figure out the mystery, kill [[Hagrim]], send his soul to the gods for judgment.
 **Aug 26:** Appear near the [[Stoneborn Statue Dungeon|statue of the Stoneborn Warrior]] in northern [[Dunmar]]; two companions return to their lives; [[Thror]] stays to help and seek redemption.
 
@@ -10,7 +10,7 @@
 
 ### Session 1
 
-We begin in a vast cavern with a still pool in the center, a place in [[The Heart of the Mountain]], the realm of the [[Bahrazel]], the dwarven gods. [[Riswynn]], [[Rothfis]], [[Merash]], and [[Thror]] find themselves transported here. In [[Riswynn]]'s case, by the [[Chalice of the Runepriest]]; in everyone else's, by divine magic, and not necessarily by choice. 
+We begin in a vast cavern with a still pool in the center, a place in [[Heart of the Mountain]], the realm of the [[Bahrazel]], the dwarven gods. [[Riswynn]], [[Rothfis]], [[Merash]], and [[Thror]] find themselves transported here. In [[Riswynn]]'s case, by the [[Chalice of the Runepriest]]; in everyone else's, by divine magic, and not necessarily by choice. 
 
 As the sound of hammers banging against anvils and the smell of iron permeates the chamber, the party feels they are in the presence of the gods. All, but [[Riswynn]], owing a debt, which the [[Bahrazel]] now claim, a physical token of this debt appearing out of the water in the pool. To redeem their debts to the [[Bahrazel]], the party is to travel to the [[Shadowfell]] domain of [[Morkalan]], where they will find the dwarf [[Hagrim]], whose evil deeds created the place, and either send him to damnation or atonement with the power of the [[Chalice of the Runepriest]]. 
 

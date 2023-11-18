@@ -2,10 +2,13 @@
 tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
-name: Agata's lair
-placeType:
-partOf:
+name: Agata's Lair
+typeOf: house
+partOf: Garamjala
 ---
+# The Agata's Lair
+>[!info]+ Information
+> A house in [[Garamjala Desert|Garamjala]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
 
 The home of the hag [[Agata]] Dustmother. Looted, but not destroyed, by the party in [[Session 30 (DuFr)]]
 

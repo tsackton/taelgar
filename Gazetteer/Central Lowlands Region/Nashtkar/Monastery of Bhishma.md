@@ -1,12 +1,20 @@
 ---
-tags: [place, place/building]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name:
-placeType:
-partOf:
+tags:
+  - place
+  - place/building
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: 
+typeOf: monastery
+partOf: Garamjala Desert
 ---
-# The Monastery of [[Bhishma]]
+# The Monastery of Bhishma
+>[!info]+ Information
+> A monastery in the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
 
 ## Overview
 The Monastery of [[Bhishma]] is a large complex dedicated to the Dunmari goddess [[Bhishma]], consisting of a temple, dormitories and associated buildings, and the [[Hall of Stories]], an archive of the stories and lives of the Dunmari people. 
@@ -20,7 +28,7 @@ The monastery served as the headquarters of the Bhishma Mystai, also known as th
 ## Events
 
 %%^Campaign:DuFr%%
-In 1748, [[The Dunmar Fellowship]] came to the monastery, seeking to learn more about the history of the [[Order of the Awakened Soul]], among other things. While there, [[Seeker]] documented the buildings, and [[Wellby]] mapped the complex. Their notes are reproduced below:
+In 1748, [[Dunmar Fellowship]] came to the monastery, seeking to learn more about the history of the [[Order of the Awakened Soul]], among other things. While there, [[Seeker]] documented the buildings, and [[Wellby]] mapped the complex. Their notes are reproduced below:
 
 ![[monastery_backdrop.png]]
 %%^End%%

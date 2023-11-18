@@ -19,4 +19,4 @@ whereabouts:
 
 A member of a family of goat herders that wander across the upper reaches of the Hara river, north of Tokra. 
 
-In 1748, met [[The Dunmar Fellowship]], and his family was gifted a mechanical goat of a strange clockwork design by the dwarf [[Seeker]]. 
+In 1748, met [[Dunmar Fellowship]], and his family was gifted a mechanical goat of a strange clockwork design by the dwarf [[Seeker]]. 
