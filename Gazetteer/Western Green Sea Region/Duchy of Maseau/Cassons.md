@@ -1,10 +1,11 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Cassons
-placeType:
-partOf:
+partOf: Duchy of Maseau
 ---
+# Cassons
+>[!info]+ Information
+> A place in the [[Duchy of Maseau]]
 
 The main town in southern [[Duchy of Maseau|Maseau]] is the border fort of Cassons. Once an important town on the road from [[Isingue]] to [[Embry]], it is a shadow of its former self and is dotted with ruins and abandoned buildings. It is a dry and dusty place, just far enough south to get choking ash storms in the summer, and the people eke out a meager living on the proceeds from trade along the Dunmar Road and food shipments from [[Duchy of Maseau|Maseau]], designed to encourage a defense here. In the hinterlands of Cassons a small number of ranchers have established themselves along the ruins of the [[Great South Road]], and the forts of the Marcher Lords dot the ranchlands or several days' ride south.
