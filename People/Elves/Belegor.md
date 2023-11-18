@@ -8,6 +8,7 @@ born: 1468
 ka: 36
 species: elf
 ancestry:
+pronunciation: beh-leh-GOR
 gender: male
 whereabouts:
 - {type: home, start: '', end: 1600, location: 'unknown, Ainumarya'}
