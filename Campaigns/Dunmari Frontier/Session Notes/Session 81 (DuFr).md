@@ -8,17 +8,20 @@ tags:
 **In the real world:** Nov 8, 2023
 **In Taelgar:**  Jan 8, 1749 - Jan 16, 1749
 
-## Summary
+## Key Information
 
-## Notes and Information
+
+## Session Events
 
 Start: afternoon, Jan 8th, 1749
 End: evening, Jan 16th, 1749
 
-#### Eudomes' Mirror
+***Everyone levels up to level 13 at the end of the session!***
+
+### Mirror Visions
 - (DR::1749-01-13) [[Eudomes' Mirror]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
 
-## Timeline 
+### Timeline 
 
 - (DR::1749-01-08): *(evening)* Settle in at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] prepares for magic item construction 
 - (DR::1749-01-09): Remain at the elemental forge while [[Faldrak Bronzehammer]] crafts magic
