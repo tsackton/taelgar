@@ -1,24 +1,25 @@
 ---
 tags: [status/uptodate, person, dufr/met, dufr/major]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: { secondaryInfo: "<subspecies> (<species>), <pronouns>"}
 campaignInfo:
-- {campaign: DuFr, date: 1748-11-15, type: met}
+- {campaign: DuFr, date: 1748-11-15, type: imprisoned }
 name: Agata Dustmother
 born:
 species: fey
-ancestry: hag
+subspecies: hag
 gender: female
 aliases: [Old Woman of the Dusts, Dasoclese]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Garamjala Desert'}
-- {type: away, start: 1748-11-15, end: '', location: 'Heartwood Grove, Amberglow, Feywild'}
+- {type: home, end: 1400, location: Amberglow} # end is arbitrary, just needs to exist to prevent Amberglow from being home after she left Garamjala
+- {type: home, start: '', end: 1748-05-29, location: Garamjala Desert}
+- {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind }
+- {type: away, start: 1748-11-15, end: 2000-01-01, location: Heartwood Grove } # end is abritrary
 ---
 # Agata Dustmother
-she/her
 >[!info]+ Biographical Info
-> hag [[Fey|fey]]
+> [[Hags|hag]] ([[Fey|fey]]), she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on November 15th, 1748 in [[Heartwood Grove]], [[Amberglow]], [[Feywild]] %%^End%%
+>> %%^Campaign:DuFr%% Imprisoned by [[The Dunmar Fellowship]] on November 15th, 1748 in [[Heartwood Grove]], [[Amberglow]], [[Feywild]] %%^End%%
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
 ## Overview

@@ -1,21 +1,20 @@
 ---
 tags: [dufr/background, person, dufr/aware]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: { endStatus: "killed by [[Agata]]"}
 campaignInfo: []
 name: Typhina
-born:
+#died date is very approx, but she is canonically dead
+died: 1400          
 species: fey
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Amberglow, Feywild'}
+- {type: home, location: Amberglow }
 ---
 # Typhina
->[!info]+ Biographical Summary
->fey, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Amberglow]], [[Feywild]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
-### Typhina
+>[!info]+ Biographical Info
+> [[Fey|fey]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A member of the court of the [[Cloudspinner]] and guardian of the Heartwood Grove. She was killed by [[Agata]], who later stole her identity while hiding in the [[Ring of the Warded Mind]].

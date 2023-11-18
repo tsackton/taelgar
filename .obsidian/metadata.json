@@ -6,7 +6,9 @@
         "in",
         "near",
         "imprisoned",
-        "traveling"
+        "drifting",
+        "traveling",
+        "Taelgar"
     ],
     "displayDefaults": {
         "person": {
@@ -19,6 +21,7 @@
             "definitiveArticle": "",
             "whereaboutsOrigin": "Originally from: <loc>",
             "whereaboutsHome": "Based in: <loc>",
+            "whereaboutsPast": "<end> in <loc>",
             "whereaboutsPastHome": "Lived in: <loc>",
             "whereaboutsParty": "<met> by <person> on <target> in <loc>",
             "pageCurrent": "<start> <startDate> (<length> years old)",
@@ -98,8 +101,18 @@
             "isAlias": true
         },
         {
+            "from": "storm giant",
+            "to": "giants",
+            "isAlias": true
+        },
+        {
+            "from": "fire giant",
+            "to": "giants",
+            "isAlias": true
+        },
+        {
             "from": "elder wrym",
-            "to": "dragon",
+            "to": "dragons",
             "isAlias": true
         },
         {
