@@ -7,7 +7,7 @@ tags:
 campaignInfo:
   - campaign: DuFr
     date: 1748-01-15
-    type: dined with
+    type: met
 name: Vahaiya
 pronunciation: va-HAI-ya
 born: 1532 #start of leya for 36 ka
@@ -23,18 +23,19 @@ whereabouts:
   - type: away
     start: 1545
     end: 1720
-    location: traveling in Sembara area
+    location: traveling, greater Sembara
   - type: home
     start: 1720
     location: Erelion
+# traveling / return to Erelion dates are approx
 ---
 # Vahaiya
 *(va-HAI-ya)*
->[!info]+ Biographical Summary
->[[Elves|elf]], they/them
->`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 36)
+>[!info]+ Biographical Info
+> [[Elves|elf]], they/them ([[The Cycle of Generations|ka]] 36)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Dined with by [[The Dunmar Fellowship]] on January 15th, 1748 in [[Erelion]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
+>> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on January 15th, 1748 in [[Erelion]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
 
 Vahaiya is a warrior, traveler, adventurer, and now artist and collector. After surviving the [[Great War]], fighting alongside the Sembaran Army in the [[Battle of Urlich Pass]], they traveled extensively around [[Addermarch]], the [[Aurbez Plateau]], [[Duchy of Maseau|Maseau]], and other Sembaran borderlands. They made a name for themselves in the hobgoblin wars, but growing tiring of fighting after many years, decided to settle in [[Erelion]]. 
 

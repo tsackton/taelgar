@@ -12,22 +12,18 @@ gender: female
 whereabouts:
 - {type: home, start: '', end: '', location: Orenlas}
 - {type: away, start: 1744-01-01, end: 1748-08-28, location: Green Sea}
-- {type: away, start: 1748-08-29, end: '', location: Tollen}
+- {type: away, start: 1748-08-29, end: 9999, location: Tollen}
 ---
 # Elwis
-she/her
 >[!info]+ Biographical Info
-> [[Elves|elf]] ([[The Cycle of Generations|ka]] 37)
+> [[Elves|elf]], she/her ([[The Cycle of Generations|ka]] 37)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on January 2nd, 1749 in [[Tollen]], the [[Western Green Sea Region]] %%^End%%
 
-Elwis is a female elf from Orenlas. 
+Elwis is a female elf and painter from Orenlas. She is spending her wandering years traveling around the [[Green Sea]], trying to make new art that hasn't been dreamed before in the history of her people. 
+%%^Date:1748-08-29%% 
+She has recently come to [[Tollen]], fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
+%%^End%%
 
-She is a painter, of the 37th ka, born in 1634 DR, so she is currently 114 years old. She stayed for many years after her Rite of Awakening, in Orenlas, fascinated by the endless dreaming of **Lómelindë**, the Glimmering Grove, where vibrant flowers bloom and one can dream of colors that have no name. 
-
-But, after 60 years of this, she grew disillusioned with always looking to the past, always studying the dreams of the eldest, and wanted to find something new in the world. 
-
-For the past 4 years, she has been traveling around the [[Green Sea]], trying to make new art that hasn't been dreamed before in the history of her people. 
-
-She has come to [[Tollen]] fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
-
+%%SECRET[1]%%
