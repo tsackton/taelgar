@@ -1,23 +1,25 @@
 ---
 tags: [dufr/aware, person, dufr/major]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: 
+ - { campaign: DuFr, type: scryed, date: 1748-12-28 }
 name: Grash
 born:
 species: undead
 ancestry: skeletal
 gender: male
+# start date of Kharsan is guess, Tim might have a more canonical date
 whereabouts:
-- {type: home, start: '', end: '', location: 'unknown, unknown'}
-- {type: home, start: '', end: '', location: 'unknown, unknown'}
-- {type: away, start: 1748-12-14, end: '', location: 'Uzgukhar, Xurkhaz'}
+- {type: home, start: '', end: '', location: 'Unknown'}
+- {type: away, start: 1747, end: 1748-11-28, location: Kharsan }
+- {type: away, start: 1748-11-28, end: 1748-12-05, location: Garamjala }
+- {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
+- {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
 ---
 # Grash
->[!info]+ Biographical Summary
->undead (skeletal), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: unknown, unknown
->> Based in: unknown, unknown
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> skeletal [[Undead|undead]], he/him
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Scryed by [[The Dunmar Fellowship]] on December 28th, 1748 in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
 Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan.

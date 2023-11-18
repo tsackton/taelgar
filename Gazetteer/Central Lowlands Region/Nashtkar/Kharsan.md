@@ -4,7 +4,7 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Kharsan
 placeType:
-partOf:
+partOf: Garamjala Desert
 ---
 
 Once a major Dunmari city, now a ruin controlled by the undead warrior [[Grash]]. 
