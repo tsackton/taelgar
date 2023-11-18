@@ -15,7 +15,7 @@ partOf: Barony of Aveil
 typeOf: inn
 ---
 # The Town Of Six
-*(town of s-i-x),* pop. 20,000
->[!info]+ Information
-> inn
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+*(town of s-i-x)*
+>[!info]+ Summary
+>`$=dv.view("_scripts/view/get_PageDatedValue")` *(pop. 20,000)*
+> an inn in the [[Barony of Aveil]], [[Sembara]], [[The Western Green Sea Region]]

@@ -29,15 +29,15 @@ whereabouts:
     location: Cleenseau
   - type: away
     start: 1700-10-21
-    end: 1718
+    end: 
     location: Valit
 ddbLink: https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power
 ---
 # Sirx Some NPC
-*(Sm-n-p-c),* he/him
->[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Elves|elf]] of the [[OrgThatIsFamily|Family of Someones]] ([[The Cycle of Generations|ka]] 25) [Mechanics](https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+*(Sm-n-p-c)*
+>[!info]+ Biographical Summary
+>[[Elves|elf]]  ([[Sembara|Sembaran]]), he/him of the [[OrgThatIsFamily|Family of Someones]]
+> Member of: The [[OrganizationWithAll|Something Org Something]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 25)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on October 20th, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
->> Member of: The [[OrganizationWithAll|Something Org Something]]
+>>%%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on October 20th, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
