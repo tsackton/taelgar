@@ -1,9 +1,15 @@
 ---
-tags: [organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
-campaignInfo: []
-name:
+tags:
+  - organization
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: disbanded
+  endStatus: disbanded
+campaignInfo: 
+name: 
 timelineDescriptor: Fraternity of the Empty Moon
+orgType: cult
 ---
 # The Fraternity of the Empty Moon
 

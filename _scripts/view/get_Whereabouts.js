@@ -61,7 +61,6 @@ function get_Whereabouts(metadata) {
 
     if (whereabout.lastKnown && whereabout.lastKnown.location) {
         if (displayString != "") displayString += "\n"
-
         displayString += LocationManager.buildFormattedLocationString(displayDefaults.whereaboutsLastKnown, whereabout.lastKnown, pageYear, endStatus)
         if (isPageAlive) {
             displayString += "\n" + LocationManager.buildFormattedLocationString(unknownStr, undefined, pageYear, endStatus);

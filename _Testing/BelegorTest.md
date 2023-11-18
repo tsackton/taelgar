@@ -11,7 +11,8 @@ title:
 family: 
 affiliations: 
 aliases: 
-tags: []
+tags:
+  - person
 lastSeenByParty:
   - date: 1748-9-30
     prefix: DuFr
@@ -30,9 +31,8 @@ whereabouts:
 # Belegor
 >[!info]+ Biographical Summary
 >[[Elves|elf]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka 36]])
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 36)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Belegor is a solitary [[Elves]] wander, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [[Great War]]. 
 ## Overview

@@ -1,8 +1,14 @@
 ---
-tags: [organization/religious]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
-campaignInfo: []
-name:
+tags:
+  - organization/religious
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: disbanded
+  endStatus: disbanded
+campaignInfo: 
+name: 
+orgType: religious
 ---
 # The Shakun Mystai
 

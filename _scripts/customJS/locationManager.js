@@ -54,6 +54,7 @@ class LocationManager {
         let formatted = formatStr.replace("<loc>", location)
             .replace("<end>", whereabout?.awayEnd?.display)
             .replace("<start>", whereabout?.start?.display)
+            .replace("<endDate>", whereabout?.awayEnd?.display)
             .replace("<end>", endStatus)
             .replace("<person>", person)
             .replace("<met>", metStatus)

@@ -12,7 +12,7 @@ campaignInfo:
     type: met
 name: Some NPC
 born: 1659
-died: 1719
+died: 
 species: elf
 ka: 25
 ancestry: Sembaran
