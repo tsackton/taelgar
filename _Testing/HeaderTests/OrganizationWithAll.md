@@ -6,10 +6,11 @@ name: Something Org Something
 pronunciation: s-o-someht
 created: 1600
 destroyed: 1700
-basedIn: Cleenseau
+typeOf: Army
+whereabouts: Cleenseau
 ---
-# Something Org Something
+# The Something Org Something
 *(s-o-someht)*
 >[!info]+ Summary
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
-> Based in: [[Cleenseau]], [[Barony of Aveil]], [[Sembara]]
+> `$=dv.view("_scripts/view/get_Whereabouts")`

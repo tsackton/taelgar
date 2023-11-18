@@ -13,7 +13,7 @@ whereabouts:
 ---
 # Marcella
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), she/her
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

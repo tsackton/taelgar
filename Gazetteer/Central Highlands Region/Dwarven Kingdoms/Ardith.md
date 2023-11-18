@@ -8,9 +8,9 @@ partOf: Sentinel Range
 destroyed: 1545
 ---
 # Ardith
->[!info]+ Summary
->`$=dv.view("_scripts/view/get_PageDatedValue")`
-> a kingdom in the [[Sentinel Range]], [[Central Highlands Region]], [[Taelgar]]
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> The [[Sentinel Range]], [[Central Highlands Region]]
 
 The dwarven kingdom of Ardith, once rich and prosperous and spreading from was overrun in the [[Great War]]. Most of the [[dwarves]] who survived settled in the [[Yuvanti Mountains]], founding the new kingdom of [[Nardith]].
 

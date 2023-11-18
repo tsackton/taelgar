@@ -23,10 +23,10 @@ whereabouts:
 # Queen Some NPC
 *(Sm-n-p-c)*
 >[!info]+ Biographical Summary
->Queen of [[Sembara]] and [[Tyrwingha]]
->[[Elves|elf]]  ([[Tyrwingha|Tyrwinghan]]), they/them of [[OrgThatIsFamily|The Family of Someones]]
-> Member of: [[OrganizationWithAll|Something Org Something]], NotLinked
->`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka 25]])
+>Queen of [[Sembara]] and [[Tyrwingha]] and the [[Army of the West]]
+>[[Elves|elf]]  ([[Tyrwingha|Tyrwinghan]]), they/them of the [[OrgThatIsFamily|Family of Someones]]
+> Member of: The [[OrganizationWithAll|Something Org Something]], [[NotLinked]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 25)
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Last met by [[The Dunmar Fellowship|The Side Quests]] on October 20th, 1719 in: [[Valit]], [[Barony of Aveil]], [[Sembara]] %%^End%%
+>>%%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on October 20th, 1719 in [[Valit]], the [[Barony of Aveil]], [[Sembara]] %%^End%%

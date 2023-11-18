@@ -1,8 +1,16 @@
 ---
-tags: [status/stub, organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded, definitiveArticle: ""}
-campaignInfo: []
-name:
+tags:
+  - status/stub
+  - organization
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: disbanded
+  endStatus: disbanded
+  definitiveArticle: ""
+campaignInfo: 
+name: 
+orgType: cult
 ---
 
 # The Cleansed

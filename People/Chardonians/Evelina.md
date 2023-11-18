@@ -31,11 +31,12 @@ whereabouts:
     location: Chardon
 ---
 # Evelina
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), she/her
-> Member of: [[The Cleansed]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+she/her
+>[!info]+ Biographical Info
+> [[Chardonian Empire|Chardonian]] [[Humans|human]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Last killed by [[The Dunmar Fellowship|The Side Quests]] on December 8th, 1748 in: [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% Killed by [[The Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> Member of: [[The Cleansed]]
 
 A sorcerer and a member of [[the Cleansed]].  

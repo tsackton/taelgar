@@ -10,8 +10,8 @@ ancestry:
 gender: male
 ---
 # Elandrial
->[!info]+ Biographical Summary
->[[Elves|elf]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+he/him
+>[!info]+ Biographical Info
+> [[Elves|elf]] ([[The Cycle of Generations|ka]] unknown)
 
 An elf, a member of the [[Fides Lucaris]]. Was working on deciphering the [[Enchiridion of the Occulta Ludum]] during the age of Drankor. Current whereabouts unknown.

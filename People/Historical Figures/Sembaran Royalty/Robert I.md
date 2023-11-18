@@ -13,12 +13,13 @@ leaderOf: [Sembara]
 title: King
 affiliations: [House of Sewick]
 ---
-# The King Robert I
->[!info]+ Biographical Summary
->King of [[Sembara]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of the [[House of Sewick]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+# King Robert I
+he/him
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_RegnalValue")`
+>> Member of: The [[House of Sewick]]
 
 A ruler of Sembara, son of [[Cece I]].  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [[Elaine II]]. 
 

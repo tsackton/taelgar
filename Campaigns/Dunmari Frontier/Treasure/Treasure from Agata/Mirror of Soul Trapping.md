@@ -1,6 +1,7 @@
 ---
 typeOf: mirror
 tags: [item]
+whereabouts: Vindristjarna
 ---
 # Mirror of Soul Trapping
 >[!info]+ Item Info

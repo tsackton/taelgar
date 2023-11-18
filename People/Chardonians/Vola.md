@@ -11,11 +11,12 @@ affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
 - {type: away, start: 1748-11-23, end: '', location: 'unknown, Dunmar'}
+- {type: away, start: 1748-12-08, end: 1752, location: Mirror of Soul Trapping}
 ---
 # Vola Forena
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), she/her
-> Member of: [[Society of the Open Scroll]]
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), she/her
+> Member of: The [[Society of the Open Scroll]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

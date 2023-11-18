@@ -12,10 +12,9 @@ whereabouts:
 pronunciation: FAHL-thrah
 ---
 # Fallthra Hardstone
->[!info]+ Biographical Summary
->[[Dwarves|dwarf]], she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+*(FAHL-thrah),* she/her
+>[!info]+ Biographical Info
+> [[Dwarves|dwarf]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Matriach of the Hardstone clan; mother to [[Dag Hardstone]]. 
