@@ -13,9 +13,4 @@ From the little you have learned, it seems it wants to be used.
 The Scepter of Command was destroyed in 1748, by [[The Dunmar Fellowship]]. It was immersed in the sacred waters on the island of [[Vetta|Vetta]] in the Skaer Islands for 24 hours during a full moon, and then shattered with the combined power of [[Kenzo]]'s staff and the might of [[Kaikkea]]'s waters. 
 
 
-## The Story of the Scepter of Command
-*As sung by the halfling storytellers in the Year of Honeyed Sun*
-
-*It began at an inn in a small village in the desert; in began in the mind of a madman; it began as *
-
 %%SECRET[1]%%
