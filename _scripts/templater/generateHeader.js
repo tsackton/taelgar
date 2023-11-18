@@ -32,11 +32,25 @@ function get_Population(metadata) {
 
 }
 
+
+function getDefaultTypeOf(metadata) {
+
+    if (metadata.typeOf) return metadata.typeOf;
+
+    if (metadata.tags.length > 0) {
+        let itemTag = metadata.tags.filter(f => f.startsWith("item") || f.startsWith("place")).first()
+        if (itemTag) {
+            return itemTag.split("/")[0]
+        }
+    }
+
+    return undefined;
+}
+
 function buildTypeHeader(metadata, displayDefaults) {
     const { NameManager } = customJS
 
     let formatString = displayDefaults.secondaryInfo
-    console.log(formatString)
 
     let gender = NameManager.getName(metadata.gender, "exists", "lower");
     let species = NameManager.getName(metadata.species, "exists", "lower");
@@ -48,27 +62,27 @@ function buildTypeHeader(metadata, displayDefaults) {
     let ancestry = NameManager.getName(metadata.ancestry, "exists", "title");
     let population = get_Population(metadata)
 
-    
+
     let initialTypeLine = formatString.replace("<gender>", gender ?? "")
         .replace("<rarity>", rarity ?? "")
         .replace("<pronouns>", pronouns ?? "")
         .replace("<population>", population ?? "")
         .replace("<ancestry>", ancestry ?? "")
-        .replace("<typeof>", type ?? "")
+        .replace("<typeof>", type ?? getDefaultTypeOf(metadata) ?? "")
         .replace("<subtypeof>", subType ?? "")
         .replace("<species>", species ?? "")
         .replace("<subspecies>", subspecies ?? "")
-        .replace("<mainType>", subspecies ?? species ?? type ?? subType ?? "")
+        .replace("<mainType>", subspecies ?? species ?? type ?? subType ?? getDefaultTypeOf(metadata) ?? "")
 
-        // remove interior spaces and trailing/leading commas
-    initialTypeLine = (initialTypeLine.split(' ').map(f => f.trim()).join(' ')).trim()
+    // remove interior spaces and trailing/leading commas
+    initialTypeLine = (initialTypeLine.split(' ').map(f => f.trim()).filter(f => f.length > 0).join(' ')).trim()
     if (initialTypeLine.startsWith(',')) initialTypeLine = initialTypeLine.substr(1).trim()
     if (initialTypeLine.endsWith(",")) initialTypeLine = initialTypeLine.substr(0, initialTypeLine.length - 1).trim()
 
     initialTypeLine = initialTypeLine.replace(new RegExp("\\(\\s*"), "(")
     initialTypeLine = initialTypeLine.replace(new RegExp("\\s*\\)"), ")")
     initialTypeLine = initialTypeLine.replace(new RegExp("\\(\\s*\\)"), "")
-    
+
 
     let typeOfs = []
 
@@ -85,14 +99,14 @@ function buildTypeHeader(metadata, displayDefaults) {
             if (primaryAff) primaryAffs.push(primaryAff)
         }
     }
-        
-    let affiliations = primaryAffs.join(' and ')    
+
+    let affiliations = primaryAffs.join(' and ')
     if (primaryAffs.length > 0) {
         if (typeOfs.length > 0) typeOfs.push("of")
         else typeOfs.push("Of")
-        typeOfs.push(affiliations)        
+        typeOfs.push(affiliations)
     }
-    
+
     if (metadata.ka || metadata.species == "elf") {
         typeOfs.push("(" + NameManager.getName("ka", NameManager.LinkIfExists, NameManager.LowerCase) + " " + (metadata.ka ?? "unknown") + ")")
     }
@@ -104,13 +118,13 @@ function buildTypeHeader(metadata, displayDefaults) {
 
 function getPrimaryAffiliationName(affiliation, displayDefaultData) {
     const { NameManager } = customJS
-        
+
     if (displayDefaultData.affiliationTypeOf == undefined)
         return undefined
 
-    if (displayDefaultData.affiliationTypeOf.length == 0)    
+    if (displayDefaultData.affiliationTypeOf.length == 0)
         return undefined
-    
+
     return NameManager.getFilteredName(affiliation, f => {
         if (!f.typeOf) return false;
         return displayDefaultData.affiliationTypeOf.includes(f.typeOf)
@@ -139,13 +153,6 @@ function getSubTypeOf(metadata) {
         }
     }
 
-    if (!subTypeBase && metadata.tags.length > 0) {
-        let itemTag = metadata.tags.filter(f => f == "item" || f == "place").first()
-        if (itemTag) {
-            subTypeBase = itemTag
-        }
-    }
-
     return subTypeBase
 }
 
@@ -155,7 +162,7 @@ function buildPartOfHeader(metadata, displayData) {
     const { NameManager } = customJS
     if (metadata.partOf) {
 
-        let typeOf = metadata.typeOf ?? metadata.species ?? metadata.subspecies ?? getSubTypeOf(metadata)        
+        let typeOf = metadata.typeOf ?? metadata.species ?? metadata.subspecies ?? getSubTypeOf(metadata) ?? getDefaultTypeOf(metadata)
         let firstChar = typeOf.length == 0 ? '' : typeOf[0]
         let article = "a"
         if (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u') article = "an"
@@ -205,9 +212,9 @@ async function generateHeader(tp) {
     }
 
     let summaryBlockLines = []
-    
+
     let typeOf = buildTypeHeader(tp.frontmatter, displayDefaults)
-    
+
     if (typeOf) summaryBlockLines.push("> " + typeOf)
     if (hasPageDates) summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_PageDatedValue")`')
 
