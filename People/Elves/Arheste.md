@@ -50,7 +50,7 @@ On the day he proclaimed himself a god, everything changed. As he spoke the word
 
 I fled, saving who I could as the city died. My magic burned away, my arm withered, and I could never wield a sword again. I swore to kill [[Emperor Apollyon|Apollyon]], but first, I had to learn about his fate and the potion he drank—a potion of wild darkness that burns away the soul. [[Emperor Apollyon|Apollyon]] had made himself [[Cha'mutte]]'s enemy by declaring himself a god, but whether because of plans long-laid, or some foul purpose of [[Cha'mutte]]'s, or another cause lost to time, [[Emperor Apollyon|Apollyon]] did not die that day. He was bound; cursed, some say; imprisoned but not defeated. 
 
-Over the cycles, as [[Cha'mutte]]'s genocidal intentions towards our people became clearer and clearer, and we sought alliances to defeat him, my mind was on [[Emperor Apollyon|Apollyon]]. I knew [[Cha'mutte]]'s bindings on [[Emperor Apollyon|Apollyon]] must hold, or in saving ourselves from [[Cha'mutte]] we would be creating another great evil. I whispered secrets to [[Rai]], knowing he was among the last of Imrodel's line. Imrodel, the last peronar Emperor of [[Drankorian Empire|Drankor]]. I waited, and I hoped for a change with the new cycle, a change that might bring strength back to me, to finish [[Emperor Apollyon|Apollyon]] once and for all, so I could finally rest.
+Over the cycles, as [[Cha'mutte]]'s genocidal intentions towards our people became clearer and clearer, and we sought alliances to defeat him, my mind was on [[Emperor Apollyon|Apollyon]]. I knew [[Cha'mutte]]'s bindings on [[Emperor Apollyon|Apollyon]] must hold, or in saving ourselves from [[Cha'mutte]] we would be creating another great evil. I whispered secrets to [[Rai]], knowing he was among the last of Imrodel's line, Imrodel, the last peronar Emperor of [[Drankorian Empire|Drankor]]. I whispered secrets to Taelisn, to the Traveler, who fought in the [[Great War]] with [[Rai]]. I whispered and prayed, and as [[Cha'mutte]] died, miraculously, [[Emperor Apollyon|Apollyon]] remained bound. I waited, and I hoped for a change with the new cycle, a change that might bring strength back to me, to finish [[Emperor Apollyon|Apollyon]] once and for all, so I could finally rest.
 
 But as this leya began, something changed. The bindings broke. [[Emperor Apollyon|Apollyon]] is free, although still weak from long imprisonment, I believe. I do not know if I can survive another ka in my state, but I will do whatever I can, as long as it can be done, to ensure [[Emperor Apollyon|Apollyon]]'s ultimate defeat. 
 %%^End%%
@@ -59,7 +59,7 @@ But as this leya began, something changed. The bindings broke. [[Emperor Apollyo
 *Arheste in an earlier time, before the [[First Plague|First Plague]].*
 
 ![[DALL·E 2023-11-07 00.42.28 - Create an image of an ancient female elf with a timeless, ethereal appearance. She has long, flowing white hair that cascades around her shoulders, an.png]]
-*Arheste in Orenlas.*
+*Arheste in [[Orenlas]].*
 
 
 
