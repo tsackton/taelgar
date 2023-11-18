@@ -10,8 +10,6 @@
         "person": {
             "boxName": "Biographical Info",
             "startStatus": "born",
-            "startPrefix": "b.",
-            "endPrefix": "d.",
             "endStatus": "died",            
             "affiliationTypeOf": ["family"],
             "definitiveArticle": "",
