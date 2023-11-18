@@ -92,6 +92,11 @@
             "isAlias": true
         },
         {
+            "from": "nymph",
+            "to": "fey",
+            "isAlias": true
+        },
+        {
             "from": "elder wrym",
             "to": "dragon",
             "isAlias": true

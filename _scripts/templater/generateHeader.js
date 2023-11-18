@@ -85,14 +85,14 @@ function buildTypeHeader(metadata, displayDefaults) {
             if (primaryAff) primaryAffs.push(primaryAff)
         }
     }
-
-    let affiliations = primaryAffs.join(' and ')
+        
+    let affiliations = primaryAffs.join(' and ')    
     if (primaryAffs.length > 0) {
-        if (typeOfs.some()) typeOfs.push("of")
+        if (typeOfs.length > 0) typeOfs.push("of")
         else typeOfs.push("Of")
-        typeOfs.push(affiliations)
+        typeOfs.push(affiliations)        
     }
-
+    
     if (metadata.ka || metadata.species == "elf") {
         typeOfs.push("(" + NameManager.getName("ka", NameManager.LinkIfExists, NameManager.LowerCase) + " " + (metadata.ka ?? "unknown") + ")")
     }
@@ -104,17 +104,14 @@ function buildTypeHeader(metadata, displayDefaults) {
 
 function getPrimaryAffiliationName(affiliation, displayDefaultData) {
     const { NameManager } = customJS
-    console.log(displayDefaultData)
-    
+        
     if (displayDefaultData.affiliationTypeOf == undefined)
         return undefined
 
     if (displayDefaultData.affiliationTypeOf.length == 0)    
         return undefined
-
-    console.log("enter")
+    
     return NameManager.getFilteredName(affiliation, f => {
-        console.log(f)
         if (!f.typeOf) return false;
         return displayDefaultData.affiliationTypeOf.includes(f.typeOf)
     }, NameManager.CreateLink)
@@ -208,8 +205,9 @@ async function generateHeader(tp) {
     }
 
     let summaryBlockLines = []
-
+    
     let typeOf = buildTypeHeader(tp.frontmatter, displayDefaults)
+    
     if (typeOf) summaryBlockLines.push("> " + typeOf)
     if (hasPageDates) summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_PageDatedValue")`')
 
