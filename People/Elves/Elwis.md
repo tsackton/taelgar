@@ -15,11 +15,11 @@ whereabouts:
 - {type: away, start: 1748-08-29, end: '', location: Tollen}
 ---
 # Elwis
->[!info]+ Biographical Summary
->[[Elves|elf]], she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka 37]])
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+she/her
+>[!info]+ Biographical Info
+> [[Elves|elf]] ([[The Cycle of Generations|ka]] 37)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Elwis is a female elf from Orenlas. 
 

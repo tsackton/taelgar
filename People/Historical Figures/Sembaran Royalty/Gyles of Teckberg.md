@@ -11,5 +11,11 @@ reignStart:
 died: 1630
 affiliations: [House of Teckberg]
 ---
-<% tp.user.generateHeader(tp) %>
+# Gyles
+he/him
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> Member of: The [[House of Teckberg]]
+
 The fifth child of [[Reginald]], Gyles founded the great House of Teckberg, based in the [[Highlands]].  

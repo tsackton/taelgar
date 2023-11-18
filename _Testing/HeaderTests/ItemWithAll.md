@@ -1,18 +1,24 @@
 ---
-tags: [item]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+tags:
+  - item
 created: 1702
 destroyed: 1704
 name: Fancy Item
 ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 magical: true
+typeOf: 
 owner: PersonWithAll
 maker: RulerWithAll
 unique: true
+whereabouts:
+  - type: home
+    location: PersonWithAll
+  - type: home
+    location: RulerWithAll
+rarity: legendary
 ---
-# Fancy Item
->[!info]+ Item Info
-> [(unique magical item)](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth)
-> Owner: [[PersonWithAll|Sirx Some NPC]]
-> Maker: [[RulerWithAll|Queen Some NPC]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+# The Fancy Item
+>[!info]+ Information
+> legendary magical [Mechanics](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
