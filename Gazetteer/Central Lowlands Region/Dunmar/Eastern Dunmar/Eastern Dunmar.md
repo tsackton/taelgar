@@ -1,10 +1,9 @@
 ---
 tags: [place, status/notes]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ""}
 campaignInfo: []
 name: Eastern Dunmar
-placeType:
-partOf:
+partOf: Dunmar
 ---
 
 %%SECRET[1]%%

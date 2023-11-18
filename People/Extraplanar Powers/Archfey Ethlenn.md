@@ -5,14 +5,14 @@ campaignInfo: []
 name: Archfey Ethlenn
 born:
 species: fey
-ancestry: archfey
+subspecies: archfey
 gender: female
 aliases: [Queen of the Evening Mist]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Feywild'}
 ---
 # Archfey Ethlenn
->[!info]+ Biographical Summary
->[[Fey|fey]]  (archfey), she/her
+>[!info]+ Biographical Info
+> [[Fey|archfey]], she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

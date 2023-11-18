@@ -1,21 +1,20 @@
 ---
 tags: [dufr/minor, person, dufr/aware]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Cloudspinner
 born:
 species: fey
-ancestry: archfey
+subspecies: archfey
 gender: female
 aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, start: '', end: '', location: 'somewhere, unknown'}
-- {type: home, start: '', end: '', location: 'Amberglow, Feywild'}
+- {type: home, start: '', end: '', location: Amberglow }
 - {type: away, start: 990, end: 2000, location: 'imprisoned, somewhere'} #start is approx, end is arbitrary
 ---
 # Cloudspinner
->[!info]+ Biographical Summary
->fey (archfey), she/her
+>[!info]+ Biographical Info
+> [[Fey|archfey]], she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  

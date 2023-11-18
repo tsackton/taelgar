@@ -1,22 +1,24 @@
 ---
 tags: [person, dufr/met, dufr/major]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: [
+	{ campaign: DuFr, type: freed, date: 1748-11-23 }
+]
 name: Hralgar
 born:
 species: giant
-ancestry: storm
+subspecies: storm giant
 gender: male
 whereabouts:
-- {type: away, start: 1748-11-23, end: '', location: 'trapped in Stormcaller Tower, Eastern Dunmar'}
-- {type: home, start: 1748-11-24, end: '', location: 'drifting on the storm, Taelgar'}
+- {type: away, start: 1020, end: 1748-11-22, location: 'trapped in Stormcaller Tower, Eastern Dunmar'} # start is approx but can be set accurately 
+- {type: home, start: 1748-11-23, end: 1748-11-23, location: Stormcaller Tower }
+- {type: home, start: 1748-11-24, end: , location: 'drifting on the storm, Taelgar'}
 ---
 # Hralgar
->[!info]+ Biographical Summary
->giant (storm), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: drifting on the storm, Taelgar
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Giants|storm giant]], he/him
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Freed by [[The Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 
