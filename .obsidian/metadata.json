@@ -11,76 +11,91 @@
         "person": {
             "boxName": "Biographical Info",
             "startStatus": "born",
-            "endStatus": "died",            
-            "affiliationTypeOf": ["family"],
+            "endStatus": "died",
+            "affiliationTypeOf": [
+                "family"
+            ],
             "definitiveArticle": "",
-            "whereaboutsOrigin" : "Originally from: <loc>", 
-            "whereaboutsHome": "Based in: <loc>", 
-            "whereaboutsPastHome": "Lived in: <loc>",      
-            "whereaboutsParty" : "<met> by <person> on <target> in <loc>",
+            "whereaboutsOrigin": "Originally from: <loc>",
+            "whereaboutsHome": "Based in: <loc>",
+            "whereaboutsPastHome": "Lived in: <loc>",
+            "whereaboutsParty": "<met> by <person> on <target> in <loc>",
             "pageCurrent": "<start> <startDate> (<length> years old)",
-            "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",            
-            "pagePast": "<end> <endDate>"
+            "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
+            "pagePast": "<end> <endDate>",
+            "secondaryInfo": "<ancestry> <mainType>, <pronouns>"
         },
         "place": {
             "startStatus": "founded",
             "endStatus": "destroyed",
             "pageCurrent": "<start> <startDate> (<length> years ago)",
-            "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
+            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end> <endDate>",
-            "partOf" : "<article> <typeof> in <loc:10>",
-            "defaultTypeOfForDisplay" : "place"
+            "partOf": "<article> <typeof> in <loc:10>",
+            "secondaryInfo": "<population>"
         },
         "item": {
             "startStatus": "created",
             "endStatus": "destroyed",
-            "whereaboutsOrigin" : "Made by: <loc>", 
-            "whereaboutsHome": "Owner: <loc>", 
-            "whereaboutsPastHome": "Was owned by: <loc>",   
+            "whereaboutsOrigin": "Made by: <loc>",
+            "whereaboutsHome": "Owner: <loc>",
+            "whereaboutsPastHome": "Was owned by: <loc>",
             "pageCurrent": "<start> <startDate> (<length> years ago)",
-            "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
-            "pagePast": "<end> <endDate>"
+            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
+            "pagePast": "<end> <endDate>",
+            "secondaryInfo": "(<rarity> <ancestry> <subtypeof> <typeof>)"
         },
         "organization": {
             "startStatus": "founded",
             "endStatus": "disbanded",
-            "whereaboutsOrigin" : "Founded in: <loc>", 
-            "whereaboutsHome": "Based in: <loc>", 
-            "whereaboutsPastHome": "Was based in: <loc>",            
+            "whereaboutsOrigin": "Founded in: <loc>",
+            "whereaboutsHome": "Based in: <loc>",
+            "whereaboutsPastHome": "Was based in: <loc>",
             "pageCurrent": "<start> <startDate> (<length> years ago)",
-            "pagePastWithStart": "<startDate> - <endDate>, <end> after <length> years",
+            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end> <endDate>",
-            "partOf" : "Parent Organization: <loc:1>"
+            "partOf": "Parent Organization: <loc:1>",
+            "secondaryInfo": "<ancestry> <mainType>"
         },
         "event": {
             "startStatus": "started in",
-            "endStatus": "ended in",            
-            "whereaboutsOrigin" : "Started in: <loc>", 
-            "whereaboutsHome": "Occurring in: <loc>", 
-            "whereaboutsPastHome": "Happened in: <loc>",            
+            "endStatus": "ended in",
+            "whereaboutsOrigin": "Started in: <loc>",
+            "whereaboutsHome": "Occurring in: <loc>",
+            "whereaboutsPastHome": "Happened in: <loc>",
             "pageCurrent": "<start> <startDate> (<length> years ago)",
-            "pagePastWithStart": "<startDate> - <endDate>, ended after <length> years",            
+            "pagePastWithStart": "happened <startDate> - <endDate>, ended after <length> years",
             "pagePast": "<end> <endDate>",
-            "partOf" : "part of <loc:1>"
+            "partOf": "part of <loc:1>"
         },
-        "unknown": {            
+        "unknown": {
             "startStatus": "created",
             "endStatus": "destroyed",
             "definitiveArticle": "",
-            "whereaboutsOrigin" : "<loc>", 
-            "whereaboutsHome": "<loc>", 
+            "whereaboutsOrigin": "<loc>",
+            "whereaboutsHome": "<loc>",
             "whereaboutsPastHome": "<loc>",
-            "whereaboutsCurrent" :"Current location (as of <target>): <loc>",
+            "whereaboutsCurrent": "Current location (as of <target>): <loc>",
             "whereaboutsPast": "<end> in <loc>",
             "whereaboutsLastKnown": "Last known location: (as of <endDate>): <loc>",
-            "whereaboutsUnknown" : "Current location: Unknown",
+            "whereaboutsUnknown": "Current location: Unknown",
             "pageCurrent": "<start> <startDate>",
             "pagePastWithStart": "<start> <startDate> - <end> <endDate>",
             "pagePast": "<end> <endDate>",
-            "partOf" : "<loc>"
+            "partOf": "<loc>"
         }
     },
     "linkmap": [
+        {
+            "from": "archfey",
+            "to": "fey",
+            "isAlias": true
+        },
+        {
+            "from": "elder wrym",
+            "to": "dragon",
+            "isAlias": true
+        },
         {
             "from": "clee",
             "to": "Heroes of Cleenseau"

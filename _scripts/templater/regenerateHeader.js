@@ -20,6 +20,9 @@ async function regenerateHeader(tp) {
         return
     }
 
+    let version = tp.frontmatter.version
+
+
     // the end of the yaml -- this is 0-counting, so if the file is just a yaml start and end it will be 1
     let indexOfYamlEnd = currentContents.findIndex((f, i) => i>0 && f == "---");
 
@@ -49,10 +52,14 @@ async function regenerateHeader(tp) {
         indexOfHeaderBlockEnd = indexOfYamlEnd
     }
 
+    let genTemplate = "<% tp.user.generateHeader(tp) %>"
+    if (version == "next" ) genTemplate = "<% tp.user.generateHeader_next(tp) %>"
+    if (version == "old") genTemplate = "<% tp.user.generateHeader_old(tp) %>"
+
     // remove the header block
     currentContents.splice(indexOfYamlEnd+1, indexOfHeaderBlockEnd-indexOfYamlEnd);          
     // insert the template
-    currentContents.splice(indexOfYamlEnd+1, 0, "<% tp.user.generateHeader(tp) %>");  
+    currentContents.splice(indexOfYamlEnd+1, 0, genTemplate);  
 
     // rewrite the file
     await updateCurrentFile(currentContents, tfile);            
