@@ -1,9 +1,16 @@
 ---
-tags: [organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
-campaignInfo: []
-name: "The Ancient and Honorable Guild of Philosophers"
-aliases: [ "Philosopher's Guild"]
+tags:
+  - organization
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: disbanded
+  endStatus: disbanded
+campaignInfo: 
+name: Ancient and Honorable Guild of Philosophers
+aliases:
+  - Philosopher's Guild
+orgType: guild
 ---
 
 # The Ancient and Honorable Guild of Philosopher's

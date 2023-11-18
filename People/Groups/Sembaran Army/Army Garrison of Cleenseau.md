@@ -1,9 +1,15 @@
 ---
-tags: [organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - organization
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Army Garrison of Cleenseau
 partOf: Army of the Wes
+orgType: army
 ---
 # Army Garrison of Cleenseau
 >[!info]+ Summary

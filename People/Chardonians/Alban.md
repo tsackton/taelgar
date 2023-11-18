@@ -13,12 +13,10 @@ whereabouts:
 - {type: home, start: "", end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Alban
-he/him
->[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Summary
+>[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him of the [[Society of the Open Scroll]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Society of the Open Scroll]]
 
 One of the adventurers of the [[Society of the Open Scroll]]. Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
 

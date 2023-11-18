@@ -1,8 +1,15 @@
 ---
-tags: [status/stub, organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
-campaignInfo: []
-name:
+tags:
+  - status/stub
+  - organization
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: disbanded
+  endStatus: disbanded
+campaignInfo: 
+name: 
+org: army
 ---
 
 # Chardonian Legion
