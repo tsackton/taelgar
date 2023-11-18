@@ -8,16 +8,14 @@ From the mirror, you learned this is of Drankorian origin, constructed by [[Empe
 
 From the little you have learned, it seems it wants to be used.
 
-#### Properties
-
-You have identified the following properties of this item so far, although its full powers seem much more vast than these:
-
--   Intimidating Presence. While attuned to this scepter, you gain proficiency in the Intimidation skill. 
--   Aura of Command. While attuned to the scepter, you can, as an action, expend one charge to summon an aura of command. This aura lasts for 1 minute, and while it lasts you can issue a command, as if casting the command spell at 1st level, as a bonus action, with a DC of 15. This command is spoken in all languages simultaneously.
-
 ## Destruction
 
 The Scepter of Command was destroyed in 1748, by [[The Dunmar Fellowship]]. It was immersed in the sacred waters on the island of [[Vetta|Vetta]] in the Skaer Islands for 24 hours during a full moon, and then shattered with the combined power of [[Kenzo]]'s staff and the might of [[Kaikkea]]'s waters. 
 
+
+## The Story of the Scepter of Command
+*As sung by the halfling storytellers in the Year of Honeyed Sun*
+
+*It began at an inn in a small village in the desert; in began in the mind of a madman; it began as *
 
 %%SECRET[1]%%
