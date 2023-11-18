@@ -34,7 +34,7 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 
 ## Relationships
 
-- Friendly with [[The Dunmar Fellowship]], especially with [[Kenzo]], who had a similar childhood in Chardon. Somewhat awed by [[Delwath]]. Less friendy with [[Riswynn]], largely because or [[Riswynn]]'s distain. 
+- Friendly with [[Dunmar Fellowship]], especially with [[Kenzo]], who had a similar childhood in Chardon. Somewhat awed by [[Delwath]]. Less friendy with [[Riswynn]], largely because or [[Riswynn]]'s distain. 
 - Friendly with other adventurers for the Society of the Open Scroll, in particular [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]]
 - Looks up to her mentor, [[Agon]]
 - Knows many other Chardonians, including [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]],  whom she traveled with in early 1748, and [[Crispus]] and [[Fausto]], who are the funders of expeditions she has been on or knows of. Particularly friendly with [[Marcella]]. Dislikes [[Casian]], whom she considers an arrogant snob who believes he can take whatever he wants. 
@@ -46,10 +46,10 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 - 5 Mar 1748: Leaves [[Askandi]] for Raven's Hold
 - 31 Mar 1748: Vola arrives at Raven's Hold. 
 - 2 Apr 1748: Vola captured at Raven's Hold. 
-- 12 Apr 1748: Rescued from captivity in Raven's Hold by [[The Dunmar Fellowship]]
-- 12 Apr - 16 Apr 1748: Travels with [[The Dunmar Fellowship]]
-- 16 Apr 1748: Leaves [[Stormcaller Tower]] with [[Riswynn]] for Tokra, saying goodbye to [[The Dunmar Fellowship]]
+- 12 Apr 1748: Rescued from captivity in Raven's Hold by [[Dunmar Fellowship]]
+- 12 Apr - 16 Apr 1748: Travels with [[Dunmar Fellowship]]
+- 16 Apr 1748: Leaves [[Stormcaller Tower]] with [[Riswynn]] for Tokra, saying goodbye to [[Dunmar Fellowship]]
 - 26 Apr 1748: Arrives in Tokra. Parts ways with [[Riswynn]]. Stays at [[Kirian’s]]. 
 %%SECRET[7]%%
-- 21 Aug 1748: Meets [[The Dunmar Fellowship]] in Chardon at [[The Thirsty Scholar]]; reports on news and makes introductions to [[Dee Wildcloak]] and [[Dain Goldhammer]].  
+- 21 Aug 1748: Meets [[Dunmar Fellowship]] in Chardon at [[The Thirsty Scholar]]; reports on news and makes introductions to [[Dee Wildcloak]] and [[Dain Goldhammer]].  
 %%SECRET[8]%%

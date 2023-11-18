@@ -36,7 +36,7 @@ she/her
 > [[Chardonian Empire|Chardonian]] [[Humans|human]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Killed by [[The Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% Killed by [[Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 >> Member of: [[The Cleansed]]
 
-A sorcerer and a member of [[the Cleansed]].  
+A sorcerer and a member of [[The Cleansed]].  

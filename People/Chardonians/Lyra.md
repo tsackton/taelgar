@@ -41,7 +41,7 @@ title: Archivist
 > Member of: The [[Great Library]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on August 26th, 1748 in [[Chardon]], [[Chardonian Empire]] %%^End%%
+>>%%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on August 26th, 1748 in [[Chardon]], [[Chardonian Empire]] %%^End%%
 >>%%^Campaign:GrLi%% Met by [[GrLi]] on September 1st, 1747 in [[Voltara]], [[Chardonian Empire]] %%^End%%
 
 An archivist with the Great Library, responsible for arranging adventuring expeditions to recover magic, knowledge, and treasure. Spend considerable time in the north of the [[Chardonian Empire]].

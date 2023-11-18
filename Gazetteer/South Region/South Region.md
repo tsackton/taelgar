@@ -1,9 +1,14 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name: The South Region
-placeType:
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: South Region
+placeType: 
 partOf:
 ---
 

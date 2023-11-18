@@ -29,7 +29,7 @@ Murook, an [[Orcs|orc]] woman from the [[Plaguelands]], was freed from [[Thark]]
 General Murook was born chained, under dark influence of [[Thark]], to a wandering [[Orcs|orc]] tribe in the [[Plaguelands]]. She was freed from [[Thark]]'s hold by [[Lubash]]'s father, [[Karguk]], using the [[Mantle of Protection]], and learned to exist as a free [[Orcs|orc]] in [[Uzgukhar]]. She now serves [[Lubash]] as the commander of his armies, and also is the unofficial leader of the [[Hezguli]], a group of [[Orcs]] that share a similar backstory of redemption.
 ## Description
 
-A formidable [[Orcs|orc]] woman in her prime, with pale green skin, Murook is usually found in battle gear, wearing her chain mail and carrying a magical halberd she was gifted by [[The Dunmar Fellowship]], after they joined forces to defeat [[Kadmos]] and his allies. Her demeanor is mostly silent, but her presence demands respect and attention.
+A formidable [[Orcs|orc]] woman in her prime, with pale green skin, Murook is usually found in battle gear, wearing her chain mail and carrying a magical halberd she was gifted by [[Dunmar Fellowship]], after they joined forces to defeat [[Kadmos]] and his allies. Her demeanor is mostly silent, but her presence demands respect and attention.
 ## Relationships
 
 - **[[Lubash]]**: Serves loyally as his General.

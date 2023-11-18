@@ -2,12 +2,13 @@
 tags: [historical, person, dufr/aware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
-name: Emperor Avatus
+name: Avatus
 born:
 species: human
 ancestry:
+title: Emperor
 gender: male
-aliases: [Avatus]
+aliases:
 ---
 
 ### Emperor Avatus

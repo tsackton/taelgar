@@ -1,0 +1,5 @@
+---
+tags: [person]
+title: Emperor
+---
+

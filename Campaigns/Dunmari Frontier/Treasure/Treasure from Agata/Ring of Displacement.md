@@ -4,7 +4,7 @@
 
 An unadorned ring of made of three entwined golden braids, that radiates illusion magic. Probably of Drankorian make. 
 
-Possessed by [[Agata]] for many years, and carried on her person. Taken by [[Delwath]] after [[Agata]] was slain by [[The Dunmar Fellowship]] in 1748. 
+Possessed by [[Agata]] for many years, and carried on her person. Taken by [[Delwath]] after [[Agata]] was slain by [[Dunmar Fellowship]] in 1748. 
 
 Seen in [[Eudomes' Mirror]]: 
 

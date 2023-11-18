@@ -1,7 +1,6 @@
 ---
 type: PC
 name: <% tp.file.title %>
-pronouciation: 
 aliases: 
 tags: []
 pageTargetDate: 

@@ -4,7 +4,7 @@ Fragments of jade that were originally [[Rai]]'s hand.
 
 Seen in [[Eudomes' Mirror]]: [[Kenzo's Jade Vision]]
 
-Five pieces are thought to exist, scattered across Taelgar by the failed attempt to cleanse the [[Plaguelands]] by [[Rai]] and the [[Order of the Awakened Soul]]. Somehow the jade fragments are associated with keeping [[Emperor Apollyon]] imprisoned. 
+Five pieces are thought to exist, scattered across Taelgar by the failed attempt to cleanse the [[Plaguelands]] by [[Rai]] and the [[Order of the Awakened Soul]]. Somehow the jade fragments are associated with keeping [[Apollyon]] imprisoned. 
 
 One piece fell in the Dunmari desert, and was given to [[Kenzo]] by his parents before they died. 
 

@@ -24,7 +24,7 @@ For many centuries, there [[Hralgar]] remained, trapped. With the fall of [[Dran
 
 In the spring of 1748, three Chardonian treasure hunters entered the tower and made their way to the top floor, where they found the mechanism of [[Eudomes]], and attempted to recover it for the [[Great Library]]. There efforts were only partially successful: they released [[Hralgar]], but not completely. He was awoken without fully returning to consciousness and control, and was lost in a dream state, lashing out and creating a powerful, endless storm. 
 
-In November 1748, [[The Dunmar Fellowship]] returned to the tower and completed the process of freeing [[Hralgar]], ending the storm. 
+In November 1748, [[Dunmar Fellowship]] returned to the tower and completed the process of freeing [[Hralgar]], ending the storm. 
 
 The tower was destroyed in 1748 by [[Hralgar]] after he was freed, in retribution.  
 

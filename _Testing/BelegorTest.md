@@ -43,6 +43,6 @@ Belegor is an [[Elves]] of the 36th ka, the generation that came of age during t
 Belegor is a tall, ageless [[Elves]], with medium length copper hair, pale skin, and green eyes. He wears elegant clothes in greens and yellows, with high collar and long, wide sleeves. Graceful.
 ## Events
 
-- In DR 1748, Belegor met the green dragon [[Mezzar|Grimbaskal]], who was posing as an [[Elves]], [[Mezzar]], at the time, in [[Elderwood|the Elderwood]]. Realizing the deception, he fled, hiding in a [[Te'kula]] village. Here, he met [[The Dunmar Fellowship]]. 
+- In DR 1748, Belegor met the green dragon [[Mezzar|Grimbaskal]], who was posing as an [[Elves]], [[Mezzar]], at the time, in [[Elderwood|the Elderwood]]. Realizing the deception, he fled, hiding in a [[Te'kula]] village. Here, he met [[Dunmar Fellowship]]. 
 
 %%SECRET[1]%%

@@ -8,11 +8,11 @@ species: lizardfolk
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Bedez, Orekatu'}
+- {type: home, start: '', end: '', location: 'Bedez'}
 ---
 # Arrosa
->[!info]+ Biographical Summary
->[[Lizardfolk|lizardfolk]], she/her
+>[!info]+ Biographical Info
+> [[Lizardfolk|lizardfolk]], she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A lizardfolk elder, the matriarch of the village of [[Bedez]], in the Kingdom of [[Orekatu]]. 

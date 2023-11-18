@@ -39,7 +39,7 @@ whereabouts:
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Last met by [[The Dunmar Fellowship|The Side Quests]] on December 10th, 1748 in: [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>>%%^Campaign:DuFr%% Last met by [[Dunmar Fellowship|The Side Quests]] on December 10th, 1748 in: [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
 Chief Lubash is the stern and protective ruler of [[Xurkhaz]], and by extension the [[People of the Rainbow]]. He is also the bearer of the [[Mantle of Protection]].  Lubash holds immense pride for his kingdom, [[Xurkhaz]], and resides in [[Uzgukhar]].
 ## Overview
@@ -56,6 +56,6 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 ## Events
 
 - Came to power in DR 1745 after his older brother's family was killed by hill [[Giants]].
-- In DR 1748-1749, led the [[Orcs]] of [[Xurkhaz]] in the war against [[Grash]], aided by [[The Dunmar Fellowship]]
+- In DR 1748-1749, led the [[Orcs]] of [[Xurkhaz]] in the war against [[Grash]], aided by [[Dunmar Fellowship]]
 
 %%SECRET[1]%%

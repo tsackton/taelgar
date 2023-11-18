@@ -29,4 +29,4 @@ whereabouts:
 >`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 25)
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on October 20th, 1719 in [[Valit]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>>%%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on October 20th, 1719 in [[Valit]], the [[Barony of Aveil]], [[Sembara]] %%^End%%

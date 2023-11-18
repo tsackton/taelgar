@@ -24,7 +24,7 @@ A young, striking man, with fine features, well groomed curly black hair, and el
 
 Although he is well-connected, Fausto lacks official rank at either the University of Chardon or the Great Library, and is not known for his scholarship. However, he is skilled at spreading his wealth around, and his parties are popular among both rich and powerful of the city and the scholars and mages of the University hoping for funding. He is a major funder of treasure hunters associated with the [[Society of the Open Scroll]]. He funded many expeditions across [[Dunmar]], including [[Kadmos]] and company (rumored); [[Servius]]; and [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]]'s expedition to [[Stormcaller Tower]]. He probably also funded [[Arcus]], given that he traveled with many of these people.
 
-Fausto is also a powerful enchanter who tricked [[The Dunmar Fellowship]], attempting to capture or kill them when they came to his tower to make an exchange for [[Hralgar's Eyes]]. 
+Fausto is also a powerful enchanter who tricked [[Dunmar Fellowship]], attempting to capture or kill them when they came to his tower to make an exchange for [[Hralgar's Eyes]]. 
 
 He is also apparently a member of a secret organization called [[The Cleansed]]. 
 
