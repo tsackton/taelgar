@@ -13,8 +13,8 @@ whereabouts:
 ---
 # Roscelia
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), she/her of Faculty of Magic
-> Member of: [[University of Chardon|The University of Chardon]], [[Society of the Open Scroll]]
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), she/her
+> Member of: Faculty of Magic, The [[University of Chardon]], The [[Society of the Open Scroll]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

@@ -10,15 +10,15 @@ ancestry: hag
 gender: female
 aliases: [Old Woman of the Dusts, Dasoclese]
 whereabouts:
-- {type: home, start: '', end: '', location: 'edge of the Garamjala Desert, Eastern Dunmar'}
+- {type: home, start: '', end: '', location: 'Garamjala Desert'}
 - {type: away, start: 1748-11-15, end: '', location: 'Heartwood Grove, Amberglow, Feywild'}
 ---
 # Agata Dustmother
->[!info]+ Biographical Summary
->fey (hag), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+she/her
+>[!info]+ Biographical Info
+> hag [[Fey|fey]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on November 15th, 1748 in [[Heartwood Grove]], [[Amberglow]], [[Feywild]] %%^End%%
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
 ## Overview

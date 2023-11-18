@@ -16,10 +16,10 @@ whereabouts:
 ---
 # Valius
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
 > Member of: The [[Chardonian Legion]], The [[Society of the Open Scroll]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Captured by [[The Dunmar Fellowship]] on December 9th, 1748 in the [[Mirror of Soul Trapping]] %%^End%%
+>>%%^Campaign:DuFr%% Captured by [[The Dunmar Fellowship]] on December 9th, 1748 in the [[Mirror of Soul Trapping]], [[Vindristjarna]] %%^End%%
 
 A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[Fausto]]'s curse.
