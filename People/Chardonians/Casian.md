@@ -14,11 +14,11 @@ whereabouts:
 - {type: away, start: 1748-11-23, end: '', location: 'somewhere in Dunmar, Dunmar'}
 ---
 # Casian
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: The [[Society of the Open Scroll]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> Member of: The [[Society of the Open Scroll]]
 
 A powerful wizard and evoker, companion to [[Kadmos]], and member of the [[Society of the Open Scroll]]. A short Chardonian man, constantly in motion and filled with nervous energy, wearing stained traveling gear under white robes for protection from the harsh sun. Short dark hair, clean shaven, brown eyes, carries a number of books and notes that he was constantly pouring over. Doesn’t talk much except to argue.
 

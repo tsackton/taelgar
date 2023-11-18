@@ -38,10 +38,11 @@ whereabouts:
     start: 1748-12-08
     end: 1748-12-08
     location: Uzgukhar
+version: old
 ---
 # Kadmos
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
 > Member of: The Society of the Open Scroll
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
