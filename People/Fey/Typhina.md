@@ -4,7 +4,7 @@ displayDefaults: { endStatus: "killed by [[Agata]]"}
 campaignInfo: []
 name: Typhina
 #died date is very approx, but she is canonically dead
-died: 1400          
+died: 0001     
 species: fey
 ancestry:
 gender: female

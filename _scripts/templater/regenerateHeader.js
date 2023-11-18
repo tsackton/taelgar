@@ -9,17 +9,6 @@ async function regenerateHeader(tp) {
     let filecontents = await app.vault.adapter.read(tfile.path);
     let currentContents = filecontents.split('\n');  
 
-    let hasTags = tp.frontmatter.tags && tp.frontmatter.tags.length > 0;
-    if (!hasTags && !tp.frontmatter.DR) {
-        new Notice("This file has no tags and therefore does not support header regeneration");
-        return;
-    }
-
-    if (!tp.frontmatter.DR && tp.frontmatter.tags.filter(f => !f.startsWith("status")).length == 0) {
-        new Notice("Skipping regeneration of stub header; remove stub to process header")
-        return
-    }
-
     let version = tp.frontmatter.version
 
 

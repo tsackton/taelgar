@@ -11,7 +11,7 @@ class NameManager {
         if (customJS.state.coreMeta) {
             return customJS.state.coreMeta[elem];
         }
- 
+
         return undefined;
     }
 
@@ -63,7 +63,7 @@ class NameManager {
 
         if (link) {
             if (descriptiveName == targetLink || !targetLink) return (article + " " + "[[" + descriptiveName + "]]").trim();
-            else return (article + " " + "[[" + targetLink + "|" +descriptiveName+ "]]").trim()
+            else return (article + " " + "[[" + targetLink + "|" + descriptiveName + "]]").trim()
         }
 
         return (article + " " + descriptiveName).trim()
@@ -152,10 +152,10 @@ class NameManager {
         // definitiveArticle is not required to be present
 
         let required = {
-            startStatus: "", 
-            endStatus: "", 
-            whereaboutsOrigin: "<loc>", 
-            whereaboutsHome: "<loc>", 
+            startStatus: "",
+            endStatus: "",
+            whereaboutsOrigin: "<loc>",
+            whereaboutsHome: "<loc>",
             whereaboutsPastHome: "<loc>",
             whereaboutsCurrent: "Current location (as of <target>): <loc>",
             whereaboutsPast: "<end> in <loc>",
@@ -166,7 +166,7 @@ class NameManager {
             pagePastWithStart: "<start> <startDate> - <end> <endDate>",
             pagePast: "<end> <endDate>",
             boxName: "Information",
-            partOf: "<loc>",     
+            partOf: "<loc>",
             affiliationTypeOf: [],
             secondaryInfo: ""
         }
@@ -242,21 +242,22 @@ class NameManager {
     }
 
     getDescriptionOfDateInformation(metadata, dateInfo, overrideDisplayInfo) {
-        
+
         if (!dateInfo.isCreated) return "**(page is future dated)**"
 
         let pageDisplayData = overrideDisplayInfo ?? this.getDisplayData(metadata)
         let formatStr = undefined
 
-        if (dateInfo.isAlive) formatStr = pageDisplayData.pageCurrent
-        else if (dateInfo.age) formatStr = pageDisplayData.pagePastWithStart        
+        if (dateInfo.endDate && dateInfo.endDate.display == "") formatStr = pageDisplayData.pagePast
+        else if (dateInfo.isAlive) formatStr = pageDisplayData.pageCurrent
+        else if (dateInfo.age) formatStr = pageDisplayData.pagePastWithStart
         else if (dateInfo.endDate) formatStr = pageDisplayData.pagePast
         else return ""
-        
+
         return formatStr.replace("<length>", dateInfo.age)
-                        .replace("<start>", pageDisplayData.startStatus)
-                        .replace("<end>", pageDisplayData.endStatus)
-                        .replace("<startDate>", dateInfo.startDate?.display ?? "")
-                        .replace("<endDate>", dateInfo.endDate?.display ?? "")
+            .replace("<start>", pageDisplayData.startStatus)
+            .replace("<end>", pageDisplayData.endStatus)
+            .replace("<startDate>", dateInfo.startDate?.display ?? "")
+            .replace("<endDate>", dateInfo.endDate?.display ?? "")
     }
 }

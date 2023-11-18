@@ -95,6 +95,10 @@ class DateManager {
 
             let currentFantasyCal = FantasyCalendarAPI.getCalendars()[0];
             let date = { year: jsDate.getFullYear(), month: jsDate.getMonth(), day: jsDate.getDate() };
+
+            if (date.year == 9999) return ""
+            if (date.year == 1 && ((date.month == 0 && date.day == 1) || (date.month == 11 && date.day == 31))) return ""
+  
             return FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
         }
 
@@ -134,7 +138,14 @@ class DateManager {
                 jsDate.setDate(isEnd ? 31 : 1)
                 jsDate.setMonth(isEnd ? 11 : 0)
                 jsDate.setFullYear(parseInt(splitString[0]))
-                return { display: "DR " + inputDate, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isEventsDate: true };
+
+                let display = "DR " + inputDate
+
+                if (splitString[0] == "9999" || splitString[0] == "0001") {
+                    display = ""
+                }
+
+                return { display: display, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isEventsDate: true };
             } else {
                 console.log("Unexpected incoming string: " + inputDate)
                 return undefined
@@ -147,7 +158,14 @@ class DateManager {
                 jsDate.setDate(isEnd ? 31 : 1)
                 jsDate.setMonth(isEnd ? 11 : 0)
                 jsDate.setFullYear(inputDate)
-                return { display: "DR " + inputDate, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isEventsDate: true };
+
+                let display = "DR " + inputDate
+
+                if (inputDate == 9999 || inputDate == 1) {
+                    display = ""
+                }
+
+                return { display: display, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isEventsDate: true };
 
             case "object":
                 if (inputDate.year == undefined) {
