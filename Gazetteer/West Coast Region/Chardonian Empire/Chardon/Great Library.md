@@ -1,10 +1,17 @@
 ---
-tags: [place, '#event-source']
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name: The Great Library
-placeType:
+tags:
+  - place
+  - "#event-source"
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
+name: Great Library
+placeType: 
 partOf: Chardon
+orgType: university
 ---
 # The Great Library
 

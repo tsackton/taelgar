@@ -9,10 +9,10 @@ ancestry: archfey
 gender: female
 aliases: [Queen of the Evening Mist]
 whereabouts:
-- {type: home, start: '', end: '', location: 'unknown, Feywild'}
+- {type: home, start: '', end: '', location: 'Feywild'}
 ---
 # Archfey Ethlenn
 >[!info]+ Biographical Summary
->fey  (archfey), she/her
+>[[Fey|fey]]  (archfey), she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

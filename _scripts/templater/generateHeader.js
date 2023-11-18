@@ -111,7 +111,7 @@ async function generateHeader(tp) {
         if (ancestry) {
             let ancestryValue = NameManager.getName(ancestry)
 
-            if (species) ancestryDisplayValue = " (" + ancestryValue + ")"
+            if (species) ancestryDisplayValue = "(" + ancestryValue + ")"
             else ancestryDisplayValue = ancestryValue;
         }
 

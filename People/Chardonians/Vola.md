@@ -14,12 +14,11 @@ whereabouts:
 - {type: away, start: 1748-12-08, end: 1752, location: Mirror of Soul Trapping}
 ---
 # Vola Forena
-she/her
->[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Summary
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), she/her
+> Member of: The [[Society of the Open Scroll]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Society of the Open Scroll]]
 
 ## Overview
 
