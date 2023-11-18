@@ -3,7 +3,6 @@ tags: [dufr/background, person, dufr/aware]
 displayDefaults: { endStatus: "killed by [[Agata]]"}
 campaignInfo: []
 name: Typhina
-#died date is very approx, but she is canonically dead
 died: 0001     
 species: fey
 ancestry:
