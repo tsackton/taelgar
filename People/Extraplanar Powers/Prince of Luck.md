@@ -1,18 +1,25 @@
 ---
-tags: [dufr/met_one, person, dufr/minor]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - dufr/met_one
+  - person
+  - dufr/minor
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Prince of Luck
-born:
+born: 
 species: fey
-ancestry:
+subspecies: archfey
 gender: male
-aliases: [Chanceweaver]
+aliases:
+  - Chanceweaver
 ---
 # Prince of Luck
->[!info]+ Biographical Summary
->fey, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[!info]+ Biographical Info
+> [[Fey|archfey]], he/him
 
 The Prince of Luck, known as the Chanceweaver, is the ruler of the domain of Fortune’s Rest, and a charming gambler ruling over an endless casino court. 
 
