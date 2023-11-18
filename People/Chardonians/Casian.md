@@ -15,8 +15,8 @@ whereabouts:
 ---
 # Casian
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: [[Society of the Open Scroll]]
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: The [[Society of the Open Scroll]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
