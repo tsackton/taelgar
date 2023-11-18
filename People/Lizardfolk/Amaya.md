@@ -7,9 +7,11 @@ born:
 species: lizardfolk
 ancestry:
 gender: female
+whereabouts: Eskorola
 ---
 # Amaya
->[!info]+ Biographical Summary
->[[Lizardfolk|lizardfolk]], she/her
+>[!info]+ Biographical Info
+> [[Lizardfolk|lizardfolk]], she/her
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Lizardfolk scout from the village of Eskorola. 
