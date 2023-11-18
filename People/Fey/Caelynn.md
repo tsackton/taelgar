@@ -1,22 +1,21 @@
 ---
 tags: [status/uptodate, person, dufr/met, dufr/major]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: [{campaign: DuFr, type: met, date: 1748-12-17 }]
 name: Caelynn the Seer
 born:
 species: fey
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: "", end: '', location: 'Dreamhaven, Feywild'}
-- {type: home, start: "", end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, location: 'Dreamhaven'}
+- {type: home, location: 'Tollen'}
 ---
 # Caelynn the Seer
->[!info]+ Biographical Summary
->fey, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> [[Fey|fey]], she/her
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on December 17th, 1748 in [[Tollen]], the [[Western Green Sea Region]] %%^End%%
 
 A fey woman from across the mountains, from the fey realm of [[Dreamhaven]], who has been living in [[Tollen]] for many years, although whether a hundred or a thousand is the matter of much debate. 
 ## Overview
