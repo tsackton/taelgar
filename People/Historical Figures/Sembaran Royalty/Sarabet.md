@@ -11,10 +11,10 @@ reignStart:
 died: 1529
 ---
 # Sarabet
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+she/her
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 The first wife of [[Derik III]].
 

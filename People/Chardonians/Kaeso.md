@@ -20,12 +20,13 @@ whereabouts:
 - {type: away, start: 1748-10-12, end: '', location: 'Hamri, Mawakel Peninsula'}
 ---
 # Kaeso
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: [[Shakun Mystai]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+he/him
+>[!info]+ Biographical Info
+> [[Chardonian Empire|Chardonian]] [[Humans|human]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Last scryed by [[The Dunmar Fellowship|The Side Quests]] on October 12th, 1748 in: [[Hamri]], [[Mawakel Peninsula]] %%^End%%
+>> %%^Campaign:DuFr%% Scryed by [[The Dunmar Fellowship]] on October 12th, 1748 in [[Hamri]], [[Mawakel Peninsula]] %%^End%%
+>> Member of: The [[Shakun Mystai]]
 
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 
