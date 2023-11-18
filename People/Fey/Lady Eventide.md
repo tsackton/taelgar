@@ -12,11 +12,10 @@ whereabouts:
 - {type: home, start: "", end: '', location: 'Amberglow, Feywild'}
 ---
 # Lady Eventide
->[!info]+ Biographical Summary
->fey, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> [[Fey|fey]], she/her
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on November 1st, 1748 in [[Amberglow]], [[Feywild]] %%^End%%
 
 Lady Eventide is a fey who once held significant influence in [[Amberglow]] as a member of the [[Cloudspinner]]'s court. Now, she remains as one of the few notable fey figures, working diligently to preserve the remnants of the realm.
 ## Overview
