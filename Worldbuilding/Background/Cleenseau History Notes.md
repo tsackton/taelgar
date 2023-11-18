@@ -18,7 +18,7 @@ However a ruined stone tower on the south bank of the [[Enst]] dates to the late
 This tower was built with powerful protective magic, and it was only in the 1420s when Avatus sacked the town that the protective magic was broken and the tower fell.
 
 ### The Dark Ages and Early Sembara
-After the [[The First Plague|First Plague]] the entire area was in upheaval. Cleenseau was far enough north that it wasn't consumed in the actual destruction of the Empire, but there must have been many disruptions.
+After the [[First Plague|First Plague]] the entire area was in upheaval. Cleenseau was far enough north that it wasn't consumed in the actual destruction of the Empire, but there must have been many disruptions.
 
 The halfling community, if you could question them, would tell you that during this time they started wintering here, sometimes, as the bridge was a convenient crossing spot over the river, and that although the main human town, such as it was, on was on the south bank, the halflings had a small seasonal settlement on the north bank. This was the first even semi-permanent settlement here, and [[Marigold Stonebridge]], might, if the mood struck her, claim that [[The Crossroads Inn]] was built on the site of this ancient halfling settlement. The Stonebridges have certainly been in this area for time immemorial, and Marigold has a deed dated DR 1332 from a Lord Tanrreck (a vassal of the Duke of Wisford) indicating the Stonebridge ownership of the several acres of land by "ancient family right".
 

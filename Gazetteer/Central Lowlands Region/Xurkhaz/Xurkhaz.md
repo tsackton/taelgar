@@ -3,13 +3,17 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Xurkhaz
-placeType:
-partOf:
+typeOf: kingdom
+partOf: Garamjala Desert
+pronunciation: ZURK-kaz
 ---
+# Xurkhaz
+*(ZURK-kaz)*
+>[!info]+ Summary
+> a kingdom in the [[Garamjala Desert]]
 
-(zurk - kaz)
+Xurkhaz, the Land of the Peaceful Sun, is the kingdom of the [[People of the Rainbow]].
 
-XurKhaz, the Land of the Peaceful Sun, is the kingdom of the [[People of the Rainbow]].
 ## Overview
 
 Xurkhaz is roughly a triangle, wedged between the Kulthul and the Drogar rivers (Orcish names - these are the west branch and central branch of the Mahar, to the Dunmari). The borders of Xurkhaz start in the northeast at a point on the Drogar about 120 miles north of the confluence, where the terrain on the east bank rises sharply into a series of jagged, broken hills, and the river rushes through a series of waterfalls and gorges. It follows the line of the Drogar south, remaining on the western bank until the hills to the east flatten into dry, cracked plains, about 60 miles north of the confluence. Here the river valley itself is hospitable, and the [[Orcs]] of XurKhaz settle both sides of the Drogar densely, continuing south to a point about 40 miles downriver of the confluence with the Kulthul. Here, the river turns and flows slowly through sandy deserts, and the [[Orcs]] have not tried to settle further south. 
@@ -21,6 +25,7 @@ The heart of the kingdom is the land between the two rivers, which is heavily ir
 Generally a dry, arid land of rolling hills, sustained by heavy irrigation and desert-adapted, long-horned cattle. Cattle and wheat are prominent in both the culture and the landscape. 
 
 %%SECRET[1]%%
+
 ## Settlements
 
 There are four notable settlements, although most of the population is heavily rural living in small farming and herding villages:

@@ -1,6 +1,7 @@
 ---
 tags: [item]
 typeOf: mirror
+
 ---
 # Eudomes' Mirror
 >[!info]+ Item Info

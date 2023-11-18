@@ -15,9 +15,9 @@ tags:
 Start: afternoon, Jan 8th, 1749
 End: evening, Jan 16th, 1749
 
-#### [[Eudomes' Mirror]]
+#### Eudomes' Mirror
 - (DR::1749-01-13) [[Eudomes' Mirror]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
-- 
+
 ## Timeline 
 
 - (DR::1749-01-08): *(evening)* Settle in at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] prepares for magic item construction 
@@ -26,8 +26,8 @@ End: evening, Jan 16th, 1749
 - (DR::1749-01-11) : Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
 - (DR::1749-01-12) : Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
 - (DR::1749-01-13) [[Eudomes' Mirror]] used to look at Elemental Forge
-- (DR::1749-01-14) : Return to [[Vindristjarna]], depart for Orenlas
+- (DR::1749-01-14) : Return to [[Vindristjarna]], depart for [[Orenlas]]
 - (DR::1749-01-15) : Arrive in [[Orenlas]] in morning after traveling through the evening across the mountains; dinner party
-- (DR::1749-01-16) : Visit Arheste; sooth her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]]
+- (DR::1749-01-16) : Visit [[Arheste]]; sooth her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]]
 
 ## Narrative

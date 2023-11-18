@@ -10,16 +10,15 @@ ancestry: Chardonian
 gender: female
 whereabouts:
 - {type: away, start: 1748-11-10, end: '', location: Dunmar}
-- {type: away, start: 1748-12-08, end: 1750, location: 'the Mirror of Soul Trapping'} #check end is approx
+- {type: away, start: 1748-12-08, end: 1750, location: 'Mirror of Soul Trapping'} #check end is approx
 - {type: home, start: '', end: '', location: Chardon}
 ---
 # Antonia
-she/her
->[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Summary
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), she/her
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Imprisoned by [[The Dunmar Fellowship]] on December 8th, 1748 in the Mirror of Soul Trapping %%^End%%
+>>%%^Campaign:DuFr%% Imprisoned by [[The Dunmar Fellowship]] on December 8th, 1748 in the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
 A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 

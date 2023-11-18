@@ -2,7 +2,7 @@
 tags: [person, dufr/met, dufr/major]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: 
-- { prefix: dufr, date: 1749-01-16, type: met }
+- { campaign: dufr, date: 1749-01-16, type: met }
 name: Faldrak Bronzehammer
 born: 1516
 species: dwarf
@@ -18,11 +18,11 @@ whereabouts:
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
 ---
 # Faldrak Bronzehammer
-he/him
->[!info]+ Biographical Info
-> [[Dwarves|dwarf]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Summary
+>[[Dwarves|dwarf]], he/him
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>>%%^Campaign:dufr%% Met by [[The Dunmar Fellowship]] on January 16th, 1749 in [[Vindristjarna]] %%^End%%
 
 Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview
