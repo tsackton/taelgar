@@ -1,10 +1,17 @@
 ---
-tags: [place, '#event-source']
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - "#event-source"
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 placeType: university
 partOf: Chardon
 timelineDescriptor: University of Chardon
+orgType: university
 ---
 # The University of Chardon
 >[!info]+ Summary

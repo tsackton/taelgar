@@ -9,7 +9,7 @@ displayDefaults:
   endStatus: disbanded
 campaignInfo: 
 name: 
-org: army
+orgType: army
 ---
 
 # Chardonian Legion

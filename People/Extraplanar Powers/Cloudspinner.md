@@ -15,7 +15,7 @@ whereabouts:
 ---
 # Cloudspinner
 >[!info]+ Biographical Summary
->fey  (archfey), she/her
+>fey (archfey), she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  

@@ -9,13 +9,13 @@ ancestry: Chardonian
 gender: male
 affiliations: [Society of the Open Scroll]
 whereabouts:
-- {type: home, start: 1689-01-02, end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1748-11-23, end: '', location: 'unknown, Illoria'}
+- {type: home, start: 1689-01-02, end: '', location: 'Chardon'}
+- {type: away, start: 1748-11-23, end: '', location: 'Illoria'}
 ---
 # Servius
 >[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: [[Society of the Open Scroll|The Society of the Open Scroll]]
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: The [[Society of the Open Scroll]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
