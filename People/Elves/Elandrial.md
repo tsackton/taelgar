@@ -15,10 +15,15 @@ ka:
 species: elf
 ancestry: 
 gender: male
-whereabouts: [ {type:away, location: unknown}]
-affiliations: [ Fides Lucaris ]
+whereabouts:
+  - type:away: 
+    location: unknown
+affiliations:
+  - Fides Lucaris
+pronunciation: eh-LAN-dree-ahl
 ---
 # Elandrial
+*(eh-LAN-dree-ahl)*
 >[!info]+ Biographical Info
 > [[Elves|elf]], he/him ([[The Cycle of Generations|ka]] unknown)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

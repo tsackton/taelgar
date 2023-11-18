@@ -1,7 +1,6 @@
 ---
 type: NPC
 name: <% tp.file.title %>
-pronouciation: 
 aliases: 
 tags: []
 pageTargetDate: 
