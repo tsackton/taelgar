@@ -1,6 +1,7 @@
 ---
 tags:
   - person
+  - status/uptodate
 species: elf
 campaignInfo: 
 - { campaign: dufr, date: 1749-01-16, type: "visited"}
