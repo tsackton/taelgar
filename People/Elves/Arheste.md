@@ -6,7 +6,8 @@ species: elf
 campaignInfo: 
 - { campaign: dufr, date: 1749-01-16, type: "visited"}
 ka: 31
-born: 747
+born: 747 
+#born is set to leya of ka 31
 whereabouts:
   - type: home
     location: Rostaurë
@@ -18,13 +19,13 @@ gender: female
 ---
 # Arheste
 *(AR-hes-teh)*
->[!info]+ Biographical Summary
->[[Elves|elf]], she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 31)
+>[!info]+ Biographical Info
+> [[Elves|elf]], she/her ([[The Cycle of Generations|ka]] 31)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Visited by [[The Dunmar Fellowship]] on January 16th, 1749 in [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
+>> %%^Campaign:dufr%% Visited by [[The Dunmar Fellowship]] on January 16th, 1749 in [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
 
-Arheste is an ancient [[Elves|elf]], with silver hair and piercing eyes. He right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [[elves]]. She spent much of the first several hundred years of her life in the [[Drankorian Empire]], first as an ally, and then as a prisoner. After the [[First Plague|First Plague]], which she survived, albeit damaged and sick, she fled north and eventually settled in [[Orenlas]]. 
+Arheste is an ancient [[Elves|elf]], with silver hair and piercing eyes, originally born during the days of the Drankorian Empire. He right arm is withered, cramped, and useless, usually worn in a sling, and she looks worn in a way that is very unusual for [[elves]]. She spent much of the first several hundred years of her life in Drankor first as an ally of the emperors, and then, during Apollyon's reign, as a prisoner. After the [[First Plague|First Plague]], which she survived, albeit damaged and sick, she fled north and eventually settled in [[Orenlas]]. 
 
 %%^Campaign:DuFr%%
 ## Arheste's Story
