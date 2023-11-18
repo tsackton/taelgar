@@ -59,7 +59,7 @@ function buildTypeHeader(metadata, displayDefaults) {
     let type = NameManager.getName(metadata.typeOf, "exists", "lower");
     let subType = NameManager.getName(getSubTypeOf(metadata), "exists", "lower");
     let pronouns = get_Pronouns(metadata)
-    let ancestry = NameManager.getName(metadata.ancestry, "exists", "title");
+    let ancestry = NameManager.getName(metadata.ancestry, "exists", "preserve");
     let population = get_Population(metadata)
 
 

@@ -16,7 +16,8 @@
             "startStatus": "born",
             "endStatus": "died",
             "affiliationTypeOf": [
-                "family"
+                "family", 
+                "clan"
             ],
             "definitiveArticle": "",
             "whereaboutsOrigin": "Originally from: <loc>",
