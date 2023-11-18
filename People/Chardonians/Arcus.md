@@ -13,12 +13,11 @@ whereabouts:
 - {type: home, location: 'Chardon, Chardonian Empire'}
 ---
 # Arcus
-he/him
->[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Summary
+>[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
+> Member of: The [[Society of the Open Scroll]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Society of the Open Scroll]]
 
 An adventurer and treasure hunter from the [[Society of the Open Scroll]], found petrified in the fort east of [[Gomat]]. 
 

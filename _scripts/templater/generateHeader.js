@@ -118,7 +118,7 @@ async function generateHeader(tp) {
         let leadersCheck = []
 
         if (tp.frontmatter.leaderOf && tp.frontmatter.leaderOf.length > 0) {
-            let title = tp.frontmatter.title ?? "Ruler"
+            let title = tp.frontmatter.title ?? "Leader"
             leadersCheck = tp.frontmatter.leaderOf
             let source = tp.frontmatter.leaderOf.map(leader => {
                 return {
