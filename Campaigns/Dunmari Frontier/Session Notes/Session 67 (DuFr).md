@@ -39,7 +39,7 @@ The corridor leads to an empty throne room, with an empty small side chamber nex
 
 [[Kenzo]] leads the group in meditation, and one by one the party clears their minds, except for [[Seeker]], who is having trouble focusing on emptiness. The throne room vanishes, the ice melts, and all that is left is an empty expanse with small pools of silver water. A clockwork cat approaches one of the pools, and begins to drink. The mechanical cat approaches [[Seeker]], and falls into a pile of gears at his touch; as the cat collapses, a wind picks up, cold with the taste of ice. A giant hand emerges from the ground, pointing in the direction of the wind.
 
-[[Seeker]], along with the heroic [[ladder]] now sporting a dozen or more medals of honor, leaps to head in that direction, and the party follows. As the wind grows more intense, flashes of imagines can be seen, people struggling against snow and ice, freezing slowly until a round pulsating stone, the phasing stone, falls out of one of their hands. 
+[[Seeker]], along with the heroic [[Ladder]] now sporting a dozen or more medals of honor, leaps to head in that direction, and the party follows. As the wind grows more intense, flashes of imagines can be seen, people struggling against snow and ice, freezing slowly until a round pulsating stone, the phasing stone, falls out of one of their hands. 
 ![[phasing-stone.png]]
 
 The party dives through the floor into an empty space, in which the phasing stone floats. 

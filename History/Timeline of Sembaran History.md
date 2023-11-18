@@ -17,8 +17,8 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 ###
 * (DR:: 358): [[Emperor Anates]] campaigns around the [[Mostreve Hills]]
 * (DR:: 360): [[Emperor Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
-* (DR:: 402): The [[Treaty of Marhavn]] is signed by [[Emperor Goristo]] 
-* (DR:: 423): [[Emperor Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
+* (DR:: 402): The [[Treaty of Marhavn]] is signed by [[Goristo]] 
+* (DR:: 423): [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
 * (DR:: 468): The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor
 
 # The Drankorian Age
@@ -61,15 +61,15 @@ South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which 
 ##
 - (DR:: 1420): [[Derik I]], of a cadet branch of the [[House of Entranca]], marries [[Johanna of Telham]], the younger daughter of the [[Duchy of Telham|Duchess of Telham]]
 - (DR:: 1422): [[Derik I]] distinguishes himself in the [[Castrota Pirate War]]
-- (DR:: 1425), summer: [[Emperor Avatus|Avatus]] invades [[Sembara]]
-- (DR:: 1425), summer: [[Emperor Avatus|Avatus]] defeats the Sembaran army at the [[Battle of Stavenford]]
+- (DR:: 1425), summer: [[Avatus|Avatus]] invades [[Sembara]]
+- (DR:: 1425), summer: [[Avatus|Avatus]] defeats the Sembaran army at the [[Battle of Stavenford]]
 - (DR:: 1425), late summer: [[Derik I]] receives a [[The Prophecy of Udazken|prophecy]] fortelling his future kingship
 - (DR:: 1425), late fall: Sembaran army abandons all the lands between the [[Enst]] and the [[Wistel]] and retreats to [[Wisford]] for the winter
 - (DR:: 1425), winter: [[Derik I]] [[Derik I's Arrival in Tyrwingha|lands]] in [[Tyrwingha]] and is proclaimed king by [[Archfey Ethlenn]]
-- (DR:: 1426), summer: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Wistel]] at the [[Battle of Wisford]]
-- (DR:: 1427), summer: [[Derik I]] pushes [[Emperor Avatus|Avatus]] south of the [[Enst]] at the [[Battle of Fellburn]]
+- (DR:: 1426), summer: [[Derik I]] pushes [[Avatus|Avatus]] south of the [[Wistel]] at the [[Battle of Wisford]]
+- (DR:: 1427), summer: [[Derik I]] pushes [[Avatus|Avatus]] south of the [[Enst]] at the [[Battle of Fellburn]]
 - (DR:: 1428), spring and summer: [[Derik I]] campaigns south of the [[Enst]] 
-- (DR:: 1429), spring: [[Derik I]] defeats [[Emperor Avatus|Avatus]] at the [[Battle of Dalfield]]
+- (DR:: 1429), spring: [[Derik I]] defeats [[Avatus|Avatus]] at the [[Battle of Dalfield]]
 - (DR:: 1429), late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treay of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 - (DR:: 1430), summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
 - (DR:: 1430), fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
@@ -91,19 +91,19 @@ South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which 
 
 While [[Sembara]] thrived during the long peace, underneath, the seeds of conflict grew. A series of weak rulers had ceded many of the royal prerogatives to the dukes and a feeling of security encouraged the dukes to pour resources into fine trade goods and luxuries, rather than castles and armies. Crushing tariffs on Dwarven goods enriched the border lords, but alienated many others, including [[Ardlas]] and [[Lavnoch]], who had traditionally enjoyed strong trade relations with [[Sembara]]. And prophets throughout [[Tyrwingha]] were preaching of the End Times, and whole villages were found to have disappeared. Whether fled to the safety of the [[Feywild]] or consumed by darkness, few could answer.
 
-In DR 1425, [[Emperor Avatus|Avatus]] saw an opportunity. With a mercenary army consisting largely of [[Hobgoblins]] and vicious werewolves, he launched an invasion across the [[Enst]]. A series of disasters befell the Sembarans -- the Duke of [[Duchy of Cheimen|Cheimin]] refused to march his troops south of the [[Wistel]], three hundred knights from [[Duchy of Seham|Seham]] were lost in a summer storm at sea, and the muster of [[Duchy of Arnsbury|Arnsbury]] sent only half the men due to crown, claiming insufficient horses. And the expected help from [[Tyrwingha]] fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the [[Wistel]], and [[Emperor Avatus|Avatus]] paused to consolidate his gains, and prepared to strike north and east.
+In DR 1425, [[Avatus|Avatus]] saw an opportunity. With a mercenary army consisting largely of [[Hobgoblins]] and vicious werewolves, he launched an invasion across the [[Enst]]. A series of disasters befell the Sembarans -- the Duke of [[Duchy of Cheimen|Cheimin]] refused to march his troops south of the [[Wistel]], three hundred knights from [[Duchy of Seham|Seham]] were lost in a summer storm at sea, and the muster of [[Duchy of Arnsbury|Arnsbury]] sent only half the men due to crown, claiming insufficient horses. And the expected help from [[Tyrwingha]] fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the [[Wistel]], and [[Avatus|Avatus]] paused to consolidate his gains, and prepared to strike north and east.
 
 Into this moment rode [[Derik I]], a distant relative of the current king, but far from the kingship himself. He had married the second daughter of the Duchess of [[Duchy of Telham|Telham]], on [[Northlands]] coast, and had made a name for himself as a military commander in a series of skirmishes against pirates, in alliance with [[Tollen]] mercenaries and halflings.
 
-In the months following the advance of [[Emperor Avatus|Avatus]] to the [[Wistel]], a lizardfolk elder had approached Derik, and told him of an omen: he was prophesied to raise a mighty [[Sembara]] to form a pillar of strength in the dark times to come, and if he did not overthrow [[Emperor Avatus|Avatus]], the smallest cloud in the coming storm, the darkest shadows of today would seem like the brightest diamonds of tomorrow. But it was also foretold, this elder said, that only the Queen of the Evening Mist could herald his coming.  
+In the months following the advance of [[Avatus|Avatus]] to the [[Wistel]], a lizardfolk elder had approached Derik, and told him of an omen: he was prophesied to raise a mighty [[Sembara]] to form a pillar of strength in the dark times to come, and if he did not overthrow [[Avatus|Avatus]], the smallest cloud in the coming storm, the darkest shadows of today would seem like the brightest diamonds of tomorrow. But it was also foretold, this elder said, that only the Queen of the Evening Mist could herald his coming.  
 
 With the blessing of his mother-in-law, Derik sent a small tithe of the knights of the [[Duchy of Telham]] south to aid their ally, the King, and then he sailed with the bulk of the duchy’s forces to [[Tyrwingha]]. There, the old queen had been wracked by dreams of the horrible fate that would befall [[Tyrwingha]] if she entered the war, and so had kept her forces away, despite her misgivings for not aiding an ally.
 
 When Derik arrived in [[Tyrwingha]], he immediately disembarked and spoke with the queen. It is said that as he set foot on Tyrwinghan shores, the morning fog parted, and turned golden where he stepped, leaving a trail of sparklingly mist behind him. Crowds began to follow, and when he reached the castle, the people of [[Tyrwingha]] were watching as he bowed his head humbly to ask to speak with the queen, and [[Archfey Ethlenn]] herself appeared before him, and proclaimed that he would be the savior of [[Tyrwingha]], and kissed him on the forehead, passing him her blessing.   
 
-As news spread like wildfire of a knight from the north who had been blessed by Ethlenn herself, Derik was quickly proclaimed [[Derik I]], King of [[Tyrwingha]] by the [[Oracle of the Riven]]. Derik gathered an army of lizardfolk, the knights of Telham and [[Tyrwingha]], the fey-touched warlocks of the Ethlenn, and [[Tollen]] and [[Vostok]] mercenaries, which he marched west in the early spring of 1426. Derik drove the forces of [[Emperor Avatus|Avatus]] before him, and his army is flanked on the banks of the [[Wistel]] and decisively defeated by Derik at the Battle of Wisford. 
+As news spread like wildfire of a knight from the north who had been blessed by Ethlenn herself, Derik was quickly proclaimed [[Derik I]], King of [[Tyrwingha]] by the [[Oracle of the Riven]]. Derik gathered an army of lizardfolk, the knights of Telham and [[Tyrwingha]], the fey-touched warlocks of the Ethlenn, and [[Tollen]] and [[Vostok]] mercenaries, which he marched west in the early spring of 1426. Derik drove the forces of [[Avatus|Avatus]] before him, and his army is flanked on the banks of the [[Wistel]] and decisively defeated by Derik at the Battle of Wisford. 
 
-By the end of the summer of 1428, the war was over. Derik’s alliance, following the initial success of the Battle of Wisford in 1426, which broke [[Emperor Avatus|Avatus]]' lines on the [[Wistel]], and the Battle of Fellburn in 1427, which forced [[Emperor Avatus|Avatus]] across the [[Enst]], won a decisive and complete victory at the Battle of Dalfield, in the northern Mosteve Hills, in the spring of 1428.   
+By the end of the summer of 1428, the war was over. Derik’s alliance, following the initial success of the Battle of Wisford in 1426, which broke [[Avatus|Avatus]]' lines on the [[Wistel]], and the Battle of Fellburn in 1427, which forced [[Avatus|Avatus]] across the [[Enst]], won a decisive and complete victory at the Battle of Dalfield, in the northern Mosteve Hills, in the spring of 1428.   
 
 Cloaked in glory and honor from his decisive military leadership and fey-enhanced charisma, Derik forged modern [[Sembara]] at the Treaty of Wisford, signed in the late fall of 1428 DR, which established the Royal Council, codified the independence of lizardfolk in the realm forevermore, and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 

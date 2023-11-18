@@ -17,7 +17,7 @@ whereabouts: Uzgukhar
 > free [[Orcs|orc]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on December 9th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+>> %%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on December 9th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 >> Member of: The People of the Rainbow
 
 Azogar is an old [[Orcs|orc]] loremaster from [[Xurkhaz]], one of the unchained [[Orcs|orcs]] of the [[People of the Rainbow]]. He has dark green skin, which is almost black in patches, and long, but thinning white hair. He is frail and uses a cane to walk. Generally prefers simple robes and understated dress. Although he speaks with a wavering voice, he is clear and precise in this language. 

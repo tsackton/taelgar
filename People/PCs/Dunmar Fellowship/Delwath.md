@@ -16,7 +16,7 @@ species: elf
 ancestry: 
 gender: male
 player: Mike Sackton
-affiliations: 
+affiliations: [Dunmar Fellowship]
 whereabouts:
   - type: home
     start: ""
@@ -24,11 +24,10 @@ whereabouts:
     location: Ainumarya, West Coast Region
 ---
 # Delwath
->[!info]+ Biographical Summary
->elf, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Ainumarya]], West Coast Region
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Elves|elf]], he/him ([[The Cycle of Generations|ka]] 36)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> Member of: The [[Dunmar Fellowship]]
 
 ![[delwath-portrait.jpg]]
 
@@ -97,7 +96,7 @@ whereabouts:
 > 
 > ### Shield
 > 
-> Delwath shows the masterwork shield found in [[Agata's lair]] around. [[Alesh]] is back in town, and she recognizes the shield immediately. It is definitely Dunmari in design, and the insignia, a stylized head of a rearing horse in front of two crossed spears, dates it to the Dunmari army during the [[Great War]]. This was probably an officer's shield as the craftsmanship is extraordinary. [[Alesh]] thinks it must have been in someone's family for a while, kept and maintained as an heirloom, before [[Agata]] acquired it, as it would not be in this good shape had it been just abandoned somewhere for 200 years. But it could also be something like a trophy [[Agata]] took from someone she killed that she maintained as a form of gloating or remembrance of her victories. Or even something that was lost in a dry, buried location somehow protected from rust and decay. 
+> Delwath shows the masterwork shield found in [[Agata's Lair]] around. [[Alesh]] is back in town, and she recognizes the shield immediately. It is definitely Dunmari in design, and the insignia, a stylized head of a rearing horse in front of two crossed spears, dates it to the Dunmari army during the [[Great War]]. This was probably an officer's shield as the craftsmanship is extraordinary. [[Alesh]] thinks it must have been in someone's family for a while, kept and maintained as an heirloom, before [[Agata]] acquired it, as it would not be in this good shape had it been just abandoned somewhere for 200 years. But it could also be something like a trophy [[Agata]] took from someone she killed that she maintained as a form of gloating or remembrance of her victories. Or even something that was lost in a dry, buried location somehow protected from rust and decay. 
 > 
 > In any case, both [[Alesh]] and [[Havdar]] think Delwath should take it, given he fought in that war as well, and pass it along with their blessing. 
 > 

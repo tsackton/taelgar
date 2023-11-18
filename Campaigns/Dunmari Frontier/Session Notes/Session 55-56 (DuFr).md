@@ -3,7 +3,7 @@
 ## Timeline
 **Sept 30**: Arrive in the jungles far to the east; meet [[Elazar]]; travels to lizardfolk village of [[Bedez]]
 **Oct 1 - Oct 25**: Spend time with [[Elazar]] in the village, learning the language and about the spirit realms
-**Oct 26**: [[Elazar]] guides Kenku on a [[Kenzo Spirit Journey in Bedez|spirit journey]] through the [[Dreamworld]]; [[Kenzo]] learns of different kinds of ki, and seeks the soul of [[Emperor Apollyon]], among other journeys
+**Oct 26**: [[Elazar]] guides Kenku on a [[Kenzo Spirit Journey in Bedez|spirit journey]] through the [[Dreamworld]]; [[Kenzo]] learns of different kinds of ki, and seeks the soul of [[Apollyon]], among other journeys
 **Nov 2**: Heroes of [[Orekatu]] gather in [[Bedez]] to choose who will travel to the [[Azta Lekua|Footprint of the Gods]] and seek answers to the chaotic energy and imbalance there
 **Nov 3**: Ceremony where the ancients bless the champions of the people and the choose those to go; [[Kenzo]] meets [[Izzarak]] and [[Enari]]
 **Nov 4**: [[Enari]], [[Izzarak]], and [[Kenzo]] leave [[Bedez]], heading for the [[Azta Lekua|Footprint of the Gods]]

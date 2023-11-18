@@ -19,6 +19,6 @@ whereabouts:
 > oni ([[Giants|giant]]), he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Killed by [[The Dunmar Fellowship]] on May 29th, 1748 in [[Shakun’s Wellspring]], the [[Red Mesa]], [[Eastern Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Killed by [[Dunmar Fellowship]] on May 29th, 1748 in [[Shakun’s Wellspring]], the [[Red Mesa]], [[Eastern Dunmar]] %%^End%%
 
 A servant of [[Agata]]. 

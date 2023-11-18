@@ -20,6 +20,6 @@ whereabouts:
 >[!info]+ Biographical Info
 > skeletal [[Undead|undead]], he/him
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Scryed by [[The Dunmar Fellowship]] on December 28th, 1748 in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% Scryed by [[Dunmar Fellowship]] on December 28th, 1748 in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
 Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan.

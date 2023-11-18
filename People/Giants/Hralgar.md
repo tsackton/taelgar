@@ -18,7 +18,7 @@ whereabouts:
 >[!info]+ Biographical Info
 > [[Giants|storm giant]], he/him
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Freed by [[The Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Freed by [[Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 
@@ -26,7 +26,7 @@ Hralgar was born just before the Downfall, and spent his younger days uninterest
 
 When the Golden Age ended in civil war, and the [[Omnis Pura]] came to power, things became more difficult, and some time later he was trapped by Eudomes, during Apollyon's reign. 
 
-He was partially awakened from his imprisonment in the spring of 1748, by three Chardonians: [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]] (who died in the tower). He was later freed by [[The Dunmar Fellowship]], and vanished into the winds. 
+He was partially awakened from his imprisonment in the spring of 1748, by three Chardonians: [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]] (who died in the tower). He was later freed by [[Dunmar Fellowship]], and vanished into the winds. 
 
 
 %%SECRET[1]%%

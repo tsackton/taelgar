@@ -25,7 +25,7 @@ whereabouts:
 > Member of: The [[Shakun Mystai]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Scryed by [[The Dunmar Fellowship]] on October 12th, 1748 in [[Hamri]], [[Mawakel Peninsula]] %%^End%%
+>>%%^Campaign:DuFr%% Scryed by [[Dunmar Fellowship]] on October 12th, 1748 in [[Hamri]], [[Mawakel Peninsula]] %%^End%%
 
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 

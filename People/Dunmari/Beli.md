@@ -22,4 +22,4 @@ An initiate of the [[Shakun Mystai]], a young woman skilled in healing and midwi
 
 %%SECERT In Dec 1745, assisted in the birth of Cintra's daughter, Jumi.  %%
 
-In March 1748, helped the [[The Dunmar Fellowship]] battle giant hyenas attacking Karawa. 
+In March 1748, helped the [[Dunmar Fellowship]] battle giant hyenas attacking Karawa. 

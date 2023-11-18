@@ -23,7 +23,7 @@ whereabouts: Erelion
 >[[Elves|elf]], she/her
 >`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 37)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on January 16th, 1748 in [[Erelion]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
+>>%%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on January 16th, 1748 in [[Erelion]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
 
 A gardener, herbalist, and caretaker of [[Arheste]]. 
 

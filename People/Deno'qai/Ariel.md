@@ -29,4 +29,4 @@ She also knows many tales from the north about the [[tanshi]]: about [[Yezali]],
 ## Events
 - (DR:: 1671) *(Ariel)*: Left her home in the [[Forest of Dreams]], with her family and many others of the [[Shu'anra]] tribe, to find less marginal lands and better prospects to the south
 - (DR:: 1680) *(Ariel)*: Settled in [[Elderwood|the Elderwood]] with the [[Te'kula]] tribe
-- (DR:: 1748-09-11) *(Ariel)*: [[Session 50 (DuFr)|Meets]] [[The Dunmar Fellowship]], and tells [[Delwath]] stories of the [[Deno'qai]] and the [[tanshi]]
+- (DR:: 1748-09-11) *(Ariel)*: [[Session 50 (DuFr)|Meets]] [[Dunmar Fellowship]], and tells [[Delwath]] stories of the [[Deno'qai]] and the [[tanshi]]

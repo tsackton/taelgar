@@ -18,7 +18,7 @@ whereabouts:
 > [[Chardonian Empire|Chardonian]] [[Humans|human]], she/her
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Imprisoned by [[The Dunmar Fellowship]] on December 8th, 1748 in the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% Imprisoned by [[Dunmar Fellowship]] on December 8th, 1748 in the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
 A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 

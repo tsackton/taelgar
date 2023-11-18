@@ -20,6 +20,6 @@ whereabouts:
 
 An innkeeper and master of a caravanserai waystation on the [[Tokra-Darba Road]], running one of the first waystations on the west side of the [[Copper Hills]].  Generally well positioned to receive and pass along news. 
 
-In late July 1748, was briefly cut off from Tokra by wyverns who had made a nest in the ruined mining town of [[Vandar]]. Pleased to receive news that [[The Dunmar Fellowship]] had killed the wyverns and the road was clear on 26 July 1748. 
+In late July 1748, was briefly cut off from Tokra by wyverns who had made a nest in the ruined mining town of [[Vandar]]. Pleased to receive news that [[Dunmar Fellowship]] had killed the wyverns and the road was clear on 26 July 1748. 
 
 %%SECRET[1]%%

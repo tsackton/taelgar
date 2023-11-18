@@ -20,5 +20,5 @@ A captain in the Dunmari army camped near [[Tokra]], in service of [[Illyan]] an
 
 ## Chronology
 - 3 June 1748: Arrives in Tokra with the first wave of [[Nayan Karnas]]'s army, under the command of [[Illyan]]. 
-- 2 July 1748: Briefly encounters [[The Dunmar Fellowship]] in Tokra while escorting them to [[Illyan]]'s camp. 
+- 2 July 1748: Briefly encounters [[Dunmar Fellowship]] in Tokra while escorting them to [[Illyan]]'s camp. 
 %%SECRET[1]%%

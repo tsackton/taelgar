@@ -21,5 +21,5 @@ whereabouts:
 An [[Orcs|orc]] cleric in [[Grash's Horde|Grash's army]]. 
 
 %%^Campaign:DuFr%%
-Captured in battle in May 1748 by [[The Dunmar Fellowship]], and interrogated before using magic to convince [[Seeker]] to kill him, seemingly because he insisted he could not die under [[Grash]]'s power. After his death, his body was burned and did not reanimate. 
+Captured in battle in May 1748 by [[Dunmar Fellowship]], and interrogated before using magic to convince [[Seeker]] to kill him, seemingly because he insisted he could not die under [[Grash]]'s power. After his death, his body was burned and did not reanimate. 
 %%^End%%

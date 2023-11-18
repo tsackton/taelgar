@@ -16,7 +16,7 @@ The People of the Rainbow trace their origins to the golden age of the [[Drankor
 
 As they grew in size and power, the People of the Rainbow wished to free their brethren from [[Thark]]'s chains, so with the [[Cloudspinner]]'s blessing and the gift of the [[Mantle of Protection|Cloak of Rainbows]] to protect them from [[Thark]]'s power, they ventured back to the material plane. 
 
-Rumors of the unchained [[Orcs]] grew in [[Drankorian Empire|Drankor]], and eventually attracted the attention of [[Emperor Apollyon|Apollyon]], the emperor. In DR 1042, [[Emperor Apollyon|Apollyon]] attacked the People of the Rainbow, and the [[Mantle of Protection|Cloak of Rainbows]] was lost.
+Rumors of the unchained [[Orcs]] grew in [[Drankorian Empire|Drankor]], and eventually attracted the attention of [[Apollyon|Apollyon]], the emperor. In DR 1042, [[Apollyon|Apollyon]] attacked the People of the Rainbow, and the [[Mantle of Protection|Cloak of Rainbows]] was lost.
 
 For the next five hundred years, the People of the Rainbow lived a hunted existence, scattered in small groups trying to avoid the ever-watchful eyes of [[Thark]] and the violence of his servants. 
 

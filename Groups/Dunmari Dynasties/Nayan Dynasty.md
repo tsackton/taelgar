@@ -1,7 +1,7 @@
 ---
 tags: [organization, status/stub]
 orgType: family
-name: the Dharajun dynasty
+name: Nayan dynasty
 ---
-# The Dharajun Dynasty
+# The Nayan Dynasty
 

@@ -6,7 +6,7 @@ Our session begins at Lastlight Falls in the fey realm of [[Amberglow]], where [
 
 ![[amberglow-lastlight-falls.png|600]]
 
-[[Kenzo]] and [[Wellby]] are introduced to [[Caulaus]], which involves a bit of discussion over [[Caulaus]]' evident confusion over the current time. [[Caulaus]] speaks of [[Drankor]], and a battle against dragons, and fleeing. But even after questioning, he remembers little else: his appointment ceremony with [[Emperor Helea]], a feast with [[Elves|elves]] perhaps on the frontier somewhere, but no details the party asks after. 
+[[Kenzo]] and [[Wellby]] are introduced to [[Caulaus]], which involves a bit of discussion over [[Caulaus]]' evident confusion over the current time. [[Caulaus]] speaks of [[Drankor]], and a battle against dragons, and fleeing. But even after questioning, he remembers little else: his appointment ceremony with [[Helea]], a feast with [[Elves|elves]] perhaps on the frontier somewhere, but no details the party asks after. 
 
 As [[Seeker]], [[Wellby]], and [[Kenzo]] great each other in reunion, attention turns to [[Typhina]], who warns [[Seeker]] telepathically that there are dangers here, and she has enemies. The grove she defended, and the place where she claims she can be resurrected, is near, and she suggests heading there quickly, as [[Wellby]] spies flying creatures in the distance, but closing fast. 
 
