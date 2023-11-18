@@ -1,12 +1,16 @@
 ---
-tags: [item, item/magical]
+tags:
+  - item
+  - item/magical
 typeOf: mirror
 version: current
 rarity: very rare
+subTypeOf: 
+magical: false
 ---
 # The Eudomes' Mirror
 >[!info]+ Information
-> (very rare magical mirror)
+> (very rare  magical mirror)
 
 A large ornate wall mirror, originally mounted in [[Eudomes]]' bedroom in [[Stormcaller Tower]], found by Delwath in [[Session 16 (DuFr)]].
 

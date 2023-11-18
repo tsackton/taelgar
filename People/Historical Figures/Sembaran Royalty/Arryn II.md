@@ -15,11 +15,11 @@ affiliations: [House of Sewick]
 reignEnd: 1628
 ---
 # King Arryn II
->[!info]+ Biographical Summary
->King of [[Sembara]] and [[Tyrwingha]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Sewick|The House of Sewick]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_RegnalValue")`
+>> Member of: The [[House of Sewick]]
 
 The only child of [[Blanche II]]. His two daughters, [[Charlotte II]] and [[Cece I]] both rule the united realm of Sembara and Tyrwingha.
 
