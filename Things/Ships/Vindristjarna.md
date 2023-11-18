@@ -1,20 +1,38 @@
+---
+tags: [item]
+pronunciation: Vind-rist-YAR-na or vin-dree-SHAR-na
+whereabouts:
+- { type: home, location: unknown storm giant}
+- {type: home, location: dufr}
+- { type: away, start: 1748-12-03, end: 1748-12-10, location: Uzgukhar}
+- { type: away, start: 1749-01-15, end: 1749-01-16, location: Orenlas}
+- { type: away, start: 1749-01-17, end: 1749-01-20, location: traveling to Xurkhaz}
+magical: true
+rarity: unique
+typeOf: skyship
+---
 # Vindristjarna
-aka, The Star on the Wind
+**The Star on the Wind**
+*(Vind-rist-YAR-na or vin-dree-SHAR-na)*
+>[!info]+ Item Info
+>(unique magical skyship)
+> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[vindristjarna-v1.jpg]]
+
 ## History
 
 Eons ago, lost in the dawn of time when the Firstborn walked the earth and the great empires of giants and dragons and other creatures of myth and legend  stretched across the world, great skyships of the storm giants sailed the skies. While a few may remain in distant hidden corners of the world, or travel the skies of other planes, many crashed or were destroyed.
 
 One such skyship, the Star on the Wind, Vindristjarna (vin-dree-shar-na), crashed on what is now the Dunmari plains thousands of years ago. 
 
-The ancient skyships of the storm giants are powered by phasing stones, that connect to the dreamworld and allow one to imagine and project different physics, physics where stone can float. 
+The ancient skyships of the storm giants are powered by [[phasing stones]], that connect to the dreamworld and allow one to imagine and project different physics, physics where stone can float. 
 
 While the phasing stone that originally powered Vindristjarna is mostly destroyed, the ship is otherwise intact and could be made to fly with a new phasing stone. 
 
 ## Recovery and Repair
 
-I[[The Dunmar Fellowship]] [[Session 68 (DuFr)|restored Vindristjarna in the course of their adventures]], replacing the ruined phasing stone with a new one, [[Session 67 (DuFr)|recovered from Hralgar's ancient mountain home]]. 
+[[The Dunmar Fellowship]] [[Session 68 (DuFr)|restored Vindristjarna in the course of their adventures]], replacing the ruined phasing stone with a new one, [[Session 67 (DuFr)|recovered from Hralgar's ancient mountain home]]. 
 
 Currently, the hull of the ship has been restored and repaired, and two stone decks constructed, creating three floors: a storage hold currently unimproved, a lower deck, and an upper deck. 
 

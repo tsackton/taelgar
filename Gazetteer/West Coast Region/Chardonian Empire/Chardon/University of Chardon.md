@@ -23,7 +23,7 @@ The five higher faculty sit above the colleges and form the basis of graduate ed
 
 ## History
 - (DR:: 980): The University of Chardon is founded in Chardon
-- (DR:: 1065): The University of Chardon expands, absorbing many refugees from the destruction of Drankor during the [[The First Plague|First Plague]]
+- (DR:: 1065): The University of Chardon expands, absorbing many refugees from the destruction of Drankor during the [[First Plague|First Plague]]
 
 %%SECRET[1]%%
 
