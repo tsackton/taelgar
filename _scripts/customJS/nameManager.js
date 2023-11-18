@@ -166,9 +166,9 @@ class NameManager {
             pagePastWithStart: "<start> <startDate> - <end> <endDate>",
             pagePast: "<end> <endDate>",
             boxName: "Information",
-            partOf: "<loc>",
-            defaultTypeOfForDisplay : "",
-            affiliationTypeOf: []
+            partOf: "<loc>",     
+            affiliationTypeOf: [],
+            secondaryInfo: ""
         }
 
         let base = merge_options(required, defaultForThisItem)
