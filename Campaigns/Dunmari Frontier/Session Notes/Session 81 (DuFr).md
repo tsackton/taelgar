@@ -10,6 +10,9 @@ tags:
 
 ## Key Information
 
+- The party visited the forest of Orenlas, where they explored the living city of Erelion, visiting the sacred elder tree and meeting Caretaker [[Erdhin]], the gardener [[Ealwen]], the retired solider [[Vahaiya]], and the poet [[Cirdore]]
+- The party spoke with the ancient elf [[Arheste]], who told them about the days of Drankor, how Apollyon came to power, how he how he attempted to ascend to 
+
 
 ## Session Events
 
