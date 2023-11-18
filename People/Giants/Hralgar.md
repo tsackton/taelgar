@@ -10,7 +10,7 @@ species: giant
 subspecies: storm giant
 gender: male
 whereabouts:
-- {type: away, start: 1020, end: 1748-11-22, location: 'trapped in Stormcaller Tower, Eastern Dunmar'} # start is approx but can be set accurately 
+- {type: away, start: 1020, end: 1748-11-22, location: 'trapped in Stormcaller Tower'} # start is approx but can be set accurately 
 - {type: home, start: 1748-11-23, end: 1748-11-23, location: Stormcaller Tower }
 - {type: home, start: 1748-11-24, end: , location: 'drifting on the storm, Taelgar'}
 ---
