@@ -2,7 +2,7 @@
 tags: [person, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-- {campaign: DuFr, date: 1748-12-17, type: met}
+- {campaign: dufr, date: 1749-01-02, type: met}
 name: Melindir
 born:
 ka: 35
@@ -14,12 +14,11 @@ whereabouts:
 - {type: home, start: "", end: '', location: 'Tollen, Western Green Sea'}
 ---
 # Melindir
-he/him
 >[!info]+ Biographical Info
-> [[Elves|elf]] ([[The Cycle of Generations|ka]] 35)
+> [[Elves|elf]], he/him ([[The Cycle of Generations|ka]] 35)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on December 17th, 1748 in [[Tollen]], [[Western Green Sea]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[The Dunmar Fellowship]] on January 2nd, 1749 in [[Tollen]], [[Western Green Sea]] %%^End%%
 
-Elegant, ageless elf from Orenlas. Lives in [[Tollen]] as an ambassador.
+Melindr is the Ambassador to Tollen for the elven lands of Orenlas.
 
 ![[melindir.png]]
