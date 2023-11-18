@@ -10,7 +10,8 @@ tags:
 
 ## Summary
 
-- The party visited the forest of [[Orenlas]], where they explored the living city of [[Erelion]], visiting the sacred elder tree and meeting Caretaker [[Erdhin]], the gardener [[Ealwen]], the retired solider [[Vahaiya]], and the poet [[Cirdore]]
+- The party visited the forest of [[Orenlas]], where they explored the living city of [[Erelion]], visiting the sacred elder tree and meeting Caretaker [[Erdhin]], the gardener [[Ealwen]], the retired solider [[Vahaiya]], and the poet [[Cirdore]]. 
+- After [[Kenzo]] attempts to get [[Ealwen]] to join the crew of [[Vindristjarna]], she says that while she does not feel she can leave [[Erelion]], she does know a few people who might want to join the ship as a gardener. 
 - The party spoke with the ancient [[Elves|elf]] [[Arheste]], who told them about the days of [[Drankorian Empire|Drankor]]: the [[Drankorian Civil War|civil war]] that ended centuries of peace; the rise of [[Omnis Pura]]; [[Emperor Apollyon|Apollyon]]'s reign; and his attempted ascension to godhood and ultimate downfall. 
 - After spending a day speaking with an learning from [[Arheste]], the party got a desperate message from [[Riswynn]], informing them that [[Grash]] was nearly finished constructing a massive trebuchet, 400 feet tall at least, and if they did not arrive soon, [[Uzgukhar]] would be destroyed. 
 
@@ -58,6 +59,10 @@ End: evening, Jan 16th, 1749
 - (DR::1749-01-15) : Arrive in [[Orenlas]] in morning after traveling through the evening across the mountains; dinner party
 - (DR::1749-01-16) : Visit [[Arheste]]; sooth her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]]
 
+#### New Treasure
+
+A meta-resource: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics. 
+
 ## Narrative
 
 We begin on [[Vindristjarna]], as the party has returned to the skyship after several days at the Elemental Forge while [[Faldrak Bronzehammer|Faldrak]] constructed a number of magic items from the residual energy of the forge left behind by [[Sh’shethis]]'s departure. The day before, as [[Faldrak Bronzehammer|Faldrak]] finished his work, the party had viewed the [[Elemental Forge Vision|forge itself in Eudomes' mirror]]. Now, we pick up as the party heads south for Orenlas, and [[Faldrak Bronzehammer|Faldrak]] writes in his journal:
@@ -74,6 +79,20 @@ We begin on [[Vindristjarna]], as the party has returned to the skyship after se
 
 *It will be hard going back to life in Tollen after this.*
 
+[[Faldrak Bronzehammer|Faldrak]]'s writing is interrupted by the arrival of another message from the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], this time concerning [[Philosopher's Information Concerning Binding Stones|the binding stones]]. The party reads and discusses. 
+
 The next day, the ship arrives at the edge of [[Orenlas]]. The forest is shrouded in mists, and the party is forced to land outside, on the shores of the large lake, using the [[Vindristjarna#Planar Prism|planar prism]] for the first time to construct a rainbow bridge from the ship to the ground. While Faldrak stays behind, the party ventures into the forest.
 
-The paths open up as they walk, revealing visions and fragments of images of possible futures: Kenzo, mediating in a world of imp
+The paths open up as they walk, revealing visions and fragments of dreams of possible futures: Kenzo, mediating in an alien place of impossible depth; Delwath, traveling across the planes, protecting those in need across the multiverse; Seeker, writing a book in his home full of the laughter of his children and visions of his friends across the multiverse; Wellby, at sea, leagues and leagues west of any known land, perhaps, just perhaps glimpsing sight of a mountain rising from the horizon in the distance. You feel, as you walk, that this is Aldanor testing your desires, your hopes, and accepting you.
+
+The party arrives at the gates of [[Erelion]], where they are greeted by Caretaker [[Erdhin]]. He settles the party in a guest house of a sort; plans are made for a dinner party; and then the group leaves to experience the wonders of the city. 
+
+The party strolls through the fey gardens where silver grows in delicate flowers, where vines are laden with fruit at all seasons, where oysters grown from the roots of lily pads. They find their way to the massive elder tree, the tree of dreaming, the sacred space where the echoes of the footsteps of [[Aldanor]] on the land, that created the first forests, can still be heard. Kenzo communes with the forest, and is gently guided to safer paths, told he is not ready for this, the original forest, the place that still retains some of the magic of the days of myth when the world was young. 
+
+After an afternoon exploring, the party returns and hosts guests for dinner, cooked by [[Delwath]]. In addition to Caretak [[Erdhin]], the guests are a young gardener named [[Ealwen]], a retired solider named[[Vahaiya]], and a poet named [[Cirdore]]. As conversation flows, the party learns there is an elder here who could speak of Apollyon and Drankor; her name is [[Arheste]], and unlike nearly any other elf her age, she is very sick. [[Ealwen]], her caretaker, is reluctant to disturb her, but relents after speaking at length about herbs and ki and healing powers with [[Kenzo]]. While [[Ealwen]] does not feel she can leave [[Erelion]], she does say she has a few people in mind who might want to join the ship as a gardener. 
+
+The next morning, the party travels with [[Ealwen]] to visit [[Arheste]], outside the city. [[Arheste]] is clearly ill, unable to sit without wheezing, and struggles to tell her story until [[Kenzo]] uses some of his precious ki from the jungles of [[Orekatu]] to ease her damaged soul. While not strong enough to completely undo the evils done to her, it helps, tremendously. 
+
+For the rest of the day, Arheste tells her story, about Drankor and Apollyon and Cha'mutte, which is recorded [[Arheste#Arheste's Story|here]].
+
+As evening comes, the party receives a desperate plea for help from Riswynn: [[Grash]] is nearly done constructing a massive trebuchet, and if they do not arrive to help soon, the city will be destroyed. 
