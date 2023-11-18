@@ -10,7 +10,7 @@ subspecies: hag
 gender: female
 aliases: [Old Woman of the Dusts, Dasoclese]
 whereabouts:
-- {type: home, end: 1400, location: Amberglow} # end is arbitrary, just needs to exist to prevent Amberglow from being home after she left Garamjala
+- {type: home, end: 0001, location: Amberglow} 
 - {type: home, start: '', end: 1748-05-29, location: Garamjala Desert}
 - {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind }
 - {type: away, start: 1748-11-15, end: 2000-01-01, location: Heartwood Grove } # end is abritrary

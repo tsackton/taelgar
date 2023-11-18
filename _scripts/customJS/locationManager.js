@@ -51,8 +51,7 @@ class LocationManager {
             location = whereabout ? this.getCurrentLocationName(whereabout.location, targetDate) : ""
         }
 
-        let formatted = formatStr.replace("<loc>", location)
-            .replace("<end>", whereabout?.awayEnd?.display)
+        let formatted = formatStr.replace("<loc>", location)            
             .replace("<start>", whereabout?.start?.display)
             .replace("<endDate>", whereabout?.awayEnd?.display)
             .replace("<end>", endStatus)
