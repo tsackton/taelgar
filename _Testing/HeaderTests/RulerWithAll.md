@@ -21,11 +21,12 @@ whereabouts:
 - {type: away, start: 1700-10-21, end: 1720-10-26, location: 'Valit'}
 ---
 # Queen Some NPC
-*(Sm-n-p-c),* they/them
->[!info]+ Biographical Info
-> [[Tyrwingha|Tyrwinghan]] [[Elves|elf]] of the [[OrgThatIsFamily|Family of Someones]] ([[The Cycle of Generations|ka]] 25)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+*(Sm-n-p-c)*
+>[!info]+ Biographical Summary
+>Queen of [[Sembara]] and [[Tyrwingha]] and the [[Army of the West]]
+>[[Elves|elf]]  ([[Tyrwingha|Tyrwinghan]]), they/them of the [[OrgThatIsFamily|Family of Someones]]
+> Member of: The [[OrganizationWithAll|Something Org Something]], [[NotLinked]]
+>`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 25)
+>`$=dv.view("_scripts/view/get_RegnalValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on October 20th, 1719 in [[Valit]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
->> Member of: The [[OrganizationWithAll|Something Org Something]], [[NotLinked]]
+>>%%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on October 20th, 1719 in [[Valit]], the [[Barony of Aveil]], [[Sembara]] %%^End%%

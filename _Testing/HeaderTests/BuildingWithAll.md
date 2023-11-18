@@ -15,6 +15,6 @@ typeOf: inn
 ---
 # The Inn of the Weirdo
 *(Inn of the Wei-r-do)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> An inn in the [[PlaceWithAll|Town Of Six]], the [[Barony of Aveil]], [[Sembara]], [[The Western Green Sea Region]]
+>[!info]+ Summary
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+> an inn in the [[PlaceWithAll|Town Of Six]], the [[Barony of Aveil]], [[Sembara]]

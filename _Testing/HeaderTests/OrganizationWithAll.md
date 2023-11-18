@@ -7,10 +7,10 @@ pronunciation: s-o-someht
 created: 1600
 destroyed: 1700
 typeOf: Army
-basedIn: Cleenseau
+whereabouts: Cleenseau
 ---
 # The Something Org Something
 *(s-o-someht)*
->[!info]+ Information
-> army
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Summary
+>`$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Whereabouts")`
