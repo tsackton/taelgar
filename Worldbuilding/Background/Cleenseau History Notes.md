@@ -25,7 +25,7 @@ The halfling community, if you could question them, would tell you that during t
 ## The Great War and Blood Years
 In the early 1420s, when Avatus is moving north, he captures the old Drankorian fort on the south bank of the river first, and uses magically dimension door to teleport his troops across the river and eventually defeats the Sembaran army. Cleeenseau at this time is not a significant fortification but it becomes a central staging point for the army in the war with Avatus, until the Sembarans are defeated.
 
-During the war with [[Emperor Avatus|Avatus]] Cleenseau is captured, but Avatus is seeking conquest and subjects, not revenge, and so the population is largely enslaved. He makes a particular deal with the Stonebridges to allow them to continue running the Crossroads Inn as a watering hole for hobgoblins. The halflings secretly aid humans wishing to escape hobgoblin rule, and several tunnels are built under the Crossroads Inn to assist this.
+During the war with [[Avatus|Avatus]] Cleenseau is captured, but Avatus is seeking conquest and subjects, not revenge, and so the population is largely enslaved. He makes a particular deal with the Stonebridges to allow them to continue running the Crossroads Inn as a watering hole for hobgoblins. The halflings secretly aid humans wishing to escape hobgoblin rule, and several tunnels are built under the Crossroads Inn to assist this.
 
 When Avatus is defeated the town is recaptured largely intact, although the Drankorian fortifications are ruined.
 

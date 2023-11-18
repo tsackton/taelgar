@@ -35,7 +35,7 @@ whereabouts:
 > [[Elves|elf]], they/them ([[The Cycle of Generations|ka]] 36)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on January 15th, 1748 in [[Erelion]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
+>> %%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on January 15th, 1748 in [[Erelion]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
 
 Vahaiya is a warrior, traveler, adventurer, and now artist and collector. After surviving the [[Great War]], fighting alongside the Sembaran Army in the [[Battle of Urlich Pass]], they traveled extensively around [[Addermarch]], the [[Aurbez Plateau]], [[Duchy of Maseau|Maseau]], and other Sembaran borderlands. They made a name for themselves in the hobgoblin wars, but growing tiring of fighting after many years, decided to settle in [[Erelion]]. 
 

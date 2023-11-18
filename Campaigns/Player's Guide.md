@@ -91,7 +91,7 @@ These gods are sustained by the belief of their [[Humans|human]] worshippers. Wh
 	* [[The Wyrdling]] (genderless diety of chaos, luck, fate, storms, and weather)
 	* [[The Wildling]] (genderless diety of nature and elements)
 * The [[Kestavo]], an ancient religion still practiced in some places in the Sembaran highlands, and in [[Vostok]]. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the[[Kestavo| kestav]]o, bring the prayers of their communities to [[Ako]], the Divine.
-* [[The Five Siblings|The Five Siblings of the Dunmari]], the pantheon of the Dunmari people, brought with them from their distant ancestral homeland during their migration after the fall of [[Drankorian Empire|Drankor]]. A family pantheon, with five major divinities: 
+* [[Five Siblings|The Five Siblings of the Dunmari]], the pantheon of the Dunmari people, brought with them from their distant ancestral homeland during their migration after the fall of [[Drankorian Empire|Drankor]]. A family pantheon, with five major divinities: 
 	* [[Jeevali]], the goddess of life, rebirth, home, and family;
 	* [[Laka]], the god of knowledge, agriculture, and the seasons
 	* [[Aagir]], the god of war, fire, and death; protector of soldiers 

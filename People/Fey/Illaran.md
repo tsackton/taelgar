@@ -15,7 +15,7 @@ whereabouts:
 >[!info]+ Biographical Info
 > korred, he/him
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on November 1st, 1748 in [[Crystal Peak]], [[Feywild]] %%^End%%
+>> %%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on November 1st, 1748 in [[Crystal Peak]], [[Feywild]] %%^End%%
 
 Illaran, the guardian of Crystal Peak in the [[Feywild]], is a whimsical fey who wields power over the very stones of his domain.
 ## Overview

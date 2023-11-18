@@ -34,11 +34,11 @@ End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormca
 | Is [[Kadmos]] heading for us?                                            | **NO**      | 20 Nov 1748 |
 | Is [[Grash]] working for [[Fausto]]?                                     | **NO**      | 21 Nov 1748 |
 | Is [[Fausto]] working for [[Grash]]?                                     | **NO**      | 21 Nov 1748 |
-| Are [[Grash]] and [[Fausto]] working for [[Emperor Apollyon\|Apollyon]]? | **YES**     | 21 Nov 1748 |
+| Are [[Grash]] and [[Fausto]] working for [[Apollyon|Apollyon]]? | **YES**     | 21 Nov 1748 |
 | Can a person be restored after being Cleasned?                           | **UNCLEAR** | 22 Nov 1748 |
 | Are we being hunted by enslaved monsters of [[Fausto]]'s?                | **YES**     | 22 Nov 1748 |
 | Are they within a week of us?                                            | **NO**      | 22 Nov 1748 |
-| Was [[Emperor Apollyon\|Apollyon]] behind [[Sura]]'s kidnapping?          | **NO**      | 23 Nov 1748 |
+| Was [[Apollyon|Apollyon]] behind [[Sura]]'s kidnapping?          | **NO**      | 23 Nov 1748 |
 
 ## Timeline
 
@@ -59,7 +59,7 @@ Over the course of the next week, the party falls into a routine as they hurry a
 
 ![[dunmar-november-1748.png]]
 
-[[Riswynn]] prays each morning to the Baharazel, asking them to free [[Havdar]] of the curse that binds him to the [[Medusa Blade]], taken from [[Agata's lair]] and gifted to [[Havdar]] by the party. As the party travels, they send messages to [[Johar]] via sending, and [[Delwath]] keeps an eye on the movements of [[Kadmos]] and company via scrying. 
+[[Riswynn]] prays each morning to the Baharazel, asking them to free [[Havdar]] of the curse that binds him to the [[Medusa Blade]], taken from [[Agata's Lair]] and gifted to [[Havdar]] by the party. As the party travels, they send messages to [[Johar]] via sending, and [[Delwath]] keeps an eye on the movements of [[Kadmos]] and company via scrying. 
 
 From brief conversations, they learn that [[Johar]] is alive, and well enough treated, although he has not been allowed to see Samraat [[Nayan Karnas]], apparently because of the Samraat's (perhaps justifiably?) paranoid belief that [[Agata]] is somehow behind [[Sura]]'s reemergence. Not trusting [[Johar]] to be who he says he is, Karnas has summoned a wizard from [[Chardon]] and a mystai of [[Sonkar]] who are both gifted with the power of true sight, who will vouch for [[Johar]] before he can speak with Karnas. From brief visions via scrying, they learn that [[Kadmos]] continues east, towards [[Kharsan]], through the [[Garamjala Desert]].
 

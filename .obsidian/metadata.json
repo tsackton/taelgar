@@ -127,11 +127,15 @@
         },
         {
             "from": "DuFr",
-            "to": "The Dunmar Fellowship"
+            "to": "Dunmar Fellowship"
         },
         {
             "from": "GW",
-            "to": "The Heroes of the Great War"
+            "to": "Heroes of the Great War"
+        },
+        {
+            "from": "GL",
+            "to": "Gray Tempest"
         },
         {
             "from": "Dunmari",

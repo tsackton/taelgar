@@ -18,7 +18,7 @@ whereabouts:
 > Member of: [[Quicksteps]]
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Last met by [[The Dunmar Fellowship|The Side Quests]] on December 30th, 1748 in: [[Tollen]], [[Western Green Sea]] %%^End%%
+>>%%^Campaign:DuFr%% Last met by [[Dunmar Fellowship|The Side Quests]] on December 30th, 1748 in: [[Tollen]], [[Western Green Sea]] %%^End%%
 
 Proprietor of *The Windward Sail*, a busy sailor's tavern in Fiskurth. Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 
 

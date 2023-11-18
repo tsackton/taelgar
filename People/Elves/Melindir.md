@@ -32,7 +32,7 @@ pronunciation: meh-LIN-deer
 >[!info]+ Biographical Info
 > [[Elves|elf]], he/him ([[The Cycle of Generations|ka]] 35)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[The Dunmar Fellowship]] on January 2nd, 1749 in [[Tollen]], [[Western Green Sea]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on January 2nd, 1749 in [[Tollen]], [[Western Green Sea]] %%^End%%
 
 Melindr is the Ambassador to Tollen for the elven lands of Orenlas.
 

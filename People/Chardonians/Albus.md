@@ -19,6 +19,6 @@ whereabouts:
 
 A Chardonian bookseller who lives and works in [[Darba]]. Well connected to the local academic community. 
 %%^Date:1748-08-05%%
-In August 1748, came to the attention of [[The Dunmar Fellowship]] when he purchased the Lyrics of a New Age (a book of elvish poetry by Nelawe) from Delwath, and passed along rumors of Servius. 
+In August 1748, came to the attention of [[Dunmar Fellowship]] when he purchased the Lyrics of a New Age (a book of elvish poetry by Nelawe) from Delwath, and passed along rumors of Servius. 
 %%^End%%
 

@@ -24,8 +24,8 @@ A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]
 %%SECRET[1]%%
 ## Events
 - (DR:: 1748-04-27) *(Amil)*: Arrives in Bas Udda to tend the unburied dead from the gnoll attacks
-- (DR:: 1748-04-29) *(Amil)*: Meets [[Havdar]] and [[The Dunmar Fellowship]], who aid him in his task. 
+- (DR:: 1748-04-29) *(Amil)*: Meets [[Havdar]] and [[Dunmar Fellowship]], who aid him in his task. 
 - (DR:: 1748-04-30) *(Amil)*: Leaves Bas Udda with The Dunmar Fellowship, traveling to his masters' house in the desert
 - (DR:: 1748-05-02) *(Amil)*: Arrives at Pava and Avaras' House with The Dunmar Fellowship. 
-- (DR:: 1748-05-17) *(Amil)*: At Pava and Avaras' House when [[The Dunmar Fellowship]] spend the night
+- (DR:: 1748-05-17) *(Amil)*: At Pava and Avaras' House when [[Dunmar Fellowship]] spend the night
 
