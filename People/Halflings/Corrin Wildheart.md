@@ -4,7 +4,7 @@ displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: 
 campaignInfo: []
 name: Corrin Wildheart
 born:
-species: hafling
+species: halfling
 ancestry:
 gender: male
 whereabouts:

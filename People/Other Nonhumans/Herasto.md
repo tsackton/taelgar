@@ -1,26 +1,15 @@
 ---
-tags:
-  - person
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
+tags: [person]
 campaignInfo: 
 name: Herasto
-born: 
 species: centaur
-ancestry: 
 gender: male
 whereabouts:
-  - type: away
-    start: ""
-    end: ""
-    location: plains south of Voltara, Voltara, Chardonian Empire
+  - { type: away, location: plains south of Voltara }
 ---
 # Herasto
->[!info]+ Biographical Summary
->centaur, he/him
+>[!info]+ Biographical Info
+> [[Centaurs|centaur]], he/him
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%Group of centaurs currently wintering in sheltered valleys south of Voltara%%

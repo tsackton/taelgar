@@ -13,10 +13,10 @@ whereabouts:
 - {type: home, start: 1733, end: '', location: Tollen}
 ---
 # Aurelia
->[!info]+ Biographical Summary
->centaur, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> [[Centaurs|centaur]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Last met by [[The Dunmar Fellowship|The Side Quests]] on December 30th, 1748 in: unknown %%^End%%
+>> %%^Campaign:DuFr%% Met by [[The Dunmar Fellowship]] on December 30th, 1748 in [[Tollen]], the [[Western Green Sea Region]] %%^End%%
 
 Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who has lived in [[Tollen]] for the past 20 years or so. 
