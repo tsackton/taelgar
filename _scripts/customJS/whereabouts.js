@@ -88,7 +88,7 @@ class WhereaboutsManager {
                     if (partyName) {
                         let type = element.type ?? "seen"
                         
-                        let text = LocationManager.buildFormattedLocationString(format, locForThisDate, displayDate, undefined, type, partyName)
+                        let text = LocationManager.buildFormattedLocationString(format, locForThisDate, displayDate, undefined, type, partyName, displayData.startStatus)
                         text = (text.charAt(0).toUpperCase() + text.slice(1)).trim()
 
                         results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
@@ -118,6 +118,8 @@ class WhereaboutsManager {
 
         targetDate = DateManager.normalizeDate(targetDate)
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
+
+        console.log("Getting whereabouts for " + metadata.name + " for date " + targetDate.display)
 
         let whereaboutResult = { current: undefined, home: undefined, origin: undefined, lastKnown: undefined }
 

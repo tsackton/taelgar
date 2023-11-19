@@ -10,6 +10,7 @@ function get_Whereabouts(metadata) {
     let pageData = DateManager.getPageDates(metadata);
     let pageYear = DateManager.getTargetDateForPage(metadata)
     let endStatus = displayDefaults.endStatus
+    let startStatus = displayDefaults.startStatus
     let unknownStr = displayDefaults.whereaboutsUnknown
 
     if (!pageData.isCreated) return "";
@@ -24,14 +25,15 @@ function get_Whereabouts(metadata) {
     let displayString = "";
 
     if (showOrigin) {
-        displayString = LocationManager.buildFormattedLocationString(displayDefaults.whereaboutsOrigin, whereabout.origin, pageYear, endStatus)
+        
+        displayString = LocationManager.buildFormattedLocationString(displayDefaults.whereaboutsOrigin, whereabout.origin, pageData.startDate ?? pageYear, endStatus, "", "", startStatus)
     }
 
     if (whereabout.home && whereabout.home.location) {
         let formatStr = isPageAlive ? displayDefaults.whereaboutsHome : displayDefaults.whereaboutsPastHome
 
         if (displayString != "") displayString += "\n"
-        displayString += LocationManager.buildFormattedLocationString(formatStr, whereabout.home, pageYear, endStatus)
+        displayString += LocationManager.buildFormattedLocationString(formatStr, whereabout.home, pageYear, endStatus, "", "", startStatus)
 
         // if we have a current location that matches home, we are done
         if (whereabout.current && whereabout.home.location == whereabout.current.location)
@@ -41,7 +43,7 @@ function get_Whereabouts(metadata) {
     if ((whereabout.current && !whereabout.current.location) || (whereabout.lastKnown && !whereabout.lastKnown.location)) {
         if (isPageAlive) {
             if (displayString != "") displayString += "\n"
-            displayString += LocationManager.buildFormattedLocationString(unknownStr, undefined, pageYear, endStatus);;
+            displayString += LocationManager.buildFormattedLocationString(unknownStr, undefined, pageYear, endStatus,"", "", startStatus);;
         }
 
         return displayString;
@@ -54,16 +56,16 @@ function get_Whereabouts(metadata) {
         if (displayString != "") displayString += "\n"
 
         let formatStr = isPageAlive ? displayDefaults.whereaboutsCurrent : displayDefaults.whereaboutsPast
-        displayString += LocationManager.buildFormattedLocationString(formatStr, whereabout.current, pageYear, endStatus)
+        displayString += LocationManager.buildFormattedLocationString(formatStr, whereabout.current, pageYear, endStatus, "", "", startStatus)
 
         return displayString;
     }
 
     if (whereabout.lastKnown && whereabout.lastKnown.location) {
         if (displayString != "") displayString += "\n"
-        displayString += LocationManager.buildFormattedLocationString(displayDefaults.whereaboutsLastKnown, whereabout.lastKnown, pageYear, endStatus)
+        displayString += LocationManager.buildFormattedLocationString(displayDefaults.whereaboutsLastKnown, whereabout.lastKnown, pageYear, endStatus, "", "",startStatus)
         if (isPageAlive) {
-            displayString += "\n" + LocationManager.buildFormattedLocationString(unknownStr, undefined, pageYear, endStatus);
+            displayString += "\n" + LocationManager.buildFormattedLocationString(unknownStr, undefined, pageYear, endStatus, "", "",startStatus);
         }
 
         return displayString;

@@ -168,7 +168,8 @@ class NameManager {
             boxName: "Information",
             partOf: "<loc>",
             affiliationTypeOf: [],
-            secondaryInfo: ""
+            secondaryInfo: "",
+            ddbLinkText: "Mechanics"
         }
 
         let base = merge_options(required, defaultForThisItem)
