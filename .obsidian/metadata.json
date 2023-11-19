@@ -15,7 +15,7 @@
             "boxName": "Biographical Info",
             "startStatus": "born",
             "endStatus": "died",
-            "affiliationTypeOf": [
+            "affiliationTypeOf": [  
                 "family", 
                 "clan"
             ],
@@ -28,7 +28,8 @@
             "pageCurrent": "<start> <startDate> (<length> years old)",
             "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
             "pagePast": "<end> <endDate>",
-            "secondaryInfo": "<ancestry> <mainType>, <pronouns>"
+            "secondaryInfo": "<ancestry> <mainType>, <pronouns>",
+            "ddbLinkText" : "Character Sheet"
         },
         "place": {
             "startStatus": "founded",
@@ -42,13 +43,14 @@
         "item": {
             "startStatus": "created",
             "endStatus": "destroyed",
-            "whereaboutsOrigin": "Made by: <loc>",
+            "whereaboutsOrigin": "<start> by: <loc>",
             "whereaboutsHome": "Owner: <loc>",
             "whereaboutsPastHome": "Was owned by: <loc>",
             "pageCurrent": "<start> <startDate> (<length> years ago)",
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end> <endDate>",
-            "secondaryInfo": "(<rarity> <ancestry> <subtypeof> <typeof>)"
+            "secondaryInfo": "(<rarity> <ancestry> <subtypeof> <typeof>)",
+            "ddbLinkText" : "Mechanics"
         },
         "organization": {
             "startStatus": "founded",

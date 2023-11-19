@@ -231,14 +231,24 @@ async function generateHeader(tp) {
     let typeOf = buildTypeHeader(tp.frontmatter, displayDefaults)
 
     if (typeOf) summaryBlockLines.push("> " + typeOf)
+
+    if (tp.frontmatter.ddbLink)
+    {
+        summaryBlockLines.push("> [" + displayDefaults.ddbLinkText + "](" + tp.frontmatter.ddbLink + ")")
+    }
+
     if (hasPageDates) summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_PageDatedValue")`')
 
     if (tp.frontmatter.leaderOf) {
         summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_RegnalValue")`')
     }
 
+    
+    
     let partOf = buildPartOfHeader(tp.frontmatter, displayDefaults)
     if (partOf) summaryBlockLines.push("> " + partOf)
+
+
 
     if (tp.frontmatter.whereabouts) {
         summaryBlockLines.push(">> `$=dv.view(\"_scripts/view/get_Whereabouts\")`")

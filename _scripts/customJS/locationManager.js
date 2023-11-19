@@ -29,12 +29,15 @@ class LocationManager {
         }
     }
 
-    buildFormattedLocationString(formatStr, whereabout, targetDate, endStatus, metStatus, person) {
-        
-        const {DateManager} = customJS        
-        const {NameManager} = customJS
+    buildFormattedLocationString(formatStr, whereabout, targetDate, endStatus, metStatus, person, startStatus) {
 
-        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        const { DateManager } = customJS
+        const { NameManager } = customJS
+
+        console.log("enter " + formatStr + " " + whereabout?.location)
+
+        if (!targetDate) targetDate = DateManager.normalizeDate(targetDate)
+
 
         let group = formatStr.match("<loc(:([0-9]*)([a-z]{0,1}))?>")
         let location = ""
@@ -44,15 +47,17 @@ class LocationManager {
             let casing = NameManager.PreserveCase
             if (group[3] == "l") casing = NameManager.LowerCase
             else if (group[3] == "t") casing = NameManager.TitleCase
-
+            console.log("following string " + whereabout?.location + " for date " + targetDate.display)
             location = whereabout ? this.getCurrentLocationName(whereabout.location, targetDate, casing, parseInt(group[2]), NameManager.CreateLink) : ""
         }
         else {
+            console.log("following string " + whereabout?.location + " for date " + targetDate.display)
             location = whereabout ? this.getCurrentLocationName(whereabout.location, targetDate) : ""
         }
 
-        let formatted = formatStr.replace("<loc>", location)            
-            .replace("<start>", whereabout?.start?.display)
+        let formatted = formatStr.replace("<loc>", location)
+            .replace("<start>", startStatus)
+            .replace("<startDate>", whereabout?.start?.display)
             .replace("<endDate>", whereabout?.awayEnd?.display)
             .replace("<end>", endStatus)
             .replace("<person>", person)
@@ -64,14 +69,14 @@ class LocationManager {
     }
 
     getCurrentLocationName(location, targetDate, casing = "default", maxPieces = 3, linkType = "always") {
-        function trimTrailingComma(inStr) {          
+        function trimTrailingComma(inStr) {
             let outStr = inStr.trimEnd()
-            if (outStr.endsWith(",")) outStr = outStr.substring(0, outStr.length - 1)            
+            if (outStr.endsWith(",")) outStr = outStr.substring(0, outStr.length - 1)
             return outStr
         }
-        
+
         if (maxPieces == undefined || isNaN(maxPieces)) maxPieces = 3
-        
+
         if (location == undefined) return "Unknown"
         if (location == "") return "Unknown"
 
@@ -87,7 +92,7 @@ class LocationManager {
     // this gets a location string in the form A, B, C based on the start. It will generate at most maxPieces parts including the start
     //  if the startingLocation has a comma we ignore partOf and maxPices
     getLocationName(location, casing = "default", maxPieces = 3, linkType = "always") {
-       return this.getCurrentLocationName(location, undefined, casing, maxPieces, linkType)
+        return this.getCurrentLocationName(location, undefined, casing, maxPieces, linkType)
     }
 
     #getLocationFromPartOfs(locationPiece, targeDate, thisDepth, maxDepth, linkType, casing) {
@@ -106,7 +111,7 @@ class LocationManager {
         if (!file) {
             // lets see if we have a match to our capital letter check
             let match = new RegExp("[A-Z]{1}").exec(locationPiece)
-            if (match && match.index > 0) {                
+            if (match && match.index > 0) {
                 return locationPiece.substring(0, match.index) + " " + this.#getLocationFromPartOfs(locationPiece.substring(match.index), targeDate, thisDepth, maxDepth, linkType, casing)
             }
 
@@ -116,11 +121,11 @@ class LocationManager {
             let nextLevel = file.frontmatter.partOf
             if (!nextLevel) {
                 if (file.frontmatter.whereabouts) {
-                    let current = WhereaboutsManager.getWhereabouts(file.frontmatter, targeDate).current
+                    let current = WhereaboutsManager.getWhereabouts(file.frontmatter, targeDate).current                    
                     if (current) nextLevel = current.location;
                 }
             }
-  
+
             if (nextLevel) {
                 return nameSection + ", " + this.#getLocationFromPartOfs(nextLevel, targeDate, thisDepth + 1, maxDepth, linkType, casing)
             }
