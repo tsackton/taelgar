@@ -249,7 +249,13 @@ class NameManager {
         let formatStr = undefined
 
         if (dateInfo.endDate && dateInfo.endDate.display == "") formatStr = pageDisplayData.pagePast
-        else if (dateInfo.isAlive) formatStr = pageDisplayData.pageCurrent
+        else if (dateInfo.isAlive) {
+            if (!dateInfo.startDate) {
+                // we have a death date in the future and no start date, output nothing
+                return ""
+            }
+            formatStr = pageDisplayData.pageCurrent
+        }
         else if (dateInfo.age) formatStr = pageDisplayData.pagePastWithStart
         else if (dateInfo.endDate) formatStr = pageDisplayData.pagePast
         else return ""
