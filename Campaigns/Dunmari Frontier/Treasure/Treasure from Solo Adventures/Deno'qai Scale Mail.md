@@ -1,5 +1,5 @@
 ---
-tags: [item/armor, item/magical]
+tags: [item/armor, item/magical, status/describe]
 typeOf: armor
 rarity: uncommon
 displayDefaults: { whereaboutsHome: "Owner: <loc:1>" , definitiveArticle: ""}
@@ -13,4 +13,6 @@ whereabouts:
 > (uncommon magical armor)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The magical armor worn by [[Balati]], a Deno’qai hero in the [[Great War]], gifted to [[Delwath]] to aid him on his mission to free the lost tanshi. 
+A suit of scale mail armor, subtly designed with tanshi motifs, and lightweight enough to be worn under winter gear. 
+
+This armor was created during the [[Great War]] for the Deno'qai hero [[Balati]], and later gifted to [[Delwath]] of the [[Dunmar Fellowship]] while he was on a quest to free lost tanshi who had been trapped during the [[Great War]]. 

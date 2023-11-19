@@ -1,3 +1,8 @@
+---
+tags: [place/road, status/needswork, status/notes]
+---
+
+
 road from near Karawa to Chardon. needs a name.
 
 %%notes
