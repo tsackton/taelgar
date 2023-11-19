@@ -1,20 +1,21 @@
 ---
-tags: [status/notes, item]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+tags: [status/notes, item/magical]
+displayDefaults: {startStatus: fashioned, endStatus: destroyed}
 campaignInfo: []
 maker: Cloudspinner
+created: 0001
 name: Mantle of Protection
 aliases: [Cloak of Rainbows]
-owner: Lubash
-magical: true
 typeOf: cloak
 rarity: unique
+whereabouts:
+ - { type: home, location: Cloudspinner }
+ - {type: home, location: Lubash}
 ---
 # The Mantle of Protection
->[!info]+ Item Info
->(unique magical cloak)
-> Owner: [[Lubash|Chief Lubash]]
-> Maker: [[Cloudspinner]]
+>[!info]+ Information
+> (unique magical cloak)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A rumored multi-colored shimmering cloak or mantle that shields the wearer from divine influence in some way. 
 

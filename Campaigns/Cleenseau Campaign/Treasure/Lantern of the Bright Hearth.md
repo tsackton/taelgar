@@ -1,16 +1,18 @@
 ---
-tags: [ item ]
+tags: [ item/magical ]
 campaignInfo: 
 name: Lantern of the Bright Hearth
 owner: Robin of Abenfyrd
 ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 typeOf: lantern
 rarity: unique
+whereabouts: Robin of Abenfyrd
 ---
-# Lantern of the Bright Hearth
->[!info]+ Item Info
-> [(unique magical lantern)](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth)
-> Owner: [[Robin of Abenfyrd]]
+# The Lantern of the Bright Hearth
+>[!info]+ Information
+> (unique magical lantern)
+> [Mechanics](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A small lantern carried by [[Robin of Abenfyrd|Robin]]. It gives off a perpetual warm glow that reminds one of home and pleasant things. 
 

@@ -1,4 +1,12 @@
-### The Heart of Shakun
+---
+tags: [item/magical]
+rarity: unique
+whereabouts: Shakun's Wellspring
+---
+# The The Heart of Shakun
+>[!info]+ Information
+> (unique magical item)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A rough hewn ochre stone heart, a focus for [[Shakun]]'s power in the mortal realm. 
 
