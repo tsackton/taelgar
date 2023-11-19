@@ -1,11 +1,15 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+tags: [organization]
+displayDefaults: {partOf: "<article> <typeof> in <loc:3>", secondaryInfo: ""}
 campaignInfo: []
-name: Miltary Organization of Sembara
-placeType:
-partOf:
+aliases: [Sembaran Army, Military of Sembara]
+name: Sembaran Army
+typeOf: army
+partOf: Sembara
 ---
+# The Sembaran Army
+>[!info]+ Information
+> An army in [[Sembara]], the [[Western Green Sea Region]]
 
 The defense of the realm and the people within it is a key concern of the nobility and the lords of the manor. The defenses of the realm are broadly organized in two ways:
 
