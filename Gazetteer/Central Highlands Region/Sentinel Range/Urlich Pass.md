@@ -15,5 +15,5 @@ The site of the final battle against Cha'mutte, the Battle of Urlich Pass, which
 
 Probably the best retcon is to make this a special kind of  extraplanar weak spot, and also the site of some kind of structure - perhaps a dwarven monastery, perhaps something else. 
 
-The Battle of Urlich Pass, canonically now, was a large battle between Sembara + allies, including elves, and Cha'mutte's forces, mostly hobgoblins, with the HS party vs Cha'mutte happening within sight but not immediately in the pass itself. Vahaiya, elf now in Orenlas, canonically fought in the Battle of Urlich Pass.
+The Battle of Urlich Pass, canonically now, was a large battle between Sembara + allies, including elves, and Cha'mutte's forces, mostly hobgoblins, with the HS party vs Cha'mutte happening within sight but not immediately in the pass itself. Vahaiya, elf now in [[Orenlas]], canonically fought in the Battle of Urlich Pass.
 %%

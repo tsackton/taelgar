@@ -65,7 +65,7 @@ A meta-resource: 5 times during the course of the campaign, you can get retroact
 
 ## Narrative
 
-We begin on [[Vindristjarna]], as the party has returned to the skyship after several days at the Elemental Forge while [[Faldrak Bronzehammer|Faldrak]] constructed a number of magic items from the residual energy of the forge left behind by [[Sh’shethis]]'s departure. The day before, as [[Faldrak Bronzehammer|Faldrak]] finished his work, the party had viewed the [[Elemental Forge Vision|forge itself in Eudomes' mirror]]. Now, we pick up as the party heads south for Orenlas, and [[Faldrak Bronzehammer|Faldrak]] writes in his journal:
+We begin on [[Vindristjarna]], as the party has returned to the skyship after several days at the Elemental Forge while [[Faldrak Bronzehammer|Faldrak]] constructed a number of magic items from the residual energy of the forge left behind by [[Sh’shethis]]'s departure. The day before, as [[Faldrak Bronzehammer|Faldrak]] finished his work, the party had viewed the [[Elemental Forge Vision|forge itself in Eudomes' mirror]]. Now, we pick up as the party heads south for [[Orenlas]], and [[Faldrak Bronzehammer|Faldrak]] writes in his journal:
 
 *4 Barukhelm 5881, he writes*
 
