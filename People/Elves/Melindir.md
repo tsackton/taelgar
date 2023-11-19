@@ -34,6 +34,6 @@ pronunciation: meh-LIN-deer
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on January 2nd, 1749 in [[Tollen]], [[Western Green Sea]] %%^End%%
 
-Melindr is the Ambassador to Tollen for the elven lands of Orenlas.
+Melindr is the Ambassador to [[Tollen]] for the elven lands of [[Orenlas]].
 
 ![[melindir.png]]

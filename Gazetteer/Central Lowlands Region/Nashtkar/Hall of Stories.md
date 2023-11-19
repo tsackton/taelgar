@@ -1,29 +1,21 @@
 ---
 tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
+  - place/building
+  - status/describe
 campaignInfo: 
 name: Hall of Stories
 typeOf: building
 partOf: Monastery of Bhishma
+displayDefaults: { partOf: "<article> <typeof> in <loc:3>"}
 ---
 # The Hall of Stories
 >[!info]+ Information
-> A building in the [[Monastery of Bhishma]]
+> A building in the [[Monastery of Bhishma]], the [[Garamjala Desert]], [[Nashtkar]]
 
+The Hall of Stories is a a large structure, part of the [[Monastery of Bhishma]], that houses the stories of the Dunmari. 
 
-A building in the [[Monastery of Bhishma]] that houses the stories of the Dunmari. 
+The building itself is a large, rectangular chamber, more than 20 feet tall, with an connected five story tower on the western end, set in the center of the monastery grounds. The outside of the hall is decorated with thousands of intricate carvings of scenes of Dunmari life. The two doors are reinforced, elaborately carved wood, again depicting scenes of the Dunmari.
 
-%%notes
-This building is a combination of a five story tower reaching 75' into the sky and looming building, about 25' tall but with only a single large chamber within. The outside of the hall is decorated with thousands of intricate carvings of scenes of Dunmari life. The two doors are reinforced, elaborately carved wood, again depicting scenes in relief of the Dunmari.
+The main chamber of the building contains the Hall of Stories itself, the place where the collected memories of the Dunmari, gathered by the [[Order of the Awakened Soul|monks of Bhishma]], come to life. Initiates of the order are trained to navigate the chaos, but anyone can experience the memories stored here, in a magical vista where the tales of the people come to life.
 
-The hall of stories itself is the larger building. The entire massive chamber of the building consists of the hall of stories. Entering the room, the sense of vastness is notable -- the high ceilings and carefully designed windows let light stream into the room, and yet keep the ceiling in shadow, giving a feeling of an endless expanse above. Throughout the room tall pillars stand, spaced about 10' apart, arching to the ceiling, and absolutely covered in names, many written so small that they are impossible to read.
-
-This is the hall of stories, the place where the collected memories of the Dunmari, gathered by the monks of [[Bhishma]], come to life. Initiates of the order are trained to navigate the chaos, but anyone can experience the memories stored here. 
-
-Houses the Hall of Stories, a place where the memories of many Dunmari are kept in a magical vista where they can be reached and visited again.
-%%
+Entering the room, the sense of vastness is notable -- the high ceilings and carefully designed windows let light stream into the room, and yet keep the ceiling in shadow, giving a feeling of an endless expanse above. Throughout the room tall pillars stand, spaced about 10' apart, arching to the ceiling, and absolutely covered in names, many written so small that they are impossible to read.

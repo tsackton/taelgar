@@ -37,7 +37,7 @@ function getDefaultTypeOf(metadata) {
 
     if (metadata.typeOf) return metadata.typeOf;
 
-    if (metadata.tags.length > 0) {
+    if (metadata.tags && metadata.tags.length > 0) {
         let itemTag = metadata.tags.filter(f => f.startsWith("item") || f.startsWith("place")).first()
         if (itemTag) {
             return itemTag.split("/")[0]
@@ -145,6 +145,7 @@ function buildSecondaryHeader(metadata) {
 
 function getSubTypeOf(metadata,type) {
 
+    if (!metadata.tags) return undefined
     let subTypeBase = metadata.subTypeOf
     if (!subTypeBase && metadata.tags.length > 0) {
         let itemTag = metadata.tags.filter(f => f.startsWith("item/") || f.startsWith("place/"))

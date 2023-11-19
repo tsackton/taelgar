@@ -30,7 +30,7 @@ The largest and most prosperous realm on the [[Western Gulf]] of the [[Green Sea
     
 -   Close relationship with lizardfolk, who have played an outsized role in Sembara’s history and establishment of [[House of Sewick]].
     
--   Elves very rare in Sembara, with little direct political contacts; largest Elven settlement nearby is the semi-mythical kingdom of Orenlas in the forests surrounding a supposedly enchanted lake south/southeast of Tyrwingha in the Cymea foothills.
+-   Elves very rare in Sembara, with little direct political contacts; largest Elven settlement nearby is the semi-mythical kingdom of [[Orenlas]] in the forests surrounding a supposedly enchanted lake south/southeast of Tyrwingha in the Cymea foothills.
     
 -   Stoneborn are also very rare in Sembara; mostly in the high peaks north of Ulrich devastation; more common in Northlands than elsewhere, coming from the [[Vostok]] highlands
 %%

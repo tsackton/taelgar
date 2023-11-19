@@ -69,7 +69,7 @@
             "whereaboutsHome": "Occurring in: <loc>",
             "whereaboutsPastHome": "Happened in: <loc>",
             "pageCurrent": "<start> <startDate> (<length> years ago)",
-            "pagePastWithStart": "happened <startDate> - <endDate>, ended after <length> years",
+            "pagePastWithStart": "<startDate> - <endDate>, lasted <length> years",
             "pagePast": "<end> <endDate>",
             "partOf": "part of <loc:1>"
         },
