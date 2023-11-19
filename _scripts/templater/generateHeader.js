@@ -160,9 +160,15 @@ function buildPartOfHeader(metadata, displayData) {
 
     const { LocationManager } = customJS
     const { NameManager } = customJS
+
     if (metadata.partOf) {
 
         let typeOf = metadata.typeOf ?? metadata.species ?? metadata.subspecies ?? getSubTypeOf(metadata) ?? getDefaultTypeOf(metadata)
+       
+        if (typeOf == undefined) { 
+            typeOf = "UNKNOWN TYPEOF"
+        }
+        
         let firstChar = typeOf.length == 0 ? '' : typeOf[0]
         let article = "a"
         if (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u') article = "an"

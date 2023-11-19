@@ -105,9 +105,9 @@ class LocationManager {
         // we can't keep going, because this piece doesn't exist
         if (!file) {
             // lets see if we have a match to our capital letter check
-            let match = new RegExp("([A-Z]{1})").exec(nameSection)
-            if (match && match.index > 0) {
-                return nameSection.substring(0, match.index) + " " + this.#getLocationFromPartOfs(nameSection.substring(match.index), targeDate, thisDepth, maxDepth, linkType, casing)
+            let match = new RegExp("[A-Z]{1}").exec(locationPiece)
+            if (match && match.index > 0) {                
+                return locationPiece.substring(0, match.index) + " " + this.#getLocationFromPartOfs(locationPiece.substring(match.index), targeDate, thisDepth, maxDepth, linkType, casing)
             }
 
             return nameSection

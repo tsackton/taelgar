@@ -1,11 +1,14 @@
 ---
-tags: [organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+tags: [organization/army]
 campaignInfo: []
+displayDefaults: {partOf: "part of <loc:1>", secondaryInfo: ""}
 name: Army of the West
-placeType:
-partOf:
+typeOf: army
+partOf: Sembaran Army
 ---
+# The Army of the West
+>[!info]+ Information
+> Part of the [[Sembaran Army]]
 
 The Army of the West numbers 4,000 soldiers, divided into a North Watch, Center Watch, and South Watch. The South Watch is the largest at 1,600 soldiers; the North and Center Watches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by [[General Isabeau Lemoine]], and each watch is commanded by a colonel, and each regiment by a major.
 
@@ -23,7 +26,7 @@ The Enst Regiment is responsible for the garrisons along the river, as well as a
 * The River Garrison, commanded by [[Captain Élodie Dubois]]
 * The First, Second, and Fourth Companies
 
-The Dunfry Regiment is responsible for the southern wall, and is commanded by [[Major Symone Barbet]]. The Dunfry Regiment is divided into 4 garrisons and 4 companies:
+The Dunfry Regiment is responsible for the southern wall, and is commanded by [[Symone Barbet|Major Symone Barbet]]. The Dunfry Regiment is divided into 4 garrisons and 4 companies:
 * The Dunfry Garrison, which guards the city of Dunfry itself
 * The Dawn Watch Garrison, which guards the wall
 * The Noon Watch Garrison, which guards the wall

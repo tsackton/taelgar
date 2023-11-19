@@ -1,14 +1,8 @@
 ---
-tags:
-  - status/stub
-  - organization
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: disbanded
-  endStatus: disbanded
+tagss: [status/needswork, organization]
+displayDefaults: { definitiveArticle: "" }
 campaignInfo: 
-name: 
+name: The Rangers
 orgType: army
 ---
 

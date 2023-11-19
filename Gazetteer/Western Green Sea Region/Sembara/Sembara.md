@@ -4,10 +4,12 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Sembara
 placeType:
-partOf: The Western Green Sea Region
+partOf: Western Green Sea Region
 cultureDescriptor: Sembaran
 ---
 # Sembara
+>[!info]+ Information
+> A place in the [[Western Green Sea Region]]
 
 ![[sembara-1750-updated.png]]
 
