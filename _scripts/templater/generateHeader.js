@@ -56,7 +56,8 @@ function buildTypeHeader(metadata, displayDefaults) {
     let species = NameManager.getName(metadata.species, "exists", "lower");
     let subspecies = NameManager.getName(metadata.subspecies, "exists", "lower");
     let rarity = NameManager.getName(metadata.rarity, "exists", "lower");
-    let type = NameManager.getName(metadata.typeOf, "exists", "lower") ?? getDefaultTypeOf(metadata);
+    let actualType = NameManager.getName(metadata.typeOf, "exists", "lower");
+    let type = actualType ?? getDefaultTypeOf(metadata);
     let subType = NameManager.getName(getSubTypeOf(metadata,type), "exists", "lower");
     let pronouns = get_Pronouns(metadata)
     let ancestry = NameManager.getName(metadata.ancestry, "exists", "preserve");
@@ -72,7 +73,7 @@ function buildTypeHeader(metadata, displayDefaults) {
         .replace("<subtypeof>", subType ?? "")
         .replace("<species>", species ?? "")
         .replace("<subspecies>", subspecies ?? "")
-        .replace("<mainType>", subspecies ?? species ?? type ?? subType ?? getDefaultTypeOf(metadata) ?? "")
+        .replace("<mainType>", subspecies ?? species ?? actualType ?? subType ?? getDefaultTypeOf(metadata) ?? "")
 
     // remove interior spaces and trailing/leading commas
     initialTypeLine = (initialTypeLine.split(' ').map(f => f.trim()).filter(f => f.length > 0).join(' ')).trim()
