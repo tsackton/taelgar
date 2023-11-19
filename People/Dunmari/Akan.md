@@ -1,6 +1,5 @@
 ---
 tags: [status/uptodate, person, dufr/met, dufr/minor]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Akan
 born: 1693
@@ -10,13 +9,11 @@ gender: male
 whereabouts:
 - {type: home, start: 1693-01-02, end: '', location: 'area north and east of Karawa, Eastern Dunmar'}
 ---
-
 # Akan
->[!info]+ Biographical Summary
->[[Humans|human]] (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, typical of the Dunmari in the eastern region of the country. 
 

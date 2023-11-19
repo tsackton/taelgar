@@ -8,16 +8,14 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: 'Hara river valley, Central Dunmar'}
-- {type: home, start: 1710-01-02, end: '', location: 'Akela Inn, Central Dunmar'}
+- {type: home, start: '', end: '', location: 'Hara River Valley, Central Dunmar'}
+- {type: home, start: 1710-01-02, end: '', location: 'Akela Inn'}
 ---
 # Amar
->[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Hara river valley, [[Central Dunmar]]
->> Based in: [[Akela Inn]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 >Location (updated November 15, 1748): [[Akela Inn]], [[Central Dunmar]]
 
