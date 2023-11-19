@@ -17,6 +17,6 @@
 
 *In our song, there is quiet for a time, for all time, for no time. The Great Enemy roars and empires fall, and yet not all is destroyed. The scepter lives, in quiet, in silence.*
 
-*Until another shattered melody starts, has started, will start, the broken songs of *
+*Until another shattered melody starts, has started, will start, the broken songs of those yearning for madness. *
 
 %%
