@@ -8,15 +8,14 @@ species: human
 ancestry: Dunmari
 gender: male
 affiliations: [Lakan mystai]
-whereabouts:
-- {type: home, start: 1705-01-02, end: '', location: 'Lakan Monastery, Central Dunmar'}
+whereabouts: Lakan Monastery
 ---
 # Basu
->[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Lakan Monastery]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> Member of: [[Lakan Mystai]]
 
 The grumpy craftsman of the Lakan monks, known for creating magic items that channel extradimensional space, like bags of holding and portable holes. 
 

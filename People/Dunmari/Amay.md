@@ -8,13 +8,12 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: away, start: 1748-11-15, end: '', location: 'Tokra, Central Dunmar'}
+- {type: away, start: 1748-11-15, end: '', location: 'Tokra'}
 ---
 # Amay
->[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A captain in the Dunmari army camped near [[Tokra]], in service of [[Illyan]] and ultimately the Samraat [[Nayan Karnas]]. 
 
