@@ -1,4 +1,12 @@
-### The Ring of Undying
+---
+tags: [item/magical]
+typeOf: ring
+whereabouts: Grash
+---
+# The Ring of Undying
+>[!info]+ Information
+> (magical ring)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A ring, worn by [[Grash]], that supposedly lets one cheat death forever, and control death around you. 
 

@@ -1,12 +1,12 @@
 ---
 displayDefaults: {definitiveArticle: ""}
-tags: [item, status/notes]
+tags: [item/magical, status/notes]
 aliases: [Phasing Stone]
 typeOf: stone
 ---
 # Phasing Stones
->[!info]+ Item Info
->(magical stone)
+>[!info]+ Information
+> (magical stone)
 
 Phasing stones are ancient fragments of magical energy that power the reality-twisting constructions of the giants. 
 

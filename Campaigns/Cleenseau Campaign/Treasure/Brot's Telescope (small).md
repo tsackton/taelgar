@@ -1,19 +1,18 @@
 ---
-tags: [item]
+tags: [item/mundane, item/equipment]
 name: Brot's Telescope (small)
-created: 1719
-maker: Brot Starsearcher
-owner: Izgil Moonseeker
-mundane: true
+created: 1719-10-01
 rarity: unique
 typeOf: telescope
+whereabouts:
+- {type: home, location: Brot Starsearcher}
+- {type: home, location: Izgil Moonseeker}
 ---
-# Brot's Telescope (small)
->[!info]+ Item Info
->(unique mundane telescope)
-> Owner: [[Izgil Moonseeker]]
-> Maker: [[Brot Starsearcher]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+# The Brot's Telescope (small)
+>[!info]+ Information
+> (unique mundane telescope)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A clever spyglass that [[Brot Starsearcher]] gave to [[Izgil Moonseeker|Izgil]] after he promised to seek funding for Brot's large telescope project.
 
