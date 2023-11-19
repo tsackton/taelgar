@@ -39,7 +39,7 @@ Delwath travels through the northern forest with Zevi, a young Deno'qai boy, arr
 
 Delwath spends the day in the Ko'zula village hearing and telling stories of [[Yezali]] and the Silent Ones.
 
-Delwath spends the day in the Ko'zula village hearing and telling stories, and gathering supplies for the journey to the Forest of Nightmares
+Delwath spends the day in the Ko'zula village hearing and telling stories, and gathering supplies for the journey to the [[Forest of Nightmares]]
 
 Delwath leaves for another hunting camp with a Ko'zula guide.
 

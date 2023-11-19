@@ -307,7 +307,7 @@ The downfall of Hkar was a massive disaster. A continent sized place sank, and t
 
 Among non-human cultures:
 
-- The great elven kingdoms are gone, save for some remnants of the ancient forests in the ~Irebor River Valley~ and south and east of the Mostreve HIlls. Most elves who survive the downfall retreated the western forests, or the remnants of Alcarinquë near the [[Green Sea]], now called Orenlas (loosely, “dawn leaves”). 
+- The great elven kingdoms are gone, save for some remnants of the ancient forests in the ~Irebor River Valley~ and south and east of the Mostreve HIlls. Most elves who survive the downfall retreated the western forests, or the remnants of Alcarinquë near the [[Green Sea]], now called [[Orenlas]] (loosely, “dawn leaves”). 
     
 - The lizardfolk scatter, some staying in the remnants of the great swamps of the prior age, others finding new refuges in the changed world, and many leaving on a great migration to find a new homeland to the south. 
     

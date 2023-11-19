@@ -4,7 +4,7 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Dwarven Kingdoms
 placeType:
-partOf:
+partOf: Sentinel Range
 ---
 
 The Dwarven kingdoms of the [[Sentinel Range]] have a long, deep history. Once, all the land under the mountains was part of the great Dwarven empire, stretching from the southern end of the mountains to the  far north. The heart of this empire was in the area that, in the current day, is just south of the devastation around the ancient [[Urlich Pass]]. 
