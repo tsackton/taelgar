@@ -6,7 +6,6 @@ campaignInfo:
 name: Aurelia
 born: 1703
 species: centaur
-ancestry:
 gender: female
 whereabouts:
 - {type: home, start: '', end: '', location: unknown}

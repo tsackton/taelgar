@@ -1,7 +1,11 @@
 ---
 tags: [organization/family, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+displayDefaults: {definitiveArticle: "the"}
 campaignInfo: []
-name: The Stonebridges
+name: Stonebridges
+typeOf: family
 ---
 # The Stonebridges
+
+
+

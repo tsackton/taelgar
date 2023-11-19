@@ -117,6 +117,11 @@
             "isAlias": true
         },
         {
+            "from": "green dragon",
+            "to": "dragons",
+            "isAlias": true
+        },
+        {
             "from": "clee",
             "to": "Heroes of Cleenseau"
         },
