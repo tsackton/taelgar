@@ -8,15 +8,14 @@ species: human
 ancestry: Dunmari
 gender: female
 affiliations: [Shakun mystai]
-whereabouts:
-- {type: home, start: 1720-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
+whereabouts: Karawa
 ---
 # Beli
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Dunmar|Dunmari]]), she/her
-> Member of: [[Shakun Mystai]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> [[Dunmar|Dunmari]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> Member of: The [[Shakun Mystai]]
 
 An initiate of the [[Shakun Mystai]], a young woman skilled in healing and midwifery, with a hint of divine magic about her.
 

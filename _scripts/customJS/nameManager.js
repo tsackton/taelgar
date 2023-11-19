@@ -21,11 +21,11 @@ class NameManager {
 
         let tags = metadata.tags ?? [];
 
-        if (metadata.DR || metadata.DR_end || metadata.CY || metadata.CY_end) return "event"
-        else if (tags.some(f => f.startsWith("person"))) return "person"
+        if (tags.some(f => f.startsWith("person"))) return "person"
         else if (metadata.location || tags.some(f => f.startsWith("place"))) return "place"
         else if (tags.some(f => f.startsWith("organization"))) return "organization"
         else if (tags.some(f => f.startsWith("item"))) return "item"
+        else if (metadata.DR || metadata.DR_end || metadata.CY || metadata.CY_end ) return "event"
 
         return "unknown"
     }

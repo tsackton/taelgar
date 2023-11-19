@@ -14,12 +14,11 @@ whereabouts:
 - {type: away, start: 1749-01-01, end: '', location: 'Pava and Avaras'' House, Nashtkar'}
 ---
 # Avaras
->[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Karawa]], [[Eastern Dunmar]]
->> Based in: [[Pava and Avaras' House]], [[Garamjala Desert]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> Member of: [[Order of the Awakened Soul]]
 
 Avaras is one of the few remaining masters of the [[Order of the Awakened Soul]]. He is an older man, with close cropped gray hair and lined, weathered skin. He lives in the [[Garamjala Desert]] with his partner [[Pava]] and apprentice [[Amil]], leading an isolated existence, concerned with [[Pava]] and with what is left of the Order's mission. 
 %%SECERT 

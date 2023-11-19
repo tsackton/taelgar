@@ -8,15 +8,14 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Karawa, Eastern Dunmar'}
-- {type: away, start: 1748-12-26, end: '', location: 'Sura''s army camp, Central Dunmar'}
+- {type: home, start: '', end: '', location: 'Karawa'}
+- {type: away, start: 1748-12-26, end: '', location: Central Dunmar}
 ---
 # Alesh
->[!info]+ Biographical Summary
->[[Humans|human]] (Dunmari), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> [[Dunmar|Dunmari]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
 
