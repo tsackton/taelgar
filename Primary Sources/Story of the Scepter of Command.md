@@ -5,7 +5,7 @@
 %% WIP
 (A translation note: English does not have a good way to translate the "past/current/future" tense that is common in halfling stories. I have done the best I can.)
 
-*It began at an inn in a small village in the desert; it began in the hands of a madman; it began in the  heart of an evil king. It began with a burning need for revenge, with the shame of the good-heart fool, with the fear and pain of a mother. In began with demons, and devils, and gods, and the prayers of humans.*
+*It began at an inn in a small village in the desert; it begins in the hands of a madman; it will begin in the  heart of an evil king. It began with a burning need for revenge, with the shame of the good-heart fool, with the fear and pain of a mother. In begins with demons, and devils, and gods, and the prayers of humans.*
 
 *It is a story of generations, of echos, of the wanderer Wellby whose song burned bright, burns bright, will burn bright, of his companions who travel, traveled, will travel with him, of the people and places and hearts they touched, will touch, have touched.*
 
@@ -15,6 +15,8 @@
 
 *The scepter sings, oh it sings, its violent harmonies ripping consent from all who hear it. You will, you did, you become. You must, it sings, and none can silence the song it shouts from Apollyon's hand. Except the Great Enemy, the Bringer of Silence, the Breaker of Songs. But that bleak harmony is not this song. 
 
-*In our song, there is quiet for a time, for all time, for no time. The Great Enemy roars and empires fall, and yet not all is destroyed*
+*In our song, there is quiet for a time, for all time, for no time. The Great Enemy roars and empires fall, and yet not all is destroyed. The scepter lives, in quiet, in silence.*
+
+*Until another shattered melody starts, has started, will start, the broken songs of *
 
 %%
