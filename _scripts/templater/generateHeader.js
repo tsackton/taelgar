@@ -56,8 +56,8 @@ function buildTypeHeader(metadata, displayDefaults) {
     let species = NameManager.getName(metadata.species, "exists", "lower");
     let subspecies = NameManager.getName(metadata.subspecies, "exists", "lower");
     let rarity = NameManager.getName(metadata.rarity, "exists", "lower");
-    let type = NameManager.getName(metadata.typeOf, "exists", "lower");
-    let subType = NameManager.getName(getSubTypeOf(metadata), "exists", "lower");
+    let type = NameManager.getName(metadata.typeOf, "exists", "lower") ?? getDefaultTypeOf(metadata);
+    let subType = NameManager.getName(getSubTypeOf(metadata,type), "exists", "lower");
     let pronouns = get_Pronouns(metadata)
     let ancestry = NameManager.getName(metadata.ancestry, "exists", "preserve");
     let population = get_Population(metadata)
@@ -68,7 +68,7 @@ function buildTypeHeader(metadata, displayDefaults) {
         .replace("<pronouns>", pronouns ?? "")
         .replace("<population>", population ?? "")
         .replace("<ancestry>", ancestry ?? "")
-        .replace("<typeof>", type ?? getDefaultTypeOf(metadata) ?? "")
+        .replace("<typeof>", type ?? "")
         .replace("<subtypeof>", subType ?? "")
         .replace("<species>", species ?? "")
         .replace("<subspecies>", subspecies ?? "")
@@ -142,14 +142,22 @@ function buildSecondaryHeader(metadata) {
     return undefined
 }
 
-function getSubTypeOf(metadata) {
+function getSubTypeOf(metadata,type) {
 
     let subTypeBase = metadata.subTypeOf
     if (!subTypeBase && metadata.tags.length > 0) {
-        let itemTag = metadata.tags.filter(f => f.startsWith("item/") || f.startsWith("place/")).first()
+        let itemTag = metadata.tags.filter(f => f.startsWith("item/") || f.startsWith("place/"))
         if (itemTag) {
-            let splittag = itemTag.split('/')
-            subTypeBase = splittag[1]
+            for (let tag of itemTag) {
+                if (tag.endsWith(type)) {
+                    continue
+                }
+                else {
+                    let splittag = tag.split('/')
+                    subTypeBase = splittag[1]
+                    return subTypeBase
+                }
+            }
         }
     }
 

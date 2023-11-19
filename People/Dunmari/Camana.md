@@ -19,8 +19,6 @@ affiliations:
   - Havdar's Warband
 whereabouts:
   - type: home
-    start: 1721-01-02
-    end: ""
     location: Eastern Dunmar
   - type: away
     start: 1748-05-01
