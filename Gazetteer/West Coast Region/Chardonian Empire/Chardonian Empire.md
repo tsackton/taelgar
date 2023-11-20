@@ -9,8 +9,8 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 name: Chardonian Empire
-placeType: 
-partOf: 
+typeOf: realm 
+partOf: West Coast Region
 cultureDescriptor: Chardonian
 ---
 # The Chardonian Empire

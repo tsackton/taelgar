@@ -1,8 +1,13 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
 typeOf: realm
+ancestry: fey
 partOf: Feywild
 ---
+# Dreamhaven
+>[!info]+ Information
+> A [[Fey|fey]] realm in the [[Feywild]], the [[Echo Realms]]
 
 # Dreamhaven
 

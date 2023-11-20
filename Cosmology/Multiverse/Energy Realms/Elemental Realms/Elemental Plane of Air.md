@@ -1,7 +1,13 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
 partOf: Elemental Realms
+typeOf: plane
 ---
+# The Elemental Plane of Air
+>[!info]+ Information
+> A plane in the [[Elemental Realms]], [[Energy Realms]]
+
 
 # Plane of Air
 

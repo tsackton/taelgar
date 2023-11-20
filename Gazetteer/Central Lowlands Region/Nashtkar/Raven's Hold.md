@@ -1,11 +1,16 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {definitiveArticle: ""}
 campaignInfo: []
 name: Raven's Hold
-placeType:
-partOf:
+ancestry: ruined
+typeOf: fort
+partOf: Sentinel Range
 ---
+# Raven's Hold
+>[!info]+ Information
+> A ruined fort in the [[Sentinel Range]], [[Central Highlands Region]]
 
 An old Dunmari fort in the mountains. Captured by hobgoblins and used as a base of operations for the [[Blackened Claw]] hobgoblins during the [[Second Hobgoblin War]]. 
 

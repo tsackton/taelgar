@@ -2,6 +2,6 @@
 tags: [place]
 campaignInfo: 
 name: Western Green Sea Region
-partOf:
+partOf: Taelgar
 typeOf: region
 ---

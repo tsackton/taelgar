@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.20
-tags: [place]
+tags: [place/plane]
 partOf: Elemental Realms
 aliases: [Plane of Fire]
-type: plane
+typeOf: plane
 ---
 # The Elemental Plane of Fire
 >[!info]+ Information
-> A place in the [[Elemental Realms]]
+> A plane in the [[Elemental Realms]], [[Energy Realms]]
 
 The Elemental Plane of Fire, one of the outer planes associated with the [[Plane of Magic]].
 
