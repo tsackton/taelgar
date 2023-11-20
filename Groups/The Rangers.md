@@ -1,9 +1,9 @@
 ---
-tagss: [status/needswork, organization]
+tags: [status/needswork, organization]
 displayDefaults: { definitiveArticle: "" }
 campaignInfo: 
 name: The Rangers
-orgType: army
+typeOf: army
 ---
 
 # The Rangers

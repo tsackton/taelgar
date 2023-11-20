@@ -1,4 +1,14 @@
-### The Runes of Creation
+---
+headerVersion: 2023.11.20
+tags: [item/book]
+typeOf: book
+whereabouts: Seeker
+displayDefaults: { definitiveArticle: "" }
+---
+# The Runes of Creation
+>[!info]+ Information
+> (book)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A seemingly empty book. Found by a Dunmari citizen of [[Karawa]]. This man often scavenged for sellable loot in the desert. He had found three books some time ago, two filled with strange writing and one blank, and had sold the ones with writing to [[Servius]], a Chardonian who worked for some library in [[Chardon]]. He found them on an [[Orcs|orc]], an ancient individual, with wrinkled skin, dried out almost like leather, who carried nothing but a ripped pouch and these three books. 
 

@@ -1,1 +1,4 @@
+---
+tags: [organization]
+---
 (stub)
