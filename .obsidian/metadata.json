@@ -37,7 +37,7 @@
             "pageCurrent": "<start> <startDate> (<length> years ago)",
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end> <endDate>",
-            "partOf": "<article> <typeof> in <loc:10>",
+            "partOf": "<article> <ancestry> <typeof> in <loc:10>",
             "secondaryInfo": "<population>"
         },
         "item": {
