@@ -41,7 +41,10 @@ Not yet implemented, but planned:
 The `taelgar_utils.py` script has some preliminary functionality for cleaning yaml frontmatter, but it is currently quite out of date with respect to the current frontmatter spec and shouldn't be used. The goal is to allow a fast way to reformat yaml, remove non-required blank lines, update frontmatter, and other tools; mostly a check for if we change anything going forward. 
 
 **Mass Replace**:
-Tools to do find a specific phrase in all notes and replace with a different phrase. Designed for things like cleaning up broken links
+Tools to do find a specific phrase in all notes and replace with a different phrase. Designed for things like cleaning up broken links.
 
 **Doc Import/Export**:
 Using pandocs or other functionality, export specific pages as word documents for e.g. posting on Google Drive, or even directly posting on Google Drive. Ideally would also implement an import function, to generate a diff for updating markdown with external changes. 
+
+**Incorporate HTML generation**:
+Ultimately, would be ideal to incorporate html generation directly, or at least incorporate markdown cleanup directly. That is a bigger project. 
