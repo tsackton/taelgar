@@ -6,13 +6,13 @@ campaignInfo: []
 name: Ardith
 typeOf: realm
 ancestry: dwarven
-partOf: Sentinel Range
+partOf: Labkhan
 destroyed: 1545
 ---
 # Ardith
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> A [[Dwarves|dwarven]] realm in the [[Sentinel Range]], [[Central Highlands Region]]
+> A [[Dwarves|dwarven]] realm in [[Sentinel Range|Labkhan]], [[Central Highlands Region]]
 
 The dwarven kingdom of Ardith, once rich and prosperous and spreading from was overrun in the [[Great War]]. Most of the [[dwarves]] who survived settled in the [[Yuvanti Mountains]], founding the new kingdom of [[Nardith]].
 
