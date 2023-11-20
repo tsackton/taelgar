@@ -1,10 +1,10 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Chasa
-placeType: river
+typeOf: river
 partOf: 
+aliases: [River Chasa, Chasa River]
 ---
 # Chasa
 >[!info]+ Summary

@@ -1,1 +1,0 @@
-<%* tp.user.updateFrontmatter(tp, false, undefined) %>

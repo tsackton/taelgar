@@ -1,13 +1,14 @@
 ---
+headerVersion: 2023.11.20
 tags: [clee/unsorted, person, dufr/unaware]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
 name: Arnold the Miller
 born:
-species:
-ancestry:
-gender:
+species: human
+ancestry: Sembaran
+gender: male
 ---
-### Arnold the Miller
+# Arnold the Miller
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], he/him
 
 The miller in [[Asineau]]. Overweight, and with a disgreeable personality and slovenly appearance. Hates lizardfolk.

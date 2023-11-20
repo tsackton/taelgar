@@ -3,7 +3,7 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ""}
 campaignInfo: []
 name: Lake Valandros
-placeType:
+typeOf: lake
 partOf:
 ---
 # Lake Valandros

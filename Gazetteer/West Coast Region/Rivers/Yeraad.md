@@ -13,3 +13,5 @@ partOf: Mawar Confederacy
 
 The wide, winding river that flows from the hills of the [[Elderwood]] across the floodplains to the Emerald Bay. 
 
+%% Is this really in Mawar? If so, isn't the text wrong - check map %%
+

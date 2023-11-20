@@ -9,7 +9,7 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 name: 
-placeType: forest
+typeOf: forest
 partOf: Ainumarya
 ---
 # The Crimson Forest
