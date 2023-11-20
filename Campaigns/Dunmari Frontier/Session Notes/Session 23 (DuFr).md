@@ -30,6 +30,6 @@ After that, the party leaves the [[Hall of Stories]] to explore the tower itself
 
 The party passes quickly through the fourth floor -- a council chamber -- to the fifth floor, which seems to be the private chambers of the master. Here, they find the ghost of [[Karmana]], the last master of the [[Bhishma]] Mystai at this monastery. He is skeptical of them at first, but comes around especially once he realizes that [[Kenzo]] has gone through the initiation rites. 
 
-From [[Karmana]], the party learns that darkness started growing in the land 30 years ago, after the attempt to close the portal failed. He has trouble remembering or even thinking about anything beyond the safety of the tower, and protecting the [[Hall of Stories]], which is his sole purpose now. He does say, however, that maybe nine months ago, or perhaps a year, something changed, a wave of darkness like a shadow ocean washed across the tower, presumably when [[Grash]] arrived. 
+From [[Karmana]], the party learns that darkness started growing in the land 30 years ago, after the attempt to close the portal failed. He has trouble remembering or even thinking about anything beyond the safety of the tower, and protecting the [[Hall of Stories]], which is his sole purpose now. He does say, however, that maybe nine months ago, or perhaps a year, something changed, a wave of darkness like a shadow ocean washed across the tower, presumably when [[People/Other Nonhumans/Grash]] arrived. 
 
 As the sun nears the horizon and darkness and night approaches, the party leaves the tower.

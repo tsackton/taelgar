@@ -1,5 +1,7 @@
 ---
-tags: [place, status/stub]
+tags:
+  - place
+  - status/notes
 name: Urlich Pass
 typeOf: pass
 partOf: Sentinel Range

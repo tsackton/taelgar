@@ -1,6 +1,8 @@
 ---
-tags: [place, status/stub]
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+campaignInfo: 
 name: Dallet
 typeOf: village
 partOf: Barony of Aveil

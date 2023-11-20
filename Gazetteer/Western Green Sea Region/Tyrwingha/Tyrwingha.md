@@ -1,10 +1,15 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Tyrwingha
-placeType:
-partOf: The Western Green Sea Region
+placeType: 
+partOf: Western Green Sea Region
 cultureDescriptor: Tyrwinghan
 ---
 # Tyrwingha

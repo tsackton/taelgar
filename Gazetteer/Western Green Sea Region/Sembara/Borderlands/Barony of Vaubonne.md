@@ -1,6 +1,8 @@
 ---
-tags: [place, status/stub]
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+campaignInfo: 
 name: Barony of Vaubonne
 typeOf: barony
 partOf: Sembara

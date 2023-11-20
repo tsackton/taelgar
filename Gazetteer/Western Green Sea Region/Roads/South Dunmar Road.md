@@ -1,9 +1,15 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/notes
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: South Dunmar Road
-placeType:
+placeType: 
 partOf:
 ---
 %%  branches from the Dunmar Road just south of the Aursen River %%

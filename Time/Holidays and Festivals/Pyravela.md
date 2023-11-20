@@ -1,5 +1,5 @@
 ---
-tags: [status/wip, holiday]
+tags: [status/draft, holiday]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Pyravela

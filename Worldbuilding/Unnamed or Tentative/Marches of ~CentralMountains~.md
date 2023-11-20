@@ -1,6 +1,5 @@
 ---
-tags:
-- status/stub
+tags: []
 ---
 
 %% WM4 on some maps %%

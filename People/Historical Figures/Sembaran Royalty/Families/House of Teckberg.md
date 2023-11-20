@@ -1,4 +1,6 @@
 ---
-tags: [organization, status/stub]
+tags:
+  - organization
+  - status/stub
 orgType: family
 ---

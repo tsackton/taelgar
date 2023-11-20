@@ -3,7 +3,7 @@ tags:
   - pc/companion
   - pc
   - person
-  - status/stub
+  - status/notes
 displayDefaults:
   startStatus: born
   startPrefix: b.

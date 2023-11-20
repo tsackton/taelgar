@@ -4,9 +4,10 @@ tags:
   - person
   - historical
   - dufr/aware
-  - status/stub
+  - status/uptodate
 displayDefaults:
-  affiliationTypeOf: [ thuhr clan ]
+  affiliationTypeOf:
+    - thuhr clan
 campaignInfo: 
 name: Daruk
 born: 1323

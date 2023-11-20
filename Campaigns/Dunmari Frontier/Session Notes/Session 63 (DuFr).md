@@ -29,12 +29,12 @@ End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormca
 #### Commune
 | Question                                                                 | Answer      | Date        |
 | :------------------------------------------------------------------------ | :----------- | :----------- |
-| Will [[Kadmos]] help [[Grash]]?                                          | **YES**     | 20 Nov 1748 |
-| Will [[Kadmos]] steal from [[Grash]]?                                    | **NO**      | 20 Nov 1748 |
+| Will [[Kadmos]] help [[People/Other Nonhumans/Grash]]?                                          | **YES**     | 20 Nov 1748 |
+| Will [[Kadmos]] steal from [[People/Other Nonhumans/Grash]]?                                    | **NO**      | 20 Nov 1748 |
 | Is [[Kadmos]] heading for us?                                            | **NO**      | 20 Nov 1748 |
-| Is [[Grash]] working for [[Fausto]]?                                     | **NO**      | 21 Nov 1748 |
-| Is [[Fausto]] working for [[Grash]]?                                     | **NO**      | 21 Nov 1748 |
-| Are [[Grash]] and [[Fausto]] working for [[Apollyon|Apollyon]]? | **YES**     | 21 Nov 1748 |
+| Is [[People/Other Nonhumans/Grash]] working for [[Fausto]]?                                     | **NO**      | 21 Nov 1748 |
+| Is [[Fausto]] working for [[People/Other Nonhumans/Grash]]?                                     | **NO**      | 21 Nov 1748 |
+| Are [[People/Other Nonhumans/Grash]] and [[Fausto]] working for [[Apollyon|Apollyon]]? | **YES**     | 21 Nov 1748 |
 | Can a person be restored after being Cleasned?                           | **UNCLEAR** | 22 Nov 1748 |
 | Are we being hunted by enslaved monsters of [[Fausto]]'s?                | **YES**     | 22 Nov 1748 |
 | Are they within a week of us?                                            | **NO**      | 22 Nov 1748 |

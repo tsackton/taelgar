@@ -1,12 +1,23 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Enst
-placeType:
-partOf:
-aliases: [Enst]
+typeOf: river
+partOf: Sembara
+aliases:
+  - Enst
 ---
+# Enst
+>[!info]+ Information
+> A river in [[Sembara]], the [[Western Green Sea Region]]
+
 
 
 

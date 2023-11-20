@@ -1,13 +1,22 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Ozabal
-placeType:
-partOf: 
-aliases: Ozabal Swamp
+typeOf: swamp
+partOf: Western Green Sea
+aliases:
+  - Ozabal Swamp
 ---
 # Ozabal
+>[!info]+ Information
+> A swamp in the [[Western Green Sea]], the [[Green Sea]]
 
 A large area of swampy lowlands centered around the confluence of the [[Wistel]] and the [[Enst]], which is home to a substantial [[lizardfolk]] population. 
 

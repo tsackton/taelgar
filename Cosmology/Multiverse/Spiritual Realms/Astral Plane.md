@@ -1,6 +1,6 @@
 ---
 tags:
-- status/stub
+- status/notes
 ---
 
 # Astral Plane

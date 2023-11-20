@@ -1,7 +1,7 @@
 ---
 tags:
-  - status/stub
   - organization
+  - status/notes
 displayDefaults:
   startStatus: founded
   startPrefix: founded

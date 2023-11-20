@@ -6,7 +6,7 @@ whereabouts: Candrosa
 ---
 # The Dreamweaver Staff
 >[!info]+ Information
-> (unique staff)
+> (unique magical staff)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The staff that [[Candrosa]] carries, which allows him to project visions into dreams and also transport willing subjects to the [[Dreamworld]]. 

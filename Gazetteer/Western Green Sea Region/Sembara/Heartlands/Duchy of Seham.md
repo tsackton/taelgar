@@ -1,8 +1,13 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+campaignInfo: 
 name: Duchy of Seham
-placeType:
-partOf:
+typOf: duchy
+partOf: Sembara
 ---
+# The Duchy of Seham
+>[!info]+ Information
+> A place in [[Sembara]], the [[Western Green Sea Region]]
+

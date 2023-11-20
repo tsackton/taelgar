@@ -1,8 +1,8 @@
 ---
 tags:
-  - status/stub
   - person
   - dufr/aware
+  - status/stub
 displayDefaults:
   startStatus: born
   startPrefix: b.

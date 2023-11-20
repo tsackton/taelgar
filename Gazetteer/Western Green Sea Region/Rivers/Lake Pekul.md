@@ -1,11 +1,15 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+displayDefaults:
+  definitiveArticle: ""
+  partOf: <article> <ancestry> <typeof> on the <loc:10>
+campaignInfo: 
 name: Lake Pekul
-placeType:
-partOf:
+typeOf: lake
+partOf: Kem
 ---
-
 # Lake Pekul
-A lake on the [[Kem]] in northern [[Vostok]]
+>[!info]+ Information
+> A  lake on the [[Kem]], [[Vostok]], the [[Western Green Sea Region]]

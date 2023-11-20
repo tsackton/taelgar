@@ -1,5 +1,7 @@
 ---
-tags: [organization, status/stub]
+tags:
+  - organization
+  - status/notes
 orgType: family
 name: Nayan dynasty
 ---

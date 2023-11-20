@@ -1,5 +1,5 @@
 ---
-tags: [holiday, status/wip]
+tags: [holiday, status/draft]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Festival of the New Dawn

@@ -13,8 +13,8 @@ placeType: forest
 partOf: Ainumarya
 ---
 # The Crimson Forest
->[!info]+ Summary
-> a forest in [[Ainumarya]], [[Central Highlands Region]], [[Taelgar]]
+>[!info]+ Information
+> A place in [[Ainumarya]], [[Central Highlands Region]]
 
 A mostly-uninhabited forest, stretching from [[Lake Valandros]] in the west to the [[Sentinel Range]] in the east, and between the [[Elderwood]] to the south and the [[Forest of Dreams]] to the north. 
 

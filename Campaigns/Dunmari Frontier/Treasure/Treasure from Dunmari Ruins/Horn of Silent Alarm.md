@@ -1,5 +1,7 @@
 ---
-tags: [ item,  status/uptodate ]
+tags:
+  - item
+  - status/refactor
 campaignInfo: 
 name: 
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm
@@ -10,6 +12,10 @@ rarity: common
 >[!info]+ Item Info
 > [(common magical horn)](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)
 
+%%note
+This is a page for a generic item, should refactor so that this is for the item in general not the specific ones the party carries, and then move the party details to party treasure
+%%
+
 The party currently has one of these, apparently a fairly common Dunmari magic item.
 
 One, carried by [[Delwath]], [[Session 45 (DuFr)|was taken]] from [[Justan]], a perhaps-reformed Dunmari bandit, after he and his companions were cruelly murdered by [[Casian|dastardly]] [[Kadmos|Chardonians]].
@@ -19,5 +25,6 @@ A second, once carried by [[Kenzo]], [[Session 3 (DuFr)|was found]] in the ruine
 ![[horn-of-warning-2.png]]
 
 ![[horn-of-warning-1.png]]
+
 
 %%SECRET[1]%%

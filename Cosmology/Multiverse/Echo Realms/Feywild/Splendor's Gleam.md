@@ -1,7 +1,7 @@
 ---
 tags:
-- status/stub
+  - status/stub
 ---
 
-# Splender's Gleam
+# Splendor's Gleam
 
