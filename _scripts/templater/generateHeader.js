@@ -189,6 +189,7 @@ function buildPartOfHeader(metadata, displayData) {
             .replace("<ancestry>", NameManager.getName(metadata.ancestry, "exists", "lower") ?? "")
             .replace("<subtypeof>", NameManager.getName(metadata.subTypeOf, "exists", "preserve") ?? "")
 
+        formatString = (formatString.split(' ').map(f => f.trim()).filter(f => f.length > 0).join(' ')).trim()
         return LocationManager.buildFormattedLocationString(formatString, { location: metadata.partOf }, undefined, "", "", "")
     }
 
