@@ -1,11 +1,15 @@
 ---
+headerVersion: 2023.11.20
 tags: [place, status/draft]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Zarkandur
-placeType:
-partOf:
+typeOf: city
+partOf: Am'khazar
 ---
+# Zarkandur
+>[!info]+ Information
+> A city in [[Am'khazar]], [[Sentinel Range|Labkhan]], [[Central Highlands Region]]
 
 ## Overview 
 
