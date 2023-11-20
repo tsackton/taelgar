@@ -1,20 +1,23 @@
 ---
 tags: [person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: Clee, date: 1719-11-28, type: met}
 name: Quetin
 born:
-species: Human
-ancestry:
-gender:
-title: Messenger
+species: human
+ancestry: Sembaran
+gender: male
 affiliations: [Army of the West]
 whereabouts:
-- {type: home, start: 1719-11-28, end: '', location: 'Cleenseau, Sembara'}
-- {type: home, start: 1719-11-28, end: '', location: 'Dunfry, Sembara'}
-- {type: away, start: 1719-11-30, end: '', location: 'Dunfry, Sembara'}
+- {type: home, location: Dunfry }
+- {type: away, start: 1719-11-28, end: 1719-11-30, location: Cleenseau }
 ---
+# Quetin
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], he/him
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on November 28th, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>> Member of: The [[Army of the West]]
 
 %% Quetin is a messenger and a member of the Army of the West. He arrived from Dunfry in Sembara on November 28th and departed back to Dunfry on November 30th. The party last saw him on November 28th in Cleenseau.
 
