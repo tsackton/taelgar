@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
@@ -9,8 +10,8 @@ pronunciation: air-lee-on
 ---
 # Erelion
 *(air-lee-on)*
->[!info]+ Summary
-> a city in [[Orenlas]], the [[Western Green Sea Region]]
+>[!info]+ Information
+> A city in [[Orenlas]], the [[Western Green Sea Region]]
 
 ## Overview
 

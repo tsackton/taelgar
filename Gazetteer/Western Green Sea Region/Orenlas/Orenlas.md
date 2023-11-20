@@ -1,13 +1,17 @@
 ---
+headerVersion: 2023.11.20
+displayDefaults: {partOf: "A <ancestry> <subtypeof> <typeof> in <loc>"}
 tags: [place, status/uptodate]
 campaignInfo: 
 name: Orenlas
-typeOf: forest
+typeOf: realm
+ancestry: elven
+subTypeOf: forest
 partOf: Western Green Sea Region
 ---
 # Orenlas
 >[!info]+ Information
-> A forest in the [[Western Green Sea Region]]
+> A [[Elves|elven]] forest realm in the [[Western Green Sea Region]]
 
 The elven forest of Orenlas is the last remnant of the ancient forests of [[Alcarinque]], once home to the great elven civilizations of the days of myth. Orenlas is one of the few places in the world where the magic of those days still lingers. Here can still be found the great dreaming trees of the [[elves]], still echoing the song of [[Aldanor]]. 
 

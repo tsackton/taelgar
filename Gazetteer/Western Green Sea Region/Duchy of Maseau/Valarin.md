@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
 name: Valarin
 typeOf: city
