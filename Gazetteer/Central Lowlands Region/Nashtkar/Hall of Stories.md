@@ -1,7 +1,7 @@
 ---
 tags:
   - place/building
-  - status/describe
+  - status/draft
 campaignInfo: 
 name: Hall of Stories
 typeOf: building

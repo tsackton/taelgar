@@ -1,9 +1,9 @@
 ---
 tags:
-  - status/stub
   - pc
   - person
   - pc/guest
+  - status/notes
 displayDefaults:
   startStatus: born
   startPrefix: b.

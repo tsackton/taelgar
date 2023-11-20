@@ -1,5 +1,5 @@
 ---
-tags: [event-source, status/stub]
+tags: [event-source, status/needswork]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Attempted Geas of Elaine I

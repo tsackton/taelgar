@@ -1,7 +1,7 @@
 ---
-tags: [status/stub, organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
-campaignInfo: []
+tags: []
+displayDefaults:
+campaignInfo: 
 name:
 ---
 

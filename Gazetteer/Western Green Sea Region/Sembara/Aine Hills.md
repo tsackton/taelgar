@@ -1,9 +1,14 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+campaignInfo: 
 name: Aine Hills
-placeType:
-partOf:
+typeOf: line of hills
+partOf: Highlands
 ---
+# The Aine Hills
+>[!info]+ Information
+> A line of hills in the [[Highlands]], [[Sembara]], the [[Western Green Sea Region]]
+
 

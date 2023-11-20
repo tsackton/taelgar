@@ -16,7 +16,7 @@ partOf: Garamjala Desert
 > A city in the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
 
 
-Once a major Dunmari city, now a ruin controlled by the undead warrior [[Grash]]. 
+Once a major Dunmari city, now a ruin controlled by the undead warrior [[People/Other Nonhumans/Grash]]. 
 
 Set on the banks of the now-dry river [[Kharja]]. Much of the city, especially the northern sections, are in complete ruins. However, the palace square and the administration complex around it remain standing, as does the old stadium in the southern part of the city. 
 

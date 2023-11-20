@@ -1,14 +1,22 @@
 ---
-tags: [pc/greatwar, status/stub, pc, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - pc/greatwar
+  - pc
+  - person
+  - status/notes
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Aerin
-born:
-species:
-ancestry:
-gender:
+born: 
+species: 
+ancestry: 
+gender: 
 player: David Schwartz
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+affiliations:
 ---
 
 %%NOTES

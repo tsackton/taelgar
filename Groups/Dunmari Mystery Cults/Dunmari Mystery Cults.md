@@ -1,4 +1,4 @@
 ---
 tags:
-- status/stub
+  - status/notes
 ---

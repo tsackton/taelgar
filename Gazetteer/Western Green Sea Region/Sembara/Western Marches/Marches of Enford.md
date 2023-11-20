@@ -1,6 +1,8 @@
 ---
-tags: [place, status/stub]
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+campaignInfo: 
 name: Marches of Enford
 typeOf: march
 partOf: Sembara

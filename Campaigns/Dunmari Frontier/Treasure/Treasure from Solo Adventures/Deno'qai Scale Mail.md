@@ -1,5 +1,5 @@
 ---
-tags: [item/armor, item/magical, status/describe]
+tags: [item/armor, item/magical, status/draft]
 typeOf: armor
 rarity: uncommon
 displayDefaults: { whereaboutsHome: "Owner: <loc:1>" , definitiveArticle: ""}
@@ -12,6 +12,10 @@ whereabouts:
 >[!info]+ Information
 > (uncommon magical armor)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%todo
+Check description with Mike, add image, add ddblink
+%%
 
 A suit of scale mail armor, subtly designed with tanshi motifs, and lightweight enough to be worn under winter gear. 
 

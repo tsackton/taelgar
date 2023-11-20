@@ -1,7 +1,8 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+campaignInfo: 
 name: Duchy of Wisford
 typeOf: duchy
 partOf: Sembara

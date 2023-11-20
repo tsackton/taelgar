@@ -30,6 +30,6 @@ A young man of 14, current heir to the kingdom. The family resemblance to [[Luba
 
 Speaks Common and Sylvan.
 
-Believes the [[Orcs]] of [[Xurkhaz]] can do anything, and will have no sense of the danger [[Grash]] poses. 
+Believes the [[Orcs]] of [[Xurkhaz]] can do anything, and will have no sense of the danger [[People/Other Nonhumans/Grash]] poses. 
 
 %%

@@ -1,6 +1,8 @@
 ---
-tags: [place, status/stub]
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+campaignInfo: 
 name: Duchy of Arnsbury
 typeOf: duchy
 partOf: Sembara

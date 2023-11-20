@@ -13,7 +13,7 @@ tags:
 - The party visited the forest of [[Orenlas]], where they explored the living city of [[Erelion]], visiting the sacred elder tree and meeting Caretaker [[Erdhin]], the gardener [[Ealwen]], the retired solider [[Vahaiya]], and the poet [[Cirdore]]. 
 - After [[Kenzo]] attempts to get [[Ealwen]] to join the crew of [[Vindristjarna]], she says that while she does not feel she can leave [[Erelion]], she does know a few people who might want to join the ship as a gardener. 
 - The party spoke with the ancient [[Elves|elf]] [[Arheste]], who told them about the days of [[Drankorian Empire|Drankor]]: the [[Drankorian Civil War|civil war]] that ended centuries of peace; the rise of [[Omnis Pura]]; [[Apollyon|Apollyon]]'s reign; and his attempted ascension to godhood and ultimate downfall. 
-- After spending a day speaking with an learning from [[Arheste]], the party got a desperate message from [[Riswynn]], informing them that [[Grash]] was nearly finished constructing a massive trebuchet, 400 feet tall at least, and if they did not arrive soon, [[Uzgukhar]] would be destroyed. 
+- After spending a day speaking with an learning from [[Arheste]], the party got a desperate message from [[Riswynn]], informing them that [[People/Other Nonhumans/Grash]] was nearly finished constructing a massive trebuchet, 400 feet tall at least, and if they did not arrive soon, [[Uzgukhar]] would be destroyed. 
 
 #### The Story of Apollyon and Cha'mutte
 
@@ -95,4 +95,4 @@ The next morning, the party travels with [[Ealwen]] to visit [[Arheste]], outsid
 
 For the rest of the day, Arheste tells her story, about Drankor and Apollyon and Cha'mutte, which is recorded [[Arheste#Arheste's Story|here]].
 
-As evening comes, the party receives a desperate plea for help from Riswynn: [[Grash]] is nearly done constructing a massive trebuchet, and if they do not arrive to help soon, the city will be destroyed. 
+As evening comes, the party receives a desperate plea for help from Riswynn: [[People/Other Nonhumans/Grash]] is nearly done constructing a massive trebuchet, and if they do not arrive to help soon, the city will be destroyed. 

@@ -1,8 +1,14 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/notes
+displayDefaults:
+  startStatus: founded
+  startPrefix: founded
+  endPrefix: destroyed
+  endStatus: destroyed
+campaignInfo: 
 name: Telham
-placeType:
+placeType: 
 partOf:
 ---

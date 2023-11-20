@@ -1,3 +1,5 @@
 ---
-tags: [status/stub, holiday]
+tags:
+  - holiday
+  - status/needswork
 ---

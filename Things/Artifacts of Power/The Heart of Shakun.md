@@ -1,7 +1,8 @@
 ---
-tags: [item/magical]
+tags:
+  - item/magical
 rarity: unique
-whereabouts: Shakun's Wellspring
+whereabouts: Cintra
 ---
 # The The Heart of Shakun
 >[!info]+ Information

@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/minor]
+tags: [person, dufr/met, dufr/minor, status/notes]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Alayah
@@ -11,10 +11,10 @@ whereabouts:
 - {type: home, start: '', end: '', location: Te'kula village}
 ---
 # Alayah
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Deno'qai|Deno'qai]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>[!info]+ Biographical Info
+> [[Deno'qai]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The young Godcaller of the [[Te'kula]] tribe in the Elderwood. Dreamed of [[Rai]] and [[Kenzo]]. 
 

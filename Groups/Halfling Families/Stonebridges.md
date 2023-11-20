@@ -1,7 +1,10 @@
 ---
-tags: [organization/family, status/stub]
-displayDefaults: {definitiveArticle: "the"}
-campaignInfo: []
+tags:
+  - organization/family
+  - status/notes
+displayDefaults:
+  definitiveArticle: the
+campaignInfo: 
 name: Stonebridges
 typeOf: family
 ---

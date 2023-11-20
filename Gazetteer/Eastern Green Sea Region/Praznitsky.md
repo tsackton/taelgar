@@ -2,20 +2,15 @@
 tags:
   - place
   - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
 campaignInfo: 
 name: Praznitsky
-placeType: trading city
+typeOf: city
 partOf: Ursk
+ancestry: trading
 ---
 # Praznitsky
->[!info]+ Summary
-> a trading city in [[Ursk]]
-
+>[!info]+ Information
+> A trading city in [[Ursk]]
 
 A mysterious closed city in the north, part of the country of Ursk, where none are allowed across the bridge from the harbors and warehouses to the main city, and the people trade dragon hide.
 

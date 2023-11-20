@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/needswork]
 displayDefaults: { definitiveArticle: ""}
 partOf: Amberglow
 typeOf: grove

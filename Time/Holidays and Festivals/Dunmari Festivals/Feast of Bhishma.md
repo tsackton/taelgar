@@ -1,5 +1,5 @@
 ---
-tags: [status/wip, holiday]
+tags: [status/draft, holiday]
 displayDefaults: {startStatus: began, startPrefix: began, endPrefix: ended, endStatus: ended}
 campaignInfo: []
 name: Feast of Bhishma

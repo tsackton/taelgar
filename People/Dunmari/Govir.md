@@ -1,14 +1,25 @@
 ---
-tags: [status/stub, person, dufr/met, dufr/major]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - person
+  - dufr/met
+  - dufr/major
+  - status/notes
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Govir
 born: 1708
 species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, start: 1714-01-02, end: '', location: 'Tokra, Central Dunmar'}
+  - type: home
+    start: 1714-01-02
+    end: ""
+    location: Tokra, Central Dunmar
 ---
 # Govir
 >[!info]+ Biographical Summary

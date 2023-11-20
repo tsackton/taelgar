@@ -1,11 +1,16 @@
 ---
-tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags:
+  - place
+  - status/stub
+campaignInfo: 
 name: Duchy of Cheimen
-placeType:
-partOf:
+typeOf: duchy
+partOf: Sembara
 ---
+# The Duchy of Cheimen
+>[!info]+ Information
+> A duchy in [[Sembara]], the [[Western Green Sea Region]]
+
 
 
 

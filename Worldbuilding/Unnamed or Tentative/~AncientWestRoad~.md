@@ -1,5 +1,7 @@
 ---
-tags: [place/road, status/needswork, status/notes]
+tags:
+  - place/road
+  - status/notes
 ---
 
 

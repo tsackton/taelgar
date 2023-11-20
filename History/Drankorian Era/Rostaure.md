@@ -1,11 +1,15 @@
 ---
-tags: [place/forest, status/stub]
+tags:
+  - place/forest
+  - status/notes
 name: Rostaurë
 pronunciation: ROS-tow-reh
-aliases: [Rostaurë]
+aliases:
+  - Rostaurë
 partOf: Central Lowlands Region
-destroyed: 1057 #approx
-displayDefaults: { endStatus: "pillaged by Apollyon"}
+destroyed: 1057
+displayDefaults:
+  endStatus: pillaged by Apollyon
 ---
 # Rostaurë
 *(ROS-tow-reh)*

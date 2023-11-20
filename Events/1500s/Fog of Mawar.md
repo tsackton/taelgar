@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, event-source]
+tags: [status/uptodate, event-source]
 DR: 1545
 DR_end: 1590
 name: Fog of Mawar

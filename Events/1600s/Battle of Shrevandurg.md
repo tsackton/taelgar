@@ -1,8 +1,11 @@
 ---
-tags: [event-source, status/stub]
+tags:
+  - event-source
+  - status/stub
 name: Battle of Shrevandurg
 typeOf: battle
-displayDefaults: { definitiveArticle: "the"}
+displayDefaults:
+  definitiveArticle: the
 ---
 # The Battle of Shrevandurg
 
