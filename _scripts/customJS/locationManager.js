@@ -36,7 +36,7 @@ class LocationManager {
 
         console.log("enter " + formatStr + " " + whereabout?.location)
 
-        if (!targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
 
 
         let group = formatStr.match("<loc(:([0-9]*)([a-z]{0,1}))?>")
@@ -47,11 +47,11 @@ class LocationManager {
             let casing = NameManager.PreserveCase
             if (group[3] == "l") casing = NameManager.LowerCase
             else if (group[3] == "t") casing = NameManager.TitleCase
-            console.log("following string " + whereabout?.location + " for date " + targetDate.display)
+            console.log("following string " + whereabout?.location + " for date " + targetDate?.display)
             location = whereabout ? this.getCurrentLocationName(whereabout.location, targetDate, casing, parseInt(group[2]), NameManager.CreateLink) : ""
         }
         else {
-            console.log("following string " + whereabout?.location + " for date " + targetDate.display)
+            console.log("following string " + whereabout?.location + " for date " + targetDate?.display)
             location = whereabout ? this.getCurrentLocationName(whereabout.location, targetDate) : ""
         }
 
