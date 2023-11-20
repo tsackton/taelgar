@@ -4,7 +4,7 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Yuvanti Mountains
 pronunciation: yoo-VAHN-tee
-placeType: mountains
+typeOf: mountains
 partOf: 
 ---
 

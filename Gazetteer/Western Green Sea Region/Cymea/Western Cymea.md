@@ -3,7 +3,7 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Western Cymea
-placeType:
+typeOf: region
 partOf:
 ---
 

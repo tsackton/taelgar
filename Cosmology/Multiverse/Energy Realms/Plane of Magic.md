@@ -1,5 +1,7 @@
 ---
 tags: [place]
+partOf: Energy Realms
+typeOf: plane
 ---
 
 # The Plane of Magic

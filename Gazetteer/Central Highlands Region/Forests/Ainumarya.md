@@ -2,14 +2,9 @@
 tags:
   - place
   - status/needswork
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
 campaignInfo: 
 name: Ainumarya
-placeType: forest
+typeOf: forest
 partOf: Central Highlands Region
 ---
 # Ainumarya

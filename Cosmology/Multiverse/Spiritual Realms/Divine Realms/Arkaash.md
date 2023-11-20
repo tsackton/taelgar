@@ -1,6 +1,7 @@
 ---
 tags: [place, religion/fivesiblings]
-partOf: Spiritual Realms
+partOf: Divine Realms
+typeOf: plane
 ---
 
 %%SECRET[1]%%

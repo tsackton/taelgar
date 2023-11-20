@@ -2,7 +2,7 @@
 
 ### Places
 ```dataview
-LIST from #place where !typeOf 
+TABLE partOf, placeType from #place where !typeOf 
 ```
 
 ### Groups

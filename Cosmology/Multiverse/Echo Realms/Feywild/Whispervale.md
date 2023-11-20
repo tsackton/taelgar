@@ -1,6 +1,7 @@
 ---
 tags: [place]
 partOf: Feywild
+typeOf: realm
 ---
 
 # Whispervale

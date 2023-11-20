@@ -1,14 +1,8 @@
 ---
 tags:
   - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
 name: Erlona
-placeType: city
+typeOf: city
 partOf: Chasa River Valley
 ---
 # Erlona

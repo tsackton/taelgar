@@ -9,7 +9,7 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 name: Arryn’s Tower
-placeType: 
+typeOf: tower
 partOf:
 ---
 

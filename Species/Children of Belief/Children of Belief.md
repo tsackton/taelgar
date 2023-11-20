@@ -1,5 +1,5 @@
 ---
-tags: [meta]
+tags: [species]
 ---
 
 # Children of Belief

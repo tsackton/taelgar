@@ -2,14 +2,9 @@
 tags:
   - place
   - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
 campaignInfo: 
 name: Forest of Dreams
-placeType: forest
+typeOf: forest
 partOf: Ainumarya
 ---
 # The Forest of Dreams

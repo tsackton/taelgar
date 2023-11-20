@@ -2,14 +2,9 @@
 tags:
   - place
   - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
 campaignInfo: 
 name: Yemo'te
-placeType: river
+typeOf: river
 partOf: Forest of Nightmares
 pronunciation: yeh-moh-TEH
 ---

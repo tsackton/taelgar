@@ -1,5 +1,7 @@
 ---
 tags: [status/notes, place]
+typeOf: plane
+partOf: Echo Realms
 ---
 
 # Mirror Realm

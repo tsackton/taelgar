@@ -1,5 +1,6 @@
 ---
 tags: [species]
+partOf: Children of Belief
 ---
 # Demons
 

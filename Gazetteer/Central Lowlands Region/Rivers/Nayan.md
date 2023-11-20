@@ -1,13 +1,6 @@
 ---
-tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place]
 name: Nayan
-placeType: 
+typeOf: river
 partOf:
 ---

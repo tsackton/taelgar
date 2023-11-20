@@ -1,15 +1,7 @@
 ---
-tags:
-  - place
-  - status/needswork
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/needswork]
 name: Forest of Nightmares
-placeType: forest
+typeOf: forest
 partOf: Ainumarya
 ---
 # The Forest of Nightmares

@@ -1,7 +1,6 @@
 ---
-tags:
-  - place/road
-  - status/notes
+tags: [ place/road,  status/notes ]
+typeOf: road
 ---
 
 

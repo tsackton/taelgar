@@ -1,6 +1,7 @@
 ---
 tags: [species]
 aliases: [celestial, Celestial]
+partOf: Children of Belief
 ---
 
 # Celestials
