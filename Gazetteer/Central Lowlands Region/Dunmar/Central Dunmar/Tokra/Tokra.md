@@ -1,18 +1,13 @@
 ---
-tags:
-  - place
-  - "#event-source"
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
+tags: [place, event-source]
 campaignInfo: 
 name: Tokra
-placeType: 
+typeOf: city 
 partOf: Central Dunmar
 ---
-## Overview of Tokra
+# Tokra
+>[!info]+ Information
+> A city in [[Central Dunmar]], [[Dunmar]]
 
 *As you crest the height of the land, you can see the River [[Hara]] winding slowly from north to south, barely more than a trickle at this time of year, before the rains of the monsoon season come.
 

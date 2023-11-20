@@ -1,8 +1,8 @@
 ---
 tags: [organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+displayDefaults: {definitiveArticle: "the"}
 campaignInfo: []
-name: the Redpeaks
-orgType: clan
+name: Redpeaks
+typeOf: clan
 ---
 (stub)

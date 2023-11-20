@@ -1,7 +1,6 @@
 ---
 tags: [organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
-orgType: family
+typeOf: family
 created: 1570
 ---
 # The House of Lils

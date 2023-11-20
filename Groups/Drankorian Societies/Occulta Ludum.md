@@ -9,6 +9,7 @@ displayDefaults:
   endStatus: disbanded
 campaignInfo: 
 name:
+typeOf: magical society
 ---
 
 # Occulta Ludum

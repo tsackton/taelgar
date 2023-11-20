@@ -3,7 +3,9 @@ tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Lord's Guard of Cleenseau
-partOf:
+typeOf: army
+subTypeOf: warband
+partOf: Cleenseau
 ---
 The Lord's Guard of Cleenseau is a troop of 18 people-at-arms who are responsible for protecting the [[Essford Manor]], watching the [[River Gate of Cleenseau|River Gate]] and [[North Gate of Cleenseau|North Gate]] and maintaining peace within the walls. These are not well trained, professional soliders, but most of them can ride and shoot relatively well and have some practice with spears and wearing armor.
 

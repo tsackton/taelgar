@@ -3,6 +3,8 @@ tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Lord's Council of Cleenseau
+typeOf: council
+partOf: Cleenseau
 ---
 
 The Lord's Council is an advisory group to the lord of [[Cleenseau]], currently [[Rosalind Essford]] for all practical purposes. 

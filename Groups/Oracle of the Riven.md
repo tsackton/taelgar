@@ -1,10 +1,8 @@
 ---
 tags: [organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ""}
-campaignInfo: []
+displayDefaults: { definitiveArticle: ""}
 name: Oracle of the Riven
-placeType:
-partOf:
+partOf: Tyrwingha
 ---
 # Oracle of the Riven
 

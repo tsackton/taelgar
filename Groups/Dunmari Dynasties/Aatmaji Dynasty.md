@@ -2,14 +2,10 @@
 tags:
   - organization
   - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: disbanded
-  endStatus: disbanded
 campaignInfo: 
 name: Aatmaji dynasty
-orgType: family
+typeOf: family
+subTypeOf: dynasty
 ---
 # The Aatmaji Dynasty
 

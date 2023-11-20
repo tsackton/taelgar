@@ -3,7 +3,7 @@ tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo: []
 name: Society of the Open Scroll
-orgType: scholary society
+typeOf: scholary society
 ---
 # The Society of the Open Scroll
 
