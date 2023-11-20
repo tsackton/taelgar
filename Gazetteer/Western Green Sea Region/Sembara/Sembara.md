@@ -1,15 +1,16 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Sembara
-placeType:
+typeOf: realm
 partOf: Western Green Sea Region
 cultureDescriptor: Sembaran
 ---
 # Sembara
 >[!info]+ Information
-> A place in the [[Western Green Sea Region]]
+> A realm in the [[Western Green Sea Region]]
 
 ![[sembara-1750-updated.png]]
 

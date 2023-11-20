@@ -2,14 +2,9 @@
 tags:
   - place
   - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
 campaignInfo: 
 name: K'eye
-placeType: river
+typeOf: river
 partOf: Forest of Nightmares
 pronunciation: keh-EYE
 ---

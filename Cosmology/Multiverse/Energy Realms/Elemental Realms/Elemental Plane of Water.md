@@ -2,7 +2,7 @@
 headerVersion: 2023.11.20
 tags: [place/plane]
 typeOf: plane
-partOf: elemental realms
+partOf: Elemental Realms
 ---
 # The Elemental Plane of Water
 >[!info]+ Information

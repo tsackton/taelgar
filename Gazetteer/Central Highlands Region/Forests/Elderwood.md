@@ -3,14 +3,10 @@ tags:
   - place
   - status/needswork
 displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
   definitiveArticle: the
 campaignInfo: 
 name: Elderwood
-placeType: forest
+typeOf: forest
 partOf: Ainumarya
 aliases:
 ---

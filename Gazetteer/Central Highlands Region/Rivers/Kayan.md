@@ -2,14 +2,8 @@
 tags:
   - place
   - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
 name: Kayan
-placeType: river
+typeOf: river
 partOf: Elderwood
 pronunciation: KAH-yan
 ---

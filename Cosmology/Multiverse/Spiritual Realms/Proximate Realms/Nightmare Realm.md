@@ -1,6 +1,7 @@
 ---
 tags: [place]
 partOf: Spiritual Realms
+typeOf: plane
 ---
 
 # The Nightmare Realm

@@ -1,14 +1,7 @@
 ---
-tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place]
 name: Metium
-placeType: city
+typeOf: city
 partOf: Chasa River Valley
 ---
 # Metium

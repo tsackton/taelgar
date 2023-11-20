@@ -3,7 +3,8 @@ tags: [place, event-source]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Khumarz
-placeType:
+typeOf: town
+subTypeOf: fortified
 partOf: Xurkhaz
 ---
 # Khumarz

@@ -1,6 +1,7 @@
 ---
 typeOf: celestial
 tags: [species, species/celestial]
+partOf: Children of Belief
 ---
 
 

@@ -1,14 +1,8 @@
 ---
 tags:
   - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
 name: Eskorola
-placeType: village
+typeOf: village
 partOf: Mawar Confederacy
 ---
 # Eskorola

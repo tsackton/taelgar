@@ -5,6 +5,7 @@ campaignInfo: []
 name: Garamjala Desert
 aliases: [Garamjala]
 partOf: Nashtkar
+typeOf: desert
 ---
 # The Garamjala Desert
 >[!info]+ Information

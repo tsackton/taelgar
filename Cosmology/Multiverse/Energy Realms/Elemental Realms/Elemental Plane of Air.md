@@ -6,8 +6,7 @@ typeOf: plane
 ---
 # The Elemental Plane of Air
 >[!info]+ Information
-> A plane in the [[Elemental Realms]], [[Energy Realms]]
-
+> A plane in the [[Elemental Realms]], the [[Energy Realms]]
 
 # Plane of Air
 

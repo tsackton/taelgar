@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.20
 tags: [place]
-partOf: Spiritual Realms
+partOf: Divine Realms
 typeOf: plane
 ---
 # The Heart of the Mountain
 >[!info]+ Information
-> A plane in the [[Spiritual Realms]]
+> A plane in the [[Divine Realms]], the [[Spiritual Realms]]
 
 The divine realm of the [[Bahrazel]]. 
 

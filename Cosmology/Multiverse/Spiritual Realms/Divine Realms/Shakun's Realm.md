@@ -1,5 +1,7 @@
 ---
 tags: [place]
+typeOf: plane
+partOf: Divine Realms
 ---
 
 ### Shakun's Realm

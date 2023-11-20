@@ -1,20 +1,13 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+headerVersion: 2023.11.20
+tags: [place, status/stub ]
 name: Dolphin’s Rest Inn
-placeType: inn
+typeOf: inn
 partOf: Wahacha
 ---
 # The Dolphin’s Rest Inn
->[!info]+ Summary
-> an inn in [[Wahacha]], the [[Vermillion Isles]], the [[Eastern Green Sea]]
+>[!info]+ Information
+> An inn in [[Wahacha]], the [[Vermillion Isles]], ~ [[Eastern Islands~]]
 
 An inn in [[Wahacha]], popular with sailors and other grounders, as the kenku call those who cannot fly. 
 
