@@ -1,11 +1,12 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Copper Hills
-placeType:
-partOf:
+typeOf: line of hills
+partOf: Central Dunmar
 ---
+# The Copper Hills
+>[!info]+ Information
+> A  line of hills in [[Central Dunmar]], [[Dunmar]]
 
 A small line of hills between [[Tokra]] and Darba, once famous for copper mining but largely abandoned now. 
 

@@ -3,12 +3,12 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ""}
 campaignInfo: []
 name: Stormcaller Tower
-typeOf: tower
+typeOf: ruin
 partOf: Eastern Dunmar
 ---
 # Stormcaller Tower
 >[!info]+ Information
-> A tower in the [[Eastern Dunmar]], [[Dunmar]]
+> A  ruin in [[Eastern Dunmar]], [[Dunmar]]
 
 Eons ago, lost in the dawn of time when the Firstborn walked the earth and the great empires of giants and dragons and other creatures of myth and legend  stretched across the world, great skyships of the storm giants sailed the skies, powered by [[Phasing Stones]] that could remake reality around them. While a few may remain in distant hidden corners of the world, or travel the skies of other planes, many crashed or were destroyed.
 

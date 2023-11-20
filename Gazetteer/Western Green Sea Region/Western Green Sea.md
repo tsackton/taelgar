@@ -3,9 +3,12 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Western Green Sea
-placeType:
-partOf:
+typeOf: sea
+partOf: Green Sea
 ---
+# The Western Green Sea
+>[!info]+ Information
+> A sea in the [[Green Sea]]
 
 The Western [[Green Sea]] region refers to the areas clustered around the [[Western Gulf]] and the more westerly parts of the [[Green Sea]].
 

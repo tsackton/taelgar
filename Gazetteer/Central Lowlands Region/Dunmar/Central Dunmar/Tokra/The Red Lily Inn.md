@@ -1,11 +1,15 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: { definitiveArticle: "" }
 campaignInfo: []
 name: The Red Lily Inn
-placeType:
-partOf:
+typeOf: inn
+ancestry: halfling
+partOf: Tokra
 ---
+# The Red Lily Inn
+>[!info]+ Information
+> An [[Halflings|halfling]] inn in [[Tokra]], [[Central Dunmar]], [[Dunmar]]
 
 A halfling inn, also on the west side of town, just inside the walls, near the western gate. Run by [[Wes Strongbones]] and his twin sons Tye and Cade. 
 

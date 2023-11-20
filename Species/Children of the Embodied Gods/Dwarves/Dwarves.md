@@ -3,8 +3,7 @@ tags: []
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Dwarves
-aliases: [dwarf, Dwarf, Dwarves, dwarves]
-speciesDescriptor: dwarf
+aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
 ---
 # Dwarf
 

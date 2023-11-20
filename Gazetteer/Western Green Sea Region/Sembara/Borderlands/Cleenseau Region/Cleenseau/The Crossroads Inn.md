@@ -1,13 +1,17 @@
 ---
 tags: [place, place/building]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {definitiveArticle: ""}
 campaignInfo: []
 name: The Crossroads Inn
-placeType:
+ancestry: halfling
+typeOf: inn
 partOf: Cleenseau
 created: 1392
 ---
 # The Crossroads Inn
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> An [[Halflings|halfling]] inn in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
 
 A large inn in [[Cleenseau]], said to be hundreds of years old, kept by the Stonebridge family of halflings for generations. Most of the rooms are designed for halflings, but it has a small number of comfortable, if cozy, rooms for humans, and the common room is often full of townsfolk at night hearing the latest news from out of town and drinking down pints of the famous millet ale.
 

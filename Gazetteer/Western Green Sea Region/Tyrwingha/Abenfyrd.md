@@ -3,8 +3,12 @@ tags: [place, status/stub]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Abenfyrd
-placeType:
+typeOf: village
 partOf: Tyrwingha
 ---
+# Abenfyrd
+>[!info]+ Information
+> A village in [[Tyrwingha]], [[The Western Green Sea Region]]
+
 
 

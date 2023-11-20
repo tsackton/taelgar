@@ -3,8 +3,7 @@ tags: [status/stub]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Elves
-aliases: [elf, elves, Elf, Elves]
-speciesDescriptor: elf
+aliases: [elf, elves, Elf, Elves, elven, Elven]
 ---
 # Elves
 

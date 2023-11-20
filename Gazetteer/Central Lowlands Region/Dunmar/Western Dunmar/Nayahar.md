@@ -3,9 +3,12 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Nayahar
-placeType:
-partOf:
+typeOf: city
+partOf: Western Dunmar
 ---
+# Nayahar
+>[!info]+ Information
+> A  city in the [[Western Dunmar]]
 
-The capital of [[Dunmar]] and royal city of the Nayan dynasty. 
+The capital of [[Dunmar]] and royal city of the [[Nayan Dynasty]]
 

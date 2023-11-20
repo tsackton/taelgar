@@ -1,10 +1,12 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Ardonne
-placeType:
-partOf:
+title: River
+typeOf: river
+partOf: 
 ---
-# River Ardonne
+# The River Ardonne
+
+
 
