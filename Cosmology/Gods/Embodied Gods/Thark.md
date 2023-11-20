@@ -1,3 +1,8 @@
+---
+headerVersion: 2023.11.20
+tags: [deity]
+affiliations: [orcs]
+---
 # Thank
 
 Thark, the God of War Without End, created by the union of [[Umidzka]] and [[G’Zab]], gave rise to the [[Orcs]], and through his compulsion drives them to violence for the sake of violence. 

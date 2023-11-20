@@ -1,4 +1,10 @@
+---
+headerVersion: 2023.11.20
+tags: [status/stub, place]
+partOf: Spiritual Realms
+typeOf: plane
+---
 # Dreamworld
-
-The spiritual realm of dreams.
+>[!info]+ Information
+> A plane in the [[Spiritual Realms]]
 

@@ -1,15 +1,6 @@
 ---
-tags:
-  - place
-  - status/needswork
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
-cultureDescriptor: Dunmari
+tags: [ place,  status/needswork ]
 name: Dunmar
-placeType: 
 partOf:
+typeOf: realm
 ---

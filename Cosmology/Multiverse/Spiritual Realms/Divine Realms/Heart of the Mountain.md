@@ -1,4 +1,12 @@
-### The Heart of the Mountain
+---
+headerVersion: 2023.11.20
+tags: [place]
+partOf: Spiritual Realms
+typeOf: plane
+---
+# The Heart of the Mountain
+>[!info]+ Information
+> A plane in the [[Spiritual Realms]]
 
 The divine realm of the [[Bahrazel]]. 
 

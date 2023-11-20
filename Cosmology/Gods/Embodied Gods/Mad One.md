@@ -1,3 +1,7 @@
+---
+tags: [deity]
+---
+
 ### The Mad One
 
 Little is known about the Mad One. Theologically, they are, like the firstborn gods of the Elder races, an Embodied god, given physical form independent of the belief of their worshippers. 

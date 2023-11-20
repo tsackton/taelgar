@@ -1,3 +1,7 @@
+---
+tags: [event]
+---
+
 ### The Second Hobgoblin War
 
 

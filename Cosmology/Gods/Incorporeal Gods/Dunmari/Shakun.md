@@ -1,3 +1,7 @@
+---
+tags: [deity, religion/fivesiblings]
+---
+
 # Shakun
 
 The goddess of illusion, magic, prophecy, and dreams; often said to be the mystical protector of the Dunmari, looking to unseen dangers and magical threats. She is the Divine twin sister of [[Kotana]], the second Samraat of the [[Aatmaji Dynasty]]; Shakun and [[Kotana]] are said to be the children of [[Bhishma]], the founder of [[Dunmar]], and the god [[Laka]]. 

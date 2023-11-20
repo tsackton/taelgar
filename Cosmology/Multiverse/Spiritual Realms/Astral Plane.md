@@ -1,6 +1,9 @@
 ---
-tags:
-- status/notes
+headerVersion: 2023.11.20
+tags: [status/notes, status/stub, place]
+partOf: Spiritual Realms
+typeOf: plane
 ---
-
-# Astral Plane
+# The Astral Plane
+>[!info]+ Information
+> A plane in the [[Spiritual Realms]]

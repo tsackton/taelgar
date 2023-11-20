@@ -8,8 +8,8 @@ species: human
 ancestry: Chardonian
 gender: male
 whereabouts:
-- {type: home, start: '', end: 1729, location: 'Chardon, Chardonian Empire'}
-- {type: home, start: 1730, end: '', location: 'Darba, Western Dunmar'}
+- {type: home, start: '', end: 1729, location: 'Chardon'}
+- {type: home, start: 1730, end: '', location: 'Darba'}
 ---
 # Albus
 >[!info]+ Biographical Summary

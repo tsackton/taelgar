@@ -1,12 +1,12 @@
 ---
-tags: []
+headerVersion: 2023.11.20
+tags: [deity, religion/dwarven]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: the}
 campaignInfo: []
 name: Bahrazel
 aliases: [Bahrâzel]
 ---
-
-# The Bahrâzel 
+# The Bahrazel
 
 The embodied gods of the [[Dwarves]] and the mystical firstborn of their race. Legend says the seven Bahrâzel were created from living rock, given form and magic and empowered to create the dwarven people in their image.
 
