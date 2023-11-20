@@ -9,7 +9,7 @@ displayDefaults:
   endStatus: destroyed
   definitiveArticle: the
 campaignInfo: 
-name: 
+name: Elderwood
 placeType: forest
 partOf: Ainumarya
 aliases:

@@ -11,10 +11,8 @@ whereabouts:
 - {type: home, start: , end: '', location: 'Darba, Western Dunmar'}
 ---
 # Finellen Silverstone
->[!info]+ Biographical Summary
->dwarf, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Darba]], [[Western Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Dwarves|dwarf]], she/her
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A dwarven antiquities dealer in [[Darba]].

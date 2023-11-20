@@ -17,8 +17,11 @@ ancestry:
 gender: male
 player: John Leeker
 affiliations:
+whereabouts: Kunda
 ---
-
-### Drikod
+# Drikod
+>[!info]+ Biographical Info
+> [[Stoneborn|stoneborn]], he/him
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[drikod-portrait.jpg|400]]

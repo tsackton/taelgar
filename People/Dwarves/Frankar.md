@@ -7,17 +7,15 @@ born: 1714
 species: dwarf
 ancestry:
 gender: male
-died: 1730
+died: 
 whereabouts:
-- {type: home, start: '', end: '', location: 'Darakan, Khatridun, Sentinel Range'}
-- {type: away, start: 1730-01-01, end: '', location: 'unknown, unknown'}
+- {type: home, start: '', end: 1730, location: 'Darakan, Khatridun, Sentinel Range'}
 ---
 # Frankar
->[!info]+ Biographical Summary
->dwarf, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Darakan, [[Khatridun]], [[Sentinel Range]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Dwarves|dwarf]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A dwarf from the city of Darakan, in the kingdom of [[Khatridun]], fascinated with mechanical devices and runic magic. 
 %%^Date:1730%%

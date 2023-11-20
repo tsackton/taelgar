@@ -7,15 +7,12 @@ born:
 species: dwarf
 ancestry:
 gender: male
-whereabouts:
-- {type: home, start: '', end: '', location: 'Tharn Todor, Nardith'}
+whereabouts: Tharn Todor
 ---
 # Magran Boulderbeard
->[!info]+ Biographical Summary
->dwarf, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Tharn Todor]], [[Nardith]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Dwarves|dwarf]], he/him
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A warrior from Tharn Todor who led a large expedition of dwarves into the ruins of [[Ardith]], and to confront Chardonian interlopers. 
 

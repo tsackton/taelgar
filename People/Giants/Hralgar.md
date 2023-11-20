@@ -1,9 +1,7 @@
 ---
 tags: [person, dufr/met, dufr/major]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: [
-	{ campaign: DuFr, type: freed, date: 1748-11-23 }
-]
+campaignInfo: [ { campaign: DuFr, type: freed, date: 1748-11-23 } ]
 name: Hralgar
 born:
 species: giant
