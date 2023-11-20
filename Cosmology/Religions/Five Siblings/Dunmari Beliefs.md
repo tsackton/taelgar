@@ -1,3 +1,7 @@
+---
+tags: [religion/fivesiblings]
+---
+
 # Creation Story
 
 What follows is the creation story of the Dunmari, told in brief.

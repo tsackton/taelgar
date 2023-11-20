@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Children of Belief
 
 The Children of Belief are the native inhabitants of the Spiritual Realms, created by the prayers, curses, hopes, and fears of humanity in the early days of creation. 

@@ -1,6 +1,7 @@
 ---
 tags:
   - status/needswork
+  - meta
 ---
 # Goblinoids
 

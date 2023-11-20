@@ -1,3 +1,7 @@
+---
+tags: [religion/fivesiblings]
+---
+
 # Worship
 
 Dunmari worship practice is focused on two main distinct but equally important sets of rituals and traditions, one communal and one individual/familial, with a third strand of ritual practice associated with mystery cults. 
