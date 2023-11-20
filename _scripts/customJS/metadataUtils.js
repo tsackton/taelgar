@@ -1,23 +1,34 @@
-class metadataUtils {
+class util {
 
     inLocation(targetLocation, metadata, targetDate) {
 
-        const {WhereaboutsManager} = customJS
-        const {LocationManager} = customJS
+        const { WhereaboutsManager } = customJS
+        const { LocationManager } = customJS
 
-        let current = WhereaboutsManager.getWhereabouts(metadata, targetDate).current
-        if (current == undefined || current.location == undefined || current.location == "Unknown") {
-            return false;
+        let current = metadata.partOf
+        if (!current) {
+
+            let currentWb = WhereaboutsManager.getWhereabouts(metadata, targetDate).current
+            if (currentWb == undefined || currentWb.location == undefined || currentWb.location == "Unknown") {
+                return false;
+            }
+
+            current = currentWb.location
         }
 
-        return LocationManager.isInLocation(current.location, targetLocation)
+        return LocationManager.isInLocation(current, targetLocation, targetDate)
+    }
+
+    getName(targetFile) {
+        const { NameManager } = customJS
+        return NameManager.getName(targetFile, "exists", "title")
     }
 
     homeLocation(targetLocation, metadata, targetDate, includeDead) {
 
-        const {WhereaboutsManager} = customJS
-        const {DateManager} = customJS
-        const {LocationManager} = customJS
+        const { WhereaboutsManager } = customJS
+        const { DateManager } = customJS
+        const { LocationManager } = customJS
 
         let pageDates = DateManager.getPageDates(metadata, targetDate)
 
@@ -34,14 +45,14 @@ class metadataUtils {
     }
 
     fromLocation(targetLocation, metadata, targetDate) {
-       
-        const {WhereaboutsManager} = customJS
-        const {LocationManager} = customJS
+
+        const { WhereaboutsManager } = customJS
+        const { LocationManager } = customJS
 
         let origin = WhereaboutsManager.getWhereabouts(metadata, targetDate).origin
         if (origin == undefined) return false;
         if (origin.location == undefined || origin.location == "Unknown") return false;
 
-        return LocationManager.isInLocation(origin.location, targetLocation)        
+        return LocationManager.isInLocation(origin.location, targetLocation)
     }
 }

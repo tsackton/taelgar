@@ -1,9 +1,10 @@
 class LocationManager {
 
-    isInLocation(startingLocation, targetLocation) {
+    isInLocation(startingLocation, targetLocation, targetDate) {
 
         const { NameManager } = customJS
-
+        const { WhereaboutsManager } = customJS
+     
         if (startingLocation.trim() === targetLocation.trim())
             return true;
 
@@ -15,8 +16,15 @@ class LocationManager {
             let file = NameManager.getFileForTarget(startingLocation)
             if (file) {
                 let nextLvl = file.frontmatter.partOf
+                if (!nextLvl) {
+                    if (file.frontmatter.whereabouts) {
+                        let current = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current                    
+                        if (current) nextLvl = current.location;
+                    }
+                }
+
                 if (nextLvl) {
-                    return isInLocation(nextLvl, targetLocation)
+                    return this.isInLocation(nextLvl, targetLocation)
                 }
 
                 return false;
