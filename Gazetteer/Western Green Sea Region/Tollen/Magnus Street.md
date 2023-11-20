@@ -1,10 +1,16 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {definitiveArticle: "" }
 campaignInfo: []
 name: Magnus Street
-placeType:
-partOf:
+typeOf: ward
+partOf: Tollen
 ---
+# Magnus Street
+>[!info]+ Information
+> A ward in [[Tollen]], the [[Western Green Sea Region]]
 
-The district in [[Tollen]] which houses the [[University of Tollen]].
+### Places
+```dataview
+LIST from #place where partOf = "Magnus Street"
+```

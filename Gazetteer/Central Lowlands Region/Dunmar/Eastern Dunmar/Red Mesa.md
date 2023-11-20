@@ -5,6 +5,10 @@ campaignInfo: []
 name: Red Mesa
 partOf: Eastern Dunmar
 ---
+# The Red Mesa
+>[!info]+ Information
+> A  place in [[Eastern Dunmar]], [[Dunmar]]
+
 
 A large, flat topped mesa of red stone, and the most notable landmark of [[Karawa]], rising six hundred feet or more above the town and the oasis it is built around.
 

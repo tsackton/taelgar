@@ -1,14 +1,12 @@
 ---
 tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: }
-campaignInfo: []
 name: Urlich Pass
-placeType: pass
+typeOf: pass
 partOf: Sentinel Range
 ---
-# Urlich Pass
->[!info]+ Summary
-> a pass in the [[Sentinel Range]]
+# The Urlich Pass
+>[!info]+ Information
+> A  pass in the [[Sentinel Range]], [[Central Highlands Region]]
 
 %% notes
 The site of the final battle against Cha'mutte, the Battle of Urlich Pass, which as the climatic event of the high school campaign. Canonically, that battle took place at Urlich Monastery, which was somehow associated with the dwarven firstborn or some way to make it easier for Cha'mutte to attack the firstborn. 

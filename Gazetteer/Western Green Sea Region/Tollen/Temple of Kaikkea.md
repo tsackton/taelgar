@@ -1,11 +1,15 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {partOf: "<article> <typeof> of <subtypeof> in <loc>"}
 campaignInfo: []
 name: Temple of Kaikkea
-placeType:
-partOf:
+typeOf: temple
+subTypeOf: Kaikkea
+partOf: Tollen
 ---
+# The Temple of Kaikkea
+>[!info]+ Information
+> A temple of [[Kaikkea]] in [[Tollen]], the [[Western Green Sea Region]]
 
 An ancient building in [[Tollen]], one of the original structures, once outside the city walls, but later incorporated into the city. Dedicated to the Skaer goddess [[Kaikkea]], and used by the Skaer, who maintain a presence here. 
 

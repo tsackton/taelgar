@@ -3,9 +3,14 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Latazaro
-placeType:
-partOf:
+typeOf: swamp
+ancestry: lizardfolk
+partOf: Western Green Sea Region
+pronunciation: LAH-tah-zah-roh
 ---
-*LAH-tah-zah-roh*
+# Latazaro
+*(LAH-tah-zah-roh)*
+>[!info]+ Information
+> A [[Lizardfolk|lizardfolk]] swamp in the [[Western Green Sea Region]]
 
 A [[lizardfolk]] community on the borders of [[Tyrwingha]] and [[Western Cymea]]. 

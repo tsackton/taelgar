@@ -3,9 +3,12 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Western Gulf
-placeType:
-partOf:
+typeOf: gulf
+partOf: Western Green Sea
 ---
+# The Western Gulf
+>[!info]+ Information
+> A gulf in the [[Western Green Sea]], the [[Green Sea]]
 
 The Western Gulf is the inland sea at the far western edge of the [[Green Sea]] Separated from [[Green Sea]] proper by the narrow [[Straits of Cymea]], the Western Gulf tends to milder weather and easier navigation. 
 

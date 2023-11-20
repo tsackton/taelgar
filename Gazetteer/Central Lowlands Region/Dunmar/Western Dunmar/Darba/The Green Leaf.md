@@ -1,11 +1,15 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: { definitiveArticle: "" }
 campaignInfo: []
 name: The Green Leaf
-placeType:
-partOf:
+ancestry: halfling
+typeOf: inn 
+partOf: Darba
 ---
+# The Green Leaf
+>[!info]+ Information
+> An [[Halflings|halfling]] inn in [[Darba]]
 
 A halfling inn on the harbor in [[Darba]]. 
 

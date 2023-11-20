@@ -3,8 +3,9 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Guildgate
-placeType:
-partOf:
+typeOf: ward
+partOf: Tollen
 ---
-
-A district in [[Tollen]]. 
+# Guildgate
+>[!info]+ Information
+> A ward in [[Tollen]], the [[Western Green Sea Region]]

@@ -1,17 +1,9 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [ place, status/stub ]
 name: Kunda
-placeType: village
-partOf: Sentinel Range
+typeOf: village
+partOf: Indalas
 ---
 # Kunda
->[!info]+ Summary
-> a Stoneborn village in the [[Sentinel Range|Indalas]]
+>[!info]+ Information
+> A  village in [[Sentinel Range|Indalas]], [[Central Highlands Region]]

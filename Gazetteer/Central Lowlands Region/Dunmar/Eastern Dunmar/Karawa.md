@@ -1,20 +1,12 @@
 ---
-tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place]
 name: Karawa
 typeOf: town
 partOf: Eastern Dunmar
 ---
 # Karawa
 >[!info]+ Information
-> A town in [[Eastern Dunmar]], [[Dunmar]]
-
+> A  town in [[Eastern Dunmar]], [[Dunmar]]
 
 A small Dunmari village. Houses of adobe / mud brick, except a few bigger or more important ones of sandstone. Colors browns and some ochre. Lots of awnings of variously colored cloth, lots of horses and goats. Much of the town was destroyed in gnoll attacks in the summer of 1748, but is in the process of being rebuilt. 
 
