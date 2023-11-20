@@ -13,11 +13,11 @@ whereabouts:
 - {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
 ---
 # Dain Goldhammer
->[!info]+ Biographical Summary
->[[Dwarves|dwarf]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> [[Dwarves|dwarf]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on October 23rd, 1748 in [[Illoria]] %%^End%%
 
 An adventurer, working for the [[Society of the Open Scroll]], funded by [[Fausto]]. Often travels with [[Dee Wildcloak]]. 
 
