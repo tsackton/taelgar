@@ -1,23 +1,13 @@
 ---
-tags:
-  - pc
-  - person
-  - pc/guest
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
+tags: [pc, person, pc/guest]
 campaignInfo: 
 name: Artem Novolozek
 born: 
 species: 
 ancestry: 
 gender: 
-player: 
-aliases:
-  - Artem
-affiliations:
+player: Mike Sackton
+aliases: [Artem]
 ---
 ## Artem Novolozek
 (he/him)
