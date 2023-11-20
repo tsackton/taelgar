@@ -1,14 +1,14 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+tags: [place/inn, status/stub]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ""}
 campaignInfo: []
 name: The Salty Squid
 placeType: inn
 partOf: Chardon
 ---
 # The Salty Squid
->[!info]+ Summary
-> an inn in [[Chardon]], [[Chardonian Empire]]
+>[!info]+ Information
+> An  inn in [[Chardon]], the [[Chardonian Empire]]
 
 A sailor's tavern in the port district of Chardon.
 

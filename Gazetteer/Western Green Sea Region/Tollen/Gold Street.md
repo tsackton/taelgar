@@ -1,14 +1,14 @@
 ---
-tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+tags: [place, status/notes]
+displayDefaults: {definitiveArticle: ""}
 campaignInfo: []
 name: Gold Street
 typeOf: ward
 partOf: Tollen
 ---
-# The Gold Street
+# Gold Street
 >[!info]+ Information
-> A ward in [[Tollen]], the [[Western Green Sea Region]]
+> A  ward in [[Tollen]], the [[Western Green Sea Region]]
 
 Gold Street is one of the 17 wards of [[Tollen]], located on the north bank of the [[Volta]] river, west [[Bridgeward]]. The now-covered [[Fat Brook]] flows under the ward. The eponymous Gold Street runs east to west parallel to the river, home to merchant estates and banks. The ward is also home to a number of guild palaces, and the [[Tollen Mint]]. 
 
