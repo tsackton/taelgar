@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/major]
+tags: [person, dufr/met, dufr/major, testcase]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned}

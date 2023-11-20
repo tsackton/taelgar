@@ -3,6 +3,7 @@ tags:
   - person
   - dufr/met
   - dufr/minor
+  - testcase
 displayDefaults:
   startStatus: born
   startPrefix: b.

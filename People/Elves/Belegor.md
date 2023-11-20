@@ -5,6 +5,7 @@ tags:
   - dufr/met
   - dufr/minor
   - event-source
+  - testcase
 displayDefaults:
   startStatus: born
   startPrefix: b.
