@@ -3,7 +3,7 @@ tags: [ place, status/uptodate ]
 displayDefaults: { startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed }
 campaignInfo: 
 name: Endless Ocean
-placeType: ocean
+typeOf: ocean
 partOf: Taelgar
 ---
 # The Endless Ocean

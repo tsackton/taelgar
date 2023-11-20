@@ -183,7 +183,12 @@ function buildPartOfHeader(metadata, displayData) {
         let article = "a"
         if (firstChar == 'i' || firstChar == 'e' || firstChar == 'a' || firstChar == 'o' || firstChar == 'u') article = "an"
 
-        let formatString = displayData.partOf.replace("<typeof>", typeOf.trim()).replace("<article>", article)
+        let formatString = displayData.partOf
+            .replace("<typeof>", typeOf.trim())
+            .replace("<article>", article)
+            .replace("<ancestry>", NameManager.getName(metadata.ancestry, "exists", "lower") ?? "")
+            .replace("<subtypeof>", NameManager.getName(metadata.subTypeOf, "exists", "preserve") ?? "")
+
         return LocationManager.buildFormattedLocationString(formatString, { location: metadata.partOf }, undefined, "", "", "")
     }
 
