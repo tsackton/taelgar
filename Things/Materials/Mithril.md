@@ -1,3 +1,4 @@
 ---
-tags: [item/material, status/stub]
+tags: [item/material, status/needswork]
+typeOf: material
 ---

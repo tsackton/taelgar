@@ -1,8 +1,12 @@
 ---
+headerVersion: 2023.11.20
 tags: [item/book, religion]
+typeOf: book
+name: Journey of the Souls
 ---
-
-# Journeys of the Souls
+# The Journey of the Souls
+>[!info]+ Information
+> (book)
 
 A book written in Hkaran, the first human [[languages|language]], by an unknown author.
 

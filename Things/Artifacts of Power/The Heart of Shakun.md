@@ -3,6 +3,7 @@ tags:
   - item/magical
 rarity: unique
 whereabouts: Cintra
+typeOf: wonderous item
 ---
 #  The Heart of Shakun
 >[!info]+ Information

@@ -3,7 +3,7 @@ tags: [pc, person, pc/guest]
 campaignInfo: 
 name: Artem Novolozek
 born: 
-species: 
+species: human
 ancestry: 
 gender: 
 player: Mike Sackton
