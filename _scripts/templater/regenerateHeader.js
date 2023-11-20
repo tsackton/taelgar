@@ -1,4 +1,8 @@
 async function regenerateHeader(tp) {
+
+    const versionNumber = "2023.11.20"
+    const prevVersionNumber = "legacy"
+    const nextVersionNumber = "2023.11.20"
        
     async function updateCurrentFile(someContent, someFile) {
         someContent = someContent.join("\n");     
@@ -11,9 +15,24 @@ async function regenerateHeader(tp) {
 
     let version = tp.frontmatter.version
 
+    let vnToUse = versionNumber
+    if (version == "next") vnToUse = nextVersionNumber
+    else if (version == "old") vnToUse = prevVersionNumber
+
 
     // the end of the yaml -- this is 0-counting, so if the file is just a yaml start and end it will be 1
     let indexOfYamlEnd = currentContents.findIndex((f, i) => i>0 && f == "---");
+    
+    if (indexOfYamlEnd > 0) {
+        let yaml = currentContents.filter((v, i) => i >= 0 && i <indexOfYamlEnd)
+        let headerVersionIndex = yaml.findIndex(f => f.trim().startsWith("headerVersion"))
+        if (headerVersionIndex >= 0) {
+            currentContents[headerVersionIndex] = "headerVersion: " + vnToUse
+        } else {
+            currentContents.splice(1, 0, "headerVersion: " + vnToUse)
+            indexOfYamlEnd++
+        }
+    }
 
     // find the end of the header block -- the first newline (blank line) after the YAML block
     let indexOfHeaderBlockEnd = currentContents.findIndex((f, i) => i > indexOfYamlEnd && f.trim() == "");
@@ -22,6 +41,8 @@ async function regenerateHeader(tp) {
     if (indexOfHeaderBlockEnd == -1) {
         indexOfHeaderBlockEnd = currentContents.length;
     }
+
+ 
 
     // starting from the first newline, find the first non-newline
     let emptySpaceEnd = currentContents.findIndex((f, i) => i > indexOfHeaderBlockEnd && f.trim() != "");
