@@ -1,18 +1,31 @@
 ---
-tags: [dufr/background, person, historical, dufr/aware]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags:
+  - dufr/background
+  - person
+  - historical
+  - dufr/aware
+  - status/notes
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  endStatus: died
+campaignInfo: 
 name: Yarad
-born:
+born: 
 species: human
 ancestry: Dunmari
 gender: male
-aliases: [Nayan Yarad, Samraat Nayan Yarad]
+aliases:
+  - Nayan Yarad
+  - Samraat Nayan Yarad
 title: Samraat Nayan
-affiliations: [Nayan Dynasty]
+affiliations:
+  - Nayan Dynasty
 ---
 # Samraat Nayan Yarad
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Dunmar|Dunmari]]), he/him of [[Nayan Dynasty|the Nayan dynasty]]
+>[!info]+ Biographical Info
+> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+>> Member of: The [[Nayan Dynasty]]
 
 The ruler of [[Dunmar]] during and after the [[Second Hobgoblin War]].

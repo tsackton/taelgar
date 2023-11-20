@@ -6,11 +6,12 @@ campaignInfo:
 name: Wahacha
 typeOf: town
 partOf: Vermillion Isles
-displayDefaults: { partOf: "<article> port <typeof> in <loc:10>"}
+displayDefaults:
+ancestry: port
 ---
 # Wahacha
 >[!info]+ Information
-> A port town in the [[Vermillion Isles]], the [[Eastern Green Sea]]
+> A port town in the [[Vermillion Isles]], ~ [[Eastern Islands~]]
 
 Wahacha is one of several notable ports in the [[Vermillion Isles]], inhabited primarily by [[kenku]]. The low port, including the harbor, docks, trading houses, and a few taverns and sailor's inns, is set along the water, below towering cliffs of red stone. The main part of town is built in and among the red stone pillars that dot the landscape, with many buildings clinging impossibly to the sides of cliffs, inaccessible except by flight.
 

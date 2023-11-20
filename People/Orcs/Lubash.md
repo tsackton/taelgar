@@ -1,6 +1,6 @@
 ---
 tags:
-  - status/uptodate
+  - status/refactor
   - person
   - dufr/met
   - dufr/major
@@ -22,24 +22,15 @@ gender: male
 title: Chief
 affiliations:
   - The People of the Rainbow
-whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: Uzgukhar, Xurkhaz
-  - type: home
-    start: 1691-01-02
-    end: ""
-    location: Uzgukhar, Xurkhaz
+whereabouts: Uzgukhar
 ---
 # Chief Lubash
->[!info]+ Biographical Summary
->[[Orcs|orc]], he/him
-> Member of: The People of the Rainbow
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> [[Orcs|orc]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Last met by [[Dunmar Fellowship|The Side Quests]] on December 10th, 1748 in: [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 10th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+>> Member of: The People of the Rainbow
 
 Chief Lubash is the stern and protective ruler of [[Xurkhaz]], and by extension the [[People of the Rainbow]]. He is also the bearer of the [[Mantle of Protection]].  Lubash holds immense pride for his kingdom, [[Xurkhaz]], and resides in [[Uzgukhar]].
 ## Overview
