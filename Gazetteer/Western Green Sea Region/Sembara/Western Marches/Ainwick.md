@@ -1,13 +1,6 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+headerVersion: 2023.11.20
+tags: [place, status/stub]
 name: Ainwick
 typeOf: town
 partOf: Barony of Ainwick
