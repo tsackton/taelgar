@@ -9,7 +9,7 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 name: South Dunmar Road
-placeType: 
+typeOf: road
 partOf:
 ---
 %%  branches from the Dunmar Road just south of the Aursen River %%

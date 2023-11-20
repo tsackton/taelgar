@@ -1,9 +1,8 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Masance
-placeType:
+typeOf: river
 partOf:
+aliases: [River Masance, Masance River]
 ---
 The River Masance flows south and is rocky and shallow.

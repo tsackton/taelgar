@@ -1,10 +1,13 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Dock Workers Great and Honorable Charitable Home for the Lost and Wretched
-placeType:
-partOf:
+partOf: Embry
+typeOf: orphanage
 ---
+# The Dock Workers Great and Honorable Charitable Home for the Lost and Wretched
+>[!info]+ Information
+> An  orphanage in [[Embry]], [[Sembara]], the [[Western Green Sea Region]]
+
 
 An orphanage and workhouse in [[Embry]], known for rough conditions.

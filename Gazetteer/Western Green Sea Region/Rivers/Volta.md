@@ -1,17 +1,9 @@
 ---
-tags:
-  - place
-  - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/notes]
 name: Volta
-placeType: 
-partOf: 
-aliases: []
+typeOf: river
+partOf:
+aliases: [River Volta]
 ---
 
 

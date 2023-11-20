@@ -1,20 +1,11 @@
 ---
-tags:
-  - place
-  - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/notes]
 name: Leviathan Inn
-placeType: inn
+typeOf: inn
 partOf: Hamri
 ---
 # The Leviathan Inn
->[!info]+ Summary
-> an inn in [[Hamri]], the [[Mawar Confederacy]], the [[West Coast Region]]
+>[!info]+ Information
+> An  inn in [[Hamri]], the [[Mawar Confederacy]], the [[Mawakel Peninsula]]
 
-(stub)
-
+Owned by [[Wazir]]

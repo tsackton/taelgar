@@ -1,18 +1,10 @@
 ---
-tags:
-  - place
-  - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/notes]
+campaignInfo: []
 name: Wistel
-placeType: 
-partOf: 
-aliases: []
+typeOf: river
+partOf: Sembara
 ---
-
-
-
+# Wistel
+>[!info]+ Information
+> A  river in [[Sembara]], the [[Western Green Sea Region]]

@@ -9,6 +9,7 @@ campaignInfo:
 name: Lake Pekul
 typeOf: lake
 partOf: Kem
+aliases: [Pekul]
 ---
 # Lake Pekul
 >[!info]+ Information

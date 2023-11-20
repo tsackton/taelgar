@@ -4,6 +4,7 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Mostreve Hills
 partOf:
+typeOf: range of hills
 ---
 
 A series of small mountains and hilly terrain that divides Sembara and Tyrwingha from the [[Plaguelands]].

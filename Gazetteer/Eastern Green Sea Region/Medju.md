@@ -1,15 +1,7 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [ place,  status/stub ]
 name: Medju
-placeType: city
+typeOf: city
 partOf: Eastern Green Sea Region
 ---
 # Medju

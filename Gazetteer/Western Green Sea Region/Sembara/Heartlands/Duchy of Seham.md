@@ -4,10 +4,10 @@ tags:
   - status/stub
 campaignInfo: 
 name: Duchy of Seham
-typOf: duchy
+typeOf: duchy
 partOf: Sembara
 ---
 # The Duchy of Seham
 >[!info]+ Information
-> A place in [[Sembara]], the [[Western Green Sea Region]]
+> A  duchy in [[Sembara]], the [[Western Green Sea Region]]
 

@@ -1,9 +1,8 @@
 ---
-aliases:
-  - Alcarinquë
+aliases: [Alcarinquë]
 name: Alcarinquë
-tags:
-  - place
+tags: [place]
+typeOf: realm
 ---
 # Alcarinquë
 >[!info]+ Summary

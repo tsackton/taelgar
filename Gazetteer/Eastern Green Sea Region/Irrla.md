@@ -1,16 +1,11 @@
 ---
-tags:
-  - place
-  - status/needswork
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [ place,  status/needswork ]
 name: Irrla
-placeType: 
-partOf:
+typeOf: island 
+partOf: Green Sea
 ---
+# Irrla
+>[!info]+ Information
+> An  island in the [[Green Sea]]
 
 A large island in the middle of the [[Green Sea]].

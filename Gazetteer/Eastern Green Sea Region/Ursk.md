@@ -3,10 +3,11 @@ tags: [place, status/needswork]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Ursk
-placeType:
-partOf:
+typeOf: realm
+partOf: 
 ---
 # Ursk
+
 
 Ursk is a secretive civilization on the north coast of the [[Green Sea]]. Rumors are that it is a land of wizards and magic, of ice and snow, of monsters and secret treasure. While outsiders are allowed to trade at a handful of port cities, including [[Zakat]] and [[Praznitsky]], the warehouses and docks of these cities are kept isolated from the city proper, and foreigners are not allowed to pass the borders. Trade with Ursk, however, is worth the hassle, for the valuable hides, furs, and other monster parts, especially the most prized of all, dragonhide from the northern wastes.
 

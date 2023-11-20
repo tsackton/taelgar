@@ -1,11 +1,9 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Douren
-placeType:
+typeOf: river
 partOf:
-aliases: [Douren]
+aliases: [River Douren, Douren River]
 ---
 ### River Douren
 The Douren flows north from the foothills of the [[Sentinel Range]] and is cold and swift with many rapids. 

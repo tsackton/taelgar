@@ -9,7 +9,7 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 name: Lavnoch
-placeType: 
+typeOf: realm
 partOf:
 ---
 

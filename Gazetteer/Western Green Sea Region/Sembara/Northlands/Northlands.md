@@ -3,7 +3,7 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Northlands
-placeType:
+typeOf: region
 partOf:
 ---
 
