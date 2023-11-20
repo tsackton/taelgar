@@ -1,11 +1,17 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: { endStatus: consumed by Cha'mutte's plague}
 campaignInfo: []
 name: Isingue
-placeType:
-partOf:
+destroyed: 1545
+typeOf: city
+partOf: Istabor Alliance
 ---
+# Isingue
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> A city in the [[Istabor Alliance]]
 
 The now-ruined city on the [[Istaros]], once the cultural and spiritual capitol of the [[Istabor Alliance]]. 
 

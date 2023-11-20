@@ -1,13 +1,16 @@
 ---
+headerVersion: 2023.11.20
 tags: [place, status/needswork]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Nardith
-typeOf: 
-partOf:
+typeOf: realm
+partOf: Yuvanti Mountains
+ancestry: dwarven
 ---
-
-## Nardith
+# Nardith
+>[!info]+ Information
+> A [[Dwarves|dwarven]] realm in the [[Yuvanti Mountains]]
 
 The Kingdom of [[Ardith]] was once the great and prosperous southernmost kingdom in the central mountains, trading with the Dunmari, the people of the [[Istabor Alliance]], and even the mysterious Myraenians. However, during the [[Great War]] and the destruction that followed, this kingdom was entirely destroyed, and all that remains are ruins, lost mines, and forgotten roads in the deep.
 
