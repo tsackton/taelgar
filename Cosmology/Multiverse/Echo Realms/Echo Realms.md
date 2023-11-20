@@ -1,4 +1,4 @@
 ---
-tags: [status/stub]
+tags: [status/stub, place]
 displayDefaults: { definitiveArticle: "the" }
 ---

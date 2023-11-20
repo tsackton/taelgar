@@ -1,3 +1,8 @@
+---
+tags: [person]
+---
+
+
 %%% From chat gpt
 - _Background:_ Baron Reginald, a seasoned administrator, was in office for several decades. While known for his dedication to the barony's prosperity, he grew increasingly suspicious of covert activities within the court.
 - _Investigations:_ Unbeknownst to many, Baron Reginald quietly conducted investigations into the whispers of dark magic and nefarious dealings at court. His pursuit of truth led him down a perilous path, uncovering secrets that posed a threat to those in power.
