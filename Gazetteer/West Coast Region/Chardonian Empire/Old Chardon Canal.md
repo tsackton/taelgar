@@ -3,7 +3,7 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Old Chardon Canal
-placeType:
+typeOf: canal
 partOf:
 ---
 # The Old Chardon Canal

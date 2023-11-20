@@ -2,14 +2,9 @@
 tags:
   - place
   - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
 campaignInfo: 
 name: Mahar
-placeType: 
+typeOf: river
 partOf:
 ---
 %%  (from Sea of Storms tp [[~Eastern Mountains~]]  

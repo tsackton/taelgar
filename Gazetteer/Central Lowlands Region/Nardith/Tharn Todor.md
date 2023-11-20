@@ -1,13 +1,16 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: { definitiveArticle: "" }
 campaignInfo: []
 name: Tharn Todor
-placeType:
+typeOf: city
+ancestry: dwarven
 partOf: Nardith
 ---
-
-### Tharn Todor
+# Tharn Todor
+>[!info]+ Information
+> A [[Dwarves|dwarven]] city in [[Nardith]], the [[Yuvanti Mountains]]
 
 The first city and capital of the Dwarven kingdom of [[Nardith]], in the [[Yuvanti Mountains]]. 
 
