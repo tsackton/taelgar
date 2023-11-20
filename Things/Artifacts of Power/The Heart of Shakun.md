@@ -4,7 +4,7 @@ tags:
 rarity: unique
 whereabouts: Cintra
 ---
-# The The Heart of Shakun
+#  The Heart of Shakun
 >[!info]+ Information
 > (unique magical item)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
