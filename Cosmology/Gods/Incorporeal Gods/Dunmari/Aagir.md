@@ -1,3 +1,9 @@
+---
+tags: [deity, religion/fivesiblings]
+gender: male
+partOf: Five Siblings
+---
+
 ### Aagir
 
 One of [[Five Siblings|the Five Siblings]] of the Dunmari religion, an Incorporeal God of humanity. 

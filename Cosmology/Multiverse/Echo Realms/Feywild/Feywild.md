@@ -1,7 +1,15 @@
-## The Feywild
+---
+headerVersion: 2023.11.20
+tags: [place]
+displayDefaults: {definitiveArticle: "the"}
+partOf: Echo Realms
+typeOf: plane
+---
+# Feywild
+>[!info]+ Information
+> A plane in the [[Echo Realms]]
 
 The echo realm of the fey, home to the realms of the Archfey and the [[Fey]]
-
 ## Locations
 
 The politics and political organization of the Feywild is based around the realms of the Archfey, such as [[Shimmersong]], [[Amberglow]], [[Fortune's Rest]] or other lesser known realms.

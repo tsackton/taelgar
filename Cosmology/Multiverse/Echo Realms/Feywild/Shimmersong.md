@@ -1,10 +1,14 @@
 ---
+headerVersion: 2023.11.20
+tags: [place]
 partOf: Feywild
+typeOf: realm
+ancestry: fey
 ---
-
 # Shimmersong
+>[!info]+ Information
+> A [[Fey|fey]] realm in the [[Feywild]], the [[Echo Realms]]
 
-A fey realm.
 
 The fey domain of Shimmersong is a land of bright colors and vivid magic. It is hilly terrain, with pillars of bright gems, crystal forests on rolling slopes, glittering caves, spiders that spin webs of diamond. There is the occasional mountain, and the occasional hidden valley of lush plant life in rich, multicolored soil. Mostly it is a riot of color, and full of oddities that mix crystals/gems with living things, so there might be trees on which ruby apples grow, or a crystal tree that produces real citrus, or a deer with antlers of silver instead of bone.
 

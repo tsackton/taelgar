@@ -1,7 +1,5 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags: [deity, religion/tanshi]
 name: Yezali
 aliases: [Aaviskar]
 ---

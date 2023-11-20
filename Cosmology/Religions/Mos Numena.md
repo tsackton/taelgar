@@ -1,9 +1,7 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags: [religion/mosnumena]
 name: Mos Numena
-aliases: Eight Divines
+aliases: [Eight Divines]
 ---
 
 # Mos Numena

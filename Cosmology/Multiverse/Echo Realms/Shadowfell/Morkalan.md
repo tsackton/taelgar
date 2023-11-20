@@ -1,4 +1,12 @@
-## Morkalan
+---
+headerVersion: 2023.11.20
+tags: [place]
+partOf: Shadowfell
+typeOf: realm
+---
+# Morkalan
+>[!info]+ Information
+> A realm in the [[Shadowfell]], the [[Echo Realms]]
 
 A [[Shadowfell]] domain, created by the dwarf [[Hagrim]] in death, as he turned from the gods. Known as the Land of the Dishonored Dead. A small domain, one that can be crossed in a day. A place where the sky is always dim and shadowed, the horizon bounded by endless mists.
 

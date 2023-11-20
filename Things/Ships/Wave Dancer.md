@@ -1,3 +1,7 @@
+---
+tags: [item/boat]
+---
+
 ## The Wave Dancer
 
 A halfling ship plying the trade routes of the eastern [[Green Sea]]. Crewed by the Brightmoon halfling family, by and large, including:
