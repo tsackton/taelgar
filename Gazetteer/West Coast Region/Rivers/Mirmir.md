@@ -9,4 +9,5 @@ partOf: Mawakel Peninsula
 ---
 # Mirmir
 >[!info]+ Information
-> A river in the [[Mawakel Peninsula]]
+> A river in the [[Mawakel Peninsula]], the [[West Coast Region]]
+

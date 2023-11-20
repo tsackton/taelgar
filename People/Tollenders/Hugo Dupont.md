@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -10,17 +11,16 @@ ancestry: Isinguer
 gender: male
 affiliations: [University of Tollen]
 whereabouts:
-- {type: home, start: '1689-01-01', end: '', location: 'Tollen, Western Green Sea'}
-- {type: home, start: '1689-01-02', end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, location: Tollen}
+- {type: awak, start: '1748-12-29', end: '1748-12-29', location: Magnus Street}
 ---
 # Hugo Dupont
->[!info]+ Biographical Summary
->human (Isinguer), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Tollen]], [[Western Green Sea]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 29th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Istabor Alliance|Isinguer]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in [[Magnus Street]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
+>> Member of: The [[University of Tollen]]
 
 %%SECRET[1]%%
 

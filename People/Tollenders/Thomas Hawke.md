@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -9,18 +10,15 @@ species: human
 ancestry: Tollender
 gender: male
 affiliations: [University of Tollen]
-whereabouts:
-- {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
-- {type: home, start: 1716-01-02, end: '', location: 'Tollen, Western Green Sea'}
+whereabouts: Tollen
 ---
 # Thomas Hawke
->[!info]+ Biographical Summary
->human (Tollender), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Tollen]], [[Western Green Sea]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 30th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Tollen|Tollender]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
+>> Member of: The [[University of Tollen]]
 
 Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [[University of Tollen]], recognized more for his dramatic flair than his academic pursuits.
 ## Overview

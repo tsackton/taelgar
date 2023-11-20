@@ -1,17 +1,17 @@
 ---
+headerVersion: 2023.11.20
 tags:
   - place
   - status/needswork
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
+displayDefaults: { definitiveArticle: ""}
 campaignInfo: 
 name: Arryn’s Tower
 typeOf: tower
-partOf:
+partOf: ~Eastern Islands~
 ---
+# Arryn’s Tower
+>[!info]+ Information
+> A tower in the [[~Eastern Islands~]]
 
-# Arryn's Tower
+
 

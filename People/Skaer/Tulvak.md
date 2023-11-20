@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -13,13 +14,11 @@ whereabouts:
 - {type: home, start: 1719-01-02, end: '', location: 'Pyhlla, Skaerhem'}
 ---
 # Tulvak
->[!info]+ Biographical Summary
->human (Skaer), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Pyhlla]], [[Skaerhem]]
->> Based in: [[Pyhlla]], [[Skaerhem]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 25th, 1748: [[Pyhlla]], [[Skaerhem]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Skaerhem|Skaer]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 25th, 1748 in [[Pyhlla]], [[Skaerhem]] %%^End%%
 
 Tulvak is a skilled sailor hailing from the island of [[Pyhlla]] in Skaerhem, in the Western [[Green Sea]]. He has for many years served as the ferry captain guiding pilgrims to [[Vetta]], and knows the coast of [[Vetta]] like the back of his hand. 
 ## Description
