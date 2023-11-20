@@ -1,5 +1,8 @@
 ---
 tags: [person]
+species: human
+ancestry: Sembaran
+title: Baron
 ---
 
 

@@ -4,19 +4,11 @@ tags:
   - person
   - pc/unsorted
   - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
 name: Izar
 born: 
-species: 
-ancestry: 
+species: lizardfolk
 gender: 
-player: 
-affiliations:
+player: Kiya Nicoll
 ---
 
 # Izar

@@ -1,21 +1,17 @@
 ---
+headerVersion: 2023.11.20
 tags:
-  - pc
   - person
   - pc/unsorted
   - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
 name: Roe DoTorka
 born: 
-species: 
-ancestry: 
-gender: 
-player: 
-affiliations:
+species: dwarf
+ancestry: Ardikhun
+gender: male
+player: Chris Kelly
 ---
+# Roe DoTorka
+>[!info]+ Biographical Info
+> [[Ardith|Ardikhun]] [[Dwarves|dwarf]], he/him
 

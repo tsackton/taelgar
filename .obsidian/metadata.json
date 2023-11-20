@@ -124,6 +124,16 @@
             "isAlias": true
         },
         {
+            "from": "Ardikhun",
+            "to": "Ardith",
+            "isAlias": true
+        },        
+        {
+            "from": "Maseaun",
+            "to": "Duchy of Maseau",
+            "isAlias": true
+        },        
+        {
             "from": "fire giant",
             "to": "giants",
             "isAlias": true

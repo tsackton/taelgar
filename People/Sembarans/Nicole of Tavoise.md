@@ -1,5 +1,7 @@
 ---
 tags: [person]
+species: human
+ancestry: Sembaran
 gender: female
 ---
 

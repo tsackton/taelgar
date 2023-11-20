@@ -1,21 +1,14 @@
 ---
 tags:
   - pc/companion
-  - pc
   - person
   - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
 name: Baxter
 born: 
-species: 
+species: axebeak
 ancestry: 
 gender: 
-player: 
+player: Dave Schwartz
 affiliations:
 ---
 ### Baxter the Axebeak

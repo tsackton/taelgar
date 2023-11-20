@@ -8,7 +8,7 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 name: Plaguelands
-placeType: 
+typeOf: region
 partOf: Desolation of Cha'mutte
 ---
 # Plaguelands
