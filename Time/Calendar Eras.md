@@ -1,3 +1,6 @@
+---
+tags: [background]
+---
 # Calendar Eras
 
 There are many different calendar eras in use across the world of Taelgar. The two most commonly used, both in these notes and by scholars and the learned across Taelgar are Drankorian Reckoning (DR), and the Dwarven Count of Years (CY). 

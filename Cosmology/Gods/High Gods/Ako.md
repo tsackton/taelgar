@@ -1,3 +1,6 @@
+---
+tags: [deity, religion/kestavo]
+---
 # Ako
 
 In the [[Kestavo]] tradition, one [[High Gods|creator god]] is acknowledged, called Ako. The small gods, the [[Kestavo]], carry the prayers of their communities to Ako, who grants blessings. It is from Ako that the power of the [[kestavo]] flow to their worshippers.

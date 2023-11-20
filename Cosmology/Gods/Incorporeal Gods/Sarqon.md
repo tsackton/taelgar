@@ -1,3 +1,7 @@
+---
+tags: [deity]
+---
+
 # Sarqon
 *sahr-kon*
 

@@ -1,3 +1,8 @@
+---
+tags: [place]
+partOf: Feywild
+---
+
 # Whispervale
 
 A fey domain.

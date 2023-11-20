@@ -1,3 +1,3 @@
 ---
-tags: [status/needswork]
+tags: [status/needswork, religion/tanshi]
 ---

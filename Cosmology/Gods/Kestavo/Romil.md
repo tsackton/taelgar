@@ -1,3 +1,6 @@
+---
+tags: [deity, religion/kestavo]
+---
 ### Romil
 *he/him*
 

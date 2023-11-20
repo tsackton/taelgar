@@ -2,6 +2,7 @@
 tags: [species]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
+typeOf: species
 ---
 # Orcs
 

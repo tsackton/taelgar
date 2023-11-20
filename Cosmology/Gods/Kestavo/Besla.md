@@ -1,3 +1,6 @@
+---
+tags: [deity, religion/kestavo]
+---
 ### Besla
 *she/her*
 

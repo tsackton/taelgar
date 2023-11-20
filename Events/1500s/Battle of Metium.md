@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork]
+tags: [status/needswork, event]
 ---
 
 # Battle of Metium

@@ -1,5 +1,5 @@
 ---
-tags: []
+tags: [event]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name:

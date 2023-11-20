@@ -1,3 +1,9 @@
+---
+headerVersion: 2023.11.20
+tags: [deity]
+pronouns: it
+aliases: [The First and the Last]
+---
 # Anida
 
 Called the "the First and the Last" by the Deno'qai. Interpreted by modern theologians as a form of the Divinity itself, the duality of [[Arha]] and [[Malik]]. 
