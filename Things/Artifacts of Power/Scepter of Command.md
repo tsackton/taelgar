@@ -1,5 +1,6 @@
 ---
-tags: [item/magical]
+headerVersion: 2023.11.20
+tags: [item/magical, testcase]
 rarity: unique
 campaignInfo: [{ campaign: DuFr, type: destroyed, date: 1748-12-25}]
 created: 0001

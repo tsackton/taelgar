@@ -1,5 +1,5 @@
 ---
-tags: [historical, person, dufr/major, dufr/aware]
+tags: [historical, person, dufr/major, dufr/aware, testcase]
 displayDefaults: { secondaryInfo: "<subspecies> (<species>), <pronouns>" }
 campaignInfo: []
 name: Apollyon
