@@ -1,9 +1,12 @@
 ---
 tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Dallet
-placeType:
-partOf:
+typeOf: village
+partOf: Barony of Aveil
 ---
+# Dallet
+>[!info]+ Information
+> A village in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
+
 

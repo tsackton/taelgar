@@ -3,11 +3,13 @@ tags: [place, status/notes]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Breva
-placeType:
-partOf:
+typeOf: realm
+partOf: Highland Kingdoms
 ---
-
 # Breva
+>[!info]+ Information
+> A realm in the [[Highland Kingdoms]], the [[Western Green Sea Region]]
+
 A highlander kingdom.
 
 %% Notes 

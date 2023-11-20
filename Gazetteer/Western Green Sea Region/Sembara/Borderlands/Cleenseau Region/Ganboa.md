@@ -4,12 +4,14 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Ganboa
 pronunciation: Gan-bo-a
-partOf: Sembara
+partOf: Barony of Aveil
+typeOf: village
 population: 62
 ---
 # Ganboa
-*(Gan-bo-a),* pop. 62
-
-*population 62*
+*(Gan-bo-a)*
+>[!info]+ Information
+> pop. 62
+> A village in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
 
 A small lizardfolk village a few miles downstream on the Enst. 

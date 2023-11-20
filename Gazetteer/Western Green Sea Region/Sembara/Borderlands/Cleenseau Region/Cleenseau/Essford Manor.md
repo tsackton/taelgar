@@ -3,9 +3,13 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Essford Manor
-placeType:
-partOf:
+typeOf: manor house
+partOf: Cleenseau
 ---
+# The Essford Manor
+>[!info]+ Information
+> A manor house in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
+
 
 The keep of the lord of Cleenseau, it is set on a small hillock inside the walls, and is defended by its own wooden palisade. 
 

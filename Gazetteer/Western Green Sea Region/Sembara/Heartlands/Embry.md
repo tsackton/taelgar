@@ -3,6 +3,6 @@ tags: [place, status/stub]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Embry
-placeType:
-partOf:
+typeOf: city
+partOf: Sembara
 ---

@@ -94,6 +94,11 @@
     },
     "linkmap": [
         {
+            "from" : "fire elemental",
+            "to" : "Elementals",
+            "isAlias" : true
+        },
+        {
             "from": "archfey",
             "to": "fey",
             "isAlias": true
@@ -150,6 +155,16 @@
             "isAlias": true
         },
         {
+            "from" : "Skaegish",
+            "to": "Skaerhem",
+            "isAlias": true
+        },
+        {
+            "from" : "Skaer",
+            "to": "Skaerhem",
+            "isAlias": true
+        },
+        {
             "from": "Sembaran",
             "to": "Sembara",
             "isAlias": true
@@ -173,6 +188,11 @@
             "from": "Tollender",
             "to": "Tollen",
             "isAlias": true
+        },
+        {
+            "from" : "Isinguer",
+            "to": "Istabor Alliance",
+            "isAlias" : true
         },
         {
             "from": "Cymean",

@@ -1,18 +1,14 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Valarin
-placeType:
-partOf:
+typeOf: city
+partOf: Duchy of Maseau
 ---
+# Valarin
+>[!info]+ Information
+> A city in the [[Duchy of Maseau]]
 
-The capital city of the [[Duchy of Maseau]]
-
-
-
-
-
+The seat of the Duke of Maseau
 
 
 
