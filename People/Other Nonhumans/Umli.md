@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -11,16 +12,14 @@ gender: female
 aliases: [Umli]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Vostok Mountains, Western Green Sea'}
-- {type: home, start: 1732-01-02, end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: 1732-01-02, end: '', location: 'Tollen'}
 ---
 # Umli the Exile
->[!info]+ Biographical Summary
->stoneborn, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Vostok Mountains, [[Western Green Sea]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 29th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Stoneborn|stoneborn]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]], [[Western Green Sea]] %%^End%%
 
 Umli is a stoneborn exile living in [[Tollen]], a master metalworker, and a teacher. 
 ## Overview

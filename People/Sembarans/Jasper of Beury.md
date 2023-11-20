@@ -1,18 +1,13 @@
 ---
 tags:
   - person
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
 campaignInfo:
   - campaign: Clee
     date: 1719-12-04
     type: met
 name: Jasper
 born: 1680-09-21
-species: Human
+species: human
 ancestry: 
 gender: male
 whereabouts:
