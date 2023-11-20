@@ -1,10 +1,7 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags: [species]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
-speciesDescriptor: orc
 ---
 # Orcs
 

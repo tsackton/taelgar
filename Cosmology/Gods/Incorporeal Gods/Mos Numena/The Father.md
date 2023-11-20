@@ -1,3 +1,6 @@
+---
+tags: [deity, religion/mosnumena]
+---
 # The Father
 *he/him*
 

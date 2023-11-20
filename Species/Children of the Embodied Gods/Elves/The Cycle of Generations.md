@@ -1,4 +1,6 @@
-
+---
+tags: [background]
+---
 # The Elven Cycle of Generations
 
 The elven cycle of generations, know as the *ka*, is the result of elves very long lifespan, but limited time when they can bear children. Elves are only fertile for about 30 years, when the roots of Aldanor tie them to the material plane, but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from when the planes were separated and the material plane created. 

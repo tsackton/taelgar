@@ -1,10 +1,7 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags: [species]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
-speciesDescriptor: stoneborn
 ---
 # Stoneborn
 

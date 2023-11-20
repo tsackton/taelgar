@@ -1,3 +1,6 @@
+---
+tags: [meta]
+---
 # Players of Taelgar
 
 Many groups have adventured in Taelgar over the years. 

@@ -1,3 +1,8 @@
+---
+tags: [deity, religion/mosnumena]
+displayDefaults: {definitiveArticle: ""}
+---
+
 ### The Wildling
 *they/them*
 

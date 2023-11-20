@@ -1,3 +1,7 @@
+---
+tags: [species]
+---
+
 # Derro
 Twisted dwarves, the results of [[Ithilids|mind flayer]] experiments to create slave races. Severed from any connection to their firstborn and manipulated by mind flayers into their current form.
 
