@@ -8,7 +8,7 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 name: Adderfell
-placeType: 
+typeOf: town 
 partOf: Addermarch
 ---
 The chief town of [[Addermarch]]

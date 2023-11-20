@@ -2,14 +2,9 @@
 tags:
   - place
   - status/needswork
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
 campaignInfo: 
 name: Cymea
-placeType: 
+typeOf: realm 
 partOf:
 ---
 

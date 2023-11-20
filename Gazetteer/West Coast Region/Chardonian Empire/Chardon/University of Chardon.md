@@ -1,14 +1,6 @@
 ---
-tags:
-  - place
-  - "#event-source"
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
-placeType: university
+tags: [place, event-source]
+typeOf: university
 partOf: Chardon
 timelineDescriptor: University of Chardon
 orgType: university

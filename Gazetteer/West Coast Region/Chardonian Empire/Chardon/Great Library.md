@@ -1,15 +1,7 @@
 ---
-tags:
-  - place
-  - "#event-source"
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
+tags: [place, event-source]
 campaignInfo: 
 name: Great Library
-placeType: 
 partOf: Chardon
 orgType: university
 ---
