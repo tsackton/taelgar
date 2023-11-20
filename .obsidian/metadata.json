@@ -11,6 +11,16 @@
         "Taelgar"
     ],
     "displayDefaults": {
+        "deity": {
+            "boxName": "Summary",
+            "affiliationTypeOf": [  
+                "realm", 
+                "species",
+                "religion"
+            ],
+            "definitiveArticle": "",
+            "secondaryInfo": "<pronouns>"
+        },
         "person": {
             "boxName": "Biographical Info",
             "startStatus": "born",
