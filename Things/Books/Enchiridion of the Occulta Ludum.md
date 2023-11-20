@@ -1,5 +1,5 @@
 ---
-tags: [item/magical, item/book]
+tags: [item/magical, item/book, status/refactor]
 typeOf: book
 campaignInfo: [{campaign: DuFr, type: found, date: 1748-11-23 }]
 whereabouts:
@@ -14,3 +14,5 @@ whereabouts:
 >> %%^Campaign:DuFr%% Found by the [[Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
 Appears to be a blank handbook of the Occulta Ludum. Faintly magical.
+
+%%remove campaign whereabouts and information to party treasure page%%

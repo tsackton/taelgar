@@ -10,8 +10,8 @@ gender: male
 aliases: [Emperor Apollyon, Apollyon]
 title: Emperor
 whereabouts:
-- {type: home, start: "", end: 0001, location: 'Drankor'}
-- {type: away, start: 0002 } 
+- {type: home, end: 1059, location: 'Drankor'}
+- {type: away, start: 1059 } 
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Info
