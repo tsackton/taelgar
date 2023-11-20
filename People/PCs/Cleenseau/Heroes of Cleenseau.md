@@ -3,7 +3,7 @@ tags: [organization/party]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo: []
 name:
-orgType: party
+typeOf: adventuring party
 ---
 A group of four fate-blown adventures who met in [[Taviose]] during the [[First Spider Attack on Tavoise]]. Since then, have become well-known in the region. 
 

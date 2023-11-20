@@ -1,14 +1,8 @@
 ---
 tags:
   - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
 name: West Coast Region
-placeType: region
+typeOf: region
 partOf: Taelgar
 ---
 # West Coast Region

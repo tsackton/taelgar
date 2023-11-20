@@ -2,5 +2,5 @@
 tags:
   - organization
   - status/stub
-orgType: family
+typeOf: family
 ---

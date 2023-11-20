@@ -7,9 +7,9 @@ displayDefaults:
   endPrefix: disbanded
   endStatus: disbanded
 campaignInfo: 
-name: 
+name: Fraternity of the Empty Moon
 timelineDescriptor: Fraternity of the Empty Moon
-orgType: cult
+typeOf: cult
 ---
 # The Fraternity of the Empty Moon
 

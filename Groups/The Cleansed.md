@@ -2,15 +2,9 @@
 tags:
   - organization
   - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: disbanded
-  endStatus: disbanded
-  definitiveArticle: ""
-campaignInfo: 
-name: 
-orgType: cult
+displayDefaults: { definitiveArticle: "" }
+name: The Cleansed
+typeOf: cult
 ---
 
 # The Cleansed

@@ -9,7 +9,7 @@ displayDefaults:
   endStatus: disbanded
 campaignInfo: 
 name: Dustthorn Horde
-orgType:
+typeOf: horde
 ---
 # Dustthorn Horde
 

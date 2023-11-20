@@ -2,13 +2,9 @@
 tags:
   - organization
   - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: disbanded
-  endStatus: disbanded
 campaignInfo: 
-name:
+name: Blackened Claw
+typeOf: clan
 ---
 ### The Blackened Claw Clan
 

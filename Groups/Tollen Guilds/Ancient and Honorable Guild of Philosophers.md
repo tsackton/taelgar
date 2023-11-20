@@ -10,7 +10,7 @@ campaignInfo:
 name: Ancient and Honorable Guild of Philosophers
 aliases:
   - Philosopher's Guild
-orgType: guild
+typeOf: guild
 ---
 
 # The Ancient and Honorable Guild of Philosopher's

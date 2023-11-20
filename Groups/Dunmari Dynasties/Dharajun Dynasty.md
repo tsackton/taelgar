@@ -2,7 +2,8 @@
 tags:
   - organization
   - status/notes
-orgType: family
+typeOf: family
+subTypeOf: dynasty
 name: Dharajun dynasty
 ---
 # The Dharajun Dynasty

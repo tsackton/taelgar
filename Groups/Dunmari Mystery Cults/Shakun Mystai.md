@@ -7,8 +7,7 @@ displayDefaults:
   endPrefix: disbanded
   endStatus: disbanded
 campaignInfo: 
-name: 
-orgType: religious
+name: Shakun Mystai
 ---
 # The Shakun Mystai
 

@@ -2,11 +2,7 @@
 tags:
   - organization
   - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: disbanded
-  endStatus: disbanded
+typeOf: clan
 campaignInfo: 
 name:
 ---

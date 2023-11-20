@@ -9,7 +9,8 @@ displayDefaults:
   endStatus: disbanded
 campaignInfo: 
 name: 
-orgType: army
+typeOf: army
+subTypeOf: warband
 ---
 # Havdar's Warband
 

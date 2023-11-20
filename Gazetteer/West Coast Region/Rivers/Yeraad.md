@@ -1,14 +1,10 @@
 ---
 tags:
   - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
+  - status/check
 campaignInfo: 
 name: Yeraad
-placeType: 
+typeOf: river
 partOf: Mawar Confederacy
 ---
 # Yeraad
