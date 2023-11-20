@@ -1,3 +1,7 @@
+---
+tags: [place]
+---
+
 # Plane of Water
 
 The Elemental Plane of Water, one of the outer planes associated with the [[Plane of Magic]].

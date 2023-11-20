@@ -1,4 +1,6 @@
 ---
+tags: [place]
+typeOf: realm
 partOf: Feywild
 ---
 

@@ -1,6 +1,5 @@
 ---
-tags:
-- status/notes
+tags: [status/notes, place]
 ---
 
 # Mirror Realm

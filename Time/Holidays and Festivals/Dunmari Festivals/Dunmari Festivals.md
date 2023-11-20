@@ -1,3 +1,7 @@
+---
+tags: [background]
+---
+
 # Festivals
 
 Festivals play a major role in Dunmari culture. They are not just religious celebrations, but moments when the normally widely dispersed community comes together. There are usually markets, games, and other community events around the religious rituals. A few major festivals are celebrated by communal gatherings, including sometimes the return of wandering communities to fixed temples, but many others are celebrated in smaller groups or marked by private household rituals and prayers. The cycle of Dunmari festivals and feast days runs from January to January, with the new year marked on January 22nd. 

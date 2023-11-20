@@ -1,5 +1,7 @@
 ---
 partOf: Feywild
+typeOf: realm
+tags: [place]
 ---
 
 # Duskmire

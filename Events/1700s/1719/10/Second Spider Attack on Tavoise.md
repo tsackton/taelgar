@@ -1,10 +1,6 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
-name:
+tags: [event]
 DR: 1719-10-21
-fc-date: 1719-10-21
 ---
 ### Second Spider Attack on Taviose
 *October 21st, 1719; 3am*
