@@ -4,19 +4,11 @@ tags:
   - pc
   - person
   - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
 name: Willow Wind
-born: 
-species: 
-ancestry: 
-gender: 
-player: 
-affiliations:
+species: fox
+ancestry: spirit
+gender: male
+player: Mike Sackton
 ---
 ### Willow Wind
 

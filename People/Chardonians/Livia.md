@@ -1,5 +1,6 @@
 ---
 tags: [person]
+species: human
 ---
 
 (stub)

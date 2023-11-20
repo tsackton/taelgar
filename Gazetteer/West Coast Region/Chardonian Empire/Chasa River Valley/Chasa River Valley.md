@@ -3,6 +3,7 @@ tags:
   - place
   - status/notes
 partOf: Chardonian Empire
+typeOf: region
 name: Chasa River Valley
 ---
 # The Chasa River Valley

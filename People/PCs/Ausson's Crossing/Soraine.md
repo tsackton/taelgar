@@ -1,23 +1,21 @@
 ---
+headerVersion: 2023.11.20
 tags:
   - pc
   - person
   - pc/unsorted
   - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
 campaignInfo: 
 name: Soraine
 born: 
-species: 
-ancestry: 
-gender: 
-player: 
-affiliations:
+species: human
+ancestry: Maseaun
+gender: male
+player: Matt Rand
 ---
+# Soraine
+>[!info]+ Biographical Info
+> [[Duchy of Maseau|Maseaun]] [[Humans|human]], he/him
 
 %%
 Notes:

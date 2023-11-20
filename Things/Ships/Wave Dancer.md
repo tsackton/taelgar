@@ -1,5 +1,7 @@
 ---
 tags: [item/boat]
+typeOf: vehicle
+subTypeOf: boat
 ---
 
 ## The Wave Dancer

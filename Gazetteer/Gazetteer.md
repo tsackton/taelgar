@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [meta]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Gazetteer
