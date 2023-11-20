@@ -5,7 +5,7 @@ campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Aldric Tannen
 born: 1682-12-07
-species: Human
+species: human
 ancestry: Sembaran
 gender: male
 whereabouts:
@@ -13,13 +13,11 @@ whereabouts:
 - {type: home, start: 1719-12-04, end: '', location: 'Tannen Smithy, Sembara'}
 ---
 # Aldric Tannen
->[!info]+ Biographical Summary
->Human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Cleenseau]], [[Sembara]]
->> Based in: Tannen Smithy, [[Sembara]]
->>%%^Campaign:Clee%% Last seen by the party at December 4th, 1719: Tannen Smithy, [[Sembara]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Tannen Smithy]], [[Sembara]] %%^End%%
 
 Aldric is a jovial fisherman who operates one of the rafts on the River Enst during the summer. He's a great source of local knowledge and can regale the players with tales of the river's history and secrets.
 
