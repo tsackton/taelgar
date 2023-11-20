@@ -11,6 +11,7 @@ partOf: Am'khazar
 >[!info]+ Information
 > A city in [[Am'khazar]], [[Sentinel Range|Labkhan]], [[Central Highlands Region]]
 
+
 ## Overview 
 
 **Location**: In the kingdom of Am’khazar, on the western edge of the [[Sentinel Range]], deep underground.

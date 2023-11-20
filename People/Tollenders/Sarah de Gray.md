@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [dufr/background, person, dufr/met]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -11,16 +12,14 @@ gender: female
 family: de Grey
 whereabouts:
 - {type: home, start: '', end: '', location: Duchy of Maseau}
-- {type: home, start: 1746-01-01, end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: 1746, end: '', location: 'Tollen, Western Green Sea'}
 ---
-# Sarah de Grey
->[!info]+ Biographical Summary
->human (Isinguer), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Duchy of Maseau]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 29th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+# Sarah De Grey
+>[!info]+ Biographical Info
+> [[Istabor Alliance|Isinguer]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]], [[Western Green Sea]] %%^End%%
 
 Sarah de Grey, a 16-year-old from the distinguished Isinguer family, is a student at the University of [[Tollen]]. Originally from the [[Duchy of Maseau]] in the south, she has come to [[Tollen]] to study, and has developed connections to the Insinguer community in the city, especially [[Guy Marchand]].  
 

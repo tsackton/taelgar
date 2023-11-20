@@ -1,8 +1,9 @@
 ---
+headerVersion: 2023.11.20
 tags: [person, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-- {campaign: DuFr, date: 1748-12-17, type: met}
+- {campaign: DuFr, date: 1749-01-05, type: met}
 name: Iskra
 born: 1724
 species: human
@@ -10,17 +11,15 @@ ancestry: Skaer
 gender: female
 title: Laivan
 whereabouts:
-- {type: home, start: "", end: '', location: 'Pikkua, Skaerhem'}
-- {type: home, start: 1743-01-01, end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, location: 'Pikkua, Skaerhem'}
+- {type: home, start: 1743, end: '', location: 'Tollen'}
 ---
 # Laivan Iskra
->[!info]+ Biographical Summary
->human (Skaer), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Pikkua, [[Skaerhem]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 17th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Skaerhem|Skaer]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on January 5th, 1749 in the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
 
 A young woman and priestess of [[Kaikkea]] in [[Tollen]]. Speaks with the power of the ocean, deeply connected to [[Kaikkea]]. 
 
