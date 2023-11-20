@@ -1,4 +1,26 @@
-This lists all the links that are linked but not yet created
+# Unlinked Pages
+
+These are notes that are not linked from any other note, excluding the `_` directories and `Worldbuilding`
+
+```dataview
+TABLE split(file.path,"/",1)[0] as Folder 
+FROM -"_DM_" and -"_MoC" and -"_templates" and -"_templates" and -"_Testing" and -"Worldbuilding"
+WHERE length(file.inlinks)=0 SORT split(file.path,"/",1)[0]
+```
+
+# Linked Worldbuilding Pages
+
+These are worldbuliding notes that ARE linked
+
+```dataview
+TABLE length(file.inlinks) as Backlinks
+FROM "Worldbuilding"
+WHERE length(file.inlinks)>0 SORT length(file.inlinks)
+```
+
+# Dangling Links
+
+These are all the things that are linked, but don't have a page
 
 ```dataviewjs
 //Min Number of link before showing up
