@@ -1,4 +1,3 @@
 ---
-tags:
-  - status/notes
+tags: [organization, religion/fivesiblings]
 ---

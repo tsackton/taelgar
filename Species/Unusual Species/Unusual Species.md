@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Unusual Species
 
 Not every sentient species in Taelgar has a simple origin story. 

@@ -1,3 +1,6 @@
+---
+tags: [meta]
+---
 # Children of the Divine
 
 In the early days of myth and wonder, the Creator Gods made the great wyrms, the archfey, the elder elementals, and the titans. From these immensely powerful beings, the [[Dragons]], [[Fey]], [[Elementals]], and [[Giants]] trace their ancestry. 

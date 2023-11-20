@@ -1,3 +1,7 @@
+---
+tags: [item/book, religion]
+---
+
 # Journeys of the Souls
 
 A book written in Hkaran, the first human [[languages|language]], by an unknown author.
