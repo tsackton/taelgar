@@ -1,5 +1,6 @@
 ---
 aliases: [centaur, Centaur]
+tags: [species]
 ---
 
 # Centaurs

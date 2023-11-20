@@ -1,3 +1,7 @@
+---
+tags: [background]
+---
+
 # Languages
 ***This is a work in progress and details may change as new areas of the world are explored in play. Characters will always have an opportunity to retcon their language choices if elements of this section are revised.***
 

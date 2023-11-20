@@ -1,10 +1,7 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags: [species]
 name: Halflings
 aliases: [halfling, Halfling, halflings, Halflings]
-speciesDescriptor: halfling
 ---
 # Halflings
 

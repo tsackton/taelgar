@@ -1,19 +1,11 @@
 ---
-tags:
-  - status/notes
-displayDefaults:
-  startStatus: created
-  startPrefix: created
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [status/notes, species]
 name: Hobgoblins
 aliases:
   - hobgoblin
   - Hobgoblin
   - hobgoblins
   - Hobgoblins
-speciesDescriptor: hobgoblin
 ---
 (stub)
 

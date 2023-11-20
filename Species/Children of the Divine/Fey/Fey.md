@@ -1,3 +1,6 @@
+---
+tags: [species]
+---
 # Fey
 
 This page contains lore information about fey. For details on character creation and playing a fey character, see [[Playing a Fey Species]]. 

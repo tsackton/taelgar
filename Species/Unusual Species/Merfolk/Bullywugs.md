@@ -1,3 +1,6 @@
+---
+tags: [species]
+---
 (stub)
 
 Notes:

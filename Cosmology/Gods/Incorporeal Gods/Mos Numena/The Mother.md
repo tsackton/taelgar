@@ -1,3 +1,7 @@
+---
+tags: [deity, religion/mosnumena]
+---
+
 # The Mother
 *she/her*
 

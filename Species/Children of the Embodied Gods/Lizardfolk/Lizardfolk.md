@@ -1,10 +1,7 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags: [species, status/draft]
 name: Lizardfolk
 aliases: [lizardfolk]
-speciesDescriptor: lizardfolk
 ---
 # Lizardfolk
 

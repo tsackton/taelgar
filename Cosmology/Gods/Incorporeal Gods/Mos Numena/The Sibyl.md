@@ -1,7 +1,6 @@
 ---
-tags: []
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+tags: [deity, religion/mosnumena]
+displayDefaults: {definitiveArticle: ""}
 name: The Sibyl
 aliases: [Sibyl]
 ---

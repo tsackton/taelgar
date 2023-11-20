@@ -1,3 +1,6 @@
+---
+tags: [species]
+---
 # Kobolds
 
 This page contains lore information about kobodls. For details on character creation and playing a kobold, see [[Playing a Kobold]]. 

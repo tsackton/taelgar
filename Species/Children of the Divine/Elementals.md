@@ -1,4 +1,5 @@
 ---
+tags: [species]
 aliases: [elemental, elementals, Elemental]
 ---
 

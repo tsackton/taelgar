@@ -1,16 +1,7 @@
 ---
-tags:
-  - status/needswork
-displayDefaults:
-  startStatus: created
-  startPrefix: created
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [status/needswork, species]
 name: Humans
-aliases:
-  - human
-speciesDescriptor: human
+aliases: [human]
 ---
 # Humans
 

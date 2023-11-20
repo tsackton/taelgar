@@ -1,15 +1,6 @@
 ---
-tags:
-  - status/needswork
-displayDefaults:
-  startStatus: created
-  startPrefix: created
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [species, status/needswork]
 name: Kenku
-aliases:
-  - kenku
-speciesDescriptor: kenku
+aliases: [kenku]
 ---
 (stub)

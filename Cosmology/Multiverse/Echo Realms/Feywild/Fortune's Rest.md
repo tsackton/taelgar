@@ -1,3 +1,9 @@
+---
+tags: [place]
+partOf: Feywild
+typeOf: realm
+---
+
 # Fortune's Rest
 
 A fey realm.

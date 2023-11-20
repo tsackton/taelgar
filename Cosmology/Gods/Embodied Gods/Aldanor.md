@@ -1,0 +1,4 @@
+---
+tags: [deity]
+affiliations: [elves]
+---
