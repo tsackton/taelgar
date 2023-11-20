@@ -4,7 +4,7 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Khumarz
 placeType:
-partOf:
+partOf: Xurkhaz
 ---
 # Khumarz
 

@@ -3,9 +3,14 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Pyhlla
-placeType:
-partOf:
+typeOf: town
+partOf: Skaerhem
+population: 800
 ---
+# Pyhlla
+>[!info]+ Information
+> pop. 800
+> A town in [[Skaerhem]]
 
 Pyhlla a port town, on a volcanic rocky island, less than a day's sail from [[Vetta]], the island of the sacred waters. 
 

@@ -1,12 +1,15 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Rinburg
-placeType:
-partOf:
+typeOf: town
+population: 2341
+partOf: Barony of Aveil
 ---
-*population 2341*
+# Rinburg
+>[!info]+ Information
+> pop. 2,341
+> A town in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
 
 A trading town at the head of navigation of the [[Enst]]. A busy ferry crosses the river here, and it is one of the few points to cross the river until [[Cleenseau]], a hundred miles further west. The landscape around Rinburg is pastrol fields and farms, and there is much good sheepland within two days ride.
 

@@ -3,9 +3,13 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Cleenseau Region
-placeType:
-partOf:
+typeOf: 
+partOf: Barony of Aveil
 ---
+# The Cleenseau Region
+>[!info]+ Information
+> A place in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
+
 
 The Cleenseau region is the area around the significant market town of [[Cleenseau]], nestled on the north bank of the River Enst, bounded by the River Enst in the south, the [[Cleenseau Wood]] in the north, [[Rinburg]] in the east, and [[Taviose]] in the west.
 

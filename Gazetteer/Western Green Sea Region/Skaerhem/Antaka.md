@@ -3,9 +3,13 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Antaka
-placeType:
-partOf:
+typeOf: island
+partOf: Skaerhem
 ---
+# Antaka
+>[!info]+ Information
+> An island in [[Skaerhem]]
+
 
 Antaka is a small island dominated by a massive volcano. There are four small villages here, which together make a single district of only 6 oskunja. 
 

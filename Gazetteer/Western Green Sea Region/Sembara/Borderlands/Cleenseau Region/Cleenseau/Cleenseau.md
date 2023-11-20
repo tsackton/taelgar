@@ -1,16 +1,17 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Cleenseau
-placeType:
+typeOf: town
 partOf: Barony of Aveil
 pronunciation: Klen-sew
 population: 1189
 ---
-### Cleenseau
-*population 1189, halflings and human combined*
-*pronounciation Klen-sew*
+# Cleenseau
+*(Klen-sew)*
+>[!info]+ Information
+> pop. 1,189
+> A town in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
 
 Cleenseau is a small market town of fifteen hundred souls, nestled on the north bank of the River Enst. Situated at a major crossing of the river, it is a natural gathering place and trade crossroads. The reason for the town’s existence, and most important feature, is the massive stone bridge over the River Enst. Built a thousand years ago by the Drankorians (or perhaps, even longer ago by the Giants, some scholars say), it is wide enough for eight oxen; it spans the 1200 feet of the Enst in ten graceful arches.
 

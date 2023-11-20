@@ -1,11 +1,14 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Beury
-placeType:
-partOf:
+typeOf: village
+partOf: Barony of Aveil
+population: 392
 ---
-*population 392*
+# Beury
+>[!info]+ Information
+> pop. 392
+> A village in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
 
 A large farming village six miles downriver of [[Cleenseau]]. The seat of [[Erick Murtha]].

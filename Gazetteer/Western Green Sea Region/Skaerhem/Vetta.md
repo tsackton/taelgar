@@ -1,12 +1,13 @@
 ---
-tags: [place, '#event-source']
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+tags: [place/island, event-source]
 campaignInfo: []
 name: Vetta
-placeType:
-partOf:
+typeOf: island
+partOf: Skaerhem
 ---
-# Overview
+# Vetta
+>[!info]+ Information
+> An island in [[Skaerhem]]
 
 Vetta is a small volcanic island, perhaps 3 miles across, with steep cliffs on most of its sides, no trees, and abundant bird life. Even in winter it does not snow a huge amount, but most life is gone and the island looks barren and gray.
 

@@ -12,7 +12,7 @@ whereabouts:
 - {type: away, start: 1748-11-10, end: '', location: 'somewhere in Dunmar, Dunmar'}
 - {type: away, start: 1748-11-15, end: '', location: 'somewhere in Dunmar, Dunmar'}
 - {type: away, start: 1748-11-20, end: '', location: 'Garamjala Desert, Dunmar'}
-- {type: away, start: 1748-12-08, end: 1750, location: Mirror of Soul Trapping}
+- {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 ---
 # Hektor
 >[!info]+ Biographical Summary

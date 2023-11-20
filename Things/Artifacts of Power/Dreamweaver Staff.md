@@ -1,13 +1,13 @@
 ---
-tags: [item]
-owner: Candrosa
+tags: [item/magical]
 rarity: unique
 typeOf: staff
+whereabouts: Candrosa
 ---
 # The Dreamweaver Staff
->[!info]+ Item Info
->(unique magical staff)
-> Owner: [[Candrosa]]
+>[!info]+ Information
+> (unique staff)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The staff that [[Candrosa]] carries, which allows him to project visions into dreams and also transport willing subjects to the [[Dreamworld]]. 
 

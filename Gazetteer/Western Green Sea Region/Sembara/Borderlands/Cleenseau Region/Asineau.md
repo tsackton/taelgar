@@ -1,11 +1,14 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Asineau
-placeType:
-partOf:
+typeOf: village
+population: 411
+partOf: Barony of Aveil
 ---
-*population 411*
+# Asineau
+>[!info]+ Information
+> pop. 411
+> A village in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
 
 A manorial fishing village on the banks of the Enst, two miles downriver of [[Aulout]].

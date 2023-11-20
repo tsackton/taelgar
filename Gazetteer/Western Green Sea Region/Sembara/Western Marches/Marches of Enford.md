@@ -1,8 +1,11 @@
 ---
 tags: [place, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Marches of Enford
-placeType:
-partOf:
+typeOf: march
+partOf: Sembara
 ---
+# The Marches of Enford
+>[!info]+ Information
+> A march in [[Sembara]], the [[Western Green Sea Region]]
+

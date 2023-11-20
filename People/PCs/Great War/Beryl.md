@@ -1,21 +1,20 @@
 ---
-tags: [pc/greatwar, pc, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [pc/greatwar, person]
 campaignInfo: []
 name: Beryl
-born: 1510
+born: 1502
 species: human
-something: 
-ancestry: Isinguen
+ancestry: Isinguer
 gender: male
 player: Mike Sackton
 died: 1545
-affiliations: []
+affiliations: [ The Rangers ]
 ---
 # Beryl
->[!info]+ Biographical Summary
->[[Humans|human]]  (Isinguen), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> [[Istabor Alliance|Isinguer]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> Member of: [[The Rangers]]
 
 A hero of the [[Great War]], and the leader of [[The Rangers]] in the 1540s, now in the sky as the Hunter of the [[Fox and Hunter]].  Originally from the [[Istabor Alliance]].
 
