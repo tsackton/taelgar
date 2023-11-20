@@ -3,7 +3,7 @@ tags: [place, status/notes]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Great South Road
-placeType:
+typeOf: road
 partOf:
 ---
 # Great South Road

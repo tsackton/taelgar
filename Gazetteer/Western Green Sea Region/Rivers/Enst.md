@@ -1,18 +1,9 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/stub]
 name: Enst
 typeOf: river
 partOf: Sembara
-aliases:
-  - Enst
+aliases: [River Enst, Enst River]
 ---
 # Enst
 >[!info]+ Information

@@ -1,17 +1,9 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/stub]
 name: Semb
 typeOf: river
 partOf: Heartlands
-aliases:
+aliases: [River Semb]
 ---
 # Semb
 >[!info]+ Information

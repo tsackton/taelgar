@@ -1,14 +1,14 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: { definitiveArticle: "" }
 campaignInfo: []
 name: The Chapterhouse
-placeType: inn
+typeOf: inn
 partOf: Chardon
 ---
 # The Chapterhouse
->[!info]+ Summary
-> an inn in [[Chardon]], [[Chardonian Empire|The Chardonian Empire]]
+>[!info]+ Information
+> An  inn in [[Chardon]], the [[Chardonian Empire]]
 
 A quiet student tavern in the university district of [[Chardon]]
 

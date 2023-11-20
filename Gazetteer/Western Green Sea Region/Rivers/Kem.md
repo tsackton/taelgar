@@ -1,13 +1,5 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/stub]
 name: Kem
 pronunciation: KEM
 typeOf: river

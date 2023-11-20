@@ -1,21 +1,14 @@
 ---
-tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [ place ]
 name: Hamri
-placeType: town
+typeOf: town
 partOf: Mawar Confederacy
 population: 3500
 ---
 # Hamri
->[!info]+ Summary
-> *(pop. 3,500)*
-> a town in the [[Mawar Confederacy]], [[West Coast Region]]
+>[!info]+ Information
+> pop. 3,500
+> A  town in the [[Mawar Confederacy]], the [[Mawakel Peninsula]]
 
 Hamri is blessed with a sheltered, deep water harbor within a protected bay, and a source of sweet fresh water in the [[Mirmir]] River that cascades from the interior over a series of rapids and waterfalls before emptying into the [[Endless Ocean]]. These resources have made it prosper, and it is now a major town of 3,500 residents, and one of the economic centers of the western coast of the [[Mawakel Peninsula]].
 

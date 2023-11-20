@@ -3,8 +3,7 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Plataca Hills
-placeType:
-partOf:
+typeOf: range of hills
 ---
 *PLAH-tah-kah*
 

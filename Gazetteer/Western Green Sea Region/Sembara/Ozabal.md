@@ -1,22 +1,14 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/stub]
 name: Ozabal
+ancestry: lizardfolk
 typeOf: swamp
-partOf: Western Green Sea
-aliases:
-  - Ozabal Swamp
+partOf: Western Green Sea Region
+aliases: [Ozabal Swamp]
 ---
 # Ozabal
 >[!info]+ Information
-> A swamp in the [[Western Green Sea]], the [[Green Sea]]
+> A [[Lizardfolk|lizardfolk]] swamp in the [[Western Green Sea Region]]
 
 A large area of swampy lowlands centered around the confluence of the [[Wistel]] and the [[Enst]], which is home to a substantial [[lizardfolk]] population. 
 

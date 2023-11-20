@@ -3,7 +3,7 @@ tags: [place, status/notes]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: South Watch Road
-placeType:
+typeOf: road
 partOf:
 ---
 

@@ -1,19 +1,14 @@
 ---
 tags:
   - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
 campaignInfo: 
 name: Mawar Confederacy
-placeType: 
-partOf: West Coast Region
+typeOf: realm 
+partOf: Mawakel Peninsula
 ---
 # The Mawar Confederacy
->[!info]+ Summary
-> a place in the [[West Coast Region]]
+>[!info]+ Information
+> A  realm in the [[Mawakel Peninsula]]
 
 ## Overview
 

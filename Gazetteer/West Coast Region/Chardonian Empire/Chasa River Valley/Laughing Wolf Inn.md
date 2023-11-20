@@ -1,12 +1,11 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Laughing Wolf Inn
-placeType: inn
+typeOf: inn
 partOf: Arendum
 ---
 # The Laughing Wolf Inn
->[!info]+ Summary
-> an inn in [[Arendum]], The [[Chasa River Valley]], The [[Chardonian Empire]]
+>[!info]+ Information
+> An  inn in [[Arendum]], the [[Chasa River Valley]], the [[Chardonian Empire]]
 

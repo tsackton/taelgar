@@ -1,15 +1,10 @@
 ---
-tags:
-  - place
+tags: [place]
 displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
   definitiveArticle: "the"
 campaignInfo: 
 name: Highlands
-placeType: 
+typeOf: region
 partOf: Sembara
 ---
 

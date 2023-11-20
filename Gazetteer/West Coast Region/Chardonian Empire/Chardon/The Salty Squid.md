@@ -3,7 +3,7 @@ tags: [place/inn, status/stub]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ""}
 campaignInfo: []
 name: The Salty Squid
-placeType: inn
+typeOf: inn
 partOf: Chardon
 ---
 # The Salty Squid

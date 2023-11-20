@@ -3,9 +3,9 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Enst (South Fork)
-placeType:
+typeOf: river
 partOf:
-aliases: [South Fork]
+aliases: [South Fork, South Fork of the Enst]
 ---
 
 ### Enst (South Fork)

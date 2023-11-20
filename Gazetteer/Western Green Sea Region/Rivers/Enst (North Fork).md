@@ -3,7 +3,7 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Enst (North Fork)
-placeType:
+typeOf: river
 partOf:
 aliases: [North Fork, North Fork of the Enst]
 ---

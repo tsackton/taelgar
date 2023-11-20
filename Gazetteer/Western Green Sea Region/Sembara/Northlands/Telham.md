@@ -9,6 +9,10 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 name: Telham
-placeType: 
-partOf:
+typeOf: city
+partOf: Duchy of Telham
 ---
+# Telham
+>[!info]+ Information
+> A  city in the [[Duchy of Telham]], [[Sembara]], the [[Western Green Sea Region]]
+

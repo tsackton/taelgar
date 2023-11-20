@@ -3,8 +3,9 @@ tags: [place, status/notes]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Lake Derwent
-placeType:
+typeOf: lake
 partOf:
+aliases: [Derwent]
 ---
 
 # Lake Derwent

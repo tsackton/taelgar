@@ -3,7 +3,7 @@ tags: [place]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Vostok
-placeType:
+typeOf: realm
 partOf: Western Green Sea Region
 aliases: [Vosland]
 pronunciation: VOS-tok

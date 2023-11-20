@@ -1,16 +1,9 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/stub]
 name: Niva
 typeOf: river
 partOf: Vostok
+aliases: [River Niva, Niva River]
 ---
 # Niva
 >[!info]+ Information

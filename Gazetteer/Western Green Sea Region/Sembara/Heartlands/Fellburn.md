@@ -1,10 +1,11 @@
 ---
 tags: [place]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Fellburn
-placeType:
-partOf:
+typeOf: town
+partOf: Duchy of Wisford
 ---
+# Fellburn
+>[!info]+ Information
+> A  town in the [[Duchy of Wisford]], [[Sembara]], the [[Western Green Sea Region]]
 
-A town along the River Enst, in Sembara.
+A town along the River Enst
