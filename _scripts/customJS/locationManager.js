@@ -41,9 +41,7 @@ class LocationManager {
 
         const { DateManager } = customJS
         const { NameManager } = customJS
-
-        console.log("enter " + formatStr + " " + whereabout?.location)
-
+        
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
 
 

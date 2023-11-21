@@ -10,11 +10,21 @@
         "traveling",
         "Taelgar"
     ],
+    "campaigns": [
+        {
+            "prefix": "DuFr",
+            "sessionNoteFolder": "Campaigns/Dunmari Frontier/Session Notes"
+        },
+        {
+            "prefix": "Clee",
+            "sessionNoteFolder": "Campaigns/Cleenseau Campaign/Sessions"
+        }
+    ],
     "displayDefaults": {
         "deity": {
             "boxName": "Summary",
-            "affiliationTypeOf": [  
-                "realm", 
+            "affiliationTypeOf": [
+                "realm",
                 "species",
                 "religion"
             ],
@@ -25,8 +35,8 @@
             "boxName": "Biographical Info",
             "startStatus": "born",
             "endStatus": "died",
-            "affiliationTypeOf": [  
-                "family", 
+            "affiliationTypeOf": [
+                "family",
                 "clan"
             ],
             "definitiveArticle": "",
@@ -39,7 +49,7 @@
             "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
             "pagePast": "<end> <endDate>",
             "secondaryInfo": "<ancestry> <mainType>, <pronouns>",
-            "ddbLinkText" : "Character Sheet"
+            "ddbLinkText": "Character Sheet"
         },
         "place": {
             "startStatus": "founded",
@@ -60,7 +70,7 @@
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end> <endDate>",
             "secondaryInfo": "(<rarity> <ancestry> <subtypeof> <typeof>)",
-            "ddbLinkText" : "Mechanics"
+            "ddbLinkText": "Mechanics"
         },
         "organization": {
             "startStatus": "founded",
@@ -104,9 +114,9 @@
     },
     "linkmap": [
         {
-            "from" : "fire elemental",
-            "to" : "Elementals",
-            "isAlias" : true
+            "from": "fire elemental",
+            "to": "Elementals",
+            "isAlias": true
         },
         {
             "from": "archfey",
@@ -127,12 +137,12 @@
             "from": "Ardikhun",
             "to": "Ardith",
             "isAlias": true
-        },        
+        },
         {
             "from": "Maseaun",
             "to": "Duchy of Maseau",
             "isAlias": true
-        },        
+        },
         {
             "from": "fire giant",
             "to": "giants",
@@ -175,12 +185,12 @@
             "isAlias": true
         },
         {
-            "from" : "Skaegish",
+            "from": "Skaegish",
             "to": "Skaerhem",
             "isAlias": true
         },
         {
-            "from" : "Skaer",
+            "from": "Skaer",
             "to": "Skaerhem",
             "isAlias": true
         },
@@ -210,9 +220,9 @@
             "isAlias": true
         },
         {
-            "from" : "Isinguer",
+            "from": "Isinguer",
             "to": "Istabor Alliance",
-            "isAlias" : true
+            "isAlias": true
         },
         {
             "from": "Cymean",
