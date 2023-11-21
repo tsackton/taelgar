@@ -32,7 +32,7 @@ class util {
         return false;
     }
 
-    inLocation(targetLocation, metadata, includeDead, targetDate) {
+    inLocation(targetLocation, metadata, includeDead, includeLastKnown, targetDate) {
 
         const { WhereaboutsManager } = customJS
         const { LocationManager } = customJS
@@ -48,8 +48,14 @@ class util {
         let current = metadata.partOf
         if (!current) {
 
-            let currentWb = WhereaboutsManager.getWhereabouts(metadata, targetDate).current
-            if (currentWb == undefined || currentWb.location == undefined || currentWb.location == "Unknown") {
+            let currentWb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
+            if (currentWb.current == undefined || currentWb.current.location == undefined || currentWb.current.location == "Unknown") {
+
+                console.log(currentWb)
+
+                if (includeLastKnown && currentWb.lastKnown && currentWb.lastKnown.location) {
+                    return LocationManager.isInLocation(currentWb.lastKnown.location, targetLocation, targetDate)
+                }
                 return false;
             }
 
@@ -60,7 +66,7 @@ class util {
     }
 
     inOrHomeLocation(targetLocation, metadata, includeDead, targeDate) {
-        return this.inLocation(targetLocation, metadata, includeDead, targeDate) || this.homeLocation(targetLocation, metadata, includeDead, targeDate)
+        return this.inLocation(targetLocation, metadata, includeDead, true, targeDate) || this.homeLocation(targetLocation, metadata, includeDead, targeDate)
     }
 
     homeLocation(targetLocation, metadata, includeDead, targetDate) {

@@ -9,8 +9,8 @@ species: human
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: 'Embry, Sembara'}
-- {type: away, start: 1719-10-21, end: '', location: 'somewhere, River Semb, Sembara'}
+- {type: home, start: '', end:  1716, location: 'Embry'}
+- {type: away, start: 1716, end: '', location: 'somewhere on the River Semb'}
 ---
 # Tal
 >[!info]+ Biographical Info
