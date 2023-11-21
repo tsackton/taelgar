@@ -4,14 +4,14 @@ tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Elaine I
-born: 1537
+born: 1539
 species: human
 ancestry: Sembaran
 gender: female
 title: Queen
 leaderOf: 
-- {place: Tyrwingha, start: 1568, end: 1573, title: Princess }
-- {place: Tyrwingha, start: 1573, title: Queen Consort}
+- {place: Tyrwingha, start: 1567, end: 1571, title: Princess Consort }
+- {place: Tyrwingha, start: 1571, title: Queen Consort}
 - {place: Sembara}
 - {place: Tyrwingha, start: 1589, title: Queen}
 reignStart: 1582

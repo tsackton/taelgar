@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -10,16 +11,20 @@ gender: male
 reignStart: 1549
 died: 1552
 title: King
-leaderOf: [Sembara, Zovcka, Ardlas, Breva,Lavnoch]
+leaderOf: 
+- {place: Sembara, title: High King }
+- {place: Ardlas, title: High King }
+- {place: Lavnoch, title: High King }
+- {place: Breva, title: High King }
+- {place: Vostok, title: High King, end: 1551 }
+- {place: Zovcka, title: High King }
 affiliations: [House of Sewick]
 ---
 # King Bertram I
-he/him
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]]
+> [[Sembara|Sembaran]] [[Humans|human]], he/him of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_RegnalValue")`
->> Member of: The [[House of Sewick]]
 
 Bertam I, [[Derik III|Derik III’s]] youngest son, came to the throne in December of 1549, a boy of 11. His mother, [[Jane of Tollen]], was appointed regent, and Bertram’s entire kingship is dominated by her, a shrewd woman who disliked waste.
 

@@ -4,12 +4,12 @@ tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Charlotte II
-born: 1621
+born: 1624
 species: human
 ancestry: Sembaran
 gender: female
-reignStart: 1628
-died: 1648
+reignStart: 1648-10
+died: 1648-12-10
 title: Queen
 leaderOf: [{place: Sembara}, {place: Tyrwingha}]
 affiliations: [House of Sewick]

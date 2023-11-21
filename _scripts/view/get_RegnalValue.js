@@ -57,7 +57,7 @@ function get_RegnalValue(metadata) {
 
         leaderOf.forEach(item => {    
             if (item.place) {
-                places.push(LocationManager.getLocationName(item.place, "title", 1, "always"))
+                places.push(LocationManager.getLocationName(item.place, "preserve", 1, "always"))
             }
         })
         
@@ -76,6 +76,7 @@ function get_RegnalValue(metadata) {
             displayOverride.pageCurrent = displayOverride.pageCurrent.replace("<title>", title).replace("<loclist>", locString)
             displayOverride.pagePastWithStart = displayOverride.pagePastWithStart.replace("<title>", title).replace("<loclist>", locString)       
             displayOverride.pageNotExistError = ""
+
 
             let description = NameManager.getDescriptionOfDateInformation(metadata, dateInfo, displayOverride)
             

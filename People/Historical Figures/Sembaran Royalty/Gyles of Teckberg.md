@@ -3,12 +3,12 @@ tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Gyles
-born: 1539
+born: 1541
 species: human
 ancestry: Sembaran
 gender: male
 reignStart:
-died: 1630
+died: 1632
 affiliations: [House of Teckberg]
 ---
 # Gyles

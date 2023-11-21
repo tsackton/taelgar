@@ -9,7 +9,7 @@ species: human
 ancestry: Sembaran
 gender: male
 reignStart: 1601
-died: 1628
+died: 1648-10
 title: King
 leaderOf: [{place: Sembara}, {place: Tyrwingha}]
 affiliations: [House of Sewick]
@@ -23,3 +23,4 @@ reignEnd: 1628
 
 The only child of [[Blanche II]]. His two daughters, [[Charlotte II]] and [[Cece I]] both rule the united realm of Sembara and Tyrwingha.
 
+%% killed by hobgoblins, daughter died or injuries from same attack %%

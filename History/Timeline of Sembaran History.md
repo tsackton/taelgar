@@ -157,7 +157,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1602): [[Blanche II]] dies in childbirth, and her great uncle, [[Percival Wynthrope]], becomes regent for her young son
 - (DR:: 1602): The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends with the [[Treaty of Châteauclair]] between the regent, [[Percival Wynthrope]] and the [[Shattered Ice Clan]]. The lands south of the Enst and west of the Aure are ceded to the hobgoblins. 
 - (DR:: 1644), spring: A new leader amongst the [[Shattered Ice Clan]] starts a war of ethnic cleansing against [[Duchy of Maseau|Maseau]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
-- (DR:: 1644), late spring: [[Charlotte II]] at the urging of her husband [[Lionel Falconhurst]], the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]]
+- (DR:: 1644), late spring: [[Arryn II]], at the urging of his daughter [[Charlotte II]] and her husband [[Lionel Falconhurst]], the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]]
 - (DR:: 1644), fall: After several early successes, the Sembaran [[Army of the South]] is fought to a stalemate at the [[Battle of Lysandale]] in the western reaches of Maseau
 - (DR:: 1644), fall: The [[Shattered Ice Clan]] abandons the campaign in [[Duchy of Maseau|Maseau]] and redirects their armies to [[Sembara]]
 - (DR:: 1644), late fall/winter: The [[Shattered Ice Clan]] breaks the fortifications in [[Barony of Vaubonne|Vaubonne]] and camps outside [[Fellburn]]
@@ -167,7 +167,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the [[Earl of Addermarch]] holds the line of the [[Aure]] at the [[Battle of the Aure]]
 - (DR:: 1647), summer: [[Dunfry]] is [[Siege of Dunfry (Third Hobgoblin War)|besieged]].
 - (DR:: 1647), late fall: [[Fellburn]] is [[The Hobgoblin Sack of Fellburn|sacked]]
-- (DR:: 1648), late winter: Charlotte II is [[The Ambush of Charlotte II|killed by hobgoblins]] while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]
+- (DR:: 1648), late fall: [[Arryn II]] is [[The Ambush of Charlotte II|killed by hobgoblins]] while travelling to inspect the [[Army of the South]] camped outside [[Wisford]]. His daughter, [[Charlotte II]] is caught in the same attack, but survives for two months before dying of an injury that resisted all magical healing
 - (DR:: 1648), late winter: Cece I crowned Queen
 - (DR:: 1648), early spring: The [[Army of the North]] attempts to break the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]], and is bogged down
 - (DR:: 1648), late spring: Cece I combines the Armies of the South, and Mostreve, and raises a special levy across the realm, and forms the [[Radiant Alliance]], which she takes personal command of

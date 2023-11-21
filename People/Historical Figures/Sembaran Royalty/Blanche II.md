@@ -4,12 +4,12 @@ tags: [historical, person/ruler, person, dufr/unaware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Blanche II
-born: 1564
+born: 1570
 species: human
 ancestry: Sembaran
 gender: female
 reignStart: 1600
-died: 1601
+died: 1602
 title: Queen
 leaderOf: [{place: Sembara}, {place: Tyrwingha}]
 affiliations: [House of Sewick]
@@ -21,3 +21,6 @@ affiliations: [House of Sewick]
 > `$=dv.view("_scripts/view/get_RegnalValue")`
 
 The second child of [[Elaine I]] and [[Cynan]]. Her son, [[Arryn II]], succeeds her to the united crowns.
+
+%% dies in childbirth by why didn't magic save her? %%
+
