@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [dufr/met_one, person, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -8,13 +9,12 @@ species: human
 ancestry: Deno'qai
 gender: female
 whereabouts:
-- {type: away, start: 1748-10-25, end: '', location: 'forest valleys of the north, Sentinel Range'}
+- {type: away, start: 1748-10-25, end: '', location: 'forest valleys of the Sentinel Range'}
 ---
 # Safri
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Deno'qai|Deno'qai]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> [[Deno'qai]] [[Humans|human]], she/her
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An old Deno'qai druid with many stories and rumors to her name.
 

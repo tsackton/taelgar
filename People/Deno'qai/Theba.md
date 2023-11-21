@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/major]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -12,10 +13,9 @@ whereabouts:
 - {type: away, start: 1749-01-01, end: '', location: Elderwood}
 ---
 # Theba
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Deno'qai|Deno'qai]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> [[Deno'qai]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The formely disgraced Godcaller of the [[Bek'eni]], out of favor due to [[Mezzar]]'s influence. Aided the party in their travels and fights in the [[Elderwood]], and agreed to take charge of rebuilding the relations among the Deno'qai after [[Mezzar]]'s meddling. This seems to be going well, in Oct 1748 at least. 
