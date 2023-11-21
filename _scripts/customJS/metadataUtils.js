@@ -3,7 +3,7 @@ class util {
 
     isKnownToParty(file, personMetadata, campaignPrefix, allowTag, allowSessionNotes, campaignFolder) {
 
-        const {NameManager} = customJS
+        const { NameManager } = customJS
 
         if (personMetadata.campaignInfo) {
             if (personMetadata.campaignInfo.some(f => f.campaign.toLowerCase() == campaignPrefix.toLowerCase()))
@@ -32,7 +32,7 @@ class util {
         return false;
     }
 
-    inLocation(targetLocation, metadata, allowDead, targetDate) {
+    inLocation(targetLocation, metadata, includeDead, targetDate) {
 
         const { WhereaboutsManager } = customJS
         const { LocationManager } = customJS
@@ -42,7 +42,7 @@ class util {
 
         if (pageDates) {
             if (!pageDates.isCreated) return false
-            if (!pageDates.isAlive && !allowDead) return false
+            if (!pageDates.isAlive && !includeDead) return false
         }
 
         let current = metadata.partOf
@@ -59,12 +59,11 @@ class util {
         return LocationManager.isInLocation(current, targetLocation, targetDate)
     }
 
-    getName(targetFile) {
-        const { NameManager } = customJS
-        return NameManager.getName(targetFile, "exists", "title")
+    inOrHomeLocation(targetLocation, metadata, includeDead, targeDate) {
+        return this.inLocation(targetLocation, metadata, includeDead, targeDate) || this.homeLocation(targetLocation, metadata, includeDead, targeDate)
     }
 
-    homeLocation(targetLocation, metadata, targetDate, includeDead) {
+    homeLocation(targetLocation, metadata, includeDead, targetDate) {
 
         const { WhereaboutsManager } = customJS
         const { DateManager } = customJS
@@ -72,26 +71,38 @@ class util {
 
         let pageDates = DateManager.getPageDates(metadata, targetDate)
 
-        if (includeDead || pageDates.isAlive) {
-            let home = WhereaboutsManager.getWhereabouts(metadata, targetDate).home;
-            if (home == undefined) return false;
-            if (home.location == undefined || home.location == "Unknown") return false;
-
-            return LocationManager.isInLocation(home.location, targetLocation)
+        if (pageDates) {
+            if (!pageDates.isCreated) return false
+            if (!pageDates.isAlive && !includeDead) return false
         }
 
-        return false;
+
+        let home = WhereaboutsManager.getWhereabouts(metadata, targetDate).home;
+        if (home == undefined) return false;
+        if (home.location == undefined || home.location == "Unknown") return false;
+
+        return LocationManager.isInLocation(home.location, targetLocation, targetDate)
     }
 
-    fromLocation(targetLocation, metadata, targetDate) {
+    getName(targetFile) {
+        const { NameManager } = customJS
+        return NameManager.getName(targetFile, "exists", "title")
+    }
 
+    getLoc(metadata, targetDate) {
+        const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
         const { LocationManager } = customJS
 
-        let origin = WhereaboutsManager.getWhereabouts(metadata, targetDate).origin
-        if (origin == undefined) return false;
-        if (origin.location == undefined || origin.location == "Unknown") return false;
-
-        return LocationManager.isInLocation(origin.location, targetLocation)
+        let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
+        
+        if (wb.current) {
+            return LocationManager.buildFormattedLocationString("<loc:2>", wb.current, targetDate, "", "", "", "")
+        }
+        else if (wb.lastKnown) {
+            return LocationManager.buildFormattedLocationString("Last seen on <endDate> at <loc:2>", wb.lastKnown, targetDate, "", "", "", "")            
+        }
+        return "Unknown"        
     }
+
 }
