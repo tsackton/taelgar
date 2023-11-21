@@ -5,5 +5,5 @@ tags:
 campaignInfo: 
 name: Eastern Green Sea
 typeOf: region
-partOf:
+partOf: Taelgar
 ---

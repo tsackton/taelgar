@@ -1,10 +1,9 @@
 ---
-tags: [place]
+tags: [organization]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Shu'anra
-placeType:
-partOf:
+typeOf: tribe
 ---
 
 A [[Northern Tribes|northern]] tribe of Deno'qai living largely in the forests east of the Blackwater Fens.
