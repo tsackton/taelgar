@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -8,16 +9,20 @@ species: human
 ancestry: Sembaran
 gender: female
 title: Queen
-leaderOf: [Sembara, Tyrwingha]
+leaderOf: 
+- {place: Tyrwingha, start: 1568, end: 1573, title: Princess }
+- {place: Tyrwingha, start: 1573, title: Queen Consort}
+- {place: Sembara}
+- {place: Tyrwingha, start: 1589, title: Queen}
 reignStart: 1582
 died: 1592
+affiliations: [ House of Sewick ]
 ---
 # Queen Elaine I
->[!info]+ Biographical Summary
->Queen of [[Sembara]] and [[Tyrwingha]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], she/her of the [[House of Sewick]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_RegnalValue")`
 
 The twin sister of [[Anne]], her disputes with her sister over the throne dominated the 1560s and 1580s.
 
