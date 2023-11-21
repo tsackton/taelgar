@@ -1,5 +1,7 @@
 ---
 tags: [person, historical]
+species: human
+gender: female
 ---
 
 (stub)

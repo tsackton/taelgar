@@ -4,11 +4,6 @@ tags:
   - dufr/met
   - dufr/major
   - testcase
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
 campaignInfo:
   - campaign: DuFr
     type: freed
