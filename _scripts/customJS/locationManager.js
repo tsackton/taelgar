@@ -4,13 +4,17 @@ class LocationManager {
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
-     
+       
+        if (startingLocation == "")
+          return false
+
+        if (startingLocation == undefined)
+            return false
+
         if (startingLocation.trim() === targetLocation.trim())
             return true;
 
-        if (startingLocation == "")
-            return false
-
+      
         if (startingLocation.indexOf(",") == -1) {
             // we have a single string
             let file = NameManager.getFileForTarget(startingLocation)
@@ -28,6 +32,12 @@ class LocationManager {
                 }
 
                 return false;
+            }
+
+
+            let match = new RegExp("[A-Z]{1}").exec(startingLocation)
+            if (match && match.index > 0) {
+                return this.isInLocation(startingLocation.substring(match.index), targetLocation)
             }
 
             console.log("Unable to retrieve file for " + startingLocation)
