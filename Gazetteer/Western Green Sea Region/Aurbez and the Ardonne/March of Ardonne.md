@@ -3,13 +3,12 @@ headerVersion: 2023.11.20
 tags: [place]
 campaignInfo: []
 name: March of Ardonne
-typeOf: realm
-partOf: Aurbez and the Ardonne
+typeOf: march
+partOf: Duchy of Maseau
 ---
 # The March of Ardonne
 >[!info]+ Information
-> A realm in the [[Aurbez and the Ardonne]]
-
+> A march in the [[Duchy of Maseau]]
 
 This area, south of the Duchy of Maseau, has no formal rulers or organized political structures, although treaties on paper define it as under the suzerintity of the Duke of Maseau as far south as the the Ardonne river. In practice most of the marcher lords establish fortified ranches in the central plains or along the Dunmar Road, where the ash storms are less intense. Cattle and goats are the main livelihood, as crops die too often in the ashy summers. Cattle can be brought inside the great fortified ranches when troubles come from the east and the marcher lords ride out to earn their stipends. The ranches along the Dunmar Road have grown into fortified rest-stops and places of refuge for travelers, and one does not need to camp in the open between Cassons and the crossing of the Masance. This is a land of scrubby grasses and small dryland trees.
 

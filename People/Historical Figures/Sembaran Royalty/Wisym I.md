@@ -1,6 +1,6 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.20
+tags: [historical, person, dufr/unaware, person/ruler]
 campaignInfo: []
 name: Wisym I
 born: 1510
@@ -11,14 +11,13 @@ reignStart: 1568
 title: King
 died: 1582
 affiliations: [House of Sewick]
-leaderOf: [Sembara]
+leaderOf: [{place: Sembara}]
 reignEnd: 1582
 ---
-# The King Wisym I
->[!info]+ Biographical Summary
->King of [[Sembara]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of the [[House of Sewick]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+# King Wisym I
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], he/him of the [[House of Sewick]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_RegnalValue")`
 
-The eldest son of [[Eloise|Eloise]], he ruled Sembara briefly after the [[Interregum of 1568]]. He was a mostly ineffectual king, and he never married or had children.
+The eldest son of [[Eloise|Eloise]], he ruled Sembara after the [[Interregum of 1568]]. He was a mostly ineffectual king and was partly selected as a compromise king because as a gay man he had never had children with his husband and thus had no immediate heir.

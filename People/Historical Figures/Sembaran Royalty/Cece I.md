@@ -1,7 +1,6 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.20
+tags: [historical, person, dufr/unaware, person/ruler]
 name: Cece I
 born: 1628
 species: human
@@ -9,17 +8,15 @@ ancestry: Sembaran
 gender: female
 reignStart: 1648
 title: Queen
-died: 1713
-leaderOf: [Sembara, Tyrwingha]
+died: 1713-09-12
+leaderOf: [{place: Sembara}, {place: Tyrwingha}]
 affiliations: [House of Sewick]
 ---
 # Queen Cece I
-she/her
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]]
+> [[Sembara|Sembaran]] [[Humans|human]], she/her of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_RegnalValue")`
->> Member of: The [[House of Sewick]]
 
 Cece I reigned for 65 years, the longest reign in the annuals of the kings and queens of Sembara. Her reign was one of peace, prosperity, and recovery. Sembara finally began to climb out of the devastation of the [[Great War]] and the [[Blood Years]], and for the first time in five generations the future of Sembara seemed to be brighter than its past.
 

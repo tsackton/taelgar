@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -10,15 +11,14 @@ gender: female
 reignStart: 1628
 died: 1648
 title: Queen
-leaderOf: [Sembara, Tyrwingha]
+leaderOf: [{place: Sembara}, {place: Tyrwingha}]
 affiliations: [House of Sewick]
 ---
-# The Queen Charlotte II
->[!info]+ Biographical Summary
->Queen of [[Sembara]] and [[Tyrwingha]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), she/her of the [[House of Sewick]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+# Queen Charlotte II
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], she/her of the [[House of Sewick]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_RegnalValue")`
 
 A ruler of Sembara and Tyrwingha. Succeeded by her sister, [[Cece I]].
 

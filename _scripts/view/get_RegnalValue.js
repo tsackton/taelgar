@@ -19,6 +19,7 @@ function get_RegnalValue(metadata) {
     const { LocationManager } = customJS
     const { NameManager } = customJS
 
+    if (!metadata.leaderOf) return ""
 
     let targetDate = DateManager.getTargetDateForPage(metadata)
     let pageDates = DateManager.getPageDates(metadata, targetDate)
@@ -29,7 +30,6 @@ function get_RegnalValue(metadata) {
     // this is some squirelly Javascript to effectively group the leader sections by common start / end title, so we can show common stuff in a list
     let grouped = groupBy(metadata.leaderOf, f => f.title + "_" + f.start + "_" + f.end)
 
-
     grouped.forEach(leaderOf => {
         let displayOverride =
         {
@@ -39,8 +39,6 @@ function get_RegnalValue(metadata) {
         }
 
         let first = leaderOf.first()
-
-        
         let start = DateManager.normalizeDate(first.start) ?? DateManager.normalizeDate(metadata.reignStart)
         let end = DateManager.normalizeDate(first.end) ?? DateManager.normalizeDate(metadata.reignEnd) ?? pageDates.endDate
         let title = first.title ?? metadata.title ?? "Leader"
@@ -57,13 +55,12 @@ function get_RegnalValue(metadata) {
 
         let places = []
 
-        leaderOf.forEach(item => {            
+        leaderOf.forEach(item => {    
             if (item.place) {
                 places.push(LocationManager.getLocationName(item.place, "title", 1, "always"))
             }
         })
         
-
         let lastPlace = places.pop()
         let locString = undefined
 
@@ -78,7 +75,8 @@ function get_RegnalValue(metadata) {
             displayOverride.pagePast = displayOverride.pagePast.replace("<title>", title).replace("<loclist>", locString)
             displayOverride.pageCurrent = displayOverride.pageCurrent.replace("<title>", title).replace("<loclist>", locString)
             displayOverride.pagePastWithStart = displayOverride.pagePastWithStart.replace("<title>", title).replace("<loclist>", locString)       
-            
+            displayOverride.pageNotExistError = ""
+
             let description = NameManager.getDescriptionOfDateInformation(metadata, dateInfo, displayOverride)
             
             if (description.length > 0)

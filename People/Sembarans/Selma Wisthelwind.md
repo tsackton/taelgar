@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
 tags: [clee/unsorted, person, dufr/unaware]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Selma Wisthelwind
 born: 1644

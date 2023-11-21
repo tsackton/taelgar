@@ -9,7 +9,7 @@ ancestry: Sembaran
 gender: male
 reignStart: 1592
 title: King
-leaderOf: [Sembara, Tyrwingha]
+leaderOf: [{place: Sembara}, {place: Tyrwingha} ]
 died: 1600
 ---
 # The King Arryn I
@@ -19,5 +19,5 @@ died: 1600
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >`$=dv.view("_scripts/view/get_RegnalValue")`
 
-A ruler of Sembara and Tyrwingha. The eldest son of [[Elaine I]] and [[Cynan]]. 
+A ruler of Sembara and Tyrwingha. The eldest son of [[Elaine I]] and [[Cynan]]. As a young prince of Tyrwingha he was an early victim of the [[Cursed Cold]] 
 

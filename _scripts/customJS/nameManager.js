@@ -248,7 +248,7 @@ class NameManager {
 
     getDescriptionOfDateInformation(metadata, dateInfo, overrideDisplayInfo) {
 
-        if (!dateInfo.isCreated) return "**(page is future dated)**"
+        if (!dateInfo.isCreated) return overrideDisplayInfo.pageNotExistError ?? "**(page is future dated)**"
 
         let pageDisplayData = overrideDisplayInfo ?? this.getDisplayData(metadata)
         let formatStr = undefined

@@ -7,8 +7,9 @@ born: 1673
 species: human
 ancestry: Sembaran
 gender: female
-reignStart: 
 died: 1745
+title: Queen
+leaderOf: [{place: Tyrwingha, start: 1713-09-12}, {place: Sembara, start: 1720-06-15}]
 affiliations: [House of Lils]
 ---
 # Elaine II

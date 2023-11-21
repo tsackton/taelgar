@@ -7,9 +7,9 @@ born: 1660
 species: human
 ancestry: Sembaran
 gender: male
-reignStart: 1713
-died: 1720
-leaderOf: [Sembara]
+reignStart: 1713-09-12
+died: 1720-06-15
+leaderOf: [ { place: Sembara }]
 title: King
 affiliations: [House of Sewick]
 ---
