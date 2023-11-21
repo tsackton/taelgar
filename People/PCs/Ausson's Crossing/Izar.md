@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags:
   - pc
   - person
@@ -7,8 +8,9 @@ tags:
 name: Izar
 born: 
 species: lizardfolk
-gender: 
+gender: enby
 player: Kiya Nicoll
 ---
-
 # Izar
+>[!info]+ Biographical Info
+> [[Lizardfolk|lizardfolk]], they/them
