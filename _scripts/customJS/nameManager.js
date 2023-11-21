@@ -73,6 +73,18 @@ class NameManager {
         return (article + " " + descriptiveName).trim()
     }
 
+    getCampaignSessionNoteFolder(prefix) {
+        let metadata = this.#getElementFromMetadata("campaigns")
+        if (metadata) {
+            let cmp = metadata.filter(f => f.prefix.toLowerCase() == prefix.toLowerCase()).first()
+            if (cmp) {
+                return cmp.sessionNoteFolder
+            }
+        }
+
+        return undefined
+    }
+
     getFileForTarget(target, filter = undefined) {
 
         let root = window.app.vault.getRoot().path
