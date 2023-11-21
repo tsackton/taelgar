@@ -4,7 +4,7 @@ displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroy
 campaignInfo: []
 name: Lake Valandros
 typeOf: lake
-partOf:
+partOf: Chardonian Empire
 ---
 # Lake Valandros
 >[!info]+ Summary

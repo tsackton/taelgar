@@ -1,14 +1,12 @@
 ---
 tags: [pc, person, pc/guest]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Rufus
 born:
-species:
-ancestry:
-gender:
-player:
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+species: kenku
+ancestry: 
+gender: male
+player: Eric Rosenbaum
 ---
 ## Rufus
 (he/him)

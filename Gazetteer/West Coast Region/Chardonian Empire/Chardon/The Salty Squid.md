@@ -1,9 +1,10 @@
 ---
 tags: [place/inn, status/stub]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ""}
+displayDefaults: { definitiveArticle: ""}
 campaignInfo: []
 name: The Salty Squid
 typeOf: inn
+#check district in Chardon
 partOf: Chardon
 ---
 # The Salty Squid

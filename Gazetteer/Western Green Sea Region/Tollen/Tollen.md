@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [place]
 campaignInfo: 
 name: Free City of Tollen
@@ -8,7 +9,7 @@ aliases: [Free City of Tollen, Tollen]
 ---
 # The Free City of Tollen
 >[!info]+ Information
-> A  city in the [[Western Green Sea Region]]
+> A city in the [[Western Green Sea Region]]
 
 A bustling port on the [[Volta]], which forms the border between [[Sembara]] and [[Vostok]], the Free City of Tollen is an independent city-state. Founded thousands of years ago, it has navigated the politics of the region and maintained its independent for centuries. It is a haven for merchants, traders, intellectuals, mages, and scholars, and is known for its university as well as its reputation as a trading port. Sailors from Tollen ply the [[Green Sea]], bringing back goods from near neighbors as well as the far East. Tollen is a cosmopolitan city, where [[Humans]], [[Halflings]], [[Dwarves]], [[Stoneborn]], [[Lizardfolk]], and even [[Elves|elves]] and stranger species can be found living together. 
 ## History

@@ -4,7 +4,7 @@ displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: 
 campaignInfo: []
 name: Thror
 born:
-species:
+species: dwarf
 ancestry:
 gender:
 player:

@@ -4,11 +4,10 @@ displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: 
 campaignInfo: []
 name: Merash
 born:
-species:
+species: dwarf
 ancestry:
 gender:
-player:
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
+player: Sara Smith
 ---
 ### Merash
 
