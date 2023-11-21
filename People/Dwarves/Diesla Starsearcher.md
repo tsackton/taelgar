@@ -1,6 +1,6 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware]
-campaignInfo: []
+tags: [person, dufr/unaware]
+campaignInfo: [{campaign: Clee, type: met}]
 name: Diesla Starsearcher
 born: 1512
 species: dwarf
