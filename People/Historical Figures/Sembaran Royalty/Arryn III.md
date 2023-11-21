@@ -8,7 +8,7 @@ species: human
 ancestry: Sembaran
 gender: male
 reignStart: 1745
-leaderOf: [ { place: Sembara, start: 1745 }]
+leaderOf: [ { place: Sembara }, {place: Tyrwingha}]
 affiliations: [House of Lils]
 ---
 # Arryn III

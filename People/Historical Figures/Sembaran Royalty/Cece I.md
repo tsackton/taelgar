@@ -6,7 +6,7 @@ born: 1628
 species: human
 ancestry: Sembaran
 gender: female
-reignStart: 1648
+reignStart: 1648-12-11
 title: Queen
 died: 1713-09-12
 leaderOf: [{place: Sembara}, {place: Tyrwingha}]

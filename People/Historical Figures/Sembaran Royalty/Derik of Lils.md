@@ -3,7 +3,7 @@ tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Derik
-born: 1569
+born: 1573
 species: human
 ancestry: Sembaran
 gender: male

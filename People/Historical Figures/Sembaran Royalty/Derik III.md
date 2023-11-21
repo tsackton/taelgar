@@ -7,10 +7,19 @@ born: 1484
 species: human
 ancestry: Sembaran
 gender: male
-reignStart: 1519
+leaderOf:
+- {place: Vostok, title: Prince of the North, start: 1508, end: 1519 }
+- {place: Zovcka, title: Prince of the North, start: 1508, end: 1519 }
+- {place: Sembara, title: High King }
+- {place: Tyrwingha, title: High King }
+- {place: Ardlas, title: High King }
+- {place: Lavnoch, title: High King }
+- {place: Breva, title: High King }
+- {place: Vostok, title: High King }
+- {place: Zovcka, title: High King }
 title: King
 died: 1549
-reignEnd: 1549
+reignStart: 1519
 ---
 # King Derik III
 >[!info]+ Biographical Summary
