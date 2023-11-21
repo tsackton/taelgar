@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [event-source, person, dufr/met, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -12,11 +13,10 @@ whereabouts:
 - {type: home, start: '', end: '', location: Shu'anra village}
 ---
 # Ariel
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Deno'qai|Deno'qai]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> Originally from: Shu'anra village, [[Forest of Dreams]]
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>[!info]+ Biographical Info
+> [[Deno'qai]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the Meswati and the [[Great War]]
 
