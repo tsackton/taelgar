@@ -1,25 +1,14 @@
 ---
-tags:
-  - person
-  - dufr/met
-  - dufr/major
-  - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [person, dufr/met, dufr/major, status/notes, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Saka
 born: 1664
 species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: northern plains, Tokra, Central Dunmar
+- {type: home, start: '', end: '', location: 'northern plains, Tokra, Central Dunmar'}
 ---
 # Saka
 >[!info]+ Biographical Summary

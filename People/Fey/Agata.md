@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.20
-tags: [status/uptodate, person, dufr/met, dufr/major]
-displayDefaults: { secondaryInfo: "<subspecies> (<species>), <pronouns>"}
+tags: [status/uptodate, person, dufr/met, dufr/major, status/unknown]
+displayDefaults: {secondaryInfo: '<subspecies> (<species>), <pronouns>'}
 campaignInfo:
-- {campaign: DuFr, date: 1748-11-15, type: imprisoned }
+- {campaign: DuFr, date: 1748-11-15, type: imprisoned}
 name: Agata Dustmother
 born:
 species: fey
@@ -11,10 +11,10 @@ subspecies: hag
 gender: female
 aliases: [Old Woman of the Dusts, Dasoclese]
 whereabouts:
-- {type: home, end: 0001, location: Amberglow} 
+- {type: home, end: 1, location: Amberglow}
 - {type: home, start: '', end: 1748-05-29, location: Garamjala Desert}
-- {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind }
-- {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove } # end is abritrary
+- {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind}
+- {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove}
 ---
 # Agata Dustmother
 >[!info]+ Biographical Info

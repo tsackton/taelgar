@@ -1,4 +1,6 @@
-The Cosmology of Taelgar: 
+---
+tags: [status/unknown]
+---
 
 In the beginning, there was a void.  Two entities awoke in that void: Eru and Melkor.  Through their magic powers, they created a universe.  (From the standard version of the human’s creation myth.) 
 

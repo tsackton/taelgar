@@ -1,4 +1,6 @@
-Adding some notes keeping track of how long things have taken to build, to try to make the world a bit consistent, if not totally realistic. PC stuff will usually "magically" build faster than background stuff.
+---
+tags: [status/unknown]
+---
 
 # Adobe construction
 

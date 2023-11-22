@@ -1,11 +1,11 @@
 ---
-tags: [person]
-campaignInfo: 
+tags: [person, status/unknown]
+campaignInfo:
 name: Herasto
 species: centaur
 gender: male
 whereabouts:
-  - { type: away, location: plains south of Voltara }
+- {type: away, location: plains south of Voltara}
 ---
 # Herasto
 >[!info]+ Biographical Info

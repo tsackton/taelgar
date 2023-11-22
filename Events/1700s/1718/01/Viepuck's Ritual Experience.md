@@ -1,5 +1,5 @@
 ---
-tags: [event]
+tags: [event, status/unknown]
 DR: 1718-01-24
 ---
 ### Viepuck Meetings His Patron

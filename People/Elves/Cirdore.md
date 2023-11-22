@@ -1,19 +1,14 @@
 ---
-tags:
-  - person
-  - status/stub
+tags: [person, status/stub, status/unknown]
 species: elf
 born: 1712
-# using date of leya of ka 37
 ka: 37
 whereabouts: Erelion
 name: Cirdore
 pronunciation: KEER-doh-reh
 gender: male
 campaignInfo:
-  - campaign: dufr
-    date: 1749-01-15
-    type: Hosted for dinner
+- {campaign: dufr, date: 1749-01-15, type: Hosted for dinner}
 ---
 # Cirdore
 *(KEER-doh-reh)*

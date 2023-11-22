@@ -1,4 +1,6 @@
-### Vial of Acid Carried by Gnoll Leader
+---
+tags: [status/unknown]
+---
 
 A small metal vial filled with some kind of acrid liquid, carried by the gnoll leader in Raven's Hold. 
 

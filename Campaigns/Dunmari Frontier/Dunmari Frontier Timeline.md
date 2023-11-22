@@ -1,12 +1,7 @@
 ---
-tags:
-  - timeline
-displayDefaults:
-  startStatus: created
-  startPrefix: created
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [timeline, status/unknown]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo:
 name: Dunmari Frontier Timeline
 timelineDescriptor: Dunmari Frontier Campaign
 ---

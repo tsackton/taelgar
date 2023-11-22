@@ -1,27 +1,15 @@
 ---
-tags:
-  - dufr/background
-  - person
-  - historical
-  - dufr/aware
-  - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [dufr/background, person, historical, dufr/aware, status/notes, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Yarad
-born: 
+born:
 species: human
 ancestry: Dunmari
 gender: male
-aliases:
-  - Nayan Yarad
-  - Samraat Nayan Yarad
+aliases: [Nayan Yarad, Samraat Nayan Yarad]
 title: Samraat Nayan
-affiliations:
-  - Nayan Dynasty
+affiliations: [Nayan Dynasty]
 ---
 # Samraat Nayan Yarad
 >[!info]+ Biographical Info

@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/mosnumena]
+tags: [deity, religion/mosnumena, status/unknown]
 ---
 # The Father
 *he/him*

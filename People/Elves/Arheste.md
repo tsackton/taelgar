@@ -1,18 +1,13 @@
 ---
-tags:
-  - person
-  - status/uptodate
+tags: [person, status/uptodate, status/unknown]
 species: elf
-campaignInfo: 
-- { campaign: dufr, date: 1749-01-16, type: "visited"}
+campaignInfo:
+- {campaign: dufr, date: 1749-01-16, type: visited}
 ka: 31
-born: 747 
-#born is set to leya of ka 31
+born: 747
 whereabouts:
-  - type: home
-    location: Rostaurë
-  - type: home
-    location: Orenlas
+- {type: home, location: Rostaurë}
+- {type: home, location: Orenlas}
 name: Arheste
 pronunciation: AR-hes-teh
 gender: female

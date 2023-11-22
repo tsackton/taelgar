@@ -1,5 +1,5 @@
 ---
-tags: [pc/cleenseau, person]
+tags: [pc/cleenseau, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died, primaryOrgType: party}
 campaignInfo: []
 name: Viepuck
@@ -11,7 +11,7 @@ player:
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
 affiliations: [Heroes of Cleenseau]
 whereabouts:
-- {type: home, end: 1719, location: Embry }
+- {type: home, end: 1719, location: Embry}
 - {type: away, start: 1719-10-19, end: 1720-01-10, location: Cleenseau}
 ---
 # Viepuck

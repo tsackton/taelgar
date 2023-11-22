@@ -1,29 +1,17 @@
 ---
-tags:
-  - dufr/background
-  - person
-  - dufr/aware
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [dufr/background, person, dufr/aware, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Camana
 born: 1721
 species: human
 ancestry: Dunmari
 gender: female
 died: 1748
-affiliations:
-  - Havdar's Warband
+affiliations: [Havdar's Warband]
 whereabouts:
-  - type: home
-    location: Eastern Dunmar
-  - type: away
-    start: 1748-05-01
-    end: ""
-    location: deceased, unknown
+- {type: home, location: Eastern Dunmar}
+- {type: away, start: 1748-05-01, end: '', location: 'deceased, unknown'}
 ---
 # Camana
 >[!info]+ Biographical Info

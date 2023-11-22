@@ -1,8 +1,8 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 partOf: Dunmar
 name: Central Dunmar
-displayDefaults: { definitiveArticle: ""}
+displayDefaults: {definitiveArticle: ''}
 typeOf: region
 ---
 

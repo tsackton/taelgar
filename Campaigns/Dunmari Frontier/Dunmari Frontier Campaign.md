@@ -1,4 +1,6 @@
-## Dunmari Frontier Campaign Page
+---
+tags: [status/unknown]
+---
 
 Information about the Dunmari Frontier campaign is organized here.
 

@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/minor]
+tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Amar
@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: 'Hara River Valley, Central Dunmar'}
-- {type: home, start: 1710-01-02, end: '', location: 'Akela Inn'}
+- {type: home, start: 1710-01-02, end: '', location: Akela Inn}
 ---
 # Amar
 >[!info]+ Biographical Info

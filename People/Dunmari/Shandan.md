@@ -1,29 +1,17 @@
 ---
-tags:
-  - dufr/background
-  - person
-  - dufr/aware
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [dufr/background, person, dufr/aware, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Shandan
 born: 1692
 species: human
 ancestry: Dunmari
 gender: male
-affiliations:
-  - Shandan's Warband
+affiliations: [Shandan's Warband]
 whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: plains east of Songara, Central Dunmar
+- {type: home, start: '', end: '', location: 'plains east of Songara, Central Dunmar'}
 pronunciation: Shun-dhun
-leaderOf:
-  - Shandan's Warband
+leaderOf: [Shandan's Warband]
 ---
 # Shandan
 *(Shun-dhun)*

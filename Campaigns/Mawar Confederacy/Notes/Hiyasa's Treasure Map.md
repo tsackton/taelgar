@@ -1,1 +1,3 @@
-![[Hiyasa-treasure-map.png]]
+---
+tags: [status/unknown]
+---

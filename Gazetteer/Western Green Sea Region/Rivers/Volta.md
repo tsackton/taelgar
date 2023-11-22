@@ -1,5 +1,5 @@
 ---
-tags: [place, status/notes]
+tags: [place, status/notes, status/unknown]
 name: Volta
 typeOf: river
 partOf:

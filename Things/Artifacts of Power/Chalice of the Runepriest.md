@@ -1,8 +1,8 @@
 ---
-tags: [ item/magical,  event-source]
-displayDefaults: {startStatus: blessed into being, endStatus: destroyed }
-created: 1547 #check against founding of Tharn Todor
-campaignInfo: 
+tags: [item/magical, event-source, status/unknown]
+displayDefaults: {startStatus: blessed into being, endStatus: destroyed}
+created: 1547
+campaignInfo:
 name: Chalice of the Runepriest
 typeOf: chalice
 rarity: unique

@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 name: Tyrwingha
 typeOf: realm
 partOf: Western Green Sea Region

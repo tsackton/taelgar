@@ -1,4 +1,6 @@
-### Shatterstorm
+---
+tags: [status/unknown]
+---
 
 A magical hammer enchanted by the Brawnanvils before the [[Great War]]. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near Raven's Hold. Now wielded by [[Riswynn]]. 
 

@@ -1,6 +1,6 @@
 ---
 typeOf: celestial
-tags: [species, species/celestial]
+tags: [species, species/celestial, status/unknown]
 partOf: Children of Belief
 ---
 

@@ -1,4 +1,6 @@
-**Vision of Cha'mutte's Shadow Armband in [[Eudomes' Mirror]]**
+---
+tags: [status/unknown]
+---
 
 The mirror, as usual, goes black. For a moment, you see a vast store in some underground room, lit by flickering lanterns, where there are weapons of all kinds, swords, axes, polearms, armor. Being driven, dragged into this room you see two kenku, iron bands on their wrists, pretty disheveled in appearance. A hobgoblin, behind them, poking them with a spear, driving them forward. 
 

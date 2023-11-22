@@ -1,6 +1,6 @@
 ---
-tags: [ item ]
-campaignInfo: 
+tags: [item, status/unknown]
+campaignInfo:
 name:
 typeOf: scroll case
 mundane: true

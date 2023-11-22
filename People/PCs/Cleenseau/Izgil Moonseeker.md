@@ -1,5 +1,5 @@
 ---
-tags: [pc, pc/cleenseau, person]
+tags: [pc, pc/cleenseau, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Izgil Moonseeker

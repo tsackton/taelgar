@@ -1,7 +1,7 @@
 ---
 aliases: [Alcarinquë]
 name: Alcarinquë
-tags: [place]
+tags: [place, status/unknown]
 typeOf: realm
 ---
 # Alcarinquë

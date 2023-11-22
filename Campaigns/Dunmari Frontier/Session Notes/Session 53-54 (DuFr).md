@@ -1,4 +1,6 @@
-# Riswynn Solo Adventure
+---
+tags: [status/unknown]
+---
 
 ## Timeline
 

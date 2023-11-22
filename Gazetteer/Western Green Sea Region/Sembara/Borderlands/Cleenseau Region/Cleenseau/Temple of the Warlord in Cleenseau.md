@@ -1,6 +1,6 @@
 ---
-tags: [place/building]
-displayDefaults: { partOf: "A <typeof> of <subtypeof> in <loc>" }
+tags: [place/building, status/unknown]
+displayDefaults: {partOf: A <typeof> of <subtypeof> in <loc>}
 campaignInfo: []
 name: Temple of the Warlord in Cleenseau
 partOf: Cleenseau

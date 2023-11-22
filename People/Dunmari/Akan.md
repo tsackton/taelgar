@@ -1,12 +1,12 @@
 ---
-tags: [status/uptodate, person, dufr/met, dufr/minor]
+tags: [status/uptodate, person, dufr/met, dufr/minor, status/unknown]
 campaignInfo: []
 name: Akan
 born: 1693
 species: human
 ancestry: Dunmari
 gender: male
-whereabouts: area north and east of Karawa 
+whereabouts: area north and east of Karawa
 ---
 # Akan
 >[!info]+ Biographical Info

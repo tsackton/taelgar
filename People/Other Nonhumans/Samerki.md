@@ -1,7 +1,8 @@
 ---
-tags: [person, dufr/met, dufr/minor]
-displayDefaults: { endStatus: killed, secondaryInfo: "<subspecies> (<species>), <pronouns>"}
-campaignInfo: [{ campaign: DuFr, type: killed, date: 1748-05-29 }]
+tags: [person, dufr/met, dufr/minor, status/unknown]
+displayDefaults: {endStatus: killed, secondaryInfo: '<subspecies> (<species>), <pronouns>'}
+campaignInfo:
+- {campaign: DuFr, type: killed, date: 1748-05-29}
 name: Samerki
 born:
 species: giant
@@ -9,10 +10,10 @@ subspecies: oni
 gender: male
 pageTargetDate: 1749
 died: 1748-05-29
-whereabouts: 
-- { type: home, location: "somewhere, unknown"}
-- { type: home, location: Garamjala Desert }
-- { type: away, start: 1748-02-08, end: 1748-05-29, location: "Shakun’s Wellspring"}
+whereabouts:
+- {type: home, location: 'somewhere, unknown'}
+- {type: home, location: Garamjala Desert}
+- {type: away, start: 1748-02-08, end: 1748-05-29, location: Shakun’s Wellspring}
 ---
 # Samerki
 >[!info]+ Biographical Info

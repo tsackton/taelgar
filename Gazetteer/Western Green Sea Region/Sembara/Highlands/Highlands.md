@@ -1,8 +1,7 @@
 ---
-tags: [place]
-displayDefaults:
-  definitiveArticle: "the"
-campaignInfo: 
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: the}
+campaignInfo:
 name: Highlands
 typeOf: region
 partOf: Sembara

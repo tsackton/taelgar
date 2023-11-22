@@ -1,27 +1,17 @@
 ---
-tags:
-  - pc
-  - person
-  - pc/dunmarfrontier
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [pc, person, pc/dunmarfrontier, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Delwath
-born: 
+born:
 ka: 36
 species: elf
-ancestry: 
+ancestry:
 gender: male
 player: Mike Sackton
 affiliations: [Dunmar Fellowship]
 whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: Ainumarya, West Coast Region
+- {type: home, start: '', end: '', location: 'Ainumarya, West Coast Region'}
 ---
 # Delwath
 >[!info]+ Biographical Info

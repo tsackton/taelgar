@@ -1,1 +1,3 @@
-Use this folder for raw notes that are not ready to be made canonical, or initial dumps from GDrive, email, or OneNote.
+---
+tags: [status/unknown]
+---

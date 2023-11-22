@@ -1,4 +1,6 @@
-#### Session 5
+---
+tags: [status/unknown]
+---
 
 **(Friday, July 24th, 2020; in Taelgar, morning March 30, to early afternoon, April 4)**
 

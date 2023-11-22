@@ -1,25 +1,14 @@
 ---
-tags:
-  - person
-  - dufr/met
-  - dufr/minor
-  - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Kaleha
 born: 1699
 species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: Tokra, Central Dunmar
+- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Kaleha
 >[!info]+ Biographical Info

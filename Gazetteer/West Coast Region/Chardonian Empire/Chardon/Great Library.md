@@ -1,6 +1,6 @@
 ---
-tags: [place, event-source]
-campaignInfo: 
+tags: [place, event-source, status/unknown]
+campaignInfo:
 name: Great Library
 partOf: Chardon
 orgType: university

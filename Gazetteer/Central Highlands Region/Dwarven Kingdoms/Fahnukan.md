@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/notes]
+tags: [place, status/notes, status/unknown]
 campaignInfo: []
 name: Fahnukan
 typeOf: realm

@@ -1,4 +1,6 @@
-a letter [[Riswynn]] received from Speaker [[Lara]] in [[Tokra]]
+---
+tags: [status/unknown]
+---
 
 Dear [[Kenzo]], [[Delwath]], [[Riswynn]], [[Wellby]], and [[Seeker]],
 

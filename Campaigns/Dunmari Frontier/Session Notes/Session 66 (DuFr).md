@@ -1,4 +1,6 @@
-# Session 66
+---
+tags: [status/unknown]
+---
 *in which the party journeys into the mountains to find a phasing stone*
 
 **In the real world:** Thursday, March 2nd, 2023

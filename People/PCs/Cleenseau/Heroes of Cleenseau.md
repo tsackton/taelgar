@@ -1,5 +1,5 @@
 ---
-tags: [organization/party]
+tags: [organization/party, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo: []
 name:

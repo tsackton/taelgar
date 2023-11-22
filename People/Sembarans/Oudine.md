@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/unaware]
+tags: [person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: Clee, date: 1720-01-04, type: met}
@@ -9,7 +9,7 @@ species: human
 ancestry: Sembaran
 gender: female
 whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Cleenseau'}
+- {type: home, start: !!null '', end: '', location: Cleenseau}
 ---
 # Oudine
 >[!info]+ Biographical Info

@@ -1,5 +1,5 @@
 ---
-tags: [event-source]
+tags: [event-source, status/unknown]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: a}
 campaignInfo: []
 name: Timeline of Sembaran History

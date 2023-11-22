@@ -1,5 +1,5 @@
 ---
-tags: [event]
+tags: [event, status/unknown]
 DR: 1719-10-21
 ---
 ### Second Spider Attack on Taviose

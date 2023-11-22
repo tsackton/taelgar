@@ -1,4 +1,6 @@
-## Ring of the Warded Mind
+---
+tags: [status/unknown]
+---
 
 [Mechanics](https://www.dndbeyond.com/magic-items/3710482-ring-of-the-warded-mind). 
 

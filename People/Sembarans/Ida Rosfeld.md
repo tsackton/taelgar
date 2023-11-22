@@ -1,30 +1,17 @@
 ---
-tags:
-  - clee/unsorted
-  - person
-  - dufr/unaware
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [clee/unsorted, person, dufr/unaware, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Ida Rosfeld
 born: 1692
 species: human
 ancestry: Sembaran
 gender: female
-affiliations:
-  - Army Garrison of Cleenseau
-leaderOf:
-  - Army Garrison of Cleenseau
+affiliations: [Army Garrison of Cleenseau]
+leaderOf: [Army Garrison of Cleenseau]
 whereabouts:
-  - type: away
-    start: 1719-12-04
-    end: 1720-01-18
-    location: Dunfry, Sembara
-  - type: home
-    location: Cleenseau, Sembara
+- {type: away, start: 1719-12-04, end: 1720-01-18, location: 'Dunfry, Sembara'}
+- {type: home, location: 'Cleenseau, Sembara'}
 reignStart:
 ---
 # Ida Rosfeld

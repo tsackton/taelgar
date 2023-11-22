@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 name: Fiskurth
 typeOf: ward
 partOf: Tollen

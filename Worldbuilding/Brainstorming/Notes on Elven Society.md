@@ -1,4 +1,6 @@
-Putting some notes from email, Discord on elven society here.
+---
+tags: [status/unknown]
+---
 
 ## On Wealth
 

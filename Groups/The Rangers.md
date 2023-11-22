@@ -1,7 +1,7 @@
 ---
-tags: [status/needswork, organization]
-displayDefaults: { definitiveArticle: "" }
-campaignInfo: 
+tags: [status/needswork, organization, status/unknown]
+displayDefaults: {definitiveArticle: ''}
+campaignInfo:
 name: The Rangers
 typeOf: army
 ---

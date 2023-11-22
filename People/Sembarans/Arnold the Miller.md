@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/unaware]
+tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 name: Arnold the Miller
 born:
 species: human

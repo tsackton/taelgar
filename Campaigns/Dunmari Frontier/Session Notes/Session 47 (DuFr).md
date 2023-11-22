@@ -1,4 +1,6 @@
-#### Session 47
+---
+tags: [status/unknown]
+---
 
 **(Thursday, May 26th, 2022; in Taelgar, Aug 9th - Aug 21st)**
 

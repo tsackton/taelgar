@@ -1,33 +1,18 @@
 ---
-tags:
-  - status/uptodate
-  - person
-  - dufr/met
-  - dufr/minor
+tags: [status/uptodate, person, dufr/met, dufr/minor, status/unknown]
 campaignInfo:
-  - campaign: DuFr
-    date: 1748-01-15
-    type: met
+- {campaign: DuFr, date: 1748-01-15, type: met}
 name: Vahaiya
 pronunciation: va-HAI-ya
-born: 1532 #start of leya for 36 ka
+born: 1532
 ka: 36
 species: elf
-ancestry: 
+ancestry:
 gender: enby
 whereabouts:
-  - type: home
-    start: ""
-    end: 1545
-    location: Ainumarya
-  - type: away
-    start: 1545
-    end: 1720
-    location: traveling, greater Sembara
-  - type: home
-    start: 1720
-    location: Erelion
-# traveling / return to Erelion dates are approx
+- {type: home, start: '', end: 1545, location: Ainumarya}
+- {type: away, start: 1545, end: 1720, location: 'traveling, greater Sembara'}
+- {type: home, start: 1720, location: Erelion}
 ---
 # Vahaiya
 *(va-HAI-ya)*

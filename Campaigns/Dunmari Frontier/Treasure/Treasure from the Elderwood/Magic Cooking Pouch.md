@@ -1,4 +1,6 @@
-# Magic Cooking Pouch
+---
+tags: [status/unknown]
+---
 (minor item, uncommon)
 
 Acquired by Delwath in the Te'kula village in the Elderwood, from an unknown origin. 

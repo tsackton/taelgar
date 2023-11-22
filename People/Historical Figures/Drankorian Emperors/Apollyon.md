@@ -1,6 +1,6 @@
 ---
-tags: [historical, person, dufr/major, dufr/aware, testcase]
-displayDefaults: { secondaryInfo: "<subspecies> (<species>), <pronouns>" }
+tags: [historical, person, dufr/major, dufr/aware, testcase, status/unknown]
+displayDefaults: {secondaryInfo: '<subspecies> (<species>), <pronouns>'}
 campaignInfo: []
 name: Apollyon
 born:
@@ -10,8 +10,8 @@ gender: male
 aliases: [Emperor Apollyon, Apollyon]
 title: Emperor
 whereabouts:
-- {type: home, end: 1059, location: 'Drankor'}
-- {type: away, start: 1059 } 
+- {type: home, end: 1059, location: Drankor}
+- {type: away, start: 1059}
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Info

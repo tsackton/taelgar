@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/tanshi]
+tags: [deity, religion/tanshi, status/unknown]
 ---
 
 # Nisir

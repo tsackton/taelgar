@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, dufr/met_one, person]
+tags: [dufr/background, dufr/met_one, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Wella Brightmoon
@@ -10,7 +10,7 @@ gender: female
 aliases: [Wella]
 affiliations: [Brightmoons]
 whereabouts:
-- {type: home, start: "", end: '', location: 'Eastern Green Sea'}
+- {type: home, start: '', end: '', location: Eastern Green Sea}
 ---
 
 # Wella Brightmoon

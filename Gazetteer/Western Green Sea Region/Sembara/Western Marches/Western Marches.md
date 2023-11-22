@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 name: Western Marches
 typeOf: region
 partOf: Sembara

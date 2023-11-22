@@ -1,5 +1,5 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Derik III
@@ -8,15 +8,15 @@ species: human
 ancestry: Sembaran
 gender: male
 leaderOf:
-- {place: Vostok, title: Prince of the North, start: 1508, end: 1519 }
-- {place: Zovcka, title: Prince of the North, start: 1508, end: 1519 }
-- {place: Sembara, title: High King }
-- {place: Tyrwingha, title: High King }
-- {place: Ardlas, title: High King }
-- {place: Lavnoch, title: High King }
-- {place: Breva, title: High King }
-- {place: Vostok, title: High King }
-- {place: Zovcka, title: High King }
+- {place: Vostok, title: Prince of the North, start: 1508, end: 1519}
+- {place: Zovcka, title: Prince of the North, start: 1508, end: 1519}
+- {place: Sembara, title: High King}
+- {place: Tyrwingha, title: High King}
+- {place: Ardlas, title: High King}
+- {place: Lavnoch, title: High King}
+- {place: Breva, title: High King}
+- {place: Vostok, title: High King}
+- {place: Zovcka, title: High King}
 title: King
 died: 1549
 reignStart: 1519

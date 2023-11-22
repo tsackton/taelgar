@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Dunmari werewolf woman
@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, start: , end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: !!null '', end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Dunmari werewolf woman
 >[!info]+ Biographical Summary

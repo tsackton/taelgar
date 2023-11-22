@@ -1,4 +1,6 @@
-# Ring of Displacement
+---
+tags: [status/unknown]
+---
 
 [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement)
 

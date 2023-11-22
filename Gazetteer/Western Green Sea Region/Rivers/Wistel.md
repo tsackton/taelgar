@@ -1,5 +1,5 @@
 ---
-tags: [place, status/notes]
+tags: [place, status/notes, status/unknown]
 campaignInfo: []
 name: Wistel
 typeOf: river

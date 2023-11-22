@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: '1748-12-30', type: met}
@@ -13,8 +13,8 @@ title: Captain
 affiliations: [Dyer's Guild]
 family: Chapman
 whereabouts:
-- {type: home,  location:  Tollen}
-- {type: away, start: '1748-12-30', end: '1748-12-30', location: Dyer's Guildhall }
+- {type: home, location: Tollen}
+- {type: away, start: '1748-12-30', end: '1748-12-30', location: Dyer's Guildhall}
 ---
 # Captain Jane Chapman
 >[!info]+ Biographical Info

@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 partOf: Taelgar
 typeOf: region
 name: Desolation of Cha'mutte

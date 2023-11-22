@@ -1,4 +1,6 @@
-The Divine Powers of Taelgar 
+---
+tags: [status/unknown]
+---
 
 There are only two true gods of Taelgar, Eru and Melkor.  They are worshipped in various forms and incarnations in all cultures, among all races.  In addition to the true gods, there are many divine “aspects.”  Most are rarely worshipped, but a few have obtained some degree of popularity among certain circles.  Despite the fact that all races and cultures worship the same gods, they all have their own versions of the cosmology of Taelgar, none of which quite match what really happened.  
 

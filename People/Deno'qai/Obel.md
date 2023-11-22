@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/minor, status/notes]
+tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
 campaignInfo: []
 name: Obel
 born: 1688

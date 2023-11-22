@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Elaine I
@@ -9,14 +9,14 @@ species: human
 ancestry: Sembaran
 gender: female
 title: Queen
-leaderOf: 
-- {place: Tyrwingha, start: 1567, end: 1571, title: Princess Consort }
+leaderOf:
+- {place: Tyrwingha, start: 1567, end: 1571, title: Princess Consort}
 - {place: Tyrwingha, start: 1571, title: Queen Consort}
 - {place: Sembara}
 - {place: Tyrwingha, start: 1589, title: Queen}
 reignStart: 1582
 died: 1592
-affiliations: [ House of Sewick ]
+affiliations: [House of Sewick]
 ---
 # Queen Elaine I
 >[!info]+ Biographical Info

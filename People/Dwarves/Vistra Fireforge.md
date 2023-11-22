@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/met, dufr/minor]
+tags: [clee/unsorted, person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Vistra Fireforge
@@ -9,9 +9,9 @@ species: dwarf
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Tharn Todor'}
-- {type: home, start: 1620-01-01, end: '', location: 'Ausson''s Crossing'}
-- {type: home, start: 1730-01-01, end: '', location: 'Tokra'}
+- {type: home, start: '', end: '', location: Tharn Todor}
+- {type: home, start: 1620-01-01, end: '', location: Ausson's Crossing}
+- {type: home, start: 1730-01-01, end: '', location: Tokra}
 ---
 # Vistra Fireforge
 >[!info]+ Biographical Info

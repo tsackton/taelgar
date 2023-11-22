@@ -1,4 +1,6 @@
-**Vision of Hralgar's Eyes in [[Eudomes' Mirror]]**
+---
+tags: [status/unknown]
+---
 
 You hold the giant's eyes to the mirror, trying to see how they ended up this way, how Hralgar was bound and and caught.
 

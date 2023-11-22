@@ -1,6 +1,6 @@
 ---
-tags: [place, status/notes]
-displayDefaults: {definitiveArticle: ""}
+tags: [place, status/notes, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: Gold Street
 typeOf: ward

@@ -1,4 +1,6 @@
-#### Session 27
+---
+tags: [status/unknown]
+---
 
 **(Wednesday, July 7th, 2021; in Taelgar, May 24th to May 27th)
 

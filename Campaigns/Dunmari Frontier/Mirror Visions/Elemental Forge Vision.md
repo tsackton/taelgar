@@ -1,3 +1,5 @@
-# Elemental Forge Vision
+---
+tags: [status/unknown]
+---
 
 %%SECRET[1]%%

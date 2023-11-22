@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/unaware]
+tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 campaignInfo: []
 name: Selma Wisthelwind
 born: 1644
@@ -8,8 +8,8 @@ species: human
 ancestry: Highlander
 gender: female
 whereabouts:
-- {type: home,  location: Ardlas}
-- {type: home,  location: The Fox’s Flagon}
+- {type: home, location: Ardlas}
+- {type: home, location: The Fox’s Flagon}
 ---
 # Selma Wisthelwind
 >[!info]+ Biographical Info

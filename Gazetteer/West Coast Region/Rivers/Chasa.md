@@ -1,9 +1,9 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 campaignInfo: []
 name: Chasa
 typeOf: river
-partOf: 
+partOf:
 aliases: [River Chasa, Chasa River]
 ---
 # Chasa

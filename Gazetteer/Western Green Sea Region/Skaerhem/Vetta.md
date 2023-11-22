@@ -1,5 +1,5 @@
 ---
-tags: [place/island, event-source]
+tags: [place/island, event-source, status/unknown]
 campaignInfo: []
 name: Vetta
 typeOf: island

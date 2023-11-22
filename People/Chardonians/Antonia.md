@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [person, dufr/met, dufr/major, testcase, status/draft]
+tags: [person, dufr/met, dufr/major, testcase, status/draft, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned}
@@ -11,9 +11,8 @@ ancestry: Chardonian
 gender: female
 whereabouts:
 - {type: away, start: 1748-11-10, end: '', location: Dunmar}
-- {type: away, start: 1748-12-08, end: 1750, location: 'Mirror of Soul Trapping'} #check end is approx
+- {type: away, start: 1748-12-08, end: 1750, location: Mirror of Soul Trapping}
 - {type: home, start: '', end: '', location: Chardon}
-#update whereaabouts
 ---
 # Antonia
 >[!info]+ Biographical Info

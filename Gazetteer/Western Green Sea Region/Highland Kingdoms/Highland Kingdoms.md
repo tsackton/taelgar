@@ -1,5 +1,5 @@
 ---
-tags: [place/region]
+tags: [place/region, status/unknown]
 name: Highland Kingdoms
 typeOf: region
 aliases: [Highland Kingdoms]

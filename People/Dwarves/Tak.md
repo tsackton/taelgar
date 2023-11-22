@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, dufr/met_one, person]
+tags: [dufr/background, dufr/met_one, person, status/unknown]
 campaignInfo: []
 name: Tak
 born:
 species: dwarf
 ancestry:
 gender: male
-whereabouts: [{type: home, location: Bleakhold},{type: home, start: 1748, location: Tharn Todor} ]
+whereabouts:
+- {type: home, location: Bleakhold}
+- {type: home, start: 1748, location: Tharn Todor}
 ---
 # Tak
 >[!info]+ Biographical Info

@@ -1,4 +1,6 @@
-# Hralgar's Tale
+---
+tags: [status/unknown]
+---
 
 I have roamed these planes for centuries, traveling as the storm, bringing tales on the wind to those who would listen.
 

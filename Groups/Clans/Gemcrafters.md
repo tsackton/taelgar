@@ -1,10 +1,10 @@
 ---
-tags: [organization/family]
-displayDefaults: {definitiveArticle: "the"}
+tags: [organization/family, status/unknown]
+displayDefaults: {definitiveArticle: the}
 campaignInfo: []
 name: Gemcrafters
 typeOf: clan
-aliases: [ Barzinduk ]
+aliases: [Barzinduk]
 ---
 # The Gemcrafters
 *in dwarvish, Barzinduk*

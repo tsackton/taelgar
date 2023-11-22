@@ -1,8 +1,8 @@
 ---
-tags: [organization/party]
+tags: [organization/party, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo: []
-name: 
+name:
 typeOf: adventuring party
 ---
 # The Dunmar Fellowship
@@ -37,9 +37,16 @@ The Dunmar Fellowship has acquired a number of followers, hirelings, and traveli
 - Adam Gower, a human factor and agent, with a history of working for the Goodbarrel family. Now serves as the party's representative in Tollen, and also manages trade goods and contracts in Tollen. Based in Tollen. 
 - Amil (uh-MEEL), a joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the Garamjala desert before leaving to help record the stories of the ordinary people of the world. Based on Vindristjarna. 
 - Égnir (AY-nyeer), a quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Based on Vindristjarna. 
-- Nurzkar, Aygul's twin sister, a orc woman solider, brawler, and smith, 
-- Aygul, Nurzkar's twin sister, 
+- Nurzkar, and Aygul, orcs and twin sisters. Details TBD. Aygul's twin sister, an orc woman
+- Aygul, Nurzkar's twin sisters, orcs, details TBD
+- Kecha, a kenku scout
 
+Future recruits:
+- mapmaker 
+- halfling elder / storyteller
+- Deno'qai godcaller, perhaps the other trapped shadow realm person
+- smith apprentice for Riswynn
+- centaur from tollen
 
 
 %%

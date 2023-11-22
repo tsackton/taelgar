@@ -1,4 +1,6 @@
-# Some Worldbuilding Notes on Whaling
+---
+tags: [status/unknown]
+---
 
 Thinking a little bit about whaling in Taelgar.
 

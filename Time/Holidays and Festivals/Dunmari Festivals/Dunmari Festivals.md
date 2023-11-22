@@ -1,5 +1,5 @@
 ---
-tags: [background]
+tags: [background, status/unknown]
 ---
 
 # Festivals

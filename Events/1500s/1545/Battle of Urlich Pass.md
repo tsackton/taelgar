@@ -1,7 +1,7 @@
 ---
-tags: [event-source]
+tags: [event-source, status/unknown]
 DR: 1545
-displayDefaults: { endStatus: "fought in"}
+displayDefaults: {endStatus: fought in}
 name: Battle of Urlich Pass
 partOf: Great War
 typeOf: battle

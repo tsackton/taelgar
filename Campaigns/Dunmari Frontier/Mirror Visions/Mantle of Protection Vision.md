@@ -1,4 +1,6 @@
-**Vision of the Mantle of Protection in [[Eudomes' Mirror]]**
+---
+tags: [status/unknown]
+---
 
 You ask [[Lubash]] to hold the cloak of rainbows to the mirror, and the scene fades. 
 

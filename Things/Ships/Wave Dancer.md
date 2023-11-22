@@ -1,5 +1,5 @@
 ---
-tags: [item/boat]
+tags: [item/boat, status/unknown]
 typeOf: vehicle
 subTypeOf: boat
 ---

@@ -1,1 +1,3 @@
-The mountains on the north-east border of [[Vostok]]
+---
+tags: [status/unknown]
+---

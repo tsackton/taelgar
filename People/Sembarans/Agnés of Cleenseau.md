@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Agnés of Cleenseau
@@ -8,8 +8,8 @@ species: human
 ancestry: Maseaun
 gender: female
 whereabouts:
-- {type: home, location: 'Evis'}
-- {type: away, start: 1719-08-12, end: 1719-12-05, location: 'Cleenseau'}
+- {type: home, location: Evis}
+- {type: away, start: 1719-08-12, end: 1719-12-05, location: Cleenseau}
 ---
 # Agnés of Cleenseau
 >[!info]+ Biographical Info

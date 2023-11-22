@@ -1,4 +1,6 @@
-#### Session 33
+---
+tags: [status/unknown]
+---
 
 **(Sunday, Oct 24th, 2021; in Taelgar, June 20th to June 30th)
 

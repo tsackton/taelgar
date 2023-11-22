@@ -1,8 +1,6 @@
 ---
-tags:
-  - organization
-  - status/notes
-campaignInfo: 
+tags: [organization, status/notes, status/unknown]
+campaignInfo:
 name: Dyer's Guild
 typeOf: guild
 ---

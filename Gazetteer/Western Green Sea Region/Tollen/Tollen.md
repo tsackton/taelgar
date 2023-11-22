@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
-tags: [place]
-campaignInfo: 
+tags: [place, status/unknown]
+campaignInfo:
 name: Free City of Tollen
 typeOf: city
 partOf: Western Green Sea Region

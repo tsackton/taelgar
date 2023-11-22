@@ -1,5 +1,5 @@
 ---
-tags: [status/uptodate, dufr/met_one, person, dufr/minor]
+tags: [status/uptodate, dufr/met_one, person, dufr/minor, status/unknown]
 campaignInfo: []
 name: Somi-nai
 born:
@@ -8,7 +8,7 @@ subspecies: fire elemental
 gender: male
 aliases: [Ember, Sugarra]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Azta Lekua'}
+- {type: home, start: '', end: '', location: Azta Lekua}
 ---
 # Somi-nai
 >[!info]+ Biographical Info

@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, person, dufr/aware]
+tags: [dufr/background, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Odim Mavdyrson
-born: 1500 #testing
-died: 1590 #testing
+born: 1500
+died: 1590
 species: giant
 subspecies: fire giant
 gender: male

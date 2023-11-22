@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [person, dufr/met, dufr/minor]
+tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-29, type: met}
@@ -12,7 +12,7 @@ gender: female
 aliases: [Umli]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Vostok Mountains, Western Green Sea'}
-- {type: home, start: 1732-01-02, end: '', location: 'Tollen'}
+- {type: home, start: 1732-01-02, end: '', location: Tollen}
 ---
 # Umli the Exile
 >[!info]+ Biographical Info

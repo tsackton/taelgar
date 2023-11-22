@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork]
+tags: [species, status/needswork, status/unknown]
 name: Kenku
 aliases: [kenku]
 ---

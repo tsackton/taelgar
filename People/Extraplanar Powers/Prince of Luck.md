@@ -1,21 +1,13 @@
 ---
-tags:
-  - dufr/met_one
-  - person
-  - dufr/minor
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [dufr/met_one, person, dufr/minor, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Prince of Luck
-born: 
+born:
 species: fey
 subspecies: archfey
 gender: male
-aliases:
-  - Chanceweaver
+aliases: [Chanceweaver]
 ---
 # Prince of Luck
 >[!info]+ Biographical Info

@@ -1,4 +1,6 @@
-**Vision of Kenzo's Jade Fragment in [[Eudomes' Mirror]]
+---
+tags: [status/unknown]
+---
 
 As you hold the piece of [[Jade]] up to the mirror, images flash before your eyes.  
 

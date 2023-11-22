@@ -1,4 +1,6 @@
-# Session 74
+---
+tags: [status/unknown]
+---
 *in which the party travels to [[Tollen]]*
 
 **In the real world:** July 27, 2023

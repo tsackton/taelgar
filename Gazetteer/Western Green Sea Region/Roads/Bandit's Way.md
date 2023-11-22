@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: {partOf: "<article> <typeof> of <loc:3>"}
+tags: [place, status/unknown]
+displayDefaults: {partOf: '<article> <typeof> of <loc:3>'}
 campaignInfo: []
 name: Bandit's Way
 typeOf: section

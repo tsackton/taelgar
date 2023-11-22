@@ -1,5 +1,5 @@
 ---
-tags: [organization]
+tags: [organization, status/unknown]
 ---
 
 # The Order of the Awakened Soul

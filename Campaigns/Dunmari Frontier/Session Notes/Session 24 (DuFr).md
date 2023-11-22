@@ -1,4 +1,6 @@
-#### Session 24
+---
+tags: [status/unknown]
+---
 
 **(Thursday, May 6th, 2021; in Taelgar, May 11th to May 13th)**
 

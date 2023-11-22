@@ -1,5 +1,5 @@
 ---
-tags: [item/mundane, item/book]
+tags: [item/mundane, item/book, status/unknown]
 name: On the Lost People of the Forests
 typeOf: book
 ---

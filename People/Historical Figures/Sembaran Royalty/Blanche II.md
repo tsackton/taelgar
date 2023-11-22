@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, person/ruler, person, dufr/unaware]
+tags: [historical, person/ruler, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Blanche II
@@ -11,7 +11,9 @@ gender: female
 reignStart: 1600
 died: 1602
 title: Queen
-leaderOf: [{place: Sembara}, {place: Tyrwingha}]
+leaderOf:
+- {place: Sembara}
+- {place: Tyrwingha}
 affiliations: [House of Sewick]
 ---
 # Queen Blanche II

@@ -1,14 +1,8 @@
 ---
-tags:
-  - organization
-  - status/notes
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: disbanded
-  endStatus: disbanded
-campaignInfo: 
-name: 
+tags: [organization, status/notes, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo:
+name:
 typeOf: army
 subTypeOf: warband
 ---

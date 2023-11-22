@@ -1,38 +1,18 @@
 ---
-tags:
-  - person
-  - dufr/met
-  - dufr/major
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
+tags: [person, dufr/met, dufr/major, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-  - campaign: DuFr
-    date: 1748-12-09
-    type: captured
+- {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Vargus
 born: 1722
 species: human
 ancestry: Chardonian
 gender: male
-affiliations:
-  - Chardonian Legion
-  - Society of the Open Scroll
+affiliations: [Chardonian Legion, Society of the Open Scroll]
 whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: Chardon, Chardonian Empire
-  - type: home
-    start: 1722-01-02
-    end: ""
-    location: Chardon, Chardonian Empire
-  - type: away
-    start: 1748-12-09
-    end: 1750
-    location: Mirror of Soul Trapping
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, start: 1722-01-02, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: away, start: 1748-12-09, end: 1750, location: Mirror of Soul Trapping}
 ---
 # Vargus
 >[!info]+ Biographical Summary

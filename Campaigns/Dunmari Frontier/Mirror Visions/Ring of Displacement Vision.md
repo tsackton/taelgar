@@ -1,4 +1,6 @@
-***Visions of the [[Ring of Displacement]] in [[Eudomes' Mirror]]***
+---
+tags: [status/unknown]
+---
 
 The image of the ring fades, and you see a workshop in a tower, perhaps something like [[Stormcaller Tower]]. This is clearly the workshop of a wizard of [[Drankor]]. It is a big circular room, with a workbench, chair, and table, and with a circle of runes etched in gold around the edges of the room, providing a barrier to prevent the passage of extraplanar creatures. Sitting on the chair is an old man, with a balding head and a long white beard, looking at the ring sitting on the table. Entering the room is a warrior, clearly someone who is battle hardened, Drankorian as well. He is wearing a breastplate, carrying a sword, and with an insignia on his armor you don’t recognize but that seems to indicate a rank of some importance. The mage greats him as a friend, grasping his arm, and they talk for some time as the image in the mirror seems to accelerate. 
 

@@ -1,4 +1,6 @@
-# Creating A Centaur
+---
+tags: [status/unknown]
+---
 
 [[Centaurs]] in Taelgar are descended from the archfey, but have made their home on the world of Taelgar. Many [[centaurs]] see themselves as protectors and guardians of the world, and centaur societies tend to be nomadic, rarely staying in one place for more than a year. 
 

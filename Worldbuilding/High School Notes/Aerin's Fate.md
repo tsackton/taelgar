@@ -1,3 +1,5 @@
-Schwartz- 
+---
+tags: [status/unknown]
+---
 
 You remember nothing.  You have no memories at all, except a vague nagging sense that their is something important you are supposed to be doing.  You can do anything a kenku would be able to do by instinct.  This includes hunting, but does not include shapeshifting or fading.  Also, you are blind.  You have no eyesight anymore, but you can “feel” the things around you.  You get a new sense, Perception, at 14.  You can automatically sense most things you could see, but you can’t get any detail.  You couldn’t easily tell the difference between a softball and a grapefruit, for example.  However, if you want more detail, you can attempt a perception roll.  The degree by which you make the roll is the amount of information you get.  To read, or make out non texture/shape based detail, you have to make a roll at perception-8, or perception-4 if you are holding the object under your nose, and focusing only on sensing it.  This will, of course, make you much more vulnerable to surprise.  Other than that, your basic personality is unchanged.

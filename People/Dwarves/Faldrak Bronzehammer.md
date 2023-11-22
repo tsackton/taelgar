@@ -1,8 +1,8 @@
 ---
-tags: [person, dufr/met, dufr/major]
+tags: [person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: 
-- { campaign: dufr, date: 1749-01-16, type: met }
+campaignInfo:
+- {campaign: dufr, date: 1749-01-16, type: met}
 name: Faldrak Bronzehammer
 born: 1516
 species: dwarf

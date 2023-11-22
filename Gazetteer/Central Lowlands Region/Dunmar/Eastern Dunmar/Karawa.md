@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 name: Karawa
 typeOf: town
 partOf: Eastern Dunmar

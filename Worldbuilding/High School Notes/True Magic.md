@@ -1,4 +1,6 @@
-True Magic 
+---
+tags: [status/unknown]
+---
 
 True magic is magic that creates its effects by drawing energy directly from the plane of Magic in whatever form is desired.  Energy exists on the plane of Magic in ten broad subtypes: life, death, soul, body, mind, magic, earth, air, fire, and water.  These types of energy manifest themselves on our plane as currents or weaves of energy.  All these weaves of energy also have subweaves, which represent a more detailed breakdown of what the energy does.  Fire, for example, might have subweaves of heat or of flame.  The subweaves for a particular type of energy are not permanently fixed; all they really are is a more detailed understanding of what makes up the weave.   
 

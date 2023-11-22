@@ -1,6 +1,6 @@
 ---
-tags: [dufr/background, dufr/met_one, person]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: "killed by Deno'qai"}
+tags: [dufr/background, dufr/met_one, person, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed by Deno'qai}
 campaignInfo: []
 name: Zegron
 born:

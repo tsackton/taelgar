@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Anne of Sewick
@@ -9,9 +9,10 @@ species: human
 ancestry: Sembaran
 gender: female
 reignStart:
-leaderOf: [{place: Breva, title: Queen, start: 1568 }]
+leaderOf:
+- {place: Breva, title: Queen, start: 1568}
 died: 1583-02-14
-affiliations: [ House of Sewick ]
+affiliations: [House of Sewick]
 ---
 # Anne of Sewick
 >[!info]+ Biographical Info

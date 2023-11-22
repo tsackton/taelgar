@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/stub, status/unknown]
 name: Ozabal
 ancestry: lizardfolk
 typeOf: swamp

@@ -1,4 +1,6 @@
-#### Session 2
+---
+tags: [status/unknown]
+---
 
 **(Friday June 12, 2020; in Taeglar, evening March 22 to mid-morning March 25)**
 

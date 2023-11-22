@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: { definitiveArticle: "" }
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: The Chapterhouse
 typeOf: inn

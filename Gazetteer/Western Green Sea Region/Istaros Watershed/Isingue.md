@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
-tags: [place]
-displayDefaults: { endStatus: consumed by Cha'mutte's plague in}
+tags: [place, status/unknown]
+displayDefaults: {endStatus: consumed by Cha'mutte's plague in}
 campaignInfo: []
 name: Isingue
 destroyed: 1545

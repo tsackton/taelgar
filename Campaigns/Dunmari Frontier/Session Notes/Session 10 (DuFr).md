@@ -1,4 +1,6 @@
-#### Session 10
+---
+tags: [status/unknown]
+---
 
 **(Friday, October 2nd, 2020; in Taelgar, late afternoon to evening on April 12th)**
 

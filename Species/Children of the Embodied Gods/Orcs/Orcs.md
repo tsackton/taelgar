@@ -1,5 +1,5 @@
 ---
-tags: [species]
+tags: [species, status/unknown]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
 typeOf: species

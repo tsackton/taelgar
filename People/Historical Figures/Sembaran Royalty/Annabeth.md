@@ -1,5 +1,5 @@
 ---
-tags: [historical, person, dufr/unaware]
+tags: [historical, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Annabeth
@@ -7,7 +7,7 @@ born: 1600
 species: human
 ancestry: Tyrwinghan
 gender: female
-died: 1675  
+died: 1675
 affiliations: [House of Lils]
 ---
 # Annabeth

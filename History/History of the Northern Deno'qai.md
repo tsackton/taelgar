@@ -1,6 +1,5 @@
 ---
-tags:
-- '#event-source'
+tags: ['#event-source', status/unknown]
 ---
 # The History of the Northern Deno'qai
 

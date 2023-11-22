@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, person, dufr/unaware, person/ruler]
+tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
 campaignInfo: []
 name: Arryn I
 born: 1567
@@ -10,7 +10,9 @@ gender: male
 reignStart: 1592
 title: King
 affiliations: [House of Sewick]
-leaderOf: [ {place: Sembara}, {place: Tyrwingha} ]
+leaderOf:
+- {place: Sembara}
+- {place: Tyrwingha}
 died: 1600
 ---
 # King Arryn I

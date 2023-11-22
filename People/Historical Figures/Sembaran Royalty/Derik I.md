@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, dufr/unaware, person/ruler]
+tags: [historical, dufr/unaware, person/ruler, status/unknown]
 campaignInfo: []
 name: Derik I
 born: 1396
@@ -10,7 +10,10 @@ gender: male
 died: 1462
 reignEnd: 1462
 affiliations: [House of Sewick]
-leaderOf: [{place: Tyrwingha, start: 1425}, {place: Sembara, start: 1429}, {place: Duchy of Telham, title: Duke, start: 1429}]
+leaderOf:
+- {place: Tyrwingha, start: 1425}
+- {place: Sembara, start: 1429}
+- {place: Duchy of Telham, title: Duke, start: 1429}
 title: King
 ---
 # King Derik I

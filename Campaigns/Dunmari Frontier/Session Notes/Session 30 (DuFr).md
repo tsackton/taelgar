@@ -1,4 +1,6 @@
-#### Session 30
+---
+tags: [status/unknown]
+---
 
 **(Friday, Sept 10th, 2021; in Taelgar, June 1st to June 4th)
 

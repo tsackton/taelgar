@@ -1,4 +1,6 @@
-|   |   |   |   |
+---
+tags: [status/unknown]
+---
 |---|---|---|---|
 |Name|Detail Level|Notes|Completed?|
 |King Derik III|Full||Mostly|

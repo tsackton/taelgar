@@ -1,4 +1,6 @@
-This is the initiation ritual experienced by Kenzo and Drikod, after The Heart of Shakun was restored. 
+---
+tags: [status/unknown]
+---
 
 The abbreviated initiation ritual experienced by Kenzo, Wellby, Drikod, Seeker, and Delwath is described [[Session 26 (DuFr)#The Initiation Ritual of the Shakun Mystai|here]].
 

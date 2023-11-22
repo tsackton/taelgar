@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1720-01-04, type: met}
 name: Margaret Ashford
@@ -8,7 +8,7 @@ species: human
 ancestry: Sembaran
 gender: female
 whereabouts:
-- {type: home, location: 'Cleenseau'}
+- {type: home, location: Cleenseau}
 ---
 # Margaret Ashford
 >[!info]+ Biographical Info

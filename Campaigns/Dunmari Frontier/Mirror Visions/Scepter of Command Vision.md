@@ -1,4 +1,6 @@
-**Visions of the [[Scepter of Command]] in [[Eudomes' Mirror]] 
+---
+tags: [status/unknown]
+---
 
 As you hold up the scepter, concentrating on the story of the last person who wielded it, you see, for a moment, [[Agata]] holding the scepter. A look of power, joy, and intense desire is on her face as she grabs hold of it. As she grabs it, you can just glimpse her other hand passing someone an elaborate scroll case, the end cap familiar. It is the same [[Ivory Scroll Cap]] of the scroll case you found in [[Raven's Hold]], left in the dust and sand of the summoning circle there. 
 

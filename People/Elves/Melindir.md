@@ -1,31 +1,17 @@
 ---
-tags:
-  - person
-  - dufr/minor
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
+tags: [person, dufr/minor, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-  - campaign: dufr
-    date: 1749-01-02
-    type: met
+- {campaign: dufr, date: 1749-01-02, type: met}
 name: Melindir
-born: 
+born:
 ka: 35
 species: elf
-ancestry: 
+ancestry:
 gender: male
 whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: Orenlas, Western Green Sea
-  - type: home
-    start: ""
-    end: ""
-    location: Tollen, Western Green Sea
+- {type: home, start: '', end: '', location: 'Orenlas, Western Green Sea'}
+- {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
 pronunciation: meh-LIN-deer
 ---
 # Melindir

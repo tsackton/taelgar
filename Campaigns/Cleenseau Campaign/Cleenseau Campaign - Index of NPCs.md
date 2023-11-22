@@ -1,4 +1,6 @@
-This contains an index of NPCs the party has met or heard of.
+---
+tags: [status/unknown]
+---
 
 ### In [[Taviose]]
 
