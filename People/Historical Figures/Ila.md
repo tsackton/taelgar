@@ -1,5 +1,5 @@
 ---
-tags: [historical, person, dufr/aware]
+tags: [historical, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Ila
@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: male
 title: Commander
 whereabouts:
-- {type: home, start: "", end: '', location: 'unknown, Central Dunmar'}
+- {type: home, start: '', end: '', location: 'unknown, Central Dunmar'}
 ---
 # Commander Ila
 >[!info]+ Biographical Summary

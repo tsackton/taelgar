@@ -1,4 +1,6 @@
-Human creation myth:  
+---
+tags: [status/unknown]
+---
 
 In the beginning, there was a void (the Center).  Two brothers, Eru and Melkor dwelt there for time uncounted, exploring and growing in power.  Eventually, they discovered a new power, a power of the binding and unbinding of reality.  Drawing from the center of this power (the plane of Magic), they discovered how to create, and destroy.   
 

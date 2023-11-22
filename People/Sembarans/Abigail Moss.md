@@ -1,13 +1,14 @@
 ---
-tags: [person]
-campaignInfo: [ { campaign: Clee, date: 1719-12-04, type: met}]
+tags: [person, status/unknown]
+campaignInfo:
+- {campaign: Clee, date: 1719-12-04, type: met}
 name: Abigail Moss
 born: 1698
 species: human
 ancestry: Sembaran
 gender: female
-whereabouts: 
-  - { type: home, location: Taviose }
+whereabouts:
+- {type: home, location: Taviose}
 ---
 # Abigail Moss
 >[!info]+ Biographical Summary

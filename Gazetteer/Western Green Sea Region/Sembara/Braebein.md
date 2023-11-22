@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/stub, status/unknown]
 campaignInfo: []
 name: Braebein
 typeOf: line of hills

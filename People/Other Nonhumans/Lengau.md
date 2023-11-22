@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/met_one, person, dufr/minor]
+tags: [dufr/met_one, person, dufr/minor, status/unknown]
 campaignInfo: []
 name: Lengau
 born:

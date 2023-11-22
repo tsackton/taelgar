@@ -1,4 +1,6 @@
-a letter [[Riswynn]] picked up from [[Wes Strongbones]], proprietor of [[The Red Lily Inn]] in [[Tokra]]
+---
+tags: [status/unknown]
+---
   
 19 October 1748
 [[The Green Leaf]] Inn, [[Darba]]

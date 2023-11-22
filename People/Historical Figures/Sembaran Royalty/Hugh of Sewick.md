@@ -1,5 +1,5 @@
 ---
-tags: [person/ruler]
+tags: [person/ruler, status/unknown]
 name: Hugh of Sewick
 born: 1482
 species: human

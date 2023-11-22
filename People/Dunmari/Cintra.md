@@ -1,22 +1,13 @@
 ---
-tags:
-  - person
-  - dufr/met
-  - dufr/major
-  - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [person, dufr/met, dufr/major, status/notes, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Cintra
 born: 1705
 species: human
 ancestry: Dunmari
 gender: female
-affiliations:
-  - Shakun mystai
+affiliations: [Shakun mystai]
 whereabouts: Karawa
 ---
 # Cintra

@@ -1,9 +1,8 @@
 ---
-tags: [deity, religion/mosnumena]
-displayDefaults: {definitiveArticle: ""}
+tags: [deity, religion/mosnumena, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 name: The Wanderer
-pronunciation: "he/him"
-#overwriting pronunciation as a hack to auto-add pronouns to deity pages
+pronunciation: he/him
 ---
 # The Wanderer
 *(he/him)*

@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.20
-tags: [person, historical]
+tags: [person, historical, status/unknown]
 species: human
 ancestry: Drankorian
 gender: female
-died: 0001
+died: 1
 ---
 # Drusilia
 >[!info]+ Biographical Info

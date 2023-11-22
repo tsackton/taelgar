@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, event-source, person, dufr/met]
+tags: [dufr/background, event-source, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Lucius

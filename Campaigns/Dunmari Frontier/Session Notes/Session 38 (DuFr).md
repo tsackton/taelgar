@@ -1,4 +1,6 @@
-#### Session 38
+---
+tags: [status/unknown]
+---
 
 **(Sunday, Jan 23rd, 2022; in Taelgar, July 2nd)
 

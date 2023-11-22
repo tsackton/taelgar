@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/met_one, person, dufr/minor]
+tags: [dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Safri
@@ -9,7 +9,7 @@ species: human
 ancestry: Deno'qai
 gender: female
 whereabouts:
-- {type: away, start: 1748-10-25, end: '', location: 'forest valleys of the Sentinel Range'}
+- {type: away, start: 1748-10-25, end: '', location: forest valleys of the Sentinel Range}
 ---
 # Safri
 >[!info]+ Biographical Info

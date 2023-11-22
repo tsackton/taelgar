@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.20
-tags: [person, dufr/met, dufr/minor]
+tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: [{campaign: dufr, date: 1748-07-21, type: intimidated into helping}]
+campaignInfo:
+- {campaign: dufr, date: 1748-07-21, type: intimidated into helping}
 name: Justan
 born: 1723
 species: human
@@ -10,8 +11,8 @@ ancestry: Dunmari
 gender: male
 died: 1748-07-23
 whereabouts:
-- {type: home, start: '', end: '', location: 'Tokra'}
-- {type: away, start: 1748-05-01, end: 1748-07-23, location: 'Copper Hills'}
+- {type: home, start: '', end: '', location: Tokra}
+- {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
 ---
 # Justan
 >[!info]+ Biographical Info

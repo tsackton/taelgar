@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [place/plane]
+tags: [place/plane, status/unknown]
 partOf: Elemental Realms
 aliases: [Plane of Fire]
 typeOf: plane

@@ -1,8 +1,6 @@
 ---
-tags:
-  - place
-  - status/notes
-campaignInfo: 
+tags: [place, status/notes, status/unknown]
+campaignInfo:
 name: Mahar
 typeOf: river
 partOf:

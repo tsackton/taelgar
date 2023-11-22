@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [deity, religion/fivesiblings]
+tags: [deity, religion/fivesiblings, status/unknown]
 pronunciation: BHEESH-ma
 name: Bhishma
 ---

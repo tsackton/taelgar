@@ -1,4 +1,6 @@
-**Visions of [[Agata]]’s Extravagant Diamond in [[Eudomes' Mirror]]
+---
+tags: [status/unknown]
+---
 
 You hold the beautifully cut diamond up to the mirror, and the scene turns black for a moment and then you see a dwarf, sitting in a workshop, looking at the diamond through a lens, a gemcutter probably. They seem to be paying an inordinate amount of attention crafting and shaping this diamond and occasionally like holding it up and examining it. The scene is underground, in a Dwarven city none of you recognize, and probably some time ago. 
 

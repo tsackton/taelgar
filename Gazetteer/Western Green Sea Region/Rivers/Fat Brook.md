@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 campaignInfo: []
 name: Fat Brook
 typeOf: brook

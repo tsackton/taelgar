@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, status/uptodate, dufr/met_one, person]
+tags: [dufr/background, status/uptodate, dufr/met_one, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Vondar
@@ -8,8 +8,8 @@ species: giant
 subspecies: cursed
 gender: male
 whereabouts:
-- {type: home, start: "", end: '', location: 'unknown'}
-- {type: home, start: 1748-11-23, end: , location: 'Amberglow'}
+- {type: home, start: '', end: '', location: unknown}
+- {type: home, start: 1748-11-23, end: !!null '', location: Amberglow}
 ---
 # Vondar
 >[!info]+ Biographical Info

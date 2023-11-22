@@ -1,6 +1,6 @@
 ---
-tags: [clee/unaware, person, dufr/unaware]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: murdered by bandits }
+tags: [clee/unaware, person, dufr/unaware, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: murdered by bandits}
 campaignInfo: []
 name: Gentza
 born: 1681
@@ -9,7 +9,7 @@ ancestry:
 gender: female
 died: 1719-10-27
 whereabouts:
-- {type: home, location: Ganboa }
+- {type: home, location: Ganboa}
 ---
 # Gentza
 >[!info]+ Biographical Summary

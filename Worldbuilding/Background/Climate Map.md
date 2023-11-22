@@ -1,4 +1,6 @@
-
+---
+tags: [status/unknown]
+---
 ## Climate Map of Taelgar
 
 ```leaflet 

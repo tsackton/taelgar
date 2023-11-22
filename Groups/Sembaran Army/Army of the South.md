@@ -1,6 +1,6 @@
 ---
-tags: [organization]
-displayDefaults: {secondaryInfo: "", partOf: "part of <loc:1>"}
+tags: [organization, status/unknown]
+displayDefaults: {secondaryInfo: '', partOf: 'part of <loc:1>'}
 campaignInfo: []
 name: Army of the South
 typeOf: army

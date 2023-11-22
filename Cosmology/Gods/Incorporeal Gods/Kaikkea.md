@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [deity, religion/skaer]
+tags: [deity, religion/skaer, status/unknown]
 gender: female
 ---
 # Kaikkea

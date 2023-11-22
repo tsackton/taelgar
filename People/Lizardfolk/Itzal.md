@@ -1,5 +1,5 @@
 ---
-tags: [mc/minor, person, dufr/unaware]
+tags: [mc/minor, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Itzal
@@ -8,7 +8,7 @@ species: lizardfolk
 ancestry:
 gender: male
 whereabouts:
-- {type: home, location: Eskorola }
+- {type: home, location: Eskorola}
 ---
 # Itzal
 >[!info]+ Biographical Summary

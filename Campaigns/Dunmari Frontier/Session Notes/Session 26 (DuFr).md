@@ -1,4 +1,6 @@
-#### Session 26
+---
+tags: [status/unknown]
+---
 
 **(Tuesday, June 1st, 2021; in Taelgar, May 23rd to May 24th)
 

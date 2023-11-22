@@ -1,10 +1,10 @@
 ---
-tags: [pc, person, pc/guest]
+tags: [pc, person, pc/guest, status/unknown]
 campaignInfo: []
 name: Rufus
 born:
 species: kenku
-ancestry: 
+ancestry:
 gender: male
 player: Eric Rosenbaum
 ---

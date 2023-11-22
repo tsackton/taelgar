@@ -1,5 +1,5 @@
 ---
-tags: [dufr/aware, person/ruler, person, dufr/major]
+tags: [dufr/aware, person/ruler, person, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Nayan Karnas

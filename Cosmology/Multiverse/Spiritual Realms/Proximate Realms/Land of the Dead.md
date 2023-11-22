@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [place]
+tags: [place, status/unknown]
 campaignInfo: []
 name: Land of the Dead
 aliases: [River of Souls]

@@ -1,4 +1,6 @@
-### Floating Disc Coin
+---
+tags: [status/unknown]
+---
 
 A small golden coin, unusually heavy for its size, and without a recognizable mark. 
 

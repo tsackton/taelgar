@@ -1,4 +1,6 @@
-Basic Overview:  Taelgar is at the center of a multiverse consisting of: the realm of Taelgar itself, with associated lunar, solar, planetary, and stellar spheres; the realm of the Deity, which fades from “pure” good at the very top to “pure” evil at the very bottom; the realm of magic; the realm of thought, which includes the plane of consciousness, the dreamworld, and the astral plane; and the realm of nothingness.  The realm of the Deity is essentially inaccessible to living mortals of Taelgar.  The realm of magic makes occasional contact points with the realm of Taelgar, and is in very special cases directly accessible.  The realm of thought makes direct contact with individuals in Taelgar, and can be accessed with special and rare methods.  The realm of nothingness can be sought from either the realm of magic or the realm of consciousness.
+---
+tags: [status/unknown]
+---
 
 The Plane of Taelgar:   
 

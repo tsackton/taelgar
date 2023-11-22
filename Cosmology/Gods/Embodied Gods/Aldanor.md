@@ -1,4 +1,4 @@
 ---
-tags: [deity]
+tags: [deity, status/unknown]
 affiliations: [elves]
 ---

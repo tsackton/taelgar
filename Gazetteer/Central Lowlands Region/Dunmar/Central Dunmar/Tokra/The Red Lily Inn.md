@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: { definitiveArticle: "" }
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: The Red Lily Inn
 typeOf: inn

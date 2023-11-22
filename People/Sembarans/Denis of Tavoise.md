@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 species: human
 ancestry: Sembaran
 gender: male

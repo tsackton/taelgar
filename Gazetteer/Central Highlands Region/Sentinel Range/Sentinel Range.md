@@ -1,17 +1,9 @@
 ---
-tags:
-  - place
-  - status/draft
+tags: [place, status/draft, status/unknown]
 name: Sentinel Range
 typeOf: mountain chain
 partOf: Central Highlands Region
-aliases:
-  - Sentinels
-  - Sentinel Mountains
-  - Indalas
-  - Labkhan
-  - Beredri
-  - Tushara
+aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 ---
 # The Sentinel Range
 >[!info]+ Summary

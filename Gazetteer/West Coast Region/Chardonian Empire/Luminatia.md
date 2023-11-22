@@ -1,5 +1,5 @@
 ---
-tags: [place/village, status/stub]
+tags: [place/village, status/stub, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Luminatia

@@ -1,15 +1,15 @@
 ---
-tags:
-  - person
-campaignInfo: [{campaign: DuFr, type: freed, date: 1749-01-08}]
+tags: [person, status/unknown]
+campaignInfo:
+- {campaign: DuFr, type: freed, date: 1749-01-08}
 name: Sh’shethis
-born: 
+born:
 species: elemental
-ancestry: 
+ancestry:
 gender:
-whereabouts: 
-- { type: home, location: "Unknown, Plane of Air" }
-- { type: away, end: 1749-01-08, location: "ancient Drankorian ruin, Edge of Echoes" }
+whereabouts:
+- {type: home, location: 'Unknown, Plane of Air'}
+- {type: away, end: 1749-01-08, location: 'ancient Drankorian ruin, Edge of Echoes'}
 ---
 # Sh’shethis
 >[!info]+ Biographical Info

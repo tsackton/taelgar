@@ -1,14 +1,8 @@
 ---
-tags:
-  - place
-  - place/building
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
-name: 
+tags: [place, place/building, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo:
+name:
 typeOf: monastery
 partOf: Garamjala Desert
 ---

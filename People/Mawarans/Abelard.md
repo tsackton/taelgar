@@ -1,20 +1,15 @@
 ---
-tags:
-  - person
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [person, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Abelard
-born: 
+born:
 species: human
 ancestry: Mawaran
 gender: male
-whereabouts: 
- - { type: home, location: Chardonian Empire }
- - { type: home, location: Hamri }
+whereabouts:
+- {type: home, location: Chardonian Empire}
+- {type: home, location: Hamri}
 ---
 # Abelard
 >[!info]+ Biographical Summary

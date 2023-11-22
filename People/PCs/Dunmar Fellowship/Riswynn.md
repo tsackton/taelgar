@@ -1,19 +1,11 @@
 ---
-tags:
-  - pc
-  - person
-  - pc/dunmarfrontier
-  - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [pc, person, pc/dunmarfrontier, status/notes, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Riswynn
-born: 
+born:
 species: dwarf
-ancestry: 
+ancestry:
 gender: female
 player: Kate Sackton
 affiliations:

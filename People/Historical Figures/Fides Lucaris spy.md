@@ -1,5 +1,5 @@
 ---
-tags: [person, historical]
+tags: [person, historical, status/unknown]
 species: human
 gender: female
 ---

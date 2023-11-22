@@ -1,5 +1,5 @@
 ---
-tags: [place, status/needswork]
+tags: [place, status/needswork, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Ardlas

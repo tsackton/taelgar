@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/minor, person, dufr/aware]
+tags: [dufr/minor, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Crispus
@@ -11,7 +11,7 @@ gender: male
 title: Senior Archivist
 affiliations: [Great Library]
 whereabouts:
-- {type: home, start: "", end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
 pronunciation: CRIS-pus
 ---
 # Senior Archivist Crispus

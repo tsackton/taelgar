@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, person, dufr/unaware, person/ruler]
+tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
 campaignInfo: []
 name: Wisym I
 born: 1510
@@ -11,7 +11,8 @@ reignStart: 1568
 title: King
 died: 1582
 affiliations: [House of Sewick]
-leaderOf: [{place: Sembara}]
+leaderOf:
+- {place: Sembara}
 reignEnd: 1582
 ---
 # King Wisym I

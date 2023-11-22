@@ -1,13 +1,9 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - pc
-  - person
-  - pc/unsorted
-  - status/notes
-campaignInfo: 
+tags: [pc, person, pc/unsorted, status/notes, status/unknown]
+campaignInfo:
 name: Soraine
-born: 
+born:
 species: human
 ancestry: Maseaun
 gender: male

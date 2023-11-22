@@ -1,5 +1,5 @@
 ---
-tags: [item/magical]
+tags: [item/magical, status/unknown]
 typeOf: ring
 whereabouts: Grash
 ---

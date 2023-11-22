@@ -1,4 +1,6 @@
-### Introduction
+---
+tags: [status/unknown]
+---
 
 The game begins in late October in the year 5852 since the birth of the world, as the [[dwarves]] count, or as the year is more usually known in [[Sembara]], 7 Robert I, the 7th year of King [[Robert I]] of [[Sembara]]'s reign. Scholars of the ancient [[Drankorian Empire]] would say the year was DR 1719 and many across [[The Green Sea Region]] would use those count of years.
 

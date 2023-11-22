@@ -1,4 +1,6 @@
-#### Session 36
+---
+tags: [status/unknown]
+---
 
 **(Wednesday, Dec 22nd, 2021; in Taelgar, July 1st - July 2nd)
 

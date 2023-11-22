@@ -1,4 +1,6 @@
-# Creating a Lizardfolk character
+---
+tags: [status/unknown]
+---
 
 [[Lizardfolk]] live in widespread communities, sometimes primarily with their own species, sometimes near other races. They are semi-aquatic, and rarely make their homes far from water, however. 
 ## Lizardfolk Traits

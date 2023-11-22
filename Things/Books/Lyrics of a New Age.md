@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.20
-tags: [item/book, item/mundane, status/uptodate]
-campaignInfo: 
-- {type: found, date: 1748-04-15, campaign: DuFr }
-- {type: sold, date: 1748-08-09, campaign: DuFr }
+tags: [item/book, item/mundane, status/uptodate, status/unknown]
+campaignInfo:
+- {type: found, date: 1748-04-15, campaign: DuFr}
+- {type: sold, date: 1748-08-09, campaign: DuFr}
 typeOf: book
 whereabouts:
-- {type: home, end: 1748-04-15, location: Stormcaller Tower }
-- {type: home, start: 1748-04-16, end: 1748-08-08, location: Dunmar Fellowship }
-- {type: home, start: 1748-08-09, location: Albus }
+- {type: home, end: 1748-04-15, location: Stormcaller Tower}
+- {type: home, start: 1748-04-16, end: 1748-08-08, location: Dunmar Fellowship}
+- {type: home, start: 1748-08-09, location: Albus}
 ---
 # The Lyrics of a New Age
 >[!info]+ Information

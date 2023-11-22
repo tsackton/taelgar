@@ -1,4 +1,6 @@
-# Creating an Elf
+---
+tags: [status/unknown]
+---
 
 Elves were the first of the Elder Folk to walk the earth, imbued with magic and power in the younger days of the world. They do not die of old age, although many tire of the world, and it is rumored that some of the first elves, created by the Gods, still walk the earth. The elves of Taelgar have also faced tragedy and loss, suffering and dying in cataclysmic wars that have shaken the world. Now, they are few in number and rarely seen, and some have turned inward, disavowing their ancient roles as protectors of Taelgar. Few elves live amongst the other species. 
 

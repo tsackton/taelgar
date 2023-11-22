@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/minor]
+tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-30, type: met}
@@ -8,7 +8,7 @@ born: 1671
 species: halfling
 ancestry:
 gender: male
-affiliations: [ Quicksteps ]
+affiliations: [Quicksteps]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
 ---

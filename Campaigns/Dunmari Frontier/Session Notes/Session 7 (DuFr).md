@@ -1,4 +1,6 @@
-#### Session 7
+---
+tags: [status/unknown]
+---
 
 **(Sunday, August 16th, 2020; in Taelgar, dawn April 7th to mid-morning April 12th)
 

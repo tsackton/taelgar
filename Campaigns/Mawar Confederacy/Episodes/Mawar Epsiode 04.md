@@ -1,5 +1,5 @@
 ---
-tags: [session-note]
+tags: [session-note, status/unknown]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Mawar Epsiode 04

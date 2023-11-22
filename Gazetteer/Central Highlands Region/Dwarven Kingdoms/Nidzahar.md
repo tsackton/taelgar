@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/draft]
+tags: [place, status/draft, status/unknown]
 campaignInfo: []
 name: Nidzahar
 typeOf: realm

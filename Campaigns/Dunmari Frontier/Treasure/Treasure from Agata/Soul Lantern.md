@@ -1,4 +1,6 @@
-### Soul Lantern
+---
+tags: [status/unknown]
+---
 
 This hooded lantern seems to constantly murmur and moan in a strange language just faint enough to not be clearly heard, and radiates necromancy magic. 
 

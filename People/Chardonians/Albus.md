@@ -1,17 +1,17 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: [{campaign: dufr, date: 1748-08-05, type: met}]
+campaignInfo:
+- {campaign: dufr, date: 1748-08-05, type: met}
 name: Albus
 born: 1694
 species: human
 ancestry: Chardonian
 gender: male
 whereabouts:
-- {type: home, start: '', end: 1729, location: 'Chardon'}
-- {type: home, start: 1730, end: '', location: 'Darba'}
-# check - move date is approx
+- {type: home, start: '', end: 1729, location: Chardon}
+- {type: home, start: 1730, end: '', location: Darba}
 ---
 # Albus
 >[!info]+ Biographical Info

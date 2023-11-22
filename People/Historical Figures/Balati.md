@@ -1,5 +1,5 @@
 ---
-tags: [historical, dufr/minor, person, dufr/aware, status/uptodate]
+tags: [historical, dufr/minor, person, dufr/aware, status/uptodate, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Balati

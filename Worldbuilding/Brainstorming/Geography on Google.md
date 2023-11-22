@@ -1,4 +1,6 @@
-(if stuff has a note/has been incorporated, should delete from here)
+---
+tags: [status/unknown]
+---
 
 
 # The World of Taelgar

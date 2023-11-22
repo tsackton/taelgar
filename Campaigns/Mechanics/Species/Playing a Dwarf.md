@@ -1,4 +1,6 @@
-# Creating A Dwarf
+---
+tags: [status/unknown]
+---
 [[Dwarves]] in Taelgar are one of the [[Elder Folk]], divinely created by the [[Bahrazel]], the dwarven gods and Firstborn of their race. Bold, brave, and tradition-bound, as skilled in artistry as in battle, deeply committed to clan and home, [[dwarves]] are among the most common of the [[Elder Folk]] in Taelgar. Squat and often bearded, the first [[dwarves]] built majestic underground cities of light and splendor. While many [[dwarves]] still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common [[Elder Folk]] seen in the cities of [[humans]] in Taelgar.
 
 Dwarves, no matter where they live, have a mystical connection to the Bahrazel, that deepens when they reach adulthood and complete the rite of name-taking, becoming part of a thuhr. There are seven thuhr, each associated with one of the Bahrazel: Ruler, Runecrafter, Priest, Farmer, Stoneworker, Traveler, and Warrior. The thuhr function as a combination of guild, mentorship organization, found family, and secret society, creating ties between clans.

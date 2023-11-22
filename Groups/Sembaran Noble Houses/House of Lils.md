@@ -1,5 +1,5 @@
 ---
-tags: [organization]
+tags: [organization, status/unknown]
 typeOf: family
 created: 1594
 ---

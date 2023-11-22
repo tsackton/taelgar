@@ -1,4 +1,6 @@
-A collection of old notes from OneNote about Addermarch and the town of Adderfell.
+---
+tags: [status/unknown]
+---
 
 # Addermarch
 

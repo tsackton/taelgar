@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/stub]
+tags: [place, status/stub, status/unknown]
 name: Enst
 typeOf: river
 partOf: Sembara

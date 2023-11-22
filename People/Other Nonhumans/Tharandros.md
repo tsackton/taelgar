@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/major]
+tags: [person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Tharandros
@@ -8,8 +8,8 @@ species: centaur
 ancestry:
 gender: male
 whereabouts:
-- {type: away, start: 1748-06-03, end: '', location: 'Karawa'}
-- {type: away, start: 1748-07-18, end: '', location: 'Myraeni Gap'}
+- {type: away, start: 1748-06-03, end: '', location: Karawa}
+- {type: away, start: 1748-07-18, end: '', location: Myraeni Gap}
 pronunciation: tha-RAN-dros
 ---
 # Tharandros

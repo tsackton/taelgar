@@ -1,5 +1,5 @@
 ---
-tags: [holiday, status/notes]
+tags: [holiday, status/notes, status/unknown]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Festival of Rebirth

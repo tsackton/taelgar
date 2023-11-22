@@ -1,12 +1,12 @@
 ---
-tags: [ pc, person, pc/guest ]
-campaignInfo: 
+tags: [pc, person, pc/guest, status/unknown]
+campaignInfo:
 name: Aristaea
-born: 
+born:
 species: stoneborn
-ancestry: 
+ancestry:
 gender: female
-affiliations: 
+affiliations:
 player: Kate Sackton
 ---
 ### Aristaea Mountainhands

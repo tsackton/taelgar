@@ -1,7 +1,5 @@
 ---
-tags:
-  - place
-  - status/stub
+tags: [place, status/stub, status/unknown]
 name: Teft
 typeOf: river
 partOf: Sembara

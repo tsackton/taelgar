@@ -1,9 +1,8 @@
 ---
-tags:
-  - place
-campaignInfo: 
+tags: [place, status/unknown]
+campaignInfo:
 name: Mawar Confederacy
-typeOf: realm 
+typeOf: realm
 partOf: Mawakel Peninsula
 ---
 # The Mawar Confederacy

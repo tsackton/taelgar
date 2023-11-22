@@ -1,4 +1,6 @@
-#### Session 45
+---
+tags: [status/unknown]
+---
 
 **(Thursday, May 5th, 2022; in Taelgar, July 23rd - Aug 8th)
 

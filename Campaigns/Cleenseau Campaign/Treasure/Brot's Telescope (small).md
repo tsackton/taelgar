@@ -1,5 +1,5 @@
 ---
-tags: [item/mundane, item/equipment]
+tags: [item/mundane, item/equipment, status/unknown]
 name: Brot's Telescope (small)
 created: 1719-10-01
 rarity: unique

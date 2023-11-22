@@ -12,5 +12,3 @@ The following status tags have a shared meaning:
 - **status/rethink**: note is relatively complete but there are details that might need to be rethought; best to include a comment here
 - **status/stub** for "I just created this page because I was filling in back links or empty spots on the map but I don't know anything about it and its up for grabs"
 - **status/unknown** for the status of the note is unclear
-
-Generally speaking notes in Worldbuilding should never have a status tag. 

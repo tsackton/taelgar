@@ -1,4 +1,6 @@
-### Session 50
+---
+tags: [status/unknown]
+---
 
 #### Part 1 
 **(Thursday, July 21st, 2022; in Taelgar, Aug 24th - Aug 29th)**

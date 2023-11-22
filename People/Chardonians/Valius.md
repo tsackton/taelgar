@@ -1,27 +1,18 @@
 ---
-tags:
-  - person
-  - dufr/met
-  - dufr/major
-  - status/notes
+tags: [person, dufr/met, dufr/major, status/notes, status/unknown]
 campaignInfo:
-  - campaign: DuFr
-    date: 1748-12-09
-    type: captured
+- {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Valius
 born: 1722
 species: human
 ancestry: Chardonian
 gender: male
-affiliations:
-  - Chardonian Legion
-  - Society of the Open Scroll
+affiliations: [Chardonian Legion, Society of the Open Scroll]
 whereabouts:
- - {type: home, location: Chardon}
- - {type: away, start: 1748-08-01, end: 1748-12-09, location: Xurkhaz }
- - {type: away, start: 1748-12-08, end: 1748-12-09, location: Uzgukhar }
- - {type: away, start: 1748-12-10, end: 9999, location: Mirror of Soul Trapping }
-# Xurkhaz entry date is approx
+- {type: home, location: Chardon}
+- {type: away, start: 1748-08-01, end: 1748-12-09, location: Xurkhaz}
+- {type: away, start: 1748-12-08, end: 1748-12-09, location: Uzgukhar}
+- {type: away, start: 1748-12-10, end: 9999, location: Mirror of Soul Trapping}
 ---
 # Valius
 >[!info]+ Biographical Info

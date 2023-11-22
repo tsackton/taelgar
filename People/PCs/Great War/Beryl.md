@@ -1,5 +1,5 @@
 ---
-tags: [pc/greatwar, person]
+tags: [pc/greatwar, person, status/unknown]
 campaignInfo: []
 name: Beryl
 born: 1502
@@ -8,7 +8,7 @@ ancestry: Isinguer
 gender: male
 player: Mike Sackton
 died: 1545
-affiliations: [ The Rangers ]
+affiliations: [The Rangers]
 ---
 # Beryl
 >[!info]+ Biographical Info

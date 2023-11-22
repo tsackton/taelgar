@@ -1,5 +1,5 @@
 ---
-tags: [status/uptodate, dufr/met_one, person, dufr/minor]
+tags: [status/uptodate, dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-01, type: met}
@@ -9,7 +9,7 @@ species: fey
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: "", end: '', location: 'Amberglow, Feywild'}
+- {type: home, start: '', end: '', location: 'Amberglow, Feywild'}
 ---
 # Lady Eventide
 >[!info]+ Biographical Info

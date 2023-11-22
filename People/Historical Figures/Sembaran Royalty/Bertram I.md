@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Bertram I
@@ -11,13 +11,13 @@ gender: male
 reignStart: 1549
 died: 1552
 title: King
-leaderOf: 
-- {place: Sembara, title: High King }
-- {place: Ardlas, title: High King }
-- {place: Lavnoch, title: High King }
-- {place: Breva, title: High King }
-- {place: Vostok, title: High King, end: 1551 }
-- {place: Zovcka, title: High King }
+leaderOf:
+- {place: Sembara, title: High King}
+- {place: Ardlas, title: High King}
+- {place: Lavnoch, title: High King}
+- {place: Breva, title: High King}
+- {place: Vostok, title: High King, end: 1551}
+- {place: Zovcka, title: High King}
 affiliations: [House of Sewick]
 ---
 # King Bertram I

@@ -1,5 +1,5 @@
 ---
-tags: [clee/minor, person, dufr/unaware, clee/aware]
+tags: [clee/minor, person, dufr/unaware, clee/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Sabine de Brune

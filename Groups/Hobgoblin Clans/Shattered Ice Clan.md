@@ -1,9 +1,7 @@
 ---
-tags:
-  - organization
-  - status/notes
+tags: [organization, status/notes, status/unknown]
 typeOf: clan
-campaignInfo: 
+campaignInfo:
 name:
 ---
 

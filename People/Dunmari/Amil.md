@@ -1,5 +1,5 @@
 ---
-tags: [event-source, person, dufr/met, dufr/minor]
+tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Amil

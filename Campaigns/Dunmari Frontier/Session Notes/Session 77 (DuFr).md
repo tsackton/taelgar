@@ -1,5 +1,5 @@
 ---
-tags: [session-note]
+tags: [session-note, status/unknown]
 ---
 
 

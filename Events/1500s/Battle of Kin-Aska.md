@@ -1,5 +1,5 @@
 ---
-tags: [event]
+tags: [event, status/unknown]
 ---
 
 ### Battle of Kin-Aska

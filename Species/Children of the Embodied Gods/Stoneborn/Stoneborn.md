@@ -1,5 +1,5 @@
 ---
-tags: [species]
+tags: [species, status/unknown]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 ---

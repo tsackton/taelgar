@@ -1,5 +1,5 @@
 ---
-tags: [dufr/minor, person, dufr/aware]
+tags: [dufr/minor, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Hada

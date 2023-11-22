@@ -1,5 +1,5 @@
 ---
-tags: [item]
+tags: [item, status/unknown]
 typeOf: wand
 ddbLink: https://www.dndbeyond.com/magic-items/5346836-wand-of-detect-magic
 ---

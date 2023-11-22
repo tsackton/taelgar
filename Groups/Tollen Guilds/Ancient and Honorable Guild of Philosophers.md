@@ -1,15 +1,9 @@
 ---
-tags:
-  - organization
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: disbanded
-  endStatus: disbanded
-campaignInfo: 
+tags: [organization, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+campaignInfo:
 name: Ancient and Honorable Guild of Philosophers
-aliases:
-  - Philosopher's Guild
+aliases: [Philosopher's Guild]
 typeOf: guild
 ---
 

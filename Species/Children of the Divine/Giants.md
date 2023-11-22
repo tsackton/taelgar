@@ -1,6 +1,6 @@
 ---
 aliases: [giant]
-tags: [species]
+tags: [species, status/unknown]
 ---
 
 # Giants

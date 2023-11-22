@@ -1,12 +1,12 @@
 ---
-tags: [item/armor, item/magical, status/draft]
+tags: [item/armor, item/magical, status/draft, status/unknown]
 typeOf: armor
 rarity: uncommon
-displayDefaults: { whereaboutsHome: "Owner: <loc:1>" , definitiveArticle: ""}
-whereabouts: 
-- {type: home, location: unknown Deno'qai smith }
-- {type: home, start: 1543, end:1545, location: Balati}
-- {type: home, start: 1748-10-04, end:9999, location: Delwath}
+displayDefaults: {whereaboutsHome: 'Owner: <loc:1>', definitiveArticle: ''}
+whereabouts:
+- {type: home, location: unknown Deno'qai smith}
+- {type: home, start: 1543, 'end:1545': !!null '', location: Balati}
+- {type: home, start: 1748-10-04, 'end:9999': !!null '', location: Delwath}
 ---
 # Deno'qai Scale Mail
 >[!info]+ Information

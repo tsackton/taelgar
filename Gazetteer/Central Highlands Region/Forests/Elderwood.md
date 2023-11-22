@@ -1,10 +1,7 @@
 ---
-tags:
-  - place
-  - status/needswork
-displayDefaults:
-  definitiveArticle: the
-campaignInfo: 
+tags: [place, status/needswork, status/unknown]
+displayDefaults: {definitiveArticle: the}
+campaignInfo:
 name: Elderwood
 typeOf: forest
 partOf: Ainumarya

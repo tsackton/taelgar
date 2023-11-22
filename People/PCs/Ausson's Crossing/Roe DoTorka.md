@@ -1,11 +1,8 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - person
-  - pc/unsorted
-  - status/notes
+tags: [person, pc/unsorted, status/notes, status/unknown]
 name: Roe DoTorka
-born: 
+born:
 species: dwarf
 ancestry: Ardikhun
 gender: male

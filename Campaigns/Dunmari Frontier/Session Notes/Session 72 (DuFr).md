@@ -1,4 +1,6 @@
-# Session 72
+---
+tags: [status/unknown]
+---
 *in which Kadmos is defeated*
 
 **In the real world:** Thursday, June 1st, 2023

@@ -1,5 +1,5 @@
 ---
-tags: [event]
+tags: [event, status/unknown]
 name:
 DR: 1719-10-20
 ---

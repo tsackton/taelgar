@@ -1,4 +1,6 @@
-## Session Notes Index
+---
+tags: [status/unknown]
+---
 
 - [[Session 1 (DuFr)]]
 - [[Session 2 (DuFr)]]

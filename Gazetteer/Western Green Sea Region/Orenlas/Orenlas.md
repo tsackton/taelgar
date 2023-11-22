@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.20
-displayDefaults: {partOf: "A <ancestry> <subtypeof> <typeof> in <loc>"}
-tags: [place, status/uptodate]
-campaignInfo: 
+displayDefaults: {partOf: A <ancestry> <subtypeof> <typeof> in <loc>}
+tags: [place, status/uptodate, status/unknown]
+campaignInfo:
 name: Orenlas
 typeOf: realm
 ancestry: elven

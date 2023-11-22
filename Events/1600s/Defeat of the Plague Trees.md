@@ -1,5 +1,5 @@
 ---
-tags: [event]
+tags: [event, status/unknown]
 ---
 
 # The Defeat of the Plague Trees

@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
@@ -9,8 +9,8 @@ species: human
 ancestry:
 gender: male
 whereabouts:
-- {type: home, location: 'Evis'}
-- {type: home, start: 1719-12-06, location: 'Cleenseau'}
+- {type: home, location: Evis}
+- {type: home, start: 1719-12-06, location: Cleenseau}
 ---
 # Balthazar
 >[!info]+ Biographical Info

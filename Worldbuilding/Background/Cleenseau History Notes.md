@@ -1,4 +1,6 @@
-This is a background document I am planning to use to produce more game-relevant and PC-focused material around the history of Cleenseau.
+---
+tags: [status/unknown]
+---
 
 ### Before Drankor
 The town of [[Cleenseau]] is chiefly famous for an enormous stone bridge crossing the [[Enst]]. This bridge is wide enough for 4 carts and runs straight and smooth and high over the river, and even in the worst storms and floods it has never been damaged.

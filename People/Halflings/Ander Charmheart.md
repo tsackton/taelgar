@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/minor]
+tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Ander Charmheart
@@ -8,11 +8,11 @@ species: halfling
 ancestry:
 gender: male
 affiliations: [Charmhearts]
-whereabouts: 
-- { type: home, end: 1711, location: Sembara }
-- { type: away, start: 1748-04, location: Karawa }
-- { type: away, start: 1748-06, location: Tokra }
-- { type: away, start: 1748-08, location: Darba } #check dates
+whereabouts:
+- {type: home, end: 1711, location: Sembara}
+- {type: away, start: 1748-04, location: Karawa}
+- {type: away, start: 1748-06, location: Tokra}
+- {type: away, start: 1748-08, location: Darba}
 ---
 # Ander Charmheart
 >[!info]+ Biographical Summary

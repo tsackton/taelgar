@@ -1,17 +1,11 @@
 ---
-tags:
-  - mc/major
-  - person
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [mc/major, person, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Azar
-born: 
+born:
 species: human
-ancestry: 
+ancestry:
 gender: male
 ---
 # Azar

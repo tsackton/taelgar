@@ -1,9 +1,7 @@
 ---
-tags:
-  - item
-  - status/refactor
-campaignInfo: 
-name: 
+tags: [item, status/refactor, status/unknown]
+campaignInfo:
+name:
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm
 typeOf: horn
 rarity: common

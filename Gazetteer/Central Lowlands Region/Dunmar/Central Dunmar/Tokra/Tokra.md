@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, event-source]
-campaignInfo: 
+tags: [place, event-source, status/unknown]
+campaignInfo:
 name: Tokra
-typeOf: city 
+typeOf: city
 partOf: Central Dunmar
 ---
 # Tokra

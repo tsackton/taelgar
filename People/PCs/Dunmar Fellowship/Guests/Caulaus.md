@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.20
-tags:  [ person, pc/guest]
+tags: [person, pc/guest, status/unknown]
 name: Caulaus
-born: 
+born:
 species: human
 ancestry: Drankorian
 gender: male

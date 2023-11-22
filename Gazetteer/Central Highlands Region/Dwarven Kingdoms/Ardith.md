@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/notes]
-displayDefaults: { endStatus: overrun in }
+tags: [place, status/notes, status/unknown]
+displayDefaults: {endStatus: overrun in}
 campaignInfo: []
 name: Ardith
 typeOf: realm

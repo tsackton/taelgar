@@ -1,7 +1,5 @@
 ---
-tags:
-  - status/needswork
-  - meta
+tags: [status/needswork, meta, status/unknown]
 ---
 # Goblinoids
 

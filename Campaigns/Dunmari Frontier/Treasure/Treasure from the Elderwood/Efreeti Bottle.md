@@ -1,4 +1,6 @@
-# Efreeti Bottle
+---
+tags: [status/unknown]
+---
 
 [Mechanics](https://www.dndbeyond.com/magic-items/4629-efreeti-bottle)
 

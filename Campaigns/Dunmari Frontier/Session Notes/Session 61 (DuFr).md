@@ -1,4 +1,6 @@
-## Session 61
+---
+tags: [status/unknown]
+---
 
 **(Sunday, Dec 4th, 2022; in the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]], evening; in Taelgar, Nov 15th)**
 

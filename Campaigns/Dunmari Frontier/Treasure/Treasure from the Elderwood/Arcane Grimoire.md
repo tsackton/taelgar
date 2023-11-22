@@ -1,4 +1,6 @@
-[Mechanics](https://www.dndbeyond.com/magic-items/2400685-astromancy-archive)  
+---
+tags: [status/unknown]
+---
 
 (rare major item, requires attunement by a wizard)
 

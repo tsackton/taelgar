@@ -1,4 +1,6 @@
-**Visions of the Giant God Tree in [[Eudomes' Mirror]]**
+---
+tags: [status/unknown]
+---
 
 You hold the mirror up to reflect the God tree, and see a reflection of a thriving elvish nursery, branches twisting in a spiral up the tree with platforms woven from giant leaves, holding elven children in various states of trance. The branches sway occasionally, and time speeds up. You see generations pass – hundreds of years – until suddenly the tree bursts into flame.
 

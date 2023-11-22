@@ -1,4 +1,6 @@
-#### Session 40
+---
+tags: [status/unknown]
+---
 
 **(Thursday, Feb 17th, 2022; in Taelgar, July 3rd - July 6th )
 

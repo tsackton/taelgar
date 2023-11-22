@@ -1,4 +1,6 @@
-# Session 73
+---
+tags: [status/unknown]
+---
 *in which enemies are interrogated and plans are made
 
 **In the real world:** Thursday, July 13th, 2023

@@ -1,28 +1,16 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - status/refactor
-  - person
-  - dufr/met
-  - dufr/major
-  - person/ruler
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
+tags: [status/refactor, person, dufr/met, dufr/major, person/ruler, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-  - campaign: DuFr
-    date: 1748-12-10
-    type: met
+- {campaign: DuFr, date: 1748-12-10, type: met}
 name: Lubash
 born: 1691
 species: orc
-ancestry: 
+ancestry:
 gender: male
 title: Chief
-affiliations:
-  - People of the Rainbow
+affiliations: [People of the Rainbow]
 whereabouts: Uzgukhar
 ---
 # Chief Lubash

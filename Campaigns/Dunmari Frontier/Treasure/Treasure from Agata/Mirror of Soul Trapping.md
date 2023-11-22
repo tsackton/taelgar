@@ -1,17 +1,13 @@
 ---
 typeOf: mirror
-tags:
-  - item
-  - item/magical
-whereabouts: 
-- { type: home, location: unknown hobgoblin wizard }
-- { type: home, location: dufr }
-- { type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
-- {type: away, location: Vindristjarna }
-displayDefaults:
-  whereaboutsCurrent: "Stored on: <loc>"
-rarity: 
-
+tags: [item, item/magical, status/unknown]
+whereabouts:
+- {type: home, location: unknown hobgoblin wizard}
+- {type: home, location: dufr}
+- {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
+- {type: away, location: Vindristjarna}
+displayDefaults: {whereaboutsCurrent: 'Stored on: <loc>'}
+rarity:
 ---
 # The Mirror of Soul Trapping
 >[!info]+ Information

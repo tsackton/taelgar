@@ -1,5 +1,5 @@
 ---
-tags: [species, status/draft]
+tags: [species, status/draft, status/unknown]
 name: Lizardfolk
 aliases: [lizardfolk]
 ---

@@ -1,4 +1,6 @@
-Starting a brainstorming doc to codify some notes on magic in Taelgar. 
+---
+tags: [status/unknown]
+---
 ## A Few Basic Truths
 
 Starting with a few basic observations about the world that should be maintained. 

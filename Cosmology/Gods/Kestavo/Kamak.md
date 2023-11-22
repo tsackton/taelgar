@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/kestavo]
+tags: [deity, religion/kestavo, status/unknown]
 ---
 # Kamak
 *he/him*

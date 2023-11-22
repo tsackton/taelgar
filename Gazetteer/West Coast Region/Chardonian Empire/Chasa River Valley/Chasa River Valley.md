@@ -1,7 +1,5 @@
 ---
-tags:
-  - place
-  - status/notes
+tags: [place, status/notes, status/unknown]
 partOf: Chardonian Empire
 typeOf: region
 name: Chasa River Valley

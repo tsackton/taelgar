@@ -1,5 +1,5 @@
 ---
-tags: [event-source, person, dufr/met, dufr/major]
+tags: [event-source, person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Casian

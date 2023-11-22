@@ -1,4 +1,6 @@
-### Undated Letter from the Tokra Archives
+---
+tags: [status/unknown]
+---
 (originally found by [[Servius]]; copy given to party in [[Session 38 (DuFr)]])
 
 To Captain Avani, commander of the [[Tokra]] guard, dedicat of [[Aagir]], and noble warrior, greetings and the bond of friendship.
