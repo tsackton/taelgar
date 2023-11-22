@@ -1,16 +1,32 @@
 ---
-tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.20
+tags: [person, dufr/met, dufr/minor]
+campaignInfo: 
+- {campaign: dufr, date: 1748-03-29, type: met }
+- {campaign: dufr, date: 1748-07-09, type: last seen}
 name: Bree Charmheart
-born:
+born: 
 species: halfling
 ancestry:
 gender: female
+affiliations: [Charmhearts]
+whereabouts:
+- { type: away, start: 1748-03-19, end: 1748-03-19, location: Raven's Hold }
+- { type: away, start: 1748-03-28, end: 1748-04-07, location: Karawa }
+- { type: away, start: 1748-04-07, end: 1748-04-13, location: traveling to Tokra }
+- { type: away, start: 1748-04-13, end: 1748-07-18, location: Tokra }
+- { type: away, start: 1748-07-18, end: 1748-08-13, location: Tokra-Darba Road }
+- { type: away, start: 1748-08-13, location: Darba }
 ---
 # Bree Charmheart
->[!info]+ Biographical Summary
->halfling, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[!info]+ Biographical Info
+> [[Halflings|halfling]], she/her of [[Charmhearts]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
 
-The matriach of the Charmheart trading clan of halflings.
+The matriarch of the [[Charmhearts|Charmheart]] trading clan of [[halflings]].
+
+%% notes
+old, approx 100 in 1748
+%%

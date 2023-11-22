@@ -3,6 +3,7 @@ tags: [organization/family, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo: []
 name: Charmhearts
+aliases: [Charmheart]
 typeOf: family
 ---
 # The Charmhearts
