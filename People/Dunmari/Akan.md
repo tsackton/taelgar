@@ -6,8 +6,7 @@ born: 1693
 species: human
 ancestry: Dunmari
 gender: male
-whereabouts:
-- {type: home, start: 1693-01-02, end: '', location: 'area north and east of Karawa, Eastern Dunmar'}
+whereabouts: area north and east of Karawa 
 ---
 # Akan
 >[!info]+ Biographical Info
