@@ -1,4 +1,6 @@
-Doc to copy over my notes on sentient races introduced in game but that have no real lore
+---
+tags: [status/unknown]
+---
 
 # Deva
 Exist, not sure about lore yet.

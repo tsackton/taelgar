@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.20
-tags: [ place, status/needswork ]
+tags: [place, status/needswork, status/unknown]
 name: Ausson's Crossing
-displayDefaults: { definitiveArticle: "" }
+displayDefaults: {definitiveArticle: ''}
 typeOf: inn
 created: 1652
 partOf: Laicon

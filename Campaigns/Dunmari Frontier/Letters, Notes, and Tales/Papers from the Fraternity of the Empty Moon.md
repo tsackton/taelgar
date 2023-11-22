@@ -1,4 +1,6 @@
-# Notes from the Empty Moon leader
+---
+tags: [status/unknown]
+---
 
 (written in a strange language, a variant of Abyssal)
 

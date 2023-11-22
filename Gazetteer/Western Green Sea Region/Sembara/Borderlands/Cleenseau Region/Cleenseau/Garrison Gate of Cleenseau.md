@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 campaignInfo: []
 name: Garrison Gate of Cleenseau
 typeOf: gate

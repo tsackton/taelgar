@@ -1,5 +1,5 @@
 ---
-tags: [species]
+tags: [species, status/unknown]
 aliases: [elemental, elementals, Elemental]
 ---
 

@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: {definitiveArticle: "", partOf: "A <subtypeof> in <loc>" }
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: '', partOf: A <subtypeof> in <loc>}
 campaignInfo: []
 name: Darshana’s Caravanserai
 typeOf: inn

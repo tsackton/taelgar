@@ -1,5 +1,5 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware]
+tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Mermin Stonebridge
@@ -9,7 +9,7 @@ ancestry:
 gender: male
 family: Stonebridge
 whereabouts:
-- {type: home, start: , end: '', location: Cleanseau}
+- {type: home, start: !!null '', end: '', location: Cleanseau}
 ---
 # Mermin Stonebridge
 >[!info]+ Biographical Summary

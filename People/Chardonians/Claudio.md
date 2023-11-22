@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, person]
+tags: [dufr/background, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Claudio
@@ -10,7 +10,7 @@ ancestry: Chardonian
 gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Luminatia}
-- {type: away, start: 1748-03-11, end: '', location: ""}
+- {type: away, start: 1748-03-11, end: '', location: ''}
 ---
 # Claudio
 >[!info]+ Biographical Info

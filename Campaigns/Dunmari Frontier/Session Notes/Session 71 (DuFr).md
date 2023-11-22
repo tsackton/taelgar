@@ -1,4 +1,6 @@
-# Session 71
+---
+tags: [status/unknown]
+---
 *in which the party plans for [[Kadmos]]' attack
 
 **In the real world:** Sunday, May 21, 2023

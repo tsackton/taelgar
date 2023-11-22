@@ -1,4 +1,6 @@
-I am kind of imagining Isingine(?)/Isinguese(?)/Isingian (not sure the proper demonym here) "refugee" communities in places like Tollen would have a bit of a feel like Irish-American communities in somewhere like Boston in modern times. There was a burst of immigration 150ish years ago, and some people still feel a connection to that heritage, but lots of people with Isingian ancestry in current day Tollen don't really care or have intermarried enough for it to be kind of irrelevant. And it wouldn't feel like an enclave in the sense they wouldn't speak a different language or have a different religion (as say the Skaer or nonhumans would). Still, perhaps there would still be something of an Isingian diaspora community that might celebrate some distinct feast days or something like that.
+---
+tags: [status/unknown]
+---
 
 =====
 

@@ -1,44 +1,20 @@
 ---
-tags:
-  - status/uptodate
-  - person
-  - dufr/met
-  - dufr/minor
-  - event-source
-  - testcase
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
+tags: [status/uptodate, person, dufr/met, dufr/minor, event-source, testcase, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-  - campaign: dufr
-    date: 1748-09-30
-    type: met
+- {campaign: dufr, date: 1748-09-30, type: met}
 name: Belegor
 born: 1468
 ka: 36
 species: elf
-ancestry: 
+ancestry:
 pronunciation: beh-leh-GOR
 gender: male
 whereabouts:
-  - type: home
-    start: ""
-    end: 1712
-    location: Ainumarya
-  - type: away
-    start: 1733-01-01
-    end: ""
-    location: Elderwood
-  - type: away
-    start: 1748-08-01
-    end: ""
-    location: Te'kula village, Elderwood
-  - type: away
-    start: 1748-09-30
-    end: ""
-    location: Te'kula village, Elderwood
+- {type: home, start: '', end: 1712, location: Ainumarya}
+- {type: away, start: 1733-01-01, end: '', location: Elderwood}
+- {type: away, start: 1748-08-01, end: '', location: 'Te''kula village, Elderwood'}
+- {type: away, start: 1748-09-30, end: '', location: 'Te''kula village, Elderwood'}
 timelineDescriptor: Belegor
 ---
 # Belegor

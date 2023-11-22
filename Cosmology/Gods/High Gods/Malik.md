@@ -1,5 +1,5 @@
 ---
-tags: [deity]
+tags: [deity, status/unknown]
 ---
 
 # Malik

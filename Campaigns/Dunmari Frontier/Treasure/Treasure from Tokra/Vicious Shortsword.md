@@ -1,4 +1,6 @@
-### Vicious Shortsword
+---
+tags: [status/unknown]
+---
 
 [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword) 
 

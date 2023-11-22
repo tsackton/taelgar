@@ -1,22 +1,15 @@
 ---
-tags:
-  - dufr/background
-  - person
-  - historical
-  - dufr/aware
-  - status/uptodate
+tags: [dufr/background, person, historical, dufr/aware, status/uptodate, status/unknown]
 displayDefaults:
-  affiliationTypeOf:
-    - thuhr clan
-campaignInfo: 
+  affiliationTypeOf: [thuhr clan]
+campaignInfo:
 name: Daruk
 born: 1323
 species: dwarf
-ancestry: 
+ancestry:
 gender: male
 died: 1533
-affiliations:
-  - Runecrafter Thuhr
+affiliations: [Runecrafter Thuhr]
 ---
 # Daruk
 >[!info]+ Biographical Info

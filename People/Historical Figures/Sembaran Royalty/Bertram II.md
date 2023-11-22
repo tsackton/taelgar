@@ -1,5 +1,5 @@
 ---
-tags: [historical, person/ruler, person, dufr/unaware]
+tags: [historical, person/ruler, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Bertram II
@@ -10,12 +10,12 @@ gender: male
 reignStart: 1555
 died: 1561-01-17
 title: King
-leaderOf: 
-- {place: Sembara, title: High King }
-- {place: Ardlas, title: High King }
-- {place: Lavnoch, title: High King }
-- {place: Breva, title: High King }
-- {place: Zovcka, title: High King }
+leaderOf:
+- {place: Sembara, title: High King}
+- {place: Ardlas, title: High King}
+- {place: Lavnoch, title: High King}
+- {place: Breva, title: High King}
+- {place: Zovcka, title: High King}
 affiliations: [House of Sewick]
 ---
 # King Bertram II

@@ -1,4 +1,6 @@
-### The Founding of [[Dunmar]]
+---
+tags: [status/unknown]
+---
 
 This is the story of the founding of [[Dunmar]], as told by the Dunmari:
 

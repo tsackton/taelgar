@@ -1,8 +1,6 @@
 ---
-tags:
-  - place
-  - status/stub
-campaignInfo: 
+tags: [place, status/stub, status/unknown]
+campaignInfo:
 name: Duchy of Sembara
 typeOf: duchy
 partOf: Sembara

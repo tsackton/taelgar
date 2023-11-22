@@ -1,6 +1,6 @@
 ---
-tags: [organization]
-displayDefaults: {definitiveArticle: ""}
+tags: [organization, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: Grash's Horde
 typeOf: clan

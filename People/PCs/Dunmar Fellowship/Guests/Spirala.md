@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [pc, person, pc/guest]
+tags: [pc, person, pc/guest, status/unknown]
 campaignInfo: []
 name: Spirala
 born:

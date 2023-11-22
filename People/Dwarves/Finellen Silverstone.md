@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Finellen Silverstone
@@ -8,7 +8,7 @@ species: dwarf
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: , end: '', location: 'Darba, Western Dunmar'}
+- {type: home, start: !!null '', end: '', location: 'Darba, Western Dunmar'}
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Info

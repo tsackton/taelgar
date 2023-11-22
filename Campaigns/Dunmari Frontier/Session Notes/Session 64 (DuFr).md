@@ -1,6 +1,5 @@
 ---
-tags:
-- DuFr
+tags: [DuFr, status/unknown]
 ---
 # Session 64, Dunmar Frontier
 *in which the party enters the tower and finds Hralgar*

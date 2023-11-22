@@ -1,7 +1,7 @@
 ---
-tags: [ place,  status/needswork ]
+tags: [place, status/needswork, status/unknown]
 name: Irrla
-typeOf: island 
+typeOf: island
 partOf: Green Sea
 ---
 # Irrla

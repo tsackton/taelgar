@@ -1,4 +1,6 @@
-# Dream Mirror
+---
+tags: [status/unknown]
+---
 
 [Mechanics](https://www.dndbeyond.com/magic-items/3819612-dream-mirror) 
 

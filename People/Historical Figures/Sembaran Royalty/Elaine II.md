@@ -1,5 +1,5 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Elaine II
@@ -9,7 +9,9 @@ ancestry: Sembaran
 gender: female
 died: 1745
 title: Queen
-leaderOf: [{place: Tyrwingha, start: 1713-09-12}, {place: Sembara, start: 1720-06-15}]
+leaderOf:
+- {place: Tyrwingha, start: 1713-09-12}
+- {place: Sembara, start: 1720-06-15}
 affiliations: [House of Lils]
 ---
 # Elaine II

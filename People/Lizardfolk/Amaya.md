@@ -1,5 +1,5 @@
 ---
-tags: [mc/background, person, status/stub]
+tags: [mc/background, person, status/stub, status/unknown]
 campaignInfo: []
 name: Amaya
 born:

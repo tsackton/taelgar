@@ -1,15 +1,11 @@
 ---
-tags:
-  - place/forest
-  - status/notes
+tags: [place/forest, status/notes, status/unknown]
 name: Rostaurë
 pronunciation: ROS-tow-reh
-aliases:
-  - Rostaurë
+aliases: [Rostaurë]
 partOf: Central Lowlands Region
- #approx
 destroyed: 1057
-displayDefaults: { endStatus: "pillaged by Apollyon", partOf: "A <subtypeof> <typeof> in <loc>"}
+displayDefaults: {endStatus: pillaged by Apollyon, partOf: A <subtypeof> <typeof> in <loc>}
 typeOf: realm
 subTypeOf: forest
 ---

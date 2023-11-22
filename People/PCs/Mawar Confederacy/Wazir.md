@@ -1,18 +1,11 @@
 ---
-tags:
-  - pc
-  - person
-  - pc/mawar
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [pc, person, pc/mawar, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Wazir
-born: 
+born:
 species: human
-ancestry: 
+ancestry:
 gender: male
 player: Mike Sackton
 affiliations:

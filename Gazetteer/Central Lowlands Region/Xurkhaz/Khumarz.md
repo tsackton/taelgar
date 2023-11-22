@@ -1,5 +1,5 @@
 ---
-tags: [place, event-source]
+tags: [place, event-source, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Khumarz

@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.20
-tags: [item/book]
+tags: [item/book, status/unknown]
 typeOf: book
 whereabouts: Seeker
-displayDefaults: { definitiveArticle: "" }
+displayDefaults: {definitiveArticle: ''}
 ---
 # The Runes of Creation
 >[!info]+ Information

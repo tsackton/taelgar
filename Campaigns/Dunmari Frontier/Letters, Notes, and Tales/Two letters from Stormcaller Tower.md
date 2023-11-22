@@ -1,4 +1,6 @@
-# Letters from Stormcaller Tower
+---
+tags: [status/unknown]
+---
 
 "Tell [[Eudomes]] that we will arrive in two weeks time. We expect to speak to the captured being, whom you call [[Hralgar]]. The [[Occulta Ludum]] will be overjoyed to hear the binding seems to have worked, but tell [[Eudomes]] to be cautious above all else, keep this secret. Giants are dangerous in all their forms, even to us, and binding a storm giant at the peak of their power is the most dangerous business of all."
 

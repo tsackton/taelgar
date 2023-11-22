@@ -1,14 +1,15 @@
 ---
-tags: [person, dufr/unaware]
+tags: [person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: [ { campaign: clee, type: met, date: 1719-10-28 }]
+campaignInfo:
+- {campaign: clee, type: met, date: 1719-10-28}
 name: Izoko
 born: 1688
 species: lizardfolk
 ancestry:
 gender: male
 whereabouts:
-- {type: home, location: Ganboa }
+- {type: home, location: Ganboa}
 ---
 # Izoko
 >[!info]+ Biographical Summary

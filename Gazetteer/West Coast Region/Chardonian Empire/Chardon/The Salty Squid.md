@@ -1,10 +1,9 @@
 ---
-tags: [place/inn, status/stub]
-displayDefaults: { definitiveArticle: ""}
+tags: [place/inn, status/stub, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: The Salty Squid
 typeOf: inn
-#check district in Chardon
 partOf: Chardon
 ---
 # The Salty Squid

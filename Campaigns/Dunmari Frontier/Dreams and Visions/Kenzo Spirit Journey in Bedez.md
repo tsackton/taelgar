@@ -1,4 +1,6 @@
-## Kenzo’s Spirit Journey
+---
+tags: [status/unknown]
+---
 
 ### Kenzo's Tale to Tell: Please Don't Read Until He Shares In Game
 

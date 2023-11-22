@@ -1,4 +1,6 @@
-#### Session 32
+---
+tags: [status/unknown]
+---
 
 **(Thursday, Oct 7th, 2021; in Taelgar, June 8th to June 20th)
 

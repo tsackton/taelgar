@@ -1,4 +1,6 @@
-### Black Light Candle
+---
+tags: [status/unknown]
+---
 
 [Mechanics](https://www.dndbeyond.com/magic-items/3819589-black-light-candle). 
 

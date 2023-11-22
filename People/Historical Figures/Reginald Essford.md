@@ -1,12 +1,7 @@
 ---
-tags:
-  - person
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [person, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Reginald Essford
 born: 1619
 species: human

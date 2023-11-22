@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.20
-tags: [place]
-displayDefaults: { endStatus: destroyed }
+tags: [place, status/unknown]
+displayDefaults: {endStatus: destroyed}
 campaignInfo: []
 name: Kin-Aska
 typeOf: city
-destroyed: 0001
+destroyed: 1
 partOf: Chasa River Valley
 ---
 # Kin-Aska

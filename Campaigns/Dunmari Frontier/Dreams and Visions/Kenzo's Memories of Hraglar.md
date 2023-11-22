@@ -1,4 +1,6 @@
-# Kenzo’s Memories of Hralgar
+---
+tags: [status/unknown]
+---
 
 ### Kenzo's Tale to Tell: Please Don't Read Until He Shares In Game
 

@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Tye Strongbones
@@ -9,7 +9,7 @@ ancestry:
 gender: male
 family: Strongbones
 whereabouts:
-- {type: home, start: , end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: !!null '', end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Tye Strongbones
 >[!info]+ Biographical Summary

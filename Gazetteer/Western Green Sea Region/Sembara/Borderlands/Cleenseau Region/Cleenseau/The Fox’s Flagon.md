@@ -1,6 +1,6 @@
 ---
-tags: [place, place/building]
-displayDefaults: {definitiveArticle: ""}
+tags: [place, place/building, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: The Fox’s Flagon
 typeOf: inn

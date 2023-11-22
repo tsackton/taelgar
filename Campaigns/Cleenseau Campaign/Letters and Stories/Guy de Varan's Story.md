@@ -1,4 +1,6 @@
-"You see, it all started, what, this summer I guess. The rumors you know, [[orcs]] along [[Bandit's Way]]. Didn't head them much myself, to busy making money. Anyway, you don't care about that. Get to the point Guy. ~deep breath, half sob~. So many people, it is scary. What are those orcs doing to my homeland, I hope someone stops them... Can't go back though, that beast, at least ten feet tall.  ~deep breath~. Anyway, Guy, really, these people want to know what you know, it doesn't help anyone to talk around the issue. I haven't even really started the story have I? Late August, it was, when I had my first scare. The Fetherlan caravan, almost hired onto them and only two of them came back, fleeing into [[Evis]] talking about this beast, this monstrous giant wielding an ax the size of a small tree. I didn't believe it. The folks said this beast was tearing off heads and eating them in battle? Scare stories ~shuddering sob~ Oh how I wish I didn't see it.. Get to the facts. All those people and so close..."
+---
+tags: [status/unknown]
+---
 
 His story continues in this vain for some time, but you are able to decipher it as follows:
 

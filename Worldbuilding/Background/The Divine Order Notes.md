@@ -1,4 +1,6 @@
-%%copied from Google, some of this might go in Cosmology, etc%%
+---
+tags: [status/unknown]
+---
 
 **# The Nature of the Divine
 

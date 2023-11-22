@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, person, dufr/unaware, person/ruler]
+tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
 name: Cece I
 born: 1628
 species: human
@@ -9,7 +9,9 @@ gender: female
 reignStart: 1648-12-11
 title: Queen
 died: 1713-09-12
-leaderOf: [{place: Sembara}, {place: Tyrwingha}]
+leaderOf:
+- {place: Sembara}
+- {place: Tyrwingha}
 affiliations: [House of Sewick]
 ---
 # Queen Cece I

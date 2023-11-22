@@ -1,7 +1,5 @@
 ---
-tags:
-  - item
-  - item/magical
+tags: [item, item/magical, status/unknown]
 typeOf: mirror
 rarity: very rare
 ---

@@ -1,8 +1,6 @@
 ---
-tags:
-  - organization
-  - status/notes
-campaignInfo: 
+tags: [organization, status/notes, status/unknown]
+campaignInfo:
 name: Blackened Claw
 typeOf: clan
 ---

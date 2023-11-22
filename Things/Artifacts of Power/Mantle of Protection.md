@@ -1,25 +1,17 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - status/notes
-  - item/magical
-  - testcase
-displayDefaults:
-  startStatus: fashioned
-  endStatus: destroyed
-campaignInfo: 
+tags: [status/notes, item/magical, testcase, status/unknown]
+displayDefaults: {startStatus: fashioned, endStatus: destroyed}
+campaignInfo:
 maker: Cloudspinner
 created: 700
-# start date approx
 name: Mantle of Protection
-aliases: [ Cloak of Rainbows ]
+aliases: [Cloak of Rainbows]
 typeOf: cloak
 rarity: unique
 whereabouts:
-  - type: home
-    location: Cloudspinner
-  - type: home
-    location: Lubash
+- {type: home, location: Cloudspinner}
+- {type: home, location: Lubash}
 ---
 # The Mantle of Protection
 >[!info]+ Information

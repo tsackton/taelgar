@@ -1,24 +1,12 @@
 ---
-tags:
-  - item
+tags: [item, status/unknown]
 pronunciation: Vind-rist-YAR-na or vin-dree-SHAR-na
 whereabouts:
-  - type: home
-    location: unknown storm giant
-  - type: home
-    location: dufr
-  - type: away
-    start: 1748-12-03
-    end: 1748-12-10
-    location: Uzgukhar
-  - type: away
-    start: 1749-01-15
-    end: 1749-01-16
-    location: Orenlas
-  - type: away
-    start: 1749-01-17
-    end: 1749-01-20
-    location: traveling to Xurkhaz
+- {type: home, location: unknown storm giant}
+- {type: home, location: dufr}
+- {type: away, start: 1748-12-03, end: 1748-12-10, location: Uzgukhar}
+- {type: away, start: 1749-01-15, end: 1749-01-16, location: Orenlas}
+- {type: away, start: 1749-01-17, end: 1749-01-20, location: traveling to Xurkhaz}
 magical: true
 rarity: unique
 typeOf: skyship

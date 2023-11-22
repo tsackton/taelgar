@@ -1,13 +1,7 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/stub, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo:
 name: Aben River
 typeOf: river
 partOf: Tyrwingha

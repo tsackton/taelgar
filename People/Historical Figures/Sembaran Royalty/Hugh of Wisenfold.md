@@ -1,5 +1,5 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Hugh

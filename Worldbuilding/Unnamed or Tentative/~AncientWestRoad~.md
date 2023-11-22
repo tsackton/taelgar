@@ -1,5 +1,5 @@
 ---
-tags: [ place/road,  status/notes ]
+tags: [place/road, status/notes, status/unknown]
 typeOf: road
 ---
 

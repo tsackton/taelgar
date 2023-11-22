@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 name: Copper Hills
 typeOf: line of hills
 partOf: Central Dunmar

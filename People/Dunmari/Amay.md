@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Amay
@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: away, start: 1748-11-15, end: '', location: 'Tokra'}
+- {type: away, start: 1748-11-15, end: '', location: Tokra}
 ---
 # Amay
 >[!info]+ Biographical Info

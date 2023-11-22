@@ -1,4 +1,6 @@
-# Kenzo Solo Adventure
+---
+tags: [status/unknown]
+---
 
 ## Timeline
 **Sept 30**: Arrive in the jungles far to the east; meet [[Elazar]]; travels to lizardfolk village of [[Bedez]]

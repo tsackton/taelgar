@@ -1,18 +1,17 @@
 ---
-tags: [dufr/aware, person, dufr/major]
+tags: [dufr/aware, person, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: 
- - { campaign: DuFr, type: scryed, date: 1748-12-28 }
+campaignInfo:
+- {campaign: DuFr, type: scryed, date: 1748-12-28}
 name: Grash
 born:
 species: undead
 ancestry: skeletal
 gender: male
-# start date of Kharsan is guess, Tim might have a more canonical date
 whereabouts:
-- {type: home, start: '', end: '', location: 'Unknown'}
-- {type: away, start: 1747, end: 1748-11-28, location: Kharsan }
-- {type: away, start: 1748-11-28, end: 1748-12-05, location: Garamjala }
+- {type: home, start: '', end: '', location: Unknown}
+- {type: away, start: 1747, end: 1748-11-28, location: Kharsan}
+- {type: away, start: 1748-11-28, end: 1748-12-05, location: Garamjala}
 - {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
 - {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
 ---

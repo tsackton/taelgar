@@ -1,6 +1,6 @@
 ---
-displayDefaults: { partOf: "<article> <typeof> of <loc:3>", secondaryInfo: ""}
-tags: [organization]
+displayDefaults: {partOf: '<article> <typeof> of <loc:3>', secondaryInfo: ''}
+tags: [organization, status/unknown]
 typeOf: regiment
 partOf: Army of the West
 ---

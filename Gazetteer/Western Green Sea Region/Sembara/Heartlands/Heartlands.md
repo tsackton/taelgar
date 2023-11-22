@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: { definitiveArticle: "the" }
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: the}
 campaignInfo: []
 name: Heartlands
 typeOf: region

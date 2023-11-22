@@ -1,20 +1,13 @@
 ---
-tags:
-  - pc
-  - person
-  - pc/guest
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [pc, person, pc/guest, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Alimash
-born: 
+born:
 species: human
-ancestry: 
+ancestry:
 gender: male
-player: 
+player:
 affiliations:
 ---
 

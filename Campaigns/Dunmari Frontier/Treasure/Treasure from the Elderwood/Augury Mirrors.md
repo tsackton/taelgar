@@ -1,5 +1,5 @@
 ---
-tags: [item]
+tags: [item, status/unknown]
 typeOf: mirror
 ddbLink: https://www.dndbeyond.com/magic-items/5346832-augury-mirrors
 ---

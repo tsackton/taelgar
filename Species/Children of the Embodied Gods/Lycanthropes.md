@@ -1,5 +1,5 @@
 ---
-tags: [species]
+tags: [species, status/unknown]
 ---
 %%notes
 Curse of Lycanthropy cannot be cured by simply a Remove Curse spell. Requires two of the following things:

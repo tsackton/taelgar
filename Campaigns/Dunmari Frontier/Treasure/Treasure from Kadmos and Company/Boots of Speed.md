@@ -1,3 +1,5 @@
-# Boots of Speed
+---
+tags: [status/unknown]
+---
 
 Taken from Hektor

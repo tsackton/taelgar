@@ -1,4 +1,6 @@
-#### Session 34
+---
+tags: [status/unknown]
+---
 
 **(Sunday, Nov 7th, 2021; in Taelgar, June 30th to July 1st)
 

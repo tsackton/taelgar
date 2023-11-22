@@ -1,4 +1,6 @@
-# Saddle of the Bonded Companion
+---
+tags: [status/unknown]
+---
 
 [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion) 
 

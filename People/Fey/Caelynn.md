@@ -1,15 +1,16 @@
 ---
-tags: [status/uptodate, person, dufr/met, dufr/major]
+tags: [status/uptodate, person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: [{campaign: DuFr, type: met, date: 1748-12-17 }]
+campaignInfo:
+- {campaign: DuFr, type: met, date: 1748-12-17}
 name: Caelynn the Seer
 born:
 species: fey
 ancestry:
 gender: female
 whereabouts:
-- {type: home, location: 'Dreamhaven'}
-- {type: home, location: 'Tollen'}
+- {type: home, location: Dreamhaven}
+- {type: home, location: Tollen}
 ---
 # Caelynn the Seer
 >[!info]+ Biographical Info

@@ -1,6 +1,6 @@
 ---
-tags: [ item/magical ]
-campaignInfo: 
+tags: [item/magical, status/unknown]
+campaignInfo:
 name: Circlet of Foreknowledge
 typeOf: circlet
 rarity: mythical

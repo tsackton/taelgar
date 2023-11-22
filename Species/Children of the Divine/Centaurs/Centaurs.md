@@ -1,6 +1,6 @@
 ---
 aliases: [centaur, Centaur]
-tags: [species, status/docreview]
+tags: [species, status/docreview, status/unknown]
 ---
 
 # Centaurs

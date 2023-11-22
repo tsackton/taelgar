@@ -1,22 +1,15 @@
 ---
-tags:
-  - person
-  - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
-name: 
-born: 
+tags: [person, status/notes, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
+name:
+born:
 died: 1
 species: human
 ancestry: Isinguer
 gender: male
 whereabouts:
-  - type: home
-    location: Valarin
+- {type: home, location: Valarin}
 ---
 # Marcel De Valarin
 >[!info]+ Biographical Info

@@ -1,5 +1,5 @@
 ---
-tags: [item/magical]
+tags: [item/magical, status/unknown]
 typeOf: gauntlets
 rarity: unique
 whereabouts: Riswynn

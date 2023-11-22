@@ -1,11 +1,11 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Yuvanti Mountains
 pronunciation: yoo-VAHN-tee
 typeOf: mountains
-partOf: 
+partOf:
 ---
 
 The new mountains that cut through [[Dunmar]], isolated the coastal western [[Dunmar]] from the inland desert. The location of the Dwarven kingdom of [[Nardith]]. 

@@ -1,31 +1,16 @@
 ---
-tags:
-  - person
-  - dufr/met
-  - dufr/major
-  - testcase
+tags: [person, dufr/met, dufr/major, testcase, status/unknown]
 campaignInfo:
-  - campaign: DuFr
-    type: freed
-    date: 1748-11-23
+- {campaign: DuFr, type: freed, date: 1748-11-23}
 name: Hralgar
-born: 
+born:
 species: giant
 subspecies: storm giant
 gender: male
 whereabouts:
-  - type: away
-    start: 1020
-    end: 1748-11-22
-    location: trapped in Stormcaller Tower
-  - type: home
-    start: 1748-11-23
-    end: 1748-11-23
-    location: Stormcaller Tower
-  - type: home
-    start: 1748-11-24
-    end: 
-    location: drifting on the storm, Taelgar
+- {type: away, start: 1020, end: 1748-11-22, location: trapped in Stormcaller Tower}
+- {type: home, start: 1748-11-23, end: 1748-11-23, location: Stormcaller Tower}
+- {type: home, start: 1748-11-24, end: !!null '', location: 'drifting on the storm, Taelgar'}
 ---
 # Hralgar
 >[!info]+ Biographical Info

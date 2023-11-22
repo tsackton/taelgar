@@ -1,4 +1,6 @@
-_This records the observations of Canela, an explorer and adventurer from Chardon, during her journey from Chardon to Embry in 1651 DE. This excerpt describes the section of her journey from descending the high pass north of Tokra until reaching the crossroads town of Cassons._
+---
+tags: [status/unknown]
+---
  
 May 29th,1651
 

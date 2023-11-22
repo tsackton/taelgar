@@ -1,6 +1,5 @@
 ---
-tags:
-  - place
+tags: [place, status/unknown]
 name: Eskorola
 typeOf: village
 partOf: Mawar Confederacy

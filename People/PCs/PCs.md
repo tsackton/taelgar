@@ -1,5 +1,5 @@
 ---
-tags: [meta]
+tags: [meta, status/unknown]
 ---
 # Players of Taelgar
 

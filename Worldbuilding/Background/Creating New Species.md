@@ -1,4 +1,6 @@
-%%adapted from old Google doc%%
+---
+tags: [status/unknown]
+---
 
 # Typology for Introducing D&D Creatures
  

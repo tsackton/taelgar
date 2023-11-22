@@ -1,4 +1,6 @@
-**Visions of Urgall's ciphered note in Eudomes mirror**
+---
+tags: [status/unknown]
+---
 
 You hold the thin piece of parchment up to the mirror, and watch as the scene fades. 
 

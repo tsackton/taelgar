@@ -1,36 +1,18 @@
 ---
-tags:
-  - dufr/background
-  - status/uptodate
-  - person
-  - dufr/met
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
+tags: [dufr/background, status/uptodate, person, dufr/met, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-  - campaign: DuFr
-    date: 1748-12-30
-    type: met
+- {campaign: DuFr, date: 1748-12-30, type: met}
 name: Harriet Goodbarrel
 born: 1685
 species: halfling
-ancestry: 
+ancestry:
 gender: female
-aliases:
-  - Harriet
+aliases: [Harriet]
 whereabouts:
-  - type: home
-    start: ""
-    end: 1722-03-09
-    location: Western Gulf
-  - type: home
-    start: 1722-03-10
-    end: ""
-    location: Tollen
-affiliations:
-  - Goodbarrels
+- {type: home, start: '', end: 1722-03-09, location: Western Gulf}
+- {type: home, start: 1722-03-10, end: '', location: Tollen}
+affiliations: [Goodbarrels]
 ---
 # Harriet Goodbarrel
 >[!info]+ Biographical Summary

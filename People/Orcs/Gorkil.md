@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, status/uptodate, person, dufr/met]
+tags: [dufr/background, status/uptodate, person, dufr/met, status/unknown]
 campaignInfo: []
 name: Gorkil
 born: 1729

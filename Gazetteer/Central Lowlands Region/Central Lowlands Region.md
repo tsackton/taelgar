@@ -1,6 +1,5 @@
 ---
-tags:
-  - place
+tags: [place, status/unknown]
 name: Central Lowlands Region
 typeOf: region
 partOf: Taelgar

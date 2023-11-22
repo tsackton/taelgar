@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/major]
+tags: [person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Alesh
@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Karawa'}
+- {type: home, start: '', end: '', location: Karawa}
 - {type: away, start: 1748-12-26, end: '', location: Central Dunmar}
 ---
 # Alesh

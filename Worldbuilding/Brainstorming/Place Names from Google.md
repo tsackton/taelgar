@@ -1,4 +1,6 @@
-
+---
+tags: [status/unknown]
+---
 (if something has a page outside worldbuilding, should delete from here)
 
 ## Continent Scale Features

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, dufr/background, person, dufr/aware]
+tags: [historical, dufr/background, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Jita
@@ -16,8 +16,8 @@ died: 1460
 affiliations: [Dharajun Dynasty]
 leaderOf: [Dunmar]
 whereabouts:
-- {type: home, location: 'plains of Songara'}
-- {type: home, location: 'Tokra'}
+- {type: home, location: plains of Songara}
+- {type: home, location: Tokra}
 ---
 # Samraat Dharajun Jita
 >[!info]+ Biographical Info

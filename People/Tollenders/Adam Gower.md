@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [person]
+tags: [person, status/unknown]
 species: human
 name: Adam Gower
 gender: male

@@ -1,4 +1,6 @@
-### Jade Fragments
+---
+tags: [status/unknown]
+---
 
 Fragments of jade that were originally [[Rai]]'s hand. 
 

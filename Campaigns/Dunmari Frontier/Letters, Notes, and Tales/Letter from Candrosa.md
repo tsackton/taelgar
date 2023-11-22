@@ -1,4 +1,6 @@
-a letter the party received from Candrosa on March 30th, 1748, in [[Session 5 (DuFr)]]
+---
+tags: [status/unknown]
+---
 
 Dear friends,
 

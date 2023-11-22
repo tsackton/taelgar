@@ -1,4 +1,6 @@
-## Vault
+---
+tags: [status/unknown]
+---
 
 700 gp (from Lyra)
 Three pieces of columns from the chapel have been moved here, and arranged in a triangle. Stacked in a small pile are 7 silver trade bars (10 lb each, 100 gp each), marked with a Dwarven stamp of [[Nidzahar]]. 

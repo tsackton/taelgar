@@ -1,18 +1,11 @@
 ---
-tags:
-  - mc/minor
-  - person
-  - dufr/unaware
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [mc/minor, person, dufr/unaware, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Benat
-born: 
+born:
 species: lizardfolk
-ancestry: 
+ancestry:
 gender: male
 whereabouts: Hamri
 ---

@@ -1,23 +1,14 @@
 ---
-tags:
-  - pc/greatwar
-  - pc
-  - person
-  - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [pc/greatwar, pc, person, status/notes, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Kyr
-born: 
+born:
 species: lizardfolk
-ancestry: 
+ancestry:
 gender: male
 player: Eric Rosenbaum
-affiliations:
-  - Heroes of the Great War
+affiliations: [Heroes of the Great War]
 ---
 # Kyr
 >[!info]+ Biographical Summary

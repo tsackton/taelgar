@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/minor, person, dufr/aware]
+tags: [dufr/minor, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: [ {campaign: dufr, date: 1748-04-15, type: grave discovered}]
+campaignInfo:
+- {campaign: dufr, date: 1748-04-15, type: grave discovered}
 name: Alban
 born: 1719
 species: human
@@ -12,9 +13,9 @@ died: 1748-03-18
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
-- {type: away, start: 1747-12-23, end: 1748-02-02, location: traveling in the Yeraad watershed }
-- {type: away, start: 1748-02-02, end: 1748-03-13, location: traveling in Dunmar }
-- {type: away, start: 1748-03-13, end: 9999, location: Stormcaller Tower }
+- {type: away, start: 1747-12-23, end: 1748-02-02, location: traveling in the Yeraad watershed}
+- {type: away, start: 1748-02-02, end: 1748-03-13, location: traveling in Dunmar}
+- {type: away, start: 1748-03-13, end: 9999, location: Stormcaller Tower}
 ---
 # Alban
 >[!info]+ Biographical Info

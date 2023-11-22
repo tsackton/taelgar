@@ -1,4 +1,6 @@
-The Gray Tempest (party name)
+---
+tags: [status/unknown]
+---
 
 March 8th - sell treasure to Quintus and Inectos
 March 9th - sell treasure 

@@ -1,1 +1,3 @@
-![[old-taelgar-map.png]]
+---
+tags: [status/unknown]
+---

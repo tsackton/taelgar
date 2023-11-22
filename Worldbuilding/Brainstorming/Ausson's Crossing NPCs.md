@@ -1,4 +1,6 @@
-This is moved here from GDrive on the theory that I might expand some of these NPCs. Ausson's Crossing is set in 1688, so these NPCs would all be much older in 1720 or 1748
+---
+tags: [status/unknown]
+---
 ## Inhabitants of Ausson’s Crossing
 
 ### The Ausson Household

@@ -1,5 +1,5 @@
 ---
-tags: [dufr/met_one, person, dufr/minor]
+tags: [dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Enari
@@ -8,8 +8,8 @@ species: lizardfolk
 ancestry:
 gender: male
 whereabouts:
-- {type: home, location: 'Orekatu'}
-- {type: away, start: 1748-11-01, end: 1749-12-01, location: 'Bedez, Orekatu'} #check start and end dates on session notes from Kenzo solo
+- {type: home, location: Orekatu}
+- {type: away, start: 1748-11-01, end: 1749-12-01, location: 'Bedez, Orekatu'}
 ---
 # Enari
 >[!info]+ Biographical Summary

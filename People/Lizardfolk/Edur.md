@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed by spiders}
 campaignInfo: []
 name: Edur
@@ -9,8 +9,8 @@ ancestry:
 gender: male
 died: 1719-10-19
 whereabouts:
-- {type: home, location: Ganboa }
-- {type: away, start: 1719-10-19, location: Cleenseau Wood }
+- {type: home, location: Ganboa}
+- {type: away, start: 1719-10-19, location: Cleenseau Wood}
 ---
 # Edur
 >[!info]+ Biographical Summary

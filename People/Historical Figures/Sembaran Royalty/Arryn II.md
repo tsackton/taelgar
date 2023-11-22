@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Arryn II
@@ -11,7 +11,9 @@ gender: male
 reignStart: 1601
 died: 1648-10
 title: King
-leaderOf: [{place: Sembara}, {place: Tyrwingha}]
+leaderOf:
+- {place: Sembara}
+- {place: Tyrwingha}
 affiliations: [House of Sewick]
 reignEnd: 1628
 ---

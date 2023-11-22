@@ -1,31 +1,16 @@
 ---
-tags:
-  - person
-  - dufr/met
-  - dufr/major
-  - status/notes
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [person, dufr/met, dufr/major, status/notes, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Candrosa
 born: 1715
 species: human
 ancestry: Dunmari
 gender: male
-affiliations:
-  - Shakun mystai
+affiliations: [Shakun mystai]
 whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: Karawa, Eastern Dunmar
-  - type: home
-    start: 1715-01-02
-    end: ""
-    location: Karawa, Eastern Dunmar
+- {type: home, start: '', end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: home, start: 1715-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
 ---
 # Candrosa
 >[!info]+ Biographical Info

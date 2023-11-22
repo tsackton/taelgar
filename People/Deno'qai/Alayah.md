@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/minor, status/notes]
+tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Alayah

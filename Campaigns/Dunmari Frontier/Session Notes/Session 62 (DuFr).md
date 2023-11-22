@@ -1,6 +1,5 @@
 ---
-tags:
-- DuFr
+tags: [DuFr, status/unknown]
 ---
 
 # Session 62

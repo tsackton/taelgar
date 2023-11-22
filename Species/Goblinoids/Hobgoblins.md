@@ -1,11 +1,7 @@
 ---
-tags: [status/notes, species]
+tags: [status/notes, species, status/unknown]
 name: Hobgoblins
-aliases:
-  - hobgoblin
-  - Hobgoblin
-  - hobgoblins
-  - Hobgoblins
+aliases: [hobgoblin, Hobgoblin, hobgoblins, Hobgoblins]
 ---
 (stub)
 

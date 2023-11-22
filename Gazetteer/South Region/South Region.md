@@ -1,7 +1,6 @@
 ---
-tags:
-  - place
-campaignInfo: 
+tags: [place, status/unknown]
+campaignInfo:
 name: South Region
 typeOf: region
 partOf: Taelgar

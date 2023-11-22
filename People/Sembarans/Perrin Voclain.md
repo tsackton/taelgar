@@ -1,5 +1,5 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware]
+tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: Clee, date: 1719-10-20, type: met}
@@ -9,8 +9,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: 'Taviose'}
-- {type: away, start: 1719-10-21, end: 1719-10-26, location: 'Valit'}
+- {type: home, start: '', end: '', location: Taviose}
+- {type: away, start: 1719-10-21, end: 1719-10-26, location: Valit}
 ---
 # Perrin Voclain
 >[!info]+ Biographical Summary

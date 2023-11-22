@@ -1,4 +1,6 @@
-[[Murook]] tells her story:
+---
+tags: [status/unknown]
+---
 
 "I do not speak of my childhood lightly. I was born, chained. I suffered the rituals that bound me. If I think hard, I can still remember fire that burned through my veins. 
 

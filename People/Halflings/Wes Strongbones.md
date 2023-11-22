@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Wes Strongbones
@@ -8,7 +8,7 @@ species: halfling
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: , end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: !!null '', end: '', location: 'Tokra, Central Dunmar'}
 ---
 # Wes Strongbones
 >[!info]+ Biographical Summary

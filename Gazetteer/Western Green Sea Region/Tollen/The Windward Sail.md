@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: { definitiveArticle: "", partOf: "A <ancestry> <typeof> in <loc>" }
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: '', partOf: A <ancestry> <typeof> in <loc>}
 campaignInfo: []
 name: The Windward Sail
 typeOf: inn

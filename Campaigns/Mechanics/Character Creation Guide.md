@@ -1,4 +1,6 @@
-# A Brief Overview of Character Creation Options
+---
+tags: [status/unknown]
+---
 
 The world of Taelgar is an extensive homebrew world, the setting for several campaigns run by both myself and my brother. Currently, Taelgar uses the 5th edition Dungeons and Dragons rules, supplemented with homebrew. 
 

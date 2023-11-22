@@ -1,25 +1,16 @@
 ---
-tags:
-  - person
-  - dufr/aware
-  - status/stub
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
-campaignInfo: 
+tags: [person, dufr/aware, status/stub, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+campaignInfo:
 name: Elandrial
-born: 
-ka: 
+born:
+ka:
 species: elf
-ancestry: 
+ancestry:
 gender: male
 whereabouts:
-  - type:away: 
-    location: unknown
-affiliations:
-  - Fides Lucaris
+- {'type:away': !!null '', location: unknown}
+affiliations: [Fides Lucaris]
 pronunciation: eh-LAN-dree-ahl
 ---
 # Elandrial

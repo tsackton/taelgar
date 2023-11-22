@@ -1,13 +1,13 @@
 ---
-tags: [ person, dufr/unaware ]
+tags: [person, dufr/unaware, status/unknown]
 name: Lord Umbraeth
-born: 
+born:
 species: fey
 gender: male
 aliases: [Gloomshaper]
 whereabouts:
-  - { type: home, start: "", end: "", location: Twilight's Grace }
-  - { type: home, start: "", end: "", location: Duskmire }
+- {type: home, start: '', end: '', location: Twilight's Grace}
+- {type: home, start: '', end: '', location: Duskmire}
 ---
 # Lord Umbraeth
 >[!info]+ Biographical Info

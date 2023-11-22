@@ -1,5 +1,5 @@
 ---
-tags: [dufr/met_one, person, dufr/minor]
+tags: [dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Frankar
@@ -7,7 +7,7 @@ born: 1714
 species: dwarf
 ancestry:
 gender: male
-died: 
+died:
 whereabouts:
 - {type: home, start: '', end: 1730, location: 'Darakan, Khatridun, Sentinel Range'}
 ---

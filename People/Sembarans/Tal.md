@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/unaware]
+tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Tal
@@ -9,8 +9,8 @@ species: human
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: '', end:  1716, location: 'Embry'}
-- {type: away, start: 1716, end: '', location: 'somewhere on the River Semb'}
+- {type: home, start: '', end: 1716, location: Embry}
+- {type: away, start: 1716, end: '', location: somewhere on the River Semb}
 ---
 # Tal
 >[!info]+ Biographical Info

@@ -1,5 +1,5 @@
 ---
-tags: [pc, person, pc/dunmarfrontier]
+tags: [pc, person, pc/dunmarfrontier, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Kenzo

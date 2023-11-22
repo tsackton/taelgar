@@ -1,10 +1,10 @@
 ---
-tags: [item/magical]
+tags: [item/magical, status/unknown]
 typeOf: crown
-created: 0001
+created: 1
 whereabouts:
-- { type: home, location: Apollyon }
-- {type: home, location: Fausto }
+- {type: home, location: Apollyon}
+- {type: home, location: Fausto}
 ---
 # The Crown of Purity
 >[!info]+ Information

@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: Clee, date: 1719-10-23, type: met}
@@ -9,7 +9,7 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts:
-- {type: home, start: 1640-04-09, end: '', location: 'Taviose'}
+- {type: home, start: 1640-04-09, end: '', location: Taviose}
 ---
 # Grandpa Remy
 >[!info]+ Biographical Info

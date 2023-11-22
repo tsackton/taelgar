@@ -1,1 +1,3 @@
-The mountains to the east of the [[Desolation of Cha'mutte]], dividing [[South Cymea]] from the [[~Maritime Trade Peninsula~]]
+---
+tags: [status/unknown]
+---

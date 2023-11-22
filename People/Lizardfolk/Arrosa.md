@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, dufr/met_one, person]
+tags: [dufr/background, dufr/met_one, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Arrosa
@@ -8,7 +8,7 @@ species: lizardfolk
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Bedez'}
+- {type: home, start: '', end: '', location: Bedez}
 ---
 # Arrosa
 >[!info]+ Biographical Info

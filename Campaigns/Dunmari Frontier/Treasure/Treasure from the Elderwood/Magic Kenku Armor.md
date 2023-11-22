@@ -1,4 +1,6 @@
-## Kenku Armor
+---
+tags: [status/unknown]
+---
 
 Originally of kenku make. Can change appearance to any item of clothing, and is a +1 suit of studded leather armor. Allows you to cast Feather Fall at will, targeting yourself only. Found in [[Mezzar|Grimbaskal]]’s hoard.
 

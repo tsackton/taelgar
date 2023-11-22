@@ -1,4 +1,6 @@
-#### Session 41
+---
+tags: [status/unknown]
+---
 
 **(Thursday, March 3rd, 2022; in Taelgar, July 6th - July 13th)
 

@@ -1,7 +1,7 @@
 ---
 partOf: Feywild
 typeOf: realm
-tags: [place]
+tags: [place, status/unknown]
 ---
 
 # Duskmire

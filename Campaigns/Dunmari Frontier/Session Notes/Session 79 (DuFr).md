@@ -1,4 +1,6 @@
-# Session 79
+---
+tags: [status/unknown]
+---
 *in which the party enters the Edge of Echoes*
 
 **In the real world:** Sept 27, 2023

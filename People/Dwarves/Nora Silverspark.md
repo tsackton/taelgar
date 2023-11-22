@@ -1,5 +1,5 @@
 ---
-tags: [dufr/met_one, person, dufr/minor, status/notes]
+tags: [dufr/met_one, person, dufr/minor, status/notes, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Nora Silverspark

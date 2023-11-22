@@ -1,4 +1,4 @@
 ---
-tags: [item/material]
+tags: [item/material, status/unknown]
 typeOf: material
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 name: Fellburn
 typeOf: town
 partOf: Duchy of Wisford

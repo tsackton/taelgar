@@ -1,4 +1,6 @@
-#### Session 17
+---
+tags: [status/unknown]
+---
 
 **(Friday, Jan 22nd, 2021; in Taelgar, April 16th through April 24th)**
 

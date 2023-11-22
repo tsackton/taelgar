@@ -1,7 +1,7 @@
 ---
 typeOf: ring
 ancestry: Drankorian
-tags: [item/magical]
+tags: [item/magical, status/unknown]
 whereabouts: Kenzo
 ---
 # The Ring of Jumping

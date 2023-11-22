@@ -1,1 +1,3 @@
-This folder is a place for information we remember or find from the high school game. Very little of it is strictly canonical, but it is good source material to try to keep a vague historical continuity.
+---
+tags: [status/unknown]
+---

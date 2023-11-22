@@ -1,12 +1,10 @@
 ---
-tags:
-  - place/building
-  - status/draft
-campaignInfo: 
+tags: [place/building, status/draft, status/unknown]
+campaignInfo:
 name: Hall of Stories
 typeOf: building
 partOf: Monastery of Bhishma
-displayDefaults: { partOf: "<article> <typeof> in <loc:3>"}
+displayDefaults: {partOf: '<article> <typeof> in <loc:3>'}
 ---
 # The Hall of Stories
 >[!info]+ Information

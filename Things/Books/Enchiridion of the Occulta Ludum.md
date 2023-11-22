@@ -1,11 +1,12 @@
 ---
-tags: [item/magical, item/book, status/refactor]
+tags: [item/magical, item/book, status/refactor, status/unknown]
 typeOf: book
-campaignInfo: [{campaign: DuFr, type: found, date: 1748-11-23 }]
+campaignInfo:
+- {campaign: DuFr, type: found, date: 1748-11-23}
 whereabouts:
-- { type: home, end: 0001, location: Occulta Ludum}
-- { type: home, end: 1748-11-23, location: Stormcaller Tower }
-- { type: home, start: 1748-11-24, location: Dunmar Fellowship}
+- {type: home, end: 1, location: Occulta Ludum}
+- {type: home, end: 1748-11-23, location: Stormcaller Tower}
+- {type: home, start: 1748-11-24, location: Dunmar Fellowship}
 ---
 # The Enchiridion of the Occulta Ludum
 >[!info]+ Information

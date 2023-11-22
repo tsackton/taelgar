@@ -1,4 +1,6 @@
-Lizardmen stand an average of six feet tall with a slightly forward
+---
+tags: [status/unknown]
+---
 crouching stance, to balance a three foot long tail.  They are finely
 scaled and have a perpetual glistening appearance.  If the sun catches a
 lizardman just as he emerges from the water into early morning swamp mist,

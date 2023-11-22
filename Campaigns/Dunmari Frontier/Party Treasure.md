@@ -1,4 +1,6 @@
-# Party Treasure
+---
+tags: [status/unknown]
+---
 
 ## Magic Items to Allocate from Elemental Forge
 - Ring of Sharp Mind. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 

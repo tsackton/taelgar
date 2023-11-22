@@ -1,4 +1,6 @@
-# Charlatan's Dice
+---
+tags: [status/unknown]
+---
 
 [Mechanics](https://www.dndbeyond.com/magic-items/charlatans-die) 
 

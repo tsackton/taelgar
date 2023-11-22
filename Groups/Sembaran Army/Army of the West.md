@@ -1,7 +1,7 @@
 ---
-tags: [organization/army]
+tags: [organization/army, status/unknown]
 campaignInfo: []
-displayDefaults: {partOf: "part of <loc:1>", secondaryInfo: ""}
+displayDefaults: {partOf: 'part of <loc:1>', secondaryInfo: ''}
 name: Army of the West
 typeOf: army
 partOf: Sembaran Army

@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 name: Lucas
 born:
 species: human
