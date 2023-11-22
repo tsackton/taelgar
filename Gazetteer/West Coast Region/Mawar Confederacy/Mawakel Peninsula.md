@@ -12,3 +12,15 @@ The Mawakel Peninsula is a land of contrasts and challenge. The peninsula is cut
 The Sulqat river valley in the center of the peninsula is separated from the coasts by steep hills dominated by dense, old growth pine forests. The coasts themselves are rocky and dominated by steep cliffs and narrow inlets. 
 
 The western and northern side of the peninsula tend towards milder climates, with less snow in the winter, while the interior and eastern sides are colder and receive often heavy snowfalls, especially towards the higher elevations near the mountains.
+
+%%^Campaign:None%%
+### Places in Mawakel Peninsula
+```dataviewjs
+const { util } = customJS
+dv.table(["Place", "Type Of"], 
+			dv.pages("#place")
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
+				.map(b => [util.getName(b.file.name), b.typeOf]))
+```
+
+%%^End%%
