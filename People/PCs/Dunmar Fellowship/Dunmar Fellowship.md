@@ -29,6 +29,19 @@ Kenzo, Seeker, and Wellby were reunited in the Feywild and traveled with [[Caula
 
 The group was reunited on Nov 15 1748 in Dunmar. 
 
+## Followers and Hirelings
+
+The Dunmar Fellowship has acquired a number of followers, hirelings, and traveling companions, who including:
+
+- Faldrak Bronzehammer, a Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain. Based on Vindristjarna. 
+- Adam Gower, a human factor and agent, with a history of working for the Goodbarrel family. Now serves as the party's representative in Tollen, and also manages trade goods and contracts in Tollen. Based in Tollen. 
+- Amil (uh-MEEL), a joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the Garamjala desert before leaving to help record the stories of the ordinary people of the world. Based on Vindristjarna. 
+- Égnir (AY-nyeer), a quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Based on Vindristjarna. 
+- Nurzkar, Aygul's twin sister, a orc woman solider, brawler, and smith, 
+- Aygul, Nurzkar's twin sister, 
+
+
+
 %%
 Solo adventure tallies
 Kate: 3  (Riswynn, Delwath, Seeker)
