@@ -22,14 +22,22 @@ class util {
             if (!campaignFolder) {
                 campaignFolder = NameManager.getCampaignSessionNoteFolder(campaignPrefix)
             }
-
-            console.log(campaignFolder)
+            
             if (campaignFolder) {
                 return DataviewAPI.page(file).file.inlinks.some(f => f.path.contains("Campaigns/" + campaignFolder + "/Session Notes") || f.path.contains(campaignFolder))
             }
         }
 
         return false;
+    }
+
+    isAffiliated(target, metadata) {
+        if (!metadata) return false
+        
+        if (!metadata.affiliations) return false
+        if (!Array.isArray(metadata.affiliations)) return false;
+
+        return metadata.affiliations.includes(target)
     }
 
     inLocation(targetLocation, metadata, includeDead, includeLastKnown, targetDate) {
