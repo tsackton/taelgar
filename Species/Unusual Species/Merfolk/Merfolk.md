@@ -1,5 +1,5 @@
 ---
-tags: [species, status/unknown]
+tags: [species, status/notes, status/secret]
 ---
 
-(stub)
+%%  actively inventing for Dunmar frontier campaign eventual underwater adventure %%
