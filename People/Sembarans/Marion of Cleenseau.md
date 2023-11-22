@@ -1,17 +1,29 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
-name: Marion of Cleenseau
+headerVersion: 2023.11.20
+tags: [person]
+campaignInfo: [{campaign: clee, type: met}]
+name: Marion
 born: 1698
 species: human
 ancestry: Sembaran
 gender: female
-affiliations: [Bridge Patrol, Army of the West]
+affiliations: [Army Garrison of Cleenseau]
+whereabouts:
+- { type: home, location: Cleenseau }
 ---
-# Marion of Cleenseau
->[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+# Marion
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> Member of: The [[Army Garrison of Cleenseau]]
 
-A solider of the Bridge Patrol. 
+A solider of the Bridge Patrol.
+
+%%^Date:1720%%
+She was badly wounded during the events of the [[Cleenseau Spider Attacks]] and did not travel to [[Dunfry]] with the rest of the [[Army Garrison of Cleenseau]]. 
+%%^End%%
+
+%% Note:
+She should show up in Cleenseau Session 09 as someone who helps with the Zombies
+%%

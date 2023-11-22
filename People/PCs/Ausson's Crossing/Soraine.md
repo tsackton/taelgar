@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [pc, person, pc/unsorted, status/notes, status/unknown]
+tags: [person, pc/aussons, status/needswork/notes]
 campaignInfo:
 name: Soraine
 born:

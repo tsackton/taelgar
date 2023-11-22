@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -13,11 +14,15 @@ whereabouts:
 - {type: away, start: 1719-10-21, end: '', location: 'Taviose, Cleenseau'}
 ---
 # Sergeant Odo Cordwaner
->[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Cleenseau]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] and a loyal solider. 
+
+%%%
+and was led by [[Odo Cordwaner|Sergeant Odo Cordwaner]] until he was discharged after failing to heed orders during the [[Festival of the Bridge]]. He allowed [[François the Bandit]] to distribute poisoned grain despite being warned.
+%%
+
 ![[odo-cordwaner.png]]

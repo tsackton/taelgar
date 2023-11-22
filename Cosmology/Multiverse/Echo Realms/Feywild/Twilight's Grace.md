@@ -1,13 +1,18 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/check, status/unknown]
+displayDefaults: {definitiveArticle: "" }
+tags: [place, status/draft, status/needswork/wip]
 partOf: Feywild
 typeOf: realm
 ---
-# The Twilight's Grace
+# Twilight's Grace
 >[!info]+ Information
-> A realm in the [[Feywild]], [[Echo Realms]]
+> A realm in the [[Feywild]], the [[Echo Realms]]
 
 The realm of [[Archfey Ethlenn]]. A land of perpetual twilight, basking under a rising bright rising moon. 
 
-%% Note: Name was under some debate but is likely to need to be canonical in my next session of Cleenseau; needs confirmation %%
+%% Note for Tim: Name was under some debate but is likely to need to be canonical in my next session of Cleenseau; needs confirmation 
+
+Also unclear if description of bright rising moon is correct - is the moon also static in the fey wild
+
+%%
