@@ -9,7 +9,7 @@ species: human
 ancestry: Tollender
 gender: male
 affiliations:
-- - [Ancient and Honorable Guild of Philosophers]
+- Ancient and Honorable Guild of Philosophers
 whereabouts:
 - {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
 - {type: home, start: 1668-01-02, end: '', location: 'Tollen, Western Green Sea'}
