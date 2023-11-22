@@ -1,7 +1,31 @@
 Notes on the history of Taelgar, especially in the early days, copied from Google Docs. Not all canonical.
 
 Age of Myth and Age of Creation mostly solid. "Third Age" mostly solid, at least in broad strokes. "Fourth Age" and especially "Fifth Age" not necessarily canon. 
+
 # The History of Taelgar
+
+%%comments
+some to-dos:  
+1. Still need better names for the ages of the world. Roughly speaking, the vibe is:  
+  
+* First Age  = gods  
+* Second Age = elder races  
+* Third Age = humans  
+* Fourth Age = war against Cha'mutte  
+* Fifth Age = current day in Taelgar  
+  
+The first, third, and fourth ages end with violence of some kind. First, with Arha and Malik separating the planes; third, with downfall of Hkar and the wars around that; fourth, with war against Cha'mutte.  
+  
+Second age is marked at beginning and end by creation: starts with creation of the elder races, ends with creation of humans.   
+  
+For now, have refactored names based on those vibes:  
+  
+* First Age = Days of Myth  
+* Second Age = Age of Creation  
+* Third Age   
+* Fourth Age   
+* Fifth Age = Age of Rebirth
+*%%
 
 This is the story, as incompletely reconstructed by the wisest of elven scholars and loremasters, of the history of Taelgar, starting with the Elder days, when the world was young and magic strong. It tells the story of the origin of the gods, the birth of the elder races, and the creation of the humans on Hkar, through the downfall of Hkar and the elder empires at the end of the third age of the world, to the story of the fourth age, the rise and fall of the Drankorian empire, the long years of Cha’mutte’s growth in power leading up to the the Great War, ending with the events after Cha’mutte’s downfall, in the current, fifth age of the world.
 
@@ -258,7 +282,11 @@ In a few places, even before the downfall, these cultures were already mixing:
 
 ### The Downfall of Hkar
 
+ %%comment
+  basic idea here is that during the third age, the northwest of Taelgar is kind of a backwater, and certainly the land beyond the mountains is very backwater. the real center of everything is the tropics, basically from what is now northern dunmar through the southern green sea and then south to the equator.  
   
+then, during the downfall, that region is what suffers the most, outside of Hkar. so what is left is people on the fringes. this orients drankor north. if there is a 'southern drankor', it would be very far south, beyond the current world map.
+%%
 
 The ~ThirdAge~ ended in fire and cataclysmic, as the allies, servants, and slaves of the Three Despairs burst into the world in conflict and war. Although this war touched all the land of Taelgar, the greatest fighting was on the central coasts of the western shore, in the land that was southern heart of the great Elven kingdom of Alcarinquë, and further south to the northern edges of Tinwerquë. A great host sailed for Hkar, striking at the heart of the human world, where they overwhelmed the defenses of the Hkarans. As last, desperate act, Arha and Malik sank the land of Hkar, and great destruction followed. Many humans died, but so too did many more hobgoblins, orcs, and horrors of the deeps. While the ~GreatWarI~ was not a total victory for the humans, elves, and allies, it was not a defeat, and despite enormous loss, the spawn of the Despairs were diminished, never to recover completely to their former strength. 
 

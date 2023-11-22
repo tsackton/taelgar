@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/minor]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
