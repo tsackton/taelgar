@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags:
   - status/notes
   - item/magical
@@ -8,10 +9,10 @@ displayDefaults:
   endStatus: destroyed
 campaignInfo: 
 maker: Cloudspinner
-created: 1
+created: 700
+# start date approx
 name: Mantle of Protection
-aliases:
-  - Cloak of Rainbows
+aliases: [ Cloak of Rainbows ]
 typeOf: cloak
 rarity: unique
 whereabouts:
@@ -23,6 +24,7 @@ whereabouts:
 # The Mantle of Protection
 >[!info]+ Information
 > (unique magical cloak)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A rumored multi-colored shimmering cloak or mantle that shields the wearer from divine influence in some way. 

@@ -2,11 +2,12 @@
 
 ## Magic Items to Allocate from Elemental Forge
 - Ring of Sharp Mind. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
-- A small crystal vial containing one remaining dose of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge. 
 - A gray cloak. Also found in the lead box. Functions as a Cloak of Elvenkind. 
+
 ## Magic Items under Construction by Umli
 
 Started work on Skaer steel items on 5 Jan 1749, will work 6 days/week. Started with 27 lb of Skaer steel. **On 17 Jan will send magic chest with Riswynn shield and 4 quivers of arrows for Wellby.** 
+
 ### Arrows for Wellby
 12 lb Skaer steel for construction
 Started: 5 Jan 1749
@@ -284,6 +285,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A 15’ rope [[Ladder]], originally from lair of the [[Fraternity of the Empty Moon]]. Fought valiantly against many enemies, distinguishing themselves in combat against werewolves and others, until bravely dying in battle against [[Mezzar|Grimbaskal]] the green dragon to allow the rest of the party to escape in [[Session 50 (DuFr)]].
 
 ### Destroyed or Used
+- A small crystal vial containing three doses of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
 - [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 63 (DuFr)]].  %%SECRET[50]%%
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:

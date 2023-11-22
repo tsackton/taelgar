@@ -1,3 +1,5 @@
+%%adapted from old Google doc%%
+
 # Typology for Introducing D&D Creatures
  
 The multiverse, gods, and the story of creation are organized somewhat differently in Taelgar than a standard D&D universe. Still, most, if not all, D&D creatures can fit in somewhere. Here are some guidelines.

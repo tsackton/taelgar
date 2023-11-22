@@ -76,6 +76,7 @@
 - [[Session 79 (DuFr)]]
 - [[Session 80 (DuFr)]]
 - [[Session 81 (DuFr)]]
+- [[Session 82 (DuFr)]]
 
 
 

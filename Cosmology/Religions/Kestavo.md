@@ -1,5 +1,5 @@
 ---
-tags: [religion/kestavo]
+tags: [religion/kestavo, status/docreview]
 ---
 
 # The *kestavo*
@@ -31,6 +31,17 @@ A new town/community must attract a protector spirit, either because one is alre
 Some spirits watch over many villages, and are therefore much more powerful… but also, much less focused on any one village.  
 
 Most practice is centered around maintaining the shrine; specific worship doesn’t necessarily occur in the shrine, but it is the house of the god, literally. It is very important that it be well kept, clean, decorated. Sometimes, this means a building -- but if the kestavo lives in a waterfall in the forest, it might mean ensuring no one draws the water or something. The practice also includes specific rituals around giving prayers and wishes to pass on to [[Ako]], and practices and rituals to scare off or bribe the children of Ziva.   
+
+%%google comment
+Specific practice is worth developing.   
+  
+* Purity/ritual cleaning?  
+* Dances/music for the kestavo?  
+(Both of these are components of Shintoism)  
+* Sacrifices or offerings?  
+* Specific rituals around decorating or enlivening a shrine?  
+* Specific rituals around a new shrine, enlarging, moving, splitting?
+%%
 
 Each kestavo also can only carry prayers to [[Ako]] if they are nearby. This leads to both pilgrimages to specific shrines as well as a great importance on having a shrine in each community, as a center of worship. A new village cannot be established if no kestavo will watch over it.
 
