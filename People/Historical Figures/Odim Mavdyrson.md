@@ -1,9 +1,11 @@
 ---
+headerVersion: 2023.11.20
 tags: [dufr/background, person, dufr/aware]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Odim Mavdyrson
-born:
+born: 1500 #testing
+died: 1590 #testing
 species: giant
 subspecies: fire giant
 gender: male
@@ -11,5 +13,10 @@ gender: male
 # Odim Mavdyrson
 >[!info]+ Biographical Info
 > [[Giants|fire giant]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 A fire giant, the son of [[Mavdyr]] (who was killed in the [[Fire War]]). Sought [[Dwarves]] for revenge; killed in the process but not before seeing [[Hagrim]] turn on [[Nora Silverspark|Nora]]. 
+
+## Events
+%% testing %%
+- (DR:: 1570): something happens, check 

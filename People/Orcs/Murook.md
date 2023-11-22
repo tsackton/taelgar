@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.20
 tags: [event-source, person, dufr/met, dufr/minor]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1749-12-10, type: met}
 name: Murook
@@ -9,19 +9,18 @@ species: orc
 ancestry:
 gender: female
 title: General
-affiliations: [Hezguli, The People of the Rainbow]
+affiliations: [Hezguli, People of the Rainbow]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Plaguelands, Central Lowlands'}
-- {type: home, start: 1725-01-01, end: '', location: 'Xurkhaz, Central Lowlands'}
+- {type: home, location: Nashtkar}
+- {type: home, start: 1724, location: Xurkhaz}
 ---
 # General Murook
->[!info]+ Biographical Summary
->[[Orcs|orc]], she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Plaguelands]], Central Lowlands
->> Based in: [[Xurkhaz]], Central Lowlands
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 10th, 1749: [[Xurkhaz]], Central Lowlands %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Orcs|orc]], she/her of the [[People of the Rainbow]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 10th, 1749 in [[Xurkhaz]], the [[Garamjala Desert]], [[Nashtkar]] %%^End%%
+>> Member of: [[Hezguli]]
 
 Murook, an [[Orcs|orc]] woman from the [[Plaguelands]], was freed from [[Thark]]'s curse in childhood by [[Lubash]]'s father, [[Karguk]]. She now serves as the General of [[Lubash]]'s army, and the unofficial leader of the [[Hezguli]], the reborn [[Orcs]] who've been similarly freed.
 ## Overview
@@ -38,5 +37,6 @@ A formidable [[Orcs|orc]] woman in her prime, with pale green skin, Murook is us
 ## Events
 
 - (DR:: 1724) Murook was freed from [[Thark]]'s chains by [[Karguk]], Chief of [[Uzgukhar]]
+- (DR:: 1725) some other thing
 
 %%SECRET[1]%%

@@ -50,11 +50,16 @@ class DateManager {
             age: undefined
         }
 
+        let useDR = true;
+        if ("born" in metadata || "died" in metadata || "created" in metadata || "destroyed" in metadata) {
+            useDR = false;
+        }
+
         if (metadata.born) {
             status.startDate = this.normalizeDate(metadata.born, false);
         } else if (metadata.created) {
             status.startDate = this.normalizeDate(metadata.created, false);
-        } else if (metadata.DR) {
+        } else if (metadata.DR && useDR) {
             status.startDate = this.normalizeDate(metadata.DR, false);
         }
 
@@ -62,10 +67,10 @@ class DateManager {
             status.endDate = this.normalizeDate(metadata.died, true);
         } else if (metadata.destroyed) {
             status.endDate = this.normalizeDate(metadata.destroyed, true);
-        } else if ("DR_end" in metadata) {
+        } else if ("DR_end" in metadata && useDR) {
             // this is to allow a blank DR_end to mean "unknown"
             if (metadata.DR_end) status.endDate = this.normalizeDate(metadata.DR_end, true);
-        } else if (metadata.DR) {
+        } else if (metadata.DR && useDR) {
             status.endDate = this.normalizeDate(metadata.DR, true);
         }
 
