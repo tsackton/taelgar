@@ -25,8 +25,17 @@ whereabouts:
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
 
-The matriarch of the [[Charmhearts|Charmheart]] trading clan of [[halflings]].
-
 %% notes
 old, approx 100 in 1748
 %%
+The matriarch of the [[Charmhearts|Charmheart]] trading clan of [[halflings]].
+%%^Campaign:None%%
+## Relationships
+```dataview
+TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
+FROM #person OR #organization 
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+SORT choice(species, species, typeof)
+```
+%%^End%%
+

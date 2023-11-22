@@ -28,4 +28,13 @@ whereabouts:
 
 One of the [[Charmhearts]], a [[Halflings|halfling]] family of long-distance merchants and traders, who make a living trading between [[Dunmar]] and [[Sembara]]. 
 
-Callie is sister to [[Ander Charmheart]], and the granddaughter of matriach [[Bree Charmheart]].
+Callie is sister to [[Ander Charmheart]], and the granddaughter of matriarch [[Bree Charmheart]].
+%%^Campaign:None%%
+## Relationships
+```dataview
+TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
+FROM #person OR #organization 
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+SORT choice(species, species, typeof)
+```
+%%^End%%
