@@ -1,3 +1,11 @@
+NPC "Relationships":
+
+```
+```dataview
+TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link FROM #person OR #organization  
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link) 
+SORT choice(contains(file.tags,"organization"), "Organization", "Person"), choice(species, species, typeof)
+```
 
 All the things in a place. This gets everything that is a place in the current file
 
