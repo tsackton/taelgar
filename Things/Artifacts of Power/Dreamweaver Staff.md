@@ -1,5 +1,5 @@
 ---
-tags: [item/magical]
+tags: [item/magical, status/unknown]
 rarity: unique
 typeOf: staff
 whereabouts: Candrosa

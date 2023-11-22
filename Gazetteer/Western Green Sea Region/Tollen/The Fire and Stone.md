@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: {definitiveArticle: "", partOf: "A <ancestry> <subtypeof> in <loc>" }
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: '', partOf: A <ancestry> <subtypeof> in <loc>}
 campaignInfo: []
 name: The Fire and Stone
 typeOf: inn

@@ -1,12 +1,10 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - item/magical
+tags: [item/magical, status/unknown]
 rarity: unique
 whereabouts: Cintra
 typeOf: wonderous item
-# hack to prevent (unique wonderous magical item)
-subTypeOf: " "
+subTypeOf: ' '
 ---
 # The The Heart of Shakun
 >[!info]+ Information

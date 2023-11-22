@@ -1,8 +1,6 @@
 ---
-tags:
-  - place
-  - status/needswork
-campaignInfo: 
+tags: [place, status/needswork, status/unknown]
+campaignInfo:
 name: Quanyi
 typeOf: island
 partOf: ~Eastern Islands~

@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/stub, status/unknown]
 name: Niva
 typeOf: river
 partOf: Vostok

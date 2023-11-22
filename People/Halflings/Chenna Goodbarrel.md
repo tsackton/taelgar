@@ -1,7 +1,11 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, person, dufr/met]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., affiliationTypeOf: ["inn"]}
+tags: [dufr/background, person, dufr/met, status/unknown]
+displayDefaults:
+  startStatus: born
+  startPrefix: b.
+  endPrefix: d.
+  affiliationTypeOf: [inn]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-30, type: met}
 name: Chenna
@@ -12,8 +16,8 @@ gender: female
 affiliations: [The Singing Fox]
 family: Goodbarrel
 whereabouts:
-- {type: home, end: 1721, location: 'Sembara'}
-- {type: home, start: 1722, location: 'Tollen'}
+- {type: home, end: 1721, location: Sembara}
+- {type: home, start: 1722, location: Tollen}
 ---
 # Chenna
 >[!info]+ Biographical Info

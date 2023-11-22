@@ -1,5 +1,5 @@
 ---
-tags: [dufr/minor, person, dufr/aware]
+tags: [dufr/minor, person, dufr/aware, status/unknown]
 campaignInfo: []
 name: Cloudspinner
 born:
@@ -9,8 +9,8 @@ gender: female
 aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, start: '', end: '', location: 'somewhere, unknown'}
-- {type: home, start: '', end: '', location: Amberglow }
-- {type: away, start: 990, end: 2000, location: 'imprisoned, somewhere'} #start is approx, end is arbitrary
+- {type: home, start: '', end: '', location: Amberglow}
+- {type: away, start: 990, end: 2000, location: 'imprisoned, somewhere'}
 ---
 # Cloudspinner
 >[!info]+ Biographical Info

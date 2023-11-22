@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/stub, status/unknown]
 name: Kem
 pronunciation: KEM
 typeOf: river

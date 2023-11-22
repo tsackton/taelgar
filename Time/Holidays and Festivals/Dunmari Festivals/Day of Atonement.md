@@ -1,5 +1,3 @@
 ---
-tags:
-  - holiday
-  - status/needswork
+tags: [holiday, status/needswork, status/unknown]
 ---

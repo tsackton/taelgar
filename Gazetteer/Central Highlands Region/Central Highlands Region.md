@@ -1,9 +1,6 @@
 ---
-tags:
-  - place
-  - status/draft
-displayDefaults:  
-  definitiveArticle: ""
+tags: [place, status/draft, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 name: Central Highlands Region
 typeOf: region
 partOf: Taelgar

@@ -1,11 +1,9 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - place
-  - status/needswork
-campaignInfo: 
+tags: [place, status/needswork, status/unknown]
+campaignInfo:
 name: Cymea
-typeOf: realm 
+typeOf: realm
 partOf: Western Green Sea Region
 ---
 # Cymea

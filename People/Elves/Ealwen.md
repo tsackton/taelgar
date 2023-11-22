@@ -1,19 +1,13 @@
 ---
-tags:
-  - status/draft
-  - person
-  - dufr/met
-  - dufr/minor
+tags: [status/draft, person, dufr/met, dufr/minor, status/unknown]
 campaignInfo:
-  - campaign: DuFr
-    date: 1748-01-16
-    type: met
+- {campaign: DuFr, date: 1748-01-16, type: met}
 name: Ealwen
 pronunciation: EY-ahl-wen
-born: 1712 #start of leya for 37 ka
+born: 1712
 ka: 37
 species: elf
-ancestry: 
+ancestry:
 gender: female
 whereabouts: Erelion
 ---

@@ -1,13 +1,10 @@
 ---
-tags:
-  - place
-  - status/uptodate
-campaignInfo: 
+tags: [place, status/uptodate, status/unknown]
+campaignInfo:
 name: Vermillion Isles
 typeOf: archipelago
 partOf: ~Eastern Islands~
-aliases:
-  - Chasoka
+aliases: [Chasoka]
 ---
 # The Vermillion Isles
 >[!info]+ Information

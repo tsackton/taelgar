@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 campaignInfo: []
 name: Rinburg
 typeOf: town

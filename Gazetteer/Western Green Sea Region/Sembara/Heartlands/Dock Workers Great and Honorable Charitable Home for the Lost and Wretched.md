@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 campaignInfo: []
 name: Dock Workers Great and Honorable Charitable Home for the Lost and Wretched
 partOf: Embry

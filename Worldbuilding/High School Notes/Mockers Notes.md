@@ -1,4 +1,6 @@
-The Mockers, as you know them, are an organization based in the City of Chardon, with some influence in the surrounding country. They are a thieives Guild, but one with a fair amount of power, seeing as Chardon is a large and profitable city. The Mockers tend towards theivery, not likely to get too invovled in the more questionable crimes, such as assassination. They do run protection rackets however. You have tended to help more talented straight thieves with your magic, especially things like Daze. You also have taught a few complete novies
+---
+tags: [status/unknown]
+---
 
 The Mockers:
 

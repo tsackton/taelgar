@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 typeOf: plane
 partOf: Divine Realms
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [place, status/notes]
+tags: [place, status/notes, status/unknown]
 name: Leviathan Inn
 typeOf: inn
 partOf: Hamri

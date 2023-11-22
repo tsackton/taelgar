@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.20
-tags: [religion/fivesiblings, status/docreview]
-displayDefaults: { definitiveArticle: "the", affiliationTypeOf: ["realm"]}
+tags: [religion/fivesiblings, status/docreview, status/unknown]
+displayDefaults:
+  definitiveArticle: the
+  affiliationTypeOf: [realm]
 campaignInfo: []
 affiliations: [Dunmari]
 typeOf: religion

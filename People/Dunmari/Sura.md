@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [status/uptodate, person, dufr/met, dufr/major, testcase]
+tags: [status/uptodate, person, dufr/met, dufr/major, testcase, status/unknown]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-26, type: scryed}
 name: Nayan Sura
@@ -14,11 +14,11 @@ whereabouts:
 - {type: home, end: 1740, location: 'Darba, Western Dunmar'}
 - {type: home, start: 1735, end: 1737, location: Lakan Monastery}
 - {type: away, start: 1740, end: 1748-06-08, location: Mirror of Soul Trapping}
-- {type: away, start: 1748-06-08, end: 1748-07-22, location: 'Karawa'}
-- {type: away, start: 1748-07-22, end: 1748-12-14, location: 'Central Dunmar'} #start is approx
-- {type: away, start: 1748-12-14, end: 1748-12-22, location: 'Tokra'}
-- {type: away, start: 1748-12-22, end: 1748-12-26, location: 'plains south of Tokra'}
-- {type: away, start: 1748-12-26, end: , location: 'plains south of Tokra'}
+- {type: away, start: 1748-06-08, end: 1748-07-22, location: Karawa}
+- {type: away, start: 1748-07-22, end: 1748-12-14, location: Central Dunmar}
+- {type: away, start: 1748-12-14, end: 1748-12-22, location: Tokra}
+- {type: away, start: 1748-12-22, end: 1748-12-26, location: plains south of Tokra}
+- {type: away, start: 1748-12-26, end: !!null '', location: plains south of Tokra}
 ---
 # Nayan Sura
 >[!info]+ Biographical Info

@@ -1,9 +1,9 @@
 ---
-tags: [event-source]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: happened in, endStatus: "Happened in:" }
+tags: [event-source, status/unknown]
+displayDefaults: {startStatus: created, startPrefix: created, endPrefix: happened in, endStatus: 'Happened in:'}
 campaignInfo: []
 name: First Plague
-aliases: 
+aliases:
 DR: 1059
 ---
 # The First Plague

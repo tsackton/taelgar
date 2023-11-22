@@ -1,18 +1,18 @@
 ---
 headerVersion: 2023.11.20
-tags: [item/magical, testcase]
+tags: [item/magical, testcase, status/unknown]
 rarity: unique
-campaignInfo: [{ campaign: DuFr, type: destroyed, date: 1748-12-25}]
+campaignInfo:
+- {campaign: DuFr, type: destroyed, date: 1748-12-25}
 created: 1000
-#creation date is approx
 destroyed: 1748-12-25
 typeOf: scepter
 whereabouts:
 - {type: home, end: 1059, location: Apollyon}
-- {type: home, start: 1552, end: 1746, location: Kharsan }
+- {type: home, start: 1552, end: 1746, location: Kharsan}
 - {type: home, location: Fraternity of the Empty Moon, start: 1747, end: 1747-12-11}
-- {type: home, location: Agata, start: 1747-12-11, end: 1748-05-29 }
-- {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24 }
+- {type: home, location: Agata, start: 1747-12-11, end: 1748-05-29}
+- {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}
 - {type: away, location: Vetta, start: 1748-12-24, end: 1748-12-25}
 ---
 # The Scepter of Command

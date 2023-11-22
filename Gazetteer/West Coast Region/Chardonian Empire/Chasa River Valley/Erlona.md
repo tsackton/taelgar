@@ -1,6 +1,5 @@
 ---
-tags:
-  - place
+tags: [place, status/unknown]
 name: Erlona
 typeOf: city
 partOf: Chasa River Valley

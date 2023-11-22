@@ -1,5 +1,5 @@
 ---
-tags: [clee/unsorted, person/ruler, person, dufr/unaware]
+tags: [clee/unsorted, person/ruler, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Arryn III
@@ -8,7 +8,9 @@ species: human
 ancestry: Sembaran
 gender: male
 reignStart: 1745
-leaderOf: [ { place: Sembara }, {place: Tyrwingha}]
+leaderOf:
+- {place: Sembara}
+- {place: Tyrwingha}
 affiliations: [House of Lils]
 ---
 # Arryn III

@@ -1,13 +1,10 @@
 ---
-tags:
-  - pc/companion
-  - person
-  - status/notes
+tags: [pc/companion, person, status/notes, status/unknown]
 name: Baxter
-born: 
+born:
 species: axebeak
-ancestry: 
-gender: 
+ancestry:
+gender:
 player: Dave Schwartz
 affiliations:
 ---

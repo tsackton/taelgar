@@ -1,4 +1,6 @@
-The scroll, recovered from a chest with the vial of sentient water and a silver amulet of a strange oceanic design taken by Ryu, is made of high quality vellum. The writing is in a scrawled, uneven hand, in black ink, and it seems to have been added to occasionally. 
+---
+tags: [status/unknown]
+---
 
 Although it takes some time, Wazir eventually deciphers the coded text, which appears to be some kind of journal of experiments performed, an attempt at some kind of ritual. The full text is reproduced below. 
 

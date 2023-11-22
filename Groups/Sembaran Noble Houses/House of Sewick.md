@@ -1,6 +1,6 @@
 ---
-tags: [organization]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: ended }
+tags: [organization, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: ended}
 campaignInfo: []
 name: House of Sewick
 typeOf: family

@@ -1,6 +1,6 @@
 ---
-tags:  [item]
-campaignInfo: 
+tags: [item, status/unknown]
+campaignInfo:
 owner: Kenzo
 mundane: true
 typeOf: object de art

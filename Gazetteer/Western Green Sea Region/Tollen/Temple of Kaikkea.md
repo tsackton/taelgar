@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: {partOf: "<article> <typeof> of <subtypeof> in <loc>"}
+tags: [place, status/unknown]
+displayDefaults: {partOf: <article> <typeof> of <subtypeof> in <loc>}
 campaignInfo: []
 name: Temple of Kaikkea
 typeOf: temple

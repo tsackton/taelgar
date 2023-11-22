@@ -1,6 +1,6 @@
 ---
-tags: [place]
-displayDefaults: { definitiveArticle: }
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: !!null ''}
 campaignInfo: []
 name: The Thirsty Scholar
 typeOf: inn

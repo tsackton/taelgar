@@ -1,4 +1,6 @@
-#### Session 8
+---
+tags: [status/unknown]
+---
 
 **(Thursday, September 3rd, 2020; in Taelgar, mid-morning April 12th to mid-afternoon April 12th)**
 

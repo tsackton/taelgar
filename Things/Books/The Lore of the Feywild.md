@@ -1,5 +1,5 @@
 ---
-tags: [item/book]
+tags: [item/book, status/unknown]
 typeOf: book
 ---
 

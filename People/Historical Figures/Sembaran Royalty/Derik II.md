@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Derik II
@@ -10,7 +10,9 @@ ancestry: Sembaran
 gender: male
 title: King
 reignStart: 1462
-leaderOf: [{place: Sembara}, {place: Tyrwingha}]
+leaderOf:
+- {place: Sembara}
+- {place: Tyrwingha}
 died: 1496
 reignEnd: 1496
 ---

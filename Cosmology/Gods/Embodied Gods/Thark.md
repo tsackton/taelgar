@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [deity]
+tags: [deity, status/unknown]
 affiliations: [orcs]
 ---
 # Thank

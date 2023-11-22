@@ -1,5 +1,5 @@
 ---
-tags: [organization]
+tags: [organization, status/unknown]
 ---
 
 # The Lakan Mystai

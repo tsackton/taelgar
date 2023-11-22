@@ -1,9 +1,9 @@
 ---
-tags: [holiday]
+tags: [holiday, status/unknown]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Festival of the Bridge
-fc-date: {day: 03, month: 11}
+fc-date: {day: 3, month: 11}
 ---
 # Festival of the Bridge
 

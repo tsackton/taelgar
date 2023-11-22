@@ -1,5 +1,5 @@
 ---
-tags: [historical, dufr/background, person, dufr/aware]
+tags: [historical, dufr/background, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Akaston
@@ -10,7 +10,7 @@ gender: male
 title: Emperor
 died: 911
 whereabouts:
-- {type: home, start: "", end: '', location: 'Drankor, Drankorian Empire'}
+- {type: home, start: '', end: '', location: 'Drankor, Drankorian Empire'}
 ---
 # Emperor Akaston
 >[!info]+ Biographical Summary

@@ -1,4 +1,6 @@
-**Visions of the Shadow Hunter’s Mask in [[Eudomes' Mirror]]**
+---
+tags: [status/unknown]
+---
 
 The image in the mirror shows a room, underground, light only by candle light and two torches burning on the wall. A man is tied to a chair – the same face that the shadow hunter you killed had after he died. But the bonds look loose, and the man is not resisting. He seems to be staring off into space, unaware of his surroundings.
 

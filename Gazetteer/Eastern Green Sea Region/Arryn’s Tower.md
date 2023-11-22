@@ -1,10 +1,8 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - place
-  - status/needswork
-displayDefaults: { definitiveArticle: ""}
-campaignInfo: 
+tags: [place, status/needswork, status/unknown]
+displayDefaults: {definitiveArticle: ''}
+campaignInfo:
 name: Arryn’s Tower
 typeOf: tower
 partOf: ~Eastern Islands~

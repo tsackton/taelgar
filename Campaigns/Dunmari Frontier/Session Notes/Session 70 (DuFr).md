@@ -1,4 +1,6 @@
-# Session 70
+---
+tags: [status/unknown]
+---
 *in which the party meets the [[Orcs]] of [[Xurkhaz]]*
 
 **In the real world:** Sunday, May 7, 2023

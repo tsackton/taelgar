@@ -1,5 +1,5 @@
 ---
-tags: [event]
+tags: [event, status/unknown]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Zombie Plague in Cleenseau

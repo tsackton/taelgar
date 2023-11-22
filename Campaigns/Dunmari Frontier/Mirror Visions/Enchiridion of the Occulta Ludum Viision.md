@@ -1,4 +1,6 @@
-**Visions of the Enchiridion of the Occulta Ludum in [[Eudomes' Mirror]]**
+---
+tags: [status/unknown]
+---
 
 You hold the small book to the mirror, and for a moment the image fades to black. Then you see, appearing in the mirror, an image of the face of a young woman, maybe 17 or 18. She has blonde hair tied back, gray brown eyes, tanned skin, and is wearing elegant robes. She seems to be sitting at a desk, looking down, studying this book. The room is pretty spare and plain, and looks fair less elegant than the wealth implied by her clothes. 
 

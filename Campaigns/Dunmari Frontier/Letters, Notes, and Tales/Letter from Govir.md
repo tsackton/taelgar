@@ -1,4 +1,6 @@
-a letter [[Riswynn]] received from [[Govir]] in [[Tokra]], in November 1748
+---
+tags: [status/unknown]
+---
   
 Dear friends,
 

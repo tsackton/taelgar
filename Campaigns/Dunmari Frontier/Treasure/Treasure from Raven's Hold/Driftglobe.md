@@ -1,4 +1,6 @@
-### Driftglobe
+---
+tags: [status/unknown]
+---
 
 A magical crystal that floats and creates light. 
 

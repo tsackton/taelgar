@@ -1,4 +1,6 @@
-Information - Kenku Scouts 
+---
+tags: [status/unknown]
+---
 
 Pandar- 
 

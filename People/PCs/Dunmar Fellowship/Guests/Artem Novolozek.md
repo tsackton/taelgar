@@ -1,17 +1,17 @@
 ---
 headerVersion: 2023.11.20
-tags: [pc, person, pc/guest]
-campaignInfo: 
+tags: [pc, person, pc/guest, status/unknown]
+campaignInfo:
 name: Artem Novolozek
-born: 
+born:
 species: human
-ancestry: 
+ancestry:
 gender: male
 player: Mike Sackton
 aliases: [Artem]
 whereabouts:
-- { type: home, end: 1748-10-06, location: Ursk }
-- { type: away, start: 1748-10-06, location: }
+- {type: home, end: 1748-10-06, location: Ursk}
+- {type: away, start: 1748-10-06, location: !!null ''}
 ---
 # Artem Novolozek
 >[!info]+ Biographical Info

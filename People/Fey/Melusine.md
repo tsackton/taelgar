@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, status/uptodate, dufr/met_one, person]
+tags: [dufr/background, status/uptodate, dufr/met_one, person, status/unknown]
 campaignInfo: []
 name: Melusine
 born:
@@ -7,7 +7,7 @@ species: fey
 subspecies: nymph
 gender: female
 whereabouts:
-- {type: home, start: , end: '', location: Amberglow}
+- {type: home, start: !!null '', end: '', location: Amberglow}
 ---
 # Melusine
 >[!info]+ Biographical Info

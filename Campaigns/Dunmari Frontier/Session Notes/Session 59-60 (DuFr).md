@@ -1,4 +1,6 @@
-# Seeker Solo Adventure
+---
+tags: [status/unknown]
+---
 
 ## Timeline
 

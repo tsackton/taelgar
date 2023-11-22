@@ -1,4 +1,6 @@
-### Taelgar Guide 
+---
+tags: [status/unknown]
+---
 History, Religion, Politics, Magic, Races, Geography,  and General Information 
 103 Fourth Age 
 

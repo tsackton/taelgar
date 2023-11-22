@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [person, dufr/met, dufr/minor]
+tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-17, type: met}
@@ -11,9 +11,9 @@ ancestry: Tollender
 gender: female
 aliases: [Nika]
 family: Hyne
-whereabouts: 
-- { type: home, location: Fiskurth}
-- { type: away, start: 1748-12-17, end: 1748-12-17, location: The Windward Sail}
+whereabouts:
+- {type: home, location: Fiskurth}
+- {type: away, start: 1748-12-17, end: 1748-12-17, location: The Windward Sail}
 ---
 # Nika Hyne
 >[!info]+ Biographical Info

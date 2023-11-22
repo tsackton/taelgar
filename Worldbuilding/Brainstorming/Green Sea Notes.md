@@ -1,4 +1,6 @@
-# [[Green Sea]] Notes
+---
+tags: [status/unknown]
+---
 
 Putting some notes on [[Green Sea]] ideas here.
 

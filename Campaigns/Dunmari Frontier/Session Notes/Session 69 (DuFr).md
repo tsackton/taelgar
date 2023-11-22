@@ -1,4 +1,6 @@
-# Session 69
+---
+tags: [status/unknown]
+---
 *in which the party defeats the shadow hunters, and heads east
 
 **In the real world:** Monday, April 11th, 2023

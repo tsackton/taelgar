@@ -1,1 +1,3 @@
-The hills in north-central Vostok west of [[Lake Pekul]]
+---
+tags: [status/unknown]
+---

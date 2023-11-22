@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [mc/met, person, dufr/unaware]
+tags: [mc/met, person, dufr/unaware, status/unknown]
 name: Reliah
 born:
 species: human

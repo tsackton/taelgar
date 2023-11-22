@@ -1,6 +1,6 @@
 ---
-tags: [organization]
-displayDefaults: {partOf: "<article> <typeof> in <loc:3>", secondaryInfo: ""}
+tags: [organization, status/unknown]
+displayDefaults: {partOf: '<article> <typeof> in <loc:3>', secondaryInfo: ''}
 campaignInfo: []
 aliases: [Sembaran Army, Military of Sembara]
 name: Sembaran Army

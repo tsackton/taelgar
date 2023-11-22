@@ -1,38 +1,19 @@
 ---
-tags:
-  - person
-  - dufr/met
-  - dufr/minor
-  - grli/major
-  - grli/met
-displayDefaults:
-  startStatus: born
-  startPrefix: b.
-  endPrefix: d.
-  endStatus: died
+tags: [person, dufr/met, dufr/minor, grli/major, grli/met, status/unknown]
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-- { campaign: DuFr, date: 1748-08-26, type: met }
-- { campaign: GrLi, date: 1747-09-01, type: met }
+- {campaign: DuFr, date: 1748-08-26, type: met}
+- {campaign: GrLi, date: 1747-09-01, type: met}
 name: Lyra
 born: 1705
 species: human
 ancestry: Chardonian
 gender: female
-affiliations:
-  - Great Library
+affiliations: [Great Library]
 whereabouts:
-  - type: home
-    start: ""
-    end: ""
-    location: Darba, Western Dunmar
-  - type: home
-    start: 1705-01-02
-    end: ""
-    location: Voltara, Chardonian Empire
-  - type: away
-    start: 1748-08-26
-    end: ""
-    location: Chardon, Chardonian Empire
+- {type: home, start: '', end: '', location: 'Darba, Western Dunmar'}
+- {type: home, start: 1705-01-02, end: '', location: 'Voltara, Chardonian Empire'}
+- {type: away, start: 1748-08-26, end: '', location: 'Chardon, Chardonian Empire'}
 title: Archivist
 ---
 # Archivist Lyra

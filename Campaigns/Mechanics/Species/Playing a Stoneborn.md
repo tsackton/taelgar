@@ -1,4 +1,6 @@
-# Creating a Stoneborn character
+---
+tags: [status/unknown]
+---
 
 The [[Stoneborn]] in Taelgar are a reclusive species. They tend to live in isolated communities in extreme environments, especially high in the mountains, although they are not unheard of in human and dwarven settlements. They are also noted in the world of Taelgar as master artisans, skilled in many trades. It is not uncommon for individual [[Stoneborn]] to spend decades, or even a century, honing their craft. 
 

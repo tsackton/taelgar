@@ -1,6 +1,6 @@
 ---
-tags: [organization/army]
-displayDefaults: {partOf: "part of <loc:1>", secondaryInfo: ""}
+tags: [organization/army, status/unknown]
+displayDefaults: {partOf: 'part of <loc:1>', secondaryInfo: ''}
 campaignInfo: []
 name: Army of Mostreve
 partOf: Sembaran Army

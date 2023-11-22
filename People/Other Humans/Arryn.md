@@ -1,5 +1,5 @@
 ---
-tags: [dufr/met_one, person, dufr/minor]
+tags: [dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Arryn
@@ -8,8 +8,8 @@ species: human
 ancestry:
 gender: male
 whereabouts:
-- {type: home, start: '', end: 1730, location: 'Tollen'} #check date, appox
-- {type: away, start: '', end: '', location: 'Eastern Green Sea'}
+- {type: home, start: '', end: 1730, location: Tollen}
+- {type: away, start: '', end: '', location: Eastern Green Sea}
 ---
 # Arryn
 >[!info]+ Biographical Summary

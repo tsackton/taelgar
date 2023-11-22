@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1719-11-28, type: met}
 name: Quetin
@@ -9,8 +9,8 @@ ancestry: Sembaran
 gender: male
 affiliations: [Army of the West]
 whereabouts:
-- {type: home, location: Dunfry }
-- {type: away, start: 1719-11-28, end: 1719-11-30, location: Cleenseau }
+- {type: home, location: Dunfry}
+- {type: away, start: 1719-11-28, end: 1719-11-30, location: Cleenseau}
 ---
 # Quetin
 >[!info]+ Biographical Info

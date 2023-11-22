@@ -1,12 +1,9 @@
 ---
 name: Erdhin
 title: Caretaker
-tags:
-  - person
-  - durfr/met
-  - status/stub
+tags: [person, durfr/met, status/stub, status/unknown]
 species: elf
-ka: 
+ka:
 whereabouts: Erelion
 gender: male
 pronunciation: erd-HEEN

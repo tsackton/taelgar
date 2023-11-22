@@ -1,9 +1,7 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - place
-  - status/stub
-campaignInfo: 
+tags: [place, status/stub, status/unknown]
+campaignInfo:
 name: Yeraad
 typeOf: river
 partOf: Chardonian Empire

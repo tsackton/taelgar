@@ -1,3 +1,5 @@
-In [[Khatridun]] one of the oldest Dwarven cities in the world during the Drankorian Era
+---
+tags: [status/unknown]
+---
 
 Basically destroyed in Great War

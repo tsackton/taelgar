@@ -1,14 +1,13 @@
 ---
 headerVersion: 2023.11.20
-tags: [item/book]
+tags: [item/book, status/unknown]
 typeOf: book
-displayDefaults: { startStatus: "written and drawn"}
+displayDefaults: {startStatus: written and drawn}
 rarity: unique
 created: 1748
-#check session notes for exact date
-whereabouts: 
-- { type: home, location: Seeker }
-- { type: home, location: Caelynn}
+whereabouts:
+- {type: home, location: Seeker}
+- {type: home, location: Caelynn}
 ---
 # The Legendary Gates of Kenzo
 >[!info]+ Information

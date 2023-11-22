@@ -1,12 +1,7 @@
 ---
-tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo:
 name: Kharsan
 typeOf: city
 partOf: Garamjala Desert

@@ -1,4 +1,6 @@
-# Session 75
+---
+tags: [status/unknown]
+---
 *in which the party defeats a demon and destroys the scepter*
 
 **In the real world:** July 28, 2023

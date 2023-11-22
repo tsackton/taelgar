@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-30, type: met}

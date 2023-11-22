@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/needswork]
-displayDefaults: { definitiveArticle: ""}
+tags: [place, status/needswork, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 partOf: Amberglow
 typeOf: grove
 ---

@@ -1,4 +1,6 @@
-### Shield of the Brawnanvil Clan
+---
+tags: [status/unknown]
+---
 
 An elaborate decorative shield, not useful in battle. It is made of polished steel, with elaborate decorations of scenes from Dwarven life adorning it.
 

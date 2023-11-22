@@ -1,7 +1,7 @@
 ---
-tags: [place, status/draft]
-displayDefaults: { partOf: "A <typeof> in Taelgar"}
-campaignInfo: 
+tags: [place, status/draft, status/unknown]
+displayDefaults: {partOf: A <typeof> in Taelgar}
+campaignInfo:
 name: Green Sea
 typeOf: sea
 partOf: Taelgar

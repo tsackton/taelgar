@@ -1,12 +1,7 @@
 ---
-tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo:
 name: Plaguelands
 typeOf: region
 partOf: Desolation of Cha'mutte

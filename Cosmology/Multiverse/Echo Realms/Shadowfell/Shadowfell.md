@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
-tags: [status/notes, place]
-displayDefaults: {definitiveArticle: "the"}
+tags: [status/notes, place, status/unknown]
+displayDefaults: {definitiveArticle: the}
 partOf: Echo Realms
 typeOf: plane
 ---

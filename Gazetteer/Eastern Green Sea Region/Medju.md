@@ -1,5 +1,5 @@
 ---
-tags: [ place,  status/stub ]
+tags: [place, status/stub, status/unknown]
 name: Medju
 typeOf: city
 partOf: Eastern Green Sea Region

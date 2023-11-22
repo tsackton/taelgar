@@ -1,4 +1,6 @@
-# Creating a human
+---
+tags: [status/unknown]
+---
 
 [[Humans]] are the most common species in Taelgar, far outnumbering any other sentient beings. Humans are also exceptionally diverse -- unlike many other species in Taelgar, they live across the world, inhabiting all climates, with a bewildering variety of languages and cultures.
 

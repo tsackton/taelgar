@@ -1,6 +1,4 @@
 ---
-tags:
-  - organization
-  - status/stub
+tags: [organization, status/stub, status/unknown]
 typeOf: family
 ---

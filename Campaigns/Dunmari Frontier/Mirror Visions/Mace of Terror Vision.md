@@ -1,4 +1,6 @@
-**Vision of the Mace of Terror in [[Eudomes' Mirror]]**
+---
+tags: [status/unknown]
+---
 
 As you hold up the mace to the mirror, the first thing you see is the middle of a massive war. 
 

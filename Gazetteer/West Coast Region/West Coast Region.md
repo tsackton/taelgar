@@ -1,6 +1,5 @@
 ---
-tags:
-  - place
+tags: [place, status/unknown]
 name: West Coast Region
 typeOf: region
 partOf: Taelgar

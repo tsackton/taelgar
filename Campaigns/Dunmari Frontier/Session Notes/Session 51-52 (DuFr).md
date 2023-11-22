@@ -1,4 +1,6 @@
-# Delwath Solo Adventure
+---
+tags: [status/unknown]
+---
 
 ## Timeline
 **Sept 30**: Arrive in northern forests, meet hunting party of Deno'qai of the [[Ko'zula]] tribe, spend the night in their camp. 

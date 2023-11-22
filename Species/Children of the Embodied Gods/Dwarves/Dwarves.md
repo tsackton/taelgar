@@ -1,5 +1,5 @@
 ---
-tags: [species, status/docreview]
+tags: [species, status/docreview, status/unknown]
 name: Dwarves
 aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
 ---

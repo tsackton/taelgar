@@ -1,13 +1,8 @@
 ---
-tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-campaignInfo: 
+tags: [place, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+campaignInfo:
 name: Suhaya
-placeType: 
+placeType:
 partOf: Mawar Confdederacy
 ---

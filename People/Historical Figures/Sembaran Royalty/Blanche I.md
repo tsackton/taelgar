@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler]
+tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Blanche I
@@ -11,12 +11,12 @@ gender: female
 reignStart: 1561-02-13
 died: 1567
 title: Queen
-leaderOf: 
-- {place: Zovcka, title: High Queen, end: 1563 }
-- {place: Sembara, title: High Queen }
-- {place: Ardlas, title: High Queen }
-- {place: Lavnoch, title: High Queen }
-- {place: Breva, title: High Queen }
+leaderOf:
+- {place: Zovcka, title: High Queen, end: 1563}
+- {place: Sembara, title: High Queen}
+- {place: Ardlas, title: High Queen}
+- {place: Lavnoch, title: High Queen}
+- {place: Breva, title: High Queen}
 affiliations: [House of Sewick]
 ---
 # Queen Blanche I

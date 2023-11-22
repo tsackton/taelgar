@@ -1,4 +1,6 @@
-
+---
+tags: [status/unknown]
+---
 FEAT DESCRIPTIONS
 Here are the descriptions of Feats mentioned in
 this document’s Backgrounds. The Feats are

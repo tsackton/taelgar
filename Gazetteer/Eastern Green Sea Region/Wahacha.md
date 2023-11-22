@@ -1,8 +1,6 @@
 ---
-tags:
-  - place
-  - status/uptodate
-campaignInfo: 
+tags: [place, status/uptodate, status/unknown]
+campaignInfo:
 name: Wahacha
 typeOf: town
 partOf: Vermillion Isles

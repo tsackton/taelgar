@@ -1,5 +1,5 @@
 ---
-tags: [place, event-source]
+tags: [place, event-source, status/unknown]
 typeOf: university
 partOf: Chardon
 timelineDescriptor: University of Chardon

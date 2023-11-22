@@ -1,4 +1,6 @@
-**Visions of the [[Soul Lantern]] in [[Eudomes' Mirror]]
+---
+tags: [status/unknown]
+---
 
 The mirror fades to black, and then clears, showing the inside of [[Agata]]’s hut. Kneeling on the ground are two [[Orcs]], bruised and battered and stripped to rags. [[Agata]] is speaking, probably yelling, at them, and then [[Samerki]] steps in, his giant spiked club over his shoulder, and swings and bashes their heads in. As the [[Orcs]] die, [[Agata]] chants briefly.
 

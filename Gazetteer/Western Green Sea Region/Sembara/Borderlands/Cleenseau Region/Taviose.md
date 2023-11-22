@@ -1,5 +1,5 @@
 ---
-tags: [place/village]
+tags: [place/village, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Taviose

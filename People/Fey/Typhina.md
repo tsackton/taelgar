@@ -1,14 +1,14 @@
 ---
-tags: [dufr/background, person, dufr/aware]
-displayDefaults: { endStatus: "killed by [[Agata]]"}
+tags: [dufr/background, person, dufr/aware, status/unknown]
+displayDefaults: {endStatus: 'killed by [[Agata]]'}
 campaignInfo: []
 name: Typhina
-died: 0001     
+died: 1
 species: fey
 ancestry:
 gender: female
 whereabouts:
-- {type: home, location: Amberglow }
+- {type: home, location: Amberglow}
 ---
 # Typhina
 >[!info]+ Biographical Info

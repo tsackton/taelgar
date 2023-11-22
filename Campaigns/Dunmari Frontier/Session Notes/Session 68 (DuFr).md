@@ -1,4 +1,6 @@
-# Session 68
+---
+tags: [status/unknown]
+---
 *in which the party repairs the skyship [[Vindristjarna]]
 
 **In the real world:** Thursday, March 30th, 2023

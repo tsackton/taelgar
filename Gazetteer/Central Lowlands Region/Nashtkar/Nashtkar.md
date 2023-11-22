@@ -1,13 +1,7 @@
 ---
-tags:
-  - place
-displayDefaults:
-  startStatus: founded
-  startPrefix: founded
-  endPrefix: destroyed
-  endStatus: destroyed
-  definitiveArticle: ""
-campaignInfo: 
+tags: [place, status/unknown]
+displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ''}
+campaignInfo:
 name: Nashtkar
 typeOf: region
 partOf: Desolation of Cha'mutte

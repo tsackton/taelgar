@@ -1,6 +1,6 @@
 ---
-tags: [place, event-source, place/building]
-displayDefaults: {partOf: "A <subtypeof> in <loc>"}
+tags: [place, event-source, place/building, status/unknown]
+displayDefaults: {partOf: A <subtypeof> in <loc>}
 campaignInfo: []
 name:
 typeOf: inn

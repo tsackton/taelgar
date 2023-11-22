@@ -1,6 +1,5 @@
 ---
-tags:
-- '#event-source'
+tags: ['#event-source', status/unknown]
 ---
 # The Chronicles of the Mawar
 

@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/unknown]
 name: Metium
 typeOf: city
 partOf: Chasa River Valley

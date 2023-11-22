@@ -1,5 +1,5 @@
 ---
-tags: [ place ]
+tags: [place, status/unknown]
 name: Hamri
 typeOf: town
 partOf: Mawar Confederacy

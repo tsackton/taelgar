@@ -1,5 +1,5 @@
 ---
-tags: [pc, pc/cleenseau, person]
+tags: [pc, pc/cleenseau, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died, primaryOrgType: party}
 campaignInfo: []
 campaign: Cleenseau
@@ -12,7 +12,7 @@ player: Dan Walters
 aliases: [Robin]
 affiliations: [Heroes of Cleenseau]
 whereabouts:
-- {type: home, end: 1719, location: Abenfyrd }
+- {type: home, end: 1719, location: Abenfyrd}
 - {type: away, start: 1719-10-19, end: 1720-01-10, location: Cleenseau}
 ---
 # Robin of Abenfyrd

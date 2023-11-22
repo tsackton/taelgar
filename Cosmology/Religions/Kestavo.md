@@ -1,5 +1,5 @@
 ---
-tags: [religion/kestavo, status/docreview]
+tags: [religion/kestavo, status/docreview, status/unknown]
 ---
 
 # The *kestavo*

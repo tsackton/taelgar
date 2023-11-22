@@ -1,26 +1,15 @@
 ---
-tags:
-  - dufr/met_one
-  - person
-  - dufr/minor
-  - event-source
-  - status/uptodate
-displayDefaults:
-  secondaryInfo: <subspecies> (<species>), <pronouns>
-campaignInfo: 
+tags: [dufr/met_one, person, dufr/minor, event-source, status/uptodate, status/unknown]
+displayDefaults: {secondaryInfo: '<subspecies> (<species>), <pronouns>'}
+campaignInfo:
 name: Motua
-born: 
+born:
 species: celestial
 subspecies: gidari
 gender: nonbinary
 whereabouts:
-  - type: home
-    end: 1
-    location: Land of the Dead
-  - type: away
-    start: 1747
-    end: 1748-12
-    location: Azta Lekua
+- {type: home, end: 1, location: Land of the Dead}
+- {type: away, start: 1747, end: 1748-12, location: Azta Lekua}
 pronunciation: moh-TOO-ah
 ---
 # Motua

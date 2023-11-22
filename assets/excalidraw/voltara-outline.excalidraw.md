@@ -1,5 +1,5 @@
 ---
-tags: [excalidraw]
+tags: [excalidraw, status/unknown]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: voltara-outline.excalidraw

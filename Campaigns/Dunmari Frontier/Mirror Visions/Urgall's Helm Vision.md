@@ -1,4 +1,6 @@
-**Vision of Urgall's Helm in the Mirror of Souling Trapping**
+---
+tags: [status/unknown]
+---
 
 You hold the helm up to the mirror, and the scene fades for a moment. 
 

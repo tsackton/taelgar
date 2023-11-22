@@ -1,10 +1,10 @@
 ---
-tags: [place]
-displayDefaults: { definitiveArticle: "" }
+tags: [place, status/unknown]
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: The Green Leaf
 ancestry: halfling
-typeOf: inn 
+typeOf: inn
 partOf: Darba
 ---
 # The Green Leaf

@@ -1,4 +1,6 @@
-### Portable Hole
+---
+tags: [status/unknown]
+---
 
 A gift from [[Basu]], in exchange for helping clear the excess extraplanar energy from the [[Elven Arborea Workshop]] beneath the [[Lakan Monastery]], permeated with the essence of [[Arborea]]. 
 

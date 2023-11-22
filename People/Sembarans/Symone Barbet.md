@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 name: Symone Barbet
 born: 1683-11-15
 species: human

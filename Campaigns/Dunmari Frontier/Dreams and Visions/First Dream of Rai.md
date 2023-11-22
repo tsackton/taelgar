@@ -1,4 +1,6 @@
-## First Dream of [[Rai]]
+---
+tags: [status/unknown]
+---
 (shared by [[Alayah]] and [[Kenzo]] in [[Session 50 (DuFr)]])
 
 ​​You are kneeling in the mountains, above a monastery, watching a massive dragon of shadow and fire fall. Your arm is so heavy, as the [[Jade]] that has covered your hand now spreads, creeping past your elbow, inexorably heading for your shoulder and eventually the rest of your body. You do not know how much longer you have.

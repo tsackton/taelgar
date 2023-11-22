@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/minor]
+tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Fallthra Hardstone
@@ -8,7 +8,7 @@ species: dwarf
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Tokra'}
+- {type: home, start: '', end: '', location: Tokra}
 pronunciation: FAHL-thrah
 ---
 # Fallthra Hardstone

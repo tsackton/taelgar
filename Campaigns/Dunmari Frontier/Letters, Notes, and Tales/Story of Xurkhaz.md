@@ -1,4 +1,6 @@
-Loremaster [[Azogar]] tells this history of [[Xurkhaz]]. He speaks with a clear but wavering voice, and he says:
+---
+tags: [status/unknown]
+---
 
 "Our history is no secret. You have not heard of us because we do not wish to be known widely, but it is not hidden. It was eight generations ago, when [[Uzgash]], hero and warrior traveling in these lands, recovered what was ours: the rainbow cloak. For years, generations, we had wandered, for we could not build, could not settle. It wasn't safe - our chained brethren learned of our hidden places, and hunted us. 
 

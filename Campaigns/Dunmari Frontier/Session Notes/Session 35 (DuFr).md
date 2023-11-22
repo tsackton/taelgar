@@ -1,4 +1,6 @@
-#### Session 35
+---
+tags: [status/unknown]
+---
 
 **(Sunday, Dec 6th, 2021; in Taelgar, July 1st)
 

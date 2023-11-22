@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [person, dufr/minor]
+tags: [person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1749-01-05, type: met}
@@ -12,7 +12,7 @@ gender: female
 title: Laivan
 whereabouts:
 - {type: home, location: 'Pikkua, Skaerhem'}
-- {type: home, start: 1743, end: '', location: 'Tollen'}
+- {type: home, start: 1743, end: '', location: Tollen}
 ---
 # Laivan Iskra
 >[!info]+ Biographical Info

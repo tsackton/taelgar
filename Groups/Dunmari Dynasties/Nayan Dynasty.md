@@ -1,7 +1,5 @@
 ---
-tags:
-  - organization
-  - status/notes
+tags: [organization, status/notes, status/unknown]
 typeOf: family
 subTypeOf: dynasty
 name: Nayan dynasty

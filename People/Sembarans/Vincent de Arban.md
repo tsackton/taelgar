@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1719-11-07, type: met}
 name: Vincent de Arban
@@ -9,8 +9,8 @@ ancestry: Sembaran
 gender: male
 affiliations: [Garay Family]
 whereabouts:
-- {type: home, location: 'Embry'}
-- {type: away, start: 1719-11-07, end: 1719-11-22, location: 'Cleenseau'}
+- {type: home, location: Embry}
+- {type: away, start: 1719-11-07, end: 1719-11-22, location: Cleenseau}
 ---
 # Vincent De Arban
 >[!info]+ Biographical Info

@@ -1,7 +1,8 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware]
+tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: [{campaign: clee, date: 1720-01-03}]
+campaignInfo:
+- {campaign: clee, date: 1720-01-03}
 name: Brot Starsearcher
 born: 1579
 species: dwarf

@@ -1,8 +1,6 @@
 ---
-tags:
-  - place
-  - status/needswork
-campaignInfo: 
+tags: [place, status/needswork, status/unknown]
+campaignInfo:
 name: Ainumarya
 typeOf: forest
 partOf: Central Highlands Region

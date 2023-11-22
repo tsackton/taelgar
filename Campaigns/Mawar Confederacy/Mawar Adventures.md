@@ -1,4 +1,6 @@
-## Mawar Confederacy Adventures Collection
+---
+tags: [status/unknown]
+---
 
 Information about adventures set in the [[Mawakel Peninsula]], a sparsely populated land of rocky coasts and dense forests, north of Chardon. 
 

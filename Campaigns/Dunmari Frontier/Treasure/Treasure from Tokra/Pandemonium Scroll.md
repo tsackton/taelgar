@@ -1,4 +1,6 @@
-### Scroll of Pandemonium. 
+---
+tags: [status/unknown]
+---
 
 Can, according to [[Seeker]]’s identity spell, somehow “bring the plane of [[Pandemonium]] closer to Taelgar”. Taken from [[Fraternity of the Empty Moon]] lair. Runes wiggle and squirm when trying to look at them, and caused mild nausea and confusion.
 

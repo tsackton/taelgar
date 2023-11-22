@@ -1,4 +1,6 @@
-**copied directly, some bits already incorporated into sembara notes**
+---
+tags: [status/unknown]
+---
 
 Sembara: A Guide
 

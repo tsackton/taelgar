@@ -1,4 +1,6 @@
-This document is designed to capture notes about climate patterns in Taelgar.
+---
+tags: [status/unknown]
+---
 
 It makes heavy use of the [Köppen Climate Classification](https://www.mindat.org/climate.php)
 

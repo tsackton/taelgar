@@ -1,5 +1,5 @@
 ---
-tags: [place, '#event-source']
+tags: [place, '#event-source', status/unknown]
 campaignInfo: []
 name: Ruined Elven Workshop (near Tokra)
 typeOf: ruin

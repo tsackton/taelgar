@@ -1,4 +1,6 @@
-Trying to work out elven cycle of generations, as well as the mela and leya phases.
+---
+tags: [status/unknown]
+---
 
 Each ka is a period of 160 years, split into a mela and a leya phase. The children born during the mela phase of a particular ka are associated with that ka. 
 

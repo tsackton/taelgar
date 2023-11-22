@@ -1,5 +1,5 @@
 ---
-tags: [place, status/needswork]
+tags: [place, status/needswork, status/unknown]
 name: Forest of Nightmares
 typeOf: forest
 partOf: Ainumarya

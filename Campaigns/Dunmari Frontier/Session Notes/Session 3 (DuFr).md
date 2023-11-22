@@ -1,4 +1,6 @@
-# Session 3
+---
+tags: [status/unknown]
+---
 
 **(Thursday, July 2nd, 2020; in Taelgar, mid-morning March 25, to morning March 26)**
 

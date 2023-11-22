@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/fivesiblings]
+tags: [deity, religion/fivesiblings, status/unknown]
 ---
 
 # Sampa

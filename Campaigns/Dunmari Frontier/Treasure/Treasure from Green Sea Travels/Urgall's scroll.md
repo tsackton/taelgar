@@ -1,4 +1,6 @@
-[[Urgall the Black|Urgall]]'s notes read, in cipher:
+---
+tags: [status/unknown]
+---
 
 The words of Mashtu the Corruptor, who has given me power over the ocean, recorded here in secret least I forget my purpose. 
 

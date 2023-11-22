@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/met]
+tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Revaka
@@ -7,8 +7,8 @@ born:
 species: hobgoblin
 ancestry:
 gender: female
-whereabouts: 
-- { type: "away", start: , end: , location: Mirror of Soul Trapping } 
+whereabouts:
+- {type: away, start: !!null '', end: !!null '', location: Mirror of Soul Trapping}
 ---
 # Revaka
 >[!info]+ Biographical Summary

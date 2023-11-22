@@ -1,8 +1,6 @@
 ---
-tags:
-  - place
-  - status/stub
-campaignInfo: 
+tags: [place, status/stub, status/unknown]
+campaignInfo:
 name: Yemo'te
 typeOf: river
 partOf: Forest of Nightmares

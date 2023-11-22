@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/unaware]
+tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 campaignInfo: []
 name: Ysabel
 born: 1688
@@ -9,7 +9,7 @@ ancestry: Sembaran
 gender: female
 affiliations: [Lord's Guard of Cleenseau]
 whereabouts:
-- {type: home, location: Cleenseau }
+- {type: home, location: Cleenseau}
 ---
 # Ysabel
 >[!info]+ Biographical Info

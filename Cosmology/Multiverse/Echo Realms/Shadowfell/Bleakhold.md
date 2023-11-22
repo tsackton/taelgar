@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [status/notes, place/village]
+tags: [status/notes, place/village, status/unknown]
 partOf: Morkalan
 typeOf: village
 name: Bleakhold

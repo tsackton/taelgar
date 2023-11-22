@@ -1,12 +1,8 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - pc
-  - person
-  - pc/unsorted
-  - status/notes
+tags: [pc, person, pc/unsorted, status/notes, status/unknown]
 name: Izar
-born: 
+born:
 species: lizardfolk
 gender: enby
 player: Kiya Nicoll

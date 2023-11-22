@@ -1,5 +1,5 @@
 ---
-tags: [dufr/major, person, dufr/aware]
+tags: [dufr/major, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Servius
@@ -9,8 +9,8 @@ ancestry: Chardonian
 gender: male
 affiliations: [Society of the Open Scroll]
 whereabouts:
-- {type: home, start: 1689-01-02, end: '', location: 'Chardon'}
-- {type: away, start: 1748-11-23, end: '', location: 'Illoria'}
+- {type: home, start: 1689-01-02, end: '', location: Chardon}
+- {type: away, start: 1748-11-23, end: '', location: Illoria}
 ---
 # Servius
 >[!info]+ Biographical Summary

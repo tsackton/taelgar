@@ -1,11 +1,7 @@
 ---
-tags:
-  - place
-  - status/stub
-displayDefaults:
-  definitiveArticle: ""
-  partOf: <article> <ancestry> <typeof> on the <loc:10>
-campaignInfo: 
+tags: [place, status/stub, status/unknown]
+displayDefaults: {definitiveArticle: '', partOf: '<article> <ancestry> <typeof> on the <loc:10>'}
+campaignInfo:
 name: Lake Pekul
 typeOf: lake
 partOf: Kem

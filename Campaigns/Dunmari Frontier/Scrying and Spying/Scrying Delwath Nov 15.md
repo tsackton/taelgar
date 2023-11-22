@@ -1,4 +1,6 @@
-## Delwath Scrying Log
+---
+tags: [status/unknown]
+---
 
 **(Nov 11 - Nov 15)**
 

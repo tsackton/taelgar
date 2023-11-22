@@ -1,4 +1,6 @@
-# Creating a Halfling character
+---
+tags: [status/unknown]
+---
 
 Halflings in Taelgar are noted for their extreme wanderlust, uncanny ancestral memory that sometimes means they can remember people they've never met, and silent speech when they talk amongst themselves. Cheerful and friendly with outsiders, but private and protective of their kin and traditions, halfling traders, wanderers, and storytellers keep the world connected. 
 

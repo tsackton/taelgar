@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/check]
+tags: [place, status/check, status/unknown]
 partOf: Feywild
 typeOf: realm
 ---
