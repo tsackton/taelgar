@@ -7,13 +7,14 @@ name: Wes Strongbones
 born:
 species: halfling
 ancestry:
+affiliations: [Strongbones]
 gender: male
 leaderOf: [ { place: The Red Lily Inn, title: Proprietor, start: 0001} ]
 whereabouts: The Red Lily Inn
 ---
 # Wes Strongbones
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him
+> [[Halflings|halfling]], he/him of the [[Strongbones]]
 > `$=dv.view("_scripts/view/get_RegnalValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]] %%^End%%
