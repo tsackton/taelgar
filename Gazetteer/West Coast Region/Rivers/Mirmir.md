@@ -11,3 +11,4 @@ partOf: Mawakel Peninsula
 >[!info]+ Information
 > A river in the [[Mawakel Peninsula]], the [[West Coast Region]]
 
+%% [[Hamri]] port river) %%

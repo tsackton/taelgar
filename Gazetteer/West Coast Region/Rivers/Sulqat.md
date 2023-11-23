@@ -9,3 +9,6 @@ partOf: Mawakel Peninsula
 # Sulqat
 >[!info]+ Information
 > A  river in the [[Mawakel Peninsula]]
+
+
+%% (north peninsula river) %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/stub, status/unknown]
+tags: [place]
 displayDefaults: {definitiveArticle: "the"}
 campaignInfo:
 name: Aben
@@ -12,4 +12,6 @@ aliases: [Aben River, River Aben]
 >[!info]+ Information
 > A river in [[Tyrwingha]], the [[Western Green Sea Region]]
 
-A small river that runs out of the Mostreve Hills towards [[Tafolwern]]. 
+A small river that runs out of the [[Mostreve Hills]] towards [[Tafolwern]]. The headwaters of the Aben are a hilly land of many small streams and a major garrison of the [[Army of Mostreve]], the [[Aben Garrison]].
+
+The Aben runs for about a hundred miles through the Tyrwinghan countryside before joining the [[Trellyn]] thirty miles south-west of [[Tafolwern]].
