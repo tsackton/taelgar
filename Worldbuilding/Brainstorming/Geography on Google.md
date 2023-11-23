@@ -1,47 +1,12 @@
 ---
 tags: [status/unknown]
 ---
-
-
-# The World of Taelgar
-
-  
-
-The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate. Two major continents, and other possible minor or unknown continents, make up the world, with the northern continent, which stretches from just south of the equator to the arctic circle, the larger and more settled, and the center of all campaigns set in Taelgar to date.
-
-  
-
-The northern continent is surrounded by four major bodies of water. To the west, the Endless Ocean stretches for thousands of miles of trackless oceans into the west. To the south, along the south coast of Dunmar, the Sea of Storms stretches south and west, to the shattered shores of the ancient, now sunken, continent of Hkar. Further south, the ~Southern Ocean~ forms a narrow channel full of islands, and several large bays, between the northern and southern continents. To the north, the ~ArcticOcean~ is an icy, cold place where few travel.
-
-  
-
-The northern continent is marked by three major, continent scale features. In the east, the Green Sea extends from the eastern edge of the continent to nearly the middle, forming a great sea stretching 3000 miles from end to end. South of the Green Sea, a vast desert forms a band across the southern part of the continent, stretching nearly from the Sea of Storms to the Eastern Ocean. West of the Green Sea, the high peaks of the ~CentralMountains~ run nearly the entire length of the continent from north to south. These barriers divide the continent into a handful large-scale geographic regions.
-
-  
-
-- The West Coast, stretching from the the Endless Sea to the ~CentralMountains~ and including the coastal islands in the Endless Sea and as far north as the icy cold of the ~ArcticOcean~.
-    
-- The Green Sea, divided into the Western and Eastern parts, including the entire area around the Green Sea, as well as the ~CentralMountains~. The Western Green Sea includes all the land between the ~CentralMountains~ and the Green Sea, as far east as Cymea and Skaegenland. The Eastern Green Sea includes everything east of here.
-    
-- The Far North, stretching from beyond the cold plains of the ~KenkuHomeland~ across the vast northern forests to the eastern coasts.
-    
-- The Central Coast, the area south of the ~CentralMountains~ stretching to the Sea of Storms, and as far east as the edge of the great desert.
-    
-- The South, the area including the great desert, and all the lands south of the great desert, including the islands in the ~Southern Ocean~
-    
-
-  
-
-Beyond the ~Southern Ocean~ is the mysterious ~Southern Continent~ of which little is known. 
-
-  
-  
+ 
 
 # The West Coast
 
 Major features include a major river, large forests to the east against the ~CentralMountains~, a large lake on the main river north of Chardon, a significant peninsula extending into the Endless Ocean south of Chardon, and several island systems and a large bay in the north. In the far north, a chain of volcanoes extends from the central mountains, and the land becomes mountainous and covered in glaciers approaching and beyond the arctic circle. The climate is mild, with wet winters and dry summers; pleasant year round temperatures to the south; cold, snowy winters to the north; and significant coastal moderation on the many islands and peninsulas of this region.
-
-  
+ 
 
 Population centers in this region include the Chardonian Empire, where the great bulk of the humans live; Illoria, a land of refugees and pirates on the islands in Nevos Bay, south of Chardon; ~Peninsula~, a ~???~; ~WesternIslands~, a ~????~; ~NorthernBay~, where the largest concentration of the original “west northlanders” who still live on the mainland live; ~FormerlyPandarRegion~, a now-ruined but once dominant empire around and north of the volcanic mountains in the far north, including a few smaller polities like Volkrad that were allied against Pandar; ~ArcticTribes~, ~???~; and possibly other places. 
 
@@ -75,21 +40,6 @@ Population centers in this region include the Chardonian Empire, where the great
 - Relatively few big cities; perhaps one or two in the north? Not sure yet about urbanization in this area.
     
 - Parts of this were once prosperous Northlander/Drankorian kingdoms, wiped out in Great War and/or quickly conquered by Chardon
-    
-
-#### Lake Valandros
-
-- Big lake on north branch of ~MainRiver~
-    
-- Low rolling hills on the west, forests on the east
-    
-- Western hills settled, productive iron and silver mines
-    
-- Eastern shore less dense, scattered forest
-    
-- Several medium/large cities, center of much metalworking in empire
-    
-- Port on north of lake major trade stopover for goods coming from north, most especially the incredibly valuable chalyte from Voltara
     
 
 #### Great Chardon Forest
@@ -134,45 +84,8 @@ Population centers in this region include the Chardonian Empire, where the great
 - All of this area was once small kingdoms, often mix of Drankor/Northlander heritage, that were essentially completely wiped out by Pandor/hobgoblins/Cha’mutte in the post-Great-War period
     
 - Beyond here, land of orcs and hobgoblins; this area was generally reclaimed in the past 100-150 years, after Blood Years, so Chardon was pushed back, and then pushed forward
-    
+       
 
-### Illoria
-
-#### Burganos and Silanus
-
-- Rocky, warm subtropical islands, kind of Caribbean vibe
-    
-- Main islands and by far the biggest population centers of Illoria
-    
-- Highly seafaring people; largely a motley group of refugees, outcasts, and pirates
-    
-- Recently conquered by Chardon, and now a Protectorate of the Empire, with a Chardonian governor installed
-    
-- Aiming for a kind of freewheeling attitude of the people, some piracy but generally kind of outlaws + outcasts vibe; mostly small cities and seacoast towns, economy deeply tied to ocean
-    
-
-#### Small Southern Islands
-
-- Historically not really populated, but now home of whatever Illorians fled Chardonian rule
-    
-- NOT currently ruled by Chardon
-    
-- Even stronger Caribbean vibe (geographically)
-    
-
-### Mawakel Peninsula
-
-- Home to the Mawar people and the Mawar Confederacy
-    
-
-### ~WesternIslands~
-
-- Thinking this is a isolated society, not necessarily with a strong navy, fairly urbanized with dense agriculture and fishing; maybe use some aspects of historical Japan as a model
-    
-- Trade with Chardon, but possibly one island is the only one that foreigners are allowed on?
-    
-- Almost pure “West Northlander” with no imperial influences; very distinct culturally, religiously, and linguistically from rest of world in many ways. Many people don’t speak common, for example.
-    
 
 ### ~Peninsula~
 
@@ -183,15 +96,7 @@ Population centers in this region include the Chardonian Empire, where the great
 
 ### ~FormerlyPandarRegion~
 
-### ~ArcticTribes~
-
-# The Central Coast
-
-  
-
-Dunmar, Yuvanti mountains, Myraeni gap, whatever is/was east of Dunmar, Drankor, Desolation of Cha’mutte, etc.
-
-  
+### ~ArcticTribes~  
 
 # The Green Sea
 
@@ -289,88 +194,6 @@ The North Coast around Skaegenland is heavily maritime, reminiscent of Nova Scot
 - In many ways more cosmopolitan than Sembara; significant local halfling and dwarven communities, and stoneborn are not unheard of. Elves still super-rare, and lizardfolk if anything less common than in Sembara.
     
 
-#### Ardlas and Lavnoch
-
-- Basic political organization is the village, with a Speaker
-    
-- Most developed as political units of the highland kingdoms with strong kings and organized central government
-    
-- Strong alliance with dwarves over the last 50-100 years and many dwarves might live in some of the mountain towns. Some highlanders also live in dwarven towns in this area.
-    
-- The two kingdoms are sometimes rivals, sometimes allies, but have a clear sense of shared culture. 
-    
-- Trade in raw materials important, as is small scale farming and especially sheep/goats
-    
-- Growing less ‘Sembaran’ esp with the dwarven influence
-    
-
-#### Zovcka
-
-- Isolationist and wants to be left alone
-    
-- In some of the higher steppes, still speak the old east northlander and a major reserve of worshippers of the old gods
-    
-- A strong cultural tradition of staying out of larger politics and wanting to be left alone. * 
-    
-- Low population density
-    
-- Hunting still important in some regions, although hardy grains (i.e. barley or an analog) and wooly mountain goats/sheep are the main food source.
-    
-- Perhaps a strong druidic/fey connection; maybe also stoneborn connection
-    
-
-#### Breva
-
--  A small kingdom, and in some ways riven by the most internal tensions. 
-    
-- On the borders of the northern highlands (Zovcka), the western highlands (Lavnoch), and the northlands of Sembara.
-    
-- Probably has the least cohesion of any of the highland kingdoms, and a weak king -- perhaps mostly a figurehead. Some of the nobles might be more aligned with the north, or the west, or the east and this could be a good place for political intrigue and so on.
-    
-- Perhaps little true cultural cohesion and a lot of challenges being organized. The northern landowners who live in the rising slopes of the north plateau are really more aligned with Zovcka; the ones in the west with Lavnoch, and the southern parts with the northlands
-    
-- Might work to have it a little bit smaller than it is on the map, moving up the northlands 
-    
-
-#### Addermarch
-
-- The most ‘Sembaran’ of the southern marches. People mostly Sembaran or mixed Tyrwinghan/Sembaran and culturally firmly in the Sembaran sphere
-    
-- Independent largely due to historical circumstances
-    
-
-#### Maseau
-
-- Largely depopulated during the Great War and mostly a result of recent resettlement as well as refugees who fled north from the ~Irebor Alliance~
-    
-- Originally the Sembaran Duchy of Maseau, but it was largely abandoned during the plague years by the sembaran crown. But the duke and their family ended up kinda forming a refugee welcoming committee and it became known as a place for the homeless and the lost folks of the Great War. Perhaps a key place for the rangers now who have some of that vibe. However, the hobgoblin conquests in the 1580s could have impacted to make this place much more militant. Maybe now it is a bit like Israel -- highly militarized with a chip on their shoulder about past suffering and how this can’t ever happen to our people again
-    
-
-#### The Refounded Alliance of Aurbez
-
-- Founded by two groups -- a core of refugees from the collapse of Insingue who hid out in the hills during the blood years, and developed a bit of a guerilla culture also supported the rangers a fair bit, second a group of folks who settled in Maseau or even the western marches for a bit, but were attracted by the growing rumors of an Insinguen  culture / group
-    
-- These people explicitly call back to Insingue as kinda their founding ideal / lost homeland
-    
-- Welcoming to travelers but very protective of their prerogative to the land, conceptually believe they have a claim to any habitable parts of the plaguelands, fiercely independent
-    
-- Rebuilding not foreign affairs is real goal, but claims to be the heirs of Insignue and claims sovereignty over all the lands south of Maseau and north of Insingue
-    
-- Major settlements are along the Aursen, along the Dunmar Road, in the foothills and valleys of the Douren, and in the high elevations from the source of the Aursen to the source of the Mansance
-    
-
-#### The March of the Andonne
-
-- The borderlands in 1750, a mostly empty stretch between the Mansance to the west, the Andonne to the south, Maseau to the north, and the forests of Addermarch to the east
-    
-- A zone of largely independent lords, backed by Sembaran wealth - anyone who can raise some folk and is willing to help staff a castle basically gets a generous stipend and to be a lord
-    
-- Most castles and towns are in the north, along the Dunmar Road, or along the western stretches of the Andonne
-    
-- The Andonne as it flows east gets ash-choked and polluted, and by the time it reaches Lake Aeurlian is it gray-brown and inhospitable to life
-    
-
-  
 
 ### Vostok
 
@@ -468,10 +291,6 @@ The North Coast around Skaegenland is heavily maritime, reminiscent of Nova Scot
 - Traders? Connection between Green Sea economy and desert/points south?
     
 
-#### ~Irebor~
-
-- Largely destroyed during Blood Years, now ashy, dry Plaguelands, although some parts of southern Greater Sembara trying to reclaim the very western edge of ~Irebor~
-    
 
 ## Eastern Green Sea
 
@@ -523,17 +342,5 @@ Population centers in the Eastern Gree Sea include: ~ColdClosedCities~, ~Big Isl
     
 - Place for rumors of strange things aka Mayan/Incan/non-human stuff (jungle lizardfolk nation?)
     
-
-# Far North
-
-North of the Green Sea, on the eastern side of the ~CentralMountains~, great taiga forests stretch for thousands of miles (maybe?), among which some civilizations, human and non-human alike, make a living. This is also quite distant and “far away” from the “western” world, and would include everything north of ~KenkuHomeland~, ~Skaegenland~, ~ClosedCities~, ~EastOfClosedCities~, ~FarNorthPeninsula~.
-
-  
-
-No idea what, if any, population centers are here. Could be wilderness, could be frost giants and white dragons, could be something weirder, but definitely not densely populated by humans. Huge isolated stoneborn empires?
-
-# The South
-
-Land of mystery to people in the northwest; includes desert people, as well as island people in archipelago, and whatever is on the mainland. Eventually could include southern continent when/if need it.
 
 **
