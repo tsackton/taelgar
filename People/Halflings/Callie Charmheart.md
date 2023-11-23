@@ -20,13 +20,13 @@ whereabouts:
 ---
 # Callie Charmheart
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], she/her of [[Charmhearts]]
+> [[Halflings|halfling]], she/her of the [[Charmhearts]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
 
-One of the [[Charmhearts]], a [[Halflings|halfling]] family of long-distance merchants and traders, who make a living trading between [[Dunmar]] and [[Sembara]]. 
+One of the Charmhearts, a halfling family of long-distance merchants and traders, who make a living trading between [[Dunmar]] and [[Sembara]]. 
 
 ## Relationships
 - [[Ander Charmheart]], younger brother and traveling companion

@@ -1,5 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [dufr/background, person, dufr/met, status/needswork/notes]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Jasmine Sunmeadow

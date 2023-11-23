@@ -2,10 +2,9 @@
 tags: [organization/family, status/unknown]
 displayDefaults: {definitiveArticle: the}
 campaignInfo: []
-name: Wildhearts
+name: Copperharps
 typeOf: family
 ---
-
 
 %%^Campaign:None%%
 ### Members

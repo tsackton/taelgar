@@ -1,11 +1,9 @@
 ---
-tags: [organization/family, status/unknown]
+tags: [status/unknown, organization/family]
 displayDefaults: {definitiveArticle: the}
-campaignInfo: []
-name: Wildhearts
 typeOf: family
+name: Silversongs
 ---
-
 
 %%^Campaign:None%%
 ### Members

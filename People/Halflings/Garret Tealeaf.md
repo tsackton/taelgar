@@ -1,6 +1,6 @@
 ---
-tags: [person, dufr/met, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.20
+tags: [person, dufr/met, dufr/major, status/needswork/notes, status/needswork/collate]
 campaignInfo:
 - {campaign: DuFr, date: 1748-07-15, type: met}
 name: Garret Tealeaf
@@ -18,10 +18,9 @@ whereabouts:
 - {type: away, start: 1748-08-13, end: '', location: 'Darba, Western Dunmar'}
 ---
 # Garret Tealeaf
->[!info]+ Biographical Summary
->halfling, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->>%%^Campaign:DuFr%% Last seen by The Side Quests at July 15th, 1748: [[Tokra]], [[Central Dunmar]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Halflings|halfling]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%SECRET[1]%%

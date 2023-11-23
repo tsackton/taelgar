@@ -1,20 +1,28 @@
 ---
-tags: [dufr/background, dufr/met_one, person, status/unknown]
+headerVersion: 2023.11.20
+tags: [dufr/background, dufr/met_one, person]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: 
+- { campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
+- { campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
 name: Pearl Brightmoon
 born:
 species: halfling
 ancestry:
 gender: female
-affiliations: Sea
-whereabouts:
-- {type: away, start: 1748-11-23, end: '', location: 'unknown, Eastern Green'}
+affiliations: [Brightmoons]
+leaderOf: [ { place: Wave Dancer, title: First Mate, start: 0001} ]
+whereabouts: Wave Dancer
 ---
 # Pearl Brightmoon
->[!info]+ Biographical Summary
->halfling, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Halflings|halfling]], she/her of the [[Brightmoons]]
+> `$=dv.view("_scripts/view/get_RegnalValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]], the [[Eastern Green Sea]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]] %%^End%%
 
-Halfing woman in her prime. Captain of the guard and first mate. Buff, good with a rapier. Cousin to [[Wella Brightmoon|Wella]] by blood and [[Rose Brightmoon|Rose]] by marriage. 
+Pearl is a halfing woman in her prime, who serves as the captain of the guard and first mate on the Wave Dancer. She is well-muscled, and clearly good with a rapier. 
+## Relationships
+- [[Wella Brightmoon]], cousin
+- [[Rose Brightmoon]], cousin by marriage

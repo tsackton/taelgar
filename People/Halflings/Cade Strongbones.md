@@ -19,11 +19,9 @@ whereabouts: The Red Lily Inn
 > `$=dv.view("_scripts/view/get_RegnalValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]] %%^End%%
-
 ## Relationships
 - [[Wes Strongbones]], father
 - [[Tye Strongbones]], twin brother
-
 %%^Campaign:None%%
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link

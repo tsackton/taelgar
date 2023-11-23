@@ -1,11 +1,10 @@
 ---
-tags: [organization/family, status/unknown]
+tags: [organization/family, status/notes, status/unknown]
 displayDefaults: {definitiveArticle: the}
-campaignInfo: []
-name: Wildhearts
+campaignInfo:
+name: Honeyhills
 typeOf: family
 ---
-
 
 %%^Campaign:None%%
 ### Members

@@ -13,6 +13,19 @@ The Charmhearts are a prominent family of [[Halflings|halfling]] overland trader
 Their traditional route brings them across the lower elevation eastern passes across the [[Sentinel Range]] on the road to [[Karawa]], often crossing as early as the middle of March, aiming to arrive in [[Karawa]] in time to trade at the [[Festival of Rebirth]], usually in early April. After a year circuiting [[Dunmar]], they return to [[Sembara]] via the high passes from [[Tokra]] in late spring when the snows melt. 
 
 They are a serious trading family, and always travel prepared for danger, especially across the passes and the open frontier north of [[Karawa]]. 
+
+%%^Campaign:None%%
+### Members
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Current Location"], 
+			dv.pages("#person")
+				.where(f => util.isAffiliated(dv.current().file.name, f.file.frontmatter))
+				.map(b => [util.getName(b.file.name), util.getLoc(b.file.frontmatter)]))
+```
+%%^End%%
+
 %%^Date:1748%%
 In 1748, the Charmhearts encountered trouble on the road from [[Ausson's Crossing]] to [[Karawa]]. Descending the passes on March 19, 1748, the Charmheart caravan stopped to rest and recover after the hard journey, at a well-used campsite near the old Dunmari fortress called Raven's Hold. [[Ander Charmheart]], a young and sometimes foolish member of the clan, went exploring, and was caught in a wave of demonic energy from a demon summoning. Driven mad, the Charmheart caravan was forced to deal with the situation in [[Karawa]]. 
 

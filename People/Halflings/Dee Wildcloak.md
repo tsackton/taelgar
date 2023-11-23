@@ -1,5 +1,6 @@
 ---
-tags: [person, dufr/met, dufr/minor, status/unknown]
+headerVersion: 2023.11.20
+tags: [person, dufr/met, dufr/minor, status/needswork/collate, status/stub]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Dee Wildcloak
@@ -11,10 +12,9 @@ whereabouts:
 - {type: away, start: 1748-11-23, end: '', location: 'somewhere, Sea of Storms'}
 ---
 # Dee Wildcloak
->[!info]+ Biographical Summary
->halfling, she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Halflings|halfling]], she/her
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Adventurer, funded by [[Fausto]] to explore. Part of the group that brought [[Hralgar's Eyes]] to [[Chardon]] from [[Stormcaller Tower]].
 

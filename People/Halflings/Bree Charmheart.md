@@ -20,12 +20,13 @@ whereabouts:
 ---
 # Bree Charmheart
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], she/her of [[Charmhearts]]
+> [[Halflings|halfling]], she/her of the [[Charmhearts]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
 
-The matriarch of the [[Charmhearts|Charmheart]] trading clan of [[halflings]].
+The matriarch of the Charmheart trading clan of halflings.
 
 ## Relationships
 - [[Callie Charmheart]], granddaughter
@@ -33,9 +34,7 @@ The matriarch of the [[Charmhearts|Charmheart]] trading clan of [[halflings]].
 %%^Date:1748%%
 - [[Garret Tealeaf]], occasional traveling companion
 %%^End%%
-
 %%^Campaign:None%%
-
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
 FROM #person OR #organization 

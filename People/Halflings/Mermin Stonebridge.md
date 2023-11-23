@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.20
 tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -9,14 +10,12 @@ ancestry:
 gender: male
 family: Stonebridge
 whereabouts:
-- {type: home, start: !!null '', end: '', location: Cleanseau}
+- {type: home, location: Cleanseau}
 ---
 # Mermin Stonebridge
->[!info]+ Biographical Summary
->halfling, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: Cleanseau
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Halflings|halfling]], he/him
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A young halfling and broker based out of Cleanseau, although he travels between Sembara and Cleanseau somewhat regularly. 
 

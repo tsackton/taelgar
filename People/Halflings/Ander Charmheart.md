@@ -21,13 +21,13 @@ whereabouts:
 ---
 # Ander Charmheart
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him of [[Charmhearts]]
+> [[Halflings|halfling]], he/him of the [[Charmhearts]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
 
-A young, rambunctious and excessively curious [[Halflings|halfling]], traveling with the [[Charmhearts|Charmheart]] trading caravan as a scout and general hand. 
+A young, rambunctious and excessively curious halfling, traveling with the Charmheart trading caravan as a scout and general hand. 
 
 ## Relationships
 - [[Callie Charmheart]], older sister and traveling companion
@@ -45,7 +45,7 @@ SORT choice(species, species, typeof)
 %%^End%%
 %%^Campaign:DuFr%%
 ## Events
-In March 1748, Ander was taken with a demonic curse as a result of accidental contact with Abyssal energy during the demon summoning at [[Raven's hold]]. The curse caused him to suffer from an overwhelming hunger for raw flesh. When the demon [[Oduk]] was killed by the [[Dunmar Fellowship]], Ander was released from the worst of the curse. As of the summer of 1748, he still suffered from occasional confusion and difficulty speaking and finding the right word, describing the feeling as the wounds left by the shranpel from a chaotic bomb that exploded in his mind. 
+In March 1748, Ander was taken with a demonic curse as a result of accidental contact with Abyssal energy during the demon summoning at [[Raven's hold]]. The curse caused him to suffer from an overwhelming hunger for raw flesh. When the demon [[Oduk]] was killed by the [[Dunmar Fellowship]], Ander was released from the worst of the curse. As of the summer of 1748, he still suffered from occasional confusion and difficulty speaking and finding the right word, describing the feeling as the wounds left by the shrapnel from a chaotic bomb that exploded in his mind. 
 
 ### Chronology
 - (DR:: 1748-03-19): While exploring the ruined Dunmari fort of [[Raven's Hold]], Ander Charmheart heard a strange chanting, and was grabbed by a thorny vine while trying to flee. He later described this as like a wave of chaotic dark energy washing over him, and then exploding in his mind like a bomb. 
