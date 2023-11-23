@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.20
 tags: [item, status/unknown]
-pronunciation: Vind-rist-YAR-na or vin-dree-SHAR-na
+pronunciation: vin-dree-SHAR-na
 whereabouts:
 - {type: home, location: unknown storm giant}
 - {type: home, location: dufr}
@@ -11,14 +12,12 @@ whereabouts:
 magical: true
 rarity: unique
 typeOf: skyship
-version: old
 ---
 # Vindristjarna
-**The Star on the Wind**
-*(Vind-rist-YAR-na or vin-dree-SHAR-na)*
->[!info]+ Item Info
->(unique magical skyship)
-> `$=dv.view("_scripts/view/get_Whereabouts")`
+*(vin-dree-SHAR-na)*
+>[!info]+ Information
+> (unique skyship)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[vindristjarna-v1.jpg]]
 

@@ -24,7 +24,6 @@ whereabouts: The Red Lily Inn
 - [[Tye Strongbones]], twin brother
 
 %%^Campaign:None%%
-
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
 FROM #person OR #organization 

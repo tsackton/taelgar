@@ -1,19 +1,23 @@
 ---
-tags: [dufr/background, dufr/met_one, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.20
+displayDefaults: {affiliationTypeOf: [vehicle, family]}
+tags: [dufr/background, dufr/met_one, person]
+campaignInfo: 
+- { campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
+- { campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
 name: Corrin Wildheart
 born:
 species: halfling
 ancestry:
 gender: male
-whereabouts:
-- {type: away, start: 1748-11-23, end: '', location: 'unknown, Eastern Green Sea'}
+affiliations: [Wildhearts, Wave Dancer]
+whereabouts: Wave Dancer
 ---
 # Corrin Wildheart
->[!info]+ Biographical Summary
->hafling, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Halflings|halfling]], he/him of the [[Wildhearts]] and the [[Wave Dancer]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 on the [[Wave Dancer]], the [[Eastern Green Sea]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 on the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]] %%^End%%
 
-Halfling man in his prime. Navigator, with a touch of weather magic. Part of the crew of the [[Wave Dancer]].
+Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [[Wave Dancer]].
