@@ -6,29 +6,13 @@ This document contains a list of place names that do not exist elsewhere in the 
 
 ## Central Coast
 
-Bodies of Water:
-    
-- ~Great Bay~ (bay east of [[Drankorian Empire|Drankor]])
-
-Mountains, Hills:
-
-- ~Coastal Mountains~ (north of [[Darba]])    
     
 Political Subdivisions, Cities, and Town:
     
 - Ankola (ruined)
-- ~East Dunmar~ (east of the [[Mahar]], inland of Green Sea)
-
 ## West Coast
 
-Bodies of Water:
-
-- ~Chardon Bay~    
-- ~North Big Bay~
-
-
 Rivers and Lakes:
-- ~South Small River~    
 - ~Coastal River 1~
 - ~Coastal River 2~
 - ~Coastal River 3~
@@ -42,7 +26,6 @@ Rivers and Lakes:
   
 Mountains, Hills:
 
-- ~South Chardon Hills~  
 - ~North of Voltara Hills~
 - ~Southwest of Voltara Hills~
 - ~East of Voltara Mountains~

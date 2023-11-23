@@ -35,4 +35,31 @@ Two different name variants have been proposed:
 - Voslaag (from “lowlander” in Vos; called South [[Vostok|Vosland]] or South [[Vostok]] in Sembara)    
 - Voskald (from “people of the cold” in Vos; called North [[Vostok|Vosland]] or North [[Vostok]] in Sembara)
 
+More notes from GDrive, could be old
+#### South Vostok
+
+- The southern part of Vostok, basically the hundred miles closest to the coast as well as a narrow band around the Kem (more eastern river) stretching somewhat north of where the Niva joins it, and also somewhat along the Niva
+    
+- Key political organization around a set of chieftains of clans who control a central territory and some of the hinterlands - but some areas are overlapped between multiple chieftains and it isn’t a land of clear regional boundaries (inspired by the Mandala political model of south east asia -- [https://en.wikipedia.org/wiki/Mandala_(political_model)](https://en.wikipedia.org/wiki/Mandala_(political_model)) ). The idea is not really borders, a set of related clans/tribes/chieftains/kingdoms whatever with overlapping circles of influence
+    
+- Name: refered to as South Vostok or South Vosland in Sembara
+    
+- Minimal roads - some rough roads along the coast but communication can be slow except by sea / river. 
+    
+- Lots of uninhabited land, even within the more organized territories around each of the major tribes/clans/chiefs
+    
+- I was also looking at the middle African Hausa Kingdoms (https://en.wikipedia.org/wiki/Hausa_Kingdoms)  for inspiration
+    
+- Some of the larger tribes might recognize Cymea as a overlord type, but little meaning to that outside of perhaps some annual tribute (sailors for the navy?) and a personal relationship between the chief and the Cymean leader (common pattern in south asia vis-a-vie China) 
+
+#### North Vostok
+
+- Very few people
+    
+- Culturally connected to the Zovcka more than anywhere else, but long sundered, and not a lot of people go back and forth through the lakes region
+    
+- Lakes region probably mostly uninhabited or entirely uninhabited -- the people of North Vostok are mostly clustered around the big lake in the center of Vostok and the eastern slopes of the central volcanic mountains
+    
+- Some ancient connection to the folks who built the big wall in the north
+
 %%
