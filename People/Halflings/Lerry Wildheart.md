@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, dufr/met_one, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [dufr/background, person]
 campaignInfo: 
 - { campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
 - { campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}

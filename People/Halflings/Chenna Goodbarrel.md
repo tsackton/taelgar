@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, person, dufr/met]
-displayDefaults: {affiliationTypeOf: [inn, family]}
+tags: [dufr/background, person]
 campaignInfo:
 - {campaign: dufr, person: Wellby, date: 1730, type: met} #date is approx
 - {campaign: DuFr, date: 1748-12-30, type: met}

@@ -1,12 +1,13 @@
 ---
+headerVersion: 2023.11.20
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {definitiveArticle: ""}
 campaignInfo: []
 name: Agata's Lair
 typeOf: house
 partOf: Garamjala
 ---
-# The Agata's Lair
+# Agata's Lair
 >[!info]+ Information
 > A house in [[Garamjala Desert|Garamjala]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
 

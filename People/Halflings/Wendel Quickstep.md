@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [person, dufr/met, dufr/minor]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, dufr/minor]
 campaignInfo:
 - {campaign: DuFr, person: Wellby, date: 1738, type: met} # date is approx
 - {campaign: DuFr, date: 1748-12-16, type: met}
