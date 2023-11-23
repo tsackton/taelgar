@@ -1,5 +1,6 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
+headerVersion: 2023.11.20
+tags: [clee/unsorted, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Susanne Garay
@@ -11,10 +12,9 @@ whereabouts:
 - {type: home, start: 1666-01-02, end: '', location: 'Embry, Sembara'}
 ---
 # Susanne Garay
->[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Embry]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A wealthy cloth merchant from [[Embry]], she sponsors many causes including the [[Lord Mayor’s Workhouse]], an orphanage. 

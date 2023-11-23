@@ -5,7 +5,7 @@ campaignInfo:
 - {campaign: dufr, date: 1748-03-29, type: met }
 - {campaign: dufr, date: 1748-07-09, type: last seen}
 name: Callie Charmheart
-born: 1714
+born: 1722
 species: halfling
 ancestry:
 gender: female
@@ -28,9 +28,13 @@ whereabouts:
 
 One of the [[Charmhearts]], a [[Halflings|halfling]] family of long-distance merchants and traders, who make a living trading between [[Dunmar]] and [[Sembara]]. 
 
-Callie is sister to [[Ander Charmheart]], and the granddaughter of matriarch [[Bree Charmheart]].
-%%^Campaign:None%%
 ## Relationships
+- [[Ander Charmheart]], younger brother and traveling companion
+- [[Bree Charmheart]], grandmother and traveling companion
+%%^Date:1748%%
+- [[Garret Tealeaf]], occasional traveling companion 
+%%^End%%
+%%^Campaign:None%%
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
 FROM #person OR #organization 

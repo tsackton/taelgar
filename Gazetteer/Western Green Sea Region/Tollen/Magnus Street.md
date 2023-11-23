@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/needswork/notes, status/needswork/collate]
 displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: Magnus Street
@@ -10,7 +10,7 @@ partOf: Tollen
 >[!info]+ Information
 > A ward in [[Tollen]], the [[Western Green Sea Region]]
 
-### Places
+### Places 
 ```dataview
 LIST from #place where partOf = "Magnus Street"
 ```

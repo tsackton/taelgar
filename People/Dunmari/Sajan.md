@@ -1,6 +1,5 @@
 ---
-tags: [dufr/background, person, dufr/aware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [dufr/background, person, dufr/aware, status/needswork/notes]
 campaignInfo: []
 name: Sajan
 born:
