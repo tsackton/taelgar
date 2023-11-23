@@ -1,20 +1,25 @@
 ---
-tags: [dufr/background, person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.20
+tags: [dufr/background, person, dufr/met]
+campaignInfo:
+- {campaign: dufr, date: 1748-07-18, type: met}
 name: Alton Greenleaf
 born:
 species: halfling
 ancestry:
 gender: male
-family: Greenleaf
+affiliations: [Greenleafs]
 whereabouts:
-- {type: away, start: 1748-07-11, location: ~AncientWestRoad~}
+- {type: away, start: 1748-07-18, end: 1748-07-18, location: ~Crossroads Caravanserai~}
+- {type: away, start: 1748-07-19, location: traveling east to Tokra}
 ---
 # Alton Greenleaf
->[!info]+ Biographical Summary
->[[Halflings|halfling]], he/him
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> [[Halflings|halfling]], he/him of the [[Greenleafs]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 in the [[~Crossroads Caravanserai~]], [[~AncientWestRoad~]], [[Dunmar]] %%^End%%
 
-Halfling traveler, heading east towards [[Tokra]] on the [[~AncientWestRoad~]] with his brother to [[Lyle Greenleaf]]. 
+A halfling wanderer, traveling with only his brother. 
+
+## Relationships
+- [[Lyle Greenleaf]], brother and traveling companion. 

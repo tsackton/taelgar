@@ -1,5 +1,5 @@
 ---
-tags: [place, status/needswork, status/unknown]
+tags: [place, status/needswork]
 name: Dunmar
 partOf: Central Lowlands Region
 typeOf: realm
