@@ -6,3 +6,5 @@ name: Aibard
 placeType:
 partOf:
 ---
+
+%% (largest settlement midriver of the Sulqat River) %%

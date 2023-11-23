@@ -9,3 +9,5 @@ partOf: Chardonian Empire
 # Lake Valandros
 >[!info]+ Summary
 
+
+%% (Drankorian name, named after the great mage Valandra) %%

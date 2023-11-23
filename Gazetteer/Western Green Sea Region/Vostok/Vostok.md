@@ -29,4 +29,10 @@ Inspiration:
 - [Mandala political model of south east Asia](https://en.wikipedia.org/wiki/Mandala_(political_model))
 
 The names might need an edit - Voslaag and Voskald are more like names of people than places, maybe? at least based on the made up meanings
+
+Two different name variants have been proposed:
+
+- Voslaag (from “lowlander” in Vos; called South [[Vostok|Vosland]] or South [[Vostok]] in Sembara)    
+- Voskald (from “people of the cold” in Vos; called North [[Vostok|Vosland]] or North [[Vostok]] in Sembara)
+
 %%
