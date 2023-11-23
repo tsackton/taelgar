@@ -1,7 +1,6 @@
 ---
 tags: [organization]
 displayDefaults: {partOf: '<article> <typeof> of <loc:3>', secondaryInfo: ''}
-campaignInfo:
 name: Army Garrison of Cleenseau
 partOf: Dunfry Regiment
 typeOf: garrison
