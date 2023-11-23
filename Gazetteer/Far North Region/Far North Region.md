@@ -6,8 +6,27 @@ name: The Far North Region
 typeOf: region
 partOf: Taelgar
 ---
+# Far North Region
+>[!info]+ Summary
+> a region in [[Taelgar]]
 
-This region of Taelgar spans the distant, rumored north, from the polar coasts in the west, across the strange lands north of [[Pandar]], to the expansive tundra and taiga north of the kenku homelands and the coastal cities of the [[Eastern Green Sea]]. 
+## Overview
+
+A mysterious land of long winters and bitter snow, the Far North Region is rarely visited, and even rumors from this region rarely reach the populated lands of the south. What strange magic or people may lurk in the North remains unknown. 
+
+## Boundaries
+
+This region of Taelgar spans the distant, rumored north, from the polar coasts in the west, to the expansive cold arid steppe north of Vostok, to the vast boreal forest beyond the northern edges of the [[Green Sea]]. 
+
+- To the north, this region is bordered by whatever lies beyond the edge of land in the vast northern expanses of the world.
+- To the east, this region is bordered by the [[~Great Ocean~]]
+- To the south this region is bordered by the northern edge of the [[West Coast Region]] and [[Central Highlands Region]] regions, the [[~Vostok Wall~]], and the northern border of [[Ursk]]
+- To the west, this region is bordered by the [[Endless Ocean]]
+
+## Major Features
+
+- [[~Kenku Homeland~]]: *a dry steppe, homeland of the kenku who survived Pandar; not much worldbuilding detail about it, except that we had imaged it at one point kind of like the interior Canadian plains / northern Great Plains - large mammals, cold winters, mammoths*
+- [[~Northern Boreal Forest~]]: *there is certainly a large boreal forest somewhere up here, but where is not really decided*
 
 ## Climate
 
