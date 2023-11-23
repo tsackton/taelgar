@@ -11,4 +11,4 @@ partOf: Fairgate Outer
 >[!info]+ Information
 > A [[Halflings|halfling]] inn in [[Fairgate Outer]]
 
-A cozy halfling tavern in Fairgate Outer, run by [[Chenna Goodbarrel]] and her wife [[Harriet Goodbarrel|Harriet]].
+A cozy halfling tavern in Fairgate Outer, run by [[Chenna Goodbarrel]] and her wife [[Harriet Goodbarrel|Harriet]]. Harriet is a decent singer and The Singing Fox gets a decent crowd (mostly locals and passing halflings) when she is performing. 
