@@ -12,5 +12,5 @@ The following status tags have a shared meaning:
 - **status/namecheck**: this note introduces a new "world level" name and should be confirmed
 - **status/refactor**: this note has something about it that is not well captured by current Obsidian note organization, and might benefit from refactoring note structure (examples could be narrative history notes that should be refactored into timelines; or item notes that mix general and specific lore)
 - **status/rethink**: note is relatively complete but there are details that might need to be rethought; best to include a comment here
-- **status/stub** basically empty pages where nothing is known. Once basic header information is filled in can be removed
+- **status/stub** basically empty pages where nothing is known. Once basic header information is filled in can be removed. When creating an empty page set status/needswork instead of status/stub if the page needs more than full header
 - **status/unknown** for the status of the note is unclear
