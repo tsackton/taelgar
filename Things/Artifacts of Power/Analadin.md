@@ -1,5 +1,5 @@
 ---
-tags: [item/magical, status/unknown]
+tags: [item/magical, status/needswork/notes]
 destroyed: 1545
 owner: Beryl
 name: Analadin

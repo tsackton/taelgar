@@ -5,7 +5,7 @@ campaignInfo:
 - {campaign: dufr, date: 1748-03-29, type: met }
 - {campaign: dufr, date: 1748-07-09, type: last seen}
 name: Bree Charmheart
-born: 
+born: 1644
 species: halfling
 ancestry:
 gender: female
@@ -25,12 +25,17 @@ whereabouts:
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
 
-%% notes
-old, approx 100 in 1748
-%%
 The matriarch of the [[Charmhearts|Charmheart]] trading clan of [[halflings]].
-%%^Campaign:None%%
+
 ## Relationships
+- [[Callie Charmheart]], granddaughter
+- [[Ander Charmheart]], grandson
+%%^Date:1748%%
+- [[Garret Tealeaf]], occasional traveling companion
+%%^End%%
+
+%%^Campaign:None%%
+
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
 FROM #person OR #organization 

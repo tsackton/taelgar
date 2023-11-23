@@ -3,7 +3,7 @@ tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Tye Strongbones
-born:
+born: 1731
 species: halfling
 ancestry:
 gender: male
