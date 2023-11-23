@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/needswork]
 name: West Coast Region
 typeOf: region
 partOf: Taelgar
@@ -31,8 +31,8 @@ The West Coast Region includes the entirety of the [[Chardonian Empire]], as wel
 - [[Tawir Forest]]: *So far just a name.*
 - [[Chasa River Valley]]: *agricultural mixed with forests, major population center*
 - [[~Yeraad River Valley~]]: *southeast of Chardon, south of Chasa/Elderwood. Major lizardfolk area, mining in the hills that separate it from Chasa, and in the "Darba Mountains". Very little detail otherwise - probably fairly flat, hot in the summer. This is basically med transitioning to semi-arid in the east and south, likely supporting fruit trees near the coast, and extensive livestock, probably the center of the Chardon cattle industry.*
-- [[~Chardon Peninsula~]]: *Undeveloped until the kelp forest adventure off the coast.*
-- [[~ Nevos Sea~]] and [[~Emerald Bay~]]: *trending into subtropics here*
+- [[~Emerald Bay Peninsula~]]: *Undeveloped until the kelp forest adventure off the coast.* 
+- [[Nevos Sea]] and [[Emerald Bay]]: *trending into subtropics here*
 
 %% comments
 - As an aside, thinking about the Chardonian Empire: one of the striking facts that seems to come up all the time in the book about the Mediterranean I read is how desperate a lot of maritime powers were for grain, all the time. Certainly Tollen is in this position. But I think one of Chardon's strengths is just how agriculturally rich the heartland of the empire is. The Chasa River Vally, the North Chardon Coast, and Lake Valandros are all probably incredibly productive agricultural land. Pre-Great-War, Chardon probably relied a lot on trade to supply its food needs; after the Great War, it was packed with refugees and probably suffered a number of famines - as the Chardonian armies conquered north, especially on the west coast, they would be strongly inclined to incorporate the newly freed productive agricultural areas into an empire. I think this also informs the character of the city a lot. Chardon is not really a mercantile superpower - it isn't deeply connected to international trade networks. There is some trade that goes upriver to the dwarves; there is some south with Dunmar, especially for horses and the products of the Nardith; there is some with Mawar. But, mostly, trade is internal. chalyte from the north; grain from the coast; wine from the area around Chardon; metals from the southern areas, the mountains north of Darba and the hills between the Chasa and the Yeraad. Chardon is certainly growing as a naval power and there is likely some decent trade with Illoria, and the occasional brave ship that ventures to cross the Sea of Storms. An implication of this is perhaps that they actually restrict the export of grain, and instead subsidize it internally, so that grain is cheap in Chardon, which helps the city grow fast and extremely big. Most of their exports would be high value tech goods, basically, plus probably wine/olive oil/luxury foodstuff (mostly to dwarves and Dunmar). 

@@ -1,5 +1,5 @@
 ---
-tags: [place, status/needswork, status/unknown]
+tags: [place, status/needswork]
 name: Eastern Green Sea Region
 typeOf: region
 partOf: Taelgar

@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/draft]
 campaignInfo:
 name: South Region
 typeOf: region
