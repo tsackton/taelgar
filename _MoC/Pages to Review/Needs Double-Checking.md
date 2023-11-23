@@ -15,5 +15,5 @@ list from #status/factcheck
 ### Drafts
 These pages are largely complete but need reading and feedback before having the draft tag removed. 
 ```dataview
-list from #status/draft 
+list from #status/draft and !#status/unknown
 ```
