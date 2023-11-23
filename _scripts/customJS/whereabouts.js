@@ -84,7 +84,8 @@ class WhereaboutsManager {
                 let locForThisDate = this.getWhereabouts(metadata, element.date).current;
 
                 if (locForThisDate && (element.campaign == campaign || !campaign)) {
-                    let partyName = NameManager.getName(element.campaign, NameManager.CreateLink, NameManager.PreserveCase)
+                    let person = element.person ?? element.campaign
+                    let partyName = NameManager.getName(person, NameManager.CreateLink, NameManager.PreserveCase)
                     if (partyName) {
                         let type = element.type ?? "seen"
                         
