@@ -1,5 +1,5 @@
 ---
-tags: [place, status/draft, status/unknown]
+tags: [place, status/draft]
 displayDefaults: {definitiveArticle: ''}
 name: Central Highlands Region
 typeOf: region

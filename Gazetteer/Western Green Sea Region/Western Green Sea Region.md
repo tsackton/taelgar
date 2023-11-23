@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/needswork]
 campaignInfo:
 name: Western Green Sea Region
 partOf: Taelgar
