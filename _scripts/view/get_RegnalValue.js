@@ -3,7 +3,7 @@ function get_RegnalValue(metadata) {
     function groupBy(list, keyGetter) {
         const map = new Map();
         list.forEach((item) => {
-            const key = keyGetter(item);            
+            const key = keyGetter(item);
             const collection = map.get(key);
             if (!collection) {
                 map.set(key, [item]);
@@ -55,12 +55,12 @@ function get_RegnalValue(metadata) {
 
         let places = []
 
-        leaderOf.forEach(item => {    
+        leaderOf.forEach(item => {
             if (item.place) {
                 places.push(LocationManager.getLocationName(item.place, "preserve", 1, "always"))
             }
         })
-        
+
         let lastPlace = places.pop()
         let locString = undefined
 
@@ -74,14 +74,16 @@ function get_RegnalValue(metadata) {
 
             displayOverride.pagePast = displayOverride.pagePast.replace("<title>", title).replace("<loclist>", locString)
             displayOverride.pageCurrent = displayOverride.pageCurrent.replace("<title>", title).replace("<loclist>", locString)
-            displayOverride.pagePastWithStart = displayOverride.pagePastWithStart.replace("<title>", title).replace("<loclist>", locString)       
+            displayOverride.pagePastWithStart = displayOverride.pagePastWithStart.replace("<title>", title).replace("<loclist>", locString)
             displayOverride.pageNotExistError = ""
 
-
-            let description = NameManager.getDescriptionOfDateInformation(metadata, dateInfo, displayOverride)
-            
-            if (description.length > 0)
-                lines.push(description)
+            if (dateInfo.startDate.display == "") {
+                lines.push("<title> of <loclist>".replace("<title>", title).replace("<loclist>", locString))
+            } else {
+                let description = NameManager.getDescriptionOfDateInformation(metadata, dateInfo, displayOverride)
+                if (description.length > 0)
+                    lines.push(description)
+            }
         }
     })
 
