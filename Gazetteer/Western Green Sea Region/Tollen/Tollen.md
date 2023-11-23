@@ -175,4 +175,25 @@ By 4547, the Drankors are on the doorstep and the Skaer are at war with them. It
 
 I do like the idea of Tollen as central to the treaty that stopped Drankorian expansion, and it makes sense for this to have some kind of magical "great powers" connection -- either divine, or perhaps something connected to dragons or [[Giants]] or elementals (fey are taken by [[Tyrwingha]]). Will think a bit more on this, again might be something best to see what happens during a game.
 
+Notes from old GDrive doc, could be old/wrong/etc, here to incorporate/check/delete
+#### Tollen
+
+- Masters of the Western Gulf. Significant fishing and merchant fleet. Strongest navy in the Western Gulf and major fishing industry (whales? Cod? Not sure what the key fish would be. Also no lenten red meat rules to drive a cash crop fish industry, so maybe not quite as developed as say the Basque medieval fisherman who got rich on cod)
+    
+- Controls a narrow strip of land on the north bank of the Volta as well as the Tollen city proper, and the coastal islands in the greater Tollen harbor.
+    
+- Controls the Straits of Cymea, main seafarers in the Western Gulf
+    
+- Manufacturing esp of clothes key. Silk (or cotton or a made up fiber) from Tyrwingha and wool from Sembara comes to the Tollen + northlands region to turn into fine clothes
+    
+- Big dye industry in the hinterlands
+    
+- Influential in the northlands more than anywhere else and somewhat culturally connected to that region (although with a clear, distinct identity)
+    
+- Some significant far eastern trade, although that in general is probably more halfling/Cymean; Tollen is however a major market for Cymea traders, who exchange goods from around the Green Sea for Sembaran/Tollen cloth/silk/clothes.
+    
+- University in Tollen is major center of magical learning in the Sembara/Vostok region, only some parts of Cymea could compete in western Green Sea area. Dye industry + magic makes Tollen a center of development of magical tattoos.
+    
+- In many ways more cosmopolitan than Sembara; significant local halfling and dwarven communities, and stoneborn are not unheard of. Elves still super-rare, and lizardfolk if anything less common than in Sembara.
+
 %%

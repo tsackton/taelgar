@@ -72,4 +72,19 @@ The winter of 1748 was a particularly dark and dangerous one. A dragon of ice an
 
 In the fallout of this near-disaster, Artem vanishes.
 
+Notes from GDrive, might not be accurate:
+- East of Skaegenland
+    
+- Land of long, hard winters, short summers, Russian in climate, but slightly modulated by Green Sea
+    
+- Possible mageocracy with ancient roots, maybe associated with dragons or giants
+    
+- Possible closed cities - trade missions outside, no outsiders in, but also considering same for western islands west of Chardon
+    
+- Remnants of old ‘east northlander’ people, relatively uninfluenced by Drankor
+    
+- Different language, religion? (or maybe Eight Divines still?) If different religion, use the “old gods” of highlands? 
+    
+
+
 %%

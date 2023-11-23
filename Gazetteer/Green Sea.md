@@ -30,6 +30,10 @@ The South Coast, from SouthCymea all the way east, tends to be dry, with a clima
 The climate of the western islands is highly varied, being strongly oceanic and influenced by the Green Sea, the ~Great Ocean~ and magic.   
 
 The North Coast around Skaegenland is heavily maritime, reminiscent of Nova Scotia/Scandinavia, which continues east to the southernmost extend of the North Coast. The northeastern coast, however, is much colder, more reminiscent of eastern Siberia, with long winters and short summers, although the maritime influence moderates the seasonality.
+
+Notes from GDrive:
+The Green Sea stretches from the far east to the middle of the continent. To the west, major features are the Cymean peninsula and the islands north and south, including Skaegenland, as well as the Mostreve hills in southern Sembara, and the ~VostokMountains~. In the center and east, major features include a large island centrally located in the middle of the Green Sea, and a large, dense archipelago blocking the mouth of the Green Sea from the Endless Ocean. While the west is densely settled, in the east, along both coasts, most people live close to the ocean: in the north, due to the increasing cold and snow; in the south, the encroaching desert.
+
 %%
 
 
