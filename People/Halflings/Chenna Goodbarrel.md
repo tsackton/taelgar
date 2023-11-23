@@ -10,19 +10,21 @@ born: 1688
 species: halfling
 ancestry:
 gender: female
-affiliations: [Goodbarrels, The Singing Fox]
+leaderOf: [ { place: The Singing Fox, title: Proprietor, start: 0001} ]
+affiliations: [Goodbarrels]
 whereabouts:
 - {type: home, end: 1725, location: Sembara} # settled in Tollen in 1725 or earlier
-- {type: home, location: The Singing Fox}
+- {type: home, location: Fairgate Outer}
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 ---
 # Chenna Goodbarrel
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], she/her of the [[Goodbarrels]] and [[The Singing Fox]]
+> [[Halflings|halfling]], she/her of the [[Goodbarrels]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_RegnalValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] around 1730 at [[The Singing Fox]], the [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 on [[Vindristjarna]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Wellby]] around 1730 at [[The Singing Fox]], [[Fairgate Outer]], the [[Tollen|Free City of Tollen]]%%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in [[Vindristjarna]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
 
 Chenna Goodbarrel owns a small and charming halfling tavern in [[Fairgate Outer]] called  *[[The Singing Fox]]*, with her wife [[Harriet Goodbarrel|Harriet]]. Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
 
