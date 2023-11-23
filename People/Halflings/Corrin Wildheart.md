@@ -10,7 +10,7 @@ born:
 species: halfling
 ancestry:
 gender: male
-affiliations: [Wildhearts, Wave Dancer]
+affiliations: [Wave Dancer, Wildhearts]
 whereabouts: Wave Dancer
 ---
 # Corrin Wildheart
