@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [dufr/background, person, dufr/met]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [dufr/background, person]
 campaignInfo: 
 - {campaign: dufr, date: 1748-06-30, type: met}
 name: Tye Strongbones

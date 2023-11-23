@@ -1,36 +1,22 @@
 ---
 headerVersion: 2023.11.20
-tags:
-  - dufr/background
-  - person
-  - dufr/met
+tags: [dufr/background, person]
 campaignInfo:
-  - campaign: dufr
-    person: Wellby
-    date: 1730
-    type: met
-  - campaign: DuFr
-    date: 1748-12-30
-    type: met
+  - { campaign: dufr, person: Wellby, date: 1730, type: met}
+  - { campaign: DuFr, date: 1748-12-30, type: met}
 name: Harriet Goodbarrel
 born: 1685
 species: halfling
 ancestry: 
 gender: female
-aliases:
-  - Harriet
-affiliations:
-  - Goodbarrels
+aliases: [Harriet]
+affiliations: [Goodbarrels]
 leaderOf:
-  - place: The Singing Fox
-    title: Proprietor
-    start: 1
+  - {place: The Singing Fox, title: Proprietor, start: 1}
 whereabouts:
-  - type: home
-    end: 1722
-    location: Western Gulf
-  - type: home
-    location: The Singing Fox
+  - {type: home, end: 1722, location: Western Gulf}
+  - {type: home, location: The Singing Fox}
+  - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 ---
 # Harriet Goodbarrel
 >[!info]+ Biographical Info
@@ -38,8 +24,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_RegnalValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] around 1730 at [[The Singing Fox]], [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in [[The Singing Fox]], [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Wellby]] around 1730 in [[The Singing Fox]], [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in [[Vindristjarna]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
 
 Harriet's melodious voice graces *[[The Singing Fox]]* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [[Chenna Goodbarrel|Chenna]], she's made the tavern a warm haven for many.
 
