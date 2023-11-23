@@ -2,8 +2,8 @@
 headerVersion: 2023.11.20
 tags: [dufr/met_one, person, dufr/minor]
 campaignInfo: 
-- {campaign: Kenzo, date: 1748-09-30, type: met}
-- {campaign: Kenzo, date: 1748-11-04, type: last seen}
+- {campaign: dufr, person: Kenzo, date: 1748-09-30, type: met}
+- {campaign: dufr, person: Kenzo, date: 1748-11-04, type: last seen}
 name: Elazar
 born: 1665
 species: lizardfolk

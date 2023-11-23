@@ -1,21 +1,34 @@
 ---
-tags: [dufr/background, person, dufr/met, status/unknown]
+headerVersion: 2023.11.20
+tags: [dufr/background, person, dufr/met]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: 
+- {campaign: dufr, date: 1748-06-30, type: met}
 name: Tye Strongbones
 born: 1731
 species: halfling
 ancestry:
 gender: male
-family: Strongbones
-whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Tokra, Central Dunmar'}
+affiliations: [Strongbones]
+leaderOf: [ { place: The Red Lily Inn, title: Cook, start: 0001} ]
+whereabouts: The Red Lily Inn
 ---
 # Tye Strongbones
->[!info]+ Biographical Summary
->halfling, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Tokra]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Halflings|halfling]], he/him of the [[Strongbones]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_RegnalValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]] %%^End%%
 
-Son of [[Wes Strongbones]].
+## Relationships
+- [[Wes Strongbones]], father
+- [[Cade Strongbones]], twin brother
+%%^Campaign:None%%
+```dataview
+TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
+FROM #person OR #organization 
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+SORT choice(species, species, typeof)
+```
+%%^End%%

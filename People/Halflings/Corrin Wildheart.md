@@ -22,3 +22,13 @@ whereabouts: Wave Dancer
 >> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 on the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]] %%^End%%
 
 Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [[Wave Dancer]].
+## Relationships
+Corrin married into the [[Brightmoons|Brightmoon trading family]], and now sails with them, along with his younger brother [[Lerry Wildheart]].
+%%^Campaign:None%%
+```dataview
+TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
+FROM #person OR #organization 
+WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
+SORT choice(species, species, typeof)
+```
+%%^End%%

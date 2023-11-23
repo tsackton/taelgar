@@ -20,6 +20,5 @@ whereabouts:
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 in the [[~Crossroads Caravanserai~]], [[~AncientWestRoad~]], [[Dunmar]] %%^End%%
 
 A halfling wanderer, traveling with only his brother. 
-
 ## Relationships
 - [[Lyle Greenleaf]], brother and traveling companion. 
