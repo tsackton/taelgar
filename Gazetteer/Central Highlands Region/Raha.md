@@ -1,5 +1,5 @@
 ---
-tags: [status/docreview, status/unknown]
+tags: [status/unknown, place/village]
 ---
 
 

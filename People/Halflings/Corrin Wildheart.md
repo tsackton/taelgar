@@ -21,7 +21,7 @@ whereabouts: Wave Dancer
 >> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 on the [[Wave Dancer]], the [[Eastern Green Sea]] %%^End%%
 >> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 on the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]] %%^End%%
 
-Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [[Wave Dancer]].
+Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [[Wave Dancer]]. He has bright blond unkempt hair, and tends towards yellow and red clothes.
 ## Relationships
 Corrin married into the [[Brightmoons|Brightmoon trading family]], and now sails with them, along with his younger brother [[Lerry Wildheart]].
 %%^Campaign:None%%
