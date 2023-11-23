@@ -1,6 +1,6 @@
 ---
-tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.20
+tags: [person, dufr/met, dufr/minor, status/needswork/internal]
 campaignInfo: []
 name: Escobar Garavito
 born: 1727
@@ -9,38 +9,18 @@ ancestry: Cymean
 gender: male
 affiliations: [University of Tollen, Dyer's Guild]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Lavila, Cymea, Western Green Sea'}
-- {type: home, start: 1727-01-02, end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, location: Lavila}
+- {type: home, location: Tollen}
 ---
 # Escobar Garavito
->[!info]+ Biographical Summary
->human (Cymean), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: Lavila, [[Cymea]], [[Western Green Sea]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Cymea|Cymean]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> Member of: The [[University of Tollen]], The [[Dyer's Guild]]
 
-A young and charismatic student at the University of [[Tollen]], Escobar's journey from the humble village of Lavila in Cymea to the bustling streets of [[Tollen]] showcases his adaptability and determination.
+A young and charismatic student at the University of [[Tollen]], Escobar's journey from the humble village of [[Lavila]] in [[Cymea]] to the bustling streets of [[Tollen]] showcases his adaptability and determination.
 
-%%SECRET[1]%%SECRET
-## Roleplaying Notes
-
-Suave, aware of how handsome he is and flaunts it. 
-
-Young, gregarious, talkative. But not in a absent-minded way, should try to make it feel genuine. 
-
-Often waving or saying hi to people he knows on the street. 
-
-## Background
-
-
-Escobar is a particularly gregarious and outgoing student, loud and boisterous. He is from the small village of Lavila, and fled because he felt he had no future there. He is bright and charming, and talked his way onto a Tollender trader as an able seaman. After 6 months at sea he decided he hated it and disappeared into the [[Tollen]] masses when next at port. 
-
-After bouncing around as a laborer, he connected with Cecilia Lister, a tattoo artist who specializes in magical tattoos, who eventually got him a scholarship via the Dyer's Guild to take classes at the University (with the idea he would come apprentice with her afterward).
-
-If met with a letter of introduction / favor from Cecilia, will do as asked, and will introduce them to Caerlynn. 
-
-If met at random, will be friendly and cheerful and can give them advice in exchange for an ale, but not willing to take time out of his day to take them to her.
-%%
+%%SECRET[1]%%
 
 ![[escobar-garavito.png]]

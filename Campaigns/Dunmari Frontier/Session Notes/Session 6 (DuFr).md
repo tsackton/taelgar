@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/unknown, session-note]
 ---
 
 **(Thursday, August 6th, 2020; in Taelgar, afternoon April 4, to dawn April 7th, )

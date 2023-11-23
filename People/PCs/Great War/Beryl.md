@@ -1,5 +1,5 @@
 ---
-tags: [pc/greatwar, person, status/unknown]
+tags: [pc/greatwar, person, status/needswork/notes]
 campaignInfo: []
 name: Beryl
 born: 1502
