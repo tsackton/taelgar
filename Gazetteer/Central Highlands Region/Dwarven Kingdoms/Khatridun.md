@@ -17,11 +17,7 @@ The Kingdom of Khatridun was once the greatest, oldest, and most powerful of the
 In the aftermath of the [[Great War]], Khatridun has turned inward. Much of its former wealth was lost as trade between the east and the west all but ceased, and never blessed with excessive mineral wealth, the people of Khatridun turned inward and to their history, looking for lost knowledge from a prior age to help them rise again.
 ## Locations
 
-### Darakan
-
-The city of Darakan is set high in the mountains, split between the upper levels on the surface, and the lower levels belowground. It is famous for its fine marbleworks, especially the elaborate stonework marking the gates of the upper city, set high in a cliff face, and reached by a series of marble steps and arches. 
-
-Home to clan Highkeep, including [[Seeker]] and [[Frankar]].
+* [[Darakan]], a city
 
 ### Quicksilver Pools
 

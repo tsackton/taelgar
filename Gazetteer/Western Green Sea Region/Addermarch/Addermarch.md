@@ -15,3 +15,10 @@ In the 1550s, the population of Addermarch began to grow again, in part from ref
 Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into Sembara, but also a significant producer of timber and wool. Enjoying favorable tariffs for its goods in exchange for its role in protecting Sembara’s southern borders, Addermarch is a close ally of Sembara.
 
 
+%%% notes from gdrive may not be up to date
+- The most ‘Sembaran’ of the southern marches. People mostly Sembaran or mixed Tyrwinghan/Sembaran and culturally firmly in the Sembaran sphere
+    
+- Independent largely due to historical circumstances
+    
+%%
+

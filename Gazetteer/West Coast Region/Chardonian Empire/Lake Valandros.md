@@ -1,6 +1,6 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: ''}
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: Lake Valandros
 typeOf: lake
@@ -10,4 +10,18 @@ partOf: Chardonian Empire
 >[!info]+ Summary
 
 
-%% (Drankorian name, named after the great mage Valandra) %%
+%% (Drankorian name, named after the great mage Valandra) 
+
+- Big lake on north branch of ~MainRiver~
+    
+- Low rolling hills on the west, forests on the east
+    
+- Western hills settled, productive iron and silver mines
+    
+- Eastern shore less dense, scattered forest
+    
+- Several medium/large cities, center of much metalworking in empire
+    
+- Port on north of lake major trade stopover for goods coming from north, most especially the incredibly valuable chalyte from Voltara
+    
+%%

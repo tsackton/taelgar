@@ -12,7 +12,7 @@ partOf: Chardonian Empire
 
 ## Overview
 
-Voltara, the northernmost substantial settlement in the Chardonian Empire, is a walled town of maybe 2000 people. It is situated on a grassy lowland steppe east of the Fiamatara mountains, primarily supported by a large mining industry in the nearby hills, which are rich in chalyte. The grasslands are fertile land, and sheep farming and agriculture is common in the Voltara hinterlands. 
+Voltara, the northernmost substantial settlement in the Chardonian Empire, is a walled town of maybe 2000 people. It is situated on a grassy lowland steppe east of the [[Fiamatara Mountains]], primarily supported by a large mining industry in the nearby hills, which are rich in chalyte. The grasslands are fertile land, and sheep farming and agriculture is common in the Voltara hinterlands. 
 %% NOTE
 The plains around voltara are "pampas-like" I think -- key large mammals are deer and llamas, plus probably mountain goats/giant goats.
 %%
