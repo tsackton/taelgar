@@ -2,6 +2,9 @@
 tags: [item/boat, status/unknown]
 typeOf: vehicle
 subTypeOf: boat
+whereabouts: 
+- {type: home, location: Eastern Green Sea}
+- {type: away, start: 1748-10-12, end: 1748-10-14, location: Wahacha}
 ---
 
 ## The Wave Dancer
