@@ -42,6 +42,10 @@ Halflings have given names and family names, which are often derived from nickna
 **Family Names**: Quicktongue, Longwalker, Wetshire, Sailsinger, Crafter, Singer, Strider, Riverfoot, Undertree, Charmheart, Goodbarrel, Greenbottle, Wanderhome, Hillcobble, Tallspinner
 
 %%
+Halfling ship notes - not sure where else to put for now:
+Halfling ships are organized like large halfling caravans. Usually, members of the clan that owns the ship make up at least half the crew, and fill most, although often not all, the officer positions. The rest of the crew is often made up of various individuals with their own reasons for travel: children of sedentary halflings who want adventure, or land-based clans that want to experience the sea; survivors of shipwrecks and other disasters; partners of the main clan; and other idiosyncratic folks.
+
+Profits of the journey are usually split evenly, after the needs o the ship have been taken care of, although typically excess funds are retained in a ship's account and paid out based on time served on departure of a crew member, or to their clan on death. Purchases with ship funds are typically agreed by majority vote, and all halflings who are part of the crew share equally, and are treated as family.
 
 ### History
 

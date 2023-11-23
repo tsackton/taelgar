@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/notes]
+tags: [status/needswork/notes, item/play]
 ---
 
 # Luminastra's Gift
