@@ -25,3 +25,91 @@ The major festivals of the religious cycle are:
 - Feast of the Harvest Veil, celebrated 35 days before the Day of Atonement, on November 16th. Celebrates the harvest, associated with special food and when animals are slaughtered before the dry seasons / winter, associated with feasting, including nighttime celebrations of light and dancing. Begins the period of preparation for the Day of Atonement: each week following the Feast of the Harvest Moon is marked by one of the five siblings, in order of Chidya, Aagir, Jeevali, Laka, and finally Sonkar. 
 
 - [[Day of Atonement]], or the Feast of Sonkar's Blessing, celebrated on Dec 21st, the day of the winter solstice. A day of prayer, atonement, and judgment before Sonkar, which starts the last month of the year which is seen as particularly holy and a time when many gather when food is plentiful after the bounty of the rainy season. The month of the winter solstice, from Dec 21 - Jan 22, is known as Pralakar and is associated with prayers of forgiveness and reflection, as well as community and family. It is a holy month. 
+
+%% old notes from OneNote
+A few separate cycles interplaying.
+
+First, you have the cycle celebrating the year of birth, death, and renewal that was the first year of Dunmar.
+
+The events are roughly:
+
+Bhishma founds Dunmar
+
+Jeevali's tears wipe away plague curse
+
+Jeevali dies
+
+Aagir summons the Dunmari armies to cleanse the land of people and fights
+
+Bhishma prays
+
+Jeevali is reborn
+
+Related:
+
+Bhishma's ascension day
+
+So the holy calendar for the cycle of Jeevali, Bhishma, Dunmar's founding goes:
+
+Festival of Water, celebrating Jeevali's tears, sacrifice, and death, and the coming of the monsooons (July)
+
+Feast of Aagir's Spear, marking the wars of Aagir, the sacrifices and honor of the fighting spirit of the country, etc (October or maybe Feb)
+
+Festival of Rebirth, Jeevali returns (April)
+
+Bhishma's ascension, also marking the founding of the county (June)
+
+Need:
+
+All Souls Day type thing in December? November? (Laka)
+
+Sun fest in probably January?
+
+Harvest / slaughter in Nov?
+
+Something for Sonkar, maybe day of judgement type thing? Something like yom kippur / day of atonement?
+
+
+Dunmari are not really argicultural people, so harvest/food festivals focus on animal cycle:
+
+Calving in summer during rainy season, July through October (Chidya)
+
+Slaughter would usually be nov/dec before the worst of the dry season (not a particular god)
+
+
+February:
+
+March:
+
+April: Festival of Rebirth 
+
+May:
+
+June: Bhishma's acension / founder's day type thing (hmm but this is kind of an annoying time for a party holiday at the end of the dry season…although outside the desert / before times this was probably actually not a bad time of year, it was "summer" before the rains, things were dry but food probably not an issue)
+
+July: calving festival associated with Chidya; Jeevali's tears festival
+
+August:
+
+September: Feast of Aagir's Spear
+
+October:
+
+November: harvest festival associated with slaughter of lambs/goats/etc
+
+December: around solstice day of atonement associated with Sonkar; all souls day / Laka (*)
+
+January:  sun festival that marks the end of the month of the solstice / holy month / new year
+
+For now going to use first X moon after Y event as a guide so that dates change and it can feel like Dunmar had an older lunisolar calendar, but don't need to actuallly make one (although later prbaboy coould)
+
+Seasons in Dunmar:
+
+Winter: December - March
+
+Summer: April - June
+
+Monsoon: June - September
+
+Autumn: October - December
+%%
