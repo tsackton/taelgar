@@ -26,7 +26,7 @@ On the floor is also a door that will not open.
 
 The first floor, searched by [[Riswynn]], is only moderately enlightening, clearly the ruins of what was a main hall, a pantry/storeroom, and a kitchen. 
 
-After a brief discussion about the history of [[Stormcaller Tower]], revealed in pieces by [[Hralgar]] and the notes found in the secretary’s chamber, [[Delwath]] decides to teleport into the locked room. Once inside, he finds a relatively intact bedchamber of a wizard, presumably [[Eudomes]]. After a brief search turns up a few notable items -- a [[Goggles of Object Reading|pair of goggles with purple gem lenses]], a [[Eudomes' Mirror|magic mirror]], some coins and art -- [[Seeker]] shrinks the door to give [[Delwath]] a chance to exit and [[Wellby]] an opportunity for a brief search.
+After a brief discussion about the history of [[Stormcaller Tower]], revealed in pieces by [[Hralgar]] and the notes found in the secretary’s chamber, [[Delwath]] decides to teleport into the locked room. Once inside, he finds a relatively intact bedchamber of a wizard, presumably [[Eudomes]]. After a brief search turns up a few notable items -- a [[Goggles of Object Reading|pair of goggles with purple gem lenses]], a [[The Mirror of the Past|magic mirror]], some coins and art -- [[Seeker]] shrinks the door to give [[Delwath]] a chance to exit and [[Wellby]] an opportunity for a brief search.
 
 At this point, feeling they have learned all they can and looted as much as is possible from the tower, the party reconvenes on the wind platform over the plains to possibly do something about the iron globe. Meanwhile, [[Kenzo]] continues to journey with [[Hralgar]]’s mind, attempting to build a mental anchor for [[Hralgar]]’s consciousness to hold onto. 
 

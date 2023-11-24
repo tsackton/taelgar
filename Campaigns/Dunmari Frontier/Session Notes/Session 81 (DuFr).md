@@ -12,7 +12,7 @@ tags: ['#session-note', status/unknown]
 - The party visited the forest of [[Orenlas]], where they explored the living city of [[Erelion]], visiting the sacred elder tree and meeting Caretaker [[Erdhin]], the gardener [[Ealwen]], the retired solider [[Vahaiya]], and the poet [[Cirdore]]. 
 - After [[Kenzo]] attempts to get [[Ealwen]] to join the crew of [[Vindristjarna]], she says that while she does not feel she can leave [[Erelion]], she does know a few people who might want to join the ship as a gardener. 
 - The party spoke with the ancient [[Elves|elf]] [[Arheste]], who told them about the days of [[Drankorian Empire|Drankor]]: the [[Drankorian Civil War|civil war]] that ended centuries of peace; the rise of [[Omnis Pura]]; [[Apollyon|Apollyon]]'s reign; and his attempted ascension to godhood and ultimate downfall. 
-- After spending a day speaking with an learning from [[Arheste]], the party got a desperate message from [[Riswynn]], informing them that [[People/Other Nonhumans/Grash]] was nearly finished constructing a massive trebuchet, 400 feet tall at least, and if they did not arrive soon, [[Uzgukhar]] would be destroyed. 
+- After spending a day speaking with an learning from [[Arheste]], the party got a desperate message from [[Riswynn]], informing them that [[Grash]] was nearly finished constructing a massive trebuchet, 400 feet tall at least, and if they did not arrive soon, [[Uzgukhar]] would be destroyed. 
 
 #### The Story of Apollyon and Cha'mutte
 
@@ -28,7 +28,7 @@ This story is told from [[Arheste]]'s point of view [[Arheste#Arheste's Story|he
 - [[Arheste]] survived the plague, but at great cost. It left her sick and weakened, and stripped her of her formidable magic.
 - [[Apollyon|Apollyon]] also survived the plague, by drinking of vial of a pure black substance. [[Arheste]] later learned that this was the key ingredient in a ritual of undeath, and had turned [[Apollyon|Apollyon]] into a lich.
 - However, [[Apollyon|Apollyon]] was trapped by [[Cha'mutte]], who for unexplained reasons did not seek to destroy [[Apollyon|Apollyon]] utterly. Whether it was because he couldn't, or because he didn't want to, [[Arheste]] never learned. 
-- When [[Cha'mutte]] was killed, [[Apollyon|Apollyon]] began to break free, until [[Rai]] teleported to [[Drankor]], warned by [[Arheste]], and sought to maintain the bonds. [[Arheste]] never learned how [[Rai]] did this, but speculated it was as simple as grasping [[Apollyon|Apollyon]]'s phylactery in his magical [[jade]] hand. 
+- When [[Cha'mutte]] was killed, [[Apollyon|Apollyon]] began to break free, until [[Rai]] teleported to [[Drankor]], warned by [[Arheste]], and sought to maintain the bonds. [[Arheste]] never learned how [[Rai]] did this, but speculated it was as simple as grasping [[Apollyon|Apollyon]]'s phylactery in his magical [[Jade Piece of Rai's Hand|jade]] hand. 
 - At the beginning of this leya, around 1720 as [[humans]] reckon time, [[Arheste]] felt something change. A break, a shift, in [[Apollyon|Apollyon]]'s bonds, letting him break free and slowly gain power, recovering from the weakness of his long imprisonment. 
 - [[Arheste]], though too weak from the ongoing effects of plague exposure to seek [[Apollyon|Apollyon]] herself, will do anything in her power to ensure that he is defeated, once and for all, his phylactery destroyed utterly, and any hope of his resurrection crushed. 
 
@@ -44,7 +44,7 @@ End: evening, Jan 16th, 1749
 ***Everyone levels up to level 13 at the end of the session!***
 
 #### Mirror Visions
-- (DR::1749-01-13) [[Eudomes' Mirror]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
+- (DR::1749-01-13) [[The Mirror of the Past]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
 
 #### Timeline 
 
@@ -53,7 +53,7 @@ End: evening, Jan 16th, 1749
 - (DR::1749-01-10): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
 - (DR::1749-01-11) : Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
 - (DR::1749-01-12) : Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
-- (DR::1749-01-13) [[Eudomes' Mirror]] used to look at Elemental Forge
+- (DR::1749-01-13) [[The Mirror of the Past]] used to look at Elemental Forge
 - (DR::1749-01-14) : Return to [[Vindristjarna]], depart for [[Orenlas]]
 - (DR::1749-01-15) : Arrive in [[Orenlas]] in morning after traveling through the evening across the mountains; dinner party
 - (DR::1749-01-16) : Visit [[Arheste]]; sooth her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]]

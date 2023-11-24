@@ -8,7 +8,7 @@ An unadorned ring of made of three entwined golden braids, that radiates illusi
 
 Possessed by [[Agata]] for many years, and carried on her person. Taken by [[Delwath]] after [[Agata]] was slain by [[Dunmar Fellowship]] in 1748. 
 
-Seen in [[Eudomes' Mirror]]: 
+Seen in [[The Mirror of the Past]]: 
 
 ![[Ring of Displacement Vision]]
 

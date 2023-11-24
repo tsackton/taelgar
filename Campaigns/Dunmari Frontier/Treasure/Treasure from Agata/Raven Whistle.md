@@ -8,6 +8,6 @@ A whistle carved from the bone of a giant bird, radiates transmutation magic. Ta
 
 Originally carried by [[Wellby]]; given to Kenzo after [[Wellby]]'s adventures in the eastern [[Green Sea]]. 
 
-Seen in [[Eudomes' Mirror]]: [[Raven Whistle Vision]].
+Seen in [[The Mirror of the Past]]: [[Raven Whistle Vision]].
 
 %%SECRET[1]%%

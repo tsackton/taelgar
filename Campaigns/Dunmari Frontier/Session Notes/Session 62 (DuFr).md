@@ -56,7 +56,7 @@ During the conversation, the party reads letters from [[Tokra]] and elsewhere, a
 - [[Dunmar]] is on the bring of civil war: [[Nayan Karnas]] has seemingly not spoken to [[Johar]]; [[Havdar]] is turning bloodthirsty under the sway of a cursed sword; and the Lakan monks have not done anything yet.
 - [[Kadmos]] and company, now traveling with a subdued [[Vola]] (whether due to mundane or magical coercion is not entirely clear), are crossing [[Dunmar]].
 - [[People/Other Nonhumans/Grash]] is preparing to march east, and soon, with a large army of [[Orcs]] and undead, presumably to recover the [[Mantle of Protection]] which was, according to [[Govir]]'s research, lost in a fortification of the [[Aagir Mystai]] to the east during the [[Great War]]. 
-- A man in [[Ursk]] named [[Radomir]] found a piece of [[Rai]]'s [[Jade]], and it is now apparently in the possession of someone or something called Rodnya Voknaz.
+- A man in [[Ursk]] named [[Radomir]] found a [[Jade Piece of Rai's Hand]], and it is now apparently in the possession of someone or something called Rodnya Voknaz.
 
 The party decides to first try to restore [[Hralgar]], and then likely head east to attempt to beat [[People/Other Nonhumans/Grash]] to the [[Mantle of Protection]].
 
