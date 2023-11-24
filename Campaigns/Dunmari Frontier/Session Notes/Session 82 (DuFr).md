@@ -2,7 +2,7 @@
 tags: ['#session-note', status/unknown]
 ---
 # Session 82
-*in which the party defeats Grash and saves Uzgukhar*
+*in which the party defeats Grash and saves [[Uzgukhar]]*
 
 **In the real world:** 
 **In Taelgar:** 
