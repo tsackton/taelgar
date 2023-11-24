@@ -49,7 +49,8 @@ class WhereaboutsManager {
             location: location,
             logicalEnd: logicalEnd,
             logicalStart: logicalStart,
-            awayEnd: awayEnd
+            awayEnd: awayEnd,
+            format: w.format
         }
     }
 
@@ -67,7 +68,7 @@ class WhereaboutsManager {
     }
 
     getPartyMeeting(metadata, campaign) {
-        const { LocationManager } = customJS
+        const { StringFormatter } = customJS
         const { NameManager } = customJS
         const { DateManager } = customJS
 
@@ -84,12 +85,11 @@ class WhereaboutsManager {
                 let locForThisDate = this.getWhereabouts(metadata, element.date).current;
 
                 if (locForThisDate && (element.campaign == campaign || !campaign)) {
-                    let person = element.person ?? element.campaign
-                    let partyName = NameManager.getName(person, NameManager.CreateLink, NameManager.PreserveCase)
-                    if (partyName) {
+                    let person = element.person ?? element.campaign                    
+                    if (person) {
                         let type = element.type ?? "seen"
+                        let text = StringFormatter.getFormattedString(format, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person})
                         
-                        let text = LocationManager.buildFormattedLocationString(format, locForThisDate, displayDate, undefined, type, partyName, displayData.startStatus)
                         text = (text.charAt(0).toUpperCase() + text.slice(1)).trim()
 
                         results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
@@ -109,6 +109,9 @@ class WhereaboutsManager {
             }
 
             return wb.map(f => this.#getNormalizedWhereabout(f))
+        } else if (metadata && metadata.tags && metadata.partOf && metadata.tags.some(f => f.startsWith("place"))) {
+            let wb = [{ type: "home", location: metadata.partOf }]
+            return wb.map(f => this.#getNormalizedWhereabout(f))
         }
 
         return []
@@ -124,7 +127,7 @@ class WhereaboutsManager {
 
         let whereaboutResult = { current: undefined, home: undefined, origin: undefined, lastKnown: undefined }
 
-        let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate("0001-01-01", false)
+        let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate(metadata.created, false) ?? DateManager.normalizeDate("0001-01-01", false)
         let normalized = this.getWhereaboutsList(metadata)
 
         let homes = this.#filterWhereabouts(normalized, "home", targetDate, false)
