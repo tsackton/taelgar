@@ -1,5 +1,5 @@
 ---
-tags: [pc/greatwar, pc, person, status/unknown]
+tags: [pc/greatwar, pc, person, status/needswork]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Rai

@@ -1,5 +1,5 @@
 ---
-tags: [pc, person, pc/dunmarfrontier, status/unknown]
+tags: [pc, person, pc/dunmarfrontier, status/needswork]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Delwath

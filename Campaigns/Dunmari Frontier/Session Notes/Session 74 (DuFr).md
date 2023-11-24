@@ -12,7 +12,7 @@ tags: [status/unknown]
 Start: early afternoon, Dec 10th
 End: morning, Dec 17th
 ## Timeline
-- (DR:: 1748-12-10): Leave Uzgukhar, flying north on [[Vindristjarna]]
+- (DR:: 1748-12-10): Leave [[Uzgukhar]], flying north on [[Vindristjarna]]
 - (DR:: 1748-12-11): Fly north, high over the [[Plaguelands]]
 - (DR:: 1748-12-12): Fly over [[Isingue]]; descend to investigate, attacked by some kind of acidic ooze
 - (DR:: 1748-12-13): Reach [[Mostreve Hills]]; fly over [[Tyrwingha]]
