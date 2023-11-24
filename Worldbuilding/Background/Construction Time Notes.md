@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [notes/background]
 ---
 
 # Adobe construction

@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [meta]
 ---
 
 # Typology for Introducing D&D Creatures
