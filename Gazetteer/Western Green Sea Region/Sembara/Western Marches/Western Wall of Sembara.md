@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip, status/namecheck, place]
+tags: [status/needswork/wip, place]
 typeOf: wall
 partOf: Sembara
 ---

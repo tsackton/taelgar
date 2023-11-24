@@ -4,6 +4,7 @@ tags: [place, status/namecheck, status/needswork]
 
 
 %%
+name should not be considered definitive
 ### ~WesternIslands~
 
 - Thinking this is a isolated society, not necessarily with a strong navy, fairly urbanized with dense agriculture and fishing; maybe use some aspects of historical Japan as a model

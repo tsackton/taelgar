@@ -1,5 +1,5 @@
 ---
-tags: [place/ward, status/needwork/notes]
+tags: [place/ward, status/needswork/notes]
 partOf: Tollen
 displayDefaults: { definitiveArticle: ""}
 ---
