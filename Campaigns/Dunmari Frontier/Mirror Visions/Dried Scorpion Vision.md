@@ -2,5 +2,5 @@
 tags: [status/needswork, status/unknown]
 ---
 
-**Vision of [[Agata]]'s dried scorpions in [[Eudomes' Mirror]]
+**Vision of [[Agata]]'s dried scorpions in [[The Mirror of the Past]]
 

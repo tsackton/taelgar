@@ -5,7 +5,7 @@ tags: [status/unknown]
 
 You are standing on a flat, dry, dusty plain. As far as you can see, there is just ash and dust stretching to the horizon, the only feature a dark shadow in front of you that stains the landscape, lingering despite the sun high in the sky.
 
-You step forward and reach towards the shadow, concentrating as your hand solidifies. The weight of it still catches you off guard after all this time, and you have to strain to extend your arm, now solid [[Jade]]. As always, you hear the laughing voice in your head, telling you, "Hey my dude, your arm is gone again!". Briefly you imagine Dimitaur in [[Drankor]], perched on your stone body, watching your statue-arm fade away.
+You step forward and reach towards the shadow, concentrating as your hand solidifies. The weight of it still catches you off guard after all this time, and you have to strain to extend your arm, now solid [[Jade Piece of Rai's Hand|jade]]. As always, you hear the laughing voice in your head, telling you, "Hey my dude, your arm is gone again!". Briefly you imagine Dimitaur in [[Drankor]], perched on your stone body, watching your statue-arm fade away.
 
 You reach into the shadow now, feeling for the anchor that will close this portal, the low chanting of your companions behind you sustaining the effort this requires. There is heat, and intense waves of vicious hatred and inchoate anger from the shadow - this does not connect to the flat, emotionless landscape of the [[Shadowfell]], but someone worse, the [[Abyss]] perhaps. Still, if you can find the anchor and twist just right, the connection will sever no matter where it leads.
 

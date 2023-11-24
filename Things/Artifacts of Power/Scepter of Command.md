@@ -24,7 +24,7 @@ whereabouts:
 
 This scepter is about a foot long and is constructed in silver, with five loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 
-Seen in [[Eudomes' Mirror]]: [[Scepter of Command Vision]]
+Seen in [[The Mirror of the Past]]: [[Scepter of Command Vision]]
 
 From the mirror, you learned this is of Drankorian origin, constructed by [[Apollyon]], an emperor of [[Drankor]] in a tall black tower on a perfectly circular island, and used to enhance his command of his armies. It was carried by the fire giant who destroyed [[Kharsan]], you presume [[Mavdyr]] who led an [[Orcs|orc]] horde to attack [[Tokra]] in 1552 by the Drankorian Reckoning, 7 years after the death of [[Cha'mutte]]. [[Agata]] apparently obtained it in trade with the [[Fraternity of the Empty Moon]], in exchange for a scroll that would summon (and presumably bind) a demon from the [[Abyss]] who had the power to create gnoll armies, as well as a [[Pandemonium Scroll|scroll]] with the power to enhance the essence of [[Pandemonium]]. 
 

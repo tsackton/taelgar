@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 You ask [[Lubash]] to hold the cloak of rainbows to the mirror, and the scene fades. 
 
 The first thing you see is a field of clouds, glowing, bright and many colored, lit as if by the setting sun. And you see delicate fey hands  pulling on these clouds, weaving threads out of the sky and binding them together. You see a  cloak coming into being from these threads as the clouds themselves are distilled, the light of the sunset is distilled. You see the weaving motion as the the fay creature who is creating this cloak begins to weave back and forth, back and forth, repetitively building up many, many layers of these cloud threads together. The light sparkles off them, and the sparkling light, the bright, shimmering image, remains flickering on the mirror.

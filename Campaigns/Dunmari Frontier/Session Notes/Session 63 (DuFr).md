@@ -22,7 +22,7 @@ End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormca
 #### Eudomes’ Mirror:
 - [[Mace of Terror Vision]] (retcon from [[Session 50 (DuFr)]])
 - [[Hralgar's Eyes Vision]] (retcon from [[Session 50 (DuFr)]])
-- (DR:: 1748-11-15) [[Cha'mutte Armband Vision]] see in [[Eudomes' Mirror]] (recharge:: mirror)
+- (DR:: 1748-11-15) [[Cha'mutte Armband Vision]] see in [[The Mirror of the Past]] (recharge:: mirror)
 
 #### Divine Inspiration
 - (DR:: 1748-11-20): Riswynn's prayers are granted by the Bahrazel, freeing Havdar from his cursed sword. (recharge:: "divine inspiration")

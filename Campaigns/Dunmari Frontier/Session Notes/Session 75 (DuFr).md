@@ -13,8 +13,8 @@ tags: [status/unknown]
 Start: morning, Dec 17th
 End: mid-morning, Dec 25th
 
-#### [[Eudomes' Mirror]]
- - (DR: 1748-12-23): Use [[Eudomes' Mirror]] on Urgall's helm: [[Urgall's Helm Vision]]
+#### [[The Mirror of the Past]]
+ - (DR: 1748-12-23): Use [[The Mirror of the Past]] on Urgall's helm: [[Urgall's Helm Vision]]
 
 ## Timeline
 - (DR:: 1748-12-17): *(afternoon)* Meet [[Iskra]] at the Temple of [[Kaikkea]]. Meet Nika at [[The Windward Sail]], who takes party to [[Umli]] and then [[Caelynn]]. Speak with [[Umli]]; speak with [[Caelynn]]. [[Kenzo]] returns to speak with [[Iskra]] for the afternoon. 

@@ -14,7 +14,7 @@ A cotton and bamboo hand fan depicting the towers of [[Chardon]], the intricate 
 
 Looted from [[Agata's Lair|Agata's hut]] by [[Dunmar Fellowship]] in . Probably worth 10-180 gp.
 
-Seen in [[Eudomes' Mirror]]: [[Chardon Fan Vision]].
+Seen in [[The Mirror of the Past]]: [[Chardon Fan Vision]].
 
 Carried by [[Kenzo]]. 
 

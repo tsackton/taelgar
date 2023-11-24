@@ -14,8 +14,8 @@ tags: [status/unknown]
 Start: just after sunset, Nov 23rd 1748
 End: mid-morning, Nov 24th 1748
 
-#### [[Eudomes' Mirror]]:
-- (DR:: 1748-11-24): [[Eudomes' Mirror]] used to look at the Enchiridion of the [[Occulta Ludum]]. (recharge:: mirror)
+#### [[The Mirror of the Past]]:
+- (DR:: 1748-11-24): [[The Mirror of the Past]] used to look at the Enchiridion of the [[Occulta Ludum]]. (recharge:: mirror)
 
 ## Timeline
 
