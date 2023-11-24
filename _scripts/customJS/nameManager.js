@@ -6,6 +6,7 @@ class NameManager {
     CreateLink = "always"
     NoLink = "never"
     LinkIfValid = "exists"
+   
 
     #getElementFromMetadata(elem) {
         if (customJS.state.coreMeta) {
@@ -15,7 +16,7 @@ class NameManager {
         return undefined;
     }
 
-    #getPageType(metadata) {
+    getPageType(metadata) {
 
         if (!metadata) return "unknown"
 
@@ -161,7 +162,7 @@ class NameManager {
         }
 
         let displayDefaultData = this.#getElementFromMetadata("displayDefaults")
-        let defaultForThisItem = displayDefaultData ? displayDefaultData[this.#getPageType(metadata)] : undefined
+        let defaultForThisItem = displayDefaultData ? displayDefaultData[this.getPageType(metadata)] : undefined
         if (!defaultForThisItem) defaultForThisItem = this.#getElementFromMetadata("displayDefaults")?.default
 
 
@@ -170,22 +171,22 @@ class NameManager {
         let required = {
             startStatus: "",
             endStatus: "",
-            whereaboutsOrigin: "<loc>",
-            whereaboutsHome: "<loc>",
-            whereaboutsPastHome: "<loc>",
-            whereaboutsCurrent: "Current location (as of <target>): <loc>",
-            whereaboutsPast: "<end> in <loc>",
-            whereaboutsLastKnown: "Last known location: (as of <endDate>): <loc>",
+            whereaboutsOrigin: "<origin>",
+            whereaboutsHome: "<home>",
+            whereaboutsPastHome: "<home>",
+            whereaboutsCurrent: "Current location (as of <target>): <current>",
+            whereaboutsPast: "<end> in <current>",
+            whereaboutsLastKnown: "Last known location: (as of <lastknowndate>): <lastknown>",
             whereaboutsUnknown: "Current location: Unknown",
-            whereaboutsParty: "<met> by <person> on <target> in <loc>",
+            whereaboutsParty: "<met> by <person> on <target> in <current>",
             pageCurrent: "<start> <startDate>",
             pagePastWithStart: "<start> <startDate> - <end> <endDate>",
             pagePast: "<end> <endDate>",
             boxName: "Information",
-            partOf: "<loc>",
+            partOf: "",
             affiliationTypeOf: [],
             secondaryInfo: "",
-            ddbLinkText: "Mechanics"
+            ddbLinkText: ""
         }
 
         let base = merge_options(required, defaultForThisItem)
@@ -256,31 +257,5 @@ class NameManager {
     // casing = "title" | "lower" | "preserve"
     getName(target, linkType = this.LinkIfValid, casing = this.PreserveCase) {
         return this.getFilteredName(target, undefined, linkType, casing)
-    }
-
-    getDescriptionOfDateInformation(metadata, dateInfo, overrideDisplayInfo) {
-      
-        let pageDisplayData = overrideDisplayInfo ?? this.getDisplayData(metadata)
-        if (!dateInfo.isCreated) return pageDisplayData.pageNotExistError ?? "**(page is future dated)**"
-
-        let formatStr = undefined
-
-        if (dateInfo.endDate && dateInfo.endDate.display == "") formatStr = pageDisplayData.pagePast
-        else if (dateInfo.isAlive) {
-            if (!dateInfo.startDate) {
-                // we have a death date in the future and no start date, output nothing
-                return ""
-            }
-            formatStr = pageDisplayData.pageCurrent
-        }
-        else if (dateInfo.age) formatStr = pageDisplayData.pagePastWithStart
-        else if (dateInfo.endDate) formatStr = pageDisplayData.pagePast
-        else return ""
-
-        return formatStr.replace("<length>", dateInfo.age)
-            .replace("<start>", pageDisplayData.startStatus)
-            .replace("<end>", pageDisplayData.endStatus)
-            .replace("<startDate>", dateInfo.startDate?.display ?? "")
-            .replace("<endDate>", dateInfo.endDate?.display ?? "")
-    }
+    } 
 }
