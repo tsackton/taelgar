@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/needswork/notes]
 ---
 
 700 gp (from Lyra)

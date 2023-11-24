@@ -1,3 +1,3 @@
 ---
-tags: [status/unknown]
+tags: [status/needswork/notes]
 ---

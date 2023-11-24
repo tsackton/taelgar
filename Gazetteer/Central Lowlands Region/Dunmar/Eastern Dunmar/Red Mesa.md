@@ -1,19 +1,20 @@
 ---
 headerVersion: 2023.11.20
-tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
+displayDefaults: {partOf: "<article> <typeof> in <loc:2>"}
+tags: [place]
 name: Red Mesa
-typeOf: mesa
+typeOf: holy site
 partOf: Eastern Dunmar
 ---
 # The Red Mesa
 >[!info]+ Information
-> A mesa in [[Eastern Dunmar]], [[Dunmar]], the [[Central Lowlands Region]]
+> A holy site in [[Eastern Dunmar]], [[Dunmar]]
 
-A large, flat topped mesa of red stone, and the most notable landmark of [[Karawa]], rising six hundred feet or more above the town and the oasis it is built around.
+The Red Mesa is a large, flat topped mesa of red stone, that rises six hundred feet or more above desert, marked by ochre rock formations that seem almost to pulse with inner life. 
 
-The mesa itself is quite old, dating almost to [[The Founding of Dunmar]], for it represents the goddess [[Shakun]], and is in some sense her representation on earth.
-
-There has always been a holy spring here, a place that people said could show you glimpses of dreams and faraway visions of possible futures, guarded and protected by a small Mystery Cult dedicated to [[Shakun]].
+According to the [[Shakun mystai]], the mesa has been at this location since the early days of [[Dunmar]]. They claim that the mesa is the physical representation of [[Shakun]] herself, the mark of her presence on Taelgar. 
+%%^Campaign:DuFr%%
+%% these notes were learned by party in Dunmar campaign, but aren't common knowledge, not sure how to represent this in Taelgarverse%%
+The mesa itself is alive, as long as the [[Heart of Shakun]] remains within it, at the sacred site in the center of the Temple of Shakun. The rock grows, and the Shakun mystai harvest the living rock to produce healing powders and ointments. The living energy of the mesa, again in combination with the Heart of Shakun, also provides the mystical energy that allows [[Shakun's Protection]] to exist. 
+%%^End%%
 

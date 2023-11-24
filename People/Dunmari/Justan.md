@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed by Casian}
 campaignInfo:
-- {campaign: dufr, date: 1748-07-21, type: intimidated into helping}
+- {campaign: dufr, date: 1748-07-21, type: met}
 name: Justan
 born: 1723
 species: human
@@ -11,7 +11,7 @@ ancestry: Dunmari
 gender: male
 died: 1748-07-23
 whereabouts:
-- {type: home, start: '', end: '', location: Tokra}
+- {type: home, location: the plains north of Tokra}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
 ---
 # Justan
@@ -19,7 +19,7 @@ whereabouts:
 > [[Dunmar|Dunmari]] [[Humans|human]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Intimidated into helping by the [[Dunmar Fellowship]] on July 21st, 1748 in the [[Copper Hills]], [[Central Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 21st, 1748 in the [[Copper Hills]], [[Central Dunmar]], [[Dunmar]] %%^End%%
 
 A Dunmari man, from a family of horse herders traveling on the lands around Tokra. 
 %%^Campaign:DuFr%%

@@ -68,7 +68,7 @@ affiliations:
 > 
 > The waterfall looks kind of like flowstone. It just emerges from the wall of the cavern, without an obvious source, and is used to mix with all the other living stone to make potions. When you approach the stone pool below the waterfall, and investigate a bit more, it seems very strange. If you touch it and slowly dip your hand, it parts for you, and you can draw up something that feels almost like a liquid, but if you push hard on it, it is solid rock (basically, this is a non-Newtonian fluid). 
 > 
-> As for the power of this place, [[Candrosa]] tells you that the magical energy to grow these things comes from [[The Heart of Shakun]], and that he has always liked to think that this is the garden that [[Shakun]] imagines for herself, manifest of the living rock that is now [[Shakun]]'s body. When [[The Heart of Shakun]] was missing, the rock ceased to grow, the waterfall turned brittle and hard, and the delicate stone of the vines and flowers began to crack and crumble. 
+> As for the power of this place, [[Candrosa]] tells you that the magical energy to grow these things comes from [[Heart of Shakun]], and that he has always liked to think that this is the garden that [[Shakun]] imagines for herself, manifest of the living rock that is now [[Shakun]]'s body. When [[Heart of Shakun]] was missing, the rock ceased to grow, the waterfall turned brittle and hard, and the delicate stone of the vines and flowers began to crack and crumble. 
 > 
 
 > [!warning]- Seeker's Dream Journey, Session 32

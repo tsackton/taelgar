@@ -1,5 +1,9 @@
 ---
-tags: [place, status/namecheck, status/factcheck, status/unknown]
+tags: [place, status/namecheck, status/needswork/wip, status/needswork/notes]
 ---
 
-%% the lizardfolk swamp in the [[Yeraad River Basin]]. Homeland of [[Samso]] in the Great Library campaign %%
+%% 
+various lizardfolk swamps in the [[Yeraad River Basin]]. 
+part of this swampy area is the homeland of [[Samso]] in the Great Library campaign, which was canonically abandoned due to some mysterious disease/curse/something that only samso survived - however this is probably a small part of the entire region
+likely represents a collection of different lizardfolk areas
+%%

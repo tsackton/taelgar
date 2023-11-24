@@ -1,9 +1,5 @@
 ---
-tags: [place, status/unknown, status/factcheck]
+tags: [place, status/needswork/wip]
 ---
 
-%%% Mentioned in Place Names doc as Anoka (ruined) in the Central Coast
-No other information.
-
-Does this place exist and if so where it is?
-%%
+A ruined Dunmari city, somewhere south and maybe east of Kharsan. Tentative.
