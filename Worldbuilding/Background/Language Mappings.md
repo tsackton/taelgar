@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/docreview, status/unknown]
+tags: [meta, status/draft]
 ---
 
 
@@ -49,13 +49,13 @@ Moving roughly west to east.
 ### Drankorian
 Once spoken across almost the entire "known world" map, now considered a "scholarly" tongue only. Real world mapping "Classical" sounding, but varying between *Greek* and *Latin*. 
 
-Generally, I have considered **Sembaran**, **Cymean**, and **Isinguese** to represent a shared "language" as far as D&D is concerned, and just use the differences for naming. Chardonian is its own thing. 
-
 #### Chardonian
 Descended from Drankorian. Includes a number of languages spoken in now-destroyed West Coast realms, pre-Great-War. Real world mapping: generally I have leaned *Latin* for Chardon itself, with a bit more *Italian* in the north while also mixing in the occasional other "classical" things, so bits of *Greek* in particular. 
 
 #### Sembaran
 This is a mix of Drankorian with the local elements, especially the mariners. Real world mapping: *English*. Tyrwinghan is considered a dialect, and maps to *Welsh/Celtic*. 
+
+Generally, I have considered **Sembaran**, **Cymean**, and **Isinguese** to represent a shared "language" as far as D&D is concerned, and just use the differences for naming. Chardonian is its own thing. 
 
 #### Cymean
 A bit more "pure" Drankorian. Maps to *Spanish*, mostly, with some *Italian*. 
@@ -120,12 +120,6 @@ These are mostly based on how they sound, not carefully thought out language fam
 - High Draconic: spoken by dragons, the language of magic and elder wyrms
 
 %%raw notes below
-
-
-# Languages 
-
-Languages in the world of Taelgar are diverse, and yet the binding influence of magic and the gods have kept them from diverging too far apart. Nonetheless, individual languages described below typically represent clusters or language families, where knowledge of one member is assumed to represent knowledge of all.
-
 ## Human Languages
 
 Humans, lacking a Firstborn or creator god to guide them, have developed by far the most diverse set of languages among the humanoid races. In Hkar, before the fall, the magic of the birthplace of humanity bound humans together, and languages did not diverge much. Those who left Hkar were no longer bound by this magic, although all humans retain some ancestral memories of the language they were gifted at Creation. 

@@ -1,3 +1,8 @@
+---
+tags: [notes/background]
+---
+
+
 A few notes about ship designs.
 
 1. The Chardonian Navy relies typically on large, square-rigged ships with oars for backup power and maneuverability in naval engagements.

@@ -1,9 +1,10 @@
 ---
-tags: [background, status/unknown]
+tags: [background, status/draft]
 ---
-
-# Languages
+# Languages 
 ***This is a work in progress and details may change as new areas of the world are explored in play. Characters will always have an opportunity to retcon their language choices if elements of this section are revised.***
+
+Languages in the world of Taelgar are diverse, and yet the binding influence of magic and the gods have kept them from diverging too far apart. Nonetheless, individual languages described below typically represent clusters or language families, where knowledge of one member is assumed to represent knowledge of all.
 
 Common languages: Westros, Eastros; Drankorian, Sembaran, Cymean, Chardonian, Dunmari, Vosic; Dwarven, Elvish; Goblin; Sylvan
 Uncommon languages: Skaegish, Northlander; Stoneborn, Lizardling; Orcish, Giant, Centaur, Draconic; Primodial, Celestial, Shadowkar, Abyssal, Infernal
@@ -12,8 +13,8 @@ Rare languages: Northros; ~Extinct Eastern Language~; Halfling; Deep Speech, Exo
 Availability of magic and magical communication and travel, while rare, is frequent enough to encourage the spread of common trade tongues. Many non-human creatures also know trade languages, which allow communication among creatures of disparate backgrounds. At the DM's discretion, conversing in trade language may lack nuance, and slightly increase the difficulty of any ability check that relies on clear understanding of meaning. 
 
 - **Westros, or Common**: The primary trade tongue shared by all areas that were at one time under the sphere of influence of the Drankorian empire, and some adjacent areas, including Dunmar, and parts of Vostok and Skaerhem. 
-- **Eastros**: The primary trade tongue shared by the descendants of the ancient mariner people who settled the [[Green Sea]]. Most commonly spoken in the eastern half of the [[Green Sea]], but can be heard as far west as Tollen and Cymea. 
-- **Northros:** Once the trade language of the first humans to spread across the northwestern part of Taelgar, but now largely forgotten. 
+- **Eastros** (tentative name): The primary trade tongue shared by the descendants of the ancient mariner people who settled the [[Green Sea]]. Most commonly spoken in the eastern half of the [[Green Sea]], but can be heard as far west as Tollen and Cymea. 
+- **Northros** (tentative name): Once the trade language of the first humans to spread across the northwestern part of Taelgar, but now largely forgotten. 
 ### Human Languages
 * **Drankorian**: The original language of the Drankorian empire. While no longer commonly spoken, it is still used as a scholarly language in Chardon and parts of Sembara. Drankorian shares an alphabet and some similarities with Sembaran, Chardonian, and Cymean.
 * **Sembaran**: A number of related languages and dialects spoken in Sembara, parts of Vorstok, and Cymea. Derived from Drankorian.

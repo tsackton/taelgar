@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [map]
 ---
 
 ```leaflet 
