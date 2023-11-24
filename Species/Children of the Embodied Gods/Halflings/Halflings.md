@@ -110,4 +110,6 @@ Connection to firstborn, the “memories of the future”
 Racial consciousness connects here too, perhaps somehow they can remember the future? 
 
 Halflings count the days since time began, in a long cycle that repeats.
+
+
 %%
