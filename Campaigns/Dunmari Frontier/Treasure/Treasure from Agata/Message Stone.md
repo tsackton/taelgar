@@ -1,6 +1,9 @@
 ---
-tags: [status/unknown]
+tags: [status/needswork/notes, status/refactor]
 ---
+%%
+this is a specific page, which needs to be generalized for the basic class of items
+%%
 
 These message stones are of Drankorian origin. Taken from [[Samerki]] and [[Agata]]. Have a known range of at least 100 miles, but do not work across interplanar boundaries. Can be used for 5 minutes per day.
 

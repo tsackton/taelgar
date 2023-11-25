@@ -1,5 +1,5 @@
 ---
-tags: ['#session-note', status/unknown]
+tags: [session-note, status/unknown]
 ---
 # Session 80
 *in which the party frees an elemental*

@@ -12,11 +12,9 @@ ancestry: halfling
 > A [[Halflings|halfling]] family
 
 %% no information exists about this family; only created members were two brothers traveling for unknown reasons%%
-
-%%^Campaign:None%%
 ## Members
 - [[Lyle Greenleaf]] and [[Alton Greenleaf]], brothers
-
+%%^Campaign:None%%
 ```dataviewjs
 const { util } = customJS
 dv.table(["Person", "Current Location"], 
