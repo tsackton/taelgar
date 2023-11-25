@@ -28,8 +28,9 @@ The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads o
 
 Now, it is worn by the chiefs of [[Xurkhaz]], currently Chief [[Lubash]]. 
 
-The power of the cloak has allowed, with hard work over the years, the [[People of the Rainbow]] to construct a magical barrier around [[Xurkhaz]], a barrier that prevents [[Thark]] from acting, seeing, or in any way influencing events in [[Xurkhaz]]. Not only does this keep the orcs of [[Xurkhaz]] safe from Thark's spying, it means that chained orcs, as they call the orcs still ensnared by Thark's magic
+The power of the cloak has allowed, with hard work over the years, the [[People of the Rainbow]] to construct a magical barrier around [[Xurkhaz]], a barrier that prevents [[Thark]] from acting, seeing, or in any way influencing events in [[Xurkhaz]]. Not only does this keep the orcs of [[Xurkhaz]] safe from Thark's spying, it means that chained orcs, as they call the orcs still ensnared by Thark's magic, will not willingly enter [[Xurkhaz]]. 
 
+The cloak also has the power to silence divine magic in a wide radius, should the wearer wish it. 
 
 %%SECRET[1]%%
 
