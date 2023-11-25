@@ -1,5 +1,5 @@
 ---
-tags: ['#session-note', status/unknown]
+tags: [session-note]
 ---
 # Session 81
 *in which the party visits [[Orenlas]]*
