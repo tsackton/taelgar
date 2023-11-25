@@ -5,6 +5,7 @@ campaignInfo:
 - {campaign: DuFr, type: scryed, date: 1748-12-28}
 name: Grash
 born:
+died: 1749-01-20
 species: undead
 ancestry: skeletal
 gender: male

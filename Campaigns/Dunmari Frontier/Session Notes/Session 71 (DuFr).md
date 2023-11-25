@@ -18,7 +18,7 @@ End: late evening, Dec 5th
 
 ## Narrative
 
-We begin as the party returns to the skyship [[Vindristjarna]], to discuss and plan while awaiting the arrival of Loremaster [[Azogar]] and General [[Murook]], who are expecting a tour of the ship. After some discussion of the events of earlier in the day, and the magic of the [[Mantle of Protection]], conversation stops as the orcish visitors arrive. 
+We begin as the party returns to the skyship [[Vindristjarna]], to discuss and plan while awaiting the arrival of Loremaster [[Azogar]] and General [[Murook]], who are expecting a tour of the ship. After some discussion of the events of earlier in the day, and the magic of the [[Cloak of Rainbows]], conversation stops as the orcish visitors arrive. 
 
 Loremaster [[Azogar]] is very curious about the magic of the skyship, and quickly catches [[Seeker]]'s attention with his questioning. [[Seeker]] explains about the phasing stone, holding little back, as the conversation drifts among topics, touching on the origin of the phasing stone, the [[Feywild]] and its connection to cloak, and the idea of crystallized magic connecting to many different planes. [[Azogar]] speaks of the various rumors and tales he has collected, from the time before the founding of [[Xurkhaz]], when the [[Orcs]] wandered widely, hiding where they could from [[Thark]]'s raiders. In particular, a tale of a hero of his people, who used the crystalized magic of the [[elemental plane of water]] to create fog that hid his tribe for years. During the conversation, [[Murook]] asks about the tactical uses of the skyship, as well, and quizzes the party on exactly what happens to the dead, reanimated [[Orcs]]. 
 

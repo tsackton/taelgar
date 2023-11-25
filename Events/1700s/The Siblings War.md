@@ -1,6 +1,6 @@
 ---
 tags: [event-source, status/unknown]
-timelineDescriptor: War of the Cloak
+timelineDescriptor: The Siblings War
 ---
 
 # The Siblings War
