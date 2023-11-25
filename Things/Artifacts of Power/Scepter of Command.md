@@ -4,7 +4,7 @@ tags: [item/magical, testcase, status/unknown]
 rarity: unique
 campaignInfo:
 - {campaign: DuFr, type: destroyed, date: 1748-12-25}
-created: 1000
+created: 1053
 destroyed: 1748-12-25
 typeOf: scepter
 whereabouts:

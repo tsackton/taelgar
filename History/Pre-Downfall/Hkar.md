@@ -1,5 +1,5 @@
 ---
-tags: [status/notes, status/unknown]
+tags: [status/needswork]
 ---
 # Hkar
 

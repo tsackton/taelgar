@@ -1,5 +1,5 @@
 ---
-tags: [person, status/unknown]
+tags: [person, status/needswork/collate]
 campaignInfo:
 - {campaign: DuFr, type: freed, date: 1749-01-08}
 name: Sh’shethis

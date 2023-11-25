@@ -1,5 +1,5 @@
 ---
-tags: [historical, person, dufr/aware, status/unknown]
+tags: [historical, person, dufr/aware, status/needswork/notes, status/needswork/wip]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Cha'mutte

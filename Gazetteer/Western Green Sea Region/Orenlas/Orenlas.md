@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 displayDefaults: {partOf: An <ancestry> <subtypeof> <typeof> in <loc>}
-tags: [place, status/draft]
+tags: [place]
 campaignInfo:
 name: Orenlas
 typeOf: realm
@@ -15,7 +15,7 @@ pronunciation: o-REN-las
 >[!info]+ Information
 > An [[Elves|elven]] forest realm in the [[Western Green Sea Region]]
 
-The elven forest of Orenlas is the last remnant of the ancient forests of [[Alcarinque]], once home to the great elven civilizations of the days of myth. Orenlas is one of the few places in the world where the magic of those days still lingers. Here can still be found the great dreaming trees of the [[elves]], still echoing the song of [[Aldanor]]. 
+The elven forest of Orenlas is the last remnant of the ancient forests of [[Alcarinque]], once home to the great elven civilizations of the days of myth. Orenlas is one of the few places in the world where the magic of those days still lingers. Here can still be found the great dreaming trees of the [[elves]], still echoing the song of [[Aldanor]]. It is one of the oldest, if not the oldest, still-standing forests on Taelgar. 
 
 Orenlas proper occupies the forest southeast of [[~Lake Cymea~]] and southwest of the [[~Cymea Border Mountains~]], north and east of the [[Plaguelands]], an area about 140 miles east to west and 80 miles north to south. Dense mists cling to these woods, and the trees listen. It is rumored that those who are unwelcome find paths closed to them, turned in circles until they find themselves outside the forest again. Those who would do harm are led to more permanent fates. 
 
