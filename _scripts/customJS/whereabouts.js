@@ -89,9 +89,6 @@ class WhereaboutsManager {
                     if (person) {
                         let type = element.type ?? "seen"
                         let text = StringFormatter.getFormattedString(format, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person})
-                        
-                        text = (text.charAt(0).toUpperCase() + text.slice(1)).trim()
-
                         results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }
@@ -102,6 +99,8 @@ class WhereaboutsManager {
     }
 
     getWhereaboutsList(metadata) {
+        const {NameManager} = customJS
+
         if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
             let wb = metadata.whereabouts
             if (typeof metadata.whereabouts === 'string' || metadata.whereabouts instanceof String) {
@@ -109,7 +108,7 @@ class WhereaboutsManager {
             }
 
             return wb.map(f => this.#getNormalizedWhereabout(f))
-        } else if (metadata && metadata.tags && metadata.partOf && metadata.tags.some(f => f.startsWith("place"))) {
+        } else if (metadata && NameManager.getPageType(metadata) == "place") {
             let wb = [{ type: "home", location: metadata.partOf }]
             return wb.map(f => this.#getNormalizedWhereabout(f))
         }
@@ -123,8 +122,7 @@ class WhereaboutsManager {
         targetDate = DateManager.normalizeDate(targetDate)
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
 
-        console.log("Getting whereabouts for " + metadata.name + " for date " + targetDate.display)
-
+        
         let whereaboutResult = { current: undefined, home: undefined, origin: undefined, lastKnown: undefined }
 
         let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate(metadata.created, false) ?? DateManager.normalizeDate("0001-01-01", false)
