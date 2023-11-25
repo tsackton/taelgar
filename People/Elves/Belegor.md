@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.20
 tags: [status/uptodate, person, dufr/met, dufr/minor, event-source, testcase, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died }
 campaignInfo:
 - {campaign: dufr, date: 1748-09-30, type: met}
 name: Belegor
@@ -20,10 +21,10 @@ timelineDescriptor: Belegor
 # Belegor
 *(beh-leh-GOR)*
 >[!info]+ Biographical Info
-> [[Elves|elf]], he/him ([[The Cycle of Generations|ka]] 36)
+> [[Elves|elf]], he/him of ([[The Cycle of Generations|ka]] 36)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on September 30th, 1748 in [[Te'kula village]], [[Elderwood]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on September 30th, 1748 in [[Te'kula village]], [[Elderwood]] %%^End%%
 
 Belegor is a solitary [[Elves|elf]] wanderer, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [[Great War]]. 
 ## Overview

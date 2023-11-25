@@ -9,23 +9,26 @@ species: human
 ancestry: Dunmari
 gender: female
 aliases: [Nayan Sura]
-affiliations: [Nayan Dynasty]
+affiliations: 
+- {org: Nayan Dynasty, type: primary}
+- {org: Eastern Dunmar, type: leader, start: 1748-07-22, title: Samraat }
 whereabouts:
-- {type: home, end: 1740, location: 'Darba, Western Dunmar'}
+- {type: home, end: 1740, location: 'Darba', format: "2"}
 - {type: home, start: 1735, end: 1737, location: Lakan Monastery}
 - {type: away, start: 1740, end: 1748-06-08, location: Mirror of Soul Trapping}
 - {type: away, start: 1748-06-08, end: 1748-07-22, location: Karawa}
 - {type: away, start: 1748-07-22, end: 1748-12-14, location: Central Dunmar}
 - {type: away, start: 1748-12-14, end: 1748-12-22, location: Tokra}
-- {type: away, start: 1748-12-22, end: 1748-12-26, location: plains south of Tokra}
-- {type: away, start: 1748-12-26, end: !!null '', location: plains south of Tokra}
+- {type: away, start: 1748-12-22, end: 1748-12-26, location: plains south of Tokra, format: "r"}
+- {type: away, start: 1748-12-26, end: !!null '', location: plains south of Tokra, format: "r"}
 ---
 # Nayan Sura
 >[!info]+ Biographical Info
 > [[Dunmar|Dunmari]] [[Humans|human]], she/her of the [[Nayan Dynasty|Nayan dynasty]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Scryed by the [[Dunmar Fellowship]] on December 26th, 1748 in plains south of  [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Scryed by the [[Dunmar Fellowship]] on December 26th, 1748 in plains south of [[Tokra]], [[Dunmar]] %%^End%%
 
 Nayan Sura is the younger sister of Samraat [[Nayan Karnas]]. Once seen as a future Samraat and a unifier of [[Eastern Dunmar|eastern]] and [[Western Dunmar]], she vanished eight years ago, trapped by [[Agata]] Dustmother in the [[Mirror of Soul Trapping]]. In her absence, her brother, [[Nayan Karnas]], claimed the throne of [[Dunmar]]. In DR 1748, Nayan Sura was freed from [[Agata]]'s imprisonment, and now seeks to reclaim her destiny. 
 ## Overview
