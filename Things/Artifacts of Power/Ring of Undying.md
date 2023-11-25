@@ -1,15 +1,20 @@
 ---
+headerVersion: 2023.11.20
 tags: [item/magical, status/unknown]
+displayDefaults: { whereaboutsPastHome: "Was owned by: <loc:1>", pagePast: "destroyed by [[Wellby]] on <endDate>"}
 typeOf: ring
+rarity: unique
+destroyed: 1749-01-20
 whereabouts: Grash
 ---
 # The Ring of Undying
 >[!info]+ Information
-> (magical ring)
+> (unique magical ring)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A ring, worn by [[People/Other Nonhumans/Grash]], that supposedly lets one cheat death forever, and control death around you. 
+A ring, worn by [[Grash]], that supposedly lets one cheat death forever, and control death around you. Presumably the source of [[Grash]]'s ability to resurrect dead [[Orcs]] into undead. 
 
-Presumably the source of [[People/Other Nonhumans/Grash]]'s ability to resurrect dead [[Orcs]] into undead. 
+The ring was rumored to have been created by an ancient elven wizard from the early days of the world, before humans walked Taelgar. It was made by binding the very substance of the [[Land of the Dead]] into a ring, that gave one power over life and death itself. 
 
-Also theorized to be a relic of [[Apollyon]]. 
+How this elf lost the ring is not told, but it reappeared in Drankor, during the golden age, to much consternation. The ring, it is said, would draw the life force of anyone near the wearer when the wearer died, using this life energy to keep the wearer from dying. An attempt was made to destroy it, but it failed, and the ring was lost again. 
