@@ -1,17 +1,3 @@
-function getPrimaryAffiliationName(affiliation, displayDefaultData) {
-    const { NameManager } = customJS
-
-    if (displayDefaultData.affiliationTypeOf == undefined)
-        return undefined
-
-    if (displayDefaultData.affiliationTypeOf.length == 0)
-        return undefined
-
-    return NameManager.getFilteredName(affiliation, f => {
-        if (!f.typeOf) return false;
-        return displayDefaultData.affiliationTypeOf.includes(f.typeOf)
-    }, NameManager.CreateLink)
-}
 
 /*  # DisplayName
     *(pronunciation)*
@@ -48,7 +34,9 @@ async function generateHeader(tp) {
     let summaryBlockLines = []
 
     let typeOf = StringFormatter.getFormattedString(displayDefaults.secondaryInfo, file)
-    if (typeOf && typeOf.length > 0) summaryBlockLines.push("> " + typeOf)
+    if (typeOf && typeOf.length > 0) {
+        summaryBlockLines.push("> " + typeOf)
+    }
 
     if (tp.frontmatter.ddbLink && displayDefaults.ddbLinkText && displayDefaults.ddbLinkText.length > 0) {
         summaryBlockLines.push("> [" + displayDefaults.ddbLinkText + "](" + tp.frontmatter.ddbLink + ")")
@@ -58,8 +46,8 @@ async function generateHeader(tp) {
         summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_PageDatedValue")`')
     }
 
-    if (tp.frontmatter.leaderOf) {
-        summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_RegnalValue")`')
+    if (tp.frontmatter.leaderOf || tp.frontmatter.affiliations) {
+        summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_Affiliations")`')
     }
 
     let partOf = StringFormatter.getFormattedString(displayDefaults.partOf, file)
@@ -73,21 +61,6 @@ async function generateHeader(tp) {
 
     for (let meeting of WhereaboutsManager.getPartyMeeting(tp.frontmatter, undefined)) {
         summaryBlockLines.push(`>> %%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`);
-    }
-
-    let memberOfLines = []
-
-    if (tp.frontmatter.affiliations && tp.frontmatter.affiliations.length > 0) {
-        for (let i = 0; i < tp.frontmatter.affiliations.length; i++) {
-            let aff = tp.frontmatter.affiliations[i]
-
-            if (getPrimaryAffiliationName(aff, displayDefaults)) continue
-            memberOfLines.push(NameManager.getName(aff, NameManager.CreateLink, NameManager.TitleCase))
-        }
-    }
-
-    if (memberOfLines.length > 0) {
-        summaryBlockLines.push(">> Member of: " + memberOfLines.join(", "));
     }
 
     if (summaryBlockLines.length > 0) {

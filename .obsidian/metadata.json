@@ -23,11 +23,6 @@
     "displayDefaults": {
         "deity": {
             "boxName": "Summary",
-            "affiliationTypeOf": [
-                "realm",
-                "species",
-                "religion"
-            ],
             "definitiveArticle": "",
             "secondaryInfo": "<pronouns>"
         },
@@ -35,41 +30,37 @@
             "boxName": "Biographical Info",
             "startStatus": "born",
             "endStatus": "died",
-            "affiliationTypeOf": [
-                "family",
-                "clan"
-            ],
             "definitiveArticle": "",
             "whereaboutsOrigin": "Originally from: <origin>",
             "whereaboutsHome": "Based in: <home>",
-            "whereaboutsPast": "<end:t> in <current>",
+            "whereaboutsPast": "<end:u> in <current>",
             "whereaboutsPastHome": "Lived in: <home>",
-            "whereaboutsParty": "<met:t> by <person> on <target> in <current>",
-            "pageCurrent": "<start:t> <startDate> (<length> years old)",
+            "whereaboutsParty": "<met:u> by <person> on <target> in <current>",
+            "pageCurrent": "<start:u> <startDate> (<length> years old)",
             "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
-            "pagePast": "<end:t> <endDate>",
-            "secondaryInfo": "<ancestry:A> <mainType:Al>, <pronouns> (<ka>)",
+            "pagePast": "<end:u> <endDate>",
+            "secondaryInfo": "<ancestry> <mainType:As>, <pronouns> of <primary>\n(<ka>)",
             "ddbLinkText": "Character Sheet"
         },
         "place": {
             "startStatus": "founded",
             "endStatus": "destroyed",
-            "pageCurrent": "<start:t> <startDate> (<length> years ago)",
+            "pageCurrent": "<start:u> <startDate> (<length> years ago)",
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
-            "pagePast": "<end:t> <endDate>",
+            "pagePast": "<end:u> <endDate>",
             "partOf": "<ancestry:A> <typeof:A> in <current>",
             "secondaryInfo": "<population>"
         },
         "item": {
             "startStatus": "created",
             "endStatus": "destroyed",
-            "whereaboutsOrigin": "<start> by: <origin>",
+            "whereaboutsOrigin": "<start:u> by: <origin>",
             "whereaboutsHome": "Owner: <home>",
             "whereaboutsPastHome": "Was owned by: <home>",
-            "pageCurrent": "<start> <startDate> (<length> years ago)",
+            "pageCurrent": "<start:u> <startDate> (<length> years ago)",
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
-            "pagePast": "<end:t> <endDate>",
-            "secondaryInfo": "(<rarity> <ancestry> <subtypeof> <typeof>)",
+            "pagePast": "<end:u> <endDate>",
+            "secondaryInfo": "(<rarity:s> <ancestry> <subtypeof:s> <typeof:s>)",
             "ddbLinkText": "Mechanics"
         },
         "organization": {
@@ -78,11 +69,11 @@
             "whereaboutsOrigin": "Founded in: <origin>",
             "whereaboutsHome": "Based in: <home>",
             "whereaboutsPastHome": "Was based in: <home>",
-            "pageCurrent": "<start> <startDate> (<length> years ago)",
+            "pageCurrent": "<start:u> <startDate> (<length> years ago)",
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
-            "pagePast": "<end> <endDate>",
-            "partOf": "Parent Organization: <partof>",
-            "secondaryInfo": "<ancestry> <mainType>"
+            "pagePast": "<end:u> <endDate>",
+            "partOf": "Parent Organization: <partof:yt>",
+            "secondaryInfo": "<ancestry:A> <mainType:As>"
         },
         "event": {
             "startStatus": "started in",
@@ -90,10 +81,10 @@
             "whereaboutsOrigin": "Started in: <origin>",
             "whereaboutsHome": "Occurring in: <home>",
             "whereaboutsPastHome": "Happened in: <home>",
-            "pageCurrent": "<start> <startDate> (<length> years ago)",
+            "pageCurrent": "<start:u> <startDate> (<length> years ago)",
             "pagePastWithStart": "<startDate> - <endDate>, lasted <length> years",
-            "pagePast": "<end> <endDate>",
-            "partOf": "part of <partof>"
+            "pagePast": "<end:u> <endDate>",
+            "partOf": "part of <partof:ty>"
         },
         "unknown": {
             "startStatus": "created",
