@@ -61,7 +61,7 @@ class AffiliationManager {
         if (typeof affiliation === 'string' || affiliation instanceof String) {
             result =
             {
-                startDate: defaultStart ?? pageDates.startDate ?? minDate,
+                startDate: defaultStart ??  minDate,
                 endDate: pageDates.endDate ?? maxDate,
                 org: affiliation,
             }
@@ -69,7 +69,7 @@ class AffiliationManager {
         else {
             result =
             {
-                startDate: DateManager.normalizeDate(affiliation.start, false) ?? defaultStart ?? pageDates.startDate ?? minDate,
+                startDate: DateManager.normalizeDate(affiliation.start, false) ?? defaultStart ?? minDate,
                 endDate: DateManager.normalizeDate(affiliation.end, true) ?? pageDates.endDate ?? maxDate,
                 org: affiliation.org,
                 type: affiliation.type,

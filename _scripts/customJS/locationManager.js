@@ -130,7 +130,7 @@ class LocationManager {
         return true
     }
 
-    #getLocationFromPartOfs(locationPiece, targeDate, thisDepth, maxDepth, linkType, casing, format) {
+    #getLocationFromPartOfs(locationPiece, targetDate, thisDepth, maxDepth, linkType, casing, format) {
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
@@ -142,8 +142,7 @@ class LocationManager {
         let nameSection = NameManager.getName(locationPiece, linkType, casing)
         let file = NameManager.getFileForTarget(locationPiece)
 
-        if (!this.#shouldAllowPiece()) nameSection = undefined
-
+       
         // we can't keep going, because this piece doesn't exist
         if (!file) {
             // lets see if we have a match to our capital letter check
@@ -153,20 +152,24 @@ class LocationManager {
                 // at the moment there is a bug where the filters ignore this type of thing - or more accurately, we end up with the "travelling in " or whatever piece added no matter what
                 let potentialNextPiece = locationPiece.substring(match.index)              
                
-                return locationPiece.substring(0, match.index) + " " + this.#getLocationFromPartOfs(potentialNextPiece, targeDate, thisDepth, maxDepth, linkType, casing)
+                return locationPiece.substring(0, match.index) + " " + this.#getLocationFromPartOfs(potentialNextPiece, targetDate, thisDepth, maxDepth, linkType, casing, format)
             }
 
             return nameSection
         } else {
             let nextLevel = undefined
+            
+            if (!this.#shouldAllowPiece(format, thisDepth, file.frontmatter)) {
+                nameSection = undefined
+            } 
 
-            let current = WhereaboutsManager.getWhereabouts(file.frontmatter, targeDate).current
+            let current = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current
             if (current) nextLevel = current.location;
 
             if (nextLevel && nameSection) {
-                return nameSection + ", " + this.#getLocationFromPartOfs(nextLevel, targeDate, thisDepth + 1, maxDepth, linkType, casing)
+                return nameSection + ", " + this.#getLocationFromPartOfs(nextLevel, targetDate, thisDepth + 1, maxDepth, linkType, casing, format)
             } else if (nextLevel) {
-                return this.#getLocationFromPartOfs(nextLevel, targeDate, thisDepth + 1, maxDepth, linkType, casing)
+                return this.#getLocationFromPartOfs(nextLevel, targetDate, thisDepth + 1, maxDepth, linkType, casing, format)
             } else if (nameSection) {
                 return nameSection
             } else {

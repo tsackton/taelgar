@@ -251,7 +251,8 @@ class StringFormatter {
                 }
 
                 if (generateArticle) {
-                    let firstChar = value[0]
+                    let trimmedValue = value.replace("[[", "").replace("]]", "").toLowerCase()
+                    let firstChar = trimmedValue[0]                             
                     if (firstChar == "a" || firstChar == "e" || firstChar == "i" || firstChar == "e" || firstChar == "u") {
                         value = "an " + value
                     } else {
