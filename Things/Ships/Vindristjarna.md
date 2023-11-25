@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [item, status/unknown]
+tags: [item, status/update]
 pronunciation: vin-dree-SHAR-na
 whereabouts:
 - {type: home, location: unknown storm giant}
@@ -8,7 +8,8 @@ whereabouts:
 - {type: away, start: 1748-12-03, end: 1748-12-10, location: Uzgukhar}
 - {type: away, start: 1748-12-28, end: 1749-01-04, location: Tollen} #check
 - {type: away, start: 1749-01-15, end: 1749-01-16, location: Orenlas}
-- {type: away, start: 1749-01-17, end: 1749-01-20, location: traveling to Xurkhaz}
+- {type: away, start: 1749-01-17, end: 1749-01-19, location: traveling to Xurkhaz}
+- {type: away, start: 1749-01-20, end: 1749-01-21, location: Uzgukhar}
 magical: true
 rarity: unique
 typeOf: skyship
@@ -27,7 +28,7 @@ Eons ago, lost in the dawn of time when the Firstborn walked the earth and the g
 
 One such skyship, the Star on the Wind, Vindristjarna (vin-dree-shar-na), crashed on what is now the Dunmari plains thousands of years ago. 
 
-The ancient skyships of the storm giants are powered by [[phasing stones]], that connect to the dreamworld and allow one to imagine and project different physics, physics where stone can float. 
+The ancient skyships of the storm giants are powered by [[Phasing Stones]], that connect to the dreamworld and allow one to imagine and project different physics, physics where stone can float. 
 
 While the phasing stone that originally powered Vindristjarna is mostly destroyed, the ship is otherwise intact and could be made to fly with a new phasing stone. 
 

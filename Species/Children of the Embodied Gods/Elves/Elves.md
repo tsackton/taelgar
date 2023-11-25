@@ -1,5 +1,5 @@
 ---
-tags: [status/docreview, species, status/unknown]
+tags: [status/needswork/notes, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
 ---

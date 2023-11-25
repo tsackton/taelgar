@@ -15,7 +15,6 @@ leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
-reignEnd: 1628
 ---
 # King Arryn II
 >[!info]+ Biographical Info

@@ -10,8 +10,8 @@ ancestry:
 gender: nonbinary
 whereabouts:
 - {type: home, start: '', end: '', location: Am'khazar}
-- {type: home, start: '', end: '', location: 'Taviose, Sembara'}
-- {type: away, start: 1719-11-21, end: 1719-12-23, location: 'Dunfry, Sembara'}
+- {type: home, start: '', end: '', location: 'Taviose'}
+- {type: away, start: 1719-11-21, end: 1719-12-23, location: 'Dunfry'}
 ---
 # Brot Starsearcher
 >[!info]+ Biographical Info
