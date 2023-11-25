@@ -1,6 +1,27 @@
 class util {
 
 
+    isLinkedToPerson(file, target) {
+        
+        let allowInlinks = this.getType(file.frontmatter) != "place"
+
+        if (file.outlinks) {
+            if (file.outlinks.includes(target.link)) return true;
+        }
+
+        if (file.inlinks && allowInlinks) {
+            if (file.inlinks.includes(target.link)) return true;
+        }
+
+        return false;
+    }
+
+
+    getInfoLine(metadata) {
+        const { NameManager } = customJS
+        return NameManager.getInfoLine(metadata)
+    }
+
     isKnownToParty(file, personMetadata, campaignPrefix, allowTag, allowSessionNotes, campaignFolder) {
 
         const { NameManager } = customJS
@@ -22,7 +43,7 @@ class util {
             if (!campaignFolder) {
                 campaignFolder = NameManager.getCampaignSessionNoteFolder(campaignPrefix)
             }
-            
+
             if (campaignFolder) {
                 return DataviewAPI.page(file).file.inlinks.some(f => f.path.contains("Campaigns/" + campaignFolder + "/Session Notes") || f.path.contains(campaignFolder))
             }
@@ -33,7 +54,7 @@ class util {
 
     isAffiliated(target, metadata) {
         if (!metadata) return false
-        
+
         if (!metadata.affiliations) return false
         if (!Array.isArray(metadata.affiliations)) return false;
 
@@ -57,9 +78,7 @@ class util {
         if (!current) {
 
             let currentWb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-            if (currentWb.current == undefined || currentWb.current.location == undefined || currentWb.current.location == "Unknown") {
-
-                console.log(currentWb)
+            if (currentWb.current == undefined || currentWb.current.location == undefined || currentWb.current.location == "Unknown") {                
 
                 if (includeLastKnown && currentWb.lastKnown && currentWb.lastKnown.location) {
                     return LocationManager.isInLocation(currentWb.lastKnown.location, targetLocation, targetDate)
@@ -104,19 +123,9 @@ class util {
     }
 
     getLoc(metadata, targetDate) {
-        const { NameManager } = customJS
-        const { WhereaboutsManager } = customJS
-        const { LocationManager } = customJS
+        const { StringFormatter } = customJS
 
-        let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-        
-        if (wb.current) {
-            return LocationManager.buildFormattedLocationString("<loc:2>", wb.current, targetDate, "", "", "", "")
-        }
-        else if (wb.lastKnown) {
-            return LocationManager.buildFormattedLocationString("Last seen on <endDate> at <loc:2>", wb.lastKnown, targetDate, "", "", "", "")            
-        }
-        return "Unknown"        
+        return StringFormatter.getFormattedString("<loc:2>", { frontmatter: metadata }, targetDate)
     }
 
 }

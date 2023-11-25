@@ -31,7 +31,7 @@ class LocationManager {
             }
 
 
-            let match = new RegExp("[A-Z]{1}").exec(startingLocation)
+            let match = new RegExp("[~A-Z]{1}").exec(startingLocation)
             if (match && match.index > 0) {
                 return this.isInLocation(startingLocation.substring(match.index), targetLocation)
             }
@@ -64,7 +64,73 @@ class LocationManager {
         }
     }
 
-    #getLocationFromPartOfs(locationPiece, targeDate, thisDepth, maxDepth, linkType, casing) {
+    #shouldAllowPiece(formatStr, currentDepth, targetMetadata) {
+        /*** 
+            R = include regions only; r = exclude regions (i.e. places with typeOf region)
+            L = include locations only; l = exclude locations
+            P = include people only; p = exclude people
+            I = include items only; p = exclude items
+            F = include first step only; f = exclude first step
+            O = include organizations only; o = exclude organizations
+         */
+
+        const { NameManager } = customJS
+        let pageType = NameManager.getPageType(targetMetadata)
+
+
+        if (formatStr.contains("F")) {
+            if (currentDepth != 0) return false
+        } 
+        
+        if (formatStr.contains("f")) {
+            if (currentDepth == 0) return false
+        }
+
+        if (formatStr.contains("r")) {
+            if (targetMetadata.typeOf == "region") return false
+        }
+        
+        if (formatStr.contains("R")) {
+            if (targetMetadata.typeOf != "region") return false
+        }
+
+        if (formatStr.contains("L")) {
+            if (pageType != "place") return false
+        }
+
+        if (formatStr.contains("l")) {
+            if (pageType == "place") return false
+        }
+
+        if (formatStr.contains("P")) {
+            if (pageType != "person") return false
+        }
+
+        if (formatStr.contains("p")) {
+            if (pageType == "person") return false
+        }
+
+
+        if (formatStr.contains("I")) {
+            if (pageType != "item") return false
+        }
+
+        if (formatStr.contains("i")) {
+            if (pageType == "item") return false
+        }
+        
+        if (formatStr.contains("O")) {
+            if (pageType != "organization") return false
+        }
+
+        if (formatStr.contains("o")) {
+            if (pageType == "organization") return false
+        }
+
+        return true
+    }
+
+    #getLocationFromPartOfs(locationPiece, targeDate, thisDepth, maxDepth, linkType, casing, format) {
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
@@ -76,26 +142,36 @@ class LocationManager {
         let nameSection = NameManager.getName(locationPiece, linkType, casing)
         let file = NameManager.getFileForTarget(locationPiece)
 
+        if (!this.#shouldAllowPiece()) nameSection = undefined
+
         // we can't keep going, because this piece doesn't exist
         if (!file) {
             // lets see if we have a match to our capital letter check
-            let match = new RegExp("[A-Z]{1}").exec(locationPiece)
+            let match = new RegExp("[~A-Z]{1}").exec(locationPiece)
             if (match && match.index > 0) {
-                return locationPiece.substring(0, match.index) + " " + this.#getLocationFromPartOfs(locationPiece.substring(match.index), targeDate, thisDepth, maxDepth, linkType, casing)
+
+                // at the moment there is a bug where the filters ignore this type of thing - or more accurately, we end up with the "travelling in " or whatever piece added no matter what
+                let potentialNextPiece = locationPiece.substring(match.index)              
+               
+                return locationPiece.substring(0, match.index) + " " + this.#getLocationFromPartOfs(potentialNextPiece, targeDate, thisDepth, maxDepth, linkType, casing)
             }
 
             return nameSection
         } else {
-            let nextLevel = undefined    
+            let nextLevel = undefined
 
             let current = WhereaboutsManager.getWhereabouts(file.frontmatter, targeDate).current
             if (current) nextLevel = current.location;
 
-            if (nextLevel) {
+            if (nextLevel && nameSection) {
                 return nameSection + ", " + this.#getLocationFromPartOfs(nextLevel, targeDate, thisDepth + 1, maxDepth, linkType, casing)
+            } else if (nextLevel) {
+                return this.#getLocationFromPartOfs(nextLevel, targeDate, thisDepth + 1, maxDepth, linkType, casing)
+            } else if (nameSection) {
+                return nameSection
+            } else {
+                return ""
             }
-
-            return nameSection
         }
     }
 }

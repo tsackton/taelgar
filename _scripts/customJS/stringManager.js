@@ -6,6 +6,7 @@ class StringFormatter {
         let casing = customJS.NameManager.PreserveCase
         if (format.includes("s")) casing = customJS.NameManager.LowerCase
         else if (format.includes("t")) casing = customJS.NameManager.TitleCase
+        else if (format.includes("u")) casing = customJS.NameManager.InitialUpperCase
 
         return casing
     }
@@ -54,20 +55,6 @@ class StringFormatter {
         return undefined
     }
 
-    #getPrimaryAffiliationName(affiliation, displayDefaultData) {
-
-        if (displayDefaultData.affiliationTypeOf == undefined)
-            return undefined
-
-        if (displayDefaultData.affiliationTypeOf.length == 0)
-            return undefined
-
-        return this.getFilteredName(affiliation, f => {
-            if (!f.typeOf) return false;
-            return displayDefaultData.affiliationTypeOf.includes(f.typeOf)
-        }, this.CreateLink)
-    }
-
     #getFormattedLocationString(locValue, formatString, targetDate) {
 
         const { LocationManager } = customJS
@@ -95,6 +82,7 @@ class StringFormatter {
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
         const { DateManager } = customJS
+        const { AffiliationManager } = customJS
 
         let metadata = file.frontmatter
         let name = file.name
@@ -110,10 +98,10 @@ class StringFormatter {
 
         // r p l i o f reserved for location stuff
 
-        // t: title case; s: lower case
+        // t: title case; s: lower case, u: initial upper case
         // a: indefinite article, A: indefinite article if first
         // n: never link, y: always link
-        const regexp = /<[a-zA-Z]+:*[0-9tsaAny]*>/g;
+        const regexp = /<[a-zA-Z]+:*[0-9utsaAnyRrPpLlIiOoFf]*>/g;
 
         let resultString = formatString
 
@@ -135,6 +123,7 @@ class StringFormatter {
             if (additionalData && !value) {                
                 value = additionalData[key]
             }
+        
 
             if (key == "name") {
                 value = NameManager.getName(name, linkType, casing)
@@ -239,43 +228,34 @@ class StringFormatter {
                     value = ""
                 }
             }
-            else if (key == "primary") {
-                let primaryAffs = []
-
-                if (metadata.affiliations && metadata.affiliations.length > 0
-                    && displayDefaults.affiliationTypeOf
-                    && displayDefaults.affiliationTypeOf.length > 0) {
-                    for (let i = 0; i < metadata.affiliations.length; i++) {
-                        let aff = metadata.affiliations[i]
-                        let primaryAff = this.#getPrimaryAffiliationName(aff, displayDefaults)
-                        if (primaryAff) primaryAffs.push(primaryAff)
-                    }
-                }
-
-                value = primaryAffs.join(' and ')
+            else if (key == "partof") {
+                value = AffiliationManager.getAffiliationPartOf(metadata, linkType, casing)                
+            }
+            else if (key == "primary") {            
+                value = AffiliationManager.getFormattedPrimaryAffiliations(metadata, targetDate)
             }
             else {
+                value = NameManager.getName(value, linkType, casing)               
+            }
+                
+            let generateArticle = false
 
-                value = NameManager.getName(value, linkType, casing)
-                let generateArticle = false
-
-                if ((format.includes("a") || format.includes("A")) && value) {
-                    if (format.includes("A")) {
-                        let beforeThis = resultString.substr(0, resultString.indexOf(matchItem[0])).trim()
-                        if (beforeThis.length == 0) {
-                            generateArticle = true
-                        }
-                    } else {
+            if ((format.includes("a") || format.includes("A")) && value) {
+                if (format.includes("A")) {
+                    let beforeThis = resultString.substr(0, resultString.indexOf(matchItem[0])).trim()                        
+                    if (beforeThis.length == 0) {
                         generateArticle = true
                     }
+                } else {
+                    generateArticle = true
+                }
 
-                    if (generateArticle) {
-                        let firstChar = value[0]
-                        if (firstChar == "a" || firstChar == "e" || firstChar == "i" || firstChar == "e" || firstChar == "u") {
-                            value = "an " + value
-                        } else {
-                            value = "a " + value
-                        }
+                if (generateArticle) {
+                    let firstChar = value[0]
+                    if (firstChar == "a" || firstChar == "e" || firstChar == "i" || firstChar == "e" || firstChar == "u") {
+                        value = "an " + value
+                    } else {
+                        value = "a " + value
                     }
                 }
             }
@@ -293,6 +273,8 @@ class StringFormatter {
         while (resultString.startsWith(',')) resultString = resultString.substr(1).trim()
         while (resultString.startsWith(':')) resultString = resultString.substr(1).trim()
 
+        resultString = resultString.trim()
+
         while (resultString.endsWith(" of") || resultString.endsWith(" in") || resultString.endsWith(" on") || resultString.endsWith(":") || resultString.endsWith(",")) {
             let len = resultString.endsWith(",") || resultString.endsWith(":") ? 1 : 2
             resultString = resultString.substr(0, resultString.length - len).trim()
@@ -300,6 +282,6 @@ class StringFormatter {
 
         if (resultString == "**") return ""
 
-        return resultString
+        return resultString.trim()
     }
 }

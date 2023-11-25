@@ -3,10 +3,11 @@ class NameManager {
     LowerCase = "lower"
     TitleCase = "title"
     PreserveCase = "preserve"
+    InitialUpperCase = "initialUpper"
     CreateLink = "always"
     NoLink = "never"
     LinkIfValid = "exists"
-   
+
 
     #getElementFromMetadata(elem) {
         if (customJS.state.coreMeta) {
@@ -45,7 +46,7 @@ class NameManager {
             join(' ')
     }
 
-    #processDescriptiveName(descriptiveName, targetLink, article, linkType = "exists", casing = "default") {
+    #processDescriptiveName(descriptiveName, targetLink, article, linkType = "exists", casing = "preserve") {
 
         if (!article) article = ""
         if (!descriptiveName) return undefined
@@ -59,6 +60,12 @@ class NameManager {
         } else if (casing == this.LowerCase) {
             descriptiveName = descriptiveName.toLowerCase()
             article = article.toLowerCase()
+        } else if (casing == this.InitialUpperCase) {
+            if (article && article.length > 0) {
+                article = article.charAt(0).toUpperCase() + article.slice(1);
+            } else {
+                descriptiveName = descriptiveName.charAt(0).toUpperCase() + descriptiveName.slice(1)
+            }
         }
 
         descriptiveName = descriptiveName.trim()
@@ -171,21 +178,24 @@ class NameManager {
         let required = {
             startStatus: "",
             endStatus: "",
-            whereaboutsOrigin: "<origin>",
-            whereaboutsHome: "<home>",
-            whereaboutsPastHome: "<home>",
-            whereaboutsCurrent: "Current location (as of <target>): <current>",
-            whereaboutsPast: "<end> in <current>",
+
+            whereaboutsOrigin: "<origin:u>",
+            whereaboutsHome: "<home:u>",
+            whereaboutsPastHome: "<home:u>",
+            whereaboutsCurrent: "Current location: <current>",
+            whereaboutsPast: "<end:u> in <current>",
             whereaboutsLastKnown: "Last known location: (as of <lastknowndate>): <lastknown>",
             whereaboutsUnknown: "Current location: Unknown",
-            whereaboutsParty: "<met> by <person> on <target> in <current>",
-            pageCurrent: "<start> <startDate>",
-            pagePastWithStart: "<start> <startDate> - <end> <endDate>",
-            pagePast: "<end> <endDate>",
+            whereaboutsParty: "<met:u> by <person> on <target> in <current>",
+
+            pageCurrent: "<start:u> <startDate>",
+            pagePastWithStart: "<start:u> <startDate> - <end> <endDate>",
+            pagePast: "<end:u> <endDate>",
+
             boxName: "Information",
             partOf: "",
-            affiliationTypeOf: [],
             secondaryInfo: "",
+
             ddbLinkText: ""
         }
 
@@ -257,5 +267,5 @@ class NameManager {
     // casing = "title" | "lower" | "preserve"
     getName(target, linkType = this.LinkIfValid, casing = this.PreserveCase) {
         return this.getFilteredName(target, undefined, linkType, casing)
-    } 
+    }
 }
