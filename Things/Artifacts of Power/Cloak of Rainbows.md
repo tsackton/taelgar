@@ -20,9 +20,16 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A rumored multi-colored shimmering cloak or mantle that shields the wearer from divine influence in some way. 
+%% whereabouts needs work%%
 
-[[Cintra]] believed [[Agata]] was searching for this, and supposedly it was created by [[Apollyon]]. 
+The Cloak of Rainbows is a multi-colored shimmering cloak, made of the threads of sunset woven by the Cloudspinner, and enchanted with powerful magic to shield the wearer from the sight and power of the Divine. 
+
+[[Cintra]] believed [[Agata]] was searching for it, and had heard it was supposedly created by [[Apollyon]], but the truth is more complicated. The history of the Cloak of Rainbows is intimately connected with the history of the [[People of the Rainbow]]. It was originally a gift to allow these orcs to live free of [[Thark]]'s gaze. It was stolen by [[Apollyon]], and then lost, and [[Letter from Govir|rediscovered]] by the Dunmari in the years before the Great War, only to be lost again during the Great War. 
+
+Now, it is worn by the chiefs of [[Xurkhaz]], currently Chief [[Lubash]]. 
+
+The power of the cloak has allowed, with hard work over the years, the [[People of the Rainbow]] to construct a magical barrier around [[Xurkhaz]], a barrier that prevents [[Thark]] from acting, seeing, or in any way influencing events in [[Xurkhaz]]. Not only does this keep the orcs of [[Xurkhaz]] safe from Thark's spying, it means that chained orcs, as they call the orcs still ensnared by Thark's magic
+
 
 %%SECRET[1]%%
 
