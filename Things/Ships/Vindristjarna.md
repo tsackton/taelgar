@@ -28,7 +28,7 @@ Eons ago, lost in the dawn of time when the Firstborn walked the earth and the g
 
 One such skyship, the Star on the Wind, Vindristjarna (vin-dree-shar-na), crashed on what is now the Dunmari plains thousands of years ago. 
 
-The ancient skyships of the storm giants are powered by [[phasing stones]], that connect to the dreamworld and allow one to imagine and project different physics, physics where stone can float. 
+The ancient skyships of the storm giants are powered by [[Phasing Stones]], that connect to the dreamworld and allow one to imagine and project different physics, physics where stone can float. 
 
 While the phasing stone that originally powered Vindristjarna is mostly destroyed, the ship is otherwise intact and could be made to fly with a new phasing stone. 
 
