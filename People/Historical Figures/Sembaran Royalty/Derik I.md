@@ -8,7 +8,6 @@ species: human
 ancestry: Sembaran
 gender: male
 died: 1462
-reignEnd: 1462
 affiliations: [House of Sewick]
 leaderOf:
 - {place: Tyrwingha, start: 1425}

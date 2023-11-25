@@ -98,7 +98,6 @@ displayDefaults : { startStatus : "created", startPrefix: "created", endStatus :
 
 | Name            | Description                                                                                                        | Required         | Default |
 | --------------- | ------------------------------------------------------------------------------------------------------------------ | ---------------- | ------- |
-| reignEnd        | [[Formatting#Dates\|any date]] (type: Ruler only)                                                                  | yes: Rulers only | died    |
 | reignStart      | [[Formatting#Dates\|any date]] (type: Ruler only)                                                                  | yes: Rulers only | none    |
 | died            | [[Formatting#Dates\|any date]]                                                                                     | yes: Rulers only | none    |
 | player          | indicates real world player (type: PC only)                                                                        | yes: PCs only    | none    |
