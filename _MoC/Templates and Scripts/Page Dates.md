@@ -15,7 +15,6 @@ The dates supported are:
 * born, created: these are used to determine at what point the page started to exist. If the page is a Ruler, PC, or NPC, born will be used. Otherwise created.
 * died, destroyed: these are used to determine at what point the page ceased to exist. If the page a Ruler, PC, or NPC, died will be used. Otherwise, destroyed
 * reignStart: For rulers only. When their reign started
-* reignEnd: For rulers only. When their reign ended
 * pageTargetDate: Used to define the "current year" for this page, mostly for debugging
 
 Logically, we can turn these into the following outputs:
@@ -39,7 +38,7 @@ Page start not defined, page end not defined: empty
 	* age is calculated in the logical way (i.e. same as a human age)
 * start prefix, end prefix, not exist text, and end status can come from YAML or have defaults. See the Javascript for details
 
-### get_RegnalValue
+### get_RegnalValue (old)
 
 This outputs the regnal information of a page. The regnal information is based on two dates: reignStart and reignEnd.
 

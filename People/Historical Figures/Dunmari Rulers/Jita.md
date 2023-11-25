@@ -6,7 +6,6 @@ campaignInfo: []
 name: Jita
 born: 1386
 reignStart: 1402
-reignEnd: 1460
 species: human
 ancestry: Dunmari
 gender: female

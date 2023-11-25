@@ -13,7 +13,6 @@ died: 1582
 affiliations: [House of Sewick]
 leaderOf:
 - {place: Sembara}
-reignEnd: 1582
 ---
 # King Wisym I
 >[!info]+ Biographical Info

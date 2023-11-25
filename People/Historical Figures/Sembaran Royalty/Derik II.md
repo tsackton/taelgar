@@ -14,7 +14,6 @@ leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
 died: 1496
-reignEnd: 1496
 ---
 # King Derik II
 >[!info]+ Biographical Info
