@@ -1,29 +1,29 @@
 ---
-tags: [person, dufr/met, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed}
+headerVersion: 2023.11.20
+tags: [person, dufr/met, dufr/major, status/unknown, testcase]
+displayDefaults: { endStatus: killed }
 campaignInfo:
-- {prefix: dufr, date: 1748-12-08, type: encountered}
+- {campaign: dufr, date: 1748-12-08, type: encountered}
 name: Kadmos
 born: 1711
 species: human
 ancestry: Chardonian
 gender: male
 died: 1748-12-08
-pageTargetDate:
-affiliations: [The Society of the Open Scroll]
+affiliations: [Society of the Open Scroll, {org: The Cleansed, title: Cultist}]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1748-11-15, end: '', location: 'somewhere in Dunmar, Dunmar'}
-- {type: away, start: 1748-11-19, end: '', location: 'Garamjala Desert, Dunmar'}
+- {type: home, start: '', end: '', location: 'Chardon'}
+- {type: away, start: 1748-11-15, end: '', location: 'somewhere in Dunmar'}
+- {type: away, start: 1748-11-19, end: '', location: 'Garamjala Desert'}
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
-version: old
 ---
 # Kadmos
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: The Society of the Open Scroll
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:dufr%% Encountered by the [[Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]] %%^End%%
 
 A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
 

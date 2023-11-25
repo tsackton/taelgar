@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/minor, testcase, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: killed}
 name: Evelina
@@ -9,18 +9,17 @@ species: human
 ancestry: Chardonian
 gender: female
 died: 1748-12-08
-affiliations: [The Cleansed]
+affiliations: [{org: The Cleansed, end: "9999"}]
 whereabouts:
-- {type: away, start: 1748-12-01, end: 1748-12-08, location: 'Uzgukhar, Xurkhaz'}
-- {type: home, start: '', end: '', location: Chardon}
+- {type: away, start: 1748-12-01, end: 1748-12-08, location: 'Uzgukhar', format: "3"}
+- {type: home, start: '', end: '', location: Chardon, format: "r"}
 ---
 # Evelina
-she/her
 >[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]]
+> [[Chardonian Empire|Chardonian]] [[Humans|human]], she/her
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Killed by [[Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
->> Member of: [[The Cleansed]]
+>> %%^Campaign:DuFr%% Killed by the [[Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
 A sorcerer and a member of [[The Cleansed]].  

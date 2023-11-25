@@ -9,7 +9,7 @@ destroyed: 1748-12-25
 typeOf: scepter
 whereabouts:
 - {type: home, end: 1059, location: Apollyon}
-- {type: home, start: 1552, end: 1746, location: Kharsan}
+- {type: home, start: 1552, end: 1746, location: Kharsan }
 - {type: home, location: Fraternity of the Empty Moon, start: 1747, end: 1747-12-11}
 - {type: home, location: Agata, start: 1747-12-11, end: 1748-05-29}
 - {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}
@@ -20,7 +20,7 @@ whereabouts:
 > (unique magical scepter)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Destroyed by the [[Dunmar Fellowship]] on December 25th, 1748 in [[Vetta]], [[Skaerhem]] %%^End%%
+>> %%^Campaign:DuFr%% Destroyed by the [[Dunmar Fellowship]] on December 25th, 1748 in [[Vetta]], [[Skaerhem]], the [[Western Green Sea Region]] %%^End%%
 
 This scepter is about a foot long and is constructed in silver, with five loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 
