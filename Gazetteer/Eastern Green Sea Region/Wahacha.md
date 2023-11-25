@@ -4,7 +4,6 @@ campaignInfo:
 name: Wahacha
 typeOf: town
 partOf: Vermillion Isles
-displayDefaults:
 ancestry: port
 ---
 # Wahacha
