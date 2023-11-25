@@ -21,9 +21,9 @@ Piecing together what [[Arheste]] told you, you reconstruct the following timeli
 This story is told from [[Arheste]]'s point of view [[Arheste#Arheste's Story|here]].
 
 - After the Drankorian civil war, [[Omnis Pura]] and [[Cha'mutte]] became allies, and when [[Apollyon|Apollyon]] came to power, he continued to ally with [[Cha'mutte]]. 
-- However, [[Cha'mutte]] became angry when [[Apollyon|Apollyon]] stole the [[Mantle of Protection|Cloak of Rainbows]] from the free [[orcs]], as [[Cha'mutte]]'s goal was to free all species from the "shackles" of their divine creators, whether they wished it or not. The cloak was a step in that direction. You saw part of this in the [[Mantle of Protection Vision]]. 
+- However, [[Cha'mutte]] became angry when [[Apollyon|Apollyon]] stole the [[Cloak of Rainbows|Cloak of Rainbows]] from the free [[orcs]], as [[Cha'mutte]]'s goal was to free all species from the "shackles" of their divine creators, whether they wished it or not. The cloak was a step in that direction. You saw part of this in the [[Mantle of Protection Vision]]. 
 - As [[Apollyon|Apollyon]] grew in power, he began systematically slaughtering the peronar, the [[elves]] who had allied with [[humans]] long ago on [[Hkar]]. He used powerful magic to turn the people of [[Drankorian Empire|Drankor]] into slavishly devoted subjects, hoping to further his dream of an empire of only the "purest" of humanity. 
-- Using the [[Mantle of Protection|Cloak of Rainbows]], [[Apollyon|Apollyon]] was able to defeat the [[elves]] of [[Rostaure|Rostaurë]] ([[Arheste]]'s home), as the cloak prevented the divine power of [[Aldanor]] and[[Elmerca]] from protecting the land. He brought [[Arheste]], captured back to [[Drankor]], where she saw his rise to power firsthand. You saw some of this in the [[Scepter of Command Vision]]. 
+- Using the [[Cloak of Rainbows|Cloak of Rainbows]], [[Apollyon|Apollyon]] was able to defeat the [[elves]] of [[Rostaure|Rostaurë]] ([[Arheste]]'s home), as the cloak prevented the divine power of [[Aldanor]] and[[Elmerca]] from protecting the land. He brought [[Arheste]], captured back to [[Drankor]], where she saw his rise to power firsthand. You saw some of this in the [[Scepter of Command Vision]]. 
 - [[Cha'mutte]] fully turned on [[Apollyon|Apollyon]] when [[Apollyon|Apollyon]] attempted to ascend to godhood, in defiance of [[Cha'mutte]]'s plans and hopes for the world. At the moment [[Apollyon|Apollyon]] attempted to claim divine power, he was struck down by the [[First Plague]], a devastating magical force of [[Cha'mutte]]'s creation. 
 - [[Arheste]] survived the plague, but at great cost. It left her sick and weakened, and stripped her of her formidable magic.
 - [[Apollyon|Apollyon]] also survived the plague, by drinking of vial of a pure black substance. [[Arheste]] later learned that this was the key ingredient in a ritual of undeath, and had turned [[Apollyon|Apollyon]] into a lich.
@@ -34,7 +34,7 @@ This story is told from [[Arheste]]'s point of view [[Arheste#Arheste's Story|he
 
 The story of the scepter of command, as told in later days by the halflings, is [[Story of the Scepter of Command|here]].
 
-Perhaps, if you defeat Grash and save [[Xurkhaz]], [[Azogar]] will tell you the full story of the [[Mantle of Protection|Cloak of Rainbows]], as the [[People of the Rainbow]] understand it. 
+Perhaps, if you defeat Grash and save [[Xurkhaz]], [[Azogar]] will tell you the full story of the [[Cloak of Rainbows|Cloak of Rainbows]], as the [[People of the Rainbow]] understand it. 
 
 ## Session Events
 
@@ -56,7 +56,7 @@ End: evening, Jan 16th, 1749
 - (DR::1749-01-13) [[The Mirror of the Past]] used to look at Elemental Forge
 - (DR::1749-01-14) : Return to [[Vindristjarna]], depart for [[Orenlas]]
 - (DR::1749-01-15) : Arrive in [[Orenlas]] in morning after traveling through the evening across the mountains; dinner party
-- (DR::1749-01-16) : Visit [[Arheste]]; sooth her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]]
+- (DR::1749-01-16) : Visit [[Arheste]]; soothe her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]]
 
 #### New Treasure
 

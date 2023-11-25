@@ -19,7 +19,7 @@ End: middle of the night, Dec 8th
 - (DR:: 1748-12-08): [[Kadmos]] and company attack in the early morning hours, well before dawn, and are defeated. 
 ## Narrative
 
-We begin as the day of deception passes, Dec 6th, during which the party tries to fool anyone scrying, convincing watchers that they have attempted to steal the [[Mantle of Protection]] from Chief [[Lubash]]. The day passes in fits and starts, until the party departs in false disgrace in the late afternoon. Camping in the desert, the party scries [[Hektor]], seeing him on a boat on the river, an uncertain distance away. After preparing for a battle with Hero's Feast, and sneaking back into the palace, the party passes a fitful night waiting for an attack that does not come.
+We begin as the day of deception passes, Dec 6th, during which the party tries to fool anyone scrying, convincing watchers that they have attempted to steal the [[Cloak of Rainbows]] from Chief [[Lubash]]. The day passes in fits and starts, until the party departs in false disgrace in the late afternoon. Camping in the desert, the party scries [[Hektor]], seeing him on a boat on the river, an uncertain distance away. After preparing for a battle with Hero's Feast, and sneaking back into the palace, the party passes a fitful night waiting for an attack that does not come.
 
 The next morning, Dec 7th, the party stays hidden in the palace, waiting. [[Lubash]] brings bad news: the western border was attacked, with huge loss of life, and the fortress at Khumarz cannot hold back another assault of undead. The day passes. Two [[Orcs|orc]] warriors from the western front arrive, to provide more support for the coming battle with [[Kadmos]]. Day turns to night, as the party waits, tense.
 

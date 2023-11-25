@@ -28,7 +28,7 @@ We begin as the party stands outside the swirling storm around [[Stormcaller Tow
 
 ![[hralgar-storm-nov-1748-2.png]]
 
-Deep into the storm, [[Hralgar]]'s whispers echo in [[Wellby]]'s mind, asking him what he would like to see. Asking for a vision of the place where the [[mantle of protection]] rests, [[Wellby]] feels a splitting pain in his head and then his vision is carried away, blown east on the wind, seeing a river, farms, irrigation canals in the desert, a castle built into the cliffs, and sitting on the throne of the castle is an [[Orcs|orc]], wearing the [[mantle of protection]]. 
+Deep into the storm, [[Hralgar]]'s whispers echo in [[Wellby]]'s mind, asking him what he would like to see. Asking for a vision of the place where the [[Cloak of Rainbows]] rests, [[Wellby]] feels a splitting pain in his head and then his vision is carried away, blown east on the wind, seeing a river, farms, irrigation canals in the desert, a castle built into the cliffs, and sitting on the throne of the castle is an [[Orcs|orc]], wearing the [[Cloak of Rainbows]]. 
 
 As [[Kenzo]] picks up the pace, and lightning strikes [[Riswynn]], the party finally makes it to the tower itself, the great cliff of stone that they now know is a crashed airship, [[Vindristjarna]]. [[Kenzo]] is glowing now, lightning flashing from his eyes, as he turns and runs up the path to the tower. He turns angry, shouting 'Go!', as he disappears into the tower itself, a wall of wind and clouds forming behind him. 
 

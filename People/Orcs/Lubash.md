@@ -20,7 +20,7 @@ whereabouts: Uzgukhar
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 10th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
-Chief Lubash is the stern and protective ruler of [[Xurkhaz]], and by extension the [[People of the Rainbow]]. He is also the bearer of the [[Mantle of Protection]].  Lubash holds immense pride for his kingdom, [[Xurkhaz]], and resides in [[Uzgukhar]].
+Chief Lubash is the stern and protective ruler of [[Xurkhaz]], and by extension the [[People of the Rainbow]]. He is also the bearer of the [[Cloak of Rainbows]].  Lubash holds immense pride for his kingdom, [[Xurkhaz]], and resides in [[Uzgukhar]].
 ## Overview
 
 Chief Lubash ascended to the throne of [[Xurkhaz]] three years prior. He took over rulership after a tragic event where his older brother, along with his brother's wife and child, were killed by marauding hill [[Giants]] during a royal tour. As a ruler, Lubash is marked by his intense pride in [[Xurkhaz]] and a deep-seated mistrust of gods.

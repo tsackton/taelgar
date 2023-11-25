@@ -14,7 +14,7 @@ Start: early morning, Dec 8th
 End: early afternoon, Dec 10th
 
 #### [[The Mirror of the Past]]
-- (DR:: 1748-12-09): Eudomes Mirror used to look at the [[Mantle of Protection]]: [[Mantle of Protection Vision]] (recharge:: mirror)
+- (DR:: 1748-12-09): Eudomes Mirror used to look at the [[Cloak of Rainbows]]: [[Mantle of Protection Vision]] (recharge:: mirror)
 
 ## Timeline
 - (DR:: 1748-12-09): The prisoners are interrogated and plans are made.
@@ -59,6 +59,6 @@ Next, the party talks to [[Antonia]]. It is clear after talking to her for a few
 
 After some discussion, it is decided that [[Riswynn]] will remain and defend the city from the undead, with her divine magic, while the rest of the party flies north to destroy the scepter, preventing [[People/Other Nonhumans/Grash]] from ever obtaining it. With this decided, the party speaks with [[Casian]], who is dismissive and rude, insisting he will be rescued when [[People/Other Nonhumans/Grash]] comes, up until the minute he is slain. 
 
-Finally, as the days passes noon, the party looks at the [[Mantle of Protection]] in [[The Mirror of the Past]], seeing the [[Mantle of Protection Vision]]. Then, [[Riswynn]] begins casting the Hallow spell, to bless the throne room, which takes 24 hours. The next day, as the spell casting is done, [[Seeker]] is reluctantly dragged into the room, freeing him of the fey curse of ice. 
+Finally, as the days passes noon, the party looks at the [[Cloak of Rainbows]] in [[The Mirror of the Past]], seeing the [[Mantle of Protection Vision]]. Then, [[Riswynn]] begins casting the Hallow spell, to bless the throne room, which takes 24 hours. The next day, as the spell casting is done, [[Seeker]] is reluctantly dragged into the room, freeing him of the fey curse of ice. 
 
 We end as [[Riswynn]] sets herself to casting Forbiddance, and the rest of the party turns north on [[Vindristjarna]] to destroy the scepter. 

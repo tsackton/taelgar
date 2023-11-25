@@ -14,4 +14,4 @@ affiliations: [The People of the Rainbow]
 >[[Orcs|orc]], he/him
 > Member of: The People of the Rainbow
 
-A revered leader of the [[People of the Rainbow]], who recovered the [[Mantle of Protection]] and founded the kingdom of [[Xurkhaz]].
+A revered leader of the [[People of the Rainbow]], who recovered the [[Cloak of Rainbows]] and founded the kingdom of [[Xurkhaz]].

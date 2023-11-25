@@ -55,9 +55,9 @@ We begin as the party meets again, all together after a long absence. Everyone r
 During the conversation, the party reads letters from [[Tokra]] and elsewhere, and [[Delwath]] reports on the information he has learned from scrying in [[Scrying Delwath Oct 21|mid October]], [[Scrying Delwath Oct 26|late October]], and [[Scrying Delwath Nov 15|mid November]], and from a [[Session 51-52 (DuFr)#Dunmar Rumors|week spent on the plains of Dunmar]]. The key facts include:
 - [[Dunmar]] is on the bring of civil war: [[Nayan Karnas]] has seemingly not spoken to [[Johar]]; [[Havdar]] is turning bloodthirsty under the sway of a cursed sword; and the Lakan monks have not done anything yet.
 - [[Kadmos]] and company, now traveling with a subdued [[Vola]] (whether due to mundane or magical coercion is not entirely clear), are crossing [[Dunmar]].
-- [[People/Other Nonhumans/Grash]] is preparing to march east, and soon, with a large army of [[Orcs]] and undead, presumably to recover the [[Mantle of Protection]] which was, according to [[Govir]]'s research, lost in a fortification of the [[Aagir Mystai]] to the east during the [[Great War]]. 
+- [[People/Other Nonhumans/Grash]] is preparing to march east, and soon, with a large army of [[Orcs]] and undead, presumably to recover the [[Cloak of Rainbows]] which was, according to [[Govir]]'s research, lost in a fortification of the [[Aagir Mystai]] to the east during the [[Great War]]. 
 - A man in [[Ursk]] named [[Radomir]] found a [[Jade Piece of Rai's Hand]], and it is now apparently in the possession of someone or something called Rodnya Voknaz.
 
-The party decides to first try to restore [[Hralgar]], and then likely head east to attempt to beat [[People/Other Nonhumans/Grash]] to the [[Mantle of Protection]].
+The party decides to first try to restore [[Hralgar]], and then likely head east to attempt to beat [[People/Other Nonhumans/Grash]] to the [[Cloak of Rainbows]].
 
 We end late at night, as the party prepares to look in the mirror and then sleep. 
