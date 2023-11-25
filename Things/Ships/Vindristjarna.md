@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [item, status/update]
+tags: [item]
 pronunciation: vin-dree-SHAR-na
 whereabouts:
 - {type: home, location: unknown storm giant}
@@ -40,11 +40,20 @@ Currently, the hull of the ship has been restored and repaired, and two stone de
 
 The upper deck, occupying a total of 12,000 square feet (480 squares), is dominated by a large central courtyard, greenhouse, and garden, maintained by Kenzo. Around the railing of the upper deck is also a depiction of the travels of [[Dunmar Fellowship]], and especially the stories of the people they have met, recalling the [[Hall of Stories]] in the [[Monastery of Bhishma]]. 
 
-Also constructed are a well-equipped galley and kitchen, a dining hall, a map room maintained by Wellby, a workshop maintained by Seeker and providing space for Faldrak to work, and comfortable living quarters for ten people. 
+Also constructed are a well-equipped galley and kitchen, a dining hall, a map room maintained by Wellby, a workshop and a games room maintained by Seeker and providing space for Faldrak to work, a sanctuary of the tanshi maintained by Delwath, and comfortable living quarters for ten people. 
 
-These rooms function as [special facilities](https://media.dndbeyond.com/compendium-images/ua/bastions-cantrips/BRF3GSu0nTfNu8p4/UA2023-BastionsCantrips.pdf?icid_source=house-ads&icid_medium=crosspromo&icid_campaign=playtest8), giving the following benefits.
+These rooms function as [special facilities](https://media.dndbeyond.com/compendium-images/ua/bastions-cantrips/BRF3GSu0nTfNu8p4/UA2023-BastionsCantrips.pdf?icid_source=house-ads&icid_medium=crosspromo&icid_campaign=playtest8), giving the following benefits: 
+Delwath's tanshi shrine: sanctuary
+Kenzo's ki garden: greenhouse
+Wellby's map room: Library
+Seeker's hall of games: Training Area
+Garden: Garden
+Kenzo's Wall of Stories: Trophy Room
+Workshop: Workshop
 
-*Will add bastion stuff here once it is figured out; the rules are linked above. You can have up to 8 special facilities at the moment, and up to 25 if you defeat Grash and return to Tollen, although you are a tiny bit constrained by space. The upper deck and lower deck are each 12,000 square feet (480 squares); the hold is 9,800 square feet (392 squares). I would assume that maybe 90% of that is usable for the bastion rules, so a total of maybe 1200 usable squares.*
+Rules are [[Bastion Rules|here]].
+
+*You can have up to 25 special facilities, although you are a tiny bit constrained by space. The upper deck and lower deck are each 12,000 square feet (480 squares); the hold is 9,800 square feet (392 squares). I would assume that maybe 90% of that is usable for the bastion rules, so a total of maybe 1200 usable squares.*
 ## Magic
 
 In addition to the phasing stone, Vindristjarna is equipped with the following magic.
@@ -69,6 +78,7 @@ Once you create a bridge, you cannot create another one until 7 days have passed
 
 *Note: the intention is to allow some teleportation / plane shift hijinx, but not create a mechanism to, e.g., teleport an army (by opening a bridge, flying Vindristjarna elsewhere, then having thousands of people walk across the bridge). I haven't quite figured out the right mechanical way to limit, but want to be clear it won't work for these kinds of things.*
 
+%% not picked
 ### Cloud Generator
 *Note: you'll need to choose either this or the icicle turret, but as there is some discussion in the text thread I put cleaned up versions of both here.*
 
@@ -79,6 +89,7 @@ While attuned to the cloud generator, you can conduct a 10 minute ritual to crea
 The illusion moves with Vindristjarna, and can extend up to 30 feet in one or more directions from the edge of the ship. The area covered by the illusion can be considered heavily obscured, if you create an illusion of something that would reasonably obscure vision (a cloud or fog, for example). Like all illusions, anyone who knows it is an illusion can see through it, and their vision is not obscured. A creature that ends their turn within 60 feet of the ship has a chance to notice the illusion: they may make an Intelligence (Investigation) check against your spell save DC at the end of their turn (does not require an action), perceiving the illusion on a success. 
 
 The illusion lasts for 24 hours. Once you use this ability, you cannot do so again until the next dawn.
+%%
 ### Icicle Turret
 *Note: you'll need to choose either this or the cloud generator, but as there is some discussion in the text thread I put cleaned up versions of both here.*
 

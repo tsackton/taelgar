@@ -3,14 +3,14 @@ headerVersion: 2023.11.20
 tags: [organization, status/needswork/notes, status/needswork/collate]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
 campaignInfo:
-created: 793 #approx
+created: 843 
 typeOf: clan
 ancestry: orc
 name: People of the Rainbow
 whereabouts: 
-- {type: home, end: 946, location: Amberglow} #end is approx
-- {type: home, start: 947, end: 1051, location: unknown} #start and end approx
-- {type: home, start: 1052, end: 1582, location: wandering and lost} #start is approx
+- {type: home, end: 940, location: Amberglow} #end is +/- 10 years
+- {type: home, start: 940, end: 1050, location: unknown} #start +/- 10 years
+- {type: home, start: 1051, end: 1582, location: wandering and hiding}
 - {type: home, start: 1583, location: Xurkhaz}
 ---
 # The People of the Rainbow
@@ -32,7 +32,9 @@ For the next five hundred years, the People of the Rainbow lived a hunted existe
 
 Now, the People of the Rainbow are thriving in [[Xurkhaz]], and perhaps in other hidden pockets of the world. 
 ### Events
-- (DR:: 1051): [[Apollyon]] attacked the People of the Rainbow and the [[Cloak of Rainbows|Cloak of Rainbows]] was lost.
+- (DR:: 917): [[Cloak of Rainbows]] is gifted to the People of the Rainbow by Cloudspinner
+- (DR:: 930)-(DR_end:: 950): People of the Rainbow begin to drift out of the feywild, seeking to free their chained brethren
+- (DR:: 1050): [[Apollyon]] attacked the People of the Rainbow and the [[Cloak of Rainbows|Cloak of Rainbows]] was lost.
 - (DR:: 1582): [[Uzgash]] finds the [[Cloak of Rainbows|Cloak of Rainbows]] in a Dunmari fort in the [[Nashtkar]]
 - (DR:: 1583): [[Xurkhaz]] is founded as the new homeland of the People of the Rainbow. 
 

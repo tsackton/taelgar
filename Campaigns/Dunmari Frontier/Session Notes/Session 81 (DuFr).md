@@ -34,8 +34,6 @@ This story is told from [[Arheste]]'s point of view [[Arheste#Arheste's Story|he
 
 The story of the scepter of command, as told in later days by the halflings, is [[Story of the Scepter of Command|here]].
 
-Perhaps, if you defeat Grash and save [[Xurkhaz]], [[Azogar]] will tell you the full story of the [[Cloak of Rainbows|Cloak of Rainbows]], as the [[People of the Rainbow]] understand it. 
-
 ## Session Events
 
 Start: afternoon, Jan 8th, 1749
