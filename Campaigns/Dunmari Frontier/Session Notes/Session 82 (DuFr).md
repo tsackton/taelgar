@@ -39,4 +39,4 @@ The party retreats to [[Vindristjarna]] as the [[undead]] hordes begin to waver,
 
 For the rest of the day, the party helps the [[People of the Rainbow|orcs]] of [[Uzgukhar]] destroy the few [[undead]] and other creatures left in [[Grash's Horde|Grash's armies]], as [[Xurkhaz]] is saved and the [[Cloak of Rainbows]] protected. 
 
-We end that evening, as the celebrations of survival and mourning for the dead last long into the night in [[Uzgukhar]].
+We end that evening, as the celebrations of survival and mourning for the dead last long into the night in [[Uzgukhar]], as the party hears stories of the [[People of the Rainbow]] from [[Murook]], [[Lubash]], and [[Azogar]], among many others. 

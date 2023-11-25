@@ -1,15 +1,11 @@
 ---
 tags: [status/unknown]
 ---
-
 ## Magic Items to Allocate from Elemental Forge
-- Ring of Sharp Mind. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
 - A gray cloak. Also found in the lead box. Functions as a Cloak of Elvenkind. 
-
 ## Magic Items under Construction by Umli
 
 Started work on Skaer steel items on 5 Jan 1749, will work 6 days/week. Started with 27 lb of Skaer steel. **On 17 Jan will send magic chest with Riswynn shield and 4 quivers of arrows for Wellby.** 
-
 ### Arrows for Wellby
 12 lb Skaer steel for construction
 Started: 5 Jan 1749
@@ -25,12 +21,6 @@ Choices (exceptional):
 Masterwork: choose two fine arrow properties and combined them
 Armor piercing: +1 to hit, plus an additional +1 to hit against armored targets
 Broadhead: +1 to damage, plus an additional 1d4 damage against unarmored targets
-### Shield for Riswynn
-+1 shield, grants +2 bonus to Dex saving throws against effects targeting only you. 
-Started: 5 Jan 1749
-Finished: 17 Jan 1749
-Paid by funds left for Umli
-Used 7.5 lb Skaer steel
 ### Shield upgrade for Delwath
 Upgrade lynx shield from +1 to +2. 
 Requires 12 days (3 days can be done without the shield on prep work), 4000 gp, 7.5 pounds of Skaer steel.
@@ -51,6 +41,7 @@ Major items:
 Minor items:
 - [[Magic Cooking Pouch]] (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - [[Horn of Silent Alarm]] (common minor item)
+- Ring of Sharp Mind. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
 ### Wellby 
 
 Major items:
@@ -130,6 +121,7 @@ Major items:
 - [[Shatterstorm]] (rare major item)
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [[Riswynn]] in exchange for her aid.
 - [[Silverspark Gauntlets]] (uncommon major item)
+- Masterwork shield, constructed of 7.5 lb of [[Skaer steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
 
 Minor items:
 - Coin of Delving (common minor item)
@@ -280,14 +272,13 @@ The following mundane items are kept on [[Vindristjarna]]:
 - [[Hralgar]] gives his blessing for the party to restore and take [[Vindristjarna]], The Star on the Wind, the ruined airship that requires a new phasing stone to fly
 ## Heroes
 - Rope ladder (50' long, with spikes to anchor it) from the Pandemonium ruins. Replaces the ladder who died heroically in battle. 
-
 ## Treasure we no longer have
 
 ### Died heroically
 - A 15’ rope [[Ladder]], originally from lair of the [[Fraternity of the Empty Moon]]. Fought valiantly against many enemies, distinguishing themselves in combat against werewolves and others, until bravely dying in battle against [[Mezzar|Grimbaskal]] the green dragon to allow the rest of the party to escape in [[Session 50 (DuFr)]].
-
+- The Boulder-Ladder, the hero of the[[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
 ### Destroyed or Used
-- A small crystal vial containing three doses of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
+- A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
 - [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 63 (DuFr)]].  %%SECRET[50]%%
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:

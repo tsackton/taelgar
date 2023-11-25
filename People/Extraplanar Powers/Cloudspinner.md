@@ -8,9 +8,8 @@ subspecies: archfey
 gender: female
 aliases: [Queen of Sunset]
 whereabouts:
-- {type: home, start: '', end: '', location: 'somewhere, unknown'}
-- {type: home, start: '', end: '', location: Amberglow}
-- {type: away, start: 990, end: 2000, location: 'imprisoned, somewhere'}
+- {type: home, end: 1001, location: Amberglow}
+- {type: away, start: 1002, location: imprisoned}
 ---
 # Cloudspinner
 >[!info]+ Biographical Info

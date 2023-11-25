@@ -4,13 +4,14 @@ tags: [item/magical, testcase, status/needswork/collate, status/needswork/notes,
 displayDefaults: {startStatus: fashioned, endStatus: destroyed}
 campaignInfo:
 maker: Cloudspinner
-created: 850 #approx
+created: 917
 name: Cloak of Rainbows
 aliases: [Cloak of Rainbows, Mantle of Protection]
 typeOf: cloak
 rarity: unique
 whereabouts:
-- {type: home, location: Cloudspinner}
+- {type: home, end: 917, location: Cloudspinner}
+- {type: home, end: 1059, location: People of the Rainbow}
 - {type: home, location: Lubash}
 ---
 # The Cloak of Rainbows
