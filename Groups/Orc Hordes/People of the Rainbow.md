@@ -1,7 +1,7 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [organization, status/needswork/notes, status/needswork/collate]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+displayDefaults: {partOf: ""}
 campaignInfo:
 created: 843 
 typeOf: clan
@@ -15,7 +15,7 @@ whereabouts:
 ---
 # The People of the Rainbow
 >[!info]+ Information
-> [[Orcs|orc]] clan
+> An [[Orcs|orc]] clan
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

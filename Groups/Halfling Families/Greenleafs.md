@@ -1,7 +1,7 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [organization/family]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {definitiveArticle: the, partOf: ""}
 campaignInfo: []
 name: Greenleafs
 typeOf: family

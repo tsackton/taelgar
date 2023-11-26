@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [status/uptodate, person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {title: Commandar}
 campaignInfo:
@@ -8,24 +9,22 @@ born: 1724
 species: human
 ancestry: Dunmari
 gender: male
-affiliations: [Havdar's Warband]
+affiliations: [{org: Havdar's Warband, type: leader} ]
 whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Karawa, Eastern Dunmar'}
-- {type: home, start: !!null '', end: '', location: Eastern Dunmar}
+- {type: home, location: Karawa}
+- {type: home, location: Eastern Dunmar}
 - {type: away, start: 1748-11-23, end: '', location: 'Sura''s army camp, Central Dunmar'}
-- {type: away, start: 1748-12-14, end: '', location: 'Tokra, Central Dunmar'}
+- {type: away, start: 1748-12-14, end: '', location: 'Tokra'}
 - {type: away, start: 1748-12-19, end: '', location: 'Plains between Tokra and Songara, Central Dunmar'}
-- {type: away, start: 1748-12-27, end: '', location: 'Songara, Central Dunmar'}
-leaderOf: [Havdar's Warband]
+- {type: away, start: 1748-12-27, end: '', location: 'Songara'}
 ---
 # Havdar
->[!info]+ Biographical Summary
->Leader of the [[Havdar's Warband]]
->[[Humans|human]] ([[Dunmar|Dunmari]]), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on December 27th, 1748 in [[Songara]], [[Central Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 27th, 1748 in [[Songara]], [[Central Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
 
 Havdar, a brash and confident warrior, made a name for himself as a war leader in [[Eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people. 
 ## Overview

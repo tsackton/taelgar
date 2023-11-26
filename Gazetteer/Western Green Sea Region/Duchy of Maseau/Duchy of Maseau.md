@@ -1,10 +1,7 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Duchy of Maseau
 typeOf: realm
-partOf:
 aliases: [Maseau]
 ---
 # The Duchy of Maseau

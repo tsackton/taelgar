@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/minor]
 campaignInfo: 
 - {campaign: dufr, date: 1748-08-09, type: met}
@@ -9,18 +9,19 @@ born: 1649
 species: halfling
 ancestry:
 gender: male
-affiliations: [Silversongs]
-leaderOf: [ { place: Emerald Song, title: Songmaster, start: 0001} ]
+affiliations: 
+- {org: Silversongs, type: primary}
+- {org: Emerald Song, title: Songmaster }
 whereabouts: Emerald Song
 ---
 # Ewen Silversong
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him of the [[Silversongs]]
+> a [[Halflings|halfling]], he/him of the [[Silversongs]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 9th, 1748 in the [[Emerald Song]], [[Darba]], [[Western Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21st, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 9th, 1748 in the [[Emerald Song]], [[Darba]], [[Western Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21st, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]], the [[West Coast Region]] %%^End%%
 
 Songmaster and storyteller on the [[Emerald Song]].
 ## Relationships

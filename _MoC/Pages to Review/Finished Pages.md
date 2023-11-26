@@ -4,7 +4,7 @@ This should be pages considered "finished".
 ## Outside Worldbuilding
 
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder 
+TABLE join(split(file.path, "/", 2),"/") as Folder, headerVersion
 FROM !"Worldbuilding" AND !#status AND !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates"
 SORT join(split(file.path, "/", 2),"/")
 ```

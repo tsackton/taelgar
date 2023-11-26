@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed}
 campaignInfo:
@@ -15,7 +16,7 @@ whereabouts:
 ---
 # Grimbaskal
 >[!info]+ Biographical Info
-> [[Dragons|green dragon]], he/him
+> a [[Dragons|green dragon]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Killed by the [[Dunmar Fellowship]] on September 15th, 1748 in the [[Elderwood]], [[Ainumarya]], [[Central Highlands Region]] %%^End%%

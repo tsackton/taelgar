@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place/island, event-source, status/unknown]
 campaignInfo: []
 name: Vetta
@@ -7,7 +8,7 @@ partOf: Skaerhem
 ---
 # Vetta
 >[!info]+ Information
-> An island in [[Skaerhem]]
+> An island in [[Skaerhem]], the [[Western Green Sea Region]]
 
 Vetta is a small volcanic island, perhaps 3 miles across, with steep cliffs on most of its sides, no trees, and abundant bird life. Even in winter it does not snow a huge amount, but most life is gone and the island looks barren and gray.
 

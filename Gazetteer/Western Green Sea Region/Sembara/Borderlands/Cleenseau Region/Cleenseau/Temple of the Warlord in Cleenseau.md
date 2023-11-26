@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.20
 tags: [place/building, status/unknown]
-displayDefaults: {partOf: A <typeof> of <subtypeof> in <loc>}
+displayDefaults: {partOf: <typeof:ua> of <subtypeof> in <current:r>}
 campaignInfo: []
 name: Temple of the Warlord in Cleenseau
 partOf: Cleenseau

@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/major]
 campaignInfo:
 - {campaign: DuFr, date: 1748-06-02, type: freed}
@@ -7,13 +7,12 @@ campaignInfo:
 name: Garret Tealeaf
 born: 1656
 species: halfling
-ancestry:
 gender: male
 aliases: [Garret]
-affiliations: [Tealeafs]
+affiliations: [{org: Tealeafs, type: primary}]
 whereabouts:
 - {type: home, end: 1737, location: roads of Dunmar} # date of capture is approx
-- {type: away, end: 1748-06-07, location: Agata's lair}
+- {type: away, start: 1737, end: 1748-06-07, location: Agata's lair}
 - {type: away, start: 1748-06-08, end: 1748-06-19, location: Karawa}
 - {type: away, start: 1748-06-20, end: 1748-06-29, location: traveling to Tokra}
 - {type: away, start: 1748-06-30, end: 1748-07-17, location: The Red Lily Inn}
@@ -22,11 +21,12 @@ whereabouts:
 ---
 # Garret Tealeaf
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him of the [[Tealeafs]]
+> a [[Halflings|halfling]], he/him of the [[Tealeafs]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Freed by the [[Dunmar Fellowship]] on June 2nd, 1748 in [[Agata's lair|Agata's Lair]], [[Garamjala Desert|Garamjala]], [[Nashtkar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Freed by the [[Dunmar Fellowship]] on June 2nd, 1748 in [[Agata's lair|Agata's Lair]], [[Garamjala Desert|Garamjala]], [[Nashtkar]], the [[Desolation of Cha'mutte]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
 
 Garret Tealeaf grew up traveling the roads of Dunmar with the Tealeaf trading family, eventually becoming the patriarch of a group of 5 well-armed and defended caravans that regularly made the circuit from Chardon, east to Songara, Tokra, and Karawa, before turning south across the Yuvanti Mountains to Nayahar, and then north along the coast to Darba, and back to Chardon. 
 %%^Campaign:DuFr%%

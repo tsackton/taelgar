@@ -1,7 +1,7 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [organization/family]
-displayDefaults: {definitiveArticle: the, secondaryInfo: ""}
+displayDefaults: {definitiveArticle: the, partOf: ""}
 campaignInfo:
 name: Stonebridges
 typeOf: family
@@ -11,6 +11,7 @@ created: 1200
 ---
 # The Stonebridges
 >[!info]+ Information
+> A [[Halflings|halfling]] family
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 A family of halflings who have lived in [[Cleenseau]] since at least the 1200s, and have run the Crossroads Inn since its founding. More sedentary than most halflings and deeply committed to the [[Cleenseau Region]]. 

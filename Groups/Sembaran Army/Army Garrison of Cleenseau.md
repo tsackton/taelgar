@@ -1,13 +1,18 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization]
-displayDefaults: {partOf: '<article> <typeof> of <loc:3>', secondaryInfo: ''}
+displayDefaults: {partOf: '<typeof:A> of <partof>', secondaryInfo: ''}
 name: Army Garrison of Cleenseau
 partOf: Dunfry Regiment
 typeOf: garrison
+whereabouts:
+- {type: home, location: Cleenseau }
+- {type: away, location: Dunfry}
 ---
 # The Army Garrison of Cleenseau
 >[!info]+ Information
-> A garrison of the [[Dunfry Regiment]], the [[Army of the West]], the [[Sembaran Army]]
+> a garrison of the [[Dunfry Regiment]], the [[Army of the West]], the [[Sembaran Army]], [[Sembara]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Cleenseau Garrison is the furthest east-most garrison of the [[Army of the West]]. It is commanded by [[Ida Rosfeld|Captain Ida Rosfeld]] and consists of two patrols:
 

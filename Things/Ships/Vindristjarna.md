@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [item]
 pronunciation: vin-dree-SHAR-na
 whereabouts:
@@ -10,14 +10,14 @@ whereabouts:
 - {type: away, start: 1749-01-15, end: 1749-01-16, location: Orenlas}
 - {type: away, start: 1749-01-17, end: 1749-01-19, location: traveling to Xurkhaz}
 - {type: away, start: 1749-01-20, end: 1749-01-21, location: Uzgukhar}
-magical: true
 rarity: unique
 typeOf: skyship
+subTypeOf: magical
 ---
 # Vindristjarna
 *(vin-dree-SHAR-na)*
 >[!info]+ Information
-> (unique skyship)
+> (unique magical skyship)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[vindristjarna-v1.jpg]]

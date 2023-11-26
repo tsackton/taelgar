@@ -1,12 +1,9 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Sembara
 typeOf: realm
-partOf: Western Green Sea Region
-cultureDescriptor: Sembaran
+whereabouts: Western Green Sea Region
 ---
 # Sembara
 >[!info]+ Information

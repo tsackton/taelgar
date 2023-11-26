@@ -1,10 +1,16 @@
 ---
-tags: [organization/party, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
-campaignInfo: []
-name:
+headerVersion: 2023.11.25
+tags: [organization/party]
+displayDefaults: {startStatus: met, partOf: ""}
+name: Heroes of Cleenseau
+created: 1719-10-20
 typeOf: adventuring party
 ---
+# The Heroes of Cleenseau
+>[!info]+ Information
+> An adventuring party
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+
 A group of four fate-blown adventures who met in [[Taviose]] during the [[First Spider Attack on Tavoise]]. Since then, have become well-known in the region. 
 
 The heroes consist of:

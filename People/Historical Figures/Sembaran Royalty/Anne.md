@@ -12,13 +12,13 @@ reignStart:
 leaderOf:
 - {place: Breva, title: Queen, start: 1568}
 died: 1583-02-14
-affiliations: [House of Sewick]
+affiliations: [{org: House of Sewick, type: primary}]
 ---
 # Anne of Sewick
 >[!info]+ Biographical Info
 > [[Sembara|Sembaran]] [[Humans|human]], she/her of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The twin sister of [[Elaine I]] and daughter of [[Reginald]], she was executed for treason after attempting to force her sister to abdicate he throne by magic.
 

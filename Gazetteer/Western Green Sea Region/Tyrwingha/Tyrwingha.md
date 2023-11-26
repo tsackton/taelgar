@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Tyrwingha
 typeOf: realm
@@ -6,7 +7,7 @@ partOf: Western Green Sea Region
 ---
 # Tyrwingha
 >[!info]+ Information
-> A  realm in the [[Western Green Sea Region]]
+> A realm in the [[Western Green Sea Region]]
 
 The land of Tyrwingha, nestled on the southern shores of the [[Green Sea]], is ruled by the monarch of [[Sembara]] in a personal union of the crowns.  Over its history, it has been been united with Sembara on two separate occasions, the most recently by [[Elaine I]].
 

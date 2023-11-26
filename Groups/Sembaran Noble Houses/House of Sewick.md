@@ -1,15 +1,19 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: ended}
+displayDefaults: {partOf: "", secondaryInfo: "<ancestry:UA> <subtypeof:UA>"}
 campaignInfo: []
 name: House of Sewick
 typeOf: family
+ancestry: Sembaran
+subTypeOf: noble house
 destroyed: 1720
 aliases: [Sewick]
 ---
 # The House of Sewick
->[!info]+ Summary
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Information
+> A [[Sembara|Sembaran]] noble house
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 The founding royal house of modern [[Sembara]], the House of Sewick ruled between the 1420s and the 1720s. A cadet branch, the [[House of Lils]] rules today.
 

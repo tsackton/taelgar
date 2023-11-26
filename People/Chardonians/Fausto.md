@@ -1,7 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
 name: Fausto
 born: 1714
 species: human
@@ -9,15 +8,15 @@ ancestry: Chardonian
 gender: male
 affiliations: [Society of the Open Scroll, The Cleansed]
 whereabouts:
-- {type: home, start: 1731-01-01, end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1734-01-01, end: '', location: 'adventuring, The West Coast Region'}
-- {type: home, start: 1737-01-01, end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, start: 1731-01-01, end: '', location: 'Chardon'}
+- {type: away, start: 1734-01-01, end: '', location: 'adventuring in West Coast Region'}
+- {type: home, start: 1737-01-01, end: '', location: 'Chardon'}
 ---
 # Fausto
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: The [[Society of the Open Scroll]], [[The Cleansed]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A young, striking man, with fine features, well groomed curly black hair, and elegant dress that clearly yet subtly displays his wealth. Fausto is not from a wealthy background, and he does not speak of his childhoood. All manner of wild tales exist to explain his obvious wealth, the most common of which is that he was an adventurer and explorer in his 20s, retiring to Chardon with the wealth of an ancient dragon hoard. 

@@ -1,22 +1,27 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.20
+tags: [person, testcase, status/factcheck]
+displayDefaults: {affiliationCurrent: "<affiliationtitle:t> of <org>"}
 campaignInfo: []
 name: Ancer Benthey
 born: 1689
 species: human
 ancestry: Sembaran
 gender: male
-family: Benthey
+affiliations: 
+- {org: Bridge Patrol, title: Sergeant, start: 1719-11-06, type: leader }
+- {org: Army Garrison of Cleenseau, title: Sergeant, start: 1719-11-06}
 whereabouts:
-- {type: home, start: '', end: '', location: 'Cleenseau, Sembara'}
-- {type: away, start: '', end: '', location: 'Dunfry, Sembara'}
+- {type: home, location: 'Cleenseau'}
+- {type: away, location: 'Army Garrison of Cleenseau', format: "r"}
 ---
 # Ancer Benthey
->[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Cleenseau]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> [[Sembara|Sembaran]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The nephew of [[Ames Benthey]], recently appointed sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] after [[Odo Cordwaner]] was dismissed.
+
+%% check date on when he was appointed from timeline %%

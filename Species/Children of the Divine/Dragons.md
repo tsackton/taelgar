@@ -1,5 +1,6 @@
 ---
 tags: [species, status/unknown]
+aliases: [dragon, dragons, Dragon]
 ---
 
 # Dragons

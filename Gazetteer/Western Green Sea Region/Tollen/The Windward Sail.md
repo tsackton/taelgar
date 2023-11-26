@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.20
 tags: [place, status/unknown]
-displayDefaults: {definitiveArticle: '', partOf: A <ancestry> <typeof> in <loc>}
+displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: The Windward Sail
 typeOf: inn
@@ -9,6 +10,6 @@ partOf: Fiskurth
 ---
 # The Windward Sail
 >[!info]+ Information
-> A [[Halflings|halfling]] inn in [[Fiskurth]], [[Tollen]], the [[Western Green Sea Region]]
+> A [[Halflings|halfling]] inn in [[Fiskurth]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]]
 
 A bustling halfling inn and tavern in [[Fiskurth]], known as a place to tell and hear stories. Owned and run by [[Wendel Quickstep]].

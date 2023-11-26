@@ -1,14 +1,18 @@
 ---
+headerVersion: 2023.11.25
 tags: [historical, person, dufr/aware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Eudomes
 born:
+died: 0001
 species: human
 ancestry: Drankorian
 gender: male
 ---
-### Eudomes
+# Eudomes
+>[!info]+ Biographical Info
+> A [[Drankorian Empire|Drankorian]] [[Humans|human]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 A wizard from the last days of the [[Drankorian Empire]]. Trapped the storm giant [[Hralgar]] using powerful magic. 
 

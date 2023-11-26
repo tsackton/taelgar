@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.20
 tags: [place, status/unknown]
-displayDefaults: {partOf: '<article> <typeof> of <loc:3>'}
+displayDefaults: {partOf: '<ancestry:UA> <typeof:UA> of <current>'}
 campaignInfo: []
 name: Bandit's Way
 typeOf: section

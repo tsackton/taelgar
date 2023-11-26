@@ -1,14 +1,13 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/draft, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Chardon
 typeOf: city
 partOf: Chardonian Empire
 ---
 # Chardon
->[!info]+ Summary
-> a city in [[Chardonian Empire]]
+>[!info]+ Information
+> A city in the [[Chardonian Empire]], the [[West Coast Region]]
 
 Chardon is a city of many things. It is the capitol and seat of government of the [[Chardonian Empire]]. It is a major center of learning and magic. It is a trade hub and economic powerhouse.
 

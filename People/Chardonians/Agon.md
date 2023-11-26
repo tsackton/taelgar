@@ -1,8 +1,6 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/aware, person, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
 name: Agon
 born: 1694
 species: human
@@ -14,10 +12,10 @@ whereabouts:
 ---
 # Agon
 >[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Society of the Open Scroll]]
 
 [[Vola]]'s mentor, a member of the [[Society of the Open Scroll]] and scholar in [[Chardon]]. 
 

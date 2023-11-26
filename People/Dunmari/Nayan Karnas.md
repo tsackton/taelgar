@@ -1,24 +1,24 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/aware, person/ruler, person, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Nayan Karnas
 born: 1712
 species: human
 ancestry: Dunmari
 gender: male
-reignStart: 1740
 title: Samraat
+affiliations: [{org: Nayan Dynasty, type: primary}, {org: Dunmar, type: leader, start: 1740}]
 family: Nayan Dynasty
 whereabouts:
-- {type: home, start: '', end: 1737, location: 'Darba, Western Dunmar'}
-- {type: home, start: 1738, end: '', location: 'Nayahar, Western Dunmar'}
+- {type: home, start: '', end: 1737, location: 'Darba'}
+- {type: home, start: 1738, end: '', location: 'Nayahar'}
 ---
 # Samraat Nayan Karnas
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Dunmar|Dunmari]]), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]], he/him of the [[Nayan Dynasty|Nayan dynasty]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The current Samraat of [[Dunmar]], of the Nayan dynasty. Brother to [[Sura]], whom he thought dead. 
