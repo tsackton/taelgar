@@ -1,10 +1,10 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, event-source, status/unknown]
 campaignInfo:
 name: Tokra
 typeOf: city
-partOf: Central Dunmar
+whereabouts: Central Dunmar
 ---
 # Tokra
 >[!info]+ Information

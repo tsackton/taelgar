@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/draft, status/unknown]
 name: Sentinel Range
 typeOf: mountain chain
@@ -6,8 +7,8 @@ partOf: Central Highlands Region
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 ---
 # The Sentinel Range
->[!info]+ Summary
-> a mountain chain in [[Central Highlands Region]], [[Taelgar]]
+>[!info]+ Information
+> A mountain chain in [[Central Highlands Region]]
 
 The Sentinel Range, also called the Sentinel Mountains or the Sentinels, are the extensive mountain range that separates the [[Green Sea]] and the surrounding lands from the [[West Coast Region|west coast]] of Taelgar.
 

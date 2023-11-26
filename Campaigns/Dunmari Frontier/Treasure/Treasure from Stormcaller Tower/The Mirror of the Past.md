@@ -1,18 +1,18 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 displayDefaults: {definitiveArticle: ""}
 tags: [item, item/magical, status/refactor]
 typeOf: mirror
 name: Mirror of the Past
 title: Eudomes'
 rarity: very rare
-ddblink: https://www.dndbeyond.com/magic-items/2739459-eudomes-mirror
+ddbLink: https://www.dndbeyond.com/magic-items/2739459-eudomes-mirror
 aliases: [Eudomes' Mirror]
 ---
 # Eudomes' Mirror of the Past
 >[!info]+ Information
 > (very rare magical mirror)
-> [mechanics](https://www.dndbeyond.com/magic-items/2739459-eudomes-mirror)
+> [Mechanics](https://www.dndbeyond.com/magic-items/2739459-eudomes-mirror)
 
 %% this describes both the general class of "Mirror of the Past" and the specific item, Eudomes' Mirror of the Past; ideally might want to refactor to remove the campaign specific stuff, if I decide that a Mirror of the Past is a general type of object%%
 

@@ -1,13 +1,13 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/docreview, status/unknown]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {definitiveArticle: the, partOf: "One of <current>"}
 partOf: Echo Realms
 typeOf: plane
 ---
-# Feywild
+# The Feywild
 >[!info]+ Information
-> A plane in the [[Echo Realms]]
+> One of the [[Echo Realms]]
 
 The echo realm of the fey, home to the realms of the Archfey and the [[Fey]]
 ## Locations

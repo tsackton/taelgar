@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.20
 tags: [place, place/building, status/unknown]
-displayDefaults: {partOf: A <subtypeof> on <loc>}
+displayDefaults: {partOf: A <subtypeof> on <current:r>}
 campaignInfo: []
 name:
 typeOf: inn
