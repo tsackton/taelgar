@@ -164,7 +164,8 @@ class LocationManager {
             } 
 
             let current = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current
-            if (current) nextLevel = current.location;
+            // currently skip Unknown always, but could make this a format string option //
+            if (current.location != "Unknown") nextLevel = current.location;
 
             if (nextLevel && nameSection) {
                 return nameSection + ", " + this.#getLocationFromPartOfs(nextLevel, targetDate, thisDepth + 1, maxDepth, linkType, casing, format)

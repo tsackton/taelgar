@@ -85,6 +85,14 @@ In general, the whereabouts information is used to calculate four different wher
 * The `lastKnown` whereabout is only set if the current whereabout is not found (i.e. there are no valid current whereabouts). In that case, the lastKnown whereabout is the home or away whereabout with the most recent end date
 
 In general, if a start date is not set for any whereabout it is assumed to be `0001`. If an end date is not set for a home whereabout, it is assumed to be `9999`. If an end date is not set for an away whereabout, it is assumed to be equal to the start date.
+#### Type
+
+There are currently only two valid types, `home` and `away`. 
+- Type `away` always represents a location where something is
+- Type `home` is used not just to represent location, but also creator/founder/maker/owner etc
+	- Generally speaking, for people, home is where you are from and where you are based
+	- Generally speaking, for things/organizations, home defines either founder/creator if it points to a person, or place founded/created if it points to a location. To get made by person in location, you need to set the whereabouts of the person for created date, as presumably that person must have been in that place at that time. 
+	- For locations, home is always used to represent current physical location, as places cannot typically go on trips (if they can, they are probably vehicles, not places)
 ### Affiliations
 
 The `affiliations` section defines organizations or places that this page is affiliated with or leads. It has the following structure:
