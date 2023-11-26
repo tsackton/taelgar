@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/minor]
 timelineDescriptor: Charmhearts
 campaignInfo:
@@ -10,7 +10,8 @@ born: 1728
 species: halfling
 ancestry:
 gender: male
-affiliations: [Charmhearts]
+affiliations: 
+- {org: Charmhearts, type: primary}
 whereabouts:
 - { type: away, start: 1748-03-19, end: 1748-03-19, location: Raven's Hold }
 - { type: away, start: 1748-03-28, end: 1748-04-07, location: Karawa }
@@ -21,11 +22,12 @@ whereabouts:
 ---
 # Ander Charmheart
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him of the [[Charmhearts]]
+> a [[Halflings|halfling]], he/him of the [[Charmhearts]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
 
 A young, rambunctious and excessively curious halfling, traveling with the Charmheart trading caravan as a scout and general hand. 
 
