@@ -21,7 +21,7 @@ whereabouts:
 > a [[Halflings|halfling]], he/him of the [[Wildhearts]]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]], sailing to [[Wahacha]], the [[Vermillion Isles]], [[~Eastern Islands~]] %%^End%%
 >> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]], [[~Eastern Islands~]] %%^End%%
 
 Corrin Wildheart is a navigator with a touch of weather magic, part of the crew of the halfling trading ship the [[Wave Dancer]]. He has bright blond unkempt hair, and tends towards yellow and red clothes.

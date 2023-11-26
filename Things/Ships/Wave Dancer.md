@@ -7,7 +7,7 @@ typeOf: vehicle
 subTypeOf: boat
 whereabouts: 
 - {type: home, end: 0001, location: Eastern Green Sea}
-- {type: away, }
+- {type: away, start: 1748-09-30, end: 1748-10-11, location: sailing to Wahacha}
 - {type: away, start: 1748-10-12, end: 1748-10-14, location: Wahacha}
 ---
 # The Wave Dancer
