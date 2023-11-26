@@ -8,7 +8,6 @@ class NameManager {
     NoLink = "never"
     LinkIfValid = "exists"
 
-
     #getElementFromMetadata(elem) {
         if (customJS.state.coreMeta) {
             return customJS.state.coreMeta[elem];
@@ -180,21 +179,28 @@ class NameManager {
             endStatus: "",
 
             whereaboutsOrigin: "<origin:u>",
-            whereaboutsHome: "<home:u>",
-            whereaboutsPastHome: "<home:u>",
+            whereaboutsHome: "<home:U>",
+            whereaboutsPastHome: "<home:U>",
             whereaboutsCurrent: "Current location: <current>",
-            whereaboutsPast: "<end:u> in <current>",
-            whereaboutsLastKnown: "Last known location: (as of <lastknowndate>): <lastknown>",
+            whereaboutsPast: "<end:U> in <current>",
+            whereaboutsLastKnown: "Last known location (as of <lastknowndate>): <lastknown>",
+            whereaboutsLastKnownNoDate: "Last known location: <lastknown>",
             whereaboutsUnknown: "Current location: Unknown",
-            whereaboutsParty: "<met:u> by <person> on <target> in <current>",
+            whereaboutsParty: "<met:U> by <person> on <target> in <current>",
 
-            pageCurrent: "<start:u> <startDate>",
-            pagePastWithStart: "<start:u> <startDate> - <end> <endDate>",
-            pagePast: "<end:u> <endDate>",
+            pageCurrent: "<start:U> <startDate>",
+            pagePastWithStart: "<start:U> <startDate> - <end> <endDate>",
+            pagePast: "<end:U> <endDate>",
 
             boxName: "Information",
             partOf: "",
             secondaryInfo: "",
+
+            // dates in here reference to the affiliation date
+            affiliationNoDate: "<affiliationtitle:t> of <org>",
+            affiliationPast: "<affiliationtitle:t> of <org> (until <endDate>)",
+            affiliationCurrent: "<affiliationtitle:t> of <org> (since <startDate>, <length> ago)",
+            affiliationPastWithStart: "<affiliationtitle:t> of <org> <startDate> - <endDate> (<length>)", 
 
             ddbLinkText: ""
         }
