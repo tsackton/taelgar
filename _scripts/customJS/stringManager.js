@@ -4,9 +4,10 @@ class StringFormatter {
     #getCasing(format) {
 
         let casing = customJS.NameManager.PreserveCase
-        if (format.includes("s")) casing = customJS.NameManager.LowerCase
+
+        if (format.includes("a")) casing = customJS.NameManager.PreserveCase
+        else if (format.includes("s")) casing = customJS.NameManager.LowerCase
         else if (format.includes("t")) casing = customJS.NameManager.TitleCase
-        else if (format.includes("u")) casing = customJS.NameManager.InitialUpperCase
 
         return casing
     }
@@ -73,6 +74,8 @@ class StringFormatter {
             followDate = whereabout.awayEnd
         }
 
+        console.log(formatString)
+
         return this.#getFormattedLocationString(whereabout.location, whereabout.format ?? formatString, followDate)
     }
 
@@ -88,7 +91,7 @@ class StringFormatter {
         let name = file.name
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
-        
+
         let displayDefaults = NameManager.getDisplayData(metadata)
         let pageDateInfo = dateOverride ?? DateManager.getPageDates(metadata, targetDate)
         let defaultType = this.#getDefaultTypeOf(metadata);
@@ -101,7 +104,7 @@ class StringFormatter {
         // t: title case; s: lower case, u: initial upper case
         // a: indefinite article, A: indefinite article if first
         // n: never link, y: always link
-        const regexp = /<[a-zA-Z]+:*[0-9utsaAnyRrPpLlIiOoFf]*>/g;
+        const regexp = /<[a-zA-Z]+:*[0-9UutsaAnyRrPpLlIiOoFf]*>/g;
 
         let resultString = formatString
 
@@ -120,10 +123,10 @@ class StringFormatter {
             let casing = this.#getCasing(format)
 
             let value = metadata[key]
-            if (additionalData && !value) {                
+            if (additionalData && !value) {
                 value = additionalData[key]
             }
-        
+
 
             if (key == "name") {
                 value = NameManager.getName(name, linkType, casing)
@@ -150,14 +153,14 @@ class StringFormatter {
                 }
             } else if (key == "lastknowndate") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.lastKnown) {
+                if (wb.lastKnown && wb.lastKnown.awayEnd.display) {
                     value = wb.lastKnown.awayEnd.display
                 } else if (wb.current) {
                     if (targetDate) {
                         value = targetDate.display
                     } else {
                         value = DateManager.getTargetDateForPage(metadata).display
-                    }          
+                    }
                 } else {
                     value = "Unknown"
                 }
@@ -166,7 +169,7 @@ class StringFormatter {
                 if (wb.lastKnown) {
                     value = this.#getFormattedWhereaboutsString(wb.lastKnown, format, wb.lastKnown.awayEnd)
                 } else if (wb.current) {
-                    value = this.#getFormattedWhereaboutsString(wb.current, format, targetDate)                    
+                    value = this.#getFormattedWhereaboutsString(wb.current, format, targetDate)
                 } else {
                     value = "Unknown"
                 }
@@ -229,35 +232,32 @@ class StringFormatter {
                 }
             }
             else if (key == "partof") {
-                value = AffiliationManager.getAffiliationPartOf(metadata, linkType, casing)                
+                value = AffiliationManager.getAffiliationPartOf(metadata, linkType, casing)
             }
-            else if (key == "primary") {            
+            else if (key == "primary") {
                 value = AffiliationManager.getFormattedPrimaryAffiliations(metadata, targetDate)
             }
             else {
-                value = NameManager.getName(value, linkType, casing)               
+                value = NameManager.getName(value, linkType, casing)
             }
-                
-            let generateArticle = false
 
-            if ((format.includes("a") || format.includes("A")) && value) {
-                if (format.includes("A")) {
-                    let beforeThis = resultString.substr(0, resultString.indexOf(matchItem[0])).trim()                        
-                    if (beforeThis.length == 0) {
-                        generateArticle = true
-                    }
-                } else {
-                    generateArticle = true
+            let beforeThis = resultString.substr(0, resultString.indexOf(matchItem[0])).trim()
+            let isFirstPart = beforeThis.length == 0
+
+            if (value) {
+                let trimmedValue = value.replace("[[", "").replace("]]", "").replace("[", "").replace("]", "").toLowerCase()
+                let firstChar = trimmedValue[0]
+                let article = "a"
+                if (firstChar == "a" || firstChar == "e" || firstChar == "i" || firstChar == "e" || firstChar == "u") {
+                    article = "an"
                 }
 
-                if (generateArticle) {
-                    let trimmedValue = value.replace("[[", "").replace("]]", "").toLowerCase()
-                    let firstChar = trimmedValue[0]                             
-                    if (firstChar == "a" || firstChar == "e" || firstChar == "i" || firstChar == "e" || firstChar == "u") {
-                        value = "an " + value
-                    } else {
-                        value = "a " + value
-                    }
+                if (format.includes("a") || (format.includes("A") && isFirstPart)) {
+                    value = article + " " + value
+                }
+
+                if (format.includes("u") || (format.includes("U") && isFirstPart)) {
+                    value = value.charAt(0).toUpperCase() + value.slice(1)
                 }
             }
 
