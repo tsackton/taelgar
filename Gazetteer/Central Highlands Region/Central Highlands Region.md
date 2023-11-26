@@ -1,13 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/draft]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {definitiveArticle: '', partOf: "<typeof:UA> in Taelgar"}
 name: Central Highlands Region
 typeOf: region
 partOf: Taelgar
 ---
 # Central Highlands Region
->[!info]+ Summary
-> a region in [[Taelgar]]
+>[!info]+ Information
+> A region in Taelgar
 
 ## Overview
 
