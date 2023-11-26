@@ -8,7 +8,6 @@ born:
 species: giant
 subspecies: oni
 gender: male
-pageTargetDate: 1749
 died: 1748-05-29
 whereabouts:
 - {type: home, location: 'somewhere, unknown'}

@@ -3,7 +3,7 @@ tags: [place, event-source, status/unknown]
 typeOf: university
 partOf: Chardon
 timelineDescriptor: University of Chardon
-orgType: university
+typeOf: university
 ---
 # The University of Chardon
 >[!info]+ Summary

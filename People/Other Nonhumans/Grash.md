@@ -8,7 +8,6 @@ campaignInfo:
 name: Grash
 born:
 died: 1749-01-20
-pageTargetDate: 1749-02-02
 species: undead
 ancestry: skeletal
 gender: male
