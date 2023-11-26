@@ -62,7 +62,14 @@ function get_Whereabouts(metadata) {
 
     if (whereabout.lastKnown && whereabout.lastKnown.location) {
         if (displayString != "") displayString += "\n"
-        displayString += StringFormatter.getFormattedString(displayDefaults.whereaboutsLastKnown, file, pageYear, {endDate: whereabout.lastKnown.awayEnd})
+
+        let frmtStr = displayDefaults.whereaboutsLastKnownNoDate
+        
+        if (whereabout.lastKnown.awayEnd.display != "") {            
+            frmtStr = displayDefaults.whereaboutsLastKnown
+        }        
+
+        displayString += StringFormatter.getFormattedString(frmtStr, file, pageYear)
         if (isPageAlive) {
             displayString += "\n" + StringFormatter.getFormattedString(unknownStr, file, pageYear)
         }

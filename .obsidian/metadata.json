@@ -39,7 +39,7 @@
             "pageCurrent": "<start:u> <startDate> (<length> years old)",
             "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
             "pagePast": "<end:u> <endDate>",
-            "secondaryInfo": "<ancestry> <mainType:s>, <pronouns> of <primary>\n(<ka>)",
+            "secondaryInfo": "<ancestry:UA> <maintype:sA>, <pronouns> of <primary>\n(<ka>)",
             "ddbLinkText": "Character Sheet"
         },
         "place": {
@@ -48,7 +48,9 @@
             "pageCurrent": "<start:u> <startDate> (<length> years ago)",
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end:u> <endDate>",
-            "partOf": "<ancestry:A> <typeof:A> in <current>",
+            "whereaboutsCurrent" : "",
+            "whereaboutsHome" : "",
+            "partOf": "<ancestry:AU> <subtypeof:UA> <typeof:AU> in <current>",
             "secondaryInfo": "<population>"
         },
         "item": {
@@ -73,7 +75,7 @@
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
             "pagePast": "<end:u> <endDate>",
             "partOf": "Parent Organization: <partof:yt>",
-            "secondaryInfo": "<ancestry:A> <mainType:As>"
+            "secondaryInfo": "<ancestry:AU> <maintype:AUs>"
         },
         "event": {
             "startStatus": "started in",

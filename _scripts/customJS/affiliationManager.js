@@ -113,13 +113,10 @@ class AffiliationManager {
 
         const { StringFormatter } = customJS
         const { DateManager } = customJS
-        let displayOptions =
-        {
-            noDates: "<affiliationtitle:t> of <org>",
-            pagePast: "<affiliationtitle:t> of <org> (until <endDate>)",
-            pageCurrent: "<affiliationtitle:t> of <org> (since <startDate>, <length> ago)",
-            pagePastWithStart: "<affiliationtitle:t> of <org> <startDate> - <endDate> (<length>)"
-        }
+        const { NameManager } = customJS
+
+        let displayOptions = NameManager.getDisplayData(metadata)
+
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
@@ -165,17 +162,17 @@ class AffiliationManager {
 
             DateManager.setPageDateProperties(dateInfo, targetDate)
 
-            let formatStr = displayOptions.noDates
+            let formatStr = displayOptions.affiliationNoDate
 
             if (dateInfo.startDate.display && dateInfo.endDate.display) {
-                formatStr = dateInfo.isAlive ? displayOptions.pageCurrent : displayOptions.pagePastWithStart
+                formatStr = dateInfo.isAlive ? displayOptions.affiliationCurrent : displayOptions.affiliationPastWithStart
             } else if (dateInfo.startDate.display) {
                 // we have a start but no end
-                formatStr = dateInfo.isAlive ? displayOptions.pageCurrent : displayOptions.noDates
+                formatStr = dateInfo.isAlive ? displayOptions.affiliationCurrent : displayOptions.affiliationNoDate
             } else if (dateInfo.endDate.display) {
-                formatStr = dateInfo.isAlive ? displayOptions.noDates : displayOptions.pagePast
+                formatStr = dateInfo.isAlive ? displayOptions.affiliationNoDate : displayOptions.affiliationPast
             } else {
-                formatStr = displayOptions.noDates
+                formatStr = displayOptions.affiliationNoDate
             }
 
             lines.push(StringFormatter.getFormattedString(formatStr, { frontmatter: metadata }, targetDate, dateInfo,
