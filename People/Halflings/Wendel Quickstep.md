@@ -14,7 +14,6 @@ affiliations:
 - { org: Quicksteps, type: primary }
 - { place: The Windward Sail, title: Proprietor, start: 1718, type: leader } 
 whereabouts: 
-- {type: home}
 - {type: home, start: 1718, location: The Windward Sail}
 ---
 # Wendel Quickstep
