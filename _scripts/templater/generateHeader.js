@@ -23,6 +23,7 @@ async function generateHeader(tp) {
     let displayDefaults = NameManager.getDisplayData(tp.frontmatter)
     let pageDates = DateManager.getPageDates(tp.frontmatter)
     let hasPageDates = pageDates.startDate || pageDates.endDate
+    let pageType = NameManager.getPageType(tp.frontmatter)
 
     let output = StringFormatter.getFormattedString("# <name:tn>", file) + "\n"
 
@@ -56,7 +57,13 @@ async function generateHeader(tp) {
     }
 
     if (tp.frontmatter.whereabouts) {
-        summaryBlockLines.push(">> `$=dv.view(\"_scripts/view/get_Whereabouts\")`")
+        if (pageType == "place") {
+            if (Array.isArray(tp.frontmatter.whereabouts)) {
+                summaryBlockLines.push(">> `$=dv.view(\"_scripts/view/get_Whereabouts\")`")
+            }
+        } else {
+            summaryBlockLines.push(">> `$=dv.view(\"_scripts/view/get_Whereabouts\")`")
+        }
     }
 
     for (let meeting of WhereaboutsManager.getPartyMeeting(tp.frontmatter, undefined)) {

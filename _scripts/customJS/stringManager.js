@@ -38,6 +38,7 @@ class StringFormatter {
     #getSubTypeOf(metadata, type) {
 
         if (metadata.subTypeOf) return metadata.subTypeOf
+        if ("subTypeOf" in metadata) return ""
 
         if (metadata.tags && metadata.tags.length > 0) {
             let baseTags = metadata.tags.filter(f => f.startsWith("item/") || f.startsWith("place/"))
@@ -248,7 +249,7 @@ class StringFormatter {
                 let trimmedValue = value.replace("[[", "").replace("]]", "").replace("[", "").replace("]", "").toLowerCase()
                 let firstChar = trimmedValue[0]
                 let article = "a"
-                if (firstChar == "a" || firstChar == "e" || firstChar == "i" || firstChar == "e" || firstChar == "u") {
+                if (firstChar == "a" || firstChar == "e" || firstChar == "i" || firstChar == "o" || firstChar == "u") {
                     article = "an"
                 }
 

@@ -1,8 +1,8 @@
 async function regenerateHeader(tp) {
 
-    const versionNumber = "2023.11.20"
+    const versionNumber = "2023.11.25"
     const prevVersionNumber = "legacy"
-    const nextVersionNumber = "2023.11.20"
+    const nextVersionNumber = "2023.11.25"
        
     async function updateCurrentFile(someContent, someFile) {
         someContent = someContent.join("\n");     
