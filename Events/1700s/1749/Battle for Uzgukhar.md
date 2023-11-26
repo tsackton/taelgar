@@ -1,6 +1,6 @@
 ---
-headerVersion: 2023.11.20
-displayDefaults: {endStatus: Fought on, partOf: "<article> <typeof> in the <loc>"}
+headerVersion: 2023.11.25
+displayDefaults: {endStatus: Fought on, partOf: "<typeof:UA> in <partof>"}
 tags: [event, status/needswork/notes]
 DR: 1749-01-20
 name: Battle for Uzgukhar
