@@ -15,6 +15,11 @@ function get_Whereabouts(metadata) {
     if (!pageData.isCreated) return "";
 
     let isPageAlive = pageData.isAlive
+    
+    // if page is dead/destroyed, get whereabouts as of died/destroyed date //
+    // if we want to allow dead bodies to move around, would need to change this //
+    // however, currently don't have a good location to track "Died at" so might be complicated //
+    // but commenting to track for the future //
     if (!isPageAlive) pageYear = pageData.endDate
 
     let whereabout = WhereaboutsManager.getWhereabouts(metadata, pageYear)

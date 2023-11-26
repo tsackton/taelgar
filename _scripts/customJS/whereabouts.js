@@ -11,15 +11,18 @@ class WhereaboutsManager {
             return true
         }
 
-
         let endDate = DateManager.normalizeDate(w.end, true)
         let startDate = DateManager.normalizeDate(w.start, false)
         if (!startDate) startDate = DateManager.normalizeDate(w.date, false)
 
+        // shouldn't these just be 0001 and 9999? //
         let dateMin = DateManager.normalizeDate('0001-01-01', false)
         let dateMax = DateManager.normalizeDate('9999-01-01', true)
 
         let type = w.type
+
+        // backwards compatability //
+        // as far as I can tell no files require these //
         if (!type) {
             if (w.excursion == true) type = "away"
         }
@@ -36,6 +39,7 @@ class WhereaboutsManager {
             else if (hasPlace) location = w.place
             else if (hasRegion) location = w.region
         }
+        // end backwards compatability //
 
         let logicalEnd = endDate ?? dateMax
         let logicalStart = startDate ?? dateMin
@@ -108,13 +112,15 @@ class WhereaboutsManager {
             }
 
             return wb.map(f => this.#getNormalizedWhereabout(f))
+        // backwards compatability // 
+        // if place has partOf but no whereabouts, use partOf for whereabouts //
         } else if (metadata && NameManager.getPageType(metadata) == "place") {
             let wb = [{ type: "home", location: metadata.partOf }]
             return wb.map(f => this.#getNormalizedWhereabout(f))
         }
 
         return []
-    }
+    } 
 
     getWhereabouts(metadata, targetDate) {
         const { DateManager } = customJS
@@ -134,17 +140,19 @@ class WhereaboutsManager {
         whereaboutResult.home = homes.last()
         whereaboutResult.origin = origins.first()
 
+        // I'm not sure what this is supposed to do //
+        // origin.startDate doesn't even exist, should this be origin.start? //
         if (whereaboutResult.origin && whereaboutResult.origin.startDate) whereaboutResult.origin = undefined
 
         let current = this.#filterWhereabouts(normalized, undefined, targetDate, false).last()
 
         if (current) {
             if (targetDate.sort <= current.awayEnd.sort) {
-                // this away is truely valid
+                // this away is truely valid //
                 whereaboutResult.current = current
                 whereaboutResult.lastKnown = undefined;
             } else {
-                // this away is our best guess as to location, but we are not still there
+                // this away is our best guess as to location, but we are not still there //
                 whereaboutResult.current = undefined
                 whereaboutResult.lastKnown = current;
             }
