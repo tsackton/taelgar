@@ -1,15 +1,13 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/notes, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo:
 name: Chardonian Empire
 typeOf: realm
 partOf: West Coast Region
-cultureDescriptor: Chardonian
 ---
 # The Chardonian Empire
->[!info]+ Summary
-
+>[!info]+ Information
+> A realm in the [[West Coast Region]]
 
 %%% Some notes from GDrive, may be old/wrong
 #### Chardon

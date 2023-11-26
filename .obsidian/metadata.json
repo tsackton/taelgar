@@ -36,7 +36,7 @@
             "whereaboutsPast": "<end:u> in <current>",
             "whereaboutsPastHome": "Lived in: <home>",
             "whereaboutsParty": "<met:u> by <person> on <target> in <current>",
-            "pageCurrent": "<start:u> <startDate> (<length> years old)",
+            "pageCurrent": "<start:u> <startDate> (<length> old)",
             "pagePastWithStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
             "pagePast": "<end:u> <endDate>",
             "secondaryInfo": "<ancestry:UA> <maintype:sA>, <pronouns> of <primary>\n(<ka>)",
@@ -45,12 +45,12 @@
         "place": {
             "startStatus": "founded",
             "endStatus": "destroyed",
-            "pageCurrent": "<start:u> <startDate> (<length> years ago)",
-            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
+            "pageCurrent": "<start:u> <startDate> (<length> ago)",
+            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length>",
             "pagePast": "<end:u> <endDate>",
             "whereaboutsCurrent" : "",
             "whereaboutsHome" : "",
-            "partOf": "<ancestry:AU> <subtypeof:UA> <typeof:AU> in <current>",
+            "partOf": "<ancestry:AUs> <subtypeof:UA> <typeof:AU> in <current>",
             "secondaryInfo": "<population>"
         },
         "item": {
@@ -59,8 +59,8 @@
             "whereaboutsOrigin": "<start:u> by: <origin>",
             "whereaboutsHome": "Owner: <home>",
             "whereaboutsPastHome": "Was owned by: <home>",
-            "pageCurrent": "<start:u> <startDate> (<length> years ago)",
-            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
+            "pageCurrent": "<start:u> <startDate> (<length> ago)",
+            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length>",
             "pagePast": "<end:u> <endDate>",
             "secondaryInfo": "(<rarity:s> <ancestry> <subtypeof:s> <typeof:s>)",
             "ddbLinkText": "Mechanics"
@@ -71,8 +71,8 @@
             "whereaboutsOrigin": "Founded in: <origin>",
             "whereaboutsHome": "Based in: <home>",
             "whereaboutsPastHome": "Was based in: <home>",
-            "pageCurrent": "<start:u> <startDate> (<length> years ago)",
-            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length> years",
+            "pageCurrent": "<start:u> <startDate> (<length> ago)",
+            "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length>",
             "pagePast": "<end:u> <endDate>",
             "partOf": "Parent Organization: <partof:yt>",
             "secondaryInfo": "<ancestry:AU> <maintype:AUs>"
@@ -83,8 +83,8 @@
             "whereaboutsOrigin": "Started in: <origin>",
             "whereaboutsHome": "Occurring in: <home>",
             "whereaboutsPastHome": "Happened in: <home>",
-            "pageCurrent": "<start:u> <startDate> (<length> years ago)",
-            "pagePastWithStart": "<startDate> - <endDate>, lasted <length> years",
+            "pageCurrent": "<start:u> <startDate> (<length> ago)",
+            "pagePastWithStart": "<startDate> - <endDate>, lasted <length>",
             "pagePast": "<end:u> <endDate>",
             "partOf": "part of <partof:ty>"
         },
@@ -132,12 +132,12 @@
         },
         {
             "from": "elder wrym",
-            "to": "dragons",
+            "to": "Dragons",
             "isAlias": true
         },
         {
             "from": "green dragon",
-            "to": "dragons",
+            "to": "Dragons",
             "isAlias": true
         },
         {

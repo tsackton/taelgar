@@ -1,8 +1,9 @@
 ---
-headerVersion: 2023.11.20
-displayDefaults: {"whereaboutsOrigin": "Home area: <loc>", "secondaryInfo": "(<rarity> <ancestry> <subtypeof>)"}
+headerVersion: 2023.11.25
+displayDefaults: {"whereaboutsOrigin": "Home area: <origin>", "secondaryInfo": "(<rarity> <ancestry> <subtypeof>)"}
 tags: [item/boat]
 typeOf: vehicle
+ancestry: halfling
 subTypeOf: boat
 whereabouts:
 - {type: home, end: 0001, location: Nevos Sea}
@@ -14,7 +15,7 @@ whereabouts:
 ---
 # The Emerald Song
 >[!info]+ Information
-> (boat)
+> ([[Halflings|halfling]] boat)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The halfling ship Emerald Song is a fast, lanteen-rigged, three-masted trading ship owned by the Silversong clan, rigged with a single square mast and two fore-and-aft masts, at least typically. It typically sails between Chardon and points on the Nevos Sea with a crew of 22 and room for up to 12 passengers, more if they are halflings.

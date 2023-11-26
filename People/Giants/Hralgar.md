@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, testcase, status/unknown]
 campaignInfo:
 - {campaign: DuFr, type: freed, date: 1748-11-23}
@@ -14,9 +15,9 @@ whereabouts:
 ---
 # Hralgar
 >[!info]+ Biographical Info
-> [[Giants|storm giant]], he/him
+> a [[Giants|storm giant]], he/him
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Freed by [[Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Freed by the [[Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 

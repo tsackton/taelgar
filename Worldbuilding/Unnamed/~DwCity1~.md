@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 tags: [status/needswork, place, status/namecheck]
-displayDefaults: {partOf: "A <subtypeof> <typeof> in <loc:10>"}
+displayDefaults: {partOf: "<subtypeof:UA> <typeof:UA> in <current>"}
 partOf: Khatridun
 typeOf: city
 subTypeOf: ruined

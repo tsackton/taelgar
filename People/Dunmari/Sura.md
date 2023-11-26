@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [status/uptodate, person, dufr/met, dufr/major, testcase, status/unknown]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-26, type: scryed}
@@ -24,7 +24,7 @@ whereabouts:
 ---
 # Nayan Sura
 >[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], she/her of the [[Nayan Dynasty|Nayan dynasty]]
+> A [[Dunmar|Dunmari]] [[Humans|human]], she/her of the [[Nayan Dynasty|Nayan dynasty]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

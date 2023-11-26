@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, person]
 campaignInfo:
 - {campaign: dufr, date: 1748-07-18, type: met}
@@ -8,16 +8,17 @@ born:
 species: halfling
 ancestry:
 gender: male
-affiliations: [Greenleafs]
+affiliations: [{org: Greenleafs, type: primary}]
 whereabouts:
 - {type: away, start: 1748-07-18, end: 1748-07-18, location: ~Crossroads Caravanserai~}
 - {type: away, start: 1748-07-19, location: traveling east to Tokra}
 ---
 # Alton Greenleaf
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him of the [[Greenleafs]]
+> a [[Halflings|halfling]], he/him of the [[Greenleafs]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 in the [[~Crossroads Caravanserai~]], [[~AncientWestRoad~]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 in the [[~Crossroads Caravanserai~]], [[~AncientWestRoad~]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
 
 A halfling wanderer, traveling with only his brother. 
 ## Relationships

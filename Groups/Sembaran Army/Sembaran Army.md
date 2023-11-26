@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.20
 tags: [organization, status/unknown]
-displayDefaults: {partOf: '<article> <typeof> in <loc:3>', secondaryInfo: ''}
+displayDefaults: {partOf: '<typeof:A> in <partof>', secondaryInfo: ''}
 campaignInfo: []
 aliases: [Sembaran Army, Military of Sembara]
 name: Sembaran Army
@@ -9,7 +10,7 @@ partOf: Sembara
 ---
 # The Sembaran Army
 >[!info]+ Information
-> An army in [[Sembara]], the [[Western Green Sea Region]]
+> an army in [[Sembara]]
 
 The defense of the realm and the people within it is a key concern of the nobility and the lords of the manor. The defenses of the realm are broadly organized in two ways:
 

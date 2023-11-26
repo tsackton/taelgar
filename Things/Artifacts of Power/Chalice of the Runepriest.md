@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [item/magical, event-source, status/unknown]
 displayDefaults: {startStatus: blessed into being, endStatus: destroyed}
 created: 1547

@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.25
 tags: [historical, person, dufr/major, dufr/aware, testcase, status/unknown]
-displayDefaults: {secondaryInfo: '<subspecies> (<species>), <pronouns>'}
+displayDefaults: {secondaryInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Apollyon
 born:

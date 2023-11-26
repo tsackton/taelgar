@@ -1,23 +1,26 @@
 ---
-tags: [pc, person, pc/dunmarfrontier, status/needswork]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.25
+tags: [person, pc/dunmarfrontier, status/needswork]
 campaignInfo:
 name: Delwath
-born:
+born: 1472
 ka: 36
 species: elf
 ancestry:
 gender: male
 player: Mike Sackton
-affiliations: [Dunmar Fellowship]
+affiliations: [{org: Dunmar Fellowship, type: primary}]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Ainumarya, West Coast Region'}
+- {type: home, end: 1538, location: 'Ainumarya' }
+- {type: away }
 ---
 # Delwath
 >[!info]+ Biographical Info
-> [[Elves|elf]], he/him ([[The Cycle of Generations|ka]] 36)
+> an [[Elves|elf]], he/him of the [[Dunmar Fellowship]]
+([[The Cycle of Generations|ka]] 36)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Dunmar Fellowship]]
 
 ![[delwath-portrait.jpg]]
 

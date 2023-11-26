@@ -1,6 +1,6 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.25
+tags: [historical, person]
 campaignInfo: []
 name: Morgaine
 born: 1600
@@ -9,14 +9,15 @@ ancestry: Tyrwinghan
 gender: female
 reignStart:
 died: 1713
-affiliations: [House of Lils, Oracle of the Riven]
+affiliations: 
+- {org: House of Lils, type: primary}
+- {org: Oracle of the Riven, title: the Oracle of the Red, start: 1633}
 ---
 # Morgaine
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Tyrwingha|Tyrwinghan]]), she/her of the [[House of Lils]]
-> Member of: [[Oracle of the Riven]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]], she/her of the [[House of Lils]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 One of the founders of the [[House of Lils]], originally an [[Oracle of the Riven]].
 

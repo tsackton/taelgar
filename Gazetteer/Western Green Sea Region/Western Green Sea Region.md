@@ -1,13 +1,13 @@
 ---
+headerVersion: 2023.11.25
+displayDefaults: {partOf: ""}
 tags: [place, status/needswork]
-campaignInfo:
 name: Western Green Sea Region
 partOf: Taelgar
 typeOf: region
 ---
-# Western Green Sea Region
->[!info]+ Summary
-> a region in the [[Green Sea]], [[Taelgar]]
+# The Western Green Sea Region
+
 
 ## Overview
 

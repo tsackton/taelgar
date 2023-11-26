@@ -1,14 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization/army, status/unknown]
 campaignInfo: []
-displayDefaults: {partOf: 'part of <loc:1>', secondaryInfo: ''}
+displayDefaults: {partOf: 'part of <partof>', secondaryInfo: ''}
 name: Army of the West
 typeOf: army
 partOf: Sembaran Army
 ---
 # The Army of the West
 >[!info]+ Information
-> Part of the [[Sembaran Army]]
+> part of the [[Sembaran Army]], [[Sembara]]
 
 The Army of the West numbers 4,000 soldiers, divided into a North Watch, Center Watch, and South Watch. The South Watch is the largest at 1,600 soldiers; the North and Center Watches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by [[General Isabeau Lemoine]], and each watch is commanded by a colonel, and each regiment by a major.
 

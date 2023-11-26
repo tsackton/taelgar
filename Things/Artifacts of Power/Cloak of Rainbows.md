@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [item/magical, testcase, status/needswork/collate, status/needswork/notes, status/needswork/wip]
 displayDefaults: {startStatus: fashioned, endStatus: destroyed}
 campaignInfo:
