@@ -7,12 +7,16 @@ campaignInfo:
 name: Chalice of the Runepriest
 typeOf: chalice
 rarity: unique
-maker: Bahrazel
+whereabouts: 
+- {type: home, location: Bahrazel }
+- {type: home, location: , end: 1748-10-04}
+- {type: home, location: Tharn Todor, start: 1748-10-05}
 ---
 # The Chalice of the Runepriest
 >[!info]+ Information
 > (unique magical chalice)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it. 
 

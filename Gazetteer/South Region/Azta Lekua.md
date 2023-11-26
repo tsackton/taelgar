@@ -3,7 +3,6 @@ tags: [place, status/unknown]
 displayDefaults: {definitiveArticle: ''}
 campaignInfo: []
 name: Azta Lekua
-placeType:
 partOf: Orekatu
 aliases: [Footprint of the Gods]
 ---

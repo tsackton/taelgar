@@ -1,10 +1,10 @@
 ---
 tags: [item/magical, status/needswork/notes]
 destroyed: 1545
-owner: Beryl
 name: Analadin
 typeOf: staff
 rarity: unique
+whereabouts: Beryl
 ---
 # Analadin
 >[!info]+ Information

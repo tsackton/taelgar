@@ -3,7 +3,7 @@ tags: [item, status/unknown]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo:
 typeOf: boots
-owner: Marcella
+whereabouts: Marcella
 ddbLink: https://www.dndbeyond.com/magic-items/27025-boots-of-false-tracks
 ---
 # Boots of False Tracks
