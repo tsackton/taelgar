@@ -41,6 +41,9 @@ class WhereaboutsManager {
         }
         // end backwards compatability //
 
+        // set undefined locations to "Unknown" //
+        if (!location) location = "Unknown"
+
         let logicalEnd = endDate ?? dateMax
         let logicalStart = startDate ?? dateMin
         let awayEnd = endDate ?? (w.type == "home" ? dateMax
@@ -128,40 +131,31 @@ class WhereaboutsManager {
         targetDate = DateManager.normalizeDate(targetDate)
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
 
-        
-        let whereaboutResult = { current: undefined, home: undefined, origin: undefined, lastKnown: undefined }
+        // default to unknown //
+        let unknownWhereabout = { location: "Unknown" }
+        let whereaboutResult = { current: unknownWhereabout, home: unknownWhereabout, origin: unknownWhereabout, lastKnown: unknownWhereabout }
 
         let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate(metadata.created, false) ?? DateManager.normalizeDate("0001-01-01", false)
         let normalized = this.getWhereaboutsList(metadata)
 
-        let homes = this.#filterWhereabouts(normalized, "home", targetDate, false)
-        let origins = this.#filterWhereabouts(normalized, "home", originDate, false)
+        // home is lexically last valid home //
+        whereaboutResult.home = this.#filterWhereabouts(normalized, "home", targetDate, false).last() ?? whereaboutResult.home
+        // origin is lexically first valid home //
+        whereaboutResult.origin = this.#filterWhereabouts(normalized, "home", originDate, false).first() ?? whereaboutResult.origin
+        // current is lexically last valid location //
+        whereaboutResult.current = this.#filterWhereabouts(normalized, undefined, targetDate, false).last() ?? whereaboutResult.current
+        // lastknown is assumed to be current for now //
+        whereaboutResult.lastKnown = whereaboutResult.current
 
-        whereaboutResult.home = homes.last()
-        whereaboutResult.origin = origins.first()
-
-        // I'm not sure what this is supposed to do //
-        // origin.startDate doesn't even exist, should this be origin.start? //
-        if (whereaboutResult.origin && whereaboutResult.origin.startDate) whereaboutResult.origin = undefined
-
-        let current = this.#filterWhereabouts(normalized, undefined, targetDate, false).last()
-
-        if (current) {
-            if (targetDate.sort <= current.awayEnd.sort) {
-                // this away is truely valid //
-                whereaboutResult.current = current
-                whereaboutResult.lastKnown = undefined;
-            } else {
-                // this away is our best guess as to location, but we are not still there //
-                whereaboutResult.current = undefined
-                whereaboutResult.lastKnown = current;
-            }
-
-            return whereaboutResult
+        if (whereaboutResult.current.location != "Unknown" && targetDate.sort > whereaboutResult.current.awayEnd.sort) {
+            // our current location is our best guess as to our location, but we are not still there //
+            whereaboutResult.current = unknownWhereabout
         }
+        else {
+            // this means we don't have a current whereabout - everything is in the past
+            whereaboutResult.lastKnown = this.#filterWhereabouts(normalized, undefined, targetDate, true).last() ?? unknownWhereabout
 
-        // this means we don't have a current whereabout - everything is in the past
-        whereaboutResult.lastKnown = this.#filterWhereabouts(normalized, undefined, targetDate, true).last()
+        }
 
         return whereaboutResult
     }
