@@ -1,16 +1,16 @@
 ---
-headerVersion: 2023.11.20
-tags: [person, dufr/minor]
+headerVersion: 2023.11.25
+tags: [person, dufr/minor]    
 campaignInfo: 
 - {campaign: dufr, date: 1748-08-22, type: met}
 - {campaign: dufr, person: Delwath, date: 1748-10-21, type: scryed}
-- {campaign: dufr, person: Letter from Dee Wildcloak, date: 1748-11-15, type: last heard from }
+- {campaign: dufr, person: letter from Dee Wildcloak, date: 1748-11-15, type: last heard from }
 name: Dee Wildcloak
 born:
 species: halfling
 ancestry:
 gender: female
-affiliations: [Society of the Open Scroll, Wildcloaks]
+affiliations: [Society of the Open Scroll, {org: Wildcloaks, type: primary}]
 whereabouts:
 - {type: home, location: ""}
 - {type: home, end: 1748-09-12, location: Chardon}
@@ -23,12 +23,12 @@ whereabouts:
 ---
 # Dee Wildcloak
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], she/her of the [[Wildcloaks]]
+> a [[Halflings|halfling]], she/her of the [[Wildcloaks]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22nd, 1748 in [[The Thirsty Scholar]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 21st, 1748 in [[Darba]], [[Western Dunmar]], [[Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last heard from by [[Letter from Dee WIldcloak]] on November 15th, 1748 %%^End%%
->> Member of: The [[Society of the Open Scroll]]
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22nd, 1748 in [[The Thirsty Scholar]], [[Chardon]], the [[Chardonian Empire]], the [[West Coast Region]] %%^End%%
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 21st, 1748 in [[Darba]], [[Western Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
+>> %%^Campaign:dufr%% Last heard from by [[Letter from Dee WIldcloak]] on November 15th, 1748 in Unknown %%^End%%
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
 ## Relationships

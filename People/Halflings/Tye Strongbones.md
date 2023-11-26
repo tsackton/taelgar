@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, person]
 campaignInfo: 
 - {campaign: dufr, date: 1748-06-30, type: met}
@@ -8,17 +8,19 @@ born: 1731
 species: halfling
 ancestry:
 gender: male
-affiliations: [Strongbones]
-leaderOf: [ { place: The Red Lily Inn, title: Cook, start: 0001} ]
-whereabouts: The Red Lily Inn
+affiliations: 
+- {org: Strongbones, type: primary}
+- {org: The Red Lily Inn, title: Cook }
+whereabouts: 
+- {type: home, location: The Red Lily Inn }
 ---
 # Tye Strongbones
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him of the [[Strongbones]]
+> a [[Halflings|halfling]], he/him of the [[Strongbones]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
 
 ## Relationships
 - [[Wes Strongbones]], father

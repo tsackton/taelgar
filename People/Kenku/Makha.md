@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, person]
 campaignInfo: 
 - {campaign: dufr, person: Wellby, date: 1748-10-12, type: met}
@@ -14,7 +14,7 @@ pronunciation: MAH-kah
 # Makha
 *(MAH-kah)*
 >[!info]+ Biographical Info
-> Islander [[Kenku|kenku]], he/him
+> An Islander [[Kenku|kenku]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by [[Wellby]] on October 12th, 1748 in [[Wahacha]], the [[Vermillion Isles]], [[~Eastern Islands~]] %%^End%%

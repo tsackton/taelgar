@@ -7,7 +7,7 @@ born: 1693
 species: halfling
 ancestry: Sembaran
 gender: male
-affiliations: [Stonebridges]
+affiliations: [{org: Stonebridges, type: primary}]
 whereabouts:
 - {type: home, location: Cleenseau}
 ---

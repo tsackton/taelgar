@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor]
 campaignInfo: 
 - {campaign: dufr, person: Kenzo, date: 1748-09-30, type: met}
@@ -13,7 +13,7 @@ whereabouts: Bedez
 ---
 # Elazar
 >[!info]+ Biographical Info
-> [[Lizardfolk|lizardfolk]], he/him
+> a [[Lizardfolk|lizardfolk]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by [[Kenzo]] on September 30th, 1748 in [[Bedez]], [[Orekatu]], the [[South Region]] %%^End%%

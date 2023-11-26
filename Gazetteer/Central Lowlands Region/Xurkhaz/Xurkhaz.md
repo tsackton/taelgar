@@ -1,12 +1,10 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/needswork/note, status/needswork/collate]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Xurkhaz
 created: 1583
 typeOf: realm
-partOf: Garamjala Desert
+whereabouts: Garamjala Desert
 pronunciation: ZURK-kaz
 ---
 # Xurkhaz

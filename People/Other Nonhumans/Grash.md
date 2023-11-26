@@ -1,25 +1,30 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/aware, person, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: "killed"}
 campaignInfo:
 - {campaign: DuFr, type: scryed, date: 1748-12-28}
+- {campaign: DuFr, type: defeated, date: 1749-01-20}
 name: Grash
 born:
 died: 1749-01-20
+pageTargetDate: 1749-02-02
 species: undead
 ancestry: skeletal
 gender: male
 whereabouts:
-- {type: away, start: 1747, end: 1748-11-28, location: Kharsan}
+- {type: away, start: 1747, end: 1748-11-28, location: Kharsan, format: "r"}
 - {type: away, start: 1748-11-28, end: 1748-12-05, location: Garamjala}
-- {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
-- {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
+- {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz, format: "r"}
+- {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar, format: "r"}
 ---
 # Grash
 >[!info]+ Biographical Info
-> skeletal [[Undead|undead]], he/him
+> A skeletal [[Undead|undead]], he/him
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Scryed by [[Dunmar Fellowship]] on December 28th, 1748 in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% Scryed by the [[Dunmar Fellowship]] on December 28th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+>> %%^Campaign:DuFr%% Defeated by the [[Dunmar Fellowship]] on January 20th, 1749 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
 Known as Grash the Undying, an undead warrior and commander of a large [[Orcs|orc]] army in Kharsan. He possessed the [[Ring of Undying]], and used it to create a large army of orcs and undead. 
 

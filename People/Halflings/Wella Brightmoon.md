@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, person]
 campaignInfo: 
 - { campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
@@ -10,18 +10,19 @@ species: halfling
 ancestry:
 gender: female
 aliases: [Wella]
-affiliations: [Brightmoons]
-leaderOf: [ { place: Wave Dancer, title: Captain, start: 0001} ]
+affiliations:
+- {org: Brightmoons, type: primary }
+- { place: Wave Dancer, title: Captain, start: 0001} 
 whereabouts: Wave Dancer
 ---
 # Wella Brightmoon
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], she/her of the [[Brightmoons]]
+> a [[Halflings|halfling]], she/her of the [[Brightmoons]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]], the [[Eastern Green Sea]] %%^End%%
->> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]], [[~Eastern Islands~]] %%^End%%
 
 Wella is an elderly halfling woman, and the captain of the [[Wave Dancer]]. She is married to [[Rose Brightmoon]], and is the matriarch of the Brightmoon clan. 
 %%^Date:1748%%

@@ -1,7 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [historical, person, dufr/aware, status/needswork/notes, status/needswork/wip]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
 name: Cha'mutte
 born:
 species: dragon
@@ -11,7 +10,7 @@ died: 1545
 ---
 # Cha'mutte
 >[!info]+ Biographical Info
-> elder wyrm, he/him
+> an elder wyrm, he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 An elder wyrm, one of the original children of [[Arha]] and [[Malik]].

@@ -1,7 +1,7 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place]
-displayDefaults: {definitiveArticle: '', partOf: A <ancestry> <subtypeof> in <loc:2>}
+displayDefaults: {definitiveArticle: '', partOf: <ancestry:UAs> <subtypeof:UA> in <current:2>}
 campaignInfo: []
 name: The Fire and Stone
 typeOf: inn

@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown, testcase]
 displayDefaults: { endStatus: killed }
 campaignInfo:
@@ -19,7 +19,7 @@ whereabouts:
 ---
 # Kadmos
 >[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

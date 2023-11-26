@@ -1,11 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+displayDefaults: {partOf: ""}
 campaignInfo: []
+ancestry: Chardonian
 name: Society of the Open Scroll
 typeOf: scholary society
 ---
 # The Society of the Open Scroll
+>[!info]+ Information
+> A [[Chardonian Empire|Chardonian]] scholary society
 
 A scholarly society founded in the aftermath of the [[Great War]], to preserve and protect knowledge against future disaster, and to learn the secrets of the past to better protect [[Chardon]] and the world from existential magical threats.
 

@@ -1,7 +1,8 @@
 ---
-headerVersion: 2023.11.20
-displayDefaults: {"whereaboutsOrigin": "Home area: <loc>", "secondaryInfo": "(<rarity> <ancestry> <subtypeof>)"}
+headerVersion: 2023.11.25
+displayDefaults: {"whereaboutsOrigin": "Home area: <origin>", secondaryInfo: (<rarity> <ancestry> <subtypeof>) }
 tags: [item/boat]
+ancestry: halfling
 typeOf: vehicle
 subTypeOf: boat
 whereabouts: 
@@ -10,7 +11,7 @@ whereabouts:
 ---
 # The Wave Dancer
 >[!info]+ Information
-> (boat)
+> ([[Halflings|halfling]] boat)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A halfling ship plying the trade routes of the eastern Green Sea, regularly visiting [[Praznitsky]], [[Wahacha]], [[Quanyi]], and [[Medju]].  

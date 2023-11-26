@@ -1,7 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
 name: Vola Forena
 born: 1721
 species: human
@@ -9,15 +8,15 @@ ancestry: Chardonian
 gender: female
 affiliations: [Society of the Open Scroll]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1748-11-23, end: '', location: 'unknown, Dunmar'}
-- {type: away, start: 1748-12-08, end: 1752, location: Mirror of Soul Trapping}
+- {type: home, start: '', end: '', location: 'Chardon'}
+- {type: away, start: 1748-11-23, end: '', location: 'travelling in Dunmar'}
+- {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 ---
 # Vola Forena
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Chardonian Empire|Chardonian]]), she/her
-> Member of: The [[Society of the Open Scroll]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]], she/her
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
@@ -37,7 +36,7 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 - Friendly with [[Dunmar Fellowship]], especially with [[Kenzo]], who had a similar childhood in Chardon. Somewhat awed by [[Delwath]]. Less friendy with [[Riswynn]], largely because or [[Riswynn]]'s distain. 
 - Friendly with other adventurers for the Society of the Open Scroll, in particular [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]]
 - Looks up to her mentor, [[Agon]]
-- Knows many other Chardonians, including [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]],  whom she traveled with in early 1748, and [[Crispus]] and [[Fausto]], who are the funders of expeditions she has been on or knows of. Particularly friendly with [[Marcella]]. Dislikes [[Casian]], whom she considers an arrogant snob who believes he can take whatever he wants. 
+- Knows many other Chardonians, including [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]], whom she traveled with in early 1748, and [[Crispus]] and [[Fausto]], who are the funders of expeditions she has been on or knows of. Particularly friendly with [[Marcella]]. Dislikes [[Casian]], whom she considers an arrogant snob who believes he can take whatever he wants. 
 
 ## Chronology
 %%SECRET[5]%%

@@ -1,6 +1,6 @@
 ---
-headerVersion: 2023.11.20
-displayDefaults: {partOf: An <ancestry> <subtypeof> <typeof> in <loc>}
+headerVersion: 2023.11.25
+displayDefaults: {partOf: <ancestry:au> <subtypeof> <typeof> in <current>}
 tags: [place]
 campaignInfo:
 name: Orenlas
