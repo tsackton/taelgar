@@ -69,8 +69,14 @@ class WhereaboutsManager {
         else return target.jsDate - item.logicalStart.jsDate
     }
 
-    #filterWhereabouts(whereaboutsList, type, target, allowPast) {
-        let candidateSet = whereaboutsList.filter(w => (!type || w.type == type) && (w.logicalStart.sort <= target.sort)).filter(w => allowPast || target.sort <= w.logicalEnd.sort)
+    #filterWhereabouts(whereaboutsList, type, target, allowPast, allowUnknown) {
+        // filter whereaboutsList to only those that are valid for target //
+        // if allowPast is true, will include past locations //
+        // if allowUnknown is true, will include unknown locations //
+        let candidateSet = whereaboutsList
+            .filter(w => (!type || w.type == type) && (w.logicalStart.sort <= target.sort))
+            .filter(w => allowPast || target.sort <= w.logicalEnd.sort)
+            .filter(w => allowUnknown || w.location);
         let soonestPossible = Math.min(...candidateSet.map(w => this.#get_distance_to_target(w, target)))
         return candidateSet.filter(w => this.#get_distance_to_target(w, target) == soonestPossible)
     }
@@ -147,11 +153,11 @@ class WhereaboutsManager {
         let normalized = this.getWhereaboutsList(metadata)
 
         // home is lexically last valid home //
-        whereaboutResult.home = this.#filterWhereabouts(normalized, "home", targetDate, false).last() ?? whereaboutResult.home
+        whereaboutResult.home = this.#filterWhereabouts(normalized, "home", targetDate, false, true).last() ?? whereaboutResult.home
         // origin is lexically first valid home //
-        whereaboutResult.origin = this.#filterWhereabouts(normalized, "home", originDate, false).first() ?? whereaboutResult.origin
+        whereaboutResult.origin = this.#filterWhereabouts(normalized, "home", originDate, false, true).first() ?? whereaboutResult.origin
         // current is lexically last valid location //
-        whereaboutResult.current = this.#filterWhereabouts(normalized, undefined, targetDate, false).last() ?? whereaboutResult.current
+        whereaboutResult.current = this.#filterWhereabouts(normalized, undefined, targetDate, false, true).last() ?? whereaboutResult.current
         // lastknown is assumed to be current for now //
         whereaboutResult.lastKnown = whereaboutResult.current
 
@@ -161,9 +167,8 @@ class WhereaboutsManager {
         }
         if (!whereaboutResult.lastKnown.location) {
             // lastknown is unknown, see if we can find a better one //
-            whereaboutResult.lastKnown = this.#filterWhereabouts(normalized, undefined, targetDate, true).last() ?? unknownWhereabout
+            whereaboutResult.lastKnown = this.#filterWhereabouts(normalized, undefined, targetDate, true, false).last() ?? unknownWhereabout
         }
-
         return whereaboutResult
     }
 }
