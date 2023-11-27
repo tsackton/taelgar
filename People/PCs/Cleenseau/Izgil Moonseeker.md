@@ -9,7 +9,6 @@ ancestry:
 gender: male
 player: Matt Rand
 aliases: [Durgil Barzinduk, Izgil]
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 whereabouts:
 - {type: home, start: '', end: '', location: Nidzahar}
 - {type: away, start: 1719-10-19, end: '', location: 'Taviose, Sembara'}

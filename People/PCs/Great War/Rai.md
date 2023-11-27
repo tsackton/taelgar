@@ -8,7 +8,6 @@ species:
 ancestry:
 gender: male
 player: David Kong
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ### Rai
 

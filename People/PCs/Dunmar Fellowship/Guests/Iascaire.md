@@ -8,7 +8,6 @@ species:
 ancestry:
 gender:
 player:
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 # Iascaire
 

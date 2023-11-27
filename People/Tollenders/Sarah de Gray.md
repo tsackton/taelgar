@@ -12,7 +12,7 @@ gender: female
 family: de Grey
 whereabouts:
 - {type: home, start: '', end: '', location: Duchy of Maseau}
-- {type: home, start: 1746, end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: 1746, end: '', location: 'Tollen'}
 ---
 # Sarah De Grey
 >[!info]+ Biographical Info

@@ -1,8 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-- {campaign: DuFr, date: 1748-12-22, type: met}
+- {campaign: DuFr, date: 1748-12-22, type: fought and killed}
 name: Urgall
 born: 1720
 species: human
@@ -13,16 +14,14 @@ died: 1748
 whereabouts:
 - {type: home, start: '', end: '', location: Skaerhem}
 - {type: home, start: 1741-01-02, end: '', location: Western Green Sea}
-- {type: away, start: 1748-05-01, end: '', location: 'Vetta, Skaerhem'}
+- {type: away, start: 1748-05-01, end: '1748-12-22', location: 'Vetta'}
 ---
 # Urgall
->[!info]+ Biographical Summary
->human (Skaer), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Skaerhem]]
->> Based in: [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 22nd, 1748: [[Vetta]], [[Skaerhem]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> A [[Skaerhem|Skaer]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Fought and killed by the [[Dunmar Fellowship]] on December 22nd, 1748 in [[Vetta]], [[Skaerhem]] %%^End%%
 
 Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to a life of piracy. Sometime during his pirate days, he made a pact with a demon known as Mashtu the Corruptor. 
 

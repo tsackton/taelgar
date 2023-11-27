@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -11,17 +12,16 @@ gender: male
 affiliations: [University of Tollen]
 family: Marchand
 whereabouts:
-- {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
-- {type: home, start: 1687-01-02, end: '', location: 'Nordgate, Tollen, Western Green Sea'}
+- {type: home, start: '', end: '', location: 'Tollen'}
+- {type: home, start: 1687-01-02, end: '', location: 'Nordgate'}
 ---
 # Guy Marchand
->[!info]+ Biographical Summary
->human (Isinguer), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Tollen]], [[Western Green Sea]]
->> Based in: Nordgate, [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 29th, 1748: Nordgate, [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in [[Nordgate]] %%^End%%
 
 Guy Marchand is a mapmaker from [[Tollen]], known for his meticulous craftsmanship and his thriving shop in Nordgate.
 ## Overview
