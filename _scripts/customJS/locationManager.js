@@ -2,19 +2,22 @@ class LocationManager {
 
     isInLocation(startingLocation, targetLocation, targetDate) {
 
+        // takes a location and a target location and returns true if the target location in
+        // is in the starting location at the target date
+
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
-
-        if (startingLocation == "")
-            return false
-
-        if (startingLocation == undefined)
-            return false
-
-        if (startingLocation.trim() === targetLocation.trim())
+        
+        // Check for null, undefined, or empty string
+        if (!startingLocation || startingLocation.trim() === "") {
+            return false;
+        }
+        
+        // Check if trimmed values are equal
+        if (startingLocation.trim() === targetLocation.trim()) {
             return true;
-
-
+        }
+        
         if (startingLocation.indexOf(",") == -1) {
             // we have a single string
             let file = NameManager.getFileForTarget(startingLocation)
@@ -164,8 +167,8 @@ class LocationManager {
             } 
 
             let current = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current
-            // currently skip Unknown always, but could make this a format string option //
-            if (current.location != "Unknown") nextLevel = current.location;
+            // skip if we have no current location
+            if (current.location) nextLevel = current.location;
 
             if (nextLevel && nameSection) {
                 return nameSection + ", " + this.#getLocationFromPartOfs(nextLevel, targetDate, thisDepth + 1, maxDepth, linkType, casing, format)
