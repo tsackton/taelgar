@@ -1,18 +1,18 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/draft]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
-name: The Far North Region
 typeOf: region
-partOf: Taelgar
+whereabouts: Taelgar
 ---
-# Far North Region
->[!info]+ Summary
-> a region in [[Taelgar]]
+# The Far North Region
+>[!info]+ Information
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
 
-A mysterious land of long winters and bitter snow, the Far North Region is rarely visited, and even rumors from this region rarely reach the populated lands of the south. What strange magic or people may lurk in the North remains unknown. 
+A mysterious land of long winters and bitter  is rarely visited, and even rumors from this region rarely reach the populated lands of the south. What strange magic or people may lurk in the North remains unknown. 
 
 ## Boundaries
 

@@ -189,9 +189,10 @@ class NameManager {
         if (!target || target == "Untitled") return undefined
 
         if (linkType == this.CreateLink) {
+            if (target.includes(",")) linkType = this.LinkIfValid
             let fragmentsThatDontAlwaysLink = this.#getElementFromMetadata("fragmentsThatDontAutoLink")
-            if (fragmentsThatDontAlwaysLink) {
-                for (let word of target.split(' ')) {
+            if (fragmentsThatDontAlwaysLink) {              
+                for (let word of target.split(' ')) {                  
                     if (fragmentsThatDontAlwaysLink.includes(word.toLowerCase())) {
                         linkType = this.LinkIfValid
                         break

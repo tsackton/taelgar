@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [historical, dufr/background, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -10,13 +11,12 @@ gender: male
 title: Emperor
 died: 911
 whereabouts:
-- {type: home, start: '', end: '', location: 'Drankor, Drankorian Empire'}
+- {type: home, start: '', end: '', location: 'Drankor'}
 ---
 # Emperor Akaston
->[!info]+ Biographical Summary
->human (Hkaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Drankor]], [[Drankorian Empire]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> A Hkaran [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An Emperor of Drankor. Ruled during Hralgar's time. 

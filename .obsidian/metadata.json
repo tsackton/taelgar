@@ -7,8 +7,7 @@
         "near",
         "imprisoned",
         "drifting",
-        "traveling",
-        "taelgar"
+        "traveling"        
     ],
     "campaigns": [
         {
@@ -77,7 +76,7 @@
             "pagePastWithStart": "existed <startDate> - <endDate>, <end> after <length>",
             "pagePast": "<end:u> <endDate>",
             "whereaboutsCurrent" : "<ancestry:AUs> <subtypeof:UA> <typeof:AU> in <current:5>",
-            "whereaboutsHome" : "",
+            "whereaboutsHome" :  "<ancestry:AUs> <subtypeof:UA> <typeof:AU> in <current:5>",
             "partOf": "",
             "secondaryInfo": "<population>"
         },
@@ -125,6 +124,11 @@
         }
     },
     "linkmap": [
+        {
+            "from" : "Taelgar",
+            "to" : "Gazetteer",
+            "isAlias" : true
+        },
         {
             "from": "fire elemental",
             "to": "Elementals",

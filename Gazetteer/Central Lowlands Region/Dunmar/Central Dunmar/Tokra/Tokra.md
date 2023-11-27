@@ -8,7 +8,7 @@ whereabouts: Central Dunmar
 ---
 # Tokra
 >[!info]+ Information
-> A city in [[Central Dunmar]], [[Dunmar]], the [[Central Lowlands Region]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 *As you crest the height of the land, you can see the River [[Hara]] winding slowly from north to south, barely more than a trickle at this time of year, before the rains of the monsoon season come.
 

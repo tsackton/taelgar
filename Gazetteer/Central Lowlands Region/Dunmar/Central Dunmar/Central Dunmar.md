@@ -8,7 +8,6 @@ typeOf: region
 ---
 # Central Dunmar
 >[!info]+ Information
-> A region in [[Dunmar]], the [[Central Lowlands Region]]
-
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 (stub)

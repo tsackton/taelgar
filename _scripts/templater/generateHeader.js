@@ -56,15 +56,9 @@ async function generateHeader(tp) {
         summaryBlockLines.push("> " + partOf)
     }
 
-    if (tp.frontmatter.whereabouts) {
-        if (pageType == "place") {
-            if (Array.isArray(tp.frontmatter.whereabouts)) {
-                summaryBlockLines.push(">> `$=dv.view(\"_scripts/view/get_Whereabouts\")`")
-            }
-        } else {
-            summaryBlockLines.push(">> `$=dv.view(\"_scripts/view/get_Whereabouts\")`")
-        }
-    }
+    if (tp.frontmatter.whereabouts || (pageType == "place" && tp.frontmatter.partOf)) {        
+        summaryBlockLines.push(">> `$=dv.view(\"_scripts/view/get_Whereabouts\")`")
+    } 
 
     for (let meeting of WhereaboutsManager.getPartyMeeting(tp.frontmatter, undefined)) {
         summaryBlockLines.push(`>> %%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`);
