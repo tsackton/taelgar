@@ -24,7 +24,6 @@ function get_Whereabouts(metadata) {
 
     let whereabout = WhereaboutsManager.getWhereabouts(metadata, pageYear)
 
-    //testing ///
     displayString = ""
 
     // whereabout.lastKnown.awayEnd.display false-y if it was 0001 or 9999 //
@@ -41,17 +40,17 @@ function get_Whereabouts(metadata) {
         displayString += originString + "\n"
     }
 
-    if (whereabout.home.location != "Unknown") {
+    if (whereabout.home.location) {
         // display home if it is not unknown //
         displayString += homeString + "\n"
     }
 
-    if (whereabout.current.location != whereabout.home.location || whereabout.current.location == "Unknown") {
+    if (whereabout.current.location != whereabout.home.location || !whereabout.current.location) {
         // display current if it is not the same as home, or if both current and home are unknown //
         displayString += currentString + "\n"
     }
 
-    if (whereabout.current.location == "Unknown" && whereabout.lastKnown.location != "Unknown") {
+    if (!whereabout.current.location && whereabout.lastKnown) {
         displayString += knownString + "\n"
     }
 

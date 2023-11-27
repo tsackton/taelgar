@@ -14,7 +14,7 @@ affiliations:
 - {org: The Singing Fox, title: Proprietor}
 whereabouts:
 - {type: home, end: 1725, location: Sembara, format: r} # settled in Tollen in 1725 or earlier
-- {type: home, location: The Singing Fox, format: 3r}
+- {type: home, start: 1725, location: The Singing Fox, format: 3r}
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 ---
 # Chenna Goodbarrel

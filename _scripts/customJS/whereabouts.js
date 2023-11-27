@@ -15,11 +15,16 @@ class WhereaboutsManager {
         let startDate = DateManager.normalizeDate(w.start, false)
         if (!startDate) startDate = DateManager.normalizeDate(w.date, false)
 
-        // shouldn't these just be 0001 and 9999? //
-        let dateMin = DateManager.normalizeDate('0001-01-01', false)
-        let dateMax = DateManager.normalizeDate('9999-01-01', true)
+        let dateMin = DateManager.normalizeDate('0001', false)
+        let dateMax = DateManager.normalizeDate('9999', true)
 
         let type = w.type
+
+        // set location to null unless w.location is a non-empty string //
+        let location = null
+        if ((w?.location?.trim() ?? "").length > 0) {
+            location = w.location
+        }
 
         // backwards compatability //
         // as far as I can tell no files require these //
@@ -29,8 +34,7 @@ class WhereaboutsManager {
 
         if (type == "excursion") type = "away"
         if (type == "origin") type = "home"
-
-        let location = w.location
+        
         if (!location) {
             let hasPlace = isValidLocPiece(w.place)
             let hasRegion = isValidLocPiece(w.region)
@@ -40,9 +44,6 @@ class WhereaboutsManager {
             else if (hasRegion) location = w.region
         }
         // end backwards compatability //
-
-        // set undefined locations to "Unknown" //
-        if (!location) location = "Unknown"
 
         let logicalEnd = endDate ?? dateMax
         let logicalStart = startDate ?? dateMin
@@ -74,7 +75,14 @@ class WhereaboutsManager {
         return candidateSet.filter(w => this.#get_distance_to_target(w, target) == soonestPossible)
     }
 
+    // to do: figure out where party meeting should go //
     getPartyMeeting(metadata, campaign) {
+
+        // to do //
+        // figure out how to make this a bit more flexible with: //
+        // a) "by" vs other prepositions //
+        // b) format string overrides, e.g. with !//
+
         const { StringFormatter } = customJS
         const { NameManager } = customJS
         const { DateManager } = customJS
@@ -132,7 +140,7 @@ class WhereaboutsManager {
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
 
         // default to unknown //
-        let unknownWhereabout = { location: "Unknown" }
+        let unknownWhereabout = { location: null }
         let whereaboutResult = { current: unknownWhereabout, home: unknownWhereabout, origin: unknownWhereabout, lastKnown: unknownWhereabout }
 
         let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate(metadata.created, false) ?? DateManager.normalizeDate("0001-01-01", false)
@@ -147,14 +155,13 @@ class WhereaboutsManager {
         // lastknown is assumed to be current for now //
         whereaboutResult.lastKnown = whereaboutResult.current
 
-        if (whereaboutResult.current.location != "Unknown" && targetDate.sort > whereaboutResult.current.awayEnd.sort) {
+        if (whereaboutResult.current.location && targetDate.sort > whereaboutResult.current.awayEnd.sort) {
             // our current location is our best guess as to our location, but we are not still there //
             whereaboutResult.current = unknownWhereabout
         }
-        else {
-            // this means we don't have a current whereabout - everything is in the past
+        if (!whereaboutResult.lastKnown.location) {
+            // lastknown is unknown, see if we can find a better one //
             whereaboutResult.lastKnown = this.#filterWhereabouts(normalized, undefined, targetDate, true).last() ?? unknownWhereabout
-
         }
 
         return whereaboutResult

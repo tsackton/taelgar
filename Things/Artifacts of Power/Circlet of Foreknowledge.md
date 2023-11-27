@@ -5,7 +5,7 @@ campaignInfo:
 name: Circlet of Foreknowledge
 typeOf: circlet
 rarity: mythical
-whereabouts: 
+whereabouts:
 - {type: away}
 ---
 # The Circlet of Foreknowledge
