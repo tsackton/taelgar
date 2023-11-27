@@ -1,6 +1,6 @@
 ---
 partOf: Drankorian Empire
-tags: [status/needswork/notes, status/needswork/wip]
+tags: [status/needswork/notes, status/needswork/wip, place]
 ---
 
 ### Drankor

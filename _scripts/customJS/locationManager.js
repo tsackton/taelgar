@@ -173,7 +173,14 @@ class LocationManager {
         const { WhereaboutsManager } = customJS
 
         if (!locationPiece) return ""
-        if (locationPiece == "Taelgar") return ""
+      
+        if (locationPiece == "Taelgar") {
+            // Taelgar is handling specially
+            if (thisDepth > 1) return ""
+            if (format.includes("r")) return ""
+
+            return NameManager.getName(locationPiece, linkType, casing)
+        }
 
         let nameSection = NameManager.getName(locationPiece, linkType, casing)
         let file = NameManager.getFileForTarget(locationPiece)

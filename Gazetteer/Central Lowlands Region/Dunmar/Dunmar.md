@@ -7,5 +7,5 @@ typeOf: realm
 ---
 # Dunmar
 >[!info]+ Information
-> A realm in the [[Central Lowlands Region]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
