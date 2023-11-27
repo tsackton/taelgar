@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/notes, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 name: Eastern Dunmar
 typeOf: region
 partOf: Dunmar

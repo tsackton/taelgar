@@ -10,20 +10,20 @@ function get_PageDatedValue(file, metadata) {
     if (!dateInfo.isCreated) return "**(page is future dated)**"
 
     if (dateInfo.endDate && dateInfo.endDate.display == "") {
-        formatStr = pageDisplayData.pagePast
+        formatStr = pageDisplayData.dPast
     }
     else if (dateInfo.isAlive) {
         if (!dateInfo.startDate) {
             // we have a death date in the future and no start date, output nothing
             return ""
         }
-        formatStr = pageDisplayData.pageCurrent
+        formatStr = pageDisplayData.dCurrent
     }
     else if (dateInfo.age || (dateInfo.age == 0 && dateInfo.startDate?.display?.length > 0)) {
-        formatStr = pageDisplayData.pagePastWithStart
+        formatStr = pageDisplayData.dPastHasStart
     }
     else if (dateInfo.endDate) {
-        formatStr = pageDisplayData.pagePast
+        formatStr = pageDisplayData.dPast
     }
     else {
         return ""

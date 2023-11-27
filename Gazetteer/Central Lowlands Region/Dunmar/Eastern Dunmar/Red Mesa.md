@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {partOf: "<ancestry:UA> <typeof:UA> of <subtypeof> in <current:2>"}
 tags: [place]
+displayDefaults: {wHome: "<ancestry:AU> <typeof:AU> in <current:5>"}
 name: Red Mesa
 typeOf: holy site
 ancestry: Dunmari
 subTypeOf: Shakun
-partOf: Eastern Dunmar
+whereabouts: 
+- {type: home, location: Eastern Dunmar, format: }
 ---
 # The Red Mesa
 >[!info]+ Information
-> A [[Dunmar|Dunmari]] holy site of [[Shakun]] in [[Eastern Dunmar]], [[Dunmar]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Red Mesa is a large, flat topped mesa of red stone, that rises six hundred feet or more above desert, marked by ochre rock formations that seem almost to pulse with inner life. 
 

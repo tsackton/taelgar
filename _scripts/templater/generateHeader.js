@@ -34,13 +34,13 @@ async function generateHeader(tp) {
 
     let summaryBlockLines = []
 
-    let typeOf = StringFormatter.getFormattedString(displayDefaults.secondaryInfo, file)
+    let typeOf = StringFormatter.getFormattedString(displayDefaults.boxInfo, file)
     if (typeOf && typeOf.length > 0) {
         summaryBlockLines.push("> " + typeOf)
     }
 
-    if (tp.frontmatter.ddbLink && displayDefaults.ddbLinkText && displayDefaults.ddbLinkText.length > 0) {
-        summaryBlockLines.push("> [" + displayDefaults.ddbLinkText + "](" + tp.frontmatter.ddbLink + ")")
+    if (tp.frontmatter.ddbLink && displayDefaults.linkText && displayDefaults.linkText.length > 0) {
+        summaryBlockLines.push("> [" + displayDefaults.linkText + "](" + tp.frontmatter.ddbLink + ")")
     }
 
     if (hasPageDates) {

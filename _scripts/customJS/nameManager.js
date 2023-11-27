@@ -30,7 +30,7 @@ class NameManager {
         else if (tags.some(f => f.startsWith("deity"))) return "deity"
         else if (tags.some(f => f.startsWith("religion"))) return "religion"
         else if (tags.some(f => f.startsWith("species"))) return "species"
-        else if (tags.some(f => f.startsWith("item")) || metadata.DR || metadata.DR_end || metadata.CY || metadata.CY_end) return "event"
+        else if (tags.some(f => f.startsWith("event")) || metadata.DR || metadata.DR_end || metadata.CY || metadata.CY_end) return "event"
 
         return "unknown"
     }
@@ -226,11 +226,11 @@ class NameManager {
             let displayData = this.getDisplayData(frontmatter)
 
             // add definitive article //
-            if ("definitiveArticle" in displayData) {
+            if ("defArt" in displayData) {
                 // we have a page override, use as is
                 // if null or undefined or blank, don't add anything
-                if (displayData.definitiveArticle)
-                    article = displayData.definitiveArticle;
+                if (displayData.defArt)
+                    article = displayData.defArt;
             }
             else if (selectedDescriptiveName.split(' ').length > 1) {
                 // name is more than one piece

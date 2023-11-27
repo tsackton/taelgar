@@ -103,7 +103,7 @@ class WhereaboutsManager {
 
         let displayData = NameManager.getDisplayData(metadata)
 
-        let format = displayData.whereaboutsParty
+        let format = displayData.wParty
 
         if (metadata.campaignInfo) {
             metadata.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {

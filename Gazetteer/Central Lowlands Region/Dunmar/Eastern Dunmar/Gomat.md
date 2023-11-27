@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name:
 typeOf: oasis
@@ -9,7 +9,7 @@ aliases: [Gomat]
 ---
 # Gomat
 >[!info]+ Information
-> An  oasis in [[Eastern Dunmar]], [[Dunmar]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A small oasis on the very eastern edge of [[Dunmar]], about 40 miles east of [[Karawa]]. The oasis is a rocky area with a few bits of scrub, around a somewhat muddy open pool. Some trees provide a bit of shade, and the terrain to the north and west is more scrubland that pure desert. 
 

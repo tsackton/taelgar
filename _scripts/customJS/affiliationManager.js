@@ -165,7 +165,7 @@ class AffiliationManager {
 
             DateManager.setPageDateProperties(dateInfo, targetDate)
 
-            let formatStr = displayOptions.affiliationNoDate
+            let formatStr = displayOptions.aNoDate
 
             if (first.format || first.format === "") {
                 formatStr = first.format
@@ -173,14 +173,14 @@ class AffiliationManager {
                 formatStr = dateInfo.isAlive ? first.formatCurrent : first.formatPast
             }
             else if (dateInfo.startDate.display && dateInfo.endDate.display) {
-                formatStr = dateInfo.isAlive ? displayOptions.affiliationCurrent : displayOptions.affiliationPastWithStart
+                formatStr = dateInfo.isAlive ? displayOptions.aCurrent : displayOptions.aPastHasStart
             } else if (dateInfo.startDate.display) {
                 // we have a start but no end
-                formatStr = dateInfo.isAlive ? displayOptions.affiliationCurrent : displayOptions.affiliationNoDate
+                formatStr = dateInfo.isAlive ? displayOptions.aCurrent : displayOptions.aNoDate
             } else if (dateInfo.endDate.display) {
-                formatStr = dateInfo.isAlive ? displayOptions.affiliationNoDate : displayOptions.affiliationPast
+                formatStr = dateInfo.isAlive ? displayOptions.aNoDate : displayOptions.aPast
             } else {
-                formatStr = displayOptions.affiliationNoDate
+                formatStr = displayOptions.aNoDate
             }
 
             lines.push(StringFormatter.getFormattedString(formatStr, { frontmatter: metadata }, targetDate, dateInfo,
