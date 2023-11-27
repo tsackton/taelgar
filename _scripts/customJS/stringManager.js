@@ -71,13 +71,15 @@ class StringFormatter {
 
         let followDate = targetDate
 
+        // if the away end date of the whereabout is before the target date, use that as the follow date
         if (whereabout.awayEnd && targetDate && whereabout.awayEnd.sort < targetDate.sort) {
             followDate = whereabout.awayEnd
-        }
+        } 
 
-        console.log(formatString)
+        let formatStringToUse = whereabout.format ?? formatString
+        if (formatString.includes("!")) formatStringToUse = formatString
 
-        return this.#getFormattedLocationString(whereabout.location, whereabout.format ?? formatString, followDate)
+        return this.#getFormattedLocationString(whereabout.location, formatStringToUse, followDate)
     }
 
 
@@ -105,7 +107,8 @@ class StringFormatter {
         // t: title case; s: lower case, u: initial upper case
         // a: indefinite article, A: indefinite article if first
         // n: never link, y: always link
-        const regexp = /<[a-zA-Z]+:*[0-9UutsaAnyRrPpLlIiOoFf]*>/g;
+        // !: ignore the whereabouts format
+        const regexp = /<[a-zA-Z]+:*[!0-9UutsaAnyRrPpLlIiOoFf]*>/g;
 
         let resultString = formatString
 
@@ -147,43 +150,39 @@ class StringFormatter {
                 value = NameManager.getName(metadata.subspecies ?? metadata.species ?? actualType ?? subType ?? defaultType, linkType, casing)
             } else if (key == "current") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.current) {
+                if (wb.current.location) {
                     value = this.#getFormattedWhereaboutsString(wb.current, format, targetDate)
                 } else {
                     value = "Unknown"
                 }
             } else if (key == "lastknowndate") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.lastKnown && wb.lastKnown.awayEnd.display) {
+                if (wb.lastKnown.location && wb.lastKnown.awayEnd.sort <= targetDate.sort) {                    
                     value = wb.lastKnown.awayEnd.display
-                } else if (wb.current) {
+                } else {
                     if (targetDate) {
                         value = targetDate.display
                     } else {
                         value = DateManager.getTargetDateForPage(metadata).display
                     }
-                } else {
-                    value = "Unknown"
-                }
+                }             
             } else if (key == "lastknown") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.lastKnown) {
-                    value = this.#getFormattedWhereaboutsString(wb.lastKnown, format, wb.lastKnown.awayEnd)
-                } else if (wb.current) {
-                    value = this.#getFormattedWhereaboutsString(wb.current, format, targetDate)
+                if (wb.lastKnown.location) {
+                    value = this.#getFormattedWhereaboutsString(wb.lastKnown, format, targetDate)
                 } else {
                     value = "Unknown"
                 }
             } else if (key == "home") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.home) {
+                if (wb.home.location) {
                     value = this.#getFormattedWhereaboutsString(wb.home, format, targetDate)
                 } else {
                     value = "Unknown"
                 }
             } else if (key == "origin") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.origin) {
+                if (wb.origin.location) {
                     value = this.#getFormattedWhereaboutsString(wb.origin, format, pageDateInfo.startDate ?? DateManager.normalizeDate("0001"))
                 } else {
                     value = "Unknown"
