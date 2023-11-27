@@ -26,31 +26,49 @@ function get_Whereabouts(metadata) {
 
     displayString = ""
 
-    // whereabout.lastKnown.awayEnd.display false-y if it was 0001 or 9999 //
-    // or if whereabout.lastKnown.location == "unknown" //
-    let knownLastKnown = whereabout.lastKnown.awayEnd.display ? true : false
+    // whereabout.lastKnown.awayEnd.display falsey if it was 0001 or 9999 //
+    // or if whereabout.lastKnown.awayEnd is nullish //
+    let knownLastKnown = whereabout.lastKnown.awayEnd?.display ? true : false
 
-    originString = StringFormatter.getFormattedString(displayDefaults.whereaboutsOrigin, file, pageYear)
-    homeString = StringFormatter.getFormattedString((isPageAlive ? displayDefaults.whereaboutsHome : displayDefaults.whereaboutsPastHome), file, pageYear)
+    // FOR TESTING 
+    displayDefaults.whereaboutsOriginUnknown = displayDefaults.whereaboutsOrigin
+    displayDefaults.whereaboutsHomeUnknown = displayDefaults.whereaboutsHome
+    displayDefaults.whereaboutsPastHomeUnknown = displayDefaults.whereaboutsPastHome
+
+    // origin string construction //
+    // if origin is unknown, use unknown string //
+    // don't care about alive/dead for origin //
+    originString = StringFormatter.getFormattedString(whereabout.origin.location ? displayDefaults.whereaboutsOrigin : displayDefaults.whereaboutsOriginUnknown, file, pageYear)
+
+    // home string construction //
+    if (isPageAlive) {
+        homeString = StringFormatter.getFormattedString(whereabout.home.location ? displayDefaults.whereaboutsHome : displayDefaults.whereaboutsHomeUnknown, file, pageYear)
+    } else {
+        homeString = StringFormatter.getFormattedString(whereabout.home.location ? displayDefaults.whereaboutsPastHome : displayDefaults.whereaboutsPastHomeUnknown, file, pageYear)
+    }
+
+    // current string construction //    
     currentString = StringFormatter.getFormattedString((isPageAlive ? displayDefaults.whereaboutsCurrent : displayDefaults.whereaboutsPast), file, pageYear)
+
+    // last known string construction //
     knownString = StringFormatter.getFormattedString(knownLastKnown ? displayDefaults.whereaboutsLastKnown : displayDefaults.whereaboutsLastKnownNoDate, file, pageYear)
 
     if (whereabout.origin.location != whereabout.home.location) {
         // display origin if it is not the same as home //
         displayString += originString + "\n"
-    }
-
-    if (whereabout.home.location) {
-        // display home if it is not unknown //
+        displayString += homeString + "\n"
+    } else {
+        // otherwise, just display home //
         displayString += homeString + "\n"
     }
 
     if (whereabout.current.location != whereabout.home.location || !whereabout.current.location) {
-        // display current if it is not the same as home, or if both current and home are unknown //
+        // display current if it is not the same as home or if current is unknown //
         displayString += currentString + "\n"
     }
 
-    if (!whereabout.current.location && whereabout.lastKnown) {
+    if (!whereabout.current.location && !whereabout.home.location && whereabout.lastKnown.location) {
+        // display last known if current is unknown and last known is known //
         displayString += knownString + "\n"
     }
 
