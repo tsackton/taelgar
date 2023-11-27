@@ -94,6 +94,14 @@ class NameManager {
 
     getFileForTarget(target, filter = undefined) {
 
+        // thought: should getFileForTarget return as well the descriptive text? e.g. //
+        // getFileForTarget("climbing the Sentinel Range") returns //
+        // { filename: "Sentinel Range", prefix: "climbing the ", isAlias: false, frontmatter: { ... } } //
+        // getFileForTarget("climbing the Sentinels") returns //
+        // { filename: "Sentinel Range", linktext: "Sentinels", prefix: "climbing the ", isAlias: true, frontmatter: { ... }
+        // getFileForTarget("Sentinel Range") returns //
+        // { filename: "Sentinel Range", isAlias: false, frontmatter: { ... }
+
         let root = window.app.vault.getRoot().path
         // quick search
         let tfile = window.app.metadataCache.getFirstLinkpathDest(target, root);

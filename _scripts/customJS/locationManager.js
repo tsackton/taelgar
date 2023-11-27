@@ -2,8 +2,12 @@ class LocationManager {
 
     isInLocation(startingLocation, targetLocation, targetDate) {
 
-        // takes a location and a target location and returns true if the target location in
-        // is in the starting location at the target date
+        // this takes a note and a target location
+        // and returns true if the note is in the starting location
+        // at the target date
+
+        // to think about: if starting location is, e.g. "wandering, north of Tokra" and target location is "Dunmar"
+        // this will return false, even though it should return true
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
