@@ -149,7 +149,7 @@ class WhereaboutsManager {
         let unknownWhereabout = { location: null }
         let whereaboutResult = { current: unknownWhereabout, home: unknownWhereabout, origin: unknownWhereabout, lastKnown: unknownWhereabout }
 
-        let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate(metadata.created, false) ?? DateManager.normalizeDate("0001-01-01", false)
+        let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate(metadata.created, false) ?? DateManager.normalizeDate("0001", false)
         let normalized = this.getWhereaboutsList(metadata)
 
         // home is lexically last valid home //
