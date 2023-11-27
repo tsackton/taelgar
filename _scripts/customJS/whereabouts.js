@@ -58,7 +58,13 @@ class WhereaboutsManager {
             logicalEnd: logicalEnd,
             logicalStart: logicalStart,
             awayEnd: awayEnd,
-            format: w.format
+            formatSpecifier: w.formatSpecifier ?? w.format,
+            pastHomeFormat: w.pastHome ?? w.wPastHome ?? w.pastHomeFormat,
+            homeFormat: w.home ?? w.wHome ?? w.homeFormat,
+            originFormat: w.origin ?? w.wOrigin ?? w.originFormat,
+            currentFormat: w.current ?? w.wCurrent ?? w.currentFormat,
+            lastKnownFormat: w.lastKnown ?? w.wLastKnown ?? w.lastKnownFormat,
+            pastFormat : w.past ?? w.wPast ?? w.pastFormat
         }
     }
 
@@ -105,11 +111,13 @@ class WhereaboutsManager {
                 let displayDate = DateManager.normalizeDate(element.date)
                 let locForThisDate = this.getWhereabouts(metadata, element.date).current;
 
+                let formatStr = element.wParty ?? element.format ?? format
+
                 if (locForThisDate && (element.campaign == campaign || !campaign)) {
                     let person = element.person ?? element.campaign                    
                     if (person) {
                         let type = element.type ?? "seen"
-                        let text = StringFormatter.getFormattedString(format, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person})
+                        let text = StringFormatter.getFormattedString(formatStr, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person})
                         results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }
@@ -165,6 +173,7 @@ class WhereaboutsManager {
             // our current location is our best guess as to our location, but we are not still there //
             whereaboutResult.current = unknownWhereabout
         }
+
         if (!whereaboutResult.lastKnown.location) {
             // lastknown is unknown, see if we can find a better one //
             whereaboutResult.lastKnown = this.#filterWhereabouts(normalized, undefined, targetDate, true, false).last() ?? unknownWhereabout

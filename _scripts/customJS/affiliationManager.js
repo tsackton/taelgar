@@ -73,7 +73,10 @@ class AffiliationManager {
                 endDate: DateManager.normalizeDate(affiliation.end, true) ?? pageDates.endDate ?? maxDate,
                 org: affiliation.org,
                 type: affiliation.type,
-                title: affiliation.title
+                title: affiliation.title,
+                format: affiliation.format ?? affiliation.aNoDate,
+                formatPast: affiliation.formatPast ?? affiliation.aPast ?? affiliation.aPastWithStart,
+                formatCurrent: affiliation.formatCurrent ?? affiliation.aCurrent
             }
         }
 
@@ -122,7 +125,7 @@ class AffiliationManager {
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
 
         let nonPrimary = this.getNonPrimaryAffiliations(metadata, targetDate)
-        let grouped = this.#groupBy(nonPrimary, f => f.title + "_" + f.startDate.display + "_" + f.endDate.display)
+        let grouped = this.#groupBy(nonPrimary, f => f.title + "_" + f.startDate.display + "_" + f.endDate.display + "_" + f.format)
 
         let lines = []
         grouped.forEach(group => {
@@ -164,7 +167,12 @@ class AffiliationManager {
 
             let formatStr = displayOptions.affiliationNoDate
 
-            if (dateInfo.startDate.display && dateInfo.endDate.display) {
+            if (first.format || first.format === "") {
+                formatStr = first.format
+            } else if (first.formatPast && first.formatCurrent) {
+                formatStr = dateInfo.isAlive ? first.formatCurrent : first.formatPast
+            }
+            else if (dateInfo.startDate.display && dateInfo.endDate.display) {
                 formatStr = dateInfo.isAlive ? displayOptions.affiliationCurrent : displayOptions.affiliationPastWithStart
             } else if (dateInfo.startDate.display) {
                 // we have a start but no end
@@ -184,6 +192,7 @@ class AffiliationManager {
 
         return lines.join("\n")
     }
+
 
     getAffiliationPartOf(metadata, linkType, casing) {
 
