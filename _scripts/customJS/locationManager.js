@@ -55,8 +55,8 @@ class LocationManager {
 
         let maxPieces = parseInt(formatString) ?? undefined
 
-        if (location == undefined) return "Unknown"
-        if (location == "") return "Unknown"
+        // fasly locations (null, undefined, empty string) are always unknown
+        if (!location) return "Unknown"
 
         if (location.indexOf(",") == -1) {
             // walk the part of chain

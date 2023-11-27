@@ -11,7 +11,7 @@ gender: male
 whereabouts:
 - {type: away, start: 1020, end: 1748-11-22, location: trapped in Stormcaller Tower}
 - {type: home, start: 1748-11-23, end: 1748-11-23, location: Stormcaller Tower}
-- {type: home, start: 1748-11-24, end: !!null '', location: 'drifting on the storm, Taelgar'}
+- {type: home, start: 1748-11-24, location: "drifting on the storm, Taelgar"}
 ---
 # Hralgar
 >[!info]+ Biographical Info
