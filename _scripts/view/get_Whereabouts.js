@@ -32,20 +32,20 @@ function get_Whereabouts(metadata) {
     // origin string construction //
     // if origin is unknown, use unknown string //
     // don't care about alive/dead for origin //
-    originString = StringFormatter.getFormattedString(whereabout.origin.location ? displayDefaults.whereaboutsOrigin : displayDefaults.whereaboutsOriginUnknown, file, pageYear)
+    originString = StringFormatter.getFormattedString(whereabout.origin.location ? (whereabout.origin.originFormat ?? displayDefaults.whereaboutsOrigin) : displayDefaults.whereaboutsOriginUnknown, file, pageYear)
 
     // home string construction //
     if (isPageAlive) {
-        homeString = StringFormatter.getFormattedString(whereabout.home.location ? displayDefaults.whereaboutsHome : displayDefaults.whereaboutsHomeUnknown, file, pageYear)
+        homeString = StringFormatter.getFormattedString(whereabout.home.location ? (whereabout.home.homeFormat ?? displayDefaults.whereaboutsHome) : displayDefaults.whereaboutsHomeUnknown, file, pageYear)
     } else {
-        homeString = StringFormatter.getFormattedString(whereabout.home.location ? displayDefaults.whereaboutsPastHome : displayDefaults.whereaboutsPastHomeUnknown, file, pageYear)
+        homeString = StringFormatter.getFormattedString(whereabout.home.location ? (whereabout.home.pastHomeFormat ?? displayDefaults.whereaboutsPastHome) : displayDefaults.whereaboutsPastHomeUnknown, file, pageYear)
     }
 
     // current string construction //    
-    currentString = StringFormatter.getFormattedString((isPageAlive ? displayDefaults.whereaboutsCurrent : displayDefaults.whereaboutsPast), file, pageYear)
+    currentString = StringFormatter.getFormattedString((isPageAlive ? (whereabout.current.currentFormat ?? displayDefaults.whereaboutsCurrent) : (whereabout.current.pastFormat ?? displayDefaults.whereaboutsPast)), file, pageYear)
 
     // last known string construction //
-    knownString = StringFormatter.getFormattedString(knownLastKnown ? displayDefaults.whereaboutsLastKnown : displayDefaults.whereaboutsLastKnownNoDate, file, pageYear)
+    knownString = StringFormatter.getFormattedString(knownLastKnown ? (whereabout.current.lastKnownFormat ?? displayDefaults.whereaboutsLastKnown) : (whereabout.current.lastKnownFormat ?? displayDefaults.whereaboutsLastKnownNoDate), file, pageYear)
 
 
     if (!whereabout.origin.location || whereabout.origin.location != whereabout.home.location) {

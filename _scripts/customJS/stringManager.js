@@ -76,7 +76,7 @@ class StringFormatter {
             followDate = whereabout.awayEnd
         } 
 
-        let formatStringToUse = whereabout.format ?? formatString
+        let formatStringToUse = whereabout.formatSpecifier ?? formatString
         if (formatString.includes("!")) formatStringToUse = formatString
 
         return this.#getFormattedLocationString(whereabout.location, formatStringToUse, followDate)
