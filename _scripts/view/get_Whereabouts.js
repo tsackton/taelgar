@@ -10,7 +10,6 @@ function get_Whereabouts(metadata) {
 
     let pageData = DateManager.getPageDates(metadata);
     let pageYear = DateManager.getTargetDateForPage(metadata)
-    let unknownStr = displayDefaults.whereaboutsUnknown
 
     if (!pageData.isCreated) return "";
 
@@ -26,7 +25,7 @@ function get_Whereabouts(metadata) {
 
     displayString = ""
 
-    // whereabout.lastKnown.awayEnd.display falsey if it was 0001 or 9999 //
+    // knownLastKnown is false if whereabout.lastKnown.awayEnd.display is falsey (it was 0001 or 9999) //
     // or if whereabout.lastKnown.awayEnd is nullish //
     let knownLastKnown = whereabout.lastKnown.awayEnd?.display ? true : false
 
