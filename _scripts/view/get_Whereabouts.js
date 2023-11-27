@@ -47,22 +47,23 @@ function get_Whereabouts(metadata) {
     // last known string construction //
     knownString = StringFormatter.getFormattedString(knownLastKnown ? displayDefaults.whereaboutsLastKnown : displayDefaults.whereaboutsLastKnownNoDate, file, pageYear)
 
-    if (whereabout.origin.location != whereabout.home.location) {
-        // display origin if it is not the same as home //
+
+    if (!whereabout.origin.location || whereabout.origin.location != whereabout.home.location) {
+        // display origin if it is not the same as home or it is unknown //
         displayString += originString + "\n"
-        displayString += homeString + "\n"
-    } else {
-        // otherwise, just display home //
-        displayString += homeString + "\n"
     }
 
-    if (whereabout.current.location != whereabout.home.location || !whereabout.current.location) {
+    // always display home
+    displayString += homeString + "\n"
+
+    if (!whereabout.current.location || whereabout.current.location != whereabout.home.location) {
         // display current if it is not the same as home or if current is unknown //
         displayString += currentString + "\n"
     }
 
-    if (!whereabout.current.location && !whereabout.home.location && whereabout.lastKnown.location) {
-        // display last known if current is unknown and last known is known //
+    if (!whereabout.current.location && whereabout.lastKnown.location && whereabout.lastKnown.location != whereabout.home.location) {
+        // display last known if current is unknown and last known is known, as long as it isn't the same as home //        
+        // note it is not clear last known can ever be same as home but this is added to just double-confirm we don't show 2x of the same thing //
         displayString += knownString + "\n"
     }
 
