@@ -166,45 +166,9 @@ class NameManager {
                 metadata = {}
             }
         }
-
-        let displayDefaultData = this.#getElementFromMetadata("displayDefaults")
-        let defaultForThisItem = displayDefaultData ? displayDefaultData[this.getPageType(metadata)] : undefined
-        if (!defaultForThisItem) defaultForThisItem = this.#getElementFromMetadata("displayDefaults")?.default
-
-
-        // definitiveArticle is not required to be present
-
-        let required = {
-            startStatus: "",
-            endStatus: "",
-
-            whereaboutsOrigin: "<origin:u>",
-            whereaboutsHome: "<home:U>",
-            whereaboutsPastHome: "<home:U>",
-            whereaboutsCurrent: "Current location: <current>",
-            whereaboutsPast: "<end:U> in <current>",
-            whereaboutsLastKnown: "Last known location (as of <lastknowndate>): <lastknown>",
-            whereaboutsLastKnownNoDate: "Last known location: <lastknown>",
-            whereaboutsUnknown: "Current location: Unknown",
-            whereaboutsParty: "<met:U> by <person> on <target> in <current>",
-
-            pageCurrent: "<start:U> <startDate>",
-            pagePastWithStart: "<start:U> <startDate> - <end> <endDate>",
-            pagePast: "<end:U> <endDate>",
-
-            boxName: "Information",
-            partOf: "",
-            secondaryInfo: "",
-
-            // dates in here reference to the affiliation date
-            affiliationNoDate: "<affiliationtitle:t> of <org>",
-            affiliationPast: "<affiliationtitle:t> of <org> (until <endDate>)",
-            affiliationCurrent: "<affiliationtitle:t> of <org> (since <startDate>, <length> ago)",
-            affiliationPastWithStart: "<affiliationtitle:t> of <org> <startDate> - <endDate> (<length>)", 
-
-            ddbLinkText: ""
-        }
-
+        let required = this.#getElementFromMetadata("requiredDisplayDefaults")
+        let typeDefault = this.#getElementFromMetadata("typeDisplayDefaults")
+        let defaultForThisItem = typeDefault ? typeDefault[this.getPageType(metadata)] : undefined
         let base = merge_options(required, defaultForThisItem)
         return merge_options(base, metadata.displayDefaults)
     }

@@ -30,11 +30,6 @@ function get_Whereabouts(metadata) {
     // or if whereabout.lastKnown.awayEnd is nullish //
     let knownLastKnown = whereabout.lastKnown.awayEnd?.display ? true : false
 
-    // FOR TESTING 
-    displayDefaults.whereaboutsOriginUnknown = displayDefaults.whereaboutsOrigin
-    displayDefaults.whereaboutsHomeUnknown = displayDefaults.whereaboutsHome
-    displayDefaults.whereaboutsPastHomeUnknown = displayDefaults.whereaboutsPastHome
-
     // origin string construction //
     // if origin is unknown, use unknown string //
     // don't care about alive/dead for origin //
@@ -72,7 +67,8 @@ function get_Whereabouts(metadata) {
         displayString += knownString + "\n"
     }
 
-    return displayString;
+    // remove extra newlines //
+    return displayString.replace(/\n\n+/g, "\n");
 }
 
 return get_Whereabouts(dv.current());

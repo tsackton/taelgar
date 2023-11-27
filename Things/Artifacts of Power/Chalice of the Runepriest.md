@@ -1,16 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, event-source, status/unknown]
-displayDefaults: {startStatus: blessed into being, endStatus: destroyed}
+tags: [item/magical, event-source, status/unknown, testcase]
+displayDefaults: { whereaboutsOrigin: "<start:u> in <startDate> by <origin:3r> (<length> ago)", pageCurrent: ""}
 created: 1547
 campaignInfo:
 name: Chalice of the Runepriest
 typeOf: chalice
 rarity: unique
 whereabouts: 
-- {type: home, location: Bahrazel }
-- {type: home, location: , end: 1748-10-04}
-- {type: home, location: Tharn Todor, start: 1748-10-05}
+- {type: home, end: 1547, location: Bahrazel }
+- {type: away, start: 1548, end: 1570, location: Tharn Todor}
+- {type: away, start: 1570, end: 1748-10-04, location: lost} 
+- {type: away, start: 1748-10-05, end: 9999, location: Tharn Todor}
+#dates are approx prior to 1748
 ---
 # The Chalice of the Runepriest
 >[!info]+ Information
