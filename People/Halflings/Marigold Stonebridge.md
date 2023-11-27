@@ -6,7 +6,7 @@ name: Marigold Stonebridge
 born: 1624
 species: halfling
 affiliations: [{org: Stonebridges, type: primary}, Lord's Council of Cleenseau]
-leaderOf: [{place: The Crossroads Inn, title: Properitor, start: 0001}]
+leaderOf: [{place: The Crossroads Inn, title: Proprietor, start: 0001}]
 ancestry: Sembaran
 gender: female
 whereabouts: Cleenseau

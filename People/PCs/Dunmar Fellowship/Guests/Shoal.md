@@ -9,7 +9,6 @@ species: elf
 ancestry: sea
 gender: male
 player: Phil Grayson
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 whereabouts:
 - {type: home, start: 1652-01-02, end: '', location: 'unknown, Quanyi'}
 ---

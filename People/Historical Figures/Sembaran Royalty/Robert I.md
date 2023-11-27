@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
 campaignInfo: []
 name: Robert I
@@ -16,9 +16,9 @@ affiliations: [House of Sewick]
 ---
 # King Robert I
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]], he/him of the [[House of Sewick]]
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A ruler of Sembara, son of [[Cece I]].  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [[Elaine II]]. 
 

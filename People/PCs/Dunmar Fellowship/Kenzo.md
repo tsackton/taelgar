@@ -8,7 +8,6 @@ species: human
 ancestry: Dunmari
 gender: male
 player: David Kong
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ## Kenzo
 

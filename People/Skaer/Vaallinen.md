@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, status/uptodate, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -9,14 +9,14 @@ born: 1713
 species: human
 ancestry: Skaer
 gender: male
+pronunciation: va-lin-en
 title: Hakeasa
-whereabouts:
-- {type: home, start: '', end: '', location: 'Pyhlla, Skaerhem'}
-- {type: home, start: 1713-01-02, end: '', location: 'Pyhlla, Skaerhem'}
+whereabouts: Pyhlla
 ---
 # Hakeasa Vaallinen
+*(va-lin-en)*
 >[!info]+ Biographical Info
-> [[Skaerhem|Skaer]] [[Humans|human]], he/him
+> A [[Skaerhem|Skaer]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 25th, 1748 in [[Pyhlla]], [[Skaerhem]] %%^End%%

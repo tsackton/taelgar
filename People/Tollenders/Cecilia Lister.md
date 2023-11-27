@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -10,17 +11,15 @@ ancestry: Tollender
 gender: female
 affiliations: [Dyer's Guild]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
-- {type: home, start: '1694-01-02', end: '', location: 'Tollen, Western Green Sea'}
+- {type: home, start: '', end: '', location: 'Tollen'}
 ---
 # Cecilia Lister
->[!info]+ Biographical Summary
->human (Tollender), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Tollen]], [[Western Green Sea]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 29th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> A [[Tollen|Tollender]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
 An elegant older woman, very precise, who runs an unmarked but well-known tattoo parlor in Southbridge in [[Tollen]]. Important in the [[Dyer's Guild]], and rich. Extremely skilled in the arts of tattoos, especially magical tattoos made with enchanted dyes.
 

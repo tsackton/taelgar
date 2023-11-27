@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -10,12 +10,11 @@ species: human
 ancestry: Skaer
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: 'Pyhlla, Skaerhem'}
-- {type: home, start: 1719-01-02, end: '', location: 'Pyhlla, Skaerhem'}
+- {type: home, start: '', end: '', location: 'Pyhlla'}
 ---
 # Tulvak
 >[!info]+ Biographical Info
-> [[Skaerhem|Skaer]] [[Humans|human]], he/him
+> A [[Skaerhem|Skaer]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 25th, 1748 in [[Pyhlla]], [[Skaerhem]] %%^End%%

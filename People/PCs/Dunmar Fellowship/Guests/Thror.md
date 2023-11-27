@@ -8,7 +8,6 @@ species: dwarf
 ancestry:
 gender:
 player:
-affiliations: [!!null '', !!null '', !!null '', !!null '', !!null '', !!null '', !!null '']
 ---
 ## Thror
 

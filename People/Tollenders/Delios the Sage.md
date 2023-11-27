@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -10,18 +11,15 @@ ancestry: Tollender
 gender: male
 affiliations:
 - Ancient and Honorable Guild of Philosophers
-whereabouts:
-- {type: home, start: '', end: '', location: 'Tollen, Western Green Sea'}
-- {type: home, start: 1668-01-02, end: '', location: 'Tollen, Western Green Sea'}
+whereabouts: Tollen
 ---
 # Delios the Sage
->[!info]+ Biographical Summary
->human (Tollender), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Tollen]], [[Western Green Sea]]
->> Based in: [[Tollen]], [[Western Green Sea]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 30th, 1748: [[Tollen]], [[Western Green Sea]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> A [[Tollen|Tollender]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
 An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the  [[Ancient and Honorable Guild of Philosophers]]
 
