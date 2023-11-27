@@ -1,14 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Bas Udda
-typeOf: ruin
+typeOf: village
+ancestry: ruined
 partOf: Eastern Dunmar
 ---
 # The Bas Udda
 >[!info]+ Information
-> A  ruin in [[Eastern Dunmar]], [[Dunmar]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Bas Udda was once a town like [[Karawa]], same kind of architecture, if anything perhaps bigger. More agriculture, the oasis here on the southeast side of the mesa is on top of a large aquifer so all the land, about 30 miles, from the town to the mesa is planted usually. Hardy grains, some vegetable crops.
 

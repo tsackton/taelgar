@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Pava and Avaras' House
 typeOf: house
@@ -8,7 +8,7 @@ partOf: Garamjala Desert
 ---
 # The Pava and Avaras' House
 >[!info]+ Information
-> A  house in the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 House of [[Avaras]] and [[Pava]] in the desert east of [[Karawa]], on the northern edge of the [[Garamjala Desert]].
 

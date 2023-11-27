@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -11,7 +12,7 @@ aliases: [Chanceweaver]
 ---
 # Prince of Luck
 >[!info]+ Biographical Info
-> [[Fey|archfey]], he/him
+> a [[Fey|archfey]] (he/him)
 
 The Prince of Luck, known as the Chanceweaver, is the ruler of the domain of Fortune’s Rest, and a charming gambler ruling over an endless casino court. 
 

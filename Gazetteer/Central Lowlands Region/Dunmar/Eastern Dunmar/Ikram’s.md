@@ -1,7 +1,7 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, event-source, place/building, status/unknown]
-displayDefaults: {partOf: <subtypeof:ua> in <current:r>}
+displayDefaults: {wHome: <subtypeof:ua> in <current:r>}
 campaignInfo: []
 name:
 typeOf: inn
@@ -10,7 +10,7 @@ partOf: Karawa
 ---
 # Ikram’s
 >[!info]+ Information
-> A caravanserai in [[Karawa]], [[Dunmar]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A large caravanserai, inn, and trading post in [[Karawa]]. It is on the northern outskirts of the village, a large square building with an open courtyard, rooms for travelers, and space for merchants and animals. This is a center of commence in the village when the market is deserted, and many things can be acquired from [[Ikram]], the proprietor. 
 

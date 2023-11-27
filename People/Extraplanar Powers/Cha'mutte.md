@@ -10,7 +10,7 @@ died: 1545
 ---
 # Cha'mutte
 >[!info]+ Biographical Info
-> an elder wyrm, he/him
+> an elder wyrm (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 An elder wyrm, one of the original children of [[Arha]] and [[Malik]].
