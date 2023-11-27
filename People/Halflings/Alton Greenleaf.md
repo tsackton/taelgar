@@ -15,10 +15,10 @@ whereabouts:
 ---
 # Alton Greenleaf
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]], he/him of the [[Greenleafs]]
+> a [[Halflings|halfling]] (he/him), of the [[Greenleafs]]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 in the [[~Crossroads Caravanserai~]], [[~AncientWestRoad~]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 in the [[~Crossroads Caravanserai~]], [[~AncientWestRoad~]], [[Dunmar]] %%^End%%
 
 A halfling wanderer, traveling with only his brother. 
 ## Relationships

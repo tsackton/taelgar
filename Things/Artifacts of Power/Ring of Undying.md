@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [item/magical, status/unknown]
 displayDefaults: { whereaboutsPastHome: "Was owned by: <current:1>", pagePast: "destroyed by [[Wellby]] on <endDate>"}
 typeOf: ring

@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [item/magical, testcase, status/unknown]
 rarity: unique
 campaignInfo:
@@ -20,7 +20,7 @@ whereabouts:
 > (unique magical scepter)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Destroyed by the [[Dunmar Fellowship]] on December 25th, 1748 in [[Vetta]], [[Skaerhem]], the [[Western Green Sea Region]] %%^End%%
+>> %%^Campaign:DuFr%% Destroyed by the [[Dunmar Fellowship]] on December 25th, 1748 in [[Vetta]], [[Skaerhem]] %%^End%%
 
 This scepter is about a foot long and is constructed in silver, with five loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 
