@@ -38,13 +38,19 @@ Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon.
 %%^Date:1748-08-22%%
 - (DR:: 1748-08-22): Dee Wildcloak has a short romantic encounter with [[Wellby]]
 %%^End%%
+
+
 %%^Campaign:None%%
-```dataview
-TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
-FROM #person OR #organization 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-SORT choice(contains(file.tags,"organization"), "Organization", "Person"), choice(species, species, typeof)
+### Relationships
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location", "Alive"], 
+			dv.pages("#person or #organization or #item")
+				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
+				.sort(f => util.s("<maintype:n>", f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
 ```
+
 %%^End%%
 
 %%^Campaign:DuFr%%
