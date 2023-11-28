@@ -51,6 +51,7 @@ The token is specified like: `<token:format>` where the `:format` is optional. T
 * L or l, only or exclude locations
 * I or i, only or exclude items
 * O or o, only or exclude organizations
+* ! if set, will override the format specifier from the whereabouts line, so if you have a wHome like "The <current:3!>" and the whereabouts line has "formatSpecifier: 10" you get 3 not 10
 
 **Linking**
 * n, never link

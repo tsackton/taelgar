@@ -202,4 +202,4 @@ Line 2: If the home output flag is true, and the page exists flag is false: "Liv
 Line 1: If the last known location output flag is true, "Last known Location (as of lastknown.date): (lastknown)"
 Line 2: If the current location output flag is true, and the page exists flag is true: "Current location (as of target date): (current)"
 
-See [[Formatting]],  [[Whereabouts and Last Seen By Party]] and [[Page Dates]] for more information.
+See [[Formatting]],  [[Whereabouts and Last Seen By Party (old)]] and [[Page Dates]] for more information.
