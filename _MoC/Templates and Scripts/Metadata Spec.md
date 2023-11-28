@@ -83,6 +83,8 @@ Note that the simple line: `whereabouts: place` is shorthand for:
 
 `whereabouts: [{type: home, location: place}] `
 
+For places only, the line:  `partOf: place` is shorthand for `whereabouts: [{type: home, location: place}] `
+
 And can be used when simple whereabouts are all that is required.
 
 In general, the whereabouts information is used to calculate four different whereabouts types:
