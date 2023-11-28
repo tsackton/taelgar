@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Reginald
 born: 1506
@@ -9,13 +9,13 @@ ancestry: Sembaran
 gender: male
 reignStart:
 died: 1550
-affiliations: [House of Sewick]
+affiliations: [{org: House of Sewick, type: primary} ]
 ---
 # Reginald
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Sewick|The House of Sewick]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The eldest son of [[Derik III]] by his first wife, [[Sarabet]]. Although he never reigned, largely due to the influence of [[Jane of Tollen]] to support her son during the chaos of the end of the Great War, he had five children, three of who reigned as monarches.
 

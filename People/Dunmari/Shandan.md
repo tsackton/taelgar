@@ -1,8 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/aware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo:
 name: Shandan
 born: 1692
 species: human

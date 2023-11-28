@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: killed by Casian}
+displayDefaults: { endStatus: killed by Casian}
 campaignInfo:
 - {campaign: dufr, date: 1748-07-21, type: met}
 name: Justan
