@@ -1,23 +1,37 @@
 ---
-headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [person, status/needswork/notes]
+campaignInfo: [ { campaign: clee }]
 name: Ysabel
 born: 1688
 species: human
 ancestry: Sembaran
 gender: female
-affiliations: [Lord's Guard of Cleenseau]
+affiliations: 
+- { org: Lord's Guard of Cleenseau, title: Sheriff }
 whereabouts:
 - {type: home, location: Cleenseau}
 ---
 # Ysabel
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]], she/her
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Lord's Guard of Cleenseau]]
 
 A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [[Cleenseau]] and leads a part of the [[Lord's Guard of Cleenseau|Lord's Guard]]. She has many opinions about her employers, in particular [[Rinault Essford]], and does not always successfully keep them to herself.
 
 ![[ysabel.png|420]]
+
+%%^Campaign:None%%
+### Relationships
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location", "Alive"], 
+			dv.pages("#person or #organization or #item")
+				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
+				.sort(f => util.s("<maintype:n>", f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
+```
+
+%%^End%%

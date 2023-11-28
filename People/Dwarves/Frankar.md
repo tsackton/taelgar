@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Frankar
 born: 1714
@@ -9,11 +9,11 @@ ancestry:
 gender: male
 died:
 whereabouts:
-- {type: home, start: '', end: 1730, location: 'Darakan, Khatridun, Sentinel Range'}
+- {type: home, start: '', end: 1730, location: 'Darakan'}
 ---
 # Frankar
 >[!info]+ Biographical Info
-> [[Dwarves|dwarf]], he/him
+> a [[Dwarves|dwarf]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

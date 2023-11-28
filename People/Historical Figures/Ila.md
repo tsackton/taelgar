@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [historical, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -9,14 +10,12 @@ ancestry: Dunmari
 gender: male
 title: Commander
 whereabouts:
-- {type: home, start: '', end: '', location: 'unknown, Central Dunmar'}
+- {type: home, location: 'somewhere in Central Dunmar', formatSpecifier: ""}
 ---
 # Commander Ila
->[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: unknown, [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The commander of the eastern Dunmari army in Tokra during and after the [[Second Hobgoblin War]]. Involved in [[The Exile of Fraternity of the Empty Moon]]. 
 

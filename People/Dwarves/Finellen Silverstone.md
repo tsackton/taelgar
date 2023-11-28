@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -7,12 +8,11 @@ born:
 species: dwarf
 ancestry:
 gender: female
-whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Darba, Western Dunmar'}
+whereabouts: Darba
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Info
-> [[Dwarves|dwarf]], she/her
+> a [[Dwarves|dwarf]] (she/her)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A dwarven antiquities dealer in [[Darba]].

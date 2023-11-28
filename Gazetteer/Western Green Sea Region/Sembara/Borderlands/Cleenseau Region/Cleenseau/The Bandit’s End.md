@@ -3,6 +3,7 @@ tags: [place, status/unknown]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Bandit’s End
+ancestry: Sembaran
 typeOf: inn
 partOf: Cleenseau
 ---

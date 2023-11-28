@@ -1,15 +1,12 @@
 ---
 headerVersion: 2023.11.20
-tags: [clee/unsorted, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags: [person, status/needswork/notes]
 name: Susanne Garay
 born: 1666
 species: human
 ancestry: Sembaran
 gender: female
-whereabouts:
-- {type: home, start: 1666-01-02, end: '', location: 'Embry, Sembara'}
+whereabouts: Embry
 ---
 # Susanne Garay
 >[!info]+ Biographical Info

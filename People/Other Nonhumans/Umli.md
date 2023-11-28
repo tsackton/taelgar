@@ -11,8 +11,8 @@ ancestry:
 gender: female
 aliases: [Umli]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Vostok Mountains, Western Green Sea'}
-- {type: home, start: 1732-01-02, end: '', location: Tollen}
+- {type: home, end: 1731, location: '~Vostok Mountains~'}
+- {type: home, start: 1732, location: Tollen}
 ---
 # Umli the Exile
 >[!info]+ Biographical Info

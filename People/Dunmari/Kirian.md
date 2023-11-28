@@ -1,21 +1,20 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: [ {campaign: DuFr }]
 name: Kirian
 born: 1702
 species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, start: '', end: '', location: 'Tokra'}
 ---
 # Kirian
->[!info]+ Biographical Summary
->[[Humans|human]] (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A retired Dunmari solider who spent his early twenties riding in the warband of [[Shandan]], a charismatic soldier, traveling in the [[Myraeni Gap]] and elsewhere. Wounded in a skirmish with kobolds in DR 1728, and returned to [[Tokra]]. 
 

@@ -9,7 +9,8 @@ ancestry:
 gender: female
 affiliations: [The People of the Rainbow]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Xurkhaz, unknown'}
+- {type: home, location: Xurkhaz }
+- {type: away, location: Mirror of Soul Trapping, start: 1660, end: 1748-12-05 } # start is approximate
 ---
 # Orc in the Mirror
 >[!info]+ Biographical Summary
@@ -18,6 +19,6 @@ whereabouts:
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An unnamed [[Orcs|orc]], trapped by [[Agata]] in the [[Mirror of Soul Trapping]] after refusing to reveal secrets of the [[Cloak of Rainbows]] and the [[People of the Rainbow]]. She is from [[Xurkhaz]], born in the 1660s, and spend around 60 years trapped, before [[Session 71 (DuFr)|being freed]] into [[Lubash]]'s care by [[Dunmar Fellowship]] when they visited [[Xurkhaz]] in 1749. 
+An unnamed [[Orcs|orc]], trapped by [[Agata]] in the [[Mirror of Soul Trapping]] after refusing to reveal secrets of the [[Cloak of Rainbows]] and the [[People of the Rainbow]]. She is from [[Xurkhaz]], born in the 1660s, and spend around 60 years trapped, before [[Session 71 (DuFr)|being freed]] into [[Lubash]]'s care by [[Dunmar Fellowship]] when they visited [[Xurkhaz]] in December 1748.
 
 

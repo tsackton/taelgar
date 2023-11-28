@@ -1,21 +1,20 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/met, status/unknown]
-campaignInfo: []
+campaignInfo: [{campaign: DuFr, type: met, date: 1748-07-26}]
 name: Padma
 born: 1720
 species: human
 ancestry: Dunmari
 gender: female
-whereabouts:
-- {type: home, start: 1720-01-02, end: '', location: 'caravanserai, Tokra-Darba Road, Central Dunmar'}
+whereabouts: "an unnamed caravanserai, Tokra-Darba Road"
 ---
 # Padma
->[!info]+ Biographical Summary
->human (Dunmari), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: caravanserai, [[Tokra-Darba Road]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
-
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on July 26th, 1748 in an unnamed caravanserai, the [[Tokra-Darba Road]], [[Dunmar]] %%^End%%
 
 An innkeeper and master of a caravanserai waystation on the [[Tokra-Darba Road]], running one of the first waystations on the west side of the [[Copper Hills]].  Generally well positioned to receive and pass along news. 
 

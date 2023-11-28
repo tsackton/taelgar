@@ -8,8 +8,8 @@ species: human
 ancestry:
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Medju, Eastern Green Sea'}
-- {type: away, start: 1748-11-23, end: '', location: 'sea elf village, Quanyi, Eastern Green Sea'}
+- {type: home, location: Medju}
+- {type: away, start: 1748-11-23, end: '', location: sea elf village in Quanyi }
 ---
 # Resenna
 >[!info]+ Biographical Summary

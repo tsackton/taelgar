@@ -11,7 +11,7 @@ subspecies: oni
 gender: male
 died: 1748-05-29
 whereabouts:
-- {type: home, location: 'somewhere, unknown'}
+- {type: home }
 - {type: home, location: Garamjala Desert}
 - {type: away, start: 1748-02-08, end: 1748-05-29, location: Shakun’s Wellspring}
 ---
