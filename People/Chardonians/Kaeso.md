@@ -1,8 +1,8 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
-- {campaign: DuFr, date: 1748-10-12, type: scryed}
+- {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
 born: 1691
 species: human
@@ -10,22 +10,21 @@ ancestry: Chardonian
 gender: male
 affiliations: [Shakun Mystai]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
-- {type: home, start: 1691-01-02, end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1713-01-01, end: '', location: 'traveling, Dunmar'}
-- {type: away, start: 1717-01-01, end: '', location: 'Karawa, Eastern Dunmar'}
-- {type: away, start: 1719-01-01, end: '', location: 'traveling, The Central Highlands Region'}
-- {type: home, start: 1723-01-01, end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1748-09-10, end: '', location: 'traveling, Chardonian Empire'}
-- {type: away, start: 1748-10-12, end: '', location: 'Hamri, Mawakel Peninsula'}
+- {type: home, end: 1712, location: Chardon}
+- {type: away, start: 1713, location: traveling in Dunmar}
+- {type: away, start: 1717, location: Karawa}
+- {type: away, start: 1719, location: traveling widely}
+- {type: home, start: 1723, end: 1748-09-09, location: Chardon}
+- {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
+- {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ""}
 ---
 # Kaeso
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: The [[Shakun Mystai]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Scryed by [[Dunmar Fellowship]] on October 12th, 1748 in [[Hamri]], [[Mawakel Peninsula]] %%^End%%
+>> %%^Campaign:DuFr%% Scryed by [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]] %%^End%%
 
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 

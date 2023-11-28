@@ -1,6 +1,5 @@
 ---
 tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Galen
 born:
@@ -8,8 +7,7 @@ species: human
 ancestry: Chardonian
 gender: male
 affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scroll]
-whereabouts:
-- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+whereabouts: Chardon
 ---
 # Galen
 >[!info]+ Biographical Summary

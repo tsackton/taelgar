@@ -9,8 +9,7 @@ ancestry: Dunmari
 gender: male
 affiliations: [Order of the Awakened Soul]
 whereabouts:
-- {type: home, start: 1731-01-02, end: '', location: 'Pava and Avaras'' House, Nashtkar'}
-- {type: away, start: 1748-07-18, end: '', location: 'Pava and Avaras'' House, Nashtkar'}
+- {type: home, start: 1731, location: "Pava and Avaras' House"}
 ---
 # Amil
 >[!info]+ Biographical Info
@@ -18,6 +17,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> Member of: [[Order of the Awakened Soul]]
+
+%% fix away whereabouts %%
 
 A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
 

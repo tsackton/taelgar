@@ -1,6 +1,5 @@
 ---
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Drusa
 born: 1711
@@ -8,8 +7,8 @@ species: human
 ancestry: Chardonian
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1748-05-01, end: '', location: 'Tokra, Central Dunmar'}
+- {type: home, location: Chardon}
+- {type: away, start: 1748-05-01, location: Tokra}
 ---
 # Drusa
 >[!info]+ Biographical Summary

@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Gnaeus
 born: 1701
@@ -9,14 +9,14 @@ ancestry: Chardonian
 gender: male
 affiliations: [University of Chardon, Sibyl's Hall]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Arendum, Chardonian Empire'}
-- {type: home, start: '', end: '', location: 'Chardon, Chardonian Empire'}
+- {type: home, location: Arendum}
+- {type: home, location: Chardon}
 ---
 # Gnaeus
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him of the [[University of Chardon]]
-> Member of: [[Sibyl's Hall]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A disgraced historian and scholar, expelled from the Faculty for using enchantment magic to aid his research, now making a poor living as a tutor. 
