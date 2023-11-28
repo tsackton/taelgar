@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: [{campaign: clee, date: 1720-01-04}]
 name: Harold Stonebridge
@@ -11,10 +11,11 @@ whereabouts: Cleenseau
 ---
 # Harold Stonebridge
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him of the [[Stonebridges]]
+> a [[Halflings|halfling]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 4th, 1720 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 4th, 1720 in Unknown %%^End%%
 
 A halfling child, he is the errand boy of [[The Crossroads Inn]] in [[Cleenseau]]. His older brothers liked to scare him with stories of ghosts and worse in the basement of the Crossroads Inn. 
 

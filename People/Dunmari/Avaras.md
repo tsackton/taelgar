@@ -9,9 +9,9 @@ ancestry: Dunmari
 gender: male
 affiliations: [Order of the Awakened Soul]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Karawa, Eastern Dunmar'}
-- {type: home, start: 1717-01-01, end: '', location: 'Pava and Avaras'' House, Garamjala Desert'}
-- {type: away, start: 1749-01-01, end: '', location: 'Pava and Avaras'' House, Nashtkar'}
+- {type: home, start: '', end: '', location: 'Karawa'}
+- {type: home, start: 1717-01-01, end: '', location: Pava and Avaras' House}
+- {type: away, start: 1749-01-01, end: '', location: Pava and Avaras' House }
 ---
 # Avaras
 >[!info]+ Biographical Info

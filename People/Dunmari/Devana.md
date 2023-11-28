@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -7,15 +8,12 @@ born:
 species: human
 ancestry: Dunmari
 gender: male
-whereabouts:
-- {type: home, start: '', end: '', location: 'north and west of Karawa, Eastern Dunmar'}
+whereabouts: north and west of Karawa
 ---
 # Devana
->[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: north and west of Karawa, [[Eastern Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A Dunmari pastoralist from the area north and west of Karawa. 
 

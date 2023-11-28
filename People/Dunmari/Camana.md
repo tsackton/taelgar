@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -7,19 +8,19 @@ born: 1721
 species: human
 ancestry: Dunmari
 gender: female
-died: 1748
+died: 1748-05-01
 affiliations: [Havdar's Warband]
 whereabouts:
-- {type: home, location: Eastern Dunmar}
-- {type: away, start: 1748-05-01, end: '', location: 'deceased, unknown'}
+- {type: home, location: Eastern Dunmar, format: ""}
+- {type: away, start: 1748-05-01, end: '', location: 'the desert west of Kharsan'}
 ---
 # Camana
 >[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], she/her
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Havdar's Warband]]
 
 A Dunmari warrior, archer, and scout. She is associated with [[Havdar]] and his warrior band, and functions as the leader of his scouting group. 
 
-In May 1748, she died in battle fighting [[Orcs]] affiliated with [[People/Other Nonhumans/Grash]] in the desert west of [[Kharsan]]. [[Havdar]] gifted her [[Flaming Bowstring]] to [[Wellby]] in thanks for the aid of [[Dunmar Fellowship]] in battle. 
+In May 1748, she died in battle fighting [[Orcs]] affiliated with [[Grash]] in the desert west of [[Kharsan]]. [[Havdar]] gifted her [[Flaming Bowstring]] to [[Wellby]] in thanks for the aid of [[Dunmar Fellowship]] in battle. 

@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -8,14 +9,13 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, start: 1729-01-02, end: '', location: 'Karawa, Eastern Dunmar'}
+- {type: home, location: 'Karawa'}
 ---
 # Jayden
->[!info]+ Biographical Summary
->human (Dunmari), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Karawa]], [[Eastern Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 >Location (updated November 15, 1748): unknown
 

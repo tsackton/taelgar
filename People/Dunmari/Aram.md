@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -13,9 +14,9 @@ whereabouts:
 ---
 # Aram
 >[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Havdar's Warband]]
 
 A holy warrior of [[Aagir]] in [[Havdar]]'s service, and unofficial spiritual leader of [[Havdar's Warband]]
