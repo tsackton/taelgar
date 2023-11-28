@@ -1,9 +1,21 @@
 class util {
 
 
+    isAlive(metadata, targetDate) {
+        const { DateManager } = customJS
+
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        else targetDate = DateManager.getTargetDateForPage(metadata)
+
+        return DateManager.getPageDates(metadata, targetDate).isAlive
+    }
+
     isLinkedToPerson(file, target) {
         
-        let allowInlinks = this.getType(file.frontmatter) != "place"
+        const { NameManager } = customJS
+    
+
+        let allowInlinks = NameManager.getPageType(file.frontmatter) != "place"
 
         if (file.outlinks) {
             if (file.outlinks.includes(target.link)) return true;
