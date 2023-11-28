@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 tags: [organization, status/unknown]
-displayDefaults: {partOf: '<typeof:A> in <partof>', secondaryInfo: ''}
+displayDefaults: {partOf: '<typeof:A> in <partof>', boxInfo: ''}
 campaignInfo: []
 aliases: [Sembaran Army, Military of Sembara]
 name: Sembaran Army

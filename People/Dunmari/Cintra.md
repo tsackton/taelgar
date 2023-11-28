@@ -1,6 +1,5 @@
 ---
 tags: [person, dufr/met, dufr/major, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Cintra
 born: 1705

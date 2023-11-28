@@ -1,7 +1,5 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Vostok
 typeOf: realm
 partOf: Western Green Sea Region

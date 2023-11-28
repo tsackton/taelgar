@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization, status/unknown]
-displayDefaults: {partOf: "", secondaryInfo: ""}
+displayDefaults: {partOf: "", boxInfo: ""}
 campaignInfo:
 name: Fraternity of the Empty Moon
 timelineDescriptor: Fraternity of the Empty Moon

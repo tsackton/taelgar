@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 displayDefaults: {partOf: '<ancestry:UA> <typeof:UA> of <current>'}
 campaignInfo: []
 name: Bandit's Way
-typeOf: section
+typeOf: road
 partOf: Great South Road
 ---
 # The Bandit's Way

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-displayDefaults: {partOf: '<typeof:A> of <partof>', secondaryInfo: ''}
+displayDefaults: {partOf: '<typeof:A> of <partof>', boxInfo: ''}
 tags: [organization, status/unknown]
 typeOf: regiment
 partOf: Army of the West

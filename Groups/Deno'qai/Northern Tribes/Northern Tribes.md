@@ -1,7 +1,5 @@
 ---
 tags: [organization, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Northern Tribes
 partOf:
 ---

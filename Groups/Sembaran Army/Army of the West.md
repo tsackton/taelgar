@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [organization/army, status/unknown]
 campaignInfo: []
-displayDefaults: {partOf: 'part of <partof>', secondaryInfo: ''}
+displayDefaults: {partOf: 'part of <partof>', boxInfo: ''}
 name: Army of the West
 typeOf: army
 partOf: Sembaran Army

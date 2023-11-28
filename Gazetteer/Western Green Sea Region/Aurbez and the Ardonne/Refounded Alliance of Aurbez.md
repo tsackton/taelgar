@@ -1,6 +1,5 @@
 ---
 tags: [place, status/notes, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Refounded Alliance of Aurbez
 typeOf: realm
