@@ -20,5 +20,11 @@ table where whereabouts and length(whereabouts) = 2 and whereabouts[0].location 
 
 ## Old display info
 ```dataview
-table where displayDefaults.whereaboutsHome or displayDefaults.definitiveArticle or displayDefaults.whereaboutsOrigin or displayDefaults.secondaryInfo or displayDefaults.whereaboutsCurrent or displayDefaults.whereaboutsLastKnown or displayDefaults.whereaboutsParty or displayDefaults.pageCurrent or displayDefaults.pagePast or displayDefaults.pagePastWithStart
+table where displayDefaults.whereaboutsHome or displayDefaults.definitiveArticle or displayDefaults.whereaboutsOrigin or displayDefaults.secondaryInfo or displayDefaults.whereaboutsCurrent or displayDefaults.whereaboutsLastKnown or displayDefaults.whereaboutsParty or displayDefaults.pageCurrent or displayDefaults.pagePast or displayDefaults.pagePastWithStart or displayDefaults.definitiveArticle = "" or displayDefaults.secondaryInfo = ""
+```
+
+
+### Unused display info
+```dataview
+table where displayDefaults.startPrefix or displayDefaults.endPrefix or displayDefaults.whereaboutsUnknown or displayDefaults.affiliationTypeOf
 ```
