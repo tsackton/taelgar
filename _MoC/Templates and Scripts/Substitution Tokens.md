@@ -43,13 +43,14 @@ There are two areas that are handling specially:
 
 The token is specified like: `<token:format>` where the `:format` is optional. The format is a set of numbers and letters with the following meaning:
 
-* numbers: the depth to follow the location chain. Valid for current, home, origin, lastknown only
+* numbers (in the form X-Y): the depth to follow the location chain. Valid for current, home, origin, lastknown only. If both X and Y are present, returns depth X to Y. If Y is missing, return depth X to end of chain. If X is missing, returns up to depth Y. A single number Y is equivalent to -Y. **Must be the first element of a format specifier string**. 
+* F or f, only or exclude first element of chain. F is a synonym for 1, f is a synonym for 2-. 
+
 * R or r, only regions (if R) or exclude regions (if r)
 * P or p, only or exclude person
 * L or l, only or exclude locations
 * I or i, only or exclude items
 * O or o, only or exclude organizations
-* F or f, only or exclude first element of chain
 * t, use title case
 * s, use lower case
 * u, use initial upper case (i.e. capitalize the substitution if and only if it ends up as the first element in the string)
