@@ -21,3 +21,16 @@ Mostly vanished.
 > - The Mystai of [[Bhishma]] are now few and far between. They do gather every few years for the Feast of [[Bhishma]], but [[Pava]] and [[Avaras]] did not attend the last gathering and don’t expect to make long journeys from their home anymore.
 
 %%SECRET[1]%%
+
+
+%%^Campaign:None%%
+### Current Members
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location"], 
+			dv.pages("#person")
+				.where(f => util.isAffiliated(dv.current().file.name, f.file, dv.current().pageTargetDate))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
+```
+%%^End%%

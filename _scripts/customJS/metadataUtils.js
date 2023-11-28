@@ -17,11 +17,6 @@ class util {
     }
 
 
-    getInfoLine(metadata) {
-        const { NameManager } = customJS
-        return NameManager.getInfoLine(metadata)
-    }
-
     isKnownToParty(file, personMetadata, campaignPrefix, allowTag, allowSessionNotes, campaignFolder) {
 
         const { NameManager } = customJS
@@ -52,13 +47,27 @@ class util {
         return false;
     }
 
-    isAffiliated(target, metadata) {
-        if (!metadata) return false
+    isOrWasAffiliated(target, metadata, targetDate) {
+        
+        const { AffiliationManager } = customJS 
+        const { DateManager } = customJS
 
-        if (!metadata.affiliations) return false
-        if (!Array.isArray(metadata.affiliations)) return false;
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        else targetDate = DateManager.getTargetDateForPage(metadata.frontmatter)
 
-        return metadata.affiliations.includes(target)
+        return AffiliationManager.isOrWasAffiliated(target, metadata.frontmatter, targetDate)
+    }
+
+
+    isAffiliated(target, metadata, targetDate) {
+        
+        const { AffiliationManager } = customJS 
+        const { DateManager } = customJS
+
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        else targetDate = DateManager.getTargetDateForPage(metadata.frontmatter)
+
+        return AffiliationManager.isAffiliated(target, metadata.frontmatter, targetDate)
     }
 
     inLocation(targetLocation, metadata, includeDead, includeLastKnown, targetDate) {
@@ -74,26 +83,19 @@ class util {
             if (!pageDates.isAlive && !includeDead) return false
         }
 
-        let current = metadata.partOf
-        if (!current) {
+        let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
+        if (!wb.current.location) {
 
-            let currentWb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-            if (currentWb.current == undefined || currentWb.current.location == undefined || currentWb.current.location == "Unknown") {                
-
-                if (includeLastKnown && currentWb.lastKnown && currentWb.lastKnown.location) {
-                    return LocationManager.isInLocation(currentWb.lastKnown.location, targetLocation, targetDate)
-                }
-                return false;
-            }
-
-            current = currentWb.location
+            if (!wb.lastKnown.location || !includeLastKnown) return false;
+            return LocationManager.isInLocation(wb.lastKnown.location, targetLocation, targetDate)
         }
 
-        return LocationManager.isInLocation(current, targetLocation, targetDate)
+        return LocationManager.isInLocation(wb.current.location, targetLocation, targetDate)
     }
 
-    inOrHomeLocation(targetLocation, metadata, includeDead, targeDate) {
-        return this.inLocation(targetLocation, metadata, includeDead, true, targeDate) || this.homeLocation(targetLocation, metadata, includeDead, targeDate)
+    inOrHomeLocation(targetLocation, metadata, includeDead, targetDate) {
+        return this.inLocation(targetLocation, metadata, includeDead, true, targetDate) || 
+                this.homeLocation(targetLocation, metadata, includeDead, targetDate)
     }
 
     homeLocation(targetLocation, metadata, includeDead, targetDate) {
@@ -112,20 +114,19 @@ class util {
 
         let home = WhereaboutsManager.getWhereabouts(metadata, targetDate).home;
         if (home == undefined) return false;
-        if (home.location == undefined || home.location == "Unknown") return false;
+        if (home.location == undefined) return false;
 
         return LocationManager.isInLocation(home.location, targetLocation, targetDate)
     }
 
-    getName(targetFile) {
-        const { NameManager } = customJS
-        return NameManager.getName(targetFile, "exists", "title")
-    }
-
-    getLoc(metadata, targetDate) {
+    s(format, targetFile, targetDate) {
         const { StringFormatter } = customJS
+        const { DateManager } = customJS
 
-        return StringFormatter.getFormattedString("<loc:2>", { frontmatter: metadata }, targetDate)
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        else targetDate = DateManager.getTargetDateForPage(targetFile.frontmatter)
+
+        return StringFormatter.getFormattedString(format, {name: targetFile?.name ?? targetFile, frontmatter: targetFile.frontmatter}, targetDate)
     }
 
 }

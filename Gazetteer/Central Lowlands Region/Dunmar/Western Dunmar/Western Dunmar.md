@@ -1,7 +1,7 @@
 ---
 tags: [place, status/notes, status/unknown]
 name: Western Dunmar
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 typeOf: region
 partOf: Dunmar
 ---

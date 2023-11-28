@@ -196,3 +196,15 @@ Notes from old GDrive doc, could be old/wrong/etc, here to incorporate/check/del
 - In many ways more cosmopolitan than Sembara; significant local halfling and dwarven communities, and stoneborn are not unheard of. Elves still super-rare, and lizardfolk if anything less common than in Sembara.
 
 %%
+
+%%^Campaign:None%%
+### Places in Tollen
+```dataviewjs
+const { util } = customJS
+dv.table(["Place", "Type Of"], 
+			dv.pages("#place")
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
+				.map(b => [util.s("<name>", b.file), util.s("<maintype>", b.file)]))
+```
+
+%%^End%%

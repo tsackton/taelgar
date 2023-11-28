@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place/village]
 campaignInfo: []
 name: Taviose
-typeOf: hamlet
+typeOf: village
 subTypeOf: 
 partOf: Cleenseau
 population: 48

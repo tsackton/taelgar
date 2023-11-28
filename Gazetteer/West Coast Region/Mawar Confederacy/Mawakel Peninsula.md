@@ -14,13 +14,14 @@ The Sulqat river valley in the center of the peninsula is separated from the coa
 The western and northern side of the peninsula tend towards milder climates, with less snow in the winter, while the interior and eastern sides are colder and receive often heavy snowfalls, especially towards the higher elevations near the mountains.
 
 %%^Campaign:None%%
-### Places in Mawakel Peninsula
+### Cities in Mawakel Peninsula
 ```dataviewjs
 const { util } = customJS
-dv.table(["Place", "Type Of"], 
+dv.table(["Place", "Region", "Type Of", "Population"], 
 			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
-				.map(b => [util.getName(b.file.name), b.typeOf]))
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter) && (f.file.frontmatter.typeOf == "city" || f.file.frontmatter.typeOf == "village" || f.file.frontmatter.typeOf == "town" || f.file.frontmatter.typeOf == "hamlet"))
+				.sort(f => util.s("<home:1>", f.file))
+				.map(b => [util.s("<name>", b.file), util.s("<home:1>", b.file), util.s("<maintype>", b.file), util.s("<population>", b.file)]))
 ```
 
 %%^End%%

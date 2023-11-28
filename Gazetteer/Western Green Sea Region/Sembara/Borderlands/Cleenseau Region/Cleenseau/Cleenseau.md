@@ -20,10 +20,17 @@ In addition to trade from the south, Cleenseau is known for its fine metalworkin
 
 The town of Cleenseau itself stands some five hundred yards from the river, just beyond the road as it curves to follow the course of the river east. The soil here is rocky and poor, and the landscape a mix of small wooded copses and rocky shrubland. The immediate surroundings of the town are fields, hardwon from the rocky soil, and to the east a large cowpasture and woodlot. In the summer, a handful of wooden docks appear along the bank, and small rafts fish for river trout, but these docks often wash away in the spring floods. The lifeblood of the town is the trade that comes along the [[Great South Road]] - without the river crossing, the land would be too marginal to really support such a large concentration of people.  
 
-### Places 
-```dataview
-LIST from #place where partOf = "Cleenseau"
+%%^Campaign:None%%
+### Places in Cleenseau
+```dataviewjs
+const { util } = customJS
+dv.table(["Place", "Type Of"], 
+			dv.pages("#place")
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
+				.map(b => [util.s("<name>", b.file), util.s("<maintype>", b.file)]))
 ```
+
+%%^End%%
 
 Stretched along the southeastern wall of the town, between the wall and the road, are three inns: [[The Bandit’s End]] (M),  [[The River’s Blessing]] (L),  and [[The Fox’s Flagon]] (K). But the largest and most important gathering place in the town is the halfling establishment known as the  [[The Crossroads Inn]], an ancient, sprawling building built against the town walls near the south gate. 
 

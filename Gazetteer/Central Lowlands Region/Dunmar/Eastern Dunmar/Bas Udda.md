@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
+displayDefaults: {defArt: ""}
 campaignInfo: []
 name: Bas Udda
 typeOf: village
