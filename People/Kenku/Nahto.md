@@ -1,22 +1,20 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
 name: Nahto
 born: 1700
 species: kenku
 ancestry: Islander
 gender: male
 whereabouts:
-- {type: home, start: 1700-01-02, end: '', location: 'Wahacha, Vermillion Isles, Eastern Green Sea'}
-- {type: away, start: 1748-10-14, end: '', location: 'sea elf village, Quanyi, Eastern Green Sea'}
+- {type: home, location: 'Wahacha'}
+- {type: away, start: 1748-10-14, end: '', location: 'sea elf village in Quanyi'}
 ---
 # Nahto
->[!info]+ Biographical Summary
->kenku (Islander), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Wahacha]], [[Vermillion Isles]], [[Eastern Green Sea]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> An Islander [[Kenku|kenku]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Kenku man in late middle age. Tinkerer, traveler, explorer; Nahto wanders over the islands of the Eastern [[Green Sea]] with his partner, Skoda. 
 

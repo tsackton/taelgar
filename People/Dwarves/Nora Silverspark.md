@@ -1,19 +1,22 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+displayDefaults: { endStatus: passed on }
 campaignInfo: []
 name: Nora Silverspark
 born:
 species: dwarf
 ancestry:
+died: 1748-11-23
 gender: female
 aliases: [Nora]
 whereabouts:
-- {type: away, start: 1748-11-23, end: '', location: 'deceased, unknown'}
+- {type: away }
 ---
 # Nora Silverspark
 >[!info]+ Biographical Info
-> [[Dwarves|dwarf]], she/her
+> a [[Dwarves|dwarf]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A dwarven warrior, once a ghost in [[Morkalan]] and now passed on. The first victim of [[Hagrim]]'s betrayal. 

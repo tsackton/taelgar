@@ -1,14 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, place/building, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo:
-name:
 typeOf: monastery
+subTypeOf: Bhishma
+ancestry: Dunmari
 partOf: Garamjala Desert
 ---
 # The Monastery of Bhishma
 >[!info]+ Information
-> A monastery in the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
 The Monastery of [[Bhishma]] is a large complex dedicated to the Dunmari goddess [[Bhishma]], consisting of a temple, dormitories and associated buildings, and the [[Hall of Stories]], an archive of the stories and lives of the Dunmari people. 

@@ -17,8 +17,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
->Location (updated November 15, 1748): [[Akela Inn]], [[Central Dunmar]]
-
 The innkeeper of a caravanserai on the road from [[Tokra]] to [[Darba]], near the [[Copper Hills]]. 
 
 His story was heard by [[Kenzo]] of the [[Order of the Awakened Soul]] on 19 July 1748, and recorded: [[Amar's Story]].

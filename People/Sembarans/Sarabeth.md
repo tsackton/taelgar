@@ -1,23 +1,24 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [person, status/needswork/notes]
+campaignInfo: [{campaign: clee}]
 name: Sarabeth
 born: 1686
 species: human
 ancestry: Sembaran
 gender: female
-affiliations: Lord's Guard of Cleenseau
+affiliations: 
+- {org: Lord's Guard of Cleenseau, title: Guardswoman, start: 1717 }
+- {org: Dunfry Regiment, title: Soldier, end: 1716 }
 whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Dunfry, Sembara'}
-- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
+- {type: home, location: Dunfry }
+- {type: home, location: Cleenseau }
 ---
 # Sarabeth
->[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Dunfry]], [[Sembara]]
->> Based in: [[Cleenseau]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A senior guardswoman under [[Ysabel]] and veteran of the [[Army of the West]].

@@ -1,20 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags: [person, status/needswork/notes]
+campaignInfo: [ {campaign: clee, date: 1720-01-03 }]
 name: Rosalind Essford
 born: 1677
 species: human
 ancestry: Sembaran
 gender: female
-aliases: [Lady Essford, Lady Rosalind Essford]
+aliases: [Lady Essford, Lady Rosalind Essford, Rosalind ]
 title: Lady
 affiliations:
-- {org: Lord's Council of Cleenseau, type: leader }
-- {org: Cleenseau, type: leader, start: 1719-03-15}
+- {org: Lord's Council of Cleenseau, type: leader, title: Leader }
+- {org: Cleenseau, type: leader, title: Regent, start: 1719-03-15, end: 1720-02-11 }
+- {org: Cleenseau, type: leader, title: Lady, start:  1720-02-12 }
 whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
+- {type: home, location: Cleenseau }
+- {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry }
+- {type: away, start: 1720-01-20, end: 9999, location: Embry }
 ---
 # Lady Rosalind Essford
 >[!info]+ Biographical Info
@@ -22,8 +24,12 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
-The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of propotion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. In the late fall of 1719, she lost her three children and their nursemaid to a [[Tragic Flood of the River Enst|unseasonable flood of the Enst]]. 
+The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of propotion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [[Arthur Bybet]] in 1706, and their match has been a good and popular one. 
+
+In the late fall of 1719, she lost her three children and their nursemaid to a [[Tragic Flood of the River Enst|unseasonable flood of the Enst]]. 
+She enjoys quite music, especially [[Robin of Abenfyrd|Robin's]] playing, which has been a comfort to her since her children died. 
 
 ![[lady-rosalind-essford.png]]
 
@@ -40,3 +46,5 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 ```
 
 %%^End%%
+
+%% I have more information about her in some emails and DM notes that could be added here, mostly personality notes %%

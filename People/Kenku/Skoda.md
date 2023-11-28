@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -8,15 +9,14 @@ species: kenku
 ancestry: Islander
 gender: female
 whereabouts:
-- {type: home, start: 1700-01-02, end: '', location: 'Wahacha, Vermillion Isles, Eastern Green Sea'}
-- {type: away, start: 1748-10-14, end: '', location: 'sea elf village, Quanyi, Eastern Green Sea'}
+- {type: home, location: 'Wahacha'}
+- {type: away, start: 1748-10-14, location: 'sea elf village in Quanyi'}
 ---
 # Skoda
->[!info]+ Biographical Summary
->kenku (Islander), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Wahacha]], [[Vermillion Isles]], [[Eastern Green Sea]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> An Islander [[Kenku|kenku]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A kenku woman in late middle age, who travels the islands of the [[Eastern Green Sea]] with her partner [[Nahto]]. She is fey-touched and has a hint of magic about her. 
 

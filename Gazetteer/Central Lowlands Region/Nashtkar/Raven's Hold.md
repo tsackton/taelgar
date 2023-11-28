@@ -6,7 +6,9 @@ campaignInfo: []
 name: Raven's Hold
 ancestry: ruined
 typeOf: fort
-partOf: Sentinel Range
+whereabouts:
+- { type: home, location: Ardith, end: 1545 }
+- { type: home, location: Sentinel Range, start: 1545 }
 ---
 # Raven's Hold
 >[!info]+ Information
