@@ -9,9 +9,9 @@ This template generates a header block based on the metadata within the frontmat
 >[!info]+ Biographical Summary
 > (species) ((ancestry)) (pronouns)
 > [[Page Dates#get_PageDatedValue|get_PageDatedValue]] (if elf: ka)
-> [[Whereabouts and Location Specification#get_Homewhereabouts|get_HomeWhereabouts]]
-> ([[Whereabouts and Last Seen By Party|Last Seen by Party Info]])
-> [[Whereabouts and Location Specification#get_CurrentWhereabouts|get_CurrentWhereabouts]]
+> [[Whereabouts and Location Specification (old)#get_Homewhereabouts|get_HomeWhereabouts]]
+> ([[Whereabouts and Last Seen By Party (old)|Last Seen by Party Info]])
+> [[Whereabouts and Location Specification (old)#get_CurrentWhereabouts|get_CurrentWhereabouts]]
 
 The species and ancestry sections are linked if possible:
 * species outputs a link to the page with a matching "speciesDescriptor: " frontmatter tag
@@ -27,9 +27,9 @@ Currently identical to NPCs
 > (species) ((ancestry)) (pronouns)
 > [[Page Dates#get_PageDatedValue|get_PageDatedValue]] (if elf: ka)
 >[[Page Dates#get_RegnalValue|get_RegnalValue]]
->> [[Whereabouts and Location Specification#get_Homewhereabouts|get_HomeWhereabouts]]
->> ([[Whereabouts and Last Seen By Party|Last Seen by Party Info]])
->> [[Whereabouts and Location Specification#get_CurrentWhereabouts|get_CurrentWhereabouts]]
+>> [[Whereabouts and Location Specification (old)#get_Homewhereabouts|get_HomeWhereabouts]]
+>> ([[Whereabouts and Last Seen By Party (old)|Last Seen by Party Info]])
+>> [[Whereabouts and Location Specification (old)#get_CurrentWhereabouts|get_CurrentWhereabouts]]
 
 ### Items
 

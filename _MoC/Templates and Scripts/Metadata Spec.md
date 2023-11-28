@@ -53,6 +53,7 @@ The `campaignInfo` is a metadata structure that defines when various campaign ac
 	type: defaults to "seen" but is used to describe the interaction, i.e. "met", "killed", "glimpsed from afar", etc
 	person: if set, overrides the actor, i.e. if only one member of a party was involved
 	date: the date on which this occurred
+	wParty (or format): a replacement format string for this line
 }
 ```
 
@@ -67,7 +68,14 @@ The `whereabouts` section defines where a specific page is or has been. It has t
 	type: home or away
 	start: the start date of this whereabout line
 	end: the end date of this whereabouts line
-	format: a formatter for this whereabouts line - see formatting below for details
+	formatSpecifier: a formatter for this whereabouts line - see formatting below for details
+	format: an alias for formatSpecifier
+	wOrigin: a replacement format string if this whereabout is used as an origin
+	wHome: a replacement format string if this whereabout is used as a current home
+	wPastHome: a replacement format string if this whereabout is used as a past home
+	wCurrent: a replacement format string if this whereabout is used as a current location
+	wPast: a replacement format string if this whereabout is used as a past current location,
+	wLastKnown: a replacement format string if this whereabout is used as a last known
 }
 ```
 
@@ -104,7 +112,10 @@ The `affiliations` section defines organizations or places that this page is aff
 	type: primary, member, or leader
 	title: A title to use for this affiliation, i.e. Cook, Navigator, Cultist, etc
 	start: when the affiliation started
-	end: when the affiliation ended
+	end: when the affiliation ended,
+	aNoDate (or format): a replacement format string for when the affiliation has no dates
+	aPast (or formatPast): a replacement format string for when the affiliation is in the past
+	aCurrent (or formatCurrent): a replacement format string for when the affiliation is current
 }
 ```
 

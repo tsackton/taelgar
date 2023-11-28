@@ -11,7 +11,7 @@ lastSeenByParty:
 
 This generates a line for each party that has seen the person, like so:
 
-For each row, it generates "exact whereabouts location" (see  [[Whereabouts and Location Specification]]) using the date as the target date. If this generates undefined, the line is skipped. Otherwise, it outputs a line like:
+For each row, it generates "exact whereabouts location" (see  [[Whereabouts and Location Specification (old)]]) using the date as the target date. If this generates undefined, the line is skipped. Otherwise, it outputs a line like:
 
 ```
 %%^Campaign:prefix%% Last seen by [[(party page)|(party name)]] at (date): (exact location) %%^End%%
