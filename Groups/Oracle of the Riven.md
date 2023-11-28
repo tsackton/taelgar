@@ -1,6 +1,6 @@
 ---
 tags: [organization, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 name: Oracle of the Riven
 partOf: Tyrwingha
 ---

@@ -1,9 +1,8 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Cleenseau Wood
-typeOf: wood
+typeOf: forest
 partOf: Barony of Aveil
 ---
 # The Cleenseau Wood

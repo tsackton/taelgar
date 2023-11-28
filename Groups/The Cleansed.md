@@ -1,6 +1,6 @@
 ---
 tags: [organization, status/notes, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 name: The Cleansed
 typeOf: cult
 ---

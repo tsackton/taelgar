@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 tags: [place, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Windward Sail
 typeOf: inn

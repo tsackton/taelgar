@@ -1,6 +1,6 @@
 ---
 tags: [place, status/notes, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {defArt: ""}
 campaignInfo: []
 name: Lake Derwent
 typeOf: lake

@@ -1,6 +1,6 @@
 ---
 tags: [status/needswork, organization, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 campaignInfo:
 name: The Rangers
 typeOf: army

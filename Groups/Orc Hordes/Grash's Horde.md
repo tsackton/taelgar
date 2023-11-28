@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 tags: [organization, status/unknown]
-displayDefaults: {definitiveArticle: '', endStatus: destroyed in battle on, secondaryInfo: ""}
+displayDefaults: {defArt: '', endStatus: destroyed in battle on, boxInfo: ""}
 campaignInfo: []
 name: Grash's Horde
 destroyed: 1749-01-20

@@ -1,7 +1,5 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Western Gulf
 typeOf: gulf
 partOf: Western Green Sea

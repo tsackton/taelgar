@@ -1,10 +1,9 @@
 ---
 headerVersion: 2023.11.20
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Aurbez and the Ardonne
-typeOf: borderland
+typeOf: region
 partOf: Western Green Sea Region
 ---
 # The Aurbez and the Ardonne

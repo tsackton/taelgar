@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization]
-displayDefaults: {partOf: '<typeof:A> of <partof>', secondaryInfo: ''}
+displayDefaults: {partOf: '<typeof:A> of <partof>', boxInfo: ''}
 name: Army Garrison of Cleenseau
 partOf: Dunfry Regiment
 typeOf: garrison

@@ -1,7 +1,7 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/stub, status/unknown]
-displayDefaults: {definitiveArticle: '', partOf: '<ancestry:UA> <typeof:UA> on the <current>'}
+displayDefaults: {defArt: '', wHome: '<ancestry:UA> <typeof:UA> on the <current>'}
 campaignInfo:
 name: Lake Pekul
 typeOf: lake
@@ -10,4 +10,5 @@ aliases: [Pekul]
 ---
 # Lake Pekul
 >[!info]+ Information
-> A lake on the [[Kem]], [[Vostok]], the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`

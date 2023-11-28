@@ -1,9 +1,9 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Essford Manor
-typeOf: manor house
+typeOf: house
+subTypeOf: manor
 partOf: Cleenseau
 ---
 # The Essford Manor
