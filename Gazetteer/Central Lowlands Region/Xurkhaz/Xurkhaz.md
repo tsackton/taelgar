@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/note, status/needswork/collate]
+tags: [place, status/needswork/notes, status/needswork/collate]
 name: Xurkhaz
 created: 1583
 typeOf: realm
