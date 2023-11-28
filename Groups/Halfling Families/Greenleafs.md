@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization/family]
-displayDefaults: {definitiveArticle: the, partOf: ""}
+displayDefaults: {defArt: the, partOf: "" }
 campaignInfo: []
 name: Greenleafs
 typeOf: family
@@ -10,6 +10,7 @@ ancestry: halfling
 # The Greenleafs
 >[!info]+ Information
 > A [[Halflings|halfling]] family
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% no information exists about this family; only created members were two brothers traveling for unknown reasons%%
 ## Members

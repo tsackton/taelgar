@@ -1,6 +1,6 @@
 ---
 tags: [status/unknown, organization/family]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the}
 typeOf: family
 name: Silversongs
 ---

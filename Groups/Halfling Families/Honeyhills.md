@@ -1,10 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization/family, status/notes, status/unknown]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the, partOf: ""}
 campaignInfo:
 name: Honeyhills
+ancestry: halfling
 typeOf: family
 ---
+# Honeyhills
+>[!info]+ Information
+> A [[Halflings|halfling]] family
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%^Campaign:None%%
 ### Members

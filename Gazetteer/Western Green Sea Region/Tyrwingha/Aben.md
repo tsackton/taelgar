@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-displayDefaults: {definitiveArticle: "the"}
+displayDefaults: {defArt: "the"}
 campaignInfo:
 name: Aben
 typeOf: river

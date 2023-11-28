@@ -1,6 +1,6 @@
 ---
 tags: [organization/family, status/unknown]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the}
 campaignInfo: []
 name: Brightmoons
 typeOf: family

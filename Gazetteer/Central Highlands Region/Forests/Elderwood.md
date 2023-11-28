@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork, status/unknown]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the}
 campaignInfo:
 name: Elderwood
 typeOf: forest

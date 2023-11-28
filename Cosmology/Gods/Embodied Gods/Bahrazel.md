@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 tags: [deity, religion/dwarven, status/draft]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: the}
+displayDefaults: { defArt: the}
 campaignInfo: []
 name: Bahrazel
 aliases: [Bahrâzel]

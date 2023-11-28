@@ -1,5 +1,5 @@
 ---
 tags: [status/stub, place, status/unknown]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the}
 typeOf: region
 ---

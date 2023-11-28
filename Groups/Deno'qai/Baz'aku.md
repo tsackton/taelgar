@@ -1,6 +1,6 @@
 ---
 tags: [organization, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: the}
+displayDefaults: {defArt: the}
 campaignInfo: []
 name: Baz'aku
 typeOf: tribe

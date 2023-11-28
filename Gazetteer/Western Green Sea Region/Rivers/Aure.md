@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 tags: [place, status/unknown]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the}
 campaignInfo: []
 name: Aure
 typeOf: river

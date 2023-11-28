@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {endStatus: killed, secondaryInfo: '<subspecies> (<species>), <pronouns>'}
+displayDefaults: {endStatus: killed, boxInfo: '<subspecies> (<species>), <pronouns>'}
 campaignInfo:
 - {campaign: DuFr, type: killed, date: 1748-05-29}
 name: Samerki
@@ -19,6 +20,6 @@ whereabouts:
 > oni ([[Giants|giant]]), he/him
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Killed by [[Dunmar Fellowship]] on May 29th, 1748 in [[Shakun’s Wellspring]], the [[Red Mesa]], [[Eastern Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Killed by the [[Dunmar Fellowship]] on May 29th, 1748 in the [[Shakun’s Wellspring]], the [[Red Mesa]], [[Dunmar]] %%^End%%
 
 A servant of [[Agata]]. 

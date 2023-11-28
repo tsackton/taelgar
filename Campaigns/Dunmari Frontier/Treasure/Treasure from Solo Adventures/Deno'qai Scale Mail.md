@@ -3,7 +3,7 @@ headerVersion: 2023.11.20
 tags: [item/armor, item/magical, status/draft, status/unknown]
 typeOf: armor
 rarity: uncommon
-displayDefaults: {whereaboutsHome: 'Owner: <current:1>', definitiveArticle: ''}
+displayDefaults: {wHome: 'Owner: <current:1>', defArt: ''}
 whereabouts:
 - {type: home, location: unknown Deno'qai smith}
 - {type: home, start: 1543, end: 1545, location: Balati}

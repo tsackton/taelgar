@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/docreview, status/unknown]
-displayDefaults: {definitiveArticle: the, partOf: "One of <current>"}
+displayDefaults: {defArt: the, wHome: "One of <current>"}
 partOf: Echo Realms
 typeOf: plane
 ---
 # The Feywild
 >[!info]+ Information
-> One of the [[Echo Realms]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The echo realm of the fey, home to the realms of the Archfey and the [[Fey]]
 ## Locations
