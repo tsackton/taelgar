@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/minor]    
+tags: [person, dufr/minor]
+displayDefaults: {wOriginU: ""}
 campaignInfo: 
-- {campaign: dufr, date: 1748-08-22, type: met}
+- {campaign: dufr, date: 1748-08-22, type: met, format: "<met:U> by <person> on <target> at <current:2>"}
 - {campaign: dufr, person: Delwath, date: 1748-10-21, type: scryed}
-- {campaign: dufr, person: letter from Dee Wildcloak, date: 1748-11-15, type: last heard from }
+- {campaign: dufr, person: letter from Dee Wildcloak, date: 1748-11-15, format: "Received a <person> on <target>"}
 name: Dee Wildcloak
 born:
 species: halfling
@@ -19,16 +20,16 @@ whereabouts:
 - {type: away, start: 1748-03-13, end: 1748-03-19, location: Stormcaller Tower}
 - {type: away, start: 1748-08-22, end: 1748-08-22, location: The Thirsty Scholar}
 - {type: away, start: 1748-03-20, end: 1748-04-22, location: traveling to Chardon}
-- {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba}
+- {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba, wLastKnown: ""}
 ---
 # Dee Wildcloak
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]], she/her of the [[Wildcloaks]]
+> a [[Halflings|halfling]] (she/her), of the [[Wildcloaks]]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22nd, 1748 in [[The Thirsty Scholar]], [[Chardon]], the [[Chardonian Empire]], the [[West Coast Region]] %%^End%%
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 21st, 1748 in [[Darba]], [[Western Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
->> %%^Campaign:dufr%% Last heard from by [[Letter from Dee WIldcloak]] on November 15th, 1748 in Unknown %%^End%%
+>> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on August 22nd, 1748 at [[The Thirsty Scholar]], [[Chardon]] %%^End%%
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 21st, 1748 in [[Darba]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Received a [[Letter from Dee WIldcloak]] on November 15th, 1748 %%^End%%
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
 ## Relationships
@@ -50,11 +51,10 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 				.sort(f => util.s("<maintype:n>", f.file))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
 ```
-
 %%^End%%
 
 %%^Campaign:DuFr%%
-## Events
+## Event
 Dee was part of a party of adventurers (herself, [[Dain Goldhammer]], and [[Alban]]) who traveled to [[Stormcaller Tower]] and returned to Chardon with several treasures, including [[Hralgar's Eyes]] and the [[Binding Stones]]. 
 
 - (DR:: 1747-12-23): Arcus, Servius, Dee Wildcloak, Dain Goldhammer, and Alban leave Chardon together, on a mission to find treasure for the Society of the Open Scroll, funded by [[Fausto]].
