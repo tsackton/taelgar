@@ -1,6 +1,5 @@
 ---
 tags: [item, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo:
 typeOf: boots
 whereabouts: Marcella

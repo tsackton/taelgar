@@ -1,6 +1,6 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Azta Lekua
 partOf: Orekatu

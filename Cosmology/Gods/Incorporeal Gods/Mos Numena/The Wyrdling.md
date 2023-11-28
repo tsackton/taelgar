@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 tags: [deity, religion/mosnumena, status/unknown]
-displayDefaults: {'definitiveArticle:""': !!null ''}
+displayDefaults: {defArt: ""}
 gender: nonbinary
 ---
 ### The Wyrdling

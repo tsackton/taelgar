@@ -1,6 +1,6 @@
 ---
 tags: [place/inn, status/stub, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Salty Squid
 typeOf: inn

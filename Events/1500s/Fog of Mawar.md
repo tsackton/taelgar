@@ -4,7 +4,7 @@ tags: [status/uptodate, event-source, status/unknown]
 DR: 1545
 DR_end: 1590
 name: Fog of Mawar
-displayDefaults: {dPastHasStart: '<startDate> - <endDate>, lasted <length>', partOf: ""}
+displayDefaults: {dPastHasStart: "<startDate> - <endDate>, lasted <length>", partOf: ""}
 ---
 # The Fog of Mawar
 >[!info]+ Information

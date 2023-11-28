@@ -1,6 +1,6 @@
 ---
 tags: [deity, religion/mosnumena, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 ---
 
 ### The Wildling
