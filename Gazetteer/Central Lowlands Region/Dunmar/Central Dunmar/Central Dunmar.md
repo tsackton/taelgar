@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/unknown]
 partOf: Dunmar
 name: Central Dunmar
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 typeOf: region
 ---
 # Central Dunmar

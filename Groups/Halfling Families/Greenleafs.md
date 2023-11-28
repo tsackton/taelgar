@@ -13,14 +13,14 @@ ancestry: halfling
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% no information exists about this family; only created members were two brothers traveling for unknown reasons%%
-## Members
-- [[Lyle Greenleaf]] and [[Alton Greenleaf]], brothers
 %%^Campaign:None%%
+### Members
+
 ```dataviewjs
 const { util } = customJS
-dv.table(["Person", "Current Location"], 
+dv.table(["Person", "Info", "Current Location"], 
 			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file.frontmatter))
-				.map(b => [util.getName(b.file.name), util.getLoc(b.file.frontmatter)]))
+				.where(f => util.isAffiliated(dv.current().file.name, f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 %%^End%%

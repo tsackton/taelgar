@@ -15,17 +15,15 @@ created: 1200
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 A family of halflings who have lived in [[Cleenseau]] since at least the 1200s, and have run the Crossroads Inn since its founding. More sedentary than most halflings and deeply committed to the [[Cleenseau Region]]. 
-
 %%^Campaign:None%%
 ### Members
 
 ```dataviewjs
 const { util } = customJS
-dv.table(["Person", "Current Location"], 
+dv.table(["Person", "Info", "Current Location"], 
 			dv.pages("#person")
-				.where(f => util.isAffiliated(dv.current().file.name, f.file.frontmatter))
-				.sort(f => f.born)
-				.map(b => [util.getName(b.file.name), util.getLoc(b.file.frontmatter)]))
+				.where(f => util.isAffiliated(dv.current().file.name, f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 %%^End%%
 

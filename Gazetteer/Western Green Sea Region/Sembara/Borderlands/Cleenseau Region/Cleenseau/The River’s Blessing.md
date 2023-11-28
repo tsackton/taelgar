@@ -1,6 +1,6 @@
 ---
 tags: [place, place/building, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The River’s Blessing
 typeOf: inn

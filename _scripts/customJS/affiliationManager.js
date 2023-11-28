@@ -254,6 +254,22 @@ class AffiliationManager {
         return ""
     }
 
+    isOrWasAffiliated(target, personMetadata, targetDate) {
+        const { NameManager } = customJS
+              
+
+        let affs = this.getAffiliations(personMetadata, targetDate)
+        return affs.some(f =>  f.org == target && f.startDate.sort <= targetDate.sort )
+    }    
+
+    isAffiliated(target, personMetadata, targetDate) {
+        const { NameManager } = customJS
+              
+
+        let affs = this.getAffiliations(personMetadata, targetDate)
+        return affs.some(f =>  f.org == target && f.startDate.sort <= targetDate.sort && targetDate.sort <= f.endDate.sort )
+    }
+
     getAffiliations(metadata, targetDate) {
 
         const { DateManager } = customJS

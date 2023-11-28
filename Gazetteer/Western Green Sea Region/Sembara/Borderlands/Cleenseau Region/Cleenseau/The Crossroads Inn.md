@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, place/building, status/unknown]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Crossroads Inn
 ancestry: halfling

@@ -1,10 +1,5 @@
----
-tags: [organization, status/stub, status/unknown]
-typeOf: family
----
-
 %%^Campaign:None%%
-### Members
+### Historical Members
 
 ```dataviewjs
 const { util } = customJS
