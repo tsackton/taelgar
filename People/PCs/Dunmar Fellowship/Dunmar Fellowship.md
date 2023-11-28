@@ -1,8 +1,8 @@
 ---
 tags: [organization/party, status/needswork]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: disbanded, endStatus: disbanded}
+displayDefaults: {defArt: ""}
 campaignInfo: []
-name:
+name: Dunmar Fellowship
 typeOf: adventuring party
 ---
 # The Dunmar Fellowship

@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Amar
 born: 1710
@@ -8,12 +8,12 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: 'Hara River Valley, Central Dunmar'}
-- {type: home, start: 1710-01-02, end: '', location: Akela Inn}
+- {type: home, location: Hara River Valley}
+- {type: home, location: Akela Inn}
 ---
 # Amar
 >[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
