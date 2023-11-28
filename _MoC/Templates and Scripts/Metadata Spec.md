@@ -153,40 +153,37 @@ Some pages still have `leaderOf` - leaderOf if it exists is treated as affiliati
 
 The display of a page is controlled by a set of display default lines that support [[Substitution Tokens|substitution tokens]] and are used to build each line. 
 
-Each display default comes from either (a) the hardcoded default, (b) the metadata.json for the page type, or (c) the page frontmatter. Display defaults are merged with priority of (c) then (b) then (a).
+Each display default comes from either (a) the hardcoded default, (b) the metadata.json for the page type, (c) the page frontmatter, or (d) a specific campaignInfo, whereabout, or affiliation line. Display defaults are merged with priority of (d) then (c) then (b) then (a).
 
 The display defaults structure is a JSON object like:
 
 ```JSON
-displayDefaults:
-{
-	startStatus: "",
-	endStatus: "",
-    
-    whereaboutsOrigin: "<origin:u>",
-    whereaboutsHome: "<home:U>",
-    whereaboutsPastHome: "<home:U>",
-    whereaboutsCurrent: "Current location: <current>",
-    whereaboutsPast: "<end:U> in <current>",
-    whereaboutsLastKnown: "Last known location (as of <lastknowndate>): <lastknown>",
-    whereaboutsLastKnownNoDate: "Last known location: <lastknown>",
-    whereaboutsUnknown: "Current location: Unknown",
-    whereaboutsParty: "<met:U> by <person> on <target> in <current>",
-
-	pageCurrent: "<start:U> <startDate>",
-    pagePastWithStart: "<start:U> <startDate> - <end> <endDate>",
-    pagePast: "<end:U> <endDate>",
-
-	boxName: "Information",
-    partOf: "",
-    secondaryInfo: "",
-
-    // dates in here reference to the affiliation dates
-    affiliationNoDate: "<affiliationtitle:t> of <org>",
-    affiliationPast: "<affiliationtitle:t> of <org> (until <endDate>)",
-    affiliationCurrent: "<affiliationtitle:t> of <org> (since <startDate>, <length> ago)",
-    affiliationPastWithStart: "<affiliationtitle:t> of <org> <startDate> - <endDate> (<length>)",
-    ddbLinkText: ""
+requiredDisplayDefaults: {
+	"startStatus": "",
+	"endStatus": "",
+	"wOrigin": "<origin:3ru>",
+	"wOriginU": "<origin:u>",
+	"wHome": "<home:3rU>",
+	"wHomeU": "",
+	"wPastHome": "<home:U>",
+	"wPastHomeU": "",
+	"wCurrent": "Current location: <current:3r>",
+	"wPast": "<end:U> in <current:3r>",
+	"wLastKnown": "Last known location (as of <lastknowndate>): <lastknown:3r>",
+	"wLastNoDate": "Last known location: <lastknown:3r>",
+	"wParty": "<met:U> by <person> on <target> in <current:3r>",
+	"dCurrent": "<start:U> <startDate>",
+	"dPastHasStart": "<start:U> <startDate> - <end> <endDate>",
+	"dPast": "<end:U> <endDate>",
+	"boxName": "Information",
+	"partOf": "",
+	"boxInfo": "",
+	"aNoDate": "<affiliationtitle:t> of <org>",
+	"aPast": "<affiliationtitle:t> of <org> (until <endDate>)",
+	"aCurrent": "<affiliationtitle:t> of <org> (since <startDate>)",
+	"aPastHasStart": "<affiliationtitle:t> of <org> (<startDate> - <endDate>)",
+	"linkText": "",
+	"defArt": ""
 }
 ```
 
@@ -194,27 +191,31 @@ The meaning of each display default follows. The defaults for various types can 
 
 * `startStatus` is used as a string token only (the "start" token)
 * `endStatus` is used as a string token only (the "end" token)
-* `whereaboutsOrigin` is used by the get_Whereabouts script to display the origin whereabout, if it is different from the home whereabout
-* `whereaboutsHome` is used by the get_Whereabouts script to display the home whereabout, if it exists
-* `whereaboutsCurrent` is used by the get_Whereabouts script to display the currrent whereabout, if it exists
-* `whereaboutsLastKnown` is used by the get_Whereabouts script to display the last known whereabout, if it exists and has a date
-* `whereaboutsLastKnownNoDate` is used by the get_Whereabouts script to display the last known whereabout, if it exists and has no date (i.e. and end of 9999)
-* `whereaboutsUnknown` is used by get_Whereabouts script to display an unknown whereabout, when there is no current or home whereabout 
-* `whereaboutsParty` is used by the header generation script to generate the "last seen by party" lines
-* `pageCurrent` is used by the get_PageDatedValues script to generate the "page date" line when the page is "alive"
-* `pagePastWithStart` is used by the get_PageDatedValues script to generate the "page date" line when the page is "dead" and has a start date
-* `pagePast` is used by the get_PageDatedValues script to generate the "page date" line when the page is "dead" but did not have a start date
+* `wOrigin` is used by the get_Whereabouts script to display the origin whereabout, if it is different from the home whereabout
+* `wOriginU` is used by the get_Whereabouts script to display the origin whereabout, if it is different from the home whereabout, and is unknown
+* `wHome` is used by the get_Whereabouts script to display the home whereabout, if it exists
+* `wHome` is used by the get_Whereabouts script to display the home whereabout, if it is unknown
+* `wPastHome` is used by the get_Whereabouts script to display the home whereabout, if it exists and the page is in the past (died/destroyed)
+* `wPastHomeU` is used by the get_Whereabouts script to display the home whereabout, if it is unknown, and the page is in the past (died/destroyed); should usually be ""
+* `wCurrent` is used by the get_Whereabouts script to display the current whereabout
+* `wPast` is used by the get_Whereabouts script to display the current whereabout, if it the page is in the past (died/destroyed)
+* `wLastKnown` is used by the get_Whereabouts script to display the last known whereabout, if it exists and has a date
+* `wLastNoDate` is used by the get_Whereabouts script to display the last known whereabout, if it exists and has no date (i.e. and end of 9999)
+* `wParty` is used by the header generation script to generate the "last seen by party" lines
+* `dCurrent` is used by the get_PageDatedValues script to generate the "page date" line when the page is "alive"
+* `dPastHasStart` is used by the get_PageDatedValues script to generate the "page date" line when the page is "dead" and has a start date
+* `dPast` is used by the get_PageDatedValues script to generate the "page date" line when the page is "dead" but did not have a start date
 * `boxName` is used to name the header box
 * `partOf` is the used by header generation to generate the "partOf" line
-* `secondaryInfo` is used by header generation to generate the "secondaryInfo" line
-* `affiliationNoDate` is used by get_Affiliations to display an affiliation that has no start or end dates. 
-* `affiliationPast` is used by get_Affiliations to display an affiliation that has ended but has no start date
-* `affiliationCurrent` is used by get_Affiliations to display an affiliation that is current and has a start date
-* `affiliationPastWithStart` is used by get_Affiliations to display an affiliation that has ended and has a  start date
-* `ddbLinkText` defines the word used for linking to a mechanics page. If it is blank/missing no D&D Beyond link is generated
+* `boxInfo` is used by header generation to generate the "secondaryInfo" line
+* `aNoDate` is used by get_Affiliations to display an affiliation that has no start or end dates. 
+* `aPast` is used by get_Affiliations to display an affiliation that has ended but has no start date
+* `aCurrent` is used by get_Affiliations to display an affiliation that is current and has a start date
+* `aPastHasStart` is used by get_Affiliations to display an affiliation that has ended and has a  start date
+* `linkText` defines the word used for linking to a mechanics page. If it is blank/missing no D&D Beyond link is generated
 
 Additionally, there is one special line for which the presence of the field has meaning, so it is not in the default structure:
-* `definitiveArticle` this is the article to put in front of the name, i.e. the. If this is not in the displayDefaults at all, the code generates the for 2 or more word names and no article otherwise. If it is in the displayDefaults with no value, or "" as value, there is no article generated. Otherwise, it is used as the article
+* `defArt` this is the article to put in front of the name, i.e. the. If this is not in the displayDefaults at all, the code generates the for 2 or more word names and no article otherwise. If it is in the displayDefaults with no value, or "" as value, there is no article generated. Otherwise, it is used as the article
 
 ### File Types
 

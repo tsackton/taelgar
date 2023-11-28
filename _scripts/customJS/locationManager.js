@@ -110,11 +110,11 @@ class LocationManager {
         }
 
         if (formatStr.contains("F")) {
-            if (currentDepth != 0) return depthFilterFailed
+            if (currentDepth != 1) return depthFilterFailed
         }
 
         if (formatStr.contains("f")) {
-            if (currentDepth == 0) return depthFilterFailed
+            if (currentDepth == 1) return depthFilterFailed
         }
 
         if (formatStr.contains("r")) {
