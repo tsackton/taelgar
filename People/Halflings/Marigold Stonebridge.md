@@ -9,7 +9,8 @@ affiliations: [{org: Stonebridges, type: primary}, Lord's Council of Cleenseau]
 leaderOf: [{place: The Crossroads Inn, title: Proprietor, start: 0001}]
 ancestry: Sembaran
 gender: female
-whereabouts: Cleenseau
+whereabouts: 
+- {type: home, location: Cleenseau }
 ---
 # Marigold Stonebridge
 >[!info]+ Biographical Info
@@ -17,7 +18,7 @@ whereabouts: Cleenseau
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on January 6th, 1720 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on January 6th, 1720 in Unknown %%^End%%
 
 An old, wrinkled halfling, often quiet and sleepy, but with surprising wit. The most important of the three current inn keepers of [[The Crossroads Inn]] in [[Cleenseau]] along with [[Venra Stonebridge]] and [[Willow Stonebridge]]. Often called Grandmother Marigold, she is considered the matriach and wisest of the [[Stonebridges]]. 
 

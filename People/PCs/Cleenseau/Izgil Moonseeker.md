@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc, pc/cleenseau, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -8,17 +9,18 @@ species: dwarf
 ancestry:
 gender: male
 player: Matt Rand
+affiliations: [{org: Gemcrafters, type: primary}]
 aliases: [Durgil Barzinduk, Izgil]
 whereabouts:
 - {type: home, start: '', end: '', location: Nidzahar}
 - {type: away, start: 1719-10-19, end: '', location: 'Taviose, Sembara'}
 ---
 # Izgil Moonseeker
->[!info]+ Biographical Summary
->dwarf, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Nidzahar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info
+> a [[Dwarves|dwarf]] (he/him), of the [[Gemcrafters]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Izgil is a stocky, hardy looking dwarf wearing leather and carrying a shield on his back. He has sort of luminescent white/blue beard and hair worn in braids and often has books and other odd devices strapped to his gear. He comes from the [[Gemcrafters]] clan in [[Nidzahar]].
 
