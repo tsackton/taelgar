@@ -1,21 +1,23 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Lara
 born: 1707
 species: human
+title: Speaker
 ancestry: Dunmari
 gender: female
-affiliations: [Lakan Mystai]
-whereabouts:
-- {type: home, start: '', end: '', location: 'Lakan Monastery, Tokra, Central Dunmar'}
+affiliations: 
+- {place: Lakan Mystai}
+whereabouts: Lakan Monastery
 ---
-# Lara
->[!info]+ Biographical Summary
->human (Dunmari), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Lakan Monastery]], [[Tokra]], [[Central Dunmar]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+# Speaker Lara
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The leader of the [[Lakan Mystai]] in Tokra.

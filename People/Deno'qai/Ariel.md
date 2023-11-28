@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -9,12 +9,12 @@ species: human
 ancestry: Deno'qai
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Te''kula village, Elderwood'}
-- {type: home, start: '', end: '', location: Shu'anra village}
+- {type: home, location: "Shu'anra village in the Forest of Dreams" }
+- {type: home, location: "Te'kula village in the Elderwood"}
 ---
 # Ariel
 >[!info]+ Biographical Info
-> [[Deno'qai]] [[Humans|human]], she/her
+> A [[Deno'qai]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

@@ -1,6 +1,6 @@
 ---
 tags: [place, status/needswork/notes, status/needswork/collate]
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Magnus Street
 typeOf: ward

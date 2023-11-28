@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Aram
 born: 1717
@@ -9,8 +8,8 @@ species: human
 ancestry: Dunmari
 gender: male
 affiliations: [Havdar's Warband]
-whereabouts:
-- {type: away, start: 1748-11-15, end: '', location: 'Sura''s army camp, Central Dunmar'}
+whereabouts: 
+- {type: home, location: Havdar's Warband, format: "f"}
 ---
 # Aram
 >[!info]+ Biographical Info

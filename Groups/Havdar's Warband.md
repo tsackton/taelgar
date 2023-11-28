@@ -1,11 +1,19 @@
 ---
 tags: [organization, status/notes, status/unknown]
-displayDefaults: {definitiveArticle: ""}
+displayDefaults: {defArt: ""}
 campaignInfo:
 name:
 typeOf: army
 subTypeOf: warband
+whereabouts: 
+- {type: home, location: Eastern Dunmar}
+- {type: away, start: 1748-09-30, end: 1748-12-13, location: camped north of Torka}
+- {type: away, start: 1748-12-14, end: 1748-12-18, location: Tokra}
+- {type: away, start: 1748-12-19, end: 1748-12-27, location: riding to Songara}
+- {type: away, start: 1748-12-27, location: Songara}
 ---
+
+%% fill in whereabouts %%
 # Havdar's Warband
 
 %%SECRET[1]%%

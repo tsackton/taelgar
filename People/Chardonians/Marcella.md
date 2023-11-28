@@ -1,21 +1,26 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: 
+- {campaign: dufr, person: Delwath, date: 1748-10-23, type: scryed}
 name: Marcella
 born: 1718
 species: human
 ancestry: Chardonian
 gender: female
 whereabouts:
-- {type: home, start: 1714-01-01, end: '', location: 'Chardon, Chardonian Empire'}
-- {type: away, start: 1748-11-23, end: '', location: 'east of the Sentinel Range, Greater Sembara'}
+- {type: home, end: 1748-07-01, location: Chardon} #end is approx
+- {type: away, start: 1748-10-23, location: Ausson's Crossing, wLastKnown: ""}
 ---
 # Marcella
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Chardonian Empire|Chardonian]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 23rd, 1748 in [[Ausson's Crossing]], [[Laicon]], the [[Refounded Alliance of Aurbez]] %%^End%%
+
+%% need to fix whereabouts, campaign info, away dates %%
 
 A nondescript Chardonian woman, short brown hair and a plain face. An archer, skilled with a bow, wears well-tended leather armor under a traveling cloak. 
 

@@ -1,21 +1,27 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+campaignInfo: 
+- {campaign: dufr, person: Delwath, date: 1748-10-22, type: scryed}
 name: Theba
 born: 1717
 species: human
 ancestry: Deno'qai
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'Bek''eni village, Elderwood'}
-- {type: away, start: 1749-01-01, end: '', location: Elderwood}
+- {type: home, end: 1748-09-06, location: "the Bek'eni village in the Elderwood"}
+- {type: away, start: 1748-09-07, end: 1748-09-09, location: Dunmar Fellowship }
+- {type: away, start: 1748-09-10, end: 1748-09-30, location: "Te'kula village in the Elderwood" }
+- {type: home, start: 1748-10-01, location: "the Bek'eni village in the Elderwood"}
 ---
 # Theba
 >[!info]+ Biographical Info
-> [[Deno'qai]] [[Humans|human]], she/her
+> A [[Deno'qai]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 22nd, 1748 in the Bek'eni village in the Elderwood %%^End%%
+
+%% check whereabouts %%
 
 The formely disgraced Godcaller of the [[Bek'eni]], out of favor due to [[Mezzar]]'s influence. Aided the party in their travels and fights in the [[Elderwood]], and agreed to take charge of rebuilding the relations among the Deno'qai after [[Mezzar]]'s meddling. This seems to be going well, in Oct 1748 at least. 

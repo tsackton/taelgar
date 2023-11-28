@@ -3,28 +3,27 @@ headerVersion: 2023.11.25
 tags: [status/uptodate, person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {title: Commandar}
 campaignInfo:
-- {campaign: DuFr, date: 1748-12-27, type: met}
+- {campaign: DuFr, person: Delwath, date: 1748-12-27, type: scryed, format: "<met:U> by <person> in <current:fr!>, on <target>"}
 name: Havdar
 born: 1724
 species: human
 ancestry: Dunmari
 gender: male
-affiliations: [{org: Havdar's Warband, type: leader} ]
+affiliations: [{org: Havdar's Warband, type: leader, title: Commander} ]
 whereabouts:
 - {type: home, location: Karawa}
 - {type: home, location: Eastern Dunmar}
-- {type: away, start: 1748-11-23, end: '', location: 'Sura''s army camp, Central Dunmar'}
-- {type: away, start: 1748-12-14, end: '', location: 'Tokra'}
-- {type: away, start: 1748-12-19, end: '', location: 'Plains between Tokra and Songara, Central Dunmar'}
-- {type: away, start: 1748-12-27, end: '', location: 'Songara'}
+- {type: away, location: "Havdar's Warband", wCurrent: ""}
 ---
 # Havdar
 >[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 27th, 1748 in [[Songara]], [[Central Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
+>> %%^Campaign:DuFr%% Scryed by [[Delwath]] in [[Songara]], [[Dunmar]], on December 27th, 1748 %%^End%%
+
+%% still need some work on people in organizations for whereabouts %%
 
 Havdar, a brash and confident warrior, made a name for himself as a war leader in [[Eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people. 
 ## Overview

@@ -204,7 +204,10 @@ const { util } = customJS
 dv.table(["Place", "Type Of"], 
 			dv.pages("#place")
 				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
-				.map(b => [util.s("<name>", b.file), util.s("<maintype>", b.file)]))
+				.sort(s => util.s("<name:!>", s. file))
+				.sort(s => util.s("<maintype>", s.file))
+				.map(b => [util.s("<name:t>", b.file), util.s("<maintype>", b.file)]))
+				
 ```
 
 %%^End%%
