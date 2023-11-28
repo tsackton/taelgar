@@ -12,7 +12,7 @@ gender: female
 aliases: [Wella]
 affiliations:
 - {org: Brightmoons, type: primary }
-- { place: Wave Dancer, title: Captain, start: 0001} 
+- { place: Wave Dancer, title: Captain, type: leader, start: 0001} 
 whereabouts: Wave Dancer
 ---
 # Wella Brightmoon

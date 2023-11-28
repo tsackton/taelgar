@@ -43,7 +43,9 @@
         "aPast": "<affiliationtitle:t> of <org> (until <endDate>)",
         "aCurrent": "<affiliationtitle:t> of <org> (since <startDate>)",
         "aPastHasStart": "<affiliationtitle:t> of <org> (<startDate> - <endDate>)", 
-        "linkText": ""
+        "linkText": "",
+        "ruledBy" : "",
+        "ruledByHasStart" : ""
     },
     "typeDisplayDefaults": {
         "deity": {
@@ -77,7 +79,9 @@
             "wCurrent" : "<ancestry:AUs> <subtypeof:UA> <typeof:AU> in <current:5>",
             "wHome" :  "<ancestry:AUs> <subtypeof:UA> <typeof:AU> in <current:5>",
             "partOf": "",
-            "boxInfo": "<population>"
+            "boxInfo": "<population>",            
+            "ruledByHasStart" : "<affiliationtitle:t>: <name> (since <startDate>)",
+            "ruledBy" : "<affiliationtitle:t>: <name>"
         },
         "item": {
             "startStatus": "created",
@@ -103,7 +107,9 @@
             "dPastHasStart": "existed <startDate> - <endDate>, <end> after <length>",
             "dPast": "<end:u> <endDate>",
             "partOf": "Parent Organization: <partof:yt>",
-            "boxInfo": "<ancestry:AU> <maintype:AUs>"
+            "boxInfo": "<ancestry:AU> <maintype:AUs>",
+            "ruledByHasStart" : "<affiliationtitle:t>: <name> (since <startDate>)",
+            "ruledBy" : "<affiliationtitle:t>: <name>"
         },
         "event": {
             "startStatus": "started in",

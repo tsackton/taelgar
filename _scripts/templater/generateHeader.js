@@ -47,7 +47,7 @@ async function generateHeader(tp) {
         summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_PageDatedValue")`')
     }
 
-    if (tp.frontmatter.leaderOf || tp.frontmatter.affiliations) {
+    if (tp.frontmatter.leaderOf || tp.frontmatter.affiliations || pageType == "place" || pageType == "organization" || pageType == "item") {
         summaryBlockLines.push("> " + '`$=dv.view("_scripts/view/get_Affiliations")`')
     }
 

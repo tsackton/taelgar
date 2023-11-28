@@ -61,7 +61,7 @@ class AffiliationManager {
         if (typeof affiliation === 'string' || affiliation instanceof String) {
             result =
             {
-                startDate: defaultStart ??  minDate,
+                startDate: defaultStart ?? minDate,
                 endDate: pageDates.endDate ?? maxDate,
                 org: affiliation,
             }
@@ -76,7 +76,7 @@ class AffiliationManager {
                 title: affiliation.title,
                 format: affiliation.format ?? affiliation.aNoDate,
                 formatPast: affiliation.formatPast ?? affiliation.aPast ?? affiliation.aPastWithStart,
-                formatCurrent: affiliation.formatCurrent ?? affiliation.aCurrent
+                formatCurrent: affiliation.formatCurrent ?? affiliation.aCurrent               
             }
         }
 
@@ -137,7 +137,6 @@ class AffiliationManager {
             let first = group.first()
 
             group.forEach(item => {
-                console.log(item)
                 if (item.org) {
                     affs.push(customJS.NameManager.getName(item.org))
                 }
@@ -193,6 +192,58 @@ class AffiliationManager {
         return lines.join("\n")
     }
 
+    getLeadBy(thing, targetDate) {
+        // this gets the leaders of a target
+
+        const { NameManager } = customJS
+        const { DateManager } = customJS
+        const { StringFormatter } = customJS
+
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        else targetDate = DateManager.getTargetDateForPage()
+
+        let file = NameManager.getFileForTarget(thing)
+
+        let displayData = NameManager.getDisplayData(file.frontmatter)
+
+        let leaderAffs = window.app.plugins.plugins.dataview.api.pages().flatMap(f => {
+            return this.getAffiliations(f).map(affItem => { return { file: f, aff: affItem } })
+        }).where(a => a.aff.type == "leader" && a.aff.org == thing && a.aff.startDate.sort <= targetDate.sort && a.aff.endDate.sort >= targetDate.sort)
+
+        let lines = []
+
+        for (let aff of leaderAffs) {
+            if (aff.aff.type == "leader") {
+
+                let formatString = ""
+
+                let dateInfo = {
+                    startDate: aff.aff.startDate,
+                    endDate: aff.aff.endDate,
+                    isCreated: true,
+                    isAlive: undefined,
+                    age: undefined
+                }
+    
+                DateManager.setPageDateProperties(dateInfo, targetDate)
+                
+                if (aff.aff.startDate.display) {
+                    formatString = displayData?.ruledByHasStart
+                } else {
+                    formatString = displayData?.ruledBy
+                }
+
+                lines.push(StringFormatter.getFormattedString(formatString, { name: aff.file.file.name, frontmatter: aff.file }, targetDate, dateInfo,
+                    {
+                        affiliationtitle: aff.aff.title,
+                        org: aff.aff.org
+                    }))                
+            }
+        }
+
+        return lines.join("\n")
+    }
+
 
     getAffiliationPartOf(metadata, linkType, casing) {
 
@@ -218,7 +269,6 @@ class AffiliationManager {
         if (metadata.leaderOf) {
             for (let item of metadata.leaderOf) {
                 let aff = this.#normalizeAffiliation(item, pageDates, metadata.title, metadata.reignStart)
-                console.log(aff)
                 if (aff.startDate.sort <= targetDate.sort) {
                     affList.push(aff)
                 }
@@ -228,7 +278,6 @@ class AffiliationManager {
         if (metadata.affiliations) {
             for (let item of metadata.affiliations) {
                 let aff = this.#normalizeAffiliation(item, pageDates, metadata.title)
-                console.log(aff)
                 if (aff.startDate.sort <= targetDate.sort) {
                     affList.push(aff)
                 }

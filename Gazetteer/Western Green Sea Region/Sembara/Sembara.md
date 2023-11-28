@@ -1,13 +1,15 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
+displayDefaults: { ruledByHasStart: "Ruled by: <name> (since <startDate>)"}
 name: Sembara
 typeOf: realm
 whereabouts: Western Green Sea Region
 ---
 # Sembara
 >[!info]+ Information
-> A realm in the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[sembara-1750-updated.png]]
 

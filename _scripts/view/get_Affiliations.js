@@ -2,7 +2,8 @@ function get_Affiliations(metadata) {
 
     const { AffiliationManager } = customJS
 
-    return AffiliationManager.getFormattedNonPrimaryAffiliations(metadata)
+    let leadBy = AffiliationManager.getLeadBy(metadata.file.name)    
+    return (leadBy + "\n" + AffiliationManager.getFormattedNonPrimaryAffiliations(metadata)).trim()
 
 }
 
