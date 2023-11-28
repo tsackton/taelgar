@@ -12,7 +12,8 @@ population: 1189
 *(Klen-sew)*
 >[!info]+ Information
 > pop. 1,189
-> A town in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Cleenseau is a small market town of fifteen hundred souls, nestled on the north bank of the River Enst. Situated at a major crossing of the river, it is a natural gathering place and trade crossroads. The reason for the town’s existence, and most important feature, is the massive stone bridge over the River Enst. Built a thousand years ago by the Drankorians (or perhaps, even longer ago by the Giants, some scholars say), it is wide enough for eight oxen; it spans the 1200 feet of the Enst in ten graceful arches.
 
@@ -27,7 +28,20 @@ const { util } = customJS
 dv.table(["Place", "Type Of"], 
 			dv.pages("#place")
 				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter))
+				.sort(f => util.s("<maintype>", f.file))
 				.map(b => [util.s("<name>", b.file), util.s("<maintype>", b.file)]))
+```
+
+%%^End%%
+
+%%^Campaign:None%%
+### People in, or based in Cleenseau
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location", "Home"], 
+			dv.pages("#person")
+				.where(f => util.inOrHomeLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))				
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
 ```
 
 %%^End%%

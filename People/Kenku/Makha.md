@@ -28,21 +28,16 @@ Makha knows the people of Wahacha well, including:
 - [[Nahto]] and [[Skoda]], a married couple, travelers and wanderers based out of Wahacha
 - [[Rufus]], a monster hunter, who hunts down threats to the island in exchange for food and shelter from the islanders
 
-%%^Campaign;None%%
 
+%%^Campaign:None%%
+### Relationships
 ```dataviewjs
 const { util } = customJS
-dv.table(["Person", "Current", "Known to Clee"], 
-			dv.pages("#person")
-				.where(f => util.inOrHomeLocation("Wahacha", f.file.frontmatter, false))
-				.map(b => [util.getName(b.file.name), util.getLoc(b.file.frontmatter), util.isKnownToParty(b.file.name, b.file.frontmatter, "clee", true, true)]))
-```
-
-```dataview
-TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
-FROM #person OR #organization 
-WHERE contains(file.outlinks, this.file.link) OR contains(file.inlinks, this.file.link)
-SORT choice(species, species, typeof)
+dv.table(["Person", "Info", "Current Location", "Alive"], 
+			dv.pages("#person or #organization or #item")
+				.where(f => util.isLinkedToPerson(f.file, dv.current().file))
+				.sort(f => util.s("<maintype:n>", f.file))
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
 ```
 
 %%^End%%
