@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [item/magical, status/unknown]
-displayDefaults: { whereaboutsPastHome: "Was owned by: <current:1>", pagePast: "destroyed by [[Wellby]] on <endDate>"}
+displayDefaults: { wPastHome: "Was owned by: <current:1>", dPast: "destroyed by [[Wellby]] on <endDate>"}
 typeOf: ring
 rarity: unique
 destroyed: 1749-01-20
@@ -11,6 +11,7 @@ whereabouts: Grash
 >[!info]+ Information
 > (unique magical ring)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A ring, worn by [[Grash]], that supposedly lets one cheat death forever, and control death around you. Presumably the source of [[Grash]]'s ability to resurrect dead [[Orcs]] into undead. 

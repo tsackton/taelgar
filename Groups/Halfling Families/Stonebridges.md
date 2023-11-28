@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization/family]
-displayDefaults: {definitiveArticle: the, partOf: ""}
+displayDefaults: {defArt: the, partOf: ""}
 campaignInfo:
 name: Stonebridges
 typeOf: family

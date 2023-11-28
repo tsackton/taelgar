@@ -2,7 +2,7 @@
 tags: [event-source, status/stub, status/unknown]
 name: Battle of Shrevandurg
 typeOf: battle
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the}
 ---
 # The Battle of Shrevandurg
 

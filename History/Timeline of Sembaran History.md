@@ -1,6 +1,6 @@
 ---
 tags: [event-source, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed, definitiveArticle: a}
+displayDefaults: {defArt: a}
 campaignInfo: []
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History

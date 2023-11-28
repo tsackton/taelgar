@@ -1,6 +1,7 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, event-source, status/uptodate, status/unknown]
-displayDefaults: {secondaryInfo: '<subspecies> (<species>), <pronouns>'}
+displayDefaults: {boxInfo: '<subspecies:sA> (<species>), <pronouns>'}
 campaignInfo:
 name: Motua
 born:
@@ -15,7 +16,7 @@ pronunciation: moh-TOO-ah
 # Motua
 *(moh-TOO-ah)*
 >[!info]+ Biographical Info
-> [[Gidari|gidari]] ([[Celestials|celestial]]), they/them
+> a [[Gidari|gidari]] ([[Celestials|celestial]]), they/them
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 One of the guardians of the [[Land of the Dead]], a [[Gidari]], who is native to the [[Land of the Dead]] and serves as a guide and protector of souls on their journey beyond the veil. 

@@ -1,6 +1,6 @@
 ---
 tags: [organization, status/unknown]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the}
 campaignInfo: []
 name: Redpeaks
 typeOf: clan

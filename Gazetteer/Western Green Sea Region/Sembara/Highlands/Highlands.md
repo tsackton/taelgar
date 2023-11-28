@@ -1,6 +1,6 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {definitiveArticle: the}
+displayDefaults: {defArt: the}
 campaignInfo:
 name: Highlands
 typeOf: region

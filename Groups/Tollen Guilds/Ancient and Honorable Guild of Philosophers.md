@@ -1,7 +1,7 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [organization, status/needswork/notes]
-displayDefaults: {secondaryInfo: "A <typeof> in Tollen"}
+displayDefaults: {boxInfo: "A <typeof> in <home:fr>", partOf: ""}
 campaignInfo:
 name: Ancient and Honorable Guild of Philosophers
 aliases: [Philosopher's Guild]
@@ -10,7 +10,8 @@ whereabouts: Skepwalk
 ---
 # The Ancient and Honorable Guild of Philosophers
 >[!info]+ Information
-> A guild in [[Tollen]]
+> A guild in [[Skepwalk]], the [[Tollen|Free City of Tollen]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%
