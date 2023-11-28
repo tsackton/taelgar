@@ -1,5 +1,5 @@
 ---
-displayDefaults: {definitiveArticle: ''}
+displayDefaults: {defArt: ''}
 tags: [item/magical, status/notes, status/unknown]
 aliases: [Phasing Stone]
 typeOf: stone
