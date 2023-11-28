@@ -45,7 +45,7 @@ function get_Whereabouts(metadata) {
     currentString = StringFormatter.getFormattedString((isPageAlive ? (whereabout.current.currentFormat ?? displayDefaults.wCurrent) : (whereabout.current.pastFormat ?? displayDefaults.wPast)), file, pageYear)
 
     // last known string construction //
-    knownString = StringFormatter.getFormattedString(knownLastKnown ? (whereabout.current.lastKnownFormat ?? displayDefaults.wLastKnown) : (whereabout.current.lastKnownFormat ?? displayDefaults.wLastNoDate), file, pageYear)
+    knownString = StringFormatter.getFormattedString(knownLastKnown ? (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastKnown) : (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastNoDate), file, pageYear)
 
 
     if (!whereabout.origin.location || whereabout.origin.location != whereabout.home.location) {

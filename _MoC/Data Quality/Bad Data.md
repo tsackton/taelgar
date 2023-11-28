@@ -1,4 +1,4 @@
-## Null affiliations
+d## Null affiliations
 
 ```dataview
 table where affiliations and contains(affiliations, null)
