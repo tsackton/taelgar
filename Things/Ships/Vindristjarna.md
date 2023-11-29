@@ -40,11 +40,12 @@ Currently, the hull of the ship has been restored and repaired, and two stone de
 
 The upper deck, occupying a total of 12,000 square feet (480 squares), is dominated by a large central courtyard, greenhouse, and garden, maintained by Kenzo. Around the railing of the upper deck is also a depiction of the travels of [[Dunmar Fellowship]], and especially the stories of the people they have met, recalling the [[Hall of Stories]] in the [[Monastery of Bhishma]]. 
 
-Also constructed are a well-equipped galley and kitchen, a dining hall, a map room maintained by Wellby, a workshop and a games room maintained by Seeker and providing space for Faldrak to work, a sanctuary of the tanshi maintained by Delwath, and comfortable living quarters for ten people. 
+Also constructed are a well-equipped galley and kitchen, a dining hall, a map room maintained by Wellby, a workshop and a games room maintained by Seeker and providing space for Faldrak to work, a sanctuary of the tanshi maintained by Delwath, and comfortable living quarters for ten hirelings or followers, as well as cabins for Riswynn, Delwath, Seeker, Kenzo, and Wellby, and a guest suite. 
+### Facilities
 
 These rooms function as [special facilities](https://media.dndbeyond.com/compendium-images/ua/bastions-cantrips/BRF3GSu0nTfNu8p4/UA2023-BastionsCantrips.pdf?icid_source=house-ads&icid_medium=crosspromo&icid_campaign=playtest8), giving the following benefits: 
-Delwath's tanshi shrine: sanctuary
-Kenzo's ki garden: greenhouse
+Delwath's tanshi shrine: Sanctuary
+Kenzo's ki garden: Greenhouse
 Wellby's map room: Library
 Seeker's hall of games: Training Area
 Garden: Garden
@@ -54,6 +55,14 @@ Workshop: Workshop
 Rules are [[Bastion Rules|here]].
 
 *You can have up to 25 special facilities, although you are a tiny bit constrained by space. The upper deck and lower deck are each 12,000 square feet (480 squares); the hold is 9,800 square feet (392 squares). I would assume that maybe 90% of that is usable for the bastion rules, so a total of maybe 1200 usable squares.*
+
+### Followers
+
+You have attracted a considerable retinue of followers on Vindristjarna. These include:
+
+[[Faldrak Bronzehammer]] (he/him). A dwarven an artificer, former adventurer, creator of magic items, and aspiring skyship captain. Runs the workshop when Seeker is not around, and wants to learn to drive the ship.
+
+%%SECRET[1]%%
 ## Magic
 
 In addition to the phasing stone, Vindristjarna is equipped with the following magic.
