@@ -226,14 +226,9 @@ class AffiliationManager {
                 }
     
                 DateManager.setPageDateProperties(dateInfo, targetDate)
-                
-                if (aff.aff.startDate.display) {
-                    formatString = displayData?.ruledByHasStart
-                } else {
-                    formatString = displayData?.ruledBy
-                }
+                                
 
-                lines.push(StringFormatter.getFormattedString(formatString, { name: aff.file.file.name, frontmatter: aff.file }, targetDate, dateInfo,
+                lines.push(StringFormatter.getFormattedString(displayData?.ruledBy, { name: aff.file.file.name, frontmatter: aff.file }, targetDate, dateInfo,
                     {
                         affiliationtitle: aff.aff.title,
                         org: aff.aff.org

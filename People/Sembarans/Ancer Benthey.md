@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
 tags: [person, testcase, status/factcheck]
-displayDefaults: {affiliationCurrent: "<affiliationtitle:t> of <org>"}
 campaignInfo: []
 name: Ancer Benthey
 born: 1689

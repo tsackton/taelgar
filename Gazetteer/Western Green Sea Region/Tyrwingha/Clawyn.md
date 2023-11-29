@@ -1,11 +1,16 @@
 ---
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/needswork/notes]
 name: Clawyn
-typeOf: village
+typeOf: settlement
+typeOfAlias: village
+population: 290
 partOf: Tyrwingha
 ---
 # Clawyn
 >[!info]+ Information
-> A village in [[Tyrwingha]], [[The Western Green Sea Region]]
+> pop. 290
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A small village a few days ride south of [[Tafolwern]], known for its vineyards. 

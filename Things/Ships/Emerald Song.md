@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {wOrigin: "Home area: <origin>", boxInfo: "(<rarity> <ancestry> <subtypeof>)"}
+displayDefaults: {wOrigin: "Home area: <origin>" }
 tags: [item/boat]
 typeOf: vehicle
 ancestry: halfling
-subTypeOf: boat
+typeOfAlias: boat
 whereabouts:
 - {type: home, end: 0001, location: Nevos Sea}
 - {type: away, start: 1748-08-03, end: 1748-08-09, location: Darba }

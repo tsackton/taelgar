@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 displayDefaults: {defArt: ''}
 campaignInfo: []
@@ -7,8 +8,9 @@ typeOf: lake
 partOf: Chardonian Empire
 ---
 # Lake Valandros
->[!info]+ Summary
-
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% (Drankorian name, named after the great mage Valandra) 
 

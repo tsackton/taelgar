@@ -8,8 +8,7 @@ born:
 species: fey
 subspecies: dryad
 gender: female
-whereabouts:
-- {type: home, start: !!null '', end: '', location: Azta Lekua}
+whereabouts: Azta Lekua
 ---
 # Eleuha
 >[!info]+ Biographical Info

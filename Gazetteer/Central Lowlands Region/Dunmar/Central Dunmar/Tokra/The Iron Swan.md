@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {defArt: '', wHome: <ancestry:au> <subtypeof> in <current:3>}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Iron Swan
-subTypeOf: tavern
+typeOfAlias: tavern
 ancestry: dwarven
 typeOf: inn
 partOf: Tokra

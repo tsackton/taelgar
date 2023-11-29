@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: { ruledByHasStart: "Ruled by: <name> (since <startDate>)"}
+displayDefaults: { ruledBy: "Ruled by: <name> <((since )startDate())>"}
 name: Sembara
 typeOf: realm
 whereabouts: Western Green Sea Region

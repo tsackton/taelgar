@@ -1,8 +1,9 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [item/armor, item/magical, status/draft, status/unknown]
 typeOf: armor
 rarity: uncommon
+subTypeOf: magical
 displayDefaults: {wHome: 'Owner: <current:1>', defArt: ''}
 whereabouts:
 - {type: home, location: unknown Deno'qai smith}
@@ -12,6 +13,7 @@ whereabouts:
 # Deno'qai Scale Mail
 >[!info]+ Information
 > (uncommon magical armor)
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%todo

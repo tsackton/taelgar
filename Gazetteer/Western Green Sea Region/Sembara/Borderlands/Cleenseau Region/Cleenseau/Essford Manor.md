@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Essford Manor
@@ -8,8 +9,8 @@ partOf: Cleenseau
 ---
 # The Essford Manor
 >[!info]+ Information
-> A manor house in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
-
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The keep of the lord of Cleenseau, it is set on a small hillock inside the walls, and is defended by its own wooden palisade. 
 
