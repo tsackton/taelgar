@@ -1,9 +1,10 @@
 ---
-tags: [place, status/unknown]
-displayDefaults: {defArt: ''}
-campaignInfo: []
+tags: [place, status/unknown] 
+displayDefaults: {defArt: ""}
+campaignInfo: 
 name: Shakun’s Wellspring
-typeOf: grove
+ancestry: Dunmari
+typeOf: holy site
 partOf: Red Mesa
 ---
 # Shakun’s Wellspring
