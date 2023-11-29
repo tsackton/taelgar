@@ -23,39 +23,22 @@ class StringFormatter {
 
     #getDefaultTypeOf(metadata) {
 
-        if (metadata.typeOf) return metadata.typeOf;
+        if (metadata.typeOf) return metadata.typeOf
+        if ("typeOf" in metadata) return ""
 
         if (metadata.tags && metadata.tags.length > 0) {
-            let baseTag = metadata.tags.filter(f => f.startsWith("item") || f.startsWith("place")).first()
+            let baseTag = metadata.tags.filter(f => f.startsWith("item") || f.startsWith("place") || f.startsWith("organization") || f.startsWith("person")).first()
             if (baseTag) {
-                return baseTag.split("/")[0]
+                let value = baseTag.split("/")
+                if (value.length == 2) return value[1]
+                return value[0]
+
             }
         }
 
         return undefined;
     }
 
-    #getSubTypeOf(metadata, type) {
-
-        if (metadata.subTypeOf) return metadata.subTypeOf
-        if ("subTypeOf" in metadata) return ""
-
-        if (metadata.tags && metadata.tags.length > 0) {
-            let baseTags = metadata.tags.filter(f => f.startsWith("item/") || f.startsWith("place/"))
-            if (baseTags) {
-                for (let tag of baseTags) {
-                    if (tag.endsWith(type)) {
-                        continue
-                    }
-                    else {
-                        return tag.split('/')[1]
-                    }
-                }
-            }
-        }
-
-        return undefined
-    }
 
     #getFormattedLocationString(locValue, formatString, targetDate) {
 
@@ -74,7 +57,7 @@ class StringFormatter {
         // if the away end date of the whereabout is before the target date, use that as the follow date
         if (whereabout.awayEnd && targetDate && whereabout.awayEnd.sort < targetDate.sort) {
             followDate = whereabout.awayEnd
-        } 
+        }
 
         let formatStringToUse = whereabout.formatSpecifier ?? formatString
         if (formatString.includes("!")) formatStringToUse = formatString
@@ -97,10 +80,8 @@ class StringFormatter {
 
         let displayDefaults = NameManager.getDisplayData(metadata)
         let pageDateInfo = dateOverride ?? DateManager.getPageDates(metadata, targetDate)
-        let defaultType = this.#getDefaultTypeOf(metadata);
-        let actualType = metadata.typeOf
-        let type = actualType ?? defaultType
-        let subType = this.#getSubTypeOf(metadata, type)
+
+        let typeOf = this.#getDefaultTypeOf(metadata)
 
         // r p l i o f reserved for location stuff
 
@@ -108,20 +89,19 @@ class StringFormatter {
         // a: indefinite article, A: indefinite article if first
         // n: never link, y: always link
         // !: ignore the whereabouts format
-        const regexp = /<[a-zA-Z]+:*[!0-9UutsaAnyRrPpLlIiOoFf]*>/g;
+        const regexp = /<(\([()a-zA-Z-:\s]+\))?([a-zA-Z]+):?([!0-9UutsaAnyRrPpLlIiOoFf]+)?(\([()a-zA-Z-:\s]+\))?>/g;
 
         let resultString = formatString
 
         for (let matchItem of resultString.matchAll(regexp)) {
 
-            let match = matchItem[0].replace("<", "").replace(">", "")
-            let split = match.split(':')
-            let key = split[0].toLowerCase()
-            let format = ""
+            //1: prefix, 2: key, 3: format, 4: suffix
 
-            if (split.length == 2) {
-                format = split[1]
-            }
+            let key = matchItem[2].toLowerCase()
+            let format = matchItem[3] ?? ""
+            let prefix = matchItem[1]
+            let suffix = matchItem[4]
+
 
             let linkType = this.#getLinkType(format)
             let casing = this.#getCasing(format)
@@ -131,13 +111,10 @@ class StringFormatter {
                 value = additionalData[key]
             }
 
-
             if (key == "name") {
                 value = NameManager.getName(name, linkType, casing)
             } else if (key == "pronunciation") {
                 value = metadata.pronunciation
-            } else if (key == "typeof" || key == "type") {
-                value = NameManager.getName(type, linkType, casing)
             } else if (key == "pronouns") {
                 if (value == undefined) {
                     if (metadata.gender == "male") value = "he/him"
@@ -145,9 +122,9 @@ class StringFormatter {
                     else if (metadata.gender) value = "they/them"
                 }
             } else if (key == "subtypeof" || key == "subtype") {
-                value = NameManager.getName(subType, linkType, casing)
-            } else if (key == "maintype") {
-                value = NameManager.getName(metadata.subspecies ?? metadata.species ?? actualType ?? subType ?? defaultType, linkType, casing)
+                value = NameManager.getName(metadata.subTypeOf, linkType, casing)
+            } else if (key == "maintype" || key == "typeof" || key == "type") {
+                value = NameManager.getName(metadata.species, linkType, casing, metadata.speciesAlias) ?? NameManager.getName(typeOf, linkType, casing, metadata.typeOfAlias)
             } else if (key == "current") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
                 if (wb.current.location) {
@@ -157,7 +134,7 @@ class StringFormatter {
                 }
             } else if (key == "lastknowndate") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.lastKnown.location && wb.lastKnown.awayEnd.sort <= targetDate.sort) {                    
+                if (wb.lastKnown.location && wb.lastKnown.awayEnd.sort <= targetDate.sort) {
                     value = wb.lastKnown.awayEnd.display
                 } else {
                     if (targetDate) {
@@ -165,7 +142,7 @@ class StringFormatter {
                     } else {
                         value = DateManager.getTargetDateForPage(metadata).display
                     }
-                }             
+                }
             } else if (key == "lastknown") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
                 if (wb.lastKnown.location) {
@@ -242,9 +219,17 @@ class StringFormatter {
             }
 
             let beforeThis = resultString.substr(0, resultString.indexOf(matchItem[0])).trim()
-            let isFirstPart = beforeThis.length == 0
+            let isFirstPart = beforeThis.length == 0        
 
             if (value) {
+                if (prefix) {
+                    value = prefix.substr(1, prefix.length-2) + value
+                }
+
+                if (suffix) {
+                    value = value + suffix.substr(1, suffix.length-2)
+                }
+
                 let trimmedValue = value.replace("[[", "").replace("]]", "").replace("[", "").replace("]", "").toLowerCase()
                 let firstChar = trimmedValue[0]
                 let article = "a"
@@ -255,7 +240,7 @@ class StringFormatter {
                 if (format.includes("a") || (format.includes("A") && isFirstPart)) {
                     value = article + " " + value
                 }
-
+                                
                 if (format.includes("u") || (format.includes("U") && isFirstPart)) {
                     value = value.charAt(0).toUpperCase() + value.slice(1)
                 }

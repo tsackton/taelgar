@@ -1,13 +1,15 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place/building, status/unknown]
-displayDefaults: {partOf: <typeof:ua> of <subtypeof> in <current:r>}
 campaignInfo: []
 name: Temple of the Warlord in Cleenseau
 partOf: Cleenseau
-typeOf: temple
-subTypeOf: The Warlord
+ancestry: Sembaran
+typeOf: holy site
+typeOfAlias: temple
+affiliations: [{org: The Warlord, type: primary}]
 ---
 # The Temple of the Warlord in Cleenseau
 >[!info]+ Information
-> A temple of [[The Warlord]] in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`

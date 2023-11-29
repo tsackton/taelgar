@@ -11,13 +11,16 @@ whereabouts:
 - {type: away, start: 1749-01-17, end: 1749-01-19, location: traveling to Xurkhaz}
 - {type: away, start: 1749-01-20, end: 1749-01-21, location: Uzgukhar}
 rarity: unique
-typeOf: skyship
+typeOf: vehicle
+typeOfAlias: skyship
+aliases: [Star on the Wind]
 subTypeOf: magical
 ---
 # Vindristjarna
 *(vin-dree-SHAR-na)*
 >[!info]+ Information
 > (unique magical skyship)
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[vindristjarna-v1.jpg]]

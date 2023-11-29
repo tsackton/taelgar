@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-displayDefaults: {defArt: '', wHome: <ancestry:UAs> <subtypeof:UA> in <current:2>}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Fire and Stone
 typeOf: inn
-subTypeOf: tavern
+typeOfAlias: tavern
 ancestry: dwarven
 partOf: Magnus Street
 ---

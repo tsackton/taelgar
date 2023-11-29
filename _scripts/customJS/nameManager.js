@@ -183,7 +183,7 @@ class NameManager {
 
 
     // this returns a name only if the (a) file exists and (b) matches the filter
-    getFilteredName(target, filter, linkType = this.LinkIfValid, casing = this.PreserveCase) {
+    getFilteredName(target, filter, linkType = this.LinkIfValid, casing = this.PreserveCase, alias) {
 
         // this gets the canonical name of a potential link
         if (!target || target == "Untitled") return undefined
@@ -206,14 +206,14 @@ class NameManager {
         if (!fileData) {
             if (filter) return undefined
 
-            return this.#processDescriptiveName(target, undefined, "", linkType, casing)
+            return this.#processDescriptiveName(alias ?? target, undefined, "", linkType, casing)
         }
 
         let frontmatter = fileData.frontmatter
-        let selectedDescriptiveName = fileData.isAlias ? target : fileData.filename
+        let selectedDescriptiveName = alias ?? (fileData.isAlias ? target : fileData.filename)
         let article = ""
 
-        if (!fileData.isAlias) {
+        if (!fileData.isAlias && !alias) {
             if (frontmatter.title && frontmatter.name) {
                 selectedDescriptiveName = frontmatter.title + " " + frontmatter.name
             }
@@ -244,7 +244,7 @@ class NameManager {
 
     // linkType = "never" | "always" | "exists"
     // casing = "title" | "lower" | "preserve"
-    getName(target, linkType = this.LinkIfValid, casing = this.PreserveCase) {
-        return this.getFilteredName(target, undefined, linkType, casing)
+    getName(target, linkType = this.LinkIfValid, casing = this.PreserveCase, alias = undefined) {
+        return this.getFilteredName(target, undefined, linkType, casing, alias)
     }
 }

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/uptodate, person, dufr/met, dufr/major, status/unknown]
-displayDefaults: {title: Commandar}
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-12-27, type: scryed, format: "<met:U> by <person> in <current:fr!>, on <target>"}
 name: Havdar

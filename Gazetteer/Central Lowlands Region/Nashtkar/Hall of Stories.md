@@ -1,15 +1,14 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place/building, status/draft, status/unknown]
 campaignInfo:
 name: Hall of Stories
 typeOf: building
 whereabouts: Monastery of Bhishma
-displayDefaults: {partOf: '<ancestry:UA> <typeof:UA> in <current:3>'}
 ---
 # The Hall of Stories
 >[!info]+ Information
-> A building in the [[Monastery of Bhishma]], the [[Garamjala Desert]], [[Nashtkar]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Hall of Stories is a a large structure, part of the [[Monastery of Bhishma]], that houses the stories of the Dunmari. 

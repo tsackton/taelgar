@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {defArt: '', wHome: <subtypeof:au> in <current:r>}
+displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Darshana’s Caravanserai
 typeOf: inn
-subTypeOf: caravanserai
+typeOfAlias: caravanserai
 partOf: Tokra
 ---
 # Darshana’s Caravanserai

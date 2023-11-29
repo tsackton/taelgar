@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.20
 tags: [place, place/building, status/unknown]
-displayDefaults: {partOf: A <subtypeof> on <current:r>}
+displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <(on )current:5>"}
 campaignInfo: []
 name:
 typeOf: inn
-subTypeOf: caravanserai
+typeOfAlias: caravanserai
 partOf: Tokra-Darba Road
 ---
 # The Akela Inn

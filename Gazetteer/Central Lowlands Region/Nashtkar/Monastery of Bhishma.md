@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, place/building, status/unknown]
-typeOf: monastery
-subTypeOf: Bhishma
+typeOf: holy site
+typeOfAlias: monastery
+subTypeOf: 
+affiliations: [{org: Bhishma, type: primary }]
 ancestry: Dunmari
 partOf: Garamjala Desert
 ---

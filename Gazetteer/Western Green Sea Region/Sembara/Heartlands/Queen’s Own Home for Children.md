@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Queen’s Own Home for Children
@@ -7,7 +8,8 @@ partOf: Embry
 ---
 # The Queen’s Own Home for Children
 >[!info]+ Information
-> An  orphanage in [[Embry]], [[Sembara]], the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
 

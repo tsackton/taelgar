@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {wOrigin: "Home area: <origin>", boxInfo: (<rarity> <ancestry> <subtypeof>), ruledBy: "<affiliationtitle:t>: <name> of <primary>" }
+displayDefaults: {wOrigin: "Home area: <origin>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>" }
 tags: [item/boat]
 ancestry: halfling
 typeOf: vehicle
-subTypeOf: boat
+typeOfAlias: boat
 whereabouts: 
 - {type: home, end: 0001, location: Eastern Green Sea, formatSpecifier: ""}
 - {type: away, start: 1748-09-30, end: 1748-10-11, location: sailing to Wahacha}

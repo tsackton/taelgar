@@ -24,18 +24,18 @@
         "endStatus": "",
         "wOrigin": "<origin:3ru>",
         "wOriginU": "<origin:u>",
-        "wHome": "<home:3rU>",
+        "wHome": "<home:3ru>",
         "wHomeU": "",
-        "wPastHome": "<home:U>",
+        "wPastHome": "<home:u>",
         "wPastHomeU": "",
         "wCurrent": "Current location: <current:3r>",
-        "wPast": "<end:U> in <current:3r>",
+        "wPast": "<end:u> in <current:3r>",
         "wLastKnown": "Last known location (as of <lastknowndate>): <lastknown:3r>",
         "wLastNoDate": "Last known location: <lastknown:3r>",
-        "wParty": "<met:U> by <person> on <target> in <current:3r>",
-        "dCurrent": "<start:U> <startDate>",
-        "dPastHasStart": "<start:U> <startDate> - <end> <endDate>",
-        "dPast": "<end:U> <endDate>",
+        "wParty": "<met:u> by <person> on <target> in <current:3r>",
+        "dCurrent": "<start:u> <startDate>",
+        "dPastHasStart": "<start:u> <startDate> - <end> <endDate>",
+        "dPast": "<end:u> <endDate>",
         "boxName": "Information",
         "partOf": "",
         "boxInfo": "",
@@ -44,8 +44,7 @@
         "aCurrent": "<affiliationtitle:t> of <org> (since <startDate>)",
         "aPastHasStart": "<affiliationtitle:t> of <org> (<startDate> - <endDate>)", 
         "linkText": "",
-        "ruledBy" : "",
-        "ruledByHasStart" : ""
+        "ruledBy" : ""        
     },
     "typeDisplayDefaults": {
         "deity": {
@@ -67,21 +66,23 @@
             "dCurrent": "<start:u> <startDate> (<length> old)",
             "dPastHasStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
             "dPast": "<end:u> <endDate>",
-            "boxInfo": "<ancestry:UA> <maintype:sA> (<pronouns>), of <primary>\n(<ka>)",
+            "boxInfo": "<ancestry:UA> <species:sAU> <(()subspecies:s())> <(()pronouns())>, <(of )primary>\n<(()ka())>",
             "linkText": "Character Sheet"
         },
         "place": {
             "startStatus": "founded",
             "endStatus": "destroyed",
+            "wOrigin": "",
+            "wOriginU": "",
             "dCurrent": "<start:u> <startDate> (<length> ago)",
             "dPastHasStart": "existed <startDate> - <endDate>, <end> after <length>",
             "dPast": "<end:u> <endDate>",
-            "wCurrent" : "<ancestry:AUs> <subtypeof:UA> <typeof:AU> in <current:5>",
-            "wHome" :  "<ancestry:AUs> <subtypeof:UA> <typeof:AU> in <current:5>",
+            "wCurrent" : "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <(in )current:5>",
+            "wHome" :  "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <(in )current:5>",
+            "wPastHome": "<end:UA> <ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <(in )current:5>",
             "partOf": "",
-            "boxInfo": "<population>",            
-            "ruledByHasStart" : "<affiliationtitle:t>: <name> (since <startDate>)",
-            "ruledBy" : "<affiliationtitle:t>: <name>"
+            "boxInfo": "<population>",                        
+            "ruledBy" : "<affiliationtitle:t>: <name> <((since )startDate())>"
         },
         "item": {
             "startStatus": "created",
@@ -99,28 +100,27 @@
         "organization": {
             "startStatus": "founded",
             "endStatus": "disbanded",
-            "wOrigin": "Founded in: <origin>",
+            "wOrigin": "<startStatus:u(in: )> <origin>",
             "wOriginU": "",
             "wHome": "Based in: <home>",
             "wPastHome": "Was based in: <home>",
             "dCurrent": "<start:u> <startDate> (<length> ago)",
             "dPastHasStart": "existed <startDate> - <endDate>, <end> after <length>",
             "dPast": "<end:u> <endDate>",
-            "partOf": "Parent Organization: <partof:yt>",
-            "boxInfo": "<ancestry:AU> <maintype:AUs>",
-            "ruledByHasStart" : "<affiliationtitle:t>: <name> (since <startDate>)",
-            "ruledBy" : "<affiliationtitle:t>: <name>"
+            "partOf": "<(Parent Organization: )partof>",
+            "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>",            
+            "ruledBy" : "<affiliationtitle:t>: <name> <((since )startDate())>"
         },
         "event": {
             "startStatus": "started in",
             "endStatus": "ended in",
-            "wOrigin": "Started in: <origin>",
+            "wOrigin": "<startStatus:u(: )> <origin>",
             "wHome": "Occurring in: <home>",
             "wPastHome": "Happened in: <home>",
             "dCurrent": "<start:u> <startDate> (<length> ago)",
             "dPastHasStart": "<startDate> - <endDate>, lasted <length>",
             "dPast": "<end:u> <endDate>",
-            "partOf": "part of <partof:ty>"
+            "partOf": "<(part of )partof:ty>"
         },
         "unknown": {
             "startStatus": "created",

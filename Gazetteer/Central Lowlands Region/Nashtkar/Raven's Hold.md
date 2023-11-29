@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Raven's Hold
-ancestry: ruined
+subTypeOf: ruined
 typeOf: fort
 whereabouts:
 - { type: home, location: Ardith, end: 1545 }
@@ -12,7 +12,8 @@ whereabouts:
 ---
 # Raven's Hold
 >[!info]+ Information
-> A ruined fort in the [[Sentinel Range]], [[Central Highlands Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An old Dunmari fort in the mountains. Captured by hobgoblins and used as a base of operations for the [[Blackened Claw]] hobgoblins during the [[Second Hobgoblin War]]. 
 

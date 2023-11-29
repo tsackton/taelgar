@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {partOf: ""}
 tags: [place, status/needswork]
 name: Western Green Sea Region
 partOf: Taelgar
 typeOf: region
 ---
 # The Western Green Sea Region
-
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
 

@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-displayDefaults: {wHome: "<ancestry:AU> <typeof:AU> in <current:5>"}
 name: Red Mesa
 typeOf: holy site
 ancestry: Dunmari
-subTypeOf: Shakun
+affiliations: [{org: Shakun, type: primary}]
 whereabouts: 
-- {type: home, location: Eastern Dunmar, format: }
+- {type: home, location: Eastern Dunmar }
 ---
 # The Red Mesa
 >[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Red Mesa is a large, flat topped mesa of red stone, that rises six hundred feet or more above desert, marked by ochre rock formations that seem almost to pulse with inner life. 

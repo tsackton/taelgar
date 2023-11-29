@@ -1,10 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization/family, status/unknown]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Copperharps
+ancestry: halfling
 typeOf: family
 ---
+# The Copperharps
+>[!info]+ Information
+> A [[Halflings|halfling]] family
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%^Campaign:None%%
 ### Members

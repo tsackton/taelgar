@@ -1,15 +1,19 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Lakan Monastery
-typeOf: monastery
+typeOf: holy site
+typeOfAlias: monastery
+ancestry: Dunmari
+affiliations: [{org: Laka, type: primary}]
 partOf: Tokra
 ---
 # The Lakan Monastery
 >[!info]+ Information
-> A  monastery in [[Tokra]], [[Central Dunmar]], [[Dunmar]]
-
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Lakan monastery is set on a hill about 3 1/2 miles south of [[Tokra]], overlooking the River [[Hara]]. The ancient road from [[Tokra]] winds up the cliffs approaching the monastery.
 

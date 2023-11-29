@@ -196,7 +196,8 @@ requiredDisplayDefaults: {
 	"aCurrent": "<affiliationtitle:t> of <org> (since <startDate>)",
 	"aPastHasStart": "<affiliationtitle:t> of <org> (<startDate> - <endDate>)",
 	"linkText": "",
-	"defArt": ""
+	"defArt": "",
+	"ruledBy" : ""
 }
 ```
 
@@ -226,6 +227,7 @@ The meaning of each display default follows. The defaults for various types can 
 * `aCurrent` is used by get_Affiliations to display an affiliation that is current and has a start date
 * `aPastHasStart` is used by get_Affiliations to display an affiliation that has ended and has a  start date
 * `linkText` defines the word used for linking to a mechanics page. If it is blank/missing no D&D Beyond link is generated
+* `ruledBy` defines how to format the "ruled by" line for places that have rulers
 
 Additionally, there is one special line for which the presence of the field has meaning, so it is not in the default structure:
 * `defArt` this is the article to put in front of the name, i.e. the. If this is not in the displayDefaults at all, the code generates the for 2 or more word names and no article otherwise. If it is in the displayDefaults with no value, or "" as value, there is no article generated. Otherwise, it is used as the article

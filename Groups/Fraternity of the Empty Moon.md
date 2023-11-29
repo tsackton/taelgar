@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization, status/unknown]
-displayDefaults: {partOf: "", boxInfo: ""}
 campaignInfo:
 name: Fraternity of the Empty Moon
 timelineDescriptor: Fraternity of the Empty Moon
 typeOf: cult
 ---
 # The Fraternity of the Empty Moon
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Fraternity of the Empty Moon is a cult of werewolves, dedicated to the mission of enhancing the power of the [[Mad One]] in Taelgar by creating and enhancing connections with the plane of [[Pandemonium]].
 
