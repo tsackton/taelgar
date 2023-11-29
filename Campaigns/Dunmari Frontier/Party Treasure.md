@@ -41,7 +41,7 @@ Major items:
 Minor items:
 - [[Magic Cooking Pouch]] (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - [[Horn of Silent Alarm]] (common minor item)
-- Ring of Sharp Mind. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
+- Ring of Sharp Mind (rare minor item). Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
 ### Wellby 
 
 Major items:

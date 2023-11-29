@@ -10,7 +10,6 @@ The upper deck consists of, from stern to prow:
 * On a sky deck built above the map room, [[Seeker|Seeker's]] observatory
 * the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorating with memorials to the adventures of the [[Dunmar Fellowship]] and tended by [[Kenzo]] and [[Amil]]
 
-
 #### Mechanics and Space Usage
 Used space: 328 squares 
 
