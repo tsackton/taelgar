@@ -56,13 +56,27 @@ Rules are [[Bastion Rules|here]].
 
 *You can have up to 25 special facilities, although you are a tiny bit constrained by space. The upper deck and lower deck are each 12,000 square feet (480 squares); the hold is 9,800 square feet (392 squares). I would assume that maybe 90% of that is usable for the bastion rules, so a total of maybe 1200 usable squares.*
 
-### Followers
+### Followers and Traveling Companions
 
-You have attracted a considerable retinue of followers on Vindristjarna. These include:
+You have attracted a considerable retinue of followers on Vindristjarna, as well as some traveling companions. These include:
 
 [[Faldrak Bronzehammer]] (he/him). A dwarven an artificer, former adventurer, creator of magic items, and aspiring skyship captain. Runs the workshop when Seeker is not around, and wants to learn to drive the ship.
 
-%%SECRET[1]%%
+[[Amil]] (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the Garamjala desert before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
+
+[[Egnir|Égnir]] (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
+
+[[Jotha]] (she/her, yo-TAG). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
+
+UNNAMED (unknown). A halfling storyteller. 
+
+UNNAMED (unknown). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
+
+UNNAMED (unknown). Mapmaker
+
+Nurzkar and Aygul, orcs and twin sisters
+
+[[Kecha]] (unknown). A kenku scout. 
 ## Magic
 
 In addition to the phasing stone, Vindristjarna is equipped with the following magic.
