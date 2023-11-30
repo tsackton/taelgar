@@ -9,15 +9,15 @@ species: giant
 subspecies: storm giant
 gender: male
 whereabouts:
-- {type: away, start: 1020, end: 1748-11-22, location: trapped in Stormcaller Tower}
+- {type: away, start: 1020, end: 1748-11-22, prefix: trapped in, location: Stormcaller Tower}
 - {type: home, start: 1748-11-23, end: 1748-11-23, location: Stormcaller Tower}
-- {type: home, start: 1748-11-24, location: "drifting on the storm across Taelgar", format: ""}
+- {type: home, start: 1748-11-24, location: Taelgar, prefix: drifting on the storm across, format: ""}
 ---
 # Hralgar
 >[!info]+ Biographical Info
-> a [[Giants|storm giant]] (he/him)
+> A [[Giants|giant]] ([[Giants|storm giant]]) (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Freed by [[Dunmar Fellowship]] on November 23rd, 1748 in the [[Stormcaller Tower]], [[Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Freed by [[Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Dunmar]] %%^End%%
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 

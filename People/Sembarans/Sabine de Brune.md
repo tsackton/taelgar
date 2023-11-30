@@ -7,8 +7,7 @@ born: 1662
 species: human
 ancestry: Sembaran
 gender: female
-whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Valit, Sembara'}
+whereabouts: Valit
 ---
 # Sabine de Brune
 >[!info]+ Biographical Summary

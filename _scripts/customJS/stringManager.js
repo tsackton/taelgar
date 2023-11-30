@@ -40,17 +40,9 @@ class StringFormatter {
     }
 
 
-    #getFormattedLocationString(locValue, formatString, targetDate) {
+    #getFormattedWhereaboutsString(whereabout, formatString, targetDate) {
 
         const { LocationManager } = customJS
-
-        let linkType = this.#getLinkType(formatString)
-        let casing = this.#getCasing(formatString)
-
-        return LocationManager.getCurrentLocationName(locValue, targetDate, casing, formatString, linkType)
-    }
-
-    #getFormattedWhereaboutsString(whereabout, formatString, targetDate) {
 
         let followDate = targetDate
 
@@ -59,10 +51,14 @@ class StringFormatter {
             followDate = whereabout.awayEnd
         }
 
+        
         let formatStringToUse = whereabout.formatSpecifier ?? formatString
-        if (formatString.includes("!")) formatStringToUse = formatString
+        if (formatString.includes("!")) formatStringToUse = formatString        
+        
+        let linkType = this.#getLinkType(formatStringToUse)
+        let casing = this.#getCasing(formatStringToUse)
 
-        return this.#getFormattedLocationString(whereabout.location, formatStringToUse, followDate)
+        return LocationManager.getCurrentLocationName(whereabout, targetDate, casing, formatStringToUse, linkType)
     }
 
 

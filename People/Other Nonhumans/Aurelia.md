@@ -8,8 +8,7 @@ born: 1703
 species: centaur
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: unknown}
-- {type: home, start: 1733, end: '', location: Tollen}
+- {type: home, start: 1733, location: Tollen}
 ---
 # Aurelia
 >[!info]+ Biographical Info

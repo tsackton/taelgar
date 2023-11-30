@@ -11,7 +11,7 @@ ancestry: Dunmari
 gender: male
 died: 1748-07-23
 whereabouts:
-- {type: home, location: the plains north of Tokra}
+- {type: home, location: plains north of Tokra}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
 ---
 # Justan

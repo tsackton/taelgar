@@ -5,7 +5,7 @@ name: Herasto
 species: centaur
 gender: male
 whereabouts:
-- {type: away, location: plains south of Voltara}
+- {type: away, location: Voltara Plains, prefix: southern}
 ---
 # Herasto
 >[!info]+ Biographical Info

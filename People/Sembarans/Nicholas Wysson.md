@@ -7,8 +7,7 @@ born: 1697
 species: human
 ancestry: Sembaran
 gender: male
-whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
+whereabouts: Cleenseau
 ---
 # Nicholas Wysson
 >[!info]+ Biographical Summary

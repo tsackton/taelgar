@@ -13,8 +13,8 @@ title: Commander
 died: 1748-12-07
 affiliations: [{org: People of the Rainbow, type: primary }]
 whereabouts:
-- {type: home, start: '', end: '', location: 'Uzgukar'}
-- {type: home, start: 1741-01-01, end: '', location: 'Khumarz'}
+- {type: home, location: Uzgukhar}
+- {type: home, start: 1741-01-01, end: '', location: Khumarz}
 ---
 # Commander Vorgaz
 >[!info]+ Biographical Info
@@ -26,7 +26,7 @@ whereabouts:
 
 Vorgaz was a skilled [[Orcs|orc]] warrior and the commander of the garrison at [[Khumarz]], on the western border of [[Xurkhaz]], known for his tactical brilliance but lack of political acumen. 
 
-Killed in battle against Grash's armies on Dec 7th, 1748. 
+Killed in battle against Grash's armies on Dec 7th, 1748.  
 
 %%SECRET[1]%%
 

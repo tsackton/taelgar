@@ -88,6 +88,8 @@ class util {
         const { LocationManager } = customJS
         const { DateManager } = customJS
 
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+
         let pageDates = DateManager.getPageDates(metadata, targetDate)
 
         if (pageDates) {
@@ -105,9 +107,19 @@ class util {
         return LocationManager.isInLocation(wb.current.location, targetLocation, targetDate)
     }
 
-    inOrHomeLocation(targetLocation, metadata, includeDead, targetDate) {
+    inOrHomeLocation(targetLocation, metadata, includeDead, targetDate) {        
         return this.inLocation(targetLocation, metadata, includeDead, true, targetDate) || 
                 this.homeLocation(targetLocation, metadata, includeDead, targetDate)
+    }
+
+    isLinked(target) {
+
+        if (!target) return true
+
+        const {NameManager} = customJS
+        let file = NameManager.getFileForTarget(target)
+
+        return file != undefined
     }
 
     homeLocation(targetLocation, metadata, includeDead, targetDate) {
@@ -116,6 +128,8 @@ class util {
         const { DateManager } = customJS
         const { LocationManager } = customJS
 
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        
         let pageDates = DateManager.getPageDates(metadata, targetDate)
 
         if (pageDates) {

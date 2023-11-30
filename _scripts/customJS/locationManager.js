@@ -29,12 +29,13 @@ class LocationManager {
             let nextLvl = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current.location
 
             if (nextLvl) {
-                return this.isInLocation(nextLvl, targetLocation)
+                return this.isInLocation(nextLvl, targetLocation, targetDate)
             }
 
             return false;
         }
 
+        return false
 
         let match = new RegExp("[~A-Z]{1}").exec(startingLocation)
         if (match && match.index > 0) {
@@ -44,16 +45,19 @@ class LocationManager {
         return false;
     }
 
-    getCurrentLocationName(location, targetDate, casing = "preserve", formatString = "", linkType = "always") {
-        
+    getCurrentLocationName(whereabout, targetDate, casing = "preserve", formatString = "", linkType = "always") {
+
         // fasly locations (null, undefined, empty string) are always unknown
-        if (!location) return "Unknown"
+        if (!whereabout.location){
+            if (whereabout.prefix) return whereabout.prefix + " Unknown"
+            else return "Unknown"
+        } 
 
         // we want the current depth to start at 1, i.e. if the max depth is 2 we want the first and second pieces
-        let outStr = this.#getLocationFromPartOfs(location, targetDate, 1, linkType, casing, formatString).trim()
-        
+        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, linkType, casing, formatString).trim()
+
         if (outStr.endsWith(",")) outStr = outStr.substring(0, outStr.length - 1)
-        
+
         if (!outStr) return "(location hidden)"
         return outStr
     }
@@ -167,34 +171,39 @@ class LocationManager {
         return successResult
     }
 
-    #getLocationFromPartOfs(locationPiece, targetDate, thisDepth, linkType, casing, format) {
+    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, linkType, casing, format) {
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
 
-        if (!locationPiece) return ""
+
+        if (!whereabout || !whereabout.location) {            
+            return whereabout.prefix ?? ""
+        }
       
-        if (locationPiece == "Taelgar") {
+
+        let nameSection = NameManager.getName(whereabout.location, linkType, casing)
+        if (whereabout.prefix) nameSection = whereabout.prefix + " " + nameSection
+
+        if (whereabout.location == "Taelgar") {            
             // Taelgar is handling specially
             if (thisDepth > 1) return ""
             if (format.includes("r")) return ""
-
-            return NameManager.getName(locationPiece, linkType, casing)
+            
+            return nameSection
         }
-
-        let nameSection = NameManager.getName(locationPiece, linkType, casing)
-        let file = NameManager.getFileForTarget(locationPiece)
-
+        
+        let file = NameManager.getFileForTarget(whereabout.location)
 
         // we can't keep going, because this piece doesn't exist
         if (!file) {
             // lets see if we have a match to our capital letter check
-            let match = new RegExp("[~A-Z]{1}").exec(locationPiece)
+            let match = new RegExp("[~A-Z]{1}").exec(whereabout.location)
             if (match && match.index > 0) {
 
                 // at the moment there is a bug where the filters ignore this type of thing - or more accurately, we end up with the "travelling in " or whatever piece added no matter what
-                let potentialNextPiece = locationPiece.substring(match.index)
-                return locationPiece.substring(0, match.index) + " " + this.#getLocationFromPartOfs(potentialNextPiece, targetDate, thisDepth, linkType, casing, format)
+                let potentialNextPiece = whereabout.location.substring(match.index)
+                return whereabout.location.substring(0, match.index) + " " + this.#getLocationFromPartOfs({location: potentialNextPiece}, targetDate, thisDepth, linkType, casing, format)
             }
 
             return nameSection
@@ -207,7 +216,7 @@ class LocationManager {
             }
 
             let nextDepth = nextLevelCheck.incrementDepth ? thisDepth + 1 : thisDepth
-            let nextLevel = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current.location
+            let nextLevel = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current
             let returnValue = ""
 
             if (nextLevelCheck.allowed) {

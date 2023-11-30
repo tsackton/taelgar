@@ -9,7 +9,7 @@ species: elf
 ancestry:
 gender: male
 whereabouts:
-- {'type:away': !!null '', location: unknown}
+- { type: away }
 affiliations: [Fides Lucaris]
 pronunciation: eh-LAN-dree-ahl
 ---

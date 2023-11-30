@@ -11,7 +11,7 @@ ancestry:
 gender: male
 affiliations: [Tealeafs]
 whereabouts: 
-- {type: home, end: 1747, location: roads of Dunmar}
+- {type: home, end: 1747, prefix: roads of, location: Dunmar}
 - {type: away, start: 1748, end: 1748-08-08, location: The Green Leaf} #start is approx
 - {type: away, start: 1748-08-09, end: 1748-08-21, location: Emerald Song}
 - {type: away, start: 1748-08-22, location: Chardon}

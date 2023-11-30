@@ -9,7 +9,7 @@ species: human
 ancestry: Deno'qai
 gender: female
 whereabouts:
-- {type: away, start: 1748-10-25, end: '', location: forest valleys of the Sentinel Range}
+- {type: away, start: 1748-10-25, end: '', prefix: forest valleys of, location: Sentinel Range}
 ---
 # Safri
 >[!info]+ Biographical Info

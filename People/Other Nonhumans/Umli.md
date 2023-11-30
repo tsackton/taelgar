@@ -11,7 +11,7 @@ ancestry:
 gender: female
 aliases: [Umli]
 whereabouts:
-- {type: home, end: 1731, location: '~Vostok Mountains~'}
+- {type: home, end: 1731, location: '~VostokMountains~'}
 - {type: home, start: 1732, location: Tollen}
 ---
 # Umli the Exile
@@ -22,6 +22,7 @@ whereabouts:
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]], [[Western Green Sea]] %%^End%%
 
 Umli is a stoneborn exile living in [[Tollen]], a master metalworker, and a teacher. 
+
 ## Overview
 
 Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of metallury and her knowledge of the elemental plane of fire. Though loosely affiliated with the University of [[Tollen]], she  does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. Born in the Vostok mountains, she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] for the past 15 years. 

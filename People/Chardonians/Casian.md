@@ -12,7 +12,7 @@ gender: male
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, start: 1722,  location: 'Chardon'}
-- {type: away, start: 1748-11-23, end: '', location: 'somewhere in Dunmar'}
+- {type: away, start: 1748-11-23, end: '', prefix: somewhere in, location: 'Dunmar'}
 ---
 # Casian
 >[!info]+ Biographical Info

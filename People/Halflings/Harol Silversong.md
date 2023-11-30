@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, person]
 campaignInfo: 
 - {campaign: dufr, date: 1748-08-09, type: met}
@@ -8,18 +8,19 @@ name: Harol Silversong
 born:
 species: halfling
 ancestry:
+pageTargetDate: 1748-08-14
 gender: male
-leaderOf: [ { place: Emerald Song, title: Captain, start: 0001} ]
-affiliations: [ Silversongs ]
-whereabouts: Emerald Song
+affiliations: [ {org: Silversongs, type: primary}, { place: Emerald Song, title: Captain, start: 0001} ]
+whereabouts: 
+- { location: Emerald Song, type: home, prefix: sailing }
 ---
 # Harol Silversong
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], he/him of the [[Silversongs]]
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> A [[Halflings|halfling]] (he/him)
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 9th, 1748 in the [[Emerald Song]], [[Darba]], [[Western Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21st, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on August 9th, 1748 in the [[Emerald Song]], [[Darba]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by [[Dunmar Fellowship]] on August 21st, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
 
 Captain of the [[Emerald Song]]. He is tough and wiry, tall for a halfling, with olive-brown skin and curly white hair, with bright silver eyes. Although not very talkative for a halfling, he has a good singing voice and often takes up the bass viol in the evenings.
 ## Relationships

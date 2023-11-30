@@ -8,7 +8,7 @@ ancestry: Islander
 gender: male
 whereabouts:
 - {type: home, location: 'Wahacha'}
-- {type: away, start: 1748-10-14, end: '', location: 'sea elf village in Quanyi'}
+- {type: away, start: 1748-10-14, end: '', location: Quanyi, prefix: sea elf village in }
 ---
 # Nahto
 >[!info]+ Biographical Info

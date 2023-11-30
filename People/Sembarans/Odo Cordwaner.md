@@ -10,8 +10,8 @@ ancestry: Sembaran
 gender: male
 title: Sergeant
 whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Cleenseau, Sembara'}
-- {type: away, start: 1719-10-21, end: '', location: 'Taviose, Cleenseau'}
+- {type: home, location: Cleenseau}
+- {type: home, start: 1719-10-21, location: Taviose}
 ---
 # Sergeant Odo Cordwaner
 >[!info]+ Biographical Info

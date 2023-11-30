@@ -13,8 +13,8 @@ died: 1748-03-15
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
-- {type: away, start: 1747-12-23, end: 1748-02-02, location: traveling in the Yeraad watershed}
-- {type: away, start: 1748-02-02, end: 1748-03-03, location: traveling in Dunmar}
+- {type: away, start: 1747-12-23, end: 1748-02-02, prefix: traveling in, location: Yeraad River Basin}
+- {type: away, start: 1748-02-02, end: 1748-03-03, prefix: traveling in, location: Dunmar}
 - {type: away, start: 1748-03-03, end: 1748-03-05, location: Karawa}
 - {type: away, start: 1748-03-14, end: 9999, location: Dunmari Fort (Gomat)}
 ---
