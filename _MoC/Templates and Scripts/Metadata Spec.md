@@ -17,9 +17,11 @@ These metadata items name the page
 These metadata items describe what the page is
 
 * `typeOf` used to describe the type of something, i.e. "skyship", "vehicle", "city". Typically used for places and items. 
+* `typeOfAlias` an alias to use when displaying a typeOf
 * `subTypeOf` used to describe the subtype of something, i.e. ruined, caravanesri, etc. Typically used for places and items.
 * `ancestry` is used to describe the species or culture of something, i.e. Sembaran, elven, etc. Used for places, items, organizations, and people
 * `species` is used to describe the species of a person. It is expected to link back to a species page either via aliases or the linkmap
+* `speciesAlias` an alias to use when displaying a species
 * `subspecies` is used to describe a subtype of a subspecies (hag, lich, etc). May or may not link back to a descriptive page
 * `rarity` is used to describe the rarity of an item
 
@@ -68,6 +70,7 @@ The `whereabouts` section defines where a specific page is or has been. It has t
 	type: home or away
 	start: the start date of this whereabout line
 	end: the end date of this whereabouts line
+	prefix: a prefix to show before the location
 	formatSpecifier: a formatter for this whereabouts line - see formatting below for details
 	format: an alias for formatSpecifier
 	wOrigin: a replacement format string if this whereabout is used as an origin
