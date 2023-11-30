@@ -10,10 +10,10 @@ species: human
 ancestry: Deno'qai
 gender: female
 whereabouts:
-- {type: home, end: 1748-09-06, location: "the Bek'eni village in the Elderwood"}
+- {type: home, end: 1748-09-06, location: Bek'eni village}
 - {type: away, start: 1748-09-07, end: 1748-09-09, location: Dunmar Fellowship }
-- {type: away, start: 1748-09-10, end: 1748-09-30, location: "Te'kula village in the Elderwood" }
-- {type: home, start: 1748-10-01, location: "the Bek'eni village in the Elderwood"}
+- {type: away, start: 1748-09-10, end: 1748-09-30, location: Te'kula village }
+- {type: home, start: 1748-10-01, location: Bek'eni village}
 ---
 # Theba
 >[!info]+ Biographical Info

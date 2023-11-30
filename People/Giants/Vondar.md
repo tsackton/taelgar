@@ -8,8 +8,8 @@ species: giant
 subspecies: cursed
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: unknown}
-- {type: home, start: 1748-11-23, end: !!null '', location: Amberglow}
+- {type: home, start: '', end: '', location: }
+- {type: home, start: 1748-11-23,  location: Amberglow}
 ---
 # Vondar
 >[!info]+ Biographical Info

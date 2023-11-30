@@ -7,8 +7,7 @@ born: 1655
 species: human
 ancestry: Sembaran
 gender: male
-whereabouts:
-- {type: home, start: '', end: '', location: 'Evis, Duchy of Maseau'}
+whereabouts: Evis
 ---
 # Peyre Vayler
 >[!info]+ Biographical Summary

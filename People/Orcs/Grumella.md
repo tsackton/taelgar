@@ -11,7 +11,7 @@ gender: female
 died: 1747
 affiliations: [Grumella's Horde]
 whereabouts:
-- {type: home, location: north of Voltara}
+- {type: home, prefix: northern, location: Voltara Plains}
 ---
 # Grumella the Vengeful
 >[!info]+ Biographical Info

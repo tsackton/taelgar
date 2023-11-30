@@ -11,9 +11,9 @@ gender: male
 affiliations: [Shakun Mystai]
 whereabouts:
 - {type: home, end: 1712, location: Chardon}
-- {type: away, start: 1713, location: traveling in Dunmar}
+- {type: away, start: 1713, prefix: traveling in, location: Dunmar}
 - {type: away, start: 1717, location: Karawa}
-- {type: away, start: 1719, location: traveling widely}
+- {type: away, start: 1719, location: Taelgar, prefix: traveling widely across, format: ""}
 - {type: home, start: 1723, end: 1748-09-09, location: Chardon}
 - {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
 - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ""}

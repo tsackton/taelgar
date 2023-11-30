@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [clee/unsorted, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -7,19 +8,18 @@ born: 1693
 species: human
 ancestry: Sembaran
 gender: male
-family: de Varan
+pageTargetDate: 1719-11-13
 whereabouts:
-- {type: home, start: !!null '', end: '', location: 'Evis, Duchy of Maseau'}
-- {type: away, start: 1719-10-31, end: '', location: 'Orc Fort, Duchy of Maseau'}
-- {type: away, start: 1719-11-30, end: '', location: 'Bandit''s Way, Duchy of Maseau'}
-- {type: away, start: 1719-12-01, end: '', location: 'Cleenseau, Sembara'}
+- {type: home, location: 'Evis'}
+- {type: away, start: 1719-10-31, end: 1719-11-30, location: Wakog's Camp}
+- {type: away, start: 1719-11-30, location: Bandit's Way}
+- {type: away, start: 1719-12-01, location: Cleenseau}
 ---
-# Guy de Varan
->[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Evis]], [[Duchy of Maseau]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+# Guy De Varan
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War. 
 

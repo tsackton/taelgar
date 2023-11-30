@@ -13,7 +13,7 @@ died: 1748-12-08
 affiliations: [Society of the Open Scroll, {org: The Cleansed, title: Cultist}]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Chardon'}
-- {type: away, start: 1748-11-15, end: '', location: 'somewhere in Dunmar'}
+- {type: away, start: 1748-11-15, end: '', prefix: somewhere in, location: 'Dunmar'}
 - {type: away, start: 1748-11-19, end: '', location: 'Garamjala Desert'}
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
 ---

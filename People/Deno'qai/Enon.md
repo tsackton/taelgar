@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -11,10 +12,10 @@ whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
 ---
 # Enon
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Deno'qai|Deno'qai]]), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>[!info]+ Biographical Info
+> A [[Deno'qai]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Godcaller of the Ko’zula Deno’qai; gifted [[Delwath]] his [[Deno'qai Scale Mail]] and [[Deno'qai Lynx Shield]] prior to [[Session 51-52 (DuFr)|Delwath's solo adventure to free the Meswati.]]
 

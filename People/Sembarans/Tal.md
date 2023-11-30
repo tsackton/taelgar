@@ -10,7 +10,7 @@ ancestry:
 gender: male
 whereabouts:
 - {type: home, start: '', end: 1716, location: Embry}
-- {type: away, start: 1716, end: '', location: somewhere on the River Semb}
+- {type: away, start: 1716, end: '', prefix: somewhere on, location: Semb}
 ---
 # Tal
 >[!info]+ Biographical Info

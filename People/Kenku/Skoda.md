@@ -10,7 +10,7 @@ ancestry: Islander
 gender: female
 whereabouts:
 - {type: home, location: 'Wahacha'}
-- {type: away, start: 1748-10-14, location: 'sea elf village in Quanyi'}
+- {type: away, start: 1748-10-14, prefix: 'sea elf village in', location: Quanyi}
 ---
 # Skoda
 >[!info]+ Biographical Info

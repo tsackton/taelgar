@@ -10,7 +10,7 @@ gender: male
 aliases: [Lord Rinault, Lord Rinault Essford, Rinault]
 title: Lord
 whereabouts:
-- {type: home, start: '', end: '', location: 'Cleenseau, Sembara'}
+- {type: home, start: '', end: '', location: 'Cleenseau'}
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Summary

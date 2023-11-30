@@ -57,6 +57,7 @@ class WhereaboutsManager {
             location: location,
             logicalEnd: logicalEnd,
             logicalStart: logicalStart,
+            prefix: w.prefix,
             awayEnd: awayEnd,
             formatSpecifier: w.formatSpecifier ?? w.format,
             pastHomeFormat: w.pastHome ?? w.wPastHome ?? w.pastHomeFormat,

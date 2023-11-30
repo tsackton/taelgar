@@ -9,7 +9,7 @@ gender: male
 affiliations: [Society of the Open Scroll, The Cleansed]
 whereabouts:
 - {type: home, start: 1731-01-01, end: '', location: 'Chardon'}
-- {type: away, start: 1734-01-01, end: '', location: 'adventuring in West Coast Region'}
+- {type: away, start: 1734-01-01, end: '', prefix: adventuring in, location: 'West Coast Region'}
 - {type: home, start: 1737-01-01, end: '', location: 'Chardon'}
 ---
 # Fausto

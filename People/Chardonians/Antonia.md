@@ -10,9 +10,9 @@ ancestry: Chardonian
 gender: female
 affiliations: [{ org: The Cleansed, start: 0001, end: 1748-12-07 }]
 whereabouts:
-- {type: away, start: 1748-11-10, end: '', location: Dunmar}
-- {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
-- {type: home, start: '', end: '', location: Chardon}
+- {type: away, start: 1748-11-10, location: Dunmar}
+- {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping, prefix: imprisoned in }
+- {type: home, location: Chardon}
 ---
 # Antonia
 >[!info]+ Biographical Info
@@ -20,7 +20,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Imprisoned by the [[Dunmar Fellowship]] on December 8th, 1748 in the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% Imprisoned by [[Dunmar Fellowship]] on December 8th, 1748 in imprisoned the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
 A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 

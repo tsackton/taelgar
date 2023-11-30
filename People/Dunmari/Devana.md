@@ -7,7 +7,8 @@ born:
 species: human
 ancestry: Dunmari
 gender: male
-whereabouts: north and west of Karawa
+whereabouts: 
+- { type: home, location: plains of Karawa, prefix: north-western, format: "3"}
 ---
 # Devana
 >[!info]+ Biographical Info

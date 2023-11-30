@@ -11,7 +11,7 @@ affiliations:
 - {org: Bybets, type: primary }
 - {org: Essfords, title: Lord Consort, start: 1706 }
 whereabouts:
-- {type: home, end: 1705, location: Ainswick}
+- {type: home, end: 1705, location: Ainwick}
 - {type: home, start: 1706, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry }
 - {type: away, start: 1720-01-20, end: 9999, location: Embry }

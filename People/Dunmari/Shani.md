@@ -7,7 +7,8 @@ born:
 species: human
 ancestry: Dunmari
 gender: female
-whereabouts: plains north of Karawa
+whereabouts: 
+- {type: home, prefix: northern, format: "3", location: plains of Karawa }
 ---
 # Shani
 >[!info]+ Biographical Info

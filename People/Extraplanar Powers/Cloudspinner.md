@@ -9,7 +9,7 @@ gender: female
 aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, end: 1001, location: Amberglow}
-- {type: away, start: 1002, location: imprisoned}
+- {type: away, start: 1002, location: imprisoned }
 ---
 # Cloudspinner
 >[!info]+ Biographical Info

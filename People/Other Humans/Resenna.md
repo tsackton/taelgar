@@ -9,7 +9,7 @@ ancestry:
 gender: female
 whereabouts:
 - {type: home, location: Medju}
-- {type: away, start: 1748-11-23, end: '', location: sea elf village in Quanyi }
+- {type: away, start: 1748-11-23, prefix: sea elf village in, location: Quanyi }
 ---
 # Resenna
 >[!info]+ Biographical Summary

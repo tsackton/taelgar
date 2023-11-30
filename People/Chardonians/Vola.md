@@ -9,7 +9,7 @@ gender: female
 affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Chardon'}
-- {type: away, start: 1748-11-23, end: '', location: 'travelling in Dunmar'}
+- {type: away, start: 1748-11-23, end: '', prefix: travelling in, location: 'Dunmar'}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 ---
 # Vola Forena

@@ -9,8 +9,8 @@ species: human
 ancestry: Deno'qai
 gender: female
 whereabouts:
-- {type: home, location: "Shu'anra village in the Forest of Dreams" }
-- {type: home, location: "Te'kula village in the Elderwood"}
+- {type: home, location: Forest of Dreams, prefix: Shu'anra village in }
+- {type: home, location: Te'kula village }
 ---
 # Ariel
 >[!info]+ Biographical Info

@@ -10,7 +10,7 @@ ancestry: Sembaran
 gender: female
 affiliations: [{org: Essfords, title: Chamberlain}]
 whereabouts:
-- {type: home,  location: Ainswick}
+- {type: home,  location: Ainwick}
 - {type: home, location: Cleenseau }
 ---
 # Annet Bybet

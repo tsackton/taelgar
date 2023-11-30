@@ -11,7 +11,7 @@ gender: male
 aliases: [Garret]
 affiliations: [{org: Tealeafs, type: primary}]
 whereabouts:
-- {type: home, end: 1737, location: roads of Dunmar} # date of capture is approx
+- {type: home, end: 1737, prefix: roads of, location: Dunmar} # date of capture is approx
 - {type: away, start: 1737, end: 1748-06-07, location: Agata's lair}
 - {type: away, start: 1748-06-08, end: 1748-06-19, location: Karawa}
 - {type: away, start: 1748-06-20, end: 1748-06-29, location: traveling to Tokra}

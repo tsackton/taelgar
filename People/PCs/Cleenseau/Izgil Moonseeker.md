@@ -13,7 +13,7 @@ affiliations: [{org: Gemcrafters, type: primary}]
 aliases: [Durgil Barzinduk, Izgil]
 whereabouts:
 - {type: home, start: '', end: '', location: Nidzahar}
-- {type: away, start: 1719-10-19, end: '', location: 'Taviose, Sembara'}
+- {type: away, start: 1719-10-19, end: '', location: 'Taviose'}
 ---
 # Izgil Moonseeker
 >[!info]+ Biographical Info
