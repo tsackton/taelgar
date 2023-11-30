@@ -1,6 +1,7 @@
 ---
 tags: [place, status/stub, status/unknown]
 name: Semb
+displayDefaults: {defArt: "the"}
 typeOf: river
 partOf: Heartlands
 aliases: [River Semb]
