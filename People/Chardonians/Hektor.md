@@ -7,7 +7,7 @@ species: human
 ancestry: Chardonian
 gender: male
 whereabouts:
-- {type: home, Chardon}
+- {type: home, location: Chardon}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 ---
 # Hektor

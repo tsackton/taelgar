@@ -216,3 +216,24 @@ The storage deck consists of, from stern to prow:
 > 
 > This cool, dark space is meant to contain trade goods (see the Trade Goods table in the Player’s Handbook) but can hold almost anything. When you issue the Trade order to this facility, its hireling spends the next 7 days procuring nonmagical items that have a total value of 500 GP or less and stores them in the Storehouse, or the hireling uses those 7 days to sell goods in the Storehouse. You bear the total cost of any purchases, and the maximum value of the items purchased increases to 2,000 GP when you reach level 9 and 5,000 GP when you reach level 13. The Equipment chapter of the Player’s Handbook has tables of common goods that can be bought. When you sell goods from your Storehouse, the buyer pays you 10 percent more than the standard price; this profit increases to 20 percent when you reach level 9, 50 percent when you reach level 13, and 100 percent when you reach level 17.
 
+
+# People
+
+## On Vindristjarna
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location", "Home"], 
+			dv.pages("#person")
+				.where(f => util.inOrHomeLocation("Vindristjarna", f.file.frontmatter, dv.current().pageTargetDate))
+				.where(f => !util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
+				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```
+
+## In the Mirror
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location", "Home"], 
+			dv.pages("#person")
+				.where(f => util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
+				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```

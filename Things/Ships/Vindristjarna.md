@@ -79,7 +79,7 @@ UNNAMED (unknown). Mapmaker
 
 Nurzkar and Aygul, orcs and twin sisters
 
-[[Kecha]] (unknown). A kenku scout. 
+[[_DM_/Staging/Kecha]] (unknown). A kenku scout. 
 ## Magic
 
 In addition to the phasing stone, Vindristjarna is equipped with the following magic.
