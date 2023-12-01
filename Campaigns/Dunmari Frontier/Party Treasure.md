@@ -51,10 +51,10 @@ Major items:
 - [[Flaming Bowstring]] (uncommon major item)
 
 Minor items:
-- [[Saddle of the Bonded Companion]] (rare minor iterm)
+- [[Saddle of the Bonded Companion]] (rare minor item)
 - [[Driftglobe]] (uncommon minor item)
 - [[Moon Necklace]] (common minor item)
-- [[Message Stone ]](uncommon minor item)
+- [[Message Stone ]](uncommon minor item; [[Sura]] has the paired stone)
 - Hat of Vermin (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - Clockwork Amulet (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - Tattoo of Darkvision (uncommon minor item, acquired from [[Cecilia Lister]] in [[Tollen]])
