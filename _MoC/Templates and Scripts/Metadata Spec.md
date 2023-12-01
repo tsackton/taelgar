@@ -200,7 +200,9 @@ requiredDisplayDefaults: {
 	"aPastHasStart": "<affiliationtitle:t> of <org> (<startDate> - <endDate>)",
 	"linkText": "",
 	"defArt": "",
-	"ruledBy" : ""
+	"ruledBy" : "",
+	"prep": "",
+	"indefArt" : ""
 }
 ```
 
@@ -231,9 +233,12 @@ The meaning of each display default follows. The defaults for various types can 
 * `aPastHasStart` is used by get_Affiliations to display an affiliation that has ended and has a  start date
 * `linkText` defines the word used for linking to a mechanics page. If it is blank/missing no D&D Beyond link is generated
 * `ruledBy` defines how to format the "ruled by" line for places that have rulers
+* `prep` defines the preposition to use when generating location chains for this page if the format `q` is specified
 
-Additionally, there is one special line for which the presence of the field has meaning, so it is not in the default structure:
+
+Additionally, there is two special lines for which the presence of the field has meaning, so it is not in the default structure:
 * `defArt` this is the article to put in front of the name, i.e. the. If this is not in the displayDefaults at all, the code generates the for 2 or more word names and no article otherwise. If it is in the displayDefaults with no value, or "" as value, there is no article generated. Otherwise, it is used as the article
+* `indefArt` defines the indefinite article to use for this page, in the off chance it is actually linked in a context where indefinite articles make sense. If no page exists, or the page exists and doesn't have an indefArt, the article is "a" unless the word starts "a e i o u " but not "uni", in which case it is "an"
 
 ### File Types
 

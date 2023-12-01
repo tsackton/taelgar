@@ -1,16 +1,19 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.25
+tags: [person]
 campaignInfo: []
 name: Colin
 born: 1691
 species: human
 ancestry: Sembaran
 gender: male
+affiliations:
+- {org: Lord's Guard of Cleenseau, title: Guardsman}
 ---
 # Colin
->[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-One of the town watch under [[Ysabel]]. 
+%% There is no information about this person; he is a random name in the town watch %%

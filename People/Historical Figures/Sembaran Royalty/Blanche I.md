@@ -1,29 +1,26 @@
 ---
-headerVersion: 2023.11.20
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [historical, person/ruler, status/needswork/notes]
 name: Blanche I
 born: 1538
 species: human
 ancestry: Sembaran
 gender: female
-reignStart: 1561-02-13
 died: 1567
 title: Queen
-leaderOf:
-- {place: Zovcka, title: High Queen, end: 1563}
-- {place: Sembara, title: High Queen}
-- {place: Ardlas, title: High Queen}
-- {place: Lavnoch, title: High Queen}
-- {place: Breva, title: High Queen}
-affiliations: [House of Sewick]
+affiliations:
+- {place: Zovcka, title: High Queen, start: 1561-02-13, end: 1563}
+- {place: Sembara, title: High Queen, start: 1561-02-13}
+- {place: Ardlas, title: High Queen, start: 1561-02-13}
+- {place: Lavnoch, title: High Queen, start: 1561-02-13}
+- {place: Breva, title: High Queen, start: 1561-02-13}
+- {org: House of Sewick, type: primary }
 ---
 # Queen Blanche I
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]], she/her of the [[House of Sewick]]
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A ruler of Sembara during the 1560s, she was the second child of [[Reginald]]. Her death launched the [[Interregum of 1568]], as her sisters, [[Anne]] and [[Elaine I]] disputed the succession.
 

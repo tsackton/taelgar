@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
+tags: [person, status/unknown]
 campaignInfo: []
 name: Jonathon Henwyn
 born: 1690
@@ -8,12 +8,15 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts:
-- {type: home,  location: 'Cleenseau'}
+- {type: home,  location: Cleenseau}
+affiliations:
+- {org: Essfords, title: Steward }
 ---
 # Jonathon Henwyn
 >[!info]+ Biographical Info
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The steward of the [[Essford Manor]] in [[Cleenseau]].

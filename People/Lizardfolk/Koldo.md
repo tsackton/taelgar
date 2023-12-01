@@ -1,19 +1,17 @@
 ---
-tags: [clee/unaware, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [person, status/unknown]
 name: Koldo
 born: 1512
 species: lizardfolk
 ancestry:
 gender: male
-whereabouts:
-- {type: home, location: Ganboa}
+whereabouts: Ganboa
 ---
 # Koldo
->[!info]+ Biographical Summary
->[[Lizardfolk|lizardfolk]], he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info
+> A [[Lizardfolk|lizardfolk]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A reclusive druid, very rarely talks to outsiders.

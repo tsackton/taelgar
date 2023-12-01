@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-campaignInfo: []
+tags: [historical, person/ruler, status/unknown]
 name: Reginald
 born: 1506
 species: human

@@ -75,6 +75,8 @@ If no format: preserve case
 **Other**
 * a, add calculated indefinite article
 * A, add calculated indefinite article if and only if it ends up as the first element in the string
+* x, exclude article entirely
+* q, include prepositions
 * !, use this format specification preferentially (overrides any other format specification that might apply)
 
 General order of precedence for format specifications is to start with the displayDefault specification, if it exists (e.g., <current:spec>), following the displayDefault chain as described in [[Metadata Spec#Display Defaults|Display Defaults]], and then if that string points to a particular whereabout location, apply the whereabout format specification for that location. However, the special character "!" in a spec overrides this behavior and ensures that spec will always be used. E.g.:

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, dufr/unaware, status/unknown]
 campaignInfo: []
 name: Anselm
 born: 1655

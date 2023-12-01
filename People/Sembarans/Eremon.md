@@ -1,20 +1,21 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [person, status/unknown]
 name: Eremon
 born: 1663
 species: human
 ancestry: Sembaran
 gender: male
 whereabouts:
-- {type: home, location: Fellburn}
+- {type: home, end: 1719-02-12, location: Fellburn}
+- {type: away, start: 1719-02-12, end: 1719-05-15, prefix: traveling through, location: Sembaran Borderlands }
 - {type: home, start: 1719-05-15, location: Cleenseau}
+- {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry }
+- {type: away, start: 1720-01-20, end: 9999, location: Embry }
 ---
 # Eremon
-he/him
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] male [[Humans|human]]
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

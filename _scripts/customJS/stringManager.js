@@ -1,26 +1,6 @@
 class StringFormatter {
 
-
-    #getCasing(format) {
-
-        let casing = customJS.NameManager.PreserveCase
-
-        if (format.includes("a")) casing = customJS.NameManager.PreserveCase
-        else if (format.includes("s")) casing = customJS.NameManager.LowerCase
-        else if (format.includes("t")) casing = customJS.NameManager.TitleCase
-
-        return casing
-    }
-
-    #getLinkType(format) {
-
-        let linkType = customJS.NameManager.LinkIfExists
-        if (format.includes("n")) linkType = customJS.NameManager.NoLink
-        else if (format.includes("y")) linkType = customJS.NameManager.CreateLink
-
-        return linkType
-    }
-
+   
     #getDefaultTypeOf(metadata) {
 
         if (metadata.typeOf) return metadata.typeOf
@@ -50,15 +30,11 @@ class StringFormatter {
         if (whereabout.awayEnd && targetDate && whereabout.awayEnd.sort < targetDate.sort) {
             followDate = whereabout.awayEnd
         }
-
-        
+    
         let formatStringToUse = whereabout.formatSpecifier ?? formatString
         if (formatString.includes("!")) formatStringToUse = formatString        
-        
-        let linkType = this.#getLinkType(formatStringToUse)
-        let casing = this.#getCasing(formatStringToUse)
 
-        return LocationManager.getCurrentLocationName(whereabout, targetDate, casing, formatStringToUse, linkType)
+        return LocationManager.getCurrentLocationName(whereabout, targetDate, formatStringToUse)
     }
 
 
@@ -79,13 +55,16 @@ class StringFormatter {
 
         let typeOf = this.#getDefaultTypeOf(metadata)
 
+
+        // bcdeghjkmvwyz
+
         // r p l i o f reserved for location stuff
 
         // t: title case; s: lower case, u: initial upper case
-        // a: indefinite article, A: indefinite article if first
+        // a: indefinite article, A: indefinite article if first, x: no article, q: preposition
         // n: never link, y: always link
         // !: ignore the whereabouts format
-        const regexp = /<(\([()a-zA-Z-:\s]+\))?([a-zA-Z]+):?([!0-9UutsaAnyRrPpLlIiOoFf]+)?(\([()a-zA-Z-:\s]+\))?>/g;
+        const regexp = /<(\([()a-zA-Z-:\s]+\))?([a-zA-Z]+):?([!0-9UutsaAnyRrPpLlIiOoFfxq]+)?(\([()a-zA-Z-:\s]+\))?>/g;
 
         let resultString = formatString
 
@@ -98,9 +77,12 @@ class StringFormatter {
             let prefix = matchItem[1]
             let suffix = matchItem[4]
 
+            let beforeThis = resultString.substr(0, resultString.indexOf(matchItem[0])).trim()
+            let isFirstPart = beforeThis.length == 0        
 
-            let linkType = this.#getLinkType(format)
-            let casing = this.#getCasing(format)
+            // replace A with a
+            if (isFirstPart) format = format.replace("A", "a")
+            if (isFirstPart) format = format.replace("U", "u")
 
             let value = metadata[key]
             if (additionalData && !value) {
@@ -108,7 +90,7 @@ class StringFormatter {
             }
 
             if (key == "name") {
-                value = NameManager.getName(name, linkType, casing)
+                value = NameManager.getName(name, format)
             } else if (key == "pronunciation") {
                 value = metadata.pronunciation
             } else if (key == "pronouns") {
@@ -118,13 +100,15 @@ class StringFormatter {
                     else if (metadata.gender) value = "they/them"
                 }
             } else if (key == "subtypeof" || key == "subtype") {
-                value = NameManager.getName(metadata.subTypeOf, linkType, casing)
+                value = NameManager.getName(metadata.subTypeOf, format)
             } else if (key == "maintype" || key == "typeof" || key == "type") {
-                value = NameManager.getName(metadata.species, linkType, casing, metadata.speciesAlias) ?? NameManager.getName(typeOf, linkType, casing, metadata.typeOfAlias)
+                value = NameManager.getName(metadata.species, format, metadata.speciesAlias) ?? NameManager.getName(typeOf, format, metadata.typeOfAlias)
+            } else if (key == "species") {
+                value = NameManager.getName(metadata.species, format, metadata.speciesAlias)
             } else if (key == "current") {
-                let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.current.location) {
-                    value = this.#getFormattedWhereaboutsString(wb.current, format, targetDate)
+                let wb = value ?? WhereaboutsManager.getWhereabouts(metadata, targetDate).current
+                if (wb.location) {
+                    value = this.#getFormattedWhereaboutsString(wb, format, targetDate)
                 } else {
                     value = "Unknown"
                 }
@@ -186,14 +170,14 @@ class StringFormatter {
                 else if (pageDateInfo.age) value = pageDateInfo.age + " years"
                 else value = ""
             } else if (key == "start") {
-                value = NameManager.getName(displayDefaults.startStatus, linkType, casing)
+                value = NameManager.getName(displayDefaults.startStatus, format)
             } else if (key == "end") {
-                value = NameManager.getName(displayDefaults.endStatus, linkType, casing)
+                value = NameManager.getName(displayDefaults.endStatus, format)
             } else if (key == "ka") {
                 if (metadata.species != "elf" && !metadata.ka) {
                     value = ""
                 } else {
-                    value = NameManager.getName("ka", linkType, casing) + " " + (metadata.ka ?? "unknown")
+                    value = NameManager.getName("ka") + " " + (metadata.ka ?? "unknown")
                 }
             } else if (key == "population") {
                 if (metadata.population) {
@@ -205,18 +189,16 @@ class StringFormatter {
                 }
             }
             else if (key == "partof") {
-                value = AffiliationManager.getAffiliationPartOf(metadata, linkType, casing)
+                value = AffiliationManager.getAffiliationPartOf(metadata, format)
             }
             else if (key == "primary") {
                 value = AffiliationManager.getFormattedPrimaryAffiliations(metadata, targetDate)
             }
             else {
-                value = NameManager.getName(value, linkType, casing)
+                value = NameManager.getName(value, format)
             }
 
-            let beforeThis = resultString.substr(0, resultString.indexOf(matchItem[0])).trim()
-            let isFirstPart = beforeThis.length == 0        
-
+        
             if (value) {
                 if (prefix) {
                     value = prefix.substr(1, prefix.length-2) + value
@@ -224,22 +206,7 @@ class StringFormatter {
 
                 if (suffix) {
                     value = value + suffix.substr(1, suffix.length-2)
-                }
-
-                let trimmedValue = value.replace("[[", "").replace("]]", "").replace("[", "").replace("]", "").toLowerCase()
-                let firstChar = trimmedValue[0]
-                let article = "a"
-                if (firstChar == "a" || firstChar == "e" || firstChar == "i" || firstChar == "o" || firstChar == "u") {
-                    article = "an"
-                }
-
-                if (format.includes("a") || (format.includes("A") && isFirstPart)) {
-                    value = article + " " + value
-                }
-                                
-                if (format.includes("u") || (format.includes("U") && isFirstPart)) {
-                    value = value.charAt(0).toUpperCase() + value.slice(1)
-                }
+                }                                          
             }
 
             resultString = resultString.replace(matchItem[0], value ?? "")

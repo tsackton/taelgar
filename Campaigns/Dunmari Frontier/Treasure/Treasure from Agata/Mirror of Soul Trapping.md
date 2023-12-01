@@ -3,16 +3,17 @@ headerVersion: 2023.11.25
 typeOf: mirror
 tags: [item, item/magical, status/unknown]
 whereabouts:
-- {type: home, location: unknown hobgoblin wizard}
+- {type: home, location: unknown hobgoblin wizard, prefix: by an }
 - {type: home, location: dufr}
 - {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
 - {type: away, location: Vindristjarna}
-displayDefaults: {wCurrent: 'Stored on: <current:r>'}
+displayDefaults: {wCurrent: 'Stored <current:rq>'}
 rarity:
 ---
 # The Mirror of Soul Trapping
 >[!info]+ Information
-> (magical mirror)
+> (mirror)
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.

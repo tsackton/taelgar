@@ -1,8 +1,7 @@
 ---
-headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [person, status/needswork/notes]
+campaignInfo: [ { campaign: clee }]
 name: Odo Cordwaner
 born: 1700
 species: human
@@ -11,11 +10,12 @@ gender: male
 title: Sergeant
 whereabouts:
 - {type: home, location: Cleenseau}
-- {type: home, start: 1719-10-21, location: Taviose}
+- {type: away, start: 1719-10-21, end: 1719-10-23, location: Taviose}
+- {type: home, start: 1719-11-16, location: Taviose}
 ---
 # Sergeant Odo Cordwaner
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]], he/him
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

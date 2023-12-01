@@ -1,25 +1,23 @@
 ---
-headerVersion: 2023.11.20
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [historical, person/ruler, status/unknown]
 name: Derik II
 born: 1422
 species: human
 ancestry: Sembaran
 gender: male
 title: King
-reignStart: 1462
-leaderOf:
-- {place: Sembara}
-- {place: Tyrwingha}
+affiliations:
+- {place: Sembara, start: 1462}
+- {place: Tyrwingha, start: 1462}
+- {org: House of Sewick, type: primary}
 died: 1496
 ---
 # King Derik II
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]], he/him
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The second king of modern Sembara. He reigned from his father's death in DR 1462 until his death in DR 1496. 
 

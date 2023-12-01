@@ -1,6 +1,6 @@
 ---
-tags: [clee/unsorted, person/ruler, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.25
+tags: [person/ruler, status/unknown]
 campaignInfo: []
 name: Arryn III
 born: 1702
@@ -11,12 +11,12 @@ reignStart: 1745
 leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
-affiliations: [House of Lils]
+affiliations: [{org: House of Lils, type: primary}]
 ---
 # Arryn III
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Lils]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Lils]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The king of Sembara in the 1740s, he is a quiet ruler and has largely maintained the peace and prosperity of his mother, [[Elaine II]]. He came to the throne in DR 1745 on her death.

@@ -36,25 +36,18 @@ class LocationManager {
         }
 
         return false
-
-        let match = new RegExp("[~A-Z]{1}").exec(startingLocation)
-        if (match && match.index > 0) {
-            return this.isInLocation(startingLocation.substring(match.index), targetLocation)
-        }
-
-        return false;
     }
 
-    getCurrentLocationName(whereabout, targetDate, casing = "preserve", formatString = "", linkType = "always") {
+    getCurrentLocationName(whereabout, targetDate, formatString = "") {
 
         // fasly locations (null, undefined, empty string) are always unknown
-        if (!whereabout.location){
+        if (!whereabout.location) {
             if (whereabout.prefix) return whereabout.prefix + " Unknown"
             else return "Unknown"
-        } 
+        }
 
         // we want the current depth to start at 1, i.e. if the max depth is 2 we want the first and second pieces
-        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, linkType, casing, formatString).trim()
+        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, formatString, undefined).trim()
 
         if (outStr.endsWith(",")) outStr = outStr.substring(0, outStr.length - 1)
 
@@ -171,29 +164,37 @@ class LocationManager {
         return successResult
     }
 
-    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, linkType, casing, format) {
+    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, format, thisPrep) {
 
         const { NameManager } = customJS
+        const { StringFormatter } = customJS
         const { WhereaboutsManager } = customJS
 
-
-        if (!whereabout || !whereabout.location) {            
+      
+        if (!whereabout || !whereabout.location) {
             return whereabout.prefix ?? ""
         }
-      
 
-        let nameSection = NameManager.getName(whereabout.location, linkType, casing)
+       let file = NameManager.getFileForTarget(whereabout.location)
+     
+        // exclude prepositions
+        let formatToUse = format.replace("q", "")
+
+        if ((file && NameManager.getDisplayData(file.frontmatter)?.prep != thisPrep) && !whereabout.prefix) {
+            formatToUse = format
+        }
+
+        let nameSection = NameManager.getName(whereabout.location, formatToUse)
         if (whereabout.prefix) nameSection = whereabout.prefix + " " + nameSection
 
-        if (whereabout.location == "Taelgar") {            
+        if (whereabout.location == "Taelgar") {
             // Taelgar is handling specially
             if (thisDepth > 1) return ""
             if (format.includes("r")) return ""
-            
+
             return nameSection
         }
-        
-        let file = NameManager.getFileForTarget(whereabout.location)
+
 
         // we can't keep going, because this piece doesn't exist
         if (!file) {
@@ -203,13 +204,14 @@ class LocationManager {
 
                 // at the moment there is a bug where the filters ignore this type of thing - or more accurately, we end up with the "travelling in " or whatever piece added no matter what
                 let potentialNextPiece = whereabout.location.substring(match.index)
-                return whereabout.location.substring(0, match.index) + " " + this.#getLocationFromPartOfs({location: potentialNextPiece}, targetDate, thisDepth, linkType, casing, format)
+                return this.#getLocationFromPartOfs({ location: potentialNextPiece, prefix: whereabout.location.substring(0, match.index) }, targetDate, thisDepth, format, thisPrep)
             }
 
             return nameSection
         } else {
 
             let nextLevelCheck = this.#shouldAllowPiece(format, thisDepth, file.frontmatter)
+            let nextPrep = NameManager.getDisplayData(file.frontmatter)?.prep
 
             if (!nextLevelCheck.continue) {
                 return nameSection ?? ""
@@ -222,11 +224,13 @@ class LocationManager {
             if (nextLevelCheck.allowed) {
                 // this piece is allowed, add it //
                 returnValue += nameSection + ", "
+            } else {
+                nextPrep = thisPrep
             }
 
             if (nextLevelCheck.continue && nextLevel) {
-                // we are allowed to continue, and we have somewhere to go //
-                returnValue += this.#getLocationFromPartOfs(nextLevel, targetDate, nextDepth, linkType, casing, format)
+                // we are allowed to continue, and we have somewhere to go //                
+                returnValue += this.#getLocationFromPartOfs(nextLevel, targetDate, nextDepth, format, nextPrep)
             }
 
             return returnValue

@@ -1,16 +1,21 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.25
+tags: [person, status/unknown]
 campaignInfo: []
 name: Jon
 born: 1700
 species: human
 ancestry: Sembaran
 gender: male
+affiliations:
+- {org: Lord's Guard of Cleenseau, type: Gateguard}
+whereabouts: Cleenseau
 ---
 # Jon
->[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A deputy of Ysabel and gateguard; just 19, but strong and quick with a spear.

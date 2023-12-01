@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/unknown]
 campaignInfo: []
 name: Tal
 born:

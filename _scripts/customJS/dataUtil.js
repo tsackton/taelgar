@@ -1,6 +1,6 @@
 class DateManager {
 
-   #getAge(older, younger) {
+    #getAge(older, younger) {
 
         if (older == undefined || younger == undefined) return undefined;
 
@@ -81,6 +81,10 @@ class DateManager {
 
 
     getTargetDateForPage(metadata) {
+        if (customJS.state.overrideDate) {
+            return this.normalizeDate(customJS.state.overrideDate, false);
+        }
+
         if (metadata && metadata.pageTargetDate) {
             return this.normalizeDate(metadata.pageTargetDate, false);
         }
@@ -103,7 +107,7 @@ class DateManager {
 
             if (date.year == 9999) return ""
             if (date.year == 1 && ((date.month == 0 && date.day == 1) || (date.month == 11 && date.day == 31))) return ""
-  
+
             return FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
         }
 
@@ -174,8 +178,7 @@ class DateManager {
 
             case "object":
                 if (inputDate.year == undefined) {
-                    console.log("Error - unable to parse input date that is an object but doesn't have a year: " + inputDate)
-                    return undefined;
+                     return undefined;
                 }
 
                 if (inputDate.isLuxonDateTime) {
@@ -190,8 +193,7 @@ class DateManager {
                 }
                 return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isEventsDate: true };
         }
-
-        console.log("Error - unable to parse input date: " + inputDate)
+    
         return undefined;
     }
 
