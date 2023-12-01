@@ -1,7 +1,6 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [historical, person, status/unknown]
 name: Gyles
 born: 1634
 species: human
@@ -9,12 +8,12 @@ ancestry: Sembaran
 gender: male
 reignStart:
 died: 1706
-affiliations: [House of Lils]
+affiliations: [{org: House of Lils, type: primary}]
 ---
 # Gyles
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Lils]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Lils]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A cousin of the Sembaran royal [[House of Sewick]], he lived during the reign of [[Cece I]].

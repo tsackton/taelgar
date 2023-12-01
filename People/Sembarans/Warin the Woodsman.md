@@ -1,15 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [clee/unaware, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/unknown]
 campaignInfo: []
 name: Warin the Woodsman
 born: 1671
 species: human
 ancestry: Sembaran
 gender: male
-whereabouts:
-- {type: home,  location: 'Valit'}
+whereabouts: Valit
 ---
 # Warin the Woodsman
 >[!info]+ Biographical Info

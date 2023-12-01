@@ -1,20 +1,21 @@
 ---
-tags: [clee/minor, person, dufr/unaware, clee/aware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [person, status/unknown]
 name: Sabine de Brune
 born: 1662
 species: human
 ancestry: Sembaran
 gender: female
+affiliations:
+- {org: Valit, title: Castellan }
 whereabouts: Valit
 ---
-# Sabine de Brune
->[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Based in: [[Valit]], [[Sembara]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+# Sabine De Brune
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The aging castellan of [[Valit]], a vassal of the [[Baron of Aveil]]. Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth.
 

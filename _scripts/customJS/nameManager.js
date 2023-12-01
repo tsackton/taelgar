@@ -8,6 +8,41 @@ class NameManager {
     NoLink = "never"
     LinkIfValid = "exists"
 
+    #getIncludePreposition(format) {
+
+        return format.includes("q")
+    }
+
+    #getArticleType(format) {
+
+        // a: indefinite article, A: indefinite article if first, x: no article, q: preposition
+
+        if (format.includes("x")) return "none"
+        else if (format.includes("a")) return "indef"
+
+        return "def"
+    }
+
+    #getCasing(format) {
+
+        let casing = this.PreserveCase
+
+        if (format.includes("s")) casing = this.LowerCase
+        else if (format.includes("t")) casing = this.TitleCase
+
+        return casing
+    }
+
+    #getLinkType(format) {
+
+        let linkType = this.LinkIfExists
+        if (format.includes("n")) linkType = this.NoLink
+        else if (format.includes("y")) linkType = this.CreateLink
+
+        return linkType
+    }
+
+
     #getElementFromMetadata(elem) {
         if (customJS.state.coreMeta) {
             return customJS.state.coreMeta[elem];
@@ -45,10 +80,12 @@ class NameManager {
             join(' ')
     }
 
-    #processDescriptiveName(descriptiveName, targetLink, article, linkType = "exists", casing = "preserve") {
+    #processDescriptiveName(descriptiveName, targetLink, article, linkType = "exists", casing = "preserve", initialUpper = false) {
 
-        if (!article) article = ""
+
         if (!descriptiveName) return undefined
+        if (!article) article = ""
+
 
         descriptiveName = descriptiveName.trim()
 
@@ -59,7 +96,10 @@ class NameManager {
         } else if (casing == this.LowerCase) {
             descriptiveName = descriptiveName.toLowerCase()
             article = article.toLowerCase()
-        } else if (casing == this.InitialUpperCase) {
+        }
+
+
+        if (initialUpper) {
             if (article && article.length > 0) {
                 article = article.charAt(0).toUpperCase() + article.slice(1);
             } else {
@@ -182,17 +222,77 @@ class NameManager {
     }
 
 
-    // this returns a name only if the (a) file exists and (b) matches the filter
-    getFilteredName(target, filter, linkType = this.LinkIfValid, casing = this.PreserveCase, alias) {
+    #getArticle(descriptiveName, metadata, articleType, includePreposition) {
+
+        if (!descriptiveName) return ""
+
+        let displayData = metadata ? this.getDisplayData(metadata) : {}
+        let article = ""
+
+        if (articleType == "def") {
+            // add definitive article //
+            if ("defArt" in displayData) {
+                // we have a page override, use as is
+                // if null or undefined or blank, don't add anything
+                if (displayData.defArt)
+                    article = displayData.defArt;
+                else
+                    article = ""
+            }
+            else if (metadata && descriptiveName.split(' ').length > 1) {
+                // name is more than one piece
+                article = "the";
+            }
+        } else if (articleType == "indef") {
+            // add definitive article //
+            if ("indefArt" in displayData) {
+                // we have a page override, use as is
+                // if null or undefined or blank, don't add anything
+                if (displayData.indefArt)
+                    article = displayData.indefArt;
+                else
+                    article = ""
+            } else {
+
+                let lowered = descriptiveName.toLowerCase()
+                article = "a"
+                if (lowered.startsWith("uni")) {
+                    article = "a"
+                } else if (lowered[0] == "a" || lowered[0] == "e" || lowered[0] == "i" || lowered[0] == "o" || lowered[0] == "u") {
+                    article = "an"
+                }
+            }
+        }
+
+        if (includePreposition) {
+            if ("prep" in displayData) {
+                if (displayData.prep) {
+                    article = displayData.prep + " " + article
+                }
+            }
+        }
+
+        return article.trim()
+    }
+
+    // linkType = "never" | "always" | "exists"
+    // casing = "title" | "lower" | "preserve" | "initialUpper"
+    // articleType = "def" | "indef" | "none"
+    getName(target, format = "", alias = undefined) {
 
         // this gets the canonical name of a potential link
         if (!target || target == "Untitled") return undefined
 
+        let linkType = this.#getLinkType(format)
+        let casing = this.#getCasing(format)
+        let articleType = this.#getArticleType(format)
+        let includePreposition = this.#getIncludePreposition(format)
+
         if (linkType == this.CreateLink) {
             if (target.includes(",")) linkType = this.LinkIfValid
             let fragmentsThatDontAlwaysLink = this.#getElementFromMetadata("fragmentsThatDontAutoLink")
-            if (fragmentsThatDontAlwaysLink) {              
-                for (let word of target.split(' ')) {                  
+            if (fragmentsThatDontAlwaysLink) {
+                for (let word of target.split(' ')) {
                     if (fragmentsThatDontAlwaysLink.includes(word.toLowerCase())) {
                         linkType = this.LinkIfValid
                         break
@@ -201,17 +301,14 @@ class NameManager {
             }
         }
 
-        let fileData = this.getFileForTarget(target, filter)
+        let fileData = this.getFileForTarget(target)
 
         if (!fileData) {
-            if (filter) return undefined
-
-            return this.#processDescriptiveName(alias ?? target, undefined, "", linkType, casing)
+            return this.#processDescriptiveName(alias ?? target, undefined, this.#getArticle(alias ?? target, undefined, articleType, includePreposition), linkType, casing, format.includes("u"))
         }
 
         let frontmatter = fileData.frontmatter
         let selectedDescriptiveName = alias ?? (fileData.isAlias ? target : fileData.filename)
-        let article = ""
 
         if (!fileData.isAlias && !alias) {
             if (frontmatter.title && frontmatter.name) {
@@ -222,29 +319,8 @@ class NameManager {
             } else if (frontmatter.campaign && frontmatter.sessionNumber) {
                 selectedDescriptiveName = frontmatter.campaign + " " + frontmatter.sessionNumber
             }
-
-            let displayData = this.getDisplayData(frontmatter)
-
-            // add definitive article //
-            if ("defArt" in displayData) {
-                // we have a page override, use as is
-                // if null or undefined or blank, don't add anything
-                if (displayData.defArt)
-                    article = displayData.defArt;
-            }
-            else if (selectedDescriptiveName.split(' ').length > 1) {
-                // name is more than one piece
-                article = "the";
-            }
         }
-
-        return this.#processDescriptiveName(selectedDescriptiveName, fileData.filename, article, linkType, casing)
-
-    }
-
-    // linkType = "never" | "always" | "exists"
-    // casing = "title" | "lower" | "preserve"
-    getName(target, linkType = this.LinkIfValid, casing = this.PreserveCase, alias = undefined) {
-        return this.getFilteredName(target, undefined, linkType, casing, alias)
+        
+        return this.#processDescriptiveName(selectedDescriptiveName, fileData.filename, this.#getArticle(selectedDescriptiveName, frontmatter, articleType, includePreposition), linkType, casing, format.includes("u"))
     }
 }

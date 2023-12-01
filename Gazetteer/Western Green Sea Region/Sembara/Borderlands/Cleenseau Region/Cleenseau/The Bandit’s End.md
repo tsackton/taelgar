@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {defArt: ''}
+displayDefaults: {defArt: '', prep: at}
 campaignInfo: []
 name: The Bandit’s End
 ancestry: Sembaran

@@ -1,7 +1,6 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [historical, person/ruler, status/needswork/notes]
 name: Derik III
 born: 1484
 species: human
@@ -10,22 +9,21 @@ gender: male
 leaderOf:
 - {place: Vostok, title: Prince of the North, start: 1508, end: 1519}
 - {place: Zovcka, title: Prince of the North, start: 1508, end: 1519}
-- {place: Sembara, title: High King}
-- {place: Tyrwingha, title: High King}
-- {place: Ardlas, title: High King}
-- {place: Lavnoch, title: High King}
-- {place: Breva, title: High King}
-- {place: Vostok, title: High King}
-- {place: Zovcka, title: High King}
+- {place: Sembara, title: High King, start: 1519 }
+- {place: Tyrwingha, title: High King, start: 1519 }
+- {place: Ardlas, title: High King, start: 1519 }
+- {place: Lavnoch, title: High King, start: 1519 }
+- {place: Breva, title: High King, start: 1519 }
+- {place: Vostok, title: High King, start: 1519 }
+- {place: Zovcka, title: High King, start: 1519 }
 title: King
 died: 1549
-reignStart: 1519
 ---
 # King Derik III
->[!info]+ Biographical Summary
->human (Sembaran), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->`$=dv.view("_scripts/view/get_RegnalValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The king of Sembara during the [[Great War]]; of the [[House of Sewick]]. He reigned from his mother [[Charlotte I|Charlotte I's]] death in DR 1519 until his death, shortly after the end of the Great War, in DR 1549. 
 

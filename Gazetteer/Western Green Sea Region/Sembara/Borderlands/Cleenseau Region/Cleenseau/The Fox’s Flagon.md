@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, place/building, status/unknown]
-displayDefaults: {defArt: ''}
+displayDefaults: {defArt: '', prep: at}
 campaignInfo: []
 name: The Fox’s Flagon
 typeOf: inn

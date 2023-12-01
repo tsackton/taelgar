@@ -6,6 +6,7 @@ campaignInfo:
 - { campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
 name: Corrin Wildheart
 born:
+pageTargetDate: 1748-10-12
 species: halfling
 ancestry:
 gender: male
@@ -13,7 +14,7 @@ affiliations:
 - {org: Wildhearts, type: primary}
 - {org: Wave Dancer, title: Navigator}
 whereabouts: 
-- {type: home, location: Wave Dancer, wHome: "Based on: <home>", wHomePast: "Was based on: <home>"}
+- {type: home, location: Wave Dancer, wHome: "Based <home:q>", wHomePast: "Was based <home:q>"}
 ---
 # Corrin Wildheart
 >[!info]+ Biographical Info

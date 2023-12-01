@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/unknown]
 campaignInfo: []
 name: Vistra Fireforge
 born: 1589

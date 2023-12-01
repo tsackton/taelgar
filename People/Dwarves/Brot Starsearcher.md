@@ -1,6 +1,6 @@
 ---
-headerVersion: 2023.11.20
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
+headerVersion: 2023.11.25
+tags: [person, status/unknown]
 campaignInfo:
 - {campaign: clee, date: 1720-01-03}
 name: Brot Starsearcher
@@ -15,10 +15,10 @@ whereabouts:
 ---
 # Brot Starsearcher
 >[!info]+ Biographical Info
-> [[Dwarves|dwarf]], they/them
+> A [[Dwarves|dwarf]] (they/them)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 in [[Taviose]], [[Sembara]] %%^End%%
+>> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 in [[Taviose]], [[Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
 A dwarven astronomer and tinkerer known for their clever telescope designs who lives in [[Taviose]], a small village on the outskirts of [[Cleenseau]]. 
 

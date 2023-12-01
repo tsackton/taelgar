@@ -1,6 +1,6 @@
 class AffiliationManager {
 
-    #getPartOfChain(partOfPiece, targeDate, thisDepth, maxDepth, linkType, casing) {
+    #getPartOfChain(partOfPiece, targeDate, thisDepth, maxDepth, format) {
 
         const { NameManager } = customJS
 
@@ -8,7 +8,7 @@ class AffiliationManager {
         if (!partOfPiece) return ""
         if (partOfPiece == "Taelgar") return ""
 
-        let nameSection = NameManager.getName(partOfPiece, linkType, casing)
+        let nameSection = NameManager.getName(partOfPiece, format)
         let file = NameManager.getFileForTarget(partOfPiece)
 
         // we can't keep going, because this piece doesn't exist
@@ -16,7 +16,7 @@ class AffiliationManager {
             // lets see if we have a match to our capital letter check
             let match = new RegExp("[~A-Z]{1}").exec(partOfPiece)
             if (match && match.index > 0) {
-                return partOfPiece.substring(0, match.index) + " " + this.#getPartOfChain(partOfPiece.substring(match.index), targeDate, thisDepth, maxDepth, linkType, casing)
+                return partOfPiece.substring(0, match.index) + " " + this.#getPartOfChain(partOfPiece.substring(match.index), targeDate, thisDepth, maxDepth, format)
             }
 
             return nameSection
@@ -28,7 +28,7 @@ class AffiliationManager {
             }
 
             if (nextLevel) {
-                return nameSection + ", " + this.#getPartOfChain(nextLevel, targeDate, thisDepth + 1, maxDepth, linkType, casing)
+                return nameSection + ", " + this.#getPartOfChain(nextLevel, targeDate, thisDepth + 1, maxDepth, format)
             }
 
             return nameSection
@@ -240,10 +240,10 @@ class AffiliationManager {
     }
 
 
-    getAffiliationPartOf(metadata, linkType, casing) {
+    getAffiliationPartOf(metadata, format) {
 
         if (metadata.partOf) {
-            return this.#getPartOfChain(metadata.partOf, undefined, 0, undefined, linkType, casing)
+            return this.#getPartOfChain(metadata.partOf, undefined, 0, undefined, format)
         }
 
         return ""

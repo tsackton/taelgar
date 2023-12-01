@@ -1,6 +1,5 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/unknown]
 campaignInfo: []
 name: Terry the Bandit
 born:

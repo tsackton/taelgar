@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
+tags: [person, dufr/unaware, status/unknown]
 campaignInfo: [ {campaign: clee, date: 1720-01-03 }]
 name: Ames Benthey
 born: 1675
