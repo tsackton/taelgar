@@ -9,9 +9,9 @@ The upper deck consists of, from stern to prow:
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and the map room, tended by [[Wellby]] (%% assistant tbd %%)
 * On a sky deck built above the map room, [[Seeker|Seeker's]] observatory
 * the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorating with memorials to the adventures of the [[Dunmar Fellowship]] and tended by [[Kenzo]] and [[Amil]]
-
-#### Mechanics and Space Usage
-Used space: 328 squares 
+* in the bow, [[Baxter|Baxter's]] stable, tended by [[Wellby]]
+### Mechanics and Space Usage
+Used space: 364 squares 
 
 > [!info]+ Tanshi Shrine
 > >Tended by: [[Delwath]]
@@ -92,6 +92,15 @@ Used space: 328 squares
 > 
 > Situated atop your Bastion, your Observatory contains a powerful telescope aimed at the night sky. You can use your Observatory to peer into the far corners of Wildspace and the Astral Plane, if not the heavens. Whenever you spend an entire Long Rest in your Observatory, you can cast Contact Other Plane once within the next 7 days without expending a spell slot. When you issue the Empower order to this facility, you enable yourself or the facility’s hireling to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the number rolled is even, nothing is gained. If the number rolled is odd, an unknown power bestows one of the following supernatural charms on you or another creature of your choice that is on the same plane of existence as you: Charm of Darkvision, Charm of Heroism, or Charm of Vitality (all described in the Dungeon Master’s Guide).
 
+
+> [!info]+ Stable
+> > Tended by: [[Wellby]]
+> >Game Effect: Stable
+> >Size: 36 squares (Vast)
+> >Order: Trade (1d6 BP)
+> 
+> A Bastion can have more than one Stable. Each Stable comes with one Riding Horse (or Camel) and two Ponies (or two Mules). The facility is big enough to house three Large animals. Two Medium creatures occupy the same amount of space as one Large creature. The facility’s hireling looks after these creatures. After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom (Animal Handling) checks made with respect to it have Advantage, as the animal becomes easier to handle. When you issue the Trade order to this facility, you commission the facility’s hireling to buy or sell one or more mounts at normal cost, keeping the ones you buy in your Stable. The work takes 7 days, and the DM decides what types of animals are available for purchase— horses, ponies, and mules being the most common. The Mounts and Other Animals table in the Player’s Handbook gives standard prices for various mounts, including camels, horses, ponies, and mules. When you sell a mount from your Stable, the buyer pays you 20 percent more than the standard price; this profit increases to 50 percent when you reach level 13 and 100 percent when you reach level 17
+
 # Lower Deck
 *480 squares*
 Used space: 204 squares
@@ -100,7 +109,7 @@ The lower deck consists of, from stern to prow:
 
 * [[Seeker|Seeker's]] game room
 * [[Faldrak Bronzehammer|Faldrak's]] workshop
-* the archives and research library, tended by [[Nurzkar]]
+* the archives and research library, tended by [[Nuzkar]]
 * a sparing and exercise room, tended by [[Aygul]]
 * a shring to the [[Bahrazel]], tended by [[Riswynn]]
 * the smithy, tended by ~smith~
@@ -145,7 +154,7 @@ The lower deck consists of, from stern to prow:
 > **Weapon Expert** Choose a type of Simple or Martial weapon, such as Spear or Longbow. If you aren’t proficient with the weapon, you gain proficiency with it for the next 7 days. If you already have proficiency with the weapon, you can use its Mastery property for the next 7 days
 
 > [!info]+ Archives
-> >Tended by:  [[Nurzkar]]
+> >Tended by:  [[Nuzkar]]
 > >Game Effect: Archive
 > >Size: 16 squares (Roomy)
 > > Order: Research (1d8 BP)
@@ -193,20 +202,9 @@ The lower deck consists of, from stern to prow:
 
 
 # Storage Deck
-Used space: 72 squares
+Used space: 36 squares
 
-The storage deck consists of, from stern to prow:
-
-* [[Baxter|Baxter's]] accomodations and stable area
-* a storage hold
-
-> [!info]+ Stable
-> > Tended by: [[Wellby]]
-> >Game Effect: Stable
-> >Size: 36 squares (Vast)
-> >Order: Trade (1d6 BP)
-> 
-> A Bastion can have more than one Stable. Each Stable comes with one Riding Horse (or Camel) and two Ponies (or two Mules). The facility is big enough to house three Large animals. Two Medium creatures occupy the same amount of space as one Large creature. The facility’s hireling looks after these creatures. After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom (Animal Handling) checks made with respect to it have Advantage, as the animal becomes easier to handle. When you issue the Trade order to this facility, you commission the facility’s hireling to buy or sell one or more mounts at normal cost, keeping the ones you buy in your Stable. The work takes 7 days, and the DM decides what types of animals are available for purchase— horses, ponies, and mules being the most common. The Mounts and Other Animals table in the Player’s Handbook gives standard prices for various mounts, including camels, horses, ponies, and mules. When you sell a mount from your Stable, the buyer pays you 20 percent more than the standard price; this profit increases to 50 percent when you reach level 13 and 100 percent when you reach level 17
+The storage deck is currently unfinished and is primarily used as an actual storage hold.
 
 > [!info]+ Storage Hold
 > > Tended by: [[Adam Gower]], from [[Tollen]]
