@@ -87,6 +87,12 @@ Descendants of people who fled north and east from the Drankorian Western Wars. 
 
 Also descendants of people who fled Drankorian expansion, seaward. While never formally conquered, these people were much more significantly influenced by Drankor, and adopted Mos Numena albeit with some quirks, retaining a bit of their intercessory heritage with the prevalence of "saints and heroes" as a focal point of prayer among the Mawar. Although politically diverged, this is presumably also related to the culture of the whole "Mawar Bay / Great Bay" area, including the coast west of Voltara and the island off Mawar. Potentially some religious diversity, with northern folk religions also playing a role in some parts of the Mawaran cultural spread (perhaps on the big island or the northern stretches of the Great Bay there is a more pure ancestor worship variant of the tanshi tradition with old roots).
 
+%% An alternative might be for Mawar to be, for undefined historically contingent reasons, somewhat unique. I'm not sure it has to be related to the ~Great Bay~ cultures along the west coast of Voltara. 
+
+This would leave the Voltaran coast plains and northern parts of the bay not-very-related to Mawar, but I actually think leaving some blanks on the map is a good idea in terms of having places where someone in Voltara or Chardon or Mawar would say there are no people there, as well as places that just no one knows even exist (the big island chain)
+
+%%
+
 #### Island Culture (Not Canon Yet)
 
 Theoretically, the culture of the mysterious islands off the western coast of the mainland are relatively pure Northerner, never conquered by Drankor. Potentially these people retained connections to Drankor in a way that other Northerner cultures didn't, but this is left undeveloped for now.
@@ -103,9 +109,13 @@ These are the people who have a Northerner heritage, but were strongly influence
 
 The people who are the descendants of Northerners who were either conquered by Drankor, or ended up strongly influenced by Drankor and intermixing. Generally speaking, this is the broad swath of people who were subjects of the Drankorian Empire and lived north of Chardon. These people were the backbone of the diverse set of small kingdoms and realms that existed in the north pre-Great-War. Their culture was largely Drankorian, with the opportunity for some quirks/oddities/etc as desired. Tend to think of these cultures as kind of broadly Germanic, but also probably a lot of diversity, with some groups tending more towards Mawaran and others more Drankorian, in a broadly north/south gradient. These people suffered greatly in the Great War, as pretty much all the densest population areas of this culture were either destroyed by dragons or conquered and ruled by hobgoblins. In the current day, the more "Drankorian" flavor of this population is the heartland of the Chardonian Empire living on the agricultural coast, and the more "Mawaran" tends to the interior around Lake Valandros and north. These people are generally Mos Numena worshippers. 
 
+%% Is Mawar as a cultural trend outside the peninsula canonically established? %%
+
 #### Ilorian
 
 The islands of the Nevos Sea were conquered by Drankor and converted to Mos Numena, but never fully integrated into the empire. Illoria has always been a melting pot, and the people of the islands were historically a mix of Northerners and probably some later Hkaran migrants, so even before the downfall this was a blended place. In current day also includes people with Dunmari ancestry, some "northern realms culture" refugees, Drankorian refugees, some of everybody. Probably one of the most religiously diverse places on the mainland. 
+
+%% Illoria seems like a place that could have a cultural descendancy from the "southern" exodus, although probably not a cultural connection. Perhaps Illorian is a unique language that is more related to Southern than anything else? %%
 
 #### Peninsula Culture (Not Canon Yet)
 
@@ -129,6 +139,7 @@ Largely destroyed in the Great War. Not super developed.
 #### Sembaran
 
 The Drankorian-influenced culture of the Sembaran lowlands. 
+
 
 ### Mariner
 
