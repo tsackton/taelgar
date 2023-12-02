@@ -6,6 +6,7 @@ campaignInfo: []
 name: Isingue
 destroyed: 1545
 typeOf: city
+subTypeOf: ruined
 partOf: Istabor Alliance
 ---
 # Isingue

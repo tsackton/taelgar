@@ -3,6 +3,7 @@ headerVersion: 2023.11.20
 tags: [event, status/unknown]
 DR: 1748-12-14
 partOf: The Siblings War
+typeOf: battle
 ---
 # The Battle of Tokra
 >[!info]+ Information

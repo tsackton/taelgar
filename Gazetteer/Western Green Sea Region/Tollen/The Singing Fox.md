@@ -1,7 +1,7 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {defArt: ''}
+displayDefaults: {defArt: '', prep: "at"}
 campaignInfo: []
 name: The Singing Fox
 typeOf: inn
@@ -10,6 +10,7 @@ partOf: Fairgate Outer
 ---
 # The Singing Fox
 >[!info]+ Information
-> A [[Halflings|halfling]] inn in [[Fairgate Outer]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A cozy halfling tavern in Fairgate Outer, run by [[Chenna Goodbarrel]] and her wife [[Harriet Goodbarrel|Harriet]]. Harriet is a decent singer and The Singing Fox gets a decent crowd (mostly locals and passing halflings) when she is performing. 

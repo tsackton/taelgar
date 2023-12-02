@@ -3,7 +3,7 @@ tags: [place, event-source, status/unknown]
 campaignInfo:
 name: Great Library
 partOf: Chardon
-typeOf: university
+typeOf: library
 ---
 # The Great Library
 

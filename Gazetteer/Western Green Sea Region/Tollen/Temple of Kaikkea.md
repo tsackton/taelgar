@@ -4,6 +4,7 @@ tags: [place, status/unknown]
 campaignInfo: []
 name: Temple of Kaikkea
 typeOf: holy site
+ancestry: Skaer
 typeOfAlias: temple
 affiliations: [{org: Kaikkea, type: primary}]
 partOf: Tollen

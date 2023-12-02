@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/notes, status/unknown]
 displayDefaults: {defArt: ''}
 name: Eastern Dunmar
-typeOf: region
+typeOf: subregion
 partOf: Dunmar
 ---
 # Eastern Dunmar

@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: ['#event-source', status/unknown]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
@@ -7,6 +8,8 @@ DR: 1545
 DR_end: 1600
 ---
 # The Blood Years
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 An informal name for the roughly fifty year period after the [[Great War]], marked by continued conflict in the many parts of the world.
 
