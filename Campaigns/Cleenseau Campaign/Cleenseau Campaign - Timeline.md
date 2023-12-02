@@ -32,14 +32,14 @@ timelineDescriptor: Cleenseau Campaign
 * October 29th: the party visits [[Asineau]]
 * October 30th: the party continues the investigation of [[Gentza|Gentza's]] murder
 ### November
-* November 2nd: the party shares their suspicions about [[François the Bandit]] with [[Rosalind Essford]] and others
+* November 2nd: the party shares their suspicions about [[Francois the Bandit]] with [[Rosalind Essford]] and others
 * November 3rd: the [[Festival of the Bridge]] and the [[Attempted Poisoning of Cleenseau]]
-* November 4th: the party interrogates [[Jerome]] and [[François the Bandit]]
-* November 5th: [[François the Bandit]] kills himself, apparently in remorse
+* November 4th: the party interrogates [[Jerome]] and [[Francois the Bandit]]
+* November 5th: [[Francois the Bandit]] kills himself, apparently in remorse
 * November 6th: [[Jerome]] executed for banditry
 * November 7th: [[Vincent de Arban]] arrives, investigating [[Viepuck|Najeer's]] letter, and Viepuck's deception is revealed
 * November 8th: [[Vincent de Arban]] departs
-* November 12th: [[François the Bandit|François's]] funeral
+* November 12th: [[Francois the Bandit|François's]] funeral
 * Week of November 16th: [[Abigail Moss]] first notices blight in her orchard
 * November 26th: [[People/Sembarans/Ida Rosfeld|Ida Rosfeld]] is unexpectedly ordered to [[Dunfry|Dunfry]] by [[Quentin]]
 * November 27th: [[People/Sembarans/Ida Rosfeld|Ida Rosfeld]] marches away

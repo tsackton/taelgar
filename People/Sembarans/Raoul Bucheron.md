@@ -6,6 +6,7 @@ born: 1666
 species: human
 ancestry: Sembaran
 gender: male
+aliases: [Raoul Bûcheron]
 affiliations: [{ org: Order of the Charitable Wanderer }]
 whereabouts:
 - {type: home, location: Windlea }

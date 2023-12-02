@@ -55,7 +55,7 @@ tags: [status/unknown]
 
 ### Bandits, Ruffians, and Other Unpleasant Types
 
-* [[François the Bandit]], died of his own hand
+* [[Francois the Bandit|François the Bandit]]], died of his own hand
 * [[Jerome]], executed in [[Cleenseau]]
 * [[Wakog]], an ogre, now dead
 

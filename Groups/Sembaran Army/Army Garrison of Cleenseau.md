@@ -22,7 +22,7 @@ The Cleenseau Garrison is the furthest east-most garrison of the [[Army of the W
 The garrison is situated in the east end of town, nestled into the gates. The garrison buildings themselves date from the final battles of the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] and the members of the garrison have a proud history as Cleenseau was a key staging point during the hobgoblin wars. The garrison is much diminished from its heyday, but there is a lot of pride in the historical accomplishments.  Although the garrison is based in Cleenseau, it is not under the command of the Lord of Cleenseau and it is not part of the regular town guard. The command of the garrison reports to the [[Dunfry Regiment]] in [[Dunfry]] as part of the [[Army of the West]].
 ### Recent Events
 
-* (DR:: 1719-11-05): [[Odo Cordwaner]] is dismissed as Sergeant of the Bridge Patrol for dereliction of duty after having failed to heed orders to stop [[François the Bandit]] during the [[Attempted Poisoning of Cleenseau]]
+* (DR:: 1719-11-05): [[Odo Cordwaner]] is dismissed as Sergeant of the Bridge Patrol for dereliction of duty after having failed to heed orders to stop [[Francois the Bandit]] during the [[Attempted Poisoning of Cleenseau]]
 * (DR:: 1719-11-26): Receives orders to march to [[Dunfry]], apparently because of an imminent hobgoblin assault on the [[Western Wall of Sembara]] foretold by [[Robert I|King Robert I]]
 * (DR:: 1719-11-27): Departs [[Cleenseau]] for [[Dunfry]] with all soldiers who are healthy enough to march
 * (DR:: 1719-12-02): Arrives [[Dunfry]] after some confusion on the road

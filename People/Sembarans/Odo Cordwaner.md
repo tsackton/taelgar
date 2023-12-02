@@ -22,7 +22,7 @@ whereabouts:
 The sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] and a loyal solider. 
 
 %%%
-and was led by [[Odo Cordwaner|Sergeant Odo Cordwaner]] until he was discharged after failing to heed orders during the [[Festival of the Bridge]]. He allowed [[François the Bandit]] to distribute poisoned grain despite being warned.
+and was led by [[Odo Cordwaner|Sergeant Odo Cordwaner]] until he was discharged after failing to heed orders during the [[Festival of the Bridge]]. He allowed [[Francois the Bandit]] to distribute poisoned grain despite being warned.
 %%
 
 ![[odo-cordwaner.png]]
