@@ -8,6 +8,7 @@ born:
 species: human
 ancestry: Sembaran
 gender: male
+aliases: [François the Bandit]
 died: 1719-11-05
 ---
 # François the Bandit
