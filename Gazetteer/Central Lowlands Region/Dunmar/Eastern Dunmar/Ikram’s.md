@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 tags: [place, event-source, place/building, status/unknown]
 campaignInfo: []
-name:
+name: Ikram's
+ancestry: Dunmari
 typeOf: inn
 typeOfAlias: caravanserai
-partOf: Karawa
+whereabouts: Karawa
 ---
-# Ikram’s
+# Ikram's
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

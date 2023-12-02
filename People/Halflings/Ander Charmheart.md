@@ -22,12 +22,12 @@ whereabouts:
 ---
 # Ander Charmheart
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]] (he/him), of the [[Charmhearts]]
+> A [[Halflings|halfling]] (he/him), of the [[Charmhearts]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
 
 A young, rambunctious and excessively curious halfling, traveling with the Charmheart trading caravan as a scout and general hand. 
 

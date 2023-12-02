@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
 tags: [place, status/needswork, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Am'khazar
 typeOf: realm

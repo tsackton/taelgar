@@ -4,8 +4,8 @@ tags: [place, status/unknown]
 displayDefaults: {defArt: ""}
 campaignInfo: []
 name: Bas Udda
+destroyed: 1748-04 #check date
 typeOf: village
-ancestry: ruined
 partOf: Eastern Dunmar
 ---
 # The Bas Udda

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Archives of Tokra
-typeOf: building
+typeOf: library
 partOf: Tokra
 ---
 # The Archives of Tokra

@@ -1,16 +1,18 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, place/building, status/unknown]
-displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <(on )current:5>"}
 campaignInfo: []
-name:
+name: Akela Inn
+ancestry: Dunmari
 typeOf: inn
 typeOfAlias: caravanserai
-partOf: Tokra-Darba Road
+whereabouts: 
+- {type: home, location: Tokra-Darba Road, format: rq}
 ---
 # The Akela Inn
 >[!info]+ Information
-> A caravanserai on the [[Tokra-Darba Road]], [[Dunmar]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A waystation, inn, and caravanserai on the [[Tokra-Darba Road]], on the northeastern edge of the rougher hill terrain known as the [[Copper Hills]]. The last major fortification and stopping point on the road heading southwest from [[Tokra]] until the [[Darba]] hinterlands, 100 mile to the west, beyond the [[Copper Hills]].
 

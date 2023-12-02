@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 campaignInfo: []
 name: Erelion
+ancestry: elven
 typeOf: city
 partOf: Orenlas
 pronunciation: air-LEE-on
@@ -10,7 +11,8 @@ pronunciation: air-LEE-on
 # Erelion
 *(air-LEE-on)*
 >[!info]+ Information
-> A city in [[Orenlas]], the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
 An ancient elven city in the kingdom of [[Orenlas]], claimed by many [[elves]] to be the oldest continually occupied settlement on Taelgar. 

@@ -1,11 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/notes, status/unknown]
 name: Leviathan Inn
 typeOf: inn
-partOf: Hamri
+whereabouts: Hamri
 ---
 # The Leviathan Inn
 >[!info]+ Information
-> An  inn in [[Hamri]], the [[Mawar Confederacy]], the [[Mawakel Peninsula]]
-
-Owned by [[Wazir]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`

@@ -4,6 +4,7 @@ tags: [place, status/draft, status/unknown]
 displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Zarkandur
+ancestry: dwarven
 typeOf: city
 partOf: Am'khazar
 ---

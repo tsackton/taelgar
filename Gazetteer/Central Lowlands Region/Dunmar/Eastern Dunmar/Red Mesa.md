@@ -6,7 +6,7 @@ typeOf: holy site
 ancestry: Dunmari
 affiliations: [{org: Shakun, type: primary}]
 whereabouts: 
-- {type: home, location: Eastern Dunmar }
+- {type: home, location: Eastern Dunmar, format: r}
 ---
 # The Red Mesa
 >[!info]+ Information

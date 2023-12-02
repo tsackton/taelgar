@@ -6,7 +6,7 @@ campaignInfo: []
 name: The Red Lily Inn
 typeOf: inn
 ancestry: halfling
-partOf: Tokra
+whereabouts: Tokra
 ---
 # The Red Lily Inn
 >[!info]+ Information
