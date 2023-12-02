@@ -7,6 +7,7 @@ born:
 species: dwarf
 ancestry:
 gender: male
+whereabouts: Morkalan
 ---
 ## Hagrim of [[Morkalan]]
 

@@ -7,7 +7,7 @@ created: 1570
 destroyed: 1748-08-26
 ancestry: Shadowfell
 whereabouts: 
-- {type: home, location: Hagrim, wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being on <startDate> by <origin:1>"}
+- {type: home, location: Hagrim, wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being on <startDate> <origin:Pq>"}
 - {type: home, location: Shadowfell}
 ---
 # Morkalan
