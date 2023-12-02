@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [event-source, person, dufr/met, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Casian
 born: 1722
@@ -16,7 +15,7 @@ whereabouts:
 ---
 # Casian
 >[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

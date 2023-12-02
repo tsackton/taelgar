@@ -1,11 +1,16 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [event-source, status/unknown]
 timelineDescriptor: War of the Cloak
 DR: 1748-11-27
-DR_end: 1748-01-20
+DR_end: 1749-01-20
+typeOf: war
+whereabouts: Xurkhaz
 ---
 # The War of the Cloak
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A war fought between the armies of [[Grash]] and the orcs of [[Xurkhaz]], aided by [[Dunmar Fellowship]], over the [[Cloak of Rainbows]]. 
 ###

@@ -5,4 +5,4 @@ name: Suhaya
 partOf: Mawar Confdederacy
 ---
 
-%% (settlement at the mouth of the Sulqat River) %%
+%% (settlement at the mouth of the [[Sulqat]] River) %%

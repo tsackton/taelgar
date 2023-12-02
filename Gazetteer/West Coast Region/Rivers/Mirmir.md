@@ -1,12 +1,15 @@
 ---
-headerVersion: 2023.11.20
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+pronunciation: MEER-meer
+tags: [place]
 name: Mirmir
 typeOf: river
-partOf: Mawakel Peninsula
+whereabouts: Mawakel Peninsula
 ---
 # Mirmir
+*(MEER-meer)*
 >[!info]+ Information
-> A river in the [[Mawakel Peninsula]], the [[West Coast Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% [[Hamri]] port river) %%
+A river that flows from the hilly interior of the [[Mawakel Peninsula]], past the port town of [[Hamri]], to the [[Endless Ocean]]. 

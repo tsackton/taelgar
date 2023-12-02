@@ -1,6 +1,5 @@
 ---
 tags: [organization/party, status/needswork]
-displayDefaults: {defArt: ""}
 campaignInfo: []
 name: Dunmar Fellowship
 typeOf: adventuring party

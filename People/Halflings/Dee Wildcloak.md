@@ -10,13 +10,13 @@ name: Dee Wildcloak
 born:
 species: halfling
 ancestry:
-pageTargetDate: 1748-04-21
+pageTargetDate: 1748-01-01
 gender: female
 affiliations: [Society of the Open Scroll, {org: Wildcloaks, type: primary}]
 whereabouts:
 - {type: home, location: ""}
 - {type: home, end: 1748-09-12, location: Chardon}
-- {type: away, start: 1747-12-23, end: 1748-02-01, prefix: traveling in, location: Yeraad River Basin}
+- {type: away, start: 1747-12-23, end: 1748-02-01, prefix: traveling through, location: Yeraad River Basin}
 - {type: away, start: 1748-02-02, end: 1748-03-12, prefix: traveling in, location: Dunmar}
 - {type: away, start: 1748-03-13, end: 1748-03-19, location: Stormcaller Tower}
 - {type: away, start: 1748-03-20, end: 1748-04-22, location: traveling to Chardon}

@@ -1,6 +1,5 @@
 ---
 tags: [status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: AC - Session 1
 fc-date: 05-16-1688

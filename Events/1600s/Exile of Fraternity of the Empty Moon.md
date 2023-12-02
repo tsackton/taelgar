@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [event-source, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo:
-name: The Exile of Fraternity of the Empty Moon
+name: Exile of Fraternity of the Empty Moon
 DR: 1625-04-11
 DR_end: 1625-08-14
 ---
-# The The Exile of Fraternity of the Empty Moon
+# The Exile of Fraternity of the Empty Moon
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 

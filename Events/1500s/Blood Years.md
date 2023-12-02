@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: ['#event-source', status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+tags: [event-source, status/unknown]
 campaignInfo: []
 name: Blood Years
 DR: 1545

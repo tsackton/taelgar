@@ -1,6 +1,5 @@
 ---
 tags: [event-source, status/namecheck, status/needswork/notes, status/needswork/wip]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: happened in, endStatus: 'Happened in:'}
 campaignInfo: []
 name: First Plague
 aliases:
@@ -10,7 +9,7 @@ DR: 1059
 >[!info]+ Event Summary
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 
-The First Plague strikes Drankor, killing most of the population and ending the Drankorian Empire.
+The First PlaXgue strikes Drankor, killing most of the population and ending the Drankorian Empire.
 
 %% 
 probably should not be called "The First Plague"; minimally, needs another name that would have been used prior to the Great War 

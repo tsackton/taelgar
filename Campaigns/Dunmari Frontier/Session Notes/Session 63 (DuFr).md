@@ -1,6 +1,5 @@
 ---
 tags: [session-note, dufr, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Session 63 (DuFr)
 ---

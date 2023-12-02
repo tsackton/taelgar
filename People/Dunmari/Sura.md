@@ -20,7 +20,7 @@ whereabouts:
 - {type: away, start: 1748-07-22, end: 1748-12-14, location: Central Dunmar}
 - {type: away, start: 1748-12-14, end: 1748-12-22, location: Tokra}
 - {type: away, start: 1748-12-22, end: 1748-12-26, location: plains south of Tokra, format: "r"}
-- {type: away, start: 1748-12-26, end: !!null '', location: plains south of Tokra, format: "r"}
+- {type: away, start: 1748-12-26, location: plains south of Tokra, format: "r"}
 ---
 # Nayan Sura
 >[!info]+ Biographical Info

@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Tafolwern
@@ -7,7 +8,8 @@ partOf: Tyrwingha
 ---
 # Tafolwern
 >[!info]+ Information
-> A city in [[Tyrwingha]], [[The Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The capital city of Tyrwingha.
 

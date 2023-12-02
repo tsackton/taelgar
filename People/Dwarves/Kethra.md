@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/needswork]
 species: dwarf
 whereabouts: 
 - {type: home, end: 1748, location: Tharn Todor}

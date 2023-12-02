@@ -1,6 +1,5 @@
 ---
 tags: [event, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Battle Against Wakog
 DR: 1719-12-06

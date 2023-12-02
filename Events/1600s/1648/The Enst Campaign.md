@@ -1,6 +1,5 @@
 ---
 tags: [event-source, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: The Enst Campaign
 DR: 1648

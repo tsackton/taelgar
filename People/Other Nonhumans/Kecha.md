@@ -1,5 +1,5 @@
 ---
-tags: [person]
+tags: [person, status/needswork]
 whereabouts: Tollen
 species: kenku
 gender: male

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person]
+tags: [dufr/background, person, testcase]
 campaignInfo:
 - {campaign: dufr, date: 1748-07-18, type: met}
 name: Alton Greenleaf
@@ -15,10 +15,10 @@ whereabouts:
 ---
 # Alton Greenleaf
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]] (he/him), of the [[Greenleafs]]
+> A [[Halflings|halfling]] (he/him), of the [[Greenleafs]]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 in the [[~Crossroads Caravanserai~]], [[~AncientWestRoad~]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 18th, 1748 at the [[~Crossroads Caravanserai~]], on the [[~AncientWestRoad~]], in [[Dunmar]] %%^End%%
 
 A halfling wanderer, traveling with only his brother. 
 ## Relationships

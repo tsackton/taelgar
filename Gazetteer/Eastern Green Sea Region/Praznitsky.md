@@ -1,15 +1,23 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
+pronunciation: PRAZ-niht-skee
 campaignInfo:
 name: Praznitsky
 typeOf: city
-partOf: Ursk
-ancestry: trading
+subTypeOf: trading
+ancestry: Urskan
+whereabouts: 
+- {type: home, location: Ursk, format: fq}
 ---
 # Praznitsky
+*(PRAZ-niht-skee)*
 >[!info]+ Information
-> A trading city in [[Ursk]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A mysterious closed city in the north, part of the country of Ursk, where none are allowed across the bridge from the harbors and warehouses to the main city, and the people trade dragon hide.
+Praznitsky is a mysterious city on the north coast of the [[Eastern Green Sea]], and one of the few ports where foreigners are allowed to trade in the country of [[Ursk]]. 
 
-The harbor and trading posts are on an island of the coast, connected to the mainland by an impossible bridge, a single span of stone with no obvious supports. Masked wizards patrol the bridge and one feels as if they can see you even if they are not looking in your direction.
+The city itself is a walled coastal settlement, where foreigners are prohibited. The trading port, with a harbor for foreign ships, is on an island a short distance off the coast, connected to the mainland by a stone bridge, a single span with no obvious supports. The bridge is patrolled by masked wizards. 
+
+The city is known for strange goods from the north, including furs, hide, and monster parts. Most prized of all is dragon hide, which is sold for exorbitant prices to foreign traders. 

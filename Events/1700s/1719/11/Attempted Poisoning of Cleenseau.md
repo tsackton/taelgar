@@ -1,6 +1,5 @@
 ---
 tags: [event-source, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name:
 DR: 1719-11-03

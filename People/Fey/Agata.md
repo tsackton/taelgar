@@ -11,10 +11,11 @@ subspecies: hag
 gender: female
 aliases: [Old Woman of the Dusts, Dasoclese]
 whereabouts:
-- {type: home, end: 1, location: Amberglow, format: "r"}
+- {type: home}
+- {type: home, end: 1, location: Amberglow, format: "r"} # amberglow not origin, just past home
 - {type: home, start: '', end: 1748-05-29, location: Garamjala Desert}
 - {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind}
-- {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove, format: "r"}
+- {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove, format: "rq"}
 ---
 # Agata Dustmother
 >[!info]+ Biographical Info

@@ -9,7 +9,7 @@ whereabouts: Grash
 ---
 # The Ring of Undying
 >[!info]+ Information
-> (unique magical ring)
+> (unique ring)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

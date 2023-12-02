@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [event, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name:
 DR: 1709-06
