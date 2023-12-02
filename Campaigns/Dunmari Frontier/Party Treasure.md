@@ -1,26 +1,8 @@
 ---
 tags: [status/unknown]
 ---
-## Magic Items to Allocate from Elemental Forge
-- A gray cloak. Also found in the lead box. Functions as a Cloak of Elvenkind. 
 ## Magic Items under Construction by Umli
 
-Started work on Skaer steel items on 5 Jan 1749, will work 6 days/week. Started with 27 lb of Skaer steel. **On 17 Jan will send magic chest with Riswynn shield and 4 quivers of arrows for Wellby.** 
-### Arrows for Wellby
-12 lb Skaer steel for construction
-Started: 5 Jan 1749
-
-Working in her spare time while making armor, can construct a quiver of *20 fine arrows* or *10 exceptional arrows* in every 3rd day, each quiver requiring 1.33 pounds of Skaer steel, including extra steel for payment. Can create 9 quivers with the available steel. Will finish one quiver on each of Jan 7th, 10th, 14th, 17th, 21st, (22nd, 23rd, 24th, 26th)
-
-Choices (fine):
-Honed: A perfectly balanced weapon giving +1 to attack
-Keen: A exceptionally sharp or hard weapon, giving +1 to damage
-Accurate: Ignore disadvantage when firing at long range. 
-
-Choices (exceptional):
-Masterwork: choose two fine arrow properties and combined them
-Armor piercing: +1 to hit, plus an additional +1 to hit against armored targets
-Broadhead: +1 to damage, plus an additional 1d4 damage against unarmored targets
 ### Shield upgrade for Delwath
 Upgrade lynx shield from +1 to +2. 
 Requires 12 days (3 days can be done without the shield on prep work), 4000 gp, 7.5 pounds of Skaer steel.
@@ -32,7 +14,7 @@ Will then finish 9 days after party arrives, skipping Sundays
 ### Delwath
 
 Major items:
-- [[Deno'qai Lynx Shield]] (very rare major item)
+- [[Deno'qai Lynx Shield]] (legendary major item)
 - [[Narengril]] (rare major item)
 - [[Deno'qai Scale Mail]] (uncommon major item)
 - [[Ring of Displacement]] (uncommon major item)
@@ -41,7 +23,7 @@ Major items:
 Minor items:
 - [[Magic Cooking Pouch]] (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - [[Horn of Silent Alarm]] (common minor item)
-- Ring of Sharp Mind (rare minor item). Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
+- Ring of Sharp Mind (rare minor item). Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] at the Elemental Forge from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can choose to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
 ### Wellby 
 
 Major items:
@@ -58,6 +40,7 @@ Minor items:
 - Hat of Vermin (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - Clockwork Amulet (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 - Tattoo of Darkvision (uncommon minor item, acquired from [[Cecilia Lister]] in [[Tollen]])
+- 9 quivers of Skaer arrows, constructed by [[Umli]]
 
 Not in use:
 - [[Obsidian Fly]] (cursed rare major item)
@@ -107,6 +90,7 @@ Minor items:
 
 Not in use:
 - [[Cha'mutte’s Shadow Armband]] (legendary major item)
+- [[Binding Stones]] (legendary major item*, party)
 
 Scrolls:
 - Detect Magic. (Werewolf lair) %%SECRET[1]%%
@@ -133,6 +117,7 @@ Major items:
 - [[Mirror of Soul Trapping]] (very rare major item, party)
 - [[The Mirror of the Past]] (very rare major item, party)
 - [[Efreeti Bottle]] (very rare major item, party)
+- A gray cloak, found in the Elemental Forge, that functions as a Cloak of Elvenkind. 
 
 Minor items:
 - [[Portable Hole]] (rare minor item, party)
@@ -144,7 +129,6 @@ Minor items:
 - A [[Fides Lucaris]] Sending Stone. Found in a hidden lead box, and once possessed by the woman whose skeleton remains in the elemental forge. [[Lucius]], a boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking. 
 
 Not in use:
-- [[Binding Stones]] (legendary major item*, party)
 - Spell gem from [[Kadmos]] containing the Summon Greater Demon spell.
 - A silver wand that functions as an arcane focus, and a locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. The spellbook's contains are currently unknown. 
 ## Vindristjarna
