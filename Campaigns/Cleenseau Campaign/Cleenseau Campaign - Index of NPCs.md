@@ -32,7 +32,7 @@ tags: [status/unknown]
 * [[Harold Stonebridge]], a young halfling errand boy at [[The Crossroads Inn]]
 * [[Ancer Benthey]], a sergeant in the [[Army Garrison of Cleenseau|local garrison]], the nephew of [[Ames Benthey]] and [[Odo Cordwaner|Odo's]] replacement
 * [[Aldric Tannen]], a schemer looking to start a ferryboat company
-* [[Agnés of Cleenseau|Agnés]], a caravan guard 
+* [[Agnes of Cleenseau|Agnés]], a caravan guard 
 ### In [[Valit]]
 
 * [[Warin the Woodsman]], a tracker
