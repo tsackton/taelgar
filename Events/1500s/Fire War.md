@@ -1,12 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: ['#event-source', status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Fire War
 aliases: [Mavdyr's War]
 DR: 1552-05-17
 DR_end: 1553-07-10
 ---
+# The Fire War
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 # The Fire War
 

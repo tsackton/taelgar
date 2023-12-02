@@ -13,7 +13,7 @@ whereabouts: Cleenseau
 ---
 # Venra Stonebridge
 >[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Halflings|halfling]], he/him of the [[Stonebridges]]
+> A [[Sembara|Sembaran]] [[Halflings|halfling]] (he/him), of the [[Stonebridges]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

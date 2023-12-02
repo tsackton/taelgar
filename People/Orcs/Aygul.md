@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/needswork]
 name: Aygul
 pronunciation: EYE-gool
 gender: female

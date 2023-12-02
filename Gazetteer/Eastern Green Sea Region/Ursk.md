@@ -1,12 +1,12 @@
 ---
 tags: [place, status/needswork, status/unknown]
 campaignInfo: []
+aliases: [ Urskan]
 name: Ursk
 typeOf: realm
-partOf:
+partOf: Eastern Green Sea
 ---
 # Ursk
-
 
 Ursk is a secretive civilization on the north coast of the [[Green Sea]]. Rumors are that it is a land of wizards and magic, of ice and snow, of monsters and secret treasure. While outsiders are allowed to trade at a handful of port cities, including [[Zakat]] and [[Praznitsky]], the warehouses and docks of these cities are kept isolated from the city proper, and foreigners are not allowed to pass the borders. Trade with Ursk, however, is worth the hassle, for the valuable hides, furs, and other monster parts, especially the most prized of all, dragonhide from the northern wastes.
 
@@ -37,7 +37,7 @@ The land rises gradually to the north, and the northern edge of Ursk  is defined
 (the basic idea is roughly the northern parts of Atlantic Canada, perhaps with a bit more snow; or maybe the southern/coastal parts of Siberia - long winters, cold but modulated by the ocean, a fair bit of snow, warm short summers, and mostly forest/boreal swamp ecosystems)
 ### Geography
 
-Ursk is dominated by its coastal cities. The vast majority of the population lives within 50 miles of the coast, and the only major population centers are here, including the four “trade cities” with ports at which foreigners are allowed to dock. Among the most prominent of these is Praznitsky, in the western part of the country. The interior of Ursk is sparsely populated, and contains no large cities and few towns.
+Ursk is dominated by its coastal cities. The vast majority of the population lives within 50 miles of the coast, and the only major population centers are here, including the four “trade cities” with ports at which foreigners are allowed to dock. Among the most prominent of these is [[Praznitsky]], in the western part of the country. The interior of Ursk is sparsely populated, and contains no large cities and few towns.
 ### Culture and Politics
 
 #### The Krev rites and the Rodnya

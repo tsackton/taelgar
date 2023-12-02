@@ -1,6 +1,5 @@
 ---
 tags: [event-source, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Cursed Cold
 DR: 1583

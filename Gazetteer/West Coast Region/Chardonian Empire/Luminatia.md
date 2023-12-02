@@ -1,13 +1,15 @@
 ---
-tags: [place/village, status/stub, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+headerVersion: 2023.11.25
+tags: [place/village]
 campaignInfo: []
 name: Luminatia
 typeOf: village
-partOf: Chardonian Empire
+whereabouts: 
+- {type: home, location: Chardonian Empire, format: rq}
 ---
 # Luminatia
 >[!info]+ Information
-> A  village in the [[Chardonian Empire]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small village near Lake Valandros.
+A small village near [[Lake Valandros]].

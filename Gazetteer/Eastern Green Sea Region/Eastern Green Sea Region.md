@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork]
 name: Eastern Green Sea Region
 typeOf: region
 partOf: Taelgar
 ---
-# Eastern Green Sea Region
->[!info]+ Summary
-> a region in the [[Green Sea]], [[Taelgar]]
+# The Eastern Green Sea Region
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
 

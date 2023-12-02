@@ -12,12 +12,12 @@ affiliations:
 - {org: Strongbones, type: primary}
 - {org: The Red Lily Inn, title: Barkeep}
 whereabouts: 
-- {type: home, location: The Red Lily Inn, format: fr}
+- {type: home, location: The Red Lily Inn, format: frq}
 ---
 # Cade Strongbones
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]], he/him of the [[Strongbones]]
+> A [[Halflings|halfling]] (he/him), of the [[Strongbones]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%

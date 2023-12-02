@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork]
 name: West Coast Region
 typeOf: region
 partOf: Taelgar
 ---
-# West Coast Region
->[!info]+ Summary
-> a region in [[Taelgar]]
+# The West Coast Region
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
 

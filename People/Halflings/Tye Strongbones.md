@@ -16,11 +16,11 @@ whereabouts:
 ---
 # Tye Strongbones
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]], he/him of the [[Strongbones]]
+> A [[Halflings|halfling]] (he/him), of the [[Strongbones]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Central Dunmar]], [[Dunmar]], the [[Central Lowlands Region]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 at [[The Red Lily Inn]], in [[Tokra]], [[Dunmar]] %%^End%%
 
 ## Relationships
 - [[Wes Strongbones]], father

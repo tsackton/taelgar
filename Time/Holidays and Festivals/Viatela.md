@@ -1,6 +1,5 @@
 ---
 tags: [status/notes, holiday, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Viatela
 fc-date: {day: 11, month: 12}

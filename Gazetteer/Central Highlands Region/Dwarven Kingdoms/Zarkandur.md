@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.20
 tags: [place, status/draft, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Zarkandur
 ancestry: dwarven

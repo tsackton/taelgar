@@ -1,8 +1,6 @@
 ---
-tags: [place, status/stub, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+tags: [place]
 campaignInfo:
-name:
 typeOf: forest
 partOf: Ainumarya
 ---

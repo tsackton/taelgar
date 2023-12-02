@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/needswork]
 name: Nuzkar
 born: 1698
 gender: female

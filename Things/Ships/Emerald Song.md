@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {wOrigin: "Home area: <origin>" }
+displayDefaults: {wOrigin: "Home area: <origin>", prep: "on" }
 tags: [item/boat]
 typeOf: vehicle
 ancestry: halfling

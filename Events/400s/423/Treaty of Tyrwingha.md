@@ -1,11 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [event-source, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Treaty of Tyrwingha
 summary: An agreement between the Emperor Goristo and the Archfey Ethlenn to establish Tyrwingha
 DR: 423
 ---
+# The Treaty of Tyrwingha
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+
 
 An agreement between the [[Goristo]] and the [[Archfey Ethlenn]] signed in DR 423.
 

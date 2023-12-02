@@ -1,6 +1,5 @@
 ---
 tags: [status/needswork, event-source, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Destruction of the Werewolf Cult
 DR: 1748-07-03

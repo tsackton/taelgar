@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-displayDefaults: {partOf: "<ancestry:UA> <typeof:UA> on the <current>"}
+displayDefaults: {prep: "at"}
 tags: [place/inn, status/needswork/notes]
 typeOf: inn
 partOf: ~AncientWestRoad~

@@ -1,14 +1,20 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
+displayDefaults: {wPastHome: "Destroyed on <endDate> by [[Riswynn]] and companions", wHome: "", dPastHasStart: "", dCurrent: ""}
 tags: [place, status/unknown]
-partOf: Shadowfell
-typeOf: realm
+typeOf: domain
+created: 1570 
+destroyed: 1748-08-26
+ancestry: Shadowfell
+whereabouts: 
+- {type: home, location: Hagrim, wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being on <startDate> by <origin:1>"}
+- {type: home, location: Shadowfell}
 ---
 # Morkalan
 >[!info]+ Information
-> A realm in the [[Shadowfell]], the [[Echo Realms]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A [[Shadowfell]] domain, created by the dwarf [[Hagrim]] in death, as he turned from the gods. Known as the Land of the Dishonored Dead. A small domain, one that can be crossed in a day. A place where the sky is always dim and shadowed, the horizon bounded by endless mists.
+Morkalan was created by the dwarf [[Hagrim]] in death, as he turned from the gods. Known as the Land of the Dishonored Dead. A small domain, one that can be crossed in a day. A place where the sky is always dim and shadowed, the horizon bounded by endless mists.
 
 Largely inhabited by dwarves trapped at the creation of this domain, and the occasional other poor soul who was drawn in and could not escape. 
 

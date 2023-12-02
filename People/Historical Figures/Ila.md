@@ -17,5 +17,5 @@ whereabouts:
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The commander of the eastern Dunmari army in Tokra during and after the [[Second Hobgoblin War]]. Involved in [[The Exile of Fraternity of the Empty Moon]]. 
+The commander of the eastern Dunmari army in Tokra during and after the [[Second Hobgoblin War]]. Involved in [[Exile of Fraternity of the Empty Moon]]. 
 

@@ -1,6 +1,5 @@
 ---
 tags: [status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Cleenseau Campaign - Timeline
 timelineDescriptor: Cleenseau Campaign

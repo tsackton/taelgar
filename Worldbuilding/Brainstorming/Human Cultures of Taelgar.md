@@ -1,3 +1,8 @@
+---
+tags: [status/needswork/wip]
+---
+
+
 Some rough notes trying to synchronize and make canonical some basic rough notes about the various human people of Taelgar. Most of these groups still need names, and there is plenty of room for more subdivisions within most of these.
 
 All humanity was created on Hkar, and lived there for a time. Modern day human cultures are the product of a variety of different migrations from Hkar, combined with mixing and diversification on the mainland. 

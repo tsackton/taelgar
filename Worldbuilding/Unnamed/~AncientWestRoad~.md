@@ -1,5 +1,6 @@
 ---
 tags: [place/road, status/notes, status/unknown]
+displayDefaults: {prep: "on", defArt: "the"}
 typeOf: road
 partOf: Dunmar
 ---

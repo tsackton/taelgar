@@ -18,13 +18,13 @@ whereabouts:
 ---
 # Wendel Quickstep
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]], he/him of the [[Quicksteps]]
+> A [[Halflings|halfling]] (he/him), of the [[Quicksteps]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[Wellby]] on DR 1738 in [[The Windward Sail]], [[Fiskurth]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 16th, 1748 in [[The Windward Sail]], [[Fiskurth]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
->> %%^Campaign:DuFr%% Last seen by the [[Dunmar Fellowship]] on December 28th, 1748 in [[The Windward Sail]], [[Fiskurth]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
+>> %%^Campaign:DuFr%% Met by [[Wellby]] on DR 1738 at [[The Windward Sail]], in [[Fiskurth]], the [[Tollen|Free City of Tollen]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 16th, 1748 at [[The Windward Sail]], in [[Fiskurth]], the [[Tollen|Free City of Tollen]] %%^End%%
+>> %%^Campaign:DuFr%% Last seen by the [[Dunmar Fellowship]] on December 28th, 1748 at [[The Windward Sail]], in [[Fiskurth]], the [[Tollen|Free City of Tollen]] %%^End%%
 
 Wendel is the long-time proprietor of *The Windward Sail*, a busy sailor's tavern in Fiskurth. Known as a place for tales and stories - some true, many not - and a place for gossip, as well as a place to find a crew. Has a few dirty, cramped rooms stacked with "human sized" bunks, and some slightly more comfortable halfling rooms. 
 ## Relationships

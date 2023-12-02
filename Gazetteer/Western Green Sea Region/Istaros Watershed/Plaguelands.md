@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+displayDefaults: {defArt: "the"}
 tags: [place, status/needswork/collate]
 name: Plaguelands
 typeOf: region

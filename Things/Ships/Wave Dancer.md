@@ -8,7 +8,7 @@ typeOfAlias: boat
 whereabouts: 
 - {type: home, end: 0001, location: Eastern Green Sea, formatSpecifier: ""}
 - {type: away, start: 1748-09-30, end: 1748-10-11, location: sailing to Wahacha}
-- {type: away, start: 1748-10-12, end: 1748-10-14, location: Wahacha}
+- {type: away, start: 1748-10-12, end: 1748-10-14, location: Wahacha, prefix: at port in, format: 2q}
 ---
 # The Wave Dancer
 >[!info]+ Information

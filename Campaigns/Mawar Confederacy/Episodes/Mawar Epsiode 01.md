@@ -1,6 +1,5 @@
 ---
 tags: [session-note, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Mawar Epsiode 01
 realWorldDate: 2021-07-24

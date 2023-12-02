@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, event-source, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Khumarz
 destroyed: 1748-12-11

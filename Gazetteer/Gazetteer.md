@@ -1,6 +1,6 @@
 ---
 tags: [meta, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+displayDefaults: {prep: "on"}
 campaignInfo: []
 name: Gazetteer
 ---

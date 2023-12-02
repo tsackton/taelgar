@@ -1,5 +1,6 @@
 ---
-tags: [event-source, status/unknown]
+headerVersion: 2023.11.25
+tags: [event-source, status/unknown, testcase]
 DR: 1545
 displayDefaults: {endStatus: fought in}
 name: Battle of Urlich Pass
@@ -8,8 +9,8 @@ typeOf: battle
 whereabouts: Urlich Pass
 ---
 # The Battle of Urlich Pass
->[!info]+ Event Summary
->`$=dv.view("_scripts/view/get_PageDatedValue")`
-> a battle in [[Great War]]
-> `$=dv.view("_scripts/view/get_Whereabouts")`
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> part of The [[Great War]]
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 

@@ -1,18 +1,22 @@
 ---
-headerVersion: 2023.11.20
-tags: [place, status/unknown]
-displayDefaults: {endStatus: consumed by Cha'mutte's plague in}
+headerVersion: 2023.11.25
+tags: [place, status/unknown, testcase]
+displayDefaults: {endStatus: consumed by Cha'mutte's plague in, wPastHome: "<subtypeof:UA> <typeof:UA> <(of )primary> <current:5q>, once part of <origin:rA>"}
 campaignInfo: []
 name: Isingue
 destroyed: 1545
 typeOf: city
+ancestry: Isinguer
 subTypeOf: ruined
-partOf: Istabor Alliance
+whereabouts:
+- {type: home, location: Istabor Alliance}
+- {type: home, start: 1545, location: Plaguelands, format: Fq}
 ---
 # Isingue
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> A city in the [[Istabor Alliance]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The now-ruined city on the [[Istaros]], once the cultural and spiritual capitol of the [[Istabor Alliance]]. 
 
