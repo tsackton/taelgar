@@ -12,7 +12,7 @@ affiliations:
 - {org: Army Garrison of Cleenseau, title: Sergeant, start: 1719-11-06}
 whereabouts:
 - {type: home, location: 'Cleenseau' }
-- {type: away, location: 'Army Garrison of Cleenseau', format: frq3}
+- {type: away, location: 'Army Garrison of Cleenseau'}
 ---
 # Ancer Benthey
 >[!info]+ Biographical Info
