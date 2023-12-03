@@ -215,9 +215,7 @@ class AffiliationManager {
         for (let aff of leaderAffs) {
             if (aff.aff.type == "leader") {
 
-                let formatString = ""
-
-                let dateInfo = {
+               let dateInfo = {
                     startDate: aff.aff.startDate,
                     endDate: aff.aff.endDate,
                     isCreated: true,
