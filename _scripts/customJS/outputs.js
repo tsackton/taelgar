@@ -100,8 +100,8 @@ class OutputHandler {
             summaryBlockLines.push("> " + typeOf)
         }
     
-        if (metadata.ddbLink && displayDefaults.linkText && displayDefaults.linkText.length > 0) {
-            summaryBlockLines.push("> [" + displayDefaults.linkText + "](" + metadata.ddbLink + ")")
+        if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
+            summaryBlockLines.push("> [" + displayDefaults.mechanicsLink + "](" + metadata.ddbLink + ")")
         }
     
         if (hasPageDates) {

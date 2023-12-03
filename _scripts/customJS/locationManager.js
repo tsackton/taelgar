@@ -38,16 +38,10 @@ class LocationManager {
         return false
     }
 
-    getCurrentLocationName(whereabout, targetDate, formatString = "") {
-
-        // fasly locations (null, undefined, empty string) are always unknown
-        if (!whereabout.location) {
-            if (whereabout.prefix) return whereabout.prefix + " Unknown"
-            else return "Unknown"
-        }
+    getCurrentLocationName(whereabout, targetDate, filter = "", sourcePageType) {
 
         // we want the current depth to start at 1, i.e. if the max depth is 2 we want the first and second pieces
-        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, formatString, undefined).trim()
+        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, filter, sourcePageType).trim()
 
         if (outStr.endsWith(",")) outStr = outStr.substring(0, outStr.length - 1)
 
@@ -164,76 +158,120 @@ class LocationManager {
         return successResult
     }
 
-    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, format, thisPrep) {
+    #getDescriptionForThisPiece(whereabout, targetDate, sourcePageType) {
+
+        const { StringFormatter } = customJS
+        const { NameManager } = customJS
+
+        let file = NameManager.getFileForTarget(whereabout.location)
+        if (!file) {
+            // we don't have a file, we are not going to be able to do a lot of fancy formattting, but lets see what we can do
+            file = { name: whereabout.location, frontmatter: {} }
+            let formatStr = whereabout.format ?? "<linktext> <name>"
+            let additionalData = {
+                linktext: whereabout.linkText
+            }
+
+            return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, additionalData, whereabout.alias)
+        } else {
+            file = { name: file.filename, frontmatter: file.frontmatter }
+            let displayInfo = NameManager.getDisplayData(file.name)
+            let formatStr = whereabout.format ?? "<linktext> <name>"
+            let additionalData = {
+                linktext: whereabout.linkText
+            }
+
+            if (!additionalData.linktext) {
+                switch (sourcePageType) {
+                    case "person":
+                        additionalData.linktext = displayInfo.ltPerson != undefined ? displayInfo.ltPerson : displayInfo.linkText
+                        break
+                    case "organization":
+                        additionalData.linktext = displayInfo.ltOrg != undefined ? displayInfo.ltOrg : displayInfo.linkText
+                        break
+                    case "place":
+                        additionalData.linktext = displayInfo.ltPlace != undefined ? displayInfo.ltPlace : displayInfo.linkText
+                        break
+                    case "item":
+                        additionalData.linktext = displayInfo.ltItem != undefined ? displayInfo.ltItem : displayInfo.linkText
+                        break
+                    default:
+                        additionalData.linktext = displayInfo.linkText
+                }
+            }
+
+            return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, additionalData, whereabout.alias)
+        }
+    }
+
+    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, filter, sourcePageType) {
 
         const { NameManager } = customJS
         const { StringFormatter } = customJS
         const { WhereaboutsManager } = customJS
 
-      
+
         if (!whereabout || !whereabout.location) {
-            return whereabout.prefix ?? ""
+            let returnForUnknown = "";
+            if (whereabout.linkText) returnForUnknown = whereabout.prefix + " "
+            if (whereabout.alias) returnForUnknown += whereabout.alias
+
+            if (!whereabout.linkText && !whereabout.alias)
+                returnForUnknown = "Unknown"
+
+            return returnForUnknown.trim()
         }
-
-       let file = NameManager.getFileForTarget(whereabout.location)
-     
-        // exclude prepositions
-        let formatToUse = format.replace("q", "")
-
-        if ((file && NameManager.getDisplayData(file.frontmatter)?.prep != thisPrep) && !whereabout.prefix) {
-            formatToUse = format
-        }
-
-        let nameSection = NameManager.getName(whereabout.location, formatToUse)
-        if (whereabout.prefix) nameSection = whereabout.prefix + " " + nameSection
 
         if (whereabout.location == "Taelgar") {
             // Taelgar is handling specially
             if (thisDepth > 1) return ""
-            if (format.includes("r")) return ""
+            if (filter.includes("r")) return ""
 
-            return nameSection
+            return this.#getDescriptionForThisPiece(whereabout, targetDate, sourcePageType)
         }
 
+        let file = NameManager.getFileForTarget(whereabout.location)
 
         // we can't keep going, because this piece doesn't exist
         if (!file) {
             // lets see if we have a match to our capital letter check
             let match = new RegExp("[~A-Z]{1}").exec(whereabout.location)
             if (match && match.index > 0) {
-
-                // at the moment there is a bug where the filters ignore this type of thing - or more accurately, we end up with the "travelling in " or whatever piece added no matter what
                 let potentialNextPiece = whereabout.location.substring(match.index)
-                return this.#getLocationFromPartOfs({ location: potentialNextPiece, prefix: whereabout.location.substring(0, match.index) }, targetDate, thisDepth, format, thisPrep)
+                return this.#getLocationFromPartOfs({
+                    location: potentialNextPiece,
+                    linkText: whereabout.location.substring(0, match.index),
+                    alias: whereabout.alias,
+                    format: whereabout.format
+                }, targetDate, thisDepth, filter, sourcePageType)
             }
 
-            return nameSection
-        } else {
-
-            let nextLevelCheck = this.#shouldAllowPiece(format, thisDepth, file.frontmatter)
-            let nextPrep = NameManager.getDisplayData(file.frontmatter)?.prep
-
-            if (!nextLevelCheck.continue) {
-                return nameSection ?? ""
-            }
-
-            let nextDepth = nextLevelCheck.incrementDepth ? thisDepth + 1 : thisDepth
-            let nextLevel = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current
-            let returnValue = ""
-
-            if (nextLevelCheck.allowed) {
-                // this piece is allowed, add it //
-                returnValue += nameSection + ", "
-            } else {
-                nextPrep = thisPrep
-            }
-
-            if (nextLevelCheck.continue && nextLevel) {
-                // we are allowed to continue, and we have somewhere to go //                
-                returnValue += this.#getLocationFromPartOfs(nextLevel, targetDate, nextDepth, format, nextPrep)
-            }
-
-            return returnValue
+            return this.#getDescriptionForThisPiece(whereabout, targetDate, sourcePageType)
         }
+
+
+        let pageType = NameManager.getPageType(file.frontmatter)
+        let nameSection = this.#getDescriptionForThisPiece(whereabout, targetDate, sourcePageType)
+        let nextLevelCheck = this.#shouldAllowPiece(filter, thisDepth, file.frontmatter)
+
+        if (!nextLevelCheck.continue) {
+            return nameSection
+        }
+
+        let nextDepth = nextLevelCheck.incrementDepth ? thisDepth + 1 : thisDepth
+        let nextLevel = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current
+        let returnValue = ""
+
+        if (nextLevelCheck.allowed) {
+            // this piece is allowed, add it //
+            returnValue += nameSection + ", "
+        }
+
+        if (nextLevelCheck.continue && nextLevel && nextLevel.location) {
+            // we are allowed to continue, and we have somewhere to go //                
+            returnValue += this.#getLocationFromPartOfs(nextLevel, targetDate, nextDepth, filter, pageType)
+        }
+
+        return returnValue
     }
 }

@@ -7,7 +7,7 @@ whereabouts:
 - {type: home, location: dufr}
 - {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
 - {type: away, location: Vindristjarna}
-displayDefaults: {wCurrent: 'Stored <current:rq>'}
+displayDefaults: {ltPerson: "trapped in"}
 rarity:
 ---
 # The Mirror of Soul Trapping

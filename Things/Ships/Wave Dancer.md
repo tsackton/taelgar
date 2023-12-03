@@ -4,11 +4,12 @@ displayDefaults: {wOrigin: "Home area: <origin>", ruledBy: "<affiliationtitle:t>
 tags: [item/boat]
 ancestry: halfling
 typeOf: vehicle
+pageTargetDate: 1748-10-13
 typeOfAlias: boat
 whereabouts: 
-- {type: home, end: 0001, location: Eastern Green Sea, formatSpecifier: ""}
-- {type: away, start: 1748-09-30, end: 1748-10-11, location: sailing to Wahacha}
-- {type: away, start: 1748-10-12, end: 1748-10-14, location: Wahacha, prefix: at port in, format: 2q}
+- {type: home, end: 0001, location: Eastern Green Sea }
+- {type: away, start: 1748-09-30, end: 1748-10-11, location: sailing to Wahacha, startFilter: "2" }
+- {type: away, start: 1748-10-12, end: 1748-10-14, alias: main port of Wacahca, location: Wahacha, linkText: moored in, startFilter: "2" }
 ---
 # The Wave Dancer
 >[!info]+ Information

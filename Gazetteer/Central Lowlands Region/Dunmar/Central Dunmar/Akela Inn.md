@@ -7,7 +7,7 @@ ancestry: Dunmari
 typeOf: inn
 typeOfAlias: caravanserai
 whereabouts: 
-- {type: home, location: Tokra-Darba Road, format: rq}
+- {type: home, location: Tokra-Darba Road }
 ---
 # The Akela Inn
 >[!info]+ Information

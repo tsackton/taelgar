@@ -10,7 +10,7 @@ class NameManager {
 
     #getIncludePreposition(format) {
 
-        return format.includes("q")
+        return format.includes("q") && !format.includes("Q")
     }
 
     #getArticleType(format) {
@@ -275,9 +275,6 @@ class NameManager {
         return article.trim()
     }
 
-    // linkType = "never" | "always" | "exists"
-    // casing = "title" | "lower" | "preserve" | "initialUpper"
-    // articleType = "def" | "indef" | "none"
     getName(target, format = "", alias = undefined) {
 
         // this gets the canonical name of a potential link

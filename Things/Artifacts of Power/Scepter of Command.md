@@ -9,7 +9,7 @@ destroyed: 1748-12-25
 typeOf: scepter
 whereabouts:
 - {type: home, end: 1059, location: Apollyon}
-- {type: home, start: 1552, end: 1746, location: Kharsan }
+- {type: away, start: 1552, end: 1746, location: Kharsan, startFilter: "" }
 - {type: home, location: Fraternity of the Empty Moon, start: 1747, end: 1747-12-11}
 - {type: home, location: Agata, start: 1747-12-11, end: 1748-05-29}
 - {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}

@@ -55,11 +55,15 @@ class WhereaboutsManager {
             type: type,
             end: endDate,
             location: location,
+            alias: w.alias,
             logicalEnd: logicalEnd,
             logicalStart: logicalStart,
-            prefix: w.prefix,
+            linkText: w.linkText,
             awayEnd: awayEnd,
-            formatSpecifier: w.formatSpecifier ?? w.format,
+            startFilter : w.startFilter,
+            format: w.format,
+
+            // these should generally not be used - might go away
             pastHomeFormat: w.pastHome ?? w.wPastHome ?? w.pastHomeFormat,
             homeFormat: w.home ?? w.wHome ?? w.homeFormat,
             originFormat: w.origin ?? w.wOrigin ?? w.originFormat,

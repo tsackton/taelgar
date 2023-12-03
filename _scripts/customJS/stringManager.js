@@ -1,6 +1,6 @@
 class StringFormatter {
 
-   
+
     #getDefaultTypeOf(metadata) {
 
         if (metadata.typeOf) return metadata.typeOf
@@ -20,7 +20,7 @@ class StringFormatter {
     }
 
 
-    #getFormattedWhereaboutsString(whereabout, formatString, targetDate) {
+    #getFormattedWhereaboutsString(whereabout, formatString, targetDate, sourcePageType) {
 
         const { LocationManager } = customJS
 
@@ -30,15 +30,15 @@ class StringFormatter {
         if (whereabout.awayEnd && targetDate && whereabout.awayEnd.sort < targetDate.sort) {
             followDate = whereabout.awayEnd
         }
-    
-        let formatStringToUse = whereabout.formatSpecifier ?? formatString
-        if (formatString.includes("!")) formatStringToUse = formatString        
 
-        return LocationManager.getCurrentLocationName(whereabout, targetDate, formatStringToUse)
+        let formatStringToUse = whereabout.startFilter ?? formatString
+        if (formatString.includes("!")) formatStringToUse = formatString        
+      
+        return LocationManager.getCurrentLocationName(whereabout, targetDate, formatStringToUse, sourcePageType)
     }
 
 
-    getFormattedString(formatString, file, targetDate, dateOverride, additionalData) {
+    getFormattedString(formatString, file, targetDate, dateOverride, additionalData, nameAlias) {
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
@@ -52,6 +52,7 @@ class StringFormatter {
 
         let displayDefaults = NameManager.getDisplayData(metadata)
         let pageDateInfo = dateOverride ?? DateManager.getPageDates(metadata, targetDate)
+        let pageType = NameManager.getPageType(metadata)
 
         let typeOf = this.#getDefaultTypeOf(metadata)
 
@@ -64,7 +65,7 @@ class StringFormatter {
         // a: indefinite article, A: indefinite article if first, x: no article, q: preposition
         // n: never link, y: always link
         // !: ignore the whereabouts format
-        const regexp = /<(\([()a-zA-Z-:\s]+\))?([a-zA-Z]+):?([!0-9UutsaAnyRrPpLlIiOoFfxq]+)?(\([()a-zA-Z-:\s]+\))?>/g;
+        const regexp = /<(\([()a-zA-Z-:\s]+\))?([a-zA-Z]+):?([!0-9UutsaAnyRrPpLlIiOoFfxqQ]+)?(\([()a-zA-Z-:\s]+\))?>/g;
 
         let resultString = formatString
 
@@ -78,7 +79,7 @@ class StringFormatter {
             let suffix = matchItem[4]
 
             let beforeThis = resultString.substr(0, resultString.indexOf(matchItem[0])).trim()
-            let isFirstPart = beforeThis.length == 0        
+            let isFirstPart = beforeThis.length == 0
 
             // replace A with a
             if (isFirstPart) format = format.replace("A", "a")
@@ -90,7 +91,7 @@ class StringFormatter {
             }
 
             if (key == "name") {
-                value = NameManager.getName(name, format)
+                value = NameManager.getName(name, format, nameAlias)
             } else if (key == "pronunciation") {
                 value = metadata.pronunciation
             } else if (key == "pronouns") {
@@ -106,12 +107,8 @@ class StringFormatter {
             } else if (key == "species") {
                 value = NameManager.getName(metadata.species, format, metadata.speciesAlias)
             } else if (key == "current") {
-                let wb = value ?? WhereaboutsManager.getWhereabouts(metadata, targetDate).current
-                if (wb.location) {
-                    value = this.#getFormattedWhereaboutsString(wb, format, targetDate)
-                } else {
-                    value = "Unknown"
-                }
+                let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate).current
+                value = this.#getFormattedWhereaboutsString(wb, format, targetDate, pageType)
             } else if (key == "lastknowndate") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
                 if (wb.lastKnown.location && wb.lastKnown.awayEnd.sort <= targetDate.sort) {
@@ -125,25 +122,13 @@ class StringFormatter {
                 }
             } else if (key == "lastknown") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.lastKnown.location) {
-                    value = this.#getFormattedWhereaboutsString(wb.lastKnown, format, targetDate)
-                } else {
-                    value = "Unknown"
-                }
+                value = this.#getFormattedWhereaboutsString(wb.lastKnown, format, targetDate, pageType)
             } else if (key == "home") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.home.location) {
-                    value = this.#getFormattedWhereaboutsString(wb.home, format, targetDate)
-                } else {
-                    value = "Unknown"
-                }
+                value = this.#getFormattedWhereaboutsString(wb.home, format, targetDate, pageType)
             } else if (key == "origin") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-                if (wb.origin.location) {
-                    value = this.#getFormattedWhereaboutsString(wb.origin, format, pageDateInfo.startDate ?? DateManager.normalizeDate("0001"))
-                } else {
-                    value = "Unknown"
-                }
+                value = this.#getFormattedWhereaboutsString(wb.origin, format, pageDateInfo.startDate ?? DateManager.normalizeDate("0001"), pageType)
             } else if (key == "loc" || key == "loclist") {
                 value = " ( loc and loclist are no longer supported; use partof or current/home/origin depending )"
             } else if (key == "startdate") {
@@ -198,15 +183,15 @@ class StringFormatter {
                 value = NameManager.getName(value, format)
             }
 
-        
+
             if (value) {
                 if (prefix) {
-                    value = prefix.substr(1, prefix.length-2) + value
+                    value = prefix.substr(1, prefix.length - 2) + value
                 }
 
                 if (suffix) {
-                    value = value + suffix.substr(1, suffix.length-2)
-                }                                          
+                    value = value + suffix.substr(1, suffix.length - 2)
+                }
             }
 
             resultString = resultString.replace(matchItem[0], value ?? "")
