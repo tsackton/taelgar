@@ -11,8 +11,8 @@ gender: female
 died: 1748-12-08
 affiliations: [{org: The Cleansed, end: "9999"}]
 whereabouts:
-- {type: away, start: 1748-12-01, end: 1748-12-08, location: 'Uzgukhar', format: "3"}
-- {type: home, start: '', end: '', location: Chardon, format: "r"}
+- {type: away, start: 1748-12-01, end: 1748-12-08, location: 'Uzgukhar'}
+- {type: home, start: '', end: '', location: Chardon}
 ---
 # Evelina
 >[!info]+ Biographical Info

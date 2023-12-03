@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
+displayDefaults: {wOrigin: "Originally from: <origin:5>", wHome: "Based <home:5>"}
 tags: [status/uptodate, person, dufr/met, dufr/minor, event-source, testcase, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died }
 campaignInfo:
 - {campaign: dufr, date: 1748-09-30, type: met}
 name: Belegor
@@ -10,6 +10,7 @@ ka: 36
 species: elf
 ancestry:
 pronunciation: beh-leh-GOR
+pageTargetDate: 1712
 gender: male
 whereabouts:
 - {type: home, start: '', end: 1712, location: Ainumarya}
