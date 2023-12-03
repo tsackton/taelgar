@@ -7,6 +7,7 @@ name: Brot Starsearcher
 born: 1579
 species: dwarf
 ancestry:
+aliases: [Brot]
 gender: nonbinary
 whereabouts:
 - {type: home, start: '', end: '', location: Am'khazar}

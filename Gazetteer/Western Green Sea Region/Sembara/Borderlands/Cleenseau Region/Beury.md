@@ -2,7 +2,8 @@
 tags: [place, status/unknown]
 campaignInfo: []
 name: Beury
-typeOf: village
+typeOfAlias: village
+typeOf: settlement
 partOf: Barony of Aveil
 population: 392
 ---

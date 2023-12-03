@@ -41,4 +41,7 @@ The action begins just outside the market town of [[Cleenseau]].
 * October 22nd, 2023: [[Cleenseau - Session 07]]
 	Dangerous dreams; Rosalind is summoned out of town; a baby zombie explodes
 
+* November 12th, 2023: [[Cleenseau - Session 08]]
+	Investigations of the past; hunting undead in an abandoned fort
+
 You might also want to read the [[Cleenseau Campaign - Index of NPCs|Index of NPCs]] or the [[Cleenseau Campaign - Timeline|timeline]]

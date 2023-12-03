@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/stub, status/unknown]
-displayDefaults: {defArt: '', wHome: '<ancestry:UA> <typeof:UA> on the <current>'}
+displayDefaults: {defArt: ''}
 campaignInfo:
 name: Lake Pekul
 typeOf: lake
