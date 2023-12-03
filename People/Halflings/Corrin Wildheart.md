@@ -6,7 +6,6 @@ campaignInfo:
 - { campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
 name: Corrin Wildheart
 born:
-pageTargetDate: 1748-10-12
 species: halfling
 ancestry:
 gender: male
