@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, testcase, status/draft, status/unknown, status/factcheck]
 campaignInfo:
-- {campaign: DuFr, date: 1748-12-08, type: imprisoned}
+- {campaign: DuFr, date: 1748-12-08, type: imprisoned, wParty: ""}
 name: Antonia
 born: 1714
 species: human
