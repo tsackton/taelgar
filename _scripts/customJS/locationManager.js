@@ -38,10 +38,10 @@ class LocationManager {
         return false
     }
 
-    getCurrentLocationName(whereabout, targetDate, filter = "", sourcePageType) {
+    getCurrentLocationName(whereabout, targetDate, filter = "", sourcePageType, format, firstFormat) {
 
         // we want the current depth to start at 1, i.e. if the max depth is 2 we want the first and second pieces
-        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, filter, sourcePageType).trim()
+        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, format, filter, sourcePageType, firstFormat).trim()
 
         if (outStr.endsWith(",")) outStr = outStr.substring(0, outStr.length - 1)
 
@@ -158,7 +158,7 @@ class LocationManager {
         return successResult
     }
 
-    #getDescriptionForThisPiece(whereabout, targetDate, sourcePageType) {
+    #getDescriptionForThisPiece(whereabout, format, targetDate, sourcePageType) {
 
         const { StringFormatter } = customJS
         const { NameManager } = customJS
@@ -167,53 +167,28 @@ class LocationManager {
         if (!file) {
             // we don't have a file, we are not going to be able to do a lot of fancy formattting, but lets see what we can do
             file = { name: whereabout.location, frontmatter: {} }
-            let formatStr = whereabout.format ?? "<linktext> <name>"
-            let additionalData = {
-                linktext: whereabout.linkText
-            }
+            let formatStr = whereabout.format ?? "<name:" + format + ">"
 
-            return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, additionalData, whereabout.alias)
+            return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, undefined, whereabout.alias, whereabout.linkText, sourcePageType)
         } else {
             file = { name: file.filename, frontmatter: file.frontmatter }
             let displayInfo = NameManager.getDisplayData(file.name)
-            let formatStr = whereabout.format ?? "<linktext> <name>"
-            let additionalData = {
-                linktext: whereabout.linkText
-            }
-
-            if (!additionalData.linktext) {
-                switch (sourcePageType) {
-                    case "person":
-                        additionalData.linktext = displayInfo.ltPerson != undefined ? displayInfo.ltPerson : displayInfo.linkText
-                        break
-                    case "organization":
-                        additionalData.linktext = displayInfo.ltOrg != undefined ? displayInfo.ltOrg : displayInfo.linkText
-                        break
-                    case "place":
-                        additionalData.linktext = displayInfo.ltPlace != undefined ? displayInfo.ltPlace : displayInfo.linkText
-                        break
-                    case "item":
-                        additionalData.linktext = displayInfo.ltItem != undefined ? displayInfo.ltItem : displayInfo.linkText
-                        break
-                    default:
-                        additionalData.linktext = displayInfo.linkText
-                }
-            }
-
-            return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, additionalData, whereabout.alias)
+            let formatStr = whereabout.format ?? "<name:" + format + ">"
+            
+            return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, undefined, whereabout.alias, whereabout.linkText, sourcePageType)
         }
     }
 
-    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, filter, sourcePageType) {
+    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, format, filter, sourcePageType, firstFormat) {
 
-        const { NameManager } = customJS
-        const { StringFormatter } = customJS
+        const { NameManager } = customJS    
         const { WhereaboutsManager } = customJS
 
+        let formatToUse = thisDepth == 1 && firstFormat != undefined ? firstFormat : format;
 
         if (!whereabout || !whereabout.location) {
             let returnForUnknown = "";
-            if (whereabout.linkText) returnForUnknown = whereabout.prefix + " "
+            if (whereabout.linkText) returnForUnknown = whereabout.linkText + " "
             if (whereabout.alias) returnForUnknown += whereabout.alias
 
             if (!whereabout.linkText && !whereabout.alias)
@@ -227,7 +202,7 @@ class LocationManager {
             if (thisDepth > 1) return ""
             if (filter.includes("r")) return ""
 
-            return this.#getDescriptionForThisPiece(whereabout, targetDate, sourcePageType)
+            return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
         }
 
         let file = NameManager.getFileForTarget(whereabout.location)
@@ -243,15 +218,15 @@ class LocationManager {
                     linkText: whereabout.location.substring(0, match.index),
                     alias: whereabout.alias,
                     format: whereabout.format
-                }, targetDate, thisDepth, filter, sourcePageType)
+                }, targetDate, thisDepth, format, filter, sourcePageType, firstFormat)
             }
 
-            return this.#getDescriptionForThisPiece(whereabout, targetDate, sourcePageType)
+            return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
         }
 
 
         let pageType = NameManager.getPageType(file.frontmatter)
-        let nameSection = this.#getDescriptionForThisPiece(whereabout, targetDate, sourcePageType)
+        let nameSection = this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
         let nextLevelCheck = this.#shouldAllowPiece(filter, thisDepth, file.frontmatter)
 
         if (!nextLevelCheck.continue) {
@@ -269,7 +244,7 @@ class LocationManager {
 
         if (nextLevelCheck.continue && nextLevel && nextLevel.location) {
             // we are allowed to continue, and we have somewhere to go //                
-            returnValue += this.#getLocationFromPartOfs(nextLevel, targetDate, nextDepth, filter, pageType)
+            returnValue += this.#getLocationFromPartOfs(nextLevel, targetDate, nextDepth, format, filter, pageType, firstFormat)
         }
 
         return returnValue

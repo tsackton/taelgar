@@ -222,7 +222,7 @@ class NameManager {
     }
 
 
-    #getArticle(descriptiveName, metadata, articleType, includePreposition) {
+    #getArticle(descriptiveName, metadata, articleType, includePreposition, linkTextOverride, sourcePageType) {
 
         if (!descriptiveName) return ""
 
@@ -265,17 +265,40 @@ class NameManager {
         }
 
         if (includePreposition) {
-            if ("prep" in displayData) {
-                if (displayData.prep) {
-                    article = displayData.prep + " " + article
+
+            let prep = ""
+
+            if (linkTextOverride) {
+                prep = linkTextOverride
+            }
+            else {
+
+                switch (sourcePageType) {
+                    case "person":
+                        prep = displayData.ltPerson != undefined ? displayData.ltPerson : displayData.linkText
+                        break
+                    case "organization":
+                        prep = displayData.ltOrg != undefined ? displayData.ltOrg : displayData.linkText
+                        break
+                    case "place":
+                        prep = displayData.ltPlace != undefined ? displayData.ltPlace : displayData.linkText
+                        break
+                    case "item":
+                        prep = displayData.ltItem != undefined ? displayData.ltItem : displayData.linkText
+                        break
+                    default:
+                        prep = displayData.linkText
                 }
             }
+
+            if (!prep) prep = ""
+            article = prep + " " + article
         }
 
         return article.trim()
     }
 
-    getName(target, format = "", alias = undefined) {
+    getName(target, format = "", alias = undefined, linkTextOverride = undefined, sourcePageType = undefined) {
 
         // this gets the canonical name of a potential link
         if (!target || target == "Untitled") return undefined
@@ -301,7 +324,7 @@ class NameManager {
         let fileData = this.getFileForTarget(target)
 
         if (!fileData) {
-            return this.#processDescriptiveName(alias ?? target, undefined, this.#getArticle(alias ?? target, undefined, articleType, includePreposition), linkType, casing, format.includes("u"))
+            return this.#processDescriptiveName(alias ?? target, undefined, this.#getArticle(alias ?? target, undefined, articleType, includePreposition, linkTextOverride, sourcePageType), linkType, casing, format.includes("u"))
         }
 
         let frontmatter = fileData.frontmatter
@@ -317,7 +340,7 @@ class NameManager {
                 selectedDescriptiveName = frontmatter.campaign + " " + frontmatter.sessionNumber
             }
         }
-        
-        return this.#processDescriptiveName(selectedDescriptiveName, fileData.filename, this.#getArticle(selectedDescriptiveName, frontmatter, articleType, includePreposition), linkType, casing, format.includes("u"))
+
+        return this.#processDescriptiveName(selectedDescriptiveName, fileData.filename, this.#getArticle(selectedDescriptiveName, frontmatter, articleType, includePreposition, linkTextOverride, sourcePageType), linkType, casing, format.includes("u"))
     }
 }
