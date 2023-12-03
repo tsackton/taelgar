@@ -107,6 +107,7 @@ class WhereaboutsManager {
         let results = []
 
         let displayData = NameManager.getDisplayData(metadata)
+        let pageType = NameManager.getPageType(metadata)
 
         let format = displayData.wParty
 
@@ -122,7 +123,7 @@ class WhereaboutsManager {
                     let person = element.person ?? element.campaign                    
                     if (person) {
                         let type = element.type ?? "seen"
-                        let text = StringFormatter.getFormattedString(formatStr, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person})
+                        let text = StringFormatter.getFormattedString(formatStr, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person},  undefined, undefined, pageType)
                         results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }

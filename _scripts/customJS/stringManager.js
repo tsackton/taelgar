@@ -1,5 +1,6 @@
 class StringFormatter {
 
+    formats = "tsUUaAxQqny"
 
     #getDefaultTypeOf(metadata) {
 
@@ -24,6 +25,12 @@ class StringFormatter {
 
         const { LocationManager } = customJS
 
+        const formatRegex = /^[!UutsaAnyxqQ]+$/;
+
+        let format = "q"
+        let filter = ""
+        let firstFormat = ""
+
         let followDate = targetDate
 
         // if the away end date of the whereabout is before the target date, use that as the follow date
@@ -31,14 +38,33 @@ class StringFormatter {
             followDate = whereabout.awayEnd
         }
 
-        let formatStringToUse = whereabout.startFilter ?? formatString
-        if (formatString.includes("!")) formatStringToUse = formatString        
-      
-        return LocationManager.getCurrentLocationName(whereabout, targetDate, formatStringToUse, sourcePageType)
+        let parsedFormat = formatString.split(";")
+        if (parsedFormat.length == 1) {
+            let containsFormatter = formatRegex.test(parsedFormat[0])
+            if (containsFormatter) {
+                firstFormat = parsedFormat[0]
+            } else {
+                filter = parsedFormat[0]
+            }
+        }
+        else if (parsedFormat.length == 2) {
+            firstFormat = parsedFormat[1]
+            filter = parsedFormat[0]
+        } else if (parsedFormat.lengtg == 3) {
+            firstFormat = parsedFormat[1]
+            filter = parsedFormat[0]
+            format = parsedFormat[2]
+        }
+
+        if (whereabout.startFilter && !filter.includes("!")) {
+            filter = whereabout.startFilter
+        }
+
+        return LocationManager.getCurrentLocationName(whereabout, targetDate, filter, sourcePageType, format, firstFormat)
     }
 
 
-    getFormattedString(formatString, file, targetDate, dateOverride, additionalData, nameAlias) {
+    getFormattedString(formatString, file, targetDate, dateOverride, additionalData, nameAlias, nameLinkTextOverride, sourcePageType) {
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
@@ -65,7 +91,7 @@ class StringFormatter {
         // a: indefinite article, A: indefinite article if first, x: no article, q: preposition
         // n: never link, y: always link
         // !: ignore the whereabouts format
-        const regexp = /<(\([()a-zA-Z-:\s]+\))?([a-zA-Z]+):?([!0-9UutsaAnyRrPpLlIiOoFfxqQ]+)?(\([()a-zA-Z-:\s]+\))?>/g;
+        const regexp = /<(\([()a-zA-Z-:\s]+\))?([a-zA-Z]+):?([!0-9UutsaAnyRrPpLlIiOoFfxqQ;]+)?(\([()a-zA-Z-:\s]+\))?>/g;
 
         let resultString = formatString
 
@@ -91,7 +117,7 @@ class StringFormatter {
             }
 
             if (key == "name") {
-                value = NameManager.getName(name, format, nameAlias)
+                value = NameManager.getName(name, format, nameAlias, nameLinkTextOverride, sourcePageType)
             } else if (key == "pronunciation") {
                 value = metadata.pronunciation
             } else if (key == "pronouns") {
@@ -101,11 +127,11 @@ class StringFormatter {
                     else if (metadata.gender) value = "they/them"
                 }
             } else if (key == "subtypeof" || key == "subtype") {
-                value = NameManager.getName(metadata.subTypeOf, format)
+                value = NameManager.getName(metadata.subTypeOf, format, undefined, nameLinkTextOverride, sourcePageType)
             } else if (key == "maintype" || key == "typeof" || key == "type") {
-                value = NameManager.getName(metadata.species, format, metadata.speciesAlias) ?? NameManager.getName(typeOf, format, metadata.typeOfAlias)
+                value = NameManager.getName(metadata.species, format, metadata.speciesAlias, nameLinkTextOverride, sourcePageType) ?? NameManager.getName(typeOf, format, metadata.typeOfAlias, nameLinkTextOverride, sourcePageType)
             } else if (key == "species") {
-                value = NameManager.getName(metadata.species, format, metadata.speciesAlias)
+                value = NameManager.getName(metadata.species, format, metadata.speciesAlias, nameLinkTextOverride, sourcePageType)
             } else if (key == "current") {
                 let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate).current
                 value = this.#getFormattedWhereaboutsString(wb, format, targetDate, pageType)
@@ -155,9 +181,9 @@ class StringFormatter {
                 else if (pageDateInfo.age) value = pageDateInfo.age + " years"
                 else value = ""
             } else if (key == "start") {
-                value = NameManager.getName(displayDefaults.startStatus, format)
+                value = NameManager.getName(displayDefaults.startStatus, format, undefined, nameLinkTextOverride, sourcePageType)
             } else if (key == "end") {
-                value = NameManager.getName(displayDefaults.endStatus, format)
+                value = NameManager.getName(displayDefaults.endStatus, format, undefined, nameLinkTextOverride, sourcePageType)
             } else if (key == "ka") {
                 if (metadata.species != "elf" && !metadata.ka) {
                     value = ""
@@ -180,7 +206,7 @@ class StringFormatter {
                 value = AffiliationManager.getFormattedPrimaryAffiliations(metadata, targetDate)
             }
             else {
-                value = NameManager.getName(value, format)
+                value = NameManager.getName(value, format, undefined, nameLinkTextOverride, sourcePageType)
             }
 
 
