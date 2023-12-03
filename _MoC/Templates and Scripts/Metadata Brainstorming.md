@@ -40,3 +40,7 @@ I think one key is this creates a lot of implicit metadata. E.g., if you are bor
 A key piece of code would likely be to check for inconsistencies in implicit metadata. You'd like to run a templater command that would report an error if there is conflicting implicit metadata, or have some other way to check this, and possibly a way to make it explicit (could lead to long frontmatter). 
 
 
+***Shorthands***
+Another key would be that while internally you might think of a list of associations, whereabouts, and events, you wouldn't, I think, want just three massive lists to set frontmatter (maybe you would). You'd like things like born to be a shorthand, be able to set ancestry and other common associations as a shorthand, etc. 
+
+Need to think about this a bit. 
