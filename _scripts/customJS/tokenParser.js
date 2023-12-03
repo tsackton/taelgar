@@ -1,6 +1,11 @@
 class TokenParser  {
 
-    // class to take a token in the format of <token:filter;format> or <token:formatfilter> and return an appropriate formatting string //
+    // This class is responsible for parsing tokens and returning formatted strings
+    // There are two main functions:
+    // 1. parseDisplayString: takes a display string with words and tokens ("This is a <token>, print it."), 
+    //      replaces each token with a formatted version, and returns a formatted string
+    // 2. getFormattedToken: takes a token string (<token:format>) and returns a formatted string
+    // Both functions take a string as the first argument, a file object as the second argument, and a targetDate as the third argument
 
     #parseTokenString(input, filterChars, formatChars) {
 
@@ -98,8 +103,8 @@ class TokenParser  {
     }
 
     #getFormattedString(value, token) {
-        // Takes a value and a token object and returns a formatted string
-        pass
+        // currently just uses the NameManager to get a formatted string
+        return NameManager.getName(value, token.format)
     }
 
     #getMainType(metadata, typeOf) {
@@ -118,7 +123,7 @@ class TokenParser  {
         return DateManager.normalizeDate(value).display
     }
 
-    #getFormattedToken(token, file, targetDate) {
+    #formatToken(token, file, targetDate) {
         // Takes a token object and returns a formatted string
 
         function getParameterCaseInsensitive(object, key) {
@@ -138,7 +143,7 @@ class TokenParser  {
 
         // if token is not valid, return empty string
         let value = "";
-
+        
         // clean up tokens //
         // target, targetdate, and currentdate are all the same thing
         if (token.token == "target" || token.token == "currentdate") token.token = "targetdate"
@@ -192,8 +197,7 @@ class TokenParser  {
 
             // start string options //
             case "name":
-                if (metadata.name) value = metadata.name
-                else value = file.name
+                value = file.name
                 formatter = "string"
                 break;
             case "maintype":
@@ -260,6 +264,7 @@ class TokenParser  {
                 formatter = "none"
                 break;
             // end complicated options //
+
             // REFACTOR OPTIONS //
             // these need to be refactored but I don't really understand the affiliation code yet //
             case "primary":
@@ -271,6 +276,8 @@ class TokenParser  {
                 // currently we just use the affliation manager here to get a fully formatted string
                 value = AffiliationManager.getAffiliationPartOf(metadata, token, targetDate)
                 break;
+            // END REFACTOR OPTIONS //
+
             default:
                 // if no special processing, check to see if it is a key in metadata, or failing that, displayDefaults
                 value = (getParameterCaseInsensitive(metadata, token.token) ?? getParameterCaseInsensitive(displayDefaults, token.token)) ?? ""
@@ -285,11 +292,11 @@ class TokenParser  {
         } else if (formatter == "locchain") {
             return this.#getFormattedLocChain(value, token, targetDate)
         } else {
-            return value
+            return value.desc
         }
     }
 
-    getDisplayString(input, metadata, targetDate) {
+    getFormattedToken(input, file, targetDate) {
         // Takes a string, which may contain a token, and returns a formatted string
         // If no token is present, returns the original string
 
@@ -324,9 +331,36 @@ class TokenParser  {
 
         // If the token is valid, get the formatted string
         if (token.token) {
-            resultString = this.#getFormattedToken(token, metadata, targetDate);
+            resultString = this.#formatToken(token, file, targetDate);
         }
 
         return resultString;
+    }
+
+    parseDisplayString(input, file, targetDate) {
+        // takes a display string, splits on tokens, formats each, and returns a formatted string
+        let pieces = input.trim().split(/\s+/)
+        let formattedPieces = pieces.map(piece => {
+            // Check for a token in the format <token>
+            let tokenMatch = piece.match(/<[^>]+>/);
+            if (tokenMatch) {
+                // Extract text before and after the token
+                let beforeToken = piece.substring(0, piece.indexOf(tokenMatch[0]));
+                let afterToken = piece.substring(piece.indexOf(tokenMatch[0]) + tokenMatch[0].length);
+    
+                // Pass the token to the token formatter
+                let formattedToken = this.getFormattedToken(tokenMatch[0], file, targetDate);
+    
+                // Replace the token with its formatted value
+                return beforeToken + formattedToken + afterToken;
+            } else {
+                // If no token is found, return the piece as is
+                return piece;
+            }
+        });
+    
+        // Reconstruct the string
+        return formattedPieces.join(" ");
+
     }
 }
