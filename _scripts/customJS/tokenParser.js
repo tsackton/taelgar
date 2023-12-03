@@ -9,7 +9,9 @@ class TokenParser  {
         let result = {
             token: null,
             filter: null,
-            format: null
+            format: null,
+            mindepth: null,
+            maxdepth: null
         };
 
         // Check if the input is in the expected format
@@ -27,6 +29,25 @@ class TokenParser  {
                 // Separate filter and format based on allowable characters
                 let filter = "";
                 let format = "";
+
+                // Check for a numerical range or limit at the beginning of the filter
+                let rangeRegex = /^(\d+-\d+|\d+-|-?\d+)/;
+                let rangeMatch = filterFormatString[0].match(rangeRegex);
+                if (rangeMatch) {
+                    let rangeParts = rangeMatch[0].split("-");
+                    if (rangeParts.length === 2) {
+                        // If both parts are present in the range
+                        // interpret as min-max
+                        result.mindepth = rangeParts[0] ? parseInt(rangeParts[0]) : 1;
+                        result.maxdepth = rangeParts[1] ? parseInt(rangeParts[1]) : null;
+                    } else {
+                        // If only one part is present (shorthand for "-number")
+                        // interpret as max
+                        result.maxdepth = parseInt(rangeParts[0]);
+                    }
+                    // Remove the range from the filter string
+                    filterFormatString[0] = filterFormatString[0].substring(rangeMatch[0].length);
+                }
 
                 for (let formatString of initialFormat) {
                     for (let char of formatString) {
