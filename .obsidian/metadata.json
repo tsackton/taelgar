@@ -104,7 +104,7 @@
         "organization": {
             "startStatus": "founded",
             "endStatus": "disbanded",
-            "wOrigin": "<startStatus:u> <origin:q>",
+            "wOrigin": "<start:u> <origin:q>",
             "wOriginU": "",
             "wHome": "Based <home:q>",
             "wPastHome": "Was based <home:q>",
