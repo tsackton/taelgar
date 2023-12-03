@@ -8,7 +8,6 @@ name: Harol Silversong
 born:
 species: halfling
 ancestry:
-pageTargetDate: 1748-08-14
 gender: male
 affiliations: [ {org: Silversongs, type: primary}, { place: Emerald Song, title: Captain, start: 0001} ]
 whereabouts: 

@@ -8,7 +8,6 @@ born: 1693
 species: human
 ancestry: Sembaran
 gender: male
-pageTargetDate: 1719-11-13
 whereabouts:
 - {type: home, location: 'Evis'}
 - {type: away, start: 1719-10-31, end: 1719-11-30, location: Wakog's Camp}

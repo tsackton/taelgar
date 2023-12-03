@@ -10,7 +10,6 @@ name: Dee Wildcloak
 born:
 species: halfling
 ancestry:
-pageTargetDate: 1748-01-01
 gender: female
 affiliations: [Society of the Open Scroll, {org: Wildcloaks, type: primary}]
 whereabouts:

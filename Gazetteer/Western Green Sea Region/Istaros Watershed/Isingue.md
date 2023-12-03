@@ -4,7 +4,6 @@ tags: [place, status/unknown, testcase]
 displayDefaults: {endStatus: Consumed by Cha'mutte's plague in, wOrigin: "A <primary:UA> <ancestry> <typeof:UA> <home:Fq>, once part of <origin:rA>", wPastHome: "<end> <target>", dPast: ""}
 campaignInfo: []
 name: Isingue
-pageTargetDate: 1548
 destroyed: 1545
 typeOf: city
 ancestry: Isinguer
