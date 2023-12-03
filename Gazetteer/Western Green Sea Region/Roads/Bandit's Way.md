@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {wHome: '<ancestry:UA> <typeof:UA> of <current>'}
 campaignInfo: []
 name: Bandit's Way
 typeOf: road
 typeOfAlias: section
-partOf: Great South Road
+whereabouts:
+- {location: Great South Road, prefix: of}
 ---
 # The Bandit's Way
 >[!info]+ Information

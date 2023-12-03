@@ -24,3 +24,14 @@ dv.table(["File", "Location"],
 		where(f => f.w).
 		map(x => [dv.fileLink(x.f), x.w]))
 ```
+
+
+```dataviewjs
+const {util} = customJS
+
+dv.table(["File", "Location"], 
+		dv.pages().where(b=>dv.isArray(b.whereabouts)).
+		flatMap(page => dv.array(page.whereabouts).map(w => {return {f: page.file.name, w: w.formatSpecifier ?? w.format,  }})).
+		where(f => f.w ).
+		map(x => [dv.fileLink(x.f), x.w]))
+```

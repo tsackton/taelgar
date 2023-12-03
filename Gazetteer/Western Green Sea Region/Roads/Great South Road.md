@@ -1,6 +1,7 @@
 ---
 tags: [place, status/notes, status/unknown]
 campaignInfo: []
+displayDefaults: {prep: on}
 name: Great South Road
 typeOf: road
 partOf:

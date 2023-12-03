@@ -1,5 +1,5 @@
 ---
-tags: [session-note, status/unknown]
+tags: [session-note]
 campaign: Cleenseau
 realWorldDate: 2023-01-08
 sessionNumber: 1
@@ -21,7 +21,7 @@ The party meets in [[Perrin Voclain|Perrin's]] house after the spider attack, an
 
 The party's discussion is broken up by the arrival of [[Ysabel]], who thanks them profusely and invites them to come stay at the [[Essford Manor]], the keep of the [[Wymar Essford|Lord of Cleenseau]]. After accepting her invitation, the party meets [[Brot Starsearcher|Brot]] and discusses the lunar surface and telescopes. Izgil offers to fund [[Brot Starsearcher|Brot's]] research as his family, the [[Gemcrafters]], are a wealth trading family from [[Nidzahar]]. [[Brot Starsearcher|Brot]] also gives [[Izgil Moonseeker|Izgil]] a [[Brot's Telescope (small)|working scale model of their telescope design]]. Izgil has some further private conversation with [[Brot Starsearcher|Brot]], and the party eventually heads to the manor to have dinner.
 
-The dinner is a quiet and akward affair as none of the Essford family attends. [[Rosalind Essford]] is in morning for her lost children, as is her husband [[Arthur Bybet]]. Her younger brother, [[Rinault Essford]] has ridden upriver seeking information about the [[Tragic Flood of the River Enst|the flood]], and her father [[Wymar Essford]] is unwell. The only bright point is when after dinner [[Robin of Abenfyrd|Robin]] plays his lute, which everyone finds quite moving. He is accompanied competently (just) by [[Celyn]] on the drums.
+The dinner is a quiet and awkward affair as none of the Essford family attends. [[Rosalind Essford]] is in mourning for her lost children, as is her husband [[Arthur Bybet]]. Her younger brother, [[Rinault Essford]] has ridden upriver seeking information about the [[Tragic Flood of the River Enst|the flood]], and her father [[Wymar Essford]] is unwell. The only bright point is when after dinner [[Robin of Abenfyrd|Robin]] plays his lute, which everyone finds quite moving. He is accompanied competently (just) by [[Celyn]] on the drums.
 
 At the dinner the party does meet a number of town notables: [[Ysabel]], the sheriff; [[Jonathon Henwyn]], the steward; [[Anselm]], the administrator of [[Temple of the Warlord in Cleenseau|the Warlod's Temple]]; [[Eremon]], an acolyte of [[The Night Queen]] and confident of the Essford family; [[Conrad]], [[Anselm|Anselm's]] assistant, and [[Sarabeth]], a senior guardswoman and veteran of the [[Army of the West]]. 
 
