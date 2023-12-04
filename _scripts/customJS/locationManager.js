@@ -172,7 +172,6 @@ class LocationManager {
             return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, undefined, whereabout.alias, whereabout.linkText, sourcePageType)
         } else {
             file = { name: file.filename, frontmatter: file.frontmatter }
-            let displayInfo = NameManager.getDisplayData(file.name)
             let formatStr = whereabout.format ?? "<name:" + format + ">"
             
             return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, undefined, whereabout.alias, whereabout.linkText, sourcePageType)
