@@ -92,47 +92,6 @@ class WhereaboutsManager {
         return candidateSet.filter(w => this.#get_distance_to_target(w, target) == soonestPossible)
     }
 
-    // to do: figure out where party meeting should go //
-    getPartyMeeting(metadata, campaign) {
-
-        // to do //
-        // figure out how to make this a bit more flexible with: //
-        // a) "by" vs other prepositions //
-        // b) format string overrides, e.g. with !//
-
-        const { StringFormatter } = customJS
-        const { NameManager } = customJS
-        const { DateManager } = customJS
-
-        let results = []
-
-        let displayData = NameManager.getDisplayData(metadata)
-        let pageType = NameManager.getPageType(metadata)
-
-        let format = displayData.wParty
-
-        if (metadata.campaignInfo) {
-            metadata.campaignInfo.filter(e => e.campaign && e.date).forEach(element => {
-
-                let displayDate = DateManager.normalizeDate(element.date)
-                let locForThisDate = this.getWhereabouts(metadata, element.date).current;
-
-                let formatStr = element.wParty ?? element.format ?? format
-
-                if (locForThisDate && (element.campaign == campaign || !campaign)) {
-                    let person = element.person ?? element.campaign                    
-                    if (person) {
-                        let type = element.type ?? "seen"
-                        let text = StringFormatter.getFormattedString(formatStr, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person},  undefined, undefined, pageType)
-                        results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
-                    }
-                }
-            });
-        }
-
-        return results
-    }
-
     getWhereaboutsList(metadata) {
         const {NameManager} = customJS
 

@@ -114,7 +114,7 @@ class AffiliationManager {
 
     getFormattedNonPrimaryAffiliations(metadata, targetDate) {
 
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
         const { DateManager } = customJS
         const { NameManager } = customJS
 
@@ -182,8 +182,9 @@ class AffiliationManager {
                 formatStr = displayOptions.aNoDate
             }
 
-            lines.push(StringFormatter.getFormattedString(formatStr, { frontmatter: metadata }, targetDate, dateInfo,
+            lines.push(TokenParser.parseDisplayString(formatStr, { frontmatter: metadata }, targetDate,
                 {
+                    dateInfo: dateInfo,
                     affiliationtitle: first.title,
                     org: locString
                 }))
@@ -197,7 +198,7 @@ class AffiliationManager {
 
         const { NameManager } = customJS
         const { DateManager } = customJS
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         else targetDate = DateManager.getTargetDateForPage()
@@ -226,8 +227,9 @@ class AffiliationManager {
                 DateManager.setPageDateProperties(dateInfo, targetDate)
                                 
 
-                lines.push(StringFormatter.getFormattedString(displayData?.ruledBy, { name: aff.file.file.name, frontmatter: aff.file }, targetDate, dateInfo,
+                lines.push(TokenParser.parseDisplayString(displayData?.ruledBy, { name: aff.file.file.name, frontmatter: aff.file }, targetDate,
                     {
+                        dateInfo: dateInfo,
                         affiliationtitle: aff.aff.title,
                         org: aff.aff.org
                     }))                

@@ -16,12 +16,13 @@ whereabouts:
 - {type: home, location: Chardon}
 ---
 # Antonia
+*(<pronunciation>)*
 >[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)
+> [[Chardonian Empire|Chardonian]] [[Humans|human]] <(()subspecies:s())> <(()pronouns())>, <(of )primary> <(()ka())>
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Imprisoned the [[Dunmar Fellowship]] on December 8th, 1748 trapped in the [[Mirror of Soul Trapping]], in [[Uzgukhar]], [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% Imprisoned with the [[Dunmar Fellowship]] on <target> The Mirror of Soul Trapping, Vindristjarna, Uzgukhar, Xurkhaz, The Garamjala Desert, Nashtkar, The Desolation of Cha'mutte %%^End%%
 
 A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 
