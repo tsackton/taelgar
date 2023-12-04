@@ -161,24 +161,30 @@ class LocationManager {
         let file = NameManager.getFileForTarget(whereabout.location)
         if (!file) {
             // we don't have a file, we are not going to be able to do a lot of fancy formattting, but lets see what we can do
-            file = { name: whereabout.location, frontmatter: {} }
-            let formatStr = whereabout.format ?? "<name:" + format + ">"
+            file = { frontmatter: {} }
 
-            return TokenParser.formatDisplayString(formatStr, file, targetDate, overrides)
         } else {
-            file = { name: file.filename, frontmatter: file.frontmatter }
-            let formatStr = whereabout.format ?? "<name:" + format + ">"
-            
-            return TokenParser.formatDisplayString(formatStr, file, targetDate, overrides)
+            file = { frontmatter: file.frontmatter }
         }
+
+        let formatStr = whereabout.format ?? "<name:" + format + ">"
+
+        let name = NameManager.getNameObject(whereabout.location, sourcePageType, {
+            alias: whereabout.alias,
+            linkText: whereabout.linkText,
+        })
+
+        return TokenParser.parseDisplayString(formatStr, file, targetDate, {
+            name: name
+        })
     }
 
     #getLocationFromPartOfs(whereabout, token, targetDate, thisDepth, sourcePageType) {
 
-        const { NameManager } = customJS    
+        const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
 
-        let formatToUse = thisDepth == 1 && token.firstformat != null ? token.firstformat : token.format;
+        let formatToUse = thisDepth == 1 ? firstFormat : format;
 
         if (!whereabout || !whereabout.location) {
             let returnForUnknown = "";
@@ -196,7 +202,8 @@ class LocationManager {
             if (thisDepth > 1) return ""
             if (token.filter.includes("r")) return ""
 
-            return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
+            // for now this is hardcoded
+            return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType, "Gazetteer")
         }
 
         let file = NameManager.getFileForTarget(whereabout.location)
@@ -215,13 +222,13 @@ class LocationManager {
                 }, token, targetDate, thisDepth, sourcePageType)
             }
 
-            return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
+            return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType, undefined)
         }
 
 
         let pageType = NameManager.getPageType(file.frontmatter)
-        let nameSection = this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
-        let nextLevelCheck = this.#shouldAllowPiece(token, thisDepth, file.frontmatter)
+        let nameSection = this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType, file.name)
+        let nextLevelCheck = this.#shouldAllowPiece(filter, thisDepth, file.frontmatter)
 
         if (!nextLevelCheck.continue) {
             return nameSection

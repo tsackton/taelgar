@@ -24,10 +24,11 @@ class EventManager {
                 let formatStr = element.wParty ?? element.format ?? format
 
                 if (locForThisDate && (element.campaign == campaign || !campaign)) {
-                    let person = element.person ?? element.campaign                    
+                    let person = element.person ?? element.campaign
                     if (person) {
                         let type = element.type ?? "seen"
-                        let text = TokenParser.formatDisplayString(formatStr, {frontmatter: metadata, file: ""}, displayDate, {met: type, person: person, sourcePageType: pageType})
+                        let personName = NameManager.getNameObject(person, pageType)   
+                        let text = TokenParser.formatDisplayString(formatStr, {frontmatter: metadata, file: ""}, displayDate, {met: type, person: personName, sourcePageType: pageType})
                         results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }
