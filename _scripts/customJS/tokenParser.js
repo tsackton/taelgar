@@ -33,90 +33,93 @@ class TokenParser  {
         // Initial structure of the result
         let result = {
             token: null,
-            filter: null,
-            format: null,
-            firstformat: null,
+            filter: "",
+            format: "",
+            firstformat: "",
             mindepth: 1,
-            maxdepth: null
+            maxdepth: null,
+            prefix: "",
+            suffix: ""
         };
 
-        // Check if the input is in the expected format
-        if (input.startsWith("<") && input.endsWith(">")) {
-            let innerContent = input.slice(1, -1).split(":");
-            
-            if (innerContent.length === 1) {
-                // Case for only token
-                result.token = innerContent[0];
-            } else if (innerContent.length === 2) {
-                // Case for token with filter and format
-                result.token = innerContent[0];
-                let filterFormatString = innerContent[1].split(";");
+        // parse the prefix, suffix, token, and format
+        const tokenRegex = "^<(\(.+\))?([a-zA-Z]+):?([^:()]*)?(\(.*\))?>$"
+        let tokenMatch = input.match(tokenRegex);
+        // match1 is the prefix, match2 is the token, match3 is the filter/format, match4 is the suffix
+        if (tokenMatch) {
+            result.prefix = tokenMatch[1].slice(1, -1) ?? "";
+            result.suffix = tokenMatch[4].slice(1, -1) ?? "";
+            result.token = tokenMatch[2] ?? "";
 
-                // Separate filter and format based on allowable characters
-                let filter = "";
-                let format = "";
-                let firstformat = "";
+            // parse filterFormat string //
 
-                // Check for a numerical range or limit at the beginning of the filter
-                let rangeRegex = /^(\d+-\d+|\d+-|-?\d+)/;
-                let rangeMatch = filterFormatString[0].match(rangeRegex);
-                if (rangeMatch) {
-                    let rangeParts = rangeMatch[0].split("-");
-                    if (rangeParts.length === 2) {
-                        // If both parts are present in the range
-                        // interpret as min-max
-                        result.mindepth = rangeParts[0] ? parseInt(rangeParts[0]) : 1;
-                        result.maxdepth = rangeParts[1] ? parseInt(rangeParts[1]) : null;
-                    } else {
-                        // If only one part is present (shorthand for "-number")
-                        // interpret as max
-                        result.maxdepth = parseInt(rangeParts[0]);
-                    }
-                    // Remove the range from the filter string
-                    filterFormatString[0] = filterFormatString[0].substring(rangeMatch[0].length);
+            let filterFormatString = tokenMatch[3].split(";");
+
+            // Separate filter and format based on allowable characters
+            let filter = "";
+            let format = "";
+            let firstformat = "";
+
+            // Check for a numerical range or limit at the beginning of the filter
+            let rangeRegex = /^(\d+-\d+|\d+-|-?\d+)/;
+            let rangeMatch = filterFormatString[0].match(rangeRegex);
+            if (rangeMatch) {
+                let rangeParts = rangeMatch[0].split("-");
+                if (rangeParts.length === 2) {
+                    // If both parts are present in the range
+                    // interpret as min-max
+                    result.mindepth = rangeParts[0] ? parseInt(rangeParts[0]) : 1;
+                    result.maxdepth = rangeParts[1] ? parseInt(rangeParts[1]) : null;
+                } else {
+                    // If only one part is present (shorthand for "-number")
+                    // interpret as max
+                    result.maxdepth = parseInt(rangeParts[0]);
                 }
-
-                // a full formatfilter string is defined as filter;format;firstformat
-                // if the string is only two parts, it is filter+format;firstformat
-                // if the string is only one part, it is filter+(firstformat=format)
-
-                if (filterFormatString.length === 1) {
-                    // we just have a string, what is it?
-                    // we will parse it as a filter+format string, and assume that the format applies to all steps
-                    for (let char of filterFormatString[0]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) firstformat += char;
-                        if (formatChars.includes(char)) format += char;
-                    }
-                } else if (filterFormatString.length === 2) {
-                    // we have a filter and a format
-                    // we will parse it as a filter+format string, and a first format string
-                    for (let char of filterFormatString[0]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) format += char;
-                    } 
-                    for (let char of filterFormatString[1]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) firstformat += char;
-                    }
-                } else if (filterFormatString.length === 3) {
-                    // we have a filter, a first format, and a format
-                    // part 1 is the filter, part 2 is the format, part 3 is the first format
-                    for (let char of filterFormatString[0]) {
-                        if (filterChars.includes(char)) filter += char;
-                    } 
-                    for (let char of filterFormatString[1]) {
-                        if (formatChars.includes(char)) format += char;
-                    }
-                    for (let char of filterFormatString[2]) {
-                        if (formatChars.includes(char)) firstformat += char;
-                    }
-                }
-
-                result.filter = remDup(filter);
-                result.format = remDup(format);
-                result.firstformat = remDup(firstformat) ?? result.format;
+                // Remove the range from the filter string
+                filterFormatString[0] = filterFormatString[0].substring(rangeMatch[0].length);
             }
+
+            // a full formatfilter string is defined as filter;format;firstformat
+            // if the string is only two parts, it is filter+format;firstformat
+            // if the string is only one part, it is filter+(firstformat=format)
+
+            if (filterFormatString.length === 1) {
+                // we just have a string, what is it?
+                // we will parse it as a filter+format string, and assume that the format applies to all steps
+                for (let char of filterFormatString[0]) {
+                    if (filterChars.includes(char)) filter += char;
+                    if (formatChars.includes(char)) firstformat += char;
+                    if (formatChars.includes(char)) format += char;
+                }
+            } else if (filterFormatString.length === 2) {
+                // we have a filter and a format
+                // we will parse it as a filter+format string, and a first format string
+                for (let char of filterFormatString[0]) {
+                    if (filterChars.includes(char)) filter += char;
+                    if (formatChars.includes(char)) format += char;
+                } 
+                for (let char of filterFormatString[1]) {
+                    if (filterChars.includes(char)) filter += char;
+                    if (formatChars.includes(char)) firstformat += char;
+                }
+            } else if (filterFormatString.length === 3) {
+                // we have a filter, a first format, and a format
+                // part 1 is the filter, part 2 is the format, part 3 is the first format
+                for (let char of filterFormatString[0]) {
+                    if (filterChars.includes(char)) filter += char;
+                } 
+                for (let char of filterFormatString[1]) {
+                    if (formatChars.includes(char)) format += char;
+                }
+                for (let char of filterFormatString[2]) {
+                    if (formatChars.includes(char)) firstformat += char;
+                }
+            }
+
+            result.filter = remDup(filter);
+            result.format = remDup(format);
+            result.firstformat = remDup(firstformat) ?? result.format;
+
         }
 
         return result;
@@ -199,10 +202,6 @@ class TokenParser  {
         }
 
         return undefined;
-    }
-
-    #splitTokenString(input) {
-        return { tokenFormat: input }
     }
 
     formatToken(token, file, targetDate, overrides) {
@@ -389,35 +388,27 @@ class TokenParser  {
         }
     }
 
-    getFormattedToken(input, file, targetDate, overrides) {
+    formatTokenString(input, file, targetDate, overrides) {
         // Takes a string, which is a token, and returns a formatted string
         // If no token is present, returns the original string
 
-        // Parse the token string
-        console.log(input)
-        let splitInput = this.#splitTokenString(input)
-        console.log(splitInput)
-        let formattedToken = null
-        let token = null
+        // Parse the token string into a token object
+        token = this.#parseTokenString(input, this.filterChars, this.formatChars);
 
-        if (splitInput) {
-            token = this.#parseTokenString(splitInput.tokenFormat, this.filterChars, this.formatChars);
-            console.log(token)
-            // If the token is valid, get the formatted string
-            if (token.token) {
-                formattedToken = this.formatToken(token, file, targetDate, overrides);
-                console.log(formattedToken)
-            }
+        // If the token is valid, get the formatted string
+        if (token.token) {
+            formattedToken = this.formatToken(token, file, targetDate, overrides);
+            console.log(formattedToken)
         }
 
         if (formattedToken) {
-            return (splitInput.prefix + formattedToken + splitInput.suffix).trim()
+            return (token.prefix + formattedToken + token.suffix).trim()
         } else {
-            return input
+            return ""
         }
     }
 
-    parseDisplayString(input, file, targetDate, overrides) {
+    formatDisplayString(input, file, targetDate, overrides) {
         // takes a display string, splits on tokens, formats each, and returns a formatted string
         let pieces = input.trim().split(/\s+/)
         let formattedPieces = pieces.map(piece => {
@@ -429,7 +420,7 @@ class TokenParser  {
                 let afterToken = piece.substring(piece.indexOf(tokenMatch[0]) + tokenMatch[0].length);
     
                 // Pass the token to the token formatter
-                let formattedToken = this.getFormattedToken(tokenMatch[0], file, targetDate, overrides);
+                let formattedToken = this.formatTokenString(tokenMatch[0], file, targetDate, overrides);
 
                 // if formattedToken is empty, don't return anything
                 if (!formattedToken) {
@@ -446,7 +437,11 @@ class TokenParser  {
         });
     
         // Reconstruct the string
-        return formattedPieces.join(" ").trim();
-
+        let formattedString = formattedPieces.join(" ").trim();
+        if (formattedString.match(/[A-Za-z0-9]+/)) {
+            return formattedString;
+        } else {
+            return "";
+        }        
     }
 }

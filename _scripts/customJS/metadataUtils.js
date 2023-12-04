@@ -152,7 +152,7 @@ class util {
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         else targetDate = DateManager.getTargetDateForPage(targetFile.frontmatter)
 
-        return TokenParser.parseDisplayString(format, {name: targetFile?.name ?? targetFile, frontmatter: targetFile.frontmatter}, targetDate)
+        return TokenParser.formatDisplayString(format, {name: targetFile?.name ?? targetFile, frontmatter: targetFile.frontmatter}, targetDate)
     }
 
 }

@@ -164,12 +164,12 @@ class LocationManager {
             file = { name: whereabout.location, frontmatter: {} }
             let formatStr = whereabout.format ?? "<name:" + format + ">"
 
-            return TokenParser.parseDisplayString(formatStr, file, targetDate, overrides)
+            return TokenParser.formatDisplayString(formatStr, file, targetDate, overrides)
         } else {
             file = { name: file.filename, frontmatter: file.frontmatter }
             let formatStr = whereabout.format ?? "<name:" + format + ">"
             
-            return TokenParser.parseDisplayString(formatStr, file, targetDate, overrides)
+            return TokenParser.formatDisplayString(formatStr, file, targetDate, overrides)
         }
     }
 
