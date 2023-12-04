@@ -182,7 +182,7 @@ class AffiliationManager {
                 formatStr = displayOptions.aNoDate
             }
 
-            lines.push(TokenParser.parseDisplayString(formatStr, { frontmatter: metadata }, targetDate,
+            lines.push(TokenParser.formatDisplayString(formatStr, { frontmatter: metadata }, targetDate,
                 {
                     dateInfo: dateInfo,
                     affiliationtitle: first.title,
@@ -227,7 +227,7 @@ class AffiliationManager {
                 DateManager.setPageDateProperties(dateInfo, targetDate)
                                 
 
-                lines.push(TokenParser.parseDisplayString(displayData?.ruledBy, { name: aff.file.file.name, frontmatter: aff.file }, targetDate,
+                lines.push(TokenParser.formatDisplayString(displayData?.ruledBy, { name: aff.file.file.name, frontmatter: aff.file }, targetDate,
                     {
                         dateInfo: dateInfo,
                         affiliationtitle: aff.aff.title,

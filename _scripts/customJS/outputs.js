@@ -86,16 +86,16 @@ class OutputHandler {
         let hasPageDates = pageDates.startDate || pageDates.endDate
         let pageType = NameManager.getPageType(metadata)
     
-        let output = TokenParser.parseDisplayString("# <name:tn>", file) + "\n"
+        let output = TokenParser.formatDisplayString("# <name:tn>", file) + "\n"
     
-        let secondary = TokenParser.parseDisplayString("*(<pronunciation>)*", file)
+        let secondary = TokenParser.formatDisplayString("*(<pronunciation>)*", file)
         if (secondary && secondary.length > 0) {
             output += secondary + "\n"
         }
     
         let summaryBlockLines = []
     
-        let typeOf = TokenParser.parseDisplayString(displayDefaults.boxInfo, file)
+        let typeOf = TokenParser.formatDisplayString(displayDefaults.boxInfo, file)
         if (typeOf && typeOf.length > 0) {
             summaryBlockLines.push("> " + typeOf)
         }
@@ -123,7 +123,7 @@ class OutputHandler {
             summaryBlockLines.push("> " + line)
         }
     
-        let partOf = TokenParser.parseDisplayString(displayDefaults.partOf, file)
+        let partOf = TokenParser.formatDisplayString(displayDefaults.partOf, file)
         if (partOf && partOf.length > 0) {
             summaryBlockLines.push("> " + partOf)
         }
@@ -183,20 +183,20 @@ class OutputHandler {
         // origin string construction //
         // if origin is unknown, use unknown string //
         // don't care about alive/dead for origin //
-        let originString = TokenParser.parseDisplayString(whereabout.origin.location ? (whereabout.origin.originFormat ?? displayDefaults.wOrigin) : displayDefaults.wOriginU, file, pageYear)
+        let originString = TokenParser.formatDisplayString(whereabout.origin.location ? (whereabout.origin.originFormat ?? displayDefaults.wOrigin) : displayDefaults.wOriginU, file, pageYear)
     
         // home string construction //
         if (isPageAlive) {
-            homeString = TokenParser.parseDisplayString(whereabout.home.location ? (whereabout.home.homeFormat ?? displayDefaults.wHome) : displayDefaults.wHomeU, file, pageYear)
+            homeString = TokenParser.formatDisplayString(whereabout.home.location ? (whereabout.home.homeFormat ?? displayDefaults.wHome) : displayDefaults.wHomeU, file, pageYear)
         } else {
-            homeString = TokenParser.parseDisplayString(whereabout.home.location ? (whereabout.home.pastHomeFormat ?? displayDefaults.wPastHome) : displayDefaults.wPastHomeU, file, pageYear)
+            homeString = TokenParser.formatDisplayString(whereabout.home.location ? (whereabout.home.pastHomeFormat ?? displayDefaults.wPastHome) : displayDefaults.wPastHomeU, file, pageYear)
         }
     
         // current string construction //    
-        let currentString = TokenParser.parseDisplayString((isPageAlive ? (whereabout.current.currentFormat ?? displayDefaults.wCurrent) : (whereabout.current.pastFormat ?? displayDefaults.wPast)), file, pageYear)
+        let currentString = TokenParser.formatDisplayString((isPageAlive ? (whereabout.current.currentFormat ?? displayDefaults.wCurrent) : (whereabout.current.pastFormat ?? displayDefaults.wPast)), file, pageYear)
     
         // last known string construction //
-        let knownString = TokenParser.parseDisplayString(knownLastKnown ? (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastKnown) : (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastNoDate), file, pageYear)
+        let knownString = TokenParser.formatDisplayString(knownLastKnown ? (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastKnown) : (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastNoDate), file, pageYear)
     
     
         if (!whereabout.origin.location || whereabout.origin.location != whereabout.home.location) {
@@ -261,7 +261,7 @@ class OutputHandler {
             return ""
         }
 
-        return TokenParser.parseDisplayString(formatStr, { name: fileName, frontmatter: metadata })
+        return TokenParser.formatDisplayString(formatStr, { name: fileName, frontmatter: metadata })
 
     }
 
