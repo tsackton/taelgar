@@ -34,7 +34,7 @@ class WhereaboutsManager {
 
         if (type == "excursion") type = "away"
         if (type == "origin") type = "home"
-        
+
         if (!location) {
             let hasPlace = isValidLocPiece(w.place)
             let hasRegion = isValidLocPiece(w.region)
@@ -60,7 +60,7 @@ class WhereaboutsManager {
             logicalStart: logicalStart,
             linkText: w.linkText,
             awayEnd: awayEnd,
-            startFilter : w.startFilter,
+            startFilter: w.startFilter,
             format: w.format,
 
             // these should generally not be used - might go away
@@ -69,7 +69,7 @@ class WhereaboutsManager {
             originFormat: w.origin ?? w.wOrigin ?? w.originFormat,
             currentFormat: w.current ?? w.wCurrent ?? w.currentFormat,
             lastKnownFormat: w.lastKnown ?? w.wLastKnown ?? w.lastKnownFormat,
-            pastFormat : w.past ?? w.wPast ?? w.pastFormat
+            pastFormat: w.past ?? w.wPast ?? w.pastFormat
         }
     }
 
@@ -100,7 +100,7 @@ class WhereaboutsManager {
         // a) "by" vs other prepositions //
         // b) format string overrides, e.g. with !//
 
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
         const { NameManager } = customJS
         const { DateManager } = customJS
 
@@ -120,10 +120,16 @@ class WhereaboutsManager {
                 let formatStr = element.wParty ?? element.format ?? format
 
                 if (locForThisDate && (element.campaign == campaign || !campaign)) {
-                    let person = element.person ?? element.campaign                    
+                    let person = element.person ?? element.campaign
                     if (person) {
+                        let personName = NameManager.getNameObject(person, pageType)
                         let type = element.type ?? "seen"
-                        let text = StringFormatter.getFormattedString(formatStr, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person},  undefined, undefined, pageType)
+                        
+                        let text = TokenParser.parseDisplayString(formatStr,
+                            { frontmatter: metadata, file: "" },
+                            displayDate,
+                            { met: type, person: personName })
+
                         results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }
@@ -134,7 +140,7 @@ class WhereaboutsManager {
     }
 
     getWhereaboutsList(metadata) {
-        const {NameManager} = customJS
+        const { NameManager } = customJS
 
         if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
             let wb = metadata.whereabouts
@@ -143,15 +149,15 @@ class WhereaboutsManager {
             }
 
             return wb.map(f => this.#getNormalizedWhereabout(f))
-        // backwards compatability // 
-        // if place has partOf but no whereabouts, use partOf for whereabouts //
+            // backwards compatability // 
+            // if place has partOf but no whereabouts, use partOf for whereabouts //
         } else if (metadata && NameManager.getPageType(metadata) == "place") {
             let wb = [{ type: "home", location: metadata.partOf }]
             return wb.map(f => this.#getNormalizedWhereabout(f))
         }
 
         return []
-    } 
+    }
 
     getWhereabouts(metadata, targetDate) {
         const { DateManager } = customJS
