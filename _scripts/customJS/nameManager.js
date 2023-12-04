@@ -362,7 +362,7 @@ class NameManager {
 
         if (initialUpper) {
             nameStr = toFirstUpper(nameStr)
-            nameStr = false;
+            initialUpper = false;
         }
 
         // avoid creating links in certain cases
@@ -455,7 +455,7 @@ class NameManager {
             if (wordCount > 1) return "the"
             return ""
         } else {
-            return "the"
+            return ""
         }
     }
 
@@ -483,7 +483,7 @@ class NameManager {
         if (!fileData) {
             // we don't have a target
             return {
-                name: overrides.alias ?? target,
+                name: (overrides.alias ?? target),
                 linkTarget: undefined,
                 definiteArticle: this.#getDefArt(overrides.alias ?? target),
                 indefiniteArticle: this.#getIndefArt(overrides.alias ?? target),
