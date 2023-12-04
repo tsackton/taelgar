@@ -465,6 +465,8 @@ class NameManager {
     //  { alias:, article:, linkText: }
     getNameObject(target, sourceType, overrides) {
 
+        if (target && target.isNormalizedName) return target
+
         if (!overrides) overrides = {}
 
         // this gets the canonical name of a potential link
@@ -474,7 +476,8 @@ class NameManager {
                 linkTarget: undefined,
                 indefiniteArticle: overrides.indefiniteArticle ?? "",
                 definiteArticle: overrides.definiteArticle ?? "",
-                linkText: overrides.linkText ?? ""
+                linkText: overrides.linkText ?? "",
+                isNormalizedName: true
             }
         }
 
@@ -487,7 +490,8 @@ class NameManager {
                 linkTarget: undefined,
                 definiteArticle: overrides.indefiniteArticle ?? this.#getDefArt(overrides.alias ?? target),
                 indefiniteArticle: overrides.definiteArticle ?? this.#getIndefArt(overrides.alias ?? target),
-                linkText: overrides.linkText ?? ""
+                linkText: overrides.linkText ?? "",
+                isNormalizedName: true
             }
         }
 
@@ -527,7 +531,8 @@ class NameManager {
             definiteArticle: overrides.definiteArticle ?? defArt,
             indefiniteArticle: overrides.indefiniteArticle ?? indefArt,
             linkTarget: fileData.filename,
-            linkText: overrides.linkText ?? this.#getLinkText(fileData.frontmatter, sourceType)
+            linkText: overrides.linkText ?? this.#getLinkText(fileData.frontmatter, sourceType),
+            isNormalizedName: true
         }
 
     }
