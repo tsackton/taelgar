@@ -86,9 +86,9 @@ class OutputHandler {
         let hasPageDates = pageDates.startDate || pageDates.endDate
         let pageType = NameManager.getPageType(metadata)
 
-        let output = TokenParser.parseDisplayString("# <name:tn>", file) + "\n"
+        let output = TokenParser.formatDisplayString("# <name:tn>", file) + "\n"
 
-        let secondary = TokenParser.parseDisplayString("<(*()pronunciation()*)>", file)
+        let secondary = TokenParser.formatDisplayString("<(*()pronunciation()*)>", file)
         if (secondary && secondary.length > 0) {
             output += secondary + "\n"
         }

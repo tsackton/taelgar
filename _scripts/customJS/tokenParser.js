@@ -13,7 +13,7 @@ class TokenParser {
         !: prefer this format if possible
     ***/
 
-    formatChars = "qQaAxnytsUu!"
+    formatChars = "qQaAxnytsUu!";
 
     // * filter definitions * //
     /*** 
@@ -25,11 +25,11 @@ class TokenParser {
         O = include organizations only; o = exclude organizations
     ***/
 
-    filterChars = "rRpPlLiIoOfF!"
+    filterChars = "rRpPlLiIoOfF!";
 
     // defines a regex for parsing tokens //
 
-    tokenRegex = /<(\(.*?\))?([a-zA-Z]+):?([^:()\s<>]+?)?(\(.*?\))?>/g
+    tokenRegex = /<(\(.*?\))?([a-zA-Z]+):?([^:()\s<>]+?)?(\(.*?\))?>/g;
 
     #parseTokenString(input, isFirst) {
          // isFirst allows for special handling of certain format specifiers which need to be conditional on the value being the first in the chain //
@@ -281,7 +281,7 @@ class TokenParser {
             }
 
             const { NameManager } = customJS;
-            results.push(this.parseDisplayString(whereabout.format ?? "<name:" + formatStr + ">", {}, targetDate, whereabout))
+            results.push(this.formatDisplayString(whereabout.format ?? "<name:" + formatStr + ">", {}, targetDate, whereabout))
         }
 
         return results.join(', ')

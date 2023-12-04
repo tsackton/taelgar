@@ -174,7 +174,7 @@ class LocationManager {
             linkText: whereabout.linkText,
         })
 
-        return TokenParser.parseDisplayString(formatStr, file, targetDate, {
+        return TokenParser.formatDisplayString(formatStr, file, targetDate, {
             name: name
         })
     }
