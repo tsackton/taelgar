@@ -472,8 +472,8 @@ class NameManager {
             return {
                 name: overrides.alias ?? "",
                 linkTarget: undefined,
-                indefiniteArticle: "",
-                definiteArticle: "",
+                indefiniteArticle: overrides.indefiniteArticle ?? "",
+                definiteArticle: overrides.definiteArticle ?? "",
                 linkText: overrides.linkText ?? ""
             }
         }
@@ -485,9 +485,9 @@ class NameManager {
             return {
                 name: (overrides.alias ?? target),
                 linkTarget: undefined,
-                definiteArticle: this.#getDefArt(overrides.alias ?? target),
-                indefiniteArticle: this.#getIndefArt(overrides.alias ?? target),
-                linkText: ""
+                definiteArticle: overrides.indefiniteArticle ?? this.#getDefArt(overrides.alias ?? target),
+                indefiniteArticle: overrides.definiteArticle ?? this.#getIndefArt(overrides.alias ?? target),
+                linkText: overrides.linkText ?? ""
             }
         }
 
@@ -524,8 +524,8 @@ class NameManager {
 
         return {
             name: selectedDescriptiveName,
-            definiteArticle: defArt,
-            indefiniteArticle: indefArt,
+            definiteArticle: overrides.definiteArticle ?? defArt,
+            indefiniteArticle: overrides.indefiniteArticle ?? indefArt,
             linkTarget: fileData.filename,
             linkText: overrides.linkText ?? this.#getLinkText(fileData.frontmatter, sourceType)
         }
@@ -533,9 +533,7 @@ class NameManager {
     }
 
     // This returns a "name" for either a page or a string
-
     getName(target, format = "", alias = undefined, linkTextOverride = undefined, sourcePageType = undefined) {
-
 
         let nameObject = this.getNameObject(target, sourcePageType, {
             alias: alias,
@@ -543,48 +541,5 @@ class NameManager {
         })
 
         return this.formatName(nameObject, format)
-
-        // this gets the canonical name of a potential link
-        if (!target || target == "Untitled") return undefined
-
-        let linkType = this.#getLinkType(format)
-        let casing = this.#getCasing(format)
-        let articleType = this.#getArticleType(format)
-        let includePreposition = this.#getIncludePreposition(format)
-
-        if (linkType == this.CreateLink) {
-            if (target.includes(",")) linkType = this.LinkIfValid
-            let fragmentsThatDontAlwaysLink = this.#getElementFromMetadata("fragmentsThatDontAutoLink")
-            if (fragmentsThatDontAlwaysLink) {
-                for (let word of target.split(' ')) {
-                    if (fragmentsThatDontAlwaysLink.includes(word.toLowerCase())) {
-                        linkType = this.LinkIfValid
-                        break
-                    }
-                }
-            }
-        }
-
-        let fileData = this.getFileForTarget(target)
-
-        if (!fileData) {
-            return this.#processDescriptiveName(alias ?? target, undefined, this.#getArticle(alias ?? target, undefined, articleType, includePreposition, linkTextOverride, sourcePageType), linkType, casing, format.includes("u"))
-        }
-
-        let frontmatter = fileData.frontmatter
-        let selectedDescriptiveName = alias ?? (fileData.isAlias ? target : fileData.filename)
-
-        if (!fileData.isAlias && !alias) {
-            if (frontmatter.title && frontmatter.name) {
-                selectedDescriptiveName = frontmatter.title + " " + frontmatter.name
-            }
-            else if (frontmatter.name) {
-                selectedDescriptiveName = frontmatter.name
-            } else if (frontmatter.campaign && frontmatter.sessionNumber) {
-                selectedDescriptiveName = frontmatter.campaign + " " + frontmatter.sessionNumber
-            }
-        }
-
-        return this.#processDescriptiveName(selectedDescriptiveName, fileData.filename, this.#getArticle(selectedDescriptiveName, frontmatter, articleType, includePreposition, linkTextOverride, sourcePageType), linkType, casing, format.includes("u"))
     }
 }
