@@ -4,6 +4,7 @@ class TokenParser {
 
     // Define the allowable filter and format characters
     // unused characters: b c d e g h j k m v w z
+
     // * format definitions * //
     /*** 
         t: title case; s: lower case, u: initial upper case
@@ -134,15 +135,20 @@ class TokenParser {
         // subtype is the same as subtypeof //
         if (token.token == "subtype") token.token = "subtypeof"
         // typeof and type are the same as maintype //        
-        if (token.token == "typeof" || token.token == "type") token.token = "maintype"
+        if (token.token == "maintype" || token.token == "type") token.token = "typeof"
 
-        if (token.format.includes("U") && isFirst) token.format.replace("U", "u")
-        else token.format.replace("U", "")
+        if (token.format.includes("U") && isFirst) token.format = token.format.replace("U", "u")
+        else token.format = token.format.replace("U", "")
 
-        if (token.format.includes("A") && isFirst) token.format.replace("A", "a")
-        else token.format.replace("A", "")
+        if (token.format.includes("A") && isFirst) token.format = token.format.replace("A", "a")
+        else token.format = token.format.replace("A", "")
+
+        // all tokens are lower case //
+        token.token = token.token.toLowerCase()
 
         return token
+
+        // complicated regex kept as a comment for reference //
 
         // this is a complicated regex, but basically it is 6 groups:
         //      first, prefix: contained in (), any letters or spaces
@@ -178,10 +184,6 @@ class TokenParser {
         ];
     }
 
-    #getFormattedPrimaryAffiliations(value, token) {
-
-    }
-
     #getFormattedCaseString(value, token) {
         // this is something that can never be meaningfully linked
         // and never has an article
@@ -195,25 +197,34 @@ class TokenParser {
         return NameManager.formatName(name, token.format)
     }
 
-    #getFormattedName(value, token) {
+    #getFormattedName(value, token, metadata) {
         // returns a formatted name
         // pass the format and the name to the name manager to generate a formatted name
 
         const { NameManager } = customJS;
+        let name = undefined
 
-        let possibleAliasKey = token.token + "Alias"
-        let alias = metadata.alias ?? this.#getParameterCaseInsensitive(metadata, possibleAliasKey)
-        let sourcePageType = metadata.sourcePageType ?? NameManager.getPageType(metadata)
-        let format = token.format ?? ""
-
-        return NameManager.getName(value, format, alias, metadata.linkText, sourcePageType)
-        // this probably just returns itself, but...
-        let name = NameManager.getNameObject(value)
+        // check to see if we have a name object
+        if (value?.isNormalizedName) {
+            // we have a name object
+            // this probably just returns itself, but...
+            name = NameManager.getNameObject(value)
+        } else {
+            // see if we can build a name object
+            let possibleAliasKey = token.token + "Alias"
+            let alias = this.#getParameterCaseInsensitive(metadata, possibleAliasKey)
+            let sourcePageType = NameManager.getPageType(metadata)
+            if (alias) {
+                name = NameManager.getNameObject(value, sourcePageType, undefined, { alias: alias })
+            } else {
+                name = NameManager.getNameObject(value, sourcePageType)
+            }
+        }
 
         return NameManager.formatName(name, token.format)
     }
 
-    #getFormattedWhereabout(whereabout, token, targetDate, metadata) {
+    #getFormattedWhereaboutList(whereabout, token, targetDate, metadata) {
 
         const { NameManager } = customJS;
         const { LocationManager } = customJS;
@@ -236,6 +247,59 @@ class TokenParser {
 
         return LocationManager.getCurrentLocationName(whereabout, token, followDate, sourcePageType)
   
+    }
+
+    #getWhereaboutChain(whereabout, targetDate, filter, sourcePageType) {
+
+        const { WhereaboutsManager } = customJS
+
+        // returns a formatted location chain
+        let followDate = targetDate
+
+        // if the away end date of the whereabout is before the target date, use that as the follow date
+        if (whereabout.awayEnd && targetDate && whereabout.awayEnd.sort < targetDate.sort) {
+            followDate = whereabout.awayEnd
+        }
+
+        return WhereaboutsManager.getWhereaboutChain(whereabout, followDate, whereabout.startFilter ?? filter, sourcePageType, false)
+    }
+
+    #getFormattedWhereaboutList(value, token, targetDate) {
+
+        if (!Array.isArray(value)) return ""
+
+        let results = []
+        let index = 0;
+
+        for (let whereabout of value) {
+
+            let formatStr = ""
+            if (index++ === 0) {
+                formatStr = token.format
+            } else {
+                formatStr = token.chainFormat
+            }
+
+            const { NameManager } = customJS;
+            results.push(this.parseDisplayString(whereabout.format ?? "<name:" + formatStr + ">", {}, targetDate, whereabout))
+        }
+
+        return results.join(', ')
+    }
+
+    #getFormattedAffiliationList(value, token) {
+
+        if (!Array.isArray(value)) return ""
+
+        let results = []
+
+        for (let affiliation of value) {
+
+            const { NameManager } = customJS;
+            results.push(NameManager.formatName(affiliation.name, token.format))
+        }
+
+        return results.join(' and ')
     }
 
     #getFormattedDate(value, token) {
@@ -298,21 +362,22 @@ class TokenParser {
         // set formatting options //  
         // define four types of formatters //
         // none: no formatting, just return the value //
-        // string: find the file represented by this string and apply linking and formatting //
-        // date: apply date formatting //
-        // locchain: build a location chain from this starting point //
+        // name: apply name formatting, expects a nameObject object //
+        // date: apply date formatting, expects a normalizeDate object //
+        // whereabout: build a location chain from this starting point //
+        // casing: just apply casing //
 
         let formatter = "none"
 
-        switch (token.token.toLowerCase()) {
-            // date options //
+        switch (token.token) {
+            // date options - value is expected to be a normalizedDate object //
+            // to do: actually check this //
             case "startdate":
                 if (pageDateInfo.startDate) value = pageDateInfo.startDate
                 formatter = "date"
                 break;
             case "targetdate":
-                if (targetDate) value = targetDate
-                else value = DateManager.getTargetDateForPage(metadata)
+                value = targetDate ? targetDate : DateManager.getTargetDateForPage(metadata)
                 formatter = "date"
                 break;
             case "enddate":
@@ -334,51 +399,37 @@ class TokenParser {
                 break;
             // end date options //
 
-            // start name options //
+            // start name options - can be a string or a name object //
             case "name":
-                // special-case: lets us pick up a name object with the appriopriate aliases and such
-                // from the overrides
-                value = metadata.name?.isNormalizedName ? metadata.name : file.name
+                value = metadata.name ? metadata.name : file.name
                 formatter = "name"
                 break;
             case "ancestry":
-                value = NameManager.getNameObject(metadata.ancestry, undefined, undefined)
+                value = metadata.ancestry
                 formatter = "name"
                 break
             case "subtypeof":
-                value = NameManager.getNameObject(metadata.subTypeOf, undefined, undefined)
+                value = metadata.subTypeOf
                 formatter = "name"
                 break
-            case "maintype":
+            case "typeof":
                 // special case where we define a specific main type based on metadata //
-                if (metadata.species) {
-                    value = NameManager.getNameObject(metadata.species, undefined, { alias: metadata.speciesAlias })
-                } else {
-                    let typeOfStr = this.#getDefaultTypeOf(metadata)
-                    value = NameManager.getNameObject(typeOfStr, undefined, { alias: metadata.typeOfAlias })
-                }
+                value = metadata.species ? metadata.species : this.#getDefaultTypeOf(metadata)
                 formatter = "name"
                 break;
             case "subspecies":
-                value = NameManager.getNameObject(metadata.subspecies)
+                value = metadata.subspecies
                 formatter = "name"
                 break
             case "species":
-                value = NameManager.getNameObject(metadata.species, undefined, { alias: metadata.speciesAlias })
+                value = metadata.species
                 formatter = "name"
                 break
             case "person":
-                value = NameManager.getNameObject(metadata.person, undefined, undefined)
+                value = metadata.person
                 formatter = "name"
                 break
             // end name options //
-
-            // casing only options //
-            case "rarity":
-                value = metadata.rarity
-                formatter = "casing"
-                break
-            // end casing only options //
 
             // start none options //
             case "pronouns":
@@ -406,24 +457,40 @@ class TokenParser {
 
             // start whereabout options //
             case "current":
-                value = WhereaboutsManager.getWhereabouts(metadata, targetDate).current
-                formatter = "whereabout"
-                break;
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).current, targetDate, token.filter, sourcePageType)
+                formatter = "whereabout-list"
+                break
             case "lastknown":
-                value = WhereaboutsManager.getWhereabouts(metadata, targetDate).lastKnown
-                formatter = "whereabout"
-                break;
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).lastKnown, targetDate, token.filter, sourcePageType)
+                formatter = "whereabout-list"
+                break
             case "home":
-                value = WhereaboutsManager.getWhereabouts(metadata, targetDate).home
-                formatter = "whereabout"
-                break;
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).home, targetDate, token.filter, sourcePageType)
+                formatter = "whereabout-list"
+                break
             case "origin":
-                value = WhereaboutsManager.getWhereabouts(metadata, targetDate).origin
-                targetDate = pageDateInfo.startDate ?? DateManager.normalizeDate("0001")
-                formatter = "whereabout"
-                break;
+                targetDate = pageDateInfo.startDate ?? DateManager.normalizeDate("0001")             
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).origin, targetDate, token.filter, sourcePageType)
+                formatter = "whereabout-list"
+                break
+            // end whereabout options //
 
-            // end locchain options //
+            // start affiliation options //
+            case "primary":
+                value = metadata.primaryAffiliations ?? AffiliationManager.getPrimaryAffiliations(metadata, targetDate)
+                formatter = "affiliation-list"
+                break
+            case "affiliations":
+                // this is a bit of a hack, but we can't just look at the metadata.affiliations as that will always be true
+                value = (metadata.affiliations && Array.isArray(metadata.affiliations) && metadata.affiliations.some(f => f.name?.isNormalizedName === true)) ? metadata.affiliations : AffiliationManager.getAffiliations(metadata, targetDate)
+                formatter = "affiliation-list"
+                break
+            case "nonprimary":
+                value = metadata.nonPrimaryAffiliations ?? AffiliationManager.getNonPrimaryAffiliations(metadata, targetDate)
+                formatter = "affiliation-list"
+                break
+            // end affiliation options //
+
             // various complicated options //
             case "ka":
                 // ka is unusual because we want to link the word 'ka' to the page for the ka
@@ -439,16 +506,11 @@ class TokenParser {
             // end complicated options //
 
             // REFACTOR OPTIONS //
-            // these might need to be refactored but I don't really understand the affiliation code yet //
-            case "primary":
-                // currently we just use the affliation manager here to get a fully formatted string
-                value = AffiliationManager.getFormattedPrimaryAffiliations(metadata, targetDate)
-                formatter = "none"
-                break;
-
+            // these might need to be refactored but I don't really understand the affiliation code yet
             case "partof":
                 // currently we just use the affliation manager here to get a fully formatted string
                 value = AffiliationManager.getAffiliationPartOf(metadata, token.format)
+                formatter = "none"
                 break;
             // END REFACTOR OPTIONS //
 
@@ -459,18 +521,21 @@ class TokenParser {
                 formatter = "casing"
         }
 
-        if (value) {
+        if (value && (!Array.isArray(value) || value.length > 0)) {
 
             let finalStr = token.prefix.slice(1, -1)
             if (formatter == "name") {
                 finalStr += this.#getFormattedName(value, token)
             } else if (formatter == "date") {
                 finalStr += this.#getFormattedDate(value, token, targetDate, metadata)
-            } else if (formatter == "whereabout") {
-                finalStr += this.#getFormattedWhereabout(value, token, targetDate, metadata)
             } else if (formatter === "casing") {
                 finalStr += this.#getFormattedCaseString(value, token)
-            } else {
+            } else if (formatter == "affiliation-list") {
+                finalStr += this.#getFormattedAffiliationList(value, token)
+            } else if (formatter == "whereabout-list") {
+                finalStr += this.#getFormattedWhereaboutList(value, token, targetDate)
+            }
+            else {
                 finalStr += value
             }
 
@@ -482,89 +547,43 @@ class TokenParser {
         }
     }
 
-    formatTokenString(input, file, targetDate, overrides) {
-        // Takes a string, which is a token, and returns a formatted string
-        // If no token is present, returns the original string
-        if (this.debug) console.log("Formatting token string: " + input)
-
-        // Parse the token string into a token object
-        let token = this.#parseTokenString(input);
-        let formattedToken = "";
-
-        if (this.debug) console.log("Parsed token: " + JSON.stringify(token))
-
-        // If the token is valid, get the formatted string
-        if (token.token) {
-            formattedToken = this.formatToken(token, file, targetDate, overrides);
-        }
-
-        if (this.debug) console.log("Formatted token: " + formattedToken) 
-
-        if (formattedToken) {
-            return (token.prefix + formattedToken + token.suffix).trim()
-        } else {
-            return ""
-        }
-    }
-
     formatDisplayString(input, file, targetDate, overrides) {
+
+        function cleanUpResultString(resultString) {
+            // Normalize spaces (collapse multiple spaces to one) and trim the string
+            resultString = resultString.replace(/\s+/g, ' ').trim();
+        
+            // Remove occurrences of `*( )*` and `( )` (with any number of spaces inside the parentheses)
+            resultString = resultString.replace(/\*\(\s*\)\*|\(\s*\)/g, '');
+        
+            // Clean up spaces around parentheses
+            resultString = resultString.replace(/\(\s+/g, '(').replace(/\s+\)/g, ')');
+        
+            // Trim leading and trailing commas and colons
+            resultString = resultString.replace(/^[:\s,]+|[:\s,]+$/g, '');
+        
+            return resultString;
+        }
+
         if (this.debug) console.log("Formatting display string: " + input);
 
-        // Replace each token in the string with its formatted version
-        let formattedString = input.replace(this.tokenRegex, (token) => {
-            let formattedToken = this.formatTokenString(token, file, targetDate, overrides);
-            return formattedToken || '';
-        }).trim();
-
-        // remove extraneous characters from the end of the string//
-
-        const removeCharsRegex = /[,;:]+$/;
-        formattedString = formattedString.replace(removeCharsRegex, '');
-
-        if (this.debug) console.log("Formatted display string: " + formattedString);
-        // Return the formatted string if it contains alphanumeric characters, else return an empty string
-        return /[A-Za-z0-9]+/.test(formattedString) ? formattedString : "";
-    }
-
-    parseDisplayString(input, file, targetDate, overrides) {
-
-        let resultString = input
-
-        for (let tokenMatch of input.matchAll(/<[^<>]+>/g)) {
-
-            let beforeThis = resultString.substr(0, resultString.indexOf(tokenMatch[0])).trim()
-            let isFirstPart = beforeThis.length == 0
-
-            let token = this.#parseTokenString(tokenMatch[0], isFirst);    
-            let tokenValue = "";
-            if (!token) {
-                tokenValue =  "(invalid token: " + token.replace("<", "[").replace(">", "]") + ")"
-            } else {
-                tokenValue = this.#formatToken(token, file, targetDate, overrides) ?? ""
-            }
-
-            resultString = resultString.replace(tokenMatch[0], tokenValue)
+        let formattedString = '';
+        let lastIndex = 0;
+    
+        for (let tokenMatch of input.matchAll(this.tokenRegex)) {
+            const tokenStartIndex = input.indexOf(tokenMatch[0], lastIndex);
+    
+            // Append the part of the string before the current token
+            formattedString += input.substring(lastIndex, tokenStartIndex);
+    
+            const token = this.#parseTokenString(tokenMatch[0], tokenStartIndex === 0);
+            let tokenValue = token ? this.#formatToken(token, file, targetDate, overrides) ?? "" : "(invalid token: " + tokenMatch[0].replace("<", "[").replace(">", "]") + ")";
+    
+            newResultString += tokenValue;
+            lastIndex = tokenStartIndex + tokenMatch[0].length;
         }
 
-        resultString = (resultString.split(' ').map(f => f.trim()).filter(f => f.length > 0).join(' ')).trim()
-
-        resultString = resultString.replace(new RegExp("\\*\\(\\s*\\)\\*", "g"), "")
-        resultString = resultString.replace(new RegExp("\\(\\s*\\)", "g"), "")
-        resultString = resultString.replace(new RegExp("\\(\\s*", "g"), "(")
-        resultString = resultString.replace(new RegExp("\\s*\\)", "g"), ")")
-
-        while (resultString.startsWith(',')) resultString = resultString.substr(1).trim()
-        while (resultString.startsWith(':')) resultString = resultString.substr(1).trim()
-
-        while (resultString.endsWith(":") || resultString.endsWith(",")) {
-            resultString = resultString.substr(0, resultString.length - 1).trim()
-        }
-
-        return resultString.trim()
+        return cleanUpResultString(formattedString);
     }
     
 }
-
-
-
-
