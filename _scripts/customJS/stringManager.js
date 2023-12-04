@@ -95,7 +95,8 @@ class StringFormatter {
 
         let resultString = formatString
 
-        for (let matchItem of resultString.matchAll(regexp)) {
+        for (let matchItem of resultString.match(regexp)) {
+            console.log(matchItem)
 
             //1: prefix, 2: key, 3: format, 4: suffix
 

@@ -1,5 +1,7 @@
 class TokenParser  {
 
+    debug = true
+
     // Define the allowable filter and format characters
     // unused characters: b c d e g h j k m v w z
     // * format definitions * //
@@ -24,10 +26,17 @@ class TokenParser  {
     
     filterChars = "rRpPlLiIoOfF!"
 
-    #parseTokenString(input, filterChars, formatChars) {
+    // defines a regex for parsing tokens //
+
+    tokenRegex = /<(\(.*?\))?([a-zA-Z]+):?([^:()\s<>]+?)?(\(.*?\))?>/g
+
+    #parseTokenString(input) {
 
         // from https://stackoverflow.com/questions/50649912/remove-duplicate-character-in-string-and-make-unique-string
         const remDup= e => [...new Set(e)].sort().join("");
+        let tokenRegex = this.tokenRegex
+        let filterChars = this.filterChars
+        let formatChars = this.formatChars
 
         // extracts format and filter strings from the token string
         // Initial structure of the result
@@ -43,17 +52,18 @@ class TokenParser  {
         };
 
         // parse the prefix, suffix, token, and format
-        const tokenRegex = "^<(\(.+\))?([a-zA-Z]+):?([^:()]*)?(\(.*\))?>$"
-        let tokenMatch = input.match(tokenRegex);
+        let matches = input.matchAll(tokenRegex);
+        let tokenMatch = [...matches][0]
+        if (this.debug) console.log(tokenMatch)
         // match1 is the prefix, match2 is the token, match3 is the filter/format, match4 is the suffix
         if (tokenMatch) {
-            result.prefix = tokenMatch[1].slice(1, -1) ?? "";
-            result.suffix = tokenMatch[4].slice(1, -1) ?? "";
+            result.prefix = tokenMatch[1]?.slice(1, -1) ?? "";
+            result.suffix = tokenMatch[4]?.slice(1, -1) ?? "";
             result.token = tokenMatch[2] ?? "";
 
             // parse filterFormat string //
 
-            let filterFormatString = tokenMatch[3].split(";");
+            let filterFormatString = tokenMatch[3]?.split(";");
 
             // Separate filter and format based on allowable characters
             let filter = "";
@@ -61,64 +71,66 @@ class TokenParser  {
             let firstformat = "";
 
             // Check for a numerical range or limit at the beginning of the filter
-            let rangeRegex = /^(\d+-\d+|\d+-|-?\d+)/;
-            let rangeMatch = filterFormatString[0].match(rangeRegex);
-            if (rangeMatch) {
-                let rangeParts = rangeMatch[0].split("-");
-                if (rangeParts.length === 2) {
-                    // If both parts are present in the range
-                    // interpret as min-max
-                    result.mindepth = rangeParts[0] ? parseInt(rangeParts[0]) : 1;
-                    result.maxdepth = rangeParts[1] ? parseInt(rangeParts[1]) : null;
-                } else {
-                    // If only one part is present (shorthand for "-number")
-                    // interpret as max
-                    result.maxdepth = parseInt(rangeParts[0]);
+            if (filterFormatString) {
+                let rangeRegex = /^(\d+-\d+|\d+-|-?\d+)/;
+                let rangeMatch = filterFormatString[0].match(rangeRegex) ?? "";
+                if (rangeMatch) {
+                    let rangeParts = rangeMatch[0].split("-");
+                    if (rangeParts.length === 2) {
+                        // If both parts are present in the range
+                        // interpret as min-max
+                        result.mindepth = rangeParts[0] ? parseInt(rangeParts[0]) : 1;
+                        result.maxdepth = rangeParts[1] ? parseInt(rangeParts[1]) : null;
+                    } else {
+                        // If only one part is present (shorthand for "-number")
+                        // interpret as max
+                        result.maxdepth = parseInt(rangeParts[0]);
+                    }
+                    // Remove the range from the filter string
+                    filterFormatString[0] = filterFormatString[0].substring(rangeMatch[0].length);
                 }
-                // Remove the range from the filter string
-                filterFormatString[0] = filterFormatString[0].substring(rangeMatch[0].length);
+
+                // a full formatfilter string is defined as filter;format;firstformat
+                // if the string is only two parts, it is filter+format;firstformat
+                // if the string is only one part, it is filter+(firstformat=format)
+
+                if (filterFormatString.length === 1) {
+                    // we just have a string, what is it?
+                    // we will parse it as a filter+format string, and assume that the format applies to all steps
+                    for (let char of filterFormatString[0]) {
+                        if (filterChars.includes(char)) filter += char;
+                        if (formatChars.includes(char)) firstformat += char;
+                        if (formatChars.includes(char)) format += char;
+                    }
+                } else if (filterFormatString.length === 2) {
+                    // we have a filter and a format
+                    // we will parse it as a filter+format string, and a first format string
+                    for (let char of filterFormatString[0]) {
+                        if (filterChars.includes(char)) filter += char;
+                        if (formatChars.includes(char)) format += char;
+                    } 
+                    for (let char of filterFormatString[1]) {
+                        if (filterChars.includes(char)) filter += char;
+                        if (formatChars.includes(char)) firstformat += char;
+                    }
+                } else if (filterFormatString.length === 3) {
+                    // we have a filter, a first format, and a format
+                    // part 1 is the filter, part 2 is the format, part 3 is the first format
+                    for (let char of filterFormatString[0]) {
+                        if (filterChars.includes(char)) filter += char;
+                    } 
+                    for (let char of filterFormatString[1]) {
+                        if (formatChars.includes(char)) format += char;
+                    }
+                    for (let char of filterFormatString[2]) {
+                        if (formatChars.includes(char)) firstformat += char;
+                    }
+                }
+
+                result.filter = remDup(filter);
+                result.format = remDup(format);
+                result.firstformat = remDup(firstformat) ?? result.format;
             }
-
-            // a full formatfilter string is defined as filter;format;firstformat
-            // if the string is only two parts, it is filter+format;firstformat
-            // if the string is only one part, it is filter+(firstformat=format)
-
-            if (filterFormatString.length === 1) {
-                // we just have a string, what is it?
-                // we will parse it as a filter+format string, and assume that the format applies to all steps
-                for (let char of filterFormatString[0]) {
-                    if (filterChars.includes(char)) filter += char;
-                    if (formatChars.includes(char)) firstformat += char;
-                    if (formatChars.includes(char)) format += char;
-                }
-            } else if (filterFormatString.length === 2) {
-                // we have a filter and a format
-                // we will parse it as a filter+format string, and a first format string
-                for (let char of filterFormatString[0]) {
-                    if (filterChars.includes(char)) filter += char;
-                    if (formatChars.includes(char)) format += char;
-                } 
-                for (let char of filterFormatString[1]) {
-                    if (filterChars.includes(char)) filter += char;
-                    if (formatChars.includes(char)) firstformat += char;
-                }
-            } else if (filterFormatString.length === 3) {
-                // we have a filter, a first format, and a format
-                // part 1 is the filter, part 2 is the format, part 3 is the first format
-                for (let char of filterFormatString[0]) {
-                    if (filterChars.includes(char)) filter += char;
-                } 
-                for (let char of filterFormatString[1]) {
-                    if (formatChars.includes(char)) format += char;
-                }
-                for (let char of filterFormatString[2]) {
-                    if (formatChars.includes(char)) firstformat += char;
-                }
-            }
-
-            result.filter = remDup(filter);
-            result.format = remDup(format);
-            result.firstformat = remDup(firstformat) ?? result.format;
 
         }
 
@@ -142,8 +154,9 @@ class TokenParser  {
         let possibleAliasKey = token.token + "Alias"
         let alias = metadata.alias ?? this.#getParameterCaseInsensitive(metadata, possibleAliasKey)
         let sourcePageType = metadata.sourcePageType ?? NameManager.getPageType(metadata)
+        let format = token.format ?? ""
 
-        return NameManager.getName(value, token.format, alias, metadata.linkText, sourcePageType)
+        return NameManager.getName(value, format, alias, metadata.linkText, sourcePageType)
     }
 
     #getFormattedLocChain(whereabout, token, targetDate, metadata) {
@@ -165,7 +178,7 @@ class TokenParser  {
             followDate = whereabout.awayEnd
         }
         if (whereabout.startFilter && !token.filter.includes("!")) {
-            token.filter = this.#parseTokenString("<:" + whereabout.startFilter + ">", this.filterChars, this.formatChars).filter
+            token.filter = this.#parseTokenString("<" + token.token + ":" + whereabout.startFilter + ">").filter
         }
 
         let sourcePageType = metadata.sourcePageType ?? NameManager.getPageType(metadata)
@@ -173,7 +186,7 @@ class TokenParser  {
         // this doesn't currently work because we have mindepth and maxdepth parsed but not used //
         // need to refactor getCurrentLocationName to accept token object and pass along mindepth and maxdepth //
 
-        return LocationManager.getCurrentLocationName(whereabout, followDate, token, sourcePageType)
+        return LocationManager.getCurrentLocationName(whereabout, token, followDate, sourcePageType)
 
     }
 
@@ -273,7 +286,7 @@ class TokenParser  {
                 formatter = "date"
                 break;
             case "lastknowndate":
-                wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
+                let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
                 if (wb.lastKnown.location && wb.lastKnown.awayEnd.sort <= targetDate.sort) {
                     value = wb.lastKnown.awayEnd
                 } else {
@@ -361,12 +374,12 @@ class TokenParser  {
             // these might need to be refactored but I don't really understand the affiliation code yet //
             case "primary":
                 // currently we just use the affliation manager here to get a fully formatted string
-                value = AffiliationManager.getFormattedPrimaryAffiliations(metadata, token, targetDate)
+                value = AffiliationManager.getFormattedPrimaryAffiliations(metadata, targetDate)
                 formatter = "none"
                 break;
             case "partof":
                 // currently we just use the affliation manager here to get a fully formatted string
-                value = AffiliationManager.getAffiliationPartOf(metadata, token, targetDate)
+                value = AffiliationManager.getAffiliationPartOf(metadata, token.format)
                 break;
             // END REFACTOR OPTIONS //
 
@@ -391,15 +404,20 @@ class TokenParser  {
     formatTokenString(input, file, targetDate, overrides) {
         // Takes a string, which is a token, and returns a formatted string
         // If no token is present, returns the original string
+        if (this.debug) console.log("Formatting token string: " + input)
 
         // Parse the token string into a token object
-        token = this.#parseTokenString(input, this.filterChars, this.formatChars);
+        let token = this.#parseTokenString(input);
+        let formattedToken = "";
+
+        if (this.debug) console.log("Parsed token: " + JSON.stringify(token))
 
         // If the token is valid, get the formatted string
         if (token.token) {
             formattedToken = this.formatToken(token, file, targetDate, overrides);
-            console.log(formattedToken)
         }
+
+        if (this.debug) console.log("Formatted token: " + formattedToken) 
 
         if (formattedToken) {
             return (token.prefix + formattedToken + token.suffix).trim()
@@ -409,39 +427,26 @@ class TokenParser  {
     }
 
     formatDisplayString(input, file, targetDate, overrides) {
-        // takes a display string, splits on tokens, formats each, and returns a formatted string
-        let pieces = input.trim().split(/\s+/)
-        let formattedPieces = pieces.map(piece => {
-            // Check for a token in the format <token>
-            let tokenMatch = piece.match(/<[^>]+>/);
-            if (tokenMatch) {
-                // Extract text before and after the token
-                let beforeToken = piece.substring(0, piece.indexOf(tokenMatch[0]));
-                let afterToken = piece.substring(piece.indexOf(tokenMatch[0]) + tokenMatch[0].length);
-    
-                // Pass the token to the token formatter
-                let formattedToken = this.formatTokenString(tokenMatch[0], file, targetDate, overrides);
+        if (this.debug) console.log("Formatting display string: " + input);
 
-                // if formattedToken is empty, don't return anything
-                if (!formattedToken) {
-                    return ""
-                } else {
-                    // Replace the token with its formatted value
-                    return beforeToken + formattedToken + afterToken;
-                }
+        // Replace each token in the string with its formatted version
+        let formattedString = input.replace(this.tokenRegex, (token) => {
+            let formattedToken = this.formatTokenString(token, file, targetDate, overrides);
+            return formattedToken || '';
+        }).trim();
 
-            } else {
-                // If no token is found, return the piece as is
-                return piece;
-            }
-        });
-    
-        // Reconstruct the string
-        let formattedString = formattedPieces.join(" ").trim();
-        if (formattedString.match(/[A-Za-z0-9]+/)) {
-            return formattedString;
-        } else {
-            return "";
-        }        
+        // remove extraneous characters from the end of the string//
+
+        const removeCharsRegex = /[,;:]+$/;
+        formattedString = formattedString.replace(removeCharsRegex, '');
+
+        if (this.debug) console.log("Formatted display string: " + formattedString);
+        // Return the formatted string if it contains alphanumeric characters, else return an empty string
+        return /[A-Za-z0-9]+/.test(formattedString) ? formattedString : "";
     }
+    
 }
+
+
+
+

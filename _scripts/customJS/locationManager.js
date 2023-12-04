@@ -194,7 +194,7 @@ class LocationManager {
         if (whereabout.location == "Taelgar") {
             // Taelgar is handling specially
             if (thisDepth > 1) return ""
-            if (filter.includes("r")) return ""
+            if (token.filter.includes("r")) return ""
 
             return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
         }
