@@ -244,13 +244,7 @@ class TokenParser  {
         // overrides.linkText sets the link text in name formatting (default otherwise is computed by NameManager) //
         // overrides.dateInfo replaces the dateInfo object that is computed by DateManager //
 
-        if (overrides) {
-            metadata = merge_options(metadata, overrides)
-        } else if (file.frontmatter) {
-            metadata = file.frontmatter
-        } else {
-            metadata = {}
-        }
+        metadata = merge_options(file.frontmatter, overrides)
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         let pageDateInfo = metadata.dateInfo ?? DateManager.getPageDates(metadata, targetDate)
