@@ -38,10 +38,10 @@ class LocationManager {
         return false
     }
 
-    getCurrentLocationName(whereabout, targetDate, filter = "", sourcePageType, format, firstFormat) {
+    getCurrentLocationName(whereabout, token, targetDate, sourcePageType) {
 
         // we want the current depth to start at 1, i.e. if the max depth is 2 we want the first and second pieces
-        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, format, filter, sourcePageType, firstFormat).trim()
+        let outStr = this.#getLocationFromPartOfs(whereabout, token, targetDate, 1, sourcePageType).trim()
 
         if (outStr.endsWith(",")) outStr = outStr.substring(0, outStr.length - 1)
 
@@ -49,7 +49,7 @@ class LocationManager {
         return outStr
     }
 
-    #shouldAllowPiece(formatStr, currentDepth, targetMetadata) {
+    #shouldAllowPiece(token, currentDepth, targetMetadata) {
         /*** 
             R = include regions only; r = exclude regions (i.e. places with typeOf region)
             L = include locations only; l = exclude locations
@@ -80,71 +80,60 @@ class LocationManager {
         const { NameManager } = customJS
         let pageType = NameManager.getPageType(targetMetadata)
 
-        let maxDepth = undefined
-        let minDepth = undefined
-
-        let fsSplit = formatStr.split('-')
-
-        if (fsSplit.length == 2) {
-            // we have something like xxx-yyyy
-            // the number has to be first, as that is what parseInt expects, that is, parseInt(2ttt) returns 2 but parseInt(ttt2) returns undefined
-
-            minDepth = parseInt(fsSplit[0])
-            maxDepth = parseInt(fsSplit[1])
-        } else {
-            maxDepth = parseInt(formatStr)
-        }
+        let maxDepth = token.maxdepth
+        let minDepth = token.mindepth
+        let filter = token.filter ?? ""
 
         if (minDepth && currentDepth < minDepth) {
             // we are before the min depth, continue without this, but increment
             return depthFilterFailed
         }
 
-        if (formatStr.contains("F")) {
+        if (filter.contains("F")) {
             if (currentDepth != 1) return depthFilterFailed
         }
 
-        if (formatStr.contains("f")) {
+        if (filter.contains("f")) {
             if (currentDepth == 1) return depthFilterFailed
         }
 
-        if (formatStr.contains("r")) {
+        if (filter.contains("r")) {
             if (targetMetadata.typeOf == "region") return typeFilterFailed
         }
 
-        if (formatStr.contains("R")) {
+        if (filter.contains("R")) {
             if (targetMetadata.typeOf != "region") return typeFilterFailed
         }
 
-        if (formatStr.contains("L")) {
+        if (filter.contains("L")) {
             if (pageType != "place") return typeFilterFailed
         }
 
-        if (formatStr.contains("l")) {
+        if (filter.contains("l")) {
             if (pageType == "place") return typeFilterFailed
         }
 
-        if (formatStr.contains("P")) {
+        if (filter.contains("P")) {
             if (pageType != "person") return typeFilterFailed
         }
 
-        if (formatStr.contains("p")) {
+        if (filter.contains("p")) {
             if (pageType == "person") return typeFilterFailed
         }
 
-        if (formatStr.contains("I")) {
+        if (filter.contains("I")) {
             if (pageType != "item") return typeFilterFailed
         }
 
-        if (formatStr.contains("i")) {
+        if (filter.contains("i")) {
             if (pageType == "item") return typeFilterFailed
         }
 
-        if (formatStr.contains("O")) {
+        if (filter.contains("O")) {
             if (pageType != "organization") return typeFilterFailed
         }
 
-        if (formatStr.contains("o")) {
+        if (filter.contains("o")) {
             if (pageType == "organization") return typeFilterFailed
         }
 
@@ -160,8 +149,14 @@ class LocationManager {
 
     #getDescriptionForThisPiece(whereabout, format, targetDate, sourcePageType) {
 
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
         const { NameManager } = customJS
+        let overrides = 
+        {
+            alias: whereabout.alias,
+            linkText: whereabout.linkText,
+            sourcePageType: sourcePageType
+        }
 
         let file = NameManager.getFileForTarget(whereabout.location)
         if (!file) {
@@ -169,21 +164,21 @@ class LocationManager {
             file = { name: whereabout.location, frontmatter: {} }
             let formatStr = whereabout.format ?? "<name:" + format + ">"
 
-            return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, undefined, whereabout.alias, whereabout.linkText, sourcePageType)
+            return TokenParser.parseDisplayString(formatStr, file, targetDate, overrides)
         } else {
             file = { name: file.filename, frontmatter: file.frontmatter }
             let formatStr = whereabout.format ?? "<name:" + format + ">"
             
-            return StringFormatter.getFormattedString(formatStr, file, targetDate, undefined, undefined, whereabout.alias, whereabout.linkText, sourcePageType)
+            return TokenParser.parseDisplayString(formatStr, file, targetDate, overrides)
         }
     }
 
-    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, format, filter, sourcePageType, firstFormat) {
+    #getLocationFromPartOfs(whereabout, token, targetDate, thisDepth, sourcePageType) {
 
         const { NameManager } = customJS    
         const { WhereaboutsManager } = customJS
 
-        let formatToUse = thisDepth == 1 && firstFormat != undefined ? firstFormat : format;
+        let formatToUse = thisDepth == 1 && token.firstformat != null ? token.firstformat : token.format;
 
         if (!whereabout || !whereabout.location) {
             let returnForUnknown = "";
@@ -217,7 +212,7 @@ class LocationManager {
                     linkText: whereabout.location.substring(0, match.index),
                     alias: whereabout.alias,
                     format: whereabout.format
-                }, targetDate, thisDepth, format, filter, sourcePageType, firstFormat)
+                }, token, targetDate, thisDepth, sourcePageType)
             }
 
             return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
@@ -226,7 +221,7 @@ class LocationManager {
 
         let pageType = NameManager.getPageType(file.frontmatter)
         let nameSection = this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType)
-        let nextLevelCheck = this.#shouldAllowPiece(filter, thisDepth, file.frontmatter)
+        let nextLevelCheck = this.#shouldAllowPiece(token, thisDepth, file.frontmatter)
 
         if (!nextLevelCheck.continue) {
             return nameSection
@@ -243,7 +238,7 @@ class LocationManager {
 
         if (nextLevelCheck.continue && nextLevel && nextLevel.location) {
             // we are allowed to continue, and we have somewhere to go //                
-            returnValue += this.#getLocationFromPartOfs(nextLevel, targetDate, nextDepth, format, filter, pageType, firstFormat)
+            returnValue += this.#getLocationFromPartOfs(nextLevel, token, targetDate, nextDepth, pageType)
         }
 
         return returnValue

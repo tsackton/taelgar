@@ -74,10 +74,10 @@ class OutputHandler {
 
     generateHeader(fileName, metadata, dynamic = true, version = undefined) {
 
-        const { WhereaboutsManager } = customJS
+        const { EventManager } = customJS
         const { NameManager } = customJS
         const { OutputHandler } = customJS
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
         const { DateManager } = customJS
     
         let file = { name: fileName, frontmatter: metadata }
@@ -86,16 +86,16 @@ class OutputHandler {
         let hasPageDates = pageDates.startDate || pageDates.endDate
         let pageType = NameManager.getPageType(metadata)
     
-        let output = StringFormatter.getFormattedString("# <name:tn>", file) + "\n"
+        let output = TokenParser.parseDisplayString("# <name:tn>", file) + "\n"
     
-        let secondary = StringFormatter.getFormattedString("*(<pronunciation>)*", file)
+        let secondary = TokenParser.parseDisplayString("*(<pronunciation>)*", file)
         if (secondary && secondary.length > 0) {
             output += secondary + "\n"
         }
     
         let summaryBlockLines = []
     
-        let typeOf = StringFormatter.getFormattedString(displayDefaults.boxInfo, file)
+        let typeOf = TokenParser.parseDisplayString(displayDefaults.boxInfo, file)
         if (typeOf && typeOf.length > 0) {
             summaryBlockLines.push("> " + typeOf)
         }
@@ -123,7 +123,7 @@ class OutputHandler {
             summaryBlockLines.push("> " + line)
         }
     
-        let partOf = StringFormatter.getFormattedString(displayDefaults.partOf, file)
+        let partOf = TokenParser.parseDisplayString(displayDefaults.partOf, file)
         if (partOf && partOf.length > 0) {
             summaryBlockLines.push("> " + partOf)
         }
@@ -137,7 +137,7 @@ class OutputHandler {
             summaryBlockLines.push(">> " + line.trim())
         }
     
-        for (let meeting of WhereaboutsManager.getPartyMeeting(metadata, undefined)) {
+        for (let meeting of EventManager.getPartyMeeting(file)) {
             summaryBlockLines.push(`>> %%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`);
         }
     
@@ -154,7 +154,7 @@ class OutputHandler {
         const { WhereaboutsManager } = customJS
         const { DateManager } = customJS
         const { NameManager } = customJS
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
     
         let displayDefaults = NameManager.getDisplayData(metadata)
         let file = { name: fileName, frontmatter: metadata }
@@ -183,20 +183,20 @@ class OutputHandler {
         // origin string construction //
         // if origin is unknown, use unknown string //
         // don't care about alive/dead for origin //
-        let originString = StringFormatter.getFormattedString(whereabout.origin.location ? (whereabout.origin.originFormat ?? displayDefaults.wOrigin) : displayDefaults.wOriginU, file, pageYear)
+        let originString = TokenParser.parseDisplayString(whereabout.origin.location ? (whereabout.origin.originFormat ?? displayDefaults.wOrigin) : displayDefaults.wOriginU, file, pageYear)
     
         // home string construction //
         if (isPageAlive) {
-            homeString = StringFormatter.getFormattedString(whereabout.home.location ? (whereabout.home.homeFormat ?? displayDefaults.wHome) : displayDefaults.wHomeU, file, pageYear)
+            homeString = TokenParser.parseDisplayString(whereabout.home.location ? (whereabout.home.homeFormat ?? displayDefaults.wHome) : displayDefaults.wHomeU, file, pageYear)
         } else {
-            homeString = StringFormatter.getFormattedString(whereabout.home.location ? (whereabout.home.pastHomeFormat ?? displayDefaults.wPastHome) : displayDefaults.wPastHomeU, file, pageYear)
+            homeString = TokenParser.parseDisplayString(whereabout.home.location ? (whereabout.home.pastHomeFormat ?? displayDefaults.wPastHome) : displayDefaults.wPastHomeU, file, pageYear)
         }
     
         // current string construction //    
-        let currentString = StringFormatter.getFormattedString((isPageAlive ? (whereabout.current.currentFormat ?? displayDefaults.wCurrent) : (whereabout.current.pastFormat ?? displayDefaults.wPast)), file, pageYear)
+        let currentString = TokenParser.parseDisplayString((isPageAlive ? (whereabout.current.currentFormat ?? displayDefaults.wCurrent) : (whereabout.current.pastFormat ?? displayDefaults.wPast)), file, pageYear)
     
         // last known string construction //
-        let knownString = StringFormatter.getFormattedString(knownLastKnown ? (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastKnown) : (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastNoDate), file, pageYear)
+        let knownString = TokenParser.parseDisplayString(knownLastKnown ? (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastKnown) : (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastNoDate), file, pageYear)
     
     
         if (!whereabout.origin.location || whereabout.origin.location != whereabout.home.location) {
@@ -232,7 +232,7 @@ class OutputHandler {
 
     outputPageDatedValue(fileName, metadata) {
         const { DateManager } = customJS
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
         const { NameManager } = customJS
 
         let dateInfo = DateManager.getPageDates(metadata)
@@ -261,7 +261,7 @@ class OutputHandler {
             return ""
         }
 
-        return StringFormatter.getFormattedString(formatStr, { name: fileName, frontmatter: metadata })
+        return TokenParser.parseDisplayString(formatStr, { name: fileName, frontmatter: metadata })
 
     }
 

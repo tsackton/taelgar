@@ -10,9 +10,10 @@ affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
 ---
-# Agon
+# undefinedAgonundefined
+*(<pronunciation>)*
 >[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> undefined[[Chardonian Empire|Chardonian]]undefined undefined[[Humans|human]]undefined <(()subspecies:s())> <(()pronouns())>, <(of )primary> <(()ka())>
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
