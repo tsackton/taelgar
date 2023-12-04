@@ -19,11 +19,11 @@ whereabouts:
 ---
 # Kadmos
 >[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> [[Chardonian Empire|Chardonian]] [[Humans|human]]  (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Encountered by the [[Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]] %%^End%%
+>> %%^Campaign:dufr%% Encountered with the [[Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
 A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
 
