@@ -146,13 +146,13 @@ class util {
     }
 
     s(format, targetFile, targetDate) {
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
         const { DateManager } = customJS
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         else targetDate = DateManager.getTargetDateForPage(targetFile.frontmatter)
 
-        return StringFormatter.getFormattedString(format, {name: targetFile?.name ?? targetFile, frontmatter: targetFile.frontmatter}, targetDate)
+        return TokenParser.parseDisplayString(format, {name: targetFile?.name ?? targetFile, frontmatter: targetFile.frontmatter}, targetDate)
     }
 
 }

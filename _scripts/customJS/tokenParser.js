@@ -1,4 +1,4 @@
-class TokenParser  {
+class TokenParser {
 
     // This class is responsible for parsing tokens and returning formatted strings
     // There are three main functions:
@@ -14,12 +14,12 @@ class TokenParser  {
     // * format definitions * //
     /*** 
         t: title case; s: lower case, u: initial upper case
-        a: indefinite article, A: indefinite article if first, x: no article, q: preposition, Q: no preposition
+        a: indefinite article, A: indefinite article if first, x: no definite article, q: preposition, Q: no preposition
         n: never link, y: always link
         !: prefer this format if possible
     ***/
 
-    formatChars = "qQaAxnytsu!"
+    formatChars = "qQaAxnytsUu!"
 
     // * filter definitions * //
     /*** 
@@ -30,139 +30,109 @@ class TokenParser  {
         F = include first step only; f = exclude first step
         O = include organizations only; o = exclude organizations
     ***/
-    
+
     filterChars = "rRpPlLiIoOfF!"
 
-    #parseTokenString(input, filterChars, formatChars) {
+    // isFirst allows for special handling of certain format specifiers which need to be conditional on the value being
+    //  first 
+    #parseTokenString(input, isFirst) {
 
         // extracts format and filter strings from the token string
         // Initial structure of the result
-        let result = {
+        let token = {
             token: null,
+            prefix: null,
+            suffix: null,
             filter: null,
-            format: null,
-            firstformat: null,
-            mindepth: 1,
-            maxdepth: null
+            format: null, // format for the item, or if a chain, the first item in the chain
+            chainFormat: null, // if a chain format for all items in the chain
+            fullTokenText: input
         };
 
-        // Check if the input is in the expected format
-        if (input.startsWith("<") && input.endsWith(">")) {
-            let innerContent = input.slice(1, -1).split(":");
-            
-            if (innerContent.length === 1) {
-                // Case for only token
-                result.token = innerContent[0];
-            } else if (innerContent.length === 2) {
-                // Case for token with filter and format
-                result.token = innerContent[0];
-                let filterFormatString = innerContent[1].split(";");
+        // this is a complicated regex, but basically it is 6 groups:
+        //      first, prefix: contained in (), any letters or spaces
+        //      second, token: letters only
+        //      third, filter: digit-digit, plus filter options
+        //      fourth, first item format string: the standard format string options. Can be separated from the filter with an optional semi-colon
+        //      fifth, the all item format string: the standard format string options. Must be separated from the filter with a semi colon
+        //      sixth, suffix: contained in (), any letters or spaces
+        const regexp = /<(\([()a-zA-Z-:*\s]+\))?([a-zA-Z]+):?([0-9]*[-]?[0-9]*[RrPpLlIiOoFf!]*)?;?([UutsaAnyxqQ]+)?;?([UutsaAnyxqQ]+)?(\([()a-zA-Z-:*\s]+\))?>/g;
 
-                // Separate filter and format based on allowable characters
-                let filter = "";
-                let format = "";
-
-                // Check for a numerical range or limit at the beginning of the filter
-                let rangeRegex = /^(\d+-\d+|\d+-|-?\d+)/;
-                let rangeMatch = filterFormatString[0].match(rangeRegex);
-                if (rangeMatch) {
-                    let rangeParts = rangeMatch[0].split("-");
-                    if (rangeParts.length === 2) {
-                        // If both parts are present in the range
-                        // interpret as min-max
-                        result.mindepth = rangeParts[0] ? parseInt(rangeParts[0]) : 1;
-                        result.maxdepth = rangeParts[1] ? parseInt(rangeParts[1]) : null;
-                    } else {
-                        // If only one part is present (shorthand for "-number")
-                        // interpret as max
-                        result.maxdepth = parseInt(rangeParts[0]);
-                    }
-                    // Remove the range from the filter string
-                    filterFormatString[0] = filterFormatString[0].substring(rangeMatch[0].length);
-                }
-
-                // a full formatfilter string is defined as filter;format;firstformat
-                // if the string is only two parts, it is filter+firstformat;format
-                // if the string is only one part, it is filter+firstformat
-
-                if (filterFormatString.length === 1) {
-                    // we just have a string, what is it?
-                    // we will parse it as a filter+format string, and assume that the format applies to the first step only
-                    for (let char of filterFormatString[0]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) firstformat += char;
-                    }
-                } else if (filterFormatString.length === 2) {
-                    // we have a filter and a format
-                    // we will parse it as a filter+format string, and assume that the format to all steps
-                    for (let char of filterFormatString[0]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) firstformat += char;
-                    } 
-                    for (let char of filterFormatString[1]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) format += char;
-                    }
-                } else if (filterFormatString.length === 3) {
-                    // we have a filter, a first format, and a format
-                    // part 1 is the filter, part 2 is the format, part 3 is the first format
-                    for (let char of filterFormatString[0]) {
-                        if (filterChars.includes(char)) filter += char;
-                    } 
-                    for (let char of filterFormatString[1]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) format += char;
-                    }
-                    for (let char of filterFormatString[2]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) firstformat += char;
-                    }
-                }
-
-                result.filter = filter;
-                result.format = format;
-                result.firstformat = firstformat ?? result.format;
-            }
+        if (((input || '').match(regexp) || []).length !== 1) {
+            return null;
         }
 
-        return result;
+        let match = regexp.exec(input)
+        if (match) {
+            token.prefix = match[1] ?? ""
+            token.token = match[2] ?? ""
+            token.filter = match[3] ?? ""
+            token.format = match[4] ?? ""
+            token.chainFormat = match[5] ?? match[4] ?? ""
+            token.suffix = match[6] ?? ""
+        }
+
+        // clean up tokens //
+        // target, targetdate, and currentdate are all the same thing
+        if (token.token == "target" || token.token == "currentdate") token.token = "targetdate"
+        // length and age are the same //
+        if (token.token == "length") token.token = "age"
+        // end is shorthand for endStatus //
+        if (token.token == "end" || token.token == "endstatus") token.token = "endStatus"
+        // start is shorthand for startStatus //
+        if (token.token == "start" || token.token == "startstatus") token.token = "startStatus"
+        // subtype is the same as subtypeof //
+        if (token.token == "subtype") token.token = "subtypeof"
+        // typeof and type are the same as maintype //        
+        if (token.token == "typeof" || token.token == "type") token.token = "maintype"
+
+        if (token.format.includes("U") && isFirst) token.format.replace("U", "u")
+        else token.format.replace("U", "")
+
+        if (token.format.includes("A") && isFirst) token.format.replace("A", "a")
+        else token.format.replace("A", "")
+
+        return token
     }
 
     #getParameterCaseInsensitive(object, key) {
         // get case insensitive parameter from object
         const asLowercase = key.toLowerCase();
         return object[Object.keys(object)
-        .find(k => k.toLowerCase() === asLowercase)
+            .find(k => k.toLowerCase() === asLowercase)
         ];
     }
 
-    #getFormattedName(value, token, targetDate, metadata) {
+    #getFormattedPrimaryAffiliations(value, token) {
+
+    }
+
+    #getFormattedCaseString(value, token) {
+        // this is something that can never be meaningfully linked
+        // and never has an article
+        // but which might need casing rules
+
+        const { NameManager } = customJS;
+
+        // this probably just returns itself, but...
+        let name = { name: value, linkText: "", indefiniteArticle: "", definiteArticle: "", linkTarget: undefined }
+
+        return NameManager.formatName(name, token.format)
+    }
+
+    #getFormattedName(value, token) {
         // returns a formatted name
         // pass the format and the name to the name manager to generate a formatted name
 
         const { NameManager } = customJS;
 
-        alias = null
-        sourcePageType = null
+        // this probably just returns itself, but...
+        let name = NameManager.getNameObject(value)
 
-        // find alias //
-        if (metadata.alias) {
-            alias = metadata.alias
-        } else {
-            possibleAliasKey = token.token + "Alias"
-            alias = this.#getParameterCaseInsensitive(metadata, possibleAliasKey)
-        }
-
-        if (metadata.sourcePageType) {
-            sourcePageType = metadata.sourcePageType
-        } else {
-            sourcePageType = NameManager.getPageType(metadata)
-        }
-
-        return NameManager.getName(value, token.format, alias, metadata.linkText, sourcePageType)
+        return NameManager.formatName(name, token.format)
     }
 
-    #getFormattedLocChain(whereabout, token, targetDate, metadata) {
+    #getFormattedWhereabout(whereabout, token, targetDate, metadata) {
 
         const { NameManager } = customJS;
         const { LocationManager } = customJS;
@@ -170,30 +140,21 @@ class TokenParser  {
         // returns a formatted location chain
         let followDate = targetDate
 
-        // set q as default if missing //
-        // not sure this is right //
-        if (!token.filter.includes("q")) {
-            token.filter += "q"
-        }
-
         // if the away end date of the whereabout is before the target date, use that as the follow date
         if (whereabout.awayEnd && targetDate && whereabout.awayEnd.sort < targetDate.sort) {
             followDate = whereabout.awayEnd
         }
         if (whereabout.startFilter && !token.filter.includes("!")) {
-            token.filter = this.#parseTokenString("<:" + whereabout.startFilter + ">", this.filterChars, this.formatChars).filter
+            token.filter = whereabout.startFilter
         }
 
-        sourcePageType = NameManager.getPageType(metadata)
+        let sourcePageType = NameManager.getPageType(metadata)
 
-        // this doesn't currently work because we have mindepth and maxdepth parsed but not used //
-        // need to refactor getCurrentLocationName to accept token object and pass along mindepth and maxdepth //
-
-        return LocationManager.getCurrentLocationName(whereabout, followDate, token.filter, sourcePageType, token.format, token.firstformat)
+        return LocationManager.getCurrentLocationName(whereabout, followDate, token.filter, sourcePageType, token.chainFormat, token.format)
 
     }
 
-    #getFormattedDate(value, token, targetDate, metadata) {
+    #getFormattedDate(value, token) {
 
         const { DateManager } = customJS;
 
@@ -220,7 +181,7 @@ class TokenParser  {
         return undefined;
     }
 
-    formatToken(token, file, targetDate, overrides) {
+    #formatToken(token, file, targetDate, overrides) {
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
@@ -239,12 +200,9 @@ class TokenParser  {
         }
 
         // overrides that are used elsewhere //
-        // overrides.sourcePageType sets the source type in name formatting (default otherwise is page type) //
-        // overrides.alias sets the alias in name formatting (default otherwise is metadata.<token.token>Alias) //
-        // overrides.linkText sets the link text in name formatting (default otherwise is computed by NameManager) //
         // overrides.dateInfo replaces the dateInfo object that is computed by DateManager //
 
-        metadata = merge_options(file.frontmatter, overrides)
+        let metadata = merge_options(file.frontmatter, overrides)
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         let pageDateInfo = metadata.dateInfo ?? DateManager.getPageDates(metadata, targetDate)
@@ -252,17 +210,6 @@ class TokenParser  {
 
         let value = "";
 
-        // clean up tokens //
-        // target, targetdate, and currentdate are all the same thing
-        if (token.token == "target" || token.token == "currentdate") token.token = "targetdate"
-        // length and age are the same //
-        if (token.token == "length") token.token = "age"
-        // end is shorthand for endStatus //
-        if (token.token == "end") token.token = "endStatus"
-        // start is shorthand for startStatus //
-        if (token.token == "start") token.token = "startStatus"
-        // subtype is the same as subtypeof //
-        if (token.token == "subtype") token.token = "subtypeof"
 
         // set formatting options //  
         // define four types of formatters //
@@ -271,11 +218,11 @@ class TokenParser  {
         // date: apply date formatting //
         // locchain: build a location chain from this starting point //
 
-        formatter = "none"
+        let formatter = "none"
 
         switch (token.token) {
             // date options //
-            case "startdate": 
+            case "startdate":
                 if (pageDateInfo.startDate) value = pageDateInfo.startDate
                 formatter = "date"
                 break;
@@ -289,7 +236,7 @@ class TokenParser  {
                 formatter = "date"
                 break;
             case "lastknowndate":
-                wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
+                let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
                 if (wb.lastKnown.location && wb.lastKnown.awayEnd.sort <= targetDate.sort) {
                     value = wb.lastKnown.awayEnd
                 } else {
@@ -303,17 +250,51 @@ class TokenParser  {
                 break;
             // end date options //
 
-            // start string options //
+            // start name options //
             case "name":
-                value = file.name
+                // special-case: lets us pick up a name object with the appriopriate aliases and such
+                // from the overrides
+                value = metadata.name?.isNormalizedName ? metadata.name : file.name
                 formatter = "name"
                 break;
+            case "ancestry":
+                value = NameManager.getNameObject(metadata.ancestry, undefined, undefined)
+                formatter = "name"
+                break
+            case "subtypeof":
+                value = NameManager.getNameObject(metadata.subTypeOf, undefined, undefined)
+                formatter = "name"
+                break
             case "maintype":
                 // special case where we define a specific main type based on metadata //
-                value = metadata.species ?? this.#getDefaultTypeOf(metadata)
+                if (metadata.species) {
+                    value = NameManager.getNameObject(metadata.species, undefined, { alias: metadata.speciesAlias })
+                } else {
+                    let typeOfStr = this.#getDefaultTypeOf(metadata)
+                    value = NameManager.getNameObject(typeOfStr, undefined, { alias: metadata.typeOfAlias })
+                }
                 formatter = "name"
                 break;
-            // end string options //
+            case "subspecies":
+                value = NameManager.getNameObject(metadata.subspecies)
+                formatter = "name"
+                break
+            case "species":
+                value = NameManager.getNameObject(metadata.species, undefined, { alias: metadata.speciesAlias })
+                formatter = "name"
+                break
+            case "person":
+                value = NameManager.getNameObject(metadata.person, undefined, undefined)
+                formatter = "name"
+                break
+            // end name options //
+
+            // casing only options //
+            case "rarity":
+                value = metadata.rarity
+                formatter = "casing"
+                break
+            // end casing only options //
 
             // start none options //
             case "pronouns":
@@ -339,23 +320,23 @@ class TokenParser  {
                 break;
             // end none options //
 
-            // start locchain options //
+            // start whereabout options //
             case "current":
                 value = WhereaboutsManager.getWhereabouts(metadata, targetDate).current
-                formatter = "locchain"
+                formatter = "whereabout"
                 break;
             case "lastknown":
                 value = WhereaboutsManager.getWhereabouts(metadata, targetDate).lastKnown
-                formatter = "locchain"
+                formatter = "whereabout"
                 break;
             case "home":
                 value = WhereaboutsManager.getWhereabouts(metadata, targetDate).home
-                formatter = "locchain"
+                formatter = "whereabout"
                 break;
             case "origin":
                 value = WhereaboutsManager.getWhereabouts(metadata, targetDate).origin
                 targetDate = pageDateInfo.startDate ?? DateManager.normalizeDate("0001")
-                formatter = "locchain"
+                formatter = "whereabout"
                 break;
 
             // end locchain options //
@@ -375,11 +356,7 @@ class TokenParser  {
 
             // REFACTOR OPTIONS //
             // these might need to be refactored but I don't really understand the affiliation code yet //
-            case "primary":
-                // currently we just use the affliation manager here to get a fully formatted string
-                value = AffiliationManager.getFormattedPrimaryAffiliations(metadata, token, targetDate)
-                formatter = "none"
-                break;
+
             case "partof":
                 // currently we just use the affliation manager here to get a fully formatted string
                 value = AffiliationManager.getAffiliationPartOf(metadata, token, targetDate)
@@ -389,62 +366,68 @@ class TokenParser  {
             default:
                 // if no special processing, check to see if it is a key in metadata, or failing that, displayDefaults
                 value = (this.#getParameterCaseInsensitive(metadata, token.token) ?? this.#getParameterCaseInsensitive(displayDefaults, token.token)) ?? ""
-                // default formatter is string
-                formatter = "name"
+                // default formatter is casing
+                formatter = "casing"
+        }
+
+        if (value) {
+
+            let finalStr = token.prefix.slice(1, -1)
+            if (formatter == "name") {
+                finalStr += this.#getFormattedName(value, token)
+            } else if (formatter == "date") {
+                finalStr += this.#getFormattedDate(value, token, targetDate, metadata)
+            } else if (formatter == "whereabout") {
+                finalStr += this.#getFormattedWhereabout(value, token, targetDate, metadata)
+            } else if (formatter === "casing") {
+                finalStr += this.#getFormattedCaseString(value, token)
+            } else {
+                finalStr += value
             }
 
-        if (formatter == "name") {
-            return this.#getFormattedName(value, token, targetDate, metadata)
-        } else if (formatter == "date") {
-            return this.#getFormattedDate(value, token, targetDate, metadata)
-        } else if (formatter == "locchain") {
-            return this.#getFormattedLocChain(value, token, targetDate, metadata)
+            finalStr += token.suffix.slice(1, -1)
+
+            return finalStr.trim();
         } else {
-            return value
+            return ""
         }
     }
 
-    getFormattedToken(input, file, targetDate, overrides) {
-        // Takes a string, which is a token, and returns a formatted string
-        // If no token is present, returns the original string
-
-        let resultString = input;
-
-        // Parse the token string
-        let token = this.#parseTokenString(input, this.filterChars, this.formatChars);
-
-        // If the token is valid, get the formatted string
-        if (token.token) {
-            resultString = this.formatToken(token, file, targetDate, overrides);
-        }
-
-        return resultString;
-    }
 
     parseDisplayString(input, file, targetDate, overrides) {
-        // takes a display string, splits on tokens, formats each, and returns a formatted string
-        let pieces = input.trim().split(/\s+/)
-        let formattedPieces = pieces.map(piece => {
-            // Check for a token in the format <token>
-            let tokenMatch = piece.match(/<[^>]+>/);
-            if (tokenMatch) {
-                // Extract text before and after the token
-                let beforeToken = piece.substring(0, piece.indexOf(tokenMatch[0]));
-                let afterToken = piece.substring(piece.indexOf(tokenMatch[0]) + tokenMatch[0].length);
-    
-                // Pass the token to the token formatter
-                let formattedToken = this.getFormattedToken(tokenMatch[0], file, targetDate, overrides);
-    
-                // Replace the token with its formatted value
-                return beforeToken + formattedToken + afterToken;
-            } else {
-                // If no token is found, return the piece as is
-                return piece;
-            }
-        });
-    
-        // Reconstruct the string
-        return formattedPieces.join(" ");
 
+        let resultString = input
+
+        for (let tokenMatch of input.matchAll(/<[^<>]+>/g)) {
+
+            let beforeThis = resultString.substr(0, resultString.indexOf(tokenMatch[0])).trim()
+            let isFirstPart = beforeThis.length == 0
+
+            let token = this.#parseTokenString(tokenMatch[0], isFirst);    
+            let tokenValue = "";
+            if (!token) {
+                tokenValue =  "(invalid token: " + token.replace("<", "[").replace(">", "]") + ")"
+            } else {
+                tokenValue = this.#formatToken(token, file, targetDate, overrides) ?? ""
+            }
+
+            resultString = resultString.replace(tokenMatch[0], tokenValue)
+        }
+
+        resultString = (resultString.split(' ').map(f => f.trim()).filter(f => f.length > 0).join(' ')).trim()
+
+        resultString = resultString.replace(new RegExp("\\*\\(\\s*\\)\\*", "g"), "")
+        resultString = resultString.replace(new RegExp("\\(\\s*\\)", "g"), "")
+        resultString = resultString.replace(new RegExp("\\(\\s*", "g"), "(")
+        resultString = resultString.replace(new RegExp("\\s*\\)", "g"), ")")
+
+        while (resultString.startsWith(',')) resultString = resultString.substr(1).trim()
+        while (resultString.startsWith(':')) resultString = resultString.substr(1).trim()
+
+        while (resultString.endsWith(":") || resultString.endsWith(",")) {
+            resultString = resultString.substr(0, resultString.length - 1).trim()
+        }
+
+        return resultString.trim()
     }
 }
