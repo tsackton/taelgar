@@ -17,6 +17,6 @@ whereabouts: The Red Lily Inn
 > A [[Halflings|halfling]] (he/him), of the [[Strongbones]]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 at [[The Red Lily Inn]], in [[Tokra]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met with the [[Dunmar Fellowship]] on June 30th, 1748 in [[The Red Lily Inn]], [[Tokra]], [[Dunmar]] %%^End%%
 
 Wes Strongbones runs The Red Lily Inn, a halfling inn in Tokra, with his two sons [[Cade Strongbones]] and [[Tye Strongbones]]. He is a widower, having lost his wife to illness in the late 1730s. 

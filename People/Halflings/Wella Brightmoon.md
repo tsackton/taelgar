@@ -21,8 +21,8 @@ whereabouts: Wave Dancer
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 on the [[Wave Dancer]], sailing to [[Wahacha]], the [[Vermillion Isles]] %%^End%%
->> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 on the [[Wave Dancer]], at port in [[Wahacha]], the [[Vermillion Isles]] %%^End%%
+>> %%^Campaign:dufr%% Met with [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]], sailing to [[Wahacha]], the [[Vermillion Isles]] %%^End%%
+>> %%^Campaign:dufr%% Last seen with [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], moored in the [[Wahacha|main port of Wacahca]], the [[Vermillion Isles]] %%^End%%
 
 Wella is an elderly halfling woman, and the captain of the [[Wave Dancer]]. She is married to [[Rose Brightmoon]], and is the matriarch of the Brightmoon clan. 
 %%^Date:1748%%

@@ -2,22 +2,22 @@
 headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, testcase, status/unknown]
 campaignInfo:
-- {campaign: DuFr, type: freed, date: 1748-11-23}
+- {campaign: DuFr, date: 1748-11-23, format: "Freed from <current:2> by <person>, <target>"}
 name: Hralgar
 born:
 species: giant
 subspecies: storm giant
 gender: male
 whereabouts:
-- {type: away, start: 1020, end: 1748-11-22, prefix: trapped in, location: Stormcaller Tower}
-- {type: home, start: 1748-11-23, end: 1748-11-23, location: Stormcaller Tower}
-- {type: home, start: 1748-11-24, location: Taelgar, prefix: drifting on the storm across, format: ""}
+- {type: away, start: 1020, end: 1748-11-22, linkText: trapped in, location: Stormcaller Tower}
+- {type: home, start: 1748-11-23, end: 1748-11-23, linkText: " ", location: Stormcaller Tower}
+- {type: home, start: 1748-11-24, alias: drifting on the storm across the world }
 ---
 # Hralgar
 >[!info]+ Biographical Info
-> A [[Giants|giant]] ([[Giants|storm giant]]) (he/him)
+> A [[Giants|giant]] (the [[Giants|storm giant]]) (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Freed by [[Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Freed from [[Stormcaller Tower]], [[Eastern Dunmar]] by the [[Dunmar Fellowship]], November 23rd, 1748 %%^End%%
 
 An ancient storm giant, of great power, who could become a storm and travel across the world.
 

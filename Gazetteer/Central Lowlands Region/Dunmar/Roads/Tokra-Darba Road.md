@@ -1,6 +1,6 @@
 ---
 tags: [place, status/unknown]
-displayDefaults: {prep: "on"}
+displayDefaults: {linkText: "on", ltPlace: "on"}
 typeOf: road
 partOf: Dunmar
 ---

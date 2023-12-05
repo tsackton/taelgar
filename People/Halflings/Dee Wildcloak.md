@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, dufr/minor]
 displayDefaults: {wOriginU: ""}
 campaignInfo: 
-- {campaign: dufr, date: 1748-08-22, type: met, format: "<met:U> by <person> on <target> at <current:2>"}
+- {campaign: dufr, date: 1748-08-22, type: met, format: "<met:U> by <person> on <target> <current:2>"}
 - {campaign: dufr, person: Delwath, date: 1748-10-21, type: scryed}
 - {campaign: dufr, person: letter from Dee Wildcloak, date: 1748-11-15, format: "Received a <person> on <target>"}
 name: Dee Wildcloak
@@ -24,11 +24,11 @@ whereabouts:
 ---
 # Dee Wildcloak
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]] (she/her), of the [[Wildcloaks]]
+> A [[Halflings|halfling]] (she/her), of the [[Wildcloaks]]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on August 22nd, 1748 at [[The Thirsty Scholar]], [[Chardon]] %%^End%%
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 21st, 1748 in [[Darba]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22nd, 1748 in [[The Thirsty Scholar]], [[Chardon]] %%^End%%
+>> %%^Campaign:dufr%% Scryed [[Delwath]] on October 21st, 1748 in [[Darba]], [[Dunmar]] %%^End%%
 >> %%^Campaign:dufr%% Received a [[Letter from Dee WIldcloak]] on November 15th, 1748 %%^End%%
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 
