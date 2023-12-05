@@ -24,7 +24,7 @@ timelineDescriptor: Belegor
 > An [[Elves|elf]] (he/him), ([[The Cycle of Generations|ka]] 36)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on September 30th, 1748 in [[~Te'kula village~|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
+>> %%^Campaign:dufr%% Met with the [[Dunmar Fellowship]] on September 30th, 1748 in [[~Te'kula village~|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 
 Belegor is a solitary [[Elves|elf]] wanderer, who has travelled across the forests of the western region of Taelgar for many years, not wanting hide in isolation as many of his generation chose after The [[Great War]]. 
 ## Overview
