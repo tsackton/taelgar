@@ -1,37 +1,28 @@
 class AffiliationManager {
 
-    #getPartOfChain(partOfPiece, targetDate, thisDepth, maxDepth, format) {
+    #getPartOfChain(partOfPiece, thisDepth, filter, sourcePageType) {
 
         const { NameManager } = customJS
 
-        if (thisDepth == maxDepth) return ""
-        if (!partOfPiece) return ""
-        if (partOfPiece == "Taelgar") return ""
-
-        let nameSection = NameManager.getName(partOfPiece, format)
+        let partOfItem = { name: NameManager.getNameObject(partOfPiece, sourcePageType) }
         let file = NameManager.getFileForTarget(partOfPiece)
 
         // we can't keep going, because this piece doesn't exist
         if (!file) {
-            // lets see if we have a match to our capital letter check
-            let match = new RegExp("[~A-Z]{1}").exec(partOfPiece)
-            if (match && match.index > 0) {
-                return partOfPiece.substring(0, match.index) + " " + this.#getPartOfChain(partOfPiece.substring(match.index), targetDate, thisDepth, maxDepth, format)
-            }
-
-            return nameSection
+            return [partOfItem]
         } else {
+            let nextPageType = NameManager.getPageType(file.frontmatter)
             let nextLevel = file.frontmatter.partOf
 
-            if (NameManager.getPageType(file.frontmatter) == "place") {
-                return nameSection
+            let retValue = []
+
+            retValue.push(partOfItem)
+
+            if (nextPageType === sourcePageType && nextPageType !== "place" && nextLevel) {
+                retValue.push(...this.#getPartOfChain(nextLevel, thisDepth + 1, filter, sourcePageType))
             }
 
-            if (nextLevel) {
-                return nameSection + ", " + this.#getPartOfChain(nextLevel, targetDate, thisDepth + 1, maxDepth, format)
-            }
-
-            return nameSection
+            return retValue
         }
     }
 
@@ -77,7 +68,7 @@ class AffiliationManager {
                 title: affiliation.title,
                 format: affiliation.format ?? affiliation.aNoDate,
                 formatPast: affiliation.formatPast ?? affiliation.aPast ?? affiliation.aPastWithStart,
-                formatCurrent: affiliation.formatCurrent ?? affiliation.aCurrent               
+                formatCurrent: affiliation.formatCurrent ?? affiliation.aCurrent
             }
         }
 
@@ -189,27 +180,38 @@ class AffiliationManager {
         for (let aff of leaderAffs) {
             if (aff.aff.type == "leader") {
 
-               let dateInfo = {
+                let dateInfo = {
                     startDate: aff.aff.startDate,
                     endDate: aff.aff.endDate,
                     isCreated: true,
                     isAlive: undefined,
                     age: undefined
                 }
-    
+
                 DateManager.setPageDateProperties(dateInfo, targetDate)
-                                
+
 
                 lines.push(TokenParser.formatDisplayString(displayData?.ruledBy, { name: aff.file.file.name, frontmatter: aff.file }, targetDate,
                     {
                         dateInfo: dateInfo,
                         affiliationtitle: aff.aff.title,
-                    }))                
+                    }))
             }
         }
 
         return lines.join("\n")
     }
+
+
+    getPartOfs(metadata, filter, sourcePageType) {
+
+        if (metadata.partOf) {
+            return this.#getPartOfChain(metadata.partOf, 1, filter, sourcePageType)
+        }
+
+        return []
+    }
+
 
 
     getAffiliationPartOf(metadata, format) {
@@ -223,18 +225,18 @@ class AffiliationManager {
 
     isOrWasAffiliated(target, personMetadata, targetDate) {
         const { NameManager } = customJS
-              
+
 
         let affs = this.getAffiliations(personMetadata, targetDate)
-        return affs.some(f =>  f.org == target && f.startDate.sort <= targetDate.sort )
-    }    
+        return affs.some(f => f.org == target && f.startDate.sort <= targetDate.sort)
+    }
 
     isAffiliated(target, personMetadata, targetDate) {
         const { NameManager } = customJS
-              
+
 
         let affs = this.getAffiliations(personMetadata, targetDate)
-        return affs.some(f =>  f.org == target && f.startDate.sort <= targetDate.sort && targetDate.sort <= f.endDate.sort )
+        return affs.some(f => f.org == target && f.startDate.sort <= targetDate.sort && targetDate.sort <= f.endDate.sort)
     }
 
     getAffiliations(metadata, targetDate) {
