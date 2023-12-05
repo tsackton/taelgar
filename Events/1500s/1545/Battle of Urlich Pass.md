@@ -11,6 +11,6 @@ whereabouts: Urlich Pass
 # The Battle of Urlich Pass
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> part of The [[Great War]]
+> Part of The [[Great War]]
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
