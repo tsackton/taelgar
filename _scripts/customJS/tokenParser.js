@@ -3,17 +3,17 @@ class TokenParser {
     debug = true
 
     // Define the allowable filter and format characters
-    // unused characters: b c d e g h j k m v w z
+    // unused characters: bB cC dD eE gG hH jJ K mM N S T vV wW X Y zZ 
 
     // * format definitions * //
     /*** 
-        t: title case; s: lower case, u: initial upper case
+        t: title case; s: lower case, u: initial upper case, k: keep case 
+            (keep case doesn't do anything in name manager, but it makes writing a string like :k;t, to make the first element title cased and the rest normal a lot easier)
         a: indefinite article, A: indefinite article if first, x: no definite article, q: preposition, Q: no preposition
-        n: never link, y: always link
-        !: prefer this format if possible
+        n: never link, y: always link        
     ***/
 
-    formatChars = "qQaAxnytsUu!";
+    formatChars = "qQaAxnytsUuk";
     casingChars = "tsUu";
 
     // * filter definitions * //
@@ -22,11 +22,11 @@ class TokenParser {
         L = include locations only; l = exclude locations
         P = include people only; p = exclude people
         I = include items only; i = exclude items
-        F = include first step only; f = exclude first step
+        F = include first step always; f = exclude first step
         O = include organizations only; o = exclude organizations
     ***/
 
-    filterChars = "rRpPlLiIoOfF!";
+    filterChars = "rRpPlLiIoOfF";
 
     // defines a regex for parsing tokens //
 
@@ -75,7 +75,7 @@ class TokenParser {
             // Separate filter and format based on allowable characters
             let filter = "";
             let format = "";
-            let firstFormat = "";
+            let firstFormat = null; // we want to explicitly distinguish between null/undefined and t; (where t; means, t is the format, nothing is the first format)
 
             if (filterFormatString) {
                 // Check for a numerical range or limit at the beginning of the filter //
@@ -117,6 +117,7 @@ class TokenParser {
                         return token;
                     }
                 } else if (filterFormatString.length === 3) {
+                    firstFormat = ""
                     // we have a;b;c
                     // a is filter, b is the format, c is firstFormat
                     for (let char of filterFormatString[0]) {
@@ -133,7 +134,7 @@ class TokenParser {
 
                 token.filter = remDup(filter);
                 token.format = remDup(format);
-                token.firstFormat = remDup(firstFormat);
+                token.firstFormat = firstFormat == null ? null : remDup(firstFormat);
             }
 
         };
@@ -253,7 +254,7 @@ class TokenParser {
 
         for (let item of value) {
 
-            let formatStr = (index++ === 0 && token.firstFormat) ? token.firstFormat : token.format
+            let formatStr = (index++ === 0 && token.firstFormat != null) ? token.firstFormat : token.format
             if (!formatStr) formatStr = ""
 
             results.push(this.formatDisplayString(item.format ?? "<name:" + formatStr + ">", {}, targetDate, item))
