@@ -32,10 +32,10 @@ class TokenParser {
     tokenRegex = /<(\(.*?\))?([a-zA-Z]+):?([^:()\s<>]+?)?(\(.*?\))?>/g;
 
     #parseTokenString(input, isFirst) {
-         // isFirst allows for special handling of certain format specifiers which need to be conditional on the value being the first in the chain //
+        // isFirst allows for special handling of certain format specifiers which need to be conditional on the value being the first in the chain //
 
         // from https://stackoverflow.com/questions/50649912/remove-duplicate-character-in-string-and-make-unique-string
-        const remDup= e => [...new Set(e)].sort().join("");
+        const remDup = e => [...new Set(e)].sort().join("");
         let tokenRegex = this.tokenRegex
         let filterChars = this.filterChars
         let formatChars = this.formatChars
@@ -98,7 +98,7 @@ class TokenParser {
                     for (let char of filterFormatString[0]) {
                         if (filterChars.includes(char)) filter += char;
                         if (formatChars.includes(char)) format += char;
-                    } 
+                    }
                     for (let char of filterFormatString[1]) {
                         if (formatChars.includes(char)) chainFormat += char;
                     }
@@ -107,7 +107,7 @@ class TokenParser {
                     // a is filter, b is the format, c is chainFormat
                     for (let char of filterFormatString[0]) {
                         if (filterChars.includes(char)) filter += char;
-                    } 
+                    }
                     for (let char of filterFormatString[1]) {
                         if (formatChars.includes(char)) format += char;
                     }
@@ -134,17 +134,18 @@ class TokenParser {
         // subtype is the same as subtypeof //
         if (token.token == "subtype") token.token = "subtypeof"
         // typeof and type are the same as maintype //        
-        if (token.token == "maintype" || token.token == "type") token.token = "typeof"
+        if (token.token == "type") token.token = "typeof"
+
 
         if (token.format?.includes("U") && isFirst) {
-            token.format = token.format.replace("U", "u") 
-        } else { 
+            token.format = token.format.replace("U", "u")
+        } else {
             token.format = token.format?.replace("U", "")
         }
 
         if (token.format?.includes("A") && isFirst) {
             token.format = token.format.replace("A", "a")
-        } else { 
+        } else {
             token.format = token.format?.replace("A", "")
         }
 
@@ -202,29 +203,14 @@ class TokenParser {
         return NameManager.formatName(name, token.format)
     }
 
-    #getFormattedName(value, token, metadata) {
+    #getFormattedName(value, token) {
         // returns a formatted name
         // pass the format and the name to the name manager to generate a formatted name
-
         const { NameManager } = customJS;
-        let name = undefined
 
-        // check to see if we have a name object
-        if (value?.isNormalizedName) {
-            // we have a name object
-            // this probably just returns itself, but...
-            name = NameManager.getNameObject(value)
-        } else {
-            // see if we can build a name object
-            let possibleAliasKey = token.token + "Alias"
-            let alias = this.#getParameterCaseInsensitive(metadata, possibleAliasKey)
-            let sourcePageType = NameManager.getPageType(metadata)
-            if (alias) {
-                name = NameManager.getNameObject(value, sourcePageType, undefined, { alias: alias })
-            } else {
-                name = NameManager.getNameObject(value, sourcePageType)
-            }
-        }
+        // this is usually a name object; however, if we are formatting the actual name of this page
+        // it is in fact a bare string
+        let name = NameManager.getNameObject(value, undefined, undefined)
 
         return NameManager.formatName(name, token.format)
     }
@@ -293,7 +279,7 @@ class TokenParser {
         return DateManager.normalizeDate(value).display
     }
 
-    #getDefaultTypeOf(metadata) {
+    #getTypeOfOrDefault(metadata) {
 
         if (metadata.typeOf) return metadata.typeOf
         if ("typeOf" in metadata) return ""
@@ -388,29 +374,29 @@ class TokenParser {
                 formatter = "name"
                 break;
             case "ancestry":
-                value = metadata.ancestry
-                formatter = "name"
-                break
             case "subtypeof":
-                value = metadata.subTypeOf
+            case "subspecies":
+            case "species":
+            case "person":
+                let valueFromMetadata = this.#getParameterCaseInsensitive(metadata, token.token)
+                let possibleAliasKey = token.token + "alias"
+                let alias = this.#getParameterCaseInsensitive(metadata, possibleAliasKey)
+
+                value = NameManager.getNameObject(valueFromMetadata, sourcePageType, { alias: alias })
                 formatter = "name"
                 break
             case "typeof":
+                value = NameManager.getNameObject(this.#getTypeOfOrDefault(metadata), sourcePageType, { alias: metadata.typeOfAlias })
+                break
+            case "maintype":
                 // special case where we define a specific main type based on metadata //
-                value = metadata.species ? metadata.species : this.#getDefaultTypeOf(metadata)
-                formatter = "name"
-                break;
-            case "subspecies":
-                value = metadata.subspecies
-                formatter = "name"
-                break
-            case "species":
-                value = metadata.species
-                formatter = "name"
-                break
-            case "person":
-                value = metadata.person
-                formatter = "name"
+                if (metadata.species) {
+                    token.token = "species"
+                    return this.#formatToken(token, file, targetDate, overrides)
+                } else {
+                    token.token = "typeof"
+                    return this.#formatToken(token, file, targetDate, overrides)
+                }
                 break
             // end name options //
 
@@ -452,7 +438,7 @@ class TokenParser {
                 formatter = "whereabout-list"
                 break
             case "origin":
-                targetDate = pageDateInfo.startDate ?? DateManager.normalizeDate("0001")             
+                targetDate = pageDateInfo.startDate ?? DateManager.normalizeDate("0001")
                 value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).origin, targetDate, token.filter, sourcePageType)
                 formatter = "whereabout-list"
                 break
@@ -535,16 +521,16 @@ class TokenParser {
         function cleanUpResultString(resultString) {
             // Normalize spaces (collapse multiple spaces to one) and trim the string
             resultString = resultString.replace(/\s+/g, ' ').trim();
-        
+
             // Remove occurrences of `*( )*` and `( )` (with any number of spaces inside the parentheses)
             resultString = resultString.replace(/\*\(\s*\)\*|\(\s*\)/g, '');
-        
+
             // Clean up spaces around parentheses
             resultString = resultString.replace(/\(\s+/g, '(').replace(/\s+\)/g, ')');
-        
+
             // Trim leading and trailing commas and colons
             resultString = resultString.replace(/^[:\s,]+|[:\s,]+$/g, '');
-        
+
             return resultString;
         }
 
@@ -552,10 +538,10 @@ class TokenParser {
 
         let formattedString = '';
         let lastIndex = 0;
-    
+
         for (let tokenMatch of input.matchAll(this.tokenRegex)) {
             let tokenStartIndex = input.indexOf(tokenMatch[0], lastIndex);
-    
+
             // Append the part of the string before the current token
             formattedString += input.substring(lastIndex, tokenStartIndex);
             let isFirst = (formattedString.trim().length === 0);
@@ -572,5 +558,5 @@ class TokenParser {
 
         return cleanUpResultString(formattedString);
     }
-    
+
 }
