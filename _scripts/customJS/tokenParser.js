@@ -56,11 +56,12 @@ class TokenParser {
         let matches = input.matchAll(tokenRegex);
         let tokenMatch = [...matches][0]
         if (this.debug) console.log(tokenMatch)
+        if (this.debug) console.log(isFirst)
         // match1 is the prefix, match2 is the token, match3 is the filter/format, match4 is the suffix
         if (tokenMatch) {
-            result.prefix = tokenMatch[1]?.slice(1, -1) ?? "";
-            result.suffix = tokenMatch[4]?.slice(1, -1) ?? "";
-            result.token = tokenMatch[2] ?? "";
+            token.prefix = tokenMatch[1]?.slice(1, -1) ?? "";
+            token.suffix = tokenMatch[4]?.slice(1, -1) ?? "";
+            token.token = tokenMatch[2] ?? "";
 
             // parse filterFormat string //
 
@@ -117,8 +118,8 @@ class TokenParser {
                     }
                 }
 
-                result.filter = remDup(filter);
-                result.format = remDup(format);
+                token.filter = remDup(filter);
+                token.format = remDup(format);
             }
 
         };
@@ -137,11 +138,17 @@ class TokenParser {
         // typeof and type are the same as maintype //        
         if (token.token == "maintype" || token.token == "type") token.token = "typeof"
 
-        if (token.format.includes("U") && isFirst) token.format = token.format.replace("U", "u")
-        else token.format = token.format.replace("U", "")
+        if (token.format?.includes("U") && isFirst) {
+            token.format = token.format.replace("U", "u") 
+        } else { 
+            token.format = token.format?.replace("U", "")
+        }
 
-        if (token.format.includes("A") && isFirst) token.format = token.format.replace("A", "a")
-        else token.format = token.format.replace("A", "")
+        if (token.format?.includes("A") && isFirst) {
+            token.format = token.format.replace("A", "a")
+        } else { 
+            token.format = token.format?.replace("A", "")
+        }
 
         // all tokens are lower case //
         token.token = token.token.toLowerCase()
@@ -222,31 +229,6 @@ class TokenParser {
         }
 
         return NameManager.formatName(name, token.format)
-    }
-
-    #getFormattedWhereaboutList(whereabout, token, targetDate, metadata) {
-
-        const { NameManager } = customJS;
-        const { LocationManager } = customJS;
-
-        // returns a formatted location chain
-        let followDate = targetDate
-
-        // if the away end date of the whereabout is before the target date, use that as the follow date
-        if (whereabout.awayEnd && targetDate && whereabout.awayEnd.sort < targetDate.sort) {
-            followDate = whereabout.awayEnd
-        }
-        if (whereabout.startFilter && !token.filter.includes("!")) {
-            token.filter = whereabout.startFilter
-        }
-
-        let sourcePageType = metadata.sourcePageType ?? NameManager.getPageType(metadata)
-
-        // this doesn't currently work because we have mindepth and maxdepth parsed but not used //
-        // need to refactor getCurrentLocationName to accept token object and pass along mindepth and maxdepth //
-
-        return LocationManager.getCurrentLocationName(whereabout, token, followDate, sourcePageType)
-  
     }
 
     #getWhereaboutChain(whereabout, targetDate, filter, sourcePageType) {
@@ -355,6 +337,7 @@ class TokenParser {
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         let pageDateInfo = metadata.dateInfo ?? DateManager.getPageDates(metadata, targetDate)
         let displayDefaults = NameManager.getDisplayData(metadata)
+        let sourcePageType = NameManager.getPageType(metadata)
 
         let value = "";
 
@@ -525,7 +508,7 @@ class TokenParser {
 
             let finalStr = token.prefix.slice(1, -1)
             if (formatter == "name") {
-                finalStr += this.#getFormattedName(value, token)
+                finalStr += this.#getFormattedName(value, token, metadata)
             } else if (formatter == "date") {
                 finalStr += this.#getFormattedDate(value, token, targetDate, metadata)
             } else if (formatter === "casing") {
@@ -571,15 +554,16 @@ class TokenParser {
         let lastIndex = 0;
     
         for (let tokenMatch of input.matchAll(this.tokenRegex)) {
-            const tokenStartIndex = input.indexOf(tokenMatch[0], lastIndex);
+            let tokenStartIndex = input.indexOf(tokenMatch[0], lastIndex);
     
             // Append the part of the string before the current token
             formattedString += input.substring(lastIndex, tokenStartIndex);
+            if (this.debug) console.log("Token match: " + tokenMatch[0] + " at index " + tokenStartIndex + " which is " + (tokenStartIndex === 0));
     
-            const token = this.#parseTokenString(tokenMatch[0], tokenStartIndex === 0);
+            let token = this.#parseTokenString(tokenMatch[0], (tokenStartIndex === 0));
             let tokenValue = token ? this.#formatToken(token, file, targetDate, overrides) ?? "" : "(invalid token: " + tokenMatch[0].replace("<", "[").replace(">", "]") + ")";
     
-            newResultString += tokenValue;
+            formattedString += tokenValue;
             lastIndex = tokenStartIndex + tokenMatch[0].length;
         }
 
