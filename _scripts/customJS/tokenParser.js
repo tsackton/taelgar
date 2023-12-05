@@ -53,8 +53,9 @@ class TokenParser {
         };
 
         // parse the prefix, suffix, token, and format
-        let matches = input.matchAll(tokenRegex);
-        let tokenMatch = [...matches][0]
+        let tokenMatches = [...input.matchAll(tokenRegex)];
+        // if there is more than one match, don't process the token
+        let tokenMatch = tokenMatches.length === 1 ? tokenMatches[0] : null;
         // match1 is the prefix, match2 is the token, match3 is the filter/format, match4 is the suffix
         if (tokenMatch) {
             token.prefix = tokenMatch[1]?.slice(1, -1) ?? "";
@@ -367,7 +368,7 @@ class TokenParser {
                 break;
             // end date options //
 
-            // start name options - can be a string or a name object //
+            // start name options - value is expected to be a name object //
             case "name":
                 // this is a special case; we want to use the metadata name only if it is overridden
                 // usually we prefer the merged data, but in this case, we want the name only if it represents 
@@ -384,11 +385,12 @@ class TokenParser {
                 let possibleAliasKey = token.token + "alias"
                 let alias = this.#getParameterCaseInsensitive(metadata, possibleAliasKey)
 
-                value = NameManager.getNameObject(valueFromMetadata, sourcePageType, { alias: alias })
+                value = valueFromMetadata ? NameManager.getNameObject(valueFromMetadata, sourcePageType, { alias: alias }) : ""
                 formatter = "name"
                 break
             case "typeof":
-                value = NameManager.getNameObject(this.#getTypeOfOrDefault(metadata), sourcePageType, { alias: metadata.typeOfAlias })
+                let typeOf = this.#getTypeOfOrDefault(metadata)
+                value = typeOf ? NameManager.getNameObject(typeOf, sourcePageType, { alias: metadata.typeOfAlias }) : ""
                 break
             case "maintype":
                 // special case where we define a specific main type based on metadata //
@@ -399,7 +401,6 @@ class TokenParser {
                     token.token = "typeof"
                     return this.#formatToken(token, file, targetDate, overrides)
                 }
-                break
             // end name options //
 
             // start none or casing only options //
@@ -470,7 +471,7 @@ class TokenParser {
                     value = ""
                 }
                 else {
-                    value = this.#getFormattedName("ka") + " " + (metadata.ka ?? "unknown")
+                    value = this.#getFormattedName(NameManager.getNameObject("ka"), token) + " " + (metadata.ka ?? "unknown")
                 }
                 formatter = "none"
                 break;

@@ -14,7 +14,7 @@ affiliations:
 ---
 # Béatrix of Cleenseau
 >[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+> A [[Sembara|Sembaran]] [[Humans|human]]  (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
