@@ -546,6 +546,8 @@ class TokenParser {
             return resultString;
         }
 
+        if (!input) return ""
+
         if (this.debug) console.log("Formatting display string: " + input);
 
         let formattedString = '';
