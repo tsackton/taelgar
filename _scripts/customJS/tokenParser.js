@@ -276,6 +276,15 @@ class TokenParser {
         return DateManager.normalizeDate(value).display
     }
 
+    #getFormattedAge(value, token) {
+        // currently just applies simple age formatting
+
+        if (value === 0) return "0 years"
+        if (value == 1) return "1 year"
+        if (value) return value + " years"
+        return ""
+    }
+
     #getTypeOfOrDefault(metadata) {
 
         if (metadata.typeOf) return metadata.typeOf
@@ -327,20 +336,11 @@ class TokenParser {
 
         let value = "";
 
-
-        // set formatting options //  
-        // define four types of formatters //
-        // none: no formatting, just return the value //
-        // name: apply name formatting, expects a nameObject object //
-        // date: apply date formatting, expects a normalizeDate object //
-        // whereabout: build a location chain from this starting point //
-        // casing: just apply casing //
-
+        // default formatter is none, if we don't set something specific //
         let formatter = "none"
 
         switch (token.token) {
-            // date options - value is expected to be a normalizedDate object //
-            // to do: actually check this //
+            // date formatter - value is expected to be a normalizedDate object //
             case "startdate":
                 if (pageDateInfo.startDate) value = pageDateInfo.startDate
                 formatter = "date"
@@ -366,9 +366,14 @@ class TokenParser {
                 }
                 formatter = "date"
                 break;
-            // end date options //
 
-            // start name options - value is expected to be a name object //
+            // age formatter - currenty just adds year or years to integer, but allows more complicated options in the future
+            case "age":
+                value = pageDateInfo.age
+                formatter = "age"
+                break;
+
+            // name formatter - value is expected to be a name object //
             case "name":
                 // this is a special case; we want to use the metadata name only if it is overridden
                 // usually we prefer the merged data, but in this case, we want the name only if it represents 
@@ -391,6 +396,8 @@ class TokenParser {
             case "typeof":
                 let typeOf = this.#getTypeOfOrDefault(metadata)
                 value = typeOf ? NameManager.getNameObject(typeOf, sourcePageType, { alias: metadata.typeOfAlias }) : ""
+                formatter = "name"
+                console.log(value)
                 break
             case "maintype":
                 // special case where we define a specific main type based on metadata //
@@ -401,33 +408,9 @@ class TokenParser {
                     token.token = "typeof"
                     return this.#formatToken(token, file, targetDate, overrides)
                 }
-            // end name options //
+            // end name options //  
 
-            // start none or casing only options //
-            case "pronouns":
-                if (metadata.pronouns) value = metadata.pronouns
-                else if (metadata.gender == "male") value = "he/him"
-                else if (metadata.gender == "female") value = "she/her"
-                else if (metadata.gender) value = "they/them"
-                formatter = "casing"
-                break;
-            case "age":
-                if (pageDateInfo.age == 0) value = "0 years"
-                else if (pageDateInfo.age == 1) value = "1 year"
-                else if (pageDateInfo.age) value = pageDateInfo.age + " years"
-                formatter = "none"
-                break;
-            case "population":
-                if (metadata.population) {
-                    let intPop = parseInt(metadata.population)
-                    if (intPop) value = "pop. " + metadata.population.toLocaleString()
-                    else value = metadata.population
-                }
-                formatter = "none"
-                break;
-            // end none options //
-
-            // start whereabout options //
+            // whereabout-list formatter - value is expected to be a whereabout chain //
             case "current":
                 value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).current, targetDate, token.filter, sourcePageType)
                 formatter = "whereabout-list"
@@ -447,7 +430,7 @@ class TokenParser {
                 break
             // end whereabout options //
 
-            // start affiliation options //
+            // affiliation-list formatter - value is expected to be a list of affiliations //
             case "primary":
                 value = metadata.primaryAffiliations ?? AffiliationManager.getPrimaryAffiliations(metadata, targetDate)
                 formatter = "affiliation-list"
@@ -475,6 +458,23 @@ class TokenParser {
                 }
                 formatter = "none"
                 break;
+            case "population":
+                // could have its own formatter but for now just keep this in the switch
+                if (metadata.population) {
+                    let intPop = parseInt(metadata.population)
+                    if (intPop) value = "pop. " + metadata.population.toLocaleString()
+                    else value = metadata.population
+                }
+                formatter = "none"
+                break;
+            case "pronouns":
+                // calculate pronouns from gender if not specified
+                if (metadata.pronouns) value = metadata.pronouns
+                else if (metadata.gender == "male") value = "he/him"
+                else if (metadata.gender == "female") value = "she/her"
+                else if (metadata.gender) value = "they/them"
+                formatter = "casing"
+                break;
             // end complicated options //
 
             // REFACTOR OPTIONS //
@@ -493,7 +493,7 @@ class TokenParser {
                 formatter = "casing"
         }
 
-        if (value && (!Array.isArray(value) || value.length > 0)) {
+        if ((value || value === 0) && (!Array.isArray(value) || value.length > 0)) {
 
             let finalStr = token.prefix
             if (formatter == "name") {
@@ -506,8 +506,9 @@ class TokenParser {
                 finalStr += this.#getFormattedAffiliationList(value, token)
             } else if (formatter == "whereabout-list") {
                 finalStr += this.#getFormattedWhereaboutList(value, token, targetDate)
-            }
-            else {
+            } else if (formatter == "age") {
+                finalStr += this.#getFormattedAge(value, token)
+            } else {
                 finalStr += value
             }
 

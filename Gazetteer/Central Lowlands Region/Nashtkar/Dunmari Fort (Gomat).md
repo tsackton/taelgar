@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place/fort, status/notes, status/unknown]
-partOf: Nashtkar
+whereabouts: Nashtkar
 typeOf: fort
 subTypeOf: ruined
 ancestry: Dunmari

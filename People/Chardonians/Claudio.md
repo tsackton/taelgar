@@ -1,7 +1,6 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Claudio
 born: 1719
@@ -14,7 +13,7 @@ whereabouts:
 ---
 # Claudio
 >[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
