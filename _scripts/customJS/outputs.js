@@ -94,7 +94,7 @@ class OutputHandler {
         }
 
         let summaryBlockLines = []
-    
+
         let typeOf = TokenParser.formatDisplayString(displayDefaults.boxInfo, file)
         if (typeOf && typeOf.length > 0) {
             summaryBlockLines.push("> " + typeOf)
@@ -122,7 +122,7 @@ class OutputHandler {
             }
             summaryBlockLines.push("> " + line)
         }
-    
+
         let partOf = TokenParser.formatDisplayString(displayDefaults.partOf, file)
         if (partOf && partOf.length > 0) {
             summaryBlockLines.push("> " + partOf)
@@ -136,7 +136,7 @@ class OutputHandler {
 
             summaryBlockLines.push(">> " + line.trim())
         }
-    
+
         for (let meeting of EventManager.getPartyMeeting(file)) {
             summaryBlockLines.push(`>> %%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`);
         }
@@ -155,7 +155,7 @@ class OutputHandler {
         const { DateManager } = customJS
         const { NameManager } = customJS
         const { TokenParser } = customJS
-    
+
         let displayDefaults = NameManager.getDisplayData(metadata)
         let file = { name: fileName, frontmatter: metadata }
 
@@ -176,15 +176,14 @@ class OutputHandler {
 
         let displayString = "", homeString = ""
 
-        // knownLastKnown is false if whereabout.lastKnown.awayEnd.display is falsey (it was 0001 or 9999) //
-        // or if whereabout.lastKnown.awayEnd is nullish //
-        let knownLastKnown = whereabout.lastKnown.awayEnd?.display ? true : false
+        // knownLastKnown is false if either we have no awayEnd, or if the awayEnd is a hidden date (0001 or 9999)
+        let knownLastKnown = whereabout.lastKnown.awayEnd && !whereabout.lastKnown.awayEnd.isHiddenDate
 
         // origin string construction //
         // if origin is unknown, use unknown string //
         // don't care about alive/dead for origin //
         let originString = TokenParser.formatDisplayString(whereabout.origin.location ? (whereabout.origin.originFormat ?? displayDefaults.wOrigin) : displayDefaults.wOriginU, file, pageYear)
-    
+
         // home string construction //
         if (isPageAlive) {
             homeString = TokenParser.formatDisplayString(whereabout.home.location ? (whereabout.home.homeFormat ?? displayDefaults.wHome) : displayDefaults.wHomeU, file, pageYear)
@@ -194,11 +193,11 @@ class OutputHandler {
 
         // current string construction //    
         let currentString = TokenParser.formatDisplayString((isPageAlive ? (whereabout.current.currentFormat ?? displayDefaults.wCurrent) : (whereabout.current.pastFormat ?? displayDefaults.wPast)), file, pageYear)
-    
+
         // last known string construction //
         let knownString = TokenParser.formatDisplayString(knownLastKnown ? (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastKnown) : (whereabout.lastKnown.lastKnownFormat ?? displayDefaults.wLastNoDate), file, pageYear)
-    
-    
+
+
         if (!whereabout.origin.location || whereabout.origin.location != whereabout.home.location) {
             // display origin if it is not the same as home or it is unknown //
             displayString += originString + "\n"
@@ -231,6 +230,10 @@ class OutputHandler {
 
 
     outputPageDatedValue(fileName, metadata) {
+        function isDisplayableDate(date) {
+            return date && !date.isHiddenDate
+        }
+
         const { DateManager } = customJS
         const { TokenParser } = customJS
         const { NameManager } = customJS
@@ -241,24 +244,19 @@ class OutputHandler {
 
         if (!dateInfo.isCreated) return "**(page is future dated)**"
 
-        if (dateInfo.endDate && dateInfo.endDate.display == "") {
-            formatStr = pageDisplayData.dPast
-        }
-        else if (dateInfo.isAlive) {
-            if (!dateInfo.startDate) {
-                // we have a death date in the future and no start date, output nothing
+        if (dateInfo.isAlive) {
+            if (isDisplayableDate(dateInfo.startDate)) {
+                formatStr = pageDisplayData.dCurrent
+            } else {
+                // we have a death date in the future and displayable start date, output nothing
                 return ""
             }
-            formatStr = pageDisplayData.dCurrent
         }
-        else if (dateInfo.startDate?.display?.length > 0) {
+        else if (isDisplayableDate(dateInfo.startDate) && isDisplayableDate(dateInfo.endDate)) {
             formatStr = pageDisplayData.dPastHasStart
         }
-        else if (dateInfo.endDate) {
-            formatStr = pageDisplayData.dPast
-        }
         else {
-            return ""
+            formatStr = pageDisplayData.dPast
         }
 
         return TokenParser.formatDisplayString(formatStr, { name: fileName, frontmatter: metadata })
