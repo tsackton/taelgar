@@ -208,11 +208,7 @@ class TokenParser {
         // pass the format and the name to the name manager to generate a formatted name
         const { NameManager } = customJS;
 
-        // this is usually a name object; however, if we are formatting the actual name of this page
-        // it is in fact a bare string
-        let name = NameManager.getNameObject(value, undefined, undefined)
-
-        return NameManager.formatName(name, token.format)
+        return NameManager.formatName(value, token.format)
     }
 
     #getWhereaboutChain(whereabout, targetDate, filter, sourcePageType) {
@@ -320,6 +316,9 @@ class TokenParser {
 
         let metadata = merge_options(file.frontmatter, overrides)
 
+        // prevent undefined ref errors below
+        if (!overrides) overrides = {}
+
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         let pageDateInfo = metadata.dateInfo ?? DateManager.getPageDates(metadata, targetDate)
         let displayDefaults = NameManager.getDisplayData(metadata)
@@ -370,7 +369,10 @@ class TokenParser {
 
             // start name options - can be a string or a name object //
             case "name":
-                value = metadata.name ? metadata.name : file.name
+                // this is a special case; we want to use the metadata name only if it is overridden
+                // usually we prefer the merged data, but in this case, we want the name only if it represents 
+                // an override
+                value =  NameManager.getNameObject(overrides.name ?? file.name, sourcePageType)
                 formatter = "name"
                 break;
             case "ancestry":
