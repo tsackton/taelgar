@@ -214,7 +214,7 @@ class TokenParser {
         const { NameManager } = customJS;
 
         // this probably just returns itself, but...
-        let name = { name: value, linkText: "", indefiniteArticle: "", definiteArticle: "", linkTarget: undefined }
+        let name = { name: value, linkText: "", indefiniteArticle: "", definiteArticle: "", linkTarget: undefined, prefix: token.prefix, suffix: token.suffix }
 
         return NameManager.formatName(name, token.format)
     }
@@ -223,6 +223,9 @@ class TokenParser {
         // returns a formatted name
         // pass the format and the name to the name manager to generate a formatted name
         const { NameManager } = customJS;
+
+        if (!value.prefix) value.prefix = token.prefix
+        if (!value.suffix) value.suffix = token.suffix
 
         return NameManager.formatName(value, token.format)
     }
@@ -251,7 +254,12 @@ class TokenParser {
 
         for (let whereabout of value) {
 
+            if (index == 0) whereabout.name.prefix = token.prefix
+            if (index == (value.length - 1)) whereabout.name.suffix = token.suffix
+
             let formatStr = (index++ === 0 && token.firstFormat) ? token.firstFormat : token.format
+
+        
             if (!formatStr) formatStr = ""
 
             const { NameManager } = customJS;
@@ -266,8 +274,14 @@ class TokenParser {
         if (!Array.isArray(value)) return ""
 
         let results = []
+        let index = 0;
 
         for (let affiliation of value) {
+
+            if (index == 0) affiliation.name.prefix = token.prefix
+            if (index == (value.length - 1)) affiliation.name.suffix = token.suffix
+
+            index++
 
             const { NameManager } = customJS;
             results.push(NameManager.formatName(affiliation.name, token.format))
@@ -491,7 +505,7 @@ class TokenParser {
             case "partof":
                 // currently we just use the affliation manager here to get a fully formatted string
                 value = AffiliationManager.getAffiliationPartOf(metadata, token.format)
-                formatter = "none"
+                formatter = "casing"
                 break;
             // END REFACTOR OPTIONS //
 
@@ -504,18 +518,8 @@ class TokenParser {
 
         if ((value || value === 0) && (!Array.isArray(value) || value.length > 0)) {
 
-            // apply casing format only to prefix and suffix //
-            // uses format, not firstFormat, which might not be ideal //
-            // could wrap in a function and pass either format or firstFormat //
-
-            let casingFormat = token.format ?? ""
-            casingFormat = casingFormat.split('').filter(char => this.casingChars.includes(char)).join('');
-            if (casingFormat) {
-                token.prefix = this.#getFormattedCaseString(token.prefix, { format: casingFormat })
-                token.suffix = this.#getFormattedCaseString(token.suffix, { format: casingFormat })
-            }
-
-            let finalStr = token.prefix
+           
+            let finalStr = ""
             if (formatter == "name") {
                 finalStr += this.#getFormattedName(value, token, metadata)
             } else if (formatter == "date") {
@@ -531,9 +535,7 @@ class TokenParser {
             } else {
                 finalStr += value
             }
-
-            finalStr += token.suffix
-
+         
             return finalStr.trim();
         } else {
             return ""

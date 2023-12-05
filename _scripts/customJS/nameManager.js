@@ -28,15 +28,6 @@ class NameManager {
     }
 
 
-    #toTitle(str) {
-        const lowers = ['A', 'An', 'The', 'And', 'But', 'Or', 'For', 'Nor', 'As', 'At', 'By', 'For', 'From', 'In', 'Into', 'Near', 'Of', 'On', 'Onto', 'To', 'With'];
-
-        return str.
-            split(' ').
-            map((elem, index) => (lowers.findIndex(item => elem.toLowerCase() === item.toLowerCase()) >= 0 && index > 0) || elem.length == 0 ? elem : (elem[0].toUpperCase() + elem.substr(1))).
-            join(' ')
-    }
-
     getCampaignSessionNoteFolder(prefix) {
         let metadata = this.#getElementFromMetadata("campaigns")
         if (metadata) {
@@ -142,67 +133,72 @@ class NameManager {
     // name = { name: the actual name, linkTarget: the target file, if there is one, article: the article, linkText: the linkText }
 
     formatName(name, formatSpecifier) {
+        function toTitle(str) {
+            const lowers = ['A', 'An', 'The', 'And', 'But', 'Or', 'For', 'Nor', 'As', 'At', 'By', 'For', 'From', 'In', 'Into', 'Near', 'Of', 'On', 'Onto', 'To', 'With'];
+    
+            return str.
+                split(' ').
+                map((elem, index) => (lowers.findIndex(item => elem.toLowerCase() === item.toLowerCase()) >= 0) || elem.length == 0 ? elem : (elem[0].toUpperCase() + elem.substr(1))).
+                join(' ')
+        }
 
         function toFirstUpper(inStr) {
             if (!inStr) return inStr
-            let newStr = inStr.trim();
+            let newStr = inStr.trimStart()
             return newStr.charAt(0).toUpperCase() + newStr.slice(1);
+        }
+
+        function formatPiece(piece, format, initialUpper) {
+            if (format.includes("s")) {
+                piece = piece.toLowerCase()
+            } else if (format.includes("t")) {
+                piece = toTitle(piece)
+            }
+
+            if (initialUpper) {
+                piece = toFirstUpper(piece)
+            }
+
+            return piece
         }
 
         if (!name || !name.name) {
             return ""
         }
 
-        // the format looks like: [linkText] [article] [[file|alias]]
+        // the format looks like: [prefix][linkText] [article] [[file|alias]][suffix]
 
         let formattedName = "";
         let specifier = formatSpecifier ?? ""
-        let initialUpper = specifier.includes("u")
+        let initialUpper = specifier.includes("u") || specifier.includes("t") // we need title case to also apply initial upper so we uppercase The Name of Something or Of Something the Name
+
+        if (name.prefix) {
+            // we don't add a space here on purpose; prefix includes it if we need it
+            formattedName = formatPiece(name.prefix, specifier, initialUpper)
+            initialUpper = false
+        }
 
         // we include the link text if we (a) have a q but (b) do not have a negation (Q)
         if (specifier.includes("q") && !specifier.includes("Q") && name.linkText) {
-            let linkText = name.linkText ?? ""
-            if (initialUpper) {
-                linkText = toFirstUpper(linkText)
-                initialUpper = false;
-            }
-
-            formattedName = linkText + " "
+            let linkText = formatPiece(name.linkText, specifier, initialUpper)
+            initialUpper = false;
+            formattedName += linkText + " "
         }
 
 
-        if (specifier.includes("a")) {
-            let article = name.indefiniteArticle ?? ""
-            // title case expects the article to be upper
-            if (initialUpper || specifier.includes("t")) {
-                article = toFirstUpper(article)
-                initialUpper = false;
-            }
-
+        if (specifier.includes("a") && name.indefiniteArticle) {
+            let article = formatPiece(name.indefiniteArticle, specifier, initialUpper)
+            initialUpper = false;
             formattedName += article + " "
         }
         else if (!specifier.includes("x") && name.definiteArticle) {
-            let article = name.definiteArticle ?? ""
-            // title case expects the article to be upper
-            if (initialUpper || specifier.includes("t")) {
-                article = toFirstUpper(article)
-                initialUpper = false;
-            }
-
+            let article = formatPiece(name.definiteArticle, specifier, initialUpper)
+            initialUpper = false;
             formattedName += article + " "
         }
 
-        let nameStr = name.name
-        if (specifier.includes("s")) {
-            nameStr = nameStr.toLowerCase()
-        } else if (specifier.includes("t")) {
-            nameStr = this.#toTitle(nameStr)
-        }
-
-        if (initialUpper) {
-            nameStr = toFirstUpper(nameStr)
-            initialUpper = false;
-        }
+        let nameStr = formatPiece(name.name, specifier, initialUpper)
+        initialUpper = false;
 
         // avoid creating links in certain cases
         if (specifier.includes("y" && !name.linkTarget)) {
@@ -241,14 +237,21 @@ class NameManager {
             }
         }
 
+
+        if (name.suffix) {
+            let suffix = formatPiece(name.suffix, specifier, initialUpper)
+            // we don't add a space here on purpose; suffix includes it if we need it
+            formattedName += suffix
+        }
+
         return formattedName
     }
 
     #getLinkText(pageMetadata, sourceType) {
         // given a page, and a origin page, get the link text describing the "link" between these pages
-        
+
         let displayData = this.getDisplayData(pageMetadata)
-        
+
         let prep = ""
         switch (sourceType) {
             case "person":
@@ -271,9 +274,9 @@ class NameManager {
     }
 
     #getIndefArt(inputString) {
-        
+
         // indefinte article
-        let lowered = inputString.toLowerCase()        
+        let lowered = inputString.toLowerCase()
         if (lowered.startsWith("uni")) {
             return "a"
         } else if (lowered[0] == "a" || lowered[0] == "e" || lowered[0] == "i" || lowered[0] == "o" || lowered[0] == "u") {
@@ -287,7 +290,7 @@ class NameManager {
         // given an input string this returns the article
 
         if (!inputString) return ""
-        
+
         if (/[A-Z~]/.test(inputString)) {
             // capital letters, calculate a definite article
             let wordCount = inputString.split(' ').length
@@ -357,8 +360,8 @@ class NameManager {
         } else {
             indefArt = this.#getIndefArt(selectedDescriptiveName)
         }
-        
-        
+
+
         if ("defArt" in displayDefaults) {
             defArt = displayDefaults.defArt ?? ""
         } else {
