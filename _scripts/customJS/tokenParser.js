@@ -14,6 +14,7 @@ class TokenParser {
     ***/
 
     formatChars = "qQaAxnytsUu!";
+    casingChars = "tsUu";
 
     // * filter definitions * //
     /*** 
@@ -502,6 +503,17 @@ class TokenParser {
         }
 
         if ((value || value === 0) && (!Array.isArray(value) || value.length > 0)) {
+
+            // apply casing format only to prefix and suffix //
+            // uses format, not firstFormat, which might not be ideal //
+            // could wrap in a function and pass either format or firstFormat //
+
+            let casingFormat = token.format ?? ""
+            casingFormat = casingFormat.split('').filter(char => this.casingChars.includes(char)).join('');
+            if (casingFormat) {
+                token.prefix = this.#getFormattedCaseString(token.prefix, { format: casingFormat })
+                token.suffix = this.#getFormattedCaseString(token.suffix, { format: casingFormat })
+            }
 
             let finalStr = token.prefix
             if (formatter == "name") {
