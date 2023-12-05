@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/village]
+tags: [place/village, testcase]
 campaignInfo: []
 name: Taviose
 typeOfAlias: village

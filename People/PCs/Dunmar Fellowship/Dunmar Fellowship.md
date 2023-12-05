@@ -1,5 +1,6 @@
 ---
 tags: [organization/party, status/needswork]
+displayDefaults: {ltPerson: "by"}
 campaignInfo: []
 name: Dunmar Fellowship
 typeOf: adventuring party
