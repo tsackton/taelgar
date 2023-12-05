@@ -173,6 +173,8 @@ class WhereaboutsManager {
         let maxDepth = undefined
         let minDepth = undefined
 
+        if (!formatStr) return successResult
+
         let fsSplit = formatStr.split('-')
 
         if (fsSplit.length == 2) {
@@ -284,7 +286,7 @@ class WhereaboutsManager {
                     location: potentialNextPiece,
                     linkText: whereabout.location.substring(0, match.index),
                     alias: whereabout.alias,
-                    format: whereabout.format
+                    format: whereabout.format ?? "<name:q>" // this is a bit of a hack, because it means we ignore other format params, but the link text is critical here
                 }, targetDate, thisDepth, filter, sourcePageType)
             }
 

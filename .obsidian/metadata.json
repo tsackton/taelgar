@@ -39,6 +39,7 @@
         "boxName": "Information",
         "partOf": "",
         "boxInfo": "",
+        "aNoDate": "<affiliationtitle:t> of <affiliations>",
         "aPast": "<affiliationtitle:t> of <affiliations> (until <endDate>)",
         "aCurrent": "<affiliationtitle:t> of <affiliations> (since <startDate>)",
         "aPastHasStart": "<affiliationtitle:t> of <affiliations> (<startDate> - <endDate>)", 

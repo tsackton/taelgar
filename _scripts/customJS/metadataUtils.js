@@ -1,5 +1,42 @@
 class util {
 
+    #isInLocation(startingLocation, targetLocation, targetDate) {
+
+        // this takes a note and a target location
+        // and returns true if the note is in the starting location
+        // at the target date
+
+        // to think about: if starting location is, e.g. "wandering, north of Tokra" and target location is "Dunmar"
+        // this will return false, even though it should return true
+
+        const { NameManager } = customJS
+        const { WhereaboutsManager } = customJS
+
+        // Check for null, undefined, or empty string
+        if (!startingLocation || startingLocation.trim() === "") {
+            return false;
+        }
+
+        // Check if trimmed values are equal
+        if (startingLocation.trim() === targetLocation.trim()) {
+            return true;
+        }
+
+        // we have a single string
+        let file = NameManager.getFileForTarget(startingLocation)
+        if (file) {
+
+            let nextLvl = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current.location
+
+            if (nextLvl) {
+                return this.#isInLocation(nextLvl, targetLocation, targetDate)
+            }
+
+            return false;
+        }
+
+        return false
+    }
 
     isAlive(metadata, targetDate) {
         const { DateManager } = customJS
@@ -11,9 +48,9 @@ class util {
     }
 
     isLinkedToPerson(file, target) {
-        
+
         const { NameManager } = customJS
-    
+
 
         let allowInlinks = NameManager.getPageType(file.frontmatter) != "place"
 
@@ -60,8 +97,8 @@ class util {
     }
 
     isOrWasAffiliated(target, metadata, targetDate) {
-        
-        const { AffiliationManager } = customJS 
+
+        const { AffiliationManager } = customJS
         const { DateManager } = customJS
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
@@ -72,8 +109,8 @@ class util {
 
 
     isAffiliated(target, metadata, targetDate) {
-        
-        const { AffiliationManager } = customJS 
+
+        const { AffiliationManager } = customJS
         const { DateManager } = customJS
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
@@ -85,7 +122,6 @@ class util {
     inLocation(targetLocation, metadata, includeDead, includeLastKnown, targetDate) {
 
         const { WhereaboutsManager } = customJS
-        const { LocationManager } = customJS
         const { DateManager } = customJS
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
@@ -101,22 +137,22 @@ class util {
         if (!wb.current.location) {
 
             if (!wb.lastKnown.location || !includeLastKnown) return false;
-            return LocationManager.isInLocation(wb.lastKnown.location, targetLocation, targetDate)
+            return this.#isInLocation(wb.lastKnown.location, targetLocation, targetDate)
         }
 
-        return LocationManager.isInLocation(wb.current.location, targetLocation, targetDate)
+        return this.#isInLocation(wb.current.location, targetLocation, targetDate)
     }
 
-    inOrHomeLocation(targetLocation, metadata, includeDead, targetDate) {        
-        return this.inLocation(targetLocation, metadata, includeDead, true, targetDate) || 
-                this.homeLocation(targetLocation, metadata, includeDead, targetDate)
+    inOrHomeLocation(targetLocation, metadata, includeDead, targetDate) {
+        return this.inLocation(targetLocation, metadata, includeDead, true, targetDate) ||
+            this.homeLocation(targetLocation, metadata, includeDead, targetDate)
     }
 
     isLinked(target) {
 
         if (!target) return true
 
-        const {NameManager} = customJS
+        const { NameManager } = customJS
         let file = NameManager.getFileForTarget(target)
 
         return file != undefined
@@ -126,10 +162,9 @@ class util {
 
         const { WhereaboutsManager } = customJS
         const { DateManager } = customJS
-        const { LocationManager } = customJS
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
-        
+
         let pageDates = DateManager.getPageDates(metadata, targetDate)
 
         if (pageDates) {
@@ -142,7 +177,7 @@ class util {
         if (home == undefined) return false;
         if (home.location == undefined) return false;
 
-        return LocationManager.isInLocation(home.location, targetLocation, targetDate)
+        return this.#isInLocation(home.location, targetLocation, targetDate)
     }
 
     s(format, targetFile, targetDate) {
