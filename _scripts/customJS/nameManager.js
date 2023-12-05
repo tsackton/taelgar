@@ -1,48 +1,5 @@
 class NameManager {
 
-    LowerCase = "lower"
-    TitleCase = "title"
-    PreserveCase = "preserve"
-    InitialUpperCase = "initialUpper"
-    CreateLink = "always"
-    NoLink = "never"
-    LinkIfValid = "exists"
-
-    #getIncludePreposition(format) {
-
-        return format.includes("q") && !format.includes("Q")
-    }
-
-    #getArticleType(format) {
-
-        // a: indefinite article, A: indefinite article if first, x: no article, q: preposition
-
-        if (format.includes("x")) return "none"
-        else if (format.includes("a")) return "indef"
-
-        return "def"
-    }
-
-    #getCasing(format) {
-
-        let casing = this.PreserveCase
-
-        if (format.includes("s")) casing = this.LowerCase
-        else if (format.includes("t")) casing = this.TitleCase
-
-        return casing
-    }
-
-    #getLinkType(format) {
-
-        let linkType = this.LinkIfExists
-        if (format.includes("n")) linkType = this.NoLink
-        else if (format.includes("y")) linkType = this.CreateLink
-
-        return linkType
-    }
-
-
     #getElementFromMetadata(elem) {
         if (customJS.state.coreMeta) {
             return customJS.state.coreMeta[elem];
@@ -78,46 +35,6 @@ class NameManager {
             split(' ').
             map((elem, index) => (lowers.findIndex(item => elem.toLowerCase() === item.toLowerCase()) >= 0 && index > 0) || elem.length == 0 ? elem : (elem[0].toUpperCase() + elem.substr(1))).
             join(' ')
-    }
-
-    #processDescriptiveName(descriptiveName, targetLink, article, linkType = "exists", casing = "preserve", initialUpper = false) {
-
-
-        if (!descriptiveName) return undefined
-        if (!article) article = ""
-
-
-        descriptiveName = descriptiveName.trim()
-
-        // name is one piece, don't change descriptiveName
-        if (casing == this.TitleCase) {
-            descriptiveName = this.#toTitle(descriptiveName)
-            article = article.charAt(0).toUpperCase() + article.slice(1);
-        } else if (casing == this.LowerCase) {
-            descriptiveName = descriptiveName.toLowerCase()
-            article = article.toLowerCase()
-        }
-
-
-        if (initialUpper) {
-            if (article && article.length > 0) {
-                article = article.charAt(0).toUpperCase() + article.slice(1);
-            } else {
-                descriptiveName = descriptiveName.charAt(0).toUpperCase() + descriptiveName.slice(1)
-            }
-        }
-
-        descriptiveName = descriptiveName.trim()
-        article = article.trim()
-
-        let link = linkType == this.CreateLink || (linkType == this.LinkIfValid && targetLink)
-
-        if (link) {
-            if (descriptiveName == targetLink || !targetLink) return (article + " " + "[[" + descriptiveName + "]]").trim();
-            else return (article + " " + "[[" + targetLink + "|" + descriptiveName + "]]").trim()
-        }
-
-        return (article + " " + descriptiveName).trim()
     }
 
     getCampaignSessionNoteFolder(prefix) {
@@ -220,84 +137,6 @@ class NameManager {
         let base = merge_options(required, defaultForThisItem)
         return merge_options(base, metadata.displayDefaults)
     }
-
-
-    #getArticle(descriptiveName, metadata, articleType, includePreposition, linkTextOverride, sourcePageType) {
-
-        if (!descriptiveName) return ""
-
-        let displayData = metadata ? this.getDisplayData(metadata) : {}
-        let article = ""
-
-        if (articleType == "def") {
-            // add definitive article //
-            if ("defArt" in displayData) {
-                // we have a page override, use as is
-                // if null or undefined or blank, don't add anything
-                if (displayData.defArt)
-                    article = displayData.defArt;
-                else
-                    article = ""
-            }
-            else if (metadata && descriptiveName.split(' ').length > 1) {
-                // name is more than one piece
-                article = "the";
-            }
-        } else if (articleType == "indef") {
-            // add definitive article //
-            if ("indefArt" in displayData) {
-                // we have a page override, use as is
-                // if null or undefined or blank, don't add anything
-                if (displayData.indefArt)
-                    article = displayData.indefArt;
-                else
-                    article = ""
-            } else {
-
-                let lowered = descriptiveName.toLowerCase()
-                article = "a"
-                if (lowered.startsWith("uni")) {
-                    article = "a"
-                } else if (lowered[0] == "a" || lowered[0] == "e" || lowered[0] == "i" || lowered[0] == "o" || lowered[0] == "u") {
-                    article = "an"
-                }
-            }
-        }
-
-        if (includePreposition) {
-
-            let prep = ""
-
-            if (linkTextOverride) {
-                prep = linkTextOverride
-            }
-            else {
-
-                switch (sourcePageType) {
-                    case "person":
-                        prep = displayData.ltPerson != undefined ? displayData.ltPerson : displayData.linkText
-                        break
-                    case "organization":
-                        prep = displayData.ltOrg != undefined ? displayData.ltOrg : displayData.linkText
-                        break
-                    case "place":
-                        prep = displayData.ltPlace != undefined ? displayData.ltPlace : displayData.linkText
-                        break
-                    case "item":
-                        prep = displayData.ltItem != undefined ? displayData.ltItem : displayData.linkText
-                        break
-                    default:
-                        prep = displayData.linkText
-                }
-            }
-
-            if (!prep) prep = ""
-            article = prep + " " + article
-        }
-
-        return article.trim()
-    }
-
 
     // this formats a name object given the format options and returns a string
     // name = { name: the actual name, linkTarget: the target file, if there is one, article: the article, linkText: the linkText }
