@@ -128,9 +128,9 @@ class TokenParser {
         // length and age are the same //
         if (token.token == "length") token.token = "age"
         // end is shorthand for endStatus //
-        if (token.token == "end" || token.token == "endstatus") token.token = "endStatus"
+        if (token.token == "end" || token.token == "endStatus") token.token = "endstatus"
         // start is shorthand for startStatus //
-        if (token.token == "start" || token.token == "startstatus") token.token = "startStatus"
+        if (token.token == "start" || token.token == "startStatus") token.token = "startstatus"
         // subtype is the same as subtypeof //
         if (token.token == "subtype") token.token = "subtypeof"
         // typeof and type are the same as maintype //        
@@ -400,13 +400,13 @@ class TokenParser {
                 break
             // end name options //
 
-            // start none options //
+            // start none or casing only options //
             case "pronouns":
                 if (metadata.pronouns) value = metadata.pronouns
                 else if (metadata.gender == "male") value = "he/him"
                 else if (metadata.gender == "female") value = "she/her"
                 else if (metadata.gender) value = "they/them"
-                formatter = "none"
+                formatter = "casing"
                 break;
             case "age":
                 if (pageDateInfo.age == 0) value = "0 years"
