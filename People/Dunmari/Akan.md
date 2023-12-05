@@ -1,5 +1,6 @@
 ---
-tags: [status/uptodate, person, dufr/met, dufr/minor, status/unknown]
+headerVersion: 2023.11.25
+tags: [status/uptodate, person, dufr/met, dufr/minor, status/unknown, testcase]
 campaignInfo: []
 name: Akan
 born: 1693
@@ -7,11 +8,11 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: 
-- {type: home, location: plains of Karawa, prefix: north-eastern, format: "3" }
+- {type: home, location: plains of Karawa, alias: plains north-east of Karawa  }
 ---
 # Akan
 >[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

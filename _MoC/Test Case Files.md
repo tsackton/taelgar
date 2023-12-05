@@ -2,5 +2,5 @@
 # Complex Pages for Testing With
 
 ```dataview
-LIST from #testcase 
+LIST from #testcase sort file
 ```

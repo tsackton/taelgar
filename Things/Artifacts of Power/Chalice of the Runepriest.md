@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [item/magical, event-source, status/unknown, testcase]
-displayDefaults: { wOrigin: "<start:u> in <startDate> by <origin:3r> (<length> ago)", dCurrent: ""}
+displayDefaults: { wOrigin: "<start:u> in <startDate> <origin:3rq> (<length> ago)", dCurrent: ""}
 created: 1547
 campaignInfo:
 name: Chalice of the Runepriest
