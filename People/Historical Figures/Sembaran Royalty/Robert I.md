@@ -12,11 +12,11 @@ died: 1720-06-15
 leaderOf:
 - {place: Sembara}
 title: King
-affiliations: [House of Sewick]
+affiliations: [{org: House of Sewick, type: primary}]
 ---
 # King Robert I
 >[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
