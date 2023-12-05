@@ -34,7 +34,7 @@ class WhereaboutsManager {
 
         if (type == "excursion") type = "away"
         if (type == "origin") type = "home"
-        
+
         if (!location) {
             let hasPlace = isValidLocPiece(w.place)
             let hasRegion = isValidLocPiece(w.region)
@@ -55,17 +55,21 @@ class WhereaboutsManager {
             type: type,
             end: endDate,
             location: location,
+            alias: w.alias,
             logicalEnd: logicalEnd,
             logicalStart: logicalStart,
-            prefix: w.prefix,
+            linkText: w.linkText,
             awayEnd: awayEnd,
-            formatSpecifier: w.formatSpecifier ?? w.format,
+            startFilter: w.startFilter,
+            format: w.format,
+
+            // these should generally not be used - might go away
             pastHomeFormat: w.pastHome ?? w.wPastHome ?? w.pastHomeFormat,
             homeFormat: w.home ?? w.wHome ?? w.homeFormat,
             originFormat: w.origin ?? w.wOrigin ?? w.originFormat,
             currentFormat: w.current ?? w.wCurrent ?? w.currentFormat,
             lastKnownFormat: w.lastKnown ?? w.wLastKnown ?? w.lastKnownFormat,
-            pastFormat : w.past ?? w.wPast ?? w.pastFormat
+            pastFormat: w.past ?? w.wPast ?? w.pastFormat
         }
     }
 
@@ -96,13 +100,14 @@ class WhereaboutsManager {
         // a) "by" vs other prepositions //
         // b) format string overrides, e.g. with !//
 
-        const { StringFormatter } = customJS
+        const { TokenParser } = customJS
         const { NameManager } = customJS
         const { DateManager } = customJS
 
         let results = []
 
         let displayData = NameManager.getDisplayData(metadata)
+        let pageType = NameManager.getPageType(metadata)
 
         let format = displayData.wParty
 
@@ -115,10 +120,16 @@ class WhereaboutsManager {
                 let formatStr = element.wParty ?? element.format ?? format
 
                 if (locForThisDate && (element.campaign == campaign || !campaign)) {
-                    let person = element.person ?? element.campaign                    
+                    let person = element.person ?? element.campaign
                     if (person) {
+                        let personName = NameManager.getNameObject(person, pageType)
                         let type = element.type ?? "seen"
-                        let text = StringFormatter.getFormattedString(formatStr, {frontmatter: metadata, file: ""}, displayDate, undefined, {met: type, person: person})
+
+                        let text = TokenParser.parseDisplayString(formatStr,
+                            { frontmatter: metadata, file: "" },
+                            displayDate,
+                            { met: type, person: personName })
+
                         results.push({ text: text, campaign: element.campaign, date: displayDate, location: locForThisDate.location })
                     }
                 }
@@ -128,8 +139,204 @@ class WhereaboutsManager {
         return results
     }
 
+    #shouldAllowPiece(formatStr, currentDepth, targetMetadata) {
+        /*** 
+            R = include regions only; r = exclude regions (i.e. places with typeOf region)
+            L = include locations only; l = exclude locations
+            P = include people only; p = exclude people
+            I = include items only; p = exclude items
+            F = include first step only; f = exclude first step
+            O = include organizations only; o = exclude organizations
+         */
+
+        let successResult = {
+            continue: true,
+            allowed: true,
+            incrementDepth: true
+        }
+
+        let depthFilterFailed = {
+            continue: true,
+            allowed: false,
+            incrementDepth: true
+        }
+
+        let typeFilterFailed = {
+            continue: true,
+            allowed: false,
+            incrementDepth: false
+        }
+
+        const { NameManager } = customJS
+        let pageType = NameManager.getPageType(targetMetadata)
+
+        let maxDepth = undefined
+        let minDepth = undefined
+
+        if (!formatStr) return successResult
+
+        let fsSplit = formatStr.split('-')
+
+        if (fsSplit.length == 2) {
+            // we have something like xxx-yyyy
+            // the number has to be first, as that is what parseInt expects, that is, parseInt(2ttt) returns 2 but parseInt(ttt2) returns undefined
+
+            minDepth = parseInt(fsSplit[0])
+            maxDepth = parseInt(fsSplit[1])
+        } else {
+            maxDepth = parseInt(formatStr)
+        }
+
+        if (minDepth && currentDepth < minDepth) {
+            // we are before the min depth, continue without this, but increment
+            return depthFilterFailed
+        }
+
+        if (formatStr.contains("F")) {
+            if (currentDepth != 1) return depthFilterFailed
+        }
+
+        if (formatStr.contains("f")) {
+            if (currentDepth == 1) return depthFilterFailed
+        }
+
+        if (formatStr.contains("r")) {
+            if (targetMetadata.typeOf == "region") return typeFilterFailed
+        }
+
+        if (formatStr.contains("R")) {
+            if (targetMetadata.typeOf != "region") return typeFilterFailed
+        }
+
+        if (formatStr.contains("L")) {
+            if (pageType != "place") return typeFilterFailed
+        }
+
+        if (formatStr.contains("l")) {
+            if (pageType == "place") return typeFilterFailed
+        }
+
+        if (formatStr.contains("P")) {
+            if (pageType != "person") return typeFilterFailed
+        }
+
+        if (formatStr.contains("p")) {
+            if (pageType == "person") return typeFilterFailed
+        }
+
+        if (formatStr.contains("I")) {
+            if (pageType != "item") return typeFilterFailed
+        }
+
+        if (formatStr.contains("i")) {
+            if (pageType == "item") return typeFilterFailed
+        }
+
+        if (formatStr.contains("O")) {
+            if (pageType != "organization") return typeFilterFailed
+        }
+
+        if (formatStr.contains("o")) {
+            if (pageType == "organization") return typeFilterFailed
+        }
+
+        // this has to be last, or we allow types that are at the max depth but are the wrong kind
+        if (maxDepth && currentDepth >= maxDepth) {
+            // we have reached the max depth, don't continue but do include this one
+            return { continue: false, allowed: true }
+        }
+
+
+        return successResult
+    }
+
+
+    #getWhereaboutChainPiece(whereabout, targetDate, thisDepth, filter, sourcePageType, followHome) {
+
+        const { NameManager } = customJS
+        const { WhereaboutsManager } = customJS
+
+        if (!whereabout.location) {
+            return [{
+                name: NameManager.getNameObject("Unknown", sourcePageType, { alias: whereabout.alias, linkText: whereabout.linkText }),
+                format: whereabout.format
+            }]
+        }
+
+        if (whereabout.location == "Taelgar") {
+            // Taelgar is handling specially
+            if (thisDepth > 1) return []
+            if (filter.includes("r")) return []
+
+            return [{
+                name: NameManager.getNameObject("Taelgar", sourcePageType, { alias: whereabout.alias, linkText: whereabout.linkText, linkTarget: "Gazetteer" }),
+                format: whereabout.format
+            }]
+        }
+
+        let file = NameManager.getFileForTarget(whereabout.location)
+
+        // we can't keep going, because this piece doesn't exist
+        if (!file) {
+            // lets see if we have a match to our capital letter check
+            let match = new RegExp("[~A-Z]{1}").exec(whereabout.location)
+            if (match && match.index > 0) {
+                let potentialNextPiece = whereabout.location.substring(match.index)
+                return this.#getWhereaboutChainPiece({
+                    location: potentialNextPiece,
+                    linkText: whereabout.location.substring(0, match.index),
+                    alias: whereabout.alias,
+                    format: whereabout.format ?? "<name:q>" // this is a bit of a hack, because it means we ignore other format params, but the link text is critical here
+                }, targetDate, thisDepth, filter, sourcePageType)
+            }
+
+            return [{
+                name: NameManager.getNameObject(whereabout.location, sourcePageType, { alias: whereabout.alias, linkText: whereabout.linkText }),
+                format: whereabout.format
+            }]
+        }
+
+
+        let pageType = NameManager.getPageType(file.frontmatter)
+        let nameSection = NameManager.getNameObject(whereabout.location, sourcePageType, { alias: whereabout.alias, linkText: whereabout.linkText })
+        let nextLevelCheck = this.#shouldAllowPiece(filter, thisDepth, file.frontmatter)
+
+        let nextDepth = nextLevelCheck.incrementDepth ? thisDepth + 1 : thisDepth
+        let nextWb = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate)
+        let nextLevel = followHome ? nextWb.home : nextWb.current
+        let returnValue = []
+
+        if (nextLevelCheck.allowed) {
+            // this piece is allowed, add it //
+            let data = {}
+            data.name = nameSection
+            data.format = whereabout.format
+
+            for (let key in file.frontmatter) {
+                if (key == "name" || key == "whereabouts" || key == "affiliations" || key == "leaderOf") continue
+                data[key] = file.frontmatter[key]
+            }
+
+            returnValue.push(data)
+        }
+
+        if (nextLevelCheck.continue && nextLevel && nextLevel.location) {
+            // we are allowed to continue, and we have somewhere to go //                            
+            returnValue.push(...this.#getWhereaboutChainPiece(nextLevel, targetDate, nextDepth, filter, pageType))
+        }
+
+        return returnValue
+    }
+
+
+    getWhereaboutChain(startWhereabout, targetDate, filter, sourcePageType, followHome) {
+
+        return this.#getWhereaboutChainPiece(startWhereabout, targetDate, 1, filter, sourcePageType, followHome)
+    }
+
+
     getWhereaboutsList(metadata) {
-        const {NameManager} = customJS
+        const { NameManager } = customJS
 
         if (metadata && metadata.whereabouts && metadata.whereabouts.length > 0) {
             let wb = metadata.whereabouts
@@ -138,15 +345,15 @@ class WhereaboutsManager {
             }
 
             return wb.map(f => this.#getNormalizedWhereabout(f))
-        // backwards compatability // 
-        // if place has partOf but no whereabouts, use partOf for whereabouts //
+            // backwards compatability // 
+            // if place has partOf but no whereabouts, use partOf for whereabouts //
         } else if (metadata && NameManager.getPageType(metadata) == "place") {
             let wb = [{ type: "home", location: metadata.partOf }]
             return wb.map(f => this.#getNormalizedWhereabout(f))
         }
 
         return []
-    } 
+    }
 
     getWhereabouts(metadata, targetDate) {
         const { DateManager } = customJS

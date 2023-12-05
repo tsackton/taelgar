@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [item]
 pronunciation: vin-dree-SHAR-na
-displayDefaults: {prep: on}
+displayDefaults: {linkText: on, ltItem: stored on}
 whereabouts:
 - {type: home, location: unknown storm giant}
 - {type: home, location: dufr}

@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, person]
 campaignInfo:
   - { campaign: dufr, person: Wellby, date: 1730, type: met}
@@ -20,12 +20,12 @@ whereabouts:
 ---
 # Harriet Goodbarrel
 >[!info]+ Biographical Info
-> [[Halflings|halfling]], she/her of the [[Goodbarrels]]
+> A [[Halflings|halfling]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] around 1730 in [[The Singing Fox]], [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in [[Vindristjarna]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
+>> %%^Campaign:dufr%% Met with [[Wellby]] on DR 1730 at [[The Singing Fox]], [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%
+>> %%^Campaign:DuFr%% Met with the [[Dunmar Fellowship]] on December 30th, 1748 on [[Vindristjarna]], in the [[Tollen|Free City of Tollen]] %%^End%%
 
 Harriet's melodious voice graces *[[The Singing Fox]]* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [[Chenna Goodbarrel|Chenna]], she's made the tavern a warm haven for many.
 

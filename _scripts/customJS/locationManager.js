@@ -38,16 +38,10 @@ class LocationManager {
         return false
     }
 
-    getCurrentLocationName(whereabout, targetDate, formatString = "") {
-
-        // fasly locations (null, undefined, empty string) are always unknown
-        if (!whereabout.location) {
-            if (whereabout.prefix) return whereabout.prefix + " Unknown"
-            else return "Unknown"
-        }
+    getCurrentLocationName(whereabout, token, targetDate, sourcePageType) {
 
         // we want the current depth to start at 1, i.e. if the max depth is 2 we want the first and second pieces
-        let outStr = this.#getLocationFromPartOfs(whereabout, targetDate, 1, formatString, undefined).trim()
+        let outStr = this.#getLocationFromPartOfs(whereabout, token, targetDate, 1, sourcePageType).trim()
 
         if (outStr.endsWith(",")) outStr = outStr.substring(0, outStr.length - 1)
 
@@ -55,7 +49,7 @@ class LocationManager {
         return outStr
     }
 
-    #shouldAllowPiece(formatStr, currentDepth, targetMetadata) {
+    #shouldAllowPiece(token, currentDepth, targetMetadata) {
         /*** 
             R = include regions only; r = exclude regions (i.e. places with typeOf region)
             L = include locations only; l = exclude locations
@@ -86,71 +80,60 @@ class LocationManager {
         const { NameManager } = customJS
         let pageType = NameManager.getPageType(targetMetadata)
 
-        let maxDepth = undefined
-        let minDepth = undefined
-
-        let fsSplit = formatStr.split('-')
-
-        if (fsSplit.length == 2) {
-            // we have something like xxx-yyyy
-            // the number has to be first, as that is what parseInt expects, that is, parseInt(2ttt) returns 2 but parseInt(ttt2) returns undefined
-
-            minDepth = parseInt(fsSplit[0])
-            maxDepth = parseInt(fsSplit[1])
-        } else {
-            maxDepth = parseInt(formatStr)
-        }
+        let maxDepth = token.maxdepth
+        let minDepth = token.mindepth
+        let filter = token.filter ?? ""
 
         if (minDepth && currentDepth < minDepth) {
             // we are before the min depth, continue without this, but increment
             return depthFilterFailed
         }
 
-        if (formatStr.contains("F")) {
+        if (filter.contains("F")) {
             if (currentDepth != 1) return depthFilterFailed
         }
 
-        if (formatStr.contains("f")) {
+        if (filter.contains("f")) {
             if (currentDepth == 1) return depthFilterFailed
         }
 
-        if (formatStr.contains("r")) {
+        if (filter.contains("r")) {
             if (targetMetadata.typeOf == "region") return typeFilterFailed
         }
 
-        if (formatStr.contains("R")) {
+        if (filter.contains("R")) {
             if (targetMetadata.typeOf != "region") return typeFilterFailed
         }
 
-        if (formatStr.contains("L")) {
+        if (filter.contains("L")) {
             if (pageType != "place") return typeFilterFailed
         }
 
-        if (formatStr.contains("l")) {
+        if (filter.contains("l")) {
             if (pageType == "place") return typeFilterFailed
         }
 
-        if (formatStr.contains("P")) {
+        if (filter.contains("P")) {
             if (pageType != "person") return typeFilterFailed
         }
 
-        if (formatStr.contains("p")) {
+        if (filter.contains("p")) {
             if (pageType == "person") return typeFilterFailed
         }
 
-        if (formatStr.contains("I")) {
+        if (filter.contains("I")) {
             if (pageType != "item") return typeFilterFailed
         }
 
-        if (formatStr.contains("i")) {
+        if (filter.contains("i")) {
             if (pageType == "item") return typeFilterFailed
         }
 
-        if (formatStr.contains("O")) {
+        if (filter.contains("O")) {
             if (pageType != "organization") return typeFilterFailed
         }
 
-        if (formatStr.contains("o")) {
+        if (filter.contains("o")) {
             if (pageType == "organization") return typeFilterFailed
         }
 
@@ -164,76 +147,107 @@ class LocationManager {
         return successResult
     }
 
-    #getLocationFromPartOfs(whereabout, targetDate, thisDepth, format, thisPrep) {
+    #getDescriptionForThisPiece(whereabout, format, targetDate, sourcePageType) {
+
+        const { TokenParser } = customJS
+        const { NameManager } = customJS
+        let overrides = 
+        {
+            alias: whereabout.alias,
+            linkText: whereabout.linkText,
+            sourcePageType: sourcePageType
+        }
+
+        let file = NameManager.getFileForTarget(whereabout.location)
+        if (!file) {
+            // we don't have a file, we are not going to be able to do a lot of fancy formattting, but lets see what we can do
+            file = { frontmatter: {} }
+
+        } else {
+            file = { frontmatter: file.frontmatter }
+        }
+
+        let formatStr = whereabout.format ?? "<name:" + format + ">"
+
+        let name = NameManager.getNameObject(whereabout.location, sourcePageType, {
+            alias: whereabout.alias,
+            linkText: whereabout.linkText,
+        })
+
+        return TokenParser.formatDisplayString(formatStr, file, targetDate, {
+            name: name
+        })
+    }
+
+    #getLocationFromPartOfs(whereabout, token, targetDate, thisDepth, sourcePageType) {
 
         const { NameManager } = customJS
-        const { StringFormatter } = customJS
         const { WhereaboutsManager } = customJS
 
-      
+        let formatToUse = thisDepth == 1 ? firstFormat : format;
+
         if (!whereabout || !whereabout.location) {
-            return whereabout.prefix ?? ""
+            let returnForUnknown = "";
+            if (whereabout.linkText) returnForUnknown = whereabout.linkText + " "
+            if (whereabout.alias) returnForUnknown += whereabout.alias
+
+            if (!whereabout.linkText && !whereabout.alias)
+                returnForUnknown = "Unknown"
+
+            return returnForUnknown.trim()
         }
-
-       let file = NameManager.getFileForTarget(whereabout.location)
-     
-        // exclude prepositions
-        let formatToUse = format.replace("q", "")
-
-        if ((file && NameManager.getDisplayData(file.frontmatter)?.prep != thisPrep) && !whereabout.prefix) {
-            formatToUse = format
-        }
-
-        let nameSection = NameManager.getName(whereabout.location, formatToUse)
-        if (whereabout.prefix) nameSection = whereabout.prefix + " " + nameSection
 
         if (whereabout.location == "Taelgar") {
             // Taelgar is handling specially
             if (thisDepth > 1) return ""
-            if (format.includes("r")) return ""
+            if (token.filter.includes("r")) return ""
 
-            return nameSection
+            // for now this is hardcoded
+            return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType, "Gazetteer")
         }
 
+        let file = NameManager.getFileForTarget(whereabout.location)
 
         // we can't keep going, because this piece doesn't exist
         if (!file) {
             // lets see if we have a match to our capital letter check
             let match = new RegExp("[~A-Z]{1}").exec(whereabout.location)
             if (match && match.index > 0) {
-
-                // at the moment there is a bug where the filters ignore this type of thing - or more accurately, we end up with the "travelling in " or whatever piece added no matter what
                 let potentialNextPiece = whereabout.location.substring(match.index)
-                return this.#getLocationFromPartOfs({ location: potentialNextPiece, prefix: whereabout.location.substring(0, match.index) }, targetDate, thisDepth, format, thisPrep)
+                return this.#getLocationFromPartOfs({
+                    location: potentialNextPiece,
+                    linkText: whereabout.location.substring(0, match.index),
+                    alias: whereabout.alias,
+                    format: whereabout.format
+                }, token, targetDate, thisDepth, sourcePageType)
             }
 
-            return nameSection
-        } else {
-
-            let nextLevelCheck = this.#shouldAllowPiece(format, thisDepth, file.frontmatter)
-            let nextPrep = NameManager.getDisplayData(file.frontmatter)?.prep
-
-            if (!nextLevelCheck.continue) {
-                return nameSection ?? ""
-            }
-
-            let nextDepth = nextLevelCheck.incrementDepth ? thisDepth + 1 : thisDepth
-            let nextLevel = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current
-            let returnValue = ""
-
-            if (nextLevelCheck.allowed) {
-                // this piece is allowed, add it //
-                returnValue += nameSection + ", "
-            } else {
-                nextPrep = thisPrep
-            }
-
-            if (nextLevelCheck.continue && nextLevel) {
-                // we are allowed to continue, and we have somewhere to go //                
-                returnValue += this.#getLocationFromPartOfs(nextLevel, targetDate, nextDepth, format, nextPrep)
-            }
-
-            return returnValue
+            return this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType, undefined)
         }
+
+
+        let pageType = NameManager.getPageType(file.frontmatter)
+        let nameSection = this.#getDescriptionForThisPiece(whereabout, formatToUse, targetDate, sourcePageType, file.name)
+        let nextLevelCheck = this.#shouldAllowPiece(filter, thisDepth, file.frontmatter)
+
+        if (!nextLevelCheck.continue) {
+            return nameSection
+        }
+
+        let nextDepth = nextLevelCheck.incrementDepth ? thisDepth + 1 : thisDepth
+        let nextLevel = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current
+        let returnValue = ""
+
+        if (nextLevelCheck.allowed) {
+            // this piece is allowed, add it //
+            returnValue += nameSection + ", "
+        }
+
+        if (nextLevelCheck.continue && nextLevel && nextLevel.location) {
+            // we are allowed to continue, and we have somewhere to go //                
+            returnValue += this.#getLocationFromPartOfs(nextLevel, token, targetDate, nextDepth, pageType)
+        }
+
+        return returnValue
     }
 }

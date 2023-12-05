@@ -20,11 +20,11 @@ whereabouts:
 ---
 # Arcus
 >[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Discovered as a statue by the [[Dunmar Fellowship]] on March 25th, 1748 in the [[Dunmari Fort (Gomat)]], [[Nashtkar]], the [[Desolation of Cha'mutte]] %%^End%%
+>> %%^Campaign:dufr%% Discovered as a statue with the [[Dunmar Fellowship]] on March 25th, 1748 in the [[Dunmari Fort (Gomat)]] %%^End%%
 
 An adventurer and treasure hunter from the [[Society of the Open Scroll]], found petrified in the fort east of [[Gomat]]. 
 

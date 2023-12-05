@@ -39,13 +39,13 @@
         "boxName": "Information",
         "partOf": "",
         "boxInfo": "",
-        "aNoDate": "<affiliationtitle:t> of <org>",
-        "aPast": "<affiliationtitle:t> of <org> (until <endDate>)",
-        "aCurrent": "<affiliationtitle:t> of <org> (since <startDate>)",
-        "aPastHasStart": "<affiliationtitle:t> of <org> (<startDate> - <endDate>)", 
+        "aNoDate": "<affiliationtitle:t> of <affiliations>",
+        "aPast": "<affiliationtitle:t> of <affiliations> (until <endDate>)",
+        "aCurrent": "<affiliationtitle:t> of <affiliations> (since <startDate>)",
+        "aPastHasStart": "<affiliationtitle:t> of <affiliations> (<startDate> - <endDate>)", 
+        "mechanicsLink": "",
         "linkText": "",
-        "ruledBy" : "",
-        "prep" : ""
+        "ruledBy" : ""        
     },
     "typeDisplayDefaults": {
         "deity": {
@@ -68,8 +68,12 @@
             "dPastHasStart": "b. <startDate> - d. <endDate>, <end> at age <length>",
             "dPast": "<end:u> <endDate>",
             "boxInfo": "<ancestry:UA> <species:sAU> <(()subspecies:s())> <(()pronouns())>, <(of )primary>\n<(()ka())>",
-            "linkText": "Character Sheet",
-            "prep" : "by"
+            "mechanicsLink": "Character Sheet",
+            "linkText": "by",
+            "ltPlace": "",
+            "ltPerson": "by",
+            "ltItem": "by",
+            "ltOrg": "member of"
         },
         "place": {
             "startStatus": "founded",
@@ -85,7 +89,8 @@
             "partOf": "",
             "boxInfo": "<population>",                        
             "ruledBy" : "<affiliationtitle:t>: <name> <((since )startDate())>",
-            "prep" : "in"
+            "linkText": "in",
+            "ltPlace": ""           
         },
         "item": {
             "startStatus": "created",
@@ -98,13 +103,14 @@
             "dPastHasStart": "existed <startDate> - <endDate>, <end> after <length>",
             "dPast": "<end:u> <endDate>",
             "boxInfo": "(<rarity:s> <ancestry> <subtypeof:s> <typeof:s>)",
-            "linkText": "Mechanics",
-            "prep": "on"
+            "mechanicsLink": "Mechanics",
+            "linkText": "in",
+            "ltPlace": ""
         },
-        "organization": {
+        "organization": {   
             "startStatus": "founded",
             "endStatus": "disbanded",
-            "wOrigin": "<startStatus:u> <origin:q>",
+            "wOrigin": "<start:u> <origin:q>",
             "wOriginU": "",
             "wHome": "Based <home:q>",
             "wPastHome": "Was based <home:q>",
@@ -114,7 +120,11 @@
             "partOf": "<(Parent Organization: )partof>",
             "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>",            
             "ruledBy" : "<affiliationtitle:t>: <name> <((since )startDate())>",
-            "prep" : "by"
+            "linkText": "by",
+            "ltPlace": "",
+            "ltPerson": "with",
+            "ltItem": "owned by",
+            "ltOrg": "part of"
         },
         "event": {
             "startStatus": "started in",

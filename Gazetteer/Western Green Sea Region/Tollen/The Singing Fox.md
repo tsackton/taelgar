@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {defArt: '', prep: "at"}
+displayDefaults: {defArt: '', linkText: "at"}
 campaignInfo: []
 name: The Singing Fox
 typeOf: inn
