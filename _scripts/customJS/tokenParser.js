@@ -55,8 +55,6 @@ class TokenParser {
         // parse the prefix, suffix, token, and format
         let matches = input.matchAll(tokenRegex);
         let tokenMatch = [...matches][0]
-        if (this.debug) console.log(tokenMatch)
-        if (this.debug) console.log(isFirst)
         // match1 is the prefix, match2 is the token, match3 is the filter/format, match4 is the suffix
         if (tokenMatch) {
             token.prefix = tokenMatch[1]?.slice(1, -1) ?? "";
@@ -508,7 +506,7 @@ class TokenParser {
 
         if (value && (!Array.isArray(value) || value.length > 0)) {
 
-            let finalStr = token.prefix.slice(1, -1)
+            let finalStr = token.prefix
             if (formatter == "name") {
                 finalStr += this.#getFormattedName(value, token, metadata)
             } else if (formatter == "date") {
@@ -524,7 +522,7 @@ class TokenParser {
                 finalStr += value
             }
 
-            finalStr += token.suffix.slice(1, -1)
+            finalStr += token.suffix
 
             return finalStr.trim();
         } else {
@@ -563,7 +561,9 @@ class TokenParser {
             if (this.debug) console.log("Token match: " + tokenMatch[0] + " at index " + tokenStartIndex + " which is " + (tokenStartIndex === 0));
     
             let token = this.#parseTokenString(tokenMatch[0], (tokenStartIndex === 0));
+            if (this.debug) console.log(token);
             let tokenValue = token ? this.#formatToken(token, file, targetDate, overrides) ?? "" : "(invalid token: " + tokenMatch[0].replace("<", "[").replace(">", "]") + ")";
+            if (this.debug) console.log("Formatted value: " + tokenValue);
     
             formattedString += tokenValue;
             lastIndex = tokenStartIndex + tokenMatch[0].length;
