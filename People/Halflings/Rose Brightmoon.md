@@ -17,11 +17,11 @@ whereabouts:
 ---
 # Rose Brightmoon
 >[!info]+ Biographical Info
-> a [[Halflings|halfling]] (she/her), of the [[Brightmoons]]
+> A [[Halflings|halfling]] (she/her), of the [[Brightmoons]]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]], sailing to [[Wahacha]], the [[Vermillion Isles]] %%^End%%
->> %%^Campaign:dufr%% Last seen by [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], [[Wahacha]], the [[Vermillion Isles]] %%^End%%
+>> %%^Campaign:dufr%% Met with [[Wellby]] on September 30th, 1748 in the [[Wave Dancer]], sailing to [[Wahacha]], the [[Vermillion Isles]] %%^End%%
+>> %%^Campaign:dufr%% Last seen with [[Wellby]] on October 12th, 1748 in the [[Wave Dancer]], moored in the [[Wahacha|main port of Wacahca]], the [[Vermillion Isles]] %%^End%%
 
 Rose in an elderly halfling woman who sails with the Wave Dancer as a musician. She is a brilliant guitarist.
 ## Relationships

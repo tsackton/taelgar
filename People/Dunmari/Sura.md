@@ -23,7 +23,7 @@ whereabouts:
 ---
 # Nayan Sura
 >[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her), of
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her), of the [[Nayan Dynasty|Nayan dynasty]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

@@ -19,7 +19,7 @@ whereabouts:
 ---
 # Chenna Goodbarrel
 >[!info]+ Biographical Info
-> [[Halflings|halfling]]  (she/her), of the [[Goodbarrels]]
+> A [[Halflings|halfling]] (she/her), of the [[Goodbarrels]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

@@ -1,6 +1,6 @@
 class AffiliationManager {
 
-    #getPartOfChain(partOfPiece, targeDate, thisDepth, maxDepth, format) {
+    #getPartOfChain(partOfPiece, targetDate, thisDepth, maxDepth, format) {
 
         const { NameManager } = customJS
 
@@ -16,7 +16,7 @@ class AffiliationManager {
             // lets see if we have a match to our capital letter check
             let match = new RegExp("[~A-Z]{1}").exec(partOfPiece)
             if (match && match.index > 0) {
-                return partOfPiece.substring(0, match.index) + " " + this.#getPartOfChain(partOfPiece.substring(match.index), targeDate, thisDepth, maxDepth, format)
+                return partOfPiece.substring(0, match.index) + " " + this.#getPartOfChain(partOfPiece.substring(match.index), targetDate, thisDepth, maxDepth, format)
             }
 
             return nameSection
@@ -28,7 +28,7 @@ class AffiliationManager {
             }
 
             if (nextLevel) {
-                return nameSection + ", " + this.#getPartOfChain(nextLevel, targeDate, thisDepth + 1, maxDepth, format)
+                return nameSection + ", " + this.#getPartOfChain(nextLevel, targetDate, thisDepth + 1, maxDepth, format)
             }
 
             return nameSection
@@ -49,9 +49,10 @@ class AffiliationManager {
         return map;
     }
 
-    #normalizeAffiliation(affiliation, pageDates, pageTitle, defaultStart) {
+    #normalizeAffiliation(affiliation, pageDates, pageTitle, defaultStart, sourcePageType) {
 
         const { DateManager } = customJS
+        const { NameManager } = customJS
         let minDate = DateManager.normalizeDate("0001", false)
         let maxDate = DateManager.normalizeDate("9999", true);
         defaultStart = DateManager.normalizeDate(defaultStart, false)
@@ -93,23 +94,16 @@ class AffiliationManager {
         if (!result.type) result.type = "member"
         if (!result.title) result.title = result.type
 
+        result.name = NameManager.getNameObject(result.org, sourcePageType)
         return result
     }
 
-    getPrimaryAffiliations(metadata, targeDate) {
-        // we ignore titles for primary
-        return this.getAffiliations(metadata, targeDate).filter(f => f.type == "primary")
+    getPrimaryAffiliations(metadata, targetDate) {
+        return this.getAffiliations(metadata, targetDate).filter(f => f.type == "primary")
     }
 
-    getNonPrimaryAffiliations(metadata, targeDate) {
-        return this.getAffiliations(metadata, targeDate).filter(f => f.type != "primary")
-    }
-
-    getFormattedPrimaryAffiliations(metadata, targeDate) {
-        return this.getPrimaryAffiliations(metadata, targeDate).map(f => {
-            const { NameManager } = customJS
-            return NameManager.getName(f.org)
-        }).join(' and ').trim()
+    getNonPrimaryAffiliations(metadata, targetDate) {
+        return this.getAffiliations(metadata, targetDate).filter(f => f.type != "primary")
     }
 
     getFormattedNonPrimaryAffiliations(metadata, targetDate) {
@@ -131,29 +125,8 @@ class AffiliationManager {
         grouped.forEach(group => {
 
             const { DateManager } = customJS
-            const { NameManager } = customJS
 
-            let affs = []
             let first = group.first()
-
-            group.forEach(item => {
-                if (item.org) {
-                    affs.push(customJS.NameManager.getName(item.org))
-                }
-            })
-
-            let lastPlace = affs.pop()
-            let locString = undefined
-
-            if (lastPlace) {
-                let remaining = affs.join(", ")
-                if (remaining) {
-                    locString = remaining + " and " + lastPlace
-                } else {
-                    locString = lastPlace
-                }
-            }
-
             let dateInfo = {
                 startDate: first.startDate,
                 endDate: first.endDate,
@@ -186,7 +159,7 @@ class AffiliationManager {
                 {
                     dateInfo: dateInfo,
                     affiliationtitle: first.title,
-                    org: locString
+                    affiliations: group
                 }))
         })
 
@@ -231,7 +204,6 @@ class AffiliationManager {
                     {
                         dateInfo: dateInfo,
                         affiliationtitle: aff.aff.title,
-                        org: aff.aff.org
                     }))                
             }
         }
@@ -268,6 +240,7 @@ class AffiliationManager {
     getAffiliations(metadata, targetDate) {
 
         const { DateManager } = customJS
+        const { NameManager } = customJS
 
         if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
@@ -276,10 +249,11 @@ class AffiliationManager {
         let affList = []
 
         let pageDates = DateManager.getPageDates(metadata, targetDate)
+        let sourcePageType = NameManager.getPageType(metadata)
 
         if (metadata.leaderOf) {
             for (let item of metadata.leaderOf) {
-                let aff = this.#normalizeAffiliation(item, pageDates, metadata.title, metadata.reignStart)
+                let aff = this.#normalizeAffiliation(item, pageDates, metadata.title, metadata.reignStart, sourcePageType)
                 if (aff.startDate.sort <= targetDate.sort) {
                     affList.push(aff)
                 }
@@ -288,7 +262,7 @@ class AffiliationManager {
 
         if (metadata.affiliations) {
             for (let item of metadata.affiliations) {
-                let aff = this.#normalizeAffiliation(item, pageDates, metadata.title)
+                let aff = this.#normalizeAffiliation(item, pageDates, metadata.title, undefined, sourcePageType)
                 if (aff.startDate.sort <= targetDate.sort) {
                     affList.push(aff)
                 }

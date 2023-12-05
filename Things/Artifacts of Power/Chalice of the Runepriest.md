@@ -16,9 +16,9 @@ whereabouts:
 ---
 # The Chalice of the Runepriest
 >[!info]+ Information
-> (unique magical chalice)
-`$=dv.view("_scripts/view/get_PageDatedValue")`
-`$=dv.view("_scripts/view/get_Affiliations")`
+> (unique chalice)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A elaborate rune-carved chalice of ambiguous origin, revered as a sacred national treasure by the dwarves of Nardith. It is rumored to have many powers, including the power to heal all wounds and illness and the power to magically provide food, water, and shelter to all who need it. 
