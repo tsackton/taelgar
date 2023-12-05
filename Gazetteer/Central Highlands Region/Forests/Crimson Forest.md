@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 campaignInfo:
 typeOf: forest
-partOf: Ainumarya
+whereabouts: Ainumarya
 ---
 # The Crimson Forest
 >[!info]+ Information
-> A place in [[Ainumarya]], [[Central Highlands Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A mostly-uninhabited forest, stretching from [[Lake Valandros]] in the west to the [[Sentinel Range]] in the east, and between the [[Elderwood]] to the south and the [[Forest of Dreams]] to the north. 
 
