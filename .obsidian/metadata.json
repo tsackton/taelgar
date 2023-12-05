@@ -71,8 +71,8 @@
             "mechanicsLink": "Character Sheet",
             "linkText": "by",
             "ltPlace": "",
-            "ltPerson": "with",
-            "ltItem": "owned by",
+            "ltPerson": "by",
+            "ltItem": "by",
             "ltOrg": "member of"
         },
         "place": {

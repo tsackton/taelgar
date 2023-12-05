@@ -7,7 +7,6 @@ name: Hralgar
 born:
 species: giant
 subspecies: storm giant
-pageTargetDate: 1750
 gender: male
 whereabouts:
 - {type: away, start: 1020, end: 1748-11-22, linkText: trapped in, location: Stormcaller Tower}

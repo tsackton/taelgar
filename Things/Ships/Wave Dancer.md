@@ -4,10 +4,9 @@ displayDefaults: {wOrigin: "Home area: <origin>", ruledBy: "<affiliationtitle:t>
 tags: [item/boat, testcase]
 ancestry: halfling
 typeOf: vehicle
-pageTargetDate: 1748-10-13
 typeOfAlias: boat
 whereabouts: 
-- {type: home, end: 0001, location: Eastern Green Sea }
+- {type: home, end: 0001, location: Eastern Green Sea, startFilter: "" }
 - {type: away, start: 1748-09-30, end: 1748-10-11, location: sailing to Wahacha, startFilter: "2" }
 - {type: away, start: 1748-10-12, end: 1748-10-14, alias: main port of Wacahca, location: Wahacha, linkText: moored in, startFilter: "2" }
 ---
