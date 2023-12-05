@@ -39,10 +39,9 @@
         "boxName": "Information",
         "partOf": "",
         "boxInfo": "",
-        "aNoDate": "<affiliationtitle:t> of <org>",
-        "aPast": "<affiliationtitle:t> of <org> (until <endDate>)",
-        "aCurrent": "<affiliationtitle:t> of <org> (since <startDate>)",
-        "aPastHasStart": "<affiliationtitle:t> of <org> (<startDate> - <endDate>)", 
+        "aPast": "<affiliationtitle:t> of <affiliations> (until <endDate>)",
+        "aCurrent": "<affiliationtitle:t> of <affiliations> (since <startDate>)",
+        "aPastHasStart": "<affiliationtitle:t> of <affiliations> (<startDate> - <endDate>)", 
         "mechanicsLink": "",
         "linkText": "",
         "ruledBy" : ""        
