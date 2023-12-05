@@ -119,11 +119,13 @@ class AffiliationManager {
         if (!targetDate) targetDate = DateManager.getTargetDateForPage(metadata)
 
         let nonPrimary = this.getNonPrimaryAffiliations(metadata, targetDate)
-        let grouped = this.#groupBy(nonPrimary, f => f.title + "_" + f.startDate.display + "_" + f.endDate.display + "_" + f.format)
+        let grouped = this.#groupBy(nonPrimary, f => f.title + "_" + f.startDate.sort + "_" + f.endDate.sort + "_" + f.format)
 
         let lines = []
         grouped.forEach(group => {
-
+            function isDisplayableDate(date) {
+                return date && !date.isHiddenDate
+            }
             const { DateManager } = customJS
 
             let first = group.first()
@@ -144,12 +146,12 @@ class AffiliationManager {
             } else if (first.formatPast && first.formatCurrent) {
                 formatStr = dateInfo.isAlive ? first.formatCurrent : first.formatPast
             }
-            else if (dateInfo.startDate.display && dateInfo.endDate.display) {
+            else if (isDisplayableDate(dateInfo.startDate) && isDisplayableDate(dateInfo.endDate)) {
                 formatStr = dateInfo.isAlive ? displayOptions.aCurrent : displayOptions.aPastHasStart
-            } else if (dateInfo.startDate.display) {
+            } else if (isDisplayableDate(dateInfo.startDate)) {
                 // we have a start but no end
                 formatStr = dateInfo.isAlive ? displayOptions.aCurrent : displayOptions.aNoDate
-            } else if (dateInfo.endDate.display) {
+            } else if (isDisplayableDate(dateInfo.endDate)) {
                 formatStr = dateInfo.isAlive ? displayOptions.aNoDate : displayOptions.aPast
             } else {
                 formatStr = displayOptions.aNoDate

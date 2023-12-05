@@ -119,7 +119,7 @@ class DateManager {
 
         let isString = typeof inputDate === 'string' || inputDate instanceof String
 
-        if (!isString && inputDate.isEventsDate) return inputDate
+        if (!isString && inputDate.isNormalizedDate) return inputDate
 
         if (isString) {
             // this is a string which we expect is either yyyy-mm-dd or yyyy-mm but something is wrong, most likely the actual year is not 4 digits
@@ -128,7 +128,7 @@ class DateManager {
                 jsDate.setDate(parseInt(splitString[2]))
                 jsDate.setMonth(parseInt(splitString[1]) - 1)
                 jsDate.setFullYear(parseInt(splitString[0]))
-                return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isEventsDate: true };
+                return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isNormalizedDate: true,  isHiddenDate: false  };
             }
             else if (splitString.length == 2) {
                 let monthInt = parseInt(splitString[1]);
@@ -141,7 +141,7 @@ class DateManager {
 
                 let display = FantasyCalendarAPI.getCalendars()[0].static.months[monthInt - 1].name + " " + splitString[0];
 
-                return { display: display, sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isEventsDate: true };
+                return { display: display, sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isNormalizedDate: true,  isHiddenDate: false };
             } else if (splitString.length == 1) {
                 // bare year
                 jsDate.setDate(isEnd ? 31 : 1)
@@ -149,12 +149,8 @@ class DateManager {
                 jsDate.setFullYear(parseInt(splitString[0]))
 
                 let display = "DR " + inputDate
-
-                if (splitString[0] == "9999" || splitString[0] == "0001") {
-                    display = ""
-                }
-
-                return { display: display, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isEventsDate: true };
+            
+                return { display: display, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isNormalizedDate: true, isHiddenDate: splitString[0] == "9999" || splitString[0] == "0001" };
             } else {
                 console.log("Unexpected incoming string: " + inputDate)
                 return undefined
@@ -170,11 +166,7 @@ class DateManager {
 
                 let display = "DR " + inputDate
 
-                if (inputDate == 9999 || inputDate == 1) {
-                    display = ""
-                }
-
-                return { display: display, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isEventsDate: true };
+                return { display: display, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isNormalizedDate: true, isHiddenDate: inputDate == 9999 || inputDate == 1 };
 
             case "object":
                 if (inputDate.year == undefined) {
@@ -191,7 +183,7 @@ class DateManager {
                     jsDate.setMonth(inputDate.month ?? 0)
                     jsDate.setFullYear(inputDate.year)
                 }
-                return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isEventsDate: true };
+                return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isNormalizedDate: true, isHiddenDate: false };
         }
     
         return undefined;

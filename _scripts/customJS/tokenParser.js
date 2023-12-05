@@ -282,7 +282,9 @@ class TokenParser {
 
         // returns a formatted date
         // right now this just normalizes the date and returns the display value
-        return DateManager.normalizeDate(value).display
+        value = DateManager.normalizeDate(value)
+        if (value.isHiddenDate) return ""
+        return value.display
     }
 
     #getFormattedAge(value, token) {
