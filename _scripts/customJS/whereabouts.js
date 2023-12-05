@@ -147,7 +147,7 @@ class WhereaboutsManager {
         }
 
         if (formatStr.contains("F")) {
-            if (currentDepth != 1) return depthFilterFailed
+            if (currentDepth == 1) return successResult
         }
 
         if (formatStr.contains("f")) {
