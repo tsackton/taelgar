@@ -24,7 +24,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Scryed by [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]] %%^End%%
+>> %%^Campaign:DuFr%% Scryed with [[Delwath]] on October 12th, 1748 in [[Hamri]], the [[Mawar Confederacy]] %%^End%%
 
 [[Kenzo]]'s mentor and friend. A Chardonian, but widely traveled. Former student of [[Roscelia]] and member of the [[Society of the Open Scroll]], but expelled for keeping secrets, specifically about Dunmari magic. 
 
