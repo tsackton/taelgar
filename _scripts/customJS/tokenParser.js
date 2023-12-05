@@ -558,7 +558,7 @@ class TokenParser {
     
             // Append the part of the string before the current token
             formattedString += input.substring(lastIndex, tokenStartIndex);
-            let isFirst = (formattedString.length === 0);
+            let isFirst = (formattedString.trim().length === 0);
             if (this.debug) console.log("Token match: " + tokenMatch[0] + ", current string:" + formattedString + ", which is " + isFirst);
     
             let token = this.#parseTokenString(tokenMatch[0], isFirst);
