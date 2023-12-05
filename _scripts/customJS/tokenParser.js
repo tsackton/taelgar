@@ -256,10 +256,12 @@ class TokenParser {
         for (let whereabout of value) {
 
             let formatStr = ""
-            if (index++ === 0) {
+            if (index++ === 0 && token.format) {
                 formatStr = token.format
-            } else {
+            } else if (token.chainFormat) {
                 formatStr = token.chainFormat
+            } else {
+                formatStr = ""
             }
 
             const { NameManager } = customJS;
