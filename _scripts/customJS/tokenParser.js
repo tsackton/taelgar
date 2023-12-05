@@ -558,12 +558,13 @@ class TokenParser {
     
             // Append the part of the string before the current token
             formattedString += input.substring(lastIndex, tokenStartIndex);
-            if (this.debug) console.log("Token match: " + tokenMatch[0] + " at index " + tokenStartIndex + " which is " + (tokenStartIndex === 0));
+            let isFirst = (formattedString.length === 0);
+            if (this.debug) console.log("Token match: " + tokenMatch[0] + ", current string:" + formattedString + ", which is " + isFirst);
     
-            let token = this.#parseTokenString(tokenMatch[0], (tokenStartIndex === 0));
+            let token = this.#parseTokenString(tokenMatch[0], isFirst);
             if (this.debug) console.log(token);
             let tokenValue = token ? this.#formatToken(token, file, targetDate, overrides) ?? "" : "(invalid token: " + tokenMatch[0].replace("<", "[").replace(">", "]") + ")";
-            if (this.debug) console.log("Formatted value: " + tokenValue);
+            if (this.debug) console.log("Formatted value:" + tokenValue + ";");
     
             formattedString += tokenValue;
             lastIndex = tokenStartIndex + tokenMatch[0].length;

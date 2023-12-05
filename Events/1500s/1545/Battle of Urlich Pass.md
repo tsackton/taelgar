@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [event-source, status/unknown, testcase]
 DR: 1545
-displayDefaults: {startStatus: fought in}
+displayDefaults: {wPastHome: "Fought <home:q>"}
 name: Battle of Urlich Pass
 partOf: Great War
 typeOf: battle

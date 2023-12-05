@@ -17,11 +17,11 @@ whereabouts:
 - {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind}
 - {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove, format: "rq"}
 ---
-# Agata Dustmother
+# The Agata Dustmother
 >[!info]+ Biographical Info
 > hag ([[Fey|fey]]), she/her
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Imprisoned by the [[Dunmar Fellowship]] on November 15th, 1748 in the [[Heartwood Grove]], [[Amberglow]], the [[Feywild]] %%^End%%
+>> %%^Campaign:DuFr%% Imprisoned with the [[Dunmar Fellowship]] on November 15th, 1748 , [[Amberglow]], the [[Feywild]] %%^End%%
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
 ## Overview

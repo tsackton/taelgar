@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {wOrigin: "Originally from: <origin:5>", wHome: "Based <home:5>"}
+displayDefaults: {wOrigin: "Originally from: <origin:5Q>", wHome: "Based <home:5q>"}
 tags: [status/uptodate, person, dufr/met, dufr/minor, event-source, testcase, status/unknown]
 campaignInfo:
 - {campaign: dufr, date: 1748-09-30, type: met}
@@ -10,7 +10,6 @@ ka: 36
 species: elf
 ancestry:
 pronunciation: beh-leh-GOR
-pageTargetDate: 1712
 gender: male
 whereabouts:
 - {type: home, start: '', end: 1712, location: Ainumarya}
