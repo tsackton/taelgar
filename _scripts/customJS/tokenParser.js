@@ -36,6 +36,11 @@ class TokenParser {
 
         // from https://stackoverflow.com/questions/50649912/remove-duplicate-character-in-string-and-make-unique-string
         const remDup = e => [...new Set(e)].sort().join("");
+
+        function checkStringChars(inputString, allowedChars) {
+            return Array.from(inputString).every(char => allowedChars.includes(char));
+        }
+        
         let tokenRegex = this.tokenRegex
         let filterChars = this.filterChars
         let formatChars = this.formatChars
@@ -47,8 +52,8 @@ class TokenParser {
             prefix: null,
             suffix: null,
             filter: null,
-            format: null, // format for the item, or if a chain, the first item in the chain
-            chainFormat: null, // if a chain format for all items in the chain
+            format: null, // format for the item, or if a chain, for all items in a chain
+            firstFormat: null, // override format applied to first format in the chain only
             fullTokenText: input
         };
 
@@ -69,7 +74,7 @@ class TokenParser {
             // Separate filter and format based on allowable characters
             let filter = "";
             let format = "";
-            let chainFormat = "";
+            let firstFormat = "";
 
             if (filterFormatString) {
                 // Check for a numerical range or limit at the beginning of the filter //
@@ -82,9 +87,11 @@ class TokenParser {
                     filterFormatString[0] = filterFormatString[0].substring(rangeMatch[0].length);
                 }
 
-                // a full formatfilter string is defined as filter;format;chainFormat
-                // if the string is only two parts, it is filter+format;chainFormat
-                // if the string is only one part, it is filter+format
+                // a single string is interpreted as a filter+format string
+                // a string that has two parts (a;b) can be either
+                //      a filter;format string
+                //      a format;firstFormat string
+                // a string that has three parts (a;b;c) is interpreted as a filter;format;firstFormat string
 
                 if (filterFormatString.length === 1) {
                     // we just have a string, what is it?
@@ -94,18 +101,23 @@ class TokenParser {
                         if (formatChars.includes(char)) format += char;
                     }
                 } else if (filterFormatString.length === 2) {
-                    // we have a;b
-                    // part a is parsed as a filter + format string; part b is parsed as chainFormat
-                    for (let char of filterFormatString[0]) {
-                        if (filterChars.includes(char)) filter += char;
-                        if (formatChars.includes(char)) format += char;
-                    }
-                    for (let char of filterFormatString[1]) {
-                        if (formatChars.includes(char)) chainFormat += char;
+                    // we have a;b; need to first check if a is a filter or a format
+                    if (checkStringChars(filterFormatString[0], filterChars)) {
+                        // part a is a filter, part b is a format
+                        filter = filterFormatString[0];
+                        format = filterFormatString[1];
+                    } else if (checkStringChars(filterFormatString[0], formatChars)) {
+                        // part a is a format, part b is a firstFormat
+                        format = filterFormatString[0];
+                        firstFormat = filterFormatString[1];
+                    } else {
+                        // this is an error, if we get here then a is neither a filter nor a format
+                        // we will return null and the token will be ignored
+                        return token;
                     }
                 } else if (filterFormatString.length === 3) {
                     // we have a;b;c
-                    // a is filter, b is the format, c is chainFormat
+                    // a is filter, b is the format, c is firstFormat
                     for (let char of filterFormatString[0]) {
                         if (filterChars.includes(char)) filter += char;
                     }
@@ -113,12 +125,14 @@ class TokenParser {
                         if (formatChars.includes(char)) format += char;
                     }
                     for (let char of filterFormatString[2]) {
-                        if (formatChars.includes(char)) chainFormat += char;
+                        if (formatChars.includes(char)) firstFormat += char;
                     }
                 }
+                
 
                 token.filter = remDup(filter);
                 token.format = remDup(format);
+                token.firstFormat = remDup(firstFormat);
             }
 
         };
@@ -236,14 +250,8 @@ class TokenParser {
 
         for (let whereabout of value) {
 
-            let formatStr = ""
-            if (index++ === 0 && token.format) {
-                formatStr = token.format
-            } else if (token.chainFormat) {
-                formatStr = token.chainFormat
-            } else {
-                formatStr = ""
-            }
+            let formatStr = (index++ === 0 && token.firstFormat) ? token.firstFormat : token.format
+            if (!formatStr) formatStr = ""
 
             const { NameManager } = customJS;
             results.push(this.formatDisplayString(whereabout.format ?? "<name:" + formatStr + ">", {}, targetDate, whereabout))

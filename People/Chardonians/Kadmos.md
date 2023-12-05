@@ -19,7 +19,7 @@ whereabouts:
 ---
 # Kadmos
 >[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]]  (he/him)
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
