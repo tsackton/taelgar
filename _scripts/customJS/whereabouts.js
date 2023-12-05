@@ -288,7 +288,10 @@ class WhereaboutsManager {
                 }, targetDate, thisDepth, filter, sourcePageType)
             }
 
-            return this.#getWhereaboutChainPiece(whereabout, targetDate, thisDepth, filter, sourcePageType)
+            return [{
+                name: NameManager.getNameObject(whereabout.location, sourcePageType, { alias: whereabout.alias, linkText: whereabout.linkText }),
+                format: whereabout.format
+            }]
         }
 
 
