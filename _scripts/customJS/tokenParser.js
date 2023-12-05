@@ -559,6 +559,8 @@ class TokenParser {
             lastIndex = tokenStartIndex + tokenMatch[0].length;
         }
 
+        formattedString += input.substring(lastIndex);
+
         return cleanUpResultString(formattedString);
     }
 
