@@ -1,18 +1,5 @@
 class DateManager {
 
-    #getAge(older, younger) {
-
-        if (older == undefined || younger == undefined) return undefined;
-
-        let jsOlder = older.jsDate ?? older
-        let jsYounger = younger.jsDate ?? younger
-        var yearsDiff = jsOlder.getFullYear() - jsYounger.getFullYear();
-
-        if (jsYounger.getMonth() > jsOlder.getMonth()) return yearsDiff - 1;
-        else if (jsYounger.getMonth() == jsOlder.getMonth() && jsYounger.getDate() > jsOlder.getDate()) return yearsDiff - 1;
-
-        return yearsDiff;
-    }
 
     setPageDateProperties(pageDates, targetDate) {
 
@@ -30,10 +17,10 @@ class DateManager {
 
         if (pageDates.startDate) {
             if (pageDates.isAlive) {
-                pageDates.age = this.#getAge(targetDate, pageDates.startDate)
+                pageDates.age = targetDate.days - pageDates.startDate.days
             }
             else if (pageDates.endDate) {
-                pageDates.age = this.#getAge(pageDates.endDate, pageDates.startDate)
+                pageDates.age = pageDates.endDate.days - pageDates.startDate.days
             }
         }
     }
@@ -91,28 +78,77 @@ class DateManager {
         return this.normalizeDate(window.FantasyCalendarAPI.getCalendars()[0].current, false);
     }
 
+    DROneDays = (4133 * 365) + 288
+
+    #getDayInMonth(month) {
+        switch (month) {
+            case 1: return 31
+            case 2: return 28
+            case 3: return 31
+            case 4: return 30
+            case 5: return 31
+            case 6: return 30
+            case 7: return 31
+            case 8: return 31
+            case 9: return 30
+            case 10: return 31
+            case 11: return 30
+            case 12: return 31
+        }
+    }
+
+    #getDaysSinceCreation(year, month, day) {
+        // this assumes DR for now
+        // this is the day before Jan 1, 1 DR
+        let days = this.DROneDays
+
+        // DR 1 is included in drOneDays, so we don't want to add anything for it
+        days += ((year - 1) * 365) + day
+
+        if (month > 1) days += this.#getDayInMonth(1)
+        if (month > 2) days += this.#getDayInMonth(2)
+        if (month > 3) days += this.#getDayInMonth(3)
+        if (month > 4) days += this.#getDayInMonth(4)
+        if (month > 5) days += this.#getDayInMonth(5)
+        if (month > 6) days += this.#getDayInMonth(6)
+        if (month > 7) days += this.#getDayInMonth(7)
+        if (month > 8) days += this.#getDayInMonth(8)
+        if (month > 9) days += this.#getDayInMonth(9)
+        if (month > 10) days += this.#getDayInMonth(10)
+        if (month > 11) days += this.#getDayInMonth(11)
+
+        return days
+    }
+
+
+    #getDisplayForDaysSinceCreation(daysSinceCreation) {
+
+        let currentFantasyCal = FantasyCalendarAPI.getCalendars()[0];
+
+        let drDays = daysSinceCreation - this.DROneDays
+
+        let year = Math.floor(drDays / 365) + 1
+        let day = 0
+        let month = 0
+        let remaining = drDays - ((year - 1) * 365)
+
+        for (let mCount = 1; mCount <= 12; mCount++) {
+            let daysInThisMonth = this.#getDayInMonth(mCount)
+            if (remaining < daysInThisMonth) {
+                day = remaining
+                month = mCount
+                break
+            }
+
+            remaining -= daysInThisMonth
+        }
+
+        let date = { year: year, month: month - 1, day: day };
+
+        return FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
+    }
+
     normalizeDate(inputDate, isEnd) {
-        function daysInMonth(dm, dy) {
-            return new Date(dy, dm, 0).getDate();
-        }
-
-        function get_date_sort_string(jsDate) {
-            return jsDate.getFullYear().toString().padStart(4, '0') + (jsDate.getMonth() + 1).toString().padStart(2, '0') + jsDate.getDate().toString().padStart(2, '0');
-        }
-
-        function get_displayDate(jsDate) {
-
-            let currentFantasyCal = FantasyCalendarAPI.getCalendars()[0];
-            let date = { year: jsDate.getFullYear(), month: jsDate.getMonth(), day: jsDate.getDate() };
-
-            if (date.year == 9999) return ""
-            if (date.year == 1 && ((date.month == 0 && date.day == 1) || (date.month == 11 && date.day == 31))) return ""
-
-            return FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
-        }
-
-
-        let jsDate = new Date(1, 0, 0, 0, 0, 0, 0);
 
         if (inputDate == undefined) return undefined;
         if (inputDate == "") return undefined;
@@ -121,72 +157,68 @@ class DateManager {
 
         if (!isString && inputDate.isNormalizedDate) return inputDate
 
+        let year = 0, month = 0, days = 0
+        let isHiddenDate = false
+        let display = undefined
+
         if (isString) {
             // this is a string which we expect is either yyyy-mm-dd or yyyy-mm but something is wrong, most likely the actual year is not 4 digits
             let splitString = inputDate.split("-")
             if (splitString.length == 3) {
-                jsDate.setDate(parseInt(splitString[2]))
-                jsDate.setMonth(parseInt(splitString[1]) - 1)
-                jsDate.setFullYear(parseInt(splitString[0]))
-                return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isNormalizedDate: true,  isHiddenDate: false  };
+                year = parseInt(splitString[0])
+                month = parseInt(splitString[1])
+                days = parseInt(splitString[2])
             }
             else if (splitString.length == 2) {
-                let monthInt = parseInt(splitString[1]);
-                let dayInMonth = daysInMonth(monthInt, 1999)
-                if (dayInMonth == 29) dayInMonth = 28;
+                year = parseInt(splitString[0])
+                month = parseInt(splitString[1])
+                days = isEnd ? 1 : this.#getDayInMonth(month)
+                display = FantasyCalendarAPI.getCalendars()[0].static.months[month - 1].name + " " + splitString[0];
 
-                jsDate.setMonth(monthInt - 1)
-                jsDate.setDate(isEnd ? dayInMonth : 1)
-                jsDate.setFullYear(parseInt(splitString[0]))
-
-                let display = FantasyCalendarAPI.getCalendars()[0].static.months[monthInt - 1].name + " " + splitString[0];
-
-                return { display: display, sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isNormalizedDate: true,  isHiddenDate: false };
             } else if (splitString.length == 1) {
-                // bare year
-                jsDate.setDate(isEnd ? 31 : 1)
-                jsDate.setMonth(isEnd ? 11 : 0)
-                jsDate.setFullYear(parseInt(splitString[0]))
 
-                let display = "DR " + inputDate
-            
-                return { display: display, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isNormalizedDate: true, isHiddenDate: splitString[0] == "9999" || splitString[0] == "0001" };
+                year = parseInt(splitString[0])
+                month = isEnd ? 1 : 12
+                days = isEnd ? 1 : 31
+                display = "DR " + inputDate
+                isHiddenDate = year == 1 || year == 9999
+
             } else {
                 console.log("Unexpected incoming string: " + inputDate)
                 return undefined
             }
+        } else {
+
+            switch (typeof (inputDate)) {
+                case "number": {
+                    year = inputDate
+                    display = "DR " + inputDate
+                    isHiddenDate = year == 1 || year == 9999
+                }
+                case "object": {
+                    if (inputDate.year == undefined) {
+                        return undefined;
+                    }
+
+                    if (inputDate.isLuxonDateTime) {
+                        year = inputDate.year
+                        month = inputDate.month ?? (isEnd ? 12 : 1)
+                        days = inputDate.day ?? (isEnd ? this.#getDayInMonth(month) : 1)
+                    } else {
+                        // fantasy calendar, zero-counts months, add one
+                        year = inputDate.year
+                        month = (inputDate.month + 1) ?? (isEnd ? 12 : 1)
+                        days= inputDate.day ?? (isEnd ? this.#getDayInMonth(month) : 1)
+                    }
+                }
+            }
         }
 
-        switch (typeof (inputDate)) {
-            case "number":
-                // this is a bare year           
-                jsDate.setDate(isEnd ? 31 : 1)
-                jsDate.setMonth(isEnd ? 11 : 0)
-                jsDate.setFullYear(inputDate)
+        if (year == 0) return undefined
 
-                let display = "DR " + inputDate
+        let daysSinceCreate = this.#getDaysSinceCreation(year, month, days)
 
-                return { display: display, sort: get_date_sort_string(jsDate), year: inputDate, jsDate: jsDate, isNormalizedDate: true, isHiddenDate: inputDate == 9999 || inputDate == 1 };
-
-            case "object":
-                if (inputDate.year == undefined) {
-                     return undefined;
-                }
-
-                if (inputDate.isLuxonDateTime) {
-                    jsDate.setDate(inputDate.day ?? 1)
-                    jsDate.setMonth(inputDate.month - 1 ?? 0)
-                    jsDate.setFullYear(inputDate.year)
-                } else {
-                    // fantasy calendar, don't subtract 1
-                    jsDate.setDate(inputDate.day ?? 1)
-                    jsDate.setMonth(inputDate.month ?? 0)
-                    jsDate.setFullYear(inputDate.year)
-                }
-                return { display: get_displayDate(jsDate), sort: get_date_sort_string(jsDate), year: jsDate.getFullYear(), jsDate: jsDate, isNormalizedDate: true, isHiddenDate: false };
-        }
-    
-        return undefined;
+        return { display: display ?? this.#getDisplayForDaysSinceCreation(daysSinceCreate), sort: daysSinceCreate, year: year, days: daysSinceCreate, isNormalizedDate: true, isHiddenDate: isHiddenDate };        
     }
 
 }
