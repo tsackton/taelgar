@@ -133,7 +133,6 @@ class DateManager {
         if (dateFormat == "DR") {
             convertedDays = daysSinceCreation - this.DROneDays
         } else if (dateFormat == "CY") {
-            // not quite right since not sure that CY months and DR months are the same days per month...
             convertedDays = daysSinceCreation
         }
 
@@ -142,20 +141,47 @@ class DateManager {
         let month = 0
         let remaining = convertedDays - ((year - 1) * 365)
 
-        for (let mCount = 1; mCount <= 12; mCount++) {
-            let daysInThisMonth = this.#getDayInMonth(mCount)
-            if (remaining <= daysInThisMonth) {
-                day = remaining
-                month = mCount
-                break
-            }
+        // DR calculation //
 
-            remaining -= daysInThisMonth
+        if (dateFormat == "DR") {
+            for (let mCount = 1; mCount <= 12; mCount++) {
+                let daysInThisMonth = this.#getDayInMonth(mCount)
+                if (remaining <= daysInThisMonth) {
+                    day = remaining
+                    month = mCount
+                    break
+                }
+
+                remaining -= daysInThisMonth
+            }
+            let date = { year: year, month: month - 1, day: day };
+            return FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
         }
 
-        let date = { year: year, month: month - 1, day: day };
 
-        return FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
+        // CY calculation //
+
+        if (dateFormat == "CY") {
+        
+            // each block of 73 days is 2 months (35 days each) plus 3 intercalary days
+
+            let block = Math.ceil(remaining/73)
+            let remainingInBlock = remaining - ((block - 1) * 73)
+            // month is block-1 * 2 + Math.ceil(remainingInBlock/35)
+    
+            let blockPart = Math.ceil(remainingInBlock/35)
+            month = ((block - 1) * 2) + blockPart
+            let extraDays = remainingInBlock - ((blockPart-1) * 35)
+            let intercalDays = 0
+            let dayString = extraDays.toString().padStart(2,"0")
+            if (extraDays > 35) {
+                intercalDays = extraDays - 35
+                extraDays = extraDays - intercalDays
+                dayString = extraDays.toString().padStart(2,"0") + "." + intercalDays.toString()
+            }
+            return "CY " + year.toString() + "-" + month.toString().padStart(2,"0") + "-" + dayString 
+        }
+
     }
 
     normalizeDate(inputDate, isEnd) {
@@ -238,7 +264,7 @@ class DateManager {
 
         let dateFormat = "DR"
 
-        return { display: display ?? this.#getDisplayForDaysSinceCreation(daysSinceCreate, dateFormat), sort: daysSinceCreate, year: year, days: daysSinceCreate, isNormalizedDate: true, isHiddenDate: isHiddenDate };        
+        return { display: display ?? this.#getDisplayForDaysSinceCreation(daysSinceCreate, dateFormat), sort: daysSinceCreate, year: year, days: daysSinceCreate, isNormalizedDate: true, isHiddenDate: isHiddenDate, displayCY: this.#getDisplayForDaysSinceCreation(daysSinceCreate, "CY")};        
     }
 
 }
