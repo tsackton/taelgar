@@ -125,17 +125,22 @@ class DateManager {
         return days
     }
 
-
-    #getDisplayForDaysSinceCreation(daysSinceCreation) {
+    #getDisplayForDaysSinceCreation(daysSinceCreation, dateFormat) {
 
         let currentFantasyCal = FantasyCalendarAPI.getCalendars()[0];
+        let convertedDays = 0
 
-        let drDays = daysSinceCreation - this.DROneDays
+        if (dateFormat == "DR") {
+            convertedDays = daysSinceCreation - this.DROneDays
+        } else if (dateFormat == "CY") {
+            // not quite right since not sure that CY months and DR months are the same days per month...
+            convertedDays = daysSinceCreation
+        }
 
-        let year = Math.floor(drDays / 365) + 1
+        let year = Math.floor(convertedDays / 365) + 1
         let day = 0
         let month = 0
-        let remaining = drDays - ((year - 1) * 365)
+        let remaining = convertedDays - ((year - 1) * 365)
 
         for (let mCount = 1; mCount <= 12; mCount++) {
             let daysInThisMonth = this.#getDayInMonth(mCount)
@@ -223,7 +228,9 @@ class DateManager {
 
         let daysSinceCreate = this.#getDaysSinceCreation(year, month, days)
 
-        return { display: display ?? this.#getDisplayForDaysSinceCreation(daysSinceCreate), sort: daysSinceCreate, year: year, days: daysSinceCreate, isNormalizedDate: true, isHiddenDate: isHiddenDate };        
+        let dateFormat = "DR"
+
+        return { display: display ?? this.#getDisplayForDaysSinceCreation(daysSinceCreate, dateFormat), sort: daysSinceCreate, year: year, days: daysSinceCreate, isNormalizedDate: true, isHiddenDate: isHiddenDate };        
     }
 
 }
