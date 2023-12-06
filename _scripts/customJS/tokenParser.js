@@ -257,12 +257,21 @@ class TokenParser {
 
         for (let item of value) {
 
-            let formatStr = (index++ === 0 && token.firstFormat != null) ? token.firstFormat : token.format
+            if (index === 0) {
+                if (token.prefix) item.name.prefix = token.prefix
+            } else if (index === value.length - 1) {
+                if (token.suffix) item.name.suffix = token.suffix
+            }
+
+            let formatStr = (index === 0 && token.firstFormat != null) ? token.firstFormat : token.format
             if (!formatStr) formatStr = ""
 
-            results.push(this.formatDisplayString(item.format ?? "<name:" + formatStr + ">", {}, targetDate, item))
-        }
+            if (index !== 0 && formatStr.includes("u")) formatStr = formatStr.replace("u", "")
 
+            results.push(this.formatDisplayString(item.format ?? "<name:" + formatStr + ">", {}, targetDate, item))
+
+            index++
+        }
 
         for (index = 0; index < results.length; index++) {
             let remaining = results.length - index - 1 // we want to exclude this item, i.e. if we are the last item we want remaining to be 0
@@ -528,15 +537,7 @@ class TokenParser {
         // apply casing format only to prefix and suffix //
         // uses format, not firstFormat, which might not be ideal //
         // could wrap in a function and pass either format or firstFormat //
-
-        let casingFormat = token.format ?? ""
-        casingFormat = casingFormat.split('').filter(char => this.casingChars.includes(char)).join('');
-        if (casingFormat) {
-            token.prefix = this.#getFormattedCaseString(token.prefix, { format: casingFormat })
-            token.suffix = this.#getFormattedCaseString(token.suffix, { format: casingFormat })
-        }
-
-        let finalStr = token.prefix
+        let finalStr = ""
         if (formatter == "name") {
             finalStr += this.#getFormattedName(value, token, metadata)
         } else if (formatter == "date") {
@@ -550,14 +551,12 @@ class TokenParser {
         } else if (formatter == "partof-list") {
             finalStr += this.#getFormattedPartOfList(value, token, targetDate)
         } else if (formatter == "age") {
-            finalStr += this.#getFormattedAge(value, token)
+            finalStr += ((token.prefix ?? "") + this.#getFormattedAge(value, token) + (token.suffix ?? ""))
         } else {
             finalStr += value
         }
 
-        finalStr += token.suffix
         return finalStr.trim();
-
     }
 
     formatDisplayString(input, file, targetDate, overrides) {

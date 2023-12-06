@@ -135,7 +135,7 @@
             "dCurrent": "<start:u> <startDate> (<length> ago)",
             "dPastHasStart": "<startDate> - <endDate>, lasted <length>",
             "dPast": "<end:u> <endDate>",
-            "partOf": "<(part of )partof:ty>"
+            "partOf": "<(part of )partof:Uty>"
         },
         "unknown": {
             "startStatus": "created",

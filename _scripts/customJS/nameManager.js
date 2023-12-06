@@ -138,7 +138,7 @@ class NameManager {
     
             return str.
                 split(' ').
-                map((elem, index) => (lowers.findIndex(item => elem.toLowerCase() === item.toLowerCase()) >= 0) || elem.length == 0 ? elem : (elem[0].toUpperCase() + elem.substr(1))).
+                map((elem, index) => (lowers.findIndex(item => elem.toLowerCase() === item.toLowerCase()) >= 0 && index > 0) || elem.length == 0 ? elem : (elem[0].toUpperCase() + elem.substr(1))).
                 join(' ')
         }
 
@@ -174,7 +174,7 @@ class NameManager {
 
         if (name.prefix) {
             // we don't add a space here on purpose; prefix includes it if we need it
-            formattedName = formatPiece(name.prefix, specifier, initialUpper)
+            formattedName = formatPiece(name.prefix, specifier.replace("t", ""), initialUpper)
             initialUpper = false
         }
 
@@ -239,7 +239,7 @@ class NameManager {
 
 
         if (name.suffix) {
-            let suffix = formatPiece(name.suffix, specifier, initialUpper)
+            let suffix = formatPiece(name.suffix, specifier.replace("t", ""), initialUpper)
             // we don't add a space here on purpose; suffix includes it if we need it
             formattedName += suffix
         }
