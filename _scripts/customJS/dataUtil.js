@@ -168,15 +168,16 @@ class DateManager {
             let block = Math.ceil(remaining/73)
             let remainingInBlock = remaining - ((block - 1) * 73)
             // month is block-1 * 2 + Math.ceil(remainingInBlock/35)
-    
+    				console.log(remainingInBlock)
+            let intercalDays = remainingInBlock > 70 ? remainingInBlock - 70 : 0
+            console.log(intercalDays)
+            remainingInBlock = remainingInBlock - intercalDays
             let blockPart = Math.ceil(remainingInBlock/35)
+            console.log(blockPart)
             month = ((block - 1) * 2) + blockPart
             let extraDays = remainingInBlock - ((blockPart-1) * 35)
-            let intercalDays = 0
             let dayString = extraDays.toString().padStart(2,"0")
-            if (extraDays > 35) {
-                intercalDays = extraDays - 35
-                extraDays = extraDays - intercalDays
+            if (intercalDays) {
                 dayString = extraDays.toString().padStart(2,"0") + "." + intercalDays.toString()
             }
             return "CY " + year.toString() + "-" + month.toString().padStart(2,"0") + "-" + dayString 
@@ -262,9 +263,7 @@ class DateManager {
 
         let daysSinceCreate = this.#getDaysSinceCreation(year, month, days)
 
-        let dateFormat = "DR"
-
-        return { display: display ?? this.#getDisplayForDaysSinceCreation(daysSinceCreate, dateFormat), sort: daysSinceCreate, year: year, days: daysSinceCreate, isNormalizedDate: true, isHiddenDate: isHiddenDate, displayCY: this.#getDisplayForDaysSinceCreation(daysSinceCreate, "CY")};        
+        return { display: display ?? this.#getDisplayForDaysSinceCreation(daysSinceCreate, "DR"), sort: daysSinceCreate, year: year, days: daysSinceCreate, isNormalizedDate: true, isHiddenDate: isHiddenDate, displayCY: this.#getDisplayForDaysSinceCreation(daysSinceCreate, "CY")};        
     }
 
 }
