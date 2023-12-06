@@ -9,11 +9,11 @@ class TokenParser {
     /*** 
         t: title case; s: lower case, u: initial upper case, k: keep case 
             (keep case doesn't do anything in name manager, but it makes writing a string like :k;t, to make the first element title cased and the rest normal a lot easier)
-        a: indefinite article, A: indefinite article if first, x: no definite article, q: preposition, Q: no preposition
+        a: indefinite article, A: indefinite article if first, x: no definite article, q: preposition if different, Q: no preposition; v: preposition always
         n: never link, y: always link        
     ***/
 
-    formatChars = "qQaAxnytsUuk";
+    formatChars = "dqQaAxnytsUukv";
     casingChars = "tsUu";
 
     // * filter definitions * //
@@ -251,11 +251,23 @@ class TokenParser {
         let index = 0;
 
         let finalStr = ""
+        let prevLinkText = ""
 
         for (let item of value) {
 
             let formatStr = (index++ === 0 && token.firstFormat != null) ? token.firstFormat : token.format
             if (!formatStr) formatStr = ""
+
+            if (item.format === null || item.format === undefined) {
+                if (formatStr.includes("q")) {                    
+                    if (item.name.linkText == prevLinkText) {
+                        item.name.linkText = ""
+                    } else {
+                        prevLinkText = item.name.linkText
+                    }
+                }
+            }
+            
 
             results.push(this.formatDisplayString(item.format ?? "<name:" + formatStr + ">", {}, targetDate, item))
         }
