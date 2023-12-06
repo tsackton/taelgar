@@ -41,7 +41,7 @@ class TokenParser {
         function checkStringChars(inputString, allowedChars) {
             return Array.from(inputString).every(char => allowedChars.includes(char));
         }
-        
+
         let tokenRegex = this.tokenRegex
         let filterChars = this.filterChars
         let formatChars = this.formatChars
@@ -129,7 +129,7 @@ class TokenParser {
                         if (formatChars.includes(char)) firstFormat += char;
                     }
                 }
-                
+
 
                 token.filter = remDup(filter);
                 token.format = remDup(format);
@@ -288,12 +288,17 @@ class TokenParser {
     }
 
     #getFormattedAge(value, token) {
-        // currently just applies simple age formatting
-
-        if (value === 0) return "0 years"
-        if (value == 1) return "1 year"
-        if (value) return value + " years"
-        return ""
+        
+        if (value >= (365 * 2)) {
+            let years = Math.floor(value / 365)            
+            return years + " years"
+        } else if (value > 30) {
+            return Math.floor(value/(365/12)) + " months"        
+        } else if (value > 1) {
+            return value + " days"
+        } else {
+            return "1 day"
+        } 
     }
 
     #getTypeOfOrDefault(metadata) {
@@ -389,7 +394,7 @@ class TokenParser {
                 // this is a special case; we want to use the metadata name only if it is overridden
                 // usually we prefer the merged data, but in this case, we want the name only if it represents 
                 // an override
-                value =  NameManager.getNameObject(overrides.name ?? file.name, sourcePageType)
+                value = NameManager.getNameObject(overrides.name ?? file.name, sourcePageType)
                 formatter = "name"
                 break;
             case "ancestry":
@@ -574,12 +579,12 @@ class TokenParser {
             formattedString += input.substring(lastIndex, tokenStartIndex);
             let isFirst = (formattedString.trim().length === 0);
             if (this.debug) console.log("Token match: " + tokenMatch[0] + ", current string:" + formattedString + ", which is " + isFirst);
-    
+
             let token = this.#parseTokenString(tokenMatch[0], isFirst);
             if (this.debug) console.log(token);
             let tokenValue = token ? this.#formatToken(token, file, targetDate, overrides) ?? "" : "(invalid token: " + tokenMatch[0].replace("<", "[").replace(">", "]") + ")";
             if (this.debug) console.log("Formatted value:" + tokenValue + ";");
-    
+
             formattedString += tokenValue;
             lastIndex = tokenStartIndex + tokenMatch[0].length;
         }
