@@ -202,6 +202,13 @@ class DateManager {
             switch (typeof (inputDate)) {
                 case "number": {
                     year = inputDate
+                    if (isEnd) {
+                        month = 12
+                        days = 31
+                    } else {
+                        month = 1
+                        days = 1
+                    }
                     display = "DR " + inputDate
                     isHiddenDate = year == 1 || year == 9999
                     break
