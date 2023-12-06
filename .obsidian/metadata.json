@@ -70,7 +70,7 @@
             "boxInfo": "<ancestry:UA> <species:sAU> <(()subspecies:s())> <(()pronouns())>, <(of )primary>\n<(()ka())>",
             "mechanicsLink": "Character Sheet",
             "linkText": "by",
-            "ltPlace": "",
+            "ltPlace": "in",
             "ltPerson": "by",
             "ltItem": "by",
             "ltOrg": "member of"
@@ -89,8 +89,7 @@
             "partOf": "",
             "boxInfo": "<population>",                        
             "ruledBy" : "<affiliationtitle:t>: <name> <((since )startDate())>",
-            "linkText": "in",
-            "ltPlace": ""           
+            "linkText": "in"            
         },
         "item": {
             "startStatus": "created",
@@ -105,7 +104,7 @@
             "boxInfo": "(<rarity:s> <ancestry> <subtypeof:s> <typeof:s>)",
             "mechanicsLink": "Mechanics",
             "linkText": "in",
-            "ltPlace": ""
+            "ltPlace": "in"
         },
         "organization": {   
             "startStatus": "founded",
@@ -121,7 +120,7 @@
             "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>",            
             "ruledBy" : "<affiliationtitle:t>: <name> <((since )startDate())>",
             "linkText": "by",
-            "ltPlace": "",
+            "ltPlace": "in",
             "ltPerson": "with",
             "ltItem": "owned by",
             "ltOrg": "part of"

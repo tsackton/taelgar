@@ -160,7 +160,7 @@ class NameManager {
         let initialUpper = specifier.includes("u")
 
         // we include the link text if we (a) have a q but (b) do not have a negation (Q)
-        if (specifier.includes("q") && !specifier.includes("Q") && name.linkText) {
+        if ((specifier.includes("q") || specifier.includes("v")) && !specifier.includes("Q") && name.linkText) {
             let linkText = name.linkText ?? ""
             if (initialUpper) {
                 linkText = toFirstUpper(linkText)
@@ -246,9 +246,9 @@ class NameManager {
 
     #getLinkText(pageMetadata, sourceType) {
         // given a page, and a origin page, get the link text describing the "link" between these pages
-        
+
         let displayData = this.getDisplayData(pageMetadata)
-        
+
         let prep = ""
         switch (sourceType) {
             case "person":
@@ -271,9 +271,9 @@ class NameManager {
     }
 
     #getIndefArt(inputString) {
-        
+
         // indefinte article
-        let lowered = inputString.toLowerCase()        
+        let lowered = inputString.toLowerCase()
         if (lowered.startsWith("uni")) {
             return "a"
         } else if (lowered[0] == "a" || lowered[0] == "e" || lowered[0] == "i" || lowered[0] == "o" || lowered[0] == "u") {
@@ -287,7 +287,7 @@ class NameManager {
         // given an input string this returns the article
 
         if (!inputString) return ""
-        
+
         if (/[A-Z~]/.test(inputString)) {
             // capital letters, calculate a definite article
             let wordCount = inputString.split(' ').length
@@ -357,8 +357,8 @@ class NameManager {
         } else {
             indefArt = this.#getIndefArt(selectedDescriptiveName)
         }
-        
-        
+
+
         if ("defArt" in displayDefaults) {
             defArt = displayDefaults.defArt ?? ""
         } else {
