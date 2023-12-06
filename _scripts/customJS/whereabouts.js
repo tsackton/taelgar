@@ -75,9 +75,9 @@ class WhereaboutsManager {
 
     #get_distance_to_target(item, target) {
         if (item.logicalEnd.sort < target.sort) {
-            return target.jsDate - item.logicalEnd.jsDate
+            return target.days - item.logicalEnd.days
         }
-        else return target.jsDate - item.logicalStart.jsDate
+        else return target.days - item.logicalStart.days
     }
 
     #filterWhereabouts(whereaboutsList, type, target, allowPast, allowUnknown) {

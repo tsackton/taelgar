@@ -3,17 +3,17 @@ class TokenParser {
     debug = true
 
     // Define the allowable filter and format characters
-    // unused characters: b c d e g h j k m v w z
+    // unused characters: bB cC dD eE gG hH jJ K mM N S T vV wW X Y zZ 
 
     // * format definitions * //
     /*** 
-        t: title case; s: lower case, u: initial upper case
+        t: title case; s: lower case, u: initial upper case, k: keep case 
+            (keep case doesn't do anything in name manager, but it makes writing a string like :k;t, to make the first element title cased and the rest normal a lot easier)
         a: indefinite article, A: indefinite article if first, x: no definite article, q: preposition, Q: no preposition
-        n: never link, y: always link
-        !: prefer this format if possible
+        n: never link, y: always link        
     ***/
 
-    formatChars = "qQaAxnytsUu!";
+    formatChars = "qQaAxnytsUuk";
     casingChars = "tsUu";
 
     // * filter definitions * //
@@ -22,11 +22,11 @@ class TokenParser {
         L = include locations only; l = exclude locations
         P = include people only; p = exclude people
         I = include items only; i = exclude items
-        F = include first step only; f = exclude first step
+        F = include first step always; f = exclude first step
         O = include organizations only; o = exclude organizations
     ***/
 
-    filterChars = "rRpPlLiIoOfF!";
+    filterChars = "rRpPlLiIoOfF";
 
     // defines a regex for parsing tokens //
 
@@ -41,7 +41,7 @@ class TokenParser {
         function checkStringChars(inputString, allowedChars) {
             return Array.from(inputString).every(char => allowedChars.includes(char));
         }
-        
+
         let tokenRegex = this.tokenRegex
         let filterChars = this.filterChars
         let formatChars = this.formatChars
@@ -75,7 +75,7 @@ class TokenParser {
             // Separate filter and format based on allowable characters
             let filter = "";
             let format = "";
-            let firstFormat = "";
+            let firstFormat = null; // we want to explicitly distinguish between null/undefined and t; (where t; means, t is the format, nothing is the first format)
 
             if (filterFormatString) {
                 // Check for a numerical range or limit at the beginning of the filter //
@@ -117,6 +117,7 @@ class TokenParser {
                         return token;
                     }
                 } else if (filterFormatString.length === 3) {
+                    firstFormat = ""
                     // we have a;b;c
                     // a is filter, b is the format, c is firstFormat
                     for (let char of filterFormatString[0]) {
@@ -129,11 +130,11 @@ class TokenParser {
                         if (formatChars.includes(char)) firstFormat += char;
                     }
                 }
-                
+
 
                 token.filter = remDup(filter);
                 token.format = remDup(format);
-                token.firstFormat = remDup(firstFormat);
+                token.firstFormat = firstFormat == null ? null : remDup(firstFormat);
             }
 
         };
@@ -219,6 +220,7 @@ class TokenParser {
         return NameManager.formatName(name, token.format)
     }
 
+
     #getFormattedName(value, token) {
         // returns a formatted name
         // pass the format and the name to the name manager to generate a formatted name
@@ -245,49 +247,47 @@ class TokenParser {
         return WhereaboutsManager.getWhereaboutChain(whereabout, followDate, whereabout.startFilter ?? filter, sourcePageType, false)
     }
 
-    #getFormattedWhereaboutList(value, token, targetDate) {
-
+    #getFormattedList(value, token, targetDate, joinChar, lastJoinChar) {
         if (!Array.isArray(value)) return ""
 
         let results = []
         let index = 0;
 
-        for (let whereabout of value) {
+        let finalStr = ""
 
-            if (index == 0) whereabout.name.prefix = token.prefix
-            if (index == (value.length - 1)) whereabout.name.suffix = token.suffix
+        for (let item of value) {
 
-            let formatStr = (index++ === 0 && token.firstFormat) ? token.firstFormat : token.format
-
-        
+            let formatStr = (index++ === 0 && token.firstFormat != null) ? token.firstFormat : token.format
             if (!formatStr) formatStr = ""
 
-            const { NameManager } = customJS;
-            results.push(this.formatDisplayString(whereabout.format ?? "<name:" + formatStr + ">", {}, targetDate, whereabout))
+            results.push(this.formatDisplayString(item.format ?? "<name:" + formatStr + ">", {}, targetDate, item))
         }
 
-        return results.join(', ')
+
+        for (index = 0; index < results.length; index++) {
+            let remaining = results.length - index - 1 // we want to exclude this item, i.e. if we are the last item we want remaining to be 0
+
+            if (remaining > 1)
+                finalStr += results[index] + joinChar
+            else if (remaining == 1)
+                finalStr += results[index] + lastJoinChar
+            else
+                finalStr += results[index]
+        }
+
+        return finalStr
+    }
+
+    #getFormattedWhereaboutList(value, token, targetDate) {
+        return this.#getFormattedList(value, token, targetDate, ", ", ", ")
+    }
+
+    #getFormattedPartOfList(value, token) {
+        return this.#getFormattedList(value, token, undefined, ", ", ", ")
     }
 
     #getFormattedAffiliationList(value, token) {
-
-        if (!Array.isArray(value)) return ""
-
-        let results = []
-        let index = 0;
-
-        for (let affiliation of value) {
-
-            if (index == 0) affiliation.name.prefix = token.prefix
-            if (index == (value.length - 1)) affiliation.name.suffix = token.suffix
-
-            index++
-
-            const { NameManager } = customJS;
-            results.push(NameManager.formatName(affiliation.name, token.format))
-        }
-
-        return results.join(' and ')
+        return this.#getFormattedList(value, token, undefined, ", ", ", and ")
     }
 
     #getFormattedDate(value, token) {
@@ -296,16 +296,23 @@ class TokenParser {
 
         // returns a formatted date
         // right now this just normalizes the date and returns the display value
-        return DateManager.normalizeDate(value).display
+        value = DateManager.normalizeDate(value)
+        if (value.isHiddenDate) return ""
+        return value.display
     }
 
     #getFormattedAge(value, token) {
-        // currently just applies simple age formatting
-
-        if (value === 0) return "0 years"
-        if (value == 1) return "1 year"
-        if (value) return value + " years"
-        return ""
+        
+        if (value >= (365 * 2)) {
+            let years = Math.floor(value / 365)            
+            return years + " years"
+        } else if (value > 30) {
+            return Math.floor(value/(365/12)) + " months"        
+        } else if (value > 1) {
+            return value + " days"
+        } else {
+            return "1 day"
+        } 
     }
 
     #getTypeOfOrDefault(metadata) {
@@ -401,7 +408,7 @@ class TokenParser {
                 // this is a special case; we want to use the metadata name only if it is overridden
                 // usually we prefer the merged data, but in this case, we want the name only if it represents 
                 // an override
-                value =  NameManager.getNameObject(overrides.name ?? file.name, sourcePageType)
+                value = NameManager.getNameObject(overrides.name ?? file.name, sourcePageType)
                 formatter = "name"
                 break;
             case "ancestry":
@@ -420,7 +427,6 @@ class TokenParser {
                 let typeOf = this.#getTypeOfOrDefault(metadata)
                 value = typeOf ? NameManager.getNameObject(typeOf, sourcePageType, { alias: metadata.typeOfAlias }) : ""
                 formatter = "name"
-                console.log(value)
                 break
             case "maintype":
                 // special case where we define a specific main type based on metadata //
@@ -469,6 +475,14 @@ class TokenParser {
                 break
             // end affiliation options //
 
+            // partof-list formatter - value is expected to be a list of partofs
+            case "partof":
+                // currently we just use the affliation manager here to get a fully formatted string
+                value = AffiliationManager.getPartOfs(metadata, token.filter, sourcePageType)
+                formatter = "partof-list"
+                break;
+            // end partof options //                
+
             // various complicated options //
             case "ka":
                 // ka is unusual because we want to link the word 'ka' to the page for the ka
@@ -500,15 +514,6 @@ class TokenParser {
                 break;
             // end complicated options //
 
-            // REFACTOR OPTIONS //
-            // these might need to be refactored but I don't really understand the affiliation code yet
-            case "partof":
-                // currently we just use the affliation manager here to get a fully formatted string
-                value = AffiliationManager.getAffiliationPartOf(metadata, token.format)
-                formatter = "casing"
-                break;
-            // END REFACTOR OPTIONS //
-
             default:
                 // if no special processing, check to see if it is a key in metadata, or failing that, displayDefaults
                 value = (this.#getParameterCaseInsensitive(metadata, token.token) ?? this.#getParameterCaseInsensitive(displayDefaults, token.token)) ?? ""
@@ -516,30 +521,43 @@ class TokenParser {
                 formatter = "casing"
         }
 
-        if ((value || value === 0) && (!Array.isArray(value) || value.length > 0)) {
-
-           
-            let finalStr = ""
-            if (formatter == "name") {
-                finalStr += this.#getFormattedName(value, token, metadata)
-            } else if (formatter == "date") {
-                finalStr += this.#getFormattedDate(value, token, targetDate, metadata)
-            } else if (formatter === "casing") {
-                finalStr += this.#getFormattedCaseString(value, token)
-            } else if (formatter == "affiliation-list") {
-                finalStr += this.#getFormattedAffiliationList(value, token)
-            } else if (formatter == "whereabout-list") {
-                finalStr += this.#getFormattedWhereaboutList(value, token, targetDate)
-            } else if (formatter == "age") {
-                finalStr += this.#getFormattedAge(value, token)
-            } else {
-                finalStr += value
-            }
-         
-            return finalStr.trim();
-        } else {
+        // if we don't have a value, return
+        if (value === undefined || value === null || value === "" || (Array.isArray(value) && value.length === 0))
             return ""
+
+        // apply casing format only to prefix and suffix //
+        // uses format, not firstFormat, which might not be ideal //
+        // could wrap in a function and pass either format or firstFormat //
+
+        let casingFormat = token.format ?? ""
+        casingFormat = casingFormat.split('').filter(char => this.casingChars.includes(char)).join('');
+        if (casingFormat) {
+            token.prefix = this.#getFormattedCaseString(token.prefix, { format: casingFormat })
+            token.suffix = this.#getFormattedCaseString(token.suffix, { format: casingFormat })
         }
+
+        let finalStr = token.prefix
+        if (formatter == "name") {
+            finalStr += this.#getFormattedName(value, token, metadata)
+        } else if (formatter == "date") {
+            finalStr += this.#getFormattedDate(value, token, targetDate, metadata)
+        } else if (formatter === "casing") {
+            finalStr += this.#getFormattedCaseString(value, token)
+        } else if (formatter == "affiliation-list") {
+            finalStr += this.#getFormattedAffiliationList(value, token)
+        } else if (formatter == "whereabout-list") {
+            finalStr += this.#getFormattedWhereaboutList(value, token, targetDate)
+        } else if (formatter == "partof-list") {
+            finalStr += this.#getFormattedPartOfList(value, token, targetDate)
+        } else if (formatter == "age") {
+            finalStr += this.#getFormattedAge(value, token)
+        } else {
+            finalStr += value
+        }
+
+        finalStr += token.suffix
+        return finalStr.trim();
+
     }
 
     formatDisplayString(input, file, targetDate, overrides) {
@@ -574,12 +592,12 @@ class TokenParser {
             formattedString += input.substring(lastIndex, tokenStartIndex);
             let isFirst = (formattedString.trim().length === 0);
             if (this.debug) console.log("Token match: " + tokenMatch[0] + ", current string:" + formattedString + ", which is " + isFirst);
-    
+
             let token = this.#parseTokenString(tokenMatch[0], isFirst);
             if (this.debug) console.log(token);
             let tokenValue = token ? this.#formatToken(token, file, targetDate, overrides) ?? "" : "(invalid token: " + tokenMatch[0].replace("<", "[").replace(">", "]") + ")";
             if (this.debug) console.log("Formatted value:" + tokenValue + ";");
-    
+
             formattedString += tokenValue;
             lastIndex = tokenStartIndex + tokenMatch[0].length;
         }
