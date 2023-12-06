@@ -144,7 +144,7 @@ class DateManager {
 
         for (let mCount = 1; mCount <= 12; mCount++) {
             let daysInThisMonth = this.#getDayInMonth(mCount)
-            if (remaining < daysInThisMonth) {
+            if (remaining <= daysInThisMonth) {
                 day = remaining
                 month = mCount
                 break
