@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [historical, person/ruler, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -18,9 +18,9 @@ affiliations: [House of Sewick]
 ---
 # Queen Blanche II
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]], she/her of the [[House of Sewick]]
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The second child of [[Elaine I]] and [[Cynan]]. Her son, [[Arryn II]], succeeds her to the united crowns.
 

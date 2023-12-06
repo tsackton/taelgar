@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [organization, testcase]
 displayDefaults: {partOf: '<typeof:A> of <partof>', boxInfo: ''}
 name: Army Garrison of Cleenseau
 partOf: Dunfry Regiment
@@ -11,6 +11,7 @@ whereabouts:
 ---
 # The Army Garrison of Cleenseau
 >[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
 > a garrison of the [[Dunfry Regiment]], the [[Army of the West]], the [[Sembaran Army]], [[Sembara]]
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

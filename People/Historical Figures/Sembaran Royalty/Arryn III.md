@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person/ruler, status/unknown]
+tags: [person/ruler, status/unknown, testcase]
 campaignInfo: []
 name: Arryn III
 born: 1702
@@ -9,8 +9,8 @@ ancestry: Sembaran
 gender: male
 reignStart: 1745
 leaderOf:
-- {place: Sembara}
-- {place: Tyrwingha}
+- {place: Sembara, start: 1745}
+- {place: Tyrwingha, start: 1745}
 affiliations: [{org: House of Lils, type: primary}]
 ---
 # Arryn III

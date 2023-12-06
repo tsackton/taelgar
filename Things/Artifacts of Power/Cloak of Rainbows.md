@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [item/magical, testcase, status/needswork/collate, status/needswork/notes, status/needswork/wip]
 campaignInfo:
 created: 917
+subTypeOf: magical
 name: Cloak of Rainbows
 aliases: [Cloak of Rainbows, Mantle of Protection]
 typeOf: cloak
@@ -16,6 +17,7 @@ whereabouts:
 >[!info]+ Information
 > (unique magical cloak)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% whereabouts needs work%%
