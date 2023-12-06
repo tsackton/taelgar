@@ -78,7 +78,12 @@ class DateManager {
         return this.normalizeDate(window.FantasyCalendarAPI.getCalendars()[0].current, false);
     }
 
-    DROneDays = (4133 * 365) + 288
+    // DR counts from the 291st day of the 4132nd year in the Dwarven count
+    // The 4132nd year of the dwarven calendar started on March 17th the year before Drankor was founded
+    // March 17 - Jan 1 is 290 days. Easier to not include DR 1/1/1 in the count so we don't have to correct later
+    // So DR 1/1/1 = (4132*365) + 291 but we want DROneDays to be the day before 1/1/1
+
+    DROneDays = (4132 * 365) + 290
 
     #getDayInMonth(month) {
         switch (month) {
