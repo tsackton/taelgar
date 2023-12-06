@@ -1,9 +1,9 @@
 ---
-tags: [place, status/unknown]
+tags: [place]
 campaignInfo: []
 name: River Gate of Cleenseau
 typeOf: gate
-partOf: Cleenseau
+whereabouts: Cleenseau
 ---
 # The River Gate of Cleenseau
 >[!info]+ Information

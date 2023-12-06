@@ -11,7 +11,8 @@ pronunciation: ZURK-kaz
 *(ZURK-kaz)*
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> A realm in the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Xurkhaz, the Land of the Peaceful Sun, is the kingdom of the [[People of the Rainbow]].
 ## Geography
