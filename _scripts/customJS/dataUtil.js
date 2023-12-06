@@ -137,7 +137,7 @@ class DateManager {
             convertedDays = daysSinceCreation
         }
 
-        let year = Math.floor(convertedDays / 365) + 1
+        let year = Math.ceil(convertedDays / 365)
         let day = 0
         let month = 0
         let remaining = convertedDays - ((year - 1) * 365)
@@ -204,6 +204,7 @@ class DateManager {
                     year = inputDate
                     display = "DR " + inputDate
                     isHiddenDate = year == 1 || year == 9999
+                    break
                 }
                 case "object": {
                     if (inputDate.year == undefined) {
@@ -224,7 +225,7 @@ class DateManager {
             }
         }
 
-        if (year == 0) return undefined
+        if (year === 0) return undefined
 
         let daysSinceCreate = this.#getDaysSinceCreation(year, month, days)
 
