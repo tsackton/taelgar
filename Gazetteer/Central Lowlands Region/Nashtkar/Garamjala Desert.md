@@ -3,12 +3,14 @@ headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Garamjala Desert
 aliases: [Garamjala]
-partOf: Nashtkar
+whereabouts: 
+- {type: home, location: Desolation of Cha'mutte}
 typeOf: desert
 ---
 # The Garamjala Desert
 >[!info]+ Information
-> A desert in [[Nashtkar]], the [[Desolation of Cha'mutte]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A vast sandy desert south and east of [[Karawa]], formed in the aftermath of the [[Great War]] by the rain shadow cast by the newly rising [[Yuvanti Mountains]]. 
 
