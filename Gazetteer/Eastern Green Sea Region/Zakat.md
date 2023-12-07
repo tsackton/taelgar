@@ -1,16 +1,25 @@
 ---
-tags: [place, status/stub, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+headerVersion: 2023.11.25
+tags: [place]
 campaignInfo:
 name: Zakat
 typeOf: city
-partOf: Ursk
-ancestry: trading
+subTypeOf: trading
+ancestry: Urskan
 pronunciation: zuh-KAHT
+whereabouts: 
+- {type: home, location: Ursk, startFilter: f}
 ---
 # Zakat
 *(zuh-KAHT)*
 >[!info]+ Information
-> A trading city in [[Ursk]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A trading port in [[Ursk]], one of the few places foreigners are allowed to dock and trade. It is a sprawling city with high walls and extensive coastal fortifications, including several massive stone wave breaks. The foreign trading posts are set on a protected spit of land, but exit from the docks and storehouses of the foreign city is forbidden and the whole area is patrolled by masked wizards. A great gate stands at the end of the peninsula, guarded constantly. Zakat is 1300 miles as the crow flies from [[Tollen]], longer by ship. 
+Zakat is a mysterious city on the north coast of the [[Eastern Green Sea]], and the westernmost of the handful of open ports where foreigners are allowed to trade in the country of [[Ursk]]. 
+
+Zakat is a sprawling city with high walls and extensive coastal fortifications, including several massive stone wave breaks. The foreign trading port and related buildings are set on a protected spit of land, but exit from the docks and storehouses of the foreign city is forbidden and the whole area is patrolled by masked wizards. A great gate stands at the end of the peninsula, guarded constantly. 
+
+The city is known for strange goods from the north, including furs, hide, and monster parts. Most prized of all is dragon hide, which is sold for exorbitant prices to foreign traders. It is a common stop for Tollender ships seeking magical ingredients for the famous Tollen dyes. 
+
+%%SECRET[1]%%

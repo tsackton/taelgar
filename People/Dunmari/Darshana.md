@@ -15,4 +15,4 @@ whereabouts: Tokra
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Owner of the eponymously named caravanserai [[Darshana’s caravanserai|Darshana's]] outside of [[Tokra]]. 
+Owner of the eponymously named caravanserai [[Darshana's caravanserai|Darshana's]] outside of [[Tokra]]. 

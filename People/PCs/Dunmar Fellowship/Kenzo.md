@@ -83,7 +83,7 @@ player: David Kong
 > Who are true Chardonians?
 > “Everyone who has the spirit of knowledge in them. But I think your friends are right we should rest now."
 
-> [!warning]- The Land of the Dead, Session 22
+> [!warning]- The [[Land of the Dead]], Session 22
 > 
 > Kenzo's Experience of the [[Land of the Dead]], [[Session 22 (DuFr)]]
 > 
