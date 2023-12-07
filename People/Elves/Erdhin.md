@@ -1,7 +1,7 @@
 ---
 name: Erdhin
 title: Caretaker
-tags: [person, durfr/met, status/stub, status/unknown]
+tags: [person, dufr/met, status/stub, status/unknown]
 species: elf
 ka:
 whereabouts: Erelion
