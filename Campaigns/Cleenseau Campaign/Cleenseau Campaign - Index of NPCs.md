@@ -23,7 +23,7 @@ tags: [status/unknown]
 * [[Sarabeth]], a gateguard
 * [[Jonathon Henwyn]], the steward
 * [[Eremon]], a traveler and confidant of Rosalind
-* [[Selma Wisthelwind]], the proprietor of [[The Fox’s Flagon]]
+* [[Selma Wisthelwind]], the proprietor of [[The Fox's Flagon]]
 * [[Marion of Cleenseau|Marion]] and [[Adam of Cleenseau|Adam]], soldiers of the Bridge Patrol
 * [[Ames Benthey]], the captain of the Lord's Guard, recently returned to town
 * [[Beatrix of Cleenseau|Béatrix]], a recently retired solider, now a member of the town watch under [[Ysabel]]

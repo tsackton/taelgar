@@ -46,7 +46,7 @@ dv.table(["Person", "Info", "Current Location", "Home"],
 
 %%^End%%
 
-Stretched along the southeastern wall of the town, between the wall and the road, are three inns: [[The Bandit’s End]] (M),  [[The River’s Blessing]] (L),  and [[The Fox’s Flagon]] (K). But the largest and most important gathering place in the town is the halfling establishment known as the  [[The Crossroads Inn]], an ancient, sprawling building built against the town walls near the south gate. 
+Stretched along the southeastern wall of the town, between the wall and the road, are three inns: [[The Bandit’s End]] (M),  [[The River’s Blessing]] (L),  and [[The Fox's Flagon]] (K). But the largest and most important gathering place in the town is the halfling establishment known as the  [[The Crossroads Inn]], an ancient, sprawling building built against the town walls near the south gate. 
 
 Past the inns, at the northeast end of town, is a large open field with several large, open-sided buildings. This is the town market. Every Sunday and Tuesday it is full of merchants selling wheat, pigs, fish, beef, millet, charcoal, and other staples of everyday life. It attracts many of the villagers east of the river, who often stay the night at [[The River’s Blessing]].  
 
