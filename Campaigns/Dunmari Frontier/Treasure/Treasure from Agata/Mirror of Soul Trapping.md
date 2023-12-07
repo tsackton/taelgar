@@ -5,6 +5,7 @@ tags: [item, item/magical, status/unknown]
 whereabouts:
 - {type: home, location: unknown hobgoblin wizard, prefix: by an }
 - {type: home, location: dufr}
+- {type: away, start: 1748-06-08, end: 1748-06-08, location: Karawa}
 - {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
 - {type: away, location: Vindristjarna}
 displayDefaults: {ltPerson: "trapped in"}

@@ -1,26 +1,25 @@
 ---
-tags: [person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo:
+headerVersion: 2023.11.25
+tags: [person]
 name: Isabeau D'Amboise
 born: 1672
 species: human
 ancestry: Sembaran
 gender: female
-title: Baron
+title: Baroness
+whereabouts: Barony of Aveil
+affiliations:
+- { org: Barony of Aveil, start: 1719-04, type: leader}
 ---
-# Baron Isabeau D'Amboise
->[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+# Baroness Isabeau D'Amboise
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%%
-From chat GPT
-**Baroness Isabeau D'Amboise (Current Baron of Averil):**
 
-- _Background:_ Baroness Isabeau hails from a noble lineage known for its political acumen. Prior to her ascension, she held a prominent role at the royal court, where her astute observations and unwavering loyalty garnered the favor of those in power.
-- _Skills:_ A skilled diplomat, Isabeau navigates courtly intrigues with finesse. She is known for her charisma and ability to maintain a composed exterior even in the face of adversity.
-- _Reputation:_ Among the common folk, Baroness Isabeau is perceived as a beacon of stability and a proponent of justice. Her appointment brought a sense of hope for a renewed era of prosperity in Averil.
-
-From in game email
-The Baron of Averil is a bit of an unknown, she’s newly appointed this spring after the old baron was charged with treason (for embezzling crown funds) and executed.
+%% 
+Just a name for the current Baron -- and a note, she’s newly appointed this spring after the old baron was charged with treason (for embezzling crown funds) and executed 
+Current thinking is that the old baron was actually a "good guy" and killed by the lich; whether Isabeau is working with him, a dupe, or something else is not clear
+%%
