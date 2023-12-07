@@ -2,7 +2,7 @@
 tags: [status/unknown]
 ---
 
-A black iron teakettle that appears to be able to hold about a gallon of liquid, and weighs 12 pounds. Probably a dwarven creation. Found in [[Agata's Lair]]. 
+A black iron teakettle that appears to be able to hold about a gallon of liquid, and weighs 12 pounds. Probably a dwarven creation. Found in [[Agata's lair]]. 
 
 ## Mechanics
 

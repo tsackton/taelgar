@@ -1,3 +1,7 @@
+---
+tags: [status/needswork]
+---
+
 # Sanctuary
 Level 5 Bastion Facility
 Prerequisite: Ability to use a Holy Symbol or Druidic Focus as a Spellcasting Focus
