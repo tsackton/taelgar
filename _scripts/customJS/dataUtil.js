@@ -1,3 +1,5 @@
+
+// @ts-check
 class DateManager {
 
 
@@ -68,6 +70,7 @@ class DateManager {
 
 
     getTargetDateForPage(metadata) {
+
         if (customJS.state.overrideDate) {
             return this.normalizeDate(customJS.state.overrideDate, false);
         }
@@ -99,16 +102,14 @@ class DateManager {
             case 10: return 31
             case 11: return 30
             case 12: return 31
+            default: return 0
         }
     }
 
     #getDaysSinceCreation(year, month, day) {
-        // this assumes DR for now
-        // this is the day before Jan 1, 1 DR
-        let days = this.DROneDays
 
-        // DR 1 is included in drOneDays, so we don't want to add anything for it
-        days += ((year - 1) * 365) + day
+        // there is no 0 year, so year 1 day 1 is the first day of time
+        let days = ((year - 1) * 365) + day
 
         if (month > 1) days += this.#getDayInMonth(1)
         if (month > 2) days += this.#getDayInMonth(2)
@@ -125,17 +126,53 @@ class DateManager {
         return days
     }
 
-    #getDisplayForDaysSinceCreation(daysSinceCreation, dateFormat) {
+    #getMonthName(month) {
+        switch (month) {
+            case 1: return "January";
+            case 2: return "February";
+            case 3: return "March";
+            case 4: return "April";
+            case 5: return "May";
+            case 6: return "June";
+            case 7: return "July";
+            case 8: return "August";
+            case 9: return "September";
+            case 10: return "October";
+            case 11: return "November";
+            case 12: return "December";
+        }
+    }
 
-        let currentFantasyCal = FantasyCalendarAPI.getCalendars()[0];
+    #getDisplayForDate(daysSinceCreation, targetFormat, error) {
         let convertedDays = 0
 
-        if (dateFormat == "DR") {
+        if (error >= Number.MAX_SAFE_INTEGER) return ""
+
+        if (targetFormat == "DR") {
             convertedDays = daysSinceCreation - this.DROneDays
-        } else if (dateFormat == "CY") {
+        } else if (targetFormat == "CY") {
             convertedDays = daysSinceCreation
         }
 
+        let startDays = convertedDays - error
+        let endDays = convertedDays + error
+        let year = Math.ceil(convertedDays / 365)
+
+        if (startDays == endDays) {            
+            return this.#getDisplayForDaysSinceCreation(startDays, targetFormat)
+        }
+
+        return targetFormat + " " + year
+
+    }
+
+
+    #getDisplayForDaysSinceCreation(daysSinceCreation, dateFormat) {
+
+        let currentFantasyCal = FantasyCalendarAPI.getCalendars()[0];
+        let convertedDays = daysSinceCreation
+
+        
         let year = Math.ceil(convertedDays / 365)
         let day = 0
         let month = 0
@@ -158,34 +195,68 @@ class DateManager {
             return FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
         }
 
-
-        // CY calculation //
-
         if (dateFormat == "CY") {
-        
+            let cycle = Math.ceil(remaining/73)
+            remaining =  remaining - ((cycle-1) * 73)
+
+            return "CY " + year + "." + cycle + "." + remaining
+        }
+
+
+        /* CY calculation 
+
+        //if (dateFormat == "CY") {
+
             // each block of 73 days is 2 months (35 days each) plus 3 intercalary days
 
-            let block = Math.ceil(remaining/73)
+            let block = Math.ceil(remaining / 73)
             let remainingInBlock = remaining - ((block - 1) * 73)
             // month is block-1 * 2 + Math.ceil(remainingInBlock/35)
-    				console.log(remainingInBlock)
+            console.log(remainingInBlock)
             let intercalDays = remainingInBlock > 70 ? remainingInBlock - 70 : 0
             console.log(intercalDays)
             remainingInBlock = remainingInBlock - intercalDays
-            let blockPart = Math.ceil(remainingInBlock/35)
+            let blockPart = Math.ceil(remainingInBlock / 35)
             console.log(blockPart)
             month = ((block - 1) * 2) + blockPart
-            let extraDays = remainingInBlock - ((blockPart-1) * 35)
-            let dayString = extraDays.toString().padStart(2,"0")
+            let extraDays = remainingInBlock - ((blockPart - 1) * 35)
+            let dayString = extraDays.toString().padStart(2, "0")
             if (intercalDays) {
-                dayString = extraDays.toString().padStart(2,"0") + "." + intercalDays.toString()
+                dayString = extraDays.toString().padStart(2, "0") + "." + intercalDays.toString()
             }
-            return "CY " + year.toString() + "-" + month.toString().padStart(2,"0") + "-" + dayString 
+            return "CY " + year.toString() + "-" + month.toString().padStart(2, "0") + "-" + dayString
         }
-
+*/
     }
 
-    normalizeDate(inputDate, isEnd) {
+    #getTargetDaysAndErrorFromString(dateStr) {
+
+        let splitString = dateStr.split("-")
+
+        if (splitString.length == 3) {
+            let year = parseInt(splitString[0])
+            let month = parseInt(splitString[1])
+            let days = parseInt(splitString[2])
+            return { days: this.#getDaysSinceCreation(year, month, days) }
+        }
+        else if (splitString.length == 2) {
+            let year = parseInt(splitString[0])
+            let month = parseInt(splitString[1])
+            let daysInMonth = this.#getDayInMonth()
+            return { days: this.#getDaysSinceCreation(year, month, daysInMonth / 2), error: daysInMonth / 2 }
+        } else if (splitString.length == 1) {
+            let year = parseInt(splitString[0])
+
+            if (year == 1) return { days: 0, error: Number.MAX_SAFE_INTEGER }
+            else if (year == 9999) return { days: Number.MAX_SAFE_INTEGER, error: Number.MAX_SAFE_INTEGER }
+            return { days: this.#getDaysSinceCreation(year, 0, 183), error: 182 }
+        } else {
+            console.log("Unexpected incoming string: " + dateStr)
+            return undefined
+        }
+    }
+
+    normalizeDate(inputDate, isEnd, source) {
 
         if (inputDate == undefined) return undefined;
         if (inputDate == "") return undefined;
@@ -194,76 +265,45 @@ class DateManager {
 
         if (!isString && inputDate.isNormalizedDate) return inputDate
 
-        let year = 0, month = 0, days = 0
-        let isHiddenDate = false
-        let display = undefined
+        let format = "DR"
+        if (source == "CY" || source == "CY_end") format = "CY"
 
         if (isString) {
-            // this is a string which we expect is either yyyy-mm-dd or yyyy-mm but something is wrong, most likely the actual year is not 4 digits
-            let splitString = inputDate.split("-")
-            if (splitString.length == 3) {
-                year = parseInt(splitString[0])
-                month = parseInt(splitString[1])
-                days = parseInt(splitString[2])
-            }
-            else if (splitString.length == 2) {
-                year = parseInt(splitString[0])
-                month = parseInt(splitString[1])
-                days = isEnd ? 1 : this.#getDayInMonth(month)
-                display = FantasyCalendarAPI.getCalendars()[0].static.months[month - 1].name + " " + splitString[0];
-
-            } else if (splitString.length == 1) {
-
-                year = parseInt(splitString[0])
-                month = isEnd ? 1 : 12
-                days = isEnd ? 1 : 31
-                display = "DR " + inputDate
-                isHiddenDate = year == 1 || year == 9999
-
+            inputDate = { date: inputDate, format: source == "CY" || source == "CY_end" ? "CY" : "DR", error: 0 }
+        } else if (typeof (inputDate) == "number") {
+            inputDate = { date: inputDate.toString(), format: source == "CY" || source == "CY_end" ? "CY" : "DR", error: 0 }
+        } else if (typeof (inputDate) == "object" && !inputDate.date) {
+            if (inputDate.isLuxonDateTime) {
+                inputDate = { date: inputDate.year + "-" + inputDate.month + "-" + inputDate.day, format: source == "CY" || source == "CY_end" ? "CY" : "DR", error: 0 }
             } else {
-                console.log("Unexpected incoming string: " + inputDate)
-                return undefined
-            }
-        } else {
-
-            switch (typeof (inputDate)) {
-                case "number": {
-                    year = inputDate
-                    if (isEnd) {
-                        month = 12
-                        days = 31
-                    } else {
-                        month = 1
-                        days = 1
-                    }
-                    display = "DR " + inputDate
-                    isHiddenDate = year == 1 || year == 9999
-                    break
-                }
-                case "object": {
-                    if (inputDate.year == undefined) {
-                        return undefined;
-                    }
-
-                    if (inputDate.isLuxonDateTime) {
-                        year = inputDate.year
-                        month = inputDate.month ?? (isEnd ? 12 : 1)
-                        days = inputDate.day ?? (isEnd ? this.#getDayInMonth(month) : 1)
-                    } else {
-                        // fantasy calendar, zero-counts months, add one
-                        year = inputDate.year
-                        month = (inputDate.month + 1) ?? (isEnd ? 12 : 1)
-                        days= inputDate.day ?? (isEnd ? this.#getDayInMonth(month) : 1)
-                    }
-                }
+                // fantasy calendar, zero-counts months, add one             
+                inputDate = { date: inputDate.year + "-" + (inputDate.month + 1) + "-" + inputDate.day, format: source == "CY" || source == "CY_end" ? "CY" : "DR", error: 0 }
             }
         }
 
-        if (year === 0) return undefined
+        if (!inputDate.date) return undefined
 
-        let daysSinceCreate = this.#getDaysSinceCreation(year, month, days)
+        let daysSinceCreate = this.#getTargetDaysAndErrorFromString(inputDate.date)
+        if (daysSinceCreate == undefined) return undefined
 
-        return { display: display ?? this.#getDisplayForDaysSinceCreation(daysSinceCreate, "DR"), sort: daysSinceCreate, year: year, days: daysSinceCreate, isNormalizedDate: true, isHiddenDate: isHiddenDate, displayCY: this.#getDisplayForDaysSinceCreation(daysSinceCreate, "CY")};        
+        if (daysSinceCreate.error) inputDate.error = daysSinceCreate.error
+
+        let sort = daysSinceCreate.days
+        let actualDays = daysSinceCreate.days
+        if (daysSinceCreate.days < Number.MAX_SAFE_INTEGER && daysSinceCreate.days > 0) {
+            actualDays = inputDate.format == "DR" ? (daysSinceCreate.days + this.DROneDays) : daysSinceCreate.days
+            sort = actualDays + (isEnd ? inputDate.error : (inputDate.error * -1));
+        }
+
+        return {
+            display: this.#getDisplayForDate(actualDays, "DR", inputDate.error),
+            displayCY: this.#getDisplayForDate(actualDays, "CY", inputDate.error),
+            sort: sort,
+            days: actualDays,
+            error: inputDate.error,
+            isNormalizedDate: true,
+            isHiddenDate: inputDate.error === Number.MAX_SAFE_INTEGER
+        };
     }
 
 }
