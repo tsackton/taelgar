@@ -11,7 +11,7 @@ players: [Izgil Moonseeker, Robin, Viepuck, Celyn]
 >[[Cleenseau]] and vicinity
 >on Earth: January 8th, 2023
 
-Our session begins on a rainy evening in October with the party scattered -- [[Celyn]] and [[Viepuck]] at the [[The Fox’s Flagon]] and [[Izgil Moonseeker]] and [[Robin of Abenfyrd]] camped on the [[South Watch Road]].
+Our session begins on a rainy evening in October with the party scattered -- [[Celyn]] and [[Viepuck]] at the [[The Fox's Flagon]] and [[Izgil Moonseeker]] and [[Robin of Abenfyrd]] camped on the [[South Watch Road]].
 
 [[Celyn]] and [[Viepuck]] play dice for a bit in the evening, and hear some rumors about the [[Tragic Flood of the River Enst|tragic flood]]. In the morning, [[Celyn]] wanders to the fields on the north side of town while Najeer heads to [[Taviose]] to discuss something mysterious with [[Brot Starsearcher]]. 
 

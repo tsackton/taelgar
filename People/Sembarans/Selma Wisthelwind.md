@@ -8,10 +8,11 @@ species: human
 ancestry: Highlander
 gender: female
 affiliations:
-- {org: "The Fox’s Flagon", type: leader, title: Proprietor}
+- {org: "The Fox's Flagon", type: leader, title: Proprietor, start: 1712 }
 whereabouts:
 - {type: home, location: Ardlas}
-- {type: home, location: "The Fox’s Flagon"}
+- {type: home, start: 1709, end: 1711, location: Cleenseau}
+- {type: home, start: 1712, location: "The Fox's Flagon"}
 ---
 # Selma Wisthelwind
 >[!info]+ Biographical Info
