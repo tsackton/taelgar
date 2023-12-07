@@ -24,5 +24,15 @@ While historically the climate in this region was very different, in the current
 
 ## Major Features
 
+(roughly from west to east)
+
+- Myraeni Gap: a rough, hilly region between the Yeraad plains and the Dunmari Basin; the western border of the "Central Lowlands"
+- Darba Highlands: hilly region bordered by the Copper Hills, Darba Mountains, and Yuvanti. Rivers, monsoon rains, frequent hills. 
+- Nayan Floodplain: flat area west of the Yuvanti mountains; savannas, monsoons
+- Chaudi jungles: more elevation variation (in the west) than Nayan Floodplains, more year-round rain; centered on the Chaudi river, extending east along the coast to the ruins of Drankor. Becomes flat tropical lowlands along the sea of storms coast 
+- Dunmari Basin: the central Dunmari plains, including the Songara and Tokra areas, the Hara valley, Karawa, the Nashtkar, and the northwestern parts of the Garamjala. Hara canyons south of Askandi only outflow. 
+- Garamjala Plateau: high plateau between the Mahar and the Hara. Super dry, uninhabitable desert. 
+
+
 
 ### Real World Analogs
