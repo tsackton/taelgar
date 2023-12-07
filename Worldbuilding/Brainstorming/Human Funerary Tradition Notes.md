@@ -1,9 +1,3 @@
----
-tags: [status/unknown]
----
-
-**
-
 Human funeral traditions are somewhat varied, but are all rooted in a metaphysical truth that when a human dies their soul fades quickly from the Plane of Consciousness, but does not immediately disappear into nothingness, nor immediately gain everlasting life in some outer realm.
 
   

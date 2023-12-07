@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 ## Inhabitants of Ausson’s Crossing
 
 ### The Ausson Household

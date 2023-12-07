@@ -1,6 +1,3 @@
----
-tags: [notes/highschool]
----
 
 The Mockers:
 

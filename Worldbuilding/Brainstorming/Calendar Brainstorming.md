@@ -1,8 +1,3 @@
----
-tags: [status/unknown]
----
-
-
 
 Thinking a little bit about calendar systems (human only, for now).
 

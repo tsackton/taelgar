@@ -1,7 +1,3 @@
----
-tags: [status/needswork/wip]
----
-
 
 Some rough notes trying to synchronize and make canonical some basic rough notes about the various human people of Taelgar. Most of these groups still need names, and there is plenty of room for more subdivisions within most of these.
 
