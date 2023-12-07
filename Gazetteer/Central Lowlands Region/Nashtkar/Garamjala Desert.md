@@ -35,3 +35,5 @@ While the desert is mostly inhospitable, the [[Mahar]] drains an extensive regio
 ## Ecology
 
 The desert supports little life. Nonetheless, the occasional giant vulture or band of ogres eke out a living amongst the rocks and sand, and desert-adapted axebeaks hunt small rodents in the more hospitable regions on the edges of the desert. 
+
+%%SECRET[2]%%

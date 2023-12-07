@@ -1,7 +1,7 @@
-# Missing Part Of
+# Place with Part Of
 
 ```dataview
 TABLE length(file.inlinks) as Backlinks
-from #place where !partOf 
+from #place where partOf 
 SORT length(file.inlinks) DESC
 ```

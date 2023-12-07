@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/uptodate, status/unknown]
+tags: [place]
 campaignInfo:
 name: Wahacha
 typeOf: town
 subTypeOf: port
-partOf: Vermillion Isles
+whereabouts: Vermillion Isles
 ancestry: kenku
 ---
 # Wahacha

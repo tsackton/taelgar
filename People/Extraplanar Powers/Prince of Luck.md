@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Prince of Luck
 born:

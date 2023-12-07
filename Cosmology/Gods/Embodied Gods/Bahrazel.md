@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [deity, religion/dwarven, status/draft]
+tags: [deity, religion/dwarven, status/needswork/wip]
 displayDefaults: { defArt: the, ltItem: by}
 campaignInfo: []
 name: Bahrazel
