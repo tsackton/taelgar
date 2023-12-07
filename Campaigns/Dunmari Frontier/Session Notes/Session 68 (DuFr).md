@@ -29,7 +29,7 @@ We begin at dusk, at site of the crashed [[Vindristjarna|airship]], as the party
 
 ![[vindristjarna-crash-location.png]]
 
-Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the adamantine harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delawth scrys, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the Garamjala. 
+Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the adamantine harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delawth scrys, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the [[Garamjala Desert|Garamjala]]. 
 
 On the third day, November 27th, [[Riswynn]] and [[Seeker]] construct considerable quantities of gold and silver thread with [[Riswynn]]'s magic, to shape and forge the final piece of the control apparatus for [[Vindristjarna]]. [[Wellby]], however, sees a rider on the horizon, and heads to scout, finding [[Alesh]] riding towards the former site of the [[Stormcaller Tower]].
 
