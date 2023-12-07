@@ -68,6 +68,10 @@ Cavarrio's Chronicles of Drankor also records the line of emperors of Drankor, a
 | Calemna (m)                | Hkar             | died in battle                                                                                              | 1007       | 1011     |
 | Apollyon (m)               | Hkar             | Last Emperor of Drankor                                                                                                            | 1011       | 1059     |
 
+
+%% notes
+Eiphis the blind - founded University of Chardon, perhaps was overly focused on academic subjects and ignored the signs of the growing power of the Omnis Pura
+%%
 ## Culture
 
 As Drankor grew into a major power, then great empire, a few aspects of its culture stood out, and have remained associated with Drankor even after its fall. 

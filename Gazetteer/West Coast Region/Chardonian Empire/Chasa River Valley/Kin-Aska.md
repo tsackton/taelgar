@@ -1,13 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
-displayDefaults: {endStatus: destroyed }
+tags: [place, status/needswork/collate]
 campaignInfo: []
 name: Kin-Aska
 typeOf: settlement
 typeOfAlias: city
 destroyed: 0001
-partOf: Chasa River Valley
+whereabouts: Chasa River Valley
 ---
 # Kin-Aska
 >[!info]+ Information
@@ -17,3 +16,6 @@ partOf: Chasa River Valley
 
 A former city in the [[Chasa]] river valley, destroyed during the [[Blood Years]] in the [[Battle of Kin-Aska]]. The present-day [[Arendum]] is largely built on the ruins of Kin-Aska.
 
+%% confirm destroyed date with info on the wars in the west after the defeat of Cha'mutte %%
+%% confirm pre-Great-War culture here with West Coast notes%%
+%% clean up header formatting %%
