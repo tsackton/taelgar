@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, testcase, status/draft, status/unknown, status/factcheck]
+tags: [person, dufr/met, dufr/major, testcase, status/draft, status/unknown, status/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned , format: "<met:U> by <person:Q> on <target>, in <current:3Qr>"}
 name: Antonia

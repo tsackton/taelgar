@@ -4,11 +4,12 @@ tags: [place, status/images]
 campaignInfo:
 name: Uzgukhar
 typeOf: city
-partOf: Xurkhaz
+whereabouts: Xurkhaz
 ---
 # Uzgukhar
 >[!info]+ Information
-> A city in [[Xurkhaz]], the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Uzgukhar is the capitol and primary city of the kingdom of [[Xurkhaz]], home of the [[People of the Rainbow]]. It is a desert city, nestled between the [[Kulthul]] and the [[Drogar]] rivers, consisting largely of mud brick buildings decorated with colorful murals and intricate carvings. 
 ## Landmarks
