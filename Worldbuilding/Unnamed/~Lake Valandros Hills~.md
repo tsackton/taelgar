@@ -1,5 +1,5 @@
 ---
-tags: [place, status/namecheck, status/unknown]
+tags: [place, status/unknown]
 ---
 
 %% the hills west of [[Lake Valandros]] %%

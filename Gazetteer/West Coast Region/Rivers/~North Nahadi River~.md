@@ -1,4 +1,4 @@
 ---
-tags: [place, status/placestub, status/namecheck]
+tags: [place, status/unknown]
 typeOf: river
 ---

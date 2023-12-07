@@ -1,5 +1,5 @@
 ---
-tags: [place, status/namecheck]
+tags: [place, status/unknown]
 typeOf: river
 partOf: Chardonian Empire
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [place, status/namecheck, status/unknown]
+tags: [place, status/unknown]
 ---
 
 %% The large bay north of [[Mawakel Peninsula]] along the west coast

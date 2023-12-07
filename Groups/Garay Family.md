@@ -1,8 +1,9 @@
 ---
-tags: [organization/family, status/unknown]
+tags: [organization/family, status/needswork/notes]
 typeOf: family
 ---
 
+%% Some material from in-play I need to record here but only minimal canonical information %%
 
 %%^Campaign:None%%
 ### Members

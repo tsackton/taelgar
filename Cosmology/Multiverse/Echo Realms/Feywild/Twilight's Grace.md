@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 displayDefaults: {defArt: "" }
-tags: [place, status/namecheck, status/needswork/wip]
+tags: [place, status/namecheck, status/needswork/wip, status/tim]
 partOf: Feywild
 typeOf: realm
 ---
