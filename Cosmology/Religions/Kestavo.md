@@ -87,7 +87,7 @@ Other thoughts:
 
 one thing to think about: what is the afterlife / what happens to souls?   
   
-basic Taelgar metaphysics is that when you die, your soul goes to "The Land of the Dead" (in need of a better name), where it lingers and then fades, unless collected by a god (or demon or devil) within about 10 days (based on raise dead time limit).   
+basic Taelgar metaphysics is that when you die, your soul goes to "The [[Land of the Dead]]" (in need of a better name), where it lingers and then fades, unless collected by a god (or demon or devil) within about 10 days (based on raise dead time limit).   
   
 presumably the kestavo, not being powerful in their own right, don't have a "heaven".   
   

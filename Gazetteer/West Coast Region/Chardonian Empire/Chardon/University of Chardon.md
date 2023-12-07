@@ -1,13 +1,17 @@
 ---
 tags: [place, event-source, status/unknown]
 typeOf: university
-partOf: Chardon
+whereabouts: 
+- { type: home, start: 980, location: Chardon }
+founded: 980
 timelineDescriptor: University of Chardon
 typeOf: university
 ---
 # The University of Chardon
 >[!info]+ Summary
 > a university in [[Chardon]], [[Chardonian Empire|The the Chardonian Empire]]
+
+The University of Chardon is a famous center of learning and teaching, renowned as one of the great centers of magical knowledge in the world. 
 
 A great center of learning and teaching in Chardon, famous throughout Taelgar. Organized into the Chardonian Lecti, a series of undergraduate colleges, that employ masters to teach undergraduates. 
 

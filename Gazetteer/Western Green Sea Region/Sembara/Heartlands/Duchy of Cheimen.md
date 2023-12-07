@@ -1,14 +1,15 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/unknown]
 campaignInfo:
 name: Duchy of Cheimen
 typeOf: duchy
-partOf: Sembara
+whereabouts: Heartlands
 ---
 # The Duchy of Cheimen
 >[!info]+ Information
-> A duchy in [[Sembara]], the [[Western Green Sea Region]]
-
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
 
