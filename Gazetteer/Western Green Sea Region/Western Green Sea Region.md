@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/needswork]
 name: Western Green Sea Region
-partOf: Taelgar
+whereabouts: Taelgar
 typeOf: region
 ---
 # The Western Green Sea Region

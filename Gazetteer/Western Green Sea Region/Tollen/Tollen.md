@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Free City of Tollen
 typeOf: city
-partOf: Western Green Sea Region
+whereabouts: Western Green Sea Region
 aliases: [Free City of Tollen, Tollen]
 ---
 # The Free City of Tollen

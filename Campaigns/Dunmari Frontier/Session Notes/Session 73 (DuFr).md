@@ -28,7 +28,7 @@ End: early afternoon, Dec 10th
 - [[Kadmos]]' spell gem than can cast conjure greater demon, kept by the party
 - [[Kadmos]]' shadowfell brand tattoo, taken by [[Kenzo]]
 - [[Kadmos]]' [[Rod of the Pact Keeper]], an iron rod decorated with a bejeweled skull, taken by [[Delwath]]
-- The [[Ever Spinning Top]] from [[Agata's Lair]], recovered by the party
+- The [[Ever Spinning Top]] from [[Agata's lair]], recovered by the party
 - [[Antonia]]'s [[Chime of Opening]], taken by the party
 - A large number of potions and minor items:
 	- 1 healing potion (superior)

@@ -371,5 +371,5 @@ The following mundane items are kept on [[Vindristjarna]]:
 ### Stolen or Lost
 
 - [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 73 (DuFr)]]
--  A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's Lair]].
--  Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's Lair]].
+-  A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].
+-  Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].

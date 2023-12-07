@@ -58,7 +58,7 @@ Over the course of the next week, the party falls into a routine as they hurry a
 
 ![[dunmar-november-1748.png]]
 
-[[Riswynn]] prays each morning to the Baharazel, asking them to free [[Havdar]] of the curse that binds him to the [[Medusa Blade]], taken from [[Agata's Lair]] and gifted to [[Havdar]] by the party. As the party travels, they send messages to [[Johar]] via sending, and [[Delwath]] keeps an eye on the movements of [[Kadmos]] and company via scrying. 
+[[Riswynn]] prays each morning to the Baharazel, asking them to free [[Havdar]] of the curse that binds him to the [[Medusa Blade]], taken from [[Agata's lair]] and gifted to [[Havdar]] by the party. As the party travels, they send messages to [[Johar]] via sending, and [[Delwath]] keeps an eye on the movements of [[Kadmos]] and company via scrying. 
 
 From brief conversations, they learn that [[Johar]] is alive, and well enough treated, although he has not been allowed to see Samraat [[Nayan Karnas]], apparently because of the Samraat's (perhaps justifiably?) paranoid belief that [[Agata]] is somehow behind [[Sura]]'s reemergence. Not trusting [[Johar]] to be who he says he is, Karnas has summoned a wizard from [[Chardon]] and a mystai of [[Sonkar]] who are both gifted with the power of true sight, who will vouch for [[Johar]] before he can speak with Karnas. From brief visions via scrying, they learn that [[Kadmos]] continues east, towards [[Kharsan]], through the [[Garamjala Desert]].
 
