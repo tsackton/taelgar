@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 ## A Few Basic Truths
 
 Starting with a few basic observations about the world that should be maintained. 

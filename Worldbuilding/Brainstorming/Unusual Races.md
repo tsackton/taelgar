@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 
 # Deva
 Exist, not sure about lore yet.

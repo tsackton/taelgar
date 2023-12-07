@@ -1,6 +1,4 @@
----
-tags: [status/unknown]
----
+
 
 Working Document – Cosmology, Magic, Races, and Religion 
 

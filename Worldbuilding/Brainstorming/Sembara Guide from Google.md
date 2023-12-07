@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 
 Sembara: A Guide
 

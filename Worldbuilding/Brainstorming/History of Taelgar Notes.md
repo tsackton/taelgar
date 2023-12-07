@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 
 Age of Myth and Age of Creation mostly solid. "Third Age" mostly solid, at least in broad strokes. "Fourth Age" and especially "Fifth Age" not necessarily canon. 
 

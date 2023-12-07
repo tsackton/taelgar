@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 Thinking a little bit about whaling in Taelgar.
 
 Basic idea:

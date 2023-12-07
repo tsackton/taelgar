@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 
 Before the King <name>, Sembara was a collection of warring principalities,
  with several kings, princes, and dukes, all tracing their power back to

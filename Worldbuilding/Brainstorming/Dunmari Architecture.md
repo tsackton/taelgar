@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 ## Aatmajic
 
 The early architecture of the Dunmari is characterized by intricate reliefs, often depicting stories, and patterned designs.  Buildings tend to symmetric and orderly designs with a sense of purpose, especially emphasizing the pentagonal motif of the Divine Siblings. Buildings tend not to have smooth, plain surfaces and designs emphasis the prophetic nature of the Dunmari people and the closeness of the divine. Emphasized the natural, often not using color and relying on reliefs.

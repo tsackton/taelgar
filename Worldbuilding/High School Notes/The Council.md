@@ -1,6 +1,4 @@
----
-tags: [status/unknown]
----
+
 
 There are nine members of the council, but only three are actively involved in war preparations.  Taelisin, Haldir and Ragnar are helping actively: Taelisin and Haldir in Chardon and Ragnar in Sembia.  The six members not active are the following: 
 

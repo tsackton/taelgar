@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 
 A few rough notes I was thinking about while I was driving—  
   

@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 
 The breadbasket of Sembara and the merchant houses of Tollen are the twin economic engines of the Western [[Green Sea]].
 

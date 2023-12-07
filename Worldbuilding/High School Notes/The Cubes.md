@@ -1,6 +1,4 @@
----
-tags: [status/unknown]
----
+
 
 Each cube is extremely light, weighing no more than 10 grams.  They are no more than eight inches by eight inches square.  All the cubes except one have smooth, translucent surfaces, which shift color in what appear to be random patterns.  One cube is gray, one blue, one green, one red, one yellow, one purple, one white (with multicolored patterns), and one is brown.  To open these cubes requires a key of the same color as the cube to be placed on the cubes surface.  The key can be almost anything, but it must be flexible (no rocks or swords) and it must have at least a residue of magic about it.  When these cubes are opened, they dissipate into gas.  
 

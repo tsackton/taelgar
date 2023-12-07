@@ -1,6 +1,4 @@
----
-tags: [status/unknown]
----
+
 
 Sembian Troop Types: 
 

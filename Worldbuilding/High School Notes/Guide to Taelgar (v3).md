@@ -1,6 +1,4 @@
----
-tags: [status/unknown]
----
+
 
 (from an email about the 2017 Taelgar reunion)
 # The Guide to the World of Taelgar

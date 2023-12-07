@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 # Addermarch
 
 Addermarch is among the wealthier and more prosperous of the southern tier of Wild Marches. It is largely rich agricultural land, supporting crops and especially fruit trees, which grow well especially in the higher elevations. Two major agricultural centers -- one in the upper river valley near Adderfell, the other in secondary river valley near Dunwick area. Also produce timber, others raw materials.

@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-**
 
 ### Rough Notes
 

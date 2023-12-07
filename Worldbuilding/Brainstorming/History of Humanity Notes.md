@@ -1,6 +1,4 @@
----
-tags: [status/unknown]
----
+
 
 **Rough Notes, and drawing on demographics from [here](https://docs.google.com/spreadsheets/d/1rMp9eP617CMDdkDgmDRPpOOUbO0TjTY17578DK2wPwo/edit#gid=1269516051).
 
