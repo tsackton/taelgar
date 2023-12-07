@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
-partOf: Taelgar
+whereabouts: Taelgar
 typeOf: region
 name: Desolation of Cha'mutte
 ---
 # The Desolation of Cha'mutte
 >[!info]+ Information
-> A region in Taelgar
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Desolation of Cha'mutte is a large area, spanning parts of the [[Central Lowlands Region]] and the [[Western Green Sea Region]], that is magically corrupted as a result of the [[First Plague]] and the [[Great War]]. 
 
@@ -27,3 +29,5 @@ Nashtkar is close to Plaguelands and really is kind of the western edge of the P
 
 Prior to the Great War, the Plaguelands/Nashtkar/Garamjala didn't exist, and the Desolation of Cha'mutte was just the area around Drankor. The cataclysm that raised the Yuvanti Mountains also created the Garamajala, but this is largely due to weather patterns not magic. The Plaguelands itself, and the Nashtkar, is a result of the destruction of Isingue and whatever magic was there. 
 %%
+
+%%SECRET[1]%%

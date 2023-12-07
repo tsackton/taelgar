@@ -1,6 +1,6 @@
 ---
 tags: [place/ward, status/needswork/notes]
-partOf: Tollen
+whereabouts: Tollen
 displayDefaults: { defArt: ""}
-typeof: ward
+typeOf: ward
 ---

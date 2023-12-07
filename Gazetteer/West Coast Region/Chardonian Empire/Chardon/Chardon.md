@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/draft, status/unknown]
 name: Chardon
 typeOf: city
-partOf: Chardonian Empire
+whereabouts: Chardonian Empire
 ---
 # Chardon
 >[!info]+ Information
