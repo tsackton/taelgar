@@ -119,7 +119,7 @@ whereabouts:
 >
 >[[Sura]], from a prominent family from around [[Darba]], raised in a traditional lifestyle but with cultural and familial ties to the west, was widely seen as being presented and prepared to take over as Samraat on Nayan Marathu's passing. 
 >
->[[Sura]] disappeared between [[Bas Udda]] and [[Askandi]], when traveling with the royal court. Marathu insisted on leading the search for her personally, but was tragically killed soon after in an [[Orcs|orc]] ambush on the edge of the Garamjala. [[Sura]]'s brother Karnas, who was then the general of the southern armies (based in western [[Dunmar]]), was quickly crowned Samraat, and sent an army into the desert, but that force bogged down quickly and few returned. Soon the story became that [[Sura]] brought it upon herself traveling in the eastern wilds. 
+>[[Sura]] disappeared between [[Bas Udda]] and [[Askandi]], when traveling with the royal court. Marathu insisted on leading the search for her personally, but was tragically killed soon after in an [[Orcs|orc]] ambush on the edge of the [[Garamjala Desert|Garamjala]]. [[Sura]]'s brother Karnas, who was then the general of the southern armies (based in western [[Dunmar]]), was quickly crowned Samraat, and sent an army into the desert, but that force bogged down quickly and few returned. Soon the story became that [[Sura]] brought it upon herself traveling in the eastern wilds. 
 >
 >**Rumors About Other Bad Stuff Happening While [[Shakun]]'s Protection Was Down**
 >

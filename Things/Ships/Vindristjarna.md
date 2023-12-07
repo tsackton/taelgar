@@ -66,7 +66,7 @@ You have attracted a considerable retinue of followers on Vindristjarna, as well
 
 [[Faldrak Bronzehammer]] (he/him). A dwarven an artificer, former adventurer, creator of magic items, and aspiring skyship captain. Runs the workshop when Seeker is not around, and wants to learn to drive the ship.
 
-[[Amil]] (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the Garamjala desert before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
+[[Amil]] (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [[Garamjala desert]] before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
 
 [[Egnir|Égnir]] (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 

@@ -16,7 +16,7 @@ The Desolation of Cha'mutte includes:
 - The [[Nashtkar]], the blasted plains, north of the [[Garamjala Desert|Garamjala]] and east of [[Dunmar]], a land of rocky canyons, twisted hills, and little water, on the western edge of the [[Plaguelands]]
 - The [[Plaguelands]], in the [[Istaros Watershed]], centered on the ruined city of [[Isingue]].
 
-While little of the desolation is readily habitable, the areas around the ruined cities of Drankor and Isingue are widely perceived as the most dangerous and cursed. The Garamjala, which runs broadly west to east, well north of Drankor and well south of Isingue, is dry and hot but significantly less magically dangerous, and is home to a few brave or foolhardy souls.  
+While little of the desolation is readily habitable, the areas around the ruined cities of Drankor and Isingue are widely perceived as the most dangerous and cursed. The [[Garamjala Desert|Garamjala]], which runs broadly west to east, well north of Drankor and well south of Isingue, is dry and hot but significantly less magically dangerous, and is home to a few brave or foolhardy souls.  
 
 %% notes
 Extend of the desolation to the east is undecided. Garamjala probably doesn't connect to the eastern desert, and probably peters out around the ancient border of Drankor. Drankorian curse area doesn't extend past the bay of Drankor to the east. Southern edge of Garamjala is probably somewhere around or just north of the confluence of the Mahar and Kharja. 

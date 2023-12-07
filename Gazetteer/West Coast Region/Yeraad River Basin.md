@@ -1,8 +1,8 @@
 ---
 tags:
   - place
-  - status/unknown
-partOf: Chardonian Empire
+  - status/needswork/notes
+whereabouts: Chardonian Empire
 ---
 
 %%%
