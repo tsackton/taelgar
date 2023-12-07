@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown, status/namecheck]
+tags: [place, status/unknown]
 ---
 
 %%

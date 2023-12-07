@@ -1,3 +1,3 @@
 ---
-tags: [status/needswork, status/namecheck]
+tags: [status/needswork]
 ---

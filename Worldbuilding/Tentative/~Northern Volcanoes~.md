@@ -1,5 +1,5 @@
 ---
-tags: [place, status/namecheck, status/unknown]
+tags: [place, status/unknown]
 ---
 
 %% referenced in several geography documents on GDrive as a "chain of volcanoes" in the far north, around [[Pandar]]/northern [[Sentinel Range|Sentinels]]

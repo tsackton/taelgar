@@ -1,5 +1,5 @@
 ---
-tags: [place, status/namecheck, status/unknown]
+tags: [place, status/unknown]
 typeOf: plains
 partOf: Chardonian Empire
 aliases: [Voltara Plains]
