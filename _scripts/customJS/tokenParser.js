@@ -105,7 +105,7 @@ class TokenParser {
                     // we have a;b; need to first check if a is a filter or a format
                     if (checkStringChars(filterFormatString[0], filterChars)) {
                         // part a is a filter, part b is a format
-                        filter = filterFormatString[0];
+                        filter += filterFormatString[0];
                         format = filterFormatString[1];
                     } else if (checkStringChars(filterFormatString[0], formatChars)) {
                         // part a is a format, part b is a firstFormat
