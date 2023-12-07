@@ -1,12 +1,14 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 name: Niva
 typeOf: river
-partOf: Vostok
+whereabouts: Vostok
 aliases: [River Niva, Niva River]
 ---
 # Niva
 >[!info]+ Information
-> A river in [[Vostok]], the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 

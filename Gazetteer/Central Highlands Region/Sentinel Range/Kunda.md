@@ -1,9 +1,11 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/tim]
 name: Kunda
 typeOf: village
 partOf: Indalas
 ---
 # Kunda
 >[!info]+ Information
-> A village in [[Sentinel Range|Indalas]], [[Central Highlands Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`

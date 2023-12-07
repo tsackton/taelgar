@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 name: Koldo
 born: 1512
 species: lizardfolk
@@ -17,3 +17,5 @@ whereabouts: Ganboa
 A reclusive druid, very rarely talks to outsiders.
 
 ![[lizardfolk-koldo.png]]
+
+%% Invented as a potential NPC for Clee to meet, never did. Kept because I liked the picture %%
