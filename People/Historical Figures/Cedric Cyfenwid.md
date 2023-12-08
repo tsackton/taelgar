@@ -1,7 +1,5 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags: [person, historical, status/needswork/notes]
 name: Cedric Cyfenwid
 born: 1598
 species: human

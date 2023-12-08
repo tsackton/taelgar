@@ -1,6 +1,6 @@
 ---
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.25
+tags: [person, status/needswork/notes]
 campaignInfo: []
 name: Narrisa de Abadelle
 born: 1682
@@ -9,10 +9,11 @@ ancestry: Sembaran
 gender: female
 affiliations: [Order of the Charitable Wanderer]
 ---
-# Narrisa de Abadelle
->[!info]+ Biographical Summary
->human (Sembaran), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+# Narrisa De Abadelle
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 From Maseau, member of the order of charitable wanderer. trapped in feywild for a year in amberglow
 

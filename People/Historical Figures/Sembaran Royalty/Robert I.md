@@ -1,18 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-campaignInfo: []
+tags: [historical, person/ruler, status/needswork/notes]
 name: Robert I
 born: 1660
 species: human
 ancestry: Sembaran
 gender: male
-reignStart: 1713-09-12
 died: 1720-06-15
-leaderOf:
-- {place: Sembara}
 title: King
-affiliations: [{org: House of Sewick, type: primary}]
+affiliations: 
+- {org: House of Sewick, type: primary}
+- {place: Sembara, start: 1713-09-12 }
 ---
 # King Robert I
 >[!info]+ Biographical Info

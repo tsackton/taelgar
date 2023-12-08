@@ -1,12 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person,  status/unknown]
+tags: [historical, person]
 name: Eloise
 born: 1486
 species: human
 ancestry: Sembaran
 gender: female
-reignStart:
 died: 1562
 affiliations: [{org: House of Sewick, type: primary}]
 ---
