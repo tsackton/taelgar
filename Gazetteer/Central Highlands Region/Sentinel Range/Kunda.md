@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place]
 name: Kunda
 typeOf: village
 partOf: Indalas
