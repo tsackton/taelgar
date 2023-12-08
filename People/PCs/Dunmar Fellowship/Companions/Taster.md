@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, person, status/tim]
+tags: [pc/companion, person]
 displayDefaults: { wOrigin: "", wOriginU: "" }
 name: Taster
 born:
