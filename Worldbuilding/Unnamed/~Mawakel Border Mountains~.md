@@ -2,5 +2,5 @@
 tags: [place, status/unknown]
 ---
 
-%% the mountains between [[Mawakel Peninsula]] and [[Tawir Forest]]
+%% the mountains betwee[](Mawakel%20Peninsula.md)]] an[](Tawir%20Forest.md)]]
 %%

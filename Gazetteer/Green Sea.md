@@ -20,7 +20,7 @@ The prevailing winds tend to favor sailing east in the winter, and west in the s
 %% Climate explanation - probably too much detail
 The Green Sea forms a rough triangle, with the western point at about 40 degrees North, and the eastern edges stretching from roughly 60 degrees North to roughly 30 degrees North. The Green Sea is split into eastern and western halves, divided by [[Irrla]].
 
-In the summer, the land to the west heats up and the zone of high pressure shifts polarward. In the [[western Green Sea]], a monsoon wind blows from the east, bringing summer rains to [[Sembara]] and [[Vostok]], while in the east, light and variable winds shift northward. In the south, the powerful trade winds blow from the open ocean to the east. 
+In the summer, the land to the west heats up and the zone of high pressure shifts polarward. In the [[Western Green Sea]], a monsoon wind blows from the east, bringing summer rains to [[Sembara]] and [[Vostok]], while in the east, light and variable winds shift northward. In the south, the powerful trade winds blow from the open ocean to the east. 
 
 In the winter, a zone of high pressure tends to sit over the southernmost parts of the Green Sea (from about 30 N - 35 N), causing light and variable trade winds south of the [[Irrla]], and a dry climate with little precipitation, while strong westerlies blow north of about 35 N. 
 
