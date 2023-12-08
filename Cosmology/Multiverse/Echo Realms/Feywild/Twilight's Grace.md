@@ -9,7 +9,12 @@ typeOf: realm
 >[!info]+ Information
 > A realm in the [[Feywild]], the [[Echo Realms]]
 
-The realm of [[Archfey Ethlenn]]. A land of perpetual twilight, basking under a rising bright rising moon. 
+The realm of [[Archfey Ethlenn]]. A land of perpetual twilight, but full of sparkling lights, music, and games.
 
-%% Note for Tim:  unclear if description of bright rising moon is correct - is the moon also static in the fey wild
+%% 
+
+Note: Could potentially have a moonlight connection, but unclear if there is a moon in the Feywild. For now avoid reference/mention of moon until this is determined.
+
+Potential imagery: the horizon glows with faint reflected sunlight, as of an hour after sunset, and the stars above are twinkling and starting to appear,  with the sky above much darker and full of a spray of milkly way type stars
+
 %%
