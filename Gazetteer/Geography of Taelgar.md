@@ -20,7 +20,7 @@ The [[~Northern Continent~]] is marked by four major, continent scale features:
 
 Broadly then, the known world can be divided up into several major regions:
 
-* The [[West Coast Region|West Coast]], the coastal lands and peninsulas on the western shores of the [[~Northern Continent~]] including the [[~Emerald Bay Peninsula~]], the [[Mawakel Peninsula]], and the lands along the shores of the [[~North Bay~]], and as far south as the [[Nevos Sea]]
+* The [[West Coast Region|West Coast]], the coastal lands and peninsulas on the western shores of the [[~Northern Continent~]] including the [[~Emerald Bay Peninsula~]], the [[Mawakel Peninsula]], and the lands along the shores of the [[~North Bay~ 1]], and as far south as the [[Nevos Sea]]
 * The [[Chasa]]-[[Nahadi]] river basin, flowing from the high peaks of the [[Sentinel Range|Sentinels]] towards the [[Endless Ocean]]
 * The [[Dunmari Basin]] and the 
 
