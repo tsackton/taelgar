@@ -1,5 +1,5 @@
 ---
-tags: [place, status/notes, status/unknown]
+tags: [place, status/needswork/notes]
 campaignInfo: []
 name: Breva
 typeOf: realm

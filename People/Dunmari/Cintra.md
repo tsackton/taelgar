@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/met, dufr/major, status/notes, status/unknown]
+tags: [person, status/needswork/notes]
 campaignInfo:
 name: Cintra
 born: 1705

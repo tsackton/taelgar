@@ -5,7 +5,7 @@ campaignInfo: []
 name:
 typeOf: oasis
 partOf: Eastern Dunmar
-aliases: [Gomat]
+aliases: [Gomat, Gomat Oasis]
 ---
 # Gomat
 >[!info]+ Information

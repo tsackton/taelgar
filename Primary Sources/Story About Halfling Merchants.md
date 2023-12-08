@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 Imagine you are a glassmaker in Tyrwingha. Your glassware is popular, and you have regular contact with a Tyrwinghan factor to sell 500 wineglasses a season for a steady price. It is a decent living, but you aren't going to be rich from this trade. 
 
 Then, one day, a halfling caravan shows up. You've never met them before, but you remind yourself they aren't just humans who travel a lot. They remember things no one should, and they speak to each other telepathically. You never know what they are saying to each other, because they don't talk out loud, except when they are talking to you. So maybe they are standing there quietly looking at your wares, and asking all their relatives if you are a good or bad person. How would you know? They are just standing there, silent, waiting. So you give them a good deal, in case your ancestors wronged them, and you need to balance the scales. 

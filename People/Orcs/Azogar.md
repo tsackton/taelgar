@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [status/uptodate, person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -9,16 +10,16 @@ species: orc
 ancestry: free
 gender: male
 title: Loremaster
-affiliations: [The People of the Rainbow]
+affiliations: [{org: The People of the Rainbow, type: primary}]
 whereabouts: Uzgukhar
 ---
 # Loremaster Azogar
 >[!info]+ Biographical Info
-> free [[Orcs|orc]], he/him
+> A free [[Orcs|orc]] (he/him), of the The People of the Rainbow
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on December 9th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
->> Member of: The People of the Rainbow
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 9th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
 Azogar is an old [[Orcs|orc]] loremaster from [[Xurkhaz]], one of the unchained [[Orcs|orcs]] of the [[People of the Rainbow]]. He has dark green skin, which is almost black in patches, and long, but thinning white hair. He is frail and uses a cane to walk. Generally prefers simple robes and understated dress. Although he speaks with a wavering voice, he is clear and precise in this language. 
 

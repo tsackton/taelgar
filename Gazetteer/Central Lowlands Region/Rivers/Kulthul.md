@@ -1,4 +1,4 @@
 ---
-tags: [status/placestub, place]
+tags: [status/stub, place]
 typeOf: river
 ---
