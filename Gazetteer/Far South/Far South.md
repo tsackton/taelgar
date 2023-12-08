@@ -17,7 +17,7 @@ Largely untouched by the Great War, the lands of the south contains deserts, jun
 ## Boundaries
 
 - To the north, this region is bordered by the northern edge of the [[~Great Desert~]].
-- To the east, this region is bordered by the [[~Eastern Ocean~]].
+- To the east, this region is bordered by the [[~Eastern Ocean~ 1]].
 - To the west, this region is bordered by the eastern edge of the [[Sea of Storms]] and the hills and badlands that mark the eastern edge of the [[Mahar-Istaros Watershed]] 
 
 Little is known about the southern reaches of this region.
