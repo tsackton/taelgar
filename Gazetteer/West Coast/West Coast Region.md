@@ -16,7 +16,7 @@ partOf: Taelgar
 
 The West Coast Region includes the entirety of the [[Chardonian Empire]], as well as the [[Nevos Sea]]area, the [[Mawakel Peninsula]], and the [[~Voltara Plains~]], plus the coastal regions west and north of the [[~Voltara Plains~]]. It also includes the islands in the [[Endless Ocean]]. 
 
-- To the north, this region is bordered by the mysterious cold of the [[Far North Region]]. 
+- To the north, this region is bordered by the mysterious cold of the [[Far North]]. 
 - To the east, this region is bordered by the [[~North Nahadi River~]], [[Ainumarya]], and the [[Myraeni Gap]].
 - To the south, this region is bordered by the [[Sea of Storms]]and the ocean beyond the [[Nevos Sea]]
 - To the west, this region is bordered by the [[Endless Ocean]]

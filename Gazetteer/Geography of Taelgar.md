@@ -14,8 +14,8 @@ The northern continent is marked by three major, continent scale features. In th
 %% comment - I've put the Deno'qai forests in the Central Highlands, not West Coast; mostly this is based on river borders but many of the rivers don't have names yet, so at some point this will need to be updated.%%
 - The [[Western Green Sea Region]], stretching from the [[Sentinel Range|Sentinels]] west to [[Irrla]] in the [[Green Sea]]
 - The [[Eastern Green Sea Region]]], stretching from [[Irrla]] east to the mysterious [[~Eastern Islands~]]
-* The [[Far North Region]], covering the frozen north 
-* The [[South Region]], stretching from the [[~Great Desert~]] south to the [[~Southern Ocean~]]
+* The [[Far North]], covering the frozen north 
+* The [[Far South]], stretching from the [[~Great Desert~]] south to the [[~Southern Ocean~]]
 * The [[Central Lowlands Region]], stretching from the southern end of [[Sentinel Range|Sentinels]] to the [[Sea of Storms]]
 * The [[Central Highlands Region]], including the [[Sentinel Range]] and the areas on the western slopes of the [[Sentinel Range|Sentinels]] 
 

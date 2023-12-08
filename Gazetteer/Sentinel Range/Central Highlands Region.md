@@ -18,7 +18,7 @@ The Central Highlands Region is a land of contrasts, from vast forests dominated
 
 The Central Highlands includes the [[Sentinel Range]], as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the [[~North Nahadi River~]].
 
-- To the north, this region is bordered by the cold polar regions of the [[Far North Region]]. 
+- To the north, this region is bordered by the cold polar regions of the [[Far North]]. 
 - To the east, this region is bordered by the [[Highland Kingdoms]], the [[The Western Marches]] of [[Sembara]], and the [[Refounded Alliance of Aurbez]]. 
 - To the south, this region is bordered by the plains of [[Dunmar]]. 
 - To the west, this region is bordered by the [[Chardonian Empire]], the northern hinterlands of the [[Chardonian Empire]], and the coastal north. 
@@ -32,7 +32,7 @@ Update boundaries of what is considered "once part of Ainumarya" in forest notes
 
 - [[Sentinel Range]]: The [[Sentinel Range]] is the dominate feature of the Central Highlands Region, stretching 2300 miles from volcano mountains of the former kingdom of [[Pandar]] in the north, to the northern foothills of the Dunmari plains in the south. 
 	- The northern section, from roughly [[Pandar]] south past the [[Forest of Nightmares]] to the area northeast of the [[Blackwater Fens]], is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
-		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (int he [[Far North Region]]). The volcanic mountains of [[Pandar]] share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
+		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (int he [[Far North]]). The volcanic mountains of [[Pandar]] share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
 	- The middle section, roughly the area starting west of [[Zovcka]] and running south to the desolation west of the [[Western Marches]], is rocky and very tall, with extensive underground development associated with the [[Dwarven Kingdoms]], and more dangerous things. These are stereotypical high mountains. 
 		- ***Real world analogs:*** This region stretches from roughly 40 degrees N to 50 degrees N. This is a classic high mountain range, sharing features with the northern Rockies, the Alps, and Patagonia, but even the tallest peaks are unlikely to reach the heights of something like the Himalayas in the real world. 
 	- The southern section, covering the area that was once the dwarven kingdom of [[Ardith]], from roughly west of [[Duchy of Maseau|Maseau]] or [[Refounded Alliance of Aurbez]] to the end of the [[Sentinel Range]] north of [[Dunmar]], is full of high, barren peaks that rise sharply from the plains, and is generally dry, with arid regions to the west and south. 
