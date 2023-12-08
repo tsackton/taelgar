@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/unknown]
+tags: [historical, person/ruler, status/needswork/collate]
 name: Arryn II
 born: 1601
 species: human
@@ -10,8 +10,8 @@ died: 1648-10
 title: King
 affiliations: 
 - {org: House of Sewick, type: primary}
-- {place: Sembara, start: 1601}
-- {place: Tyrwingha, start: 1601}
+- {place: Sembara, start: 1602}
+- {place: Tyrwingha, start: 1602}
 ---
 # King Arryn II
 >[!info]+ Biographical Info
@@ -21,4 +21,4 @@ affiliations:
 
 The only child of [[Blanche II]]. His two daughters, [[Charlotte II]] and [[Cece I]] both rule the united realm of Sembara and Tyrwingha.
 
-%% killed by hobgoblins, daughter died or injuries from same attack %%
+%% killed by hobgoblins, daughter died or injuries from same attack ; collate some info from timeline here %%

@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/notes, status/needswork/wip]
+tags: [status/needswork/notes, status/needswork/wip, place]
 displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Drankorian Empire

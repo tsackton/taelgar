@@ -1,9 +1,9 @@
 ---
-tags: [background, status/unknown]
+tags: [background, status/tim]
 ---
 # The Elven Cycle of Generations
 
-The elven cycle of generations, know as the *ka*, is the result of elves very long lifespan, but limited time when they can bear children. Elves are only fertile for about 30 years, when the roots of Aldanor tie them to the material plane, but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from when the planes were separated and the material plane created. 
+The elven cycle of generations, know as the *ka*, is the result of elves very long lifespan, but limited time when they can bear children. Elves are only fertile for about 30 years, when the roots of Aldanor tie them to the [[Material Plane]], but can live to be hundreds, or even thousands, of years old. This means that each generation is distinct and non-overlapping, and the elves count these, numbering from when the planes were separated and the Taelgar was created. 
 ## *Mela and Leya*
 
 Each new *ka* begins with the *mela*, when the the Living Tree, [[Aldanor]], puts roots into the material world. All elves feel the pull of this connection to Taelgar, as it grows over the first few years of the *mela*. An elf experiencing their first *mela* feels a particularly strong pull towards Aldanor, and those who accept this connection are able to bear children, until the *mela* ends. Elven children are born only during the *mela*, and as it ends they enter the Dreaming, the 50 year childhood of dreams and magic during which elves sleep for the only time in their lives. 
@@ -11,19 +11,22 @@ Each new *ka* begins with the *mela*, when the the Living Tree, [[Aldanor]], put
 The Dreaming ends with the Rite of Awakening, which marks the beginning of the *leya*, the time when [[Elmerca]], the Wild Star, is dominant, and elves feel a pull to disperse, to journey. Children are considered adults when the experience their first Awakening, and those new adults are encouraged to travel, until the *mela* and the Rite of Return pulls them back, and the cycle repeats. 
 ## Aging and Leaving
 
-The pull of the *mela* gets fainter and fainter as elves age. Elves in their first *mela* feel the pull most strongly, and many become parents. In their second, and third mela, many elves take on roles as nurturers of children and elven society, or caretakers of the world. By their fourth *mela*, some elves begin to stop feeling the roots of Aldanor, the pull of Taelgar, and many begin to forget the past, or even pass on entirely. By their fifth *mela*, many elves being to depart, and only those who have a strong reason to stay connected to the world remain for their 6th *mela* and beyond to become ancients. 
+The pull of the *mela* gets fainter and fainter as elves age. Elves in their first *mela* feel the pull most strongly, and many become parents. In their second, and third mela, many elves take on roles as nurturers of children and elven society, or caretakers of the world. By their fourth *mela*, some elves begin to stop feeling the roots of Aldanor, the pull of Taelgar, and many begin to forget the past, or even pass on entirely. Elves of this age and older are considered elders. By their fifth *mela*, many elves being to depart, and only those who have a strong reason to stay connected to the world remain for their 6th *mela* and beyond to become ancients. 
 
-%% notes
+%% Note on older elves
 
-If you are ka X, your zeroth mela is when you are born, and your first leya is the leya of X
-1st mela is ka+1, you are ~160 and remember the last 80 years
-2nd mela is ka X+2, you are ~320 and remember the last ~240 years
-3rd mela is ka X+3, you are ~480 and remember the last 400 years; this is when you are an elder; some become unifiers but at this point most elves don't have formal roles in society, just "elders",
-4th mela is ka X+4, you are ~640 and remember the last 560 years, but the first 160 are often getting hazy, this when the age of forgetting begins, and some start leaving
-5th mela is ka X+5, you are ~800, and the age of leaving is in full swing; most elves have left by the end of their 5th leya (at 960)
-6th mela is ka X+6, these are truly ancients and rare
+Very few elves stay on Taelgar for more than 6 ka (960 years) - that is, by the end of their 5th ka, most elves have departed. This means that in the current (~1700s) time, elves of the 31st ka and older are quite rare and the 32nd ka is relatively rare.
 
-Current time in Taelgar is 37th leya; elves of the 31st ka and earlier are very rare, considered ancients; elves of 32nd are rare (these are in the middle of the age of leaving); elves of the 33rd ka are in the age of forgetting and the oldest of the elders; elves of the 34th ka are the bulk of the elders and unifiers
+Elves in their fourth and later ka are usually in the "age of forgetting" and often don't remember their earliest years very well. That means that the core memories of most elves are approximately the 400 years. 
+
+Quick table of memories:
+
+* 37th ka, remember ~80 years ago
+* 36th ka, remember ~240 years (back to before the Great War)
+* 35th ka, remember ~400 years, starting to be considered "an elder"
+* 34th ka, remember ~560 years, age of forgetting beginning, the first couple hundred years hazy
+* 33th ka, remember ~720 years, but quite likely to be deep in the age of forgetting and many older memories might be hazy
+* 32nd ka or older is quite rare
 
 %%
 ## The Years of the *ka*

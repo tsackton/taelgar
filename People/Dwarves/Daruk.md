@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/unknown]
+tags: [person, historical, status/tim]
 campaignInfo:
 name: Daruk
 born: 1323
