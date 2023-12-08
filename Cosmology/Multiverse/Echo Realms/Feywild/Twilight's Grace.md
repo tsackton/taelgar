@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.20
 displayDefaults: {defArt: "" }
-tags: [place, status/namecheck, status/needswork/wip, status/tim]
+tags: [place, status/needswork/wip, status/tim]
 partOf: Feywild
 typeOf: realm
 ---
@@ -11,8 +11,5 @@ typeOf: realm
 
 The realm of [[Archfey Ethlenn]]. A land of perpetual twilight, basking under a rising bright rising moon. 
 
-%% Note for Tim: Name was under some debate but is likely to need to be canonical in my next session of Cleenseau; needs confirmation 
-
-Also unclear if description of bright rising moon is correct - is the moon also static in the fey wild
-
+%% Note for Tim:  unclear if description of bright rising moon is correct - is the moon also static in the fey wild
 %%

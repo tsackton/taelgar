@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo: [{campaign: DuFr, person: Seeker, type: killed, date: 1748-05-05}]
 name: Gorkil
 born: 1729
