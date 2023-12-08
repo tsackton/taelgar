@@ -1,20 +1,20 @@
 ---
-tags: [historical, clee/unsorted, person, dufr/unaware, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [historical, person/ruler]
 name: Derik
 born: 1573
 species: human
 ancestry: Sembaran
 gender: male
-reignStart:
 died: 1633
-affiliations: [House of Lils]
+affiliations: [{org: House of Lils, type: primary}]
 ---
 # Derik
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of the [[House of Lils]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The third child of [[Elaine I]] and [[Cynan]], and the founder of the cadet branch of the house, the [[House of Lils]]. His great-granddaughter, [[Elaine II]], eventually became queen of Sembara.
+
+%% No canonical information; just exists as a name in a line of succession %%

@@ -1,5 +1,5 @@
 ---
-tags: [place/road, status/notes, status/unknown]
+tags: [place/road, status/needswork/notes]
 displayDefaults: {linkText: "on", ltPlace: "on", defArt: "the"}
 typeOf: road
 partOf: Dunmar

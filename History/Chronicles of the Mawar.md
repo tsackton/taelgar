@@ -1,5 +1,6 @@
 ---
-tags: ['#event-source', status/unknown]
+tags: [status/unknown]
+timelineDescriptor: Mawar History
 ---
 # The Chronicles of the Mawar
 

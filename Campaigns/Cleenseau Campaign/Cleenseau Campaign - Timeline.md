@@ -1,5 +1,4 @@
 ---
-tags: [status/unknown]
 campaignInfo: []
 name: Cleenseau Campaign - Timeline
 timelineDescriptor: Cleenseau Campaign

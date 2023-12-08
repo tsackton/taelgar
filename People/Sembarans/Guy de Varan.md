@@ -1,15 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [clee/unsorted, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags: [person, status/needswork/notes]
+campaignInfo: [{campaign: clee, date: 1719-12-01 }]
 name: Guy de Varan
 born: 1693
 species: human
 ancestry: Sembaran
 gender: male
 whereabouts:
-- {type: home, location: 'Evis'}
+- {type: home, location: Evis }
 - {type: away, start: 1719-10-31, end: 1719-11-30, location: Wakog's Camp}
 - {type: away, start: 1719-11-30, location: Bandit's Way}
 - {type: away, start: 1719-12-01, location: Cleenseau}
@@ -19,6 +18,7 @@ whereabouts:
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on December 1st, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
 A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War. 
 
