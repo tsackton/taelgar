@@ -2,7 +2,7 @@
 tags: [place, status/unknown]
 ---
 
-%% The mountains west of [[Myraeni Gap]], north o[](Darba.md)]] "northern part" of [[Yuvanti Mountains]]
+%% The mountains west of [[Myraeni Gap]], north o[](Darba.md)]] "northern part" o[](Yuvanti%20Mountains.md)]]
 
 One of the sources of the [[Yeraad]] river
 
