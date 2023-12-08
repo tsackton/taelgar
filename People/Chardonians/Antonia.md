@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, testcase, status/draft, status/unknown, status/tim]
+tags: [person, dufr/met, dufr/major, testcase, status/needwork/notes]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned , format: "<met:U> by <person:Q> on <target>, in <current:3Qr>"}
 name: Antonia
@@ -9,7 +9,7 @@ species: human
 ancestry: Chardonian
 gender: female
 pageTargetDate: 1748-12-09
-affiliations: [{ org: The Cleansed, start: 0001, end: 1748-12-07 }]
+affiliations: [{ org: The Society of the Open Scroll }]
 whereabouts:
 - {type: away, start: 1748-11-10, location: Dunmar}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping }
@@ -32,5 +32,3 @@ As far as you know, still traveling with [[Kadmos]].
 ![[antonia-portrait.png|500]]
 
 %%SECRET[1]%%
-
-%%% Needs fact check on the Cleansed as affiliation %%

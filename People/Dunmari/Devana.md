@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 name: Devana
 born:
 species: human
@@ -17,5 +17,5 @@ whereabouts:
 A Dunmari pastoralist.
 
 %%^Date:1748%%
-* (DR:: 1748-03) In March 1748, his family was attacked by marauding axebeaks, supernaturally enraged by an ancient amulet from the Great War, which had been buried inactive for centuries until uncovered by [[Arcus]] in the [[Dunmari Fort (Gomat)|old Dunmari fort]] east of [[Gomat]]. One of his sons and nearly half his animals were killed in this attack. 
+* (DR:: 1748-03) Devana's family was attacked by marauding axebeaks, supernaturally enraged by an ancient amulet from the Great War, which had been buried inactive for centuries until uncovered by [[Arcus]] in the [[Dunmari Fort (Gomat)|old Dunmari fort]] east of [[Gomat]]. One of his sons and nearly half his animals were killed in this attack. %%date is approx.%%
 %%^Date:End%%

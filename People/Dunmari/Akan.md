@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/tim, person, testcase]
+tags: [status/refactor, person, testcase]
 campaignInfo: [{campaign: dufr, type: met, date: 1748-03-23}]
 name: Akan
 born: 1693
@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: male
 whereabouts: 
 - {type: home, location: plains of Karawa, alias: plains north-east of Karawa  }
-- {type away, start: 1748-03-23, end: 1748-03-23, location: Gomat Oasis }
+- {type away, start: 1748-03-21, end: 1748-03-23, location: Gomat Oasis }
 - {type: away, start: 1748-03-27, end: 1748-04-07, location: Karawa }
 - {type: away, start: 1748-04-07, end: 1748-04-12, location: travelling to Tokra }
 - {type: away, start: 1748-04-13, end: 1748-06-07, location: Tokra }
@@ -39,4 +39,4 @@ A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, 
 - (DR:: 1748-06-22) *(Akan):* Returns to nomadic lifestyle traveling north and east of [[Karawa]] with his extended family and his diminished sheep herds. 
 %%^End%%
 
-%% Note for Tim - interesting case as to whether the chronology here is worthwhile or whether it should be replaced with whereabouts  for the most part and a generated chronology %%
+%% Refactor reason: a good example of a 'with' whereabout being useful to track e.g movement of the Karawa refugees%%
