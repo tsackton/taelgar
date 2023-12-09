@@ -13,13 +13,13 @@ whereabouts: Hara Watershed
 
 The Hara flows 750 miles through the [[Dunmari Basin]], from its source in the foothills of the [[Sentinel Range]] to the [[~Hara River Gorge~]]. Once, it flowed more than twice that length in total, joining the [[Mahar]] north of [[Drankor]]. Whether it still does after the cataclysms and upheavals following the [[Great War]], no one knows.
 
-At its source, the Hara is a swift flowing mountain river, cascading down in a series of waterfalls and gorges to the flat plains of the [[Dunmari Basin]]. As the Hara enters the [[Dunmari Basin]], it slows and widens as it meanders south towards [[Tokra]], joined first by the [[Sone]] and then by the [[Thandar]]. 
+At its source, the Hara is a swift flowing mountain river, descending to the  flat plains of the [[Dunmari Basin]]. As the Hara enters the [[Dunmari Basin]], it slows and widens as it meanders south towards [[Tokra]], joined first by the [[Sone]] and then by the [[Thandar]], along with several minor tributaries. 
 
 South of the confluence with the [[Thandar]], the Hara turns broad and sluggish as it flows through the [[~North Tokra Plains~]]. Here, the Hara frequently floods during the monsoon season. 
 
 The region in the immediate vicinity of [[Tokra]] is rocky and hard, especially just south of the city, where the rocky land of the [[Darba Highlands]] protrudes into the [[Dunmari Basin]]. Here, the river widens again as it passes beneath the [[~Tokra Bridge~]]. 
 
-South of [[Tokra]], the river passes through a series of small canyons on the rugged [[~Southern Tokra Plains~]]. The [[~Hara Copper Hills Tributary~]] joins between [[Tokra]] and [[Askandi]], and a number of dry washes and seasonal rivers flow into the Hara in this stretch during the monsoon. 
+South of [[Tokra]], the river passes through a series of small canyons on the rugged [[~Southern Tokra Plains~]]. The [[Sukal]] joins between [[Tokra]] and [[Askandi]], and a number of dry washes and seasonal rivers flow into the Hara in this stretch during the monsoon. 
 
 Just north of [[Askandi]], the terrain levels, and the Hara pursues a slow, twisting path southeast. [[Askandi]] sits on the floodplains of the [[~Lower Hara Valley~]], a wide flat basin between the [[Yuvanti Mountains]] and the [[Garamjala Desert|Garamjala]] Plateau. Here, virtually no rain falls, even during the monsoon, but the flood of the Hara, swollen from monsoon rains to the north, sustains a rich riparian ecosystem and the city of [[Askandi]] itself. 
 
