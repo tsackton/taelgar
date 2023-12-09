@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
+displayDefaults: {defArt: ""}
 tags: [place, status/needswork]
-name: Central Lowlands Region
+name: Greater Dunmar
 typeOf: region
 partOf: Taelgar
 ---

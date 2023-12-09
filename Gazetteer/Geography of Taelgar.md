@@ -30,7 +30,7 @@ Broadly then, the known world can be divided up into several major regions:
 - The [[Eastern Green Sea Region]]], stretching from [[Irrla]] east to the mysterious [[~Eastern Islands~]]
 * The [[Far North]], covering the frozen north 
 * The [[Far South]], stretching from the [[~Great Desert~]] south to the [[~Southern Ocean~]]
-* The [[Central Lowlands Region]], stretching from the southern end of [[Sentinel Range|Sentinels]] to the [[Sea of Storms]]
+* The [[Greater Dunmar]], stretching from the southern end of [[Sentinel Range|Sentinels]] to the [[Sea of Storms]]
 * The [[Central Highlands Region]], including the [[Sentinel Range]] and the areas on the western slopes of the [[Sentinel Range|Sentinels]] 
 
 Beyond the [[~Southern Ocean~]] is the mysterious [[~Southern Continent~]] of which little is known. 
