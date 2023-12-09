@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/needswork/wip, status/namecheck, status/tim]
 typeOf: watershed
-whereabouts: Central Lowlands Region
+whereabouts: Greater Dunmar
 ---
 # The Dunmari Basin
 >[!info]+ Information
@@ -11,7 +11,7 @@ whereabouts: Central Lowlands Region
 
 The Dunmari Basin is a broad, flat, semi-arid plain, between the Yuvanti Mountains to the west and south, the Sentinels to the north, and the Garamjala Plateau to the east. 
 
-In the northwest, the [[~Songara Plains~]] extend in a broad arc from the [[~Darba Coastal Mountains~]] ton [[Songara]] to the upper reaches of the [[Hara]]. These plains are wetter and support a more consistent grassland, with vast herds of horses that the Dunmari are famous for. This terrain once extended across much of central and eastern Dunmar, until the upheavals at the end of the Great War. The [[~Songara River~]], fed by snowmelt in the Sentinels and the [[~Darba Coastal Mountains~]], flows northeast through the [[~Songara Plains~]], until it joins the [[Hara]] north of [[Tokra]]. 
+In the northwest, the [[~Songara Plains~]] extend in a broad arc from the [[~Darba Coastal Mountains~]] ton [[Songara]] to the upper reaches of the [[Hara]]. These plains are wetter and support a more consistent grassland, with vast herds of horses that the Dunmari are famous for. This terrain once extended across much of central and eastern Dunmar, until the upheavals at the end of the Great War. The [[Sone]], fed by snowmelt in the Sentinels and the [[~Darba Coastal Mountains~]], flows northeast through the [[~Songara Plains~]], until it joins the [[Hara]] north of [[Tokra]]. 
 
 In the center of the Dunmari Basin, the [[Hara River Valley]] is a region of varied terrain and climate. North of Tokra, the [[~North Tokra Plains~]] occupy a broad swath on both sides of the Hara, just south of the confluence with [[~Hara Snowmelt Tributary~]]. This region is not as wet as the [[~Songara Plains~]]: nearly all the rain that falls on the [[~North Tokra Plains~]] falls between June and October, during the monsoon season. South of Tokra, the [[Hara River Valley]] gets increasing arid. The [[~Southern Tokra Plains~]], more directly in the rain shadow of the [[Yuvanti Mountains]], get inconsistent rain, even during the monsoon, and the terrain beings to transition from a grassland to arid scrub. South of [[Askandi]], the terrain becomes drier still. Caught between the high peaks of the Yuvanti in the west and the rising terrain of the Garamjala Plateau to the east, the [[~Lower Hara Valley~]] sees little rain and what vegetation there is is entirely reliant on the water of the Hara itself. Approximately 200 miles southeast of [[Askandi]], the [[Hara]] exits the Dunmari Basin through the [[~Hara River Gorge~]].
 

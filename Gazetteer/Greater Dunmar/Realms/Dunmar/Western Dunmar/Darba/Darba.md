@@ -8,7 +8,7 @@ partOf: Western Dunmar
 ---
 # Darba
 >[!info]+ Information
-> A city in [[Western Dunmar]], [[Dunmar]], the [[Central Lowlands Region]]
+> A city in [[Western Dunmar]], [[Dunmar]], the [[Greater Dunmar]]
 
 Darba is a walled city set on the rocky coast, perched above the flooded swamps of the Rudhan river. From a distance, the white walls of the old Drankorian fort that guards the harbor gleam in the sun, its six towers commanding a wide view across the bustling city. The old trade road follows the height of land north of the river, avoiding the flooded swamps of the delta in monsoon, approaching the old gates of the city, the ancient Drankorian wrought iron motifs of confronted lions framing the gate and visible even from a distance.
 

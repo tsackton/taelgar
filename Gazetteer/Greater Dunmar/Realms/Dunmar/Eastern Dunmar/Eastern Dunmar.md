@@ -8,7 +8,7 @@ partOf: Dunmar
 ---
 # Eastern Dunmar
 >[!info]+ Information
-> A region in [[Dunmar]], the [[Central Lowlands Region]]
+> A region in [[Dunmar]], the [[Greater Dunmar]]
 
 
 %%SECRET[1]%%

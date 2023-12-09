@@ -7,6 +7,6 @@ partOf: ~AncientWestRoad~
 ---
 # The ~Crossroads Caravanserai~
 >[!info]+ Information
-> An inn on the [[~AncientWestRoad~]], [[Dunmar]], the [[Central Lowlands Region]]
+> An inn on the [[~AncientWestRoad~]], [[Dunmar]], the [[Greater Dunmar]]
 
 
