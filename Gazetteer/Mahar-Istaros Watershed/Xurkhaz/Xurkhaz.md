@@ -17,7 +17,7 @@ pronunciation: ZURK-kaz
 Xurkhaz, the Land of the Peaceful Sun, is the kingdom of the [[People of the Rainbow]].
 ## Geography
 
-Xurkhaz is roughly a triangle, wedged between the [[Kulthul]] and the [[Drogar]] rivers (both tributaries of the [[Mahar]], to the Dunmari). The borders of Xurkhaz start in the northeast at a point on the Drogar about 120 miles north of the confluence, where the terrain on the east bank rises sharply into a series of jagged, broken hills, and the river rushes through a series of waterfalls and gorges. It follows the line of the Drogar south, remaining on the western bank until the hills to the east flatten into dry, cracked plains, about 60 miles north of the confluence. Here the river valley itself is hospitable, and the [[orcs]] of Xurkhaz settle both sides of the Drogar densely, continuing south to a point about 40 miles downriver of the confluence with the Kulthul. Here, the river turns and flows slowly through sandy deserts, and the inhospitable land further south is not settled. To the west, Xurkhaz follows the course of the Kulthul, which forms a defensible western border against the dangers of the [[Nashtkar]], end in a series of forts about 100 miles north of the confluence. 
+Xurkhaz is roughly a triangle, wedged between the [[Kulthul]] and the [[Istaros]] rivers (both tributaries of the [[Istaros]], to the Dunmari). The borders of Xurkhaz start in the northeast at a point on the Drogar about 120 miles north of the confluence, where the terrain on the east bank rises sharply into a series of jagged, broken hills, and the river rushes through a series of waterfalls and gorges. It follows the line of the Drogar south, remaining on the western bank until the hills to the east flatten into dry, cracked plains, about 60 miles north of the confluence. Here the river valley itself is hospitable, and the [[orcs]] of Xurkhaz settle both sides of the Drogar densely, continuing south to a point about 40 miles downriver of the confluence with the Kulthul. Here, the river turns and flows slowly through sandy deserts, and the inhospitable land further south is not settled. To the west, Xurkhaz follows the course of the Kulthul, which forms a defensible western border against the dangers of the [[Nashtkar]], end in a series of forts about 100 miles north of the confluence. 
 
 %% comment
 at some point need to work out the hierarchy of [[Nashtkar]], [[Garamjala Desert|Garamjala]], [[Plaguelands]], and [[Desolation of Cha'mutte]]
@@ -27,15 +27,15 @@ The heart of the kingdom is the land between the two rivers, which is heavily ir
 
 %% notes 
 this is inspired / influenced by ancient Egypt to a certain extent
-might need to figure out why the [[Mahar]] river system has so much water flowing through the desert even in 1750, when western rivers are kind of dried up / seasonal
+might need to figure out why the [[Istaros]] river system has so much water flowing through the desert even in 1750, when western rivers are kind of dried up / seasonal
 %%
 ## Settlements
 
 Most of the population is heavily rural living in small farming and herding villages, densely concentrated within a day's walk of the rivers. That said, there are some notable settlements: 
 
-- [[Uzgukhar]], the capitol, at the confluence of the [[Drogar]] and [[Kulthul]]
+- [[Uzgukhar]], the capitol, at the confluence of the [[Istaros]] and [[Kulthul]]
 - [[Khumarz]], a fortified border town on the eastern banks of the [[Kulthul]], guarding one of the major fords of the river and serving as the lynchpin of the western defenses of Zurkhaz
-- [[Drogoloth]], a mining town on the western banks of the [[Drogar]], near the hills and at the furthest point north boats can travel on the [[Drogar]] before hitting the rapids
+- [[Drogoloth]], a mining town on the western banks of the [[Istaros]], near the hills and at the furthest point north boats can travel on the [[Istaros]] before hitting the rapids
 - [[Gorzum]], a peaceful oasis in the middle of the country
 
 %% rough population notes

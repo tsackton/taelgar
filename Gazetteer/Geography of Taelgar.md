@@ -16,7 +16,7 @@ The [[~Northern Continent~]] is marked by four major, continent scale features:
 * In the east, the [[Green Sea]] extends from the [[~Eastern Ocean~]] to nearly the middle of the continent, forming a great sea stretching 3000 miles from end to end. 
 * South of the Green Sea, the [[~Great Desert~]] forms a band across the southern part of the continent, stretching nearly from the [[Sea of Storms]] to the [[~Eastern Ocean~]]. 
 * West of the Green Sea, the high peaks of the [[Sentinel Range|Sentinels]] run nearly the entire length of the continent from north to south, and split the [[West Coast Region|West Coast]] and the mighty [[Chasa]]-[[Nahadi]] river basin the [[Greater Sembara|Sembaran rivers]] and the  [[Green Sea]]
-* Running for nearly 2,000 miles from the [[Mostreve Hills]] to the [[Sea of Storms]], the [[Mahar]]-[[Istaros]] river system, runs through borderlands and the [[Desolation of Cha'mutte]], a wasteland that arose in the aftermath of the [[Great War]]
+* Running for nearly 2,000 miles from the [[Mostreve Hills]] to the [[Sea of Storms]], the [[Istaros]]-[[Istaros]] river system, runs through borderlands and the [[Desolation of Cha'mutte]], a wasteland that arose in the aftermath of the [[Great War]]
 
 Broadly then, the known world can be divided up into several major regions:
 

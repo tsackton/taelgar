@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/river, status/unknown, status/namecheck, status/tim]
+tags: [place/river, status/namecheck, status/tim]
 typeOf: river
 whereabouts: Hara Watershed
 name: Thandar

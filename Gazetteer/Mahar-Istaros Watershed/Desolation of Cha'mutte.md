@@ -14,7 +14,7 @@ The Desolation of Cha'mutte is a large area, spanning parts of the [[Greater Dun
 
 The Desolation of Cha'mutte includes:
 - The area around the ruined city of [[Drankor]] itself, destroyed during the chaos of the [[First Plague]], and now deeply cursed and unexplored.  %%needs a name?%%
-- The [[Garamjala Desert]], on a high, arid plateau spanning the [[Kharja]] and [[Mahar]] river valleys, and including the orc realm of [[Xurkhaz]].
+- The [[Garamjala Desert]], on a high, arid plateau spanning the [[Kharja]] and [[Istaros]] river valleys, and including the orc realm of [[Xurkhaz]].
 - The [[Nashtkar]], the blasted plains, north of the [[Garamjala Desert|Garamjala]] and east of [[Dunmar]], a land of rocky canyons, twisted hills, and little water, on the western edge of the [[Plaguelands]]
 - The [[Plaguelands]], in the [[Istaros Watershed]], centered on the ruined city of [[Isingue]].
 
