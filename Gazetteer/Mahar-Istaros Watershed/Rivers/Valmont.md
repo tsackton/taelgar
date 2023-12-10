@@ -1,10 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Valmont
 typeOf: river
-partOf:
+whereabouts: Istaros Watershed
 aliases: [River Valmont]
 ---
+# Valmont
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-### River Valmont
-The Valmont flows south of [[Addermarch]] and joins the [[Ardonne]] and [[Lake Aeulian]] to form the [[Istaros]] River.
+The Valmont flows south of [[Addermarch]] and, with the [[Ardonne]], is one of the primary inflows to [[Lake Aeulian]]. 

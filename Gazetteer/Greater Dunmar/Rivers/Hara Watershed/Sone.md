@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/river, status/namecheck, status/tim, status/needswork/wip]
+tags: [place/river, status/namecheck, status/tim]
 typeOf: river
 whereabouts: Hara Watershed
 pronunciation: SO-nay

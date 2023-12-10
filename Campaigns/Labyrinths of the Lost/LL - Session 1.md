@@ -7,7 +7,7 @@ players: [Acescale, Gaudin, Loria, Dilion]
 ---
 # Labyrinths of the Lost - Session 1
 >_in Taelgar: October 17th, 1748
->on Earth: September 10th, 2023
+>on Earth: November 12th, 2023
 >[[Western Cymea]]
 
 # Summary
