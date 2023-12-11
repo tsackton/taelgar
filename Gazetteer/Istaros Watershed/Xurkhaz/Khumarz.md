@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, event-source, status/unknown]
+displayDefaults: {wHome: ""}
 campaignInfo: []
 name: Khumarz
 destroyed: 1748-12-11
 typeOf: town
 ancestry: orc
-subTypeOf: 
-partOf: Xurkhaz
+whereabouts: Xurkhaz
 ---
 # Khumarz
 >[!info]+ Information

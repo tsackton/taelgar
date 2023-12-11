@@ -11,7 +11,7 @@ aliases:
   - Mahar
 ---
 
-The Istaros is a major river that flows several thousand miles from its source in the [[Mostreve Hills]] to the [[Sea of Storms]]. The [[Istaros watershed]] has been central to many rich realms, including the [[Drankorian Empire]] and later the [[Istabor Alliance]], but since the [[Great War]] it has been largely cursed and deserted, as nearly the entire river system flows through the [[Desolation of Cha'mutte]]. 
+The Istaros is a major river that flows several thousand miles from its source in the [[Mostreve Hills]] to the [[Sea of Storms]]. The [[Istaros Watershed]] has been central to many rich realms, including the [[Drankorian Empire]] and later the [[Istabor Alliance]], but since the [[Great War]] it has been largely cursed and deserted, as nearly the entire river system flows through the [[Desolation of Cha'mutte]]. 
 
 ## Upper Istaros
 
