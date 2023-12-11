@@ -1,8 +1,8 @@
 ---
+headerVersion: 2023.11.25
 aliases: [centaur, Centaur]
-tags: [species, status/docreview, status/unknown]
+tags: [species]
 ---
-
 # Centaurs
 
 This page contains lore information about centaurs. For details on character creation and playing a centaur, see [[Playing a Centaur]]. 

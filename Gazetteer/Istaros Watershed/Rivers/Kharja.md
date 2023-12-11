@@ -1,12 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Kharja
 typeOf: river
-subTypeOf: dry
-partOf:
+subTypeOf: intermittent
+whereabouts: Istaros Watershed
 ---
+# Kharja
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The now mostly dry riverbed that flows past [[Kharsan]], eventually joining with the [[Hara]] river. 
 

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/needswork]
 name: Dunmar
-whereabouts: Central Lowlands Region
+whereabouts: Greater Dunmar
 typeOf: realm
 ---
 # Dunmar

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/tim]
+tags: [historical, person/ruler]
 campaignInfo: []
 name: Akaston
 born:
@@ -10,7 +10,7 @@ gender: male
 title: Emperor
 affiliations:
 - { place: Drankorian Empire, start: 980 }
-died: 911
+died: 991
 whereabouts: Drankor
 ---
 # Emperor Akaston
@@ -20,4 +20,3 @@ whereabouts: Drankor
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An Emperor of Drankor. Ruled during Hralgar's time. 
