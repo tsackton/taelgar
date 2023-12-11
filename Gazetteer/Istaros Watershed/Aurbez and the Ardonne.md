@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 campaignInfo: []
 name: Aurbez and the Ardonne
 typeOf: region
-partOf: Western Green Sea Region
+partOf: Istaros Watershed
 ---
 # The Aurbez and the Ardonne
 >[!info]+ Information
@@ -12,7 +12,7 @@ partOf: Western Green Sea Region
 
 This region is a borderland, caught between the [[Sentinel Range]] to the west and the [[Plaguelands]] to the east. It is a marginal land, with hot, dry summers when the ash-wind blows from the east and cold, dry winters when the westerlies blow over the mountains. The main rainfall is in the spring, when in lucky years several soaking rains will replenish the land, and in the summer when the punishing thunderstorms race from the east, bringing flash floods, lightning, and hail. In autumn the rivers shrink, and the temperature is briefly moderate before the cooler winters come.
 
-Snow is rare, but sometimes a large winter storm will blanket the [[Aurbez Plateau]] for days, and the upper [[Aursen]] can freeze in particularly cold winters. (The [[Douren]] rushes too fast to freeze even in the coldest winters)
+Snow is rare, but sometimes a large winter storm will blanket the [[Aurbez Plateau]] for days, and the upper [[Aursen]] can freeze in particularly cold winters. The [[Douren]], however, rushes too fast to freeze even in the coldest winters.
  
 Four rivers run through the region:
 * The [[Douren]]
@@ -20,7 +20,7 @@ Four rivers run through the region:
 * The [[Masance]]
 * The [[Ardonne]]
 
-The rivers and the [[Maseau - Dunmar Road]]], running from [[Duchy of Maseau|Maseau]], provide the main places of settlement.
+The rivers and the [[Maseau - Dunmar Road]], running from [[Duchy of Maseau|Maseau]], provide the main places of settlement.
 
 In addition to these rivers, the land is divided into a highland and a lowland. A large plateau, the [[Aurbez Plateau]], stretches out from the mountain foothills from the just east of the headwaters of the [[Masance]] to the headwaters of the [[Douren]]. This highland is gentler than the rest of the region, as the ash storms fall less strongly here, and there is marginally more rain, especially in the southern and western parts of the plateau, where aspens thrive amongst small streams and alpine meadows. The Aurbez plateau drops off rapidly to the east, and beyond the Masance the land flattens significantly into long scrubby grasslands, the Ardonne Plain. The soil here is marginal, but can support grazing, especially north of the [[Ardonne]] where the plague ash lies less heavy on the land.
 

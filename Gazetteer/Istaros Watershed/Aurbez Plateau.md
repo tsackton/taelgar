@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 campaignInfo: []
 name: Aurbez Plateau
 typeOf: region
-partOf: Refounded Alliance of Aurbez
+partOf: Aurbez and the Ardonne
 ---
 # The Aurbez Plateau
 >[!info]+ Information
