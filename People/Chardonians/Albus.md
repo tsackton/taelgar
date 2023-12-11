@@ -1,7 +1,6 @@
 ---
-headerVersion: 2023.11.20
-tags: [dufr/background, person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.25
+tags: [dufr/background, person]
 campaignInfo:
 - {campaign: dufr, date: 1748-08-05, type: met}
 name: Albus
@@ -15,10 +14,10 @@ whereabouts:
 ---
 # Albus
 >[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 5th, 1748 in [[Darba]], [[Western Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 5th, 1748 in [[Darba]], [[Dunmar]] %%^End%%
 
 A Chardonian bookseller who lives and works in [[Darba]]. Well connected to the local academic community. 
 %%^Campaign:dufr%% 
