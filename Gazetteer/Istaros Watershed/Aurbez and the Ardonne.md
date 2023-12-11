@@ -1,6 +1,6 @@
 ---
-headerVersion: 2023.11.20
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/mike]
 campaignInfo: []
 name: Aurbez and the Ardonne
 typeOf: region
@@ -8,7 +8,8 @@ partOf: Istaros Watershed
 ---
 # The Aurbez and the Ardonne
 >[!info]+ Information
-> A borderland in the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 This region is a borderland, caught between the [[Sentinel Range]] to the west and the [[Plaguelands]] to the east. It is a marginal land, with hot, dry summers when the ash-wind blows from the east and cold, dry winters when the westerlies blow over the mountains. The main rainfall is in the spring, when in lucky years several soaking rains will replenish the land, and in the summer when the punishing thunderstorms race from the east, bringing flash floods, lightning, and hail. In autumn the rivers shrink, and the temperature is briefly moderate before the cooler winters come.
 
@@ -28,7 +29,7 @@ The region is divided into five areas, with different climate and politics.
 #### The Southern Plains
 The southern plains, along the banks of the Ardonne and further south is largely a no-man’s land. The ash storms are fierce here, and at times the air can get too thick to breath easily. The Ardonne itself is corrupted and unsafe to drink, and crops do not grow on its western banks. Before the Great War this region was a productive ranching land, and adventurers and treasure seekers occasionally venture into this lands – in the winter, mostly, when the ash is less – to see what they can find. Some do not return.
 ### The Central Plains
-The central plains is the heartland of the March of Ardonne. Although the formal borders of the march are the Ardonne river, in practice most of the marcher lords establish fortified ranches in the central plains or along the Dunmar Road, where the ash storms are less intense. Cattle and goats are the main livelihood, as crops die too often in the ashy summers. Cattle can be brought inside the great fortified ranches when troubles come from the east and the marcher lords ride out to earn their stipends. The ranches along the Dunmar Road have grown into fortified rest-stops and places of refuge for travelers, and one does not need to camp in the open between Cassons and the crossing of the Masance. This is a land of scrubby grasses and small dryland trees.
+The central plains is the heartland of the March of Ardonne. Although the formal borders of the march are the Ardonne river, in practice most of the marcher lords establish fortified ranches in the central plains or along the Dunmar Road, where the ash storms are less intense. Cattle and goats are the main livelihood, as crops die too often in the ashy summers. Cattle can be brought inside the great fortified ranches when troubles come from the east and the marcher lords ride out to earn their stipends. The ranches along the Dunmar Road have grown into fortified rest-stops and places of refuge for travelers, and one does not need to camp in the open between [[Cassons]] and the crossing of the Masance. This is a land of scrubby grasses and small dryland trees.
 ### The Northern Plains
 Between the foothills of the [[Sentinel Range]] and the western edge of the [[Mostreve Hills]] lies the northern plains, the heartland of the [[Duchy of Maseau]]. 
 ### The Triangle and the Douren Valley

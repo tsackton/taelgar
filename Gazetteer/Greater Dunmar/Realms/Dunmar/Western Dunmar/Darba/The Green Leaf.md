@@ -1,15 +1,16 @@
 ---
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Green Leaf
 ancestry: halfling
 typeOf: inn
-partOf: Darba
+whereabouts: Darba
 ---
 # The Green Leaf
 >[!info]+ Information
-> An [[Halflings|halfling]] inn in [[Darba]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A halfling inn on the harbor in [[Darba]]. 
-
+A harbor inn in Darba, run by the [[Sunmeadows]] for generations. Known among halfling travelers as a reliable place to get a night's rest and ship's passage in Darba. 

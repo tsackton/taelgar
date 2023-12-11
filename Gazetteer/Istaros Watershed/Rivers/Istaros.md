@@ -1,7 +1,6 @@
 ---
-tags:
-  - place
-  - status/mike
+headerVersion: 2023.11.25
+tags: [place, status/mike]
 name: Istaros
 typeOf: river
 whereabouts: Istaros Watershed
@@ -10,9 +9,12 @@ aliases:
   - Drogar
   - Mahar
 ---
+# Istaros
+>[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Istaros is a major river that flows several thousand miles from its source in the [[Mostreve Hills]] to the [[Sea of Storms]]. The [[Istaros Watershed]] has been central to many rich realms, including the [[Drankorian Empire]] and later the [[Istabor Alliance]], but since the [[Great War]] it has been largely cursed and deserted, as nearly the entire river system flows through the [[Desolation of Cha'mutte]]. 
-
 ## Upper Istaros
 
 The source of the Istaros is [[Lake Aeulian]], which in turn is fed by the [[Ardonne]] and the [[Valmont]], which flow from the Sentinels and the Mostreve Hills, respectively. Here, the Istaros once flowed through riparian forests and scenic river valleys dotted with productive agricultural villages and minor tributaries. Now, this land is cursed, and few dare venture through the now-haunted, ash-choked landscape. 
@@ -33,11 +35,3 @@ Once, the Istaros joined the Hara, forming a broad river that flowed past the fa
 ## Names
 
 The Istaros has many names. To the original Drankorians, the refugees from [[Hkar]] after [[the Downfall]], it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [[orcs]] of [[Xurkhaz]], it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [[Great War]].  
-
-
-
-
-%%  (from [[Sea of Storms]] t[](~Eastern%20Mountains~.md)]]  
-* Istare (north branch of Mahar; but might need a Dunmari name) %%
-
-%% need to figure out the various names for the tributaries, in multiple languages, at some point%%

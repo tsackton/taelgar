@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown, testcase]
+tags: [place, status/needswork/wip, testcase]
 displayDefaults: {endStatus: Consumed by Cha'mutte's plague in, wOrigin: "<primary:UA> <ancestry> <typeof:UA> <home:1q>, once part of <origin:rA>", wPastHome: "<end> <target>", dPast: ""}
 campaignInfo: []
 name: Isingue

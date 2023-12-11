@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, historical, dufr/aware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Asuddha
 born: 1136
@@ -12,11 +12,10 @@ whereabouts:
 - {location: Dunmar, type: home}
 ---
 # Asuddha
->[!info]+ Biographical Summary
->[[Humans|human]] (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts")`
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A warrior and battle commander of the Dunmari during the [[The Founding of Dunmar]]. The brother of [[Bhishma]]. Known for leading the first army of the Dunmari, that swept across the land renewed by Jeevali's sacrifice, claiming it for to be their own kingdom. 
 
