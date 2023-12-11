@@ -1,14 +1,16 @@
 ---
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Chapterhouse
 typeOf: inn
-partOf: Chardon
+whereabouts: Precinct IV
 ---
 # The Chapterhouse
 >[!info]+ Information
-> An  inn in [[Chardon]], the [[Chardonian Empire]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A quiet student tavern in the university district of [[Chardon]]
+A quiet student tavern in the 4th Precinct, the university district of [[Chardon]]
 

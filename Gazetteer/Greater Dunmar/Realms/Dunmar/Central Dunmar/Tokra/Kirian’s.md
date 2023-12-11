@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/needswork/notes]
 campaignInfo: []
 name: Kirian’s
 typeOf: inn
