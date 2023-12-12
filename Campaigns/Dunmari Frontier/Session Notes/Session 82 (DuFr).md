@@ -5,7 +5,7 @@ tags: [session-note]
 *in which the party defeats Grash and saves Uzgukhar
 
 **In the real world:** November 22, 2023
-**In Taelgar:** January 17th, 1749 - January 21st, 1749
+**In Taelgar:** January 17th, 1749 - January 20th, 1749
 ## Summary
 
 - [[Riswynn]] rejoins the party
