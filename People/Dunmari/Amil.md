@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
 campaignInfo: []
 name: Amil
@@ -12,10 +13,10 @@ whereabouts:
 ---
 # Amil
 >[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: [[Order of the Awakened Soul]]
 
 %% fix away whereabouts %%
 

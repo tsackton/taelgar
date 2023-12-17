@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [event-source, person, dufr/met, dufr/major, status/unknown]
 campaignInfo: []
 name: Avaras
@@ -14,10 +15,10 @@ whereabouts:
 ---
 # Avaras
 >[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: [[Order of the Awakened Soul]]
 
 Avaras is one of the few remaining masters of the [[Order of the Awakened Soul]]. He is an older man, with close cropped gray hair and lined, weathered skin. He lives in the [[Garamjala Desert]] with his partner [[Pava]] and apprentice [[Amil]], leading an isolated existence, concerned with [[Pava]] and with what is left of the Order's mission. 
 %%SECERT 

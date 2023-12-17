@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/docreview, status/unknown]
+tags: [place, status/needswork/notes]
 displayDefaults: {defArt: the, wHome: "One of <current>"}
 partOf: Echo Realms
 typeOf: plane

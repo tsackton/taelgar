@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/notes]
 name: Kharsan
 typeOf: city
 subTypeOf: ruined
@@ -10,7 +10,7 @@ partOf: Garamjala Desert
 >[!info]+ Information
 > A ruined city in the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
 
-Once a major Dunmari city, now a ruin controlled by the undead warrior [[Grash]]. 
+Once a major Dunmari city, now a ruin. At one point, was controlled by the undead warrior [[Grash]], until his defeat at the [[Battle for Uzgukhar]]. 
 
 Set on the banks of the now-dry river [[Kharja]]. Much of the city, especially the northern sections, are in complete ruins. However, the palace square and the administration complex around it remain standing, as does the old stadium in the southern part of the city. 
 

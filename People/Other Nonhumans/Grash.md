@@ -12,10 +12,10 @@ species: undead
 ancestry: skeletal
 gender: male
 whereabouts:
-- {type: away, start: 1747, end: 1748-11-28, location: Kharsan, format: "r"}
+- {type: away, start: 1747, end: 1748-11-28, location: Kharsan}
 - {type: away, start: 1748-11-28, end: 1748-12-05, location: Garamjala}
-- {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz, format: "r"}
-- {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar, format: "r"}
+- {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
+- {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
 ---
 # Grash
 >[!info]+ Biographical Info

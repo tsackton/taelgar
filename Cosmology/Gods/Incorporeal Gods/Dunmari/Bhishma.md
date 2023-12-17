@@ -1,6 +1,6 @@
 ---
-headerVersion: 2023.11.20
-tags: [deity, religion/fivesiblings, status/unknown]
+headerVersion: 2023.11.25
+tags: [deity, religion/fivesiblings, status/needswork/notes]
 pronunciation: BHEESH-ma
 name: Bhishma
 ---
@@ -9,7 +9,7 @@ name: Bhishma
 
 The mortal founder of [[Dunmar]], the first Samraat (ruler) and the revered mother of the country, now raised to godhood as a demigod. Her order sees to the souls of the Dunmari and preserves the stories of the people of Dunmari. 
 
-Had two children with [[Laka]]: [[Shakun]], who became divine, and [[Kotana]], who followed her as ruler of the Dunmari and ushured in the first Dunmari golden age of peace and prosperity. 
+Had two children with [[Laka]]: [[Shakun]], who became divine, and [[Kotana]], who followed her as ruler of the Dunmari and ushered in the first Dunmari golden age of peace and prosperity. 
 
 Her feast day is the [[Feast of Bhishma]].
 
