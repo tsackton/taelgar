@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/needswork]
+aliases: [Kethra Silverspark]
 species: dwarf
 whereabouts: 
 - {type: home, end: 1748, location: Tharn Todor}

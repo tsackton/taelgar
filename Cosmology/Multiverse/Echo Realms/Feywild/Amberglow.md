@@ -1,13 +1,14 @@
 ---
-headerVersion: 2023.11.20
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/needswork/notes]
 partOf: Feywild
 ancestry: fey
 typeOf: realm
 ---
 # Amberglow
 >[!info]+ Information
-> A [[Fey|fey]] realm in the [[Feywild]], the [[Echo Realms]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 On the southern and eastern borders of [[Shimmersong]] is the fey realm of Amberglow. Once a place of great beauty, a land of constant sunsets and golden skies on wide open plains of amber grasses and lush flowers, it has fallen into decay.
 

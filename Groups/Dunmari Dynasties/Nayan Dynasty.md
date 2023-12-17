@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/notes, status/unknown]
 typeOf: family
 subTypeOf: dynasty
@@ -6,6 +7,7 @@ name: Nayan dynasty
 ---
 # The Nayan Dynasty
 
+The Dunmari dynasty founded in the aftermath of the Great War. 
 
 %%^Campaign:None%%
 ### Historical Members

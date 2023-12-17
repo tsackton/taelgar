@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, place/building, status/unknown]
+tags: [place, place/building, status/needswork/notes]
 typeOf: holy site
 typeOfAlias: monastery
 subTypeOf: 

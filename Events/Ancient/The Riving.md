@@ -1,7 +1,7 @@
 ---
-tags: [event, status/unknown]
+headerVersion: 2023.11.25
+tags: [event, status/needswork/notes]
 ---
-
 # The Riving
 
 The long pause, the moment out of time during which the Embodied Gods reshaped the world, ended with the Riving. Drawing on the full strength of their endless Divine power, [[Arha]] and [[Malik]] sundered the multiverse, ripping the echo realms from the material plane, making the world round and the land fixed in form, and, some say, spawning an endless number of parallel realities. Before the Riving, the [[Feywild]], the [[Shadowfell]], all the echo realms, were intertwined with the material plane, but at the moment of the Riving the layers were pulled apart and the echo planes separated into their own realms, still resonating and vibrating with the material plane, but no longer part of it.

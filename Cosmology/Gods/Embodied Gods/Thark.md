@@ -1,9 +1,8 @@
 ---
-headerVersion: 2023.11.20
-tags: [deity, status/unknown]
-affiliations: [orcs]
+headerVersion: 2023.11.25
+tags: [deity, status/needswork]
 ---
-# Thank
+# Thark
 
 Thark, the God of War Without End, created by the union of [[Umidzka]] and [[G’Zab]], gave rise to the [[Orcs]], and through his compulsion drives them to violence for the sake of violence. 
 
