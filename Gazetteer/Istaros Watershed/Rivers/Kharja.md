@@ -6,6 +6,7 @@ name: Kharja
 typeOf: river
 subTypeOf: intermittent
 whereabouts: Istaros Watershed
+pronunciation: KHAAr-jaa
 ---
 # Kharja
 >[!info]+ Information

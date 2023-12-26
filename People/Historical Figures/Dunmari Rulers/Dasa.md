@@ -1,20 +1,22 @@
 ---
 headerVersion: 2023.11.25
 tags: [historical, person/ruler, status/unknown]
-name: Dasa
+name: Aatmaj Dasa
 born:
 species: human
 ancestry: Dunmari
+died: 1395
 gender: male
-title: Samraat Aatmaj
+title: Samraat
 affiliations: 
-- {org: Aatmaji Dynasty, type: primary }
-- {place: Dunmar }
+- {org: Aatmaji Dynasty, type: primary}
+- {org: Dunmar, start: 1385, type: leader}
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 ---
 # Samraat Aatmaj Dasa
 >[!info]+ Biographical Info
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Aatmaji Dynasty|Aatmaji dynasty]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The last Samraat of the [[Aatmaji Dynasty]]. 

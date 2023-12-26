@@ -4,7 +4,9 @@ tags: [status/unknown]
 
 This is the story of the founding of [[Dunmar]], as told by the Dunmari:
 
-These events occur around 1170-1175 DR
+%% add notes from onenote on pre-Kharja travels and the split %%
+
+These events occur in DR 1171
 
 When the great exodus of the Dunmari from the south reached the River [[Kharja]], [[Bhishma]], already a leader of her people, stopped and ordered the construction of a great temple, and began to pray. Begging [[Jeevali]] to save her people, she prayed without food or water or sleep for five days and five nights, until [[Jeevali]] answered her prayers. As [[Bhishma]] prayed, the rains began. [[Jeevali]] wept for her people, crying tears that poured from the heavens, cleansing the land and purifying the soil. But as she cried, she put so much of her power and spirit into her tears that she began to fade away. She diminished, and was gone.
 

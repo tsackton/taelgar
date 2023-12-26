@@ -1,14 +1,24 @@
 ---
-tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
+headerVersion: 2023.11.25
+tags: [place]
 campaignInfo: []
 name: Nayahar
 typeOf: city
-partOf: Western Dunmar
+created: 1557
+whereabouts: Western Dunmar
 ---
 # Nayahar
 >[!info]+ Information
-> A  city in the [[Western Dunmar]]
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The capital of [[Dunmar]] and royal city of the [[Nayan Dynasty]]
+A large Dunmari city located close to the head of navigation of the [[Nayan]] river. The administrative center of the [[Nayan Dynasty]], home of the Samraat court. 
+
+%%  notes
+history:
+Founded in DR 1557. Originally the site of a monument constructed to the holy family in honor of surviving the great war and in thanks for the fertile lands of the Nayan floodplains. Later an administrative city grew up around the monument, and then eventually a thriving metropolis.
+vibe:
+not sure, but definitely a big religious/ceremonial aspect and big royal administration. monumental architecture dating from ~1580s might be common, for example
+%%
 

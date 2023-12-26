@@ -4,13 +4,14 @@ tags: [person, status/needswork]
 aliases: [Kethra Silverspark]
 species: dwarf
 whereabouts: 
-- {type: home, end: 1748, location: Tharn Todor}
-- {type: away, start: 1749-01-11, end: 9999, location: "Pava and Avaras' House" }
+- {type: home, location: Tharn Todor}
+- {type: away, start: 1749-01-11, end: 1749-01-29, location: "Pava and Avaras' House" }
+- {type: away, start: 1749-01-30, end: 9999, location: Vindristjarna}
 name: Kethra Silverspark
 affiliations: 
 - {org: Silversparks, type: primary}
 gender: female
-born: 1688
+born: 1701
 ---
 # Kethra Silverspark
 >[!info]+ Biographical Info
