@@ -10,7 +10,8 @@ whereabouts:
 - {type: away, start: 1748-12-28, end: 1749-01-04, location: Tollen} #check
 - {type: away, start: 1749-01-15, end: 1749-01-16, location: Orenlas}
 - {type: away, start: 1749-01-17, end: 1749-01-19, location: traveling to Xurkhaz}
-- {type: away, start: 1749-01-20, end: 1749-01-21, location: Uzgukhar}
+- {type: away, start: 1749-01-20, end: 1749-01-24, location: Uzgukhar}
+- {type: away, start: 1749-01-25, end: 1749-01-30, location: Nashtkar}
 rarity: unique
 typeOf: vehicle
 typeOfAlias: skyship
@@ -68,19 +69,20 @@ You have attracted a considerable retinue of followers on Vindristjarna, as well
 
 [[Amil]] (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [[Garamjala Desert]] before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
 
+[[Kethra|Kethra Silverspark]] (unknown). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
+
+[[Nuzkar]] and [[Aygul]], orcs and twin sisters. 
+
+(not yet introduced)
 [[Egnir|Égnir]] (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 
 [[Jotha]] (she/her, yo-TAG). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
 
-UNNAMED (unknown). A halfling storyteller. 
-
-UNNAMED (unknown). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
-
 UNNAMED (unknown). Mapmaker
 
-Nurzkar and Aygul, orcs and twin sisters
+UNNAMED (unknown). A halfling storyteller. 
 
-[[_DM_/Staging/Kecha]] (unknown). A kenku scout. 
+[[Kecha]] (unknown). A kenku scout. 
 ## Magic
 
 In addition to the phasing stone, Vindristjarna is equipped with the following magic.

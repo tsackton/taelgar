@@ -49,7 +49,8 @@ Used space: 364 squares
 > 
 > When you issue the Empower order to this facility, you enable all your Bastion’s hirelings to use the Meditation Chamber to gain a measure of inner peace. You can immediately issue a Bastion order to one of your Bastion’s other special facilities, even if that facility has already been issued an order on this Bastion turn. The Meditation Chamber also imparts the following benefit: 
 > 
-> **Fortify Self**. You can meditate in this facility over a period of 7 days to fortify your mind, body, and spirit. If you leave the Bastion during this time, you gain no benefit. Otherwise, at the end of the seventh day, you gain Advantage on two kinds of saving throws for the next 7 days, chosen randomly from the Fortified Saves table. (Reroll if you get a duplicate result.) **FORTIFIED SAVES Table** 
+> **Fortify Self**. You can meditate in this facility over a period of 7 days to fortify your mind, body, and spirit. If you leave the Bastion during this time, you gain no benefit. Otherwise, at the end of the seventh day, you gain Advantage on two kinds of saving throws for the next 7 days, chosen randomly from the Fortified Saves table. (Reroll if you get a duplicate result.) 
+> **FORTIFIED SAVES Table** 
 > Saving Throw 
 > 1 Strength 
 > 2 Dexterity 
@@ -112,7 +113,7 @@ The lower deck consists of, from stern to prow:
 * the archives and research library, tended by [[Nuzkar]]
 * a sparing and exercise room, tended by [[Aygul]]
 * a shring to the [[Bahrazel]], tended by [[Riswynn]]
-* the smithy, tended by ~smith~
+* the smithy, tended by [[Kethra]]
 
 > [!info]+ Game Room
 > >Tended by: [[Seeker]]

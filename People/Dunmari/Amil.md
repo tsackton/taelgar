@@ -10,6 +10,7 @@ gender: male
 affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, start: 1731, location: "Pava and Avaras' House"}
+- {type: away, start: 1749, end: 9999, location: Vindristjarna}
 ---
 # Amil
 >[!info]+ Biographical Info
