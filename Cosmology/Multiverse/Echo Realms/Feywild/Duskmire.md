@@ -13,7 +13,7 @@ The scenery is mixed, with a central core of several very tall mountains,  surro
 ![[Duskmire-1.png]]![[Duskmire-2.png]]
 
 
-The realm is bordered to the south by [[Amberglow]], to the west by [[Dreamhaven]], to the north by Unnamed Powerful Northern Fey, and to the east by [[Archfey Ethlenn]]'s unnamed realm. 
+The realm is bordered to the south by [[Amberglow]], to the west by [[Dreamhaven]], to the north by Unnamed Powerful Northern Fey, and to the east by [[Twilight's Grace]].
 
 Lord Umbraeth enjoys sport, and especially cruel sport where the game is rigged and the stakes high. Like all fey, he does not break his deals, but he is often misleading in his explanations and delights in the despair of his victims when they discover his deal was not fair. 
 

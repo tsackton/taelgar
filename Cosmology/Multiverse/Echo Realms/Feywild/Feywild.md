@@ -19,7 +19,7 @@ The layout and terrain of the Feywild very loosely matches the layout and terrai
 
 Roughly, the locations of the following Fey realms are known:
 - [[Fortune's Rest]] is superimposed on the area southeast of [[Chardon]], roughly including the southern reaches of [[Elderwood|the Elderwood]], the [[Yeraad]] river valley, and the lowlands leading to the [[Myraeni Gap]]. 
-- [[Shimmersong]] is east of [[Fortune's Rest]], covering roughly the [[Myraeni Gap]] and the southern reaches of the CentralMountains, extending into the northern part of the Dunmari plains. 
+- [[Shimmersong]] is east of [[Fortune's Rest]], covering roughly the [[Myraeni Gap]] and the southern reaches of the [[Sentinel Range|Sentinels]], extending into the northern part of the Dunmari plains. 
 - [[Amberglow]] stretches east and south from [[Shimmersong]], centered on the [[Kharja]] river valley and extending south into the [[Garamjala Desert]], as well as east towards the Mahar drainage. 
 - [[Dreamhaven]] is north of [[Fortune's Rest]], centered around the ancient elven kingdom of [[Ainumarya]] and the northern reaches of the [[Chasa]] river valley.
 - [[Whispervale]] is north of [[Dreamhaven]], roughly congruent with the lands now occupied by the northern Deno'qai, along the edge of them mountains.
