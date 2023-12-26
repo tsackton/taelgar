@@ -17,10 +17,22 @@ The realm is bordered to the south by [[Amberglow]], to the west by [[Dreamhaven
 
 Lord Umbraeth enjoys sport, and especially cruel sport where the game is rigged and the stakes high. Like all fey, he does not break his deals, but he is often misleading in his explanations and delights in the despair of his victims when they discover his deal was not fair. 
 
-Lord Umbraeth was not always the lord of a fey realm. Thousands of years ago he was a courtier in the court of Ethlenn, where he was held in some respect, even if he was not loved. He organized hunts and was the master of sport, and held grand contests even fifty years. One of these contests went wrong somehow, or someone Ethlenn cared about was involved, or something that led to a major disagreement and eventually his exile. Not sure specific details but presumably something prevented Ethlenn from just killing him. 
+Lord Umbraeth was not always the lord of a fey realm. Thousands of years ago he was a powerful courtier in the court of Ethlenn, where he was held in some respect, even if he was not loved. 
 
-This left very bad blood between them, and she sworn him nor any of his court or retainers or those who went into exile with him would ever be welcome in her kingdom again. 
+%% Not 100% canonical ...
 
-He eventually found some way to found a small enclave nestled in the borderlands between Amberglow and Unnamed Powerful Northern Fey, and his kingdom grew significantly when Amberglow fell.
+One of the rules of Twilight's Grace is that fey lords are not allowed to torment humans of Tyrwinghan, there is a degree to which they are under the protection of Ethlenn. 
 
-%% Somewhat complicated motivations -- the darkness and cruelty of his kingdom is part a reflection of his deep unhappiness and desire to be back amongst the glittering twilight of Ethlenn %%
+Umbraeth broke this rule, and in a relatively egregious way, and was exiled by Ethlenn. She agrees not to harm him if he accepts exile graciously and agrees to never return to her kingdom or the [[Twilight Court]], which he accepts. 
+
+Duskmire is originally estabilshed as a small realm south of Twilight's Grace, overlapped the [[Darkwood]], sometime in the 600s.
+
+When Cloudspinner is imprisoned, Umbraeth is able to expand his realm to the west and does so.
+
+When [[~Urlich Pass Fey Realm~]] falls, Umbraeth expands north, and it is in this period that Duskmire covers the [[Cleenseau Wood]] and more of Sembara:
+
+(Area 1 is original, Area 2 is expansion, in several phases)
+
+![[Pasted image 20231226164816.png]]
+
+ %%
