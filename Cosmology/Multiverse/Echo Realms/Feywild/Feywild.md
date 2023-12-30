@@ -25,6 +25,9 @@ Roughly, the locations of the following Fey realms are known:
 - [[Whispervale]] is north of [[Dreamhaven]], roughly congruent with the lands now occupied by the northern Deno'qai, along the edge of them mountains.
 - [[Splendor's Gleam]] is a small realm, roughly congruent with the northern edge of Lake Valandros and the southern part of the [[Voltara]] plains. 
 - [[Wildrun]] is north and west of [[Splendor's Gleam]], roughly congruent with the Tawir Forest and the Mawarkel Peninsula.
+- [[Sharpspire]] is north of [[Shimmersong]] and west of [[Duskmire]], and is centered around [[Urlich Pass]]. The realm has fallen since the [[Great War]] and is now a no-mans-land
+- [[Duskmire]], is east of [[Sharpspire]] and north of [[Amberglow]], centered on the western parts of Sembara and the [[Duchy of Maseau]]
+- [[Twilight's Grace]], the domain of [[Archfey Ethlenn]], congruent with [[Tyrwingha]]
 
 %% Notes on how the feywild works: 
     

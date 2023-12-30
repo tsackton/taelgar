@@ -29,7 +29,7 @@ Duskmire is originally estabilshed as a small realm south of Twilight's Grace, o
 
 When Cloudspinner is imprisoned, Umbraeth is able to expand his realm to the west and does so.
 
-When [[~Urlich Pass Fey Realm~]] falls, Umbraeth expands north, and it is in this period that Duskmire covers the [[Cleenseau Wood]] and more of Sembara:
+When [[Sharpspire]] falls, Umbraeth expands north, and it is in this period that Duskmire covers the [[Cleenseau Wood]] and more of Sembara:
 
 (Area 1 is original, Area 2 is expansion, in several phases)
 
