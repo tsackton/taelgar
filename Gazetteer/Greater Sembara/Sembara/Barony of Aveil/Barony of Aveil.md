@@ -11,7 +11,7 @@ partOf: Sembara
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Barony of Aveil is one of the oldest baronies in Sembara. The western third of the barony is dominated by the [[Cleenseau Wood]], and ancient old-growth forest. In the north, the [[Aveil Ridge]], a small escarpment, defines the northern quarter of the barony, and is home to the seat of the baron, [[Veltor]], a small fortified castle near the headwaters of the [[Auberonne]]. Two rivers run through the barony: the [[Auberonne]], which runs the length of the barony, and the [[Leandre]] which is smaller and flows from the [[Cleenseau Wood]] to the [[Auberonne]]. 
+The Barony of Aveil is one of the oldest baronies in Sembara, sitting between the [[Western Marches]], the powerful [[Duchy of Wisford]], and the sparsely settled [[Borderlands]]. The western third of the barony is dominated by the [[Cleenseau Wood]], and ancient old-growth forest. In the north, the [[Aveil Ridge]], a small escarpment, defines the northern quarter of the barony, and is home to the seat of the baron, [[Veltor]], a small fortified castle near the headwaters of the [[Auberonne]]. Two rivers run through the barony: the [[Auberonne]], which runs the length of the barony, and the [[Leandre]] which is smaller and flows from the [[Cleenseau Wood]] to the [[Auberonne]]. 
 
 The borders of the barony are the height of land of the [[Aveil Ridge]] in the north, 12 miles from the course of the [[Auberonne]] in the east, the [[Enst]] in the south, and, for all practical purposes, the eastern edge of the [[Cleenseau Wood]].
 
