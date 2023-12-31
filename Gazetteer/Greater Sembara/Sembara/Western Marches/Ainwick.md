@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/stub, status/unknown]
 name: Ainwick
 typeOf: town
@@ -7,6 +7,7 @@ partOf: Barony of Ainwick
 ---
 # Ainwick
 >[!info]+ Information
-> A town in the [[Barony of Ainwick]], [[Sembara]], the [[Western Green Sea Region]]
+> `$=dv.view("_scripts/view/get_Affiliations")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A town in western Sembara, on the upper reaches of the River Wistel. The seat of the Barony of Ainswick. 
+A town in western Sembara, on the upper reaches of the River Wistel. The seat of the Baron of Ainswick. 

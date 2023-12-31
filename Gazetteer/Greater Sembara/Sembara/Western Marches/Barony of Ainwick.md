@@ -3,7 +3,7 @@ tags: [place, status/stub, status/unknown]
 campaignInfo:
 name: Barony of Ainwick
 typeOf: barony
-partOf: Sembara
+partOf: Western Marches
 ---
 # The Barony of Ainwick
 >[!info]+ Information

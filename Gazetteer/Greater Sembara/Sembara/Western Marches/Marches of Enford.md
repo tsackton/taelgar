@@ -3,7 +3,7 @@ tags: [place, status/stub, status/unknown]
 campaignInfo:
 name: Marches of Enford
 typeOf: march
-partOf: Sembara
+partOf: Western Marches
 ---
 # The Marches of Enford
 >[!info]+ Information

@@ -1,23 +1,24 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-name: Isabeau D'Amboise
+name: Isabeau D'Aslain
 born: 1672
 species: human
 ancestry: Sembaran
 gender: female
 title: Baroness
-whereabouts: Barony of Aveil
+whereabouts: 
+- { type: home, location: Aslain }
+- { type: home, location: Veltor }
 affiliations:
 - { org: Barony of Aveil, start: 1719-04, type: leader}
 ---
-# Baroness Isabeau D'Amboise
+# Baroness Isabeau D'Aslain
 >[!info]+ Biographical Info
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
 
 %% 
 Just a name for the current Baron -- and a note, she’s newly appointed this spring after the old baron was charged with treason (for embezzling crown funds) and executed 
