@@ -4,7 +4,7 @@ tags: [place, status/stub, status/unknown]
 campaignInfo:
 name: Barony of Aveil
 typeOf: barony
-partOf: Sembara
+whereabouts: Sembara
 ---
 # The Barony of Aveil
 >[!info]+ Information

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/mike]
+tags: [person]
 campaignInfo:
 - {campaign: clee, type: met, date: 1719-10-28}
 name: Erdu
@@ -17,6 +17,6 @@ whereabouts: Ganboa
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on October 28th, 1719 in [[Ganboa]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
-The spokesperson for the village of [[Ganboa]] when dealing with humans. Older, with graying scale.
+The spokesperson for the village of [[Ganboa]] when dealing with humans. Older, with graying scales.
 
 ![[lizardfolk-erdu.png]]

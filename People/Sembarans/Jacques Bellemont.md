@@ -4,7 +4,7 @@ tags: [person/ruler, status/unknown]
 born: 1659
 title: Duke
 affiliations:
-- { type: leader, org: Duchy of Wisford }
+- { type: leader, org: Duchy of Wisford, start: 1700 }
 ---
 # Jacques Bellemont
 >[!info]+ Biographical Info
