@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-campaignInfo: []
 name: Cleenseau
-typeOf: town
-partOf: Barony of Aveil
+typeOf: settlement
+typeOfAlias: town
+whereabouts: Barony of Aveil
 pronunciation: Klen-sew
 population: 1189
 ---

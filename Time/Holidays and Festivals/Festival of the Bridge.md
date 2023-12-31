@@ -1,7 +1,5 @@
 ---
 tags: [holiday, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
-campaignInfo: []
 name: Festival of the Bridge
 fc-date: {day: 3, month: 11}
 ---
