@@ -23,4 +23,7 @@ affiliations:
 %% 
 Just a name for the current Baron -- and a note, she’s newly appointed this spring after the old baron was charged with treason (for embezzling crown funds) and executed 
 Current thinking is that the old baron was actually a "good guy" and killed by the lich; whether Isabeau is working with him, a dupe, or something else is not clear
+
+husband: Giles
+captain: Julien Leclair
 %%

@@ -9,3 +9,4 @@ partOf: Western Marches
 >[!info]+ Information
 > A barony in [[Sembara]], the [[Western Green Sea Region]]
 
+An ancient barony in Sembara, historically aligned with the powerful [[Duchy of Wisford]].
