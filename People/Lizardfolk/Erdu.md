@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/mike]
 campaignInfo:
 - {campaign: clee, type: met, date: 1719-10-28}
 name: Erdu
