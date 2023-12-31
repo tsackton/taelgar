@@ -4,7 +4,7 @@
 The upper deck consists of, from stern to prow:
 
 * the shrine to the [[Tanshi|tanshi]], tended by [[Delwath]]   %% in future, a Deno'qai, [[Jotha]] %%
-* the elven garden and greenhouse, tended by [[Egnir]]
+* the elven garden and greenhouse, tended by [[Egnir]] %% still to be introduced %%
 * the elven tree, grown from seed by [[Kenzo]]
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and the map room, tended by [[Wellby]] (%% assistant tbd %%)
 * On a sky deck built above the map room, [[Seeker|Seeker's]] observatory
@@ -112,7 +112,7 @@ The lower deck consists of, from stern to prow:
 * [[Faldrak Bronzehammer|Faldrak's]] workshop
 * the archives and research library, tended by [[Nuzkar]]
 * a sparing and exercise room, tended by [[Aygul]]
-* a shring to the [[Bahrazel]], tended by [[Riswynn]]
+* a shrine to the [[Bahrazel]], tended by [[Riswynn]]
 * the smithy, tended by [[Kethra]]
 
 > [!info]+ Game Room
@@ -174,7 +174,7 @@ The lower deck consists of, from stern to prow:
 
 
 > [!info]+ Smithy
-> > Tended by: ~tbd smith~
+> > Tended by: [[Kethra|Kethra Silverspark]]
 > >Game Effect: Smithy
 > >Size: 16 squares (Roomy)
 > > Order: Craft (1d4 BP)

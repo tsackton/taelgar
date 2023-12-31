@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place]
 name: Istaros
 typeOf: river
 whereabouts: Istaros Watershed
@@ -35,5 +35,3 @@ Once, the Istaros joined the Hara, forming a broad river that flowed past the fa
 ## Names
 
 The Istaros has many names. To the original Drankorians, the refugees from [[Hkar]] after [[the Downfall]], it was known by its elvish name, Aistanë (EYE-stah-neh), meaning 'blessed water'. To the [[orcs]] of [[Xurkhaz]], it is known as the Drogar. To the Dunmari, it is known as the Mahar. The name Istaros is likely a corruption of the Elvish, in the years after the [[Great Plague]] and the fall of Drankor.
-
-%% Tim: all looks good to me, I changed the last sentence to make Istaros a name from longer ago than just the Great War %%

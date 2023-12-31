@@ -1,15 +1,15 @@
 ---
-tags: [mc/aware, historical, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+headerVersion: 2023.11.25
+tags: [mc/aware, historical, person]
 campaignInfo: []
-name: Khathayi
+name: Khathayi the Flametongue
 born:
 species:
 ancestry:
 gender:
 ---
-# Khathayi
->[!info]+ Biographical Summary
->unknown species, they/them
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+# Khathayi the Flametongue
 
+%% notes
+a mysterious entity buried on the north of the Mawakel Peninsula, assocated with elemental fire. No details invented.
+%%
