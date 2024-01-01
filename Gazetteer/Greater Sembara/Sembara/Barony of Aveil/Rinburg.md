@@ -2,7 +2,8 @@
 tags: [place, status/unknown]
 campaignInfo: []
 name: Rinburg
-typeOf: town
+typeOf: settlement
+typeOfAlias: town
 population: 2341
 partOf: Barony of Aveil
 ---
