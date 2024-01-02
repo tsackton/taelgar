@@ -16,14 +16,14 @@ The people of Ursk speak their own tongue. Common is rarely spoken, although the
 ## Rumors
 
 The northern coasts between Skaegenland and Ursk are inhospitable, with few or no safe harbors, generally sheer cliffs and rocky coasts, and no ports. Who or what lives there is anyone's guess, and no one has ventured into the interior and returned. But many rumors fly:
-	- The Last Kingdom of the Giants
-	- Fierce snow elves
-	- Shapeshifters and changelings
-	- A hidden kingdom of wizards who fled the destruction of Drankor
-	- A kingdom of wild folk led by a queen who can turn into a massive winter wolf at will
-	- The kingdom of giant eagles
-	- A dense cold forest of talking trees who attack and kill any wooden ship that attempts to anchor
-	- The secret kingdom of a vampire who snacks on unwary sailors
+- The Last Kingdom of the Giants
+- Fierce snow elves
+- Shapeshifters and changelings
+- A hidden kingdom of wizards who fled the destruction of Drankor
+- A kingdom of wild folk led by a queen who can turn into a massive winter wolf at will
+- The kingdom of giant eagles
+- A dense cold forest of talking trees who attack and kill any wooden ship that attempts to anchor
+- The secret kingdom of a vampire who snacks on unwary sailors
 
 %% NOTES, FROM GOOGLE DRIVE
 

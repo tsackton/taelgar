@@ -22,4 +22,10 @@ Near the confluence with the Hara stands a [[Stoneborn Statue Dungeon|massive st
 perhaps like https://en.wikipedia.org/wiki/Zanskar_River
 
 Probably doesn't belong in this note (rather in the Sentinels note) but I tihnk the Thandar descends from the steepest section of the southern Sentinels, between the two passes
+
+other name ideas
+Baraphi (bə-RA-fee)
+VASANTA (və-SUN-tə)
+Rava 
+
 %%

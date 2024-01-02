@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, status/namecheck, status/tim, place]
+tags: [status/needswork/wip, place]
 partOf: Western Marches
 typeOf: march
 ---
