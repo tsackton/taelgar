@@ -33,6 +33,6 @@ When [[Sharpspire]] falls, Umbraeth expands north, and it is in this period that
 
 (Area 1 is original, Area 2 is expansion, in several phases)
 
-![[Pasted image 20231226164816.png]]
+![[duskmire-rough-map.png]]
 
  %%
