@@ -1,3 +1,3 @@
 ---
-tags: [place, stauts/unknown]
+tags: [place, status/unknown]
 ---
