@@ -1,5 +1,5 @@
 ---
-tags: [status/tim]
+tags: 
 ---
 
 The first letter reads:

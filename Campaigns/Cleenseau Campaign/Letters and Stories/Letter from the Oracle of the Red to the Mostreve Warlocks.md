@@ -1,5 +1,5 @@
 ---
-tags: [status/tim]
+tags: 
 ---
 
 An order from the Oracle of the Red:
