@@ -13,7 +13,7 @@ update player map with more recent, cleaned up version
 
 ```leaflet 
 id: world-of-taelgar
-image: [[taelgar-world-map.png]] 
+image: [[map-2024-01-02.png]] 
 bounds: 
 - [0,0]
 - [5156.7, 6636.233]
