@@ -1,5 +1,5 @@
 ---
-tags: [status/tim]
+tags:
 ---
 
 You discover an excerpt from a Drankorian tome, [[On the Creation and Destruction of Extra-Material Realms]], embedded in a Insinguen translation of a review of critical reactions to a famous Drankorian play, [[A Fool's Fortune]]. 
