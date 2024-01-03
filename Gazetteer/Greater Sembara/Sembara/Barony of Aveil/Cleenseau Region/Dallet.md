@@ -6,8 +6,10 @@ name: Dallet
 typeOfAlias: village
 typeOf: settlement
 whereabouts: Barony of Aveil
+pronunciation: da-LEH
 ---
 # Dallet
+*(da-LEH)*
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

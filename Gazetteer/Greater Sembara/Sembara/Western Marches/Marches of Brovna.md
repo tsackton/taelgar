@@ -10,10 +10,3 @@ typeOf: march
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 This is a frontier land west of [[Ainwick]], and the lords here have as much in common with [[Ardlas]] as they do the crown in [[Embry]]. 
-
-%% Other name ideas
-
-more northern: Brovna: Borivna, Brovina
-Or something more French:  Montsé  (mont-see) 
-
-%%

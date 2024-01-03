@@ -10,5 +10,3 @@ typeOf: barony
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Barony of Usbourg is northern of the two frontier baronies along the [[Western Wall of Sembara]].
-
-%% Tim: just looking for name review in case you hate it %%
