@@ -8,7 +8,7 @@ affiliations: [{org: Shakun, type: primary}]
 ancestry: Dunmari
 typeOf: holy site
 whereabouts: 
-- {type: home, location: Red Mesa, format: rq}
+- {type: home, location: Red Mesa}
 ---
 # Shakun’s Wellspring
 >[!info]+ Information

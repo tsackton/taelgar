@@ -7,7 +7,7 @@ name: Askandi
 typeOf: city
 ancestry: Dunmari
 whereabouts:
-- {type: home, location: Central Dunmar, format: FRq }
+- {type: home, location: Central Dunmar}
 ---
 # Askandi
 *(uh-SKUN-dee)*
