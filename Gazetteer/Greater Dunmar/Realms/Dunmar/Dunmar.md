@@ -3,10 +3,12 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork]
 name: Dunmar
 whereabouts: Greater Dunmar
+created: 1173
 typeOf: realm
 ---
 # Dunmar
 >[!info]+ Information
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
@@ -21,12 +23,29 @@ Now, Dunmar is culturally divided by the [[Yuvanti Mountains]] and the [[Darba H
 Nonetheless, the Dunmari remain united by their worship of the [[Five Siblings]], the divinities that protect the people, and worship of these deities is a central part of all Dunmari culture and civic life. 
 ## Geography 
 
-Dunmar is the largest and most significant populated realm in the [[Greater Dunmar]] region, covering nearly 400,000 square miles, although much of that territory is sparsely settled or uninhabited desert. 
+Dunmar is the largest and most significant populated realm in the [[Greater Dunmar]] region, covering nearly 400,000 square miles, although much of that territory is sparsely settled or uninhabited desert.  
 
+On the western coast, the broad, flat [[Nayan Floodplains]] stretch between the [[Yuvanti Mountains]] and the [[Nevos Sea]], a largely flat expanse of subtropical and tropical savannah. Further north, the rocky river valleys of the [[Darba Highlands]] stretch between the northern edge of the [[Yuvanti Mountains]] and the [[~Darba Coastal Mountains~]]. 
+
+Inland, Dunmar is dominated by the [[Dunmari Basin]], a flat depression surrounded by the [[Copper Hills]], the [[~Darba Coastal Mountains~]], the [[Myraeni Gap]], the [[Sentinel Range]], and the high interior [[Garamjala Plateau]], now extremely arid and primarily [[Garamjala Desert|desert]].
 ### Climate
 
+The climate of Dunmar is dominated by the seasonal monsoons, which bring moisture from the Nevos Sea inland during the summer months, and the Yuvanti Mountains, which create a rain shadow over the Garamajala. 
 
+While the [[Nayan Floodplains]] and the [[Darba Highlands]] generally are a tropical or subtropical humid monsoon climate, the Dunmari Basin is drier. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
 ### Regions
+
+Although there are no formal administrative units within Dunmar larger than individual temple districts, conventionally Dunmar consists of four major regions.
+
+- [[Eastern Dunmar]], roughly the easternmost third of the country, contains the land around [[Karawa]] and the [[Red Mesa]], and the fringes of settled land along the [[Garamjala Desert]], as well as the more habitable [[Samtal]] north of the [[~Karawa Desert~]].
+- [[Central Dunmar]], the largest region by land area, is dominated by the [[Hara Watershed]], and contains the important cities of [[Tokra]], [[Askandi]], and [[Songara]], as well as the fertile grasslands of the [[~Songara Plains~]]. 
+- [[Coastal Dunmar]], the smallest and wealthiest region, is dominated by the port city of [[Darba]] and the [[~Darba River~]], which flows through the [[Darba Highlands]]. 
+- [[Western Dunmar]], the administrative and political capital of the [[Nayan Dynasty]], and the most populous region of Dunmar, contains the city of [[Nayahar]] and the [[Nayan Floodplains]].
+
+Not part of Dunmar nor claimed by Dunmari rulers, but cutting through the territory of the realm, are the [[Yuvanti Mountains]], home to the dwarves of [[Nardith]]. 
+### Borders
+
+
 
 
 
