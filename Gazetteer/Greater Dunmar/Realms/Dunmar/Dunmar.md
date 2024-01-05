@@ -21,6 +21,7 @@ During the [[Great War]], however, Dunmar suffered terribly. The [[Dharajun Dyna
 Now, Dunmar is culturally divided by the [[Yuvanti Mountains]] and the [[Darba Highlands]]. To the east, the Dunmari who live in the dry, arid grasslands and deserts of the [[Dunmari Basin]] maintain a traditional nomadic way of live, moving with their herds of horses, sheep, and goats across the plains with the seasons, and gathering at temples and religious sites to mark the festivals and turnings of the year. To the west, the people living on the coastal plains and in the river valleys and rolling hills of highlands have adopted a much more sedentary lifestyle, with a much greater focus on permanent agriculture. 
 
 Nonetheless, the Dunmari remain united by their worship of the [[Five Siblings]], the divinities that protect the people, and worship of these deities is a central part of all Dunmari culture and civic life. 
+
 ## Geography 
 
 *See more: [[Greater Dunmar|Greater Dunmar Region]]*
@@ -30,11 +31,13 @@ Dunmar is the largest and most significant populated realm in the [[Greater Dunm
 On the western coast, the broad, flat [[Nayan Floodplains]] stretch between the [[Yuvanti Mountains]] and the [[Nevos Sea]], a largely flat expanse of subtropical and tropical savannah. Further north, the rocky river valleys of the [[Darba Highlands]] stretch between the northern edge of the [[Yuvanti Mountains]] and the [[~Darba Coastal Mountains~]]. 
 
 Inland, Dunmar is dominated by the [[Dunmari Basin]], a flat depression surrounded by the [[Copper Hills]], the [[~Darba Coastal Mountains~]], the [[Myraeni Gap]], the [[Sentinel Range]], and the high interior [[Garamjala Plateau]], now extremely arid and primarily [[Garamjala Desert|desert]].
+
 ### Climate
 
 The climate of Dunmar is dominated by the seasonal monsoons, which bring moisture from the [[Nevos Sea]] inland during the summer months, and the [[Yuvanti Mountains]], which create a rain shadow over the Garamajala. 
 
 The [[Nayan Floodplains]] and the [[Darba Highlands]] generally are a tropical or subtropical humid monsoon climate, with extensive monsoon rains in June, July, August, and September. The [[Dunmari Basin]] is drier, with less overall rain and a shorter monsoon season. More rain falls in the west and north, and less in the south and east, so the richest grasslands tend to be the northwestern parts of Dunmar. The eastern and southern edges of the country are desert. 
+
 ### Regions
 
 Although there are no formal administrative units within Dunmar larger than individual temple districts, conventionally Dunmar consists of four major regions.
@@ -57,18 +60,21 @@ To the north, the [[Sentinel Range]] forms the northern, and largely impassible,
 ## History
 
 Dunmar was founded in DR 1173, by a people from far to the east and south, who journeyed a long distance fleeing a great disruption in their homeland. Though the land they settled, what would become Dunmar, was ashy and cursed, a divine miracle healed the land for them to settle, and became the [[The Founding of Dunmar|founding myth]] of the realm.
+
 ### Aatmaji Dynasty
 DR 1173 - DR 1395
 
 *See also: [[Timeline of the Aatmaji Dynasty]]*
 
 The first Samraat of Dunmar, the blessed [[Bhishma]] who became a deity after her death, founded the ruling [[Aatmaji dynasty]], which ruled Dunmar for 212 years. During this time, [[Kharsan]] was the chief administrative headquarters of the realm, and the heartland of Dunmar was centered on the Khartja river valley. The greatest dangers that threatened the new kingdom came out of the swamps of [[Drankor]], a cursed land still. The Aatmaji Dynasty ended when the Samraat Aatmaji [[Dasa]], the last of the Aatmaji rulers attempted to invade [[Drankor]], and failed, disastrously, never to return. 
+
 ### Dharajun Dynasty
 DR 1403 - DR 1545
 
 *See also: [[Timeline of the Dharajun Dynasty]]*
 
 The [[Dharajun Dynasty]] was founded by Samraat Dharajun [[Jita]], a young woman from the [[~Songara Plains~]], skilled in battle and horsemanship. Uniting the Dunmari in the aftermath of the chaos that followed Dasa's defeat, Jita moved the administrative and religious center of the country to [[Tokra]], and ushered in a century of prosperity for the Dunmari. In the last years of the Dharajun Dynasty, the [[Hobgoblins|hobgoblin]] threat grew in the north, and extensive fortifications along the [[~AncientWestRoad~]] and the [[Sone]] were constructed. The Dharajun Dynasty fell in the [[Great War]], as Dunmar faced its greatest threat. 
+
 ### Nayan Dynasty
 DR 1557 - 
 
@@ -77,9 +83,9 @@ DR 1557 -
 The [[Great War]] left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [[Yuvanti Mountains]] rising to the west, and the new lands of the [[Nayan Floodplains]] emerging from the [[Nevos Sea]]. The [[Nayan Dynasty]] was founded in the west, establishing a new administrative center, [[Nayahar]], on the [[Nayan]] River, and slowly reclaims land as far east as the [[~Karawa Desert~]]. 
 
 The first 50 years of the [[Nayan Dynasty]] was marked by a series of wars: 
-- [[Fire War]], against the fire giant [[Mavdyr]] and his allies
-- The Bitter Knife war, against the Bitter Knife hobgbolin nation based in the [[Nashtkar]]
-- The Northern War, against the [[Blackened Claw]] hobgoblin clan based in the [[Samtal]] and the upper reaches of the [[Hara]]. 
+- The [[Fire War]], against the fire giant [[Mavdyr]] and his allies
+- The [[Bitter Knife War]], against the Bitter Knife hobgbolin nation based in the [[Nashtkar]]
+- The [[Northern War]], against the [[Blackened Claw]] hobgoblin clan based in the [[Samtal]] and the upper reaches of the [[Hara]]. 
 
 At the end of the Northern War in the 53rd year of the Nayan Dynasty (DR 1610), the hobgoblin threat from the [[Desolation of Cha'mutte]] was decisively defeated. Over the next 100 years, the attention of the Nayan Samraats largely turned to the lands around the [[Shrev]] and beyond, as repeated, unsuccessful attempts were made to clear the various magical dangers of the jungles beyond.
 
@@ -93,17 +99,20 @@ In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity 
 
 ### Culture
 
-The Dunmari have long been a nomadic people, and many of 
+The Dunmari have long been a nomadic people, traditionally moving seasonally with their horses and herds, and only returning to permanent settlements and temples for major festivals. They are known for skill with animals, prowess in battle, and a close connection to their gods, the [[Five Siblings]]. The traditional focus of Dunmari settlement on religious, monumental, and administrative buildings has led to a variety of distinctive [[Dunmari Architecture|Dunmari architectural styles]]. 
+
+During the Nayan Dynasty, a more sedentary culture has developed on the fertile [[Nayan Floodplains]] and [[Darba Highlands]]. 
 
 ### Political Organization
 
-*See more: [[Government of Dunmar]]*
+*See more: [[Dunmari Government]]*
 
 Dunmar is a theocratic monarchy, in which all power ultimately flows from the gods. The land of Dunmar itself is held in trust for the gods, and cannot be owned in a formal sense by mortals. The Samraat is the representative of the [[Five Siblings]] on Taelgar, and is formally both the head of state and the head of the temple organization in Dunmar, which are traditionally considered the same office. 
 
 Administratively, the Dunmari state is organized and run through temple districts. All Dunmari are members of a particular temple, a home region to return to for festivals and other significant religious events. It is through these temples that taxes and justice and other instruments of state operate. While the Samraat is the supreme leader of the temple organization, there is little other formal hierarchy, and the head priests of each temple district are legally equal. 
 
 Each head priest is also, by virtual of being a head priest, a member of the temple conclave, which also includes the speakers of the various mystical cults dedicated to specific divinities in Dunmar. The most important responsibility of the temple conclave is the election of the Samraat, which involves interpreting the divine will of the [[Five Siblings]].
+
 ### Justice and the Law
 
 In Dunmar, the law is religious law, and reflects the obligations of the community to the gods. Justice flows from the gods to the people. [[Sonkar]], in particular, is seen as the arbiter of justice, and many medium or large temples often have a specific priest dedicated to Sonkar who has the charge of deciding guilt or innocence. Interpretation of the will of the gods is key to justice, and minor miracles and divine magic are often crucial to this determination. 
@@ -111,6 +120,7 @@ In Dunmar, the law is religious law, and reflects the obligations of the communi
 The Samraat, as the supreme head of the temple, has the authority to overrule any decision of justice, and is themselves above mundane justice. 
 
 Punishments in Dunmar rarely involve humiliation or pain, which is seen as cruel by the gods. Instead, they typically involve penance and restitution, which can include substantial fines or service obligations. More serious punishments include banishment, death, and excommunication. Excommunication, the most severe punishment possible, always involves the direct intervention of the gods themselves, as this ultimately condemns the soul of the perpetrator to dissolution.
+
 ### Religion
 
 *See more: [[Five Siblings|Five Siblings of the Dunmari]]*
@@ -120,6 +130,7 @@ The Dunmari worship a close pantheon of deities, known as the [[Five Siblings]],
 For most Dunmari, the yearly cycle of [[Dunmari Festivals]] define their relationships to the gods. In particular, the major festivals of the year are typically celebrated at temples, and most Dunmari travel to their home temple for these occasions. Many Dunmari also carry with them shrines -- small icons and statuary of the gods, often carved or sculpted, that serve as a locus for prayer among a nomadic people. 
 
 Outside of the normal temple organization are the [[Dunmari Mystery Cults]], mystical and magical secret organizations, each dedicated to one of the Dunmari gods.
+
 ### Magic
   
 The Dunmari make little distinction between arcane, divine, and primal magic: all magic is ultimately considered to be the provenance of the gods. Nonetheless, the minor miracles of the gods associated with divine magic are by far the most common magical practice commonly seen among the Dunmari. 
@@ -127,50 +138,16 @@ The Dunmari make little distinction between arcane, divine, and primal magic: al
 Dunmari who display unusual magical talents or wish to seek other magical learning beyond channeling the miracles of the gods usually can only do so via the [[Dunmari Mystery Cults]]. While the details are not reveled to outsiders, most of the mystery cults have associated magical traditions as well. For example, rumors persist that some initiates of the Chidyan mysteries can turn into animals.
 
 In general, the practice of magic by those who are not priests or mystai is frowned upon, although not outright forbidden. Foreigners, including non-humans, usually an exception to this attitude. 
+
 ### Economy, Trade, and Foreign Relations
 
+*See also: [[Dunmari Economy]]
 
+Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the Hara river valley, as well as near the oases of the [[Red Mesa]].
 
-- Dunmar is largely agrarian, with an economy dominated by animal production -- horses, most notably, but also leather products, wool, hides, and fur. 
-    
-- In the west, fertile land means that crop agriculture is becoming more important for the economy
-    
-- Historically, the economy was supported in part by trade, both as caravans/guards/merchants but also running a high speed message service that could move information very quickly across Dunmar on fast horses. But now, this is a minor part of the economy.
-    
+While historically Dunmar gained much wealth from its central position on trade routes between the east and west, since the [[Great War]] minimal trade, mostly carried by long distance halfling caravans, moves from the [[Green Sea]] to [[Chardon]].  Nonetheless, Dunmar, especially [[Darba]] and [[Songara]], remain important trading centers, with Darba serving as a link between the dwarves of [[Ardith]] and the west, and Songara retaining its ancient role as an important horse market. [[Askandi]], in the south, is an important center of trade with the dwarves of the [[Yuvanti Mountains]], who trade metal and finished metal products to the Dunmari. 
 
-- What is left of this trade economy mostly involves the Dwarf/Chardon trade, which passes through western Dunmar to the coast, or through central Dunmar to Songara. 
-    
-- The message system is largely extinct now, but fast messages still run from Askandi -~ Tokra -~ Songara, and Nayahar -~ Darba -~ Tokra; the latter is more efficient as it still has full official support and stocked waystations
-    
-- Trade that comes from the east usually runs via halfling caravans out of Sembara, who trade for Dunmari goods to bring on to Chardon
-    
-- Songara is a major horse trading center
-    
-
-- Timber is becoming an important product of the far south, south of the Shrev, and the trade in tropical hardwoods north to Chardon is a major source of wealth in the current dynasty
-    
-- A lot of food, especially water-intensive crops, is imported from Chardon, although less so as agricultural develops in the west, and the traditional Dunmari diet is almost all forage and animal products, with a lot of yogurt and cheese and such, plus meat’
-    
-#### Coins
-
-Coins are not commonly used in the current day in Eastern Dunmar, as much trade is conducted in barter and in kind. 
-
-The king in Nayahar mints coins, however, and these are in occasional use in the east.
-
-Gold coins (worth 1 gp) are known as steeds; silver coins as rupas, and copper coins as taams.
-
-Older coins from pre-Blood Years uses the same names, but tended to be larger and more pure, and so can trade for more than their 'face value'
-
-Steeds = 2 gp
-Rupas = 4 sp
-
-Taams = 1 cp
-
-(may change these values; 1 steed = 5 rupas = 400 taams, so 1 rupa = 80 taams)
-  
-Dwarven coins are in common usage in Dunmar as well, especially iron trading coins, known as nibs, that are backed by a gold standard but not otherwise containing any intrinsic worth. Nibs in 5 sp, 1 gp, 10 gp, and 50 gp are known. Dwarven trade bars, stamped with a known weight of silver or gold, are commonly used for large transactions in Dunmar as well.
-
-
+With trade connections to Chardon growing, the Nayan Floodplains have also begun to develop a significant timber industry, focused on sought-after tropical hardwoods. 
 
 %%^Campaign:None%%
 ## Places in Dunmar
