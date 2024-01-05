@@ -6,8 +6,9 @@ name: Greater Dunmar
 typeOf: region
 partOf: Taelgar
 ---
-# The Central Lowlands Region
+# Greater Dunmar
 >[!info]+ Information
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 This region of Taelgar includes the land south of the [[Sentinel Range]], from the [[Myraeni Gap]] and the Dunmari coast in the west, past the [[Garamjala Desert]] and the [[Nashtkar]] in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [[Drankor]], and beyond to the [[Sea of Storms]]. 
