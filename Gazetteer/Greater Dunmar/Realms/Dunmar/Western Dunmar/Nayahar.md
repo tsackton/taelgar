@@ -4,6 +4,7 @@ tags: [place]
 campaignInfo: []
 name: Nayahar
 typeOf: city
+ancestry: Dunmari
 created: 1557
 whereabouts: Western Dunmar
 ---
@@ -13,7 +14,7 @@ whereabouts: Western Dunmar
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A large Dunmari city located close to the head of navigation of the [[Nayan]] river. The administrative center of the [[Nayan Dynasty]], home of the Samraat court. 
+A Dunmari city located close to the head of navigation of the [[Nayan]] river. The administrative center of the [[Nayan Dynasty]], home of the Samraat court. 
 
 %%  notes
 history:
