@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source, status/unknown]
-campaignInfo: []
+tags:
+  - place
+  - event-source
+  - status/unknown
+campaignInfo: 
 name: Darba
 typeOf: city
-partOf: Western Dunmar
+partOf: Coastal Dunmar
 ---
 # Darba
 >[!info]+ Information
