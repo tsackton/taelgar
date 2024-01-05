@@ -161,7 +161,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1644), fall: After several early successes, the Sembaran [[Army of the South]] is fought to a stalemate at the [[Battle of Lysandale]] in the western reaches of Maseau
 - (DR:: 1644), fall: The [[Shattered Ice Clan]] abandons the campaign in [[Duchy of Maseau|Maseau]] and redirects their armies to [[Sembara]]
 - (DR:: 1644), late fall/winter: The [[Shattered Ice Clan]] breaks the fortifications in [[Barony of Vaubonne|Vaubonne]] and camps outside [[Fellburn]]
-- (DR:: 1645): Hobgoblins consolidate the lands south of the [[Enst]] and raid throughout the [[Duchy of Wisford]], the [[Barony of Dunfry]], the [[Barony of Aveil]], and the [[Barony of Ainwick]]. 
+- (DR:: 1645): Hobgoblins consolidate the lands south of the [[Enst]] and raid throughout the [[Duchy of Wisford]], the [[Barony of Dunfry]], and the [[Barony of Aveil]]
 - (DR:: 1646), summer: The Sembaran [[Grand Army of Sembara (Third Hobgoblin War)|Grand Army]] is defeated at the [[Battle of Rinburg]]. 
 - (DR:: 1647): The [[Shattered Ice Clan]] controls all of the lands west of the [[Mostreve Hills]] and the [[Aure]], between [[Valarin]] and the [[Enst]], and holds several towns on the north side of the Enst including [[Cleenseau]] and [[Rinburg]].
 - (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the [[Earl of Addermarch]] holds the line of the [[Aure]] at the [[Battle of the Aure]]
