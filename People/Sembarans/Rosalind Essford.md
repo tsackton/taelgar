@@ -15,7 +15,9 @@ affiliations:
 - {org: Cleenseau, type: leader, title: Lady, start:  1720-02-12 }
 whereabouts:
 - {type: home, location: Cleenseau }
-- {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry }
+- {type: away, start: 1720-01-03, end: 1720-01-19, location: travelling to Embry }
+- {type: away, start: 1720-01-06, location: Rinburg }
+- {type: away, start: 1720-01-08, location: Fellburn }
 - {type: away, start: 1720-01-20, end: 9999, location: Embry }
 ---
 # Lady Rosalind Essford
