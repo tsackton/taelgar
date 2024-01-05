@@ -8,6 +8,6 @@ typeOf: battle
 # The Battle of Tokra
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> Part of [[The Siblings War]]
+> Part of [[Siblings War]]
 
 A victory for [[Sura]] against the Chardonian battle mages and a small group of Dunmari warriors loyal to Karnas on December 14th, 1748. 
