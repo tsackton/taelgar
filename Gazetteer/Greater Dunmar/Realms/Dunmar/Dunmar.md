@@ -141,7 +141,7 @@ In general, the practice of magic by those who are not priests or mystai is frow
 
 ### Economy, Trade, and Foreign Relations
 
-*See also: [[Dunmari Economy]]
+*See also: [[Dunmari Economy]]*
 
 Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the Hara river valley, as well as near the oases of the [[Red Mesa]].
 
