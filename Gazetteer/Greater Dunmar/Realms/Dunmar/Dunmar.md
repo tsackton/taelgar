@@ -109,9 +109,9 @@ During the Nayan Dynasty, a more sedentary culture has developed on the fertile 
 
 Dunmar is a theocratic monarchy, in which all power ultimately flows from the gods. The land of Dunmar itself is held in trust for the gods, and cannot be owned in a formal sense by mortals. The Samraat is the representative of the [[Five Siblings]] on Taelgar, and is formally both the head of state and the head of the temple organization in Dunmar, which are traditionally considered the same office. 
 
-Administratively, the Dunmari state is organized and run through temple districts. All Dunmari are members of a particular temple, a home region to return to for festivals and other significant religious events. It is through these temples that taxes and justice and other instruments of state operate. While the Samraat is the supreme leader of the temple organization, there is little other formal hierarchy, and the head priests of each temple district are legally equal. 
+Administratively, the Dunmari state is organized and run through temple districts. All Dunmari are members of a particular temple, a home region to return to for festivals and other significant religious events. It is through these temples that taxes and justice and other instruments of state operate. Indeed, Dunmar does not define itself by borders drawn on a map: to be part of the kingdom of Dunmar is to be part of a temple that acknowledges the supremacy of the Samraat.
 
-Each head priest is also, by virtual of being a head priest, a member of the temple conclave, which also includes the speakers of the various mystical cults dedicated to specific divinities in Dunmar. The most important responsibility of the temple conclave is the election of the Samraat, which involves interpreting the divine will of the [[Five Siblings]].
+While the Samraat is the supreme leader of the temple organization, there is little other formal hierarchy, and the head priests of each temple district are legally equal. Each head priest is also, by virtual of being a head priest, a member of the temple conclave, which also includes the speakers of the various mystical cults dedicated to specific divinities in Dunmar. The most important responsibility of the temple conclave is the election of the Samraat, which involves interpreting the divine will of the [[Five Siblings]].
 
 ### Justice and the Law
 
