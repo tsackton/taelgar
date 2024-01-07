@@ -1,7 +1,7 @@
 ---
 tags: [session-note]
 ---
-# Session 83
+# Session 84
 *in which the party negotiates in Dunmar and travels to Tollen
 
 **In the real world:** December 20th, 2023
