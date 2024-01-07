@@ -1,4 +1,4 @@
-
+%% notes
 The [[Great War]] left Dunmar in chaos and the land changed, with much of the once-fertile heartlands of the country turned to arid, barren deserts, the [[Yuvanti Mountains]] rising to the west, and the new lands of the [[Nayan Floodplains]] emerging from the [[Nevos Sea]]. The [[Nayan Dynasty]] was founded in the west, establishing a new administrative center, [[Nayahar]], on the [[Nayan]] River, and slowly reclaims land as far east as the [[~Karawa Desert~]]. 
 
 The first 50 years of the [[Nayan Dynasty]] was marked by a series of wars: 
@@ -13,3 +13,4 @@ In the 161st year of the Nayan Dynasty (DR 1718), Samraat Nayan Lina came to pow
 Twelve years later, in 183 Nayan (DR 1740), Marathu was killed, along with a young woman named [[Sura]] who was widely seen as blessed by the gods and the obvious choice to succeed Marathu. Karnas, Sura's brother, is proclaimed Samraat [[Nayan Karnas]] by the western temples in 183 Nayan (DR 1740), a move that was seen by many in the east as presumptuous and driven by political, not religious, considerations. 
 
 In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity by the [[Dunmar Fellowship]]; she had been trapped in an extra-dimensional space in a magic mirror by the hag [[Agata|Agata Dustmother]]. Sura's return triggered the [[Siblings War]].
+%%
