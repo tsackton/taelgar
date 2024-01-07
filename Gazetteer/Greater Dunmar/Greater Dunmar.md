@@ -33,5 +33,3 @@ The Central Lowlands region is dominated by four major topographical features.
 ## Climate
 
 While historically the climate in this region was very different, in the current day this region is split between [hot arid desert and semi-arid scrub](https://geodiode.com/climate/hot-deserts), in the interior east of the [[Yuvanti Mountains]],  and both [tropical](https://geodiode.com/climate/tropical-monsoon-and-tropical-savannah) and [subtropical](https://geodiode.com/climate/humid-subtropical) humid monsoon climates on the coast, especially in [[Western Dunmar]] between the [[Yuvanti Mountains]] and the [[Nevos Sea]]. 
-
-### Real World Analogs
