@@ -12,3 +12,5 @@ typeOf: region
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 (stub)
+
+ A region in Dunmar, largely congruent with the [[Hara Watershed]] and the central region of the [[Dunmari Basin]]. 
