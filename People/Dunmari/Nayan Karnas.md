@@ -4,7 +4,7 @@ tags: [dufr/aware, person/ruler, person, dufr/major, status/unknown]
 campaignInfo: []
 name: Nayan Karnas
 aliases: [Karnas]
-born: 1712
+born: 1716
 species: human
 ancestry: Dunmari
 gender: male
