@@ -142,7 +142,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - 36 small silver disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 66 copper disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 7,000 Dwarven gold coins (7,000 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
-- 5,113 Chardonian gold coins (5,113 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
+- 4,113 Chardonian gold coins (4,113 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 2000 Tollender silver goins (200 gp, from The [[Flaming Tempest]])
 - 200 Sembaran gold coins (200 gp, from The [[Flaming Tempest]])
 - 115,000 Chardonian silver coins (11,500 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
