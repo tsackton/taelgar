@@ -17,42 +17,22 @@ tags: [session-note]
 - (DR:: 1749-01-30): (late morning) depart west for the [[Copper Hills]] on [[Vindristjarna]], passing south of [[Karawa]] and the [[Red Mesa]] in the night
 - (DR:: 1749-01-31): Watch the sun rise over the  [[~Southern Tokra Plains~]]; travel across the plains during the day, and reach and cross the [[Hara]] river in the evening. Continue west through the night.
 - (DR:: 1749-02-01):  Reach the outskirts of the Copper Hills in the morning. Speak with [[Sura]] on Vindristjarna, then [[Johar]]. Send messages to the [[Sonkar Mystai]] [[Abha]]. Meditate with Sura in the evening. 
-- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]]. Show [[Nayan Marathu's Letter]] to the [[The Mirror of the Past]], seeing [[Nayan Marathu's Letter Vision]]. Speak with [[Abha]] again. Return to Vindristjarna. 
+- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]]. Show [[Nayan Marathu's Letter]] to the [[The Mirror of the Past]], seeing [[Nayan Marathu's Letter Vision]]. Speak with [[Abha]] again. Return to Vindristjarna. (recharge:: mirror)
 - (DR:: 1749-02-03): Tie up loose ends in Sura's camp. 
-- (DR:: 1749-02-04): Depart for Tollen, via Orenlas.
-- (DR:: 1749-02-05):
-- (DR:: 1749-02-06):
-- (DR:: 1749-02-07):
-- (DR:: 1749-02-08):
-- (DR:: 1749-02-09):
-- (DR:: 1749-02-10):
-- (DR:: 1749-02-11):
-- (DR:: 1749-02-12):
-- (DR:: 1749-02-13):
-- (DR:: 1749-02-14):
-- (DR:: 1749-02-15):
-- (DR:: 1749-02-16):
-- (DR:: 1749-02-17):
-- (DR:: 1749-02-18):
-- (DR:: 1749-02-19):
-- (DR:: 1749-02-20):
-- (DR:: 1749-02-21):
-- (DR:: 1749-02-22):
-- (DR:: 1749-02-23):
-- (DR:: 1749-02-24):
-- (DR:: 1749-02-25):
-- (DR:: 1749-02-26):
-- (DR:: 1749-02-27):
-- (DR:: 1749-02-28):
-- (DR::1749-03-01):
-- (DR::1749-03-02):
-- (DR::1749-03-03):
-- (DR::1749-03-04):
-- (DR::1749-03-05):
-- (DR::1749-03-06):
-- (DR::1749-03-07):
-- (DR::1749-03-08):
-- (DR::1749-03-09):
+- (DR:: 1749-02-04): Depart for Tollen, via Orenlas. Travel to Orenlas, crossing the [[~North Tokra Plains~]]. 
+- (DR:: 1749-02-05): Travel towards Orenlas, passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Stormcaller Tower]].  
+- (DR:: 1749-02-06): Travel towards Orenlas, passing over the [[Sentinel Range|Sentinels]] and into the [[Plaguelands]]. 
+- (DR:: 1749-02-07): Travel towards Orenlas, crossing over the [[Plaguelands]]. 
+- (DR:: 1749-02-08): Travel towards Orenlas, crossing the [[Istaros]] north of the ruins of [[Isingue]]. 
+- (DR:: 1749-02-09): Travel towards Orenlas, crossing the eastern [[Plaguelands]]. 
+- (DR:: 1749-02-10): Travel towards Orenlas, arriving late at night. 
+- (DR:: 1749-02-11): Spend the day in Orenlas, speaking with [[Egnir]]. 
+- (DR:: 1749-02-12): Depart Orenlas in the afternoon, crossing the [[~Cymea Border Mountains~]] in the night. 
+- (DR:: 1749-02-13): Travel across [[Latazaro]] swamp and the [[Western Gulf]] towards [[Tollen]].
+- (DR:: 1749-02-14): Cross the [[Western Gulf]] and the [[~Gulf of Tollen~]], traveling towards [[Tollen]].
+- (DR:: 1749-02-15): Arrive outside [[Tollen]] in the morning. Contact [[Adam Gower]] and others, and dock [[Vindristjarna]] for construction.
+- (DR:: 1749-02-16) - (DR:: 1749-03-08): [[Session 84-85 Interlude (DuFr)|Downtime in Tollen]].
+- (DR::1749-03-09): Meet the [[Kenku|kenku]] scout [[Kecha]] on [[Vindristjarna]]. Shadow hunter attack well after midnight. 
 ## Narrative
 
 We begin as the party departs [[Pava and Avaras' House]], heading west to [[Sura]]'s army camp in the [[Copper Hills]], hoping to negotiate a peace between Sura and her brother, Samraat [[Nayan Karnas]]. In Vindristjarna, the journey across Dunmar takes only two days, and the party arrives at Sura's camp on the morning of February 1st.
@@ -82,8 +62,8 @@ Finally, over Kenzo's qualms, the party decides to show the letter to the [[The 
 
 The party spends the next day tying up loose ends to help the negotiations get started, with Kenzo leaving carved wooden figurines of a united brother and sister for both Sura and Karnas. On February 4th, they depart on Vindristjarna, heading east for Orenlas, and then Tollen, arriving at Tollen in mid-February. 
 
-During this time, the party [[Session 89X Flashback (DuFr)|recruits a gardener in Orenlas]], and [[Session 85 Prequel (DuFr)|gathers information]]. 
+During this time, the party [[Session 85X Flashback (DuFr)|recruits a gardener in Orenlas]], and [[Session 84-85 Interlude (DuFr)|gathers information]]. 
 
-On March 9th, in Tollen, the party meets [[Kecha]], the kenku scout who has volunteered to lead them across the northern wilds, to the inland border of Ursk. He tells them of the dangers they may face: frost giants in the mountains; dragons in the icy north; rumors of a vampire kingdom; ice worms that tear through the forest; and changelings who turn into bears. 
+On March 9th, in Tollen, the party meets [[Kecha]], the kenku scout who has volunteered to lead them across the northern wilds, to the inland border of [[Ursk]]. He tells them of the dangers they may face: frost giants in the mountains; dragons in the icy north; rumors of a vampire kingdom; ice worms that tear through the forest; and changelings who turn into bears. 
 
-In the early morning hours of the March 10th, as the party sleeps on Vindristjarna, they are awakened by screams. 
+In the early morning hours, as the party sleeps on Vindristjarna, they are awakened by screams. 
