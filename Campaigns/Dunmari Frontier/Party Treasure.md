@@ -1,14 +1,13 @@
 ---
 tags: [status/unknown]
 ---
-## Magic Items under Construction by Umli
-
-### Shield upgrade for Delwath
-Upgrade lynx shield from +1 to +2. 
-Requires 12 days (3 days can be done without the shield on prep work), 4000 gp, 7.5 pounds of Skaer steel.
-Start: 19 Jan 1749
-Finished prep: 21 Jan 1749
-Will then finish 9 days after party arrives, skipping Sundays
+## New Treasure from Kharsan
+- A pair of nice wooden spoons from the palace kitchens
+- A wand, broken in half, once magical, but no longer
+- A sword, the blade dulled and the pommel missing, but still magical (+1 sword, lets you cast heroism at 2nd level once per day)
+- A nice leather saddle, cut into four pieces, once magical, but no longer
+- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears 
+- A large collection of damaged paper, recovered from a giant wasp nest in the main archives of the [[Aatmaji Dynasty]] in [[Kharsan]]. 
 ## Magic Items
 
 ### Delwath
