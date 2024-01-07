@@ -6,7 +6,7 @@ born: 1705
 species: human
 ancestry: Dunmari
 gender: female
-affiliations: [Shakun mystai]
+affiliations: [Shakun Mystai]
 whereabouts: Karawa
 ---
 # Cintra
