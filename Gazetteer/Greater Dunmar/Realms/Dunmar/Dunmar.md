@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
+tags: [place]
 name: Dunmar
 whereabouts: Greater Dunmar
 created: 1173
