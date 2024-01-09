@@ -1,15 +1,16 @@
 ---
-tags: [species, status/draft]
+tags: [species, status/tim]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
 typeOf: species
 ---
+%% Tim: This all looks reasonable, if not entirely complete. I think it can go to no status unless you have concerns about the name of the ritual or something%%
 # Orcs
 
 *Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*
 `--` The Blood Binding, excerpt
 
-Scattered across the world of Taelgar small orc bands roam, raiding and pillaging in the name of [[Thark]], the god of war without end. Although most orcs live in small groups, when a leader blessed by [[Thark]] arises, they can bind many orcs together into a fearsome battle horde. 
+Scattered across the world of Taelgar small orc bands roam, raiding and pillaging in the name of [[Thark]], the god of war without end. Although most orcs live in small groups, but when a leader blessed by [[Thark]] arises, they can bind many orcs together into a fearsome battle horde. 
 ## Imposing and Violent
 Orcs are robust and imposing figures, often standing over 6 feet tall, usually with tusks protruding from their lower lips. Their skin tones range from shades of green to a dull gray, typically with black or red eyes. Most orcs die in battle, but those who manage to survive or who escape [[Thark]]'s chains have lifespans similar to humans, although they mature much quicker than humans. 
 

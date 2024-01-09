@@ -1,6 +1,6 @@
 ---
-headerVersion: 2023.11.20
-tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
+headerVersion: 2023.11.25
+tags: [historical, person]
 name: Charlotte I
 born: 1460
 species: human
@@ -14,15 +14,15 @@ leaderOf:
 - {place: Ardlas, start: 1499}
 - {place: Lavnoch, start: 1501}
 - {place: Breva, start: 1506}
-affiliations: [House of Sewick]
+affiliations: [{org: House of Sewick, type: primary}]
 ---
 # Queen Charlotte I
 >[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]], she/her of the [[House of Sewick]]
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-An early ruler of Sembara, of the [[House of Sewick]]. She ruled from the death of her father, [[Derik II]],  in DR 1496 until her passing in DR 1519. Her reign is most famous for the heroism of second son, [[Derik III]], who succeeded her to the throne.
+An early ruler of Sembara, of the [[House of Sewick]]. She ruled from the death of her father, [[Derik II]],  in DR 1496 until her passing in DR 1519. Her reign is most famous for the heroism of second son, [[Derik III]], who succeeded her to the throne, and for the [[Zimkovia|Highland Kingdoms]] accepting her overlordship.
 
 Her eldest son, [[Hugh of Sewick]], predeceased her in the chaos of the times, but her youngest, [[Eloise|Eloise]] lived a long life.
 

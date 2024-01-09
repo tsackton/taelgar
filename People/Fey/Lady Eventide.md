@@ -1,16 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, dufr/met_one, person, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-01, type: met}
 name: Lady Eventide
 born:
 species: fey
-ancestry:
 gender: female
 whereabouts: Amberglow
 ---
+%% Tim: seems complete enough to me; setting status/tim in case you have changes or corrections %%
 # Lady Eventide
 >[!info]+ Biographical Info
 > a [[Fey|fey]] (she/her)

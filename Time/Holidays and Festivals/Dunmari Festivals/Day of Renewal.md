@@ -1,5 +1,5 @@
 ---
-tags: [holiday, status/draft, status/unknown]
+tags: [holiday, status/unknown]
 ---
 
 

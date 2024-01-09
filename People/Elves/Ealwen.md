@@ -1,5 +1,5 @@
 ---
-tags: [status/draft, person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/unknown]
 campaignInfo:
 - {campaign: DuFr, date: 1748-01-16, type: met}
 name: Ealwen

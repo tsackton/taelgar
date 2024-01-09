@@ -1,5 +1,5 @@
 ---
-tags: [session-note, status/unknown]
+tags: [session-note]
 campaign: Cleenseau
 realWorldDate: 2024-01-07
 sessionNumber: 10

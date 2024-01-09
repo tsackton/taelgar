@@ -2,7 +2,7 @@
 tags: [status/unknown]
 ---
 
-**(Sunday, Dec 4th, 2022; in the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]], evening; in Taelgar, Nov 15th)**
+**(Sunday, Dec 4th, 2022; in the [[Feywild]], evening; in Taelgar, Nov 15th)**
 
 Our session begins at Lastlight Falls in the fey realm of [[Amberglow]], where [[Seeker]] has come with the aid of [[Caulaus]], [[Raven]], and [[Spirala]], though [[Raven]] and [[Spirala]] have returned to [[Shimmersong]].  [[Kenzo]] is waiting, and [[Wellby]] arrives shortly afterward. Lastlight Falls is a place close to the [[Cloudspinner]]'s attention, and the session begins with her [[Cloudspinner#^97cec2|memories]]. 
 
@@ -32,7 +32,7 @@ The party arrives in the grove, seeing the massive tree before them, and [[Seeke
 
 [[Kenzo]] speaks with the elder tree of the grove, asking what is to be done. The grove asks for a new guardian, and [[Caulaus]] agrees to take on the role, until the [[Cloudspinner]] returns and he can make amends for the wrongs he cannot remember. And so [[Agata]] is imprisoned in a tree, a fate she imposed on so many, and the party listens to [[Caulaus]]' story before they leave, which [[Kenzo]] [[Caulaus' Story|records]].
 
-We end the session as the party returns to Lastlight Falls and exits the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]] at sunset, to see [[Delwath]] camped, waiting for them on the other side. 
+We end the session as the party returns to Lastlight Falls and exits the [[Feywild]] at sunset, to see [[Delwath]] camped, waiting for them on the other side. 
 
 
 

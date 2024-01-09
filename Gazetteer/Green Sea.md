@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/draft, status/unknown]
+tags: [place, status/unknown]
 campaignInfo:
 name: Green Sea
 typeOf: sea

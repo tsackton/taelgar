@@ -1,5 +1,5 @@
 ---
-tags: [holiday, status/draft, status/unknown]
+tags: [holiday, status/unknown]
 campaignInfo: []
 name: Festival of the New Dawn
 fc-date: {day: 23, month: 1}

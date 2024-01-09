@@ -1,10 +1,11 @@
 ---
-headerVersion: 2023.11.20
-tags: [item/book, item/mundane, status/uptodate, status/unknown]
+headerVersion: 2023.11.25
+tags: [item/book, status/tim]
 campaignInfo:
 - {type: found, date: 1748-04-15, campaign: DuFr}
 - {type: sold, date: 1748-08-09, campaign: DuFr}
 typeOf: book
+subTypeOf: mundane
 whereabouts:
 - {type: home, end: 1748-04-15, location: Stormcaller Tower}
 - {type: home, start: 1748-04-16, end: 1748-08-08, location: Dunmar Fellowship}
@@ -13,11 +14,12 @@ whereabouts:
 # The Lyrics of a New Age
 >[!info]+ Information
 > (mundane book)
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Found by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
->> %%^Campaign:DuFr%% Sold by the [[Dunmar Fellowship]] on August 9th, 1748 in [[Albus]], [[Darba]], the [[Western Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Found owned by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+>> %%^Campaign:DuFr%% Sold owned by the [[Dunmar Fellowship]] on August 9th, 1748 by [[Albus]], in [[Darba]], [[Dunmar]] %%^End%%
 
-This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [[Nelawe]]. This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the tradition poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days of during the Age of Creation. 
+This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [[Nelawe]]. This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the tradition poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days during the Age of Creation. 
 
 The book is clearly well-read, and a few poems mentioning storm giants and their connection to dreams and prophecy seem to be particularly starred. 
 
