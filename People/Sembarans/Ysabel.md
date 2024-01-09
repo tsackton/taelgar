@@ -4,6 +4,7 @@ tags: [person, status/needswork/notes]
 campaignInfo: [ { campaign: clee }]
 name: Ysabel
 born: 1688
+died: 1720-01-06
 species: human
 ancestry: Sembaran
 gender: female
