@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place]
 name: Western Gulf
 typeOf: gulf
 partOf: Western Green Sea

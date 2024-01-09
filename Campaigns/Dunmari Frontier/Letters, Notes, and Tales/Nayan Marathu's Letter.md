@@ -1,0 +1,1 @@
+A letter, supposedly written by the Samraat [[Nayan Marathu]], in which he promises to bring [[Sura]] to [[Agata]], to serve as her apprentice. 

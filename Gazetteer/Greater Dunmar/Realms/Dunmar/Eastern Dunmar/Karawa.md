@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 name: Karawa
 typeOf: town
 partOf: Eastern Dunmar
@@ -10,7 +10,6 @@ partOf: Eastern Dunmar
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A small Dunmari village. Houses of adobe / mud brick, except a few bigger or more important ones of sandstone. Colors browns and some ochre. Lots of awnings of variously colored cloth, lots of horses and goats. Much of the town was destroyed in gnoll attacks in the summer of 1748, but is in the process of being rebuilt. 
-
 #### Locations
 
 [[Temple of Shakun]]: one of the few buildings not destroyed during the gnoll attacks; set into the mesa itself.

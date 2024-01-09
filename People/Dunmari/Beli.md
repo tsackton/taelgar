@@ -7,7 +7,7 @@ born: 1720
 species: human
 ancestry: Dunmari
 gender: female
-affiliations: [Shakun mystai]
+affiliations: [Shakun Mystai]
 whereabouts: Karawa
 ---
 # Beli

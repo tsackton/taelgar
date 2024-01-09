@@ -19,4 +19,4 @@ A boy of about 5, who lives with his mother, [[Livia]], in the village of [[Lumi
 
 - (DR:: 1749-01-08) Lucius' imaginary friend Benji spoke to him from the stone he carries, and asked him about his life. 
 
-![[DALL·E 2023-10-16 22.25.27 - In a vibrant garden setting, a five-year-old boy with curly hair wears peasant-like renaissance attire. He curiously studies a flat black oblong stone.jpeg]]
+![[lucius-portrait.jpeg]]
