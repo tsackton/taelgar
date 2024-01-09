@@ -1,7 +1,6 @@
 ---
 tags: [status/unknown]
 ---
-
 ### In [[Taviose]]
 
 * [[Brot Starsearcher]], an eccentric [[Dwarves|dwarf]]
@@ -16,7 +15,7 @@ tags: [status/unknown]
 * [[Wymar Essford]], the elderly lord, suffering from dementia
 * [[Arthur Bybet]], Rosalind's husband
 * [[Ida Rosfeld]], the captain of the [[Army Garrison of Cleenseau|local garrison]], currently in [[Dunfry]]
-* [[Ysabel]], the sheriff
+* [[Ysabel]], the sheriff, now deceased
 * [[Odo Cordwaner]], a formerly a sergeant of the [[Army Garrison of Cleenseau|local garrison]], now a guardsman in [[Taviose]]
 * [[Anselm]], the temple administrator for [[Temple of the Warlord in Cleenseau|the Warlord's temple]]
 * [[Conrad]], [[Anselm]]'s young assistant
@@ -33,11 +32,11 @@ tags: [status/unknown]
 * [[Ancer Benthey]], a sergeant in the [[Army Garrison of Cleenseau|local garrison]], the nephew of [[Ames Benthey]] and [[Odo Cordwaner|Odo's]] replacement
 * [[Aldric Tannen]], a schemer looking to start a ferryboat company
 * [[Agnes of Cleenseau|Agnés]], a caravan guard 
+* [[Jon Thorne]], a neighbor of [[Beatrix of Cleenseau|Beatrix]]
 ### In [[Valit]]
 
 * [[Warin the Woodsman]], a tracker
 * [[Sabine de Brune]], the castellan
-
 ### In [[Ganboa]]
 
 * [[Gentza]], a young herbalist recently murdered
@@ -48,21 +47,18 @@ tags: [status/unknown]
 
 * [[Arnold the Miller]], an unrepentant racist and generally ill-mannered sort
 * [[Lorin Valbert]], the lord
-
 ### In [[Beury]]
 
 * [[Erick Murtha]], the lord
-
 ### Bandits, Ruffians, and Other Unpleasant Types
 
-* [[Francois the Bandit|François the Bandit]]], died of his own hand
+* [[Francois the Bandit|François the Bandit]], died of his own hand
 * [[Jerome]], executed in [[Cleenseau]]
 * [[Wakog]], an ogre, now dead
 
 ### Of a Mysterious Nature
 
 * [[Narrisa de Abadelle]], a paladin arrived unexpected from the Feywild
-
 ### In Evis, Maseau and Points South
 
 * [[Lucas]], a priest of [[The Wanderer]] and friend of [[Narrisa de Abadelle|Narrisa's]]
