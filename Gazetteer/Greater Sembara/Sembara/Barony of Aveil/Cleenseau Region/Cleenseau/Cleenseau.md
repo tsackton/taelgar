@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 name: Cleenseau
 typeOf: settlement
 typeOfAlias: town
-whereabouts: Barony of Aveil
+whereabouts: Manor of Cleenseau
 pronunciation: Klen-sew
 population: 1189
 ---
