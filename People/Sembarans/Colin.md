@@ -9,6 +9,7 @@ ancestry: Sembaran
 gender: male
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Guardsman}
+whereabouts: Cleenseau
 ---
 # Colin
 >[!info]+ Biographical Info

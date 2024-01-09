@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, status/notes, status/unknown]
 name:
 born:
-died: 1658
+died: 1688
 species: human
 ancestry: Isinguer
 gender: male
