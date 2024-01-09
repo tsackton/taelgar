@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 displayDefaults: {defArt: ""}
 campaignInfo: []
 name: Pava and Avaras' House
 typeOf: house
-partOf: Garamjala Desert
+whereabouts: Garamjala Desert
 ---
 # Pava and Avaras' House
 >[!info]+ Information
@@ -15,3 +15,5 @@ partOf: Garamjala Desert
 House of [[Avaras]] and [[Pava]] in the desert east of [[Karawa]], on the northern edge of the [[Garamjala Desert]].
 
 A small compound, sandstone building, courtyard, well and oasis with a garden, goats and chickens nearby, penned in with hay and seed.
+
+![[pava-avaras-house.png]]

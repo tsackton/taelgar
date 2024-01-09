@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place]
 name: Latazaro
 typeOf: swamp
 ancestry: lizardfolk

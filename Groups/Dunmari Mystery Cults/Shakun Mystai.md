@@ -12,8 +12,6 @@ The Shakun Mystai are primarily responsible for maintaining, in secret, the webs
 In April 1748, the Shakun mystai, along with the rest of [[Karawa]] and [[Eastern Dunmar]], were attacked by rampaging gnolls during the [[Summer Gnoll Raids of 1748]]. More than a dozen mystai died in the attacks, and still, in November 1748, the mystai are diminished in strength and number. During this time, [[Dunmar Fellowship]] experienced the an abbreviated [[Session 26 (DuFr)#The Initiation Ritual of the Shakun Mystai|initiation rite of the Shakun Mystai]], while later, after the return of [[Heart of Shakun]], [[Kenzo]] and [[Drikod]] experienced the [[The Shakun Mystai Initiation|full initiation rite]]
 %%^End%%
 
-%%SECRET[1]%%
-
 %%^Campaign:None%%
 ### Current Members
 

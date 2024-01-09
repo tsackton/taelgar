@@ -1,14 +1,3 @@
----
-tags: [status/unknown]
----
-## Magic Items under Construction by Umli
-
-### Shield upgrade for Delwath
-Upgrade lynx shield from +1 to +2. 
-Requires 12 days (3 days can be done without the shield on prep work), 4000 gp, 7.5 pounds of Skaer steel.
-Start: 19 Jan 1749
-Finished prep: 21 Jan 1749
-Will then finish 9 days after party arrives, skipping Sundays
 ## Magic Items
 
 ### Delwath
@@ -118,6 +107,8 @@ Major items:
 - [[The Mirror of the Past]] (very rare major item, party)
 - [[Efreeti Bottle]] (very rare major item, party)
 - A gray cloak, found in the Elemental Forge, that functions as a Cloak of Elvenkind. 
+ - Longsword of Heroism, recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[The Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Kharsan]] palace)
+
 
 Minor items:
 - [[Portable Hole]] (rare minor item, party)
@@ -151,7 +142,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - 36 small silver disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 66 copper disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 7,000 Dwarven gold coins (7,000 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
-- 5,113 Chardonian gold coins (5,113 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
+- 4,113 Chardonian gold coins (4,113 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 2000 Tollender silver goins (200 gp, from The [[Flaming Tempest]])
 - 200 Sembaran gold coins (200 gp, from The [[Flaming Tempest]])
 - 115,000 Chardonian silver coins (11,500 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
@@ -193,22 +184,24 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- A silver tiara set with moonstones %%SECRET[27]%%
 
 ### Objects of Art
+- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears (recovered from [[Kharsan]]) %%SECRET[10]%%
+- A pair of nice wooden spoons (from the palace kitchens in [[Kharsan]]) %%SECRET[8]%%
 - [[Chardon Fan]] ([[Kenzo]]). %%SECRET[8]%%
 - A small wooden box holding six small statuettes, each in the shape of a farm animal. All are clockwork contraptions which, when properly wound, walk and make the appropriate animal noise. There is a cow, a horse, a chicken, a pig, a goat (given to some Dunmari goat herders in [[Session 40 (DuFr)]]), and a sheep. From [[Agata]]’s hut. Probably worth 10-180gp as a set, perhaps 2-35 gp per item ([[Seeker]]). %%SECRET[8]%%
 -  A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[30]%%
-- A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[36]%%
-- Carved bone statuette of an eagle (80 - 130 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[37]%%
-- The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[38]%%
+- A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[38]%%
+- Carved bone statuette of an eagle (80 - 130 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[39]%%
+- The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[40]%%
 - A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[30]%%
-- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[40]%%
-- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[40]%%
-- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[42]%%
+- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[42]%%
+- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[42]%%
+- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[44]%%
 
 ### Books and Notes
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]]
 - [[On the Lost People of the Forests]], by [[Gnaeus]]
 - [[The Runes of Creation]], author unknown
-- A treatise about alchemy carved on metal cylinders, author unknown, from [[Mezzar|Grimbaskal]]'s hoard.  %%SECRET[43]%%
+- A treatise about alchemy carved on metal cylinders, author unknown, from [[Mezzar|Grimbaskal]]'s hoard.  %%SECRET[45]%%
 - The [[Enchiridion of the Occulta Ludum]], a small pamphlet titled in Drankorian, faintly magical and empty inside. Found in Eudomes' tower. 
 - A second copy of “The [[Enchiridion of the Occulta Ludum]]”, also blank and slightly magical. Found in the bedroom of the Elemental Forge workshop.
 - [[Tales Before the Fall]], a huge book written in Giant, with tales of giants, from Eudomes' tower. 
@@ -231,13 +224,15 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. Taken from the Elemental Forge. 
 - Eight red dragon scales, from the Elemental Forge. 
 - Eternal ice, from the Elemental Forge
-- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[44]%%
+- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[46]%%
 - Blank spell scroll ([[Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. 
-- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[45]%%
+- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[47]%%
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
-- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[46]%%
+- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[48]%%
 - [[Vial of Acid (Gnoll Leader)|Metal vial with acidic liquid from gnoll war leader]] ([[Raven's Hold]], [[Wellby]]). No obvious value.
 ### Miscellany and Trade Goods
+- A wand, broken in half, once magical, but no longer ([[Kharsan]] palace)
+- A nice leather saddle, cut into four pieces, once magical, but no longer ([[Kharsan]] palace)
 - Delwath's elven armor from the days of the Great War, now no longer magical 
 - A slightly decayed helmet worn by Urgall the Black
 - Antique lock and key ([[Raven's Hold]], [[Wellby]]). Repaired by [[Riswynn]]. Probably could be sold for 5-30 gp. 
@@ -245,9 +240,9 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Key ring that opens the door to the werewolf lair, as well as the cells and chains in the prison. Carried by the werewolf guard captain. No obvious value.
 - Small key that opens the chest in the secret room in the Empty Moon lair. Taken from the werewolf leader. No obvious value.
 - Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]
-- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[47]%%
-- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[48]%% 
-- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[49]%%
+- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[49]%%
+- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[50]%% 
+- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[51]%%
 ## Other Rewards
 - The party is always welcome in [[Karawa]] and will always have food and shelter while they are in town.
 - A letter of introduction to Kaleha, high priest of the temple in Tokra, an important administrator in the civil government, from [[Candrosa]].
@@ -263,7 +258,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - The Boulder-Ladder, the hero of the[[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
 ### Destroyed or Used
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
-- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 63 (DuFr)]].  %%SECRET[50]%%
+- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 63 (DuFr)]].  %%SECRET[52]%%
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
@@ -272,7 +267,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- Spectral prism (used for rainbow bridge)
 	- Four silver bars (used for cloud generator)
 	- Four vials of mercury (used for rainbow bridge and cloud generator)
-- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 80 (DuFr)]] %%SECRET[51]%%
+- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 80 (DuFr)]] %%SECRET[53]%%
 - [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 75 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
 - [[Elven Shadow Breastplate]], given to Umli in [[Session 74 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
@@ -338,7 +333,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A pea-sized cube of shiny cobalt from [[Agata]]’s hut.
 - Six white moonstone gems from the werewolf lair.
 - A malachite carving of a stalking cat, designed as a pendant. from [[Agata]]’s hut.
-- A black pearl and silver twisted flame amulet, reminiscent of one of [[Cha'mutte]]'s symbols. Taken from the undead creature in the fort east of [[Gomat]].  %%SECRET[53]%%
+- A black pearl and silver twisted flame amulet, reminiscent of one of [[Cha'mutte]]'s symbols. Taken from the undead creature in the fort east of [[Gomat]].  %%SECRET[55]%%
 - Two small and uncut pieces of amber from [[Raven's Hold]]
 - Silver goblet with small red gems. Found in [[Raven's Hold]], in the [[Hobgoblins|hobgoblin]] chief’s bedroom.
 
@@ -363,11 +358,11 @@ The following mundane items are kept on [[Vindristjarna]]:
 - [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information).
 - [[Boots of False Tracks]]. Given to [[Marcella]]. 
 - A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[31]%%
-- A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[55]%%
-- Eight bolts of silk. Four are plain white silk (20 - 50 gp each), two are fine silk dyed a rich purple (100 - 250 gp each), and two are beautifully dyed with a complex pattern (100 - 600 gp each). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[56]%%
-- A large number of logs, in a range of lengths from just larger than an arm in length and breadth up to the breadth of a [[Humans|human]]’s body and ten paces in length. Each log has been carefully cut and polished so as to display the beauty of its grain and remove any danger of splinters. Many of the logs are hardy and rare hard woods of considerable value. Even the less valuable logs would still be useful to any master carpenter or lesser workman (32 logs total, most would sell for 15 - 150 gp, but two exquisite and rare hardwood logs would sell for 300-400 gp). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[57]%%
-- [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. %%SECRET[58]%%
-- [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) %%SECRET[58]%%
+- A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[57]%%
+- Eight bolts of silk. Four are plain white silk (20 - 50 gp each), two are fine silk dyed a rich purple (100 - 250 gp each), and two are beautifully dyed with a complex pattern (100 - 600 gp each). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[58]%%
+- A large number of logs, in a range of lengths from just larger than an arm in length and breadth up to the breadth of a [[Humans|human]]’s body and ten paces in length. Each log has been carefully cut and polished so as to display the beauty of its grain and remove any danger of splinters. Many of the logs are hardy and rare hard woods of considerable value. Even the less valuable logs would still be useful to any master carpenter or lesser workman (32 logs total, most would sell for 15 - 150 gp, but two exquisite and rare hardwood logs would sell for 300-400 gp). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[59]%%
+- [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. %%SECRET[60]%%
+- [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) %%SECRET[60]%%
 ### Stolen or Lost
 
 - [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 73 (DuFr)]]

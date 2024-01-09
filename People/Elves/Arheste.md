@@ -51,10 +51,10 @@ Over the cycles, as [[Cha'mutte]]'s genocidal intentions towards our people beca
 But as this leya began, something changed. The bindings broke. [[Apollyon|Apollyon]] is free, although still weak from long imprisonment, I believe. I do not know if I can survive another ka in my state, but I will do whatever I can, as long as it can be done, to ensure [[Apollyon|Apollyon]]'s ultimate defeat. 
 %%^End%%
 
-![[arheste-portrait.png]]
+![[arheste-portrait-healthy.png]]
 *Arheste in an earlier time, before the [[First Plague|First Plague]].*
 
-![[DALL·E 2023-11-07 00.42.28 - Create an image of an ancient female elf with a timeless, ethereal appearance. She has long, flowing white hair that cascades around her shoulders, an.png]]
+![[arheste-portrait-sick.png]]
 *Arheste in [[Orenlas]].*
 
 
