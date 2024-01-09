@@ -1,3 +1,7 @@
+---
+tags: [status/unknown, background]
+---
+
 Some notes on the West Coast history
 
 ## Before the Great War

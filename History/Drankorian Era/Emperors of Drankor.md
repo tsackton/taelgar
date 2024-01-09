@@ -1,6 +1,8 @@
 ---
-tags: [status/unknown]
+tags: [status/unknown, source, status/tim]
 ---
+
+%% Tim: Is this supposed to represent an in-world book excerpt or the definite accurate list? Depending, the tag should be fixed, and if it is meant to be an in-world thing, maybe worth making it intentionally a bit wrong? %%
 # Emperors of Drankor
 
 (based on Cavarrio's Chronicles of Drankor, considered the definitive history of the Empire in post-Great War Chardon, but may not be accurate; written based exclusively on secondary sources, many of which have since been lost. Takes the form of annals of emperors)

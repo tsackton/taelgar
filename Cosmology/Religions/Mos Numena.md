@@ -1,5 +1,5 @@
 ---
-tags: [religion/mosnumena, status/docreview, status/unknown]
+tags: [religion/mosnumena, background, status/unknown]
 name: Mos Numena
 aliases: [Eight Divines]
 ---

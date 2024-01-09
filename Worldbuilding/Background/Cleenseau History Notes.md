@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/unknown, background]
 ---
 
 ### Before Drankor

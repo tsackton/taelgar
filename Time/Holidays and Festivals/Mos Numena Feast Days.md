@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip]
+tags: [status/needswork/wip, background]
 ---
 
 %% Brainstorming

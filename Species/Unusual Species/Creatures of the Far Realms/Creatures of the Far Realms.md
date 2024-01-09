@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/unknown]
+tags: [background, status/unknown]
 ---
 # Creatures of the Far Realms
 

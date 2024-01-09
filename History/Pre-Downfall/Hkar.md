@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork]
+tags: [status/needswork, place, historical]
 ---
 # Hkar
 
