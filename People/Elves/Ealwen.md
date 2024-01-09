@@ -21,4 +21,4 @@ whereabouts: Erelion
 
 A gardener, herbalist, and caretaker of [[Arheste]]. 
 
-![[Pasted image 20231107000505.png]]
+![[ealwen-portrait.png]]

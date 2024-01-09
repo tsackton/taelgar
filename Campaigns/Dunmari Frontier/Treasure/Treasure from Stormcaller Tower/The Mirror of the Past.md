@@ -24,4 +24,4 @@ When an object is shown to the mirror and a question is asked, the mirror shows 
 
 This particular mirror was found by Delwath while [[Session 16 (DuFr)|exploring Stormcaller Tower]]. Its ability to show the past was inadvertently discovered by Delwath when he asked the mirror how to get out of Eudomes' bedroom while a reflection of the door could be seen, which revealed images of people who had come and gone through the door. 
 
-![[Pasted image 20231124155738.png]]
+![[mirror-of-the-past.png]]
