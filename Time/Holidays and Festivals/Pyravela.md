@@ -1,5 +1,5 @@
 ---
-tags: [status/draft, event/holiday, status/unknown]
+tags: [status/draft, holiday, status/unknown]
 campaignInfo: []
 name: Pyravela
 pronunciation: PIE-ra-VEL-a

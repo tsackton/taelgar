@@ -1,3 +1,3 @@
 ---
-tags: [status/notes, status/unknown]
+tags: [status/notes, place, historical]
 ---

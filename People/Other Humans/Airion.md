@@ -1,6 +1,5 @@
 ---
-tags: [historical, person, dufr/unaware, grli/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [historical, person, status/unknown]
 campaignInfo: []
 name: Airion
 born:

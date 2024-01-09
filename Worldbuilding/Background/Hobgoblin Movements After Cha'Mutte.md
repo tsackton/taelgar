@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/unknown, background]
 ---
 
 the western army is more deliberate moving through human lands, establishing a series of hobgoblin kingdoms, perhaps under the overlordship of a high king or something (details not super relevant) through the 1550s. defeated by chardon as well (in my notes have this actually in 1551, but probably would realistically be a decade or more later) but this is just a retreat, not a full defeat, since there are hobgoblin kingdoms to retreat to. over the next 50 years or something, chardon slowly marches north, freeing the surviving human populations from hobgoblin rule - details unclear    (except in context of mawar, where the mawar renaissance was in the early 1600s, so hobgoblin threat must be largely gone by then, but chardon dominance not yet fully established)

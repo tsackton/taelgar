@@ -1,3 +1,7 @@
+---
+tags: [background, status/tim]
+---
+
 Some notes on historical architectural styles in Dunmar.
 ## Aatmajic
 

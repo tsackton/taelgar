@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/unknown, timeline]
 timelineDescriptor: Mawar History
 ---
 # The Chronicles of the Mawar

@@ -1,16 +1,15 @@
 ---
-campaignInfo: []
 name: Cleenseau Campaign - Timeline
 timelineDescriptor: Cleenseau Campaign
+tags: [timeline]
 ---
 
 # 7 Robert I / 1719 DR
 
 ### March
-* [[Wymar Essford]] and more than a dozen other minor lords in the [[Barony of Aveil]], the [[Barony of Dunfry]], the [[Barony of Vaubonne]], the [[Barony of Ainwick]], the [[Marches of Beauchêne]], and the small lords around the [[Aine Hills]] developed dementia and other illnesses
+* [[Wymar Essford]] and more than a dozen other minor lords in the [[Barony of Aveil]], the [[Barony of Ainwick]], and the small baronies south of the Enst and around the [[Aine Hills]] developed dementia and other illnesses
 ### August
 * Mid August: The beginning of [[Wakog|Wakog's]] raids
-
 ### October
 * October 16th: The [[Tragic Flood of the River Enst|River Enst floods]] 
 * October 17th: [[Viepuck|Najeer]] arrives in [[Cleenseau]]

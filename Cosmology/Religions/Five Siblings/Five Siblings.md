@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [religion/fivesiblings, status/needswork/notes]
+tags: [religion/fivesiblings, status/needswork/notes, organization/pantheon]
 displayDefaults:
   defArt: the  
 campaignInfo: []

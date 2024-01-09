@@ -1,4 +1,4 @@
 ---
-tags: [status/unknown]
+tags: [status/unknown, event]
 ---
 

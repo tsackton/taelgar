@@ -1,3 +1,3 @@
 ---
-tags: [status/needswork/wip]
+tags: [status/needswork/wip, place]
 ---

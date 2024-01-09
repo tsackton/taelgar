@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/unknown, background]
 ---
 
 **# The Nature of the Divine

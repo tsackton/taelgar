@@ -1,5 +1,5 @@
 ---
-tags: [status/docreview, religion/tanshi, status/unknown]
+tags: [religion/tanshi, status/unknown, background]
 ---
 
 %%from google doc

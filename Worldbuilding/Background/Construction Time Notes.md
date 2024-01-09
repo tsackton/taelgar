@@ -1,7 +1,6 @@
 ---
-tags: [notes/background]
+tags: [background, status/tim]
 ---
-
 # Adobe construction
 
 Most relevant so far for rebuilding of Karawa. 

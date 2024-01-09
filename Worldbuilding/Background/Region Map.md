@@ -1,5 +1,5 @@
 ---
-tags: [map]
+tags: [background/map]
 ---
 
 ```leaflet 
