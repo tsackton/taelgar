@@ -66,3 +66,6 @@ timelineDescriptor: Cleenseau Campaign
 * January 6th, afternoon: The party investigates [[Cedric|Cedric's]] disappearance 
 * January 6th, evening: The party meets with [[Marigold Stonebridge]] and discusses history
 * January 7th, morning: The party enters the secret ruined fort under Cleenseau
+* January 7th, evening and overnight: The party destroys a mysterious  green gem guarded by a wight
+* January 8th, morning: [[Warin the Woodsman]], [[Erick Murtha]], and [[Beatrix of Cleenseau|Beatrix]] are waiting for the party. Lord Murtha and Warin bring news of various undead attacks. The party finishes investigation of the ruins beneath the fort.
+* January 10th, evening: [[Ida Rosfeld]] arrives from [[Dunfry]], having been on the road for almost two weeks, and having lost half the garrison to a massive zombie attack.

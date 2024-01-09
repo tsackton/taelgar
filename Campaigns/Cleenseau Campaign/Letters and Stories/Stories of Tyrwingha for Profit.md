@@ -39,5 +39,5 @@ The tale continues with Ethlenn's revenge. When she discovered what the Gloomsha
 
 The marginalia discusses this as a morality play, how this story shows that even the fey get what the deserve in the end and talks about how to play Ethlenn - cool, calm, protector of humanity - and how to play the Gloomshaper - chaotic, frivolous, nasty.
 
-%% This is somewhat true - the details of the punishment are false and Umbraeth was never forced to make ammends to the people he tricked, but the core idea that tricking people into the feywild is what got him exiled is true %%
+%% This is somewhat true - the details of the punishment are false and Umbraeth was never forced to make amends to the people he tricked, but the core idea that tricking people into the feywild is what got him exiled is true %%
 
