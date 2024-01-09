@@ -6,7 +6,7 @@ name: Taviose
 typeOfAlias: village
 typeOf: settlement
 subTypeOf: 
-partOf: Cleenseau
+partOf: Manor of Cleenseau
 population: 30
 pronunciation: Ta-vi-ose
 ---

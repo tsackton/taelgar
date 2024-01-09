@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [source, mirror-vision]
 ---
 
 You are looking out from a market stall, maybe in [[Karawa]] or [[Tokra]], the booth of a trader in trinkets and fine accessories. A woman approaches, finely dressed, but her face hidden by a traveling cloak. She picks up the fan, and a few other items, and you are tossed in saddlebags with several well-made riding dresses and some jewelry and other accessories. Later, as you are drawn out of the saddlebags, the woman has changed into a hag, into [[Agata]].

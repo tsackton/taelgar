@@ -1,5 +1,5 @@
 ---
-tags: [place, status/draft, status/unknown]
+tags: [place, status/unknown]
 campaignInfo: []
 name: Dwarven Kingdoms
 partOf: Sentinel Range

@@ -1,6 +1,7 @@
 ---
 tags: [organization, status/unknown]
 name: Ko'zula
+displayDefaults: {defArt: "the" }
 typeOf: tribe
 ---
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/unaware, status/unknown]
+tags: [person]
 campaignInfo: [ {campaign: clee, date: 1720-01-03 }]
 name: Ames Benthey
 born: 1675
@@ -25,7 +25,6 @@ whereabouts:
 
 The captain of the household guard of [[Essford Manor]], part of the [[Lord's Guard of Cleenseau|Lord's Guard]] in [[Cleenseau]]. Likes to play dice with [[Celyn]]. Better at delegating than doing any actual work and enjoys his food. However, when push comes to shove, he is a competent fighter and captain. 
 
-
 %%^Campaign:None%%
 ### Relationships
 ```dataviewjs
@@ -36,6 +35,5 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 				.sort(f => util.s("<maintype:n>", f.file))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
 ```
-
 %%^End%%
 

@@ -1,7 +1,7 @@
 ---
-tags: [event-source, status/unknown]
+tags: [event, status/needswork/notes]
 campaignInfo: []
 name: Derik I's Arrival in Tyrwingha
-DR: 1425
+DR: 1425-11-19
 ---
-(stub)
+%% Needs collation from various sources: [[Stories of Tyrwingha for Profit]], [[Timeline of Sembaran History]] %%

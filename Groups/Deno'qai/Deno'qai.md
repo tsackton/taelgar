@@ -1,4 +1,4 @@
 ---
-tags: [organization, status/unknown]
+tags: [organization, status/needswork]
 name: Deno'qai
 ---

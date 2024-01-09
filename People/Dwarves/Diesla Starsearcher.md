@@ -1,5 +1,5 @@
 ---
-tags: [person, dufr/unaware, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: Clee, type: met}
 name: Diesla Starsearcher
@@ -17,4 +17,4 @@ whereabouts:
 >`$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-[[Brot Starsearcher]]'s wife, a respected metalsmith in [[Taviose]].
+[[Brot Starsearcher]]'s wife, a respected metalsmith in [[Taviose]]. A patient and loving companion to her somewhat scatterbrained spouse.

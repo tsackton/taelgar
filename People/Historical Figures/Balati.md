@@ -1,22 +1,24 @@
 ---
-tags: [historical, dufr/minor, person, dufr/aware, status/uptodate, status/unknown]
+headerVersion: 2023.11.25
+tags: [historical,  person, status/tim]
 name: Balati
 born: 1520
 species: human
 ancestry: Deno'qai
 gender: male
 died: 1544
-affiliations: [Ko'zula]
+affiliations: [{org: Ko'zula, type: primary}]
 whereabouts:
 - {type: home, location: Forest of Dreams}
 - {type: away, start: 1544, end: 9999, location: Forest of Nightmares}
 ---
+%% Tim: Part of some note cleanup, I tidied this slightly %%
 # Balati
 >[!info]+ Biographical Info
-> [[Deno'qai]] [[Humans|human]], he/him
+> A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: [[Ko'zula]]
 
 A hero of the [[Deno'qai ]] during the [[Great War]], and the man who once bore the armor and shield [[Delwath]] now carries.
 
