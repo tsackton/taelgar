@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim]
+tags: [background]
 ---
 # The Elven Cycle of Generations
 
