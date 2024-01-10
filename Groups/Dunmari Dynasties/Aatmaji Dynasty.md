@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/notes, status/unknown]
+tags: [organization, status/needswork/notes]
 campaignInfo:
 name: Aatmaji dynasty
 typeOf: family

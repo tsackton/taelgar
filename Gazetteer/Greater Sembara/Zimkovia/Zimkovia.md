@@ -4,6 +4,7 @@ name: Highland Kingdoms
 typeOf: region
 aliases: [Highland Kingdoms]
 partOf: Western Green Sea Region
+aliases: [Highland Kingdoms]
 ---
 # The Highland Kingdoms
 >[!info]+ Information
