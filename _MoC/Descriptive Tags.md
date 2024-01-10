@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/tim]
+tags: [meta]
 ---
 
 In addition to [[Status Tags|status tags]] (used to categorize the "work state" of a page), there are a number of common descriptive tags, used to category the type of information the page contains. Every page should have a descriptive tag outside of the \_MoC, Campaigns, Worldbuilding/Brainstorming, and Worldbuilding/High School Notes folders. Campaign information can have descriptive tags, but may not as well.

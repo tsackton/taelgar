@@ -1,10 +1,9 @@
 ---
-tags: [species, status/tim]
+tags: [species]
 name: Orcs
 aliases: [orc, Orc, Orcs, orcs]
 typeOf: species
 ---
-%% Tim: This all looks reasonable, if not entirely complete. I think it can go to no status unless you have concerns about the name of the ritual or something%%
 # Orcs
 
 *Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*
@@ -22,7 +21,7 @@ However, sometimes a leader blessed by [[Thark]] will unite many small groups to
 ## Thark, the God of War Without End
 Orcs are tightly bound to, and cursed by, [[Thark]], the embodied god of war without end. Through [[Thark]]'s dominion, orcs are compelled to violence without purpose, war for the sake of war. 
 
-Orcish religion, the manifestation of [[Thark]]'s will in the world, glorifies strength and resolving conflicts through violence. But the real power of [[Thark]]'s curse is enforced by a mysterious rumored ritual known as the Blood Oath of the Crimson Blade. While few details of this ritual are known to non-orcs, it is rumored that this ritual, performed on all newborn orcs, infuses them with the strength and fire of [[Thark]]'s will. Those who cannot or will not accept the curse of [[Thark]] do not survive the ritual. 
+Orcish religion, the manifestation of [[Thark]]'s will in the world, glorifies strength and resolving conflicts through violence. But the real power of [[Thark]]'s curse is enforced by a mysterious rumored ritual known by many names, and often referred to as the Blood Oath of the Crimson Blade by human scholars. While few details of this ritual are known to non-orcs, it is rumored that this ritual, performed on all newborn orcs, infuses them with the strength and fire of [[Thark]]'s will. Those who cannot or will not accept the curse of [[Thark]] do not survive the ritual. 
 
 %%SECRET[1]%%
 ## Unchained Orcs
