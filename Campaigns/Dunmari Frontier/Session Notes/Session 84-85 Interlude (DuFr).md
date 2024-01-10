@@ -33,6 +33,13 @@ Few, vague, and cryptic are the tales of the Rodnya, but here is what you are ab
 
 Reported here: [[Scrying Delwath Tollen Downtime]]
 
+## Philosopher's Guild Information
+
+- Letter about the [[Rodnya Voknaz]], received in trade for the silver wand from the Elemental Forge: [[Philosopher's Information Concerning Rodnya Voknaz]]
+
+## Mirror Visions
+
+
 ## Other Information
 
 - A message from [[Fausto]] to [[Delwath]], via the Sending spell, received on Feb 25th: “[[Apollyon]] sends his regards, and asks: what's the matter, Delwath, don't you want to see the rest of my little surprise? Scared to watch?”
