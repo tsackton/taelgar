@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: male
 affiliations: [Havdar's Warband]
 whereabouts: 
-- {type: home, location: Havdar's Warband, format: "f"}
+- {type: home, location: Havdar's Warband}
 ---
 # Aram
 >[!info]+ Biographical Info

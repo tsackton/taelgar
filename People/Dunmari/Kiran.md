@@ -8,7 +8,7 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: plains north of Tokra, format: "3"}
+- {type: home, location: plains north of Tokra}
 ---
 # Kiran
 >[!info]+ Biographical Info

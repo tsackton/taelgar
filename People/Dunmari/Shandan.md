@@ -8,7 +8,7 @@ ancestry: Dunmari
 gender: male
 affiliations: 
 - {place: Shandan's Warband }
-whereabouts: [{type: home, location: plains of Songara, format: "3"}]
+whereabouts: [{type: home, location: plains of Songara}]
 pronunciation: Shun-dhun
 ---
 # Shandan

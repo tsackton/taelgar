@@ -7,7 +7,7 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts:
-- {type: home, start: '', end: '', location: 'plains north of Tokra', format: "3"}
+- {type: home, start: '', end: '', location: 'plains north of Tokra'}
 ---
 # Jita
 >[!info]+ Biographical Info

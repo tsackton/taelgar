@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: male
 affiliations: [Order of the Awakened Soul]
 whereabouts:
-- {type: home, location: 'plains of Songara', format: "3"}
+- {type: home, location: 'plains of Songara'}
 - {type: home, location: "Pava and Avaras' House"}
 ---
 # Pava
