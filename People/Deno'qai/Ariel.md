@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/tim]
+tags: [event-source, person]
 campaignInfo: [{campaign: DuFr, type: met, date: 1748-09-11}]
 name: Ariel
 born: 1674
@@ -11,7 +11,6 @@ whereabouts:
 - {type: home, location: Forest of Dreams, alias: Shu'anra village in the Forest of Dreams }
 - {type: home, location: Te'kula village }
 ---
-%% Tim: did minor cleanup, didn't want to remove status/unknown myself %%
 # Ariel
 >[!info]+ Biographical Info
 > A [[Deno'qai]] [[Humans|human]] (she/her)

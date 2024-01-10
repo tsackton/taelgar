@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/armor, status/tim]
+tags: [item/armor]
 typeOf: armor
 rarity: uncommon
 subTypeOf: magical
+ddbLink: https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail
 displayDefaults: {wHome: 'Owner: <current:1>', defArt: ''}
 whereabouts:
 - {type: home, end: 1543, location: unknown Deno'qai smith}
@@ -13,10 +14,9 @@ whereabouts:
 # Deno'qai Scale Mail
 >[!info]+ Information
 > (uncommon magical armor)
+> [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail)
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% Tim: I updated slightly; as long as you like the image, it is just missing a ddb link. I can't easily get a direct link %%
 
 A suit of scale mail armor, subtly designed with [[tanshi]] motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
 
