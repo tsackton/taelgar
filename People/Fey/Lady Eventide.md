@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-01, type: met}
 name: Lady Eventide
@@ -9,7 +9,6 @@ species: fey
 gender: female
 whereabouts: Amberglow
 ---
-%% Tim: seems complete enough to me; setting status/tim in case you have changes or corrections %%
 # Lady Eventide
 >[!info]+ Biographical Info
 > a [[Fey|fey]] (she/her)

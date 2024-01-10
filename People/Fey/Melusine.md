@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo: 
 - {campaign: DuFr, type: met, date: 1748-11-15}
 name: Melusine
@@ -10,7 +10,6 @@ subspecies: nymph
 gender: female
 whereabouts: Amberglow
 ---
-%% Tim: Cleaned this up a little bit, not sure if there is anything it still needs %%
 # Melusine
 >[!info]+ Biographical Info
 > A [[Fey|fey]] ([[Fey|nymph]]) (she/her)
