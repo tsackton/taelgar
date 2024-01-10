@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical,  person, status/tim]
+tags: [historical,  person]
 name: Balati
 born: 1520
 species: human
@@ -12,7 +12,6 @@ whereabouts:
 - {type: home, location: Forest of Dreams}
 - {type: away, start: 1544, end: 9999, location: Forest of Nightmares}
 ---
-%% Tim: Part of some note cleanup, I tidied this slightly %%
 # Balati
 >[!info]+ Biographical Info
 > A [[Deno'qai]] [[Humans|human]] (he/him), of the [[Ko'zula]]
