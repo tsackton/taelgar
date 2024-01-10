@@ -9,7 +9,7 @@ ancestry:
 gender: unknown
 affiliations: [{org: Dunmar Fellowship }]
 whereabouts: 
-- {type: away, location: "missing, presumed dead" }
+- {type: away, location: "missing and presumed dead" }
 ---
 # Taster
 >[!info]+ Biographical Info

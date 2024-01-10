@@ -1,22 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags: [event-source, person, status/tim]
+campaignInfo: [{campaign: DuFr, type: met, date: 1748-09-11}]
 name: Ariel
 born: 1674
 species: human
 ancestry: Deno'qai
 gender: female
 whereabouts:
-- {type: home, location: Forest of Dreams, prefix: Shu'anra village in }
+- {type: home, location: Forest of Dreams, alias: Shu'anra village in the Forest of Dreams }
 - {type: home, location: Te'kula village }
 ---
+%% Tim: did minor cleanup, didn't want to remove status/unknown myself %%
 # Ariel
 >[!info]+ Biographical Info
 > A [[Deno'qai]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on September 11th, 1748 in [[~Te'kula village~|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 
 An elderly woman with stark white hair pulled back in a loose pony tail and wrinkled skin. While she is arthritic and slow, her mind is sharp and she has a clear memory of the stories of her youth, the tales of the Meswati and the [[Great War]]
 
