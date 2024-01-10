@@ -9,7 +9,6 @@ born:
 species: halfling
 ancestry:
 gender: male
-pageTargetDate: 1748-10-13
 affiliations:
 - {org: Wildhearts, type: primary}
 - {org: Wave Dancer, title: Navigator}

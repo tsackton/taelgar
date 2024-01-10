@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization/party, status/needswork]
 displayDefaults: {ltPerson: "by"}
 campaignInfo: []
@@ -6,6 +7,9 @@ name: Dunmar Fellowship
 typeOf: adventuring party
 ---
 # The Dunmar Fellowship
+>[!info]+ Information
+> An adventuring party
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 

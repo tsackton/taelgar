@@ -9,7 +9,7 @@ species: elemental
 ancestry:
 gender:
 whereabouts:
-- {type: home, location: Elemental Plane of Air, format: "1"}
+- {type: home, location: Elemental Plane of Air}
 - {type: away, start: 1000, end: 1749-01-08, location: 'Elemental Forge'} # start date is unclear
 ---
 # Sh’shethis

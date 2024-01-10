@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc, person, pc/dunmarfrontier, status/needswork]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Kenzo
 born:
@@ -9,7 +9,9 @@ ancestry: Dunmari
 gender: male
 player: David Kong
 ---
-## Kenzo
+# Kenzo
+>[!info]+ Biographical Info
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 
 ![[kenzo-full.jpg|400]]
 
