@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+excludeRooted: ["Clee"]
 tags: [event-source, person, dufr/met, dufr/major, status/unknown]
 campaignInfo: []
 name: Avaras
