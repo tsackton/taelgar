@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+excludeRooted: ["Clee"]
 tags: [item/magical, testcase, status/unknown]
 rarity: unique
 campaignInfo:
