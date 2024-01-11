@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+excludeRooted: ["Clee"]
 tags: [person, dufr/met, dufr/minor, status/unknown]
 campaignInfo: [ {campaign: DuFr }]
 name: Kirian
