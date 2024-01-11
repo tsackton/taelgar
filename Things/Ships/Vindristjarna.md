@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+excludeRooted: ["Clee"]
 tags: [item]
 pronunciation: vin-dree-SHAR-na
 displayDefaults: {linkText: on, ltItem: stored on}
