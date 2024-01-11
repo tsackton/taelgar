@@ -1,4 +1,5 @@
 ---
+excludeRooted: ["Clee"]
 tags: [session-note, status/unknown]
 campaignInfo:
 name: Session 42 (DuFr)
