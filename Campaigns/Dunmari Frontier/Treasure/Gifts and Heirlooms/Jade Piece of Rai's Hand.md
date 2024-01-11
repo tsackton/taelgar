@@ -1,4 +1,5 @@
 ---
+excludeRooted: ["Clee"]
 tags: [item]
 name: Jade Piece of Rai's Hand
 ---

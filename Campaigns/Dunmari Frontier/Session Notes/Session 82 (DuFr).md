@@ -1,4 +1,5 @@
 ---
+excludeRooted: ["Clee"]
 tags: [session-note]
 ---
 # Session 82
