@@ -1,6 +1,6 @@
 ---
-tags: [session-note]
 excludeRooted: ["Clee"]
+tags: [session-note]
 ---
 # Session 82
 *in which the party defeats Grash and saves Uzgukhar
