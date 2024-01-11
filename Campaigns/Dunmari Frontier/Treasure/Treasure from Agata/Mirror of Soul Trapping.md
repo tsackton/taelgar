@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+excludeRooted: ["Clee"]
 typeOf: mirror
 tags: [item, item/magical, status/unknown]
 whereabouts:
