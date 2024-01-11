@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+excludeRooted: ["Clee"]
 tags: [person, pc/dunmarfrontier, status/needswork]
 campaignInfo:
 name: Delwath
