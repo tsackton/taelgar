@@ -1,5 +1,6 @@
 ---
 tags: [status/needswork, event-source, status/unknown]
+excludeRooted: ["Clee"]
 campaignInfo: []
 name: Destruction of the Werewolf Cult
 DR: 1748-07-03
