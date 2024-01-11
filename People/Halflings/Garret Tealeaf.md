@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+excludeRooted: ["Clee"]
 tags: [person, dufr/major]
 campaignInfo:
 - {campaign: DuFr, date: 1748-06-02, type: freed}
