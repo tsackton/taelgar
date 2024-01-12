@@ -8,6 +8,7 @@ During the journey from the [[Copper Hills]] to [[Orenlas]] and then to [[Tollen
 - Does [[Rodnya Voknaz]] currently have a jade piece of Rai’s hand? **UNKNOWN**
 - Is [[Radomir]]’s sister Yelena a member of the Rodnya Voknaz? **YES**
 - Is Lord Rhodar von Glauer a vampire? **YES**
+- Are the Vargaldi human? **UNCERTAIN**
 
 ## Bastion Information
 
@@ -37,6 +38,7 @@ Reported here: [[Scrying Delwath Tollen Downtime]]
 ## Philosopher's Guild Information
 
 - Letter about the [[Rodnya Voknaz]], received in trade for the silver wand from the Elemental Forge: [[Philosopher's Information Concerning Rodnya Voknaz]]
+- Letter about Ursk and its cities and ways to access them, received in trade for the gem of demon summoning taking from Kadmos: [[Philosopher's Information Concerning Ursk]]
 
 ## Mirror Visions
 - [[Magical Pale Blue Dye Vision]]
@@ -47,4 +49,3 @@ Reported here: [[Scrying Delwath Tollen Downtime]]
 - Information recovered from the [[Kharsan]] Archives, by the painstaking work of Nuzkar, cross-referenced to books available in Tollen and now acquired for the Vindristjarna Archives, provides a [[Dunmar#History|chronicle of Dunmari history]] in the days before the Great War, detailing the [[Aatmaji Dynasty|first dynasty of Dunmari Samraats]], which ended with a disastrous expedition to destroy the lingering evil in Drankor led by Samraat Aatmaji [[Dasa]], who died in the attempt. While most of this is fragmentary, [[Nuzkar]] is able to reconstruct two notes:
 	- [[Report of the Aagiri to Samraat Dasa]]
 	- [[An Annotated (Partial) Map of Drankor]]
-	

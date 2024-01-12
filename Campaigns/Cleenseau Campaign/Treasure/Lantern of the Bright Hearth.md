@@ -2,7 +2,6 @@
 tags: [item/magical, status/unknown]
 campaignInfo:
 name: Lantern of the Bright Hearth
-whereabouts: Robin of Abenfyrd
 ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 typeOf: lantern
 rarity: unique
