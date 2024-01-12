@@ -11,10 +11,10 @@ gender: female
 whereabouts: Ganboa
 ---
 # Unai
->[!info]+ Biographical Info
-> A [[Lizardfolk|lizardfolk]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>[!info]+ Biographical Info  
+> A [[Lizardfolk|lizardfolk]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on October 28th, 1719 in [[Ganboa]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
 An herbalist and healer, teacher of [[Gentza]].

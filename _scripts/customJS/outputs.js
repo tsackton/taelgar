@@ -167,11 +167,13 @@ class OutputHandler {
         }
 
         if (metadata.image) {
-            output += "![[" + metadata.image + "|right|300]]\n"
+            output += "> ![[" + metadata.image + "|right|300]] "
+            let summaryData = summaryBlockLines.join("  \n").trimStart(">")
+            output += summaryData.slice(1) // skip the first >
+        } else {
+            output += summaryBlockLines.join("  \n")
         }
-    
-        output += summaryBlockLines.join("  \n")
-        
+
         return output + "\n"
     }
 

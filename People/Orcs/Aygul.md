@@ -18,9 +18,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An orc brawler and fighter, who sees herself as a defender of her people and especially her twin sister, [[Nuzkar]]. A loner, with no other family.
+![[aygul-portrait.png|right|240]]An orc brawler and fighter, who sees herself as a defender of her people and especially her twin sister, [[Nuzkar]]. A loner, with no other family.
 
-![[aygul-portrait.png]]
 %% notes
 ## History
 
