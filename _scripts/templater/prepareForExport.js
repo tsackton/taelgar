@@ -55,6 +55,7 @@ async function prepareForExport(tp) {
 
     let date = await tp.system.prompt("Enter new fantasy calendar date override: (YYYY, YYYY-MM, or YYYY-MM-DD, or blank to clear)")
     let campaign = await tp.system.prompt("Enter a campaign key for rooted exclusion calculations: ")
+    let startingFile = await tp.system.prompt("Enter file to start rooted check from (leave blank to skip): ")
 
     let normalized = DateManager.normalizeDate(date)
 
@@ -69,13 +70,15 @@ async function prepareForExport(tp) {
     let processed = 0
     let errors = 0
 
-    var fpN = new Notice("File link processing started", 0)
-    let mainFile = app.vault.getAbstractFileByPath("main.md")
-    await processLinksInFile(mainFile, false, campaign, fpN)
-    fpN.hide()
-       
-    var notice = new Notice("File link processing completed. Making headers static", 0)
-
+    if (startingFile) {
+        var fpN = new Notice("File link processing started", 0)
+        let mainFile = app.vault.getAbstractFileByPath(startingFile)
+        await processLinksInFile(mainFile, false, campaign, fpN)
+        fpN.hide()
+        var notice = new Notice("File link processing completed. Making headers static", 0)
+    } else {
+        var notice = new Notice("Link checking skipped. Making headers static", 0)
+    }
     for (let i = 0; i < files.length; i++) {
         await app.vault.process(files[i], (data) => {
             let md = app.metadataCache.getFileCache(files[i])
