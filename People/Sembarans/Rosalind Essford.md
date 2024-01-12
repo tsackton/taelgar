@@ -6,6 +6,7 @@ name: Rosalind Essford
 born: 1677
 species: human
 ancestry: Sembaran
+image: lady-rosalind-essford.png
 gender: female
 aliases: [Lady Essford, Lady Rosalind Essford, Rosalind ]
 title: Lady
@@ -21,19 +22,19 @@ whereabouts:
 - {type: away, start: 1720-01-20, end: 9999, location: Embry }
 ---
 # Lady Rosalind Essford
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>[!info]+ Biographical Info  
+![[lady-rosalind-essford.png|right|300]]
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 travelling to [[Embry]], in [[Sembara]] %%^End%%
 
 The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of propotion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [[Arthur Bybet]] in 1706, and their match has been a good and popular one. 
 
 In the late fall of 1719, she lost her three children and their nursemaid to a [[Tragic Flood of the River Enst|unseasonable flood of the Enst]]. 
 She enjoys quite music, especially [[Robin of Abenfyrd|Robin's]] playing, which has been a comfort to her since her children died. 
 
-![[lady-rosalind-essford.png]]
 
 
 %%^Campaign:None%%

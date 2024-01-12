@@ -6,6 +6,7 @@ campaignInfo:
 - {campaign: DuFr, date: 1748-11-15, type: imprisoned}
 name: Agata Dustmother
 born:
+image: agata-portrait.png
 species: fey
 subspecies: hag
 gender: female
@@ -18,9 +19,10 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove}
 ---
 # Agata Dustmother
->[!info]+ Biographical Info
-> hag ([[Fey|fey]]), she/her
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>[!info]+ Biographical Info  
+![[agata-portrait.png|right|300]]
+> hag ([[Fey|fey]]), she/her  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Imprisoned by the [[Dunmar Fellowship]] on November 15th, 1748 in the [[Heartwood Grove]], [[Amberglow]], the [[Feywild]] %%^End%%
 
 Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancient and cunning fey hag, based for many years on the edge of the [[Garamjala Desert]], near [[Eastern Dunmar]]. 
@@ -30,7 +32,7 @@ Agata Dustmother, known as the Old Woman of the Dusts, is an ancient fey [[Story
 
 In DR 1748, she was imprisoned in the Heartwood Grove in the [[Feywild]] realm of [[Amberglow]] by [[Dunmar Fellowship]]. 
 ## Description
-![[agata-portrait.png|400]]
+
 Agata takes the appearance of a withered old woman, with dry, dusty skin, wearing white robes. Her lair is magical and seemingly un-scryable hut hidden on the edge of the desert, surrounded by brambles and rocks, and only approachable if one follows the correct path. 
 ## Events
 

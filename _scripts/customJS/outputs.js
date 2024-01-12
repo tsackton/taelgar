@@ -108,19 +108,26 @@ class OutputHandler {
 
             let line = '`$=dv.view(\"_scripts/view/get_PageDatedValue\")`'
             if (!dynamic) {
-                line = OutputHandler.outputPageDatedValue(fileName, metadata)
+                line = OutputHandler.outputPageDatedValue(fileName, metadata).split("\n")
+                for (let l of line) {
+                    summaryBlockLines.push("> " + l)
+                }
+            } else {
+                summaryBlockLines.push("> " + line)
             }
-
-            summaryBlockLines.push("> " + line)
         }
 
         if (metadata.leaderOf || metadata.affiliations || pageType == "place" || pageType == "organization" || pageType == "item") {
 
             let line = '`$=dv.view(\"_scripts/view/get_Affiliations\")`'
             if (!dynamic) {
-                line = OutputHandler.outputAffiliations(fileName, metadata)
+                line = OutputHandler.outputAffiliations(fileName, metadata).split("\n")
+                for (let l of line) {
+                    summaryBlockLines.push("> " + l)
+                }
+            } else {
+                summaryBlockLines.push("> " + line)
             }
-            summaryBlockLines.push("> " + line)
         }
 
         let partOf = TokenParser.formatDisplayString(displayDefaults.partOf, file)
@@ -131,21 +138,40 @@ class OutputHandler {
         if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
             let line = '`$=dv.view(\"_scripts/view/get_Whereabouts\")`';
             if (!dynamic) {
-                line = OutputHandler.outputWhereabouts(fileName, metadata)
+                line = OutputHandler.outputWhereabouts(fileName, metadata).split("\n")
+                for (let l of line) {
+                    if (l.trim()) {
+                        summaryBlockLines.push("> >" + l.trim())
+                    }
+                }
+            } else {
+                summaryBlockLines.push(">> " + line.trim())
             }
-
-            summaryBlockLines.push(">> " + line.trim())
         }
 
         for (let meeting of EventManager.getPartyMeeting(file)) {
-            summaryBlockLines.push(`>> %%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`);
+            if (!dynamic) {
+                summaryBlockLines.push(`> > %%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`);
+            } else {
+                summaryBlockLines.push(`>> %%^Campaign:${meeting.campaign}%% ${meeting.text} %%^End%%`);
+            }
         }
 
         if (summaryBlockLines.length > 0) {
-            output += ">[!info]+ " + displayDefaults.boxName + "\n"
+            if (!dynamic) {
+                output += ">[!info] " + displayDefaults.boxName + "  \n"
+            }
+            else {
+                output += ">[!info]+ " + displayDefaults.boxName + "  \n"
+            }
         }
 
-        output += summaryBlockLines.join("\n")
+        if (metadata.image) {
+            output += "![[" + metadata.image + "|right|300]]\n"
+        }
+    
+        output += summaryBlockLines.join("  \n")
+        
         return output + "\n"
     }
 

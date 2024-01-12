@@ -17,6 +17,5 @@ whereabouts: Valit
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+ ![[sabine-de-brune-valit.png|right|300]] 
 The aging castellan of [[Valit]], a vassal of the [[Baron of Aveil]]. Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth.
-
-![[sabine-de-brune-valit.png]]
