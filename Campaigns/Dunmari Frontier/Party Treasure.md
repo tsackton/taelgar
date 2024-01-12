@@ -135,6 +135,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 - A large wooden spice chest (Grimbaskal's Hoard). Contains 20 pounds of salt (60 gp), 2 pounds of saffron (70 gp), 10 pounds of cinnamon (150 gp), 10 pounds of cloves (150 gp), 5 pounds of allspice (60 gp), 5 pounds of peppercorn (75 gp), and a set of silver weights, measures, and grinding implements (25 gp).  %%SECRET[6]%%
 
+[[Vindristjarna]] also has a number of special facilities: [[Vindristjarna Room Planning]].
 ## Non-Magical Items
 
 (all items in [[Portable Hole]] unless noted)

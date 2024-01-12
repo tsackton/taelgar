@@ -29,6 +29,8 @@ The northern coasts between Skaegenland and Ursk are inhospitable, with few or n
 - A dense cold forest of talking trees who attack and kill any wooden ship that attempts to anchor
 - The secret kingdom of a vampire who snacks on unwary sailors
 
+%%SECRET[1]%%
+
 %% NOTES, FROM GOOGLE DRIVE
 
 On the northern shores of the [[Green Sea]], stretching a few hundred miles along the coast and extending inland, lies a civilization ruled by wizards. A closed culture, foreigners are restricted to a few offshore islands on the outskirts of coastal trading cities, where they trade for prized furs and hides, especially dragonhide, of the northern wastes.

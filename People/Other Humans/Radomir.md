@@ -1,6 +1,5 @@
 ---
 tags: [dufr/aware, person, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Radomir
 born: 1710
@@ -8,7 +7,7 @@ species: human
 ancestry: Urskan
 gender: male
 whereabouts:
-- {type: home, start: !!null '', end: !!null '', location: Ursk}
+- {type: home, location: Ursk}
 ---
 # Radomir
 >[!info]+ Biographical Summary

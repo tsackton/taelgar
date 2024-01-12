@@ -11,7 +11,7 @@ player: Mike Sackton
 aliases: [Artem]
 whereabouts:
 - {type: home, end: 1748-10-06, location: Ursk}
-- {type: away, start: 1748-10-06, location: !!null ''}
+- {type: away, start: 1748-10-06, location: ""}
 ---
 # Artem Novolozek
 >[!info]+ Biographical Info

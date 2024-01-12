@@ -6,7 +6,6 @@ whereabouts:
 - { type: home, start: 980, location: Chardon }
 founded: 939
 timelineDescriptor: University of Chardon
-typeOf: university
 ---
 # The University of Chardon
 >[!info]+ Information
