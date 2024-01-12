@@ -10,7 +10,6 @@ This short guide provides an overview to the races of Taelgar, magic and religio
 
 >[!info] This document and the links here contain a huge amount of information, representing years of playing and worldbuilding. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The lore of Taelgar grows by the role-playing decisions of its players as much as the world building of its DMs. 
 
-For more information about character creation and game mechanics, please see the [[Character Creation Guide]].
 ## Geography and Culture
 
 The known world of Taelgar stretches 2,500 miles from the great city of [[Chardon]] in the West, to the shores of [[Green Sea]] in the east.
