@@ -55,7 +55,7 @@ async function prepareForExport(tp) {
 
     let date = await tp.system.prompt("Enter new fantasy calendar date override: (YYYY, YYYY-MM, or YYYY-MM-DD, or blank to clear)")
     let campaign = await tp.system.prompt("Enter a campaign key for rooted exclusion calculations: ")
-    let startingFile = await tp.system.prompt("Enter file to start rooted check from (leave blank to skip): ")
+    let startingFile = await tp.system.prompt("Enter file to start rooted check from (leave blank to skip): ", tp.file.folder(true) + "/" + tp.file.title)
 
     let normalized = DateManager.normalizeDate(date)
 
