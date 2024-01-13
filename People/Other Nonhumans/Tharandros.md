@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -14,8 +15,8 @@ pronunciation: tha-RAN-dros
 ---
 # Tharandros
 *(tha-RAN-dros)*
->[!info]+ Biographical Info
-> [[Centaurs|centaur]], he/him
+>[!info]+ Biographical Info  
+> A [[Centaurs|centaur]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A centaur, the leader of a herd who the party met traveling across the northern plains of [[Dunmar]]. Convinced to aid [[Karawa]], and proved crucial in driving off gnoll attacks. 

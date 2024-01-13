@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc/greatwar, pc, person, status/notes, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -11,9 +12,9 @@ player: Eric Rosenbaum
 affiliations: [Heroes of the Great War]
 ---
 # Kyr
->[!info]+ Biographical Summary
->[[Lizardfolk|lizardfolk]], he/him
-> Member of: [[Heroes of the Great War]]
+>[!info]+ Biographical Info  
+> A [[Lizardfolk|lizardfolk]] (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A hero of the [[Great War]], a lizardfolk renowned for control over the [[Plane of Souls]].
 

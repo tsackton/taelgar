@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -12,10 +13,10 @@ whereabouts:
 - {type: home, start: '', end: '', location: Te'kula village}
 ---
 # Jordo
->[!info]+ Biographical Summary
->[[Humans|human]] ([[Deno'qai|Deno'qai]]), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_HomeWhereabouts")`
+>[!info]+ Biographical Info  
+> A [[Deno'qai]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The old Godcaller of the [[Te'kula]], who found a [[Jade Piece of Rai's Hand]]. Refused to turn it over to [[Mezzar|Grimbaskal]], prompting Grimbaskal to attack and Rai and the tanshi [[Aasimti]] to work together to protect the Te'kula in a pocket dimension. 
 

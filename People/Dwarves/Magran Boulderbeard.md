@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/aware, status/unknown]
 campaignInfo: []
 name: Magran Boulderbeard
@@ -9,8 +10,8 @@ gender: male
 whereabouts: Tharn Todor
 ---
 # Magran Boulderbeard
->[!info]+ Biographical Info
-> [[Dwarves|dwarf]], he/him
+>[!info]+ Biographical Info  
+> A [[Dwarves|dwarf]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A warrior from Tharn Todor who led a large expedition of dwarves into the ruins of [[Ardith]], and to confront Chardonian interlopers. 

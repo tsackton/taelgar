@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
 name: Cece I
 born: 1628
@@ -15,10 +15,10 @@ leaderOf:
 affiliations: [House of Sewick]
 ---
 # Queen Cece I
->[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Humans|human]], she/her of the [[House of Sewick]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Cece I reigned for 65 years, the longest reign in the annuals of the kings and queens of Sembara. Her reign was one of peace, prosperity, and recovery. Sembara finally began to climb out of the devastation of the [[Great War]] and the [[Blood Years]], and for the first time in five generations the future of Sembara seemed to be brighter than its past.
 

@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, dufr/met_one, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -13,12 +14,10 @@ whereabouts:
 - {type: home, start: 1748-08-25, end: '', location: Nardith}
 ---
 # Dworic
->[!info]+ Biographical Summary
->dwarf, he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Ardith]]
->> Based in: [[Nardith]]
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info  
+> A [[Dwarves|dwarf]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A dwarven smith, born in [[Ardith]] before the [[Great War]]. He was trapped there after the war, but rescued by an expedition sent from [[Nardith]] in DR 1575, led by [[Nora Silverspark|Nora]] Silverspark and [[Hagrim]] Firebrand. Trapped in the [[shadowfell]] realm of [[Bleakhold]] after the rescue mission failed. 
 

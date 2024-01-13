@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 campaignInfo: []
 name: Drusa
@@ -11,9 +12,9 @@ whereabouts:
 - {type: away, start: 1748-05-01, location: Tokra}
 ---
 # Drusa
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A Chardonian wizard on loan to the Dunmari army of [[Nayan Karnas]], commanded by [[Illyan]], in [[Tokra]]. 

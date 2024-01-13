@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/unknown]
 campaignInfo:
 - {campaign: DuFr, date: 1748-01-16, type: met}
@@ -13,11 +14,11 @@ whereabouts: Erelion
 ---
 # Ealwen
 *(EY-ahl-wen)*
->[!info]+ Biographical Summary
->[[Elves|elf]], she/her
->`$=dv.view("_scripts/view/get_PageDatedValue")` ([[The Cycle of Generations|ka]] 37)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->>%%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on January 16th, 1748 in [[Erelion]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
+>[!info]+ Biographical Info  
+> An [[Elves|elf]] (she/her), ([[The Cycle of Generations|ka]] 37)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on January 16th, 1748 in [[Erelion]], [[Orenlas]] %%^End%%
 
 A gardener, herbalist, and caretaker of [[Arheste]]. 
 

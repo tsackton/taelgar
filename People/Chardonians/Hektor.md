@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
 campaignInfo: []
 name: Hektor
@@ -11,9 +12,9 @@ whereabouts:
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 ---
 # Hektor
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% needs correct away whereabouts %%

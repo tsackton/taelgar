@@ -48,7 +48,7 @@ async function processLinksInFile(tfile, checkRooted, campaign, notice) {
     }
 }
 
-async function prepareForExport(tp) {
+async function prepareForExport(tp, headerType) {
 
     const { DateManager } = customJS
     const { OutputHandler } = customJS
@@ -84,7 +84,7 @@ async function prepareForExport(tp) {
             let md = app.metadataCache.getFileCache(files[i])
             if (md && md.frontmatter && md.frontmatter.tags && md.frontmatter.headerVersion) {
                 try {
-                    let newC = OutputHandler.regenerateHeader(data, files[i].name, md.frontmatter, false)
+                    let newC = OutputHandler.regenerateHeader(data, files[i].name, md.frontmatter, headerType)
                     processed++
                     return newC.join("\n");
                 }

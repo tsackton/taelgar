@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -12,8 +13,8 @@ whereabouts:
 - {type: away, start: '', end: '', location: Eastern Green Sea}
 ---
 # Arryn
->[!info]+ Biographical Summary
->[[Humans|human]], he/him
+>[!info]+ Biographical Info  
+> A [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A wizard of significant power, originally from [[Tollen]]; dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. Freed from the [[Mirror Realm]] by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 57-58 (DuFr)|Wellby's adventures in the eastern Green Sea]]

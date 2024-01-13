@@ -1,4 +1,4 @@
-async function regenerateHeader(tp, dynamic = true) {
+async function regenerateHeader(tp, headerType) {
 
  
     const { OutputHandler } = customJS
@@ -10,8 +10,10 @@ async function regenerateHeader(tp, dynamic = true) {
  
     let tfile = app.vault.getAbstractFileByPath(tp.file.path(true));
     let filecontents = await app.vault.adapter.read(tfile.path);
-    let newContents = OutputHandler.regenerateHeader(filecontents, tp.file.title, tp.frontmatter, dynamic)
+    let newContents = ""
 
+    newContents = OutputHandler.regenerateHeader(filecontents, tp.file.title, tp.frontmatter, headerType)
+    
     await updateCurrentFile(newContents, tfile)
 
 }

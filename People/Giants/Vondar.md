@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, status/uptodate, dufr/met_one, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -8,12 +9,12 @@ species: giant
 subspecies: cursed
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: }
-- {type: home, start: 1748-11-23,  location: Amberglow}
+- {type: home, location: }
+- {type: home, start: 1700, location: Amberglow} # date uncertain
 ---
 # Vondar
->[!info]+ Biographical Info
-> Cursed [[Giants|giant]], he/him
+>[!info]+ Biographical Info  
+> A [[Giants|giant]] (cursed) (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A cursed giant who guards the passes from [[Shimmersong]] into [[Amberglow]], asking for a toll of a memory in order to pass. Killed, but presumably not permanently, by [[Seeker]] and friends.

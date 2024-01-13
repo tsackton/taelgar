@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/met, status/unknown]
 campaignInfo: []
 name: Amay
@@ -10,8 +11,8 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: '', location: Tokra}
 ---
 # Amay
->[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], he/him
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A captain in the Dunmari army camped near [[Tokra]], in service of [[Illyan]] and ultimately the Samraat [[Nayan Karnas]]. 

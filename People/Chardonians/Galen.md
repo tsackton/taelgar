@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
 campaignInfo:
 name: Galen
@@ -10,9 +11,9 @@ affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scro
 whereabouts: Chardon
 ---
 # Galen
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Chardonian Empire|Chardonian]]), he/him
-> Member of: [[Faculty of Magic]], The [[University of Chardon]], The [[Society of the Open Scroll]]
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A showman, scholar, academic rival of sorts to [[Ulfgar Frostbeard]], and member of the Faculty of Magic at the [[University of Chardon]]. 

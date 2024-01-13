@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [historical, person/ruler, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -19,11 +20,10 @@ leaderOf:
 affiliations: [House of Sewick]
 ---
 # King Bertram II
->[!info]+ Biographical Summary
->King of [[Sembara]] and [[Zovcka]] and [[Ardlas]] and [[Breva]] and [[Lavnoch]]
->[[Humans|human]]  ([[Sembara|Sembaran]]), he/him of [[House of Sewick|The House of Sewick]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
->`$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The eldest child of [[Reginald]], he was a ruler of Sembara in the 1550s. 
 
