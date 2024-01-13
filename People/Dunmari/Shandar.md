@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/met, status/unknown]
 campaignInfo: []
 name: Shandar
@@ -8,9 +9,8 @@ ancestry: Dunmari
 gender: male
 ---
 # Shandar
->[!info]+ Biographical Summary
->human (Dunmari), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 
 An old Dunmari man who spent many years as [[Agata]]'s table. Freed in [[Session 30 (DuFr)]].
 

@@ -1,6 +1,6 @@
 class OutputHandler {
 
-    regenerateHeader(oldContents, fileName, metadata, dynamic) {
+    regenerateHeader(oldContents, fileName, metadata, headerType) {
 
         const versionNumber = "2023.11.25"
         const prevVersionNumber = "legacy"
@@ -48,7 +48,11 @@ class OutputHandler {
             indexOfHeaderBlockEnd = indexOfYamlEnd
         }
 
-        let data = this.generateHeader(fileName, metadata, dynamic, version)
+        let data = ""
+
+        if (headerType == "obs") data = this.generateHeader(fileName, metadata, true, version)
+        else if (headerType == "static") data = this.generateHeader(fileName, metadata, false, version)
+        else if (headerType == "website") data = this.generateWebsiteHeader(fileName, metadata)
 
         // remove the header block
         currentContents.splice(indexOfYamlEnd + 1, indexOfHeaderBlockEnd - indexOfYamlEnd);
@@ -71,6 +75,81 @@ class OutputHandler {
     >> campaign info
     >> afflitaions
     */
+
+    generateWebsiteHeader(fileName, metadata) {
+        const { EventManager } = customJS
+        const { NameManager } = customJS
+        const { OutputHandler } = customJS
+        const { TokenParser } = customJS
+        const { DateManager } = customJS
+
+        let file = { name: fileName, frontmatter: metadata }
+        let displayDefaults = NameManager.getDisplayData(metadata)
+        let pageDates = DateManager.getPageDates(metadata)
+        let hasPageDates = pageDates.startDate || pageDates.endDate
+        let pageType = NameManager.getPageType(metadata)
+
+        let output = TokenParser.formatDisplayString("# <name:tn>", file) + "\n"
+
+        let secondary = TokenParser.formatDisplayString("<(:speaker:{ .middle } *()pronunciation()*)>", file)
+        if (secondary && secondary.length > 0) {
+            output += secondary + "  \n"
+        }
+
+        let whereaboutsStrings = OutputHandler.getWhereaboutsStrings(fileName, metadata)
+
+        let typeOf = TokenParser.formatDisplayString(displayDefaults.boxInfo, file)
+        if (typeOf && typeOf.length > 0) {
+            output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
+            output += "- :octicons-info-24:{ .lg .middle } __" + displayDefaults.boxName + "__\n\n"
+            output += "    " + typeOf + "  \n"
+
+            if (hasPageDates) {
+                let line = OutputHandler.outputPageDatedValue(fileName, metadata).split("\n")
+                for (let l of line) {
+                    if (l.trim()) {
+                        output += "    " + l.trim() + "  \n"
+                    }
+                }
+            }
+
+            let line = OutputHandler.outputAffiliations(fileName, metadata).split("\n")
+            for (let l of line) {
+                if (l.trim()) {
+                    output += "    " + l.trim() + "  \n"
+                }
+            }
+
+            output += "    { .bio }\n\n"
+
+            if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
+                if (whereaboutsStrings.origin) output += "    " + whereaboutsStrings.origin
+                if (whereaboutsStrings.home) output += "    " + whereaboutsStrings.home
+            }
+
+            output += "</div>\n\n"
+        }
+
+        if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
+            if (whereaboutsStrings.current && !whereaboutsStrings.isCurrentUnknown) {
+                output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.current + "\n" // has 1 newline, we want 2
+            } else if (whereaboutsStrings.lastKnown) {
+                output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.lastKnown + "\n" // has 1 newline, we want 2
+            }
+        }
+
+        if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
+            output += "> [" + displayDefaults.mechanicsLink + "](" + metadata.ddbLink + ")  \n"
+        }
+
+        for (let meeting of EventManager.getPartyMeeting(file)) {
+            output += `%%^Campaign:${meeting.campaign}%%\n`
+            output += "\n:octicons-location-24:{ .lg .middle } " + meeting.text + "  \n"
+            output += "%%^End%%\n"
+        }
+
+        return output
+    }
 
     generateHeader(fileName, metadata, dynamic = true, version = undefined) {
 
@@ -159,25 +238,34 @@ class OutputHandler {
 
         if (summaryBlockLines.length > 0) {
             if (!dynamic) {
-                output += ">[!info] " + displayDefaults.boxName + "  \n"
+                output += ">[!info]+ " + displayDefaults.boxName + "  \n"
             }
             else {
                 output += ">[!info]+ " + displayDefaults.boxName + "  \n"
             }
         }
 
-    
+
         output += summaryBlockLines.join("  \n")
-        
+
         return output + "\n"
     }
 
     outputWhereabouts(fileName, metadata) {
+        let vals = this.getWhereaboutsStrings(fileName, metadata)
+        let displayString = `${vals.origin}${vals.home}${vals.current}${vals.lastKnown}\n`
+
+        return displayString.replace(/\n\n+/g, "\n");
+    }
+
+    getWhereaboutsStrings(fileName, metadata) {
 
         const { WhereaboutsManager } = customJS
         const { DateManager } = customJS
         const { NameManager } = customJS
         const { TokenParser } = customJS
+
+        let strVals = { home: "", origin: "", lastKnown: "", current: "", isCurrentUnknown: false }
 
         let displayDefaults = NameManager.getDisplayData(metadata)
         let file = { name: fileName, frontmatter: metadata }
@@ -185,7 +273,7 @@ class OutputHandler {
         let pageData = DateManager.getPageDates(metadata);
         let pageYear = DateManager.getTargetDateForPage(metadata)
 
-        if (!pageData.isCreated) return "";
+        if (!pageData.isCreated) return strVals;
 
         let isPageAlive = pageData.isAlive
 
@@ -197,7 +285,7 @@ class OutputHandler {
 
         let whereabout = WhereaboutsManager.getWhereabouts(metadata, pageYear)
 
-        let displayString = "", homeString = ""
+        let homeString = ""
 
         // knownLastKnown is false if either we have no awayEnd, or if the awayEnd is a hidden date (0001 or 9999)
         let knownLastKnown = whereabout.lastKnown.awayEnd && !whereabout.lastKnown.awayEnd.isHiddenDate
@@ -223,25 +311,27 @@ class OutputHandler {
 
         if (!whereabout.origin.location || whereabout.origin.location != whereabout.home.location) {
             // display origin if it is not the same as home or it is unknown //
-            displayString += originString + "\n"
+            strVals.origin = originString + "\n"
         }
 
         // always display home
-        displayString += homeString + "\n"
+        if (whereabout.home.location)
+            strVals.home = homeString + "\n"
 
         if (!whereabout.current.location || whereabout.current.location != whereabout.home.location) {
             // display current if it is not the same as home or if current is unknown //
-            displayString += currentString + "\n"
+            strVals.current = currentString + "\n"
+            strVals.isCurrentUnknown = !whereabout.current.location
         }
 
         if (!whereabout.current.location && whereabout.lastKnown.location && whereabout.lastKnown.location != whereabout.home.location) {
             // display last known if current is unknown and last known is known, as long as it isn't the same as home //        
             // note it is not clear last known can ever be same as home but this is added to just double-confirm we don't show 2x of the same thing //
-            displayString += knownString + "\n"
+            strVals.lastKnown = knownString + "\n"
         }
 
         // remove extra newlines //
-        return displayString.replace(/\n\n+/g, "\n");
+        return strVals;
     }
 
     outputAffiliations(fileName, metadata) {

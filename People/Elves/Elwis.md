@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -17,11 +18,11 @@ pronunciation: EL-wiss
 ---
 # Elwis
 *(EL-wiss)*
->[!info]+ Biographical Info
-> [[Elves|elf]], she/her ([[The Cycle of Generations|ka]] 37)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on January 2nd, 1749 in [[Tollen]], the [[Western Green Sea Region]] %%^End%%
+>[!info]+ Biographical Info  
+> An [[Elves|elf]] (she/her), ([[The Cycle of Generations|ka]] 37)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on January 2nd, 1749 in the [[Tollen|Free City of Tollen]] %%^End%%
 
 Elwis is a female elf and painter from [[Orenlas]]. She is spending her wandering years traveling around the [[Green Sea]], trying to make new art that hasn't been dreamed before in the history of her people. 
 %%^Date:1748-08-29%% 

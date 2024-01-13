@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/needswork/notes]
 campaignInfo:
 name: Cintra
@@ -10,11 +11,11 @@ affiliations: [Shakun Mystai]
 whereabouts: Karawa
 ---
 # Cintra
->[!info]+ Biographical Info
-> [[Dunmar|Dunmari]] [[Humans|human]], she/her
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[Shakun Mystai]]
 
 Supreme Oracle of Shakun.
 

@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -13,13 +14,11 @@ whereabouts:
 - {type: home, start: 1731-01-02, end: '', location: Antaka}
 ---
 # Skalme
->[!info]+ Biographical Summary
->human (Skaer), she/her
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
->> Originally from: [[Skaerhem]]
->> Based in: [[Antaka]]
->>%%^Campaign:DuFr%% Last seen by The Side Quests at December 21st, 1748: [[Antaka]] %%^End%%
->> `$=dv.view("_scripts/view/get_CurrentWhereabouts", {"config": await app.vault.adapter.read(app.vault.configDir + "/taelgarConfig.json")})`
+>[!info]+ Biographical Info  
+> A [[Skaerhem|Skaer]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 21st, 1748 in [[Antaka]], [[Skaerhem]] %%^End%%
 
 Skalme is the Priestess of Fire, the divine protector of the elemental fire, the volcano known as  Kuaine (coo-ine-a), on the Skaer volcanic island of [[Antaka]]. She is a powerful divine magic user. 
 

@@ -180,18 +180,6 @@ A **last known location** is defined as
 	Output: the last known whereabouts is defined and the current location is Unknown
 
 
-### get_Homewhereabouts
-
-1. Gets the Page Existence Date and the Target Date (see [[Page Dates]])
-* If the Page Existence Date  is defined Target Date is before the Page Existence Date, it exits with no output.
-2. Calculates the four values above using the Target Date 
-3. Sets the "page exists" flag to true if the Page End Date is defined Page End Date is before the Target Date
-4. It outputs between 1 and 2 lines.
-
-Line 1: If the origin output flag is true: "Originally from: (origin)"
-Line 2: If the home output flag is true, and the page exists flag is true: "Based in: (home)"
-Line 2: If the home output flag is true, and the page exists flag is false: "Lived in: (home)"
-
 ### get_CurrentWhereabouts
 1. Gets the Page Existence Date and the Target Date (see [[Page Dates]])
 * If the Page Existence Date is defined and the Target Date is before the Page Existence Date, it exits with no output.

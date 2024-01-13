@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc, person, pc/dunmarfrontier, status/needswork]
 excludeRooted: ["Clee"]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
@@ -9,10 +10,12 @@ species: halfling
 ancestry:
 gender: male
 player: David Schwartz
-affiliations: [ Dunmar Fellowship, Goodbarrels]
+affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 ---
-
 # Wellby
+>[!info]+ Biographical Info  
+> A [[Halflings|halfling]] (he/him), of the [[Goodbarrels]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 ![[welby-full.jpg|400]]
 

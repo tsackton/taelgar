@@ -11,11 +11,11 @@ gender: male
 whereabouts: Cleenseau
 ---
 # Aldric Tannen
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
 Aldric is a jovial fisherman who operates one of the rafts on the River Enst during the summer. He's a great source of local knowledge and can regale the players with tales of the river's history and secrets.
 

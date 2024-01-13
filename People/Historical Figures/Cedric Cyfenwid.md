@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, historical, status/needswork/notes]
 name: Cedric Cyfenwid
 born: 1598
@@ -8,8 +9,8 @@ gender: male
 died: 1674
 ---
 # Cedric Cyfenwid
->[!info]+ Biographical Summary
->human (Sembaran), they/them
->`$=dv.view("_scripts/view/get_PageDatedValue", {"currentYear" : (dv.current().yearOverride ? dv.current().yearOverride : FantasyCalendarAPI.getCalendars()[0].current.year)})`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 Paladin of the Wyrdling for Tyrwingha.

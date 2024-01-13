@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [dufr/aware, person, dufr/minor, status/unknown]
 campaignInfo: []
 name: Radomir
@@ -10,9 +11,9 @@ whereabouts:
 - {type: home, location: Ursk}
 ---
 # Radomir
->[!info]+ Biographical Summary
->[[Humans|human]]  (Urskan), he/him
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> An [[Ursk|Urskan]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A man from a strange place to the east.

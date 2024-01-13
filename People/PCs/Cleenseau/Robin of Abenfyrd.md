@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc, pc/cleenseau, person, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died, primaryOrgType: party}
 campaignInfo: []
@@ -13,12 +14,13 @@ aliases: [Robin]
 affiliations: [Heroes of Cleenseau]
 whereabouts:
 - {type: home, end: 1719, location: Abenfyrd}
-- {type: away, start: 1719-10-19, end: 1720-01-10, location: Cleenseau}
+- {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}
 ---
 # Robin of Abenfyrd
->[!info]+ Biographical Summary
->[[Humans|human]]  ([[Tyrwingha|Tyrwinghan]]), he/him of [[Heroes of Cleenseau]]
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Robin of Abenfyrd is a young man of about twenty, a paladin of [[The Wanderer]], and hails from [[Tyrwingha]]. He has a friendly, if shy, demeanor and at times seems embarrassed by his own talents. His armor looks weathered and well used (he was probably not the first owner) but well maintained. His clothing looks a bit more appropriate to a bard than a traveling warrior, and while again not the fanciest, tends to be rather colorful and a bit flamboyant even. He keeps a [[Lantern of the Bright Hearth|small lantern]] on him that sheds a perpetual warm glow that reminds one of home and pleasant things. His other most prized possession is a lute (not the fanciest instrument ever, but it is clearly well cared for) for that he plays with the skill of a well practiced musician. Often appearing a bit awkward when first interacting with others, he seems far more relaxed while he plays

@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [historical, person/ruler, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -18,9 +18,9 @@ leaderOf:
 died: 1559
 ---
 # Jane of Tollen
->[!info]+ Biographical Info
-> [[Tollen|Tollender]] [[Humans|human]], she/her
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_RegnalValue")`
+>[!info]+ Biographical Info  
+> A [[Tollen|Tollender]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The second wife of [[Derik III]], from a powerful and rich merchant family in [[Tollen]].
