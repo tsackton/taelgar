@@ -91,9 +91,11 @@ class OutputHandler {
 
         let output = TokenParser.formatDisplayString("# <name:tn>", file) + "\n"
 
-        let secondary = TokenParser.formatDisplayString("<(:speaker:{ .middle } *()pronunciation()*)>", file)
-        if (secondary && secondary.length > 0) {
-            output += secondary + "  \n"
+        if (metadata.pronunciation) {
+            let secondary = TokenParser.formatDisplayString("<pronunciation>", file)
+            if (secondary && secondary.length > 0) {
+                output += ":speaker:{ .middle } *(" + secondary + ")*  \n"
+            }
         }
 
         let whereaboutsStrings = OutputHandler.getWhereaboutsStrings(fileName, metadata)
