@@ -89,8 +89,6 @@ class OutputHandler {
         }
 
         if (pageType == "place") {
-            output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
-            
             let hasTypeOf = typeOf && typeOf.trim().length > 0
             let hasPlaces = metadata.whereabouts || metadata.partOf
 
@@ -99,7 +97,11 @@ class OutputHandler {
             if (hasPlaces) lineCount++
             if (hasTypeOf) lineCount++
             
-            output += "-"
+            if (lineCount > 0) {
+                output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"            
+                output += "-"
+            }
+
             if (lineCount > 1) output += "  \n"
 
             if (typeOf && typeOf.trim().length > 0) {
@@ -108,7 +110,7 @@ class OutputHandler {
 
             if (hasPageDates) {
                 let line = OutputHandler.outputPageDatedValue(fileName, metadata).trim()
-                if (line && line.length > 0) output += "   ::material-calendar: " + line + "  \n"
+                if (line && line.length > 0) output += "   :material-calendar: " + line + "  \n"
             }
 
             if (metadata.whereabouts || metadata.partOf) {
@@ -130,7 +132,7 @@ class OutputHandler {
 
             if (hasPageDates) {
                 let line = OutputHandler.outputPageDatedValue(fileName, metadata).trim()
-                if (line && line.length > 0) output += "   ::material-calendar: " + line + "  \n"
+                if (line && line.length > 0) output += "   :material-calendar: " + line + "  \n"
             }
 
             if (metadata.whereabouts || metadata.partOf) {
