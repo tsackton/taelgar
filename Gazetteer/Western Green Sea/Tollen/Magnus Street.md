@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork/notes, status/needswork/collate]
 displayDefaults: {defArt: ''}
 campaignInfo: []
@@ -7,8 +8,9 @@ typeOf: ward
 partOf: Tollen
 ---
 # Magnus Street
->[!info]+ Information
-> A ward in [[Tollen]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ### Places 
 ```dataview

@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, status/unknown]
 campaignInfo: []
 name: Vistra Fireforge
@@ -13,9 +13,9 @@ whereabouts:
 - {type: home, start: 1730-01-01, end: '', location: Tokra}
 ---
 # Vistra Fireforge
->[!info]+ Biographical Info
-> [[Dwarves|dwarf]], she/her
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Dwarves|dwarf]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler thuhr and originally from [[Nardith]]. She was born after the [[Great War]] and has always been eager to work with humans. She is charming and pleasant enough, but perhaps not that bright and she sometimes makes mistakes in her trades, although she rarely wants to believe it.

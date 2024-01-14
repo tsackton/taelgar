@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -13,12 +13,12 @@ affiliations: [University of Tollen]
 whereabouts: Tollen
 ---
 # Thomas Hawke
->[!info]+ Biographical Info
-> [[Tollen|Tollender]] [[Humans|human]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
->> Member of: The [[University of Tollen]]
+>[!info]+ Biographical Info  
+> A [[Tollen|Tollender]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
 Thomas Hawke is Professor of Rhetoric, a playwright, and a rising star at the [[University of Tollen]], recognized more for his dramatic flair than his academic pursuits.
 ## Overview

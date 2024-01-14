@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Dunmore
@@ -6,7 +7,8 @@ typeOf: town
 partOf: Barony of Ainwick
 ---
 # Dunmore
->[!info]+ Information
-> A town in the [[Barony of Ainwick]], [[Sembara]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A fortified town

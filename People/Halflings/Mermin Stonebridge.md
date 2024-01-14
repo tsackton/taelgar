@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: [{campaign: clee, type: met, date: 1719-11-01}]
 name: Mermin Stonebridge
@@ -12,11 +12,12 @@ whereabouts:
 - {type: home, location: Cleenseau}
 ---
 # Mermin Stonebridge
->[!info]+ Biographical Info
-> [[Sembara|Sembaran]] [[Halflings|halfling]], he/him of the [[Stonebridges]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on November 1st, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Halflings|halfling]] (he/him), of the [[Stonebridges]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on November 1st, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
 A young halfling trader based out of Cleanseau, although he travels between [[Rinburg]] and [[Cleenseau]] somewhat regularly.  Like most halflings, but unlike most Stonebridges, he is anxious to travel and is just looking for the opportunity which, as he says, "the ancestors want for him".
 

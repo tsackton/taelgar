@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/background, person, dufr/met, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -17,12 +17,12 @@ whereabouts:
 - {type: away, start: '1748-12-30', end: '1748-12-30', location: Dyer's Guildhall}
 ---
 # Captain Jane Chapman
->[!info]+ Biographical Info
-> [[Tollen|Tollender]] [[Humans|human]], she/her
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Dyer's Guildhall]], the [[Tollen|Free City of Tollen]], the [[Western Green Sea Region]] %%^End%%
->> Member of: The [[Dyer's Guild]]
+>[!info]+ Biographical Info  
+> A [[Tollen|Tollender]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Dyer's Guildhall]], the [[Tollen|Free City of Tollen]] %%^End%%
 
 A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea. 
 

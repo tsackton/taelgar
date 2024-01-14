@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
 campaignInfo:
 - {campaign: DuFr, date: 1749-12-10, type: met}
@@ -15,12 +15,12 @@ whereabouts:
 - {type: home, start: 1724, location: Xurkhaz}
 ---
 # General Murook
->[!info]+ Biographical Info
-> [[Orcs|orc]], she/her of the [[People of the Rainbow]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 10th, 1749 in [[Xurkhaz]], the [[Garamjala Desert]], [[Nashtkar]] %%^End%%
->> Member of: [[Hezguli]]
+>[!info]+ Biographical Info  
+> An [[Orcs|orc]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 10th, 1749 in [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
 Murook, an [[Orcs|orc]] woman from the [[Plaguelands]], was freed from [[Thark]]'s curse in childhood by [[Lubash]]'s father, [[Karguk]]. She now serves as the General of [[Lubash]]'s army, and the unofficial leader of the [[Hezguli]], the reborn [[Orcs]] who've been similarly freed.
 ## Overview

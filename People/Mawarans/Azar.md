@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [mc/major, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Azar
 born:
@@ -9,7 +9,7 @@ ancestry:
 gender: male
 ---
 # Azar
->[!info]+ Biographical Summary
->[[Humans|human]], he/him
+>[!info]+ Biographical Info  
+> A [[Humans|human]] (he/him)
 
 See: [[Azar's Tale]]

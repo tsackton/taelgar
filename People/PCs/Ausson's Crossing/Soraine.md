@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, pc/aussons, status/needswork/notes]
 campaignInfo:
 name: Soraine
@@ -10,8 +10,8 @@ gender: male
 player: Matt Rand
 ---
 # Soraine
->[!info]+ Biographical Info
-> [[Duchy of Maseau|Maseaun]] [[Humans|human]], he/him
+>[!info]+ Biographical Info  
+> A [[Duchy of Maseau|Maseaun]] [[Humans|human]] (he/him)
 
 %%
 Notes:

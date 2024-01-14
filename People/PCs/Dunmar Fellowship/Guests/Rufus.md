@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc, person, pc/guest, status/unknown]
 campaignInfo: []
 name: Rufus
@@ -8,9 +9,9 @@ ancestry:
 gender: male
 player: Eric Rosenbaum
 ---
-## Rufus
-(he/him)
+# Rufus
+>[!info]+ Biographical Info  
+> A [[Kenku|kenku]] (he/him)
 
-Kenku monster hunter and unofficial protector of [[Wahacha]]. Excellent with bow and arrow. Helped kill the aboleth. Now returned to [[Wahacha]], continuing to guard against monsters of the deeps. Hates crabs. 
+![[rufus.png|right|320]]Kenku monster hunter and unofficial protector of [[Wahacha]]. Excellent with bow and arrow. Helped kill the aboleth. Now returned to [[Wahacha]], continuing to guard against monsters of the deeps. Hates crabs. 
 
-![[rufus.png|500]]

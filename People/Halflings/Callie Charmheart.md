@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/minor]
 campaignInfo:
 - {campaign: dufr, date: 1748-03-29, type: met }
@@ -19,12 +19,13 @@ whereabouts:
 - { type: away, start: 1748-08-13, location: Darba }
 ---
 # Callie Charmheart
->[!info]+ Biographical Info
-> [[Halflings|halfling]], she/her of the [[Charmhearts]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Central Dunmar]], [[Dunmar]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Halflings|halfling]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 29th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%  
+>> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
 
 One of the Charmhearts, a halfling family of long-distance merchants and traders, who make a living trading between [[Dunmar]] and [[Sembara]]. 
 

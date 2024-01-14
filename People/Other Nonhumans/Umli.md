@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -15,11 +15,11 @@ whereabouts:
 - {type: home, start: 1732, location: Tollen}
 ---
 # Umli the Exile
->[!info]+ Biographical Info
-> [[Stoneborn|stoneborn]], she/her
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]], [[Western Green Sea]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Stoneborn|stoneborn]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
 Umli is a stoneborn exile living in [[Tollen]], a master metalworker, and a teacher. 
 

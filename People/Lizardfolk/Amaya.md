@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [mc/background, person, status/stub, status/unknown]
 campaignInfo: []
 name: Amaya
@@ -9,8 +10,8 @@ gender: female
 whereabouts: Eskorola
 ---
 # Amaya
->[!info]+ Biographical Info
-> salt [[Lizardfolk|lizardfolk]], she/her
+>[!info]+ Biographical Info  
+> A salt [[Lizardfolk|lizardfolk]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A lizardfolk scout and hunter.

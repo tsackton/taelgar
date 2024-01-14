@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/needswork, status/unknown]
 campaignInfo:
 name: Cymea
@@ -7,9 +7,9 @@ typeOf: realm
 partOf: Western Green Sea Region
 ---
 # Cymea
->[!info]+ Information
-> A realm in the [[Western Green Sea Region]]
-
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% Notes from GDrive may be obsolete
 

@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/needswork/internal]
 campaignInfo: []
 name: Escobar Garavito
@@ -13,11 +13,11 @@ whereabouts:
 - {type: home, location: Tollen}
 ---
 # Escobar Garavito
->[!info]+ Biographical Info
-> [[Cymea|Cymean]] [[Humans|human]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Cymea|Cymean]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> Member of: The [[University of Tollen]], The [[Dyer's Guild]]
 
 A young and charismatic student at the University of [[Tollen]], Escobar's journey from the humble village of [[Lavila]] in [[Cymea]] to the bustling streets of [[Tollen]] showcases his adaptability and determination.
 
