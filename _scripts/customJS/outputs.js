@@ -138,7 +138,7 @@ class OutputHandler {
             let typeOfTitle = TokenParser.formatDisplayString("<rarity:t> <ancestry:t> <subtypeof:t> <typeof:t>", file)
             if (!hasPageDates && !metadata.ddbLink && !metadata.whereabouts) {
                 if (typeOf && typeOf.length > 0) {
-                    output += ":octicons-info-24:{ .lg .middle } *" + typeOf + "*  \n"
+                    output += ":octicons-info-24:{ .lg .middle } **" + typeOfTitle + "**  \n"
                 }
                 return output
             }
