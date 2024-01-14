@@ -90,9 +90,19 @@ class OutputHandler {
 
         if (pageType == "place") {
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
-            output += "-\n"
+            
+            let hasTypeOf = typeOf && typeOf.trim().length > 0
+            let hasPlaces = metadata.whereabouts || metadata.partOf
 
-            if (typeOf && typeOf.length > 0) {
+            let lineCount = 0
+            if (hasPageDates) lineCount++
+            if (hasPlaces) lineCount++
+            if (hasTypeOf) lineCount++
+            
+            output += "-"
+            if (lineCount > 1) output += "  \n"
+
+            if (typeOf && typeOf.trim().length > 0) {
                 output += "    :octicons-people-24: " + typeOf + "  \n"
             }
 
@@ -107,7 +117,6 @@ class OutputHandler {
             }
 
             output += "</div>\n\n"
-
             return output
         }
 
