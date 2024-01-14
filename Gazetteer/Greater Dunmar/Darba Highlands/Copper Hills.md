@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 name: Copper Hills
 typeOf: line of hills
 partOf: Central Dunmar
 ---
 # The Copper Hills
->[!info]+ Information
-> A  line of hills in [[Central Dunmar]], [[Dunmar]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A small line of hills between [[Tokra]] and [[Darba]], once famous for copper mining but largely abandoned now.
 

@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [dufr/minor, person, dufr/aware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
@@ -18,12 +18,12 @@ whereabouts:
 - {type: away, start: 1748-03-13, end: 9999, location: Stormcaller Tower}
 ---
 # Alban
->[!info]+ Biographical Info
-> [[Chardonian Empire|Chardonian]] [[Humans|human]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Grave discovered by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
->> Member of: The [[Society of the Open Scroll]]
 
 One of the adventurers of the [[Society of the Open Scroll]]. Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
 

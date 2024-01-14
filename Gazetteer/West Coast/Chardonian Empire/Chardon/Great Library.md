@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, event-source, status/unknown]
 campaignInfo:
 name: Great Library
@@ -6,6 +7,9 @@ partOf: Chardon
 typeOf: library
 ---
 # The Great Library
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The oldest building and organization in Chardon, dedicated to collecting and preserving knowledge, often in the form of books and scholarly works, though the Great Library also funds adventuring expeditions to recover more esoteric treasure. 
 

@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Cleenseau Wood
@@ -6,9 +7,9 @@ typeOf: forest
 partOf: Barony of Aveil
 ---
 # The Cleenseau Wood
->[!info]+ Information
-> A wood in the [[Barony of Aveil]], [[Sembara]], the [[Western Green Sea Region]]
-
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Wood as it is known locally, is an old growth forest, stretching north of [[Cleenseau]] for what is said to be hundreds of miles. The fringes are used for firewood, charcoal gathering, and pig farming, but after a mile or two it becomes wild and trackless.
 

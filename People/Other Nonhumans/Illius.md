@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [mc/minor, person, dufr/unaware, status/unknown]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
@@ -9,6 +10,6 @@ ancestry:
 gender: nonbinary
 ---
 # Illius
->[!info]+ Biographical Summary
->merfolk, they/them
+>[!info]+ Biographical Info  
+> A [[Merfolk|merfolk]] (they/them)
 

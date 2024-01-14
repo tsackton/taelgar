@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Vostok
 typeOf: realm
@@ -7,6 +8,10 @@ aliases: [Vosland]
 pronunciation: VOS-tok
 ---
 # Vostok
+*(VOS-tok)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Vostok, the "homeland of the Vos," is a land of many rivers, bitter winters, and few people, generally defined as the land northeast of the Volta river and southwest of ~VostokMountains~, between the [[Green Sea]] and the cold dry plains of the kenku in the north. 
 

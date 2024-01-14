@@ -1,14 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [place/region, status/needswork/wip, status/namecheck, status/mike, status/tim]
-name: Highland Kingdoms
+name: Zimkovia
 typeOf: region
 aliases: [Highland Kingdoms]
 partOf: Western Green Sea Region
-aliases: [Highland Kingdoms]
 ---
-# The Highland Kingdoms
->[!info]+ Information
-> A region in the [[Western Green Sea Region]]
+# Zimkovia
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 North of Sembara are the four highland kingdoms of Ardlas, Lavnoch, Breva, and Zovcka. At times part of the Sembaran realm, today all four are independent and fiercely proud of it. Closely allied with the dwarves of the mountains, these kingdoms are lands of sheepfarmers and smallholders, and mostly stay to themselves. Many of the highlands trace their ancestory to the ancient inhabitants of the land before the conquest of Drankor.
 

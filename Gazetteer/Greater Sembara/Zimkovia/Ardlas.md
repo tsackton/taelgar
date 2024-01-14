@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork, status/unknown]
 campaignInfo: []
 name: Ardlas
@@ -6,8 +7,9 @@ typeOf: realm
 partOf: Highland Kingdoms
 ---
 # Ardlas
->[!info]+ Information
-> A realm in the [[Zimkovia]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A highlander kingdom.
 

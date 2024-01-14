@@ -1,14 +1,15 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [item/magical, status/unknown]
 rarity: unique
 whereabouts: Cintra
 typeOf: wonderous item
 subTypeOf: ' '
 ---
-# The The Heart of Shakun
->[!info]+ Information
-> (unique wonderous item)
+# The Heart of Shakun
+>[!info]+ Information  
+> (unique wonderous item)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A rough hewn ochre stone heart, a focus for [[Shakun]]'s power in the mortal realm. 

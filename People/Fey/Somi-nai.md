@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [status/uptodate, dufr/met_one, person, dufr/minor, status/unknown]
 campaignInfo: []
 name: Somi-nai
@@ -11,8 +12,8 @@ whereabouts:
 - {type: home, start: '', end: '', location: Azta Lekua}
 ---
 # Somi-nai
->[!info]+ Biographical Info
-> [[Elementals|fire elemental]], he/him
+>[!info]+ Biographical Info  
+> An [[Elementals|elemental]] ([[Elementals|fire elemental]]) (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Somi-nai, also known as Ember, or Sugarra among the [[Lizardfolk]], stands as the personification of the volcanic essence and a spirit of the encompassing jungle.
