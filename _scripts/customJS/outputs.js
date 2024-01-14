@@ -64,18 +64,6 @@ class OutputHandler {
     }
 
 
-    /*  # DisplayName
-    *(pronunciation)*
-    >[!info] BOXNAME
-    > TYPE-SPECIFIC TEXT
-    > pagedated if it exists (dynamic, insert call to "get page dates")
-    > regnal info (dynamic, includes leader of)    
-    > partOf if it exists [static line, not auto-generated]
-    >> whereabouts if it exists
-    >> campaign info
-    >> afflitaions
-    */
-
     generateWebsiteHeader(fileName, metadata) {
         const { EventManager } = customJS
         const { NameManager } = customJS
@@ -90,6 +78,8 @@ class OutputHandler {
         let pageType = NameManager.getPageType(metadata)
 
         let output = TokenParser.formatDisplayString("# <name:tn>", file) + "\n"
+        let whereaboutsStrings = OutputHandler.getWhereaboutsStrings(fileName, metadata)
+        let typeOf = TokenParser.formatDisplayString(displayDefaults.boxInfo, file).trim()
 
         if (metadata.pronunciation) {
             let secondary = TokenParser.formatDisplayString("<pronunciation>", file)
@@ -98,13 +88,86 @@ class OutputHandler {
             }
         }
 
-        let whereaboutsStrings = OutputHandler.getWhereaboutsStrings(fileName, metadata)
-
-        let typeOf = TokenParser.formatDisplayString(displayDefaults.boxInfo, file)
-        if (typeOf && typeOf.length > 0) {
+        if (pageType == "place") {
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
-            output += "- :octicons-info-24:{ .lg .middle } __" + displayDefaults.boxName + "__\n\n"
-            output += "    " + typeOf + "  \n"
+            output += "-\n"
+
+            if (typeOf && typeOf.length > 0) {
+                output += "    :octicons-people-24: " + typeOf + "  \n"
+            }
+
+            if (hasPageDates) {
+                let line = OutputHandler.outputPageDatedValue(fileName, metadata).trim()
+                if (line && line.length > 0) output += "   ::material-calendar: " + line + "  \n"
+            }
+
+            if (metadata.whereabouts || metadata.partOf) {
+                if (whereaboutsStrings.origin) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
+                if (whereaboutsStrings.home) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
+            }
+
+            output += "</div>\n\n"
+
+            return output
+        }
+
+        if (pageType == "group") {
+            output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
+            output += "-\n"
+
+            if (typeOf && typeOf.length > 0) {
+                output += "   :octicons-info-24:{ .lg .middle } " + typeOf + "  \n"
+            }
+
+            if (hasPageDates) {
+                let line = OutputHandler.outputPageDatedValue(fileName, metadata).trim()
+                if (line && line.length > 0) output += "   ::material-calendar: " + line + "  \n"
+            }
+
+            if (metadata.whereabouts || metadata.partOf) {
+                if (whereaboutsStrings.origin) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
+                if (whereaboutsStrings.home) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
+            }
+
+            output += "</div>\n\n"
+            return output
+        }
+
+
+        if (pageType == "item") {
+            let typeOfTitle = TokenParser.formatDisplayString("<rarity:t> <ancestry:t> <subtypeof:t> <typeof:t>", file)
+            if (!hasPageDates && !metadata.ddbLink && !metadata.whereabouts) {
+                if (typeOf && typeOf.length > 0) {
+                    output += ":octicons-info-24:{ .lg .middle } *" + typeOf + "*  \n"
+                }
+                return output
+            }
+
+            output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"            
+            output += "- :octicons-info-24:{ .lg .middle } __" + typeOfTitle + "__  \n"
+
+            if (hasPageDates) {
+                let line = OutputHandler.outputPageDatedValue(fileName, metadata).trim()
+                if (line && line.length > 0) output += "   " + line + "  \n"
+            }
+
+            if (metadata.whereabouts || metadata.partOf) {
+                if (whereaboutsStrings.origin) output += "   " + whereaboutsStrings.origin.trim() + "  \n"
+                if (whereaboutsStrings.home) output += "   " + whereaboutsStrings.home.trim() + "  \n"
+            }
+
+            if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
+                output += "    :simple-dungeonsanddragons:{ .middle} [" + displayDefaults.mechanicsLink + "](" + metadata.ddbLink + ") \n"
+            }
+
+            output += "</div>\n\n"
+            // we intentionally don't return here to pickup current whereabouts and other stuff        
+        }
+
+        if (pageType == "person") {
+            output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
+            output += "- :octicons-info-24:{ .lg .middle } __Biographical Information__\n\n"
+            if (typeOf && typeOf.length > 0) output += "    " + typeOf + "  \n"
 
             if (hasPageDates) {
                 let line = OutputHandler.outputPageDatedValue(fileName, metadata).split("\n")
@@ -129,6 +192,10 @@ class OutputHandler {
                 if (whereaboutsStrings.home) output += "    " + whereaboutsStrings.home
             }
 
+            if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
+                output += "    :simple-dungeonsanddragons:{ .middle} [" + displayDefaults.mechanicsLink + "](" + metadata.ddbLink + ") \n"
+            }
+
             output += "</div>\n\n"
         }
 
@@ -138,10 +205,6 @@ class OutputHandler {
             } else if (whereaboutsStrings.lastKnown) {
                 output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.lastKnown + "\n" // has 1 newline, we want 2
             }
-        }
-
-        if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
-            output += "> [" + displayDefaults.mechanicsLink + "](" + metadata.ddbLink + ")  \n"
         }
 
         for (let meeting of EventManager.getPartyMeeting(file)) {
