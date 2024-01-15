@@ -8,10 +8,10 @@ whereabouts: Celyn
 ddbLink: https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise
 ---
 # Silverthorn
->[!info]+ Information
-> (unique magic rapier)
-> [Mechanics](https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> (unique magic rapier)  
+> [Mechanics](https://www.dndbeyond.com/magic-items/7793313-rapier-of-surprise)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A slim rapier, gleaming but always a bit hard to see. Found on a dead halfling beneath [[Cleenseau]].

@@ -11,10 +11,10 @@ whereabouts:
 - {type: home, location: Izgil Moonseeker}
 ---
 # The Brot's Telescope (small)
->[!info]+ Information
-> (unique mundane telescope)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> (unique mundane telescope)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A clever spyglass that [[Brot Starsearcher]] gave to [[Izgil Moonseeker|Izgil]] after he promised to seek funding for Brot's large telescope project.

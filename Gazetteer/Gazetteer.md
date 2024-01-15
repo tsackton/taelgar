@@ -2,6 +2,8 @@
 tags: [background, status/unknown]
 displayDefaults: {prep: "on"}
 campaignInfo: []
+hide:
+ - toc
 name: Gazetteer
 ---
 
