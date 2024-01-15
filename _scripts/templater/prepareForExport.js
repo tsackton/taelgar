@@ -5,7 +5,7 @@ async function prepareForExport(tp, headerType) {
 
     let websiteDate = ""
     try {
-        let metadataFile = await app.vault.adapter.read(app.vault.configDir + "../../website.json");
+        let metadataFile = await app.vault.adapter.read(app.vault.configDir + "/../../website.json");
         let websiteData = JSON.parse(metadataFile)
         websiteDate = websiteData.export_date
     }
