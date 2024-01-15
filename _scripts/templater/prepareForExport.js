@@ -31,9 +31,15 @@ async function prepareForExport(tp, headerType) {
     var notice = new Notice("Link checking skipped. Making headers static", 0)
 
     for (let i = 0; i < files.length; i++) {
-        await app.vault.process(files[i], (data) => {
-            let md = app.metadataCache.getFileCache(files[i])
-            if (md && md.frontmatter && md.frontmatter.tags && md.frontmatter.headerVersion) {
+        let md = app.metadataCache.getFileCache(files[i])
+
+        let processHeader = md && md.frontmatter && md.frontmatter.tags && md.frontmatter.headerVersion
+        let dateValue = md.frontmatter ? DateManager.getPageDates(md.frontmatter) : { isCreated: true }
+        let processFrontmatter = !dateValue.isCreated
+
+
+        if (processHeader) {
+            await app.vault.process(files[i], (data) => {
                 try {
                     let newC = OutputHandler.regenerateHeader(data, files[i].name, md.frontmatter, headerType)
                     processed++
@@ -44,23 +50,24 @@ async function prepareForExport(tp, headerType) {
                     console.log(error)
                     errors++;
                 }
-            }
-            processed++
-            return data
-        })
+                processed++
+                return data
+            })
+        }
 
-        await app.fileManager.processFrontMatter(files[i], frontmatter => {
-            const { DateManager } = customJS
+        if (processFrontmatter) {
+            await app.fileManager.processFrontMatter(files[i], frontmatter => {
+                const { DateManager } = customJS
 
-            if (!frontmatter) return
-            if ("activeYear" in frontmatter) return
+                if (!frontmatter) return
+                if ("activeYear" in frontmatter) return
 
-            let pageDates = DateManager.getPageDates(frontmatter)
-            if (pageDates.startDate) {
-                frontmatter["activeYear"] = pageDates.startDate.year
-            }
-
-        });
+                let pageDates = DateManager.getPageDates(frontmatter)
+                if (pageDates.startDate) {
+                    frontmatter["activeYear"] = pageDates.startDate.year
+                }
+            });
+        }
 
         notice.setMessage("Making headers static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\n" + processed + " of " + files.length + "\n\nErrors: " + errors)
     }
