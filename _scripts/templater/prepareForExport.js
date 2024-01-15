@@ -78,6 +78,6 @@ async function prepareForExport(tp, headerType) {
 
     customJS.state.overrideDate = undefined
 
-    //tp.user.terminate()
+    tp.user.shutdownApp()
 }
 module.exports = prepareForExport;
