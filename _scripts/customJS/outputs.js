@@ -199,8 +199,8 @@ class OutputHandler {
             output += "    { .bio }\n\n"
 
             if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
-                if (whereaboutsStrings.origin) output += "    " + whereaboutsStrings.origin
-                if (whereaboutsStrings.home) output += "    " + whereaboutsStrings.home
+                if (whereaboutsStrings.origin.trim()) output += "    " + whereaboutsStrings.origin
+                if (whereaboutsStrings.home.trim()) output += "    " + whereaboutsStrings.home
             }
 
             if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
@@ -211,9 +211,9 @@ class OutputHandler {
         }
 
         if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
-            if (whereaboutsStrings.current && !whereaboutsStrings.isCurrentUnknown) {
+            if (whereaboutsStrings.current.trim() && !whereaboutsStrings.isCurrentUnknown) {
                 output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.current + "\n" // has 1 newline, we want 2
-            } else if (whereaboutsStrings.lastKnown) {
+            } else if (whereaboutsStrings.lastKnown.trim()) {
                 output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.lastKnown + "\n" // has 1 newline, we want 2
             }
         }
