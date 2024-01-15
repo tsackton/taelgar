@@ -1,5 +1,7 @@
 async function prepareForExport(tp, headerType) {
 
+    await forceLoadCustomJS()
+
     const { OutputHandler } = customJS
     const { DateManager } = customJS
 
