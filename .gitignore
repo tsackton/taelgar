@@ -16,6 +16,7 @@ assets/unshared/
 !.obsidian
 .obsidian/*
 !.obsidian/metadata.json
+!.obsidian/snippets/taelgar-fixes.css
 
 # Include gitignore
 !.gitignore
