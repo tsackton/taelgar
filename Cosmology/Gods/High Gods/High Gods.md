@@ -3,4 +3,4 @@ tags: [background, status/unknown]
 ---
 # High Gods
 
-(stub)
+The creator gods, rarely worshipped but ultimately the source of all divine magic. 
