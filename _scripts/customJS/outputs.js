@@ -96,9 +96,9 @@ class OutputHandler {
             if (hasPageDates) lineCount++
             if (hasPlaces) lineCount++
             if (hasTypeOf) lineCount++
-            
+
             if (lineCount > 0) {
-                output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"            
+                output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
                 output += "-"
             }
 
@@ -154,7 +154,7 @@ class OutputHandler {
                 return output
             }
 
-            output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"            
+            output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
             output += "- :octicons-info-24:{ .lg .middle } __" + typeOfTitle + "__  \n"
 
             if (hasPageDates) {
@@ -366,16 +366,51 @@ class OutputHandler {
         // knownLastKnown is false if either we have no awayEnd, or if the awayEnd is a hidden date (0001 or 9999)
         let knownLastKnown = whereabout.lastKnown.awayEnd && !whereabout.lastKnown.awayEnd.isHiddenDate
 
+        let homeOverrides = undefined
+        let originOverrides = undefined
+        if (whereabout.home.location) {
+
+            let dateInfo = {
+                startDate: whereabout.home.start ?? pageData.startDate ?? whereabout.home.logicalStart,
+                endDate: whereabout.home.end ?? pageData.endDate ?? whereabout.home.logicalEnd,
+                isCreated: true,
+                isAlive: undefined,
+                age: undefined
+            }
+
+            DateManager.setPageDateProperties(dateInfo, pageYear)
+
+            homeOverrides = {
+                dateInfo: dateInfo
+            }    
+        }
+
+        if (whereabout.origin.location) {
+            let dateInfo = {
+                startDate: whereabout.origin.start ?? pageData.startDate ?? whereabout.origin.logicalStart,
+                endDate: whereabout.origin.end ?? pageData.endDate ?? whereabout.origin.logicalEnd,
+                isCreated: true,
+                isAlive: undefined,
+                age: undefined
+            }
+
+            DateManager.setPageDateProperties(dateInfo, pageYear)
+
+            originOverrides = {
+                dateInfo: dateInfo
+            }    
+        }
+
         // origin string construction //
         // if origin is unknown, use unknown string //
         // don't care about alive/dead for origin //
-        let originString = TokenParser.formatDisplayString(whereabout.origin.location ? (whereabout.origin.originFormat ?? displayDefaults.wOrigin) : displayDefaults.wOriginU, file, pageYear)
+        let originString = TokenParser.formatDisplayString(whereabout.origin.location ? (whereabout.origin.originFormat ?? displayDefaults.wOrigin) : displayDefaults.wOriginU, file, pageYear, originOverrides)
 
         // home string construction //
         if (isPageAlive) {
-            homeString = TokenParser.formatDisplayString(whereabout.home.location ? (whereabout.home.homeFormat ?? displayDefaults.wHome) : displayDefaults.wHomeU, file, pageYear)
+            homeString = TokenParser.formatDisplayString(whereabout.home.location ? (whereabout.home.homeFormat ?? displayDefaults.wHome) : displayDefaults.wHomeU, file, pageYear, homeOverrides)
         } else {
-            homeString = TokenParser.formatDisplayString(whereabout.home.location ? (whereabout.home.pastHomeFormat ?? displayDefaults.wPastHome) : displayDefaults.wPastHomeU, file, pageYear)
+            homeString = TokenParser.formatDisplayString(whereabout.home.location ? (whereabout.home.pastHomeFormat ?? displayDefaults.wPastHome) : displayDefaults.wPastHomeU, file, pageYear, homeOverrides)
         }
 
         // current string construction //    
