@@ -14,9 +14,9 @@ affiliations:
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
 ---
 # Samraat Aatmaj Dasa
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Aatmaji Dynasty|Aatmaji dynasty]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Aatmaji Dynasty|Aatmaji dynasty]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The last Samraat of the [[Aatmaji Dynasty]]. 
