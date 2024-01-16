@@ -22,12 +22,12 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
-![[umli-the-exile-portrait.png|right|320]]Umli is tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker, and a teacher. 
-
-%%^Date:1733%%
-Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire. Though loosely affiliated with the [[University of Tollen]], she does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. Born in the Vostok mountains, she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] since DR 1732.
+![[umli-the-exile-portrait.png|right|320]]Umli is tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire. 
+%%^Date:1732%%
+Born in the [[Sivnjo Mountains]], she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] since DR 1732. 
 %%^End%%
 %%^Date:1738%%
+Though loosely affiliated with the [[University of Tollen]], she does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. 
 ## Rumors and Information
 - There are murmurs of Umli once attempting a creation using a metal sourced from a location she keeps secret. Whether this is related to her exile, none will speculate, for Umli is quick to anger if she learns anyone speculating about the reasons for her exile. 
 - Umli is exceedingly private. She never takes visitors in her home/forge, and usually takes her meals alone.
