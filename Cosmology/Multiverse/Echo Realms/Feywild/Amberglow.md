@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
 partOf: Feywild
+excludePublish: ["clee"]
 ancestry: fey
 typeOf: realm
 ---

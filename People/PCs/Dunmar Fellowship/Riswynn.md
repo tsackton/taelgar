@@ -1,6 +1,5 @@
 ---
 tags: [pc, person, pc/dunmarfrontier, status/needswork]
-excludeRooted: ["Clee"]
 displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Riswynn

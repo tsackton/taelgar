@@ -1,5 +1,4 @@
 ---
-excludeRooted: ["Clee"]
 tags: [status/unknown]
 ---
 *in which the party plans for [[Kadmos]]' attack

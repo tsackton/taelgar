@@ -1,6 +1,5 @@
 ---
 headerVersion: 2023.11.25
-excludeRooted: ["Clee"]
 tags: [dufr/met_one, person, dufr/minor, status/unknown]
 campaignInfo: []
 name: Frankar
