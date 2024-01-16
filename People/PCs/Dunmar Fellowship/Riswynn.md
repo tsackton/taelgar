@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc, person, pc/dunmarfrontier, status/needswork]
 campaignInfo:
 name: Riswynn
@@ -7,8 +8,11 @@ species: dwarf
 ancestry:
 gender: female
 player: Kate Sackton
-affiliations:
+affiliations: [ "The Dunmar Fellowship"]
 ---
-### Riswynn
+# Riswynn
+>[!info]+ Biographical Info  
+> A [[Dwarves|dwarf]] (she/her)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 ![[riswynn.png|400]]
