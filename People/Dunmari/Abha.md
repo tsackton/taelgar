@@ -12,4 +12,4 @@ affiliations: [Sonkar Mystai]
 > A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-Advisor to [[Nayan Karnas]], mystai of Sonkar, and powerful spellcaster. 
+Advisor to [[Nayan Karnas]], mystai of [[Sonkar]], and powerful spellcaster. 

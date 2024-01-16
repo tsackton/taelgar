@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/unaware, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: clee, type: met, date: 1719-10-28}
 name: Izoko
@@ -18,5 +18,4 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:clee%% Met by the [[Heroes of Cleenseau]] on October 28th, 1719 in [[Ganboa]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
-A young lizardfolk, sweet on [[Gentza]].
-![[lizardfolk-Izoko.png]]
+![[lizardfolk-Izoko.png|right|320]]A young lizardfolk, sweet on [[Gentza]]. He is a skilled fisherman but not so skilled at keeping secrets. 

@@ -1,6 +1,5 @@
 ---
 tags: [pc, person, pc/guest, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Rothfis
 born:
@@ -8,6 +7,7 @@ species:
 ancestry:
 gender:
 player:
+excludePublish: ["clee"]
 ---
 ## Rothfis
 
