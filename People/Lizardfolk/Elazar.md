@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor]
+tags: [person]
 campaignInfo: 
 - {campaign: dufr, person: Kenzo, date: 1748-09-30, type: met}
 - {campaign: dufr, person: Kenzo, date: 1748-11-04, type: last seen}
