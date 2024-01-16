@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: 
-- {campaign: dufr, person: Wellby, date: 1748-10-14, type: rescued by}
+- {campaign: dufr, person: Wellby, date: 1748-10-14, type: rescued, format: "<met:u> <person:q> on <target> from <current:3Frq>"}
 name: Skoda
 born: 1700
 activeYear: 1745
@@ -19,7 +19,7 @@ whereabouts:
 > An Islander [[Kenku|kenku]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Rescued by by [[Wellby]] on October 14th, 1748 the aboleth lair east of the [[Vermillion Isles]], [[~Eastern Islands~]] %%^End%%
+>> %%^Campaign:dufr%% Rescued by [[Wellby]] on October 14th, 1748 from the aboleth lair east of the [[Vermillion Isles]], [[~Eastern Islands~]] %%^End%%
 
 ![[skoda.png|right|400]]A kenku woman in late middle age, who travels the islands of the [[Eastern Green Sea]] with her partner [[Nahto]]. She is fey-touched and has a hint of magic about her. 
 
