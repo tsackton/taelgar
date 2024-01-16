@@ -17,6 +17,10 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies.
+![[lizardfolk-gentza.png|right|320]]An apprentice lizardfolk herbalist, said to be skilled at experimenting with remedies. She is a regular at the [[Cleenseau]] market where she sells herbal cures to humans, and is always interested in new maladies or remedies for them. She often sells to [[Mermin Stonebridge]], a budding halfling merchant.
 
-![[lizardfolk-gentza.png]]
+%%^Date:1719%%
+In October of 1719, she was working on a new remedy for stomach aliments in humans, which was unfortunately mostly causing, rather than curing, sickness in her early tests. She was murdered by [[Francois the Bandit|François the Bandit]] and his accomplices as part of the [[Attempted Poisoning of Cleenseau]], when she refused to accept their bribe to misuse a remedy of hers. 
+%%^End%%
+
+

@@ -8,6 +8,7 @@ species: kenku
 ancestry:
 gender: male
 player: Eric Rosenbaum
+excludePublish: ["clee"]
 ---
 # Rufus
 >[!info]+ Biographical Info  

@@ -7,6 +7,7 @@ species: lizardfolk
 ancestry:
 gender: male
 player:
+excludePublish: ["clee"]
 ---
 # Izzarak
 >[!info]+ Biographical Info  
