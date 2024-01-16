@@ -26,6 +26,6 @@ Not well regarded by of the party's contacts in Chardon, considered a snob and s
 
 Favors fireballs in combat. 
 
-![[cassian-portrait.png|500]]
+![[cassian-portrait.png|right|320]]
 
 %%SECRET[1]%%
