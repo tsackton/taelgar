@@ -3,7 +3,6 @@ tags: [status/needswork, place, historical]
 ---
 # Hkar
 
-
 %% notes
 
  Thalassar - home of mariners
