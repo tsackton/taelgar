@@ -1,24 +1,23 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/unknown]
 campaignInfo:
 - {campaign: DuFr, date: '1748-12-30', type: met}
 name: Jane Chapman
 born: 1715
+activeYear: 1740
 species: human
 ancestry: Tollender
 gender: female
 title: Captain
-affiliations: [Dyer's Guild]
-family: Chapman
+affiliations: [Dyer's Guild, {org: the Chapmans, type: primary, format: "<org:T>"}]
 whereabouts:
 - {type: home, location: Tollen}
 - {type: away, start: '1748-12-30', end: '1748-12-30', location: Dyer's Guildhall}
 ---
 # Captain Jane Chapman
 >[!info]+ Biographical Info  
-> A [[Tollen|Tollender]] [[Humans|human]] (she/her)  
+> A [[Tollen|Tollender]] [[Humans|human]] (she/her), of the Chapmans  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
