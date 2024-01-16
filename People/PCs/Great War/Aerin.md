@@ -11,6 +11,10 @@ player: David Schwartz
 affiliations:
 ---
 
+# Aerin
+
+A kenku, rogue, and traveler. Current whereabouts are unknown. 
+
 %%NOTES
 Kenku rogue, also effectively the Firstborn of the Kenku.
 
