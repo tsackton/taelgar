@@ -525,10 +525,23 @@ class TokenParser {
 
             default:
                 // if no special processing, check to see if it is a key in metadata, or failing that, displayDefaults
-                value = (this.#getParameterCaseInsensitive(metadata, token.token) ?? this.#getParameterCaseInsensitive(displayDefaults, token.token)) ?? ""
+                let metaString = this.#getParameterCaseInsensitive(metadata, token.token) ?? ""
+                let displayDefaultString = this.#getParameterCaseInsensitive(displayDefaults, token.token) ?? ""
                 // default formatter is casing
-                formatter = "casing"
+                if (metaString) { 
+                    value = NameManager.getNameObject(metaString, sourcePageType)
+                    formatter = "name"
+                }
+                else if (displayDefaultString) {
+                    value = displayDefaultString
+                    formatter = "casing"
+                }
+                else {
+                    value = ""
+                    formatter = "none"
+                }
         }
+        if (this.debug) console.log("Value: " + value + ", formatter: " + formatter)
 
         // if we don't have a value, return
         if (value === undefined || value === null || value === "" || (Array.isArray(value) && value.length === 0))

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person]
 displayDefaults: { endStatus: "killed by [[Mezzar|Grimbaskal]] on"}
 campaignInfo: []
 name: Zevi
