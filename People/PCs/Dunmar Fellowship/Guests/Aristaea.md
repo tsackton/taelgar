@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/unknown]
+tags: [pc, person, pc/guest, status/needswork/notes]
 campaignInfo:
 name: Aristaea
 born:
@@ -9,6 +9,7 @@ ancestry:
 gender: female
 affiliations:
 player: Kate Sackton
+excludePublish: ["clee"]
 ---
 # Aristaea
 >[!info]+ Biographical Info  

@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/refactor, person, dufr/met, dufr/major, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-10, type: met}
 name: Lubash
 born: 1691
+activeYear: 1735
 species: orc
 ancestry:
 gender: male
 title: Chief
-affiliations: [People of the Rainbow]
+affiliations: [People of the Rainbow, {org: Xurkhaz, type: leader, start: 1745}]
 whereabouts: Uzgukhar
 ---
 # Chief Lubash
@@ -36,6 +36,6 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 ## Events
 
 - Came to power in DR 1745 after his older brother's family was killed by hill [[Giants]].
-- In DR 1748-1749, led the [[Orcs]] of [[Xurkhaz]] in the war against [[People/Other Nonhumans/Grash]], aided by [[Dunmar Fellowship]]
+- In DR 1748-1749, led the [[Orcs]] of [[Xurkhaz]] in the war against [[Grash]], aided by [[Dunmar Fellowship]]
 
 %%SECRET[1]%%

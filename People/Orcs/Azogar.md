@@ -11,6 +11,7 @@ gender: male
 title: Loremaster
 affiliations: [{org: People of the Rainbow, type: primary}]
 whereabouts: Uzgukhar
+excludePublish: ["clee"]
 ---
 %% Tim: Just cleaned up metadata; leaving it for you to declare that it is "done" %%
 # Loremaster Azogar

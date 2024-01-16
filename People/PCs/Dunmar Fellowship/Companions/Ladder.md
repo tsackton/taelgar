@@ -9,6 +9,7 @@ ancestry:
 gender:
 player:
 affiliations:
+excludePublish: ["clee"]
 ---
 # Ladder
 

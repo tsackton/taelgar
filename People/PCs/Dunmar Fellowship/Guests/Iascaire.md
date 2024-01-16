@@ -8,6 +8,7 @@ species:
 ancestry:
 gender:
 player:
+excludePublish: ["clee"]
 ---
 # Iascaire
 

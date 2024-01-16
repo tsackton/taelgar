@@ -9,6 +9,7 @@ ancestry: salt
 gender: male
 player: Eric Rosenbaum
 affiliations:
+excludePublish: ["clee"]
 ---
 
 A lizardfolk warrior, covered in tattoos, who lives on the beach north of the Drowned Flats neighborhood of Hamri. Recovering gatza addict who is somewhat estranged from his family.

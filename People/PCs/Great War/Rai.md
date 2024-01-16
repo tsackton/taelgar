@@ -1,7 +1,5 @@
 ---
-tags: [pc/greatwar, pc, person, status/needswork]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags: [pc/greatwar, person, status/needswork]
 name: Rai
 born:
 species:
