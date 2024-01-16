@@ -24,9 +24,11 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on January 15th, 1748 in [[Erelion]], [[Orenlas]], the [[Western Green Sea Region]] %%^End%%
 
-Vahaiya is a warrior, traveler, adventurer, and now artist and collector. After surviving the [[Great War]], fighting alongside the Sembaran Army in the [[Battle of Urlich Pass]], they traveled extensively around [[Addermarch]], the [[Aurbez Plateau]], [[Duchy of Maseau|Maseau]], and other Sembaran borderlands. They made a name for themselves in the hobgoblin wars, but growing tiring of fighting after many years, decided to settle in [[Erelion]]. 
+![[vahaiya-portrait.png|right|400]]Vahaiya is a warrior, traveler, adventurer, and veteran of the [[Great War]]. They fought with the Sembaran Army in the in the [[Battle of Urlich Pass]], and survived. After the Great War, they traveled extensively around [[Addermarch]], the [[Aurbez Plateau]], [[Duchy of Maseau|Maseau]], and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
 
-![[vahaiya-portrait.png]]
+%%^Date:1721%%
+Growing tiring of fighting after many years, they settled in [[Erelion]], where they now live, spending time as an artist and art collector. 
+%%^End%%
 
 %% notes below
 A well-connected collector of elven painting, of the 36th ka. They survived the Great War, fighting alongside Sembarans in the Battle of [[Urlich Pass]]. After the war, could not settle, and did not return to have children during his first mela. Traveled and fought with the rangers for a time, spent time around Massau, Addermarch, fighting hobgoblins, until by 1700 was tired of fighting. Had amassed some considerable skill in arms, and favors and knowledge from a wide swath of people, including many rangers. Word of their deeds spread, and returns to [[Orenlas]] - which is particularly close to Addermarch - in the early 1700s, tired, feeling out of cycle, uncertain about having missed their first mela, wanting the strength of Aldanor's roots just as Elmerca's winds are scattering the newly awakened elves of the small and uncertain 37th ka. Decides to stay in [[Orenlas]]. Given their fame, attracts a number of gifts, and finds particular joy in painting. Even has one of Beryl's paintings, a very rare piece if not particularly amazingly crafted, and a gift from the Rangers. 
