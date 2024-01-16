@@ -1,5 +1,6 @@
 ---
 tags: [timeline, status/unknown]
+excludePublish: ["all"]
 ---
 
 ## The Great War
