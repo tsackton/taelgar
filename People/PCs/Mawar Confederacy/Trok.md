@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc, person, pc/mawar, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Trok
 born:
@@ -11,5 +11,9 @@ player: Eric Rosenbaum
 affiliations:
 excludePublish: ["clee"]
 ---
+# Trok
+>[!info]+ Biographical Info  
+> A salt [[Lizardfolk|lizardfolk]] (he/him)
+
 
 A lizardfolk warrior, covered in tattoos, who lives on the beach north of the Drowned Flats neighborhood of Hamri. Recovering gatza addict who is somewhat estranged from his family.

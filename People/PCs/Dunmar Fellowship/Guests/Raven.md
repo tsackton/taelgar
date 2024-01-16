@@ -8,7 +8,7 @@ born:
 species:
 ancestry:
 gender: enby
-player:
+player: Isaac Sackton
 excludePublish: ["clee"]
 ---
 # Raven

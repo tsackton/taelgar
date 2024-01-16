@@ -20,7 +20,7 @@ whereabouts: Tollen
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
-![[delios-the-sage.png|right|400]]An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the  [[Ancient and Honorable Guild of Philosophers]]
+![[delios-the-sage.png|right|400]]An agile elder of nearly 80, Delios is a wise human of Tollender ancestry, famously affiliated with the [[Ancient and Honorable Guild of Philosophers]]
 
 Carries what appears to be a magic scroll, allowing him to query some kind of library or source of information. 
 

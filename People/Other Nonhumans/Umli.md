@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-29, type: met}
 name: Umli the Exile
@@ -14,7 +14,6 @@ whereabouts:
 - {type: home, end: 1731, location: Sivnjo Mountains}
 - {type: home, start: 1732, location: Tollen}
 ---
-%% Status Tim: I removed the status tag but not sure if this is complete. Also need you to check that Sivnjo Mountains is where she is from %%
 # Umli the Exile
 >[!info]+ Biographical Info  
 > A [[Stoneborn|stoneborn]] (she/her)  
@@ -25,7 +24,7 @@ whereabouts:
 Umli is a stoneborn exile living in [[Tollen]], a master metalworker, and a teacher. 
 ## Overview
 
-Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of metallury and her knowledge of the elemental plane of fire. Though loosely affiliated with the University of [[Tollen]], she  does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. Born in the Vostok mountains, she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] for the past 15 years. 
+Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire. Though loosely affiliated with the [[University of Tollen]], she does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. Born in the Vostok mountains, she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] for the past 15 years. 
 ## Description
 
 ![[umli-the-exile-portrait.png|right|320]]Umli stands tall and imposing, typical of stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork. Her obsidian-like eyes reflect her intense focus.
@@ -33,7 +32,7 @@ Umli is a stoneborn smith and metalworker, known for her unparalleled mastery of
 
 - There are murmurs of Umli once attempting a creation using a metal sourced from a location she keeps secret. Whether this is related to her exile, none will speculate, for Umli is quick to anger if she learns anyone speculating about the reasons for her exile. 
 - Umli is exceedingly private. She never takes visitors in her home/forge, and usually takes her meals alone.
-- Once a week, on Tuesdays, she takes interviews for new students in a dwarven tavern near campus called *Fire and Stone*, and will also sometimes speak to clients desiring her skills in smithing then as well. 
+- Once a week, on Tuesdays, she takes interviews for new students in a dwarven tavern near campus called [[The Fire and Stone]], and will also sometimes speak to clients desiring her skills in smithing then as well. 
 - Once a week, on Fridays, she tests her student's work at her forge. No one is allowed in, but a crowd gathers outside and she takes each item presented to examine. 
 
 %%SECRET[1]%%
