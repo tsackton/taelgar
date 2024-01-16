@@ -5,7 +5,6 @@ displayDefaults: {ltPerson: "by"}
 campaignInfo: []
 name: Dunmar Fellowship
 typeOf: adventuring party
-excludeRooted: ["Clee"]
 ---
 # The Dunmar Fellowship
 >[!info]+ Information

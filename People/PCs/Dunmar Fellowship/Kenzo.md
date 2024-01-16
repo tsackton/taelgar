@@ -1,6 +1,5 @@
 ---
 headerVersion: 2023.11.25
-excludeRooted: ["Clee"]
 tags: [pc, person, pc/dunmarfrontier, status/needswork]
 campaignInfo: []
 name: Kenzo
