@@ -1,6 +1,7 @@
 ---
 tags: [place, status/unknown]
 partOf: Feywild
+displayDefaults: {defArt: ""}
 typeOf: realm
 ---
 
