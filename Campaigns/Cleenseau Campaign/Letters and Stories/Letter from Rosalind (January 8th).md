@@ -1,3 +1,8 @@
+---
+excludePublish: ["all"]
+---
+
+
 Received January 12th:
 
 Friends:

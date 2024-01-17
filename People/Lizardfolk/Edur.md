@@ -20,7 +20,3 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The brother of [[Erdu]].
-
-%%^Date:1719%%
-He taken and killed by spiders in October 1719. 
-%%^End%%
