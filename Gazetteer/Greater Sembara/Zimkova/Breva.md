@@ -7,7 +7,7 @@ partOf: Highland Kingdoms
 ---
 # Breva
 >[!info]+ Information
-> A realm in the [[Zimkovia]], the [[Western Green Sea Region]]
+> A realm in the [[Zimkova]], the [[Western Green Sea Region]]
 
 A highlander kingdom.
 
