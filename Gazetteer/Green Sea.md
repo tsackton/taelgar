@@ -4,7 +4,8 @@ tags: [place, status/unknown]
 campaignInfo:
 name: Green Sea
 typeOf: sea
-partOf: Taelgar
+whereabouts: 
+- { type: home, location: Taelgar, linkText: in}
 ---
 # The Green Sea
 >[!info]+ Information

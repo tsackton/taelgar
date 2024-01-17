@@ -5,7 +5,7 @@ campaignInfo: []
 name: Am'khazar
 typeOf: realm
 ancestry: dwarven
-partOf: Labkhan
+whereabouts: Labkhan
 ---
 # Am'khazar
 >[!info]+ Information  

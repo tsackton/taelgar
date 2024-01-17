@@ -1,6 +1,5 @@
 ---
 tags: [pc/companion, pc, person, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 name: Ladder
 born:
