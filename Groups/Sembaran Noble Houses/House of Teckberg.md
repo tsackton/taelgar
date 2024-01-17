@@ -1,7 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/stub, status/unknown]
 typeOf: family
+typeOfAlias: noble family
+whereabouts: Sembara
 ---
+# The House of Teckberg
+>[!info]+ Information  
+> A noble family  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%^Campaign:None%%
 ### Members

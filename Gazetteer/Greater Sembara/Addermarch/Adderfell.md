@@ -1,8 +1,13 @@
 ---
-tags: [place, status/unknown]
-campaignInfo:
+headerVersion: 2023.11.25
+tags: [place, status/needswork/notes]
 name: Adderfell
 typeOf: town
-partOf: Addermarch
+whereabouts: Addermarch
 ---
+# Adderfell
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
 The chief town of [[Addermarch]]

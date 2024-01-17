@@ -11,8 +11,6 @@ deity: Laka
 > A [[Dunmar|Dunmari]] mystery cult of [[Laka]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-# The Lakan Mystai
-
 The mystery cult of the Dunmari god [[Laka]]. Guardians of secret knowledge, especially concerning the lore of other planes, and the secrets of manipulating planar energy to create magic.
 
 %%SECRET[1]%%

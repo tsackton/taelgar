@@ -8,7 +8,7 @@ species: human
 ancestry: Sembaran
 gender: male
 affiliations: 
-- {org: Lord's Guard of Cleenseau, title: Captain }
+- {org: Lord's Guard of Cleenseau, title: Captain, type: leader }
 - {org: Essfords, title: Guard Captain }
 whereabouts:
 - {type: home, location: Cleenseau }
