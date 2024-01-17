@@ -15,4 +15,4 @@ whereabouts: Te'kula village
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on September 10th, 1748 in [[~Te'kula village~|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%
 
-The chief of the Te'kula village.
+The chief of the [[Te'kula]] village.

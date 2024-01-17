@@ -15,4 +15,4 @@ whereabouts: Te'kula village
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An old ranger of the Te'kula who volunteered to fight [[Mezzar|Grimbaskal]] with the party. Miraculously survived. 
+An old ranger of the [[Te'kula]] who volunteered to fight [[Mezzar|Grimbaskal]] with the party. Miraculously survived. 

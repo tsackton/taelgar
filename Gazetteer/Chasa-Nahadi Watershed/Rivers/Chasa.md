@@ -1,13 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Chasa
 typeOf: river
-partOf:
+whereabouts: Chasa-Nahadi Watershed
 aliases: [River Chasa, Chasa River]
 ---
 # Chasa
->[!info]+ Summary
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 River that flows from the mountains all the way to [[Chardon]]
 
