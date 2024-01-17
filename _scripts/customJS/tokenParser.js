@@ -1,6 +1,6 @@
 class TokenParser {
 
-    debug = true
+    debug = false
 
     // Define the allowable filter and format characters
     // unused characters: bB cC dD eE gG hH jJ K mM N S T vV wW X Y zZ 
