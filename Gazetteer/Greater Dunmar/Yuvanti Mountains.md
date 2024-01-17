@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork]
-displayDefaults: {startStatus: rose from the ground in, startPrefix: rose}
+displayDefaults: {startStatus: rose from the ground in}
 campaignInfo: []
 created: 1546
 name: Yuvanti Mountains
