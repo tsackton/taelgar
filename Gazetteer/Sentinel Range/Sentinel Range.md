@@ -4,6 +4,8 @@ tags: [place, status/needswork/wip]
 name: Sentinel Range
 typeOf: mountain range
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
+whereabouts:
+- { type: home, location: Taelgar, linkText: in}
 ---
 # The Sentinel Range
 >[!info]+ Information

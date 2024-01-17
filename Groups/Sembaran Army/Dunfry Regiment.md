@@ -1,13 +1,14 @@
 ---
-headerVersion: 2023.11.20
-displayDefaults: {partOf: '<typeof:A> of <partof>', boxInfo: ''}
+headerVersion: 2023.11.25
+displayDefaults: {partOf: '<typeof:AU> of <partof>', boxInfo: ''}
 tags: [organization, status/unknown]
 typeOf: regiment
 partOf: Army of the West
 ---
 # The Dunfry Regiment
->[!info]+ Information
-> a regiment of the [[Army of the West]], the [[Sembaran Army]], [[Sembara]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+> A regiment of the [[Army of the West]], the [[Sembaran Army]], [[Sembara]]
 
 %%^Campaign:None%%
 ### Members

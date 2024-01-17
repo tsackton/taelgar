@@ -1,12 +1,13 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 partOf: Divine Realms
 typeOf: plane
 ---
 # The Heart of the Mountain
->[!info]+ Information
-> A plane in the [[Divine Realms]], the [[Spiritual Realms]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The divine realm of the [[Bahrazel]]. 
 
@@ -14,5 +15,5 @@ Described in various ways, but often as a vast cavern hundreds and hundreds of f
 
 Tunnels leave the cave in all directions, many wide and brightly lit by crystal lanterns, others narrow, some nearly vanished into the shadows.
 
-![[heart-of-the-mountain.png]]
+![[heart-of-the-mountain.png|800]]
 
