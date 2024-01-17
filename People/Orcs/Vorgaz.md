@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/uptodate, person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: "killed in battle against [[Grash|Grash's]] armies"}
+displayDefaults: {endStatus: "killed in battle against [[Grash|Grash's]] armies"}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-04, type: met}
 name: Vorgaz

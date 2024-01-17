@@ -6,8 +6,8 @@ typeOf: species
 ---
 # Orcs
 
+>[!quote] The Blood Binding, excerpt
 *Thark, Master of Unbreakable Chains, in your fire we temper this soul. Bind it to your will, so it may never know peace, only the insatiable hunger for strife and turmoil.*
-`--` The Blood Binding, excerpt
 
 Scattered across the world of Taelgar small orc bands roam, raiding and pillaging in the name of [[Thark]], the god of war without end. Although most orcs live in small groups, but when a leader blessed by [[Thark]] arises, they can bind many orcs together into a fearsome battle horde. 
 ## Imposing and Violent

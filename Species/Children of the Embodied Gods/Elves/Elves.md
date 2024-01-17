@@ -5,8 +5,8 @@ aliases: [elf, elves, Elf, Elves, elven, Elven]
 ---
 # Elves
 
-_In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and life in the world for the first time. Behold! For we are the First."_  
--- Memories of the First, Elven Oral Tradition.
+>[!quote] Memories of the First, Elven Oral Tradition
+>*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and life in the world for the first time. Behold! For we are the First.*
 
 Under the trees of a great forest, a living palace of air and light and flowers, humming with the weave of Magic holding it together, the sound of song drifting gently to the ground below. At the top of an impossible spire, a fey light glows with power and knowledge as birds and moths come and go with messages. A love of beauty, nature, poetry, artistry, and above all the power of magical energy. These things are the domain of the elves.
 ## Graceful And Sleek

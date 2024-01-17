@@ -6,9 +6,9 @@ aliases: [lizardfolk]
 # Lizardfolk
 
 >[!quote] Lizardfolk saying, author unknown
->At misty daybreak
-_a quiet emerald swamp dreams_  
-_of the setting sun_  
+>*At misty daybreak*
+>*a quiet emerald swamp dreams*
+>*of the setting sun*
 
 The quiet flash of fireflies on a summer night, the dawn song of nesting warblers, the midday croak of the bullfrog -- these speak of home to the Lizardfolk. At home between the water and the land, Lizardfolk communities tend to grow up in wild places near water, often swamps and wetlands, where they live a peaceful life of contemplation and repose. When they venture out into the world, they have a striking and often menacing appearance, but despite their reptilian looks, Lizardfolk are compassionate friends and dedicated members of their communities, of any race.
 
