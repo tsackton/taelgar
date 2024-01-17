@@ -17,19 +17,16 @@ whereabouts:
 - {type: away, start: 1720-01-20, end: 9999, location: Embry }
 ---
 # Arthur Bybet
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Bybets]]
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Bybets]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-The husband of [[Rosalind Essford|Rosalind]] (whom he married in 1706), he wisely takes a back seat in local affairs. He hails from a prominent family in [[Ainwick]]. He is a aficionado of stories and songs and often frequents [[The Crossroads Inn]] to hear the latest news.
+![[arthur-bybet-portrait.png|right|320]]The husband of [[Rosalind Essford|Rosalind]] (whom he married in 1706), he wisely takes a back seat in local affairs. He hails from a prominent family in [[Ainwick]]. He is a aficionado of stories and songs and often frequents [[The Crossroads Inn]] to hear the latest news.
 
 In the fall of 1719, he lost his three children during the [[Tragic Flood of the River Enst]] and his and [[Rosalind Essford|Rosalind's]] sadness over this has been profound. 
-
-![[arthur-bybet-portrait.png]]
-
 
 %%^Campaign:None%%
 ### Relationships

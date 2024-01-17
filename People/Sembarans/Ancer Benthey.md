@@ -15,12 +15,10 @@ whereabouts:
 - {type: away, location: 'Army Garrison of Cleenseau'}
 ---
 # Ancer Benthey
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The nephew of [[Ames Benthey]], recently appointed sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] after [[Odo Cordwaner]] was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle. 
-
-![[ancer-benthey-portrait.png|500]]
+![[ancer-benthey-portrait.png|right|320]]The nephew of [[Ames Benthey]], recently appointed sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]] after [[Odo Cordwaner]] was dismissed. He is untested and rumored to be somewhat stern, and not very close to his uncle. 

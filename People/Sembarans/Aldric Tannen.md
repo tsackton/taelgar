@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Aldric Tannen
@@ -17,6 +17,4 @@ whereabouts: Cleenseau
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-Aldric is a jovial fisherman who operates one of the rafts on the River Enst during the summer. He's a great source of local knowledge and can regale the players with tales of the river's history and secrets.
-
-%% Aldric is a jovial fisherman who operates one of the rafts on the River Enst during the summer. He's a great source of local knowledge and can regale the players with tales of the river's history and secrets.%%
+Aldric is a jovial fisherman who operates one of the rafts on the River Enst during the summer. He is perpetually looking for get rich schemes, and notoriously unreliable. 
