@@ -1,11 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Voltara
 typeOf: city
-partOf: Chardonian Empire
+whereabouts: Northern Frontier
 ---
 # Voltara
 >[!info]+ Information  

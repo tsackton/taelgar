@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Itar
 born: 1716
@@ -9,7 +8,7 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts:
-- {type: home, start: '', end: '', location: Bek'eni village}
+- {type: home, location: Bek'eni village, linkText: in the largest}
 ---
 # Itar
 >[!info]+ Biographical Info
