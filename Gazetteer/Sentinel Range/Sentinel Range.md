@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/wip]
 name: Sentinel Range
 typeOf: mountain range
-partOf: Central Highlands Region
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 ---
 # The Sentinel Range

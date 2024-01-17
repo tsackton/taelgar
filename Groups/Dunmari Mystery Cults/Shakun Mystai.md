@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [organization/religious, status/unknown]
 name: Shakun Mystai
-displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>"}
+displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>", ruledBy: "Ruled by: <name>"}
 campaignInfo: []
 name: Shakun Mystai
 typeOf: mystery cult

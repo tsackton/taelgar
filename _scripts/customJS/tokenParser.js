@@ -1,6 +1,6 @@
 class TokenParser {
 
-    debug = false
+    debug = true
 
     // Define the allowable filter and format characters
     // unused characters: bB cC dD eE gG hH jJ K mM N S T vV wW X Y zZ 
@@ -541,9 +541,11 @@ class TokenParser {
                     formatter = "none"
                 }
         }
-        if (this.debug) console.log("Value: " + value + ", formatter: " + formatter)
+        if (this.debug) console.log(value)
+        if (this.debug) console.log("Formatter: " + formatter)
 
         // if we don't have a value, return
+        if (value.isNormalizedDate && value.isHiddenDate) return ""
         if (value === undefined || value === null || value === "" || (Array.isArray(value) && value.length === 0))
             return ""
 
