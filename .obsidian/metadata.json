@@ -39,10 +39,10 @@
         "boxName": "Information",
         "partOf": "",
         "boxInfo": "",
-        "aNoDate": "<affiliationtitle:t> of <affiliations>",
-        "aPast": "<affiliationtitle:t> of <affiliations> (until <endDate>)",
-        "aCurrent": "<affiliationtitle:t> of <affiliations> (since <startDate>)",
-        "aPastHasStart": "<affiliationtitle:t> of <affiliations> (<startDate> - <endDate>)", 
+        "aNoDate": "<affiliationtitle:tx> of <affiliations>",
+        "aPast": "<affiliationtitle:tx> of <affiliations> (until <endDate>)",
+        "aCurrent": "<affiliationtitle:tx> of <affiliations> (since <startDate>)",
+        "aPastHasStart": "<affiliationtitle:tx> of <affiliations> (<startDate> - <endDate>)", 
         "mechanicsLink": "",
         "linkText": "",
         "ruledBy" : ""        
@@ -88,7 +88,7 @@
             "wPastHome": "<end:UA> <ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <current:5Fq>",
             "partOf": "",
             "boxInfo": "<population>",                        
-            "ruledBy" : "<affiliationtitle:t>: <name> <((since )startDate())>",
+            "ruledBy" : "<affiliationtitle:tx>: <name> <((since )startDate())>",
             "linkText": "in"            
         },
         "item": {
@@ -118,7 +118,7 @@
             "dPast": "<end:u> <endDate>",
             "partOf": "<(Parent Organization: )partof>",
             "boxInfo": "<ancestry:UA> <subtypeof:UA> <typeof:UA>",            
-            "ruledBy" : "<affiliationtitle:t>: <name> <((since )startDate())>",
+            "ruledBy" : "<affiliationtitle:tx>: <name> <((since )startDate())>",
             "linkText": "by",
             "ltPlace": "in",
             "ltPerson": "with",
