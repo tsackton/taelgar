@@ -1,11 +1,11 @@
 ---
-tags: [place, status/notes, status/unknown]
+tags: [place, status/mike, status/notes, status/stub]
 campaignInfo: []
 name: Zovcka
 typeOf: realm
 partOf:
 ---
-
+%% no longer exists? %%
 # Zovcka
 
 %% Notes

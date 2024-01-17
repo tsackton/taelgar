@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Western Green Sea
 typeOf: sea
 partOf: Green Sea
 ---
 # The Western Green Sea
->[!info]+ Information
-> A sea in the [[Green Sea]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Western [[Green Sea]] region refers to the areas clustered around the [[Western Gulf]] and the more westerly parts of the [[Green Sea]].
 

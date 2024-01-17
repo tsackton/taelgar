@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/stub]
 ---
 
 %% The mountains west of [[Myraeni Gap]], north o[](Darba.md)]] "northern part" o[](Yuvanti%20Mountains.md)]]
