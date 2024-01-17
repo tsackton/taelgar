@@ -1,11 +1,17 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/needswork/notes]
+displayDefaults: {boxInfo: "<ancestry:UA> <subtypeof>"}
 campaignInfo:
 name: Aatmaji dynasty
 typeOf: family
 subTypeOf: dynasty
+ancestry: Dunmari
 ---
 # The Aatmaji Dynasty
+>[!info]+ Information  
+> A [[Dunmar|Dunmari]] dynasty  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The first ruling dynasty of [[Dunmar]], founded by [[Bhishma]]. 
 

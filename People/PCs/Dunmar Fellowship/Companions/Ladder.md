@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc/companion, pc, person, status/notes, status/unknown]
 campaignInfo:
 name: Ladder
