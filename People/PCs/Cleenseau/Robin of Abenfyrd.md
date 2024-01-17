@@ -11,7 +11,9 @@ ancestry: Tyrwinghan
 gender: male
 player: Dan Walters
 aliases: [Robin]
-affiliations: [Heroes of Cleenseau]
+affiliations: 
+- {org: Heroes of Cleenseau }
+- {org: Lord's Guard of Cleenseau, start: 1720-01-03, type: leader, title: Acting Captain}
 whereabouts:
 - {type: home, end: 1719, location: Abenfyrd}
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}

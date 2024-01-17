@@ -1,11 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/unknown]
 typeOf: family
+typeOfAlias: noble family
 created: 1594
 ---
 # The House of Lils
->[!info]+ Summary
->`$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Information  
+> A noble family  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A cadet branch of the [[House of Sewick]], which came to the throne in the 1720s. The house descends from the youngest child of [[Elaine I]] and a Tyrwinghan [[Oracle of the Riven]], [[Morgaine]].
 

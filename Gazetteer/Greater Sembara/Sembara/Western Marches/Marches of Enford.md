@@ -1,11 +1,13 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/stub]
 campaignInfo:
 name: Marches of Enford
 typeOf: march
 partOf: Western Marches
 ---
 # The Marches of Enford
->[!info]+ Information
-> A march in [[Sembara]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
