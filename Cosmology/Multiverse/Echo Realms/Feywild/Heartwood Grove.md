@@ -1,10 +1,11 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/needswork, status/unknown]
 partOf: Amberglow
 typeOf: grove
 ---
-# Heartwood Grove
->[!info]+ Information
-> A grove in [[Amberglow]], the [[Feywild]], the [[Echo Realms]]
+# The Heartwood Grove
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 

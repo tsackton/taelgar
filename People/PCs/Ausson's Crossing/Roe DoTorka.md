@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, pc/aussons, status/needswork/notes]
 name: Roe DoTorka
 born:
@@ -9,6 +9,6 @@ gender: male
 player: Chris Kelly
 ---
 # Roe DoTorka
->[!info]+ Biographical Info
-> [[Ardith|Ardikhun]] [[Dwarves|dwarf]], he/him
+>[!info]+ Biographical Info  
+> An [[Ardith|Ardikhun]] [[Dwarves|dwarf]] (he/him)
 

@@ -4,7 +4,8 @@ tags: [place]
 campaignInfo: []
 name: Nevos Sea
 typeOf: sea
-whereabouts: Taelgar
+whereabouts:
+- { type: home, location: Taelgar, linkText: in}
 ---
 # The Nevos Sea
 >[!info]+ Information  

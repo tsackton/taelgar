@@ -1,15 +1,14 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/needswork, status/unknown]
 displayDefaults: {defArt: ''}
 campaignInfo:
 name: Arryn’s Tower
 typeOf: tower
-partOf: ~Eastern Islands~
+whereabouts: 
+- {type: home, location: ~Eastern Islands~, linkText: in the}
 ---
 # Arryn’s Tower
->[!info]+ Information
-> A tower in the [[~Eastern Islands~]]
-
-
-
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`

@@ -1,12 +1,13 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [status/needswork, place]
-partOf: Khatridun
+whereabouts: Khatridun
 typeOf: city
 subTypeOf: ruined
 ---
 # ~DwCity1~
->[!info]+ Information
-> A ruined city in [[Khatridun]], [[Sentinel Range|Labkhan]], [[Central Highlands Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% Basically destroyed in Great War %%

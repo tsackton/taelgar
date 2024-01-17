@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [item/book, status/unknown]
 typeOf: book
 displayDefaults: {startStatus: written and drawn}
@@ -10,8 +10,9 @@ whereabouts:
 - {type: home, location: Caelynn}
 ---
 # The Legendary Gates of Kenzo
->[!info]+ Information
-> (unique book)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Information  
+> (unique book)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

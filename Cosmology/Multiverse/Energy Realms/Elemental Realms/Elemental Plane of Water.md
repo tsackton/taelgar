@@ -1,12 +1,13 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place/plane, status/unknown]
 typeOf: plane
 partOf: Elemental Realms
 ---
 # The Elemental Plane of Water
->[!info]+ Information
-> A plane in the [[Elemental Realms]], [[Energy Realms]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Elemental Plane of Water, one of the outer planes associated with the [[Plane of Magic]].
 
