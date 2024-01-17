@@ -6,19 +6,17 @@ born: 1715
 species: human
 ancestry: Dunmari
 gender: male
-affiliations: [{org: Shakun mystai, title: Mystai}]
+affiliations: [{org: Shakun Mystai, title: Speaker, type: leader}]
 whereabouts:
 - {type: home, location: 'Karawa'}
 ---
 # Candrosa
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
->Location (updated November 15, 1748): Karawa, [[Eastern Dunmar]]
+![[candrosa-portrait.png|right|400]]The Speaker of the Mystai of Shakun, the public face of the Temple of Shakun, and the official leader of the Mystai.
 
-The Speaker of the Mystai of Shakun, the public face of the Temple of Shakun, and the official leader of the Mystai.
 
-![[candrosa-portrait.png]]

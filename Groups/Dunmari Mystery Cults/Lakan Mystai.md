@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization, status/unknown]
-displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>", ruledBy: "Ruled by: <name> <((since )startDate())>"}
+displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>"}
 typeOf: mystery cult
 ancestry: Dunmari
 deity: Laka
