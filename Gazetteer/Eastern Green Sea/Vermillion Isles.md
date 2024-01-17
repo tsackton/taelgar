@@ -4,7 +4,7 @@ tags: [place]
 campaignInfo:
 name: Vermillion Isles
 typeOf: archipelago
-partOf: ~Eastern Islands~
+whereabouts: ~Eastern Islands~
 aliases: [Chasoka]
 ---
 # The Vermillion Isles

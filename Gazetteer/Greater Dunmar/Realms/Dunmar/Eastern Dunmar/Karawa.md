@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Karawa
 typeOf: town
-partOf: Eastern Dunmar
+whereabouts: Eastern Dunmar
 ---
 # Karawa
 >[!info]+ Information
