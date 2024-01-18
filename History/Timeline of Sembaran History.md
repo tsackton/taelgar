@@ -10,10 +10,9 @@ timelineDescriptor: Sembaran History
 DR 300 - DR 431
 
 ### Overview
-In the aftermath of [[The Downfall]] the land that will become [[Sembara]] is lightly populated. The [[Kestavo|kestavo-worshipping]] [[Highland Kingdoms|highlanders]] live in the foothills of the [[Sentinel Range]], and have spread down the valleys of the great rivers: the [[Semb]], the [[Volta]], the [[Teft]], and the [[Wistel]]. Along the coast, [[Skaerhem|Skaer]] mariners raid, intermarry, and settle amongst the highlanders, and a Skaer-dominated mixed culture spreads from [[Tollen]] to the mouth of the [[Semb]]. The once mighty [[Lizardfolk|lizardfolk]] swamps have mostly disappeared, save for a remnant, [[Ozabal]], at the mouth of the [[Wistel]], where a thriving lizardfolk community remains. South of the Wistel is the mixed community of humans, clustered along the coast, united by the their shared allegiance to the [[Archfey Ethlenn]].
+In the aftermath of [[The Downfall]] the land that will become [[Sembara]] is lightly populated. The [[Kestavo|kestavo-worshipping]] [[Zimkova|Zimka]] live in the foothills of the [[Sentinel Range]], and have spread amongst the highlands, and down the valleys of the great rivers: the [[Semb]], the [[Volta]], the [[Teft]], and the [[Wistel]]. Along the coast, [[Skaerhem|Skaer]] mariners raid, intermarry, and settle amongst the Zimka, and a Skaer-dominated mixed culture spreads from [[Tollen]] to the mouth of the [[Semb]]. The once mighty [[Lizardfolk|lizardfolk]] swamps have mostly disappeared, save for remnants: [[Ozabal]], at the mouth of the [[Wistel]] and [[Latazaro]], in the east, where a thriving lizardfolk communities remain. South of the Wistel is the mixed community of humans, clustered along the coast, united by the their shared allegiance to the [[Archfey Ethlenn]], but otherwise the southern lands are largely empty of humans. 
 
-Over a series of start-and-start campaigns over 60 years, the Drankorian armies conquer most of the lands between the [[Sentinel Range]] and the [[Western Gulf]], save for some of the highland realms in the northern foothills.
-
+Over a series of start-and-start campaigns over 60 years, the Drankorian armies conquer large portions of this land.
 ###
 * (DR:: 358): [[Emperor Anates]] campaigns around the [[Mostreve Hills]]
 * (DR:: 360): [[Emperor Anates]] crosses the [[Enst]] and establishes a garrison at [[Cleenseau]]
@@ -24,43 +23,60 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 # The Drankorian Age
 DR 431 - DR 1059
 ### Overview
-By DR 431, when the Drankorian army retreated from [[Zovcka]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]]. North of the [[Semb]], Drankor ruled the the region south and west of the [[Volta]], as far north as the [[Braebein]]
+By DR 431, when the Drankorian army retreated from [[Zimkova]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]], as well as the lowlands east of the [[Braebein]] and the lowland valleys of the [[Teft]] and [[Volta]]. The borders of the modern duchies of Telham and Arnsbury still trace to the farthest extent of the Drankorian conquest, as does the borders of Ardlas. 
 
-The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. No great wars were fought and [[Mos Numena]] spread rapidly, and the old [[Kestavo|Kestavan]] traditions were largely forgotten.
+The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. Across the "Sembaran" provinces (which included the modern day [[Sembara]], [[Ardlas]], [[Duchy of Maseau|Maseau]], [[Addermarch]], and [[Tyrwingha]]), [[Mos Numena]] spread, and a common language and culture grew, and the old [[Kestavo|Kestavan]] traditions were largely forgotten.
+
+In the highlands, the [[Zimkova|Zimka]] kept the old ways, although along the borders with Drankor Mos Numena and Drankorian culture spread. 
 
 # The Plague Years
 DR 1059 - DR 1250
 ### Overview
-In DR 1059, the [[Great Plague]] came and the Drankorian Empire collapsed. Little information survives from these years, but by the end of this period, 
+In DR 1059, the [[Great Plague]] came and the Drankorian Empire collapsed. Little information survives from these years, and it was a time of much hardship, especially amongst the more populous lowland regions, where famine struck repeatedly. This was a dark time.
 ###
 * (DR:: 1142): [[Adrian]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]]
 
 # The Six Duchies
 DR 1250 - DR 1400
 ### Overview
-By DR 1250, six great duchies had been established in the lands once ruled by Drankor: [[Duchy of Sembara|Sembara]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Seham|Seham]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]]. Each duke was a powerful lord and commanded fealty of barons and lords within their realms. 
+By DR 1250, a number of lords, mostly calling themselves dukes, had established themselves across the lands once ruled by Drankor. In the lowland coastal regions, the six duchies that later would form the heartlands of Sembara had been established: [[Duchy of Sembara|Sembara]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Seham|Seham]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]]. Further east and south, [[Tyrwingha]] had emerged from the chaos under the leadership of the [[Oracle of the Riven]] and [[Archfey Ethlenn]]. And to the west, two border duchies had emerged: [[Marches of Brovna|Brovna]], at the headwaters of the [[Wistel]] around [[Urlich Pass]], and [[Ardlas]], along the south banks of the [[Semb]], centered around [[~LakeDerwentCity~]],  the great trading city on [[Lake Derwent]]. 
 
-%%
-Then came the Great Plague, and the collapse of the Drankorian Empire that followed. Little is known of the history of these times, but genealogists claim the line of the Dukes of Sembara began in DR 1142, By the 1250s DR, the six duchies ([[Duchy of Sembara|Sembara]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Seham|Seham]], [[Duchy of Telham|Telham]], an[](Duchy%20of%20Arnsbury.md)]]) were firmly established, and the Duke of [[Duchy of Sembara|Sembara]] was acknowledged as the chief amongst them. The other dukes, save [[Duchy of Telham|Telham]], acknowledged the feudal overlordship of the Duke of Sembara.
+To the far south, the fertile lands of the [[Istabor Alliance]] beckoned, and much marginal land was abandoned in these years. But by 1250, the land is prospering and, from the scattered duchies that arose from Drankor, population begins to grow and spread.
 
-Over the next generation, a series of small summer conquests slowly added territory to the growing Realm of [[Sembara]], as minor lords pledge fealty to the monarch. Some did so because an army of 1000 Sembaran knights showed up at their castle, and they felt they had no choice; others did so to gain protection from their rivals and ensure stability for their people. The dukes of the five duchies and their knights and vassals become rich from these summer conquests as well as the fertile lands and the slow revival of trade in the [[Green Sea]]. 
+Along the borders of [[Marches of Brovna|Brovna]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]], a slow process of expansion began. As the peaceful years continued, and the population grew, the powerful dukes claimed new lands, largely empty, and granted baronies to their favored courtiers. 
 
-By the 1300s DR, the Sembaran monarchy commanded fealty, either directly, from newly minted barons, or indirectly, from lords sworn to the barons and dukes sworn to the crown, from most of the lowlands between the [[Teft]] and the [[Enst]]. For the next hundred years or so, the [[Green Sea]] is peaceful and prosperous. [[Sembara]] grows rich on the strength of its agricultural wealth, and its borders solidify: the [[Teft]] to the north, the [[Enst]] to the south, with the western border stretching roughly in a line from the source of the [[Enst]] through the [[Aine Hills]] to [[Braebein]], the highlands north of [[Duchy of Arnsbury|Arnsbury]].
+One of these noble families, the [[House of Entranca]], the Dukes of Sembara from the early 1300s, slowly grew in influence and power. The Duke of Sembara had emerged from the dark years with the largest and richest demesne of any of the duchies, and had always controlled [[Embry]], the ancient seat of the Drankorian regional government. Over the early 1300s, a series of minor crises and succession disagreements allowed the Entranca's to gain the loyalty of the the Dukes of Wisford, Cheimin, and Seham, who started more and more looking towards Sembara to resolve disputes and provide money and arms when dangerous forces appeared on their doorsteps.
+
+By the end of the 1300s, the Duke of Sembara was broadly acknowledged as feudal lord by the Dukes of Chemin, Seham, and Wistford as well as many of the barons along the south banks of the Enst, the Aine Hills, and the lands between the Wistel and the Enst as far west as the Cleenseau Wood. 
+
+%% The above section could use a bit more clarifying details, and there should be at least one major crisis that drives increasing support for the House of Entranca and the Dukes of Sembara, but the specifics are not something I feel like making up right now 
+
+The intention is that in 1400, there is broadly:
+* Two highland realms: Ardlas and Lavnoch, each with a fairly different character
+	* Ardlas is Mos Numena, although with strong kestavan influences than elsewhere in Sembara, and broadly culturally aligned with Sembara, speaks the same language, but with an independent monarch and a very different system of government. This was originally a Drankorian province
+	* Lavnoch is kestavan and largely speaks Zimkan, having never been a Drankorian province. Has close ties to dwarven kingdoms, and is culturally aligned with the rest of Zimkova
+* The larger mass of Zimkova, with a TBD culture, but definitely not a kingdom per se
+* The Duchy of Brovna, based around Urlich Pass, very culturally aligned with Sembara, but independent and not acknowledging the Sembaran overlordship, and growing rich on the trade links that are being established with Chardon. Possibly somewhat Swiss inspired, with many independent cantons/villages and a very weak Duke. This place doesn't have to be very well developed as it gets entirely destroyed in the Great War
+* Tyrwingha, an independent fey-tinged place ruled by an elected monarch and Ethlenn's guidance
+* The core Sembaran duchies
 %%
 
 # The Unification
 DR 1400 - DR 1462, 7 Dominick IV - 34 Derik I
 ### Overview
-By the 1400s, a number of regional powers had started to emerge on the borders of [[Sembara]]. In the northwest, from the highland provinces of [[Drankorian Empire|Drankor]], two realms had emerged: [[Lavnoch]] and [[Ardlas]]. Perched on either side of [[Lake Derwent]], they grew rich with the profit of trade over the mountains, but were often in conflict over control of the lake and access to the Dwarven trade.
+By the 1400s, a number of regional powers had started to emerge on the borders of [[Sembara]]. In the northwest, from the broad lands of [[Zimkova]], the realm of [[Lavnoch]] has emerged from the collapse of the short lived [[Zimkova|Unifed Crown of Zimkova]]. 
 
-North of [[Lavnoch]], the brief [[Zovcka|Unified Crown of Zovcka]] had collapsed, and two northern kingdoms emerged: [[Zovcka]], in the north, and [[Breva]], squeezed between [[Braebein]] and the growing power of the Duke of [[Duchy of Arnsbury|Arnsbury]], the [[Sentinel Range]], and [[Zovcka]]. 
+The [[Duchy of Telham]], between the [[Teft]] and the [[Volta]], had grown substantially, and commanded the loyalty of many of the small lords along the coast and the river, but was closely tied by culture and intermarriage to [[Sembara]].
 
-To the northeast, the [[Duchy of Telham]], between the [[Teft]] and the [[Volta]], commanded the loyalty of many of the small lords along the coast and the rivers, and was closely tied by culture and intermarriage to [[Sembara]].
+In the west, the Duchy of Brovna had grown into a significant presence along the mountains, trading eagerly with the growing city of Chardon, and [[Ardlas]] was growing as well, trading with dwarves.
 
-South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which emerged from the fall of [[Drankorian Empire|Drankor]] largely intact and still under the guardianship of the [[Archfey Ethlenn]], and the [[Dominion of Avatus]], a rising military autocracy exerting overlordship of a number of small kingdoms in the [[Mostreve Hills]], growing in power by taxing trade and recruiting mercenaries, largely [[Hobgoblins]].
+South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which emerged from the fall of [[Drankorian Empire|Drankor]] largely intact and still under the guardianship of the [[Archfey Ethlenn]], and the [[Dominion of Avatus]], a rising military autocracy exerting overlordship of a number of scattered baronies and small lordships in the [[Mostreve Hills]], growing in power by taxing trade and recruiting mercenaries, largely [[hobgoblins]].
+
+Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], establishes the modern Sembara after the defeat of the [[Dominion of Avatus]]. 
 ##
 - (DR:: 1420): [[Derik I]], of a cadet branch of the [[House of Entranca]], marries [[Johanna of Telham]], the younger daughter of the [[Duchy of Telham|Duchess of Telham]]
 - (DR:: 1422): [[Derik I]] distinguishes himself in the [[Castrota Pirate War]]
+- (DR:: 1422): [[Avatus]] conquerors most of the Duchy of Brovna, but is prevented from pushing through the pass by dwarven efforts, supported by [[Ardlas]].  The pleas of the Duke of Brovna for aid from Sembara are ignored.
 - (DR:: 1425), summer: [[Avatus|Avatus]] invades [[Sembara]]
 - (DR:: 1425), summer: [[Avatus|Avatus]] defeats the Sembaran army at the [[Battle of Stavenford]]
 - (DR:: 1425), late summer: [[Derik I]] receives a [[The Prophecy of Udazken|prophecy]] fortelling his future kingship
@@ -73,23 +89,14 @@ South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which 
 - (DR:: 1429), late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treay of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 - (DR:: 1430), summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
 - (DR:: 1430), fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
+- (DR:: 1432): [[Derik I]] establishes the [[Duchy of Maseau]], the [[Barony of Aveil]], the [[Barony of Dunfry]], the [[Marches of Enford|Barony of Enford]], and the [[Addermarch|Earldom of Adderfell]] in the lands formally controlled by [[Avatus]]. He also reestablishes the Duchy of Brovna.
 
-# The Great War
-DR 1462 - DR 1545; 1 Derik II - 26 Derik III
-
-### Overview
+By 1462, on [[Derik I|Derik I's]] death, the royal prerogatives of the monarch of Sembara are well established.
 
 %%
-By the 1400s, a number of regional powers had started to emerge on the borders of [[Sembara]]. In the northwest, from the highland provinces of [[Drankorian Empire|Drankor]], two realms had emerged: [[Lavnoch]] and [[Ardlas]]. Perched on either side of [[Lake Derwent]], they grew rich with the profit of trade over the mountains, but were often in conflict over control of the lake and access to the Dwarven trade.
+Background - this is old and not incorporated into proper articles and such, but the flavor is intended to be canonical even if some of the details are not necessarily.
 
-North of [[Lavnoch]], the brief [[Zovcka|Unified Crown of Zovcka]] had collapsed, and two northern kingdoms emerged: [[Zovcka]], in the north, and [[Breva]], squeezed between [[Braebein]] and the growing power of the Duke of [[Duchy of Arnsbury|Arnsbury]], the [[Sentinel Range]], and [[Zovcka]]. 
-
-To the northeast, the [[Duchy of Telham]], between the [[Teft]] and the [[Volta]], commanded the loyalty of many of the small lords along the coast and the rivers, and was closely tied by culture and intermarriage to [[Sembara]].
-
-South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which emerged from the fall of [[Drankorian Empire|Drankor]] largely intact and still under the guardianship of the [[Archfey Ethlenn]], and the [[Dominion of Avatus]], a rising military autocracy exerting overlordship of a number of small kingdoms in the [[Mostreve Hills]], growing in power by taxing trade and recruiting mercenaries, largely [[Hobgoblins]].
-#### Emergence of the [[House of Sewick]]
-
-While [[Sembara]] thrived during the long peace, underneath, the seeds of conflict grew. A series of weak rulers had ceded many of the royal prerogatives to the dukes and a feeling of security encouraged the dukes to pour resources into fine trade goods and luxuries, rather than castles and armies. Crushing tariffs on Dwarven goods enriched the border lords, but alienated many others, including [[Ardlas]] and [[Lavnoch]], who had traditionally enjoyed strong trade relations with [[Sembara]]. And prophets throughout [[Tyrwingha]] were preaching of the End Times, and whole villages were found to have disappeared. Whether fled to the safety of the [[Feywild]] or consumed by darkness, few could answer.
+While [[Sembara]] thrived during the long peace, underneath, the seeds of conflict grew. The times of peace discouraged unity, and many of the dukes questioned the purpose of the monarch in Embry. Crushing tariffs on Dwarven goods enriched the dukes, but alienated many others, including [[Ardlas]] and [[Lavnoch]], who had traditionally enjoyed strong trade relations with [[Sembara]]. And prophets throughout [[Tyrwingha]] were preaching of the End Times, and whole villages were found to have disappeared. Whether fled to the safety of the [[Feywild]] or consumed by darkness, few could answer.
 
 In DR 1425, [[Avatus|Avatus]] saw an opportunity. With a mercenary army consisting largely of [[Hobgoblins]] and vicious werewolves, he launched an invasion across the [[Enst]]. A series of disasters befell the Sembarans -- the Duke of [[Duchy of Cheimen|Cheimin]] refused to march his troops south of the [[Wistel]], three hundred knights from [[Duchy of Seham|Seham]] were lost in a summer storm at sea, and the muster of [[Duchy of Arnsbury|Arnsbury]] sent only half the men due to crown, claiming insufficient horses. And the expected help from [[Tyrwingha]] fails to materialize -- the Queen herself commanded her knights to stay within the Tyrwinghan borders. And so the Sembaran army, defeated on the field, retreated with half its force to winter north of the [[Wistel]], and [[Avatus|Avatus]] paused to consolidate his gains, and prepared to strike north and east.
 
@@ -110,11 +117,42 @@ Cloaked in glory and honor from his decisive military leadership and fey-enhance
 In the spring and summer of 1429, Derik, now styling himself [[Derik I]] of [[House of Sewick|Sewick]], King of [[Sembara]], Duke of Telham, High Prince of [[Tyrwingha]], Honored Consort of the Queen of the Evening Mist, and Defender of the Four Rivers, marches his army throughout the [[Mostreve Hills]], driving out the last of the [[Hobgoblins]] and accepting the fealty of the local lords. 
 
 In the fall of 1429, the Treaty of [[Valarin]] (a small town in the “gap” in the southern highlands) establishes relations between [[Sembara]] and the [[Istabor Alliance]], a loose confederation of city states and freeholds to the south that is emerging out of the fall of the [[Dominion of Avatus]], setting the extent of [[Sembara]]’s control at the southern edge of the [[Mostreve Hills]]. 
-
-The rest of [[Derik I]]’s long reign is a time of renewed prosperity in [[Sembara]], as trade to the south flourishes, the war-torn Borderlands and Southern Marches revive considerably on the strength of goods flowing across their lands, and occasional raiders from the mountains are met with the full might of [[Sembara]]’s army with [[Derik I]] at the head.
 %%
 
 
+# The Great War
+DR 1462 - DR 1545; 1 Derik II - 26 Derik III
+
+The reign of [[Derik II]] is relatively uneventful, and the traditions and formalities of the realm are established and propagated in this time. The borders to the south, with the [[Istabor Alliance]], and the north, with the fractured fiefdoms of [[Vostok]], are uneventful, and trading relationships with [[Cymea]], [[Tollen]], and the rest of the eastern [[Green Sea]] grow during this time. 
+#### Tensions in the North
+
+The only thing that mars the peace of this era is increasing tensions among the Zimka. Several small wars break out between [[Ardlas]] and [[Lavnoch]], fighting over control of the headwaters of the Semb and [[Lake Derwent]], and with it access to the lucrative Dwarven trade. Although the violence never spills over into Sembara, trade is disrupted and what to do about the highlands is a constant question during the reign of [[Derik II]]. [[Derik II]], although a strong king and diplomat, is not the military leader his father was, and was reluctant to raise taxes for an invasion.  
+
+Several times the dwarves send diplomatic missions to Sembara, asking the king to deal with the humans making trouble, and several times Derik II says there is nothing he can do. By the 1490s, it is clear the situation is untenable, as at this point both the halflings and dwarves are complaining to the king and telling him to get these unruly humans under control before they take it into their own hands, to ensure stability, but at this point Derik II is old, and uncertain, and so nothing is done.
+
+[[Charlotte I]], Derik II’s daughter, inherits the crisis. Unwilling to let relations with the dwarves deteriorate further, Charlotte rides with a large army up the River Semb, and in a relatively bloodless series of campaigns forces [[Ardlas]] and [[Lavnoch]] to the negotiating table, asserting suzerainty over the territory of these kingdoms. Soon after, in 1508 DR, rumors of something terrible in the north are growing. 
+#### The Preamble to the Great War
+
+After his defeat as the hidden puppet master of [[Dominion of Avatus]], [[Cha'mutte]] has turned his attention north, where far across the [[Sentinel Range]] he is growing an empire. Still maintaining footholds in the southern [[Sentinel Range]] where several loyal hobgoblin tribes attempt to prevent the consolidation of the [[Istabor Alliance]] into a united front, he has turned his attention to a move from the north, through the empty northern steppes. Still working through proxies, and not ready to show himself yet, he summoned one of his dragonspawn, the ancient white dragon Vimfrost, and set him to gather allies across the northern plains -- orcs, monstrosities, ogres, and trolls -- and set upon Vostok and Zimkova from the north. 
+
+%%% Needs thought 
+At the same time, a group of religious fanatics worshipping the children of [[Vacla]]  began to establish themselves in [[Zovcka]] and the Volta borderlands in Vostok, taking control of [[Zovcka]] and persecuting followers of the Eightfold Way.  
+%%
+
+Derik III, 19 years old in 1508 DR, is sent to the north. Vostok at this point is ruled in the east by descendants of Skaer raiders, in the lakes region along the Volta increasingly by [[Zovcka]], around Tollen largely as an oligarchy of rich merchants, and to the north as a loose confederation of semi-nomadic tribes. Derik III, channeling the charisma of his great-grandfather, cloaked in the blessing of the Gods, leads a grand alliance north to repair the ancient wall and defeat the dragon. In response, he is acknowledged as Prince of the North, and when he comes to the throne he is acknowledged as high king by the people of Vostok. Tollen retains its charter as a free city, but acknowledges the suzerainty of Derik III. 
+
+%%  Needs thought 
+While this is a great victory, in the meantime the situation has deteriorated in Zovcka and Breva. The religious cult has come to fully control Zovcka, and citizens of Breva are pissed that Sembara ignored their plight and suffering to fight battles in foreign lands. 
+
+In DR 1511, Derik III, still Prince and Heir, leads a campaign to the highlands. The conquest is bitter, as Breva descends into civil war with some of the people on the side of Sembara and others on the side of OldGod. Sembara prevails, and forces of OldGod flee to Zovcka, but the price is high, and Derik III does not pursue military conquest of Zovcka.   
+
+In DR 1523, shortly after Derik III comes to the throne, he finally launches a campaign against OldGod (perhaps now revealed to be stoked/encouraged by Cha’mutte), with the aid and support of the local lords on the Vostok side of the Volta. Zovcka is defeated, but worshippers of OldGod slip into hiding. Zovcka nominally acknowledges the overlordship of Sembara, but the local lords are not replaced, only forced to renounce OldGod. 
+
+%%
+
+By DR 1525, Derik III is at least nominally acknowledged as the overlord and high king of all the land from the southern highlands to the northern wall, from [[Sentinel Range]] to the [[Western Gulf]].  In DR 1533, now several years a widower, Derik III marries Jane, the young daughter of an important merchant family in Tollen. 
+
+Over the next 20 years, Sembara remains a strong and united kingdom as various conflicts spread along its borders, culminating in the [[Great War]].
 # The Blood Years
 DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 
