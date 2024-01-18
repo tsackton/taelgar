@@ -1,7 +1,7 @@
 ---
 typeOf: islands
 partOf: Green Sea
-tags: [status/unknown]
+tags: [status/unknown, place]
 ---
 
 

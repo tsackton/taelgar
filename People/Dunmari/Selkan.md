@@ -1,18 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person]
 campaignInfo: []
 name: Selkan
 born:
 species: human
 ancestry: Dunmari
 gender: male
+whereabouts:
+- {type: home, start: 1748-06-08, location: Karawa}
 ---
 # Selkan
 >[!info]+ Biographical Info  
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 
-A Dunmari man freed from the [[Mirror of Soul Trapping]]. 
-
-He is prematurely aged, bald, weary eyes full of pain. His thumbs are cut off, he looks in rough shape. 
+A Dunmari man freed from the [[Mirror of Soul Trapping]]. He is bald, with weary eyes full of pain. His thumbs and tongue are cut off, and looks prematurely old. 

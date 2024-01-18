@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
 typeOf: plane
-partOf: Spiritual Realms
+whereabouts: Spiritual Realms
 ---
 # Pandemonium
 >[!info]+ Information  
