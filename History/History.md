@@ -1,3 +1,8 @@
+---
+tags: [background]
+---
+
+
 # A Brief History of Taelgar
 
 Long ago, in the ancient days of creation, the gods created sentient beings, first the [[Elder Folk]], and later the [[humans]], who grew and spread from their ancestral home on the now-lost continent of [[Hkar]]. In the aftermath of the cataclysm that destroyed [[Hkar]], [[Humans|human]] refugees established the city of [[Drankor]], south of what is now [[Dunmar]]. From this humble beginning, a great empire grew, based on magic, known as the [[Drankorian Empire]]. As the empire grew, it spread its language, [[Mos Numena|religion]], and culture across large swaths of Taelgar. 

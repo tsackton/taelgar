@@ -7,8 +7,6 @@ aliases: [Drankor]
 timelineDescriptor: Drankorian History
 ---
 # The Drankorian Empire
->[!info]+ Information  
-> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The Drankorian Empire was a vast, continent-spanning empire that stretched from the [[Endless Ocean]] to the [[Green Sea]] and ruled over much of humanity during the millenia following [[The Downfall]] of [[Hkar]]. The Drankorian Empire was known for its strength in magic; the battle mages of [[Drankor]] not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [[Drankor]] was filled with learned societies, organizations dedicated to magical lore.
 ## History

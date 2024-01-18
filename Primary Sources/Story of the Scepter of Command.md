@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip]
+tags: [status/needswork/wip, source]
 excludePublish: ["all"]
 ---
 # The Story of the Scepter of Command

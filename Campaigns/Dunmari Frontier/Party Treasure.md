@@ -246,7 +246,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[51]%%
 ## Other Rewards
 - The party is always welcome in [[Karawa]] and will always have food and shelter while they are in town.
-- A letter of introduction to Kaleha, high priest of the temple in Tokra, an important administrator in the civil government, from [[Candrosa]].
+- A letter of introduction to [[Kaleha]], high priest of the temple in Tokra, an important administrator in the civil government, from [[Candrosa]].
 - A letter of introduction from [[Kaleha]], high priest of the [[Tokra]] monastery, vouching for our good character.
 - A writ of travel directing all godly people of [[Dunmar]] to provide aid and comfort to the bearers named (the party), signed and sealed by Nayan [[Sura]], the brother of the current Samraat and according to her the rightful ruler of [[Dunmar]].
 - [[Hralgar]] gives his blessing for the party to restore and take [[Vindristjarna]], The Star on the Wind, the ruined airship that requires a new phasing stone to fly
