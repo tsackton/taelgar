@@ -1,8 +1,15 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization, status/needswork/notes]
+displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>"}
+typeOf: mystery cult
+ancestry: Dunmari
+deity: Bhishma
 ---
 # The Order of the Awakened Soul
+>[!info]+ Information  
+> A [[Dunmar|Dunmari]] mystery cult of [[Bhishma]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The mystery cult dedicated to the Dunmari god [[Bhishma]]. Dedicated to collecting the stories of the Dunmari and secondarily making sure the souls of the dead are not forgotten and lost. 
 

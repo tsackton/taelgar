@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 displayDefaults: {defArt: ''}
 name: Nashtkar
 typeOf: region
-partOf: Desolation of Cha'mutte
+whereabouts: Desolation of Cha'mutte
 ---
 # Nashtkar
 >[!info]+ Information

@@ -1,7 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
-whereabouts: Chardon
+displayDefaults: {defArt: ""}
+whereabouts: 
+- {type: home, location: University of Chardon, linkText: "of", wHome: "<typeOf:UA> <home:2q>"}
+typeOf: lecti
 ---
+# Sybil's Hall
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% notes
 ## Sybil's Hall
