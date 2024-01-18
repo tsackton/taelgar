@@ -1,6 +1,5 @@
 ---
-tags: [holiday, status/notes, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
+tags: [holiday, status/needswork/notes]
 campaignInfo: []
 name: Festival of Rebirth
 fc-date: 1748-4-6

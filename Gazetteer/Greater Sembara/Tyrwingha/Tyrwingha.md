@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Tyrwingha
 typeOf: realm
-partOf: Western Green Sea Region
+whereabouts: Greater Sembara
 ---
 # Tyrwingha
 >[!info]+ Information

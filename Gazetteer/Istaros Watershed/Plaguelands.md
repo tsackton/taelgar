@@ -4,7 +4,7 @@ displayDefaults: {defArt: "the"}
 tags: [place, status/needswork/notes]
 name: Plaguelands
 typeOf: region
-partOf: Desolation of Cha'mutte
+whereabouts: Desolation of Cha'mutte
 ---
 # The Plaguelands
 >[!info]+ Information
