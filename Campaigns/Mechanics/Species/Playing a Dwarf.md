@@ -121,6 +121,8 @@ The runic choices available to your dwarven character are listed here, in alphab
 - ***Bravery (passive):*** The Rune of Valor shields the bearer from fear, giving them advantage on saving throws and ability checks to avoid being frightened or remove the frightened condition.
 - ***True Aim (passive):*** As a bonus action, the bearer may activate this rune. It remains active for the next minute. When you make an attack roll using the inscribed object while the rune is active, you may roll a d4 and add the number to the attack roll. You may choose to make this roll before or after making the attack roll, but before you know if the attack hits. The rune then deactivates. You can activate this effect a number of times equal to your Proficiency Bonus.
 - ***Courage of the Bahrâzel (mastery, minimum level 3):*** You learn the *Heroism* spell. You can cast it once with this trait. If you cast this spell with this trait and target only yourself, your concentration on this spell cannot be ended by taking damage. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
+
+%%^Campaign:DuFr%%
 # Backgrounds
 
 Sample backgrounds for each thuhr, representing the typical training and experience of members of that thuhr, are presented below, although these do not include specific equipment. **These can be customized by replacing any feature in the sample background with the feature of the same name listed above.**
@@ -204,3 +206,5 @@ You are adept at crafting things in the finest tradition of the dwarves.
 # Languages
 
 When you create your character, you may choose two [[languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Dwarvish, unless you grew up outside of normal Dwarven society. 
+
+%%^End%%

@@ -30,6 +30,9 @@ No matter which traits you choose to use to represent your Fey character, all Fe
 
 **Lifespan:** While Fey age, they do not age as regular mortals. Fey suffer no ill effects of old age, and do not change in appearance as they age, unless they wish to. Most fey live to be between 100 and 200 years before fading away, although some fey have been known to live much longer. 
 
+%%^Campaign:DuFr%%
 # Languages
 
 When you create your character, you may choose two [[languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Sylvan. 
+
+%%^End%%
