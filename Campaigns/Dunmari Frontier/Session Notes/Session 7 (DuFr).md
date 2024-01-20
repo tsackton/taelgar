@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 7
+realWorldDate: 2020-08-16
+DR: 1748-04-07
+DR_end: 1748-04-12
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Sunday, August 16th, 2020; in Taelgar, dawn April 7th to mid-morning April 12th)
 
 The session begins in the pre-dawn light, as the people of [[Karawa]] prepare to flee west and the party, joined by [[Riswynn]] Brawnanvil, gather their gear and plan their journey north to [[Raven's Hold]]. Amidst the bustle and chaos of hundreds of people packing food, supplies, and what belongings they can carry, the party says their goodbyes and heads north, following the tracks of the gnolls and maw creatures that attacked the night before. 
 
@@ -14,6 +18,6 @@ The party decides to head north along the road for some time. Traveling north th
 
 After resting into the morning to recover, [[Seeker]] speaks to a vulture come to feast on the dead gnolls, who, while not the most scintillating conversationalist, does report that little is moving across the plains to the north, and lots of things are moving in the fort. As the party rides north over the next two days, the large storm hovering to the west comes into view: a massive thundercloud, just hanging in the sky, miles across, and not seeming to move. The mountains ahead are now also clearly visible, rising like broken teeth out of the flat plains the party is riding across. The evening of the fifth day of travel, the party camps perhaps 10 miles south of the mountains, a short journey from the pass and from [[Raven's Hold]] to the east. As the sun sets and they set up camp, a whiff of something -- the smell of rotten flesh, burnt flesh, sulfur -- drifts across the plains. Nothing is moving, and the night is silent.
 
-The next morning, the party is surprised to see travelers crossing the plains from the east, heading for the road. A large group, maybe 20 or 30 at least, and traveling fast on horseback. As they approach, it becomes obvious these are not people at all, but [[Centaurs]]. [[Tharandros]], the leader of this band of [[Centaurs]], tells the party that they are moving west, leaving their lands east of here. He tells of disease and poison flowing from a rope that binds the land to another plane, of poisoned water flowing from [[Raven's Hold]] and contaminating more and more land, of demons that sicken the earth. He tells of how all the infinite imaginings of people exist somewhere in the infinity of the Divine void, and how long ago, in ages long past, humans who preached hellfire and damnation created the [[Abyss]], a realm of chaos and torment and violence, and now the nightmares of people sustain it and places like it. Although Tharanadros is dismissive of humans, and has little concern for the troubles of the Dunmari, he is eventually convinced by [[Delwath]]’s arguments and ultimately by [[Wellby]] to ride south to speak with [[Candrosa]], to warn [[Karawa]] about the possible spreading plague of cursed water, and to learn what he can about the [[Dreamworld]]. 
+The next morning, the party is surprised to see travelers crossing the plains from the east, heading for the road. A large group, maybe 20 or 30 at least, and traveling fast on horseback. As they approach, it becomes obvious these are not people at all, but [[Centaurs]]. [[Tharandros]], the leader of this band of [[Centaurs]], tells the party that they are moving west, leaving their lands east of here. He tells of disease and poison flowing from a rope that binds the land to another plane, of poisoned water flowing from [[Raven's Hold]] and contaminating more and more land, of [[demons]] that sicken the earth. He tells of how all the infinite imaginings of people exist somewhere in the infinity of the Divine void, and how long ago, in ages long past, humans who preached hellfire and damnation created the [[Abyss]], a realm of chaos and torment and violence, and now the nightmares of people sustain it and places like it. Although [[Tharandros]] is dismissive of [[humans]], and has little concern for the troubles of the [[Dunmar|Dunmari]], he is eventually convinced by [[Delwath]]’s arguments and ultimately by [[Wellby]] to ride south to speak with [[Candrosa]], to warn [[Karawa]] about the possible spreading plague of cursed water, and to learn what he can about the [[Dreamworld]]. 
 
 With that, the party packs up camp, and proceeds up the road for a few hours, eventually stopping just south of the Charmheart’s camp, looking across the mountains rising to the north, and the valley of [[Raven's Hold]] a few miles to the east, and pondering their plan of attack. 

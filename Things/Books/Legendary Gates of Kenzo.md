@@ -2,12 +2,11 @@
 headerVersion: 2023.11.25
 tags: [item/book, status/unknown]
 typeOf: book
-displayDefaults: {startStatus: written and drawn}
+displayDefaults: {startStatus: written and drawn, dCurrent: "<start:U> in <startDate> by <origin:1>", wCurrent: "", wHome: "", wOrigin: "", wLastKnown: ""}
 rarity: unique
 created: 1748
 whereabouts:
-- {type: home, location: Seeker}
-- {type: home, location: Caelynn}
+- {type: home, end: 1748-07-03, location: Seeker}
 ---
 # The Legendary Gates of Kenzo
 >[!info]+ Information  
@@ -16,3 +15,4 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+Two copies are known. One was gifted by [[Seeker]] to the Dunmari [[Saka]]; the other to the fey [[Caelynn]].

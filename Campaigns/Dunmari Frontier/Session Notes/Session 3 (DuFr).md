@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 3
+realWorldDate: 2020-07-02
+DR: 1748-03-25
+DR_end: 1748-03-26
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Thursday, July 2nd, 2020; in Taelgar, mid-morning March 25, to morning March 26)**
 
 The party decided to explore a little more before entering the ruined fort, and discovered a campsite in the foundations of the outbuildings outside the fort. The camp itself was several days to several weeks old, and had clearly been disturbed by animals (signs of scattered food -- salt pork and dried fish and the like that had been partially eaten by animals). Whoever made the camp had left most of their stuff, except weapons and water, and went somewhere. 
 

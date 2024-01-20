@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 35
+realWorldDate: 2021-12-06
+DR: 1748-07-01
+DR_end: 1748-07-01
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Sunday, Dec 6th, 2021; in Taelgar, July 1st)
 
 The session starts as the party emerges from the [[Elven Arborea Workshop|Elven ruins]] beneath the [[Lakan Monastery]], charged vials full of the energy of the plane of [[Arborea]] in hand. [[Basu]], eagerly waiting, takes the party to his workshop, where he describes various magical items he can construct with this energy, including a very fancy tent he once constructed that looked like just a small patch of canvas but could hold twenty people comfortably. The party decides they want a [[Portable Hole]], and leaves with the promise that [[Basu]] will have it ready in two weeks.
 
@@ -12,7 +16,7 @@ After lunch the party leaves for [[Tokra]], taking rooms at [[Kirian’s]], a ma
 
 After introductions, the party learns from [[Kaleha]] that [[Saka]], the old master of the [[Order of the Awakened Soul|Bhishma Mystai]] who refused to travel east, travels with her family in the plans to the north of [[Tokra]], herding horses. She is probably no more than a few days' journey from the city. While talking to [[Kaleha]], they also discuss the situation at the [[Archives]], and the generally less than ideal situation in [[Tokra]], where food is scarce and a sickness among the horses some weeks ago trapped many refugees in town who might have otherwise left to return to the plains. Finally, [[Wellby]] and [[Kenzo]] reveal that Nayan [[Sura]] has returned; [[Kaleha]] is initially suspicious, but perhaps swayed by [[Wellby]]’s exhortation to take the time to pray before deciding any course of action. 
 
-Finally, the party heads to the [[Archives]] to speak with [[Ardan]] and learn more about what happened here. [[Ardan]] seems on the incompetent side, but shows the party material left behind: the notes from the archivist [[Govir]], who was working on a book about the divine legitimacy of the Nayan dynasty, and the last set of items the head scribe was copying when he disappearing. [[Govir]]’s notes focus on five events, all Dunmari victories that [[Govir]] claims would have been defeats but for the intervention of the gods: the [[Second Hobgoblin War]], [[Exile of Fraternity of the Empty Moon]] from [[Tokra]], the [[Battle of Shrevandurg]], the [[Defeat of the Plague Trees]], and the [[Summer of Red Storms]]. There is little information about any of these events, just lists of scribbled notes and ideas and references. 
+Finally, the party heads to the [[Archives]] to speak with [[Ardan]] and learn more about what happened here. [[Ardan]] seems on the incompetent side, but shows the party material left behind: the notes from the archivist [[Govir]], who was working on a book about the divine legitimacy of the [[Nayan Dynasty]], and the last set of items the head scribe was copying when he disappearing. [[Govir]]’s notes focus on five events, all Dunmari victories that [[Govir]] claims would have been defeats but for the intervention of the gods: the [[Second Hobgoblin War]], [[Exile of Fraternity of the Empty Moon]] from [[Tokra]], the [[Battle of Shrevandurg]], the [[Defeat of the Plague Trees]], and the [[Summer of Red Storms]]. There is little information about any of these events, just lists of scribbled notes and ideas and references. 
 
 The items the head scribe was copying when he went missing are a faded, crumbling sheaf of letters originally written on poor paper that is decaying and needs to be copied over. They are copies of letters from a [[Ila]] to [[Yarad|Samraat Nayan Yarad]]. From context, Ila seems to have been the local garrison commander responsible for the defense of [[Tokra]] in the aftermath of the [[Second Hobgoblin War]]. There are about 50 letters, from the 21st-24th years of the reign of [[Yarad|Samraat Nayan Yarad]], in the 67th-69th years of the Nayan Dynasty. Many are already difficult to read, and most seem to concern raids against [[Hobgoblins]] of the [[Blackened Claw]] tribe. One describes the discovery of a strange cult that had set up a base of operations in an old Dunmari fort about 10 miles north of the city. The place was hard to find -- those who approached seemed to grow confused, sometimes attacking their companions in madness. There was one approach that seemed safe, which I have carefully mapped and given to my troops, and somebody in handwritten annotations has written here, cf bundle 24, implying that bundle 24 contains another depiction of these events, and likely [[Dunmari map of Pandemonium ruins|the map]]. 
 

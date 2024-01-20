@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 27
+realWorldDate: 2021-07-07
+DR: 1748-05-24
+DR_end: 1748-05-27
+players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 ---
-
-**(Wednesday, July 7th, 2021; in Taelgar, May 24th to May 27th)
 
 We begin in the evening, as the sun has set and the [[Candrosa]] is leading the funeral service for those who died in the shadow attack at the end of the ritual of [[Shakun]]. As [[Seeker]], [[Wellby]], [[Delwath]], [[Drikod]], and [[Kenzo]] watch the funeral pyres burn and listen to the prayers of [[Candrosa]], the lingering visions of the ritual leave the impression of webs of power connecting the initiates of [[Shakun]] together in a network of power. But the center is missing, and power seems to be slowly ebbing away. Hinting at the consequences of revealing the secret widely, the party can also faintly see six gray, brittle lines of the web, where they and [[Tharandros]] connect to the web of power, but don’t contribute as they are not truly initiated. The party spends the evening discussing their plans, and also briefly discussing [[Wellby]]’s memories or vision of a woods in deep twilight, following a stream to a glade that is dark and old, as he held the bow [[Delwath]] summoned for him during the shadow fight. 
 

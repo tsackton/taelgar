@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 13
+realWorldDate: 2020-11-20
+DR: 1748-04-13
+DR_end: 1748-04-13
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Friday, Nov 20th, 2020; in Taelgar, morning April 13th to evening April 13th)**
 
 We begin as the party is finishing breakfast in the quiet of [[Raven's Hold]], the silence and stillness broken only by the howling of animals trapped in the stables, while contemplating the secrets of [[Raven's Hold]]. Wanting to figure out the mystery of where the gnolls came from, what the demon was doing, and how this is all connected, the party decides to explore.
 

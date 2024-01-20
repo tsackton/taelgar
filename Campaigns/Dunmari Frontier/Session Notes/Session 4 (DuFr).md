@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 4
+realWorldDate: 2020-07-09
+DR: 1748-03-26
+DR_end: 1748-03-29
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Thursday, July 9th, 2020; in Taelgar, morning March 26, to late evening March 29)**
 
 The session began with the party waking up in the intact temple of the ruined fort, a sense of calm and peace permeating the area after the defeat of the zombie hobgoblin and the destruction of the cursed obsidian focus. After a little while spent in further exploration, as well as sketching the face of the [[Arcus|petrified explorer]] and briefly debating heading back in the tunnels to try to tame a cockatrice, the party set off for [[Karawa]]. Before leaving, [[Seeker]] studies the tunnel a bit and learns that it is relatively old, at least a few months and maybe more, and created by a creature. Taking the relics found in the temple (including the small [[Aagir's Everlight|spearpoint statue]] enchanted with continual light), the [[Black Iron Staff]] inscribed with the words: "I bind you to the black wind, I bind you to my flame, I bind you in my power until the sun fails and the moon is dead" in Draconic, what looks like a holy symbol relating to Cha’mutte (made of black pearl and polished silver in a twisted flame design), as well as the [[Floating Disc Coin|golden floating coin]] and a [[Horn of Silent Alarm|horn engraved with a running horse design]], the party leaves. 
 

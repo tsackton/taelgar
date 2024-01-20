@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 49
+realWorldDate: 2022-06-30
+DR: 1748-08-22
+DR_end: 1748-08-24
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Thursday, June 30th, 2022; in Taelgar, Aug 22nd - Aug 24th)**
 
 We start as the party makes their way through the [[University of Chardon]] area, to find the scholar [[Gnaeus]], who wrote a book about the people of the [[Elderwood]] that mentioned [[Rai]]. Interrupting his meager class, they buy him lunch and offer a recommendation about his skill, and he tells his story. Although he has been disgraced for using enchantment magic to learn about the Deno’qai in the forest, he claims what he tells is the truth. From [[Gnaeus]], the party learns about the tribes of the Deno’qai, including the [[Baz'aku]], who trade with the Chardonians in the [[Chasa]] River Valley; the reclusive hunters of the [[Bek'eni]], and the [[Te'kula]], who have hidden themselves away to avoid some great evil they will not mention. 
 
@@ -12,7 +16,7 @@ The next day, the party splits up for errands: [[Delwath]] sells art and buys su
 
 After the show, the party speaks with [[Galen]], who seems disappointed with the [[Chalice of the Runepriest]] – despite a clear connection to the outer planes he cannot get it to do anything. He is willing to part with it for a small premium over what he paid the [[Great Library]] for it, only 10,000 gp, or perhaps a bit less if the party will throw in some small magical trinket of interest. Eventually, they agree to 8,000 gp plus the [[Black Light Candle]] that gives off darkness when burned. [[Riswynn]] will get the money from the [[Dwarves]] in the morning and return to [[Galen]] to finish the deal.
 
-The party also speaks with [[Fausto]] to negotiate for [[Hralgar's Eyes]]. [[Fausto]] initially offers that if they go to [[Illoria]] with [[Dee Wildcloak]] and [[Dain Goldhammer]], and help [[Servius]] in his search for treasure there, he will give them the eyes as part of their payment when they return. Although tempted, the party turns this down, and instead trades information (telling [[Fausto]] about [[People/Other Nonhumans/Grash]] and the [[Ring of Undying]]) and the [[Pandemonium Scroll]] from the werewolves. 
+The party also speaks with [[Fausto]] to negotiate for [[Hralgar's Eyes]]. [[Fausto]] initially offers that if they go to [[Illoria]] with [[Dee Wildcloak]] and [[Dain Goldhammer]], and help [[Servius]] in his search for treasure there, he will give them the eyes as part of their payment when they return. Although tempted, the party turns this down, and instead trades information (telling [[Fausto]] about [[Grash]] and the [[Ring of Undying]]) and the [[Pandemonium Scroll]] from the werewolves. 
 
 The next morning, while [[Riswynn]] goes to get money for [[Galen]], the rest of the party goes to meet [[Fausto]] with the [[Pandemonium Scroll]], to trade for the eyes, despite some misgivings and suspicion that it may be a trap. [[Fausto]] is excited to see them, and leads them up a long staircase to a magical workshop. Here, as soon as he gets the scroll, he, of course, turns on the party. Two glass warriors step out of the stained glass windows to attack, and a lightning creature emerges from a bottle on the table. [[Fausto]] disappears, first telling the party that they were foolish to think they could take [[The Cleansed]] by surprise, and that none of them were even pure enough to be worth saving anyway. 
 

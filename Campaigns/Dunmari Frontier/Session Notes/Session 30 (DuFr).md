@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 30
+realWorldDate: 2021-09-10
+DR: 1748-06-01
+DR_end: 1748-06-04
+players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 ---
-
-**(Friday, Sept 10th, 2021; in Taelgar, June 1st to June 4th)
 
 Our session begins at dawn, as the party leaves [[Karawa]] in search of [[Agata's lair]]. Armed with rumors from [[Candrosa]] that the lair was only approachable from the north, but marked by a path lined with dead trees, the party headed south towards [[Bas Udda]]. Here, they spent the night and cached some supplies, before turning south the next morning.
 

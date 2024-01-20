@@ -1,53 +1,32 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+name: "Dunmari Frontier - Seeker Solo Session 3"
+campaign: Dunmari Frontier
+sessionNumber: 65
+realWorldDate: 2022-11-12
+DR: 1748-10-13
+DR_end: 1748-11-13
+players: [Seeker, Raven, Spirala, Caulaus]
 ---
-*in which the party frees [[Hralgar]] from his imprisonment*
-
-**In the real world:** Thursday, Feb 21st, 2023
-**In Taelgar:** 23 Nov 1748
-
-## Summary
-[[Delwath]], [[Seeker]], [[Riswynn]], [[Wellby]], and [[Kenzo]] fight [[Hralgar]]'s storm-crazed ghost in the dreamscape, freeing him from his madness. Returning to [[Stormcaller Tower]], they free [[Hralgar]] from his chains and watch as he destroys the tower.
-
-## Notes and Information
-
-Start: 23 Nov 1748, evening, in Hraglar's dreamscape
-End: 23 Nov 1748, evening, outside the destroyed remains of the tower
-#### Character Advancement
-- Everyone advances to level 11
-
-#### New Treasure
-- [Cleaning Stone](https://www.dndbeyond.com/magic-items/cleansing-stone), from [[Eudomes]]' bedroom
-- The [[Enchiridion of the Occulta Ludum]], a small pamphlet titled in Drankorian, faintly magical and empty inside
-- [[Tales Before the Fall]], a huge book written in Giant, with tales of giants
-- [[On the Ordering of Giants]], ancient, written in a strange language, on giants
-- [[Journeys of Souls]], ancient, written in a strange language, on the afterlife
-- [[Hralgar]] gives his blessing for the party to restore and take [[Vindristjarna]], The Star on the Wind, the ruined airship that requires a new phasing stone to fly
-
 ## Timeline
 
-- (DR:: 1748-11-23): *(evening)* Fight Hraglar's storm-crazed ghost duplicate. Free Hraglar from his chains, watch as he destroys the tower and the statue of his bust. Sit with [[Hralgar]] for the evening, talking. 
+- **Later afternoon, in the feywild**: [[Seeker]], [[Raven]], and [[Spirala]] travel to [[Shimmersong]] and the Summer Court of the [[Lightdancer]]. [[Seeker]] spends time in [[Shimmersong]] learning about the shards of crystalized magic gifted by [[Illaran]], and crafting a [[Glove of Crystalized Magic|magic glove]] to manipulate magic. 
+- **Evening, in the feywild**: [[Seeker]], [[Raven]], and [[Spirala]] meet [[Caulaus]], a strange human who can guide them to Lastlight Falls. They enter the fallen fey realm of [[Amberglow]]; fight a cursed giant who takes memories as a toll for passage; meet [[Lady Eventide]] who takes color from [[Seeker]]’s hair; make their way past the haunted shadows of [[Amberglow]] to Lastlight Falls.
 
 ## Narrative
 
-We begin as the party rushes into [[Hralgar]]'s dreamscape upon hearing the sounds of [[Hralgar]] struggling, to find a ghostly, angry version of [[Hralgar]] strangling the real [[Hralgar]]. Launching into combat, the party attacks the ghost, [[Wellby]] placing two perfect arrows right through each of the ghost's eyes and [[Delwath]] striking hard with his elven sword. Despite a massive bolt of lightning that briefly knocks [[Riswynn]] down, the party prevails, and as [[Hralgar]]'s ghost is destroyed the dreamscape fades. The party finds themselves in the top floor of [[Stormcaller Tower]], facing the bound and chained giant Hraglar.
+We begin in the fey realm of [[Shimmersong]], where [[Raven]] and [[Spirala]] have brought [[Seeker]], in order for rest and also learn more about the fey crossing he is searching for. After spending some time in [[Shimmersong]], during which [[Seeker]] explored and spent time constructing a magical glove with the shards of crystalized magic to let him manipulate spells, the party has left for [[Amberglow]], where Lastlight Falls – the fey crossing [[Seeker]] is searching for – is located.
 
-His mind now clear, he recognizes the party and tells them he can hold off the madness for a few hours, if they wish to flee again. Showing him the eyes, the party tells him they are here to save him, as promised. [[Riswynn]] uses her mending magic to repair the eyes, and as the damage and cracks from the years and the journey are repaired, each eye magically melds with [[Hralgar]], restoring his vision. 
+[[Amberglow]] is a decaying realm, in disrepair since the Queen of Sunsets, the archfey of [[Amberglow]], vanished many years ago. To travel there needs a guide, and [[Raven]] knows one: the strange human warrior [[Caulaus]] Aportino. 
 
-The iron chains, however, seem a tougher nut to crack, until [[Kenzo]] recalls his memory of the binding from when he was possessed, recalling that the the first words of the elven poem A Lament for Lost Thunder can break the chains and end the enchantment. Unfortunately, the party sold the book containing this poem in [[Darba]], and can't quite recall the words correctly. However, a quick Sending to [[Govir]] has him promising to find a copy in the next couple of hours, when [[Delwath]] will scry him to see the writing and translate the words. 
+[[Caulaus]] leads the party into [[Amberglow]], through the Golden Hills on the border of [[Amberglow]] and [[Shimmersong]], to Longshadow Ravine, the only clear path out of the hills into the plains of [[Amberglow]]. However, the ravine is guarded by a cursed giant with an evil glare, [[Vondar]] One-Eye, who the party later learns demands a toll of a memory to pass. Refusing to pay the toll, the party fights, trying to avoid the cursed eye. As the party wears the giant down, the combat seems to be going their way, until [[Seeker]] is cursed by [[Vondar]]’s glare. Nonetheless the party defeats the giant, removes the curse on [[Seeker]], and investigates the camp, wondering about the cauldron of bubbling memories. [[Seeker]] is nearly pulled into the cauldron before being dragged away by his friends, and the party realizes the better part of valor is not messing with strange fey things they don’t understand, and leave. 
 
-At this point, the party takes a breather, [[Delwath]] cooking some food while [[Hralgar]] talks about [[Drankorian Empire|Drankor]]. He tells them about the end of the golden age of [[Drankorian Empire|Drankor]], when the [[Helea]] was assassinated by the [[Omnis Pura]], a group that believed in [[Humans|human]] supremacy, and especially supremacy of those who inhabited [[Hkar]], the land where [[Humans]] were created, the longest. [[Apollyon|Apollyon]], [[Hralgar]] says, was connected to this group, but he was captured during [[Apollyon|Apollyon]]'s reign and doesn't know how it ended, not really. 
+Beyond the Golden HIlls and [[Vondar]]’s ravine is a vast expanse of open plains, presumably once beautiful in the evening light of sunset, now dry and pale. To find Lastlight Falls, the first goal is to find the crashed Cloud Palace, where the [[Lady Eventide]], one of the few of the [[Cloudspinner]]’s court who remains in [[Amberglow]], resides. The palace is a wreck, twisted and broken and drained of color. [[Lady Eventide]] is wearing elegant dress and courtly jewelry, but her skin and nearly all her clothes and hair are bleached pale and colorless. 
 
-[[Kenzo]] then listens to [[Jorundr's Story]], recording it for the [[Order of the Awakened Soul]].
+![[amberglow-cloud-palace.png|500]]
 
-Over the next hour, the party gathers what they can from the tower, focusing on the few books left in the library from their last adventure, and the cleaning stone from [[Eudomes]]' room. Then, it is time to scry [[Govir]], and read the words of A Lament for Lost Thunder through his eyes. As [[Kenzo]] speaks the words, the chains binding [[Hralgar]] shatter and turn to dust. 
+[[Lady Eventide]] and [[Caulaus]] speak about their apparent shared history, with the Lady telling [[Caulaus]] he cannot leave, and cannot be forgiven until the [[Cloudspinner]] returns, since it was her that [[Caulaus]] wronged. Until then, he must remain in the [[Feywild]]. Speaking with [[Seeker]], [[Lady Eventide]] asks what he will give in exchange for a way across the fey crossing at Lastlight Falls. Pale and colorless, she asks for the color of his beard, and eventually agrees to take instead a streak of color from his hair. In exchange, she gives him a [[Sunset Thread|thread]] from her dress, made by the [[Cloudspinner]], who as known for her way with spinning thread of magic from the colors of the sunset. 
 
-The storm grows more intense and violent, and [[Hralgar]] warns the party to run, as he turns to lightning and thunder and sweeps out of the tower. An incredibly loud burst of thunder shakes the foundations of the tower, and then [[Hralgar]] is there, pulling a giant sword of lightning out of thin air, his eyes flashing as he strikes the tower, the statue, everything about this place over and over. Even once the tower is reduced to rubble and the bust of himself that imprisoned him to dust, he lifts his massive feet and stomps, sending waves of thunder through the destruction. And then, [[Hralgar]] thanks the party, asking what he can do for them. 
+The party is then told the way to proceed, past a line of trees that guard Lastlight Falls, and to be careful not to touch the shadows of the trees. The party manages to move forward carefully, avoiding most of the dangers of the shadows, and passing through the trees to the sight of Lastlight Falls. 
 
-![[stormcaller-after-storm.png]]
-
-The party asks about [[Vindristjarna]], also known as the The Star on the Wind, the skyship upon which [[Stormcaller Tower]] was built. [[Hralgar]] tells them the phasing stone, the magic that powers skyships, was destroyed, but he sends the storm north. The clouds blow away, the thunder and rain stops, and a beautiful sunset emerges on the wet plains. [[Hralgar]] opens his eyes, and tells the party that there is still a phasing stone in his home in the mountains, less than a hundred miles north, that they are welcome to find and claim for themselves.
-
-He then digs out the skyship and gives the party a tour. While much is damaged, when cleared and excavated, it looks like nothing more than a truly massive sailing ship made of stone.
-
-With this task done, [[Hralgar]] goes to hunt and say goodbye to his physical form, joined for part of his journey by [[Delwath]]. As the sun sinks below the horizon, he returns with a brace of antelope. As [[Hralgar]] and the party begin to speak of [[Apollyon|Apollyon]], of his sometimes-ally, perhaps turned enemy [[Cha'mutte]], of the perfectly circular island where [[Apollyon|Apollyon]] traveled, somewhere southwest of [[Drankor]] and shielded from storms, the smell of roasting anelope wafts over the camp. We end the session as [[Hralgar]] and the party share a late dinner, planning to resume their conversation this evening, before [[Hralgar]] vanishes to merge with the storm and learn the tales of the snow and storms and wind and rain. 
+We end as [[Raven]] leaves to return to the defense of [[Shimmersong]], and [[Spirala]], [[Seeker]], and [[Caulaus]] see on the top of the cliffs of Lastlight Falls, [[Kenzo]] sitting and waiting. 

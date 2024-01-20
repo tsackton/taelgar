@@ -1,10 +1,14 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 16
+realWorldDate: 2021-01-08
+DR: 1748-04-15
+DR_end: 1748-04-16
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
-**(Friday, Jan 8th, 2021; in Taelgar, evening April 15th through morning April 16th)
-
-Standing in a shattered room at the top of an [[Stormcaller Tower|ancient tower]], we begin with our heroes confronting a massive storm giant, laying chained and manacled to the ground in front of them. Clothed in tattered robes, with long, shaggy hair and weathered features, the most notable fact about this storm giant, [[Hralgar]], is that he is missing his [[Hralgar's Eyes|eyes]]. 
+Standing in a shattered room at the top of an [[Stormcaller Tower|ancient tower]], we begin with our heroes confronting a massive [[Giants|storm giant]], laying chained and manacled to the ground in front of them. Clothed in tattered robes, with long, shaggy hair and weathered features, the most notable fact about this storm giant, [[Hralgar]], is that he is missing his [[Hralgar's Eyes|eyes]]. 
 
 During a brief conversation, the party learns the giant first came to consciousness about a month ago, and has been trapped here, drifting in and out of waking dreams ever since. When he awoke his eyes were gone and his conscious grip on his mind was weak, although since he has had moments of lucidity, such as now. He tells the party that he believes he could free himself if his eyes were returned to him, and that when he loses conscious control of his mind he cannot prevent the tower from drifting in his dangerous dreams, where the part of his consciousness lost in the storm outside controls the present and his thoughts return to a simpler time, when he lived on his mountaintop palace trading stories and omens with travelers. Noting that while they are talking with [[Hralgar]], the constellation of the [[Fox and Hunter]] is back in the sky, the party realizes that its absence is a sign they have drifted back into the dreams of [[Hralgar]]. 
 
@@ -12,7 +16,7 @@ At this point, the party splits up. [[Kenzo]] remains with [[Hralgar]], entering
 
 As [[Riswynn]], [[Seeker]], [[Delwath]], and [[Wellby]] start to explore [[Stormcaller Tower]], it is obvious there are signs that it has been looted already, presumably by the people who made the camp and buried a companion. The statue of the bust of the giant, with empty eye sockets, has had something recently removed from around the crown on its head, and presumably the eye sockets as well. [[Wellby]] finds three pairs of footprints in the dust on the stairs up to this level. And when the party makes it down the next floor to the library, most of the obvious loose books have been taken (although some could have been taken long ago, of course). 
 
-In the library, [[Delwath]] discovered three books that are still attached by chains to the shelf, and cannot be easily freed in the little time the party has, so he sits down to read what he can. The books are fascinating -- one, in Giant, called “Tales Before the Fall”, stories of the giants from the Age of Creation, two more, in Hkarian, one “On the Ordering of Giants”, another “Journey of Souls.” 
+In the library, [[Delwath]] discovered three books that are still attached by chains to the shelf, and cannot be easily freed in the little time the party has, so he sits down to read what he can. The books are fascinating -- one, in Giant, called “[[Tales Before the Fall]]”, stories of the giants from the Age of Creation, two more, in Hkarian, one “[[On the Ordering of Giants]]”, another “[[Journeys of Souls]].” 
 
 While [[Delwath]] reads, the rest of the party continues to explore, save [[Kenzo]] who remains in meditation with the giant. On the same floor as the library, the other side of the tower is an amazing room, a wind garden of sorts, protected from the elements on one side by intricate marble netting filling the space of several large windows. The floor is a rainbow swirl of different hues and colors, that seem to shift and change in response to the wind, and around the room stone benches of different minerals provide a place to sit and enjoy the artistry. 
 

@@ -18,6 +18,6 @@ whereabouts:
 
 Godcaller of the Ko’zula Deno’qai. 
 %%^Campaign:DuFr%%
-Gifted [[Delwath]] his [[Deno'qai Scale Mail]] and [[Deno'qai Lynx Shield]] prior to [[Session 51-52 (DuFr)|Delwath's solo adventure to free the Meswati.]]
+Gifted [[Delwath]] his [[Deno'qai Scale Mail]] and [[Deno'qai Lynx Shield]] prior to [[Session 53 (DuFr)|Delwath's solo adventure to free the Meswati.]]
 %%^End%%
 

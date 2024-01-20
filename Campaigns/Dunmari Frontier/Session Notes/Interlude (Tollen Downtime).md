@@ -1,7 +1,13 @@
-# **Session 84-85 Interlude**
+---
+tags: [session-note]
+name: "Interlude: Downtime in Tollen"
+campaign: Dunmari Frontier
+DR: 1749-02-04
+DR_end: 1749-03-09
+players: [Delwath, Seeker, Wellby, Kenzo, Riswynn]
+---
 
 During the journey from the [[Copper Hills]] to [[Orenlas]] and then to [[Tollen]], and during the time in Tollen while work is done on [[Vindristjarna]], the party spends time gathering information.
-
 ## Questions
 
 - Is there a kingdom ruled by a vampire on the north coast of the Green Sea? **YES**

@@ -1,7 +1,7 @@
 ---
 tags: [status/unknown]
 ---
-(as told to [[Kenzo]] in [[Session 75 (DuFr)]])
+(as told to [[Kenzo]] in [[Session 81 (DuFr)]])
 
 As she works on [[Kenzo]]'s tattoo, Cecilia tells her story. 
 

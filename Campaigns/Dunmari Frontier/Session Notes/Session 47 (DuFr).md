@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 47
+realWorldDate: 2022-05-26
+DR: 1748-08-09
+DR_end: 1748-08-21
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Thursday, May 26th, 2022; in Taelgar, Aug 9th - Aug 21st)**
 
 We begin as the party boards the [[Emerald Song]], the halfling ship they will sail on to [[Chardon]]. As the ship departs [[Darba]], the party gets settled and enjoys the view from the deck, before heading to dinner with the captain, some of the crew, and the two other passengers, both halflings.
 

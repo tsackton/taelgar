@@ -1,69 +1,52 @@
 ---
 tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 84
+realWorldDate: 2023-09-11
+DR: 1749-01-01
+DR_end: 1749-01-03
+players: [Seeker, Delwath, Kenzo, Wellby]
 ---
-# Session 84
-*in which the party negotiates in Dunmar and travels to Tollen
-
-**In the real world:** December 20th, 2023
-**In Taelgar:** January 30th, 1749 - March 9th, 1749
-## Summary
-
-- Travel to the Copper Hills and facilitate negotiations between Sura and Karnas to end the Siblings War
-- Travel to Orenlas and meet [[Egnir]], now a gardener on [[Vindristjarna]]
-- Travel to Tollen, for upgrades to Vindristjarna and information gathering in preparation for the journey to Ursk
-## Session Events
-#### Timeline 
-
-- (DR:: 1749-01-30): (late morning) depart west for the [[Copper Hills]] on [[Vindristjarna]], passing south of [[Karawa]] and the [[Red Mesa]] in the night
-- (DR:: 1749-01-31): Watch the sun rise over the  [[~Southern Tokra Plains~]]; travel across the plains during the day, and reach and cross the [[Hara]] river in the evening. Continue west through the night.
-- (DR:: 1749-02-01):  Reach the outskirts of the Copper Hills in the morning. Speak with [[Sura]] on Vindristjarna, then [[Johar]]. Send messages to the [[Sonkar Mystai]] [[Abha]]. Meditate with Sura in the evening. 
-- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]]. Show [[Nayan Marathu's Letter]] to the [[The Mirror of the Past]], seeing [[Nayan Marathu's Letter Vision]]. Speak with [[Abha]] again. Return to Vindristjarna. (recharge:: mirror)
-- (DR:: 1749-02-03): Tie up loose ends in Sura's camp. 
-- (DR:: 1749-02-04): Depart for Tollen, via Orenlas. Travel to Orenlas, crossing the [[~North Tokra Plains~]]. 
-- (DR:: 1749-02-05): Travel towards Orenlas, passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Stormcaller Tower]].  
-- (DR:: 1749-02-06): Travel towards Orenlas, passing over the [[Sentinel Range|Sentinels]] and into the [[Plaguelands]]. 
-- (DR:: 1749-02-07): Travel towards Orenlas, crossing over the [[Plaguelands]]. 
-- (DR:: 1749-02-08): Travel towards Orenlas, crossing the [[Istaros]] north of the ruins of [[Isingue]]. 
-- (DR:: 1749-02-09): Travel towards Orenlas, crossing the eastern [[Plaguelands]]. 
-- (DR:: 1749-02-10): Travel towards Orenlas, arriving late at night. 
-- (DR:: 1749-02-11): Spend the day in Orenlas, speaking with [[Egnir]]. 
-- (DR:: 1749-02-12): Depart Orenlas in the afternoon, crossing the [[~Cymea Border Mountains~]] in the night. 
-- (DR:: 1749-02-13): Travel across [[Latazaro]] swamp and the [[Western Gulf]] towards [[Tollen]].
-- (DR:: 1749-02-14): Cross the [[Western Gulf]] and the [[~Gulf of Tollen~]], traveling towards [[Tollen]].
-- (DR:: 1749-02-15): Arrive outside [[Tollen]] in the morning. Contact [[Adam Gower]] and others, and dock [[Vindristjarna]] for construction.
-- (DR:: 1749-02-16) - (DR:: 1749-03-08): [[Session 84-85 Interlude (DuFr)|Downtime in Tollen]].
-- (DR::1749-03-09): Meet the [[Kenku|kenku]] scout [[Kecha]] on [[Vindristjarna]]. Shadow hunter attack well after midnight. 
+## Notes and Information
+*in which the party gathering information*
+Start: morning, Jan 1st, 1749
+End: afternoon, Jan 3rd, 1749
+## Timeline 
+- (DR:: 1749-01-01): Spend a day relaxing
+- (DR:: 1749-01-02): Visit the [[Ancient and Honorable Guild of Philosophers]] and have dinner with [[Melindir]] and [[Elwis]]
+- (DR:: 1749-01-03): *(morning)* Have breakfast with [[Faldrak Bronzehammer]] 
 ## Narrative
 
-We begin as the party departs [[Pava and Avaras' House]], heading west to [[Sura]]'s army camp in the [[Copper Hills]], hoping to negotiate a peace between Sura and her brother, Samraat [[Nayan Karnas]]. In Vindristjarna, the journey across Dunmar takes only two days, and the party arrives at Sura's camp on the morning of February 1st.
+We begin on Jan 1st, 1749, as the new year, by [[Tollen]] reckoning, dawns. 
 
-Here, they begin by speaking to Sura. They give her news of the [[War of the Cloak]], the [[Battle for Uzgukhar]], and the defeat of [[Grash]]. Sura passes along the news of the [[Battle of Tokra]], and [[Havdar]]'s activities to fortify the northwestern border of [[Dunmar]], along the [[Myraeni Gap]]. Then, the conversation turns to Karnas and the current situation. Karnas is convinced that [[Agata]] has silenced the gods using the [[Cloak of Rainbows]], and corrupted Sura to be her pawn. The party learns from Sura that [[Johar]], Kenzo's friend from the [[Lakan Monastery]], has been taking letters between the camps, and the [[Sonkar Mystai]] [[Abha]] is Karnas' closest advisor, although currently he is convinced that nothing she says can be trusted, because of Agata's meddling with the gods. 
+*On the skyship [[Vindristjarna]], however, none of the travelers would mark this as the dawning of a new year, were they not in [[Tollen]]. 
 
-The conversation turns to meeting with [[Nayan Karnas|Karnas]], and to Sura's feelings. [[Sura]] asks [[Delwath]] if he has ever been trapped in a mirror for eight years, which, between Delwath's skill and [Seeker]'s inspiration, leads to her breaking down and talking about how angry she is with Karnas for doing nothing. As the conversation continues, Sura agrees to come meditate with [[Kenzo]] in the evening, and also hears the whole story of [[Apollyon]] from the party. 
+*The hammers and bells of the [[Dwarven Kingdoms]] of the [[Sentinel Range]] will not ring to mark the new year for another few months, until March 17th in the human reckoning. Few except the dwarven lorekeepers now remember, but this will mark the beginning of the 5,882nd year since the planes were pulled apart and time began on Taelgar.*
 
-That afternoon, the party speaks with [[Johar]]. He is nervous, and reports on the evidence of Agata's meddling in Dunmari history that Karnas has found. Most notable is a letter, written by the Samraat [[Marathu]], who was Sura's mentor and killed in the attack when Sura was kidnapped. The letter, according to Karnas, states that Marathu had visited Agata in his youth, and was compelled now to deliver Sura to her, for training and apprenticeship. Johar lists a bunch of other evidence he has found of Agata's meddling. The discussion also turns to the [[Cloak of Rainbows]], which has definitely been with the orcs of [[Xurkhaz]] since shortly after the [[Great War]], and so can't have been used by Agata. Johar is convinced, but he warns the party Karnas will not be easy to deal with. 
+*In [[Dunmar]], the new year -- the 192nd year of the Nayan Dynasty -- will not come for another three weeks, when the The Festival of the New Dawn on January 23rd marks the end of the holy month, and the beginning of the new year.*
 
-The meeting with Johar ends with Johar arranging a meeting with [[Abha]], who will speak with the party the following day around lunchtime, near Karnas' camp. The rest of the day and evening is spent in discussion, and in prayer and meditation with Sura. Delwath also speaks with the tanshi, asking:
-- Can Agatha influence Dunmar from where she is now? *Probably not*
-- Did Agatha leave behind magical traps and tricks still active in Dunmar. *No*
-- Was Sura in the mirror for eight years? *Yes*
-- Was Samraat Nayan Marathu truthful in the letter he wrote to be opened after his death? *What letter?*
-- Does Abha have Dunmar's best interests at heart? *Yes*
+*Among the [[Halflings]] in their ships and caravans traveling the world, the new year has started already, when the days began to lengthen after the winter solstice. The song of the Year of Shadowed Dreams is over, and the song of the new year is beginning.*
 
-The next day at lunchtime, the party uses the rainbow bridge to teleport to the spot they are to meet [[Abha]]. They speak with her about the situation, and the [[Cloak of Rainbows]], and the uncertainty in Dunmar. She seems to accept the story of the cloak and clearly wants to convince Karnas that the gods have not been silenced by Agata, and agrees to take the party to him. While she warns them he will not accept divine magic, he may be open to other magic that could convince him Agata is not influencing Sura.
+*To the [[Elves|elves]], the turning of the year, the days growing shorter, and then longer, then shorter again, is merely a small part of the larger cycle of the ka, the elven count of generations, stretching back to the original [[Elves|elves]] who lived in the shadows of the Firstborn, and does not usually warrant much comment or celebration by itself.
 
-The party is led by Abha through Karnas' camp, to the main room of the caravanserai he has made into his hall. The party tells Karnas the story of the [[War of the Cloak]], keeping the true nature of the [[People of the Rainbow]] a secret. Karnas seems uncertain, wondering if Agata had sway with these people, which turns the conversation to Agata and how they defeated her twice. 
+The party spends the day of the new year on [[Vindristjarna]], taking a much needed respite. [[Wellby]] works on his extensive maps; [[Kenzo]] tends the budding garden; [[Seeker]] tinkers with his mechanical creations; and [[Delwath]] watches the horizon, thinking. 
 
-![[karnas-portrait.jpeg]]
+The following day, on Friday, Jan 2nd, the party goes to visit the guildhall of the [[Ancient and Honorable Guild of Philosophers]]. It is in the oldest part of the city, the [[Skepwalk]] district, an oasis of quiet and calm nestled among shipyards and busy taverns, with a strangely out-of-season garden. Inside, the party is served tea and settled at a small table; there are a few other people here, but their conversations fade into silence as the party sits down. Soon, [[Delios the Sage]] emerges, happy to see the party again. After some discussion, the party ends up asking for information about four things.
 
-Convinced the party is not under Agata's sway, the conversation turns to Sura, and the evidence that Karnas has marshaled of Agata's meddling. Karnas seems obsessed with the letter from [[Marathu]], implicating Sura, that Johar mentioned. The party discusses using the [[The Mirror of the Past]] to learn about [[Nayan Marathu's Letter]], but makes a final attempt to convince Karnas to come see the [[Cloak of Rainbows]] for himself, first. But he is unwilling to leave his camp and teleport away with strangers. 
+First, they trade the [[Mace of Terror]] for information about the [[Binding Stones]] taken from [[Stormcaller Tower]], that had been involved in trapping [[Hralgar]]. Delios tells them that these stones can be used to create a powerful, nearly eternal prison, trapping a creature in chains, or in a tomb underground, or in eternal sleep. This prison can only be undone by the most powerful magic, or by a specific event that must be specified when the prison is created. (Metagame: what he is describing is the 9th level spell [Imprisonment](https://www.dndbeyond.com/spells/imprisonment)). But there is added complexity, that Delios cannot explain now, and requires further research, saying that it will take one or two weeks to get a full answer. 
 
-Finally, over Kenzo's qualms, the party decides to show the letter to the [[The Mirror of the Past]], which reveals [[Nayan Marathu's Letter Vision|Agata's role in crafting the letter]]. This sends Karnas into a rage, and the party leaves. Later, speaking to [[Abha]], she tells the party that this is the first crack, and she thinks this will be the first step in a path to reconciliation and a negotiation over Dunmar's future. But, at this point, it is up to the gods and their representatives on Taelgar to find a way forward. She thanks the party for their help, agreeing to speak with Sura and start negotiations, and wishes them well. 
+Second, they trade the two spellbooks (the [[Arcane Grimoire]] from [[Mezzar|Grimbaskal]]'s hoard, and Cassian's chalyte spellbook), for information about the shattered [[Jade Piece of Rai's Hand|jade pieces of Rai's hand]], and information about [[Rai]] and [[Apollyon|Apollyon]] and how [[Apollyon|Apollyon]] was imprisoned.
 
-The party spends the next day tying up loose ends to help the negotiations get started, with Kenzo leaving carved wooden figurines of a united brother and sister for both Sura and Karnas. On February 4th, they depart on Vindristjarna, heading east for Orenlas, and then Tollen, arriving at Tollen in mid-February. 
+Delios gives the party information about the jade forest, west of [[Chardon]], for free. This is a forest of kelp, and living stone coral, maybe 600 or 700 miles due west of [[Chardon]], about a 100 miles off the coast of the peninsula. It is apparently tended by [[Merfolk]] and other denizens of the oceans. And, he says, the guild will do their best to find information that could lead to the location of the final fragment, that fell in the rainforest, but he cannot promise anything, and this will take considerable time. 
 
-During this time, the party [[Session 85X Flashback (DuFr)|recruits a gardener in Orenlas]], and [[Session 84-85 Interlude (DuFr)|gathers information]]. 
+Delios also speaks briefly of [[Apollyon|Apollyon]]'s imprisonment. He says that [[Apollyon|Apollyon]] kept his soul, his life essence, safely stored outside his body; unless that phylactery (soul jar) is destroyed, [[Apollyon|Apollyon]] cannot truly be destroyed. Delios says the guild suspects that the imprisonment that [[Cha'mutte]] constructed, and [[Rai]] maintained, had something to do with manipulating the connection between [[Apollyon|Apollyon]] and his phylactery, keeping him trapped in [[Drankor]] and slowly losing his power. He thinks, but is not certain, that [[Rai]] somehow held this prison together with his hand, perhaps gripping the phylactery itself and keeping [[Apollyon|Apollyon]] from accessing it. But, he says, the true nature of this imprisonment, and its connection to [[Rai]], will need to be verified and studied before he can say more for sure. 
 
-On March 9th, in Tollen, the party meets [[Kecha]], the kenku scout who has volunteered to lead them across the northern wilds, to the inland border of [[Ursk]]. He tells them of the dangers they may face: frost giants in the mountains; dragons in the icy north; rumors of a vampire kingdom; ice worms that tear through the forest; and changelings who turn into bears. 
+Finally, [[Seeker]] asks after his brother, [[Frankar]], trading the [[Floating Disc Coin]] for information about whether he is alive, and if so where he is, and how he got there. Delios says that the guild is aware he is alive, but further time will be necessary before he can say for sure where [[Frankar]] might be now. 
 
-In the early morning hours, as the party sleeps on Vindristjarna, they are awakened by screams. 
+After this conversation, the party departs the guildhall, and returns to the ship to be ready to host [[Melindir]] and [[Elwis]] for dinner. [[Elwis]] is a painter from [[Orenlas]], and is in town to learn more about the magic inks used in tattoos here, after traveling around [[Green Sea]] for the past several years. She speaks with [[Delwath]] about [[Orenlas]], talking of the beauty of the forest, the grandeur of the ancient city of [[Erelion]], and the ancient feeling as if it were still the days of creation when Aldanor walked the earth. 
+
+The next morning, [[Faldrak Bronzehammer]] arrives, ready to leave. He has traded for information about the Edge of Echoes from the [[Ancient and Honorable Guild of Philosophers]]. He has learned that is in central [[Cymea]], on the Freccilia (FREH-chee-lah) River, just upstream from its confluence with the Ampogio (ahm-POH-joh) River. Now, it is claimed by the locals simply to be a haunted cave system, but long ago it was a Drankorian forge, where the power of the elemental planes that leaks through here was harnessed to create magic. Faldrak, armed with this information, has packed his stuff already, assuming that the party will set out immediately. 
+
+Although the party is not quite ready to leave right away, they agree to go to the Edge of Echoes, and to share 1/16 of the treasure they find there with Faldrak, in exchange for work on [[Seeker]]'s [[Glove of Crystalized Magic]] and on [[Vindristjarna]]. Faldrak, for example, suggests some kind of fire-shooting cannon, and demostrates what he means by picking up his cane and releasing a blast of fire from it, saying, "like that, but bigger!"
+
+We end that afternoon, as Faldrak contacts a furniture maker friend he knows to get nice beds for [[Vindristjarna]], and the rest of the party disperses to the final tasks in [[Tollen]] before departing. 

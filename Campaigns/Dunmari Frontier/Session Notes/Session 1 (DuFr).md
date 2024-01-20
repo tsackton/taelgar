@@ -1,21 +1,14 @@
 ---
-tags: [dufr, status/unknown]
-campaignInfo: []
-name: Session 1 (DuFr)
+tags: [session-note]
+campaign: Dunmari Frontier
 sessionNumber: 1
 realWorldDate: 2020-05-29
 DR: 1748-03-22
-DR_end: 1748-03-23
+DR_end: 1748-03-22
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-# Session 1
 
-%% 
-Short summary: Group fights and investigates hyena attacks. Two sentence summary: A group of adventurers fights hyenas attacking a village and follows their trail to a desert, where they encounter a scout and travel to an oasis where they find dead sheep and large lizards.
-%%
-
-**(Friday May 29, 2020; in Taelgar, morning March 22 to evening March 22)**
-
-[[Seeker]] of Highkeep, [[Wellby]] Goodbarrel, [[Kenzo]], and [[Delwath]] the [[Elves]] all meet as they rush in to save the villagers of [[Karawa]] from two rampaging giant hyenas. They defeat the hyenas (one killed by [[Kenzo]], with staff and bare hands, and the other attacked with magical flames by [[Delwath]], distracted by an illusory baby antelope and tripped into a hole in the ground by [[Seeker]], then stabbed by [[Wellby]]), managing to keep all the villagers alive; one of the villages, a woman with a touch of divine magic named [[Beli]], helps in the battle. Afterward, they talk in the tea room below [[Delwath]]'s house, while the server [[Badya]] helps tend the wounded. Speaker [[Candrosa]], the leader of the [[Shakun Mystai]], and Elder [[Kisa]], leader of [[Karawa]], arrive and discuss the attacks -- these are the latest and most dangerous in a string of mysterious attacks. [[Kisa]] asks [[Delwath]] to investigate the problem, and he gets everyone else to help.
+[[Seeker]] of Highkeep, [[Wellby]] Goodbarrel, [[Kenzo]], and [[Delwath]] the [[Elves|Elf]] all meet as they rush in to save the villagers of [[Karawa]] from two rampaging giant hyenas. They defeat the hyenas (one killed by [[Kenzo]], with staff and bare hands, and the other attacked with magical flames by [[Delwath]], distracted by an illusory baby antelope and tripped into a hole in the ground by [[Seeker]], then stabbed by [[Wellby]]), managing to keep all the villagers alive; one of the villages, a woman with a touch of divine magic named [[Beli]], helps in the battle. Afterward, they talk in the tea room below [[Delwath]]'s house, while the server [[Badya]] helps tend the wounded. Speaker [[Candrosa]], the leader of the [[Shakun Mystai]], and Elder [[Kisa]], leader of [[Karawa]], arrive and discuss the attacks -- these are the latest and most dangerous in a string of mysterious attacks. [[Kisa]] asks [[Delwath]] to investigate the problem, and he gets everyone else to help.
 
 Investigating the beasts, they seemed to have fought other battles before arriving in the village. Some skillful tracking from [[Delwath]] and [[Wellby]] allowed the party to pick up the trail of the beasts, leading a bit north of due east, into the desert.
 

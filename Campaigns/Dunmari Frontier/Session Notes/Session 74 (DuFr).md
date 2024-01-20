@@ -1,45 +1,54 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 74
+realWorldDate: 2023-03-30
+DR: 1748-11-24
+DR_end: 1748-11-29
+players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 ---
-*in which the party travels to [[Tollen]]*
-
-**In the real world:** July 27, 2023
-**In Taelgar:**  Dec 10th, 1748 - Dec 17th, 1748
-## Summary
-
 ## Notes and Information
 
-Start: early afternoon, Dec 10th
-End: morning, Dec 17th
+*in which the party repairs the skyship [[Vindristjarna]]
+
+[[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]], and [[Riswynn]] camp at the ruins of [[Vindristjarna]], working to repair the control mechanisms that let it fly. 
+
+Start: evening, Nov 24th 1748
+End: night, Nov 29th 1748
+
 ## Timeline
-- (DR:: 1748-12-10): Leave [[Uzgukhar]], flying north on [[Vindristjarna]]
-- (DR:: 1748-12-11): Fly north, high over the [[Plaguelands]]
-- (DR:: 1748-12-12): Fly over [[Isingue]]; descend to investigate, attacked by some kind of acidic ooze
-- (DR:: 1748-12-13): Reach [[Mostreve Hills]]; fly over [[Tyrwingha]]
-- (DR:: 1748-12-14): Reach [[Western Gulf]]; [[Kenzo]] communes with the ocean life
-- (DR:: 1748-12-15): Fly across [[Western Gulf]]
-- (DR:: 1748-12-16): Arrive in [[Tollen]]; split up and speak with various people; spend the night at *[[The Windward Sail]]*
-- (DR:: 1748-12-17): *(morning)* Speak with [[Melindir]]
+
+- (DR:: 1748-11-24): *(evening)* Return to the crash of [[Vindristjarna]] by evening with [[Hralgar]]'s wind blessing.
+- (DR:: 1748-11-25): Work on skyship. Convert [[Delwath]]'s shield to an adamantine harness to hold phasing stone.
+- (DR:: 1748-11-26): Work on skyship, finishing the stone helm on which the phasing stone will be mounted; scry on [[Kharsan]], [[Kadmos]].
+- (DR:: 1748-11-27):  Work on skyship, converting gold and silver to wire to construct the channeling device. Meet [[Alesh]]; speak with her about events in [[Dunmar]] and give her letter and sending stone for [[Sura]]. Sending with Ulfgar and [[Govir]], who both agree to do research.
+- (DR:: 1748-11-28): Continue to work on the channeling device; scry [[Kharsan]] and see army leaving. [[Seeker]] dreams of shadow hunter threatening that he is coming.
+- (DR:: 1748-11-29): Finish work on [[Vindristjarna]]. [[Seeker]] attunes to the phasing stone, begins to practice flying. Shadow dogs attack at midnight.
+
 ## Narrative
 
-We begin as the party departs [[Uzgukhar]], north to find a volcano in which to destroy the [[Scepter of Command]]. Flying nearly 24 hours, the party covers more than 200 miles per day. The first three days are spend crossing the [[Plaguelands]], including a brief flyover of [[Isingue]], a ruined trading city south of [[Sembara]]. In [[Isingue]], [[Seeker]] brings the ship lower, noting that the entire ground of the city seems to be teeming with a strange black squirming mold. Which attacks, launched a black globule of acidic ooze that begins to burn through the stone of the ship, until it is burned out by [[Wellby]].
+We begin at dusk, at site of the crashed [[Vindristjarna|airship]], as the party settles in for the night and begins to determine what is necessary to repair [[Vindristjarna]]. From the notes and information gleaned in [[Hralgar]]'s library, [[Seeker]], [[Riswynn]], and [[Delwath]] are able to determine that three steps are necessary to repair the ship: the construction of an adamantine harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
 
-Continuing north, the party crosses the [[Western Gulf]], hearing [[Wellby]]'s stories of his childhood on the ocean (including the tale of seeing a giant underwater dragon when he was 9). [[Kenzo]] also communes with the nature of the gulf, feeling the teaming life on the surface, and the strange dark canyon depths where giant crabs scuttle beneath the reach of sunlight.
+![[vindristjarna-crash-location.png]]
 
-On the morning of Dec 16th, the party reaches [[Tollen]], where they are met by a harbor launch with a dozen guards and one of the harbor masters. She welcomes them to [[Tollen]], but insists a guard be posted on the airship to keep the city safe. This negotiation done, the party heads to the busy, cold docks of [[Tollen]] in winter, where they split up.
+Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the adamantine harness and the stone console to mount the phasing stone to, guided by [[Riswynn]]'s magic and the knowledge of both the [[Dwarves]]. During these days of work, [[Wellby]] and [[Kenzo]] tend the camp and keep watch, and Delawth scrys, seeing [[Kadmos]] and company marching in the desert to the south, in the heart of the [[Garamjala Desert|Garamjala]]. 
 
-[[Wellby]] and [[Seeker]] head north, to [[Scrollwright Street]], heading for the shop of [[Guy Marchand]], a mapmaker who [[Wellby]] knew from his childhood, who sold [[Wellby]] some of his early books and maps. Guy is happy to see [[Wellby]], and they talk about his journeys and life. Guy recounts how the first time he met [[Wellby]], he tried to shoo him away, but [[Wellby]] walked up to a giant map, pointed to the further place (an island north and east of the [[Mawakel Peninsula]]), and asked "What's there?" Guy also tells [[Wellby]] he is happy to introduce him to a university student he knows, [[Sarah de Gray]], a fellow Isinguer. Guy also shows [[Wellby]] a fragment of a map recovered from some abandoned fort north up the [[Volta]], that shows the elevations of a section of the central mountain chain. 
+On the third day, November 27th, [[Riswynn]] and [[Seeker]] construct considerable quantities of gold and silver thread with [[Riswynn]]'s magic, to shape and forge the final piece of the control apparatus for [[Vindristjarna]]. [[Wellby]], however, sees a rider on the horizon, and heads to scout, finding [[Alesh]] riding towards the former site of the [[Stormcaller Tower]].
 
-While [[Wellby]] and [[Seeker]] speak with Guy, [[Delwath]] wanders through the markets of the [[Bridgeward]] district, looking for furniture makers, blacksmiths, carpenters, and other artisans to outfit the skyship, buying some kitchen supplies and basic furniture, and getting quotes for larger construction projects. [[Delwath]] also collects rumors and news, hearing especially about [[Melindir]], an elf from [[Orenlas]], and [[Caelynn]] the Seer, a [[Fey]] woman variously claimed to be 4000 years old, or the last in a long line of [[Caelynn]] the Seers, who accumulates many conflicting stories and rumors.
+![[alesh-portrait.png]]
 
-[[Kenzo]] wanders looking for the best tattoo parlor, ending up across the [[Tollen]] Bridge, in the [[Southbridge]] district, in the shop of [[Cecilia Lister]]. She is a neat and precise woman, with a neat and precise shop. [[Kenzo]] and Cecilia talk tattoos (Cecilia is quite interested in [[Kenzo]]'s lizardfolk tattoos) -- [[Kenzo]] expresses interest in getting magical ink. Cecilia agrees, and asks him to come back the day after tomorrow. She also says that, for a client, she will introduce him to Escobar, a student at the [[University of Tollen]] who is supported by a [[Dyer's Guild]] scholarship. 
+From [[Alesh]], the party gets news about [[Dunmar]]. She is riding from [[Karawa]] to [[Sura]]'s camp, and stopped to investigate the weird lack of a storm near [[Stormcaller Tower]], called the Tower of the Wild Wind by the Dunmari. Among bits of personal gossip and historical trivia, the party learns that a band of [[Orcs]] (the [[Dustthorn Horde]], the remnants of [[Agata]]'s allies) attacked the border near [[Karawa]], desperate for food. Several were captured and told their interrogators that [[Agata]] was behind Karnas' ascension to the throne, and he was working for her. 
 
-Despite not making a plan to meet up, the party manages to meet together at [[The Windward Sail]], a halfling inn in [[Fiskurth]], the sailor's district near the docks, and recount their days and contacts. [[Wellby]] knows the tavern owner, [[Wendel Quickstep]], and after the dinner rush dies down, they speak for a while, after [[Wellby]] joins in the halfling storytelling that happens after the music ends. Wendel is happy to hear about [[Wellby]]'s journeys, and tells the party about [[Nika Hyne]], a sort-of student who hangs around a lot hearing stories, and knows everyone at the university, as well as the [[Temple of Kaikkea]] in the [[Godshome]] district, where they can find a Skaer to speak with. 
+[[Alesh]] also reported that [[Cintra]] has been consumed with dreams, and says that [[Shakun]] told her: "My aunts and uncles are playing a dangerous game. That the armies of [[Nayan Karnas|Karnas]] and [[Sura]] must meet, but not in battle, or the silence will spread and [[Dunmar]] will be no more." Few know quite what to make of this, but at least in [[Karawa]] it is still believed the greater danger is from the East. Wanting to convince [[Sura]] to march her armies East to be ready to meet [[Grash]] if needed, the party writes a letter to [[Sura]] and gives [[Alesh]] the letter and a Sending Stone to deliver, as she departs. 
 
-[[Nika Hyne|Nika]] wanders in later that night, and Wendel introduces her. She is a bit squirrelly and doesn't immediately click with [[Delwath]], especially, but reveals a number of interesting rumors, including that [[Caelynn]] trades in secrets, and will take a secret from you if you wish. She tells (for 5 silver) the party about [[Umli]] the Exile, a stoneborn metalworker and expert in fire magic, and agrees to guide them around the university, including taking them to meet [[Umli]], the next day after lunch. The day ends with the party heading to sleep having made an impression in [[Tollen]]: rumors of the elf with the flying ship, and rumors of the troubles in [[Dunmar]], now spreading like wildfire.
+Meanwhile, [[Seeker]] and [[Riswynn]] convert 800 gold and 800 silver coins into several pounds of metal wire, and begin to construct the phasing stone apparatus, using a perfect emerald from [[Mezzar|Grimbaskal]]'s Hoard as a gemstone focus. As the day progresses, [[Riswynn]] also speaks via Sending with Ulfgar, in [[Chardon]], and [[Govir]], in [[Tokra]], both of whom agree to research what they can about [[Apollyon|Apollyon]] and his magical artifacts, and will be available for scrying to read notes at sunset in a week's time. 
 
-The next morning, the party heads to speak with [[Melindir]], the elf, right after breakfast. On the walk, [[Delwath]] talks about his feelings meeting an elf and feeling like he has missed so much of his generation; he is slightly cheered by the thought that perhaps there is another elf somewhere trapped in another shadow realm, who he might still find companionship with. 
+The next day, [[Seeker]] and [[Riswynn]] continue to work on the channeling device, while [[Delwath]] scries [[Kharsan]] and sees [[Grash]]'s army leaving. 
 
-[[Melindir]] lives in the nice part of town, [[Gold Street]], near many guild headquarters, the new Temple to [[The Warlord]] being constructed by the shipwright's guild where [[Guildgate]] and [[Godshome]] meet. From [[Melindir]], the party learns a little more about [[Orenlas]], and makes plans to visit there, finding an old elf who might remember [[Apollyon|Apollyon]]. [[Melindir]] also tells them that the Skaer have been looking for adventurers, to help deal with some curse, and tells them to be cautious around Caerlynn. 
+![[undead-orcs-marching.png]]
 
-The session ends with the party leaving [[Melindir]]'s apartments, heading to the [[Temple of Kaikkea]]. 
+That evening, the night of Nov 28th, [[Seeker]] has a dream, a shadow hunter threatening that he is coming soon for them. 
+
+The next day, Nov 29th, is spent finishing the work on [[Vindristjarna]]. By evening, the ship is ready for flight, and [[Seeker]] attunes to the phasing stone and begins to practice flying. 
+
+The session ends around midnight, as the party is awakened by the howls of hunting dogs, lead by the shadow hunter from [[Seeker]]'s dreams. 

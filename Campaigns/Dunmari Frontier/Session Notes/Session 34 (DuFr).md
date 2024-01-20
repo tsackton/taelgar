@@ -1,14 +1,18 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 34
+realWorldDate: 2021-11-07
+DR: 1748-06-30
+DR_end: 1748-07-01
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Sunday, Nov 7th, 2021; in Taelgar, June 30th to July 1st)
 
 The session starts as the party (excepting [[Wellby]], who is taking [[Garret Tealeaf]] to [[The Red Lily Inn]]) stands in the entrance to the [[Lakan Monastery]], in front of the Lakan monk [[Rishi]], [[Kenzo]]’s friend and master. After introductions, the party learns from [[Rishi]] that the [[Lakan Mystai]] have had omens and dreams, and many of the monks, including Speaker [[Lara]], are currently traveling to hopefully learn more of these omens. For the past three weeks, many of the mystai have had premonitions that the cycle of history was out of sync with itself, that the branching paths of the past, once pruned and gone into history, are now renewed. Speaker [[Lara]] had a dream of a watchtower to the east, one of the many guard towers built before the [[Great War]] to protect the northern reaches of [[Dunmar]], and left with many companions to visit this place a few days ago. 
 
 While the party gets settled into the monastery, unloading the cart and finding secure places to store extra stuff, [[Wellby]] arrives, and the party decides to stay at the monastery for dinner. During dinner, they meet [[Basu]], the eccentric artisan who runs the workshop of the Lakan monks and is an expert in crafting magic items with extradimensional spaces. He is grumpy and upset, because no one will pay attention to his problems, everyone being too concerned with the strange omens. He explains that, beneath this monastery, there is an old elven ruin with a weak point between the planes. He uses the energy that spills out in the construction of magic items, but if it is not harvested it is likely to accumulate in strange ways. No one has bothered to go down in weeks, given the distraction of the omens. They also are introduced to [[Kassi]], the head librarian, and [[Johar]], [[Kenzo]]’s friend. There are a few other grumbles around the table, mostly about food and how it is scarce now, with the army camp and the refugees. 
 
-After dinner, they discuss the [[Tokra]] [[Archives]] with [[Johar]]; the clues and information he imparts is in [Seeker's Journal](https://docs.google.com/document/u/0/d/1S5M1wm5WHlFc2Zatn9YepfmNutGdjgSdo0oiTxPUWa4/edit). They also briefly discuss the Chardonian presence, which seems to [[Johar]] to be just a small contingent of mages, and [[Saka]], who [[Johar]] has not heard of. 
+After dinner, they discuss the [[Tokra]] [[Archives]] with [[Johar]]; the clues and information he imparts are in [Seeker's Journal](https://docs.google.com/document/u/0/d/1S5M1wm5WHlFc2Zatn9YepfmNutGdjgSdo0oiTxPUWa4/edit). They also briefly discuss the Chardonian presence, which seems to [[Johar]] to be just a small contingent of mages, and [[Saka]], who [[Johar]] has not heard of. 
 
 The next morning, after breakfast, the party meets [[Basu]] at his workshop and are led to the entrance to the [[Elven Arborea Workshop]] beneath the monastery, with three vials of prepared oil that must be placed near the leakage from [[Arborea]] to charge, before they can be used to construct magic items with extradimensional spaces. 
 

@@ -1,14 +1,18 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 33
+realWorldDate: 2021-10-24
+DR: 1748-06-20
+DR_end: 1748-06-30
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Sunday, Oct 24th, 2021; in Taelgar, June 20th to June 30th)
 
 The session starts as the party leaves [[Karawa]], heading west for [[Tokra]], traveling with [[Garret Tealeaf]], a horse-drawn cart laden with food and water and a false bottom hiding their magical mirrors, plus their horses and gear. The first day passes uneventfully along the open terrain, heading to connect with the ancient Drankorian trade road that runs east and west across northern [[Dunmar]]. There is light traffic passing through the desert, everybody eager to return to their normal lives. By the evening of the second day of travel, [[The Mirror of the Past]] had recharged enough to be used, and the party used it to look at the [[Floating Disc Coin]] found near the petrified form of [[Arcus]] in the fort east of [[Gomat]], seeing a [[Floating Disc Coin Vision|vision of its history]].
 
 As he watches this scene unfold, [[Garret Tealeaf]] is suspicious, afraid of the magic you have taken from the lairs of powerful creatures, worried that perhaps the owner of this mirror is watching you, somehow. 
 
-The third day of travel is interrupted when [[Seeker]] hears a voice in his mind. It turns out to be a Fey creature, [[Typhina]], who is currently trapped in the [[Ring of the Warded Mind]] [[Seeker]] obtained from [[Agata]]. She tells [[Ring of the Warded Mind#Typhina's Story|her story to Seeker telepathically]].
+The third day of travel is interrupted when [[Seeker]] hears a voice in his mind. It turns out to be a [[Fey|fey]] creature, [[Typhina]], who is currently trapped in the [[Ring of the Warded Mind]] [[Seeker]] obtained from [[Agata]]. She tells [[Ring of the Warded Mind#Typhina's Story|her story to Seeker telepathically]].
 
 On the fifth day of travel, the party passes a ruined aqueduct in the distance, and cannot resist the temptation to investigate. A Dunmari family of goat herders is camped here, and looks at the party strangely as they begin to climb over the aqueduct, exploring it. Eventually, they discover that a faint enchantment from Drankorian days still remains on this stonework, amplifying water that passes through the channel. [[Seeker]] constructs an earthen berm for easy access, so the Dunmari can use this as a small oasis in the desert, and the party spends the evening here, enjoying the food and company of the Dunmari herders. 
 

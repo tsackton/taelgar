@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 39
+realWorldDate: 2022-02-06
+DR: 1748-07-03
+DR_end: 1748-07-03
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Sunday, Feb 6th, 2022; in Taelgar, July 3rd)
 
 We begin as the party wakes in the pre-dawn light to search for signs of werewolves. Heading back to the lair of the [[Fraternity of the Empty Moon]], the guards there report no disturbances. While all seems quiet, the party decides to exit through the secret tunnel, and perhaps investigate the ruins of the Drankorian fort near the weak point to [[Pandemonium]] on their way north. 
 
@@ -16,11 +20,9 @@ The party quickly engages these new threats, which seem to fight in large part b
 
 As the fog of combat clears, the party searches the camp, finding another seven ritual spears, and retreats a bit, out of sight of the fogs of the [[Pandemonium]] rift, to interrogate the prisoners. 
 
-The [[Dunmari werewolf woman|woman]] was apparently a Dunmari, a refugee living in the camps outside [[Tokra]], an unwilling convert cursed with lycanthropy a few months ago, and brought into the cult by convincing her their was no cure, she had no choice. Promised a cure, she is willing to speak with the party. She says there was one other recent convert, a man named [[Umber]], also a Dunmari, but the rest were from the east. She also seems to feel like when the one who cursed her is near, she cannot think as clearly and the curse is stronger in her mind. She tells them a bit of the plan, that the mad one  who killed himself was meant to be the sacrifice that would summon [[Jinnik]]’s avatar, give the curse of lycanthropy new strength and power. 
+The [[Dunmari werewolf woman|woman]] was apparently a Dunmari, a refugee living in the camps outside [[Tokra]], an unwilling convert cursed with lycanthropy a few months ago, and brought into the cult by convincing her their was no cure, she had no choice. Promised a cure, she is willing to speak with the party. She says there was one other recent convert, a man named [[Umber]], also a Dunmari, but the rest were from the east. She also seems to feel like when the one who cursed her is near, she cannot think as clearly and the curse is stronger in her mind. She tells them a bit of the plan, that the mad one who killed himself was meant to be the sacrifice that would summon [[Jinnik]]’s avatar, give the curse of lycanthropy new strength and power. 
 
-##### The Werewolves’ Tale
-
-The [[Werewolf Prisoner|man]] is less cooperative. He was one of the members of the cult that traveled from the east, and is not willing to speak, until [[Seeker]]’s magic turns his mind and he opens up. He was apparently part of a pack of werewolves living in the desert near [[Kharsan]], until maybe a decade ago a charismatic leader showed up – the leader of the [[Fraternity of the Empty Moon]], now dead – and began preaching of a return of [[Jinnik]]’s curse, of power and freedom. His pack was quickly swayed, and joined the mission, which started with a way to get into [[Dunmar]], to avoid [[Shakun]]’s maze. The leader knew of an [[Agata|old witch]] who could help, but he needed powerful magic to trade to her. Until a few years later, his brother came home with a [[Things/Artifacts of Power/Scepter of Command|silver scepter]] that seemed to be quite powerful, and the leader knew this was what he needed. So the plan was set in motion. The leader left with the scepter and came back a few months later, telling them events were in motion. This was maybe two years ago. Then, a few months back he came and told us that all was ready. There was one thing he had to do first, create a distraction, but soon it would be time. We moved towards the border, and found great hordes of refugees fleeing west. It was easy to join them, and disappear in the throngs of strangers in [[Tokra]], where we set up a base and waited for the proper alignment of the planes. But there was a problem. [[Jinnik]]’s curse was too strong, we couldn’t penetrate the madness of the mists, but we needed to get in for the greatest effect of the ritual. We were stumped by this, until we heard a Dunmari man talking about a map, a clue and a secret. So we hunted him down. But the map was no good, or there was a secret we didn’t understand, but the hope was the Dunmari scholar we turned would solve it. That was a week ago. 
+The [[Werewolf Prisoner|man]] is less cooperative. He was one of the members of the cult that traveled from the east, and is not willing to speak, until [[Seeker]]’s magic turns his mind and he opens up, [[The Werewolf Prisoner's Tale|speaking of his history]].
 
 As the party finishes interrogating the captives, the story of the past few months becomes clear. The leader of the [[Fraternity of the Empty Moon]] found the [[Things/Artifacts of Power/Scepter of Command|scepter]], somewhere near or in [[Kharsan]], and traded it to [[Agata]] in exchange for her help getting them unnoticed into [[Tokra]]. This required two things: a way to create a refugee crises, and a way past [[Shakun]]’s maze. [[Agata]] gave the werewolf cult leader a scroll to summon a demon in order to provoke a border crises, and implemented her plan to lure [[Cintra]] out of [[Karawa]] with [[Heart of Shakun]] in order to lower [[Shakun]]’s defenses and allow the werewolves, and the gnolls created by the demon, into [[Dunmar]]. While the prisoner did not know all the details, you recall that [[Agata]] had a deal with the [[Centaurs]] to not travel or interfere in the north, and probably wanted to meet the letter, if not the spirit, of that agreement by putting as much distance between her and the gnolls as possible (although she also obviously twisted some for her own purposes, such as guarding the entrance to [[Shakun’s Wellspring]]).
 

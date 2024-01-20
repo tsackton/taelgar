@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 31
+realWorldDate: 2021-09-24
+DR: 1748-06-04
+DR_end: 1748-06-08
+players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 ---
-
-**(Friday, Sept 24th, 2021; in Taelgar, June 4th to June 8th)
 
 Our session begins at dusk, as the party establishes camp in a small canyon about 1 ½ miles north of [[Agata's lair]]. After an evening discussing the freed prisoners, the mirror, and what to do with [[Agata]]’s loot and lair, the party drifts off to rest, with [[Wellby]] on watch. [[Garret Tealeaf]], the elderly halfling, wanders over to talk for a bit, reiterating his fear of the magic from [[Agata]]’s house, and starting to open up about his experiences as [[Agata]]’s servant, especially the terrible screams he would hear from the hut at times, when a band of [[Orcs]] attacks by surprise.
 

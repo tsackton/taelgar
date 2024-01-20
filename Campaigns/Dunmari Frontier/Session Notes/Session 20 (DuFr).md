@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 20
+realWorldDate: 2021-02-27
+DR: 1748-05-02
+DR_end: 1748-05-05
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Saturday, Feb 27th, 2021; in Taelgar, afternoon of May 2nd to evening of May 5th)
 
 We begin at the entrance to [[Pava and Avaras' House]] in the desert, with these two old monks greeting the party, and [[Delwath]] especially with recognition and a note of caution. They welcome the group into their home, and over cool mint tea tell the story of how they found [[Delwath]], wandering, delirious in the desert, dying of thirst, perhaps 30 miles east of their home. He was muttering in a language they did not know, and looked wild, but not willing to leave him to die they brought him to their home. 
 
