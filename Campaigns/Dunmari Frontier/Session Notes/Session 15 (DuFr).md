@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 15
+realWorldDate: 2020-12-26
+DR: 1748-04-15
+DR_end: 1748-04-15
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Saturday, Dec 26th, 2020; in Taelgar, evening April 15th)
 
 Huddled by the side of a prominence of blue granite jutting out of the plains of [[Dunmar]], surrounded by a small calm spot in the howling storm, [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], and [[Wellby]] contemplate the stars. Specifically, the fact that one of the most prominent constellations in the sky, the [[Fox and Hunter]], is missing, although the rest of the sky does not look much different from what you would expect.
 

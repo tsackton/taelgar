@@ -1,59 +1,64 @@
 ---
-tags: [DuFr, status/unknown]
+tags: [session-note]
+name: "Dunmari Frontier - Kenzo Solo Session 3"
+campaign: Dunmari Frontier
+sessionNumber: 64
+realWorldDate: 2022-11-09
+DR: 1748-11-06
+DR_end: 1748-11-13
+players: [Kenzo, Enari, Izzarak]
 ---
-# Session 64, Dunmar Frontier
-*in which the party enters the tower and finds Hralgar*
-
-**In the real world:** Thursday, Feb 2nd, 2023
-**In Taelgar:** 23 Nov 1748
-
-## Summary
-[[Delwath]], [[Seeker]], [[Riswynn]], and [[Wellby]] chase a possessed [[Kenzo]] into the storm, braving lightning and wind to reach [[Stormcaller Tower]]. There, they meet the giant [[Hralgar]] in his dreamscape, and tell tales that lead him to a clear understanding of his situation. 
-
-## Notes and Information
-
-Start: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormcaller Tower]]
-End: 23 Nov 1748, evening, in Hralgar's dreamscape
-
-#### Character Advancement
-- [[Seeker]], struck full on by a magical lightning blast in [[Hralgar]]'s storm, infused with the giant's magic, learned the Shocking Grasp cantrip while nearly being fried to death. 
 
 ## Timeline
 
-- (DR:: 1748-11-23): *(late afternoon)* Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. 
+- (DR:: 1748-11-06): Speak with [[Somi-nai]]. Cross the lava river, and proceed to the flooded jungle. Commune with an ancient tree; find the dryad [[Eleuha]]; avoid a maelstrom whirlpool dragging everything it touches into an endless watery void; confront [[Motua]] and heal their wounds, freeing them of the bindings that weakened and sickened them; meet [[Lengau]], the jaguar spirit guardian of the jungle.
+- (DR:: 1748-11-07) - (DR_end:: 1748-11-12):  Spend time in the jungle with [[Motua]] and [[Lengau]]
+- (DR:: 1748-11-13):  [[Izzarak]] decides to remain and care for the babies, whatever they will become; [[Kenzo]] plane-shifted to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]], to Lastlight Falls, by the magic of [[Lengau]]
 
 ## Narrative
 
-We begin as the party stands outside the swirling storm around [[Stormcaller Tower]], listening to the news the winds bring, while deciding what to do as [[Kenzo]] mediates and communes with the storm, trying to learn more of it. Suddenly, [[Kenzo]] is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [[Riswynn]] and [[Wellby]] get the animals settled while [[Delwath]] and [[Seeker]] get [[Hralgar's Eyes]] from the [[Portable Hole]], hoping to convince Hraglar-as-[[Kenzo]] to make the storm safe. To no avail, for [[Kenzo]] says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party  pushes through the storm, following [[Kenzo]]. 
+We begin at the edge of a river of lava in the jungle, the party considering how to cross. [[Kenzo]] easily jumps the distance, while [[Izzarak]] polymorphs into a pterodactyl to fly across with [[Enari]]. Proceeding into the jungle from the other side after a brief rest, [[Kenzo]], [[Enari]], and [[Izzarak]] find themselves heading towards a large expanse of flooded jungle. 
 
-![[hralgar-storm-nov-1748-2.png]]
+Venturing into the flooded area, with the two lizardfolk swimming comfortably and [[Kenzo]] running across the water, [[Kenzo]] looks for a tree to speak with, to understand more about what is happening here. Communing with one of the biggest and older trees he can find, [[Kenzo]] speaks with Tree. Tree complains that everything has fled the jungle, the birds no longer sing in his hair and his roots are wet, and it is caused by [[Motua]]. Tree then tells [[Kenzo]], who is hoping for more information about [[Motua]] and the jungle, to speak with his children, specifically his daughter-tree who is inhabited by a spirit of the jungle. [[Kenzo]] listens to [[Tree’s story]], collecting it for the [[Order of the Awakened Soul]], and then reverently ends his communion with Tree. 
 
-Deep into the storm, [[Hralgar]]'s whispers echo in [[Wellby]]'s mind, asking him what he would like to see. Asking for a vision of the place where the [[Cloak of Rainbows]] rests, [[Wellby]] feels a splitting pain in his head and then his vision is carried away, blown east on the wind, seeing a river, farms, irrigation canals in the desert, a castle built into the cliffs, and sitting on the throne of the castle is an [[Orcs|orc]], wearing the [[Cloak of Rainbows]]. 
+The party heads into the water in search of Tree’s daughter, noticing as they do that there is a current that is getting stronger and stronger as they head into the center of the jungle, following [[Kenzo]]’s intuition and sense of the jungle to find the right way to reach Tree’s daughter. After finding the tree-spirit, [[Eleuha]], [[Kenzo]] speaks with her. She knows the babies that [[Izzarak]] defends, saying they are the children of [[Lengau]], the spirit of the jungle, and giving [[Kenzo]] a hard time for a mediocre babysitting skills ([[Izzarak]] and [[Enari]] are scouting underwater). [[Eleuha]] tells them that [[Lengau]] has fallen silent, been lost, an thinks it has something to do with [[Motua]]’s arrival. The babies are the newest children of [[Lengau]]: shapeshifters, children unfixed in form, typically cared for by the jungle, taking on the form of those they love. Every once and while, when [[Lengau]] grows old and tired, one of his children will become him reborn, become the new guardian of this land. [[Eleuha]], the dryad, also tells them that if [[Motua]] would go away, somehow, it feels to her like [[Lengau]] would return and all of the troubles of the jungle could be fixed.
 
-As [[Kenzo]] picks up the pace, and lightning strikes [[Riswynn]], the party finally makes it to the tower itself, the great cliff of stone that they now know is a crashed airship, [[Vindristjarna]]. [[Kenzo]] is glowing now, lightning flashing from his eyes, as he turns and runs up the path to the tower. He turns angry, shouting 'Go!', as he disappears into the tower itself, a wall of wind and clouds forming behind him. 
+The party follows the current, pulling them closer to the maelstrom of water that forms a vortex to the elemental plane of Water. Despite a few tense moments, as [[Kenzo]] falls and is forced to swim before being dragged to safety by [[Enari]], and [[Izzarak]] needs to turn into a fish to make his way past the strong currents, the party mangages to navigate around the whirlpool vortex and finds themselves in a densely overgrown, misty island of dry land at the center of the [[Azta Lekua|Footprint of the Gods]].
 
-Attempting to follow, [[Delwath]] uses the magic of the tanshi to clear some of the fog, revealing storm elementals hiding in wait. Deciding to get past them quickly, the party launches into the air, between [[Wellby]]'s wings and [[Delwath]]'s spells, and briefly harasses the elementals to keep them occupied as the party hurries past in the air. 
+The party cautiously moves through the understory, the occasional glimpse of a serpent-like creature moving in the corner of their eyes, until [[Kenzo]] stops and yells “[[Motua]]! We are here to end your pain, we are here to help!” Suddenly, appearing in front of the party, is [[Motua]], a thirty foot long serpentine creature, feathered, with an almost cat-like head, and with three wounds cut through its body, from each wound three writhing black chains of dark, necortic energy binding [[Motua]]. 
 
-Arriving at the tower, the party flies up to the fourth floor, where the statue of Hraglar sits. The storm seems to echo inside the tower, lightning illuminating the walls
+Screaming in pain, [[Motua]] attacks, swinging their tail at [[Kenzo]], who dodges at first, but then is struck, seeing in the moment of contact that the wounds are not physical wounds, or not just physical wounds, they (and the chains) extent to the spiritual realm as well, fragments of dreams buried in the wounds. [[Kenzo]] reaches out and becomes part of the wound.
 
-![[stormcaller-tower-interior.png]]
+[[Kenzo]] sees a lonely warrior, nondescript, at the end of their life, forgotten, afraid of dying alone and nobody caring, their sword hanging uselessly at their side. They look up, saying “I am forgotten, aren’t I. No one remembers me.” His dejected, lonely face turns to surprise when [[Kenzo]] offers to [[Nameless Chardonian Warrior's Story|tell his story]], collecting it for the [[Order of the Awakened Soul]], despite the warrior’s insistence that his life had little meaning, his captain the one who won glory in battle, his brother who achieved wealth in life, with a beautiful family and accomplished children. As he tells his story, the image of the warrior fades, and the face of [[Motua]] appears.
 
-Ascending the stairs to the top floor of the tower, the party is not surprised to emerge in a mountaintop domain, giant-sized stairs leading to a massive palace in the distance, as this happened last time as well. Walking down the stairs is a giant, blind, being led by a much smaller person -- [[Kenzo]]. The giant, [[Hralgar]], invites them to come speak and tell tales. [[Kenzo]] seems not to recognize anyone in the party, and says he is the giant Jorundr, a friend and companion of [[Hralgar]]'s. 
+“No. That is not my story. I am eternal. I protected souls like him. Until a year ago, a creature came to the River of the Dead, a shadowy, skeletal figure, where a long black cloak, carrying a wicked glaive, and wearing a burning ring of dark fire on his hand.” 
 
-Settling in the palace, the party proceeds to tell stories, trying to lead [[Hralgar]] to the idea that he is trapped by telling tales that hint in that direction. After some discussion, during which it is clear that [[Hralgar]] believes it is still during the [[Drankorian Empire]], when a man named [[Akaston]] is Emperor, the party launches into their tales. [[Delwath]] tells of his time trapped in the shadow realm, of the tanshi, the Meswati and how they were freed. [[Hralgar]] seems to see echoes of this future on [[Delwath]], and is confused, as he says [[Delwath]]'s life seems a circle. 
+Meanwhile, in the jungle, as the first wound closes the chains slither forward, attacking [[Izzarak]], as shadows begin to emerge from the ground, bearing down on [[Enari]]. As [[Izzarak]] animates the forest to fight back against the chains, [[Kenzo]] merges with the second wound.
 
-![[hralgar-mountain-palace.png]]
+[[Kenzo]] sees a nondescript traveler in a vast, empty desert, lost, dying of thirst, seeming to be trying to scratch out a letter or a note on a stone. She looks up as you appear, croaking, “I am dying. I have no paper to write with.” [[Kenzo]] offers to tell her story, asking her what must be written, that they can do this together, but she says she just needs to write a letter to her family, one more time, tell them they are loved, tell them that she lived a good life, that she knew the risks, that they should not refuse to live their lives because she is gone. 
 
-Pausing in thought he turns to [[Wellby]] as he begins to speak who tells a story of a wizard who trapped a prince, building a prison for him that the prince would forget was a prison. The story resonants, but not how [[Wellby]] intended. [[Hralgar]] hears only his own shame and anger in this tale, telling [[Wellby]] that doom is coming, and there are fates worse than dreaming. 
+As [[Kenzo]] asks her name, she begins to fade, and emerging from her mouth is a miniature version of [[Motua]], who begins to grow. “They do not have names anymore,” [[Motua]] says, and continues telling their story. “The creature, the skeleton, he carried with him a scroll, an ancient thing of power. As he spoke the words on the scroll, it burst into dark fire and turned to ash, and the ring grew brighter, wrapping around his glaive, encasing it flames of shadow. As he walked, he burned marks with his glaive in the very fabric of the land, marks that pulsed with a heartbeat, with life in this lifeless place. And I could not let that stand.”
 
-[[Seeker]] then tells the tale of the Heroes of the [[Great War]], how they found a flying castle, had many adventures, and eventually defeated [[Cha'mutte]]. [[Hralgar]] focuses on [[Seeker]] for the first time, sensing something about him, speaking of a phasing stone, the ancient core that powers skyships, and which apparently was the crystallized magic that crashed into the Crystal Mountain in the [[Feywild]] and eventually became [[Seeker]]'s gauntlet. He tells [[Seeker]] if anyone should carry it, it should be a [[Dwarves|dwarf]], and then speaks of the crashed skyship on the plains.
+In the jungle, although [[Izzarak]] has destroyed some of the first set of chains, three more chains burst forth as the second wound begins to close. With the necrotic shadows clawing at him, [[Kenzo]] enters the third and final wound. 
 
-Finally [[Riswynn]] tells her story, the story of her journey to [[Morkalan]] and the people who were trapped there, how the object she bore, the [[Chalice of the Runepriest]], was the key to liberating those trapped from their prison. 
+[[Kenzo]] sees a holy warrior, a paladin, fighting a hopeless battle against dozens of monsters, their forms constantly shifting. Behind them is a door, and people fleeing, trying to get out, trying to escape, while the paladin stands holding back the horde. The warrior, seeing [[Kenzo]], speaks: “I don’t know how long I can last. I am afraid of dying, afraid it will hurt. My spirit may not be strong enough to hold on, for everyone to flee.” [[Kenzo]] offers to tell his story, ensure it lives forever, but the warrior does not seem to care. “I do not fear the death of my story,” he says, “I fear that I will not have the strength to do the right thing, that even with my sacrifice it will not be enough, and I will be damned, my soul consumed by the Nine Hells.” [[Kenzo]] moves to join the warrior in the fight, but it does not seem to be enough, or what is needed, to heal this wound.
 
-With [[Riswynn]]'s story, and [[Delwath]] commenting on how similar each day was in the shadow realm, and encouragement from the rest of the party, he seems to finally notice the lack of weather here in his dreamscape. Something breaks in him, and he speaks through [[Kenzo]] as lightning flashes from [[Kenzo]]'s eyes and fingers, saying he knows the eyes are here, and to give them to him. As [[Hralgar]] grabs [[Wellby]] lifting high into the air, [[Wellby]] sees what looks like a ghosty, haunted echo of [[Hralgar]] flicking behind him, and [[Hralgar]] agrees to [[Hralgar's Story|tell his story]], seeming to come back to his full memory, realizing that this place is not real and that he has dreamed of [[Kenzo]], and [[Kenzo]] has dreamed of him. And he asks for his eyes again. 
+Meanwhile, in the jungle, [[Izzarak]] continues his battle against these chains. The wrath of the jungle manages to destroy some of them, but the rest swarm around [[Izzarak]], battering him. 
 
-And then [[Kenzo]] opens his eyes, confused, shaken from the possession by [[Hralgar]]'s lucidity, a [[Kenzo's Memories of Hraglar|blur of memories]] coming back to him in a rush, recalling the words of the binding spell that ensnared [[Hralgar]] and how to break it, by reciting the first lines of A Lament for Lost Thunder, an elvish poem by Nelawe. 
+In the wound, [[Kenzo]] sees the warrior looking around in a panic. “I don’t think it matters what I do, I can feel the cage closing in on me. I’m just going to run, there is no redemption for me.” As [[Kenzo]] throws all his strength at the warrior, draining his own energy, he experiences the sweep of the warrior’s life. Growing up on the streets, no parents, never finding anyone to give him a helping hand. Turning to thievery, banditry, eventually robbing caravans. In middle age, a price on his head, finding his way to a Temple of the Wilding (one of the [[Mos Numena|Eight Divines]]), saying to the priest that he cannot go on like this. Rumors of monster attacks, trolls raiding villages, asking the priest if it would be enough, if he repaid what was taken from them. The priest assuring him that the Wilding will look after him. [[Kenzo]], then, turning to him, telling him, “I know your story. I know your journey. I’ve walked the path myself. I grew up with no parents, I grew up alone, poisoned, abused. It was only by sheer luck I was taken in by someone who could teach me. Redemption is before you.” As [[Kenzo]] finishes speaking, the warrior runs into battle, and the wound closes. 
 
-As the party rushes down the stairs, they emerge by the statue and attempt to find a way to return the eyes while reciting the poem, but the sounds of thrashing from above quickly make it clear this is the wrong approach. We end as the party rushes back up the stairs, to the sight of the haunted, ghostly version of [[Hralgar]] attempting to strangle the giant in the [[dreamworld]]. 
+And [[Kenzo]] sees now that it is not the warrior fighting, it is [[Motua]]. They are in a battle with the skeletal creature – [[Grash]] – and with each swing of the glaive, each strike, a gaping wound opens, and from each wound necrotic chains emerge, binding [[Motua]]. [[Motua]] becomes weaker and weaker, moving slower and then not at all, tumbling from the [[Land of the Dead]]. As they do, [[Grash]] staggers back, exhausted but triumphant, the ring on his hand glowing, tendrils of energy reaching out from it, grasping souls from the [[Land of the Dead]], pulling them through the marks that [[Grash]] carved with his glaive and the magic of an ancient scroll. 
+
+As [[Kenzo]] emerges again, battling the last of these necrotic chains with [[Izzarak]], one manages to penetrate his soul, wrapping around him, but the rest are defeated, and [[Motua]] goes calm. They bow their head in gratitude, and [[Motua]] and [[Kenzo]] commune together, experiencing a vision of the thousands of souls [[Motua]] has sheparded to their fates. In their communion, [[Kenzo]] senses the rush of ki, the richness of the symphony of ki here in the jungle, which flows into his staff. 
+
+Meanwhile, the party hears the low growl of a jaguar pacing through the jungle – [[Lengau]]. He approaches, greeting the babies, thanking [[Izzarak]] for keeping open the door through which [[Lengau]] could travel, clearly implying that it was only the presence of the babies [[Izzarak]] guarded and guided to this place that allows [[Lengau]] to appear here. [[Lengau]] says he will restore the jungle, with [[Motua]]’s help; [[Izzarak]] also volunteers to remain and raise the babies here, and see how he can help bring the jungle back into balance. 
+
+We end as [[Kenzo]] prepares to depart to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]], after spending some time learning from [[Motua]] and [[Lengau]], to be plane-shifted to Lastlight Falls, where he will meet his friends in the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]].
+
+
+
+
+
+
 
 

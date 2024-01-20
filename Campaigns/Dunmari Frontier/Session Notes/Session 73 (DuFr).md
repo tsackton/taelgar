@@ -1,64 +1,53 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 73
+realWorldDate: 2023-03-17
+DR: 1748-11-24
+DR_end: 1748-11-24
+players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 ---
-*in which enemies are interrogated and plans are made
-
-**In the real world:** Thursday, July 13th, 2023
-**In Taelgar:**  Dec 8 - Dec 10, 1748
-
-## Summary
-
 ## Notes and Information
+*in which the party retrieves the phasing stone from the Dreamworld*
 
-Start: early morning, Dec 8th
-End: early afternoon, Dec 10th
+[[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]], and [[Riswynn]] venture into the darkness of Hraglar's library, and from there into the [[dreamworld]], where they faced the puzzles and traps of Kurome, a creature of nightmares, who they eventually defeat by dreaming the phasing into the [[Portable Hole]]. When they wake up, quickly realize they are still dreaming, but are able to find their bodies and return to the material world before they freeze to death. 
 
-#### [[The Mirror of the Past]]
-- (DR:: 1748-12-09): Eudomes Mirror used to look at the [[Cloak of Rainbows]]: [[Mantle of Protection Vision]] (recharge:: mirror)
-
+Start: mid-morning, Nov 24th 1748
+End: evening, Nov 24th 1748
+#### New Treasure
+- A [[Phasing Stones|Phasing Stone]], key to controlling the skyship [[Vindristjarna]]
+- Notes on the mechanics of skyships from [[Hralgar]]'s library
+- Three giant-sized books, all written in Giant: a notebook on the history of [[Vindristjarna]], a book of etiquette on entertaining the smaller races, and a book of recipes.
 ## Timeline
-- (DR:: 1748-12-09): The prisoners are interrogated and plans are made.
-- (DR:: 1748-12-10): *(morning)* [[Delwath]], [[Seeker]], [[Wellby]], and [[Kenzo]] leave for the north to destroy the [[Scepter of Command]]
 
-## New Treasure
-
-- [[Boots of Speed]] from [[Hektor]], taken by [[Wellby]]
-- A magical halberd from Hekor, given to [[Murook]]
-- [[Casian]]'s chalyte spellbook, kept by the party
-- [[Kadmos]]' spell gem than can cast conjure greater demon, kept by the party
-- [[Kadmos]]' shadowfell brand tattoo, taken by [[Kenzo]]
-- [[Kadmos]]' [[Rod of the Pact Keeper]], an iron rod decorated with a bejeweled skull, taken by [[Delwath]]
-- The [[Ever Spinning Top]] from [[Agata's lair]], recovered by the party
-- [[Antonia]]'s [[Chime of Opening]], taken by the party
-- A large number of potions and minor items:
-	- 1 healing potion (superior)
-	- 2 healing potions (greater)
-	- 3 healing potions (lesser)
-	- a potion of water breathing
-	- a potion of watchful rest
-	- a potion of hill giant strength
-	- a potion of endurance
-	- 18 beads of nourishment
-- A foldable boat, that turns from a 12 inch by 6 inch by 6 inch box into a 16 foot long, 6 foot wide, 3 feet deep boat with two pairs of oars and a single sail, that can comfortably hold 8 Medium creatures. Taken by the party. 
-- A gilded skull of a halfling, taken from [[Kadmos]]
-- Miscellaneous goods, gear, and coin, given to the [[Orcs]]:
-	- [[Antonia]] has smith's tools, two small diamonds, a nice non-magical silver and pearl ring, and a small pouch with 200 silver coins, 30 gold coins, and 10 low-quality freshwater pearls
-	- [[Casian]] has his arcane focus (a chalyte wand), a pearl, three rings, and a small pouch with 200 gp and four silver brooches
-	- [[Kadmos]] has an ornate silver mirror
-	- The other adventures have collectively 300 gp worth of mixed gold and silver coins. 
-
+- (DR:: 1748-11-24): *(afternoon)* Venture to the library, and find their way to the [[dreamworld]], where they encounter the tricks of Kurome. Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [[Hralgar]]'s library about skyships. Depart to return to the crash of [[Vindristjarna]] at dusk, with [[Hralgar]]'s wind blessing.
 ## Narrative
 
-We begin as the battle ends, and the party collects and sorts through the gear from [[Kadmos]] and company. [[Kadmos]], and the sorcerer [[Evelina]], lie dead on the ground: [[Evelina]] killed in battle, [[Kadmos]] executed afterward. The remainder of the enemies are trapped in the mirror, after having been put to sleep by [[Delwath]]'s magic. After tending to [[Lubash]], [[Riswynn]] turns to [[Seeker]] to try to remove whatever icy curse clings to him, despite [[Seeker]]'s insistence he is fine. However, normal restoration magic does not seem remove the curse - instead, it just makes it briefly visible, as a small icy flying gargoyle-like creature clinging to [[Seeker]]'s back. Something of ice is needed to drag the curse away from [[Seeker]]. [[Delwath]] attempts to banish it with his sword, but as it is fey, not a fiend, this has no effect. Deciding this is a problem for the morning, the party rests, planning to interrogate the prisoners in the morning.
+We begin as the party finishes a short rest, warmed by [[Delwath]]'s hot drinks. During the rest, visions of the cold thoughts and memories of the ice maiden, recently killed, haunt the visions of the party.
 
-The next morning, the party has a late breakfast with [[Lubash]], [[Murook]], and [[Azogar]]. They report the recent news, that [[People/Other Nonhumans/Grash]] has begun slaughtering his army, seeking to turn them into undead. There is some discussion of the metaphysics of this situation, and whether the undead are still bound by [[Thark]] and thus unable to enter [[Xurkhaz]], but ultimately it seems the risen [[Orcs|orc]] zombies are a more serious threat than [[Lubash]] anticipated. Several options, including protecting the city from undead with [[Riswynn]]'s magic while those who can flee, are discussed.
+*The wind blows harshly, the gusts carrying swirling bits of ice and snow, the shattered remains of the ice maiden's heart, carrying her memories of winters past.*
 
-The party then interrogates the prisoners, starting with [[Valius]], the archer twin. After his cell is combined with [[Vargus]]', his twin brother, [[Valius]] begins to speak in response to [[Delwath]]'s patient questions. He speaks of how he and his brother were mercenaries after they left the [[Chardonian Legion]], traveling around, searching for a rumored lost dragon treasure in the mountains on the border of the [[Mawakel Peninsula]], that kind of thing. But they were always more inclined to drink and eat and talk at pubs than actually find treasure, and eventually broke they ended up back in [[Chardon]], signing up to hunt for treasure for the [[Society of the Open Scroll]]. After a few successful trips, [[Fausto]] sought them out, paying well but always pushing them to be a little more ruthless. When [[Vargus]] tried to get out, [[Fausto]] did something to him, with this cold iron crown, the [[Crown of Purity]]. From them on, [[Valius]] did what [[Fausto]] said, to keep his brother alive. Eventually, they were sent with the sorcerer [[Evelina]] to travel east, looking for old artifacts from [[Drankor]], ending up in the [[Orcs]]' territory, spying and scouting. From [[Valius]], the party also learns a little more about [[The Cleansed]]. Their memories and personalities are not gone, just suspended: occasionally [[Vargus]] would have lucid moments, and talk about it feeling like a fog had lifted, but then the mists would close in again. 
+*You see light snow blowing around a man walking alone, struggling to climb the sloping road - track, really - zigzagging up the side of the mountains towards the high pass. His horse is favoring her left side, and the man walks at her side. Although dressed in a heavy cloak and warm boots, he shivers occasionally, looking up at the mountains. The weather is not a serious threat to him, not yet, but as you begin to blow on the ice in your hand, it crackles, hissing and spattering, and the air begins to freeze. A gentle breath and a wave, and the frozen air drifts, growing and gathering into a stormcloud, then a blizzard. The traveler looks with dismay as the weather turns, the snow picking up, visibility dropping. Soon his body will be frozen on the road, and the slithering shadows below will have their fill of his last dreams of despair before his peaceful slide to a never ending sleep. 
 
-Next, the party talks to [[Antonia]]. It is clear after talking to her for a few minutes that she quite dislikes [[Orcs]] and undead, and believes that [[Drankorian Empire|Drankor]] is destined to be restored to greatness. [[Antonia]] does not know that [[Apollyon|Apollyon]] is undead; she clearly believes that finding the cloak, scepter, and crown is all required to restore him to life, to resurrect him. She believes that [[Vargus]], [[Vola]], and [[Hektor]] volunteered to be purified, cleansed of their impure blood, and the process went wrong. She believes [[Fausto]] is working to fix the process, to make it safe, so all humans can be cleansed and purified for the new dawn of the [[Drankorian Empire]]. It takes some time, but eventually [[Delwath]] convinces her that [[Apollyon|Apollyon]] is a trapped undead and [[Fausto]] seeks to free him, not resurrect him. This seems to shatter her resistance, and she tells the party what she knows. [[People/Other Nonhumans/Grash]] has presumably spoken via Sending with [[Casian]], and is likely on his way to attack the city. He suspects the party has the [[Scepter of Command]], from talking to dead werewolves outside [[Tokra]], and if he gets the cloak and the scepter, [[Apollyon|Apollyon]] can return in full power. The party agrees to leave her in the mirror for a year or two, and possibly release her in exile in the north, near [[Voltara]], when [[People/Other Nonhumans/Grash]] and [[Fausto]] are dead.
+*Another memory, another image of a traveler, freezing in the mountains. Again, and again, the years drifting back, until the crackle of the fire shakes you awake, and you look around at your companions, glad to see living flesh and blood and not frozen corpses.*
 
-After some discussion, it is decided that [[Riswynn]] will remain and defend the city from the undead, with her divine magic, while the rest of the party flies north to destroy the scepter, preventing [[People/Other Nonhumans/Grash]] from ever obtaining it. With this decided, the party speaks with [[Casian]], who is dismissive and rude, insisting he will be rescued when [[People/Other Nonhumans/Grash]] comes, up until the minute he is slain. 
+As the rest ends, [[Seeker]] has wandered off from the fire, and is enjoying a meal of the remnants of magical ice that linger where the ice maiden was destroyed. The manages to quickly get everyone oriented, however, and heads into the darkness of the library, where even the powerful daylight of the driftglobes sheds only a weak, dim light. 
 
-Finally, as the days passes noon, the party looks at the [[Cloak of Rainbows]] in [[The Mirror of the Past]], seeing the [[Mantle of Protection Vision]]. Then, [[Riswynn]] begins casting the Hallow spell, to bless the throne room, which takes 24 hours. The next day, as the spell casting is done, [[Seeker]] is reluctantly dragged into the room, freeing him of the fey curse of ice. 
+In the library, the party does not find the phasing stone, but does find a strange doorway that shifts appearance based on whomever looks at it. When [[Delwath]]'s moth scout enters but does not return, the party ventures into the doorway, which opens into a long hallway that seems to continue endlessly in both directions. 
 
-We end as [[Riswynn]] sets herself to casting Forbiddance, and the rest of the party turns north on [[Vindristjarna]] to destroy the scepter. 
+![[nightmare-maze-corridor.png]]
+
+The corridor leads to an empty throne room, with an empty small side chamber next to it. As the party begins to better understand this place and realize they can attempt to shape it with their thoughts and wishes, a silver bowl of shaved ice appears that [[Seeker]] tries to eat. The party experiments a bit with keeping [[Seeker]] from the ice, and then decides to try to clear their minds.
+
+[[Kenzo]] leads the group in meditation, and one by one the party clears their minds, except for [[Seeker]], who is having trouble focusing on emptiness. The throne room vanishes, the ice melts, and all that is left is an empty expanse with small pools of silver water. A clockwork cat approaches one of the pools, and begins to drink. The mechanical cat approaches [[Seeker]], and falls into a pile of gears at his touch; as the cat collapses, a wind picks up, cold with the taste of ice. A giant hand emerges from the ground, pointing in the direction of the wind.
+
+[[Seeker]], along with the heroic [[Ladder]] now sporting a dozen or more medals of honor, leaps to head in that direction, and the party follows. As the wind grows more intense, flashes of imagines can be seen, people struggling against snow and ice, freezing slowly until a round pulsating stone, the phasing stone, falls out of one of their hands. 
+![[phasing-stone.png]]
+
+The party dives through the floor into an empty space, in which the phasing stone floats. 
+
+![[nightmare-empty.png]]
+
+After a few failed attempts to capture it, the party realizes that working together is the only way to outdream Kurome. [[Seeker]] dreams a storm of hail and snow pelting the stone, which bursts into flame; [[Delwath]] dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [[Riswynn]] then dreams a wall of fire scorching the ice, and [[Kenzo]] adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [[Wellby]]'s dreaming: the [[Portable Hole]]. 
+
+With that, the party seems to be awake in the library. Using the [[Dream Mirror]], they realize that they are still dreaming, but quickly find their freezing bodies at the campsite, and wake themselves up. After another round of warming drinks, the party spends the last few hours of the afternoon copying notes and finding books in [[Hralgar]]'s library before returning to the crashed airship via cloud travel at dusk.

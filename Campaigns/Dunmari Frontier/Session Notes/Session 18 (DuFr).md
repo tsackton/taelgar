@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 18
+realWorldDate: 2021-02-05
+DR: 1748-04-24
+DR_end: 1748-04-24
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Friday, Feb 5th, 2021; in Taelgar, afternoon of April 24th)
 
 We open in a bare room, the party, [[Candrosa]], and [[Alesh]] clustered around a map, discussing the gnolls, what [[Alesh]] found in the south, the events at [[Raven's Hold]], and [[Agata]] Dustmother. The conversation is wide-ranging, touching on many subjects.
 

@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 19
+realWorldDate: 2021-02-13
+DR: 1748-04-24
+DR_end: 1748-05-02
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Saturday, Feb 13th, 2021; in Taelgar, afternoon of April 24th to afternoon of May 2nd)**
 
 Having decided to leave [[Karawa]] for the deserts and the blasted plain to the east, traveling with [[Havdar]] and his band, the party spends a few days taking care of business in [[Karawa]]. You find a place to store the loot you are not planning on taking into the desert; [[Candrosa]] offers space in the outbuildings of the [[Temple of Shakun]], where it will hopefully remain safe. Each time you see him he seems as if he is wrestling with a decision, but with the preparations for the expedition you don’t have time to speak in more depth with him.
 
@@ -16,6 +20,6 @@ Upon ending the vulture threat, the party enters the Temple, which appears to ha
 
 Taking this as a sign, the party decides to enlist the aid of [[Havdar]]’s band in helping [[Amil]] finish his work in [[Bas Udda]], and then part company with [[Havdar]] to travel to the stone house of [[Pava]] and [[Avaras]]. It takes the rest of the day and the first part of the morning to find, bless and lay to rest the remaining bodies of the dead Dunmari, but with [[Havdar]]’s warriors helping dig through the ruins it goes quickly. [[Havdar]] and his band give [[Wellby]] careful directions to where they intend to set a base camp, and then depart, while the party leaves with [[Amil]] towards the [[Pava and Avaras' House|stone house]]. 
 
-The party leaves [[Bas Udda]] the afternoon of April 30th, and that afternoon and the next day are uneventful. On the next day, May 2nd, they expect to arrive in the afternoon. While traveling down a canyon to a shaded spring that [[Amil]] knows, hoping to spend the noon hours resting in the shade, they notice something is not right. [[Wellby]] goes ahead to scout, and finds three ogres sleeping in the sun, but manages to accidentally wake one. As he begins to negotiate, the orge instead decides that a halfling would be a good snack, and begins to chase [[Wellby]] back to the party. In the ensuing battle, the ogres are dispatched with only some minor difficulty. 
+The party leaves [[Bas Udda]] the afternoon of April 30th, and that afternoon and the next day are uneventful. On the next day, May 2nd, they expect to arrive in the afternoon. While traveling down a canyon to a shaded spring that [[Amil]] knows, hoping to spend the noon hours resting in the shade, they notice something is not right. [[Wellby]] goes ahead to scout, and finds three ogres sleeping in the sun, but manages to accidentally wake one. As he begins to negotiate, the orge instead decides that a [[Halflings|halfling]] would be a good snack, and begins to chase [[Wellby]] back to the party. In the ensuing battle, the ogres are dispatched with only some minor difficulty. 
 
 The session ends with the party arriving at the [[Pava and Avaras' House|stone house]], [[Amil]] running ahead to tell his masters who is here, and [[Pava]] and [[Avaras]] standing outside to greet them.

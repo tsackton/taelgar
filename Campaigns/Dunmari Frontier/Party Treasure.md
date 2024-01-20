@@ -259,7 +259,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - The Boulder-Ladder, the hero of the[[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
 ### Destroyed or Used
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
-- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 63 (DuFr)]].  %%SECRET[52]%%
+- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[52]%%
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
@@ -268,14 +268,14 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- Spectral prism (used for rainbow bridge)
 	- Four silver bars (used for cloud generator)
 	- Four vials of mercury (used for rainbow bridge and cloud generator)
-- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 80 (DuFr)]] %%SECRET[53]%%
-- [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 75 (DuFr)]]
+- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] %%SECRET[53]%%
+- [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 81 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
-- [[Elven Shadow Breastplate]], given to Umli in [[Session 74 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
+- [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
 - [[Dunmari Shield]] (uncommon major item), used to make the adamantine required for the phasing stone harness on [[Vindristjarna]]
 - A perfect emerald hung on a silver chain (1000 - 2000 gp, from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] %%SECRET[26]%%
 - [[Horn of Silent Alarm]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[Motua]]'s rescue.
-- Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 61 (DuFr)]]. 
+- Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 67 (DuFr)]]. 
 - Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in the fight with [[Kadmos]] and [[Casian]] in [[Session 44 (DuFr)]]. 
 - Leech Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut. (used in battle)
 -  [[Helm of Iron Will]]. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Raven's Hold]]. Used to protect Delwath in battle against [[Agata]]. 
@@ -345,10 +345,10 @@ The following mundane items are kept on [[Vindristjarna]]:
 - 1/2 a gold bar, weighing 5 lb, from the Elemental Forge. Given to Faldrak as partial payment for magic item construction. 
 - A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves at the elemental forge. Given to Faldrak as partial payment for magic item construction. 
 - [[Hralgar's Eyes]] (legendary major item*, party), returned to [[Hralgar]] as part of freeing him.
-- [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 78 (DuFr)]]
-- [[Arcane Grimoire]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 78 (DuFr)]]
-- Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 78 (DuFr)]]
-- [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 78 (DuFr)]]
+- [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 84 (DuFr)]]
+- [[Arcane Grimoire]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 84 (DuFr)]]
+- Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 84 (DuFr)]]
+- [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 84 (DuFr)]]
 - [[Black Iron Staff]],  given to the [[Archives]] in [[Tokra]]. 
 - 175 gp wereguild for bandits, given to [[Johar]] to get to families 
 - Locket from [[Halflings|halfling]] killed by chimera. A silver locket with a faded painted portrait of a [[Halflings|halfling]] inside. Found in [[Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]].
@@ -366,6 +366,6 @@ The following mundane items are kept on [[Vindristjarna]]:
 - [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) %%SECRET[60]%%
 ### Stolen or Lost
 
-- [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 73 (DuFr)]]
+- [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 79 (DuFr)]]
 -  A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].
 -  Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].

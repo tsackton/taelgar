@@ -21,7 +21,7 @@ The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beau
 
 %%^Campaign:DuFr%%
 
-Her memories opened [[Session 61 (DuFr)]]:
+Her memories opened [[Session 67 (DuFr)]]:
 
 *As a group of travelers gathers here, some reunited after a long separation, others newly met, the Cloudspinner feels their presence even from her prison, far away, and she drifts in thought.
 

@@ -27,4 +27,4 @@ Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to 
 
 Urgall was (is) an outcast from Skaer society. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered the [[Green Sea]], eventually turning to piracy, and pledging himself to a demon as a warlock.
 
-In DR 1748, he was trapped on the holy island of [[Vetta]] by [[Kaikkea]]'s curse, and was eventually [[Session 75 (DuFr)|killed]] by [[Dunmar Fellowship]]. 
+In DR 1748, he was trapped on the holy island of [[Vetta]] by [[Kaikkea]]'s curse, and was eventually [[Session 81 (DuFr)|killed]] by [[Dunmar Fellowship]]. 

@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 41
+realWorldDate: 2022-03-03
+DR: 1748-07-06
+DR_end: 1748-07-13
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Thursday, March 3rd, 2022; in Taelgar, July 6th - July 13th)
 
 We begin as the party finishes their conversation with [[Saka]], and prepares to return to [[Tokra]] after sharing a meal with [[Saka]] and her family. As they depart, [[Saka]] pulls [[Kenzo]] aside, reminding him not to neglect his duties as a Mystai of [[Bhishma]]. She gives him 10 scrolls that can be used to collect the stories of the people of [[Dunmar]], to be stored in the [[Hall of Stories]] at some point in the future. 
 

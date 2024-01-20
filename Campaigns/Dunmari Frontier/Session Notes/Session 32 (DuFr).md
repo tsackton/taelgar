@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 32
+realWorldDate: 2021-10-07
+DR: 1748-06-08
+DR_end: 1748-06-20
+players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 ---
-
-**(Thursday, Oct 7th, 2021; in Taelgar, June 8th to June 20th)
 
 The party spends a little more than a week in [[Karawa]], taking care of various activities around town. [[Kenzo]] and [[Drikod]] spend the time preparing for the ritual of initiation into the [[Shakun Mystai]], culminating in the [initiation ritual](https://docs.google.com/document/d/18pWViOdRUlZYB022HiltIWsfXaoxcB7bN1cUSGpOrbY/edit) on the evening before the [[Feast of Bhishma]]. [[Wellby]] spends the time working on his map, training with [[Baxter]], and traveling to [[Bas Udda]] with [[Havdar]] and members of his band, to recover the treasure the party left there. [[Seeker]] spent his time studying the artifacts recovered from [[Agata]], especially the [[Mirror of Soul Trapping]], as well as visiting the mesa with [[Candrosa]] for a tour of the living gardens of stone. [[Delwath]] spent his time closing his affairs in [[Karawa]] and gathering rumors, as well as spending a day and a night in the desert learning more about his patron and source of power. 
 

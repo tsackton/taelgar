@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 43
+realWorldDate: 2022-03-25
+DR: 1748-07-19
+DR_end: 1748-07-23
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Friday, March 25th, 2022; in Taelgar, July 19th - July 23rd)
 
 We begin as the party departs the caravanserai and small settlement at the crossroads where the [[Tokra-Darba Road]] branches west and south from the [[~AncientWestRoad~]]. The first day of travel passes uneventfully, despite the mud and rain, more noticeable now off the ancient Drankorian roads that seem impervious to bad weather.
 

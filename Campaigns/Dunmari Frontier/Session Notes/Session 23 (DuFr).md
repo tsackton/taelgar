@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 23
+realWorldDate: 2021-04-23
+DR: 1748-05-11
+DR_end: 1748-05-11
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Friday, April 23rd, 2021; in Taelgar, May 11th)
 
 We begin as [[Seeker]] and [[Kenzo]] return to the dining hall where [[Delwath]] and [[Wellby]] have been resting and waiting. [[Kenzo]] looks pale, and is barely walking, leaning on [[Seeker]] and stumbling as they emerge from the hallway. [[Kenzo]] and [[Seeker]] tell the story of the initiation rite: following the hallway, the story of [[Bhishma]] was gradually revealed, from her perspective, using a combination of visuals and sense-impressions of feelings and memories of, seemingly, [[Bhishma]] herself. The passage told the story of the Dunmari arriving in what is now [[Dunmar]], finding it desolate by the curse that ended the [[Drankorian Empire]], and despairing and starving. Then, being saved by [[Jeevali]], who sacrificed herself to cleanse the land, and then [[Bhishma]]’s sacrifice. In the end, there was one question: would you sacrifice yourself for [[Jeevali]]? While [[Kenzo]] answered yes, and died, [[Seeker]] answered no, and awoke, briefly panicking until [[Kenzo]] was brought back and opened his eyes, weak but alive. 
 
@@ -32,6 +36,6 @@ After that, the party leaves the [[Hall of Stories]] to explore the tower itself
 
 The party passes quickly through the fourth floor -- a council chamber -- to the fifth floor, which seems to be the private chambers of the master. Here, they find the ghost of [[Karmana]], the last master of the [[Bhishma]] Mystai at this monastery. He is skeptical of them at first, but comes around especially once he realizes that [[Kenzo]] has gone through the initiation rites. 
 
-From [[Karmana]], the party learns that darkness started growing in the land 30 years ago, after the attempt to close the portal failed. He has trouble remembering or even thinking about anything beyond the safety of the tower, and protecting the [[Hall of Stories]], which is his sole purpose now. He does say, however, that maybe nine months ago, or perhaps a year, something changed, a wave of darkness like a shadow ocean washed across the tower, presumably when [[People/Other Nonhumans/Grash]] arrived. 
+From [[Karmana]], the party learns that darkness started growing in the land 30 years ago, after the attempt to close the portal failed. He has trouble remembering or even thinking about anything beyond the safety of the tower, and protecting the [[Hall of Stories]], which is his sole purpose now. He does say, however, that maybe nine months ago, or perhaps a year, something changed, a wave of darkness like a shadow ocean washed across the tower, presumably when [[Grash]] arrived. 
 
 As the sun nears the horizon and darkness and night approaches, the party leaves the tower.

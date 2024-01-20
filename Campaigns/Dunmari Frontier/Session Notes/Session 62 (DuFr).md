@@ -1,63 +1,33 @@
 ---
-tags: [DuFr, status/unknown]
+tags: [session-note]
+name: "Dunmari Frontier - Wellby Solo Session 2"
+campaign: Dunmari Frontier
+sessionNumber: 62
+realWorldDate: 2022-10-28
+DR: 1748-10-13
+DR_end: 1748-10-14
+players: [Wellby, Rufus, Artem Novolozek, Alimash, Shoal]
 ---
-
-# Session 62
-
-**(Thursday, Jan 5th, 2023;  in Taelgar, Nov 15th 1748)**
-
-## Summary
-
-[[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and [[Kenzo]] meet again after a long absence, and discuss their journeys and plans. 
-
-## Meta Information
-
-Start: 15 Nov 1748, sunset, camped outside the fey crossing at Lastlight Falls
-End: 15 Nov 1748, late evening, camped outside the fey crossing at Lastlight Falls
-
-Letters received:
-- [[Letter from Speaker Lara]]
-- [[Letter from Govir]]
-- [[Letter from Dee WIldcloak]]
-- [[Wellby#^3c01eb|Wellby's Letter]] **(personal)**
-- [[Kenzo#^21d014|Kenzo's Letter]] **(personal)**
-
-Scrying Reports:
-- [[Scrying Delwath Oct 26]]
-- [[Scrying Delwath Oct 21]]
-- [[Scrying Delwath Nov 15]]
-
-Delwath's Rumor Gathering:
-- [[Session 51-52 (DuFr)#Dunmar Rumors]]
-
-[[Riswynn]] failed attempt at divine intervention. 
-
 ## Timeline
 
-- (DR:: 1748-11-15): [[Wellby]], [[Seeker]], and [[Kenzo]] exit the [[Feywild]] at sunset, and are reunited with  [[Delwath]] and [[Riswynn]].
+- (DR:: 1748-10-13): Meet [[Artem Novolozek|Artem]], [[Alimash]], and [[Shoal]] at the Dolphin’s Rest, and learn they are all seeking the lair of the raiders too. Join forces; sail out to sea. 
+- (DR:: 1748-10-14): Arrive at lair; fight possessed sharks and enslaved sailors; find and kill aboleth.
 
 ## Narrative
 
-We begin as the party meets again, all together after a long absence. Everyone returns from their adventures changed, more or less, and eager to be reunited. Over the campfire, the party tells their stories. 
+We begin our adventure in the [[Vermillion Isles]], in the port town of [[Wahacha]], in the [[Dolphin’s Rest Inn]], an establishment popular with sailors and other ‘grounders’  who visit [[Wahacha]], as it sits at the bottom of the steep red sea cliffs that define the islands, instead of nestled among the sides and tops of the cliffs like many of the kenku buildings. [[Wellby]] is introduced to [[Rufus]], [[Artem Novolozek]], [[Alimash]], and [[Shoal]], all come together here to discuss the problem of the recent raids. After introductions, the group sets out quickly to the spot, about 40 miles to the east on the edge of the [[~Eastern Ocean~]], where the raiders are believed to come from.
 
-![[lastlight-falls-dunmar-side.png|600]]
+After an uneventful day of sailing, the party comes to the likely location they are seeking, seeing both a wrecked ship and several small longboats at anchor above what looks like a large underwater island, a sea mount that nearly reaches the surface. From maybe 200 feet below the water, a faint green glow can be seen. After help from [[Artem Novolozek|Artem]] to allow everyone who cannot already breath water to do so, the party dives down. 
 
-[[Delwath]] speaks of how he found himself in the Deno’qai forests in the far north, a land once known as the [[Forest of Dreams]], but now called the [[Forest of Nightmares]] as it was cursed during the [[Great War]] against Cha’mutte. Traveling with the [[Stoneborn]] paladin [[Aristaea]] Mountainhands, and the Deno’qai wildfire druid [[Iascaire]], [[Session 51-52 (DuFr)|Delwath sought to restore the lost tanshi trapped by Cha’mutte’s evil on the battlefields of the Great War.]]
+They enter an underwater cave, and proceed along to a boulder blocking the entrance to a larger complex, from which the greenish light is leaking. The boulder is easy enough to move, although [[Alimash]] is nearly blinded by the fungal rot growing on it while shoving it aside. 
 
-[[Riswynn]] speaks of her adventures, and apologizes for vanishing. After grabbing the  the [[Chalice of the Runepriest]], she found herself in [[Heart of the Mountain]], the realm of the dwarven gods. Here, she met other [[Dwarves]] summoned to fulfill a debt to the Barahzel: [[Thror]] Redpeak, a storm sorcerer; [[Rothfis]] Stonefist, a bartender and monk;  and [[Merash]] Emberfoot, a smith and warrior. Together, they [[Session 53-54 (DuFr)| investigated the Shadowfell realm of Morkalan and uncovered the tragic story of the loss of the Chalice in the years after the Great War.]]
+As the party descends into the cave, the first thing they see are three humans riding giant sharks, seemingly jousting with each other; meanwhile, a giant fan slowly spins in the middle of the floor, pulling fresh water from the sea into the cave itself. The sailors seem dazed, or enchanted, and immediately attack, after first turning the fan speed up so it begins to create a swirling current pulling any who get too close into the blades. 
 
-[[Kenzo]] speaks of his time in the jungles of the [[Lizardfolk]], far to the east, in the [[Lizardfolk]] kingdom of [[Orekatu]]. Here, he learned about the spiritual realms from the spirit guide [[Elazar]], who told him of a place, called the [[Azta Lekua|Footprint of the Gods]], where the borders between planes are thin. With the [[Lizardfolk]] druid Izarrak and their guide, [[Enari]], [[Kenzo]] [[Session 55-56 (DuFr)|traveled to the Footprint of the Gods to seek out whatever was disrupting the balance of the planes and allowing destructive elemental power to spill into Taelgar, and restored harmony and balance by healing the wounded spirit creature Motua.]]
+The party engages in combat, and manages to defeat all the sharks and sailors, although realizes as the sailors die they are unable to breath, and suffocate. The party manages to save one of them via keeping them unconscious until [[Artem Novolozek|Artem]] can cast Water Breathing. Speaking to this sailor, he can’t seem to remember much of the past few weeks, but warns them what is waiting below. [[Wellby]] lures a fish into range, bribes it with food, and beast senses in its mind to scout below, seeing first a chamber with the kenku prisoners, a massive shark, and a few more sailors, and then below a  giant tentacles aboleth lurking around a massive crystal prison holding an enormous creature, only one eye of which can occasionally be seen. But then the fish is eaten by the aboleth. 
 
-[[Wellby]] found himself on the [[Wave Dancer]], a [[Halflings|halfling]] ship in the middle of [[Green Sea]], [[Session 57-58 (DuFr)#Prequel|fleeing from hobgoblin pirates]]. Eventually docking at the kenku port of [[Wahacha]] in the [[Vermillion Isles]], part of the vast, magical chain of islands that separate [[Green Sea]] from the [[~Eastern Ocean~ 1]], [[Wellby]] met up with the wizard [[Artem Novolozek|Artem]] Novolozek, the kenku monster hunter [[Rufus]], the sea [[Elves]] warrior [[Shoal]], and the human sailor and warrior [[Alimash]] [[Session 57-58 (DuFr)#Session 1|to seek out raiders who had been kidnapping people from ships in the area.]] After solving that mystery, [[Wellby]], [[Alimash]], and [[Shoal]] headed north [[Session 57-58 (DuFr)#Session 2|to rescue the wizard Arryn the Wanderer, who had vanished from his tower while experimenting with the magic of the Plane of Mirrors]].
+Proceeding down, after turning off the spinning blades, the party attacks the shark. The battle turns, however, when they realize that there is a mage hiding in the mouth of the shark, who gets off a few deadly spells before [[Artem Novolozek|Artem]] polymorphs the shark into a turtle, taking it out of the combat. Eventually, though, the mage is subdued and the prisoners temporarily rescued. But the tentacled aboleth continues to attack through the floor below.
 
-[[Seeker]] [[Session 59-60 (DuFr)#Prequel|found himself in the Feywild, in the domain of the Chanceweaver]], the [[Prince of Luck]]. At the [[Prince of Luck|Chanceweaver]]’s court, he learns of a wild magic storm on the border of Fortune’s Rest and [[Shimmersong]], and travels with [[Raven]], a fae monk of the Winter Knights of [[Shimmersong]]; [[Spirala]] Hollytwist a fairy cleric of the light, also of [[Shimmersong]]; and [[Mikasa]], a fae samurai [[Session 59-60 (DuFr)#Session 1|to calm the wild magic]]. After doing so, [[Mikasa]] departs for her home, while [[Raven]], [[Spirala]], and [[Seeker]] meet the human warrior [[Caulaus]] Aportino [[Session 59-60 (DuFr)#Session 2|who guides them to the fey crossing at Lastlight Falls in the ruined abandoned fey realm of Amberglow]].
+![[aboleth-cave-wahacha.png|500]]
+The party descends to its lair, and combat begins, as the aboleth attempts to lure its attackers via images of their greatest desires. Magic and weapons fly as the party works to bring this creature down, along with three enslaved sea elf knights. [[Shoal]] and [[Artem Novolozek|Artem]] resist attempts to be lured into visions, and the party manages to largely shrug off attempts to charm them. Until near the end of the battle, [[Rufus]] succumbs to the psychic coral, falling unconscious as a vision of a world without crabs appears before him and then is cruelly taken away. And as the aboleth is nearing death, it manages to charm [[Alimash]] to fight on its side, although this does not last long, as with a blast of lightning [[Artem Novolozek|Artem]] kills the beast before it can get full control of [[Alimash]]’s mind. 
 
-During the conversation, the party reads letters from [[Tokra]] and elsewhere, and [[Delwath]] reports on the information he has learned from scrying in [[Scrying Delwath Oct 21|mid October]], [[Scrying Delwath Oct 26|late October]], and [[Scrying Delwath Nov 15|mid November]], and from a [[Session 51-52 (DuFr)#Dunmar Rumors|week spent on the plains of Dunmar]]. The key facts include:
-- [[Dunmar]] is on the bring of civil war: [[Nayan Karnas]] has seemingly not spoken to [[Johar]]; [[Havdar]] is turning bloodthirsty under the sway of a cursed sword; and the Lakan monks have not done anything yet.
-- [[Kadmos]] and company, now traveling with a subdued [[Vola]] (whether due to mundane or magical coercion is not entirely clear), are crossing [[Dunmar]].
-- [[People/Other Nonhumans/Grash]] is preparing to march east, and soon, with a large army of [[Orcs]] and undead, presumably to recover the [[Cloak of Rainbows]] which was, according to [[Govir]]'s research, lost in a fortification of the [[Aagir Mystai]] to the east during the [[Great War]]. 
-- A man in [[Ursk]] named [[Radomir]] found a [[Jade Piece of Rai's Hand]], and it is now apparently in the possession of someone or something called Rodnya Voknaz.
-
-The party decides to first try to restore [[Hralgar]], and then likely head east to attempt to beat [[People/Other Nonhumans/Grash]] to the [[Cloak of Rainbows]].
-
-We end late at night, as the party prepares to look in the mirror and then sleep. 
+We end as the aboleth falls to the floor of the cave, [[Rufus]] unconscious but stabilized by [[Wellby]], and the prisoners dazed as they come out of their enslavement.

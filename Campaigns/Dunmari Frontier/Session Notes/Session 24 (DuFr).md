@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 24
+realWorldDate: 2021-05-06
+DR: 1748-05-11
+DR_end: 1748-05-13
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Thursday, May 6th, 2021; in Taelgar, May 11th to May 13th)**
 
 We begin as the party leaves the tower attached to the [[Hall of Stories]] in the evening, as the long shadows begin to stretch across the desert, heading to investigate the Temple of [[Bhishma]] at the [[Monastery of Bhishma|monastery]]. As they approach, [[Delwath]] sees a warning that no one else can sense, but despite the warning the party cautiously enters the temple. 
 

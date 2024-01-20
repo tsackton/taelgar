@@ -19,5 +19,5 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Young sea elf warrior, from the [[Quanyi]], to the south. Adventuring to win renown and the attention of a lady. After [[Session 57-58 (DuFr)|helping kill the aboleth and rescue Arryn]], returned south. 
+Young sea elf warrior, from the [[Quanyi]], to the south. Adventuring to win renown and the attention of a lady. After [[Session 60 (DuFr)|helping kill the aboleth and rescue Arryn]], returned south. 
 

@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 36
+realWorldDate: 2021-12-22
+DR: 1748-07-01
+DR_end: 1748-07-02
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Wednesday, Dec 22nd, 2021; in Taelgar, July 1st - July 2nd)
 
 Our session begins as the party crosses [[Jita]]’s Square, leaving [[Kirian’s]] after dinner and heading for the [[Archives]], to keep watch of signs of werewolves in the night, as the full moon rises. At the [[Archives]], the party debates what to do, while [[Ardan]] summons extra guards. During the debate, the party hears a piercing howl, cut short. After initially splitting up to cover more ground, the party reconvenes in the basement of the [[Archives]], where the Hardstone clan quarters are and the howls are coming from. 
 

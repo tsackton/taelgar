@@ -1,51 +1,72 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 69
+realWorldDate: 2023-01-16
+DR: 1748-11-15
+DR_end: 1748-11-23
+players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 ---
-*in which the party defeats the shadow hunters, and heads east
-
-**In the real world:** Monday, April 11th, 2023
-**In Taelgar:** 29 Nov 1748 to 4 Dec 1748
-
-## Summary
 
 ## Notes and Information
+*in which the party journeys across Dunmar to Stormcaller Tower.*
 
-Start: night, Nov 29th 1748
-End: early morning, Dec 4th
+Start: 15 Nov 1748, late evening, camped outside the fey crossing at Lastlight Falls
+End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormcaller Tower]]
+
+
+[[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and [[Kenzo]] travel incognito across the plains of [[Dunmar]] to [[Stormcaller Tower]], using magic to gather what information they can along the way. [[Havdar]]'s curse is lifted. They arrive at the [[Stormcaller Tower]] where [[Hralgar]]'s storm is intense, and must make a decision.
+
+#### Eudomes’ Mirror:
+- (DR:: 1748-11-15) [[Cha'mutte Armband Vision]] see in [[The Mirror of the Past]] (recharge:: mirror)
+
+#### Divine Inspiration
+- (DR:: 1748-11-20): Riswynn's prayers are granted by the Bahrazel, freeing Havdar from his cursed sword. (recharge:: "divine inspiration")
+#### Commune
+| Question | Answer | Date | 
+| :--- | :--- | :--- | 
+| Will [[Kadmos]] help [[Grash]]? | **YES** | 20 Nov 1748 |  
+| Will [[Kadmos]] steal from [[Grash]]? | **NO** | 20 Nov 1748 |  
+| Is [[Kadmos]] heading for us? | **NO** | 20 Nov 1748 |  
+| Is [[Grash]] working for [[Fausto]]? | **NO** | 21 Nov 1748 |  
+| Is [[Fausto]] working for [[Grash]]? | **NO** | 21 Nov 1748 |  
+| Are [[Grash]] and [[Fausto]] working for [[Apollyon]]  | **YES** | 21 Nov 1748 
+| Can a person be restored after being Cleasned? | **UNCLEAR** | 22 Nov 1748 |  
+| Are we being hunted by enslaved monsters of [[Fausto]]'s? | **YES** | 22 Nov 1748 | 
+| Are they within a week of us? | **NO** | 22 Nov 1748 |  
+| Was [[Apollyon]] behind [[Sura]]'s kidnapping?  | **NO** | 23 Nov 1748 
+
 ## Timeline
 
-- (DR:: 1748-11-29): *(midnight)* Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [[Kenzo]] unconscious and attempts to flee with him.
-- (DR:: 1748-11-30): [[Seeker]] spends the day learning to control and fly [[Vindristjarna]], while the rest of the party prepares for the journey east.
-- (DR:: 1748-12-1): [[Kenzo]] attunes to the phasing stone and spends the day learning to control and fly [[Vindristjarna]]; speak with [[Sura]] via Sending Stone
-- (DR:: 1748-12-2): [[Riswynn]] asks the Baharazel about their chosen course of action; [[Delwath]]'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [[Kenzo]] and [[Seeker]] alternating piloting; fly 22 hours
-- (DR:: 1748-12-3): Continue flying east, [[Kenzo]] and [[Seeker]] alternating over 22 hours
-- (DR:: 1748-12-4): See at the edge of the [[Orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light.
-
+- (DR:: 1748-11-15): *(evening)* [[Wellby]], [[Seeker]], [[Kenzo]], [[Delwath]] and [[Riswynn]] talk and catch up. Use the mirror to look at [[Cha'mutte’s Shadow Armband]] before sleep.
+- (DR:: 1748-11-16): [[Kenzo]] is uncursed by [[Riswynn]], sacrificing his [[Horn of Silent Alarm]] in the process; [[Riswynn]] speaks with [[Johar]] via sending. Party travels west towards [[Stormcaller Tower]].
+- (DR:: 1748-11-17): Travel west; speak with [[Johar]] via Sending; scry on [[Hektor]].
+- (DR:: 1748-11-18): Travel west; learn [[Johar]] is meeting with Samraat [[Nayan Karnas]]; detour around some ogres.
+- (DR:: 1748-11-19): Arrive south of [[Raven's Hold]]. Scout, discover it is quiet; camp early.
+- (DR:: 1748-11-20):  [[Riswynn]]'s prayers are answered and [[Havdar]]'s cursed sword is destroyed by the Baharazel, freeing him of its influence. Send a message with sending to apologize. Travel west.
+- (DR:: 1748-11-21): Travel west.
+- (DR:: 1748-11-22): Travel west.
+- (DR:: 1748-11-23): *(mid-afternoon)* Arrive at [[Stormcaller Tower]], spend time planning and scouting with spells. 
 ## Narrative
 
-The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [[Fausto]] that chased [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] down on the flight from [[Chardon]]. 
+We begin as the party settles in for the night outside Lastlight Falls, after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm]] carried for many months. 
 
-![[shadow-hunter-portrait.png|300]]![[shadow-hunter-wolf.png|300]]
+Over the course of the next week, the party falls into a routine as they hurry across the plains of [[Dunmar]], now sprung to life with the monsoon rains.
 
-While [[Delwath]] peels off to fight a flying shadow demon, and [[Seeker]] begins to steer the skyship towards the fight, the rest of the party engages. [[Kenzo]] attacks the lead assassin, while [[Riswynn]] summons a sunbeam to blast away the shadows and [[Wellby]] takes careful aim at everything he can see. But the shadow dogs vanish into the darkness, even as [[Seeker]] animates the [[Ladder]] to stand guard, and emerge, surrounding [[Seeker]], on the deck of the ship. Under heavy attack, [[Seeker]] polymorphs himself into a giant ape-like yeti, while [[Kenzo]] is brought down by a blast of necrotic energy from the assassin, who, leaving the dogs to distract the party, begins to flee with [[Kenzo]]. For a moment it looks like things will be okay, with [[Riswynn]] healing [[Kenzo]], but then [[Riswynn]] is driven off by the shadow assassin's fear spell, [[Kenzo]] is knocked out again, and it is only [[Wellby]]'s perfect shot that brings down the shadow assassin before he can escape with [[Kenzo]]'s unconscious body. The shadow assassin turns, in death, to a normal, if ragged looking [[Humans|human]] man, a pallid, haunted look on his face in death. As the rest of the party cleans up the shadow dogs, [[Wellby]] tends to [[Kenzo]]'s wounds, stabilizing him. 
+![[dunmar-november-1748.png]]
 
-The next morning, the party prepares for the journey east while [[Seeker]] continues to practice with [[Vindristjarna]]. The day passes uneventfully after the chaos of the night before; [[Delwath]] hunts and preserves some antelope for the trip, and [[Riswynn]] continues to clear rubble from the deck of the ship. Deciding that having two people able to control [[Vindristjarna]] would speed the journey, the party plans on taking the next day for [[Kenzo]] to learn the workings of the phasing stone, before heading east.
+[[Riswynn]] prays each morning to the Baharazel, asking them to free [[Havdar]] of the curse that binds him to the [[Medusa Blade]], taken from [[Agata's lair]] and gifted to [[Havdar]] by the party. As the party travels, they send messages to [[Johar]] via sending, and [[Delwath]] keeps an eye on the movements of [[Kadmos]] and company via scrying. 
 
-Around lunchtime the next day, December 1st, [[Kenzo]]'s practice is interrupted by [[Sura]]'s voice coming from the Sending Stone. [[Sura]] tells the party that, while she appreciates the warnings of danger to the east, she cannot march her army across the plains while leaving [[Tokra]] unwatched in her rear, especially not with a small force of Chardonian mages still camped outside the city. [[Sura]] says that they plan to ride for [[Tokra]], to claim the city and expel the Chardonians. [[Sura]] tells them that in about 20 days, is the [[Day of Atonement]], [[Sonkar]]'s Day, which begins the most holy month of the year, and she will not wage war then, and neither will the Samraat [[Nayan Karnas]]. So [[Tokra]] must be taken soon, or not at all. 
+From brief conversations, they learn that [[Johar]] is alive, and well enough treated, although he has not been allowed to see Samraat [[Nayan Karnas]], apparently because of the Samraat's (perhaps justifiably?) paranoid belief that [[Agata]] is somehow behind [[Sura]]'s reemergence. Not trusting [[Johar]] to be who he says he is, Karnas has summoned a wizard from [[Chardon]] and a mystai of [[Sonkar]] who are both gifted with the power of true sight, who will vouch for [[Johar]] before he can speak with Karnas. From brief visions via scrying, they learn that [[Kadmos]] continues east, towards [[Kharsan]], through the [[Garamjala Desert]].
 
-There is some debate, about whether the better course of action is to march her army east, now, to defend the borders should the party fail, or whether to take [[Tokra]] as planned first, to secure her position before [[People/Other Nonhumans/Grash]] marches west, should he succeed in acquiring the [[Cloak of Rainbows]].
+Half way through the journey, the party arrives south of [[Raven's Hold]], and stops early to scout. Flying above the fort and castle, [[Wellby]] sees no signs of habitation. A mass grave outside the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] is the only new change since the party was last here, many months ago. Recalling the news from [[Tharn Todor]], the party infers this must been the remains of [[Inakara]] and her kin, the worshippers of mind flayers slain by [[Magran Boulderbeard]] and a company of [[Dwarves]] some months ago. 
 
-Wanting the guidance of the gods, the next morning, before the party heads east, [[Riswynn]] prays and asks the [[Bahrazel]] for insight. Although the gods often speak in riddles, the message [[Riswynn]] hears is one of fortification, of strength, that buildings with strong foundations last longer than those with weak roots. Eventually the party agrees this is probably guiding them to leave [[Sura]] to strengthen her position, that she will be better prepared for [[People/Other Nonhumans/Grash]], if needed, with a solid foundation in the central plains. [[Kenzo]] also meditates, and feels the strength of [[Dunmar]] as a solid core that maintains [[Shakun]]'s Protection, and that if the center were lost the protection would fall anyway. But again, no clear, obvious right course of action. 
+The next day, the [[Bahrazel]] answer [[Riswynn]]'s prayers. In her morning prayers, she is briefly transported, seeing a vision of [[Havdar]] in camp, waking and immediately reaching for his sword, when his hands are grasped by those of an old [[Dwarves|dwarf]], and a voice in Dwarven echos, saying, "No. You are free," as the sword turns to a snake and begins to slither away, before shattering to dust. Scrying over the course of the day reveals [[Havdar]] unsettled and deep in thought, and then blaming [[Chardon]] for the curse, advocating for immediate war. This prompts the party to reach out via Sending, apologizing for the party's mistake in gifting him the sword, saying they had no knowledge of its curse, to which [[Havdar]] can only reply: "Shit. Really?" The [[Bahrazel]] also, during the course of the journey, answer some of the parties questions. 
 
-Speaking to [[Sura]] one final time, [[Kenzo]] argues the most important thing is to be united, and if [[Sura]] believes that taking [[Tokra]] is what must happen for an army to be ready to face [[People/Other Nonhumans/Grash]] should he turn west, the party will not argue against that. [[Kenzo]] agrees to send a letter to the Lakan monks, reporting on all that has happened. As he finishes, a spirit steps from [[Delwath]]'s shield, a lynx, and takes the letter, before racing at speed across the plains for [[Tokra]]. 
+A week after leaving the camp at Lastlight Falls, the party arrives outside the [[Stormcaller Tower]], where [[Hralgar]]'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
 
-Over the next two days, the party falls into a routine. [[Seeker]] pilots the ship for 11 hours, often taking [[Vindristjarna]] as high as it can go, into the freezing clouds far, far above the desert, often removing his shirt to feel the cold wind on his bare skin. Then, the ship lands for an hour, for [[Kenzo]] to attune to the phasing stone, and [[Seeker]] rests while [[Kenzo]] flies through the night. The cycle then repeats, allowing the party to travel 220 miles per day. 
+![[hralgar-storm-nov-1748.png]]
 
-![[over-the-desert.png|800]]
+Between [[Seeker]]'s clairvoyance and [[Kenzo]]'s ability to commune with nature and the land, it is clear that [[Hralgar]] is lost more deeply in his mind than before, and the storm is more intense. The eye that previously left the tower open to the sky is gone, and lightning and thunder echos from the clouds. 
 
-On the morning of Dec 4th, the party spies a fertile green crescent along the edge of banks of a river, cattle grazing, and orderly wheat fields watched over by a colorful guard tower on the banks of the river. We end, in the pre-dawn light, as the party considers their course of action, maybe 50 miles from the homeland of the [[Orcs]] they have come to find.
-
-![[orc-lands.png|800]]
-
-
-
+We end as the party contemplates their next move, and whether a journey into the [[Dreamworld]] is necessary to calm [[Hralgar]] and allow them to approach.

@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 5
+realWorldDate: 2020-07-24
+DR: 1748-03-30
+DR_end: 1748-04-04
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Friday, July 24th, 2020; in Taelgar, morning March 30, to early afternoon, April 4)**
 
 The session begins with everybody but [[Kenzo]] meeting for breakfast at [[Ikram’s]] caravanserai. [[Wellby]] shares a message and [[Letter from Candrosa|letter]] from [[Candrosa]], informing the party that scouts are investigating rumors of attacks to the south and east, and that a council in a few days time will meet to decide what to do. The presence of the Heroes of [[Karawa]] is requested at this council. After being informed that [[Kenzo]] is meditating at the summit of the [[Red Mesa]] on the southern border of town, the party heads up to meet him; on the way [[Seeker]] is reminded of the geological oddity that the [[Temple of Shakun]], carved into the cliff wall of the mesa, seems to be older than the mesa itself. 
 

@@ -40,13 +40,13 @@ You sense there may be other command words, but further study or research on the
 Current occupants of the mirror are:
 
 1. [[Revaka]], a hobgoblin, trapped by [[Agata]].
-2. Hektor, trapped in [[Session 72 (DuFr)]] 
+2. Hektor, trapped in [[Session 78 (DuFr)]] 
 3. A wyvern, trapped in [[Session 43 (DuFr)]]. 
 4. A poison troll, trapped in [[Session 45 (DuFr)]].
-5. Valius/Vargus, trapped in  [[Session 72 (DuFr)]]. Cells merged into one in [[Session 73 (DuFr)]].
+5. Valius/Vargus, trapped in  [[Session 78 (DuFr)]]. Cells merged into one in [[Session 79 (DuFr)]].
 6. empty
-7. Antonia, trapped in [[Session 72 (DuFr)]]
-8. Vola, trapped in [[Session 72 (DuFr)]]
+7. Antonia, trapped in [[Session 78 (DuFr)]]
+8. Vola, trapped in [[Session 78 (DuFr)]]
 9. empty
 10. empty
 11. empty

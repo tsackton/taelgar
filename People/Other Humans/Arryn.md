@@ -17,6 +17,6 @@ whereabouts:
 > A [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A wizard of significant power, originally from [[Tollen]]; dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. Freed from the [[Mirror Realm]] by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 57-58 (DuFr)|Wellby's adventures in the eastern Green Sea]]
+A wizard of significant power, originally from [[Tollen]]; dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. Freed from the [[Mirror Realm]] by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 60 (DuFr)|Wellby's adventures in the eastern Green Sea]]
 
 ![[arryn-the-wanderer-portrait.png|500]]

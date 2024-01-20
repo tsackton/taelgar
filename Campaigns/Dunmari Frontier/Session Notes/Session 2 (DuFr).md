@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 2
+realWorldDate: 2020-06-12
+DR: 1748-03-22
+DR_end: 1748-03-25
+players: [Kenzo, Wellby, Delwath, Seeker]
 ---
-
-**(Friday June 12, 2020; in Taeglar, evening March 22 to mid-morning March 25)**
 
 [[Seeker]] of Highkeep, [[Wellby]] Goodbarrel, [[Kenzo]], and [[Delwath]], arriving at the [[Gomat]] Oasis past sunset, tired and weary from a long journey in the desert sun, find the oasis beset by three giant lizards, feasting on dead sheep. Deciding to attack, the party made relatively quick work of the beasts. Exhausted, and unable to determine much in the dark, the party camped for the night.
 

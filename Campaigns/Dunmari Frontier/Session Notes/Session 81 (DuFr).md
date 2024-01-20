@@ -1,95 +1,84 @@
 ---
 tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 81
+realWorldDate: 2023-07-28
+DR: 1748-12-17
+DR_end: 1748-12-25
+players: [Seeker, Delwath, Kenzo, Wellby]
 ---
-# Session 81
-*in which the party visits [[Orenlas]]*
+## Notes and Information
+*in which the party defeats a demon and destroys the scepter*
 
-**In the real world:** Nov 8, 2023
-**In Taelgar:**  Jan 8, 1749 - Jan 16, 1749
+Start: morning, Dec 17th
+End: mid-morning, Dec 25th
+#### [[The Mirror of the Past]]
+ - (DR: 1748-12-23): Use [[The Mirror of the Past]] on Urgall's helm: [[Urgall's Helm Vision]]
 
-## Summary
+## Timeline
+- (DR:: 1748-12-17): *(afternoon)* Meet [[Iskra]] at the Temple of [[Kaikkea]]. Meet Nika at [[The Windward Sail]], who takes party to [[Umli]] and then [[Caelynn]]. Speak with [[Umli]]; speak with [[Caelynn]]. [[Kenzo]] returns to speak with [[Iskra]] for the afternoon. 
+- (DR:: 1748-12-18): [[Kenzo]] gets tattoo (2000 gp) and collects Cecilia's story. [[Delwath]] spend another 250 gp on furniture in the morning. Party leaves north on the skyship. 
+- (DR:: 1748-12-19): Fly north and east towards [[Skaerhem|Skaer Islands]]
+- (DR:: 1748-12-20): Fly north and east towards  [[Skaerhem|Skaer Islands]]
+- (DR:: 1748-12-21): Meet [[Skalme]] on [[Antaka]], learn about how to destroy the [[Scepter of Command]]. Arrive at [[Pyhlla]], talk to [[Vaallinen]], learn about [[Urgall the Black]]. Talk to [[Tulvak]] about the raid. 
+- (DR:: 1748-12-22): Blessed by [[Kaikkea]] at dawn. Fly to island. Scout, find lava tube. Enter under the temple complex. Surprise [[Urgall the Black|Urgall]] and kill him. Attack demonic entity corrupting the waters, kill it. Rest. 
+- (DR:: 1748-12-23): Kill the undead hordes remaining. Search the island, return treasure to rightful place, clean up and lay out bodies. Loot pirate ship. Use mirror on Urgall's helm. 
+- (DR:: 1748-12-24): Place the [[Scepter of Command]] in the sacred waters. Stand guard, not sleeping, for 24 hours. 
+- (DR:: 1748-12-25): Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
 
-- The party visited the forest of [[Orenlas]], where they explored the living city of [[Erelion]], visiting the sacred elder tree and meeting Caretaker [[Erdhin]], the gardener [[Ealwen]], the retired solider [[Vahaiya]], and the poet [[Cirdore]]. 
-- After [[Kenzo]] attempts to get [[Ealwen]] to join the crew of [[Vindristjarna]], she says that while she does not feel she can leave [[Erelion]], she does know a few people who might want to join the ship as a gardener. 
-- The party spoke with the ancient [[Elves|elf]] [[Arheste]], who told them about the days of [[Drankorian Empire|Drankor]]: the [[Drankorian Civil War|civil war]] that ended centuries of peace; the rise of [[Omnis Pura]]; [[Apollyon|Apollyon]]'s reign; and his attempted ascension to godhood and ultimate downfall. 
-- After spending a day speaking with an learning from [[Arheste]], the party got a desperate message from [[Riswynn]], informing them that [[Grash]] was nearly finished constructing a massive trebuchet, 400 feet tall at least, and if they did not arrive soon, [[Uzgukhar]] would be destroyed. 
-
-#### The Story of Apollyon and Cha'mutte
-
-Piecing together what [[Arheste]] told you, you reconstruct the following timeline of [[Apollyon|Apollyon]] and [[Cha'mutte]]. 
-
-This story is told from [[Arheste]]'s point of view [[Arheste#Arheste's Story|here]].
-
-- After the Drankorian civil war, [[Omnis Pura]] and [[Cha'mutte]] became allies, and when [[Apollyon|Apollyon]] came to power, he continued to ally with [[Cha'mutte]]. 
-- However, [[Cha'mutte]] became angry when [[Apollyon|Apollyon]] stole the [[Cloak of Rainbows|Cloak of Rainbows]] from the free [[orcs]], as [[Cha'mutte]]'s goal was to free all species from the "shackles" of their divine creators, whether they wished it or not. The cloak was a step in that direction. You saw part of this in the [[Mantle of Protection Vision]]. 
-- As [[Apollyon|Apollyon]] grew in power, he began systematically slaughtering the peronar, the [[elves]] who had allied with [[humans]] long ago on [[Hkar]]. He used powerful magic to turn the people of [[Drankorian Empire|Drankor]] into slavishly devoted subjects, hoping to further his dream of an empire of only the "purest" of humanity. 
-- Using the [[Cloak of Rainbows|Cloak of Rainbows]], [[Apollyon|Apollyon]] was able to defeat the [[elves]] of [[Rostaure|Rostaurë]] ([[Arheste]]'s home), as the cloak prevented the divine power of [[Aldanor]] and[[Elmerca]] from protecting the land. He brought [[Arheste]], captured back to [[Drankor]], where she saw his rise to power firsthand. You saw some of this in the [[Scepter of Command Vision]]. 
-- [[Cha'mutte]] fully turned on [[Apollyon|Apollyon]] when [[Apollyon|Apollyon]] attempted to ascend to godhood, in defiance of [[Cha'mutte]]'s plans and hopes for the world. At the moment [[Apollyon|Apollyon]] attempted to claim divine power, he was struck down by the [[First Plague]], a devastating magical force of [[Cha'mutte]]'s creation. 
-- [[Arheste]] survived the plague, but at great cost. It left her sick and weakened, and stripped her of her formidable magic.
-- [[Apollyon|Apollyon]] also survived the plague, by drinking of vial of a pure black substance. [[Arheste]] later learned that this was the key ingredient in a ritual of undeath, and had turned [[Apollyon|Apollyon]] into a lich.
-- However, [[Apollyon|Apollyon]] was trapped by [[Cha'mutte]], who for unexplained reasons did not seek to destroy [[Apollyon|Apollyon]] utterly. Whether it was because he couldn't, or because he didn't want to, [[Arheste]] never learned. 
-- When [[Cha'mutte]] was killed, [[Apollyon|Apollyon]] began to break free, until [[Rai]] teleported to [[Drankor]], warned by [[Arheste]], and sought to maintain the bonds. [[Arheste]] never learned how [[Rai]] did this, but speculated it was as simple as grasping [[Apollyon|Apollyon]]'s phylactery in his magical [[Jade Piece of Rai's Hand|jade]] hand. 
-- At the beginning of this leya, around 1720 as [[humans]] reckon time, [[Arheste]] felt something change. A break, a shift, in [[Apollyon|Apollyon]]'s bonds, letting him break free and slowly gain power, recovering from the weakness of his long imprisonment. 
-- [[Arheste]], though too weak from the ongoing effects of plague exposure to seek [[Apollyon|Apollyon]] herself, will do anything in her power to ensure that he is defeated, once and for all, his phylactery destroyed utterly, and any hope of his resurrection crushed. 
-
-The story of the scepter of command, as told in later days by the halflings, is [[Story of the Scepter of Command|here]].
-
-## Session Events
-
-Start: afternoon, Jan 8th, 1749
-End: evening, Jan 16th, 1749
-
-***Everyone levels up to level 13 at the end of the session!***
-
-#### Mirror Visions
-- (DR::1749-01-13) [[The Mirror of the Past]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
-
-#### Timeline 
-
-- (DR::1749-01-08): *(evening)* Settle in at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] prepares for magic item construction 
-- (DR::1749-01-09): Remain at the elemental forge while [[Faldrak Bronzehammer]] crafts magic
-- (DR::1749-01-10): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
-- (DR::1749-01-11) : Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
-- (DR::1749-01-12) : Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
-- (DR::1749-01-13) [[The Mirror of the Past]] used to look at Elemental Forge
-- (DR::1749-01-14) : Return to [[Vindristjarna]], depart for [[Orenlas]]
-- (DR::1749-01-15) : Arrive in [[Orenlas]] in morning after traveling through the evening across the mountains; dinner party
-- (DR::1749-01-16) : Visit [[Arheste]]; soothe her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]]
-
-#### New Treasure
-
-A meta-resource: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics. 
+## New Treasure
+- The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state
+- 2000 sp in Tollender silver coins (from [[Urgall the Black|Urgall]]'s cabin)
+- 200 gp in [[Sembara]] gold coins (from [[Urgall the Black|Urgall]]'s cabin)
+- Captain's log and charts from The [[Flaming Tempest]] (allowing [[Wellby]] to reconstruct the journey of the [[Flaming Tempest]], with time and effort)
+- A scroll written in a cipher, from the captain's cabin on the [[Flaming Tempest]]
+- A small silver statue of a demon with ruby eyes (tossed in the sacred waters)
+- A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [[Seeker]] takes); 6 small crates of beaver fur hats in a variety of styles. 
+- 8 swords and 4 spears of [[Skaer steel]] (used by Skaer warriors killed on [[Vetta|Vetta]]; gifted to party in their honor by Vaalinen)
+- A slightly decayed helmet worn by [[Urgall the Black]]
 
 ## Narrative
 
-We begin on [[Vindristjarna]], as the party has returned to the skyship after several days at the Elemental Forge while [[Faldrak Bronzehammer|Faldrak]] constructed a number of magic items from the residual energy of the forge left behind by [[Sh’shethis]]'s departure. The day before, as [[Faldrak Bronzehammer|Faldrak]] finished his work, the party had viewed the [[Elemental Forge Vision|forge itself in Eudomes' mirror]]. Now, we pick up as the party heads south for [[Orenlas]], and [[Faldrak Bronzehammer|Faldrak]] writes in his journal:
+***Part 1: [[Tollen]]***
 
-*4 Barukhelm 5881, he writes*
+We begin as the party leaves [[Melindir]]'s apartments, after having made plans for dinner the following night, and walks through the rich part of [[Tollen]], full of elaborate palaces of merchants and guild leaders. They reach the [[Temple of Kaikkea]], and ancient building of white marble on a empty plaza. Inside, they meet [[Iskra]], the priestess of [[Kaikkea]] in [[Tollen]]. From her, the party learns of [[Kaikkea]], and also hears about the dangers on the island of [[Vetta|Vetta]] that have prevented the Skaer from making pilgrimages to the sacred waters there for 10 months. [[Iskra]] gives the party letters of introduction to [[Skalme]], the fire priestess on the volcanic island of [[Antaka]], and [[Vaallinen]], the priest in the town of [[Pyhlla]], the launching point for pilgrims to [[Vetta]]. 
 
-*My first adventure in more than a decade succeeded beyond my wildest imagination. That Seeker fellow sure knows how to pick his friends. I was not sure what to think when I first met them: they seemed rather prone to excessive chatter, and terminal indecision. I was afraid it would be like being back on my travels with Lyrial and her friends. So much time sitting around debating, so little time doing! Although I guess it was in one of those rambling discursions that she told me about the Edge of Echoes in the first place.*
+Around noon, the party leaves the temple to meet [[Nika Hyne]], who is going to guide them to meet [[Umli]], the [[Stoneborn]], and [[Caelynn]] the Seer. [[Umli]] is interviewing new students at the dwarven tavern *[[The Fire and Stone]]*, in the [[Magnus Street]] district, near the [[University of Tollen]]. After watching her a while, [[Seeker]] presents his miniatures of glass and stone, which doesn't go over super well. [[Delwath]], however convinces her to speak by catching her interest with strange metals: the shadow shard from his breastplate, and the [[adamantine]] shield (which [[Umli]] describes as being made by a medium-skilled smith, which feels like high praise from her). From [[Umli]], the party learns about the volcano at [[Antaka]], and some general information about volcanos and destroying things in them, including the fact that powerful magic can reveal the weakness of artifacts. [[Caelynn]] the Seer, in [[Tollen]], possesses this magic, as does [[Skalme]], on [[Antaka]].  
 
-*But once we got moving, I couldn't help but wonder at the powerful oddities they carried and their skill at using them. A folding boat I've seen, sure; but a mirror that reveals the history of things? That was a sight. And all Seeker's friends proved quite adept in battle: I think I would have been drowned by water elementals if they had not leapt to my defense.*
+After speaking with [[Umli]], the party meets [[Caelynn]] the Seer at her small, elegant apartment, unassuming from the outside. Inside, it is twilight, but feels larger and more spacious that it appeared from the street. While [[Kenzo]] waits outside, [[Seeker]], [[Wellby]], and [[Delwath]] enter and speak with her. She is a tricky conversationalist, and the party does not want to give away much, any memories or secrets. But she does eventually reveal to [[Delwath]] that many of his kind ended up in [[Dreamhaven]], a fey realm across the mountains. And [[Seeker]] decides to trade his book "Infinite Gates of [[Kenzo]]: a book in which one selects one's own adventure. Fight the gnolls? Close the gate? You decide!" [[Caelynn]] is fascinated with this, and tells [[Seeker]] much about volcanoes and the [[Elemental Plane of Fire]] in return. The party learns about the elemental portals that linger in the world, and the way in which the elemental planes can both create and destroy, depending on the weakness and resonance of whatever is to be destroyed, and that the safest way to enter the elemental planes is with an invitation. 
 
-*And flight! Ah, to fly again! It was nothing like the flying carpet we borrowed back in the day. To be able to think and just go where you wished it - truly something else. Somehow the fey step trick I learned from Lyrial feels cheap in comparison now.*
+Leaving [[Caelynn]]'s, [[Kenzo]] returns to the [[Temple of Kaikkea]] to bond with [[Iskra]], collect [[Iskra's Story|her story]], and impress her with his large spiritual presence, while the rest of the party returns to the inn. 
 
-*Of course, my goal was to make my dear Pebblepeep fly, and I can't believe how successful I was! I surprise even myself sometimes, ha ha. All the hard work outfitting this ship (oh, this ship! I wonder if they'll let me stay, or maybe even fly it some day?) was well worth it.*
+The next morning, [[Kenzo]] returns to [[Cecilia Lister]]'s tattoo parlor, listens to her [[Cecilia Lister's Story|story]], and has his tattoos of [[Lengau]] and [[Motua]] magically enhanced, as well as receiving a letter of introduction to [[Escobar Garavito]], a well-connected student at the University, supported by a [[Dyer's Guild]] scholarship. The party reschedules dinner with [[Melindir]] and postpones meeting [[Sarah de Gray]], as after lunch they depart, heading north and east towards [[Antaka]]. 
 
-*It will be hard going back to life in Tollen after this.*
+***Part 2: [[Skaerhem]]***
 
-[[Faldrak Bronzehammer|Faldrak]]'s writing is interrupted by the arrival of another message from the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], this time concerning [[Philosopher's Information Concerning Binding Stones|the binding stones]]. The party reads and discusses. 
+The party spends the afternoon of Dec 18th, as well as all day on the 19th and 20th, flying north and east, crossing the forests and rocky coasts of [[Vostok]], and then the open sea of the [[Western Green Sea]]. Around dawn on Dec 21st, the party reaches [[Antaka]]. This is a medium-sized rocky island, dominated by a single large volcano, still very active, and connected to the plane of fire. The Skaer have a temple here, built of dark volcanic rock, with a roof of polished obsidian, arranged to echo the shape of the volcano behind it. The priestess [[Skalme]] is waiting here, as her morning prayers warned her the party was coming. 
 
-The next day, the ship arrives at the edge of [[Orenlas]]. The forest is shrouded in mists, and the party is forced to land outside, on the shores of the large lake, using the [[Vindristjarna#Planar Prism|planar prism]] for the first time to construct a rainbow bridge from the ship to the ground. While Faldrak stays behind, the party ventures into the forest.
+They speak with [[Skalme]], about the volcano, hoping to learn more about how to destroy the scepter. She takes their offering of gold and silver, and prays, learning that the [[Scepter of Command]] was created when [[Apollyon|Apollyon]] bound the soul of a fiend to it, which protects it from fire, and almost all other damage. It can only be destroyed by immersion for 24 hours in sacred waters, during the full moon, which will weaken the bond of the fiend enough to shatter the object (potentially releasing the fiend).
 
-The paths open up as they walk, revealing visions and fragments of dreams of possible futures: Kenzo, mediating in an alien place of impossible depth; Delwath, traveling across the planes, protecting those in need across the multiverse; Seeker, writing a book in his home full of the laughter of his children and visions of his friends across the multiverse; Wellby, at sea, leagues and leagues west of any known land, perhaps, just perhaps glimpsing sight of a mountain rising from the horizon in the distance. You feel, as you walk, that this is Aldanor testing your desires, your hopes, and accepting you.
+The party then heads to [[Pyhlla]], the Skaer village that is the base from which pilgrims to [[Vetta|Vetta]] depart. On the way, they fly over [[Vetta|Vetta]], seeing the mists that surround it, and using Clairvoyance to observe some demons milling around the entrance to the caldera temple complex.  
 
-The party arrives at the gates of [[Erelion]], where they are greeted by Caretaker [[Erdhin]]. He settles the party in a guest house of a sort; plans are made for a dinner party; and then the group leaves to experience the wonders of the city. 
+Arriving at [[Pyhlla]] at dusk, the party meets the priest, [[Vaallinen]], at the temple, which appears to be the center of the community. It is dark when they arrive. Most of the village is lit by Continual Light torches that give off no heat, but a bonfire is burning at the temple, and it warms the party as they eat and drink. [[Vaallinen]] tells the party more about the problem: the sacred hot springs on [[Vetta|Vetta]] were attacked about 10 months ago by a pirate -- a Skaer exile -- named [[Urgall the Black]]. The island of [[Vetta|Vetta]] is protected by [[Kaikkea]], and those who steal from it or dishonor the sacred springs can supposedly never leave. However, [[Urgall the Black|Urgall]] attacked anyway, perhaps aided or encouraged by the demonic fiend he bound himself to for power. Only one person -- [[Tulvak]], the ferry captain -- escaped from the island alive. Since then, nine Skaer warriors, and four Tollender mercenaries, have sailed into the mists, and not returned. 
 
-The party strolls through the fey gardens where silver grows in delicate flowers, where vines are laden with fruit at all seasons, where oysters grown from the roots of lily pads. They find their way to the massive elder tree, the tree of dreaming, the sacred space where the echoes of the footsteps of [[Aldanor]] on the land, that created the first forests, can still be heard. Kenzo communes with the forest, and is gently guided to safer paths, told he is not ready for this, the original forest, the place that still retains some of the magic of the days of myth when the world was young. 
+After dinner, the party talks amongst themselves for a bit, and then speaks with [[Tulvak]]. He tells of the attack -- pirates with flaming swords, lead by the captain with fire magic who blasted the entire long house where [[Tulvak]] was staying with the pilgrims. The only reason he survived was that he was outside relieving himself. [[Tulvak]] also tells them of a hidden cove, in the north, where they can land, and also that the temple complex is connected by lava tubes, which provide connections between the various hot springs. 
 
-After an afternoon exploring, the party returns and hosts guests for dinner, cooked by [[Delwath]]. In addition to Caretak [[Erdhin]], the guests are a young gardener named [[Ealwen]], a retired solider named[[Vahaiya]], and a poet named [[Cirdore]]. As conversation flows, the party learns there is an elder here who could speak of Apollyon and Drankor; her name is [[Arheste]], and unlike nearly any other elf her age, she is very sick. [[Ealwen]], her caretaker, is reluctant to disturb her, but relents after speaking at length about herbs and ki and healing powers with [[Kenzo]]. While [[Ealwen]] does not feel she can leave [[Erelion]], she does say she has a few people in mind who might want to join the ship as a gardener. 
+***Part 3: [[Vetta|Vetta]]***
 
-The next morning, the party travels with [[Ealwen]] to visit [[Arheste]], outside the city. [[Arheste]] is clearly ill, unable to sit without wheezing, and struggles to tell her story until [[Kenzo]] uses some of his precious ki from the jungles of [[Orekatu]] to ease her damaged soul. While not strong enough to completely undo the evils done to her, it helps, tremendously. 
+The next morning -- Dec 22 -- the party is blessed by [[Kaikkea]] at dawn, and then leaves for [[Vetta|Vetta]], flying [[Vindristjarna]] over the mist barrier, before hiding it with hallucinatory terrain and proceeding to the cove on the north side of the island, beaching their [[Folding Boat]] on a narrow black sand beach surrounded by cliffs. At the top of the cliff, [[Seeker]] sits down to look at rocks for a moment, and notices that the lava on the top of the cliff is much older than the lava forming the sand beach at the base of the cliff, inferring that a newer lava flow must pass under the cliffs. 
 
-For the rest of the day, Arheste tells her story, about Drankor and Apollyon and Cha'mutte, which is recorded [[Arheste#Arheste's Story|here]].
+Thinking about the lava tubes, [[Seeker]] decides to search the base of the cliff, using [[Kenzo]]'s cloak of the manta ray, while [[Kenzo]] and [[Wellby]] scout the caldera and [[Delwath]] keeps watch. Although the water is freezing, [[Seeker]] (with the aid of [[Delwath]] warming his clothes to keep him from being exhausted with cold) finds an entrance to a flooded lava tube, maybe 10 feet below water. Meanwhile, [[Kenzo]] and [[Wellby]] see the layout of the temple complex clearly, and observe a large vulture-like demon flying around in circles, keeping watch on the whole area. [[Kenzo]] jumps 500 feet down to the caldera floor to further scout the priest's quarters, hearing the raving mutterings of [[Urgall the Black|Urgall]], the pirate captain.
 
-As evening comes, the party receives a desperate plea for help from Riswynn: [[People/Other Nonhumans/Grash]] is nearly done constructing a massive trebuchet, and if they do not arrive to help soon, the city will be destroyed. 
+The party decides to attempt to enter via the lava tube [[Seeker]] found. The first few hundred feet are underwater, a challenge easily surmounted with quick swimmers, the cloak of the manta ray, and a potion of water breathing. More difficult is the collapsed roof a thousand feet further in, forming a 20-foot section blocked by rubble. A mouse scout summoned by [[Wellby]] dies after crawling though, but the party proceeds anyway, using a potion of hill giant strength to allow [[Seeker]] to be strong and clear the boulders over the course of an hour.
+
+Moving forward in the lava tube, through the poisonous water which poisons [[Seeker]] and [[Wellby]], the party finds a trapdoor leading to what was once [[Jorma]]'s quarters (the priest of the waters). [[Urgall the Black]] now dwells here, mostly undead and brooding obsessively over his treasure. The party surprises him in his obsession, managing to get the jump on him and do a considerable amount of damage (especially with [[Seeker]]'s holy water launched with the catapult spell) before he can react. Once he finds his footing, he manages to infect [[Wellby]] briefly with his madness of greed, forcing him to chase after illusory gold, but is quickly dispatched by the party. 
+
+Returning to the tunnels, the party finds there way to the heart of the complex, the sacred waters of [[Kaikkea]], where a massive demon sits, corrupting the sacred pool. An epic battle ensues: the demon flings water, poison, and blinding acidic spray while attempting to grapple and drag people with its tentacles and gnaw at them with its vicious teeth. [[Kenzo]] -- immune to poison -- locks down the monster, keeping it frightened and forcing it to consume his tentacles to resist [[Kenzo]]'s frightening strike. [[Seeker]] gets the worst of it, caught by acid and bile and poison, until falling unconscious in the poisonous waters, slipping below the water. But in the end the party prevails, and the demon is destroyed, and the waters run clear. 
+
+The next day, after a much needed rest, the party explores. They quickly dispatch the remaining zombies and other undead (the demons apparently being forced back to the [[Abyss]] with their master), return the various looted treasures of the sacred springs to their proper places, and tend to the bodies of the dead. Hoping to find out more about what happened, the party also uses the mirror to look at [[Urgall's Helm Vision]]. Finally, during the day they find and search the [[Flaming Tempest]], [[Urgall the Black|Urgall]]'s ship, finding trade goods, some gold, and a ciphered scroll.
+
+The next dawn, Dec 24th, the party returns to the sacred waters and places the scepter in the water to soak for 24 hours. Over the next day, everyone keeps watch, unable to sleep, as the scepter soaks. In is tense and difficult, as the scepter seems to gather visions of its power around it, and the party is on edge as the sun rises at dawn. At this moment, [[Delwath]] uses his sword to create a magic circle, in case a devil emerges from the scepter. [[Kenzo]] draws up his staff, the power of the deep, untamed ocean, the power of [[Kaikkea]] flowing with him, and strikes the scepter, shattering it. As he does, an evil wind blows, blocked by the magic circle, and a faint howl can be heard as the tattered remains of the soul of the devil bound to this thing fade out of existence. 
+
+The scepter destroyed, [[Wellby]] walks into the morning sun, followed by the rest of the party.
+
+We end the session on the morning of Dec 25th, as the party hails a ship from [[Pyhlla]], and speaks with [[Vaallinen]] and [[Tulvak]], telling them all that happened here. 

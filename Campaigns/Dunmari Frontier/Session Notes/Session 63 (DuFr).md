@@ -1,75 +1,35 @@
 ---
-tags: [session-note, dufr, status/unknown]
-campaignInfo: []
-name: Session 63 (DuFr)
+tags: [session-note]
+name: "Dunmari Frontier - Seeker Solo Session 2"
+campaign: Dunmari Frontier
+sessionNumber: 63
+realWorldDate: 2022-11-05
+DR: 1748-10-03
+DR_end: 1748-10-12
+players: [Seeker, Raven, Spirala, Mikasa]
 ---
-# Session 63, Dunmar Frontier
-*in which the party journeys across Dunmar to Stormcaller Tower.*
-
-**In the real world:** Monday, Jan 16th, 2023
-**In Taelgar:** 15 Nov 1748 - 23 Nov 1748
-
-## Summary
-
-[[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and [[Kenzo]] travel incognito across the plains of [[Dunmar]] to [[Stormcaller Tower]], using magic to gather what information they can along the way. [[Havdar]]'s curse is lifted. They arrive at the [[Stormcaller Tower]] where [[Hralgar]]'s storm is intense, and must make a decision.
-
-## Notes and Information
-
-Start: 15 Nov 1748, late evening, camped outside the fey crossing at Lastlight Falls
-End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormcaller Tower]]
-
-#### Eudomes’ Mirror:
-- [[Mace of Terror Vision]] (retcon from [[Session 50 (DuFr)]])
-- [[Hralgar's Eyes Vision]] (retcon from [[Session 50 (DuFr)]])
-- (DR:: 1748-11-15) [[Cha'mutte Armband Vision]] see in [[The Mirror of the Past]] (recharge:: mirror)
-
-#### Divine Inspiration
-- (DR:: 1748-11-20): Riswynn's prayers are granted by the Bahrazel, freeing Havdar from his cursed sword. (recharge:: "divine inspiration")
-#### Commune
-| Question                                                                 | Answer      | Date        |
-| :------------------------------------------------------------------------ | :----------- | :----------- |
-| Will [[Kadmos]] help [[People/Other Nonhumans/Grash]]?                                          | **YES**     | 20 Nov 1748 |
-| Will [[Kadmos]] steal from [[People/Other Nonhumans/Grash]]?                                    | **NO**      | 20 Nov 1748 |
-| Is [[Kadmos]] heading for us?                                            | **NO**      | 20 Nov 1748 |
-| Is [[People/Other Nonhumans/Grash]] working for [[Fausto]]?                                     | **NO**      | 21 Nov 1748 |
-| Is [[Fausto]] working for [[People/Other Nonhumans/Grash]]?                                     | **NO**      | 21 Nov 1748 |
-| Are [[People/Other Nonhumans/Grash]] and [[Fausto]] working for [[Apollyon|Apollyon]]? | **YES**     | 21 Nov 1748 |
-| Can a person be restored after being Cleasned?                           | **UNCLEAR** | 22 Nov 1748 |
-| Are we being hunted by enslaved monsters of [[Fausto]]'s?                | **YES**     | 22 Nov 1748 |
-| Are they within a week of us?                                            | **NO**      | 22 Nov 1748 |
-| Was [[Apollyon|Apollyon]] behind [[Sura]]'s kidnapping?          | **NO**      | 23 Nov 1748 |
-
 ## Timeline
 
-- (DR:: 1748-11-15): *(evening)* [[Wellby]], [[Seeker]], [[Kenzo]], [[Delwath]] and [[Riswynn]] talk and catch up. Use the mirror to look at [[Cha'mutte’s Shadow Armband]] before sleep.
-- (DR:: 1748-11-16): [[Kenzo]] is uncursed by [[Riswynn]], sacrificing his [[Horn of Silent Alarm]] in the process; [[Riswynn]] speaks with [[Johar]] via sending. Party travels west towards [[Stormcaller Tower]].
-- (DR:: 1748-11-17): Travel west; speak with [[Johar]] via Sending; scry on [[Hektor]].
-- (DR:: 1748-11-18): Travel west; learn [[Johar]] is meeting with Samraat [[Nayan Karnas]]; detour around some ogres.
-- (DR:: 1748-11-19): Arrive south of [[Raven's Hold]]. Scout, discover it is quiet; camp early.
-- (DR:: 1748-11-20):  [[Riswynn]]'s prayers are answered and [[Havdar]]'s cursed sword is destroyed by the Baharazel, freeing him of its influence. Send a message with sending to apologize. Travel west.
-- (DR:: 1748-11-21): Travel west.
-- (DR:: 1748-11-22): Travel west.
-- (DR:: 1748-11-123): *(mid-afternoon)* Arrive at [[Stormcaller Tower]], spend time planning and scouting with spells. 
+- **Afternoon, in the feywild**: [[Seeker]] meets [[Raven]], [[Spirala]], and [[Mikasa]] who are also coming to help solve the wild magic storm. 
+- **Slightly later afternoon, in the feywild**: [[Seeker]], [[Raven]], [[Spirala]], and [[Mikasa]] travel to the Crystal Peaks, where the wild magic storm is growing; enter the mountain; meet the strange fey creature [[Illaran]]; fight off animated spells; and stop the wild magic storm.
 ## Narrative
 
-We begin as the party settles in for the night outside Lastlight Falls, after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm]] carried for many months. 
+We begin in the court of the [[Prince of Luck|Chanceweaver]], as [[Seeker]] meets his companions who will venture into the wild magic storm: [[Raven]], a Winter Knight from [[Shimmersong]], also bordering the wild magic storm; [[Spirala]], a light cleric from [[Shimmersong]]; and [[Mikasa]], a samurai from a distant fey realm, who is helping in exchange for passage home from the [[Prince of Luck|Chanceweaver]]. [[Raven]] and [[Spirala]] know the way, so the party sets out from the [[Prince of Luck|Chanceweaver]]’s court towards the Crystal Peak, at the center of the wild magic storm.
 
-Over the course of the next week, the party falls into a routine as they hurry across the plains of [[Dunmar]], now sprung to life with the monsoon rains.
+![[crystal-peak.png|500]]
 
-![[dunmar-november-1748.png]]
+After some time traveling through the wonders of the [[Feywild]], the party approaches the Crystal Peak, a mountain entirely made of gems and crystals. Between [[Spirala]]’s flight, [[Raven]] and [[Mikasa]]’s ability to scale sheer walls, and [[Seeker]] polymorphing into a dragonfly getting to the top is easy. Except for when [[Seeker]] casts Polymorph, something breaks off from the top of the mountain and a giant round stone comes hurling down the mountainside. [[Raven]] and [[Mikasa]] are able to dodge out of the way, fortunately. 
 
-[[Riswynn]] prays each morning to the Baharazel, asking them to free [[Havdar]] of the curse that binds him to the [[Medusa Blade]], taken from [[Agata's lair]] and gifted to [[Havdar]] by the party. As the party travels, they send messages to [[Johar]] via sending, and [[Delwath]] keeps an eye on the movements of [[Kadmos]] and company via scrying. 
+The top of the mountain has a giant crater, as if something crashed into it, leaving an open gash that leads down into a cave structure below. The cave is almost like a massive bubble in the mountain, and at the bottom is a crashed geode, split open. Descending to investigate, giant dragonfly [[Seeker]] is swarmed and attacked by an animated cloud of crystal fragments. [[Raven]] and [[Mikasa]] run down the walls of the cave, trying to draw the attention of the clouds of crystal fragments, while [[Spirala]] and [[Seeker]] fly down. 
 
-From brief conversations, they learn that [[Johar]] is alive, and well enough treated, although he has not been allowed to see Samraat [[Nayan Karnas]], apparently because of the Samraat's (perhaps justifiably?) paranoid belief that [[Agata]] is somehow behind [[Sura]]'s reemergence. Not trusting [[Johar]] to be who he says he is, Karnas has summoned a wizard from [[Chardon]] and a mystai of [[Sonkar]] who are both gifted with the power of true sight, who will vouch for [[Johar]] before he can speak with Karnas. From brief visions via scrying, they learn that [[Kadmos]] continues east, towards [[Kharsan]], through the [[Garamjala Desert]].
+As the party deals with the crystal shards, [[Seeker]] casts Catapult to try to break one of the swarms to pieces, and vanishes, appearing in another cave, that looks inhabited. The rest of the party manages to deal with the crystal fragments, and find their way to the room [[Seeker]] is in, on the next level down.
 
-Half way through the journey, the party arrives south of [[Raven's Hold]], and stops early to scout. Flying above the fort and castle, [[Wellby]] sees no signs of habitation. A mass grave outside the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] is the only new change since the party was last here, many months ago. Recalling the news from [[Tharn Todor]], the party infers this must been the remains of [[Inakara]] and her kin, the worshippers of mind flayers slain by [[Magran Boulderbeard]] and a company of [[Dwarves]] some months ago. 
+Here, the party meets [[Illaran]], a strange fey creature with wild hair, a multicolored frizzy mess, and clearly a master of this crystal mountain domain. [[Illaran]] is somewhat shifty, and not completely straightforward with the party. But it seems that after the crash, which leaked some kind of uncontrolled magic, [[Illaran]] summoned a creature with a nose for gems to help, and it ended up swallowing the shards of the geode. After which things started to go heywire, and magic got weird. [[Illaran]] tried to kill the creature with magic, but it fled, deeper into the mountain. Somehow, the creature needs to be destroyed, and the geode shards retrieved and destroyed, to end the chaos. Unfortunately, [[Illaran]] admits, the spells he cast came alive (some aftereffect of the geode, he thinks), and might be waiting for the party. Still, it is the only way, he says, so the party proceeds.
 
-The next day, the [[Bahrazel]] answer [[Riswynn]]'s prayers. In her morning prayers, she is briefly transported, seeing a vision of [[Havdar]] in camp, waking and immediately reaching for his sword, when his hands are grasped by those of an old [[Dwarves|dwarf]], and a voice in Dwarven echos, saying, "No. You are free," as the sword turns to a snake and begins to slither away, before shattering to dust. Scrying over the course of the day reveals [[Havdar]] unsettled and deep in thought, and then blaming [[Chardon]] for the curse, advocating for immediate war. This prompts the party to reach out via Sending, apologizing for the party's mistake in gifting him the sword, saying they had no knowledge of its curse, to which [[Havdar]] can only reply: "Shit. Really?" The [[Bahrazel]] also, during the course of the journey, answer some of the parties questions. 
+[[Illaran]] leads them to another cave, with polished reflective crystal walls, where they find a portal to the deep cave where the creature, a xorn, can be found. The creature has been petrified by the chaotic magic, turned to a statue of stone - surrounded by living versions of all the spells that [[Illaran]] or the party cast in the mountain, which immediately attack. While [[Raven]], [[Spirala]], and [[Seeker]] try to hold off the wild magic, [[Mikasa]] lunges for the statute, attempting to crack it in two to shatter the magic crystal and end the wild magic storm. 
 
-A week after leaving the camp at Lastlight Falls, the party arrives outside the [[Stormcaller Tower]], where [[Hralgar]]'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
+[[Spirala]] manages to temporarily paralyze one of the spells with Dispel Magic, and [[Raven]] holds off a number of smaller, weaker spells, along with the echo of the giant dragonfly [[Seeker]] polymorphed into. However, [[Illaran]]’s lightning bolt and force hand, as well as [[Seeker]]’s catapult, are real trouble. Fortunately, [[Mikasa]] is able to crack open the statue. As it cracks, the room vibrates for a moment, and with a last wild burst of chaotic magic energy, the storm ends and magic begins to rebalance.
 
-![[hralgar-storm-nov-1748.png]]
+We end as [[Seeker]], [[Spirala]], and [[Raven]] continue their journey to [[Shimmersong]] and beyond, in search of the fey crossing that will reunite [[Seeker]] with his friends, as [[Mikasa]] returns to receive her favor from the [[Prince of Luck|Chanceweaver]] and go home. But not before a grateful [[Illaran]] gifts [[Seeker]] fragments of crystalized magic, from a mysterious source, to do with what he will. 
 
-Between [[Seeker]]'s clairvoyance and [[Kenzo]]'s ability to commune with nature and the land, it is clear that [[Hralgar]] is lost more deeply in his mind than before, and the storm is more intense. The eye that previously left the tower open to the sky is gone, and lightning and thunder echos from the clouds. 
-
-We end as the party contemplates their next move, and whether a journey into the [[Dreamworld]] is necessary to calm [[Hralgar]] and allow them to approach.
+The source of the geode, which caused the wild magic storm and the living spells, remains mysterious; and [[Illaran]] won't reveal where he came by or created the crystalized magic he gave to [[Seeker]]. But, at least to [[Seeker]]'s eyes, they seem unrelated. 

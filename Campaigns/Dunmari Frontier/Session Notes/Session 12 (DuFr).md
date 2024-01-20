@@ -1,8 +1,12 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 12
+realWorldDate: 2020-11-08
+DR: 1748-04-13
+DR_end: 1748-04-13
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
-
-**(Sunday, Nov 8th, 2020; in Taelgar, morning April 13th)
 
 We begin as the morning sun rises over [[Raven's Hold]]. As the party awakens and prepares for the day, they are interrupted as [[Kenzo]] and [[Delwath]] note the approach of a band of gnolls, heading towards the closed gate. They are traveling with a small bat-like demon, and moving quickly across the courtyard, past pools of fetid black water, avoiding the low hanging mists lingering in the air. As they approach the gate, they bang on it a few times, and there seems to be a brief discussion as the leader reaches for a spear, when [[Wellby]]’s arrow flies out of the windows on the tower, striking the demon-beast dead.
 
