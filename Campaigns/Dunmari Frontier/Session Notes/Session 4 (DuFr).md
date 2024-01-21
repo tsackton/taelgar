@@ -6,8 +6,34 @@ realWorldDate: 2020-07-09
 DR: 1748-03-26
 DR_end: 1748-03-29
 players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which the Dunmar Fellowship uncovers dire truths
+descTitle: Shakun's Wane
+title: Dunmari Frontier - Session 4
 ---
+# Dunmari Frontier - Session 4
 
+>[!info] Shakun's Wane: in which the Dunmar Fellowship uncovers dire truths
+> *In Taelgar: Mar 26, 1748 DR to Mar 29, 1748 DR*
+> *On Earth: Thursday Jul 09, 2020*
+> *Karawa*
+
+The Dunmar Fellowship arrives in Karawa and discovers that the magical protections of Shakun are failing, leading to increased dangers and a plea for their aid.
+
+## Timeline
+- (DR:: 1748-03-26), morning: Wake in temple at the [[Dunmari Fort (Gomat)|Dunmari fort]], set out west for [[Karawa]]
+- (DR::1748-03-26), afternoon: Travel west across the [[Daraar Canyon]], heading for [[Karawa]]
+- (DR:: 1748-03-27): Travel west towards Karawa
+- (DR:: 1748-03-28): Travel west towards Karawa
+- (DR:: 1748-03-29), early afternoon: Arrive in [[Karawa]]. Speak with Elder [[Kisa]], who tells them about the [[Summer of Red Storms]]. Meet [[Ikram]], who tells them about [[Arcus]]. Meet the smith, [[Jasu]]. Meet the [[Charmhearts]].
+- (DR:: 1748-03-29), evening: Speak with [[Candrosa]], who is nervous and seems to be hiding something. Learn about [[Shakun's Protection]] from Candrosa. Learn rumors of permanent lightning storm on the plains, and half-human, half-hyena beasts known as gnolls raiding.
+## Session Info
+### Summary
+- The Dunmar Fellowship departs the fort with various artifacts and heads to Karawa.
+- In Karawa, they learn from Elder Kisa about past disturbances and the Summer of Red Storms.
+- The party learns more about Arcus, attacked herders, and the upcoming Festival activities from Ikram, Jasu, and Alesh.
+- The Charmhearts, a group of halflings, provide an unsettling encounter with a disheveled halfling speaking of a 'master'.
+- Candrosa of the Shakun temple reveals the weakening of magical protections and seeks the party's help.
+## Narrative
 The session began with the party waking up in the intact temple of the ruined fort, a sense of calm and peace permeating the area after the defeat of the zombie hobgoblin and the destruction of the cursed obsidian focus. After a little while spent in further exploration, as well as sketching the face of the [[Arcus|petrified explorer]] and briefly debating heading back in the tunnels to try to tame a cockatrice, the party set off for [[Karawa]]. Before leaving, [[Seeker]] studies the tunnel a bit and learns that it is relatively old, at least a few months and maybe more, and created by a creature. Taking the relics found in the temple (including the small [[Aagir's Everlight|spearpoint statue]] enchanted with continual light), the [[Black Iron Staff]] inscribed with the words: "I bind you to the black wind, I bind you to my flame, I bind you in my power until the sun fails and the moon is dead" in Draconic, what looks like a holy symbol relating to Cha’mutte (made of black pearl and polished silver in a twisted flame design), as well as the [[Floating Disc Coin|golden floating coin]] and a [[Horn of Silent Alarm|horn engraved with a running horse design]], the party leaves. 
 
 Traveling back to [[Karawa]] took about 3 days at a fast, but not exhausting, pace. Arriving in the early afternoon on March 29th, the town has changed. Lots of people -- not just Dunmari -- have arrived for the Festival, and the markets and games that accompany it, and a large tent city has grown up on the outskirts of town. The caravanserai is bustling, and there is more activity and trade happening in [[Karawa]] than any of you had seen since arriving in what was a sleepy town. 
@@ -23,4 +49,3 @@ Leaving [[Jasu]] to his dinner, they head to say hello to a group of halflings -
 At this point, the party splits up before bed. [[Delwath]], [[Seeker]], and [[Wellby]] head to the oasis to meditate and try to get insight from [[Shakun]], while [[Kenzo]] continues to talk and drink with [[Ikram]]. About 10:30 or 11 at night, [[Candrosa]] walks out of the temple of [[Shakun]], sees most of the party, and sends [[Wellby]] to get [[Kenzo]] at the inn, where [[Wellby]] proceeds to attempt an ancient halfling trick to sober you up quick involving three eggs and a stick.
 
 Eventually the party gathered at the oasis and the temple, seeing a man on a horse in warrior gear ride past leaving the temple as they are assembling (this is [[Havdar]], a warrior who reported the rumors of hyena-humanoids attacking to the south to [[Candrosa]]). [[Candrosa]] ushered them into a small room to the side of the entryway of the [[Temple of Shakun]]. As the party began to talk with [[Candrosa]], it became clear he was nervous and hiding something. When asked directly, he seemed almost relieved, but also uncertain as to whether he could trust the party, and almost struggling with himself as to how much to reveal. After hearing the stories of why the party is there, and casting Zone of Truth and asking them if they are here to aid or hinder [[Karawa]], he begins to talk, telling the party about the magic of [[Shakun]] that protects the borders of [[Dunmar]], creating illusions and misdirection preventing enemies from finding their way in the desert. He talks about how this magic has kept [[Dunmar]] safe for many generations, and then about how [[Shakun]] seems to have abandoned the Dunmari. He is terrified and asks for their aid, saying “If [[Shakun]] cannot protect us, we will have to rely on more mundane forces.” During the conversation, he also passes along two additional rumors, one about a never-ending lightning storm, and one about rampaging hyena-humanoids, but says there will be time to talk more in the morning. 
-

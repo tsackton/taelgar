@@ -7,7 +7,14 @@ DR: 1748-03-30
 DR_end: 1748-04-04
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
+## Timeline
 
+%%^Campaign:None%%
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", { yearStart: "1748-03-30", yearEnd: "1748-04-04", includAll: true})
+```
+%%^End%%
+## Narrative
 The session begins with everybody but [[Kenzo]] meeting for breakfast at [[Ikram’s]] caravanserai. [[Wellby]] shares a message and [[Letter from Candrosa|letter]] from [[Candrosa]], informing the party that scouts are investigating rumors of attacks to the south and east, and that a council in a few days time will meet to decide what to do. The presence of the Heroes of [[Karawa]] is requested at this council. After being informed that [[Kenzo]] is meditating at the summit of the [[Red Mesa]] on the southern border of town, the party heads up to meet him; on the way [[Seeker]] is reminded of the geological oddity that the [[Temple of Shakun]], carved into the cliff wall of the mesa, seems to be older than the mesa itself. 
 
 Here, some discussion ensues of various pre-dawn encounters. [[Kenzo]] tells the party about [[Dreamweaver Staff|Candrosa's staff]], which sent him to a starry void filled with flickering lights of all colors and shapes (reminding [[Seeker]] of his coming of age vision), and then to the [[Dreamworld]], a mirror realm that is like and very unlike Taelgar. Here, he saw a robed man with a staff, who told him to seek the [[Order of the Awakened Soul]]. While no one in the party knows much about this order, there are legends of mystics that roam the desert and go by this name. After some discussion of magic, planes, and the gods, [[Wellby]] begins to tell his story.

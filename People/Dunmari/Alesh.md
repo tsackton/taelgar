@@ -31,13 +31,13 @@ A short, quick-footed woman, with a nondescript face, short, black hair and ligh
 - Her extended family are traditional goat herders who travel mostly to the north and west of [[Karawa]]. 
 
 ## Chronology
-- 21 Mar 1748: Spends the night at the [[Gomat]] oasis with [[Akan]] and his family
-- 22 Mar 1748: Meets [[Dunmar Fellowship]] on the road, while returning to [[Karawa]] from [[Gomat]].
-- 23 Mar 1748: Arrives in [[Karawa]]
-- 28 Mar 1748: Leaves to collect news and rumors from the herders to the north and east. 
-- 2 Apr 1748: Returns to Karawa with news from the north and east. 
-- 4 Apr 1748: Leaves [[Karawa]] to scout the [[Nashtkar]] and edges of the [[Garamjala Desert]]
-- 18 Apr 1748: Returns to [[Karawa]]
+- (DR::1748-03-21): Spends the night at the [[Gomat]] oasis with [[Akan]] and his family
+- (DR::1748-03-22): Meets [[Dunmar Fellowship]] on the road, while returning to [[Karawa]] from [[Gomat]].
+- (DR::1748-03-23): Arrives in [[Karawa]]
+- (DR::1748-03-28): Leaves to collect news and rumors from the herders to the north and east. 
+- (DR::1748-04-02): Returns to Karawa with news from the north and east. 
+- (DR::1748-04-04) Leaves [[Karawa]] to scout the [[Nashtkar]] and edges of the [[Garamjala Desert]]
+- (DR::1748-04-18): Returns to [[Karawa]]
 - 26 Apr 1748 - 18 May 1748: Travel between [[Karawa]] and [[Tokra]] and back to bring messages, check on refugees. 
 - 18 May 1748 - 31 May 1748: In [[Karawa]] waiting for news. 
 - 1 June 1748: Rides for [[Tokra]] to inform refugees it is safe to return
