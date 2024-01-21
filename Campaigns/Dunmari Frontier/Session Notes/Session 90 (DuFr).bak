@@ -6,31 +6,22 @@ realWorldDate: 2023-12-20
 DR: 1749-01-30
 DR_end: 1749-03-09
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
-tagline: in which peace negotiations begin
-descTitle: Diplomatic Ventures
-title: Dunmari Frontier - Session 90
-complete: true
 ---
-# Dunmari Frontier - Session 90
+## Old Summary
+*in which the party negotiates in Dunmar and travels to Tollen
 
->[!info] Diplomatic Ventures: in which peace negotiations begin
-> *In Taelgar: Jan 30, 1749 DR to Mar 09, 1749 DR*
-> *On Earth: Wednesday Dec 20, 2023*
-> *Copper Hills*
+**In the real world:** December 20th, 2023
+**In Taelgar:** January 30th, 1749 - March 9th, 1749
+- Travel to the Copper Hills and facilitate negotiations between Sura and Karnas to end the Siblings War
+- Travel to Orenlas and meet [[Egnir]], now a gardener on [[Vindristjarna]]
+- Travel to Tollen, for upgrades to Vindristjarna and information gathering in preparation for the journey to Ursk
+## Session Events
+#### Timeline 
 
-The Dunmar Fellowship engages in intricate diplomacy to reconcile siblings Sura and Nayan Karnas, uncovering and dispelling suspicions manipulated by Agata.
-## Session Info
-### Summary
-- The Dunmar Fellowship departs to Sura's camp in the Copper Hills to mediate a conflict between her and Nayan Karnas.
-- They share news of the War of the Cloak and the Battle for Uzgukhar, and learn of Karnas' distrust towards Sura due to Agata's alleged influence.
-- Sura expresses her anger towards Karnas and agrees to meditate with Kenzo
-- Using the Mirror of the Past, the party disproves a key piece of evidence Karnas held against Sura, causing him to rage.
-- Abha believes this revelation is the first step towards reconciliation, and the party leaves tokens of unity before heading to Tollen
-### Timeline
 - (DR:: 1749-01-30): (late morning) depart west for the [[Copper Hills]] on [[Vindristjarna]], passing south of [[Karawa]] and the [[Red Mesa]] in the night
 - (DR:: 1749-01-31): Watch the sun rise over the  [[~Southern Tokra Plains~]]; travel across the plains during the day, and reach and cross the [[Hara]] river in the evening. Continue west through the night.
 - (DR:: 1749-02-01):  Reach the outskirts of the Copper Hills in the morning. Speak with [[Sura]] on Vindristjarna, then [[Johar]]. Send messages to the [[Sonkar Mystai]] [[Abha]]. Meditate with Sura in the evening. 
-- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]] and use the [[The Mirror of the Past]] to reveal [[Agata]]'s meddling. Speak with [[Abha]] again. Return to Vindristjarna.
+- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]]. Show [[Nayan Marathu's Letter]] to the [[The Mirror of the Past]], seeing [[Nayan Marathu's Letter Vision]]. Speak with [[Abha]] again. Return to Vindristjarna. (recharge:: mirror)
 - (DR:: 1749-02-03): Tie up loose ends in Sura's camp. 
 - (DR:: 1749-02-04): Depart for Tollen, via Orenlas. Travel to Orenlas, crossing the [[~North Tokra Plains~]]. 
 - (DR:: 1749-02-05): Travel towards Orenlas, passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Stormcaller Tower]].  
@@ -46,12 +37,8 @@ The Dunmar Fellowship engages in intricate diplomacy to reconcile siblings Sura 
 - (DR:: 1749-02-15): Arrive outside [[Tollen]] in the morning. Contact [[Adam Gower]] and others, and dock [[Vindristjarna]] for construction.
 - (DR:: 1749-02-16) - (DR:: 1749-03-08): [[Interlude (Tollen Downtime)|Downtime in Tollen]].
 - (DR::1749-03-09): Meet the [[Kenku|kenku]] scout [[Kecha]] on [[Vindristjarna]]. Shadow hunter attack well after midnight. 
-### Mirror of the Past
-- (DR:: 1748-02-02): The history of [[Nayan Marathu's Letter]] is reveled in [[Nayan Marathu's Letter Vision]] (recharge:: mirror)
-- (DR:: 1748-02-17): The history of magical pale blue dye from Ursk is revealed in [[Magical Pale Blue Dye Vision]] (recharge:: mirror)
-- (DR:: 1748-03-01): The history of a white dragon tooth from Ursk is revealed in [[Cecilia's White Dragon Tooth Vision]] (recharge:: mirror)
-
 ## Narrative
+
 We begin as the party departs [[Pava and Avaras' House]], heading west to [[Sura]]'s army camp in the [[Copper Hills]], hoping to negotiate a peace between Sura and her brother, Samraat [[Nayan Karnas]]. In Vindristjarna, the journey across Dunmar takes only two days, and the party arrives at Sura's camp on the morning of February 1st.
 
 Here, they begin by speaking to Sura. They give her news of the [[War of the Cloak]], the [[Battle for Uzgukhar]], and the defeat of [[Grash]]. Sura passes along the news of the [[Battle of Tokra]], and [[Havdar]]'s activities to fortify the northwestern border of [[Dunmar]], along the [[Myraeni Gap]]. Then, the conversation turns to Karnas and the current situation. Karnas is convinced that [[Agata]] has silenced the gods using the [[Cloak of Rainbows]], and corrupted Sura to be her pawn. The party learns from Sura that [[Johar]], Kenzo's friend from the [[Lakan Monastery]], has been taking letters between the camps, and the [[Sonkar Mystai]] [[Abha]] is Karnas' closest advisor, although currently he is convinced that nothing she says can be trusted, because of Agata's meddling with the gods. 
@@ -61,7 +48,6 @@ The conversation turns to meeting with [[Nayan Karnas|Karnas]], and to Sura's fe
 That afternoon, the party speaks with [[Johar]]. He is nervous, and reports on the evidence of Agata's meddling in Dunmari history that Karnas has found. Most notable is a letter, written by the Samraat [[Marathu]], who was Sura's mentor and killed in the attack when Sura was kidnapped. The letter, according to Karnas, states that Marathu had visited Agata in his youth, and was compelled now to deliver Sura to her, for training and apprenticeship. Johar lists a bunch of other evidence he has found of Agata's meddling. The discussion also turns to the [[Cloak of Rainbows]], which has definitely been with the orcs of [[Xurkhaz]] since shortly after the [[Great War]], and so can't have been used by Agata. Johar is convinced, but he warns the party Karnas will not be easy to deal with. 
 
 The meeting with Johar ends with Johar arranging a meeting with [[Abha]], who will speak with the party the following day around lunchtime, near Karnas' camp. The rest of the day and evening is spent in discussion, and in prayer and meditation with Sura. Delwath also speaks with the tanshi, asking:
-
 - Can Agatha influence Dunmar from where she is now? *Probably not*
 - Did Agatha leave behind magical traps and tricks still active in Dunmar. *No*
 - Was Sura in the mirror for eight years? *Yes*

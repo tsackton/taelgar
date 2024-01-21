@@ -9,6 +9,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which lizards besiege an oasis
 descTitle: Oasis Battle
 title: Dunmari Frontier - Session 2
+complete: true
 ---
 # Dunmari Frontier - Session 2
 
@@ -18,19 +19,18 @@ title: Dunmari Frontier - Session 2
 > *Gomat Oasis to the abandoned Dunmari fort*
 
 The Dunmar Fellowship defeats giant lizards at Gomat Oasis, uncovers signs of unnatural disturbances, and battles skeletons at a ruined fort.
-
-## Timeline
-- (DR::1748-03-22), evening: Kill three giant lizards at the [[Gomat|Gomat Oasis]] and camp for the night
-- (DR:: 1748-03-23), morning: Meet [[Akan]] at the [[Gomat|Gomat Oasis]] in the morning, a survivor of the giant lizard attack. After, turn east into the [[Nashtkar]].
-- (DR:: 1748-03-23), late afteroon: Arrive at the [[Daraar Canyon]], camp. 
-- (DR:: 1748-03-24): Cross the [[Daraar Canyon]] heading east into the desert. 
-- (DR:: 1748-03-25), morning: Reach the [[Dunmari Fort (Gomat)|abandoned Dunmari fort]] east of the [[Gomat|Gomat Oasis]]. Kill skeletons that emergy from the ground. 
 ## Session Info
 ### Summary
 - The Dunmar Fellowship arrives at Gomat Oasis, fights and kills three giant lizards.
 - They meet Akan, a survivor, who recounts his family's deadly encounter with the lizards during the Festival of Rebirth preparations.
 - Following the lizard tracks east, the party discovers abnormal animal behavior and a canyon with unnatural features.
 - Upon reaching a ruined fort, the party is attacked by skeletons emerging from a disturbed mound, hinting at recent activity.
+### Timeline
+- (DR::1748-03-22), evening: Kill three giant lizards at the [[Gomat|Gomat Oasis]] and camp for the night
+- (DR:: 1748-03-23), morning: Meet [[Akan]] at the [[Gomat|Gomat Oasis]] in the morning, a survivor of the giant lizard attack. After, turn east into the [[Nashtkar]].
+- (DR:: 1748-03-23), late afteroon: Arrive at the [[Daraar Canyon]], camp. 
+- (DR:: 1748-03-24): Cross the [[Daraar Canyon]] heading east into the desert. 
+- (DR:: 1748-03-25), morning: Reach the [[Dunmari Fort (Gomat)|abandoned Dunmari fort]] east of the [[Gomat|Gomat Oasis]]. Kill skeletons that emergy from the ground. 
 ## Narrative
 [[Seeker]] of Highkeep, [[Wellby]] Goodbarrel, [[Kenzo]], and [[Delwath]], arriving at the [[Gomat]] Oasis past sunset, tired and weary from a long journey in the desert sun, find the oasis beset by three giant lizards, feasting on dead sheep. Deciding to attack, the party made relatively quick work of the beasts. Exhausted, and unable to determine much in the dark, the party camped for the night.
 

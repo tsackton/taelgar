@@ -109,7 +109,6 @@ Major items:
 - A gray cloak, found in the Elemental Forge, that functions as a Cloak of Elvenkind. 
  - Longsword of Heroism, recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[The Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Kharsan]] palace)
 
-
 Minor items:
 - [[Portable Hole]] (rare minor item, party)
 - [[Augury Mirrors]] (rare minor item, party)
@@ -120,8 +119,7 @@ Minor items:
 - A [[Fides Lucaris]] Sending Stone. Found in a hidden lead box, and once possessed by the woman whose skeleton remains in the elemental forge. [[Lucius]], a boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking. 
 
 Not in use:
-- Spell gem from [[Kadmos]] containing the Summon Greater Demon spell.
-- A silver wand that functions as an arcane focus, and a locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. The spellbook's contains are currently unknown. 
+- A locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. The spellbook's contains are currently unknown. 
 ## Vindristjarna
 
 The following magical items are kept on [[Vindristjarna]]: 
@@ -340,6 +338,8 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 ### Given Away
 
+- Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
+- A silver wand that functions as an arcane focus, found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. 
 - Brooch of Warmth. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the detailed brooch enameled with brilliant reds, missing a central crystal, and an enchanted ruby found in the chest of gems, clearly meant to fit into the brooch (from the Elemental Forge). While attuned to this item, the wearer gains resistance to cold damage, and is unaffected by temperatures as low as -50 degrees. Given to Faldrak as partial payment for magic item construction. 
 - 1 silver bar, weighing 5 pounds, from the Elemental Forge. Given to Faldrak as partial payment for magic item construction. 
 - 1/2 a gold bar, weighing 5 lb, from the Elemental Forge. Given to Faldrak as partial payment for magic item construction. 
@@ -355,8 +355,8 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Gold ring from [[Halflings|halfling]] killed by chimera. A golden ring set with bloodstones. Found in [[Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]]. 
 -  [[Govir]]’s two holy symbols of [[Laka]], returned to [[Govir]]
 - Two small garnets from [[Raven's Hold]], 10 gp each. Given to [[Charmhearts]] in [[Tokra]].
-- [[Hobgoblin Notes from Raven's Hold|Looseleaf Hobgoblin Journal and log book]]. A leather satchel holding unbound pages that include notes and sketches that might portray troop movements, as well as a log book. Old. Given to [[Archives]] in [[Tokra]])
-- [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information).
+- [[Hobgoblin Notes from Raven's Hold|Looseleaf Hobgoblin Journal and log book]]. A leather satchel holding unbound pages that include notes and sketches that might portray troop movements, as well as a log book. Old. Given to [[Archives]] in [[Tokra]]
+- [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information.
 - [[Boots of False Tracks]]. Given to [[Marcella]]. 
 - A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[31]%%
 - A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[57]%%

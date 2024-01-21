@@ -9,6 +9,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the Dunmar Fellowship uncovers dire truths
 descTitle: Shakun's Wane
 title: Dunmari Frontier - Session 4
+complete: true
 ---
 # Dunmari Frontier - Session 4
 
@@ -18,14 +19,6 @@ title: Dunmari Frontier - Session 4
 > *Karawa*
 
 The Dunmar Fellowship arrives in Karawa and discovers that the magical protections of Shakun are failing, leading to increased dangers and a plea for their aid.
-
-## Timeline
-- (DR:: 1748-03-26), morning: Wake in temple at the [[Dunmari Fort (Gomat)|Dunmari fort]], set out west for [[Karawa]]
-- (DR::1748-03-26), afternoon: Travel west across the [[Daraar Canyon]], heading for [[Karawa]]
-- (DR:: 1748-03-27): Travel west towards Karawa
-- (DR:: 1748-03-28): Travel west towards Karawa
-- (DR:: 1748-03-29), early afternoon: Arrive in [[Karawa]]. Speak with Elder [[Kisa]], who tells them about the [[Summer of Red Storms]]. Meet [[Ikram]], who tells them about [[Arcus]]. Meet the smith, [[Jasu]]. Meet the [[Charmhearts]].
-- (DR:: 1748-03-29), evening: Speak with [[Candrosa]], who is nervous and seems to be hiding something. Learn about [[Shakun's Protection]] from Candrosa. Learn rumors of permanent lightning storm on the plains, and half-human, half-hyena beasts known as gnolls raiding.
 ## Session Info
 ### Summary
 - The Dunmar Fellowship departs the fort with various artifacts and heads to Karawa.
@@ -33,6 +26,14 @@ The Dunmar Fellowship arrives in Karawa and discovers that the magical protectio
 - The party learns more about Arcus, attacked herders, and the upcoming Festival activities from Ikram, Jasu, and Alesh.
 - The Charmhearts, a group of halflings, provide an unsettling encounter with a disheveled halfling speaking of a 'master'.
 - Candrosa of the Shakun temple reveals the weakening of magical protections and seeks the party's help.
+### Timeline
+- (DR:: 1748-03-26), morning: Wake in temple at the [[Dunmari Fort (Gomat)|Dunmari fort]], set out west for [[Karawa]]
+- (DR::1748-03-26), afternoon: Travel west across the [[Daraar Canyon]], heading for [[Karawa]]
+- (DR:: 1748-03-27): Travel west towards Karawa
+- (DR:: 1748-03-28): Travel west towards Karawa
+- (DR:: 1748-03-29), early afternoon: Arrive in [[Karawa]]. Speak with Elder [[Kisa]], who tells them about the [[Summer of Red Storms]]. Meet [[Ikram]], who tells them about [[Arcus]]. Meet the smith, [[Jasu]]. Meet the [[Charmhearts]].
+- (DR:: 1748-03-29), evening: Speak with [[Candrosa]], who is nervous and seems to be hiding something. Learn about [[Shakun's Protection]] from Candrosa. Learn rumors of permanent lightning storm on the plains, and half-human, half-hyena beasts known as gnolls raiding.
+
 ## Narrative
 The session began with the party waking up in the intact temple of the ruined fort, a sense of calm and peace permeating the area after the defeat of the zombie hobgoblin and the destruction of the cursed obsidian focus. After a little while spent in further exploration, as well as sketching the face of the [[Arcus|petrified explorer]] and briefly debating heading back in the tunnels to try to tame a cockatrice, the party set off for [[Karawa]]. Before leaving, [[Seeker]] studies the tunnel a bit and learns that it is relatively old, at least a few months and maybe more, and created by a creature. Taking the relics found in the temple (including the small [[Aagir's Everlight|spearpoint statue]] enchanted with continual light), the [[Black Iron Staff]] inscribed with the words: "I bind you to the black wind, I bind you to my flame, I bind you in my power until the sun fails and the moon is dead" in Draconic, what looks like a holy symbol relating to Cha’mutte (made of black pearl and polished silver in a twisted flame design), as well as the [[Floating Disc Coin|golden floating coin]] and a [[Horn of Silent Alarm|horn engraved with a running horse design]], the party leaves. 
 
