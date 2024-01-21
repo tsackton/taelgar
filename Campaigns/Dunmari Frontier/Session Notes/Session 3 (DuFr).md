@@ -9,6 +9,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which an old fort reveals its secrets
 descTitle: Fort Investigation
 title: Dunmari Frontier - Session 3
+complete: true
 ---
 # Dunmari Frontier - Session 3
 
@@ -18,9 +19,6 @@ title: Dunmari Frontier - Session 3
 > *Dunmari Fort (Gomat)*
 
 The Dunmar Fellowship explores a ruined fort, battles creatures, and uncovers magical items while putting an end to a curse.
-## Timeline
-- (DR::1748-03-25), afternoon: Explore [[Dunmari Fort (Gomat)|the ruined fort]] and the caves below. Find a petrified explorer (later revealed to be [[Arcus]]). Find and defeat an undead creature carrying a symbol of Cha'mutte. Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage. 
-- (DR:: 1748-03-25), evening: Make camp and rest in the Dunmari temple at the fort.
 ## Session Info
 ### Summary
 - The Dunmar Fellowship finds an old, disturbed campsite outside a ruined fort.
@@ -29,6 +27,9 @@ The Dunmar Fellowship explores a ruined fort, battles creatures, and uncovers ma
 - Exploration of the fort's towers uncovers a magical horn and the remains of an ancient scout.
 - In the cave below, they find a petrified explorer, a magical floating disc coin, and confront a cockatrice nursery.
 - A battle with undead creatures leads to the destruction of a cursed obsidian stone in the caverns beneath.
+### Timeline
+- (DR::1748-03-25), afternoon: Explore [[Dunmari Fort (Gomat)|the ruined fort]] and the caves below. Find a petrified explorer (later revealed to be [[Arcus]]). Find and defeat an undead creature carrying a symbol of Cha'mutte. Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage. 
+- (DR:: 1748-03-25), evening: Make camp and rest in the Dunmari temple at the fort.
 ## Narrative
 The party decided to explore a little more before entering the ruined fort, and discovered a campsite in the foundations of the outbuildings outside the fort. The camp itself was several days to several weeks old, and had clearly been disturbed by animals (signs of scattered food -- salt pork and dried fish and the like that had been partially eaten by animals). Whoever made the camp had left most of their stuff, except weapons and water, and went somewhere. 
 

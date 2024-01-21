@@ -9,6 +9,7 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the Dunmar Fellowship confronts chaos
 descTitle: Hyena Rampage
 title: Dunmari Frontier - Session 1
+complete: true
 ---
 # Dunmari Frontier - Session 1
 
@@ -18,16 +19,15 @@ title: Dunmari Frontier - Session 1
 > *Karawa and Gomat Oasis*
 
 The newly formed Dunmar Fellowship rescues Karawa from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at Gomat Oasis.
-
-## Timeline
-- (DR:: 1748-03-22), morning: [[Kenzo]] arrives in [[Karawa]]. Giant hyena attack. Village elders, including [[Candrosa]] and Elder [[Kisa]], ask [[Delwath]] and companions to help. 
-- (DR:: 1748-03-22), afternoon: The party heads into the desert, where they meet [[Alesh]] on the road.  Turn east to the [[Gomat|Gomat Oasis]], where they find three giant lizards ripping into sheep carcasses.
 ## Session Info
 ### Summary
 - The Dunmar Fellowship saves the villagers of Karawa from two giant hyenas, with the aid of Beli, a woman with divine magic.
 - The party agrees to investigate a series of mysterious attacks on the village after a discussion with Karawa's leaders.
 - After tracking the beasts into the desert, the Fellowship encounters Alesh, a Dunmari scout.
 - The Fellowship reaches Gomat Oasis, only to find giant lizards feasting on sheep carcasses.
+### Timeline
+- (DR:: 1748-03-22), morning: [[Kenzo]] arrives in [[Karawa]]. Giant hyena attack. Village elders, including [[Candrosa]] and Elder [[Kisa]], ask [[Delwath]] and companions to help. 
+- (DR:: 1748-03-22), afternoon: The party heads into the desert, where they meet [[Alesh]] on the road.  Turn east to the [[Gomat|Gomat Oasis]], where they find three giant lizards ripping into sheep carcasses.
 ## Narrative
 [[Seeker]] of Highkeep, [[Wellby]] Goodbarrel, [[Kenzo]], and [[Delwath]] the [[Elves|Elf]] all meet as they rush in to save the villagers of [[Karawa]] from two rampaging giant hyenas. They defeat the hyenas (one killed by [[Kenzo]], with staff and bare hands, and the other attacked with magical flames by [[Delwath]], distracted by an illusory baby antelope and tripped into a hole in the ground by [[Seeker]], then stabbed by [[Wellby]]), managing to keep all the villagers alive; one of the villages, a woman with a touch of divine magic named [[Beli]], helps in the battle. Afterward, they talk in the tea room below [[Delwath]]'s house, while the server [[Badya]] helps tend the wounded. Speaker [[Candrosa]], the leader of the [[Shakun Mystai]], and Elder [[Kisa]], leader of [[Karawa]], arrive and discuss the attacks -- these are the latest and most dangerous in a string of mysterious attacks. [[Kisa]] asks [[Delwath]] to investigate the problem, and he gets everyone else to help.
 
