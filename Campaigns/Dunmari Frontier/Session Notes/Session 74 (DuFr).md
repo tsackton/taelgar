@@ -6,27 +6,45 @@ realWorldDate: 2023-03-30
 DR: 1748-11-24
 DR_end: 1748-11-29
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which the Vindristjarna is restored
+descTitle: Skyship Repair
+title: Dunmari Frontier - Session 74
 ---
-## Notes and Information
+# Dunmari Frontier - Session 74
 
-*in which the party repairs the skyship [[Vindristjarna]]
+>[!info] Skyship Repair: in which the Vindristjarna is restored
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Nov 24, 1748 DR to Nov 29, 1748 DR*
+> *On Earth: Thursday Mar 30, 2023*
+> *[[Stormcaller Tower]]*
 
-[[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]], and [[Riswynn]] camp at the ruins of [[Vindristjarna]], working to repair the control mechanisms that let it fly. 
+The Dunmar Fellowship successfully repairs the skyship Vindristjarna.
 
-Start: evening, Nov 24th 1748
-End: night, Nov 29th 1748
+## Session Info
+### Summary
 
-## Timeline
+- The Dunmar Fellowship, at the site of the crashed airship Vindristjarna, begins repairs using knowledge from Hralgar's library.
+- Seeker and Riswynn construct an adamantine harness, a stone console, and a gold and silver focus for the ship's phasing stone apparatus, while Wellby and Kenzo keep watch and Delwath scrys enemy movements.
+- Alesh brings news of Dunmar, and delivers a letter and a Sending Stone to Sura on the party's behalf.
+- Seeker attunes to the phasing stone, and begins flying practice.
 
-- (DR:: 1748-11-24): *(evening)* Return to the crash of [[Vindristjarna]] by evening with [[Hralgar]]'s wind blessing.
+### Timeline
+- (DR:: 1748-11-24), evening: Return to the crash of [[Vindristjarna]] by evening with [[Hralgar]]'s wind blessing.
 - (DR:: 1748-11-25): Work on skyship. Convert [[Delwath]]'s shield to an adamantine harness to hold phasing stone.
 - (DR:: 1748-11-26): Work on skyship, finishing the stone helm on which the phasing stone will be mounted; scry on [[Kharsan]], [[Kadmos]].
 - (DR:: 1748-11-27):  Work on skyship, converting gold and silver to wire to construct the channeling device. Meet [[Alesh]]; speak with her about events in [[Dunmar]] and give her letter and sending stone for [[Sura]]. Sending with Ulfgar and [[Govir]], who both agree to do research.
 - (DR:: 1748-11-28): Continue to work on the channeling device; scry [[Kharsan]] and see army leaving. [[Seeker]] dreams of shadow hunter threatening that he is coming.
-- (DR:: 1748-11-29): Finish work on [[Vindristjarna]]. [[Seeker]] attunes to the phasing stone, begins to practice flying. Shadow dogs attack at midnight.
+- (DR:: 1748-11-29): Finish work on [[Vindristjarna]]. [[Seeker]] attunes to the phasing stone, and begins to practice flying. Shadow dogs attack at midnight.
+
+### Notes and Information
+*in which the party repairs the skyship [[Vindristjarna]]
+[[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]], and [[Riswynn]] camp at the ruins of [[Vindristjarna]], working to repair the control mechanisms that let it fly. 
+Start: evening, Nov 24th 1748
+End: night, Nov 29th 1748
+
+
 
 ## Narrative
-
 We begin at dusk, at site of the crashed [[Vindristjarna|airship]], as the party settles in for the night and begins to determine what is necessary to repair [[Vindristjarna]]. From the notes and information gleaned in [[Hralgar]]'s library, [[Seeker]], [[Riswynn]], and [[Delwath]] are able to determine that three steps are necessary to repair the ship: the construction of an adamantine harness for the phasing stone; the construction of stone console to hold the phasing stone apparatus; and the construction of a gold and silver focus to channel the energy. 
 
 ![[vindristjarna-crash-location.png]]

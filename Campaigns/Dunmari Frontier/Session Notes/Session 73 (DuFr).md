@@ -6,23 +6,35 @@ realWorldDate: 2023-03-17
 DR: 1748-11-24
 DR_end: 1748-11-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which the party braves the dreamworld to acquire the phasing stone
+descTitle: Dreamworld Quest
+title: Dunmari Frontier - Session 73
 ---
-## Notes and Information
-*in which the party retrieves the phasing stone from the Dreamworld*
+# Dunmari Frontier - Session 73
 
-[[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]], and [[Riswynn]] venture into the darkness of Hraglar's library, and from there into the [[dreamworld]], where they faced the puzzles and traps of Kurome, a creature of nightmares, who they eventually defeat by dreaming the phasing into the [[Portable Hole]]. When they wake up, quickly realize they are still dreaming, but are able to find their bodies and return to the material world before they freeze to death. 
+>[!info] Dreamworld Quest: in which the party braves the dreamworld to acquire the phasing stone
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Nov 24, 1748 DR*
+> *On Earth: Friday Mar 17, 2023*
+> *[[Hralgar's Palace]] in the [[Sentinel Range|Sentinels]]*
 
-Start: mid-morning, Nov 24th 1748
-End: evening, Nov 24th 1748
-#### New Treasure
-- A [[Phasing Stones|Phasing Stone]], key to controlling the skyship [[Vindristjarna]]
-- Notes on the mechanics of skyships from [[Hralgar]]'s library
-- Three giant-sized books, all written in Giant: a notebook on the history of [[Vindristjarna]], a book of etiquette on entertaining the smaller races, and a book of recipes.
-## Timeline
+The Dunmar Fellowship navigates the dreamworld, captures the elusive phasing stone, and narrowly avoids freezing to death before returning to their airship.
 
-- (DR:: 1748-11-24): *(afternoon)* Venture to the library, and find their way to the [[dreamworld]], where they encounter the tricks of Kurome. Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [[Hralgar]]'s library about skyships. Depart to return to the crash of [[Vindristjarna]] at dusk, with [[Hralgar]]'s wind blessing.
+## Session Info
+
+***The party acquires treasure from Hralgar's library: a [[Phasing Stones|Phasing Stone]], key to controlling the skyship [[Vindristjarna]]; notes on the mechanics of skyships; and three giant-sized books.***
+### Summary
+- The [[Dunmar Fellowship]] experiences haunting visions after defeating the ice maiden.
+- [[Seeker]] eats remnants of magical ice; the party enters a mysterious, shifting library
+- The party finds a shifting doorway leading to an endless corridor and an empty throne room.
+- They manipulate the dreamworld with their thoughts, encounter a clockwork cat, and follow a giant hand, before using collective dreaming to capture the [[Phasing Stones|phasing stone]] in the [[Portable Hole]].
+- Having defeated the dream creature [[Kurome]], the party seems to awaken in Hralgar's library
+- Realizing they're still dreaming and slowly freezing to death, they wake up for real and warm themselves before gathering information at Hralgar's library and departing.
+
+### Timeline
+- (DR:: 1748-11-24), afternoon: Venture to the library, and find their way to the [[dreamworld]], where they encounter the tricks of Kurome. Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [[Hralgar]]'s library about skyships. Depart to return to the crash of [[Vindristjarna]] at dusk, with [[Hralgar]]'s wind blessing.
+
 ## Narrative
-
 We begin as the party finishes a short rest, warmed by [[Delwath]]'s hot drinks. During the rest, visions of the cold thoughts and memories of the ice maiden, recently killed, haunt the visions of the party.
 
 *The wind blows harshly, the gusts carrying swirling bits of ice and snow, the shattered remains of the ice maiden's heart, carrying her memories of winters past.*
@@ -42,12 +54,13 @@ The corridor leads to an empty throne room, with an empty small side chamber nex
 [[Kenzo]] leads the group in meditation, and one by one the party clears their minds, except for [[Seeker]], who is having trouble focusing on emptiness. The throne room vanishes, the ice melts, and all that is left is an empty expanse with small pools of silver water. A clockwork cat approaches one of the pools, and begins to drink. The mechanical cat approaches [[Seeker]], and falls into a pile of gears at his touch; as the cat collapses, a wind picks up, cold with the taste of ice. A giant hand emerges from the ground, pointing in the direction of the wind.
 
 [[Seeker]], along with the heroic [[Ladder]] now sporting a dozen or more medals of honor, leaps to head in that direction, and the party follows. As the wind grows more intense, flashes of imagines can be seen, people struggling against snow and ice, freezing slowly until a round pulsating stone, the phasing stone, falls out of one of their hands. 
+
 ![[phasing-stone.png]]
 
 The party dives through the floor into an empty space, in which the phasing stone floats. 
 
 ![[nightmare-empty.png]]
 
-After a few failed attempts to capture it, the party realizes that working together is the only way to outdream Kurome. [[Seeker]] dreams a storm of hail and snow pelting the stone, which bursts into flame; [[Delwath]] dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [[Riswynn]] then dreams a wall of fire scorching the ice, and [[Kenzo]] adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [[Wellby]]'s dreaming: the [[Portable Hole]]. 
+After a few failed attempts to capture it, the party realizes that working together is the only way to outdream [[Kurome]]. [[Seeker]] dreams a storm of hail and snow pelting the stone, which bursts into flame; [[Delwath]] dreams a giant hunting bird of water, dowsing the stone, which turns to ice; [[Riswynn]] then dreams a wall of fire scorching the ice, and [[Kenzo]] adds a lightning storm with flying boulders crushing it. The stone turns to solid volcanic rock, and falls through the water bird, into [[Wellby]]'s dreaming: the [[Portable Hole]]. 
 
 With that, the party seems to be awake in the library. Using the [[Dream Mirror]], they realize that they are still dreaming, but quickly find their freezing bodies at the campsite, and wake themselves up. After another round of warming drinks, the party spends the last few hours of the afternoon copying notes and finding books in [[Hralgar]]'s library before returning to the crashed airship via cloud travel at dusk.

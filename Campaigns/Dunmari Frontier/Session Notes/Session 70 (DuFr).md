@@ -6,24 +6,34 @@ realWorldDate: 2023-02-02
 DR: 1748-11-23
 DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which the party confronts Hralgar's dream
+descTitle: Storm's Echo
+title: Dunmari Frontier - Session 70
 ---
-## Notes and Information
-*in which the party enters the tower and finds Hralgar*
+# Dunmari Frontier - Session 70
 
-[[Delwath]], [[Seeker]], [[Riswynn]], and [[Wellby]] chase a possessed [[Kenzo]] into the storm, braving lightning and wind to reach [[Stormcaller Tower]]. There, they meet the giant [[Hralgar]] in his dreamscape, and tell tales that lead him to a clear understanding of his situation. 
+>[!info] Storm's Echo: in which the party confronts Hralgar's dream
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Nov 23, 1748 DR*
+> *On Earth: Thursday Feb 02, 2023*
+> *[[Stormcaller Tower]]*
 
-Start: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormcaller Tower]]
-End: 23 Nov 1748, evening, in Hralgar's dreamscape
+The [[Dunmar Fellowship]] follows a possessed [[Kenzo]] into the storm around [[Stormcaller Tower]], and engages with [[Hralgar]]'s dreams, leading to his awakening and Kenzo's release.
 
-#### Character Advancement
-- [[Seeker]], struck full on by a magical lightning blast in [[Hralgar]]'s storm, infused with the giant's magic, learned the Shocking Grasp cantrip while nearly being fried to death. 
+## Session Info
 
-## Timeline
+***[[Seeker]], struck full on by a magical lightning blast in [[Hralgar]]'s storm, infused with the giant's magic, learned the Shocking Grasp cantrip while nearly being fried to death.***
+### Summary
+- The [[Dunmar Fellowship]] chases a storm-possessed [[Kenzo]] into the magical storm surrounding [[Stormcaller Tower]].
+- [[Wellby]] receives a vision of an orc wearing the [[Cloak of Rainbows]] in a castle.
+- The party ascends the tower, faces storm elementals, and flies to the fourth floor to find the statue of [[Hralgar]].
+- In [[Hralgar]]'s dream-like domain atop the tower, the party tells tales to help him realize he is trapped in a dream.
+- [[Hralgar]] regains his memories, [[Kenzo]] recovers from possession, and the party prepares to free [[Hralgar]] from his dream.
 
-- (DR:: 1748-11-23): *(late afternoon)* Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. 
+### Timeline
+- (DR:: 1748-11-23), late afternoon: Enter the storm around [[Stormcaller Tower]], chasing a possessed [[Kenzo]]. Dodge animated storm elementals protecting the approach. Reach [[Hralgar]]'s dreamscape, bring [[Hralgar]] back to himself with stories. 
 
 ## Narrative
-
 We begin as the party stands outside the swirling storm around [[Stormcaller Tower]], listening to the news the winds bring, while deciding what to do as [[Kenzo]] mediates and communes with the storm, trying to learn more of it. Suddenly, [[Kenzo]] is possessed, his eyes flashing lightning, and he begins to walk into the storm. Having to act quickly, [[Riswynn]] and [[Wellby]] get the animals settled while [[Delwath]] and [[Seeker]] get [[Hralgar's Eyes]] from the [[Portable Hole]], hoping to convince Hraglar-as-[[Kenzo]] to make the storm safe. To no avail, for [[Kenzo]] says that the weather is wonderful and charges ahead. Forced to chase, the party plunges into the storm. Enduring intense lightning strikes and thunderous wind that makes conversation impossible, the party  pushes through the storm, following [[Kenzo]]. 
 
 ![[hralgar-storm-nov-1748-2.png]]
@@ -55,5 +65,3 @@ With [[Riswynn]]'s story, and [[Delwath]] commenting on how similar each day was
 And then [[Kenzo]] opens his eyes, confused, shaken from the possession by [[Hralgar]]'s lucidity, a [[Kenzo's Memories of Hraglar|blur of memories]] coming back to him in a rush, recalling the words of the binding spell that ensnared [[Hralgar]] and how to break it, by reciting the first lines of A Lament for Lost Thunder, an elvish poem by Nelawe. 
 
 As the party rushes down the stairs, they emerge by the statue and attempt to find a way to return the eyes while reciting the poem, but the sounds of thrashing from above quickly make it clear this is the wrong approach. We end as the party rushes back up the stairs, to the sight of the haunted, ghostly version of [[Hralgar]] attempting to strangle the giant in the [[dreamworld]]. 
-
-

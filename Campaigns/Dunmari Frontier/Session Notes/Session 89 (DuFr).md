@@ -2,30 +2,32 @@
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 89
-realWorldDate: 2023-11-29
+realWorldDate: 2023-11-30
 DR: 1749-01-20
 DR_end: 1749-01-30
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party explores Kharsan and recruits followers
 descTitle: Cleansing Kharsan
 title: Dunmari Frontier - Session 89
-complete: true
 ---
 # Dunmari Frontier - Session 89
 
 >[!info] Cleansing Kharsan: in which the party explores Kharsan and recruits followers
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Jan 20, 1749 DR to Jan 30, 1749 DR*
-> *On Earth: Wednesday Nov 29, 2023*
-> *Uzgukhar and Kharsan*
+> *On Earth: Thursday Nov 30, 2023*
+> *[[Uzgukhar]] and [[Kharsan]]*
 
-In the aftermath of victory, the Dunmar Fellowship is honored in Uzgukhar, explores and cleanses Kharsan, and recruits new followers, while contemplating their next move.
+In the aftermath of victory, the [[Dunmar Fellowship]] is honored in [[Uzgukhar]], explores and cleanses [[Kharsan]], and recruits new followers, while contemplating their next move.
 ## Session Info
+
+***New crew for [[Vindristjarna]] are introduced: [[Aygul]], [[Nuzkar]], [[Amil]], [[Kethra]]***
 ### Summary
-- The Dunmar Fellowship is celebrated in Uzgukhar after their victory.
-- Two orc sisters, Nuzkar and Aygul, join the Fellowship's crew.
-- They explore Kharsan, discovering Grash's plans and battling spectral remains.
+- The [[Dunmar Fellowship]] is celebrated in [[Uzgukhar]] after their victory.
+- Two orc sisters, [[Nuzkar]] and [[Aygul]], join [[Vindristjarna]]'s crew
+- They explore [[Kharsan]], discovering Grash's plans and battling spectral remains.
 - A cleansing ritual is performed, releasing trapped souls in the orc warren.
-- The Fellowship meets with Pava and Avaras, and new allies Kethra and Amil join the crew.
+- The Fellowship meets with [[Pava]] and [[Avaras]]; the dwarf [[Kethra]] and the Dunmari monk [[Amil]] join the crew.
 ### Timeline
 - (DR:: 1749-01-21): Rest in [[Uzgukhar]]
 - (DR:: 1749-01-22): Rest in [[Uzgukhar]]

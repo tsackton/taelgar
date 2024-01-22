@@ -6,23 +6,47 @@ realWorldDate: 2023-01-16
 DR: 1748-11-15
 DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which curses are broken and storms grow wild
+descTitle: Rituals and Revelations
+title: Dunmari Frontier - Session 69
 ---
+# Dunmari Frontier - Session 69
 
-## Notes and Information
-*in which the party journeys across Dunmar to Stormcaller Tower.*
+>[!info] Rituals and Revelations: in which curses are broken and storms grow wild
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Nov 15, 1748 DR to Nov 23, 1748 DR*
+> *On Earth: Monday Jan 16, 2023*
+> *[[Lastlight Falls]] to [[Stormcaller Tower]]*
 
-Start: 15 Nov 1748, late evening, camped outside the fey crossing at Lastlight Falls
-End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormcaller Tower]]
+The [[Dunmar Fellowship]] breaks curses afflicting [[Kenzo]] and [[Havdar]], learns of allies' fates, and faces an intensified storm at [[Stormcaller Tower]].
+## Session Info
 
+### Summary
+- [[Riswynn]] successfully performs a ritual to free [[Kenzo]] from a cursed chain with the help of [[Delwath]]'s prayers and [[Seeker]]'s magic, sacrificing the [[Horn of Silent Alarm]].
+- The [[Dunmar Fellowship]] travels across the rain-soaked plains of [[Dunmar]], with [[Riswynn]] praying daily to the [[Bahrazel]] to free [[Havdar]] from the [[Medusa Blade]]'s curse.
+- Using scrying and sending spells, the party learns of [[Johar]]'s situation and [[Kadmos]]' movements through the [[Garamjala Desert]].
+- A deserted [[Raven's Hold]] and a nearby mass grave suggest the death of [[Inakara]] and her kin at the hands of dwarves.
+- [[Bahrazel]] answers [[Riswynn]]'s prayers, freeing [[Havdar]] from the [[Medusa Blade]]'s curse, which prompts an apology from the party for gifting the cursed sword.
+- The party arrives at [[Stormcaller Tower]] to find Hralgar's storm intensified, considering entry into the [[Dreamworld]] to calm [[Hralgar]].
 
-[[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and [[Kenzo]] travel incognito across the plains of [[Dunmar]] to [[Stormcaller Tower]], using magic to gather what information they can along the way. [[Havdar]]'s curse is lifted. They arrive at the [[Stormcaller Tower]] where [[Hralgar]]'s storm is intense, and must make a decision.
+### Timeline
+- (DR:: 1748-11-15), evening: [[Wellby]], [[Seeker]], [[Kenzo]], [[Delwath]] and [[Riswynn]] talk and catch up. 
+- (DR:: 1748-11-16): [[Kenzo]] is uncursed by [[Riswynn]], sacrificing his [[Horn of Silent Alarm]] in the process; [[Riswynn]] speaks with [[Johar]] via sending. Party travels west towards [[Stormcaller Tower]].
+- (DR:: 1748-11-17): Travel west; speak with [[Johar]] via Sending; scry on [[Hektor]].
+- (DR:: 1748-11-18): Travel west; learn [[Johar]] is meeting with Samraat [[Nayan Karnas]]; detour around some ogres.
+- (DR:: 1748-11-19): Arrive south of [[Raven's Hold]]. Scout, discover it is quiet; camp early.
+- (DR:: 1748-11-20):  [[Riswynn]]'s prayers are answered and [[Havdar]]'s cursed sword is destroyed by the Baharazel, freeing him of its influence. Send a message with sending to apologize. Travel west.
+- (DR:: 1748-11-21): Travel west.
+- (DR:: 1748-11-22): Travel west.
+- (DR:: 1748-11-23), mid-afternoon: Arrive at [[Stormcaller Tower]], spend time planning and scouting with spells. 
 
-#### Eudomes’ Mirror:
-- (DR:: 1748-11-15) [[Cha'mutte Armband Vision]] see in [[The Mirror of the Past]] (recharge:: mirror)
+### Eudomes’ Mirror:
+- (DR:: 1748-11-15) A vision of [[Cha'mutte’s Shadow Armband]] is seen in [[The Mirror of the Past]]: [[Cha'mutte Armband Vision]] (recharge:: mirror)
 
-#### Divine Inspiration
+### Divine Inspiration
 - (DR:: 1748-11-20): Riswynn's prayers are granted by the Bahrazel, freeing Havdar from his cursed sword. (recharge:: "divine inspiration")
-#### Commune
+
+### Commune
 | Question | Answer | Date | 
 | :--- | :--- | :--- | 
 | Will [[Kadmos]] help [[Grash]]? | **YES** | 20 Nov 1748 |  
@@ -35,20 +59,7 @@ End: 23 Nov 1748, late afternoon, camped outside the storm surrounding [[Stormca
 | Are we being hunted by enslaved monsters of [[Fausto]]'s? | **YES** | 22 Nov 1748 | 
 | Are they within a week of us? | **NO** | 22 Nov 1748 |  
 | Was [[Apollyon]] behind [[Sura]]'s kidnapping?  | **NO** | 23 Nov 1748 
-
-## Timeline
-
-- (DR:: 1748-11-15): *(evening)* [[Wellby]], [[Seeker]], [[Kenzo]], [[Delwath]] and [[Riswynn]] talk and catch up. Use the mirror to look at [[Cha'mutte’s Shadow Armband]] before sleep.
-- (DR:: 1748-11-16): [[Kenzo]] is uncursed by [[Riswynn]], sacrificing his [[Horn of Silent Alarm]] in the process; [[Riswynn]] speaks with [[Johar]] via sending. Party travels west towards [[Stormcaller Tower]].
-- (DR:: 1748-11-17): Travel west; speak with [[Johar]] via Sending; scry on [[Hektor]].
-- (DR:: 1748-11-18): Travel west; learn [[Johar]] is meeting with Samraat [[Nayan Karnas]]; detour around some ogres.
-- (DR:: 1748-11-19): Arrive south of [[Raven's Hold]]. Scout, discover it is quiet; camp early.
-- (DR:: 1748-11-20):  [[Riswynn]]'s prayers are answered and [[Havdar]]'s cursed sword is destroyed by the Baharazel, freeing him of its influence. Send a message with sending to apologize. Travel west.
-- (DR:: 1748-11-21): Travel west.
-- (DR:: 1748-11-22): Travel west.
-- (DR:: 1748-11-23): *(mid-afternoon)* Arrive at [[Stormcaller Tower]], spend time planning and scouting with spells. 
 ## Narrative
-
 We begin as the party settles in for the night outside Lastlight Falls, after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm]] carried for many months. 
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [[Dunmar]], now sprung to life with the monsoon rains.

@@ -6,39 +6,48 @@ realWorldDate: 2023-07-28
 DR: 1748-12-17
 DR_end: 1748-12-25
 players: [Seeker, Delwath, Kenzo, Wellby]
+tagline: in which a cursed scepter is finally destroyed
+descTitle: Scepter's End
+title: Dunmari Frontier - Session 81
 ---
-## Notes and Information
-*in which the party defeats a demon and destroys the scepter*
+# Dunmari Frontier - Session 81
 
-Start: morning, Dec 17th
-End: mid-morning, Dec 25th
-#### [[The Mirror of the Past]]
- - (DR: 1748-12-23): Use [[The Mirror of the Past]] on Urgall's helm: [[Urgall's Helm Vision]]
+>[!info] Scepter's End: in which a cursed scepter is finally destroyed
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
+> *In Taelgar: Dec 17, 1748 DR to Dec 25, 1748 DR*
+> *On Earth: Friday Jul 28, 2023*
+> *[[Tollen]], [[Antaka]], and [[Vetta]]*
 
-## Timeline
-- (DR:: 1748-12-17): *(afternoon)* Meet [[Iskra]] at the Temple of [[Kaikkea]]. Meet Nika at [[The Windward Sail]], who takes party to [[Umli]] and then [[Caelynn]]. Speak with [[Umli]]; speak with [[Caelynn]]. [[Kenzo]] returns to speak with [[Iskra]] for the afternoon. 
-- (DR:: 1748-12-18): [[Kenzo]] gets tattoo (2000 gp) and collects Cecilia's story. [[Delwath]] spend another 250 gp on furniture in the morning. Party leaves north on the skyship. 
+The Dunmar Fellowship defeats Urgall the Black and a demonic entity in Vetta, ultimately destroying the cursed Scepter of Command.
+
+## Session Info
+
+***[[Kenzo]] gets a tattoo from [[Cecilia Lister]]***
+***The party finds the [[Flaming Tempest Hoard]]***
+
+### Summary
+- The Dunmar Fellowship meets priestess Iskra and learns about the sacred waters of Vetta.
+- They gather information from Umli the Stoneborn and Caelynn the Seer on how to destroy powerful artifacts and about the Elemental Plane of Fire.
+- At Antaka, Skalme reveals the Scepter of Command's origin and how to destroy it.
+- In Pyhlla, they learn of Urgall the Black's sacrilege and demonic ties, and plan their assault.
+- The party infiltrates Vetta through lava tubes, confronts and defeats Urgall and a massive demon, purifying the sacred waters.
+- After vigilantly guarding the scepter in the sacred waters for 24 hours, they successfully destroy it at dawn.
+
+### Timeline
+- (DR:: 1748-12-17), afternoon: Meet [[Iskra]] at the Temple of [[Kaikkea]]. Meet Nika at [[The Windward Sail]], who takes party to [[Umli]] and then [[Caelynn]]. Speak with [[Umli]]; speak with [[Caelynn]]. [[Kenzo]] returns to speak with [[Iskra]] for the afternoon. 
+- (DR:: 1748-12-18): [[Kenzo]] gets a tattoo and collects Cecilia's story. [[Delwath]] purchases furniture. Party leaves north on the skyship. 
 - (DR:: 1748-12-19): Fly north and east towards [[Skaerhem|Skaer Islands]]
-- (DR:: 1748-12-20): Fly north and east towards  [[Skaerhem|Skaer Islands]]
+- (DR:: 1748-12-20): Fly north and east towards [[Skaerhem|Skaer Islands]]
 - (DR:: 1748-12-21): Meet [[Skalme]] on [[Antaka]], learn about how to destroy the [[Scepter of Command]]. Arrive at [[Pyhlla]], talk to [[Vaallinen]], learn about [[Urgall the Black]]. Talk to [[Tulvak]] about the raid. 
 - (DR:: 1748-12-22): Blessed by [[Kaikkea]] at dawn. Fly to island. Scout, find lava tube. Enter under the temple complex. Surprise [[Urgall the Black|Urgall]] and kill him. Attack demonic entity corrupting the waters, kill it. Rest. 
-- (DR:: 1748-12-23): Kill the undead hordes remaining. Search the island, return treasure to rightful place, clean up and lay out bodies. Loot pirate ship. Use mirror on Urgall's helm. 
+- (DR:: 1748-12-23): Kill the undead hordes remaining. Search the island, return treasure to rightful place, clean up and lay out bodies. Loot pirate ship.
 - (DR:: 1748-12-24): Place the [[Scepter of Command]] in the sacred waters. Stand guard, not sleeping, for 24 hours. 
-- (DR:: 1748-12-25): Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
+- (DR:: 1748-12-25), early morning: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
 
-## New Treasure
-- The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state
-- 2000 sp in Tollender silver coins (from [[Urgall the Black|Urgall]]'s cabin)
-- 200 gp in [[Sembara]] gold coins (from [[Urgall the Black|Urgall]]'s cabin)
-- Captain's log and charts from The [[Flaming Tempest]] (allowing [[Wellby]] to reconstruct the journey of the [[Flaming Tempest]], with time and effort)
-- A scroll written in a cipher, from the captain's cabin on the [[Flaming Tempest]]
-- A small silver statue of a demon with ruby eyes (tossed in the sacred waters)
-- A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [[Seeker]] takes); 6 small crates of beaver fur hats in a variety of styles. 
-- 8 swords and 4 spears of [[Skaer steel]] (used by Skaer warriors killed on [[Vetta|Vetta]]; gifted to party in their honor by Vaalinen)
-- A slightly decayed helmet worn by [[Urgall the Black]]
+### The Mirror of the Past
+ - (DR:: 1748-12-23): Use [[The Mirror of the Past]] on Urgall's helm: [[Urgall's Helm Vision]]
 
 ## Narrative
-
 ***Part 1: [[Tollen]]***
 
 We begin as the party leaves [[Melindir]]'s apartments, after having made plans for dinner the following night, and walks through the rich part of [[Tollen]], full of elaborate palaces of merchants and guild leaders. They reach the [[Temple of Kaikkea]], and ancient building of white marble on a empty plaza. Inside, they meet [[Iskra]], the priestess of [[Kaikkea]] in [[Tollen]]. From her, the party learns of [[Kaikkea]], and also hears about the dangers on the island of [[Vetta|Vetta]] that have prevented the Skaer from making pilgrimages to the sacred waters there for 10 months. [[Iskra]] gives the party letters of introduction to [[Skalme]], the fire priestess on the volcanic island of [[Antaka]], and [[Vaallinen]], the priest in the town of [[Pyhlla]], the launching point for pilgrims to [[Vetta]]. 

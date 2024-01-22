@@ -6,37 +6,47 @@ realWorldDate: 2023-01-05
 DR: 1748-11-15
 DR_end: 1748-11-15
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which the party reunites and shares tales
+descTitle: Reunion
+title: Dunmari Frontier - Session 68
 ---
-## Meta Information
+# Dunmari Frontier - Session 68
 
-Start: 15 Nov 1748, sunset, camped outside the fey crossing at Lastlight Falls
-End: 15 Nov 1748, late evening, camped outside the fey crossing at Lastlight Falls
+>[!info] Reunion: in which the party reunites and shares tales
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Nov 15, 1748 DR*
+> *On Earth: Thursday Jan 05, 2023*
+> *[[Lastlight Falls]]*
 
-[[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and [[Kenzo]] meet again after a long absence, and discuss their journeys and plans. 
+The [[Dunmar Fellowship]] reunites, shares their extraordinary experiences, and plans their next moves amidst looming threats. 
+## Session Info
 
-Letters received:
+### Summary
+- The[[ Dunmar Fellowship]] reunites after a lengthy separation, sharing their separate adventures.
+- [[Delwath]], with allies, sought to restore the lost and trapped [[tanshi]] in the Forest of Nightmares.
+- [[Riswynn]] and her dwarven allies uncovered the history of the [[Chalice of the Runepriest]] in the [[Shadowfell]] realm of [[Morkalan]].
+- [[Kenzo]] restored balance in [[Orekatu]] by healing the spirit creature [[Motua]] at the [[Azta Lekua|Footprint of the Gods]]
+- [[Wellby]], after fleeing pirates, solved kidnappings in the[[ Vermillion Isles]] and sought to rescue a wizard.
+- [[Seeker]] entered the [[Feywild]], calmed a wild magic storm, and was guided to the fey crossing at [[Lastlight Falls]].
+- The party discusses impending threats, including Dunmar's potential civil war and Grash's march east, and decide to restore Hralgar and then pursue the Cloak of Rainbows to prevent Grash's acquisition.
+
+### Timeline
+- (DR:: 1748-11-15): [[Wellby]], [[Seeker]], and [[Kenzo]] exit the [[Feywild]] at sunset, and are reunited with  [[Delwath]] and [[Riswynn]].
+
+### Letters Received
 - [[Letter from Speaker Lara]]
 - [[Letter from Govir]]
 - [[Letter from Dee WIldcloak]]
 - [[Wellby#^3c01eb|Wellby's Letter]] **(personal)**
 - [[Kenzo#^21d014|Kenzo's Letter]] **(personal)**
 
-Scrying Reports:
+### Scrying and Scouting
 - [[Scrying Delwath Oct 26]]
 - [[Scrying Delwath Oct 21]]
 - [[Scrying Delwath Nov 15]]
-
-Delwath's Rumor Gathering:
 - [[Interlude (Delwath Postscript)#Dunmar Rumors|Rumors from the Dunmari]]
 
-[[Riswynn]] failed attempt at divine intervention. 
-
-## Timeline
-
-- (DR:: 1748-11-15): [[Wellby]], [[Seeker]], and [[Kenzo]] exit the [[Feywild]] at sunset, and are reunited with  [[Delwath]] and [[Riswynn]].
-
 ## Narrative
-
 We begin as the party meets again, all together after a long absence. Everyone returns from their adventures changed, more or less, and eager to be reunited. Over the campfire, the party tells their stories. 
 
 ![[lastlight-falls-dunmar-side.png|600]]
@@ -52,6 +62,7 @@ We begin as the party meets again, all together after a long absence. Everyone r
 [[Seeker]] [[Session 61 (DuFr)|found himself]] in the [[Feywild]], in the [[Fortune's Rest|domain of the Chanceweaver]], the [[Prince of Luck]]. At the [[Prince of Luck|Chanceweaver]]’s court, he learned of a wild magic storm on the border of Fortune’s Rest and [[Shimmersong]], and travels with [[Raven]], a fae monk of the Winter Knights of [[Shimmersong]]; [[Spirala]] Hollytwist a fairy cleric of the light, also of [[Shimmersong]]; and [[Mikasa]], a fae samurai to [[Session 63 (DuFr)|calm the wild magic]]. After doing so, [[Mikasa]] departs for her home, while [[Raven]], [[Spirala]], and [[Seeker]] meet the human warrior [[Caulaus]] Aportino who [[Session 65 (DuFr)|guides them to the fey crossing]] at Lastlight Falls in the ruined abandoned fey realm of Amberglow.
 
 During the conversation, the party reads letters from [[Tokra]] and elsewhere, and [[Delwath]] reports on the information he has learned from scrying in [[Scrying Delwath Oct 21|mid October]], [[Scrying Delwath Oct 26|late October]], and [[Scrying Delwath Nov 15|mid November]], and from a [[Interlude (Delwath Postscript)#Dunmar Rumors|week spent on the plains of Dunmar]]. The key facts include:
+
 - [[Dunmar]] is on the bring of civil war: [[Nayan Karnas]] has seemingly not spoken to [[Johar]]; [[Havdar]] is turning bloodthirsty under the sway of a cursed sword; and the Lakan monks have not done anything yet.
 - [[Kadmos]] and company, now traveling with a subdued [[Vola]] (whether due to mundane or magical coercion is not entirely clear), are crossing [[Dunmar]].
 - [[Grash]] is preparing to march east, and soon, with a large army of [[Orcs]] and undead, presumably to recover the [[Cloak of Rainbows]] which was, according to [[Govir]]'s research, lost in a fortification of the [[Aagir Mystai]] to the east during the [[Great War]]. 

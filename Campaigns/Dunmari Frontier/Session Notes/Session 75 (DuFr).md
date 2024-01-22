@@ -6,23 +6,38 @@ realWorldDate: 2023-04-11
 DR: 1748-11-29
 DR_end: 1748-12-04
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which the party repels an ambush and heads east
+descTitle: Shadow Assault
+title: Dunmari Frontier - Session 75
 ---
-## Notes and Information
-*in which the party defeats the shadow hunters, and heads east
+# Dunmari Frontier - Session 75
 
-Start: night, Nov 29th 1748
-End: early morning, Dec 4th
-## Timeline
+>[!info] Shadow Assault: in which the party repels an ambush and heads east
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Nov 29, 1748 DR to Dec 04, 1748 DR*
+> *On Earth: Tuesday Apr 11, 2023*
+> *Traveling to [[Xurkhaz]]*
 
-- (DR:: 1748-11-29): *(midnight)* Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [[Kenzo]] unconscious and attempts to flee with him.
+The [[Dunmar Fellowship]] successfully defends against shadow attackers, strategizes with allies, and advances eastward towards orc territory.
+
+## Session Info
+### Summary
+- The [[Dunmar Fellowship]] is attacked by shadow dogs and a shadow assassin sent by [[Fausto]], with [[Kenzo]] briefly captured.
+- [[Seeker]] transforms into a yeti to fight off attackers while [Wellby]'s precise shot kills the fleeing shadow assassin, saving [[Kenzo]].
+- After surviving the night, [[Seeker]] and [[Kenzo]] practice piloting the skyship [[Vindristjarna]].
+- [[Sura]] contacts the party via Sending Stone, discussing strategic moves against [[Tokra]] and the impending [[Day of Atonement]]
+- [[Riswynn]] seeks divine guidance, interpreting the advice as a need to build a strong foundation; [[Kenzo]] sends a letter to the Lakan monks via [[Delwath]]'s spirit messenger.
+- The party travels east, switching pilots to cover significant ground, and sights orc territory from the air.
+
+### Timeline
+- (DR:: 1748-11-29), midnight: Shadow hunters attack at midnight. Defeated, but not before the shadow assassin knocked [[Kenzo]] unconscious and attempts to flee with him.
 - (DR:: 1748-11-30): [[Seeker]] spends the day learning to control and fly [[Vindristjarna]], while the rest of the party prepares for the journey east.
 - (DR:: 1748-12-01): [[Kenzo]] attunes to the phasing stone and spends the day learning to control and fly [[Vindristjarna]]; speak with [[Sura]] via Sending Stone
 - (DR:: 1748-12-02): [[Riswynn]] asks the Baharazel about their chosen course of action; [[Delwath]]'s lynx spirit leaves to take letters to Lakan monks; take off flying east, with [[Kenzo]] and [[Seeker]] alternating piloting; fly 22 hours
 - (DR:: 1748-12-03): Continue flying east, [[Kenzo]] and [[Seeker]] alternating over 22 hours
-- (DR:: 1748-12-04): See at the edge of the [[Orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light.
+- (DR:: 1748-12-04), dawn: See the edge of the [[Orcs|orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light.
 
 ## Narrative
-
 The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [[Fausto]] that chased [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] down on the flight from [[Chardon]]. 
 
 ![[shadow-hunter-portrait.png|300]]![[shadow-hunter-wolf.png|300]]
@@ -46,6 +61,3 @@ Over the next two days, the party falls into a routine. [[Seeker]] pilots the sh
 On the morning of Dec 4th, the party spies a fertile green crescent along the edge of banks of a river, cattle grazing, and orderly wheat fields watched over by a colorful guard tower on the banks of the river. We end, in the pre-dawn light, as the party considers their course of action, maybe 50 miles from the homeland of the [[Orcs|orcs]] they have come to find.
 
 ![[orc-lands.png|800]]
-
-
-

@@ -2,45 +2,47 @@
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 90
-realWorldDate: 2023-12-20
+realWorldDate: 2023-12-22
 DR: 1749-01-30
 DR_end: 1749-03-09
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which peace negotiations begin
 descTitle: Diplomatic Ventures
 title: Dunmari Frontier - Session 90
-complete: true
 ---
 # Dunmari Frontier - Session 90
 
 >[!info] Diplomatic Ventures: in which peace negotiations begin
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Jan 30, 1749 DR to Mar 09, 1749 DR*
-> *On Earth: Wednesday Dec 20, 2023*
-> *Copper Hills*
+> *On Earth: Friday Dec 22, 2023*
+> *[[Copper Hills]]*
 
-The Dunmar Fellowship engages in intricate diplomacy to reconcile siblings Sura and Nayan Karnas, uncovering and dispelling suspicions manipulated by Agata.
+The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [[Sura]] and [[Nayan Karnas]], uncovering and dispelling suspicions manipulated by [[Agata]].
 ## Session Info
+
+***Delwath, Wellby, and Riswynn acquire [[Skaer steel]] weapons and shields from [[Umli]] in [[Tollen]]***
 ### Summary
-- The Dunmar Fellowship departs to Sura's camp in the Copper Hills to mediate a conflict between her and Nayan Karnas.
-- They share news of the War of the Cloak and the Battle for Uzgukhar, and learn of Karnas' distrust towards Sura due to Agata's alleged influence.
+- The [[Dunmar Fellowship]] departs to Sura's camp in the [[Copper Hills]] to mediate a conflict between her and [[Nayan Karnas]].
+- They share news of the [[War of the Cloak]] and the [[Battle for Uzgukhar]], and learn of Karnas' distrust towards Sura due to Agata's alleged influence.
 - Sura expresses her anger towards Karnas and agrees to meditate with Kenzo
-- Using the Mirror of the Past, the party disproves a key piece of evidence Karnas held against Sura, causing him to rage.
-- Abha believes this revelation is the first step towards reconciliation, and the party leaves tokens of unity before heading to Tollen
+- Using [[the Mirror of the Past]], the party disproves a key piece of evidence Karnas held against Sura, causing him to rage.
+- [[Abha]] believes this revelation is the first step towards reconciliation, and the party leaves tokens of unity before heading to [[Tollen]]
 ### Timeline
 - (DR:: 1749-01-30): (late morning) depart west for the [[Copper Hills]] on [[Vindristjarna]], passing south of [[Karawa]] and the [[Red Mesa]] in the night
 - (DR:: 1749-01-31): Watch the sun rise over the  [[~Southern Tokra Plains~]]; travel across the plains during the day, and reach and cross the [[Hara]] river in the evening. Continue west through the night.
-- (DR:: 1749-02-01):  Reach the outskirts of the Copper Hills in the morning. Speak with [[Sura]] on Vindristjarna, then [[Johar]]. Send messages to the [[Sonkar Mystai]] [[Abha]]. Meditate with Sura in the evening. 
-- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]] and use the [[The Mirror of the Past]] to reveal [[Agata]]'s meddling. Speak with [[Abha]] again. Return to Vindristjarna.
+- (DR:: 1749-02-01):  Reach the outskirts of the [[Copper Hills]] in the morning. Speak with [[Sura]] on [[Vindristjarna]], then [[Johar]]. Send messages to the [[Sonkar Mystai]] [[Abha]]. Meditate with Sura in the evening. 
+- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]] and use the [[The Mirror of the Past]] to reveal [[Agata]]'s meddling. Speak with [[Abha]] again. Return to [[Vindristjarna]].
 - (DR:: 1749-02-03): Tie up loose ends in Sura's camp. 
-- (DR:: 1749-02-04): Depart for Tollen, via Orenlas. Travel to Orenlas, crossing the [[~North Tokra Plains~]]. 
-- (DR:: 1749-02-05): Travel towards Orenlas, passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Stormcaller Tower]].  
-- (DR:: 1749-02-06): Travel towards Orenlas, passing over the [[Sentinel Range|Sentinels]] and into the [[Plaguelands]]. 
-- (DR:: 1749-02-07): Travel towards Orenlas, crossing over the [[Plaguelands]]. 
-- (DR:: 1749-02-08): Travel towards Orenlas, crossing the [[Istaros]] north of the ruins of [[Isingue]]. 
-- (DR:: 1749-02-09): Travel towards Orenlas, crossing the eastern [[Plaguelands]]. 
-- (DR:: 1749-02-10): Travel towards Orenlas, arriving late at night. 
-- (DR:: 1749-02-11): Spend the day in Orenlas, speaking with [[Egnir]]. 
-- (DR:: 1749-02-12): Depart Orenlas in the afternoon, crossing the [[~Cymea Border Mountains~]] in the night. 
+- (DR:: 1749-02-04): Depart for [[Tollen]], via [[Orenlas]]. Travel to [[Orenlas]], crossing the [[~North Tokra Plains~]]. 
+- (DR:: 1749-02-05): Travel towards [[Orenlas]], passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Stormcaller Tower]].  
+- (DR:: 1749-02-06): Travel towards [[Orenlas]], passing over the [[Sentinel Range|Sentinels]] and into the [[Plaguelands]]. 
+- (DR:: 1749-02-07): Travel towards [[Orenlas]], crossing over the [[Plaguelands]]. 
+- (DR:: 1749-02-08): Travel towards [[Orenlas]], crossing the [[Istaros]] north of the ruins of [[Isingue]]. 
+- (DR:: 1749-02-09): Travel towards [[Orenlas]], crossing the eastern [[Plaguelands]]. 
+- (DR:: 1749-02-10): Travel towards [[Orenlas]], arriving late at night. 
+- (DR:: 1749-02-11): Spend the day in [[Orenlas]], speaking with [[Egnir]]. 
+- (DR:: 1749-02-12): Depart [[Orenlas]] in the afternoon, crossing the [[~Cymea Border Mountains~]] in the night. 
 - (DR:: 1749-02-13): Travel across [[Latazaro]] swamp and the [[Western Gulf]] towards [[Tollen]].
 - (DR:: 1749-02-14): Cross the [[Western Gulf]] and the [[~Gulf of Tollen~]], traveling towards [[Tollen]].
 - (DR:: 1749-02-15): Arrive outside [[Tollen]] in the morning. Contact [[Adam Gower]] and others, and dock [[Vindristjarna]] for construction.

@@ -6,19 +6,35 @@ realWorldDate: 2023-06-01
 DR: 1748-12-06
 DR_end: 1748-12-08
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which Kadmos is defeated
+descTitle: Palace Attack
+title: Dunmari Frontier - Session 78
 ---
-## Notes and Information
-*in which Kadmos is defeated*
+# Dunmari Frontier - Session 78
 
-Start: morning, Dec 6th
-End: middle of the night, Dec 8th
-## Timeline
+>[!info] Palace Attack: in which Kadmos is defeated
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Dec 06, 1748 DR to Dec 08, 1748 DR*
+> *On Earth: Thursday Jun 01, 2023*
+> *[[Uzgukhar]]*
 
+The[[ Dunmar Fellowship]] successfully defend the palace against [[Kadmos]]'s attack and secure the [[Cloak of Rainbows]].
+
+## Session Info
+### Summary
+- The party deceives potential scryers by pretending to steal the [[Cloak of Rainbows]] and leaving in false disgrace.
+- They secretly return to the palace and endure a tense night before learning of a devastating attack on the western border.
+- Undead attack the city; [[Kadmos]] and his followers attempt to steal the cloak from Chief [[Lubash]].
+- The party engages in battle; [[Delwath]]'s spells, [[Wellby]]'s bow, [[Kenzo]]'s attacks, and [[Seeker]]'s actions are pivotal in neutralizing the enemy.
+- Antonia is stopped by [[Riswynn]]'s Wall of Fire, and Delwath prevents a last-minute escape with a counterspell.
+- [[Kadmos]] is executed and his allies are imprisoned in the [[Mirror of Soul Trapping|mirror]] after a narrow victory.
+
+### Timeline
 - (DR::1748-12-06): Spend the day in [[Uzgukhar]], trying to play-act a fight with Chief [[Lubash]]; depart in fake disgrace; sneak back into palace under cover of darkness to wait. No attack comes during the fitful night.
 - (DR:: 1748-12-07): Pass the day hidden at the palace, waiting.
 - (DR:: 1748-12-08): [[Kadmos]] and company attack in the early morning hours, well before dawn, and are defeated. 
-## Narrative
 
+## Narrative
 We begin as the day of deception passes, Dec 6th, during which the party tries to fool anyone scrying, convincing watchers that they have attempted to steal the [[Cloak of Rainbows]] from Chief [[Lubash]]. The day passes in fits and starts, until the party departs in false disgrace in the late afternoon. Camping in the desert, the party scries [[Hektor]], seeing him on a boat on the river, an uncertain distance away. After preparing for a battle with Hero's Feast, and sneaking back into the palace, the party passes a fitful night waiting for an attack that does not come.
 
 The next morning, Dec 7th, the party stays hidden in the palace, waiting. [[Lubash]] brings bad news: the western border was attacked, with huge loss of life, and the fortress at Khumarz cannot hold back another assault of undead. The day passes. Two [[Orcs|orc]] warriors from the western front arrive, to provide more support for the coming battle with [[Kadmos]]. Day turns to night, as the party waits, tense.
