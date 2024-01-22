@@ -8,6 +8,12 @@ DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+
+- (DR:: 1748-04-12), noon: Find Dwarven back door to the [[Dwarven Outpost (Raven's Hold)]], and enter via tunnel. 
+- (DR:: 1748-04-12), early afternoon: Meet Inakara and the twisted creatures that now make the dwarven output here home. Fight and kill a roper.
+## Narrative
+
 The session begins on the road, at the edge of the mountains, with the party contemplating their next move. After some discussion of the relative merits of trying the front door, or searching in the mountains for a back door, either over the cliffs or via the hidden exit from the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] marked on [[Riswynn]]’s maps, the party decides to try the mountain route. Heading east, the party aims for a mountain valley just to the west of [[Raven's Hold]], hoping to find a route through or over and thus avoid the plains of cursed insanity vines encountered by [[Ander Charmheart]] to ill effect.
 
 [[Riswynn]]'s map of the [[Dwarven Outpost (Raven's Hold)]]:

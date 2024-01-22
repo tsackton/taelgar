@@ -7,6 +7,10 @@ DR: 1748-04-15
 DR_end: 1748-04-15
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
+## Timeline
+- (DR:: 1748-04-15), late evening: Investigate [[Stormcaller Tower]]. Meet Hralgar, the trapped storm giant, missing his eyes, and speak with him in his dreamscape.
+
+## Narrative
 
 Huddled by the side of a prominence of blue granite jutting out of the plains of [[Dunmar]], surrounded by a small calm spot in the howling storm, [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], and [[Wellby]] contemplate the stars. Specifically, the fact that one of the most prominent constellations in the sky, the [[Fox and Hunter]], is missing, although the rest of the sky does not look much different from what you would expect.
 

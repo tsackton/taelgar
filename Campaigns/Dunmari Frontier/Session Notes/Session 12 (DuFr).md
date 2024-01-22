@@ -8,6 +8,12 @@ DR_end: 1748-04-13
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+
+- (DR:: 1748-04-13), morning: Kill many gnolls in Raven's Hold, eventually clearing the threat. Have breakfast. 
+
+## Narrative
+
 We begin as the morning sun rises over [[Raven's Hold]]. As the party awakens and prepares for the day, they are interrupted as [[Kenzo]] and [[Delwath]] note the approach of a band of gnolls, heading towards the closed gate. They are traveling with a small bat-like demon, and moving quickly across the courtyard, past pools of fetid black water, avoiding the low hanging mists lingering in the air. As they approach the gate, they bang on it a few times, and there seems to be a brief discussion as the leader reaches for a spear, when [[Wellby]]’s arrow flies out of the windows on the tower, striking the demon-beast dead.
 
 With that, the battle is joined in full. The gnolls make an attempt at firing arrows at the party, but as they are in a well-defended position this has little effect, and they begin to be slowly picked off. As they start to retreat, [[Kenzo]] leaps off the wall, landing gently on his feet as he draws on his ki to slow his fall, and opens the gate. The gnolls immediately take the bait, and turn and run forward, trying to break through the door, as [[Kenzo]] holds his ground, deflecting arrows and sending them back at the gnolls with a flick of his hands. However, the charge of the gnolls is hard to withstand, and eventually they are able to push through the door, leading to a pitched battle for control. While [[Wellby]] and [[Seeker]] manage to take down the leader in the distance, [[Kenzo]], [[Riswynn]], [[Delwath]], and [[Vola]] eventually defeat the gnolls at the gates.

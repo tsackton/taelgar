@@ -6,25 +6,27 @@ realWorldDate: 2020-06-12
 DR: 1748-03-22
 DR_end: 1748-03-25
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which lizards besiege an oasis
-descTitle: Oasis Battle
+tagline: in which lizards are defeated and the party heads east
+descTitle: Into the Desert
 title: Dunmari Frontier - Session 2
-complete: true
 ---
 # Dunmari Frontier - Session 2
 
->[!info] Oasis Battle: in which lizards besiege an oasis
+>[!info] Into the Desert: in which lizards are defeated and the party heads east
+> *Featuring: [[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]]*
 > *In Taelgar: Mar 22, 1748 DR to Mar 25, 1748 DR*
 > *On Earth: Friday Jun 12, 2020*
-> *Gomat Oasis to the abandoned Dunmari fort*
+> *[[Gomat|Gomat Oasis]] to the [[Dunmari Fort (Gomat)|abandoned Dunmari fort]]*
 
-The Dunmar Fellowship defeats giant lizards at Gomat Oasis, uncovers signs of unnatural disturbances, and battles skeletons at a ruined fort.
+The [[Dunmar Fellowship]] defeats giant lizards at [[Gomat|Gomat Oasis]], uncovers signs of unnatural disturbances, and battles skeletons at a [[Dunmari Fort (Gomat)|ruined fort]].
 ## Session Info
+
+***Character advancement: the party reaches level 2 crossing the [[Daraar Canyon]] and entering the [[Nashtkar]]***
 ### Summary
-- The Dunmar Fellowship arrives at Gomat Oasis, fights and kills three giant lizards.
-- They meet Akan, a survivor, who recounts his family's deadly encounter with the lizards during the Festival of Rebirth preparations.
+- The [[Dunmar Fellowship]] arrives at [[Gomat|Gomat Oasis]], fights and kills three giant lizards.
+- They meet [[Akan]], a survivor, who recounts his family's deadly encounter with the lizards during the Festival of Rebirth preparations.
 - Following the lizard tracks east, the party discovers abnormal animal behavior and a canyon with unnatural features.
-- Upon reaching a ruined fort, the party is attacked by skeletons emerging from a disturbed mound, hinting at recent activity.
+- Upon reaching a [[Dunmari Fort (Gomat)|ruined fort]], the party is attacked by skeletons emerging from a disturbed mound, hinting at recent activity.
 ### Timeline
 - (DR::1748-03-22), evening: Kill three giant lizards at the [[Gomat|Gomat Oasis]] and camp for the night
 - (DR:: 1748-03-23), morning: Meet [[Akan]] at the [[Gomat|Gomat Oasis]] in the morning, a survivor of the giant lizard attack. After, turn east into the [[Nashtkar]].

@@ -9,26 +9,26 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which an old fort reveals its secrets
 descTitle: Fort Investigation
 title: Dunmari Frontier - Session 3
-complete: true
 ---
 # Dunmari Frontier - Session 3
 
 >[!info] Fort Investigation: in which an old fort reveals its secrets
+> *Featuring: [[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]]*
 > *In Taelgar: Mar 25, 1748 DR*
 > *On Earth: Thursday Jul 02, 2020*
-> *Dunmari Fort (Gomat)*
+> *[[Dunmari Fort (Gomat)]]*
 
-The Dunmar Fellowship explores a ruined fort, battles creatures, and uncovers magical items while putting an end to a curse.
+The [[Dunmar Fellowship]] explores a [[Dunmari Fort (Gomat)|ruined fort]], battles creatures, and uncovers magical items while putting an end to a curse.
 ## Session Info
 ### Summary
-- The Dunmar Fellowship finds an old, disturbed campsite outside a ruined fort.
+- The [[Dunmar Fellowship]] finds an old, disturbed campsite outside a ruined fort.
 - Inside the fort, they encounter and defeat a giant insect-like creature, an ankheg.
-- They discover a temple dedicated to the Five Siblings and a magical silver spearpoint inside.
+- They discover a temple dedicated to the [[Five Siblings]] and a magical silver spearpoint inside.
 - Exploration of the fort's towers uncovers a magical horn and the remains of an ancient scout.
-- In the cave below, they find a petrified explorer, a magical floating disc coin, and confront a cockatrice nursery.
-- A battle with undead creatures leads to the destruction of a cursed obsidian stone in the caverns beneath.
+- In the cave below, they find a petrified explorer and a magical [[floating disc coin]], confront a cockatrice nursery, and battle an undead creature.
+- A cursed obsidian stone is destroyed, ending the beastly rampage.
 ### Timeline
-- (DR::1748-03-25), afternoon: Explore [[Dunmari Fort (Gomat)|the ruined fort]] and the caves below. Find a petrified explorer (later revealed to be [[Arcus]]). Find and defeat an undead creature carrying a symbol of Cha'mutte. Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage. 
+- (DR::1748-03-25), afternoon: Explore [[Dunmari Fort (Gomat)|the ruined fort]] and the caves below. Find a petrified explorer (later revealed to be [[Arcus]]). Find and defeat an undead creature carrying a symbol of [[Cha'mutte]]. Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage. 
 - (DR:: 1748-03-25), evening: Make camp and rest in the Dunmari temple at the fort.
 ## Narrative
 The party decided to explore a little more before entering the ruined fort, and discovered a campsite in the foundations of the outbuildings outside the fort. The camp itself was several days to several weeks old, and had clearly been disturbed by animals (signs of scattered food -- salt pork and dried fish and the like that had been partially eaten by animals). Whoever made the camp had left most of their stuff, except weapons and water, and went somewhere. 

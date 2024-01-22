@@ -7,6 +7,12 @@ DR: 1748-04-12
 DR_end: 1748-04-13
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
+## Timeline
+
+- (DR:: 1748-04-12), night: Discover a demon in Raven's Hold performing some ritual to apparently create gnolls. Kill demon.
+- (DR:: 1748-04-13), dawn: Awake after a night of disturbing dreams.
+
+## Narrative
 
 We begin as the sun begins to set, as the party, holed up in an empty guard tower protecting the inner keep of [[Raven's Hold]], tends to their wounds and sits down for a quick meal with [[Vola]] Forena, an adventurer from [[Chardon]] just rescued by the party. [[Vola]], a member of the [[Society of the Open Scroll]], has been a prisoner for about 10 days. During her captivity, she noticed that the noise of the animals - now a loud cacophony of howls - started a few days after she was captured, and has been growing every since. 
 
@@ -14,7 +20,7 @@ After some discussion of plans and next steps, the party discusses the situation
 
 Determined to find out more of what was going on in the evening, before sleep and despite [[Vola]]’s protestations that she was utterly exhausted after nights of bad dreams and haunted sleep, the party decided a scouting mission should investigate the inner keep. [[Kenzo]] and [[Wellby]] set up to explore, [[Wellby]] turned invisible by [[Delwath]]’s magic. Finding their way down to the inner courtyard of the fort, where mists and vapors rising from the ground shrouded them, they began to investigate the inner keep.
 
-In the flickering firelight from the windows and open doorway of the keep, [[Kenzo]] and [[Wellby]] explore. While investigating, [[Kenzo]] accidently makes some noise, and a undead gnoll creature, with flesh dropping off its bones, hears and looks directly at him. Moving quickly, [[Kenzo]] rushes forward, missing with his staff but moving with supernatural speed to make two quick unarmed strikes that bring the creature down, apparently without anyone noticing. Looking into the main hall of the keep, [[Kenzo]] and [[Wellby]] see a demon, a kind of goat-like bipedal creature with horns, vicious claws, a barbed tail with a stinger, and flies buzzing around festering sores all over its body. Flames flicker in several places across the room, as the demon just paces back and forth, waiting for something. 
+In the flickering firelight from the windows and open doorway of the keep, [[Kenzo]] and [[Wellby]] explore. While investigating, [[Kenzo]] accidentally makes some noise, and a undead gnoll creature, with flesh dropping off its bones, hears and looks directly at him. Moving quickly, [[Kenzo]] rushes forward, missing with his staff but moving with supernatural speed to make two quick unarmed strikes that bring the creature down, apparently without anyone noticing. Looking into the main hall of the keep, [[Kenzo]] and [[Wellby]] see a demon, a kind of goat-like bipedal creature with horns, vicious claws, a barbed tail with a stinger, and flies buzzing around festering sores all over its body. Flames flicker in several places across the room, as the demon just paces back and forth, waiting for something. 
 
 Returning to the tower, the party discuses what to do again, and eventually decides that they need to know more about what is happening, and sends [[Wellby]] back to watch. After the sun sets, the demon begins dragging bodies of animals off a pile in the chapel, and dragging its claws through the flesh, causing it to start to rot and bubble with pus. It then drags each body to the main entrance, and does this to another. Returning to discuss with the party, [[Seeker]] notes the similarity of this to the belief among some demon cults described in a book he read several years ago, who believed the consumption of flesh of a demon would give the consumer the powers of a demon. 
 

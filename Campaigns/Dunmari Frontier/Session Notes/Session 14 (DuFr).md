@@ -8,6 +8,16 @@ DR_end: 1748-04-15
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+
+- (DR:: 1748-04-13), night: Discussion and dinner. Plans are made to travel west to the strange permanent storm on the plains. 
+- (DR:: 1748-04-14): Travel across the plains towards the lightning storm.
+- (DR:: 1748-04-15), morning: Travel across the plains towards the lightning storm.
+- (DR:: 1748-04-15), late afternoon: Arrive at the lightning storm. Vola remains outside at camp with the horses and heavy gear. 
+- (DR:: 1748-04-15), early evening: Party pushes through the storm, arriving at [[Stormcaller Tower]]. Find remains of a Chardonian adventuring party camp, before night begins to fall and party realizes stars are changed. 
+
+## Narrative
+
 We begin with the party camped a few miles west of [[Raven's Hold]], near the trade road over the mountains, listening to the recovering wildlife of open plains as the campfire crackles, and [[Vola]] brings in a brace of birds to roast for dinner.
 
 At camp, while [[Vola]] is cooking, the party spends some time trying to sort out the events of the past two days: the demon, rumors of [[Agata]] Dustmother, [[Vola]]’s rescue, the demonically possessed vine beast and the now-broken summoning circle, gnolls and rituals involving ritually slaughtered antelope, and the many packs of wild beasts kept and freed, some now audible on the plains. After discussion of [[Vola]] and whether to trust her ([[Riswynn]]: definitely no; [[Kenzo]]: maybe we should talk to her), and what to do next (travel to [[Karawa]], or investigate the storm), dinner is ready.
