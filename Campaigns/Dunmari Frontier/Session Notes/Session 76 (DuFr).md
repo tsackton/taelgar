@@ -6,18 +6,33 @@ realWorldDate: 2023-05-07
 DR: 1748-12-04
 DR_end: 1748-12-05
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which the party navigates orcish diplomacy in Xurkhaz
+descTitle: The People of the Rainbow
+title: Dunmari Frontier - Session 76
 ---
-## Notes and Information
-*in which the party meets the [[Orcs]] of [[Xurkhaz]]*
+# Dunmari Frontier - Session 76
 
-Start: early morning, Dec 4th
-End: afternoon, Dec 5th
-## Timeline
+>[!info] The People of the Rainbow: in which the party navigates orcish diplomacy in Xurkhaz
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Dec 04, 1748 DR to Dec 05, 1748 DR*
+> *On Earth: Sunday May 07, 2023*
+> *[[Xurkhaz]]*
 
-- (DR:: 1748-12-04): See at the edge of the [[Orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light. Overfly kingdom of [[Xurkhaz]], scouting. Speak with [[Vorgaz]], commander of a fort on the western border, then fly through the night to [[Uzgukhar]], the capital. Scry on [[Govir]] and Ulfgar to gather their research on the way. 
-- (DR:: 1748-12-05):Arrive at [[Uzgukhar]] early in the morning. Land, leaving [[Seeker]] in charge of [[Vindristjarna]]. Wait for hours for an audience with the Chief. Speak with Chief [[Lubash]] and his advisors. 
+The [[Dunmar Fellowship]] engages in cautious diplomacy with orcish leaders in [[Xurkhaz]], discussing mutual threats and the significance of a [[Cloak of Rainbows|magical cloak]].
+
+## Session Info
+### Summary
+- The [[Dunmar Fellowship]] scouts the orcish kingdom of [[Xurkhaz]] from their airship, observing its rural landscape and military preparations.
+- Initial contact with the orcs at a western fort is tense, with the party being shot at but eventually leading to a dialogue with Commander Vorgaz.
+- The party discusses their past and shares knowledge of Grash with Vorgaz, who agrees to send a message to Chief Lubash.
+- Upon arrival in Uzgukhar, the party is received by Chief Lubash and advisors; they discuss the threat of Apollyon and the significance of a magical cloak.
+- The party considers the risk of Chardonian spies and the theft of the cloak, but Lubash is reluctant to flee, highlighting the cloak's importance in orc society.
+
+### Timeline
+- (DR:: 1748-12-04): Overfly kingdom of [[Xurkhaz]], scouting. Speak with [[Vorgaz]], commander of a fort on the western border, then fly through the night to [[Uzgukhar]], the capital. Scry on [[Govir]] and Ulfgar to gather their research on the way. 
+- (DR:: 1748-12-05): Arrive at [[Uzgukhar]] early in the morning. Land, leaving [[Seeker]] in charge of [[Vindristjarna]]. Wait for hours for an audience with the Chief. Speak with Chief [[Lubash]] and his advisors. 
+
 ## Narrative
-
 We begin high above the orcish kingdom of [[Xurkhaz]] (zurk - kaz), as the party scouts and debates what to do. The territory is large - at least 150 miles across, nestled between two rivers on its eastern and western borders. From the air, it appears mostly rural, with only a few forts and towers defending the western border, and one major city near the confluence of the two border rivers. This is a dry, arid land of rolling hills, sustained by heavy irrigation that supports what appears to be mostly wheat and cattle farming. 
 
 Drifting over the landscape, the party flies towards the fortification on the western border, a small walled town and fort. As they approach, it is apparent a large army is camped here, maybe 1500 [[Orcs]] spread out along the river, prepared for war. The [[Orcs]] who spot [[Vindristjarna]] are immediately on alert, and initial negotiations proceed under a hail of arrows striking the bottom of the ship. It is apparent the [[Orcs]] are wary of outsiders, especially because sometime in the recent past it seems a group of Chardonians infiltrated [[Xurkhaz]] with nefarious motives. But the commander is swayed by the party's apparent dislike of Chardonians, and he invites them to descend and speak. After a brief negotiation about leaving their weapons behind, the party is led through a brightly colored courtyard to an inner chamber in the fort, where Commander [[Vorgaz]] introduces himself. 

@@ -243,6 +243,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[50]%% 
 - A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[51]%%
 ## Other Rewards
+- A meta-resource from speaking with [[Arheste]]: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics. Currently
 - The party is always welcome in [[Karawa]] and will always have food and shelter while they are in town.
 - A letter of introduction to [[Kaleha]], high priest of the temple in Tokra, an important administrator in the civil government, from [[Candrosa]].
 - A letter of introduction from [[Kaleha]], high priest of the [[Tokra]] monastery, vouching for our good character.

@@ -6,19 +6,47 @@ realWorldDate: 2023-11-08
 DR: 1749-01-08
 DR_end: 1749-01-16
 players: [Seeker, Delwath, Kenzo, Wellby]
+tagline: in which the party uncovers hidden lore in Erelion
+descTitle: Erelion's Secrets
+title: Dunmari Frontier - Session 87
 ---
-## Old Summary
-*in which the party visits [[Orenlas]]*
+# Dunmari Frontier - Session 87
 
-- The party visited the forest of [[Orenlas]], where they explored the living city of [[Erelion]], visiting the sacred elder tree and meeting Caretaker [[Erdhin]], the gardener [[Ealwen]], the retired solider [[Vahaiya]], and the poet [[Cirdore]]. 
-- After [[Kenzo]] attempts to get [[Ealwen]] to join the crew of [[Vindristjarna]], she says that while she does not feel she can leave [[Erelion]], she does know a few people who might want to join the ship as a gardener. 
-- The party spoke with the ancient [[Elves|elf]] [[Arheste]], who told them about the days of [[Drankorian Empire|Drankor]]: the [[Drankorian Civil War|civil war]] that ended centuries of peace; the rise of [[Omnis Pura]]; [[Apollyon|Apollyon]]'s reign; and his attempted ascension to godhood and ultimate downfall. 
-- After spending a day speaking with an learning from [[Arheste]], the party got a desperate message from [[Riswynn]], informing them that [[Grash]] was nearly finished constructing a massive trebuchet, 400 feet tall at least, and if they did not arrive soon, [[Uzgukhar]] would be destroyed. 
+>[!info] Erelion's Secrets: in which the party uncovers hidden lore in Erelion
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
+> *In Taelgar: Jan 08, 1749 DR to Jan 16, 1749 DR*
+> *On Earth: Wednesday Nov 08, 2023*
+> *[[Erelion]], [[Orenlas]]*
 
+In the elven city of [[Erelion]], the [[Dunmar Fellowship]] learns about [[Cha'mutte]] and [[Apollyon]] from the ailing elder [[Arheste]], before receiving an urgent plea to aid besieged [[Riswynn]].
+
+## Session Info
+
+***Character advancement: reach level 13 at the end of the session***
+### Summary
+- The[[ Dunmar Fellowship]] returns to [[Vindristjarna]] after constructing magic items at the Elemental Forge.
+- Using the planar prism, they construct a rainbow bridge to [[Orenlas]], where they experience dreamlike visions.
+- They are welcomed in [[Erelion]] and explore fey gardens and the elder tree.
+- An elder elf named [[Arheste]], ill and cared for by [[Ealwen]], shares ancient tales with the party after being soothed by [[Kenzo]]'s ki.
+- An urgent plea from [[Riswynn]] arrives, warning of an impending attack on [[Uzgukhar]].
+### Timeline
+- (DR::1749-01-08), evening: Settle in at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] prepares for magic item construction.
+- (DR::1749-01-09): Remain at the elemental forge while [[Faldrak Bronzehammer]] crafts magic.
+- (DR::1749-01-10): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic.
+- (DR::1749-01-11): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic.
+- (DR::1749-01-12): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic.
+- (DR::1749-01-13): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic.
+- (DR::1749-01-14): Return to [[Vindristjarna]], depart for [[Orenlas]].
+- (DR::1749-01-15): Arrive in [[Orenlas]] in morning after traveling through the evening across the [[~Cymea Border Mountains~]]; dinner party.
+- (DR::1749-01-16): Visit [[Arheste]]; soothe her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]].
+### Mirror of the Past
+- (DR::1749-01-13) [[The Mirror of the Past]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
+### Notes, Letters, Visions
+- The party receives a [[Philosopher's Information Concerning Binding Stones|message]] about binding stones from the Philosopher's Guild.
+- Faldrak [[Faldrak's Journal Notes|writes in his journal]].
 #### The Story of Apollyon and Cha'mutte
 
 Piecing together what [[Arheste]] told you, you reconstruct the following timeline of [[Apollyon|Apollyon]] and [[Cha'mutte]]. 
-
 This story is told from [[Arheste]]'s point of view [[Arheste#Arheste's Story|here]].
 
 - After the Drankorian civil war, [[Omnis Pura]] and [[Cha'mutte]] became allies, and when [[Apollyon|Apollyon]] came to power, he continued to ally with [[Cha'mutte]]. 
@@ -34,33 +62,9 @@ This story is told from [[Arheste]]'s point of view [[Arheste#Arheste's Story|he
 - [[Arheste]], though too weak from the ongoing effects of plague exposure to seek [[Apollyon|Apollyon]] herself, will do anything in her power to ensure that he is defeated, once and for all, his phylactery destroyed utterly, and any hope of his resurrection crushed. 
 
 The story of the scepter of command, as told in later days by the halflings, is [[Story of the Scepter of Command|here]].
-## Session Events
-
-Start: afternoon, Jan 8th, 1749
-End: evening, Jan 16th, 1749
-
-***Everyone levels up to level 13 at the end of the session!***
-#### Mirror Visions
-- (DR::1749-01-13) [[The Mirror of the Past]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
-#### Timeline 
-
-- (DR::1749-01-08): *(evening)* Settle in at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] prepares for magic item construction 
-- (DR::1749-01-09): Remain at the elemental forge while [[Faldrak Bronzehammer]] crafts magic
-- (DR::1749-01-10): Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
-- (DR::1749-01-11) : Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
-- (DR::1749-01-12) : Remain at the elemental forge while [[Faldrak Bronzehammer|Faldrak]] crafts magic
-- (DR::1749-01-13) [[The Mirror of the Past]] used to look at Elemental Forge
-- (DR::1749-01-14) : Return to [[Vindristjarna]], depart for [[Orenlas]]
-- (DR::1749-01-15) : Arrive in [[Orenlas]] in morning after traveling through the evening across the mountains; dinner party
-- (DR::1749-01-16) : Visit [[Arheste]]; soothe her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]]
-
-#### New Treasure
-
-A meta-resource: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics. 
 
 ## Narrative
-
-We begin on [[Vindristjarna]], as the party has returned to the skyship after several days at the Elemental Forge while [[Faldrak Bronzehammer|Faldrak]] constructed a number of magic items from the residual energy of the forge left behind by [[Sh’shethis]]'s departure. The day before, as [[Faldrak Bronzehammer|Faldrak]] finished his work, the party had viewed the [[Elemental Forge Vision|forge itself in Eudomes' mirror]]. Now, we pick up as the party heads south for [[Orenlas]], and [[Faldrak Bronzehammer|Faldrak]] writes in his [[Faldrak's Journal Notes|journal]]:
+We begin on [[Vindristjarna]], as the party has returned to the skyship after several days at the Elemental Forge while [[Faldrak Bronzehammer|Faldrak]] constructed a number of magic items from the residual energy of the forge left behind by [[Sh’shethis]]'s departure. The day before, as [[Faldrak Bronzehammer|Faldrak]] finished his work, the party had viewed the [[Elemental Forge Vision|forge itself in Eudomes' mirror]]. Now, we pick up as the party heads south for [[Orenlas]], and [[Faldrak Bronzehammer|Faldrak]] writes in his [[Faldrak's Journal Notes|journal]].
 
 [[Faldrak Bronzehammer|Faldrak]]'s writing is interrupted by the arrival of another message from the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], this time concerning [[Philosopher's Information Concerning Binding Stones|the binding stones]]. The party reads and discusses. 
 

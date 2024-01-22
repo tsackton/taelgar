@@ -6,12 +6,28 @@ realWorldDate: 2023-07-27
 DR: 1748-12-10
 DR_end: 1748-12-17
 players: [Seeker, Delwath, Kenzo, Wellby]
+tagline: in which the party gathers rumors and makes connections in Tollen
+descTitle: Tollen Arrivals
+title: Dunmari Frontier - Session 80
 ---
-## Notes and Information
-*in which the party travels to [[Tollen]]*
-Start: early afternoon, Dec 10th
-End: morning, Dec 17th
-## Timeline
+# Dunmari Frontier - Session 80
+
+>[!info] Tollen Arrivals: in which the party gathers rumors and makes connections in Tollen
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
+> *In Taelgar: Dec 10, 1748 DR to Dec 17, 1748 DR*
+> *On Earth: Thursday Jul 27, 2023*
+> *[[Tollen]]*
+
+The Dunmar Fellowship arrives in [[Tollen]], seeking allies and information.
+## Session Info
+### Summary
+- The party departs [[Uzgukhar]] on [[Vindristjarna]], flying north to destroy the [[Scepter of Command]]
+- They encounter and survive an acidic ooze attack in the ruined city [[Isingue]].
+- Arriving in Tollen, they negotiate safe harbor and split up to pursue various interests across the city: [[Wellby]] reconnects with mapmaker [[Guy Marchand]], [[Delwath]] shops for skyship needs and gathers local rumors, [[Kenzo]] seeks out a magical tattoo.
+- They end the day at [[The Windward Sail]], learning about local figures and rumors from [[Wendel Quickstep]] and [[Nika Hyne]]
+- The party meets with the elf [[Melindir]] who advises caution with [[Caelynn]] and speaks of a a potential quest from the [[Skaerhem|Skaer]].
+
+### Timeline
 - (DR:: 1748-12-10): Leave [[Uzgukhar]], flying north on [[Vindristjarna]]
 - (DR:: 1748-12-11): Fly north, high over the [[Plaguelands]]
 - (DR:: 1748-12-12): Fly over [[Isingue]]; descend to investigate, attacked by some kind of acidic ooze
@@ -19,9 +35,9 @@ End: morning, Dec 17th
 - (DR:: 1748-12-14): Reach [[Western Gulf]]; [[Kenzo]] communes with the ocean life
 - (DR:: 1748-12-15): Fly across [[Western Gulf]]
 - (DR:: 1748-12-16): Arrive in [[Tollen]]; split up and speak with various people; spend the night at *[[The Windward Sail]]*
-- (DR:: 1748-12-17): *(morning)* Speak with [[Melindir]]
-## Narrative
+- (DR:: 1748-12-17), morning: Speak with [[Melindir]]
 
+## Narrative
 We begin as the party departs [[Uzgukhar]], north to find a volcano in which to destroy the [[Scepter of Command]]. Flying nearly 24 hours, the party covers more than 200 miles per day. The first three days are spend crossing the [[Plaguelands]], including a brief flyover of [[Isingue]], a ruined trading city south of [[Sembara]]. In [[Isingue]], [[Seeker]] brings the ship lower, noting that the entire ground of the city seems to be teeming with a strange black squirming mold. Which attacks, launched a black globule of acidic ooze that begins to burn through the stone of the ship, until it is burned out by [[Wellby]].
 
 Continuing north, the party crosses the [[Western Gulf]], hearing [[Wellby]]'s stories of his childhood on the ocean (including the tale of seeing a giant underwater dragon when he was 9). [[Kenzo]] also communes with the nature of the gulf, feeling the teaming life on the surface, and the strange dark canyon depths where giant crabs scuttle beneath the reach of sunlight.
