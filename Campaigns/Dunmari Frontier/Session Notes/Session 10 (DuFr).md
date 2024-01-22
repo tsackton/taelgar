@@ -7,7 +7,12 @@ DR: 1748-04-12
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
+## Timeline
 
+- (DR:: 1748-04-12), late afternoon: Cross through tunnels underground to Raven's Hold. 
+- (DR:: 1748-04-12), evening: Kill undead hobgoblins. Kill orc and jackalwere guarding a prisoner. Free Vola, the prisoner. 
+
+## Narrative
 We begin with the party contemplating the locked iron gate. While [[Wellby]] sneaks off to make sure [[Inakara]] is really departing, and see if there is anything else useful to find, the rest of the party tries to get past the gate, eventually resorting to [[Riswynn]] smashing it to pieces with her warhammer. Beyond the gate, a long tunnel leads east, albeit not one of Dwarven construction, according to [[Seeker]]. The tunnel continues at least 1500’, sloping down and then up slightly, before spiraling up in a corkscrew twist and emerging into a small chamber with a hole in the ceiling, leading up. While some iron spikes still in the walls hint that perhaps a ladder of some kind used to hang here, it is long gone. 
 
 [[Riswynn]] climbs to the top, and drops a rope down for everyone else. As [[Wellby]] arrives, the party gathers in an old, disused cavern, seemingly once a storeroom, to discuss. After much talk, including the report from [[Wellby]] of signs of [[Hobgoblins]] in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] and his sighting of a large animated iron statue of Dwarven make apparently guarding something, conversation halts as [[Wellby]] hears something scrabbling around down the corridor. Exploring invisibly, [[Delwath]] spots two undead [[Hobgoblins]] rooting through some old skeletons, snapping bones in half. Exploring north and south, he also finds two exits from these caverns: one to the north blocked by a cave in, and one of the south leading to an iron gate, a small bridge, and a tower. Realizing it probably isn’t safe to explore while these creatures are roaming around, the party sets and ambush and makes quick work of the creatures. The room they were in seems to be an old, disused prison, probably [[Hobgoblins|hobgoblin]]: decapitated skeletons point towards an execution block, and iron manacles attached to the walls suggest prisoners were kept or tortured here.

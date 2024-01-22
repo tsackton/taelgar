@@ -7,6 +7,11 @@ DR: 1748-04-15
 DR_end: 1748-04-16
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
+## Timeline
+
+- (DR:: 1748-04-15), night: Continue exploring [[Stormcaller Tower]]. Fight a water guardian, dislodge a strange iron orrery, and find treasure and information. Flee as Hralgar's mind slips back into madness and the storm intensifies. Stagger through the storm through the night. 
+- (DR:: 1748-04-16), early morning: Stumble out of the permanent storm around [[Stormcaller Tower]]. Vola and Riswynn depart for Chardon and Tharn Todor, respectively. 
+## Narrative
 
 Standing in a shattered room at the top of an [[Stormcaller Tower|ancient tower]], we begin with our heroes confronting a massive [[Giants|storm giant]], laying chained and manacled to the ground in front of them. Clothed in tattered robes, with long, shaggy hair and weathered features, the most notable fact about this storm giant, [[Hralgar]], is that he is missing his [[Hralgar's Eyes|eyes]]. 
 

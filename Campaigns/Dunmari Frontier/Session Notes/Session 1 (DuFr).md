@@ -6,25 +6,25 @@ realWorldDate: 2020-05-29
 DR: 1748-03-22
 DR_end: 1748-03-22
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which the Dunmar Fellowship confronts chaos
+tagline: in which the party confronts chaos in Karawa
 descTitle: Hyena Rampage
 title: Dunmari Frontier - Session 1
-complete: true
 ---
 # Dunmari Frontier - Session 1
 
->[!info] Hyena Rampage: in which the Dunmar Fellowship confronts chaos
+>[!info] Hyena Rampage: in which the party confronts chaos in Karawa
+> *Featuring: [[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]]*
 > *In Taelgar: Mar 22, 1748 DR*
 > *On Earth: Friday May 29, 2020*
-> *Karawa and Gomat Oasis*
+> *[[Karawa]] and [[Gomat|Gomat Oasis]]*
 
-The newly formed Dunmar Fellowship rescues Karawa from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at Gomat Oasis.
+The newly formed [[Dunmar Fellowship]] rescues [[Karawa]] from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at the [[Gomat|Gomat Oasis]]
 ## Session Info
 ### Summary
-- The Dunmar Fellowship saves the villagers of Karawa from two giant hyenas, with the aid of Beli, a woman with divine magic.
+- [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] meet, and save the villagers of [[Karawa]] from two giant hyenas.
 - The party agrees to investigate a series of mysterious attacks on the village after a discussion with Karawa's leaders.
-- After tracking the beasts into the desert, the Fellowship encounters Alesh, a Dunmari scout.
-- The Fellowship reaches Gomat Oasis, only to find giant lizards feasting on sheep carcasses.
+- After tracking the beasts into the desert, the party encounters [[Alesh]], a Dunmari scout.
+- The party reaches [[Gomat|Gomat Oasis]], only to find giant lizards feasting on sheep carcasses.
 ### Timeline
 - (DR:: 1748-03-22), morning: [[Kenzo]] arrives in [[Karawa]]. Giant hyena attack. Village elders, including [[Candrosa]] and Elder [[Kisa]], ask [[Delwath]] and companions to help. 
 - (DR:: 1748-03-22), afternoon: The party heads into the desert, where they meet [[Alesh]] on the road.  Turn east to the [[Gomat|Gomat Oasis]], where they find three giant lizards ripping into sheep carcasses.

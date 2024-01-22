@@ -5,6 +5,8 @@ name: Dunmari Frontier Timeline
 timelineDescriptor: Dunmari Frontier Campaign
 ---
 
+## Pre Campaign
+
 - (DR:: 1747-08-02): Wellby leaves Semabara, heading south. Spends some time wandering.
 - (DR:: 1747-08-17): Delwath teleports from the shadow realm, arriving near Kharsan, witless and wild.
 - (DR:: 1747-08-19): Delwath found wandering by Pava and Avaras west of Kharsan, taken in.
@@ -28,27 +30,8 @@ timelineDescriptor: Dunmari Frontier Campaign
 - (DR:: 1748-03-21): Seeker arrives in Karawa
 - (DR::1748-03-24): Riswynn leaves Askandi, heading for Karawa.
 
+## Campaign
 
-- (DR:: 1748-03-31): An anonymous benefactor leaves a dwarven book ("The Runes of Creation") for Seeker at Ikram's caravanserai in Karawa.
-- (DR:: 1748-04-02): Kenzo wins the staff dancing competition in Karawa.
-- (DR:: 1748-04-03): Wellby places third in the axebeak races in Karawa.
-- (DR:: 1748-04-04): Refugees from Bas Udda begin arriving in Karawa; mood changes in town. Party attends council meeting in Karawa with [[Havdar]], Alesh, Candrosa, Elder Kisa, and Suma. Decision made to evacuate Karawa. Alesh leaves to scout, a messenger leaves to the Samraat court in Nayahar. [[Havdar]] starts recruiting warriors who can ride and fight.
-- (DR:: 1748-04-05): Riswynn arrives in Karawa in the late afternoon. Festival of Rebirth begins at sundown with announcement of plan to flee west at first light in two days time.  Burning shrine of Jeevali casts embers to the winds, despite still air, which is interpreted as a sign supporting the decision to flee.
-- (DR:: 1748-04-06): Day of fasting, prayer, and preparation. Festival of Rebirth concludes with a solemn procession, which is interrupted by a gnoll attack on the outskirts of town.
-- (DR:: 1748-04-07): Dunmari and festival visitors leave Karawa with [[Havdar]] and his band, moving as quicky as they can towards the relative safety of Tokra. Party leaves Karawa tracking gnolls. 
-- (DR:: 1748-04-08): Party travels north towards Raven's Hold.
-- (DR:: 1748-04-09): Party travels north. Crosses road, meets Shani and her companions, who were trapped by a large fire started by permanent lightning storm. Fight and destroy a group of gnolls late in the evening.
-- (DR:: 1748-04-11): Party travels north across the plains.
-- (DR:: 1748-04-12): Party meets centaurs just south of Raven's Hold, speaks to Tharandros. Convinces him to take his band south to Karawa. Travel towards Raven's Hold. Party finds Dwarven back door, enter via tunnel. Meet Inakara and the twisted creatures that now make the dwarven output here home. Fight and kill a roper. Find Brawnanvil Shield and Shatterstorm in abandoned dwarven treasury. Find signs of mind flayer incursions from centuries ago. Cross through tunnels underground to Raven's Hold. Find and rescue Vola. Discover a demon in Raven's Hold performing some ritual to apparently create gnolls. Kill demon.
-- (DR:: 1748-04-13): Party wakes up in Raven's Hold. Kills many gnolls. Finds and destroys some demon-cursed plant creature near a summoning circle outside of Raven's Hold, watch poisoned water be washed away. Careful searching turns up little but a scroll cap from a scroll case. Free a bunch of penned up animals free. Camp near road.
-- (DR:: 1748-04-14): Party travels across the plains towards the lightning storm.
-- (DR:: 1748-04-15): Party arrives at the lightning storm in the late afternoon. Vola remains outside at camp with the horses and heavy gear. Party pushes through the storm, arriving at Eudomes' Tower. Briefly explore and find remains of a Chardonian adventuring party camp, before night begins to fall and party realizes stars are changed. Decide to investigate tower more. Meet Hralgar, the trapped storm giant, missing his eyes.
-- (DR:: 1748-04-16): Party stumbles out of the storm around Eudomes' tower in the morning. Vola and Riswynn depart for Chardon and Tharn Todor, respectively. Party kills a group of emaciated and nearly undead gnolls on the plains.
-- (DR:: 1748-04-17): Party travels south towards Karawa.
-- (DR:: 1748-04-18): Party travels south towards Karawa.
-- (DR:: 1748-04-19): Party travels south towards Karawa.
-- (DR:: 1748-04-22): Party uses Eudomes' Mirror to examine the scroll cap found at Raven's Hold.
-- (DR:: 1748-04-23): Party spends night outside Karawa
 - (DR:: 1748-04-24): Party arrives in Karawa. Learns news of gnoll attack from an exhausted and worn down Candrosa. Learns news of the south from Alesh, including an [[Orcs|orc]] scouting party, a mysterious empty stone house, and another band of emaciated gnolls heading south and west into the [[Garamjala Desert]]. Discuss [[Agata]] Dustmother, the gnolls, and the events of the past month with Candrosa, who is disracted, worried, and nervous, especially when the topic of Shakun's protection comes up. Discuss the metaphysics of other planes and [[Agata]] Dustmother with Tharandros. Decide to travel east with [[Havdar]].
 - (DR:: 1748-04-26): Riswynn arrives in Tokra.
 - (DR:: 1748-04-27): Eudomes' mirror used to examine Kenzo's shard of jade. Party departs Karawa with [[Havdar]]'s warrior band.

@@ -8,6 +8,12 @@ DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+
+- (DR:: 1748-04-12), mid-afternoon: Find Brawnanvil Shield and Shatterstorm in abandoned dwarven treasury. Find signs of mind flayer incursions from centuries ago. Find tunnel to [[Raven's Hold]].
+
+## Narrative
+
 As our session begins underneath the mountains, across the dusty plains and deserts of [[Dunmar]], people are moving. In the west, a tired mass of refugees flees [[Karawa]], hopefully now nearing the River [[Hara]] and the outskirts of [[Tokra]]. To the south, [[Alesh]] and her small group of companions ride quickly and quietly through the deserts, hopefully avoiding danger along the way as they try to learn what lurks in the ruins of [[Bas Udda]] and beyond. In [[Karawa]], the acolytes and initiates of the [[Shakun Mystai]] remain holed up in the [[Temple of Shakun]], as [[Centaurs]] ride fast towards them, bringing news, and perhaps aid in battle, should it be needed, and not too late already.
 
 The party stands in the center of a large, open cavern, a former marketplace and center of trade when this outpost was full of dwarven life. The party spends some time investigating the dead body of the roper, and the remains of the tavern or inn in the cavern. Untouched by the strong acid of the roper’s stomach, they discover a [[Pearl of Power|small pearl]], magical, and able to restore some spellcasting energy. In the tavern, they find graffiti -- a three-fingered, clawed hand, with the three fingers burned to the bone -- which [[Wellby]] recognizes as a [[Hobgoblins|hobgoblin]] banner, something his people have fled from before. 

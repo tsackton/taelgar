@@ -7,6 +7,22 @@ DR: 1748-04-16
 DR_end: 1748-04-24
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
+## Timeline
+
+
+%%^Campaign:None%%
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", { yearStart: "1748-04-16", yearEnd: "1748-04-24", includAll: true})
+```
+%%^End%%
+
+16th Party kills a group of emaciated and nearly undead gnolls on the plains.
+- (DR:: 1748-04-17): Party travels south towards Karawa.
+- (DR:: 1748-04-18): Party travels south towards Karawa.
+- (DR:: 1748-04-19): Party travels south towards Karawa.
+- (DR:: 1748-04-22): Party uses Eudomes' Mirror to examine the scroll cap found at Raven's Hold.
+- (DR:: 1748-04-23): Party spends night outside Karawa
+## Narrative
 
 Bone tired from a night of stumbling through the mists, fog, rain, and thunder of [[Hralgar]]’s storm, we open on the party, resting over a late breakfast, [telling stories of their childhood](https://www.youtube.com/watch?v=j6k6EcUUBuQ). [[Seeker]], about his brother [[Frankar]] who vanished after an accident with a strange divination machine of his invention; [[Delwath]], about cooking for his elders as rumors of darkness spread in the world outside; [[Kenzo]], about the hard life of poor street kids growing up in [[Chardon]]; and [[Wellby]], about being at home on the road and the stories his great-grandfather told. As these stories finish, the conversation turns to the events of the past month, as the party starts to puzzle over the mysteries they have experienced, and speculate on answers. [[Seeker]] records much of the conversation in his journal, and a few answers perhaps emerge.
 
@@ -25,4 +41,3 @@ The next day, the party arrives at [[Karawa]] by mid-afternoon. From a distance,
 Finally, before the party begins to report on the events of the north, [[Kenzo]] asks about [[Agata]] Dustmother. Neither [[Candrosa]] or [[Alesh]] has heard that name, but [[Candrosa]] mentions the [[Agata|Old Woman of the Dusts]], an old woman who lives in the desert, and who has some kind of magic. But not a pleasant kind of magic, rather it is the [[Story about Hags|sort of magic that comes at a price]], often a large one, and that you only turn to when you are desperate and willing to give up everything. 
 
 The session ends with [[Candrosa]] finishing this story, and everyone wondering if this is indeed [[Agata]] Dustmother.
-

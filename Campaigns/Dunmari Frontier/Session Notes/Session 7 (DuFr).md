@@ -6,8 +6,37 @@ realWorldDate: 2020-08-16
 DR: 1748-04-07
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+tagline: in which the party heads to Raven's Hold
+descTitle: Northward Bound
+title: Dunmari Frontier - Session 7
 ---
+# Dunmari Frontier - Session 7
 
+>[!info] Northward Bound: in which the party heads to Raven's Hold
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Apr 07, 1748 DR to Apr 12, 1748 DR*
+> *On Earth: Sunday Aug 16, 2020*
+> *From [[Karawa]] to[[ Raven's Hold]]*
+
+The [[Dunmar Fellowship]] heads north, encountering refugees and [[Centaurs|centaurs]], and survives a gnoll ambush as they approach [[Raven's Hold]].
+
+## Session Info
+### Summary
+- The [[Dunmar Fellowship]] departs [[Karawa]] with [[Riswynn]] Brawnanvil, tracking gnolls north towards [[Raven's Hold]].
+- The party encounters [[Shani]], a Dunmari refugee fleeing a fire and gnoll attacks.
+- An ambush by gnolls interrupts the group's rest, but they successfully defend themselves.
+- [[Seeker]] speaks with a vulture, learning there is minimal movement on the plains but significant activity at [[Raven's Hold]].
+- They meet [[Tharandros]] and his [[centaurs]], discuss the spreading corruption, and convince them to warn [[Karawa]].
+
+### Timeline
+- (DR:: 1748-04-07): Dunmari and festival visitors leave [[Karawa]] with [[Havdar]] and his band, moving as quicky as they can towards the relative safety of [[Tokra]]. Party leaves [[Karawa]] tracking gnolls. 
+- (DR:: 1748-04-08): Party travels north towards [[Raven's Hold]].
+- (DR:: 1748-04-09): Party travels north. Crosses road, meets [[Shani]] and her companions, who were trapped by a large fire started by permanent lightning storm. Fight and destroy a group of gnolls late in the evening.
+- (DR:: 1748-04-11): Party travels north across the plains.
+- (DR:: 1748-04-12), morning: Party meets [[centaurs]] just south of [[Raven's Hold]], speaks to [[Tharandros]]. Convinces him to take his band south to Karawa. Travel towards [[Raven's Hold]]. 
+
+
+## Narrative
 The session begins in the pre-dawn light, as the people of [[Karawa]] prepare to flee west and the party, joined by [[Riswynn]] Brawnanvil, gather their gear and plan their journey north to [[Raven's Hold]]. Amidst the bustle and chaos of hundreds of people packing food, supplies, and what belongings they can carry, the party says their goodbyes and heads north, following the tracks of the gnolls and maw creatures that attacked the night before. 
 
 The tracks lead roughly north, heading overland but relatively near the well-traveled path that connects [[Karawa]] to the ancient trade road running across [[Dunmar]]. As the party follows the trail, the stream of refugees leaving [[Karawa]] in a long line of people, horses, sheep, and other animals can be seen at a distance. A few miles north of the trade road, the tracks converge on an area where the creatures clearly spent some time, perhaps a camp. It seems a larger group was here, and split up, with some heading west, and others heading south to [[Karawa]]. The tracks continue north and east from here, towards [[Raven's Hold]], where it seems the larger group came from. At this point, the party decides to ride straight and fast for [[Raven's Hold]] overland, and gets in a few more hours riding before making camp and spending some time in the evening discussing the approach to [[Raven's Hold]] and looking over [[Riswynn]]’s maps from her great uncle [[Eberk Brawnanvil]].
