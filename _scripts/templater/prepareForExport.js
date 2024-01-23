@@ -3,17 +3,20 @@ async function prepareForExport(tp, headerType) {
     await forceLoadCustomJS()
 
     const metadataFilePath = app.vault.configDir + "/metadata.json";
-    let metadataFile = await app.vault.adapter.read(metadataFilePath);        
+    let metadataFile = await app.vault.adapter.read(metadataFilePath);
     customJS.state.coreMeta = JSON.parse(metadataFile)
 
     const { OutputHandler } = customJS
     const { DateManager } = customJS
+    const { WhereaboutsManager } = customJS
 
     let websiteDate = ""
+    let staticify_whereabouts = false
     try {
         let metadataFile = await app.vault.adapter.read(app.vault.configDir + "/../../website.json");
         let websiteData = JSON.parse(metadataFile)
         websiteDate = websiteData.export_date
+        staticify_whereabouts = websiteData.staticify_whereabouts
     }
     catch { }
 
@@ -41,7 +44,7 @@ async function prepareForExport(tp, headerType) {
 
         let processHeader = md && md.frontmatter && md.frontmatter.tags && md.frontmatter.headerVersion
         let dateValue = md.frontmatter ? DateManager.getPageDates(md.frontmatter) : { isCreated: true }
-        let processFrontmatter = !dateValue.isCreated
+        let processFrontmatter = !dateValue.isCreated || (staticify_whereabouts && md.frontmatter && md.frontmatter.whereabouts && Array.isArray(md.frontmatter.whereabouts))
 
 
         if (processHeader) {
@@ -66,11 +69,20 @@ async function prepareForExport(tp, headerType) {
                 const { DateManager } = customJS
 
                 if (!frontmatter) return
-                if ("activeYear" in frontmatter) return
+                if (!("activeYear" in frontmatter)) {
+                    let pageDates = DateManager.getPageDates(frontmatter)
+                    if (pageDates.startDate) {
+                        frontmatter["activeYear"] = pageDates.startDate.year
+                    }
+                }
 
-                let pageDates = DateManager.getPageDates(frontmatter)
-                if (pageDates.startDate) {
-                    frontmatter["activeYear"] = pageDates.startDate.year
+                if (frontmatter.whereabouts) {
+
+                    let wb = WhereaboutsManager.getWhereabouts(frontmatter)
+
+                    frontmatter["whereabouts_current"] = wb.current.location
+                    frontmatter["whereabouts_home"] = wb.home.location
+                    frontmatter["whereabouts_origin"] = wb.origin.location
                 }
             });
         }
