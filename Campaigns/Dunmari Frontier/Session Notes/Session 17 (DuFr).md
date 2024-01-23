@@ -16,10 +16,8 @@ await dv.view("_scripts/view/get_EventsTable", { yearStart: "1748-04-16", yearEn
 ```
 %%^End%%
 
-16th Party kills a group of emaciated and nearly undead gnolls on the plains.
-- (DR:: 1748-04-17): Party travels south towards Karawa.
-- (DR:: 1748-04-18): Party travels south towards Karawa.
-- (DR:: 1748-04-19): Party travels south towards Karawa.
+- (DR:: 1748-04-16), late morning: Leave [[Stormcaller Tower]] heading towards Karawa. Kill a group of emaciated and nearly undead gnolls on the plains.
+- (DR:: 1748-04-17) - (DR_end:: 1748-04-21): Travel south towards Karawa
 - (DR:: 1748-04-22): Party uses Eudomes' Mirror to examine the scroll cap found at Raven's Hold.
 - (DR:: 1748-04-23): Party spends night outside Karawa
 ## Narrative
