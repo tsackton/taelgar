@@ -114,8 +114,8 @@ class OutputHandler {
             }
 
             if (metadata.whereabouts || metadata.partOf) {
-                if (whereaboutsStrings.origin) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
-                if (whereaboutsStrings.home) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
+                if (whereaboutsStrings.origin.trim()) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
+                if (whereaboutsStrings.home.trim()) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
             }
 
             output += "</div>\n\n"
@@ -136,8 +136,8 @@ class OutputHandler {
             }
 
             if (metadata.whereabouts || metadata.partOf) {
-                if (whereaboutsStrings.origin) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
-                if (whereaboutsStrings.home) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
+                if (whereaboutsStrings.origin.trim()) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
+                if (whereaboutsStrings.home.trim()) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
             }
 
             output += "</div>\n\n"
@@ -163,8 +163,8 @@ class OutputHandler {
             }
 
             if (metadata.whereabouts || metadata.partOf) {
-                if (whereaboutsStrings.origin) output += "   " + whereaboutsStrings.origin.trim() + "  \n"
-                if (whereaboutsStrings.home) output += "   " + whereaboutsStrings.home.trim() + "  \n"
+                if (whereaboutsStrings.origin.trim()) output += "   " + whereaboutsStrings.origin.trim() + "  \n"
+                if (whereaboutsStrings.home.trim()) output += "   " + whereaboutsStrings.home.trim() + "  \n"
             }
 
             if (metadata.ddbLink && displayDefaults.mechanicsLink && displayDefaults.mechanicsLink.length > 0) {
