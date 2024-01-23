@@ -1,13 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
-campaignInfo: []
 name: Breva
 typeOf: realm
-partOf: Highland Kingdoms
+whereabouts: Zimkova
 ---
 # Breva
->[!info]+ Information
-> A realm in the [[Zimkova]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A highlander kingdom.
 

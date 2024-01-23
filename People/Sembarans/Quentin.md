@@ -20,6 +20,6 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:Clee%% Met with the [[Heroes of Cleenseau]] on November 28th, 1719 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
-%% Quetin is a messenger and a member of the Army of the West. He arrived from Dunfry in Sembara on November 28th and departed back to Dunfry on November 30th. The party last saw him on November 28th in Cleenseau.
+%% Quetin is a messenger and a member of the Army of the West.
 
 Quetin is known for his unwavering dedication and strong sense of duty. He has a calm and composed demeanor, even in the face of adversity. Physically, he is of average height with short-cropped brown hair and a well-maintained beard. He carries himself with a military bearing, a testament to his service in the Army of the West. %%
