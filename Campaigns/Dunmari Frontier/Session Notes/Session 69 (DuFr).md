@@ -60,7 +60,7 @@ The [[Dunmar Fellowship]] breaks curses afflicting [[Kenzo]] and [[Havdar]], lea
 | Are they within a week of us? | **NO** | 22 Nov 1748 |  
 | Was [[Apollyon]] behind [[Sura]]'s kidnapping?  | **NO** | 23 Nov 1748 
 ## Narrative
-We begin as the party settles in for the night outside Lastlight Falls, after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm]] carried for many months. 
+We begin as the party settles in for the night outside [[Lastlight Falls]], after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm]] carried for many months. 
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [[Dunmar]], now sprung to life with the monsoon rains.
 
@@ -74,7 +74,7 @@ Half way through the journey, the party arrives south of [[Raven's Hold]], and s
 
 The next day, the [[Bahrazel]] answer [[Riswynn]]'s prayers. In her morning prayers, she is briefly transported, seeing a vision of [[Havdar]] in camp, waking and immediately reaching for his sword, when his hands are grasped by those of an old [[Dwarves|dwarf]], and a voice in Dwarven echos, saying, "No. You are free," as the sword turns to a snake and begins to slither away, before shattering to dust. Scrying over the course of the day reveals [[Havdar]] unsettled and deep in thought, and then blaming [[Chardon]] for the curse, advocating for immediate war. This prompts the party to reach out via Sending, apologizing for the party's mistake in gifting him the sword, saying they had no knowledge of its curse, to which [[Havdar]] can only reply: "Shit. Really?" The [[Bahrazel]] also, during the course of the journey, answer some of the parties questions. 
 
-A week after leaving the camp at Lastlight Falls, the party arrives outside the [[Stormcaller Tower]], where [[Hralgar]]'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
+A week after leaving the camp at [[Lastlight Falls]], the party arrives outside the [[Stormcaller Tower]], where [[Hralgar]]'s storm has grown in strength and size, now stretching several miles across the plains. The rain has turned the ground to mud and water pools everywhere. 
 
 ![[hralgar-storm-nov-1748.png]]
 

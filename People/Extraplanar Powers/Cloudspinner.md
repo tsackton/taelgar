@@ -35,6 +35,6 @@ Her memories opened [[Session 67 (DuFr)]]:
 
 *So she watches, and she waits, and she hopes, for the day when she will be free, and when [[Amberglow]] will once again be a realm of beauty and wonder. Until then, she will continue to fight, and to dream, and to hold onto the memory of what once was, and what could be again.
 
-*And our story fades from the Cloudspinner, and turns now to the travelers at Lastlight Falls, who may yet have a small role to play in the story of [[Amberglow]].
+*And our story fades from the Cloudspinner, and turns now to the travelers at [[Lastlight Falls]], who may yet have a small role to play in the story of [[Amberglow]].
 
 %%^End%%

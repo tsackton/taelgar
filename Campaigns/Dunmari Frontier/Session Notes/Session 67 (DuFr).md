@@ -12,9 +12,9 @@ players: [Seeker, Caulaus, Kenzo, Wellby]
 
 - (DR:: 1748-11-13), on the material plane; **Evening, in the feywild**: Raven and Spirala depart to return to [[Shimmersong]]. Seeker is reunited with Wellby and Kenzo, who are introduced to Caulaus. 
 - (DR:: 1748-11-14)on the material plane; **Evening in the Feywild**: The group leaves for Heartwood Grove to restore Typhinia. Encounter harpies, and meet a water nymph. At the Heartwood Grove, Seeker restores Typhinia, only to find that she is actually [[Agata]] Dustmother in disguise. Defeat [[Agata]]; imprison her in the Heartwood Grove. Caulaus volunteers to stay as a guardian until he can make amends to the [[Cloudspinner]]. 
-- (DR:: 1748-11-15), sunset: Exit the Feywild at Lastlight Falls; see Delwath and Riswynn.
+- (DR:: 1748-11-15), sunset: Exit the Feywild at [[Lastlight Falls]]; see Delwath and Riswynn.
 
-Our session begins at Lastlight Falls in the fey realm of [[Amberglow]], where [[Seeker]] has come with the aid of [[Caulaus]], [[Raven]], and [[Spirala]], though [[Raven]] and [[Spirala]] have returned to [[Shimmersong]].  [[Kenzo]] is waiting, and [[Wellby]] arrives shortly afterward. Lastlight Falls is a place close to the [[Cloudspinner]]'s attention, and the session begins with her [[Cloudspinner#^97cec2|memories]]. 
+Our session begins at [[Lastlight Falls]] in the fey realm of [[Amberglow]], where [[Seeker]] has come with the aid of [[Caulaus]], [[Raven]], and [[Spirala]], though [[Raven]] and [[Spirala]] have returned to [[Shimmersong]].  [[Kenzo]] is waiting, and [[Wellby]] arrives shortly afterward. [[Lastlight Falls]] is a place close to the [[Cloudspinner]]'s attention, and the session begins with her [[Cloudspinner#^97cec2|memories]]. 
 
 ![[amberglow-lastlight-falls.png|600]]
 
@@ -42,7 +42,7 @@ The party arrives in the grove, seeing the massive tree before them, and [[Seeke
 
 [[Kenzo]] speaks with the elder tree of the grove, asking what is to be done. The grove asks for a new guardian, and [[Caulaus]] agrees to take on the role, until the [[Cloudspinner]] returns and he can make amends for the wrongs he cannot remember. And so [[Agata]] is imprisoned in a tree, a fate she imposed on so many, and the party listens to [[Caulaus]]' story before they leave, which [[Kenzo]] [[Caulaus' Story|records]].
 
-We end the session as the party returns to Lastlight Falls and exits the [[Feywild]] at sunset, to see [[Delwath]] camped, waiting for them on the other side. 
+We end the session as the party returns to [[Lastlight Falls]] and exits the [[Feywild]] at sunset, to see [[Delwath]] camped, waiting for them on the other side. 
 
 
 
