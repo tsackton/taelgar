@@ -1,23 +1,59 @@
 ---
 tags: [session-note]
-name: "Dunmari Frontier - Kenzo Solo Session 3"
+name: Dunmari Frontier - Kenzo Solo Session 3
 campaign: Dunmari Frontier
 sessionNumber: 64
 realWorldDate: 2022-11-09
 DR: 1748-11-06
 DR_end: 1748-11-13
 players: [Kenzo, Izzarak]
-companions: [Enari] 
+companions: [Enari]
+tagline: in which Kenzo frees the jungle guardian
+descTitle: Healing Motua
 ---
+# Dunmari Frontier - Kenzo Solo Session 3
 
-## Timeline
+>[!info] Healing Motua: in which Kenzo frees the jungle guardian
+> *Featuring: [[Kenzo]], [[Izzarak]]*
+> *In Taelgar: Nov 06, 1748 DR to Nov 13, 1748 DR*
+> *On Earth: Wednesday Nov 09, 2022*
+> *Azta Lekua, Footprint of the Gods*
 
+Kenzo aids in healing Motua, freeing the jungle's spirit guardian and restoring harmony.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Healing Motua",
+  "tagline": "in which Kenzo frees a guardian spirit",
+  "summary": [
+    "The party crosses a lava river and ventures into a flooded jungle.",
+    "Kenzo communes with an ancient tree and learns of Motua's corruption by a creature.",
+    "They meet Eleuha, a dryad, who reveals Motua's wounds and the importance of Lengau's children.",
+    "Kenzo heals Motua's spiritual wounds, freeing the spirit from necrotic chains.",
+    "Lengau, the jaguar spirit, thanks the party and plans to restore the jungle with Motua and Izzarak."
+  ],
+  "short_summary": "Kenzo aids the spirit guardian Motua by healing its spiritual wounds and encounters Lengau, the jungle's guardian, who plans to rejuvenate the jungle.",
+  "location": "Azta Lekua, Footprint of the Gods"
+}
+```
+%%
+## Session Info
+### Summary
+- Kenzo crosses a lava river and communes with an ancient tree to learn about the jungle's afflictions.
+- The party discovers the troubles stem from Motua's ailment, linked to the spirit guardian Lengau's silence.
+- Kenzo heals Motua by entering their spiritual wounds and addressing the sorrows of trapped souls within.
+- Victory over the wounds releases Motua from necrotic chains, and Lengau returns to restore the jungle.
+- Izzarak chooses to stay in the jungle, and Kenzo departs to the Feywild to reunite with friends.
+
+### Timeline
 - (DR:: 1748-11-06): Speak with [[Somi-nai]]. Cross the lava river, and proceed to the flooded jungle. Commune with an ancient tree; find the dryad [[Eleuha]]; avoid a maelstrom whirlpool dragging everything it touches into an endless watery void; confront [[Motua]] and heal their wounds, freeing them of the bindings that weakened and sickened them; meet [[Lengau]], the jaguar spirit guardian of the jungle.
 - (DR:: 1748-11-07) - (DR_end:: 1748-11-12):  Spend time in the jungle with [[Motua]] and [[Lengau]]
 - (DR:: 1748-11-13):  [[Izzarak]] decides to remain and care for the babies, whatever they will become; [[Kenzo]] plane-shifted to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]], to [[Lastlight Falls]], by the magic of [[Lengau]]
 
-## Narrative
 
+## Narrative
 We begin at the edge of a river of lava in the jungle, the party considering how to cross. [[Kenzo]] easily jumps the distance, while [[Izzarak]] polymorphs into a pterodactyl to fly across with [[Enari]]. Proceeding into the jungle from the other side after a brief rest, [[Kenzo]], [[Enari]], and [[Izzarak]] find themselves heading towards a large expanse of flooded jungle. 
 
 Venturing into the flooded area, with the two lizardfolk swimming comfortably and [[Kenzo]] running across the water, [[Kenzo]] looks for a tree to speak with, to understand more about what is happening here. Communing with one of the biggest and older trees he can find, [[Kenzo]] speaks with Tree. Tree complains that everything has fled the jungle, the birds no longer sing in his hair and his roots are wet, and it is caused by [[Motua]]. Tree then tells [[Kenzo]], who is hoping for more information about [[Motua]] and the jungle, to speak with his children, specifically his daughter-tree who is inhabited by a spirit of the jungle. [[Kenzo]] listens to [[Tree’s story]], collecting it for the [[Order of the Awakened Soul]], and then reverently ends his communion with Tree. 
@@ -55,11 +91,3 @@ As [[Kenzo]] emerges again, battling the last of these necrotic chains with [[Iz
 Meanwhile, the party hears the low growl of a jaguar pacing through the jungle – [[Lengau]]. He approaches, greeting the babies, thanking [[Izzarak]] for keeping open the door through which [[Lengau]] could travel, clearly implying that it was only the presence of the babies [[Izzarak]] guarded and guided to this place that allows [[Lengau]] to appear here. [[Lengau]] says he will restore the jungle, with [[Motua]]’s help; [[Izzarak]] also volunteers to remain and raise the babies here, and see how he can help bring the jungle back into balance. 
 
 We end as [[Kenzo]] prepares to depart to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]], after spending some time learning from [[Motua]] and [[Lengau]], to be plane-shifted to [[Lastlight Falls]], where he will meet his friends in the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]].
-
-
-
-
-
-
-
-

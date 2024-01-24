@@ -7,16 +7,55 @@ DR: 1748-05-27
 DR_end: 1748-05-29
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 companions: [Cintra]
+tagline: in which the party defeats Agata and Samerki
+descTitle: Canyon Ambush
+name: Dunmari Frontier - Session 28
 ---
-## Timeline
+# Dunmari Frontier - Session 28
 
+>[!info] Canyon Ambush: in which the party defeats Agata and Samerki
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Drikod]]*
+> *In Taelgar: May 27, 1748 DR to May 29, 1748 DR*
+> *On Earth: Monday Jul 19, 2021*
+> *Shakun’s Wellspring*
+
+The Dunmar Fellowship successfully ambushes and defeats Agata Dustmother and her servant Samerki by setting a trap at Shakun’s Wellspring.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "The Wellspring Trap",
+  "tagline": "in which a cunning ambush secures a hard-fought victory",
+  "summary": [
+    "The Dunmar Fellowship remains hidden as Samerki, a servant of Agata Dustmother, patrols the area.",
+    "Cintra uses the Heart of Shakun to create an expansive illusion, hiding the party further.",
+    "Cintra reveals her backstory with Agata, who charmed her and kidnapped her daughter, Jumi, for her powers.",
+    "Agata seeks a Cloak of Rainbows, an artifact to silence the gods and exploit Jumi's powers.",
+    "The party sets a trap for Agata, using Jumi as bait, and successfully engages them in combat.",
+    "After a tough fight, the Fellowship defeats Agata and Samerki with a combination of strategy and combat prowess."
+  ],
+  "short_summary": "The Dunmar Fellowship outwits and defeats Agata Dustmother and her servant Samerki in a strategic battle at Shakun's Wellspring.",
+  "location": "Shakun's Wellspring"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship remains hidden, wary of Samerki's deceptive disappearance.
+- Cintra uses the Heart of Shakun to create a vast illusion, concealing the party.
+- Cintra reveals her past with Agata and the significance of her daughter Jumi in Agata's schemes.
+- The group learns about a powerful artifact, the Cloak of Rainbows, that Agata seeks.
+- The party sets a trap for Agata, leading to a fierce battle where Agata and Samerki are defeated.
+
+### Timeline
 - (DR:: 1748-05-27), evening: Finally safely reach the canyon floor, with the aid of Cintra's magic and the power of the [[Heart of Shakun]]. Speak with Cintra. Make plans.
 - (DR:: 1748-05-28): Hide in [[Shakun’s Wellspring]]. Cintra tells Samerki that [[Agata]] must bring Jumi here.
 - (DR:: 1748-05-29): Hide in [[Shakun's Realm]], entered via [[Shakun’s Wellspring]]. 
 - (DR:: 1748-05-29), dusk: Emerge from [[Shakun's Realm]], alerted by Jumi. Fight and kill [[Agata]] Dustmother and Samerki. 
 
-## Narrative
 
+## Narrative
 The session begins with the party still scattered across various hiding places, as the vaguely human creature known as [[Samerki]] seemingly disappears. However, [[Cintra]] warns the party to stay put, as this creature has, in the past, disappeared for some time to lull interlopers into complacency and then descended again with a blast of cold to freeze and kill them. Sure enough, after some time passes the creature returns, invisible, chasing [[Delwath]]’s shadow and seemingly not noticing anyone else. After a blast of cold air damages but does not kill the shadow, [[Samerki]] grapples it, and flies above the canyon floor to drop it to its death, and then continues to circle, invisible but audible to [[Wellby]]’s sharp ears. As he circles, he taunts [[Cintra]], and makes it clear that he is a servant of [[Agata]] Dustmother.
 
 While [[Drikod]] remains hidden in stone, and [[Wellby]] and [[Delwath]] plot a way to get across the 15 feet of bare rock to the canyon edge, [[Kenzo]] and [[Seeker]] watch as [[Shakun’s Wellspring]] fills with water, and [[Cintra]] retrieves the Heart of [[Shakun]] from its resting place within. Using the Heart, she begins to spin a web of illusion that expands to fill the canyon, creating an impenetrable mess of jumbled rocks and tangled rubble. [[Kenzo]], drawn in by [[Heart of Shakun]], lets it reach out and connect with him, and the added energy of his will contributing to [[Cintra]]’s allows the illusion to expand to encompass [[Wellby]] and [[Delwath]] hiding at the canyon’s edge. 

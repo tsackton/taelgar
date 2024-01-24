@@ -6,9 +6,48 @@ realWorldDate: 2022-03-03
 DR: 1748-07-06
 DR_end: 1748-07-13
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+tagline: in which the party engages in diplomacy and research
+descTitle: Monsoon's Arrival
+name: Dunmari Frontier - Session 41
 ---
+# Dunmari Frontier - Session 41
 
-## Timeline
+>[!info] Monsoon's Arrival: in which the party engages in diplomacy and research
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Jul 06, 1748 DR to Jul 13, 1748 DR*
+> *On Earth: Thursday Mar 03, 2022*
+> *Tokra*
+
+The Dunmar Fellowship returns to Tokra, assists in archiving lore, and prepares to escort Johar amidst the onset of the monsoon season.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Scrolls and Summons",
+  "tagline": "in which the Fellowship returns to Tokra and plans ahead",
+  "summary": [
+    "Kenzo receives 10 scrolls from Saka for the Hall of Stories and reminders of his duties.",
+    "The party arrives in Tokra and receives various messages including one from Govir.",
+    "They learn from Govir about the Fraternity of the Empty Moon's rituals and plans.",
+    "Govir receives support to reorganize the Archives with Ardan's funding.",
+    "Kaleha decides to execute the captured werewolf, after confirming with the party.",
+    "The party prepares to leave for Darba, tasked with escorting Johar on Speaker Lara's request."
+  ],
+  "short_summary": "The Dunmar Fellowship returns to Tokra, gathers intelligence, and agrees to escort Johar to Darba.",
+  "location": "Tokra"
+}
+```
+%%
+## Session Info
+### Summary
+- Kenzo receives 10 scrolls from Saka to collect Dunmari stories for the Hall of Stories.
+- The party returns to Tokra, receives messages, and reunites with allies.
+- Delwath reassures Fallthra Hardstone about Dag's dreams; Govir shares findings on the Fraternity of the Empty Moon.
+- Govir gains support from Ardan to reorganize the Archives with additional resources.
+- Kaleha plans to execute the captured werewolf; the party prepares to escort Johar to Darba.
+
+### Timeline
  - (DR:: 1748-07-06), early afternoon: Leave Saka's camp. Kenzo gifted scrolls for collecting stories, and Saka urges him to take his duties as a mystai of Bhishma seriously. Travel south to Tokra. 
 - (DR:: 1748-07-07): Travel south to Tokra.
 - (DR:: 1748-07-08): Travel south to Tokra.
@@ -18,11 +57,13 @@ players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 - (DR:: 1748-07-11): Speak with Kassi about Rai, dead gods, and [[Yezali]]. Rest at monastery.
 - (DR:: 1748-07-12): Rest at monastery.
 - (DR:: 1748-07-13): Speaker Lara returns. Discuss situation in Dunmar and Sura. Agree to escort Johar to Darba. 
+
 ### Notes
 - [[Research from Kassi]]
 
-## Narrative
 
+
+## Narrative
 We begin as the party finishes their conversation with [[Saka]], and prepares to return to [[Tokra]] after sharing a meal with [[Saka]] and her family. As they depart, [[Saka]] pulls [[Kenzo]] aside, reminding him not to neglect his duties as a Mystai of [[Bhishma]]. She gives him 10 scrolls that can be used to collect the stories of the people of [[Dunmar]], to be stored in the [[Hall of Stories]] at some point in the future. 
 
 The next two days are spent in uneventful travel south back to [[Tokra]], in the hot, dry, weather, arriving the evening of July 8th, and returning to [[Kirian’s]], where they had been staying. Here, they are given messages from [[Govir]] at the [[Archives]], from [[Fallthra Hardstone]], from [[Kassi]] at the [[Lakan Monastery]], from [[Kaleha]], and from [[Riswynn]]. After meeting up with [[Riswynn]] again, the party returns to [[Kirian’s]] for dinner, as clouds form in the sky for the first time in months. After some discussion of what to do with the captured werewolf, [[Kenzo]] listens to [[Kirian]]’s [[Kirian's Story|story]].

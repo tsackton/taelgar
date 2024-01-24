@@ -6,13 +6,13 @@ realWorldDate: 2020-09-18
 DR: 1748-04-12
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-tagline: in which the party uncovers ancient relics
+tagline: in which Riswynn recovers her family's heirloom
 descTitle: Dwarven Vault
 name: Dunmari Frontier - Session 9
 ---
 # Dunmari Frontier - Session 9
 
->[!info] Dwarven Vault: in which the party uncovers ancient secrets
+>[!info] Dwarven Vault: in which Riswynn recovers her family's heirloom
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Apr 12, 1748 DR*
 > *On Earth: Friday Sep 18, 2020*

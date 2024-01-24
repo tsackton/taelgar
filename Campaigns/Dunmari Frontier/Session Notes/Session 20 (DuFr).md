@@ -6,10 +6,46 @@ realWorldDate: 2021-02-27
 DR: 1748-05-02
 DR_end: 1748-05-05
 players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which Delwath's past and armor are revealed
+descTitle: Desert Shadows
+name: Dunmari Frontier - Session 20
 ---
+# Dunmari Frontier - Session 20
 
-## Timeline 
+>[!info] Desert Shadows: in which Delwath's past and armor are revealed
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: May 02, 1748 DR to May 05, 1748 DR*
+> *On Earth: Saturday Feb 27, 2021*
+> *Pava and Avaras' House, desert near Havdar's camp*
 
+The Dunmar Fellowship uncovers Delwath's mysterious past before aiding in an orc battle at Havdar's camp.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Desert Secrets",
+  "tagline": "in which the Dunmar Fellowship learns of past tragedies",
+  "summary": [
+    "Delwath reunites with Pava and Avaras who saved him in the desert; they share stories of the Order of the Awakened Soul.",
+    "The party learns of the Order's failed attempt 30 years ago to cleanse the Plaguelands and the loss of the Monastery of Bhishma.",
+    "Recent changes in the desert are discussed; orcs fighting a civil war, and evil presences around Kharsan worsening.",
+    "After training with Pava, the Fellowship heads to Havdar's camp, only to encounter and overcome a large band of orcs."
+  ],
+  "short_summary": "The Dunmar Fellowship uncovers past failures of the Order of the Awakened Soul and aids in a battle against orcs at Havdar's camp.",
+  "location": "Pava and Avaras' House and Havdar's camp in the desert"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship arrives at Pava and Avaras' desert home, learning of Delwath's past and the monks' history.
+- Delwath's elven shadow armor, which harbors darkness, is returned to him and accepted as not evil.
+- Pava and Avaras share the history of the failed cleansing of the Plaguelands, and the rising dangers in the desert.
+- The party trains with Pava and then departs for Havdar's camp, navigating the desert terrain.
+- Upon nearing Havdar's camp, the Fellowship aids in repelling an orc attack, capturing one survivor.
+
+### Timeline
 - (DR:: 1748-05-02), afternoon: Speak with Pava and Avaras about Delwath, Bhishma, the Order of the Awakened Soul, and the Monastery of Bhishma near Kharsan. Delwath's [[Elven Shadow Breastplate|old armor]] is returned. Learn about attempt by Order some 30 years ago to heal the [[Plaguelands]], which failed badly, and none of the masters of the order return from the east. Learn of Saka, a master that did not travel east, now rumored to live north of Tokra.
 - (DR:: 1748-05-02), evening: Have dinner with Avaras, Pava, and Amil. Spend the night at [[Pava and Avaras' House]].
 - (DR:: 1748-05-03), morning: Train with Avaras and Pava. 
@@ -17,8 +53,8 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 - (DR:: 1748-05-04): Travel across the [[Nashtkar]] towards Havdar's camp
 - (DR:: 1748-05-05), early evening: Arrive at Havdar's camp. Help fight off orc attack. 
 
-## Narrative 
 
+## Narrative
 We begin at the entrance to [[Pava and Avaras' House]] in the desert, with these two old monks greeting the party, and [[Delwath]] especially with recognition and a note of caution. They welcome the group into their home, and over cool mint tea tell the story of how they found [[Delwath]], wandering, delirious in the desert, dying of thirst, perhaps 30 miles east of their home. He was muttering in a language they did not know, and looked wild, but not willing to leave him to die they brought him to their home. 
 
 Over the course of the afternoon and early evening, while their student [[Amil]] brings tea, [[Pava]] and [[Avaras]] tell their story, and listen to the party. They have lived here for nearly 30 years, and were wanderers for some time before that, and once the desert was, if not exactly safe, much more empty than it is now. They tell of [[Bhishma]], the founder and first Samraat ruler of the Dunmari, whose prayers brought [[Jeevali]] back to life (the event celebrated by the [[Festival of Rebirth]]). Their order is dedicated to her -- she is now deified, as a demigod in the pantheon of the Dunmari -- and has a mission to care for the lost dead and tell the stories of the people of [[Dunmar]]. But they are cautious and not very forthcoming, and ask to hear the party’s story.

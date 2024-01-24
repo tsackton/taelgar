@@ -6,11 +6,47 @@ realWorldDate: 2021-05-06
 DR: 1748-05-11
 DR_end: 1748-05-13
 players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which the party faces undead shadows and orcs
+descTitle: Shadowed Retreat
+name: Dunmari Frontier - Session 24
 ---
+# Dunmari Frontier - Session 24
 
+>[!info] Shadowed Retreat: in which the party faces undead shadows and orcs
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: May 11, 1748 DR to May 13, 1748 DR*
+> *On Earth: Thursday May 06, 2021*
+> *Temple of Bhishma and Kharsan*
 
-## Timeline
+The Dunmar Fellowship explores a desecrated temple, evades revived orc enemies, and scouts the ruins of Kharsan.
 
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Temple Shadows and Orc Pursuit",
+  "tagline": "in which the Dunmar Fellowship faces undead shadows and orcish tactics",
+  "summary": [
+    "The Dunmar Fellowship explores the desecrated Temple of Bhishma, encountering shadows.",
+    "They retreat to camp after sensing more undead and leave at night when an orc prisoner escapes.",
+    "The party decides to ride south, then cut west and north to elude the orcs.",
+    "They reach the Samraat Tombs and scout Kharsan's ruins and palace invisibly.",
+    "Delwath scouts the ruined city and the party prepares to leave the desert."
+  ],
+  "short_summary": "The Dunmar Fellowship encounters undead shadows in the Temple of Bhishma and outmaneuvers orc pursuers while scouting the ruins of Kharsan.",
+  "location": "Temple of Bhishma, Kharsan"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship investigates the Temple of Bhishma, encountering desecration and sensing undead.
+- The party encounters shadowy figures in the temple and retreats to camp as night falls.
+- Orc prisoners and bodies previously thought dead have revived and escaped, disrupting the Fellowship's plans.
+- The group decides to head south, then circle back to Kharsan via rocky terrain, evading orc pursuers.
+- Delwath scouts the ruins of Kharsan while Seeker uses clairvoyance to spy on Grash in the palace.
+
+### Timeline
 - (DR:: 1748-05-11), evening: Depart [[Hall of Stories]], explore the Temple of Bhishma. Find shadows lurking, and retreat to camp for the evening.
 - (DR:: 1748-05-12), morning: Awake to realization that the [[Orcs|orcs]] killed and imprisoned the day before have revived and escaped, bringing news to Grash. 
 - (DR:: 1748-05-12), mid-morning: Flee south, hoping confuse anyone tracking them in the desert.
@@ -18,8 +54,8 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 - (DR:: 1748-05-13), morning: Depart camp heading north and east, back towards Kharsan.
 - (DR:: 1748-05-13), late morning: Arrive at road and canyon of the Samraat Tombs. Hide horses and gear. Delwath scouts Kharsan while invisible; Seeker spies with clairvoyance on Grash.
 
-## Narrative
 
+## Narrative
 We begin as the party leaves the tower attached to the [[Hall of Stories]] in the evening, as the long shadows begin to stretch across the desert, heading to investigate the Temple of [[Bhishma]] at the [[Monastery of Bhishma|monastery]]. As they approach, [[Delwath]] sees a warning that no one else can sense, but despite the warning the party cautiously enters the temple. 
 
 The entry chapel, dedicated to [[Five Siblings]], has been desecrated and looted, with little left to see or find. Uncertain of the situation, [[Kenzo]] reaches out his senses to detect the presence of good or evil, and notes that something undead is lurking about 20 feet below this room, but nothing ahead or in the side rooms. Continuing on to the main temple, the party finds it more intact, the high windows, now devoid of glass, letting in the evening sun and illuminating a large statue of [[Bhishma]], standing with her hands palm up in supplication. [[Kenzo]] senses more undead in a hallway to the left, and he and [[Delwath]] go to investigate, carefully. Catching only the barest flicker of shadowy movement as a patch of darker shadow detaches itself from the wall, [[Kenzo]] and [[Delwath]] proceed with extreme caution, and eventually illuminate the hallway with [[Kenzo]]’s [[Driftglobe]], revealing three humanoid-looking shadows that retreat from the light. Deciding to retreat in the face of the coming night, the party leaves the temple and the shadows, and heads past the dead [[Orcs|orc]] bodies back to camp.

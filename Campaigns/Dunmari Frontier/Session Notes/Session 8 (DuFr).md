@@ -6,13 +6,13 @@ realWorldDate: 2020-09-03
 DR: 1748-04-12
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-tagline: in which the party discovers a hidden entrance and faces a cavern creature
+tagline: in which the party discovers a hidden entrance and faces a roper
 descTitle: Under the Mountains
 name: Dunmari Frontier - Session 8
 ---
 # Dunmari Frontier - Session 8
 
->[!info] Under the Mountains: in which the party discovers a hidden entrance and faces a cavern creature
+>[!info] Under the Mountains: in which the party discovers a hidden entrance and faces a roper
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Apr 12, 1748 DR*
 > *On Earth: Thursday Sep 03, 2020*

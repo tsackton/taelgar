@@ -1,20 +1,56 @@
 ---
 tags: [session-note]
-name: "Dunmari Frontier - Seeker Solo Session 3"
+name: Dunmari Frontier - Seeker Solo Session 3
 campaign: Dunmari Frontier
 sessionNumber: 65
 realWorldDate: 2022-11-12
 DR: 1748-10-13
 DR_end: 1748-11-13
 players: [Seeker, Raven, Spirala, Caulaus]
+tagline: in which Seeker trades color for guidance
+descTitle: The Sunset Thread
 ---
-## Timeline
+# Dunmari Frontier - Seeker Solo Session 3
 
+>[!info] The Sunset Thread: in which Seeker trades color for guidance
+> *Featuring: [[Seeker]], [[Raven]], [[Spirala]], [[Caulaus]]*
+> *In Taelgar: Oct 13, 1748 DR to Nov 13, 1748 DR*
+> *On Earth: Saturday Nov 12, 2022*
+> *Shimmersong and Amberglow*
+
+Seeker crafts a magical glove, defeats a cursed giant, and trades with Lady Eventide for passage to Lastlight Falls.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Crossing Amberglow",
+  "tagline": "in which Seeker braves the fading fey realm",
+  "summary": [
+    "Seeker crafts a magical glove in Shimmersong for spell manipulation.",
+    "Guided by Caulaus, Seeker's party enters Amberglow and fights the cursed giant, Vondar One-Eye, avoiding his memory-stealing toll.",
+    "After defeating Vondar, Seeker narrowly escapes a cauldron of memories and the party wisely retreats.",
+    "Lady Eventide of the Cloudspinner's court exchanges a sunset thread for a streak of Seeker's hair color.",
+    "Raven departs, leaving Seeker, Spirala, and Caulaus to approach Lastlight Falls, where Kenzo awaits."
+  ],
+  "short_summary": "Seeker's journey through Amberglow leads to magical trades and a confrontation with a cursed giant, culminating at Lastlight Falls.",
+  "location": "Amberglow"
+}
+```
+%%
+## Session Info
+### Summary
+- Seeker constructs a magical glove in Shimmersong and seeks the fey crossing at Lastlight Falls.
+- In Amberglow, the party hires Caulaus to guide them and defeats the memory-demanding giant, Vondar One-Eye.
+- Seeker bargains with Lady Eventide, trading a streak of his hair's color for a Sunset Thread to aid in crossing Lastlight Falls.
+- The party safely navigates past treacherous shadows to reach Lastlight Falls, where they find Kenzo waiting.
+
+### Timeline
 - **Later afternoon, in the feywild**: [[Seeker]], [[Raven]], and [[Spirala]] travel to [[Shimmersong]] and the Summer Court of the [[Lightdancer]]. [[Seeker]] spends time in [[Shimmersong]] learning about the shards of crystalized magic gifted by [[Illaran]], and crafting a [[Glove of Crystalized Magic|magic glove]] to manipulate magic. 
 - **Evening, in the feywild**: [[Seeker]], [[Raven]], and [[Spirala]] meet [[Caulaus]], a strange human who can guide them to [[Lastlight Falls]]. They enter the fallen fey realm of [[Amberglow]]; fight a cursed giant who takes memories as a toll for passage; meet [[Lady Eventide]] who takes color from [[Seeker]]’s hair; make their way past the haunted shadows of [[Amberglow]] to [[Lastlight Falls]].
 
-## Narrative
 
+## Narrative
 We begin in the fey realm of [[Shimmersong]], where [[Raven]] and [[Spirala]] have brought [[Seeker]], in order for rest and also learn more about the fey crossing he is searching for. After spending some time in [[Shimmersong]], during which [[Seeker]] explored and spent time constructing a magical glove with the shards of crystalized magic to let him manipulate spells, the party has left for [[Amberglow]], where [[Lastlight Falls]] – the fey crossing [[Seeker]] is searching for – is located.
 
 [[Amberglow]] is a decaying realm, in disrepair since the Queen of Sunsets, the archfey of [[Amberglow]], vanished many years ago. To travel there needs a guide, and [[Raven]] knows one: the strange human warrior [[Caulaus]] Aportino. 

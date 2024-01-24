@@ -6,15 +6,54 @@ realWorldDate: 2022-02-06
 DR: 1748-07-03
 DR_end: 1748-07-03
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+tagline: in which the party battles werewolves and uncovers plots
+descTitle: Werewolf Confrontation
+name: Dunmari Frontier - Session 39
 ---
+# Dunmari Frontier - Session 39
 
-## Timeline
+>[!info] Werewolf Confrontation: in which the party battles werewolves and uncovers plots
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Jul 03, 1748 DR*
+> *On Earth: Sunday Feb 06, 2022*
+> *Drankorian fort ruins near Pandemonium rift, then Tokra*
 
+The Dunmar Fellowship battles werewolves at a fort ruin, uncovers cult plots, and captures prisoners for interrogation before splitting up.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Werewolf Showdown",
+  "tagline": "in which the Dunmar Fellowship confronts werewolves",
+  "summary": [
+    "The Fellowship finds no new werewolf tracks and investigates the Drankorian fort ruins.",
+    "They discover and engage in combat with three werewolves; one commits suicide, summoning a monstrous entity.",
+    "After a disorienting battle, they defeat the creatures and rescue Riswynn from a mist-induced daze.",
+    "They interrogate the werewolf captives, learning more about the Fraternity of the Empty Moon and their plans.",
+    "The party returns to Tokra with prisoners and prepares to head north in pursuit of Saka."
+  ],
+  "short_summary": "The Dunmar Fellowship battles werewolves at the Drankorian fort ruins, unearths cult secrets, and takes prisoners back to Tokra.",
+  "location": "Drankorian fort ruins and Tokra"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship investigates the werewolf lair and decides to check the Drankorian fort ruins.
+- They use clairvoyance to spy on three people at the ruins; two guards and a muttering man tied to a post.
+- They approach stealthily but are noticed, leading to a battle with the werewolves.
+- One werewolf commits suicide, summoning a monstrous entity that fights with confusion and whispers.
+- After defeating the threats, they interrogate the captives, learning about the cult's plans and alliances.
+- The party returns to Tokra with the prisoners, splitting up as some head north in search of Saka.
+
+### Timeline
 - (DR:: 1748-07-03), dawn: Search for remaining signs of werewolves, returning to the werewolf lair. Follow secret tunnel back to the ruined Drankorian fort. 
 - (DR:: 1748-07-03), morning: Use clairvoyance, and scout area, spotting several guards. Stealthy approach is foiled by unstealthy dwarves. Fight werewolves, forcing two to surrender; suicide of third werewolf summons a cursed avatar of some kind from Pandemonium. Kill it. Interrogate captives. 
 - (DR:: 1748-07-03), late morning: Return with the captives to Tokra. Leave captives with Riswynn; Kenzo, Seeker, Delwath, and Wellby gather gear for the journey north to find Saka. 
-## Narrative
 
+
+## Narrative
 We begin as the party wakes in the pre-dawn light to search for signs of werewolves. Heading back to the lair of the [[Fraternity of the Empty Moon]], the guards there report no disturbances. While all seems quiet, the party decides to exit through the secret tunnel, and perhaps investigate the ruins of the Drankorian fort near the weak point to [[Pandemonium]] on their way north. 
 
 Traveling a few hours from the tunnel exit, with no sign of fresh tracks, they stop to magically spy on the ruins with clairvoyance before approaching any closer than a half-mile vantage point. With [[Seeker]]’s magical eye, the party sees the interior of the one occupied tower, partially ruined but with intact walls, for the most part. There are three people camped here: one is sleeping on a straw mat, one is keeping watch, and one, in ragged clothes and tied to a post with a long rope, is muttering inanities to himself. 

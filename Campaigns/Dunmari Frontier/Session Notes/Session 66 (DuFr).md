@@ -1,24 +1,64 @@
 ---
 tags: [session-note]
-name: "Dunmari Frontier - Wellby Solo Session 3"
+name: Dunmari Frontier - Wellby Solo Session 3
 campaign: Dunmari Frontier
 sessionNumber: 66
 realWorldDate: 2022-11-19
 DR: 1748-10-14
 DR_end: 1748-11-13
 players: [Wellby, Alimash, Shoal]
+tagline: in which Wellby aids in rescuing Arryn
+descTitle: Mirror Realm Rescue
 ---
+# Dunmari Frontier - Wellby Solo Session 3
 
-## Timeline
+>[!info] Mirror Realm Rescue: in which Wellby aids in rescuing Arryn
+> *Featuring: [[Wellby]], [[Alimash]], [[Shoal]]*
+> *In Taelgar: Oct 14, 1748 DR to Nov 13, 1748 DR*
+> *On Earth: Saturday Nov 19, 2022*
+> *Arryn's Tower*
 
+Wellby and new allies defeat mirror entities and rescue wizard Arryn, who assists Wellby in journeying to the Feywild.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Reflections of Danger",
+  "tagline": "in which Wellby faces the Mirror Realm",
+  "summary": [
+    "The party recovers from the aboleth's defeat, with Artem claiming a remorhaz heart for his freedom.",
+    "Kenku prisoners inform Wellby about a wizard named Arryn who can help him reach the Feywild.",
+    "Arryn's apprentice, Ressena, reports that Arryn is missing, last seen entrapped in reflections.",
+    "Wellby's party cures the aboleth's prisoners and heads to Arryn's Tower, encountering islands with peculiar phenomena.",
+    "Upon arrival, they battle animated mirror shards and meet Arryn's steward, learning Arryn is trapped in the Mirror Realm.",
+    "The party formulates a plan to enter the Mirror Realm, leading to a confrontation with their mirror duplicates.",
+    "Real Arryn is rescued by identifying and destroying his mirror duplicate, closing the portal to the Mirror Realm.",
+    "Arryn thanks the party with gifts and planes shifts Wellby to Lastlight Falls for the Feywild journey."
+  ],
+  "short_summary": "Wellby and his companions defeat mirror duplicates in Arryn's Tower and rescue the wizard, who helps Wellby towards the Feywild.",
+  "location": "Arryn's Tower"
+}
+```
+%%
+## Session Info
+### Summary
+- Wellby and companions recover from aboleth defeat, Artem retrieves remorhaz heart for escape.
+- Kenku prisoners inform Wellby of wizard Arryn, who could help reach the Feywild; his apprentice, Ressena, mentions Arryn's disappearance.
+- The adventurers cure aboleth's prisoners, repair Wellby's armor, and sail north to find Arryn.
+- Upon reaching Arryn's tower, they battle mirror shard swarms and rescue Arryn from the Mirror Realm by distinguishing and destroying his duplicate.
+- Arryn thanks the party, gifts them, and helps Wellby reach the Feywild.
+
+### Timeline
 - (DR:: 1748-10-14): Rescue prisoners from aboleth lair, leave for [[Wahacha]]
 - (DR:: 1748-10-15): Arrive back in [[Wahacha]]. Help freed victims get organized to travel to the sea [[Elves|elves]] until a cure can be found. Say farewell to [[Artem Novolozek|Artem]] who departs for [[Medju]]. 
 - (DR:: 1748-10-16) - (DR_end:: 1748-10-22): Organize a ship and supplies from [[Wahacha]], to sail north. 
 - (DR:: 1748-10-23): Say farewell to [[Rufus]]; depart with [[Alimash]] and [[Shoal]] for the tower of [[Arryn]] the Wanderer. 
 - (DR:: 1748-10-24) - (DR:: 1748-11-12): Sail north, passing many strange islands along the way. 
 - (DR:: 1748-11-13): Arrive [[Arryn]]'s tower. Fight mirror shards, meet [[Gyles]] the steward, discover that [[Arryn]] is trapped in the [[Mirror Realm]]. Free [[Arryn]]. Say goodbye to [[Shoal]], who heads south again to court his lady love, and [[Alimash]], who remains in [[Arryn]]’s service for the time being. [[Wellby]] is plane shifted to [[Lastlight Falls]], the fey crossing near [[Stormcaller Tower]] in the north of [[Dunmar]], by [[Arryn]]’s magic.
-## Narrative
 
+
+## Narrative
 We begin in the aboleth’s cave as [[Rufus]], [[Artem Novolozek|Artem]], [[Shoal]], [[Alimash]], and [[Wellby]] deal with the aftermath of that creature’s death, and the dazed confusion of the prisoners and slaves of the aboleth coming out of their charmed state. As others tend to the prisoners, [[Artem Novolozek|Artem]] immediately moves to recover the remorhaz heart, explaining that this rare treasure is his price for freedom. [[Artem Novolozek|Artem]] is fleeing from Ursk, a magocracy run by eight families of wizards, known as the rodnye; the exact reasons for his flight are unclear, but the party gathers he was unwilling to pay a price asked of him. The remorhaz heart is to be traded with a partron in [[Medju]] who has the means to ensure his safe escape from the scrying eyes of the rodnye of Ursk. As [[Artem Novolozek|Artem]] gathers his treasure, he also examines the massive amber prison for some creature that none wish to see freed, and suggests that perhaps this is best left alone and undisturbed.
 
 Meanwhile, the discussion turns to the prisoners. The two kenku – [[Nahto]] and [[Skoda]] – tell [[Wellby]] that the person he seeks is a wizard known as [[Arryn]] the Wanderer, originally from the western edge of [[Green Sea]], and quite interested in the nature of the multiverse. He would surely know how to send [[Wellby]] to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]]. Unfortunately, his apprentice, Ressena, the formerly enslaved mage, tells the party that [[Arryn]] is missing. He was experimenting with trying to reach the hypothesized [[Mirror Realm]], when [[Resenna]] heard a crash and a hand reached out of the reflective side of a silver water pitcher to try to grab her. She dodged and ran to investigate, but her master was nowhere to be seen, until she saw his reflection darting from shard to shard in the reflections of broken glass. When her reflection appeared and tried to grab her again, she fled, but was caught by the aboleth’s raiders on her way south to [[Medju]]. 
@@ -42,14 +82,3 @@ After some discussion of how to proceed, the party decides that [[Wellby]] will 
 The plan immediately faces complications, however, when [[Alimash]] speaks to an [[Arryn]] and realizes the wizard does not remember the real world and that magic does not work in the [[Mirror Realm]], while at the same time mirror-[[Alimash]] charges [[Wellby]] in a rage. As [[Wellby]] and [[Shoal]] battle mirror-[[Alimash]], real [[Alimash]] pushes the [[Arryn]] version away, after humming the Lost Lads of [[Tollen]] to him with no effect, and runs down two flights of stairs to talk to the other [[Arryn]], where the conversation repeats. [[Wellby]] and [[Shoal]] attempt to restrain mirror-[[Alimash]] to give real-[[Alimash]] time, while real-[[Alimash]] hums again to the other [[Arryn]], who recognizes the tune. [[Alimash]] immediately stabs the first [[Arryn]], who shatters into thousands of tiny silver shards as the real [[Arryn]] fades and begins to reappear in the real world. At that moment, [[Shoal]] strikes with all his power at the now-restrained mirror-[[Alimash]], who likewise shatters into thousands of pieces as the real [[Alimash]] emerges. 
 
 Quickly, restored to his memories and powers, [[Arryn]] closes the portal to the [[Mirror Realm]], severing the connection, and turns to thank [[Wellby]], [[Alimash]], and [[Shoal]] profusely. After giving gifts to [[Alimash]] (a ring of mind shielding) and [[Shoal]] (a deck of beautiful illusions), [[Wellby]] asks about the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]]. [[Arryn]] gifts him a necklace enchanted with moonlight as a gift to secure an honorable Fey guide, and the plane-shifts him to [[Lastlight Falls]], the portal in northern [[Dunmar]] where [[Wellby]] will meet his friends. 
-
-
-
-
-
-
-
-
-
-
-

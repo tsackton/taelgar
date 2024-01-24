@@ -20,6 +20,8 @@ name: "Dunmari Frontier - Session 1"
 
 The newly formed [[Dunmar Fellowship]] rescues [[Karawa]] from hyenas and begins investigating a string of attacks, leading them to a concerning discovery at the [[Gomat|Gomat Oasis]]
 ## Session Info
+
+***Kenzo, Seeker, Wellby, and Delwath meet, and our campaign begins.***
 ### Summary
 - [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] meet, and save the villagers of [[Karawa]] from two giant hyenas.
 - The party agrees to investigate a series of mysterious attacks on the village after a discussion with Karawa's leaders.

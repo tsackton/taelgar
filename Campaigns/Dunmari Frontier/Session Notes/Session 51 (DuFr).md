@@ -6,10 +6,48 @@ realWorldDate: 2022-07-22
 DR: 1748-08-29
 DR_end: 1748-09-06
 players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which the party faces shadows and secrets
+descTitle: The God Tree Encounter
+name: Dunmari Frontier - Session 51
 ---
+# Dunmari Frontier - Session 51
 
-## Timeline
+>[!info] The God Tree Encounter: in which the party faces shadows and secrets
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: Aug 29, 1748 DR to Sep 06, 1748 DR*
+> *On Earth: Friday Jul 22, 2022*
+> *Arendum and the Elderwood*
 
+The Fellowship engages with dark forces, uncovers secrets in Arendum, and navigates the perils of the Elderwood while preparing to confront the enigmatic Mezzar.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Shadows and Allies",
+  "tagline": "in which the Dunmar Fellowship faces shadowy foes and complex alliances",
+  "summary": [
+    "The Dunmar Fellowship defeats a shadow hunter and his shadow dogs, rescuing Seeker who was captured in battle.",
+    "The shadow hunter's dying warning hints at a larger threat of 'chalyte zombies' in Chardon.",
+    "In Arendum, the Fellowship gathers information and sows rumors, preparing to face Fausto and his creations.",
+    "Traveling invisibly, they reach the Elderwood and encounter a God Tree, where Kenzo experiences a trance and perceives forest corruption.",
+    "They meet the Bek'eni tribe and are informed about Mezzar, an elf aiding against the corruption, but encounter mistrust and secrets.",
+    "The party aids Theba, the ousted Godcaller, to reclaim her gear and strategize to confront Mezzar by the God Tree."
+  ],
+  "short_summary": "The Dunmar Fellowship battles a shadow hunter, uncovers threats in Chardon, and aligns with the Bek'eni tribe against a mysterious corruption in the Elderwood.",
+  "location": "Arendum and the Elderwood"
+}
+```
+%%
+## Session Info
+### Summary
+- The Fellowship battles a shadow hunter, rescues Seeker, and uncovers the hunter's human form and dire warning about Chardon.
+- They arrive in Arendum, gather information, and spread rumors of their journey to mislead potential followers.
+- Traveling invisibly, they reach the Elderwood where Kenzo connects with a God Tree but senses a disturbing corruption.
+- In the Bek'eni village, they meet Theba, learn of Mezzar's influence, and retrieve Theba's magical gear despite dangers.
+- The party prepares to confront Mezzar at the God Tree, wary of the intentions of this mysterious elf.
+
+### Timeline
 - (DR:: 1748-08-29), late night: Attacked by a shadow hunter and two yeth hounds around Kill shadow hunter. Manage to sleep. 
 - (DR:: 1748-08-30): Travel east during the day, heading overland away from the [[Chasa]]. Camp about 20 miles north of Arkad.
 - (DR:: 1748-08-31): Travel through the day.
@@ -20,10 +58,13 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 - (DR:: 1748-09-04): Travel southeast into the Elderwood. Kenzo's staff begins to pull him east, leading him to a massive tree, called a God Tree by the local [[Deno'qai]]. Kenzo meditates and becomes one with the forest. Meet a patrol from the Bek'eni, who escort the party to their village to meet the elf, Mezzar. Spend the night in the Bek'eni camp, where Delwath is treated like a lord.
 - (DR:: 1748-09-05): Spend the day at the Bek'eni village. Meet the disgraced Godcaller Theba, who has information about Mezzar and the [[Te'kula]]. Spy on Mezzar's house; steal Theba's spear and shield. Debate what to do.
 - (DR:: 1748-09-06), morning: Attempt to leave village. Stopped by the chief, Zaro, until he is swayed by Seeker's magic. Travel to the God Tree to wait for Mezzar. 
-## Mirror of the Past
-- (DR:: 1748-08-29): Use mirror on the mask that falls from the shadow hunter's face: [[Shadow Hunter's Mask Vision]] (recharge:: mirror)
-## Narrative
 
+### Mirror of the Past
+- (DR:: 1748-08-29): Use mirror on the mask that falls from the shadow hunter's face: [[Shadow Hunter's Mask Vision]] (recharge:: mirror)
+
+
+
+## Narrative
 We start in combat, with the party fighting the shadow hunter and his shadow dogs. [[Seeker]], mostly drained of spells, turns into a Huge Giant Crab for the fight, which sadly does not last long. While [[Wellby]] deals with the dogs, and [[Kenzo]] flees due to the magical fear effect, the shadow hunter knocks [[Seeker]] unconscious and begins to flee with him, until saved by [[Delwath]] and banishing smite. 
 
 After the battle, the party watches as the mask falls off the face of the shadow hunter, and in death he shifts to a normal human, looking pale and gaunt. As he dies, he warns or threatens the party that there are many more chalyte zombies in [[Chardon]] and it will not take long for [[Fausto]] to make more hunters. Before sleeping, the party looks at the mask in [[The Mirror of the Past]], seeing a [[Shadow Hunter's Mask Vision|vision of its past]].

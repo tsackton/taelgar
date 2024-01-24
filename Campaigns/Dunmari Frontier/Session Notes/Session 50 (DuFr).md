@@ -6,9 +6,47 @@ realWorldDate: 2022-07-21
 DR: 1748-08-24
 DR_end: 1748-08-29
 players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which the party evades pursuit
+descTitle: Fleeing Shadows
+name: Dunmari Frontier - Session 50
 ---
-## Timeline
+# Dunmari Frontier - Session 50
 
+>[!info] Fleeing Shadows: in which the party evades pursuit
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: Aug 24, 1748 DR to Aug 29, 1748 DR*
+> *On Earth: Thursday Jul 21, 2022*
+> *Eastern lands of Taelgar, heading towards Erlona*
+
+The Dunmar Fellowship escapes eastward, contending with shadow attacks and nightmares while trying to outpace their pursuers.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Fleeing Shadows",
+  "tagline": "in which the Dunmar Fellowship evades pursuit",
+  "summary": [
+    "The party flees Fausto, finding safe places to rest and travel using a mirror to hide in.",
+    "Delwath unsuccessfully scries on Marcella, but successfully on Fausto who is also scrying.",
+    "Wellby and Kenzo take turns riding east, passing landmarks and trading horses as needed.",
+    "They encounter nightmares and a shadow creature in dreams, hinting at an ominous threat.",
+    "The party is attacked by shadow dogs and Delwath learns Marcella is petrified in the mountains."
+  ],
+  "short_summary": "The Dunmar Fellowship evades their chaser Fausto, trades horses for their eastward journey, while facing supernatural threats and uncovering disturbing dreams.",
+  "location": "East of Chardon towards Erlona"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship flees from Fausto, taking turns hiding in a magical mirror and riding eastward to escape.
+- Wellby successfully scouts and purchases horses, while Delwath attempts to scry on their pursuers, revealing that Fausto is also scrying.
+- They pass landmarks of ancient treaties and encounter Chardonian soldiers, while Wellby maintains a cover story.
+- The group is repeatedly attacked by shadow creatures at night and suffers from haunting nightmares.
+- Despite challenges, the Fellowship continues their journey east, with Delwath scrying and learning of allies' activities.
+
+### Timeline
 - (DR:: 1748-08-24), afternoon: Sneak to a safe place to rest 15 miles east of Chardon; sleep. Kenzo dreams of Hralgar.
 - (DR:: 1748-08-25), morning. Wellby buys horses at a small market town; Delwath scries. [[Kenzo]], [[Seeker]], and [[Delwath]] hide in the [[Mirror of Soul Trapping]]. Wellby rides as fast as possible, passing [[Metium]] and traveling 70 miles east before stopping at midnight to rest.
 - (DR:: 1748-08-26): Wellby rides 60 miles east. Pass a gray stone monolith about 60 feet high. Sleep.
@@ -19,8 +57,8 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 - (DR:: 1748-08-29): Travel only about 30 miles as the horses are tired after the attack and Kenzo struggles to keep them on pace. 
 - (DR:: 1748-08-29), evening: Wellby takes over, rides another 20 miles by midnight. Camp around 320 miles east of Chardon. Try to rest. 
 
-## Narrative
 
+## Narrative
 We start as the party takes a brief breather in the shadow of a barn in a field of wheat, about a half-mile south of [[Chardon]], having just fled from [[Fausto]]. During the course of a tense day, [[Wellby]] sneaks upriver and finds a place where the party can sleep, unmolested. The next morning, as dawn comes, the party discusses the situation and decides to ride as fast as possible east, with one person riding at a time while the rest of the party remains in the mirror. While [[Wellby]] heads to the nearby market town to buy horses, [[Delwath]] attempts to scry, first on [[Marcella]] (which fails), and then on [[Fausto]] (which succeeds). [[Fausto]] is finishing breakfast, an invisible servant carrying his dishes away, and then takes out a silver mirror with an elaborate jeweled border decoration, and begins casting scrying. 
 
 The rest of the day and into the night, [[Wellby]] rides hard, changing horses frequently. He passes the wine town of [[Metium]] around 3 pm, before running out of steam around midnight about 85 miles east of [[Chardon]]. The next morning, get an early start in the pre-dawn light and ride all day, making another 60 miles with the horses tiring around 9 pm. Pass a tall gray standing monolith stone around 130 miles east of [[Chardon]]. May possibly be associated with the fey, somehow; later learn that this is one of several treaty stones marking the agreements between humans and [[Elves|elves]] in these lands, thousands of years ago. Camp at 9 pm, and rest.
@@ -36,4 +74,3 @@ The next day, the party sets out again, with [[Kenzo]] on the horses, but he is 
 During the journey, [[Delwath]] also spends time Scrying, and sees [[Marcella]] and [[Sura]]. [[Marcella]] is in the mountains to the east, sleeping. [[Sura]] is praying in her tent, reading a prayer book waiting for someone, and then a messenger arrives. He says he has ridden all the way to [[Tokra]], and no one there knew the secret of unpetrifying a person. [[Govir]], at the [[Archives]], is doing some research to see what he can learn, but no one knows how the sword caused this. 
 
 Trying to sleep, [[Seeker]] again has nightmares, of the shadow hunter catching up to him and saying “I found you!”. The rest of the party is watching in the dream mirror, and immediately tries to wake [[Seeker]], as the sound of howls echoes in from near the camp, and the session ends. 
-

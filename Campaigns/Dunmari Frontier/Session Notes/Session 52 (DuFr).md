@@ -7,9 +7,47 @@ DR: 1748-09-06
 DR_end: 1748-09-30
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: [Theba]
+tagline: in which a tyrant dragon is vanquished
+descTitle: Dragon's Defeat
+name: Dunmari Frontier - Session 52
 ---
-## Timeline
+# Dunmari Frontier - Session 52
 
+>[!info] Dragon's Defeat: in which a tyrant dragon is vanquished
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: Sep 06, 1748 DR to Sep 30, 1748 DR*
+> *On Earth: Saturday Jul 23, 2022*
+> *Te'kula territory and Grimbaskal's lair*
+
+The Dunmar Fellowship ambushes Mezzar the dragon, escapes to Te'kula territory, and ultimately defeats the dragon, restoring peace.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Dragon's Defeat",
+  "tagline": "in which the dragon Mezzar is vanquished",
+  "summary": [
+    "The Dunmar Fellowship sets an ambush for Mezzar, who is revealed as an adult green dragon and escapes after combat.",
+    "The party buries the dead and constructs a stone monument before meeting Theba, who guides them to the Te'kula territory.",
+    "In the Te'kula village, Kenzo and Alayah experience a shared dream through their Jade Pieces of Rai's Hand.",
+    "The party prepares and successfully battles the dragon Grimbaskal in its lair, claiming its treasure hoard afterward.",
+    "With the dragon defeated, the party aids in diplomatic missions and recovery, before being scattered across different locations as the Te'kula pocket dimension collapses."
+  ],
+  "short_summary": "The Dunmar Fellowship ambushes Mezzar, discovers his true dragon form, defeats him in his lair, and later gets scattered across different realms.",
+  "location": "Te'kula territory and Grimbaskal's lair"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship sets an ambush for Mezzar, who is revealed as an adult green dragon and flees after a skirmish.
+- After mourning the dead, they meet Theba who guides them through the forest to the Te'kula territory.
+- In Te'kula, Kenzo and Alayah's jade pieces cause a shared vision; the village's history and the dragon's tyranny are revealed.
+- The Fellowship, joined by Theba and village chief Yota, plans and successfully executes an attack on Mezzar's lair, defeating the dragon.
+- The treasure is gathered and the party aids in the restoration efforts until they leave, and the Te'kula territory returns to the material plane.
+
+### Timeline
 - (DR:: 1748-09-06), afternoon: Mezzar arrives. Revealed to be a green dragon in disguise. Combat; party flees into the Elderwood. 
 - (DR:: 1748-09-06), evening: Arrive at clearing where Theba told them to meet her. Rest.
 - (DR:: 1748-09-07), early morning: Theba arrives. Discuss situation. Scry Bek'eni, learn they are spreading out to hunt the party. Theba promises to lead them to the Te'kula village.
@@ -30,10 +68,13 @@ companions: [Theba]
 - (DR:: 1748-09-20) - (DR_end:: 1748-09-28): Spend time recovering and resting in the Te'kula village. 
 - (DR:: 1748-09-29): Prepare to leave village with Theba, to help the other tribes heal from the traumas inflicted by Grimbaskal over the past twenty years or more. The elf, [[Belegor]], agrees to come. Kenzo gets the second piece of jade from Alayah.
 - (DR:: 1748-09-30), morning: Leave village, collapsing pocket dimension in the process as the [[Jade Piece of Rai's Hand]] holding it open is removed. As the pocket dimension collapses, the party is scattered in all directions. 
+
 ### Mirror of the Past
 - (DR:: 1748-09-06): Look at the Deno'qai God Tree in the Mirror of the Past: [[God Tree Vision]]. (recharge:: mirror)
 - (DR:: 1748-09-14): Look at the [[Mace of Terror]] in the [[The Mirror of the Past]]: [[Mace of Terror Vision]] (recharge:: mirror)
 - (DR:: 1748-09-22): Look at [[Hralgar's Eyes]] in the [[The Mirror of the Past]]: [[Hralgar's Eyes Vision]]. (recharge:: mirror)
+
+
 
 ## Narrative
 We begin as the party waits at the God tree for the [[Elves|elf]] [[Mezzar]], debating whether to wait or to flee. While doing so, they look at the God tree in [[The Mirror of the Past]], seeing [[God Tree Vision|a vision]].

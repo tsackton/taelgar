@@ -7,21 +7,59 @@ DR: 1748-05-29
 DR_end: 1748-06-01
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 companions: [Cintra, Jumi]
+tagline: in which magic and combat intertwine
+descTitle: Gnolls and Gratitude
+name: Dunmari Frontier - Session 29
 ---
+# Dunmari Frontier - Session 29
 
-## Timeline
+>[!info] Gnolls and Gratitude: in which magic and combat intertwine
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Drikod]]*
+> *In Taelgar: May 29, 1748 DR to Jun 01, 1748 DR*
+> *On Earth: Wednesday Jul 28, 2021*
+> *Shakun's Wellspring and Karawa*
 
+The Dunmar Fellowship cures Jumi, defeats a gnoll ambush, and returns to Karawa, resolving to venture to Tokra for lore.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Battles and Revelations",
+  "tagline": "in which a curse is lifted and a new path is chosen",
+  "summary": [
+    "Seeker successfully dispels the magic curse transforming Jumi into a wooden puppet.",
+    "The party fends off a gnoll ambush using their combined magical and combat skills, while Jumi sleeps undisturbed.",
+    "The nature and dangers of Shakun’s Wellspring are discussed with Cintra, revealing its protective enchantments.",
+    "The party safely escorts Cintra and Jumi back to Karawa, encountering allies and sharing news upon arrival.",
+    "Plans are made to seek knowledge in Tokra, as the party rests and reflects on a vision of the Scepter of Command."
+  ],
+  "short_summary": "The Dunmar Fellowship successfully rescues Jumi from her curse, defends against gnolls, and plans a journey to Tokra for knowledge.",
+  "location": "Shakun’s Wellspring and Karawa"
+}
+```
+%%
+## Session Info
+### Summary
+- Seeker dispels the curse transforming Jumi into a wooden puppet, earning Cintra's heartfelt thanks.
+- Delwath and the party search Agata and Samerki's bodies, cataloging valuable items.
+- The party successfully repels a gnoll ambush using strategic magic and combat prowess.
+- Cintra discloses the nature of Shakun's Wellspring and the dangers it poses.
+- The Fellowship returns to Karawa, gaining information and allies, and then decides to head to Tokra for knowledge.
+
+### Timeline
 - (DR:: 1748-05-29), evening: Cure Jumi of Agata's curse with skillful use of dispel magic by Seeker. Attacked by gnolls emerging from slot canyon entrance to [[Shakun’s Wellspring]]. Recover many magic items from [[Agata]], including the [[Scepter of Command]]. Spend the night at [[Shakun’s Wellspring]]. 
 - (DR:: 1748-05-30): Depart for [[Karawa]] in the morning, with [[Cintra]] and [[Jumi]].
 - (DR:: 1748-05-31): Travel across the [[Red Mesa]].
 - (DR:: 1748-06-01), noon: Arrive in Karawa. Cintra immediately vanishes to help restore Shakun's Heart.
 - (DR:: 1748-06-01), afternoon: Speak with a grateful Candrosa. Talk to Tharandros and receive gifts. Talk to [[Havdar]], learning recent news of Karawa.
 
-## Mirror of the Past
+### Mirror of the Past
 - (DR:: 1748-06-01): See a vision of the history of the [[Scepter of Command]] in the [[The Mirror of the Past]]: [[Scepter of Command Vision]]. (recharge:: mirror)
 
-## Narrative
 
+
+## Narrative
 Our session begins at dusk, as the party silent, tired, stands before the dead bodies of [[Agata]] Dustmother and her oni servant, [[Samerki]]. As [[Cintra]] rushes to comfort her daughter, [[Jumi]], in relief and also terror at what [[Agata]] has turned her into, the party takes stock.
 
 While [[Wellby]] goes to scout into the slot canyon that leads to the exit from the Wellspring and [[Delwath]] begins his ritual to activate Elmerica’s Sight, [[Seeker]] removes a [[Pearl of Power|small pearl]] from his back, concentrates for a moment, and then goes to [[Jumi]] and attempts to unweave the magic that has turned her mostly into a wooden puppet. While a challenging task, he succeeds in doing so, and the party sees the wood melting away from her. [[Cintra]], overwhelmed with gratitude, throws her arms around [[Seeker]] as [[Jumi]] tries to climb into his lap.

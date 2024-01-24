@@ -6,17 +6,54 @@ realWorldDate: 2022-02-17
 DR: 1748-07-03
 DR_end: 1748-07-06
 players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which Saka recounts the Awakened Soul Disaster
+descTitle: The Story of Saka
+name: Dunmari Frontier - Session 40
 ---
-## Timeline
+# Dunmari Frontier - Session 40
 
+>[!info] The Story of Saka: in which Saka recounts the Awakened Soul Disaster
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: Jul 03, 1748 DR to Jul 06, 1748 DR*
+> *On Earth: Thursday Feb 17, 2022*
+> *on the road between Tokra and Saka's camp*
+
+The Dunmar Fellowship learns of past tragedies and receives a cautionary tale from the elusive Saka.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Saka's Revelations",
+  "tagline": "in which the past collides with advice for the future",
+  "summary": [
+    "The Dunmar Fellowship departs Tokra and heads north to find Saka.",
+    "They meet Kiran, who shares knowledge about Saka and the missing Order of the Awakened Soul.",
+    "At Saka's camp, she recounts the Order's history, the Awakened Soul Disaster, and its consequences.",
+    "Saka advises the Fellowship to focus on healing current wounds rather than seeking new heroics."
+  ],
+  "short_summary": "In seeking Saka on the northern plains, the Fellowship learns of past tragedies and receives a warning against pursuing dangerous heroics.",
+  "location": "Northern plains near Tokra"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship departs Tokra, traveling north uneventfully by the Hara river.
+- Kenzo experiences recurring dreams of an underground forge, offering a sense of protection.
+- They encounter Kiran who shares knowledge of Saka and the missing Order of the Awakened Soul.
+- Saka reveals the history of Rai, the seeds of chaos, and the Mystai's failed attempt to eradicate them.
+- Saka advises the party to focus on healing and not pursue dangerous heroics without divine support.
+
+### Timeline
 - (DR:: 1748-07-03), noon: Depart Tokra. Travel uneventfully north along the [[Hara]]. 
 - (DR:: 1748-07-03), evening: Camp on the [[~North Tokra Plains~]]. 
 - (DR:: 1748-07-04): Travel north. Meet Kiran, speak of Saka and the Order of the Awakened Soul. Continue north; spend the night on the plains.
 - (DR:: 1748-07-05): Travel north. 
 - (DR:: 1748-07-06), morning: Approach Saka's camp. Meet and speak with Saka, learning more about the [[Order of the Awakened Soul]] and the [[Awakened Soul Disaster]]. 
 
-## Narrative
 
+## Narrative
 We begin as the party leaves [[Tokra]] just before lunchtime, finally heading north to look for [[Saka]] on the plains, after seemingly vanquishing the last remnants of the [[Fraternity of the Empty Moon]]. Heading north along the river, the first afternoon of travel is hot, but uneventful, the first night notable only for [[Kenzo]]’s recurrent dreams of being underground, near what sounds like a metal forge, the sound of hammers seemingly keeping him safe from some nameless danger of bloodlust and fear. 
 
 Another morning and early afternoon of travel is uneventful, until in the mid-afternoon the party meets [[Kiran]] and his family, camped along the riverbank. From [[Kiran]] they learn a bit more about [[Saka]], that she is wary of outsiders and that she is camped to the north. He also speaks of his sadness at the loss of the [[Order of the Awakened Soul]], for they used to travel the lands and tell and collect stories, but have not been seen of late. 

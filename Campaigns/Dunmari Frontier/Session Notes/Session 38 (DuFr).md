@@ -6,18 +6,57 @@ realWorldDate: 2022-01-23
 DR: 1748-07-02
 DR_end: 1748-07-03
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+tagline: in which the party faces werewolf remnants
+descTitle: Lair of Shadows
+name: Dunmari Frontier - Session 38
 ---
+# Dunmari Frontier - Session 38
 
-## Timeline
+>[!info] Lair of Shadows: in which the party faces werewolf remnants
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Jul 02, 1748 DR to Jul 03, 1748 DR*
+> *On Earth: Sunday Jan 23, 2022*
+> *Tokra*
 
+The Dunmar Fellowship uncovers werewolf secrets and plans further investigations after a tense battle.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Werewolves' Lair Confrontation",
+  "tagline": "in which the Fellowship battles werewolves and uncovers secrets",
+  "summary": [
+    "The Fellowship fights off a surprise werewolf attack with the help of Riswynn and Vistra Fireforge.",
+    "Riswynn shares news of a werewolf attack in Tharn Todor traced back to Tokra.",
+    "They find a prophecy, a countdown to the next full moon, and other clues hinting at a greater threat.",
+    "A secret room is discovered, containing a trapped chest and a map, which the party retrieves with difficulty.",
+    "The day ends with a cure for Govir's lycanthropy and plans to inform Kaleha of any findings."
+  ],
+  "short_summary": "The Dunmar Fellowship defeats additional werewolves, learns of a disturbing prophecy, and cures Govir's lycanthropy.",
+  "location": "Tokra"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship searches a werewolf lair, finding a prophecy and a countdown calendar.
+- Riswynn and Vistra Fireforge arrive, assisting in defeating additional werewolves.
+- Riswynn cures Kenzo and Govir of suspected lycanthropy and aids in lair investigations.
+- A secret room with a trapped chest is discovered; party recovers items including an Ivory Scroll Cap.
+- Kaleha is informed of the werewolf threat; discusses town history and plans for further investigation.
+- The party plans to awaken early to search for more signs of werewolves.
+
+### Timeline
 - (DR:: 1748-07-02), late afternoon: Search bodies. More werewolves attack. Riswynn and Vistra Fireforge, tracking the werewolves, arrive and join the fight. Kenzo wounded, cured of suspected lycanthropy by Riswynn. Search the lair, finding notes and clues, a [[Dunmari map of Pandemonium ruins]] ,and other treasures, despite setting off a dangerous trap. 
 - (DR:: 1748-07-02), evening: Return Govir to archives. Speak with Kaleha. 
 
 ### Notes
 - [[Archives Letter]], a copy of a scroll originally found by the Chardonian historian and explore [[Servius]]
 
-## Narrative
 
+
+## Narrative
 Our session begins with a flashback to [[Govir]], hiding in the basement of the werewolves’ lair, [[Govir's Story|dwelling on the past month]]. 
 
 We return to the adventurers as the party starts to search the bodies and the lair, and inspect their wounds. The search is interrupted by the sounds of something pounding against the door that [[Wellby]] barred shut, and then a crash as a wolf leaps through the window. The wolf is quickly followed by a woman, who starts to shift, and another wolf. As the battle is engaged, two [[Dwarves]] arrive, having been chasing the werewolves. One is a familiar face, [[Riswynn]] . The other is the retired adventurer and now innkeeper of [[The Iron Swan]], [[Vistra Fireforge]], wearing plate armor and carrying a giant maul. After a few moments the final werewolves are dispatched, with the aid of the newcomers.
@@ -27,11 +66,17 @@ In the aftermath of the battle the party learns that [[Riswynn]] came to [[Tokra
 The party searches the bodies and the papers, uncovering what seem to be calculations about the moon and calendars, as well as a key and what seems to be a prophecy written in an unknown language, that [[Delwath]] reads:
 
 *When the sixth moon rises in the betrayer sky,*
+
 *When the deepest echo of madness is nigh,*
+
 *In the ancient cave of the [[Mad One]]'s soul.*
+
 *Thirteen brethren, thirteen prayers,*
+
 *Thirteen cold iron spears prepared,*
+
 *Will bring forth the howl of empty despair.*
+
 *And [[Jinnik]]'s curse will claim the land.*
 
 While searching the lair, they also uncover a giant calendar painted on the wall of the master bedroom that seems to be counting down days until August 1st, the next full moon, and some scattered coins and trinkets. 

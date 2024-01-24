@@ -1,3 +1,8 @@
+## Recovered after the first journey to the tower
+
+
+
+
 ## Recovered after freeing Hralgar
 
 - [Cleaning Stone](https://www.dndbeyond.com/magic-items/cleansing-stone), from [[Eudomes]]' bedroom
