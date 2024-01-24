@@ -7,16 +7,53 @@ DR: 1748-07-23
 DR_end: 1748-07-23
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: [Johar, Justan, Copper Hill Bandits]
+tagline: in which alliances are tested and negotiated
+descTitle: Charm and Conflict
+name: Dunmari Frontier - Session 44
 ---
+# Dunmari Frontier - Session 44
 
-## Timeline
+>[!info] Charm and Conflict: in which alliances are tested and negotiated
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Jul 23, 1748 DR*
+> *On Earth: Thursday Apr 14, 2022*
+> *Vandar*
 
+The Dunmar Fellowship engages in combat with charmed allies and adversaries, leading to a tense negotiation and fragile truce in Vandar.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "The Charm and the Clash",
+  "tagline": "In which alliances shift and battle ensues",
+  "summary": [
+    "Kenzo's attack on Kadmos is interrupted when he's taken down by Hektor.",
+    "Charm spells on Delwath, Wellby, and Riswynn create tension and misdirection.",
+    "A truce is called after a near deadly confrontation with the Chardonians.",
+    "The party discovers the ruins of a caravan and sets camp in Vandar's temple.",
+    "A nighttime theft leads to a fierce battle, ending with a negotiated settlement."
+  ],
+  "short_summary": "After a series of charm spells and violent encounters, the Dunmar Fellowship and the Chardonians reach a begrudging truce in the town of Vandar.",
+  "location": "Vandar"
+}
+```
+%%
+## Session Info
+### Summary
+- Kenzo attacks Kadmos but is taken down by Hektor.
+- Kenzo breaks Wellby's charm; Chardonians speculate the Scepter of Command's influence.
+- Negotiations fail, but violence is averted as Chardonians and party rest separately.
+- Dunmar Fellowship arrives at Vandar, setting camp in the wyvern lair's proximity.
+- A nighttime theft attempt by Marcella escalates into a battle, ending with a negotiated truce and reparations.
+
+### Timeline
 - (DR:: 1748-07-23), mid-afternoon: Confront [[Kadmos]] and company. Bitter conversation after a short battle that leaves [[Kenzo]] unconscious. Leave to find the wyvern's lair. 
 - (DR:: 1748-07-23), evening: Approach the abandoned town of [[Vandar]]. Find wyvern's lair amid the ruins. Make camp in a partially intact temple.
 - (DR:: 1748-07-23), night: [[Marcella]] attempts to steal the [[Mirror of Soul Trapping]], and is caught. [[Kadmos]] and [[Casian]] join the attack. [[Marcella]] is knocked unconscious and left for dead; bandits are killed. Fight ends in bitter stalemate. Wellby speaks secretly with Marcella. 
 
-## Narrative
 
+## Narrative
 We begin as the party faces off against [[Kadmos]] and his companions, with [[Delwath]], [[Wellby]], and [[Riswynn]] charmed by [[Kadmos]]’ magic. [[Kenzo]], enraged by [[Kadmos]]’ actions, rushes forward, avoiding [[Seeker]]’s attempt to defuse the situation by turning him into a bunny rabbit, but running straight into [[Hektor]]’s halberd before he can launch a flurry of blows at [[Kadmos]]. Despite the slashing attack from [[Hektor]], [[Kenzo]]’s staff and fists land true and he nearly knocks [[Kadmos]] unconscious. Unfortunately, though, [[Hektor]] returns the favor, and [[Kenzo]] is taken down by two quick blows with the halberd.
 
 At this point, both [[Antonia]] and [[Riswynn]] reach over to heal [[Kenzo]], and the violence calms for a moment as the encounter turns to conversation. [[Delwath]] offers to show [[Kadmos]] the [[Ring of Displacement|ring]] from [[Drankor]] he has, and is concerned about [[Kenzo]], as [[Delwath]] is still under the influence of a charm. While the conversation continues, [[Kenzo]] quietly reaches out to [[Wellby]]’s essence and, after a few attempts, breaks the charm that has a hold on him. 

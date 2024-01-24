@@ -21,7 +21,7 @@ name: "Dunmari Frontier - Session 4"
 The [[Dunmar Fellowship]] arrives in [[Karawa]] and discovers that the [[Shakun's Protection|magical protections of Shakun]] are failing, leading to increased dangers and a plea for their aid.
 ## Session Info
 
-***The party takes treasure from the fort: [[Aagir's Everlight]], a [[Black Iron Staff]], a [[Floating Disc Coin]], and a [[Horn of Silent Alarm]], along with temple goods, returned to [[Suma]] in [[Karawa]] in exchange for a scroll of Cure Wounds***
+***The party takes treasure from the fort: [[Aagir's Everlight]], a [[Black Iron Staff]], a [[Floating Disc Coin]], and a [[Horn of Silent Alarm]]; they also return recovered temple goods to [[Suma]] in [[Karawa]] in exchange for a scroll of Cure Wounds***
 ### Summary
 - The [[Dunmar Fellowship]] departs the fort with various artifacts and heads to Karawa.
 - In [[Karawa]], they learn from Elder [[Kisa]] about past disturbances and the [[Summer of Red Storms]].

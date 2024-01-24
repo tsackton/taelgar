@@ -20,6 +20,8 @@ name: Dunmari Frontier - Session 6
 
 The [[Dunmar Fellowship]] prepares for their journey, gains a new [[Riswynn|ally]], and defends [[Karawa]] from a gnoll attack during the [[Festival of Rebirth]].
 ## Session Info
+
+***The Dunmar Fellowship meets Riswynn for the first time.***
 ### Summary
 - The party splits to run errands and gather information in [[Karawa]] as rumors of evil spread and refugees arrive.
 - [[Seeker]] helps fortify the temple and learns about the mystical [[Red Mesa]].

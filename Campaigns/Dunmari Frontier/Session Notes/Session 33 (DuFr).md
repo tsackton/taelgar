@@ -7,10 +7,49 @@ DR: 1748-06-20
 DR_end: 1748-06-30
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: [Garret Tealeaf]
+tagline: in which the party encounters magic and peril
+descTitle: Desert Travels and Dangerous Relics
+name: Dunmari Frontier - Session 33
 ---
+# Dunmari Frontier - Session 33
 
-## Timeline
+>[!info] Desert Travels and Dangerous Relics: in which the party encounters magic and peril
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: Jun 20, 1748 DR to Jun 30, 1748 DR*
+> *On Earth: Sunday Oct 24, 2021*
+> *on the road between Karawa and Tokra*
 
+The Fellowship's journey to Tokra is marked by the use of magical artifacts, a fey encounter, and the thwarting of hidden dangers.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Desert Journeys and Enchanted Visions",
+  "tagline": "in which the Dunmar Fellowship explores and safeguards",
+  "summary": [
+    "The Dunmar Fellowship, with Garret Tealeaf, departs Karawa for Tokra, safeguarding magical mirrors.",
+    "The Mirror of the Past reveals the history of a Floating Disc Coin near a petrified Arcus.",
+    "Seeker is contacted by Typhina, a fey trapped in the Ring of the Warded Mind, later revealed to be Agata.",
+    "At a ruined aqueduct, the party discovers an enchantment for water amplification and aids local herders.",
+    "The fellowship destroys scorpions from Agata's belt pouch, unveiled as dangerous when magic is applied.",
+    "Upon arrival in Tokra, the party splits to visit the Lakan Monastery and a halfling inn, The Red Lily."
+  ],
+  "short_summary": "The Dunmar Fellowship travels to Tokra, encountering magic and aiding those they meet along the way.",
+  "location": "on the road between Karawa and Tokra"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship travels west from Karawa to Tokra, with magical mirrors concealed in their cart.
+- During the journey, they use the Mirror of the Past to reveal the history of a mysterious coin.
+- Seeker is telepathically contacted by Typhina, who is revealed to be Agata, trapped in a magical ring.
+- The group discovers an enchanted Drankorian aqueduct and aids local herders by creating an oasis.
+- They uncover the danger of the scorpions in Agata's pouch and destroy them before they can cause harm.
+- Upon reaching Tokra, they split up, with Wellby and Garret heading to The Red Lily Inn, and the others to Lakan Monastery.
+
+### Timeline
 - (DR:: 1748-06-20): Travel west towards Tokra. 
 - (DR:: 1748-06-21): Travel uneventfully west towards Tokra. Discuss the possible evils of magic items with Garret.
 - (DR:: 1748-06-22): Travel west towards Tokra. Seeker contacted telepathically by [[Typhina]], a native of the feywild trapped in the ring recovered from [[Agata]]. Much later, the party will learn this is actually Agata, playing a role. 
@@ -23,8 +62,9 @@ companions: [Garret Tealeaf]
 - (DR:: 1748-06-21): See a vision of the [[Floating Disc Coin]] in the [[The Mirror of the Past]]: [[Floating Disc Coin Vision]]. (recharge:: mirror)
 - (DR:: 1748-06-28): Use the Mirror of the Past to see a dried scorpion taken from [[Agata]], and watch is begin to come alive in the magic of the mirror: [[Dried Scorpion Vision]]. Wellby shoots it before it can fully transform. (recharge:: mirror)
 
-## Narrative
 
+
+## Narrative
 The session starts as the party leaves [[Karawa]], heading west for [[Tokra]], traveling with [[Garret Tealeaf]], a horse-drawn cart laden with food and water and a false bottom hiding their magical mirrors, plus their horses and gear. The first day passes uneventfully along the open terrain, heading to connect with the ancient Drankorian trade road that runs east and west across northern [[Dunmar]]. There is light traffic passing through the desert, everybody eager to return to their normal lives. By the evening of the second day of travel, [[The Mirror of the Past]] had recharged enough to be used, and the party used it to look at the [[Floating Disc Coin]] found near the petrified form of [[Arcus]] in the fort east of [[Gomat]], seeing a [[Floating Disc Coin Vision|vision of its history]].
 
 As he watches this scene unfold, [[Garret Tealeaf]] is suspicious, afraid of the magic you have taken from the lairs of powerful creatures, worried that perhaps the owner of this mirror is watching you, somehow. 

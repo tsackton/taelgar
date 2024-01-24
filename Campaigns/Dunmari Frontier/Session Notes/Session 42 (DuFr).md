@@ -7,10 +7,46 @@ DR: 1748-07-13
 DR_end: 1748-07-18
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: [Johar]
+tagline: in which the party readies for their journey
+descTitle: Preparations and Portents
+name: Dunmari Frontier - Session 42
 ---
+# Dunmari Frontier - Session 42
 
-## Timeline
+>[!info] Preparations and Portents: in which the party readies for their journey
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Jul 13, 1748 DR to Jul 18, 1748 DR*
+> *On Earth: Sunday Mar 13, 2022*
+> *Tokra and the road to Darba*
 
+The Dunmar Fellowship prepares for their journey with mystical items and dire rumors, setting out from Tokra towards Darba.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Scrolls and Journeys",
+  "tagline": "in which the Fellowship prepares and sets forth",
+  "summary": [
+    "The Dunmar Fellowship, stationed in Tokra, examines a mysterious scroll and plans their journey to Darba.",
+    "Seeker resists an effect from the Pandemonium Scroll, gaining a vision upon using it with The Mirror of the Past.",
+    "Kenzo receives a special branch from his mentor Rishi to craft into a staff.",
+    "The Fellowship is instructed on the use of a Portable Hole by Basu before departing Tokra.",
+    "Traveling northwest, they encounter travelers and hear rumors of kobolds, a dragon, and the dealings of Karnas with Chardon."
+  ],
+  "short_summary": "The Dunmar Fellowship receives a vision from a scroll, prepares for the journey, and hears ominous rumors while traveling to Darba.",
+  "location": "From Tokra to the Crossroads Caravanserai on the road to Darba"
+}
+```
+%%
+## Session Info
+### Summary
+- Seeker resists an effect from the Pandemonium Scroll, and Kenzo receives a special branch from his mentor, Rishi.
+- The party receives the Portable Hole from Basu, learning its rules and potential dangers.
+- They depart Tokra, travel for three days, and stay at inns along the way, encountering a notable Drankorian bridge.
+- At the Crossroads Caravanserai, they exchange stories with travelers, including rumors of a dragon and a deal involving Chardon.
+
+### Timeline
 - (DR:: 1748-07-13): Spend time in Tokra
 - (DR:: 1748-07-14), morning: Visit the giant tree of Tokra.
 - (DR:: 1748-07-14), afternoon: Restock and resupply. Sell treasure in Tokra. Kenzo receives a branch from the giant tree from Rishi.
@@ -21,12 +57,12 @@ companions: [Johar]
 - (DR:: 1748-07-18): Travel west along the [[~AncientWestRoad~]].
 - (DR:: 1748-07-18), evening: Arrive at the crossroads where the [[Tokra-Darba Road]] turn south and west.  Spend the night at the [[~Crossroads Caravanserai~]]. Speak with the [[Greenleafs]], who report on rumors of a dragon on the road. Speak with [[Marcella]]. 
 
-## Mirror of the Past
-
+### Mirror of the Past
 - (DR:: 1748-07-13) Examine the [[Pandemonium Scroll]] in the [[The Mirror of the Past]] and see the [[Pandemonium Scroll Vision]]. (recharge:: mirror)
 
-## Narrative
 
+
+## Narrative
 We begin with the tale of the [[The Dunmari Monsoon|monsoons that have just begun]], as the party rests in [[Tokra]], waiting for their [[Portable Hole]] to be ready and to begin the journey to [[Darba]], and planning on wrapping up a few loose ends. The first of which is looking at the [[Pandemonium Scroll|scroll]] associated with [[Pandemonium]], recovered from the lair of the [[Fraternity of the Empty Moon]], in [[The Mirror of the Past]]. As [[Seeker]] unrolls the scroll to hold it to the mirror, the runes shift and squirm and reach out to him, but he resists whatever effect might have occurred and [[Pandemonium Scroll Vision|sees the following]].
 
 The next morning, the party explores the giant tree, going so far as to climb to the top, where they see the first buds of the new leaves beginning to appear, and [[Kenzo]] communes with the tree. Despite his wishes, a branch does not fall for him. However, later that afternoon, his old mentor [[Rishi]] gives him a branch from the tree that he had been saving for [[Kenzo]] when he was ready, telling him that it must be shaped into a staff by [[Kenzo]]’s own hand. The rest of the party sells treasure and gets organized for the journey to [[Darba]].
@@ -34,8 +70,11 @@ The next morning, the party explores the giant tree, going so far as to climb to
 On the morning of July 15th, the party speaks with [[Basu]], who delivers the [[Portable Hole]] along with four rules: 
 
 1) never open an extradimensional portal instead another extradimensional portal; 
+
 2) no fire (or acid, or similar effects) in the hole, because eventually the silk of the cloth itself will burn and the item will be destroyed; 
+
 3) be careful which direction you open it – if you put it on the ceiling everything will fall out; and 
+
 4) don’t rip the material from the outside or especially from the inside, as any tear can rip apart and eject everything inside into a random other plane. 
 
 After some conversation in which [[Basu]] gets increasingly dubious about the safety of handing over the item, he relents and turns over the [[Portable Hole]]. 

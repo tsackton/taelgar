@@ -1,19 +1,57 @@
 ---
 tags: [session-note]
-name: "Dunmari Frontier - Seeker Solo Session 2"
+name: Dunmari Frontier - Seeker Solo Session 2
 campaign: Dunmari Frontier
 sessionNumber: 63
 realWorldDate: 2022-11-05
 DR: 1748-10-03
 DR_end: 1748-10-12
 players: [Seeker, Raven, Spirala, Mikasa]
+tagline: in which a wild magic storm is quelled
+descTitle: Crystal Peak Chaos
 ---
-## Timeline
+# Dunmari Frontier - Seeker Solo Session 2
 
+>[!info] Crystal Peak Chaos: in which a wild magic storm is quelled
+> *Featuring: [[Seeker]], [[Raven]], [[Spirala]], [[Mikasa]]*
+> *In Taelgar: Oct 03, 1748 DR to Oct 12, 1748 DR*
+> *On Earth: Saturday Nov 05, 2022*
+> *Crystal Peak in the Feywild*
+
+Seeker and his companions subdue a wild magic storm at Crystal Peak, receive mysterious gifts, and set off for further adventures.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Storm's End",
+  "tagline": "in which a chaotic magic storm is quelled",
+  "summary": [
+    "Seeker joins Raven, Spirala, and Mikasa to venture into the Feywild's wild magic storm.",
+    "The party ascends Crystal Peak, encountering a rolling stone and a crater leading to a cave with a crashed geode.",
+    "Animated crystal fragments attack, but the party reaches Illaran, who explains the need to destroy a magic-consuming creature.",
+    "The party confronts living spells and a petrified xorn; Mikasa shatters it, ending the wild magic storm.",
+    "Seeker's journey continues with new crystalized magic gifts, while Mikasa returns home."
+  ],
+  "short_summary": "Seeker and his companions quell a wild magic storm in the Feywild by defeating a petrified xorn and animated spells.",
+  "location": "Feywild, Crystal Peak"
+}
+```
+%%
+## Session Info
+### Summary
+- Seeker and companions, Raven, Spirala, and Mikasa, venture into the Feywild to tackle a wild magic storm.
+- The group reaches the Crystal Peak and encounters a creature made of crystal fragments within a cavern.
+- Seeker vanishes using a spell and discovers Illaran, a fey master of the mountain who reveals the cause of the chaos.
+- Illaran leads the party to confront a petrified creature whose destruction by Mikasa ends the wild magic storm.
+- With the storm quelled, Seeker receives mysterious crystalized magic from Illaran as the party prepares to continue their journey.
+
+### Timeline
 - **Afternoon, in the feywild**: [[Seeker]] meets [[Raven]], [[Spirala]], and [[Mikasa]] who are also coming to help solve the wild magic storm. 
 - **Slightly later afternoon, in the feywild**: [[Seeker]], [[Raven]], [[Spirala]], and [[Mikasa]] travel to the Crystal Peaks, where the wild magic storm is growing; enter the mountain; meet the strange fey creature [[Illaran]]; fight off animated spells; and stop the wild magic storm.
-## Narrative
 
+
+## Narrative
 We begin in the court of the [[Prince of Luck|Chanceweaver]], as [[Seeker]] meets his companions who will venture into the wild magic storm: [[Raven]], a Winter Knight from [[Shimmersong]], also bordering the wild magic storm; [[Spirala]], a light cleric from [[Shimmersong]]; and [[Mikasa]], a samurai from a distant fey realm, who is helping in exchange for passage home from the [[Prince of Luck|Chanceweaver]]. [[Raven]] and [[Spirala]] know the way, so the party sets out from the [[Prince of Luck|Chanceweaver]]’s court towards the Crystal Peak, at the center of the wild magic storm.
 
 ![[crystal-peak.png|500]]
