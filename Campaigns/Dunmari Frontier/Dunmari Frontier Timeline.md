@@ -28,9 +28,14 @@ timelineDescriptor: Dunmari Frontier Campaign
 - (DR:: 1748-03-11): Kenzo leaves the Lakan Monastery at Tokra, heading for Karawa in search of answers about his dreams, and the jade fragment he carries.
 - (DR:: 1748-03-19): Wellby arrives in Karawa.
 - (DR:: 1748-03-21): Seeker arrives in Karawa
-- (DR::1748-03-24): Riswynn leaves Askandi, heading for Karawa.
+- (DR:: 1748-03-24): Riswynn leaves Askandi, heading for Karawa.
 - (DR:: 1748-04-26): Riswynn arrives in Tokra.
 - (DR:: 1748-04-29): Drikod leaves [[Kunda]], his village in the mountains.
 - (DR:: 1748-04-30): Riswynn arrives in Askandi.
 - (DR:: 1748-05-05): Riswynn arrives in Tharn Todor.
 - (DR:: 1748-05-12): Drikod arrives in Karawa.
+
+
+```dataviewjs
+await dv.view("_scripts/view/get_EventsTable", { yearStart: "1748-03-22", yearEnd: "1749-04-01" } )
+```

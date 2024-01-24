@@ -28,7 +28,7 @@ The [[Dunmar Fellowship]] explores a [[Dunmari Fort (Gomat)|ruined fort]], battl
 - In the cave below, they find a petrified explorer and a magical [[floating disc coin]], confront a cockatrice nursery, and battle an undead creature.
 - A cursed obsidian stone is destroyed, ending the beastly rampage.
 ### Timeline
-- (DR::1748-03-25), afternoon: Explore [[Dunmari Fort (Gomat)|the ruined fort]] and the caves below. Find a petrified explorer (later revealed to be [[Arcus]]). Find and defeat an undead creature carrying a symbol of [[Cha'mutte]]. Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage. 
+- (DR:: 1748-03-25), afternoon: Explore [[Dunmari Fort (Gomat)|the ruined fort]] and the caves below. Find a petrified explorer (later revealed to be [[Arcus]]). Find and defeat an undead creature carrying a symbol of [[Cha'mutte]]. Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage. 
 - (DR:: 1748-03-25), evening: Make camp and rest in the Dunmari temple at the fort.
 ## Narrative
 The party decided to explore a little more before entering the ruined fort, and discovered a campsite in the foundations of the outbuildings outside the fort. The camp itself was several days to several weeks old, and had clearly been disturbed by animals (signs of scattered food -- salt pork and dried fish and the like that had been partially eaten by animals). Whoever made the camp had left most of their stuff, except weapons and water, and went somewhere. 
