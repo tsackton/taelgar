@@ -8,7 +8,7 @@ DR_end: 1748-04-06
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the Festival of Rebirth is marred by a gnoll attack
 descTitle: Festival Ambush
-title: Dunmari Frontier - Session 6
+name: Dunmari Frontier - Session 6
 ---
 # Dunmari Frontier - Session 6
 

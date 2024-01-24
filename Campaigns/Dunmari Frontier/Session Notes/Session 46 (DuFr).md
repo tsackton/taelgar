@@ -6,7 +6,16 @@ realWorldDate: 2022-05-13
 DR: 1748-08-08
 DR_end: 1748-08-09
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Johar]
 ---
+
+## Timeline
+
+- (DR:: 1748-08-08), early evening. Reach Darba. Split up to take care of errands. Say farewell to Johar. Seeker and Riswynn meet Travok Redpeak, who has news and information for Riswynn. Wellby, Kenzo, and Delwath book passage for Johar, to Nayahar, and the party, to Chardon.  
+- (DR:: 1748-08-09), midday: Split up to sell treasure and horses, and gather rumors in Darba. 
+- (DR:: 1748-08-09), late afternoon: Board the Emerald Song, bound for Chardon.
+
+## Narrative
 
 We begin as the party reaches [[Darba]], after the journey along the increasingly populated road. Along the way, [[Riswynn]] was able to contact [[Marcella]] on August 8th, the day the party arrived in [[Darba]]. [[Marcella]] said she was hoping to flee the following day, during the battle with [[kobolds]]. As the day ends, the party splits up to enter [[Darba]] – the [[Dwarves]] going together to hope to connect with [[Riswynn]]’s contact from [[Tharn Todor]]; [[Wellby]] heading to find a halfling inn and enquire about ships; and [[Delwath]], [[Johar]], and [[Kenzo]] going to the harbor to try to find [[Johar]] a ship to [[Nayahar]]. 
 

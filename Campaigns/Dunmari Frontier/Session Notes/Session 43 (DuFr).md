@@ -6,7 +6,21 @@ realWorldDate: 2022-03-25
 DR: 1748-07-19
 DR_end: 1748-07-23
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Johar, Justan, Copper Hill Bandits]
 ---
+
+## Timeline
+
+- (DR:: 1748-07-19), morning: Depart [[~Crossroads Caravanserai~]] heading towards [[Darba]] on the [[Tokra-Darba Road]]. 
+- (DR:: 1748-07-19): Travel along the Darba Road.
+- (DR:: 1748-07-19), evening: Reach [[Akela Inn]], the last inn on the road before the [[Copper Hills]]. Speak with Amar, the innkeeper. Gather rumors. Spend the night. 
+- (DR:: 1748-07-20): Travel along the [[Tokra-Darba Road]] a fast pace, covering 30 miles of increasingly hilly road. 
+- (DR:: 1748-07-21): Approach the hilly terrain that marks the [[Copper Hills]]. Discover a bandit ambush, and ambush the ambushers. Intimidate and bribe them into fighting the rumored dragon together. Kenzo listens to the story of [[Justan]], the captain of this raiding party. Camp for the night in the midst of the [[Copper Hills]].
+- (DR:: 1748-07-22): Uneventful, but watchful, trek at a slower, more careful pace through the hills. Camp for the evening.
+- (DR:: 1748-07-23), morning: Travel cautiously along [[Tokra-Darba Road]]. 
+- (DR:: 1748-07-23), early afternoon: Find a dead, disembowled horse on the road. Ambushed by two wyverns during the afternoon rains. Kill them, losing one of the bandits to the poison stinger. Approached by Marcella and her Chardonian companions, seeking to purchase or trade magic items. Meet [[Kadmos]], [[Casian]], [[Hektor]], and [[Antonia]]. Wellby, Delwath, and Riswynn are magically charmed by [[Kadmos]].
+
+## Narrative
 
 We begin as the party departs the caravanserai and small settlement at the crossroads where the [[Tokra-Darba Road]] branches west and south from the [[~AncientWestRoad~]]. The first day of travel passes uneventfully, despite the mud and rain, more noticeable now off the ancient Drankorian roads that seem impervious to bad weather.
 

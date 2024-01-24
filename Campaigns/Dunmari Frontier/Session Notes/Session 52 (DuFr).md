@@ -6,8 +6,36 @@ realWorldDate: 2022-07-23
 DR: 1748-09-06
 DR_end: 1748-09-30
 players: [Kenzo, Wellby, Delwath, Seeker]
+companions: [Theba]
 ---
+## Timeline
 
+- (DR:: 1748-09-06), afternoon: Mezzar arrives. Revealed to be a green dragon in disguise. Combat; party flees into the Elderwood. 
+- (DR:: 1748-09-06), evening: Arrive at clearing where Theba told them to meet her. Rest.
+- (DR:: 1748-09-07), early morning: Theba arrives. Discuss situation. Scry Bek'eni, learn they are spreading out to hunt the party. Theba promises to lead them to the Te'kula village.
+- (DR:: 1748-09-07) - (DR_end:: 1748-09-09): Travel through the Elderwood, following Theba.
+- (DR:: 1748-09-10), morning: Travel through the Elderwood. 
+- (DR:: 1748-09-10), noon: Arrive at outskirts of Te'kula land. Pass through dream boundary, see visions. 
+- (DR:: 1748-09-10): Arrive in the Te'kula village. Meet Yota, chief of the [[Te'kula]], and Ayalah, Godcaller of the [[Te'kula]]. Kenzo and Ayalah talk, jades touch, experience vision of Rai. 
+- (DR:: 1748-09-10), evening: Dinner in the village.Meet [[Belegor]]. Delwath prays to [[Yezali|Aaviskar]]. Theba prays to the tanshi. Alayah and Kenzo dream together overnight. 
+- (DR:: 1748-09-11): Theba proposes killing Grimbaskal, the dragon. General agreement. War planning at the Te'kula village. Convince Obel, an old hunter whose parents and family were killed by Grimbaskal to join. Get blessings from the tanshi.
+- (DR:: 1748-09-12): Leave the village for the dragon's lair, guided by Theba and the tanshi. Travel through the Elderwood.
+- (DR:: 1748-09-13) - (DR_end:: 1748-09-14): Travel through the Elderwood towards Grimbaskal's lair. 
+- (DR:: 1748-09-15): Find Grimbaskal's lair and the corruption spreading from it. Fight Grimbaskal. Defeat Grimbaskal. Rest.
+- (DR:: 1748-09-16): Organize treasure in Grimbaskal's lair. 
+- (DR:: 1748-09-17), morning: Leave Grimbaskal's lair to return to the Te'kula village. 
+- (DR:: 1748-09-17), afternoon: Travel through the forest, now beginning to clear of its evil influences. Find dead Deno'qai who were once the snake people turned by Grimbaskal.
+- (DR:: 1748-09-18) - (DR_end:: 1748-09-18): Travel through the Elderwood.
+- (DR:: 1748-09-20),  morning: Arrive back in the Te'kula village. 
+- (DR:: 1748-09-20) - (DR_end:: 1748-09-28): Spend time recovering and resting in the Te'kula village. 
+- (DR:: 1748-09-29): Prepare to leave village with Theba, to help the other tribes heal from the traumas inflicted by Grimbaskal over the past twenty years or more. The elf, [[Belegor]], agrees to come. Kenzo gets the second piece of jade from Alayah.
+- (DR:: 1748-09-30), morning: Leave village, collapsing pocket dimension in the process as the [[Jade Piece of Rai's Hand]] holding it open is removed. As the pocket dimension collapses, the party is scattered in all directions. 
+### Mirror of the Past
+- (DR:: 1748-09-06): Look at the Deno'qai God Tree in the Mirror of the Past: [[God Tree Vision]]. (recharge:: mirror)
+- (DR:: 1748-09-14): Look at the [[Mace of Terror]] in the [[The Mirror of the Past]]: [[Mace of Terror Vision]] (recharge:: mirror)
+- (DR:: 1748-09-22): Look at [[Hralgar's Eyes]] in the [[The Mirror of the Past]]: [[Hralgar's Eyes Vision]]. (recharge:: mirror)
+
+## Narrative
 We begin as the party waits at the God tree for the [[Elves|elf]] [[Mezzar]], debating whether to wait or to flee. While doing so, they look at the God tree in [[The Mirror of the Past]], seeing [[God Tree Vision|a vision]].
 
 The party then sets an ambush: [[Wellby]] is hiding behind a minor illusion of a coil of rope on a wooden platform suspended 30 feet above the ground, while [[Kenzo]] waits about 100 feet up in the lower branches of the God tree. [[Mezzar]] arrives, introduces himself, and attempts to cast Suggestion to first get [[Seeker]], and then [[Delwath]] (twice) to step away with him and have a conversation privately for a few minutes. The spells fail, and [[Wellby]], seeing the third attempt, shoots an arrow as combat breaks out. The combat is initially going well for the party, as [[Seeker]] turns into a Huge Giant Crab and [[Mezzar]]’s attempt to dominate the beast fails. But as the spell fails, [[Mezzar]] shifts form, turning from an [[Elves|elf]] to an adult green dragon, and takes to the air. After a blast of poison gas from his breath weapon catches all of the party and kills every Deno’qai who came with [[Mezzar]] from the village, things look rough and the party decides to flee. The heroic rope [[Ladder]] remains behind, tangling with the dragon, sacrificing itself so the party can escape. 
@@ -38,7 +66,7 @@ The next morning, on Sept 12th, the party leaves for [[Mezzar|Grimbaskal]]’s l
 
 The party prepares for the fight, and enters the lair both above and from the main entrance. Although the dragon is waiting for them, and has four snake-person minions with him, careful planning helps ensure the battle goes well for the party. A well-placed Wall of Stone traps the snake minions, and the metal anchor chain animated by [[Seeker]] manages to grapple the dragon, keeping it pinned to the ground for a few rounds, until it is also destroyed. [[Delwath]], [[Theba]], and [[Kenzo]] fly around the dragon, getting consistent solid hits despite its high Constitution making stun almost impossible to pull off, and [[Wellby]] is able to pincushion it with arrows. Finally, [[Kenzo]] manages to bring the dragon down with a massive magical punch, and it comes crashing down on its hoard. 
 
-After a breather, the party spends the next day gathering [[Mezzar|Grimbaskal]]'s treasure joard, with many thousands of coins, plentiful gems, and beautiful objects of art and magical items. Spending three days to return to the [[Te'kula]], the party then enjoys some well deserved rest and downtime to train, while the treasure is gathered and divided up, and the bodies of the Deno’qai transformed by [[Mezzar|Grimbaskal]] are collected and given a proper burial. Messengers go out to the other tribes, and [[Theba]] organizes a diplomatic mission to break the news of [[Mezzar]]’s deception and the other corrupting influences the [[Dragons|dragon]] had on the forest. [[Kenzo]] speaks with [[Alayah]], who turns over her [[Jade Piece of Rai's Hand]] to him at the fallen God tree, where he also takes some wood to carve into figurines to give to people whose stories he collects. 
+After a breather, the party spends the next day gathering [[Mezzar|Grimbaskal]]'s treasure hoard, with many thousands of coins, plentiful gems, and beautiful objects of art and magical items. Spending three days to return to the [[Te'kula]], the party then enjoys some well deserved rest and downtime to train, while the treasure is gathered and divided up, and the bodies of the Deno’qai transformed by [[Mezzar|Grimbaskal]] are collected and given a proper burial. Messengers go out to the other tribes, and [[Theba]] organizes a diplomatic mission to break the news of [[Mezzar]]’s deception and the other corrupting influences the [[Dragons|dragon]] had on the forest. [[Kenzo]] speaks with [[Alayah]], who turns over her [[Jade Piece of Rai's Hand]] to him at the fallen God tree, where he also takes some wood to carve into figurines to give to people whose stories he collects. 
 
 During this time, the party also looks at two items in the [[The Mirror of the Past|mirror of Eudomes]], seeing the [[Mace of Terror Vision]] and the [[Hralgar's Eyes Vision]].
 

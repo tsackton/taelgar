@@ -8,6 +8,14 @@ DR_end: 1748-08-24
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+
+- (DR:: 1748-08-22), afternoon: Speak with Gnaeus, learn about the Elderwood and the Deno'qai. Have tea with Roscelia and Lyra.
+- (DR:: 1748-08-23): Split up and deal with errands and personal tasks. 
+- (DR:: 1748-08-23), late afternoon: Take in Galen's lecture in the afternoon. Negotiate for the Chalice. Meet Fausto. Negotiate for [[Hralgar's Eyes]]. 
+- (DR:: 1748-08-24), morning: Riswynn goes to purchase the [[Chalice of the Runepriest]] from Galen. [[Seeker]], [[Kenzo]], [[Delwath]], and [[Wellby]] go to Fausto's tower to make exchange for [[Hralgar's Eyes]], giving [[Fausto]] the [[Pandemonium Scroll]] in trade. Walk into an ambush. Flee, nearly dying in the process, with [[Hralgar's Eyes]], as Fausto rants about [[The Cleansed]]. Race through Chardon in chaos. Riswynn vanishes. Escape the city via [[Seeker]]'s magic. 
+## Narrative
+
 We start as the party makes their way through the [[University of Chardon]] area, to find the scholar [[Gnaeus]], who wrote a book about the people of the [[Elderwood]] that mentioned [[Rai]]. Interrupting his meager class, they buy him lunch and offer a recommendation about his skill, and he tells his story. Although he has been disgraced for using enchantment magic to learn about the Deno’qai in the forest, he claims what he tells is the truth. From [[Gnaeus]], the party learns about the tribes of the Deno’qai, including the [[Baz'aku]], who trade with the Chardonians in the [[Chasa]] River Valley; the reclusive hunters of the [[Bek'eni]], and the [[Te'kula]], who have hidden themselves away to avoid some great evil they will not mention. 
 
 After lunch, the party goes to speak with [[Roscelia]], meeting her for tea at her estate. She introduces them to a friend, [[Lyra]], an archivist at the [[Great Library]], who is interested in stories of adventurers. After introductions and some small talk, they speak about the [[Chalice of the Runepriest]] and the [[Hralgar's Eyes|Giant’s Eyes]], and adventures. [[Roscelia]] and [[Lyra]] are not particularly fond of [[Fausto]], and give the impression that he spends money freely to buy favor and influence. He is, for example, always outbidding the [[Great Library]] to acquire the services of adventurers. [[Lyra]], in particular, is annoyed with him because she sees the [[Society of the Open Scroll]] as an amateur explorer’s club that encourages careless adventuring, not a careful and serious academic endeavor like the [[Great Library]]. But according to [[Lyra]] and [[Roscelia]], probably both [[Galen]], who has the chalice, and [[Fausto]], who has the eyes, can be bargained with. 

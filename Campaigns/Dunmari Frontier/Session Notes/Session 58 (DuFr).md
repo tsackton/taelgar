@@ -12,10 +12,15 @@ players: [Riswynn, Rothfis, Merash, Thror]
 
 - (DR:: 1748-08-25), afternoon: Decipher the mystery of Morkalan and kill [[Hagrim]], sending his soul to the gods for judgment.
 - (DR:: 1748-08-26): Appear near the [[Stoneborn Statue Dungeon|statue of the Stoneborn Warrior]] in northern [[Dunmar]]; [[Merash]] and [[Rothfis]] return to their lives; [[Thror]] stays to help and seek redemption.
-- (DR:: 1748-08-27) - (DR_end:: 1748-10-17): [[Thror]] and [[Riswynn]] guide the freed dwarves of [[Morkalan]]south to [[Nardith]]
-- (DR:: 1748-10-18) - (DR_end:: 1748-10-22): [[Riswynn]] rests in [[Tharn Todor]] and gathers news
-- (DR:: 1748-10-23) - (DR_end:: 1748-11-13): [[Riswynn]] travels east to meet her companions again
+- (DR:: 1748-08-27) - (DR_end:: 1748-10-04): [[Thror]] and [[Riswynn]] guide the freed dwarves of [[Morkalan]]south to [[Nardith]]
+- (DR:: 1748-10-05): Riswynn and freed dwarves arrive in Tharn Todor.
+- (DR:: 1748-10-06) - (DR_end:: 1748-10-11): [[Riswynn]] rests in [[Tharn Todor]] and gathers news
+- (DR:: 1748-10-12): Riswynn departs for Tokra
+- (DR:: 1748-10-13) - (DR_end:: 1748-10-25): Riswynn travels across Dunmar towards Tokra.
+- (DR:: 1748-10-26): Riswynn arrives in Tokra. Gathers letters and information.
+- (DR:: 1748-10-27) - (DR_end:: 1748-11-13): [[Riswynn]] travels east to meet her companions again
 - (DR:: 1748-11-14): Riswynn and Delwath are reunited on the arid plains of the [[Nashtkar]]
+
 ## Narrative
 
 We begin as the party speaks with the ghost of [[Nora Silverspark]]. Although [[Nora Silverspark|Nora]] is reluctant to trust the party, and not sure what, if anything they can do for her or to help this place, some persuasion and the sight of the [[Chalice of the Runepriest]] convinces her to tell her story and help the party understand [[Hagrim]], who is now calling himself [[Morkalan]]. [[Nora Silverspark|Nora]] tells the story of the [[Chalice of the Runepriest#History of the Chalice|history of the chalice]], adding some detail. She says [[Hagrim]] broke in battle against [[Odim Mavdyrson]], perhaps because of some old mind-wounds from the [[Great War]], and when he ordered his troops to attack her, she would not fight back, and was slaughtered. In [[Hagrim]]'s death, this place grew from his evil acts, and has gotten darker since. None can leave and those who wander into the battlefield from the mortal realm are, in many cases, drawn into [[Morkalan]] against their will. [[Hagrim]], [[Morkalan]] now, she says, does not even remember the past. 

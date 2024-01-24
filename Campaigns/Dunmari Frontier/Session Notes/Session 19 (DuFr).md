@@ -3,10 +3,25 @@ tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 19
 realWorldDate: 2021-02-13
-DR: 1748-04-24
+DR: 1748-04-25
 DR_end: 1748-05-02
 players: [Kenzo, Wellby, Delwath, Seeker]
+companions: [Havdar's Warband, Amil]
 ---
+## Timeline
+
+- (DR:: 1748-04-25) - (DR:: 1748-04-26): Make preparations in Karawa to head east with Havdar and his warriors
+- (DR:: 1748-04-27), morning: Depart Karawa with [[Havdar]]'s warriors
+- (DR:: 1748-04-28): Travel southeast towards [[Bas Udda]]
+- (DR:: 1748-04-29), mid-morning: Arrive in Bas Udda. Meet Amil, an apprentice monk who is burning and giving last rites to bodies left untended after the gnoll attack. Fend of giant vultures. Amil surprised to see Delwath and mentioned his masters Avaras and Pava saved an elf in the desert some months ago.
+- (DR:: 1748-04-29), evening: Spend night in Bas Udda
+- (DR:: 1748-04-30), morning: Help Amil tend the dead of Bas Udda
+- (DR:: 1748-04-30), afternoon: Leave Bas Udda with Amil, parting ways with Havdar. 
+- (DR:: 1748-05-01): Travel with Amil through the desert.
+- (DR:: 1748-05-02), midday: Fight ogres in the desert. 
+- (DR:: 1748-05-02), evening: Arrive at the stone house that is the home of Avaras and Pava
+### Mirror of the Past
+- (DR:: 1748-04-27): Vision of Kenzo's [[Jade Piece of Rai's Hand|shard of jade]] seen in the [[The Mirror of the Past]]: [[Kenzo's Jade Vision]]  (recharge:: mirror)
 
 Having decided to leave [[Karawa]] for the deserts and the blasted plain to the east, traveling with [[Havdar]] and his band, the party spends a few days taking care of business in [[Karawa]]. You find a place to store the loot you are not planning on taking into the desert; [[Candrosa]] offers space in the outbuildings of the [[Temple of Shakun]], where it will hopefully remain safe. Each time you see him he seems as if he is wrestling with a decision, but with the preparations for the expedition you don’t have time to speak in more depth with him.
 

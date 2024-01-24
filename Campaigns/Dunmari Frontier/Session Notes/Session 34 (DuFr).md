@@ -8,6 +8,13 @@ DR_end: 1748-07-01
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
 
+## Timeline
+
+- (DR:: 1748-06-30), evening: Speak with Rishi at the Lakan Monastery. Meet Basu at dinner, who gripes about the overflowing energy of Arborea in the elven ruins below the Lakan monastery. Meet Kassi, the head librarian at the monastery. Dinner discuss events in Tokra with Johar, Kenzo's old friend. Spend the night at the monastery. 
+- (DR:: 1748-07-01), morning: Enter ancient elven ruins. Defeat slimes and oozes and confront massive velvet worm near the [[extraplanar weak point]], which is tamed by Seeker's magic. Return to surface with three vials filled with the essence of Arborea's extraplanar energy.
+
+## Narrative
+
 The session starts as the party (excepting [[Wellby]], who is taking [[Garret Tealeaf]] to [[The Red Lily Inn]]) stands in the entrance to the [[Lakan Monastery]], in front of the Lakan monk [[Rishi]], [[Kenzo]]’s friend and master. After introductions, the party learns from [[Rishi]] that the [[Lakan Mystai]] have had omens and dreams, and many of the monks, including Speaker [[Lara]], are currently traveling to hopefully learn more of these omens. For the past three weeks, many of the mystai have had premonitions that the cycle of history was out of sync with itself, that the branching paths of the past, once pruned and gone into history, are now renewed. Speaker [[Lara]] had a dream of a watchtower to the east, one of the many guard towers built before the [[Great War]] to protect the northern reaches of [[Dunmar]], and left with many companions to visit this place a few days ago. 
 
 While the party gets settled into the monastery, unloading the cart and finding secure places to store extra stuff, [[Wellby]] arrives, and the party decides to stay at the monastery for dinner. During dinner, they meet [[Basu]], the eccentric artisan who runs the workshop of the Lakan monks and is an expert in crafting magic items with extradimensional spaces. He is grumpy and upset, because no one will pay attention to his problems, everyone being too concerned with the strange omens. He explains that, beneath this monastery, there is an old elven ruin with a weak point between the planes. He uses the energy that spills out in the construction of magic items, but if it is not harvested it is likely to accumulate in strange ways. No one has bothered to go down in weeks, given the distraction of the omens. They also are introduced to [[Kassi]], the head librarian, and [[Johar]], [[Kenzo]]’s friend. There are a few other grumbles around the table, mostly about food and how it is scarce now, with the army camp and the refugees. 

@@ -7,7 +7,7 @@ name: Raven's Hold
 subTypeOf: ruined
 typeOf: fort
 whereabouts:
-- { type: home, location: Ardith, end: 1544 }
+- { type: home, location: Dunmar, end: 1544 }
 - { type: home, location: Sentinel Range, start: 1545 }
 ---
 # Raven's Hold

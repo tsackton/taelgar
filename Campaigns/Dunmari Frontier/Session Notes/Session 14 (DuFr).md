@@ -6,18 +6,40 @@ realWorldDate: 2020-12-06
 DR: 1748-04-13
 DR_end: 1748-04-15
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Vola]
+tagline: in which the party braves the unending storm and discovers a mysterious tower
+descTitle: Into the Storm
+name: Dunmari Frontier - Session 14
 ---
+# Dunmari Frontier - Session 14
 
-## Timeline
+>[!info] Into the Storm: in which the party braves the unending storm and discovers a mysterious tower
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *Companions: [[Vola]]*
+> *In Taelgar: Apr 13, 1748 DR to Apr 15, 1748 DR*
+> *On Earth: Sunday Dec 06, 2020*
+> *[[Samtal]] and [[Stormcaller Tower]]*
 
+The [[Dunmar Fellowship]] braves a magical storm to uncover secrets at [[Stormcaller Tower]], discovering ominous changes in the night sky.
+
+## Session Info
+
+### Summary
+- The [[Dunmar Fellowship]] debates whether to trust [[Vola]] and the [[Society of the Open Scroll]] over dinner, while Vola argues for an alliance against [[Agata|Agata Dustmother]] and suggests returning to [[Chardon]].
+- The party travels towards a permanent storm, encountering a wildfire-scorched landscape.
+- Inside the storm, runes compel [[Delwath]] to attack [[Seeker]], but the party manages to move past.
+- They find [[Stormcaller Tower]] surrounded by a calm circle, with a Chardonian grave nearby.
+- [[Delwath]] investigates the tower, finding destruction and an aggressive arcane construct.
+- At dusk, they notice that [[Fox and Hunter|familiar constellations]] are missing from the night sky.
+
+### Timeline
 - (DR:: 1748-04-13), night: Discussion and dinner. Plans are made to travel west to the strange permanent storm on the plains. 
-- (DR:: 1748-04-14): Travel across the plains towards the lightning storm.
-- (DR:: 1748-04-15), morning: Travel across the plains towards the lightning storm.
-- (DR:: 1748-04-15), late afternoon: Arrive at the lightning storm. Vola remains outside at camp with the horses and heavy gear. 
+- (DR:: 1748-04-14): Travel across the [[Samtal|plains]] towards the lightning storm.
+- (DR:: 1748-04-15), morning: Travel across the [[Samtal|plains]] towards the lightning storm.
+- (DR:: 1748-04-15), late afternoon: Arrive at the lightning storm. [[Vola]] remains outside at camp with the horses and heavy gear. 
 - (DR:: 1748-04-15), early evening: Party pushes through the storm, arriving at [[Stormcaller Tower]]. Find remains of a Chardonian adventuring party camp, before night begins to fall and party realizes stars are changed. 
 
 ## Narrative
-
 We begin with the party camped a few miles west of [[Raven's Hold]], near the trade road over the mountains, listening to the recovering wildlife of open plains as the campfire crackles, and [[Vola]] brings in a brace of birds to roast for dinner.
 
 At camp, while [[Vola]] is cooking, the party spends some time trying to sort out the events of the past two days: the demon, rumors of [[Agata]] Dustmother, [[Vola]]’s rescue, the demonically possessed vine beast and the now-broken summoning circle, gnolls and rituals involving ritually slaughtered antelope, and the many packs of wild beasts kept and freed, some now audible on the plains. After discussion of [[Vola]] and whether to trust her ([[Riswynn]]: definitely no; [[Kenzo]]: maybe we should talk to her), and what to do next (travel to [[Karawa]], or investigate the storm), dinner is ready.

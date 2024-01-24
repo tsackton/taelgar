@@ -6,7 +6,27 @@ realWorldDate: 2022-05-26
 DR: 1748-08-09
 DR_end: 1748-08-21
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Emerald Song, Oswalt Tealeaf, Jasmine Sunmeadow]
 ---
+
+## Timeline
+
+- (DR:: 1748-08-09): Depart Darba on the Emerald Song. Meet the captain, crew, and passengers. Have dinner and share stories. 
+- (DR:: 1748-08-10): Arrive at the Isle of Folly. Turn west aiming for the coast of Illoria. 
+- (DR:: 1748-08-11) - (DR_end:: 1748-08-13): Sail west towards Illoria.
+- (DR:: 1748-08-14): Pass near the coast of Illoria; turn north by northwest.
+- (DR:: 1748-08-15) - (DR_end:: 1748-08-16): Sail north by northwest.
+- (DR:: 1748-08-16), evening: Reach the [[Old Chardon Canal]]. Spend night at docks. [[Kenzo]], [[Seeker]], [[Riswynn]], [[Delwath]], and [[Baxter]] hide in the [[Mirror of Soul Trapping]]. 
+- (DR:: 1748-08-17): Pass through the canal, guided by Chardonian windcallers. Spend the night at docks on the north side.
+- (DR:: 1748-08-18), morning: [[Kenzo]], [[Riswynn]], [[Seeker]], and [[Delwath]] exit the [[Mirror of Soul Trapping]]. 
+- (DR:: 1748-08-18) - (DR_end:: 1748-08-20): Sail north by northeast towards Chardon.
+- (DR:: 1748-08-21), afternoon: Arrive at the estuary at the mouth of the Chasa River and sail into Chardon. 
+
+### Mirror of the Past:
+- (DR:: 1748-08-10): Use mirror to look at the [[Raven Whistle]], seeing the [[Raven Whistle Vision]]. (recharge:: mirror)
+- (DR:: 1748-08-18): Use mirror to look at the [[Chardon Fan|fan with a Chardonian design]], seeing the [[Chardon Fan Vision]]. (recharge:: mirror)
+
+## Narrative
 
 We begin as the party boards the [[Emerald Song]], the halfling ship they will sail on to [[Chardon]]. As the ship departs [[Darba]], the party gets settled and enjoys the view from the deck, before heading to dinner with the captain, some of the crew, and the two other passengers, both halflings.
 

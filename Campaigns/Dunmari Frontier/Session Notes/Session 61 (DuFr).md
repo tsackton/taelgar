@@ -11,7 +11,7 @@ players: [Seeker]
 
 ## Timeline
 
-- (DR::1748-09-30):  [[Seeker]] arrives in the [[Feywild]] realm of Fortune’s Rest
+- (DR::1748-09-30), afternoon:  [[Seeker]] arrives in the [[Feywild]] realm of Fortune’s Rest
 - **Afternoon, in the feywild**: [[Seeker]] travels to the [[Prince of Luck|Chanceweaver]]’s court; meets the [[Prince of Luck]]; agrees to investigate the wild magic storm in exchange for safe passage across the realm.
 
 ## Narrative

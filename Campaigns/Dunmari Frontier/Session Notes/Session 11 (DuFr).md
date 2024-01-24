@@ -6,14 +6,35 @@ realWorldDate: 2020-10-23
 DR: 1748-04-12
 DR_end: 1748-04-13
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Vola]
+tagline: in which the party confronts a vile demon
+descTitle: Demon's End
+name: Dunmari Frontier - Session 11
 ---
-## Timeline
+# Dunmari Frontier - Session 11
 
-- (DR:: 1748-04-12), night: Discover a demon in Raven's Hold performing some ritual to apparently create gnolls. Kill demon.
+>[!info] Demon's End: in which the party confronts a vile demon
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *Companions: [[Vola]]*
+> *In Taelgar: Apr 12, 1748 DR to Apr 13, 1748 DR*
+> *On Earth: Friday Oct 23, 2020*
+> *[[Raven's Hold]]*
+
+The Dunmar Fellowship battles and slays a [[Oduk|demon]] at [[Raven's Hold]], stopping a demonic ritual that is creating gnolls.
+## Session Info
+
+***Character advancement: the party reaches level 4 after killing the demon.***
+### Summary
+- The [[Dunmar Fellowship]] and newly rescued adventurer [[Vola]] discuss her 10-day captivity and the rumors of Drankorian artifacts at [[Raven's Hold]].
+- [[Vola]] reveals she was captured by an orc and jackalweres serving Agata Dustmother.
+- [[Kenzo]] and [[Wellby]], aided by invisibility, scout and discover an undead gnoll and a [[Oduk|festering demon]] performing a demonic ritual.
+- The party engages in a difficult battle with the [[Oduk|demon]] and its undead gnoll minions, eventually killing the demon.
+
+### Timeline
+- (DR:: 1748-04-12), night: Discover a [[Oduk|demon]]  in [[Raven's Hold]] performing some ritual to apparently create gnolls. Kill demon.
 - (DR:: 1748-04-13), dawn: Awake after a night of disturbing dreams.
 
 ## Narrative
-
 We begin as the sun begins to set, as the party, holed up in an empty guard tower protecting the inner keep of [[Raven's Hold]], tends to their wounds and sits down for a quick meal with [[Vola]] Forena, an adventurer from [[Chardon]] just rescued by the party. [[Vola]], a member of the [[Society of the Open Scroll]], has been a prisoner for about 10 days. During her captivity, she noticed that the noise of the animals - now a loud cacophony of howls - started a few days after she was captured, and has been growing every since. 
 
 After some discussion of plans and next steps, the party discusses the situation with [[Vola]], where they learn several notable pieces of information. She arrived, by herself, 10 days ago, when the entire place seemed empty, on a mission to search for lost artifacts of the [[Drankorian Empire]] and return them to [[Chardon]]. She had sought [[Raven's Hold]], as there is a rumor that after it was abandoned by [[Hobgoblins]], it was briefly the lair of a three-headed beast, a creature part lion, part dragon, part goat, that may have left behind some treasure. Moving through the fortress, she was captured by an [[Orcs|orc]] and two jackalweres, working for someone called [[Agata]] Dustmother, a possibly fey creature, hundreds of years old. Her captors wanted information on where they could find hidden Drankorian treasures, and when she tried to dissemble they said they would just take her to [[Agata]], but had to wait to make sure the ritual succeeded before they could leave. 

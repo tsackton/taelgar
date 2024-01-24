@@ -8,7 +8,7 @@ DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which Hralgar's chains are broken and the tower falls
 descTitle: Storm's End
-title: Dunmari Frontier - Session 71
+name: Dunmari Frontier - Session 71
 ---
 # Dunmari Frontier - Session 71
 
@@ -18,7 +18,7 @@ title: Dunmari Frontier - Session 71
 > *On Earth: Tuesday Feb 21, 2023*
 > *[[Stormcaller Tower]]*
 
-The [[Dunmar Fellowship]]battles a spectral [[Hralgar]], breaks his bonds with an ancient elven poem, and watches as he liberates himself by destroying [[Stormcaller Tower]].
+The [[Dunmar Fellowship]] battles a spectral [[Hralgar]], breaks his bonds with an ancient elven poem, and watches as he liberates himself by destroying [[Stormcaller Tower]].
 
 ## Session Info
 

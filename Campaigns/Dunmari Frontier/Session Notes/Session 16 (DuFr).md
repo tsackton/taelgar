@@ -6,13 +6,33 @@ realWorldDate: 2021-01-08
 DR: 1748-04-15
 DR_end: 1748-04-16
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+tagline: in which the party uncovers history and flees dangerous storm
+descTitle: Escape from Stormcaller Tower
+name: Dunmari Frontier - Session 16
 ---
-## Timeline
+# Dunmari Frontier - Session 16
 
-- (DR:: 1748-04-15), night: Continue exploring [[Stormcaller Tower]]. Fight a water guardian, dislodge a strange iron orrery, and find treasure and information. Flee as Hralgar's mind slips back into madness and the storm intensifies. Stagger through the storm through the night. 
-- (DR:: 1748-04-16), early morning: Stumble out of the permanent storm around [[Stormcaller Tower]]. Vola and Riswynn depart for Chardon and Tharn Todor, respectively. 
+>[!info] Escape from Stormcaller Tower: in which the party uncovers history and flees dangerous storm
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Apr 15, 1748 DR to Apr 16, 1748 DR*
+> *On Earth: Friday Jan 08, 2021*
+> *[[Stormcaller Tower]]*
+
+The [[Dunmar Fellowship]] discovers the chained storm giant [[Hralgar]]'s tragic past and uncovers the history of [[Stormcaller Tower]], before narrowly escaping the intensifying storm.
+
+## Session Info
+### Summary
+- The [[Dunmar Fellowship]] speaks with [[Hralgar]], a blinded [[Giants|storm giant]], chained inside [[Stormcaller Tower]].
+- They split up to search the tower for clues about Hralgar's eyes, believing Chardonian adventurers may be involved.
+- They discover the tower has been looted, although some remaining books and notes reveal the tower's history, a plague, and a secret binding of Hralgar.
+- [[Delwath]] teleports into a locked room, finding magical items, while [[Kenzo]] meditates with [[Hralgar]].
+- After fighting a water guardian, they flee the tower as Hralgar's mind and the storm rage.
+
+### Timeline
+- (DR:: 1748-04-15), night: Continue exploring [[Stormcaller Tower]]. Fight a water guardian, dislodge a strange iron orrery, and find treasure and information. Flee as [[Hralgar]]'s mind slips back into madness and the storm intensifies. Stagger through the storm through the night. 
+- (DR:: 1748-04-16), early morning: Stumble out of the permanent storm around [[Stormcaller Tower]]. Part ways with [[Vola]] and [[Riswynn]], who depart for [[Chardon]] and [[Tharn Todor]], respectively. 
+
 ## Narrative
-
 Standing in a shattered room at the top of an [[Stormcaller Tower|ancient tower]], we begin with our heroes confronting a massive [[Giants|storm giant]], laying chained and manacled to the ground in front of them. Clothed in tattered robes, with long, shaggy hair and weathered features, the most notable fact about this storm giant, [[Hralgar]], is that he is missing his [[Hralgar's Eyes|eyes]]. 
 
 During a brief conversation, the party learns the giant first came to consciousness about a month ago, and has been trapped here, drifting in and out of waking dreams ever since. When he awoke his eyes were gone and his conscious grip on his mind was weak, although since he has had moments of lucidity, such as now. He tells the party that he believes he could free himself if his eyes were returned to him, and that when he loses conscious control of his mind he cannot prevent the tower from drifting in his dangerous dreams, where the part of his consciousness lost in the storm outside controls the present and his thoughts return to a simpler time, when he lived on his mountaintop palace trading stories and omens with travelers. Noting that while they are talking with [[Hralgar]], the constellation of the [[Fox and Hunter]] is back in the sky, the party realizes that its absence is a sign they have drifted back into the dreams of [[Hralgar]]. 

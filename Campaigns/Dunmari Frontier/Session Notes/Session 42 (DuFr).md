@@ -4,12 +4,26 @@ campaign: Dunmari Frontier
 sessionNumber: 42
 realWorldDate: 2022-03-13
 DR: 1748-07-13
-DR_end: 1748-07-19
+DR_end: 1748-07-18
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Johar]
 ---
-## Notes and Information
 
-- (DR:: 1748-07-13) *(Eudomes Mirror)*: See a the [[Pandemonium Scroll Vision]] in [[The Mirror of the Past]] (recharge:: mirror)
+## Timeline
+
+- (DR:: 1748-07-13): Spend time in Tokra
+- (DR:: 1748-07-14), morning: Visit the giant tree of Tokra.
+- (DR:: 1748-07-14), afternoon: Restock and resupply. Sell treasure in Tokra. Kenzo receives a branch from the giant tree from Rishi.
+- (DR:: 1748-07-15), morning: Receive portable hole, as well as instructions on its care and use, from Basu. Finalize business in Tokra. 
+- (DR:: 1748-07-16), morning. Depart Tokra, heading west, with Johar. 
+- (DR:: 1748-07-16), evening: Spend the night at a roadside caravanserai a day's journey west of Tokra.
+- (DR:: 1748-07-17): Travel west along the [[~AncientWestRoad~]]. Spend the night at a caravanserai.
+- (DR:: 1748-07-18): Travel west along the [[~AncientWestRoad~]].
+- (DR:: 1748-07-18), evening: Arrive at the crossroads where the [[Tokra-Darba Road]] turn south and west.  Spend the night at the [[~Crossroads Caravanserai~]]. Speak with the [[Greenleafs]], who report on rumors of a dragon on the road. Speak with [[Marcella]]. 
+
+## Mirror of the Past
+
+- (DR:: 1748-07-13) Examine the [[Pandemonium Scroll]] in the [[The Mirror of the Past]] and see the [[Pandemonium Scroll Vision]]. (recharge:: mirror)
 
 ## Narrative
 

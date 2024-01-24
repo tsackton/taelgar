@@ -6,8 +6,19 @@ realWorldDate: 2021-03-13
 DR: 1748-05-05
 DR_end: 1748-05-11
 players: [Kenzo, Wellby, Delwath, Seeker]
+companions: [Havdar's Warband]
 ---
 
+## Timeline
+
+- (DR:: 1748-05-05), evening: Interrogate the orc survivor [[Gorkil]] in Havdar's camp, who rants about being a servant of Grash, the Blighted One, and that Grash's protection means he will rise stronger if he is killed. Eventually commands Seeker to kill him, ending the interrogation. Funeral for members of [[Havdar]]'s band who died; [[Havdar]] passes [[Flaming Bowstring|a magical bowstring]] to Wellby. Meet Aram, a member of [[Havdar]]'s band who can heal with a touch. 
+- (DR:: 1748-05-06): Leave Havdar's camp, heading south, to approach the Monastery of Bhishma while avoiding approaching Kharsan.
+- (DR:: 1748-05-07): Travel south through the desert.
+- (DR:: 1748-05-08): Travel south through the desert.
+- (DR:: 1748-05-09): Travel south through the desert, slowing pace to try to move unseen.
+- (DR:: 1748-05-10): Get slightly lost, and head further south than planned prior to turning east. Find dry riverbed of the Kharja and a place to camp, well south of Kharsan.
+- (DR:: 1748-05-11), morning: Turn north to approach Kharsan via the dry Kharja. Rest south of the city while Wellby scouts ahead through the eyes of a desert hawk. 
+## Narrative
 We begin as the battle with the [[Orcs|orcs]] ends, the party collecting themselves after a tough fight, and deciding to deal with their captive, one of the [[Orcs|orc]] clerics named [[Gorkil]]. There is little to note among the wreckage of the battle, although the party does take note of the symbol that seems to be painted on these orc faces and gear: a rising sun, below a screaming face. 
 
 Heading into [[Havdar]]’s camp, they speak briefly with [[Havdar]], and [[Aram]], a holy warrior and healer of [[Aagir]]. [[Havdar]] lost four of his warriors in the fight, which was tougher and more deadly than expected, both because of the sophistication of the [[Orcs]] battle plan and their magic. 

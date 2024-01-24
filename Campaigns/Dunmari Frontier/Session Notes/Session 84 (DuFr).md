@@ -8,7 +8,7 @@ DR_end: 1749-01-03
 players: [Seeker, Delwath, Kenzo, Wellby]
 tagline: in which the party gathers information
 descTitle: New Beginnings
-title: Dunmari Frontier - Session 84
+name: Dunmari Frontier - Session 84
 ---
 # Dunmari Frontier - Session 84
 

@@ -8,6 +8,14 @@ DR_end: 1748-07-02
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
 
+## Timeline
+
+- (DR:: 1748-07-01), late evening: Return to archives. Stand guard as the full moon rises. Hear a howl from below. Investigate, meeting the [[Hardstones]], including Dag Hardstone, who has been cursed with lycanthropy. After subduing Dag, Delwath restores him with a ritual
+- (DR:: 1748-07-01), night: [[Delwath]], [[Seeker]], and [[Wellby]] sleep at the Archives; [[Kenzo]] returns to the monastery to ensure the Lakan mystai are safe.
+- (DR:: 1748-07-02), morning: Meet at Darshana's after breakfast; speak with Darshana. Learn that Govir may have vanished searching near an abandoned fort guarding a place of strange, cursed magic of madness from Ashar, a Dunmari veteran. 
+- (DR:: 1748-07-02), noon: Return to Kirian's. Asked to visit Dunmari army camp and speak with the commander. Attempt to spy with clarivoyance, but are detected. Narrowly avoid severe punishment after Kenzo admits to the spying; conscripted to get a message to [[Sura]] to try to prevent war. Use scroll of Sending. 
+- (DR:: 1748-07-02), early afternoon: Leave north to look for Saka, but decide to investigate the abandoned Drankorian fort first. Discover tracks, leading to a hidden tunnel, enter, follow tunnel to a door. Delwath's looks through the door with his newfound powers, and see hideous statues. Open door, as the statues come alive. 
+## Narrative
 Our session begins as the party crosses [[Jita]]’s Square, leaving [[Kirian’s]] after dinner and heading for the [[Archives]], to keep watch of signs of werewolves in the night, as the full moon rises. At the [[Archives]], the party debates what to do, while [[Ardan]] summons extra guards. During the debate, the party hears a piercing howl, cut short. After initially splitting up to cover more ground, the party reconvenes in the basement of the [[Archives]], where the Hardstone clan quarters are and the howls are coming from. 
 
 A werewolf has broken loose from some chains, and despite the [[dwarves]] telling the party to go, they stay and subdue it without damage. [[Fallthra Hardstone]] runs sobbing to the dwarven boy that the stunned werewolf shifts into – her son [[Dag Hardstone]], cursed with lycanthropy in the attack on the archive some weeks ago. He started feeling the effects a few nights ago as the moon waxed towards full, but Fallthra, her husband [[Delig Hardstone]], and her brother [[Morkral Hardstone]] thought they could handle it somehow. After Dag is subdued, [[Delwath]] communes with his patron, who still has some divine connection, and is able to restore Dag to himself. At this point, [[Kenzo]] returns to check on the monastery, while the rest of the party sleeps in the [[Archives]], keeping watch through the night. 

@@ -9,17 +9,13 @@ players: [Kenzo, Wellby, Delwath, Seeker]
 ---
 ## Timeline
 
+- (DR:: 1748-04-16), late morning: Leave [[Stormcaller Tower]] heading towards Karawa. 
+- (DR:: 1748-04-16), afternoon: Kill a group of emaciated and nearly undead gnolls on the plains.
+- (DR:: 1748-04-17) - (DR_end:: 1748-04-23): Travel south towards [[Karawa]]
+- (DR:: 1748-04-24), afternoon: Arrive at Karawa.  Here news of gnoll attack from an exhausted [[Candrosa]]. Learns news of the south from [[Alesh]], including an [[Orcs|orc]] scouting party, a mysterious empty stone house, and another band of emaciated gnolls heading south and west into the [[Garamjala Desert]].
 
-%%^Campaign:None%%
-```dataviewjs
-await dv.view("_scripts/view/get_EventsTable", { yearStart: "1748-04-16", yearEnd: "1748-04-24", includAll: true})
-```
-%%^End%%
-
-- (DR:: 1748-04-16), late morning: Leave [[Stormcaller Tower]] heading towards Karawa. Kill a group of emaciated and nearly undead gnolls on the plains.
-- (DR:: 1748-04-17) - (DR_end:: 1748-04-21): Travel south towards Karawa
-- (DR:: 1748-04-22): Party uses Eudomes' Mirror to examine the scroll cap found at Raven's Hold.
-- (DR:: 1748-04-23): Party spends night outside Karawa
+### Mirror of the Past
+- (DR:: 1748-04-22): See a vision of the [[Ivory Scroll Cap]] found at Raven's Hold in the [[The Mirror of the Past]]: [[Ivory Scroll Cap Vision]] (recharge:: mirror)
 ## Narrative
 
 Bone tired from a night of stumbling through the mists, fog, rain, and thunder of [[Hralgar]]’s storm, we open on the party, resting over a late breakfast, [telling stories of their childhood](https://www.youtube.com/watch?v=j6k6EcUUBuQ). [[Seeker]], about his brother [[Frankar]] who vanished after an accident with a strange divination machine of his invention; [[Delwath]], about cooking for his elders as rumors of darkness spread in the world outside; [[Kenzo]], about the hard life of poor street kids growing up in [[Chardon]]; and [[Wellby]], about being at home on the road and the stories his great-grandfather told. As these stories finish, the conversation turns to the events of the past month, as the party starts to puzzle over the mysteries they have experienced, and speculate on answers. [[Seeker]] records much of the conversation in his journal, and a few answers perhaps emerge.
@@ -30,7 +26,7 @@ The next seven days are relatively uneventful, as the party journeys south acros
 
 The next day, the party arrives at [[Karawa]] by mid-afternoon. From a distance, it is clear that the town has suffered greatly. [[Ikram’s]] the popular caravanserai and site of many early meetings, is mostly destroyed and burned, as are the small shops nearby, including [[Delwath]]’s apartment. The shade trees around the oasis square have been chopped down and some burned, and many houses are smashed and now open to the elements. As the party approaches, the [[Centaurs|centaur]] [[Tharandros]] and the Dunmari warrior [[Havdar]] ride up, and greet them with pleasure. [[Alesh]] and [[Candrosa]] are waiting in the outbuildings of the Temple, with news to share and receive.
 
-[[Candrosa]] is surprised and happy to see the party -- the [[Centaurs]] have not informed him that it was [[Kenzo]], [[Delwath]], [[Seeker]], [[Wellby]], and [[Riswynn]] who convinced them to go south. [[Candrosa]] looks exhausted and worn out, and gives a brief update on what has happened. Many days ago, a large band of gnolls attacked, burned the town, and lay siege to the Temple. The siege was broken by the arrival of the [[Centaurs]] a little more than a week ago, who crushed the gnoll lines, albeit not without casualties, and freed the [[Shakun Mystai]] sheltering in the temple. Some days later, [[Alesh]] returned, as did [[Havdar]] with some of his troops from [[Tokra]]. 
+[[Candrosa]] is surprised and happy to see the party -- the [[Centaurs|centaurs]] have not informed him that it was [[Kenzo]], [[Delwath]], [[Seeker]], [[Wellby]], and [[Riswynn]] who convinced them to go south. [[Candrosa]] looks exhausted and worn out, and gives a brief update on what has happened. Many days ago, a large band of gnolls attacked, burned the town, and lay siege to the Temple. The siege was broken by the arrival of the [[Centaurs|centaurs]] a little more than a week ago, who crushed the gnoll lines, albeit not without casualties, and freed the [[Shakun Mystai]] sheltering in the temple. Some days later, [[Alesh]] returned, as did [[Havdar]] with some of his troops from [[Tokra]]. 
 
 [[Alesh]] then reports on her scouting journey into the blasted plains. They passed by [[Kharsan]], which seemed haunted but also deserted, at least by day, and full of nightmares of a choking red mist at night. South of [[Kharsan]], they encountered an emaciated gnoll band, about half of which seemed more [[undead]] than alive, heading south and west into the [[Garamjala Desert]]. They did not follow them far into the desert, as they were not adequately supplied for such a journey, but they noted that a raven also seemed to be following the gnolls. 
 

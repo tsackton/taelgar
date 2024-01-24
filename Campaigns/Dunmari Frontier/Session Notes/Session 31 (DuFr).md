@@ -6,7 +6,21 @@ realWorldDate: 2021-09-24
 DR: 1748-06-04
 DR_end: 1748-06-08
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
+companions: [Garret Tealeaf]
 ---
+## Narrative
+
+- (DR:: 1748-06-04), night: Attacked by [[Orcs|orcs]], seemingly associated with [[Agata]], looking to recover gold and treasure. [[Orcs]] are driven off, but manage to escape with some treasure.
+- (DR:: 1748-06-05), morning: Travel north to Bas Udda
+- (DR:: 1748-06-05), afternoon: Hide some treasure from [[Agata's lair]] in Bas Udda. Free Agata's prisoners imprisoned in living wood. 
+- (DR:: 1748-06-06): Depart Bas Udda for Karawa. Destroy a few particularly evil magic items from [[Agata]] before crossing [[Shakun's Protection]].
+- (DR:: 1748-06-07): Travel towards Karawa.
+- (DR:: 1748-06-08), late afternoon: Arrive in Karawa. Speak with Cintra. Free prisoners from the [[Mirror of Soul Trapping]], including [[Sura|Nayan Sura]], the sister of the current ruler of Dunmar. 
+
+## Mirror of the Past
+- (DR:: 1748-06-08): See a vision of the history of the [[Mirror of Soul Trapping]] in the [[The Mirror of the Past]]: [[Mirror of Soul Trapping Vision]] (recharge:: mirror)
+
+## Timeline
 
 Our session begins at dusk, as the party establishes camp in a small canyon about 1 ½ miles north of [[Agata's lair]]. After an evening discussing the freed prisoners, the mirror, and what to do with [[Agata]]’s loot and lair, the party drifts off to rest, with [[Wellby]] on watch. [[Garret Tealeaf]], the elderly halfling, wanders over to talk for a bit, reiterating his fear of the magic from [[Agata]]’s house, and starting to open up about his experiences as [[Agata]]’s servant, especially the terrible screams he would hear from the hut at times, when a band of [[Orcs]] attacks by surprise.
 

@@ -7,12 +7,12 @@ DR: 1748-12-08
 DR_end: 1748-12-10
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which enemies are interrogated and plans are made
-descTitle: Aftermath
-title: Dunmari Frontier - Session 79
+descTitle: Aftermath of Victory
+name: Dunmari Frontier - Session 79
 ---
 # Dunmari Frontier - Session 79
 
->[!info] Aftermath: in which enemies are interrogated and plans are made
+>[!info] Aftermath of Victory: in which enemies are interrogated and plans are made
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Dec 08, 1748 DR to Dec 10, 1748 DR*
 > *On Earth: Thursday Jul 13, 2023*

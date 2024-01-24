@@ -8,7 +8,7 @@ DR_end: 1748-03-22
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party confronts chaos in Karawa
 descTitle: Hyena Rampage
-title: Dunmari Frontier - Session 1
+name: "Dunmari Frontier - Session 1"
 ---
 # Dunmari Frontier - Session 1
 

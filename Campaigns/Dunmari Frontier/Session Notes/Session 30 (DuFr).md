@@ -6,7 +6,18 @@ realWorldDate: 2021-09-10
 DR: 1748-06-01
 DR_end: 1748-06-04
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
+companions: [Garret Tealeaf]
 ---
+
+## Timeline
+
+
+- (DR:: 1748-06-02): Travel from Karawa towards Bas Udda.
+- (DR:: 1748-06-03): Arrive in Bas Udda. Spend the night.
+- (DR:: 1748-06-04), morning: Leave Bas Udda heading south, looking for [[Agata's lair]]. 
+- (DR:: 1748-06-04), midday: Loot [[Agata's lair]].
+- (DR:: 1748-06-04), evening: Retreat mile or so north for the night. Camp. 
+## Narrative
 
 Our session begins at dawn, as the party leaves [[Karawa]] in search of [[Agata's lair]]. Armed with rumors from [[Candrosa]] that the lair was only approachable from the north, but marked by a path lined with dead trees, the party headed south towards [[Bas Udda]]. Here, they spent the night and cached some supplies, before turning south the next morning.
 

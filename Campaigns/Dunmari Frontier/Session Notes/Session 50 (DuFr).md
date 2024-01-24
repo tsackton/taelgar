@@ -7,6 +7,19 @@ DR: 1748-08-24
 DR_end: 1748-08-29
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
+## Timeline
+
+- (DR:: 1748-08-24), afternoon: Sneak to a safe place to rest 15 miles east of Chardon; sleep. Kenzo dreams of Hralgar.
+- (DR:: 1748-08-25), morning. Wellby buys horses at a small market town; Delwath scries. [[Kenzo]], [[Seeker]], and [[Delwath]] hide in the [[Mirror of Soul Trapping]]. Wellby rides as fast as possible, passing [[Metium]] and traveling 70 miles east before stopping at midnight to rest.
+- (DR:: 1748-08-26): Wellby rides 60 miles east. Pass a gray stone monolith about 60 feet high. Sleep.
+- (DR:: 1748-08-27): Ride 45 miles east before a horse throws a muscle; Wellby gives him away to an apricot farmer. Pass Chardonian legion heading east. Camp just east of Erlona, about 210 miles east of Chardon. Fitful night marred by dreams of a spear-wielding shadow creature.
+- (DR:: 1748-08-28), morning: Sell old horses and buy new ones in Erlona.
+- (DR::1748-08-28), afternoon. [[Wellby]] hides in the [[Mirror of Soul Trapping]] while Kenzo rides east. 
+- (DR:: 1748-08-28), evening: Pass the Scar of Shadowfire. Attacked by shadow mastiffs. Two horses and the ladder are frightened by shadows and run, but are relocated after an hour. More nightmares.
+- (DR:: 1748-08-29): Travel only about 30 miles as the horses are tired after the attack and Kenzo struggles to keep them on pace. 
+- (DR:: 1748-08-29), evening: Wellby takes over, rides another 20 miles by midnight. Camp around 320 miles east of Chardon. Try to rest. 
+
+## Narrative
 
 We start as the party takes a brief breather in the shadow of a barn in a field of wheat, about a half-mile south of [[Chardon]], having just fled from [[Fausto]]. During the course of a tense day, [[Wellby]] sneaks upriver and finds a place where the party can sleep, unmolested. The next morning, as dawn comes, the party discusses the situation and decides to ride as fast as possible east, with one person riding at a time while the rest of the party remains in the mirror. While [[Wellby]] heads to the nearby market town to buy horses, [[Delwath]] attempts to scry, first on [[Marcella]] (which fails), and then on [[Fausto]] (which succeeds). [[Fausto]] is finishing breakfast, an invisible servant carrying his dishes away, and then takes out a silver mirror with an elaborate jeweled border decoration, and begins casting scrying. 
 

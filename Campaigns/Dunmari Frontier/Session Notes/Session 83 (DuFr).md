@@ -8,7 +8,7 @@ DR_end: 1749-01-01
 players: [Seeker, Delwath, Kenzo, Wellby]
 tagline: in which the party gains knowledge and hosts a party
 descTitle: Pyravela on Vindristjarna
-title: Dunmari Frontier - Session 83
+name: Dunmari Frontier - Session 83
 ---
 # Dunmari Frontier - Session 83
 

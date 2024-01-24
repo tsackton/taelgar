@@ -7,12 +7,13 @@ realWorldDate: 2022-09-19
 DR: 1748-09-30
 DR_end: 1748-11-02
 players: [Kenzo]
+companions: [Elazar]
 ---
 ## Timeline
 
-- (DR::1748-09-30): Arrive in the jungles far to the east; meet [[Elazar]]; travels to lizardfolk village of [[Bedez]]
+- (DR::1748-09-30) afternoon: Arrive in the jungles far to the east; meet [[Elazar]]; travel to lizardfolk village of [[Bedez]]
 - (DR::1748-10-01) - (DR_end:: 1748-10-25):  Spend time with [[Elazar]] in the village, learning the language and about the spirit realms
-- (DR:: 1748-10-26):  [[Elazar]] guides Kenku on a [[Kenzo Spirit Journey in Bedez|spirit journey]] through the [[Dreamworld]]; [[Kenzo]] learns of different kinds of ki, and seeks the soul of [[Apollyon]], among other journeys
+- (DR:: 1748-10-26): [[Elazar]] guides Kenku on a [[Kenzo Spirit Journey in Bedez|spirit journey]] through the [[Dreamworld]]; [[Kenzo]] learns of different kinds of ki, and seeks the soul of [[Apollyon]], among other journeys
 - (DR:: 1748-10-27) - (DR_end:: 1748-11-01): Kenzo waits in [[Bedez]] for other lizardfolk to gather
 ## Narrative
 

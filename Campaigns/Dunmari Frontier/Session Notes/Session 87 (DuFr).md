@@ -8,7 +8,7 @@ DR_end: 1749-01-16
 players: [Seeker, Delwath, Kenzo, Wellby]
 tagline: in which the party uncovers hidden lore in Erelion
 descTitle: Erelion's Secrets
-title: Dunmari Frontier - Session 87
+name: Dunmari Frontier - Session 87
 ---
 # Dunmari Frontier - Session 87
 

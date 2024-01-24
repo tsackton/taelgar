@@ -8,7 +8,7 @@ DR_end: 1748-12-06
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the secrets are revealed and plans made
 descTitle: Strategic Alliances
-title: Dunmari Frontier - Session 77
+name: Dunmari Frontier - Session 77
 ---
 # Dunmari Frontier - Session 77
 

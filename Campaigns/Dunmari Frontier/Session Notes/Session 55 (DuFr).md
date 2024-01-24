@@ -10,12 +10,13 @@ players: [Delwath, Aristaea, Iascaire]
 ---
 ## Timeline
 
-- (DR:: 1748-10-09):  Arrive in [[Ko'zula]] land in the afternoon, rest until morning.
+- (DR:: 1748-10-09), afternoon: Arrive in [[Ko'zula]] land. Rest.
 - (DR:: 1748-10-06):  Walk all day and night back into the [[Forest of Nightmares]], towards the site of the Battle of Endless Dark
-- (DR:: 1748-10-06):  Arrive at the site of the Battle of Endless Dark around midday. Meet the ghost of a betrayed giant, slain by Deno'qai, learn that the tanshi and a hobgoblin army are trapped through a portal to a shadow realm. Kill [[Hobgoblins]] guarding the portal on the shadow side. Rest, and return to banish the tanshi [[Taraka]] from the shadow realm back to their home plane. Flee, closing the portal with the [[Hobgoblins]] trapped inside. Rest briefly, then leave for the site of the Battle of the [[Yemo'te]]. 
-- (DR:: 1748-10-06):  Arrive at the battlefield on the banks of the [[Yemo'te]]. Fight cursed undead hobgoblin wizard and skeletal minions. Destroy armband, freeing the tanshi [[Midri]] and [[K'onisati]]
-- (DR:: 1748-10-06):  Travel back to [[Ko'zula]] village. Rest in the woods on the way.
-- (DR:: 1748-10-06):  Arrive back at the [[Ko'zula]] village; celebrate. Part ways with [[Iascaire]] and [[Aristaea]]. 
+- (DR:: 1748-10-06), midday: Arrive at the site of the Battle of Endless Dark. Meet the ghost of a betrayed giant, slain by Deno'qai. Learn that the tanshi and a hobgoblin army are trapped through a portal to a shadow realm. Kill [[Hobgoblins]] guarding the portal on the shadow side. Rest, and return to banish the tanshi [[Taraka]] from the shadow realm back to their home plane. Flee, closing the portal with the [[Hobgoblins]] trapped inside. 
+- (DR:: 1748-10-06), afternoon: Rest briefly, then leave for the site of the Battle of the [[Yemo'te]]. 
+- (DR:: 1748-10-06), midday: Arrive at the battlefield on the banks of the [[Yemo'te]]. Fight cursed undead hobgoblin wizard and skeletal minions. Destroy armband, freeing the tanshi [[Midri]] and [[K'onisati]]
+- (DR:: 1748-10-06): Travel back to [[Ko'zula]] village. Rest in the woods on the way.
+- (DR:: 1748-10-06): Arrive back at the [[Ko'zula]] village; celebrate. Part ways with [[Iascaire]] and [[Aristaea]]. 
 
 ## Narrative
 

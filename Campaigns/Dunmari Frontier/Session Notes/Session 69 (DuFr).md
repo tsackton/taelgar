@@ -8,7 +8,7 @@ DR_end: 1748-11-23
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which curses are broken and storms grow wild
 descTitle: Rituals and Revelations
-title: Dunmari Frontier - Session 69
+name: Dunmari Frontier - Session 69
 ---
 # Dunmari Frontier - Session 69
 
@@ -40,7 +40,7 @@ The [[Dunmar Fellowship]] breaks curses afflicting [[Kenzo]] and [[Havdar]], lea
 - (DR:: 1748-11-22): Travel west.
 - (DR:: 1748-11-23), mid-afternoon: Arrive at [[Stormcaller Tower]], spend time planning and scouting with spells. 
 
-### Eudomes’ Mirror:
+### The Mirror of the Past
 - (DR:: 1748-11-15) A vision of [[Cha'mutte’s Shadow Armband]] is seen in [[The Mirror of the Past]]: [[Cha'mutte Armband Vision]] (recharge:: mirror)
 
 ### Divine Inspiration

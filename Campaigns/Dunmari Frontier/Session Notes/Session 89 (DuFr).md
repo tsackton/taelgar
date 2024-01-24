@@ -8,7 +8,7 @@ DR_end: 1749-01-30
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party explores Kharsan and recruits followers
 descTitle: Cleansing Kharsan
-title: Dunmari Frontier - Session 89
+name: Dunmari Frontier - Session 89
 ---
 # Dunmari Frontier - Session 89
 
@@ -16,7 +16,7 @@ title: Dunmari Frontier - Session 89
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Jan 20, 1749 DR to Jan 30, 1749 DR*
 > *On Earth: Thursday Nov 30, 2023*
-> *[[Uzgukhar]] and [[Kharsan]]*
+> *From [[Uzgukhar]] to [[Pava and Avaras' House]] via [[Kharsan]]*
 
 In the aftermath of victory, the [[Dunmar Fellowship]] is honored in [[Uzgukhar]], explores and cleanses [[Kharsan]], and recruits new followers, while contemplating their next move.
 ## Session Info

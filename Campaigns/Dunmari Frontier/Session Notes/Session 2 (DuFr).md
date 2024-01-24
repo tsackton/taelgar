@@ -8,7 +8,7 @@ DR_end: 1748-03-25
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which lizards are defeated and the party heads east
 descTitle: Into the Desert
-title: Dunmari Frontier - Session 2
+name: "Dunmari Frontier - Session 2"
 ---
 # Dunmari Frontier - Session 2
 
@@ -28,7 +28,7 @@ The [[Dunmar Fellowship]] defeats giant lizards at [[Gomat|Gomat Oasis]], uncove
 - Following the lizard tracks east, the party discovers abnormal animal behavior and a canyon with unnatural features.
 - Upon reaching a [[Dunmari Fort (Gomat)|ruined fort]], the party is attacked by skeletons emerging from a disturbed mound, hinting at recent activity.
 ### Timeline
-- (DR::1748-03-22), evening: Kill three giant lizards at the [[Gomat|Gomat Oasis]] and camp for the night
+- (DR:: 1748-03-22), evening: Kill three giant lizards at the [[Gomat|Gomat Oasis]] and camp for the night
 - (DR:: 1748-03-23), morning: Meet [[Akan]] at the [[Gomat|Gomat Oasis]] in the morning, a survivor of the giant lizard attack. After, turn east into the [[Nashtkar]].
 - (DR:: 1748-03-23), late afteroon: Arrive at the [[Daraar Canyon]], camp. 
 - (DR:: 1748-03-24): Cross the [[Daraar Canyon]] heading east into the desert. 

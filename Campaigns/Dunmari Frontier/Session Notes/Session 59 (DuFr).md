@@ -6,7 +6,8 @@ sessionNumber: 59
 realWorldDate: 2022-10-07
 DR: 1748-11-02
 DR_end: 1748-11-06
-players: [Kenzo, Enari, Izzarak]
+players: [Kenzo, Izzarak]
+companions: [Enari]
 ---
 
 ## Timeline

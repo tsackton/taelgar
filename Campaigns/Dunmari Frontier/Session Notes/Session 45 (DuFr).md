@@ -6,7 +6,25 @@ realWorldDate: 2022-05-05
 DR: 1748-07-23
 DR_end: 1748-08-08
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Johar]
 ---
+
+## Timeline
+
+- (DR:: 1748-07-23), night: Flee towards the abandoned mines in the foothills as the ruined town of [[Vandar]] begins to burn in the aftermath of the fight with [[Casian]], [[Kadmos]], and [[Marcella]]. Camp near the entrance to the old copper mines
+- (DR:: 1748-07-24), late morning: Wake after a long sleep. Discuss. 
+- (DR:: 1748-07-24), afternoon: Return to [[Vandar]] to scout. Encounter poison troll, and trap it in the mirror. Return to camp near mines for the evening.
+- (DR:: 1748-07-25): Travel west towards the Darba side of the [[Copper Hills]].
+- (DR:: 1748-07-26): Travel west towards the Darba side of the [[Copper Hills]]. 
+- (DR:: 1748-07-26), evening: Reach the waystation and safe haven of Padma's estate, spend the night. Gather rumors and tales of Darba and report on the death of the wyverns.
+- (DR:: 1748-07-27) - (DR_end:: 1748-07-29): Travel west along the [[Tokra-Darba Road]]
+- (DR:: 1748-07-30): Reach the trade road from Songara, turn southwest towards Darba.
+- (DR:: 1748-07-31) - (DR_end:: 1748-08-08): Travel along trade road towards Darba.
+## Mirror of the Past
+- (DR:: 1748-07-24): Use mirror to look at the [[Ring of Displacement]], seeing the [[Ring of Displacement Vision]]. (recharge:: mirror)
+- (DR:: 1748-08-01): Look at the diamond recovered from [[Agata]] in the mirror, seeing the [[Extravagant Diamond Vision]]. (recharge:: mirror)
+
+## Narrative
 
 We begin as [[Kadmos]], [[Casian]], and [[Marcella]] flee, leaving behind the party – near death – and a fire starting in the ruins of the temple, caused by the fireballs slung by [[Casian]] in the fight. In desperation, the party scrambles to flee to safety, finding shelter near the abandoned mines about a half mile away from the city. Here, they spend the night, getting a much needed rest after the difficulties of the evening. 
 

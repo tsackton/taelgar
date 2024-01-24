@@ -8,6 +8,13 @@ DR_end: 1748-04-24
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
 
+## Timeline
+
+- (DR:: 1748-04-24), late afternoon: Discuss [[Agata]] Dustmother, the gnolls, and the events of the past month with Candrosa, who is distracted, worried, and nervous, especially when the topic of Shakun's protection comes up. 
+- (DR:: 1748-04-24), evening: Discuss the metaphysics of other planes and [[Agata]] Dustmother with [[Tharandros]]. Decide to travel east with [[Havdar]].
+
+## Narrative
+
 We open in a bare room, the party, [[Candrosa]], and [[Alesh]] clustered around a map, discussing the gnolls, what [[Alesh]] found in the south, the events at [[Raven's Hold]], and [[Agata]] Dustmother. The conversation is wide-ranging, touching on many subjects.
 
 The dark magic of [[Agata]], also known as the [[Agata|Old Woman of the Dusts]], is discussed, and how she makes deals that always seem to turn out worse, and darker than expected. So are demons, and how they have little power to reach the world of Taelgar, unless summoned, opening up a portal to allow them through to wreck havoc. While not common these days, many demons fought in the [[Great War]], aiding the armies of [[Cha'mutte]]. 

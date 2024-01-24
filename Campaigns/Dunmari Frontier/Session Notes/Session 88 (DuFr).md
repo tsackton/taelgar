@@ -8,7 +8,7 @@ DR_end: 1749-01-20
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which Grash is defeated and the Ring of Undying is destroyed
 descTitle: The Battle for Uzgukhar
-title: Dunmari Frontier - Session 88
+name: Dunmari Frontier - Session 88
 ---
 # Dunmari Frontier - Session 88
 
@@ -28,10 +28,10 @@ The[[ Dunmar Fellowship]] destroys a trebuchet, defeats [[Grash]], and ends the 
 - [[Wellby]] is killed by [[Grash]] but is resurrected by [[Riswynn]] using a powerful spell and a perfect diamond.
 - With the [[The Siege of Uzgukhar]] broken and [[Grash]] defeated, the party aids in clearing remaining threats and celebrates victory in the [[War of the Cloak]] with the people of [[Uzgukhar]].
 ### Timeline
-- (DR:: 1748-01-17): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
-- (DR:: 1748-01-18): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
-- (DR:: 1748-01-19): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
-- (DR:: 1748-01-20): The party arrives in [[Uzgukhar]] soon after sunrise. [[Riswynn]] rejoins the group. Together, they destroy a massive trebuchet, fight off specters, and kill [[Grash]] in the [[Battle for Uzgukhar]]. [[Wellby]] is killed, and resurrected. The people of [[Uzgukhar]] celebrate survival. 
+- (DR:: 1749-01-17): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
+- (DR:: 1749-01-18): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
+- (DR:: 1749-01-19): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
+- (DR:: 1749-01-20): The party arrives in [[Uzgukhar]] soon after sunrise. [[Riswynn]] rejoins the group. Together, they destroy a massive trebuchet, fight off specters, and kill [[Grash]] in the [[Battle for Uzgukhar]]. [[Wellby]] is killed, and resurrected. The people of [[Uzgukhar]] celebrate survival. 
 ## Narrative
 We begin on [[Vindristjarna]], racing towards [[Uzgukhar]]. The party uses the few days of travel to learn what they can about [[Grash]], and the [[Ring of Undying]], from the various stories collected by [[Kenzo]] and the maps and lore and [[Halflings|halfling]] memories maintained by [[Wellby]]. 
 

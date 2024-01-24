@@ -8,6 +8,12 @@ DR_end: 1748-05-11
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
 
+## Timeline
+
+- (DR:: 1748-05-11), late afternoon: Kenzo and Seeker return and share Kenzo's vision hinting that the Heart of Shakun is missing from Karawa. Explore, learning the history of the Order of the Awakened Soul by controlling the chaotic memories contained in the Hall of Stories. Meet the ghost of Karmana, the last master of the monastery. Learn that Sajan, the keeper of stories, went mad long ago, trapped in evil dreams in the Hall of Stories.
+
+## Narrative
+
 We begin as [[Seeker]] and [[Kenzo]] return to the dining hall where [[Delwath]] and [[Wellby]] have been resting and waiting. [[Kenzo]] looks pale, and is barely walking, leaning on [[Seeker]] and stumbling as they emerge from the hallway. [[Kenzo]] and [[Seeker]] tell the story of the initiation rite: following the hallway, the story of [[Bhishma]] was gradually revealed, from her perspective, using a combination of visuals and sense-impressions of feelings and memories of, seemingly, [[Bhishma]] herself. The passage told the story of the Dunmari arriving in what is now [[Dunmar]], finding it desolate by the curse that ended the [[Drankorian Empire]], and despairing and starving. Then, being saved by [[Jeevali]], who sacrificed herself to cleanse the land, and then [[Bhishma]]’s sacrifice. In the end, there was one question: would you sacrifice yourself for [[Jeevali]]? While [[Kenzo]] answered yes, and died, [[Seeker]] answered no, and awoke, briefly panicking until [[Kenzo]] was brought back and opened his eyes, weak but alive. 
 
 In the afterglow of this initiation, [[Kenzo]] asked [[Bhishma]] about [[Shakun]], and the message he saw was: “She ([[Shakun]]) is here with me ([[Bhishma]]). As always. But cannot reach [[Karawa]]. Something has been taken that should be there. Something that helps her reach the world. Find it and bring it back.” This was accompanied by an image of a [[Heart of Shakun|red ochre stone heart]], rough hewn from rock like that of the [[Red Mesa]] in [[Karawa]]. 

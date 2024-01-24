@@ -8,7 +8,7 @@ DR_end: 1748-03-29
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which the party uncovers dire truths
 descTitle: Shakun's Wane
-title: Dunmari Frontier - Session 4
+name: "Dunmari Frontier - Session 4"
 ---
 # Dunmari Frontier - Session 4
 

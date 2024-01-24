@@ -10,7 +10,7 @@ players: [Wellby, Rufus, Artem Novolozek, Alimash, Shoal]
 ---
 ## Timeline
 
-- (DR:: 1748-10-13): Meet [[Artem Novolozek|Artem]], [[Alimash]], and [[Shoal]] at the Dolphin’s Rest, and learn they are all seeking the lair of the raiders too. Join forces; sail out to sea. 
+- (DR:: 1748-10-13): Meet [[Artem Novolozek|Artem]], [[Alimash]], [[Rufus]], and [[Shoal]] at the Dolphin’s Rest, and learn they are all seeking the lair of the raiders. Join forces; sail out to sea. 
 - (DR:: 1748-10-14): Arrive at lair; fight possessed sharks and enslaved sailors; find and kill aboleth.
 
 ## Narrative

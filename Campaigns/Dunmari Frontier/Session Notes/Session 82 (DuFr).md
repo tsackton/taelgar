@@ -8,7 +8,7 @@ DR_end: 1748-12-30
 players: [Seeker, Delwath, Kenzo, Wellby]
 tagline: in which the party returns to Tollen for Pyravela
 descTitle: Pyravela Festivities
-title: Dunmari Frontier - Session 82
+name: Dunmari Frontier - Session 82
 ---
 # Dunmari Frontier - Session 82
 

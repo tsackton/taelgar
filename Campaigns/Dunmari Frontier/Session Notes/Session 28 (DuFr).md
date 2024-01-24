@@ -6,7 +6,16 @@ realWorldDate: 2021-07-19
 DR: 1748-05-27
 DR_end: 1748-05-29
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
+companions: [Cintra]
 ---
+## Timeline
+
+- (DR:: 1748-05-27), evening: Finally safely reach the canyon floor, with the aid of Cintra's magic and the power of the [[Heart of Shakun]]. Speak with Cintra. Make plans.
+- (DR:: 1748-05-28): Hide in [[Shakun’s Wellspring]]. Cintra tells Samerki that [[Agata]] must bring Jumi here.
+- (DR:: 1748-05-29): Hide in [[Shakun's Realm]], entered via [[Shakun’s Wellspring]]. 
+- (DR:: 1748-05-29), dusk: Emerge from [[Shakun's Realm]], alerted by Jumi. Fight and kill [[Agata]] Dustmother and Samerki. 
+
+## Narrative
 
 The session begins with the party still scattered across various hiding places, as the vaguely human creature known as [[Samerki]] seemingly disappears. However, [[Cintra]] warns the party to stay put, as this creature has, in the past, disappeared for some time to lull interlopers into complacency and then descended again with a blast of cold to freeze and kill them. Sure enough, after some time passes the creature returns, invisible, chasing [[Delwath]]’s shadow and seemingly not noticing anyone else. After a blast of cold air damages but does not kill the shadow, [[Samerki]] grapples it, and flies above the canyon floor to drop it to its death, and then continues to circle, invisible but audible to [[Wellby]]’s sharp ears. As he circles, he taunts [[Cintra]], and makes it clear that he is a servant of [[Agata]] Dustmother.
 

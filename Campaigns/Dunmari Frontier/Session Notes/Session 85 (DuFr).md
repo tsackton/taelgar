@@ -6,14 +6,16 @@ realWorldDate: 2023-09-27
 DR: 1749-01-03
 DR_end: 1749-01-08
 players: [Seeker, Delwath, Kenzo, Wellby]
+companions: [Faldrak Bronzehammer]
 tagline: in which the party traverses treacherous waters and ancient ruins
 descTitle: Edge of Echoes
-title: Dunmari Frontier - Session 85
+name: Dunmari Frontier - Session 85
 ---
 # Dunmari Frontier - Session 85
 
 >[!info] Edge of Echoes: in which the party traverses treacherous waters and ancient ruins
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
+> *Companions: [[Faldrak Bronzehammer|Faldrak]]*
 > *In Taelgar: Jan 03, 1749 DR to Jan 08, 1749 DR*
 > *On Earth: Wednesday Sep 27, 2023*
 > *[[Tollen]] to the [[Edge of Echoes]] in [[Cymea]]*

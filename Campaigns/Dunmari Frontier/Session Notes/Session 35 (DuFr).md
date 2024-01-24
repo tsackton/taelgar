@@ -7,6 +7,14 @@ DR: 1748-07-01
 DR_end: 1748-07-01
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
+## Timeline
+
+- (DR:: 1748-07-01), midday: Speak with Basu, agree to exchange magical energy from ruins for a [[Portable Hole]]. Speak with Kassi, ask for informaiton. 
+- (DR:: 1748-07-01), noon: Leave monastery and get rooms at Kirian's. 
+- (DR:: 1748-07-01), afternoon: Speak with Kaleha, revealing [[Sura]]'s story. Speak with Ardan at the Archives, and learn more about recent events; Govir, the missing archivist; and Hada, the head scribe. Find clues in the form of records of Govir's research.
+- (DR:: 1748-07-01), early evening: Have dinner at Kirian's
+
+## Narrative
 
 The session starts as the party emerges from the [[Elven Arborea Workshop|Elven ruins]] beneath the [[Lakan Monastery]], charged vials full of the energy of the plane of [[Arborea]] in hand. [[Basu]], eagerly waiting, takes the party to his workshop, where he describes various magical items he can construct with this energy, including a very fancy tent he once constructed that looked like just a small patch of canvas but could hold twenty people comfortably. The party decides they want a [[Portable Hole]], and leaves with the promise that [[Basu]] will have it ready in two weeks.
 
