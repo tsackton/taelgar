@@ -7,11 +7,12 @@ realWorldDate: 2022-10-14
 DR: 1748-09-30
 DR_end: 1748-10-12
 players: [Wellby]
+companions: [Wave Dancer]
 ---
 
 ## Timeline
 
-- (DR:: 1748-09-30): Land on the [[Wave Dancer]], which is in the midst of fleeing hobgoblin pirates. Help halflings escape in the night.
+- (DR:: 1748-09-30), afternoon: Land on the [[Wave Dancer]], which is in the midst of fleeing hobgoblin pirates. Help halflings escape in the night.
 - (DR:: 1748-10-01) - (DR_end:: 1748-10-11):  Sail east across the [[Green Sea]] on the halfling trader [[Wave Dancer]]
 - (DR:: 1748-10-12): Arrive at the port of [[Wahacha]] in the Vermillion Archipelago, the islands of the kenku. Speak with [[Makha]], learn about raiders and missing people; learn that two recently kidnapped kenku named [[Skoda]] and [[Nahto]] could point you towards someone who could help you get back to your friends. Spend the night in [[Wahacha]].
 ## Narrative

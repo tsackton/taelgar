@@ -6,12 +6,33 @@ realWorldDate: 2020-12-26
 DR: 1748-04-15
 DR_end: 1748-04-15
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+tagline: in which stars disappear and a giant speaks
+descTitle: Hralgar's Dreamscape
+name: Dunmari Frontier - Session 15
 ---
-## Timeline
-- (DR:: 1748-04-15), late evening: Investigate [[Stormcaller Tower]]. Meet Hralgar, the trapped storm giant, missing his eyes, and speak with him in his dreamscape.
+# Dunmari Frontier - Session 15
+
+>[!info] Hralgar's Dreamscape: in which stars disappear and a giant speaks
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Apr 15, 1748 DR*
+> *On Earth: Saturday Dec 26, 2020*
+> *[[Stormcaller Tower]]*
+
+The [[Dunmar Fellowship]] discovers the trapped storm giant [[Hralgar]] and a statue with missing eyes inside [[Stormcaller Tower]].
+
+## Session Info
+### Summary
+- The [[Dunmar Fellowship]] observes the missing 'Fox and Hunter' constellation and contemplates time and space, wondering if they have been transported into the past.
+- Communicating with [[Stormcaller Tower]] yields a vision of a storm, a robed man, light, and pain.
+- Ascending the tower, they encounter a magical globe guarded by a protective water creature, and find a giant's stone bust missing its [[Hralgar's Eyes|eyes]], with empty sockets for [[Binding Stones|binding stones]].
+- They meet [[Hralgar]], the storm giant, who perceives their tales as future events and believes the year is 5031 in the Dwarven reckoning, more than 800 years ago.
+- [[Hralgar]] mentions the wizard [[Eudomes]] and becomes agitated, leading to the revelation that the party never left the tower, where [[Hralgar]] is physically chained.
+
+### Timeline
+- (DR:: 1748-04-15), late evening: Investigate [[Stormcaller Tower]]. Meet [[Hralgar]], the trapped storm giant, missing his eyes, and speak with him in his dreamscape.
+
 
 ## Narrative
-
 Huddled by the side of a prominence of blue granite jutting out of the plains of [[Dunmar]], surrounded by a small calm spot in the howling storm, [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], and [[Wellby]] contemplate the stars. Specifically, the fact that one of the most prominent constellations in the sky, the [[Fox and Hunter]], is missing, although the rest of the sky does not look much different from what you would expect.
 
 After some puzzled conversation about the nature of time and the stars, [[Seeker]] recalls that he has read several studies of Dwarven scholars that, in other planes, and in particular the mirror realms, the echo realms that reflect and are like and yet unlike the world of Taelgar, time often runs differently. But whether this is such a place is not clear. 
@@ -27,6 +48,7 @@ Caught in blowing gusts of wind, the party begins to explore. Trying to examine 
 Deciding to avoid trying to fight the water snake for now, as lightning crackles along the walls of the tower, and still unsure who or what [[Wellby]] has been telepathically communicating with, the party ventures into [[Stormcaller Tower]]. The room they enter is a large, white marble room, taking up nearly half the space in this floor, decorated only with five white marble pillars topped by empty silver sockets. Stairs to either side lead up and down. Through an archway into another room, there is a eight foot tall bust of a [[Hralgar|giant]], just the shoulders and head, carved in stone. The features are somewhat indistinct, with a flat nose, no hair, a long stretched out face, and elaborately decorated in gold and silver. Where the [[Hralgar's Eyes|eyes]] should be are instead empty sockets, looking like something was removed; similarly, there is a five-pointed stone crown on its head, each point topped with a silver setting, [[Binding Stones|empty]]. 
 
 ![[hralgar-statue.png|400]]
+
 As the crackle of lightning increases, the party decides to head up the stairs, climbing through mist and fog, until they emerge, exiting the tower, onto the side of a rocky, barren mountain. Clouds obscure the land below, but ahead an enormous hall, many times human-sized, stands on the flattened top of the mountain. Large, booming footfalls are coming towards the party from within.
 
 Everyone except [[Wellby]] hides as a giant emerges from the hall. Maybe 25 feet tall, dark gray skin, purple-ish hair tied in a topknot behind his head, dressed in fine silk robes, his appearance only marred by the fact that he is missing both his eyes. He stops on the enormous steps to sit in the sun when [[Wellby]] calls out to him. The giant in turn asks if he is here for omens and stories, and offers information in trade. In the ensuing conversation is becomes apparent that the giant, who’s name is [[Hralgar]], perceives [[Wellby]]’s tales of [[Raven's Hold]] and its history to be in the future, not the past. During the conversation, [[Hralgar]] informs them it is the year 5031 by the true reckoning of time, which would be towards the end of the [[Drankorian Empire]] if this matches Dwarven reckoning of time. 

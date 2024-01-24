@@ -8,7 +8,7 @@ DR_end: 1748-03-25
 players: [Kenzo, Wellby, Delwath, Seeker]
 tagline: in which an old fort reveals its secrets
 descTitle: Fort Investigation
-title: Dunmari Frontier - Session 3
+name: "Dunmari Frontier - Session 3"
 ---
 # Dunmari Frontier - Session 3
 

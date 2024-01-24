@@ -8,6 +8,15 @@ DR_end: 1748-05-24
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 ---
 
+## Timeline
+
+- (DR:: 1748-05-23), evening: Reach Karawa. Speak with centaur patrols. Meet Drikod. Hear story of Cintra and Shakun's Heart from apologetic and floundering Candrosa.
+- (DR:: 1748-05-24): Gather supplies in Karawa
+- (DR:: 1748-05-24), dusk: Ritual of Shakun's Initiation. Seeker notices the mesa is crumbling. Attacked by shadows at conclusion of initiation ritual.
+### Mirror of the Past
+ - (DR:: 1748-05-23): See a vision of broken glassware from Kharsan: [[Kharsan Broken Glassware Vision]] (recharge:: mirror)
+## Narrative
+
 We begin as [[Delwath]], [[Wellby]], [[Kenzo]], and [[Seeker]] approach [[Karawa]] from the south road as the sun begins to sink in the sky, after five days of travel across the desert from [[Pava and Avaras' House]] to the east. As they approach [[Karawa]], a patrol of [[Centaurs|centaurs]] and Dunmari intercept them, glad to see the party return safe from the desert. [[Candrosa]] would urgently like to speak with them, and so the party follows into [[Karawa]]. 
 
 The situation in [[Karawa]] is grim. There have been several more attacks, from undead skeletal gnolls, from wild beasts, from ankhegs, and more [[Centaurs|centaurs]] and [[Dunmar|Dunmari]] have died. What’s more, the messenger send to the Samraat court in [[Nayahar]] has finally returned with the news that the ruler of [[Dunmar]], the Samraat [[Nayan Karnas]], will not commit imperial troops to defend [[Karawa]], and will only commit to a defense of the river [[Hara]], near the city of [[Tokra]]. What’s more, [[Seeker]] notes that the mesa around the [[Temple of Shakun]] seems to be crumbling. 

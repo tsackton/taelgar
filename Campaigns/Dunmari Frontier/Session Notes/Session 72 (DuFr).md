@@ -8,7 +8,7 @@ DR_end: 1748-11-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party confronts an ice maiden
 descTitle: Ice Heart
-title: Dunmari Frontier - Session 72
+name: Dunmari Frontier - Session 72
 ---
 # Dunmari Frontier - Session 72
 
@@ -18,12 +18,12 @@ title: Dunmari Frontier - Session 72
 > *On Earth: Thursday Mar 02, 2023*
 > *[[Hralgar's Palace]] in the [[Sentinel Range|Sentinels]]*
 
-The Dunmar Fellowship learns valuable information from Hralgar and defeats an ice maiden in his ancient palace.
+The [[Dunmar Fellowship]] learns valuable information from [[Hralgar]] and defeats an ice maiden now inhabiting his [[Hralgar's Palace|ancient palace]].
 
 ## Session Info
 ### Summary
 - [[Hralgar]] shares knowledge about the [[Drankorian Empire]], skyships, and powerful magic.
-- He invites the party to journey to his old palace to retrieve a [[Phasing Stone]], and offers lore on volcanoes connected to the elemental [[Elemental Plane of Fire|Plane of Fire]]
+- He invites the party to journey to his old palace to retrieve a [[Phasing Stones|Phasing Stone]], and offers lore on volcanoes connected to the elemental [[Elemental Plane of Fire|Plane of Fire]]
 - [[Hralgar]] parts with the party, granting them a wind blessing for swift travel.
 - The party arrives at [[Hralgar's Palace|Hralgar's ruined palace]] and encounters an ice maiden.
 - After failed negotiations, they battle and defeat the ice maiden and her icy crystal heart.

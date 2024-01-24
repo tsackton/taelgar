@@ -8,7 +8,7 @@ DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the party heads to Raven's Hold
 descTitle: Northward Bound
-title: Dunmari Frontier - Session 7
+name: Dunmari Frontier - Session 7
 ---
 # Dunmari Frontier - Session 7
 
@@ -16,7 +16,7 @@ title: Dunmari Frontier - Session 7
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Apr 07, 1748 DR to Apr 12, 1748 DR*
 > *On Earth: Sunday Aug 16, 2020*
-> *From [[Karawa]] to[[ Raven's Hold]]*
+> *From [[Karawa]] to [[ Raven's Hold]]*
 
 The [[Dunmar Fellowship]] heads north, encountering refugees and [[Centaurs|centaurs]], and survives a gnoll ambush as they approach [[Raven's Hold]].
 

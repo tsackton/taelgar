@@ -6,11 +6,33 @@ realWorldDate: 2020-10-02
 DR: 1748-04-12
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Vola]
+tagline: in which the party breaches Raven's Hold and rescues a prisoner
+descTitle: Infiltration
+name: Dunmari Frontier - Session 10
 ---
-## Timeline
+# Dunmari Frontier - Session 10
 
-- (DR:: 1748-04-12), late afternoon: Cross through tunnels underground to Raven's Hold. 
-- (DR:: 1748-04-12), evening: Kill undead hobgoblins. Kill orc and jackalwere guarding a prisoner. Free Vola, the prisoner. 
+>[!info] Infiltration: in which the party breaches Raven's Hold and rescues a prisoner
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *Companions: [[Vola]]*
+> *In Taelgar: Apr 12, 1748 DR*
+> *On Earth: Friday Oct 02, 2020*
+> *[[Raven's Hold]]*
+
+The [[Dunmar Fellowship]] breaks into Raven's Hold, scouts the surroundings, and rescues a prisoner named [[Vola]] from an orc and jackalweres.
+
+## Session Info
+### Summary
+- The party bypasses a locked gate and navigates through underground tunnels to a storeroom within [[Raven's Hold]].
+- After reconnaissance, the group ambushes and destroys two undead hobgoblins in a disused prison.
+- Scouting reveals gnolls guarding the outpost's entrance and a noisy menagerie of wild animals.
+- [[Kenzo]], invisible, scouts two towers, discovering a Chardonian prisoner guarded by an orc and two jackalweres
+- The party defeats the guards and rescues the prisoner [[Vola]], who is revealed to be a member of the [[Society of the Open Scroll]] seeking artifacts. She shares information about the fey [[Agata|Agata Dustmother]].
+### Timeline
+- (DR:: 1748-04-12), late afternoon: Cross through tunnels underground to [[Raven's Hold]]. 
+- (DR:: 1748-04-12), evening: Kill undead hobgoblins. Kill orc and jackalwere guarding a prisoner. Free [[Vola]], the prisoner. 
+
 
 ## Narrative
 We begin with the party contemplating the locked iron gate. While [[Wellby]] sneaks off to make sure [[Inakara]] is really departing, and see if there is anything else useful to find, the rest of the party tries to get past the gate, eventually resorting to [[Riswynn]] smashing it to pieces with her warhammer. Beyond the gate, a long tunnel leads east, albeit not one of Dwarven construction, according to [[Seeker]]. The tunnel continues at least 1500’, sloping down and then up slightly, before spiraling up in a corkscrew twist and emerging into a small chamber with a hole in the ceiling, leading up. While some iron spikes still in the walls hint that perhaps a ladder of some kind used to hang here, it is long gone. 

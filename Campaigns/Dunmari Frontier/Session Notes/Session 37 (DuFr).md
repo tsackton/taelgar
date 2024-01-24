@@ -8,6 +8,11 @@ DR_end: 1748-07-02
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
 
+## Timeline
+
+- (DR:: 1748-07-02), afternoon: Fight animated statue guards. Explore underground lair of [[Fraternity of the Empty Moon]]. Rescue Govir. Find the dead body of Hada, the head scribe, killed apparently by Govir while in a lycanthropic rage. Kill 10 werewolves, including the leader.
+
+## Narrative
 Our session begins as the party opens the door at the end of the long tunnel, stepping into a room with four grotesque animal statues, all bizarre hybrids: a crab on a lion’s body, a goat head on a snake body, a snake head on a rearing wolf, and a bear-like creature with bat wings and axebeak legs. Although the initial strategy of total darkness fails as the statues can sense intruders in the dark, eventually they are defeated and the party begins to explore the lair.
 
 Stepping through the secret door to a hallway, the party hears two guards, and a brief attempt at diplomacy is thwarted as the guards shift into werewolves as soon as they realize intruders are present. After a brief fight – during which a larger, stronger werewolf steps out from guard duty to join – the party searches the place. They discover a pair of prison cells: [[Govir]] is locked in one, and a [[Hada|recently-deceased body]] is tossed in the other. After [[Govir]] is freed, the party learns he has been imprisoned for a month. The werewolves discovered him snooping around the old ruins of the Drankorian fort guarding a weak point in the world connecting to the plane of [[Pandemonium]], and followed him back to the [[Archives]]. They attacked and stole [[Dunmari map of Pandemonium ruins|the map]], and kidnapped him to explain it. The map shows a path to approach a gash in the center of the ruined fort that leads underground, but the Fraternity has yet to figure out how to interpret this map, for each time they have tried to approach the ruins they have gotten lost, or confused, or dazed and enraged, and have not been able to progress. Why they desire to reach the ruins so much, [[Govir]] did not know. Further questioning revealed that [[Govir]] could not remember last night, but feared he had been transformed and killed and eaten [[Hada]].

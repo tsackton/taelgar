@@ -7,31 +7,31 @@ DR: 1748-04-12
 DR_end: 1748-04-12
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which the party discovers a hidden entrance and faces a cavern creature
-descTitle: Mountain Entry
-title: Dunmari Frontier - Session 8
+descTitle: Under the Mountains
+name: Dunmari Frontier - Session 8
 ---
 # Dunmari Frontier - Session 8
 
->[!info] Mountain Entry: in which the party discovers a hidden entrance and faces a cavern creature
+>[!info] Under the Mountains: in which the party discovers a hidden entrance and faces a cavern creature
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Apr 12, 1748 DR*
 > *On Earth: Thursday Sep 03, 2020*
-> *Dwarven Outpost (Raven's Hold)*
+> *[[Dwarven Outpost (Raven's Hold)|Ruined Dwarven Outpost]]*
 
-The Dunmar Fellowship uncovers a secret mountain passage and combats a roper to gain passage through the Dwarven Outpost.
+The[[ Dunmar Fellowship]] uncovers a secret mountain passage and combats a roper to gain passage through the [[Dwarven Outpost (Raven's Hold)|ruined Dwarven trading post]].
 
 ## Session Info
 ### Summary
-- The Dunmar Fellowship decides to find a hidden mountain route to bypass cursed insanity vines, using Riswynn's maps.
-- Seeker and Wellby locate a series of stones with Dwarven runes, leading to a gorge entrance with an 'enter' inscription.
+- The [[Dunmar Fellowship]] decides to find a hidden mountain route to bypass cursed insanity vines, using [[Riswynn]]'s maps.
+- [[Seeker]] and [[Wellby]] locate a series of stones with Dwarven runes, leading to a gorge entrance with an 'enter' inscription.
 - The party braves the gorge waters, leaving supplies and horses behind, and finds a tunnel blocked by a metal plate.
-- Riswynn triggers a chain mechanism, revealing further passages, a guard room, and illusionary rubble.
-- A secret door opens to a cavern where Inakara and her kind propose an exchange: passage for defeating a cavern creature.
+- [[Riswynn]] triggers a chain mechanism, revealing further passages, a guard room, and illusionary rubble.
+- A secret door opens to a cavern where [[Inakara]] and her kind propose an exchange: passage for defeating a cavern creature.
 - The party engages in combat with a roper, struggling initially but ultimately triumphing by exploiting its limited mobility.
 
 ### Timeline
 - (DR:: 1748-04-12), noon: Find Dwarven back door to the [[Dwarven Outpost (Raven's Hold)]], and enter via tunnel. 
-- (DR:: 1748-04-12), early afternoon: Meet Inakara and the twisted creatures that now make the dwarven output here home. Fight and kill a roper.
+- (DR:: 1748-04-12), early afternoon: Meet [[Inakara]] and the twisted creatures that now make the [[Dwarven Outpost (Raven's Hold)|ruined Dwarven trading post]] here home. Fight and kill a roper.
 
 
 ## Narrative

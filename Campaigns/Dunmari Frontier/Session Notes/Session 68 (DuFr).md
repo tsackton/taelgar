@@ -8,7 +8,7 @@ DR_end: 1748-11-15
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party reunites and shares tales
 descTitle: Reunion
-title: Dunmari Frontier - Session 68
+name: Dunmari Frontier - Session 68
 ---
 # Dunmari Frontier - Session 68
 

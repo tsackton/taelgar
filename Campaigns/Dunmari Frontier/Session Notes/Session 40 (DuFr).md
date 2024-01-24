@@ -7,6 +7,15 @@ DR: 1748-07-03
 DR_end: 1748-07-06
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
+## Timeline
+
+- (DR:: 1748-07-03), noon: Depart Tokra. Travel uneventfully north along the [[Hara]]. 
+- (DR:: 1748-07-03), evening: Camp on the [[~North Tokra Plains~]]. 
+- (DR:: 1748-07-04): Travel north. Meet Kiran, speak of Saka and the Order of the Awakened Soul. Continue north; spend the night on the plains.
+- (DR:: 1748-07-05): Travel north. 
+- (DR:: 1748-07-06), morning: Approach Saka's camp. Meet and speak with Saka, learning more about the [[Order of the Awakened Soul]] and the [[Awakened Soul Disaster]]. 
+
+## Narrative
 
 We begin as the party leaves [[Tokra]] just before lunchtime, finally heading north to look for [[Saka]] on the plains, after seemingly vanquishing the last remnants of the [[Fraternity of the Empty Moon]]. Heading north along the river, the first afternoon of travel is hot, but uneventful, the first night notable only for [[Kenzo]]’s recurrent dreams of being underground, near what sounds like a metal forge, the sound of hammers seemingly keeping him safe from some nameless danger of bloodlust and fear. 
 

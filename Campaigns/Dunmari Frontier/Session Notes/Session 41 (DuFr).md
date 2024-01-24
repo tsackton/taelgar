@@ -8,6 +8,21 @@ DR_end: 1748-07-13
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+ - (DR:: 1748-07-06), early afternoon: Leave Saka's camp. Kenzo gifted scrolls for collecting stories, and Saka urges him to take his duties as a mystai of Bhishma seriously. Travel south to Tokra. 
+- (DR:: 1748-07-07): Travel south to Tokra.
+- (DR:: 1748-07-08): Travel south to Tokra.
+- (DR:: 1748-07-08), evening: Arrive in Tokra. Reunite with Riswynn at Kirian's for dinner. Kenzo listens to Kirian's life story.
+- (DR:: 1748-07-09): Speak with Hardstones and with Govir at the archives. First rains of the monsoon. Speak with Kaleha. Monsoon rains arrive in Tokra. Move to monastery.
+- (DR:: 1748-07-10): Day of Renewal. Spend the night at the monastery.
+- (DR:: 1748-07-11): Speak with Kassi about Rai, dead gods, and [[Yezali]]. Rest at monastery.
+- (DR:: 1748-07-12): Rest at monastery.
+- (DR:: 1748-07-13): Speaker Lara returns. Discuss situation in Dunmar and Sura. Agree to escort Johar to Darba. 
+### Notes
+- [[Research from Kassi]]
+
+## Narrative
+
 We begin as the party finishes their conversation with [[Saka]], and prepares to return to [[Tokra]] after sharing a meal with [[Saka]] and her family. As they depart, [[Saka]] pulls [[Kenzo]] aside, reminding him not to neglect his duties as a Mystai of [[Bhishma]]. She gives him 10 scrolls that can be used to collect the stories of the people of [[Dunmar]], to be stored in the [[Hall of Stories]] at some point in the future. 
 
 The next two days are spent in uneventful travel south back to [[Tokra]], in the hot, dry, weather, arriving the evening of July 8th, and returning to [[Kirian’s]], where they had been staying. Here, they are given messages from [[Govir]] at the [[Archives]], from [[Fallthra Hardstone]], from [[Kassi]] at the [[Lakan Monastery]], from [[Kaleha]], and from [[Riswynn]]. After meeting up with [[Riswynn]] again, the party returns to [[Kirian’s]] for dinner, as clouds form in the sky for the first time in months. After some discussion of what to do with the captured werewolf, [[Kenzo]] listens to [[Kirian]]’s [[Kirian's Story|story]].

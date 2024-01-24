@@ -8,7 +8,7 @@ DR_end: 1749-03-09
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which peace negotiations begin
 descTitle: Diplomatic Ventures
-title: Dunmari Frontier - Session 90
+name: Dunmari Frontier - Session 90
 ---
 # Dunmari Frontier - Session 90
 
@@ -49,9 +49,9 @@ The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [
 - (DR:: 1749-02-16) - (DR:: 1749-03-08): [[Interlude (Tollen Downtime)|Downtime in Tollen]].
 - (DR::1749-03-09): Meet the [[Kenku|kenku]] scout [[Kecha]] on [[Vindristjarna]]. Shadow hunter attack well after midnight. 
 ### Mirror of the Past
-- (DR:: 1748-02-02): The history of [[Nayan Marathu's Letter]] is reveled in [[Nayan Marathu's Letter Vision]] (recharge:: mirror)
-- (DR:: 1748-02-17): The history of magical pale blue dye from Ursk is revealed in [[Magical Pale Blue Dye Vision]] (recharge:: mirror)
-- (DR:: 1748-03-01): The history of a white dragon tooth from Ursk is revealed in [[Cecilia's White Dragon Tooth Vision]] (recharge:: mirror)
+- (DR:: 1749-02-02): The history of [[Nayan Marathu's Letter]] is reveled in [[Nayan Marathu's Letter Vision]] (recharge:: mirror)
+- (DR:: 1749-02-17): The history of magical pale blue dye from Ursk is revealed in [[Magical Pale Blue Dye Vision]] (recharge:: mirror)
+- (DR:: 1749-03-01): The history of a white dragon tooth from Ursk is revealed in [[Cecilia's White Dragon Tooth Vision]] (recharge:: mirror)
 
 ## Narrative
 We begin as the party departs [[Pava and Avaras' House]], heading west to [[Sura]]'s army camp in the [[Copper Hills]], hoping to negotiate a peace between Sura and her brother, Samraat [[Nayan Karnas]]. In Vindristjarna, the journey across Dunmar takes only two days, and the party arrives at Sura's camp on the morning of February 1st.

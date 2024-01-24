@@ -8,7 +8,7 @@ DR_end: 1748-12-08
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which Kadmos is defeated
 descTitle: Palace Attack
-title: Dunmari Frontier - Session 78
+name: Dunmari Frontier - Session 78
 ---
 # Dunmari Frontier - Session 78
 

@@ -8,6 +8,14 @@ DR_end: 1748-08-22
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+- (DR:: 1748-08-21), afternoon: Meet Kaeso. 
+- (DR:: 1748-08-21), evening: Reconnect with Vola at [[The Chapterhouse]], discuss the [[Society of the Open Scroll]]. 
+- (DR:: 1748-08-22), morning: Meet Seeker's colleague Ulfgar Frostbeard, professor on the Faculty of Metaphysics. Learn Galen, a professor of experimental metaphysics, has the Chalice of the Runepriest. 
+- (DR:: 1748-08-22), noon: Meet Dee Wildcloak and Dain Goldhammer for lunch. Learn that Fausto, a rich scholar, has the Eyes of Hralgar. Dee flirts with Wellby.
+
+## Narrative
+
 We begin as the [[Emerald Song]] arrives at [[Chardon]], and the party recalls the two items they looked at in the mirror during the voyage, first the [[Raven Whistle Vision|vision]] of the [[Raven Whistle]], next the [[Chardon Fan Vision|vision]] of [[Agata]]'s [[Chardon Fan]]. 
 
 After a brief discussion about how to approach their time in the city, the party speaks with [[Dani Silversong]], who warns them that magic is regulated, and to be careful. Disembarking separately, the party registers with illegible signatures under the careless eye of the customs’ agent, and then finds tables at a nearby tavern, [[The Salty Squid]], while [[Kenzo]] goes to find [[Kaeso]]. 

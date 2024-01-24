@@ -8,7 +8,7 @@ DR_end: 1748-12-05
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party navigates orcish diplomacy in Xurkhaz
 descTitle: The People of the Rainbow
-title: Dunmari Frontier - Session 76
+name: Dunmari Frontier - Session 76
 ---
 # Dunmari Frontier - Session 76
 

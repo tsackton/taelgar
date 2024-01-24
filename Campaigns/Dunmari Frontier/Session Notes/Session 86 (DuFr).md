@@ -6,14 +6,16 @@ realWorldDate: 2023-10-16
 DR: 1749-01-08
 DR_end: 1749-01-08
 players: [Seeker, Delwath, Kenzo, Wellby]
+companions: [Faldrak Bronzehammer]
 tagline: in which an ancient elemental is freed
 descTitle: Elemental Liberation
-title: Dunmari Frontier - Session 86
+name: Dunmari Frontier - Session 86
 ---
 # Dunmari Frontier - Session 86
 
 >[!info] Elemental Liberation: in which an ancient elemental is freed
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
+> *Companions: [[Faldrak Bronzehammer|Faldrak]]*
 > *In Taelgar: Jan 08, 1749 DR*
 > *On Earth: Monday Oct 16, 2023*
 > *[[Elemental Forge|Drankorian ruins]]*

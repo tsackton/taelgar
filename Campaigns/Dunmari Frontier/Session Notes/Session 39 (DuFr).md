@@ -8,6 +8,13 @@ DR_end: 1748-07-03
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+
+- (DR:: 1748-07-03), dawn: Search for remaining signs of werewolves, returning to the werewolf lair. Follow secret tunnel back to the ruined Drankorian fort. 
+- (DR:: 1748-07-03), morning: Use clairvoyance, and scout area, spotting several guards. Stealthy approach is foiled by unstealthy dwarves. Fight werewolves, forcing two to surrender; suicide of third werewolf summons a cursed avatar of some kind from Pandemonium. Kill it. Interrogate captives. 
+- (DR:: 1748-07-03), late morning: Return with the captives to Tokra. Leave captives with Riswynn; Kenzo, Seeker, Delwath, and Wellby gather gear for the journey north to find Saka. 
+## Narrative
+
 We begin as the party wakes in the pre-dawn light to search for signs of werewolves. Heading back to the lair of the [[Fraternity of the Empty Moon]], the guards there report no disturbances. While all seems quiet, the party decides to exit through the secret tunnel, and perhaps investigate the ruins of the Drankorian fort near the weak point to [[Pandemonium]] on their way north. 
 
 Traveling a few hours from the tunnel exit, with no sign of fresh tracks, they stop to magically spy on the ruins with clairvoyance before approaching any closer than a half-mile vantage point. With [[Seeker]]’s magical eye, the party sees the interior of the one occupied tower, partially ruined but with intact walls, for the most part. There are three people camped here: one is sleeping on a straw mat, one is keeping watch, and one, in ragged clothes and tied to a post with a long rope, is muttering inanities to himself. 

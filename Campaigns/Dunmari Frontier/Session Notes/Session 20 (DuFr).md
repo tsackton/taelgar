@@ -8,6 +8,17 @@ DR_end: 1748-05-05
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
 
+## Timeline 
+
+- (DR:: 1748-05-02), afternoon: Speak with Pava and Avaras about Delwath, Bhishma, the Order of the Awakened Soul, and the Monastery of Bhishma near Kharsan. Delwath's [[Elven Shadow Breastplate|old armor]] is returned. Learn about attempt by Order some 30 years ago to heal the [[Plaguelands]], which failed badly, and none of the masters of the order return from the east. Learn of Saka, a master that did not travel east, now rumored to live north of Tokra.
+- (DR:: 1748-05-02), evening: Have dinner with Avaras, Pava, and Amil. Spend the night at [[Pava and Avaras' House]].
+- (DR:: 1748-05-03), morning: Train with Avaras and Pava. 
+- (DR:: 1748-05-03), afternoon: Leave stone house for Havdar's camp in the desert to the east. 
+- (DR:: 1748-05-04): Travel across the [[Nashtkar]] towards Havdar's camp
+- (DR:: 1748-05-05), early evening: Arrive at Havdar's camp. Help fight off orc attack. 
+
+## Narrative 
+
 We begin at the entrance to [[Pava and Avaras' House]] in the desert, with these two old monks greeting the party, and [[Delwath]] especially with recognition and a note of caution. They welcome the group into their home, and over cool mint tea tell the story of how they found [[Delwath]], wandering, delirious in the desert, dying of thirst, perhaps 30 miles east of their home. He was muttering in a language they did not know, and looked wild, but not willing to leave him to die they brought him to their home. 
 
 Over the course of the afternoon and early evening, while their student [[Amil]] brings tea, [[Pava]] and [[Avaras]] tell their story, and listen to the party. They have lived here for nearly 30 years, and were wanderers for some time before that, and once the desert was, if not exactly safe, much more empty than it is now. They tell of [[Bhishma]], the founder and first Samraat ruler of the Dunmari, whose prayers brought [[Jeevali]] back to life (the event celebrated by the [[Festival of Rebirth]]). Their order is dedicated to her -- she is now deified, as a demigod in the pantheon of the Dunmari -- and has a mission to care for the lost dead and tell the stories of the people of [[Dunmar]]. But they are cautious and not very forthcoming, and ask to hear the party’s story.

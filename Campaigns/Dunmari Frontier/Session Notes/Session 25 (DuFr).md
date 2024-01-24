@@ -8,6 +8,21 @@ DR_end: 1748-05-23
 players: [Kenzo, Wellby, Delwath, Seeker]
 ---
 
+
+## Timeline
+
+- (DR:: 1748-05-13), noon: Spotted by [[Orcs|orcs]] while trying to sneak back to shelter of the Samraat Tombs canyon. Orcs give chase. Ride fast for [[Havdar]]'s camp.
+- (DR:: 1748-05-14): Travel all day towards [[Havdar]]'s camp. 
+- (DR:: 1748-05-14), night: Attacked by shadow trackers, presumably sent by Grash. 
+- (DR:: 1748-05-15): Travel towards Havdar's camp
+- (DR:: 1748-05-15), evening: Arrive at Havdar's camp, find it empty. Resupply and spend the night. 
+- (DR:: 1748-05-16): Travel from Havdar's camp towards [[Pava and Avaras' House]]
+- (DR:: 1748-05-17): Travel towards [[Pava and Avaras' House]]
+- (DR:: 1748-05-17), evening: Arrive at [[Pava and Avaras' House]]. Spend night with [[Pava]], [[Avaras]], and [[Amil]]
+- (DR:: 1748-05-18), morning: Depart [[Pava and Avaras' House]], heading for Karawa.
+- (DR:: 1748-05-19)  - (DR_end:: 1748-05-23): Travel towards Karawa. 
+## Narrative
+
 We begin outside [[Kharsan]], just before noon, as the party is huddled beneath the arches of an old Dunmari bridge over the now-dry [[Kharja]] river, [[Delwath]] having just returned from scouting invisibly in [[Kharsan]]. Pinned down a hundred yards from the shelter of the cliffs on the west side of the riverbank, [[Delwath]] turns himself and [[Seeker]] invisible, while [[Kenzo]] and [[Wellby]] attempt to dash, but the [[Orcs|orcs]] are alerted during the attempt, and horns go up from the [[Orcs|orcs|orc]] fort just south of [[Kharsan]]. With horns blowing and an [[Orcs|orc]] party leaving to investigate, the party forgoes stealth and dashes for their horses, riding hard to put as much ground between them and the following [[Orcs|orcs]] as possible. 
 
 Pushing hard and fast across the desert, and heading directly for [[Havdar]]’s camp to restock their water supplies, the party outdistances the [[Orcs|orcs]]. Taking precautions at night to have light available -- more worried about the shadows [[Grash]] sent than the [[Orcs|orcs]] -- the party makes it a day, a night and another day across the desert without incident. 

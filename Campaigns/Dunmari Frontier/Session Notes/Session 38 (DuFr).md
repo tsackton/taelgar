@@ -8,6 +8,16 @@ DR_end: 1748-07-03
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 ---
 
+## Timeline
+
+- (DR:: 1748-07-02), late afternoon: Search bodies. More werewolves attack. Riswynn and Vistra Fireforge, tracking the werewolves, arrive and join the fight. Kenzo wounded, cured of suspected lycanthropy by Riswynn. Search the lair, finding notes and clues, a [[Dunmari map of Pandemonium ruins]] ,and other treasures, despite setting off a dangerous trap. 
+- (DR:: 1748-07-02), evening: Return Govir to archives. Speak with Kaleha. 
+
+### Notes
+- [[Archives Letter]], a copy of a scroll originally found by the Chardonian historian and explore [[Servius]]
+
+## Narrative
+
 Our session begins with a flashback to [[Govir]], hiding in the basement of the werewolves’ lair, [[Govir's Story|dwelling on the past month]]. 
 
 We return to the adventurers as the party starts to search the bodies and the lair, and inspect their wounds. The search is interrupted by the sounds of something pounding against the door that [[Wellby]] barred shut, and then a crash as a wolf leaps through the window. The wolf is quickly followed by a woman, who starts to shift, and another wolf. As the battle is engaged, two [[Dwarves]] arrive, having been chasing the werewolves. One is a familiar face, [[Riswynn]] . The other is the retired adventurer and now innkeeper of [[The Iron Swan]], [[Vistra Fireforge]], wearing plate armor and carrying a giant maul. After a few moments the final werewolves are dispatched, with the aid of the newcomers.
@@ -30,7 +40,7 @@ After [[Riswynn]] heals [[Kenzo]] of suspected lycanthropy, she goes with [[Well
 
 Finally, at about 4:30 in the afternoon, the party leaves the lair, [[Vistra Fireforge]] remaining behind on guard until [[Kaleha]] can be notified. [[Kenzo]] goes to speak with [[Kaleha]] to let her know of the events of the day, while the rest of the party escorts [[Govir]] back to the [[Archives]], where [[Riswynn]] cures him of his lycanthropy. 
 
-[[Kaleha]] is shocked as she is not sure where the werewolves could have come from, given that anyone bearing [[Jinnik]]’s curse should have been turned away by [[Shakun]]’s protection. She speculates that [[Chardon]] is the source, perhaps unaware, or momentarily forgetting in her shock, that [[Shakun]]’s protection was inoperative for months. She relays rumors from a hundred years ago of werewolves in [[Tokra]], before the protections of [[Shakun]] were complete, and invites [[Kenzo]] to return for dinner with his companions. 
+[[Kaleha]] is shocked as she is not sure where the werewolves could have come from, given that anyone bearing [[Jinnik]]’s curse should have been turned away by [[Shakun's Protection]]. She speculates that [[Chardon]] is the source, perhaps unaware, or momentarily forgetting in her shock, that [[Shakun's Protection]] was inoperative for months. She relays rumors from a hundred years ago of werewolves in [[Tokra]], before the protections of [[Shakun]] were complete, and invites [[Kenzo]] to return for dinner with his companions. 
 
 In the [[Archives]], the party regroups while [[Riswynn]] heals [[Govir]] and [[Delwath]] organizes the papers and notes in the strange language, not able to make much sense of them but translating them for [[Govir]] to interpret later. The notes on the prophecy are a bit clearer, in particular what seems to be someone’s note to themselves: “We must find a way past the Dunmari's maze, and we must find a way to get to the Dunmari city without attracting attention. Maybe the old witch can help, if I can find something to trade worthy of her.” The party also receives a copy of the letter that [[Servius]] found, from [[Ardan]]: [[Archives Letter]].
 

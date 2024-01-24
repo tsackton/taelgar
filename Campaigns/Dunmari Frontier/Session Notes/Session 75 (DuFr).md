@@ -8,7 +8,7 @@ DR_end: 1748-12-04
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party repels an ambush and heads east
 descTitle: Shadow Assault
-title: Dunmari Frontier - Session 75
+name: Dunmari Frontier - Session 75
 ---
 # Dunmari Frontier - Session 75
 
@@ -16,7 +16,7 @@ title: Dunmari Frontier - Session 75
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Nov 29, 1748 DR to Dec 04, 1748 DR*
 > *On Earth: Tuesday Apr 11, 2023*
-> *Traveling to [[Xurkhaz]]*
+> *From [[Stormcaller Tower]] to [[Xurkhaz]]*
 
 The [[Dunmar Fellowship]] successfully defends against shadow attackers, strategizes with allies, and advances eastward towards orc territory.
 

@@ -6,7 +6,16 @@ realWorldDate: 2022-04-14
 DR: 1748-07-23
 DR_end: 1748-07-23
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Johar, Justan, Copper Hill Bandits]
 ---
+
+## Timeline
+
+- (DR:: 1748-07-23), mid-afternoon: Confront [[Kadmos]] and company. Bitter conversation after a short battle that leaves [[Kenzo]] unconscious. Leave to find the wyvern's lair. 
+- (DR:: 1748-07-23), evening: Approach the abandoned town of [[Vandar]]. Find wyvern's lair amid the ruins. Make camp in a partially intact temple.
+- (DR:: 1748-07-23), night: [[Marcella]] attempts to steal the [[Mirror of Soul Trapping]], and is caught. [[Kadmos]] and [[Casian]] join the attack. [[Marcella]] is knocked unconscious and left for dead; bandits are killed. Fight ends in bitter stalemate. Wellby speaks secretly with Marcella. 
+
+## Narrative
 
 We begin as the party faces off against [[Kadmos]] and his companions, with [[Delwath]], [[Wellby]], and [[Riswynn]] charmed by [[Kadmos]]’ magic. [[Kenzo]], enraged by [[Kadmos]]’ actions, rushes forward, avoiding [[Seeker]]’s attempt to defuse the situation by turning him into a bunny rabbit, but running straight into [[Hektor]]’s halberd before he can launch a flurry of blows at [[Kadmos]]. Despite the slashing attack from [[Hektor]], [[Kenzo]]’s staff and fists land true and he nearly knocks [[Kadmos]] unconscious. Unfortunately, though, [[Hektor]] returns the favor, and [[Kenzo]] is taken down by two quick blows with the halberd.
 

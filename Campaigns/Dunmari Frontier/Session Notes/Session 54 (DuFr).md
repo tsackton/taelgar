@@ -10,9 +10,10 @@ players: [Delwath, Aristaea, Iascaire]
 ---
 ## Timeline
 
-- (DR:: 1748-10-06):  Arrive at the hunting camp, meet [[Aristaea]] Mountainhands and [[Iascaire]]
-- (DR:: 1748-10-07):  Set up from camp with [[Aristaea]] and [[Iascaire]] for the [[Forest of Nightmares]]. Arrive at the battlefield of the Battle without Hope. Fight haunted spirits, uncover the location of a shadow armband, destroy it, freeing [[Yalik'i]] and [[Nisir]]. Depart late afternoon, walk through the night.
-- (DR:: 1748-10-08):  Arrive at the site of the Battle of Darkfire in the mid-morning. Remove the armband from the dead body of a massive demon while fighting demonic beasts and trees. Destroy armband, freeing [[Yezali]]. Head back to safety of [[Ko'zula]] land to rest.
+- (DR:: 1748-10-06): Arrive at the hunting camp, meet [[Aristaea]] Mountainhands and [[Iascaire]]
+- (DR:: 1748-10-07): Set off with [[Aristaea]] and [[Iascaire]] for the [[Forest of Nightmares]]. Arrive at the battlefield of the Battle without Hope. Fight haunted spirits, uncover the location of a shadow armband, destroy it, freeing [[Yalik'i]] and [[Nisir]]. 
+- (DR:: 1748-10-07), late afternoon: Depart battlefield of the Battle without Hope. Walk through the night.
+- (DR:: 1748-10-08), mid-morning: Arrive at the site of the Battle of Darkfire. Remove the armband from the dead body of a massive demon while fighting demonic beasts and trees. Destroy armband, freeing [[Yezali]]. Head back to safety of [[Ko'zula]] land to rest.
 
 ## Narrative
 

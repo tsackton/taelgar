@@ -10,10 +10,10 @@ players: [Delwath]
 ---
 ## Timeline
 
-- (DR:: 1748-09-30): Arrive in northern forests, meet hunting party of Deno'qai of the [[Ko'zula]] tribe, spend the night in their camp. 
+- (DR:: 1748-09-30), afternoon: Arrive in northern forests. Meet hunting party of Deno'qai of the [[Ko'zula]] tribe. Spend the night in their camp. 
 - (DR:: 1748-10-01):  Leave camp, travel with a guide named [[Zevi of the Ko'zula|Zevi]] back to the main village of the [[Ko'zula]]
-- (DR:: 1748-10-02):  Travel through the forest with [[Zevi of the Ko'zula|Zevi]], arrive in village, meet the village leader [[Ninu]], learn story of the Meswati, the silent tanshi
-- (DR:: 1748-10-03):   Spend the day in the village
+- (DR:: 1748-10-02): Travel through the forest with [[Zevi of the Ko'zula|Zevi]], arrive in village, meet the village leader [[Ninu]], learn story of the Meswati, the silent tanshi
+- (DR:: 1748-10-03):  Spend the day in the village
 - (DR:: 1748-10-04):  Spend the day in the village
 - (DR:: 1748-10-05):  Leave for hunting camp near the [[Forest of Nightmares]], travel 
 ## Narrative

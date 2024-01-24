@@ -8,7 +8,7 @@ DR_end: 1748-11-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 tagline: in which the party braves the dreamworld to acquire the phasing stone
 descTitle: Dreamworld Quest
-title: Dunmari Frontier - Session 73
+name: Dunmari Frontier - Session 73
 ---
 # Dunmari Frontier - Session 73
 
@@ -18,7 +18,7 @@ title: Dunmari Frontier - Session 73
 > *On Earth: Friday Mar 17, 2023*
 > *[[Hralgar's Palace]] in the [[Sentinel Range|Sentinels]]*
 
-The Dunmar Fellowship navigates the dreamworld, captures the elusive phasing stone, and narrowly avoids freezing to death before returning to their airship.
+The [[Dunmar Fellowship]] navigates the dreamworld, captures the elusive [[Phasing Stones|phasing stone]], and narrowly avoids freezing to death before returning to their [[Vindristjarna|airship]].
 
 ## Session Info
 
@@ -28,7 +28,7 @@ The Dunmar Fellowship navigates the dreamworld, captures the elusive phasing sto
 - [[Seeker]] eats remnants of magical ice; the party enters a mysterious, shifting library
 - The party finds a shifting doorway leading to an endless corridor and an empty throne room.
 - They manipulate the dreamworld with their thoughts, encounter a clockwork cat, and follow a giant hand, before using collective dreaming to capture the [[Phasing Stones|phasing stone]] in the [[Portable Hole]].
-- Having defeated the dream creature [[Kurome]], the party seems to awaken in Hralgar's library
+- Having defeated the dream creature [[Kurome]], the party seems to awaken in [[Hralgar's Palace|Hralgar's library]].
 - Realizing they're still dreaming and slowly freezing to death, they wake up for real and warm themselves before gathering information at Hralgar's library and departing.
 
 ### Timeline
