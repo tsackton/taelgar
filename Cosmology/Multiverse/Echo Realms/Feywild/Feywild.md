@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
 displayDefaults: {defArt: the, wHome: "One of <current>"}
-partOf: Echo Realms
+excludePublish: ["clee"]
+whereabouts: Echo Realms
 typeOf: plane
 ---
 # The Feywild
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The echo realm of the fey, home to the realms of the Archfey and the [[Fey]]

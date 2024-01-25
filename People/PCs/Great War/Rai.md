@@ -1,7 +1,6 @@
 ---
-tags: [pc/greatwar, pc, person, status/needswork]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [pc/greatwar, person, status/needswork]
 name: Rai
 born:
 species:
@@ -9,7 +8,9 @@ ancestry:
 gender: male
 player: David Kong
 ---
-### Rai
+# Rai
+>[!info]+ Biographical Info  
+> (he/him)
 
 Hero of the [[Great War]]. 
 

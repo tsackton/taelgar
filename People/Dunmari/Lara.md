@@ -8,7 +8,7 @@ title: Speaker
 ancestry: Dunmari
 gender: female
 affiliations: 
-- {place: Lakan Mystai}
+- {org: Lakan Mystai, type: leader}
 whereabouts: Lakan Monastery
 ---
 # Speaker Lara

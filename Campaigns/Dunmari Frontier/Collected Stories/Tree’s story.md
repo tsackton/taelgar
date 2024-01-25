@@ -1,7 +1,7 @@
 ---
 tags: [status/unknown]
 ---
-(as told to [[Kenzo]] in [[Session 55-56 (DuFr)]])
+(as told to [[Kenzo]] in [[Session 57 (DuFr)]])
 
 The story of a great tree of the jungles is a long, slow tale. Kenzo listens, and hears the slow ache of a seed waiting to germinate, the long age of darkness that bursts into a vibrant thrill of sunlight. 
 

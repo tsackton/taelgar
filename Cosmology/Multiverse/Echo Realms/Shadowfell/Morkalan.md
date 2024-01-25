@@ -27,5 +27,5 @@ The ash plains:
 ![[morkalan-ash-plains.png|500]]
 
 %%^Date:1748%%
-In August of 1748, the Chalice of the Runepriest was recovered by the dwarf adventurer Riswynn. Through it, she was drawn to the realm of the [[Bahrazel]], the Heart of the Mountain, and sent (with three companions repaying debts to the [[Bahrazel]]) to Morkalan. [[Session 53-54 (DuFr)|Hagrim was defeated ]]and the waters of the Chalice of the Runepriest shattered the fabric of the domain, destroying it. 
+In August of 1748, the Chalice of the Runepriest was recovered by the dwarf adventurer Riswynn. Through it, she was drawn to the realm of the [[Bahrazel]], the Heart of the Mountain, and sent (with three companions repaying debts to the [[Bahrazel]]) to Morkalan. [[Session 56 (DuFr)|Hagrim was defeated ]]and the waters of the Chalice of the Runepriest shattered the fabric of the domain, destroying it. 
 %%^End%%

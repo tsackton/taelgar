@@ -2,18 +2,22 @@
 headerVersion: 2023.11.25
 tags: [dufr/background, person, historical, dufr/aware, status/notes, status/unknown]
 campaignInfo:
-name: Yarad
-born:
+name: Nayan Yarad
 species: human
 ancestry: Dunmari
 gender: male
+died: 1630
 aliases: [Nayan Yarad, Samraat Nayan Yarad]
-title: Samraat Nayan
-affiliations: [{org: Nayan Dynasty, type: primary}]
+title: Samraat
+affiliations: 
+- {org: Nayan Dynasty, type: primary}
+- {org: Dunmar, start: 1603, end: 1630, type: leader}
 ---
 # Samraat Nayan Yarad
 >[!info]+ Biographical Info  
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him), of the [[Nayan Dynasty|Nayan dynasty]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The ruler of [[Dunmar]] during and after the [[Second Hobgoblin War]].
+

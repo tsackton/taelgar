@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [dufr/aware, person, dufr/minor, status/unknown]
 name: Agon
 born: 1694
+activeYear: 1745
 species: human
 ancestry: Chardonian
 gender: male

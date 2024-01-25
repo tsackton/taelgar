@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [pc, person, pc/guest, status/needswork/notes]
 campaignInfo:
 name: Drikod
 born:
@@ -11,6 +10,7 @@ gender: male
 player: John Leeker
 affiliations:
 whereabouts: Kunda
+excludePublish: ["clee"]
 ---
 # Drikod
 >[!info]+ Biographical Info  

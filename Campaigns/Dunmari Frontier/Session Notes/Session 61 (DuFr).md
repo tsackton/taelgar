@@ -1,42 +1,64 @@
 ---
-excludeRooted: ["Clee"]
-tags: [status/unknown]
+tags: [session-note]
+name: Dunmari Frontier - Seeker Solo Session 1 (Prequel)
+campaign: Dunmari Frontier
+sessionNumber: 61
+realWorldDate: 2022-10-24
+DR: 1748-09-30
+DR_end: 1748-10-03
+players: [Seeker]
+tagline: in which Seeker gambles with fate in the Feywild
+descTitle: Dice of Destiny
 ---
+# Dunmari Frontier - Seeker Solo Session 1 (Prequel)
 
-**(Sunday, Dec 4th, 2022; in the [[Feywild]], evening; in Taelgar, Nov 15th)**
+>[!info] Dice of Destiny: in which Seeker gambles with fate in the Feywild
+> *Featuring: [[Seeker]]*
+> *In Taelgar: Sep 30, 1748 DR to Oct 03, 1748 DR*
+> *On Earth: Monday Oct 24, 2022*
+> *Feywild, Fortune's Rest*
 
-Our session begins at Lastlight Falls in the fey realm of [[Amberglow]], where [[Seeker]] has come with the aid of [[Caulaus]], [[Raven]], and [[Spirala]], though [[Raven]] and [[Spirala]] have returned to [[Shimmersong]].  [[Kenzo]] is waiting, and [[Wellby]] arrives shortly afterward. Lastlight Falls is a place close to the [[Cloudspinner]]'s attention, and the session begins with her [[Cloudspinner#^97cec2|memories]]. 
+Seeker navigates the whimsical perils of the Feywild's Fortune's Rest, earning the Prince of Luck's favor through a daring dice game.
 
-![[amberglow-lastlight-falls.png|600]]
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Court of Chance",
+  "tagline": "in which Seeker gambles with fate in the Feywild",
+  "summary": [
+    "Seeker arrives in the Feywild and is turned into a dragonfly by a pixie to meet the Prince of Luck.",
+    "At the Prince's casino-like court, Seeker avoids enchantments, experiences a game mishap, and is blinded by a magical flower.",
+    "Seeker's use of dispel magic attracts the Prince's attention, leading to a dice game where Seeker wins the Prince's favor.",
+    "Seeker agrees to help with a wild magic storm in exchange for permission to travel through Fortune's Rest."
+  ],
+  "short_summary": "Seeker gains the Prince of Luck's favor in the Feywild by gambling with magic and agrees to resolve a wild magic storm.",
+  "location": "Feywild"
+}
+```
+%%
+## Session Info
+### Summary
+- - Seeker arrives in the Feywild, specifically the domain of Fortune's Rest, where flowers transform into butterflies.
+- - A pixie transforms Seeker into a dragonfly to bring him to the Prince of Luck's court, a vast casino.
+- - After some misfortune at the games, Seeker is blinded by a magical flower but dispels the effect.
+- - The Prince of Luck challenges Seeker to a dice game, which Seeker bravely attempts with his own magic dice.
+- - Seeker agrees to aid in resolving a wild magic storm for safe passage through the Prince's domain.
 
-[[Kenzo]] and [[Wellby]] are introduced to [[Caulaus]], which involves a bit of discussion over [[Caulaus]]' evident confusion over the current time. [[Caulaus]] speaks of [[Drankor]], and a battle against dragons, and fleeing. But even after questioning, he remembers little else: his appointment ceremony with [[Helea]], a feast with [[Elves|elves]] perhaps on the frontier somewhere, but no details the party asks after. 
-
-As [[Seeker]], [[Wellby]], and [[Kenzo]] great each other in reunion, attention turns to [[Typhina]], who warns [[Seeker]] telepathically that there are dangers here, and she has enemies. The grove she defended, and the place where she claims she can be resurrected, is near, and she suggests heading there quickly, as [[Wellby]] spies flying creatures in the distance, but closing fast. 
-
-The party sets off at a quick pace, hoping to outrun the creatures, while [[Typhina]] describes the Heartwood Grove and the tree of the essence of wood. However, the creatures gain, slowly but surely, and the party is forced to find a defensible position, recognizing they are harpies. The battle is not that difficult, except that [[Seeker]] is lured and charmed by them, as they keep insisting that he give them [[Agata|Dasoclese]] (which [[Typhina]] says is her name, here, once, long ago). It seems they are seeking revenge against her, for some slight in the distant past. Still, the battle progresses, and as the harpies die one by one, they shift their forms into [[Fey]] women of different forms. As some turn to flee and [[Kenzo]] stuns the rest, the battle ends. 
-
-The party bargins to exchange the answers to three questions, and agreeing not to use her charms or songs on any of them for a day, for the lives of the remaining harpies. From the harpies, they learn that Dasocles is an ancient fey, who once claimed to be a guardian of these parts. The harpies seek revenge on her, for the wrongs she did to their people. And they do not know how to end their curse, except perhaps should the [[Cloudspinner]] return. 
-
-[[Typhina]] explains some of her history with the harpies, and claims not to have cursed them; instead, she simply kept them from the forest as gently as she could (although later relevalations call the true of this into question). 
-
-From here, the party proceeds, crossing the dry riverbed of the River of Time that no longer flows here, and finding the grotto of the nymph [[Melusine]], supposedly an old friend and ally of [[Typhina]].
-
-![[amberglow-nymph-grotto.png|600]]
-
-The party speaks with [[Typhina]] and [[Melusine]], about [[Agata]], and the fey, and [[Ring of the Warded Mind#Typhina's Story|Typhina's story]], but come to no real conclusions and decide to continue to the Heartwood Grove.
-
-The party arrives in the grove, seeing the massive tree before them, and [[Seeker]] steps forward to give the [[Ring of the Warded Mind]] to the tree, when evil laughter begins to echo through the woods. Emerging from the ring, reformed, is not [[Typhina]], but [[Agata]] Dustmother, who has been pretending to be [[Typhina]] for months. 
-
-![[amberglow-heartwood-grove.png|600]]
-
-[[Agata]] greets the party cheerfully, thanking them for the chaos they have caused in her name ("The best civil war is always one where every side believes they are righteous"), and offers to send them back to the material plane. Before she can finish speaking, [[Wellby]] attacks, and the battle is joined. The party, however, has gotten much stronger since they last faced [[Agata]], and she does not present a lethal danger. [[Caulaus]] with his echo deal an incredible amount of damage, including the killing blow, aided by [[Kenzo]]'s stunning strike.
-
-[[Kenzo]] speaks with the elder tree of the grove, asking what is to be done. The grove asks for a new guardian, and [[Caulaus]] agrees to take on the role, until the [[Cloudspinner]] returns and he can make amends for the wrongs he cannot remember. And so [[Agata]] is imprisoned in a tree, a fate she imposed on so many, and the party listens to [[Caulaus]]' story before they leave, which [[Kenzo]] [[Caulaus' Story|records]].
-
-We end the session as the party returns to Lastlight Falls and exits the [[Feywild]] at sunset, to see [[Delwath]] camped, waiting for them on the other side. 
-
-
-
+### Timeline
+- (DR::1748-09-30), afternoon:  [[Seeker]] arrives in the [[Feywild]] realm of Fortune’s Rest
+- **Afternoon, in the feywild**: [[Seeker]] travels to the [[Prince of Luck|Chanceweaver]]’s court; meets the [[Prince of Luck]]; agrees to investigate the wild magic storm in exchange for safe passage across the realm.
 
 
+## Narrative
+We begin as [[Seeker]] arrives in the [[Feywild]], in a meadow of flowers that bloom and unfurl into butterflies as their petals open, taking wing and blowing away. Getting his bearings, with the help of [[Typhina]] and the maps and notes of [[Ulfgar Frostbeard]], from [[Chardon]], [[Seeker]] stands trying to look confident in this strange place. A giggle from nearby turns out to come from a small fairy, a pixie, who warns [[Seeker]] he must have the [[Prince of Luck|Chanceweaver]]’s permission to travel through his domain of [[Fortune's Rest]], and invites him to come to court, by way of polymorphing him into a dragonfly. 
 
+The court itself is a vast, elegant outdoor casino, staffed by beautiful [[Fey]] in white robes, and filled with games of chance of all kinds. A band of satyrs plays a lively tune, and food and drink flow freely. [[Seeker]] wanders, avoiding food and drink and watching the games, until eventually watching a lizard race and deciding to bet. [[Seeker]] bets on one of the losers, and suffers an explosion of black sticky ooze in his face with a rancid, bitter taste as a consequence, but manages to avoid any more severe effects. 
+
+![[prince-of-luck-court.png|500]]
+
+Eventually [[Seeker]] begins to wander towards the palace in the center of the gardens, although it seems difficult to leave the games and [[Seeker]] ends up wandering for some unknown stretch of time before finding himself in a formal garden just outside the palace. The flowers here do not have normal flowers, but rather dense lobes of light of burnished gold, glowing. Somewhat impulsively, [[Seeker]] reaches out and touches one, which bursts in a flash of light, blinding him.
+
+A quick casting of dispel magic removes the blindness, but catches the attention of the [[Prince of Luck]]. The music stops, and he confronts [[Seeker]], but quickly forgives him, and asks him to come tell his story at court. After some back and forth, discussing what [[Seeker]] wants and where he came from, the [[Prince of Luck|Chanceweaver]] offers [[Seeker]] a chance to roll for his favor. [[Seeker]], in a moment of pure chutzpah, decides to use his magic dice to try to win, rolling two six sided dice for a total of thirteen. For a moment it seems as if the [[Prince of Luck|Chanceweaver]] will be angry, but then he decides to reward [[Seeker]] for his attempt. 
+
+We end as [[Seeker]] rests in the [[Prince of Luck|Chanceweaver]]’s court, after agreeing to help resolve the wild magic storm growing on the border of Fortune’s Rest, in exchange for safe passage across the [[Prince of Luck|Chanceweaver]]’s domain. 

@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/unknown]
+activeYear: 1745
 campaignInfo:
 name: Herasto
 species: centaur
 gender: male
 whereabouts:
-- {type: away, location: Voltara Plains, prefix: southern}
+- {type: away, location: Voltara Plains, alias: southern Voltara Plains}
 ---
 # Herasto
 >[!info]+ Biographical Info  

@@ -1,7 +1,12 @@
 async function get_table(input) {
 
-    let yearStart = input.yearStart;
-    let yearEnd = input.yearEnd ?? input.yearStart;    
+    const { NameManager } = customJS
+    const { LocationManager } = customJS
+    const { DateManager } = customJS
+    const { WhereaboutsManager } = customJS
+
+    let yearStart = DateManager.normalizeDate(input.yearStart);
+    let yearEnd = input.yearEnd ?  DateManager.normalizeDate(input.yearEnd) : input.yearStart;
     let pageWhere = input.where ?? (f => true)
     let map = input.map ?? (f => [f.date, f.text, dv.fileLink(f.file)])
     let header = input.header ?? ["Date", "Event", "File"]
@@ -12,11 +17,6 @@ async function get_table(input) {
         includeTravel: input.includeTravel ?? input.includeAll ?? false,
         includePartyMeetings: input.includePartyMeetings ?? input.includeAll ?? false
     };
-
-    const { NameManager } = customJS
-    const { LocationManager } = customJS
-    const { DateManager } = customJS
-    const { WhereaboutsManager } = customJS
 
     let pages = undefined;
     if (input.pageFilter) pages = dv.pages(input.pageFilter.trim());
@@ -141,7 +141,7 @@ async function get_table(input) {
 
         return events;
     }
-    ).where(f => f.year >= yearStart && f.year <= yearEnd).sort(f => f.sort).map(map))
+    ).where(f => f.sort >= yearStart.sort && f.sort <= yearEnd.sort).sort(f => f.sort).map(map))
 }
 
 return await get_table(input);

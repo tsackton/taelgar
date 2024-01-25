@@ -1,5 +1,6 @@
 ---
 tags: [status/unknown]
+excludePublish: ["clee"]
 ---
 FEAT DESCRIPTIONS
 Here are the descriptions of Feats mentioned in

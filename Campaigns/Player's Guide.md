@@ -2,13 +2,15 @@
 tags: [status/unknown]
 ---
 
-This short guide provides an overview to the races of Taelgar, magic and religion, and basic geography, places, and history. It is written loosely from the perspective of an educated commoner in the 1740s, by the  [[Calendar Eras#Drankorian Reckoning|common reckoning of human scholars]], or the 5880s, as the [[Calendar Eras#Dwarven Count of Years|dwarves count the years of the world]]. This is a living document, last updated on **November 1, 2023.**
+This short guide provides an overview to the races of Taelgar, magic and religion, and basic geography, places, and history. It is written loosely from the perspective of an educated commoner in the 1740s, by the  [[Calendar Eras#Drankorian Reckoning|common reckoning of human scholars]], or the 5880s, as the [[Calendar Eras#Dwarven Count of Years|dwarves count the years of the world]]. 
 
->[!caution] The world of Taelgar is free of misogyny, racism, homophobia and gender panics. Characters should be men, women, or something else without fear it will limit their opportunities or that villagers will have historically accurate attitudes. It's a magical place created by the made up gods. Realistic sexism, homophobia, transphobia, and racism is pointless and unfun.
+>[!tip] 
+>The world of Taelgar is free of misogyny, racism, homophobia and gender panics. Characters should be men, women, or something else without fear it will limit their opportunities or that villagers will have historically accurate attitudes. It's a magical place created by the made up gods. Realistic sexism, homophobia, transphobia, and racism is pointless and unfun.
 
-**Taelgar is a world of good and evil, where valiant heroes strive against the forces of darkness, created by evil gods seeking to undo all existence. While there is room in Taelgar for all kinds of stories and many shades of gray, many tales in Taelgar feature unredeemable evil, unambiguous villains, and noble heroes. Taelgar draws inspiration from many sources, especially classic D&D settings, high fantasy, and world history. Magic is rare and powerful, but once was much more common; while [[humans]] dominate much of the world, they live alongside [[dwarves]], [[halflings]], and other  [[species|sentient species]].** 
+Taelgar is a world of good and evil, where valiant heroes strive against the forces of darkness, created by evil gods seeking to undo all existence. While there is room in Taelgar for all kinds of stories and many shades of gray, many tales in Taelgar feature unredeemable evil, unambiguous villains, and noble heroes. Taelgar draws inspiration from many sources, especially classic D&D settings, high fantasy, and world history. Magic is rare and powerful, but once was much more common; while [[humans]] dominate much of the world, they live alongside [[dwarves]], [[halflings]], and other  [[species|sentient species]].
 
->[!info] This document and the links here contain a huge amount of information, representing years of playing and worldbuilding. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The lore of Taelgar grows by the role-playing decisions of its players as much as the world building of its DMs. 
+>[!info] 
+>This document and the links here contain a huge amount of information, representing years of playing and worldbuilding. While you are welcome to browse whatever you like, nothing in this document or in the links that it contains is required reading to play in Taelgar. The lore of Taelgar grows by the role-playing decisions of its players as much as the world building of its DMs. 
 
 ## Geography and Culture
 

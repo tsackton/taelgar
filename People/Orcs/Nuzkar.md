@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, status/needswork]
 name: Nuzkar
 born: 1698
+activeYear: 1740
 gender: female
 species: orc
 pronunciation: NUZ-car
@@ -18,13 +19,14 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how Thark's enslavement works, and how to free more of her people. 
+![[nuzkar-potrait.png|right|320]]An orc scholar, loremaster, and archivist, seeking stories, rumors, and information about other free orcs, about how Thark's enslavement works, and how to free more of her people. 
 
 She has a twin sister, [[Aygul]], as well as a husband and large family in Uzgukhar. 
 
+%%^Date:1748%%
 Inspired by [[Riswynn]] and the [[Battle for Uzgukhar]] to rededicate herself to her childhood dream of doing more for all orcs who suffer, unfree, in Thark's control. 
+%%^End%%
 
-![[nuzkar-potrait.png]]
 %% notes
 ## History
 

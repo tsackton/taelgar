@@ -2,6 +2,9 @@
 tags: [status/needswork/wip, background]
 ---
 
+Those who follow the way of Mos Numena celebrate many holidays and feast days. Some of these, such as [[Pyravela]] are ancient and widely celebrated, but many are local thanksgivings for miracles of the divine. 
+
+
 %% Brainstorming
 
 Probably no more than 5-8 universally recognized Mos Numena feast days. 

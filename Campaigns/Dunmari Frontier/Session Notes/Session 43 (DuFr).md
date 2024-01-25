@@ -1,9 +1,63 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 43
+realWorldDate: 2022-03-25
+DR: 1748-07-19
+DR_end: 1748-07-23
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Johar, Justan, Copper Hill Bandits]
+tagline: in which wyverns are subdued and alliances tested
+descTitle: Ambush and Alliances
+name: Dunmari Frontier - Session 43
 ---
+# Dunmari Frontier - Session 43
 
-**(Friday, March 25th, 2022; in Taelgar, July 19th - July 23rd)
+>[!info] Ambush and Alliances: in which wyverns are subdued and alliances tested
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Jul 19, 1748 DR to Jul 23, 1748 DR*
+> *On Earth: Friday Mar 25, 2022*
+> *Tokra-Darba Road*
 
+The Dunmar Fellowship thwarts a bandit ambush, recruits the bandits, survives a wyvern attack, and confronts charming Chardonians.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Ambush and Alliances",
+  "tagline": "in which bandits become allies and wyverns attack",
+  "summary": [
+    "The party departs from the Crossroads Caravanserai and travels towards Darba.",
+    "They gather rumors of dragons and bandits at Akela Inn; Aagir Mystai refuse to join them.",
+    "Wellby's skill helps avoid a bandit ambush; bandits are subdued and recruited.",
+    "The party is ambushed by wyverns; they lose one bandit but capture a wyvern.",
+    "The Chardonians, led by Kadmos, charm most of the party to hasten negotiations."
+  ],
+  "short_summary": "The Dunmar Fellowship subdues bandits, faces wyvern ambush, and encounters charming Chardonians.",
+  "location": "On the Tokra-Darba Road towards Darba"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship departs the Crossroads Caravanserai and stays at Akela Inn gathering rumors of a dragon and bandits.
+- They ambush bandits preparing to attack them, subdue and recruit them with the promise of money and treasure.
+- The party is attacked by wyverns; they defeat them, capture one in the Mirror of Soul Trapping, and lose one bandit.
+- The Chardonian group, led by Kadmos, encounters the Fellowship and uses charm magic on most of the party.
+
+### Timeline
+- (DR:: 1748-07-19), morning: Depart [[~Crossroads Caravanserai~]] heading towards [[Darba]] on the [[Tokra-Darba Road]]. 
+- (DR:: 1748-07-19): Travel along the Darba Road.
+- (DR:: 1748-07-19), evening: Reach [[Akela Inn]], the last inn on the road before the [[Copper Hills]]. Speak with Amar, the innkeeper. Gather rumors. Spend the night. 
+- (DR:: 1748-07-20): Travel along the [[Tokra-Darba Road]] a fast pace, covering 30 miles of increasingly hilly road. 
+- (DR:: 1748-07-21): Approach the hilly terrain that marks the [[Copper Hills]]. Discover a bandit ambush, and ambush the ambushers. Intimidate and bribe them into fighting the rumored dragon together. Kenzo listens to the story of [[Justan]], the captain of this raiding party. Camp for the night in the midst of the [[Copper Hills]].
+- (DR:: 1748-07-22): Uneventful, but watchful, trek at a slower, more careful pace through the hills. Camp for the evening.
+- (DR:: 1748-07-23), morning: Travel cautiously along [[Tokra-Darba Road]]. 
+- (DR:: 1748-07-23), early afternoon: Find a dead, disembowled horse on the road. Ambushed by two wyverns during the afternoon rains. Kill them, losing one of the bandits to the poison stinger. Approached by Marcella and her Chardonian companions, seeking to purchase or trade magic items. Meet [[Kadmos]], [[Casian]], [[Hektor]], and [[Antonia]]. Wellby, Delwath, and Riswynn are magically charmed by [[Kadmos]].
+
+
+## Narrative
 We begin as the party departs the caravanserai and small settlement at the crossroads where the [[Tokra-Darba Road]] branches west and south from the [[~AncientWestRoad~]]. The first day of travel passes uneventfully, despite the mud and rain, more noticeable now off the ancient Drankorian roads that seem impervious to bad weather.
 
 Towards evening, the party comes to the [[Akela Inn]] and fortification on the road, the last carvanserai until the [[Darba]] hinterlands, more than a hundred miles west. Here, they gather news: rumors of a dragon are everywhere, as are tales of bandits in the [[Copper Hills]]. No travelers have come through for some time, since the messenger who reported the dragon several days ago. One caravan - well guarded - set out west carrying vellum from [[Tokra]] and silk from much further east, but no news has come from either direction since then. While here, the party also speaks with some [[Aagir Mystai]]. The [[Aagir Mystai]] form something of a traveling knighthood of sorts, charged at least in part with keeping the roads safe for trade, and they are waiting for a larger troop to arrive to go sort out the bandits once and for all, and challenge the dragon as well if need be. Although [[Wellby]] attempts to convince them to travel with the party, they refuse, saying they will wait for their companions. [[Kenzo]] then collects [[Amar's Story|the story]] of [[Amar]], the innkeeper. 

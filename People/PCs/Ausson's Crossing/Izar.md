@@ -1,5 +1,5 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [person, pc/aussons, status/needswork/notes]
 name: Izar
 born:
@@ -8,5 +8,5 @@ gender: enby
 player: Kiya Nicoll
 ---
 # Izar
->[!info]+ Biographical Info
-> [[Lizardfolk|lizardfolk]], they/them
+>[!info]+ Biographical Info  
+> A [[Lizardfolk|lizardfolk]] (they/them)

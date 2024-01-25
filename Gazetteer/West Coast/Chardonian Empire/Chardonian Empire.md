@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/notes, status/unknown]
 name: Chardonian Empire
 typeOf: realm
-partOf: West Coast Region
+whereabouts: West Coast Region
 ---
 # The Chardonian Empire
 >[!info]+ Information

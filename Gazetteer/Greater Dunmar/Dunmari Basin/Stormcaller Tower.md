@@ -6,12 +6,13 @@ campaignInfo: []
 name: Stormcaller Tower
 destroyed: 1748-11-23 #check exact date
 typeOf: tower
-partOf: Eastern Dunmar
+whereabouts: 
+- {type: home, location: Samtal, wPastHome: "Ruined <typeOf> <current:3qr>"}
 ---
 # Stormcaller Tower
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Eons ago, lost in the dawn of time when the Firstborn walked the earth and the great empires of giants and dragons and other creatures of myth and legend  stretched across the world, great skyships of the storm giants sailed the skies, powered by [[Phasing Stones]] that could remake reality around them. While a few may remain in distant hidden corners of the world, or travel the skies of other planes, many crashed or were destroyed.

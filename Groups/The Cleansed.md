@@ -1,11 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/notes, status/unknown]
 displayDefaults: {defArt: ''}
 name: The Cleansed
 typeOf: cult
+ancestry: mysterious
 ---
-
 # The Cleansed
+>[!info]+ Information  
+> A mysterious cult  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A mysterious secret society in [[Chardon]] of which [[Fausto]] is a member and seem to be dedicated in some way to Drankorian purity. 
 

@@ -1,10 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Duchy of Maseau
 typeOf: realm
+whereabouts: Greater Sembara
 aliases: [Maseau]
 ---
 # The Duchy of Maseau
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 This land is a borderland and was essentially depopulated during the Great War. It was never a land blessed with rich natural resources, and before the Great War thrived on the trade flowing through the gap in the Mostreve Hills. During the war it suffered significant population loses, and to the extent that it recovered, it was from refugees who fled north from the fall of [[Isingue]] and the [[Istabor Alliance]].
 

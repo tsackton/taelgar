@@ -1,6 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [status/needswork/notes, status/needswork/wip, place]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Drankorian Empire
 aliases: [Drankor]
@@ -11,7 +11,7 @@ timelineDescriptor: Drankorian History
 The Drankorian Empire was a vast, continent-spanning empire that stretched from the [[Endless Ocean]] to the [[Green Sea]] and ruled over much of humanity during the millenia following [[The Downfall]] of [[Hkar]]. The Drankorian Empire was known for its strength in magic; the battle mages of [[Drankor]] not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [[Drankor]] was filled with learned societies, organizations dedicated to magical lore.
 ## History
 
-The Drankorian Empire grew out of the city of Drankor, founded near the mouth of the %% name not yet canonical %% Crescara ("Kres-kah-rah") river, largely by refugees fleeing the destruction of Hkar. From this base, the Drankorians quickly came to rule over the fertile plains along the coast, and the Crescara river valley. In Drankorian reckoning, which dates to the founding of Drankor in 4133 by the dwarven count of years, the following major events summarize the history of Drankor (taken from Cavarrio's Chronicles of Drankor.):
+The Drankorian Empire grew out of the city of Drankor, founded near the mouth of the [[Istaros|Aistanë]] river, largely by refugees fleeing the destruction of Hkar. From this base, the Drankorians quickly came to rule over the fertile plains along the coast, and the Crescara river valley. In Drankorian reckoning, which dates to the founding of Drankor in 4133 by the dwarven count of years, the following major events summarize the history of Drankor (taken from Cavarrio's Chronicles of Drankor.):
 
 - (DR:: 1): The city of [[Drankor]] is founded by refugees from [[Hkar]] fleeing the wars of [[The Downfall]]
 - (DR:: 169): Celadir is proclaimed the first Emperor of [[Drankor]], laying claim to the coastal plains and the rich Crescara river valley.
@@ -67,7 +67,6 @@ Cavarrio's Chronicles of Drankor also records the line of emperors of Drankor, a
 | Lycia (f)                  | Hkar             | died in battle                                                                                              | 1006       | 1007     |
 | Calemna (m)                | Hkar             | died in battle                                                                                              | 1007       | 1011     |
 | Apollyon (m)               | Hkar             | Last Emperor of Drankor                                                                                                            | 1011       | 1059     |
-
 
 %% notes
 Eiphis the blind - founded University of Chardon, perhaps was overly focused on academic subjects and ignored the signs of the growing power of the Omnis Pura

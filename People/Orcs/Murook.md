@@ -5,6 +5,7 @@ campaignInfo:
 - {campaign: DuFr, date: 1749-12-10, type: met}
 name: Murook
 born: 1716
+activeYear: 1735
 species: orc
 ancestry:
 gender: female

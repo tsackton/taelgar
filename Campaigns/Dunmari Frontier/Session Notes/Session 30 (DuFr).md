@@ -1,10 +1,63 @@
 ---
-excludeRooted: ["Clee"]
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 30
+realWorldDate: 2021-09-10
+DR: 1748-06-01
+DR_end: 1748-06-04
+players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
+companions: [Garret Tealeaf]
+tagline: in which the party outsmarts magical traps
+descTitle: Agata's Enchanted Lair
+name: Dunmari Frontier - Session 30
 ---
+# Dunmari Frontier - Session 30
 
-**(Friday, Sept 10th, 2021; in Taelgar, June 1st to June 4th)
+>[!info] Agata's Enchanted Lair: in which the party outsmarts magical traps
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Drikod]]*
+> *In Taelgar: Jun 01, 1748 DR to Jun 04, 1748 DR*
+> *On Earth: Friday Sep 10, 2021*
+> *Agata's lair and nearby canyon*
 
+The Dunmar Fellowship navigated magical defenses and looted Agata's lair, rescuing enchanted victims and retreating to plan their next move.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Agata's Enchanted Lair",
+  "tagline": "in which the Dunmar Fellowship outwits magical traps",
+  "summary": [
+    "The party leaves Karawa, caches supplies in Bas Udda, and heads south.",
+    "They avoid a battle and fly over deadly trees to reach Agata's lair.",
+    "A magical obsidian fly attacks them but is subdued and turned back into a sculpture.",
+    "Seeker dispels a scarecrow's enchantment, revealing it to be a trapped halfling.",
+    "Several members vanish into a Mirror of Soul Trapping but are eventually freed.",
+    "The fellowship loots valuable items and discovers a fleshy creature in the bedroom.",
+    "They escape with treasure and rescue one more person trapped in furniture."
+  ],
+  "short_summary": "The Dunmar Fellowship navigates magical defenses at Agata's lair, loots treasures, and rescues enchanted prisoners before retreating to safety.",
+  "location": "on the road between Karawa and Agata's lair"
+}
+```
+%%
+## Session Info
+### Summary
+- The Fellowship left Karawa, cached supplies in Bas Udda, and located Agata's lair.
+- Using various flying methods, they bypassed a line of dead trees and an enchanted Obsidian Fly.
+- At the lair, they dispelled a scarecrow's enchantment, freeing a trapped halfling.
+- They overcame a Mirror of Soul Trapping, freeing trapped members and looting treasures.
+- The party retreated to a nearby canyon with their loot, planning to return after preparing.
+
+### Timeline
+- (DR:: 1748-06-02): Travel from Karawa towards Bas Udda.
+- (DR:: 1748-06-03): Arrive in Bas Udda. Spend the night.
+- (DR:: 1748-06-04), morning: Leave Bas Udda heading south, looking for [[Agata's lair]]. 
+- (DR:: 1748-06-04), midday: Loot [[Agata's lair]].
+- (DR:: 1748-06-04), evening: Retreat mile or so north for the night. Camp. 
+
+
+## Narrative
 Our session begins at dawn, as the party leaves [[Karawa]] in search of [[Agata's lair]]. Armed with rumors from [[Candrosa]] that the lair was only approachable from the north, but marked by a path lined with dead trees, the party headed south towards [[Bas Udda]]. Here, they spent the night and cached some supplies, before turning south the next morning.
 
 Scouting by [[Drikod]] and [[Wellby]] identified the line of trees. [[Delwath]] sent his shadow to investigate, which did not return, but [[Wellby]] caught the sounds of battle on the wind. Deciding that there must be a better way to approach, and pooling their resources, the party managed to fly across the line of trees, using a boulder animated by [[Seeker]]’s magic, plus [[Delwath]]’s fly spell, and [[Drikod]]’s ability to turn into a small animal to ride along. But not before attempting to use [[Agata]]’s [[Obsidian Fly]], which turned out to attack them, and apparently was enchanted somehow by [[Agata]] to attack anyone besides her that summoned it. After a brief melee, during which the fly is whacked by [[Kenzo]] and grappled by [[Seeker]]’s earthen hand, [[Seeker]] succeeds in using the fly’s command word to turn it back into an obsidian sculpture.

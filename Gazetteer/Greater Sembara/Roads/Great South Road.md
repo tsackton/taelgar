@@ -1,12 +1,13 @@
 ---
-tags: [place, status/notes, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/notes, status/stub]
 campaignInfo: []
 displayDefaults: {prep: on}
 name: Great South Road
 typeOf: road
 partOf:
 ---
-# Great South Road
+# The Great South Road
 
 %%  notes
 

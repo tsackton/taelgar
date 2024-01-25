@@ -33,6 +33,4 @@ Seemed to have mixed feelings about [[Kadmos]] actions to charm the party in [[S
 As far as you know, still traveling with [[Kadmos]]. 
 %%^End%%
 
-
-
 %%SECRET[1]%%

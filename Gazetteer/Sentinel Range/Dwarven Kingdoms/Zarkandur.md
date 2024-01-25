@@ -1,17 +1,16 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo: []
 name: Zarkandur
 ancestry: dwarven
 typeOf: city
-partOf: Am'khazar
+whereabouts: Am'khazar
 ---
 # Zarkandur
->[!info]+ Information
-> A city in [[Am'khazar]], [[Sentinel Range|Labkhan]], [[Central Highlands Region]]
-
-
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 ## Overview 
 
 **Location**: In the kingdom of Am’khazar, on the western edge of the [[Sentinel Range]], deep underground.

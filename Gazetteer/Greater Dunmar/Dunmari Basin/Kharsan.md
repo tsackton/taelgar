@@ -1,14 +1,20 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
+displayDefaults: {dPast: ""}
+destroyed: 1545
+ancestry: Dunmari
 name: Kharsan
 typeOf: city
-subTypeOf: ruined
-partOf: Garamjala Desert
+whereabouts: 
+- {type: home, end: 1544, location: Dunmar, wOrigin: "Originally part of <origin:1><(, )endstatus> <(in )enddate>" }
+- {type: home, start: 1545, location: Garamjala Desert, wPastHome: "Ruined <ancestry> <typeOf> <home:2qr>" }
 ---
 # Kharsan
->[!info]+ Information
-> A ruined city in the [[Garamjala Desert]], [[Nashtkar]], the [[Desolation of Cha'mutte]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Once a major Dunmari city, now a ruin. At one point, was controlled by the undead warrior [[Grash]], until his defeat at the [[Battle for Uzgukhar]]. 
 

@@ -5,8 +5,7 @@ displayDefaults: {defArt: the}
 campaignInfo:
 name: Elderwood
 typeOf: forest
-partOf: Ainumarya
-aliases:
+whereabouts: Ainumarya
 ---
 # The Elderwood
 >[!info]+ Information

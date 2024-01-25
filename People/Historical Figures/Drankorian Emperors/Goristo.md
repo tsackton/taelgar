@@ -1,5 +1,5 @@
 ---
-tags: [person, status/unknown]
+tags: [person, status/unknown, historical]
 title: Emperor
 ---
 

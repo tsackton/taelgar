@@ -3,7 +3,7 @@ tags: [status/unknown]
 ---
 (minor item, uncommon)
 
-Acquired by Delwath in the Te'kula village in the Elderwood, from an unknown origin. 
+Acquired by Delwath in the [[Te'kula]] village in the Elderwood, from an unknown origin. 
 
 This small pouch is about the size of a large coin purse but is stitched with motifs of plants, animals, and spices. When open, it gives off an aroma of freshly cooked food, which varies each time it is opened: a stew one day, frying onions the next, baking bread, and so on. This pouch has three magic abilities:
 

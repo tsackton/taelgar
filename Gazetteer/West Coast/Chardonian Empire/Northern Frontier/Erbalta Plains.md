@@ -1,5 +1,5 @@
 ---
-tags: [place, status/namecheck, status/unknown]
+tags: [place, status/namecheck, status/stub]
 typeOf: plains
 partOf: Chardonian Empire
 ---

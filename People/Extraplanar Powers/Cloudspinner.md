@@ -19,7 +19,9 @@ whereabouts:
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 
-Her memories opened [[Session 61 (DuFr)]]: ^97cec2
+%%^Campaign:DuFr%%
+
+Her memories opened [[Session 67 (DuFr)]]:
 
 *As a group of travelers gathers here, some reunited after a long separation, others newly met, the Cloudspinner feels their presence even from her prison, far away, and she drifts in thought.
 
@@ -33,5 +35,6 @@ Her memories opened [[Session 61 (DuFr)]]: ^97cec2
 
 *So she watches, and she waits, and she hopes, for the day when she will be free, and when [[Amberglow]] will once again be a realm of beauty and wonder. Until then, she will continue to fight, and to dream, and to hold onto the memory of what once was, and what could be again.
 
-*And our story fades from the Cloudspinner, and turns now to the travelers at Lastlight Falls, who may yet have a small role to play in the story of [[Amberglow]].
+*And our story fades from the Cloudspinner, and turns now to the travelers at [[Lastlight Falls]], who may yet have a small role to play in the story of [[Amberglow]].
 
+%%^End%%

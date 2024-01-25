@@ -1,16 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person]
+displayDefaults: { endStatus: "killed by [[Mezzar|Grimbaskal]] on"}
 campaignInfo: []
 name: Zevi
 born:
 species: human
 ancestry: Deno'qai
 gender: male
-died: 1748
-whereabouts:
-- {type: home, start: '', end: '', location: Elderwood}
+died: 1748-09-06
+whereabouts: Elderwood
+activeYear: 1745
 ---
 # Zevi
 >[!info]+ Biographical Info  
@@ -18,6 +18,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A scout and warrior of the [[Bek'eni]]. Part of the patrol that originally found the party in the [[Elderwood]]. 
+A scout and warrior of the [[Bek'eni]]. 
 
-Accompanied the party back to the God tree to meet [[Mezzar]], and killed by [[Mezzar|Grimbaskal]]'s breath weapon after [[Mezzar]] dropped his elven form. 
+%%^Campaign:DuFr%%
+Part of the patrol that originally found the party in the [[Elderwood]].  Accompanied the party back to the God tree to meet [[Mezzar]], and killed by [[Mezzar|Grimbaskal]]'s breath weapon after [[Mezzar]] dropped his elven form. 
+%%^End%%

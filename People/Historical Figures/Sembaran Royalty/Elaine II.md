@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Elaine II
 born: 1673

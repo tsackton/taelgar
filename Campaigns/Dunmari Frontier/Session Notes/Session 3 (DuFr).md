@@ -1,9 +1,36 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 3
+realWorldDate: 2020-07-02
+DR: 1748-03-25
+DR_end: 1748-03-25
+players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which an old fort reveals its secrets
+descTitle: Fort Investigation
+name: "Dunmari Frontier - Session 3"
 ---
+# Dunmari Frontier - Session 3
 
-**(Thursday, July 2nd, 2020; in Taelgar, mid-morning March 25, to morning March 26)**
+>[!info] Fort Investigation: in which an old fort reveals its secrets
+> *Featuring: [[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]]*
+> *In Taelgar: Mar 25, 1748 DR*
+> *On Earth: Thursday Jul 02, 2020*
+> *[[Dunmari Fort (Gomat)]]*
 
+The [[Dunmar Fellowship]] explores a [[Dunmari Fort (Gomat)|ruined fort]], battles creatures, and uncovers magical items while putting an end to a curse.
+## Session Info
+### Summary
+- The [[Dunmar Fellowship]] finds an old, disturbed campsite outside a ruined fort.
+- Inside the fort, they encounter and defeat a giant insect-like creature, an ankheg.
+- They discover a temple dedicated to the [[Five Siblings]] and a magical silver spearpoint inside.
+- Exploration of the fort's towers uncovers a magical horn and the remains of an ancient scout.
+- In the cave below, they find a petrified explorer and a magical [[floating disc coin]], confront a cockatrice nursery, and battle an undead creature.
+- A cursed obsidian stone is destroyed, ending the beastly rampage.
+### Timeline
+- (DR:: 1748-03-25), afternoon: Explore [[Dunmari Fort (Gomat)|the ruined fort]] and the caves below. Find a petrified explorer (later revealed to be [[Arcus]]). Find and defeat an undead creature carrying a symbol of [[Cha'mutte]]. Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage. 
+- (DR:: 1748-03-25), evening: Make camp and rest in the Dunmari temple at the fort.
+## Narrative
 The party decided to explore a little more before entering the ruined fort, and discovered a campsite in the foundations of the outbuildings outside the fort. The camp itself was several days to several weeks old, and had clearly been disturbed by animals (signs of scattered food -- salt pork and dried fish and the like that had been partially eaten by animals). Whoever made the camp had left most of their stuff, except weapons and water, and went somewhere. 
 
 After investigating the camp, the party decided to follow the tracks up the causeway into the fort. Inside, only three buildings still had walls: a central headquarters building, a five-sided temple (which retained a metal roof), and two towers guarding the entryway. In addition, there was an empty cistern, cracked at the bottom. 
@@ -19,4 +46,3 @@ Taking the horn and the continual flame spearpoint, the party descended down int
 Continuing to explore, the party found what seemed to be a cockatrice nursery, where they found a lion that was continually turning into stone and then back into flesh, while several cockatrice babies pecked at it, or each other, or some large mottled eggs nestled against a muddy pit. Sneaking back unnoticed, they decided to explore the other passageway. After leading under the cracked cistern, the passage opened into a larger cavern, where three skeletons attacked, soon followed by an undead [[Hobgoblins|hobgoblin]], carried a [[Black Iron Staff]] with a smooth obsidian stone mounted to the top. After defeating the undead, the party realized the obsidian staff must be the source of the abnormal beasts, and managed to destroy it, using both the enchanted spearpoint and a shadowy blade [[Delwath]] summoned into his hand, aided by [[Seeker]]’s insight into a hidden flaw and weak point in the crystal. While the obsidian seemed to resist non-magical damage, a few blows were enough for it to shatter, and calm to prevail, although at the cost of some damaging psychic backlash.
 
 As peace and calm permeated the area after the destruction of the obsidian, the party spent a quiet, restful night in the temple.
-

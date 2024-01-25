@@ -1,28 +1,27 @@
 ---
 headerVersion: 2023.11.25
 tags: [historical, dufr/background, person, dufr/aware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
-name: Jita
+name: Dharajun Jita
 born: 1386
-reignStart: 1402
 species: human
 ancestry: Dunmari
 gender: female
 aliases: [Samraat Jita]
-title: Samraat Dharajun
+title: Samraat
 died: 1460
-affiliations: [Dharajun Dynasty]
-leaderOf: [Dunmar]
+affiliations: 
+- {org: Dharajun Dynasty, type: primary}
+- {org: Dunmar, start: 1402, type: leader}
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Tokra}
 ---
 # Samraat Dharajun Jita
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (she/her), of the [[Dharajun Dynasty|Dharajun dynasty]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The founding ruler and Samraat of the Dharajun dynasty, associated with [[Chidya]] and often called the dynasty of the horse. 

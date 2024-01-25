@@ -12,4 +12,4 @@ typeOf: battle
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > A battle in the [[War of the Cloak]], fought on January 20th, 1749
 
-The final battle of the War of the Cloak, fought by the [[People of the Rainbow|orcs of Xurkhaz]] and the [[Dunmar Fellowship]] against the armies of [[Grash]]. A [[Session 82 (DuFr)|victory]] for the Dunmar Fellowship and their allies. 
+The final battle of the War of the Cloak, fought by the [[People of the Rainbow|orcs of Xurkhaz]] and the [[Dunmar Fellowship]] against the armies of [[Grash]]. A [[Session 88 (DuFr)|victory]] for the Dunmar Fellowship and their allies. 

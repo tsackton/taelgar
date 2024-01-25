@@ -7,6 +7,7 @@ born:
 species: human
 ancestry: Dunmari
 gender: female
+excludePublish: ["clee"]
 ---
 # Kaya
 >[!info]+ Biographical Info  

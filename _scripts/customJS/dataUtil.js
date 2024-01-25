@@ -1,5 +1,23 @@
 class DateManager {
 
+    DR_MONTHS = {
+        1: 'January',
+        2: 'February',
+        3: 'March',
+        4: 'April',
+        5: 'May',
+        6: 'June',
+        7: 'July',
+        8: 'August',
+        9: 'September',
+        10: 'October',
+        11: 'November',
+        12: 'December'
+    }
+
+    #getNameForMonth(month) {
+        return this.DR_MONTHS[month]
+    }
 
     setPageDateProperties(pageDates, targetDate) {
 
@@ -127,8 +145,7 @@ class DateManager {
 
     #getDisplayForDaysSinceCreation(daysSinceCreation, dateFormat) {
 
-        let currentFantasyCal = FantasyCalendarAPI.getCalendars()[0];
-        let convertedDays = 0
+         let convertedDays = 0
 
         if (dateFormat == "DR") {
             convertedDays = daysSinceCreation - this.DROneDays
@@ -154,8 +171,13 @@ class DateManager {
 
                 remaining -= daysInThisMonth
             }
-            let date = { year: year, month: month - 1, day: day };
-            return FantasyCalendarAPI.getDay(date, currentFantasyCal).displayDate;
+          
+            let dayString = day + "th"
+            if (day == 1) dayString = day + "st"
+            else if (day == 2) dayString = day + "nd"
+            else if (day == 3) dayString = day + "rd"
+
+            return this.#getNameForMonth(month) + " " + dayString + ", " + year
         }
 
 
@@ -207,7 +229,7 @@ class DateManager {
                 year = parseInt(splitString[0])
                 month = parseInt(splitString[1])
                 days = isEnd ? 1 : this.#getDayInMonth(month)
-                display = FantasyCalendarAPI.getCalendars()[0].static.months[month - 1].name + " " + splitString[0];
+                display = this.#getNameForMonth(month) + " " + splitString[0];
 
             } else if (splitString.length == 1) {
 
