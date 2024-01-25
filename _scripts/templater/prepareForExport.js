@@ -123,6 +123,7 @@ async function prepareForExport(tp, headerType) {
 
     if (staticify_dataview) {
 
+        processed = 0
         var notice = new Notice("Making DataView queries static", 0)
         for (let i = 0; i < files.length; i++) {
 
