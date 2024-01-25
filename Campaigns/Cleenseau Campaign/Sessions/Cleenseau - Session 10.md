@@ -19,9 +19,7 @@ players: [Izgil, Robin, Viepuck, Celyn]
 
 ### Rumors and Information
 
-* [[Ida Rosfeld]] arrives in town on January 10th, bearing the news that the [[Army Garrison of Cleenseau]] had left [[Dunfry]] two weeks ago, and was attacked by a large force of zombies along the [[Old West Road]] on January 6th. Half the garrison was killed.
-
-The session begins 
+* [[Ida Rosfeld]] arrives in town on January 10th, bearing the news that most of the [[Army Garrison of Cleenseau]] had left [[Dunfry]] two weeks ago, and was attacked by a large force of zombies along the [[Old West Road]] on January 6th. Half the garrison was killed.
 
 %% Raw notes
 

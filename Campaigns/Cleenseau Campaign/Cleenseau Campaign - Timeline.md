@@ -62,6 +62,7 @@ tags: [timeline]
 * January 4th: The party investigates [[Duncan Rivers]] missing ale and finds a secret tunnel under the [[The Crossroads Inn]], [[Izgil Moonseeker|Izgil]] researches [[Archfey Ethlenn]]
 * January 5th: [[Celyn]] looks for fey; [[Izgil Moonseeker|Izgil]] continues his research; [[Robin of Abenfyrd|Robin]] organizes defenses in [[Taviose]] and [[Aulout]]
 * January 6th, morning: [[Robin of Abenfyrd|Robin]] learns of [[Beatrix of Cleenseau|Béatrix's]] impending miscarriage, and the party is attacked by zombies outside the midwife [[Margaret Ashford|Margaret's]] house
+* January 6th: [[Ida Rosfeld]] and the [[Army Garrison of Cleenseau]] are beset on the road from [[Dunfry]] and take heavy losses
 * January 6th, afternoon: The party investigates [[Cedric|Cedric's]] disappearance 
 * January 6th, evening: The party meets with [[Marigold Stonebridge]] and discusses history
 * January 7th, morning: The party enters the secret ruined fort under Cleenseau
