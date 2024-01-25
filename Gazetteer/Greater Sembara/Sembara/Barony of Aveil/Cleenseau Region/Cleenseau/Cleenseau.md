@@ -64,7 +64,7 @@ Three paths lead through the town:
 
 In the center of the town, the Essford Manor stands on an acre of raised land surrounded by its own wooden palisade. Outside the walls of the manor is a small square with a large cistern fed by an underground pipe system drawing water from the Enst. A further pipe system brings running water to some of the richer houses in the South Close, including the Essford Manor and the [[The Crossroads Inn]]. 
 
-There are four gates into the walled city: the North Gate, the Market Gate (in the east), the Garrison Gate (in the east, opening to the garrison  itself), and the River Gate (in the south, the main gate). All the gates are locked at night and staffed during the day by the lord’s household guard. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [[Army of the West]].
+There are four gates into the walled city: the North Gate, the Market Gate (in the east), the Garrison Gate (in the east, opening to the garrison  itself), and the River Gate (in the south, the main gate). All the gates are locked at night and staffed during the day by the lord’s household guard. Passage in and out of the city is unrestricted, but carrying weapons or wearing masks is not allowed save for members of the lord’s household or the [[Army of the West]], per the order of the [[Essfords|Essfords]]. (There is no standing law in [[Sembara]] preventing commoners from carrying weapons).
 
 On the south bank of the Enst, across the bridge, stands a large ruined garrison, the walls still standing but the roof collapsed, a reminder of a by-gone age when this was a major highway between the [[Istabor Alliance]] and [[Sembara]]. 
 

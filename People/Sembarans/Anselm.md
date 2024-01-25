@@ -17,4 +17,4 @@ affiliations: [{org: Lord's Council of Cleenseau}]
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[anselm-portrait.png|right|320]]The temple administrator of the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] in [[Cleenseau]]. An amibitious man and not very religious.
+![[anselm-portrait.png|right|320]]The temple administrator of the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] in [[Cleenseau]]. An ambitious man and not very religious.
