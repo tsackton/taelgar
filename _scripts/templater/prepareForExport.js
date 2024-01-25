@@ -1,26 +1,26 @@
 function sanitizeQuery(query) {
-	let isInsideCallout = false;
-	const parts = query.split("\n");
-	const sanitized = [];
+    let isInsideCallout = false;
+    const parts = query.split("\n");
+    const sanitized = [];
 
-	for (const part of parts) {
-		if (part.startsWith(">")) {
-			isInsideCallout = true;
-			sanitized.push(part.substring(1).trim());
-		} else {
-			sanitized.push(part);
-		}
-	}
-	let finalQuery = query;
-	if (isInsideCallout) {
-		finalQuery = sanitized.join("\n");
-	}
-	return {isInsideCallout, finalQuery};
+    for (const part of parts) {
+        if (part.startsWith(">")) {
+            isInsideCallout = true;
+            sanitized.push(part.substring(1).trim());
+        } else {
+            sanitized.push(part);
+        }
+    }
+    let finalQuery = query;
+    if (isInsideCallout) {
+        finalQuery = sanitized.join("\n");
+    }
+    return { isInsideCallout, finalQuery };
 }
 
 function surroundWithCalloutBlock(input) {
-	const tmp = input.split("\n");
-	return " " + tmp.join("\n> ");
+    const tmp = input.split("\n");
+    return " " + tmp.join("\n> ");
 }
 
 async function prepareForExport(tp, headerType) {
@@ -37,11 +37,13 @@ async function prepareForExport(tp, headerType) {
 
     let websiteDate = ""
     let staticify_whereabouts = false
+    let staticify_dataview = true
     try {
         let metadataFile = await app.vault.adapter.read(app.vault.configDir + "/../../website.json");
         let websiteData = JSON.parse(metadataFile)
         websiteDate = websiteData.export_date
-        staticify_whereabouts = websiteData.staticify_whereabouts
+        staticify_whereabouts = websiteData.staticify_whereabouts ?? false
+        staticify_dataview = websiteData.staticify_dataview ?? true
     }
     catch { }
 
@@ -119,44 +121,59 @@ async function prepareForExport(tp, headerType) {
 
     new Notice("Headers updated.")
 
+    if (staticify_dataview) {
 
-    var notice = new Notice("Making DataView queries static", 0)
-    for (let i = 0; i < files.length; i++) {
-        await app.vault.process(files[i], async (data) => {
-            let md = app.metadataCache.getFileCache(files[i])
+        var notice = new Notice("Making DataView queries static", 0)
+        for (let i = 0; i < files.length; i++) {
 
-            const dataviewJsPrefix = "dataview";
-            const dataViewJsRegex = new RegExp(`\`\`\`${escapeRegex(dataviewJsPrefix)}\\s(.+?)\`\`\``, "gsm");
-            const dataviewJsMatches = text.matchAll(dataViewJsRegex);
+            let origText = await app.vault.read(files[i])
+            let replacedText = origText
 
-            for (const queryBlock of dataviewJsMatches) {
+            const dataviewPrefix = "dataview";
+            const dataViewRegex = new RegExp(`\`\`\`${dataviewPrefix}\\s(.+?)\`\`\``, "gsm");
+            const dataviewMatches = origText.matchAll(dataViewRegex);
+
+            let hasMatch = false
+            let errors = 0
+
+            for (const queryBlock of dataviewMatches) {
+
                 try {
                     const block = queryBlock[0];
                     const query = queryBlock[1];
-
-                    const div = createEl("div");
-                    const component = new Component();
-                    await window.app.plugins.plugins.dataview.api.executeJs(query, div, component, path);
-                    component.load();
-                    const markdown = div.innerHTML
+                    const { isInsideCallout, finalQuery } = sanitizeQuery(query);
+                    let markdown = await window.app.plugins.plugins.dataview.api.tryQueryMarkdown(finalQuery, files[i].path);
+                    if (isInsideCallout) {
+                        markdown = surroundWithCalloutBlock(markdown);
+                    }
                     replacedText = replacedText.replace(block, markdown);
+                    hasMatch = true
                 } catch (e) {
-                    logs({ settings: properties.settings, e: true }, e);
-                    notif({ settings: properties.settings }, error);
+                    errors++
+                    console.log(e)
                     return queryBlock[0];
                 }
             }
 
+            if (hasMatch) {
+                await app.vault.process(files[i], data => {
+                    if (data === origText) {
+                        return replacedText
+                    }
+
+                    console.log("Did not replace text in file because the data has changed during processing")
+                    console.log(files[i])
+                    errors++
+                    return data
+                })
+            }
 
             processed++
-            return data
-        })
-
-        notice.setMessage("Making DataView queries static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\n" + processed + " of " + files.length + "\n\nErrors: " + errors)
+            notice.setMessage("Making DataView queries static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\n" + processed + " of " + files.length + "\n\nErrors: " + errors)
+        }
+        notice.hide()
     }
-
-    notice.hide()
-
+   
     new Notice("Headers updated.")
 
 
