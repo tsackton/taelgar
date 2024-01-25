@@ -25,4 +25,4 @@ Fey whisphers to Celyn to not eat the bread moments before Viepuck puts it all t
 Leaves chaos in the wake and runs after Francois, catching up to him outside a small earthen tunnel
 Attempt to charm fails
 Fight, including ankheg, Celyn almost dies, Izgil does the river thing, moon pull. Robin heals Celyn
-2 bandits die, one surrenders, one flees and is caught by guard
+2 bandits die, one surrenders, one flees and is caught by guard (Jerome and Francious are the ones who survive)

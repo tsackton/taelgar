@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc/greatwar, person, status/needswork/notes]
 campaignInfo: []
 name: Beryl
@@ -11,10 +12,10 @@ died: 1545
 affiliations: [The Rangers]
 ---
 # Beryl
->[!info]+ Biographical Info
-> [[Istabor Alliance|Isinguer]] [[Humans|human]], he/him
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> Member of: [[The Rangers]]
+>[!info]+ Biographical Info  
+> An [[Istabor Alliance|Isinguer]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 A hero of the [[Great War]], and the leader of [[The Rangers]] in the 1540s, now in the sky as the Hunter of the [[Fox and Hunter]].  Originally from the [[Istabor Alliance]].
 

@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [pc/companion, person]
 displayDefaults: { wOrigin: "", wOriginU: "" }
+excludePublish: ["clee"]
 name: Taster
 born:
 species: rabbit

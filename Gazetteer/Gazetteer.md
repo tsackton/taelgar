@@ -1,17 +1,12 @@
 ---
 tags: [background, status/unknown]
-displayDefaults: {prep: "on"}
 campaignInfo: []
 hide:
  - toc
-name: Gazetteer
+ - navigation
+name: Map of Taelgar
 ---
-
-%% TODO
-update player map with more recent, cleaned up version
-%%
-
-## Known World of Taelgar, Default Player Map:
+# Known World of Taelgar
 
 ```leaflet 
 id: world-of-taelgar

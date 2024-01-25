@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/draft]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 typeOf: region
 whereabouts: Taelgar

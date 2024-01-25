@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 displayDefaults: {defArt: ""}
 campaignInfo: []
@@ -7,8 +8,8 @@ typeOf: inn
 partOf: Chardon
 ---
 # The Thirsty Scholar
->[!info]+ Information
-> An  inn in [[Chardon]], the [[Chardonian Empire]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A bar and tavern popular with the more advanced students studying with the higher faculties of the university. 
-

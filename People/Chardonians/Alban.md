@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [dufr/minor, person, dufr/aware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: dufr, date: 1748-04-15, type: grave discovered}
 name: Alban

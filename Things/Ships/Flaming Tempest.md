@@ -1,5 +1,4 @@
 ---
-headerVersion: 2023.11.20
 tags: [item/boat, status/unknown]
 typeOf: vehicle
 subTypeOf: boat

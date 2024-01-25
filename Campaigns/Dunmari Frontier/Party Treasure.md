@@ -109,7 +109,6 @@ Major items:
 - A gray cloak, found in the Elemental Forge, that functions as a Cloak of Elvenkind. 
  - Longsword of Heroism, recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[The Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Kharsan]] palace)
 
-
 Minor items:
 - [[Portable Hole]] (rare minor item, party)
 - [[Augury Mirrors]] (rare minor item, party)
@@ -120,8 +119,7 @@ Minor items:
 - A [[Fides Lucaris]] Sending Stone. Found in a hidden lead box, and once possessed by the woman whose skeleton remains in the elemental forge. [[Lucius]], a boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking. 
 
 Not in use:
-- Spell gem from [[Kadmos]] containing the Summon Greater Demon spell.
-- A silver wand that functions as an arcane focus, and a locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. The spellbook's contains are currently unknown. 
+- A locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. The spellbook's contains are currently unknown. 
 ## Vindristjarna
 
 The following magical items are kept on [[Vindristjarna]]: 
@@ -245,8 +243,9 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[50]%% 
 - A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[51]%%
 ## Other Rewards
+- A meta-resource from speaking with [[Arheste]]: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics. Currently
 - The party is always welcome in [[Karawa]] and will always have food and shelter while they are in town.
-- A letter of introduction to Kaleha, high priest of the temple in Tokra, an important administrator in the civil government, from [[Candrosa]].
+- A letter of introduction to [[Kaleha]], high priest of the temple in Tokra, an important administrator in the civil government, from [[Candrosa]].
 - A letter of introduction from [[Kaleha]], high priest of the [[Tokra]] monastery, vouching for our good character.
 - A writ of travel directing all godly people of [[Dunmar]] to provide aid and comfort to the bearers named (the party), signed and sealed by Nayan [[Sura]], the brother of the current Samraat and according to her the rightful ruler of [[Dunmar]].
 - [[Hralgar]] gives his blessing for the party to restore and take [[Vindristjarna]], The Star on the Wind, the ruined airship that requires a new phasing stone to fly
@@ -259,7 +258,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - The Boulder-Ladder, the hero of the[[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
 ### Destroyed or Used
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
-- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 63 (DuFr)]].  %%SECRET[52]%%
+- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[52]%%
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
@@ -268,14 +267,14 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- Spectral prism (used for rainbow bridge)
 	- Four silver bars (used for cloud generator)
 	- Four vials of mercury (used for rainbow bridge and cloud generator)
-- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 80 (DuFr)]] %%SECRET[53]%%
-- [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 75 (DuFr)]]
+- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] %%SECRET[53]%%
+- [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 81 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
-- [[Elven Shadow Breastplate]], given to Umli in [[Session 74 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
+- [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
 - [[Dunmari Shield]] (uncommon major item), used to make the adamantine required for the phasing stone harness on [[Vindristjarna]]
 - A perfect emerald hung on a silver chain (1000 - 2000 gp, from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] %%SECRET[26]%%
 - [[Horn of Silent Alarm]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[Motua]]'s rescue.
-- Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 61 (DuFr)]]. 
+- Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 67 (DuFr)]]. 
 - Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in the fight with [[Kadmos]] and [[Casian]] in [[Session 44 (DuFr)]]. 
 - Leech Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut. (used in battle)
 -  [[Helm of Iron Will]]. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Raven's Hold]]. Used to protect Delwath in battle against [[Agata]]. 
@@ -340,23 +339,25 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 ### Given Away
 
+- Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
+- A silver wand that functions as an arcane focus, found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. 
 - Brooch of Warmth. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the detailed brooch enameled with brilliant reds, missing a central crystal, and an enchanted ruby found in the chest of gems, clearly meant to fit into the brooch (from the Elemental Forge). While attuned to this item, the wearer gains resistance to cold damage, and is unaffected by temperatures as low as -50 degrees. Given to Faldrak as partial payment for magic item construction. 
 - 1 silver bar, weighing 5 pounds, from the Elemental Forge. Given to Faldrak as partial payment for magic item construction. 
 - 1/2 a gold bar, weighing 5 lb, from the Elemental Forge. Given to Faldrak as partial payment for magic item construction. 
 - A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves at the elemental forge. Given to Faldrak as partial payment for magic item construction. 
 - [[Hralgar's Eyes]] (legendary major item*, party), returned to [[Hralgar]] as part of freeing him.
-- [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 78 (DuFr)]]
-- [[Arcane Grimoire]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 78 (DuFr)]]
-- Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 78 (DuFr)]]
-- [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 78 (DuFr)]]
+- [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 84 (DuFr)]]
+- [[Arcane Grimoire]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 84 (DuFr)]]
+- Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 84 (DuFr)]]
+- [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 84 (DuFr)]]
 - [[Black Iron Staff]],  given to the [[Archives]] in [[Tokra]]. 
 - 175 gp wereguild for bandits, given to [[Johar]] to get to families 
 - Locket from [[Halflings|halfling]] killed by chimera. A silver locket with a faded painted portrait of a [[Halflings|halfling]] inside. Found in [[Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]].
 - Gold ring from [[Halflings|halfling]] killed by chimera. A golden ring set with bloodstones. Found in [[Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]]. 
 -  [[Govir]]’s two holy symbols of [[Laka]], returned to [[Govir]]
 - Two small garnets from [[Raven's Hold]], 10 gp each. Given to [[Charmhearts]] in [[Tokra]].
-- [[Hobgoblin Notes from Raven's Hold|Looseleaf Hobgoblin Journal and log book]]. A leather satchel holding unbound pages that include notes and sketches that might portray troop movements, as well as a log book. Old. Given to [[Archives]] in [[Tokra]])
-- [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information).
+- [[Hobgoblin Notes from Raven's Hold|Looseleaf Hobgoblin Journal and log book]]. A leather satchel holding unbound pages that include notes and sketches that might portray troop movements, as well as a log book. Old. Given to [[Archives]] in [[Tokra]]
+- [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information.
 - [[Boots of False Tracks]]. Given to [[Marcella]]. 
 - A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[31]%%
 - A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[57]%%
@@ -366,6 +367,6 @@ The following mundane items are kept on [[Vindristjarna]]:
 - [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) %%SECRET[60]%%
 ### Stolen or Lost
 
-- [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 73 (DuFr)]]
+- [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 79 (DuFr)]]
 -  A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].
 -  Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].

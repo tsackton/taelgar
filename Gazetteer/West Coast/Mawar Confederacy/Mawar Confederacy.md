@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
 campaignInfo:
 name: Mawar Confederacy
@@ -6,8 +7,9 @@ typeOf: realm
 partOf: Mawakel Peninsula
 ---
 # The Mawar Confederacy
->[!info]+ Information
-> A  realm in the [[Mawakel Peninsula]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview
 

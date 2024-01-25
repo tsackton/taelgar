@@ -1,12 +1,14 @@
 ---
-tags: [place, status/notes, status/unknown]
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [place, status/needswork/notes]
 name: Refounded Alliance of Aurbez
 typeOf: realm
-partOf:
+whereabouts: Greater Sembara
 ---
-
-### The Refounded Alliance of Aurbez
+# The Refounded Alliance of Aurbez
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%
 #### The Refounded Alliance of Aurbez

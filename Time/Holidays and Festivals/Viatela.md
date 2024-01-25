@@ -5,6 +5,8 @@ name: Viatela
 fc-date: {day: 11, month: 12}
 ---
 
+A festival of homecoming dedicated to the Traveler, celebrated in December. 
+
 %% NOTES
  festival of homecoming dedicated to the Traveler. I’ll start with a flashback cleaning up some loose ends from the orc camp, and then we’ll try to do an extended roleplaying scene to get back into things before any plot happens.  
   

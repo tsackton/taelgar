@@ -1,10 +1,59 @@
 ---
-excludeRooted: ["Clee"]
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 48
+realWorldDate: 2022-06-22
+DR: 1748-08-21
+DR_end: 1748-08-22
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+tagline: in which the party navigates Chardon’s mysteries
+descTitle: Chardon Intrigues
+name: Dunmari Frontier - Session 48
 ---
+# Dunmari Frontier - Session 48
 
-**(Thursday, June 22nd, 2022; in Taelgar, Aug 21st - Aug 22nd)**
+>[!info] Chardon Intrigues: in which the party navigates Chardon’s mysteries
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Aug 21, 1748 DR to Aug 22, 1748 DR*
+> *On Earth: Wednesday Jun 22, 2022*
+> *Chardon*
 
+The Dunmar Fellowship uncovers secrets about chalyte, academic rivalries, and patron Fausto's role in perilous expeditions in Chardon.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Chardon's Mysteries",
+  "tagline": "in which the Dunmar Fellowship navigates Chardon's secrets",
+  "summary": [
+    "The party arrives in Chardon and learns of the regulated magic and chalyte trade abuses.",
+    "Kenzo meets with Kaeso, revealing the latter's Mystai of Shakun magic and concerns over chalyte.",
+    "The party acquires information about the Society of the Open Scroll and plans to meet Roscelia.",
+    "Contact with Marcella and Vola is made; the latter agrees to reach out to past adventurers Dee and Dain.",
+    "Dee Wildcloak and Dain Goldhammer share their tragic adventure and hint at patron Fausto's role in funding expeditions."
+  ],
+  "short_summary": "In Chardon, the Dunmar Fellowship uncovers the dangers of chalyte, gains allies, and learns of a wealthy patron's influence on treasure hunts.",
+  "location": "Chardon"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship arrives in Chardon and learns of the regulated magic and the dangers of chalyte abuse.
+- Kenzo meets with Kaeso, a Mystai of Shakun, who shares concerns about chalyte and arranges a meeting with his old teacher, Roscelia.
+- The party reconnects with Vola, who agrees to send letters to other adventurers and provides insight into the Society of the Open Scroll.
+- Ulfgar Frostbeard, a metaphysics professor, informs them about Galen's new Dwarven artifact and academic rivalries.
+- Dee Wildcloak and Dain Goldhammer recount their harrowing experience at Stormcaller Tower and reveal Fausto as a key expedition patron.
+
+### Timeline
+- (DR:: 1748-08-21), afternoon: Meet Kaeso. 
+- (DR:: 1748-08-21), evening: Reconnect with Vola at [[The Chapterhouse]], discuss the [[Society of the Open Scroll]]. 
+- (DR:: 1748-08-22), morning: Meet Seeker's colleague Ulfgar Frostbeard, professor on the Faculty of Metaphysics. Learn Galen, a professor of experimental metaphysics, has the Chalice of the Runepriest. 
+- (DR:: 1748-08-22), noon: Meet Dee Wildcloak and Dain Goldhammer for lunch. Learn that Fausto, a rich scholar, has the Eyes of Hralgar. Dee flirts with Wellby.
+
+
+## Narrative
 We begin as the [[Emerald Song]] arrives at [[Chardon]], and the party recalls the two items they looked at in the mirror during the voyage, first the [[Raven Whistle Vision|vision]] of the [[Raven Whistle]], next the [[Chardon Fan Vision|vision]] of [[Agata]]'s [[Chardon Fan]]. 
 
 After a brief discussion about how to approach their time in the city, the party speaks with [[Dani Silversong]], who warns them that magic is regulated, and to be careful. Disembarking separately, the party registers with illegible signatures under the careless eye of the customs’ agent, and then finds tables at a nearby tavern, [[The Salty Squid]], while [[Kenzo]] goes to find [[Kaeso]]. 
@@ -19,7 +68,7 @@ After dinner, the party contacts [[Marcella]] using Sending and learns that she 
 
 [[Vola]] is a little anxious to see the party, unsure of where they left things, but once it becomes clear they are meeting as friends, or at least acquaintances, she relaxes. She agrees to send a letter to [[Dee Wildcloak]] and [[Dain Goldhammer]], the adventurers who explored [[Stormcaller Tower]] before the party (along with their companion, [[Alban]], who was killed), asking them to meet with the party. From [[Vola]] the party learns a bit about the situation with the Society – apparently rich patrons fund many of the treasure hunting expeditions, although some are funded directly by the [[Great Library]]. She spoke poorly of [[Casian]], who would sneer at those beneath his class, and highly of her mentor [[Agon]], who encouraged her to study to reach her full Drankorian potential. Despite a bit of perhaps excessive Drankorian pride from [[Vola]], the party leaves on good terms.
 
-In the morning, the first stop is [[Seeker]]’s colleague [[Ulfgar Frostbeard]], a Dwarven professor in the Faculty of Metaphysics, a student of the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]] and the [[Shadowfell]], but never of experimental metaphysics. From him the party learns that [[Galen]], apparently a bit of a academic rival of [[Ulfgar Frostbeard]]’s, and also apparently a bit full of himself, has gotten a new Dwarven artifact recently, a chalice that he says is connected to other planes. [[Ulfgar Frostbeard]] is up in arms, that a human managed to get this and is meddling with it, when it should be safely observed, and not meddled with, by the [[Dwarves]]. After talking about the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]] a bit, promising to bring [[Ulfgar Frostbeard]] back something from the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]] should they travel there, speaking with [[Typhina]], and getting a [[The Lore of the Feywild|book]] by [[Ulfgar Frostbeard]] on the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]] as reward for a bet [[Seeker]] made, talking about the [[Shadowfell]] and [[Pandemonium]], and asking [[Ulfgar Frostbeard]] to get a book called “Secrets of Reflective Magic: Planar Prisons” from the [[Great Library]] in hopes it will teach them more about how to use the [[Mirror of Soul Trapping]], the party leaves. 
+In the morning, the first stop is [[Seeker]]’s colleague [[Ulfgar Frostbeard]], a Dwarven professor in the Faculty of Metaphysics, a student of the [[Feywild]] and the [[Shadowfell]], but never of experimental metaphysics. From him the party learns that [[Galen]], apparently a bit of a academic rival of [[Ulfgar Frostbeard]]’s, and also apparently a bit full of himself, has gotten a new Dwarven artifact recently, a chalice that he says is connected to other planes. [[Ulfgar Frostbeard]] is up in arms, that a human managed to get this and is meddling with it, when it should be safely observed, and not meddled with, by the [[Dwarves]]. After talking about the [[Feywild]] a bit, promising to bring [[Ulfgar Frostbeard]] back something from the [[Feywild]] should they travel there, speaking with [[Typhina]], and getting a [[The Lore of the Feywild|book]] by [[Ulfgar Frostbeard]] on the [[Feywild]] as reward for a bet [[Seeker]] made, talking about the [[Shadowfell]] and [[Pandemonium]], and asking [[Ulfgar Frostbeard]] to get a book called “Secrets of Reflective Magic: Planar Prisons” from the [[Great Library]] in hopes it will teach them more about how to use the [[Mirror of Soul Trapping]], the party leaves. 
 
 The next stop is [[The Chapterhouse]], the tavern where [[Dee Wildcloak]] and [[Dain Goldhammer]] frequently take their lunch. From [[Dee Wildcloak]] and [[Dain Goldhammer]] (but really mostly from [[Dee Wildcloak]], who spends most of the story eyeing and flirting with [[Wellby]] and hinting that maybe he should join her when she gets enough funds to start her inn at a crossroads somewhere), they learn the story of their adventures. They left [[Chardon]] with [[Servius]], [[Arcus]], and [[Alban]], all humans. [[Servius]] and [[Arcus]] argued constantly - [[Arcus]] was obsessed with Drankorian artifacts and kept pushing to press ahead, while [[Servius]] kept wanting to chase rumors and find old stories and look in books for clues. [[Alban]], [[Dee Wildcloak]], and [[Dain Goldhammer]] left on the road east of [[Songara]], heading across the plains – passing a giant statue of a Stoneborn warrior that had a [[Stoneborn Statue Dungeon|looted dungeon]] beneath it before coming to [[Stormcaller Tower]]. When they arrived, there were no storms or anything. They began to explore, and when they reached the large carved giant’s head, [[Alban]] told them the [[Hralgar's Eyes|eyes]] and the five [[Binding Stones|gems set into the crown]] were magical, so they took them. That is went things went wrong - lightning came alive on the walls of the tower, and killed [[Alban]], while [[Dee Wildcloak]] and [[Dain Goldhammer]] fled into the growing storm. 
 

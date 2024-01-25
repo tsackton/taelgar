@@ -1,39 +1,60 @@
 ---
-excludeRooted: ["Clee"]
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 71
+realWorldDate: 2023-02-21
+DR: 1748-11-23
+DR_end: 1748-11-23
+players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+tagline: in which Hralgar's chains are broken and the tower falls
+descTitle: Storm's End
+name: Dunmari Frontier - Session 71
 ---
-*in which the party plans for [[Kadmos]]' attack
+# Dunmari Frontier - Session 71
 
-**In the real world:** Sunday, May 21, 2023
-**In Taelgar:**  5 Dec 1748
+>[!info] Storm's End: in which Hralgar's chains are broken and the tower falls
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: Nov 23, 1748 DR*
+> *On Earth: Tuesday Feb 21, 2023*
+> *[[Stormcaller Tower]]*
 
-## Summary
+The [[Dunmar Fellowship]] battles a spectral [[Hralgar]], breaks his bonds with an ancient elven poem, and watches as he liberates himself by destroying [[Stormcaller Tower]].
 
-## Notes and Information
+## Session Info
 
-Start: afternoon, Dec 5th
-End: late evening, Dec 5th
-## Timeline
+***Character advancement: the party reaches level 11***
+***The party recovers the rest of the [[Stormcaller Tower Hoard]]***
+***Hralgar gives his blessing for the party to take Vindristjarna***
+### Summary
+- The party defeats Hralgar's ghostly duplicate, freeing him from his dreamscape.
+- [[Riswynn]] mends Hralgar's eyes, restoring his vision.
+- [[Kenzo]] recalls the elven poem needed to break the iron chains binding Hralgar.
+- Using magic, they obtain the poem from [[Govir]], and the chains shatter as the words are spoken.
+- Hralgar transforms and destroys [[Stormcaller Tower]], then offers the party a reward.
+- [[Hralgar]] reveals the location of a phasing stone for the skyship, and assists the party with its excavation.
 
-- (DR:: 1748-12-05): *(afternoon)* Give General [[Murook]] and Loremaster [[Azogar]] tour of skyship. Dinner and conversation with [[Lubash]]. Plan for possible attack from [[Kadmos]] and company. [[Kenzo]] receives [[Lakan Monk Letter]].
+### Timeline
+- (DR:: 1748-11-23), evening: Fight Hraglar's storm-crazed ghost duplicate. Free Hraglar from his chains, watch as he destroys the tower and the statue of his bust. Sit with [[Hralgar]] for the evening, talking. 
 
 ## Narrative
+We begin as the party rushes into [[Hralgar]]'s dreamscape upon hearing the sounds of [[Hralgar]] struggling, to find a ghostly, angry version of [[Hralgar]] strangling the real [[Hralgar]]. Launching into combat, the party attacks the ghost, [[Wellby]] placing two perfect arrows right through each of the ghost's eyes and [[Delwath]] striking hard with his elven sword. Despite a massive bolt of lightning that briefly knocks [[Riswynn]] down, the party prevails, and as [[Hralgar]]'s ghost is destroyed the dreamscape fades. The party finds themselves in the top floor of [[Stormcaller Tower]], facing the bound and chained giant Hraglar.
 
-We begin as the party returns to the skyship [[Vindristjarna]], to discuss and plan while awaiting the arrival of Loremaster [[Azogar]] and General [[Murook]], who are expecting a tour of the ship. After some discussion of the events of earlier in the day, and the magic of the [[Cloak of Rainbows]], conversation stops as the orcish visitors arrive. 
+His mind now clear, he recognizes the party and tells them he can hold off the madness for a few hours, if they wish to flee again. Showing him the eyes, the party tells him they are here to save him, as promised. [[Riswynn]] uses her mending magic to repair the eyes, and as the damage and cracks from the years and the journey are repaired, each eye magically melds with [[Hralgar]], restoring his vision. 
 
-Loremaster [[Azogar]] is very curious about the magic of the skyship, and quickly catches [[Seeker]]'s attention with his questioning. [[Seeker]] explains about the phasing stone, holding little back, as the conversation drifts among topics, touching on the origin of the phasing stone, the [[Feywild]] and its connection to cloak, and the idea of crystallized magic connecting to many different planes. [[Azogar]] speaks of the various rumors and tales he has collected, from the time before the founding of [[Xurkhaz]], when the [[Orcs]] wandered widely, hiding where they could from [[Thark]]'s raiders. In particular, a tale of a hero of his people, who used the crystalized magic of the [[elemental plane of water]] to create fog that hid his tribe for years. During the conversation, [[Murook]] asks about the tactical uses of the skyship, as well, and quizzes the party on exactly what happens to the dead, reanimated [[Orcs]]. 
+The iron chains, however, seem a tougher nut to crack, until [[Kenzo]] recalls his memory of the binding from when he was possessed, recalling that the the first words of the elven poem A Lament for Lost Thunder can break the chains and end the enchantment. Unfortunately, the party sold the book containing this poem in [[Darba]], and can't quite recall the words correctly. However, a quick Sending to [[Govir]] has him promising to find a copy in the next couple of hours, when [[Delwath]] will scry him to see the writing and translate the words. 
 
-[[Murook]] and [[Azogar]] depart, reminding the party they are due at the palace for dinner shortly, and leave the party to plan. During this time, the party discusses options, and [[Delwath]] scries on [[Hektor]], seeing [[Kadmos]] and his companions hunched over a map or piece of paper, discussing in low voices, seeming separated for the moment from the main army of [[People/Other Nonhumans/Grash]]'s forces. 
+At this point, the party takes a breather, [[Delwath]] cooking some food while [[Hralgar]] talks about [[Drankorian Empire|Drankor]]. He tells them about the end of the golden age of [[Drankorian Empire|Drankor]], when the [[Helea]] was assassinated by the [[Omnis Pura]], a group that believed in [[Humans|human]] supremacy, and especially supremacy of those who inhabited [[Hkar]], the land where [[Humans]] were created, the longest. [[Apollyon|Apollyon]], [[Hralgar]] says, was connected to this group, but he was captured during [[Apollyon|Apollyon]]'s reign and doesn't know how it ended, not really. 
 
-At dinner, Chief [[Lubash]] seems more open, talking more freely. He explains the nature of the cloak's protection: within the borders of [[Xurkhaz]], [[Thark]]'s voice cannot be heard. [[Orcs]] bound to [[Thark]] will suddenly have that connection severed, and few will be able to fight effectively after that happens. But, he does not know if the undead [[Orcs]] raised by [[People/Other Nonhumans/Grash]] remain connected to [[Thark]]: if they do, he does not fear them, but if they don't, then they would not be affected by the cloak's magic. This protection has taken years to create, and maintain, pacing the borders of the country, which is a large part of the [[Orcs|orc]]'s reluctance to abandon [[Xurkhaz]], even though they have refuges prepared in the broken hills to the east. 
+[[Kenzo]] then listens to [[Jorundr's Story]], recording it for the [[Order of the Awakened Soul]].
 
-The party also learns some more history of the cloak. It was created by the [[Cloudspinner]], the Lady of Sunsets, the archfey ruler of the fey domain of [[Amberglow]], now gone, her domain abandoned. With her missing, the cloak is irreplaceable. 
+Over the next hour, the party gathers what they can from the tower, focusing on the few books left in the library from their last adventure, and the cleaning stone from [[Eudomes]]' room. Then, it is time to scry [[Govir]], and read the words of A Lament for Lost Thunder through his eyes. As [[Kenzo]] speaks the words, the chains binding [[Hralgar]] shatter and turn to dust. 
 
-Finally, they learn something of the previous Chardonian party that came to [[Xurkhaz]]. There were four of them: two warriors, twin brothers, named [[Valius]] and [[Vargus]], a spellcaster named [[Evelina]], and a trickster rogue named Roman. They came in two groups: [[Valius]], [[Vargus]], and [[Evelina]] pretending to be scholars seeking to open trade ties and knowledge exchange between [[Chardon]] and [[Xurkhaz]], and Roman, disguised by illusion magic as an [[Orcs|orc]] wanderer. They lived in the palace for a month or more, learning about the cloak and the [[Orcs]], but were eventually found out when Roman slipped up and was seen talking to the Chardonians while not under his illusion spell. Roman was killed, and the others fled east, taking some time, more than a month, to reconnect with [[Kadmos]]. 
+The storm grows more intense and violent, and [[Hralgar]] warns the party to run, as he turns to lightning and thunder and sweeps out of the tower. An incredibly loud burst of thunder shakes the foundations of the tower, and then [[Hralgar]] is there, pulling a giant sword of lightning out of thin air, his eyes flashing as he strikes the tower, the statue, everything about this place over and over. Even once the tower is reduced to rubble and the bust of himself that imprisoned him to dust, he lifts his massive feet and stomps, sending waves of thunder through the destruction. And then, [[Hralgar]] thanks the party, asking what he can do for them. 
 
-Conversation turns to planning and strategy for [[Kadmos]]' inevitable attack on the palace. After considering several plans, it is eventually agreed that the party will pretend to have a falling out with Chief [[Lubash]], who will pretend to expel them from his kingdom. In reality, they will hide, hoping to set a trap for [[Kadmos]] and company. 
+![[stormcaller-after-storm.png]]
 
-During this time, [[Delwath]]'s messenger lynx returns, bearing a letter for [[Kenzo]] from the Lakan Monks: [[Lakan Monk Letter]].
+The party asks about [[Vindristjarna]], also known as the The Star on the Wind, the skyship upon which [[Stormcaller Tower]] was built. [[Hralgar]] tells them the phasing stone, the magic that powers skyships, was destroyed, but he sends the storm north. The clouds blow away, the thunder and rain stops, and a beautiful sunset emerges on the wet plains. [[Hralgar]] opens his eyes, and tells the party that there is still a phasing stone in his home in the mountains, less than a hundred miles north, that they are welcome to find and claim for themselves.
 
-Finally, after exploring the palace and beginning to make some plans, the party returns to [[Lubash]]'s throne room, and summons the [[Orcs|orc]] trapped in the mirror to speak. She is confused, but is apparently an [[Orcs|orc]] of [[Xurkhaz]], from 60 years ago, who was caught by [[Agata]] and interrogated, with the hope that she would reveal some of the secrets of the cloak to [[Agata]]. She is freed, released from the mirror into [[Lubash]]'s care, as the session ends. 
+He then digs out the skyship and gives the party a tour. While much is damaged, when cleared and excavated, it looks like nothing more than a truly massive sailing ship made of stone.
 
+With this task done, [[Hralgar]] goes to hunt and say goodbye to his physical form, joined for part of his journey by [[Delwath]]. As the sun sinks below the horizon, he returns with a brace of antelope. As [[Hralgar]] and the party begin to speak of [[Apollyon|Apollyon]], of his sometimes-ally, perhaps turned enemy [[Cha'mutte]], of the perfectly circular island where [[Apollyon|Apollyon]] traveled, somewhere southwest of [[Drankor]] and shielded from storms, the smell of roasting anelope wafts over the camp. We end the session as [[Hralgar]] and the party share a late dinner, planning to resume their conversation this evening, before [[Hralgar]] vanishes to merge with the storm and learn the tales of the snow and storms and wind and rain. 

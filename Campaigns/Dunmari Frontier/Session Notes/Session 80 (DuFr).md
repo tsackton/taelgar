@@ -1,87 +1,61 @@
 ---
-tags: [session-note, status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 80
+realWorldDate: 2023-07-27
+DR: 1748-12-10
+DR_end: 1748-12-17
+players: [Seeker, Delwath, Kenzo, Wellby]
+tagline: in which the party gathers rumors and makes connections in Tollen
+descTitle: Arrival in Tollen
+name: Dunmari Frontier - Session 80
 ---
-# Session 80
-*in which the party frees an elemental*
+# Dunmari Frontier - Session 80
 
-**In the real world:** Oct 16, 2023
-**In Taelgar:**  Jan 8, 1749
-## Summary
+>[!info] Arrival in Tollen: in which the party gathers rumors and makes connections in Tollen
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
+> *In Taelgar: Dec 10, 1748 DR to Dec 17, 1748 DR*
+> *On Earth: Thursday Jul 27, 2023*
+> *[[Tollen]]*
 
-## Notes and Information
+The Dunmar Fellowship arrives in [[Tollen]], seeking allies and information.
+## Session Info
+### Summary
+- The party departs [[Uzgukhar]] on [[Vindristjarna]], flying north to destroy the [[Scepter of Command]]
+- They encounter and survive an acidic ooze attack in the ruined city [[Isingue]].
+- Arriving in Tollen, they negotiate safe harbor and split up to pursue various interests across the city: [[Wellby]] reconnects with mapmaker [[Guy Marchand]], [[Delwath]] shops for skyship needs and gathers local rumors, [[Kenzo]] seeks out a magical tattoo.
+- They end the day at [[The Windward Sail]], learning about local figures and rumors from [[Wendel Quickstep]] and [[Nika Hyne]]
+- The party meets with the elf [[Melindir]] who advises caution with [[Caelynn]] and speaks of a a potential quest from the [[Skaerhem|Skaer]].
 
-Start:  afternoon, Jan 8rd, 1749 
-End: afternoon, Jan 8th, 1749
-#### [[The Mirror of the Past]]
- - (DR:: 1749-01-08) [[The Mirror of the Past]] used to look at the [[Fides Lucaris]] sending stone (recharge:: mirror)
-## Timeline 
-- (DR:: 1749-01-08): *(afternoon)* Uncover mystery of the ruins, free elemental.
+### Timeline
+- (DR:: 1748-12-10): Leave [[Uzgukhar]], flying north on [[Vindristjarna]]
+- (DR:: 1748-12-11): Fly north, high over the [[Plaguelands]]
+- (DR:: 1748-12-12): Fly over [[Isingue]]; descend to investigate, attacked by some kind of acidic ooze
+- (DR:: 1748-12-13): Reach [[Mostreve Hills]]; fly over [[Tyrwingha]]
+- (DR:: 1748-12-14): Reach [[Western Gulf]]; [[Kenzo]] communes with the ocean life
+- (DR:: 1748-12-15): Fly across [[Western Gulf]]
+- (DR:: 1748-12-16): Arrive in [[Tollen]]; split up and speak with various people; spend the night at *[[The Windward Sail]]*
+- (DR:: 1748-12-17), morning: Speak with [[Melindir]]
 
-## New Treasure
-
-### Mundane Items
-A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves. 
-
-Four projects in various states of completion:
-- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty
-- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished
-- A finely engraved platinum ring set with a tiny but perfect sapphire
-- A silver tiara set with moonstones
-
-Items recovered from the workshop shelves:
-- 8 heavy gold bars, each weighing 10 pounds and worth 500 gp (total value 4000 gp)
-- 16 heavy silver bars, each weighing 5 pounds and worth 25 gp (total value 500 gp)
-- 16 uncut and unpolished gemstones (value would increase if properly cut):
-	- Two ruby (Deep red, radiant glow)
-	- Three garnet (Dark red, glassy appearance)
-	- Two peridot (Bright green, light-catching sparkle)
-	- One opal (Multicolored, mystical fire)
-	- Two citrine (Yellow to orange, sunny and bright)
-	- Three topaz (Golden yellow, shimmers in light)
-	- Two onyx (Black, deep and opaque)
-	- One lapis lazuli (Blue with gold flecks, royal appearance)
-### Semi-Magical Items
-- A second copy of “The [[Enchiridion of the Occulta Ludum]]”, also blank. Found in the bedroom.
-- Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic.
-- Eight dragon scales, red 
-- Eternal ice
-### Magic Items
-- Brooch of Warmth. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the detailed brooch enameled with brilliant reds, missing a central crystal, and an enchanted ruby found in the chest of gems, clearly meant to fit into the brooch. While attuned to this item, the wearer gains resistance to cold damage, and is unaffected by temperatures as low as -50 degrees.
-- Ring of Sharp Mind. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the plain gold ring with an empty setting for a small gem, and an enchanted diamond found in the chest of gems, clearly meant to fit into the ring. If you fail a Constitution saving throw to maintain concentration on a spell while wearing this ring, you can expend your reaction to succeed instead. Once you do this, a facet of the diamond turns cloudy. The diamond has six facets. When all facets are cloudy, the ring becomes non-magical. 
-- A [[Fides Lucaris]] Sending Stone. Found in a hidden lead box, and once possessed by the woman whose skeleton remains in the elemental forge. A boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking. 
-- A small crystal vial containing one dose of universal solvent. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge. 
-- A gray cloak. Also found in the lead box. Functions as a Cloak of Elvenkind.
-- A silver wand that functions as an arcane focus, and a locked spellbook. Found in the hidden lead box and also once possessed by the woman whose skeleton remains in the elemental forge.
-- Cold Box. Found in the pantry/storeroom in the living quarters. A 3 foot by 3 foot stone chest that preserves food kept inside indefinitely. Installed on [[Vindristjarna]].
-- Pitcher of Purity. A silver water pitcher found in the bedroom in the living quarters. Any non-magical liquid put inside turns permanently to pure water. Now part of the kitchen equipment on [[Vindristjarna]]. 
-### Left Behind
-- A 2000 pound magical forge that can be heated to temperatures required to smelt metal without fuel. 
-### Used
-- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
-- Elemental rods (one each of fire, earth, air, water), used to improve [[Seeker]]'s glove of crystallized magic.
-- Starlight dew (used for cloud generator)
-- Spectral prism (used for rainbow bridge)
-- Four silver bars (used for cloud generator)
-- Four vials of mercury (used for rainbow bridge and cloud generator)
-- Piece of [[inkaye]] (used for rainbow bridge)
-
-[[Faldrak Bronzehammer|Faldrak]] requests the phoenix feather, the brooch of warmth, one silver bar, one-half a gold bar, and the jeweler's tools as his 1/16 share.
 ## Narrative
+We begin as the party departs [[Uzgukhar]], north to find a volcano in which to destroy the [[Scepter of Command]]. Flying nearly 24 hours, the party covers more than 200 miles per day. The first three days are spend crossing the [[Plaguelands]], including a brief flyover of [[Isingue]], a ruined trading city south of [[Sembara]]. In [[Isingue]], [[Seeker]] brings the ship lower, noting that the entire ground of the city seems to be teeming with a strange black squirming mold. Which attacks, launched a black globule of acidic ooze that begins to burn through the stone of the ship, until it is burned out by [[Wellby]].
 
-We begin in the underground Drankorian ruins, in the antechamber of the elemental forge and workshop, as the party contemplates three doors: one, an elegant bronze door leading to the forge itself, where a manacled skeleton lays on the ground; another, a rotten wooden door leading to living chambers; and the third, a solid stone door. Deciding to explore before entering the forge chamber, the party first scouts the living quarters. 
+Continuing north, the party crosses the [[Western Gulf]], hearing [[Wellby]]'s stories of his childhood on the ocean (including the tale of seeing a giant underwater dragon when he was 9). [[Kenzo]] also communes with the nature of the gulf, feeling the teaming life on the surface, and the strange dark canyon depths where giant crabs scuttle beneath the reach of sunlight.
 
-The living quarters are mostly decayed away to nothing over the thousand years since this set of rooms were occupied, with very little left to find. [[Seeker]] and [[Faldrak Bronzehammer|Faldrak]] find themselves quite distracted by a crack in the wall of the storeroom, through which they can see a tunnel leading away from this area, with some strange out-of-place rocks on the ground, while [[Wellby]] and [[Kenzo]] search the other rooms, finding very little except for a small book (entitled "The [[Enchiridion of the Occulta Ludum]]", otherwise blank, and clearly magical) and a silver water pitcher, also magical. [[Delwath]] manages to keep the [[Dwarves]] from venturing down the tunnel, and the party regroups to discuss in the storeroom. [[Delwath]] also notes a magical stone chest, in which 1000 year old venison is perfectly preserved. 
+On the morning of Dec 16th, the party reaches [[Tollen]], where they are met by a harbor launch with a dozen guards and one of the harbor masters. She welcomes them to [[Tollen]], but insists a guard be posted on the airship to keep the city safe. This negotiation done, the party heads to the busy, cold docks of [[Tollen]] in winter, where they split up.
 
-Seeking more information about this place, and hoping to avoid dangerous and unexpected encounters, the party leaves the tunnel and heads through the stone door, which leads to a workshop. This is clearly a well-maintained and well-stocked jeweler's workshop; not only are there tools but there are a number of strange components that appear to be materials used in the construction of magic items, in addition to mundane tools and materials. 
+[[Wellby]] and [[Seeker]] head north, to [[Scrollwright Street]], heading for the shop of [[Guy Marchand]], a mapmaker who [[Wellby]] knew from his childhood, who sold [[Wellby]] some of his early books and maps. Guy is happy to see [[Wellby]], and they talk about his journeys and life. Guy recounts how the first time he met [[Wellby]], he tried to shoo him away, but [[Wellby]] walked up to a giant map, pointed to the further place (an island north and east of the [[Mawakel Peninsula]]), and asked "What's there?" Guy also tells [[Wellby]] he is happy to introduce him to a university student he knows, [[Sarah de Gray]], a fellow Isinguer. Guy also shows [[Wellby]] a fragment of a map recovered from some abandoned fort north up the [[Volta]], that shows the elevations of a section of the central mountain chain. 
 
-Searching for secret compartments, [[Wellby]] finds a hidden shelf in the wall that contains a lead box. Inside are a number of magical items, including a spellbook and wand; a vial of universal solvent; a sending stone; and a magical cloak. 
+While [[Wellby]] and [[Seeker]] speak with Guy, [[Delwath]] wanders through the markets of the [[Bridgeward]] district, looking for furniture makers, blacksmiths, carpenters, and other artisans to outfit the skyship, buying some kitchen supplies and basic furniture, and getting quotes for larger construction projects. [[Delwath]] also collects rumors and news, hearing especially about [[Melindir]], an elf from [[Orenlas]], and [[Caelynn]] the Seer, a [[Fey]] woman variously claimed to be 4000 years old, or the last in a long line of [[Caelynn]] the Seers, who accumulates many conflicting stories and rumors.
 
-The party has a late lunch while [[Faldrak Bronzehammer|Faldrak]] identifies the items. After a short break, the party shows the sending stone to [[The Mirror of the Past]], seeing a [[Fides Lucaris Sending Stone Vision|vision of a woman using the stone at several points.]] Concluding that the woman who carried this stone must have more information (and is probably now dead -- the skeleton in the forge chamber), the party decides to try communicating with whomever has the other pair of this stone, now. They reach a small boy, maybe four or five, named [[Lucius]], who lives in the village of [[Luminatia]] near [[Lake Valandros]], and thinks the voice is his imaginary friend, Benji. He lives with his mom, [[Livia]]; his dad, [[Claudio]] left and he just barely remembers him. [[Lucius]] found the stone in his dad's stuff after his mom kicked his dad out -- he doesn't really remember, it was a year ago, he says. They do okay -- his mom runs the only inn in town, but there aren't as many travelers these days, [[Lucius]] says. 
+[[Kenzo]] wanders looking for the best tattoo parlor, ending up across the [[Tollen]] Bridge, in the [[Southbridge]] district, in the shop of [[Cecilia Lister]]. She is a neat and precise woman, with a neat and precise shop. [[Kenzo]] and Cecilia talk tattoos (Cecilia is quite interested in [[Kenzo]]'s lizardfolk tattoos) -- [[Kenzo]] expresses interest in getting magical ink. Cecilia agrees, and asks him to come back the day after tomorrow. She also says that, for a client, she will introduce him to Escobar, a student at the [[University of Tollen]] who is supported by a [[Dyer's Guild]] scholarship. 
 
-After some more discussion, the party decides the next step to sorting out the mystery is to speak with the dead skeleton in the elemental forge chamber, using the scroll of "Speak with Dead" the party has been carrying for a while. Preparing for anything, and stepping through the door, the party finds the elemental forge, connected to the ground with four wires of silver thread, two of which have been destroyed, hanging loose. Approaching the dead body, [[Seeker]] reads the scroll and the dead body animates. The party questions [[Fides Lucaris spy|this woman]], learning that she was a member of a Drankorian secret society, the [[Fides Lucaris]], and came on a mission to this place to free the elemental being trapped by the wizards of the [[Occulta Ludum]], who cared only for power, not the feelings of the creatures they bound. She failed; she was bound and killed by [[Drusilia]], presumably the caretaker of this place for the [[Occulta Ludum]], but not before destroying two of the anchors that held the elemental in place. Now prepared to continue the mission of the [[Fides Lucaris]], they ask if the dead woman knows how to decipher the [[Enchiridion of the Occulta Ludum]]. She answers no, but that the [[Elves]], [[Elandrial]], was working on this. 
+Despite not making a plan to meet up, the party manages to meet together at [[The Windward Sail]], a halfling inn in [[Fiskurth]], the sailor's district near the docks, and recount their days and contacts. [[Wellby]] knows the tavern owner, [[Wendel Quickstep]], and after the dinner rush dies down, they speak for a while, after [[Wellby]] joins in the halfling storytelling that happens after the music ends. Wendel is happy to hear about [[Wellby]]'s journeys, and tells the party about [[Nika Hyne]], a sort-of student who hangs around a lot hearing stories, and knows everyone at the university, as well as the [[Temple of Kaikkea]] in the [[Godshome]] district, where they can find a Skaer to speak with. 
 
-At this point, the party prepares for combat as the elemental storm that has been rising through the floor erupts. [[Wellby]], with the universal solvent, focuses on dissolving the two remaining silver wires connecting the forge to the floor. Meanwhile, [[Seeker]] uses Psychic Lance to keep the emerging elemental storm incapacitated, while [[Kenzo]] communes with the creature to attempt to calm it, and [[Delwath]] handles the elementals that emerge from the dissolved silver threads. Although [[Seeker]] is nearly knocked unconscious, the party manages to free and calm the elemental. 
+[[Nika Hyne|Nika]] wanders in later that night, and Wendel introduces her. She is a bit squirrelly and doesn't immediately click with [[Delwath]], especially, but reveals a number of interesting rumors, including that [[Caelynn]] trades in secrets, and will take a secret from you if you wish. She tells (for 5 silver) the party about [[Umli]] the Exile, a stoneborn metalworker and expert in fire magic, and agrees to guide them around the university, including taking them to meet [[Umli]], the next day after lunch. The day ends with the party heading to sleep having made an impression in [[Tollen]]: rumors of the elf with the flying ship, and rumors of the troubles in [[Dunmar]], now spreading like wildfire.
 
-In the aftermath of the battle, [[Kenzo]] reaches into the mind of the elemental, and glimpses bits of its story. Long ago, many hundreds of years, it was living on the [[Elemental Plane of Air]]. A vision of an impossible staircase of clouds, stretching to infinity, children of air and cloud running, throwing bits of cloudstuff at eachother as a game. A vision of a palace made of lightning, a creature studying in a grand hall, images appearing in the crackling electricity. A vision of a creature of air and smoke, exploring a strange landscape of dark mist and ash drifting through the sky, with three companions. Finally, a vision of the same group of air creatures encountering [[Humans]], flying through the air; one of the [[Humans]] speaks in Drankorian, his words taking on an impossible tone as reality is reshaped by his very commands, and at his wish silver threads appear and bind the elemental. And then the elemental drifts away, a last parting jolt of energy charging the forge. As it vanishes, it whispers it's name: "[[Sh’shethis]]".
+The next morning, the party heads to speak with [[Melindir]], the elf, right after breakfast. On the walk, [[Delwath]] talks about his feelings meeting an elf and feeling like he has missed so much of his generation; he is slightly cheered by the thought that perhaps there is another elf somewhere trapped in another shadow realm, who he might still find companionship with. 
 
-With the elemental freed and gone, the magic of the forge only lingers for a few days: enough time for [[Faldrak Bronzehammer|Faldrak]] to enhance his stone bird, improve [[Seeker]]'s glove, and construct two improvements for [[Vindristjarna]]. We end as crating begins. 
+[[Melindir]] lives in the nice part of town, [[Gold Street]], near many guild headquarters, the new Temple to [[The Warlord]] being constructed by the shipwright's guild where [[Guildgate]] and [[Godshome]] meet. From [[Melindir]], the party learns a little more about [[Orenlas]], and makes plans to visit there, finding an old elf who might remember [[Apollyon|Apollyon]]. [[Melindir]] also tells them that the Skaer have been looking for adventurers, to help deal with some curse, and tells them to be cautious around Caerlynn. 
+
+The session ends with the party leaving [[Melindir]]'s apartments, heading to the [[Temple of Kaikkea]]. 

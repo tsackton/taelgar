@@ -40,7 +40,7 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 - Acquired the [[Scepter of Command]] from the [[Fraternity of the Empty Moon]] sometime in 1747 or early 1748, in exchange for assisting the Fraternity in their plan to draw the energy of [[Pandemonium]] closer to Taelgar, strengthening the curse of lycanthropy and causing madness to spread across [[Dunmar]]. 
 - Thought to be killed by [[Dunmar Fellowship]] at [[Shakun’s Wellspring]] on [[Session 28 (DuFr)|May 29th, 1748]].
 - Masqueraded for months as a fey named [[Typhina]] in the [[Ring of the Warded Mind]], recounting [[Typhina]]'s story to [[Seeker]].
-- Was finally imprisoned in the Heartwood Grove in [[Amberglow]] in the [[Feywild]] in [[Session 61 (DuFr)|November 1748]].
+- Was finally imprisoned in the Heartwood Grove in [[Amberglow]] in the [[Feywild]] in [[Session 67 (DuFr)|November 1748]].
 
 %%SECRET[1]%%
 ## **Other Notes**

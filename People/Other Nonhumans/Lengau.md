@@ -8,6 +8,7 @@ species: celestial
 ancestry:
 gender: nonbinary
 pronouns: he/him or she/her (as they desire)
+excludePublish: ["clee"]
 ---
 # Lengau
 >[!info]+ Biographical Info  

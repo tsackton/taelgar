@@ -1,11 +1,64 @@
 ---
-excludeRooted: ["Clee"]
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 50
+realWorldDate: 2022-07-21
+DR: 1748-08-24
+DR_end: 1748-08-29
+players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which the party evades pursuit
+descTitle: Fleeing Shadows
+name: Dunmari Frontier - Session 50
 ---
+# Dunmari Frontier - Session 50
 
-#### Part 1 
-**(Thursday, July 21st, 2022; in Taelgar, Aug 24th - Aug 29th)**
+>[!info] Fleeing Shadows: in which the party evades pursuit
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: Aug 24, 1748 DR to Aug 29, 1748 DR*
+> *On Earth: Thursday Jul 21, 2022*
+> *Eastern lands of Taelgar, heading towards Erlona*
 
+The Dunmar Fellowship escapes eastward, contending with shadow attacks and nightmares while trying to outpace their pursuers.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Fleeing Shadows",
+  "tagline": "in which the Dunmar Fellowship evades pursuit",
+  "summary": [
+    "The party flees Fausto, finding safe places to rest and travel using a mirror to hide in.",
+    "Delwath unsuccessfully scries on Marcella, but successfully on Fausto who is also scrying.",
+    "Wellby and Kenzo take turns riding east, passing landmarks and trading horses as needed.",
+    "They encounter nightmares and a shadow creature in dreams, hinting at an ominous threat.",
+    "The party is attacked by shadow dogs and Delwath learns Marcella is petrified in the mountains."
+  ],
+  "short_summary": "The Dunmar Fellowship evades their chaser Fausto, trades horses for their eastward journey, while facing supernatural threats and uncovering disturbing dreams.",
+  "location": "East of Chardon towards Erlona"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship flees from Fausto, taking turns hiding in a magical mirror and riding eastward to escape.
+- Wellby successfully scouts and purchases horses, while Delwath attempts to scry on their pursuers, revealing that Fausto is also scrying.
+- They pass landmarks of ancient treaties and encounter Chardonian soldiers, while Wellby maintains a cover story.
+- The group is repeatedly attacked by shadow creatures at night and suffers from haunting nightmares.
+- Despite challenges, the Fellowship continues their journey east, with Delwath scrying and learning of allies' activities.
+
+### Timeline
+- (DR:: 1748-08-24), afternoon: Sneak to a safe place to rest 15 miles east of Chardon; sleep. Kenzo dreams of Hralgar.
+- (DR:: 1748-08-25), morning. Wellby buys horses at a small market town; Delwath scries. [[Kenzo]], [[Seeker]], and [[Delwath]] hide in the [[Mirror of Soul Trapping]]. Wellby rides as fast as possible, passing [[Metium]] and traveling 70 miles east before stopping at midnight to rest.
+- (DR:: 1748-08-26): Wellby rides 60 miles east. Pass a gray stone monolith about 60 feet high. Sleep.
+- (DR:: 1748-08-27): Ride 45 miles east before a horse throws a muscle; Wellby gives him away to an apricot farmer. Pass Chardonian legion heading east. Camp just east of Erlona, about 210 miles east of Chardon. Fitful night marred by dreams of a spear-wielding shadow creature.
+- (DR:: 1748-08-28), morning: Sell old horses and buy new ones in Erlona.
+- (DR::1748-08-28), afternoon. [[Wellby]] hides in the [[Mirror of Soul Trapping]] while Kenzo rides east. 
+- (DR:: 1748-08-28), evening: Pass the Scar of Shadowfire. Attacked by shadow mastiffs. Two horses and the ladder are frightened by shadows and run, but are relocated after an hour. More nightmares.
+- (DR:: 1748-08-29): Travel only about 30 miles as the horses are tired after the attack and Kenzo struggles to keep them on pace. 
+- (DR:: 1748-08-29), evening: Wellby takes over, rides another 20 miles by midnight. Camp around 320 miles east of Chardon. Try to rest. 
+
+
+## Narrative
 We start as the party takes a brief breather in the shadow of a barn in a field of wheat, about a half-mile south of [[Chardon]], having just fled from [[Fausto]]. During the course of a tense day, [[Wellby]] sneaks upriver and finds a place where the party can sleep, unmolested. The next morning, as dawn comes, the party discusses the situation and decides to ride as fast as possible east, with one person riding at a time while the rest of the party remains in the mirror. While [[Wellby]] heads to the nearby market town to buy horses, [[Delwath]] attempts to scry, first on [[Marcella]] (which fails), and then on [[Fausto]] (which succeeds). [[Fausto]] is finishing breakfast, an invisible servant carrying his dishes away, and then takes out a silver mirror with an elaborate jeweled border decoration, and begins casting scrying. 
 
 The rest of the day and into the night, [[Wellby]] rides hard, changing horses frequently. He passes the wine town of [[Metium]] around 3 pm, before running out of steam around midnight about 85 miles east of [[Chardon]]. The next morning, get an early start in the pre-dawn light and ride all day, making another 60 miles with the horses tiring around 9 pm. Pass a tall gray standing monolith stone around 130 miles east of [[Chardon]]. May possibly be associated with the fey, somehow; later learn that this is one of several treaty stones marking the agreements between humans and [[Elves|elves]] in these lands, thousands of years ago. Camp at 9 pm, and rest.
@@ -18,72 +71,6 @@ That night, while the party tries to rest, a pack of shadow dogs attacks, seemin
 
 The next day, the party sets out again, with [[Kenzo]] on the horses, but he is unable to keep up the pace [[Wellby]] was able to set before. After traveling about 30 miles, the horses tired from being frightened of the shadow dogs, the party takes a rest, and [[Wellby]] takes over again. After traveling another 20 miles, the horses are exhausted and the party camps. 
 
-Trying to sleep, [[Seeker]] again has nightmares, of the shadow hunter catching up to him and saying “I found you!”. The rest of the party is watching in the dream mirror, and immediately tries to wake [[Seeker]], as the sound of howls echoes in from near the camp. 
-
 During the journey, [[Delwath]] also spends time Scrying, and sees [[Marcella]] and [[Sura]]. [[Marcella]] is in the mountains to the east, sleeping. [[Sura]] is praying in her tent, reading a prayer book waiting for someone, and then a messenger arrives. He says he has ridden all the way to [[Tokra]], and no one there knew the secret of unpetrifying a person. [[Govir]], at the [[Archives]], is doing some research to see what he can learn, but no one knows how the sword caused this. 
 
-#### Part 2 
-**(Friday, July 21st, 2022; in Taelgar Aug 29th - Sept 6th)**
-
-We start in combat, with the party fighting the shadow hunter and his shadow dogs. [[Seeker]], mostly drained of spells, turns into a Huge Giant Crab for the fight, which sadly does not last long. While [[Wellby]] deals with the dogs, and [[Kenzo]] flees due to the magical fear effect, the shadow hunter knocks [[Seeker]] unconscious and begins to flee with him, until saved by [[Delwath]] and banishing smite. 
-
-After the battle, the party watches as the mask falls off the face of the shadow hunter, and in death he shifts to a normal human, looking pale and gaunt. As he dies, he warns or threatens the party that there are many more chalyte zombies in [[Chardon]] and it will not take long for [[Fausto]] to make more hunters. Before sleeping, the party looks at the mask in [[The Mirror of the Past]], seeing a [[Shadow Hunter's Mask Vision|vision of its past]].
-
-Over the next two days, the party makes their way to [[Arendum]], arriving late at night and taking rooms at the [[Laughing Wolf Inn]], outside the gates. The next day – the first of September – the party spends in [[Arendum]], getting information and planting rumors, and sending letters back to the people they met in [[Chardon]], warning them of [[Fausto]]. From their time in [[Arendum]], they get the sense there is tension between the Chardonians and the Deno’qai: there are no Deno’qai in the town, and it feels like the town is organized around defense. [[Delwath]] buys supplies for a journey north, and spreads rumors about heading to the [[Dwarves]] and then over the mountains to [[Sembara|Sembara]].
-
-The next day, the party heads north, before turning east and south at the confluence with the [[Kayan]] river, turning invisible as they depart the [[Chasa]]. For the next two days, the party travels along the [[Kayan]], invisible, passing pastures and dairy farmers, the occasional forester, and a Chardonian patrol returning from the eave of the woods. Traveling slowly to maintain invisibility during daylight, it takes two days to get into the depths of the [[Elderwood]]. 
-
-By September 4th, the party is deep in the woods, following the [[Kayan]] river under the eaves of the giant redwoods of the forest. Around mid-morning, [[Kenzo]] begins straying from the path along the river, his staff seeming to lead him deeper into the woods. Deciding to follow, the party arrives as a massive clearing, at least 400 feet across. In the center stands a huge tree, towering over the forest itself, stretching maybe 400 feet into the sky, with a 50 foot diameter trunk. [[Kenzo]], drawn to the tree, goes into a trance, becoming one with the forest itself, feeling his perception extend and merge with the network of trees, experiencing the forest as a web of relationships between ancient entities. As [[Kenzo]] goes deeper in this trance, he touches something sour, an acidic corruption covered by a sickly sweet taste. Trying to probe deeper into the corruption, [[Kenzo]] is ejected from his trance, dazed. 
-
-Meanwhile, the rest of the party has encountered a patrol from a Deno’qai village, led by [[Zevi of the Bek'eni]], a warrior from the [[Bek'eni]] tribe. He questions why they are in the [[Bek'eni]] forest, wonders at the behavior of [[Kenzo]], and asks the party to come with his band of warriors to their village, to meet [[Mezzar]], an [[Elves]] who has been advising and aiding the [[Bek'eni]] for the past 10 years. The party agrees to go, helps [[Kenzo]] stand and walk, and heads 5 miles east with the [[Bek'eni]].
-
-Arriving at the village, the party meets [[Zaro]], the chief of the village, and [[Itar]], the Godcaller. [[Delwath]] is treated like a lord, offered a place of honor at dinner, while the rest of the party is relegated to meager accommodations. [[Zaro]] and especially [[Itar]] talk a lot about [[Mezzar]], saying he is expected in the next couple of days and he will be eager to meet [[Delwath]]. [[Itar]] knows little about the tanshi, but is eager to talk about [[Elves|elves]] and [[Mezzar]], and dresses in an imitation of the elven style. The party learns that [[Mezzar]] is trying to deal with the corruption of the [[Te'kula]], and has been taking villagers from the [[Bek'eni]] and training them for this purpose. The party goes to sleep, a little suspicious of [[Mezzar]] but also eager to meet another [[Elves]], especially [[Delwath]]. 
-
-The next morning, while [[Kenzo]] is discussing his experience with the God tree (having been incoherent the day before), [[Wellby]] catches a woman, apparently not well-treated by the tribe, listening in. She introduces herself as [[Theba]], the former Godcaller, ousted by [[Mezzar]]. She tries to convince the party to help her recover her magic gear, taken by [[Mezzar]] (who claimed it belonged to the tribe, not her), and then flee with her to investigate what is really going on with the [[Te'kula]] (she offers to guide the party if they help her recover her stuff). [[Theba]] tells them of another [[Elves]], [[Belegor]], who stayed for a while and then vanished after speaking with [[Mezzar]], and does not want the party to suffer that fate. 
-
-Suspicious but not swayed, the party goes to the God tree. [[Delwath]] scries [[Belegor]] from a drawing [[Seeker]] makes based on [[Theba]]’s description, but the scry fails. [[Kenzo]] communes more with the God tree, reaching out and feeling two [[Elves|elves]] in the forest (one here, one to the south), which the party assumes are [[Mezzar]] and [[Delwath]], despite learning that [[Mezzar]] is supposed to come from the East. 
-
-After returning to the [[Bek'eni]] village, the party debates what to do. Still uncertain, they decide to at least get [[Theba]]’s gear for her. Clairvoyance reveals the layout of the house, and a basement with a small treasure pile (including [[Theba]]’s gear), plus two things that look like patrolling clouds of poisonous gas. [[Delwath]] scouts and encounters large poisonous snakes hiding in the trees, and learns the two statues by the front door are magic and probably trapped. [[Seeker]] and [[Delwath]] dimension door into the stairs to the basement, where [[Delwath]] dashes to grab [[Theba]]’s gear (taking an attack from the poison cloud), and then both [[Seeker]] and [[Delwath]] flee with teleportation magic. 
-
-That night, the party decides in the morning they will meet [[Mezzar]] by the God tree, but be ready for a fight. The next morning, the chief [[Zaro]] is reluctant to let them leave for the God tree until [[Seeker]] uses Suggestion on him. The party then proceeds to the God tree to wait for [[Mezzar]]. 
-
-#### Part 3 
-**(Saturday, July 22nd, 2022; in Taelgar Sept 6th - Sept 30th)**
-
-We begin as the party waits at the God tree for the [[Elves]] [[Mezzar]], debating whether to wait or to flee. While doing so, they look at the God tree in [[The Mirror of the Past]], seeing [[God Tree Vision|a vision]].
-
-The party then sets an ambush: [[Wellby]] is hiding behind a minor illusion of a coil of rope on a wooden platform suspended 30 feet above the ground, while [[Kenzo]] waits about 100 feet up in the lower branches of the God tree. [[Mezzar]] arrives, introduces himself, and attempts to cast Suggestion to first get [[Seeker]], and then [[Delwath]] (twice) to step away with him and have a conversation privately for a few minutes. The spells fail, and [[Wellby]], seeing the third attempt, shoots an arrow as combat breaks out. The combat is initially going well for the party, as [[Seeker]] turns into a Huge Giant Crab and [[Mezzar]]’s attempt to dominate the beast fails. But as the spell fails, [[Mezzar]] shifts form, turning from an [[Elves]] to an adult green dragon, and takes to the air. After a blast of poison gas from his breath weapon catches all of the party and kills every Deno’qai who came with [[Mezzar]] from the village, things look rough and the party decides to flee. The heroic rope [[Ladder]] remains behind, tangling with the dragon, sacrificing itself so the party can escape. 
-
-After the dragon leaves to go back to the village, the party takes the time to bury the dead, leave a letter explaining what has happened, and construct a crude stone monument with Wall of Stone, before leaving for the clearing to the south where [[Theba]] said she would meet them the following day. 
-
-[[Theba]] arrives early the next morning, after [[Delwath]] has spent the pre-dawn and early morning hours scrying, learning that the [[Bek'eni]] are out hunting for the party (presumably), and the letter they left describing what happened has been torn up. [[Theba]] leads the party quickly through the forest to the [[Te'kula]] territory, covering the 110 mile journey in a little more than 3 days, thanks to [[Theba]]’s guidance. 
-
-On the afternoon of September 10th, the party arrives at the boundary of the [[Te'kula]] village, which has been shifting into a pocket dimension. [[Theba]] warns the party not to leave the path, which twists and turns through dense forest. Despite seeing scenes of fears (whether actually occurring or imagined) and other images, the party enters the village of the [[Te'kula]]. 
-
-In the village they are greeted by [[Yota]], the chief of the village, and [[Alayah]], the young Godcaller. [[Alayah]] has been expecting the party, having dreamed of [[Kenzo]] before. When the party meets, [[Alayah]]’s [[Jade Piece of Rai's Hand]] and [[Kenzo]]’s [[Jade Piece of Rai's Hand]] are drawn together, and they tentatively let them touch, transporting [[Alayah]] and [[Kenzo]] into a [[First Dream of Rai|dream]]. 
-
-After the vision, the party has dinner with the village. From [[Alayah]], they learn the story of the [[Te'kula]]. Thirty years ago, [[Jordo]] found the [[Jade Piece of Rai's Hand]] embedded in a fallen God tree, and took it, starting to have dreams of [[Rai]]. When [[Mezzar|Grimbaskal]] came asking to trade for the [[Jade Piece of Rai's Hand]], he refused, defiantly, and for his refusal the village was attacked. Many died, but in desperation [[Jordo]] called out to the tanshi, and miraculously the [[Te'kula]] were sheltered in a pocket dimension.
-
-Later, [[Delwath]] and the [[Elves]] [[Belegor]] have a chance to speak. He talks of what happened to the [[Elves|elves]]: many were killed in the battles against [[Cha'mutte]]’s lieutenants during the [[Great War]], and many of the survivors turned inward, to isolationist, hiding their settlements away in secret places, or even in the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]]. However, many [[Elves|elves]] also vanished, and [[Belegor]] does not know exactly where they went. Some think they were pulled away to other planes, as [[Cha'mutte]] died and his attempted unraveling of the separation of the planes failed. Others think they left to fight evil across the dimensions, or they fled, teleporting whole cities to other planes. 
-
-[[Belegor]] returned from the wars to have children, but did not want to stay hidden forever, so when his children were grown old enough to join their generation-mates he left the hidden town of their birth to wander. He found the Deno’qai, and spent some time with the [[Bek'eni]], but when he met [[Mezzar]], he was suspicious. [[Mezzar]] attempted to geas him, and when he resisted, turned to a dragon and drove him off. He found the [[Te'kula]], and has been hiding here ever since. 
-
-That night, [[Delwath]] prays to [[Yezali|Aaviskar]], and understands the truth of the dimension that protects the [[Te'kula]]. The tanshi do not normally have power to influence the material world so directly, but through the power of the [[Jade Piece of Rai's Hand]], which formed a hole through which the tanshi could act, [[Aasimti]], the spirit of the forest leaves and dappled shadows, managed to create a pocket dimension that could not be accessed without their consent. 
-
-That night, [[Kenzo]] and [[Alayah]] also [[Second Dream of Rai|dream]] together. 
-
-The next morning, [[Delwath]] speaks with the old woman [[Ariel]], who remembers the lost tanshi and tells him they can be found in the [[Forest of Dreams]], to the north. Then [[Theba]] approaches, telling the party she has been praying all night and decided they must fight the dragon. 
-
-War planning then commences, with [[Theba]] and the tanshi offering blessings to help, and [[Obel]], an old ranger whose parents and brother were killed by the original attack volunteering to join as well. 
-
-The next morning, on Sept 12th, the party leaves for [[Mezzar|Grimbaskal]]’s lair, traveling with the guidance of [[Obel]], [[Theba]], and the tanshi for the next three days, arriving at the lair on September 15th. The forest is warm, almost tropical, dense and close here, the tang of saccharine sweetness in the air covering the rot, the only animals snakes that stare at the party as they pass. The lair itself is a cave underground, in the rotted out root complex of a God tree. A massive banyan tree grows around where the trunk of the God tree once was, forming a tunnel the dragon can fly out of. Shafts in the earth provide light and ventilation for the cave below. 
-
-The party prepares for the fight, and enters the lair both above and from the main entrance. Although the dragon is waiting for them, and has four snake-person minions with him, careful planning helps ensure the battle goes well for the party. A well-placed Wall of Stone traps the snake minions, and the metal anchor chain animated by [[Seeker]] manages to grapple the dragon, keeping it pinned to the ground for a few rounds, until it is also destroyed. [[Delwath]], [[Theba]], and [[Kenzo]] fly around the dragon, getting consistent solid hits despite its high Constitution making stun almost impossible to pull off, and [[Wellby]] is able to pincushion it with arrows. Finally, [[Kenzo]] manages to bring the dragon down with a massive magical punch, and it comes crashing down on its hoard. 
-
-After a breather, the party spends the next day gathering [[Mezzar|Grimbaskal]]'s treasure joard, with many thousands of coins, plentiful gems, and beautiful objects of art and magical items. Spending three days to return to the [[Te'kula]], the party then enjoys some well deserved rest and downtime to train, while the treasure is gathered and divided up, and the bodies of the Deno’qai transformed by [[Mezzar|Grimbaskal]] are collected and given a proper burial. Messengers go out to the other tribes, and [[Theba]] organizes a diplomatic mission to break the news of [[Mezzar]]’s deception and the other corrupting influences the dragon had on the forest. [[Kenzo]] speaks with [[Alayah]], who turns over her [[Jade Piece of Rai's Hand]] to him at the fallen God tree, where he also takes some wood to carve into figurines to give to people whose stories he collects. 
-
-During this time, the party also looks at two items in the [[The Mirror of the Past|mirror of Eudomes]].
-
-Finally, on September 30th, the party leaves, with [[Theba]], a diplomatic mission, and the [[Elves]] [[Belegor]], to go to visit the rest of the Deno’qai tribes. As [[Kenzo]] leaves the pocket dimension with both jades, the portal allowing the tanshi to reach the world disappears, and the [[Te'kula]] territory returns to the material plane. 
-
-As the pocket dimension closes, the party is caught in the backlash. For a moment, briefly, they can see each other being pulled in different directions: [[Wellby]], to a ship approaching the jagged coastline of an island far across [[Green Sea]]; [[Delwath]], to a campfire hidden in the [[Forest of Dreams]]; [[Seeker]], to a meadow of butterflies with two satyrs frolicking across it; [[Kenzo]], to a dense, tropical forest, the wooden paths of a lizardfolk village just visible amongst the greenery. In this moment, you realize what is happening and you all think to each other, find a way to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]], to the portal near [[Stormcaller Tower]], we will meet again there. And then, you are falling. 
+Trying to sleep, [[Seeker]] again has nightmares, of the shadow hunter catching up to him and saying “I found you!”. The rest of the party is watching in the dream mirror, and immediately tries to wake [[Seeker]], as the sound of howls echoes in from near the camp, and the session ends. 

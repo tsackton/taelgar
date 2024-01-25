@@ -1,15 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, dufr/met_one, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo: []
+tags: [person]
 name: Arrosa
 born:
+activeYear: 1745
 species: lizardfolk
 ancestry:
 gender: female
-whereabouts:
-- {type: home, start: '', end: '', location: Bedez}
+whereabouts: Bedez
 ---
 # Arrosa
 >[!info]+ Biographical Info  

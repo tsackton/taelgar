@@ -1,9 +1,74 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 47
+realWorldDate: 2022-05-26
+DR: 1748-08-09
+DR_end: 1748-08-21
+players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
+companions: [Emerald Song, Oswalt Tealeaf, Jasmine Sunmeadow]
+tagline: in which the party sails northward
+descTitle: Voyage to Chardon
+name: Dunmari Frontier - Session 47
 ---
+# Dunmari Frontier - Session 47
 
-**(Thursday, May 26th, 2022; in Taelgar, Aug 9th - Aug 21st)**
+>[!info] Voyage to Chardon: in which the party sails northward
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
+> *In Taelgar: Aug 09, 1748 DR to Aug 21, 1748 DR*
+> *On Earth: Thursday May 26, 2022*
+> *aboard the Emerald Song, Darba to Chardon*
 
+The Dunmar Fellowship embarks on a swift journey to Chardon, encountering windcallers and receiving ominous news about an ally.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Voyage to Chardon",
+  "tagline": "in which the Dunmar Fellowship sets sail",
+  "summary": [
+    "The Dunmar Fellowship departs Darba aboard the halfling ship Emerald Song, destined for Chardon.",
+    "During dinner, the party meets the ship's crew, hears tales of their exploits, and learns of other dangers like undead attacks.",
+    "A couple, Jasmine Sunmeadow and Oswalt Tealeaf, share their story of adventure and connection to the Fellowship.",
+    "Wellby hears of storm giants from Ewen Silversong and the party opts for a faster sailing route.",
+    "They pass through the Old Chardon Canal, using a lead box to hide the Portable Hole containing most of the group.",
+    "A mysterious figure in blue robes uses magic to aid their journey through the canal.",
+    "Riswynn sends a message to Marcella, trapped in a cave, while the ship continues towards Chardon.",
+    "The Emerald Song safely docks in Chardon, ending the 13-day journey from Darba."
+  ],
+  "short_summary": "The Dunmar Fellowship sails to Chardon aboard the Emerald Song, encountering mysterious magic and sharing tales of adventure.",
+  "location": "from Darba to Chardon"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship departs Darba on the Emerald Song, making acquaintances with the captain and passengers.
+- At dinner, stories are shared, including tales of undead and personal histories, fostering camaraderie.
+- The party opts for a speedy route to Chardon, bypassing a hidden coastal path.
+- The Emerald Song traverses the Old Chardon Canal with the aid of Chardonian windcallers, cutting travel time.
+- Riswynn sends a distressing message about Marcella's predicament, suggesting urgency in their mission.
+
+### Timeline
+- (DR:: 1748-08-09): Depart Darba on the Emerald Song. Meet the captain, crew, and passengers. Have dinner and share stories. 
+- (DR:: 1748-08-10): Arrive at the Isle of Folly. Turn west aiming for the coast of Illoria. 
+- (DR:: 1748-08-11) - (DR_end:: 1748-08-13): Sail west towards Illoria.
+- (DR:: 1748-08-14): Pass near the coast of Illoria; turn north by northwest.
+- (DR:: 1748-08-15) - (DR_end:: 1748-08-16): Sail north by northwest.
+- (DR:: 1748-08-16), evening: Reach the [[Old Chardon Canal]]. Spend night at docks. [[Kenzo]], [[Seeker]], [[Riswynn]], [[Delwath]], and [[Baxter]] hide in the [[Mirror of Soul Trapping]]. 
+- (DR:: 1748-08-17): Pass through the canal, guided by Chardonian windcallers. Spend the night at docks on the north side.
+- (DR:: 1748-08-18), morning: [[Kenzo]], [[Riswynn]], [[Seeker]], and [[Delwath]] exit the [[Mirror of Soul Trapping]]. 
+- (DR:: 1748-08-18) - (DR_end:: 1748-08-20): Sail north by northeast towards Chardon.
+- (DR:: 1748-08-21), afternoon: Arrive at the estuary at the mouth of the Chasa River and sail into Chardon. 
+
+### Mirror of the Past:
+- (DR:: 1748-08-10): Use mirror to look at the [[Raven Whistle]], seeing the [[Raven Whistle Vision]]. (recharge:: mirror)
+- (DR:: 1748-08-18): Use mirror to look at the [[Chardon Fan|fan with a Chardonian design]], seeing the [[Chardon Fan Vision]]. (recharge:: mirror)
+
+
+
+## Narrative
 We begin as the party boards the [[Emerald Song]], the halfling ship they will sail on to [[Chardon]]. As the ship departs [[Darba]], the party gets settled and enjoys the view from the deck, before heading to dinner with the captain, some of the crew, and the two other passengers, both halflings.
 
 The party is introduced to the captain, [[Harol Silversong]]; the family elder and songkeeper, [[Ewen Silversong]]; the cook, [[Pearl Copperharp]]; the navigator, [[Lyle Honeyhill]]; and the passengers [[Jasmine Sunmeadow]] and [[Oswalt Tealeaf]], a young married couple. [[Dani Silversong]], the quartermaster and chief trader on the ship, is also there. As dinner starts, conversation touches on the rumors of [[Dunmar]] - both of the party’s exploits, and other tales such as a story of an undead attack across the river [[Shrev]] to the south. [[Oswalt Tealeaf]] is a cousin of [[Garret Tealeaf]]’s, and quite pleased to learn he is alive. Indeed, it was [[Agata]]’s attack on their caravan that turned him to learning archery; in his wanderings he met [[Jasmine Sunmeadow]] outside [[Darba]], and they bonded over a shared love of the wilds and of wandering. [[Jasmine Sunmeadow]] grew up the daughter of the innkeepers of [[The Green Leaf]], the halfling inn in the harbor in [[Darba]]. She liked to wander, to find new plants, and met [[Oswalt Tealeaf]] in her wanderings. Eventually they got married and decided to go seek adventure.
@@ -11,6 +76,7 @@ The party is introduced to the captain, [[Harol Silversong]]; the family elder a
 As dinner ends, [[Harol Silversong]] and [[Pearl Copperharp]] take out their instruments, and the party discusses their route with the navigator, [[Lyle Honeyhill]]. Although the halflings offer a more hidden route along the coast, the party decides speed is of the essence. [[Wellby]] also talks with [[Ewen Silversong]] a bit, hearing stories of his journeys across the [[Sea of Storms]] to the mysterious lands to the south, and tales of storm giants lurking in the ocean there. 
 
 Lyle's chart:
+
 ![[halfling-chart.png|500]]
 
 The next days pass quietly in the routine of the ship. While a few vessels are spotted – Chardonians and other traders – none come close or threaten to board. After a few days sailing, the [[Emerald Song]] approaches the [[Old Chardon Canal]] that connects the [[Nevos Sea]] to the [[Endless Ocean]] to the north, and cuts many weeks off the sailing time between [[Dunmar]] and [[Chardon]]. Originally built by the Drankorians, it is now managed and run by the [[Chardonian Empire]]. 

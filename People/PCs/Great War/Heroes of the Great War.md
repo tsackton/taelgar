@@ -3,4 +3,4 @@ tags: [organization, status/unknown]
 typeOf: adventuring party
 ---
 
-(stub)
+The adventurers [[Rai]], [[Aerin]], [[Kyr]], and [[Beryl]], who defeated [[Cha'mutte]] in the [[Great War]]. 

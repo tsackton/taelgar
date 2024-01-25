@@ -1,43 +1,56 @@
 ---
-excludeRooted: ["Clee"]
 tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 82
+realWorldDate: 2023-08-09
+DR: 1748-12-25
+DR_end: 1748-12-30
+players: [Seeker, Delwath, Kenzo, Wellby]
+tagline: in which the party returns to Tollen for Pyravela
+descTitle: Pyravela Festivities
+name: Dunmari Frontier - Session 82
 ---
-# Session 82
-*in which the party defeats Grash and saves Uzgukhar
+# Dunmari Frontier - Session 82
 
-**In the real world:** November 22, 2023
-**In Taelgar:** January 17th, 1749 - January 20th, 1749
-## Summary
+>[!info] Pyravela Festivities: in which the party returns to Tollen for Pyravela
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]]*
+> *In Taelgar: Dec 25, 1748 DR to Dec 30, 1748 DR*
+> *On Earth: Wednesday Aug 09, 2023*
+> *[[Tollen]]*
 
-- [[Riswynn]] rejoins the party
-- Grash's massive trebuchet is destroyed by a perfectly aimed animated boulder
-- The [[Dunmar Fellowship]] defeats [[Grash]] through teamwork and skill.
-- [[Wellby]] destroys the [[Ring of Undying]], and is killed by [[Grash]] in incoherent anger
-- [[Riswynn]], with the aid of the [[Bahrazel]] and a perfect diamond, brings [[Wellby]] back to life
-## Session Events
-#### Timeline 
-- (DR:: 1748-01-17): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
-- (DR:: 1748-01-18): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
-- (DR:: 1748-01-19): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
-- (DR:: 1748-01-20): The party arrives in [[Uzgukhar]] soon after sunrise. [[Riswynn]] rejoins the group. Together, they destroy a massive trebuchet, fight off specters, and kill [[Grash]] in the [[Battle for Uzgukhar]]. [[Wellby]] is killed, and resurrected. The people of Uzguhkar celebrate survival. 
+The Dunmar Fellowship engages in [[Pyravela]] celebrations in [[Tollen]], exchanges stories, and uncovers clues about a magical jade garden.
+
+## Session Info
+### Summary
+- The [[Dunmar Fellowship]] arrives in [[Tollen]], receiving messages and splitting up for various tasks.
+- The party attends the [[Pyravela]] parade and later the Isinguer party, where they meet [[Hugo Dupont ]]and discuss the acidic ooze in [[Isingue]]
+- At the university party, they encounter playwright [[Thomas Hawke]], exchange stories, and learn of a potentially significant jade garden.
+- Finally, the party prepares for their own [[Pyravela]] feast and consults [[Umli]] about crafting.
+
+### Timeline
+- (DR:: 1748-12-25), late morning: Depart for [[Tollen]].
+- (DR:: 1748-12-26): Travel towards [[Tollen]]
+- (DR:: 1748-12-27): Travel towards [[Tollen]]
+- (DR:: 1748-12-28): Arrive in [[Tollen]] late afternoon; split up for various errands
+- (DR:: 1748-12-29): First day of [[Pyravela]]; attend parade; Isinguese party on [[Scrollwright Street]] hosted by [[Guy Marchand]]; student party at the university
+- (DR:: 1748-12-30): Work on party preparations; speak with [[Umli]] 
+
+### The Mirror of the Past
+- (DR:: 1748-12-30): Use [[The Mirror of the Past]] on Urgall's note: [[Urgall's Note Vision]] (recharge:: mirror)
+
+### Notes
+- The party deciphers [[Urgall's scroll]] and reconstructs the [[Flaming Tempest log books]]
 ## Narrative
+We begin as the party has been traveling for three days, across the [[Western Green Sea]] and the interior forests of [[Vostok]], and is approaching [[Tollen]]. During this time, [[Delwath]] has been [[Scrying Late Dec 1748|scrying, and messages have come in]].
 
-We begin on [[Vindristjarna]], racing towards [[Uzgukhar]]. The party uses the few days of travel to learn what they can about [[Grash]], and the [[Ring of Undying]], from the various stories collected by [[Kenzo]] and the maps and lore and [[Halflings|halfling]] memories maintained by [[Wellby]]. 
+Arriving in [[Tollen]], the party receive letters from various contacts from a [[Halflings|halfling]] messenger sent by [[Wendel Quickstep]] from [[The Windward Sail]], and split up to handle errands. [[Kenzo]] speaks with [[Cecilia Lister]], from whom he learns about the [[Dyer's Guild]] [[Pyravela]] party, and also hears that [[Jane Chapman]] is a good person to speak to about [[Ursk]]. [[Kenzo]] also meets with [[Escobar Garavito|Escobar]] at the university, who tells him that [[Thomas Hawke]] is the person to meet; he'll be at the university party tomorrow. [[Wellby]] tells the story of the destruction of the scepter at various [[Halflings|halfling]] inns, spreading the word and building its tale into the song of this year. [[Seeker]] works on mechanical devices, with mixed success, building a pinball machine that is quite fiddly to actually load balls into. And [[Delwath]] spreads the word about the party, with mixed success. Between [[Kenzo]] and [[Delwath]], it is clear that the word is out, but many people are a bit surprised that an [[Elves|elf]] and a Dunmari are hosting a [[Pyravela]] party, given the holiday's association with [[Mos Numena]] and [[The Wyrdling]].
 
-Arriving a few hours after sunrise on January 20, 1748, the bombardment of [[Uzgukhar]] has already begun. A massive trebuchet, at least 300 feet tall, stands on the battlefield, capable of slinging rocks big enough to crush walls and houses, from more than 1000 feet from the city. Lines of [[undead]], mostly orc zombies, pull on massive ropes to winch up the counterweight for another blast. It is clear that the city cannot survive a full day of this. Arrayed around the city in siege lines are many more [[undead]], supported by swarms of specters and shades swooping overhead. In trenches, shadow dogs wait for nightfall, when they can run through the city unchecked. 
+The next day, the party attends the [[Pyravela]] parade, full of floats depicting miracles of [[The Wyrdling]], and led by a procession of the elders of the [[Ancient and Honorable Guild of Philosophers]], said to be the oldest guild in the city, dating to before [[The Downfall]] of [[Hkar]]. Also watching the parade is a centaur, [[Aurelia]]; [[Delwath]] and [[Kenzo]] speak with her briefly, learning she has lived here for 20 years, turning away from the migratory habits of most of her people to really get to know one place. 
 
-The party quickly leaps into action. [[Seeker]] creates a massive boulder, ten feet on a side, as [[Vindristjarna]] rises to 300 feet above the battlefield. Even as shades and specters rush to intercept the ship, the boulder (decorated to look like a ladder) launches itself from the deck. Never before has a boulder fallen so precisely from such a great height. With a mighty crack, the flying boulder-ladder hits the center of the long arm of the trebuchet directly, splintering into hundreds of pieces and utterly destroying the siege machine and itself in the process. Later, [[Seeker]] will build a memorial to the short-lived hero: "Lord Boulder, hero of the [[Battle for Uzgukhar]] smasher of the trebuchet, liberator of the missile stones, star among rocks”. 
+After the parade, the party heads to [[Scrollwright Street]], finding the Isinguese party hosted by [[Guy Marchand]] spilling out into the street. Everyone is wearing floral colors, feather masks, and dancing in a big circle around a fire, to the melodies of an accordion. A huge spread of food -- long, snake-like pastries, tomato jam,  cheese, and lots of mulled wine -- is set up next to the band, and everyone seems to be having a great time. Guy eventually waves [[Sarah de Gray]] over, who is a young girl of maybe 16, and who seems to be having a great time at the party. [[Wellby]] begins talking about the acidic ooze infesting [[Isingue]], which doesn't go over so well in the party atmosphere, and then eventually asks about [[Ursk]]. Sarah doesn't seem to know much, but introduces [[Wellby]] to [[Hugo Dupont]], a professor at the university.
 
-![[battle-for-uzgukhar.jpeg]]
+Hugo is an older man, not in the best shape, but still clearly enjoying the party and dancing as best he can. He is interested in [[Wellby]]'s news about the acidic ooze occupying [[Isingue]], and says he will write to people he knows in the south, but also asks [[Wellby]] if he would visit the [[Refounded Alliance of Aurbez]]. He is a scholar of comparative divinity and practical theology, and while he doesn't have much news of [[Ursk]], he does report that there are curiously no records of the form the gods take in that land. 
 
-With the trebuchet destroyed, the party fights off a group of shades and specters, and turns to find [[Grash]]. He is standing, watching the battle, seemingly unconcerned with the arrival of a flying skyship, and is ready, waiting, for the party.
+Later that day, the party leaves the Isinguer street party and makes their way along [[Scrollwright Street]] to [[Magnus Street]], the university district. It is much more of a carnival atmosphere: one of the main courtyards is lit up with magic, people are playing dice games and other games of chance, and the vibe is noisy and raucous. Drifting through the party, the party finds [[Thomas Hawke]], elegantly dressed and handsome. He is speaking at a packed inner courtyard full of his fans, reciting a monologue from one of his plays. It is the story of a sailor, shipwrecking, bemoaning the poor choices in his life, praying to [[The Wyrdling]] for another chance to make things right. After the recitation is done, the party talks to Thomas, who is a playwright and a collector of stories. Although he has little to say about [[Ursk]], he agrees to an exchange of stories. [[Wellby]] tells the story of [[Arryn]] the Wanderer and the mirror dimension, as Thomas records with a magic quill, changing [[Wellby]]'s name. In exchange, Thomas tells a story about magical jade, the inspiration for [[Luminastra's Gift]], the play his monologue was from, a story of Luminastra, a magic whale, and Geoffrey the Sailor, shipwrecked, rescued, and taken to a magical world below the ocean. This, Thomas says, was inspired by a real tale, a story from the oceans west of [[Chardon]], where a garden of magical jade rows beneath the ocean, tended to by [[Merfolk]], who would grow names in their garden. Obviously, the party reliezes that this may be related to a [[Jade Piece of Rai's Hand]].  
 
-While [[Seeker]] hides on the deck of [[Vindristjarna]] slinging spells from a distance, the rest of the party engages. [[Grash]] fights viciously with his wicked glaive, every slash leaving a bleeding wound that makes movement painful, and his cloak of shadows protecting him and retaliating when cut or pierced. With the [[Ring of Undying]], he summons cursed chains that bind the arms of his enemies, weakening them and binding them closer to death. The party fights back with [[Delwath]]'s sword, [[Wellby]]'s bow, [[Kenzo]]'s fists, [[Riswynn]]'s divine sunbeam, and [[Seeker]]'s incapacitating lance of psychic energy. [[Grash]] stumbles, but cannot die: when it seems he might die, the ring draws the life force of those around him to restore him to life again. 
-
-As the battle progresses, and [[Grash]] slows, finally there is an opening to cut off his hand and take, and destroy, the [[Ring of Undying]]. Wounded and close to unconsciousness, and bound in place by shadowy claws summoned by [[Grash]], [[Kenzo]], who has channeled [[Motua]] and dodged [[Grash]]'s glaive the whole battle, summons the claws of [[Lengau]], and slashes as [[Grash]]'s wrist, severing his hand. With an off-balance throw, he tosses the hand to [[Wellby]], who barely grabs it, as the shadow claws slash at [[Kenzo]], dragging him to unconsciousness. [[Wellby]], the [[Ring of Undying]] in hand, takes out a vial of [[Universal Solvent]], and uses the last drop to dissolve the binds of the [[Land of the Dead]] that are wrapped around the ring, disintegrating it and unleashing a burst of necrotic energy that knocks [[Wellby]] unconscious. [[Grash]], overcome with rage, shadow steps to [[Wellby]], who is standing on a stone arch above the desert, and strikes him, once, twice with his glaive, and then pushed him to the ground below, dead. [[Delwath]], seeing the ring destroyed, teleports to [[Grash]] and then, with a cut of his sword, kills him. 
-
-The party retreats to [[Vindristjarna]] as the [[undead]] hordes begin to waver, and fall, every zombie, shade, or skeleton brought back by the power of the ring now unmade and returned to death. [[Riswynn]] prays to the [[Bahrazel]], channeling her magic through a perfect diamond, which sparkles and shatters with images of [[Wellby]]: a map, a compass, a ship on the open ocean searching for distant lands. As the spell completes, [[Wellby]] is brought back to life, shaken. 
-
-For the rest of the day, the party helps the [[People of the Rainbow|orcs]] of [[Uzgukhar]] destroy the few [[undead]] and other creatures left in [[Grash's Horde|Grash's armies]], as [[Xurkhaz]] is saved and the [[Cloak of Rainbows]] protected. 
-
-We end that evening, as the celebrations of survival and mourning for the dead last long into the night in [[Uzgukhar]], as the party hears stories of the [[People of the Rainbow]] from [[Murook]], [[Lubash]], and [[Azogar]], among many others. 
+The next morning, the party spends time in preparation for hosting a [[Pyravela]] feast on [[Vindristjarna]], and then heads to [[The Fire and Stone]] to meet [[Umli]] in the afternoon. She is excited by [[Delwath]]'s shadow metal, which she says is called *[[Inkaye]]* (in-ka-yay) by her people. It is a metal that can absorb and repurpose extraplanar energy. She can shape it into something new, if desired, and also make weapons or armor with the [[Skaer steel]] the party brought back. The session ends as the party leaves [[The Fire and Stone]], to handle last minute preparations for their feast before heading to the [[Dyer's Guild]] party.  

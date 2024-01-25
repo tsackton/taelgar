@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
+tags: [person, status/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-30, type: met}
 name: Aurelia
 born: 1703
+activeYear: 1733
 species: centaur
 gender: female
 whereabouts:
 - {type: home, start: 1733, location: Tollen}
 ---
+%% Status tag: seems complete; leaving Tim in case you have notes or other info to incorporate %%
 # Aurelia
 >[!info]+ Biographical Info  
 > A [[Centaurs|centaur]] (she/her)  

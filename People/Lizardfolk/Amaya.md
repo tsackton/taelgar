@@ -8,6 +8,7 @@ species: lizardfolk
 ancestry: salt
 gender: female
 whereabouts: Eskorola
+activeYear: 1747
 ---
 # Amaya
 >[!info]+ Biographical Info  

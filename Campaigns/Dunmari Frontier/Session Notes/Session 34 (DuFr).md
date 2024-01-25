@@ -1,14 +1,61 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 34
+realWorldDate: 2021-11-07
+DR: 1748-06-30
+DR_end: 1748-07-01
+players: [Kenzo, Wellby, Delwath, Seeker]
+tagline: in which the party tames extraplanar chaos
+descTitle: The Arborea Essence
+name: Dunmari Frontier - Session 34
 ---
+# Dunmari Frontier - Session 34
 
-**(Sunday, Nov 7th, 2021; in Taelgar, June 30th to July 1st)
+>[!info] The Arborea Essence: in which the party tames extraplanar chaos
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
+> *In Taelgar: Jun 30, 1748 DR to Jul 01, 1748 DR*
+> *On Earth: Sunday Nov 07, 2021*
+> *Lakan Monastery and Elven Arborea Workshop*
 
+The Dunmar Fellowship collects extraplanar energy from beneath Lakan Monastery while contending with dangerous creatures.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Monastery Mysteries",
+  "tagline": "in which the Dunmar Fellowship faces ancient dangers",
+  "summary": [
+    "The party learns of omens troubling the Lakan Mystai and Speaker Lara's journey to a watchtower.",
+    "Basu, an artisan monk, enlists the party's help with an overflowing energy problem in an elven ruin.",
+    "The party encounters and overcomes environmental hazards and creatures in the elven ruin.",
+    "They successfully charge vials with extraplanar energy while fending off a giant velvet worm."
+  ],
+  "short_summary": "The Dunmar Fellowship aids the Lakan Monastery by resolving a dangerous energy overflow in ancient elven ruins and charging vials with extraplanar energy.",
+  "location": "Lakan Monastery"
+}
+```
+%%
+## Session Info
+### Summary
+- The Dunmar Fellowship, minus Wellby, meets Rishi at Lakan Monastery and learns of omens disturbing the monks.
+- Basu, the monastery's artisan, shares concerns about unchecked energy from an elven ruin below the monastery.
+- Dinner with monks reveals issues with food scarcity and the monks' preoccupation with omens; Johar discusses Tokra Archives.
+- The party descends to Elven Arborea Workshop, faces hazardous molds, oozes, and memory-stealing fungi.
+- Seeker turns a giant velvet worm guarding the weak point into an earthworm, allowing the collection of extraplanar energy.
+
+### Timeline
+- (DR:: 1748-06-30), evening: Speak with Rishi at the Lakan Monastery. Meet Basu at dinner, who gripes about the overflowing energy of Arborea in the elven ruins below the Lakan monastery. Meet Kassi, the head librarian at the monastery. Dinner discuss events in Tokra with Johar, Kenzo's old friend. Spend the night at the monastery. 
+- (DR:: 1748-07-01), morning: Enter ancient elven ruins. Defeat slimes and oozes and confront massive velvet worm near the [[extraplanar weak point]], which is tamed by Seeker's magic. Return to surface with three vials filled with the essence of Arborea's extraplanar energy.
+
+
+## Narrative
 The session starts as the party (excepting [[Wellby]], who is taking [[Garret Tealeaf]] to [[The Red Lily Inn]]) stands in the entrance to the [[Lakan Monastery]], in front of the Lakan monk [[Rishi]], [[Kenzo]]’s friend and master. After introductions, the party learns from [[Rishi]] that the [[Lakan Mystai]] have had omens and dreams, and many of the monks, including Speaker [[Lara]], are currently traveling to hopefully learn more of these omens. For the past three weeks, many of the mystai have had premonitions that the cycle of history was out of sync with itself, that the branching paths of the past, once pruned and gone into history, are now renewed. Speaker [[Lara]] had a dream of a watchtower to the east, one of the many guard towers built before the [[Great War]] to protect the northern reaches of [[Dunmar]], and left with many companions to visit this place a few days ago. 
 
 While the party gets settled into the monastery, unloading the cart and finding secure places to store extra stuff, [[Wellby]] arrives, and the party decides to stay at the monastery for dinner. During dinner, they meet [[Basu]], the eccentric artisan who runs the workshop of the Lakan monks and is an expert in crafting magic items with extradimensional spaces. He is grumpy and upset, because no one will pay attention to his problems, everyone being too concerned with the strange omens. He explains that, beneath this monastery, there is an old elven ruin with a weak point between the planes. He uses the energy that spills out in the construction of magic items, but if it is not harvested it is likely to accumulate in strange ways. No one has bothered to go down in weeks, given the distraction of the omens. They also are introduced to [[Kassi]], the head librarian, and [[Johar]], [[Kenzo]]’s friend. There are a few other grumbles around the table, mostly about food and how it is scarce now, with the army camp and the refugees. 
 
-After dinner, they discuss the [[Tokra]] [[Archives]] with [[Johar]]; the clues and information he imparts is in [Seeker's Journal](https://docs.google.com/document/u/0/d/1S5M1wm5WHlFc2Zatn9YepfmNutGdjgSdo0oiTxPUWa4/edit). They also briefly discuss the Chardonian presence, which seems to [[Johar]] to be just a small contingent of mages, and [[Saka]], who [[Johar]] has not heard of. 
+After dinner, they discuss the [[Tokra]] [[Archives]] with [[Johar]]; the clues and information he imparts are in [Seeker's Journal](https://docs.google.com/document/u/0/d/1S5M1wm5WHlFc2Zatn9YepfmNutGdjgSdo0oiTxPUWa4/edit). They also briefly discuss the Chardonian presence, which seems to [[Johar]] to be just a small contingent of mages, and [[Saka]], who [[Johar]] has not heard of. 
 
 The next morning, after breakfast, the party meets [[Basu]] at his workshop and are led to the entrance to the [[Elven Arborea Workshop]] beneath the monastery, with three vials of prepared oil that must be placed near the leakage from [[Arborea]] to charge, before they can be used to construct magic items with extradimensional spaces. 
 

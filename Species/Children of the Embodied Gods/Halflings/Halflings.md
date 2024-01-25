@@ -6,7 +6,6 @@ aliases: [halfling, Halfling, halflings, Halflings]
 # Halflings
 
 The whistle of the wind in the sails, on a ship crashing through the waves far from land. The clink of coin changing hands at the market. The crackle of the campfire and the smell of bacon and tomatoes sizzling after a long day of walking. The creak of a wagon lumbering to the next village, with a cheery tune emanating from within. Halflings love these things. A nomadic people who rarely settle in one place for long, halflings come and go with the rhythm of the seasons, making money, friends, or both along the way.
-
 ### Small and Charming
 
 Halflings are short and stout, usually standing between 3 and 3 ½ feet tall and weighing between 40 and 50 pounds. Surrounded by larger races, they survive on their charm, and when that fails, their talent for quickly slipping out of sight. Halflings are quite variable in appearance, although all tend towards stoutness and curly hair. Those who ply the trade routes of the Inner Sea tend towards darker, deeply tanned complexions, while the merchants and travelers west of the mountains are paler and more likely to have blond or red hair. All halflings have bright eyes, usually green or hazel or brown. They favor practical clothing, made for traveling, although they are not above a few colorful flourishes; a halfling in a muted, sturdy clothes in browns and grays with a brightly colored cloak is not an uncommon sight. 

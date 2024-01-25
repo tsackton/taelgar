@@ -1,6 +1,12 @@
 ---
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 name: Nayan
 typeOf: river
-partOf:
+whereabouts: Greater Dunmar
 ---
+# Nayan
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+

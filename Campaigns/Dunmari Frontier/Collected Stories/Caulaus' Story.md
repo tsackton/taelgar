@@ -1,7 +1,7 @@
 ---
 tags: [status/unknown]
 ---
-(as told to [[Kenzo]], [[Session 61 (DuFr)]])
+(as told to [[Kenzo]], [[Session 67 (DuFr)]])
 
 I was the only child, much to my parents disappointment. I don't remember much of my childhood schooling, military training.
 

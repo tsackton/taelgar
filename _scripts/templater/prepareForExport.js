@@ -1,62 +1,55 @@
-async function processLinksInFile(tfile, checkRooted, campaign, notice) {
-    let root = window.app.vault.getRoot().path
+function sanitizeQuery(query) {
+	let isInsideCallout = false;
+	const parts = query.split("\n");
+	const sanitized = [];
 
-    const { NameManager } = customJS
+	for (const part of parts) {
+		if (part.startsWith(">")) {
+			isInsideCallout = true;
+			sanitized.push(part.substring(1).trim());
+		} else {
+			sanitized.push(part);
+		}
+	}
+	let finalQuery = query;
+	if (isInsideCallout) {
+		finalQuery = sanitized.join("\n");
+	}
+	return {isInsideCallout, finalQuery};
+}
 
-    notice.setMessage("Checking links in file\n\n" + tfile.name.padEnd(100, " "))
-
-    console.log("Processing file " + tfile.name)
-
-    let metadata = app.metadataCache.getFileCache(tfile)
-    if (checkRooted && metadata && metadata.frontmatter && metadata.frontmatter.rooted) return
-
-    await app.vault.process(tfile, (data) => {
-        let currentContents = data.split('\n');
-
-        // the end of the yaml -- this is 0-counting, so if the file is just a yaml start and end it will be 1
-        let indexOfYamlEnd = currentContents.findIndex((f, i) => i > 0 && f == "---");
-
-        if (indexOfYamlEnd > 0) {
-            let yaml = currentContents.filter((v, i) => i >= 0 && i < indexOfYamlEnd)
-            let sharedYamlIdx = yaml.findIndex(f => f.trim().startsWith("rooted"))
-            if (sharedYamlIdx >= 0) {
-                currentContents[sharedYamlIdx] = "rooted: true"
-            } else {
-                currentContents.splice(1, 0, "rooted: true")
-                indexOfYamlEnd++
-            }
-        } else {
-            currentContents.splice(0, 0, "---")
-            currentContents.splice(0, 0, "rooted: true")
-            currentContents.splice(0, 0, "---")
-        }
-        return currentContents.join("\n");
-    })
-
-    if (metadata && metadata.frontmatter && metadata.frontmatter.excludeRooted) {
-        if (metadata.frontmatter.excludeRooted.some(f => f === campaign)) return
-    }
-
-    if (metadata && metadata.links) {
-        for (let link of metadata.links) {
-            // quick search            
-            let tfile = window.app.metadataCache.getFirstLinkpathDest(link.link, root)
-            if (tfile) {
-                await processLinksInFile(tfile, true, campaign, notice)
-            }
-        }
-    }
+function surroundWithCalloutBlock(input) {
+	const tmp = input.split("\n");
+	return " " + tmp.join("\n> ");
 }
 
 async function prepareForExport(tp, headerType) {
 
-    const { DateManager } = customJS
+    await forceLoadCustomJS()
+
+    const metadataFilePath = app.vault.configDir + "/metadata.json";
+    let metadataFile = await app.vault.adapter.read(metadataFilePath);
+    customJS.state.coreMeta = JSON.parse(metadataFile)
+
     const { OutputHandler } = customJS
+    const { DateManager } = customJS
+    const { WhereaboutsManager } = customJS
 
-    let date = await tp.system.prompt("Enter new fantasy calendar date override: (YYYY, YYYY-MM, or YYYY-MM-DD, or blank to clear)")
-    let campaign = await tp.system.prompt("Enter a campaign key for rooted exclusion calculations: ")
+    let websiteDate = ""
+    let staticify_whereabouts = false
+    try {
+        let metadataFile = await app.vault.adapter.read(app.vault.configDir + "/../../website.json");
+        let websiteData = JSON.parse(metadataFile)
+        websiteDate = websiteData.export_date
+        staticify_whereabouts = websiteData.staticify_whereabouts
+    }
+    catch { }
 
+    let defaultExport = websiteDate ?? ""
+
+    let date = await tp.system.prompt("Enter new fantasy calendar date override: (YYYY, YYYY-MM, or YYYY-MM-DD, or blank to clear)", defaultExport)
     let normalized = DateManager.normalizeDate(date)
+
 
     if (normalized) {
         customJS.state.overrideDate = normalized
@@ -69,12 +62,18 @@ async function prepareForExport(tp, headerType) {
     let processed = 0
     let errors = 0
 
-    var notice = new Notice("Making headers static", 0)
+    var notice = new Notice("Link checking skipped. Making headers static", 0)
+
     for (let i = 0; i < files.length; i++) {
-        break
-        await app.vault.process(files[i], (data) => {
-            let md = app.metadataCache.getFileCache(files[i])
-            if (md && md.frontmatter && md.frontmatter.tags && md.frontmatter.headerVersion) {
+        let md = app.metadataCache.getFileCache(files[i])
+
+        let processHeader = md && md.frontmatter && md.frontmatter.tags && md.frontmatter.headerVersion
+        let dateValue = md.frontmatter ? DateManager.getPageDates(md.frontmatter) : { isCreated: true }
+        let processFrontmatter = !dateValue.isCreated || (staticify_whereabouts && md.frontmatter && md.frontmatter.whereabouts && Array.isArray(md.frontmatter.whereabouts))
+
+
+        if (processHeader) {
+            await app.vault.process(files[i], (data) => {
                 try {
                     let newC = OutputHandler.regenerateHeader(data, files[i].name, md.frontmatter, headerType)
                     processed++
@@ -85,10 +84,33 @@ async function prepareForExport(tp, headerType) {
                     console.log(error)
                     errors++;
                 }
-            }
-            processed++
-            return data
-        })
+                processed++
+                return data
+            })
+        }
+
+        if (processFrontmatter) {
+            await app.fileManager.processFrontMatter(files[i], frontmatter => {
+                const { DateManager } = customJS
+
+                if (!frontmatter) return
+                if (!("activeYear" in frontmatter)) {
+                    let pageDates = DateManager.getPageDates(frontmatter)
+                    if (pageDates.startDate) {
+                        frontmatter["activeYear"] = pageDates.startDate.year
+                    }
+                }
+
+                if (frontmatter.whereabouts) {
+
+                    let wb = WhereaboutsManager.getWhereabouts(frontmatter)
+
+                    frontmatter["whereabouts_current"] = wb.current.location
+                    frontmatter["whereabouts_home"] = wb.home.location
+                    frontmatter["whereabouts_origin"] = wb.origin.location
+                }
+            });
+        }
 
         notice.setMessage("Making headers static\nProcessing file " + (files[i].name.padEnd(100, " ")) + "\n\n" + processed + " of " + files.length + "\n\nErrors: " + errors)
     }
@@ -103,7 +125,7 @@ async function prepareForExport(tp, headerType) {
         await app.vault.process(files[i], async (data) => {
             let md = app.metadataCache.getFileCache(files[i])
 
-            const dataviewJsPrefix = "dataviewjs";
+            const dataviewJsPrefix = "dataview";
             const dataViewJsRegex = new RegExp(`\`\`\`${escapeRegex(dataviewJsPrefix)}\\s(.+?)\`\`\``, "gsm");
             const dataviewJsMatches = text.matchAll(dataViewJsRegex);
 
@@ -140,6 +162,6 @@ async function prepareForExport(tp, headerType) {
 
     customJS.state.overrideDate = undefined
 
-
+    tp.user.shutdownApp()
 }
 module.exports = prepareForExport;

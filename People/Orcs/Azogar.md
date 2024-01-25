@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/tim, person]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: met}
 name: Azogar
@@ -11,8 +11,8 @@ gender: male
 title: Loremaster
 affiliations: [{org: People of the Rainbow, type: primary}]
 whereabouts: Uzgukhar
+excludePublish: ["clee"]
 ---
-%% Tim: Just cleaned up metadata; leaving it for you to declare that it is "done" %%
 # Loremaster Azogar
 >[!info]+ Biographical Info
 > A free [[Orcs|orc]] (he/him), of the [[People of the Rainbow]]

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/stub, place, status/unknown]
-partOf: Spiritual Realms
+whrereabouts: Spiritual Realms
 typeOf: plane
 ---
 # Dreamworld

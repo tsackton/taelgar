@@ -7,7 +7,7 @@ tags:
 campaignInfo: 
 name: Darba
 typeOf: city
-partOf: Coastal Dunmar
+whereabouts: Coastal Dunmar
 ---
 # Darba
 >[!info]+ Information

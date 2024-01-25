@@ -1,10 +1,10 @@
 ---
-headerVersion: 2023.11.20
-displayDefaults: {partOf: "One of <current:1>"}
+headerVersion: 2023.11.25
 tags: [place, status/needswork/wip]
-partOf: Elemental Realms
+whereabouts: Elemental Realms
 typeOf: plane
 ---
 # The Elemental Plane of Earth
->[!info]+ Information
-> One of the [[Elemental Realms]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`

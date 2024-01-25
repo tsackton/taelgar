@@ -31,7 +31,6 @@ tags: [meta]
 * [[Harold Stonebridge]], a young halfling errand boy at [[The Crossroads Inn]]
 * [[Ancer Benthey]], a sergeant in the [[Army Garrison of Cleenseau|local garrison]], the nephew of [[Ames Benthey]] and [[Odo Cordwaner|Odo's]] replacement
 * [[Aldric Tannen]], a schemer looking to start a ferryboat company
-* [[Agnes of Cleenseau|Agnés]], a caravan guard 
 * [[Jon Thorne]], a neighbor of [[Beatrix of Cleenseau|Beatrix]]
 ### In [[Valit]]
 
@@ -63,6 +62,7 @@ tags: [meta]
 
 * [[Lucas]], a priest of [[The Wanderer]] and friend of [[Narrisa de Abadelle|Narrisa's]]
 * [[Guy de Varan]], a merchant and traveler from [[Evis]]
+* [[Agnes of Evis|Agnés]], a caravan guard
 
 ### Farther Afield
 

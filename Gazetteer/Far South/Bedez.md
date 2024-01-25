@@ -1,11 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo:
 name: Bedez
 typeOf: village
-partOf: Orekatu
+ancestry: lizardfolk
+whereabouts: Orekatu
 ---
+# Bedez
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Bedez is a village in the lizardfolk kingdom of [[Orekatu]]. 
+
 

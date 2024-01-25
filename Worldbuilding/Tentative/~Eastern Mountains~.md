@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/unknown, place]
 ---
 
 %% (former border of [[Drankorian Empire|Drankor]]) 

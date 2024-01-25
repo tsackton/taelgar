@@ -1,14 +1,14 @@
 ---
-headerVersion: 2023.11.20
+headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {startStatus: founded, startPrefix: founded, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Daraar Canyon
 typeOf: canyon
-partOf: Nashtkar
+whereabouts: Nashtkar
 ---
 # The Daraar Canyon
->[!info]+ Information
-> A canyon in [[Nashtkar]], the [[Desolation of Cha'mutte]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A huge, unnatural canyon cut through the landscape of western Dunmar, caused by the disruptions and shifting land after the end of the Great War.

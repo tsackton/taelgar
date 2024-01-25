@@ -1,10 +1,14 @@
 ---
-partOf: Feywild
+headerVersion: 2023.11.25
+tags: [place, status/needswork/notes]
+whereabouts: Feywild
 typeOf: realm
-tags: [place, status/unknown]
+excludePublish: ["clee"]
 ---
-
 # Duskmire
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A fey realm, the domain of  [[Lord Umbraeth]], often known as the Gloomshaper. Duskmire is a bleak place, a land of endings and cruelty. The sky is often full of clouds, often blotting out the weak sun, constantly hovering on the horizon. Storms race across the realm with some frequency bringing thunder and cold rain. 
 

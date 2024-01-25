@@ -6,7 +6,8 @@ born:
 species: lizardfolk
 ancestry:
 gender: male
-player:
+player: Eric Rosenbaum
+excludePublish: ["clee"]
 ---
 # Izzarak
 >[!info]+ Biographical Info  

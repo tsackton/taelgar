@@ -9,13 +9,11 @@ gender: male
 whereabouts: Ganboa
 ---
 # Koldo
->[!info]+ Biographical Info
-> A [[Lizardfolk|lizardfolk]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Lizardfolk|lizardfolk]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A reclusive druid, very rarely talks to outsiders.
-
-![[lizardfolk-koldo.png]]
+![[lizardfolk-koldo.png|right|320]]A reclusive druid, very rarely talks to outsiders.
 
 %% Invented as a potential NPC for Clee to meet, never did. Kept because I liked the picture %%

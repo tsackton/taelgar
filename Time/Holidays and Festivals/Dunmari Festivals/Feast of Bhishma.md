@@ -1,6 +1,5 @@
 ---
-tags: [holiday, status/unknown]
-displayDefaults: {startStatus: began, startPrefix: began, endPrefix: ended, endStatus: ended}
+tags: [holiday, status/needswork/notes]
 campaignInfo: []
 name: Feast of Bhishma
 fc-date: {day: 17, month: 6, year: 1748}

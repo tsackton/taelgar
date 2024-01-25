@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-displayDefaults: {defArt: ''}
+displayDefaults: {defArt: '', wHome: "<subTypeOf:UA> <ancestry:UA> <typeOf:UA> <home:q>, once part of <origin>"}
 campaignInfo: []
 name: Raven's Hold
 subTypeOf: ruined
 typeOf: fort
 whereabouts:
-- { type: home, location: Ardith, end: 1545 }
+- { type: home, location: Dunmar, end: 1544 }
 - { type: home, location: Sentinel Range, start: 1545 }
 ---
 # Raven's Hold

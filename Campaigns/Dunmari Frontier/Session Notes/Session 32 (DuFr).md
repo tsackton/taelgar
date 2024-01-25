@@ -1,9 +1,73 @@
 ---
-tags: [status/unknown]
+tags: [session-note]
+campaign: Dunmari Frontier
+sessionNumber: 32
+realWorldDate: 2021-10-07
+DR: 1748-06-09
+DR_end: 1748-06-20
+players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
+tagline: in which the party uncovers truths and forges new paths
+descTitle: Secrets and Alliances
+name: Dunmari Frontier - Session 32
 ---
+# Dunmari Frontier - Session 32
 
-**(Thursday, Oct 7th, 2021; in Taelgar, June 8th to June 20th)
+>[!info] Secrets and Alliances: in which the party uncovers truths and forges new paths
+> *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Drikod]]*
+> *In Taelgar: Jun 09, 1748 DR to Jun 20, 1748 DR*
+> *On Earth: Thursday Oct 07, 2021*
+> *Karawa*
 
+The Dunmar Fellowship spends time in Karawa, where they prepare for rituals, unlock ancient secrets, experience otherworldly visions, and form strategic alliances before departing.
+
+%% Other Generations
+Generation 1
+```json
+{
+  "title": "Secrets and Alliances",
+  "tagline": "in which hidden truths are unveiled and allies are sought",
+  "summary": [
+    "The Dunmar Fellowship spends over a week in Karawa engaging in various personal endeavors and group activities.",
+    "Kenzo and Drikod prepare and undergo the Shakun Mystai initiation, while Wellby improves his map and recovers treasure with Havdar's band.",
+    "Seeker and Delwath discover new information about the Mirror of Soul Trapping and interrogate the hobgoblin leader, Revaka.",
+    "During the Feast of Bhishma, Delwath learns about his patron deity, and the party shares insights from their dream visions.",
+    "The party navigates political dynamics, with Nayan Sura seeking their pledge and revealing her plans to gather an army for Dunmar.",
+    "Seeker, Wellby, and Kenzo learn about the Order of the Awakened Soul and the location of a knowledgeable mystai, Saka.",
+    "The Fellowship departs from Karawa, with Drikod heading north and the rest west towards Tokra."
+  ],
+  "short_summary": "The Dunmar Fellowship uncovers ancient secrets and forms strategic alliances while preparing for their next journey from Karawa to Tokra.",
+  "location": "Karawa"
+}
+```
+%%
+## Session Info
+### Summary
+- Kenzo and Drikod prepare and complete their initiation into the Shakun Mystai.
+- Seeker and Delwath learn significant historical details about the Mirror of Soul Trapping from Revaka.
+- The party experiences profound visions in the Dreamworld, revealing insights into their personal quests and the world's mystical layers.
+- Sura rallies support among the Dunmari, seeking to gather an army and gauge alliances.
+- Seeker, Wellby, and Kenzo learn about the Order of the Awakened Soul and the Runes of Creation's origins.
+
+### Timeline
+- (DR:: 1748-06-09) - (DR_end:: 1748-06-10): In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Wellby trains Baxter; Seeker studies treasure.
+- (DR:: 1748-06-11): In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Seeker studies treasure. Wellby town with [[Havdar's Warband]] for Bas Udda to recover treasure left there.
+- (DR:: 1748-06-12):  In Karawa, Kenzo and Drikod prepare for Shakun’s initiation while Seeker and Delwath unlock more secrets of the mirror of soul trapping. Wellby travels with [[Havdar's Warband]] towards Bas Udda.
+- (DR:: 1748-06-13): In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Seeker tours the [[Red Mesa]] and the [[Temple of Shakun]] with Candrosa. Wellby arrives in Bas Udda with [[Havdar's Warband]]. 
+- (DR:: 1748-06-14): In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Seeker studies treasure. Wellby leaves Bas Udda with [[Havdar's Warband]], returning to [[Karawa]]. 
+- (DR:: 1748-06-15): In Karawa, Delwath gathers rumors and closes his affairs in town; Kenzo and Drikod prepare for Shakun’s initiation; Seeker studies treasure. 
+- (DR:: 1748-06-15), afternoon: Wellby returns to Karawa. Revaka interrogated in the Mirror of Soul Trapping.
+- (DR:: 1748-06-16): In Karawa, Delwath gathers supplies and speaks with the party in the evening; Kenzo and Drikod prepare for Shakun’s initiation; Seeker studies treasure; Wellby trains with Baxter and works on his map.
+- (DR:: 1748-06-17): Delwath travels into the desert at first light. Kenzo and Drikod are initiated into the Shakun Mystai. Seeker studies treasure. Wellby trains with Baxter and works on his map. 
+- (DR:: 1748-06-18): Feast of Bhishma begins in Karawa. Delwath returns from the desert at first light. Soul Lantern destroyed by Cintra during the remembrance prayers. Living Wood destroyed. 
+- (DR:: 1748-06-19): Feast of Bhishma continues with a day of rest and celebration. [[Sura|Nayan Sura]] announces herself to the Dunmari of Karawa. 
+- (DR:: 1748-06-20), morning: Drikod leaves Karawa, heading north towards his home village of [[Kunda]]. Kenzo, Seeker, Wellby, and Delwath, traveling with Garrett Tealeaf, leave Karawa heading west for Tokra.
+
+### Mirror of History
+- (DR:: 1748-06-15): Agata's [[Soul Lantern]] viewed in the [[The Mirror of the Past]]: [[Soul Lantern Vision]]. (recharge:: mirror).
+
+
+
+## Narrative
 The party spends a little more than a week in [[Karawa]], taking care of various activities around town. [[Kenzo]] and [[Drikod]] spend the time preparing for the ritual of initiation into the [[Shakun Mystai]], culminating in the [initiation ritual](https://docs.google.com/document/d/18pWViOdRUlZYB022HiltIWsfXaoxcB7bN1cUSGpOrbY/edit) on the evening before the [[Feast of Bhishma]]. [[Wellby]] spends the time working on his map, training with [[Baxter]], and traveling to [[Bas Udda]] with [[Havdar]] and members of his band, to recover the treasure the party left there. [[Seeker]] spent his time studying the artifacts recovered from [[Agata]], especially the [[Mirror of Soul Trapping]], as well as visiting the mesa with [[Candrosa]] for a tour of the living gardens of stone. [[Delwath]] spent his time closing his affairs in [[Karawa]] and gathering rumors, as well as spending a day and a night in the desert learning more about his patron and source of power. 
 
 During the week of downtime, [[Seeker]] and [[Delwath]] discover more about the [[Mirror of Soul Trapping]], including new command words. Using these and a lucky guess as to the hobgoblin’s name, the party also interrogates [[Revaka]], the hobgoblin leader they once saw in the mirror. She is distanful and haughty, and initially refuses to speak with [[Delwath]] (“the [[Elves]]”), but eventually the party learns from her a few key pieces of information. She was trapped in the mirror hundreds of years ago, in the 2nd year of the reign of [[Derik III]] of [[Sembara|Sembara]] (DR 1521), by [[Cha'mutte]]. The hobgoblin tribes on the fringes of [[Sembara|Sembara]] were being recruited into [[Cha'mutte]]’s armies, but [[Revaka]] did not want the risk and war of world domination, preferring to maintain her small empire on the fringes of the human world. The mirror itself was made by her grandfather, a wizard in service to the [[Avatus]], now a footnote in history as the foil for the rise of the [[House of Sewick]] of [[Sembara|Sembara]]. 

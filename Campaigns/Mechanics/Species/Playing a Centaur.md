@@ -23,6 +23,8 @@ _**Hooves.**_ You have hooves that you can use to make unarmed strikes. When yo
 _**Natural Affinity.**_ Your fey connection to nature gives you an intuitive connection to the natural world and the animals within it. You therefore have proficiency in one of the following skills of your choice: [Animal Handling](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#AnimalHandling), [Medicine](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Medicine), [Nature](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Nature), or [Survival](https://www.dndbeyond.com/compendium/rules/basic-rules/using-ability-scores#Survival).
 # Lifespan
 Centaurs have lifespans that are similar to humans. Centaur young are born able to walk and survive independently, but otherwise mature at the same rate as humans. 
+
+%%^Campaign:DuFr%%
 # Backgrounds
 Consider one of the following sample backgrounds for your centaur, or create your own. Note that feats marked with a * in sample backgrounds are from Unearthed Arcana documents. 
 ## Hunter
@@ -52,3 +54,5 @@ You can read the signs of prophecy in the land, either a natural gift, or a hard
 # Languages
 
 When you create your character, you may choose two [[languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Centaur, unless you grew up outside of normal centaur society. 
+
+%%^End%%

@@ -1,9 +1,16 @@
 ---
-excludeRooted: ["Clee"]
-tags: [item]
+headerVersion: 2023.11.25
+displayDefaults: {defArt: "a"}
+tags: [item/magical]
 name: Jade Piece of Rai's Hand
+rarity: unique
+typeOf: gemstone
+subTypeOf: magical
 ---
-# The Jade Pieces of Rai
+# A Jade Piece of Rai's Hand
+>[!info]+ Information  
+> (unique magical gemstone)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 Five fragments of jade, each originally a piece of [[Rai]]'s hand.
 ## History
@@ -19,12 +26,15 @@ Until apparently Rai left Drankor, on a mission with the monks of the [[Order of
 
 One piece fell in the Dunmari desert, and was given to [[Kenzo]] by his parents before they died. Kenzo saw [[Kenzo's Jade Vision|a vision of this piece in Eudomes' Mirror]].
 
-One piece fell in the [[Elderwood]], was found by the Godcaller [[Jordo]], became part of the protection of the [[Te'kula]], and was eventually gifted to [[Kenzo]] by [[Alayah]], [[Jordo]]'s successor, after [[Session 50 (DuFr)|the Dunmar Fellowship killed the green dragon Grimbaskal]] that had threatened the Te'kula. 
+One piece fell in the [[Elderwood]], was found by the Godcaller [[Jordo]], became part of the protection of the [[Te'kula]], and was eventually gifted to [[Kenzo]] by [[Alayah]], [[Jordo]]'s successor, after [[Session 50 (DuFr)|the Dunmar Fellowship killed the green dragon Grimbaskal]] that had threatened the [[Te'kula]]. 
 
-One piece was [[Second Dream of Rai|seen]] to fall into a crevasse in an icy glacier. Later, [[Delwath]] learned from the Deno'qai druid [[Safri]] that this piece was found by a man named [[Radomir]] from a strange land to the east known as [[Ursk]], who had fled his homeland looking for a way to destroy it, but apparently returned, unsuccessful. Later [[Scrying Delwath Nov 15#Radomir|scrying revealed]] that apparently this piece was later taken a mysterious group known as the Rodnya Voknaz. 
+One piece was [[Second Dream of Rai|seen]] to fall into a crevasse in an icy glacier. Later, [[Delwath]] learned from the Deno'qai druid [[Safri]] that this piece was found by a man named [[Radomir]] from a strange land to the east known as [[Ursk]], who had fled his homeland looking for a way to destroy it, but apparently returned, unsuccessful. Later [[Scrying Delwath Nov 15#Radomir|scrying revealed]] that apparently this piece was later taken a mysterious group known as the Rodnya Voknaz, who [[Interlude (Tollen Downtime)#Questions|may]] still have it.
 
-One piece was [[Second Dream of Rai|seen]] to sink beneath the ocean. The only clue to its resting place comes from [[Thomas Hawke]], who [[Session 76 (DuFr)|told the story]] of a magical undersea garden of jade where merfolk grow names, which was the inspiration for his play, [[Luminastra's Gift]]. The jade garden, supposedly, was located 100 miles off the coast of the [[~Emerald Bay Peninsula~]]. 
+One piece was [[Second Dream of Rai|seen]] to sink beneath the ocean. The only clue to its resting place comes from [[Thomas Hawke]], who [[Session 82 (DuFr)|told the story]] of a magical undersea garden of jade where merfolk grow names, which was the inspiration for his play, [[Luminastra's Gift]]. The jade garden, supposedly, was located 100 miles off the coast of the [[~Emerald Bay Peninsula~]]. 
 
 One piece was [[Second Dream of Rai|seen]] to fall into a dense, lush rainforest. No further clues to its location have been recovered. 
+## Other Clues
+
+The [[Ancient and Honorable Guild of Philosophers]] provided information about these fragments: [[Philosopher's Information Concerning Rai's Hand]]
 
 %%SECRET[1]%%

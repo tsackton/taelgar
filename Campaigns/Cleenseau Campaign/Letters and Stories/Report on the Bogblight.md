@@ -10,10 +10,10 @@ I have been asked to draft this letter to you about recent activities along the 
 
 Marcel believes this was Duskmire, the land of the Lord Umbraeth, and recalls the Oracles warning his people of some bad blood between the Lady of the Evening Mist and Lord Umbraeth, many *ka* ago, and I have no reason to doubt him. 
 
-The Rangers have undertaken to watch this portal, and Marcel says his order will send someone as well, if one can be spared. Be cautious in the woods, and report any sightings of fey to [[Adèle Laurent]] of the Rangers, in Rinburg, or myself. I can be reached by letter to Marcel in Valarin or [[Oswald Greensborn]] in the [[Barony of Vaubonne]]. 
+The Rangers have undertaken to watch this portal, and Marcel says his order will send someone as well, if one can be spared. Be cautious in the woods, and report any sightings of fey to Adèle Laurent of the Rangers, in Rinburg, or myself. I can be reached by letter to Marcel in Valarin or Oswald Greensborn in the Barony of Vaubonne. 
 
 In this the tenth month of this year sixteen hundred and sixty seven since the founding of Drankor,
-[[Vahaiya]]
+Vahaiya
 aistana elyë imíca
 
 P.S. We found two shambling mounds lurking west of Beury. I beg you to send patrols more often.
@@ -25,5 +25,5 @@ Captain:
 I must away south, Oswald has reported an unusual hobgoblin incursion south of Adderfell, and he has asked my help. I dash this note to supplement my verbal report to your sergeant, and wish you much joy with your new bride. The portal seems to have closed, thank the Star and Tree. I saw one of the hooded creatures stalking around one evening, and feared other dangers might abound. But it seems the danger has passed. I have left word with your sergeant for how to find the portal, and I suggest you patrol the area when you can.  But the danger seems to be past us.
 
 In this the third month of this year sixteen hundred and sixty eight since the founding of Drankor,
-[[Vahaiya]]
+Vahaiya
 aistana elyë imíca

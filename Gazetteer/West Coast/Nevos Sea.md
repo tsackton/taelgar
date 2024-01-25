@@ -1,13 +1,16 @@
 ---
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 campaignInfo: []
 name: Nevos Sea
 typeOf: sea
-partOf:
+whereabouts:
+- { type: home, location: Taelgar, linkText: in}
 ---
 # The Nevos Sea
->[!info]+ Summary
-
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The sea on the west coast of [[Dunmar]], and where the islands of [[Illoria]] can be found. 
 

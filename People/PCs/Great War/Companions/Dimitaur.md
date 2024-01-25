@@ -1,7 +1,6 @@
 ---
+headerVersion: 2023.11.25
 tags: [pc/companion, pc, person, status/notes, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
-campaignInfo:
 name: Dimitaur
 born:
 species:
@@ -10,8 +9,7 @@ gender:
 player:
 affiliations:
 ---
-
-### Dimitaur
+# Dimitaur
 
 A small flying lizard, companion to [[Rai]].
 

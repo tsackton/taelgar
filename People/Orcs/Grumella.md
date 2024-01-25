@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, person, dufr/unaware, status/unknown]
-campaignInfo: []
+tags: [person, status/unknown]
 name: Grumella the Vengeful
 born:
 species: orc
+activeYear: 1745
 gender: female
 died: 1747
 affiliations: [{org: Grumella's Horde, type: leader}]
