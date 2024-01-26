@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 campaignInfo: []
 name: Warin the Woodsman
 born: 1671
@@ -15,6 +15,8 @@ whereabouts: Valit
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A tracker and woodsman from [[Valit]], and confidant of [[Sabine de Brune]].
+![[warin-the-woodsman.png|right|320]]A tracker and woodsman from [[Valit]], and confidant of [[Sabine de Brune]].
 
-![[warin-the-woodsman.png]]
+%%^Campaign:clee%%
+He has helped the [[Heroes of Cleenseau]] several times, both as a tracker in the forest hunting giant spiders, and as a a leader during the [[Battle Against Wakog]]. He is skilled with a bow, but comes across as no-nonsense, all-business and never talks about his personal life.
+%%^End%%

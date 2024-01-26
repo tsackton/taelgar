@@ -15,8 +15,9 @@ The Rangers have undertaken to watch this portal, and Marcel says his order will
 In this the tenth month of this year sixteen hundred and sixty seven since the founding of Drankor,
 Vahaiya
 aistana elyë imíca
+%% Elvish for "yours in peace and honor"%%
 
-P.S. We found two shambling mounds lurking west of Beury. I beg you to send patrols more often.
+P.S. We found two shambling mounds lurking east of Beury. I beg you to send patrols more often.
 
 The second letter reads:
 
