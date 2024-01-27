@@ -13,9 +13,7 @@ Roland Ausson (he/him), the innkeep. He was the leader of the settlement, the ow
   
 Pierre Ausson  (he/him), his husband.  He is the host of the settlement. Whereas Roland provided the raw energy, Lisette the trade and business acumen, Pierre is the one welcoming travelers at the door and making the inn a home. Like Lisette, he traces his ancestry to Insingue, but he has no longing for the past nor is he charmed by tales of the old cities. He craves simple comforts: good food, a warm hearth, loved ones. He has not left the private upper floors of the inn since Roland died although he has received a small number of well-wishers.
 
-![[lisette-ausson.png]]
 
-Lisette Ausson (she/her), his wife. She is the mother of four children, and a shrewd accountant and trader, she came from the Aurbez plateau and is not-so-secretly a partisan of political unity amongst the Aurbez peoples and regions. She traces her family back to the lost city of Insingue and is known to be susceptible to romantic tales of the past. She wears her heart on her sleeve, and is openly distraught about Roland’s death. She has forbid anyone live the settlement until his murder is solved and the murderer brought to justice.
 
 Their children and in-laws:
 ![[bastien-ausson.png]]
@@ -28,9 +26,6 @@ Julia Ausson (she/her), Cedric’s wife
 Gabriel Ausson (he/him), the third son, whereabouts unknown. Feared dead
 
 
-![[gisele-ausson.png]]
-Gisele Ausson (she/her), the youngest, a seamstress, weaver, and childminder. She is the youngest daughter of Lisette and Roland was recently widowed when the shaking fever gripped the town last winter. She is a seamstress, weaver, and cook, and clearly loves children. Her young son Pierre is her constant companion, and she is the teacher and surrogate mother for many of her nieces and nephew
-Matthieu Ausson (he/him), Gisele’s husband, recently dead of the shaking fever
 
 And grandchildren:
  
