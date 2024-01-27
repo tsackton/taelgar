@@ -6,52 +6,36 @@ realWorldDate: 2021-02-27
 DR: 1748-05-02
 DR_end: 1748-05-05
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which Delwath's past and armor are revealed
-descTitle: Desert Shadows
+tagline: in which history and past disaster are discussed, and orcs defeated
+descTitle: At the Stone House
 name: Dunmari Frontier - Session 20
 ---
 # Dunmari Frontier - Session 20
 
->[!info] Desert Shadows: in which Delwath's past and armor are revealed
+>[!info] At the Stone House: in which history and past disaster are discussed, and orcs defeated
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: May 02, 1748 DR to May 05, 1748 DR*
 > *On Earth: Saturday Feb 27, 2021*
-> *Pava and Avaras' House, desert near Havdar's camp*
+> *[[Nashtkar]]*
 
-The Dunmar Fellowship uncovers Delwath's mysterious past before aiding in an orc battle at Havdar's camp.
+The [[Dunmar Fellowship]] discusses Delwath's mysterious past and learns about the [[Order of the Awakened Soul]] with [[Pava]] and [[Avaras]], before aiding in an orc battle at [[Havdar]]'s camp.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Desert Secrets",
-  "tagline": "in which the Dunmar Fellowship learns of past tragedies",
-  "summary": [
-    "Delwath reunites with Pava and Avaras who saved him in the desert; they share stories of the Order of the Awakened Soul.",
-    "The party learns of the Order's failed attempt 30 years ago to cleanse the Plaguelands and the loss of the Monastery of Bhishma.",
-    "Recent changes in the desert are discussed; orcs fighting a civil war, and evil presences around Kharsan worsening.",
-    "After training with Pava, the Fellowship heads to Havdar's camp, only to encounter and overcome a large band of orcs."
-  ],
-  "short_summary": "The Dunmar Fellowship uncovers past failures of the Order of the Awakened Soul and aids in a battle against orcs at Havdar's camp.",
-  "location": "Pava and Avaras' House and Havdar's camp in the desert"
-}
-```
-%%
 ## Session Info
+
+***Character advancement: the party reaches level 5 while training with Pava and Avaras before departing into the desert.***
 ### Summary
-- The Dunmar Fellowship arrives at Pava and Avaras' desert home, learning of Delwath's past and the monks' history.
-- Delwath's elven shadow armor, which harbors darkness, is returned to him and accepted as not evil.
-- Pava and Avaras share the history of the failed cleansing of the Plaguelands, and the rising dangers in the desert.
-- The party trains with Pava and then departs for Havdar's camp, navigating the desert terrain.
-- Upon nearing Havdar's camp, the Fellowship aids in repelling an orc attack, capturing one survivor.
+- [[Delwath]] reunites with [[Pava]] and [[Avaras]] who saved him in the desert; they share stories of the [[Order of the Awakened Soul]].
+- The party learns of the Order's [[Awakened Soul Disaster|failed attempt]] 30 years ago to cleanse the [[Plaguelands]]. Recent changes in the desert are discussed, including orcs fighting a civil war, and worsening evil around [[Kharsan]].
+- The party trains with [[Pava]] and then departs for [[Havdar]]'s camp, navigating the desert terrain.
+- Teaching Havdar's camp, the party aids in repelling an orc attack, capturing one survivor.
 
 ### Timeline
-- (DR:: 1748-05-02), afternoon: Speak with Pava and Avaras about Delwath, Bhishma, the Order of the Awakened Soul, and the Monastery of Bhishma near Kharsan. Delwath's [[Elven Shadow Breastplate|old armor]] is returned. Learn about attempt by Order some 30 years ago to heal the [[Plaguelands]], which failed badly, and none of the masters of the order return from the east. Learn of Saka, a master that did not travel east, now rumored to live north of Tokra.
+- (DR:: 1748-05-02), afternoon: Speak with [[Pava]] and [[Avaras]] about [[Delwath]], [[Bhishma]], the [[Order of the Awakened Soul]], and the [[Monastery of Bhishma]] near [[Kharsan]]. Delwath's [[Elven Shadow Breastplate|old armor]] is returned. Learn about attempt by Order some 30 years ago to heal the [[Plaguelands]], which failed badly. Learn of [[Saka]], a master that did not travel east, now rumored to live north of [[Tokra]].
 - (DR:: 1748-05-02), evening: Have dinner with Avaras, Pava, and Amil. Spend the night at [[Pava and Avaras' House]].
-- (DR:: 1748-05-03), morning: Train with Avaras and Pava. 
-- (DR:: 1748-05-03), afternoon: Leave stone house for Havdar's camp in the desert to the east. 
+- (DR:: 1748-05-03), morning: Train with [[Avaras]] and [[Pava]]. 
+- (DR:: 1748-05-03), afternoon: Leave the [[Pava and Avaras' House|stone house]] for Havdar's camp in the desert to the east. 
 - (DR:: 1748-05-04): Travel across the [[Nashtkar]] towards Havdar's camp
-- (DR:: 1748-05-05), early evening: Arrive at Havdar's camp. Help fight off orc attack. 
+- (DR:: 1748-05-05), early evening: Arrive at [[Havdar]]'s camp. Help fight off [[Orcs|orc]] attack. 
 
 
 ## Narrative

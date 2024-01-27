@@ -6,51 +6,32 @@ realWorldDate: 2021-12-06
 DR: 1748-07-01
 DR_end: 1748-07-01
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which ancient secrets and current plots intertwine
-descTitle: Mysteries Uncovered
+tagline: in which the party investigates a puzzling disappearance 
+descTitle: Tokra Mysteries
 name: Dunmari Frontier - Session 35
 ---
 # Dunmari Frontier - Session 35
 
->[!info] Mysteries Uncovered: in which ancient secrets and current plots intertwine
+>[!info] Tokra Mysteries: in which the party investigates a puzzling disappearance 
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Jul 01, 1748 DR*
 > *On Earth: Monday Dec 06, 2021*
-> *Tokra*
+> *[[Tokra]]*
 
-The Dunmar Fellowship delves into historical mysteries, local affairs in Tokra, and the enigma of lycanthropy as they plan their next move.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Mysteries Uncovered",
-  "tagline": "in which the Dunmar Fellowship delves into past secrets",
-  "summary": [
-    "The Dunmar Fellowship emerges from Elven ruins with Arborea energy, orders a Portable Hole from Basu.",
-    "They consult with Kassi in the library about Elves, gods, and Pandemonium, leaving her to research.",
-    "At Kirian’s inn, they learn about a Chardonian scholar and Vola, then discuss local issues with priestess Kaleha.",
-    "In the Archives, they uncover Govir’s notes on divine interventions and letters detailing a mysterious cult and lycanthropy connections.",
-    "The day ends with the party debating their next moves as a full moon rises."
-  ],
-  "short_summary": "The Dunmar Fellowship investigates historical mysteries and divine interventions while considering their next steps under a full moon.",
-  "location": "Tokra"
-}
-```
-%%
+The [[Dunmar Fellowship]] researches mystical lore, delves into puzzling local affairs in [[Tokra]], and contemplates the enigma of lycanthropy as they plan their next move.
 ## Session Info
 ### Summary
-- The Dunmar Fellowship exits Elven ruins with Arcadian energy, commissioning a Portable Hole from Basu.
-- They meet Kassi at the library for translated Elven maps and discuss the elves, gods, and Pandemonium.
-- In Tokra, they converse with Kirian about past visitors and learn from Kaleha about local challenges and Saka's whereabouts.
-- At the Archives, they uncover Govir's research on divine interventions and a mysterious cult's correspondence.
+- The [[Dunmar Fellowship]] exits Elven ruins with [[Arborea]] energy, commissioning a [[Portable Hole]] from [[Basu]].
+- They meet [[Kassi]] at the library discuss the [[elves]], gods, and [[Pandemonium]].
+- In [[Tokra]], they converse with [[Kirian]] about a Chardonian scholar [[Servius]], and learn from [[Kaleha]] about local challenges and [[Saka]]'s whereabouts.
+- At the [[Archives]], they uncover [[Govir]]'s research on divine interventions and letters detailing a mysterious cult with lycanthropy connections.
 - The session concludes with the party considering their next move under a full moon, surrounded by the enigma of lycanthropy.
 
 ### Timeline
-- (DR:: 1748-07-01), midday: Speak with Basu, agree to exchange magical energy from ruins for a [[Portable Hole]]. Speak with Kassi, ask for informaiton. 
-- (DR:: 1748-07-01), noon: Leave monastery and get rooms at Kirian's. 
-- (DR:: 1748-07-01), afternoon: Speak with Kaleha, revealing [[Sura]]'s story. Speak with Ardan at the Archives, and learn more about recent events; Govir, the missing archivist; and Hada, the head scribe. Find clues in the form of records of Govir's research.
-- (DR:: 1748-07-01), early evening: Have dinner at Kirian's
+- (DR:: 1748-07-01), midday: Speak with [[Basu]], agree to exchange magical energy from ruins for a [[Portable Hole]]. Speak with [[Kassi]], ask for informaiton. 
+- (DR:: 1748-07-01), noon: Leave monastery and get rooms at [[Kirian’s]]
+- (DR:: 1748-07-01), afternoon: Speak with [[Kaleha]], revealing [[Sura]]'s story. Speak with [[Ardan]] at the [[Archives]], and learn more about recent events; [[Govir]], the missing archivist; and [[Hada]], the head scribe. Find clues in the form of records of Govir's research.
+- (DR:: 1748-07-01), early evening: Have dinner  at [[Kirian’s]]
 
 
 ## Narrative

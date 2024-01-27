@@ -6,50 +6,35 @@ realWorldDate: 2022-01-23
 DR: 1748-07-02
 DR_end: 1748-07-03
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-tagline: in which the party faces werewolf remnants
-descTitle: Lair of Shadows
+tagline: in which the party battles werewolves and uncovers secrets
+descTitle: The Betrayer Moon
 name: Dunmari Frontier - Session 38
 ---
 # Dunmari Frontier - Session 38
 
->[!info] Lair of Shadows: in which the party faces werewolf remnants
+>[!info] The Betrayer Moon: in which the party battles werewolves and uncovers secrets
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Jul 02, 1748 DR to Jul 03, 1748 DR*
 > *On Earth: Sunday Jan 23, 2022*
-> *Tokra*
+> *[[Lair of the Fraternity of the Empty Moon]], [[Tokra]]*
 
-The Dunmar Fellowship uncovers werewolf secrets and plans further investigations after a tense battle.
+The [[Dunmar Fellowship]] reunites with [[Riswynn]] who is hunting werewolves, and uncovers the secrets of the [[Fraternity of the Empty Moon]] after a tense battle.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Werewolves' Lair Confrontation",
-  "tagline": "in which the Fellowship battles werewolves and uncovers secrets",
-  "summary": [
-    "The Fellowship fights off a surprise werewolf attack with the help of Riswynn and Vistra Fireforge.",
-    "Riswynn shares news of a werewolf attack in Tharn Todor traced back to Tokra.",
-    "They find a prophecy, a countdown to the next full moon, and other clues hinting at a greater threat.",
-    "A secret room is discovered, containing a trapped chest and a map, which the party retrieves with difficulty.",
-    "The day ends with a cure for Govir's lycanthropy and plans to inform Kaleha of any findings."
-  ],
-  "short_summary": "The Dunmar Fellowship defeats additional werewolves, learns of a disturbing prophecy, and cures Govir's lycanthropy.",
-  "location": "Tokra"
-}
-```
-%%
 ## Session Info
+
+***The party recovers the [[Werewolf Lair Hoard]]***
 ### Summary
-- The Dunmar Fellowship searches a werewolf lair, finding a prophecy and a countdown calendar.
-- Riswynn and Vistra Fireforge arrive, assisting in defeating additional werewolves.
-- Riswynn cures Kenzo and Govir of suspected lycanthropy and aids in lair investigations.
-- A secret room with a trapped chest is discovered; party recovers items including an Ivory Scroll Cap.
-- Kaleha is informed of the werewolf threat; discusses town history and plans for further investigation.
+
+- The [[Dunmar Fellowship]] fights off a surprise werewolf attack with the help of [[Riswynn]] and [[Vistra Fireforge]]; [[Riswynn]] shares news of a werewolf attack in [[Tharn Todor]] traced back to [[Tokra]].
+- Investigating the lair reveals a prophecy, a countdown to the next full moon, and other clues hinting at a greater threat
+- [[Riswynn]] cures [[Kenzo]] and [[Govir]] of suspected lycanthropy and aids in lair investigations.
+- A secret room is discovered, containing a trapped chest and a map, which the party retrieves with difficulty.
+- [[Kaleha]] is informed of the werewolf threat; discusses town history and plans for further investigation.
 - The party plans to awaken early to search for more signs of werewolves.
 
 ### Timeline
-- (DR:: 1748-07-02), late afternoon: Search bodies. More werewolves attack. Riswynn and Vistra Fireforge, tracking the werewolves, arrive and join the fight. Kenzo wounded, cured of suspected lycanthropy by Riswynn. Search the lair, finding notes and clues, a [[Dunmari map of Pandemonium ruins]] ,and other treasures, despite setting off a dangerous trap. 
-- (DR:: 1748-07-02), evening: Return Govir to archives. Speak with Kaleha. 
+- (DR:: 1748-07-02), late afternoon: Search bodies. More werewolves attack. [[Riswynn]] and [[Vistra Fireforge]], tracking the werewolves, arrive and join the fight. [[Kenzo]] wounded, cured of suspected lycanthropy by [[Riswynn]]. Search the lair, finding notes and clues, a [[Dunmari map of Pandemonium ruins]] ,and other treasures, despite setting off a dangerous trap. 
+- (DR:: 1748-07-02), evening: Return [[Govir]] to [[archives]]. Speak with [[Kaleha]]. 
 
 ### Notes
 - [[Archives Letter]], a copy of a scroll originally found by the Chardonian historian and explore [[Servius]]

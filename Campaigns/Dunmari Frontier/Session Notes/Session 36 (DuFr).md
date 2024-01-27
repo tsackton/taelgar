@@ -6,54 +6,34 @@ realWorldDate: 2021-12-22
 DR: 1748-07-01
 DR_end: 1748-07-02
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which a werewolf is subdued and a truce proposed
+tagline: in which a werewolf is subdued and hidden lair discovered
 descTitle: Night of the Howl
 name: Dunmari Frontier - Session 36
 ---
 # Dunmari Frontier - Session 36
 
->[!info] Night of the Howl: in which a werewolf is subdued and a truce proposed
+>[!info] Night of the Howl: in which a werewolf is subdued and hidden lair discovered
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Jul 01, 1748 DR to Jul 02, 1748 DR*
 > *On Earth: Wednesday Dec 22, 2021*
-> *Tokra and its surroundings*
+> *[[Tokra]]*
 
-The Fellowship subdues a cursed werewolf, learns of cursed ruins, negotiates a truce between Dunmari factions, and encounters animated statues in a hidden tunnel.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "The Hardstone Curse",
-  "tagline": "in which a werewolf is subdued and a truce is sought",
-  "summary": [
-    "The Dunmar Fellowship stands guard at the Archives and subdues a werewolf, who is revealed to be Dag Hardstone, cursed with lycanthropy.",
-    "Delwath performs a ritual that restores Dag to himself, and after ensuring the monastery's safety, the party rests for the night.",
-    "The next day, they learn from veteran Ashar about Govir seeking out a cursed fort and decide to investigate the fort themselves.",
-    "Summoned by Commander Illyan, Kenzo admits to the party's clairvoyance spying, and Illyan tasks them with delivering a truce message to Sura.",
-    "Using a scroll of Sending, the party communicates with Sura, who agrees to a truce while the gods' will is discerned.",
-    "The party heads north, discovers tracks leading to a hidden tunnel, and upon opening a door inside, they find statues that come to life."
-  ],
-  "short_summary": "The Dunmar Fellowship subdues a cursed werewolf at the Archives, navigates political intrigue with the Dunmari army, and encounters animated statues in a secret tunnel.",
-  "location": "Tokra and surrounding areas"
-}
-```
-%%
+The [[Dunmar Fellowship]] subdues a cursed werewolf, learns of cursed ruins, negotiates between Dunmari factions, and encounters animated statues in a hidden tunnel.
 ## Session Info
 ### Summary
-- The Dunmar Fellowship stands guard at the Archives and subdues a werewolf, Dag Hardstone, who is part of the dwarven Hardstone clan.
-- Delwath, with divine aid, cures Dag of his lycanthropy, while the rest of the party remains vigilant through the night.
-- The party learns from veteran Ashar about Govir's interest in cursed ruins and the Fraternity of the Empty Moon.
-- Summoned by Commander Illyan, the party navigates a tense meeting and is tasked to convey a truce message to Sura.
-- Using a scroll, Seeker sends the truce message to Sura, who agrees to a non-aggression pact while seeking the gods' will.
-- The Fellowship heads north, investigates an old fort, and discovers a hidden tunnel leading to a room with animated statues.
+- The [[Dunmar Fellowship]] stands guard at the [[Archives]] and subdues a werewolf, , who is revealed to be [[Dag Hardstone]], cursed with lycanthropy.
+- [[Delwath]], with divine aid, cures Dag of his lycanthropy, while the rest of the party remains vigilant through the night.
+- The party learns from veteran [[Ashar]] about [[Govir]] seeking out a cursed fort and decide to investigate the fort themselves.
+- Summoned by Commander [[Illyan]], [[Kenzo]] admits to the party's clairvoyance spying, and [[Illyan]] tasks them with delivering a truce message to [[Sura]].
+- Using a scroll, [[Seeker]] sends the truce message to [[Sura]], who agrees to a non-aggression pact while seeking the gods' will.
+- The party heads north, discovers tracks leading to a hidden tunnel, and upon opening a door inside, they find statues that come to life.
 
 ### Timeline
-- (DR:: 1748-07-01), late evening: Return to archives. Stand guard as the full moon rises. Hear a howl from below. Investigate, meeting the [[Hardstones]], including Dag Hardstone, who has been cursed with lycanthropy. After subduing Dag, Delwath restores him with a ritual
-- (DR:: 1748-07-01), night: [[Delwath]], [[Seeker]], and [[Wellby]] sleep at the Archives; [[Kenzo]] returns to the monastery to ensure the Lakan mystai are safe.
-- (DR:: 1748-07-02), morning: Meet at Darshana's after breakfast; speak with Darshana. Learn that Govir may have vanished searching near an abandoned fort guarding a place of strange, cursed magic of madness from Ashar, a Dunmari veteran. 
-- (DR:: 1748-07-02), noon: Return to Kirian's. Asked to visit Dunmari army camp and speak with the commander. Attempt to spy with clarivoyance, but are detected. Narrowly avoid severe punishment after Kenzo admits to the spying; conscripted to get a message to [[Sura]] to try to prevent war. Use scroll of Sending. 
-- (DR:: 1748-07-02), early afternoon: Leave north to look for Saka, but decide to investigate the abandoned Drankorian fort first. Discover tracks, leading to a hidden tunnel, enter, follow tunnel to a door. Delwath's looks through the door with his newfound powers, and see hideous statues. Open door, as the statues come alive. 
+- (DR:: 1748-07-01), late evening: Return to [[archives]]. Stand guard as the full moon rises. Hear a howl from below. Investigate, meeting the [[Hardstones]], including [[Dag Hardstone]], who has been cursed with lycanthropy. After subduing Dag, [[Delwath]] restores him with a ritual
+- (DR:: 1748-07-01), night: [[Delwath]], [[Seeker]], and [[Wellby]] sleep at the [[Archives]]; [[Kenzo]] returns to the monastery to ensure the [[Lakan mystai]] are safe.
+- (DR:: 1748-07-02), morning: Meet at [[Darshana's Caravanserai]] after breakfast; speak with [[Darshana]]. Learn that [[Govir]] may have vanished searching near an abandoned fort guarding a place of strange, cursed magic of madness from [[Ashar]], a Dunmari veteran. 
+- (DR:: 1748-07-02), noon: Return to [[Kirian’s]]. Asked to visit Dunmari army camp and speak with the commander. Attempt to spy with clarivoyance, but are detected. Narrowly avoid severe punishment after [[Kenzo]] admits to the spying; conscripted to get a message to [[Sura]] to try to prevent war. Use scroll of Sending. 
+- (DR:: 1748-07-02), early afternoon: Leave north to look for [[Saka]], but decide to investigate the abandoned Drankorian fort first. Discover tracks, leading to a hidden tunnel, enter, follow tunnel to a door. Delwath's looks through the door with his newfound powers, and see hideous statues. Open door, as the statues come alive. 
 
 
 ## Narrative

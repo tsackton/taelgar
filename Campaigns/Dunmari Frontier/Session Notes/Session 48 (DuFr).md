@@ -6,51 +6,32 @@ realWorldDate: 2022-06-22
 DR: 1748-08-21
 DR_end: 1748-08-22
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-tagline: in which the party navigates Chardon’s mysteries
-descTitle: Chardon Intrigues
+tagline: in which the party navigates secrets and rumors in Chardon
+descTitle: Chardonian Connections
 name: Dunmari Frontier - Session 48
 ---
 # Dunmari Frontier - Session 48
 
->[!info] Chardon Intrigues: in which the party navigates Chardon’s mysteries
+>[!info] Chardonian Connections: in which the party navigates secrets and rumors in Chardon
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Aug 21, 1748 DR to Aug 22, 1748 DR*
 > *On Earth: Wednesday Jun 22, 2022*
-> *Chardon*
+> *[[Chardon]]*
 
-The Dunmar Fellowship uncovers secrets about chalyte, academic rivalries, and patron Fausto's role in perilous expeditions in Chardon.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Chardon's Mysteries",
-  "tagline": "in which the Dunmar Fellowship navigates Chardon's secrets",
-  "summary": [
-    "The party arrives in Chardon and learns of the regulated magic and chalyte trade abuses.",
-    "Kenzo meets with Kaeso, revealing the latter's Mystai of Shakun magic and concerns over chalyte.",
-    "The party acquires information about the Society of the Open Scroll and plans to meet Roscelia.",
-    "Contact with Marcella and Vola is made; the latter agrees to reach out to past adventurers Dee and Dain.",
-    "Dee Wildcloak and Dain Goldhammer share their tragic adventure and hint at patron Fausto's role in funding expeditions."
-  ],
-  "short_summary": "In Chardon, the Dunmar Fellowship uncovers the dangers of chalyte, gains allies, and learns of a wealthy patron's influence on treasure hunts.",
-  "location": "Chardon"
-}
-```
-%%
+In Chardon, the [[Dunmar Fellowship]] learns about the dangers of [[chalyte]], speaks with friends old and new, and hears about [[Fausto]]'s wealth and influence. 
 ## Session Info
 ### Summary
-- The Dunmar Fellowship arrives in Chardon and learns of the regulated magic and the dangers of chalyte abuse.
-- Kenzo meets with Kaeso, a Mystai of Shakun, who shares concerns about chalyte and arranges a meeting with his old teacher, Roscelia.
-- The party reconnects with Vola, who agrees to send letters to other adventurers and provides insight into the Society of the Open Scroll.
-- Ulfgar Frostbeard, a metaphysics professor, informs them about Galen's new Dwarven artifact and academic rivalries.
-- Dee Wildcloak and Dain Goldhammer recount their harrowing experience at Stormcaller Tower and reveal Fausto as a key expedition patron.
+- The [[Dunmar Fellowship]] arrives in [[Chardon]] and learns of the regulated magic and the dangers of [[chalyte]] abuse.
+- [[Kenzo]] meets with [[Kaeso]], his mentor and a [[Shakun Mystai|Mystai of Shakun]], who shares concerns about [[chalyte]] and arranges a meeting with his old teacher, [[Roscelia]].
+- The party reconnects with [[Vola]], who agrees to send letters to other adventurers and provides insight into the [[Society of the Open Scroll]].
+- [[Ulfgar Frostbeard]], a metaphysics professor, informs them about [[Galen]]'s new Dwarven artifact.
+- [[Dee Wildcloak]] and[[ Dain Goldhammer]] recount their harrowing experience at [[Stormcaller Tower]], and reveal [[Fausto]] as a key expedition patron.
 
 ### Timeline
-- (DR:: 1748-08-21), afternoon: Meet Kaeso. 
-- (DR:: 1748-08-21), evening: Reconnect with Vola at [[The Chapterhouse]], discuss the [[Society of the Open Scroll]]. 
-- (DR:: 1748-08-22), morning: Meet Seeker's colleague Ulfgar Frostbeard, professor on the Faculty of Metaphysics. Learn Galen, a professor of experimental metaphysics, has the Chalice of the Runepriest. 
-- (DR:: 1748-08-22), noon: Meet Dee Wildcloak and Dain Goldhammer for lunch. Learn that Fausto, a rich scholar, has the Eyes of Hralgar. Dee flirts with Wellby.
+- (DR:: 1748-08-21), afternoon: Meet [[Kaeso]]. 
+- (DR:: 1748-08-21), evening: Reconnect with [[Vola]] at [[The Chapterhouse]], discuss the [[Society of the Open Scroll]]. 
+- (DR:: 1748-08-22), morning: Meet [[Seeker]]'s colleague[[ Ulfgar Frostbeard]], professor on the Faculty of Metaphysics. Learn [[Galen]], a professor of experimental metaphysics, has the [[Chalice of the Runepriest]].
+- (DR:: 1748-08-22), noon: Meet [[Dee Wildcloak]] and [[Dain Goldhammer]] for lunch. Learn that [[Fausto]], a rich scholar, has the [[Hralgar's Eyes|Eyes of Hralgar]]. Dee flirts with [[Wellby]].
 
 
 ## Narrative

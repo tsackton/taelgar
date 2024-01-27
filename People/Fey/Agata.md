@@ -9,7 +9,7 @@ born:
 species: fey
 subspecies: hag
 gender: female
-aliases: [Old Woman of the Dusts, Dasoclese]
+aliases: [Old Woman of the Dusts, Dasoclese, Agata Dustmother]
 whereabouts:
 - {type: home}
 - {type: home, end: 1, location: Amberglow} # amberglow not origin, just past home

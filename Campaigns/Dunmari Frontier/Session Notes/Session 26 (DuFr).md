@@ -16,44 +16,24 @@ name: Dunmari Frontier - Session 26
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Drikod]]*
 > *In Taelgar: May 23, 1748 DR to May 24, 1748 DR*
 > *On Earth: Tuesday Jun 01, 2021*
-> *Karawa*
+> *[[Karawa]]*
 
-The Dunmar Fellowship learns of the dire consequences of Shakun's missing Heart and battles shadows during an initiation ritual.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Heart of Shakun",
-  "tagline": "in which the Dunmar Fellowship confronts secrets and shadows",
-  "summary": [
-    "The Dunmar Fellowship arrives in Karawa and learns of the town's plight and the absence of imperial support.",
-    "Candrosa reveals the existence of the Heart of Shakun and its link to the town's failing defenses.",
-    "The party discovers that Cintra, the Supreme Oracle, departed with the Heart to heal her daughter, weakening Karawa's protections.",
-    "The adventurers undergo a partial initiation into the Mystai to understand the Heart's magic.",
-    "A shadow attack disrupts the ritual, resulting in the death of two mystai."
-  ],
-  "short_summary": "The Dunmar Fellowship uncovers the secret of the Heart of Shakun's power and its role in Karawa's plight, while sustaining a shadow attack during a sacred initiation ritual.",
-  "location": "Karawa"
-}
-```
-%%
+The[[ Dunmar Fellowship]] meets [[Drikod]], learns of the dire consequences of the missing [[Heart of Shakun]], and battles shadows during an initiation ritual.
 ## Session Info
 ### Summary
-- The Dunmar Fellowship returns to Karawa and learns of escalating attacks and the imperial troops' absence.
-- Candrosa admits to manipulating Delwath with magic and confesses secrets about the Heart of Shakun.
-- The Fellowship is informed of Cintra's disappearance with the Heart and its impact on regional protections.
-- The party witnesses a vision of Kharsan's history and prepares for a ritual to understand the Heart's magic.
-- During the initiation ritual under the mesa, shadowy forms attack, leading to a desperate battle and casualties.
+- The [[Dunmar Fellowship]] returns to [[Karawa]], where they meet [[Drikod]] and gather news.
+- [[Candrosa]] admits to manipulating [[Delwath]] with magic,  and reveals the existence of the [[Heart of Shakun]] and its link to the town's failing defenses.
+- "The party learns that [[Cintra]], the Supreme Oracle of Shakun, departed with the Heart to heal [[Jumi|her daughter]], weakening Karawa's protections.
+- The party prepares for a ritual to understand the Heart's magic and [[Shakun's Protection]]
+- During the [[The Shakun Mystai Initiation|initiation ritual]] under the [[Red Mesa|mesa]], shadowy forms attack, leading to a desperate battle and the death of two mystai.
 
 ### Timeline
-- (DR:: 1748-05-23), evening: Reach Karawa. Speak with centaur patrols. Meet Drikod. Hear story of Cintra and Shakun's Heart from apologetic and floundering Candrosa.
-- (DR:: 1748-05-24): Gather supplies in Karawa
-- (DR:: 1748-05-24), dusk: Ritual of Shakun's Initiation. Seeker notices the mesa is crumbling. Attacked by shadows at conclusion of initiation ritual.
+- (DR:: 1748-05-23), evening: Reach [[Karawa]]. Speak with centaur patrols. Meet [[Drikod]]. Hear story of [[Cintra]] and Shakun's Heart from apologetic and floundering Candrosa[[.]]
+- (DR:: 1748-05-24): Gather supplies in [[Karawa]]
+- (DR:: 1748-05-24), dusk: Ritual of Shakun's Initiation. [[Seeker]] notices the mesa is crumbling. Attacked by shadows at conclusion of initiation ritual.
 
 ### Mirror of the Past
  - (DR:: 1748-05-23): See a vision of broken glassware from Kharsan: [[Kharsan Broken Glassware Vision]] (recharge:: mirror)
-
 
 
 ## Narrative

@@ -7,49 +7,34 @@ DR: 1748-05-24
 DR_end: 1748-05-27
 players: [Kenzo, Wellby, Delwath, Seeker, Drikod]
 tagline: in which the party faces gnolls and a cruel creature
-descTitle: Wellspring Peril
+descTitle: The Wellspring Standoff
 name: Dunmari Frontier - Session 27
 ---
 # Dunmari Frontier - Session 27
 
->[!info] Wellspring Peril: in which the party faces gnolls and a cruel creature
+>[!info] The Wellspring Standoff: in which the party faces gnolls and a cruel creature
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Drikod]]*
 > *In Taelgar: May 24, 1748 DR to May 27, 1748 DR*
 > *On Earth: Wednesday Jul 07, 2021*
-> *Shakun's Wellspring*
+> *[[Shakun’s Wellspring]]*
 
-The Dunmar Fellowship embarks on a journey to Shakun's Wellspring, encountering guarded entrances and a threatening creature.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "The Wellspring Standoff",
-  "tagline": "in which a perilous descent reveals grim guardians",
-  "summary": [
-    "The Dunmar Fellowship observe a funeral for those lost to a shadow attack and discuss their connection to a weakening web of power.",
-    "Candrosa reveals the location and nature of Shakun's Wellspring, gives the party a scroll of sending, and the group departs from Karawa crossing the Red Mesa.",
-    "They encounter gnoll guardians and undead at the entrance to the Wellspring and decide to descend the cliffs stealthily using magic.",
-    "At the bottom, they find Cintra praying, and a confrontation with a creature named Samerki is narrowly avoided through illusions and distractions."
-  ],
-  "short_summary": "The Dunmar Fellowship descends into Shakun's Wellspring, encountering gnolls and a mysterious creature guarding Cintra and her daughter.",
-  "location": "Shakun's Wellspring"
-}
-```
-%%
+The [[Dunmar Fellowship]] embarks on a journey to [[Shakun’s Wellspring]], where they avoid gnolls, meet [[Cintra]], and hide from [[Samerki]].
 ## Session Info
+
+***The party is gifted a Scoll of Sending by Candrosa***
+***Character advancement: the party reaches level 6 while traveling across the Red Mesa, as Shakun prepares them for the challenges ahead***
 ### Summary
-- The Dunmar Fellowship attends a funeral for those killed by shadows, witnessing a network of magical connections.
-- They plan to find Shakun's Wellspring and possibly Cintra to heal her daughter, and receive a scroll of sending from Candrosa.
+- The [[Dunmar Fellowship]] attends a funeral for those killed by shadows, witnessing a network of magical connections.
+- They plan to find [[Shakun’s Wellspring]] and possibly [[Cintra]] to heal her daughter.
 - Traveling across Red Mesa, the party senses a force aiding their journey and discovers gnolls guarding the Wellspring's entrance.
-- The Fellowship decides to bypass the guards by flying and climbing down the cliffs to the Wellspring.
-- They encounter Cintra, who warns them to hide from a menacing creature demanding information from her.
+- The party decides to bypass the gnoll guards by flying and climbing down the cliffs to the Wellspring.
+- They encounter [[Cintra]], who warns them to hide from [[Samerki]], a menacing creature demanding information from her; a confrontation is narrowly avoided through illusions and distractions.
 
 ### Timeline
-- (DR:: 1748-05-24), evening: Funeral for mysai killed by shadows. Learn about the web of connections between initiates that powers the magic of Shakun that keeps Dunmar safe, using Shakun's Heart and the Temple of Shakun as a focus. Decide to leave for Shakun's Wellspring in the morning.
+- (DR:: 1748-05-24), evening: Funeral for mysai killed by shadows. Learn about the web of connections between initiates that powers the magic of Shakun that keeps [[Dunmar]] safe, using Shakun's Heart and the [[Temple of Shakun]] as a focus. Decide to leave for [[Shakun’s Wellspring]] in the morning.
 - (DR:: 1748-05-25), morning: Depart Karawa, heading across the [[Red Mesa]]
 - (DR:: 1748-05-26): Travel across the [[Red Mesa]] all day.
-- (DR:: 1748-05-27), late afternoon. Arrive at a circle of stone trees, the entrance to [[Shakun’s Wellspring]]. Find it guarded by gnolls, most of whom look skeletal and wasted away. Sneak south and begin to descend steep cliff walls with magic. Meet Cintra. Nearly discovered by [[Samerki]]. 
+- (DR:: 1748-05-27), late afternoon. Arrive at a circle of stone trees, the entrance to [[Shakun’s Wellspring]]. Find it guarded by gnolls, most of whom look skeletal and wasted away. Sneak south and begin to descend steep cliff walls with magic. Meet [[Cintra]]. Nearly discovered by [[Samerki]]. 
 
 ### Narratve
 We begin in the evening, as the sun has set and the [[Candrosa]] is leading the funeral service for those who died in the shadow attack at the end of the ritual of [[Shakun]]. As [[Seeker]], [[Wellby]], [[Delwath]], [[Drikod]], and [[Kenzo]] watch the funeral pyres burn and listen to the prayers of [[Candrosa]], the lingering visions of the ritual leave the impression of webs of power connecting the initiates of [[Shakun]] together in a network of power. But the center is missing, and power seems to be slowly ebbing away. Hinting at the consequences of revealing the secret widely, the party can also faintly see six gray, brittle lines of the web, where they and [[Tharandros]] connect to the web of power, but don’t contribute as they are not truly initiated. The party spends the evening discussing their plans, and also briefly discussing [[Wellby]]’s memories or vision of a woods in deep twilight, following a stream to a glade that is dark and old, as he held the bow [[Delwath]] summoned for him during the shadow fight. 

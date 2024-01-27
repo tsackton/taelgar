@@ -7,45 +7,26 @@ DR: 1748-07-23
 DR_end: 1748-07-23
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: [Johar, Justan, Copper Hill Bandits]
-tagline: in which alliances are tested and negotiated
+tagline: in which bitter battles are fought with Chardonians
 descTitle: Charm and Conflict
 name: Dunmari Frontier - Session 44
 ---
 # Dunmari Frontier - Session 44
 
->[!info] Charm and Conflict: in which alliances are tested and negotiated
+>[!info] Charm and Conflict: in which bitter battles are fought with Chardonians
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Jul 23, 1748 DR*
 > *On Earth: Thursday Apr 14, 2022*
-> *Vandar*
+> *[[Vandar]], [[Copper Hills]]*
 
-The Dunmar Fellowship engages in combat with charmed allies and adversaries, leading to a tense negotiation and fragile truce in Vandar.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "The Charm and the Clash",
-  "tagline": "In which alliances shift and battle ensues",
-  "summary": [
-    "Kenzo's attack on Kadmos is interrupted when he's taken down by Hektor.",
-    "Charm spells on Delwath, Wellby, and Riswynn create tension and misdirection.",
-    "A truce is called after a near deadly confrontation with the Chardonians.",
-    "The party discovers the ruins of a caravan and sets camp in Vandar's temple.",
-    "A nighttime theft leads to a fierce battle, ending with a negotiated settlement."
-  ],
-  "short_summary": "After a series of charm spells and violent encounters, the Dunmar Fellowship and the Chardonians reach a begrudging truce in the town of Vandar.",
-  "location": "Vandar"
-}
-```
-%%
+The[[ Dunmar Fellowship]] engages in combat with charmed allies and adversaries, leading to a tense negotiation, a failed theft attempt, and a bitter truce in [[Vandar]].
 ## Session Info
 ### Summary
-- Kenzo attacks Kadmos but is taken down by Hektor.
-- Kenzo breaks Wellby's charm; Chardonians speculate the Scepter of Command's influence.
+- [[Kenzo]] attacks [[Kadmos]] but is knocked unconscious by [[Hektor]].
+- [[Kenzo]] breaks [[Wellby]]'s charm; Chardonians speculate on the [[Scepter of Command]]'s influence.
 - Negotiations fail, but violence is averted as Chardonians and party rest separately.
-- Dunmar Fellowship arrives at Vandar, setting camp in the wyvern lair's proximity.
-- A nighttime theft attempt by Marcella escalates into a battle, ending with a negotiated truce and reparations.
+- The party arrives at [[Vandar]], searching for the wyvern's lair, and camp in a ruined temple. 
+- A nighttime theft attempt by [[Marcella]] escalates into a battle, ending with a bitter truce and reparations.
 
 ### Timeline
 - (DR:: 1748-07-23), mid-afternoon: Confront [[Kadmos]] and company. Bitter conversation after a short battle that leaves [[Kenzo]] unconscious. Leave to find the wyvern's lair. 

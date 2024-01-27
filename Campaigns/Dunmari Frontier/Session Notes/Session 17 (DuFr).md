@@ -6,57 +6,37 @@ realWorldDate: 2021-01-22
 DR: 1748-04-16
 DR_end: 1748-04-24
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which the party faces aftermath and mystery
+tagline: in which the party returns to Karawa amid the aftermath of gnoll attacks
 descTitle: Karawa's Plight
 name: Dunmari Frontier - Session 17
 ---
 # Dunmari Frontier - Session 17
 
->[!info] Karawa's Plight: in which the party faces aftermath and mystery
+>[!info] Karawa's Plight: in which the party returns to Karawa amid the aftermath of gnoll attacks
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Apr 16, 1748 DR to Apr 24, 1748 DR*
 > *On Earth: Friday Jan 22, 2021*
-> *from Stormcaller Tower to Karawa*
+> *From [[Stormcaller Tower]] to [[Karawa]]*
 
-The Dunmar Fellowship arrives in a devastated Karawa, combats gnolls, and uncovers ominous signs, including an enigmatic figure known as Agata Dustmother.
+The [[Dunmar Fellowship]] combats gnolls, arrives in a devastated [[Karawa]], and uncovers ominous signs, including an enigmatic figure known as [[Agata]] Dustmother.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Karawa's Plight",
-  "tagline": "in which Karawa bears the scars of conflict",
-  "summary": [
-    "The Dunmar Fellowship recounted past stories and speculated on recent mysteries.",
-    "On route to Karawa, they defeated a desperate band of gnolls suffering from starvation.",
-    "During a week's travel, Seeker studied ley lines and Delwath experimented with magical lenses.",
-    "Using the mirror of Eudomes, Delwath glimpsed into the past of the Ivory Scroll Cap.",
-    "Arriving at Karawa, they discovered devastation and met allies with news of recent events, including a gnoll siege and mysterious occurrences in the south."
-  ],
-  "short_summary": "The Dunmar Fellowship arrived in a devastated Karawa, encountered remnants of conflict, and learned of ominous events in the south.",
-  "location": "Karawa"
-}
-```
-%%
 ## Session Info
 
 ***The Dunmar Fellowship escapes Stormcaller Tower with a [[Stormcaller Tower Hoard|number of treasures]].***
 ### Summary
-- The Dunmar Fellowship shares personal stories and contemplates recent mysteries over breakfast.
+- The [[Dunmar Fellowship]] shares personal stories and contemplates recent mysteries over breakfast.
 - They fend off a desperate gnoll attack while traveling south towards Karawa.
-- Travel across changing landscapes, investigating magical artifacts and training a pet axe beak.
-- They use a magical mirror to glimpse into the past of an item they possess.
-- Arriving in Karawa, they find it ravaged, learn of a gnoll siege, and gather intelligence from allies.
-- They discuss the possibility that 'Agata Dustmother' might be the ominous 'Old Woman of the Dusts'.
+- Arriving in [[Karawa]], they find it ravaged, learn of a gnoll siege, and gather intelligence from allies.
+- They discuss the possibility that '[[Agata|Agata Dustmother]]' might be the ominous '[[Agata|Old Woman of the Dusts]]'.
 
 ### Timeline
 - (DR:: 1748-04-16), late morning: Leave [[Stormcaller Tower]] heading towards Karawa. 
 - (DR:: 1748-04-16), afternoon: Kill a group of emaciated and nearly undead gnolls on the plains.
 - (DR:: 1748-04-17) - (DR_end:: 1748-04-23): Travel south towards [[Karawa]]
-- (DR:: 1748-04-24), afternoon: Arrive at Karawa.  Here news of gnoll attack from an exhausted [[Candrosa]]. Learns news of the south from [[Alesh]], including an [[Orcs|orc]] scouting party, a mysterious empty stone house, and another band of emaciated gnolls heading south and west into the [[Garamjala Desert]].
+- (DR:: 1748-04-24), afternoon: Arrive at [[Karawa]].  Here news of gnoll attack from an exhausted [[Candrosa]]. Learns news of the south from [[Alesh]], including an [[Orcs|orc]] scouting party, a mysterious empty stone house, and another band of emaciated gnolls heading south and west into the [[Garamjala Desert]].
 
 ### Mirror of the Past
-- (DR:: 1748-04-22): See a vision of the [[Ivory Scroll Cap]] found at Raven's Hold in the [[The Mirror of the Past]]: [[Ivory Scroll Cap Vision]] (recharge:: mirror)
+- (DR:: 1748-04-22): See a vision of the [[Ivory Scroll Cap]] found at [[Raven's Hold]] in the [[The Mirror of the Past]]: [[Ivory Scroll Cap Vision]] (recharge:: mirror)
 
 
 

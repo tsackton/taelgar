@@ -7,11 +7,11 @@ born: 1721
 species: human
 ancestry: Dunmari
 gender: female
-died: 1748-05-01
+died: 1748-05-05
 affiliations: [Havdar's Warband]
 whereabouts:
-- {type: home, location: Eastern Dunmar, format: ""}
-- {type: away, start: 1748-05-01, prefix: western part of , location: Garamjala Desert}
+- {type: home, location: Eastern Dunmar}
+- {type: away, start: 1748-05-01, end: 1748-05-05, location: Nashtkar}
 ---
 # Camana
 >[!info]+ Biographical Info

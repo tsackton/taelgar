@@ -17,38 +17,19 @@ name: Dunmari Frontier - Session 30
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Drikod]]*
 > *In Taelgar: Jun 01, 1748 DR to Jun 04, 1748 DR*
 > *On Earth: Friday Sep 10, 2021*
-> *Agata's lair and nearby canyon*
+> *[[Agata's lair]]*
 
-The Dunmar Fellowship navigated magical defenses and looted Agata's lair, rescuing enchanted victims and retreating to plan their next move.
+The [[Dunmar Fellowship]] navigates magical defenses and loots [[Agata's lair]], rescuing enchanted victims and retreating to plan their next move.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Agata's Enchanted Lair",
-  "tagline": "in which the Dunmar Fellowship outwits magical traps",
-  "summary": [
-    "The party leaves Karawa, caches supplies in Bas Udda, and heads south.",
-    "They avoid a battle and fly over deadly trees to reach Agata's lair.",
-    "A magical obsidian fly attacks them but is subdued and turned back into a sculpture.",
-    "Seeker dispels a scarecrow's enchantment, revealing it to be a trapped halfling.",
-    "Several members vanish into a Mirror of Soul Trapping but are eventually freed.",
-    "The fellowship loots valuable items and discovers a fleshy creature in the bedroom.",
-    "They escape with treasure and rescue one more person trapped in furniture."
-  ],
-  "short_summary": "The Dunmar Fellowship navigates magical defenses at Agata's lair, loots treasures, and rescues enchanted prisoners before retreating to safety.",
-  "location": "on the road between Karawa and Agata's lair"
-}
-```
-%%
 ## Session Info
-### Summary
-- The Fellowship left Karawa, cached supplies in Bas Udda, and located Agata's lair.
-- Using various flying methods, they bypassed a line of dead trees and an enchanted Obsidian Fly.
-- At the lair, they dispelled a scarecrow's enchantment, freeing a trapped halfling.
-- They overcame a Mirror of Soul Trapping, freeing trapped members and looting treasures.
-- The party retreated to a nearby canyon with their loot, planning to return after preparing.
 
+***The party recovers the rest of [[Agata's Treasures]] from her lair, including the [[Mirror of Soul Trapping]]***
+### Summary
+- The [[Dunmar Fellowship]] leaves [[Karawa]], caches supplies in [[ Bas Udda]], and heads south.
+- They avoid a battle and fly over deadly trees to reach Agata's lair.
+- At the lair,Seeker dispels a scarecrow's enchantment, revealing it to be a trapped halfling named [[Garret Tealeaf]]. 
+- They overcome a [[Mirror of Soul Trapping]], freeing trapped members, and then looting treasures from the lair. 
+- The party retreats to a nearby canyon with their loot, planning to return after preparing.
 ### Timeline
 - (DR:: 1748-06-02): Travel from Karawa towards Bas Udda.
 - (DR:: 1748-06-03): Arrive in Bas Udda. Spend the night.

@@ -7,49 +7,35 @@ DR: 1748-08-22
 DR_end: 1748-08-24
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 tagline: in which deals are struck and betrayals unfold
-descTitle: Chalice and Eyes
+descTitle: The Chalice and the Eyes
 name: Dunmari Frontier - Session 49
 ---
 # Dunmari Frontier - Session 49
 
->[!info] Chalice and Eyes: in which deals are struck and betrayals unfold
+>[!info] The Chalice and the Eyes: in which deals are struck and betrayals unfold
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Aug 22, 1748 DR to Aug 24, 1748 DR*
 > *On Earth: Thursday Jun 30, 2022*
 > *Chardon*
 
-The Dunmar Fellowship engages in treacherous negotiations for powerful artifacts and narrowly escapes a deadly ambush.
+The [[Dunmar Fellowship]] engages in treacherous negotiations for powerful artifacts and narrowly escapes a deadly ambush.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Double-Edged Deals",
-  "tagline": "in which the Fellowship navigates treacherous bargains",
-  "summary": [
-    "The party learns about the Elderwood tribes from scholar Gnaeus and discusses artifacts with Roscelia and Lyra.",
-    "Galen is willing to sell the Chalice of the Runepriest for 8,000 gp plus a magical item; Riswynn to finalize payment.",
-    "Fausto betrays the party after trading the Pandemonium Scroll for Hralgar's Eyes, leading to a dangerous escape.",
-    "Riswynn vanishes via the Chalice's magic; Seeker helps the party flee outside Chardon in a Portable Hole."
-  ],
-  "short_summary": "The Dunmar Fellowship strikes perilous deals to acquire magical artifacts, culminating in a treacherous escape from Chardon.",
-  "location": "Chardon"
-}
-```
-%%
 ## Session Info
+
+***The party levels Fausto's tower with the [[Mace of Terror]], [[Hralgar's Eyes]], and the [[Binding Stones]]. 
+
+***Character advancement: the party reaches level 9 as they flee Chardon, having recovered Hralgar's Eyes and survived Fausto's ambush.***
 ### Summary
-- The Dunmar Fellowship visits scholar Gnaeus to learn about the Elderwood's Deno'qai tribes.
-- They discuss artifacts and adventurers with Roscelia and her archivist friend, Lyra, who distrust Fausto.
-- Delwath prepares for the journey while Seeker researches magical command words.
-- Galen agrees to sell the Chalice of the Runepriest, while Fausto betrays the party after a trade for Hralgar's Eyes.
-- A harrowing escape ensues, with Riswynn disappearing via the chalice and Seeker teleporting the rest to safety.
+- The[[ Dunmar Fellowship]] visits scholar [[Gnaeus]] to learn about the [[Elderwood]]'s [[Deno'qai]] tribes.
+- They discuss artifacts and adventurers with [[Roscelia]] and her archivist friend, [[Lyra]], who distrust [[Fausto]].
+- [[Galen]] agrees to sell the [[Chalice of the Runepriest]] to [[Riswynn]].
+- Fausto betrays the party after trading the [[Pandemonium Scroll]] for [[Hralgar's Eyes]], leading to a dangerous escape, with [[Riswynn]] disappearing via the [[Chalice of the Runepriest|chalice]] and [[Seeker]] teleporting the rest to safety.
 
 ### Timeline
-- (DR:: 1748-08-22), afternoon: Speak with Gnaeus, learn about the Elderwood and the Deno'qai. Have tea with Roscelia and Lyra.
+- (DR:: 1748-08-22), afternoon: Speak with [[Gnaeus]], learn about the [[Elderwood]] and the [[Deno'qai]]. Have tea with [[Roscelia]] and [[Lyra]].
 - (DR:: 1748-08-23): Split up and deal with errands and personal tasks. 
-- (DR:: 1748-08-23), late afternoon: Take in Galen's lecture in the afternoon. Negotiate for the Chalice. Meet Fausto. Negotiate for [[Hralgar's Eyes]]. 
-- (DR:: 1748-08-24), morning: Riswynn goes to purchase the [[Chalice of the Runepriest]] from Galen. [[Seeker]], [[Kenzo]], [[Delwath]], and [[Wellby]] go to Fausto's tower to make exchange for [[Hralgar's Eyes]], giving [[Fausto]] the [[Pandemonium Scroll]] in trade. Walk into an ambush. Flee, nearly dying in the process, with [[Hralgar's Eyes]], as Fausto rants about [[The Cleansed]]. Race through Chardon in chaos. Riswynn vanishes. Escape the city via [[Seeker]]'s magic. 
+- (DR:: 1748-08-23), late afternoon: Take in [[Galen]]'s lecture in the afternoon. Negotiate for the [[Chalice of the Runepriest]]. Meet [[Fausto]]. Negotiate for [[Hralgar's Eyes]]. 
+- (DR:: 1748-08-24), morning: [[Riswynn]] goes to purchase the [[Chalice of the Runepriest]] from Galen. [[Seeker]], [[Kenzo]], [[Delwath]], and [[Wellby]] go to Fausto's tower to make exchange for [[Hralgar's Eyes]], giving [[Fausto]] the [[Pandemonium Scroll]] in trade. Walk into an ambush. Flee, nearly dying in the process, with [[Hralgar's Eyes]], as [[Fausto]] rants about [[The Cleansed]]. Race through [[Chardon]] in chaos. [[Riswynn]] vanishes. Escape the city via [[Seeker]]'s magic. 
 
 
 ## Narrative

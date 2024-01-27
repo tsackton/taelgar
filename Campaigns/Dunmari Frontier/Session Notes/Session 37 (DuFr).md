@@ -16,41 +16,21 @@ name: Dunmari Frontier - Session 37
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Jul 02, 1748 DR*
 > *On Earth: Monday Jan 03, 2022*
-> *underground lair of the Fraternity of the Empty Moon*
+> *[[Lair of the Fraternity of the Empty Moon]], [[Tokra]]*
 
-The Dunmar Fellowship overcomes enchanted statues and werewolves in an underground lair to rescue Govir and defeat the Fraternity of the Empty Moon's leader.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Lair of the Lycans",
-  "tagline": "in which the Dunmar Fellowship confronts a werewolf den",
-  "summary": [
-    "The party defeats enchanted animal statues guarding an underground lair.",
-    "They rescue Govir, a prisoner who reveals he was captured by werewolves for his knowledge of the Pandemonium ruins.",
-    "Govir fears he has been turned into a werewolf and killed Hada, the head scribe.",
-    "The party sets a trap and defeats two werewolf guards with the help of an animated ladder.",
-    "A fierce battle ensues, resulting in the death of the werewolf leader and ten of his minions."
-  ],
-  "short_summary": "The Dunmar Fellowship battles werewolves in their lair, rescues a prisoner, and defeats the pack's leader.",
-  "location": "Fraternity of the Empty Moon's underground lair"
-}
-```
-%%
+The [[Dunmar Fellowship]] battles werewolves in their lair, rescues the imprisoned [[Govir]], and defeats the pack's leader.
 ## Session Info
+
+***The heroic [[Ladder]] makes its first triumphant appearance***
 ### Summary
-- The party defeats enchanted animal statues guarding a lair.
-- Two guards transform into werewolves, are defeated, and Govir is rescued from a cell.
-- Govir reveals he was kidnapped for knowledge about a map to Pandemonium ruins.
-- He fears he may have killed Hada while under a lycanthropic curse.
-- The party sets a trap for returning guards and successfully ambushes them.
+- The party defeats enchanted animal statues guarding a  lair.
+- They rescue [[Govir]], a prisoner who reveals he was captured by werewolves for his knowledge of the Pandemonium ruins.
+- [[Govir]] fears he has been turned into a werewolf and killed [[Hada]], the head scribe.
+- The party sets a trap and defeats two werewolf guards with the help of an animated [[ladder]].
 - A fierce battle with the werewolf leader and his minions ensues.
 - Despite injuries and bites, the party emerges victorious, with the leader killed during his escape attempt.
-
 ### Timeline
-- (DR:: 1748-07-02), afternoon: Fight animated statue guards. Explore underground lair of [[Fraternity of the Empty Moon]]. Rescue Govir. Find the dead body of Hada, the head scribe, killed apparently by Govir while in a lycanthropic rage. Kill 10 werewolves, including the leader.
-
+- (DR:: 1748-07-02), afternoon: Fight animated statue guards. Explore underground lair of [[Fraternity of the Empty Moon]]. Rescue [[Govir]]. Find the dead body of [[Hada]], the head scribe, killed apparently by [[Govir]] while in a lycanthropic rage. Kill 10 werewolves, including the leader.
 
 ## Narrative
 Our session begins as the party opens the door at the end of the long tunnel, stepping into a room with four grotesque animal statues, all bizarre hybrids: a crab on a lion’s body, a goat head on a snake body, a snake head on a rearing wolf, and a bear-like creature with bat wings and axebeak legs. Although the initial strategy of total darkness fails as the statues can sense intruders in the dark, eventually they are defeated and the party begins to explore the lair.
