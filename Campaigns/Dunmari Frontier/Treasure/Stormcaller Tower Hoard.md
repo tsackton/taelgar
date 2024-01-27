@@ -1,7 +1,8 @@
 ## Recovered after the first journey to the tower
 
-
-
+- Eudomes mirror, the [[The Mirror of the Past]]
+- [[Goggles of Object Reading]]
+- (other stuff)
 
 ## Recovered after freeing Hralgar
 

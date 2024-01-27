@@ -7,45 +7,28 @@ DR: 1748-07-23
 DR_end: 1748-08-08
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: [Johar]
-tagline: in which the party captures a poison troll
-descTitle: Troll Trapped
+tagline: in which the party recovers from battle, and finally reaches Darba
+descTitle: Onward to Darba
 name: Dunmari Frontier - Session 45
 ---
 # Dunmari Frontier - Session 45
 
->[!info] Troll Trapped: in which the party captures a poison troll
+>[!info] Onward to Darba: in which the party recovers from battle, and finally reaches Darba
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Jul 23, 1748 DR to Aug 08, 1748 DR*
 > *On Earth: Thursday May 05, 2022*
-> *from Vandar to the outskirts of Darba*
+> *From [[Vandar]] to the outskirts of [[Darba]]*
 
-The Dunmar Fellowship, after a narrow escape, traps a poison troll and ventures west, unraveling magical mysteries along the way.
+The [[Dunmar Fellowship]], after a narrow escape, traps a poison troll, and journeys to the outskirts of [[Darba]].
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Escape and Recovery",
-  "tagline": "in which the Dunmar Fellowship flees and regroups",
-  "summary": [
-    "The Fellowship flees the temple ruins and takes refuge in nearby abandoned mines.",
-    "They discuss the Society of the Open Scroll's influence and plan to aid Marcella's escape.",
-    "They task Johar with distributing blood money to bandits' families and inspect magical items.",
-    "The party scouts the ruins, traps a poison troll, and travels towards Darba.",
-    "They reach Darba's outskirts, examining an extravagant diamond with their magical mirror."
-  ],
-  "short_summary": "The Dunmar Fellowship escapes a burning temple, aids an ally, traps a troll, and journeys to the outskirts of Darba.",
-  "location": "From the abandoned mines near Vandar to the outskirts of Darba"
-}
-```
-%%
 ## Session Info
+
+***The party departs Vondar with some treasures from the wyvern's lair.***
 ### Summary
-- The Dunmar Fellowship escapes a fiery battle and seeks refuge near abandoned mines.
-- They learn of the Society of the Open Scroll's dark influence from Marcella and gift her Boots of False Tracks for escape.
-- Johar agrees to manage blood money from the Chardonians and find the bandits' families.
-- The party investigates magical items, trapping a poison troll in the Mirror of Soul Trapping during a return to the ruins.
-- The Fellowship travels west, reaching the outskirts of Darba after viewing visions of the past in a magical mirror.
+- The [[Dunmar Fellowship]] escapes a fiery battle and seeks refuge near abandoned mines.
+- They learn of the [[Society of the Open Scroll]]'s dark influence from [[Marcella]] and gift her [[Boots of False Tracks]] to help her escape.
+- They task [[Johar]] with distributing blood money to bandits' families. and inspect magical items
+- The party scouts the ruins, traps a poison troll in the [[Mirror of Soul Trapping]], and travels towards Darba.
 
 ### Timeline
 - (DR:: 1748-07-23), night: Flee towards the abandoned mines in the foothills as the ruined town of [[Vandar]] begins to burn in the aftermath of the fight with [[Casian]], [[Kadmos]], and [[Marcella]]. Camp near the entrance to the old copper mines

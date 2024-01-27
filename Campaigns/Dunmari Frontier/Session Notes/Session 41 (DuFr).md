@@ -6,61 +6,43 @@ realWorldDate: 2022-03-03
 DR: 1748-07-06
 DR_end: 1748-07-13
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
-tagline: in which the party engages in diplomacy and research
+tagline: in which the party returns to Tokra and plans their next steps
 descTitle: Monsoon's Arrival
 name: Dunmari Frontier - Session 41
 ---
 # Dunmari Frontier - Session 41
 
->[!info] Monsoon's Arrival: in which the party engages in diplomacy and research
+>[!info] Monsoon's Arrival: in which the party returns to Tokra and plans their next steps
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Jul 06, 1748 DR to Jul 13, 1748 DR*
 > *On Earth: Thursday Mar 03, 2022*
-> *Tokra*
+> *[[Tokra]]*
 
-The Dunmar Fellowship returns to Tokra, assists in archiving lore, and prepares to escort Johar amidst the onset of the monsoon season.
+The [[Dunmar Fellowship]] returns to [[Tokra]], assists in archiving lore, and prepares to escort [[Johar]] to [[Darba]] amidst the onset of the monsoon season.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Scrolls and Summons",
-  "tagline": "in which the Fellowship returns to Tokra and plans ahead",
-  "summary": [
-    "Kenzo receives 10 scrolls from Saka for the Hall of Stories and reminders of his duties.",
-    "The party arrives in Tokra and receives various messages including one from Govir.",
-    "They learn from Govir about the Fraternity of the Empty Moon's rituals and plans.",
-    "Govir receives support to reorganize the Archives with Ardan's funding.",
-    "Kaleha decides to execute the captured werewolf, after confirming with the party.",
-    "The party prepares to leave for Darba, tasked with escorting Johar on Speaker Lara's request."
-  ],
-  "short_summary": "The Dunmar Fellowship returns to Tokra, gathers intelligence, and agrees to escort Johar to Darba.",
-  "location": "Tokra"
-}
-```
-%%
 ## Session Info
+
+***Character advancement: the party reaches level 8 as the werewolf threat is ended and their time in Tokra comes to a close***
 ### Summary
-- Kenzo receives 10 scrolls from Saka to collect Dunmari stories for the Hall of Stories.
-- The party returns to Tokra, receives messages, and reunites with allies.
-- Delwath reassures Fallthra Hardstone about Dag's dreams; Govir shares findings on the Fraternity of the Empty Moon.
-- Govir gains support from Ardan to reorganize the Archives with additional resources.
-- Kaleha plans to execute the captured werewolf; the party prepares to escort Johar to Darba.
+- [[Kenzo]] receives 10 scrolls from [[Saka]] to collect Dunmari stories for the [[Hall of Stories]].
+- The party returns to [[Tokra]], receives messages, and reunites with [[Riswynn]].
+- [[Delwath]] reassures [[Fallthra Hardstone]] about Dag's dreams; [[Govir]] shares findings on the [[Fraternity of the Empty Moon]].
+- [[Govir]] gains support from [[Ardan]] to reorganize the Archives with additional resources.
+- [[Kaleha]] plans to execute the captured werewolf; the party prepares to leave for [[Darba]], tasked with escorting [[Johar]] on Speaker [[Lara]]'s request.
 
 ### Timeline
- - (DR:: 1748-07-06), early afternoon: Leave Saka's camp. Kenzo gifted scrolls for collecting stories, and Saka urges him to take his duties as a mystai of Bhishma seriously. Travel south to Tokra. 
-- (DR:: 1748-07-07): Travel south to Tokra.
-- (DR:: 1748-07-08): Travel south to Tokra.
-- (DR:: 1748-07-08), evening: Arrive in Tokra. Reunite with Riswynn at Kirian's for dinner. Kenzo listens to Kirian's life story.
-- (DR:: 1748-07-09): Speak with Hardstones and with Govir at the archives. First rains of the monsoon. Speak with Kaleha. Monsoon rains arrive in Tokra. Move to monastery.
-- (DR:: 1748-07-10): Day of Renewal. Spend the night at the monastery.
-- (DR:: 1748-07-11): Speak with Kassi about Rai, dead gods, and [[Yezali]]. Rest at monastery.
+ - (DR:: 1748-07-06), early afternoon: Leave Saka's camp. [[Kenzo]] gifted scrolls for collecting stories, and [[Saka]] urges him to take his duties as a mystai of Bhishma seriously. Travel south to [[Tokra]]. 
+- (DR:: 1748-07-07): Travel south to [[Tokra]].
+- (DR:: 1748-07-08): Travel south to [[Tokra]].
+- (DR:: 1748-07-08), evening: Arrive in [[Tokra]]. Reunite with [[Riswynn]] at [[Kirian’s]] for dinner. [[Kenzo]] listens to [[Kirian]]'s life [[Kirian's Story|story]].
+- (DR:: 1748-07-09): Speak with Hardstones and with [[Govir]] at the archives. Speak with [[Kaleha]]. Monsoon rains arrive in [[Tokra]]. Move to monastery.
+- (DR:: 1748-07-10): [[Day of Renewal]]. Spend the night at the monastery.
+- (DR:: 1748-07-11): Speak with [[Kassi]] about [[Rai]], dead gods, and [[Yezali]]. Rest at monastery.
 - (DR:: 1748-07-12): Rest at monastery.
-- (DR:: 1748-07-13): Speaker Lara returns. Discuss situation in Dunmar and Sura. Agree to escort Johar to Darba. 
+- (DR:: 1748-07-13): Speaker [[Lara]] returns. Discuss situation in [[Dunmar]] and [[Sura]]. Agree to escort [[Johar]] to [[Darba]]. 
 
 ### Notes
 - [[Research from Kassi]]
-
 
 
 ## Narrative

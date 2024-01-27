@@ -16,7 +16,7 @@ name: "Dunmari Frontier - Session 2"
 > *Featuring: [[Kenzo]], [[Wellby]], [[Seeker]], [[Delwath]]*
 > *In Taelgar: Mar 22, 1748 DR to Mar 25, 1748 DR*
 > *On Earth: Friday Jun 12, 2020*
-> *[[Gomat|Gomat Oasis]] to the [[Dunmari Fort (Gomat)|abandoned Dunmari fort]]*
+> *From [[Gomat|Gomat Oasis]] to the [[Dunmari Fort (Gomat)|abandoned Dunmari fort]]*
 
 The [[Dunmar Fellowship]] defeats giant lizards at [[Gomat|Gomat Oasis]], uncovers signs of unnatural disturbances, and battles skeletons at a [[Dunmari Fort (Gomat)|ruined fort]].
 ## Session Info

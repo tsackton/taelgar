@@ -6,48 +6,30 @@ realWorldDate: 2021-02-05
 DR: 1748-04-24
 DR_end: 1748-04-24
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which a fey's history and demonic incursions are pondered
-descTitle: Dark Alliances
+tagline: in which mystical realms and strange silences are discussed
+descTitle: Questions and Doubt
 name: Dunmari Frontier - Session 18
 ---
 # Dunmari Frontier - Session 18
 
->[!info] Dark Alliances: in which a fey's history and demonic incursions are pondered
+>[!info] Questions and Doubt: in which mystical realms and strange silences are discussed
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Apr 24, 1748 DR*
 > *On Earth: Friday Feb 05, 2021*
-> *Karawa*
+> *[[Karawa]]*
 
-The Dunmar Fellowship uncovers alarming connections between [[Agata]] Dustmother, an agreement with centaurs, and a silence in the land's echoes.
+The [[Dunmar Fellowship]] delves into discussions of otherworldly planes and strange enemies, and decides to travel east into the desert to learn more. 
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Dark Alliances",
-  "tagline": "in which ancient secrets and mystical realms are discussed",
-  "summary": [
-    "The Dunmar Fellowship meets with Candrosa and Alesh, discussing gnolls, demons, and Agata Dustmother's dark magic.",
-    "Candrosa is visibly troubled, especially regarding Shakun's protection, and reveals how to find Agata.",
-    "Afterwards, the group meets Tharandros, sharing a meal and discussing echo realms, mythic history, and Agata's fey nature.",
-    "Tharandros expresses concern over a strange silence in Karawa, implying a mystery the party should investigate.",
-    "The party concludes to seek alliance with Havdar to the east, potentially uncovering answers in their journey."
-  ],
-  "short_summary": "The Dunmar Fellowship delves into discussions of otherworldly planes and ancient wars, uncovering potential alliances and mysteries to explore.",
-  "location": "Taelgar"
-}
-```
-%%
 ## Session Info
 ### Summary
-- The Dunmar Fellowship discusses gnolls, demons, and [[Agata]] Dustmother's dark magic with [[Candrosa]], who is notably anxious.
-- The origins of southern gnolls and their desert journey are questioned, with no definitive answers.
-- [[Candrosa]] is perturbed by talk of [[Shakun]]'s protection and insists the [[Temple of Shakun]] stands unbreached.
-- Candrosa provides clues on finding [[Agata]], advising to follow strangely acting animals in the desert.
-- In a meeting with [[Tharandros]], the party learns of [[Agata]]'s fey nature and past allegiances, sparking concerns of revenge.
+- The [[Dunmar Fellowship]] meets with [[Candrosa]] and [[Alesh]], discussing gnolls, [[demons]], and [[Agata|Agata Dustmother]]'s dark magic.
+- Candrosa is visibly troubled, especially regarding [[Shakun's protection]], and reveals how to find Agata.
+- Afterwards, the group meets [[Tharandros]], sharing a meal and discussing [[echo realms]], mythic history, and [[Agata]]'s fey nature.
+- [[Tharandros]] expresses concern over a strange silence in [[Karawa]], implying a mystery the party should investigate.
+- The party decides to travel east with [[Havdar]], seeing what they can find in the desert. 
 
 ### Timeline
-- (DR:: 1748-04-24), late afternoon: Discuss [[Agata]] Dustmother, the gnolls, and the events of the past month with Candrosa, who is distracted, worried, and nervous, especially when the topic of Shakun's protection comes up. 
+- (DR:: 1748-04-24), late afternoon: Discuss [[Agata]] Dustmother, the gnolls, and the events of the past month with [Candrosa], who is distracted, worried, and nervous, especially when the topic of [[Shakun's Protection]] comes up. 
 - (DR:: 1748-04-24), evening: Discuss the metaphysics of other planes and [[Agata]] Dustmother with [[Tharandros]]. Decide to travel east with [[Havdar]].
 
 

@@ -7,54 +7,36 @@ DR: 1748-05-05
 DR_end: 1748-05-11
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: [Havdar's Warband]
-tagline: in which the party encounters orcish plots and magic
-descTitle: Orc Interrogation
+tagline: in which the party uncovers orcish plots and learns of Grash
+descTitle: Rumors of the East
 name: Dunmari Frontier - Session 21
 ---
 # Dunmari Frontier - Session 21
 
->[!info] Orc Interrogation: in which the party encounters orcish plots and magic
+>[!info] Rumors of the East: in which the party uncovers orcish plots and learns of Grash
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: May 05, 1748 DR to May 11, 1748 DR*
 > *On Earth: Saturday Mar 13, 2021*
-> *near Kharsan and the Monastery of Bhishma*
+> *[[Nashtkar]]*
 
-The Dunmar Fellowship interrogates an orc cleric, attends a funeral for fallen warriors, and begins a covert journey to the Monastery of Bhishma.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Orc Interrogation",
-  "tagline": "in which the Dunmar Fellowship deals with aftermath and secrets",
-  "summary": [
-    "The Dunmar Fellowship survives a fierce battle with orcs and captures an orc cleric, Gorkil, with a rising sun symbol.",
-    "Gorkil reveals he serves Grash, the Blighted One, who seeks treasure and commands orcs to war against peaceful orc farmers.",
-    "During the interrogation, Gorkil compels Seeker to kill him, ending the questioning abruptly.",
-    "Havdar honors his fallen warriors with a funeral; Wellby receives a magical bowstring from Havdar's deceased scout.",
-    "The party journeys around Kharsan to reach the Monastery of Bhishma, traversing the desert and avoiding orc activity."
-  ],
-  "short_summary": "The Dunmar Fellowship interrogates an orc cleric, learns of a deity named Grash, and travels to avoid Kharsan en route to the Monastery of Bhishma.",
-  "location": "Havdar's camp and the desert surrounding Kharsan"
-}
-```
-%%
+The Dunmar Fellowship interrogates an [[Gorkil|orc cleric]], attends a funeral for fallen warriors, and begins a covert journey to the [[Monastery of Bhishma]].
 ## Session Info
+
+***Kenzo and Wellby receive gifts from Havdar, the[[Ring of Jumping]] and the [[Flaming Bowstring]].*** 
 ### Summary
-- The Dunmar Fellowship interrogates an orc cleric, learning of Grash, the Blighted One, and tensions with another orc group.
-- The orc cleric uses magic to compel Seeker to kill him during the interrogation.
-- The party attends a funeral for Havdar's fallen warriors and receives a magical bowstring from Havdar.
-- The Fellowship departs to avoid Kharsan and approach the Monastery of Bhishma from the south.
-- After several days in the desert, the party sights Kharsan and assesses the city and surrounding landmarks.
+- The [[Dunmar Fellowship]] interrogates [[Gorkil]], an orc cleric, learning of [[Grash]], the Blighted One, and tensions with another [[People of the Rainbow|orc group]] of peaceful farmers.
+- During the interrogation, [[Gorkil]] compels [[Seeker]] to kill him, ending the questioning abruptly.
+- [[Havdar]] honors his fallen warriors with a funeral; Wellby receives a [[Flaming Bowstring|magical bowstring]] from Havdar's [[Camana|deceased scout]].
+- "The party journeys around [[Kharsan]] to reach the [[Monastery of Bhishma]], traversing the desert and avoiding orc activity.
 
 ### Timeline
-- (DR:: 1748-05-05), evening: Interrogate the orc survivor [[Gorkil]] in Havdar's camp, who rants about being a servant of Grash, the Blighted One, and that Grash's protection means he will rise stronger if he is killed. Eventually commands Seeker to kill him, ending the interrogation. Funeral for members of [[Havdar]]'s band who died; [[Havdar]] passes [[Flaming Bowstring|a magical bowstring]] to Wellby. Meet Aram, a member of [[Havdar]]'s band who can heal with a touch. 
-- (DR:: 1748-05-06): Leave Havdar's camp, heading south, to approach the Monastery of Bhishma while avoiding approaching Kharsan.
+- (DR:: 1748-05-05), evening: Interrogate the orc survivor [[Gorkil]] in Havdar's camp, who rants about being a servant of [[Grash]], the Blighted One, and that Grash's protection means he will rise stronger if he is killed. Eventually commands [[Seeker]] to kill him, ending the interrogation. Funeral for members of [[Havdar]]'s band who died; [[Havdar]] passes [[Flaming Bowstring|a magical bowstring]] to Wellby. Meet [[Aram]], a member of [[Havdar]]'s band who can heal with a touch. 
+- (DR:: 1748-05-06): Leave Havdar's camp, heading south, to approach the [[Monastery of Bhishma]] while avoiding approaching Kharsan.
 - (DR:: 1748-05-07): Travel south through the desert.
 - (DR:: 1748-05-08): Travel south through the desert.
 - (DR:: 1748-05-09): Travel south through the desert, slowing pace to try to move unseen.
-- (DR:: 1748-05-10): Get slightly lost, and head further south than planned prior to turning east. Find dry riverbed of the Kharja and a place to camp, well south of Kharsan.
-- (DR:: 1748-05-11), morning: Turn north to approach Kharsan via the dry Kharja. Rest south of the city while Wellby scouts ahead through the eyes of a desert hawk. 
+- (DR:: 1748-05-10): Get slightly lost, and head further south into the [[Garamjala Desert|Garamjala]] than planned prior to turning east. Find dry riverbed of the [[Kharja]] and a place to camp, well south of Kharsan.
+- (DR:: 1748-05-11), morning: Turn north to approach Kharsan via the dry [[Kharja]]. Rest south of the city while Wellby scouts ahead through the eyes of a desert hawk. 
 
 
 ## Narrative

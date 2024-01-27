@@ -7,59 +7,40 @@ DR: 1748-07-13
 DR_end: 1748-07-18
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: [Johar]
-tagline: in which the party readies for their journey
-descTitle: Preparations and Portents
+tagline: in which the party leaves Tokra for Darba
+descTitle: The Journey West Begins
 name: Dunmari Frontier - Session 42
 ---
 # Dunmari Frontier - Session 42
 
->[!info] Preparations and Portents: in which the party readies for their journey
+>[!info] The Journey West Begins: in which the party leaves Tokra for Darba
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Jul 13, 1748 DR to Jul 18, 1748 DR*
 > *On Earth: Sunday Mar 13, 2022*
-> *Tokra and the road to Darba*
+> *[[~AncientWestRoad~]]*
 
-The Dunmar Fellowship prepares for their journey with mystical items and dire rumors, setting out from Tokra towards Darba.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Scrolls and Journeys",
-  "tagline": "in which the Fellowship prepares and sets forth",
-  "summary": [
-    "The Dunmar Fellowship, stationed in Tokra, examines a mysterious scroll and plans their journey to Darba.",
-    "Seeker resists an effect from the Pandemonium Scroll, gaining a vision upon using it with The Mirror of the Past.",
-    "Kenzo receives a special branch from his mentor Rishi to craft into a staff.",
-    "The Fellowship is instructed on the use of a Portable Hole by Basu before departing Tokra.",
-    "Traveling northwest, they encounter travelers and hear rumors of kobolds, a dragon, and the dealings of Karnas with Chardon."
-  ],
-  "short_summary": "The Dunmar Fellowship receives a vision from a scroll, prepares for the journey, and hears ominous rumors while traveling to Darba.",
-  "location": "From Tokra to the Crossroads Caravanserai on the road to Darba"
-}
-```
-%%
+The [[Dunmar Fellowship]] receives gifts, rumors, and magic in [[Tokra]], and then sets out towards [[Darba]].
 ## Session Info
+
+***Kenzo receives a branch of the ancient elder tree in Tokra from Rishi, to shape into a staff***
 ### Summary
-- Seeker resists an effect from the Pandemonium Scroll, and Kenzo receives a special branch from his mentor, Rishi.
-- The party receives the Portable Hole from Basu, learning its rules and potential dangers.
-- They depart Tokra, travel for three days, and stay at inns along the way, encountering a notable Drankorian bridge.
-- At the Crossroads Caravanserai, they exchange stories with travelers, including rumors of a dragon and a deal involving Chardon.
+- The party receives the[[ Portable Hole]] from [[Basu]], learning its rules and potential dangers, and [[Kenzo]] receives a special branch from his mentor, [[Rishi]].
+- They depart [[Tokra]], travel for three days, and stay at inns along the way, encountering a notable Drankorian bridge.
+- At the [[~Crossroads Caravanserai~]], they exchange stories with travelers, including rumors of a dragon, stories of kobolds, and a deal involving [[Nayan Karnas|Karnas]] and [[Chardon]].
 
 ### Timeline
-- (DR:: 1748-07-13): Spend time in Tokra
-- (DR:: 1748-07-14), morning: Visit the giant tree of Tokra.
-- (DR:: 1748-07-14), afternoon: Restock and resupply. Sell treasure in Tokra. Kenzo receives a branch from the giant tree from Rishi.
-- (DR:: 1748-07-15), morning: Receive portable hole, as well as instructions on its care and use, from Basu. Finalize business in Tokra. 
-- (DR:: 1748-07-16), morning. Depart Tokra, heading west, with Johar. 
-- (DR:: 1748-07-16), evening: Spend the night at a roadside caravanserai a day's journey west of Tokra.
+- (DR:: 1748-07-13): Spend time in [[Tokra]]
+- (DR:: 1748-07-14), morning: Visit the giant tree of [[Tokra]].
+- (DR:: 1748-07-14), afternoon: Restock and resupply. Sell treasure in Tokra. [[Kenzo]] receives a branch from the giant tree from [[Rishi]].
+- (DR:: 1748-07-15), morning: Receive portable hole, as well as instructions on its care and use, from [[Basu]]. Finalize business in [[Tokra]]. 
+- (DR:: 1748-07-16), morning. Depart [[Tokra]], heading west, with [[Johar]]. 
+- (DR:: 1748-07-16), evening: Spend the night at a roadside caravanserai a day's journey west of [[Tokra]].
 - (DR:: 1748-07-17): Travel west along the [[~AncientWestRoad~]]. Spend the night at a caravanserai.
 - (DR:: 1748-07-18): Travel west along the [[~AncientWestRoad~]].
 - (DR:: 1748-07-18), evening: Arrive at the crossroads where the [[Tokra-Darba Road]] turn south and west.  Spend the night at the [[~Crossroads Caravanserai~]]. Speak with the [[Greenleafs]], who report on rumors of a dragon on the road. Speak with [[Marcella]]. 
 
 ### Mirror of the Past
 - (DR:: 1748-07-13) Examine the [[Pandemonium Scroll]] in the [[The Mirror of the Past]] and see the [[Pandemonium Scroll Vision]]. (recharge:: mirror)
-
 
 
 ## Narrative

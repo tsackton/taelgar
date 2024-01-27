@@ -8,56 +8,37 @@ DR_end: 1748-05-02
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: [Havdar's Warband, Amil]
 tagline: in which the party aids a monk and battles desert threats
-descTitle: Desert Trials
+descTitle: Desert Travels
 name: Dunmari Frontier - Session 19
 ---
 # Dunmari Frontier - Session 19
 
->[!info] Desert Trials: in which the party aids a monk and battles desert threats
+>[!info] Desert Travels: in which the party aids a monk and battles desert threats
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Apr 25, 1748 DR to May 02, 1748 DR*
 > *On Earth: Saturday Feb 13, 2021*
-> *From Karawa to Bas Udda and the desert beyond*
+> *From [[Karawa]] to [[Bas Udda]] and [[Pava and Avaras' House]]*
 
-The Dunmar Fellowship aids a monk in Bas Udda, fends off vultures and ogres, and arrives at the home of two mysterious monks.
+The[[ Dunmar Fellowship]]assists a [[Amil|monk]] with funeral rites in [[Bas Udda]] and battles ogres en route to the [[Pava and Avaras' House|home]] of two desert monks.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Desert Expanse",
-  "tagline": "in which the Fellowship aids and encounters desert allies",
-  "summary": [
-    "The Fellowship stores their loot at the Temple of Shakun in Karawa before departing.",
-    "They plan with Havdar to set up a base camp in the desert potentially battling Orcs.",
-    "In Bas Udda, they fend off vultures and meet Amil, a monk devoted to helping lost souls.",
-    "The Fellowship helps Amil with last rites for the dead and part ways with Havdar's band.",
-    "They encounter and defeat ogres in the desert, then arrive at Pava and Avaras' stone house."
-  ],
-  "short_summary": "The Dunmar Fellowship assists a monk with funeral rites in Bas Udda and battles ogres en route to the home of two desert monks.",
-  "location": "Bas Udda and the desert"
-}
-```
-%%
 ## Session Info
 ### Summary
-- The Dunmar Fellowship leaves Karawa and travels with Havdar's band towards the desert.
-- They secure their loot at the Temple of Shakun and plan their route with Havdar.
-- Upon arriving in Bas Udda, they find the town in ruins and meet Amil, a monk laying the dead to rest.
-- After helping Amil and fending off giant vultures, the Fellowship parts ways with Havdar and heads to Amil's masters' stone house.
-- On the way, they encounter and defeat three ogres before arriving at the stone house to meet Pava and Avaras.
+- The [[Dunmar Fellowship]] leaves [[Karawa]] after securing their treasure in the [[Temple of Shakun]], and travels with [[Havdar's Warband|Havdar's band]] into the desert.
+- Upon arriving in [[Bas Udda]], they find the town in ruins and meet [[Amil]], a monk laying the dead to rest.
+- After helping [[Amil]] and fending off giant vultures, the party parts ways with [[Havdar]] and heads to Amil's masters' [[Pava and Avaras' House|stone house]].
+- On the way, they encounter and defeat three ogres before arriving at the stone house to meet [[Pava]] and [[Avaras]].
 
 ### Timeline
 - (DR:: 1748-04-25) - (DR:: 1748-04-26): Make preparations in Karawa to head east with Havdar and his warriors
 - (DR:: 1748-04-27), morning: Depart Karawa with [[Havdar]]'s warriors
 - (DR:: 1748-04-28): Travel southeast towards [[Bas Udda]]
-- (DR:: 1748-04-29), mid-morning: Arrive in Bas Udda. Meet Amil, an apprentice monk who is burning and giving last rites to bodies left untended after the gnoll attack. Fend of giant vultures. Amil surprised to see Delwath and mentioned his masters Avaras and Pava saved an elf in the desert some months ago.
-- (DR:: 1748-04-29), evening: Spend night in Bas Udda
-- (DR:: 1748-04-30), morning: Help Amil tend the dead of Bas Udda
-- (DR:: 1748-04-30), afternoon: Leave Bas Udda with Amil, parting ways with Havdar. 
-- (DR:: 1748-05-01): Travel with Amil through the desert.
+- (DR:: 1748-04-29), mid-morning: Arrive in [[Bas Udda]]. Meet [[Amil]], an apprentice monk who is burning and giving last rites to bodies left untended after the gnoll attack. Fend of giant vultures. [[Amil]] surprised to see [[Delwath]] and mentioned his masters [[Avaras]] and [[Pava]] saved an elf in the desert some months ago.
+- (DR:: 1748-04-29), evening: Spend night in[[ Bas Udda]]
+- (DR:: 1748-04-30), morning: Help [[Amil]] tend the dead of [[Bas Udda]]
+- (DR:: 1748-04-30), afternoon: Leave [[Bas Udda]] with Amil, parting ways with [[Havdar]]. 
+- (DR:: 1748-05-01): Travel with [[Amil]] through the desert.
 - (DR:: 1748-05-02), midday: Fight ogres in the desert. 
-- (DR:: 1748-05-02), evening: Arrive at the stone house that is the home of Avaras and Pava
+- (DR:: 1748-05-02), evening: Arrive at the stone house that is the home of [[Avaras]] and [[Pava]]
 
 ### Mirror of the Past
 - (DR:: 1748-04-27): Vision of Kenzo's [[Jade Piece of Rai's Hand|shard of jade]] seen in the [[The Mirror of the Past]]: [[Kenzo's Jade Vision]]  (recharge:: mirror)

@@ -17,50 +17,29 @@ name: Dunmari Frontier - Session 47
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Aug 09, 1748 DR to Aug 21, 1748 DR*
 > *On Earth: Thursday May 26, 2022*
-> *aboard the Emerald Song, Darba to Chardon*
+> *Aboard the [[Emerald Song]], sailing from [[Darba]] to [[Chardon]]*
 
-The Dunmar Fellowship embarks on a swift journey to Chardon, encountering windcallers and receiving ominous news about an ally.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Voyage to Chardon",
-  "tagline": "in which the Dunmar Fellowship sets sail",
-  "summary": [
-    "The Dunmar Fellowship departs Darba aboard the halfling ship Emerald Song, destined for Chardon.",
-    "During dinner, the party meets the ship's crew, hears tales of their exploits, and learns of other dangers like undead attacks.",
-    "A couple, Jasmine Sunmeadow and Oswalt Tealeaf, share their story of adventure and connection to the Fellowship.",
-    "Wellby hears of storm giants from Ewen Silversong and the party opts for a faster sailing route.",
-    "They pass through the Old Chardon Canal, using a lead box to hide the Portable Hole containing most of the group.",
-    "A mysterious figure in blue robes uses magic to aid their journey through the canal.",
-    "Riswynn sends a message to Marcella, trapped in a cave, while the ship continues towards Chardon.",
-    "The Emerald Song safely docks in Chardon, ending the 13-day journey from Darba."
-  ],
-  "short_summary": "The Dunmar Fellowship sails to Chardon aboard the Emerald Song, encountering mysterious magic and sharing tales of adventure.",
-  "location": "from Darba to Chardon"
-}
-```
-%%
+The Dunmar Fellowship sails to [[Chardon]] aboard the [[Emerald Song]], encountering mysterious magic in the [[Old Chardon Canal]], and sharing tales of adventure.
 ## Session Info
 ### Summary
-- The Dunmar Fellowship departs Darba on the Emerald Song, making acquaintances with the captain and passengers.
-- At dinner, stories are shared, including tales of undead and personal histories, fostering camaraderie.
-- The party opts for a speedy route to Chardon, bypassing a hidden coastal path.
-- The Emerald Song traverses the Old Chardon Canal with the aid of Chardonian windcallers, cutting travel time.
-- Riswynn sends a distressing message about Marcella's predicament, suggesting urgency in their mission.
+- The [[Dunmar Fellowship]] departs [[Darba]] aboard the halfling ship [[Emerald Song]], destined for [[Chardon]].
+- During dinner, the party meets the ship's crew and hears tales of their exploits. A traveling couple, [[Jasmine Sunmeadow]] and [[Oswalt Tealeaf]], share their story of adventure.
+- They pass through the [[Old Chardon Canal]], using a lead box to hide the [[Portable Hole]] containing the [[Mirror of Soul Trapping]] which is hiding most of the group.
+- A mysterious figure in blue robes uses magic to aid their journey through the canal.
+- [[Riswynn]] sends a message to [[Marcella]], trapped in a cave, while the ship continues towards [[Chardon]].
+- The [[Emerald Song]] safely docks in [[Chardon]], ending the 13-day journey from [[Darba]].
 
 ### Timeline
-- (DR:: 1748-08-09): Depart Darba on the Emerald Song. Meet the captain, crew, and passengers. Have dinner and share stories. 
-- (DR:: 1748-08-10): Arrive at the Isle of Folly. Turn west aiming for the coast of Illoria. 
-- (DR:: 1748-08-11) - (DR_end:: 1748-08-13): Sail west towards Illoria.
-- (DR:: 1748-08-14): Pass near the coast of Illoria; turn north by northwest.
+- (DR:: 1748-08-09): Depart [[Darba]] on the [[Emerald Song]]. Meet the captain, crew, and passengers. Have dinner and share stories. 
+- (DR:: 1748-08-10): Arrive at the [[Isle of Folly]]. Turn west aiming for the coast of [[Illoria]]. 
+- (DR:: 1748-08-11) - (DR_end:: 1748-08-13): Sail west towards [[Illoria]].
+- (DR:: 1748-08-14): Pass near the coast of [[Illoria]]; turn north by northwest.
 - (DR:: 1748-08-15) - (DR_end:: 1748-08-16): Sail north by northwest.
 - (DR:: 1748-08-16), evening: Reach the [[Old Chardon Canal]]. Spend night at docks. [[Kenzo]], [[Seeker]], [[Riswynn]], [[Delwath]], and [[Baxter]] hide in the [[Mirror of Soul Trapping]]. 
 - (DR:: 1748-08-17): Pass through the canal, guided by Chardonian windcallers. Spend the night at docks on the north side.
 - (DR:: 1748-08-18), morning: [[Kenzo]], [[Riswynn]], [[Seeker]], and [[Delwath]] exit the [[Mirror of Soul Trapping]]. 
 - (DR:: 1748-08-18) - (DR_end:: 1748-08-20): Sail north by northeast towards Chardon.
-- (DR:: 1748-08-21), afternoon: Arrive at the estuary at the mouth of the Chasa River and sail into Chardon. 
+- (DR:: 1748-08-21), afternoon: Arrive at the estuary at the mouth of the [[Chasa]] River and sail into [[Chardon]]. 
 
 ### Mirror of the Past:
 - (DR:: 1748-08-10): Use mirror to look at the [[Raven Whistle]], seeing the [[Raven Whistle Vision]]. (recharge:: mirror)

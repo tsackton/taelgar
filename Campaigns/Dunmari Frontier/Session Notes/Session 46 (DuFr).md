@@ -7,52 +7,32 @@ DR: 1748-08-08
 DR_end: 1748-08-09
 players: [Kenzo, Wellby, Delwath, Seeker, Riswynn]
 companions: [Johar]
-tagline: in which the party prepares for new quests
-descTitle: Darba Divides
+tagline: in which the party tackles errands and prepares for new quests
+descTitle: Darba Days
 name: Dunmari Frontier - Session 46
 ---
 # Dunmari Frontier - Session 46
 
->[!info] Darba Divides: in which the party prepares for new quests
+>[!info] Darba Days: in which the party tackles errands and prepares for new quests
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Aug 08, 1748 DR to Aug 09, 1748 DR*
 > *On Earth: Friday May 13, 2022*
-> *Darba*
+> *[[Darba]]*
 
-The Dunmar Fellowship, upon reaching Darba, splits to address individual missions and gathers information for their upcoming endeavors.
+The [[Dunmar Fellowship]] conducts various activities in [[Darba]] before setting sail for [[Chardon]], leaving behind unexplored mysteries.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Divergent Paths",
-  "tagline": "in which allies reunite and tales unfold",
-  "summary": [
-    "The Dunmar Fellowship arrives in Darba, splitting up to pursue individual tasks and gather information.",
-    "Riswynn and Seeker meet with Travok Redpeak who recounts the Chardonian clash and the tale of the Chalice of the Runepriest.",
-    "Travok advises Riswynn to relay any findings about Chardon, as the dwarves consider their stance on diplomacy versus aggression.",
-    "Johar secures a berth on a ship to Nayahar, while the rest of the party arranges passage to Chardon on the Emerald Song.",
-    "Delwath learns of a mysterious temple and rumors of treasure in Illoria, though the party leaves these leads for another time."
-  ],
-  "short_summary": "The Dunmar Fellowship conducts various activities in Darba before setting sail for Chardon, leaving behind unexplored mysteries.",
-  "location": "Darba"
-}
-```
-%%
 ## Session Info
 ### Summary
-- The Dunmar Fellowship arrives in Darba and splits to accomplish various tasks.
-- Riswynn contacts Marcella, who plans to flee during a battle with kobolds.
-- Riswynn and Seeker meet Travok Redpeak, learning about northern events and the Chalice of the Runepriest.
-- Travok advises against diplomacy with Chardon, offers the Redpeak clan's aid, and returns to Tharn Todor.
-- Johar secures passage to Nayahar, while the rest plan for Chardon aboard the Emerald Song.
-- Delwath hears rumors of a temple with treasures, and Servius' interest in Illoria.
+- The [[Dunmar Fellowship]] arrives in [[Darba]], splitting up to pursue individual tasks and gather information.
+- [[Riswynn]] and [[Seeker]] meet with [[Travok Redpeak]] who recounts the Chardonian clash and the tale of the [[Chalice of the Runepriest]].
+- Travok advises [[Riswynn]] to relay any findings about [[Chardon]], as the dwarves consider their stance on diplomacy versus aggression.
+- [[Johar]] secures a berth on a ship to [[Nayahar]], while the rest of the party arranges passage to [[Chardon]] on the [[Emerald Song]].
+- [[Delwath]] learns of a mysterious temple and rumors of treasure in [[Illoria]], though the party leaves these leads for another time.
 
 ### Timeline
-- (DR:: 1748-08-08), early evening. Reach Darba. Split up to take care of errands. Say farewell to Johar. Seeker and Riswynn meet Travok Redpeak, who has news and information for Riswynn. Wellby, Kenzo, and Delwath book passage for Johar, to Nayahar, and the party, to Chardon.  
-- (DR:: 1748-08-09), midday: Split up to sell treasure and horses, and gather rumors in Darba. 
-- (DR:: 1748-08-09), late afternoon: Board the Emerald Song, bound for Chardon.
-
+- (DR:: 1748-08-08), early evening. Reach [[Darba]]. Split up to take care of errands. Say farewell to [[Johar]]. [[Seeker]] and [[Riswynn]] meet [[Travok Redpeak]], who has news and information for Riswynn. [[Wellby]], [[Kenzo]], and [[Delwath]] book passage for [[Johar]], to [[Nayahar]], and the party, to [[Chardon]].  
+- (DR:: 1748-08-09), midday: Split up to sell treasure and horses, and gather rumors in [[Darba]]. 
+- (DR:: 1748-08-09), late afternoon: Board the [[Emerald Song]], bound for [[Chardon]].
 
 ## Narrative
 We begin as the party reaches [[Darba]], after the journey along the increasingly populated road. Along the way, [[Riswynn]] was able to contact [[Marcella]] on August 8th, the day the party arrived in [[Darba]]. [[Marcella]] said she was hoping to flee the following day, during the battle with [[kobolds]]. As the day ends, the party splits up to enter [[Darba]] – the [[Dwarves]] going together to hope to connect with [[Riswynn]]’s contact from [[Tharn Todor]]; [[Wellby]] heading to find a halfling inn and enquire about ships; and [[Delwath]], [[Johar]], and [[Kenzo]] going to the harbor to try to find [[Johar]] a ship to [[Nayahar]]. 

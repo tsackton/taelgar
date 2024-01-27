@@ -6,46 +6,29 @@ realWorldDate: 2021-04-23
 DR: 1748-05-11
 DR_end: 1748-05-11
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which the party confronts mystic memories
-descTitle: Echoes of Sacrifice
+tagline: in which the party travels through mystic memories and learns of the Order's past
+descTitle: The Hall of Stories
 name: Dunmari Frontier - Session 23
 ---
 # Dunmari Frontier - Session 23
 
->[!info] Echoes of Sacrifice: in which the party confronts mystic memories
+>[!info] The Hall of Stories: in which the party travels through mystic memories and learns of the Order's past
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: May 11, 1748 DR*
 > *On Earth: Friday Apr 23, 2021*
-> *Monastery of the Order of the Awakened Soul*
+> *[[Monastery of Bhishma]]*
 
-The Dunmar Fellowship undergoes a mystical initiation and uncovers the monastery's darkening past through memories.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Initiation and Memories",
-  "tagline": "in which Kenzo's initiation reveals a quest for the Heart of Shakun",
-  "summary": [
-    "Kenzo undergoes a near-death initiation, revealing Bhishma's history and a quest to find the Heart of Shakun.",
-    "The Fellowship explores the monastery, learning its history and the stories of the Dunmari through controlled memories.",
-    "They encounter ghostly guardians and meet Karmana's ghost, learning of the darkness plaguing the land."
-  ],
-  "short_summary": "Kenzo's initiation at the monastery leads to a quest for a missing artifact, while the Fellowship learns of the land's dark history through magical memories.",
-  "location": "Monastery of the Order of the Awakened Soul"
-}
-```
-%%
+[[Kenzo]]'s initiation at the monastery leads to a quest for a [[Heart of Shakun|missing artifact]], while the party learns of the land's dark history through magical memories.
 ## Session Info
 ### Summary
-- Seeker and Kenzo survive initiation, revealing Bhishma's story and a vision urging them to find a missing artifact.
-- The Fellowship explores the monastery, uncovering its history and the monks' enchanted paper-making.
-- Kenzo's mystic sign gains them entry to the Hall of Stories, guarded by spectral warriors.
-- In the Hall, the group experiences profound personal memories tied to the monastery's past.
-- They meet Karmana's ghost, who informs them of a growing darkness and a pivotal event a year prior.
+- [[Kenzo]] undergoes a near-death initiation, revealing Bhishma's history and a quest to find the [[Heart of Shakun]].
+- The party explores the monastery, uncovering its history and the monks' enchanted paper-making.
+- [[Kenzo]]'s mystic sign gains them entry to the [[Hall of Stories]], guarded by spectral warriors.
+- In the Hall, the group experiences profound personal memories that lead to explorations of the monastery's past.
+- They meet [[Karmana]]'s ghost, who informs them of a growing darkness and a pivotal event a year prior.
 
 ### Timeline
-- (DR:: 1748-05-11), late afternoon: Kenzo and Seeker return and share Kenzo's vision hinting that the Heart of Shakun is missing from Karawa. Explore, learning the history of the Order of the Awakened Soul by controlling the chaotic memories contained in the Hall of Stories. Meet the ghost of Karmana, the last master of the monastery. Learn that Sajan, the keeper of stories, went mad long ago, trapped in evil dreams in the Hall of Stories.
+- (DR:: 1748-05-11), late afternoon: [[Kenzo]] and [[Seeker]] return and share Kenzo's vision hinting that the [[Heart of Shakun]] is missing from [[Karawa]]. Explore, learning the history of the [[Order of the Awakened Soul ]]by controlling the chaotic memories contained in the Hall of Stories. Meet the ghost of [[Karmana]], the last master of the monastery. Learn that [[Sajan]], the keeper of stories, went mad long ago, trapped in evil dreams in the [[Hall of Stories]].
 
 
 ## Narrative
