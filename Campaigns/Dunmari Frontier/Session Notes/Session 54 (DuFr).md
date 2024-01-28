@@ -16,34 +16,16 @@ descTitle: Shadows of the Fallen
 > *Featuring: [[Delwath]], [[Aristaea]], [[Iascaire]]*
 > *In Taelgar: Oct 06, 1748 DR to Oct 09, 1748 DR*
 > *On Earth: Friday Aug 05, 2022*
-> *Forest of Nightmares*
+> *[[Forest of Nightmares]]*
 
-Delwath and companions journey through the Forest of Nightmares, confronting haunted battlefields and freeing spirits bound by cursed armbands.
+[[Delwath]] and companions journey through the [[Forest of Nightmares]], confronting haunted battlefields and freeing [[tanshi]] bound by cursed armbands.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Battlefield Hauntings",
-  "tagline": "in which the past battles are revisited and spirits freed",
-  "summary": [
-    "Delwath and new companions Aristaia and Iascaire plan to visit battlefields in the Forest of Nightmares.",
-    "They first explore the Battle without Hope site, encountering visions and defeating sorrow creatures.",
-    "After destroying a Shadow Armband, the spirits of Yalik'i and Nisir are liberated.",
-    "At the Battle of Darkfire site, they battle demonic flora and fauna to remove another armband.",
-    "Upon severing the armband from a dead demon, Yezali's spirit is released, and the group retreats to rest."
-  ],
-  "short_summary": "Delwath, Aristaia, and Iascaire liberate spirits trapped by Shadow Armbands at haunted battlefields in the Forest of Nightmares.",
-  "location": "Forest of Nightmares"
-}
-```
-%%
 ## Session Info
 ### Summary
-- Delwath and new allies, Aristaea and Iascaire, plan to visit sites of past battles in the Forest of Nightmares.
+- [[Delwath]] and new companions [[Aristaea]] and [[Iascaire]] plan to visit battlefields in the [[Forest of Nightmares]].
 - In a deserted Deno'qai village, the party experiences flashbacks of the Battle without Hope, seeing the Godcaller's last stand and the hobgoblin wizard's demise.
-- Fighting sorrow creatures and shadow visions, they locate and destroy Cha'mutte's Shadow Armband, freeing spirits Yalik'i and Nisir.
-- At the Battle of Darkfire site, they battle demonic trees and beasts to sever and destroy another of Cha'mutte's Armbands, freeing spirit Yezali.
+- Fighting sorrow creatures and shadow visions, they locate and destroy Cha'mutte's Shadow Armband, freeing spirits [[Yalik'i]] and [[Nisir]].
+- At the Battle of Darkfire site, they battle demonic trees and beasts to sever and destroy another of Cha'mutte's Armbands, freeing spirit [[Yezali]].
 - The party retreats to Ko'zula forests for rest after their encounters.
 
 ### Timeline

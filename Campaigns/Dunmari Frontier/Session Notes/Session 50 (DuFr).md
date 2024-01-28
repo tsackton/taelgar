@@ -6,56 +6,36 @@ realWorldDate: 2022-07-21
 DR: 1748-08-24
 DR_end: 1748-08-29
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which the party evades pursuit
+tagline: in which the party desperately flees east
 descTitle: Fleeing Shadows
 name: Dunmari Frontier - Session 50
 ---
 # Dunmari Frontier - Session 50
 
->[!info] Fleeing Shadows: in which the party evades pursuit
+>[!info] Shadows in the Night: in which the party desperately flees east
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Aug 24, 1748 DR to Aug 29, 1748 DR*
 > *On Earth: Thursday Jul 21, 2022*
-> *Eastern lands of Taelgar, heading towards Erlona*
+> *[[Chasa River Valley]]*
 
-The Dunmar Fellowship escapes eastward, contending with shadow attacks and nightmares while trying to outpace their pursuers.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Fleeing Shadows",
-  "tagline": "in which the Dunmar Fellowship evades pursuit",
-  "summary": [
-    "The party flees Fausto, finding safe places to rest and travel using a mirror to hide in.",
-    "Delwath unsuccessfully scries on Marcella, but successfully on Fausto who is also scrying.",
-    "Wellby and Kenzo take turns riding east, passing landmarks and trading horses as needed.",
-    "They encounter nightmares and a shadow creature in dreams, hinting at an ominous threat.",
-    "The party is attacked by shadow dogs and Delwath learns Marcella is petrified in the mountains."
-  ],
-  "short_summary": "The Dunmar Fellowship evades their chaser Fausto, trades horses for their eastward journey, while facing supernatural threats and uncovering disturbing dreams.",
-  "location": "East of Chardon towards Erlona"
-}
-```
-%%
+The [[Dunmar Fellowship]] escapes eastward, contending with shadow attacks and nightmares while trying to outpace their pursuers.
 ## Session Info
 ### Summary
-- The Dunmar Fellowship flees from Fausto, taking turns hiding in a magical mirror and riding eastward to escape.
-- Wellby successfully scouts and purchases horses, while Delwath attempts to scry on their pursuers, revealing that Fausto is also scrying.
-- They pass landmarks of ancient treaties and encounter Chardonian soldiers, while Wellby maintains a cover story.
-- The group is repeatedly attacked by shadow creatures at night and suffers from haunting nightmares.
-- Despite challenges, the Fellowship continues their journey east, with Delwath scrying and learning of allies' activities.
+- The [[Dunmar Fellowship]] flees from [[Fausto]], taking turns hiding in a [[Mirror of Soul Trapping|magical mirror]] and riding eastward to escape.
+- [[Wellby]] and [[Kenzo]] take turns riding east, passing landmarks and trading horses as needed.
+- The group is repeatedly attacked by shadow creatures at night, and suffers from haunting nightmares.
+- Despite challenges, the party continues their journey east, with [[Delwath]] scrying and learning of allies' activities.
 
 ### Timeline
-- (DR:: 1748-08-24), afternoon: Sneak to a safe place to rest 15 miles east of Chardon; sleep. Kenzo dreams of Hralgar.
+- (DR:: 1748-08-24), afternoon: Sneak to a safe place to rest 15 miles east of [[Chardon]]; sleep. Kenzo dreams of [[Hralgar]].
 - (DR:: 1748-08-25), morning. Wellby buys horses at a small market town; Delwath scries. [[Kenzo]], [[Seeker]], and [[Delwath]] hide in the [[Mirror of Soul Trapping]]. Wellby rides as fast as possible, passing [[Metium]] and traveling 70 miles east before stopping at midnight to rest.
-- (DR:: 1748-08-26): Wellby rides 60 miles east. Pass a gray stone monolith about 60 feet high. Sleep.
-- (DR:: 1748-08-27): Ride 45 miles east before a horse throws a muscle; Wellby gives him away to an apricot farmer. Pass Chardonian legion heading east. Camp just east of Erlona, about 210 miles east of Chardon. Fitful night marred by dreams of a spear-wielding shadow creature.
-- (DR:: 1748-08-28), morning: Sell old horses and buy new ones in Erlona.
+- (DR:: 1748-08-26): [[Wellby]] rides 60 miles east. Pass a gray stone monolith about 60 feet high. Sleep.
+- (DR:: 1748-08-27): Ride 45 miles east before a horse throws a muscle; Wellby gives him away to an apricot farmer. Pass Chardonian legion heading east. Camp just east of [[Erlona]], about 210 miles east of [[Chardon]]. Fitful night marred by dreams of a spear-wielding shadow creature.
+- (DR:: 1748-08-28), morning: Sell old horses and buy new ones in [[Erlona]].
 - (DR::1748-08-28), afternoon. [[Wellby]] hides in the [[Mirror of Soul Trapping]] while Kenzo rides east. 
-- (DR:: 1748-08-28), evening: Pass the Scar of Shadowfire. Attacked by shadow mastiffs. Two horses and the ladder are frightened by shadows and run, but are relocated after an hour. More nightmares.
+- (DR:: 1748-08-28), evening: Pass the [[Scar of Shadowfire]]. Attacked by shadow mastiffs. Two horses and the ladder are frightened by shadows and run, but are relocated after an hour. More nightmares.
 - (DR:: 1748-08-29): Travel only about 30 miles as the horses are tired after the attack and Kenzo struggles to keep them on pace. 
-- (DR:: 1748-08-29), evening: Wellby takes over, rides another 20 miles by midnight. Camp around 320 miles east of Chardon. Try to rest. 
+- (DR:: 1748-08-29), evening: [[Wellby]] takes over, rides another 20 miles by midnight. Camp around 320 miles east of Chardon. Try to rest. 
 
 
 ## Narrative

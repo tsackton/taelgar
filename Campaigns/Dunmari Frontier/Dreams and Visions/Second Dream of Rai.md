@@ -1,7 +1,7 @@
 ---
 tags: [status/unknown]
 ---
-(shared by [[Alayah]] and [[Kenzo]] in [[Session 50 (DuFr)]])
+(shared by [[Alayah]] and [[Kenzo]] in [[Session 52 (DuFr)]])
 
 You are standing on a flat, dry, dusty plain. As far as you can see, there is just ash and dust stretching to the horizon, the only feature a dark shadow in front of you that stains the landscape, lingering despite the sun high in the sky.
 
