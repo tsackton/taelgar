@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Balthazar

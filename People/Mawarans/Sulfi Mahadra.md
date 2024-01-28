@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [mc/background, person, dufr/unaware, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Sulfi Mahadra
 born:
