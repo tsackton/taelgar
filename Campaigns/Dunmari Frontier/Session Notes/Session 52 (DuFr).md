@@ -8,69 +8,54 @@ DR_end: 1748-09-30
 players: [Kenzo, Wellby, Delwath, Seeker]
 companions: [Theba]
 tagline: in which a tyrant dragon is vanquished
-descTitle: Dragon's Defeat
+descTitle: Grimbaskal's End
 name: Dunmari Frontier - Session 52
 ---
 # Dunmari Frontier - Session 52
 
->[!info] Dragon's Defeat: in which a tyrant dragon is vanquished
+>[!info] Grimbaskal's End: in which a tyrant dragon is vanquished
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Sep 06, 1748 DR to Sep 30, 1748 DR*
 > *On Earth: Saturday Jul 23, 2022*
-> *Te'kula territory and Grimbaskal's lair*
+> *[[Te'kula]] territory and the [[Elderwood]]*
 
-The Dunmar Fellowship ambushes Mezzar the dragon, escapes to Te'kula territory, and ultimately defeats the dragon, restoring peace.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Dragon's Defeat",
-  "tagline": "in which the dragon Mezzar is vanquished",
-  "summary": [
-    "The Dunmar Fellowship sets an ambush for Mezzar, who is revealed as an adult green dragon and escapes after combat.",
-    "The party buries the dead and constructs a stone monument before meeting Theba, who guides them to the Te'kula territory.",
-    "In the Te'kula village, Kenzo and Alayah experience a shared dream through their Jade Pieces of Rai's Hand.",
-    "The party prepares and successfully battles the dragon Grimbaskal in its lair, claiming its treasure hoard afterward.",
-    "With the dragon defeated, the party aids in diplomatic missions and recovery, before being scattered across different locations as the Te'kula pocket dimension collapses."
-  ],
-  "short_summary": "The Dunmar Fellowship ambushes Mezzar, discovers his true dragon form, defeats him in his lair, and later gets scattered across different realms.",
-  "location": "Te'kula territory and Grimbaskal's lair"
-}
-```
-%%
+The [[Dunmar Fellowship]] flees from [[Mezzar]], who is revealed to be a dragon named [[Mezzar|Grimbaskal]], escapes to [[Te'kula]] territory, and ultimately defeats the dragon, restoring peace.
 ## Session Info
+
+***Character advancement: the party reaches level 10 upon killing Grimbaskal***
+
+***The party recovers Grimbaksal's Hoard***
 ### Summary
-- The Dunmar Fellowship sets an ambush for Mezzar, who is revealed as an adult green dragon and flees after a skirmish.
-- After mourning the dead, they meet Theba who guides them through the forest to the Te'kula territory.
-- In Te'kula, Kenzo and Alayah's jade pieces cause a shared vision; the village's history and the dragon's tyranny are revealed.
-- The Fellowship, joined by Theba and village chief Yota, plans and successfully executes an attack on Mezzar's lair, defeating the dragon.
-- The treasure is gathered and the party aids in the restoration efforts until they leave, and the Te'kula territory returns to the material plane.
+- The [[Dunmar Fellowship]] sets an ambush for [[Mezzar]], who is revealed as an adult green [[Dragons|dragon]]; after a skirmish, the party flees into the [[Elderwood]].
+- After mourning the dead, they meet [[Theba]] who guides them through the forest to the [[Te'kula]] territory.
+- In [[Te'kula]], [[Kenzo]] and [[Alayah]]'s jade pieces cause a shared vision; the village's history and the dragon's tyranny are revealed.
+- The party, joined by [[Theba]] and village chief [[Yota]], plans and successfully executes an attack on [[Mezzar|Grimbaskal]]'s lair, defeating the dragon.
+- The treasure is gathered and the party aids in the restoration efforts until they leave, and the Te'kula territory returns to the [[material plane]].
 
 ### Timeline
-- (DR:: 1748-09-06), afternoon: Mezzar arrives. Revealed to be a green dragon in disguise. Combat; party flees into the Elderwood. 
-- (DR:: 1748-09-06), evening: Arrive at clearing where Theba told them to meet her. Rest.
-- (DR:: 1748-09-07), early morning: Theba arrives. Discuss situation. Scry Bek'eni, learn they are spreading out to hunt the party. Theba promises to lead them to the Te'kula village.
-- (DR:: 1748-09-07) - (DR_end:: 1748-09-09): Travel through the Elderwood, following Theba.
-- (DR:: 1748-09-10), morning: Travel through the Elderwood. 
-- (DR:: 1748-09-10), noon: Arrive at outskirts of Te'kula land. Pass through dream boundary, see visions. 
-- (DR:: 1748-09-10): Arrive in the Te'kula village. Meet Yota, chief of the [[Te'kula]], and Ayalah, Godcaller of the [[Te'kula]]. Kenzo and Ayalah talk, jades touch, experience vision of Rai. 
-- (DR:: 1748-09-10), evening: Dinner in the village.Meet [[Belegor]]. Delwath prays to [[Yezali|Aaviskar]]. Theba prays to the tanshi. Alayah and Kenzo dream together overnight. 
-- (DR:: 1748-09-11): Theba proposes killing Grimbaskal, the dragon. General agreement. War planning at the Te'kula village. Convince Obel, an old hunter whose parents and family were killed by Grimbaskal to join. Get blessings from the tanshi.
-- (DR:: 1748-09-12): Leave the village for the dragon's lair, guided by Theba and the tanshi. Travel through the Elderwood.
-- (DR:: 1748-09-13) - (DR_end:: 1748-09-14): Travel through the Elderwood towards Grimbaskal's lair. 
-- (DR:: 1748-09-15): Find Grimbaskal's lair and the corruption spreading from it. Fight Grimbaskal. Defeat Grimbaskal. Rest.
+- (DR:: 1748-09-06), afternoon: [[Mezzar]] arrives. Revealed to be a green dragon in disguise. Combat; party flees into the [[Elderwood]]. 
+- (DR:: 1748-09-06), evening: Arrive at clearing where [[Theba]] told them to meet her. Rest.
+- (DR:: 1748-09-07), early morning: [[Theba]] arrives. Discuss situation. Scry [[Bek'eni]], learn they are spreading out to hunt the party. [[Theba]] promises to lead them to the [[~Te'kula village~|Te'kula village]].
+- (DR:: 1748-09-07) - (DR_end:: 1748-09-09): Travel through the [[Elderwood]], following [[Theba]].
+- (DR:: 1748-09-10), morning: Travel through the [[Elderwood]]. 
+- (DR:: 1748-09-10), noon: Arrive at outskirts of [[Te'kula]] land. Pass through dream boundary, see visions. 
+- (DR:: 1748-09-10): Arrive in the [[~Te'kula village~|Te'kula village]]. Meet [[Yota]], chief of the [[Te'kula]], and Ayalah, Godcaller of the [[Te'kula]]. [[Kenzo]] and Ayalah talk, jades touch, experience vision of [[Rai]]. 
+- (DR:: 1748-09-10), evening: Dinner in the village. Meet [[Belegor]]. [[Delwath]] prays to [[Yezali|Aaviskar]]. [[Theba]] prays to the [[tanshi]]. [[Alayah]] and [[Kenzo]] dream together overnight. 
+- (DR:: 1748-09-11): [[Theba]] proposes killing [[Mezzar|Grimbaskal]], the dragon. General agreement. War planning at the [[~Te'kula village~|Te'kula village]]. Convince Obel, an old hunter whose parents and family were killed by Grimbaskal to join. Get blessings from the [[tanshi]].
+- (DR:: 1748-09-12): Leave the village for the dragon's lair, guided by [[Theba]] and the [[tanshi]]. Travel through the [[Elderwood]].
+- (DR:: 1748-09-13) - (DR_end:: 1748-09-14): Travel through the [[Elderwood]] towards Grimbaskal's lair. 
+- (DR:: 1748-09-15): Find Grimbaskal's lair and the corruption spreading from it. Fight [[Mezzar|Grimbaskal]]. Defeat [[Mezzar|Grimbaskal]]. Rest.
 - (DR:: 1748-09-16): Organize treasure in Grimbaskal's lair. 
-- (DR:: 1748-09-17), morning: Leave Grimbaskal's lair to return to the Te'kula village. 
-- (DR:: 1748-09-17), afternoon: Travel through the forest, now beginning to clear of its evil influences. Find dead Deno'qai who were once the snake people turned by Grimbaskal.
-- (DR:: 1748-09-18) - (DR_end:: 1748-09-18): Travel through the Elderwood.
-- (DR:: 1748-09-20),  morning: Arrive back in the Te'kula village. 
-- (DR:: 1748-09-20) - (DR_end:: 1748-09-28): Spend time recovering and resting in the Te'kula village. 
-- (DR:: 1748-09-29): Prepare to leave village with Theba, to help the other tribes heal from the traumas inflicted by Grimbaskal over the past twenty years or more. The elf, [[Belegor]], agrees to come. Kenzo gets the second piece of jade from Alayah.
+- (DR:: 1748-09-17), morning: Leave Grimbaskal's lair to return to the [[~Te'kula village~|Te'kula village]]. 
+- (DR:: 1748-09-17), afternoon: Travel through the forest, now beginning to clear of its evil influences. Find dead [[Deno'qai]] who were once the snake people turned by [[Mezzar|Grimbaskal]].
+- (DR:: 1748-09-18) - (DR_end:: 1748-09-18): Travel through the [[Elderwood]].
+- (DR:: 1748-09-20),  morning: Arrive back in the [[~Te'kula village~|Te'kula village]]. 
+- (DR:: 1748-09-20) - (DR_end:: 1748-09-28): Spend time recovering and resting in the [[~Te'kula village~|Te'kula village]]. 
+- (DR:: 1748-09-29): Prepare to leave village with [[Theba]], to help the other tribes heal from the traumas inflicted by [[Mezzar|Grimbaskal]] over the past twenty years or more. The [[Elves|elf]], [[Belegor]], agrees to come. [[Kenzo]] gets the second piece of jade from [[Alayah]].
 - (DR:: 1748-09-30), morning: Leave village, collapsing pocket dimension in the process as the [[Jade Piece of Rai's Hand]] holding it open is removed. As the pocket dimension collapses, the party is scattered in all directions. 
 
 ### Mirror of the Past
-- (DR:: 1748-09-06): Look at the Deno'qai God Tree in the Mirror of the Past: [[God Tree Vision]]. (recharge:: mirror)
+- (DR:: 1748-09-06): Look at the [[Deno'qai]] God Tree in the [[the Mirror of the Past]]: [[God Tree Vision]]. (recharge:: mirror)
 - (DR:: 1748-09-14): Look at the [[Mace of Terror]] in the [[The Mirror of the Past]]: [[Mace of Terror Vision]] (recharge:: mirror)
 - (DR:: 1748-09-22): Look at [[Hralgar's Eyes]] in the [[The Mirror of the Past]]: [[Hralgar's Eyes Vision]]. (recharge:: mirror)
 

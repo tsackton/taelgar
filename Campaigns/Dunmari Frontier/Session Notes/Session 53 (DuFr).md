@@ -16,40 +16,23 @@ descTitle: Armbands of Entrapment
 > *Featuring: [[Delwath]]*
 > *In Taelgar: Sep 30, 1748 DR to Oct 06, 1748 DR*
 > *On Earth: Sunday Jul 31, 2022*
-> *Ko'zula village*
+> *[[Ko'zula village]] in the [[Forest of Dreams]]*
 
-Delwath discovers that the armbands are key to freeing the trapped Meswati and prepares to seek allies for his quest.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "The Meswati Mystery",
-  "tagline": "in which Delwath discovers the armband's secret",
-  "summary": [
-    "Delwath arrives at the Deno'qai hunting camp and is taken to the Ko'zula village.",
-    "In the village, Delwath learns of the Meswati and a connection to his past through mysterious armbands.",
-    "Ninu tells Delwath that breaking the armbands may free the trapped Meswati spirits.",
-    "Delwath is advised to seek Arista and Iascaire, knowledgeable of the Forest of Nightmares, for assistance.",
-    "Delwath is gifted with ancient Deno'qai armor and shield before he sets off toward the hunting camp."
-  ],
-  "short_summary": "Delwath uncovers a link between mysterious armbands and the trapped spirits of the Meswati, and sets off to free them.",
-  "location": "Ko'zula village and northern forests"
-}
-```
-%%
+[[Delwath]] discovers that Cha'mutte's shadow armbands are key to freeing the trapped [[Meswati]] and prepares to seek allies for his quest.
 ## Session Info
+
+***Delwath receives his Deno'qai [[Deno'qai Scale Mail|armor]] and  [[Deno'qai Lynx Shield|shield]]***
 ### Summary
-- Delwath arrives at a Deno'qai camp and is taken to meet Chief Ninu in the Ko'zula village.
-- Ninu shares the village's encounter with a deathless warlock and the story of Jotha's disappearance.
-- Delwath connects the armbands to the entrapment of the Meswati and his own journey.
-- Ninu advises seeking Aristaes and Iascaire at a hunting camp for help.
-- Godcaller Enon equips Delwath with heroic Deno'qai gear for his quest.
+- Delwath arrives at a Deno'qai camp and is taken to meet Chief [[Ninu]] in the [[Ko'zula village]].
+- [[Ninu]] shares the village's encounter with a deathless warlock and the story of [[Jotha]]'s disappearance.
+- Delwath connects the armbands to the entrapment of the [[Meswati]] and his own journey.
+- [[Ninu]] advises seeking [[Aristaea]] and [[Iascaire]] at a hunting camp for help.
+- Godcaller [[Enon]] equips Delwath with heroic Deno'qai [[Deno'qai Scale Mail|armor]] and a [[Deno'qai Lynx Shield|shield]] for his quest.
 
 ### Timeline
 - (DR:: 1748-09-30), afternoon: Arrive in northern forests. Meet hunting party of Deno'qai of the [[Ko'zula]] tribe. Spend the night in their camp. 
 - (DR:: 1748-10-01):  Leave camp, travel with a guide named [[Zevi of the Ko'zula|Zevi]] back to the main village of the [[Ko'zula]]
-- (DR:: 1748-10-02): Travel through the forest with [[Zevi of the Ko'zula|Zevi]], arrive in village, meet the village leader [[Ninu]], learn story of the Meswati, the silent tanshi
+- (DR:: 1748-10-02): Travel through the forest with [[Zevi of the Ko'zula|Zevi]], arrive in village, meet the village leader [[Ninu]], learn story of the [[Meswati]], the silent tanshi
 - (DR:: 1748-10-03):  Spend the day in the village
 - (DR:: 1748-10-04):  Spend the day in the village
 - (DR:: 1748-10-05):  Leave for hunting camp near the [[Forest of Nightmares]], travel 

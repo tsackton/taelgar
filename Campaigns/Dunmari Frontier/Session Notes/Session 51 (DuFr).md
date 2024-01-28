@@ -6,19 +6,19 @@ realWorldDate: 2022-07-22
 DR: 1748-08-29
 DR_end: 1748-09-06
 players: [Kenzo, Wellby, Delwath, Seeker]
-tagline: in which the party faces shadows and secrets
-descTitle: The God Tree Encounter
+tagline: in which the party meets a mysterious elf who is not what he seems
+descTitle: The God Tree
 name: Dunmari Frontier - Session 51
 ---
 # Dunmari Frontier - Session 51
 
->[!info] The God Tree Encounter: in which the party faces shadows and secrets
+>[!info] The God Tree: in which the party meets a mysterious elf who is not what he seems
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Aug 29, 1748 DR to Sep 06, 1748 DR*
 > *On Earth: Friday Jul 22, 2022*
-> *Arendum and the Elderwood*
+> *[[Arendum]] and the [[Elderwood]]*
 
-The Fellowship engages with dark forces, uncovers secrets in Arendum, and navigates the perils of the Elderwood while preparing to confront the enigmatic Mezzar.
+The Fellowship engages with dark forces, uncovers secrets in [[Arendum]], and navigates the perils of the [[Elderwood]] while preparing to confront the enigmatic [[Mezzar]].
 
 %% Other Generations
 Generation 1
@@ -41,11 +41,11 @@ Generation 1
 %%
 ## Session Info
 ### Summary
-- The Fellowship battles a shadow hunter, rescues Seeker, and uncovers the hunter's human form and dire warning about Chardon.
-- They arrive in Arendum, gather information, and spread rumors of their journey to mislead potential followers.
-- Traveling invisibly, they reach the Elderwood where Kenzo connects with a God Tree but senses a disturbing corruption.
-- In the Bek'eni village, they meet Theba, learn of Mezzar's influence, and retrieve Theba's magical gear despite dangers.
-- The party prepares to confront Mezzar at the God Tree, wary of the intentions of this mysterious elf.
+- The[[ Dunmar Fellowship]] battles a shadow hunter, rescues [[Seeker]], and uncovers the hunter's human form and dire warning about Chardon.
+- They arrive in [[Arendum]], gather information, and spread rumors of their journey to mislead potential followers.
+- Traveling invisibly, they reach the [[Elderwood]] where [[Kenzo]] connects with a God Tree but senses a disturbing corruption.
+- In the [[Bek'eni]] village, they meet [[Theba]], learn of [[Mezzar]]'s influence, and retrieve Theba's magical gear despite dangers.
+- The party prepares to confront [[Mezzar]] at the God Tree, wary of the intentions of this mysterious elf.
 
 ### Timeline
 - (DR:: 1748-08-29), late night: Attacked by a shadow hunter and two yeth hounds around Kill shadow hunter. Manage to sleep. 
@@ -55,9 +55,9 @@ Generation 1
 - (DR:: 1748-09-01): Spend the day in [[Arendum]], asking questions and planting rumors about going north upriver to the [[Dwarven Kingdoms]]. Send letters to Chardon.
 - (DR:: 1748-09-02): Travel north to the confluence of the [[Kayan]] and the [[Chasa]]. Turn invisible, and head southeast along the Kayan. Travel through the day, moving slowly to maintain invisibility with [[Delwath]]'s magic. 
 - (DR:: 1748-09-03): Continue to travel invisibly southeast along the river. Reach the eaves of the Elderwood.
-- (DR:: 1748-09-04): Travel southeast into the Elderwood. Kenzo's staff begins to pull him east, leading him to a massive tree, called a God Tree by the local [[Deno'qai]]. Kenzo meditates and becomes one with the forest. Meet a patrol from the Bek'eni, who escort the party to their village to meet the elf, Mezzar. Spend the night in the Bek'eni camp, where Delwath is treated like a lord.
-- (DR:: 1748-09-05): Spend the day at the Bek'eni village. Meet the disgraced Godcaller Theba, who has information about Mezzar and the [[Te'kula]]. Spy on Mezzar's house; steal Theba's spear and shield. Debate what to do.
-- (DR:: 1748-09-06), morning: Attempt to leave village. Stopped by the chief, Zaro, until he is swayed by Seeker's magic. Travel to the God Tree to wait for Mezzar. 
+- (DR:: 1748-09-04): Travel southeast into the Elderwood. Kenzo's staff begins to pull him east, leading him to a massive tree, called a God Tree by the local [[Deno'qai]]. Kenzo meditates and becomes one with the forest. Meet a patrol from the Bek'eni, who escort the party to their village to meet the elf, [[Mezzar]]. Spend the night in the Bek'eni camp, where Delwath is treated like a lord.
+- (DR:: 1748-09-05): Spend the day at the Bek'eni village. Meet the disgraced Godcaller [[Theba]], who has information about [[Mezzar]] and the [[Te'kula]]. Spy on Mezzar's house; steal Theba's spear and shield. Debate what to do.
+- (DR:: 1748-09-06), morning: Attempt to leave village. Stopped by the chief, [[Zaro]], until he is swayed by Seeker's magic. Travel to the God Tree to wait for [[Mezzar]]. 
 
 ### Mirror of the Past
 - (DR:: 1748-08-29): Use mirror on the mask that falls from the shadow hunter's face: [[Shadow Hunter's Mask Vision]] (recharge:: mirror)

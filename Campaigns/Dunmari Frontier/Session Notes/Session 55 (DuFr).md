@@ -7,18 +7,18 @@ realWorldDate: 2022-08-16
 DR: 1748-10-09
 DR_end: 1748-10-14
 players: [Delwath, Aristaea, Iascaire]
-tagline: in which the party confronts betrayal and undead
-descTitle: Shadow Realms and Final Battles
+tagline: in which the last of the trapped tanshi are freed
+descTitle: Echoes of the Great War
 ---
 # Dunmari Frontier - Delwath Solo Session 3
 
->[!info] Shadow Realms and Final Battles: in which the party confronts betrayal and undead
+>[!info] Echoes of the Great War: in which the last of the trapped tanshi are freed
 > *Featuring: [[Delwath]], [[Aristaea]], [[Iascaire]]*
 > *In Taelgar: Oct 09, 1748 DR to Oct 14, 1748 DR*
 > *On Earth: Tuesday Aug 16, 2022*
-> *Forest of Nightmares and the Battle of Ye'mote*
+> *[[Forest of Nightmares]]*
 
-Delwath's party confronts hobgoblin traitors in a shadow realm and frees trapped beings after battling an undead warlock at the Battle of Ye'mote.
+[[Delwath]] and his companions confront hobgoblin traitors in a shadow realm and battle an undead warlock at the Battle of Ye'mote while freeing the last of the [[Meswati]].
 
 %% Other Generations
 Generation 1
@@ -40,11 +40,11 @@ Generation 1
 %%
 ## Session Info
 ### Summary
-- The party encounters Zegron, the ghost of a giant, in the Forest of Nightmares and agrees to punish hobgoblin cowards in a shadow realm.
+- [[Delwath]] and his companions meet [[Zegron]], the ghost of a giant, in the [[Forest of Nightmares]], and agree to fight hobgoblins  in a shadow realm.
 - After a fierce battle, the hobgoblins and their wizard leader are defeated; the party retrieves the Shadow Armband from the wizard's severed arm.
-- Delwath and Taraka are banished back to the material plane while trapping the hobgoblin army in the shadow realm.
-- At the Battle of Ye'mote, the party defeats an undead hobgoblin warlock and his minions, releasing trapped beings with the destruction of another armband.
-- The party returns to Ko'zula village to celebrate, and Delwath parts ways with Iascaire and Aristaia.
+- In the shadow realm, [[Delwath]] banishes himself and the tanshi [[Taraka]] back to the material plane while leaving the hobgoblin army trapped.
+- At the site of the Battle of Ye'mote, the party defeats an undead hobgoblin warlock and his minions, releasing the last of the trapped [[Meswati]] with the destruction of another armband.
+- The party returns to the Ko'zula village to celebrate, and Delwath parts ways with [[Iascaire]] and [[Aristaea]].
 
 ### Timeline
 - (DR:: 1748-10-09), afternoon: Arrive in [[Ko'zula]] land. Rest.

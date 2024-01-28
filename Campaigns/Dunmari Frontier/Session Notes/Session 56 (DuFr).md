@@ -16,35 +16,16 @@ descTitle: Chalice of Redemption
 > *Featuring: [[Riswynn]], [[Rothfis]], [[Merash]], [[Thror]]*
 > *In Taelgar: Aug 24, 1748 DR to Aug 25, 1748 DR*
 > *On Earth: Monday Sep 12, 2022*
-> *Heart of the Mountain and Morkalan*
+> *[[Heart of the Mountain]] and [[Morkalan]]*
 
-Riswynn's party, indebted to the dwarven gods, embarks on a quest in Morkalan to redeem an evil dwarf with the Chalice of the Runepriest and rescues a boy named Tak.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Divine Debt and Dark Echoes",
-  "tagline": "in which a quest to redeem debts begins",
-  "summary": [
-    "Riswynn is transported to the Heart of the Mountain by the Chalice of the Runepriest, joining others indebted to the Bahrazel.",
-    "They are tasked by the Bahrazel to travel to the Shadowfell domain of Morkalan to confront the dwarf Hagrim.",
-    "Visions reveal the history of the Chalice, once a beacon of hope, later left abandoned after a deadly conflict.",
-    "In Morkalan, the party finds Bleakhold, a village under the constant scrutiny of Morkalan, and learns of a missing boy, Tak.",
-    "After searching, they defeat undead dwarves and rescue Tak, ending with the discovery of Nora Silverspark's ghost."
-  ],
-  "short_summary": "Riswynn and companions, indebted to the Bahrazel, undertake a mission in Morkalan to confront an evil dwarf and rescue a boy named Tak.",
-  "location": "Heart of the Mountain and Morkalan"
-}
-```
-%%
+[[Riswynn]] meets three other [[dwarves]] in the [[Heart of the Mountain]], all indebted to the [[Bahrazel]], and they embark on a quest to redeem an evil dwarf in the [[Shadowfell]] realm of Morkalan. 
 ## Session Info
 ### Summary
-- Riswynn and companions are summoned to the Heart of the Mountain by the Bahrazel.
-- They must travel to Shadowfell's Morkalan to confront Hagrim and use the Chalice of the Runepriest.
-- Visions reveal the chalice's history of refuge, betrayal, and abandonment.
-- The party arrives in Morkalan and learns of a Mad Priest and a missing boy, Tak.
-- They rescue Tak from undead dwarves and are led to the ghost of Nora Silverspark.
+- [[Riswynn]], [[Thror]], [[Merash]], and [[Rothfis]] are summoned to the [[Heart of the Mountain]] by the [[Bahrazel]].
+- They are tasked by the [[Bahrazel]] to travel to the [[Shadowfell]] domain of [[Morkalan]] to confront the dwarf [[Hagrim]].
+- Visions reveal the history of the [[Chalice of the Runepriest]], once a beacon of hope, later lost after a deadly conflict.
+- In [[Morkalan]], the party finds [[Bleakhold]], a village under the constant scrutiny of [[Morkalan]], and learns of a missing boy, [[Tak]].
+- They rescue [[Tak]] from undead dwarves and are led to the ghost of [[Nora Silverspark]].
 
 ### Timeline
 - (DR:: 1748-08-24): Vanish from [[Chardon]] after using the [[Chalice of the Runepriest]]; appear in [[Heart of the Mountain]]; speak with the [[Bahrazel]]; rest.
