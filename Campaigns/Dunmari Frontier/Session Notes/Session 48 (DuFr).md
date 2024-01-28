@@ -25,7 +25,7 @@ In Chardon, the [[Dunmar Fellowship]] learns about the dangers of [[chalyte]], s
 - [[Kenzo]] meets with [[Kaeso]], his mentor and a [[Shakun Mystai|Mystai of Shakun]], who shares concerns about [[chalyte]] and arranges a meeting with his old teacher, [[Roscelia]].
 - The party reconnects with [[Vola]], who agrees to send letters to other adventurers and provides insight into the [[Society of the Open Scroll]].
 - [[Ulfgar Frostbeard]], a metaphysics professor, informs them about [[Galen]]'s new Dwarven artifact.
-- [[Dee Wildcloak]] and[[ Dain Goldhammer]] recount their harrowing experience at [[Stormcaller Tower]], and reveal [[Fausto]] as a key expedition patron.
+- [[Dee Wildcloak]] and [[Dain Goldhammer]] recount their harrowing experience at [[Stormcaller Tower]], and reveal [[Fausto]] as a key expedition patron.
 
 ### Timeline
 - (DR:: 1748-08-21), afternoon: Meet [[Kaeso]]. 
