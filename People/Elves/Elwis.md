@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, dufr/met, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1749-01-02, type: met}
 name: Elwis

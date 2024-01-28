@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [pc, person, pc/guest, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Shoal
 born: 1652

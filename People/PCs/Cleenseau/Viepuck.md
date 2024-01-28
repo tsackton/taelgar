@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [pc/cleenseau, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died, primaryOrgType: party}
+displayDefaults: { primaryOrgType: party}
 campaignInfo: []
 name: Viepuck
 born: 1706-10-01

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, dufr/minor, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: dufr, person: Kenzo, date: 1748-12-30, type: courted, format: "<met:U> by <person> on <target>"}
 - {campaign: DuFr, date: 1749-01-05, type: last seen}

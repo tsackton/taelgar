@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [pc, pc/cleenseau, person, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo: []
 name: Izgil Moonseeker
 born: 1453
