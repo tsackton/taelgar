@@ -17,6 +17,16 @@ affiliations: ["The Dunmar Fellowship"]
 
 ![[seeker.jpg|right|400]]
 
+## Pre-Campaign Events
+
+- (DR:: 1747-10-04): Seeker arrives in Chardon
+- (DR:: 1747-12-26): Seeker leaves Chardon
+- (DR:: 1748-02-15): Seeker arrives in Songara
+- (DR:: 1748-02-21): Seeker leaves Songara
+- (DR:: 1748-03-05): Seeker arrives in Tokra.
+- (DR:: 1748-03-09): Seeker leaves Tokra for Karawa
+- (DR:: 1748-03-21): Seeker arrives in Karawa
+
 > [!warning]- Seeker's Backstory
 > 
 > I grew up in the city of Darakan, on the western frontier of Sembara, in the dwarven kingdom of [[Khatridun]]. Darakan, my home, is famous for its fine marbleworks, especially the elaborate stonework marking the gates of the city, set high in a cliff face and reached by a series of marble steps and arches. My parents, proud Stoneworkers from Clan Highkeep, contributed much to the fame of the city, and were renowned as architects. I trained early in my life expecting to become a Stoneworker like them.

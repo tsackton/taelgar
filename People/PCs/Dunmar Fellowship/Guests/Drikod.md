@@ -18,3 +18,8 @@ excludePublish: ["clee"]
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[drikod-portrait.jpg|400]]
+
+## Pre-Campaign Events
+
+- (DR:: 1748-04-29): Drikod leaves [[Kunda]], his village in the mountains.
+- (DR:: 1748-05-12): Drikod arrives in Karawa.

@@ -16,3 +16,10 @@ affiliations: [ "The Dunmar Fellowship"]
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 ![[riswynn.png|400]]
+
+## Pre-Campaign Events
+- (DR:: 1748-03-10): Riswynn leaves Tharn Todar, heading north for Raven's Hold
+- (DR:: 1748-03-24): Riswynn leaves Askandi, heading for Karawa.
+- (DR:: 1748-04-26): Riswynn arrives in Tokra.
+- (DR:: 1748-04-30): Riswynn arrives in Askandi.
+- (DR:: 1748-05-05): Riswynn arrives in Tharn Todor.

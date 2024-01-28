@@ -19,7 +19,7 @@ name: Dunmari Frontier - Session 19
 > *On Earth: Saturday Feb 13, 2021*
 > *From [[Karawa]] to [[Bas Udda]] and [[Pava and Avaras' House]]*
 
-The[[ Dunmar Fellowship]]assists a [[Amil|monk]] with funeral rites in [[Bas Udda]] and battles ogres en route to the [[Pava and Avaras' House|home]] of two desert monks.
+The [[ Dunmar Fellowship]]assists a [[Amil|monk]] with funeral rites in [[Bas Udda]] and battles ogres en route to the [[Pava and Avaras' House|home]] of two desert monks.
 
 ## Session Info
 ### Summary
@@ -29,7 +29,7 @@ The[[ Dunmar Fellowship]]assists a [[Amil|monk]] with funeral rites in [[Bas Udd
 - On the way, they encounter and defeat three ogres before arriving at the stone house to meet [[Pava]] and [[Avaras]].
 
 ### Timeline
-- (DR:: 1748-04-25) - (DR:: 1748-04-26): Make preparations in Karawa to head east with Havdar and his warriors
+- (DR:: 1748-04-25) - (DR_end:: 1748-04-26): Make preparations in Karawa to head east with Havdar and his warriors
 - (DR:: 1748-04-27), morning: Depart Karawa with [[Havdar]]'s warriors
 - (DR:: 1748-04-28): Travel southeast towards [[Bas Udda]]
 - (DR:: 1748-04-29), mid-morning: Arrive in [[Bas Udda]]. Meet [[Amil]], an apprentice monk who is burning and giving last rites to bodies left untended after the gnoll attack. Fend of giant vultures. [[Amil]] surprised to see [[Delwath]] and mentioned his masters [[Avaras]] and [[Pava]] saved an elf in the desert some months ago.

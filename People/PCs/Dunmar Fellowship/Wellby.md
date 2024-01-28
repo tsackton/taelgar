@@ -17,6 +17,15 @@ affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 
 ![[welby-full.jpg|400]]
 
+## Pre-Campaign Events
+
+- (DR:: 1747-08-02): Wellby leaves [[Sembara]], heading south. Spends some time wandering.
+- (DR:: 1747-12-02): Wellby arrives at the mountains, but cannot cross to Dunmar because of snow. Travels around in frontier lands waiting for the passes to open.
+- (DR:: 1748-02-12): Wellby crosses the lower passes on the Karawa road into Dunmar, cutting overland to Tokra.
+- (DR:: 1748-03-03): Wellby arrives in Tokra, spends the night before heading east towards Karawa for the Festival of Rebirth
+- (DR:: 1748-03-04): Wellby leaves Tokra for Karawa
+- (DR:: 1748-03-19): Wellby arrives in Karawa.
+
 > [!warning]- Wellby's Backstory
 > 
 > What Wellby wants from life is to explore: to meet new people, go new places, have new experiences. For many years, the Halfling road life was perfect: he honed his craft scouting ahead of the wagons; exploring roadside ruins; practicing bow skills on wolves and the occasional bandit.
