@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/tim]
+tags: [meta]
 ---
 
 Updated: January 9th, 2024

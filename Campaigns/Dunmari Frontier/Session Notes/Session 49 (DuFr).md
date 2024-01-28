@@ -16,7 +16,7 @@ name: Dunmari Frontier - Session 49
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Aug 22, 1748 DR to Aug 24, 1748 DR*
 > *On Earth: Thursday Jun 30, 2022*
-> *Chardon*
+> *[[Chardon]]*
 
 The [[Dunmar Fellowship]] engages in treacherous negotiations for powerful artifacts and narrowly escapes a deadly ambush.
 
