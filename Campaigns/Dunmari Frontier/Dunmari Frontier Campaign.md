@@ -16,7 +16,7 @@ You might start with:
 
 You can also explore the skyship [[Vindristjarna]] and the [[Vindristjarna Room Planning|special facilities]] constructed on it.
 
-You can also explore the most recent session, [[Session 91 (DuFr)]], or browse pages mentioned in the most recent session:
+You can also explore the most recent session, [[Session 91 (DuFr)]], or browse pages mentioned in the most recent session note:
 
 ```dataview
 TABLE WITHOUT ID Link, join(split(meta(Link).path,"/",2),"/") as Folder
