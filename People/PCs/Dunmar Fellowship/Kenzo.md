@@ -15,6 +15,10 @@ player: David Kong
 
 ![[kenzo-full.jpg|400]]
 
+## Pre-Campaign Events
+
+- (DR:: 1748-03-11): Kenzo leaves the Lakan Monastery at Tokra, heading for Karawa in search of answers about his dreams, and the jade fragment he carries.
+
 > [!warning]- Kenzo's Backstory
 > 
 > Kenzo was born in [[Chardon]], the child of Dunmari immigrants. He has only fragmentary memories of the first years of his life -- flashes of his mother's smile, the smell of his father's hair. When he was five, his parents died, and he grew up on the streets, with only polished shard of [[Jade Piece of Rai's Hand]] passed down from his family to remember his parents by.

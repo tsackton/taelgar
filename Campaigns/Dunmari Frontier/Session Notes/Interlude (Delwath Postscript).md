@@ -5,6 +5,8 @@ campaign: Dunmari Frontier
 DR: 1748-10-14
 DR_end: 1748-11-15
 players: [Delwath]
+descTitle: The Journey South
+tagline: in which Delwath gathers news and returns to Dunmar
 ---
 ## Timeline
 

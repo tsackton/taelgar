@@ -24,6 +24,16 @@ whereabouts:
 
 ![[delwath-portrait.jpg]]
 
+## Pre-Campaign Events
+
+- (DR:: 1747-08-17): Delwath teleports from the shadow realm, arriving near Kharsan, witless and lost.
+- (DR:: 1747-08-19): Delwath found wandering by Pava and Avaras west of Kharsan, taken in.
+- (DR:: 1747-08-20): Delwath leaves stone house in the middle of the night
+- (DR:: 1747-08-22): Delwath found outside Bas Udda by a shepherd, taken in.
+- (DR:: 1747-12-06): Delwath, recovered, leaves for Karawa to learn more about the Shakun Mysteries
+- (DR:: 1747-12-11): Delwath arrives in Karawa
+
+
 > [!WARNING]- Delwath's Backstory
 > 
 > Delwath was born a hundred years before the coming of [[Cha'mutte]], and skirmished in some of the minor conflicts of that time, but was never a true combatant. During the cataclysmic battles at the end of the Great Wars, he was aiding a small company of elves as a quartermaster and cook, when they were surrounded and defeated by a great force of hobgoblins, lead by a mysterious cloaked figure who called down bolts of dark lightning and spread from the sky.
