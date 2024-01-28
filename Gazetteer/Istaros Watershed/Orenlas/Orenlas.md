@@ -5,13 +5,13 @@ name: Orenlas
 typeOf: realm
 ancestry: elven
 subTypeOf: forest
-partOf: Istaros Watershed
+whereabouts: Istaros Watershed
 pronunciation: o-REN-las
 ---
 # Orenlas
 *(o-REN-las)*
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The elven forest of Orenlas is the last remnant of the ancient forests of [[Alcarinque]], once home to the great elven civilizations of the days of myth. Orenlas is one of the few places in the world where the magic of those days still lingers. Here can still be found the great dreaming trees of the [[elves]], still echoing the song of [[Aldanor]]. It is one of the oldest, if not the oldest, still-standing forests on Taelgar. 

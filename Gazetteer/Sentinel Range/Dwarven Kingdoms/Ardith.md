@@ -6,7 +6,7 @@ campaignInfo: []
 name: Ardith
 typeOf: realm
 ancestry: dwarven
-partOf: Labkhan
+whereabouts: Labkhan
 destroyed: 1545
 ---
 # Ardith

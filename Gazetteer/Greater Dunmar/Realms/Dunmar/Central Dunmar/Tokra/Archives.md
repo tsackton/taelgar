@@ -3,11 +3,12 @@ headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Archives of Tokra
 typeOf: library
-partOf: Tokra
+whereabouts: Tokra
 ---
 # The Archives of Tokra
->[!info]+ Information
-> A building in [[Tokra]], [[Central Dunmar]], [[Dunmar]], the [[Greater Dunmar]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The archives are a large square building with a significant tower rising 100 feet above the city, across the Dharajun Plaza from the temple. Also constructed during the early years of the Dharajun dynasty, this building suffered more damage during the [[Fire War]] than the temple, and was reconstructed in the simpler, less ostentatious, more flowing, melancholic, and organic style of post-Great-War Dunmari architecture.
 

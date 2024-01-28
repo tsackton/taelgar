@@ -6,7 +6,7 @@ campaignInfo: []
 name: Agata's Lair
 typeOf: house
 typeOfAlias: lair
-partOf: Garamjala
+whereabouts: Garamjala Desert
 ---
 # Agata's Lair
 >[!info]+ Information
