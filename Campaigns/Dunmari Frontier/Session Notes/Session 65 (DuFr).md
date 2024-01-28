@@ -16,34 +16,18 @@ descTitle: The Sunset Thread
 > *Featuring: [[Seeker]], [[Raven]], [[Spirala]], [[Caulaus]]*
 > *In Taelgar: Oct 13, 1748 DR to Nov 13, 1748 DR*
 > *On Earth: Saturday Nov 12, 2022*
-> *Shimmersong and Amberglow*
+> *[[Shimmersong]] and [[Amberglow]]*
 
-Seeker crafts a magical glove, defeats a cursed giant, and trades with Lady Eventide for passage to Lastlight Falls.
+[[Seeker]] crafts a [[Glove of Crystalized Magic|magical glove]], defeats a [[Vondar|cursed giant]], and trades with [[Lady Eventide]] for passage to [[Lastlight Falls]].
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Crossing Amberglow",
-  "tagline": "in which Seeker braves the fading fey realm",
-  "summary": [
-    "Seeker crafts a magical glove in Shimmersong for spell manipulation.",
-    "Guided by Caulaus, Seeker's party enters Amberglow and fights the cursed giant, Vondar One-Eye, avoiding his memory-stealing toll.",
-    "After defeating Vondar, Seeker narrowly escapes a cauldron of memories and the party wisely retreats.",
-    "Lady Eventide of the Cloudspinner's court exchanges a sunset thread for a streak of Seeker's hair color.",
-    "Raven departs, leaving Seeker, Spirala, and Caulaus to approach Lastlight Falls, where Kenzo awaits."
-  ],
-  "short_summary": "Seeker's journey through Amberglow leads to magical trades and a confrontation with a cursed giant, culminating at Lastlight Falls.",
-  "location": "Amberglow"
-}
-```
-%%
 ## Session Info
+
+***Seeker constructs the Glove of Crystallized Magic.***
 ### Summary
-- Seeker constructs a magical glove in Shimmersong and seeks the fey crossing at Lastlight Falls.
-- In Amberglow, the party hires Caulaus to guide them and defeats the memory-demanding giant, Vondar One-Eye.
-- Seeker bargains with Lady Eventide, trading a streak of his hair's color for a Sunset Thread to aid in crossing Lastlight Falls.
-- The party safely navigates past treacherous shadows to reach Lastlight Falls, where they find Kenzo waiting.
+- [[Seeker]] constructs a [[Glove of Crystalized Magic|magical glove]] in [[Shimmersong]] and seeks the fey crossing at [[Lastlight Falls]].
+- Guided by [[Caulaus]], [[Seeker]] and companions enter [[Amberglow]] and fight the cursed giant, [[Vondar|Vondar One-Eye]], avoiding his memory-stealing toll
+- [[Seeker]] bargains with[[ Lady Eventide]], trading a streak of his hair's color for a [[Sunset Thread]] to aid in crossing [[Lastlight Falls]].
+- The party safely navigates past treacherous shadows to reach [[Lastlight Falls]], where they find [[Kenzo]] waiting.
 
 ### Timeline
 - **Later afternoon, in the feywild**: [[Seeker]], [[Raven]], and [[Spirala]] travel to [[Shimmersong]] and the Summer Court of the [[Lightdancer]]. [[Seeker]] spends time in [[Shimmersong]] learning about the shards of crystalized magic gifted by [[Illaran]], and crafting a [[Glove of Crystalized Magic|magic glove]] to manipulate magic. 

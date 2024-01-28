@@ -26,7 +26,7 @@ The[[ Dunmar Fellowship]] destroys a trebuchet, defeats [[Grash]], and ends the 
 - [[Seeker]] launches a boulder from [[Vindristjarna]], destroying Grash's trebuchet
 - The party confronts [[Grash]], who wields the [[Ring of Undying]], and after a fierce battle, they sever his hand and destroy the ring.
 - [[Wellby]] is killed by [[Grash]] but is resurrected by [[Riswynn]] using a powerful spell and a perfect diamond.
-- With the [[The Siege of Uzgukhar]] broken and [[Grash]] defeated, the party aids in clearing remaining threats and celebrates victory in the [[War of the Cloak]] with the people of [[Uzgukhar]].
+- With the [[Siege of Uzgukhar]] broken and [[Grash]] defeated, the party aids in clearing remaining threats and celebrates victory in the [[War of the Cloak]] with the people of [[Uzgukhar]].
 ### Timeline
 - (DR:: 1749-01-17): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar
 - (DR:: 1749-01-18): [[Vindristjarna]] flies over the [[Plaguelands]] as the party races towards Uzguhkhar

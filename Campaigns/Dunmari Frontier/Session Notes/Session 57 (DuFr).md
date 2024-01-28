@@ -21,6 +21,8 @@ descTitle: Spiritual Sojourn
 
 [[Kenzo]] saves a [[lizardfolk]] named [[Elazar]], learns of a land's spiritual crisis, and embarks on an enlightening spirit journey with newfound allies.
 ## Session Info
+
+***Kenzo learns to speak the lizardfolk language from Elazar***
 ### Summary
 - [[Kenzo]] rescues [[Elazar]] from dinosaurs and learns of [[Orekatu]]'s imbalance.
 - [[Elazar]] shares jungle lore and warns of elemental corruption and spiritual depletion.

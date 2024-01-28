@@ -7,47 +7,27 @@ realWorldDate: 2022-11-19
 DR: 1748-10-14
 DR_end: 1748-11-13
 players: [Wellby, Alimash, Shoal]
-tagline: in which Wellby aids in rescuing Arryn
-descTitle: Mirror Realm Rescue
+tagline: in which Wellby and companions face the Mirror Realm
+descTitle: Reflections of Danger
 ---
 # Dunmari Frontier - Wellby Solo Session 3
 
->[!info] Mirror Realm Rescue: in which Wellby aids in rescuing Arryn
+>[!info] Reflections of Danger: in which Wellby and companions face the Mirror Realm
 > *Featuring: [[Wellby]], [[Alimash]], [[Shoal]]*
 > *In Taelgar: Oct 14, 1748 DR to Nov 13, 1748 DR*
 > *On Earth: Saturday Nov 19, 2022*
-> *Arryn's Tower*
+> *[[Arryn’s Tower]]*
 
-Wellby and new allies defeat mirror entities and rescue wizard Arryn, who assists Wellby in journeying to the Feywild.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Reflections of Danger",
-  "tagline": "in which Wellby faces the Mirror Realm",
-  "summary": [
-    "The party recovers from the aboleth's defeat, with Artem claiming a remorhaz heart for his freedom.",
-    "Kenku prisoners inform Wellby about a wizard named Arryn who can help him reach the Feywild.",
-    "Arryn's apprentice, Ressena, reports that Arryn is missing, last seen entrapped in reflections.",
-    "Wellby's party cures the aboleth's prisoners and heads to Arryn's Tower, encountering islands with peculiar phenomena.",
-    "Upon arrival, they battle animated mirror shards and meet Arryn's steward, learning Arryn is trapped in the Mirror Realm.",
-    "The party formulates a plan to enter the Mirror Realm, leading to a confrontation with their mirror duplicates.",
-    "Real Arryn is rescued by identifying and destroying his mirror duplicate, closing the portal to the Mirror Realm.",
-    "Arryn thanks the party with gifts and planes shifts Wellby to Lastlight Falls for the Feywild journey."
-  ],
-  "short_summary": "Wellby and his companions defeat mirror duplicates in Arryn's Tower and rescue the wizard, who helps Wellby towards the Feywild.",
-  "location": "Arryn's Tower"
-}
-```
-%%
+[[Wellby]] and new allies defeat mirror entities and rescue the wizard [[Arryn]] from the [[Mirror Realm]], who then assists Wellby in journeying to the Feywild.
 ## Session Info
 ### Summary
-- Wellby and companions recover from aboleth defeat, Artem retrieves remorhaz heart for escape.
-- Kenku prisoners inform Wellby of wizard Arryn, who could help reach the Feywild; his apprentice, Ressena, mentions Arryn's disappearance.
-- The adventurers cure aboleth's prisoners, repair Wellby's armor, and sail north to find Arryn.
-- Upon reaching Arryn's tower, they battle mirror shard swarms and rescue Arryn from the Mirror Realm by distinguishing and destroying his duplicate.
-- Arryn thanks the party, gifts them, and helps Wellby reach the Feywild.
+- [[Wellby]] and companions recover from the aboleth's defeat, and [[Artem Novolozek|Artem]] retrieves his remorhaz heart to aid his escape.
+- The freed Kenku prisoners inform [[Wellby]] of the wizard [[Arryn]], who could help reach the [[Feywild]]; his apprentice, [[Resenna]], mentions Arryn's disappearance.
+- The adventurers sail north to find [[Arryn]], passing strange islands.
+- Upon arrival, they battle animated mirror shards and meet Arryn's steward, learning [[Arryn]] is trapped in the [[Mirror Realm]].
+- The party formulates a plan to enter the Mirror Realm, leading to a confrontation with their mirror duplicates.
+- The real [[Arryn]] is rescued by identifying and destroying his mirror duplicate, closing the portal to the[[ Mirror Realm]].
+- Arryn thanks the party, and helps Wellby reach the [[Feywild]].
 
 ### Timeline
 - (DR:: 1748-10-14): Rescue prisoners from aboleth lair, leave for [[Wahacha]]

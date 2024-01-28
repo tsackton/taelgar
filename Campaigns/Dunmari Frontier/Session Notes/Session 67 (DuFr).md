@@ -6,44 +6,27 @@ realWorldDate: 2022-12-04
 DR: 1748-11-13
 DR_end: 1748-11-15
 players: [Seeker, Caulaus, Kenzo, Wellby]
-tagline: in which the party confronts Agata Dustmother
+tagline: in which the party confronts Agata Dustmother for a second time
 descTitle: Feywild Deception
 name: Dunmari Frontier - Session 67
 ---
 # Dunmari Frontier - Session 67
 
->[!info] Feywild Deception: in which the party confronts Agata Dustmother
+>[!info] Feywild Deception: in which the party confronts Agata Dustmother for a second time
 > *Featuring: [[Seeker]], [[Caulaus]], [[Kenzo]], [[Wellby]]*
 > *In Taelgar: Nov 13, 1748 DR to Nov 15, 1748 DR*
 > *On Earth: Sunday Dec 04, 2022*
-> *Feywild, Heartwood Grove*
+> *[[Amberglow]] and the [[Heartwood Grove]]*
 
-The Dunmar Fellowship discovers Typhina's true identity as Agata Dustmother and defeats her, with Caulaus becoming the guardian of Heartwood Grove.
+The [[Dunmar Fellowship]] discovers Typhina's true identity as [[Agata|Agata Dustmother]] and defeats her, with [[Caulaus]] becoming the guardian of [[Heartwood Grove]].
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Deception Unveiled",
-  "tagline": "in which the true foe is revealed and defeated",
-  "summary": [
-    "Raven and Spirala return to Shimmersong; the Fellowship reunites.",
-    "The group heads to Heartwood Grove, encounters harpies, and learns about an ancient fey named Dasocles.",
-    "At Heartwood Grove, Seeker attempts to restore Typhinia but discovers Agata Dustmother's deception.",
-    "Agata is defeated and imprisoned in Heartwood Grove; Caulaus volunteers to guard until amends are made."
-  ],
-  "short_summary": "In the Feywild, the Dunmar Fellowship discovers Agata Dustmother's ruse, defeats her, and selects Caulaus as the new guardian of Heartwood Grove.",
-  "location": "Feywild, Heartwood Grove"
-}
-```
-%%
 ## Session Info
 ### Summary
-- Raven and Spirala depart to Shimmersong; Caulaus meets Wellby and Kenzo.
-- Seeker and party encounter and defeat harpies, learning Typhina's (Agata's) history.
-- At Heartwood Grove, Seeker's attempt to restore Typhina reveals Agata Dustmother's deceit.
-- Agata is defeated and imprisoned, Caulaus volunteers as the grove's guardian.
-- The Fellowship exits the Feywild and encounters Delwath at Lastlight Falls.
+- [[Raven]] and [[Spirala]] depart to [[Shimmersong]]; [[Caulaus]] meets [[Wellby]] and [[Kenzo]].
+- The party encounters and defeats harpies, learning Typhina's (Agata's) history.
+- At [[Heartwood Grove]], Seeker's attempt to restore [[Typhina]] reveals Agata Dustmother's deceit.
+- [[Agata]] is defeated and imprisoned, [[Caulaus]] volunteers as the grove's guardian.
+- The party exits the [[Feywild]] and encounters [[Delwath]] and [[Riswynn]] at [[Lastlight Falls]].
 
 ### Timeline
 - (DR:: 1748-11-13), on the material plane; **Evening, in the feywild**: Raven and Spirala depart to return to [[Shimmersong]]. Seeker is reunited with Wellby and Kenzo, who are introduced to Caulaus. 

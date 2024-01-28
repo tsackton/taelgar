@@ -7,56 +7,37 @@ realWorldDate: 2022-09-26
 DR: 1748-08-25
 DR_end: 1748-11-15
 players: [Riswynn, Rothfis, Merash, Thror]
-tagline: in which a ghostly past is confronted and futures are redirected
+tagline: in which a ghostly past is confronted
 descTitle: Redemption of Hagrim
 ---
 # Dunmari Frontier - Riswynn Solo Session 2
 
->[!info] Redemption of Hagrim: in which a ghostly past is confronted and futures are redirected
+>[!info] Redemption of Hagrim: in which a ghostly past is confronted
 > *Featuring: [[Riswynn]], [[Rothfis]], [[Merash]], [[Thror]]*
 > *In Taelgar: Aug 25, 1748 DR to Nov 15, 1748 DR*
 > *On Earth: Monday Sep 26, 2022*
-> *the ashy wastelands and Tharn Todor*
+> *[[Morkalan]]*
 
-Riswynn redeems the ghost of Hagrim, aids in the reintegration of freed dwarves, and reconnects with her party.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Redemption and Reunion",
-  "tagline": "in which Riswynn confronts the past and aids refugees",
-  "summary": [
-    "Riswynn's party meets the ghost of Nora Silverspark and learns of Hagrim's transformation into Morkalan.",
-    "They seek out Delig Firebrand in the ashy wastelands to gain insight into Hagrim's past.",
-    "After battling Hagrim's ghost and with Riswynn's plea, the Chalice's water dissolves his dark realm, freeing the trapped souls.",
-    "Riswynn and Thror guide the freed Dwarves to Tharn Todor, helping them reintegrate into society.",
-    "Riswynn learns her companions have scattered and sets out to reunite with them, gathering intelligence in Tokra en route."
-  ],
-  "short_summary": "Riswynn vanquishes Hagrim's malevolent spirit, frees the trapped Dwarves, and begins her journey to reunite with scattered companions.",
-  "location": "from the ashy wastelands to Tharn Todor and Tokra"
-}
-```
-%%
+Riswynn and her companions uncover the story of [[Morkalan]] and redeem the ghost of [[Hagrim]].
 ## Session Info
 ### Summary
-- The party learns of Hagrim's transformation into the evil Morkalan from his victim, Nora Silverspark.
-- They defeat a necrotic troll in the ashy wastelands and encounter Hagrim's cousin, Delig Firebrand.
-- After battling Hagrim's ghost and invoking the Bahrazel, Riswynn redeems his spirit, dissipating the darkness.
-- Riswynn and Thror help the freed Dwarves of Bleakhold reintegrate into society, culminating in Tharn Todor.
-- Riswynn prepares to reunite with her scattered companions, gathering news and messages in Tokra.
+- [[Riswynn]] and her companions learn of [[Hagrim]]'s transformation into the evil [[Morkalan]] from his victim, [[Nora Silverspark]].
+- They defeat a necrotic troll in the ashy wastelands and encounter Hagrim's cousin, [[Delig Firebrand]].
+- After battling Hagrim's ghost and invoking the [[Bahrazel]], Riswynn redeems his spirit with the [[Chalice of the Runepriest]], dissipating the darkness.
+- [[Riswynn]] and [[Thror]] help the freed Dwarves of [[Bleakhold]] reintegrate into society, leading them to [[Tharn Todor]].
+- [[Riswynn]] prepares to reunite with her scattered companions, gathering news and messages in [[Tokra]].
 
 ### Timeline
-- (DR:: 1748-08-25), afternoon: Decipher the mystery of Morkalan and kill [[Hagrim]], sending his soul to the gods for judgment.
+- (DR:: 1748-08-25), afternoon: Decipher the mystery of [[Morkalan]] and kill [[Hagrim]], sending his soul to the gods for judgment.
 - (DR:: 1748-08-26): Appear near the [[Stoneborn Statue Dungeon|statue of the Stoneborn Warrior]] in northern [[Dunmar]]; [[Merash]] and [[Rothfis]] return to their lives; [[Thror]] stays to help and seek redemption.
 - (DR:: 1748-08-27) - (DR_end:: 1748-10-04): [[Thror]] and [[Riswynn]] guide the freed dwarves of [[Morkalan]]south to [[Nardith]]
-- (DR:: 1748-10-05): Riswynn and freed dwarves arrive in Tharn Todor.
+- (DR:: 1748-10-05): [[Riswynn]] and freed dwarves arrive in [[Tharn Todor]].
 - (DR:: 1748-10-06) - (DR_end:: 1748-10-11): [[Riswynn]] rests in [[Tharn Todor]] and gathers news
-- (DR:: 1748-10-12): Riswynn departs for Tokra
-- (DR:: 1748-10-13) - (DR_end:: 1748-10-25): Riswynn travels across Dunmar towards Tokra.
-- (DR:: 1748-10-26): Riswynn arrives in Tokra. Gathers letters and information.
+- (DR:: 1748-10-12): [[Riswynn]] departs for [[Tokra]]
+- (DR:: 1748-10-13) - (DR_end:: 1748-10-25): [[Riswynn]] travels across [[Dunmar]] towards [[Tokra]].
+- (DR:: 1748-10-26): [[Riswynn]] arrives in [[Tokra]]. Gathers letters and information.
 - (DR:: 1748-10-27) - (DR_end:: 1748-11-13): [[Riswynn]] travels east to meet her companions again
-- (DR:: 1748-11-14): Riswynn and Delwath are reunited on the arid plains of the [[Nashtkar]]
+- (DR:: 1748-11-14): [[Riswynn]] and [[Delwath]] are reunited on the arid plains of the [[Nashtkar]]
 
 
 ## Narrative

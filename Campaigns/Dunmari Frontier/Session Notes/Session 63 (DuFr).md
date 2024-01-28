@@ -16,35 +16,16 @@ descTitle: Crystal Peak Chaos
 > *Featuring: [[Seeker]], [[Raven]], [[Spirala]], [[Mikasa]]*
 > *In Taelgar: Oct 03, 1748 DR to Oct 12, 1748 DR*
 > *On Earth: Saturday Nov 05, 2022*
-> *Crystal Peak in the Feywild*
+> *[[Crystal Peak]] in the [[Feywild]]*
 
-Seeker and his companions subdue a wild magic storm at Crystal Peak, receive mysterious gifts, and set off for further adventures.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Storm's End",
-  "tagline": "in which a chaotic magic storm is quelled",
-  "summary": [
-    "Seeker joins Raven, Spirala, and Mikasa to venture into the Feywild's wild magic storm.",
-    "The party ascends Crystal Peak, encountering a rolling stone and a crater leading to a cave with a crashed geode.",
-    "Animated crystal fragments attack, but the party reaches Illaran, who explains the need to destroy a magic-consuming creature.",
-    "The party confronts living spells and a petrified xorn; Mikasa shatters it, ending the wild magic storm.",
-    "Seeker's journey continues with new crystalized magic gifts, while Mikasa returns home."
-  ],
-  "short_summary": "Seeker and his companions quell a wild magic storm in the Feywild by defeating a petrified xorn and animated spells.",
-  "location": "Feywild, Crystal Peak"
-}
-```
-%%
+Seeker and his companions subdue a wild magic storm at [[Crystal Peak]], receive mysterious gifts, and set off for further adventures.
 ## Session Info
 ### Summary
-- Seeker and companions, Raven, Spirala, and Mikasa, venture into the Feywild to tackle a wild magic storm.
-- The group reaches the Crystal Peak and encounters a creature made of crystal fragments within a cavern.
-- Seeker vanishes using a spell and discovers Illaran, a fey master of the mountain who reveals the cause of the chaos.
-- Illaran leads the party to confront a petrified creature whose destruction by Mikasa ends the wild magic storm.
-- With the storm quelled, Seeker receives mysterious crystalized magic from Illaran as the party prepares to continue their journey.
+- Seeker and companions, Raven, Spirala, and Mikasa, venture to [[Crystal Peak]] to tackle a wild magic storm.
+- The party ascends Crystal Peak, encountering a rolling stone and a crater leading to a cave with a crashed geode.
+- Seeker vanishes using a spell and discovers [[Illaran]], a fey master of the mountain who reveals the cause of the chaos.
+- [[Illaran]] leads the party to confront living spells and a petrified creature whose destruction by [[Mikasa]] ends the wild magic storm.
+- With the storm quelled, [[Seeker]] receives mysterious crystalized magic from [[Illaran]] as the party prepares to continue their journey.
 
 ### Timeline
 - **Afternoon, in the feywild**: [[Seeker]] meets [[Raven]], [[Spirala]], and [[Mikasa]] who are also coming to help solve the wild magic storm. 

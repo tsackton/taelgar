@@ -8,43 +8,25 @@ DR: 1748-11-02
 DR_end: 1748-11-06
 players: [Kenzo, Izzarak]
 companions: [Enari]
-tagline: in which the elemental planes clash
-descTitle: Volcanic Confrontation
+tagline: in which the spirit of a volcano seeks aid
+descTitle: Journey to Azta Lekua
 ---
 # Dunmari Frontier - Kenzo Solo Session 2
 
->[!info] Volcanic Confrontation: in which the elemental planes clash
+>[!info] Journey to Azta Lekua: in which the spirit of a volcano seeks aid
 > *Featuring: [[Kenzo]], [[Izzarak]]*
 > *In Taelgar: Nov 02, 1748 DR to Nov 06, 1748 DR*
 > *On Earth: Friday Oct 07, 2022*
-> *on the road from Bedez to the Footprint of the Gods*
+> *From [[Bedez]] to the [[Azta Lekua|Footprint of the Gods]]*
 
-Kenzo and his companions encounter and battle fire elementals to help Somi-nai, the spirit of a volcano.
+Kenzo and his lizardfolk allies meet Somi-nai, the volcano spirit, and learn about Motua, a guardian causing chaos in the Azta Lekua.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Volcanic Encounter",
-  "tagline": "in which the spirit of a volcano seeks aid",
-  "summary": [
-    "Kenzo joins forces with lizardfolk heroes Izzarak and Enari to restore balance to the Azta Lekua.",
-    "Enari leads the party through the jungle, while Izzarak communes with deities, foreseeing elemental dangers.",
-    "Kenzo has a vision of the jungle's life being drained by a wounded creature disrupting the Azta Lekua's balance.",
-    "The group encounters a river of lava and a fire spirit, Somi-nai, battling elemental dinosaurs.",
-    "After aiding Somi-nai, they learn of Motua, a destructive guardian from the Land of the Dead, threatening the Azta Lekua."
-  ],
-  "short_summary": "Kenzo and his lizardfolk allies meet Somi-nai, the volcano spirit, and learn about Motua, a guardian causing chaos in the Azta Lekua.",
-  "location": "Azta Lekua, Footprint of the Gods"
-}
-```
-%%
 ## Session Info
 ### Summary
-- Kenzo and newly met lizardfolk heroes are chosen by elders in Bedez to journey to the Footprint of the Gods.
-- The party, guided by Enari, journeys uneventfully before encountering a river of lava and fire creatures.
-- They battle a flaming ankylosaur and fire wasps to aid the fire spirit, Somi-nai, the volcano's personification.
-- Somi-nai explains the disturbance at the Footprint of the Gods is due to Motua, a guardian from the Land of the Dead.
+- [[Kenzo]] joins forces with [[lizardfolk]] heroes [[Izzarak]] and [[Enari]] to restore balance to the [[Azta Lekua]].
+- The party, guided by [[Enari]], journeys uneventfully before encountering a river of lava and fire creatures.
+- They battle a flaming ankylosaur and fire wasps to aid the fire spirit, [[Somi-nai]], the volcano's personification.
+- [[Somi-nai]] explains the disturbance at the Footprint of the Gods is due to [[Motua]], a guardian from the [[Land of the Dead]].
 
 ### Timeline
 - (DR:: 1748-11-02): Heroes of [[Orekatu]] gather in [[Bedez]] to choose who will travel to the [[Azta Lekua|Footprint of the Gods]] and seek answers to the chaotic energy and imbalance there

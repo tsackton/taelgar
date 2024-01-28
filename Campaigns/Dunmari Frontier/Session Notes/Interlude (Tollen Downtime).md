@@ -12,9 +12,9 @@ During the journey from the [[Copper Hills]] to [[Orenlas]] and then to [[Tollen
 
 - Is there a kingdom ruled by a vampire on the north coast of the Green Sea? **YES**
 - Does [[Rodnya Voknaz]] currently have a jade piece of Rai’s hand? **UNKNOWN**
-- Is [[Radomir]]’s sister Yelena a member of the Rodnya Voknaz? **YES**
-- Is Lord Rhodar von Glauer a vampire? **YES**
-- Are the Vargaldi human? **UNCERTAIN**
+- Is [[Radomir]]’s sister [[Yelena]] a member of the Rodnya Voknaz? **YES**
+- Is Lord [[Rhodar von Glauer]] a vampire? **YES**
+- Are the [[Vargaldi]] human? **UNCERTAIN**
 
 ## Bastion Information
 

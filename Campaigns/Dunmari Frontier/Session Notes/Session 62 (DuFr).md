@@ -16,32 +16,16 @@ descTitle: Aboleth's Demise
 > *Featuring: [[Wellby]], [[Rufus]], [[Artem Novolozek]], [[Alimash]], [[Shoal]]*
 > *In Taelgar: Oct 13, 1748 DR to Oct 14, 1748 DR*
 > *On Earth: Friday Oct 28, 2022*
-> *Underwater lair in the ~Eastern Ocean~ near Wahacha*
+> *Underwater lair in the [[~Eastern Ocean~]] near [[Wahacha]]*
 
-Wellby's party successfully defeats an aboleth and its minions, liberating the enchanted prisoners.
+[[Wellby]] and his companions successfully defeat an aboleth and its minions, liberating the enchanted prisoners.
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Aboleth's Demise",
-  "tagline": "in which an underwater lair reveals its secrets",
-  "summary": [
-    "Wellby meets new allies in Wahacha to address the issue of raids.",
-    "The group sets sail, locates the raiders' lair, and dives underwater with magical aid.",
-    "Party encounters and defeats charmed sailors and sharks, saving one sailor.",
-    "Wellby's use of a fish reveals prisoners and a lurking aboleth below.",
-    "An intense battle ensues, ending with the aboleth's defeat and the prisoners' rescue."
-  ],
-  "short_summary": "Wellby and companions engage in a perilous underwater battle, ultimately defeating the enslaving aboleth and freeing the prisoners.",
-  "location": "Underwater lair near Wahacha, Vermillion Isles"
-}
-```
-%%
 ## Session Info
+
+***Wellby's magic armor is repaired, restoring its flight ability.***
 ### Summary
-- Wellby and new allies gather at Dolphin's Rest to address raiders' problem.
-- They sail to the raiders' location, finding a shipwreck and underwater activity.
+- [[Wellby]] and new allies gather at the [[Dolphin’s Rest Inn]] to address the issue of raids.
+- The group sets sail, locates the raiders' lair, and dives underwater with magical aid
 - Underwater, they encounter and battle enchanted sailors and sharks.
 - The party defeats a hidden mage and then faces an aboleth, resisting its psychic lures.
 - After intense combat, the aboleth is killed, and the prisoners are freed.
