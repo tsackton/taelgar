@@ -9,43 +9,24 @@ DR_end: 1748-11-02
 players: [Kenzo]
 companions: [Elazar]
 tagline: in which Kenzo aids and learns from lizardfolk
-descTitle: Jungle Allies
+descTitle: Spiritual Sojourn
 ---
 # Dunmari Frontier - Kenzo Solo Session 1 (Prequel)
 
->[!info] Jungle Allies: in which Kenzo aids and learns from lizardfolk
+>[!info] Spiritual Sojourn: in which Kenzo aids and learns from lizardfolk
 > *Featuring: [[Kenzo]]*
 > *In Taelgar: Sep 30, 1748 DR to Nov 02, 1748 DR*
 > *On Earth: Monday Sep 19, 2022*
-> *Jungle of Orekatu and the village of Bedez*
+> *[[Orekatu]]*
 
-Kenzo saves a lizardfolk named Elazar, learns of a land's spiritual crisis, and embarks on an enlightening spirit journey with newfound allies.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Spiritual Sojourn",
-  "tagline": "in which Kenzo aids and learns from the lizardfolk",
-  "summary": [
-    "Kenzo rescues Elazar, a lizardfolk, from dinosaur attack in the jungles of Orekatu.",
-    "Elazar reveals imbalance in the land's elemental and spiritual forces due to corruption.",
-    "Kenzo communes with hutsu plants, sensing a drain of spiritual energy in the jungle.",
-    "In Bedez village, Kenzo learns from Elazar and convinces the matriarch to seek answers.",
-    "Elazar guides Kenzo on a spirit journey, enhancing his spiritual senses and understanding."
-  ],
-  "short_summary": "Monk Kenzo embarks on a spiritual journey with the lizardfolk to uncover and address the elemental corruption in their land.",
-  "location": "Orekatu jungle and Bedez village"
-}
-```
-%%
+[[Kenzo]] saves a [[lizardfolk]] named [[Elazar]], learns of a land's spiritual crisis, and embarks on an enlightening spirit journey with newfound allies.
 ## Session Info
 ### Summary
-- Kenzo rescues Elazar from dinosaurs and learns of Orekatu's imbalance.
-- Elazar shares jungle lore and warns of elemental corruption and spiritual depletion.
-- Kenzo learns about ancient connections to other planes and the Azta Lekua.
-- Kenzo is taught by Elazar, convinces the matriarch, and is deemed ready for a spirit journey.
-- Kenzo undergoes a profound spirit journey, gaining a deeper understanding of ki.
+- [[Kenzo]] rescues [[Elazar]] from dinosaurs and learns of [[Orekatu]]'s imbalance.
+- [[Elazar]] shares jungle lore and warns of elemental corruption and spiritual depletion.
+- [[Kenzo]] learns about ancient connections to other planes and the [[Azta Lekua]].
+- [[Kenzo]] is taught by [[Elazar]],  and is deemed ready for a spirit journey.
+- [[Kenzo]] undergoes a profound spirit journey, gaining a deeper understanding of ki.
 
 ### Timeline
 - (DR::1748-09-30) afternoon: Arrive in the jungles far to the east; meet [[Elazar]]; travel to lizardfolk village of [[Bedez]]
