@@ -8,43 +8,26 @@ DR: 1748-09-30
 DR_end: 1748-10-03
 players: [Seeker]
 tagline: in which Seeker gambles with fate in the Feywild
-descTitle: Dice of Destiny
+descTitle: Court of Chance
 ---
 # Dunmari Frontier - Seeker Solo Session 1 (Prequel)
 
->[!info] Dice of Destiny: in which Seeker gambles with fate in the Feywild
+>[!info] Court of Chance: in which Seeker gambles with fate in the Feywild
 > *Featuring: [[Seeker]]*
 > *In Taelgar: Sep 30, 1748 DR to Oct 03, 1748 DR*
 > *On Earth: Monday Oct 24, 2022*
-> *Feywild, Fortune's Rest*
+> *[[Fortune's Rest]], [[Feywild]]*
 
-Seeker navigates the whimsical perils of the Feywild's Fortune's Rest, earning the Prince of Luck's favor through a daring dice game.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Court of Chance",
-  "tagline": "in which Seeker gambles with fate in the Feywild",
-  "summary": [
-    "Seeker arrives in the Feywild and is turned into a dragonfly by a pixie to meet the Prince of Luck.",
-    "At the Prince's casino-like court, Seeker avoids enchantments, experiences a game mishap, and is blinded by a magical flower.",
-    "Seeker's use of dispel magic attracts the Prince's attention, leading to a dice game where Seeker wins the Prince's favor.",
-    "Seeker agrees to help with a wild magic storm in exchange for permission to travel through Fortune's Rest."
-  ],
-  "short_summary": "Seeker gains the Prince of Luck's favor in the Feywild by gambling with magic and agrees to resolve a wild magic storm.",
-  "location": "Feywild"
-}
-```
-%%
+[[Seeker]] navigates the whimsical perils of the [[Feywild]]'s [[Fortune's Rest]], earning the [[Prince of Luck]]'s favor through a daring dice game.
 ## Session Info
-### Summary
-- - Seeker arrives in the Feywild, specifically the domain of Fortune's Rest, where flowers transform into butterflies.
-- - A pixie transforms Seeker into a dragonfly to bring him to the Prince of Luck's court, a vast casino.
-- - After some misfortune at the games, Seeker is blinded by a magical flower but dispels the effect.
-- - The Prince of Luck challenges Seeker to a dice game, which Seeker bravely attempts with his own magic dice.
-- - Seeker agrees to aid in resolving a wild magic storm for safe passage through the Prince's domain.
 
+***Seeker learns to speak Sylvan by the magic of the Chanceweaver's Court.***
+### Summary
+- [[Seeker]] arrives in the [[Feywild]], specifically the domain of [[Fortune's Rest]], where flowers transform into butterflies.
+- A pixie transforms [[Seeker]] into a dragonfly to bring him to the [[Prince of Luck]]'s court, a vast casino.
+- At the Prince's casino-like court, [[Seeker]] avoids enchantments, experiences a game mishap, and is blinded by a magical flower.
+- [[Seeker]]'s use of dispel magic attracts the Prince's attention, leading to a dice game where Seeker wins the Prince's favor.
+- [[Seeker]] agrees to help with a wild magic storm in exchange for permission to travel through [[Fortune's Rest]].
 ### Timeline
 - (DR::1748-09-30), afternoon:  [[Seeker]] arrives in the [[Feywild]] realm of Fortune’s Rest
 - **Afternoon, in the feywild**: [[Seeker]] travels to the [[Prince of Luck|Chanceweaver]]’s court; meets the [[Prince of Luck]]; agrees to investigate the wild magic storm in exchange for safe passage across the realm.

@@ -20,7 +20,7 @@ The dwarven kingdom of Ardith, once rich and prosperous and spreading from was o
 In the far south, south of Urlich, is Ardith, growing rich on trade with Drankor, and later with Dunmar, until at the end of the Great War they were driven from their homes and settled south, in the Yuvanti mountains, founding Nardith.
 %%
 
-%% notes - from Mike's email to his players in [[Ausson's Crossing Mini Series]]
+%% notes - from Mike's email to his players in Ausson's Crossing Mini Series
 The [[dwarves]] of Ardith made fantastic steel, carved gems and gold into jewelry fit for royalty, and made even rarer metals such as [[adamantine]] and [[mithril]] with secret dwarven arts. But then the [[Great War]] came, and all of Ardith was lost -- overrun with [[hobgoblins]], [[orcs]], [[giants]], mind flayers, and much much worse. Many of the [[dwarves]] died, and those that didn't (save a few, such as Roe) fled south to found the kingdom of [[Nardith]] in the [[Yuvanti Mountains]], hundreds of miles south of the campaign. Although some of the Nardikhun (as the [[dwarves]] of [[Nardith]] are now called) feel a calling to their lost home, most find the [[Yuvanti Mountains]] have been kind to them, and few wish to face the dangers of their lost home.
 
 And to be clear, the lost kingdom of Ardith is quite dangerous. It is a place with some significant degree of wealth - in the form of fully forged steel, weapons, and jewels, but mostly in open seams of ore with fantastically clever drains and ladders to make access to these deep and rich veins of ore possible.

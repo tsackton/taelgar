@@ -9,7 +9,7 @@ The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like sea
 The [[~Northern Continent~]], is surrounded by four major bodies of water, which largely define the boundaries of the known world:
 * To the west, the [[Endless Ocean]] stretches for thousands of miles of trackless oceans
 * To the south, along the south coast of [[Dunmar]], the [[Sea of Storms]] stretches south and west, to the shattered shores of the ancient, now sunken, continent of [[Hkar]]. What lies south of the Sea of Storms is not known: the remains of the [[~Southern Continent~]], a trackless [[~Southern Ocean~]], or something stranger and more mysterious? 
-* To the north is an icy, cold place where few travel, of frozen tundra and [[~Northern Boreal Forest~ 1|large forests]]. 
+* To the north is an icy, cold place where few travel, of frozen tundra and [[~Northern Boreal Forest~|large forests]]. 
 * To the east, the [[~Eastern Ocean~]] is separated from the [[Green Sea]] by the mysterious [[~Eastern Islands~]]. 
 
 The [[~Northern Continent~]] is marked by four major, continent scale features:

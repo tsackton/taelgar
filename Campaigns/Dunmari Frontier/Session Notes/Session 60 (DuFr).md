@@ -17,34 +17,18 @@ descTitle: Smoke and Secrets
 > *Featuring: [[Wellby]]*
 > *In Taelgar: Sep 30, 1748 DR to Oct 12, 1748 DR*
 > *On Earth: Friday Oct 14, 2022*
-> *aboard the Wave Dancer, Wahacha*
+> *Aboard the [[Wave Dancer]], [[Eastern Green Sea]]*
 
-Wellby helps a halfling ship escape pirates and learns of kidnapped kenku experts on the Feywild in Wahacha.
+[[Wellby]] helps a halfling ship escape pirates and learns of kidnapped [[kenku]] experts on the [[Feywild]] in [[Wahacha]].
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Fiery Escape",
-  "tagline": "in which Wellby aids the Wave Dancer's escape",
-  "summary": [
-    "Wellby teleports onto the Wave Dancer, fleeing hobgoblin pirates.",
-    "He uses the Raven Whistle to board the pirate ship and sets its sail on fire.",
-    "The Wave Dancer escapes thanks to Wellby's actions and a magical fog.",
-    "Wellby learns of various exotic locations while sailing to Wahacha.",
-    "Arriving in Wahacha, Wellby finds kenku informants kidnapped by raiders."
-  ],
-  "short_summary": "Wellby helps a halfling trader ship escape hobgoblin pirates and learns of a potential lead to the Feywild in Wahacha.",
-  "location": "on the Green Sea, Wahacha"
-}
-```
-%%
 ## Session Info
+
+***Wellby learns the Eastros trade language from the crew of the Wave Dancer.***
 ### Summary
-- Wellby teleports onto the 'Wave Dancer', evading hobgoblin pirates.
-- He sabotages the pirates' ship, allowing the 'Wave Dancer' to escape.
-- During the journey, Wellby hears stories of exotic cities and trades.
-- Wellby arrives in Wahacha, learning of kidnapped kenku knowledgeable about the Feywild.
+- [[Wellby]] teleports onto the [[Wave Dancer]], a halfling ship fleeing from hobgoblin pirates.
+- He sabotages the pirates' ship, allowing the [[Wave Dancer]] to escape.
+- During the journey, [[Wellby]] hears stories of exotic cities and trades.
+- Wellby arrives in [[Wahacha]], learning of kidnapped kenku knowledgeable about the [[Feywild]].
 
 ### Timeline
 - (DR:: 1748-09-30), afternoon: Land on the [[Wave Dancer]], which is in the midst of fleeing hobgoblin pirates. Help halflings escape in the night.

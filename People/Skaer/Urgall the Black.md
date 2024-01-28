@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person, dufr/met, dufr/major, status/unknown]
-displayDefaults: {startStatus: born, startPrefix: b., endPrefix: d., endStatus: died}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-22, type: fought and killed}
 name: Urgall

@@ -21,7 +21,7 @@ descTitle: Armbands of Entrapment
 [[Delwath]] discovers that Cha'mutte's shadow armbands are key to freeing the trapped [[Meswati]] and prepares to seek allies for his quest.
 ## Session Info
 
-***Delwath receives his Deno'qai [[Deno'qai Scale Mail|armor]] and  [[Deno'qai Lynx Shield|shield]]***
+***Delwath receives his Deno'qai [[Deno'qai Scale Mail|armor]] and  [[Deno'qai Lynx Shield|shield]], and learns to speak Deno'qai.***
 ### Summary
 - Delwath arrives at a Deno'qai camp and is taken to meet Chief [[Ninu]] in the [[Ko'zula village]].
 - [[Ninu]] shares the village's encounter with a deathless warlock and the story of [[Jotha]]'s disappearance.

@@ -1,6 +1,5 @@
 ---
 tags: [holiday, status/unknown]
-displayDefaults: {startStatus: created, startPrefix: created, endPrefix: destroyed, endStatus: destroyed}
 campaignInfo: []
 name: Aagirvala
 fc-date: {day: 30, month: 9, year: 1748}

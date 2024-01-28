@@ -1,1 +1,1 @@
-A placeholder for the eventual flashback scene of meeting the elven gardener in Orenlas.
+%% A placeholder for the eventual flashback scene of meeting the elven gardener in Orenlas. %%

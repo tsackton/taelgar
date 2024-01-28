@@ -20,24 +20,6 @@ descTitle: Echoes of the Great War
 
 [[Delwath]] and his companions confront hobgoblin traitors in a shadow realm and battle an undead warlock at the Battle of Ye'mote while freeing the last of the [[Meswati]].
 
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Shadow and Redemption",
-  "tagline": "In which Delwath confronts betrayal and frees the trapped",
-  "summary": [
-    "Delwath's party encounters the ghost of Zegron, a giant seeking vengeance against cowardly Hobgoblins in the shadow realm.",
-    "The party defeats the Hobgoblins and a one-armed wizard, leading to the discovery of Cha'mutte’s Shadow Armband.",
-    "They create a plan, successfully banishing Taraka and Delwath to the material plane, while trapping the Hobgoblin army.",
-    "At the Battle of Ye'mote, the party battles undead and destroys another armband, freeing spirits Midri and K'onisati.",
-    "Celebrations at Ko'zula village mark the end of the adventure, as Delwath bids farewell to companions Iascaire and Aristeae."
-  ],
-  "short_summary": "Delwath's party defeats traitorous Hobgoblins and undead, frees trapped spirits, and celebrates their victory before parting ways.",
-  "location": "Forest of Nightmares and the Yemo'te riverbank"
-}
-```
-%%
 ## Session Info
 ### Summary
 - [[Delwath]] and his companions meet [[Zegron]], the ghost of a giant, in the [[Forest of Nightmares]], and agree to fight hobgoblins  in a shadow realm.

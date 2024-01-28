@@ -17,35 +17,16 @@ descTitle: Healing Motua
 > *Featuring: [[Kenzo]], [[Izzarak]]*
 > *In Taelgar: Nov 06, 1748 DR to Nov 13, 1748 DR*
 > *On Earth: Wednesday Nov 09, 2022*
-> *Azta Lekua, Footprint of the Gods*
+> *[[Azta Lekua]]*
 
-Kenzo aids in healing Motua, freeing the jungle's spirit guardian and restoring harmony.
-
-%% Other Generations
-Generation 1
-```json
-{
-  "title": "Healing Motua",
-  "tagline": "in which Kenzo frees a guardian spirit",
-  "summary": [
-    "The party crosses a lava river and ventures into a flooded jungle.",
-    "Kenzo communes with an ancient tree and learns of Motua's corruption by a creature.",
-    "They meet Eleuha, a dryad, who reveals Motua's wounds and the importance of Lengau's children.",
-    "Kenzo heals Motua's spiritual wounds, freeing the spirit from necrotic chains.",
-    "Lengau, the jaguar spirit, thanks the party and plans to restore the jungle with Motua and Izzarak."
-  ],
-  "short_summary": "Kenzo aids the spirit guardian Motua by healing its spiritual wounds and encounters Lengau, the jungle's guardian, who plans to rejuvenate the jungle.",
-  "location": "Azta Lekua, Footprint of the Gods"
-}
-```
-%%
+[[Kenzo]] aids in healing [[Motua]], freeing the jungle's spirit guardian and restoring harmony.
 ## Session Info
 ### Summary
-- Kenzo crosses a lava river and communes with an ancient tree to learn about the jungle's afflictions.
-- The party discovers the troubles stem from Motua's ailment, linked to the spirit guardian Lengau's silence.
-- Kenzo heals Motua by entering their spiritual wounds and addressing the sorrows of trapped souls within.
-- Victory over the wounds releases Motua from necrotic chains, and Lengau returns to restore the jungle.
-- Izzarak chooses to stay in the jungle, and Kenzo departs to the Feywild to reunite with friends.
+- [[Kenzo]] and his companions cross a lava river and commune with an ancient tree to learn about the jungle's afflictions.
+- The party discovers the troubles stem from [[Motua]]'s ailment
+- [[Kenzo]] heals [[Motua]] by entering their spiritual wounds and addressing the sorrows of trapped souls within.
+- Victory over the wounds releases [[Motua]] from necrotic chains, and [[Lengau]] returns to restore the jungle.
+- [[Izzarak]] chooses to stay in the jungle, and [[Kenzo]] departs to the [[Feywild]] to reunite with friends.
 
 ### Timeline
 - (DR:: 1748-11-06): Speak with [[Somi-nai]]. Cross the lava river, and proceed to the flooded jungle. Commune with an ancient tree; find the dryad [[Eleuha]]; avoid a maelstrom whirlpool dragging everything it touches into an endless watery void; confront [[Motua]] and heal their wounds, freeing them of the bindings that weakened and sickened them; meet [[Lengau]], the jaguar spirit guardian of the jungle.
