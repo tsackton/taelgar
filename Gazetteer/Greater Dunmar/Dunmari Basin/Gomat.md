@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 campaignInfo: []
 name:
 typeOf: oasis
-partOf: Eastern Dunmar
+whereabouts: Eastern Dunmar
 aliases: [Gomat, Gomat Oasis]
 ---
 # Gomat

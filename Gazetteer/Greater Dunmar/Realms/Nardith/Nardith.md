@@ -4,7 +4,7 @@ tags: [place, status/needswork, status/unknown]
 campaignInfo: []
 name: Nardith
 typeOf: realm
-partOf: Yuvanti Mountains
+whereabouts: Yuvanti Mountains
 ancestry: dwarven
 ---
 # Nardith

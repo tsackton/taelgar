@@ -36,7 +36,7 @@ The [[Dunmar Fellowship]] battles werewolves at a fort ruin, uncovers cult plots
 
 
 ## Narrative
-We begin as the party wakes in the pre-dawn light to search for signs of werewolves. Heading back to the lair of the [[Fraternity of the Empty Moon]], the guards there report no disturbances. While all seems quiet, the party decides to exit through the secret tunnel, and perhaps investigate the ruins of the Drankorian fort near the weak point to [[Pandemonium]] on their way north. 
+We begin as the party wakes in the pre-dawn light to search for signs of werewolves. Heading back to the lair of the [[Fraternity of the Empty Moon]], the guards there report no disturbances. While all seems quiet, the party decides to exit through the secret tunnel, and perhaps investigate the ruins of the Drankorian fort near the [[extraplanar weak point]] to [[Pandemonium]] on their way north. 
 
 Traveling a few hours from the tunnel exit, with no sign of fresh tracks, they stop to magically spy on the ruins with clairvoyance before approaching any closer than a half-mile vantage point. With [[Seeker]]’s magical eye, the party sees the interior of the one occupied tower, partially ruined but with intact walls, for the most part. There are three people camped here: one is sleeping on a straw mat, one is keeping watch, and one, in ragged clothes and tied to a post with a long rope, is muttering inanities to himself. 
 

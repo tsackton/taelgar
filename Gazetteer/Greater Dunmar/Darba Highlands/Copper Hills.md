@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Copper Hills
 typeOf: line of hills
-partOf: Central Dunmar
+whereabouts: Central Dunmar
 ---
 # The Copper Hills
 >[!info]+ Information  

@@ -6,7 +6,7 @@ campaignInfo: []
 name: Bas Udda
 destroyed: 1748-04 #check date
 typeOf: village
-partOf: Eastern Dunmar
+whereabouts: Eastern Dunmar
 ---
 # The Bas Udda
 >[!info]+ Information

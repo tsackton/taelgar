@@ -4,7 +4,7 @@ tags: [place]
 displayDefaults: {defArt: ''}
 name: Eastern Dunmar
 typeOf: subregion
-partOf: Dunmar
+whereabouts: Dunmar
 ---
 # Eastern Dunmar
 >[!info]+ Information
