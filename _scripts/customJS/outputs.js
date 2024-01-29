@@ -113,12 +113,14 @@ class OutputHandler {
                 if (line && line.length > 0) output += "   :material-calendar: " + line + "  \n"
             }
 
-            if (metadata.whereabouts || metadata.partOf) {
+            if (hasPlaces) {
                 if (whereaboutsStrings.origin.trim()) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
                 if (whereaboutsStrings.home.trim()) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
             }
 
-            output += "</div>\n\n"
+            if (lineCount > 0) {
+                output += "</div>\n\n"
+            }
             return output
         }
 
@@ -176,14 +178,20 @@ class OutputHandler {
         }
 
         if (pageType == "person") {
+            let hasData = false
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
             output += "- :octicons-info-24:{ .lg .middle } __Biographical Information__\n\n"
-            if (typeOf && typeOf.length > 0) output += "    " + typeOf + "  \n"
+            if (typeOf && typeOf.length > 0) 
+            {
+                hasData = true
+                output += "    " + typeOf + "  \n"
+            }
 
             if (hasPageDates) {
                 let line = OutputHandler.outputPageDatedValue(fileName, metadata).split("\n")
                 for (let l of line) {
                     if (l.trim()) {
+                        hasData = true
                         output += "    " + l.trim() + "  \n"
                     }
                 }
@@ -192,11 +200,12 @@ class OutputHandler {
             let line = OutputHandler.outputAffiliations(fileName, metadata).split("\n")
             for (let l of line) {
                 if (l.trim()) {
+                    hasData = true
                     output += "    " + l.trim() + "  \n"
                 }
             }
 
-            output += "    { .bio }\n\n"
+            if (hasData) output += "    { .bio }\n\n"
 
             if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
                 if (whereaboutsStrings.origin.trim()) output += "    " + whereaboutsStrings.origin
@@ -382,7 +391,7 @@ class OutputHandler {
 
             homeOverrides = {
                 dateInfo: dateInfo
-            }    
+            }
         }
 
         if (whereabout.origin.location) {
@@ -398,7 +407,7 @@ class OutputHandler {
 
             originOverrides = {
                 dateInfo: dateInfo
-            }    
+            }
         }
 
         // origin string construction //
