@@ -1,18 +1,19 @@
 ---
-tags: [religion/mosnumena, background, status/unknown]
+tags: [religion/mosnumena, background, status/needswork/wip]
 name: Mos Numena
 aliases: [Eight Divines]
 ---
-
 # Mos Numena
 
-The practices and traditions associated with the worship of the Eight Divines are known, broadly, as Mos Numera, from the Drankorian for the Way of the Divine, although in common usage these worship traditions are usually just called ‘the Way’.
+The practices and traditions associated with the worship of the Eight Divines are known, broadly, as Mos Numera, from the Drankorian for the Way of the Divine.
 
-This tradition is a set of practices, rituals, and beliefs that have grown up aroun the worship of the Eight Divines, and broadly, follows several basic tenets:
+This tradition is a set of practices, rituals, and beliefs that have grown up around the worship of the Eight Divines, and broadly, follows several basic tenets:
 
 * The gods have a personal relationship with all, and priests are not the only source of prayer and blessing
 * Practices, places, and people who have been blessed in the past are more likely to be blessed in the future - and remembering the past blessings ensures this
 * The gods speak to humans in signs, riddles, and omens -- rarely are they clear
+
+Although there are eight named divines, they are best thought of archetypes - these are not deities with distinct personalities, feelings, and human emotions, but rather personifications are forces.
 
 The Eight Divines are:
 
@@ -26,8 +27,6 @@ The Eight Divines are:
 * [[The Wildling]] (genderless diety of nature and elements)
 
 
-
-
 %%copied from Google docs
 
 **
@@ -36,69 +35,11 @@ The Eight Divines are:
 
 While the eight divines are perceived and understood in somewhat different ways in different cultures, these eight divine beings form the core of the Mos Numena traditions.
 
-### The Mother
 
-The Mother is usually pictured as a motherly woman, of child-bearing age, sometimes depicted pregnant, and usually with long, flowing hair and white robes, sometimes with flowers in her hair. She is the Goddess of birth and fertility, healing and wisdom. She is usually associated with the spring, and the moon, and the virtue of peace. She watches over births, planting and harvest, and the sick.
 
   
 
-In mechanical terms, her clerics would usually be associated with the Life or Peace domain.
 
-### The Father
-
-The Father is usually depicted as an older man, usually seated, often in gray robes and with gray or white hair, sometimes holding a scepter or staff with a sun motif on the top. He is the God of order, light, and the sun. He is usually associated with summer, and the rising sun, and dawn, and the virtues of justice and fairness. He watches over the trials and judgment, the swearing of oaths, and government.
-
-  
-
-In mechanical terms, his clerics would usually be associated with the Light or Order domains.
-
-### The Warlord
-
-The Warlord is usually depicted as a man in his prime, armed and armored (the exact weapons vary among cultures), often mounted on a horse, usually strong. However, he is occasionally also depicted as a smith, working in his forge. He is the God of war, vengeance, smiths, iron, and the forge. He is associated with the heat of the day, and autumn, and the virtue of courage. He watches over battle and war, as well as crafters and especially smiths and metalworkers.
-
-  
-
-In mechanical terms, his clerics would usually be associated with the War or Forge domains.
-
-### The Night Queen
-
-The Night Queen is usually depicted as a pale woman, often of indeterminate age, often old. She is usually depicted wearing black robes, and with her face cloaked in shadow, often leaning on a cane. She is the Goddess of darkness, death, and sleep, especially associated with the transition from life to death, and the much rarer transition back to life again. She is the defender against undead and the unnatural extension of life, and associated with the night, and winter, and the virtue of compassion. She watches over funerals, and keeps the night safe.
-
-  
-
-In mechanical terms, her clerics would usually be associated with the Grave or Twilight domains.
-
-### The Sibyl
-
-The Sibyl is usually depicted as a young, beautiful woman, with striking features, carrying a wand, often associated with some elemental power. Sometimes she is depicted with a book instead of a wand. She is the Goddess of magic, song, knowledge, love, and beauty, associated with deep study and also obsession, with the passage of time and the cycles of the moon, and the virtue of love. She watches over marriage, and scholars, and acts of magic.
-
-  
-
-In mechanical terms, her clerics would usually be associated with the Knowledge or Arcana domains.
-
-### The Wanderer
-
-The Wanderer is usually depicted as a young man, dressed as a traveler or a merchant, in a cloak, with a walking staff or a scale. He is the God of travel, trade, and hospitality, and also strangers, outcasts, the downtrodden and those at the edge of society, by choice or birth. He is associated with the stars, and the virtues of charity and hospitality, and watches over journeys, markets, and inns.
-
-  
-
-In mechanical terms, his clerics would usually be associated with the Peace or Knowledge domains, or perhaps the Trickster domain.
-
-### The Wildling
-
-The Wildling is usually depicted as a child of indeterminate gender, but often with adult eyes and facial features, wearing robes of leaves or stone or fire, usually associated with one of the elements. They are the Divine of nature and the elements, of storms and weather, associated with the changing of the seasons, the elements, and the natural features of the land. They watch over mining, forestry, fishing, hunting, as well as the weather and safety from storms.
-
-  
-
-In mechanical terms, their clerics would usually be associated with the Tempest or Nature domain, or perhaps the Light domain.
-
-### The Wyrdling
-
-The Wyrdling is rarely depicted in human form, and is depicted in many ways. The most common are chaotic and natural in nature: an embodied storm, a whirlpool, sometimes a rainbow. But some depictions show the Wyrdling as a jester with two faces, one male and one female, happy and sad at the same time. They are the Divine of chaos, luck, chance, and fate, and are associated with prophecy, divination, dreams, and the virtue of hope. They watch over those taking risks or chances, as well as artists and poets, and those who are lost in their own minds.
-
-  
-
-In mechanical terms, their clerics would usually be associated with the Trickster or Tempest domain.
 
 ## Mos Numera
 
