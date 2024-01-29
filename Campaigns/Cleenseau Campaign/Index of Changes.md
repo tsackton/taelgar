@@ -1,12 +1,21 @@
 # Index of Changes
-This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign.
+This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### Jan 28, 2024
+* Updated some information about the funerary practices in [[Sembaran Funerary Traditions|Sembara]] and [[Tyrwinghan Funerary Traditions|Tyrwingha]]
+* Added some notes on [[Coinage of Sembara|Sembaran coinage]] as well as some house rules around [[House Rules#Wealth and Gold|weath and tracking gold]]
+* A flavor [[Story About Halfling Merchants]] that might help understand the vibe of halflings
 ### Jan 26, 2024
 * Added pages on [[Rinault Essford|Rinault's]] buddies: [[Harold Bybet]], [[Matteo Ausson]], [[Catherine de Brune]], and [[Geoffrey Save]]
 * Clarified some details on [[An Excerpt from On Creation and Destruction of Extra-Material Realms]]
 * Adding a page on [[Arnaud Ausson]], in whose house [[An Excerpt from On Creation and Destruction of Extra-Material Realms]] was found
 * Added a page for [[Greymalkin]]
-
 ### Jan 25, 2024
 * Updated [[Army Garrison of Cleenseau]], [[Conrad]], [[Balthazar]], [[Anselm]], and [[Eremon]] to reflect some in-game updates
 * Updated [[Isingue]] to add some relevant information
+### Pre-Jan 25, 2024
+* Important plot notes in [[Report on the Bogblight]], [[Stories of Tyrwingha for Profit]], [[Letter from the Oracle of the Red to the Mostreve Warlocks]], and [[An Excerpt from On Creation and Destruction of Extra-Material Realms]]
+* Background on the [[Cleenseau Region]], [[Cleenseau]], and the [[Manor of Cleenseau]]
+* Background (somewhat incomplete) on [[Sembara]]
+* Background (very incomplete) on [[Tyrwingha]]
+* Background (very incomplete) on [[Mos Numena]]
