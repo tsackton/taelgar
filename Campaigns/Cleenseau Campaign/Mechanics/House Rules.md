@@ -3,6 +3,9 @@
 ## Wealth and Gold
 
 Tracking small purchases and gold available at the individual gold piece level is not interesting. Instead, all player characters are assumed to have a small pool of accessible wealth that fluctuates over time. This is assumed to cover daily expenses, food, inns, and so on as well as small income, i.e. from performing or similar activities. In true need, a player can liquidate this wealth to gain 50 gold, but if that gold is spent wealth needs to be tracked on a daily level until that 50 gold is 'paid back'
+
+Additionally, for flavor, numerous monetary systems exist (for example [[Coinage of Sembara]], [[Dunmari Economy#Coins|Coins of Dunmar]], or [[Dwarven Coins]]). However, tracking the conversion of many different types in a realistic way is a lot of needless math, and it prevents making "interesting" monetary systems that are not easily decimalized, but which were common historically. Therefore to simplify tracking of wealth, although a treasure horde might be described as "a large pile of Sembaran royals from the reign of Bertram I", I will also give you a value in "gold pieces" for tracking, and prices will be stated in "gold pieces". The term "gold pieces" shouldn't be thought of as a specific number of actual coins, but a notation of wealth. After all we are playing Dungeons and Dragons not Treasure Hordes and Accountants. 
+
 ## Spells
 
 In order to simplify spell-casting, the following additional rules apply:

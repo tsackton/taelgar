@@ -65,6 +65,12 @@ In the Dunmari tradition, the first rite of death, the farewell to the body, mus
 
 The second rite of death happens later, often much later, as part of a communal ceremony. There is no strict time limit, but it must happen at least 10 days after death, and usually happens within a year of death. This is a ritual carried out in a temple, where candles are lit for each soul being celebrated, and the colors of the flames are interpreted as indicating the final disposition of the soul. This communal funeral is usually followed by a celebratory feast honoring the dead. As part of the ceremony, small mementos of each dead soul are often created as a way for those close to the dead person to keep the memory of their soul near.
 
+%%
+In the Dunmari tradition, the first rite of death is what helps the soul get to the Land of the Dead, but once there, the Dunmari gods will guide them, and the Dunmari typically trust to the gods and don’t believe that human intervention is necessary to ensure a soul makes the journey.   
+
+Unburied bodies, therefore, are a concern primarily because the soul may still be tied to the Material Plane, and have not actually made it to the Land of the Dead. Dunmari groups, such as the Order of the Awakened Soul, that have made it their mission to seek out the unburied dead do so primarily to ensure that no lost souls are stuck, wandering in Taelgar, unable to leave; this is especially so because it is believed that traumatic deaths are more likely to keep a soul stuck and unable to reach the Land of the Dead.
+%%
+
 ## Festivals
 
 ![[Dunmari Festivals]]

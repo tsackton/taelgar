@@ -16,6 +16,7 @@ Dunmar is not completely isolated from its neighbors. Although not a significant
 Trade from the Green Sea to the east usually comes via halfling caravans out of Sembara, that cross the passes of the Sentinels in season. 
 
 The message system is largely extinct now, but fast messages still run from Askandi -~ Tokra -~ Songara, and Nayahar -~ Darba -~ Tokra; the latter is more efficient as it still has full official support and stocked waystations
+
 ### Coins
 
 Coins are not commonly used in the current day in Eastern Dunmar, as much trade is conducted in barter and in kind. Coins are minted in Nayahar, however, and these are in occasional use in the east.
@@ -32,7 +33,7 @@ Taams = 1 cp
 (may change these values; 1 steed = 5 rupas = 400 taams, so 1 rupa = 80 taams)
 %%
   
-Dwarven coins are in common usage in Dunmar as well, as ar dwarven trade bars, stamped with a known weight of silver or gold, which are commonly used for large transactions.
+[[Dwarven coins]] are in common usage in Dunmar as well, as are dwarven trade bars, stamped with a known weight of silver or gold, which are commonly used for large transactions.
 
 ## Land Ownership
 
