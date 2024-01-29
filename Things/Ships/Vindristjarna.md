@@ -12,7 +12,9 @@ whereabouts:
 - {type: away, start: 1749-01-15, end: 1749-01-16, location: Orenlas}
 - {type: away, start: 1749-01-17, end: 1749-01-19, location: traveling to Xurkhaz}
 - {type: away, start: 1749-01-20, end: 1749-01-24, location: Uzgukhar}
-- {type: away, start: 1749-01-25, end: 1749-01-30, location: Nashtkar}
+- {type: away, start: 1749-01-25, end: 1749-01-30, location: Nashtkar} #add session 90 travel
+- {type: away, start: 1749-03-13, end: 1749-03-16, location: Vostok}
+- {type: away, start: 1749-03-17, end: 1749-03-18, location: Sivnjo Mountains}
 rarity: unique
 typeOf: vehicle
 typeOfAlias: skyship

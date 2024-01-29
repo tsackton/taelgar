@@ -1,12 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place]
 name: Douren
 typeOf: river
 whereabouts: Istaros Watershed
 aliases: [River Douren, Douren River]
 ---
-%% Tim: Just setting status/tim in case there is anything you want to change/correct %%
 # Douren
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`

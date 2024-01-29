@@ -6,7 +6,7 @@ name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
 ---
 
-# The Drankorian Conquest
+## The Drankorian Conquest
 DR 300 - DR 431
 
 ### Overview
@@ -20,7 +20,7 @@ Over a series of start-and-start campaigns over 60 years, the Drankorian armies 
 * (DR:: 423): [[Goristo]] signs the [[Treaty of Tyrwingha]] with [[Archfey Ethlenn|Ethlenn]]
 * (DR:: 468): The Drankorian [[Highland Conquest Wars]] end with a tactical retreat by Drankor
 
-# The Drankorian Age
+## The Drankorian Age
 DR 431 - DR 1059
 ### Overview
 By DR 431, when the Drankorian army retreated from [[Zimkova]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]], as well as the lowlands east of the [[Braebein]] and the lowland valleys of the [[Teft]] and [[Volta]]. The borders of the modern duchies of Telham and Arnsbury still trace to the farthest extent of the Drankorian conquest, as does the borders of Ardlas. 
@@ -29,14 +29,14 @@ The Drankorians brought modern roads, improved agricultural techniques, and a ne
 
 In the highlands, the [[Zimkova|Zimka]] kept the old ways, although along the borders with Drankor Mos Numena and Drankorian culture spread. 
 
-# The Plague Years
+## The Plague Years
 DR 1059 - DR 1250
 ### Overview
 In DR 1059, the [[Great Plague]] came and the Drankorian Empire collapsed. Little information survives from these years, and it was a time of much hardship, especially amongst the more populous lowland regions, where famine struck repeatedly. This was a dark time.
 ###
 * (DR:: 1142): [[Adrian]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]]
 
-# The Six Duchies
+## The Six Duchies
 DR 1250 - DR 1400
 ### Overview
 By DR 1250, a number of lords, mostly calling themselves dukes, had established themselves across the lands once ruled by Drankor. In the lowland coastal regions, the six duchies that later would form the heartlands of Sembara had been established: [[Duchy of Sembara|Sembara]], [[Duchy of Cheimen|Cheimen]], [[Duchy of Wisford|Wisford]], [[Duchy of Seham|Seham]], [[Duchy of Telham|Telham]], and [[Duchy of Arnsbury|Arnsbury]]. Further east and south, [[Tyrwingha]] had emerged from the chaos under the leadership of the [[Oracle of the Riven]] and [[Archfey Ethlenn]]. And to the west, two border duchies had emerged: [[Marches of Brovna|Brovna]], at the headwaters of the [[Wistel]] around [[Urlich Pass]], and [[Ardlas]], along the south banks of the [[Semb]], centered around [[~LakeDerwentCity~]],  the great trading city on [[Lake Derwent]]. 
@@ -61,7 +61,7 @@ The intention is that in 1400, there is broadly:
 * The core Sembaran duchies
 %%
 
-# The Unification
+## The Unification
 DR 1400 - DR 1462, 7 Dominick IV - 34 Derik I
 ### Overview
 By the 1400s, a number of regional powers had started to emerge on the borders of [[Sembara]]. In the northwest, from the broad lands of [[Zimkova]], the realm of [[Lavnoch]] has emerged from the collapse of the short lived [[Zimkova|Unifed Crown of Zimkova]]. 
@@ -120,7 +120,7 @@ In the fall of 1429, the Treaty of [[Valarin]] (a small town in the “gap” in
 %%
 
 
-# The Great War
+## The Great War
 DR 1462 - DR 1545; 1 Derik II - 26 Derik III
 
 The reign of [[Derik II]] is relatively uneventful, and the traditions and formalities of the realm are established and propagated in this time. The borders to the south, with the [[Istabor Alliance]], and the north, with the fractured fiefdoms of [[Vostok]], are uneventful, and trading relationships with [[Cymea]], [[Tollen]], and the rest of the eastern [[Green Sea]] grow during this time. 
@@ -135,7 +135,7 @@ Several times the dwarves send diplomatic missions to Sembara, asking the king t
 
 After his defeat as the hidden puppet master of [[Dominion of Avatus]], [[Cha'mutte]] has turned his attention north, where far across the [[Sentinel Range]] he is growing an empire. Still maintaining footholds in the southern [[Sentinel Range]] where several loyal hobgoblin tribes attempt to prevent the consolidation of the [[Istabor Alliance]] into a united front, he has turned his attention to a move from the north, through the empty northern steppes. Still working through proxies, and not ready to show himself yet, he summoned one of his dragonspawn, the ancient white dragon Vimfrost, and set him to gather allies across the northern plains -- orcs, monstrosities, ogres, and trolls -- and set upon Vostok and Zimkova from the north. 
 
-%%% Needs thought 
+%% Needs thought 
 At the same time, a group of religious fanatics worshipping the children of [[Vacla]]  began to establish themselves in [[Zovcka]] and the Volta borderlands in Vostok, taking control of [[Zovcka]] and persecuting followers of the Eightfold Way.  
 %%
 
@@ -153,7 +153,7 @@ In DR 1523, shortly after Derik III comes to the throne, he finally launches a c
 By DR 1525, Derik III is at least nominally acknowledged as the overlord and high king of all the land from the southern highlands to the northern wall, from [[Sentinel Range]] to the [[Western Gulf]].  In DR 1533, now several years a widower, Derik III marries Jane, the young daughter of an important merchant family in Tollen. 
 
 Over the next 20 years, Sembara remains a strong and united kingdom as various conflicts spread along its borders, culminating in the [[Great War]].
-# The Blood Years
+## The Blood Years
 DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 
 ### Overview
@@ -183,7 +183,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1565): [[Blanche I]] departs on her [[Grand Ambassadorship of Blanche I]] to the [[Green Sea]]
 - (DR:: 1566): [[Blanche I]] returns from her grand tour, and starts to show significant favoritism to her sister [[Elaine I]]
 - (DR:: 1568): The [[Interregum of 1568]]. [[Wisym I]] appointed King.
-# The Hobgoblin Wars
+## The Hobgoblin Wars
 DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 
 - (DR:: 1574): The [[First Hobgoblin War (Sembara)|First Hobgoblin War]] begins. 
@@ -214,13 +214,13 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1649), summer: [[The Maseau Campaign]] pushes the [[Shattered Ice Clan]] west of [[Duchy of Maseau|Maseau]], into the foothills of the [[Sentinel Range]] and the [[Marches of Enford]]
 - (DR:: 1650), summer: [[The Enford Campaign]] pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst]] and establishes a strong garrison at [[Enford]]
 - (DR:: 1653): The [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] ends
-# The Peace of Cece
+## The Peace of Cece
 DR 1650 - DR 1713; 2 Cece I - 65 Cece 1
 ### Overview
 In the autumn of 1650, after three summers of campaigning, the [[Shattered Ice Clan]] has been cleansed from the land. Three years prior, a hobgoblin dominion stretched in the Enst valley, from the [[Sentinel Range]] to the headwaters of the Aure in Addermarch, and even northwards into the Barony of Varbonne. It is now gone, although people have only slowly started returning to the war-torn lands.
 
 The reign of [[Cece I]] is a time of peace and prosperity. The borders are secure, trade is growing, and Sembara's relations with its neighbors are friendly, and the hobgoblin threat, although not entirely gone, is isolated to [[Western Marches|the Western Marches]]. 
-# Recent Events
+## Recent Events
 Since DR 1713 (1 Robert I)
 
 - (DR:: 1713): [[Cece I]] dies. In Sembara, Robert I is crowned king, but the [[Oracle of the Riven]] [[The Election of Elaine II|elects]] his cousin, [[Elaine II]] the Queen of [[Tyrwingha]]
