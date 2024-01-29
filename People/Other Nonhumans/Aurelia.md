@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-30, type: met}
 name: Aurelia
@@ -11,7 +11,6 @@ gender: female
 whereabouts:
 - {type: home, start: 1733, location: Tollen}
 ---
-%% Status tag: seems complete; leaving Tim in case you have notes or other info to incorporate %%
 # Aurelia
 >[!info]+ Biographical Info  
 > A [[Centaurs|centaur]] (she/her)  

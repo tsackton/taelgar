@@ -1,11 +1,15 @@
 ---
-tags: [background, status/tim]
+tags: [background, status/mike]
 ---
 # Human Funerary Traditions
 
 Human funeral traditions are somewhat varied, but are all rooted in a number of metaphysical truths. When a human dies their soul fades quickly from the [[Plane of Souls]], but does not immediately disappear into nothingness, nor immediately gain everlasting life in some outer realm.
 
+%%this is true of all natives to the material plane, not just humans. unclear what happens to the souls of those not native to the material plane - in some cases, but not all cases, they simply are reborn on their native plane%%
+
 Instead, most souls drift towards the [[Land of the Dead]], a mysterious realm with many different names and descriptions. From the [[Land of the Dead]], many souls find their way to some outer realm, of a god, or perhaps the Nine Hells or Arborea or stranger realms. Those not claimed by a god, or similar power, eventually fade away into nothingness, becoming part of the essence of the place itself. This journey across the Land of the Dead is usually thought to take about a week, although some cross it faster, or slower, and souls that are lost can linger much longer, it is thought. What happens to those souls who never leave the Land of the Dead is a mystery, although many theories persist: some believe they fade away; others believe they are stuck forever, in a kind of limbo. Many cultures believe the Land of the Dead to be dangerous, a place best crossed quickly, and many human funerary rituals developed to help souls cross the Land of the Dead. Other cultures are more concerned with the transition from Taelgar to the Land of the Dead. But all cultures know that the gods shepherd souls in some fashion, and that human actions can help - or hinder - a soul's journey. 
+
+%%some cultures are might be aware of the [[Gidari]], the soul shepherds, who are tasked (by who, no one knows) with guiding souls safely through the land of the dead. metaphysically, they enforce rules, and are the ones who prevent, say, demon lords from just camping out in the land of the dead and consuming souls as they flow past. some humans might see them as celestials, representatives of the gods, although in reality they are not exactly that%%
 
 Those souls which do not enter the Land of the Dead become stuck on the [[Material Plane]], perhaps becoming ghosts.
 

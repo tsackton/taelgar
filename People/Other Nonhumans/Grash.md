@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 displayDefaults: {endStatus: "killed"}
 campaignInfo:
 - {campaign: DuFr, type: scryed, date: 1748-12-28}
@@ -18,7 +18,6 @@ whereabouts:
 - {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
 - {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
 ---
-%% Tim: Not sure if you want to flip the status to needswork or accept this page is good enough. I didn't set the active year but if you happen to have a canonical year grash appeared of course you could set it %%
 # Grash
 >[!info]+ Biographical Info
 > A skeletal [[Undead|undead]], he/him
