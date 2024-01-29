@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim]
+tags: [background]
 ---
 ## Land Ownership in Sembara
 
@@ -8,7 +8,7 @@ Land ownership in Sembara is based on a semi-feudal system where the noble peers
 * *crownland* is land ultimately under the stewardship of a sovereign, either a duke or the monarch. New crownland is created by conquest, or in the aftermath of disaster, when a sovereign simply declares that some land is now theirs. Although most crownland is not actually held by the sovereign, in certain circumstances it reverts to the sovereign
 * *folkland* on the other hand is land held by ancient right of occupation and improvement
 
-Substantially all of the land within the six duchies of Sembara is crownland, and after the disruptions of the Great War and the Blood Years, various parts of western and southern Sembara have become crownland. The major areas where folkland is still common is in the highland regions west and north of the duchies of Arnsbury, Chemin, and Telham. Many lizardfolk settlements are also folkland, but not all, and scattered pieces of folkland exist through the kingdom, mostly from ancient dwarven communities, but sometimes for other reasons. A longstanding halfling inn, for example, may be folkland (although the halflings may not care about the distinction in practice).
+Substantially all of the land within the six duchies of Sembara is crownland, and after the disruptions of the Great War and the Blood Years, various parts of western and southern Sembara have become crownland. The major areas where folkland is still common is in the highland regions west and north of the duchies of Arnsbury, Chemin, and Telham, and scattered pieces of folkland exist through the kingdom, mostly from ancient non-human communities, but sometimes for other reasons. A longstanding halfling inn, for example, may be folkland (although the halflings may not care about the distinction in practice).
 
 Although numerous parts, especially of western Sembara, are unimproved and unsettled crownland, the vast majority of settled land is held within a manor, which is the basic unit of  land organization. Within the manorial village, the agricultural land is controlled by the lord, or in some cases, a castellan for baron or duke. Arranged in open field systems, each commoner family controls one or more long strips of land, and has rights to the common woodlots and pasture. The legal arrangements between commoners and lords are complex but there are three main models:  
 
@@ -37,7 +37,7 @@ A number of cities within Sembara are not part of the manorial system and have a
 ## Non Humans
 For the most part, non-humans hold land just like anyone else in Sembara (although see [[Taxes in Sembara]] for some distinctions around what sorts of property taxes they might pay). However, non-humans are much more likely to preserve land as folkland than humans. Close knit and largely independent communities of dwarves or lizardfolk, either in a specific quarter of a city or outside a city in their own village, are well equipped to keep land in the community under their own rules. Many dwarven communities predate the realm of Sembara entirely, and have held their land since unknown times. 
 
-Lizardfolk in particular believe strongly in the idea that the land belongs to those who improve and use it, and consider all of their own land folkland, regardless of legal status. It is relatively common for Sembaran nobility to negioate land transfers to lizardfolk which involve the alienation of crownland and it legally reverting to folkland (although these transactions officially need the acquiescence of the ducal or sovereign court, facts on the ground sometimes move faster than legal processes).
+Lizardfolk in particular believe strongly in the idea that the land belongs to those who improve and use it, and consider all of their own land folkland, regardless of legal status. It is relatively common for Sembaran nobility to negotiate land transfers to lizardfolk which involve the alienation of crownland and it legally reverting to folkland (although these transactions officially need the acquiescence of the ducal or sovereign court, facts on the ground sometimes move faster than legal processes).
 
 Some lizardfolk believe that building a road through a wilderness, or establishing a timber town, or even defending a border, does not make all the untouched land near the road, the forest, or the border crownland. In these cases, conflict arises at times when lizardfolk settle on crownland and call it their own without any acknowledgement from the sovereign owner of the land. However, not all lizardfolk believe these.
 

@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim]
+tags: [background]
 ---
 # Taxes in Sembara
 
@@ -83,6 +83,17 @@ Halfling property owners are legally obligated to pay the hearth tax and other p
 
 Halflings pay gifts to lords at their whim.
 ### Other Species
+
+%% 
+I think the one thing that might be missing here is the sense that unusual species or creatures would almost always be seen as either a great boon or a great danger - it is rarely a neutral thing if a fey decides to settle on your manor for some reason. 
+
+I think this creates a situation where unusual people really exist kind of outside the law. If some kind of fey shows up and makes a home in your woodlot, you don't handle that via any kind of legal mechanism. Either the benefits they bring are worth putting up with the hassle of whatever they demand, or not, in which case you hire some adventurers to deal with it or push it up the feudal chain of obligation. 
+
+But it isn't really about the law. A hag that is rigorously following the letter of the law may still be a huge danger you need to get rid of, and a band of satyrs that decided to show up and hold an endless party may, despite utterly ignoring the very concept of law, may revitalize the fortunes of a declining village. 
+
+The text below does capture this in practice, but maybe doesn't quite capture the vibe of the difference between, e.g. a kenku from Tollen that decides to settle in Embry (where they would basically just follow human rules as part of the community), and e.g. a dryad that decides to move into your orchard for some reason. There are some non-humans that are intentionally part of the manor/village/town whatever, and some non-humans that are explicitly not part of the manor/village/town and may not even really recognize it as a meaningful entity. The former you handle with discretion, but within the framework of the law. The latter you just hope to benefit from, or survive. It would be an unusually brave and foolhardy lord who would send tax collectors to a hag's hut to recover the hearth tax. Although, that could also be a fun hook for an adventure.
+%%
+
 Of course, there is a wide variety of species on Taelgar, beyond dwarves, halflings, and lizardfolk. But they are all rare enough that there are no formal rules. Some general guidelines, though:
 
 * Property taxes (deca, nonem, hearth tax) generally applies to anyone occupying property, but there is legal precedent for the idea of effectively pretending like some land is folkland even when it isn't

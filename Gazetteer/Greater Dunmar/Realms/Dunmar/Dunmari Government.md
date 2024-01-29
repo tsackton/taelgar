@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim]
+tags: [background]
 ---
 
 # Government of Dunmar
@@ -36,7 +36,7 @@ Second, each temple district owes service to the gods (in practice, to the Samra
 
 The mystery cults exist outside this system. Mystai, as initiates of these cults are called, are freed from obligation to tithe or service, and the mystery cults themselves do not owe tithe to the Samraat. 
 
-Formally, everyone who uses the land (excepting Mystai) owes the tithe, and even non-Dunmari living in Dunmar are expected to make donations to the local temple. But service obligations accrue only to Dunmari citizens. 
+Formally, everyone who uses the land (excepting Mystai) owes the tithe, and even non-Dunmari living in Dunmar are expected to make donations to the local temple. But service obligations accrue only to Dunmari citizens, that is, followers of the Dunmari faith. 
 ### Duties of the Samraat
 
 With these revenues, the Samraat and temples fulfill the promises of the gods to the people: that they will be safe on the land of the Dumari, that they will prosper and thrive. In practice, this means the Samraat is responsible for the defense of the land, improvements to the land such as road building and fortification, the provision of wayhouses and stables for messengers and travelers, and foreign relations.
