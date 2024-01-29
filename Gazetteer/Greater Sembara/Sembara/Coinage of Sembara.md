@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim]
+tags: [background]
 ---
 ## Coinage in Sembara
 

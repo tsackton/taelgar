@@ -14,7 +14,7 @@ The Drankorian Empire was a vast, continent-spanning empire that stretched from 
 The Drankorian Empire grew out of the city of Drankor, founded near the mouth of the [[Istaros|Aistanë]] river, largely by refugees fleeing the destruction of Hkar. From this base, the Drankorians quickly came to rule over the fertile plains along the coast, and the Crescara river valley. In Drankorian reckoning, which dates to the founding of Drankor in 4133 by the dwarven count of years, the following major events summarize the history of Drankor (taken from Cavarrio's Chronicles of Drankor.):
 
 - (DR:: 1): The city of [[Drankor]] is founded by refugees from [[Hkar]] fleeing the wars of [[The Downfall]]
-- (DR:: 169): Celadir is proclaimed the first Emperor of [[Drankor]], laying claim to the coastal plains and the rich Crescara river valley.
+- (DR:: 169): Celadir is proclaimed the first Emperor of [[Drankor]], laying claim to the coastal plains and the rich Isatros river valley.
 - (DR::402): The [[Treaty of Marhavn]] is signed by Emperor Goristo, and establishes the Volta as the northern border of the Drankorian Empire; the Skaer and other descendants of the ancient mariner cultures living in what is now Sembara and Cymea are imperial subjects.
 - (DR:: 525) - (DR_end:: 528): The Demonfire Wars, fought against a severe abyssal incursion. Emperor Ingwelir, a renowned wizard and warrior, died at the gates of Drankor defending the city against a demon lord. 
 - (DR:: 528) - (DR_end:: 595): The Peace of Drankor, a time of peace and prosperity in the aftermath of the Demonfire Wars. Ended by the fratricide of Oros the Cruel. Later known as the First Peace or the First Golden Age. 
@@ -26,7 +26,9 @@ The Drankorian Empire grew out of the city of Drankor, founded near the mouth of
 - (DR:: 1001) - (DR_end:: 1013): The Dominion Wars, a series of attempted conquests to the east
 - (DR:: 1059): The destruction of [[Drankor]] by the Plague Mist
 
-Cavarrio's Chronicles of Drankor also records the line of emperors of Drankor, as follows: 
+## Rulers
+
+The emperors of Drankor, starting with the rule of Celadir, who was the first to proclaim the Drankorian Empire. 
 
 | Emperor                    | species/ancestry | notes                                                                                                       | rule start | rule end |
 | -------------------------- | ---------------- | ----------------------------------------------------------------------------------------------------------- | ---------- | -------- |
@@ -57,7 +59,7 @@ Cavarrio's Chronicles of Drankor also records the line of emperors of Drankor, a
 | Alador the Elf Friend (m)  | Hkar             | strong ruler                                                                                                | 855        | 879      |
 | Imrodel (f)                | Peronar          | her daugher Tariele died young and never ruled; historians mark this as beginning of end of Golden Age      | 879        | 934      |
 | Letusas the Quiet (f)      | Hkar             | weak ruler                                                                                                  | 934        | 936      |
-| Eiphis the Blind (m)       | Hkar             | came to the throne late in life                                                                             | 936        | 943      |
+| Eiphis the Blind (m)       | Hkar             | came to the throne late in life; founded University of Chardon                                                                             | 936        | 943      |
 | Helea (f)                  | Non-Hkar         | killed by [[Omnis Pura]] to start civil war                                                                     | 943        | 965      |
 | Ysabel (f)                 | Non-Hkar         | ally of Helea; defeated in civil war; known as the Pretender in later years                                 | 965        | 971      |
 | Vestian (m)                | Hkar             | won civil war against Helea faction; associated with [[Omnis Pura]]                                             | 965        | 980      |
