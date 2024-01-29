@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo: [{campaign: DuFr, person: Delwath, date: 1748-10-25, type: visited }]
 name: Safri
 born:
@@ -10,7 +10,6 @@ gender: female
 whereabouts:
 - {type: away, start: 1748-10-25, linkText: in the forest valleys of, location: Sentinel Range}
 ---
-%% Tim - I cleaned up a bit, not sure if you have more notes here or whether the rest is intentionally mysterious %%
 # Safri
 >[!info]+ Biographical Info  
 > A [[Deno'qai]] [[Humans|human]] (she/her)  
