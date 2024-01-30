@@ -20,8 +20,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% fix away whereabouts %%
-
-A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
+![[amil-v1.png|right|400]]A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
 
 %%SECRET[1]%%
 ## Events
