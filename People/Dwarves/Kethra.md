@@ -20,5 +20,6 @@ born: 1701
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
- 
+![[kethra-final-option1.png|right|400]]Kethra Silverspark, great-grandaughter of  [[Nora Silverspark]]
+
 %%SECRET[1]%%
