@@ -20,6 +20,6 @@ born: 1701
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[kethra-final-option1.png|right|400]]Kethra Silverspark, great-grandaughter of  [[Nora Silverspark]]
+![[kethra-final-option1.png|right|400]]Kethra Silverspark, great-grandaughter of [[Nora Silverspark]], is a proud dwarven smith and novice adventurer from [[Tharn Todor]]. 
 
-%%SECRET[1]%%
+Inspired by the tales of [[Riswynn]]'s heroic adventures in returning the [[Chalice of the Runepriest]] and putting to rest the ghosts of [[Nora Silverspark]] and [[Hagrim]], among others, she decided to leave home and put herself in Riswynn's service. 

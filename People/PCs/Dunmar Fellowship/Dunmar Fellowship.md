@@ -35,6 +35,21 @@ The group was reunited on Nov 15 1748 in Dunmar.
 
 ## Followers and Hirelings
 
+<div class="grid cards" markdown>
+
+-   [[Faldrak Bronzehammer]]
+
+    ---
+![[faldrak-portrait-1.png]]
+
+-  [[Kethra|Kethra Silverspark]]
+
+    ---
+
+![[kethra-final-option1.png]]
+
+</div>
+
 The Dunmar Fellowship has acquired a number of followers, hirelings, and traveling companions, including:
 
 - [[Faldrak Bronzehammer]], a Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain. Based on Vindristjarna. 
@@ -43,6 +58,8 @@ The Dunmar Fellowship has acquired a number of followers, hirelings, and traveli
 - [[Egnir|Égnir]] (AY-nyeer), a quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Based on Vindristjarna. 
 - [[Nuzkar]] and [[Aygul]], orcs and twin sisters. Nuzkar is an archivist and loremaster; Aygul a brawler who helps in the training rooms.
 - [[Kethra|Kethra Silverspark]], a dwarven smith and Riswynn's mentee. 
+- [[Kecha]], a kenku scout guiding the party to Ursk
+- (unnamed mapmaker recruited in Tollen)
 
 %% 
 Future recruits:
