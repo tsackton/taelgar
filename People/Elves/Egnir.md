@@ -8,3 +8,4 @@ species: elf
 # Égnir
 
 
+![[egnir.png]]

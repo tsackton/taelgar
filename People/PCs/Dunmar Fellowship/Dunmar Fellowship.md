@@ -40,13 +40,13 @@ The group was reunited on Nov 15 1748 in Dunmar.
 -   [[Faldrak Bronzehammer]]
 
     ---
-![[faldrak-portrait-1.png]]
+    ![[faldrak-portrait-1.png]]
 
 -  [[Kethra|Kethra Silverspark]]
 
     ---
 
-![[kethra-final-option1.png]]
+    ![[kethra-final-option1.png]]
 
 </div>
 
