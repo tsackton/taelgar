@@ -11,6 +11,6 @@ name: Kecha
 > A [[Kenku|kenku]] (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A young kenku scout. 
+A young kenku scout. ![[kecha-portrait-final.png|right|400]]
 
 %%SECRET[1]%%
