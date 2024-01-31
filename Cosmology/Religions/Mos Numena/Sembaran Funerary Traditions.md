@@ -1,28 +1,32 @@
-%%
+---
+tags: [religion/mosnumena, status/tim, background]
+---
+# Sembaran Funerary Traditions
 
-## Sembara
-In Sembara, the cultural inheritance from the kestavan tradition has resulted in a strong cultural attachment to burial, although the Drankorian Mos Numena tradition ties the burial to the end of the ten day period of watchfulness, rather than the beginning.
+The funerary traditions in [[Sembara]] are heavily derived from the ancient [[Drankorian Funeral Traditions]], but also inspired in part by the [[Kestavan Funerary Traditions|kestavo religion]] that has been present in the [[Semb]] river valley for eons. 
 
-So the Sembaran funeral tradition begins with preparing the body, usually embalming it, which is one of the key responsibilities of the temple system. This is followed by a series of prayers and rituals to the 
+The Sembaran tradition, like the Drankorian tradition, is much more concerned with the journey of the soul through the [[Land of the Dead]]. The divines of [[Mos Numena]] are seen as granted the miracle of the Gathering of the Soul to all, as a birthright of the human condition, and the counterpart to the miracle of the Gifting of the Soul, at birth.
 
-and a series of prayers and rituals to invite the divines to open a door for the soul into their realm. For the next ten days, the soul is on a journey towards this open door. This journey is often seen as dangerous, and although there are both ritual activities and private grief during this period, no public funerary events take place until ten days have passed. The most important ritual is during the first day after death, to guide the transition into the Land of the Dead. The rest of the ritual experience during the ten-day is largely about supporting those still living through their grief and the added challenges of having to wait for the soul to make this transition through the Land of the Dead. But these religious events are seen as private, and often between the grievers and the gods, directly.
+Thus human prayer and ritual is not seen as important to ensure the soul makes it to the Land of the Dead. However, in the Sembaran tradition, the divines are not the wayfarers and guides of each individual soul, as the kestavo are in the Zimka tradition. It is up to the soul itself, and the strength granted to it by human prayers, and the attention of the divines brought about by human remembrance, that ensures the soul will cross the dangerous pathways of the Land of the Dead and arrive in the mysterious outer realms of the divines. 
 
-comment
-This should probably be true for all Mos Numena traditions
+Each divine is clearly imagined to have its own outer realm, but Sembaran tradition shies away from describing what the realm of the Wildling, or the Wanderer, or any other specific divine would be like, and these realms are held to be a sacred mystery, blasphemous to explore in detail. 
 
-This would also be the crucial ritual to perform for lost bodies, missing in action, etc, with variations depending on the certainty of death.
+%% Not sure about the blasphemy detail, but it feels like a nice color commentary that would also help tie into the Sembaran dislike of arcana magic. There should also be some space for religious controversy in Taelgar, so "minor" details that the gods themselves might not care or be able to adjudicate about seems worth sprinkling in. %%
 
-  
+The Sembaran tradition is thus focused on the preparation of the body, and most importantly, the watching over of the body for the ten days of the journey through the Land of the Dead. During this ceremonial period the family of the deceased mourns, and often retreats from society for private reflection and grief. It is customary to visit the mourners during this time, usually bringing food or other small tokens, although the kestavan cultural taboo over public remembrances of the dead still holds sway. It is also customary for public prayers, often quite elaborate, for the wealthy, to be held, usually stylized and ritualized, praying for the intercession of the divine to guide the soul's journey to the afterlife. 
 
-Burial in the churchyard is seen as helping the soul on its journey, and so often the burial takes place, quietly and with few mourners during the ten-day, and then the funerary rite and remembrance of the dead takes place at the grave site, but not as part of the burial itself, after the ten days have passed.
+Once this ceremonial period has completed, the body is usually buried with a ceremony of homecoming, where the life of the deceased is celebrated and their reunion with the divine is proclaimed. After the ceremony of homecoming, the body is usually buried in a sacred space, as a physical symbol of the reunion of the soul with the divine. However, this does not always take the form of interment, and especially in cities and the eastern parts of the Sembara, where the ancient Drankorian influence was strongest, cremation is popular. The ashes are usually interned in a temple. Less often, the bodies are interned in individual or communal crypts. Only in the small villages are graveyards of the kestavan style, in the temple yard, often seen. Burial outside of holy ground is rare and largely seen as dangerous (although, of course, it is not always possible to bury everyone who dies).
 
-Rarely, during the ten-day, signs or portents from the gods will hint that a certain unexpected god is guiding the soul, and usually that indicates the burial should be in a place consecrated to that god, if at all possible.
+%%^DR:1725%%
+Since the [[Undead Attacks in Sembara]] in 1720, when thousands of zombies rose from the countryside, cremation has become much more popular, and today burial is rare outside the highlands. 
+%%^End%%
 
+### Attitudes Towards Bodies
+In the Sembaran tradition the body itself is a element of the ritual mourning during the journey through the Land of the Dead but it is not seen as critical to the meta-physical activities of the soul. A sailor drowned at sea, for example, would be mourned on board with a token of hers standing in for the body. The Gathering of the Soul does not depend on the prayers of the devout, and the Eight can find a soul wherever it is, in the depths of the sea or the bottom of a rockfall.
 
-What is real? The gods really do have to let souls into their realms, a soul cannot force its way. But the Sembaran superstition that the wrong activities will disrupt the soul’s journey during the ten day journey is mostly just that, a superstition. But in some metaphysical way, the attention of the living is a key component of reducing the danger of the journey, so in a way, the superstition is real, in the sense that if everyone just pretended like the journey wasn’t happening, it would in fact make it harder for souls to make it to the outer realms.
+Similarly, the attachment to burial is largely cultural, a legacy of the kestavan traditional where burial is seen as critical. What is important in the Sembaran view is the unification of the body with divine, at the temple, as a symbolic reenactment, and confirmation of, the unification of the soul with the divine in the outer realms. But ashes, a death mask, a beloved holy symbol, a portrait, many things, can stand in for the body.
 
-  
+### Undeath
+In the Sembaran tradition, the locus of burial - the temple - is certainly seen as protective against necromancy. But also, cremation is popular in denser settlements where not all bodies can be buried in the temple grounds. Unlike the kestavan tradition, there is no taboo about physical destruction of the body, and the prevention of ghosts - souls adrift on the [[Material Plane]] - is the responsibility of the Eight Divines. 
 
-What about missing bodies? The Sembaran view is somewhat of a balance between the kestavo tradition and the Drankorian tradition. The burial of the body in consecrated ground is certainly desirable, but there isn’t the same sense as there is within the kestavo that without a connection to a physical locus of the god, the soul is likely to be lost. The Sembaran tradition is somewhat, I imagine, like the Christian tradition. Burial in a churchyard is good, but also new holy spaces for burial can be created relatively easily, and the gods are fairly ubiquitous, so it isn’t like a battlefield on the edge of the Plaguelands is out of reach of the eight, and it could certainly be consecrated and made holy for the burial of those who died in battle.
-
-%%
+The greatest concerns are around the soul losing its way and being ensnared on its journey through the Land of the Dead. 

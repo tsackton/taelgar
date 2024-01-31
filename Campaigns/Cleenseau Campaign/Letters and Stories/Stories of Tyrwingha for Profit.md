@@ -20,6 +20,9 @@ As news spread like wildfire of a knight from the north who had been blessed by 
 
 ![[tyrwingha-stories-sketch-of-ethlenn.png|400]]
 
+>[!Spoiler]+ Izgil's Eyes Only
+>This image looks very similar to the woman who blessed Izgil in the [[Dreamworld]], after he escaped from the nightmare after the encounter with the mysterious fey creature.
+
 %% This is basically true %%
 ### Umbraeth's Tale
 This the tale of Lord Umbraeth, a disgraced fey who was banished from Ethlenn's domain a thousand years ago. The tale is structured as a classic tragedy, and describes how Ethlenn had a favorite, Hallabard, who it is said she loved beyond reason. Hallabard, however, loved Eloise, who loved him in return, and so Ethlenn invited both Hallabard and Eloise to her domain (called The Land of the Evening Mist in this story) to live forever, as a gift to her love she could never have. Years pass, and one of Ethlenn's sons, Lord Umbraeth, falls in love with Eloise, and through a series of tricks, charms her into loving him as well. Hallabard kills himself in despair, Ethlenn finds out, and banishes her son. Eloise is forbidden from following Umbraeth into exile, and returns to Tyrwingha and lives out her mortal life in despair. 
