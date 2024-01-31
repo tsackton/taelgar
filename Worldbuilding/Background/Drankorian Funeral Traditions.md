@@ -1,5 +1,6 @@
 ---
-tags: [background, status/tim]
+tags: [background, status/tim, religion/mosnumena]
+excludePublish: ["clee"]
 ---
 ## Drankorian Funeral Traditions
 

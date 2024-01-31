@@ -1,10 +1,10 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
-
 ### Jan 28, 2024
 * Updated some information about the funerary practices in [[Sembaran Funerary Traditions|Sembara]] and [[Tyrwinghan Funerary Traditions|Tyrwingha]]
 * Added some notes on [[Coinage of Sembara|Sembaran coinage]] as well as some house rules around [[House Rules#Wealth and Gold|weath and tracking gold]]
 * A flavor [[Story About Halfling Merchants]] that might help understand the vibe of halflings
+* An update to [[Stories of Tyrwingha for Profit]] specifically for [[Izgil Moonseeker|Izgil]]
 ### Jan 26, 2024
 * Added pages on [[Rinault Essford|Rinault's]] buddies: [[Harold Bybet]], [[Matteo Ausson]], [[Catherine de Brune]], and [[Geoffrey Save]]
 * Clarified some details on [[An Excerpt from On Creation and Destruction of Extra-Material Realms]]
