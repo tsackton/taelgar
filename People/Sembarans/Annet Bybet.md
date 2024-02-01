@@ -6,7 +6,7 @@ born: 1692
 species: human
 ancestry: Sembaran
 gender: female
-affiliations: [{org: Essfords, title: Chamberlain}]
+affiliations: [{org: Essfords, title: Chamberlain}, {org: Lord's Council of Cleenseau}]
 whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau }

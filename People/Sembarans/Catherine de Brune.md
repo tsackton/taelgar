@@ -5,6 +5,7 @@ ancestry: Sembaran
 born: 1684
 species: human
 gender: female
+whereabouts: Cleenseau
 ---
 # Catherine de Brune
 >[!info]+ Biographical Info  

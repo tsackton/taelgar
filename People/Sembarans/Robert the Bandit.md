@@ -8,10 +8,12 @@ species: human
 ancestry: Sembaran
 gender: male
 died: 1719
+whereabouts: Cleenseau Region
 ---
 # Robert
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 One of the bandits involved in the [[Attempted Poisoning of Cleenseau]]. He died of wounds inflicted by the enraged ankheg outside the bandit lair. Of unknown origin.
