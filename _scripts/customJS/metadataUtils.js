@@ -38,6 +38,15 @@ class util {
         return false
     }
 
+    age(metadata, targetDate) {
+        const { DateManager } = customJS
+
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+        else targetDate = DateManager.getTargetDateForPage(metadata)
+
+        return DateManager.getPageDates(metadata, targetDate).age
+    }
+
     isAlive(metadata, targetDate) {
         const { DateManager } = customJS
 
