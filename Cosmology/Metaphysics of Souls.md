@@ -20,6 +20,14 @@ Other species may have similar, or different, beliefs about the transition of a 
 These would obviously have very significant impacts on pregnancy and childhood death, as I think a universal truth would be that before the soul comes to the body it is not truly human, and afterwards, it is.
 %%
 
+%%
+Within the human cultural traditions, there are potentially (at least) two different strands of thought on the relationship between the soul, the Land of the Dead, and the gods: one amgonst the Drankorians and some related descendant cultures (basically cultural descendants of the Hkar urban elite), the other amongst (some of the) earlier departures from Hkar. In Drankor and its descendants there is a much more individual-centered view of the soul. Ghosts are not created because of failures of the gods, they are due to personal failings of the individual. 
+
+While a Deno'qai or Zimkan (??) might think of ghosts/wraiths/specters and other incorporeal undead as lost souls, not necessarily to blame for their condition but people who the gods/community failed, Drankorians (and Chardonians, etc) might instead think of these as doomed/cursed/failed souls, people whose personal flaws prevented them from accepting the gift of the gods to depart the world.
+
+This idea might be worth playing with or expanding and could provide some interesting divides amongst humans.
+%%
+
 ### Necromancy
 These metaphysics have implications for how necromancy and undeath is seen, which, although it varies across cultures, has some commonalities. Some types of undead, such as skeletons, ghouls, and zombies are purely animated by necromantic forces. These undead have no relationship to the [[Plane of Souls]] and merely require a physical body. 
 
