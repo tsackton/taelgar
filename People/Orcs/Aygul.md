@@ -11,6 +11,7 @@ whereabouts:
 - {type: home, location: Gorzum}
 - {type: home, location: Uzgukhar}
 - {type: away, location: Vindristjarna, end: 9999}
+image: aygul-small.png
 ---
 # Aygul
 *(EYE-gool)*
