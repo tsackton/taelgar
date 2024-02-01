@@ -31,7 +31,7 @@ In the lair are several bodies:
 * a lizardfolk of indeterminate age and gender, unidentified (later identified as [[Edur]])
 * two recently deceased humans from Tavoise:
 	* [[Denis Moss|Denis]]
-	* [[Nicole of Tavoise|Nicole]]
+	* [[Nicole of Taviose|Nicole]]
 * two very rotted and hard to identify bodies
 	* one is either a child or halfling
 	* the other is an army messenger, with some identification ensign suggesting they were member of the Fifth Patrol of the Second Company of the Army of the West's South Watch
