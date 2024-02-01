@@ -1,11 +1,17 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+species: human
+ancestry: Sembaran
 gender: male
+whereabouts: Cleenseau
+born: 1669
 ---
 # Jon Thorne
->[!info]+ Biographical Info
-> (he/him)
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%
 (Jon) his wife (Susanne) and their 3 grown kids (Samuel, Ella, and Betsy) (

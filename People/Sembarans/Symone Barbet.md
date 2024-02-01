@@ -9,9 +9,11 @@ gender: female
 title: Major
 aliases: [Major Symone Barbet]
 affiliations: [{org: Dunfry Regiment, type: leader}]
+whereabouts: Barony of Dunfry
 ---
 # Major Symone Barbet
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`

@@ -10,9 +10,11 @@ ancestry: Sembaran
 gender: male
 aliases: [François the Bandit]
 died: 1719-11-05
+whereabouts: Cleenseau Region
 ---
 # François the Bandit
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 

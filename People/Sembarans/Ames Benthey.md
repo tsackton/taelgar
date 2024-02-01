@@ -10,6 +10,7 @@ gender: male
 affiliations: 
 - {org: Lord's Guard of Cleenseau, title: Captain, type: leader }
 - {org: Essfords, title: Guard Captain }
+- {org: Lord's Council of Cleenseau}
 whereabouts:
 - {type: home, location: Cleenseau }
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry }

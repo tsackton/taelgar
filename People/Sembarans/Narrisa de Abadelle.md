@@ -7,13 +7,14 @@ species: human
 ancestry: Sembaran
 gender: female
 affiliations: [Order of the Charitable Wanderer]
+whereabouts: Duchy of Maseau
 ---
-# Narrisa De Abadelle
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
-
+# Narrisa de Abadelle
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%
 other peple
