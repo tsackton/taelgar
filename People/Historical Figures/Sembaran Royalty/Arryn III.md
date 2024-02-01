@@ -12,12 +12,16 @@ affiliations:
 - {org: House of Lils, type: primary}
 - {place: Sembara, start: 1745}
 - {place: Tyrwingha, start: 1745}
+whereabouts: 
+- {type: home, location: Tafolwern, end: 1721-08 }
+- {type: home, location: Embry, start: 1721-09 }
 ---
-# Arryn III
+# King Arryn III
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Lils]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%^Date:1721a%%
 A young princeling of [[Tyrwingha]], he is a quite and mild-mannered child who is said to particularly love stories about his namesake, [[Arryn I]]. 

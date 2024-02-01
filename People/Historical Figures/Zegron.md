@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, dufr/met_one, person, status/unknown]
+tags: [person, status/unknown, historical]
 displayDefaults: { endStatus: killed by Deno'qai}
 campaignInfo: []
 name: Zegron

@@ -8,9 +8,11 @@ species: human
 ancestry: Mawaran
 gender: female
 died: 1747
+whereabouts: Mawar Confederacy 
 ---
 # Sefa
 >[!info]+ Biographical Info  
 > A Mawaran [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 

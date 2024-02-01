@@ -17,11 +17,11 @@ pronunciation: FAHL-thrah
 ---
 # Fallthra Hardstone
 *(FAHL-thrah)*
->[!info]+ Biographical Info
-> A [[Dwarves|dwarf]] (she/her), of the Hardstone Clan
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Dwarves|dwarf]] (she/her), of the [[Hardstones]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
 
 Matriarch of the Hardstone clan; associated with the Tokra Archives, where she and her clan help maintain the building. 
