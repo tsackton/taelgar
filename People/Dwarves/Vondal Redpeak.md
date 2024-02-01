@@ -7,6 +7,7 @@ species: dwarf
 ancestry:
 gender: male
 affiliations: [{org: Redpeaks, type: primary}]
+whereabouts: Darba
 ---
 # Vondal Redpeak
 >[!info]+ Biographical Info  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/aware, status/needswork/notes]
+tags: [historical, person, status/needswork/notes]
 campaignInfo: []
 name: Sajan
 born:

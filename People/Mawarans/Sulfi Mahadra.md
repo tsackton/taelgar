@@ -7,6 +7,7 @@ born:
 species: human
 ancestry:
 gender: female
+whereabouts: Hamri
 ---
 # Sulfi Mahadra
 >[!info]+ Biographical Info  

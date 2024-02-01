@@ -8,10 +8,12 @@ species: dwarf
 ancestry:
 affiliations: [{org: Redpeaks, type: primary}]
 gender: female
+whereabouts: Darba
 ---
 # Torgga Redpeak
 >[!info]+ Biographical Info  
 > A [[Dwarves|dwarf]] (she/her), of the [[Redpeaks]]  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The matriach of the Redpeak dwarves of [[Darba]].
