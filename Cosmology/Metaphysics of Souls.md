@@ -1,8 +1,7 @@
 ---
-tags: [background, status/tim]
+tags: [background]
 excludePublish: ["clee"]
 ---
-%% Tim: Rewrote slightly based on your feedback to make this more general, figured having a general place for "well known metaphysicals of souls" is useful. %%
 # Metaphysics of Souls
 Most mortal creatures native to the [[Material Plane]] plane have a soul, a mystical essence of spirit. Although many things about souls are mysteries, some truths are understood, especially around death. 
 

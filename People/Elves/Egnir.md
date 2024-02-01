@@ -4,6 +4,8 @@ tags: [person, status/needswork]
 aliases: [ Égnir ]
 name: Égnir
 species: elf
+gender: male
+image: egnir-small.png
 ---
 # Égnir
 

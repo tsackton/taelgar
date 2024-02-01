@@ -12,6 +12,7 @@ affiliations:
 - {org: Silversparks, type: primary}
 gender: female
 born: 1701
+image: kethra-small.png
 ---
 # Kethra Silverspark
 >[!info]+ Biographical Info

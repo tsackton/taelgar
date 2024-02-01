@@ -1,6 +1,10 @@
 ---
-tags: [status/tim, religion/kestavo, background]
+tags: [religion/kestavo, background]
 ---
+%%
+I like this as a whole. I think that the basic framework of "small god guides soul through land of the dead, which requires a body in order for the gods to find the soul" is probably broadly true among all the northern folk religions. E.g., tanshi would serve the same role in Deno'qai culture, with appropriate sacrifices replacing a location/place based framework. this might have some implications for recovery of lost bodies - for example the Deno'qai would see less of a problem with mass graves on a battlefield assuming appropriate sacrifices could attract the tanshi to the burial location.
+%%
+
 ## Kestavan Funerary Traditions
 In the kestavo tradition amongst the [[Zimkova|Zimka]], the most important guide of the soul to its final home is neither human prayer nor the guidance of priestly ritual, but the *kestavo* themselves. These small gods are not keepers of heavenly kingdoms, but instead guides along the journey. The *kestavo* are expected to guide a soul from the [[Plane of Souls]], at birth, to the [[Material Plane]], and similarly from the [[Plane of Souls]] to the [[Land of the Dead]] at death, and then through the Land of the Dead to the ultimate resting place. As in many cultures, this journey through the Land of the Dead is fraught with peril, and the guidance of a *kestavo* is critical to ensure the soul is not lost along the way. 
 

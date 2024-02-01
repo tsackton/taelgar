@@ -38,15 +38,16 @@ The group was reunited on Nov 15 1748 in Dunmar.
 <div class="grid cards" markdown>
 
 -   [[Faldrak Bronzehammer]]
-
+ 
     ---
-    ![[faldrak-portrait-1.png]]
+    ![[faldrak-small.png]]
+     Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain.
 
 -  [[Kethra|Kethra Silverspark]]
 
     ---
-
-    ![[kethra-final-option1.png]]
+    ![[kethra-small.png]]
+	 A dwarven smith from Tharn Todor, inspired by Riswynn to seek adventure.
 
 </div>
 

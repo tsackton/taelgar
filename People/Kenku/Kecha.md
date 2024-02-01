@@ -5,6 +5,7 @@ whereabouts: Tollen
 species: kenku
 gender: male
 name: Kecha
+image: kecha-small.png
 ---
 # Kecha
 >[!info]+ Biographical Info
