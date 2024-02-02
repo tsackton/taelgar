@@ -11,7 +11,7 @@ The party learned of this attack a few hours after it happened, and after discus
 
 In the predawn, five spiders (one large one and four dog-sized ones) crept into the hamlet on webs flung from the eaves of the forest. Each spider swung into a house at about the same time and quickly murdered the inhabitants of the houses they had attacked.
 
-One group of families fled west through the eaves of the [[Cleenseau Wood|Wood]] and made it to Clenseau about two hours after the attack. They were quick to leave, and reported that [[Perrin Voclain|Perrin]] was originally with them, but they waved him back into the village to help the others.
+One group of families lead by [[Hugh Darrow]] fled west through the eaves of the [[Cleenseau Wood|Wood]] and made it to Clenseau about two hours after the attack. They were quick to leave, and reported that [[Perrin Voclain|Perrin]] was originally with them, but they waved him back into the village to help the others.
 
 A second group of families was pinned down by the spiders, and only escaped after [[Perrin Voclain|Perrin]] and three other villagers killed the largest spider and one of the smaller ones. This group fled east to [[Valit]] as the remaining three spiders each dragged a body into [[Cleenseau Wood|the Wood]]. 
 

@@ -4,7 +4,7 @@ tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1720-01-04, type: met}
 name: Margaret Ashford
-born: 1672-07-12
+born: 1676
 species: human
 ancestry: Sembaran
 gender: female

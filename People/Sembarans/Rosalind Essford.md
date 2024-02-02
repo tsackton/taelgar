@@ -28,7 +28,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 in [[Cleenseau]], the [[Barony of Aveil]], [[Sembara]] %%^End%%
 
-![[lady-rosalind-essford.png|right|320]]The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [[Arthur Bybet]] in 1706, and their match has been a good and popular one. 
+![[lady-rosalind-essford.png|right|320]]The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [[Arthur Essford]] in 1706, and their match has been a good and popular one. 
 
 %%^Date:1719%%
 In the late fall of 1719, she lost her three children and their nursemaid to a [[Tragic Flood of the River Enst|unseasonable flood of the Enst]].  She enjoys quite music, especially [[Robin of Abenfyrd|Robin's]] playing, which has been a comfort to her since her children died. 

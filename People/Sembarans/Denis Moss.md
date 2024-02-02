@@ -7,6 +7,7 @@ ancestry: Sembaran
 name: Denis Moss
 gender: male
 whereabouts: Taviose
+born: 1666
 died: 1719-10-21
 ---
 # Denis Moss
@@ -15,4 +16,4 @@ died: 1719-10-21
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The father of [[Abigail Moss]], he was killed by spiders during the [[Second Spider Attack on Tavoise]].
+The father of [[Abigail Moss]] and her two sisters, he was killed by spiders during the [[Second Spider Attack on Tavoise]], as was his wife and two of his daughters. 

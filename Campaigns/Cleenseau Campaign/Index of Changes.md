@@ -1,5 +1,8 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
+
+### Feb 2, 2024
+* Some interesting background on [[Odo Cordwaner]], [[Abigail Moss]], and [[Remy Darrow]]
 ### Jan 28, 2024
 * Updated some information about the funerary practices in [[Sembaran Funerary Traditions|Sembara]] and [[Tyrwinghan Funerary Traditions|Tyrwingha]]
 * Added some notes on [[Coinage of Sembara|Sembaran coinage]] as well as some house rules around [[House Rules#Wealth and Gold|weath and tracking gold]]

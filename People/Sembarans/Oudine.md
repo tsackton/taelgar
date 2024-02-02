@@ -4,7 +4,7 @@ tags: [person, clee/background]
 campaignInfo:
 - {campaign: Clee, date: 1720-01-04, type: met}
 name: Oudine
-born: 1692-08-12
+born: 1692
 died: 1720-01-04
 species: human
 ancestry: Sembaran

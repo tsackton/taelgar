@@ -17,7 +17,7 @@ whereabouts: Taviose
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Taviose]], [[Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [[Taviose]]. [[Robin of Abenfyrd|Robin]] was able to disinfect it with his lay on hands ability. Her family was killed in the spider attacks, and she has struggled to maintain the family orchard, which is mostly walnuts and chestnuts and hugs the edge of [[Cleenseau Wood]].
+![[abilgail-moss.png|right|320]]Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [[Taviose]]. [[Robin of Abenfyrd|Robin]] was able to disinfect it with his lay on hands ability. Her family was killed in the spider attacks, and she has struggled to maintain the family orchard, which is mostly walnuts and chestnuts and hugs the edge of [[Cleenseau Wood]].
 
 Her family holds the orchard and several buildings in [[Taviose]] as freeholders, and her two uncles are successful pig farmers.
 
@@ -35,5 +35,4 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 				.sort(f => util.s("<maintype:n>", f.file))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
 ```
-
 %%^End%%
