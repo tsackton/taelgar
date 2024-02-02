@@ -6,7 +6,7 @@ campaignInfo:
 name: Balthazar
 born: 1705-03-15
 species: human
-ancestry:
+ancestry: Maseaun
 gender: male
 whereabouts:
 - {type: home, location: Evis}
@@ -15,7 +15,7 @@ whereabouts:
 ---
 # Balthazar
 >[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
+> A [[Duchy of Maseau|Maseaun]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Wakog's Camp]], the [[Duchy of Maseau]] %%^End%%

@@ -13,6 +13,8 @@ born: 1669
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+The brother of [[Gideon Thorne]] and uncle-in-law to [[Beatrix of Cleenseau|Beatrix]] and her husband, Samuel Thorne. He lives with his wife, Susanne, and their three grown kids, Samuel, Ella, and [[Betsy Thorne]]. 
+
 %%
 (Jon) his wife (Susanne) and their 3 grown kids (Samuel, Ella, and Betsy) (
   
