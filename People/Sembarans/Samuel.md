@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/unknown]
 name: Samuel
-born: 1700
+born: 1705
 species: human
 ancestry: Sembaran
 gender: male

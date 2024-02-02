@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: [{campaign: clee, type: met}]
 name: Marion
-born: 1698
+born: 1694
 species: human
 ancestry: Sembaran
 gender: female

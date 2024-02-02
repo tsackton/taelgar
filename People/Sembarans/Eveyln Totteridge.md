@@ -4,7 +4,7 @@ tags: [person]
 title: Sergeant
 campaignInfo: []
 name: Eveyln Totteridge
-born: 1699
+born: 1695
 species: human
 ancestry: Sembaran
 gender: female

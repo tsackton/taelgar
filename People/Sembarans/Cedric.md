@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/unknown]
 name: Cedric
-born: 1672-07-12
+born: 1684
 species: human
 ancestry: Sembaran
 gender: male

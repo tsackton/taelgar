@@ -545,7 +545,7 @@ class TokenParser {
         if (this.debug) console.log("Formatter: " + formatter)
 
         // if we don't have a value, return
-        if (value.isNormalizedDate && value.isHiddenDate) return ""
+        if (value && (value.isNormalizedDate && value.isHiddenDate)) return ""
         if (value === undefined || value === null || value === "" || (Array.isArray(value) && value.length === 0))
             return ""
 
