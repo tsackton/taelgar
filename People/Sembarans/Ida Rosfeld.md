@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, status/unknown]
 campaignInfo:
 name: Ida Rosfeld
-born: 1692
+born: 1687
 species: human
 ancestry: Sembaran
 gender: female

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, status/unknown]
 campaignInfo: []
 name: Jonathon Henwyn
-born: 1690
+born: 1680
 species: human
 ancestry: Sembaran
 gender: male
