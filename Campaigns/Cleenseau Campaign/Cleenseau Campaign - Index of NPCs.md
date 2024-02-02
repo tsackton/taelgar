@@ -6,13 +6,13 @@ tags: [meta]
 * [[Brot Starsearcher]], an eccentric [[Dwarves|dwarf]]
 * [[Diesla Starsearcher]], Brot's patient wife
 * [[Perrin Voclain]], a druid
-* [[Grandpa Remy]], an elderly man, rescued from the ettercap
+* [[Remy Darrow]], an elderly man, rescued from the ettercap
 ### In [[Cleenseau]]
 
 * [[Rosalind Essford]], the heir apparent and *de facto* lord
 * [[Rinault Essford]], Rosalind's younger brother, a hothead
 * [[Wymar Essford]], the elderly lord, suffering from dementia
-* [[Arthur Bybet]], Rosalind's husband
+* [[Arthur Essford]], Rosalind's husband
 * [[Annet Bybet]], Arthur's cousin and the chamberlain of the Essford household
 * [[Ida Rosfeld]], the captain of the [[Army Garrison of Cleenseau|local garrison]], recently returned from in [[Dunfry]]
 * [[Ysabel]], the sheriff, now deceased
@@ -27,12 +27,12 @@ tags: [meta]
 * [[Eremon]], a traveler and confidant of Rosalind
 * [[Selma Wisthelwind]], the proprietor of [[The Fox's Flagon]]
 * [[Marion of Cleenseau|Marion]] and [[Adam of Cleenseau|Adam]], soldiers of the Bridge Patrol
-* [[Beatrix of Cleenseau|Béatrix]], a recently retired solider, now a member of the town watch under [[Ysabel]]
+* [[Beatrix Thorne|Béatrix]], a recently retired solider, now a member of the town watch under [[Ysabel]]
 * [[Abigail Moss]], a young farmer
 * [[Duncan Rivers]], the proprietor of [[The Bandit’s End]]
 * [[Harold Stonebridge]], a young halfling errand boy at [[The Crossroads Inn]]
 * [[Aldric Tannen]], a schemer looking to start a ferryboat company
-* [[Jon Thorne]], a neighbor of [[Beatrix of Cleenseau|Beatrix]]
+* [[Jon Thorne]], a neighbor of [[Beatrix Thorne|Beatrix]]
 ### In [[Valit]]
 
 * [[Warin the Woodsman]], a tracker

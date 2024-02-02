@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, clee/background]
 displayDefaults: { endStatus: killed by an ankheg }
 name: Robert
-born:
+born: 1685
 species: human
 ancestry: Sembaran
 gender: male

@@ -4,9 +4,9 @@ tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Jasper
-born: 1680-09-21
+born: 1680
 species: human
-ancestry:
+ancestry: Sembaran
 gender: male
 whereabouts:
 - {type: home, location: Beury}

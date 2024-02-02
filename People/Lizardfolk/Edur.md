@@ -4,7 +4,7 @@ tags: [person]
 displayDefaults: { endStatus: killed by spiders }
 campaignInfo: []
 name: Edur
-born:
+born: 1500
 species: lizardfolk
 ancestry:
 gender: male

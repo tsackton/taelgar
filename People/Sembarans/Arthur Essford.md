@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person]
 campaignInfo: [ {campaign: clee, date: 1720-01-03 }]
-name: Arthur Bybet
+name: Arthur Essford
 born: 1682
 species: human
 ancestry: Sembaran
@@ -16,7 +16,7 @@ whereabouts:
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry }
 - {type: away, start: 1720-01-20, end: 9999, location: Embry }
 ---
-# Arthur Bybet
+# Arthur Essford
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Bybets]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
@@ -38,5 +38,4 @@ dv.table(["Person", "Info", "Current Location", "Alive"],
 				.sort(f => util.s("<maintype:n>", f.file))
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.isAlive(b.file.frontmatter, dv.current().pageTargetDate)]))
 ```
-
 %%^End%%

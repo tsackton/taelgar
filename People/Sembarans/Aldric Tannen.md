@@ -4,7 +4,7 @@ tags: [person]
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Aldric Tannen
-born: 1682-12-07
+born: 1682
 species: human
 ancestry: Sembaran
 gender: male

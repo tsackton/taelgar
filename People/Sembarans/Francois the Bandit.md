@@ -4,7 +4,7 @@ tags: [person, status/unknown]
 displayDefaults: { endStatus: killed himself in remorse }
 campaignInfo: []
 name: François the Bandit
-born:
+born: 1681
 species: human
 ancestry: Sembaran
 gender: male

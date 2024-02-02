@@ -10,7 +10,7 @@ ancestry:
 gender: female
 whereabouts:
 - {type: home, location: Ardith}
-- {type: home, location: Taviose}
+- {type: home, start: 1670, location: Taviose}
 ---
 # Diesla Starsearcher
 >[!info]+ Biographical Info  
