@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim, religion/mosnumena]
+tags: [background, religion/mosnumena]
 ---
 ## Tyrwinghan Funerary Traditions
 
