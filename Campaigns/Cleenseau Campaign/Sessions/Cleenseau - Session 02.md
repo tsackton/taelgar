@@ -34,7 +34,7 @@ In the lair are several bodies:
 	* [[Nicole of Taviose|Nicole]]
 * two very rotted and hard to identify bodies
 	* one is either a child or halfling
-	* the other is an army messenger, with some identification ensign suggesting they were member of the Fifth Patrol of the Second Company of the Army of the West's South Watch
+	* the other is an army messenger, with some identification ensign suggesting they were member of the Fifth Company of the Dunfry Regiment of the Army of the West's South Watch
 
 Additionally, the lair contains a mysterious black substance, and some rough writing that indicates:
 * One hatched

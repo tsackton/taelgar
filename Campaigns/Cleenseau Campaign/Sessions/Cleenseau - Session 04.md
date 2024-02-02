@@ -12,6 +12,7 @@ players: [Izgil, Robin, Viepuck, Celyn]
 >on Earth: April 30th, 2023
 
 %%% RAW NOTES
+[[Odo Cordwaner]] fired, Robin pleads with [[Ida Rosfeld]]
 Odo fired, Robin pleads with Ida
 Viepuck is revealed and gets lots of money via letter from Susanne Garay
 Interrogations of bandits, Charm Person and Heroism
