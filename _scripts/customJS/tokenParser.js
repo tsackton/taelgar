@@ -513,6 +513,12 @@ class TokenParser {
                 }
                 formatter = "none"
                 break;
+
+            case "pronunciation":
+                value = metadata.pronunciation
+                formatter = "none"
+                break;
+
             case "pronouns":
                 // calculate pronouns from gender if not specified
                 if (metadata.pronouns) value = metadata.pronouns
