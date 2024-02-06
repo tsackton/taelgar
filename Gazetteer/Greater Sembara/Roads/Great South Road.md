@@ -1,19 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/notes, status/stub]
+tags: [place, status/tim]
 campaignInfo: []
-displayDefaults: {prep: on}
+displayDefaults: {linkText: on}
 name: Great South Road
 typeOf: road
-partOf:
+whereabouts: Greater Sembara
 ---
 # The Great South Road
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%  notes
+An ancient road that runs from [[Embry]] to [[Cassons]]. In better days it ran south as far as [[Isingue]], and in the Drankorian era, was said to continue almost 2500 miles to [[Drankorian Empire|Drankor]] itself.
 
-Drankorian construction, highly magical
-once ran from ~2000-3000 miles from  Embry all the way to Drankor; through Isingue, 
-(this is like Minneapolis to Mexico City)
-now peters out in the Plaguelands
-
-%%
+Although in poor repair in some places, for much of it's length it is paved with wide, smooth stones and has drainage ditches on the sides. According to legend many of the stones in the road are a thousand years old, and have never cracked.
