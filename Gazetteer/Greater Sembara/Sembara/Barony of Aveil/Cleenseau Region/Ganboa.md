@@ -23,7 +23,6 @@ A small community of fisherfolk in [[Asineau]] has been known to grumble about l
 
 * [[Erdu]], the spokesperson
 * [[Unai]], a noted herbalist and healer, chiefly responsible Ganboa's reputation
-* [[Koldo]], a reclusive druid who is well respected in the town but rarely talks to non-lizardfolk
 
 %%^Campaign:None%%
 ### People in, or based in Ganboa
@@ -34,5 +33,4 @@ dv.table(["Person", "Info", "Current Location", "Home"],
 				.where(f => util.inOrHomeLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))				
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
 ```
-
 %%^End%%

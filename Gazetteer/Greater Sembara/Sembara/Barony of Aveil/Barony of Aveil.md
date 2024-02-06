@@ -5,10 +5,12 @@ campaignInfo:
 name: Barony of Aveil
 typeOf: barony
 whereabouts: Sembara
+pronunciation: Ah-veh-eel
 ---
 # The Barony of Aveil
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+*(Ah-veh-eel)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The Barony of Aveil is one of the oldest baronies in Sembara, sitting between the [[Western Marches]], the powerful [[Duchy of Wisford]], and the sparsely settled [[Borderlands]]. The western third of the barony is dominated by the [[Cleenseau Wood]], and ancient old-growth forest. In the north, the [[Aveil Ridge]], a small escarpment, defines the northern quarter of the barony, and is home to the seat of the baron, [[Veltor]], a small fortified castle near the headwaters of the [[Auberonne]]. Two rivers run through the barony: the [[Auberonne]], which runs the length of the barony, and the [[Leandre]] which is smaller and flows from the [[Cleenseau Wood]] to the [[Auberonne]]. 
@@ -20,7 +22,7 @@ The three largest settlements in the barony are [[Rinburg]], a free city on the 
 The barony is characterized by five major regions:
 
 * the [[Cleenseau Region]] in the west is somewhat disconnected from the rest of the barony, there being no settlements for the fifteen miles between [[Dallet]] and [[Beury]]
-* [[Rinburg]] and its hinterland, a land of sheep herders, small pastoral villages, and fishing villages, all clustered along the [[Enst]] and the [[Great South Road]]
+* [[Rinburg]] and its hinterland, a land of sheep herders and fishing villages, all clustered along the [[Enst]] and the [[Great South Road]]
 * the [[Aveil Ridge]] in the north, a escarpment that rises about 800' above the land, the source of the [[Auberonne]] and little-settled hilly land of secondary forest. The seat of the baron, [[Veltor]], is here
 * the [[Auberonne]] valley, the richest farmland of the barony
 * the [[Cleenseau Wood]], and the small villages along its eaves

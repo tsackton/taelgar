@@ -1,11 +1,13 @@
 ---
-tags: [place, status/notes, status/unknown]
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [place]
 name: South Watch Road
 typeOf: road
-partOf:
+whereabouts: Sembara
 ---
+# The South Watch Road
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%% Moved notes:
-To the west runs the South Watch Road, a new road built by Queen Cece forty years ago. It leads to Dunfry, and then the WesternWall where the South Watch keeps watch on the mountain passes. The memories still linger of the hobgoblin wars fifty years ago, and in most years the South Watch repels an [[Orcs|orc]] tribe or hobgoblin war party. The road runs south along the eaves of the Wood, and no villages dot the landscape until the pasturelands around Dunfry, over a hundred miles, or five swift days' ride to the west. Two garrison houses are maintained by the crown along this stretch of road, however, to support soldiers marching to and from the WesternWall.
-%%
+A new road, built during the reign of [[Cece I]] to connect [[Dunfry]] and the [[Army of the South|South Watch]] with [[Fellburn]] after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. Most of the road runs through unsettled land, although several fortified garrison-houses dot the road to support soldiers and messengers travelling the road. 

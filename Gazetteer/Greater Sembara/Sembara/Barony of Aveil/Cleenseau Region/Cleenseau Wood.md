@@ -1,23 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
-campaignInfo: []
+tags: [place]
 name: Cleenseau Wood
 typeOf: forest
-partOf: Barony of Aveil
+whereabouts: Barony of Aveil
 ---
 # The Cleenseau Wood
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Wood as it is known locally, is an old growth forest, stretching north of [[Cleenseau]] for what is said to be hundreds of miles. The fringes are used for firewood, charcoal gathering, and pig farming, but after a mile or two it becomes wild and trackless.
+The Wood as it is known locally, is an old growth forest, stretching north of [[Cleenseau]] for what is said to be hundreds of miles. The fringes are used for firewood, charcoal gathering, and pig farming, but after a mile or two it becomes wild and trackless. It forms the boundary between the [[Barony of Aveil]], to the east of the wood, the [[Barony of Dunfry]] and the [[Barony of Usbourg]] to the west, and the [[Barony of Ainwick]] to the north.
 
-%% The Clenseau region is bounded by the River Enst in the south, and the Wood in the north -- a dense, trackless forest that is said to stretch for a hundred miles northward towards Ainwick. Few people go more than a mile into the wood, and of those that do, not all return.
-
-
-To the north of the town is a denser forest, called locally simple the Wood, where townsfolk keep their pigs and gather firewood. A small hamlet, Tavoie, has grown up just on the eaves of the Wood, where some pig farmers and charcoal makers live, but beyond the first five miles, the wood grows dense and trackless, and few folks know where it ends. 
-
-
-%%
-
+There is evidence of a portal to the fey realm of [[Duskmire]] about eight miles inside the wood, although it has not been consistently open.
