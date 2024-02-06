@@ -18,6 +18,4 @@ whereabouts: The Bandit’s End
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:clee%% Helped with the [[Heroes of Cleenseau]] on January 4th, 1720 in [[The Bandit’s End]], [[Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-%% Duncan is a jovial and rotund tavern owner who runs The Bandit's End. He's known for his hearty meals and strong ale and can offer the players a place to relax and enjoy some local cuisine.
-Duncan Rivers is an individual of interest. 
-brownie%%
+![[duncan-rivers.png|right|320]]A jovial barkeep and innkeeper, he is very fond of his inn and a little full of himself. He does not like asking for help very much, and rarely admits he needs it. He is suspicious of magic and speaks often of the "good old days" of Cece's reign.

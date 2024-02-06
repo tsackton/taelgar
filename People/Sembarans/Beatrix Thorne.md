@@ -10,6 +10,7 @@ aliases: [Béatrix, Beatrix, Béatrix Thorne]
 affiliations: 
 - {org: Army Garrison of Cleenseau, end: 1719-11-02, title: Soldier }
 - {org: Lord's Guard of Cleenseau, start: 1719-11-23, title: Guardswoman }
+- {org: Lord's Guard of Cleenseau, start: 1720-01-11, title: Sheriff }
 whereabouts: Cleenseau
 ---
 # Béatrix of Cleenseau

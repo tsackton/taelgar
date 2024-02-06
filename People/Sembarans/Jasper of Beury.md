@@ -4,7 +4,7 @@ tags: [person, status/unknown]
 campaignInfo:
 - {campaign: Clee, date: 1719-12-04, type: met}
 name: Jasper
-born: 1680
+born: 1677
 species: human
 ancestry: Sembaran
 gender: male
@@ -14,9 +14,9 @@ whereabouts:
 ---
 # Jasper
 >[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-Jasper is a middle-aged ex-robber skilled in woodcraft, born on September 21st, 1680. He hails from Beury, a village near Cleenseau.
+![[jasper-of-beury.png|right|320]]A robber and highwayman in his youth on the stretch of the [[Great South Road]] between [[Beury]] and [[Dallet]], he was caught and fined. He has since reformed and worked as a crown messenger for many years. In the last few years he has returned to Beury for reasons he is generally silent about and has worked as hired labor as well as occasionally doing jobs for [[Erick Murtha]].

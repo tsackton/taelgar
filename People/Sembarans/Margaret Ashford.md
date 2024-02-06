@@ -18,7 +18,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on January 4th, 1720 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-Midwife
+A midwife.
 
 %% 
 Margaret is a skilled midwife and healer who resides in the South Close. She assists with childbirths, tends to the sick, and can provide the players with information about the town's health concerns.

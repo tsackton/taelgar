@@ -10,6 +10,7 @@ affiliations: [{org: Essfords, title: Chamberlain}, {org: Lord's Council of Clee
 whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau }
+- {type: away, location: travelling to Embry, start: 1720-01-03, end: 1720-01-20}
 ---
 # Annet Bybet
 >[!info]+ Biographical Info  

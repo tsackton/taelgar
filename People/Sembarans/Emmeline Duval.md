@@ -14,4 +14,4 @@ died: 1720-01-04
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% a baker, particularly known for her "miracle of the bridge" festival fried dough. Her loss will be a blow to the culinary scene in town. %%
+A baker, particularly known for her "miracle of the bridge" festival fried dough. 

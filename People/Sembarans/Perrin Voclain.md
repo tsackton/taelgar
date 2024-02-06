@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 name: Perrin Voclain
 born: 1659
 species: human
@@ -17,4 +17,4 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[perrin-the-druid.png|right|320]]Perrin Voclain is a sage and druid who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]].
+![[perrin-the-druid.png|right|320]]Perrin Voclain is a sage and acolyte of the Wildling who lives in [[Taviose]]. He is known for his friendship with the animals of [[Cleenseau Wood|the Wood]], and for his minor miracles of healing and guidance. 

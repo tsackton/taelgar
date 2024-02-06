@@ -18,4 +18,4 @@ whereabouts: Cleenseau
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A deputy of Ysabel and gateguard; just 19, but strong and quick with a spear.
+A deputy of Ysabel and gateguard; strong and quick with a spear.

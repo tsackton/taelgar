@@ -20,8 +20,6 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on December 1st, 1719 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War. 
-
-![[guy-de-varan-maseau.png]]
+![[guy-de-varan-maseau.png|right|320]]A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War. 
 
 %%% At times there have been rumors that he sometimes warns bandits of particularly lucrative caravan's coming along the road. But these rumors are disputed, and even his biggest detractors are careful to note that even the caravans he supposively targeted are never brutally attacked -- no deaths have been associated with these rumors %%
