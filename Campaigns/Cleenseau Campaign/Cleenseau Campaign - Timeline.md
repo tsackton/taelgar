@@ -60,12 +60,13 @@ tags: [timeline]
 * January 3rd: [[Rosalind Essford]] is summoned to the King's Court
 * January 3rd, evening: [[Rosalind Essford|Lady Rosalind Essford]], her husband [[Arthur Essford]], her advisor [[Eremon]], [[Ames Benthey]], and most of the [[Lord's Guard of Cleenseau]] depart for [[Embry]]
 * January 4th: The party investigates [[Duncan Rivers]] missing ale and finds a secret tunnel under the [[The Crossroads Inn]], [[Izgil Moonseeker|Izgil]] researches [[Archfey Ethlenn]]
-* January 5th: [[Celyn]] looks for fey; [[Izgil Moonseeker|Izgil]] continues his research; [[Robin of Abenfyrd|Robin]] organizes defenses in [[Taviose]] and [[Aulout]]
+* January 5th: [[Celyn]] looks for fey; [[Izgil Moonseeker|Izgil]] continues his research; [[Robin of Abenfyrd|Robin]] organizes defenses in [[Taviose]] and [[Auloutte]]
 * January 6th, morning: [[Robin of Abenfyrd|Robin]] learns of [[Beatrix Thorne|Béatrix's]] impending miscarriage, and the party is attacked by zombies outside the midwife [[Margaret Ashford|Margaret's]] house
 * January 6th: [[Ida Rosfeld]] and the [[Army Garrison of Cleenseau]] are beset on the road from [[Dunfry]] and take heavy losses
 * January 6th, afternoon: The party investigates [[Cedric|Cedric's]] disappearance 
 * January 6th, evening: The party meets with [[Marigold Stonebridge]] and discusses history
 * January 7th, morning: The party enters the secret ruined fort under Cleenseau
-* January 7th, evening and overnight: The party destroys a mysterious  green gem guarded by a wight
-* January 8th, morning: [[Warin the Woodsman]], [[Erick Murtha]], and [[Beatrix Thorne|Beatrix]] are waiting for the party. Lord Murtha and Warin bring news of various undead attacks. The party finishes investigation of the ruins beneath the fort.
+* January 7th, evening and overnight: The party destroys a mysterious green gem guarded by a wight
+* January 7th: [[Stavenford]] is attacked by a wight and [[Eftly]] is attacked by a stench monster
+* January 8th: [[Fellburn]] is besieged by a skeletal army
 * January 10th, evening: [[Ida Rosfeld]] arrives from [[Dunfry]], having been on the road for almost two weeks, and having lost half the garrison to a massive zombie attack.

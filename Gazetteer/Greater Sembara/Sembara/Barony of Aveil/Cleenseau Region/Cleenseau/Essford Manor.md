@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
-campaignInfo: []
+tags: [place, status/needswork/notes]
 name: Essford Manor
 typeOf: house
 subTypeOf: manor
