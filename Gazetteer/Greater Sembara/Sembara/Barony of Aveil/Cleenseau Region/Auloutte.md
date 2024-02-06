@@ -19,7 +19,7 @@ A poor fishing village on the banks of the [[Enst]], a short walk from [[Cleense
 
 ### Notable Residents
 * [[Gideon Thorne]], a prominent fisherman and part-time steward of the small temple
-* Lucien, a skilled fisherman, quite knowledgeable about the river currents
+* Lucien, a skilled fisherman, quite knowledgeable about the river currents, who fished [[Cedric]] from the river
 * Marguerite, the toll collector and miller
 
 %%^Campaign:None%%

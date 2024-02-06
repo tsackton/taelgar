@@ -20,6 +20,6 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on January 6th, 1720 in Unknown %%^End%%
 
-An old, wrinkled halfling, often quiet and sleepy, but with surprising wit. The most important of the three current inn keepers of [[The Crossroads Inn]] in [[Cleenseau]] along with [[Venra Stonebridge]] and [[Willow Stonebridge]]. Often called Grandmother Marigold, she is considered the matriach and wisest of the [[Stonebridges]]. 
+![[marigold-stonebridge.png|right|320]]An old, wrinkled halfling, often quiet and sleepy, but with surprising wit. The most important of the three current inn keepers of [[The Crossroads Inn]] in [[Cleenseau]] along with [[Venra Stonebridge]] and [[Willow Stonebridge]]. Often called Grandmother Marigold, she is considered the matriarch and wisest of the [[Stonebridges]]. 
 
 She knows much of the history of The Crossroads Inn and is proud of its ancient heritage. 
