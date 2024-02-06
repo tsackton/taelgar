@@ -1,7 +1,3 @@
----
-tags: 
----
-
 The first letter reads:
 
 Captain:

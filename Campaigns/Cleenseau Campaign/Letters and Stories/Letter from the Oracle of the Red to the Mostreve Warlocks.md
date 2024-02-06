@@ -1,7 +1,3 @@
----
-tags: 
----
-
 An order from the Oracle of the Red:
 
 Warlocks of Ethlenn serving in the Radiant Alliance, please head these orders while west of Fellburn. 
