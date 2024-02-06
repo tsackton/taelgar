@@ -6,7 +6,7 @@ sessionNumber: 2
 players: [Izgil, Robin, Viepuck, Celyn]
 ---
 # Cleenseau - Session 2
->_in Taelgar from the pre-dawn of October 22nd until the morning of October 25th
+>_in Taelgar from the pre-dawn of October 21st until the morning of October 25th
 >7 Robert I / DR 1719
 >[[Cleenseau]] and vicinity
 >on Earth: February 12th, 2023

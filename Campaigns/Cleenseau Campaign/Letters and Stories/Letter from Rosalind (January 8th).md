@@ -1,8 +1,4 @@
----
-excludePublish: ["all"]
----
-
-Received January 12th:
+Received January 11th:
 
 Friends:
 

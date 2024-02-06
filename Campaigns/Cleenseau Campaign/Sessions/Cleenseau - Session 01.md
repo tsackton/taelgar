@@ -4,13 +4,40 @@ campaign: Cleenseau
 realWorldDate: 2023-01-08
 sessionNumber: 1
 players: [Izgil Moonseeker, Robin, Viepuck, Celyn]
+DR: 1719-10-19
+DR_end: 1719-10-21
 ---
 # Cleenseau - Session 1
->_in Taelgar from the evening of October 19th until the late morning of October 22nd
+>_in Taelgar from the evening of October 19th until the predawn of October 21st
 >7 Robert I / DR 1719
 >[[Cleenseau]] and vicinity
 >on Earth: January 8th, 2023
 
+### Summary and Major Events
+* The party meets on the battlefield, fighting giant spiders in [[Taviose]]
+* The party dines at Essford Manor, after being welcomed as heroes
+
+### Rumors and Information
+* Rosalind's children died recently during the [[Tragic Flood of the River Enst]]
+* [[Rinault Essford|Rinault]], her brother, has gone searching up and down river for evidence of foul play
+
+### New People Met
+* [[Perrin Voclain]], an disicple of the Wilding and druid, in [[Taviose]]
+* [[Ysabel]], the sheriff of [[Cleenseau]]
+* [[Brot Starsearcher]], an eccentric dwarf, and their wife, [[Diesla Starsearcher]]
+* [[Jonathon Henwyn]], the steward of Essford Manor
+* [[Anselm]], the temple administrator and [[Conrad]], his assistant
+* [[Eremon]], an acolyte of the Night Queen
+* [[Sarabeth]], a guardswoman
+
+### Timeline
+* (DR:: 1719-10-17) Celyn arrives in [[Cleenseau]] and takes a room at [[The Fox's Flagon]]
+* (DR:: 1719-10-19) Viepuck arrives in [[Cleenseau]], and also takes a room at [[The Fox's Flagon]]
+* (DR:: 1720-10-20) Spiders attack the village of [[Taviose]]; the party saves the day
+* (DR:: 1719-10-20) The party dines with the Essford household
+* (DR:: 1719-10-21), predawn: The party is brought news of the [[Second Spider Attack on Tavoise]]
+
+## Narrative
 Our session begins on a rainy evening in October with the party scattered -- [[Celyn]] and [[Viepuck]] at the [[The Fox's Flagon]] and [[Izgil Moonseeker]] and [[Robin of Abenfyrd]] camped on the [[South Watch Road]].
 
 [[Celyn]] and [[Viepuck]] play dice for a bit in the evening, and hear some rumors about the [[Tragic Flood of the River Enst|tragic flood]]. In the morning, [[Celyn]] wanders to the fields on the north side of town while Najeer heads to [[Taviose]] to discuss something mysterious with [[Brot Starsearcher]]. 

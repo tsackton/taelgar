@@ -11,17 +11,28 @@ players: [Izgil, Robin, Viepuck, Celyn]
 >[[Cleenseau]] and vicinity
 >on Earth: December 10th, 2023
 
-%%%
-Raw notes
+### Summary and Major Events
 
-Fight with ghouls and shadows'; latern reveals daylight
-Some scouting of rat passages
-Meet with Beatrix; Ysabel dead, other uprisings, etc
-underground crypt - find and kill 3 shadows
-find and free ghost
+* The party defeats various undead plagues in the old fort beneath Essford Manor: ghouls and shadows
+* The party releases a halfling ghost from her torment
+* The party discovers a way down to a deeper, older level, and defeats a massive zombie lurking there
+* The party discovers a mysterious room with a dimension door protected by a huge pool of black tar; after some debate, they successfully cross it using magic and cleverness
 
-down into pit, kill zombie via robin dodging rest firing weapons down
-find main trap room
-long debate on how to get past, ultimately use icy pads to hold the ooze back
+### Rumors and Information
+* [[Ysabel]] and two other members of the town watch were killed by a diseased zombie that exploded
+* Several other small zombie attacks in town were handled, but the guards are scared and stressed
+* Long ago, the fort deep under Cleenseau was a slaugherhouse that hobgoblins used to intern dead humans and perhaps massacre humans
+### New People Met
+* A mysterious halfling ghost, released from the Material Plane
+### Timeline
+* (DR:: 1720-01-07): the party explores the abandoned fort beneath Essford Manor
+### Narrative
 
-%%
+Raw scenes and notes:
+* During the first fight with shadows, Robin's lantern exploded with daylight
+* Sent [[Estiasilos|Es*tiasilos]] to scout rat passages, discover they connected from the fort to [[Tumbledown Farm]]
+* Rushed exploration of the rest before daylight faded; shadows weakened the party a lot, needing a short rest
+* Found a halfling ghost who hated hobgoblins but seemed to respond to Estalios speaking in halfling; discovered a locket in a secret niche
+* Killed zombie with Robin-dodge (so it couldn't hit) plus fire from above
+* Found halfling skeleton with [[Silverthorn]]
+* Found main trap room - a big room with a dimension door portal at one side and black ooze pit with small pillars blocking access. Eventually magically created ice on the tops of each of the pillars to allow everyone to jump along a pattern to get across

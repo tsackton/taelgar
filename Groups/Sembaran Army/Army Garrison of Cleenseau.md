@@ -24,7 +24,8 @@ The garrison is situated in the east end of town, nestled into the gates. The ga
 * (DR:: 1719-11-27): Departs [[Cleenseau]] for [[Dunfry]] with all soldiers who are healthy enough to march
 * (DR:: 1719-12-02): Arrives [[Dunfry]] after some confusion on the road
 * (DR:: 1720-12-26): On the eve of [[Pyravela]], the River Patrol and a squad from the Bridge Patrol departs [[Dunfry]] for [[Cleenseau]] on the authority of [[Colonel Claude Leclerc]]. [[Ancer Benthey]] and part of the Bridge Patrol stays in [[Dunfry]] to await formal orders and bring further messages to [[Cleenseau]] when the situation clarifies
-* (DR:: 1720-01-06): The garrison is ambushed on the [[Old West Road]] by many zombies - at least 60. Approximately two dozen die in the combat, or from wounds shortly afterwards.  
+* (DR:: 1720-01-06): The garrison is ambushed on the [[Old West Road]] by many zombies - at least 60. Approximately fifteen die in the combat, or from wounds shortly afterwards, and another ten are badly wounded and need healing and rest.
+* (DR:: January 10, 1720): A day's ride outside of Cleenseau, the [[Heroes of Cleenseau]] heal and mend the garrison, using magical healing to restore to health the wounded. The troops ride the next morning as if on parade.
 
 %% Additional context notes
 The army was ordered away as part of a general plot by Malach to weaken the borders of Sembara, in general. He had been encouraging various forces in the borderlands to attack, with the goal of recreating a disaster like the early part of the 3rd hobgoblin war.
