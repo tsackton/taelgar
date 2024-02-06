@@ -45,4 +45,7 @@ The action begins just outside the market town of [[Cleenseau]].
 * January 7th, 2024: [[Cleenseau - Session 10]]
 	The party defeats a wight and rides to the recuse of the [[Lord's Guard of Cleenseau]]
 
+* February 4th, 2024: [[Cleenseau - Session 11]]
+	The party organizes the town defenses and eliminates a nuisance 
+
 You might also want to read the [[Cleenseau Campaign - Index of NPCs|Index of NPCs]] or the [[Cleenseau Campaign - Timeline|timeline]]

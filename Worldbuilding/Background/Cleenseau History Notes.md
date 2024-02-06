@@ -77,6 +77,6 @@ Over the 1650s the wall is rebuild, and the garrison reestablished, and the [[Re
 * Underhill was the ruins of the old sembaran and hobgoblin forts and not very well built up until the 1670s and 1680s when the population started to grow  many of the buildings incorporate stones from the old forts
 * Most of the nicer buildings in the garrison quarter date to the 1550s - 1590s and were converted from various garrison buildings in the 1660s. Land grants of relatively large and intact buildings was a key way [[Reginald Essford]] grew the town rapidly
 * [[The Fox's Flagon]] was built in 1689 as a business venture
-* [[The River’s Blessing]] was built in 1709 after a bad flood damaged the other two outside the wall inns, originally as a temporary venture by halflings but it was then sold to the current owner in 1710
+* [[The River's Blessing]] was built in 1709 after a bad flood damaged the other two outside the wall inns, originally as a temporary venture by halflings but it was then sold to the current owner in 1710
 
 
