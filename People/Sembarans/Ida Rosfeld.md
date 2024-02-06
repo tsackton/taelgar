@@ -22,4 +22,4 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Ida is the captain of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]]. She is a no-nonsense commander who respects very few people other than [[Rosalind Essford]] and is known for her sharp tongue and legendary capacity for ale. 
+![[ida-rosfeld.png|right|320]]Ida is the captain of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]]. She is a no-nonsense commander who respects very few people other than [[Rosalind Essford]] and is known for her sharp tongue.

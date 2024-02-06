@@ -13,14 +13,6 @@ born: 1669
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The brother of [[Gideon Thorne]] and uncle-in-law to [[Beatrix Thorne|Beatrix]] and her husband, Samuel Thorne. He lives with his wife, Susanne, and their three grown kids, Samuel, Ella, and [[Betsy Thorne]]. 
+The brother of [[Gideon Thorne]] and uncle-in-law to [[Beatrix Thorne|Beatrix]] and her husband, [[Gabriel Thorne]]. He lives with his wife, Susanne, and their three grown kids, Samuel, Ella, and [[Betsy Thorne]]. 
 
-%%
-(Jon) his wife (Susanne) and their 3 grown kids (Samuel, Ella, and Betsy) (
-  
-Her story is that:
-
-* On January 5th, her neighbor (Jon) his wife (Susanne) and their 3 grown kids (Samuel, Ella, and Betsy) (who lives at 3) were all ill. She brought him and his family soup before going out with Robin
-
-* January 6th, she had a miscarriage and zombie stuff
-%%
+* (DR:: 1720-01-05) Was briefly ill with the zombie plague, but neither him nor anyone in his household actually became zombies

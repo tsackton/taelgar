@@ -5,13 +5,13 @@ campaignInfo: []
 name: Avelina Smith
 born: 1673
 species: human
-ancestry: Highlander
+ancestry: Zimka
 gender: female
 whereabouts: Cleenseau
 ---
 # Avelina Smith
 >[!info]+ Biographical Info  
-> A Highlander [[Humans|human]] (she/her)  
+> A Zimka [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

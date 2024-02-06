@@ -5,6 +5,7 @@ This page lists plot relevant or otherwise interesting updates I've made, organi
 * [[Treasure]] updated after Session 11
 * Letters from Rosalind: [[Letter from Rosalind (January 6th)]]  and [[Letter from Rosalind (January 8th)]]
 * Numerous updates to the geography pages. Start at [[Cleenseau Region]], or go directly to the pages for the manors: [[Manor of Cleenseau]], [[Manor of Valit]], [[Manor of Beury]], [[Manor of Asineau]]
+* Added [[People of Cleenseau]] and made many many updates to individual people pages
 ### Feb 2, 2024
 * Some interesting background on [[Odo Cordwaner]], [[Abigail Moss]], and [[Remy Darrow]]
 ### Jan 28, 2024

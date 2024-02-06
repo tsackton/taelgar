@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, clee/background]
+tags: [person]
 campaignInfo:
 - {campaign: Clee, date: 1720-01-04, type: met}
 name: Oudine
@@ -19,5 +19,4 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on January 4th, 1720 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-%% Killed by zombie plague tumbledown farm 
- a washerwoman from Underhill, was the woman with the baby. Some of the people think she has had several children with various different men, and lives at 'Tumbledown Farm', which is not actually a farm but a large and somewhat run down house nearby where several poorer townsfolk live three or more to a room%%
+A washerwoman from [[Underhill]], who died when her baby turned into a zombie and exploded. Some of the people think she has had several children with various different men, and lived at [[Tumbledown Farm]].

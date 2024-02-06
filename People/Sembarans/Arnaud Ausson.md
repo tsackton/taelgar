@@ -15,7 +15,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A prominent merchant in [[Cleenseau]], his grandmother, [[Lizette Ausson]], traces her family to [[Isingue]] and he and his wife Alessia are the heart of a small community of Isinguen transplants in [[Cleenseau]]. He is well connected with the [[Refounded Alliance of Aurbez]] and well known to the merchant caravans that come from places like [[Laicon]] with recovered dwarven metals. 
+![[arnaud-ausson.png|right|320]]A prominent merchant in [[Cleenseau]], his grandmother, [[Lizette Ausson]], traces her family to [[Isingue]] and he and his wife Alessia are the heart of a small community of Isinguen transplants in [[Cleenseau]]. He is well connected with the [[Refounded Alliance of Aurbez]] and well known to the merchant caravans that come from places like [[Laicon]] with recovered dwarven metals. 
 
 He remains close to his aunt, [[Giselle Ausson]], who runs [[Ausson's Crossing]], and important inn in [[Laicon]].
 

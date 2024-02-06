@@ -14,4 +14,4 @@ died: 1720-01-04
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%  a farmer's wife, who leaves behind a large family of eight children.%%
+A farmer's wife, killed in a zombie attack, who leaves behind a large family of eight children.

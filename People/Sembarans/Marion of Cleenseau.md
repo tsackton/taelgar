@@ -23,7 +23,3 @@ A solider of the Bridge Patrol.
 %%^Date:1720%%
 She was badly wounded during the events of the [[Cleenseau Spider Attacks]] and did not travel to [[Dunfry]] with the rest of the [[Army Garrison of Cleenseau]]. 
 %%^End%%
-
-%% Note:
-She should show up in Cleenseau Session 09 as someone who helps with the Zombies
-%%

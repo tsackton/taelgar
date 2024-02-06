@@ -8,7 +8,7 @@ species: human
 ancestry: Sembaran
 gender: male
 affiliations:
-- {org: Army Garrison of Cleenseau, end: 1719-11-08, title: Sergeant }
+- {org: Army Garrison of Cleenseau, end: 1719-11-05, title: Sergeant }
 - {org: Lord's Guard of Cleenseau, start: 1719-11-16, title: Guardsman }
 whereabouts:
 - {type: home, location: Eftly }

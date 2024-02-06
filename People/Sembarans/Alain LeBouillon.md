@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person]
 species: human
 ancestry: Sembaran
 whereabouts: Cleenseau

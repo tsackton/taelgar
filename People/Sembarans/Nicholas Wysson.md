@@ -9,6 +9,7 @@ gender: male
 affiliations:
 - {org: Lord's Council of Cleenseau}
 whereabouts: 
+- {type: home, location: Rinburg }
 - {type: home, start: 1719-04-15, location: Cleenseau }
 ---
 # Nicholas Wysson
