@@ -18,6 +18,14 @@ The guard is divided up into a household guard of 10, under the command of [[Ame
 
 The household guard is responsible for the defense of the [[Essford Manor]], the personal safety of [[Wymar Essford]] and his family, and assists the town watch when needed.
 
+The town watch is led by [[Beatrix Thorne]], and the current members are:
+* [[Colin]], a guardsman
+* [[Sarabeth]], a guardswoman
+* [[Betsy Thorne]], a guardswoman
+* [[Jon]], a guardsman
+* Clarissa, a guardswoman, recently killed by zombies
+* Jacques, a guardsman, recently killed by zombies
+
 %%^Campaign:None%%
 ### Members
 
