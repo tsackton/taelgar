@@ -13,4 +13,5 @@ affiliations:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+![[duke-of-wisford-2.png|right|320]]The Duke of Wisford is energetic for his age, and is an active campaigner and astute political observer. 
 %% Wife: Isabelle children Armand, Loise, Amélie, captain of the guard Marcel Desrosiers, chancellor Celestine Fontaine %%

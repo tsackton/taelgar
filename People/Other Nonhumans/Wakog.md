@@ -12,3 +12,4 @@ whereabouts: Wakog's Camp
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+![[wakog.png|right|320]]An ogre of unclear origin. Managed to organize a small horde of orcs, and attempted to overrun [[Cleenseau]], but was stopped by the [[Heroes of Cleenseau]].

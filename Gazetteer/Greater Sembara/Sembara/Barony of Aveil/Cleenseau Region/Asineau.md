@@ -23,7 +23,7 @@ A few hundred feet outside the village is small mill and bakehouse. The large st
 
 * [[Lorin Valbert]], the lord, recently fled
 * [[Isolde]], Lord Valbert's chief muscle and advisor, departed with her lord
-* Connor, Matias, and Elbeth, Lorin's guards and valets
+* [[Connor]], [[Matias]] and [[Elbeth]], Lorin's guards and valets
 * Susanna Northwoods, his steward and secretary, and the wife of Bertram
 * Bertram Northwoods, the stablemaster
 * [[Eleanor]], the steward of the temple

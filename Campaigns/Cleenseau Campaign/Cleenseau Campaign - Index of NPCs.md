@@ -151,5 +151,5 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
 <div class="grid cards ext-narrow-margin" markdown>
   - [[Francois the Bandit|François the Bandit]], died of his own hand
   - [[Jerome]], executed in [[Cleenseau]]
-  - [[Wakog]], an ogre, now dead
+  - ![[wakog.png]] [[Wakog]], an ogre, now dead
 </div>
