@@ -13,7 +13,7 @@ whereabouts:
 
 The Cleenseau Garrison is the furthest east-most garrison of the [[Army of the West]]. It is commanded by [[Ida Rosfeld|Captain Ida Rosfeld]] and consists of two patrols:
 
-* The Bridge Patrol, responsible for the security of the bridge and for collecting the bridge tolls. The Bridge Patrol consists of approximately 20 soldiers, currently lead by acting sergeant is [[Ancer Benthey]]
+* The Bridge Patrol, responsible for the security of the bridge and the road, and for providing a reaction force that can march and respond to threats. The Bridge Patrol consists of approximately 20 soldiers, currently lead by acting sergeant is [[Ancer Benthey]]
 * The River Patrol, approximately 35 soldiers, responsible for responding to incursions along the river both up and down river, and occasionally called on to respond to incidents along the [[Bandit's Way]]. Led by [[Eveyln Totteridge|Sergeant Evelyn Totteridge]]
 
 The garrison is situated in the east end of town, nestled into the gates. The garrison buildings themselves date from the final battles of the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]] and the members of the garrison have a proud history as Cleenseau was a key staging point during the hobgoblin wars. The garrison is much diminished from its heyday, but there is a lot of pride in the historical accomplishments.  Although the garrison is based in Cleenseau, it is not under the command of the Lord of Cleenseau and it is not part of the regular town guard. The command of the garrison reports to the [[Dunfry Regiment]] in [[Dunfry]] as part of the [[Army of the West]].
