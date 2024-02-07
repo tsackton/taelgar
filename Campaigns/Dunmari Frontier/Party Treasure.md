@@ -191,7 +191,6 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[38]%%
 - Carved bone statuette of an eagle (80 - 130 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[39]%%
 - The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[40]%%
-- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[30]%%
 - A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[42]%%
 - A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[42]%%
 - A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[44]%%
@@ -339,6 +338,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 ### Given Away
 
+- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard), given to [[Brimskarda]] as a gift  %%SECRET[30]%% 
 - Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
 - A silver wand that functions as an arcane focus, found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. 
 - Brooch of Warmth. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the detailed brooch enameled with brilliant reds, missing a central crystal, and an enchanted ruby found in the chest of gems, clearly meant to fit into the brooch (from the Elemental Forge). While attuned to this item, the wearer gains resistance to cold damage, and is unaffected by temperatures as low as -50 degrees. Given to Faldrak as partial payment for magic item construction. 
