@@ -11,7 +11,7 @@ partOf: Sembaran Army
 >[!info]+ Information
 > part of the [[Sembaran Army]], [[Sembara]]
 
-The Army of the West numbers 4,000 soldiers, divided into a North Watch, Center Watch, and South Watch. The South Watch is the largest at 1,600 soldiers; the North and Center Watches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by [[General Isabeau Lemoine]], and each watch is commanded by a colonel, and each regiment by a major.
+The Army of the West numbers 4,000 soldiers, divided into a North Watch, Center Watch, and South Watch. The South Watch is the largest at 1,600 soldiers; the North and Center Watches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by [[General Ilsa Lemoine]], and each watch is commanded by a colonel, and each regiment by a major.
 
 Beneath the regimental level there are either companies, commanded by a captain, usually of 100 soldiers, or garrisons, also commanded  by a captain, of varying sizes.
 

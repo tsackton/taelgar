@@ -17,7 +17,6 @@ players: [Izgil, Robin, Viepuck, Celyn]
 * The party releases a halfling ghost from her torment
 * The party discovers a way down to a deeper, older level, and defeats a massive zombie lurking there
 * The party discovers a mysterious room with a dimension door protected by a huge pool of black tar; after some debate, they successfully cross it using magic and cleverness
-
 ### Rumors and Information
 * [[Ysabel]] and two other members of the town watch were killed by a diseased zombie that exploded
 * Several other small zombie attacks in town were handled, but the guards are scared and stressed
@@ -33,6 +32,6 @@ Raw scenes and notes:
 * Sent [[Estiasilos|Es*tiasilos]] to scout rat passages, discover they connected from the fort to [[Tumbledown Farm]]
 * Rushed exploration of the rest before daylight faded; shadows weakened the party a lot, needing a short rest
 * Found a halfling ghost who hated hobgoblins but seemed to respond to Estalios speaking in halfling; discovered a locket in a secret niche
-* Killed zombie with Robin-dodge (so it couldn't hit) plus fire from above
+* Killed huge zombie with Robin-dodge (so it couldn't hit) plus fire from above
 * Found halfling skeleton with [[Silverthorn]]
 * Found main trap room - a big room with a dimension door portal at one side and black ooze pit with small pillars blocking access. Eventually magically created ice on the tops of each of the pillars to allow everyone to jump along a pattern to get across

@@ -69,4 +69,4 @@ tags: [timeline]
 * January 7th, evening and overnight: The party destroys a mysterious green gem guarded by a wight
 * January 7th: [[Stavenford]] is attacked by a wight and [[Eftly]] is attacked by a stench monster
 * January 8th: [[Fellburn]] is besieged by a skeletal army
-* January 10th, evening: [[Ida Rosfeld]] arrives from [[Dunfry]], having been on the road for almost two weeks, and having lost half the garrison to a massive zombie attack.
+* January 9th, evening: [[Ida Rosfeld]] arrives from [[Dunfry]], having been on the road for almost two weeks, and having lost half the garrison to a massive zombie attack.

@@ -21,4 +21,10 @@ A halfling child, he is the errand boy of [[The Crossroads Inn]] in [[Cleenseau]
 
 %%^Campaign:Clee%%
 He was very charmed by [[Celyn]] and showed him a secret passageway in the basement. Likely to be responsive to further inquires from [[Celyn]] in particular.
+
+### Stories
+Before [[Cleenseau - Session 08]] He tells you a couple of interesting things:
+
+- He says that his great-grand aunt Marigold says that the Crossroads Inn is hundreds of years old, and is the oldest building in Cleenseau. She was alive, he says, when the hobgoblins were here 75 years ago.
+- He says is brothers used to tell him scary stories about this secret passageway, but he never believed them and he wouldn't repeat them to Celyn if asked. Tracking down the brothers would be easy though
 %%^End%%

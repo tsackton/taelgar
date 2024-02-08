@@ -1,4 +1,4 @@
-Received on January 8th
+Received on January 8th:
 
 Friends:
 

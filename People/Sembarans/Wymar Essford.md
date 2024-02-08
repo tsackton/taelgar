@@ -24,10 +24,7 @@ whereabouts: Cleenseau
 
 ![[WymarOfClenseau.jpeg|right|320]]The aging and senile lord of the manor in [[Cleenseau]]. The son of [[Reginald Essford]] and [[Celine Essford]]. He is rarely involved in the day to day events of the town. His children are [[Rosalind Essford]] and [[Rinault Essford]]. Since March 1719, he has been suffering from increasingly significant dementia and his daughter has largely taken over the management of [[Cleenseau]]. 
 
-
-
-
-
+### Wymar's Story of Childhood
 
 >[!info] Childhood Story, as told to [[Viepuck]] under the influence of his patron's mind-probe
 In his childhood, he recalled overhearing his parents (Reginald and Celine). Reginald was very drunk, and was weeping. Wymar recalls hearing his father sobbing to Celine: "I can't forget it. That day, the bodies just kept walking up out of the tower, just below us, and he was grinning even as we struck him down. Mother help me, I want to forget. Sometimes in my dreams I still see it. Was it wrong to build here? Is this place cursed?".
