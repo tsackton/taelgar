@@ -11,6 +11,12 @@ players: [Izgil, Robin, Viepuck, Celyn]
 >[[Cleenseau]] and vicinity
 >on Earth: October 22nd, 2023
 
+### Summary and Major Events
+### Rumors and Information
+### New People Met
+### Timeline
+### Narrative
+
 %% RAW NOTES
 Dreams
 Rosalind leaving

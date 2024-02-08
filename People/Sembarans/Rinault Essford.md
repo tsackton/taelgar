@@ -22,8 +22,14 @@ affiliations:
 
 ![[Lord-Rinault-Essford.png|right|320]]The younger brother of [[Rosalind Essford|Rosalind]] he is considered rash and impulse. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
 
+%%^Campaign:Clee%%
+### Rinault's Childhood Stories
+Before [[Cleenseau - Session 08]] Rinault shares some stories of his childhood:
 
+- When Renault was a bored teenager he sometimes took some buddies and went to smash stuff in the old ruins on the south side of the Enst. One night, he says, he swore he saw a skeleton arm move in the dirt. 
+- He was fiercely forbidden from climbing around the hill or the basements of Essford Manor. He was always a rambunctious kid and often didn't follow the rules, but the one time he and two friends were "digging for buried treasure" in the side of the hill his father was apoplectic and he was confined to his room for a month afterwards. 
 
+%%^End%%
 
 
 %%^Campaign:None%%

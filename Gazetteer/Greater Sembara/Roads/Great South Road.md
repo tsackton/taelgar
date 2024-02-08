@@ -14,4 +14,4 @@ whereabouts: Greater Sembara
 
 An ancient road that runs from [[Embry]] to [[Cassons]]. In better days it ran south as far as [[Isingue]], and in the Drankorian era, was said to continue almost 2500 miles to [[Drankorian Empire|Drankor]] itself.
 
-Although in poor repair in some places, for much of it's length it is paved with wide, smooth stones and has drainage ditches on the sides. According to legend many of the stones in the road are a thousand years old, and have never cracked.
+Although in poor repair in a few places, for much of it's length it is paved with wide, smooth stones with drainage ditches on both sides. According to legend many of the stones in the road are a thousand years old, and have never cracked.
