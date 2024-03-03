@@ -191,15 +191,15 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[38]%%
 - Carved bone statuette of an eagle (80 - 130 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[39]%%
 - The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[40]%%
-- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[42]%%
-- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[42]%%
-- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[44]%%
+- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[41]%%
+- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[41]%%
+- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[43]%%
 
 ### Books and Notes
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]]
 - [[On the Lost People of the Forests]], by [[Gnaeus]]
 - [[The Runes of Creation]], author unknown
-- A treatise about alchemy carved on metal cylinders, author unknown, from [[Mezzar|Grimbaskal]]'s hoard.  %%SECRET[45]%%
+- A treatise about alchemy carved on metal cylinders, author unknown, from [[Mezzar|Grimbaskal]]'s hoard.  %%SECRET[44]%%
 - The [[Enchiridion of the Occulta Ludum]], a small pamphlet titled in Drankorian, faintly magical and empty inside. Found in Eudomes' tower. 
 - A second copy of “The [[Enchiridion of the Occulta Ludum]]”, also blank and slightly magical. Found in the bedroom of the Elemental Forge workshop.
 - [[Tales Before the Fall]], a huge book written in Giant, with tales of giants, from Eudomes' tower. 
@@ -219,14 +219,16 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- Sheaf of receipts from [[Stormcaller Tower]].  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value.
 
 ### Unusual Materials or Components
+- Material harvested from an ice worm: teeth, sensory patches, skin, and stomach acid
+- Material harvested from a white dragon: cold breath venom sack, scales, resistance organ, teeth, and claws
 - Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. Taken from the Elemental Forge. 
 - Eight red dragon scales, from the Elemental Forge. 
 - Eternal ice, from the Elemental Forge
-- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[46]%%
+- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[45]%%
 - Blank spell scroll ([[Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. 
-- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[47]%%
+- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[46]%%
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
-- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[48]%%
+- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[47]%%
 - [[Vial of Acid (Gnoll Leader)|Metal vial with acidic liquid from gnoll war leader]] ([[Raven's Hold]], [[Wellby]]). No obvious value.
 ### Miscellany and Trade Goods
 - A wand, broken in half, once magical, but no longer ([[Kharsan]] palace)
@@ -238,9 +240,9 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Key ring that opens the door to the werewolf lair, as well as the cells and chains in the prison. Carried by the werewolf guard captain. No obvious value.
 - Small key that opens the chest in the secret room in the Empty Moon lair. Taken from the werewolf leader. No obvious value.
 - Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]
-- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[49]%%
-- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[50]%% 
-- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[51]%%
+- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[48]%%
+- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[49]%% 
+- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[50]%%
 ## Other Rewards
 - A meta-resource from speaking with [[Arheste]]: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics. Currently
 - The party is always welcome in [[Karawa]] and will always have food and shelter while they are in town.
@@ -257,7 +259,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - The Boulder-Ladder, the hero of the [[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
 ### Destroyed or Used
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
-- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[52]%%
+- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[51]%%
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
@@ -266,7 +268,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- Spectral prism (used for rainbow bridge)
 	- Four silver bars (used for cloud generator)
 	- Four vials of mercury (used for rainbow bridge and cloud generator)
-- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] %%SECRET[53]%%
+- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] %%SECRET[52]%%
 - [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 81 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
 - [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
@@ -332,7 +334,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A pea-sized cube of shiny cobalt from [[Agata]]’s hut.
 - Six white moonstone gems from the werewolf lair.
 - A malachite carving of a stalking cat, designed as a pendant. from [[Agata]]’s hut.
-- A black pearl and silver twisted flame amulet, reminiscent of one of [[Cha'mutte]]'s symbols. Taken from the undead creature in the fort east of [[Gomat]].  %%SECRET[55]%%
+- A black pearl and silver twisted flame amulet, reminiscent of one of [[Cha'mutte]]'s symbols. Taken from the undead creature in the fort east of [[Gomat]].  %%SECRET[54]%%
 - Two small and uncut pieces of amber from [[Raven's Hold]]
 - Silver goblet with small red gems. Found in [[Raven's Hold]], in the [[Hobgoblins|hobgoblin]] chief’s bedroom.
 
