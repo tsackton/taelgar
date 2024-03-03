@@ -1,7 +1,7 @@
 ---
 tags: [session-note]
 campaign: Dunmari Frontier
-sessionNumber: 90
+sessionNumber: 91
 realWorldDate: 2024-01-12
 DR: 1749-03-09
 DR_end: 1749-03-18
@@ -59,8 +59,7 @@ Meanwhile, [[Wellby]] investigated the dwarves, finding no signs of magical cont
 
 Our session ends the next afternoon, as the party approached the steading of the frost giant king [[Brimskarda]]. 
 
-
-%% chatGPT summaries
+## Transcript
 
 ### Detailed Summary
 #### Scene 1
@@ -79,7 +78,7 @@ Our session ends the next afternoon, as the party approached the steading of the
 - Seeker utilizes ice daggers to target enemies, with the party coordinating their attacks for maximum efficiency.
 - A Gloomstalker attempts to flee with Kenzo grappled, but is ultimately defeated by the party's concentrated efforts.
 - The last of the gloomstalkers and Shadow Hunters are dealt with, securing victory for the party.
-#### Scene 2:
+#### Scene 2
 (Aftermath in Tollen. Late at night on March 9th, 1749 to morning March 13th).
 - The party interacts with Tollen guards who arrive by rowboat, questioning the recent attack. Delwath explains they were attacked by hunters, assassins from Chardon, though specifics are avoided at Riswynn's suggestion.
 - Delwath informs the guard that the attackers were a faction within Chardon, and it should take their master weeks to create new assailants. The party plans to leave in three days, believing the threat is temporarily resolved.
@@ -145,4 +144,4 @@ The party embarks on their journey north, navigating through cold weather, a sno
 The party strategizes on how to approach two giants guarding a mining operation manned by dwarves, contemplating the use of invisibility and direct communication to assess the situation without conflict. They send a note to the giants expressing peaceful intentions and prepare to both engage and observe stealthily.
 
 The party, using peaceful and diplomatic means, communicates with giants and dwarves to navigate the complexities of their situation. They gather information about Brimskarda and his kingdom, and Delwath secures a note of introduction, setting the stage for a direct meeting with the frost giant king.
-%%
+
