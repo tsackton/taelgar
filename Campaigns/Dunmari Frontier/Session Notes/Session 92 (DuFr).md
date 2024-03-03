@@ -49,7 +49,7 @@ The next morning, the party met [[Algerd]], a socially-awkward historian without
 
 Departing [[Isenborg]] with [[Algerd]] in tow, the party journeyed east for two uneventful days. The afternoon of the third day, they spotted the rumblings of an ice worm, moving through the forest and bearing down on two elk. Suspecting the elk may be [[Vargaldi]], the party entered into battle. The ice worm proved to be a formidable foe, swallowed and nearly digesting [[Riswynn]], but was defeated. 
 
-![[DALL·E 2024-02-06 22.55.44 - Imagine a colossal ice worm, its body stretching endlessly across a frozen landscape. The creature's skin is a translucent blue, shimmering with an in.webp]]
+![[ice-worm.webp]]
 
 The confrontation not only tested the party's skill in battle, but also led to an unexpected alliance with the [[Vargaldi]], shape-shifting beings from a hidden village. The party's victory over the Ice Worm, marked by strategic combat and skillful extraction of the creature's valuable parts, forged a bond with the shape-shifters, who guiding the party to their concealed abode where a medley of villagers awaited, heralding the beginning of a new chapter in their adventure.
 
