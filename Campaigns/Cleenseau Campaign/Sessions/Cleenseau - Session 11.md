@@ -40,7 +40,7 @@ DR_end: 1720-01-12
 * (DR:: 1720-01-10), morning: the party returns to Cleenseau for a council of many of the most important people in the region. The council agrees to fund an expansion of Ida's company to 100 soldiers, and to base the garrison at [[Asineau]]
 * (DR:: 1720-01-10), evening: [[Estiasilos|Es*tiasilos]], after a failed attempt, steals a jewelry box from [[Lorin Valbert]]
 * (DR:: 1720-01-11), morning: the party visits [[Asineau]] and speaks with [[Eleanor]], and tricks [[Lorin Valbert]] into believing the fey are after him
-* (DR:: 1720-01-11), afternoon: the party visits [[Taviose]] and speaks with [[Hugh Darrow]] and [[Phillipa Northwood]]
+* (DR:: 1720-01-11), afternoon: the party visits [[Taviose]] and speaks with [[Hugh Darrow]],  [[Phillipa Northwood]] and [[Brot Starsearcher|Brot]]
 * (DR:: 1720-01-11), late afternoon: receive a [[Letter from Rosalind (January 8th)|letter from Rosalind]]
 * (DR:: 1720-01-12), morning: receive news that [[Lorin Valbert]] has disappeared and renounced his manor
 ## Narrative

@@ -1,6 +1,8 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### Feb 10, 2024
+* Added information about [[Asineau]]
 ### Feb 5, 2024
 * [[Treasure]] updated after Session 11
 * Letters from Rosalind: [[Letter from Rosalind (January 6th)]]  and [[Letter from Rosalind (January 8th)]]

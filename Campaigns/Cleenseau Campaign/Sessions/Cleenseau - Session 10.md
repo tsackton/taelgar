@@ -33,10 +33,12 @@ players: [Izgil, Robin, Viepuck, Celyn]
 * (DR:: 1720-01-08), just after midnight: the party defeats the wight
 * (DR:: 1720-01-08), just after midnight: the party meets Greymalkin and rides to the rescue of the remanents of the [[Lord's Guard of Cleenseau]], defeating a dozen zombies
 * (DR:: 1720-01-08), dawn: [[Warin the Woodsman]], [[Erick Murtha]], and [[Beatrix Thorne|Beatrix]] are waiting for the party. Lord Murtha and Warin bring news of various undead attacks. 
-* (DR:: 1720-01-08), afternoon: The party finishes investigation of the ruins beneath the fort.
+* (DR:: 1720-01-08), afternoon: The party finishes investigation of the ruins beneath the fort and discovers treasure
 * (DR:: 1720-01-08), afternoon: The party receives a [[Letter from Rosalind (January 6th)|letter from Rosalind]]
 ### Narrative
+(To be written)
 
+### Raw Scenes
 Raw notes and notable scenes:
 * Destroying the animated armor and using fire to push around the mist, to avoid getting infected
 * Robin taking attack after attack after attack from the wight, defending well 

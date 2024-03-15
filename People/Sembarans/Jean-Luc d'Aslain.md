@@ -15,5 +15,5 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[jean-luc d'aslain.png|right|320]]A disciple of the Father, splitting tie between [[Dallet]] and [[Beury]]. A cousin of the current baron, [[Isabeau d'Aslain]].
+![[jean-luc d'aslain.png|right|320]]A disciple of the Father, splitting time between [[Dallet]] and [[Beury]]. A cousin of the current baron, [[Isabeau d'Aslain]].
 

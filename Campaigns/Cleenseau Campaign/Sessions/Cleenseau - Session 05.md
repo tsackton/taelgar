@@ -11,6 +11,16 @@ players: [Robin, Viepuck, Celyn]
 >[[Cleenseau]] and vicinity
 >on Earth: June 4th, 2023
 
+### Summary and Major Events
+### Rumors and Information
+### New People Met
+### Timeline
+* (DR:: 1719-12-04): [[Guy de Varan]] arrives, escaped from [[Wakog|Wakog's]] camp, telling stories of torture and pillage
+* (DR:: 1719-12-05): the party prepares and scouts towards [[Wakog|Wakog's]] camp
+* (DR:: 1719-12-06), late afternoon: the [[Battle Against Wakog]]. The party emerges victorious
+### Narrative
+
+### Raw Notes
 
 %% 
 He describes the camp as follows:
