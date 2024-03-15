@@ -1,6 +1,5 @@
 ---
 tags: [place]
-campaignInfo: []
 name: Braebein
 typeOf: line of hills
 partOf: Highlands

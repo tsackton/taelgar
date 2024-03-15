@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/clee]
 campaignInfo:
 name: Barony of Brumecliff
 typeOf: barony

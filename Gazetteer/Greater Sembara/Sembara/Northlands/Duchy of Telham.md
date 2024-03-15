@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/needswork]
 campaignInfo:
 name: Duchy of Telham
 typeOf: duchy
