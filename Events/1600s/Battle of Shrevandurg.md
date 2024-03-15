@@ -1,5 +1,5 @@
 ---
-tags: [event-source, status/stub, status/unknown]
+tags: [event-source, status/needswork/internal]
 name: Battle of Shrevandurg
 typeOf: battle
 displayDefaults: {defArt: the}

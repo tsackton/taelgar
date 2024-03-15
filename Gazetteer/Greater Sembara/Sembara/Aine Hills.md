@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub, status/unknown]
+tags: [place]
 campaignInfo:
 name: Aine Hills
 typeOf: line of hills

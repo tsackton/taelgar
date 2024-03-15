@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 name: Barony of Montsé
 whereabouts: Borderlands
 typeOf: barony

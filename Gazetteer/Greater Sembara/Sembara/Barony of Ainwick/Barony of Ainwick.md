@@ -1,12 +1,14 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 campaignInfo:
 name: Barony of Ainwick
 typeOf: barony
-partOf: Western Marches
+whereabouts: Western Marches
 ---
 # The Barony of Ainwick
->[!info]+ Information
-> A barony in [[Sembara]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An ancient barony in Sembara, historically aligned with the powerful [[Duchy of Wisford]].

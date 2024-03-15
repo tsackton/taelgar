@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/unknown]
+tags: [place]
 campaignInfo:
 name: Barony of Brumecliff
 typeOf: barony
-partOf: Borderlands
+whereabouts: Borderlands
 pronunciation: Broom-cliff
 ---
 # The Barony of Brumecliff
