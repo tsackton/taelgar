@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/notes, status/stub, place, status/unknown]
+tags: [status/needswork/blankslate, place]
 partOf: Spiritual Realms
 typeOf: plane
 ---

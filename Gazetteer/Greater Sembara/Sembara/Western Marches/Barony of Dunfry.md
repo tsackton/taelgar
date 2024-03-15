@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/unknown]
+tags: [place]
 campaignInfo:
 name: Barony of Dunfry
 typeOf: barony
-partOf: Western Marches
+whereabouts: Western Marches
 ---
 # The Barony of Dunfry
 >[!info]+ Information

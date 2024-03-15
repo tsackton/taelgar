@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/needswork/wip]
 aliases: [Sembaran Borderlands]
 displayDefaults: { defArt: the }
 whereabouts: Sembara

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/background, person, status/stub, status/unknown]
+tags: [person, status/cleanup/header]
 campaignInfo: []
 name: Amaya
 born:
@@ -14,5 +14,7 @@ activeYear: 1747
 >[!info]+ Biographical Info  
 > A salt [[Lizardfolk|lizardfolk]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%add MC campaign info%%
 
 A lizardfolk scout and hunter.

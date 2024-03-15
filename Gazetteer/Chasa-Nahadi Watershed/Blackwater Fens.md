@@ -1,3 +1,3 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/needswork/internal]
 ---
