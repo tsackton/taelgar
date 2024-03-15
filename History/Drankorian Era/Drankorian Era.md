@@ -1,3 +1,3 @@
 ---
-tags: [timeline, status/stub, status/unknown]
+tags: [timeline, status/needswork/wip]
 ---
