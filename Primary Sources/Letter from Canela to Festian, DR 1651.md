@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip, source]
+tags: [status/needswork, source]
 excludePublish: ["all"]
 ---
  

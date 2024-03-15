@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, person, dufr/met, dufr/major, status/unknown]
+tags: [status/needswork, person]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-15, type: imprisoned}

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, dufr/met_one, person, dufr/minor, status/unknown]
+tags: [status/needswork, person]
 campaignInfo: []
 name: Somi-nai
 born:

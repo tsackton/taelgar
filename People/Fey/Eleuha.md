@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, status/uptodate, dufr/met_one, person, status/unknown]
+tags: [dufr/background, dufr/met_one, person, status/needswork/notes]
 displayDefaults: {boxInfo: '<subspecies:AU> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Eleuha

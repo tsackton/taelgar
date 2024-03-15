@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork]
 name: Fellburn
 typeOf: town
 partOf: Duchy of Wisford

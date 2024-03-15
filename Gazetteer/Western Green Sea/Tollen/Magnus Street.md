@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/needswork/collate]
+tags: [place, status/needswork/notes, status/internal]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Magnus Street

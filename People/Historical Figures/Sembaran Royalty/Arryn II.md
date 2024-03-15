@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/collate]
+tags: [historical, person/ruler, status/internal]
 name: Arryn II
 born: 1601
 species: human

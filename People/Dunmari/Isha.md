@@ -9,7 +9,7 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping, end: 1748-06-08 }
-- {type: away, location: Karawa, start: 1748-06-09 }
+- {type: home, location: Karawa, start: 1748-06-09 }
 ---
 # Isha
 >[!info]+ Biographical Info

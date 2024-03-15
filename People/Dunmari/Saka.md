@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/notes, status/unknown]
+tags: [person, dufr/met, dufr/major, status/needswork/notes, status/unknown]
 name: Saka
 born: 1664
 species: human

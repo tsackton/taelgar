@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/internal]
 campaignInfo: []
 name: Selkan
 born:
@@ -13,5 +13,7 @@ whereabouts:
 # Selkan
 >[!info]+ Biographical Info  
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
+
+%%add whereabouts and campaign info%%
 
 A Dunmari man freed from the [[Mirror of Soul Trapping]]. He is bald, with weary eyes full of pain. His thumbs and tongue are cut off, and looks prematurely old. 

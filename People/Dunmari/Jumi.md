@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/image, status/internal]
 campaignInfo: []
 name: Jumi
 born: 1746
@@ -15,4 +15,10 @@ whereabouts: Karawa
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-[[Cintra]]'s daughter. Kidnapped by [[Agata]] and partially turned to wood, but freed by [[Seeker]] in [[Session 29 (DuFr)]]. 
+%%need to organize whereabouts and campaign info for Jumi%%
+
+[[Cintra]]'s young daughter, and a magical prodigy, blessed by the spirit of [[Shakun]]. 
+
+%%^Date:1748-06-01%%
+In the spring of 1748, Jumi was kidnapped by the hag [[Agata]], and partially turned to wood. She was [[Session 29 (DuFr)|freed]] by [[Seeker]] after the [[Dunmar Fellowship]] [[Session 28 (DuFr)|defeated Agata]].
+%%^End%%

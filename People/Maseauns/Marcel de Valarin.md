@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/notes, status/unknown]
+tags: [person, status/needswork/notes, status/unknown]
 name:
 born:
 died: 1688

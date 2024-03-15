@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/notes, status/unknown]
+tags: [organization, status/needswork/notes, status/unknown]
 displayDefaults: {defArt: ""}
 name: Occulta Ludum
 typeOf: magical society

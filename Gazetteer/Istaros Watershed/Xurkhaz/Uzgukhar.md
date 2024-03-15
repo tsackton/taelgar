@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/images]
+tags: [place, status/image]
 campaignInfo:
 name: Uzgukhar
 typeOf: city

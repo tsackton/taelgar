@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/collate]
+tags: [person, status/internal]
 campaignInfo:
 - {campaign: DuFr, type: freed, date: 1749-01-08, wParty: "<met:u> from the <current:1> by <person> on <target>"}
 name: Sh’shethis

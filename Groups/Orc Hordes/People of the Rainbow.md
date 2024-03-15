@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes, status/needswork/collate]
+tags: [organization, status/needswork/notes, status/internal]
 displayDefaults: {partOf: ""}
 campaignInfo:
 created: 843 

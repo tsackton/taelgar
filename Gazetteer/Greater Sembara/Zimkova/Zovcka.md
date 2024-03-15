@@ -1,5 +1,5 @@
 ---
-tags: [place, status/mike, status/notes, status/stub]
+tags: [place, status/mike, status/needswork/notes, status/stub]
 campaignInfo: []
 name: Zovcka
 typeOf: realm

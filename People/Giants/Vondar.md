@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, status/uptodate, dufr/met_one, person, status/unknown]
+tags: [person, status/needswork]
 campaignInfo: []
 name: Vondar
 born:

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/notes, status/unknown]
+tags: [dufr/met_one, person, dufr/minor, status/needswork/notes, status/unknown]
 displayDefaults: { endStatus: passed on }
 campaignInfo: []
 name: Nora Silverspark

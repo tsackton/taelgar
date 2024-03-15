@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/collate]
+tags: [place, status/internal]
 pronunciation: uh-SKUN-dee
 campaignInfo: []
 name: Askandi

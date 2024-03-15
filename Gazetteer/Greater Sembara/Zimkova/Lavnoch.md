@@ -1,5 +1,5 @@
 ---
-tags: [place, status/notes, status/unknown]
+tags: [place, status/needswork/notes, status/unknown]
 campaignInfo:
 name: Lavnoch
 typeOf: realm

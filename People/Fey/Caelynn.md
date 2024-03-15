@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, person, dufr/met, dufr/major, status/unknown]
+tags: [status/needswork, person]
 campaignInfo:
 - {campaign: DuFr, type: met, date: 1748-12-17}
 name: Caelynn the Seer

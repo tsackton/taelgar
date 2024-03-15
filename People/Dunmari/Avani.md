@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-campaignInfo: [{campaign: dufr, type: cured of lycanthropy, person: Riswynn, date: 1748-07-03 }]
-name: Dunmari werewolf woman
+tags: [person]
+campaignInfo: 
+- {campaign: dufr, type: cured of lycanthropy, person: Riswynn, date: 1748-07-03 }
+name: Avani
 born:
 species: human
 ancestry: Dunmari
