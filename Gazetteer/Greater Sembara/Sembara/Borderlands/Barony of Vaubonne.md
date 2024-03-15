@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/needswork/clee]
 campaignInfo:
 name: Barony of Vaubonne
 typeOf: barony

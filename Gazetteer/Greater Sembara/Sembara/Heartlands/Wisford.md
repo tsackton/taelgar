@@ -1,5 +1,5 @@
 ---
-tags: [place]
+tags: [place, status/needswork]
 campaignInfo:
 name: Wisford
 typeOf: city

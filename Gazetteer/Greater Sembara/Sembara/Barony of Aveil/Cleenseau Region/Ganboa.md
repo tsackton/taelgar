@@ -16,7 +16,7 @@ population: 62
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small lizardfolk village a few miles downstream on the Enst, known in [[Cleenseau Region]] as a good source of healing herbs. Several lizardfolk from Ganboa are regulars at the markets in [[Cleenseau]] and [[Beury]].  Ganboa is built on a cul-de-sac in the [[Enst]] where the banks become very marshy and the river splits and northly channel meanders through several large marshy flats. It is a small village of only about a two dozen huts, about half scattered across the semi-permanent marsh islands, and the other half along the banks of the river. 
+A small lizardfolk village a few miles downstream on the Enst, known in [[Cleenseau Region]] as a good source of healing herbs. Several lizardfolk from Ganboa are regulars at the markets in [[Cleenseau]] and [[Beury]].  Ganboa is built on a cul-de-sac in the [[Enst]] where the banks become very marshy and the river splits and a northerly channel meanders through several large marshy flats. It is a small village of only about a two dozen huts, about half scattered across the semi-permanent marsh islands, and the other half along the banks of the river. 
 
 A small community of fisherfolk in [[Asineau]] has been known to grumble about lizardfolk getting preferential fishing rights when times are lean, but relationships with the humans in the region as usually quite good.
 ### Notable Residents
