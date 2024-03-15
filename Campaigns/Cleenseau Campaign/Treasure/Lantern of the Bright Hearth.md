@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, status/unknown]
+tags: [item/magical]
 campaignInfo:
 name: Lantern of the Bright Hearth
 ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth

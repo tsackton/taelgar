@@ -1,5 +1,4 @@
 ---
-tags: [status/unknown]
 campaignInfo: []
 name: AC - Session 1
 fc-date: 05-16-1688

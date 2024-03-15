@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, status/unknown]
+tags: [item/magical]
 campaignInfo:
 name: Hammer of Vigilance
 typeOf: hammer

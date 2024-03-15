@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 
 Some time later, he learned of Airion. He doesn't remember exactly how, or from who. But he took the knife and went into the mountains, hoping to learn more and maybe find answers. The time in the mountains is mostly a blank; he remembers the dreams more clearly than his waking moments, and the strength of Gazankoa flowing through him, saving him many times. 
 

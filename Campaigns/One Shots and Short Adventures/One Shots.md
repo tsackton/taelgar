@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 - Tollen one shot (D&D version and FATE version); considered canon, timeline a bit ambiguous
 - Stone Titan one-shot (considered canon, set "a while ago" but can modify exactly when)
 - Informatics one-shot (maybe not canon? but has some decent villages and such, so at least import those)

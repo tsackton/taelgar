@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 name: Mawakel Peninsula
 typeOf: region
-partOf: West Coast Region
+whereabouts: West Coast Region
 ---
 # The Mawakel Peninsula
 >[!info]+ Information  

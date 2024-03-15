@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown, background]
+tags: [background]
 ---
 
 
