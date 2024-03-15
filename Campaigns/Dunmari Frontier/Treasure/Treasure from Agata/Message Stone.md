@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/notes, status/refactor]
+tags: [status/needswork/notes, status/cleanup/reformat]
 ---
 %%
 this is a specific page, which needs to be generalized for the basic class of items

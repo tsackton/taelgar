@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/internal]
+tags: [meta, status/needswork/wip]
 ---
 # Players of Taelgar
 
@@ -12,4 +12,9 @@ Major campaigns have included:
 - The Dunmar Fellowship, sometimes known as the side quests, a campaign run by Tim and featuring [[Wellby]], [[Seeker]], [[Delwath]], and [[Kenzo]], with frequent appearances by [[Riswynn]], and many other guests, were active from DR 1748- in Taelgar, and from 2020- in the real world.
 - The [[Heroes of Cleenseau]], a campaign run by Mike and featuring [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], [[Celyn]], and [[Viepuck]], were active in DR 1719- in Taelgar and from 2023- in the real world
 
-%% need to add Grey Tempests / Great Library to Obsidian %%
+In addition, several shorter adventures and series of one-shots have included:
+
+- The heroes and adventurers of [[Hamri]], in the [[Mawar Confederacy]]
+- Tollen one shot
+- Historical one shot (stone titan)
+- Labyrinths of the Lost

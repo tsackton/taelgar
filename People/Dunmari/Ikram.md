@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image, status/internal]
+tags: [person, status/image, status/cleanup/header]
 campaignInfo: []
 name: Ikram
 born: 1710

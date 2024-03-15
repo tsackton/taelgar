@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/internal]
+tags: [historical, person/ruler]
 name: Bertram I
 born: 1538
 species: human

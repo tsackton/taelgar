@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/internal]
+tags: [place, status/cleanup/header, status/needswork/internal]
 pronunciation: uh-SKUN-dee
-campaignInfo: []
 name: Askandi
 typeOf: city
 ancestry: Dunmari

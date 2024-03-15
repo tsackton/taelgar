@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/internal]
+tags: [place, status/needswork/wip]
 displayDefaults: {defArt: ""}
 typeOf: settlement
 typeOfAlias: village
@@ -10,6 +10,6 @@ typeOfAlias: village
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%
-[[Aursen Crossing]], small river village at the crossing of the Aursen with the Dunmar Road
+Aursen Crossing, small river village at the crossing of the Aursen with the Dunmar Road
 Only invented stuff about this in the primary sources folder, not necessarily canonical 
 %%

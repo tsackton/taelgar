@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/internal]
+tags: [place, status/needswork/internal, status/cleanup/reformat]
 name: Xurkhaz
 created: 1583
 typeOf: realm
@@ -13,6 +13,8 @@ pronunciation: ZURK-kaz
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%rewrite in the style of the Dunmar page%%
 
 Xurkhaz, the Land of the Peaceful Sun, is the kingdom of the [[People of the Rainbow]].
 ## Geography

@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes, status/internal]
+tags: [organization]
 displayDefaults: {partOf: ""}
-campaignInfo:
 created: 843 
 typeOf: clan
 ancestry: orc

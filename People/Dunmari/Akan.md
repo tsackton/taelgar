@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/refactor, person, testcase]
+tags: [person, testcase/with-whereabouts]
 campaignInfo: 
 - {campaign: dufr, type: met, date: 1748-03-23}
 name: Akan
@@ -26,7 +26,7 @@ whereabouts:
 
 A Dunmari sheep herder from the area outside [[Karawa]]. Pastoralist and nomad, typical of the Dunmari in the eastern region of the country.  
 
-%% Refactor reason: a good example of a 'with' whereabout being useful to track e.g movement of the Karawa refugees%%
+%% Testcase reason: a good example of a 'with' whereabout being useful to track e.g movement of the Karawa refugees%%
 
 %%SECRET[1]%%
 

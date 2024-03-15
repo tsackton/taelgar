@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/refactor]
+tags: [place]
 name: Garamjala Desert
 aliases: [Garamjala]
 whereabouts: 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/internal]
+tags: [event-source, person, status/cleanup/header]
 campaignInfo: []
 name: Amil
 born: 1731

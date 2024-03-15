@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/internal]
+tags: [person, status/cleanup/header]
 campaignInfo:
 - {campaign: dufr, person: Kenzo, type: beaten in staff dancing competition, date: 1748-04-02}
 name: Jayden

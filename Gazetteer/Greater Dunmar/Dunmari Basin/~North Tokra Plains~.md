@@ -1,9 +1,15 @@
 ---
-typeOf: region
-partOf: Central Dunmar
-tags: [place, status/namecheck]
+headerVersion: 2023.11.25
+typeOf: grassland
+whereabouts: Central Dunmar
+tags: [place]
 aliases: [plains north of Tokra]
+displayDefaults: { linkText: "on", ltPlace: "on" }
 ---
+# The ~North Tokra Plains~
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The arid plains in the uppper [[Hara Watershed]], north of the city of [[Tokra]]. This is a land of rolling hills, short grass, and few hills, except in rare riparian valleys. 
 
