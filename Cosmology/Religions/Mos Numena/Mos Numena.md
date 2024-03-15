@@ -1,5 +1,5 @@
 ---
-tags: [religion/mosnumena, background, status/needswork/wip]
+tags: [religion/mosnumena, background, status/needswork]
 name: Mos Numena
 aliases: [Eight Divines]
 ---

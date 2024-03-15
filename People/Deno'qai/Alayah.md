@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/notes, status/unknown]
+tags: [person, dufr/met, dufr/minor, status/needswork/notes, status/unknown]
 campaignInfo: []
 name: Alayah
 born: 1725

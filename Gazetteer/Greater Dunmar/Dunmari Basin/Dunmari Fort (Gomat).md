@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/fort, status/notes, status/unknown]
+tags: [place/fort, status/needswork/notes, status/unknown]
 whereabouts: Nashtkar
 typeOf: fort
 subTypeOf: ruined

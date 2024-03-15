@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/needswork/internal]
+tags: [person, dufr/met, dufr/minor, status/internal]
 campaignInfo: []
 name: Escobar Garavito
 born: 1727

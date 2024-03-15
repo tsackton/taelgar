@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/notes, status/needswork/wip, place]
+tags: [status/needswork/notes, place]
 campaignInfo: []
 name: Drankorian Empire
 aliases: [Drankor]

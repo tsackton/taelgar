@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor]
-campaignInfo: []
+tags: [person]
+campaignInfo: 
+- {campaign: dufr, type: met, date: 1748-07-01}
+- {campaign: dufr, type: last seen, date: 1748-07-09}
 name: Ardan
 born: 1695
 species: human
@@ -11,10 +13,12 @@ gender: male
 whereabouts: Tokra
 ---
 # Head Archivist Ardan
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%  
+>> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
 
 The middle-aged Dunmari Head Archivist at the [[Tokra]] [[Archives]]. Cautious to a fault and rather uninterested in administration, allowing many basic functions of the [[Archives]] to drift into disorganization and uselessness through lack of attention during his tenure. 
 %%^Date:1748%%

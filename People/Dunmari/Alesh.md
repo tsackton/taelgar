@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/internal]
 campaignInfo: []
 name: Alesh
 born: 1727
@@ -10,6 +10,7 @@ gender: female
 whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
+image: alesh-portrait.png
 ---
 # Alesh
 >[!info]+ Biographical Info  
@@ -17,18 +18,17 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-## Overview
+%% needs work: lots of information about chronology, travels, and party contact scattered throughout session notes, that needs to be incorporated and cleaned up %%
 
-A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [[Karawa]]. Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [[Dunmar]] of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
+![[alesh-portrait.png|right|400]]A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [[Karawa]]. Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [[Dunmar]] of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
 
 %%SECRET[1]%%
-
-![[alesh-portrait.png|400]]
 
 ## Relationships
 - Friendly with most people of [[Karawa]], but fairly independent and not particularly associated with either [[Havdar]]'s warriors or [[Candrosa]] and the [[Shakun Mystai]]. Finds [[Havdar]] a bit brash. 
 - Knows by sight and name, if not well, many of the families that travel across the eastern plains of [[Dunmar]]. 
 - Her extended family are traditional goat herders who travel mostly to the north and west of [[Karawa]]. 
+- Served as a scout and messenger for [[Sura]] during the lead up to the [[Siblings War]], although she did not fight in the conflict. 
 
 ## Chronology
 - (DR:: 1748-03-21): Spends the night at the [[Gomat]] oasis with [[Akan]] and his family

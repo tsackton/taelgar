@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, place, status/stub]
+tags: [status/needswork, place, status/stub]
 typeOf: wall
 partOf: Sembara
 ---

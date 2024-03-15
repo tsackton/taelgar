@@ -1,5 +1,5 @@
 ---
-tags: [place, status/secret]
+tags: [place, status/needswork]
 aliases: [~Chardon Peninsula~]
 ---
 

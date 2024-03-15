@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip]
+tags: [person, status/needswork]
 name: Raoul Bûcheron
 born: 1666
 species: human

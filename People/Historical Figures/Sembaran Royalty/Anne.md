@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/collate, status/needswork/notes]
+tags: [historical, person/ruler, status/internal, status/needswork/notes]
 campaignInfo: []
 name: Anne of Sewick
 born: 1539

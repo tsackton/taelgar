@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/internal]
 campaignInfo: []
 name: Aram
 born: 1717
@@ -18,4 +18,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A holy warrior of [[Aagir]] in [[Havdar]]'s service, and unofficial spiritual leader of [[Havdar's Warband]]
+%% add campaign info, fix whereabouts %%
+
+A holy warrior of [[Aagir]] in [[Havdar]]'s service, and unofficial spiritual leader of [[Havdar's Warband]].

@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1748-03-22}
 name: Badya
 born: 1723
 species: human
@@ -12,7 +14,8 @@ whereabouts: Karawa
 >[!info]+ Biographical Info  
 > A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on March 22th, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
 A server and helper at a tea room in Karawa. 
 %%SECRET[1]%%

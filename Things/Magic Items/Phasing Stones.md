@@ -1,6 +1,6 @@
 ---
 displayDefaults: {defArt: ''}
-tags: [item/magical, status/notes, status/unknown]
+tags: [item/magical, status/needswork/notes, status/unknown]
 aliases: [Phasing Stone]
 typeOf: stone
 ---

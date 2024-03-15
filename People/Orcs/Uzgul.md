@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, person, dufr/met, dufr/minor, status/unknown]
+tags: [status/needswork, person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-10, type: met}
 name: Uzgul

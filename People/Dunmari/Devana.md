@@ -1,18 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/refactor]
 name: Devana
 born:
 species: human
 ancestry: Dunmari
 gender: male
 whereabouts: 
-- { type: home, location: plains of Karawa, alias: plains north-west of Karawa }
+- { type: home, location: ~Karawa Desert~}
 ---
 # Devana
 >[!info]+ Biographical Info
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% need to decide how to track campaign info for people party heard of but never met%%
 
 A Dunmari pastoralist.
 

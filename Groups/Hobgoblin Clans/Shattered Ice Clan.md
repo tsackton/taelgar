@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/notes, status/unknown]
+tags: [organization, status/needswork/notes, status/unknown]
 typeOf: clan
 campaignInfo:
 name:

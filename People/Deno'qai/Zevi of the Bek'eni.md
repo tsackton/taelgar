@@ -21,5 +21,5 @@ activeYear: 1745
 A scout and warrior of the [[Bek'eni]]. 
 
 %%^Campaign:DuFr%%
-Part of the patrol that originally found the party in the [[Elderwood]].  Accompanied the party back to the God tree to meet [[Mezzar]], and killed by [[Mezzar|Grimbaskal]]'s breath weapon after [[Mezzar]] dropped his elven form. 
+Part of the patrol that originally found the [[Dunmar Fellowship]] in the [[Elderwood]].  Accompanied the party back to the God tree to meet [[Mezzar]], and killed by [[Mezzar|Grimbaskal]]'s breath weapon after [[Mezzar]] dropped his elven form. 
 %%^End%%

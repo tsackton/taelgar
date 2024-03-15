@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, pc, person, status/notes, status/unknown]
+tags: [pc/greatwar, pc, person, status/needswork/notes, status/unknown]
 campaignInfo:
 name: Aerin
 born:

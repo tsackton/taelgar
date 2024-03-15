@@ -1,5 +1,5 @@
 ---
-tags: [event-source, status/namecheck, status/needswork/notes, status/needswork/wip]
+tags: [event-source, status/namecheck, status/needswork/notes, status/needswork]
 campaignInfo: []
 name: First Plague
 aliases:

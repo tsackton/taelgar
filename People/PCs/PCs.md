@@ -1,5 +1,5 @@
 ---
-tags: [meta, status/needswork/collate]
+tags: [meta, status/internal]
 ---
 # Players of Taelgar
 

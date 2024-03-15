@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, place]
+tags: [status/needswork, place]
 partOf: Western Marches
 typeOf: barony
 ---

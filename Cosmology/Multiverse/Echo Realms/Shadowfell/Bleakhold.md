@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/notes, place/village, status/unknown]
+tags: [status/needswork/notes, place/village, status/unknown]
 partOf: Morkalan
 typeOf: village
 destroyed: 1748

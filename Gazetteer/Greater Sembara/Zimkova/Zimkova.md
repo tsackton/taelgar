@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/region, status/needswork/wip, status/namecheck, status/mike, status/tim]
+tags: [place/region, status/needswork, status/namecheck, status/mike, status/tim]
 name: Zimkova
 typeOf: region
 aliases: [Highland Kingdoms]

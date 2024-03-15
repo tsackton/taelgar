@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/minor, person, dufr/aware, status/unknown]
+tags: [person, status/internal]
 campaignInfo: []
 name: Hada
 born: 1719
@@ -15,6 +15,8 @@ whereabouts: Tokra
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%need to organize dates of werewolf stuff to get the correct death date for Hada, and capture date; also need to decide how to track campaign info for people heard about but not met%%
 
 The head scribe of the military section of the [[Tokra]] [[Archives]]. He was researching, with [[Govir]], the events surrounding [[Exile of Fraternity of the Empty Moon]] in DR 1625 from [[Tokra]] in the [[Archives]], in support of [[Govir]]'s planned treatise on the miracles of the [[Five Siblings|Five Siblings]] in aid of the Nayan dynasty. 
 %%^Date:1748%%

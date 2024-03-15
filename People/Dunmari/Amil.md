@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
+tags: [event-source, person, status/internal]
 campaignInfo: []
 name: Amil
 born: 1731
@@ -9,8 +9,8 @@ ancestry: Dunmari
 gender: male
 affiliations: [Order of the Awakened Soul]
 whereabouts:
-- {type: home, start: 1731, location: "Pava and Avaras' House"}
-- {type: away, start: 1749, end: 9999, location: Vindristjarna}
+- {type: home, start: 1747, end: 1749-01-30, location: "Pava and Avaras' House"}
+- {type: away, start: 1749-01-30, end: 9999, location: Vindristjarna}
 image: amil-small.png
 ---
 # Amil
@@ -20,7 +20,8 @@ image: amil-small.png
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% fix away whereabouts %%
+%% fix away whereabouts, campaign info %%
+
 ![[amil-final.png|right|400]]A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
 
 %%SECRET[1]%%
@@ -31,3 +32,9 @@ image: amil-small.png
 - (DR:: 1748-05-02) *(Amil)*: Arrives at Pava and Avaras' House with The Dunmar Fellowship. 
 - (DR:: 1748-05-17) *(Amil)*: At Pava and Avaras' House when [[Dunmar Fellowship]] spend the night
 
+## Gallery
+![[Amil-martial-arts.png|400]]
+
+![[Amil-snow-forest.png|400]]
+
+![[Amil-skyship-garden.png|400]]

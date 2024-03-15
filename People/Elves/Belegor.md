@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/uptodate, person, dufr/met, dufr/minor, event-source, testcase, status/unknown]
+tags: [status/needswork, person, event-source, testcase]
 campaignInfo:
 - {campaign: dufr, date: 1748-09-30, type: met}
 name: Belegor

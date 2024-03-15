@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
-displayDefaults: { endStatus: killed by Casian}
+tags: [person]
+displayDefaults: { endStatus: "killed by [[Casian]]"}
 campaignInfo:
 - {campaign: dufr, date: 1748-07-21, type: met}
 name: Justan
@@ -11,7 +11,7 @@ ancestry: Dunmari
 gender: male
 died: 1748-07-23
 whereabouts:
-- {type: home, location: plains north of Tokra}
+- {type: home, location: ~North Tokra Plains~}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
 ---
 # Justan
