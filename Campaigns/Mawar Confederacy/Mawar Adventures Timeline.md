@@ -1,5 +1,5 @@
 ---
-tags: [timeline, status/unknown]
+tags: [timeline]
 timelineDescriptor: Mawar Adventures
 ---
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/mundane, item/equipment, status/unknown]
+tags: [item/mundane, item/equipment]
 name: Brot's Telescope (small)
 created: 1719-10-01
 rarity: unique

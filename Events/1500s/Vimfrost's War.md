@@ -1,3 +1,3 @@
 ---
-tags: [status/stub, status/needswork/wip]
+tags: [status/stub, status/needswork/wip, event]
 ---

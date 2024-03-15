@@ -1,5 +1,5 @@
 ---
-tags: [session-note, status/unknown]
+tags: [session-note]
 campaignInfo: []
 name: Mawar Epsiode 03
 realWorldDate: 2021-11-27

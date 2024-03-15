@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Dock Workers Great and Honorable Charitable Home for the Lost and Wretched
-partOf: Embry
+whereabouts: Embry
 typeOf: orphanage
 ---
 # The Dock Workers Great and Honorable Charitable Home for the Lost and Wretched

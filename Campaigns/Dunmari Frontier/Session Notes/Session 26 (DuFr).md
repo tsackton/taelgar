@@ -23,12 +23,12 @@ The[[ Dunmar Fellowship]] meets [[Drikod]], learns of the dire consequences of t
 ### Summary
 - The [[Dunmar Fellowship]] returns to [[Karawa]], where they meet [[Drikod]] and gather news.
 - [[Candrosa]] admits to manipulating [[Delwath]] with magic,  and reveals the existence of the [[Heart of Shakun]] and its link to the town's failing defenses.
-- "The party learns that [[Cintra]], the Supreme Oracle of Shakun, departed with the Heart to heal [[Jumi|her daughter]], weakening Karawa's protections.
+- The party learns that [[Cintra]], the Supreme Oracle of Shakun, departed with the Heart to heal [[Jumi|her daughter]], weakening Karawa's protections.
 - The party prepares for a ritual to understand the Heart's magic and [[Shakun's Protection]]
 - During the [[The Shakun Mystai Initiation|initiation ritual]] under the [[Red Mesa|mesa]], shadowy forms attack, leading to a desperate battle and the death of two mystai.
 
 ### Timeline
-- (DR:: 1748-05-23), evening: Reach [[Karawa]]. Speak with centaur patrols. Meet [[Drikod]]. Hear story of [[Cintra]] and Shakun's Heart from apologetic and floundering Candrosa[[.]]
+- (DR:: 1748-05-23), evening: Reach [[Karawa]]. Speak with centaur patrols. Meet [[Drikod]]. Hear story of [[Cintra]] and Shakun's Heart from apologetic and floundering [[Candrosa]].
 - (DR:: 1748-05-24): Gather supplies in [[Karawa]]
 - (DR:: 1748-05-24), dusk: Ritual of Shakun's Initiation. [[Seeker]] notices the mesa is crumbling. Attacked by shadows at conclusion of initiation ritual.
 
@@ -55,7 +55,7 @@ After that, the party returns to the temple in the evening, where [[Candrosa]] t
 
 He leads the party through the temple to a chamber underneath the mesa, lit by torches that burn with blue fire. A pool of water sits in the middle of the cavern, which bursts into blue flame as a mystai plunges a torch into it. The party are given sips of some thick potion, and then pushed underwater, where they find that breathing is no issue and the fire does not burn as their eyes close. 
 
-They experience [[The Shakun Mystai Initiation]]
+They experience [[The Shakun Mystai Initiation]].
 
 As the initiation ritual ends, the party snaps awake to shouts in the darkness, screams, as through a veil of blue flames shadowy forms are detaching from the wall to attack. The shadows from [[Kharsan]] have tracked the party, and taken this moment of vulnerability to launch and attack. Despite the difficulties of being caught without gear, the party fights off the shadows, although not before two mystai are killed, drained of energy and turned to withered husks by the shadow creatures. 
 

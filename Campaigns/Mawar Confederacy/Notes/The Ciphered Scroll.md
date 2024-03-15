@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 
 Although it takes some time, Wazir eventually deciphers the coded text, which appears to be some kind of journal of experiments performed, an attempt at some kind of ritual. The full text is reproduced below. 
 
