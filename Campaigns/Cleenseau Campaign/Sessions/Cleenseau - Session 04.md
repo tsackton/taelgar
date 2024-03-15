@@ -11,6 +11,14 @@ players: [Izgil, Robin, Viepuck, Celyn]
 >[[Cleenseau]] and vicinity
 >on Earth: April 30th, 2023
 
+### Summary and Major Events
+### Rumors and Information
+### New People Met
+### Timeline
+### Narrative
+
+## Raw Notes
+
 %%% RAW NOTES
 [[Odo Cordwaner]] fired, Robin pleads with [[Ida Rosfeld]]
 Odo fired, Robin pleads with Ida
