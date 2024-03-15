@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 campaignInfo:
 name: Aine Hills
@@ -6,7 +7,8 @@ typeOf: line of hills
 partOf: Highlands
 ---
 # The Aine Hills
->[!info]+ Information
-> A line of hills in the [[Highlands]], [[Sembara]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 

@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/notes]
+tags: [status/needswork/external]
 ---
 
 700 gp (from Lyra)

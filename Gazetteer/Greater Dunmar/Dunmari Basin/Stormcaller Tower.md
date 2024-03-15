@@ -2,9 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
-campaignInfo: []
 name: Stormcaller Tower
-destroyed: 1748-11-23 #check exact date
+destroyed: 1748-11-23
 typeOf: tower
 whereabouts: 
 - {type: home, location: Samtal, wPastHome: "Ruined <typeOf> <current:3qr>"}

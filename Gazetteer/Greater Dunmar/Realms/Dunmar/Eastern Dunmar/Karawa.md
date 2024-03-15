@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/cleanup/reformat]
 name: Karawa
 typeOf: town
 whereabouts: Eastern Dunmar
@@ -8,6 +8,8 @@ whereabouts: Eastern Dunmar
 # Karawa
 >[!info]+ Information
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%reorganize into a cleaner format%%
 
 A small Dunmari village. Houses of adobe / mud brick, except a few bigger or more important ones of sandstone. Colors browns and some ochre. Lots of awnings of variously colored cloth, lots of horses and goats. Much of the town was destroyed in gnoll attacks in the summer of 1748, but is in the process of being rebuilt. 
 #### Locations

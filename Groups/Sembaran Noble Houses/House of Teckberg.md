@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub, status/unknown]
+tags: [organization, status/needswork/wip]
 typeOf: family
 typeOfAlias: noble family
 whereabouts: Sembara

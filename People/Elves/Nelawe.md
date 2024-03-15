@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/stub]
+tags: [person, historical]
 species: elf
 ka: 31
 gender: female

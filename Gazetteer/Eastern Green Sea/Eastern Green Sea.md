@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/stub]
+tags: [place, status/needswork/wip]
 campaignInfo:
 name: Eastern Green Sea
 typeOf: region

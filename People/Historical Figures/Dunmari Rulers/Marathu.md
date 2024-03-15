@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, person]
+tags: [person, status/needswork/internal]
 ancestry: Dunmari
 species: human
 title: Samraat

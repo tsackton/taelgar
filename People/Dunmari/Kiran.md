@@ -15,6 +15,6 @@ whereabouts:
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A member of a family of goat herders that wander across the upper reaches of the Hara river, north of Tokra. 
+A member of a family of goat herders that wander across the upper reaches of the [[Hara]] river, north of Tokra. 
 
 In 1748, met [[Dunmar Fellowship]], and his family was gifted a mechanical goat of a strange clockwork design by the dwarf [[Seeker]]. 

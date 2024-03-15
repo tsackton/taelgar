@@ -1,14 +1,16 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 name: Ozabal
 ancestry: lizardfolk
 typeOf: swamp
-partOf: Western Green Sea Region
+whereabouts: Western Green Sea Region
 aliases: [Ozabal Swamp]
 ---
 # Ozabal
->[!info]+ Information
-> A [[Lizardfolk|lizardfolk]] swamp in the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A large area of swampy lowlands centered around the confluence of the [[Wistel]] and the [[Enst]], which is home to a substantial [[lizardfolk]] population. 
 

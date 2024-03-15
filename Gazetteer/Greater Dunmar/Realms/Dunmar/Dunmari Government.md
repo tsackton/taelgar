@@ -10,7 +10,7 @@ Dunmar is a theocratic monarchy, where the ruler, called the Samraat, is assumed
 
 Temples dot the Dummari landscape: to be a Dunmari means to be part of a temple, and all Dunmari have a temple they call home, even if they visit quite rarely, perhaps only for the most important festivals. In the more nomadic parts of the country, temples are some of the only permanent structures, often nucleating small villages around them. Large cities, however, may have two or three or more temples serving them. 
 
-Each temple is run by a head priest. Technically these are chosen by the Samraat, but usually based on the recommendation of the former priest. Depending on the size of the temple, a number of additional priests, acolytes, and laity may serve the community in some role. 
+Each temple is run by a head priest. Technically these are chosen by the Samraat, but usually based on the recommendation of the former priest or the local community. Depending on the size of the temple, a number of additional priests, acolytes, and laity may serve the community in some role. 
 
 Temple serve not only as institutions of worship and religious ceremony, but also as the primary administrative center of the state. All but the smallest temples have at least one and typically many more acolytes and/or priests whose primary responsibility is administrative rather than religious. 
 ### Temple Conclave

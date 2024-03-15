@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 typeOf: island
 whereabouts: Nevos Sea
 ---

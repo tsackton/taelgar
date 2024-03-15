@@ -1,6 +1,14 @@
 ---
-tags: [place, status/stub]
+headerVersion: 2023.11.25
+tags: [place]
 typeOf: river
+whereabouts: Elderwood
+pronunciation: KAY-zahd
 ---
+# Kayzad
+*(KAY-zahd)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% south branch of [[Chasa]], mysterious %%
+A small river that flows south from the Elderwood, joining the [[Yeraad]] on the southern outskirts of the [[Elderwood]]. 

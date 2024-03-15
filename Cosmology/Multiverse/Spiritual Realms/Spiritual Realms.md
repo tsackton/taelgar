@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, place, status/unknown]
+tags: [status/needswork/wip, place]
 ---
 
 # The Spiritual Realms
