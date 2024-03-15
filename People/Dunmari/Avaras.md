@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/internal]
+tags: [event-source, person, status/cleanup/header, status/needswork/internal]
 campaignInfo: []
 name: Avaras
 born: 1676
@@ -21,6 +21,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% need to add campaign info, perhaps a bit more context %%
+
 ![[avaras-portrait.png|right|400]]Avaras is one of the few remaining masters of the [[Order of the Awakened Soul]]. He is an older man, with close cropped gray hair and lined, weathered skin. He lives in the [[Garamjala Desert]] with his partner [[Pava]] and apprentice [[Amil]], leading an isolated existence, concerned with [[Pava]] and with what is left of the Order's mission. 
 %%SECERT 
 **One-word key: contemplative

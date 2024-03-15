@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image, status/internal]
+tags: [person, status/image, status/cleanup/header]
 campaignInfo: []
 name: Jumi
 born: 1746

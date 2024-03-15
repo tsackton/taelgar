@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/refactor]
+tags: [place, status/cleanup/reformat]
 displayDefaults: {defArt: '' }
 name: Central Highlands Region
 typeOf: region
@@ -11,7 +11,7 @@ partOf: Taelgar
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% needs to be refactored to separate out the Sentinel Range parts from the rest and moved to the correct region pages %%
+%% needs to be reformatted to separate out the Sentinel Range parts from the rest and moved to the correct region pages %%
 
 ## Overview
 

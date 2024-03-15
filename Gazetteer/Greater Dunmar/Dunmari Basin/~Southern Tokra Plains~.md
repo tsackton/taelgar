@@ -4,7 +4,7 @@ typeOf: region
 partOf: Central Dunmar
 aliases: [plains south of Tokra]
 displayDefaults: { linkText: "on", ltPlace: "on" }
-tags: [place, status/namecheck]
+tags: [place]
 ---
 # The ~Southern Tokra Plains~
 >[!info]+ Information

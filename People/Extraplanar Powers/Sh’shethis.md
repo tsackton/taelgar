@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/internal]
+tags: [person, status/cleanup/header]
 campaignInfo:
 - {campaign: DuFr, type: freed, date: 1749-01-08, wParty: "<met:u> from the <current:1> by <person> on <target>"}
 name: Sh’shethis
@@ -17,5 +17,7 @@ whereabouts:
 > an [[Elementals|elemental]]
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Freed from the [[Elemental Forge]] by the [[Dunmar Fellowship]] on January 8th, 1749 %%^End%%
+
+%%check/cleanup whereabouts, campaign info, ancestry and related%%
 
 A strange creature of elemental air who was bound to the Elemental Forge in the Edge of Echoes for over 1000 years. Freed in DR 1749 by [[Dunmar Fellowship]]. 

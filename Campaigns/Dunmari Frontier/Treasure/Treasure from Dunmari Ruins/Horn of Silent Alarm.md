@@ -1,5 +1,5 @@
 ---
-tags: [item, status/refactor, status/unknown]
+tags: [item, status/cleanup/reformat]
 campaignInfo:
 name:
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm

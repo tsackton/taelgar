@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/refactor]
+tags: [person, status/cleanup/refactor]
 name: Camana
 born: 1721
 species: human

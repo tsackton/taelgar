@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/refactor]
+tags: [place, status/cleanup/reformat]
 name: Free City of Tollen
 typeOf: city
 whereabouts: Western Green Sea Region
