@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub, status/unknown]
+tags: [place]
 campaignInfo:
 name: Duchy of Seham
 typeOf: duchy

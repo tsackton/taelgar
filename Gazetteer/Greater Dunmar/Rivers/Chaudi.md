@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 name: Chaudi
 typeOf: river
 whereabouts: Greater Dunmar

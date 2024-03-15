@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/unknown]
+tags: [place]
 name: Dolphin’s Rest Inn
 typeOf: inn
-partOf: Wahacha
+whereabouts: Wahacha
 ---
 # The Dolphin’s Rest Inn
 >[!info]+ Information  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/unknown]
+tags: [place]
 campaignInfo:
 name: Duchy of Wisford
 typeOf: duchy
