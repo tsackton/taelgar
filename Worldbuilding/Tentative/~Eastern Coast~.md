@@ -1,8 +1,4 @@
----
-tags: [place, status/unknown]
----
 
-%%%
 ### ~EastCoast~
 
 - Small sheltered area to the south, on the coast, blocked from desert by mountains, so probably like the non-desert parts of North Africa
@@ -13,4 +9,4 @@ tags: [place, status/unknown]
 
 This is the area east of [[~Medju Mountains~]] and [[~Eastern Islands~]] 
 
-%%
+

@@ -1,5 +1,5 @@
 ---
-tags: [excalidraw, status/unknown]
+tags: [excalidraw]
 name: voltara-outline.excalidraw
 excalidraw-plugin: parsed
 ---

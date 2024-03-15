@@ -4,11 +4,11 @@ In the south and west, on the other side of the Yuvanti Mountains, it has been r
 
 In Darba, nearly due east of Tokra, the rains arrived a week ago. Here, the influence of the Nevos Sea modulates the dry season, and the small rivers that cascade from the foothills of the Yuvanti and Chataan Mountains to the coast flow year round. Still, the people of the Darba coast celebrate the Day of the Renewal, like all Dunmari, and the monsoon rains refresh the land here as well.
 
-Over the past week, the rains have moved slowly north, across the plains of central Dunmar. First, falling in the foothills of the Yuvanti mountains, and in the [[Copper Hills]] west of Tokra, feeding the rivers and dry washes that flow into the Hara. Then, reaching Tokra and Songara and bringing life to the dry, brown grasslands.
+Over the past week, the rains have moved slowly north, across the plains of central Dunmar. First, falling in the foothills of the Yuvanti mountains, and in the [[Copper Hills]] west of Tokra, feeding the rivers and dry washes that flow into the [[Hara]]. Then, reaching Tokra and Songara and bringing life to the dry, brown grasslands.
 
 It will still be some time, a week or more, until the monsoons finally reach the northern peaks, perhaps quenching the fires still burning around Eudomes' tower, washing clean the streams of Raven's Hold, bringing flowers and color to the canyons of Karawa and Gomat.
 
-In Askandi, to the south, in the deepest part of the rain shadow of the Yuvanti peaks, the first sign of the monsoon will be the flood of the Hara, as the rain falling on the plains of Tokra flows downriver. What little rain does reach Askandi will not fall for nearly a month, long after the fields have been planted and the first crops sown in the fertile lands on the banks of the Hara.
+In Askandi, to the south, in the deepest part of the rain shadow of the Yuvanti peaks, the first sign of the monsoon will be the flood of the [[Hara]], as the rain falling on the plains of Tokra flows downriver. What little rain does reach Askandi will not fall for nearly a month, long after the fields have been planted and the first crops sown in the fertile lands on the banks of the [[Hara]].
 
 Further east, in the depths of the [[Garamjala Desert]], the rain will come last of all, its energy spent. Only a few thunderstorms will likely arrive in the dry deserts of the high plateau, but even that trickle of water will be enough for the Kharja to spring to life, for the deserts to bloom, and for the life that has lain dormant, waiting for water to burst forth.
 

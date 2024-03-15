@@ -1,11 +1,11 @@
 ---
-tags: [place, status/mike, status/needswork/notes, status/stub]
+tags: [place, status/mike]
 campaignInfo: []
 name: Zovcka
 typeOf: realm
 partOf:
 ---
-%% no longer exists? %%
+%% no longer exists? - delete? or change status to needswork %%
 # Zovcka
 
 %% Notes

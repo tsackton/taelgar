@@ -1,4 +1,4 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/needswork/wip]
 typeOf: region
 ---

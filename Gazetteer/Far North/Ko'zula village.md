@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/village]
+tags: [place/village, status/needswork/internal]
 whereabouts: Forest of Dreams
 ancestry: Deno'qai
 typeOf: village

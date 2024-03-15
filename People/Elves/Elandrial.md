@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, dufr/aware, status/stub, status/unknown]
+tags: [person, historical, status/cleanup/refactor]
 campaignInfo:
 name: Elandrial
 born:
@@ -21,5 +21,7 @@ pronunciation: eh-LAN-dree-ahl
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%needs campaign info for rumors/information%%
 
 A elf who was active during the [[Drankorian Era]]. Participated in attempts to decipher the [[Enchiridion of the Occulta Ludum]].

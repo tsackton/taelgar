@@ -4,14 +4,14 @@ tags: [background]
 
 # The Economy of Dunmar
 
-Dunmar is a society of largely nomadic animal herders in the arid grasslands and deserts of the east, but increasingly a rich agricultural society in the west, on the fertile Nayan Floodplains.
+Dunmar is a society of largely nomadic animal herders in the arid grasslands and deserts of the east, but increasingly a rich agricultural society in the west, on the fertile [[Nayan Floodplains]].
 
 Historically, Dunmar grew rich in large part off the profits of trade, given that a large portion of the east-west overland trade passed through Dunmari territory prior to the Great War. In addition to trade, a highly efficient message service was once famous across Taelgar. 
 
 In the current day, Dunmar is largely known for horses; animal products, including fine leather and raw wool; tropical hardwoods from the Shrev river valley and beyond; and agricultural products of the Nayan Floodplains.
 ## Trade
 
-Dunmar is not completely isolated from its neighbors. Although not a significant maritime power, a considerable amount of trade passes through Darba, the richest city in Dunmar. In addition to agricultural products, dwarven trade passes through Dunmar between the [[Yuvanti Mountains]] and the [[Chardonian Empire]]. 
+Dunmar is not completely isolated from its neighbors. Although not a significant maritime power, a considerable amount of trade passes through [[Darba]], the richest city in [[Dunmar]]. In addition to agricultural products, dwarven trade passes through Dunmar between the [[Yuvanti Mountains]] and the [[Chardonian Empire]]. 
 
 Trade from the Green Sea to the east usually comes via halfling caravans out of Sembara, that cross the passes of the Sentinels in season. 
 

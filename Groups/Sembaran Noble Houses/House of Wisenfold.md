@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/stub, status/unknown]
+tags: [organization, status/needswork]
 typeOf: family
 ---
 

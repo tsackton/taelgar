@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub, status/tim, status/mike]
+tags: [organization, status/tim, status/mike]
 typeOf: family
 typeOfAlias: noble family
 ancestry: Sembaran

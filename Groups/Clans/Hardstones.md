@@ -1,11 +1,10 @@
 ---
-tags: [organization, status/stub]
+tags: [organization, status/needswork/wip]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Hardstones
 typeOf: clan
 ---
-(stub)
 
 %%^Campaign:None%%
 ### Current Members

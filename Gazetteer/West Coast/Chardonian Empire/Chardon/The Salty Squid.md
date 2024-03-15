@@ -1,14 +1,16 @@
 ---
-tags: [place/inn, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place/inn]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Salty Squid
 typeOf: inn
-partOf: Chardon
+whereabouts: Chardon
 ---
 # The Salty Squid
->[!info]+ Information
-> An  inn in [[Chardon]], the [[Chardonian Empire]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A sailor's tavern in the port district of Chardon.
 

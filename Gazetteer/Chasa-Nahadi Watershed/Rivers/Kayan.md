@@ -1,13 +1,15 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 name: Kayan
 typeOf: river
-partOf: Elderwood
+whereabouts: Elderwood
 pronunciation: KAH-yan
 ---
 # Kayan
 *(KAH-yan)*
->[!info]+ Summary
-> a river in the [[Elderwood]], [[Central Highlands Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
+A tributary of the [[Chasa]] that flows north through the [[Elderwood]], joining the [[Chasa]] near [[Arendum]]. 

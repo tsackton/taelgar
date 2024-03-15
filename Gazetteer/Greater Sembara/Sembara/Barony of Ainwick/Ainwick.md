@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/clee]
 name: Ainwick
 typeOf: town
 partOf: Barony of Ainwick

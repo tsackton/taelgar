@@ -68,7 +68,7 @@ Dee was part of a party of adventurers (herself, [[Dain Goldhammer]], and [[Alba
 After the [[Dunmar Fellowship]] acquired [[Hralgar's Eyes]] from [[Fausto]] and caused a stir in [[Chardon]], Dee decided to flee south and get out of [[Fausto]]'s control, first traveling to [[Darba]] and then booking passage south, past the [[Sea of Storms]]. 
 
 - (DR:: 1748-09-12): Dee Wildcloak leaves Chardon quietly, heading for Darba, hoping to escape Fausto's influence
-- (DR:: 1748-10-19): Dee Wildcloak writes to the Dunmar Fellowship and Wellby from the Green Leaf Inn, Darba. 
+- (DR:: 1748-10-19): Dee Wildcloak writes to the Dunmar Fellowship and Wellby from [[the Green Leaf]] Inn, Darba. 
 - (DR:: 1748-10-21): Dee Wildcloak boards a ship heading south across the Sea of Storms in Darba
 
 ```dataview

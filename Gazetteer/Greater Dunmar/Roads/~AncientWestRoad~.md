@@ -1,10 +1,14 @@
 ---
-tags: [place/road, status/stub]
+headerVersion: 2023.11.25
+tags: [place/road, status/needswork/internal]
 displayDefaults: {linkText: "on", ltPlace: "on", defArt: "the"}
 typeOf: road
 partOf: Dunmar
 ---
-
+# The ~AncientWestRoad~
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 road from near Karawa to Chardon. needs a name.
 

@@ -1,10 +1,15 @@
 ---
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 name: Shrev
 typeOf: river
-partOf:
+whereabouts: Nayan Floodplains
 aliases: [River Shrev, Shrev River]
 ---
+# Shrev
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 One of the rivers of western [[Dunmar]], flowing from the [[Yuvanti Mountains]] to the [[Nevos Sea]].
 

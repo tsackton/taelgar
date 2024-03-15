@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub, status/unknown]
-partOf: Spiritual Realms
+tags: [place, status/needswork/wip]
+whereabouts: Spiritual Realms
 typeOf: plane
 aliases: [Plane of Consciousness]
 ---

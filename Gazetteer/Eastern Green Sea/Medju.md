@@ -1,13 +1,14 @@
 ---
-tags: [place, status/stub, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 name: Medju
 typeOf: city
-partOf: Eastern Green Sea Region
+whereabouts: Eastern Green Sea Region
 ---
 # Medju
->[!info]+ Summary
-> a city in the [[Eastern Green Sea Region]]
-
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The great spice city in the south, the terminus of trade routes from strange lands across the desert, where you can buy and sell almost anything in the markets of  the obscenely wealthy spice lords.
 

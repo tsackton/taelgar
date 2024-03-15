@@ -14,4 +14,4 @@ Eastern Dunmar is marginal land centered on the [[Red Mesa]] and the towns that 
 
 Eastern Dunmar remains a highly significant religious site, however. The [[Shakun Mystai]] are based at the [[Temple of Shakun]] in [[Karawa]], and a number of holy sites significant to [[Shakun]] are here, including [[Shakun’s Wellspring]] and the [[Red Mesa]]. 
 
-The densest settlement in this area, outside the villages of the [[Red Mesa]], is on the northern plains north and east of the [[Gomat|Gomat Oasis]], known as the [[Samtal]]. This region gets more rain than the [[~Karawa Desert~]] and supports nomadic grazing and herding, largely of sheep and goats.
+The densest settlement in this area, outside the villages of the [[Red Mesa]], is on the northern plains north and west of the [[Gomat|Gomat Oasis]], known as the [[Samtal]]. This region gets more rain than the [[~Karawa Desert~]] and supports nomadic grazing and herding, largely of sheep and goats.

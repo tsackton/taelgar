@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/needswork]
 displayDefaults: { defArt: }
 partOf: Duchy of Maseau
 typeOf: settlement

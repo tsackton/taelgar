@@ -22,7 +22,7 @@ The [[Dunmar Fellowship]] combats gnolls, arrives in a devastated [[Karawa]], an
 
 ## Session Info
 
-***The Dunmar Fellowship escapes Stormcaller Tower with a [[Stormcaller Tower Hoard|number of treasures]].***
+***The Dunmar Fellowship escapes [[Stormcaller Tower]] with a [[Stormcaller Tower Hoard|number of treasures]].***
 ### Summary
 - The [[Dunmar Fellowship]] shares personal stories and contemplates recent mysteries over breakfast.
 - They fend off a desperate gnoll attack while traveling south towards Karawa.

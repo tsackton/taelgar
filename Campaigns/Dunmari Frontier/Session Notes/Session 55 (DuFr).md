@@ -26,7 +26,7 @@ descTitle: Echoes of the Great War
 - After a fierce battle, the hobgoblins and their wizard leader are defeated; the party retrieves the Shadow Armband from the wizard's severed arm.
 - In the shadow realm, [[Delwath]] banishes himself and the tanshi [[Taraka]] back to the material plane while leaving the hobgoblin army trapped.
 - At the site of the Battle of Ye'mote, the party defeats an undead hobgoblin warlock and his minions, releasing the last of the trapped [[Meswati]] with the destruction of another armband.
-- The party returns to the Ko'zula village to celebrate, and Delwath parts ways with [[Iascaire]] and [[Aristaea]].
+- The party returns to the [[Ko'zula village]] to celebrate, and Delwath parts ways with [[Iascaire]] and [[Aristaea]].
 
 ### Timeline
 - (DR:: 1748-10-09), afternoon: Arrive in [[Ko'zula]] land. Rest.
