@@ -102,6 +102,7 @@ The [[Manor of Asineau]] is one of the smaller manors in the region, and has suf
  - ![[thierry.png|left|120]] [[Thierry]], a veteran of the [[Army of the West]] and a local boat builder. 
  - ![[eleanor.png|left|120]] [[Eleanor]], the long time administrator of the Temple of the Wyrdling in Asineau, bedridden and ill
  - ![[el-wyrdling.png|left|120]] [[El]], a acolyte of the Wyrdling, recently experienced their first miracle
+ - ![[bertram-northwoods-2.png|left|120]], [[Bertram Northwoods]], the stablemaster
 </div>
 
 ## Important People in Beury
@@ -151,5 +152,5 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
 <div class="grid cards ext-narrow-margin" markdown>
   - [[Francois the Bandit|François the Bandit]], died of his own hand
   - [[Jerome]], executed in [[Cleenseau]]
-  - ![[wakog.png]] [[Wakog]], an ogre, now dead
+  - ![[wakog.png|left|120]] [[Wakog]], an ogre, now dead
 </div>

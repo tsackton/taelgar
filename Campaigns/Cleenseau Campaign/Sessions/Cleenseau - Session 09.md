@@ -26,9 +26,11 @@ players: [Izgil, Robin, Viepuck, Celyn]
 ### Timeline
 * (DR:: 1720-01-07): the party explores the abandoned fort beneath Essford Manor
 ### Narrative
+(To be written)
 
-Raw scenes and notes:
-* During the first fight with shadows, Robin's lantern exploded with daylight
+### Scene Notes
+A few notable events:
+* During the first fight with shadows, Robin's lantern exploded with daylight which massively hindered the shadows
 * Sent [[Estiasilos|Es*tiasilos]] to scout rat passages, discover they connected from the fort to [[Tumbledown Farm]]
 * Rushed exploration of the rest before daylight faded; shadows weakened the party a lot, needing a short rest
 * Found a halfling ghost who hated hobgoblins but seemed to respond to Estalios speaking in halfling; discovered a locket in a secret niche

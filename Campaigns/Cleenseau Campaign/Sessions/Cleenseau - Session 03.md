@@ -11,6 +11,13 @@ players: [Izgil, Robin, Viepuck, Celyn]
 >[[Cleenseau]] and vicinity
 >on Earth: March 19th, 2023
 
+### Summary and Major Events
+### Rumors and Information
+### New People Met
+### Timeline
+### Narrative
+
+## Raw Notes
 
 
 %%% RAW NOTES
