@@ -313,7 +313,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 (All sold in [[Session 46 (DuFr)]])
 
-- [[Lyrics of a New Age]]. A book of elvish poetry by Nelawe. Found in [[Stormcaller Tower]]. Could sell to an interested party for 50-200 gp. Sold for 220 gp. 
+- [[Lyrics of a New Age]]. A book of elvish poetry by [[Nelawe]]. Found in [[Stormcaller Tower]]. Could sell to an interested party for 50-200 gp. Sold for 220 gp. 
 - Tarot Cards. Finely painted on thin ivory; Moon Tarot Card found separately on the trap keeper’s person. From the werewolf lair in [[Tokra]]. Probably worth 20-360gp. Sold for 250 gp. 
 - Iron dial used to track moon phases from werewolves in [[Tokra]]. Probably worth 5-30gp. Sold for 6 gp. 
 - A single small turquoise stone, found in wvyern lair. Sold for 70 gp.

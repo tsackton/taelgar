@@ -18,4 +18,4 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
-Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who has lived in [[Tollen]] for the past 20 years or so. 
+Aurelia is a centaur woman, originally from a migrating tribe of centaurs, who settled in [[Tollen]] in the 1730s. 

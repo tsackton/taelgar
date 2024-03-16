@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person]
+tags: [person]
 campaignInfo: 
 - {campaign: dufr, date: 1748-06-30, type: met}
 name: Cade Strongbones
@@ -21,3 +21,5 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on June 30th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
+
+One of the twin sons of [[Wes Strongbones]]; Cade helps run [[The Red Lily Inn]] in [[Tokra]].

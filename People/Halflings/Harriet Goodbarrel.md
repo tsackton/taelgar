@@ -10,22 +10,22 @@ species: halfling
 ancestry: 
 gender: female
 aliases: [Harriet]
-affiliations: [Goodbarrels]
-leaderOf:
-  - {place: The Singing Fox, title: Proprietor, start: 1}
+affiliations: 
+- {org: Goodbarrels, type: primary }
+- {org: The Singing Fox, title: Proprietor, type: leader}
 whereabouts:
   - {type: home, end: 1722, location: Western Gulf}
   - {type: home, location: The Singing Fox}
   - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 ---
 # Harriet Goodbarrel
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met with [[Wellby]] on DR 1730 at [[The Singing Fox]], [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%
->> %%^Campaign:DuFr%% Met with the [[Dunmar Fellowship]] on December 30th, 1748 on [[Vindristjarna]], in the [[Tollen|Free City of Tollen]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Halflings|halfling]] (she/her), of the [[Goodbarrels]]  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by [[Wellby]] on DR 1730 at [[The Singing Fox]], in [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 on [[Vindristjarna]], in the [[Tollen|Free City of Tollen]] %%^End%%
 
 Harriet's melodious voice graces *[[The Singing Fox]]* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [[Chenna Goodbarrel|Chenna]], she's made the tavern a warm haven for many.
 

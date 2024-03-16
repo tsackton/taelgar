@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/minor]
+tags: [person]
 campaignInfo: 
 - {campaign: dufr, date: 1748-07-01, type: met}
 - {campaign: dufr, date: 1748-07-09, type: last seen}
@@ -12,7 +12,7 @@ gender: female
 affiliations:
 - { org: Hardstones, type: primary}
 whereabouts:
-- {type: home, start: '', end: '', location: Tokra}
+- {type: home, location: Tokra}
 pronunciation: FAHL-thrah
 ---
 # Fallthra Hardstone
@@ -30,4 +30,3 @@ Matriarch of the Hardstone clan; associated with the Tokra Archives, where she a
 - Sister of [[Morkral Hardstone]]
 - Wife of [[Delig Hardstone]]
 - Colleague of archivists at the Tokra Archives, including [[Govir]] and [[Ardan]]
-- 

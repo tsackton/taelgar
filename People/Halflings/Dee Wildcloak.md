@@ -11,7 +11,9 @@ born:
 species: halfling
 ancestry:
 gender: female
-affiliations: [Society of the Open Scroll, {org: Wildcloaks, type: primary}]
+affiliations: 
+- {org: Society of the Open Scroll, end: 1748-09-12}
+- {org: Wildcloaks, type: primary}
 whereabouts:
 - {type: home, location: ""}
 - {type: home, end: 1748-09-12, location: Chardon}
@@ -23,12 +25,12 @@ whereabouts:
 - {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba, wLastKnown: ""}
 ---
 # Dee Wildcloak
->[!info]+ Biographical Info
-> A [[Halflings|halfling]] (she/her), of the [[Wildcloaks]]
-> `$=dv.view("_scripts/view/get_Affiliations")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22nd, 1748 in [[The Thirsty Scholar]], [[Chardon]] %%^End%%
->> %%^Campaign:dufr%% Scryed [[Delwath]] on October 21st, 1748 in [[Darba]], [[Dunmar]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Halflings|halfling]] (she/her), of the [[Wildcloaks]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 22th, 1748 [[The Thirsty Scholar]], [[Chardon]] %%^End%%  
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 21th, 1748 in [[Darba]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:dufr%% Received a [[Letter from Dee WIldcloak]] on November 15th, 1748 %%^End%%
 
 Dee Wildcloak is an adventurer and treasure-hunter, based for a time in Chardon. 

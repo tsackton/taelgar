@@ -9,18 +9,19 @@ born: 1712
 species: halfling
 ancestry:
 gender: female
-leaderOf: [ { place: Emerald Song, title: Quartermaster, start: 0001} ]
-affiliations: [ Silversongs ]
+affiliations:
+- {org: Silversongs, type: primary}
+- {org: Emerald Song, title: Quartermaster}
 whereabouts: Emerald Song
 ---
 # Dani Silversong
 >[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her)  
+> A [[Halflings|halfling]] (she/her), of the [[Silversongs]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on August 9th, 1748 in the [[Emerald Song]], [[Darba]], [[Dunmar]] %%^End%%  
->> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21st, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
+>> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on August 21th, 1748 in the [[Emerald Song]], [[Chardon]], the [[Chardonian Empire]] %%^End%%
 
 Quartermaster and chief trader on the [[Emerald Song]]. Dani Silversong serves as the main spokesperson for the family and is the face of the Emerald Song.
 ## Relationships
