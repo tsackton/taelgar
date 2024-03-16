@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/needswork/interal]
 species: human
 ancestry: Urskan
 gender: female
-affiliations: [Rodyna Voknaz]
+affiliations: [Rodnya Voknaz]
 whereabouts: Ursk
 ---
 # Yelena
