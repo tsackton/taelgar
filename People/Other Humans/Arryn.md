@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/unknown]
-campaignInfo: []
+tags: [person]
+campaignInfo: 
+- {campaign: dufr, person: Wellby, type: "rescued from the [[Mirror Realm]]", date: 1748-11-13}
 name: Arryn
 born:
 species: human
@@ -14,8 +15,12 @@ whereabouts:
 # Arryn
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Rescued from the [[Mirror Realm]] by [[Wellby]] on November 13th, 1748 in the [[Eastern Green Sea]], the [[Green Sea]] %%^End%%
 
-A wizard of significant power, originally from [[Tollen]]; dwells in a tower in the northern part of the isles. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. Freed from the [[Mirror Realm]] by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 60 (DuFr)|Wellby's adventures in the eastern Green Sea]]
+![[arryn-the-wanderer-portrait.png|right|400]]A wizard of significant power. Originally from [[Tollen]], but now dwells in a tower in the northern part of the [[~Eastern Islands~]]. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. 
 
-![[arryn-the-wanderer-portrait.png|500]]
+%%^Campaign:DuFr%%
+In the fall of 1748, vanished into the [[Mirror Realm]] after an experiment went wrong. Arryn was later freed by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 60 (DuFr)|Wellby's adventures in the eastern Green Sea]]. After his rescue, he sent Wellby to the Feywild to reunite with the [[Dunmar Fellowship]]; [[Alimash]] joined Arryn's service.
+%%^End%%
+
