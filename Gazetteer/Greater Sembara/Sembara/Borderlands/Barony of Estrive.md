@@ -3,12 +3,10 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/wip]
 typeOf: barony
 whereabouts: Borderlands
-pronunciation: SHAWN-tel-ee-air
+pronunciation: ess-TREEV
 ---
-# The Barony of Chantelierre
-*(SHAWN-tel-ee-air)*
+# The Barony of Estrive
+*(ess-TREEV)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% borders Tyrwingha; probably older than most of the rest of borderlands %%

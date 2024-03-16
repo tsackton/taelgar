@@ -1,16 +1,15 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/clee]
-campaignInfo:
-name: Barony of Vaubonne
+name: Barony of Mostrevé
+whereabouts: Borderlands
+aliases: [Barony of Mostrevé]
 typeOf: barony
-partOf: Sembara
-pronunciation: Voh-bun
+pronunciation: moh-strev-AY
 ---
-# The Barony of Vaubonne
-*(Voh-bun)*
+# The Barony of Mostrevé
+*(moh-strev-AY)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Historically much larger; significant issues in the hobgoblin wars %%
