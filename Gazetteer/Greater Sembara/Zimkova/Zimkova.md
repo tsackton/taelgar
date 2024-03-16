@@ -1,16 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place/region
-  - status/needswork
-  - status/namecheck
-  - status/mike
-  - status/tim
-  - place
-name: Zovcka
+tags: [place/region, status/needswork, status/namecheck, status/mike, status/tim]
+name: Zimkova
 typeOf: realm
-aliases:
-  - Highland Kingdoms
+aliases: [ Highland Kingdoms ]
 partOf: Western Green Sea Region
 campaignInfo: []
 ---

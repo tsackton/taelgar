@@ -1,13 +1,15 @@
 ---
-tags: [place, status/needswork/notes, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 displayDefaults: {defArt: ""}
-campaignInfo: []
 name: Lake Derwent
 typeOf: lake
-partOf:
 aliases: [Derwent]
+whereabouts: Zimkova
 ---
-
 # Lake Derwent
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Border of Lavnoch and Ardlas, near Central Mountains %%
+A large lake on the border between [[Lavnoch]] and [[Ardlas]].
