@@ -8,14 +8,12 @@ ancestry: Sembaran
 gender: male
 leaderOf:
 - {place: Vostok, title: Prince of the North, start: 1508, end: 1519}
-- {place: Zovcka, title: Prince of the North, start: 1508, end: 1519}
 - {place: Sembara, title: High King, start: 1519 }
 - {place: Tyrwingha, title: High King, start: 1519 }
 - {place: Ardlas, title: High King, start: 1519 }
 - {place: Lavnoch, title: High King, start: 1519 }
 - {place: Breva, title: High King, start: 1519 }
 - {place: Vostok, title: High King, start: 1519 }
-- {place: Zovcka, title: High King, start: 1519 }
 title: King
 died: 1549
 ---

@@ -13,7 +13,6 @@ leaderOf:
 - {place: Ardlas, title: Queen Regent, end: 1555}
 - {place: Lavnoch, title: Queen Regent, end: 1555}
 - {place: Breva, title: Queen Regent, end: 1555}
-- {place: Zovcka, title: Queen Regent, end: 1555}
 died: 1559
 ---
 # Jane of Tollen

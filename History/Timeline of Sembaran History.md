@@ -136,17 +136,17 @@ Several times the dwarves send diplomatic missions to Sembara, asking the king t
 After his defeat as the hidden puppet master of [[Dominion of Avatus]], [[Cha'mutte]] has turned his attention north, where far across the [[Sentinel Range]] he is growing an empire. Still maintaining footholds in the southern [[Sentinel Range]] where several loyal hobgoblin tribes attempt to prevent the consolidation of the [[Istabor Alliance]] into a united front, he has turned his attention to a move from the north, through the empty northern steppes. Still working through proxies, and not ready to show himself yet, he summoned one of his dragonspawn, the ancient white dragon Vimfrost, and set him to gather allies across the northern plains -- orcs, monstrosities, ogres, and trolls -- and set upon Vostok and Zimkova from the north. 
 
 %% Needs thought 
-At the same time, a group of religious fanatics worshipping the children of [[Vacla]]  began to establish themselves in [[Zovcka]] and the Volta borderlands in Vostok, taking control of [[Zovcka]] and persecuting followers of the Eightfold Way.  
+At the same time, a group of religious fanatics worshipping the children of [[Vacla]]  began to establish themselves in [[Zimkova]] and the Volta borderlands in Vostok, taking control of [[Zimkova]] and persecuting followers of the Eightfold Way.  
 %%
 
-Derik III, 19 years old in 1508 DR, is sent to the north. Vostok at this point is ruled in the east by descendants of Skaer raiders, in the lakes region along the Volta increasingly by [[Zovcka]], around Tollen largely as an oligarchy of rich merchants, and to the north as a loose confederation of semi-nomadic tribes. Derik III, channeling the charisma of his great-grandfather, cloaked in the blessing of the Gods, leads a grand alliance north to repair the ancient wall and defeat the dragon. In response, he is acknowledged as Prince of the North, and when he comes to the throne he is acknowledged as high king by the people of Vostok. Tollen retains its charter as a free city, but acknowledges the suzerainty of Derik III. 
+Derik III, 19 years old in 1508 DR, is sent to the north. Vostok at this point is ruled in the east by descendants of Skaer raiders, in the lakes region along the Volta increasingly by [[Zimkova]], around Tollen largely as an oligarchy of rich merchants, and to the north as a loose confederation of semi-nomadic tribes. Derik III, channeling the charisma of his great-grandfather, cloaked in the blessing of the Gods, leads a grand alliance north to repair the ancient wall and defeat the dragon. In response, he is acknowledged as Prince of the North, and when he comes to the throne he is acknowledged as high king by the people of Vostok. Tollen retains its charter as a free city, but acknowledges the suzerainty of Derik III. 
 
 %%  Needs thought 
-While this is a great victory, in the meantime the situation has deteriorated in Zovcka and Breva. The religious cult has come to fully control Zovcka, and citizens of Breva are pissed that Sembara ignored their plight and suffering to fight battles in foreign lands. 
+While this is a great victory, in the meantime the situation has deteriorated in Zimkova, especially the north. The religious cult has come to fully control Zimkova, and citizens of Breva are pissed that Sembara ignored their plight and suffering to fight battles in foreign lands. 
 
-In DR 1511, Derik III, still Prince and Heir, leads a campaign to the highlands. The conquest is bitter, as Breva descends into civil war with some of the people on the side of Sembara and others on the side of OldGod. Sembara prevails, and forces of OldGod flee to Zovcka, but the price is high, and Derik III does not pursue military conquest of Zovcka.   
+In DR 1511, Derik III, still Prince and Heir, leads a campaign to the highlands. The conquest is bitter, as Breva descends into civil war with some of the people on the side of Sembara and others on the side of OldGod. Sembara prevails, and forces of OldGod flee to Zimkova, but the price is high, and Derik III does not pursue military conquest of Zimkova.   
 
-In DR 1523, shortly after Derik III comes to the throne, he finally launches a campaign against OldGod (perhaps now revealed to be stoked/encouraged by Cha’mutte), with the aid and support of the local lords on the Vostok side of the Volta. Zovcka is defeated, but worshippers of OldGod slip into hiding. Zovcka nominally acknowledges the overlordship of Sembara, but the local lords are not replaced, only forced to renounce OldGod. 
+In DR 1523, shortly after Derik III comes to the throne, he finally launches a campaign against OldGod (perhaps now revealed to be stoked/encouraged by Cha’mutte), with the aid and support of the local lords on the Vostok side of the Volta. Zimkova is defeated, but worshippers of OldGod slip into hiding. Zimkova nominally acknowledges the overlordship of Sembara, but the local lords are not replaced, only forced to renounce OldGod. 
 
 %%
 
@@ -178,7 +178,10 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1561), late winter: [[Bertram II]] dies in the [[Battle of SomeOtherPass]]
 - (DR:: 1561), spring: [[Blanche I]] is crowned Queen
 - (DR:: 1561), summer: The [[Sentinel Range War]] ends
-- (DR:: 1563): The barons of [[Zovcka]] refuse to come to court and meet instead at the small trade town of Doka, and proclaim Mila, Baroness of the Upper Volta as Queen of Zovcka. [[Blanche I]] does nothing, claiming it was foretold by the stars
+%%
+	This needs rethinking with the removal of Zovcka
+- (DR:: 1563): The barons of [[Zimkova]] refuse to come to court and meet instead at the small trade town of Doka, and proclaim Mila, Baroness of the Upper Volta as Queen of Zovcka. [[Blanche I]] does nothing, claiming it was foretold by the stars
+%%
 - (DR:: 1564): A year of fine harvests and the first year in living memory when the borders of Sembara are at peace
 - (DR:: 1565): [[Blanche I]] departs on her [[Grand Ambassadorship of Blanche I]] to the [[Green Sea]]
 - (DR:: 1566): [[Blanche I]] returns from her grand tour, and starts to show significant favoritism to her sister [[Elaine I]]
