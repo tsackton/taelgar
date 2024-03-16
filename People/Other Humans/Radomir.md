@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/aware, person, dufr/minor, status/unknown]
+tags: [person, status/needswork/internal, status/cleanup/header]
 campaignInfo: []
 name: Radomir
 born: 1710

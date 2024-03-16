@@ -26,10 +26,16 @@ whereabouts:
 >> %%^Campaign:dufr%% Met by [[Wellby]] around DR 1730 at [[The Singing Fox]], [[Fairgate Outer]] %%^End%%
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 on [[Vindristjarna]], in the [[Tollen|Free City of Tollen]] %%^End%%
 
-Chenna Goodbarrel owns a small and charming halfling tavern in [[Fairgate Outer]] called *[[The Singing Fox]]*, with her wife [[Harriet Goodbarrel|Harriet]]. Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
+![[chenna-goodbarrel-portrait.png|right|400]]Chenna Goodbarrel owns a small and charming halfling tavern in [[Fairgate Outer]] called *[[The Singing Fox]]*, with her wife [[Harriet Goodbarrel|Harriet]]. Chenna runs the bar and kitchen; warm, welcoming, and charming, she's the heart of the establishment.
 ## Relationships
 - [[Harriet Goodbarrel]], wife
 - [[Wellby]], a distant relation, something like a third cousin once removed
+
+
+
+
+
+
 %%^Campaign:None%%
 ```dataview
 TABLE WITHOUT ID choice(contains(file.tags,"organization"), "Organization", "Person") as Type, name as Name, choice(species, species, typeof) as Info, file.link as Link
@@ -44,5 +50,3 @@ Secret mostly contains roleplaying notes; ask if they'd be useful
 %%
 
 %%SECRET[1]%%
-
-![[chenna-goodbarrel-portrait.png]]

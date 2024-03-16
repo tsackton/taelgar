@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical]
+tags: [person, historical, status/cleanup/refactor]
 campaignInfo:
 name: Daruk
 born: 1323
@@ -15,6 +15,8 @@ affiliations: [{org: Runecrafter Thuhr, type: primary}]
 > A [[Dwarves|dwarf]] (he/him), of the [[Runecrafter Thuhr]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%%another note where it might be nice to track knowledge/rumors/awareness but not actual meeting%%
 
 A dwarven scholar, who lived and died before the [[Great War]], and was fascinated with lost runic magic. Rumors and tales say he traveled the [[Feywild]], and to many other exotic places, seeking to understand how to create runic magic that would permanently change the essence of things. 
 

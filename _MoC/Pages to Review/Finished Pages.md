@@ -1,7 +1,7 @@
 # Pages without Status Tags
 This should be pages considered "finished".
 
-## Outside Worldbuilding and Campaigns, Not People
+# Outside Worldbuilding and Campaigns, Not People
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, headerVersion

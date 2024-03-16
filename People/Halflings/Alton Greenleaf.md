@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, testcase]
+tags: [person, testcase]
 campaignInfo:
 - {campaign: dufr, date: 1748-07-18, type: met}
 name: Alton Greenleaf
