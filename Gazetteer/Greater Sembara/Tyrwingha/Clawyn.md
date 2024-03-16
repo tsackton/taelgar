@@ -13,4 +13,4 @@ partOf: Tyrwingha
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small village a few days ride south of [[Tafolwern]], known for its vineyards. 
+A small village a few days ride south of [[Tafolwern]], in the gentle northern slopes of the [[Mostreve Hills]], known for its vineyards and wine. There is little here other than a small temple to the Mother 
