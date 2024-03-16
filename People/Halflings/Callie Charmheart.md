@@ -9,7 +9,8 @@ born: 1722
 species: halfling
 ancestry:
 gender: female
-affiliations: [Charmhearts]
+affiliations: 
+- {org: Charmhearts, type: primary }
 whereabouts: 
 - { type: away, start: 1748-03-19, end: 1748-03-19, location: Raven's Hold }
 - { type: away, start: 1748-03-28, end: 1748-04-07, location: Karawa }
@@ -20,7 +21,7 @@ whereabouts:
 ---
 # Callie Charmheart
 >[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her)  
+> A [[Halflings|halfling]] (she/her), of the [[Charmhearts]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  

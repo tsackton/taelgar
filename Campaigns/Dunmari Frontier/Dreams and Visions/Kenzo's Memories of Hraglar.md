@@ -11,7 +11,7 @@ tags: [status/unknown]
 > 
 > It is hard to think straight, and as you run you feel your mind drift, wider and wider, until you are the wind, these pesky small minds imposing on you. You laugh, wild, toying with them, asking one of the minds what it would like to see, showing it a vision of [[Orcs]] wearing a glittering mantle of rainbow thread, for some reason. You are free, you can see, it is glorious. 
 > 
-> Running up the tower, suddenly your memories come rushing back. Chains, growing out of the wall. Powerful magic, binding you, forcing you to relinquish your body of wind and rain, turning to flesh. An incantation, a wizard chanting: "I bind you now forever here, with chains unbreakable, until magic fails or until the first words of Nelawe's Lament for Lost Thunder are spoken by a human of these lands to free you from your prison."
+> Running up the tower, suddenly your memories come rushing back. Chains, growing out of the wall. Powerful magic, binding you, forcing you to relinquish your body of wind and rain, turning to flesh. An incantation, a wizard chanting: "I bind you now forever here, with chains unbreakable, until magic fails or until the first words of [[Nelawe]]'s Lament for Lost Thunder are spoken by a human of these lands to free you from your prison."
 > 
 > Then all is dark. You have scattered memories of your mind being split, being forced into a statue of yourself, a representation cast with magic to be your eyes and ears and mouth. The wizard, questioning you, asking how to restore the crashed ship, Vindristjarna, The Star on the Wind. The magic traps you but does not compel you, and you are silent. 
 > 

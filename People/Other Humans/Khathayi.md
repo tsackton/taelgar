@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/aware, historical, person]
+tags: [historical, person]
 campaignInfo: []
 name: Khathayi the Flametongue
 born:

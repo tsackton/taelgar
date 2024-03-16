@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/image]
 campaignInfo: [{campaign: DuFr, type: met, date: 1748-04-12}, {campaign: DuFr, type: last seen, date: 1748-06-01}]
 name: Tharandros
 born:

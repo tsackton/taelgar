@@ -18,4 +18,4 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Taster, a brave rabbit, was briefly used as water taster and all around safety inspector by the Dunmar Fellowship during their adventures in and around [[Raven's Hold]]. Since lost, and now presumed dead.
+Taster, a brave rabbit, was briefly used as water taster and all around safety inspector by the [[Dunmar Fellowship]] during their adventures in and around [[Raven's Hold]]. Since lost, and now presumed dead.
