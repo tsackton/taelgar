@@ -23,6 +23,14 @@ whereabouts:
 ![[ysabel.png|right|420]] A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [[Cleenseau]] and leads a part of the [[Lord's Guard of Cleenseau|Lord's Guard]]. She has many opinions about her employers, in particular [[Rinault Essford]], and does not always successfully keep them to herself.
 
 
+
+
+
+
+
+
+
+
 %%^Campaign:None%%
 ### Relationships
 ```dataviewjs

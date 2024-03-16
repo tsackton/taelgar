@@ -9,18 +9,17 @@ ancestry:
 gender: female
 affiliations: [{org: People of the Rainbow, type: primary}]
 excludePublish: ["clee"]
+name: Nogu
 whereabouts:
 - {type: home, location: Xurkhaz }
-- {type: away, location: Mirror of Soul Trapping, start: 1660, end: 1748-12-04 } # start is approximate
+- {type: away, location: Mirror of Soul Trapping, start: 1680, end: 1748-12-04 } # start is approximate
 ---
-# Orc in the Mirror
+# Nogu
 >[!info]+ Biographical Info  
 > An [[Orcs|orc]] (she/her), of the [[People of the Rainbow]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Freed from the [[Mirror of Soul Trapping]] into [[Lubash|Lubash's]] care by the [[Dunmar Fellowship]] on [[Session 77 (DuFr)|December 5th, 1748]] in [[Xurkhaz]] %%^End%%
+>> %%^Campaign:DuFr%% The freed from the [[Mirror of Soul Trapping]] into [[Lubash|Lubash's]] care by the [[Dunmar Fellowship]] on [[Session 71 (DuFr)|December 5th, 1748]] in [[Xurkhaz]] %%^End%%
 
-An unnamed [[Orcs|orc]], trapped by [[Agata]] in the [[Mirror of Soul Trapping]] after refusing to reveal secrets of the [[Cloak of Rainbows]] and the [[People of the Rainbow]]. She is from [[Xurkhaz]], born in the 1660s, and spend around 60 years trapped before being finally freed into her people's care.
-
-
+An [[Orcs|orc]], trapped by [[Agata]] in the [[Mirror of Soul Trapping]] after refusing to reveal secrets of the [[Cloak of Rainbows]] and the [[People of the Rainbow]]. She is from [[Xurkhaz]], born in the 1660s, and spend around 60 years trapped before being finally freed into her people's care.

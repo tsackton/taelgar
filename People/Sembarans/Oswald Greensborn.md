@@ -1,5 +1,5 @@
 ---
-tags: [person, historical, status/unknown]
+tags: [person, historical, status/stub]
 ---
 
 A leader of the Rangers in Vaubonne and Adderfell.  Deceased.

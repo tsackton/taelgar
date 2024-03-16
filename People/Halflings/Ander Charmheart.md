@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/minor]
+tags: [person]
 timelineDescriptor: Charmhearts
 campaignInfo:
 - {campaign: dufr, date: 1748-03-29, type: met }
