@@ -1,10 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/region, status/needswork, status/namecheck, status/mike, status/tim]
-name: Zimkova
-typeOf: region
-aliases: [Highland Kingdoms]
+tags:
+  - place/region
+  - status/needswork
+  - status/namecheck
+  - status/mike
+  - status/tim
+  - place
+name: Zovcka
+typeOf: realm
+aliases:
+  - Highland Kingdoms
 partOf: Western Green Sea Region
+campaignInfo: []
 ---
 # Zimkova
 >[!info]+ Information  
@@ -19,4 +27,18 @@ Ardlas, Lavnoch, and Breva were, at times part of the Sembaran realm, but today 
 
 Ancient history: The broad swath of land from the [[Sentinel Range]] to the [[~VostokHills~]] is settled by 
 
+Note: this replaces Zovcka. Need to update the maps to remove Zovcka
+
+
+-   Isolationist and wants to be left alone  
+-   In some of the higher steppes, still speak the old east northlander and a major reserve of worshippers of the old gods
+-   A strong cultural tradition of staying out of larger politics and wanting to be left alone. 
+-   Low population density
+-   Hunting still important in some regions, although hardy grains (i.e. barley or an analog) and wooly mountain goats/sheep are the main food source.
+- Strong connection to stoneborn and kestavo
 %%
+
+
+
+
+

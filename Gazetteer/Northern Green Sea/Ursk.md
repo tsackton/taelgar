@@ -36,7 +36,7 @@ The northern coasts between Skaegenland and Ursk are inhospitable, with few or n
 On the northern shores of the [[Green Sea]], stretching a few hundred miles along the coast and extending inland, lies a civilization ruled by wizards. A closed culture, foreigners are restricted to a few offshore islands on the outskirts of coastal trading cities, where they trade for prized furs and hides, especially dragonhide, of the northern wastes.
 ### Climate
 
-Ursk  lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of Zovcka. The winters are long and cold, and the westerly winds off the [[Green Sea]] bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. 
+Ursk  lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of  [[Zimkova]]. The winters are long and cold, and the westerly winds off the [[Green Sea]] bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. 
 
 The land rises gradually to the north, and the northern edge of Ursk  is defined by the rough, rugged mountains of the [[~NorthUrskMountains~]]. Much like the central plateaus of Vostok, this is a land of many small, cold rivers, and with the maritime influence wetlands are common, especially along the coast. To the north, the vast taiga of the northern wastes extends are far as one can travel, until it is replaced by tundra in the higher elevations and the far north.
 

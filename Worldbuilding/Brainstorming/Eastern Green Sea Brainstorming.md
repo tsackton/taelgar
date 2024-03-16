@@ -7,7 +7,7 @@ On the northern shores of the Green Sea, stretching a few hundred miles along th
 
 ### Climate
 
-~CM~ lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of Zovcka. The winters are long and cold, and the westerly winds off the Green Sea bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. 
+~CM~ lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of  [[Zimkova]]. The winters are long and cold, and the westerly winds off the Green Sea bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. 
 
   
 

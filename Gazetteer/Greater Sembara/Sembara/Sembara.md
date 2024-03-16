@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork]
 displayDefaults: { ruledBy: "Ruled by: <name> <((since )startDate())>"}
 name: Sembara
 typeOf: realm

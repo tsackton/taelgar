@@ -15,7 +15,6 @@ leaderOf:
 - {place: Ardlas, title: High King}
 - {place: Lavnoch, title: High King}
 - {place: Breva, title: High King}
-- {place: Zovcka, title: High King}
 affiliations: [House of Sewick]
 ---
 # King Bertram II

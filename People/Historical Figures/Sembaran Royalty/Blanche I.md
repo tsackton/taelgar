@@ -9,7 +9,6 @@ gender: female
 died: 1567
 title: Queen
 affiliations:
-- {place: Zovcka, title: High Queen, start: 1561-02-13, end: 1563}
 - {place: Sembara, title: High Queen, start: 1561-02-13}
 - {place: Ardlas, title: High Queen, start: 1561-02-13}
 - {place: Lavnoch, title: High Queen, start: 1561-02-13}

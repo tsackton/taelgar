@@ -404,7 +404,7 @@ Arryn was the second son, and a quiet, scholarly man, overshadowed by his strong
 
   
 
-The next few years were a time of factionalism. Arryn retreated to his study of the heavens, largely ignoring the affairs of state. The barons of the highlands came to council less and less, and in the third year of his reign (DR 1563) the barons of Zovcka refuse Arryn’s summons, and meet instead at the small trade town of Doka, and proclaim Mila, Baroness of the Upper Volta as Queen of Zovcka. Little is done in Embry, as Arryn proclaims the stars had foretold this. Anne, by now the young wife of the heir to the Duchess of Telham, argues for war, but Arryn refuses to call his knights, and little comes of it.
+The next few years were a time of factionalism. Arryn retreated to his study of the heavens, largely ignoring the affairs of state. 
 
   
 
@@ -427,8 +427,7 @@ In DR 1567, Arryn dies, unexpectedly, in an accidental fall from a tower. Elaine
 The winter passes slowly. Food is scare, and although no battles are fought, several skirmishes almost break out into a full blown battle. As 1568 dawns, it seemed to all that a battle would break out. Elaine and Anne were no longer speaking to each other. The first to leave were the barons of the highlands. As the capital emptied over fears of errupting violence, a compromise was reached. The halflings (or maybe lizardfolk?) negotiated an agreement: Anne would withdraw to Telham, Elaine to Tyrwingha, and Wisym would take the throne. 
 
   
-
-Wisym was crowned king Wisym I in the summer of 1568. However, following the lead of Zovcka, Ardlas, Breva, and Lavnoch refused to acknowledge this compromise. Anne, with stronger ties to the Volta river valley, was proclaimed Queen of Breva, and Ardlas and Lavnoch proclaimed their own rulers. 
+Wisym was crowned king Wisym I in the summer of 1568. However, Ardlas, Breva, and Lavnoch refused to acknowledge this compromise. Anne, with stronger ties to the Volta river valley, was proclaimed Queen of Breva, and Ardlas and Lavnoch proclaimed their own rulers. 
 
   
 

@@ -14,7 +14,6 @@ affiliations:
 - {place: Ardlas, title: High King, start: 1549}
 - {place: Lavnoch, title: High King, start: 1549}
 - {place: Breva, title: High King, start: 1549}
-- {place: Zovcka, title: High King, start: 1549}
 - {org: House of Sewick, type: primary}
 ---
 # King Bertram I
