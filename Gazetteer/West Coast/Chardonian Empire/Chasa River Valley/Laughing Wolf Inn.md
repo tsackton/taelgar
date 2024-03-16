@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 campaignInfo: []
 name: Laughing Wolf Inn
@@ -6,7 +7,8 @@ typeOf: inn
 whereabouts: Arendum
 ---
 # The Laughing Wolf Inn
->[!info]+ Information
-> An  inn in [[Arendum]], the [[Chasa River Valley]], the [[Chardonian Empire]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A traveler's inn outside the main gates of Arendum. 
