@@ -18,14 +18,14 @@ descTitle: Giants, Ice Worms, and Shapeshifers
 > *On Earth: Tuesday Feb 06, 2024*
 > *[[Isenborg]] and the [[Ket]] river valley*
 
-The Dunmar Fellowship gains King Brimskarda's favor at Isenborg and forges an alliance with the Vargaldi after a fierce battle with an ice worm.
+The [[Dunmar Fellowship]] gains King [[Brimskarda]]'s favor at [[Isenborg]] and forges an alliance with the [[Vargaldi]] after a fierce battle with an ice worm.
 ## Session Info
 ### Summary
-- The Dunmar Fellowship arrives at Isenborg to meet Frost Giant King Brimskarda and gain intelligence on the Vargaldi and the Ket river valley
-- They impress Brimskarda with gifts and tales, learning of Frost Giant history and gaining his favor.
-- They meet and persuade Algerd, a frost giant historian, to journey with them in search of his sister.
-- After several uneventful days traveling east, an ice worm attack leads to a battle; Riswynn is nearly digested before the creature is defeated.
-- The party rescues two Vargaldi shape-shifters, who invite them to their hidden village.
+- The [[Dunmar Fellowship]] arrives at [[Isenborg]] to meet Frost Giant King [[Brimskarda]] and gain intelligence on the [[Vargaldi]] and the [[Ket]] river valley
+- They impress [[Brimskarda]] with gifts and tales, learning of Frost Giant history and gaining his favor.
+- They meet and persuade [[Algerd]], a frost giant historian, to journey with them in search of his sister.
+- After several uneventful days traveling east, an ice worm attack leads to a battle; [[Riswynn]] is nearly digested before the creature is defeated.
+- The party rescues two [[Vargaldi]] shape-shifters, who invite them to their hidden camp.
 
 ### Timeline
 - (DR:: 1749-03-18), evening: Meet [[Brimskarda]], speak about dragons and giants. Feast with Brimskarda's court at [[Isenborg]].
@@ -52,7 +52,6 @@ Departing [[Isenborg]] with [[Algerd]] in tow, the party journeyed east for two 
 ![[ice-worm.webp]]
 
 The confrontation not only tested the party's skill in battle, but also led to an unexpected alliance with the [[Vargaldi]], shape-shifting beings from a hidden village. The party's victory over the Ice Worm, marked by strategic combat and skillful extraction of the creature's valuable parts, forged a bond with the shape-shifters, who guiding the party to their concealed abode where a medley of villagers awaited, heralding the beginning of a new chapter in their adventure.
-
 
 
 ## Transcript
