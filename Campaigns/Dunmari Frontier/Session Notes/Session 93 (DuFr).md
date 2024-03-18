@@ -18,22 +18,22 @@ descTitle: Dragon's Defeat
 > *On Earth: Sunday Feb 11, 2024*
 > *Vargald camp, [[~Northern Boreal Forest~]]*
 
-The [[Dunmar Fellowship]] protects the [[Vargald]] camp from a dragon, emerging victorious and strengthening ties with the community.
+The [[Dunmar Fellowship]] protects the [[Vargaldi]] camp from a dragon, emerging victorious and strengthening ties with the community.
 
 ## Session Info
 ### Summary
-- The [[Dunmar Fellowship]] arrives at the [[Vargald]] camp using their flying castle, causing a stir among the shape-shifting locals.
+- The [[Dunmar Fellowship]] arrives at the [[Vargaldi]] camp using their flying castle, causing a stir among the shape-shifting locals.
 - [[Delwath]] uses magic to camouflage the castle and bridge communication, while the group learns of dragon threats from [[Jotha]].
 - The party discusses Vargald defenses, evacuation, and dragon lore, assessing the risk of dragon attacks on the camp.
-- A dragon is spotted; the group opts to protect the [[Vargald]] and plans an ambush, resulting in a battle with a dragon and snow constructs.
-- Victorious, the party harvests dragon parts and is hailed as heroes, planning their next steps with the [[Vargald]] for a mission to [[Ursk]].
+- A dragon is spotted; the group opts to protect the [[Vargaldi]] and plans an ambush, resulting in a battle with a dragon and snow constructs.
+- Victorious, the party harvests dragon parts and is hailed as heroes, planning their next steps with the [[Vargaldi]] for a mission to [[Ursk]].
 
 ### Timeline
 - (DR:: 1749-03-21), late afternoon: Speak with [[Vargaldi]]. Meet [[Jotha]], [[Torsten]], [[Zora]], and others in the village. Learn of danger of a nearby dragon. 
 - (DR:: 1749-03-21), evening: Hide [[Vargaldi]] in [[Vindristjarna]]; confront and defeat dragon. Rest and plan.
 
 ## Narrative
-We begin as the party arrives in dramatic fashion at the [[Vargald]] camp, nestled within the foreboding yet majestic [[~Northern Boreal Forest~|northern forests]], courtesy of their flying castle [[Vindristjarna]]. This spectacle did not go unnoticed by the local inhabitants, who, revealing their ability to transform from animals into humanoid forms, approached with a mix of curiosity and caution. Delwath, in a bid to bridge the communication gap, cycled through languages—Common, Deno'qai—before resorting to the Tongues spell to articulate their peaceful intentions and announce the return of lost Vargald members. This introduction sparked a dialogue with [[Jotha]], a woman from the camp, who expressed concerns about the visibility of their ship potentially attracting a dragon's gaze to their haven. [[Delwath]], acknowledging these fears, employed magic to camouflage the flying castle, thereby mitigating the perceived threat and earning a cautious gratitude from the Vargald.
+We begin as the party arrives in dramatic fashion at the [[Vargaldi]] camp, nestled within the foreboding yet majestic [[~Northern Boreal Forest~|northern forests]], courtesy of their flying castle [[Vindristjarna]]. This spectacle did not go unnoticed by the local inhabitants, who, revealing their ability to transform from animals into humanoid forms, approached with a mix of curiosity and caution. Delwath, in a bid to bridge the communication gap, cycled through languages—Common, Deno'qai—before resorting to the Tongues spell to articulate their peaceful intentions and announce the return of lost Vargald members. This introduction sparked a dialogue with [[Jotha]], a woman from the camp, who expressed concerns about the visibility of their ship potentially attracting a dragon's gaze to their haven. [[Delwath]], acknowledging these fears, employed magic to camouflage the flying castle, thereby mitigating the perceived threat and earning a cautious gratitude from the Vargald.
 
 ![[vargald-camp.png]]
 
