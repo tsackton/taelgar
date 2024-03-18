@@ -27,11 +27,11 @@ The [[Dunmar Fellowship]] enters [[Zvervinka]] posing as monster hunters, befrie
 - They explore [[Zvervinka]]'s divide between the lower city and upper city, and create the silver wolf sign, pleasing [[Roman]].
 - The party meets [[Lena Sorokina|Lena]] Sorokina at the [[Watcher's Spire]], who agrees to connect them with the [[Rodnya Voknaz]].
 ### Timeline
-- (DR:: 1749-03-22): The party settles into the [[Vargald]] camp to learn Urskan and gather information over the next couple of weeks; the one year anniversary of when [[Kenzo]], [[Delwath]], [[Seeker]], and [[Wellby]] met in [[Karawa]]
-- (DR:: 1749-03-23) - (DR_end:: 1749-03-25): Downtime in the [[Vargald]] camp
+- (DR:: 1749-03-22): The party settles into the [[Vargaldi]] camp to learn Urskan and gather information over the next couple of weeks; the one year anniversary of when [[Kenzo]], [[Delwath]], [[Seeker]], and [[Wellby]] met in [[Karawa]]
+- (DR:: 1749-03-23) - (DR_end:: 1749-03-25): Downtime in the [[Vargaldi]] camp
 - (DR:: 1749-03-26): The [[Festival of Rebirth]] is celebrated in [[Dunmar]], and quietly marked by the [[Dunmar Fellowship]] in the far north
-- (DR:: 1749-03-27)- (DR_end:: 1749-04-07): Downtime in the [[Vargald]] camp, learning passable Urskan and gathering information and rumors.
-- (DR:: 1749-04-08): Depart the [[Vargald]] camp, heading east along the [[Ket]] in [[Vindristjarna]]
+- (DR:: 1749-03-27)- (DR_end:: 1749-04-07): Downtime in the [[Vargaldi]] camp, learning passable Urskan and gathering information and rumors.
+- (DR:: 1749-04-08): Depart the [[Vargaldi]] camp, heading east along the [[Ket]] in [[Vindristjarna]]
 - (DR:: 1749-04-09)- (DR_end:: 1749-04-10): Continue traveling east
 - (DR:: 1749-04-11): Bid farewell to [[Vindristjarna]], leaving [[Faldrak Bronzehammer|Faldrak]] in command, and use the rainbow bridge to teleport to within 30 miles of the city of [[Zvervinka]]. Trek east throughout the day. 
 - (DR:: 1749-04-12): Trek through snow and mud east, following the [[Ket]], camping a few miles from the city at dusk. 
@@ -39,7 +39,7 @@ The [[Dunmar Fellowship]] enters [[Zvervinka]] posing as monster hunters, befrie
 - (DR:: 1749-04-14): Craft silver wolf; [[Roman]] is pleased and agrees to arrange meeting with [[Lena Sorokina]] the next day.
 - (DR:: 1749-04-15), morning: Leave goods with [[Roman]] to sell at market; speak with [[Lena Sorokina|Lena]], who arranges contact with the [[Rodnya Voknaz]].
 ## Narrative
-We begin at a campsite by the River [[Ket]], where [[Riswynn]], [[Kenzo]], [[Delwath]], [[Seeker]], and [[Wellby]] are gathered around the warmth of a flickering campfire, reminiscing about the past few weeks in the [[Vargald]] camp and journeying along the Ket. The topic of discussion soon shifted towards the looming challenge: entering the trade city of [[Zvervinka]] without drawing undue attention. The discussion took a strategic turn as they considered [[Zvervinka]]’s strict stance on magic. [[Ursk]]’s unique societal structure, dominated by the magical guilds known as [[Rodnya]] and enforced by the vigilant [[ Eyes of Vedmakov|Watchers]], demanded careful navigation. The night ended with the party deciding to adopt the guise of monster hunters, leveraging the exotic parts of an ice worm and a dragon they had collected. [[Kenzo]] and [[Wellby]] would act as local Vargaldi guides to lend credibility to their cover. 
+We begin at a campsite by the River [[Ket]], where [[Riswynn]], [[Kenzo]], [[Delwath]], [[Seeker]], and [[Wellby]] are gathered around the warmth of a flickering campfire, reminiscing about the past few weeks in the [[Vargaldi]] camp and journeying along the Ket. The topic of discussion soon shifted towards the looming challenge: entering the trade city of [[Zvervinka]] without drawing undue attention. The discussion took a strategic turn as they considered [[Zvervinka]]’s strict stance on magic. [[Ursk]]’s unique societal structure, dominated by the magical guilds known as [[Rodnya]] and enforced by the vigilant [[ Eyes of Vedmakov|Watchers]], demanded careful navigation. The night ended with the party deciding to adopt the guise of monster hunters, leveraging the exotic parts of an ice worm and a dragon they had collected. [[Kenzo]] and [[Wellby]] would act as local Vargaldi guides to lend credibility to their cover. 
 
 The next morning, the party approached [[Zvervinka]]’s gates, disguises in place. Here, they encountered the city guards, wary of newcomers and questioning the unusual composition of their group, demanding to know their purpose in [[Ursk]]. [[Wellby]], with a masterful display of the local dialect, introduced them as monster hunters bearing valuable dragon parts for trade.
 
