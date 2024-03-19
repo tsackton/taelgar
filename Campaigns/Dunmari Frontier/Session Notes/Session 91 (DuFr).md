@@ -35,7 +35,7 @@ The [[Dunmar Fellowship]] defeats more shadow hunters, traverses the [[Sivnjo Mo
 - (DR:: 1749-03-15), evening: Reach [[Sivnjo Mountains]] amid gathering clouds and a threatened storm 
 - (DR:: 1749-03-16): Wait out snowstorm on the ground
 - (DR:: 1749-03-17), morning: Cross [[Sivnjo Mountains]] mountains
-- (DR:: 1749-03-17), afternoon: See frost giants watching over dwarven miners. Speak to giants, and dwarves. Learn about [[Brimskarda]], King of the Frost Giants. Send lynx messenger with letter of introduction ahead. Travel to Brimskarda's steading.
+- (DR:: 1749-03-17), afternoon: See frost giants watching over dwarven miners. Speak to giants, and dwarves. Learn about [[Brimskarda]], King of the Frost Giants. Send lynx messenger with letter of introduction ahead. Travel to [[Brimskarda]]'s steading, [[Isenborg]].
 - (DR:: 1749-03-18), afternoon: Arrive at [[Brimskarda]]'s steading
 
 ## Narrative
