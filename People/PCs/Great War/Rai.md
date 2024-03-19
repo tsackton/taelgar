@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person, status/needswork]
+tags: [pc/greatwar, person, status/needswork/external]
 name: Rai
 born:
 species:

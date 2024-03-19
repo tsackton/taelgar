@@ -1,3 +1,3 @@
 ---
-tags: [status/needswork, place]
+tags: [status/stub, place]
 ---

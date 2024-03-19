@@ -1,5 +1,3 @@
 ---
-tags: [item/magical, status/needswork]
+tags: [item/magical, status/stub]
 ---
-
-(stub)

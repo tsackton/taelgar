@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/needswork/wip, place]
-typeOf: kingdom
+typeOf: realm
 ancestry: frost giant
 whereabouts: Hrimthur
 pronunciation: KAHL-hal-lah

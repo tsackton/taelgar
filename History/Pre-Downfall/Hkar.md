@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, place, historical]
+tags: [status/stub, place, historical]
 ---
 # Hkar
 >[!info]+ Information  

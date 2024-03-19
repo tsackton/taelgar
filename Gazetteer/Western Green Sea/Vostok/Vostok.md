@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/unknown]
 name: Vostok
 typeOf: realm
-partOf: Western Green Sea Region
+whereabouts: Western Green Sea Region
 aliases: [Vosland]
 pronunciation: VOS-tok
 ---

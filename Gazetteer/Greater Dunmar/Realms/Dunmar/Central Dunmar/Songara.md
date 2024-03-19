@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 campaignInfo: []
 name: Songara
 typeOf: city
-partOf: Central Dunmar
+whereabouts: Central Dunmar
 ---
 # Songara
 >[!info]+ Information  

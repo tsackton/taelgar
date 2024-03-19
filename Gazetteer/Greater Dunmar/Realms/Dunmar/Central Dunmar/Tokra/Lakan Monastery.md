@@ -7,7 +7,7 @@ typeOf: holy site
 typeOfAlias: monastery
 ancestry: Dunmari
 affiliations: [{org: Laka, type: primary}]
-partOf: Tokra
+whereabouts: Tokra
 ---
 # The Lakan Monastery
 >[!info]+ Information

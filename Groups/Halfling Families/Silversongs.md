@@ -1,9 +1,19 @@
 ---
-tags: [status/unknown, organization/family]
+headerVersion: 2023.11.25
+tags: [organization/family]
 displayDefaults: {defArt: the}
 typeOf: family
+ancestry: halfling
 name: Silversongs
+affiliations:
+- {place: Emerald Song, type: leader, title: Owners}
 ---
+# The Silversongs
+>[!info]+ Information  
+> A [[Halflings|halfling]] family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
+A halfling family of traders and sailors based in the [[Nevos Sea]]. 
 
 %%^Campaign:None%%
 ### Members

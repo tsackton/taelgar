@@ -10,6 +10,6 @@ whereabouts: Elemental Plane of Fire
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A rumored city, perhaps home to [[efreeti]] and [[azer]], on the Elemental Plane of Fire.
+A rumored city, perhaps home to [[efreeti]] and [[Azer]], on the Elemental Plane of Fire.
 
 %%SECRET[1]%%

@@ -1,10 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/needswork/wip]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Hardstones
 typeOf: clan
+ancestry: dwarven
 ---
+# The Hardstones
+>[!info]+ Information  
+> A [[Dwarves|dwarven]] clan  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%^Campaign:None%%
 ### Current Members

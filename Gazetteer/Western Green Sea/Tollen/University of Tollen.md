@@ -4,7 +4,7 @@ tags: [place, status/unknown]
 campaignInfo: []
 name: University of Tollen
 typeOf: university
-partOf: Magnus Street
+whereabouts: Magnus Street
 ---
 # The University of Tollen
 >[!info]+ Information  
