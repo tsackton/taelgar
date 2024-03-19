@@ -4,6 +4,7 @@ tags: [place, status/needswork/wip]
 pronunciation: SHEEF-nyo
 typeOf: mountain range
 whereabouts: Northern Green Sea
+aliases: [Hrimthur]
 ---
 # The Sivnjo Mountains
 *(SHEEF-nyo)*

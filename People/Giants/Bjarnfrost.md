@@ -7,7 +7,7 @@ gender: male
 title: King
 name: Bjarnfrost
 affiliations:
-- {place: Kaldhalla, title: King, type: leader}
+- {place: Kaldhalla, title: King, type: leader, end: 1511}
 ---
 # King Bjarnfrost
 >[!info]+ Biographical Info  

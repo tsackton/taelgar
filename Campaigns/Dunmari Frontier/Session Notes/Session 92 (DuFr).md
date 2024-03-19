@@ -87,7 +87,7 @@ The confrontation not only tested the party's skill in battle, but also led to a
 - The giants engage in a boisterous and unorganized meal, eating directly from the roast and cracking open the ice melons with their fists.
 - Dewalth ensures King Brimskarda notices the horn around the dragon's neck, a gift from the party, which the King appreciatively acknowledges.
 - Dewalth expresses a desire to subtly gather information about the Dwarves and the history of the Frost Giant leadership, specifically inquiring about dwarves not under Brimskarda's protection, the previous king, and potential guides among the giants.
-- The party learns about the transition of power from the previous king, Bjarnfrost, to Brimskarda after a war with the dragon Vimfrost, the interim rule of Freyvirda who was allied with dragons, and Brimskarda's eventual rise to power by restoring the Frost Giants' dominance over the region.
+- The party learns about the transition of power from the previous king, [[Bjarnfrost]], to Brimskarda after a war with the dragon Vimfrost, the interim rule of Freyvirda who was allied with dragons, and Brimskarda's eventual rise to power by restoring the Frost Giants' dominance over the region.
 #### The Giant Historian
 - The party learns from King Brimskarda that there are two potential allies for their quest: widely traveled tribute collectors and a giant historian with a fascination for the east and local history.
 - Dewalth expresses interest in the historian giant who is more focused on history than battle, believing he could provide valuable knowledge.
