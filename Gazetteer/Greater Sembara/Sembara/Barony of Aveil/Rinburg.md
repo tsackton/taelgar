@@ -6,7 +6,7 @@ name: Rinburg
 typeOf: settlement
 typeOfAlias: town
 population: 2341
-partOf: Barony of Aveil
+whereabouts: Barony of Aveil
 pronunciation: Rin-burg
 ---
 # Rinburg

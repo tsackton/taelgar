@@ -4,7 +4,7 @@ tags: [place/island, event-source, status/unknown]
 campaignInfo: []
 name: Vetta
 typeOf: island
-partOf: Skaerhem
+whereabouts: Skaerhem
 ---
 # Vetta
 >[!info]+ Information

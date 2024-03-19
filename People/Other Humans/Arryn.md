@@ -6,7 +6,7 @@ campaignInfo:
 name: Arryn
 born:
 species: human
-ancestry:
+ancestry: Tollender
 gender: male
 whereabouts:
 - {type: home, start: '', end: 1730, location: Tollen}
@@ -14,9 +14,9 @@ whereabouts:
 ---
 # Arryn
 >[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
+> A [[Tollen|Tollender]] [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:dufr%% Rescued from the [[Mirror Realm]] by [[Wellby]] on November 13th, 1748 in the [[Eastern Green Sea]], the [[Green Sea]] %%^End%%
+>> %%^Campaign:dufr%% The rescued from the [[Mirror Realm]] by [[Wellby]] on November 13th, 1748 in the [[Eastern Green Sea]], the [[Green Sea]] %%^End%%
 
 ![[arryn-the-wanderer-portrait.png|right|400]]A wizard of significant power. Originally from [[Tollen]], but now dwells in a tower in the northern part of the [[~Eastern Islands~]]. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. 
 

@@ -1,7 +1,14 @@
 ---
-tags: [status/unknown, place/village]
+headerVersion: 2023.11.25
+tags: [status/needswork/internal, place/village]
+typeOf: village
+ancestry: Deno'qai
+whereabouts: West Coast Region
 ---
-
+# Raha
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%settlement of Deno'qai developed for Great Library campaign, pre-Deno'qai lore, needs some work%%
 

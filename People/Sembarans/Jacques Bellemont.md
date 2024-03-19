@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person/ruler, status/unknown]
 born: 1659
+species: human
 title: Duke
 whereabouts: Duchy of Wisford
 affiliations:

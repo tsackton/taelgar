@@ -4,7 +4,7 @@ tags: [place, status/needswork/notes, status/unknown]
 campaignInfo:
 name: Embry
 typeOf: city
-partOf: Sembara
+whereabouts: Sembara
 ---
 # Embry
 >[!info]+ Information  

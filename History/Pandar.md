@@ -1,3 +1,3 @@
 ---
-tags: [status/needswork/external, place, historical, status/cleanup/header]
+tags: [place, historical, status/stub]
 ---

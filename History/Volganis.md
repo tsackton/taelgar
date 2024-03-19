@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/stub]
 ---
 %% a northern polity referenced in old high school material a lot, as a kingdom fighting against [[Pandar]]
 
