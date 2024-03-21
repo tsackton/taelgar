@@ -1,7 +1,9 @@
 ---
-tags: [background, status/tim]
+tags: [background, status/tim, status/mike]
 ---
 # Political Organization of Tyrwingha
+
+%%leaving this as status/tim and status/mike until one of us has a chance to incorporate edits from Discord thread%%
 
 Tyrwingha is a rural place, with no cities of any size outside of [[Tafolwern]], and most people live in small villages and market towns of between 50 and 1000 people. 
 
