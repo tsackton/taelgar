@@ -29,6 +29,25 @@ Tim's notes on Tyrwingha:
   
 * Over time, this alliance (drankor -fey) proved to be quite powerful, something about the fey warlocks of Tyrwingha that I haven't made up yet. Also rumors of fey ancestry among the population, even to the current day.  
 * Tyrwingha, more than other parts of the Sembaran area, sees itself explicitly in terms of a blending of two cultures, [[Drankorian Empire|Drankor]] and the ancestral Tyrwinghan heritage, and made stronger for it (as opposed to northern highlanders, who probably somewhat resisted Drankorian influence, and Sembaran river valley and southern highlanders, who were forcibly assimilated in a much more direct way), but in the modern day (post Great War), this identity is really uniquely Tyrwinghan, and the Drankorian connection is, if not exactly forgotten, not common knowled
+
+riffing on what you said above, what about something like this: In the ancient times, Ethlenn's earls were effectively her court in the mortal realm, and it would have been common for them to spend some time in the Feywild. The idea of earls having circuits of villages, and villages owning service to Ethlenn via the earls would date to this time. When Ethlenn made her deal with Drankor, part of the deal was specifically to create the Oracle of the Riven, which in turn had veto power over the Drankorian governer of the province. The Oracle was also the vehicle by which Ethlenn learned magical secrets from Drankor. Over the many years of Drankorian rule, Ethlenn fades a little bit into the background, and the earls intermix with the Drankorian elite and start to acquire land and more mudane interests. The ideal of the earls as Ethlenn's knights-errant doesn't vanish, but it is less and less likely a specific earl lives up to that ideal. The Drankorian provincial governer has little power over the countryside, but does become something of a powerful figure in Tafolvern (and perhaps, the entire city is only founded in the Drankrorian era) (edited)
+
+The earls also start to spend less / no time in the Feywild, replacing it with time in Tafolvern, where the governer is based, and the governer grows into a position that resolves disputes amongst the earls
+
+The Oracle of the Riven becomes the focus on Ethlenn's interest, esp because of the magical aspect
+
+When Drankor falls, and danger comes, the position of monarch develops initially as effectively the Oracle's appointed army commander. The warlock cadres date from the time just after Drankor falls, when Tyrwingha has to look to its own defense, and the core of what later becomes the Army of Mostreve dates from this time as well
+
+Over the years, the balance of power generally develops as:
+- The monarch is the commander in chief of the army, and is responsible for the safety of the borders of Tyrwingha, and for foreign relations, and acts as a spokesperson for the Oracle of the Riven.
+    - In the tradition of the Drankoria governer, the monarch is also the one who is empowered to resolve disputes between the earls.
+    
+    But the monarch has little say in the actual governance of the country
+    
+    Derik III originally accepts the Tyrwinghan crown basically because he wants to be the commander in chief of an army of warlocks
+    
+    His heirs are given the Tyrwinghan crown because Ethlenn/the Oracle of the Riven wants Sembara to be responsible for the defense of the borders of Tyrwinghan - safety in numbers, basically
+
 %%
 
 
