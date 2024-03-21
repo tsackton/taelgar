@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/book, status/tim]
+tags: [item/book, status/cleanup/refactor]
 campaignInfo:
 - {type: found, date: 1748-04-15, campaign: DuFr}
 - {type: sold, date: 1748-08-09, campaign: DuFr}
@@ -18,6 +18,8 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Found owned by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 >> %%^Campaign:DuFr%% Sold owned by the [[Dunmar Fellowship]] on August 9th, 1748 by [[Albus]], in [[Darba]], [[Dunmar]] %%^End%%
+
+%%refactor note - this page mixes general info about the book / poems and specific details of the copy found by Dunmar Fellowship, should be refactored%%
 
 This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [[Nelawe]]. This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the tradition poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days during the Age of Creation. 
 
