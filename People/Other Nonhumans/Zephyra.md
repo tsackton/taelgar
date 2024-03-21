@@ -7,7 +7,7 @@ whereabouts: Elemental Plane of Fire
 ---
 # Zephyra
 >[!info]+ Biographical Info  
-> A genie ([[efreeti]])  
+> A genie ([[Efreeti]])  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%efreeti rumored to be traveling with Frankar%%

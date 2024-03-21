@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.20
-tags: [deity, religion/mosnumena]
+tags: [deity, religion/mosnumena, status/needswork]
 displayDefaults: {defArt: ""}
 gender: nonbinary
 ---
