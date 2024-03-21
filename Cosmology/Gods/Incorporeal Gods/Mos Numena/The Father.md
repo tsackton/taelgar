@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/mosnumena]
+tags: [deity, religion/mosnumena, status/needswork]
 gender: male
 ---
 # The Father
