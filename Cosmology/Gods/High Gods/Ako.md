@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/kestavo, status/unknown]
+tags: [deity, religion/kestavo, status/stub]
 ---
 # Ako
 

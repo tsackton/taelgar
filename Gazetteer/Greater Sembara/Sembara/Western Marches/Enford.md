@@ -1,12 +1,14 @@
 ---
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place, status/needswork/notes]
 name: Enford
-typeOf: village
+typeOf: settlement
+typeOfAlias: fortified town
 partOf: Marches of Enford
 ---
 # Enford
->[!info]+ Information
-> A village in the [[Marches of Enford]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
-A fortified village in the [[Marches of Enford]] on the [[Enst (North Fork)|North Fork]] of the [[Enst]]
+%% The undead plot line in Clee game has some implications for Enford not reflected here %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/interal]
+tags: [person, status/needswork/internal]
 species: human
 ancestry: Urskan
 gender: female

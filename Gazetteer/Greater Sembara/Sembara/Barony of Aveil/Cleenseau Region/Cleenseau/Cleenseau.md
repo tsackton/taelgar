@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/mike]
+tags: [place]
 name: Cleenseau
 typeOf: settlement
 typeOfAlias: town

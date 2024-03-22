@@ -21,4 +21,5 @@ whereabouts:
 
 ![[remille-vauclaire.png|right|400]]A swordswoman. 
 
-%% Meta: lowish level fighter %%
+%% Meta: lowish level fighter 
+a quiet woman, who barely talks to you but spends most of the time watching the room, watching for danger, watching you, watching Vahaiya. She is also from Adderfell, you learn (from Emilie), and is a patient teacher and skilled swordswoman.%%

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/header]
+tags: [place]
 whereabouts: Tyrwingha
 typeOf: settlement
 typeOfAlias: village
+pronunciation: NEV-yin
 ---
 # Nefyn
+*(NEV-yin)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

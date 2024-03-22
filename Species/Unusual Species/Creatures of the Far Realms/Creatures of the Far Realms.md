@@ -1,6 +1,3 @@
 ---
-tags: [background, status/unknown]
+tags: [background, status/stub]
 ---
-# Creatures of the Far Realms
-
-(stub)

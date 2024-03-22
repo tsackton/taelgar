@@ -1,3 +1,3 @@
 ---
-tags: [species, status/unknown]
+tags: [species, status/stub]
 ---
