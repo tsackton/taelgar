@@ -1,6 +1,10 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### March 21, 2024
+* Added some [[Political Organization of Tyrwingha|information on Tyrwingha]]
+* Added some information on [[Lake Rin]] and [[Rinburg]]
+* Updated the [[Cleenseau Campaign - Index of NPCs]]
 ### Feb 10, 2024
 * Added information about [[Asineau]]
 ### Feb 5, 2024
