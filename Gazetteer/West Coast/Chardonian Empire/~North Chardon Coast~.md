@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/stub]
 partOf: Chardonian Empire
 typeOf: region
 ---

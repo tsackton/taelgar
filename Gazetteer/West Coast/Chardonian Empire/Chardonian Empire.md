@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/unknown]
+tags: [place, status/needswork/wip]
 name: Chardonian Empire
 typeOf: realm
 whereabouts: West Coast Region
@@ -8,6 +8,8 @@ whereabouts: West Coast Region
 # The Chardonian Empire
 >[!info]+ Information
 > A realm in the [[West Coast Region]]
+
+%%needs tons of work, mostly can't pull from existing notes%%
 
 %%% Some notes from GDrive, may be old/wrong
 #### Chardon

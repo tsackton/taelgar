@@ -1,9 +1,14 @@
 ---
-tags: [place, status/unknown]
-campaignInfo: []
+headerVersion: 2023.11.25
+tags: [place]
 name: Lake Sova
 typeOf: lake
-partOf:
 aliases: [Sova]
+whereabouts: Vostok
 ---
-A lake on the [[Kem]] in north-central [[Vostok]]
+# The Lake Sova
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+A lake on the [[Kem]] in north-central [[Vostok]].

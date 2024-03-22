@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown, place]
+tags: [status/stub, place]
 ---
 
 %% 

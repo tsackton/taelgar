@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/interal, status/needswork/external, status/needswork/wip, status/image]
 name: Chardon
 typeOf: city
 whereabouts: Chardonian Empire
@@ -8,6 +8,12 @@ whereabouts: Chardonian Empire
 # Chardon
 >[!info]+ Information
 > A city in the [[Chardonian Empire]], the [[West Coast Region]]
+
+%%needs:
+- copy notes from emails, OneNote, various other places
+- copy DM information and various mentions in Obsidan notes
+- clean up map, precincts, sketch out a bit more vibes of different parts of the city
+%%
 
 Chardon is a city of many things. It is the capitol and seat of government of the [[Chardonian Empire]]. It is a major center of learning and magic. It is a trade hub and economic powerhouse.
 

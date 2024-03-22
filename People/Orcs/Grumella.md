@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/needswork/external, status/cleanup/header]
 name: Grumella the Vengeful
 born:
 species: orc
@@ -17,5 +17,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%copy notes from OneNote, including exact death date%%
 
 The commander and leader of [[Grumella's Horde]], a large group of [[Orcs|orcs]] that occupied the plains north of [[Voltara]] in the spring and summer of 1747. Grumella was defeated by the [[Gray Tempest]] and their allies in the [[The Battle of Voltara]]. 

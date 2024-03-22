@@ -1,5 +1,5 @@
 ---
-tags: [place/river, status/unknown]
+tags: [place/river, status/stub]
 partOf: Chardonian Empire
 typeOf: river
 aliases: [Nahadi River]

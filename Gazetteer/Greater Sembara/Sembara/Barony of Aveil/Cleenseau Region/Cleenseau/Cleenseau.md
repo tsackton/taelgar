@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/mike]
 name: Cleenseau
 typeOf: settlement
 typeOfAlias: town
@@ -14,6 +14,8 @@ population: 1189
 > pop. 1,189
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%tagged status/mike just to look at status tags and see if it needs a needswork tag or can be considered complete for now%%
 
 Cleenseau is a small market town of twelve hundred souls, nestled on the north bank of the River Enst. Situated at a major crossing of the river, it is a natural gathering place and trade crossroads. The reason for the town’s existence, and most important feature, is the massive stone bridge over the River Enst, the [[Cleenseau Bridge]]. Built a thousand years ago by the Drankorians (or perhaps, even longer ago by the giants, some scholars say), it is wide enough for eight oxen; it spans the 1200 feet of the Enst in ten graceful arches.
 

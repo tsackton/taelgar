@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source, status/unknown]
-campaignInfo:
+tags: [place, event-source, status/needswork]
 name: Tokra
 typeOf: city
 whereabouts: Central Dunmar
@@ -9,6 +8,8 @@ whereabouts: Central Dunmar
 # Tokra
 >[!info]+ Information
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%general cleanup, check OneNote%%
 
 *As you crest the height of the land, you can see the River [[Hara]] winding slowly from north to south, barely more than a trickle at this time of year, before the rains of the monsoon season come.
 

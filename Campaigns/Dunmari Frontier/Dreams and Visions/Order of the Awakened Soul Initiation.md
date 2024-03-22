@@ -1,3 +1,6 @@
+# Order of the Awakened Soul Initiation
+
+
 >[!warning]- For Seeker and Kenzo only 
 >As you continue down the hall, your companions turn back but you feel dragged along as if you are walking against your will. And the scene begins to change slightly.
 >

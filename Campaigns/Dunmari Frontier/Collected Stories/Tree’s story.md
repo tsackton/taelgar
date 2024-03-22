@@ -1,9 +1,11 @@
 ---
-tags: [status/unknown]
+headerVersion: 2023.11.25
+tags: [source]
 ---
-(as told to [[Kenzo]] in [[Session 64 (DuFr)]])
+# Tree’s Story
+([[Session 64 (DuFr)|collected by]] [[Kenzo]])
 
-The story of a great tree of the jungles is a long, slow tale. Kenzo listens, and hears the slow ache of a seed waiting to germinate, the long age of darkness that bursts into a vibrant thrill of sunlight. 
+The story of a great tree of the jungles is a long, slow tale. [[Kenzo]] listens, and hears the slow ache of a seed waiting to germinate, the long age of darkness that bursts into a vibrant thrill of sunlight. 
 
 The impossible urge to grow, grow, grow, stretch as fast as possible, to bask in the sun, to drink up the songs of the earth below, reaching for the currents of nutrients flowing beneath the ground. 
 

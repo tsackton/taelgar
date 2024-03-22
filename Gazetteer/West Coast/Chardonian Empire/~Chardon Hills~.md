@@ -1,5 +1,5 @@
 ---
-tags: [place, status/unknown]
+tags: [place, status/stub]
 typeOf: line of hills
 partOf: Chardonian Empire
 ---

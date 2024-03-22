@@ -1,8 +1,4 @@
----
-tags: [status/unknown]
----
-
-### Kenzo's Tale to Tell: Please Don't Read Until He Shares In Game
+# Kenzo Spirit Journey in Bedez
 
 ![[plane-of-consciousness.png|500]]
 
