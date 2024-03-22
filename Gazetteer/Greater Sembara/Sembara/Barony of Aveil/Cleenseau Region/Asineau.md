@@ -31,6 +31,7 @@ A few hundred feet outside the village is small mill and bakehouse. The large st
 * [[Thierry]], a boatbuilder and veteran of the [[Army of the West]]
 * Jacques, Thierry's brother, and his husband Ari, fishermen
 * [[Arnold the Miller]], a racist miller and baker, although no fan of Lorin's taxes
+* Celia, a young stablehand of 11 or 12, scrawny but not malnourished, known as Sweet Little Hayhead to the horses
 
 %%^Campaign:None%%
 ### People in, or based in Asineau

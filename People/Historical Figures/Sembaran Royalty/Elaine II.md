@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
+tags: [historical, person/ruler]
 campaignInfo: []
 name: Elaine II
 born: 1673
@@ -22,15 +22,12 @@ affiliations: [{org: House of Lils, type: primary}]
 
 The first monarch of the [[House of Lils]], descended from, Derik, the youngest son of [[Elaine I]], and [[Morgaine]], a Tyrwinghan [[Oracle of the Riven|oracle]].
 
+%%^Date:1722%%
 Her reign was a time of peace and prospertity, and an intentional throwback to the glorious years of [[Cece I]]. 
 
 She was succeeded by her son [[Arryn III]]
+%%^End%%
 
 %%
-House of Lils (1720s - present)
-Derik 		b. 1574 d. 1633
-Annabeth 	b. 1600 d. 1655 (married Morgaine)
-Glyes		b. 1635 d. 1706
-Elaine II   b. 1670 d. 1745 
-Arryn III   b. 1702 d. ???
+There are some notes for Cleenseau Campaign that I have not incorporated here, but nothing canonical yet
 %%

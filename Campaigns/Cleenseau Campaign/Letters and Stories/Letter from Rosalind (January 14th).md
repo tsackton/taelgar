@@ -2,13 +2,15 @@
 excludePublish: ["all"]
 ---
 
-Received January 16st:
+Received January 16th:
 
 Friends:
 
 I have reached Wisford, and am continuing onward to Embry with all haste. I wept for the land, each village we pass has the same tale of woe. Some have been mysteriously spared, and have seen no dead rise from the ground or walk from afar into their lives. Others have seen a mere handful, one or two. The worst is that rare village where it seems the dead outnumbered the living. In one hamlet, all that remained were two small children, hiding in an attic, and a dozen skeletons, aimlessly pacing through the village square. We dispatched the skeletons, and I have taken the children under my wing. They have not yet spoken.
 
-There is much news from Wisford, and I do not know what to make of it. 
+There is much news from Wisford, and I do not know what to make of it. I had the following story from one of the Duke's stewards, an old friend of my father's:
+
+Three days ago, he said, news 
 
 The Duke of Wisford is riding south to gather what he can of the Army of the South and hopes to break the siege of Fellburn. He is furious at the King's mismanagement of the Army, and does not know why it was not prepared to defend Fellburn. I am wary of such fury - but I can't say he is wrong to be upset at what we have seen in his Duchy.
 

@@ -1,18 +1,17 @@
 ---
 headerVersion: 2023.11.25
 tags: [pc, pc/cleenseau, person, status/unknown]
-displayDefaults: { primaryOrgType: party}
-campaignInfo: []
 name: Celyn
 born: 1697
 species: human
 ancestry: Tyrwinghan
 gender: male
 player: Kiya Nicoll
-affiliations: [Heroes of Cleenseau]
+affiliations: [{org: Heroes of Cleenseau }]
 whereabouts:
 - {type: home, end: 1719, location: Clawyn}
 - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
+- {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 ---
 # Celyn
 >[!info]+ Biographical Info  

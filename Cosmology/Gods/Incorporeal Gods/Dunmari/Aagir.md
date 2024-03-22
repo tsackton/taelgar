@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/fivesiblings, status/unknown]
+tags: [deity, religion/fivesiblings, status/tim]
 gender: male
 partOf: Five Siblings
 ---
@@ -13,4 +13,6 @@ Aagir is god of war, fire, and death. He is the protector of warriors, the fierc
 His feast day is [[Aagirvala]], the Festival of Aagir's Spear. 
 
 His mystery cult, the [[Aagir Mystai]], have no permanent base but function as traveling guardians of the safety of [[Dunmar]]. 
+
+%% Status tim to set the status tag %%
 

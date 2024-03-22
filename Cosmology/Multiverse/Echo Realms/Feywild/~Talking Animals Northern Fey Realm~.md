@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown, place]
+tags: [status/needswork, status/stub, place]
 typeOf: realm
 whereabouts: Feywild
 ---

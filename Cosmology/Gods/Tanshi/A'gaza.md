@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/tanshi, status/unknown]
+tags: [deity, religion/tanshi, status/stub]
 ---
 ## A'gaza
 

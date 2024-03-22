@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown]
+tags: [status/needswork, status/stub]
 ---
 
 Servants of [[Lord Umbraeth]]

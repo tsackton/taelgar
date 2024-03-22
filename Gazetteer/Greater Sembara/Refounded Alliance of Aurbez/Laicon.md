@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/notes]
 typeOf: village
 partOf: Refounded Alliance of Aurbez
 ---
@@ -11,4 +11,6 @@ partOf: Refounded Alliance of Aurbez
 
 %%
 - [[Laicon]], used to be where the Last Inn was that is now subsumed into the town, which is a bustling village of about 50 houses where traders from the plateau come down with reclaimed dwarven mining goods to bring them north to Clenseau and Sembara
+
+Collate notes for Last Inn arc
 %%

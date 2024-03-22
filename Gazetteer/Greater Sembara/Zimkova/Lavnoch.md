@@ -1,12 +1,17 @@
 ---
-tags: [place, status/needswork/notes, status/unknown]
-campaignInfo:
+headerVersion: 2023.11.25
+tags: [place, status/needswork/wip]
 name: Lavnoch
 typeOf: realm
-partOf:
+partOf: Zimkova
 ---
+# Lavnoch
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%%
+Needs lots of invention, various notes in sembaran history, etc but ulimately mostly a blank slate
 
 - Basic political organization is the village, with a Speaker
     
