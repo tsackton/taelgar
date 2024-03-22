@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown, testcase]
+tags: [person, testcase, status/needswork/internal, status/cleanup/header]
 displayDefaults: { endStatus: killed }
 campaignInfo:
 - {campaign: dufr, date: 1748-12-08, type: encountered}
@@ -25,13 +25,15 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Encountered by the [[Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
-A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
+%%collate various notes for completeness -- mostly in Obsidian%%
+
+![[kadmos-portrait.png|right|320]]A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
 
 A tall Chardonian man, cloaked and hooded, wearing dark, travel-stained leather armor, without obvious weapons. A spellcaster, who took on an undead visage in combat and whose spirit seems touched by a darkness. 
 
 A character of dubious morality, clearly willing and able to use enchantment magic to get what he wants, and happy to provoke a fight. 
 
-![[kadmos-portrait.png|right|320]]
+
 
 
 %%SECRET[1]%%
