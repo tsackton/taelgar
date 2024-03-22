@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person/ruler, person, status/needswork/internal]
+tags: [person/ruler, person, status/needswork/internal, status/cleanup/header]
 campaignInfo: []
 name: Nayan Karnas
 aliases: [Karnas]
@@ -23,6 +23,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%lots of notes from the Dunmar negotiation session DM notes, copy over%%
+%%add whereabouts and campaignInfo to header%%
 
 The current Samraat of [[Dunmar]], of the Nayan dynasty. Brother to [[Sura]], whom he thought dead. 
 

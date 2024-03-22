@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/needswork/notes, status/unknown]
+tags: [person, status/needswork/external, status/cleanup/header, status/image]
 name: Saka
 born: 1664
 species: human
@@ -14,3 +14,5 @@ whereabouts:
 > A [[Dunmar|Dunmari]] [[Humans|human]], she/her
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%copy notes from OneNote; add campaign info to header%%
