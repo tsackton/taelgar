@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/unknown]
+tags: [place, status/needswork/external]
 displayDefaults: {defArt: ''}
 campaignInfo:
 name: Arryn’s Tower
@@ -12,3 +12,5 @@ whereabouts:
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%copy notes from OneDrive from Wellby solo%%

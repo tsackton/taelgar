@@ -1,5 +1,5 @@
 ---
-tags: [place/river, status/unknown]
+tags: [place/river, status/stub]
 partOf: ~North Chardon Coast~
 typeOf: river
 ---

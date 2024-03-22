@@ -1,6 +1,3 @@
----
-tags: [status/unknown]
----
 Fey in Taelgar are natives of the Feywild, a realm of whimsy and terror, magic and mystery. The fey are a diverse folk who come in many forms. They can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home. Many fey are many things at once. 
 
 To create your fey character, first consider what kind of fey you wish to play. Then, consider why you are in Taelgar. Were you born here, perhaps to traveling parents? Did you leave your Feywild home due to danger, or curiosity, or on a quest? If you have a homeland in the Feywild, consider whether this is an important part of your character's story. If so, work with your DM to figure out a Fey realm that you came from. However, these details do not need to matter if you don't wish them to. 

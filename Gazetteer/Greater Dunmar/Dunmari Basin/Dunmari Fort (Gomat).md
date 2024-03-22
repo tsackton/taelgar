@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/fort, status/needswork/notes, status/unknown]
+tags: [place/fort, status/needswork/external]
 whereabouts: Nashtkar
 typeOf: fort
 subTypeOf: ruined
@@ -11,4 +11,4 @@ ancestry: Dunmari
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
+%%copy notes from OneNote%%

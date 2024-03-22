@@ -1,10 +1,16 @@
 ---
-tags: [place, status/needswork, status/unknown]
-campaignInfo:
+headerVersion: 2023.11.25
+tags: [place, status/needswork/external]
 name: Quanyi
 typeOf: island
-partOf: ~Eastern Islands~
+whereabouts: ~Eastern Islands~
 ---
+# Quanyi
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%copy notes from email/OneNote%%
 
 The anchored island, where sea elves live and harvest magical salt from the warm tropical oceans on their shores.
 

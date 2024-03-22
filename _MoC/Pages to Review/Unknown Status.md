@@ -11,7 +11,7 @@ sort file.path, Backlinks
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
 from "Gazetteer" AND #status/unknown 
-sort file.path, Backlinks
+sort length(file.inlinks) desc, file.path
 ```
 
 # Other

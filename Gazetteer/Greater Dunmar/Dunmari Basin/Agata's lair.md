@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/external]
 displayDefaults: {defArt: ""}
 campaignInfo: []
 name: Agata's Lair
@@ -12,6 +12,9 @@ whereabouts: Garamjala Desert
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%copy notes from OneNote%%
+%%reformat to remove direct session note references%%
 
 The home of the hag [[Agata]] Dustmother. Looted, but not destroyed, by the party in [[Session 30 (DuFr)]]
 

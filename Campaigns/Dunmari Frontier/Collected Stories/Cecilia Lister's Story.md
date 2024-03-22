@@ -1,13 +1,15 @@
 ---
-tags: [status/unknown]
+headerVersion: 2023.11.25
+tags: [source]
 ---
-(as told to [[Kenzo]] in [[Session 81 (DuFr)]])
+# Cecilia Lister's Story
+([[Session 81 (DuFr)|collected by]] [[Kenzo]])
 
 As she works on [[Kenzo]]'s tattoo, Cecilia tells her story. 
 
 She was born to a modest family of fisherfolk. It was a hard childhood, full of grueling work gutting and cleaning fish. Her parents rarely had spare coin for luxuries, but tried their best to provide a safe home, a dry roof, and enough food for Cecilia and her two brothers. 
 
-The best parts of her childhood were the days her mother would take her to the big market near the docks in [[Fiskurth]], where she could watch the bustle of the city. She tells [[Kenzo]] she remembers being fascinated by the bright colors of the bolts of cloth being loaded onto merchant ships, by the songs of the halfling selling strange-smelling spices, by cheap illusions of the market performers trying to earn a quick coin with a flashy display of simple magic. 
+The best parts of her childhood were the days her mother would take her to the big market near the docks in [[Fiskurth]], where she could watch the bustle of the city. She tells [[Kenzo]] she remembers being fascinated by the bright colors of the bolts of cloth being loaded onto merchant ships, by the songs of the [[Halflings|halfling]] selling strange-smelling spices, by cheap illusions of the market performers trying to earn a quick coin with a flashy display of simple magic. 
 
 This might have been her life, selling fish at market until she was old, following in her parents footsteps. But, when she was 14, everything changed. 
 

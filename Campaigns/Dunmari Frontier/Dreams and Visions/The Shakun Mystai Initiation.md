@@ -1,6 +1,4 @@
----
-tags: [status/unknown]
----
+# The Shakun Mystai Initiation
 
 >[!warning]+ Abbreviated Initiation Ritual
 >Until your eyes snap open in darkness, and your vision begins to adjust. Everything is gray and shadowed as if you're watching the world through a thin dark curtain like a veil, preventing you from seeing clearly. You seem to be floating above a tumbled scrub land of rock and grass and low hills. You can sense your companions with you, but you can't see them, you can just feel their presence next to you.
