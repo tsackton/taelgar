@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/unknown]
 campaignInfo:
 - {campaign: DuFr, date: 1748-10-23, type: met}
 name: Dain Goldhammer
