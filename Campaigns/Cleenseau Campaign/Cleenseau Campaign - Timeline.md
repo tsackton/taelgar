@@ -67,3 +67,10 @@ tags: [timeline]
 * January 7th: [[Stavenford]] is attacked by a wight and [[Eftly]] is attacked by a stench monster
 * January 8th: [[Fellburn]] is besieged by a skeletal army
 * January 9th, evening: [[Ida Rosfeld]] arrives from [[Dunfry]], having been on the road for almost two weeks, and having lost half the garrison to a massive zombie attack.
+* (DR:: 1720-01-09), evening: [[Ida Rosfeld]] rides into town with news of zombie attacks on the road and many wounded. The party rides out and heals them, with a combination of spells that leave the once-battered soldiers gleaming and fresh
+* (DR:: 1720-01-10), morning: the party returns to Cleenseau for a council of many of the most important people in the region. The council agrees to fund an expansion of Ida's company to 100 soldiers, and to base the garrison at [[Asineau]]
+* (DR:: 1720-01-11), morning: the party visits [[Asineau]] and speaks with [[Eleanor]], and tricks [[Lorin Valbert]] into believing the fey are after him
+* (DR:: 1720-01-12), morning: receive news that [[Lorin Valbert]] has disappeared and renounced his manor; [[Robin of Abenfyrd|Robin]] helps the people of [[Asineau]] while [[Celyn]] and [[Viepuck]] ride after [[Lorin Valbert]]
+* January 13th, 1720, [[Celyn]] and [[Viepuck]] return from [[Champimont]] with money and horses from [[Lorin Valbert]]
+* January 14th, 1720, predawn: The party defeats a skeletal evil
+* January 15th, 1720: the party rides for [[Eftly]] but meets [[Vahaiya]] and their [[The Rangers]] in [[Champimont]], the monster in [[Eftly]] having been defeated

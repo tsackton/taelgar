@@ -48,4 +48,7 @@ The action begins just outside the market town of [[Cleenseau]].
 * February 4th, 2024: [[Cleenseau - Session 11]]
 	The party organizes the town defenses and eliminates a nuisance 
 
+* March 3rd, 2024: [[Cleenseau - Session 12]]
+	The party defeats an undead invasion
+
 You might also want to read the [[Cleenseau Campaign - Index of NPCs|Index of NPCs]] or the [[Cleenseau Campaign - Timeline|timeline]]

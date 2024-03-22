@@ -102,7 +102,8 @@ The [[Manor of Asineau]] is one of the smaller manors in the region, and has suf
  - ![[thierry.png|left|120]] [[Thierry]], a veteran of the [[Army of the West]] and a local boat builder. 
  - ![[eleanor.png|left|120]] [[Eleanor]], the long time administrator of the Temple of the Wyrdling in Asineau, bedridden and ill
  - ![[el-wyrdling.png|left|120]] [[El]], a acolyte of the Wyrdling, recently experienced their first miracle
- - ![[bertram-northwoods-2.png|left|120]], [[Bertram Northwoods]], the stablemaster
+ - ![[bertram-northwoods-2.png|left|120]] [[Bertram Northwoods]], the stablemaster
+ - ![[Susanna-Northwords.png|left|120]] [[Susanna Northwoods]], the steward
 </div>
 
 ## Important People in Beury
@@ -139,13 +140,24 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
 
 ## Farther Afield
 <div class="grid cards ext-narrow-margin" markdown>
- - [[Jacques Bellemont]], the Duke of Wisford
+ - ![[duke-of-wisford-2.png|left|120]] [[Jacques Bellemont]], the Duke of Wisford
  - ![[baroness-isabeau.png|left|120]] [[Isabeau d'Aslain]], the Baroness of Aveil
  - [[Vincent de Arban]], an agent of [[Susanne Garay]] investigating rumors
  - [[Susanne Garay]], a notable merchant in [[Embry]] and the pretend-mother of [[Viepuck|Najeer Garay]] (now revealed as an alternative identity of [[Viepuck]])
- - [[Narrisa de Abadelle]], a paladin arrived unexpected from the Feywild, in [[Evis]]
  - ![[guy-de-varan-maseau.png|left|120]] [[Guy de Varan]], a merchant and traveler from [[Evis]]
  - [[Agnes of Evis|Agnés]], a caravan guard
+</div>
+
+## Rangers and Other Heroes
+<div class="grid cards ext-narrow-margin" markdown>
+ - ![[vahaiya-2.png|left|120]] [[Vahaiya]], elf and warrior
+ - ![[adra-brightwood.png|left|120]] [[Adra Brightwood]], a halfling with magical birds
+ - ![[enzo-brightwood.png|left|120]] [[Enzo Brightwood]], a halfling scout, Adra's cousin
+ - ![[damien-montrichard.png|left|120]] [[Damien Montrichard]], a musician and storyteller
+ - ![[emilie-adderfell.png|left|120]], [[Emilie]], skilled with her axe
+ - ![[remille-vauclaire.png|left|120]] [[Remille Vauclaire], a swordswoman
+ - ![[tristan-vaudrillard.png|left|120]] [[Tristan Vaudrillard]], a devotee of [[The Sibyl]] and student of magic
+ - ![[armand-night-queen-new.png|left|120]] [[Armand]], a disciple of the Night Queen
 </div>
 
 ## Villians, Defeated and Otherwise
