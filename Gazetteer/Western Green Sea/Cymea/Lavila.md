@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/village]
+tags: [place]
 partOf: Cymea
-typeOf: village
+typeOf: settlement
+typeOfAlias: village
 ---
 # Lavila
 >[!info]+ Information

@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/village, status/needswork/internal]
+tags: [place, status/needswork/internal]
 whereabouts: Forest of Dreams
 ancestry: Deno'qai
-typeOf: village
+typeOf: settlement
+typeOfAlias: village
 ---
 # The Ko'zula Village
 >[!info]+ Information  

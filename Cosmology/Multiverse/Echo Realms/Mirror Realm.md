@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/notes, place, status/unknown]
+tags: [status/needswork/notes, place]
 typeOf: plane
 partOf: Echo Realms
 ---

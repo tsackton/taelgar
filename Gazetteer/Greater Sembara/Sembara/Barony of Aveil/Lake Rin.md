@@ -18,6 +18,6 @@ A large lake formed by the confluence of the [[Auberonne]] and the [[Enst]], it 
 * [[Aubrille]], on the south shore, near to [[Lynthia]], in the [[Barony of Estrive]]. Founded recently, with a energetic young lord.
 * [[Lynthia]], on the south east shore, near the Enst, also part of the [[Barony of Estrive]]. A larger market town, and growing rapidly, although no where close to the size of [[Rinburg]]
 
-The south western shore is reedy and marshy, and a small lizardfolk community has settled here recently.
+The south western shore is reedy and marshy, and a small lizardfolk community -- [[Getxo]] -- has settled here recently
 
 The lake itself is about 3 miles across, roughly circular. There is a navigation hazard in the middle of the lake -- the Rinburg Rocks, they are usually called, which is basically a big underwater rocky outcropping that is a few hundred feet wide and just a foot or so beneath the surface. Most of the rest of the lake is fairly deep, fifty or a hundred feet.

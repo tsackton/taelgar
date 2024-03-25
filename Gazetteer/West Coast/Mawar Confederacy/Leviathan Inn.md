@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/unknown]
+tags: [place, status/needswork/notes]
 name: Leviathan Inn
 typeOf: inn
 whereabouts: Hamri
@@ -9,3 +9,6 @@ whereabouts: Hamri
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+
+%% Should pull in stuff from Mike's Wazir background info %%

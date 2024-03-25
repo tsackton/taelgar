@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/notes]
 name: Tyrwingha
 typeOf: realm
 whereabouts: Greater Sembara

@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown, place, historical]
+tags: [status/stub, place, historical]
 ---
 
 

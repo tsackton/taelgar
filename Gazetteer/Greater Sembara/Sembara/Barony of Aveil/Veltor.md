@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/settlement]
+tags: [place]
 typeOf: settlement
 created: 1121
 typeOfAlias: fortified village

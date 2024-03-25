@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {linkText: "at"}
-tags: [place/inn, status/needswork/notes]
+tags: [place, status/needswork/notes]
 typeOf: inn
 partOf: ~AncientWestRoad~
 ---

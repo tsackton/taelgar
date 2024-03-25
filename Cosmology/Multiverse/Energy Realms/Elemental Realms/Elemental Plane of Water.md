@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/plane, status/unknown]
+tags: [place, status/stub]
 typeOf: plane
 partOf: Elemental Realms
 ---

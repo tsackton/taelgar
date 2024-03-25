@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/building]
+tags: [place]
 displayDefaults: {defArt: '', prep: at}
 name: The Fox’s Flagon
 created: 1689

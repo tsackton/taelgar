@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/notes, place, status/unknown]
+tags: [status/needswork/notes, place]
 partOf: Energy Realms
 typeOf: plane
 ---

@@ -6,7 +6,7 @@ born: 1683
 species: human
 ancestry: Sembaran
 whereabouts: 
-- {type: home }
+- {type: home, location: Gowerbourne }
 - {type: home, location: Asineau }
 ---
 # El

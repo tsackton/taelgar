@@ -1,7 +1,9 @@
 ---
-tags: [deity, religion/tanshi, status/stub]
+headerVersion: 2023.11.25
+tags: [deity, religion/tanshi, status/tim]
 ---
-## A'gaza
+# A'gaza
 
 The tanshi of deer, reindeer, caribou.
 
+%% Tim: What else is needed here? %%

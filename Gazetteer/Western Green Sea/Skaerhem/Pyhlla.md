@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
-campaignInfo: []
+tags: [place, status/tim]
 name: Pyhlla
-typeOf: town
-partOf: Skaerhem
+typeOf: settlement
+typeOfAlias: town
+whereabouts: Skaerhem
 population: 800
 ---
 # Pyhlla
@@ -12,6 +12,8 @@ population: 800
 > pop. 800  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Tim: potentially anything to add? seems complete to me... %%
 
 Pyhlla a port town, on a volcanic rocky island, less than a day's sail from [[Vetta]], the island of the sacred waters. 
 

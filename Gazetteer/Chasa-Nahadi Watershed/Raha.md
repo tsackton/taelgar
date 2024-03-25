@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/internal, place/village]
-typeOf: village
+tags: [status/needswork/internal, place]
+typeOf: settlement
+typeOfAlias: village
 ancestry: Deno'qai
 whereabouts: West Coast Region
 ---

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/unknown]
+tags: [place, status/needswork/wip]
 campaignInfo:
 name: Telham
 typeOf: city

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/stub]
 campaignInfo:
 name: Duchy of Cheimen
 typeOf: duchy

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/lair, status/needswork/notes]
+tags: [place, status/needswork/notes]
 typeOf: lair
 ancestry: werewolf
 whereabouts: Tokra

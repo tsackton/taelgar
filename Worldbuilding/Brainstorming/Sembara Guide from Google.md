@@ -165,7 +165,7 @@ This land is a borderland and was essentially depopulated during the Great War. 
 - Changes here include…
     
 
-- March of Ardonne
+- March of Andonne
     
 - Refounded Alliance of Aurbez 
     

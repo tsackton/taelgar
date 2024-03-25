@@ -1,12 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, place/building, status/unknown]
+tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Crossroads Inn
 ancestry: halfling
 typeOf: inn
-subTypeOf: 
 whereabouts: Cleenseau
 created: 1392
 ---

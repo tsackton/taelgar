@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/tim]
 displayDefaults: {defArt: '', prep: "at"}
 campaignInfo: []
 name: The Windward Sail
@@ -14,3 +14,5 @@ partOf: Fiskurth
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A bustling halfling inn and tavern in [[Fiskurth]], known as a place to tell and hear stories. 
+
+%% Tim: this seems pretty complete, is there anything you want to add here? %%
