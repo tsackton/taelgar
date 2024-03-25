@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/notes]
 campaignInfo: []
 name: Addermarch
 typeOf: realm
@@ -24,6 +24,7 @@ Now, Addermarch is a land of small farmers, foresters, and sheepherders, known p
 - The most ‘Sembaran’ of the southern marches. People mostly Sembaran or mixed Tyrwinghan/Sembaran and culturally firmly in the Sembaran sphere
     
 - Independent largely due to historical circumstances
-    
+
+Note there is a lot of background from Tim's family Darkwood game that needs incorporation into the main body of notes here, i.e. see [[Addermarch Notes]]
 %%
 

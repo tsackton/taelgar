@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 typeOf: settlement
 typeOfAlias: market town
 whereabouts: Tyrwingha

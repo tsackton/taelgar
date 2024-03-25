@@ -1,7 +1,4 @@
----
-tags: [timeline, status/unknown]
-excludePublish: ["all"]
----
+NOTE: This is an older version of [[Timeline of Sembaran History]] which should be considered more canonical than this; there is still some aspects that are not incorporated into the newer document.
 
 ## The Great War
 DR 1462 - DR 1545; 1 Derik II - 26 Derik III

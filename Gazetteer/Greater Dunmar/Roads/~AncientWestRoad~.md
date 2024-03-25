@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/road, status/needswork/internal]
+tags: [place, status/needswork/internal]
 displayDefaults: {linkText: "on", ltPlace: "on", defArt: "the"}
 typeOf: road
 partOf: Dunmar

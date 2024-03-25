@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, place/building]
+tags: [event-source, place]
 campaignInfo: []
 name: Ikram's
 ancestry: Dunmari

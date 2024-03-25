@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/inn]
+tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Salty Squid

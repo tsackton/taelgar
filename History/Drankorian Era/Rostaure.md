@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/forest, status/needswork/notes]
+tags: [place, status/needswork/notes]
 name: Rostaurë
 pronunciation: ROS-tow-reh
 aliases: [Rostaurë]

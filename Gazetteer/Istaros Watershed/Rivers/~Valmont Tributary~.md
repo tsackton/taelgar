@@ -9,4 +9,4 @@ whereabouts: Istaros Watershed
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%small river that joins the Valmont north of the confluence with the Ardonne. not labeled.%%
+%%small river that joins the Valmont north of the confluence with the [[Andonne]]. not labeled.%%

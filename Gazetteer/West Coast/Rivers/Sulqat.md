@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/river]
-campaignInfo: []
+tags: [place]
 pronunciation: sul-KAHT
 name: Sulqat
 typeOf: river

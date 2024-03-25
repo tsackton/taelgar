@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/river]
+tags: [place]
 typeOf: river
 whereabouts: Hara Watershed
 name: Sukal

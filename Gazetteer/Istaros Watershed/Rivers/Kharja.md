@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/tim]
 campaignInfo: []
 name: Kharja
 typeOf: river
@@ -15,3 +15,4 @@ pronunciation: KHAAr-jaa
 
 The now mostly dry riverbed that flows past [[Kharsan]], eventually joining with the [[Hara]] river. 
 
+%% Tim: anything to add? %%

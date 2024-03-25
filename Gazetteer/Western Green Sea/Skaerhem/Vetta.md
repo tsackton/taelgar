@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/island, event-source, status/unknown]
+tags: [place, event-source, status/unknown]
 campaignInfo: []
 name: Vetta
 typeOf: island

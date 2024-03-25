@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place/building, status/unknown]
+tags: [place, status/unknown]
 typeOf: guildhall
 partOf: Tollen
 name: Dyer's Guildhall

@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/notes, place/village, status/unknown]
+tags: [status/needswork/notes, place, status/unknown]
 partOf: Morkalan
-typeOf: village
+typeOf: settlement
+typeOfAlias: village
 destroyed: 1748
 name: Bleakhold
 ---

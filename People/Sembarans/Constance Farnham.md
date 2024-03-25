@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person]
 whereabouts: Cleenseau
-affiliations: [{org: The River's Blessing, title: Proprietor}]
+affiliations: [{org: The River's Blessing, title: Proprietor, type: leader}]
 gender: female
 species: human
 ancestry: Sembara

@@ -5,6 +5,7 @@ campaignInfo: []
 name: Vistra Fireforge
 born: 1589
 species: dwarf
+affiliations: [{org: The Iron Swan, title: Proprietor, type: leader, start: 1700 }]
 ancestry:
 gender: female
 whereabouts:
@@ -16,6 +17,7 @@ whereabouts:
 >[!info]+ Biographical Info  
 > A [[Dwarves|dwarf]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A dwarven blacksmith, trader, innkeep, and adventurer. She is of the Traveler thuhr and originally from [[Nardith]]. She was born after the [[Great War]] and has always been eager to work with humans. She is charming and pleasant enough, but perhaps not that bright and she sometimes makes mistakes in her trades, although she rarely wants to believe it.

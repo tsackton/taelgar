@@ -15,4 +15,4 @@ pronunciation: "ay-oo-LYAHN"
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small lake at the confluence of the [[Ardonne]] and the [[Valmont]], which forms the headwaters of the [[Istaros]]. Known to be very deep and, before the plagues came, said to be pure and clear.
+A small lake at the confluence of the [[Andonne]] and the [[Valmont]], which forms the headwaters of the [[Istaros]]. Known to be very deep and, before the plagues came, said to be pure and clear.

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/tim]
 whereabouts: Feywild
 displayDefaults: {defArt: ""}
 typeOf: realm
@@ -16,3 +16,4 @@ The court set on a vast estate of rolling hills, meadows and gardens, all filled
 
 The [[Prince of Luck|Chanceweaver]]’s court is difficult to leave, for each way you turn a new attraction tempts you to return. Those who partake in the food and drink often find they have spent days or weeks in a daze, though the natives of the [[Feywild]] are largely resistance to this effect.
 
+%% Tim: anything else to add here? %%
