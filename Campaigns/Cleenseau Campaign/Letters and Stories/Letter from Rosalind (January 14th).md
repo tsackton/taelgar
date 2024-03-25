@@ -1,8 +1,4 @@
----
-excludePublish: ["all"]
----
-
-Received January 16th:
+Received January 15th, in Champimont.
 
 Friends:
 
@@ -10,9 +6,9 @@ I have reached Wisford, and am continuing onward to Embry with all haste. I wept
 
 There is much news from Wisford, and I do not know what to make of it. I had the following story from one of the Duke's stewards, an old friend of my father's:
 
-Three days ago, he said, news 
+Four days ago, he said - this would be the 8th, the same day we were riding past Fellburn - news came of hundreds of skeletons converging on Gowerbourne. It seems the whole western part of the Duchy was spared any small problems, and has traded for a large one. By some luck, or perhaps ill fortune, two hundred soldiers from the Army of the South were bivouaced outside of Wisford on their way to Embry. There was an altercation, I hear. The details are unclear, but it seems the major refused to assist the Duke, saying his orders were to march to Embry above all else. There was a mutiny - led by the Duke, I gather - the major is now dead, and the Army marches off for Gowerbourne.
 
-The Duke of Wisford is riding south to gather what he can of the Army of the South and hopes to break the siege of Fellburn. He is furious at the King's mismanagement of the Army, and does not know why it was not prepared to defend Fellburn. I am wary of such fury - but I can't say he is wrong to be upset at what we have seen in his Duchy.
+The steward tells me he fears there will be consequences, and the Duke's temper got the better of him. But can I really blame him? The news from Fellburn has certainly reached the Duke, and I know he will ride south as soon as he can.
 
 I will write more when I have news, or reach Embry. I anxiously await any news of how my people are faring in these dark times. I tarry not here, it is best to write me in Embry. 
 

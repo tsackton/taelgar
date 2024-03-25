@@ -52,28 +52,20 @@ As a reminder, several official rules we have not been consistent about that I w
 - When targeted enemies with ranged attacks, including ranged spell attacks, if there are things in the way - including allies or other enemies - the target has half-cover (+2 to AC)
 ## Death and Dying
 
-When a PC drops to 0 or fewer HP, you gain the staggered condition. 
-
-While staggered, the following rules apply:
-
-- You cannot take reactions, bonus actions, or actions (except for Disengage, Dodge, or Dash)     
-- Your speed is halved    
-- You automatically lose concentration on all spells or effects that require concentration
-- You lose the staggered condition when you gain any hit points  
-
-If you take any additional damage while staggered, you gain the dying condition. While you have the dying condition, the following rules apply: 
+When a PC drops to 0 or fewer HP, you gain the dying condition. While you have the dying condition, the following rules apply: 
 
 - You cannot take actions, reactions, or bonus actions
 - Your speed is halved    
 - You start each turn prone
 - Attacks against you have advantage
 - You have disadvantage on all saving throws
-- At the end of your turn you must make a DC 13 Constitution check. If you took damage the DC increases by 1 for each 3 full points of damage you take in the round.
-- If you fail the check, you fall unconscious
+- At the end of your turn, if you did not take damage, you must make a DC 13 Constitution check. 
+- If you fail the check, you fall unconscious. If you took damage, you also fall unconscious
+- Each time you take damage while dying you suffer a wound
 
-Being both unconscious and dying represents bleeding out. From a rules perspective what happens here is undefined, but in general:
+Once you are unconscious, you make a death saving throw each turn. On three successes, you stabilize. For each failure, you gain a wound. Once you reach 6 wounds, from a rules perspective what happens here is undefined, but in general:
 - Further damage will usually result in death
-- The passage of time will usually result in stabilization at 1 HP, but usually with 4 or 5 wounds (see below)
+- The passage of time will usually result in stabilization at 1 HP
 
 #### Recovery from Dying
 
@@ -234,7 +226,6 @@ Note however that no classes start with special languages (Thieves Cant, Druidic
 #### Gaining Competencies
 At 3rd level, and every other level afterwards (5th, 7th, 9th, etc) all characters gain a bonus competency. These competencies can only be gained after some plausible in-game event: downtime with a teacher, practice, etc. In some cases this might mean that the actual gain of a competency is delayed by a session or two from when the character gains a new level. In other cases, it might be that practice or training during the previous level results in getting the competency on level up.
 #### Game Effect of Competencies
-
 Most competencies act like skills: they give you proficiency bonus on some ability check you are trying to make. For many competencies, having the competency is necessary for even attempting the check. In other cases, it may be something you can do untrained. 
 
 In you have both a skill and a competency, depending on the specific game situation, you might:
