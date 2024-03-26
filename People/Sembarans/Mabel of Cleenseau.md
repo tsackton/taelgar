@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person]
 species: human
 ancestry: Sembaran
 name: Mabel of Cleenseau

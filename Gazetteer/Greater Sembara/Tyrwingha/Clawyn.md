@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place]
 name: Clawyn
 typeOf: settlement
 typeOfAlias: village

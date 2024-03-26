@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person]
+displayDefaults: {endStatus: killed in battle, dPast: "<endstatus:U> by [[The Heroes of Cleenseau]] on <enddate>"}
 species: ogre
 gender: male
 died: 1719-12-06
@@ -12,4 +13,7 @@ whereabouts: Wakog's Camp
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[wakog.png|right|320]]An ogre of unclear origin. Managed to organize a small horde of orcs, and attempted to overrun [[Cleenseau]], but was stopped by the [[Heroes of Cleenseau]].
+![[wakog.png|right|320]]An ogre of unclear origin. 
+%%^Date:1719-10-30%%
+Managed to organize a small horde of orcs in the northern parts of the [[Duchy of Maseau]], and attempted to overrun [[Cleenseau]], but was stopped by the [[Heroes of Cleenseau]].
+%%^End%%

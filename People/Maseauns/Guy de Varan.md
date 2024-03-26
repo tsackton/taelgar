@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person]
 campaignInfo: [{campaign: clee, date: 1719-12-01 }]
 name: Guy de Varan
 born: 1693
@@ -22,4 +22,10 @@ whereabouts:
 
 ![[guy-de-varan-maseau.png|right|320]]A traveler and caravan expediter, he is relatively well-known along [[Bandit's Way]] as a man who can help find guards and organize supplies. The de Varan family is well-known in [[Duchy of Maseau|Maseau]] and was originally from far southern [[Isingue]] before the Great War. 
 
-%%% At times there have been rumors that he sometimes warns bandits of particularly lucrative caravan's coming along the road. But these rumors are disputed, and even his biggest detractors are careful to note that even the caravans he supposively targeted are never brutally attacked -- no deaths have been associated with these rumors %%
+%%^Date:1719-10-30%%
+He was captured by [[Wakog]] in the late fall of 1720, and his escape to [[Cleenseau]] was the trigger that lead to the [[Battle Against Wakog]] and [[Wakog|Wakog's]] defeat.
+%%^End%%
+
+%%^Campaign:None%%
+At times there have been rumors that he sometimes warns bandits of particularly lucrative caravan's coming along the road. But these rumors are disputed, and even his biggest detractors are careful to note that even the caravans he supposedly targeted are never brutally attacked -- no deaths have been associated with these rumors.
+%%^End%%
