@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 typeOf: island
 partOf: Illoria
 ---
@@ -9,3 +9,4 @@ partOf: Illoria
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+The smaller and more northerly of the twin islands of [[Illoria]].
