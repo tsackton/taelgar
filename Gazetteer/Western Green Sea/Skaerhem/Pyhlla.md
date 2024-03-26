@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place]
 name: Pyhlla
 typeOf: settlement
 typeOfAlias: town
 whereabouts: Skaerhem
 population: 800
+ancestry: Skaer
+pronunciation: PIE-hu-lla
 ---
 # Pyhlla
+*(PIE-hu-lla)*
 >[!info]+ Information  
 > pop. 800  
 > `$=dv.view("_scripts/view/get_Affiliations")`  

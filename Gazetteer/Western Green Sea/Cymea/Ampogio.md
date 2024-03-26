@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place]
 whereabouts: Cymea
 pronunciation: ahm-POH-joh
 typeOf: river
@@ -11,4 +11,4 @@ typeOf: river
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim: this really needs some notes as to WHICH river it is, hard to identify on the map %%
+The longest river in Cymea, flowing from the [[~Cymea Border Mountains~]], along the western edge of the rocky interior, until it reaches the [[Western Green Sea]]. The upper reaches for the Ampogio are unnavigable, marked by frequent waterfalls as it cascades through the karst landscapes of interior Cymea. Below the confluence with the [[~Unnamed East Fork~]], the Ampogio slows and widens until it drains into the [[Western Green Sea]]. 
