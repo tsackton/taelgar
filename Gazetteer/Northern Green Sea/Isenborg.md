@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: steading
+typeOf: settlement
+typeOfAlias: steading
 whereabouts: Kaldhalla
 ancestry: frost giant
 pronunciation: EE-zen-borg

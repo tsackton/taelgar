@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/tim]
 name: Western Marches
 typeOf: region
 partOf: Sembara
 ---
 # The Western Marches
->[!info]+ Information
-> A  region in [[Sembara]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% The details here are relatively light, but figured it was a good first pass, only adding status/tim in case you have thoughts/feedback %%
 

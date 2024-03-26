@@ -1,11 +1,16 @@
 ---
-tags: [organization/family, status/unknown]
+headerVersion: 2023.11.25
+tags: [organization/family, status/stub]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Goodbarrels
 typeOf: family
+ancestry: halfling
 ---
-
+# The Goodbarrels
+>[!info]+ Information  
+> A [[Halflings|halfling]] family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%^Campaign:None%%
 ### Members

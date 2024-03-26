@@ -1,11 +1,11 @@
 ---
-tags: [event-source, status/unknown]
+tags: [event-source, status/needswork]
 displayDefaults: {defArt: a}
 campaignInfo: []
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
 ---
-
+%% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up %%
 ## The Drankorian Conquest
 DR 300 - DR 431
 

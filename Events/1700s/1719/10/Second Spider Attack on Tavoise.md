@@ -1,9 +1,13 @@
 ---
-tags: [event, status/unknown]
+headerVersion: 2023.11.25
+tags: [event, status/needswork/refactor]
 DR: 1719-10-21
 ---
-### Second Spider Attack on Taviose
-*October 21st, 1719; 3am*
+# The Second Spider Attack on Tavoise
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+
+%% Consider if this should be rewritten to be less PC-specific %%
 
 In the early pre-dawn morning of October 21st, the spiders attacked [[Taviose]] a second time. 
 

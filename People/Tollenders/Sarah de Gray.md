@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person, status/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-29, type: met}
 name: Sarah de Grey
@@ -10,8 +10,8 @@ ancestry: Isinguer
 gender: female
 family: de Grey
 whereabouts:
-- {type: home, start: '', end: '', location: Duchy of Maseau}
-- {type: home, start: 1746, end: '', location: 'Tollen'}
+- {type: home, location: Duchy of Maseau}
+- {type: home, start: 1746, location: Tollen}
 ---
 # Sarah de Grey
 >[!info]+ Biographical Info  
@@ -24,3 +24,4 @@ whereabouts:
 
 %%SECRET[1]%%
 
+%% Tim: seems complete to me %%

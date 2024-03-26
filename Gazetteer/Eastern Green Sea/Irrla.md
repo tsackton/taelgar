@@ -1,14 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 name: Irrla
 typeOf: island
-partOf: Green Sea
+typeOfAlias: large island
+whereabouts: Green Sea
 ---
 # Irrla
->[!info]+ Information
-> An  island in the [[Green Sea]]
-
-A large island in the middle of the [[Green Sea]].
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%lots of notes in emails and OneNote%%
 

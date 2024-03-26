@@ -12,7 +12,7 @@ partOf: Sembara
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-
+%% Needs a vibes-based update based on in-game info from Cleenseau. Minimal canonical details though; also see [[Heartlands]] and [[Timeline of Sembaran History]] %%
 
 
 
