@@ -1,5 +1,5 @@
 ---
-tags: [organization, organization/thuhr, status/unknown]
+tags: [organization/thuhr, status/stub]
 typeOf: thuhr
 name: Runecrafter Thuhr
 ---

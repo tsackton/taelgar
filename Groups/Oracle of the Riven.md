@@ -1,10 +1,14 @@
 ---
-tags: [organization, status/unknown]
-displayDefaults: {defArt: ''}
+headerVersion: 2023.11.25
+tags: [organization, status/needswork/notes]
+displayDefaults: {defArt: '', boxInfo: ""}
 name: Oracle of the Riven
-partOf: Tyrwingha
+whereabouts: Tyrwingha
 ---
 # Oracle of the Riven
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The royal electors of [[Tyrwingha]]. There are six of these royal electors:
 

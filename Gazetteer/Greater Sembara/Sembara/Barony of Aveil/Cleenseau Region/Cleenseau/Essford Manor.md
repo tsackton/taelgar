@@ -4,7 +4,7 @@ tags: [place, status/needswork/notes]
 name: Essford Manor
 typeOf: house
 subTypeOf: manor
-partOf: Cleenseau
+whereabouts: Cleenseau
 ---
 # The Essford Manor
 >[!info]+ Information

@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 (Oct 21 - 25)
 
 #### Part 1: Visions of friends. 

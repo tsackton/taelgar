@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 **(Nov 11 - Nov 15)**
 
 #### Kharsan

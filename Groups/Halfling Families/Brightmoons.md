@@ -1,9 +1,9 @@
 ---
-tags: [organization/family, status/unknown]
+tags: [organization/family, status/stub]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Brightmoons
 typeOf: family
+ancestry: halfling
 ---
 
 %%^Campaign:None%%

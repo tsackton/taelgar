@@ -1,10 +1,17 @@
 ---
-tags: [organization/family, status/unknown]
+headerVersion: 2023.11.25
+tags: [organization/family, status/stub]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Strongbones
 typeOf: family
+ancestry: halfling
 ---
+# The Strongbones
+>[!info]+ Information  
+> A [[Halflings|halfling]] family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
 
 %%^Campaign:None%%
 ### Members
