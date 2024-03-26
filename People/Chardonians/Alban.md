@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person]
 campaignInfo:
 - {campaign: dufr, date: 1748-04-15, type: grave discovered}
 name: Alban
@@ -27,5 +27,3 @@ whereabouts:
 One of the adventurers of the [[Society of the Open Scroll]]. Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
 
 %%SECRET[1]%%
-
-%% Tim: This seems complete enough? Is there more info you would want to incorporate? %%

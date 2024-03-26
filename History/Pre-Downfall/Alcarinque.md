@@ -1,12 +1,19 @@
 ---
+headerVersion: 2023.11.25
 aliases: [Alcarinquë]
 name: Alcarinquë
-tags: [place, status/tim]
+tags: [place]
 typeOf: realm
+ancestry: elven
+whereabouts: Taelgar
+pronunciation: ahl-KAH-rin-kweh
 ---
 # Alcarinquë
->[!info]+ Summary
+*(ahl-KAH-rin-kweh)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The ancient elven kingdom that once covered much of Dunmar, before the Downfall.
+Alcarinquë is the name for the ancient elven realm of the north, part of the vast forests that once stretched from [[Orenlas]] in the east, across the [[Istaros Watershed]], west across the [[Dunmari Basin]], and north through the forests of the [[Elderwood]] and [[Ainumarya]]. 
 
-%% Tim: this seems "good enough" unless you have more to add? %%
+Only pockets of this ancient forest remain to this day, primarily around [[Orenlas]] and scattered parts of [[Ainumarya]]. 

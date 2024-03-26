@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place]
 displayDefaults: {defArt: ""}
 campaignInfo: []
 name: The Thirsty Scholar
@@ -13,5 +13,3 @@ partOf: Chardon
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A bar and tavern popular with the more advanced students studying with the higher faculties of the university. 
-
-%% Tim: seems pretty complete %%

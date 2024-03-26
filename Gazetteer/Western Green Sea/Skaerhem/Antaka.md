@@ -1,19 +1,20 @@
 ---
-tags: [place, status/tim]
+headerVersion: 2023.11.25
+tags: [place]
 campaignInfo: []
 name: Antaka
 typeOf: island
 partOf: Skaerhem
+pronunciation: AHN-tah-kah
 ---
 # Antaka
->[!info]+ Information
-> An island in [[Skaerhem]]
-
+*(AHN-tah-kah)*
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Antaka is a small island dominated by a massive volcano. There are four small villages here, which together make a single district of only 6 oskunja. 
 
 Three of the villages are nestled by the ocean near small harbors, and are largely fishing villages. The fourth is associated with the volcanic sacred site.
 
 [[Skalme]] is the priest of the temple to [[Kaikkea]] at the volcanic site.
-
-%% Tim: seems good enough? %%
