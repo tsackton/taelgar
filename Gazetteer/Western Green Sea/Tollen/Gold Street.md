@@ -1,5 +1,5 @@
 ---
-tags: [place, status/needswork/notes, status/unknown]
+tags: [place, status/needswork/internal]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Gold Street
@@ -15,5 +15,4 @@ Gold Street is one of the 17 wards of [[Tollen]], located on the north bank of t
 %% note: possible history, but not canon, needs to be considered as part of a rewrite and update of [[Timeline of Tollen History|Tollen history]] in relation to Sembara and Skaer notes
 
 The Gold Street ward grew from the old toll gates on Gold Street, which was once a main toll road into the city. Enclosed in walls in the 1300s, during the explosive growth of the city associated with increased trade as a result of [[Timeline of Sembaran History#The Six Duchies|Sembaran consolidation and stability]].
-
 %%
