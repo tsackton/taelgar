@@ -19,7 +19,7 @@ This region of Taelgar spans the distant, rumored north, from the polar coasts i
 
 - To the north, this region is bordered by whatever lies beyond the edge of land in the vast northern expanses of the world.
 - To the east, this region is bordered by the [[~Eastern Ocean~]]
-- To the south this region is bordered by the northern edge of the [[West Coast Region]] and [[Central Highlands Region]] regions, the [[~Vostok Wall~]], and the northern border of [[Ursk]]
+- To the south this region is bordered by the northern edge of the [[West Coast Region]] and [[Central Highlands Region]] regions, the [[Grastenvakt]], and the northern border of [[Ursk]]
 - To the west, this region is bordered by the [[Endless Ocean]]
 
 ## Major Features
