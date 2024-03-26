@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/clee]
+tags: [place, status/factcheck]
 displayDefaults: {defArt: '', prep: at}
 name: The Bandit’s End
 ancestry: Sembaran
@@ -16,4 +16,7 @@ whereabouts: Cleenseau
 
 An inn and tavern in [[Cleenseau]]. Known for its strong ale, and boisterous bar. A gathering place of veterans and mercenaries who make a living guarding caravans, and numerous small, cramped rooms. It was originally built in the 1650s to house laborers working on rebuilding the town after the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. It was converted to an inn in 1665.
 
-%% Note: brownie or whatever should probably be added here, I forget the details though %%
+%% 
+Check facts/session note:
+Was briefly inhabited by a brownie in the winter of 1719-1720 who loved to drink the ale
+%%
