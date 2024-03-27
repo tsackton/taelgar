@@ -1,6 +1,3 @@
----
-excludePublish: ["all"]
----
 ## [[El|El's]] Story To Celyn
 
 "I appreciate the offer, but I need it not. Let me tell you my story. I grew up in [[Gowerbourne]], on the [[Wistel]], one of four siblings. It was an idyllic childhood, in many ways. We ran a warehouse and trading house for the shepherds, and each spring would organize the wool and sell it to the riverboats and halfling traders taking it to [[Embry]] or [[Tollen]]." 
@@ -17,7 +14,7 @@ They continue. 
 
 They pause again, and won’t meet your eyes for the next part of the story. 
 
-“I am ashamed to say, I fled home shortly after, seeking this Jor. I took my share of our family’s wealth, and left only the briefest of notes. I discarded my old name, and took off. All I can say is I was confused and naïve, despite my 30 years of age. The name [[Jor]] seemed like a talisman to me, something outside my dreams I could cling to. I found him a month later, in [[Tollen]] as my sister promised.” 
+“I am ashamed to say, I fled home shortly after, seeking this [[Jor]]. I took my share of our family’s wealth, and left only the briefest of notes. I discarded my old name, and took off. All I can say is I was confused and naïve, despite my 30 years of age. The name [[Jor]] seemed like a talisman to me, something outside my dreams I could cling to. I found him a month later, in [[Tollen]] as my sister promised.” 
 
 “He was chaos, and a miracle, all at once. His dark days were difficult, but when the clouds parted he taught me more than I can describe. I learned to see the signs in my dreams and how to see my dreams in myself. I learned how to listen to the Wyrdling when they talked through my dreams and desires. Jor wrote prayers. Poems, really, of supplication, connection, and I absorbed them. He knew a woman in Tollen skilled in the arts of magical inks, and transformed me."  
 
@@ -49,7 +46,6 @@ He looks up, then away; he never meets people’s eyes more than fleetingly afte
   
 His voice turns philosophical.  “Small miracles - miracles that can be held by one person more easily, without the overwhelming power of the gale, overturning all things - can still be immense, can still turn someone’s fate.  I laid hands on a man whose leg was going to rot and gave him back his hope, on a woman whose shoulderblade had been shattered so she could not hold her weapon, and gave her back her ferocity.  These are smaller things than protecting the temple, perhaps, but to that man, to that woman, they are also everything.  But I do not know what Robin knows, the cleansing of disease from the body, the miracle that the Wanderer has given him to summon, which he has used to try to heal Eleanor.  That miracle holds too much for me to reach, now.  Perhaps when I am wiser…."
   
-
 They close their eyes, and have a look of part terror, part awe. "A burning came over me, an intensity like lightning, starting in my toes and burning its way to my mouth. It felt like chaos, like a whirlwind, a thunderstorm, like something outside myself I could barely contain. It came out of my mouth and hands and the zombies fled from that power. And Ari, he was outside, but the whirlwind from my mouth, it engulfed him, and the zombies, they could not touch him."  
 
 "It was not comfortable, that feeling. I am not sure. Do I embrace it? It scared me, the chaos burning through me. But I felt so strong...."
