@@ -15,4 +15,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[el-wyrdling.png|right|320]]A disciple of the Wyrdling, recently blessed with several miracles. 
+![[el-wyrdling.png|right|320]]A disciple of the Wyrdling, recently blessed with several miracles. They grew up the child of a rich merchant in Gowerbourne, and found the Wyrdling in mid-life. 
+
+Their story is [[El's Story|here]].
