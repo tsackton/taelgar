@@ -12,7 +12,7 @@ name: Third Hobgoblin War
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A major conflict between the [[Shattered Ice Clan]] of hobgoblins and the [[Duchy of Maseau]] and [[Sembara]] during the reign of [[Arryn II]], [[Charlotte I]], and [[Cece I]]. It devastated much of the [[Barony of Aveil]], the [[Barony of Dunfry]], and the border baronies south of the [[Enst]], as well as [[Fellburn]] and parts of the [[Duchy of Wisford]]. 
+A major conflict between the [[Shattered Ice Clan]] of hobgoblins and the [[Duchy of Maseau]] and [[Sembara]] during the reign of [[Arryn II]], [[Charlotte I]], and [[Cece I]]. It devastated much of the [[Barony of Aveil]], the [[Barony of Dunfry]], as well as [[Rinburg]] and parts of the [[Duchy of Wisford]].
 
 The war began when a new leader amongst the [[Shattered Ice Clan]], established in the southern banks of the [[Enst]] since the [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] launched a brutal assault against [[Duchy of Maseau|Maseau]] in the spring of 1644. [[Sembara]] quickly joined the fight, and after brief early success, endured a long series of setbacks and defeats. Only in 1648, when the young queen, [[Cece I]], said to be blessed by [[The Father]], takes personal command of the [[Radiant Alliance]], does the tide turn.
 

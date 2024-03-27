@@ -13,4 +13,4 @@ pronunciation: Voh-bun
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Historically much larger; significant issues in the hobgoblin wars %%
+%% Historically much larger; conqueored by Shattered Ice Clan; refounded after war in very different way %%
