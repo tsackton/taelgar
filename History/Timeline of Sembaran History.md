@@ -199,11 +199,12 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1602): The [[Second Hobgoblin War (Sembara)|Second Hobgoblin War]] ends with the [[Treaty of Châteauclair]] between the regent, [[Percival Wynthrope]] and the [[Shattered Ice Clan]]. The lands south of the Enst and west of the Aure are ceded to the hobgoblins. 
 - (DR:: 1644), spring: A new leader amongst the [[Shattered Ice Clan]] starts a war of ethnic cleansing against [[Duchy of Maseau|Maseau]], starting the [[Third Hobgoblin War (Sembara)|Third Hobgoblin War]]
 - (DR:: 1644), late spring: [[Arryn II]], at the urging of his daughter [[Charlotte II]] and her husband [[Lionel Falconhurst]], the grandson of the Duke of Maseau, and a prominent [[Isingue|Isinguen]], launches a rapid assault on the [[Shattered Ice Clan]]
-- (DR:: 1644), fall: After several early successes, the Sembaran [[Army of the South]] is fought to a stalemate at the [[Battle of Lysandale]] in the western reaches of Maseau
+- (DR:: 1644), fall: After several early successes, the Sembaran [[Army of the West]] is fought to a stalemate at the [[Battle of Lysandale]] in the western reaches of Maseau
 - (DR:: 1644), fall: The [[Shattered Ice Clan]] abandons the campaign in [[Duchy of Maseau|Maseau]] and redirects their armies to [[Sembara]]
-- (DR:: 1644), late fall/winter: The [[Shattered Ice Clan]] breaks the fortifications in [[Barony of Vaubonne|Vaubonne]] and camps outside [[Fellburn]]
-- (DR:: 1645): Hobgoblins consolidate the lands south of the [[Enst]] and raid throughout the [[Duchy of Wisford]], the [[Barony of Dunfry]], and the [[Barony of Aveil]]
-- (DR:: 1646), summer: The Sembaran [[Grand Army of Sembara (Third Hobgoblin War)|Grand Army]] is defeated at the [[Battle of Rinburg]]. 
+- (DR:: 1644), late fall/winter: The [[Shattered Ice Clan]] probes the fortifications along the [[Enst]], launching attacks on [[Cleenseau]] and [[Rinburg]], both of which are repelled at some cost. The [[Rinburg]] bridge is destroyed, but hobgoblins establish a fortified camp near [[Dallet]]
+- (DR:: 1645):  Afraid of collaboration with [[Sembara]], the hobgoblins begin a series of brutal campaigns against the remaining humans living south of the [[Enst]]. Raiding continues north of the [[Enst]] and the armies swell around [[Rinburg]] and [[Cleenseau]]
+- (DR:: 1646), summer: The Sembaran [[Grand Army of Sembara (Third Hobgoblin War)|Grand Army]] is defeated at the [[Battle of Rinburg]]. [[Rinburg]] is occupied, and [[Cleenseau]] and [[Dunfry]] are isolated
+- (DR:: 1646), late fall: A surprise attack by the [[Shattered Ice Clan]] conqueors [[Cleenseau]]. The defenses of [[Fellburn]] are probed but the city holds firm
 - (DR:: 1647): The [[Shattered Ice Clan]] controls all of the lands west of the [[Mostreve Hills]] and the [[Aure]], between [[Valarin]] and the [[Enst]], and holds several towns on the north side of the Enst including [[Cleenseau]] and [[Rinburg]].
 - (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the [[Earl of Addermarch]] holds the line of the [[Aure]] at the [[Battle of the Aure]]
 - (DR:: 1647), summer: [[Dunfry]] is [[Siege of Dunfry (Third Hobgoblin War)|besieged]].
@@ -212,7 +213,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1648), late winter: Cece I crowned Queen
 - (DR:: 1648), early spring: The [[Army of the North]] attempts to break the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]], and is bogged down
 - (DR:: 1648), late spring: Cece I combines the Armies of the South, and Mostreve, and raises a special levy across the realm, and forms the [[Radiant Alliance]], which she takes personal command of
-- (DR:: 1648), early summer: After a few stalemates, the [[Radiant Alliance]] breaks the siege of  Dunfry and the Armies of the North and West join with the Radiant Alliance
+- (DR:: 1648), early summer: After a few stalemates, the [[Radiant Alliance]] sweeps across Sembara. [[Rinburg]] and [[Cleenseau]] are liberated and the [[Siege of Dunfry (Third Hobgoblin War)|siege of Dunfry]] is broken
 - (DR:: 1648), summer:  [[The Enst Campaign]] pushes the [[Shattered Ice Clan]] west of [[Barony of Vaubonne|Vaubonne]] and south of the [[Enst]]
 - (DR:: 1649), summer: [[The Maseau Campaign]] pushes the [[Shattered Ice Clan]] west of [[Duchy of Maseau|Maseau]], into the foothills of the [[Sentinel Range]] and the [[Marches of Enford]]
 - (DR:: 1650), summer: [[The Enford Campaign]] pushes the [[Shattered Ice Clan]] out of the headwaters of the [[Enst]] and establishes a strong garrison at [[Enford]]
