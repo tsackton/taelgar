@@ -204,7 +204,7 @@ DR 1574 - DR 1650; 7 Wissym I - 2 Cece I
 - (DR:: 1644), late fall/winter: The [[Shattered Ice Clan]] probes the fortifications along the [[Enst]], launching attacks on [[Cleenseau]] and [[Rinburg]], both of which are repelled at some cost. The [[Rinburg]] bridge is destroyed, but hobgoblins establish a fortified camp near [[Dallet]]
 - (DR:: 1645):  Afraid of collaboration with [[Sembara]], the hobgoblins begin a series of brutal campaigns against the remaining humans living south of the [[Enst]]. Raiding continues north of the [[Enst]] and the armies swell around [[Rinburg]] and [[Cleenseau]]
 - (DR:: 1646), summer: The Sembaran [[Grand Army of Sembara (Third Hobgoblin War)|Grand Army]] is defeated at the [[Battle of Rinburg]]. [[Rinburg]] is occupied, and [[Cleenseau]] and [[Dunfry]] are isolated
-- (DR:: 1646), late fall: A surprise attack by the [[Shattered Ice Clan]] conqueors [[Cleenseau]]. The defenses of [[Fellburn]] are probed but the city holds firm
+- (DR:: 1646), late fall: A surprise attack by the [[Shattered Ice Clan]] conquerors [[Cleenseau]]. The defenses of [[Fellburn]] are probed but the city holds firm
 - (DR:: 1647): The [[Shattered Ice Clan]] controls all of the lands west of the [[Mostreve Hills]] and the [[Aure]], between [[Valarin]] and the [[Enst]], and holds several towns on the north side of the Enst including [[Cleenseau]] and [[Rinburg]].
 - (DR:: 1647), summer: The [[Army of Mostreve]] in alliance with the [[Earl of Addermarch]] holds the line of the [[Aure]] at the [[Battle of the Aure]]
 - (DR:: 1647), summer: [[Dunfry]] is [[Siege of Dunfry (Third Hobgoblin War)|besieged]].
