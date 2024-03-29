@@ -1,6 +1,9 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### March 29, 2024
+* Updated the [[Treasure]] document
+* Updated the pages for [[Celyn]], [[Robin of Abenfyrd|Robin]], [[Viepuck]], and [[Izgil Moonseeker|Izgil]]
 ### March 21, 2024
 * Added some [[Political Organization of Tyrwingha|information on Tyrwingha]]
 * Added some information on [[Lake Rin]] and [[Rinburg]]
