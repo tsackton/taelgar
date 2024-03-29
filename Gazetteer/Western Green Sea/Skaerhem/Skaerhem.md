@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/internal]
 campaignInfo: []
 name: Skaerhem
 typeOf: realm
@@ -10,6 +10,8 @@ aliases: [Skaer Islands, Skaegenland]
 # Skaerhem
 >[!info]+ Information
 > A realm in the [[Western Green Sea Region]]
+
+%% needs just a little bit of rewriting to incorporate history and some other random bits of discussion scattered across various places %%
 
 Skaerhem, called Skaegenland by the Sembarans, is a collection of islands (the Skaer Islands), many volcanic, and the nearby coastline in the northwestern corner of the [[Green Sea]]. This is a land of frequent storms, rocky land, and difficult seas, but also a region teaming with marine bounty, and rich in rare volcanic metals and precious stones. 
 
