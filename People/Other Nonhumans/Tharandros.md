@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image]
+tags: [person]
 campaignInfo: [{campaign: DuFr, type: met, date: 1748-04-12}, {campaign: DuFr, type: last seen, date: 1748-06-01}]
 name: Tharandros
 born:
@@ -21,10 +21,10 @@ pronunciation: tha-RAN-dros
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on April 12th, 1748 in [[Samtal]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:DuFr%% Last seen by the [[Dunmar Fellowship]] on June 1st, 1748 in [[Karawa]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
-![[tharandros.png|right|500]]A centaur, the leader of a wandering herd. Wise and knowledgable.
+![[tharandros-final.png|right|400]]A centaur, the leader of a wandering herd, of indeterminate age. Wise and knowledgable.
 
 %%^Campaign:dufr%%
-The Dunmar Fellowship met this herd traveling across the [[Samtal]], the northern plains of [[Dunmar]], and convinced them to aid [[Karawa]], which proved crucial in driving off gnoll attacks. 
+The Dunmar Fellowship met Tharandros and his herd traveling across the [[Samtal]], the northern plains of [[Dunmar]], and convinced them to aid [[Karawa]], which proved crucial in driving off gnoll attacks. 
 
 Tharandros stayed in Karawa for a time, but left to travel north with his herd in June, 1748.
 %%^End%%
