@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/needswork/external, status/needswork/internal, status/image]
 name: Vola Forena
 born: 1721
 species: human

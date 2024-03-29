@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/aware, person, dufr/minor, status/unknown]
+tags: [person, status/needswork/refactor]
 name: Agon
 born: 1694
 activeYear: 1745
@@ -17,6 +17,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% another heard rumors of person that I want to tag in a consistent way with campaignInfo to replace dufr/aware %%
 
 [[Vola]]'s mentor, a member of the [[Society of the Open Scroll]] and scholar in [[Chardon]]. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/needswork/external, status/cleanup/header, status/image]
 campaignInfo: []
 name: Roscelia
 born: 1677
@@ -16,6 +16,8 @@ whereabouts: Chardon
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% copy notes from OneNote, update header to add campaign Info %%
 
 An elderly magician, prim and proper, a member of the Faculty of Magic at the [[University of Chardon]] and [[Kaeso]]'s mentor.
 

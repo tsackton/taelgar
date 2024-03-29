@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/needswork/external, status/cleanup/header, status/cleanup/reformat]
 campaignInfo: 
 - {campaign: dufr, person: Delwath, date: 1748-10-23, type: scryed}
 name: Marcella
@@ -20,6 +20,7 @@ whereabouts:
 >> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 23rd, 1748 in [[Ausson's Crossing]], [[Laicon]], the [[Refounded Alliance of Aurbez]] %%^End%%
 
 %% need to fix whereabouts, campaign info, away dates %%
+%% fix text to change session links %%
 
 A nondescript Chardonian woman, short brown hair and a plain face. An archer, skilled with a bow, wears well-tended leather armor under a traveling cloak. 
 
