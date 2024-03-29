@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [event-source]
-campaignInfo:
 name: Nayan Marathu's Letter Vision
 DR: 1749-02-02
 timelineDescriptor: Dunmari Frontier Campaign
