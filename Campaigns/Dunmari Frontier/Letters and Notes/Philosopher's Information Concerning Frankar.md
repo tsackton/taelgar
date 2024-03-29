@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 Your gift, though generously given, is a common trinket, a device made in great numbers during the age of [[Drankorian Empire|Drankor]] to facilitate logistical support for the armies of the Empire. Though the trick of their easy construction has been lost, many hundred still survive, and there is little new to learn from this trinket.
 
 Nonetheless, your eagerness to understand the fate of your brother is noble, and some answers are not difficult to come by. So these now I share with you.
