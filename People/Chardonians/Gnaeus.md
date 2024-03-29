@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/external]
 campaignInfo: []
 name: Gnaeus
 born: 1701
@@ -18,6 +18,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% copy stuff from OneNote, I guess mostly not secrets anymore; update whereabouts to capture Elderwood time, add campaign info %%
 
 A disgraced historian and scholar, expelled from the Faculty for using enchantment magic to aid his research, now making a poor living as a tutor. 
 

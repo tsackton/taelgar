@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/needswork/notes, status/unknown]
+tags: [person, status/needswork/interal, status/cleanup/header]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Valius
@@ -22,5 +22,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Captured by the [[Dunmar Fellowship]] on December 9th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
+
+%% cleanup header, copy DM notes, reformat text %%
 
 A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[Fausto]]'s curse.
