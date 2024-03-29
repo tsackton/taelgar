@@ -1,6 +1,5 @@
 ---
 tags: [timeline]
-campaignInfo:
 name: Dunmari Frontier Timeline
 timelineDescriptor: Dunmari Frontier Campaign
 ---

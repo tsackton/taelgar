@@ -1,6 +1,3 @@
----
-tags: [mirror-vision]
----
 The image in the mirror shows a room, underground, light only by candle light and two torches burning on the wall. A man is tied to a chair – the same face that the shadow hunter you killed had after he died. But the bonds look loose, and the man is not resisting. He seems to be staring off into space, unaware of his surroundings.
 
 The mask is sitting on a table, next to a black crown, seemingly made of some kind of matte black iron with four dark gems, black pearls or opal of some kind, set in the four points. A faint dark smoke seems to be seeping from the crown.

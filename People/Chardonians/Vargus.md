@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/internal]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Vargus
@@ -21,6 +21,6 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Captured by [[Dunmar Fellowship]] on December 9th, 1748 in the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
-%% whereabouts need updating%%
+%% whereabouts need updating; copy description and other details from DM notes%%
 
 Twin to Valius, Vargus was formidable warrior in the Chardonian legion, turned mercenary and adventurer. He is now under the curse of the Cleansed and largely unaware of himself. 

@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 “Your sensor appears in a large room, mostly dark, lit only by torches that line the walls, casting flickering shadows across the room. The windows have been bricked up and blocked, allowing no daylight in, and the second and third stories of the building have been knocked out, so the ceiling reaches maybe 35 feet up. This looks like it was once an audience chamber or throne room. There is a dais at the far end that's raised up a few steps, debris around as if old furniture has been cast the side. On the dais is a plain, dark metal chair, a simple black chair. Seated in the chair is a skeletal creature, maybe seven feet tall, wearing chain mail, eyes just deep pools of blackness. Against the back of the chair is a wicked looking glaive, with a jagged blade. The skeletal creature sitting in this throne is looking intently at two [[Orcs]] that are kneeling on the ground, bowed down before him. 
 
 He is speaking in orcish, but as you cast Tongues from your scroll it becomes clear, mid-sentence. 

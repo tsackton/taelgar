@@ -6,7 +6,8 @@ typeOf: city
 whereabouts: Central Dunmar
 ---
 # Tokra
->[!info]+ Information
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%general cleanup, check OneNote%%

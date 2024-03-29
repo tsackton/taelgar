@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 As you hold up the mace to the mirror, the first thing you see is the middle of a massive war. 
 
 Everything is just totally chaotic. A human warrior in plate mail armor is holding the mace, and trolls, hobgoblins, and other evil creatures are streaming through a gate. The fort this warrior is defending is apparently in the process of being overrun. Although fear radiating from the mace seems to hold back the tide for a moment, a hobgoblin spellcaster steps into view, and unleashes a lightning bolt that kills the warrior, and the mace falls to the ground. 

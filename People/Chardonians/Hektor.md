@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/cleanup/header, status/cleanup/reformat, status/needswork/external]
 campaignInfo: []
 name: Hektor
 born: 1726
@@ -17,7 +17,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% needs correct away whereabouts %%
+%% needs correct away whereabouts, reformat to isolate campaign info %%
 
 A barbarian. A huge Chardonian man, muscled and over 6 feet tall. Silent. Does not wear any armor, just a simple sailor’s cloak, and carries a clearly well-loved and dangerous-looking halberd. 
 

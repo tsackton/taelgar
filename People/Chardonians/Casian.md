@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, dufr/met, dufr/major, status/unknown]
+tags: [event-source, person, status/needswork/external, status/cleanup/header, status/cleanup/reformat]
 campaignInfo: []
 name: Casian
 born: 1722
@@ -19,6 +19,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%needs header cleanup, text reformat to isolate party interactions%%
 
 ![[cassian-portrait.png|right|320]]A powerful wizard and evoker, companion to [[Kadmos]], and member of the [[Society of the Open Scroll]]. A short Chardonian man, constantly in motion and filled with nervous energy, wearing stained traveling gear under white robes for protection from the harsh sun. Short dark hair, clean shaven, brown eyes, carries a number of books and notes that he was constantly pouring over. Doesn’t talk much except to argue.
 

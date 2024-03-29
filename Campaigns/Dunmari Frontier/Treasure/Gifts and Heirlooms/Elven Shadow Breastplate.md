@@ -1,5 +1,5 @@
 ---
-tags: [item/magical, status/unknown]
+tags: [item/magical]
 typeOf: armor
 ---
 # The Elven Shadow Breastplate

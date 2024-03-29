@@ -8,14 +8,17 @@ name: Ardan
 born: 1695
 species: human
 ancestry: Dunmari
-title: Head Archivist
+title: Chief Archivist
 gender: male
 whereabouts: Tokra
+affiliations: 
+- {type: leader, place: Archives, start: 1737}
 ---
-# Head Archivist Ardan
+# Chief Archivist Ardan
 >[!info]+ Biographical Info  
 > A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%

@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 The mirror, as usual, goes black. For a moment, you see a vast store in some underground room, lit by flickering lanterns, where there are weapons of all kinds, swords, axes, polearms, armor. Being driven, dragged into this room you see two kenku, iron bands on their wrists, pretty disheveled in appearance. A hobgoblin, behind them, poking them with a spear, driving them forward. 
 
 Stepping out of the shadows, in front of the arm band, in front of the kenku you can see, is a man, maybe 6 1/2 or 7 feet tall, wearing a black cloak hiding his face, tall black leather boots, chain mail armor, and glowing red eyes from the depths of the shadows under his cloak. He picks up the arm band, and he hands it to one of the kenku, making a magical gesture with one hand. The two kenku, one of whom is carrying the armband, scurry out of the room. 

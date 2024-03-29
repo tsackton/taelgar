@@ -1,7 +1,8 @@
 ---
-tags: [status/unknown]
+headerVersion: 2023.11.25
+tags: [source]
 ---
-  
+
 Dear friends,
 
 Let us rejoice in the light of the Divine, and give thanks to [[Laka]] and his siblings for their continued guidance, and the [[Bahrazel]] for their healing power. I still hear the echoes of their forges sometimes when I sleep, and it brings me great comfort, for they and their servant [[Riswynn]] banished the nightmares from my mind. 

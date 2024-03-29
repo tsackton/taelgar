@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/aware, person, dufr/minor, status/unknown]
+tags: [person]
 displayDefaults: {endStatus: petrified}
 campaignInfo:
 - {campaign: dufr, date: 1748-03-25, type: discovered as a statue}
@@ -26,7 +26,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Discovered as a statue with the [[Dunmar Fellowship]] on March 25th, 1748 in the [[Dunmari Fort (Gomat)]] %%^End%%
 
-An adventurer and treasure hunter from the [[Society of the Open Scroll]], found petrified in the fort east of [[Gomat]]. 
+An adventurer and treasure hunter from the [[Society of the Open Scroll]], now petrified in the fort east of [[Gomat]]. 
 
 Left [[Chardon]] with [[Servius]], [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]]. Argued constantly with [[Servius]], acording to [[Dee Wildcloak]]. Parted ways with other travelers in [[Songara]], presumably to press ahead. 
 

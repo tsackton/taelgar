@@ -1,3 +1,8 @@
+---
+headerVersion: 2023.11.25
+tags: [source]
+---
+
 **This is a copy of a report written by the Aagiri, the mystai of Aagir, to Samraat Aatmaji Dasa, who was the last of the Aatmaji Dynasty, and died leading a Dunmari army into Drankor, ending the Aatmaji Dynasty and throwing Dunmar into chaos for a time. Nuzkar's editorial notes are marked in italics.**
 
 *This report apparently described a scouting expedition to Drankor, led by the mystai of Aagir. It was accompanied, I think, by sketches and maps, which I have attempted to recover, but often this has not been possible*
