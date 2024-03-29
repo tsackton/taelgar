@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 You hold the helm up to the mirror, and the scene fades for a moment. 
 
 You see a man standing on the bow of the [[Flaming Tempest]], presumably [[Urgall the Black|Urgall]], wearing the helm. He is holding a trader -- probably a Tollender -- in the air. The Tollender is begging, asking [[Urgall the Black|Urgall]] to save his life, but [[Urgall the Black|Urgall]] does not seem to care, and slashes in throat. A strange dark mist creeps out of the slit throat, seeming to seep into [[Urgall the Black|Urgall]]'s helm. The scene continues as [[Urgall the Black|Urgall]] threatens and interrogates another sailor, the navigator, who also begs for his life, promising to tell [[Urgall the Black|Urgall]] where something, or somewhere, is -- you cannot quite see what place he sketches directions to. Then his throat is slit as well.

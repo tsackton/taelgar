@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 As you hold the [[Jade Piece of Rai's Hand]] up to the mirror, images flash before your eyes.  
 
 - A tower, that you’ve seen before in your dreams, a flash of a room of people.

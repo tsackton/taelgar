@@ -1,12 +1,13 @@
 ---
-tags: [event-source, status/unknown]
-campaignInfo:
+headerVersion: 2023.11.25
+tags: [event-source]
 name: Pandemonium Scroll Vision
 DR: 1748-07-13
 timelineDescriptor: Dunmari Frontier Campaign
 ---
-
-# Pandemonium Scroll Vision
+# The Pandemonium Scroll Vision
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 Vision of a [[Pandemonium Scroll|scroll associated with Pandemonium]] in [[The Mirror of the Past]]. 
 

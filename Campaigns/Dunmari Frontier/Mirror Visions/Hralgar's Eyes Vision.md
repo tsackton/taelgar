@@ -1,7 +1,3 @@
----
-tags: [status/unknown]
----
-
 You hold the giant's eyes to the mirror, trying to see how they ended up this way, how Hralgar was bound and and caught.
 
 The first thing that you see, as the mirror clears, is what almost looks like clouds are blowing away from the surface, instead of the black transitions that are typical of visions in this mirror. A workshop somewhere comes into focus, not a place you recognize, not a room that you've been in before. It's big, and there are 

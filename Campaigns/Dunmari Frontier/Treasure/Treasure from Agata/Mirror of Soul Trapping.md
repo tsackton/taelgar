@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 typeOf: mirror
-tags: [item, item/magical, status/unknown]
+tags: [item, item/magical, status/cleanup/refactor, status/image]
 whereabouts:
 - {type: home, location: unknown hobgoblin wizard, prefix: by an }
 - {type: home, location: dufr}
@@ -16,6 +16,8 @@ rarity:
 > (mirror)
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%need to decide if this is a one-off item, unique, or a representative of a class of items, and refactor text as appropriate %%
 
 This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
 
