@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/external]
 campaignInfo: []
 name: Voltara
 typeOf: city
@@ -10,6 +10,8 @@ whereabouts: Northern Frontier
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% copy remaining details from Great Library campaign %%
 
 ## Overview
 
