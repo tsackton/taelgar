@@ -12,7 +12,7 @@ tags: [timeline]
 * Mid August: The beginning of [[Wakog|Wakog's]] raids
 ### October
 * October 16th: The [[Tragic Flood of the River Enst|River Enst floods]] 
-* October 17th: [[Viepuck|Najeer]] arrives in [[Cleenseau]]
+* October 17th: [[Viepuck]] arrives in [[Cleenseau]], disguised as [[Viepuck|Najeer]]
 * October 19th: [[Celyn]] arrives in [[Cleenseau]] 
 * October 20th, AM: [[Izgil Moonseeker|Izgil]] and [[Robin of Abenfyrd|Robin]] arrive in [[Taviose]] during the [[First Spider Attack on Tavoise|spider attack]]
 * October 20th, PM: The four travelers are invited to an awkward dinner party at [[Essford Manor]]
@@ -21,7 +21,7 @@ tags: [timeline]
 * October 21st, day: investigation of the spiders
 * October 21st, evening: Ettercap killed
 * October 22nd: party returns to Cleenseau victorious, meets Rosalind
-* October 23rd: [[Izgil Moonseeker|Izgil]], [[Viepuck|Najeer]], and [[Celyn]] investigate [[Taviose]], meet with [[Perrin Voclain]] and [[Brot Starsearcher]]; [[Celyn]] communes with fairies;  [[Viepuck|Najeer]] with his egg; [[Viepuck|Najeer]] meets [[Conrad]]
+* October 23rd: [[Izgil Moonseeker|Izgil]], [[Viepuck]], and [[Celyn]] investigate [[Taviose]], meet with [[Perrin Voclain]] and [[Brot Starsearcher]]; [[Celyn]] communes with fairies;  [[Viepuck]] with his egg; [[Viepuck]] meets [[Conrad]]
 * October 24th: the party revisits the woods and recovers some spider silk
 * October 22nd - October 28th: [[Robin of Abenfyrd|Robin]] visits [[Evis|Evis]] with [[Narrisa de Abadelle|Narrisa]] and hears rumors of an empty and unexpectedly abandoned inn
 * Late October: Many rumors in [[Evis]] about [[Wakog]]

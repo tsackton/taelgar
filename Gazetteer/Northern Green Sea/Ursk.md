@@ -29,6 +29,19 @@ The northern coasts between Skaegenland and Ursk are inhospitable, with few or n
 - A dense cold forest of talking trees who attack and kill any wooden ship that attempts to anchor
 - The secret kingdom of a vampire who snacks on unwary sailors
 
+%%^Campaign:None%%
+### Places in Ursk
+```dataviewjs
+const { util } = customJS
+dv.table(["Place", "Type Of"], 
+			dv.pages("#place")
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))
+				.sort(b => util.s("<maintype>", b.file))
+				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
+```
+
+%%^End%%
+
 %%SECRET[1]%%
 
 %% NOTES, FROM GOOGLE DRIVE
