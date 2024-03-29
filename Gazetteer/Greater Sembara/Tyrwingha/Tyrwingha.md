@@ -4,6 +4,7 @@ tags: [place, status/needswork/notes]
 name: Tyrwingha
 typeOf: realm
 whereabouts: Greater Sembara
+aliases: [Tyrwinghan]
 ---
 # Tyrwingha
 >[!info]+ Information
@@ -47,6 +48,26 @@ Over the years, the balance of power generally develops as:
     Derik III originally accepts the Tyrwinghan crown basically because he wants to be the commander in chief of an army of warlocks
     
     His heirs are given the Tyrwinghan crown because Ethlenn/the Oracle of the Riven wants Sembara to be responsible for the defense of the borders of Tyrwinghan - safety in numbers, basically
+
+
+Some notes from an email to my players:
+Jut shrines feels like the wrong word for these kinds of places, as folks don't really pray to the fey. There is probably a mixture of appeasement, caretaking, and duty in the normal Tyrwinghan's relationship with the fey....
+
+  
+
+appeasement, because of course the fey are powerful and tricky and you don't want them on your bad side
+
+caretaking, because these are also Ethleen's subjects, even if they are somewhat mysterious ones, and part of the culture of Tyrwingha is a loving connection to Ethleen. So some Tyrwinghans might feel quite possessive of their local fey and quite inclined to see themselves as the supporters/providers for the fey
+
+duty, because again, Ethleen, and even if you don't love the fey personally, or find there mystery/mischivery a bit distasteful, it is still a Tyrwinghan's duty to look out for all of Ethleen's subjects  
+
+* The monarch of Tyrwingha is elected by the Oracles of the Riven, a group of six powerful and somewhat mysterious figures, usually warlocks. It is said that when an Oracle dies, Ethleen appoints their successor, although whether this is true or not, Celyn doesn't know. It would certainly be plausible to believe it, or not, or be somewhat unsure -- Tyrwinghans are all three. But it is undisputed historical fact that Ethleen has appointed _some_ of the historical Oracles, especially in the period around the Great War about 150 years ago. There is also a longstanding understanding in Tyrwingha that anyone may 
+
+  Remember, the basic temple hierarchy of Mos Numena (the religion of the Eight Divines***) has two parts: the administrators and managers of the temple, called temple stewards, are not necessarily particularly well connected to the gods, and are usually employed by the town, city, village, etc to provide upkeep, social organizing, event planning, etc. Then there are the priests, who have very little hierarchy and are pretty disorganized, but who are the ones with real connections to the gods. Some small villages could easily have both a temple steward and a priest, but it's somewhat random -- priests are not members of some kind of large hierarchy and are assigned out, it is all more personal than that.
+
+  In both Tyrwingha and Sembara, each divine is worshipped separately, and temples are always to a specific divine. In Sembara though, they have this odd tradition of asking "their" god to talk to the other gods, whereas in Tyrwingha although each shrine or temple is dedicated to a single god, many people worship many different gods. So in Clawyn there is probably just one temple (to the Wyrdling, I guess). But in a larger town in Tyrwingha there would be multiple temples, and even in Clawyn Celyn's neighbor the midwife had a small altar to the Mother in her garden, and the village cemetery a small shrine to the Night Queen. One of the weirder things about Cleenseau is that they all seem to worship the Warlord and they ask him to talk to all the other gods. So even during Vitalae, which is dedicated to the Wanderer, you'd here all of these Sembarans say things like, "Warlord, please tell the Wanderer I am in need of charity this night.." or whatever.
+
+  There is a longstanding story in Tyrwingha that there is a place in Ethleen's court for any Tyrwinghan who desires to renounce the human realm and come live in the Feywild. This is said to have been part of her condition for allowing Drankor (the ancient empire, long gone, vague Roman analog) to rule the land.
 
 %%
 
