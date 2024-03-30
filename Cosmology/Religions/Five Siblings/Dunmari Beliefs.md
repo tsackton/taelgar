@@ -6,12 +6,12 @@ tags: [religion/fivesiblings, background, status/unknown]
 
 What follows is the creation story of the Dunmari, told in brief.
 
-*First there was chaos, an ever changing, roiling sea of magical energy. Into this formless expanse, two gods came: Shurat, Mother Sky, and Sampa, Father Earth. Together, Shurat and Sampa shaped the world. From Shurat, the rains came, and the sun, and they brought life and growth to the barren earth. From Sampa came the soil, the land, the solidity of the ground, but also death and the darkness below.* 
+*First there was chaos, an ever changing, roiling sea of magical energy. Into this formless expanse, two gods came: [[Divine Presence|Shurat]], Mother Sky, and [[Divine Presence|Sampa]], Father Earth. Together, [[Divine Presence|Shurat]] and [[Divine Presence|Sampa]] shaped the world. From [[Divine Presence|Shurat]], the rains came, and the sun, and they brought life and growth to the barren earth. From [[Divine Presence|Sampa]] came the soil, the land, the solidity of the ground, but also death and the darkness below.* 
 
-*After they formed the world, Shurat and Sampa had seven children: first, their two mortal children, shaped from the wind and the earth: Mavata and Pitava, the first humans. Then, their five Divine children, Jeevali, Laka, Aagir, Sonkar, and Chidya. Pleased, Shurat and Sampa created a land for these humans to dwell, far across the sea. Here, they prospered, and learned to be human, sheltered and safe in the protection of the gods.* 
+*After they formed the world, [[Divine Presence|Shurat]] and [[Divine Presence|Sampa]] had seven children: first, their two mortal children, shaped from the wind and the earth: Mavata and Pitava, the first humans. Then, their five Divine children, Jeevali, Laka, Aagir, Sonkar, and Chidya. Pleased, [[Divine Presence|Shurat]] and [[Divine Presence|Sampa]] created a land for these humans to dwell, far across the sea. Here, they prospered, and learned to be human, sheltered and safe in the protection of the gods.* 
 
 %% 
-in this myth, Shurat is Ahra, Sampa is Malik, and the land created for the humans is Hkar
+in this myth, [[Divine Presence|Shurat]] is Ahra, [[Divine Presence|Sampa]] is [[Divine Presence|Malik]], and the land created for the humans is Hkar
 %%
   
 *This land was a land of many gods and many people, a land of peace and plenty. But it could not last. The Five Siblings told their people, the Dunmari, that they had a great purpose, a special place in the world outside. It was time to venture forth and choose to reach for their destiny. So the Dunmari left, departing the sheltered land of their youth, and journeying across the sea.*  
