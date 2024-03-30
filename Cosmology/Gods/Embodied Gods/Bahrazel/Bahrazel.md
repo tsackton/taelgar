@@ -1,12 +1,14 @@
 ---
-headerVersion: 2023.11.20
-tags: [deity, religion/dwarven, status/needswork]
+headerVersion: 2023.11.25
+tags: [deity, religion/dwarven, status/cleanup/refactor]
 displayDefaults: { defArt: the, ltItem: by}
 campaignInfo: []
-name: Bahrazel
+name: Bahrâzel
 aliases: [Bahrâzel]
 ---
-# The Bahrazel
+# The Bahrâzel
+
+%% reorganize into  religion page separate from deities %%
 
 The embodied gods of the [[Dwarves]] and the mystical firstborn of their race. Legend says the seven Bahrâzel were created from living rock, given form and magic and empowered to create the dwarven people in their image.
 
@@ -44,7 +46,7 @@ Dwarves don't have a particularly ritual or prayer oriented religion, or even re
 
 That said — dwarves have prayed for, and been granted, miracles of divine intervention, but as a consequence incur a debt to the gods. Because of this, prayers are almost seen as kind of dangerous. The Baharzel might grant your prayer, but if they do they have power over you. And they can yank you out of your life to serve their purposes. So prayer is what you do when you are truly desperate. 
 
-Even those who wield divine magic don't necessarily have a strong pray-based relationship with the Baharzel. Instead, they have a relationship that is more of a knight/lord kind of relationship, almost feudal with a sense of reciprocal obligations.  
+Even those who wield divine magic don't necessarily have a strong prayer-based relationship with the Baharzel. Instead, they have a relationship that is more of a knight/lord kind of relationship, almost feudal with a sense of reciprocal obligations.  
 
 The Baharzel are literally the source of runic magic, which most dwarves can use to some degree. So they are ever-present, but impersonal in a way. Many dwarves see the Baharzel as the kind of glue that holds everything together, that in some sense enforce the debts of honor and obligation that hold dwarven society together. But you don’t really worship glue. 
 
