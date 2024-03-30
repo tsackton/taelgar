@@ -6,6 +6,8 @@ displayDefaults: {defArt: "the"}
 ---
 # The Divine Presence
 
+%% does not currently address non-humans - not clear what exactly they believe %%
+
 The Divine Presence, known by many names and many forms across Taelgar, is the manifestation of the divine energy of creation and destruction, the ultimate source of all Divine magic and the creator of the multiverse. The theological truth of the nature of the Divine Presence, whether it is a single entity or more than one, and how it came to be, is much debated. 
 
 ## Northern Folk Religions
@@ -23,7 +25,6 @@ In many pantheonic traditions among humans, the Divine Presence is believed to r
 In the [[Mos Numena]] tradition, these Divinities are known as Arha (sometimes Arhat) and Malik. Arha is believed to be one half of the duality of the True Divinity, the force of creation, balanced by Malik, the force of destruction. 
 
 In the [[Five Siblings|Dunmari Tradition]], the creator gods are known as Sampa, the Earth Father, associated with death and endings, and Shurat, the Sky Mother, associated with birth and beginnings. Neither are directly worshipped; they are seen as distant and uninvolved in the world, having gifted it to their children and moved on.
-
 
 
 

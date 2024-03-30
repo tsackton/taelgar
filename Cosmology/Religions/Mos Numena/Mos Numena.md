@@ -165,7 +165,7 @@ In order to fully understand the Sembaran religious tradition, it is also import
 
   
 
-First, in the ancient tradition, the gods (the Kestavo) were the intercedents, on behalf of humanity, with the great powers, Ahra and Malik. Second, the Kestavo were local and closely tied to a community. No village would be founded without a sign from the Kestavo that one was willing to protect it and watch over it. Many of the Kestavo only had power in small areas -- a Kestavo might manifest as a sacred tree, or the god of a spring, or stream, but many were closely tied to a specific community. These small gods largely ceased to be worshipped as Mos Numera was spread by the Drankorians, but the idea that a close and personal relationship exists between a community and a divine being never left the culture.
+First, in the ancient tradition, the gods (the Kestavo) were the intercedents, on behalf of humanity, with the great powers, Ahra and [[Divine Presence|Malik]]. Second, the Kestavo were local and closely tied to a community. No village would be founded without a sign from the Kestavo that one was willing to protect it and watch over it. Many of the Kestavo only had power in small areas -- a Kestavo might manifest as a sacred tree, or the god of a spring, or stream, but many were closely tied to a specific community. These small gods largely ceased to be worshipped as Mos Numera was spread by the Drankorians, but the idea that a close and personal relationship exists between a community and a divine being never left the culture.
 
   
   
