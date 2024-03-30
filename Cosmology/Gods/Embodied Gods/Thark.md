@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity]
+tags: [deity, status/needswork/internal]
 ---
 # Thark
 
