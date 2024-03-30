@@ -10,7 +10,7 @@ This page contains lore information about dwarves. For details on character crea
 ![[dwarven-hall-of-gems.png]]
 
 > [!quote] Dwarven Prayer of Naming, excerpt
-> *Far under the mountains, long ago the First were made from solid stone. Born to delve and craft and seek, the [[Bahrazel]] made our mountain homes: Uzdan, the Ruler, leader of people; Karthel, the Runecrafter, shaper of magic; Fanrukel, the Priest, keeper of lore; Tarbaka, the Stoneworker, lord of the forge; Azar, the Warrior, defender of cities; Maganna, the Traveler, delver and miner; and Oshkir, the Farmer, provider and healer. May their wisdom and protection guide you to your name and place. See now the past and the future as one.*
+> *Far under the mountains, long ago the First were made from solid stone. Born to delve and craft and seek, the [[Bahrazel]] made our mountain homes: Uzdan, the Ruler, leader of people; [[Karthel]], the Runecrafter, shaper of magic; [[Fanrukel]], the Priest, keeper of lore; Tarbaka, the Stoneworker, lord of the forge; [[Azar]], the Warrior, defender of cities; Maganna, the Traveler, delver and miner; and Oshkir, the Farmer, provider and healer. May their wisdom and protection guide you to your name and place. See now the past and the future as one.*
 
 Deep in the mountains, a glittering hall of crystal and light, enchanted with glowing runes. The echoes of hammers and picks delving for silver, forging iron and steel; and the slow tap-tap-tap of a crafter carefully shaping a cave of wonder beneath the mountains. Towering stone fortresses in the hills, full of beautiful stonework and ancient runes of power and protection. An abiding commitment to clan and family and thuhr. These are the common threads of dwarven life. 
 
