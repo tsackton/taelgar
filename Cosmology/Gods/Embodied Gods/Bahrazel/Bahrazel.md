@@ -9,7 +9,7 @@ pronunciation: BAH-rah-zel
 # The Bahrâzel
 *(BAH-rah-zel)*
 
-The Bahrâzel are the Embodied Gods of the [[Dwarves]] and the mystical firstborn, creators of the first dwarves. Legend says the seven Bahrâzel were created from living rock by the Divine Presence, given form and magic and empowered to create the dwarven people in their image.
+The Bahrâzel are the Embodied Gods of the [[Dwarves]] and the mystical firstborn, creators of the first dwarves. Legend says the seven Bahrâzel were created from living rock by the [[Divine Presence]], given form and magic and empowered to create the dwarven people in their image.
 
 The connection dwarves have with the Bahrâzel allows them to inscribe runes with magical effects. While in most cases these are small, such as mending a broken item, some legendary dwarves can create extraordinary magical items, wards, and marks of power. Dwarves’ connection to the Bahrâzel is also expressed through their belief that they are a living part of the mountains: they are a crucial part of the life cycle of mountains and mountains form the focus of their spiritual existence.
 

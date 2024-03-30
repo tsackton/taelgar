@@ -5,7 +5,6 @@ displayDefaults: {defArt: "the"}
 ---
 # The Mad One
 
-Little is known about the Mad One. Theologically, they are, like the firstborn gods of the Elder races, an Embodied god, given physical form independent of the belief of their worshippers. 
+Little is known about the Mad One, other than that they are the patron deity of lycanthropes, and are associated with the plane of [[Pandemonium]]. Theologically, they are, like the firstborn gods of the Elder races, an Embodied God, given physical form independent of the belief of their worshippers. 
 
-Created, it is thought, by [[Jinnik]], one of the Three Despairs, the god-like entities born of the Void Mind, the power that seeks to end all things, the Mad One is the patron god of lycanthropes. 
-
+The Mad One was created by [[Jinnik]], one of the [[Three Despairs]], the god-like entities born of the [[Void Mind]].
