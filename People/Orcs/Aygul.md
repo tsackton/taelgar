@@ -26,7 +26,7 @@ image: aygul-small.png
 %% notes
 ## History
 
-Nuzkar and Aygul are 51 years old, born near Gorzum oasis, to relatively poor farmers. Their parents were both born chained orcs and both struggle. In their father, this manifested as nightmares, weeks sometimes in bed with migraines. In their mother, who was freed when she was 8, this manifests as violent outbursts, where she often has to be restrained. Despite this, the parents are fervant believers in Xurkhaz and envision there salvation will be in their children, born free and unchained and untouched by Thark.
+Nuzkar and Aygul are 51 years old, born near Gorzum oasis, to relatively poor farmers. Their parents were both born chained orcs and both struggle. In their father, this manifested as nightmares, weeks sometimes in bed with migraines. In their mother, who was freed when she was 8, this manifests as violent outbursts, where she often has to be restrained. Despite this, the parents are fervant believers in Xurkhaz and envision there salvation will be in their children, born free and unchained and untouched by [[Thark]].
 
 The twins are born first, then their three siblings, soon after. However, tragedy strikes when the twins are 8. They are at this point old enough to help out on the farm, and one afternoon when their father can't work due to his headaches, their mother goes into a rage and kills the three younger children.
 
@@ -40,7 +40,7 @@ Much of the family ends up in war - by this time they are living in the capital 
 
 Nuzkar and Aygul both worry -- Aygul perhaps even joins up, despite being a bit on the older side, she is wiry and skilled with weapons and unarmed combat techniques. Both worry about the end of their people. Nuzkar, for much of her life, has felt like she could be doing more. The drive to learn/understand/help the chained orcs, and find more orcs to unchain/more People of the Rainbow who are lost kept being put aside due to the basic joy of her life, and the busy-ness of raising a family, etc
 
-But something happens during the conflict with Grash - my original idea was a prayer but that doesn't really make sense here -- that inspires her to rededicate herself to this childhood dream of learning how Thark chains people and finding others
+But something happens during the conflict with Grash - my original idea was a prayer but that doesn't really make sense here -- that inspires her to rededicate herself to this childhood dream of learning how [[Thark]] chains people and finding others
 
 So when a flying ship appears, looking for a loremaster and archivist, and willing to carry her around the known world, she jumps
 
