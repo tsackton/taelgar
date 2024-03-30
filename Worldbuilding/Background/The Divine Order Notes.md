@@ -74,11 +74,7 @@ Not quite gods, but powerful in their own right are the Three Despairs: Umidzka,
 
 The direct creations of the Divine, the embodied gods were given physical form by the High Gods, given permanence and consciousness, and the Divine power to create. Not dependent upon belief for their power, the embodied gods created people in their image.
 
-  
-
 The Firstborn, created by Arha and Malik, gave rise to the Elder races: Aldanor and Elmerca, the Living Tree and the Wild Star of the elves; Entamba, the Elder Mountain of the stoneborn; Hazkunde, Bero, Udazkena, and Negu, known as Spring, Summer, Autumn, and Winter, the four Tharzen Anzinakoa of the lizardfolk; the Ruler, Runemaster, Priest, Warrior, Traveler, Stoneworker, and Farmer, the seven Bahrazel of the dwarves; and Nwana, called the Stranger-Child, Obito, called the Merchant-Musician, and Jemghari, called the Traveler-Storyteller, the two-faced First Ones of the halflings.
-
-  
 
 Thark, the God of War Without End, created by the union of Umidzka and G’Zab, gave rise to the orcs, and through his compulsion drives them to violence for the sake of violence, although rumors persist of orcs who have thrown off the curse of their god. Elven lore records rumors of other embodied gods spawned by the Three Despairs, including Ghesyn, the Goddess of the End, also known as the Hopeless One, the offspring of G’Zab and Jinnik; the Endless Chaos, the offspring of Umidzka and Jinnik; the Mad One, the embodied avatar of Jinnik.
 
