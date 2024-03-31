@@ -1,5 +1,5 @@
 ---
-tags: [deity, status/unknown]
+tags: [deity]
 ---
 # G'Zab
 
