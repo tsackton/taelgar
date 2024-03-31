@@ -29,7 +29,7 @@ The second is from a travelogue written by Eukos the Wanderer, a Chardonian bard
 
 Of particular note is the discussion of their religion, which is centered around the worship of tanshi, as the gods are known as. There are many tanshi, perhaps hundreds, although Eukos only records the names of seven he saw as particularly important and powerful. The tanshi are though to be everywhere, but they can only hear blessings and prayers if carrying with a sacrifice. Usually these are very small, a crushed herb or incense burnt to draw the tanshi, or a drop of blood, or a morsel of food; but bigger prayers require stronger sacrifices, sometimes involving animal sacrifice. Each tanshi has a calling, a domain, and often particular sacrifices or offerings are required to bring the attention of each tanshi to a particular prayer. Eukos was fascinated by the sacrificial tradition, and recorded some detail about each tanshi. No tanshi had a gender, they were referred to as spirits or divines, and seen not as people but as the forces and spirits of the world. The seven tanshi Eukos describes are:
 
-Deni:The spirit of the forest, and according to Eukos the most powerful of the tanshi, a leader of sorts, although whether the Deno'qai actually believed that the tanshi had a hierarchy, or whether this is Eukos' gloss, is unclear.
+[[Deni]]:The spirit of the forest, and according to Eukos the most powerful of the tanshi, a leader of sorts, although whether the Deno'qai actually believed that the tanshi had a hierarchy, or whether this is Eukos' gloss, is unclear.
 
 Zafi:The spirit of the sunrise, the morning, mists, and fog.
 

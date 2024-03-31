@@ -132,7 +132,7 @@ Individual tanshi introduced so far include:
 
   
 
-Deni: The spirit of the forest, and according to Eukos the most powerful of the tanshi, a leader of sorts, although whether the Deno'qai actually believed that the tanshi had a hierarchy, or whether this is Eukos' gloss, is unclear.
+[[Deni]]: The spirit of the forest, and according to Eukos the most powerful of the tanshi, a leader of sorts, although whether the Deno'qai actually believed that the tanshi had a hierarchy, or whether this is Eukos' gloss, is unclear.
 
 Zafi: The spirit of the sunrise, the morning, mists, and fog.
 
