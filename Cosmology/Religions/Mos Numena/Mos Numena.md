@@ -1,9 +1,11 @@
 ---
-tags: [religion/mosnumena, background, status/needswork]
+tags: [religion/mosnumena, background, status/needswork/internal]
 name: Mos Numena
 aliases: [Eight Divines]
 ---
 # Mos Numena
+
+%% many notes to incorporate from comments, mostly, as well as festivals %%
 
 The practices and traditions associated with the worship of the Eight Divines are known, broadly, as Mos Numera, from the Drankorian for the Way of the Divine.
 
