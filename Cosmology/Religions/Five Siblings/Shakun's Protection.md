@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/notes, background]
+tags: [status/needswork/external, background]
 ---
 # Shakun's Protection
 
