@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/kestavo, status/unknown]
+tags: [deity, religion/kestavo,  status/tim, status/mike]
 ---
 ### Besla
 *she/her*
