@@ -88,7 +88,7 @@ So, major religious traditions in the northlands:
 
   
 
-2. The inland northerner culture has a distinct religious tradition that is related to the Kestavo. These people are now scattered across the inland areas of the north beyond Chardon, with few cities and low density. In many ways this tradition (tentatively Tanshi) and the Kestavo are quite similar and might share names and ideas of what the ‘high gods’ are, e.g. Arha and Malik and perhaps other “primordial” gods. However, the tanshi are not tied to place - they are spirits summoned by sacrifice. 
+2. The inland northerner culture has a distinct religious tradition that is related to the Kestavo. These people are now scattered across the inland areas of the north beyond Chardon, with few cities and low density. In many ways this tradition (tentatively Tanshi) and the Kestavo are quite similar and might share names and ideas of what the ‘[[high gods]]’ are, e.g. Arha and Malik and perhaps other “primordial” gods. However, the tanshi are not tied to place - they are spirits summoned by sacrifice. 
 
   
 
