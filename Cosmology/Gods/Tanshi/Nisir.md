@@ -1,8 +1,10 @@
 ---
-tags: [deity, religion/tanshi, status/unknown]
+headerVersion: 2023.11.25
+tags: [deity, religion/tanshi]
+pronunciation: nee-SEER
 ---
-
 # Nisir
+*(nee-SEER)*
 
 The tanshi of eagles, hawks, and other birds of prey, associated with perception and far sight, often offered feathers of birds and associated with divination.
 
