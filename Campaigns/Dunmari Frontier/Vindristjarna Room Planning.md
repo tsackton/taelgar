@@ -3,7 +3,7 @@
 
 The upper deck consists of, from stern to prow:
 
-* the shrine to the [[Tanshi|tanshi]], tended by [[Delwath]]   %% in future, a Deno'qai, [[Jotha]] %%
+* the shrine to the [[tanshi]], tended by [[Delwath]]   %% in future, a Deno'qai, [[Jotha]] %%
 * the elven garden and greenhouse, tended by [[Egnir]] %% still to be introduced %%
 * the elven tree, grown from seed by [[Kenzo]]
 * the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and the map room, tended by [[Wellby]] (%% assistant tbd %%)

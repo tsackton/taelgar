@@ -23,7 +23,7 @@ The [[Dunmar Fellowship]] reunites, shares their extraordinary experiences, and 
 
 ### Summary
 - The[[ Dunmar Fellowship]] reunites after a lengthy separation, sharing their separate adventures.
-- [[Delwath]], with allies, sought to restore the lost and trapped [[tanshi]] in the Forest of Nightmares.
+- [[Delwath]], with allies, sought to restore the lost and trapped [[Tanshi]] in the Forest of Nightmares.
 - [[Riswynn]] and her dwarven allies uncovered the history of the [[Chalice of the Runepriest]] in the [[Shadowfell]] realm of [[Morkalan]].
 - [[Kenzo]] restored balance in [[Orekatu]] by healing the spirit creature [[Motua]] at the [[Azta Lekua|Footprint of the Gods]]
 - [[Wellby]], after fleeing pirates, solved kidnappings in the[[ Vermillion Isles]] and sought to rescue a wizard.

@@ -234,7 +234,7 @@ Early Lore / Creation / Gods
 
   
 
-In the chaos of the Age of Creation, the Divine Presence watched as their children raised empires from the very form of existence. Towering castles of water floating through the stars as great wyrms flew across the sky trailing endless labyrinths of earth behind them. Titans taller than worlds shaped water and fire with their very hands, and created endless discs for their creations to stand upon. Form followed thought without hesitation, and the land was ever-changing and in flux. Yet in this unimaginable diversity of form, the Divine Presence saw nothing truly new -- only their children, echoed and repeated over and over, ever changing, but never truly different.
+In the chaos of the Age of Creation, the [[Divine Presence]] watched as their children raised empires from the very form of existence. Towering castles of water floating through the stars as great wyrms flew across the sky trailing endless labyrinths of earth behind them. Titans taller than worlds shaped water and fire with their very hands, and created endless discs for their creations to stand upon. Form followed thought without hesitation, and the land was ever-changing and in flux. Yet in this unimaginable diversity of form, the [[Divine Presence]] saw nothing truly new -- only their children, echoed and repeated over and over, ever changing, but never truly different.
 
   
 

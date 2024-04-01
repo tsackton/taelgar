@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/kestavo, status/unknown]
+tags: [deity, religion/kestavo, status/tim, status/mike]
 ---
 ### Vacla
 *he/him*
