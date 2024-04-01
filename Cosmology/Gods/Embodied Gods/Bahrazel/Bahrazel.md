@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/dwarven, status/cleanup/refactor]
+tags: [deity, religion/dwarven]
 displayDefaults: { defArt: the, ltItem: by}
 name: Bahrâzel
 aliases: [Bahrâzel]
