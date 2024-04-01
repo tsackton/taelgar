@@ -10,7 +10,7 @@ The first human emigrants from [[Hkar]] brought with them an early intercessory 
 
 Today, the northern folk religious traditions survive most distinctively in a number of religious practices that share a common worship of small, local gods, who bring prayers to the [[Divine Presence]]: the [[Tanshi]], the [[Kestavo]], and the [[Zariya]]. 
 
-%% need to establish naming here - the tanshi, kestavo, and zariya are names for the gods, are they also the names for the religions? %%
+%% need to establish naming here - the tanshi, kestavo, and zariya are names for the gods, are they also the names for the religions? real world analogs suggest both options, e.g. Shinto vs kami for separate names, or things like the old Norse religion which didn't really have a native name as far as I can tell, or at best was just something like "the old ways" post encounter with Christianity %%
 
 While these traditions have diverged in many respects, they share a number of key tenets and practices:
 - These religions all see the [[Divine Presence]] as a single entity, a distant, all-powerful creator, who cannot or will not hear the prayers of mortals. It is only the small gods, the various local divinities worshipped in these religions, that can carry the prayers of humanity to the source of Divine Power, and thus allow miracles to flow into the material world.
