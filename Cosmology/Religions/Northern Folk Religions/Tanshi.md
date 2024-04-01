@@ -1,24 +1,24 @@
 ---
 tags: [religion/tanshi, status/needswork/interal, status/needswork/external, background]
 ---
+# Tanshi Worship
 
-%% from Gdrive %%
+Among the Deno'qai, the ancient northerner culture west of the [[Sentinel Range|Sentinels]], the primary religious tradition is the worship of the [[Tanshi]], in the small gods tradition of the [[Northern Folk Religions]]. 
 
-### Tanshi
+## Tanshi
 
-This is the tanshi tradition. The gods of specific places are now less connected to places, and can be called and brought forth by sacrifice and prayer. But somehow there is still a tradition of small gods, not that powerful individually, who bring messages to the larger divines. 
+The Deno'qai worship hundreds of minor deities, called the [[Tanshi]]. These divinities are individually weak, and like other small gods in the northern folk traditions, primarily serve to carry prayers from humanity to the [[Divine Presence]], known as [[Divine Presence|Anida]], the "First and the Last", in the Deno'qai tradition. 
 
-  
+The Deno'qai believe that the natural world is full of these minor deities, and most of the [[Tanshi]] have small domains associated with natural phenomena: [[Deni]], the tanshi of redwoods; [[Nisir]], the tanshi of eagles and hawks; and [[Wenzi]], the tanshi of flowing water, are representative. 
 
-I don’t yet have a great reason for why these gods don’t accumulate power, since they are no longer tied to particular places. Of course it is possible that this is simply the consequence of the fact that they have so few worshippers, and they could become powerful. But also perhaps there were many of them once and many are still acknowledged, a different spirit for each little thing, which means that none individually accumulate a lot of belief and power. 
+## Prayer and Worship
 
-  
+In the tanshi worship tradition, it is believed that the tanshi cannot just hear any prayer. They are not powerful enough to pay attention to the whole world at once, and so prayers spoken without the proper rituals go unheard. 
 
-I think a connection to the primordial planes could be interesting here as well, not just to Arha and Malik. 
+To draw the attention of the tanshi you wish to hear your prayer requires the proper sacrifice, specific to the tanshi in question. This sacrifice need not be anything of particular value, it just must have the right association for the tanshi in question. For example, to draw [[Nisir]]'s attention may require the sacrifice, usually by burning, of a small bird feather. Most Deno'qai carry offering bags, containing trinkets of particular value to the tanshi, and all Deno'qai religious ceremonies and prayers involve offerings to the tanshi. 
 
-  
+## Temples and Sacred Places
 
-There is also the question of where these spirits actually reside. The Kestavo, based on the lore so far, seem to actually reside in Taelgar, not in a Spirit Realm, which leaves open the question of where the souls of the dead who follow this tradition go (primordial planes?). But this makes sense because of the tight connection to place; for the tanshi spirits, drawn by sacrifice, it seems less appropriate to have them so tied to Taelgar itself. But, of course, the primordial planes could work well. And would make sense for the primordial planes to have a close connection to these ‘small god’ traditions since the small god religions are in many ways the oldest in Taelgar, and certainly the most similar to the original human forms of religious practice. 
 
 
 
@@ -31,5 +31,17 @@ Gibirina: spirit of nuts and other foods that grow in trees. Particularly fond o
 Ch’ik’a - spirit of mud and dirt and puddles after rainfall and worms and slugs. Is said to be very whimsical and often prefers a sacrifice of say, a mud pie, to anything of real value. Is known to watch over children and others who delight in getting dirty.
 
 I'ko - spirit of mica and quartz and other stones that sparkle. Said to be particularly fond of the way sparkling stones glisten and well, sparkle, when wet. Is said to be fascinated with foreigners, and dwarves in particular
+
+%%
+
+%% old brainstorming notes kept for now in case they spark ideas
+
+This is the tanshi tradition. The gods of specific places are now less connected to places, and can be called and brought forth by sacrifice and prayer. But somehow there is still a tradition of small gods, not that powerful individually, who bring messages to the larger divines.   
+
+I don’t yet have a great reason for why these gods don’t accumulate power, since they are no longer tied to particular places. Of course it is possible that this is simply the consequence of the fact that they have so few worshippers, and they could become powerful. But also perhaps there were many of them once and many are still acknowledged, a different spirit for each little thing, which means that none individually accumulate a lot of belief and power. 
+
+I think a connection to the primordial planes could be interesting here as well, not just to Arha and Malik. 
+
+There is also the question of where these spirits actually reside. The Kestavo, based on the lore so far, seem to actually reside in Taelgar, not in a Spirit Realm, which leaves open the question of where the souls of the dead who follow this tradition go (primordial planes?). But this makes sense because of the tight connection to place; for the tanshi spirits, drawn by sacrifice, it seems less appropriate to have them so tied to Taelgar itself. But, of course, the primordial planes could work well. And would make sense for the primordial planes to have a close connection to these ‘small god’ traditions since the small god religions are in many ways the oldest in Taelgar, and certainly the most similar to the original human forms of religious practice. 
 
 %%
