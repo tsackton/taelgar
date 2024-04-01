@@ -20,7 +20,7 @@ The known world of Taelgar stretches 2,500 miles from the great city of [[Chardo
 
 - In the west, the vast [[Chardonian Empire]] extends north, east, and south from the imperial capital of [[Chardon]], growing rich and powerful on its magical scholarship and the might of its armies. 
 - On the outskirts of the [[Chardonian Empire]] dwell various scattered northerners, the descendants of the earliest [[humans]] to settle Taelgar. 
-	- In the forests and foothills on the eastern borders of [[Chardon]], the [[Deno'qai]] live in hidden villages, raising pigs and worshipping the [[tanshi]], the small gods of the land. 
+	- In the forests and foothills on the eastern borders of [[Chardon]], the [[Deno'qai]] live in hidden villages, raising pigs and practicing [[Tanshi Worship]], a religion focused on the small gods of the land. 
 	- On the coast of the [[Mawakel Peninsula]], the seafaring Mawar people have lived symbiotically with the ocean for generations uncounted.
 	- Further north, and on the various scattered coastal islands, other people may dwell, but little news reaches even educated commoners to the south and east of these lands. 
 - The vast forests between the [[Chardonian Empire]] and the [[Sentinel Range]] once were the home of the elven kingdom of [[Ainumarya]], but since the [[Great War]] the once vibrant cities of the [[elves]] have largely fallen silent. 
@@ -93,12 +93,12 @@ These gods are sustained by the belief of their [[Humans|human]] worshippers. Wh
 	* [[The Wanderer]] (god of travel, trade, strangers, and outcasts)
 	* [[The Wyrdling]] (genderless diety of chaos, luck, fate, storms, and weather)
 	* [[The Wildling]] (genderless diety of nature and elements)
-* The [[Kestavo]], an ancient religion still practiced in some places in the Sembaran highlands, and in [[Vostok]]. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the[[Kestavo| kestav]]o, bring the prayers of their communities to [[Ako]], the Divine.
+* The [[Kestavo]], an ancient religion still practiced in some places in the Sembaran highlands, and in [[Vostok]]. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the[[Kestavo| kestav]]o, bring the prayers of their communities to [[Divine Presence|Ako]], the Divine.
 * [[Five Siblings|The Five Siblings of the Dunmari]], the pantheon of the Dunmari people, brought with them from their distant ancestral homeland during their migration after the fall of [[Drankorian Empire|Drankor]]. A family pantheon, with five major divinities: 
 	* [[Jeevali]], the goddess of life, rebirth, home, and family;
 	* [[Laka]], the god of knowledge, agriculture, and the seasons
 	* [[Aagir]], the god of war, fire, and death; protector of soldiers 
 	* [[Sonkar]], the goddess of beauty, truth, artisans, and justice;
 	* [[Chidya]], the goddess of nature, the land, animals, and weather; worshiped especially by herders and shepherds and those who live a nomadic life
-- The [[tanshi]], the small gods of the [[Deno'qai]], who accept small sacrifices from their worshippers in exchange for carrying prayers
+- [[Tanshi Worship]], focused on the small gods of the [[Deno'qai]], who accept small sacrifices from their worshippers in exchange for carrying prayers
 - [[Kaikkea]], the ancient ocean mother, worshipped by the monotheistic mariner people of [[Skaerhem]]. 

@@ -1,15 +1,15 @@
 ---
-tags: [religion/tanshi, status/needswork/interal, status/needswork/external, background]
+tags: [religion/tanshi, background]
 ---
 # Tanshi Worship
 
-Among the Deno'qai, the ancient northerner culture west of the [[Sentinel Range|Sentinels]], the primary religious tradition is the worship of the [[Tanshi]], in the small gods tradition of the [[Northern Folk Religions]]. 
+Among the Deno'qai, the ancient northerner culture west of the [[Sentinel Range|Sentinels]], the primary religious tradition is the worship of the [[Tanshi Worship]], in the small gods tradition of the [[Northern Folk Religions]]. 
 
 ## Tanshi
 
-The Deno'qai worship hundreds of minor deities, called the [[Tanshi]]. These divinities are individually weak, and like other small gods in the northern folk traditions, primarily serve to carry prayers from humanity to the [[Divine Presence]], known as [[Divine Presence|Anida]], the "First and the Last", in the Deno'qai tradition. 
+The Deno'qai worship hundreds of minor deities, called the [[Tanshi Worship]]. These divinities are individually weak, and like other small gods in the northern folk traditions, primarily serve to carry prayers from humanity to the [[Divine Presence]], known as [[Divine Presence|Anida]], the "First and the Last", in the Deno'qai tradition. 
 
-The Deno'qai believe that the natural world is full of these minor deities, and most of the [[Tanshi]] have small domains associated with natural phenomena: [[Deni]], the tanshi of redwoods; [[Nisir]], the tanshi of eagles and hawks; and [[Wenzi]], the tanshi of flowing water, are representative. 
+The Deno'qai believe that the natural world is full of these minor deities, and most of the [[Tanshi Worship]] have small domains associated with natural phenomena: [[Deni]], the tanshi of redwoods; [[Nisir]], the tanshi of eagles and hawks; and [[Wenzi]], the tanshi of flowing water, are representative. 
 
 ## Prayer and Worship
 
@@ -19,9 +19,15 @@ To draw the attention of the tanshi you wish to hear your prayer requires the pr
 
 ## Temples and Sacred Places
 
+In the tanshi worship tradition, there is no conception of temples or other sacred places that are the locus of worship. The tanshi, it is believed, need only the ritual of an offering to hear prayers. Deno'qai villages, for example, do not have temples or other kinds of shrines or houses of worship. 
 
+That said, it is relatively common in Deno'qai villages to find ritual spaces reserved for sacrifice, and in some tanshi worshipping cultures it is believed that repeated sacrifice in the same ritual space, over time, strengthens the power of the offerings given there. In many southern Deno'qai villages, for example, it is common to see a "tanshi tree", usually an ancient and heavily coppiced, in a central location, with usually a simple but well-used stone altar nearby for offerings. 
 
+Some tanshi, it is believed, have particular connections to times or kinds of places, and for these tanshi, it is traditional to perform rituals and offerings, when possible, at the time and place the tanshi prefers. For example, sacrifices to [[Yezali]], tanshi of the hunt, and associated with twilight, are often made in the evening; and sacrifices to [[Tera]], the tanshi of bare rock and high points of land, are often made at high viewpoints. 
 
+## Godcallers
+
+In the Deno'qai tradition, most villages and tribes have at least one person, the Godcaller, who functions as a religious authority and lore-keeper. The Godcaller keeps the traditions and stories of the tanshi, the knowledge of what is needed to summon the dozens or hundreds of tanshi a particular tribe may have a connection to, and is responsible for ritual sacrifices and offerings associated with communal events and prayers. Godcallers also sometimes serve as something of a historian for their village or tribe, keeping the stories of miracles especially. While some Godcallers have a particular connection to the tanshi and are practitioners of divine magic, many are not. 
 
 
 %% tanshi invented but AFAIK not introduced - should probably just be canon
