@@ -1,13 +1,21 @@
 ---
-tags: [religion/fivesiblings, background, status/unknown]
+tags: [religion/fivesiblings, background]
 ---
+# Dunmari Religious Practices
 
-# Worship
+## Worship
 
 Dunmari worship practice is focused on two main distinct but equally important sets of rituals and traditions, one communal and one individual/familial, with a third strand of ritual practice associated with mystery cults. 
 
 The Dunmari see themselves as in communion with the Five Siblings, who are part of the Dunmari community. Temple practice, public festivals, and monuments represent the outward facing, communal aspects of worship, celebrating and giving thanks for their community with the gods. Personal prayer and family practice, on the other hand, is focused on individual needs, giving thanks, asking forgiveness, offering prayers for guidance and aid, and how individual relationships with one or more gods are celebrated. Finally, mystery cults explore the esoteric, secret side of the gods. Some focus on understanding the will of the gods, the hidden divine knowledge of the higher purpose of the Dunmari people. Others focus on achieving greater communion with the gods, through esoteric practices that can only be taught by direct instruction from master to initiate. 
-## Temple Practice
+### Personal Prayer 
+
+Although temples and communal religious rites play an important role in Dunmari society, most worship does not occur at them. Daily prayers, contemplation, and thanksgiving, as well as many personal and family rites, occur instead in personal or individual shrines.
+
+Although these are called shrines, physically they are portable icons and statuary of the gods. Most people have one of each of the Five gods, although some will have multiple versions, and occasionally individual travelers will just carry one. Mostly these are small icons, often statutes, that are easily portable and can be carried anywhere and set up easily to form a sacred space. 
+
+Daily prayers, family rituals, and even acknowledgement of festivals among travelers who cannot return to a village or temple happen before these icons. They are sometimes seen as part of the family, and some have been passed down for many generations, although occasionally they will be cremated with the deceased as a way to ensure the spirits of the dead reach the halls of the gods. 
+## Temples in Dunmari Religion
 
 The focus of worship practices that take place at temples is the community. Ceremonies about joining and leaving the community -- coming of age rites and funerals in particular -- take place at temples, as do communal acts of thanksgiving and prayer. 
 
@@ -43,13 +51,6 @@ Entry into the priesthood is universally through training and study with an exis
 Reflecting the sense that priests are in some sense one of the divine family, they are referred to as Brother or Sister. 
 
 The only formal, religious role of priests is to preside over festivals and public rites. In practice, most are also community leaders and civil administrators as well as religious figures. 
-## Personal Prayer 
-
-Despite the central role of temples in Dunmari society, most worship does not occur at them. Daily prayers, contemplation, and thanksgiving, as well as many personal and family rites, occur instead in personal or individual shrines.
-
-Although these are called shrines, physically they are portable icons and statuary of the gods. Most people have one of each of the Five gods, although some will have multiple versions, and occasionally individual travelers will just carry one. Mostly these are small icons, often statutes, that are easily portable and can be carried anywhere and set up easily to form a sacred space. 
-
-Daily prayers, family rituals, and even acknowledgement of festivals among travelers who cannot return to a village or temple happen before these icons. They are sometimes seen as part of the family, and some have been passed down for many generations, although occasionally they will be cremated with the deceased as a way to ensure the spirits of the dead reach the halls of the gods. 
 ## Rites and Rituals
 
 Rites and rituals in Dunmari culture are separated into communal rites, which take place at temple, and private rites, which take place before the family shrine. 
@@ -74,3 +75,18 @@ Unburied bodies, therefore, are a concern primarily because the soul may still b
 ## Festivals
 
 ![[Dunmari Festivals]]
+
+
+%% notes on possible other branches of the Dunmari people, not canon
+
+The later history of the Dunmari, post fall of Drankor, features two schisms. 
+
+- Some people did not follow Bhishma north, and remained on the edges of the desert; these are the SouthDunmari
+    
+- Others followed Bhishma, but turned east instead of west, and settled on the shores of the Green Sea, south of Cymea and around the mountains to the southeast; these are the EastDunmari
+    
+- The SouthDunmari and Dunmari are the significant majority of all Dunmari, with the EastDunmari a minority. 
+    
+- However, the SouthDunmari and the EastDunmari remained much closer to each other, and more connected, while the Dunmari diverged, so from a religious point of view there is basically the “Bhisma” branch and the “original” branch of the religion
+    
+%%

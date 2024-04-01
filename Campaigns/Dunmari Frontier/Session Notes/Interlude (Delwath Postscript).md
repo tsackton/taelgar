@@ -10,7 +10,7 @@ tagline: in which Delwath gathers news and returns to Dunmar
 ---
 ## Timeline
 
-- (DR:: 1748-10-14) - (DR_end:: 1748-10-21): Rest, gather information, celebrate, and commune with the Meswati at the [[Ko'zula]] village.
+- (DR:: 1748-10-14) - (DR_end:: 1748-10-21): Rest, gather information, celebrate, and commune with the [[Meswati]] at the [[Ko'zula]] village.
 - (DR:: 1748-10-21) - (DR_end:: 1748-10-23):Wander into the mountains, looking for [[Safri]]. Find a likely place to camp in the afternoon of Oct 23.
 - (DR:: 1748-10-24):Wait at camp.
 - (DR:: 1748-10-25):Meet [[Safri]], in deer form. Descend to [[Safri]]'s valley, and speak with her. 

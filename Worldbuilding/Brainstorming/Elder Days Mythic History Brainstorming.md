@@ -19,7 +19,7 @@ The way the mythic history of the world is supposed to work is the following:
 
   
 
-The idea behind 2 is to try to make this feel different than Tolkien. Tolkien doesn't really have a period when the elves are just kind of doing their thing -- the conflict with Morgoth runs through the entire first age, and even the mythic prehistory alternates between times when Morgoth is fighting and times when he is imprisoned. So I definitely want a time that is just kind of elder races doing their thing, with little or no conflict (excepting things like the sundering of the dwarves, and anything else that gets invented later to explain things like drow or other exotic races, like maybe if I ever want to use yuan-ti they can be sundered lizardfolk). There is also a nice kind of parallel to having period 2 end with Ahra and Malik stepping into the world to create humans and that allowing the Despairs to sneak in as well and do their thing; during period 2 the world is kind of preserved in glass in a way. 
+The idea behind 2 is to try to make this feel different than Tolkien. Tolkien doesn't really have a period when the elves are just kind of doing their thing -- the conflict with Morgoth runs through the entire first age, and even the mythic prehistory alternates between times when Morgoth is fighting and times when he is imprisoned. So I definitely want a time that is just kind of elder races doing their thing, with little or no conflict (excepting things like the sundering of the dwarves, and anything else that gets invented later to explain things like drow or other exotic races, like maybe if I ever want to use yuan-ti they can be sundered lizardfolk). There is also a nice kind of parallel to having period 2 end with Ahra and [[Divine Presence|Malik]] stepping into the world to create humans and that allowing the Despairs to sneak in as well and do their thing; during period 2 the world is kind of preserved in glass in a way. 
 
   
 
@@ -112,7 +112,7 @@ Not much happens.
 
   
 
-Around 1700-1800, humans created on Hkar, and the “evil races” created / let in in lost corners of the world. Humans grow fast, initially, . Other races start smaller, without protection of Ahra/Malik.
+Around 1700-1800, humans created on Hkar, and the “evil races” created / let in in lost corners of the world. Humans grow fast, initially, . Other races start smaller, without protection of Ahra/[[Divine Presence|Malik]].
 
 %%comment
  Some quick tweaking gives some possibilities:  

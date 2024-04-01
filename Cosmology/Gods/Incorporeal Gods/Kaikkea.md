@@ -1,10 +1,14 @@
 ---
-headerVersion: 2023.11.20
-tags: [deity, religion/skaer, status/unknown]
+headerVersion: 2023.11.25
+tags: [deity, religion/skaer]
 gender: female
+pronunciation: KAI-key-ah
 ---
 # Kaikkea
+*(KAI-key-ah)*
+>[!info]+ Summary  
+> she/her
 
-The ocean goddess of the Skaer people. Kaikkea is the source of all, the mother ocean, the giver of life but also the bringer of storms. She is worshipped as the embodiment of the ocean. 
+Kaikkea, known as the Great Ocean Mother, the Water of Life, and the Eternal Source, is the god of the Skaer people. She is worshipped as the source of all, the mother ocean, the giver of life, but also the bringer of storms and the embodiment of the ocean in all its moods. 
 
-She is an ancient god, and her worship dates to before [[The Downfall]]: the mariner people that left Hkar and originally settled the [[Green Sea]] several thousand years ago brought worship of Kaikkea to the mainland.
+Kaikkea is an ancient god. Her worship dates to well before [[The Downfall]], among the mariner culture of Hkar. These mariners brought the worship of Kaikkea to the [[Green Sea]] when they emigrated from Hkar thousands of years ago. 
