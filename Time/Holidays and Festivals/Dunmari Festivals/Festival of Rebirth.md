@@ -46,4 +46,69 @@ After the procession, public prayer continues at the shrine, and many people go 
 With this, a celebration starts -- in good years, when the shrine Jeevali is particularly impressive, these can last all night.
 
 The week before the Festival of Rebirth typically is a time for large, organized entertainment. In many communities, games and contests of strength and dexterity are held; in others, plays are performed. Markets spring up and people trade and make money. In a good year, wine and money flows freely; in a bad year, suspicion and dread replace them.
+
+The Festival of Rebirth (old see session for final)
+
+A major event in the Dunmari religious calendar is the festival of rebirth, celebrating the rebirth of Jeevali. This festival has its roots hundreds of generations ago, before the Dunmari came north; in their ancestral homes, it was associated with the start of the planting season. During the height of Dunmari power, it became associated with birthing season of animals. Now, with the weather changed and the land drier and more arid, the festival of rebirth is associated with the flowering of the desert in the late spring, when there has been enough rains in the winter, and the gathering of herders to trade before dispersing widely during the dry, hot summers.
+
+The festival centers around outdoor shrines to Jeevali. All Dunmari have a shrine to Jeevali somewhere, even if it is just a small statue carved of wood next to the campfire of a lone traveler. These shrines protect sources of water, keeping them safe from drying up or being contaminated. In larger villages, elaborate shrines stand watch over public fountains. Permanent shrines are always living things, growing often in incongruous places.
+
+The festival begins in the evening, when the old shrine to Jeevali is burned, along with sacrifices and appeasements to Jeevali, asking her to return and bless the people. This is a solemn ceremony of prayer, followed by fasting, with some religious devotees and priests of Jeevali keeping vigil.
+
+In the morning, the fast continues. A quiet procession through the city happens midday, with offerings to Jeevali given to the temple. The rich and powerful show their status with elaborate outfits and generous donations, although poor shepherds and herders typically also give what they can, as participation is seen as a way to guarantee Jeevali's blessing for the household.
+
+After the procession, public prayer continues at the shrine, and many people go to gather small tokens (desert flowers, seeds, feathers, reptile skins from molts, anything associated with rejuvenation, new life, etc) to place at the growing shrine. This continues until dusk, when a crowd gathers, and prayers are said. A chant starts at this point, coursing through the gathered people, and as the chant continues, if Jeevali's blessing is with the people, the shrine starts to grow. All the gathered tokens begin to coalesce, vines and green shoots sprout from the ground, and water begins to seep through the growing shrine. 
+
+With this, a celebration starts -- in good years, when the shrine Jeevali is particularly impressive, these can last all night. 
+
+The week following the Festival of Rebirth typically is a time for large, organized entertainment. In many communities, games and contests of strength and dexterity are held; in others, plays are performed. Markets spring up and people trade and make money. In a good year, wine and money flows freely; in a bad year, suspicion and dread replace them.
+
+POSSIBLY OLD - CHECK SESSION NOTES
+
+The Festival of Rebirth
+
+A major event in the Dunmari religious calendar is the festival of rebirth, celebrating the rebirth of Jeevali. This festival has its roots hundreds of generations ago, before the Dunmari came north; in their ancestral homes, it was associated with the start of the planting season. During the height of Dunmari power, it became associated with birthing season of animals. Now, with the weather changed and the land drier and more arid, the festival of rebirth is associated with the flowering of the desert in the late spring, when there has been enough rains in the winter, and the gathering of herders to trade before dispersing widely during the dry, hot summers.
+
+The festival centers around outdoor shrines to Jeevali. All Dunmari have a shrine to Jeevali somewhere, even if it is just a small statue carved of wood next to the campfire of a lone traveler. These shrines protect sources of water, keeping them safe from drying up or being contaminated. In larger villages, elaborate shrines stand watch over public fountains. Permanent shrines are always living things, growing often in incongruous places.
+
+The festival begins in the evening, when the old shrine to Jeevali is burned, along with sacrifices and appeasements to Jeevali, asking her to return and bless the people. This is a solemn ceremony of prayer, followed by fasting, with some religious devotees and priests of Jeevali keeping vigil.
+
+In the morning, the fast continues. A quiet procession through the city happens midday, with offerings to Jeevali given to the temple. The rich and powerful show their status with elaborate outfits and generous donations, although poor shepherds and herders typically also give what they can, as participation is seen as a way to guarantee Jeevali's blessing for the household.
+
+After the procession, public prayer continues at the shrine, and many people go to gather small tokens (desert flowers, seeds, feathers, reptile skins from molts, anything associated with rejuvenation, new life, etc) to place at the growing shrine. This continues until dusk, when a crowd gathers, and prayers are said. A chant starts at this point, coursing through the gathered people, and as the chant continues, if Jeevali's blessing is with the people, the shrine starts to grow. All the gathered tokens begin to coalesce, vines and green shoots sprout from the ground, and water begins to seep through the growing shrine. 
+
+With this, a celebration starts -- in good years, when the shrine Jeevali is particularly impressive, these can last all night. 
+
+The week following the Festival of Rebirth typically is a time for large, organized entertainment. In many communities, games and contests of strength and dexterity are held; in others, plays are performed. Markets spring up and people trade and make money. In a good year, wine and money flows freely; in a bad year, suspicion and dread replace them.
+
+  
+
+FESTIVAL
+
+  
+
+A major event in the Dunmari religious calendar is the festival of rebirth, celebrating the rebirth of Jeevali. This festival has its roots hundreds of generations ago, before the Dunmari came north; in their ancestral homes, it was associated with the start of the planting season. During the height of Dunmari power, it became associated with birthing season of animals. Now, with the weather changed and the land drier and more arid, the festival of rebirth is associated with the flowering of the desert in the late spring, when there has been enough rains in the winter, and the gathering of herders to trade before dispersing widely during the dry, hot summers.
+
+The festival centers around outdoor shrines to Jeevali. All Dunmari have a shrine to Jeevali somewhere, even if it is just a small statue carved of wood next to the campfire of a lone traveler. These shrines protect sources of water, keeping them safe from drying up or being contaminated. In larger villages, elaborate shrines stand watch over public fountains. Permanent shrines are always living things, growing often in incongruous places.
+
+The festival begins in the evening, when the old shrine to Jeevali is burned, along with sacrifices and appeasements to Jeevali, asking her to return and bless the people. This is a solemn ceremony of prayer, followed by fasting, with some religious devotees and priests of Jeevali keeping vigil.
+
+In the morning, the fast continues. A quiet procession through the city happens midday, with offerings to Jeevali given to the temple. The rich and powerful show their status with elaborate outfits and generous donations, although poor shepherds and herders typically also give what they can, as participation is seen as a way to guarantee Jeevali's blessing for the household.
+
+After the procession, public prayer continues at the shrine, and many people go to gather small tokens (desert flowers, seeds, feathers, reptile skins from molts, anything associated with rejuvenation, new life, etc) to place at the growing shrine. This continues until dusk, when a crowd gathers, and prayers are said. A chant starts at this point, coursing through the gathered people, and as the chant continues, if Jeevali's blessing is with the people, the shrine starts to grow. All the gathered tokens begin to coalesce, vines and green shoots sprout from the ground, and water begins to seep through the growing shrine. 
+
+With this, a celebration starts -- in good years, when the shrine Jeevali is particularly impressive, these can last all night. 
+
+The week or so prior to the Festival of Rebirth typically is a time for large, organized entertainment. In many communities, games and contests of strength and dexterity are held; in others, plays are performed. Markets spring up and people trade and make money.
+
+  
+
+Story of Jeevali:
+
+The festival of rebirth is a celebration of a major miracle. The story goes that when the Dunmari first settled the land, it was dry and dead, a barren landscape cursed by the plague. The people suffered, and died, from drought and hunger and fear. Jeevali wept for her people, crying tears that poured from the heavens, cleansing the land and purifying the soil. But as she cried, she put so much of her power and spirit into her tears that she began to fade away. She diminished, and was gone. 
+
+For a year, the people prayed, singing her name every day, calling to her, begging her to return. The first harvest, grain was sacrificed. The first lambs and calves and foals were sacrificed. As the winter rains fell gently on the land, the people prayed and chanted her name. In the spring, as new life began to grow from the fertile soil, Jeevali appeared as a XXXX symbol, the power of the belief of her people restoring her.
+
+Since then, the Dunmari have celebrated the Festival of Rebirth, marking the founding of Dunmar, the grace of Jeevali in saving the people, and the miracle of her restoration.**
+
 %%
