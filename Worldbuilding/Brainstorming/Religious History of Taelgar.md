@@ -45,7 +45,7 @@ It is during this time that the first humans leave Hkar, and begin to explore th
 
 #### Northern Folk Religions
 
-The various northern folk religious traditions -- the [[Tanshi]] and the [[Kestavo]] most prominently, but also whatever other religions might derive from the early northerner migrations -- grow out of this era of small gods, and share a few key features from this history:
+The various northern folk religious traditions -- [[Tanshi Worship]] and the [[Kestavo]] most prominently, but also whatever other religions might derive from the early northerner migrations -- grow out of this era of small gods, and share a few key features from this history:
 
 - The conception of gods in these religious traditions is personal and local. Gods, conceptually, are manifestations on the material plane of a divine essence, but are not omnipresent. If you want something from them, you need to draw their attention, with the right rituals, sacrifices, prayers, etc. In the tanshi tradition, this is primarily via sacrifices; in the kestavan tradition, this is by going to the place where the kestavo spirit dwells. But both traditions - and all other northern folk religions - share the basic framework that deities are not omnipresent.
 - This also affects funerary traditions, because it is crucial to make sure that a deity is there, to guide your soul into the land of the dead and protect it on its journey. You can't assume that a god will just happen to see you die and come help. 

@@ -8,7 +8,7 @@ tags: [status/mike, status/tim, background]
 The first human emigrants from [[Hkar]] brought with them an early intercessory religion, a belief that the spirits of the land would carry prayers to the [[Divine Presence]]. As these people spread across the west and north, these beliefs developed in various ways. 
 ## The Small Gods Religions
 
-Today, the northern folk religious traditions survive most distinctively in a number of religious practices that share a common worship of small, local gods, who bring prayers to the [[Divine Presence]]: the [[Tanshi]], the [[Kestavo]], and the [[Zariya]]. 
+Today, the northern folk religious traditions survive most distinctively in a number of religious practices that share a common worship of small, local gods, who bring prayers to the [[Divine Presence]]: [[Tanshi Worship]], the [[Kestavo]], and the [[Zariya]]. 
 
 %% need to establish naming here - the tanshi, kestavo, and zariya are names for the gods, are they also the names for the religions? real world analogs suggest both options, e.g. Shinto vs kami for separate names, or things like the old Norse religion which didn't really have a native name as far as I can tell, or at best was just something like "the old ways" post encounter with Christianity %%
 

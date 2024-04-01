@@ -24,9 +24,9 @@ She is a member of the [[Shu'anra]] tribe, who make their home far to the north,
 
 She knows many stories of the northern [[Deno'qai]]: how they were scattered during the [[Great War]]; how her tribe, the [[Shu'anra]], survived the [[Great War]] but fled into the [[Sentinel Range]] during the [[Blood Years]] in the face of [[Hobgoblins|hobgoblin]] armies and [[dragons]]; how her great-grandmother used to tell her tales of dragonfire raining from the sky when no where was safe; how when she was very young, many people ventured forth from the marginal lands the tribe had hidden in, seeking a better life, and how her extended family ended up in [[Elderwood|the Elderwood]]. 
 
-She also knows many tales from the north about the [[tanshi]]: about [[Yezali]], who protected the people of the far north, even further north than her tribe's territory, and other [[tanshi]] called the [[Meswati]] who were lost, with [[Yezali]], in the [[Great War]]. The stories of the lost [[tanshi]], she says, are still told in whatever enclaves of [[Deno'qai]] survive beyond the Blackwater Fens, in the northern reaches of the [[Forest of Dreams]]. 
+She also knows many tales from the north about the [[Tanshi]]: about [[Yezali]], who protected the people of the far north, even further north than her tribe's territory, and other [[Tanshi]] called the [[Meswati]] who were lost, with [[Yezali]], in the [[Great War]]. The stories of the lost [[Tanshi]], she says, are still told in whatever enclaves of [[Deno'qai]] survive beyond the Blackwater Fens, in the northern reaches of the [[Forest of Dreams]]. 
 
 ## Events
 - (DR:: 1671) *(Ariel)*: Left her home in the [[Forest of Dreams]], with her family and many others of the [[Shu'anra]] tribe, to find less marginal lands and better prospects to the south
 - (DR:: 1680) *(Ariel)*: Settled in [[Elderwood|the Elderwood]] with the [[Te'kula]] tribe
-- (DR:: 1748-09-11) *(Ariel)*: [[Session 52 (DuFr)|Meets]] [[Dunmar Fellowship]], and tells [[Delwath]] stories of the [[Deno'qai]] and the [[tanshi]]
+- (DR:: 1748-09-11) *(Ariel)*: [[Session 52 (DuFr)|Meets]] [[Dunmar Fellowship]], and tells [[Delwath]] stories of the [[Deno'qai]] and the [[Meswati]]
