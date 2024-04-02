@@ -1,8 +1,6 @@
 ---
-tags: [place, status/needswork/notes, status/unknown]
-campaignInfo:
+tags: [place, status/stub]
 name: South Dunmar Road
 typeOf: road
-partOf:
 ---
 %%  branches from the Dunmar Road just south of the Aursen River %%
