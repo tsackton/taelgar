@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/unknown]
+tags: [place, status/mike]
 name: Ausson's Crossing
 displayDefaults: {defArt: ''}
 typeOf: inn
@@ -13,3 +13,4 @@ partOf: Laicon
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% tagging to set status - I guess there is probably more detail to add here? %%

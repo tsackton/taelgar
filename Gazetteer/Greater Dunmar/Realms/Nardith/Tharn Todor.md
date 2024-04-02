@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/needswork/wip]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Tharn Todor
@@ -12,6 +12,8 @@ partOf: Nardith
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% some details in various notes from one shots with Riswynn, but otherwise just needs a bit of development %%
 
 The first city and capital of the Dwarven kingdom of [[Nardith]], in the [[Yuvanti Mountains]]. 
 

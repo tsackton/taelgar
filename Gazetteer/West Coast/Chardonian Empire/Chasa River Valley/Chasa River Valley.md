@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes, status/unknown]
+tags: [place, status/needswork/external]
 partOf: Chardonian Empire
 typeOf: watershed
 name: Chasa River Valley
@@ -9,3 +9,5 @@ name: Chasa River Valley
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% incorporate notes from OneNote %%
