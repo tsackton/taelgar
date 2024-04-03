@@ -7,11 +7,14 @@ gender: female
 >[!info]+ Summary  
 > she/her
 
-%% needs some thought about holy symbol %%
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 
 The Mother is usually pictured as a motherly woman, of child-bearing age, sometimes depicted pregnant, and usually with long, flowing hair and white robes, sometimes with flowers in her hair. She is the Goddess of birth and fertility, healing and wisdom. She is usually associated with the spring, and the moon, and the virtue of peace. She watches over births, planting and harvest, and the sick.
 
+![[the-mother-holy-symbol.png|right|150]]The holy symbol of the Mother is a seedling, with eight leaves, typically depicted in a symmetrical pattern with the eight leaves radiating from a central point. Sometimes stylized as a simple eight-lobed design, and occasionally set within a circle representing the moon and the cycles of the seasons. 
+
 %%
 In mechanical terms, her clerics would usually be associated with the Life or Peace domain.
 %%
+
+In art, the Mother is often depicted as the source of healing, and is associated with depictions of the cycle of seasons. She is often shown pregnant, and often associated with the bounty of life and the lushness of spring. 
