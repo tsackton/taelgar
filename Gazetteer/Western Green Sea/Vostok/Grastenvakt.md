@@ -5,11 +5,15 @@ aliases: [Gråstenvakt]
 tags: [place, status/needswork/internal]
 typeOf: wall
 whereabouts: Vostok
+pronunciation: GROH-sten-vahkt
 ---
 # Gråstenvakt
+*(GROH-sten-vahkt)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+Stretching four hundred miles across the highlands of Vostok is an ancient, mysterious wall. 
 
 %%the (giant, maybe?) name for the Vostok wall. no real details invented yet.
 
