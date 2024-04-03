@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/mike]
+tags: [deity, religion/mosnumena]
 gender: female
 ---
 # The Mother

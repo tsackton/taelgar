@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-campaignInfo: []
+tags: [person]
 name: Jon
 born: 1700
 species: human
@@ -12,10 +11,10 @@ affiliations:
 whereabouts: Cleenseau
 ---
 # Jon
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A deputy of Ysabel and gateguard; strong and quick with a spear.
+A deputy of [[Ysabel]] and gateguard; strong and quick with a spear. He was on the bridge during the [[Zombie Plague in Cleenseau]] and distinguished himself. A strong supporter of [[Beatrix Thorne|Béatrix Thorne]].
