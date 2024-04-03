@@ -25,7 +25,7 @@ descTitle: Reflections of Danger
 - The freed Kenku prisoners inform [[Wellby]] of the wizard [[Arryn]], who could help reach the [[Feywild]]; his apprentice, [[Resenna]], mentions Arryn's disappearance.
 - The adventurers sail north to find [[Arryn]], passing strange islands.
 - Upon arrival, they battle animated mirror shards and meet Arryn's steward, learning [[Arryn]] is trapped in the [[Mirror Realm]].
-- The party formulates a plan to enter the Mirror Realm, leading to a confrontation with their mirror duplicates.
+- The party formulates a plan to enter the [[Mirror Realm]], leading to a confrontation with their mirror duplicates.
 - The real [[Arryn]] is rescued by identifying and destroying his mirror duplicate, closing the portal to the[[ Mirror Realm]].
 - Arryn thanks the party, and helps Wellby reach the [[Feywild]].
 
