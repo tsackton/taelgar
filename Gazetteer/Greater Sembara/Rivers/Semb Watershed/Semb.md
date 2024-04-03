@@ -4,7 +4,7 @@ tags: [place]
 name: Semb
 displayDefaults: {defArt: "the"}
 typeOf: river
-partOf: Heartlands
+whereabouts: Heartlands
 aliases: [River Semb]
 ---
 # The Semb

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, event-source, status/needswork/external]
 campaignInfo:
 name: Great Library
-partOf: Chardon
+whereabouts: Chardon
 typeOf: library
 ---
 # The Great Library

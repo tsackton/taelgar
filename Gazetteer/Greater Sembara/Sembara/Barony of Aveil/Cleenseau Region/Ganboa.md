@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Ganboa
 pronunciation: Gan-bo-a
-partOf: Barony of Aveil
+whereabouts: Barony of Aveil
 typeOf: settlement
 ancestry: lizardfolk
 typeOfAlias: village
@@ -11,9 +11,9 @@ population: 62
 ---
 # Ganboa
 *(Gan-bo-a)*
->[!info]+ Information
-> pop. 62
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> pop. 62  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A small lizardfolk village a few miles downstream on the Enst, known in [[Cleenseau Region]] as a good source of healing herbs. Several lizardfolk from Ganboa are regulars at the markets in [[Cleenseau]] and [[Beury]].  Ganboa is built on a cul-de-sac in the [[Enst]] where the banks become very marshy and the river splits and a northerly channel meanders through several large marshy flats. It is a small village of only about a two dozen huts, about half scattered across the semi-permanent marsh islands, and the other half along the banks of the river. 

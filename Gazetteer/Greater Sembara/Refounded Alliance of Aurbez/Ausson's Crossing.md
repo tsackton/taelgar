@@ -5,7 +5,7 @@ name: Ausson's Crossing
 displayDefaults: {defArt: ''}
 typeOf: inn
 created: 1652
-partOf: Laicon
+whereabouts: Laicon
 ---
 # Ausson's Crossing
 >[!info]+ Information  

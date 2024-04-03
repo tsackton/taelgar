@@ -1,10 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 name: Cleenseau Region
 typeOf: region
-partOf: Barony of Aveil
+whereabouts: Barony of Aveil
 ---
 # The Cleenseau Region
 >[!info]+ Information  

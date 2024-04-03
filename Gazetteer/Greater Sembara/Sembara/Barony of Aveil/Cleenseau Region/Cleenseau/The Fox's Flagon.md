@@ -5,7 +5,7 @@ displayDefaults: {defArt: '', prep: at}
 name: The Fox’s Flagon
 created: 1689
 typeOf: inn
-partOf: Cleenseau
+whereabouts: Cleenseau
 aliases: [The Fox’s Flagon]
 ---
 # The Fox’s Flagon

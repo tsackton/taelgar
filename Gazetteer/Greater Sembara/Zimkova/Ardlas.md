@@ -4,7 +4,7 @@ tags: [place, status/needswork]
 campaignInfo: []
 name: Ardlas
 typeOf: realm
-partOf: Highland Kingdoms
+whereabouts: Zimkova
 ---
 # Ardlas
 >[!info]+ Information  

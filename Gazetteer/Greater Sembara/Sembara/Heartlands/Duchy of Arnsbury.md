@@ -4,7 +4,7 @@ tags: [place, status/needswork]
 campaignInfo:
 name: Duchy of Arnsbury
 typeOf: duchy
-partOf: Sembara
+whereabouts: Sembara
 ---
 # The Duchy of Arnsbury
 >[!info]+ Information  
