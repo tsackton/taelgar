@@ -27,7 +27,7 @@ While the university controls the largest portion of land in the Academia Quarte
 
 Architecturally, most lecti mimic the Great Library, with towers rising above the main building or building complex, which gives the university district a distinctive and impressive skyline. 
 
-Some of the more famous lecti include [[Sybil's Hall]], one of the original colleges of the University, and [[Maruso Lectum]], endowed by and named after an extremely wealthy adventurer. 
+Some of the more famous lecti include [[Sibyl's Hall]], one of the original colleges of the University, and [[Maruso Lectum]], endowed by and named after an extremely wealthy adventurer. 
 
 %% note
 The lecti are named XXX Hall or XXX Lectum. The halls are associated with various external orders, whether gods or something else, while the lecti are patronage based, although this is not a perfect rule.

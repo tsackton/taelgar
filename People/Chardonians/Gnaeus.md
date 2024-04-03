@@ -13,10 +13,10 @@ whereabouts:
 - {type: home, location: Chardon}
 ---
 # Gnaeus
->[!info]+ Biographical Info
-> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% copy stuff from OneNote, I guess mostly not secrets anymore; update whereabouts to capture Elderwood time, add campaign info %%
