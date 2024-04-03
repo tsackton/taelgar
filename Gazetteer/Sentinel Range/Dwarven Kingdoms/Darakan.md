@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 typeOf: city
 ancestry: dwarven
 whereabouts: Khatridun
-tags: [place, status/unknown]
+tags: [place, status/needswork/wip]
 ---
 # Darakan
 >[!info]+ Information  
