@@ -1,16 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person]
 name: Lucas
-born:
+born: 1667
 species: human
 ancestry: Maseuan
 gender: male
-whereabouts: Duchy of Maseau
+whereabouts: Evis
 ---
 # Lucas
 >[!info]+ Biographical Info  
 > A Maseuan [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Lucas is a 52-year-old priest of the Wanderer from Evis. He was recently rescued from the clutches of the ogre Wakog. %%
+An acolyte of [[The Wanderer]], captured by [[Wakog]] and rescued from his camp after the [[Battle Against Wakog]]. He sheperded many of the survivors back to [[Evis]].

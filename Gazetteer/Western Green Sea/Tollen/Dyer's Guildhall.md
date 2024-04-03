@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/tim]
 typeOf: guildhall
-partOf: Tollen
+whereabouts: Tollen
 name: Dyer's Guildhall
 ---
 # The Dyer's Guildhall
@@ -10,3 +10,4 @@ name: Dyer's Guildhall
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% per [[Status Tags]] note, it should be ok to remove stub but I'm not sure what it should be %%

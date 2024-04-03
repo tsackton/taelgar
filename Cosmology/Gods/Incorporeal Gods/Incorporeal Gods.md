@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/needwork/internal]
+tags: [background, status/needswork/internal]
 ---
 # Incorporeal Gods
 

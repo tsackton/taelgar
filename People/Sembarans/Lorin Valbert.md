@@ -9,8 +9,9 @@ gender: male
 affiliations:
 - { place: Manor of Asineau, start: 1715, end: 1720-01-13, title: Lord }
 whereabouts:
-- {type: home, location: Embry}
-- {type: home, location: Asineau}
+- {type: home, location: Embry, end: 1715 }
+- {type: home, location: Asineau, end: 1720-01-13 }
+- {type: away, location: Champimont, start: 1720-01-14 }
 ---
 # Lorin Valbert
 >[!info]+ Biographical Info  
@@ -24,5 +25,9 @@ whereabouts:
 He has a wife and two young children who often reside in [[Embry]].
 
 %%^Campaign:Clee%%
-During the [[Battle Against Wakog]] he was notably unhelpful and did not wish to strip his manorial guard to aid the attack on [[Wakog|Wakog's]] camp.
+During the [[Battle Against Wakog]] he was notably unhelpful and did not wish to strip his manorial guard to aid the attack on [[Wakog|Wakog's]] camp. 
+%%^End%%
+
+%%^Date:1720%%
+He fled his manor after the [[Zombie Plague in Cleenseau]], in part because he was convinced some of the misfortune of the Asa family was falling on him, and partly because he was scared and did not want to deal with the [[Undead Attacks in Sembara]].
 %%^End%%
