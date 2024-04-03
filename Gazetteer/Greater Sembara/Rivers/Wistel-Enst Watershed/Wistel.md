@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/wip]
 name: Wistel
 typeOf: river
-partOf: Sembara
+whereabouts: Sembara
 ---
 # Wistel
 >[!info]+ Information  
