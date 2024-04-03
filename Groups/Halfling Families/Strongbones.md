@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/stub]
+tags: [organization/family, status/tim]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Strongbones
@@ -12,6 +12,7 @@ ancestry: halfling
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
+%% Tim: anything to add %%
 
 %%^Campaign:None%%
 ### Members

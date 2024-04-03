@@ -1,5 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
+typeOf: gorge
+whereabouts: South Dunmar Road
 ---
-%% A remarkable gorge where the South Dunmar Road crosses the Douren River. No information exists or has been made up, just a possible place %%
+# The Heuren Gorge
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+A remarkable gorge where the [[South Dunmar Road]] crosses the [[Douren]] River. 

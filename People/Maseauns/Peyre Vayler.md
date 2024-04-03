@@ -1,18 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [ person, dufr/unaware, status/unknown]
-campaignInfo: []
+tags: [person]
 name: Peyre Vayler
 born: 1655
 species: human
-ancestry: Sembaran
+ancestry: Maseaun
 gender: male
 whereabouts: Evis
+title: Lord
+affiliations: [{org: Evis, type: leader}]
 ---
-# Peyre Vayler
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+# Lord Peyre Vayler
+>[!info]+ Biographical Info  
+> A [[Duchy of Maseau|Maseaun]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Marcher Lord of [[Evis]], he is known as a fair and just lord, although his two daughters are bitter rivals and his inability to choose an heir has left the March of Evis paralyzed somewhat over the last year or two as his health has declined.
+The Lord of [[Evis]], he is known as a fair and just lord, although his two daughters are bitter rivals and his inability to choose an heir has left Evis paralyzed somewhat over the last year or two as his health has declined.

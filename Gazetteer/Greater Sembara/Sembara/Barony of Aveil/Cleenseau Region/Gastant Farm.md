@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/clee]
+tags: [place, status/needswork/wip]
 typeOf: settlement
 typeOfAlias: farmhouse
 whereabouts: Manor of Cleenseau
