@@ -26,6 +26,6 @@ whereabouts:
 
 The founding ruler and Samraat of the Dharajun dynasty, associated with [[Chidya]] and often called the dynasty of the horse. 
 
-Jita was born in the empty plains of northwestern Dunmar, near current-day Songara. In DR 1402, at just 16, she won several decisive victories against Thundering Axe Horde, driving them across the Mahar. Soon after she was proclaimed Samraat, founding a new dynasty under the protection of Chidya. 
+Jita was born in the empty plains of northwestern Dunmar, near current-day [[Songara]]. In DR 1402, at just 16, she won several decisive victories against Thundering Axe Horde, driving them across the Mahar. Soon after she was proclaimed Samraat, founding a new dynasty under the protection of Chidya. 
 
 Her primary court was based in Tokra, which grew dramatically during the 57 years of her rule. 

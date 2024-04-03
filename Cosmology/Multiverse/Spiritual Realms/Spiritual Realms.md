@@ -1,7 +1,6 @@
 ---
 tags: [status/needswork/wip, place]
 ---
-
 # The Spiritual Realms
 
 The realms of the creations of belief - the gods and demons born of the belief or humanity, and the embodied gods created by the [[high gods]] themselves, inhabit the spiritual realms. 

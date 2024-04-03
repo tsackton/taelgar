@@ -38,7 +38,7 @@ The [[Dunmar Fellowship]], after a narrow escape, traps a poison troll, and jour
 - (DR:: 1748-07-26): Travel west towards the Darba side of the [[Copper Hills]]. 
 - (DR:: 1748-07-26), evening: Reach the waystation and safe haven of Padma's estate, spend the night. Gather rumors and tales of Darba and report on the death of the wyverns.
 - (DR:: 1748-07-27) - (DR_end:: 1748-07-29): Travel west along the [[Tokra-Darba Road]]
-- (DR:: 1748-07-30): Reach the trade road from Songara, turn southwest towards Darba.
+- (DR:: 1748-07-30): Reach the trade road from [[Songara]], turn southwest towards Darba.
 - (DR:: 1748-07-31) - (DR_end:: 1748-08-08): Travel along trade road towards Darba.
 
 ### Mirror of the Past
