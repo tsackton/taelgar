@@ -1,8 +1,11 @@
 ---
-tags: [place, status/unknown]
+tags: [place]
+typeOf: plane
 ---
-# The Energy Realms
+# The Astral Plane
 
 %% copied over a bunch of my secret notes from my secret multiverse doc, so some details do exist. if it becomes necessary / relevant, I think it probably does not give away too much to write this up as a regular page, with publish exclusions for all campaigns.%%
 
-The elemental planes, and the plane of magic itself, are known as the energy realms, and are connected to the material plane by the [[Ethereal Plane]]. 
+Often described as a vast, empty, silvery sea, marked only by wisps of stray thought, the Astral Plane is the interstitial space in which the spiritual realms exist. 
+
+%%SECRET[1]%%
