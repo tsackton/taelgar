@@ -9,3 +9,5 @@ These include:
   - The primal realms, associated with the first days of humanity when belief was strong and curses, madness, hope, and beauty could all engender realms. 
   - The divine realms, homes of the gods
   - The proximate realms, that make up the borders between the material plane and the spiritual realms
+
+%%SECRET[1]%%
