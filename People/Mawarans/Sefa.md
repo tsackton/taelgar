@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/background, person, dufr/unaware, status/unknown]
+tags: [person, status/cleanup/header]
 campaignInfo: []
 name: Sefa
 born:
 species: human
 ancestry: Mawaran
 gender: female
-died: 1747
-whereabouts: Mawar Confederacy 
+died: 1747-08-05
+whereabouts: Hamri
 ---
 # Sefa
 >[!info]+ Biographical Info  
@@ -16,3 +16,9 @@ whereabouts: Mawar Confederacy
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% cleanup campaign info %%
+Sefa is an older woman, poor and addicted to [[gatza]], who lives alone in the Drowned Flats, in Hamri. 
+
+%%^Date:1747-08-05%%
+She was killed by [[Azar the Lost]], in misguided quest to restore his dead wife using the waters of the [[Sentient Ocean]]. 
+%%^End%%

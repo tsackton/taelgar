@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/minor, person, dufr/aware, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/internal]
 campaignInfo: []
 name: Cloudspinner
 born:
@@ -16,6 +16,8 @@ whereabouts:
 >[!info]+ Biographical Info
 > A [[Fey|fey]] ([[Fey|archfey]]) (she/her)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% fix whereabouts, campaign info; update page with lore about cloak of rainbows and people of the rainbow and conflict with Cha'mutte  %%
 
 The Queen of Sunset was once the ruler of [[Amberglow]], known for spinning beautiful, magical thread from the clouds and sky. But long ago she vanished, and her realm has fallen into decay since that day.  
 

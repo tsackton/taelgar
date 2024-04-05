@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/cleanup/header, status/needswork/external]
 campaignInfo:
 - {campaign: DuFr, date: 1748-10-23, type: met}
 name: Dain Goldhammer
@@ -18,6 +18,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on October 23rd, 1748 in [[Illoria]], the [[Nevos Sea]] %%^End%%
+
+%% clean up whereabouts, add notes from OneNote %%
 
 An adventurer, working for the [[Society of the Open Scroll]], funded by [[Fausto]]. Often travels with [[Dee Wildcloak]]. 
 

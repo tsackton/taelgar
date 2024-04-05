@@ -1,5 +1,5 @@
 ---
-tags: [place, status/needswork/notes]
+tags: [place, status/stub]
 ---
 
 %% 
