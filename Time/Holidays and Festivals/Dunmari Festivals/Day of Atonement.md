@@ -1,3 +1,3 @@
 ---
-tags: [holiday, status/needswork]
+tags: [holiday, status/stub]
 ---

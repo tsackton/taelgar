@@ -4,7 +4,7 @@ tags: [place, status/needswork, status/mike, status/tim]
 name: Zimkova
 typeOf: realm
 aliases: [ Highland Kingdoms ]
-partOf: Western Green Sea Region
+whereabouts: Western Green Sea Region
 campaignInfo: []
 ---
 # Zimkova

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Forest of Nightmares
 typeOf: forest
-partOf: Ainumarya
+whereabouts: Ainumarya
 ---
 # The Forest of Nightmares
 >[!info]+ Information  

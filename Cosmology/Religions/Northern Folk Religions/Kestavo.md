@@ -6,9 +6,9 @@ tags: [religion/kestavo, background, status/mike, status/tim]
 
 %% needs a pass to determine what is canon, what is brainstorming, what is obsolete %%
 
-The *kestavo* is the ancient religion of northern Sembara and the Highlands, and is still practiced in some places in the highlands. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to [[Ako]], the Divine. 
+The *kestavo* is the ancient religion of northern Sembara and the Highlands, and is still practiced in some places in the highlands. It is a religion focused around small gods, the spirits of villages, streams, and hills, who are celebrated in their communities. These spirits, the kestavo, bring the prayers of their communities to [[Divine Presence|Ako]], the Divine. 
 
-Although most kestavo are worshipped only by the people of their particular town or village, some kestavo have gained great fame and pilgrims come from far and wide to their shrines to ask for blessings to be passed along to [[Ako]]. These include:
+Although most kestavo are worshipped only by the people of their particular town or village, some kestavo have gained great fame and pilgrims come from far and wide to their shrines to ask for blessings to be passed along to [[Divine Presence|Ako]]. These include:
 
 * [[Romil]], the glacier king, with his shrine in the tallest mountains in the north
 * [[Kamak]], the lurker, who dwells at the bottom of the great Lake Kamchak
@@ -18,9 +18,9 @@ The kestavo are not the only spirits in the land, however. The cruel west wind, 
 
 ## The Kestavan Religions
 
-At the heart of Kestavan practices is the local shrine, the home of a kestavo. Each spirit has a home in a specific place, usually a shrine, and watches over the inhabitants of that place. Within their homes, they have great power, and can bring the blessings of [[Ako]] to their worshippers. But their domains are small, and limited to what is nearby their homes. The kestavo do not live in great heavenly palaces, watching over all of Taelgar; they live in small shrines, tended by the community, local places of devotion. A few kestavo, of great fame, live in two, three, or even a dozen shrines, but no spirit can divide itself too much without dispersing on the winds, an unquiet ghost. And so to gain the blessing of even the greatest and most famous kestavo, one must travel, to their shrines. 
+At the heart of Kestavan practices is the local shrine, the home of a kestavo. Each spirit has a home in a specific place, usually a shrine, and watches over the inhabitants of that place. Within their homes, they have great power, and can bring the blessings of [[Divine Presence|Ako]] to their worshippers. But their domains are small, and limited to what is nearby their homes. The kestavo do not live in great heavenly palaces, watching over all of Taelgar; they live in small shrines, tended by the community, local places of devotion. A few kestavo, of great fame, live in two, three, or even a dozen shrines, but no spirit can divide itself too much without dispersing on the winds, an unquiet ghost. And so to gain the blessing of even the greatest and most famous kestavo, one must travel, to their shrines. 
 
-In the ancient days, many kestavo were known far and wide, and pilgrims would come to their great shrines, which became centers of highland culture. Today, many of these shrines are abandoned, the kestavo gone. Only a few of the most famous kestavo still attract pilgrims, and mostly only in the far north of [[Zimkova]]: [[Romil]], the glacier king, with his shrine on the slopes of the [[Sentinel Range]]; [[Kamak]], the lurker, who dwells at the bottom of [[Lake Kamchak]], and has shrines dotting the shores; and [[Besla]], who came to the land in the ancient days from the [[Green Sea]], and each spring asks [[Ako]] to send the waters of her homeland to her for company, and thus brings the monsoon rains.  
+In the ancient days, many kestavo were known far and wide, and pilgrims would come to their great shrines, which became centers of highland culture. Today, many of these shrines are abandoned, the kestavo gone. Only a few of the most famous kestavo still attract pilgrims, and mostly only in the far north of [[Zimkova]]: [[Romil]], the glacier king, with his shrine on the slopes of the [[Sentinel Range]]; [[Kamak]], the lurker, who dwells at the bottom of [[Lake Kamchak]], and has shrines dotting the shores; and [[Besla]], who came to the land in the ancient days from the [[Green Sea]], and each spring asks [[Divine Presence|Ako]] to send the waters of her homeland to her for company, and thus brings the monsoon rains.  
 
 As the Drankorian traditions of [[Mos Numena]] spread, many adopted the new religion with its powerful divines, but held to some of the ancient traditions. Others held to the old ways, and kept the local shrines.
 
@@ -32,7 +32,7 @@ A new town/community must attract a protector spirit, either because one is alre
 
 Some spirits watch over many villages, and are therefore much more powerful… but also, much less focused on any one village.  
 
-Most practice is centered around maintaining the shrine; specific worship doesn’t necessarily occur in the shrine, but it is the house of the god, literally. It is very important that it be well kept, clean, decorated. Sometimes, this means a building -- but if the kestavo lives in a waterfall in the forest, it might mean ensuring no one draws the water or something. The practice also includes specific rituals around giving prayers and wishes to pass on to [[Ako]], and practices and rituals to scare off or bribe the children of Ziva.   
+Most practice is centered around maintaining the shrine; specific worship doesn’t necessarily occur in the shrine, but it is the house of the god, literally. It is very important that it be well kept, clean, decorated. Sometimes, this means a building -- but if the kestavo lives in a waterfall in the forest, it might mean ensuring no one draws the water or something. The practice also includes specific rituals around giving prayers and wishes to pass on to [[Divine Presence|Ako]], and practices and rituals to scare off or bribe the children of Ziva.   
 
 %%google comment
 Specific practice is worth developing.   
@@ -45,7 +45,7 @@ Specific practice is worth developing. 
 * Specific rituals around a new shrine, enlarging, moving, splitting?
 %%
 
-Each kestavo also can only carry prayers to [[Ako]] if they are nearby. This leads to both pilgrimages to specific shrines as well as a great importance on having a shrine in each community, as a center of worship. A new village cannot be established if no kestavo will watch over it.
+Each kestavo also can only carry prayers to [[Divine Presence|Ako]] if they are nearby. This leads to both pilgrimages to specific shrines as well as a great importance on having a shrine in each community, as a center of worship. A new village cannot be established if no kestavo will watch over it.
 
 %%
 Note kestavo have no extraplanar presence. This makes everything click - it is why they can’t grant prayers themselves, for example.  I do think this would imply that there are not faded kestavo drifting around the astral plane. Instead there would be places in Taelgar with ghost gods.
