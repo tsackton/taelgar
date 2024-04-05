@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/unknown]
+tags: [person, status/cleanup/refactor, status/cleanup/header]
 campaignInfo: []
 name: Hagrim of Morkalan
 born:
@@ -19,7 +19,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% needs significant refactoring %%
+%% needs significant refactoring, and add campaign info %%
 
 ![[hagrim-portrait.png|right|400]]A dwarf, once known as Hagrim Firebrand, who made a name for himself in the [[Great War]], but was unable to forget or move past the horrors he saw in battle against mind flayers and the aberrations of the deep, fighting under the halls of [[Ardith]]. Whether he was broken by battle or his mind was corrupted by those evils, he returned a changed man. 
 

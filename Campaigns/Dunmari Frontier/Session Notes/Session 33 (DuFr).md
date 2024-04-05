@@ -17,7 +17,7 @@ name: Dunmari Frontier - Session 33
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]]*
 > *In Taelgar: Jun 20, 1748 DR to Jun 30, 1748 DR*
 > *On Earth: Sunday Oct 24, 2021*
-> *From [[Karawa]] to [[Tokra]]*
+> *From [[Karawa]] to [[Tokra]], following the [[Stoneway]]*
 
 The [[Dunmar Fellowship]]'s journey to [[Tokra]] is marked by a conversation with a strange fey named [[Typhina]], and magical encounters both wondrous and dangerous. 
 
@@ -34,7 +34,7 @@ The [[Dunmar Fellowship]]'s journey to [[Tokra]] is marked by a conversation wit
 - (DR:: 1748-06-21): Travel uneventfully west towards [[Tokra]]. Discuss the possible evils of magic items with [[Garret Tealeaf]].
 - (DR:: 1748-06-22): Travel west towards [[Tokra]]. Seeker contacted telepathically by [[Typhina]], a native of the feywild trapped in the ring recovered from [[Agata]]. Much later, the party will learn this is actually Agata, playing a role. 
 - (DR:: 1748-06-23): Travel uneventfully west towards [[Tokra]].
-- (DR:: 1748-06-24): Travel west towards [[Tokra]]. Stop to examine the ruins of ancient Drankorian aqueduct, with a lingering enchantment to purify water, and increase it, duplicating what is already flowing. Meet a family of Dunmari goat herders camped for a few days near the aqueduct. Stay the afternoon and evening.
+- (DR:: 1748-06-24): Travel west towards [[Tokra]]. Stop to examine the ruins of ancient Drankorian aqueduct along the [[Stoneway]], with a lingering enchantment to purify water, and increase it, duplicating what is already flowing. Meet a family of Dunmari goat herders camped for a few days near the aqueduct. Stay the afternoon and evening.
 - (DR:: 1748-06-25) - (DR_end:: 1748-06-29): Continue west towards [[Tokra]].
 - (DR:: 1748-06-30), early afternoon: Arrive at the outskirts of Tokra. Cross the bridge, pay the toll. [[Wellby]] takes Garrett to the halfling inn in town, [[The Red Lily Inn]]. Rest of party continues south to the [[Lakan Monastery]],  where they are welcomed by an ancient monk, [[Rishi]], [[Kenzo]]'s master and teacher.
 

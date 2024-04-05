@@ -17,7 +17,7 @@ name: Dunmari Frontier - Session 42
 > *Featuring: [[Kenzo]], [[Wellby]], [[Delwath]], [[Seeker]], [[Riswynn]]*
 > *In Taelgar: Jul 13, 1748 DR to Jul 18, 1748 DR*
 > *On Earth: Sunday Mar 13, 2022*
-> *[[~AncientWestRoad~]]*
+> *[[Stoneway]]*
 
 The [[Dunmar Fellowship]] receives gifts, rumors, and magic in [[Tokra]], and then sets out towards [[Darba]].
 ## Session Info
@@ -35,8 +35,8 @@ The [[Dunmar Fellowship]] receives gifts, rumors, and magic in [[Tokra]], and th
 - (DR:: 1748-07-15), morning: Receive portable hole, as well as instructions on its care and use, from [[Basu]]. Finalize business in [[Tokra]]. 
 - (DR:: 1748-07-16), morning. Depart [[Tokra]], heading west, with [[Johar]]. 
 - (DR:: 1748-07-16), evening: Spend the night at a roadside caravanserai a day's journey west of [[Tokra]].
-- (DR:: 1748-07-17): Travel west along the [[~AncientWestRoad~]]. Spend the night at a caravanserai.
-- (DR:: 1748-07-18): Travel west along the [[~AncientWestRoad~]].
+- (DR:: 1748-07-17): Travel west along the [[Stoneway]]. Spend the night at a caravanserai.
+- (DR:: 1748-07-18): Travel west along the [[Stoneway]].
 - (DR:: 1748-07-18), evening: Arrive at the crossroads where the [[Tokra-Darba Road]] turn south and west.  Spend the night at the [[~Crossroads Caravanserai~]]. Speak with the [[Greenleafs]], who report on rumors of a dragon on the road. Speak with [[Marcella]]. 
 
 ### Mirror of the Past

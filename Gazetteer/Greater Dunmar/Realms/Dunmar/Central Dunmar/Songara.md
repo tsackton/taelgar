@@ -12,7 +12,7 @@ whereabouts: Central Dunmar
 
 %% check Dunmar map and see whether Songara is actually on the river or north of it %%
 
-Songara is the westernmost city in [[Dunmar]], on the [[~AncientWestRoad~]] near the [[Myraeni Gap]] and the tradition western boundary of the realm of [[Dunmar]]. 
+Songara is the westernmost city in [[Dunmar]], on the [[Stoneway]] near the [[Myraeni Gap]] and the tradition western boundary of the realm of [[Dunmar]]. 
 
 Songara is located in the productive [[~Songara Plains~]] on the western edge of the [[Dunmari Basin]], along the [[Sone]]. It is a major center of animal husbandry and horse rearing in Dunmar, and historically grew around the ancient horse markets. Relatively untouched by the upheavals after the [[Great War]], Songara is among the oldest extant Dunmari cities. It was a major power center of the [[Dharajun Dynasty]], strongly associated with [[Jita]], the founder of that dynasty. 
 
