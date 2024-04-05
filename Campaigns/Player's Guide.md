@@ -65,11 +65,11 @@ Rumors exist of **[[orcs]]**, freed from the curse of the evil [[Thark|God of Wa
 And rumors of stranger beings persist: small **[[gnomes]]**, the surface-dwelling distant cousins of [[dwarves]]; the **[[merfolk]]** who rarely emerge from their underwater kingdoms to visit the terrestrial world; and other fantastical beings of myth and legend. 
 ## Religion and Divinity
 
-Many diverse deities can be found across the lands of Taelgar. The high gods, [[Arha]] and [[Malik]], who created the cosmos and embody the essence of divinity itself, take on many names among the sentient beings of Taelgar, though are rarely worshipped directly, and do not answer prayers or grant divine magic. The embodied gods, created by [[Arha]] and [[Malik]], are worshipped as the Firstborn by their sentient creations. The incorporeal gods, given form by the ineffable Divine Spark of humanity, form the basis of the diverse religions of [[humans]] on Taelgar. 
+Many diverse deities can be found across the lands of Taelgar. The high gods, [[Divine Presence|Arha]] and [[Divine Presence|Malik]], who created the cosmos and embody the essence of divinity itself, take on many names among the sentient beings of Taelgar, though are rarely worshipped directly, and do not answer prayers or grant divine magic. The embodied gods, created by [[Divine Presence|Arha]] and [[Divine Presence|Malik]], are worshipped as the Firstborn by their sentient creations. The incorporeal gods, given form by the ineffable Divine Spark of humanity, form the basis of the diverse religions of [[humans]] on Taelgar. 
 ### Embodied Gods
 The direct creations of the Divine, the embodied gods were given physical form by the High Gods, given permanence and consciousness, and the Divine power to create. Not dependent upon belief for their power, the embodied gods created people in their image.
 
-The Firstborn, created by [[Arha]] and [[Malik]], gave rise to the [[Elder Folk]]: 
+The Firstborn, created by [[Divine Presence|Arha]] and [[Divine Presence|Malik]], gave rise to the [[Elder Folk]]: 
 - Aldanor and Elmerca, the Living Tree and the Wild Star of the [[elves]]
 - Entamba, the Elder Mountain of the [[stoneborn]]
 - Hazkunde, Bero, Udazkena, and Negu, known as Spring, Summer, Autumn, and Winter, the four Tharzen Anzinakoa of the [[lizardfolk]]
