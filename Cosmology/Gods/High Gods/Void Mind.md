@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-status: [deity]
+tags: [deity]
 displayDefaults: {defArt: "the"}
 ---
 # The Void Mind
