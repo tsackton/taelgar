@@ -14,7 +14,7 @@ partOf: Taelgar
 
 ## Boundaries
 
-The West Coast Region includes the entirety of the [[Chardonian Empire]], as well as the [[Nevos Sea]]area, the [[Mawakel Peninsula]], and the [[~Voltara Plains~]], plus the coastal regions west and north of the [[~Voltara Plains~]]. It also includes the islands in the [[Endless Ocean]]. 
+The West Coast Region includes the entirety of the [[Chardonian Empire]], as well as the [[Nevos Sea]] area, the [[Mawakel Peninsula]], and the [[Erbalta Plains]], plus the coastal regions west and north of the [[Erbalta Plains]]. It also includes the islands in the [[Endless Ocean]]. 
 
 - To the north, this region is bordered by the mysterious cold of the [[Far North]]. 
 - To the east, this region is bordered by the [[~North Nahadi River~]], [[Ainumarya]], and the [[Myraeni Gap]].
@@ -29,10 +29,10 @@ The West Coast Region includes the entirety of the [[Chardonian Empire]], as wel
 - [[Lake Valandros]]: *Huge lake, with no canonical details. Likely somewhat dry on the west side and humid and rainy on the east side, just from mountain influence. Probably also agricultural - rice production for example might be common.*
 - [[Mawakel Peninsula]]: *See Mawar notes. Currently unresolved is if this is more of a Cool Maritime Climate (Cfb) with limited winter snow, as currently marked (analogy: coastal Ireland, Pacific NW), or if this is more of a Subpolar Oceanic Climate (Cfc) with heavy winter snowfall and limited agriculture (analogy: Iceland or Norwegian coasts). I guess I have leaned towards the former, with the further north coast beyond Mawar more of the Norway analog.*
 - [[~Great Bay~]]: *Lots of land northeast of Mawar. The east coast, near Voltara, has a bit of detail from Great Library campaign, but otherwise this is totally open and undeveloped.*
-- [[~Voltara Plains~]]: *Canon: center for chalyte mining - mountainous and arid with extensive plains.*
+- [[Alimas]]: *Canon: center for chalyte mining - mountainous and arid with extensive plains.*
 - [[Tawir Forest]]: *So far just a name.*
 - [[Chasa River Valley]]: *agricultural mixed with forests, major population center*
-- [[~Yeraad River Valley~]]: *southeast of Chardon, south of Chasa/Elderwood. Major lizardfolk area, mining in the hills that separate it from Chasa, and in the "Darba Mountains". Very little detail otherwise - probably fairly flat, hot in the summer. This is basically med transitioning to semi-arid in the east and south, likely supporting fruit trees near the coast, and extensive livestock, probably the center of the Chardon cattle industry.*
+- [[Yeraad River Basin]]: *southeast of Chardon, south of Chasa/Elderwood. Major lizardfolk area, mining in the hills that separate it from Chasa, and in the "Darba Mountains". Very little detail otherwise - probably fairly flat, hot in the summer. This is basically med transitioning to semi-arid in the east and south, likely supporting fruit trees near the coast, and extensive livestock, probably the center of the Chardon cattle industry.*
 - [[~Emerald Bay Peninsula~]]: *Undeveloped until the kelp forest adventure off the coast.* 
 - [[Nevos Sea]] and [[Emerald Bay]]: *trending into subtropics here*
 

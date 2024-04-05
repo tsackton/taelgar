@@ -1,6 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/namecheck, status/tim]
+tags:
+  - place
+  - status/namecheck
+  - status/tim
 typeOf: river
 whereabouts: Chasa-Nahadi Watershed
 ---
@@ -13,3 +16,4 @@ whereabouts: Chasa-Nahadi Watershed
 %% (Voltara plains; named for an old Northros river spirit) %%
 
 %% Tim: needs some indication of where it is %%
+

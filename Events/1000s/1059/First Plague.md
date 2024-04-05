@@ -1,8 +1,12 @@
 ---
-tags: [event-source, status/namecheck, status/needswork/notes, status/needswork]
+tags:
+  - event-source
+  - status/namecheck
+  - status/needswork/notes
+  - status/needswork
 campaignInfo: []
 name: First Plague
-aliases:
+aliases: 
 DR: 1059
 ---
 # The First Plague
@@ -16,3 +20,4 @@ probably should not be called "The First Plague"; minimally, needs another name 
 
 have some notes to search, but also need to develop a bit of the logic of how it worked, as needed
 %%
+

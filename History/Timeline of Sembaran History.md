@@ -32,7 +32,7 @@ In the highlands, the [[Zimkova|Zimka]] kept the old ways, although along the bo
 ## The Plague Years
 DR 1059 - DR 1250
 ### Overview
-In DR 1059, the [[Great Plague]] came and the Drankorian Empire collapsed. Little information survives from these years, and it was a time of much hardship, especially amongst the more populous lowland regions, where famine struck repeatedly. This was a dark time.
+In DR 1059, the [[First Plague]] came and the Drankorian Empire collapsed. Little information survives from these years, and it was a time of much hardship, especially amongst the more populous lowland regions, where famine struck repeatedly. This was a dark time.
 ###
 * (DR:: 1142): [[Adrian]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]]
 
