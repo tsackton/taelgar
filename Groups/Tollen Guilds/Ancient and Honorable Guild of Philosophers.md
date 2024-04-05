@@ -22,7 +22,7 @@ It is common knowledge in [[Tollen]] that the Philosopher's Guild will exchange 
 
 People who deal with the guild typically receive letters, arriving by magic and from strange sources, with the information they requested. Whether the writers of these letters are aliases, members of the guild, or something stranger is not know. 
 
-%%Campaign:dufr%%
+%%^Campaign:dufr%%
 The [[Dunmar Fellowship]] has received many of these letters, from a variety of strange names:
 - The Flamewarden, the [[Philosopher's Information Concerning Frankar|writer of a letter]] concerning [[Frankar]] and the [[Elemental Plane of Fire]]
 - The Ninth Artificer, the [[Philosopher's Information Concerning Binding Stones|writer of a letter]] concerning an ancient magical item know as the [[Binding Stones]]. 

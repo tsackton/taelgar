@@ -1,10 +1,10 @@
 ---
-tags: [event, status/unknown]
+tags: [event, status/needswork/wip]
 campaignInfo: []
 name: The Downfall
 aliases: [Downfall]
 ---
-
+%% needs major rewrite%%
 ### The Downfall
 
 The scholars of the elves describe the Downfall, the events surrounding the fall of Hkar and the wars against the spawn of the Three Despairs, thusly:

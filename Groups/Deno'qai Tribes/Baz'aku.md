@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization, status/needswork/external]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Baz'aku
@@ -13,3 +13,5 @@ whereabouts: Elderwood
 > A [[Deno'qai]] tribe
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%need to copy notes from OneNote %%

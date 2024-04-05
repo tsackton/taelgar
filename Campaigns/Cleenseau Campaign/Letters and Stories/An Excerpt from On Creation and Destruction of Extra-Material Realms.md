@@ -17,7 +17,7 @@ The most interesting part is an excerpt criticizing the play from a "realism" st
 
 > A Fool's Fortune lacks *hilarity* because it depicts each fairy's realm as a source of conflict between the various high fairies. We are told in On Creation and Destruction of the Immaterial Realms:
 
->>  Each magical kingdom is the domain of its master and subject to the magic of its ruler. Cloudspinner, in the field of her golden *footsteps*, exudes beauty, and Gloomshaper, in his realm of revenge and heartbreak, evokes melancholy and anxiety, but both work with the same raw materials. Gloomshaper is an informative example. Elves of [[Orenlas]] tell us that he was banished from Twilight's Grace for wreaking havoc among humans, and a new kingdom was *built around* him to show his *bitterness* and jealousy. It's called Duskmire and it shows us how the fairy kingdoms become their rulers.
+>>  Each magical kingdom is the domain of its master and subject to the magic of its ruler. [[Cloudspinner]], in the field of her golden *footsteps*, exudes beauty, and Gloomshaper, in his realm of revenge and heartbreak, evokes melancholy and anxiety, but both work with the same raw materials. Gloomshaper is an informative example. Elves of [[Orenlas]] tell us that he was banished from Twilight's Grace for wreaking havoc among humans, and a new kingdom was *built around* him to show his *bitterness* and jealousy. It's called Duskmire and it shows us how the fairy kingdoms become their rulers.
 
 > While fiction certainly takes liberties with the truth, in this case it would be better to structure Estelis' journey in the fairy realms, as a *shootout between the mighty*. After all, most of us in public know better!
 
@@ -25,7 +25,7 @@ The most interesting part is an excerpt criticizing the play from a "realism" st
 
 A Fool's Fortune lacks verisimilitude as it portraits each fey realm as a source of conflict between various arch fey. On the Creation and Destruction of Extra-Material Realms tells us:
 
-> Each fey realm is the domain of its lord, and bends itself to the whims of its ruler. Cloudspinner in her realm of golden sunsets creates beauty, whereas the [[Lord Umbraeth|Gloomshaper]] in his realm of vengeance and resentment creates gloom and unease - but both work with the same raw materials. The Gloomshaper is an instructive case study. We are told by the elves of [[Orenlas]] that he was banished from Twilight's Grace for misdeeds amongst the humans, and a new realm formed around him to reflect his bitterness and envy.  Duskmire it is called, and it shows us exactly how the fey realms come to be like their rulers.
+> Each fey realm is the domain of its lord, and bends itself to the whims of its ruler. [[Cloudspinner]] in her realm of golden sunsets creates beauty, whereas the [[Lord Umbraeth|Gloomshaper]] in his realm of vengeance and resentment creates gloom and unease - but both work with the same raw materials. The Gloomshaper is an instructive case study. We are told by the elves of [[Orenlas]] that he was banished from Twilight's Grace for misdeeds amongst the humans, and a new realm formed around him to reflect his bitterness and envy.  Duskmire it is called, and it shows us exactly how the fey realms come to be like their rulers.
 
 Although of course fiction is welcome to take liberties with the truth, in this case, it would have been better to structure Estelis' journey as *between* fey realms, a pawn between the mighty. After all, many of us in the audience know better!
 

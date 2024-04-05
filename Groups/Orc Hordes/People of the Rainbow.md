@@ -31,7 +31,7 @@ For the next five hundred years, the People of the Rainbow lived a hunted existe
 
 Now, the People of the Rainbow are thriving in [[Xurkhaz]], and perhaps in other hidden pockets of the world. 
 ### Events
-- (DR:: 917): [[Cloak of Rainbows]] is gifted to the People of the Rainbow by Cloudspinner
+- (DR:: 917): [[Cloak of Rainbows]] is gifted to the People of the Rainbow by [[Cloudspinner]]
 - (DR:: 930)-(DR_end:: 950): People of the Rainbow begin to drift out of the feywild, seeking to free their chained brethren
 - (DR:: 1050): [[Apollyon]] attacked the People of the Rainbow and the [[Cloak of Rainbows|Cloak of Rainbows]] was lost.
 - (DR:: 1582): [[Uzgash]] finds the [[Cloak of Rainbows|Cloak of Rainbows]] in a Dunmari fort in the [[Nashtkar]]
