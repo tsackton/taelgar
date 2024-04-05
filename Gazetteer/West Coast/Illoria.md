@@ -4,7 +4,7 @@ tags: [place, status/needswork]
 campaignInfo: []
 name: Illoria
 typeOf: archipelago
-partOf: Nevos Sea
+whereabouts: Nevos Sea
 pronunciation: ih-LOHR-ee-ah
 ---
 # Illoria

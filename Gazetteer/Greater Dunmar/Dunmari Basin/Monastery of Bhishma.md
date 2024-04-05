@@ -6,7 +6,7 @@ typeOfAlias: monastery
 subTypeOf: 
 affiliations: [{org: Bhishma, type: primary }]
 ancestry: Dunmari
-partOf: Garamjala Desert
+whereabouts: Garamjala Desert
 ---
 # The Monastery of Bhishma
 >[!info]+ Information
