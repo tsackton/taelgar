@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork, place]
+tags: [status/stub, place]
 whereabouts: Dunmari Basin
 ---
 
