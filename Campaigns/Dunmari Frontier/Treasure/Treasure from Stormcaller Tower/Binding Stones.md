@@ -8,9 +8,9 @@ typeOf: wonderous item
 rarity: legendary
 ---
 # The Binding Stones of Amloch
->[!info]+ Information
-> (legendary wonderous item)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> (legendary wonderous item)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A set of five crystals, each a different color, originally located on the crown carved into the stone head of [[Hralgar]] in [[Stormcaller Tower]]. [[Seeker]]’s study reveals these are part of a complex mechanism to imprison, incapacitate, and then draw magical power from a creature, but exactly how to combined them to create magical effects is not yet clear. 

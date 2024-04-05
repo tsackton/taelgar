@@ -1,18 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/tim]
+tags: [organization/family]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Strongbones
 typeOf: family
 ancestry: halfling
+whereabouts: Tokra
 ---
 # The Strongbones
 >[!info]+ Information  
 > A [[Halflings|halfling]] family  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim: anything to add %%
+A family of halfling innkeepers and merchants, traditionally based in [[Central Dunmar]], most recently [[Tokra]]. 
 
 %%^Campaign:None%%
 ### Members
