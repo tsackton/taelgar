@@ -20,6 +20,7 @@ Major items:
 - [[Vicious Shortsword]] (rare major item)
 - [[Boots of Speed]] (rare major item)
 - [[Flaming Bowstring]] (uncommon major item)
+- Frostshard Shortbow (uncommon major item). Purchased in Zvervinka. 
 
 Minor items:
 - [[Saddle of the Bonded Companion]] (rare minor item)
@@ -42,6 +43,7 @@ Major items:
 - [[Soul Tattoo]] (rare major item)
 - [[Ring of Jumping]] (uncommon major item)
 - [[Wand of Caustic Arrows ]](uncommon major item)
+- Dragonscale cloak (rare major item). Purchased in Zvervinka; made of the scales and claws of a white dragon. 
 
 Minor items:
 - [[Driftglobe]] (uncommon minor item)
@@ -67,6 +69,7 @@ Major items:
 - [[Glove of Crystalized Magic]] (very rare major item)
 - [[Ring of the Warded Mind]] (uncommon major item)
 - [[Pearl of Power]] (uncommon major item)
+- Dragonhide Studded Leather (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
 
 Minor items:
 - [[Chanceweaver’s Dice]] (rare minor item)
@@ -94,6 +97,7 @@ Major items:
 - [[Shatterstorm]] (rare major item)
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [[Riswynn]] in exchange for her aid.
 - [[Silverspark Gauntlets]] (uncommon major item)
+- Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
 - Masterwork shield, constructed of 7.5 lb of [[Skaer steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
 
 Minor items:
@@ -142,11 +146,11 @@ The following mundane items are kept on [[Vindristjarna]]:
 - 66 copper disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 7,000 Dwarven gold coins (7,000 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 4,113 Chardonian gold coins (4,113 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
-- 2000 Tollender silver goins (200 gp, from The [[Flaming Tempest]])
+- 2000 Tollender silver coins (200 gp, from The [[Flaming Tempest]])
 - 200 Sembaran gold coins (200 gp, from The [[Flaming Tempest]])
 - 115,000 Chardonian silver coins (11,500 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 60,000 Chardonian copper coins (600 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
-- 25,000 ancient Elven silver coins (5,000 gp; 5 elven silver = 1 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
+- 11,500 ancient Elven silver coins (2,300 gp; 5 elven silver = 1 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 30,000 mixed Drankorian coins (5,000 gp, could be more to the right collector, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 200,000 mixed coins from the Kin-Asa city state (6,000 gp, could be more to the right collector, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 7 1/2 heavy gold bars, each weighing 10 pounds and worth 500 gp (total value 3750 gp), recovered from the Elemental Forge
