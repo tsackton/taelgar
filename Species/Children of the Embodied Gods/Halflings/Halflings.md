@@ -30,6 +30,13 @@ As travelers driven by wanderlust, most halflings find themselves in professions
 
 Halflings are also noted musicians and bards and storytellers. Halfling artists and musicians, in particular, tend to embrace the notion of music as unique and improvised experience which expresses a universal form -- that the musical changes are the changes but the thing created over them is always unique -- which mirrors halfling understanding of selfhood: that each individual is both unique and, at the same time, merely an expression of an undifferentiated universal oversoul of halfling-ness. Halfling music is usually improvisational because of this, and, in Taelgar, they are the originators of jazz and related musical traditions.njoy living life to its fullest no matter where they may be, and are eternal optimists even in dire times.  
 
+### Sea Shanties
+
+Halflings sing on their ships. Here are two popular halfling songs.
+
+The Green Sea Calls: ![[The Green Sea Calls.mp3]]
+The Dyes of Tollen:
+![[Dyes of Tollen.mp3]]
 #### Halfing Names
 
 Halflings have given names and family names, which are often derived from nicknames, professions, or family lore.
