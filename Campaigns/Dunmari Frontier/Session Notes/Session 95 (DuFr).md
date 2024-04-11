@@ -24,8 +24,9 @@ The [[Dunmar Fellowship]], after engaging with local politics and acquiring new 
 ## Media
 
 A popular Urskan folk song, sung at the campfire while traveling with [[Karel]]
-![[Ursk Sings of Spring.mp3]]
-### Summary
+
+![mp3](/assets/audio/ursk-sings-of-spring.mp3)
+
 - The [[Dunmar Fellowship]] prepares for departure in [[Zvervinka]], gathering supplies and purchasing magic items.
 - They learn of the [[Rodnya]] factions and tensions, specifically the low status of [[Rodnya Voknaz]] after mismanaged dragon attacks.
 - Traveling south with a merchant caravan, they reach [[Volya]] and then turn west towards [[Yamgov]] and [[Voknaz Manor]].
