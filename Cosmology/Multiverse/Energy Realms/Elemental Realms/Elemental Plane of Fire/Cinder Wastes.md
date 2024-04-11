@@ -4,7 +4,6 @@ tags: [place]
 whereabouts: Elemental Plane of Fire
 typeOf: region
 ---
-
 # The Cinder Wastes
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  

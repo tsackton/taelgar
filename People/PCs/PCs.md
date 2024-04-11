@@ -9,12 +9,18 @@ Major campaigns have included:
 
 - The [[Heroes of the Great War]], a campaign run by Tim and featuring [[Rai]], [[Kyr]], [[Aerin]], and [[Beryl]], were active in DR 1544-1545 in Taelgar, and 1993-1997 in the real world
 - The Gray Tempest, a campaign run by Tim and featuring Adrick, Samso, Brelith, and Aelar, with some occasional guests, were active from DR 1747-48 in Taelgar, and from 2019-2023 in the real world. 
-- The Dunmar Fellowship, sometimes known as the Side Quests, a campaign run by Tim and featuring [[Wellby]], [[Seeker]], [[Delwath]], and [[Kenzo]], with frequent appearances by [[Riswynn]], and many other guests, were active from DR 1748- in Taelgar, and from 2020- in the real world.
+- The [[Dunmar Fellowship]], sometimes known as the Side Quests, a campaign run by Tim and featuring [[Wellby]], [[Seeker]], [[Delwath]], and [[Kenzo]], with frequent appearances by [[Riswynn]], and many other guests, were active from DR 1748- in Taelgar, and from 2020- in the real world.
 - The [[Heroes of Cleenseau]], a campaign run by Mike and featuring [[Izgil Moonseeker|Izgil]], [[Robin of Abenfyrd|Robin]], [[Celyn]], and [[Viepuck]], were active in DR 1719- in Taelgar and from 2023- in the real world
 
 In addition, several shorter adventures and series of one-shots have included:
 
-- The heroes and adventurers of [[Hamri]], in the [[Mawar Confederacy]]
-- Tollen one shot
-- Historical one shot (stone titan)
-- Labyrinths of the Lost
+- The [[Mawar Adventures]], following the exploits of the heroes and adventurers of [[Hamri]], in the [[Mawar Confederacy]]
+- The [[Labyrinths of the Lost]], a short adventure in [[Western Cymea]]
+- The Stone Titan, a short adventure set in [[Dunmore]] and the [[Western Marches]] during the wars in the years following the [[Great War]]. %%note - which of the Sembaran wars this is set during was never canonically established, all it needs is (a) a war on the western frontier during which Dunmore is occupied by Sembarans, and (b) weird magic and mind flayers are involved. Sentinel Ranger War, or the First Hobgoblin War, are the most likely culprits%%
+- Tollen Adventures, a pair of one-shots set in the city of [[Tollen]]. %%note - likely somtime in the 1740s but never canonically placed in time. %%
+- A variety of adventures featuring [[Riswynn]] and [[Oskar]] set in and around the [[Yuvanti Mountains]]. %%note - these were Riswynn adventures during the time the rest of the party was traveling around the desert, the first journey to Kharsan, and dealing with Agata%% 
+
+%% to add:
+- Ausson's Crossing Mini Series
+- Plaguelands Campaign (potentially non-canonical, as it faded before the climax)
+%%
