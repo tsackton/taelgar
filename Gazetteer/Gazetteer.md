@@ -10,7 +10,7 @@ name: Map of Taelgar
 
 ```leaflet 
 id: world-of-taelgar
-image: [[map-2024-01-02.png]] 
+image: [[taelgar-world-map.png]] 
 bounds: 
 - [0,0]
 - [5156.7, 6636.233]
