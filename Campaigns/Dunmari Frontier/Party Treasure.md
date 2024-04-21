@@ -148,7 +148,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - 4,113 Chardonian gold coins (4,113 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 2000 Tollender silver coins (200 gp, from The [[Flaming Tempest]])
 - 200 Sembaran gold coins (200 gp, from The [[Flaming Tempest]])
-- 115,000 Chardonian silver coins (11,500 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
+- 110,000 Chardonian silver coins (11,000 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 60,000 Chardonian copper coins (600 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 11,500 ancient Elven silver coins (2,300 gp; 5 elven silver = 1 gp, from [[Mezzar|Grimbaskal]]'s Hoard)
 - 30,000 mixed Drankorian coins (5,000 gp, could be more to the right collector, from [[Mezzar|Grimbaskal]]'s Hoard)

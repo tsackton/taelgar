@@ -6,7 +6,7 @@ typeOf: mountain range
 whereabouts: Northern Green Sea
 aliases: [Hrimthur]
 ---
-# The Sivnjo Mountains
+# The Svinjo Mountains
 *(SHEEF-nyo)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  

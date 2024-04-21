@@ -19,7 +19,7 @@ pronunciation: VOS-tok
 - some details of the wall, primarily a name, need to be filled in from Vimfrost's War, along with details of the history with Sembara / Derik III
 %%
 
-Vostok, the "homeland of the Vos," is a land of many rivers, bitter winters, and few people, generally defined as the land northeast of the [[Volta]] river and southwest of the [[Sivnjo Mountains]], between the [[Green Sea]] and the cold dry plains of the kenku in the northwest. 
+Vostok, the "homeland of the Vos," is a land of many rivers, bitter winters, and few people, generally defined as the land northeast of the [[Volta]] river and southwest of the [[Svinjo Mountains]], between the [[Green Sea]] and the cold dry plains of the kenku in the northwest. 
 
 Most of the population lives in the southern part of Vostok, called Voslaag ("home of the lowlanders"; often called South Vostok or South Vosland in [[Sembara]]), within a hundred miles of the coast, and along the lower [[Kem]] river valley. This is a region of few cities, few roads, and difficult travel, with lots of uninhabited land even within the most organized territories of major clans and chiefs. Boats, both on the rivers and the coastal [[Green Sea]], are crucial to trade, travel, and communication throughout Voslaag. 
 
@@ -27,7 +27,7 @@ Most of the population lives in the southern part of Vostok, called Voslaag ("ho
 
 Few people live in the forests and hills of the northern plateaus, the region called Voskald ("homeland of the people of the cold"; often referred to as North Vostok or North Vosland in Sembara). Much more than the people of Voslaag, the Voskalders are closely connected by culture and shared history with the [[Zimkova]], especially the traditionalists in the north.  
 
-Far to the north, the border of Vostok is demarcated with a massive and ancient wall. Stretching 400 miles from the [[Sentinel Range]] to the [[Sivnjo Mountains]], this wall is no longer maintained or defended by the people of Vostok or anyway else. It was built in some distant mythical past, so long ago that none now remember its purpose, except perhaps among the elves. Yet, due to the skill and magic woven into its construction, it still stands nearly as strong as ever today. 
+Far to the north, the border of Vostok is demarcated with a massive and ancient wall. Stretching 400 miles from the [[Sentinel Range]] to the [[Svinjo Mountains]], this wall is no longer maintained or defended by the people of Vostok or anyway else. It was built in some distant mythical past, so long ago that none now remember its purpose, except perhaps among the elves. Yet, due to the skill and magic woven into its construction, it still stands nearly as strong as ever today. 
 
 ![[vostok-map.jpg]]
 
