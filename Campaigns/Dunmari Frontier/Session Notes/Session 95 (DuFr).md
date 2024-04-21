@@ -4,7 +4,7 @@ campaign: Dunmari Frontier
 sessionNumber: 95
 realWorldDate: 2024-03-26
 DR: 1749-04-15
-DR_end: 1749-05-02
+DR_end: 1749-05-03
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 95
 tagline: in which the party navigates Urskan politics and faces a crucial choice
@@ -27,6 +27,7 @@ A popular Urskan folk song, sung at the campfire while traveling with [[Karel]]
 
 ![mp3](/assets/audio/ursk-sings-of-spring.mp3)
 
+## Summary
 - The [[Dunmar Fellowship]] prepares for departure in [[Zvervinka]], gathering supplies and purchasing magic items.
 - They learn of the [[Rodnya]] factions and tensions, specifically the low status of [[Rodnya Voknaz]] after mismanaged dragon attacks.
 - Traveling south with a merchant caravan, they reach [[Volya]] and then turn west towards [[Yamgov]] and [[Voknaz Manor]].

@@ -24,7 +24,7 @@ whereabouts:
 
 ![[umli-the-exile-portrait.png|right|320]]Umli is tall, imposing stoneborn, with gray skin marked with intricate patterns reminiscent of intertwining metalwork and intense obsidian-like eyes. She is a master metalworker and smith, known for her unparalleled mastery of metallurgy and her knowledge of the elemental plane of fire. 
 %%^Date:1732%%
-Born in the southern [[Sivnjo Mountains]], she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] since DR 1732. 
+Born in the southern [[Svinjo Mountains]], she was exiled from her Stoneborn community for reasons she keeps private, and has lived in [[Tollen]] since DR 1732. 
 %%^End%%
 %%^Date:1738%%
 Though loosely affiliated with the [[University of Tollen]], she does not teach open lectures. She only takes private students who are the most skilled and dedicated at working with rare metals. 
