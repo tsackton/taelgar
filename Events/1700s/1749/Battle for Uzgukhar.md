@@ -15,4 +15,4 @@ typeOf: battle
 The final battle of the War of the Cloak, fought by the [[People of the Rainbow|orcs of Xurkhaz]] and the [[Dunmar Fellowship]] against the armies of [[Grash]]. A [[Session 88 (DuFr)|victory]] for the Dunmar Fellowship and their allies. 
 
 The orcs sing this song about the Heroes of Uzgukhar:
-![[Heroes of Uzgukhar.mp3]]
+![[heroes-of-uzgukhar.mp3]]
