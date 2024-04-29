@@ -34,9 +34,9 @@ Halflings are also noted musicians and bards and storytellers. Halfling artists 
 
 Halflings sing on their ships. Here are two popular halfling songs.
 
-The Green Sea Calls: ![[The Green Sea Calls.mp3]]
+The Green Sea Calls: ![[green-sea-calls.mp3]]
 The Dyes of Tollen:
-![[Dyes of Tollen.mp3]]
+![[dyes-of-tollen.mp3]]
 #### Halfing Names
 
 Halflings have given names and family names, which are often derived from nicknames, professions, or family lore.

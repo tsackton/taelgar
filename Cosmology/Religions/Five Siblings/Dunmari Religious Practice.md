@@ -10,7 +10,7 @@ Dunmari worship practice is focused on two main distinct but equally important s
 The Dunmari see themselves as in communion with the Five Siblings, who are part of the Dunmari community. Temple practice, public festivals, and monuments represent the outward facing, communal aspects of worship, celebrating and giving thanks for their community with the gods. Personal prayer and family practice, on the other hand, is focused on individual needs, giving thanks, asking forgiveness, offering prayers for guidance and aid, and how individual relationships with one or more gods are celebrated. Finally, mystery cults explore the esoteric, secret side of the gods. Some focus on understanding the will of the gods, the hidden divine knowledge of the higher purpose of the Dunmari people. Others focus on achieving greater communion with the gods, through esoteric practices that can only be taught by direct instruction from master to initiate. 
 
 A Dunmari Praise song:
-![[Praise the Divine Family.mp3]]
+![[praise-the-divine-family.mp3]]
 ### Personal Prayer 
 
 Although temples and communal religious rites play an important role in Dunmari society, most worship does not occur at them. Daily prayers, contemplation, and thanksgiving, as well as many personal and family rites, occur instead in personal or individual shrines.

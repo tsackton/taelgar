@@ -23,7 +23,7 @@ The [[Dunmar Fellowship]], after engaging with local politics and acquiring new 
 
 ## Media
 
-A popular Urskan folk song, sung at the campfire while traveling with [[Karel]]
+A popular Urskan folk song, sung at the campfire while traveling with [[Karel]], called [[Spring's A Come]].
 
 ![mp3](/assets/audio/ursk-sings-of-spring.mp3)
 
@@ -47,7 +47,7 @@ A popular Urskan folk song, sung at the campfire while traveling with [[Karel]]
 - (DR:: 1749-04-25): Continue west. 
 - (DR:: 1749-04-26): Continue west. Reach [[Vedmakov]]. Pass without entering, continuing west.
 - (DR:: 1749-04-27) - (DR_end:: 1749-04-30): Continue west, following the road to [[Yamgov]]. 
-- (DR:: 1749-05-01): Pass [[Yamgov]], crossing the [[Dalinka]] River, and continuing overland west, towards the headquarters of the [[Rodnya Voknaz]]. [[Kenzo]] dreams of [[Apollyon]] beginning to break the enchantments imprisoning him. 
+- (DR:: 1749-05-01): Pass [[Yamgov]], crossing the [[Dalinka]] River, and continuing overland west, towards the headquarters of the [[Rodnya Voknaz]]. [[Kenzo]] [[Kenzo's Dream of Apollyon|dreams]] of [[Apollyon]] beginning to break the enchantments imprisoning him. 
 - (DR:: 1749-05-02): Reach headquarters of [[Rodnya Voknaz]] in the late afternoon. Have dinner with [[Branek Mirov]]. Discuss mission to [[Frostfell]].
 - (DR:: 1749-05-03), pre-dawn: Awakened by a mysterious invisible visitor; discuss Urskan politics and the leadership of the [[Rodnya Voknaz]] and a possible mission west to kill the vampire [[Rhodar von Glauer]].
 ## Narrative
