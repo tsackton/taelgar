@@ -19,7 +19,6 @@ descTitle: Dragon's Defeat
 > *Vargald camp, [[~Northern Boreal Forest~]]*
 
 The [[Dunmar Fellowship]] protects the [[Vargaldi]] camp from a dragon, emerging victorious and strengthening ties with the community.
-
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] arrives at the [[Vargaldi]] camp using their flying castle, causing a stir among the shape-shifting locals.
