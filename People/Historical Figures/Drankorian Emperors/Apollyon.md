@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, dufr/major, dufr/aware, testcase, status/unknown]
+tags: [historical, person, testcase, status/needswork/internal]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Apollyon
