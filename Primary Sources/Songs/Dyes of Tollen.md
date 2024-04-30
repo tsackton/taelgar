@@ -1,3 +1,8 @@
+---
+tags: [source, status/cleanup]
+---
+
+
 A sea shanty popular among the halflings of the western Green Sea.
 ![[dyes-of-tollen.mp3]]
 ![[dyes-of-tollen-alt_v1.mp3]]

@@ -1,3 +1,7 @@
+---
+tags: [source, status/cleanup]
+---
+
 More halfling sea shanties
 
 ![[green-sea-calls.mp3]]

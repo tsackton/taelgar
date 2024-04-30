@@ -1,3 +1,7 @@
+---
+tags: [source, status/cleanup]
+---
+
 An [[Ursk|Urskan]] folk song, about the coming of spring.
 ![[ursk-sings-of-spring.mp3]]
 
