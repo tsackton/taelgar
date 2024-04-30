@@ -1,3 +1,7 @@
+---
+tags: [source, status/cleanup]
+---
+
 The lullaby of [[Putrid Agnes]]
 ![[hush-little-beet.mp3]]
 

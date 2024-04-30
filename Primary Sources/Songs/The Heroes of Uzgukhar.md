@@ -1,3 +1,7 @@
+---
+tags: [source, status/cleanup]
+---
+
 A praise song sung by the [[People of the Rainbow]] about the [[Battle for Uzgukhar]].
 
 ![[heroes-of-uzgukhar.mp3]]

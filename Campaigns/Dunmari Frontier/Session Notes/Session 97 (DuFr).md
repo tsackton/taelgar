@@ -26,12 +26,12 @@ The Dunmar Fellowship defeats vampire Rhodar von Glauer, escapes the collapsing 
 ***Character advancement: everyone reaches level 14 after defeating Rhodar von Glauer***
 ***New treasure acquired in Ursk: [[Treasure from Ursk]]***
 ### Summary
-- The Dunmar Fellowship defeated the vampire Rhodar von Glauer after a fierce battle in a darkened chamber.
-- Dewalth destroyed von Glauer's remnants in his coffin, finding valuable items amidst the imminent collapse of Shadowkeep.
-- The group narrowly escaped Shadowkeep with loot, evading wraiths and leaving a venom troll behind.
-- Through the Dream spell, the party learned of terrorist attacks by their doppelgängers in Chardon and discussed countermeasures.
-- Upon returning to Voknaz Manor, the adventurers received the Jade Piece of Rai's Hand and learned of political complications.
-- Seeker teleported the party to Nevium, positioning them for their next quest to find another Jade Piece.
+- The [[Dunmar Fellowship]] defeated the vampire [[Rhodar von Glauer]] after a fierce battle in a darkened chamber.
+- [[Delwath]] destroyed von Glauer's remnants in his coffin, finding valuable items amidst the imminent collapse of [[Shadowkeep]].
+- The group narrowly escaped [[Shadowkeep]] with loot, evading wraiths and leaving a venom troll behind.
+- Through the *Dream* spell, the party learned of terrorist attacks by their doppelgängers in [[Chardon]] and discussed countermeasures.
+- Upon returning to [[Voknaz Manor]], the adventurers received a [[Jade Piece of Rai's Hand]] and learned of political complications.
+- [[Seeker]] teleported the party to [[Nevium]], positioning them for their next quest to find another Jade Piece.
 
 ### Timeline
 - (DR:: 1749-05-03), afternoon: Defeat [[Rhodar von Glauer]]. Escape the collapsing [[Shadowkeep]], leaving the venom troll in the ruins. Speak with [[Lyra]] via *Dream*, learning of events in [[Chardon]].
@@ -39,22 +39,25 @@ The Dunmar Fellowship defeats vampire Rhodar von Glauer, escapes the collapsing 
 - (DR:: 1749-05-04), afternoon: Given [[Jade Piece of Rai's Hand]] by [[Olen Vrask]]. See [[Vision of Rai and Apollyon]]. 
 - (DR:: 1749-05-04), evening: Communicate with [[Faldrak Bronzehammer|Faldrak]], [[Amil]], and [[Kethra]] on [[Vindristjarna]] by *Dream.* Learn [[Algerd]] the frost giant departed with his sister; [[Kecha]] left to find the [[kenku]] in the [[~Eastern Islands~]]. 
 - (DR:: 1749-05-05), early morning: Teleport to [[Nevium]], on the [[Gulf of Chardon]], near the [[Old Chardon Canal]]. 
+### Visions and Dreams
+- Kenzo continues to [[Kenzo's Dream of Apollyon|dream of Apollyon's escape]].
+- The party sees a [[Vision of Rai and Apollyon]] after acquiring the third [[Jade Piece of Rai's Hand]]
 ## Narrative
-We begin on the afternoon of May 3rd, 1749, as the confrontation with Rhodar von Glauer culminated dramatically. Amidst a magically darkened chamber, the party meticulously planned their attack strategies, balancing the risks of friendly fire against the imperative of exploiting their individual combat strengths. Wellby initiated the offense by marking von Glauer's position with an arrow, while Riswynn brilliantly illuminated the vampire with a Sunbeam spell.
+We begin on the afternoon of May 3rd, 1749, as the confrontation with [[Rhodar von Glauer]] culminated dramatically. Amidst a magically darkened chamber, the party meticulously planned their attack strategies, balancing the risks of friendly fire against the imperative of exploiting their individual combat strengths. [[Wellby]] initiated the offense by marking von Glauer's position with an arrow, while [[Riswynn]] brilliantly illuminated the vampire with a *Sunbeam* spell.
 
-The fight escalated quickly as von Glauer unleashed a barrage of dark spears and sword attacks, wounding Kenzo and Riswynn. Despite this, the group's coordination was impeccable. Seeker attempted a Slow spell, albeit unsuccessfully, while Dewalth landed heavy blows enhanced by Yezali's Mark. Riswynn continued to assault with Sunbeam and a summoned Spiritual Weapon, significantly weakening von Glauer. The vampire, desperate, transformed into a flaming bat, swooping through the party and dealing damage, but ultimately it wasn't enough to stave off defeat. After a series of calculated attacks and a final melee confrontation led by Kenzo, von Glauer was dispatched, dissipating into a noxious cloud that momentarily disoriented the party.
+The fight escalated quickly as von Glauer unleashed a barrage of dark spears and sword attacks, wounding [[Kenzo]] and [[Riswynn]]. Despite this, the group's coordination was impeccable. Seeker attempted a Slow spell, albeit unsuccessfully, while [[Delwath]] landed heavy blows enhanced by Yezali's Mark. [[Riswynn]] continued to assault with Sunbeam and a summoned Spiritual Weapon, significantly weakening von Glauer. The vampire, desperate, transformed into a flaming bat, swooping through the party and dealing damage, but ultimately it wasn't enough to stave off defeat. After a series of calculated attacks and a final melee confrontation led by [[Kenzo]], von Glauer was dispatched, dissipating into a noxious cloud that momentarily disoriented the party.
 
-In the aftermath, Dewalth pursued the remnants of von Glauer to his coffin, ensuring the vampire's permanent destruction by targeting the mist with radiant energy. The victorious party then scoured the coffin, uncovering a collection of intriguing items including a magical dagger with blindsight abilities. However, their victory was overshadowed by the imminent structural collapse of Shadowkeep, prompted by their intense battle.
+In the aftermath, [[Delwath]] pursued the remnants of von Glauer to his coffin, ensuring the vampire's permanent destruction by targeting the mist with radiant energy. The victorious party then scoured the coffin, uncovering a collection of intriguing items including a magical dagger with blindsight abilities. However, their victory was overshadowed by the imminent structural collapse of [[Shadowkeep]], prompted by their intense battle.
 
-The escape from the crumbling Shadowkeep was fraught with peril and urgency. Amid the chaos, Wellby and Kenzo prioritized salvaging valuable treasures, while the rest of the group managed external threats. Despite the hazardous conditions, they successfully extracted significant loot, including gold and magical items, narrowly evading hostile wraiths they encountered along the way, and leaving the venom troll to claim the ruins of Shadowkeep as his new domain.
+The escape from the crumbling [[Shadowkeep]] was fraught with peril and urgency. Amid the chaos, [[Wellby]] and [[Kenzo]] prioritized salvaging valuable treasures, while the rest of the group managed external threats. Despite the hazardous conditions, they successfully extracted significant loot, including gold and magical items, narrowly evading hostile wraiths they encountered along the way, and leaving the venom troll to claim the ruins of [[Shadowkeep]] as his new domain.
 
-The night brought a need for reflection and planning. Using the Dream spell, Dewalth engaged in a crucial conversation with Lyra, addressing misunderstandings and discussing recent calamitous events in Chardon, where doppelgängers of Kenzo and Delwath had been implicated in a terrorist attack. This revelation suggested manipulation by their adversaries, adding layers of political intrigue to their quest.
+The night brought a need for reflection and planning. Using the *Dream* spell, [[Delwath]] engaged in a crucial conversation with [[Lyra]], addressing misunderstandings and discussing recent calamitous events in [[Chardon]], where doppelgängers of [[Kenzo]] and [[Delwath]] had been implicated in a terrorist attack. This revelation suggested manipulation by their adversaries, adding layers of political intrigue to their quest.
 
-By the morning of May 4th, the party returned to Voknaz Manor, presenting tokens of von Glauer's defeat to a nervous Olen Vrask. Their proof was accepted, and they were awarded the Jade Piece of Rai's Hand, a critical element in their ongoing mission to prevent the release of Apollyon, a looming threat detailed in a vivid dream vision triggered by the jade piece.
+The morning of May 4th, the party teleported back to the [[Voknaz Manor]], presenting tokens of von Glauer's defeat to a nervous [[Olen Vrask]]. Their proof was accepted, and they were awarded the [[Jade Piece of Rai's Hand]], a critical element in their ongoing mission to prevent the release of [[Apollyon]], a looming threat detailed in a vivid dream vision triggered by the jade piece.
 
-As the day progressed, the party used the Dream spell to maintain communication with allies such as Faldrak, Amil, and Kethra, learning of developments that further complicated their strategic considerations. Their discussions underscored the urgency of their primary quest over potential distractions, highlighting a burgeoning crisis that could culminate in a catastrophic release of Apollyon.
+That evening, the party used the *Dream* spell to maintain communication with their allies on [[Vindristjarna]] -- [[Faldrak Bronzehammer|Faldrak]], [[Amil]], and [[Kethra]] -- learning of developments that further complicated their strategic considerations. Their discussions underscored the urgency of their primary quest over potential distractions, highlighting a burgeoning crisis that could culminate in a catastrophic release of [[Apollyon]].
 
-The session ended with Seeker's successful teleportation to [[Nevium]] on the morning of May 5th, marking the beginning of the next phase of their journey, situating them strategically near the Gulf of Chardon as they prepared to search for the next [[Jade Piece of Rai's Hand]].
+The session ended with [[Seeker]]'s successful teleportation to [[Nevium]] on the morning of May 5th, marking the beginning of the next phase of their journey, situating them strategically near the [[Gulf of Chardon]] as they prepared to search for the next [[Jade Piece of Rai's Hand]].
 
 ## Transcript
 ### Detailed Summary

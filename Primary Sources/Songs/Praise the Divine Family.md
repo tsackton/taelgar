@@ -1,3 +1,7 @@
+---
+tags: [source, status/cleanup]
+---
+
 A praise song sung by the [[Dunmar|Dunmari]] about the [[Five Siblings]]
 ![[praise-the-divine-family.mp3]]
 
