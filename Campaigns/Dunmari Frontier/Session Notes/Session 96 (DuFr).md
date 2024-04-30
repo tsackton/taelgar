@@ -13,6 +13,24 @@ name: Dunmari Frontier - Session 96
 - (DR:: 1749-05-03), morning: Teleport to [[Shadowkeep]], the lair of [[Rhodar von Glauer]]. Scout by various means. Release venom troll from [[Mirror of Soul Trapping]]. Interrupt infernal ritual creating a contract between [[Rodnya Kinzal]] and [[Rhodar von Glauer]]. 
 - (DR:: 1749-05-03), noon: [[Delwath]] is contacted by [[Lyra]], via Sending, about happenings in [[Chardon]]. Find secret door in ritual room, and follow it to a chamber full of magical darkness, and [[Rhodar von Glauer]]. 
 
+## Narrative
+
+We begin on the morning of May 3rd, 1749, as the party began their day with a bold decision to teleport directly to [[Shadowkeep]], the imposing lair of the vampire lord [[Rhodar von Glauer]]. The teleportation was expertly executed by [[Seeker]], landing them on a snowy path near the foreboding keep, which glowed ominously with a red light from within. They quickly took cover among the jagged rocks of [[Drachen Peak]] to strategize. Their discussion centered on vampire lore, specifically the need to destroy their coffins to defeat them permanently.
+
+Using his clairvoyance spell, [[Seeker]] scouted inside the mausoleum adjacent to the keep, spotting a large coffin and spectral wraiths floating amongst statues of [[Rhodar von Glauer]]. Meanwhile, [[Wellby]] employed a bat from his Hat of Vermin to gather intelligence. The bat's exploration revealed the grim sight of a frozen halfling warrior outside the keep and various dangers inside, including a vampiric gathering discussing a peace deal with [[Ursk]].
+
+To create a diversion, the party decided to unleash a venom troll they had previously captured. This troll, released from a [[Mirror of Soul Trapping]], would hopefully provide the necessary distraction for them to infiltrate the castle. While [[Wellby]] approached the halfling’s body, discovering it was a victim of vampires, he encountered [[Putrid Agnes]], a fey hag emerging from the corpse. She offered information on [[Rhodar von Glauer]]'s coffin in exchange for a favor, which Wellby declined.
+
+[[Seeker]], using a potion to assume gaseous form, ventured into the castle undetected. He navigated through dangerous halls, dodging an acid attack and finding a treasure room, before stumbling upon a dark ritual involving a vampire, wights, and a [[Rodnya Kinzal ]]mage. However, he had to retreat as vampire spawn sensed his presence.
+
+Amidst this chaos, [[Seeker]] released the venom troll, stirring a fierce battle within [[Shadowkeep]]. The party took this opportunity to press further into the castle, aiming to disrupt the ritual and confront [[Rhodar von Glauer]]. Their efforts in the ensuing fight were strategic and effective; they managed to interrupt the infernal ritual, trapping the Kinzal mage in the [[Mirror of Soul Trapping]] and ending the chant that would have sealed an infernal pact between the vampires and [[Ursk]].
+
+As the party dealt with the aftermath of the battle, [[Delwath]] received an urgent message from [[Lyra]], questioning their actions and accusing them of being the instigators of a terrorist attack in [[Chardon]]. [[Delwath]] blamed the disturbances on [[Apollyon]]. Meanwhile, [[Seeker]] encountered a cursed angelic statue, adding to the eerie atmosphere of their surroundings.
+
+[[Wellby]]'s discovery of a secret door beneath the ritual room led the party into a tunnel shrouded in magical darkness. As they navigated through, they finally came face-to-face with [[Rhodar von Glauer]] himself, who declared his intention to confront them directly.
+
+Thus, the session concluded with the party poised for a direct encounter with the vampire lord, their strategies and quick thinking having navigated them through numerous perils to this pivotal moment. The challenges they faced within [[Shadowkeep]] tested their resolve and abilities, setting the stage for a dramatic continuation of their quest.
+
 ## Transcript
 
 ### Preparations 

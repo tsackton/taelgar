@@ -16,11 +16,12 @@ You might start with:
 
 You can also explore the skyship [[Vindristjarna]] and the [[Vindristjarna Room Planning|special facilities]] constructed on it.
 
-You can also explore the most recent session, [[Session 95 (DuFr)]], or browse pages mentioned in the most recent session note:
+You can also explore the most recent sessions, [[Session 96 (DuFr)]] and [[Session 97 (DuFr)]], or browse pages mentioned in the most recent session note:
 
 ```dataview
 TABLE WITHOUT ID Link, join(split(meta(Link).path,"/",2),"/") as Folder
-FROM "Campaigns/Dunmari Frontier/Session Notes/Session 95 (DuFr)"
+FROM "Campaigns/Dunmari Frontier/Session Notes/Session 96 (DuFr)" OR 
+"Campaigns/Dunmari Frontier/Session Notes/Session 97 (DuFr)"
 FLATTEN file.outlinks as Link
 GROUP BY Link
 WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "assets")
