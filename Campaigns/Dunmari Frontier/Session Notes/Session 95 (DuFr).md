@@ -21,7 +21,7 @@ descTitle: Decisions at Voknaz Manor
 The [[Dunmar Fellowship]], after engaging with local politics and acquiring new magic, must choose between a perilous resurrection mission or assassinating a vampire lord.
 ## Session Info
 
-## Media
+### Media
 
 A popular Urskan folk song, sung at the campfire while traveling with [[Karel]], called [[Spring's A Come]].
 
@@ -50,6 +50,9 @@ A popular Urskan folk song, sung at the campfire while traveling with [[Karel]],
 - (DR:: 1749-05-01): Pass [[Yamgov]], crossing the [[Dalinka]] River, and continuing overland west, towards the headquarters of the [[Rodnya Voknaz]]. [[Kenzo]] [[Kenzo's Dream of Apollyon|dreams]] of [[Apollyon]] beginning to break the enchantments imprisoning him. 
 - (DR:: 1749-05-02): Reach headquarters of [[Rodnya Voknaz]] in the late afternoon. Have dinner with [[Branek Mirov]]. Discuss mission to [[Frostfell]].
 - (DR:: 1749-05-03), pre-dawn: Awakened by a mysterious invisible visitor; discuss Urskan politics and the leadership of the [[Rodnya Voknaz]] and a possible mission west to kill the vampire [[Rhodar von Glauer]].
+
+### Visions and Dreams
+- Kenzo [[Kenzo's Dream of Apollyon|dreams of Apollyon's escape]].
 ## Narrative
 
 We begin at [[The Silver Wolf]] in [[Zvervinka]], on the afternoon of April 15th, as the party plans with [[Roman]], the innkeeper and general fixer around town. The discussion revolves around travel arrangements, focusing on the procurement of horses, food, and the organization of meetings in the town to ensure a well-prepared departure. [[Roman]] also reports on the magic items available to purchase in the market, with the monster parts the party has brought, and some decisions are made. As lunch ends, Roman leaves to make various arrangements.
