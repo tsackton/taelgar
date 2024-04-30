@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/needswork/internal]
 campaignInfo:
 - {campaign: dufr, date: 1749-01-16, type: met}
 name: Faldrak Bronzehammer
