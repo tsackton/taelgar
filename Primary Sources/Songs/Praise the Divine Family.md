@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup]
+tags: [source]
 ---
 
 A praise song sung by the [[Dunmar|Dunmari]] about the [[Five Siblings]]
