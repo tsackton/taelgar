@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup]
+tags: [source]
 ---
 
 An [[Ursk|Urskan]] folk song, about the coming of spring.

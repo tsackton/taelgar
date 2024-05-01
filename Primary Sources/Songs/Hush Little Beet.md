@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup]
+tags: [source]
 ---
 
 The lullaby of [[Putrid Agnes]]

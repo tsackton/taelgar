@@ -1,13 +1,13 @@
 ---
-tags: [source, status/cleanup]
+tags: [source]
 ---
 
-A praise song sung by the [[People of the Rainbow]] about the [[Battle for Uzgukhar]].
+A praise song sung by the [[People of the Rainbow]] about the [[Battle for Uzgukhar]], particularly sung
+to celebrate the victory of the [[Dunmar Fellowship]] over [[Grash]]. 
 
 ![[heroes-of-uzgukhar.mp3]]
-![[heroes-of-uzgukhar-alt.mp3]]
 
-[Verse 1:]
+[Verse 1]
 Sunrise siege at Uzgukhar, the battle fiercely roars,
 Trebuchet towering, undead scores.
 Seeker conjured a boulder, into the sky it soared,
@@ -26,7 +26,7 @@ The heroes fought hard, through pain and through fear,
 Their resolve unyielding, their mission clear.
 
 [Verse 3]
-Kenzos's courage, Delwath's blade bright,
+Kenzo's courage, Delwath's blade bright,
 Riswynn's divine light, shining through the night.
 The ring was destroyed, the undead fell silent,
 Victory at last, the battle now quiet.
