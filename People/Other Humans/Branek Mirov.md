@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 affiliations: [Rodnya Voknaz]
 anestry: Urskan
 species: human
