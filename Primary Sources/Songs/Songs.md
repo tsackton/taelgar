@@ -1,3 +1,8 @@
+---
+tags: [meta]
+---
+
+
 This is a collection of music heard across Taelgar:
 
 [[Halfling Shanties of the Green Sea]], a collection of halfling sea shanties from Tollen

@@ -1,3 +1,11 @@
+---
+tags: [source]
+---
+
+A folk ballad from the [[Apporia|Apporian Peninsula]]. 
+
+## Ballad of the Jade Garden
+
 ![[ballad-of-the-jade-garden.mp3]]
 
 [verse 1]
