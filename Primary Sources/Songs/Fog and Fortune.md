@@ -1,3 +1,11 @@
+---
+tags: [source]
+---
+
+A popular folk song in [[Apporia]]. 
+
+## Fog and Fortune
+
 ![[fogbound-rescue.mp3]]
 ![[fogbound-rescue-alt.mp3]]
 

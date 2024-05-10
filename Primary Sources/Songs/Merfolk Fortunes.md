@@ -1,3 +1,11 @@
+---
+tags: [source]
+---
+
+A halfling sea shanty popular among the halflings of the [[Gulf of Chardon]]
+
+## Merfolk Fortunes
+
 ![[merfolk-fortunes.mp3]]
 ![[merfolk-fortunes-alt.mp3]]
 
