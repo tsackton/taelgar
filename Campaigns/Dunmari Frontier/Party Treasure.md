@@ -1,3 +1,7 @@
+## Recent Acquisitions, NOT incorporated below
+
+[[Treasure from Ursk]]
+
 ## Magic Items
 
 ### Delwath
