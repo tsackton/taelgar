@@ -4,4 +4,4 @@ typeOf: river
 partOf: Chardonian Empire
 ---
 
-%% small river that flows from [[~Chardon Hills~]] to [[~Chardon Bay~]] %%
+%% small river that flows from [[~Chardon Hills~]] to [[Gulf of Chardon]] %%

@@ -9,12 +9,12 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 98
 ---
 ### Timeline
-- (DR:: 1749-05-05), morning: Sneak out of [[Nevium]] on the [[Folding Boat]], and sail northwest across the Gulf of Chardon
+- (DR:: 1749-05-05), morning: Sneak out of [[Nevium]], in the province of [[Portalia]] on the [[Folding Boat]], and sail northwest across the [[Gulf of Chardon]]
 - (DR:: 1749-05-05), evening: Sight land along the coast of the province of [[Cedrano]]; anchor in a small cove for the night. 
-- (DR:: 1749-05-06), morning: Explore the town of Artevus. Recruit Martino, a retired fisherman, as a guide. Hire passage on "Summer's Breeze", a halfling ship captained by [[Pippa Goodbarrow]]. 
-- (DR:: 1749-05-06), afternoon: Sail north along the coast, with good winds. Convince halfings to sail into the night.
-- (DR:: 1749-05-06), night: Arrive in Castrella well after sunset, and anchor for the night.
-- (DR:: 1749-05-07): Explore Castrella. Speak with [[Juliana Maris]], a collector of merfolk artifacts. Purchase maps from [[Tullus]]. Fail at an attempt to scry [[Milo Thistlefoot]]. Gather rumors and hear songs. Convince Pippa and the crew of the Summer's Breeze to set sail before dawn, heading north. 
+- (DR:: 1749-05-06), morning: Explore the town of [[Artevus]]. Recruit [[Martino]], a retired fisherman, as a guide. Hire passage on [[Summer's Breeze]], a halfling ship captained by [[Pippa Goodbarrow]]. 
+- (DR:: 1749-05-06), afternoon: Sail north along the coast, with good winds. Convince halflings to sail into the night.
+- (DR:: 1749-05-06), night: Arrive in [[Castrella]] well after sunset, and anchor for the night.
+- (DR:: 1749-05-07): Explore [[Castrella]]. Speak with [[Juliana Maris]], a collector of merfolk artifacts. Purchase maps from [[Tullus]]. Fail at an attempt to scry [[Milo Thistlefoot]]. Gather rumors and hear songs. Convince [[Pippa Goodbarrow|Pippa]] and the crew of the [[Summer's Breeze]] to set sail before dawn, heading north. 
 ### Media
 
 The party heard three songs about merfolk:
@@ -23,13 +23,14 @@ The party heard three songs about merfolk:
 [[Merfolk Fortunes]]
 
 ### Key Rumors
-- From [[Juliana Maris]], the party learned that no one has returned from the merfolk territory in the west in 20 years, except for the halfling captain Milo Thistlefoot and his crew, and genuine merfolk artifacts are becoming difficult to find. 
-- From rumors among sailors and people drinking in the taverns in port, the party learned that if you want to breath water, there are two people you might seek. One, the stoneborn alchemist Kazuro, lives in an isolated cave up the coast, and can brew potions. The other, a man obsessed with merfolk named Dorian Almare, touched by magic, left Castrella to find the merfolk 15 years ago and has not been seen since, but rumors persist of the "Mystic of Tamaro Bay" that might be Dorian. 
+- From [[Juliana Maris]], the party learned that no one has returned from the merfolk territory in the west in 20 years, except for the halfling captain [[Milo Thistlefoot]] and his crew, and genuine merfolk artifacts are becoming difficult to find. 
+- From rumors among sailors and people drinking in the taverns in [[Castrella]], the party learned that if you want to breath water, there are two people you might seek. One, the stoneborn alchemist [[Kazuro]], lives in an isolated cave up the coast, and can brew potions. The other, a man obsessed with merfolk named [[Dorian Almare]], touched by magic, left [[Castrella]] to find the merfolk 15 years ago and has not been seen since, but rumors persist of the "Mystic of Tamaro Bay" that might be Dorian. 
+- From [[Isabetta]], a young singer drawing a crowd at the [[The Drunken Dolphin]], a rowdy sailor's tavern in [[Castrella]], the party heard the [[Ballad of the Jade Garden]], which seemed to spell out the location of the jade garden mentioned by [[Thomas Hawke]] and likely where the [[Jade Piece of Rai's Hand]] is located. 
 ## Transcript
 ### Detailed Summary
 
 #### Escaping Nevium
-- The party, teleported by **Seeker**, arrives in Nevium, a city in the province of Portalia, part of the Chardonnium Empire, and experiences the sharp transition from the cold north of Ursk to the warm gulf of Chardon.
+- The party, teleported by **Seeker**, arrives in Nevium, a city in the province of Portalia, part of the Chardonian Empire, and experiences the sharp transition from the cold north of Ursk to the warm gulf of Chardon.
 - They recall their quest for a piece of jade, guided by stories heard and a letter from the Philosopher's Guild involving the merfolk, the elemental sea, and a magical kelp forest.
 - **Delwath** queries about their geographical location, confirming they are on the north coast near the canal as they discuss their observations and plan amidst the pre-dawn darkness.
 - **Seeker** and **Kenzo** discuss the recent acquisition of another jade piece and contemplate its significance and potential uses.
@@ -80,7 +81,7 @@ The party heard three songs about merfolk:
 - The party reconvenes, discussing their findings and planning their next steps, including underwater exploration and finding Milo Thistlefoot.
 - The party considers asking around town for magic or methods to aid in underwater exploration, acknowledging their lack of substantial leads on navigating Merfolk territory.
 #### Rumors and Songs on the Docks
-- As evening approaches, the party gathers rumors on the docks of Castrella, learning about historical interactions with merfolk and hearing about a Mystic of Tamaro Bay, possibly Dorian Almare, who left 25 years ago to find the merfolk and is rumored to be able to breathe underwater.
+- As evening approaches, the party gathers rumors on the docks of Castrella, learning about historical interactions with merfolk and hearing about a Mystic of Tamaro Bay, possibly Dorian Almare, who left 15 years ago to find the merfolk and is rumored to be able to breathe underwater.
 - They discover the existence of ballads about merfolk, including 'The Fog and Fortune' and learn about a stoneborne hermit named Kazuro, skilled in potions and alchemy, who might know how to breathe underwater.
 - A detailed ballad is heard and recounted by the party, highlighting the merfolk's mysterious and possibly benevolent nature.
 - The concept of the merfolk and their connection with jade is explored through another ballad, suggesting the Merfolk tend to gardens of jade deep under the sea, west of Tamaro Bay. 
