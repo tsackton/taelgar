@@ -4,6 +4,7 @@ tags:
   - status/stub
 aliases:
   - ~Chardon Peninsula~
+  - Apporian Peninsula
 ---
 
 
