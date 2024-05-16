@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/needswork/notes, place, status/unknown]
-partOf: Morkalan
+whereabouts: Morkalan
 typeOf: settlement
 typeOfAlias: village
 destroyed: 1748

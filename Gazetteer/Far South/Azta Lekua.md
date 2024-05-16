@@ -4,7 +4,7 @@ tags: [place, status/needswork/external]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Azta Lekua
-partOf: Orekatu
+whereabouts: Orekatu
 aliases: [Footprint of the Gods]
 ---
 # Azta Lekua

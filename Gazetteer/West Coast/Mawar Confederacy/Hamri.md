@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 name: Hamri
 typeOf: town
-partOf: Mawar Confederacy
+whereabouts: Mawar Confederacy
 population: 3500
 ---
 # Hamri
