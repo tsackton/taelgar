@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/internal]
-partOf: Dunmar
+whereabouts: Dunmar
 name: Central Dunmar
 displayDefaults: {defArt: ''}
 typeOf: region
