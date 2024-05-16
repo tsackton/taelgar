@@ -10,7 +10,7 @@ whereabouts:
 - {type: away, start: 1748-08-03, end: 1748-08-09, location: Darba }
 - {type: away, start: 1748-08-10, end: 1748-08-16, prefix: traveling in, location: Nevos Sea }
 - {type: away, start: 1748-08-17, end: 1748-08-17, location: Old Chardon Canal }
-- {type: away, start: 1748-08-18, end: 1748-08-20, prefix: traveling in, location: ~Chardon Bay~ }
+- {type: away, start: 1748-08-18, end: 1748-08-20, prefix: traveling in, location: Gulf of Chardon }
 - {type: away, start: 1748-08-21, location: Chardon }
 ---
 # The Emerald Song
