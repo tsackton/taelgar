@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 typeOf: plain
-partOf: Eastern Dunmar
+whereabouts: Eastern Dunmar
 name: Samtal
 aliases: [plains of Karawa]
 tags: [place]

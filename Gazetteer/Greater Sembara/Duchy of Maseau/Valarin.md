@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Valarin
 typeOf: city
-partOf: Duchy of Maseau
+whereabouts: Duchy of Maseau
 ---
 # Valarin
 >[!info]+ Information  

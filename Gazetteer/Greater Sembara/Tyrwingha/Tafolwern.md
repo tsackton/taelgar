@@ -4,7 +4,7 @@ tags: [place, status/needswork/wip]
 campaignInfo: []
 name: Tafolwern
 typeOf: city
-partOf: Tyrwingha
+whereabouts: Tyrwingha
 pronunciation: Tav-ol-WERN
 ---
 # Tafolwern

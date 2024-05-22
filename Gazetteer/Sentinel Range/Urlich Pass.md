@@ -4,7 +4,7 @@ tags: [place, status/needswork/notes]
 displayDefaults: {defArt: ""}
 name: Urlich Pass
 typeOf: pass
-partOf: Sentinel Range
+whereabouts: Sentinel Range
 ---
 # Urlich Pass
 >[!info]+ Information  

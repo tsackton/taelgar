@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/internal]
 name: Western Green Sea
 typeOf: sea
-partOf: Green Sea
+whereabouts: Green Sea
 ---
 # The Western Green Sea
 >[!info]+ Information  

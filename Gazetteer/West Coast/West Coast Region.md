@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork]
 name: West Coast Region
 typeOf: region
-partOf: Taelgar
+whereabouts: Taelgar
 ---
 # The West Coast Region
 >[!info]+ Information

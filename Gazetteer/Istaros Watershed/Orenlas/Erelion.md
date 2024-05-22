@@ -4,7 +4,7 @@ tags: [place]
 name: Erelion
 ancestry: elven
 typeOf: city
-partOf: Orenlas
+whereabouts: Orenlas
 pronunciation: air-LEE-on
 ---
 # Erelion

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 typeOf: region
-partOf: Central Dunmar
+whereabouts: Central Dunmar
 aliases: [plains of Songara]
 tags: [place, status/needswork/internal]
 ---

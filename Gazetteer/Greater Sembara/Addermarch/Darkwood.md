@@ -5,7 +5,7 @@ campaignInfo: []
 name: Darkwood
 typeOf: forest
 subTypeOf: haunted
-partOf: Addermarch
+whereabouts: Addermarch
 ---
 # Darkwood
 >[!info]+ Information  

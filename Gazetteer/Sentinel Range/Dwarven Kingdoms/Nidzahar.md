@@ -5,7 +5,7 @@ campaignInfo: []
 name: Nidzahar
 typeOf: realm
 ancestry: dwarven
-partOf: Labkhan
+whereabouts: Labkhan
 pronunciation: NID-zah-har
 ---
 # Nidzahar

@@ -4,7 +4,7 @@ displayDefaults: {defArt: ""}
 tags: [place, status/needswork]
 name: Greater Dunmar
 typeOf: region
-partOf: Taelgar
+whereabouts: Taelgar
 ---
 # Greater Dunmar
 >[!info]+ Information
