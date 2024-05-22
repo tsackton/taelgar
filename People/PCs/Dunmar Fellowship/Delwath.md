@@ -17,7 +17,7 @@ whereabouts:
 # Delwath
 >[!info]+ Biographical Info
 > an [[Elves|elf]], he/him of the [[Dunmar Fellowship]]
-([[The Cycle of Generations|ka]] 36)
+([[Elven Cycle of Generations|ka]] 36)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

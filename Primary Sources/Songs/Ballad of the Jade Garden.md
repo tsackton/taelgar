@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 ---
+# Ballad of the Jade Garden
 
 A folk ballad from the [[Apporia|Apporian Peninsula]]. 
 
-## Ballad of the Jade Garden
-
 ![[ballad-of-the-jade-garden.mp3]]
+
+## Lyrics
 
 [verse 1]
 In the depths where shadows weave,

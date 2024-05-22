@@ -1,10 +1,12 @@
 ---
+headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 name: Yezali
 aliases: [Aaviskar]
 pronunciation: yeh-ZAH-lee
 ---
-### Yezali
+# Yezali
+*(yeh-ZAH-lee)*
 
 The spirit of the hunt, the moon, and the night. Particularly attracted by offerings from a fresh hunt. 
 

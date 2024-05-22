@@ -1,7 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [background, religion/mosnumena]
+displayDefaults: {defArt: ""}
 ---
-## Tyrwinghan Funerary Traditions
+# Tyrwinghan Funerary Traditions
 
 The Tyrwinghan religious traditions are very similar to the Sembaran, and much of the Tyrwinghan experience of death is the same as the [[Sembaran Funerary Traditions|Sembaran]]. However, Tyrwingha has always maintained cultural distinctions from Sembara, and throughout the many long years when Tyrwingha was a Drankorian protectorate, the people there never lost their sense of their Tyrwinghan identity. The Tyrwingan experience is therefore more heavily influenced by the [[Kestavan Funerary Traditions]] than the Sembaran experience is, despite worshipping [[Mos Numena|the same gods]] as the Sembarans. Additionally, an important part of the Tyrwinghan cultural psyche involves the fey, and stories of fey boons bringing the dead to life are told and believed. 
 

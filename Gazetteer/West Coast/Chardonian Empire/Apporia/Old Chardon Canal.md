@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 name: Old Chardon Canal
 typeOf: canal
-partOf:
+partOf: Portalia
 ---
 # The Old Chardon Canal
->[!info]+ Summary
-
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Variously referred to as the [[Chardon]] Canal, the Old [[Chardon]] Canal, the Great [[Chardon]] Canal, or just the Canal, this is an 87 mile long sea-level canal that connects the [[Endless Ocean]] near [[Chardon]] with the [[Emerald Bay]] and the [[Nevos Sea]]. 
 

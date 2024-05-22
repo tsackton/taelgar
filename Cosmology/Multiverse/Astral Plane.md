@@ -1,8 +1,13 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
+whereabouts: Spiritual Realms
 ---
 # The Astral Plane
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% copied over a bunch of my secret notes from my secret multiverse doc, so some details do exist. if it becomes necessary / relevant, I think it probably does not give away too much to write this up as a regular page, with publish exclusions for all campaigns.%%
 

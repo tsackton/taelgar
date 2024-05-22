@@ -1,6 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
+name: A Story about Halfling Merchants
 ---
+# A Story About Halfling Merchants
 
 Imagine you are a glassmaker in Tyrwingha. Your glassware is popular, and you have regular contact with a Tyrwinghan factor to sell 500 wineglasses a season for a steady price. It is a decent living, but you aren't going to be rich from this trade. 
 

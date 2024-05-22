@@ -1,11 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/needswork/notes, status/unknown]
 typeOf: family
-subTypeOf: dynasty
+ancestry: Dunmari
+typeOfAlias: dynasty
 name: Dharajun dynasty
 ---
 # The Dharajun Dynasty
-
+>[!info]+ Information  
+> A [[Dunmar|Dunmari]] dynasty  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%^Campaign:None%%
 ### Historical Members

@@ -1,11 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 ---
+# The Heroes of Uzgukhar
 
 A praise song sung by the [[People of the Rainbow]] about the [[Battle for Uzgukhar]], particularly sung
 to celebrate the victory of the [[Dunmar Fellowship]] over [[Grash]]. 
 
 ![[heroes-of-uzgukhar.mp3]]
+## Lyrics
 
 [Verse 1]
 Sunrise siege at Uzgukhar, the battle fiercely roars,

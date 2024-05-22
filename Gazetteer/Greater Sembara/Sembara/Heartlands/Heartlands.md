@@ -1,14 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Heartlands
 typeOf: region
 partOf: Sembara
 ---
 # The Heartlands
->[!info]+ Information
-> A region in [[Sembara]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The heartlands are a rich agricultural region in the lowlands between the [[Enst]], in the south, and the [[Teft]], in the north. Much of this region, around the River [[Semb]], is the [[Duchy of Sembara]], a powerful and rich farming region, control of which is the source of much of the monarch’s power. This land is the breadbasket of [[Sembara]].
 

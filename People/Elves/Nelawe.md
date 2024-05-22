@@ -7,7 +7,7 @@ gender: female
 ---
 # Nelawe
 >[!info]+ Biographical Info
-> An [[Elves|elf]] (she/her), ([[The Cycle of Generations|ka]] 31)
+> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] 31)
 
 A poet and author of [[Lyrics of a New Age]].
 

@@ -1,6 +1,8 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 ---
+# Halfling Shanties of the Green Sea
 
 This is a collection of halfling sea shanties from the Western Green Sea
 
@@ -8,6 +10,7 @@ This is a collection of halfling sea shanties from the Western Green Sea
 ![[dyes-of-tollen.mp3]]
 ![[dyes-of-tollen-v1.mp3]]
 ![[dyes-of-tollen-v2.mp3]]
+### Lyrics
 
 [call]
 What should we trade for the dyes of Tollen?
@@ -61,6 +64,8 @@ Ere the winds blow fiercely
 
 ![[green-sea-calls.mp3]]
 
+### Lyrics
+
 Oh, we sail the green sea wide and free, 
 With the wind in our sails, merry as can be. 
 From Tollen’s ports, where the dyes do bloom, 
@@ -96,6 +101,8 @@ Singing our shanty, day by day.
 
 ## Roaming the Green Seas
 ![[roaming-the-green-seas.mp3]]
+
+### Lyrics
 
 Bright dawns in Tollen, where the colors meet, 
 We trade at first light, where the waters do greet. 

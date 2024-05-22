@@ -20,7 +20,7 @@ timelineDescriptor: Belegor
 # Belegor
 *(beh-leh-GOR)*
 >[!info]+ Biographical Info
-> An [[Elves|elf]] (he/him), ([[The Cycle of Generations|ka]] 36)
+> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 36)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on September 30th, 1748 in [[~Te'kula village~|Te'kula village]], the [[Elderwood]], [[Ainumarya]] %%^End%%

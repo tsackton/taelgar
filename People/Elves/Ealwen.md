@@ -15,7 +15,7 @@ whereabouts: Erelion
 # Ealwen
 *(AY-ahl-wen)*
 >[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), ([[The Cycle of Generations|ka]] 37)  
+> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] 37)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on January 16th, 1748 in [[Erelion]], [[Orenlas]] %%^End%%

@@ -14,7 +14,7 @@ pronunciation: erd-HEEN
 # Caretaker Erdhin
 *(erd-HEEN)*
 >[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[The Cycle of Generations|ka]] unknown)  
+> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] unknown)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 15th, 1749 in [[Erelion]], [[Orenlas]] %%^End%%
 

@@ -1,9 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [event]
-name:
+name: First Spider Attack on Taviose
 DR: 1719-10-20
 ---
-### First Spider Attack on Taviose
+# The First Spider Attack on Taviose
+>[!info]+ Information  
 *October 20th, 1719; 10am*
 
 A giant spider (the size of a horse) and three large spiders (the size of dogs) attacked the hamlet of [[Taviose]] in the mid-morning. 

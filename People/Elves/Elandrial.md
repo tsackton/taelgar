@@ -17,7 +17,7 @@ pronunciation: eh-LAN-dree-ahl
 # Elandrial
 *(eh-LAN-dree-ahl)*
 >[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[The Cycle of Generations|ka]] unknown)  
+> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] unknown)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

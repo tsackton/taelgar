@@ -31,7 +31,7 @@ All vistors to Erelion, no matter the direction they approach from, find themsel
 ## The Elder Tree
 A vast tree, standing at least 600 feet heigh, and measuring over 100 feet in diameter at its base, that grows in the center of Erelion. Vines and flowers cover the lower reaches of the tree, while the canopy spreads to cover the center of the city, with a diameter of 1000 feet or more. This is a place of prayer, to honer [[Aldanor]], where it is said the spirit of [[Aldanor]] lingers and can be shared in dreaming. 
 
-The upper reaches of the Elder Tree are where the young elves, still in their dreaming spend the [[The Cycle of Generations|mela]] of their birth. 
+The upper reaches of the Elder Tree are where the young elves, still in their dreaming spend the [[Elven Cycle of Generations|mela]] of their birth. 
 
 ![[erelion-twilight-dreams-2.png]]
 *The space for prayer and reflection in the great elder tree at the center of Erelion.*

@@ -1,13 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 ---
+# Merfolk Fortunes
 
 A halfling sea shanty popular among the halflings of the [[Gulf of Chardon]]
 
-## Merfolk Fortunes
 
 ![[merfolk-fortunes.mp3]]
 ![[merfolk-fortunes-alt.mp3]]
+## Lyrics
 
 [Call] Ho, ye sailors, brave and true,  
 [Response] Hoist the sails and hold the brew!

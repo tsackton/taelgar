@@ -1,13 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 ---
+# Fog and Fortune
 
 A popular folk song in [[Apporia]]. 
 
-## Fog and Fortune
-
 ![[fogbound-rescue.mp3]]
 ![[fogbound-rescue-alt.mp3]]
+
+## Lyrics
 
 [verse]
 In a shroud of mist, so thick and grey,  

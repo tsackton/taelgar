@@ -1,7 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 ---
-%%^Date:1740%%
+# The Travelogue of Etienne of Cassons
+*DR 1743*
+
+%%^Date:1743%%
 
 August 31st, 1743
 > It is late in the season to start my journey, but for the last two weeks, the ash storms have been blowing daily from the south. This morning finally dawned clear and hot, and although the air is dry and dusty, I cannot wait for a cleansing thunderstorm, and will set out today. It has been unseasonably warm and the rumors from the March are of wildfires that will not end, and choking dust.

@@ -1,7 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [religion/kestavo, background]
+displayDefaults: {defArt: ""}
 ---
-## Kestavan Funerary Traditions
+# Kestavan Funerary Traditions
+
 In the kestavo tradition amongst the [[Zimkova|Zimka]], the most important guide of the soul to its final home is neither human prayer nor the guidance of priestly ritual, but the *kestavo* themselves. These small gods are not keepers of heavenly kingdoms, but instead guides along the journey. The *kestavo* are expected to guide a soul from the [[Plane of Souls]], at birth, to the [[Material Plane]], and similarly from the [[Plane of Souls]] to the [[Land of the Dead]] at death, and then through the Land of the Dead to the ultimate resting place. As in many cultures, this journey through the Land of the Dead is fraught with peril, and the guidance of a *kestavo* is critical to ensure the soul is not lost along the way. 
 
 In order to facilitate this, the kestavan tradition emphasizes burial of the body in a sacred spot, where the kestavo could easily find the soul, typically considered to linger near the body until ushered to the Land of the Dead. The kestavo would then guide the soul into, through, and out of the Land of the Dead to the final resting place. The ultimate destination of these souls is imagined differently in different regions - but a common idea is a reunion with the ultimate creator, [[Divine Presence|Ako]]. 

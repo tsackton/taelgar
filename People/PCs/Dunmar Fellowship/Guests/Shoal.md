@@ -14,7 +14,7 @@ whereabouts:
 ---
 # Shoal
 >[!info]+ Biographical Info
-> A sea [[Elves|elf]] (he/him), ([[The Cycle of Generations|ka]] 37)
+> A sea [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 37)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
