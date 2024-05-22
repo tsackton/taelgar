@@ -28,10 +28,14 @@ whereabouts:
 
 An adventurer and treasure hunter from the [[Society of the Open Scroll]], now petrified in the fort east of [[Gomat]]. 
 
+%%^Campaign:dufr%%
 Left [[Chardon]] with [[Servius]], [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]]. Argued constantly with [[Servius]], acording to [[Dee Wildcloak]]. Parted ways with other travelers in [[Songara]], presumably to press ahead. 
 
 Passed through [[Karawa]] alone in late February or early March, according to [[Jasu]] and [[Ikram]].
 
+## Chronology
+
 ```dataview
-LIST WITHOUT ID events.text from #timeline flatten file.lists as events where contains(events.text, this.file.name) sort events.DR
+LIST WITHOUT ID events.text flatten file.lists as events where contains(events.text, this.file.name) and contains(events.text, "DR") sort events.DR
 ```
+%%^End%%
