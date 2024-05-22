@@ -24,6 +24,15 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Grave discovered by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
 
-One of the adventurers of the [[Society of the Open Scroll]]. Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
+An adventurer associated with the [[Society of the Open Scroll]]. 
+
+%%^Campaign:dufr%%
+Traveled with [[Dee Wildcloak]] and [[Dain Goldhammer]] to [[Stormcaller Tower]], where he was killed. 
+## Chronology
+
+```dataview
+LIST WITHOUT ID events.text flatten file.lists as events where contains(events.text, this.file.name) and contains(events.text, "DR") sort events.DR
+```
+%%^End%%
 
 %%SECRET[1]%%

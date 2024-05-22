@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+campaignInfo: 
+- {campaign: dufr, type: met, person: Seeker and Delwath, date: 1749-05-07}
 species: human
 ancestry: Chardonian
 gender: female
@@ -11,7 +13,8 @@ whereabouts: Castrella
 >[!info]+ Biographical Info  
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met the [[Seeker]] and [[Delwath]] on May 7th, 1749 in [[Castrella]], [[Cedrano]], the [[Chardonian Empire]] %%^End%%
 
 An elegant woman with striking silver hair and a preference for wearing elegant imported silk robes, Juliana is widely known as a collector of merfolk artifacts and treasures. Her home is a veritable museum of oceanic curiosities, and she obsesses over the provenance and meaning of each piece. 
 

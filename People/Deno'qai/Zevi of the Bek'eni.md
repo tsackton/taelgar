@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/header]
 displayDefaults: { endStatus: "killed by [[Mezzar|Grimbaskal]] on"}
 campaignInfo: []
 name: Zevi
@@ -17,6 +17,8 @@ activeYear: 1745
 > A [[Deno'qai]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%needs campaign info%%
 
 A scout and warrior of the [[Bek'eni]]. 
 
