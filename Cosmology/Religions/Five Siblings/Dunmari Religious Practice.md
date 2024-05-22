@@ -1,8 +1,11 @@
 ---
+headerVersion: 2023.11.25
+displayDefaults: {defArt: ""}
 tags: [religion/fivesiblings, background]
 ---
-# Dunmari Religious Practices
+# Dunmari Religious Practice
 
+This page describes the religious practices of the Dunmari people, focusing on the worship, temples, rites, and rituals associated with the [[Dunmari Pantheon]]. 
 ## Worship
 
 Dunmari worship practice is focused on two main distinct but equally important sets of rituals and traditions, one communal and one individual/familial, with a third strand of ritual practice associated with mystery cults. 

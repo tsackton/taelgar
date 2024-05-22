@@ -14,7 +14,7 @@ campaignInfo:
 # Cirdore
 *(KEER-doh-reh)*
 >[!info]+ Biographical Info  
-> An [[Elves|elf]] (he/him), ([[The Cycle of Generations|ka]] 37)  
+> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 37)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Hosted for dinner by the [[Dunmar Fellowship]] on January 15th, 1749 in [[Erelion]], [[Orenlas]] %%^End%%

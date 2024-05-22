@@ -1,9 +1,13 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 ---
+# Hush Little Beet
 
 The lullaby of [[Putrid Agnes]]
 ![[hush-little-beet.mp3]]
+
+## Lyrics
 
 Hush little beet, now don’t you cry,
 Granny’s gonna make you into a pie.

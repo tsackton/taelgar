@@ -1,12 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [background]
-campaignInfo: []
-hide:
- - toc
- - navigation
+hide: [toc, navigation]
 name: Map of Taelgar
 ---
-# Known World of Taelgar
+# Map of Taelgar
 
 ```leaflet 
 id: world-of-taelgar

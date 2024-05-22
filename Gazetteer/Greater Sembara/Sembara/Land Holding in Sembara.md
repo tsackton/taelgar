@@ -1,7 +1,8 @@
 ---
+headerVersion: 2023.11.25
 tags: [background]
 ---
-## Land Ownership in Sembara
+# Land Holding in Sembara
 
 Land ownership in Sembara is based on a semi-feudal system where the noble peers (barons, dukes, monarchs) control large swathes of land, either directly, as part of their demesne, or indirectly, via manors. Land titles are recorded and tracked by royal or manorial registries, and a legal system exists to enforce property rights and inheritance. Land title ultimately originates in one of two ways:
 

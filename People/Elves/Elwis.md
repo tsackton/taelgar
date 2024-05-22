@@ -18,7 +18,7 @@ pronunciation: EL-wiss
 # Elwis
 *(EL-wiss)*
 >[!info]+ Biographical Info  
-> An [[Elves|elf]] (she/her), ([[The Cycle of Generations|ka]] 37)  
+> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] 37)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on January 2nd, 1749 in the [[Tollen|Free City of Tollen]] %%^End%%

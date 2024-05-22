@@ -1,8 +1,9 @@
 ---
+headerVersion: 2023.11.25
 tags: [background]
+name: The Government of Dunmar
 ---
-
-# Government of Dunmar
+# The Government of Dunmar
 
 Dunmar is a theocratic monarchy, where the ruler, called the Samraat, is assumed to be chosen by the [[Five Siblings]] as their divine representative on Taelgar. All obligations and responsibilities flow, ultimately, from this divine relationship. Indeed, the borders of the kingdom of Dunmar are not conventionally thought of as lines on a map. Rather, Dunmar is simply the people who ultimately owe allegiance to and are protected by the [[Five Siblings]], through their mortal representative on Taelgar, the Samraat.
 

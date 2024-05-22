@@ -1,9 +1,12 @@
 ---
+headerVersion: 2023.11.25
 tags: [source]
 ---
+# Praise the Divine Family
 
 A praise song sung by the [[Dunmar|Dunmari]] about the [[Five Siblings]]
 ![[praise-the-divine-family.mp3]]
+## Lyrics
 
 [chorus]
 By star and stone, by flame and sand,

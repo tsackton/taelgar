@@ -17,7 +17,7 @@ pronunciation: meh-LIN-deer
 # Melindir
 *(meh-LIN-deer)*
 >[!info]+ Biographical Info
-> an [[Elves|elf]] (he/him), of ([[The Cycle of Generations|ka]] 35)
+> an [[Elves|elf]] (he/him), of ([[Elven Cycle of Generations|ka]] 35)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on January 2nd, 1749 in the [[Tollen|Free City of Tollen]] %%^End%%
 

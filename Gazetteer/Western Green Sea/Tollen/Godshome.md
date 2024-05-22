@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 campaignInfo: []
 name: Godshome
@@ -6,7 +7,8 @@ typeOf: ward
 partOf: Tollen
 ---
 # Godshome
->[!info]+ Information
-> A ward in [[Tollen]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A district in [[Tollen]]. Location of the massive domed Temple of the Sibyl, as well as the Temple of the Wanderer with its tall spire, and several other temples and houses of worship.

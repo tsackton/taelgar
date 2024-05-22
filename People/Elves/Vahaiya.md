@@ -20,7 +20,7 @@ whereabouts:
 # Vahaiya
 *(va-HAI-ya)*
 >[!info]+ Biographical Info  
-> An [[Elves|elf]] (they/them), ([[The Cycle of Generations|ka]] 36)  
+> An [[Elves|elf]] (they/them), ([[Elven Cycle of Generations|ka]] 36)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
