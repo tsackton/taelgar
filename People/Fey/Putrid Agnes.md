@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+campaignInfo:
+- {campaign: dufr, type: met, date: 1749-05-03}
 species: fey
 subspecies: hag
 whereabouts:
@@ -11,7 +13,8 @@ whereabouts:
 # Putrid Agnes
 >[!info]+ Biographical Info  
 > A [[Fey|fey]] (hag)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on May 3rd, 1749 in [[Shadowkeep]], the Northern Green Sea %%^End%%
 
 Putrid Agnes is a hag with a morbid fascination with beets. She lived for some time on the outskirts of [[Shadowkeep]] under the protection of [[Rhodar von Glauer]], feasting on the minds of those deemed unworthy of being turned to vampire spawn. 
 
