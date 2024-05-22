@@ -12,7 +12,7 @@ SORT file.path
 
 # People
 (these still need to be double-checked)
-confirmed completed: Chardonians, Deno'qai, Dunmari
+confirmed completed: Chardonians, Deno'qai, Dunmari, Dwarves, Elves, PCs
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, headerVersion
