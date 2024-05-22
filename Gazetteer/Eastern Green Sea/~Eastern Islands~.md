@@ -1,6 +1,6 @@
 ---
 typeOf: islands
-partOf: Green Sea
+whereabouts: Green Sea
 tags: [status/stub, place]
 ---
 

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-partOf: Energy Realms
+whereabouts: Energy Realms
 typeOf: plane
 ---
 # The Plane of Magic

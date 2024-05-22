@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/unknown]
-partOf: Divine Realms
+whereabouts: Divine Realms
 typeOf: plane
 ---
 # The Heart of the Mountain

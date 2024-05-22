@@ -5,7 +5,7 @@ campaignInfo: []
 name: Khatridun
 typeOf: realm
 ancestry: dwarven
-partOf: Labkhan
+whereabouts: Labkhan
 ---
 # Khatridun
 >[!info]+ Information  
