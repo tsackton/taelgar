@@ -24,7 +24,7 @@ pronunciation: FAHL-thrah
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%  
 >> %%^Campaign:dufr%% Last seen by the [[Dunmar Fellowship]] on July 9th, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
 
-Matriarch of the Hardstone clan; associated with the Tokra Archives, where she and her clan help maintain the building. 
+Matriarch of the Hardstone clan; associated with the [[Archives|Tokra Archives]], where she and her clan help maintain the building. 
 ## Relationships:
 - Mother to [[Dag Hardstone]]
 - Sister of [[Morkral Hardstone]]

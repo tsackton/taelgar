@@ -18,4 +18,4 @@ pronunciation: erd-HEEN
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 15th, 1749 in [[Erelion]], [[Orenlas]] %%^End%%
 
-Erdhin is an elf of Orenlas, who serves as an ambassador and caretaker, guiding visitors to the city during their stay in Erelion. 
+Erdhin is an elf of [[Orenlas]], who serves as an ambassador and caretaker, guiding visitors to the city during their stay in [[Erelion]]. 
