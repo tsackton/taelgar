@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [source]
 ---
-# The Travelogue of Etienne of Cassons (DR 1743)
+# The Travelogue of Etienne of Cassons
+*DR 1743*
 
 %%^Date:1743%%
 
