@@ -9,6 +9,13 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 99
 ---
 
+## Timeline
+- (DR:: 1749-05-08), early morning: Depart Castrella in the pre-dawn light, with the outgoing tide, sailing for Calcara Island to find Kazuro, the stoneborn alchemist
+- (DR:: 1749-05-08), midday: Reach Calcara Island; find Kazuro; convince him to share transformation herbs that will turn lungs to gills and back in exchange for returning later to help him build a small school and recruit students. Depart north sailing for Tamaro Bay.
+- (DR:: 1749-05-09): Sail northwest uneventfully.
+- (DR:: 1749-05-10), midday: Round the northernmost point of the [[Apporia|Apporian Peninsula]]. 
+- (DR::1749-05-10), afternoon: Reach Tamaro Bay. Cure [[Dorian Almare]] of a oceanic curse; speak with him about merfolk. 
+- (DR:: 1749-05-10), evening: Sail west into the [[Endless Ocean]]. Reach a place with no winds and strange oceans, above a portal to the [[Elemental Plane of Water]]. Part company with [[Summer's Breeze]] and dive underwater.
 ## Narrative
 
 Our session begins at dawn, in the harbor of Castrella, where the Dunmar Fellowship prepares to set sail on the halfling ship [[Summer's Breeze]], captained by [[Pippa Goodbarrow]], and guided, in part, by the human fisherman and navigator [[Martino]]. With the outgoing tide, the party sets sail, making good speed. The party is aiming to find Kazuro, a stoneborn hermit, who may be able to provide a magical way to breath water, allowing the party to search for the merfolk and the [[Jade Piece of Rai's Hand]]. Martino suggests that Calcara Island, an uninhabited, rocky island off the coast, might be a good place for hermit, and Delwath confirms this by speaking with the tanshi. 

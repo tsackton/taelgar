@@ -3,7 +3,7 @@ tags: [status/needswork, source]
 excludePublish: ["all"]
 ---
  
-May 29th,1651
+May 29th, 1651
 
 Dear Festian,
 I hope this letter finds you well. As promised, I am recording my observations of the lands I pass through. The crossing over the mountains was grueling and perhaps I should not have struck out from Tokra so early, but I was impatient to leave the Dunmari - fine people, but I have visited their lands twice before and the prospect of reaching Sembara left me breathless.
