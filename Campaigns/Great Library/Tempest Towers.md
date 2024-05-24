@@ -1,3 +1,6 @@
+---
+tags: [place, status/stub]
+---
 
 
 # The Tempest Towers

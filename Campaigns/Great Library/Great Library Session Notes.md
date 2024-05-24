@@ -1,3 +1,7 @@
+---
+tags: [session-note]
+---
+
 # The Chronicles of the Silver Tempests
 
 Herein lies the chronicles of the [[Silver Tempests]], from their humble roots as hired adventurers for the [[Great Library]], to their current fame.
