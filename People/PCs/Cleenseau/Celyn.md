@@ -8,9 +8,15 @@ ddbLink: https://www.dndbeyond.com/characters/90849827
 ancestry: Tyrwinghan
 gender: male
 player: Kiya Nicoll
-affiliations: [{org: Heroes of Cleenseau }]
+affiliations: 
+- {org: Heroes of Cleenseau }
+- {org: Mahaut's Miracle Players, start: 1717-12, end: 1719-06-29 }
 whereabouts:
-- {type: home, end: 1719, location: Clawyn}
+- {type: away, start: 1715-03, end: 1715-12, location: Ruthin }
+- {type: home, end: 1716-10, location: Clawyn}
+- {type: away, start: 1716-10, end: 1717-01, location: Tafolwern }
+- {type: away, start: 1717-02, end: 1719-06-29, location: traveling with Mahaut's Miracle Players}
+- {type: away, start: 1719-06-29, end: 1720-10-17, location: traveling to Cleenseau }
 - {type: away, start: 1719-10-17, end: 1720-01-12, location: Cleenseau}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 ---
