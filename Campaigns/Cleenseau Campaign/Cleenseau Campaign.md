@@ -43,12 +43,21 @@ The action begins just outside the market town of [[Cleenseau]].
 	The party investigates the ruins beneath Cleenseau and finds shadows, zombies and worse
 
 * January 7th, 2024: [[Cleenseau - Session 10]]
-	The party defeats a wight and rides to the recuse of the [[Lord's Guard of Cleenseau]]
+	The party defeats a wight and rides to the rescue of the [[Lord's Guard of Cleenseau]]
 
 * February 4th, 2024: [[Cleenseau - Session 11]]
 	The party organizes the town defenses and eliminates a nuisance 
 
 * March 3rd, 2024: [[Cleenseau - Session 12]]
 	The party defeats an undead invasion
+
+* March 31, 2024: [[Cleenseau - Session 13]]
+	The party investigates a lake monster
+
+* April 28th, 2024: [[Cleenseau - Session 14]]
+	The party defeats a lake monster
+
+* June 2nd, 2024: [[Cleenseau - Session 15]]
+	The party returns to Cleenseau and deals with accumulated and new problems
 
 You might also want to read the [[Cleenseau Campaign - Index of NPCs|Index of NPCs]] or the [[Cleenseau Campaign - Timeline|timeline]]
