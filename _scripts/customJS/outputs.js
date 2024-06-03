@@ -29,6 +29,9 @@ class OutputHandler {
             }
         }
 
+        if (metadata.tags && metadata.tags.some(f => f =="source"))
+            return currentContents
+
         // find the end of the header block -- the first newline (blank line) after the YAML block
         let indexOfHeaderBlockEnd = currentContents.findIndex((f, i) => i > indexOfYamlEnd && f.trim() == "");
 
