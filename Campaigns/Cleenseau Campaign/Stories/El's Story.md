@@ -1,6 +1,7 @@
-## [[El|El's]] Story To Celyn
+# [[El|El's]] Story
+_As told to Celyn, in [[Asineau]], January 11th, 1720, in response to [[Celyn's Story of Getting His Name]]_
 
-"I appreciate the offer, but I need it not. Let me tell you my story. I grew up in [[Gowerbourne]], on the [[Wistel]], one of four siblings. It was an idyllic childhood, in many ways. We ran a warehouse and trading house for the shepherds, and each spring would organize the wool and sell it to the riverboats and halfling traders taking it to [[Embry]] or [[Tollen]]." 
+"I appreciate the offer \[of herbal hormones\], but I need it not. Let me tell you my story. I grew up in [[Gowerbourne]], on the [[Wistel]], one of four siblings. It was an idyllic childhood, in many ways. We ran a warehouse and trading house for the shepherds, and each spring would organize the wool and sell it to the riverboats and halfling traders taking it to [[Embry]] or [[Tollen]]." 
 
 They finger their sleeve, which looks very well made. "We'd buy the fine cloth later, with the profits. My father loved to be seen in fine things. He could never understand how much I hated to be shown off. For when I came of age I developed curves, and I couldn't stand the sight of myself. I think if I had told him I was growing to be a man the hard way, like you, he would have understood. But it wasn't that, I just didn't fit in that awful feminine body. But I was also young, and I couldn't explain it, and my father, he and I fought over and over again when I'd refuse to wear the outfits he bought me, always looking to show off my beauty, he said, always looking to find a good suitor. I ran away from home a few times, but always returned. I did love my father and my siblings and had nowhere else to go."
  

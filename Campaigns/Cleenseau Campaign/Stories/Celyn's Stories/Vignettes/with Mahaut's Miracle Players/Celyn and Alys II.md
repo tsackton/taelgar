@@ -1,3 +1,7 @@
+---
+excludePublish: ["all"]
+---
+
 Celyn was dicing with Alys again.  Just the two of them, this time; they were between villages and nobody wanted to get between Celyn’s occasional runs of luck and Alys’s drive to win.  
 
 Once it seemed most everyone else had gone off to their own entertainments, she paused, pouring the dice back and forth between her hands, and peered at him.  

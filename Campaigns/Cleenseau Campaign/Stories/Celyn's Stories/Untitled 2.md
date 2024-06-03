@@ -1,3 +1,7 @@
+---
+excludePublish: ["all"]
+---
+
 “Come on, Llinos!  Don’t be lagging!”  
         Cynog was grumpy, but he was often grumpy, particularly with his youngest sibling - seven years younger and easily distracted, in this case by a flight of geese headed for the river to the west.  It was a gruff fondness, more often than not, rather than real annoyance.  
         Said youngest sibling waited for the geese to pass to the far side of the sky before making certain of the grip on a bundle of flowers and hurrying along behind Cynog.  They were going to Nefyn, and Nefyn was rather exciting compared to Clawyn; more specifically, they were going to see Delyth the Dyer.  

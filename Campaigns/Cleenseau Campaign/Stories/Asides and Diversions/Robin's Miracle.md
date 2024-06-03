@@ -1,3 +1,5 @@
+# Robin's Miracle of Smiting
+
 >[!Info]- This is [[Robin of Abenfyrd|Robin's]] reflections on the smiting of the skeleton. Only read it if Robin has revealed it in game
 > Robin still thinks often about how it felt. He had been fighting on and off, chasing the zombies, for an hour by then. But the calvary had held up well, and he was confident, until that thing slithered into the water.  
 > 

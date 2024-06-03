@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [source]
-name: Letter from [[Alaric]], Lord Mayor of Rinburg
 ---
 # Letter from [[Alaric]], Lord Mayor of Rinburg
 _Received January 14th, in [[Champimont]]_
