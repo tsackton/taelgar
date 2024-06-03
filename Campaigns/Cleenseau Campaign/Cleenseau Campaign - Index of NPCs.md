@@ -123,7 +123,7 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
 
 <div class="grid cards ext-narrow-margin" markdown>
  - ![[sabine-de-brune-valit.png|left|120]] [[Sabine de Brune]], the castellean and magistrate
- - ![[giselle.png|left|120]] [[Giselle]], the her secretary and clerk of the baronial records 
+ - ![[giselle.png|left|120]] [[Giselle]], her secretary and clerk of the baronial records 
  - ![[warin-the-woodsman.png|left|120]] [[Warin the Woodsman]], captain of Valit's household guard and a skilled tracker
 </div>
 
@@ -154,8 +154,8 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
  - ![[adra-brightwood.png|left|120]] [[Adra Brightwood]], a halfling with magical birds
  - ![[enzo-brightwood.png|left|120]] [[Enzo Brightwood]], a halfling scout, Adra's cousin
  - ![[damien-montrichard.png|left|120]] [[Damien Montrichard]], a musician and storyteller
- - ![[emilie-adderfell.png|left|120]], [[Emilie]], skilled with her axe
- - ![[remille-vauclaire.png|left|120]] [[Remille Vauclaire], a swordswoman
+ - ![[emilie-adderfell.png|left|120]] [[Emilie]], skilled with her axe
+ - ![[remille-vauclaire.png|left|120]] [[Remille Vauclaire]], a swordswoman
  - ![[tristan-vaudrillard.png|left|120]] [[Tristan Vaudrillard]], a devotee of [[The Sibyl]] and student of magic
  - ![[armand-night-queen-new.png|left|120]] [[Armand]], a disciple of the Night Queen
 </div>
