@@ -1,3 +1,10 @@
+---
+headerVersion: 2023.11.25
+tags: [source]
+---
+# Stories of Tyrwingha (For Profit)
+_Discovered in [[Cleenseau]] in early January, 1720_
+
 *Stories of Tyrwingha (For Profit)* is written as a set of notes and hints from a master storyteller to her apprentices about how to best tell popular stories from Tyrwingha. It is clearly written for someone who knows the folktales and stories, or is comfortable making them up. For tales that would be expected to be quite well known, it barely even hints at the plot. For other tales, it outlines the plot a bit and is full of marginalia explaining when to take a dramatic pause, when to pass a hat, when to embellish, when to burst into song, and so on. 
 
 There are four stories about the fey directly, although fey are mentioned in various other stories as well:

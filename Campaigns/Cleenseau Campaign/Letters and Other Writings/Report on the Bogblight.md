@@ -1,3 +1,10 @@
+---
+headerVersion: 2023.11.25
+tags: [source]
+---
+# Reports on the Bogblight
+_Discovered in [[Cleenseau]], in the archives of the [[Army Garrison of Cleenseau]], in early January, 1720_
+
 The first letter reads:
 
 Captain:

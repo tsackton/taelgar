@@ -1,4 +1,9 @@
-Received January 15th, in Champimont.
+---
+headerVersion: 2023.11.25
+tags: [source]
+---
+# Letter from [[Rosalind Essford|Rosalind]] to the [[Heroes of Cleenseau]]
+_Received January 15th, in [[Champimont]]
 
 Friends:
 
