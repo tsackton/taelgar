@@ -1,3 +1,6 @@
+---
+excludePublish: ["all"]
+---
 Celyn was not sure he’d done a good job explaining all of it, what he and Grandfather Trefor had said after he’d hiked down to Nefyn.  He hadn’t talked about what he and Ellis had discussed before, about knowing he was bound to leave, and he still didn’t talk about that; it was too complicated an injury for words.  He did, at least, manage to talk about how frustrated he was that everyone assumed that he would just settle into the Mother’s temple and do what he was told, and his mother had laughed and laughed at that.  Of course, she knew better.  
 
 “I suppose I always knew,” she said then, “that you weren’t going to be settling down with that Crowther boy and making beautiful grandchildren.”  

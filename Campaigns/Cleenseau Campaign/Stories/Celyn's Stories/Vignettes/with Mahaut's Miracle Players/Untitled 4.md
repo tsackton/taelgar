@@ -1,3 +1,6 @@
+---
+excludePublish: ["all"]
+---
 Sometimes Celyn climbed up to sit on top of one of the Players’ wagons.  It took time and effort and the use of a bit of scaffolding, generally speaking, but once he was there he could sprawl out and just be and watch the birds or listen to whatever was going on where they were encamped.  Mahaut knew where he was, of course, but Mahaut had her finger on the pulse of everything.  
 
 The wagon thumped oddly and he rolled up onto his side to peer and see Charlotte climbing up on top too.  She was stronger than he was by a little but he thought she maybe didn’t handle the scaffolding as gracefully; it all worked out in the end.  

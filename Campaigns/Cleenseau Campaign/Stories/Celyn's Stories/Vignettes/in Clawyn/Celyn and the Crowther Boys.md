@@ -1,3 +1,6 @@
+---
+excludePublish: ["all"]
+---
 Celyn had tucked himself into a fold of the hill under a tree to work on his drum.  The drum was an ever-changing thing, depending on which feathers and sticks and other such things seemed to need to go on it, threaded through the lacings or dangling from odd bits of thread or string that he salvaged from Mama’s work.  Today he wanted to get a pattern of leaves around the edge while they were still green, so he was working diligently on tucking them into the lacings without ripping them.  
 
 There was a rustle, and he looked up: the person approaching was tall, darkhaired, carrying a crwth by a grip about the neck with a left hand.  Celyn narrowed his eyes slightly, glancing at the face, and then said, “Llew, tell Ellis to stop messing around. You stop messing around too.”  

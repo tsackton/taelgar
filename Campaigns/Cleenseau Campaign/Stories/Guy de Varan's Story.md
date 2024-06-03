@@ -1,4 +1,6 @@
-His story continues in this vein for some time, but you are able to decipher it as follows:
+# Guy de Varan's Story of Orc Raids
+_As told to the [[Heroes of Cleenseau]], in [[Cleenseau]], December 4th, 1719_
+
 
 This past summer, in July and August, there were some rumors of [[Orcs|orc]] raiders coming out of the foothills to the west and raiding along [[Bandit's Way]], but this is the type of thing that happens now and then and usually the Duke of [[Duchy of Maseau|Maseau]], or the [[Army of the West]] in [[Sembara]] will raise a expeditionary force and go hunt them down before it becomes a real problem. Guy has no idea why this didn't happen, but by early September, the rumors stopped and things seemed to have quieted down. So Guy didn't think much of it. 
 
