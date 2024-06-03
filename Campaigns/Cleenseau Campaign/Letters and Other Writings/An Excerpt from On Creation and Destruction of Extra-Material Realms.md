@@ -1,3 +1,10 @@
+---
+headerVersion: 2023.11.25
+tags: [source]
+---
+# An Excerpt from "On Creation and Destruction of Extra-Material Realms"
+_Discovered in [[Cleenseau]] in early January, 1720_
+
 In the home of [[Arnaud Ausson]], a prominent [[Isingue|Isinguer]] merchant, you find amongst his papers an book of reviews and critical reactions to a famous Drankorian play, [[A Fool's Fortune]]. This play is lost, or at least, [[Arnaud Ausson]] doesn't have a copy of the play, and the book of reviews and reactions is itself ancient, dating from the end of the Drankorian Empire around 1000 DR.
 
 The physical copy [[Arnaud Ausson]] has, however, was copied from (what he says was a Drankorian original) in the city of [[Isingue]] in DR 1492. It is a beautiful book, with an elaborate leather cover and numerous flourishes on the pages, and a note in the front:

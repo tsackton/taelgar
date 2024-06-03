@@ -1,4 +1,9 @@
-Received on January 8th:
+---
+headerVersion: 2023.11.25
+tags: [source]
+---
+# Letter from [[Rosalind Essford|Rosalind]] to the [[Heroes of Cleenseau]]
+_Received January 8th, in [[Cleenseau]]_
 
 Friends:
 

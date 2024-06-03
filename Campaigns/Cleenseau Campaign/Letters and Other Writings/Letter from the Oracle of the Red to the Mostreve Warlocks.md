@@ -1,4 +1,9 @@
-An order from the Oracle of the Red:
+---
+headerVersion: 2023.11.25
+tags: [source]
+---
+# An order from the Oracle of the Red
+_Discovered in [[Cleenseau]] in early January, 1720_
 
 Warlocks of Ethlenn serving in the Radiant Alliance, please head these orders while west of Fellburn. 
 
