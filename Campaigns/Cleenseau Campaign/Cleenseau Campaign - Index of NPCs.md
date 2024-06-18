@@ -165,4 +165,5 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
   - [[Francois the Bandit|François the Bandit]], died of his own hand
   - [[Jerome]], executed in [[Cleenseau]]
   - ![[wakog.png|left|120]] [[Wakog]], an ogre, now dead
+  - ![[gareth-of-tollen.png|left|120]] [[Gareth of Tollen]], a child-murderer and bandit
 </div>
