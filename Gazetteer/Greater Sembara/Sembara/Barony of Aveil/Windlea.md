@@ -4,7 +4,7 @@ tags: [place]
 typeOf: settlement
 typeOfAlias: village
 whereabouts: Barony of Aveil
-population: 534
+population: 234
 ---
 # Windlea
 >[!info]+ Information

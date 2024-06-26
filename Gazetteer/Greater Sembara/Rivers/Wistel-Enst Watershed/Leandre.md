@@ -2,8 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: the}
-typeOf: river
-whereabouts: Enst
+typeOf: waterway
+typeOfAlias: river
+whereabouts: Barony of Aveil
 pronunciation: Leh-ahn-dray
 ---
 # The Leandre
