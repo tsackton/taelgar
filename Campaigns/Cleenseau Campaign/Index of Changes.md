@@ -1,6 +1,8 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### June 25th, 2024
+* Added a map and few minor details to the [[Barony of Aveil]]
 ### June 3rd, 2024
 * Updated the Letters and Other Writings (to include latest material, and reorganize) and adding some stories and other tales, mostly from emails
 ### March 29, 2024
