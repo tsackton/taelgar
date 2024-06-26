@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
-whereabouts: Enst
+displayDefaults: {defArt: "the"}
+typeOf: waterway
+typeOfAlias: river
+whereabouts: Barony of Aveil
 pronunciation: Oh-beh-ron
 ---
-# Auberonne
+# The Auberonne
 *(Oh-beh-ron)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
