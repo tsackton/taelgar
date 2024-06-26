@@ -2,4 +2,4 @@
 tags: [status/stub, person]
 ---
 
-![[elodie-blanchard.png]]
+![[elodie-blanchard.jpg]]
