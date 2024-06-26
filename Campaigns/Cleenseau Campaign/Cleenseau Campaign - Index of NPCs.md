@@ -103,7 +103,7 @@ The [[Manor of Asineau]] is one of the smaller manors in the region, and has suf
  - ![[eleanor.png|left|120]] [[Eleanor]], the long time administrator of the Temple of the Wyrdling in Asineau, bedridden and ill
  - ![[el-wyrdling.png|left|120]] [[El]], a acolyte of the Wyrdling, recently experienced their first miracle
  - ![[bertram-northwoods-2.png|left|120]] [[Bertram Northwoods]], the stablemaster
- - ![[Susanna-Northwords.png|left|120]] [[Susanna Northwoods]], the steward
+ - ![[Susanna-Northwords.jpg|left|120]] [[Susanna Northwoods]], the steward
 </div>
 
 ## Important People in Beury
@@ -150,10 +150,10 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
 
 ## Rangers and Other Heroes
 <div class="grid cards ext-narrow-margin" markdown>
- - ![[vahaiya-2.png|left|120]] [[Vahaiya]], elf and warrior
+ - ![[vahaiya-2.jpg|left|120]] [[Vahaiya]], elf and warrior
  - ![[adra-brightwood.png|left|120]] [[Adra Brightwood]], a halfling with magical birds
  - ![[enzo-brightwood.png|left|120]] [[Enzo Brightwood]], a halfling scout, Adra's cousin
- - ![[damien-montrichard.png|left|120]] [[Damien Montrichard]], a musician and storyteller
+ - ![[damien-montrichard.jpg|left|120]] [[Damien Montrichard]], a musician and storyteller
  - ![[emilie-adderfell.png|left|120]] [[Emilie]], skilled with her axe
  - ![[remille-vauclaire.png|left|120]] [[Remille Vauclaire]], a swordswoman
  - ![[tristan-vaudrillard.png|left|120]] [[Tristan Vaudrillard]], a devotee of [[The Sibyl]] and student of magic
@@ -164,6 +164,6 @@ The [[Manor of Valit]] is a baronial manor based on the small village of [[Valit
 <div class="grid cards ext-narrow-margin" markdown>
   - [[Francois the Bandit|François the Bandit]], died of his own hand
   - [[Jerome]], executed in [[Cleenseau]]
-  - ![[wakog.png|left|120]] [[Wakog]], an ogre, now dead
+  - ![[wakog.jpg|left|120]] [[Wakog]], an ogre, now dead
   - ![[gareth-of-tollen.png|left|120]] [[Gareth of Tollen]], a child-murderer and bandit
 </div>

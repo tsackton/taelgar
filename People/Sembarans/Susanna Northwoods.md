@@ -11,4 +11,4 @@ ancestry: Sembaran
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[Susanna-Northwords.png|right|320]]The steward and secretary for the [[Manor of Asineau]], and the wife of [[Bertram Northwoods]].
+![[Susanna-Northwords.jpg|right|320]]The steward and secretary for the [[Manor of Asineau]], and the wife of [[Bertram Northwoods]].
