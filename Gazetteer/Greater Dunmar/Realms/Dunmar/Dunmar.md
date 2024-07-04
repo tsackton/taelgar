@@ -143,7 +143,7 @@ In general, the practice of magic by those who are not priests or mystai is frow
 
 *See also: [[Dunmari Economy]]*
 
-Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the [[Hara river valley]], as well as near the oases of the [[Red Mesa]].
+Dunmar is largely agrarian, with an economy dominated by animal production. Dunmari horses are highly sought after, most notably, but the Dunmari are also known for leather products, wool, hides, and fur. Some seasonal crops are grown in the [[Hara River Valley]], as well as near the oases of the [[Red Mesa]].
 
 While historically Dunmar gained much wealth from its central position on trade routes between the east and west, since the [[Great War]] minimal trade, mostly carried by long distance halfling caravans, moves from the [[Green Sea]] to [[Chardon]].  Nonetheless, Dunmar, especially [[Darba]] and [[Songara]], remain important trading centers, with Darba serving as a link between the dwarves of [[Ardith]] and the west, and [[Songara]] retaining its ancient role as an important horse market. [[Askandi]], in the south, is an important center of trade with the dwarves of the [[Yuvanti Mountains]], who trade metal and finished metal products to the Dunmari. 
 

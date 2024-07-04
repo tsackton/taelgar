@@ -80,9 +80,7 @@ A little enamored with Robin probably from the rescue, will tend to defer to any
 > **Treph Hardpick** (he/him)
 > A dwarf, traveler from [[Nardith]]. A laborer, looking more concerned with the evening's dice-and-drinking than apperances, but not poor per-se. Has a grumpy vibe. On the young side of middle-aged, about 200.
 > 
-> ![[Treph screenshot.png]]
-> 
-> **Sarlana Silversword** (she/her)
+> ![[Treph screenshot.[](Nardith.md)**Sarlana Silversword** (she/her)
 > A human warrior and aspiring paladin from [[Tollen]]. Confident bordering on overconfident and wearing well-taken-care-of brigandine armor. Braid comes out from under her helm, otherwise only her stern jaw is visible. 
 > 
 > ![[Sarlana screenshot (1).png]]
