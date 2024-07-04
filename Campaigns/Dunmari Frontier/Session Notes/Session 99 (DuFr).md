@@ -4,7 +4,7 @@ campaign: Dunmari Frontier
 sessionNumber: 99
 realWorldDate: 2024-05-16
 DR: 1749-05-08
-DR_end: 1749-05-12
+DR_end: 1749-05-11
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 99
 tagline: in which the party seeks underwater aid
@@ -14,7 +14,7 @@ descTitle: The Path to the Merfolk
 
 >[!info] The Path to the Merfolk: in which the party seeks underwater aid
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
-> *In Taelgar: May 08, 1749 DR to May 12, 1749 DR*
+> *In Taelgar: May 08, 1749 DR to May 11, 1749 DR*
 > *On Earth: Thursday May 16, 2024*
 > *From [[Castrella]] to the [[Endless Ocean]]*
 
@@ -35,7 +35,7 @@ The [[Dunmar Fellowship]] secures water-breathing potions from [[Kazuro]], cures
 - (DR:: 1749-05-10), midday: Round the northernmost point of the [[Apporia|Apporian Peninsula]]. 
 - (DR::1749-05-10), afternoon: Reach Tamaro Bay. Cure [[Dorian Almare]] of a oceanic curse; speak with him about [[merfolk]]. 
 - (DR:: 1749-05-10), evening: Sail west into the [[Endless Ocean]]. 
-- (DR:: 1749-05-12), pre-dawn: Reach a place with no winds and strange oceans, above a portal to the [[Elemental Plane of Water]]. Part company with [[Summer's Breeze]] and dive underwater.
+- (DR:: 1749-05-11), pre-dawn: Reach a place with no winds and strange oceans, above a portal to the [[Elemental Plane of Water]]. Part company with [[Summer's Breeze]] and dive underwater.
 
 ## Narrative
 Our session begins at dawn, in the harbor of [[Castrella]], where the[[ Dunmar Fellowship]] prepares to set sail on the halfling ship [[Summer's Breeze]], captained by [[Pippa Goodbarrow]], and guided, in part, by the human fisherman and navigator [[Martino]]. With the outgoing tide, the party sets sail, making good speed. The party is aiming to find [[Kazuro]], a stoneborn hermit, who may be able to provide a magical way to breath water, allowing the party to search for the merfolk and the [[Jade Piece of Rai's Hand]]. [[Martino]] suggests that [[Calcara Island]], an uninhabited, rocky island off the coast, might be a good place for hermit, and [[Delwath]] confirms this by speaking with the [[tanshi]]. 

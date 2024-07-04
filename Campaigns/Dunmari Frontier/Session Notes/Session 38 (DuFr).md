@@ -34,7 +34,7 @@ The [[Dunmar Fellowship]] reunites with [[Riswynn]] who is hunting werewolves, a
 
 ### Timeline
 - (DR:: 1748-07-02), late afternoon: Search bodies. More werewolves attack. [[Riswynn]] and [[Vistra Fireforge]], tracking the werewolves, arrive and join the fight. [[Kenzo]] wounded, cured of suspected lycanthropy by [[Riswynn]]. Search the lair, finding notes and clues, a [[Dunmari map of Pandemonium ruins]] ,and other treasures, despite setting off a dangerous trap. 
-- (DR:: 1748-07-02), evening: Return [[Govir]] to [[archives]]. Speak with [[Kaleha]]. 
+- (DR:: 1748-07-02), evening: Return [[Govir]] to [[Archives]]. Speak with [[Kaleha]]. 
 
 ### Notes
 - [[Archives Letter]], a copy of a scroll originally found by the Chardonian historian and explore [[Servius]]
