@@ -7,13 +7,32 @@ DR: 1749-05-11
 DR_end: 1749-05-11
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 100
+tagline: in which the party scouts an abandoned merfolk city
+descTitle: Descent into Omi
 ---
+# Dunmari Frontier - Session 100
 
+>[!info] Descent into Omi: in which the party scouts an abandoned merfolk city
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: May 11, 1749 DR*
+> *On Earth: Tuesday May 28, 2024*
+> *[[Merfolk]] city of [[Omi]]*
+
+The Dunmar Fellowship scouts the underwater city of Omi, locates a portal, and formulates a plan to bypass its guardian.
+
+***19 days until Apollyon's escape***
 ## Session Info
+### Summary
+- The party descends underwater using magical means to breathe and enters a protective cocoon of the Sentient Ocean.
+- They receive visions from the Sentient Ocean, revealing histories about themselves and the ocean.
+- The party scouts the merfolk city of Omi, noting its features and guarded prisoners.
+- Using a Wand of Detect Magic, they locate a portal beneath a central civic building patrolled by a tentacled guardian.
+- The party devises a plan involving spells and distractions to enter the building stealthily.
+- They find signs of occupation and nearly alert the guardian while scouting the building.
+
 ### Timeline
 - (DR:: 1749-05-11), morning: Pass through the [[Sentient Ocean]] guarding the [[Merfolk]] city of [[Omi]]. Scout the city. Find a portal to the [[Elemental Plane of Water]]. Plan how to get past the guardian. 
 ## Narrative
-
 The session begins underwater, as the party begins to sink, the water growing darker and more surreal as the party descends below the surface, using their magical gills from [[Kazuro]]'s potion to breath (except [[Kenzo]], who has his cloak of the mantra ray). 
 
 As the party passes into the protective cocoon of the [[Sentient Ocean]], a barrier keeping the merfolk city of [[Omi]], below, sealed off from the rest of the ocean, they are presented with a [[Visions of the Sentient Ocean|series of visions]], telling something of the history of the [[Sentient Ocean]], and probing the history of [[Delwath]], [[Seeker]], [[Kenzo]], [[Riswynn]], and [[Wellby]]. As the ocean and the party trade [[Visions of the Sentient Ocean|stories of their pasts]], the party slowly passes through the barrier and emerges above [[Omi]].
