@@ -2,16 +2,22 @@
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 102
-realWorldDate:
-DR: 
-DR_end: 
+realWorldDate: 2024-06-30
+DR: 1749-05-11
+DR_end: 1749-05-11
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 102
 ---
 
-## Halfling Rescue
+## ## Session Info
+### Timeline
+- (DR:: 1749-05-11), evening:
+- (DR:: 1749-05-12), morning:
+
+## Narrative
 
   
+
 
 The party entered a prison complex where they communicated telepathically with Milo Thistlefoot, a captured halfling. Delwath used his ghostly gaze to look inside a hut, seeing a Murfolk scholar working with bound elementals and sorting pictographs and mosaics. These pictographs depicted alien whirlpools and strange forms, possibly names of places or beings.
 
