@@ -17,4 +17,4 @@ Since the [[Cloudspinner]] vanished from [[Amberglow]] it has been odder, and le
 
 Where the Sunset Gate crosses through [[Duskmire]], near the [[Darkwood]], it has been chiseled and worked by [[Lord Umbraeth]] to try to tear it down, but it has instead grown back as a tangled maze of angry reds and oranges, like sharp glass. This part of the Sunset Gate is especially difficult to pass.
 
-The northern parts of the Sunset Gate, north of the [[~Evensong Spire~]] is outside any particular fey domain, althoug the sunward side is inhabited by a number of allies of [[Archfey Ethlenn]] who are charged, among other things, to watch for mischief from the [[Lord Umbraeth|Gloomshaper]].
+The northern parts of the Sunset Gate, north of the [[~Evensong Spire~]] is outside any particular fey domain, although the sunward side is inhabited by a number of allies of [[Archfey Ethlenn]] who are charged, among other things, to watch for mischief from the [[Lord Umbraeth|Gloomshaper]].
