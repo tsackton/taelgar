@@ -18,4 +18,6 @@ whereabouts:
 
 ![[elizabeth-of-cassen.png|right|420]]A middle aged woman, who became a solider in her later life. She worked for the lord of [[Cassen]] until the [[Undead Attacks in Sembara]] decimated her village.
 
+Her story is [[Elizabeth of Cassen's Story|here]].
+
 
