@@ -19,6 +19,8 @@ descTitle: Into the Plane of Water
 > *[[Elemental Plane of Water]]*
 
 The Dunmar Fellowship defeats the Herald of Gazankoa, battles merfolk, and discovers captive halflings in the Elemental Plane of Water.
+
+***19 days until Apollyon's escape***
 ## Session Info
 ### Summary
 - The Dunmar Fellowship prepares and then defeats the Herald of Gazankoa, gaining entry into the Elemental Plane of Water.
