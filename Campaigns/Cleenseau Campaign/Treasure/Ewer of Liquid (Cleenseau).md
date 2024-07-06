@@ -13,7 +13,7 @@ pcOwner: Heroes of Cleenseau
 # Ewer of Liquid
 >[!info]+ Information  
 > ([[Drankorian Empire|Drankorian]] magical ewer)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/4691-pearl-of-power)  
+> [Mechanics](https://www.dndbeyond.com/magic-items/6683137-ewer-of-liquid)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 ![[ewer-of-liquid.png|right|420]]A strangely unchipped ceramic ewer, decorated with Drankorian words for milk, water, beer, wine, honey, vinegar, tea and oil in stylized patterns running up and down the sides. It holds about a quart of liquid and sounds full of water sloshing around despite being empty. Found in the bandit lair.
