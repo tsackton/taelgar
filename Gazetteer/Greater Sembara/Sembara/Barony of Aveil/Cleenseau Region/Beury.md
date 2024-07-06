@@ -45,3 +45,8 @@ dv.table(["Person", "Info", "Current Location", "Home"],
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
 ```
 %%^End%%
+
+_Distances:_
+* to [[Cleenseau]], 5 miles
+* to [[Dallet]], 15 miles
+* to [[Rinburg]], 55 miles
