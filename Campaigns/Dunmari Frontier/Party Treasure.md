@@ -1,6 +1,7 @@
 ## Recent Acquisitions, NOT incorporated below
 
 [[Treasure from Ursk]]
+[[Treasure from Merfolk Quest]]
 
 ## Magic Items
 
