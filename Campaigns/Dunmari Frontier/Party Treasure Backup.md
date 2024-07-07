@@ -7,11 +7,8 @@
 
 ### Delwath
 
-| Image                     | Name                     | Rarity                | Origin                                                                                                                            | Mechanics                                                                      |
-| ------------------------- | ------------------------ | --------------------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
-| ![[lynx-shield.png\|240]] | [[Deno'qai Lynx Shield]] | Legendary, major item | Gifted to Delwath by [[Enon]], and blessed by the [[Meswati]] as they are freed. Later enhanced with [[Skaer steel]] by [[Umli]]. | [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield) |
 Major items:
-
+- [[Deno'qai Lynx Shield]] (legendary major item)
 - [[Narengril]] (rare major item)
 - [[Deno'qai Scale Mail]] (uncommon major item)
 - [[Ring of Displacement]] (uncommon major item)
