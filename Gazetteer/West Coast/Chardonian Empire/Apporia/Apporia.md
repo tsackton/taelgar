@@ -25,6 +25,13 @@ Who else might live in the wild interiors of Apporia, is not known.
 
 ## History 
 
+According to the records of the Chardonian Empire, the Apporian Peninsula was originally settled by the Drankorians, who originally constructed the [[Old Chardon Canal]] and established a series of maritime bases on the [[Gulf of Chardon]] and the [[Nevos Sea]], although never reached the western coast or the interior. These records do not speak to whether any peoples lived on the coasts prior to Drankorian settlement, or who might have lived -- or still live -- in the interior. 
+
+After the fall of Drankor, [[Castrella]], in the current day province of [[Cedrano]] became a significant maritime power, exerting control over the [[Old Chardon Canal]], the [[Gulf of Chardon]], and the rich agricultural territory on the coastal plains of [[Raziolo]]. By the time of the [[Great War]], the canal was jointly managed by a confederation of Chardonian and Castrellan traders, as Chardon grew in influence. 
+
+In the chaos after the [[Great War]], [[Illoria|Illorian]] pirates under the command of [[Chirce]] established control over much of the current day territory of [[Portalia]], including the [[Old Chardon Canal]], and parts of current day [[Cedrano]], although not the capital [[Castrella]], or the current day province of [[Raziolo]]. 
+
+After [[Chirce]] was driven out of [[Darba]] in DR 1559, he made [[Pergia]], the city at the [[Emerald Bay]] entrance to the [[Old Chardon Canal]], his capital, and for the next 
 
 %%SECRET[2]%%
 
