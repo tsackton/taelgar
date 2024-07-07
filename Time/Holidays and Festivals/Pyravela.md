@@ -1,5 +1,5 @@
 ---
-tags: [holiday, status/unknown]
+tags: [holiday, status/tim]
 campaignInfo: []
 name: Pyravela
 pronunciation: PIE-ra-VEL-a
@@ -8,6 +8,8 @@ fc-end: {day: 31, month: 12}
 ---
 # Pyravela
 *(pie-ra-vel-a)*
+
+%% Moving away from unknown to tim, I think this is complete %%
 
 An ancient [[Mos Numena]] holiday, celebrated on the last three days of the year in the Drankorian reckoning, December 29-31. 
 

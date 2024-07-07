@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, person, dufr/unaware, status/unknown]
-campaignInfo: []
+tags: [historical, person/ruler]
 name: Blanche II
 born: 1570
 species: human
@@ -16,9 +15,9 @@ leaderOf:
 affiliations: [House of Sewick]
 ---
 # Queen Blanche II
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The second child of [[Elaine I]] and [[Cynan]]. Her son, [[Arryn II]], succeeds her to the united crowns.

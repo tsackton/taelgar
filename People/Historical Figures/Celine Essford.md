@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/unknown]
+tags: [person, historical]
 name: Celine Essford
 born: 1621
 species: human

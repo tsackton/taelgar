@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/mike]
+tags: [place, status/tim]
 name: Volta
 typeOf: river
 whereabouts: Western Green Sea Region
@@ -11,5 +11,7 @@ aliases: [River Volta]
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% afaik there is nothing really made up about the Volta to elaborate on, but tagging status/mike in case you have something in your Sembara notes %%
+A major river that was historically a border between the [[Sembara|Sembaran]] and [[Zimkova|Zimkovan]] cultural influences. The upper reaches of the Volta in particular have always been a center of [[Kestavo|kestavan]] religious practice. 
+
+%% Tim: added a few notes from some old sembaran docs %%
 

@@ -18,3 +18,4 @@ ddbLink: https://www.dndbeyond.com/magic-items/8697391-ring-of-escape
 
 ![[gareths-ring.jpg|right|420]]A dusky ring, taken from [[Gareth of Tollen]] after his capture. 
 
+%% This ring was created by [[Lord Umbraeth]] and when used sends a message to him, informing him it has been used %%

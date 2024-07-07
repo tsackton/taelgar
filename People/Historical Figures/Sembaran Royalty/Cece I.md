@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, dufr/unaware, person/ruler, status/unknown]
+tags: [historical, person/ruler]
 name: Cece I
 born: 1628
 species: human

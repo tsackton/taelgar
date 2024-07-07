@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, person, dufr/unaware, status/unknown]
+tags: [historical, person/ruler, status/needswork/notes]
 campaignInfo: []
 name: Bertram II
 born: 1537
@@ -29,5 +29,7 @@ The eldest child of [[Reginald]], he was a ruler of Sembara in the 1550s.
 [[Bertram II]], after his step-grandmother’s death in 1559, gathers a small force of knights, and without the backing of the Royal Council or any great thought to supply chains, logistics, or military strategy, rides north to aid the barons of Lavnoch and Ardlas against the evil threat. He dies in battle in the deadly winter of 1560, when the tide of battle is turned but great losses were suffered.
 
 Young irresponsible, never marries and dies young in battle
+
+Integrate notes from sembara history here 
 
 %%

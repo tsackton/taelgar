@@ -1,6 +1,5 @@
 ---
-tags: [event, status/unknown]
-campaignInfo: []
+tags: [event]
 name: Battle Against Wakog
 DR: 1719-12-06
 ---
