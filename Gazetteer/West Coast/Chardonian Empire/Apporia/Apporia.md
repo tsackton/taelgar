@@ -22,18 +22,26 @@ Beyond humans, the northwestern coast of Apporia has significant halfling commun
 %%SECRET[1]%%
 
 Who else might live in the wild interiors of Apporia, is not known. 
-
 ## History 
+
+%% to do, low priority: rewrite into a summary and a separate timeline page %%
+%% this is also primarily the history of the northwest corner of the peninsula, in large part because nothing is made up about the rest %%
 
 According to the records of the Chardonian Empire, the Apporian Peninsula was originally settled by the Drankorians, who originally constructed the [[Old Chardon Canal]] and established a series of maritime bases on the [[Gulf of Chardon]] and the [[Nevos Sea]], although never reached the western coast or the interior. These records do not speak to whether any peoples lived on the coasts prior to Drankorian settlement, or who might have lived -- or still live -- in the interior. 
 
 After the fall of Drankor, [[Castrella]], in the current day province of [[Cedrano]] became a significant maritime power, exerting control over the [[Old Chardon Canal]], the [[Gulf of Chardon]], and the rich agricultural territory on the coastal plains of [[Raziolo]]. By the time of the [[Great War]], the canal was jointly managed by a confederation of Chardonian and Castrellan traders, as Chardon grew in influence. 
 
-In the chaos after the [[Great War]], [[Illoria|Illorian]] pirates under the command of [[Chirce]] established control over much of the current day territory of [[Portalia]], including the [[Old Chardon Canal]], and parts of current day [[Cedrano]], although not the capital [[Castrella]], or the current day province of [[Raziolo]]. 
+In the chaos after the [[Great War]], [[Illoria|Illorian]] pirates under the command of [[Chirce]] established control over much of the current day territory of [[Portalia]], including the [[Old Chardon Canal]], and parts of current day [[Cedrano]], although not the capital [[Castrella]], or the current day province of [[Raziolo]]. After [[Chirce]] was driven out of [[Darba]] in DR 1559, he made [[Pergia]], the city at the [[Emerald Bay]] entrance to the [[Old Chardon Canal]], his capital, and lived off the profits of the canal trade. During the next 10 years, [[Castrella]] reconquered much of what is now [[Cedrano]], and reestablished a significant maritime presence in the [[Gulf of Chardon]]. 
 
-After [[Chirce]] was driven out of [[Darba]] in DR 1559, he made [[Pergia]], the city at the [[Emerald Bay]] entrance to the [[Old Chardon Canal]], his capital, and for the next 
+In DR 1584, the [[War of the Dark Rift]] erupted in the interior mountains of [[Apporia]], in the dwarven and stoneborn kingdom of [[Enderra]]. Over the next few years, the [[Umbral Covenant]] conquered much of the coastline, completely destroying [[Nevium]], disrupting trade on the [[Old Chardon Canal]], and besieging [[Castrella]]. This is the definitive end of the Illorian pirate kingdoms, and leads to much destruction in [[Portalia]], in particular. The war continues until DR 1597, when the Umbral Covenant launches the Shadow Armada to conquer Chardon, and loses badly. Over the next few years, a series of interior campaigns destroys the Umbral Covenant and establishes Chardonian control over [[Portalia]]. Soon after, [[Cedrano]], weak and dependent on Chardonian legions for survival, formally joins the growing [[Chardonian Empire]]. 
 
-%%SECRET[2]%%
+%% not canonical below, just an idea for how Raziolo joins the Empire %%
+
+Over the next two generations, Chardonian influence grows on the peninsula, eventually leading to economic pressure for Raziolo to formally join the Empire.
+
+%% do think the forts are largely abandoned by current day but could at some point develop more detail here %%
+
+By the DR 1700s, the [[War of the Dark Rift]] is largely forgotten, the interior forts are largely abandoned, and the mountains of the interior turn wild. 
 
 
 %%
