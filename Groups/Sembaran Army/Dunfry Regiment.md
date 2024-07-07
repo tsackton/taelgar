@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {partOf: '<typeof:AU> of <partof>', boxInfo: ''}
-tags: [organization, status/unknown]
+tags: [organization, status/needswork/external]
 typeOf: regiment
 partOf: Army of the West
 ---
@@ -21,3 +21,5 @@ dv.table(["Person", "Info", "Current Location"],
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<lastknown:2r> (<lastknowndate>)", b.file, dv.current().pageTargetDate)]))
 ```
 %%^End%%
+
+%% Notes from campaign timeline %%

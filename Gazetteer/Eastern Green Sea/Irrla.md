@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/mike]
+tags: [place]
 name: Irrla
 typeOf: island
 typeOfAlias: large island
@@ -12,8 +12,6 @@ pronunciation: EAR-la
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% merged together a few notes from Wellby one shot and various green sea brainstorming docs into something I think is a good starting point for future development. leaving most of the details of the Republic of Svolhas non-canon for now, and also who else lives there %%
 
 Irrla, as it is called by its human inhabitants, is a large mountainous island in the middle of the [[Green Sea]]. It is a temperate island with an oceanic climate, with cool, rainy summers broken by the occasional week of hot dry weather, and cool, damp winters with little snow, except in the interior mountains. Despite its climate and central position, it is lightly settled. The northern and western coasts of Irrla are dangerous and difficult for ships, with shifting shoals and unpredictable currents extending far into the Green Sea. The interior of Irrla is a land of rocky highlands, steep mountains,  deep valleys, and the occasional volcano, making travel difficult in the best of conditions. 
 

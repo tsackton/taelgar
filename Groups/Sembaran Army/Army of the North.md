@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization, status/needswork/external]
 campaignInfo: []
 name: Army of the North
 partOf: Sembaran Army
@@ -15,3 +15,4 @@ typeOf: army
 The Army of the North is 1,500 soldiers divided into two companies, one garrisoned near Arnsbury and the other along the northern Volta. Historically this army was much larger, but today the northern border is peaceful and few threats come south from [[Vostok]].
 
 
+%% Integrate notes from game, etc %%
