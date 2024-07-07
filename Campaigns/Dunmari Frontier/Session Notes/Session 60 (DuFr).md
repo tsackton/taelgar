@@ -19,7 +19,7 @@ descTitle: Smoke and Secrets
 > *On Earth: Friday Oct 14, 2022*
 > *Aboard the [[Wave Dancer]], [[Eastern Green Sea]]*
 
-[[Wellby]] helps a halfling ship escape pirates and learns of kidnapped [[kenku]] experts on the [[Feywild]] in [[Wahacha]].
+[[Wellby]] helps a halfling ship escape pirates and learns of kidnapped [[Kenku]] experts on the [[Feywild]] in [[Wahacha]].
 
 ## Session Info
 

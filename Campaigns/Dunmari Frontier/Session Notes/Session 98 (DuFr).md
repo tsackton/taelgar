@@ -25,7 +25,7 @@ The [[Dunmar Fellowship]] forms new alliances and gathers crucial information as
 ### Summary
 - The [[Dunmar Fellowship]], now in [[Nevium]], discreetly escapes the city using a [[Folding Boat]] and sails to the [[Apporia|Apporian Peninsula]].
 - [[Delwath]] disguises himself and gathers intel in the village of [[Artevus]], leading the party to form an alliance with Captain [[Pippa Goodbarrow]] and navigator [[Martino]].
-- The party sails to [[Castrella]], where they gather information about [[merfolk]] artifacts and potential magical aids for underwater breathing.
+- The party sails to [[Castrella]], where they gather information about [[Merfolk]] artifacts and potential magical aids for underwater breathing.
 - At the local tavern, [[The Drunken Dolphin]], the party hears the [[Ballad of the Jade Garden]], which provides hints for their quest.
 ### Timeline
 - (DR:: 1749-05-05), morning: Sneak out of [[Nevium]], in the province of [[Portalia]] on the [[Folding Boat]], and sail northwest across the [[Gulf of Chardon]]
@@ -40,7 +40,7 @@ The party heard three songs about merfolk:
 [[Fog and Fortune]]
 [[Merfolk Fortunes]]
 ### Key Rumors
-- From [[Juliana Maris]], the party learned that no one has returned from the [[merfolk]] territory in the west in 20 years, except for the halfling captain [[Milo Thistlefoot]] and his crew, and genuine merfolk artifacts are becoming difficult to find. 
+- From [[Juliana Maris]], the party learned that no one has returned from the [[Merfolk]] territory in the west in 20 years, except for the halfling captain [[Milo Thistlefoot]] and his crew, and genuine merfolk artifacts are becoming difficult to find. 
 - From rumors among sailors and people drinking in the taverns in [[Castrella]], the party learned that if you want to breath water, there are two people you might seek. One, the [[stoneborn]] alchemist [[Kazuro]], lives in an isolated cave up the coast, and can brew potions. The other, a man obsessed with merfolk named [[Dorian Almare]], touched by magic, left [[Castrella]] to find the merfolk 15 years ago and has not been seen since, but rumors persist of the "Mystic of Tamaro Bay" that might be Dorian. 
 - From [[Isabetta]], a young singer drawing a crowd at the [[The Drunken Dolphin]], a rowdy sailor's tavern in [[Castrella]], the party heard the [[Ballad of the Jade Garden]], which seemed to spell out the location of the jade garden mentioned by [[Thomas Hawke]] and likely where the [[Jade Piece of Rai's Hand]] is located. 
 

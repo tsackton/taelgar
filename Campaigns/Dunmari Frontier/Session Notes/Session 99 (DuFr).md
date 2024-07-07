@@ -25,7 +25,7 @@ The [[Dunmar Fellowship]] secures water-breathing potions from [[Kazuro]], cures
 ### Summary
 - The [[Dunmar Fellowship]] departs [[Castrella]] harbor, sailing on the [[Summer's Breeze]] to find the stoneborn hermit [[Kazuro]] on [[Calcara Island]].
 - The party convinces [[Kazuro]] to provide water-breathing potions in exchange for help building a school and recruiting students.
-- The party arrives at [[Tamaro Bay]], cures [[Dorian Almare]] of an oceanic curse, and learns about [[merfolk]] culture.
+- The party arrives at [[Tamaro Bay]], cures [[Dorian Almare]] of an oceanic curse, and learns about [[Merfolk]] culture.
 - Sailing west, the party encounters a windless zone above a portal to the [[Elemental Plane of Water|Plane of Water]] and dives underwater using the potions.
 
 ### Timeline
@@ -33,7 +33,7 @@ The [[Dunmar Fellowship]] secures water-breathing potions from [[Kazuro]], cures
 - (DR:: 1749-05-08), midday: Reach [[Calcara Island]]; find [[Kazuro]]; convince him to share transformation herbs that will turn lungs to gills and back in exchange for returning later to help him build a small school and recruit students. Depart north sailing for [[Tamaro Bay]].
 - (DR:: 1749-05-09): Sail northwest uneventfully.
 - (DR:: 1749-05-10), midday: Round the northernmost point of the [[Apporia|Apporian Peninsula]]. 
-- (DR::1749-05-10), afternoon: Reach Tamaro Bay. Cure [[Dorian Almare]] of a oceanic curse; speak with him about [[merfolk]]. 
+- (DR::1749-05-10), afternoon: Reach Tamaro Bay. Cure [[Dorian Almare]] of a oceanic curse; speak with him about [[Merfolk]]. 
 - (DR:: 1749-05-10), evening: Sail west into the [[Endless Ocean]]. 
 - (DR:: 1749-05-11), pre-dawn: Reach a place with no winds and strange oceans, above a portal to the [[Elemental Plane of Water]]. Part company with [[Summer's Breeze]] and dive underwater.
 
@@ -44,7 +44,7 @@ As the [[Summer's Breeze]] approaches the northern end of [[Calcara Island]], [[
 
 ![[kazuro-cave-v2.png]]
 
-The stone-born hermit, [[Kazuro]], appears annoyed and grumpy at the interruption. [[Delwath]] apologizes for the intrusion and explains their quest, mentioning they heard of [[Kazuro]] in [[Castrella]], and explaining their need for water-breathing to reach the [[merfolk]]. Despite a stony reception, [[Kazuro]] invites the party to follow him, expressing frustration at favor-seekers. [[Kenzo]] attempts to interest [[Kazuro]] by offering stories that could echo into the future, and [[Riswynn]] compliments [[Kazuro]]’s hermitage, expressing the party’s noble intentions, but [[Kazuro]] is unswayed, if not entirely unsympathetic. 
+The stone-born hermit, [[Kazuro]], appears annoyed and grumpy at the interruption. [[Delwath]] apologizes for the intrusion and explains their quest, mentioning they heard of [[Kazuro]] in [[Castrella]], and explaining their need for water-breathing to reach the [[Merfolk]]. Despite a stony reception, [[Kazuro]] invites the party to follow him, expressing frustration at favor-seekers. [[Kenzo]] attempts to interest [[Kazuro]] by offering stories that could echo into the future, and [[Riswynn]] compliments [[Kazuro]]’s hermitage, expressing the party’s noble intentions, but [[Kazuro]] is unswayed, if not entirely unsympathetic. 
 
 [[Kazuro]] questions the party's origins and their reasons for requesting his help. [[Kenzo]] shares the party members' origins, emphasizing their quest to prevent an impending evil. [[Kazuro]] shows mixed emotions, including curiosity and hidden trauma, when [[Kenzo]] mentions fighting great evil, mentioning he has seen battle and loss in the [[War of the Dark Rift]]. 
 
@@ -56,7 +56,7 @@ Turning north, the party sails for two days under fair skies and following seas,
 
 Approaching the hermit, the party realizes he is confused, and [[Delwath]], with magic, senses his thoughts are muddled, consuming by repeating a song in a strange language. [[Seeker]] notices his eyes are strange, and seem to have crashing waves in them. Realizing this must be some kind of curse or magic, [[Seeker]] manages to dispel the effect, and the hermit's demeanor shifts as he thanks the party. The [[Dorian Almare|hermit]] reveals he has been on the island for 10 years, unable to recall events clearly due to the magical possession, and mentions the last thing he remembers is the merfolk woman [[Caloria]] fleeing from her kin, to the island. He remembers drinking a vial of strange water -- a vial, Seeker learns, that was constructed on a different plane -- but the events are confused. He knows there was some trouble, some conflict, among the merfolk, and he fears Caloria is dead. 
 
-This is confirmed by the party's search, which turns up the bones and golden bracelet of [[Caloria]] just offshore, washed up against some rocks. As they talk, the hermit -- whose name is [[Dorian Almare]] -- recounts fragments of memories about [[Caloria]] being chased and leaving him with a sense of regret for drinking the cursed water. The party rests for a short while, and speaks more with Dorian, gaining insights regarding [[merfolk]] culture and etiquette. Dorian shares that merfolk settlements are west of their current location and hints at a significant event involving a jade garden and a green light. Before leaving, the party ensures Dorian is stable and offers to help him in the future. He refuses immediate travel, needing time to recover.
+This is confirmed by the party's search, which turns up the bones and golden bracelet of [[Caloria]] just offshore, washed up against some rocks. As they talk, the hermit -- whose name is [[Dorian Almare]] -- recounts fragments of memories about [[Caloria]] being chased and leaving him with a sense of regret for drinking the cursed water. The party rests for a short while, and speaks more with Dorian, gaining insights regarding [[Merfolk]] culture and etiquette. Dorian shares that merfolk settlements are west of their current location and hints at a significant event involving a jade garden and a green light. Before leaving, the party ensures Dorian is stable and offers to help him in the future. He refuses immediate travel, needing time to recover.
 
 Returning to the [[Summer's Breeze]] in the late afternoon, the party proceeds westward, continuing into the night under clear skies. By midnight, [[Kenzo]] feels a tug from the jade, indicating they are close yet also far from their destination, as if it's both within 50 miles and infinitely distant. In the early morning hours before dawn, the wind dies completely, leaving the ship adrift in a zone of calm water. [[Kenzo]], in a trance, senses a swirling vortex deep in the ocean, a portal to the [[Elemental Plane of Water]]. Telling the crew of the [[Summer's Breeze]] to sail back east as quickly as possible, the party consumes their water-breathing potions, and dives into the water, experiencing a transformation as they grow gills and initially struggle, then adjust to breathing underwater.
 
