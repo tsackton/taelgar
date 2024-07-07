@@ -13,6 +13,11 @@ Portalia is one of the three Apporian Provinces, located on the northwest coast 
 
 Portalia is centered around the [[Old Chardon Canal]], which is the primary economic asset of the province. The [[Gulf of Chardon]] coast is fairly marshy, with extensive salt marshes stretching in both directions from the mouth of the canal, which somewhat limits development, although the city of [[Nevium]], built on pilings over the marshes, is the largest city and provincial capital due to tax revenue from the canal. 
 
-Other towns and cities in Portalia include [[Pergia]], on the southern coast; and [[Artevus]], a minor fishing village near the northern border of the province. 
+Other towns and cities in Portalia include [[Pergia]], on the southern coast; and [[Artevus]], a minor fishing village near the northern border of the province. The Chardonian Navy maintains a number of fortifications to protect the canal, the most significant being [[Fort Varian]] on the north side, and [[Fort Ameli]] on the south side. 
 
-%%SECRET[1]%%
+%%
+notes
+- name originally derives from Drankorian for passage or crossing
+- Most Chardonian of the Apporian provinces and not particularly autonomous. 
+- This province includes the canal and some distance to each side. The north coast (Gulf of Chardon) is largely salt marsh and swampy; this is not an agriculturally rich area and the economy is dominated by the canal and the sea. The central hills are the lowest here, although still some rise of land towards the center of the peninsula. 
+%%
