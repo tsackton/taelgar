@@ -8,4 +8,6 @@ gender: male
 >[!info]+ Biographical Info  
 > A [[Halflings|halfling]] (he/him)
 
+%% needs whereabouts, image, DM notes %%
+
 The missing captain of the [[Stormdancer]]. 

@@ -11,4 +11,6 @@ born: 1697
 > A [[Chardonian Empire|Chardonian]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
+%% needs whereabouts, history, DM notes %%
+
 %%SECRET[1]%%
