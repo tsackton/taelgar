@@ -10,8 +10,8 @@ rarity: uncommon
 ancestry: Drankorian
 image: delwath-ring-of-displacement.jpg
 whereabouts:
-- { location: Agata, end: 1748 }
-- { location: Delwath, start: 1748 }
+- { type: home, location: Agata, end: 1748 }
+- { type: home, location: Delwath, start: 1748 }
 ---
 # The Ring of Displacement
 >[!info]+ Information  

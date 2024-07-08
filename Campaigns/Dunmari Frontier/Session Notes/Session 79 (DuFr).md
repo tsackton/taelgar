@@ -22,7 +22,7 @@ After a victorious battle, the [[Dunmar Fellowship ]]uncovers enemy motives thro
 
 ## Session Info
 
-***The party gathers the treasure from the [[Kadmos and Company Treasures]]***
+***The party gathers the treasure from the [[Kadmos and Company Treasure]]***
 ***Character advancement: reach level 12 at the end of the session***
 ### Summary
 - The [[Dunmar Fellowship]] defeats [[Kadmos]] and his allies, capturing some in a [[Mirror of Soul Trapping|magical mirror]].

@@ -1,4 +1,5 @@
 
+
 - Boots of Speed from [[Hektor]], taken by [[Wellby]]
 - A magical halberd from Hekor, given to [[Murook]]
 - [[Casian]]'s chalyte spellbook, kept by the party
@@ -17,9 +18,15 @@
 	- a potion of endurance
 	- 18 beads of nourishment
 - A foldable boat, that turns from a 12 inch by 6 inch by 6 inch box into a 16 foot long, 6 foot wide, 3 feet deep boat with two pairs of oars and a single sail, that can comfortably hold 8 Medium creatures. Taken by the party. 
-- A gilded skull of a halfling, taken from [[Kadmos]]
+- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[1]%%
 - Miscellaneous goods, gear, and coin, given to the [[Orcs]]:
 	- [[Antonia]] has smith's tools, two small diamonds, a nice non-magical silver and pearl ring, and a small pouch with 200 silver coins, 30 gold coins, and 10 low-quality freshwater pearls
 	- [[Casian]] has his arcane focus (a chalyte wand), a pearl, three rings, and a small pouch with 200 gp and four silver brooches
 	- [[Kadmos]] has an ornate silver mirror
 	- The other adventures have collectively 300 gp worth of mixed gold and silver coins. 
+
+
+
+- Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
+
+- Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 84 (DuFr)]]

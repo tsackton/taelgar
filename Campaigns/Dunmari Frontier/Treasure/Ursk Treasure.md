@@ -29,3 +29,11 @@ The Watcher Pendant - a very elaborate design, set with diamonds. Given to [[Ole
 # Acquired from Rodnya Voknaz
 
 A jade fragment of Rai's hand.
+
+
+## Harvested
+
+- Material harvested from an ice worm: teeth, sensory patches, skin, and stomach acid
+- Material harvested from a white dragon: cold breath venom sack, scales, resistance organ, teeth, and claws
+
+(some/all of this was traded for items, and for entry to city)

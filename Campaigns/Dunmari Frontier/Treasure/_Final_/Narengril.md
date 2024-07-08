@@ -10,7 +10,8 @@ subTypeOf: magical
 pcOwner: Delwath
 rarity: rare
 image: 
-whereabouts: Dewalth
+whereabouts:
+- {type: home, location: Dewalth}
 ---
 # Narëngril
 >[!info]+ Information  

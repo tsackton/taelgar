@@ -26,7 +26,7 @@ The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [
 - The [[Dunmar Fellowship]] departs to Sura's camp in the [[Copper Hills]] to mediate a conflict between her and [[Nayan Karnas]].
 - They share news of the [[War of the Cloak]] and the [[Battle for Uzgukhar]], and learn of Karnas' distrust towards Sura due to Agata's alleged influence.
 - Sura expresses her anger towards Karnas and agrees to meditate with Kenzo
-- Using [[the Mirror of the Past]], the party disproves a key piece of evidence Karnas held against Sura, causing him to rage.
+- Using [[The Mirror of the Past]], the party disproves a key piece of evidence Karnas held against Sura, causing him to rage.
 - [[Abha]] believes this revelation is the first step towards reconciliation, and the party leaves tokens of unity before heading to [[Tollen]]
 ### Timeline
 - (DR:: 1749-01-30): (late morning) depart west for the [[Copper Hills]] on [[Vindristjarna]], passing south of [[Karawa]] and the [[Red Mesa]] in the night

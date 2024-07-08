@@ -1,7 +1,7 @@
 ## Recent Acquisitions, NOT incorporated below
 
-[[Treasure from Ursk]]
-[[Treasure from Merfolk Quest]]
+[[Ursk Treasure]]
+[[Merfolk Quest Treasure]]
 
 ## Magic Items
 
@@ -12,8 +12,8 @@
 | ![[lynx-shield.png\|240]]                  | [[Deno'qai Lynx Shield]]           | Legendary, major item | Gifted to Delwath by [[Enon]], and blessed by the [[Meswati]] as they were freed. Later enhanced with [[Skaer steel]] by [[Umli]].                                                                                 | [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield)    |
 |                                            | [[Narengril]]                      | Rare, major item      | Found in [[Grimbaskal's Hoard]]                                                                                                                                                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/5346819-narengril)              |
 | ![[denoqai-scale-armor-delwath.png\|240]]  | [[Deno'qai Scale Mail]]            | Uncommon, major item  | Gifted to Delwath by [[Enon]]                                                                                                                                                                                      | [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail)     |
-| ![[delwath-ring-of-displacement.jpg\|240]] | [[Ring of Displacement]]           | Uncommon, major item  | Taken from [[Agata]] as part of [[Agata's Treasures]]                                                                                                                                                              | [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement)   |
-|                                            | Rod of the Pact Keeper             | Uncommon, major item  | Taken from [[Kadmos]] as part of [[Kadmos and Company Treasures]]                                                                                                                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1) |
+| ![[delwath-ring-of-displacement.jpg\|240]] | [[Ring of Displacement]]           | Uncommon, major item  | Taken from [[Agata]] as part of [[Agata's Treasure]]                                                                                                                                                              | [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement)   |
+|                                            | Rod of the Pact Keeper             | Uncommon, major item  | Taken from [[Kadmos]] as part of [[Kadmos and Company Treasure]]                                                                                                                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1) |
 |                                            | Magic Cooking Pouch                | Uncommon, minor item  | Acquired from the [[Te'kula]] in exchange for the portion of [[Grimbaskal's Hoard]] left in the [[~Te'kula village~\|Te'kula village]]                                                                             | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)    |
 |                                            | [[Horn of Silent Alarm (Dunmari)]] | Common, minor item    | Taken from [[Justan]] after he was killed by [[Casian]]                                                                                                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)           |
 |                                            | Ring of Sharp Mind                 | Rare, minor item      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the Elemental Forge from a plain gold ring with an empty setting for a small gem, and an enchanted diamond, clearly meant to fit into the ring. | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)     |
@@ -26,13 +26,15 @@ Ring of Sharp Mind was made at the Elemental Forge
 %%
 ### Wellby 
 
-| Image | Name                      | Rarity                | Origin                                                                             | Mechanics                                                                                 |
-| ----- | ------------------------- | --------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-|       | [[Flaming Bowstring]]     | Uncommon, major item  | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] | [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring)              |
-|       | Boots of Speed            | Rare, major item      | Taken from [[Hektor]] as part of [[Kadmos and Company Treasures]]                  | [Mechanics](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)                    |
-|       | Vicious Shortsword        | Rare, major item      | Taken from the leader of the [[Fraternity of the Empty Moon]]                      | [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword)                |
-|       | Frostshard Shortbow       | Uncommon, major item  | Purchased in [[Zvervinka]]                                                         | [Mechanics](https://www.dndbeyond.com/magic-items/5254-shortbow-1)                        |
-|       | [[Kenku Glamoured Armor]] | Very rare, major item | Found in [[Grimbaskal's Hoard]]. Enhanced and repaired by [[Nahto]].               | [Mechanics](https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced) |
+| Image | Name                                        | Rarity                | Origin                                                                             | Mechanics                                                                                 |
+| ----- | ------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|       | [[Flaming Bowstring]]                       | Uncommon, major item  | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] | [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring)              |
+|       | Boots of Speed                              | Rare, major item      | Taken from [[Hektor]] as part of [[Kadmos and Company Treasure]]                  | [Mechanics](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)                    |
+|       | Vicious Shortsword                          | Rare, major item      | Taken from the leader of the [[Fraternity of the Empty Moon]]                      | [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword)                |
+|       | [[Frostshard Weapons\|Frostshard Shortbow]] | Uncommon, major item  | Purchased in [[Zvervinka]]                                                         | [Mechanics](https://www.dndbeyond.com/magic-items/5254-shortbow-1)                        |
+|       | [[Kenku Glamoured Armor]]                   | Very rare, major item | Found in [[Grimbaskal's Hoard]]. Enhanced and repaired by [[Nahto]].               | [Mechanics](https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced) |
+|       | Saddle of the Bonded Companion              | Rare, minor item      | Found in [[Grimbaskal's Hoard]]                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion) |
+|       | [[Dwarven Driftglobe]]                      | Uncommon, minor item  | Found in [[Raven's Hold]]                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/5349-driftglobe)                        |
 %% notes
 Flaming Bowstring is unique or reasonably so
 Boots of Speed and Vicious Shortsword are standard items without current history
@@ -41,8 +43,7 @@ Kenku Glamoured Armor is unclear at the moment
 %%
 
 Minor items:
-- [[Saddle of the Bonded Companion]] (rare minor item)
-- [[Driftglobe]] (uncommon minor item)
+
 - [[Moon Necklace]] (common minor item)
 - [[Message Stone ]](uncommon minor item; [[Sura]] has the paired stone)
 - Hat of Vermin (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
@@ -58,7 +59,7 @@ Major items:
 - [[Staff of the Forest Soul]] (very rare major item)
 - [[Raven Whistle]] (rare major item)
 - [[Ring of Protection from Fire]] (rare major item)
-- [[Soul Tattoo]] (rare major item)
+- [[Soul Tattoo]] (rare major item). Created by Cecilia Lister for Kenzo, in exchange for gold and the shadowfell brand tattoo that Kadmos wore.
 - [[Ring of Jumping]] (uncommon major item)
 - [[Wand of Caustic Arrows ]](uncommon major item)
 - Dragonscale cloak (rare major item). Purchased in Zvervinka; made of the scales and claws of a white dragon. 
@@ -92,10 +93,10 @@ Major items:
 Minor items:
 - [[Chanceweaver’s Dice]] (rare minor item)
 - [[Goggles of Object Reading]] (uncommon minor item)
-- [[Alchemical Teakettle]] (uncommon minor item)
-- [[Wand of Detect Magic]] (uncommon minor item)
+- [[Alchemical Teakettle]] (uncommon minor item) https://www.dndbeyond.com/magic-items/3819614-alchemical-teakettle
+- [[Wand of Detect Magic]] (uncommon minor item) https://www.dndbeyond.com/magic-items/5346836-wand-of-detect-magic
 - [[Sunset Thread]] (common minor item)
-- [[Charlatan's Dice]] (common minor item)
+- [[Charlatan's Dice]] (common minor item). 
 - Immovable rod (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 
 Not in use:
@@ -139,6 +140,8 @@ Minor items:
 - [[Ever Spinning Top]] (common minor item, party, recovered from [[Kadmos]])
 - A enchanted oyster shell that allows the Divination spell to be cast once, acquired from the Skaer as thanks for defeating the demon of Vetta.
 - A [[Fides Lucaris]] Sending Stone. Found in a hidden lead box, and once possessed by the woman whose skeleton remains in the elemental forge. [[Lucius]], a boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking. 
+
+https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone
 
 Not in use:
 - A locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. The spellbook's contains are currently unknown. 
@@ -266,7 +269,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[49]%% 
 - A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[50]%%
 ## Other Rewards
-- A meta-resource from speaking with [[Arheste]]: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics. Currently
+- A meta-resource from speaking with [[Arheste]]: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics.
 - The party is always welcome in [[Karawa]] and will always have food and shelter while they are in town.
 - A letter of introduction to [[Kaleha]], high priest of the temple in Tokra, an important administrator in the civil government, from [[Candrosa]].
 - A letter of introduction from [[Kaleha]], high priest of the [[Tokra]] monastery, vouching for our good character.
@@ -294,14 +297,14 @@ The following mundane items are kept on [[Vindristjarna]]:
 - [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 81 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
 - [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
-- [[Dunmari Shield]] (uncommon major item), used to make the adamantine required for the phasing stone harness on [[Vindristjarna]]
+- [[Dunmari Heirloom Shield]] (uncommon major item), used to make the adamantine required for the phasing stone harness on [[Vindristjarna]]
 - A perfect emerald hung on a silver chain (1000 - 2000 gp, from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] %%SECRET[26]%%
 - [[Horn of Silent Alarm]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[Motua]]'s rescue.
 - Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 67 (DuFr)]]. 
 - Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in the fight with [[Kadmos]] and [[Casian]] in [[Session 44 (DuFr)]]. 
 - Leech Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut. (used in battle)
 -  [[Helm of Iron Will]]. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Raven's Hold]]. Used to protect Delwath in battle against [[Agata]]. 
--  Block of adamantine. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]], used to reinforce Delwath's [[Dunmari Shield]]. 
+-  Block of adamantine. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]], used to reinforce Delwath's [[Dunmari Heirloom Shield]]. 
 - [[Thorn Seed Bag]]. Destroyed in [[Session 31 (DuFr)]].
 - [[Soul Lantern]]. Destroyed in [[Session 32 (DuFr)]].
 - Seven iron spears carved with the incantation: “[[Mad One]], come to us, let [[Jinnik]]’s howl be heard.” From the [[Fraternity of the Empty Moon]]; destroyed. 

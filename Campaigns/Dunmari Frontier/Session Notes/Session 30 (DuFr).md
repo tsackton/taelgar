@@ -23,7 +23,7 @@ The [[Dunmar Fellowship]] navigates magical defenses and loots [[Agata's lair]],
 
 ## Session Info
 
-***The party recovers the rest of [[Agata's Treasures]] from her lair, including the [[Mirror of Soul Trapping]]***
+***The party recovers the rest of [[Agata's Treasure]] from her lair, including the [[Mirror of Soul Trapping]]***
 ### Summary
 - The [[Dunmar Fellowship]] leaves [[Karawa]], caches supplies in [[ Bas Udda]], and heads south.
 - They avoid a battle and fly over deadly trees to reach Agata's lair.
