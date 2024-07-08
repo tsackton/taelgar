@@ -24,7 +24,7 @@ The Dunmar Fellowship defeats vampire Rhodar von Glauer, escapes the collapsing 
 ## Session Info
 
 ***Character advancement: everyone reaches level 14 after defeating Rhodar von Glauer***
-***New treasure acquired in Ursk: [[Treasure from Ursk]]***
+***New treasure acquired in Ursk: [[Ursk Treasure]]***
 ### Summary
 - The [[Dunmar Fellowship]] defeated the vampire [[Rhodar von Glauer]] after a fierce battle in a darkened chamber.
 - [[Delwath]] destroyed von Glauer's remnants in his coffin, finding valuable items amidst the imminent collapse of [[Shadowkeep]].

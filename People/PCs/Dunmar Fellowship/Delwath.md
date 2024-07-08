@@ -103,7 +103,7 @@ whereabouts:
 > 
 > In any case, both [[Alesh]] and [[Havdar]] think Delwath should take it, given he fought in that war as well, and pass it along with their blessing. 
 > 
-> [[Jasu]] is happy to work on the [[Dunmari Shield]], and in addition to strengthening it with [[adamantine]], he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
+> [[Jasu]] is happy to work on the [[Dunmari Heirloom Shield]], and in addition to strengthening it with [[adamantine]], he cleans and repairs the insignia, and works some of the magical stone and powder from the mesa into it as well, so it will resist fading and damage. 
 > 
 > ### Closing Affairs
 > 

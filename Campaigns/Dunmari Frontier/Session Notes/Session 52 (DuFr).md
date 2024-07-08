@@ -55,7 +55,7 @@ The [[Dunmar Fellowship]] flees from [[Mezzar]], who is revealed to be a dragon 
 - (DR:: 1748-09-30), morning: Leave village, collapsing pocket dimension in the process as the [[Jade Piece of Rai's Hand]] holding it open is removed. As the pocket dimension collapses, the party is scattered in all directions. 
 
 ### Mirror of the Past
-- (DR:: 1748-09-06): Look at the [[Deno'qai]] God Tree in the [[the Mirror of the Past]]: [[God Tree Vision]]. (recharge:: mirror)
+- (DR:: 1748-09-06): Look at the [[Deno'qai]] God Tree in the [[The Mirror of the Past]]: [[God Tree Vision]]. (recharge:: mirror)
 - (DR:: 1748-09-14): Look at the [[Mace of Terror]] in the [[The Mirror of the Past]]: [[Mace of Terror Vision]] (recharge:: mirror)
 - (DR:: 1748-09-22): Look at [[Hralgar's Eyes]] in the [[The Mirror of the Past]]: [[Hralgar's Eyes Vision]]. (recharge:: mirror)
 

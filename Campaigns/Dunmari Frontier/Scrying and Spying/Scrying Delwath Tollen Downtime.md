@@ -6,7 +6,7 @@ Delwath attempts to scry on [[Apollyon]] a number of times. The first three atte
 
 The fourth attempt, in February, succeeds, revealing a dark chamber, maybe 20 feet by 40 feet, with stone walls. A skeletal creature – Apollyon – is sitting, seemingly in meditation, at the center of the chamber. There is no furniture here, but the walls are covered in paintings and murals of scenes from the life of Apollyon: Apollyon in battle against the elves of Rostare; Apollyon taking the cloak from the orcs; Apollyon raising and commanding an army of Drankorians. 
 
-[[Apollyon]] looks up - straight at the scrying sensor - as it appears. You catch a glimpse of his face – gaunt, but not entirely skeletal – before his appearance shifts and you see sitting in this chamber the Emperor Apollyon of old, whom you have seen in [[the Mirror of the Past]]. 
+[[Apollyon]] looks up - straight at the scrying sensor - as it appears. You catch a glimpse of his face – gaunt, but not entirely skeletal – before his appearance shifts and you see sitting in this chamber the Emperor Apollyon of old, whom you have seen in [[The Mirror of the Past]]. 
 
 He stands, and walks to one of the chamber walls. With a flick of his hand, the wall shifts, revealing a corridor. He walks down the corridor, and steps into a larger chamber, a circular room with a high ceiling through which light illuminates the floor, which is covered in runes. As [[Apollyon]] enters the runes light up, and at that moment five tombs raise from the ground. Each has a plain lid, and Apollyon lifts his hand the lids slide off.
 
