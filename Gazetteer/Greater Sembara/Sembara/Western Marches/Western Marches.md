@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place]
 name: Western Marches
 typeOf: region
 partOf: Sembara
@@ -9,8 +9,6 @@ partOf: Sembara
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% The details here are relatively light, but figured it was a good first pass, only adding status/tim in case you have thoughts/feedback %%
 
 The Western Marches of Sembara encompass all of the lands west of the ancient baronies of [[Barony of Ainwick|Ainwick]] and [[Barony of Aveil|Aveil]]. The land suffered greatly in the [[Great War]], and the hobgoblin wars that followed, and has only slowly recovered. It is still sparsely populated, and the [[Army of the West]] is the dominant institution in the region. The two military baronies - [[Barony of Usbourg|Usbourg]] and [[Barony of Dunfry|Dunfry]] - were created during the reign of [[Cece I]].
 
@@ -27,4 +25,4 @@ The [[Barony of Usbourg]] is more a military district in some ways than a barony
  
 The [[Barony of Dunfry]] is also a major military district, responsible for the South Watch, which guards the southern half of the [[Western Wall of Sembara]], and also maintains a series of forts along the north branch of the Enst.
 
-The [[Marches of Brovna]] have much in common with Ardlas, and like in the [[Marches of Enford]] large parcels of land have been granted freehold to anyone who will pledge to defend the land. 
+The [[Marches of Brovna]] have much in common with [[Ardlas]], and like in the [[Marches of Enford]] large parcels of land have been granted freehold to anyone who will pledge to defend the land. 
