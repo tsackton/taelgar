@@ -26,20 +26,19 @@ Ring of Sharp Mind was made at the Elemental Forge
 %%
 ### Wellby 
 
-| Image | Name                  | Rarity               | Origin                                                                             | Mechanics                                                                    |
-| ----- | --------------------- | -------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
-|       | [[Flaming Bowstring]] | Uncommon, major item | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] | [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring) |
-|       | Boots of Speed        | Rare, major item     | Taken from [[Hektor]] as part of [[Kadmos and Company Treasures]]                  | [Mechanics](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)       |
-|       | Vicious Shortsword    | Rare, major item     | Taken from the leader of the [[Fraternity of the Empty Moon]]                      | [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword)   |
+| Image | Name                      | Rarity                | Origin                                                                             | Mechanics                                                                                 |
+| ----- | ------------------------- | --------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
+|       | [[Flaming Bowstring]]     | Uncommon, major item  | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] | [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring)              |
+|       | Boots of Speed            | Rare, major item      | Taken from [[Hektor]] as part of [[Kadmos and Company Treasures]]                  | [Mechanics](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)                    |
+|       | Vicious Shortsword        | Rare, major item      | Taken from the leader of the [[Fraternity of the Empty Moon]]                      | [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword)                |
+|       | Frostshard Shortbow       | Uncommon, major item  | Purchased in [[Zvervinka]]                                                         | [Mechanics](https://www.dndbeyond.com/magic-items/5254-shortbow-1)                        |
+|       | [[Kenku Glamoured Armor]] | Very rare, major item | Found in [[Grimbaskal's Hoard]]. Enhanced and repaired by [[Nahto]].               | [Mechanics](https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced) |
 %% notes
 Flaming Bowstring is unique or reasonably so
 Boots of Speed and Vicious Shortsword are standard items without current history
+Frostshard Shortbow is a standard item, part of the Urskan monster part trade
+Kenku Glamoured Armor is unclear at the moment
 %%
-
-
-Major items:
-- [[Magic Kenku Armor]] (very rare major item)
-- Frostshard Shortbow (uncommon major item). Purchased in Zvervinka. 
 
 Minor items:
 - [[Saddle of the Bonded Companion]] (rare minor item)
