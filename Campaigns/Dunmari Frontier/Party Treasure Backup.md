@@ -369,7 +369,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Two small garnets from [[Raven's Hold]], 10 gp each. Given to [[Charmhearts]] in [[Tokra]].
 - [[Hobgoblin Notes from Raven's Hold|Looseleaf Hobgoblin Journal and log book]]. A leather satchel holding unbound pages that include notes and sketches that might portray troop movements, as well as a log book. Old. Given to [[Archives]] in [[Tokra]]
 - [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information.
-- [[Boots of False Tracks]]. Given to [[Marcella]]. 
+- [[Boots of False Tracks (Agata)]]. Given to [[Marcella]]. 
 - A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[31]%%
 - A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[57]%%
 - Eight bolts of silk. Four are plain white silk (20 - 50 gp each), two are fine silk dyed a rich purple (100 - 250 gp each), and two are beautifully dyed with a complex pattern (100 - 600 gp each). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[58]%%

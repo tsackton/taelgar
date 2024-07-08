@@ -26,7 +26,7 @@ The [[Dunmar Fellowship]], after a narrow escape, traps a poison troll, and jour
 ***The party departs Vondar with some treasures from the wyvern's lair.***
 ### Summary
 - The [[Dunmar Fellowship]] escapes a fiery battle and seeks refuge near abandoned mines.
-- They learn of the [[Society of the Open Scroll]]'s dark influence from [[Marcella]] and gift her [[Boots of False Tracks]] to help her escape.
+- They learn of the [[Society of the Open Scroll]]'s dark influence from [[Marcella]] and gift her [[Boots of False Tracks (Agata)]] to help her escape.
 - They task [[Johar]] with distributing blood money to bandits' families. and inspect magical items
 - The party scouts the ruins, traps a poison troll in the [[Mirror of Soul Trapping]], and travels towards Darba.
 
@@ -50,7 +50,7 @@ The [[Dunmar Fellowship]], after a narrow escape, traps a poison troll, and jour
 ## Narrative
 We begin as [[Kadmos]], [[Casian]], and [[Marcella]] flee, leaving behind the party – near death – and a fire starting in the ruins of the temple, caused by the fireballs slung by [[Casian]] in the fight. In desperation, the party scrambles to flee to safety, finding shelter near the abandoned mines about a half mile away from the city. Here, they spend the night, getting a much needed rest after the difficulties of the evening. 
 
-Waking near noon, the party discusses their options and the events of the night before. [[Wellby]] reports on his conversation with [[Marcella]]: there is something dark at the heart of the [[Society of the Open Scroll]], some power that they have to control people. [[Hektor]], the barbarian, was a sweet boy once, a sailor who liked to sing, but was turned to a servant of [[Kadmos]] through and through. [[Marcella]] was the thief, and was supposed to be the treasure finder, and is worried that if she does not succeed in a score, she will be taken away next, and come out as something not herself. [[Wellby]] gave her his [[Boots of False Tracks]] and maps to help her get to [[Sembara|Sembara]], should she be able to escape.
+Waking near noon, the party discusses their options and the events of the night before. [[Wellby]] reports on his conversation with [[Marcella]]: there is something dark at the heart of the [[Society of the Open Scroll]], some power that they have to control people. [[Hektor]], the barbarian, was a sweet boy once, a sailor who liked to sing, but was turned to a servant of [[Kadmos]] through and through. [[Marcella]] was the thief, and was supposed to be the treasure finder, and is worried that if she does not succeed in a score, she will be taken away next, and come out as something not herself. [[Wellby]] gave her his [[Boots of False Tracks (Agata)]] and maps to help her get to [[Sembara|Sembara]], should she be able to escape.
 
 While discussing the events of the night before, the party convinces [[Johar]] to take charge of the blood money from the Chardonians, and, when he has time, take it to [[Saka]], who will take charge of it and take charge of the mission to track down the families of the bandits. This may take quite some time, given his mission in [[Nayahar]], but he will do his best.
 
