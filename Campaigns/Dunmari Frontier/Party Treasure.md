@@ -7,52 +7,34 @@
 
 ### Delwath
 
-| Image                                      | Name                               | Rarity                | Origin                                                                                                                                                                                                             | Mechanics                                                                         |
-| ------------------------------------------ | ---------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| ![[lynx-shield.png\|240]]                  | [[Deno'qai Lynx Shield]]           | Legendary, major item | Gifted to Delwath by [[Enon]], and blessed by the [[Meswati]] as they were freed. Later enhanced with [[Skaer steel]] by [[Umli]].                                                                                 | [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield)    |
-|                                            | [[Narengril]]                      | Rare, major item      | Found in [[Grimbaskal's Hoard]]                                                                                                                                                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/5346819-narengril)              |
-| ![[denoqai-scale-armor-delwath.png\|240]]  | [[Deno'qai Scale Mail]]            | Uncommon, major item  | Gifted to Delwath by [[Enon]]                                                                                                                                                                                      | [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail)     |
-| ![[delwath-ring-of-displacement.jpg\|240]] | [[Ring of Displacement]]           | Uncommon, major item  | Taken from [[Agata]] as part of [[Agata's Treasure]]                                                                                                                                                              | [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement)   |
-|                                            | Rod of the Pact Keeper             | Uncommon, major item  | Taken from [[Kadmos]] as part of [[Kadmos and Company Treasure]]                                                                                                                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1) |
-|                                            | Magic Cooking Pouch                | Uncommon, minor item  | Acquired from the [[Te'kula]] in exchange for the portion of [[Grimbaskal's Hoard]] left in the [[~Te'kula village~\|Te'kula village]]                                                                             | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)    |
-|                                            | [[Horn of Silent Alarm (Dunmari)]] | Common, minor item    | Taken from [[Justan]] after he was killed by [[Casian]]                                                                                                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)           |
-|                                            | Ring of Sharp Mind                 | Rare, minor item      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the Elemental Forge from a plain gold ring with an empty setting for a small gem, and an enchanted diamond, clearly meant to fit into the ring. | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)     |
-%% notes
-Narengril and the Deno'qai Lynx Shield are both unique
-Deno'qai Scale Mail and Ring of Displacement have relatively standard formula; Ring of Displacements may have been commonly manufactured in Drankorian workshops 
-Rod of the Pact Keeper is a relatively common item with a standard formula, as is the Magic Cooking Pouch
-Horn of Silent Alarm is the Dunmari type, made in large numbers pre-Great War 
-Ring of Sharp Mind was made at the Elemental Forge
-%%
+| Image                                      | Name                               | Rarity                | Origin                                                                                                                             | Mechanics                                                                         |
+| ------------------------------------------ | ---------------------------------- | --------------------- | ---------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![[lynx-shield.png\|240]]                  | [[Deno'qai Lynx Shield]]           | Major item, Legendary | Gifted to Delwath by [[Enon]], and blessed by the [[Meswati]] as they were freed. Later enhanced with [[Skaer Steel]] by [[Umli]]. | [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield)    |
+|                                            | [[Narengril]]                      | Major item, Rare      | Found in [[Grimbaskal's Hoard]]                                                                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/5346819-narengril)              |
+| ![[denoqai-scale-armor-delwath.png\|240]]  | [[Deno'qai Scale Mail]]            | Major item, Uncommon  | Gifted to Delwath by [[Enon]]                                                                                                      | [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail)     |
+| ![[delwath-ring-of-displacement.jpg\|240]] | [[Ring of Displacement]]           | Major item, Uncommon  | Taken from [[Agata]] as part of [[Agata's Treasure]]                                                                               | [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement)   |
+|                                            | Rod of the Pact Keeper             | Major item, Uncommon  | Taken from [[Kadmos]] as part of [[Kadmos and Company Treasure]]                                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1) |
+|                                            | [[Horn of Silent Alarm (Dunmari)]] | Minor item, Common    | Taken from [[Justan]] after he was killed by [[Casian]]                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)           |
+|                                            | Ring of Sharp Mind                 | Minor item, Rare      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the Elemental Forge.                                            | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)     |
+|                                            | Magic Cooking Pouch                | Minor item, Uncommon  | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]].                                                 | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)    |
 ### Wellby 
 
-| Image | Name                                        | Rarity                | Origin                                                                             | Mechanics                                                                                 |
-| ----- | ------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------- |
-|       | [[Flaming Bowstring]]                       | Uncommon, major item  | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] | [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring)              |
-|       | Boots of Speed                              | Rare, major item      | Taken from [[Hektor]] as part of [[Kadmos and Company Treasure]]                  | [Mechanics](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)                    |
-|       | Vicious Shortsword                          | Rare, major item      | Taken from the leader of the [[Fraternity of the Empty Moon]]                      | [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword)                |
-|       | [[Frostshard Weapons\|Frostshard Shortbow]] | Uncommon, major item  | Purchased in [[Zvervinka]]                                                         | [Mechanics](https://www.dndbeyond.com/magic-items/5254-shortbow-1)                        |
-|       | [[Kenku Glamoured Armor]]                   | Very rare, major item | Found in [[Grimbaskal's Hoard]]. Enhanced and repaired by [[Nahto]].               | [Mechanics](https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced) |
-|       | Saddle of the Bonded Companion              | Rare, minor item      | Found in [[Grimbaskal's Hoard]]                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion) |
-|       | [[Dwarven Driftglobe]]                      | Uncommon, minor item  | Found in [[Raven's Hold]]                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/5349-driftglobe)                        |
-%% notes
-Flaming Bowstring is unique or reasonably so
-Boots of Speed and Vicious Shortsword are standard items without current history
-Frostshard Shortbow is a standard item, part of the Urskan monster part trade
-Kenku Glamoured Armor is unclear at the moment
-%%
-
-Minor items:
-
-- [[Moon Necklace]] (common minor item)
-- [[Message Stone ]](uncommon minor item; [[Sura]] has the paired stone)
-- Hat of Vermin (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
-- Clockwork Amulet (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
-- Tattoo of Darkvision (uncommon minor item, acquired from [[Cecilia Lister]] in [[Tollen]])
-- 9 quivers of Skaer arrows, constructed by [[Umli]]
-
-Not in use:
-- [[Obsidian Fly]] (cursed rare major item)
+| Image | Name                                            | Rarity                | Origin and Notes                                                                   | Mechanics                                                                                    |
+| ----- | ----------------------------------------------- | --------------------- | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+|       | Boots of Speed                                  | Major item, Rare      | Taken from [[Hektor]]                                                              | [Mechanics](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)                       |
+|       | Vicious Shortsword                              | Major item, Rare      | Taken from the leader of the [[Fraternity of the Empty Moon]]                      | [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword)                   |
+|       | [[Obsidian Fly]]                                | Major item, Rare      | Taken from [[Agata]]                                                               | [Mechanics](https://www.dndbeyond.com/magic-items/4831-figurine-of-wondrous-power-ebony-fly) |
+|       | Saddle of the Bonded Companion                  | Minor item Rare       | Found in [[Grimbaskal's Hoard]]                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion)    |
+|       | [[Flaming Bowstring]]                           | Major item, Uncommon  | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] | [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring)                 |
+|       | [[Frostshard Weapons\|Frostshard Shortbow]]     | Major item, Uncommon  | Purchased in [[Zvervinka]]                                                         | [Mechanics](https://www.dndbeyond.com/magic-items/5254-shortbow-1)                           |
+|       | [[Dwarven Driftglobe]]                          | Minor item, Uncommon  | Found in [[Raven's Hold]]                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/5349-driftglobe)                           |
+|       | [[Kenku Glamoured Armor]]                       | Major item, Very rare | Found in [[Grimbaskal's Hoard]]. Enhanced and repaired by [[Nahto]].               | [Mechanics](https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced)    |
+|       | Moon Necklace                                   | Minor item, Common    | Gift from [[Arryn]]                                                                | [Mechanics](https://www.dndbeyond.com/magic-items/5920576-moon-necklace)                     |
+|       | [[Drankorian Message Stone]]                    | Minor item, Uncommon  | Long range version. Taken from [[Agata]]. Paired stone currently held by [[Sura]]. | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone)          |
+|       | Hat of Vermin                                   | Minor item, Common    | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]  |                                                                                              |
+|       | Clockwork Amulet                                | Minor item, Common    | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]  |                                                                                              |
+|       | [[Tollen Magical Tattoo\|Tattoo]] of Darkvision | Minor item, Uncommon  | Purchased from [[Cecilia Lister]]                                                  |                                                                                              |
+|       | [[Skaer Steel]] arrows (9 quivers)              | Minor item, Rare      | Commissioned from [[Umli]]                                                         |                                                                                              |
 ### Kenzo
 
 Major items:
@@ -117,7 +99,7 @@ Major items:
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [[Riswynn]] in exchange for her aid.
 - [[Silverspark Gauntlets]] (uncommon major item)
 - Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
-- Masterwork shield, constructed of 7.5 lb of [[Skaer steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
+- Masterwork shield, constructed of 7.5 lb of [[Skaer Steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
 
 Minor items:
 - Coin of Delving (common minor item)
@@ -324,8 +306,8 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 #### In Tollen
 - A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [[Seeker]] takes); 6 small crates of beaver fur hats in a variety of styles. Left with [[Adam Gower]] to sell / trade.
-- 8 swords and 4 spears of [[Skaer steel]] (used by Skaer warriors killed on [[Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
-- 5 pounds [[Skaer steel]], gifted by the Skaer. Given to [[Umli]] to reuse.
+- 8 swords and 4 spears of [[Skaer Steel]] (used by Skaer warriors killed on [[Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
+- 5 pounds [[Skaer Steel]], gifted by the Skaer. Given to [[Umli]] to reuse.
 - The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state. Being dismantled and converted to usable timber in [[Tokra]]. 
 #### In Chardon
 

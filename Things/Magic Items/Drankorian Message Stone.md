@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [item]
 displayDefaults: {defArt: ""}
-name: Message Stones
+name: Message Stone
 typeOf: wondrous item
 subTypeOf: magic
 ancestry: Drankorian
@@ -12,7 +12,7 @@ pcOwner:
 whereabouts:
 ddbLink: https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone
 ---
-# Message Stones
+# Message Stone
 >[!info]+ Information  
 > ([[Drankorian Empire|Drankorian]] magic wondrous item)  
 > [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone)  

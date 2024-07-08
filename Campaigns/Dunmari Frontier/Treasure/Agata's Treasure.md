@@ -1,7 +1,3 @@
----
-tags: [status/needswork]
----
-
 # Treasure Recovered from Agata Dustmother
 
 ## Taken from Agata's Person
@@ -11,7 +7,7 @@ These are items carried by Agata, acquired by the party after [[Session 28 (DuFr
 
 - [[Obsidian Fly]]. A small black obsidian fly sculpture. Taken from [[Agata]]
 - [[Raven Whistle]]. A whistle carved from the bone of a giant bird, radiates transmutation magic.
-- A pair of [[Drankorian Message Stones]], used by [[Agata]] and [[Samerki]]. Each are about the size of halflings' fist, and are marked with arcane sigils. Long range version. 
+- A pair of [[Drankorian Message Stone]], used by [[Agata]] and [[Samerki]]. Each are about the size of halflings' fist, and are marked with arcane sigils. Long range version. 
 - A brass ring set with a garnet, that radiates abjuration magic. Dunmari in origin. Functions as a [Ring of Protection from Fire](https://www.dndbeyond.com/magic-items/5149-ring-of-fire-resistance). Taken from [[Samerki]].  %%SECRET[1]%%
 - [Wand of Caustic Arrows](https://www.dndbeyond.com/magic-items/3657480-wand-of-caustic-arrows). This wand appears to be of fey make, but not of [[Agata]]’s creation. Taken from [[Agata]]. %%SECRET[2]%%
 - [[Ring of the Warded Mind]]. Taken from [[Agata]].
@@ -20,52 +16,62 @@ These are items carried by Agata, acquired by the party after [[Session 28 (DuFr
 - Four dried scorpions in a leather pouch. %%SECRET[3]%%
 - [[Boots of False Tracks (Agata)]]. Taken from [[Agata]]. 
 - [[Ring of Displacement]]. Taken from [[Agata]]. 
-
+- [Amber Web](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s.
+- [Swarm Bottle](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s.
 ### Mudane Items
 
-- A silver ring, set with an obsidian gem. Worn by [[Agata]]. Could sell for 300-1800gp. %%SECRET[4]%%
+- A silver ring, set with an obsidian gem. Could sell for 300-1800gp. %%SECRET[4]%%
 - A diamond of beautiful quality and cut. Carried by [[Agata]]. Could sell for 1000-2400gp. Seen in [[The Mirror of the Past]]: [[Extravagant Diamond Vision]]. %%SECRET[5]%%
-- Five uncut gemstones: an amethyst (10-60gp %%SECRET[6]%%), a rose quartz (50-300gp %%SECRET[7]%%), and a topaz (100-600gp %%SECRET[8]%%). Carried by [[Agata]]. ​​If cut and polished by a skilled gemcutter, the rubies and topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double.
+- Five uncut gemstones: an amethyst (10-60gp %%SECRET[6]%%), a rose quartz (50-300gp %%SECRET[7]%%), and a topaz (100-600gp %%SECRET[8]%%). If cut and polished by a skilled gemcutter, the rubies and topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double.
 
-**EDIT LINE**
 ## Taken from Agata's Lair
 
 These are items recovered from Agata's lair, after it was [[Session 30 (DuFr)|found and looted]] by the [[Dunmar Fellowship]]. 
 
 ### Magic Items
 
-- Dream Mirror (common minor item). [Mechanics](https://www.dndbeyond.com/magic-items/3819612-dream-mirror)  A dented copper bowl, radiates divination magic. Origin unclear. Taken from [[Agata]]’s hut. %%SECRET[9]%%
-- Alchemical Teakettle (uncommon minor item). A black iron teakettle that appears to be able to hold about a gallon of liquid, and weighs 12 pounds. Probably a dwarven creation. %%SECRET[10]%%
-- [[Mirror of Soul Trapping]] (very rare major item, party)
-- [[Ever Spinning Top]] (common minor item, party, recovered from [[Kadmos]])
-- [[Medusa Blade]]. ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[11]%%
-- Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 67 (DuFr)]]. 
-- Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in the fight with [[Kadmos]] and [[Casian]] in [[Session 44 (DuFr)]]. 
-- Leech Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut. (used in battle)
-- [[Thorn Seed Bag]]. Destroyed in [[Session 31 (DuFr)]]. A greenish bag that smells of rot and decay, radiates transmutation magic. It contains three seeds. If a seed is planted in the ground, over the course of the next two weeks all plant life within 300 feet withers and rots, and the land becomes cursed. While the land is cursed, no plants can grow. Alternatively, a seed can be thrown up to 60 feet. This has the effect of the spike growth spell centered on the point of impact. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut. 
-- [[Soul Lantern]]. Destroyed in [[Session 32 (DuFr)]].
-
-- Wooden figures. These are the wooden carvings/figures of cursed people. All of these radiate complex transmutation magic. All were changed back into people.
-	- A young girl, maybe 3 years old, with light brown skin and dark shoulder-length hair, big, curious brown eyes, and a chubby face, now broken in half and no longer radiating magic. This is [[Jumi]]. Freed. Casting Dispel Magic on [[Jumi]] herself, mostly turned to wood, ended the magic on [[Jumi]] and the figure of [[Jumi]]. 
-	- An older halfling man, easily into his 80s or 90s, with a wrinkled face, stained traveling clothes, blue eyes and curly graying hair. Tentatively identified as one of the Tealeaf family, a large merchant clan that once traded between [[Chardon]] and eastern [[Dunmar]]. Freed; name is [[Garret Tealeaf]], captured by [[Agata]] 11 years ago.
-	- [[Kaya|A young woman]], maybe around 16, with dark brown skin, long braided black hair, and green eyes, wearing ill-fitting chain mail and carrying a spear. Probably Dunmari, but the clothes are very archaic. Freed; but at the moment fairly catatonic and has not spoken.
-	- [[Shandar|A middle aged man]], maybe 50, wearing stained and repeatedly mended riding clothes, with short cropped white hair, lightly tanned, with a bony, lined face and a bow and quiver on his back. Probably Dunmari, but the clothes are very archaic. Freed; but at the moment fairly catatonic and has not spoken.
-- Prophecy Bones. A tan pouch containing seven human knucklebones, radiating divination magic. When a bone is drawn from the bag and cast, it has the effect of the augury spell, and then turns to dust. Probably created by [[Agata]]. Taken from [[Agata]]’s hut. (destroyed)
-- Finger of Direction. A realistic carved wooden hand with an index finger that is rotting flesh, radiates divination magic. When asked, it will unerringly point north. Probably created by [[Agata]]. Taken from [[Agata]]’s hut. (destroyed)
-- Eye of Undead Sensing. A jar filled with liquid in which floats a single human eye, radiating divination magic. When an undead creature comes within 100 feet of the jar, the eye darts about as if it is looking around in panic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut.  (destroyed)
-- [[Liquid Wood]]. This jar of putty-like brown goo radiates transmutation magic, and is clearly a creation of [[Agata]]’s. It is used for turning creatures into wooden servants. Taken from [[Agata]]’s hut. 
-- Black Light Candle. Sold as part of the deal to get the [[Chalice of the Runepriest]] back, in [[Session 49 (DuFr)]]  [Mechanics](https://www.dndbeyond.com/magic-items/3819589-black-light-candle). A candle made of gray wax, radiating evocation magic. Very likely of fey origin. Taken from [[Agata]]’s hut. Sold as part of the deal to get the [[Chalice of the Runepriest]] back, in [[Session 49 (DuFr)]]. %%SECRET[12]%%
-- [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 79 (DuFr)]]
-- Charlatan's Dice (common minor item) [Mechanics](https://www.dndbeyond.com/magic-items/charlatans-die)  A pair of bone dice, radiates illusion magic. While attuned to these dice, you can control what number they roll. Seems to be of fey origin. Taken from [[Agata]]’s hut. %%SECRET[13]%%
+- Dream Mirror. A dented copper bowl, radiates divination magic. Origin unclear. %%SECRET[9]%%
+- Alchemical Teakettle. A black iron teakettle that appears to be able to hold about a gallon of liquid, and weighs 12 pounds. Probably a dwarven creation. %%SECRET[10]%%
+- [[Mirror of Soul Trapping]]
+- [[Ever Spinning Top]]
+- [[Medusa Blade]]
+- [Leech Bottle](https://www.dndbeyond.com/magic-items/3819597-leech-bottle). A bottle filled with preserved leeches, radiating necromancy magic. Probably a creation of [[Agata]]’s.
+- Thorn Seed Bag. A greenish bag that smells of rot and decay, radiates transmutation magic. It contains three seeds. If a seed is planted in the ground, over the course of the next two weeks all plant life within 300 feet withers and rots, and the land becomes cursed. While the land is cursed, no plants can grow. Alternatively, a seed can be thrown up to 60 feet. This has the effect of the spike growth spell centered on the point of impact. Probably a creation of [[Agata]]’s.
+- [[Soul Lantern]]
+- [[Agata's Wooden Figurines]]
+- Prophecy Bones. A tan pouch containing seven human knucklebones, radiating divination magic. When a bone is drawn from the bag and cast, it has the effect of the augury spell, and then turns to dust. Probably created by [[Agata]].
+- Finger of Direction. A realistic carved wooden hand with an index finger that is rotting flesh, radiates divination magic. When asked, it will unerringly point north. Probably created by [[Agata]].
+- Eye of Undead Sensing. A jar filled with liquid in which floats a single human eye, radiating divination magic. When an undead creature comes within 100 feet of the jar, the eye darts about as if it is looking around in panic. Probably a creation of [[Agata]]’s. %%SECRET[11]%%
+- [[Liquid Wood]]. This jar of putty-like brown goo radiates transmutation magic, and is clearly a creation of [[Agata]]’s. It is used for turning creatures into wooden servants.
+- [Black Light Candle](https://www.dndbeyond.com/magic-items/3819589-black-light-candle). A candle made of gray wax, radiating evocation magic. Very likely of fey origin.  %%SECRET[12]%%
+- [[Ever Spinning Top]]
+- [Charlatan's Dice](https://www.dndbeyond.com/magic-items/charlatans-die)  A pair of bone dice, radiates illusion magic. Seems to be of fey origin. %%SECRET[13]%%
 - Displacer Cloak. Carried by [[Drikod]]. %%SECRET[14]%%
 ### Mundane Items
-- [[Chardon Fan]] ([[Kenzo]]). %%SECRET[15]%%
-- A small wooden box holding six small statuettes, each in the shape of a farm animal. All are clockwork contraptions which, when properly wound, walk and make the appropriate animal noise. There is a cow, a horse, a chicken, a pig, a goat (given to some Dunmari goat herders in [[Session 40 (DuFr)]]), and a sheep. From [[Agata]]’s hut. Probably worth 10-180gp as a set, perhaps 2-35 gp per item ([[Seeker]]). %%SECRET[15]%%
-- [[Dunmari Heirloom Shield]]. An elaborate shield from the [[Great War]] era, Dunmari design, found in [[Agata]]'s hut.
-- A small round moonstone from [[Agata]]’s hut.
-- Four small (pea-sized) amethysts with obvious flaws, from [[Agata]]’s hut.
-- A pea-sized cube of shiny cobalt from [[Agata]]’s hut.
-- A malachite carving of a stalking cat, designed as a pendant. from [[Agata]]’s hut.
--  A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].
--  Twelve ingots of pure silver, each about a pound. Stolen by [[Orcs|orc]] raiders who got away, from attack on camp after raiding [[Agata's lair]].
-- A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg, from [[Agata]]’s hut. Could sell for 200-1200gp %%SECRET[17]%%
+- [[Chardon Fan]] %%SECRET[15]%%
+- A small wooden box holding six small statuettes, each in the shape of a farm animal. All are clockwork contraptions which, when properly wound, walk and make the appropriate animal noise. There is a cow, a horse, a chicken, a pig, a goat, and a sheep.  Probably worth 10-180gp as a set, perhaps 2-35 gp per item %%SECRET[15]%%
+- [[Dunmari Heirloom Shield]]. An elaborate shield from the [[Great War]] era, Dunmari design.
+- A small round moonstone.
+- Four small (pea-sized) amethysts with obvious flaws.
+- A pea-sized cube of shiny cobalt.
+- A malachite carving of a stalking cat, designed as a pendant.
+- A small silver snuff box inlaid with tiny flakes of agate. Contains: a pair of pendants made from obsidian that resemble tiny panther heads and three rings of obsidian.
+- 27 ingots of pure silver, each about a pound.
+- A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg, from [[Agata]]’s hut. Worth 200 - 1200 gp %%SECRET[17]%%
+- A smoothly carved wooden jar shaped like a squatting, pensive woman whose arms rest on her knees.
+- A silver chain-link necklace with a silver dragonfly pendant with green-tinted mother of pearl wings
+- An heavy iron ring is inlaid with thin streams of gold and platinum around its circumference
+- A small golden vulture pendant inlaid with black and blue cloisonné glass. 
+- A wide, pounded copper bracelet 
+- A small, undecorated bronze flask containing whiskey
+- A short, thick knobby blue glass
+- 48 silver coins and 62 bronze coins. These are antique hexagonal coins, may be of more value to a collector 
+- A wooden box about the size of a loaf of bread, its hinges and clasp made of silver, A battle scene is carved on the lid (depicting a battle from the Second Hobgoblin War).
+- A pair of matching sheathed daggers. The two daggers are as long as a child’s forearm, with oak handles wrapped in silver wire; their sheaths are of unadorned black leather
+- Two glass eyes, correct in every anatomical detail.
+- An unusual hexagonal chest, the size of a child’s chest and carved from a fragrant greenish wood. A watercolor print of the red mesa decorates the inside lid. Contains Four vials of perfume and ointment, all stored in virtually identical black glass tubes; the only way to tell the fragrances apart is by the relief carvings decorating the stoppers.
+- A fine porcelain tea set with a tea pot and six tea cups, and six ceramic stoppered vials containing dried tea leaves.
+- An antique hourglass. The base is made of fine marble, and the glass is delicate crystal.
+- Two heavy shields decorated with rearing horses, of average make. 
+- Thousands of coins from more than a dozen different kingdoms     
+- A soapstone figurine, depicting Kotana on a horse

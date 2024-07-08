@@ -48,8 +48,8 @@ tags: [status/needswork]
 
 ### From the Skaer of Vetta
 - A enchanted oyster shell that allows the Divination spell to be cast once, acquired from the Skaer as thanks for defeating the demon of Vetta.
-- 8 swords and 4 spears of [[Skaer steel]] (used by Skaer warriors killed on [[Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
-- 5 pounds [[Skaer steel]], gifted by the Skaer. Given to [[Umli]] to reuse.
+- 8 swords and 4 spears of [[Skaer Steel]] (used by Skaer warriors killed on [[Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
+- 5 pounds [[Skaer Steel]], gifted by the Skaer. Given to [[Umli]] to reuse.
 ## Purchases
 
 - Hat of Vermin (common minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
@@ -72,6 +72,6 @@ tags: [status/needswork]
 
 - [[Glove of Crystalized Magic]] (very rare major item)
 
-- Masterwork shield, constructed of 7.5 lb of [[Skaer steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
+- Masterwork shield, constructed of 7.5 lb of [[Skaer Steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
 
 - 9 quivers of Skaer arrows, constructed by [[Umli]]

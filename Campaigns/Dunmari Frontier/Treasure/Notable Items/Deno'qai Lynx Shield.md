@@ -22,5 +22,5 @@ whereabouts: Dewalth
 ![[lynx-shield.png|right|400]]A magical shield of Deno'qai make, decorated with a lynx motif. This shield was originally made with the blessings of the [[tanshi]] for [[Balati]], a Deno’qai hero in the [[Great War]]. After Balati fell in battle, the shield preserved by the [[Ko'zula]] tribe, along with Balati's [[Deno'qai Scale Mail|armor]]. 
 
 %%Campaign:dufr%%
-In DR 1748, this shield was [[Session 53 (DuFr)|gifted]] to [[Delwath]] by [[Enon]], the Godcaller of the [[Ko'zula]], to aid on his quest to rescue the [[Meswati]]. During the course of [[Session 54 (DuFr)|Delwath's adventure]], this shield gained the blessings of the six lost tanshi as [[Session 55 (DuFr)|they were freed]]: [[Midri]], [[K'onisati]], [[Nisir]], [[Taraka]], [[Yalik'i]], and [[Yezali]]. Later, [[Umli]] [[Session 90 (DuFr)|enhanced]] the shield with [[Skaer steel]]. 
+In DR 1748, this shield was [[Session 53 (DuFr)|gifted]] to [[Delwath]] by [[Enon]], the Godcaller of the [[Ko'zula]], to aid on his quest to rescue the [[Meswati]]. During the course of [[Session 54 (DuFr)|Delwath's adventure]], this shield gained the blessings of the six lost tanshi as [[Session 55 (DuFr)|they were freed]]: [[Midri]], [[K'onisati]], [[Nisir]], [[Taraka]], [[Yalik'i]], and [[Yezali]]. Later, [[Umli]] [[Session 90 (DuFr)|enhanced]] the shield with [[Skaer Steel]]. 
 %%^End%%

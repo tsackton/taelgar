@@ -103,7 +103,7 @@ Major items:
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [[Riswynn]] in exchange for her aid.
 - [[Silverspark Gauntlets]] (uncommon major item)
 - Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
-- Masterwork shield, constructed of 7.5 lb of [[Skaer steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
+- Masterwork shield, constructed of 7.5 lb of [[Skaer Steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
 
 Minor items:
 - Coin of Delving (common minor item)
@@ -308,8 +308,8 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 #### In Tollen
 - A collection of Tollender goods, that survived water damage: 20 bolts of brilliantly dyed red cloth; 4 crates of fine linen shits; 2 crates of red Tollender cloaks (one of which [[Seeker]] takes); 6 small crates of beaver fur hats in a variety of styles. Left with [[Adam Gower]] to sell / trade.
-- 8 swords and 4 spears of [[Skaer steel]] (used by Skaer warriors killed on [[Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
-- 5 pounds [[Skaer steel]], gifted by the Skaer. Given to [[Umli]] to reuse.
+- 8 swords and 4 spears of [[Skaer Steel]] (used by Skaer warriors killed on [[Vetta]]; gifted to party in their honor by Vaalinen). Given to [[Umli]] to reuse. 
+- 5 pounds [[Skaer Steel]], gifted by the Skaer. Given to [[Umli]] to reuse.
 - The [[Flaming Tempest]], once [[Urgall the Black|Urgall]]'s pirate ship. Badly damaged. Potentially worth 20,000 gold if repaired and fixed up, considerably less in it's current state. Being dismantled and converted to usable timber in [[Tokra]]. 
 #### In Chardon
 
