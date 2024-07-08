@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [item]
 ddbLink: https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement
 pcOwner: Delwath
-displayDefaults: {wOrigin: "", wOriginU: ""}
+displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
 typeOf: ring
 subTypeOf: magical
 rarity: uncommon
@@ -13,7 +13,7 @@ whereabouts:
 - { type: home, location: Agata, end: 1748 }
 - { type: home, location: Delwath, start: 1748 }
 ---
-# The Ring of Displacement
+# Ring of Displacement
 >[!info]+ Information  
 > (uncommon [[Drankorian Empire|Drankorian]] magical ring)  
 > [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement)  
