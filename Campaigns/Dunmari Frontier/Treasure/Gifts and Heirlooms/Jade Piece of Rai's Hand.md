@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {defArt: "a"}
+displayDefaults: {defArt: ""}
 tags: [item/magical]
 name: Jade Piece of Rai's Hand
 rarity: unique
 typeOf: gemstone
 subTypeOf: magical
 ---
-# A Jade Piece of Rai's Hand
+# Jade Piece of Rai's Hand
 >[!info]+ Information  
 > (unique magical gemstone)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
