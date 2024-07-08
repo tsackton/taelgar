@@ -22,7 +22,7 @@ The [[Dunmar Fellowship]] reunites with [[Riswynn]] who is hunting werewolves, a
 
 ## Session Info
 
-***The party recovers the [[Werewolf Lair Hoard]]***
+***The party recovers the [[Werewolf Lair Treasure]]***
 ### Summary
 
 - The [[Dunmar Fellowship]] fights off a surprise werewolf attack with the help of [[Riswynn]] and [[Vistra Fireforge]]; [[Riswynn]] shares news of a werewolf attack in [[Tharn Todor]] traced back to [[Tokra]].
@@ -66,7 +66,7 @@ The party searches the bodies and the papers, uncovering what seem to be calcula
 
 While searching the lair, they also uncover a giant calendar painted on the wall of the master bedroom that seems to be counting down days until August 1st, the next full moon, and some scattered coins and trinkets. 
 
-After [[Riswynn]] heals [[Kenzo]] of suspected lycanthropy, she goes with [[Wellby]] to search the basement again for whatever the leader’s key opens, while [[Vistra Fireforge]] keeps onlookers from getting curious and the rest of the party takes a short rest. In the basement, [[Wellby]] finds a secret door hidden by an illusory wall. Inside is a small room with a locked chest, and a table with a map spread out on it. As [[Wellby]] opens the chest, poison gas pours out. [[Riswynn]] jumps on the table to get above it, while [[Wellby]] dashes out of the room. After some debate about how to rescue [[Riswynn]] and get the stuff out of the chest, [[Delwath]] uses mage hand to pass the [[Raven Whistle]] to [[Riswynn]], letting her fly over the gas; [[Delwath]] also retrieves some items from the chest, including an [[Ivory Scroll Cap]] that looks very familiar. As the party regroups, they decide to excavate a pit for the gas to pool in in order to get the rest of the stuff from the chest. 
+After [[Riswynn]] heals [[Kenzo]] of suspected lycanthropy, she goes with [[Wellby]] to search the basement again for whatever the leader’s key opens, while [[Vistra Fireforge]] keeps onlookers from getting curious and the rest of the party takes a short rest. In the basement, [[Wellby]] finds a secret door hidden by an illusory wall. Inside is a small room with a locked chest, and a table with a map spread out on it. As [[Wellby]] opens the chest, poison gas pours out. [[Riswynn]] jumps on the table to get above it, while [[Wellby]] dashes out of the room. After some debate about how to rescue [[Riswynn]] and get the stuff out of the chest, [[Delwath]] uses mage hand to pass the [[Raven Whistle]] to [[Riswynn]], letting her fly over the gas; [[Delwath]] also retrieves some items from the chest, including an [[Ivory Scroll Case]] that looks very familiar. As the party regroups, they decide to excavate a pit for the gas to pool in in order to get the rest of the stuff from the chest. 
 
 Finally, at about 4:30 in the afternoon, the party leaves the lair, [[Vistra Fireforge]] remaining behind on guard until [[Kaleha]] can be notified. [[Kenzo]] goes to speak with [[Kaleha]] to let her know of the events of the day, while the rest of the party escorts [[Govir]] back to the [[Archives]], where [[Riswynn]] cures him of his lycanthropy. 
 

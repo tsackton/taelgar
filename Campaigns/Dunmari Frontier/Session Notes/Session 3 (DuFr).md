@@ -25,7 +25,7 @@ The [[Dunmar Fellowship]] explores a [[Dunmari Fort (Gomat)|ruined fort]], battl
 - Inside the fort, they encounter and defeat a giant insect-like creature, an ankheg.
 - They discover a temple dedicated to the [[Five Siblings]] and a magical silver spearpoint inside.
 - Exploration of the fort's towers uncovers a magical horn and the remains of an ancient scout.
-- In the cave below, they find a petrified explorer and a magical [[floating disc coin]], confront a cockatrice nursery, and battle an undead creature.
+- In the cave below, they find a petrified explorer and a magical [[Floating Disc Coin]], confront a cockatrice nursery, and battle an undead creature.
 - A cursed obsidian stone is destroyed, ending the beastly rampage.
 ### Timeline
 - (DR:: 1748-03-25), afternoon: Explore [[Dunmari Fort (Gomat)|the ruined fort]] and the caves below. Find a petrified explorer (later revealed to be [[Arcus]]). Find and defeat an undead creature carrying a symbol of [[Cha'mutte]]. Destroy cursed obsidian stone on its staff that seems to be causing beasts to rampage. 

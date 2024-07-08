@@ -1,5 +1,6 @@
 # Gifts
 
+- Coin of Delving (common minor item) - gift to Riswynn upon departure from Tharn Todor at beginning of campaign
 
 - Delwath's elven armor from the days of the Great War, now no longer magical 
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
@@ -20,15 +21,15 @@
 ### From [[Havdar]]
 - [[Flaming Bowstring]] (uncommon major item)
 ### From [[Arryn]]
-- [[Moon Necklace]] (common minor item)
+- [[Moon Necklace]] (common minor item). A gift from [[Arryn]] to [[Wellby]], a necklace on which a pendant is hung that always glows with the light of the moon, fading and growing in brightness depending on the phase. 
 ### From [[Rishi]]
 - [[Staff of the Forest Soul]] (very rare major item)
 
 ### From [[Prince of Luck|Chanceweaver]]
-- [[Chanceweaver’s Dice]] (rare minor item)
+- [[Chanceweaver’s Dice]] (rare minor item). A pair of amorphous dice that can change their shape at will. Anytime you roll a die, either in-world or as part of the game, you can chose what side the die lands on. Each die can be used once, and then ceases to be magical.  Gifted to [[Seeker]] by the [[Prince of Luck]]. 
 
 ### From [[Lady Eventide]]
-- [[Sunset Thread]] (common minor item)
+- [[Sunset Thread]] (common minor item). A strand of thread from [[Lady Eventide]]’s dress given to [[Seeker]], spun by the Cloudweaver, that will glow with the light of sunset whenever the sun is setting in the material plane, signaling that the [[Lastlight Falls]] fey crossing is open. 
 ### From [[Saka]]
 - Scrolls of Storykeeping, from [[Saka]] ([[Kenzo]]). 10 total, 9 used:
 	- [[Kirian's Story]]
@@ -56,7 +57,7 @@
 
 - Soul Tattoo (rare major item)
 - Dragonhide Studded Leather (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
-- [[Ring of Jumping]] (uncommon major item)
+- [[Ring of Jumping]] (uncommon major item). A ring of a Drankorian design, a twisted silver hare motif. Gift from [[Havdar]], in exchange for the [[Spear of the War Leader]]. %%SECRET[2]%%
 
 - Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
 - Cloak of the mantra ray (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])

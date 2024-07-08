@@ -332,7 +332,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Riding boots and cloak, set, from the chest in the werewolf lair’s secret room. Probably worth 10-60 gp as a set. Sold for 20 gp.
 - Dice set of six, made of ivory. From werewolf lair in [[Tokra]]. Worth 1-6 gp. Sold for 3 gp.
 - Dagger, with a well-carved wooden handle with horse design. From werewolf lair. Probably worth 10-60 gp. Sold for 30 gp.
-- Scroll case and cap, empty, matching the [[Ivory Scroll Cap]] found long ago which summoned the demon in [[Raven's Hold]]. From the werewolf lair in [[Tokra]]. Worth 20-120 gp if reunited with missing cap; 5-30 gp otherwise. Sold for 80 gp.
+- Scroll case and cap, empty, matching the [[Ivory Scroll Case]] found long ago which summoned the demon in [[Raven's Hold]]. From the werewolf lair in [[Tokra]]. Worth 20-120 gp if reunited with missing cap; 5-30 gp otherwise. Sold for 80 gp.
 - Iron pendant from the werewolf lieutenant. Probably worth 10-180gp. Exchanged with [[Harol Silversong]] for passage to [[Chardon]] on the [[Emerald Song]]. 
 - Holy symbol from giant werewolf captain. Pale moonstone depiction of a full moon, set in a larger outer ring of iron with jagged wire. Probably worth 150-900gp. Exchanged with [[Harol Silversong]] for passage to [[Chardon]] on the [[Emerald Song]].
 

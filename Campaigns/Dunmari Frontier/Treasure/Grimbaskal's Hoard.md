@@ -4,11 +4,10 @@ Treasure found in the lair of the green dragon [[Mezzar|Grimbaskal]], in the [[E
 
 ## Magic Items
 
-- Saddle of the Bonded Companion (rare minor item). A magical saddle that protects a mount, made of nice leather and decorated with fine silver work, of halfling make.
+- Saddle of the Bonded Companion (rare minor item). A magical saddle that protects a mount, made of nice leather and decorated with fine silver work, of halfling make. [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion) A magical saddle that protects a mount, made of nice leather and decorated with fine silver work, of halfling make. Found in [[Mezzar|Grimbaskal]]’s hoard. Worn by [[Baxter]]. 
 - [[Narengril]] (rare major item)
 - [[Kenku Glamoured Armor]] (very rare major item)
-- [[Saddle of the Bonded Companion]] (rare minor item)
-- [[Wand of Detect Magic]] (uncommon minor item)
+- Wand of Detect Magic (uncommon minor item)
 - [[Efreeti Bottle]] (very rare major item, party)
 - [[Augury Mirrors]] (rare minor item, party)
 - [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. %%SECRET[1]%%

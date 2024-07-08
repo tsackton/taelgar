@@ -1,0 +1,4 @@
+- [[Horn of Silent Alarm]] (common minor item)
+- A single small turquoise stone, found in wvyern lair. Sold for 70 gp.
+- Well-worked decorative saddle, found in wyvern lair. Sold for 40 gp.
+- Golden bracelet set with pearls, found in wyvern lair. Sold for 8 gp. 
