@@ -159,54 +159,55 @@ The following mundane items are kept on [[Vindristjarna]]:
 - 7 1/2 heavy gold bars, each weighing 10 pounds and worth 500 gp (total value 3750 gp), recovered from the Elemental Forge
 - 15 heavy silver bars, each weighing 5 pounds and worth 25 gp (total value 375 gp), recovered from the Elemental Forge
 ### Gemstones
-- 16 uncut and unpolished gemstones (value would increase if properly cut), taken from the jeweler's workshop at the Elemental Forge
-	- Two ruby (Deep red, radiant glow) %%SECRET[7]%%
-	- Three garnet (Dark red, glassy appearance) %%SECRET[8]%%
-	- Two peridot (Bright green, light-catching sparkle) %%SECRET[9]%%
-	- One opal (Multicolored, mystical fire) %%SECRET[10]%%
-	- Two citrine (Yellow to orange, sunny and bright) %%SECRET[8]%%
-	- Three topaz (Golden yellow, shimmers in light)  %%SECRET[10]%%
-	- Two onyx (Black, deep and opaque) %%SECRET[8]%%
-	- One lapis lazuli (Blue with gold flecks, royal appearance) %%SECRET[9]%%
-- A diamond of beautiful quality and cut. Carried by [[Agata]]. Could sell for 1000-2400gp. Seen in [[The Mirror of the Past]]: [[Extravagant Diamond Vision]]. %%SECRET[15]%%
-- Five uncut gemstones: an amethyst (10-60gp %%SECRET[16]%%), a rose quartz (50-300gp %%SECRET[17]%%), and a topaz (100-600gp %%SECRET[18]%%). Carried by [[Agata]]. ​​If cut and polished by a skilled gemcutter, the rubies and topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double.
-- A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg, from [[Agata]]’s hut. Could sell for 200-1200gp %%SECRET[19]%%
-- Three large pearls, damaged (25-50 gp each, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[20]%%
-- A set of six small pieces of polished jasper (10 - 60 gp each, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[21]%%
-- Two beautiful amethyst (100 - 200 gp each, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[19]%%
-- Two small garnets, uncut (25 - 50 gp as is, 50 - 100 gp if cut, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[23]%%
-- A flawed black pearl (50 - 300 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[17]%%
-- A large amber (100 - 200 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[19]%%
-- A extraordinarily fine black opal set on gold chain (400 - 2400 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[26]%%
+- 16 uncut and unpolished gemstones (value would increase if properly cut), from the [[Elemental Forge Hoard]]:
+	- Two rubies (deep red, radiant glow) 
+	- Three garnets (dark red, glassy appearance) 
+	- Two peridot (bright green, light-catching sparkle) 
+	- One opal (multicolored, mystical fire) 
+	- Two citrine (yellow to orange, sunny and bright) 
+	- Three topaz (golden yellow, shimmers in light)  
+	- Two onyx (black, deep and opaque) 
+	- One lapis lazuli (blue with gold flecks, royal appearance) 
+- A diamond of beautiful quality and cut. Could sell for 1000-2400gp. Seen in [[The Mirror of the Past]]: [[Extravagant Diamond Vision]]. From [[Agata's Treasure]].
+- Five uncut gemstones: an amethyst (10-60gp), a rose quartz (50-300gp), and a topaz (100-600gp). ​​If cut and polished by a skilled gemcutter, the topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double. From [[Agata's Treasure]].
+- A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg. Could sell for 200-1200gp. From [[Agata's Treasure]].
+
+- Three large pearls, damaged (25-50 gp each, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[7]%%
+- A set of six small pieces of polished jasper (10 - 60 gp each, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[8]%%
+- Two beautiful amethyst (100 - 200 gp each, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[9]%%
+- Two small garnets, uncut (25 - 50 gp as is, 50 - 100 gp if cut, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[10]%%
+- A flawed black pearl (50 - 300 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[11]%%
+- A large amber (100 - 200 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[9]%%
+- A extraordinarily fine black opal set on gold chain (400 - 2400 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[13]%%
 - Four large pearls, gifted by the Skaer %% SECRET rare %%
 
 ### Jewelry
-- A silver ring, set with an obsidian gem. Worn by [[Agata]]. Could sell for 300-1800gp. %%SECRET[27]%%
-- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[27]%%
+- A silver ring, set with an obsidian gem. Worn by [[Agata]]. Could sell for 300-1800gp. %%SECRET[14]%%
+- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[14]%%
 - Four projects in various states of completion recovered from the jeweler's workshop at the Elemental Forge. All would require further finishing work before being enchanted or sold. 
-	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty %%SECRET[27]%%
-	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished %%SECRET[30]%%
-	- A finely engraved platinum ring set with a tiny but perfect sapphire %%SECRET[31]%%
-	- A silver tiara set with moonstones %%SECRET[27]%%
+	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty %%SECRET[14]%%
+	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished %%SECRET[17]%%
+	- A finely engraved platinum ring set with a tiny but perfect sapphire %%SECRET[18]%%
+	- A silver tiara set with moonstones %%SECRET[14]%%
 
 ### Objects of Art
-- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears (recovered from [[Kharsan]]) %%SECRET[10]%%
-- A pair of nice wooden spoons (from the palace kitchens in [[Kharsan]]) %%SECRET[8]%%
-- [[Chardon Fan]] ([[Kenzo]]). %%SECRET[8]%%
-- A small wooden box holding six small statuettes, each in the shape of a farm animal. All are clockwork contraptions which, when properly wound, walk and make the appropriate animal noise. There is a cow, a horse, a chicken, a pig, a goat (given to some Dunmari goat herders in [[Session 40 (DuFr)]]), and a sheep. From [[Agata]]’s hut. Probably worth 10-180gp as a set, perhaps 2-35 gp per item ([[Seeker]]). %%SECRET[8]%%
--  A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[30]%%
-- A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[38]%%
-- Carved bone statuette of an eagle (80 - 130 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[39]%%
-- The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[40]%%
-- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[41]%%
-- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[41]%%
-- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[43]%%
+- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears (recovered from [[Kharsan]]) %%SECRET[20]%%
+- A pair of nice wooden spoons (from the palace kitchens in [[Kharsan]]) %%SECRET[21]%%
+- [[Chardon Fan]] ([[Kenzo]]). %%SECRET[21]%%
+- A small wooden box holding six small statuettes, each in the shape of a farm animal. All are clockwork contraptions which, when properly wound, walk and make the appropriate animal noise. There is a cow, a horse, a chicken, a pig, a goat (given to some Dunmari goat herders in [[Session 40 (DuFr)]]), and a sheep. From [[Agata]]’s hut. Probably worth 10-180gp as a set, perhaps 2-35 gp per item ([[Seeker]]). %%SECRET[21]%%
+-  A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[17]%%
+- A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[25]%%
+- Carved bone statuette of an eagle (80 - 130 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[26]%%
+- The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[27]%%
+- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[28]%%
+- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[28]%%
+- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[30]%%
 
 ### Books and Notes
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]]
 - [[On the Lost People of the Forests]], by [[Gnaeus]]
 - [[The Runes of Creation]], author unknown
-- A treatise about alchemy carved on metal cylinders, author unknown, from [[Mezzar|Grimbaskal]]'s hoard.  %%SECRET[44]%%
+- A treatise about alchemy carved on metal cylinders, author unknown, from [[Mezzar|Grimbaskal]]'s hoard.  %%SECRET[31]%%
 - The [[Enchiridion of the Occulta Ludum]], a small pamphlet titled in Drankorian, faintly magical and empty inside. Found in Eudomes' tower. 
 - A second copy of “The [[Enchiridion of the Occulta Ludum]]”, also blank and slightly magical. Found in the bedroom of the Elemental Forge workshop.
 - [[Tales Before the Fall]], a huge book written in Giant, with tales of giants, from Eudomes' tower. 
@@ -231,11 +232,11 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. Taken from the Elemental Forge. 
 - Eight red dragon scales, from the Elemental Forge. 
 - Eternal ice, from the Elemental Forge
-- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[45]%%
+- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[32]%%
 - Blank spell scroll ([[Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. 
-- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[46]%%
+- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[33]%%
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
-- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[47]%%
+- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[34]%%
 - [[Vial of Acid (Gnoll Leader)|Metal vial with acidic liquid from gnoll war leader]] ([[Raven's Hold]], [[Wellby]]). No obvious value.
 ### Miscellany and Trade Goods
 - A wand, broken in half, once magical, but no longer ([[Kharsan]] palace)
@@ -247,9 +248,9 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Key ring that opens the door to the werewolf lair, as well as the cells and chains in the prison. Carried by the werewolf guard captain. No obvious value.
 - Small key that opens the chest in the secret room in the Empty Moon lair. Taken from the werewolf leader. No obvious value.
 - Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]
-- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[48]%%
-- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[49]%% 
-- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[50]%%
+- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[35]%%
+- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[36]%% 
+- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[37]%%
 ## Other Rewards
 - A meta-resource from speaking with [[Arheste]]: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics.
 - The party is always welcome in [[Karawa]] and will always have food and shelter while they are in town.
@@ -266,7 +267,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - The Boulder-Ladder, the hero of the [[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
 ### Destroyed or Used
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
-- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[51]%%
+- [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[38]%%
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
@@ -275,12 +276,12 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- Spectral prism (used for rainbow bridge)
 	- Four silver bars (used for cloud generator)
 	- Four vials of mercury (used for rainbow bridge and cloud generator)
-- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] %%SECRET[52]%%
+- Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] %%SECRET[39]%%
 - [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 81 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
 - [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
 - [[Dunmari Heirloom Shield]] (uncommon major item), used to make the adamantine required for the phasing stone harness on [[Vindristjarna]]
-- A perfect emerald hung on a silver chain (1000 - 2000 gp, from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] %%SECRET[26]%%
+- A perfect emerald hung on a silver chain (1000 - 2000 gp, from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] %%SECRET[13]%%
 - [[Horn of Silent Alarm]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[Motua]]'s rescue.
 - Amber Web. [Mechanics](https://www.dndbeyond.com/magic-items/3643193-amber-web). A small piece of amber with a spider trapped inside, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in battle with [[Agata]] reborn in the [[Feywild]], in [[Session 67 (DuFr)]]. 
 - Swarm Bottle. [Mechanics](https://www.dndbeyond.com/magic-items/3643187-swarm-bottle). A smoky glass bottle from which a buzzing sound can constantly be heard, which radiates conjuration magic. Seems likely to be a creation of [[Agata]]’s. Taken from [[Agata]]’s person. Used by [[Seeker]] in the fight with [[Kadmos]] and [[Casian]] in [[Session 44 (DuFr)]]. 
@@ -341,13 +342,13 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A pea-sized cube of shiny cobalt from [[Agata]]’s hut.
 - Six white moonstone gems from the werewolf lair.
 - A malachite carving of a stalking cat, designed as a pendant. from [[Agata]]’s hut.
-- A black pearl and silver twisted flame amulet, reminiscent of one of [[Cha'mutte]]'s symbols. Taken from the undead creature in the fort east of [[Gomat]].  %%SECRET[54]%%
+- A black pearl and silver twisted flame amulet, reminiscent of one of [[Cha'mutte]]'s symbols. Taken from the undead creature in the fort east of [[Gomat]].  %%SECRET[41]%%
 - Two small and uncut pieces of amber from [[Raven's Hold]]
 - Silver goblet with small red gems. Found in [[Raven's Hold]], in the [[Hobgoblins|hobgoblin]] chief’s bedroom.
 
 ### Given Away
 
-- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard), given to [[Brimskarda]] as a gift  %%SECRET[30]%% 
+- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard), given to [[Brimskarda]] as a gift  %%SECRET[17]%% 
 - Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
 - A silver wand that functions as an arcane focus, found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. 
 - Brooch of Warmth. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the detailed brooch enameled with brilliant reds, missing a central crystal, and an enchanted ruby found in the chest of gems, clearly meant to fit into the brooch (from the Elemental Forge). While attuned to this item, the wearer gains resistance to cold damage, and is unaffected by temperatures as low as -50 degrees. Given to Faldrak as partial payment for magic item construction. 
@@ -368,12 +369,12 @@ The following mundane items are kept on [[Vindristjarna]]:
 - [[Hobgoblin Notes from Raven's Hold|Looseleaf Hobgoblin Journal and log book]]. A leather satchel holding unbound pages that include notes and sketches that might portray troop movements, as well as a log book. Old. Given to [[Archives]] in [[Tokra]]
 - [[Two letters from Stormcaller Tower]], from [[Stormcaller Tower]]. Given to [[Marcella]], Chardonian adventurer, in exchange for information.
 - [[Boots of False Tracks (Agata)]]. Given to [[Marcella]]. 
-- A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[31]%%
-- A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[57]%%
-- Eight bolts of silk. Four are plain white silk (20 - 50 gp each), two are fine silk dyed a rich purple (100 - 250 gp each), and two are beautifully dyed with a complex pattern (100 - 600 gp each). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[58]%%
-- A large number of logs, in a range of lengths from just larger than an arm in length and breadth up to the breadth of a [[Humans|human]]’s body and ten paces in length. Each log has been carefully cut and polished so as to display the beauty of its grain and remove any danger of splinters. Many of the logs are hardy and rare hard woods of considerable value. Even the less valuable logs would still be useful to any master carpenter or lesser workman (32 logs total, most would sell for 15 - 150 gp, but two exquisite and rare hardwood logs would sell for 300-400 gp). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[59]%%
-- [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. %%SECRET[60]%%
-- [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) %%SECRET[60]%%
+- A large carved wooden statue of a dragon, painted in vivid greens and with two emeralds for eyes. Weighs at least 2000 pounds, if not more. Would be worth at least 5000 gp to the right buyer, but transport is a major issue. About 15 feet long, 10 feet wide, and 10 feet tall. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[18]%%
+- A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[44]%%
+- Eight bolts of silk. Four are plain white silk (20 - 50 gp each), two are fine silk dyed a rich purple (100 - 250 gp each), and two are beautifully dyed with a complex pattern (100 - 600 gp each). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[45]%%
+- A large number of logs, in a range of lengths from just larger than an arm in length and breadth up to the breadth of a [[Humans|human]]’s body and ten paces in length. Each log has been carefully cut and polished so as to display the beauty of its grain and remove any danger of splinters. Many of the logs are hardy and rare hard woods of considerable value. Even the less valuable logs would still be useful to any master carpenter or lesser workman (32 logs total, most would sell for 15 - 150 gp, but two exquisite and rare hardwood logs would sell for 300-400 gp). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. %%SECRET[46]%%
+- [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. %%SECRET[47]%%
+- [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) %%SECRET[47]%%
 ### Stolen or Lost
 
 - [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 79 (DuFr)]]
