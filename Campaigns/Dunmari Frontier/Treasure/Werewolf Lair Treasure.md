@@ -1,6 +1,10 @@
+---
+tags: [status/needswork]
+---
+
 ## Magic Items
 
-- [[Vicious Shortsword]] (rare major item)
+- Vicious Shortsword (rare major item)
 
 ### Scrolls
 - Detect Magic. (Werewolf lair) %%SECRET[1]%%

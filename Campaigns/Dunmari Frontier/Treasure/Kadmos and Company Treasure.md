@@ -1,4 +1,6 @@
-
+---
+tags: [status/needswork]
+---
 
 - Boots of Speed from [[Hektor]], taken by [[Wellby]]
 - A magical halberd from Hekor, given to [[Murook]]

@@ -1,3 +1,7 @@
+---
+tags: [status/needswork]
+---
+
 - [[Phasing Stones]] (powers [[Vindristjarna]], party), recovered from Hralgar's ancient, now abandoned, palace in the southern part of the [[Sentinel Range]]. 
 - Four books from [[Hralgar]]'s library: 
 	- Notes on the construction of skyship controls, copied from a pillar 

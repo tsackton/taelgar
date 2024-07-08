@@ -1,3 +1,7 @@
+---
+tags: [status/needswork]
+---
+
 # Treasure Recovered from Agata Dustmother
 
 ## Taken from Agata's Person

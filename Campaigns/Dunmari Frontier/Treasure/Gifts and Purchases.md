@@ -1,3 +1,7 @@
+---
+tags: [status/needswork]
+---
+
 # Gifts
 
 - Coin of Delving (common minor item) - gift to Riswynn upon departure from Tharn Todor at beginning of campaign
