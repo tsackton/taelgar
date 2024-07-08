@@ -1,10 +1,10 @@
 
-- [[Boots of Speed]] from [[Hektor]], taken by [[Wellby]]
+- Boots of Speed from [[Hektor]], taken by [[Wellby]]
 - A magical halberd from Hekor, given to [[Murook]]
 - [[Casian]]'s chalyte spellbook, kept by the party
 - [[Kadmos]]' spell gem than can cast conjure greater demon, kept by the party
 - [[Kadmos]]' shadowfell brand tattoo, taken by [[Kenzo]]
-- [[Kadmos]]' [[Rod of the Pact Keeper]], an iron rod decorated with a bejeweled skull, taken by [[Delwath]]
+- [[Kadmos]]' Rod of the Pact Keeper, an iron rod decorated with a bejeweled skull, taken by [[Delwath]]
 - The [[Ever Spinning Top]] from [[Agata's lair]], recovered by the party
 - [[Antonia]]'s [[Chime of Opening]], taken by the party
 - A large number of potions and minor items:

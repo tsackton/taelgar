@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item]
 displayDefaults: {defArt: ""}
 typeOf: shield
 name: Deno'qai Lynx Shield
+ancestry: Deno'qai
 ddbLink: https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield
 subTypeOf: magical
 pcOwner: Delwath
@@ -13,7 +14,7 @@ whereabouts: Dewalth
 ---
 # Deno'qai Lynx Shield
 >[!info]+ Information  
-> (legendary magical shield)  
+> (legendary [[Deno'qai]] magical shield)  
 > [Mechanics](https://www.dndbeyond.com/magic-items/5360068-lynx-denoqai-shield)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
