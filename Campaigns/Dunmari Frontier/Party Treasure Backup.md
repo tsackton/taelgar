@@ -21,7 +21,7 @@ Minor items:
 ### Wellby 
 
 Major items:
-- [[Magic Kenku Armor]] (very rare major item)
+- [[Kenku Glamoured Armor]] (very rare major item)
 - [[Vicious Shortsword]] (rare major item)
 - [[Boots of Speed]] (rare major item)
 - [[Flaming Bowstring]] (uncommon major item)
