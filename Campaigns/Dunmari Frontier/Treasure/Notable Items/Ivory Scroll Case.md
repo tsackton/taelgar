@@ -1,13 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [item, status/unknown]
 campaignInfo:
 name:
 typeOf: scroll case
 mundane: true
 ---
-# Ivory Scroll Cap
->[!info]+ Item Info
->(mundane scroll case)
+# The Ivory Scroll Case
+>[!info]+ Information  
+> (scroll case)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 An elaborate ivory scroll case. 
 

@@ -23,7 +23,7 @@ The [[Dunmar Fellowship]] battles a spectral [[Hralgar]], breaks his bonds with 
 ## Session Info
 
 ***Character advancement: the party reaches level 11***
-***The party recovers the rest of the [[Stormcaller Tower Hoard]]***
+***The party recovers the rest of the [[Stormcaller Tower Treasure]]***
 ***Hralgar gives his blessing for the party to take Vindristjarna***
 ### Summary
 - The party defeats Hralgar's ghostly duplicate, freeing him from his dreamscape.
