@@ -1,3 +1,7 @@
+---
+tags: [status/needswork]
+---
+
 # Purchased in Zvervinka
 
 Frostshard Shortbow

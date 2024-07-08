@@ -1,3 +1,7 @@
+---
+tags: [status/needswork]
+---
+
 The treasure recovered from the Elemental Forge.
 ## Mundane Items
 A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves. 

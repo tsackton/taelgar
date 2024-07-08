@@ -1,3 +1,6 @@
+---
+tags: [status/needswork]
+---
 
 - [[Driftglobe]] (uncommon minor item)
 - [[Pearl of Power]] (uncommon major item)
