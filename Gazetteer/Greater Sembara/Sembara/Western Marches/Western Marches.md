@@ -12,7 +12,7 @@ partOf: Sembara
 
 %% The details here are relatively light, but figured it was a good first pass, only adding status/tim in case you have thoughts/feedback %%
 
-The Western Marches of Sembara encompass all of the lands west of the ancient baronies of [[Barony of Ainwick|Ainwick]] and [[Barony of Aveil|Aveil]]. The land suffered greatly in the [[Great War]], and the hobgoblin wars that followed, and has only slowly recovered. It is still sparsely populated, and the [[Army of the West]] is the dominate institution in the region. The two military baronies - [[Barony of Usbourg|Usbourg]] and [[Barony of Dunfry|Dunfry]] - were created during the reign of [[Cece I]].
+The Western Marches of Sembara encompass all of the lands west of the ancient baronies of [[Barony of Ainwick|Ainwick]] and [[Barony of Aveil|Aveil]]. The land suffered greatly in the [[Great War]], and the hobgoblin wars that followed, and has only slowly recovered. It is still sparsely populated, and the [[Army of the West]] is the dominant institution in the region. The two military baronies - [[Barony of Usbourg|Usbourg]] and [[Barony of Dunfry|Dunfry]] - were created during the reign of [[Cece I]].
 
 The Western Marches are divided into three regions: 
 * the [[Marches of Enford]], in the foothills between the north and central branches of the River Enst 
