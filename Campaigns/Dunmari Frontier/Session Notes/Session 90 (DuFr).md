@@ -21,7 +21,7 @@ name: Dunmari Frontier - Session 90
 The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [[Sura]] and [[Nayan Karnas]], uncovering and dispelling suspicions manipulated by [[Agata]].
 ## Session Info
 
-***Delwath, Wellby, and Riswynn acquire [[Skaer steel]] weapons and shields from [[Umli]] in [[Tollen]]***
+***Delwath, Wellby, and Riswynn acquire [[Skaer Steel]] weapons and shields from [[Umli]] in [[Tollen]]***
 ### Summary
 - The [[Dunmar Fellowship]] departs to Sura's camp in the [[Copper Hills]] to mediate a conflict between her and [[Nayan Karnas]].
 - They share news of the [[War of the Cloak]] and the [[Battle for Uzgukhar]], and learn of Karnas' distrust towards Sura due to Agata's alleged influence.
