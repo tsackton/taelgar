@@ -1,9 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/armor]
+tags: [item]
 typeOf: armor
 rarity: uncommon
 subTypeOf: magical
+ancestry: Deno'qai
 ddbLink: https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail
 displayDefaults: {wHome: 'Owner: <current:1>', defArt: ''}
 image: denoqai-scale-armor-delwath.png
@@ -14,7 +15,7 @@ whereabouts:
 ---
 # Deno'qai Scale Mail
 >[!info]+ Information  
-> (uncommon magical armor)  
+> (uncommon [[Deno'qai]] magical armor)  
 > [Mechanics](https://www.dndbeyond.com/magic-items/5372382-denoqai-scale-mail)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

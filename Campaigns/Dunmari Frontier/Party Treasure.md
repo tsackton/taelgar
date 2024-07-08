@@ -17,20 +17,28 @@
 |                                            | Magic Cooking Pouch                | Uncommon, minor item  | Acquired from the [[Te'kula]] in exchange for the portion of [[Grimbaskal's Hoard]] left in the [[~Te'kula village~\|Te'kula village]]                                                                             | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)    |
 |                                            | [[Horn of Silent Alarm (Dunmari)]] | Common, minor item    | Taken from [[Justan]] after he was killed by [[Casian]]                                                                                                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)           |
 |                                            | Ring of Sharp Mind                 | Rare, minor item      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the Elemental Forge from a plain gold ring with an empty setting for a small gem, and an enchanted diamond, clearly meant to fit into the ring. | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)     |
+%% notes
+Narengril and the Deno'qai Lynx Shield are both unique
+Deno'qai Scale Mail and Ring of Displacement have relatively standard formula; Ring of Displacements may have been commonly manufactured in Drankorian workshops 
+Rod of the Pact Keeper is a relatively common item with a standard formula, as is the Magic Cooking Pouch
+Horn of Silent Alarm is the Dunmari type, made in large numbers pre-Great War 
+Ring of Sharp Mind was made at the Elemental Forge
+%%
 ### Wellby 
 
-| Image | Name                  | Rarity               | Origin                                                                             | Mechanics |
-| ----- | --------------------- | -------------------- | ---------------------------------------------------------------------------------- | --------- |
-|       | [[Flaming Bowstring]] | Uncommon, major item | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] |           |
-
-- [[Flaming Bowstring]] (uncommon major item)
+| Image | Name                  | Rarity               | Origin                                                                             | Mechanics                                                                    |
+| ----- | --------------------- | -------------------- | ---------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
+|       | [[Flaming Bowstring]] | Uncommon, major item | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] | [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring) |
+|       | Boots of Speed        | Rare, major item     | Taken from [[Hektor]] as part of [[Kadmos and Company Treasures]]                  | [Mechanics](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)       |
+|       | Vicious Shortsword    | Rare, major item     | Taken from the leader of the [[Fraternity of the Empty Moon]]                      | [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword)   |
+%% notes
+Flaming Bowstring is unique or reasonably so
+Boots of Speed and Vicious Shortsword are standard items without current history
+%%
 
 
 Major items:
 - [[Magic Kenku Armor]] (very rare major item)
-- [[Vicious Shortsword]] (rare major item)
-- [[Boots of Speed]] (rare major item)
-
 - Frostshard Shortbow (uncommon major item). Purchased in Zvervinka. 
 
 Minor items:
