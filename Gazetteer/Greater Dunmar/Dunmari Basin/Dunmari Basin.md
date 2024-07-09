@@ -9,6 +9,8 @@ whereabouts: Greater Dunmar
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% note probably should include the Copper Hills in the Dunmari Basin, as makes more sense geologically here %%
+
 The Dunmari Basin is a broad, flat, semi-arid plain, between the Yuvanti Mountains to the west and south, the Sentinels to the north, and the Garamjala Plateau to the east. 
 
 In the northwest, the [[~Songara Plains~]] extend in a broad arc from the [[~Darba Coastal Mountains~]] ton [[Songara]] to the upper reaches of the [[Hara]]. These plains are wetter and support a more consistent grassland, with vast herds of horses that the Dunmari are famous for. This terrain once extended across much of central and eastern Dunmar, until the upheavals at the end of the Great War. The [[Sone]], fed by snowmelt in the Sentinels and the [[~Darba Coastal Mountains~]], flows northeast through the [[~Songara Plains~]], until it joins the [[Hara]] north of [[Tokra]]. 

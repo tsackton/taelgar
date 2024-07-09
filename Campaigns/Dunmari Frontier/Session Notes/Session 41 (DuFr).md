@@ -44,7 +44,6 @@ The [[Dunmar Fellowship]] returns to [[Tokra]], assists in archiving lore, and p
 ### Notes
 - [[Research from Kassi]]
 
-
 ## Narrative
 We begin as the party finishes their conversation with [[Saka]], and prepares to return to [[Tokra]] after sharing a meal with [[Saka]] and her family. As they depart, [[Saka]] pulls [[Kenzo]] aside, reminding him not to neglect his duties as a Mystai of [[Bhishma]]. She gives him 10 scrolls that can be used to collect the stories of the people of [[Dunmar]], to be stored in the [[Hall of Stories]] at some point in the future. 
 
