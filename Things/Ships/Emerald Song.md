@@ -25,9 +25,7 @@ The ship is designed to run fast with relatively light, high value cargo, and op
 
 With a following wind and good conditions, can achieve speeds approaching 8 knots, meaning it can go nearly 200 miles a day if crewed to sail around the clock. More typically travels at an average speed of 4 mph, achieving about 100 miles per day.
 
-%%
-kind of like a xebec of felluca, historically
-%%
+%% kind of like a xebec of felluca, historically %%
 ## Layout
 In addition to the hold and storage, the lower decks have a galley, mess, crew quarters. There are two larger cabins usually reserved for paying passengers and older halflings. Big folk have little choice but to sleep in hammocks on the top deck, which is the only one sized for big folk. Not super comfortable, and no privacy, but manageable.
 ## Crew
