@@ -15,7 +15,7 @@
 | ![[delwath-ring-of-displacement.jpg\|240]] | [[Ring of Displacement]]           | Major item, Uncommon  | Taken from [[Agata]] as part of [[Agata's Treasure]]                                                                               | [Mechanics](https://www.dndbeyond.com/magic-items/3643042-ring-of-displacement)   |
 |                                            | Rod of the Pact Keeper             | Major item, Uncommon  | Taken from [[Kadmos]] as part of [[Kadmos and Company Treasure]]                                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1) |
 |                                            | [[Horn of Silent Alarm (Dunmari)]] | Minor item, Common    | Taken from [[Justan]] after he was killed by [[Casian]]                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)           |
-|                                            | Ring of Sharp Mind                 | Minor item, Rare      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the Elemental Forge.                                            | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)     |
+|                                            | Ring of Sharp Mind                 | Minor item, Rare      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the [[Elemental Forge Hoard\|Elemental Forge]].                 | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)     |
 |                                            | Magic Cooking Pouch                | Minor item, Uncommon  | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]].                                                 | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)    |
 ### Wellby 
 
@@ -24,34 +24,34 @@
 |       | Boots of Speed                                  | Major item, Rare      | Taken from [[Hektor]]                                                              | [Mechanics](https://www.dndbeyond.com/magic-items/4589-boots-of-speed)                       |
 |       | Vicious Shortsword                              | Major item, Rare      | Taken from the leader of the [[Fraternity of the Empty Moon]]                      | [Mechanics](https://www.dndbeyond.com/magic-items/5208-vicious-shortsword)                   |
 |       | [[Obsidian Fly]]                                | Major item, Rare      | Taken from [[Agata]]                                                               | [Mechanics](https://www.dndbeyond.com/magic-items/4831-figurine-of-wondrous-power-ebony-fly) |
-|       | Saddle of the Bonded Companion                  | Minor item Rare       | Found in [[Grimbaskal's Hoard]]                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion)    |
 |       | [[Flaming Bowstring]]                           | Major item, Uncommon  | Gift from [[Havdar]] in thanks for aid in battle against orcs of [[Grash's Horde]] | [Mechanics](https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring)                 |
 |       | [[Frostshard Weapons\|Frostshard Shortbow]]     | Major item, Uncommon  | Purchased in [[Zvervinka]]                                                         | [Mechanics](https://www.dndbeyond.com/magic-items/5254-shortbow-1)                           |
-|       | [[Dwarven Driftglobe]]                          | Minor item, Uncommon  | Found in [[Raven's Hold]]                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/5349-driftglobe)                           |
 |       | [[Kenku Glamoured Armor]]                       | Major item, Very rare | Found in [[Grimbaskal's Hoard]]. Enhanced and repaired by [[Nahto]].               | [Mechanics](https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced)    |
 |       | Moon Necklace                                   | Minor item, Common    | Gift from [[Arryn]]                                                                | [Mechanics](https://www.dndbeyond.com/magic-items/5920576-moon-necklace)                     |
-|       | [[Drankorian Message Stone]]                    | Minor item, Uncommon  | Long range version. Taken from [[Agata]]. Paired stone currently held by [[Sura]]. | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone)          |
 |       | Hat of Vermin                                   | Minor item, Common    | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]  |                                                                                              |
 |       | Clockwork Amulet                                | Minor item, Common    | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]  |                                                                                              |
-|       | [[Tollen Magical Tattoo\|Tattoo]] of Darkvision | Minor item, Uncommon  | Purchased from [[Cecilia Lister]]                                                  |                                                                                              |
-|       | [[Skaer Steel]] arrows (9 quivers)              | Minor item, Rare      | Commissioned from [[Umli]]                                                         |                                                                                              |
+|       | Saddle of the Bonded Companion                  | Minor item, Rare      | Found in [[Grimbaskal's Hoard]]                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion)    |
+|       | [[Skaer Steel]] arrows                          | Minor item, Rare      | Commissioned from [[Umli]]                                                         |                                                                                              |
+|       | [[Dwarven Driftglobe]]                          | Minor item, Uncommon  | Found in [[Raven's Hold]]                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/5349-driftglobe)                           |
+|       | [[Drankorian Message Stone]]                    | Minor item, Uncommon  | Long range version. Taken from [[Agata]]. Paired stone currently held by [[Sura]]. | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone)          |
+|       | [[Tollen Magical Tattoo\|Tattoo of Darkvision]] | Minor item, Uncommon  | Purchased from [[Cecilia Lister]]                                                  |                                                                                              |
 ### Kenzo
 
-Major items:
-- [[Staff of the Forest Soul]] (very rare major item)
-- [[Raven Whistle]] (rare major item)
-- [[Ring of Protection from Fire]] (rare major item)
-- [[Soul Tattoo]] (rare major item). Created by Cecilia Lister for Kenzo, in exchange for gold and the shadowfell brand tattoo that Kadmos wore.
-- [[Ring of Jumping]] (uncommon major item)
-- [[Wand of Caustic Arrows ]](uncommon major item)
-- Dragonscale cloak (rare major item). Purchased in Zvervinka; made of the scales and claws of a white dragon. 
+| Image | Name                                   | Rarity                | Origin and Notes                                                                                                                      | Mechanics |
+| ----- | -------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | --------- |
+|       | [[Staff of the Forest Soul]]           | Major item, Very rare | Constructed by Kenzo from gift from Rishi of a branch of the Tokra tree                                                               |           |
+|       | [[Raven Whistle]]                      | Major item, Rare      | Taken from [[Agata's Treasure]]                                                                                                       |           |
+|       | Ring of Fire Protection                | Major item, Rare      | Taken from [[Agata's Treasure]]                                                                                                       |           |
+|       | Ring of Jumping                        | Major item, Uncommon  | Acquired from Havdar in exchange for the Spear of the War Leader from Raven's Hold                                                    |           |
+|       | Wand of Caustic Arrows                 | Major item, Uncommon  | Take from [[Agata's Treasure]]                                                                                                        |           |
+|       | Dragonscale Cloak                      | Major item, Rare      | Purchased in [[Zvervinka]]                                                                                                            |           |
+|       | [[Tollen Magical Tattoo\|Soul Tattoo]] | Major item, Rare      | Comissioned from [[Cecilia Lister]] in exchange for gold and the Shadowfell Brand tattoo from [[Kadmos and Company Treasure\|Kadmos]] |           |
+|       | [[Dwarven Driftglobe]]                 | Minor item, Uncommon  | Found in [[Raven's Hold Treasure\|Raven's Hold]]                                                                                      |           |
+|       | Dream Mirror                           | Minor item, Common    | Taken from [[Agata's Treasure]]                                                                                                       |           |
+|       | Cloak of the mantra ray                | Minor item, Uncommon  | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]                                                     |           |
 
 Minor items:
-- [[Driftglobe]] (uncommon minor item)
-- [[Message Stone]] (uncommon minor item) (given to [[Sura]])
-- [[Dream Mirror]] (common minor item)
 - [[Aagir's Everlight]] (common minor item)
-- Cloak of the mantra ray (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 
 Other:
 - Scrolls of Storykeeping, from [[Saka]] ([[Kenzo]]). 10 total, 9 used:
@@ -348,6 +348,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 ### Given Away
 
+- [[Message Stone]] (uncommon minor item) (given to [[Sura]]) paired with Wellby's message stone.
 - A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard), given to [[Brimskarda]] as a gift  %%SECRET[17]%% 
 - Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
 - A silver wand that functions as an arcane focus, found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. 

@@ -8,8 +8,11 @@ Treasure found in the lair of the green dragon [[Mezzar|Grimbaskal]], in the [[E
 
 ## Magic Items
 
-- Saddle of the Bonded Companion (rare minor item). A magical saddle that protects a mount, made of nice leather and decorated with fine silver work, of halfling make. [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion) A magical saddle that protects a mount, made of nice leather and decorated with fine silver work, of halfling make. Found in [[Mezzar|Grimbaskal]]’s hoard. Worn by [[Baxter]]. 
 - [[Narengril]] (rare major item)
+
+
+- Saddle of the Bonded Companion (rare minor item). A magical saddle that protects a mount, made of nice leather and decorated with fine silver work, of halfling make. [Mechanics](https://www.dndbeyond.com/magic-items/5346718-saddle-of-the-bonded-companion) A magical saddle that protects a mount, made of nice leather and decorated with fine silver work, of halfling make. Found in [[Mezzar|Grimbaskal]]’s hoard. Worn by [[Baxter]]. 
+
 - [[Kenku Glamoured Armor]] (very rare major item)
 - Wand of Detect Magic (uncommon minor item)
 - [[Efreeti Bottle]] (very rare major item, party)

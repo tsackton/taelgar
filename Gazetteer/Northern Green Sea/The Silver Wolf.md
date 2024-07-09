@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/image]
+tags: [place]
 displayDefaults: {defArt: ""}
 typeOf: inn
 whereabouts: Zvervinka
@@ -15,3 +15,4 @@ The Silver Wolf is an upscale inn and restaurant in [[Zvervinka]], primarily cat
 %%^Date:1749-04-14%%
 It is marked by an the sign of an ornate silver wolf, in relief, crafted by dwarven monster hunters out of solid silver. 
 %%^End%%
+
