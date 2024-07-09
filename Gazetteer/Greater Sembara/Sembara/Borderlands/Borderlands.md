@@ -11,7 +11,7 @@ typeOf: region
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Sembaran Borderlands is a name for the baronies between the Aure in the east, the Enst in the north, and the Mostreve Hills in the south. These baronies are mostly newly established since the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], and are traditionally quite loyal to the crown. 
+The Sembaran Borderlands is a name for the baronies between the [[Aure]] in the east, the [[Enst]] in the north, and the [[Mostreve Hills]] in the south. These baronies are mostly newly established since the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], and are traditionally quite loyal to the crown. 
 
 They run, from west to east: 
 * [[Barony of Estrive]], near [[Lake Rin]]

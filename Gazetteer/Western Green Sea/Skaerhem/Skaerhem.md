@@ -5,7 +5,7 @@ campaignInfo: []
 name: Skaerhem
 typeOf: realm
 whereabouts: Western Green Sea Region
-aliases: [Skaer Islands, Skaegenland]
+aliases: [Skaer Islands, Skaegenland, Skaer]
 ---
 # Skaerhem
 >[!info]+ Information
