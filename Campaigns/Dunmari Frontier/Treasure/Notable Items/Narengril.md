@@ -20,7 +20,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An elven sword, finely made and carved with Elvish script warding against demons. 
+![[narengril.png|right|200]]An elven sword, finely made and carved with Elvish script warding against demons. 
 
 %%Campaign:dufr%%
 Found by the [[Dunmar Fellowship]] in [[Grimbaskal's Hoard]], and now used by [[Delwath]]
