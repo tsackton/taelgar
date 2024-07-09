@@ -18,6 +18,6 @@ Other towns and cities in Portalia include [[Pergia]], on the southern coast; an
 %%
 notes
 - name originally derives from Drankorian for passage or crossing
-- Most Chardonian of the Apporian provinces and not particularly autonomous. 
+- Most Chardonian of the Apporian provinces; not particularly autonomous. 
 - This province includes the canal and some distance to each side. The north coast (Gulf of Chardon) is largely salt marsh and swampy; this is not an agriculturally rich area and the economy is dominated by the canal and the sea. The central hills are the lowest here, although still some rise of land towards the center of the peninsula. 
 %%

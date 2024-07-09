@@ -20,7 +20,7 @@ This region experienced considerable upheaval after the [[Great War]], as the [[
 The Central Lowlands region is dominated by four major topographical features. 
 - The [[Dunmari Basin]] lies south of the Sentinels. This is a broad, flat plain, semi-arid, but with regular summer monsoons that bring rain and support expansive grassland. 
 	- To the northwest, the [[Dunmari Basin]] is separated from the Yeraad watershed by the Myraeni Gap, a line of rugged hills between the Sentinels and the [[~Darba Coastal Mountains~]]. 
-	- To the west, the [[Dunmari Basin]] is separated from the Nevos Sea by the Darba Highlands extending from the [[Copper Hills]], and the Yuvanti Mountains
+	- To the west, the [[Dunmari Basin]] is separated from the Nevos Sea by the [[Darba Highlands]] extending from the [[Copper Hills]], and the Yuvanti Mountains
 	- To the north, the Sentinels form the edge of the basin; in the spring, snowmelt-fed streams and rivers bring life to the northern plains. 
 	- To the east, the Garamjala Plateau, a high desert, separates the [[Dunmari Basin]] from the Istaros watershed. 
 	- The only outflow from the [[Dunmari Basin]] is the ~Hara Gorge~, southeast of Askandi, that cuts through the rocky deserts on the western edge of the Garamjala Plateau. 
