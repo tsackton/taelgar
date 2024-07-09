@@ -8,8 +8,6 @@ subTypeOf: magic
 ancestry: Drankorian
 rarity: 
 image: 
-pcOwner: 
-whereabouts:
 ddbLink: https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone
 ---
 # Message Stone
