@@ -14,4 +14,4 @@ whereabouts: Evis
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An acolyte of [[The Wanderer]], captured by [[Wakog]] and rescued from his camp after the [[Battle Against Wakog]]. He sheperded many of the survivors back to [[Evis]].
+An acolyte of [[The Wanderer]], captured by [[Wakog]] and rescued from his camp after the [[Battle Against Wakog]]. He shepherded many of the survivors back to [[Evis]].
