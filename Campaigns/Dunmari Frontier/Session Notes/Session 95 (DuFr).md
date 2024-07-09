@@ -55,11 +55,11 @@ A popular Urskan folk song, sung at the campfire while traveling with [[Karel]],
 - Kenzo [[Kenzo's Dream of Apollyon|dreams of Apollyon's escape]].
 ## Narrative
 
-We begin at [[The Silver Wolf]] in [[Zvervinka]], on the afternoon of April 15th, as the party plans with [[Roman]], the innkeeper and general fixer around town. The discussion revolves around travel arrangements, focusing on the procurement of horses, food, and the organization of meetings in the town to ensure a well-prepared departure. [[Roman]] also reports on the magic items available to purchase in the market, with the monster parts the party has brought, and some decisions are made. As lunch ends, Roman leaves to make various arrangements.
+We begin at [[The Silver Wolf]] in [[Zvervinka]], on the afternoon of April 15th, as the party plans with [[Roman]], the innkeeper and general fixer around town. The discussion revolves around travel arrangements, focusing on the procurement of horses, food, and the organization of meetings in the town to ensure a well-prepared departure. [[Roman]] also reports on the magic items available to purchase in the market, with the monster parts the party has brought, and some decisions are made. As lunch ends, [[Roman]] leaves to make various arrangements.
 
 Over the afternoon and the next day, the party explores [[Zvervinka]]. It is a town of contrasts, with the muddy, damp, and cold streets clustered by the river, home to woodcutters, furriers, and a substantial noyja community, while the wide streets on higher ground host the famous monster market and the attendant merchant houses, well-stocked inns, and alchemy shops. The evening before the next market day, the party dines with [[Jela Drask]], a member of the [[Rodnya Nivik]]. She is curious, especially about [[Delwath]], having never met an [[Elves|elf]], and shares some broad details about the [[Rodnya]], primarily emphasizing that while the Rodnya are never in open conflict, there is competition for status. After a series of dragon attacks last winter that were mismanaged by [[Rodnya Voknaz]], they are particularly low status at the moment. 
 
-Before departing [[Zvervinka]], the party acquires new magic from the monster market, in exchange for their dragon and ice worm treasure, and also speaks again with [[Lena Sorokina]], from whom they acquire their travel papers. Lena advises them to always keep their travel papers, and also to be careful as they get further west, as the giant bats of the vampire lord [[Rhodar von Glauer]] are dangerous. But, she mentions, negotiations are underway that should see peace on the western borders soon. 
+Before departing [[Zvervinka]], the party acquires new magic from the monster market, in exchange for their dragon and ice worm treasure, and also speaks again with [[Lena Sorokina]], from whom they acquire their travel papers. [[Lena Sorokina|Lena]] advises them to always keep their travel papers, and also to be careful as they get further west, as the giant bats of the vampire lord [[Rhodar von Glauer]] are dangerous. But, she mentions, negotiations are underway that should see peace on the western borders soon. 
 
 Departing [[Zvervinka]] on April 20th, the party joins a merchant caravan led by [[Karel]], traveling south along the main road, muddy albeit passable. Over the next few days, they continued their journey, eventually reaching [[Volya]], a small trading post where they parted ways with [[Karel]]. From here, the party turned west, following the [[Leis]] to the outskirts of [[Vedmakov]], and then across the [[Dalinka]] river valley to [[Yamgov]]. The party approached the [[Voknaz Manor]] on May 1st, when they camped about 20 miles away. That evening, [[Kenzo]] dreamed of [[Apollyon]], slowing destroying the bonds that hold him in his tomb. 
 
@@ -226,13 +226,9 @@ The party receives letters of transit from Lena, allowing them to travel across 
 
 The party arrives at the headquarters of the Rodnya Voknaz, where they prepare for a dinner meeting with Branek Mirov. They debate their strategy for negotiating for the Jade Hand, considering both diplomatic and confrontational approaches, and plan to use Kenzo's staff as a negotiating point.
 
-  
-
 **Dinner with Branek Mirov**
 
 The party meets Branek Mirov, who tasks them with quenching the elemental fire within the body of their deceased leader using the cold of Frostfell's frozen pools. In exchange, Branek promises to trade an item the party seeks. Branek also shares the jade piece's origin, linking it to bad dreams and a man who tried to destroy it.
-
-  
 
 **A Nighttime Intruder**
 
