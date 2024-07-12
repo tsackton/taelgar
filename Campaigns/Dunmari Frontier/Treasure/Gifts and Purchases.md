@@ -12,6 +12,9 @@ tags: [status/needswork]
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
 
+- Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [[Riswynn]] in exchange for her aid.
+
+- [[Silverspark Gauntlets]] (uncommon major item), from [[Nora Silverspark]]'s ghost
 
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]]
 - [[On the Lost People of the Forests]], by [[Gnaeus]]
@@ -32,7 +35,7 @@ tags: [status/needswork]
 - [[Staff of the Forest Soul]] (very rare major item)
 
 ### From [[Prince of Luck|Chanceweaver]]
-- Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Anytime you roll a die, either in-world or as part of the game, you can chose what side the die lands on. Each die can be used once, and then ceases to be magical.  Gifted to [[Seeker]] by the [[Prince of Luck]]. 
+- Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Gifted to [[Seeker]] by the [[Prince of Luck]]. 
 ### From [[Lady Eventide]]
 - Sunset Thread (common minor item). A strand of thread from [[Lady Eventide]]’s dress given to [[Seeker]], spun by the Cloudweaver, that will glow with the light of sunset whenever the sun is setting in the material plane, signaling that the [[Lastlight Falls]] fey crossing is open. 
 ### From [[Saka]]
