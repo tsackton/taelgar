@@ -14,10 +14,16 @@ list from #status/factcheck
 ```
 ### Check: Mike
 ```dataview
-list from #status/mike 
+list from #status/mike and !#status/tim
 ```
 
 ### Check: Tim
 ```dataview
-list from #status/tim 
+list from #status/tim and !#status/mike
 ```
+
+### Check: Mike & Tim
+```dataview
+list from #status/tim and #status/mike
+```
+

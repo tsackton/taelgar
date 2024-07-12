@@ -1,13 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/mike]
+tags: [deity, religion/mosnumena]
 gender: female
 ---
 # The Night Queen
 >[!info]+ Summary  
 > she/her
-
-%% added images, updated holy symbol a little bit. not sure if this conflicts with canon from your game. %%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 

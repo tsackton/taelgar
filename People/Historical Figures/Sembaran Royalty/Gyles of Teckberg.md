@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/unknown]
+tags: [historical, person/ruler]
 name: Gyles
 born: 1541
 species: human
