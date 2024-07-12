@@ -1,27 +1,117 @@
 ---
-tags: [background, status/needswork]
+tags: [background, status/tim]
 ---
 # Languages 
-***This is a work in progress and details may change as new areas of the world are explored in play. Characters will always have an opportunity to retcon their language choices if elements of this section are revised.***
+Languages in the world of Taelgar are diverse, and yet the binding influence of magic and the gods have kept them from diverging too far apart. 
+## Brief Linguistic History of Taelgar
+The common languages of Taelgar spoken by [[Humans|humans]] and the [[Elder Folk]] all derive from the original languages spoken by the first of each species to awaken. For [[Dwarves|dwarves]], [[Elves|elves]], [[Halflings|halflings]], [[Stoneborn|stoneborn]], and [[Lizardfolk|lizardfolk]] this original language has not changed since the dawn of time. For humans, the original tongue has been split and fractured into different language families over the long history of human settlement in Taelgar.
 
-Languages in the world of Taelgar are diverse, and yet the binding influence of magic and the gods have kept them from diverging too far apart. Nonetheless, individual languages described below typically represent clusters or language families, where knowledge of one member is assumed to represent knowledge of all.
+The history of the languages of other sentient creatures is less well known by scholars, but in most cases, whether due to magic, culture, or other factors, linguistic diversity within species is rare. 
+## Human Language Families
+The human tongues of the known world are broadly divided up into three major language families based on ancient migrations and cultural divisions on the original human homeland of [[Hkar]]:
 
-Common languages: Westros, Eastros; Drankorian, Sembaran, Cymean, Chardonian, Dunmari, Vosic; Dwarven, Elvish; Goblin; Sylvan
-Uncommon languages: Skaegish, Northlander; Stoneborn, Lizardling; Orcish, Giant, Centaur, Draconic; Primodial, Celestial, Shadowkar, Abyssal, Infernal
-Rare languages: Northros; ~Extinct Eastern Language~; Halfling; Deep Speech, Exotic Languages
-### Trade Languages
-Availability of magic and magical communication and travel, while rare, is frequent enough to encourage the spread of common trade tongues. Many non-human creatures also know trade languages, which allow communication among creatures of disparate backgrounds. At the DM's discretion, conversing in trade language may lack nuance, and slightly increase the difficulty of any ability check that relies on clear understanding of meaning. 
+* **Northros Language Family**: A set of languages spoken across the northern reaches of Taelgar, named Northros by Drankorian cataloguers of languages. These languages are spoken by the cultures that departed Hkar in the ancient days.
+* **Eastros Language Family**: A set of languages spoken primarily across the eastern parts of the [[Green Sea]], as far west as [[Skaerhem|Skaer]]. This language is derived from an ancient mariner culture that originally settled much of the [[Green Sea]] region, and these languages were given the name Eastros by Drankorian scholars.
+* **Drankorian Language Family**: A set of languages spoken by [[Drankorian Empire|Drankor]] and its successor cultures. It is derived from the language spoken on [[Hkar]] and the time of the [[The Downfall|Downfall]].
 
-- **Westros, or Common**: The primary trade tongue shared by all areas that were at one time under the sphere of influence of the Drankorian empire, and some adjacent areas, including Dunmar, and parts of Vostok and Skaerhem. 
-- **Eastros** (tentative name): The primary trade tongue shared by the descendants of the ancient mariner people who settled the [[Green Sea]]. Most commonly spoken in the eastern half of the [[Green Sea]], but can be heard as far west as Tollen and Cymea. 
-- **Northros** (tentative name): Once the trade language of the first humans to spread across the northwestern part of Taelgar, but now largely forgotten. 
+There are some other human languages, notably Dunmari, that do not fit into any of the language familes above, and there are rumors and fragments from Drankor of other languages spoken in the far east or far south, which may not fit into these categories as well.
+
+%% Background Note:
+This section is intended to be both canonical and sufficiently vague as to not block new invention. Broadly, the assumption is that each of the [[Human Cultures of Taelgar|migrations from Hkar]] map to a specific language family:
+* Early Explorers = Northros
+* Pre-Urban Exodus = undefined southern tongue
+* Mariner Migration = Eastros
+* Downfall Refugees = Drankorian
+
+Where the minor migrations, such as the Dunmari, would have potentially unique histories, and may or may not fit into one of the language families above, 
+
+When determining real-world language analogues:
+* Northos in general uses Semitic languages
+* Eastros and any subsequent migration use Indo-European languages, with Eastros tending towards Slavic/Germanic, and Drankorian tending towards Italic/Hellenic. Other migrations (i.e. Dunmari) that are after the mariner migration should probably be their own branches of the Indo-European language family.
+* The Pre-Urban exodus is explicitly undefined, and could be Indo-European or something else
+
+Non-Human tongues should generally avoid Indo-European or Semitic, to maintain distinctness but this is not a hard-and-fast rule.
+%%
+
+## Trade Languages
+Availability of magic and magical communication and travel, while rare, is frequent enough to encourage the spread of common trade tongues. Many non-human creatures also know trade languages, which allow communication among creatures of disparate backgrounds. Trade tongues are best thought of as pidgins, and they rarely allow for the full nuance of a native tongue. There are two trade tongues in common usage:
+
+- **Common**: An ancient trade tongue derived from the original language of humans, it is commonly used by non-humans, especially halflings to conduct business and trade, and is widely spoken by traders and travelers, across the lands that were once part of the Drankorian Empire.
+- **Eastros**: A trade tongue derived from the languages of the Eastros language family, it is widely spoken in the eastern Green Sea, and can be heard as far west as Tollen and Cymea, and even occasionally in the port cities of Sembara. It is very rare outside the Green Sea region.
+
+%% 
+Background Note: ~Unnamed Mariner Language~ developed as a separate tongue from Common primarily because of the mariner's explicit cultural rejection of the Hkaran elite, who spoke the language Common is derived from. Eastros is in turn a remanent/pidgin derived from the ~Unnamed Mariner Language~. Halfling telepathy and long-lived non-humans are the primary mechanisms that prevents linguistic drift of these trade tongues. 
+
+Common could reasonably be spoken as a trade pidgin anywhere, and human populations where common is rare, or where a different trade pidgin is spoken, should have an explanation.
+%%
+## Drankorian Language Family
+These are languages that derive from Drankorian, and are the native tongues of most of the lands that were once part of the Drankorian Empire. All Drankorian languages are written using the Drankorian alphabet.
+
+After the fall of the Drankorian Empire, the Drankorian language developed into three main languages: Sembaran, proto-Cymean, and proto-Chardonian. The modern languages of Isinguese and Cymean are still somewhat mutually comprehensible, as are the modern languages of Chardonian and Illorian.
+
+_Real world analog: Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations_
+
+* **Drankorian**: The ancient language of Drankor, it is not commonly spoken anymore, although it is still a common scholarly tongue. Drankorian words are usually based on classic Latin or Greek.
+* **Sembaran**: A number of mutually understandable related languages and dialects spoken in Sembara and Addermarch, but with a number of loan words from Tollish and Zimkovan. Southern Sembaran is more purely Drankorian, and tends to use French-derived words, whereas northern Sembaran tends to use English. Mutually understandable with Tollish and in some cases, Isinguese. 
+* **Chardonian**: A number of mutually understandable related languages and dialects spoken in the Chardonian Empire, but with some loan words from Northros languages. Self-consciously seen as the inheritors of the Drankorian language, and sometimes has similar sounds. Tends to use Latin or Italian, with the occasional "classical" Greek. 
+* **Cymean**: A number of mutually understandable related languages and dialects spoken in the Cymean peninsula. Cymean words are usually based on Spanish or Portugese, but with some Italian. It is usually understood by speakers of Isinguese. 
+* **Isinguese:** The language spoken in the now destroyed lands of the Istabor Alliance, but still spoken in some of the refugee communities including the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]]. Based on Spanish or French, and is usually understood by speakers of Sembaran (especially southern Sembarans) or Cymean. 
+* **Illorian**: The language spoken on the islands of Illoria, it is often understandable to Chardonian speakers, especially those from the [[Apporia|Apporian Peninsula]] or [[Chardon]] itself. No defined real world mapping yet.
+* **~Northern Dialects~**: A set of now-almost extinct languages spoken before the Great War in a number of the northern realms, such [[Volganis]], [[Amani]], the [[Ausberg Empire]], and the [[Republic of Varjatta]]. These languages were usually understood by speakers of Chardonian, and are based on Italian.
+
+%% Background Note:
+This is likely a complete list of Drankorian Family languages, although most of these languages are best thought of as collections of mutually comprehensible dialects.
+%%
+## Northros Language Family
+These languages derive from the ancient tongues that were spoken by the first human migrants from [[Hkar]]. They use a diverse set of alphabets.
+
+_Real world analog: Northros languages are based on Semitic languages_
+
+* **Mawar**:
+* **Deno'qai**
+* **Old Zimkovan**:
+* **Valgardi**: A language spoken by the [[Vargaldi]], although with many loan words from Eastros languages. Written using the ~Unnamed Mariner Language~ alphabet. No specific defined real world analog, although many Varlgardi names are Slavic due to the influence of the Eastros language families. 
+
+%% Background Note:
+There are numerous undeveloped cultures and partially developed cultures that likely speak a Northros language. This list should not be considered complete
+%%
+
+## Eastros Language Family
+All languages in the Eastros language family derive from ~Unnamed Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea. They use the ~Unnamed Mariner Language~ alphabet.
+
+_Real world analog: Eastros languages are based on Germanic and Balto-Slavic languages_
+
+* **Skaegish**:
+* **Tollish**:
+* **Old Tollish**:
+* **Urskan**:
+* **Vosic**:
+* **~Unnamed Mariner Language~**:
+
+%% Background Note: 
+There clearly are more languages spoken here, i.e. in Medju, Irrla, MTP, the weird islands, etc. This list should not be considered complete
+%%
+
+## Miscellaneous Languages
+These languages are not well-classified into existing language families, usually because they are based on blended influences from multiple language families, or because they sit outside the main families. The alphabets and real world analogues of these languages are 
+
+* **Dunmari**: 
+* **Tyrwinghan**: 
+* **Zimkovan**:
+* **Hkaran**: The original human language, it still survives in a modified form in Common, but is otherwise no longer known to be spoken. Extremely rarely known in the modern day. It uses the Hkaran alphabet.
+
+%% Background Note:
+
+%%
+
+
+
+Common languages: , ; , , , , , ; Dwarven, Elvish; Goblin; Sylvan
+Uncommon languages: , ; Stoneborn, Lizardling; Orcish, Giant, Centaur, Draconic; Primodial, Celestial, Shadowkar, Abyssal, Infernal
+Rare languages: Halfling; Deep Speech, Exotic Languages
+
 ### Human Languages
-* **Drankorian**: The original language of the Drankorian empire. While no longer commonly spoken, it is still used as a scholarly language in Chardon and parts of Sembara. Drankorian shares an alphabet and some similarities with Sembaran, Chardonian, and Cymean.
-* **Sembaran**: A number of related languages and dialects spoken in Sembara, parts of Vorstok, and Cymea. Derived from Drankorian.
-* **Chardonian**: A number of related dialects and languages spoken in Chardon and areas west of mountains. Derived from Drankorian.
-* **Cymean**: A number of related dialects and languages spoken on the Cymean peninsula and along the coast of the [[Green Sea]] south of Cymea.
-* **Dunmari**: A number of related languages derived from a southern tongue, unrelated to Drankorian, and spoken primarily in Dunmar. Adopted the Drankorian alphabet, however.
-* **\<Unnamed Eastern Language>:** The language of the original people to settle the [[Green Sea]]. While now largely extinct, this alphabet lives on in the languages derived from it.
+
 * **Skaegish**: A group of ancient languages spoken by the Skaer. Uses the same writing as old languages in Tywingha and highland areas of Sembara, although those old languages are largely extinct. Uses the Eastros/Eastern alphabet.
 * **Vosic**: A number of related languages spoken by some of the highlanders and in the far north of Vostok. Related to Skaegish, but has diverged significantly. Uses the Eastros/Eastern alphabet.
 * **Northlander**: A number of related ancient languages spoken by the original inhabitants of the lands west of the mountains, still spoken by a number of Northerlander communities, primarly the Mawar and the Deno'qai, who speak distinct, but mutually intelligible, dialects. 
