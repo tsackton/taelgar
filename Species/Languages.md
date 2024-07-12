@@ -52,7 +52,7 @@ After the fall of the Drankorian Empire, the Drankorian language developed into 
 _Real world analog: Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations_
 
 * **Drankorian**: The ancient language of Drankor, it is not commonly spoken anymore, although it is still a common scholarly tongue. Drankorian words are usually based on classic Latin or Greek.
-* **Sembaran**: A number of mutually understandable related languages and dialects spoken in Sembara and Addermarch, but with a number of loan words from Tollish and Zimkovan. Southern Sembaran is more purely Drankorian, and tends to use French-derived words, whereas northern Sembaran tends to use English. Mutually understandable with Tollish and in some cases, Isinguese. 
+* **Sembaran**: A number of mutually understandable related languages and dialects spoken in Sembara and Addermarch, but with a heavy influence from Old Tollish, and Zimkovan. Southern Sembaran is more purely Drankorian, and tends to use French-derived words, whereas northern Sembaran tends to use English. Mutually understandable with Tollish and in some cases, Isinguese. 
 * **Chardonian**: A number of mutually understandable related languages and dialects spoken in the Chardonian Empire, but with some loan words from Northros languages. Self-consciously seen as the inheritors of the Drankorian language, and sometimes has similar sounds. Tends to use Latin or Italian, with the occasional "classical" Greek. 
 * **Cymean**: A number of mutually understandable related languages and dialects spoken in the Cymean peninsula. Cymean words are usually based on Spanish or Portugese, but with some Italian. It is usually understood by speakers of Isinguese. 
 * **Isinguese:** The language spoken in the now destroyed lands of the Istabor Alliance, but still spoken in some of the refugee communities including the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]]. Based on Spanish or French, and is usually understood by speakers of Sembaran (especially southern Sembarans) or Cymean. 
@@ -67,9 +67,9 @@ These languages derive from the ancient tongues that were spoken by the first hu
 
 _Real world analog: Northros languages are based on Semitic languages_
 
-* **Mawar**:
-* **Deno'qai**
-* **Old Zimkovan**:
+* **Mawar**an: The language spoken by the people of the Mawar penisula, with many loan words from Chardonian and written using the Drankorian alphabet. Mawaran words tend to be based on Arabic.
+* **Deno'qai**: The language spoken by the Deno'qai tribes. Written using a unique alphabet derived from Elvish. Deno'qai words tend to be based on Hebrew or Arabic.
+* **Old Zimkovan**: The language of the original inhabitants of the Sembaran higlands, still spoken in parts of Zimkova. Written using the ~Unnamed Mariner Language~ alphabet and with a number of loan words from Old Tollish. Zimkovan words tend to based on Maltese, although there are numerous Slavic loan words. 
 * **Valgardi**: A language spoken by the [[Vargaldi]], although with many loan words from Eastros languages. Written using the ~Unnamed Mariner Language~ alphabet. No specific defined real world analog, although many Varlgardi names are Slavic due to the influence of the Eastros language families. 
 
 %% Background Note:
@@ -77,16 +77,17 @@ There are numerous undeveloped cultures and partially developed cultures that li
 %%
 
 ## Eastros Language Family
-All languages in the Eastros language family derive from ~Unnamed Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea. They use the ~Unnamed Mariner Language~ alphabet.
+All languages in the Eastros language family derive from ~Unnamed Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea. They mostly use the ~Unnamed Mariner Language~ alphabet.
 
 _Real world analog: Eastros languages are based on Germanic and Balto-Slavic languages_
 
-* **Skaegish**:
-* **Tollish**:
-* **Old Tollish**:
-* **Urskan**:
-* **Vosic**:
-* **~Unnamed Mariner Language~**:
+* **Skaegish**: The language spoken on the Skaer islands. It is similar to Vosic and often speakers of Skaegish understand Vosic and vice versa. Skaegish words are generally Finnish or Norwegian, although other Swedish and Slavic languages fit as well. Written using the ~Unnamed Mariner Language~ alphabet.
+* **Tollish**: The language spoken in Tollen and parts of the Vostok coast, it is mutually comprehensible with Sembaran. Tollish words are generally based on English or German. It is written with the Drankorian alphabet.
+* **Old Tollish**: The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor tongue to both Skaegish, Tollish and Vosic, it is extremely rarely spoken today. Written using the ~Unnamed Mariner Language~. There is no specific real world mapping, but Old Tollish words would usually be Germanic or Slavic. 
+* **Zimkovan**: A group of related dialetics spoken in the highland kingdoms of [[Ardlas]], [[Breva]], and [[Lavnoch]]. It is commonly spoken in the rest of Zimkova as well. Real world mapping: Baltic (Lithuanian or Latvian), although with some loan words from Maltese. Written using the Drankorian alphabet. 
+* **Urskan**: The language of the closed realm of Ursk. It is written using the ~Unnamed Mariner Language~ alphabet, and is rarely spoken outside of Ursk. Urskan words are based on Russian.
+* **Vosic**: A group of related dialectics spoken by the Vos people, especially in the northern parts of Vostok. Vosic speakers can often understand Skaegish. Vosic words are generally Slavic. Written using the ~Unnamed Mariner Language~ alphabet.
+* **~Unnamed Mariner Language~**: The ancient language of the mariner culture than left Hkar for the eastern Green Sea, it is extremely rare to find it still spoken today. 
 
 %% Background Note: 
 There clearly are more languages spoken here, i.e. in Medju, Irrla, MTP, the weird islands, etc. This list should not be considered complete
@@ -95,27 +96,21 @@ There clearly are more languages spoken here, i.e. in Medju, Irrla, MTP, the wei
 ## Miscellaneous Languages
 These languages are not well-classified into existing language families, usually because they are based on blended influences from multiple language families, or because they sit outside the main families. The alphabets and real world analogues of these languages are 
 
-* **Dunmari**: 
-* **Tyrwinghan**: 
-* **Zimkovan**:
+* **Dunmari**: The language spoken by the Dunmari, it is related to both Drankorian and the ~Unnamed Mariner Language~. It is written using the Drankorian alphabet. Dunmari words are usually Hindi, but with other Indo-Iranian influences such as Persian.
+* **Tyrwinghan**: The ancient language of Tyrwingha, still spoken especially in rural areas. Its exact language family is not clear, but it is written using the ~Unnamed Mariner Language~ alphabet, although many Tyrwinghans would say it is written using the Tyrwinghan alphabet. Tyrwinghan words are based on Welsh.
 * **Hkaran**: The original human language, it still survives in a modified form in Common, but is otherwise no longer known to be spoken. Extremely rarely known in the modern day. It uses the Hkaran alphabet.
 
-%% Background Note:
+%% Background Notes
+Dunmari is Indo-Iranian as a distinct but related language family to Eastros and Drankorian, given it developed by migrants who left Hkar after the mariners but before the Downfall. 
 
+Tyrwinghan is intentionally vague as the exact cultural derivation of the ancient Tyrwinghans is undefined.
 %%
-
-
+### Non-Human Languages
 
 Common languages: , ; , , , , , ; Dwarven, Elvish; Goblin; Sylvan
 Uncommon languages: , ; Stoneborn, Lizardling; Orcish, Giant, Centaur, Draconic; Primodial, Celestial, Shadowkar, Abyssal, Infernal
 Rare languages: Halfling; Deep Speech, Exotic Languages
 
-### Human Languages
-
-* **Skaegish**: A group of ancient languages spoken by the Skaer. Uses the same writing as old languages in Tywingha and highland areas of Sembara, although those old languages are largely extinct. Uses the Eastros/Eastern alphabet.
-* **Vosic**: A number of related languages spoken by some of the highlanders and in the far north of Vostok. Related to Skaegish, but has diverged significantly. Uses the Eastros/Eastern alphabet.
-* **Northlander**: A number of related ancient languages spoken by the original inhabitants of the lands west of the mountains, still spoken by a number of Northerlander communities, primarly the Mawar and the Deno'qai, who speak distinct, but mutually intelligible, dialects. 
-### Non-Human Languages
 * **Elder tongues**: The Elder Folk, created by the Embodied Gods, were endowed with language and writing by their creators. While some of these languages are commonly learned by non-native speakers, others are mysterious.
     * **Dwarvish:** The language of the dwarves, uses a runic script, often learned by outsiders and traders who want to engage in commerce with the dwarven kingdoms.
     * **Elvish:** The language of the elves, and often associated with magic. Frequently learned by scholars of magic or history. 
