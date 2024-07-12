@@ -56,7 +56,7 @@ _Real world analog: Drankorian and its language family is broadly based on Helle
 * **Chardonian**: A number of mutually understandable related languages and dialects spoken in the Chardonian Empire and its sphere of influence. Mostly derived from Drankorian, but with some loan words from Northros languages. Self-consciously seen as the inheritors of the Drankorian language, and sometimes has similar sounds. Tends to use Latin or Italian, with the occasional "classical" Greek. 
 * **Cymean**: A number of mutually understandable related languages and dialects spoken in the Cymean peninsula. Cymean words are usually based on Spanish or Portugese, but with some Italian. It is usually understood by speakers of Isinguese. 
 * **Isinguese:** The language spoken in the now destroyed lands of the Istabor Alliance, but still spoken in some of the refugee communities including the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]]. Based on Spanish or French, and is usually understood by speakers of Sembaran (especially southern Sembarans) or Cymean. 
-* **Illorian**: The language spoken on the islands of Illoria, it is often understandable to Chardonian speakers, especially those from the [[Apporia|Apporian Peninsula]] or [[Chardon]] itself. No defined real world mapping yet.
+* **Illorian**: The language spoken on the islands of [[Illoria]], it is often understandable to Chardonian speakers, especially those from the [[Apporia|Apporian Peninsula]] or [[Chardon]] itself. No defined real world mapping yet.
 * **~Northern Dialects~**: A set of now-almost extinct languages spoken before the Great War in a number of now destroyed northern realms, mostly based along the [[Chasa River Valley]]. These languages were usually understood by speakers of Chardonian, and are based on Italian.
 
 %% Background Note:
@@ -115,14 +115,12 @@ There are many diverse languages amongst the non-human inhabitants of Taelgar, b
 * **Elvish:** The language of the elves, and often associated with magic. The term "elvish" encompasses several different languages and variants of the language. Although all elves learn all the variants during their childhood, most outsiders will only understand a subset of elvish. It is frequently learned by scholars of magic or history, and is written using the Elvish alphabet. Real world mapping: Tolkien elvish. 
 * **Lizarding:** The language of the lizardfolk. Often learned by those who spend time living in lizardfolk communities. Although there are numerous dialectics, they are all mutually comprehensible. Lizardling is written using local alphabets such as Drankorian, or sometimes, elvish. Real world mapping: Basque
 * **Stoneborn**: The language of the Stoneborn. Often learned by those who spend time in Stoneborn communities. There are no known variants or dialectics. The stoneborn have adopted a runic alphabet derived from Giant for their language. Real world mapping: Xhosan.
-* **Orcish:** The language gifted to the orcs by Thark, the God of War. While few outsiders speak this language or understand its unique alphabet, those who would engage with orcs in combat or negotiation (to the extent such a thing is possible) do sometimes find a way to learn this tongue. No well defined real world mapping currently. 
+* **Orcish:** The language gifted to the orcs by Thark, the God of War. While few outsiders speak this language or understand its unique alphabet, those who would engage with orcs in combat or negotiation (to the extent such a thing is possible) do sometimes find a way to learn this tongue. Orcish words are usually Turkic.
+%%^Campaign:dufr%%
+* **Free Orcish**: The [[People of the Rainbow]] speak a dialect of Orcish that although based on Orcish, has numerous additional words. Although most speakers of Orcish can communicate with the People of the Rainbow, their orcish dialect is not always understandable to those who only know traditional orcish. 
+%%^End%%
 
-%% Background Note: The free Orcs of the Rainbow may have a different language than other Orcs, and use Turkic mapping %%
-
-* **Goblin:** The language invented by the hobgoblins, and spoken by goblinoids of all types, as well as many of the servants and slaves of hobgoblins. Uses its own invented alphabet. While not commonly heard in the cities of Taelgar, it is not difficult to learn. Real world mapping: Slavic or Tolkien Black Speech.
-
-%% Background Note: Consider multiple languages of Goblin %%
-
+* **Goblin:** A term for a large number of related languages spoken by hobgoblins and their slaves and allies. Hobgoblin clans often invent secret languages for themselves, but a common creole, derived from the language spoken by Cha'mutte's armies, is often spoken by hobgoblins and goblins, and is usually what is meant when a non-goblin learns the goblin language. This language uses Hungarian words, but other hobgoblin languages may have diverse real world mappings. 
 * **Giant:** The language created by the elder titans of old, and now spoken by the giants and their descendants. Often learned by scholars, or traders who would venture to giant settlements. Commonly learned by dwarves, especially those of the Sentinels. Real world mapping: Old Norse. 
 * **Halfing:** The secretive and rarely taught language of the halflings, made even more difficult for outsiders to learn given the expectation that speakers of this language will use telepathic cues for emphasis.  The halflings' language is preserved and learned via the racial consciousness; a single dialect covers all halflings across the world, even on diverse continents. The halflings rarely, if ever, teach their secretive language to outsiders. As far as outsiders know, there is no written form of halfling. Real world mapping: considering Igbo.
 * **Centaur:** The language of centaurs. Uses the Elvish alphabet. Rarely, but not never, taught to outsiders. Most centaurs speak Elvish, Sylvan, or both in addition to their own tongue, and most outsiders who must speak with them do so in one of those tongues. Real world mapping: mostly Greek, but flexible.
@@ -140,7 +138,7 @@ Many other creatures in the world of Taelgar speak a language of their own, incl
 ### Extra-Planar Languages
 Time and space do not work on the other planes as they do on the material plane, and each plane tends to be represented by a single language. These are typically difficult, although not impossible, for outsiders to learn.
 
-   * **Sylvan:** The language of the Feywild, of satyrs and fairies and others. The most common extraplanar language to be learned by natives of the material plane. This is often mapped to classical Greek, but many different real world mappings are possible.
+   * **Sylvan:** The language of the Feywild, of satyrs and fairies and others. The most common extraplanar language to be learned by natives of the material plane. This is often mapped to classical Greek, but many different real world mappings are possible. 
    * **Shadowkar:** The language of the Shadowfell.
    * **Primordial:** The four related languages of the elemental planes (**Aquan**, **Auran**, **Terran**, **Ignan** for the planes of water, air, earth, and fire respectively).
    * **Abyssal:**  The language of the chaotic demons of the Abyss
