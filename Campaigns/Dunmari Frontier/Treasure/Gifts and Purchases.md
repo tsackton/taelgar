@@ -4,6 +4,8 @@ tags: [status/needswork]
 
 # Gifts
 
+- [[Glove of Crystalized Magic]] (very rare major item)
+
 - Coin of Delving (common minor item) - gift to Riswynn upon departure from Tharn Todor at beginning of campaign
 
 - Delwath's elven armor from the days of the Great War, now no longer magical 
@@ -31,7 +33,6 @@ tags: [status/needswork]
 
 ### From [[Prince of Luck|Chanceweaver]]
 - Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Anytime you roll a die, either in-world or as part of the game, you can chose what side the die lands on. Each die can be used once, and then ceases to be magical.  Gifted to [[Seeker]] by the [[Prince of Luck]]. 
-
 ### From [[Lady Eventide]]
 - Sunset Thread (common minor item). A strand of thread from [[Lady Eventide]]’s dress given to [[Seeker]], spun by the Cloudweaver, that will glow with the light of sunset whenever the sun is setting in the material plane, signaling that the [[Lastlight Falls]] fey crossing is open. 
 ### From [[Saka]]
@@ -69,8 +70,5 @@ tags: [status/needswork]
 
 - Ring of Jumping. A ring of a Drankorian design, a twisted silver hare motif. Gift from [[Havdar]], in exchange for the Spear of the War Leader. %%SECRET[2]%%
 
-## Constructions
-
-- [[Glove of Crystalized Magic]] (very rare major item)
 
 

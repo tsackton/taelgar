@@ -1,4 +1,4 @@
-# Treasure Recovered from Agata Dustmother
+# Agata Dustmother's Treasure
 
 ## Taken from Agata's Person
 
