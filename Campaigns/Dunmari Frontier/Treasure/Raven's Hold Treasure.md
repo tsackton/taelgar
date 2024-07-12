@@ -2,8 +2,9 @@
 tags: [status/needswork]
 ---
 
+
 - [[Driftglobe]] (uncommon minor item)
-- [[Pearl of Power]] (uncommon major item)
+- Pearl of Power (uncommon major item).  A small magical pearl. Recovered from the belly of the roper fought in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]]. Probably Dwarven in origin. %%SECRET[1]%%
 - [[Driftglobe]] (uncommon minor item)
 - [[Shatterstorm]] (rare major item)
 
@@ -12,7 +13,7 @@ tags: [status/needswork]
 - 66 copper disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - Elemental Gem. A gem used to summon a fire elemental, found in Raven's Hold and used in the battle against [[Agata]] and later the gnolls in [[Session 28 (DuFr)]] and [[Session 29 (DuFr)]]. 
 
-- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[1]%%
+- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[2]%%
 - [[Vial of Acid (Gnoll Leader)|Metal vial with acidic liquid from gnoll war leader]] ([[Raven's Hold]], [[Wellby]]). No obvious value. A small metal vial filled with some kind of acrid liquid, carried by the gnoll leader in Raven's Hold.  %%Taken from dead body of gnoll war leader at Raven's Hold. This is demon blood.%%
 
 

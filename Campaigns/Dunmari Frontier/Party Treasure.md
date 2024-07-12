@@ -1,6 +1,6 @@
 ## Recent Acquisitions, NOT incorporated below
 
-	[[Ursk Treasure]]
+[[Ursk Treasure]]
 [[Merfolk Quest Treasure]]
 
 ## Magic Items
@@ -50,25 +50,15 @@
 |       | Dream Mirror                           | Minor item, Common    | Taken from [[Agata's Treasure]]                                                                                                       |           |
 |       | Cloak of the mantra ray                | Minor item, Uncommon  | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]                                                     |           |
 |       | [[Aagir's Everlight]]                  | Minor item, Common    | Found in the [[Dunmari Fort (Gomat)]]                                                                                                 |           |
-
-Other:
-- Scrolls of Storykeeping, from [[Saka]] ([[Kenzo]]). 10 total, 9 used:
-	- [[Kirian's Story]]
-	- [[Amar's Story]]
-	- [[Justan's Story]]
-	- [[Tree’s story]]
-	- [[Caulaus' Story]]
-	- [[Jorundr's Story]]
-	- [[Nameless Chardonian Warrior's Story]]
-	- [[Cecilia Lister's Story]]
-	- [[Iskra's Story]]
+|       | [[Scroll of Storykeeping]]             | Minor item, Uncommon  | Gift from [[Saka]]                                                                                                                    |           |
 ### Seeker
 
-Major items:
-- [[Glove of Crystalized Magic]] (very rare major item)
-- [[Ring of the Warded Mind]] (uncommon major item)
-- [[Pearl of Power]] (uncommon major item)
-- Dragonhide Studded Leather (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
+| Image | Name                                             | Rarity                | Origin and Notes                                                       | Mechanics                                                                      |
+| ----- | ------------------------------------------------ | --------------------- | ---------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+|       | [[Glove of Crystalized Magic]]                   | Major item, Very rare | Constructed by Seeker from gift of crystallized magic from [[Illaran]] |                                                                                |
+|       | [[Ring of the Warded Mind]]                      | Major item, Uncommon  | Part of [[Agata's Treasure]]                                           | [Mechanics](https://www.dndbeyond.com/magic-items/4725-ring-of-mind-shielding) |
+|       | Pearl of Power                                   | Major item, Uncommon  | Recovered from [[Raven's Hold Treasure\|Raven's Hold]]                 | [Mechanics](https://www.dndbeyond.com/magic-items/4691-pearl-of-power)         |
+|       | [[Dragonhide Armor\|Dragonhide Studded Leather]] | Major item, Uncommmon | Purchased in [[Zvervinka]]                                             | [Mechanics](https://www.dndbeyond.com/magic-items/5096-studded-leather-1)      |
 
 Minor items:
 - [[Chanceweaver’s Dice]] (rare minor item)
