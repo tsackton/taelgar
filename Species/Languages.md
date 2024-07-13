@@ -57,10 +57,13 @@ _Real world analog: Drankorian and its language family is broadly based on Helle
 * **Cymean**: A number of mutually understandable related languages and dialects spoken in the Cymean peninsula. Cymean words are usually based on Spanish or Portugese, but with some Italian. It is usually understood by speakers of Isinguese. 
 * **Isinguese:** The language spoken in the now destroyed lands of the Istabor Alliance, but still spoken in some of the refugee communities including the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]]. Based on Spanish or French, and is usually understood by speakers of Sembaran (especially southern Sembarans) or Cymean. 
 * **Illorian**: The language spoken on the islands of [[Illoria]], it is often understandable to Chardonian speakers, especially those from the [[Apporia|Apporian Peninsula]] or [[Chardon]] itself. No defined real world mapping yet.
+
+%% wrapping this in a comment for now as I think the cultural history of the pre-Great War "western shore" (broadly including the Yeraad and Chasa river valleys, Apporia, the coast north of Chardon, the interior around Lake Valandros, and the then the further north reaches, around modern day Voltara) needs more work before settling on a linguistic history. 
 * **~Northern Dialects~**: A set of now-almost extinct languages spoken before the Great War in a number of now destroyed northern realms, mostly based along the [[Chasa River Valley]]. These languages were usually understood by speakers of Chardonian, and are based on Italian.
+%%
 
 %% Background Note:
-This is likely a complete list of currently spoken Drankorian Family languages, although most of these languages are best thought of as collections of mutually comprehensible dialects. It is not clear what the pre-Great War northern realms spoke, but it could be either Drankorian, or some blended Drankorian-Northros language. 
+This is likely a complete list of currently spoken Drankorian Family languages, pending resolution of the pre-Great War west coast cultural history, although most of these languages are best thought of as collections of mutually comprehensible dialects. It is not clear what the pre-Great War northern realms spoke, but it could be either Drankorian, or some blended Drankorian-Northros language. 
 %%
 ## Northros Language Family
 These languages derive from the ancient tongues that were spoken by the first human migrants from [[Hkar]]. They use a diverse set of alphabets.
@@ -75,6 +78,8 @@ _Real world analog: Northros languages are based on Semitic languages_
 %% Background Note:
 There are numerous undeveloped cultures and partially developed cultures that likely speak a Northros language. This list should not be considered complete
 %%
+
+%% Tim adding: I think the cultures involved in the mixing of the northern peoples coming east and the mariners coming west -- basically, the Zimka, Vos, Skaer, and Vargaldi, but perhaps others as well -- need a little bit more thought as to languages / language mappings and culutural/linguistic history. %%
 
 ## Eastros Language Family
 All languages in the Eastros language family derive from ~Unnamed Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea. They mostly use the ~Unnamed Mariner Language~ alphabet.
@@ -136,6 +141,8 @@ Many other creatures in the world of Taelgar speak a language of their own, incl
 * **Grell**: a corrupted form of Deep Speech
 
 ### Extra-Planar Languages
+
+%%these need more thought%%
 Time and space do not work on the other planes as they do on the material plane, and each plane tends to be represented by a single language. These are typically difficult, although not impossible, for outsiders to learn.
 
    * **Sylvan:** The language of the Feywild, of satyrs and fairies and others. The most common extraplanar language to be learned by natives of the material plane. This is often mapped to classical Greek, but many different real world mappings are possible. 
