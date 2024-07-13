@@ -163,14 +163,19 @@ _Real world analog_: Hindi or other Indo-Iranian (Persian)
 _Alphabet_: Dunmari is written using the Drankorian alphabet
 
 %% Background Note: Dunmari is related to both Drankorian and ~Mariner Language~ via Hkar, but is unique from the post-Hkar migrations as it was the language adopted and evolved from Hkar amongst the Dumari. It should feel relatively unique, but with an Indo-European derivation%%
+##### Vosic
+A collection of languages spoken by the [[Vostok|Vos]]. There are at least two common dialects and perhaps more, and these language evolved from diverse influences. 
 
+_Real world analog_: Undetermined
+_Alphabet_: Undetermined
+
+%% Background note: The specific history of Vostok is unclear and this language probably has both Nothern and Eastern influences. It could be two or more quite distinct languages.  This is more to document its name and existence without forcing any specific details. If a player wants to speak Vosic more details are probably needed. %%
 ##### Sembaran
 A number of mutually understandable languages and dialects spoken in Sembara, Tyrwingha, and Addermarch. Originally a creole language that arose from a combination of Drankorian and Old Tollish, it is now its own language with complex relationships to both Drankorian and Eastros. Southern Sembaran has more Drankorian influences, whereas Northern Semabaran has more Eastros influences.
 
 _Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch)
 _Alphabet_: Sembaran is written using the Drankorian alphabet
 *Intelligibility*: Tollish is mutually intelligible with Sembaran.
-
 ##### Tollish
 The language spoken in Tollen and parts of the Tollen spheres of influence. It is closely related to Sembaran, and developed from a similar mix of Old Tollish and Drankorian. 
 
