@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external]
+tags: [person]
 name: Balthazar
 born: 1705-03-15
 species: human
@@ -25,5 +25,3 @@ He recently acquired an odd egg from [[Viepuck|Viepuck's]] patron and has become
 
 Since [[Pyravela]] he has spent a lot of time on [[Char Street]] begging various food merchants for spoiled and otherwise discarded food. He seems to be looking for something, but he won't tell anyone, even [[Viepuck]], what it is. That said, he is always happy to run errands or otherwise help out, especially for a coin or two. He seems to be pretty good at slipping through crowds, and is extremely bright, if somewhat weak and still more sickly and frail than he really should be.
 %%^End%%
-
-%% Small number of bits from emails to incorporate %%
