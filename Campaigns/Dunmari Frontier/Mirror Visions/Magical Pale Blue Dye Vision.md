@@ -1,4 +1,4 @@
-You hold up a tiny vial of a pale blue dye, borrowed from [[Cecilia Lister]], to the [[The Mirror of the Past]], as the image shifts.
+You hold up a tiny vial of a pale blue dye, borrowed from [[Cecilia Lister]], to the [[Mirror of the Past]], as the image shifts.
 
 You see a dimly lit desk in a warehouse somewhere, weak sun streaming through a high window. Your perspective is looking up from some kind of silver scale apparatus, used for precisely weighing small weights. Two people are talking. One, a woman, looks like a Tollender merchant. The other, a man, wearing a lined fur cloak, is probably Urskan. They are speaking in Eastros; Wellby lip-reads a conversation. They are talking about how much the Urskan is asking for the dye, which seems a lot. He is saying that it is harder to go west these days, and the ice worms like the ... Wellby can't make out the word, it is probably a word in Urskan, and the ... another mystery word ... are asking for more and more. 
 

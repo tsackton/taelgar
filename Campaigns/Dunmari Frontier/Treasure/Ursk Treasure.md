@@ -2,14 +2,14 @@
 tags: [status/needswork]
 ---
 
-# Purchased in Zvervinka
+## Purchased in Zvervinka
 
 Frostshard Shortbow
 Dragonscale Cloak
 Dragonhide Cloak
 Dragonhide Studded Leather
 Potion of Gaseous Form (used in Shadowkeep)
-# Acquired from Shadowkeep
+## Acquired from Shadowkeep
 
 A gold-gilded black breastplate engraved with the silhouette of a dragon %%SECRET[1]%%
 Two suits of gold-gilded black plate armor engraved with the silhouette of a dragon %%SECRET[2]%%
@@ -30,10 +30,9 @@ Five potions:
 - Potion of supreme healing 
 
 The Watcher Pendant - a very elaborate design, set with diamonds. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]]
-# Acquired from Rodnya Voknaz
+## Acquired from Rodnya Voknaz
 
 A jade fragment of Rai's hand.
-
 
 ## Harvested
 

@@ -24,7 +24,7 @@ ddbLink: https://www.dndbeyond.com/magic-items/3819621-raven-whistle
 
 A whistle carved from the bone of a giant bird, radiating transmutation magic. 
 
-Seen in the [[The Mirror of the Past]]:
+Seen in the [[Mirror of the Past]]:
 
 ![[Raven Whistle Vision]]
 

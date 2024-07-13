@@ -13,7 +13,7 @@ The treasure recovered from the [[Elemental Forge]].
 - A [magical gray cloak](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind). Also found in the lead box. 
 - Cold Box. Found in the pantry/storeroom in the living quarters. A 3 foot by 3 foot stone chest that preserves food kept inside indefinitely.
 - Pitcher of Purity. A silver water pitcher found in the bedroom in the living quarters. Any non-magical liquid put inside turns permanently to pure water. 
-- A locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. The spellbooks contains are currently unknown. 
+- A locked spellbook. Found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. The spellbook's contains are currently unknown. 
 - A silver wand that functions as an arcane focus. Found in the hidden lead box and also once possessed by the woman whose skeleton remains in the elemental forge. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. 
 ## Mundane Items
 - A second copy of “The [[Enchiridion of the Occulta Ludum]]”, also blank and slightly magical. Found in the bedroom of the Elemental Forge workshop.

@@ -38,7 +38,7 @@ The Dunmar Fellowship thwarts an attack by Agata's allies, safeguards treasure, 
 - (DR:: 1748-06-08), late afternoon: Arrive in [[Karawa]]. Speak with [[Cintra]]. Free prisoners from the [[Mirror of Soul Trapping]], including [[Sura|Nayan Sura]], the sister of the current ruler of [[Dunmar]]. 
 
 ### Mirror of the Past
-- (DR:: 1748-06-08): See a vision of the history of the [[Mirror of Soul Trapping]] in the [[The Mirror of the Past]]: [[Mirror of Soul Trapping Vision]] (recharge:: mirror)
+- (DR:: 1748-06-08): See a vision of the history of the [[Mirror of Soul Trapping]] in the [[Mirror of the Past]]: [[Mirror of Soul Trapping Vision]] (recharge:: mirror)
 
 ## Narrative
 Our session begins at dusk, as the party establishes camp in a small canyon about 1 ½ miles north of [[Agata's lair]]. After an evening discussing the freed prisoners, the mirror, and what to do with [[Agata]]’s loot and lair, the party drifts off to rest, with [[Wellby]] on watch. [[Garret Tealeaf]], the elderly halfling, wanders over to talk for a bit, reiterating his fear of the magic from [[Agata]]’s house, and starting to open up about his experiences as [[Agata]]’s servant, especially the terrible screams he would hear from the hut at times, when a band of [[Orcs]] attacks by surprise.
@@ -49,7 +49,7 @@ With the threat driven off, the party goes back to sleep, waking some hours past
 
 While food is short, the journey is not difficult, interrupted only by a moment of doubt when [[Kenzo]] and [[Drikod]] sense, with the crossing of [[Shakun]]’s protection, that some of what they bring is evil, and feel a moment of questioning, whether they are sure they know what they are doing will not bring harm to [[Dunmar]]. At this, the party debates whether to destroy some items, and starts by burning the [[Thorn Seed Bag]] that wither the ground they are planted in.
 
-The party arrives at the outskirts of [[Karawa]] a few days later, not wanting to bring whatever may be trapped in the [[Mirror of Soul Trapping]] into [[Karawa]]. After fetching [[The Mirror of the Past]] and telling [[Cintra]] about the trip to [[Agata's lair]], the party shows the [[Mirror of Soul Trapping]] to [[The Mirror of the Past]], seeing [[Mirror of Soul Trapping Vision|a vision of its history]].
+The party arrives at the outskirts of [[Karawa]] a few days later, not wanting to bring whatever may be trapped in the [[Mirror of Soul Trapping]] into [[Karawa]]. After fetching [[Mirror of the Past]] and telling [[Cintra]] about the trip to [[Agata's lair]], the party shows the [[Mirror of Soul Trapping]] to [[Mirror of the Past]], seeing [[Mirror of Soul Trapping Vision|a vision of its history]].
 
 As the scene fades, while [[Seeker]] and [[Drikod]] puzzle over the architecture of the castle in the last scene, eventually placing it as pre-[[Great War]] hobgoblin architecture from the eastern side of the mountains, [[Cintra]] stands by, shocked. She tells the party that the first Dunmari woman they saw is Nayan [[Sura]], the woman who should be Samraat of [[Dunmar]]. [[Sura]] was supposed to be the heir to the throne, but she vanished 8 years ago, leading her brother to take the throne in her place. 
 

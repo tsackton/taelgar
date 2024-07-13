@@ -9,7 +9,7 @@ timelineDescriptor: Dunmari Frontier Campaign
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-A vision of the [[Phasing Stones|Phasing Stone]] from [[Hralgar's Palace]] seen in the [[The Mirror of the Past]].
+A vision of the [[Phasing Stones|Phasing Stone]] from [[Hralgar's Palace]] seen in the [[Mirror of the Past]].
 
 You hold the phasing stone to the mirror, and the scene shifts.
 

@@ -33,7 +33,7 @@ The [[Dunmar Fellowship]] learns valuable information from [[Hralgar]] and defea
 - (DR:: 1748-11-24): The party says goodbye to [[Hralgar]] and receives his wind blessing, allowing them to travel quickly as clouds to his ruined palace in the mountains. Scout, and find dark shadows boiling out of the basement, and a icy structure on the main floor. Parlay with an ice maiden, until she brags of freezing travelers on the passes and [[Wellby]] shoots. Defeat her ice maiden form, and then crush her heart of ice and crystal, destroying her. 
 
 ### The Mirror of the Past
-- (DR:: 1748-11-24): [[The Mirror of the Past]] used to look at the Enchiridion of the [[Occulta Ludum]], seeing the [[Enchiridion of the Occulta Ludum Viision]]. (recharge:: mirror)
+- (DR:: 1748-11-24): [[Mirror of the Past]] used to look at the Enchiridion of the [[Occulta Ludum]], seeing the [[Enchiridion of the Occulta Ludum Viision]]. (recharge:: mirror)
 
 ## Narrative
 We begin at camp, as [[Hralgar]] returns from hunting with a brace of antelope and [[Delwath]] begins to cook a late dinner. [[Hralgar]] and the party talk, and [[Dunmar Fellowship]] hears [[Hralgar]]'s story and learned a little of [[Drankorian Empire|Drankor]], about the skyship [[Vindristjarna]], about [[Apollyon|Apollyon]] and the [[Omnis Pura]], and about volcanoes and how to destroy powerful magic. 

@@ -21,7 +21,7 @@ rarity:
 
 ![[mirror-of-soul-trapping-v1.png|right|400]]This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
 
-Seen in [[The Mirror of the Past]]: [[Mirror of Soul Trapping Vision]]
+Seen in [[Mirror of the Past]]: [[Mirror of Soul Trapping Vision]]
 
 An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed. If the mirror is destroyed, all creatures trapped within are released.
 

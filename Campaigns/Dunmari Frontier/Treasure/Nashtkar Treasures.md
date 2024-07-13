@@ -5,7 +5,7 @@ tags: [status/needswork]
 
 - Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]
 
- - Longsword of Heroism, recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[The Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Kharsan]] palace)
+ - Longsword of Heroism, recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Kharsan]] palace)
 - A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears (recovered from [[Kharsan]]) %%SECRET[1]%%
 - A pair of nice wooden spoons (from the palace kitchens in [[Kharsan]]) %%SECRET[2]%%
 - A wand, broken in half, once magical, but no longer ([[Kharsan]] palace)

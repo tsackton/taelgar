@@ -17,4 +17,4 @@ One end cap was found by [[Dunmar Fellowship]] outside Raven's Hold on [[Session
 
 Sold in [[Darba]] for 80 gp. %%SECRET[1]%%
 
-Some of its history was revealed by [[The Mirror of the Past]]: [[Ivory Scroll Cap Vision]]
+Some of its history was revealed by [[Mirror of the Past]]: [[Ivory Scroll Cap Vision]]

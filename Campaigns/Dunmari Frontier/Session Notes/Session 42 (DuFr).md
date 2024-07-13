@@ -40,11 +40,11 @@ The [[Dunmar Fellowship]] receives gifts, rumors, and magic in [[Tokra]], and th
 - (DR:: 1748-07-18), evening: Arrive at the crossroads where the [[Tokra-Darba Road]] turn south and west.  Spend the night at the [[~Crossroads Caravanserai~]]. Speak with the [[Greenleafs]], who report on rumors of a dragon on the road. Speak with [[Marcella]]. 
 
 ### Mirror of the Past
-- (DR:: 1748-07-13) Examine the [[Pandemonium Scroll]] in the [[The Mirror of the Past]] and see the [[Pandemonium Scroll Vision]]. (recharge:: mirror)
+- (DR:: 1748-07-13) Examine the [[Pandemonium Scroll]] in the [[Mirror of the Past]] and see the [[Pandemonium Scroll Vision]]. (recharge:: mirror)
 
 
 ## Narrative
-We begin with the tale of the [[The Dunmari Monsoon|monsoons that have just begun]], as the party rests in [[Tokra]], waiting for their [[Portable Hole]] to be ready and to begin the journey to [[Darba]], and planning on wrapping up a few loose ends. The first of which is looking at the [[Pandemonium Scroll|scroll]] associated with [[Pandemonium]], recovered from the lair of the [[Fraternity of the Empty Moon]], in [[The Mirror of the Past]]. As [[Seeker]] unrolls the scroll to hold it to the mirror, the runes shift and squirm and reach out to him, but he resists whatever effect might have occurred and [[Pandemonium Scroll Vision|sees the following]].
+We begin with the tale of the [[The Dunmari Monsoon|monsoons that have just begun]], as the party rests in [[Tokra]], waiting for their [[Portable Hole]] to be ready and to begin the journey to [[Darba]], and planning on wrapping up a few loose ends. The first of which is looking at the [[Pandemonium Scroll|scroll]] associated with [[Pandemonium]], recovered from the lair of the [[Fraternity of the Empty Moon]], in [[Mirror of the Past]]. As [[Seeker]] unrolls the scroll to hold it to the mirror, the runes shift and squirm and reach out to him, but he resists whatever effect might have occurred and [[Pandemonium Scroll Vision|sees the following]].
 
 The next morning, the party explores the giant tree, going so far as to climb to the top, where they see the first buds of the new leaves beginning to appear, and [[Kenzo]] communes with the tree. Despite his wishes, a branch does not fall for him. However, later that afternoon, his old mentor [[Rishi]] gives him a branch from the tree that he had been saving for [[Kenzo]] when he was ready, telling him that it must be shaped into a staff by [[Kenzo]]’s own hand. The rest of the party sells treasure and gets organized for the journey to [[Darba]].
 

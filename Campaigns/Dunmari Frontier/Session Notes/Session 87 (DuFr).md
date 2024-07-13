@@ -40,7 +40,7 @@ In the elven city of [[Erelion]], the [[Dunmar Fellowship]] learns about [[Cha'm
 - (DR::1749-01-15): Arrive in [[Orenlas]] in morning after traveling through the evening across the [[~Cymea Border Mountains~]]; dinner party.
 - (DR::1749-01-16): Visit [[Arheste]]; soothe her pain with powerful ki; speak with her all day; depart at dusk for [[Uzgukhar]].
 ### Mirror of the Past
-- (DR::1749-01-13) [[The Mirror of the Past]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
+- (DR::1749-01-13) [[Mirror of the Past]] unexpectedly recharged early due to lingering magical energy of the Elemental Forge, and [[Elemental Forge Vision|used to look at the Elemental Forge itself]]. (recharge:: mirror)
 ### Notes, Letters, Visions
 - The party receives a [[Philosopher's Information Concerning Binding Stones|message]] about binding stones from the Philosopher's Guild.
 - Faldrak [[Faldrak's Journal Notes|writes in his journal]].

@@ -39,7 +39,7 @@ The [[Dunmar Fellowship]] defeats more shadow hunters, traverses the [[Svinjo Mo
 - (DR:: 1749-03-18), afternoon: Arrive at [[Brimskarda]]'s steading
 
 ### Mirror of the Past
-- (DR:: 1749-03-27): [[Phasing Stone Vision|Vision]] of the [[Phasing Stones|Phasing Stone]] is revealed in the [[The Mirror of the Past]] (recharge:: mirror)
+- (DR:: 1749-03-27): [[Phasing Stone Vision|Vision]] of the [[Phasing Stones|Phasing Stone]] is revealed in the [[Mirror of the Past]] (recharge:: mirror)
 
 ## Narrative
 We begin late at night, as the shadow hunters mounted on flying gloomstalkers, who have been tracking the party for weeks, reach [[Tollen]] and attack. After hasty preparation, including raising the ice dome on [[Vindristjarna]], the party met the shadow hunter's charge. As the enemies attacked, the party unleashed spells including Delwath's synaptic static spell and [[Seeker]]'s slow spell, amidst a flurry of attacks. [[Kenzo]]'s melee prowess stunned one shadow hunter, while [[Seeker]]'s use of ice daggers proved lethal. Despite a gloomstalker's attempt to escape with [[Kenzo]], the party's combined efforts led to victory. After the battle, the party spoke with Tollen guards who came to investigate;  Delwath explained the attack as an assault by [[Chardon]] hunters, omitting specifics at [[Riswynn]]'s advice. 

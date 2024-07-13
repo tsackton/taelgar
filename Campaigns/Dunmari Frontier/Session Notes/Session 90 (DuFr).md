@@ -26,13 +26,13 @@ The [[Dunmar Fellowship]] engages in intricate diplomacy to reconcile siblings [
 - The [[Dunmar Fellowship]] departs to Sura's camp in the [[Copper Hills]] to mediate a conflict between her and [[Nayan Karnas]].
 - They share news of the [[War of the Cloak]] and the [[Battle for Uzgukhar]], and learn of Karnas' distrust towards Sura due to Agata's alleged influence.
 - Sura expresses her anger towards Karnas and agrees to meditate with Kenzo
-- Using [[The Mirror of the Past]], the party disproves a key piece of evidence Karnas held against Sura, causing him to rage.
+- Using [[Mirror of the Past]], the party disproves a key piece of evidence Karnas held against Sura, causing him to rage.
 - [[Abha]] believes this revelation is the first step towards reconciliation, and the party leaves tokens of unity before heading to [[Tollen]]
 ### Timeline
 - (DR:: 1749-01-30): (late morning) depart west for the [[Copper Hills]] on [[Vindristjarna]], passing south of [[Karawa]] and the [[Red Mesa]] in the night
 - (DR:: 1749-01-31): Watch the sun rise over the  [[~Southern Tokra Plains~]]; travel across the plains during the day, and reach and cross the [[Hara]] river in the evening. Continue west through the night.
 - (DR:: 1749-02-01):  Reach the outskirts of the [[Copper Hills]] in the morning. Speak with [[Sura]] on [[Vindristjarna]], then [[Johar]]. Send messages to the [[Sonkar Mystai]] [[Abha]]. Meditate with Sura in the evening. 
-- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]] and use the [[The Mirror of the Past]] to reveal [[Agata]]'s meddling. Speak with [[Abha]] again. Return to [[Vindristjarna]].
+- (DR:: 1749-02-02): Meet with [[Abha]]. Meet with [[Nayan Karnas]] and use the [[Mirror of the Past]] to reveal [[Agata]]'s meddling. Speak with [[Abha]] again. Return to [[Vindristjarna]].
 - (DR:: 1749-02-03): Tie up loose ends in Sura's camp. 
 - (DR:: 1749-02-04): Depart for [[Tollen]], via [[Orenlas]]. Travel to [[Orenlas]], crossing the [[~North Tokra Plains~]]. 
 - (DR:: 1749-02-05): Travel towards [[Orenlas]], passing over the [[Hara]] and the [[Thandar]], and the ruins of [[Stormcaller Tower]].  
@@ -76,9 +76,9 @@ The party is led by Abha through Karnas' camp, to the main room of the caravanse
 
 ![[karnas-portrait.jpeg]]
 
-Convinced the party is not under Agata's sway, the conversation turns to Sura, and the evidence that Karnas has marshaled of Agata's meddling. Karnas seems obsessed with the letter from [[Marathu]], implicating Sura, that Johar mentioned. The party discusses using the [[The Mirror of the Past]] to learn about [[Nayan Marathu's Letter]], but makes a final attempt to convince Karnas to come see the [[Cloak of Rainbows]] for himself, first. But he is unwilling to leave his camp and teleport away with strangers. 
+Convinced the party is not under Agata's sway, the conversation turns to Sura, and the evidence that Karnas has marshaled of Agata's meddling. Karnas seems obsessed with the letter from [[Marathu]], implicating Sura, that Johar mentioned. The party discusses using the [[Mirror of the Past]] to learn about [[Nayan Marathu's Letter]], but makes a final attempt to convince Karnas to come see the [[Cloak of Rainbows]] for himself, first. But he is unwilling to leave his camp and teleport away with strangers. 
 
-Finally, over Kenzo's qualms, the party decides to show the letter to the [[The Mirror of the Past]], which reveals [[Nayan Marathu's Letter Vision|Agata's role in crafting the letter]]. This sends Karnas into a rage, and the party leaves. Later, speaking to [[Abha]], she tells the party that this is the first crack, and she thinks this will be the first step in a path to reconciliation and a negotiation over Dunmar's future. But, at this point, it is up to the gods and their representatives on Taelgar to find a way forward. She thanks the party for their help, agreeing to speak with Sura and start negotiations, and wishes them well. 
+Finally, over Kenzo's qualms, the party decides to show the letter to the [[Mirror of the Past]], which reveals [[Nayan Marathu's Letter Vision|Agata's role in crafting the letter]]. This sends Karnas into a rage, and the party leaves. Later, speaking to [[Abha]], she tells the party that this is the first crack, and she thinks this will be the first step in a path to reconciliation and a negotiation over Dunmar's future. But, at this point, it is up to the gods and their representatives on Taelgar to find a way forward. She thanks the party for their help, agreeing to speak with Sura and start negotiations, and wishes them well. 
 
 The party spends the next day tying up loose ends to help the negotiations get started, with Kenzo leaving carved wooden figurines of a united brother and sister for both Sura and Karnas. On February 4th, they depart on Vindristjarna, heading east for Orenlas, and then Tollen, arriving at Tollen in mid-February. 
 

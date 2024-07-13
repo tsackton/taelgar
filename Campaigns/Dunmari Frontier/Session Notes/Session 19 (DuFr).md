@@ -41,7 +41,7 @@ The [[ Dunmar Fellowship]]assists a [[Amil|monk]] with funeral rites in [[Bas Ud
 - (DR:: 1748-05-02), evening: Arrive at the stone house that is the home of [[Avaras]] and [[Pava]]
 
 ### Mirror of the Past
-- (DR:: 1748-04-27): Vision of Kenzo's [[Jade Piece of Rai's Hand|shard of jade]] seen in the [[The Mirror of the Past]]: [[Kenzo's Jade Vision]]  (recharge:: mirror)
+- (DR:: 1748-04-27): Vision of Kenzo's [[Jade Piece of Rai's Hand|shard of jade]] seen in the [[Mirror of the Past]]: [[Kenzo's Jade Vision]]  (recharge:: mirror)
 
 ## Narrative
 Having decided to leave [[Karawa]] for the deserts and the blasted plain to the east, traveling with [[Havdar]] and his band, the party spends a few days taking care of business in [[Karawa]]. You find a place to store the loot you are not planning on taking into the desert; [[Candrosa]] offers space in the outbuildings of the [[Temple of Shakun]], where it will hopefully remain safe. Each time you see him he seems as if he is wrestling with a decision, but with the preparations for the expedition you don’t have time to speak in more depth with him.

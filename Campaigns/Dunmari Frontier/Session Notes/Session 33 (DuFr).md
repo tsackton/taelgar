@@ -39,13 +39,13 @@ The [[Dunmar Fellowship]]'s journey to [[Tokra]] is marked by a conversation wit
 - (DR:: 1748-06-30), early afternoon: Arrive at the outskirts of Tokra. Cross the bridge, pay the toll. [[Wellby]] takes Garrett to the halfling inn in town, [[The Red Lily Inn]]. Rest of party continues south to the [[Lakan Monastery]],  where they are welcomed by an ancient monk, [[Rishi]], [[Kenzo]]'s master and teacher.
 
 ### Mirror of the Past
-- (DR:: 1748-06-21): See a vision of the [[Floating Disc Coin]] in the [[The Mirror of the Past]]: [[Floating Disc Coin Vision]]. (recharge:: mirror)
+- (DR:: 1748-06-21): See a vision of the [[Floating Disc Coin]] in the [[Mirror of the Past]]: [[Floating Disc Coin Vision]]. (recharge:: mirror)
 - (DR:: 1748-06-28): Use the Mirror of the Past to see a dried scorpion taken from [[Agata]], and watch is begin to come alive in the magic of the mirror: [[Dried Scorpion Vision]]. Wellby shoots it before it can fully transform. (recharge:: mirror)
 
 
 
 ## Narrative
-The session starts as the party leaves [[Karawa]], heading west for [[Tokra]], traveling with [[Garret Tealeaf]], a horse-drawn cart laden with food and water and a false bottom hiding their magical mirrors, plus their horses and gear. The first day passes uneventfully along the open terrain, heading to connect with the ancient Drankorian trade road that runs east and west across northern [[Dunmar]]. There is light traffic passing through the desert, everybody eager to return to their normal lives. By the evening of the second day of travel, [[The Mirror of the Past]] had recharged enough to be used, and the party used it to look at the [[Floating Disc Coin]] found near the petrified form of [[Arcus]] in the fort east of [[Gomat]], seeing a [[Floating Disc Coin Vision|vision of its history]].
+The session starts as the party leaves [[Karawa]], heading west for [[Tokra]], traveling with [[Garret Tealeaf]], a horse-drawn cart laden with food and water and a false bottom hiding their magical mirrors, plus their horses and gear. The first day passes uneventfully along the open terrain, heading to connect with the ancient Drankorian trade road that runs east and west across northern [[Dunmar]]. There is light traffic passing through the desert, everybody eager to return to their normal lives. By the evening of the second day of travel, [[Mirror of the Past]] had recharged enough to be used, and the party used it to look at the [[Floating Disc Coin]] found near the petrified form of [[Arcus]] in the fort east of [[Gomat]], seeing a [[Floating Disc Coin Vision|vision of its history]].
 
 As he watches this scene unfold, [[Garret Tealeaf]] is suspicious, afraid of the magic you have taken from the lairs of powerful creatures, worried that perhaps the owner of this mirror is watching you, somehow. 
 

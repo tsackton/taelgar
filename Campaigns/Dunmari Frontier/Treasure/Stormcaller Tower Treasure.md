@@ -4,7 +4,7 @@ tags: [status/needswork]
 
 ## Recovered after the first journey to the tower
 
-- Eudomes mirror, the [[The Mirror of the Past]]
+- Eudomes mirror, the [[Mirror of the Past]]
 - The [[Enchiridion of the Occulta Ludum]], a small pamphlet titled in Drankorian, faintly magical and empty inside. Found in Eudomes' tower. 
 - [[Goggles of Object Reading]] (uncommon minor item)
 - Sheaf of receipts from [[Stormcaller Tower]].  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value.

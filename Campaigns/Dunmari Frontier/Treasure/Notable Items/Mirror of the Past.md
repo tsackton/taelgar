@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {defArt: ""}
+
 tags: [item, item/magical, status/cleanup/reformat]
 typeOf: mirror
 name: Mirror of the Past

@@ -33,7 +33,6 @@ tags: [status/needswork]
 - Moon Necklace (common minor item). A gift from [[Arryn]] to [[Wellby]], a necklace on which a pendant is hung that always glows with the light of the moon, fading and growing in brightness depending on the phase.
 ### From [[Rishi]]
 - [[Staff of the Forest Soul]] (very rare major item)
-
 ### From [[Prince of Luck|Chanceweaver]]
 - Chanceweaver’s Dice (rare minor item). A pair of amorphous dice that can change their shape at will. Gifted to [[Seeker]] by the [[Prince of Luck]]. 
 ### From [[Lady Eventide]]
@@ -62,9 +61,12 @@ tags: [status/needswork]
 - Cloak of the mantra ray (uncommon minor item, acquired from the [[Te'kula]] village in [[Elderwood|the Elderwood]])
 
 - 9 quivers of Skaer arrows, constructed by [[Umli]]
+- Masterwork shield, constructed of 7.5 lb of [[Skaer Steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. 
+- Improvements by Umli to Delwath's [[Deno'qai Lynx Shield]], using Skaer steel
+
 - Tattoo of Darkvision (uncommon minor item, acquired from [[Cecilia Lister]] in [[Tollen]])
 - [[Soul Tattoo]] (rare major item). Created by Cecilia Lister for Kenzo, in exchange for gold and the shadowfell brand tattoo that Kadmos wore.
-- Masterwork shield, constructed of 7.5 lb of [[Skaer Steel]] by [[Umli]]. Grants +1 additional bonus to AC, and +2 to bonus to Dexterity saving throws against effects targeting only you, or that you could reasonably block with a shield. %%add item, d&d beyond link%%
+
 
 - Dragonhide Studded Leather (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 
 - Dragonhide Cloak (uncommon major item). Made from the hide of a white dragon; purchased in Zvervinka. 

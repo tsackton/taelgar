@@ -45,7 +45,7 @@ The Dunmar Fellowship defeats Urgall the Black and a demonic entity in Vetta, ul
 - (DR:: 1748-12-25), early morning: Destroy the scepter at first light. Emerge, meet Skaer coming to investigate the clearing of the mists. 
 
 ### The Mirror of the Past
- - (DR:: 1748-12-23): Use [[The Mirror of the Past]] on Urgall's helm: [[Urgall's Helm Vision]] (recharge:: mirror)
+ - (DR:: 1748-12-23): Use [[Mirror of the Past]] on Urgall's helm: [[Urgall's Helm Vision]] (recharge:: mirror)
 
 ## Narrative
 ***Part 1: [[Tollen]]***
