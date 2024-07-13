@@ -21,7 +21,7 @@ These are items carried by Agata, acquired by the party after [[Session 28 (DuFr
 ### Mudane Items
 
 - A silver ring, set with an obsidian gem. Could sell for 300-1800gp. %%SECRET[4]%%
-- A diamond of beautiful quality and cut. Carried by [[Agata]]. Could sell for 1000-2400gp. Seen in [[The Mirror of the Past]]: [[Extravagant Diamond Vision]]. %%SECRET[5]%%
+- A diamond of beautiful quality and cut. Carried by [[Agata]]. Could sell for 1000-2400gp. Seen in [[Mirror of the Past]]: [[Extravagant Diamond Vision]]. %%SECRET[5]%%
 - Five uncut gemstones: an amethyst (10-60gp %%SECRET[6]%%), a rose quartz (50-300gp %%SECRET[7]%%), and a topaz (100-600gp %%SECRET[8]%%). If cut and polished by a skilled gemcutter, the rubies and topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double.
 
 ## Taken from Agata's Lair

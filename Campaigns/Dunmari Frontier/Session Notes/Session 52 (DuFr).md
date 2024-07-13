@@ -55,14 +55,14 @@ The [[Dunmar Fellowship]] flees from [[Mezzar]], who is revealed to be a dragon 
 - (DR:: 1748-09-30), morning: Leave village, collapsing pocket dimension in the process as the [[Jade Piece of Rai's Hand]] holding it open is removed. As the pocket dimension collapses, the party is scattered in all directions. 
 
 ### Mirror of the Past
-- (DR:: 1748-09-06): Look at the [[Deno'qai]] God Tree in the [[The Mirror of the Past]]: [[God Tree Vision]]. (recharge:: mirror)
-- (DR:: 1748-09-14): Look at the [[Mace of Terror]] in the [[The Mirror of the Past]]: [[Mace of Terror Vision]] (recharge:: mirror)
-- (DR:: 1748-09-22): Look at [[Hralgar's Eyes]] in the [[The Mirror of the Past]]: [[Hralgar's Eyes Vision]]. (recharge:: mirror)
+- (DR:: 1748-09-06): Look at the [[Deno'qai]] God Tree in the [[Mirror of the Past]]: [[God Tree Vision]]. (recharge:: mirror)
+- (DR:: 1748-09-14): Look at the [[Mace of Terror]] in the [[Mirror of the Past]]: [[Mace of Terror Vision]] (recharge:: mirror)
+- (DR:: 1748-09-22): Look at [[Hralgar's Eyes]] in the [[Mirror of the Past]]: [[Hralgar's Eyes Vision]]. (recharge:: mirror)
 
 
 
 ## Narrative
-We begin as the party waits at the God tree for the [[Elves|elf]] [[Mezzar]], debating whether to wait or to flee. While doing so, they look at the God tree in [[The Mirror of the Past]], seeing [[God Tree Vision|a vision]].
+We begin as the party waits at the God tree for the [[Elves|elf]] [[Mezzar]], debating whether to wait or to flee. While doing so, they look at the God tree in [[Mirror of the Past]], seeing [[God Tree Vision|a vision]].
 
 The party then sets an ambush: [[Wellby]] is hiding behind a minor illusion of a coil of rope on a wooden platform suspended 30 feet above the ground, while [[Kenzo]] waits about 100 feet up in the lower branches of the God tree. [[Mezzar]] arrives, introduces himself, and attempts to cast Suggestion to first get [[Seeker]], and then [[Delwath]] (twice) to step away with him and have a conversation privately for a few minutes. The spells fail, and [[Wellby]], seeing the third attempt, shoots an arrow as combat breaks out. The combat is initially going well for the party, as [[Seeker]] turns into a Huge Giant Crab and [[Mezzar]]’s attempt to dominate the beast fails. But as the spell fails, [[Mezzar]] shifts form, turning from an [[Elves|elf]] to an adult green dragon, and takes to the air. After a blast of poison gas from his breath weapon catches all of the party and kills every Deno’qai who came with [[Mezzar]] from the village, things look rough and the party decides to flee. The heroic rope [[Ladder]] remains behind, tangling with the dragon, sacrificing itself so the party can escape. 
 
@@ -94,7 +94,7 @@ The party prepares for the fight, and enters the lair both above and from the ma
 
 After a breather, the party spends the next day gathering [[Mezzar|Grimbaskal]]'s treasure hoard, with many thousands of coins, plentiful gems, and beautiful objects of art and magical items. Spending three days to return to the [[Te'kula]], the party then enjoys some well deserved rest and downtime to train, while the treasure is gathered and divided up, and the bodies of the Deno’qai transformed by [[Mezzar|Grimbaskal]] are collected and given a proper burial. Messengers go out to the other tribes, and [[Theba]] organizes a diplomatic mission to break the news of [[Mezzar]]’s deception and the other corrupting influences the [[Dragons|dragon]] had on the forest. [[Kenzo]] speaks with [[Alayah]], who turns over her [[Jade Piece of Rai's Hand]] to him at the fallen God tree, where he also takes some wood to carve into figurines to give to people whose stories he collects. 
 
-During this time, the party also looks at two items in the [[The Mirror of the Past|mirror of Eudomes]], seeing the [[Mace of Terror Vision]] and the [[Hralgar's Eyes Vision]].
+During this time, the party also looks at two items in the [[Mirror of the Past|mirror of Eudomes]], seeing the [[Mace of Terror Vision]] and the [[Hralgar's Eyes Vision]].
 
 Finally, on September 30th, the party leaves, with [[Theba]], a diplomatic mission, and the [[Elves]] [[Belegor]], to go to visit the rest of the Deno’qai tribes. As [[Kenzo]] leaves the pocket dimension with both jades, the portal allowing the [[tanshi]] to reach the world disappears, and the [[Te'kula]] territory returns to the material plane. 
 

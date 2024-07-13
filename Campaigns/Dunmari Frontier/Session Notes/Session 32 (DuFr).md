@@ -44,7 +44,7 @@ The [[Dunmar Fellowship]] spends time in [[Karawa]], where they prepare for ritu
 - (DR:: 1748-06-20), morning: Drikod leaves Karawa, heading north towards his home village of [[Kunda]]. Kenzo, Seeker, Wellby, and Delwath, traveling with Garrett Tealeaf, leave Karawa heading west for Tokra.
 
 ### Mirror of History
-- (DR:: 1748-06-15): Agata's [[Soul Lantern]] viewed in the [[The Mirror of the Past]]: [[Soul Lantern Vision]]. (recharge:: mirror).
+- (DR:: 1748-06-15): Agata's [[Soul Lantern]] viewed in the [[Mirror of the Past]]: [[Soul Lantern Vision]]. (recharge:: mirror).
 
 
 
@@ -53,7 +53,7 @@ The party spends a little more than a week in [[Karawa]], taking care of various
 
 During the week of downtime, [[Seeker]] and [[Delwath]] discover more about the [[Mirror of Soul Trapping]], including new command words. Using these and a lucky guess as to the hobgoblin’s name, the party also interrogates [[Revaka]], the hobgoblin leader they once saw in the mirror. She is distanful and haughty, and initially refuses to speak with [[Delwath]] (“the [[Elves]]”), but eventually the party learns from her a few key pieces of information. She was trapped in the mirror hundreds of years ago, in the 2nd year of the reign of [[Derik III]] of [[Sembara|Sembara]] (DR 1521), by [[Cha'mutte]]. The hobgoblin tribes on the fringes of [[Sembara|Sembara]] were being recruited into [[Cha'mutte]]’s armies, but [[Revaka]] did not want the risk and war of world domination, preferring to maintain her small empire on the fringes of the human world. The mirror itself was made by her grandfather, a wizard in service to the [[Avatus]], now a footnote in history as the foil for the rise of the [[House of Sewick]] of [[Sembara|Sembara]]. 
 
-During this week, the party also looked at the [[Soul Lantern]] in [[The Mirror of the Past]], specifically focusing on [[Soul Lantern Vision|visions of the people that the mirror harmed]].
+During this week, the party also looked at the [[Soul Lantern]] in [[Mirror of the Past]], specifically focusing on [[Soul Lantern Vision|visions of the people that the mirror harmed]].
 
 The first morning of the [[Feast of Bhishma]], the party gathered for breakfast all together for the first time in several days, against the backdrop of the morning prayers of remembrance that mark the beginning of the feast days. [[Delwath]] had just returned from and day and a night in the desert, where he learned that his patron, [[Yezali|Aaviskar]], is a small god of an unknown northern tribe, also trapped in the shadow realm at the end of the [[Great War]], who had in desperation thrown a connection to [[Delwath]] as [[Delwath]] fell from the shadow realm almost a year ago. 
 

@@ -2,7 +2,13 @@
 tags: [background]
 ---
 
-Some notes on the West Coast history
+Some notes on West Coast history. These should not be considered fully canon, but are a framework for development.
+
+## Pre-Drankor
+
+- First settlers were the Northerners, who generally lived in the shadow of non-humans before the Downfall. These become the Deno'qai, as well as possibly other as-yet-developed cultures on blank places in the map, such as the far north, the islands off the coast. 
+- Potentially there is a second late migration, after the mariner exodus, of a different cultural group, with a more urban culture, but this is not yet decided.
+- 
 
 ## Before the Great War
 

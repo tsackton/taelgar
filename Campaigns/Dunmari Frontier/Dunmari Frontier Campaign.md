@@ -12,7 +12,7 @@ You might start with:
 - The index of session notes: [[Sessions]]
 - A timeline of campaign events: [[Dunmari Frontier Timeline]]
 - A list of treasure gained: [[Party Treasure]]
-- The index of visions seen in the [[The Mirror of the Past]]: [[Mirror Visions]]
+- The index of visions seen in the [[Mirror of the Past]]: [[Mirror Visions]]
 
 You can also explore the skyship [[Vindristjarna]] and the [[Vindristjarna Room Planning|special facilities]] constructed on it.
 

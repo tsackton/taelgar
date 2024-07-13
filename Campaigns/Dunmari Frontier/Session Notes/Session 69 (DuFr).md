@@ -41,7 +41,7 @@ The [[Dunmar Fellowship]] breaks curses afflicting [[Kenzo]] and [[Havdar]], lea
 - (DR:: 1748-11-23), mid-afternoon: Arrive at [[Stormcaller Tower]], spend time planning and scouting with spells. 
 
 ### The Mirror of the Past
-- (DR:: 1748-11-15) A vision of [[Cha'mutte’s Shadow Armband]] is seen in [[The Mirror of the Past]]: [[Cha'mutte Armband Vision]] (recharge:: mirror)
+- (DR:: 1748-11-15) A vision of [[Cha'mutte’s Shadow Armband]] is seen in [[Mirror of the Past]]: [[Cha'mutte Armband Vision]] (recharge:: mirror)
 
 ### Divine Inspiration
 - (DR:: 1748-11-20): Riswynn's prayers are granted by the Bahrazel, freeing Havdar from his cursed sword. (recharge:: "divine inspiration")

@@ -36,7 +36,7 @@ The Dunmar Fellowship engages in [[Pyravela]] celebrations in [[Tollen]], exchan
 - (DR:: 1748-12-30): Work on party preparations; speak with [[Umli]] 
 
 ### The Mirror of the Past
-- (DR:: 1748-12-30): Use [[The Mirror of the Past]] on Urgall's note: [[Urgall's Note Vision]] (recharge:: mirror)
+- (DR:: 1748-12-30): Use [[Mirror of the Past]] on Urgall's note: [[Urgall's Note Vision]] (recharge:: mirror)
 
 ### Notes
 - The party deciphers [[Urgall's scroll]] and reconstructs the [[Flaming Tempest log books]]

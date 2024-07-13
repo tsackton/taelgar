@@ -72,23 +72,17 @@ You have attracted a considerable retinue of followers on Vindristjarna, as well
 
 [[Amil]] (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [[Garamjala Desert]] before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
 
-[[Kethra|Kethra Silverspark]] (unknown). A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
+[[Kethra|Kethra Silverspark]]. A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from Morkalan. 
 
 [[Nuzkar]] and [[Aygul]], orcs and twin sisters. 
 
-(not yet introduced)
 [[Egnir|Égnir]] (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 
-[[Jotha]] (she/her, yo-TAG). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
+[[Jotha]] (she/her, yo-TAH). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
 
-UNNAMED (unknown). Mapmaker
-
-UNNAMED (unknown). A halfling storyteller. 
-
-[[Kecha]] (unknown). A kenku scout. 
 ## Magic
 
-In addition to the phasing stone, Vindristjarna is equipped with the following magic.
+In addition to the [[Phasing Stones|Phasing Stone]], Vindristjarna is equipped with the following magic.
 ### Pitcher of Purity
 A silver water pitcher, kept in the kitchens. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. [[Session 86 (DuFr)|Recovered from the Edge of Echoes]]. Drankorian make. 
 ### Cleansing Stone

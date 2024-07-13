@@ -22,7 +22,7 @@ whereabouts:
 
 ![[delwath-ring-of-displacement.jpg|right|320]]An unadorned ring of made of three entwined golden braids, that radiates illusion magic. It was possessed by [[Agata]] for many years, and carried on her person. Taken by [[Delwath]] after [[Agata]] was slain by [[Dunmar Fellowship]] in 1748. 
 
-Seen in [[The Mirror of the Past]]: 
+Seen in [[Mirror of the Past]]: 
 
 ![[Ring of Displacement Vision]]
 

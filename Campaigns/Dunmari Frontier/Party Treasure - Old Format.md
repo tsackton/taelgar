@@ -113,10 +113,10 @@ Party items are stored in the [[Portable Hole]], unless otherwise noted)
 
 Major items:
 - [[Mirror of Soul Trapping]] (very rare major item, party)
-- [[The Mirror of the Past]] (very rare major item, party)
+- [[Mirror of the Past]] (very rare major item, party)
 - [[Efreeti Bottle]] (very rare major item, party)
 - A gray cloak, found in the Elemental Forge, that functions as a Cloak of Elvenkind. 
- - Longsword of Heroism, recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[The Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Kharsan]] palace)
+ - Longsword of Heroism, recovered from Kharsan and repaired by Riswynn and Kethra. A magical +1 longsword; can cast heroism as a second level spell, once per day. See in the [[Mirror of the Past]]: [[Broken Dunmari Sword Vision]]. ([[Kharsan]] palace)
 
 Minor items:
 - [[Portable Hole]] (rare minor item, party)
@@ -170,7 +170,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 	- Three topaz (Golden yellow, shimmers in light)  %%SECRET[10]%%
 	- Two onyx (Black, deep and opaque) %%SECRET[8]%%
 	- One lapis lazuli (Blue with gold flecks, royal appearance) %%SECRET[9]%%
-- A diamond of beautiful quality and cut. Carried by [[Agata]]. Could sell for 1000-2400gp. Seen in [[The Mirror of the Past]]: [[Extravagant Diamond Vision]]. %%SECRET[15]%%
+- A diamond of beautiful quality and cut. Carried by [[Agata]]. Could sell for 1000-2400gp. Seen in [[Mirror of the Past]]: [[Extravagant Diamond Vision]]. %%SECRET[15]%%
 - Five uncut gemstones: an amethyst (10-60gp %%SECRET[16]%%), a rose quartz (50-300gp %%SECRET[17]%%), and a topaz (100-600gp %%SECRET[18]%%). Carried by [[Agata]]. ​​If cut and polished by a skilled gemcutter, the rubies and topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double.
 - A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg, from [[Agata]]’s hut. Could sell for 200-1200gp %%SECRET[19]%%
 - Three large pearls, damaged (25-50 gp each, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[20]%%

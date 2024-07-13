@@ -9,7 +9,7 @@ timelineDescriptor: Dunmari Frontier Campaign
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-Vision of a [[Pandemonium Scroll|scroll associated with Pandemonium]] in [[The Mirror of the Past]]. 
+Vision of a [[Pandemonium Scroll|scroll associated with Pandemonium]] in [[Mirror of the Past]]. 
 
 The image in the mirror of the reflection of the scroll begins to fade, and the mirror turns dark. 
 
