@@ -6,14 +6,15 @@
 - A large (10 foot long) trident, taken from the herald of [[Gazankoa]] protecting the portal in [[Omi]]. Abandoned in the temple of Gazankoa during the merfolk fight (unless someone can give a logical explanation for how someone could have got this across the rainbow bridge without the manta rays). 
 ## Treasure Acquired in Buruli's Kingdom
 
-- 17 amulets of [[Gazankoa]]. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards. %%SECRET[1]%%
-- 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards. %%SECRET[2]%%
+- A small humming piece of metal, which sounds like the ocean, found connected to the [[Jade Piece of Rai's Hand]] inside a shell in Buruli's temple to Gazankoa. %%SECRET[1]%%
+- 17 amulets of [[Gazankoa]]. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards. %%SECRET[2]%%
+- 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards. %%SECRET[3]%%
 - 112 silver Chardonian coins 
 - 14 dwarven gold coins
 - 109 Dunmari silver coins
-- 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge. %%SECRET[3]%%
-- A set of bone dice, merfolk made %%SECRET[4]%%
-- 63 merfolk gambling tokens, made of polished shell and stone. %%SECRET[2]%%
+- 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge. %%SECRET[4]%%
+- A set of bone dice, merfolk made %%SECRET[5]%%
+- 63 merfolk gambling tokens, made of polished shell and stone. %%SECRET[3]%%
 ### Recovered Treasure from the [[Stormdancer]]
 
 Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
