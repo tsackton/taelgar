@@ -46,6 +46,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 | ![[horn-of-warning-1.png\|240]]            | [[Horn of Silent Alarm (Dunmari)]] | Minor item, Common    | Taken from [[Justan]] after he was killed by [[Casian]]                                                                                          | [Mechanics](https://www.dndbeyond.com/magic-items/horn-of-silent-alarm)           |
 |                                            | Ring of Sharp Mind                 | Minor item, Rare      | Constructed by [[Faldrak Bronzehammer\|Faldrak]] and [[Seeker]] at the [[Elemental Forge Hoard\|Elemental Forge]]                                | [Mechanics](https://www.dndbeyond.com/magic-items/7632123-ring-of-sharp-mind)     |
 |                                            | Magic Cooking Pouch                | Minor item, Uncommon  | [[Gifts and Purchases#Purchases\|Purchased]]  from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]                           | [Mechanics](https://www.dndbeyond.com/magic-items/6210885-magic-cooking-pouch)    |
+
 ### Wellby 
 
 | Image | Name                                            | Rarity                | Origin and Notes                                                                                                       | Mechanics                                                                                    |
@@ -65,7 +66,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [[Drankorian Message Stone]]                    | Minor item, Uncommon  | Long range version. Part of [[Agata's Treasure]]. Paired stone currently held by [[Sura]].                             | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone)          |
 |       | [[Tollen Magical Tattoo\|Tattoo of Darkvision]] | Minor item, Uncommon  | [[Gifts and Purchases#Purchases\|Purchased]]  from [[Cecilia Lister]]                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)                     |
 |       | Celestial Gem of Protection                     | Major item, Rare      | Gift from [[Riswynn]], who received it as a [[Gifts and Purchases\|gift]] from a celestial                             | [Mechanics](https://www.dndbeyond.com/magic-items/3465643-celestial-gem-of-protection)       |
-|       |                                                 |                       |                                                                                                                        |                                                                                              |
+
 ### Kenzo
 
 | Image | Name                                   | Rarity                | Origin and Notes                                                                                                                                                   | Mechanics |
@@ -100,6 +101,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | Charlatan's Dice                                 | Minor item, Common    | Part of [[Agata's Treasure]]                                                          |                                                                                        |
 |       | [[Cha'mutte’s Shadow Armband]]                   | Major item, Legendary | Recovered from the [[Forest of Nightmares]] by [[Delwath]]                            | N/A                                                                                    |
 |       | [[Binding Stones]]                               | Major item, Legendary | Found in [[Stormcaller Tower Treasure\|Stormcaller Tower]]                            |                                                                                        |
+
 ### Riswynn
 
 | Image | Name                                   | Rarity               | Origin and Notes                                       | Mechanics                                                                       |
@@ -109,6 +111,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [[Dragonhide Armor\|Dragonhide Cloak]] | Major item, Uncommon | Purchased in [[Zvervinka]]                             | [Mechanics](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)     |
 |       | Masterwork [[Skaer Steel]] shield      | Major item, rare     | Purchased from [[Umli]]                                | [Mechanics](https://www.dndbeyond.com/magic-items/7633182-skaer-shield)         |
 |       | Coin of Delving                        | Minor item, Common   | Gift from Brawnanvils                                  | [Mechanics](https://www.dndbeyond.com/magic-items/1434262-coin-of-delving)      |
+
 ### Party
 
 *Party items are stored in the [[Portable Hole]], unless otherwise indicated. The [[Portable Hole]] is folded up and stashed in a lead-lined locket worn by [[Wellby]].*
@@ -129,6 +132,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [[Drankorian Message Stone]] | Minor item, Uncommon  | Long range version. Found in the [[Elemental Forge Hoard]]. [[Lucius]], a boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking.                                                        | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone) |
 |       | Locked spellbook             | Unknown               | From the [[Elemental Forge Hoard]]                                                                                                                                                                                                        | N/A                                                                                 |
 |       | [[Watcher's Dagger]]         | Major item, Rare      | ***(NEW)*** From [[Ursk Treasure#Acquired from Shadowkeep\|Shadowkeep]]                                                                                                                                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)      |
+
 ## Non-Magical Items
 
 *All non-magical items are stored in the Portable Hole, unless noted.*
