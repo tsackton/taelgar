@@ -1,40 +1,26 @@
-## Recent Acquisitions, NOT incorporated below
+## Recent Acquisitions
 
-### Acquired from Shadowkeep
+### Unclaimed Potions
+- Potion of clairvoyance, from Shadowkeep
+- Potion of heroism, from Shadowkeep
+- 2 potions of speed, from Shadowkeep
+- Potion of supreme healing, from Shadowkeep
+- Potion of Underwater Transformation. A gift from [[Kazuro]] in exchange for a [[Session 99 (DuFr)|promise to return and help him build a monastery and find a student]].
 
-A gold-gilded black breastplate engraved with the silhouette of a dragon 
-Two suits of gold-gilded black plate armor engraved with the silhouette of a dragon 
-A gold-gilded black shield engraved with the image of two dragon wings
-Dragon statuette glittering with small diamonds
-50 pounds of gold in trade bars (2,500 gp)
-A bone key that unlocks doors in Shadowkeep, now useless as Shadowkeep has collapsed.
-Three blood red rubies 
-A Watcher's Dagger, function as a [Dagger of Blindsight](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)
-
-Five potions: 
-- Potion of clairvoyance 
-- Potion of heroism  
-- 2 potions of speed 
-- Potion of supreme healing 
-
-The Watcher Pendant - a very elaborate design, set with diamonds. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]]
-
-### Treasure Acquired in [[Apporia]] 
-
-- 6 potions of transformation, plus 6 doses of antidote. The potions of transformation are literally that, transformations. While under the effects, you gain gills but lose lungs. You can now breath water, but not air. Have no effect on swim speed, and last until the antidote is taken or the magical transformation is dispelled. A gift from [[Kazuro]] in exchange for a [[Session 99 (DuFr)|promise to return and help him build a monastery and find a student]].
 ### Treasure Acquired in [[Omi]]
 
 - A large (10 foot long) trident, taken from the herald of [[Gazankoa]] protecting the portal in [[Omi]]. Abandoned in the temple of Gazankoa during the merfolk fight (unless someone can give a logical explanation for how someone could have got this across the rainbow bridge without the manta rays). 
 ### Treasure Acquired in Buruli's Kingdom
 
-- 17 amulets of [[Gazankoa]]. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards. %%SECRET[1]%%
-- 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards. %%SECRET[2]%%
+- A small humming piece of metal, which sounds like the ocean, found connected to the [[Jade Piece of Rai's Hand]] inside a shell in Buruli's temple to Gazankoa. %%SECRET[1]%%
+- 17 amulets of [[Gazankoa]]. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards. %%SECRET[2]%%
+- 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards. %%SECRET[3]%%
 - 112 silver Chardonian coins 
 - 14 dwarven gold coins
 - 109 Dunmari silver coins
-- 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge. %%SECRET[3]%%
-- A set of bone dice, merfolk made %%SECRET[4]%%
-- 63 merfolk gambling tokens, made of polished shell and stone. %%SECRET[2]%%
+- 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge. %%SECRET[4]%%
+- A set of bone dice, merfolk made %%SECRET[5]%%
+- 63 merfolk gambling tokens, made of polished shell and stone. %%SECRET[3]%%
 ### Recovered Treasure from the [[Stormdancer]]
 
 Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
@@ -136,16 +122,18 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | Cloak of Elvenkind           | Major item, Uncommon  | Found in the [[Elemental Forge Hoard]]                                                                                                                                                                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind)          |
 |       | [[Portable Hole]]            | Minor item, Rare      | Acquired from [[Basu]] in exchange for help clearing the [[Elven Arborea Workshop]]                                                                                                                                                       | [Mechanics](https://www.dndbeyond.com/magic-items/4699-portable-hole)               |
 |       | [[Augury Mirrors]]           | Minor item, Rare      | Found in [[Grimbaskal's Hoard]]                                                                                                                                                                                                           | [Mechanics](https://www.dndbeyond.com/magic-items/5346832-augury-mirrors)           |
-|       | Foldable Boat                | Minor item, Rare      | Taken from [[Kadmos and Company Loot\|Kadmos]]                                                                                                                                                                                        | [Mechanics](https://www.dndbeyond.com/magic-items/4639-folding-boat)                |
-|       | Chime of Opening             | Minor item, Rare      | Taken from [[Kadmos and Company Loot\|Antonia]]. Has 4 charges remaining.                                                                                                                                                             | [Mechanics](https://www.dndbeyond.com/magic-items/4602-chime-of-opening)            |
-|       | [[Ever Spinning Top]]        | Minor item, Common    | Originally part of [[Agata's Treasure]]; stolen by [[Kadmos]], and [[Kadmos and Company Loot\|reclaimed]].                                                                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/3819604-always-spinning-top)      |
+|       | Foldable Boat                | Minor item, Rare      | Taken from [[Kadmos and Company Loot\|Kadmos]]                                                                                                                                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/4639-folding-boat)                |
+|       | Chime of Opening             | Minor item, Rare      | Taken from [[Kadmos and Company Loot\|Antonia]]. Has 4 charges remaining.                                                                                                                                                                 | [Mechanics](https://www.dndbeyond.com/magic-items/4602-chime-of-opening)            |
+|       | [[Ever Spinning Top]]        | Minor item, Common    | Originally part of [[Agata's Treasure]]; stolen by [[Kadmos]], and [[Kadmos and Company Loot\|reclaimed]].                                                                                                                                | [Mechanics](https://www.dndbeyond.com/magic-items/3819604-always-spinning-top)      |
 |       | Enchanted oyster shell       | Minor item, Rare      | [[Gifts and Purchases\|Gifted]] by [[Skaerhem\|Skaer]] as thanks for defeating the demon of [[Vetta]]. Can be used once to cast [Divination](https://www.dndbeyond.com/spells/2073-divination) with no components, targeting [[Kaikkea]]. | N/A                                                                                 |
 |       | [[Drankorian Message Stone]] | Minor item, Uncommon  | Long range version. Found in the [[Elemental Forge Hoard]]. [[Lucius]], a boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking.                                                        | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone) |
 |       | Locked spellbook             | Unknown               | From the [[Elemental Forge Hoard]]                                                                                                                                                                                                        | N/A                                                                                 |
+|       | [[Watcher's Dagger]]         | Major item, Rare      | ***(NEW)*** From [[Ursk Treasure#Acquired from Shadowkeep\|Shadowkeep]]                                                                                                                                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)      |
 ## Non-Magical Items
 
 *All non-magical items are stored in the Portable Hole, unless noted.*
 ### Coin
+- ***(new)*** 50 pounds of gold in trade bars (2,500 gp), from [[Ursk Treasure|Shadowkeep]]
 - 7 1/2 heavy gold bars, each weighing 10 pounds and worth 500 gp (total value 3750 gp), recovered from the [[Elemental Forge Hoard]]
 - 15 heavy silver bars, each weighing 5 pounds and worth 25 gp (total value 375 gp), recovered from the [[Elemental Forge Hoard]]
 - 2000 Tollender silver coins (200 gp, from the [[Flaming Tempest Hoard]]).
@@ -160,6 +148,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - 36 small silver disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 66 copper disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 ### Gemstones
+- ***(new)*** Three blood red rubies, from [[Ursk Treasure|Shadowkeep]]
 - Four large pearls (Gift from the Skaer). 
 - 16 uncut and unpolished gemstones (value would increase if properly cut), from the [[Elemental Forge Hoard]]:
 	- Two rubies (deep red, radiant glow) 
@@ -186,26 +175,27 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished 
 	- A finely engraved platinum ring set with a tiny but perfect sapphire 
 	- A silver tiara set with moonstones 
-- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, from [[Mezzar|Grimbaskal]]'s Hoard) 
-- A silver ring, set with an obsidian gem. Worn by [[Agata]]. Could sell for 300-1800gp. 
+- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]).
+- A silver ring, set with an obsidian gem. Could sell for 300-1800gp. Part of [[Agata's Treasure]].
 ### Objects of Art
-- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears (recovered from [[Kharsan]]) %%SECRET[6]%%
-- A pair of nice wooden spoons (from the palace kitchens in [[Kharsan]]) %%SECRET[7]%%
-- [[Chardon Fan]] ([[Kenzo]]). %%SECRET[7]%%
-- A small wooden box holding six small statuettes, each in the shape of a farm animal. All are clockwork contraptions which, when properly wound, walk and make the appropriate animal noise. There is a cow, a horse, a chicken, a pig, a goat (given to some Dunmari goat herders in [[Session 40 (DuFr)]]), and a sheep. From [[Agata]]’s hut. Probably worth 10-180gp as a set, perhaps 2-35 gp per item ([[Seeker]]). %%SECRET[7]%%
--  A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[10]%%
-- A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[11]%%
-- Carved bone statuette of an eagle (80 - 130 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[12]%%
-- The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[13]%%
-- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[14]%%
-- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[14]%%
-- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[16]%%
-
+- ***(new)*** Dragon statuette glittering with small diamonds, from [[Ursk Treasure|Shadowkeep]]
+- A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
+- A pair of nice wooden spoons, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
+-  A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, [[Grimbaskal's Hoard]]).
+- A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, [[Grimbaskal's Hoard]]).
+- Carved bone statuette of an eagle (80 - 130 gp, [[Grimbaskal's Hoard]]).
+- The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, [[Grimbaskal's Hoard]]).
+- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, [[Grimbaskal's Hoard]]).
+- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, [[Grimbaskal's Hoard]]).
+- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, [[Grimbaskal's Hoard]]).
+- [[Chardon Fan]], part of [[Agata's Treasure]] (carried by Kenzo).
+- A small wooden box holding six small statuettes, each in the shape of a farm animal. All are clockwork contraptions which, when properly wound, walk and make the appropriate animal noise. There is a cow, a horse, a chicken, a pig, a goat (which was [[Session 40 (DuFr)|given to Dunmari goat herders]]), and a sheep. Part of [[Agata's Treasure]]. Probably worth 10 - 180 gp as a set, perhaps 2-35 gp per item (carried by [[Seeker]]). 
 ### Books and Notes
+%% cleanup still needed here %%
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]]
 - [[On the Lost People of the Forests]], by [[Gnaeus]]
 - [[The Runes of Creation]], author unknown
-- A treatise about alchemy carved on metal cylinders, author unknown, from [[Mezzar|Grimbaskal]]'s hoard.  %%SECRET[17]%%
+- A treatise about alchemy carved on metal cylinders, author unknown, from [[Mezzar|Grimbaskal]]'s hoard. 
 - The [[Enchiridion of the Occulta Ludum]], a small pamphlet titled in Drankorian, faintly magical and empty inside. Found in Eudomes' tower. 
 - A second copy of “The [[Enchiridion of the Occulta Ludum]]”, also blank and slightly magical. Found in the bedroom of the Elemental Forge workshop.
 - [[Tales Before the Fall]], a huge book written in Giant, with tales of giants, from Eudomes' tower. 
@@ -227,13 +217,17 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. Taken from the Elemental Forge. 
 - Eight red dragon scales, from the [[Elemental Forge Hoard]]
 - Two vials of mercury, from the [[Elemental Forge Hoard]]
-- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[18]%%
+- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[7]%%
 - Blank spell scroll ([[Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. 
-- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[19]%%
+- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[8]%%
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
-- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[20]%%
+- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[9]%%
 - Metal vial with acidic liquid from gnoll war leader ([[Raven's Hold]], [[Wellby]]). No obvious value.
 ### Miscellany and Trade Goods
+- *(new)* A gold-gilded black breastplate engraved with the silhouette of a dragon, from [[Ursk Treasure|Shadowkeep]]
+- *(new)* Two suits of gold-gilded black plate armor engraved with the silhouette of a dragon, from [[Ursk Treasure|Shadowkeep]]
+- *(new)* A gold-gilded black shield engraved with the image of two dragon wings, from [[Ursk Treasure|Shadowkeep]]
+- *(new)* A bone key that unlocks doors in [[Shadowkeep]], from [[Ursk Treasure|Shadowkeep]]
 - A wand, broken in half, once magical, but no longer ([[Kharsan]] palace)
 - A nice leather saddle, cut into four pieces, once magical, but no longer ([[Kharsan]] palace)
 - Delwath's elven armor from the days of the Great War, now no longer magical 
@@ -243,9 +237,9 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - Key ring that opens the door to the werewolf lair, as well as the cells and chains in the prison. Carried by the werewolf guard captain. No obvious value.
 - Small key that opens the chest in the secret room in the Empty Moon lair. Taken from the werewolf leader. No obvious value.
 - Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]
-- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[21]%%
-- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[22]%% 
-- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[23]%%
+- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[10]%%
+- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[11]%% 
+- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[12]%%
 ## Vindristjarna
 
 The following magical items are kept on [[Vindristjarna]]: 
@@ -257,7 +251,7 @@ The following magical items are kept on [[Vindristjarna]]:
 
 The following mundane items are kept on [[Vindristjarna]]:
 
-- A large wooden spice chest (Grimbaskal's Hoard). Contains 20 pounds of salt (60 gp), 2 pounds of saffron (70 gp), 10 pounds of cinnamon (150 gp), 10 pounds of cloves (150 gp), 5 pounds of allspice (60 gp), 5 pounds of peppercorn (75 gp), and a set of silver weights, measures, and grinding implements (25 gp).  %%SECRET[24]%%
+- A large wooden spice chest (Grimbaskal's Hoard). Contains 20 pounds of salt (60 gp), 2 pounds of saffron (70 gp), 10 pounds of cinnamon (150 gp), 10 pounds of cloves (150 gp), 5 pounds of allspice (60 gp), 5 pounds of peppercorn (75 gp), and a set of silver weights, measures, and grinding implements (25 gp).  %%SECRET[13]%%
 
 [[Vindristjarna]] also has a number of special facilities: [[Vindristjarna Room Planning]].
 ## Other Rewards

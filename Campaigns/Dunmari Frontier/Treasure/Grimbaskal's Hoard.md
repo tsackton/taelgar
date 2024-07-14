@@ -80,3 +80,12 @@ Treasure found in the lair of the green dragon [[Mezzar|Grimbaskal]], in the [[E
 - A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[30]%%
 
 - A perfect emerald hung on a silver chain (1000 - 2000 gp, from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] %%SECRET[25]%%
+
+
+-  A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[6]%%
+- A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[13]%%
+- Carved bone statuette of an eagle (80 - 130 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[14]%%
+- The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[15]%%
+- A life-sized wooden statute of an owl, carved from a single piece of wood, deep red in color, with gems for eyes and silver highlights on the feathers and talons (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[16]%%
+- A harp, its pillar carved to represent a beautiful elf (30 - 180 gp, from [[Mezzar|Grimbaskal]]'s Hoard)%%SECRET[16]%%
+- A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, from [[Mezzar|Grimbaskal]]'s Hoard) %%SECRET[18]%%

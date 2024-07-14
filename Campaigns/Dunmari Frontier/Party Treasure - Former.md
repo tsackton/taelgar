@@ -89,7 +89,8 @@
 
 ## Given Away
 
-- [[Message Stone]] (uncommon minor item) (given to [[Sura]]) paired with Wellby's message stone.
+- The Watcher Pendant - a very elaborate design, set with diamonds, taken from Rhodar von Glauer in [[Ursk Treasure|Shadowkeep]]. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]].
+- [[Drankorian Message Stone]] (uncommon minor item) (given to [[Sura]]) paired with Wellby's message stone.
 - A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard), given to [[Brimskarda]] as a gift  %%SECRET[5]%% 
 - Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
 - A silver wand that functions as an arcane focus, found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Once possessed by the woman whose skeleton remains in the elemental forge, the [[Fides Lucaris spy]] who attempted to free [[Sh’shethis]]. If a wizard attunes to the silver wand, it gives +1 to spell attacks and spell DC, and also allows the attuned user to cast the Dancing Lights cantrip without requiring concentration. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. 
