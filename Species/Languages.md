@@ -56,7 +56,7 @@ These are languages that derive from Drankorian, and are the native tongues of m
 
 %% Drankorian writing is closely related, or identical to, the written language in Hkar in the years before the Downfall, but the exact variety of Hkaran writing and the evolution of Hkaran writing systems is explicitly left undefined here, and from the perspective of 1700s DR, the alphabet would be referred to as Drankorian anyway, regardless of the exact Hkaran derivation %%
 
-After the fall of the Drankorian Empire, the Drankorian language developed into three main languages: Sembaran, a creole which blended the Eastros Old Tollish with Drankorian, Eastern Drankorian (which developed into Cymean and Isinguese), and Western Drankorian (which developed into Charodian and Illorian). 
+After the fall of the Drankorian Empire, the Drankorian language developed into two main languages: Eastern Drankorian (which developed into Cymean and Isinguese), and Western Drankorian (which developed into Charodian and Illorian). 
 
 _Real world analog: Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations_
 ##### Drankorian
@@ -69,13 +69,13 @@ A number of mutually understandable languages and dialects spoken in the Cymean 
 
 _Real world analog_: Spanish or Portugese, but with some Italian.
 _Alphabet_: Cymean is written using the Drankorian alphabet
-*Intelligibility*: Isinguese is a closely related language, and is usually mutually understandable with Cymean.
+*Intelligibility*: Isinguese is a closely related language, and is usually mutually understandable with Cymean. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is loosely understandable with effort to speaker of Cymean.
 ##### Isinguese
 A number of mutually understandable languages and dialects spoken throughout the [[Istaros Watershed]] before te destruction of [[Isingue]]. Today it survives amongst the Isinguese refugee communities, especially in the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]]. 
 
 _Real world analog_: Spanish or French, more French in the northern areas, Spanish to the south
 _Alphabet_: Isinguese is written using the Drankorian alphabet
-*Intelligibility*: Both Sembaran (especially southern Sembaran) ad Cymean are closely related, and are usually both understandable to speakers of Isinguese.
+*Intelligibility*: Cymean is closely related, and is usually understandable to speakers of Isinguese. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is somewhat understandable with effort to speaker of Isinguese. 
 ##### Chardonian
 A number of mutually understandable languages and dialects spoken in Chardon and the Chardonian Empire, as well as areas under Chardonian influence in the [[Yeraad]] and [[Chasa]] river valleys. A descendant of the Drankorian tongue, although with Northros influences. Chardon sees itself as the inheritor of the Drankorian Empire, and intentionally imitates the Drankorian language in naming.
 
@@ -83,7 +83,7 @@ _Real world analog_: Italian or Latin, with occasional loan words from Classic G
 _Alphabet_: Chardonian is written using the Drankorian alphabet
 *Intelligibility*: Illorian is a closely related language, and is usually mutually understandable with Chardonian.
 
-%% Note: As other nothern dialects or languages are developed, they may also be mutually understandable with Chardonian %%
+%% Note: As other northern dialects or languages are developed, they may also be mutually understandable with Chardonian %%
 ##### Illoria
 The language spoken on the islands of [[Illoria]]. 
 
@@ -100,6 +100,14 @@ Outside of the western shore, the list above should be considered complete for t
 These languages derive from the ancient tongues that were spoken by the first human migrants from [[Hkar]]. They use a diverse set of alphabets.
 
 _Real world analog: Northros languages are based on Semitic languages_
+
+%% note: Northos language scripts are in flux and might change, should generally not be considered canonical, excepting Mawaran%%
+
+##### ~Old Zimkovan~
+The ancient language of the [[Zimkova|Zimka]] people, mostly no longer spoken outside of the most traditional and isolated parts of northern [[Zimkova]].
+
+_Real world analog_: Maltese
+_Alphabet_: Often written in Drankorian, but traditionally used its own alphabet dervived from Dwarven
 ##### Mawaran
 The language spoken in the [[Mawakel Peninsula]] and perhaps other areas once under its cultural influence. It is an ancient language, although there are numerous loan words from Drankorian languages in the modern day. 
 
@@ -110,11 +118,6 @@ A group of mutually understandable dialects and languages spoken by the [[Deno'q
 
 _Real world analog_: Hebrew or Arabic
 _Alphabet_: The Deno'qai use a unique alphabet derived from Elvish
-##### Old Zimkovan
-The ancient language of the [[Zimkova|Zimka]] people, mostly no longer spoken outside of the most traditional and isolated parts of northern [[Zimkova]].
-
-_Real world analog_: Maltese
-_Alphabet_: Often written in Drankorian, but traditionally used its own alphabet dervived from Dwarven
 
 %% Background Note:
 There are numerous undeveloped cultures and partially developed cultures that likely speak a Northros language. This list should not be considered complete. One example is the the [[Vargaldi]], who presumably speak a Northros language, although in game they had numerous Eastros (Slavic) loan words. 
@@ -125,11 +128,22 @@ Additionally, this list may be influenced by further development of the lingusit
 All languages in the Eastros language family derive from ~Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea. They mostly, but not exclusively, use the ~Mariner Language~ alphabet.
 
 _Real world analog: Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages_
+##### ~Mariner Language~
+The ancient language of the mariner culture than left Hkar for the eastern Green Sea, it is extremely rare to find it still spoken today. 
+
+_Real world mapping_: Balto-Slavic
+*Alphabet*: ~Mariner Language~ alphabet
 ##### Skaegish
 The language spoken on the Skaer islands. 
 
 _Real world analog_: Finnish or Norwegian, with some Swedish influences
 *Alphabet*: ~Mariner Language~ alphabet
+##### Urksan
+The language of the closed realm of Ursk. It is very rarely spoken outside of Ursk, as Urskans use Eastros for trade. 
+
+_Real world mapping_: Russian
+*Alphabet*: ~Mariner Language~ alphabet
+
 ##### Old Tollish
 The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor tongue to Zimkovan, and related to Skaegish, it is rarely spoken today, but survives for its value in reading old inscriptions and documents amongst some Tollender academics. 
 
@@ -140,21 +154,22 @@ A group of related languages and dialetics spoken in the highland kingdoms of [[
 
 *Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan). 
 _Alphabet_: Written using the Drankorian alphabet. 
-##### Urksan
-The language of the closed realm of Ursk. It is very rarely spoken outside of Ursk, as Urskans use Eastros for trade. 
+##### Sembaran
+A number of mutually understandable languages and dialects spoken in Sembara, Tyrwingha, and Addermarch. Sembaran, although preserving grammatical structures from Old Tollish, adapted most of its current day vocabulary from Drankorian, as well as an alphabet. Southern Sembaran has more Drankorian influences, whereas Northern Semabaran has more Eastros influences.
 
-_Real world mapping_: Russian
-*Alphabet*: ~Mariner Language~ alphabet
-##### ~Mariner Language~
-The ancient language of the mariner culture than left Hkar for the eastern Green Sea, it is extremely rare to find it still spoken today. 
+_Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch)
+_Alphabet_: Sembaran is written using the Drankorian alphabet
+*Intelligibility*: Tollish is mutually intelligible with Sembaran.
+##### Tollish
+The language spoken in Tollen and parts of the Tollen spheres of influence. It is closely related to Sembaran, and developed from a similar mix of Old Tollish and Drankorian. 
 
-_Real world mapping_: Balto-Slavic
-*Alphabet*: ~Mariner Language~ alphabet
+_Real world analog:_ English, with some Germanic or Slavic loan words
+_Alphabet_: Sembaran is written using the Drankorian alphabet
+*Intelligibility*: Tollish is mutually intelligible with Sembaran.
 
 %% Background Note: 
 There clearly are more languages spoken here, i.e. in Medju, Irrla, MTP, the weird islands, etc. This list should not be considered complete
 %%
-
 ## Miscellaneous Languages
 These languages are not well-classified into existing language families, usually because they are based on blended influences from multiple language families, or because they sit outside the main families. The alphabets and real world analogues of these languages are 
 
@@ -172,18 +187,6 @@ _Real world analog_: Undetermined
 _Alphabet_: Undetermined
 
 %% Background note: The specific history of Vostok is unclear and this language probably has both Nothern and Eastern influences. It could be two or more quite distinct languages.  This is more to document its name and existence without forcing any specific details. If a player wants to speak Vosic more details are probably needed. %%
-##### Sembaran
-A number of mutually understandable languages and dialects spoken in Sembara, Tyrwingha, and Addermarch. Originally a creole language that arose from a combination of Drankorian and Old Tollish, it is now its own language with complex relationships to both Drankorian and Eastros. Southern Sembaran has more Drankorian influences, whereas Northern Semabaran has more Eastros influences.
-
-_Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch)
-_Alphabet_: Sembaran is written using the Drankorian alphabet
-*Intelligibility*: Tollish is mutually intelligible with Sembaran.
-##### Tollish
-The language spoken in Tollen and parts of the Tollen spheres of influence. It is closely related to Sembaran, and developed from a similar mix of Old Tollish and Drankorian. 
-
-_Real world analog:_ English, with some Germanic or Slavic loan words
-_Alphabet_: Sembaran is written using the Drankorian alphabet
-*Intelligibility*: Tollish is mutually intelligible with Sembaran.
 
 ##### Tyrwinghan
 The ancient language of Tyrwingha, still spoken by many Tyrwinghas especially in rural areas. 
