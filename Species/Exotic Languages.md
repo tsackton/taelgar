@@ -14,3 +14,13 @@ Background notes on exotic languages that likely or definitely exist.
 * **Gnoll**: a hideous combination of Abyssal and a magical beast tongue of hyenas; can attempt to understand if you speak Abyssal
 * **Bullywug**: spoken by bullywugs mostly
 * **Grell**: a corrupted form of Deep Speech, spoken by the greel
+
+%% notes on rarity:
+these really are probably properly considered as three separate classes of things:
+(1) alien tongues, which would include not just deep speech and grell, but also e.g. the pictographs of the sentient ocean and the language of the merfolk. 
+(2) draconic and related languages, which must have some strange magic associated with them and need some thought on why they exist 
+(3) "beast speech" of various kinds which are spoken by a range of beastly sentiences; this might potentially even include e.g. bullywugs, who are potentially in some ways akin to giant eagles or other awakened beasts
+
+at the moment I'm not sure if other categories exist, although any unique species would presumably need a language in some way. 
+roughly matches to [[Creating New Species]], when paired with [[Extra-Planar Language]]. 
+%%

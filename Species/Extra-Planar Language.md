@@ -9,3 +9,12 @@ excludePublish: ["all"]
    * **Abyssal:**  The language of the chaotic demons of the Abyss
    * **Infernal:** The language of devils and others native to the Nine Hells
    * **Celestial:** The language of the divine and all the creatures native to the Divine Realms.
+
+
+%% notes on rarity, not canon
+- Sylvan is by far the most common these for people to learn
+- Primordial is second and is often learned by those who are connected in some way to elementals, such as summoners, druids, or others of this nature. 
+- Celestial is typically learned most easily by those with divine magic as it is related to the divine words that bring prayers to the gods and create miracles
+- Infernal, Abyssal, and Shadowkar are somewhat ill-defined, although Shadowkar at least is likely in some way the Shadowfell equivalent of Sylvan, and may be related to undead in some manner. 
+- Left very unclear is whether there are languages of other extra-planar realms, e.g. places like Arborea, Pandemonium, LImbo, and Mechanus and whatever else might exist as the "fundamental planes of raw emotion, curses, etc from the early days of humanity"
+%%
