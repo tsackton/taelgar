@@ -255,7 +255,7 @@ _Real world analog_: Old Norse
 
 %% Note: The Giant alphabet, the Stoneborn alphabet, the original runic language of magic created by the titans, the Dwarven alphabet, and Dwarven runic magic probably all have some relationship, but the exact form is not determined %%
 ##### Halfling
-The secretive and rarely taught language of the halflings, made even more difficult for outsiders to learn given the expectation that speakers of this language will use telepathic cues for emphasis.  The halflings' language is preserved and learned via the racial consciousness; a single dialect covers all halflings across the world, even on diverse continents. The halflings rarely, if ever, teach their secretive language to outsiders. As far as outsiders know, there is no written form of halfling. 
+The secretive and rarely taught language of the halflings, made even more difficult for outsiders to learn given the expectation that speakers of this language will use telepathic cues for emphasis.  The halflings' language is preserved and learned via their shared ancestral consciousness; a single dialect covers all halflings across the world, even on diverse continents. The halflings rarely, if ever, teach their secretive language to outsiders. As far as outsiders know, there is no written form of halfling. 
 
 _Real world mapping_: Igbo, but may change or be diverse
 *Alphabet*: Unknown
