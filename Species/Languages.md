@@ -1,5 +1,5 @@
 ---
-tags: [background, status/tim]
+tags: [background]
 ---
 # Languages 
 
@@ -10,10 +10,10 @@ The history of the languages of other sentient creatures is less well known by s
 The human tongues of the known world are broadly divided up into three major language families based on ancient migrations and cultural divisions on the original human homeland of [[Hkar]]:
 
 * **Northros Language Family**: A set of languages spoken across the northern reaches of Taelgar, named Northros by Drankorian cataloguers of languages. These languages are spoken by the cultures that departed Hkar in the ancient days.
-* **Eastros Language Family**: A set of languages spoken primarily across the eastern parts of the [[Green Sea]], as far west as [[Skaerhem|Skaer]]. This language is derived from an ancient mariner culture that originally settled much of the [[Green Sea]] region, and these languages were given the name Eastros by Drankorian scholars.
-* **Drankorian Language Family**: A set of languages spoken by [[Drankorian Empire|Drankor]] and its successor cultures. It is derived from the language spoken on [[Hkar]] and the time of the [[The Downfall|Downfall]].
+* **Eastros Language Family**: A diverse set of languages spoken across the [[Green Sea]]. This language is derived from an ancient mariner culture that originally settled much of the [[Green Sea]] region, and these languages were given the name Eastros by Drankorian scholars.
+* **Drankorian Language Family**: A set of languages spoken by [[Drankorian Empire|Drankor]] and many of its successor cultures. It is derived from the language spoken on [[Hkar]] and the time of the [[The Downfall|Downfall]].
 
-There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from Drankor of very different languages spoken in the far east or far south.
+There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from [[Drankor]] of very different languages spoken in far-flung places distant from the center of the [[Drankorian Empire]]. 
 
 %% Background Note:
 This section is intended to be both canonical and sufficiently vague as to not block new invention. Broadly, the assumption is that each of the [[Human Cultures of Taelgar|migrations from Hkar]] map to a specific language family:
@@ -22,7 +22,7 @@ This section is intended to be both canonical and sufficiently vague as to not b
 * Mariner Migration = Eastros
 * Downfall Refugees = Drankorian
 
-Where the minor migrations, such as the Dunmari, would have potentially unique histories, and may or may not fit into one of the language families above, 
+Minor migrations, such as the Dunmari, potentially unique histories, and may or may not fit into one of the language families above.
 
 When determining real-world language analogues:
 * Northos in general uses Semitic languages
@@ -32,7 +32,7 @@ When determining real-world language analogues:
 Non-Human tongues should generally avoid Indo-European or Semitic, but also do not necessarily need a clear and well defined mapping to real-world human languages.
 %%
 ## Trade Languages
-Availability of magic and magical communication and travel, while rare, is frequent enough to encourage the spread of common trade tongues. Many non-human creatures also know trade languages, which allow communication among creatures of disparate backgrounds. Trade tongues are best thought of as pidgins, and they rarely allow for the full nuance of a native tongue. There are two trade tongues in common usage: **Common** and **Eastros**. 
+Availability of magical communication and travel, while rare, is frequent enough to encourage the spread of common trade tongues. Many non-human creatures also know trade languages, which allow communication among creatures of disparate backgrounds. Trade tongues are best thought of as pidgins, and they rarely allow for the full nuance of a native tongue. There are two trade tongues in common usage: **Common** and **Eastros**. 
 ##### Common
 An ancient trade tongue derived from the original language of humans, it is commonly used by non-humans, especially halflings to conduct business and trade, and is widely spoken by human traders and travelers, especially across the lands that were once part of the Drankorian Empire. Common is a trade pidgin, and as such has no native speakers and a less developed vocabulary than most languages. 
 
@@ -40,27 +40,29 @@ _Real world analog_: Modern English. Place or personal names written out (i.e. [
 _Alphabet_: No native alphabet. When written, it is usually written phonetically in the speakers native alphabet.
 _Intelligibility_: Most speakers of any human language can understand simple words in Common
 ##### Eastros
-A trade pidgin derived from the languages of the Eastros language family, it is widely spoken in the eastern Green Sea, especially by the halfling sailors and those that trade with them. It can be heard as far west as Tollen and Cymea, and even occasionally in the port cities of Sembara., but it is very rarely spoken beyond the shores of the Green Sea. It has numerous loan words from ~Mariner Language~.
+A trade pidgin derived from the languages of the Eastros language family, it is widely spoken in the eastern Green Sea, especially by the halfling sailors and those that trade with them. It can be heard as far west as [[Tollen]] and [[Cymea]], and even occasionally in the port cities of [[Sembara]], but it is very rarely spoken beyond the shores of the Green Sea. It has numerous loan words from ~Mariner Language~.
 
 _Real world analog_: Balto-Slavic.
 _Alphabet_: Eastros is written using the ~Mariner Alphabet~. 
 *Intelligibility*: Speakers of ~Mariner Language~ can understand Eastros. 
 
 %% 
-Background Note: ~Mariner Language~ developed as a separate tongue from Common primarily because of the mariner's explicit cultural rejection of the Hkaran elite, who spoke the language Common is derived from. Eastros is in turn a remanent/pidgin derived from the ~Mariner Language~. Halfling telepathy and long-lived non-humans are the primary mechanisms that prevents linguistic drift of these trade tongues. 
+Background Note: ~Mariner Language~ developed as a separate tongue from the original "Human" language of Hkar, from which Common is derived, primarily because of the mariner's explicit cultural rejection of the urban Hkaran elite, who spoke the language Common is derived from. Eastros is in turn a remanent/pidgin derived from the ~Mariner Language~. Halfling telepathy and long-lived non-humans are the primary mechanisms that prevents linguistic drift of these trade tongues. 
 
 Common could reasonably be spoken as a trade pidgin anywhere, and human populations where common is rare, or where a different trade pidgin is spoken, should have an explanation.
 %%
 ## Drankorian Language Family
 These are languages that derive from Drankorian, and are the native tongues of most of the lands that were once part of the Drankorian Empire. All Drankorian languages are written using the Drankorian alphabet.
 
-%% Drankorian writing is closely related, or identical to, the written language in Hkar in the years before the Downfall, but the exact variety of Hkaran writing and the evolution of Hkaran writing systems is explicitly left undefined here, and from the perspective of 1700s DR, the alphabet would be referred to as Drankorian anyway, regardless of the exact Hkaran derivation %%
+%% Drankorian writing is closely related, or identical to, the written language in Hkar in the years immediately before the Downfall, but the exact variety of Hkaran writing and the evolution of Hkaran writing systems is explicitly left undefined here, and from the perspective of 1700s DR, the alphabet would be referred to as Drankorian anyway, regardless of the exact Hkaran derivation %%
 
 After the fall of the Drankorian Empire, the Drankorian language developed into two main languages: Eastern Drankorian (which developed into Cymean and Isinguese), and Western Drankorian (which developed into Charodian and Illorian). 
 
 _Real world analog: Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations_
 ##### Drankorian
 The ancient language spoken across the [[Drankorian Empire]], now preserved as a scholarly language. Although spoken conversation in Drankorian is rare, many scholarly and literary works are written in Drankorian.
+
+%% Over the past 150 years, since the Great War, Drankorian has declined significantly in use as a scholarly language, and many treatises are now written in Chardonian. While many scholars still learn Drankorian, it is no longer a common diplomatic and literary language%%
 
 _Real world analog_: Classical Latin; occasional Classical Greek loan words
 _Alphabet_: Drankorian is written using the Drankorian alphabet
@@ -69,21 +71,21 @@ A number of mutually understandable languages and dialects spoken in the Cymean 
 
 _Real world analog_: Spanish or Portugese, but with some Italian.
 _Alphabet_: Cymean is written using the Drankorian alphabet
-*Intelligibility*: Isinguese is a closely related language, and is usually mutually understandable with Cymean. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is loosely understandable with effort to speaker of Cymean.
+*Intelligibility*: Isinguese is a closely related language, and is usually mutually understandable with Cymean. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is loosely understandable with effort to speakers of Cymean.
 ##### Isinguese
-A number of mutually understandable languages and dialects spoken throughout the [[Istaros Watershed]] before te destruction of [[Isingue]]. Today it survives amongst the Isinguese refugee communities, especially in the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]]. 
+A number of mutually understandable languages and dialects spoken throughout the [[Istaros Watershed]] before te destruction of [[Isingue]]. Today it survives amongst the Isinguese refugee communities, especially in the [[Duchy of Maseau]] and the [[Refounded Alliance of Aurbez]], and can also be occasionally heard in [[Tollen]]. 
 
 _Real world analog_: Spanish or French, more French in the northern areas, Spanish to the south
 _Alphabet_: Isinguese is written using the Drankorian alphabet
 *Intelligibility*: Cymean is closely related, and is usually understandable to speakers of Isinguese. Sembaran shares a large vocabulary with Isinguese and to a lesser extent Cymean, but uses a different grammar; it is somewhat understandable with effort to speaker of Isinguese. 
 ##### Chardonian
-A number of mutually understandable languages and dialects spoken in Chardon and the Chardonian Empire, as well as areas under Chardonian influence in the [[Yeraad]] and [[Chasa]] river valleys. A descendant of the Drankorian tongue, although with Northros influences. Chardon sees itself as the inheritor of the Drankorian Empire, and intentionally imitates the Drankorian language in naming.
+A number of mutually understandable languages and dialects spoken in Chardon and the Chardonian Empire, as well as areas under Chardonian influence, such as the [[Chasa River Valley]] and the northwest coast of the [[Apporia|Apporian Peninsula]]. A descendant of the Drankorian tongue, although with Northros influences. Chardon sees itself as the inheritor of the Drankorian Empire, and intentionally imitates the Drankorian language in naming.
 
 _Real world analog_: Italian or Latin, with occasional loan words from Classic Greek. Chardon itself tends to be more Latinate, in imitation of Drankor, whereas other dialects are more Italian.
 _Alphabet_: Chardonian is written using the Drankorian alphabet
 *Intelligibility*: Illorian is a closely related language, and is usually mutually understandable with Chardonian.
 
-%% Note: As other northern dialects or languages are developed, they may also be mutually understandable with Chardonian %%
+%% Note: As other northern dialects or languages are developed, they may also be mutually understandable with Chardonian. The exact historical relationship between Chardonian and other Western Drankorian languages is currently unclear. %%
 ##### Illoria
 The language spoken on the islands of [[Illoria]]. 
 
@@ -122,10 +124,10 @@ _Alphabet_: Unknown. %% Previously was stated as an alphabet based on Elvish, bu
 %% Background Note:
 There are numerous undeveloped cultures and partially developed cultures that likely speak a Northros language. This list should not be considered complete. One example is the the [[Vargaldi]], who presumably speak a Northros language, although in game they had numerous Eastros (Slavic) loan words. 
 
-Additionally, this list may be influenced by further development of the lingusitic and cultural mixing that occured in Vostok, Sembaran, and the Western Green Sea as the Skaer/Mariner culture interacted with the Zimka/Northern culture. It is not totally clear wheter the language of Vostok should be Northros or Eastros, for example. 
+Additionally, this list may be influenced by further development of the linguistic and cultural mixing that occurred in Vostok, Sembaran, and the Western Green Sea as the Skaer/Mariner culture interacted with the Zimka/Northern culture. It is not totally clear whether the language of Vostok should be Northros or Eastros, for example. 
 %%
 ## Eastros Language Family
-All languages in the Eastros language family derive from ~Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea. They mostly, but not exclusively, use the ~Mariner Language~ alphabet. There is at least one subfamily of the Eastros language grouping, the Tollish languages, which developed from Old Tollish, spoken around the Western Gulf in the days before the coming of the Drankorians. 
+All languages in the Eastros language family derive from ~Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea and spread as far west as the shores of the [[Western Gulf]]. They mostly, but not exclusively, use the ~Mariner Language~ alphabet. There is at least one subfamily of the Eastros language grouping, the Tollish languages, which developed from Old Tollish, spoken around the Western Gulf in the days before the coming of the Drankorians. 
 
 _Real world analog: Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages_
 ##### ~Mariner Language~
@@ -170,7 +172,9 @@ _Alphabet_: Sembaran is written using the Drankorian alphabet
 There clearly are more languages spoken here, i.e. in Medju, Irrla, MTP, the weird islands, etc. This list should not be considered complete
 %%
 ## Miscellaneous Languages
-These languages are not well-classified into existing language families, usually because they are based on blended influences from multiple language families, or because they sit outside the main families. The alphabets and real world analogues of these languages are 
+These languages are not well-classified into existing language families, for various reasons.
+
+%% Some of these may evolve, e.g. Vosic, and be placed into a main family. Others are pretty solidly their own mini-families, such as Dunmari.%%
 ##### Dunmari
 The language spoken by the Dunmari people. 
 
@@ -186,7 +190,7 @@ _Alphabet_: Undetermined
 
 %% Background note: The specific history of Vostok is unclear and this language probably has both Nothern and Eastern influences. It could be two or more quite distinct languages.  This is more to document its name and existence without forcing any specific details. If a player wants to speak Vosic more details are probably needed. %%
 ##### Tyrwinghan
-The ancient language of Tyrwingha, still spoken by many Tyrwinghas especially in rural areas. 
+The ancient language of Tyrwingha, still spoken by many Tyrwinghans especially in rural areas. 
 
 _Real world analog_: Welsh
 *Alphabet*: ~Mariner Language~ alphabet, although many Tyrwinghans are not aware of the shared alphabet with Skaegish and Old Tollish
@@ -219,7 +223,7 @@ The language of the elves, and often associated with magic. The term "elvish" en
 The language of the lizardfolk. Often learned by those who spend time living in lizardfolk communities. Although there are numerous dialectics, they are all mutually comprehensible.
 
 _Real world analog_: Basque
-*Alphabet*: Lizardling is usually written in the local alphabet, i.e. Drankorian or Eastros, or occasionally, a simplified form of Elvish
+*Alphabet*: Unknown. %% Possibly Lizardling is usually written in the local alphabet, i.e. Drankorian or Eastros, or occasionally, a simplified form of Elvish, but leaving undetermined for now if there is a distinctive lizardling script.%%
 
 ##### Stoneborn
 The language of the Stoneborn. Often learned by those who spend time in Stoneborn communities. There are no known variants or dialectics, and examples of writing are rare.
@@ -236,7 +240,7 @@ _Real world analog_: Turkic
 ##### Free Orcish
 The [[People of the Rainbow]] speak a dialect of Orcish that although based on Orcish, has numerous additional words. Although most speakers of Orcish can communicate with the People of the Rainbow, their orcish dialect is not always understandable to those who only know traditional orcish.  
 
-_Alphabet_: The free Orcs have developed a writing system based on a modified Drankorian alphabet.
+_Alphabet_: The free Orcs developed a writing system based on a modified version of the Elvish alphabet, during their early years living in the fey realm of [[Amberglow]]. 
 %%^End%%
 ##### Goblin
 A term for a large number of related languages spoken by hobgoblins and their slaves and allies. Hobgoblin clans often invent secret languages for themselves, but a common creole, derived from the language spoken by Cha'mutte's armies, is the closest thing to a common language. It is called _katonylev_ (or "army tongue") by speakers, but for most outsiders this is what is known as Goblin.
@@ -249,7 +253,7 @@ The language created by the elder titans of old, and now spoken by the giants an
 _Real world analog_: Old Norse
 *Alphabet*: Giant
 
-%% Note: The Giant alphabet, the Stoneborn alphabet, the original runic language of magic created by the titans, the Dwarven alphabet, and Dwarven runic magic probably all have some relationship, but the exact form is note determined %%
+%% Note: The Giant alphabet, the Stoneborn alphabet, the original runic language of magic created by the titans, the Dwarven alphabet, and Dwarven runic magic probably all have some relationship, but the exact form is not determined %%
 ##### Halfling
 The secretive and rarely taught language of the halflings, made even more difficult for outsiders to learn given the expectation that speakers of this language will use telepathic cues for emphasis.  The halflings' language is preserved and learned via the racial consciousness; a single dialect covers all halflings across the world, even on diverse continents. The halflings rarely, if ever, teach their secretive language to outsiders. As far as outsiders know, there is no written form of halfling. 
 
@@ -275,7 +279,7 @@ _Real world mapping_: Sioux
 _Alphabet_: Unknown
 %%^End%%
 ### Extra-Planar Languages
-Time and space do not work on the other planes as they do on the material plane, and each plane tends to be represented by a single language. These are typically difficult, although not impossible, for outsiders to learn. 
+Time and space do not work on the other planes as they do on the material plane, and each plane tends to be represented by a single language. Barring special gifts or blessings of natives of these planes, or magical aid, these are typically difficult, although not impossible, for outsiders to learn. 
 
 The most common [[Extra-Planar Language|extra-planar language]] spoken in Taelgar is **Sylvan**, the language of the Feywild:
 ##### Sylvan
