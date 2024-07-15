@@ -247,13 +247,7 @@ A term for a large number of related languages spoken by hobgoblins and their sl
 
 _Real world analog_: Katonylev is based on Hungarian. Other hobgoblin languages may have diverse real world mappings.
 *Alphabet*: Hobgoblins and other goblinoids use a uniquely created Hobgoblin alphabet, which tends to be shared across languages.
-##### Giant
-The language created by the elder titans of old, and now spoken by the giants and their descendants. Often learned by scholars, or traders who would venture to giant settlements. Commonly learned by dwarves, especially those of the Sentinels.
 
-_Real world analog_: Old Norse
-*Alphabet*: Giant
-
-%% Note: The Giant alphabet, the Stoneborn alphabet, the original runic language of magic created by the titans, the Dwarven alphabet, and Dwarven runic magic probably all have some relationship, but the exact form is not determined %%
 ##### Halfling
 The secretive and rarely taught language of the halflings, made even more difficult for outsiders to learn given the expectation that speakers of this language will use telepathic cues for emphasis.  The halflings' language is preserved and learned via their shared ancestral consciousness; a single dialect covers all halflings across the world, even on diverse continents. The halflings rarely, if ever, teach their secretive language to outsiders. As far as outsiders know, there is no written form of halfling. 
 
@@ -270,6 +264,13 @@ The language of centaurs. Rarely, but not never, taught to outsiders. Most centa
 
 _Real world mapping_: Diverse, but names often have a classical Greek element
 _Alphabet_: Unknown
+##### Giant
+The language created by the elder titans of old, and now spoken by the giants and their descendants. Often learned by scholars, or traders who would venture to giant settlements. Commonly learned by dwarves, especially those of the Sentinels.
+
+_Real world analog_: Old Norse
+*Alphabet*: Giant
+
+%% Note: The Giant alphabet, the Stoneborn alphabet, the original runic language of magic created by the titans, the Dwarven alphabet, and Dwarven runic magic probably all have some relationship, but the exact form is not determined %%
 
 %%^Campaign:DuFr%%
 ##### Kenku
@@ -278,6 +279,12 @@ The kenku have their own language, although whether the kenku of the north and t
 _Real world mapping_: Sioux
 _Alphabet_: Unknown
 %%^End%%
+
+%%^Campaign:none%%
+%% Merfolk language clearly exists but I don't have details; might be worth putting here at least what we know  %%
+##### Merfolk
+%%^End%%
+
 ### Extra-Planar Languages
 Time and space do not work on the other planes as they do on the material plane, and each plane tends to be represented by a single language. Barring special gifts or blessings of natives of these planes, or magical aid, these are typically difficult, although not impossible, for outsiders to learn. 
 

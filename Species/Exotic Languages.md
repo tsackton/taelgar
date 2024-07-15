@@ -15,12 +15,26 @@ Background notes on exotic languages that likely or definitely exist.
 * **Bullywug**: spoken by bullywugs mostly
 * **Grell**: a corrupted form of Deep Speech, spoken by the greel
 
-%% notes on rarity:
-these really are probably properly considered as three separate classes of things:
-(1) alien tongues, which would include not just deep speech and grell, but also e.g. the pictographs of the sentient ocean and the language of the merfolk. 
-(2) draconic and related languages, which must have some strange magic associated with them and need some thought on why they exist 
-(3) "beast speech" of various kinds which are spoken by a range of beastly sentiences; this might potentially even include e.g. bullywugs, who are potentially in some ways akin to giant eagles or other awakened beasts
+%% A few further notes based on Discord conversations:
 
-at the moment I'm not sure if other categories exist, although any unique species would presumably need a language in some way. 
-roughly matches to [[Creating New Species]], when paired with [[Extra-Planar Language]]. 
+First, any unique race (i.e. from the "unique race" category in [[Creating New Species]]) would certainly have their own language (as well as the elder races and humans), and in fact, the "main page" list of exotic languages certainly includes those. 
+
+Second, the extra-planar languages would likely cover both (a) the element aspect of the Children of the Divine and (b) any fiend/celestial/native-to-another plane creature (i.e. the "Children of Belief" in [[Creating New Species]])
+
+Third, the dragons, elementals, fey, and titans would certainly have had their own languages: draconic is discussed below; sylvan is well developed; titan is unclear but related to giant; elemental is extra-planar and discussed there:
+* Dragons need thought and consideration and which must have some strange magic associated with them and need some thought on why they exist - perhaps related to the language of spellbooks
+* Titans invented some kind of runic writing, but their language is not clearly considered and many or many not be related to Giant
+
+Four, the alien mind creatures, i.e. the "alien" category in [[Creating New Species]], would speak their own exotic languages as well, such as Deep Speech, above. This might not just be deep speech and grell, but also e.g. the pictographs of the sentient ocean and the language of the merfolk.
+
+Fifth, the orcs and goblinoids have their own languages. Other creations of the Void mind probably speak one of those language families, although could end up here as well.
+
+Going through the remaining categories of creature, we have only the soulless creations and the magical. The vast majority of these creatures likely speak other languages, rather than their own species-specific language, although of course there could be exceptions.
+
+This can be restated as effectively saying that there are broadly five categories of languages to be considered Exotic - 
+* Alien tongues, mostly spoken by creatures in the "alien" category
+* Beast speech, a potentially wide variety of tongues spoken by creatures (mostly) in the "awakened" category
+* Planar tongues, or those related to planar tongues, spoken by the elementals and the children of belief
+* The tongues of the children of the divine
+* The tongues of the unique species
 %%
