@@ -36,7 +36,7 @@ Availability of magic and magical communication and travel, while rare, is frequ
 ##### Common
 An ancient trade tongue derived from the original language of humans, it is commonly used by non-humans, especially halflings to conduct business and trade, and is widely spoken by human traders and travelers, especially across the lands that were once part of the Drankorian Empire. Common is a trade pidgin, and as such has no native speakers and a less developed vocabulary than most languages. 
 
-_Real world analog_: Undefined. Very few names or place names would be written in Common.
+_Real world analog_: Modern English. Place or personal names written out (i.e. [[Copper Hills]] or [[Sentinel Range]] or [[Copperharps]] or [[Gemcrafters]]) should usually be read as being Common, in world. 
 _Alphabet_: No native alphabet. When written, it is usually written phonetically in the speakers native alphabet.
 _Intelligibility_: Most speakers of any human language can understand simple words in Common
 ##### Eastros
@@ -53,6 +53,8 @@ Common could reasonably be spoken as a trade pidgin anywhere, and human populati
 %%
 ## Drankorian Language Family
 These are languages that derive from Drankorian, and are the native tongues of most of the lands that were once part of the Drankorian Empire. All Drankorian languages are written using the Drankorian alphabet.
+
+%% Drankorian writing is closely related, or identical to, the written language in Hkar in the years before the Downfall, but the exact variety of Hkaran writing and the evolution of Hkaran writing systems is explicitly left undefined here, and from the perspective of 1700s DR, the alphabet would be referred to as Drankorian anyway, regardless of the exact Hkaran derivation %%
 
 After the fall of the Drankorian Empire, the Drankorian language developed into three main languages: Sembaran, a creole which blended the Eastros Old Tollish with Drankorian, Eastern Drankorian (which developed into Cymean and Isinguese), and Western Drankorian (which developed into Charodian and Illorian). 
 
@@ -193,7 +195,7 @@ _Real world analog_: Welsh
 The original human language, it still survives in a modified form in Common, but is otherwise no longer known to be spoken. Extremely rarely known in the modern day. %% There may of course be Old Hkaran and other lost ancient tongues that ancient inscriptions are written in %%
 
 _Real world analog_: Indo-European, broadly
-*Alphabet*: The Hkaran alphabet, of which Drankorian is a derivative
+*Alphabet*: Unknown. %% In general the immediate pre-Downfall Hkaran writing is very similar to Drankorian, but the exact evolution is left undetermined, and any Hkaran alphabets are lost anyway %%
 
 ## Non-Human Languages
 There are many diverse languages amongst the non-human inhabitants of Taelgar, but with the chief exception of the goblinoids, it is rare for any given non-human species to speak more than one language. Some of these languages are commonly learned by outsiders, while others are rare, magical, or mythical. These languages are at least sometimes learned by outsiders, and in some cases, such as lizardfolk and dwarvish, there are many non-native speakers.  
