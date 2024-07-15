@@ -84,9 +84,6 @@ And maybe these things aren't easy to do, so it isn't like elves are secret bill
 
 I think this idea is worth developing a little bit, but I guess I don't yet have a good sense of the vibe. I like the idea that there is "richer and poorer" in elven society based not on material wealth but on what you create, what new things you bring into the world. But I'm not sure how this fits with strong intellectual property protections, which seem more about enabling capitalism and guaranteeing return on investment. If it is about the value of the artist, couldn't you go the other way and say that elven artists want to be copied, since that proves their worth? If no one imitates you, you don't make a mark on the world, that kind of thing.
 
-## Brainstorming from Google Docs
-Five races (elves, dwarves, stoneborn, lizardfolk, and halflings) are known as the Elder Races. They were created by the Divine before time, through the influence and action of the Firstborn of their race, as described in more detail in the [description](https://docs.google.com/document/d/1lXvZcuZZhv9DriPABcfw6EMVS7JQXqQmX9JlPvUWR_k/edit#) of gods and the age of myth. These races draw their strength and abilities through their connection to the Embodied Gods, which both gives them power and constrains them. While some of these races are relatively common (dwarves and halflings), others are uncommon (lizardfolk, stoneborn), or rare (elves). 
-
   
 
 Elves, the oldest of the Elder races, ancient and fey, graceful and full of magic, but also haughty and aloof to the world of the younger races, are described in this document. The D&D mechanics of this race are on [D&D Beyond.](https://www.dndbeyond.com/races/372362-elf-taelgar) 
@@ -304,35 +301,7 @@ The elves view the passing of time differently than other races. Time flows for 
 
 The ages of the elves mark momentous events, changes in the world that can reshape and reconfigure the face of Taelgar itself. Elven loremasters and scholars can see the coming end of an age, and interpret events, signs and portents to determine when the age has ended and proclaim the new age has come. 
 
-  
-
-The ages of the past:
-
-Like all elves, Delwath has a sense of the depth of time and the past cycles of history, but not being a student of history himself has only a vague and passing awareness of the details.
-
-  
-
-The Age of Creation: the timeless era when elves first came to the world, before the Dreamworld, the Feywild and Shadowfell, and all the other echos and reflections of Taelgar had separated from the Material Plane. The Age of Creation ended with the splitting of the planes and the formation of the echo realms, the other planes that reflect and echo and distort the world of Taelgar. (years not really real here)
-
-  
-
-The Age of Myth: birth of the elves; learning of magic, foretelling of the other races to come, building of great empires, coming of the orcs and other darknesses, elves victorious, defending of the great empires (0 - 2400 years)
-
-  
-
-The Age of Dawn: coming of humans, the first sundering of elves (between the half-elves, who settled in Hkar, and the rest of the elves). Even more victories for the elves, wars against mind flayers, hobgoblins, etc (2400 - 4100)
-
-  
-
-The Age of Sorrow: The downfall of Hkar and the great cataclysm. The elven empires collapse. Many elves die, but more survive than not, just retreat away from the world. An age of retreat from the affairs of others. The second sundering (between those who believed that foreknowledge of the coming disaster would have helped, and those who agreed with Elmerca for hiding it). By the end of the age, elves drawn back into the conflict with Cha’Mutte. Ultimately a greater acceptance that the elven race is not the only protectors.
-
-(4100 - 5700)
-
-  
-
-The Age of Rebirth: current day… elven society is in tormoil
-
-(5700 onward…)
+See [[History of Taelgar]] for some details on the ages, needs reworking into how elves would describe it.
 
   
 
