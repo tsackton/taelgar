@@ -14,7 +14,7 @@ This note tries to draw together information from various sources to form a semi
 ## Context
 The most important context for the history of humanity in the Greater Sembara area are the three migrations:
 
-* The northerns who came across the Sentinels from the west, long before the Downfall
+* The northerners who came across the Sentinels from the west, long before the Downfall
 * The eastern mariners, who came from the eastern green sea, shortly before the Downfall
 * The Drankorians, who came from the south, during the first phase of Drankorian expansion after the Downfall
 
@@ -42,10 +42,37 @@ The Downfall impacts the lizardfolk and elves more than the humans. The great li
 
 During the next three hundred or so years, the Skaer blossom and an Skaegish Empire spreads along the coasts, ruling and influencing the Tollish culture that had developed in the river valleys and coasts. Some Tollish retreat into the highlands, and mix with the Zimka there.
 
-## Coming of Drankor
-In the 300s, the Drankorians reach the [[Mostreve Hills]], and over the next 50 years or so the Drankorians assimilate the inland people of [[Sembara]] (mostly the Zimka who had spread south) and push the Skaer out, bringing with them the [[Mos Numena]] and the traditions of their vast southern empire. 
+By the year 4400, as the Drankorian expansion begins in the south, there are several human cultures;
 
-Over the next 700 years, Drankor rules all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]]. North of the [[Semb]], Drankor ruled the the region south and west of the [[Volta]], as far north as the [[Braebein]]. This includes the modern day [[Sembara]], [[Ardlas]], [[Duchy of Maseau|Maseau]], [[Addermarch]], and [[Tyrwingha]] which are all broadly ruled as "the Sembaran Provinces" and grow to share a Mos Numena worshipping culture and a common language. 
+* An increasingly isolated northerner branch of the Zimka, preserving the kestavo traditions and speaking a Northros language, mostly in the Upper Volta, but with ties to a northern Vostok culture as well. 
+* A Tollish/Zimka culture, speaking Old Tollish, but increasingly seeing itself as culturally connected to the traditionalist Zimka, and worshipping the kestavo, in the foothills of the Sentinels and the southern river valleys, speaking an Eastros language  %% how they ended up worshipping the kestavo is undefined here %%, increasingly seeing itself in opposition or at least as different from the coastal Skaer
+* The Skaer Empire, dominating the coast, speaking Skaegish and worshipping [[Kaikkea]]
+* The Tyrwinghans, in their pocket of the world
+
+Again, Vostok is unclear. This would be an opportune time for interesting things to be happening in Vostok. The coastal Vostok culture at this time is likely dominated by the Skaer.
+## Coming of Drankor
+Between 4475 and 4535 (330s - 400s, DR) Drankor rapidlly expands north, and the Istabor Valley, Cymea, and Sembara and settled by the rapidly growing Drankorian population.
+
+In Istabor and Cymea there are few humans as these lands were once part of the great non-human empires. The Drankorian culture dominates here. North of the Mostreve Hills, however, the Drankorians encounter the Tollish/Zimka culture, and the coastal people with a more purely Tollish/Skaer culture (%% potentially worshipping different gods than the kestavo %%)
+
+The Skaer Empire largely fades away, from a combination of Drankorian pressure and internal politics, and by 4535, the cultural landscape looks like:
+
+* The old Zimka in the north, as always
+* A culture increasingly claiming to be the Zimka, opposed to Drankor (or at least, not part of Drankor), in the highlands and foothills of the Sentinels. This culture develops into the "Zimkovan kingdoms" of [[Breva]], [[Lavnoch]]
+* A central Sembaran culture, speaking Drankorian and worshipping Mos Numena, but with some lasting cultural ideas from the kestavo/Tollish/Zimka culture
+* A coastal/northern Tollish culture, worshipping Mos Numena and speaking both Drankorian and Old Tollish (this becomes Telham/Tollen area)
+* A southern culture, in [[Duchy of Maseau|Maseau]] and the [[Istaros Watershed]], somewhat more purely Drankorian, and worshipping Mos Numena
+* A Tyrwinghan culture, spreading somewhat into Addermarch as well, increasingly urbanizing and adopting some Drankorian ways, but with its own unique language and cultural identity
+
+Vostok? It feels like perhaps the coastal Tollish culture is spreading into near southern Vostok here? But interior Vostok is pretty unexplored in the above.
+
+## Fall of Drankor
+For 600-700 years, Drankor rules the Sembaran Provinces in (mostly) peace, and the culture evolves during this time, especially along the borders. 
+
+* In the north, the Zimka increasingly remain kestavan worshippers, and the "old" and "new" Zimka increasingly intermingle and reunify. The Eastros-based language comes to dominate, although some small pockets of Old Zimka remain, especially in a ritual context, and many of the kestavo have Old Zimka names. 
+* In the central Sembaran provinces, the intercessionist form of Mos Numena develops and a broad Sembaran culture starts to form
+* In Tyrwingha, there is much intermixing with the Sembaran culture, but a strong traditionalist attitude as well, and the Tyrwinghan language remains common in rural areas, but the Sembaran form of worship is adopted with some small Tyrwinghan flavors
+* Maseau and the Istabor Watershed increasingly develops a l
 
 ## The Modern Era
 

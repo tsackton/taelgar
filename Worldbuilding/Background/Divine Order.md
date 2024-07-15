@@ -1,55 +1,15 @@
 ---
-tags: [background]
+tags: [background, status/needswork/notes]
 ---
 
-**# The Nature of the Divine
+%% 
+This needs updates based on various refinements, and could probably be incorporated into other notes in some cases. For now I've removed the creation story as part of incorporating it into the main History of Taelgar article 
+%%
+## The Nature of the Divine
 
 Gods in Taelgar are real, and many have an active presence in the world around them, although others are long faded, or unable to influence the world directly for various reasons. However, the metaphysical and magical nature of the Divine is complex. This document summarizes the creation of the world and the gods, the distinctions between various types of gods that exist in Taelgar, and briefly outlines major religions and creation stories of various races, although these are described in more detail in other places. The other planes are described elsewhere, as is the nature of magic in the material plane. 
 
-## The Creation Story
-
-This is the story, told in brief, of the first ages of the world, called the Elder Days, and the origin of the gods.
-
-### The Age of Myth
-
-In the beginning, there was the Void, an endless space that was at once nothing and everything. Into this Void the Divine Beings came into existence. Known as Arha and Malik, representing life and death, creation and destruction, these beings have taken many other names and forms in the annals of myth and legend of the world, and scholars debate their true nature. 
-
-  
-
-As Arha and Malik tore through the fabric of the Void, and shaped its energy into the creation of the material plane and the world of Taelgar, something in the Void awoke that did not want a world to be, sometimes called the Void Mind or the Undivine. This utterly alien mind, if that was the right word for it, could not create, even the smallest pebble, for the act of Creation itself was antithetical to its very existence, but it sought to erase all of Arha and Malik’s work.
-
-  
-
-The first entities to exist in the new world of Taelgar were the children of Arha and Malik. Born from the raw magic of the world and the other planes, these were the great wyrms, the titans, the elder elementals, and the archfey. They spread during the Age of Myth, building great empires with cities towering over the lands, weaving dreamscapes of immense power, and creating echos and reflections of themselves in many forms. Nothing remained still long enough to be named and understood, and the world was ruled by chaos. 
-
-  
-
-So Arha and Malik gave form to the embodied gods, into whom they imbued some of their Divine energy, the raw power of creation and destruction of their Divine Realm. These gods are also known as the Firstborn of the Elder Races: Aldanor and Elmerca, the Living Tree and the Wild Star of the elves; Entamba, the Elder Mountain of the stoneborn; Hazkunde, Bero, Udazkena, and Negu, known as Spring, Summer, Autumn, and Winter, the four Tharzen Anzinakoa of the lizardfolk; the Ruler, Runemaster, Priest, Warrior, Traveler, Stoneworker, and Farmer, the seven Bahrazel of the dwarves; and Nwana, called the Stranger-Child, Obito, called the Merchant-Musician, and Jemghari, called the Traveler-Storyteller, the two-faced First Ones of the halflings.
-
-  
-
-The Void Mind had been waiting, and watching, and as Arha and Malik shaped the embodied gods and bestowed them with Divine power, the Void Mind stole the breath of the Divine, and out of itself spun the Three Despairs: Umidzka, the Empty; G’Zab, the All Consuming; and Jinnik, the Madness, and through these beings this mind worked in the shadows against the creations of the Divine. It is said that the first act of the Three Despairs was to use their stolen Divine power to embody a god of their own, and out of the union of G’Zab and Umidzka, Thark, the God of War Without End was born. Rumors other creations of the Despairs persist: the Goddess of the End, the Hopeless One, the offspring of G’Zab and Jinnik; the Endless Chaos, the offspring of Umidzka and Jinnik; the Mad One, the embodied avatar of Jinnik. Some have even speculated that the Three Despairs unleashed embodied curses into the world, attributing the curse of undeath and necromancy to Umidzka, and the curse of lycanthropy to Jinnik.
-
-### The Age of Creation
-
-The Age of Myth came to an end as Arha and Malik perceived the world they spawned had become consumed by chaos, with little fixed form and endless change wrought by their divine creations. Drawing on the full strength of their endless Divine power, they sundered the multiverse, ripping the echo realms from the material plane, making the world round and the land fixed in form, and, some say, spawning an endless number of parallel realities.
-
-  
-
-The children of the Divine and the embodied gods fled as magic diminished in Taelgar, retreated to other planes. But into the newly empty lands of Taelgar, the embodied gods created the Elder Races. First, the elves, followed by the stoneborn, the lizardfolk, the dwarves, and finally the halflings. These Elder races quickly grew to dominate the landscape. They walked the land, built great civilizations, created, and lived, and died, their souls going to join their creators. 
-
-  
-
-And yet, Arha and Malik were not finished, and after many centuries created one last thing: the humans. They raised a great land in the ocean to be their homeland, which became known as Hkar. Humans, unlike the Elder races, were gifted the power of the divine spark. With this power, the humans were granted the ability to will into being aspects of the Divine by their belief alone. As humans spread across Hkar, and eventually beyond, aware of the divine presence in everything but without the names of gods to worship -- for Arha and Malik did not answer their prayers or manifest themselves in the world for humans to see -- the first human religions began to take shape, and the first Incorporeal Gods came into being. 
-
-  
-
-In secret, though, through the long years the Void Mind and the Three Despairs were still at work. The Void Mind, picking at torn edges of the multiverse, allowed alien horrors from Far Realms to leak through. Through Thark, the orcs were born, slaves to the compulsion of their creator to seek nothing but war and violence. And finally, the Three Despairs breathed life into life a new race, the hobgoblins, a race of people that would have no god, that would see no Divine, that would forsake the divine spark of humans.
-
-  
-
-The Elder Days ended in conflagration, as a great war broke out between the Elder races and these evils unleashed into the world, In these battles, the land of Hkar was destroyed, and the world changed, as the Elder races withdrew from prominence and the age of humans began.
-
+For the story of the creation of the gods, see [[History of Taelgar]] and in particular the [[Age of Myth]] and [[The Riving]].
 ## The Gods of Taelgar
 
 The elves recount many types of divine and near-divine powers, some known well to them, others distant tales of myth and legend. These are recounted here, roughly in order from the strongest, most powerful beings, to the weakest.
