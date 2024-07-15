@@ -107,7 +107,7 @@ _Real world analog: Northros languages are based on Semitic languages_
 The ancient language of the [[Zimkova|Zimka]] people, mostly no longer spoken outside of the most traditional and isolated parts of northern [[Zimkova]].
 
 _Real world analog_: Maltese
-_Alphabet_: Often written in Drankorian, but traditionally used its own alphabet dervived from Dwarven
+_Alphabet_: Unknown. %% Previously was stated as an alphabet based on Dwarven, but it might be better to have it be a Northros alphabet %%
 ##### Mawaran
 The language spoken in the [[Mawakel Peninsula]] and perhaps other areas once under its cultural influence. It is an ancient language, although there are numerous loan words from Drankorian languages in the modern day. 
 
@@ -117,7 +117,7 @@ _Alphabet_: In the modern day Mawaran is written using the Drankorian alphabet.
 A group of mutually understandable dialects and languages spoken by the [[Deno'qai]] people. It is an ancient language, surviving largely without outside influences.
 
 _Real world analog_: Hebrew or Arabic
-_Alphabet_: The Deno'qai use a unique alphabet derived from Elvish
+_Alphabet_: Unknown. %% Previously was stated as an alphabet based on Elvish, but it might be better to have it be a Northros alphabet %%
 
 %% Background Note:
 There are numerous undeveloped cultures and partially developed cultures that likely speak a Northros language. This list should not be considered complete. One example is the the [[Vargaldi]], who presumably speak a Northros language, although in game they had numerous Eastros (Slavic) loan words. 
@@ -158,20 +158,19 @@ A number of mutually understandable languages and dialects spoken in Sembara, Ty
 
 _Real world analog_: French (more prevalent in the South) and English (more prevalent in the north and Addermarch)
 _Alphabet_: Sembaran is written using the Drankorian alphabet
-*Intelligibility*: Tollish is mutually intelligible with Sembaran.
+*Intelligibility*: Tollish is mutually intelligible with Sembaran. There are numerous cognates between Sembaran and [[Languages#Isinguese|Isinguese]], but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Sembaran.
 ##### Tollish
 The language spoken in Tollen and parts of the Tollen spheres of influence. It is closely related to Sembaran, and developed from a similar mix of Old Tollish and Drankorian. 
 
 _Real world analog:_ English, with some Germanic or Slavic loan words
 _Alphabet_: Sembaran is written using the Drankorian alphabet
-*Intelligibility*: Tollish is mutually intelligible with Sembaran.
+*Intelligibility*: Tollish is mutually intelligible with Sembaran. There are many cognates between Tollish and [[Languages#Isinguese|Isinguese]], but they have a very different grammar. An Isinguese speaker can sometimes pick out some meaning from Tollish.
 
 %% Background Note: 
 There clearly are more languages spoken here, i.e. in Medju, Irrla, MTP, the weird islands, etc. This list should not be considered complete
 %%
 ## Miscellaneous Languages
 These languages are not well-classified into existing language families, usually because they are based on blended influences from multiple language families, or because they sit outside the main families. The alphabets and real world analogues of these languages are 
-
 ##### Dunmari
 The language spoken by the Dunmari people. 
 
@@ -186,13 +185,11 @@ _Real world analog_: Undetermined
 _Alphabet_: Undetermined
 
 %% Background note: The specific history of Vostok is unclear and this language probably has both Nothern and Eastern influences. It could be two or more quite distinct languages.  This is more to document its name and existence without forcing any specific details. If a player wants to speak Vosic more details are probably needed. %%
-
 ##### Tyrwinghan
 The ancient language of Tyrwingha, still spoken by many Tyrwinghas especially in rural areas. 
 
 _Real world analog_: Welsh
 *Alphabet*: ~Mariner Language~ alphabet, although many Tyrwinghans are not aware of the shared alphabet with Skaegish and Old Tollish
-
 ##### Hkaran
 The original human language, it still survives in a modified form in Common, but is otherwise no longer known to be spoken. Extremely rarely known in the modern day. %% There may of course be Old Hkaran and other lost ancient tongues that ancient inscriptions are written in %%
 
@@ -206,7 +203,7 @@ There are many diverse languages amongst the non-human inhabitants of Taelgar, b
 The language of the dwarves. It is often learned by outsiders and traders who want to engage in commerce with the dwarven kingdoms. It has remained essentially unchanged since the beginning of time, and there are no known dialects or variants.
 
 *Real world mapping*: Tolkien Dwarvish
-*Alphabet*: Dwarvish
+*Alphabet*: Dwarvish, but with some similarities to both Giant and Stoneborn writing, and Dwarven Runic Magic
 
 %% Background Note: Gnomish is a separate dialectic of Dwarvish, but not commonly known to exist.  %%
 
@@ -215,6 +212,8 @@ The language of the elves, and often associated with magic. The term "elvish" en
 
 *Real world mapping*: Tolkien Elvish
 *Alphabet*: Elvish
+
+%% When Elmerica creates the elves, they also give the elves language (Elvish), and a writing system (the Elvish script), that is derived from the Sylvan script, but converted to a syllabary and stripped of the magical determinatives. The reasons for using the Sylvan script, as opposed to just invented something out of thin air, are left undetermined for the moment, just matters that this is what happened. %%
 
 ##### Lizardling
 The language of the lizardfolk. Often learned by those who spend time living in lizardfolk communities. Although there are numerous dialectics, they are all mutually comprehensible.
@@ -226,7 +225,7 @@ _Real world analog_: Basque
 The language of the Stoneborn. Often learned by those who spend time in Stoneborn communities. There are no known variants or dialectics, and examples of writing are rare.
 
 _Real world analog_: Xhosan
-*Alphabet*: A unique alphabet derived from the runes of Giants
+*Alphabet*: Stoneborn, but related to Giant
 ##### Orcish
 The language gifted to the orcs by Thark, the God of War. While few outsiders speak this language, those who would engage with orcs in combat or negotiation (to the extent such a thing is possible) do sometimes find a way to learn this tongue. There are no known examples of Orcish writing.  
 
@@ -249,6 +248,8 @@ The language created by the elder titans of old, and now spoken by the giants an
 
 _Real world analog_: Old Norse
 *Alphabet*: Giant
+
+%% Note: The Giant alphabet, the Stoneborn alphabet, the original runic language of magic created by the titans, the Dwarven alphabet, and Dwarven runic magic probably all have some relationship, but the exact form is note determined %%
 ##### Halfling
 The secretive and rarely taught language of the halflings, made even more difficult for outsiders to learn given the expectation that speakers of this language will use telepathic cues for emphasis.  The halflings' language is preserved and learned via the racial consciousness; a single dialect covers all halflings across the world, even on diverse continents. The halflings rarely, if ever, teach their secretive language to outsiders. As far as outsiders know, there is no written form of halfling. 
 
@@ -258,7 +259,7 @@ _Real world mapping_: Igbo, but may change or be diverse
 ### Exotic Languages
 Many other creatures in the world of Taelgar speak a language of their own, including many of the unusual or rarer races in the world. These might include the strange language of clicks and hisses the **Giant Eagles** speak, or the strange demonic-influenced barking tongue of **Gnolls.** Most of these are difficult, if not impossible, to learn to speak without magic (and few have a written alphabet).
 
-There is a wide diversity of these [[Exotic Languages|exotic languages]] but they are almost never spoken by outsiders, although two are languages at least known to the scholars of Tollen and Chardon:
+There is a wide diversity of these [[Exotic Languages|exotic languages]] but they are almost never spoken by outsiders, although the ones below are at least known to the scholars of Tollen and Chardon:
 
 ##### Centaur
 The language of centaurs. Rarely, but not never, taught to outsiders. Most centaurs speak Elvish, Sylvan, or both in addition to their own tongue, and most outsiders who must speak with them do so in one of those tongues.
@@ -281,4 +282,4 @@ The most common [[Extra-Planar Language|extra-planar language]] spoken in Taelga
 The language of the [[Feywild]], also commonly spoken by fairies, satyrs, and other fey inhabitants of Taelgar, as well as elves, Tyrwinghans, and others who have substantial dealings with the fey. It is a lilting and musical language and hints at magical power.
 
 _Real world analog_: None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration.
-_Alphabet_: The Sylvan language is written with a complex script with numerous characters, although transliterations to Elvish characters are common amongst non-native speakers.
+_Alphabet_: Commonly written in Elvish, but with a complex magical writing system as well (see [[Sylvan Writing]] for more details)
