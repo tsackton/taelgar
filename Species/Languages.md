@@ -125,7 +125,7 @@ There are numerous undeveloped cultures and partially developed cultures that li
 Additionally, this list may be influenced by further development of the lingusitic and cultural mixing that occured in Vostok, Sembaran, and the Western Green Sea as the Skaer/Mariner culture interacted with the Zimka/Northern culture. It is not totally clear wheter the language of Vostok should be Northros or Eastros, for example. 
 %%
 ## Eastros Language Family
-All languages in the Eastros language family derive from ~Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea. They mostly, but not exclusively, use the ~Mariner Language~ alphabet.
+All languages in the Eastros language family derive from ~Mariner Language~, the language spoken by the ancient seafaring culture that originally settled the eastern parts of the Green Sea. They mostly, but not exclusively, use the ~Mariner Language~ alphabet. There is at least one subfamily of the Eastros language grouping, the Tollish languages, which developed from Old Tollish, spoken around the Western Gulf in the days before the coming of the Drankorians. 
 
 _Real world analog: Eastros languages are based on Scandinavian, Germanic, and Balto-Slavic languages_
 ##### ~Mariner Language~
@@ -143,9 +143,8 @@ The language of the closed realm of Ursk. It is very rarely spoken outside of Ur
 
 _Real world mapping_: Russian
 *Alphabet*: ~Mariner Language~ alphabet
-
 ##### Old Tollish
-The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor tongue to Zimkovan, and related to Skaegish, it is rarely spoken today, but survives for its value in reading old inscriptions and documents amongst some Tollender academics. 
+The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor tongue to Zimkovan, Sembaran, and Tollish, it is rarely spoken today, but survives for its value in reading old inscriptions and documents amongst some Tollender academics. 
 
 *Real world analog*: Balto-Slavic
 *Alphabet*: ~Mariner Language~ alphabet
