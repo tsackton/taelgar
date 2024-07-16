@@ -8,6 +8,7 @@
 
 In the face of these visions, the ocean questions the party, pressing them, why did you leave your homes? 
 
+%% to edit / clean up 
 Wellby says, or thinks or imagines, all those homes, the tidy, tight little ship cabins that he sailed in for years and years. The sound of the gulls over the water. The wagon homes a little vibe. you know, cabins along with the wagons filled with trade goods. but also thinks and says. beyond all of those this was my fault. and remembers thinking back to all the different times, with a map spread out on the table in front of him all the different map shops and map sellers, and the little book of maps that his family had in the sea charts. and over and over again, putting a finger down across all different ages, from a little young halfling to grown man on the blank places on the map and saying, What's there, what's there over and over again. and at last says that it took me a long time to realize it down to my bones. But that's where my home really is. The blank places on the map.
 
 
@@ -96,3 +97,5 @@ The DM explains the ocean's strategic retreat and stalemate with the warlock. Ri
 
 
 Kenzo inquires about the open portal's reason, and the DM explains the warlock's need for an army. Wellby questions the necessity of closing the portal and implications of taking the jade. Delwath rephrases the goal to defeat the warlock and remove the jade. The DM confirms multiple possible resolutions, including taking the jade to close the portal.  
+
+%%

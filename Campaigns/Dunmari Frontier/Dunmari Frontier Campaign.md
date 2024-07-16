@@ -17,6 +17,7 @@ You might start with:
 You can also explore the skyship [[Vindristjarna]] and the [[Vindristjarna Room Planning|special facilities]] constructed on it.
 
 You can also explore the most recent session, [[Session 102 (DuFr)]] or browse pages mentioned in the sessions in the current adventure (finding the jade in lost among the merfolk):
+
 ```dataview
 TABLE WITHOUT ID Link, join(split(meta(Link).path,"/",2),"/") as Folder
 FROM "Campaigns/Dunmari Frontier/Session Notes/Session 98 (DuFr)" OR"Campaigns/Dunmari Frontier/Session Notes/Session 99 (DuFr)"
