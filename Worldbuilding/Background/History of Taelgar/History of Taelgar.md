@@ -51,19 +51,77 @@ The [[Age of Myth]] was a time before time and before the separation of the plan
 These children of the divine created many things, but all were echoes or distortions of themselves, and although great empires and cities arose and disappearing, nothing was stable.
 
 ## Age of Creation
-The [[Age of Creation]] began with [[The Riving]], when the [[Divine Presence]] separated 
+_1 - 2000 by the Dwarven Count of Years_
+%% There are a variety of notes on the end date here, i.e. when were humans created. Ranges from 1750 to 2400. Might be worth deciding something canonical %%
 
+The [[Age of Creation]] began with [[The Riving]], when the [[Divine Presence]] separated the planes. This was the beginning of time, and the creation of the [[Echo Realms]] and [[Energy Realms]]. This was a period were in many ways, little happened beside the events of the beginning and end. 
 
+At the start of the Age, [[The Riving]], resulted in:
+* The creation of the [[Echo Realms]] and the [[Energy Realms]] and the departure of many of the powerful [[Great Wyrms]], [[Archfey]], [[Titans]], and the elemental powers to other planes
+* The creation of the [[Embodied Gods]] and their creations, the [[Elder Folk]]
+* The creation of the [[Three Despairs]], and in turn, their creations: [[Thark]], the [[Goddess of the End]], the [[Endless Chaos]],  the [[Mad One]]
+* The unleashing of the curses of necromancy and lycanthropy on the world
 
+But broadly, through the rest of the long years of the Age of Creation, little happened. The [[Elder Folk]] learned magic, and writing, and grew, and prospered:
+
+* The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the age, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]]. grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Is Tinwerquë canonical? %%
+* The stoneborn, even less numerous than elves, and always reclusive, do not figure greatly in the stories that remain from these times. As always, the stoneborn hid away in their barren retreats, in the high peaks, the frozen north, and the depths of deserts. However, legends of great masters of art and craft, trained by the Stoneborn, demonstrate the mark they still made on the world.  
+* The lizardfolk remained largely in their homelands, in the vast coastal swamps of the southern [[Green Sea]], stretching from north of what is now the great desert all the way to the Sembaran lowlands.
+* The dwarves grew quickly after they awoke under the [[Sentinel Range]], known to them as [[Labkhan]], and began to build great halls, delving deeper underground. During the Age of Creation, the dwarves were little seen to the outside world, as their underground kingdoms slowly grew to span all of [[Sentinel Range|Labkhan]], from the far north to the borders of [[Alcarinque|Alcarinquë]]. By the end of the Age, they were beginning to stretch out, moving to new mountains in the east and west and north, beginning to excavate and build again. 
+* The halflings, always wanderers, spread across the [[Green Sea]], and along the coasts, although from where, originally, they came, lore does not say, and the halflings themselves do not share. While they traveled everywhere, they remained most prevalent along the shores of the [[Green Sea]], along the southeast coast of the continent, and across the great plains of the interior.
+
+Finally, in the far reaches of the world, distant from the Elder Empires, the Void mind was still at work. In the far corners of the world, [[Thark ]]saw the creation of the Firstborn and sought to emulate it. From him, the [[orcs]] were born, the best known of the races of Despair. Slaves to the compulsion of Thark, orcs saw nothing but war and violence, although rumors persist of orcs and orc tribes who renounced Thark and lived free. The orcs, created in small numbers in the distant corners of the world, where they would not be noticed, grew quickly and died quickly, and for many long years were not noticed by the Elder races.   
+%% 
+Note it isn't clear when Orcs were created; some notes suggest here, at the beginning of the Age of Creation; others suggest concurrent with human creation, at the end of the Age of Creation 
+Demographic  notes: 
+If Orcs have an very small initial creation and a very high birth rate and a very high death rate, it takes a while for them to get noticeable. And then most of them die in the downfall.   Orcs having high birthrate & high deathrate seems perfect, because it is what drives the 'orc horde'. If they have a generation under a leader that constraints their natural kill everything, and the death rate is reduced for a bit, a massive number of orcs appears.  
+    
+For the hobgoblins, I've envision a relatively low population growth, but more scientific / planned. Hobgoblin kids, for example, could all be part of a the 'master plan' and so they don't tend to over-grow their resources. A large initial creation much closer to the downfall works better for them. 
+
+This aligns with orcs here and hobgoblins aligned with humans, and also plays up the parallel where the orcs have a firstborn, of sorts, but the hobgoblins don't
+%%
+
+And yet, the [[Divine Presence]] was not satisfied. After millennia, the world of Taelgar was static. While no longer ever changing and full of the chaotic energy of the intermingled planes, in the balance of chaos and order, the pendulum had swung too far. The embodied gods had put too much of themselves into their creations, and year after year followed like clockwork. And so the Age of Creation ended with the [[Creation of Humans]] on the island of [[Hkar]], raised by the [[Divine Presence]] with the gift of the Divine Spark.
+
+## Age of Shadows
+_2000 - 4122 by the Dwarven Count of Years_
+%% The start date is just the Age of Creation's end date, which is not perfectly canonical (see above). The end date is the end of the Downfall Wars, which is firmly established as 4122 %%
+%% The name is a placeholder. Other notes have said just Third Age, Age of Dawn, or Age of Humanity. But not sure I love any of those %%
+
+The [[Age of Shadows]] begins with the [[Creation of Humans]] and ends with the sinking of Hkar in [[The Downfall]]. It an age of war and loss, but also the age when humans first grow, and explore, and interact with the [[Elder Folk]]. It is an age of change and disruption.
+
+In the beginning of the Age of Shadows, a number of conflicts begin, and the [[Elder Folk]] sense a change:
+
+* Elves feel this most keenly, and begin to shift their posture to a defensive one, building strongholds and preparing for some as of yet unseen danger. 
+* Dwarves have a big conflict, those who think they should fortify underground vs those who think they should flee the mountains. The later become gnomes.
+
+Additionally, the Void Mind does two things at this time:
+* During the [[Creation of Humans]], manages to create the hobgoblins
+* Allows or creates cracks in the fabric of reality, allowing the mind flayers and other alien species an entrance into Taelgar
+
+So the age begins with concern, and tension within the elves and dwarves. Over the next 1000 years, things grow: humans, hobgoblins, orcs, empires. 
+* By ~3000, about 1000 years before the fall of Hkar, the first humans are in the mainland, and the first tentative hints of orcs, hobgoblins, mind flayers and others reaches the elder races.
+* During the next 1000 years, there is a slow increase in tension. During this time is probably when the great northern wall is built, when the fey start to protect Tyrwingha, when lots of weird magical relics exist, when a lot of evocation and other offensive magic is developed by the elves, all that. 
+* By 4000 you have basically the start of a century long war that ends with a partial victory for the “good guys” and a partial defeat, in that Hkar is sacrificed (my vision here is that somehow -- details don’t matter -- a huge army of evil races landed on Hkar, and that its destruction was not a punishment for human failure or anything but a last ditch effect to save humanity from being overwhelmed. Maybe to stop hobgoblin army from getting some ancient powerful magic or to stop the Three Despairs from gaining access to some kind of secret of creation).
+
+During this time as well, the humans are growing and changing on Hkar, and also departing from Hkar, in the great [[Human Migrations]]:
+
+* The first wave of migration, the Northerners, has started to depart Hkar by 2500 %% give or take a bit depending on the exact date of human creation %%, and peaks around 2800
+* The second wave of migration, the Southerners, is canonically something that happened but also intentionally left as a blank slate. It is between the northern and mariner migrations in time.
+* The third wave of migration, the Mariners, is the source of the [[Languages#Eastros Language Family|Eastros languages]] and many of the eastern Green Sea cultures. This starts around 3500 and peaks soon after, perhaps 3650 %% need to work out how this fits with the timelines of humanity in the eastern Green Sea %%. This migration departs from the western edge of Hkar, and sails around the world to the eastern edge of the Green Sea
+
+In between these major waves of migration from Hkar, there are several smaller ones:
+
+* The canonical Dunmari migration
+
+It is likely that all migrations after the second wave are culturally cohesive groups, leaving Hkar in some part as a rebellion or in contrast to the growing magical, urban, pantheonic culture of Hkar. 
+
+## Age of Humanity
+_4122 - 5678 by the Dwarven Count of Years_
+%% These dates are canonical, unless I did the math wrong, being [[The Downfall]] and the [[Great War]] %%
+
+The [[Age of Humanity]] begins in the shadows of the destruction of [[Hkar]] and the devastation written 
   
-
-So Arha and Malik gave form to the embodied gods, into whom they imbued some of their Divine energy, the raw power of creation and destruction of their Divine Realm. These gods are also known as the Firstborn of the Elder Races: Aldanor and Elmerca, the Living Tree and the Wild Star of the elves; Entamba, the Elder Mountain of the stoneborn; Hazkunde, Bero, Udazkena, and Negu, known as Spring, Summer, Autumn, and Winter, the four Tharzen Anzinakoa of the lizardfolk; the Ruler, Runemaster, Priest, Warrior, Traveler, Stoneworker, and Farmer, the seven Bahrazel of the dwarves; and Nwana, called the Stranger-Child, Obito, called the Merchant-Musician, and Jemghari, called the Traveler-Storyteller, the two-faced First Ones of the halflings.
-
-  
-
-The Void Mind had been waiting, and watching, and as Arha and Malik shaped the embodied gods and bestowed them with Divine power, the Void Mind stole the breath of the Divine, and out of itself spun the Three Despairs: Umidzka, the Empty; G’Zab, the All Consuming; and Jinnik, the Madness, and through these beings this mind worked in the shadows against the creations of the Divine. It is said that the first act of the Three Despairs was to use their stolen Divine power to embody a god of their own, and out of the union of G’Zab and Umidzka, Thark, the God of War Without End was born. Rumors other creations of the Despairs persist: the Goddess of the End, the Hopeless One, the offspring of G’Zab and Jinnik; the Endless Chaos, the offspring of Umidzka and Jinnik; the Mad One, the embodied avatar of Jinnik. Some have even speculated that the Three Despairs unleashed embodied curses into the world, attributing the curse of undeath and necromancy to Umidzka, and the curse of lycanthropy to Jinnik.
-
-
 %% Elven notes
 
 The Age of Creation: the timeless era when elves first came to the world, before the Dreamworld, the Feywild and Shadowfell, and all the other echos and reflections of Taelgar had separated from the Material Plane. The Age of Creation ended with the splitting of the planes and the formation of the echo realms, the other planes that reflect and echo and distort the world of Taelgar. (years not really real here)
