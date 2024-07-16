@@ -84,6 +84,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | Cloak of the Mantra Ray                | Minor item, Uncommon  | [[Gifts and Purchases#Purchases\|Purchased]]  from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]                                             |           |
 |       | [[Aagir's Everlight]]                  | Minor item, Common    | Found in the [[Nashtkar Treasures\|Dunmari Fort (Gomat)]]                                                                                                          |           |
 |       | [[Scroll of Storykeeping]]             | Minor item, Uncommon  | [[Gifts and Purchases\|Gift]] from [[Saka]]                                                                                                                        |           |
+
 ### Seeker
 
 | Image | Name                                             | Rarity                | Origin and Notes                                                                      | Mechanics                                                                              |
