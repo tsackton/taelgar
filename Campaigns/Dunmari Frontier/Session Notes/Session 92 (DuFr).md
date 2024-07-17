@@ -37,7 +37,7 @@ The [[Dunmar Fellowship]] gains King [[Brimskarda]]'s favor at [[Isenborg]] and 
 ## Narrative
 We begin as the [[Dunmar Fellowship]] makes a cautious approach towards the formidable and frost-laden steading of [[Isenborg]], the court of [[Brimskarda]], king of the frost giant kingdom of [[Kaldhalla]]. The party's primary goal was to both introduce themselves and pry for crucial intelligence regarding the enigmatic [[Vargaldi|Vargald]], a people who live in the frozen wastes of the [[Ket]] river valley. [[Seeker]] steers the skyship through the massive ice gates of [[Isenborg]], where they are greeted by an animated statue bidding them to introduce themselves. Arriving inside the steading of [[Isenborg]], carved in the bowl of a massive glacier, the party moors their ship at a respectful distance and use the rainbow bridge to make their descent. 
 
-![[steading-entrance.png]]
+![[steading-entrance.jpg]]
 
 The party enters the steading's main hall, a cavernous space carved from the heart of a glacier and bathed in an eerily dim blue light, with tapestries on the walls depicting the heroic deeds of [[Brimskarda]] and his giant warriors. King [[Brimskarda]] receives them with a guarded attitude, but with an openness to host these diminutive guests with numerous heroic deeds to their names. The party, seizing the opportunity, lavished [[Brimskarda]] with gifts — an enormous meat pastry sculpted in the likeness of a mythical beast and a resplendent horn. Their offerings and recounted tales of dragon slayings and battles against the forces of darkness aimed to cement their place in Brimskarda's regard. The Frost Giant King reciprocated with stories of his own conquests and imparted wisdom on combating the lethal iceworms.
 

@@ -43,7 +43,7 @@ We begin in the fey realm of [[Shimmersong]], where [[Raven]] and [[Spirala]] ha
 
 Beyond the Golden HIlls and [[Vondar]]’s ravine is a vast expanse of open plains, presumably once beautiful in the evening light of sunset, now dry and pale. To find [[Lastlight Falls]], the first goal is to find the crashed Cloud Palace, where the [[Lady Eventide]], one of the few of the [[Cloudspinner]]’s court who remains in [[Amberglow]], resides. The palace is a wreck, twisted and broken and drained of color. [[Lady Eventide]] is wearing elegant dress and courtly jewelry, but her skin and nearly all her clothes and hair are bleached pale and colorless. 
 
-![[amberglow-cloud-palace.png|500]]
+![[amberglow-cloud-palace.jpg|500]]
 
 [[Lady Eventide]] and [[Caulaus]] speak about their apparent shared history, with the Lady telling [[Caulaus]] he cannot leave, and cannot be forgiven until the [[Cloudspinner]] returns, since it was her that [[Caulaus]] wronged. Until then, he must remain in the [[Feywild]]. Speaking with [[Seeker]], [[Lady Eventide]] asks what he will give in exchange for a way across the fey crossing at [[Lastlight Falls]]. Pale and colorless, she asks for the color of his beard, and eventually agrees to take instead a streak of color from his hair. In exchange, she gives him a [[Sunset Thread|thread]] from her dress, made by the [[Cloudspinner]], who as known for her way with spinning thread of magic from the colors of the sunset. 
 

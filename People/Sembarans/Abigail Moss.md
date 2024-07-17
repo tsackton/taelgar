@@ -17,7 +17,7 @@ whereabouts: Taviose
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Taviose]], [[Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-![[abilgail-moss.png|right|320]]Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [[Taviose]]. [[Robin of Abenfyrd|Robin]] was able to disinfect it with his lay on hands ability. Her family was killed in the spider attacks, and she has struggled to maintain the family orchard, which is mostly walnuts and chestnuts and hugs the edge of [[Cleenseau Wood]].
+![[abilgail-moss.jpg|right|320]]Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [[Taviose]]. [[Robin of Abenfyrd|Robin]] was able to disinfect it with his lay on hands ability. Her family was killed in the spider attacks, and she has struggled to maintain the family orchard, which is mostly walnuts and chestnuts and hugs the edge of [[Cleenseau Wood]].
 
 Her family holds the orchard and several buildings in [[Taviose]] as freeholders, and her two uncles are successful pig farmers.
 

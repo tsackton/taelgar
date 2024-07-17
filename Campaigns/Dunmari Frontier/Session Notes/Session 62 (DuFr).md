@@ -48,7 +48,7 @@ The party engages in combat, and manages to defeat all the sharks and sailors, a
 
 Proceeding down, after turning off the spinning blades, the party attacks the shark. The battle turns, however, when they realize that there is a mage hiding in the mouth of the shark, who gets off a few deadly spells before [[Artem Novolozek|Artem]] polymorphs the shark into a turtle, taking it out of the combat. Eventually, though, the mage is subdued and the prisoners temporarily rescued. But the tentacled aboleth continues to attack through the floor below.
 
-![[aboleth-cave-wahacha.png|500]]
+![[aboleth-cave-wahacha.jpg|500]]
 
 The party descends to its lair, and combat begins, as the aboleth attempts to lure its attackers via images of their greatest desires. Magic and weapons fly as the party works to bring this creature down, along with three enslaved sea elf knights. [[Shoal]] and [[Artem Novolozek|Artem]] resist attempts to be lured into visions, and the party manages to largely shrug off attempts to charm them. Until near the end of the battle, [[Rufus]] succumbs to the psychic coral, falling unconscious as a vision of a world without crabs appears before him and then is cruelly taken away. And as the aboleth is nearing death, it manages to charm [[Alimash]] to fight on its side, although this does not last long, as with a blast of lightning [[Artem Novolozek|Artem]] kills the beast before it can get full control of [[Alimash]]’s mind. 
 
