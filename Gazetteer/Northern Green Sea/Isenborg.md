@@ -27,7 +27,7 @@ Within the walls of the steading lies a spacious courtyard, covered in snow, col
 
 ## Brimskarda's Palace
 
-![[brimskarda-palace-interior.png|right|500]]Brimskarda's Palace is the most notable landmark in Isenbord. The palace is a marvel of ice architecture, towering spires and domes crafted from blue and white ice, shimmering like a mirage. Giant-sized steps lead up to the main entrance, flanked by ice columns that radiate a soft, ethereal glow. Enormous ice sculptures of the frost giant's gods and ancestors decorate the palace facade.
+![[brimskarda-palace-interior.jpg|right|500]]Brimskarda's Palace is the most notable landmark in Isenbord. The palace is a marvel of ice architecture, towering spires and domes crafted from blue and white ice, shimmering like a mirage. Giant-sized steps lead up to the main entrance, flanked by ice columns that radiate a soft, ethereal glow. Enormous ice sculptures of the frost giant's gods and ancestors decorate the palace facade.
 
 Inside, the great hall is vast, with ceilings lost in shadow, supported by pillars of ice. The hall is dominated by the view of Brimskarda's throne, carved from glacial ice, seated upon a raised dais, with a long, frost-encrusted carpet leading up to it. Tapestries depicting Brimskarda's victories in battle line the walls, and everything is illuminated with a icy blue light. 
 
