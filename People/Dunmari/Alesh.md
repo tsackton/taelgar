@@ -10,7 +10,7 @@ gender: female
 whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
-image: alesh-portrait.png
+image: alesh-portrait.jpg
 ---
 # Alesh
 >[!info]+ Biographical Info  
@@ -20,7 +20,7 @@ image: alesh-portrait.png
 
 %% needs work: lots of information about chronology, travels, and party contact scattered throughout session notes, that needs to be incorporated and cleaned up %%
 
-![[alesh-portrait.png|right|400]]A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [[Karawa]]. Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [[Dunmar]] of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
+![[alesh-portrait.jpg|right|400]]A short, quick-footed woman, with a nondescript face, short, black hair and light brown/tan skin. An extremely skilled rider, often serving as a scout or messenger for the people of [[Karawa]]. Bubbly, cheerful person, endlessly fascinated by Dunmari history. She collects rumors of [[Dunmar]] of old and collects arrowheads and other artifacts she can find in her travels. She is especially interested in ancient battle sites.
 
 %%SECRET[1]%%
 

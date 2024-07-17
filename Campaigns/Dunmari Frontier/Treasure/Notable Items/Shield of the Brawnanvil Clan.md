@@ -9,3 +9,5 @@ While holding the shield, a dwarf can activate it, being drawn into a recreation
 Recovered by [[Riswynn]] and now safely with the Brawnanvil clan in [[Tharn Todor]]. 
 
 %%SECRET[1]%%
+
+![[brawnanvil-shield.jpg]]

@@ -8,7 +8,7 @@ gender: female
 ancestry: Dunmari
 name: Abha
 affiliations: [Sonkar Mystai]
-image: abha-v2.png
+image: abha-v2.jpg
 whereabouts:
 - {type: away, start: 1748-11-06, end: 1748-12-01, location: Nayahar} #end is approx
 - {type: away, start: 1748-12-25, end: 1749-03-02, location: Copper Hills} #start and end are approx
