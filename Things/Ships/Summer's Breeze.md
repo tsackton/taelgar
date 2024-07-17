@@ -21,4 +21,4 @@ A spritely halfling trader, sailing a meandering route around the [[Gulf of Char
 
 Unlike many halfling trading ships, this is not really a family operation.
 
-![[summers-breeze-underway.png]]
+![[summers-breeze-underway.jpg]]

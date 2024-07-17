@@ -25,7 +25,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Imprisoned by the [[Dunmar Fellowship]] on December 8th, 1748, in the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
-![[antonia-portrait.png|right|320]]A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
+![[antonia-portrait.jpg|right|320]]A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 
 %%^Campaign:DuFr%%
 Seemed to have mixed feelings about [[Kadmos]] actions to charm the party in [[Session 44 (DuFr)]], and was not involved in the battle in [[Session 45 (DuFr)]]. 

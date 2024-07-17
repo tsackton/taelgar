@@ -17,4 +17,4 @@ The Night Queen is usually depicted as a pale woman, often of indeterminate age,
 
 In art, the Night Queen is often depicted the protector of the dead and of spirits, and the guide who ensures that the dead do not return to haunt the living. Art depicting the Night Queen tends to somber colors, with a starkness that highlights her connection to the night and winter. 
 ![[night-queen-stained-glass-2.png]]
-![[night-queen-tapestry-1.png]]
+![[night-queen-tapestry-1.jpg]]

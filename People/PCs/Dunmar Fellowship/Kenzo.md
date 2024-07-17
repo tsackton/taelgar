@@ -203,7 +203,7 @@ player: David Kong
 > 
 > Amezza: Amezza is the name for a common jungle tree, generally short and shrubby, that grows in openings and clearings. The name, roughly translated, means “dreamberry”; the aromatic berries are dried and traded as a spice. When the tree grows in a place rich in connections to the [[Dreamworld]], the berries collect amezza, also known as dream ki. But care must be taken, because Amezza can also absorb the energy of nightmares and not everything in the [[Dreamworld]] is friendly. 
 > 
-> ![[amezza-painting.png|400]]
+> ![[amezza-painting.jpg|400]]
 > 
 > Hutsu: Hutsu in the name for a flowering vine that is common across the tropical regions of Taelgar, which grows up the trunks of large trees. When it grows near places of peaceful death, the leaves occasionally turn white, giving it its translated name in Common, “whiteleaf vine”. When hutsu vines grow in places with a strong connection to the [[Land of the Dead]] (also known in lizardfolk mythology as the veil that separates the ‘lower’ spirit realms, like the [[Plane of Souls]] and the [[Dreamworld]], from the ‘higher’ spirit realms such as the various domains of the gods and primal forces), the white leaves collect hutsu, also known as spirit ki.
 > 

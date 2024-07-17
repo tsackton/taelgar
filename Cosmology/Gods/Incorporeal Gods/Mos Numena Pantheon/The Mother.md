@@ -19,6 +19,6 @@ In mechanical terms, her clerics would usually be associated with the Life or Pe
 
 In art, the Mother is often depicted as the source of healing, and is associated with depictions of the cycle of seasons. She is often shown pregnant, and often associated with the bounty of life and the lushness of spring. Some illustrative art is show below:
 
-![[the-mother-example-painting.png]]
+![[the-mother-example-painting.jpg]]
 
 ![[the-mother-example-stained-glass.png]]

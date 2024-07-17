@@ -48,11 +48,11 @@ The party heard three songs about merfolk:
 ## Narrative
 We begin on the morning of May 5th, 1749, in the vibrant city of [[Nevium]], situated in the Chardonian province of [[Portalia]], after [[Seeker]]'s succesful teleportation spell transported the party from the cold northern land of [[Ursk]] to the balmy shores of the [[Gulf of Chardon]]. Aware of their notoriety and wanted status within the [[Chardonian Empire]], the [[Dunmar Fellowship]] quickly oriented themselves to their surroundings, strategizing their next move in relative secrecy.
 
-![[nevium-1.png]]
+![[nevium-1.jpg]]
 
 Aiming for a discrete and quick escape from the city of [[Nevium]], the party unfolds their [[Folding Boat]], and, [[Wellby]] skillfully maneuvered the vessel out of [[Nevium]], evading detection by naval patrols, setting a course northwest across the vast [[Gulf of Chardon]]. The journey by sea was marked by strategic conversations, as the he party sailed throughout the day, navigating the challenges of open water travel, until they sighted the remote shores of the [[Apporia|Apporian Peninsula]] by evening. Opting for caution, they anchored in a secluded cove to rest and plan their approach to the local settlements.
 
-![[coast-v1.png]]
+![[coast-v1.jpg]]
 
 The following day, May 6th, [[Delwath]] ventured into [[Artevus]], a quiet and somewhat tired and run down  fishing village on the coast, in the province of [[Portalia]], under the effects of an Alter Self spell to disguise his appearance. Posing a treasure hunter, he quickly learned that many local sailors had been pressed into naval service recently, but a local tavernkeeper pointed him to [[Martino]], a retired fisherman and skilled navigator. Meanwhile, the rest of the party approached cautiously by boat, encountering [[Pippa Goodbarrow]], captain of the [[Summer's Breeze]]. 
 

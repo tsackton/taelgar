@@ -16,4 +16,4 @@ House of [[Avaras]] and [[Pava]] in the desert east of [[Karawa]], on the northe
 
 A small compound, sandstone building, courtyard, well and oasis with a garden, goats and chickens nearby, penned in with hay and seed.
 
-![[pava-avaras-house.png]]
+![[pava-avaras-house.jpg]]
