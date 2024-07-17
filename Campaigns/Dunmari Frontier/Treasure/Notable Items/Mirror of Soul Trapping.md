@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 typeOf: mirror
 tags: [item, item/magical, status/cleanup/refactor]
 whereabouts:
-- {type: home, location: unknown hobgoblin wizard, prefix: by an }
+- {type: home, location: unknown hobgoblin wizard, linkText: by an }
 - {type: home, location: dufr}
 - {type: away, start: 1748-06-08, end: 1748-06-08, location: Karawa}
 - {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
@@ -19,7 +19,7 @@ rarity:
 
 %%need to decide if this is a one-off item, unique, or a representative of a class of items, and refactor text as appropriate %%
 
-![[mirror-of-soul-trapping-v1.png|right|400]]This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
+![[mirror-of-soul-trapping-v1.jpg|right|400]]This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
 
 Seen in [[Mirror of the Past]]: [[Mirror of Soul Trapping Vision]]
 
