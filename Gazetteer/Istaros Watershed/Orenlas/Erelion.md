@@ -25,7 +25,7 @@ Erelion is not organized around any plan or into distinct districts; it has an o
 ## The Gates of Erelion
 All vistors to Erelion, no matter the direction they approach from, find themselves at the gates of Erelion. Those who are welcome find themselves expected; those who are not, find the city closed to them. 
 
-![[erelion-2-gate.png]]
+![[erelion-2-gate.jpg]]
 *The gates of Erelion greet all visitors to the city.*
 
 ## The Elder Tree

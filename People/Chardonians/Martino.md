@@ -17,7 +17,7 @@ whereabouts:
 
 %% needs whereabouts %%
 
-![[martino-portrait.png|right|400]]Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [[Apporia]], seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand. 
+![[martino-portrait.jpg|right|400]]Martino is a retired sailor, fisherman, and navigator. He once sailed widely along the coasts of [[Apporia]], seeking the best fishing grounds, until he was hurt in a storm and lost most of the use of his right hand. 
 
 He is extremely knowledgeable about the waters and coasts of [[Apporia]], but now spends his days hanging around [[Artevus]], gazing out to sea. 
 

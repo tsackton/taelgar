@@ -19,4 +19,4 @@ whereabouts: Robin of Abenfyrd
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[hammer-of-viligance.png|right|320]]A finely crafted silver and steel with blue wrappings. It seems to anticipate danger. It was found in a secret room in the underground hobgoblin fort beneath [[Cleenseau]] and appears to be war loot from an unknown Sembaran hero, from several hundred years ago.
+![[hammer-of-viligance.jpg|right|320]]A finely crafted silver and steel with blue wrappings. It seems to anticipate danger. It was found in a secret room in the underground hobgoblin fort beneath [[Cleenseau]] and appears to be war loot from an unknown Sembaran hero, from several hundred years ago.
