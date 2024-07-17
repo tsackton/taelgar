@@ -8,6 +8,9 @@ tags: [timeline]
 
 ### March
 * [[Wymar Essford]] and more than a dozen other minor lords in the [[Barony of Aveil]], the [[Barony of Ainwick]], and the small baronies south of the Enst and around the [[Aine Hills]] developed dementia and other illnesses
+* [[Reginald Rusebek]] is charged with treason and murder, and executed
+### April
+* [[Isabeau d'Aslain]] becomes Baroness of Aveil, but rarely leaves Veltor
 ### August
 * Mid August: The beginning of [[Wakog|Wakog's]] raids
 ### October
