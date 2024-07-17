@@ -11,6 +11,6 @@ affiliations: [Rodnya Voknaz]
 > An [[Ursk|Urskan]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-![[olen-vrask-portrait.png|right|400]]Olen is a secretary and scribe for [[Branek Mirov]].
+![[olen-vrask-portrait.jpg|right|400]]Olen is a secretary and scribe for [[Branek Mirov]].
 
 %%SECRET[1]%%
