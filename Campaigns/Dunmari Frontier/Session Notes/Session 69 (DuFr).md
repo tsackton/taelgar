@@ -64,7 +64,7 @@ We begin as the party settles in for the night outside [[Lastlight Falls]], afte
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [[Dunmar]], now sprung to life with the monsoon rains.
 
-![[dunmar-november-1748.png]]
+![[dunmar-november-1748.jpg]]
 
 [[Riswynn]] prays each morning to the Baharazel, asking them to free [[Havdar]] of the curse that binds him to the [[Medusa Blade]], taken from [[Agata's lair]] and gifted to [[Havdar]] by the party. As the party travels, they send messages to [[Johar]] via sending, and [[Delwath]] keeps an eye on the movements of [[Kadmos]] and company via scrying. 
 

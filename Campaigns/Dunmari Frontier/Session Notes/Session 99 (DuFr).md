@@ -42,7 +42,7 @@ Our session begins at dawn, in the harbor of [[Castrella]], where the[[ Dunmar F
 
 As the [[Summer's Breeze]] approaches the northern end of [[Calcara Island]], [[Kenzo]] is able to sense the stoneborn's presence nearby, and a little bit of searching, guided by a friendly gannet and a playful seal, reveals the entrance to [[Kazuro]]'s cave. Rowing into the cave illuminated by an eerie blue light, they encounter a dock with steps leading up to a stoneborn hermit who questions their presence.
 
-![[kazuro-cave-v2.png]]
+![[kazuro-cave-v2.jpg]]
 
 The stone-born hermit, [[Kazuro]], appears annoyed and grumpy at the interruption. [[Delwath]] apologizes for the intrusion and explains their quest, mentioning they heard of [[Kazuro]] in [[Castrella]], and explaining their need for water-breathing to reach the [[Merfolk]]. Despite a stony reception, [[Kazuro]] invites the party to follow him, expressing frustration at favor-seekers. [[Kenzo]] attempts to interest [[Kazuro]] by offering stories that could echo into the future, and [[Riswynn]] compliments [[Kazuro]]’s hermitage, expressing the party’s noble intentions, but [[Kazuro]] is unswayed, if not entirely unsympathetic. 
 

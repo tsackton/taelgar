@@ -20,7 +20,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on February 2nd, 1749 in the [[Copper Hills]], [[Dunmar]] %%^End%%
 
-![[abha-v2.png|right|400]]Abha is a [[Sonkar Mystai|mystai of Sonkar]], a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
+![[abha-v2.jpg|right|400]]Abha is a [[Sonkar Mystai|mystai of Sonkar]], a truthspeaker who has the divine ability to see the true nature of the world. She is a powerful spellcaster and is often called to resolve difficult or complicated requests for judgement and justice. 
 
 Abha, like [[Sonkar]], sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [[Dunmar]]. 
 
