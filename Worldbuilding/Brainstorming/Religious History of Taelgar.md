@@ -71,7 +71,7 @@ From the point of view of religious history, this is a time of rapid change. Man
 - Religious traditions from this era have diverse explanations for why every miracle is not granted, that blend different elements of "limited power" and "didn't hear you." Metaphysically, most of the deities of this era are probably not truly omnipresent, although they certainly have a wider presence on the material plane that the small gods of earlier eras. 
 - Funerary traditions from this era are diverse, with varying emphasis on which parts of the process require the most human/prayer aid and which parts the deities handle. 
 
-[[Sarqon]], and the events discussed in the [[Philosopher's Information Concerning Binding Stones]], probably happen during this era. The mariner exodus is the tail end of this era.
+[[Sarqon]], and the events discussed in the [[Philosopher's Information Concerning Binding Stones]], probably happen during this era, but may happen in the small gods era. The mariner exodus is the tail end of this era.
 
 ### Late Pantheonic Religion
 

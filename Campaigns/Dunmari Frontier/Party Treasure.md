@@ -1,12 +1,5 @@
 ## Recent Acquisitions
 
-### Unclaimed Potions
-- Potion of clairvoyance, from Shadowkeep
-- Potion of heroism, from Shadowkeep
-- 2 potions of speed, from Shadowkeep
-- Potion of supreme healing, from Shadowkeep
-- Potion of Underwater Transformation. A gift from [[Kazuro]] in exchange for a [[Session 99 (DuFr)|promise to return and help him build a monastery and find a student]].
-
 ### Treasure Acquired in [[Omi]]
 
 - A large (10 foot long) trident, taken from the herald of [[Gazankoa]] protecting the portal in [[Omi]]. Abandoned in the temple of Gazankoa during the merfolk fight (unless someone can give a logical explanation for how someone could have got this across the rainbow bridge without the manta rays). 
@@ -66,6 +59,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [[Drankorian Message Stone]]                    | Minor item, Uncommon  | Long range version. Part of [[Agata's Treasure]]. Paired stone currently held by [[Sura]].                             | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone)          |
 |       | [[Tollen Magical Tattoo\|Tattoo of Darkvision]] | Minor item, Uncommon  | [[Gifts and Purchases#Purchases\|Purchased]]  from [[Cecilia Lister]]                                                  | [Mechanics](https://www.dndbeyond.com/magic-items/4648-goggles-of-night)                     |
 |       | Celestial Gem of Protection                     | Major item, Rare      | Gift from [[Riswynn]], who received it as a [[Gifts and Purchases\|gift]] from a celestial                             | [Mechanics](https://www.dndbeyond.com/magic-items/3465643-celestial-gem-of-protection)       |
+|       | Chime of Opening                                | Minor item, Rare      | Taken from [[Kadmos and Company Loot\|Antonia]]. Has 4 charges remaining.                                              | [Mechanics](https://www.dndbeyond.com/magic-items/4602-chime-of-opening)                     |
 
 ### Kenzo
 
@@ -127,7 +121,6 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 |       | [[Portable Hole]]            | Minor item, Rare      | Acquired from [[Basu]] in exchange for help clearing the [[Elven Arborea Workshop]]                                                                                                                                                       | [Mechanics](https://www.dndbeyond.com/magic-items/4699-portable-hole)               |
 |       | [[Augury Mirrors]]           | Minor item, Rare      | Found in [[Grimbaskal's Hoard]]                                                                                                                                                                                                           | [Mechanics](https://www.dndbeyond.com/magic-items/5346832-augury-mirrors)           |
 |       | Foldable Boat                | Minor item, Rare      | Taken from [[Kadmos and Company Loot\|Kadmos]]                                                                                                                                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/4639-folding-boat)                |
-|       | Chime of Opening             | Minor item, Rare      | Taken from [[Kadmos and Company Loot\|Antonia]]. Has 4 charges remaining.                                                                                                                                                                 | [Mechanics](https://www.dndbeyond.com/magic-items/4602-chime-of-opening)            |
 |       | [[Ever Spinning Top]]        | Minor item, Common    | Originally part of [[Agata's Treasure]]; stolen by [[Kadmos]], and [[Kadmos and Company Loot\|reclaimed]].                                                                                                                                | [Mechanics](https://www.dndbeyond.com/magic-items/3819604-always-spinning-top)      |
 |       | Enchanted oyster shell       | Minor item, Rare      | [[Gifts and Purchases\|Gifted]] by [[Skaerhem\|Skaer]] as thanks for defeating the demon of [[Vetta]]. Can be used once to cast [Divination](https://www.dndbeyond.com/spells/2073-divination) with no components, targeting [[Kaikkea]]. | N/A                                                                                 |
 |       | [[Drankorian Message Stone]] | Minor item, Uncommon  | Long range version. Found in the [[Elemental Forge Hoard]]. [[Lucius]], a boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking.                                                        | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone) |
@@ -153,10 +146,10 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - 36 small silver disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 66 copper disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 ### Gemstones
-- ***(new)*** Three blood red rubies, from [[Ursk Treasure|Shadowkeep]]
+- ***(new)*** Three blood red rubies, from [[Ursk Treasure|Shadowkeep]] *used for simulacrum*
 - Four large pearls (Gift from the Skaer). 
 - 16 uncut and unpolished gemstones (value would increase if properly cut), from the [[Elemental Forge Hoard]]:
-	- Two rubies (deep red, radiant glow) 
+	- Two rubies (deep red, radiant glow)
 	- Three garnets (dark red, glassy appearance) 
 	- Two peridot (bright green, light-catching sparkle) 
 	- One opal (multicolored, mystical fire) 

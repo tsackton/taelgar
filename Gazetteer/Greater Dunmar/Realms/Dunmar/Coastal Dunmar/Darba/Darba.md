@@ -30,5 +30,13 @@ The north bank is less marshy than the south, and there are several weirs and wa
 - (DR:: 1558): The Samraat Nayan Kundar drives the Illorian from Darba and reclaims the city 
 - (DR:: 1644): A massive new public market is constructed in Darba by dwarven craftsfolk, commissioned by the Samraat to reflect the growing importance of Darba as a center of trade
 
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location", "Home"], 
+			dv.pages("#person")
+				.where(f => util.inOrHomeLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))				
+				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```
+
 %%SECRET[1]%%
 
