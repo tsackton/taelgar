@@ -41,4 +41,14 @@ And no invitation to her investiture (whereas a more normal baron might have inv
 
 Sabine - who you probably talked to in the aftermath of Asieneau being abandoned - had the sense that she just doesn't leave Veltor much, and is probably ignoring the whole barony equally.
 
+Baroness household:
+* [[Isabeau d'Aslain]]
+* captain of her guard ([[Thomas Dyerson]]) (m)
+* chief magistrate of barony [[Victorine Rosseau]] (f)
+* chief clerk of the barony [[Marguerite Deschamps]] and her two assistants
+* secretary ([[Robin D'Aslain]]) (m)
+* chamberlain ([[Perette]]) (f)
+* steward ([[Emeric]]) (m)
+* captain of the horse [[Marceline Dupont]] (f)
+
 %%
