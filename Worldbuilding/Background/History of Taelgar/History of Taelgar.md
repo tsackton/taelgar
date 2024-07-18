@@ -40,11 +40,13 @@ The **Age of Humanity** began with the sinking of [[Hkar]] and the reshaping of 
 The [[Age of Myth]] was an era before time had meaning, and before the separation of the planes. Although it is difficult to speak of "events" in this period, the key events of the Age of Myth were:
 
 * The birth of the [[Divine Presence]] and the awakening of the [[Void Mind]]
-* The creation of the [[Children of the Divine]]: the [[Great Wyrms]], the [[Titans]], the [[Archfey]], and the elemental powers: [[Djinn]], [[Marid]], [[Efreet]], and [[Dao]]
+* The creation of the [[Children of the Divine]]: the [[Great Wyrms]], the [[Titans]], the [[Archfey]], and the [[Elder Elementals]].
 
-These children of the divine created many things, but all were echoes or distortions of themselves, and although great empires and cities arose and disappearing, nothing was stable.
+%% elder elementals are like krakens and phoenixes and the like: Gazankoa, not mere marids. %%
 
-The lore the elves write about the Age of Myth and the Age of Creation can be read here: [[Lore of the Birth of the Gods]].
+These children of the divine created many things, but all were echoes or distortions of themselves, and although great empires and cities arose and disappeared, nothing was stable.
+
+The lore the elves write about the Age of Myth and the Riving can be read here: [[Lore of the Birth of the Gods]].
 
 %% key points:
 - at this stage, there is no conception of other planes. the material plane itself is infused with limitless arcane energy, and magic is easy and powerful. 
@@ -55,9 +57,16 @@ The lore the elves write about the Age of Myth and the Age of Creation can be re
 
 ## Age of Creation
 _1 - 4122 by the Dwarven Count of Years_
-%% h 1520 as a canonical year; it aligns with the beginning of the 10th elven leya and seems to give about the right amount of time %%
 
-The [[Age of Creation]] began with [[The Riving]], when the [[Divine Presence]] separated the planes. This was the beginning of time, and the creation of the [[Echo Realms]] and [[Energy Realms]]. This was also when the [[Divine Presence]] gave parts of itself to create other divinities, first the [[Embodied Gods]] and later the [[Incorporeal Gods]], and when the [[Void Mind]] was able to steal the power of the [[Divine Presence]] to empower and create the [[Three Despairs]]. 
+The [[Age of Creation]] began with [[The Riving]], when the [[Divine Presence]] ripped away and isolated the powerful magic that once coursed through reality, creating the [[Material Plane]] and the [[Plane of Magic]] in the process, separated from each other by the [[Ethereal Plane]]. The echoes of the energy of this event, at times aided and shaped by the [[Children of the Divine]], created the [[Echo Realms]] and the [[Energy Realms]] as well. 
+
+%% probably true: at this stage there is no soul stuff and no deities, so there are no "spiritual realms" yet. but, the described echo realms and energy realms are not all there is, and in principle, for example, some great wyrms could have made echo realms of the plane of magic, for example, or perhaps some of the titans live in echo realms of the elemental planes, or perhaps there are non-elemental energy realms that exist %%
+
+The [[The Riving|Riving]], a moment out time both instantaneous and eternal, ended with another act of creation: the [[Divine Presence]] gave part of itself to other divinities, imbuing them with divine power and the ability to create. These were the [[Embodied Gods]].
+
+%% stilll to decide: how this is connected to the creation of the plane of souls and the dreamworld %%
+
+This was the beginning of time, and the creation of the [[Echo Realms]] and [[Energy Realms]]. This was also when the [[Divine Presence]] gave parts of itself to create other divinities, first the [[Embodied Gods]] and later the [[Incorporeal Gods]], and when the [[Void Mind]] was able to steal the power of the [[Divine Presence]] to empower and create the [[Three Despairs]]. 
 
 The [[Age of Creation]] ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the divine spark of humanity. 
 
