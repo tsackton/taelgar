@@ -1,6 +1,8 @@
 ---
 tags: [background, status/needswork/notes]
 ---
+
+%%rewrite to capture discord conversation on refactoring major "ages" of the world and update lore on downfall, etc%%
 # History of Taelgar
 This is an attempt to organize the notes and background we have on the history of Taelgar into a single document that can be considered relatively canonical. This is intended to be conversational and living, with the following conventions:
 
@@ -12,38 +14,30 @@ is intended to be written from an "in world" perspective and would be suitable t
 Information in %% notes %% is brainstorming or non-canonical. This document attempts to keep from growing too much by creating separate notes for other periods and other aspects where more detail is needed.
 
 ## Overview
-The mythic history of Taelgar is organized around five great "ages", each marked by significant change. Some of the "ages" (the naming is still unclear) ended with violence.
+The mythic history of Taelgar is organized around three major metaphysically distinct eras, marked by each marked by significant disruptions of the extraplanar order. 
 
 In broad strokes, the history of Taelgar can be summarized as:
 
-The **Age of Myth**, the First Age of the World, a period before time itself was created.  The Age of Myth begin with the first act of creation and are a time of the archfey, titans, elements, and great wyrms. This age ends with [[The Riving]] when the [[Divine Presence]] separates the planes of existence from each other and creates the [[Material Plane]]. This was a time of huge empires and gods walking the earth, but also of much chaos.
+%% possible ideas
+The Age of Myth is also, in some sense, the age of arcane magic, when the first children of the divine presence use the fact that the plane of magic has not yet been pulled away from the material plane to create great works of magic.
+The Age of Creation is when the divine presence empowers divine magic. The chaos of the magical beings of the Age of Myth is tamed, by challenging that magical power into deities. 
+The Age of Humanity sees both forces brought into balance, and diminished. 
 
-The **Age of Creation**, the Second Age of the World, when the [[Elder Folk]] were created. This age begins with the creation of the [[Embodied Gods]] and ends with the creation of [[Humans]] on [[Hkar]]. This is the golden age of the non-human species, but also a time that lacked dynamism. Little changed or was truly new in this age, as the Firstborn of the Elder Folk encouraged sameness and uniformity. 
-%%  1 - 1500  %%
+This also pairs with the existing idea of Chaos vs Order. E.g., Age of Myth = Chaos = Arcane Magic; Age of Creation = Order = Divine Magic. 
 
-The **Age of Shadows**, the Third Age of the World, when the humans flourished on Hkar and the creations of the [[Void Mind]] grew in the shadows. It ended with [[The Downfall]] and the sinking of [[Hkar]]. 
-%% 1500 - 4100 %%
+%%
 
-The **Age of Humanity**, the Fourth Age of the World, which saw the rise and fall of Drankor, and the rise and fall of Cha'mutte. It ended with the defeat of Cha'mutte by the [[Heroes of the Great War]].  This was the first age of the world when humans dominated, and the non-humans were secondary actors.
-%% 4100 - 5700 %%
+The **Age of Myth**, when the multiverse was new, a period before time itself was created. The Age of Myth begin with the first act of creation and are a time of the archfey, titans, elements, and great wyrms. This age ends with [[The Riving]] when the [[Divine Presence]] separates the planes of existence from each other and creates the [[Material Plane]]. This was a time of huge empires and incredible acts of magic, but also of much chaos.
 
-The **Age of Rebirth**, the Fifth Age of the World, which is the current age. This age started in misery, with the [[Blood Years]], but then saw a return to growth and prosperity and a flourishing of many diverse human cultures.
+The **Age of Creation** began after [[The Riving]], when the multiverse was created, and ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the Divine Spark on the [[Material Plane]]. It was during the Age of Creation that the [[Elder Folk|oldest sentient species]] of Taelgar were created by [[Embodied Gods]], when the vast civilizations of [[elves]], [[Dwarves|dwarves]], [[Lizardfolk|lizardfolk]], and others spread across the world. It was also the age when [[Humans|humans]] were created by the [[Divine Presence]] on [[Hkar]], and endowed with the divine spark; and when other, darker species were created by the [[Void Mind]] and its allies. The Age of Creation ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of divine magic on Taelgar, especially the creative force of the divine spark. This is the golden age of the non-human species, but also a time that lacked dynamism. Little changed or was truly new in this age, as the Firstborn of the Elder Folk encouraged sameness and uniformity. 
+%%  1 - 4100  %%
 
-%% Notes: These names could be improved are very much meant to be placeholders. It is also not clear who is deciding these names. The elves? Human scholars in Chardon? 
-
-Elven names from an old timeline doc:
-
-Age of Myth
-Age of Creation
-Age of Dawn
-Age of Sorrow
-Age of Rebirth
-
-How real is this division into ages? %%
+The **Age of Humanity** began with the sinking of [[Hkar]] and the reshaping of the world that accompanied the [[The Downfall|Downfall]]. This age saw the rise and fall of Drankor, and the rise and fall of Cha'mutte, and much growth and change among human cultures. This age saw, for the first time, humanity growing to dominant the cultures of Taelgar, and the history of this age is dominated by the history of humanity. 
+%% 4100 - current day %%
 
 ## Age of Myth
 
-The [[Age of Myth]] was a time before time and before the separation of the planes. Although it is difficult to speak of "events" in this period before time began, the key events of the Age of Myth were:
+The [[Age of Myth]] was an era before time had meaning, and before the separation of the planes. Although it is difficult to speak of "events" in this period, the key events of the Age of Myth were:
 
 * The birth of the [[Divine Presence]] and the awakening of the [[Void Mind]]
 * The creation of the [[Children of the Divine]]: the [[Great Wyrms]], the [[Titans]], the [[Archfey]], and the elemental powers: [[Djinn]], [[Marid]], [[Efreet]], and [[Dao]]
@@ -52,9 +46,16 @@ These children of the divine created many things, but all were echoes or distort
 
 The lore the elves write about the Age of Myth and the Age of Creation can be read here: [[Lore of the Birth of the Gods]].
 
+%% key points:
+- at this stage, there is no conception of other planes. the material plane itself is infused with limitless arcane energy, and magic is easy and powerful. 
+- there are no gods but the Divine Presence, and no humanoids, there are just the fey, the dragons, the giants, and the elementals. 
+- the form of the world is totally unfixed, as the powerful entities who live on what is Taelgar then use arcane magic to constantly reshape the world into their imagining
+- probably does not need extensive history
+%%
+
 ## Age of Creation
-_1 - 1520 by the Dwarven Count of Years: 1520 years_
-%% Proposing 1520 as a canonical year; it aligns with the beginning of the 10th elven leya and seems to give about the right amount of time %%
+_1 - 4122 by the Dwarven Count of Years_
+%% h 1520 as a canonical year; it aligns with the beginning of the 10th elven leya and seems to give about the right amount of time %%
 
 The [[Age of Creation]] began with [[The Riving]], when the [[Divine Presence]] separated the planes. This was the beginning of time, and the creation of the [[Echo Realms]] and [[Energy Realms]]. This was a period were in many ways, little happened beside the events of the beginning and end. 
 
