@@ -23,14 +23,14 @@ The Age of Myth is also, in some sense, the age of arcane magic, when the first 
 The Age of Creation is when the divine presence empowers divine magic. The chaos of the magical beings of the Age of Myth is tamed, by challenging that magical power into deities. 
 The Age of Humanity sees both forces brought into balance, and diminished. 
 
-This also pairs with the existing idea of Chaos vs Order. E.g., Age of Myth = Chaos = Arcane Magic; Age of Creation = Order = Divine Magic. 
-
+This also pairs with the existing idea of Chaos vs Order. E.g., Age of Myth = Chaos = Arcane Magic; Age of Creation = Order = Divine Magic. Although the Order vs Chaos is more applicable to the pre-Humanity period of the Age of Creation....tbd
 %%
 
 The **Age of Myth**, when the multiverse was new, a period before time itself was created. The Age of Myth begin with the first act of creation and are a time of the archfey, titans, elements, and great wyrms. This age ends with [[The Riving]] when the [[Divine Presence]] separates the planes of existence from each other and creates the [[Material Plane]]. This was a time of huge empires and incredible acts of magic, but also of much chaos.
 
-The **Age of Creation** began after [[The Riving]], when the multiverse was created, and ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the Divine Spark on the [[Material Plane]]. It was during the Age of Creation that the [[Elder Folk|oldest sentient species]] of Taelgar were created by [[Embodied Gods]], when the vast civilizations of [[elves]], [[Dwarves|dwarves]], [[Lizardfolk|lizardfolk]], and others spread across the world. It was also the age when [[Humans|humans]] were created by the [[Divine Presence]] on [[Hkar]], and endowed with the divine spark; and when other, darker species were created by the [[Void Mind]] and its allies. The Age of Creation ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of divine magic on Taelgar, especially the creative force of the divine spark. This is the golden age of the non-human species, but also a time that lacked dynamism. Little changed or was truly new in this age, as the Firstborn of the Elder Folk encouraged sameness and uniformity. 
+The **Age of Creation** began after [[The Riving]], when the multiverse was created, and ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the Divine Spark on the [[Material Plane]]. It was during the Age of Creation that the [[Elder Folk|oldest sentient species]] of Taelgar were created by [[Embodied Gods]], when the vast civilizations of [[elves]], [[Dwarves|dwarves]], [[Lizardfolk|lizardfolk]], and others spread across the world. It was also the age when [[Humans|humans]] were created by the [[Divine Presence]] on [[Hkar]], and endowed with the divine spark; and when other, darker species were created by the [[Void Mind]] and its allies. The Age of Creation ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of divine magic on Taelgar, especially the creative force of the divine spark. 
 %%  1 - 4100  %%
+%% Not sure if this makes sense anymore: This is the golden age of the non-human species, but also a time that lacked dynamism. Little changed or was truly new in this age, as the Firstborn of the Elder Folk encouraged sameness and uniformity. %%
 
 The **Age of Humanity** began with the sinking of [[Hkar]] and the reshaping of the world that accompanied the [[The Downfall|Downfall]]. This age saw the rise and fall of Drankor, and the rise and fall of Cha'mutte, and much growth and change among human cultures. This age saw, for the first time, humanity growing to dominant the cultures of Taelgar, and the history of this age is dominated by the history of humanity. 
 %% 4100 - current day %%
@@ -57,16 +57,21 @@ The lore the elves write about the Age of Myth and the Age of Creation can be re
 _1 - 4122 by the Dwarven Count of Years_
 %% h 1520 as a canonical year; it aligns with the beginning of the 10th elven leya and seems to give about the right amount of time %%
 
-The [[Age of Creation]] began with [[The Riving]], when the [[Divine Presence]] separated the planes. This was the beginning of time, and the creation of the [[Echo Realms]] and [[Energy Realms]]. This was a period were in many ways, little happened beside the events of the beginning and end. 
+The [[Age of Creation]] began with [[The Riving]], when the [[Divine Presence]] separated the planes. This was the beginning of time, and the creation of the [[Echo Realms]] and [[Energy Realms]]. This was also when the [[Divine Presence]] gave parts of itself to create other divinities, first the [[Embodied Gods]] and later the [[Incorporeal Gods]], and when the [[Void Mind]] was able to steal the power of the [[Divine Presence]] to empower and create the [[Three Despairs]]. 
+
+The [[Age of Creation]] ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the divine spark of humanity. 
+
+%% not positive about this anymore: This was a period were in many ways, little happened beside the events of the beginning and end. %%
 
 At the start of the Age, [[The Riving]], resulted in:
 * The creation of the [[Echo Realms]] and the [[Energy Realms]] and the departure of many of the powerful [[Great Wyrms]], [[Archfey]], [[Titans]], and the elemental powers to other planes
+%% the metaphysics needs a little more thought - Echo Realms and Energy Realms are clear enough but it isn't obvious that titans who flee, or great wyrms, make sense to end up in one of those places. %%
 * The creation of the [[Embodied Gods]] and their creations, the [[Elder Folk]]
 * The creation of the [[Three Despairs]], and in turn, their creations: [[Thark]], the [[Goddess of the End]], the [[Endless Chaos]],  the [[Mad One]] 
    %% note: see below about orcs; possible to move Thark's creation if it should align with creation of orcs %%
 * The unleashing of the curses of necromancy and lycanthropy on the world
 
-But broadly, through the rest of the long years of the Age of Creation, little happened. The [[Elder Folk]] learned magic, and writing, and grew, and prospered:
+But broadly, for the first thousand years or more of the Age of Creation, little happened. The [[Elder Folk]] learned magic, and writing, and grew, and prospered:
 
 * The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the age, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]]. grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Is Tinwerquë canonical? %%
 * The stoneborn, even less numerous than elves, and always reclusive, do not figure greatly in the stories that remain from these times. As always, the stoneborn hid away in their barren retreats, in the high peaks, the frozen north, and the depths of deserts. However, legends of great masters of art and craft, trained by the Stoneborn, demonstrate the mark they still made on the world.  
@@ -85,11 +90,11 @@ Broadly then, there are three simple possibilities for the orcish creation:
 It is likely not necessary to decide this at the moment, until/unless we want to flesh out the details of the Age of Shadows and/or the metaphysics of orcs. The most relevant concerns are probably on the transition from "peace" to "defensive empires" amongst the elves and dwarves and the metaphysics of Thark's ability to create orcs in the first place.
 %%
 
-And yet, the [[Divine Presence]] was not satisfied. After millennia, the world of Taelgar was static. While no longer ever changing and full of the chaotic energy of the intermingled planes, in the balance of chaos and order, the pendulum had swung too far. The embodied gods had put too much of themselves into their creations, and year after year followed like clockwork. And so the Age of Creation ended with the [[Creation of Humans]] on the island of [[Hkar]], raised by the [[Divine Presence]] with the gift of the Divine Spark.
+And yet, the [[Divine Presence]] was not satisfied. After millennia, the world of Taelgar was static. While no longer ever changing and full of the chaotic energy of the intermingled planes, in the balance of chaos and order, the pendulum had swung too far. The embodied gods had put too much of themselves into their creations, and year after year followed like clockwork. 
 
-## Age of Shadows
-_1520 - 4122 by the Dwarven Count of Years: 2602 years_
-%% The name is a placeholder. Other notes have said just Third Age, Age of Dawn, or Age of Humanity. But not sure I love any of those %%
+The second phase of the Age of Creation began in the year 1520 by the Dwarven Count, with the [[Creation of Humans]] on the island of [[Hkar]], raised by the [[Divine Presence]] with the gift of the Divine Spark. Over the next 2500 years, humans grow powerful, and explore, but the Void Mind also works in the shadows, and the Age of Creation ends in cataclysm. 
+
+%% needs work below%%
 
 The [[Age of Shadows]] begins with the [[Creation of Humans]] and ends with the sinking of Hkar in [[The Downfall]]. It an age of war and loss, but also the age when humans first grow, and explore, and interact with the [[Elder Folk]]. It is an age of change and disruption.
 
