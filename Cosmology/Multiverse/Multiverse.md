@@ -2,6 +2,11 @@
 tags: [status/stub, place]
 ---
 
+A variety of planes surround and extend from the [[Material Plane]], together making up the Multiverse. 
+
+
+
+
 %% a page for overall cosmology %%
 
 %%SECERT
