@@ -10,7 +10,7 @@ Running up the tower, suddenly your memories come rushing back. Chains, growing 
 
 Then all is dark. You have scattered memories of your mind being split, being forced into a statue of yourself, a representation cast with magic to be your eyes and ears and mouth. The wizard, questioning you, asking how to restore the crashed ship, [[Vindristjarna]], The Star on the Wind. The magic traps you but does not compel you, and you are silent. 
 
-Brief flashes come to you. A memory of the rage swelling within you. The impotent anger, with no where to go. Time passes, in brief flashes, but mostly you step outside time, reach out even in your trapped state to the power of the [[Phasing Stones|phasing stone]] and warp the [[dreamworld]] around you. Time passes, but not for you, forever in your mountain realm. 
+Brief flashes come to you. A memory of the rage swelling within you. The impotent anger, with no where to go. Time passes, in brief flashes, but mostly you step outside time, reach out even in your trapped state to the power of the [[Phasing Stones|phasing stone]] and warp the [[Dreamworld]] around you. Time passes, but not for you, forever in your mountain realm. 
 
 Until searing pain, and you can no longer see, and you can feel the angry ghost you forced into the statue looking for you. Sometimes it takes control, and you lash out, the wind and lightning growing strong. Sometimes you fight it off, keep your mind in your dream haven. 
 
