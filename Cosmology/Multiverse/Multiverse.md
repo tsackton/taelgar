@@ -4,7 +4,15 @@ tags: [status/stub, place]
 
 A variety of planes surround and extend from the [[Material Plane]], together making up the Multiverse. 
 
+While there are many ways to describe the multiverse, the most widely known comes from elven scholars, who describe the multiverse a pair of intersecting domes: the below, the dome of the physical planes rising from the roiling chaos of the [[Plane of Magic]]; above, the dome of the planes of sentience, descending from the blinding intensity of the [[Plane of Creation]].  
 
+The duality of the [[Material Plane]] -- the physical structures of the universe -- and the [[Plane of Souls]] -- the soul structures of the sentient inhabitants of the universe -- sit in the middle of these domes, the Material Plane anchored to the dome of physicality, the Plane of Souls anchored to the dome of sentience. 
+
+Descending "below" the material plane in this cosmology is the [[Ethereal Plane]], which stretches from the border ethereal, co-localizing with the material plane, through the interior ethereal, a foggy expanse of swirling mists, to the deep ethereal, which bleeds into the [[Plane of Magic]]. Embedded within the "sea" of the [[Ethereal Plane]] are the [[Energy Realms]], chief among them the [[Elemental Planes]], domains of pure physicality, capturing the essence of the fundamental elements of the universe. 
+
+Floating "above" the plane of souls in this cosmology is the [[Astral Plane]], which is bisected by the [[Land of the Dead]], a collecting point for souls and an not-quite-impermeable barrier separating the raw energy of creation from the [[Material Plane]]. Beyond the [[Land of the Dead]], the [[Astral Plane]] is a strange empty expanse of silvery waves, in which the [[Spiritual Realms]] float like bubbles, until it merges with the blinding energy of the [[Plane of Creation]]. 
+
+Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]], the distortions and reflections and reverberations of the planes created by [[The Riving]], which still resonance today. Most notably, these include the [[Feywild]], an echo of the material plane, and the [[Dreamworld]], an echo of the plane of souls, but others have been described, including the domains of the [[Shadowfell]], the [[Nightmare Realm]], and the [[Mirror Realm]]. 
 
 
 %% a page for overall cosmology %%
