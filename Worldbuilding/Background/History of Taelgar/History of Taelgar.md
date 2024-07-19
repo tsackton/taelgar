@@ -58,7 +58,7 @@ _1 - 1520 by the Dwarven Count of Years_
 
 The [[Age of Creation]] began as [[The Riving]] ended, the [[Multiverse]] was fixed in form, and the [[Embodied Gods]], imbued with the power of creation by the [[Divine Presence]], brought into being something new, the [[Elder Folk]], sentient creatures endowed with [[~soulstuff~]] by their divine creators. 
 
-But broadly, for the first thousand years or more of the Age of Creation, little happened. The [[Elder Folk]] learned magic, and writing, and grew, and prospered:
+Over the course of the Age, the [[Elder Folk]] learned magic, and writing, and grew, and prospered:
 
 * The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the age, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]]. grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Is Tinwerquë canonical? %%
 * The stoneborn, even less numerous than elves, and always reclusive, do not figure greatly in the stories that remain from these times. As always, the stoneborn hid away in their barren retreats, in the high peaks, the frozen north, and the depths of deserts. However, legends of great masters of art and craft, trained by the Stoneborn, demonstrate the mark they still made on the world.  
@@ -67,21 +67,24 @@ But broadly, for the first thousand years or more of the Age of Creation, little
 * The halflings, always wanderers, spread across the [[Green Sea]], and along the coasts, although from where, originally, they came, lore does not say, and the halflings themselves do not share. While they traveled everywhere, they remained most prevalent along the shores of the [[Green Sea]], along the southeast coast of the continent, and across the great plains of the interior.
 
 %%
-Undetermined is when the Orcs were created. One possibility is that orcs, in the far reaches of the world, were created during this period, perhaps concurrently with the rest of the Children of the Embodied Gods. A second possibility is that Thark is not able to create the orcs for some reason until later, either late in the Age of Creation or during the Age of Shadows. From a demographic standpoint, orcs are expected to have a very small initial creation, a very high birth rate, and a very high death rate. So it takes a while for them to be noticed, so they cannot be created too late.
+Undetermined is when the Orcs were created. One possibility is that orcs, in the far reaches of the world, were created during this period, perhaps concurrently with the rest of the Children of the Embodied Gods. A second possibility is that Thark is not able to create the orcs for some reason until later, either late in the Age of Creation or during the Age of Divinity. From a demographic standpoint, orcs are expected to have a very small initial creation, a very high birth rate, and a very high death rate. So it takes a while for them to be noticed, so they cannot be created too late.
 
 Broadly then, there are three simple possibilities for the orcish creation:
 * At the beginning of the Age of Creation, totally unknown to anyone. This works from a "parallel to Elder Folk" but adds some 'darkness' to the otherwise idyllic Age of Creation
 * Sometime during the Age of Creation, perhaps late. I'm not sure there are any benefits to this, unless the creation of orcs is meant to be some type of trigger for the creation of humans
-* At the beginning or just after the beginning of the Age of Shadows. This would make them align with the creation of humans and hobgoblins
+* At the beginning or just after the beginning of the Age of Divinity. This would make them align with the creation of humans and hobgoblins
 
-It is likely not necessary to decide this at the moment, until/unless we want to flesh out the details of the Age of Shadows and/or the metaphysics of orcs. The most relevant concerns are probably on the transition from "peace" to "defensive empires" amongst the elves and dwarves and the metaphysics of Thark's ability to create orcs in the first place.
+It is likely not necessary to decide this at the moment, until/unless we want to flesh out the details of the Age of Divinity and/or the metaphysics of orcs. The most relevant concerns are probably on the transition from "peace" to "defensive empires" amongst the elves and dwarves and the metaphysics of Thark's ability to create orcs in the first place.
 %%
 
 And yet, the [[Divine Presence]] was not satisfied. After millennia, the world of Taelgar was static. While no longer ever changing and full of the chaotic energy of the intermingled planes, in the balance of chaos and order, the pendulum had swung too far. The embodied gods had put too much of themselves into their creations, and year after year followed like clockwork. 
+## Age of Divinity
+_1520-4122 by the Dwarven Count of Years_
 
-%% this becomes "Age of Divinity"%%
+The Age of Divinity began in the year 1520 by the Dwarven Count, with the [[Creation of Humans]] on the island of [[Hkar]], raised by the [[Divine Presence]] with the gift of the Divine Spark. Over the next 2500 years, humans grew powerful, and explored across the world, but the Void Mind also worked in the shadows, and the Age of Divinity ends in cataclysm. 
 
-The second phase of the Age of Creation began in the year 1520 by the Dwarven Count, with the [[Creation of Humans]] on the island of [[Hkar]], raised by the [[Divine Presence]] with the gift of the Divine Spark. Over the next 2500 years, humans grow powerful, and explore, but the Void Mind also works in the shadows, and the Age of Creation ends in cataclysm. 
+The Age of Divinity, like the Age of Creation, began with an upheaval of the [[Multiverse]], one with far-reaching impacts but a far less dramatic beginning. Throughout the long [[Age of Creation]], the [[Land of the Dead]] formed an impermeable barrier to the magic of creation, through which only the [[Embodied Gods]] could reach, and which meant that nothing new could be shaped from the magic of creation but what the [[Divine Presence]] imagined. 
+
 
 %% needs work below%%
 
