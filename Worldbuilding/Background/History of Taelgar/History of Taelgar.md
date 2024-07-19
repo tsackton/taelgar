@@ -83,26 +83,23 @@ _1520-4122 by the Dwarven Count of Years_
 
 The Age of Divinity began in the year 1520 by the Dwarven Count, with the [[Creation of Humans]] on the island of [[Hkar]], raised by the [[Divine Presence]] with the gift of the Divine Spark. Over the next 2500 years, humans grew powerful, and explored across the world, but the Void Mind also worked in the shadows, and the Age of Divinity ends in cataclysm. 
 
-The Age of Divinity, like the Age of Creation, began with an upheaval of the [[Multiverse]], one with far-reaching impacts but a far less dramatic beginning. Throughout the long [[Age of Creation]], the [[Land of the Dead]] formed an impermeable barrier to the magic of creation, through which only the [[Embodied Gods]] could reach, and which meant that nothing new could be shaped from the magic of creation but what the [[Divine Presence]] imagined. 
+The Age of Divinity, like the Age of Creation, began with an upheaval of the [[Multiverse]], one with far-reaching impacts but a far less dramatic beginning. Throughout the long [[Age of Creation]], the [[Land of the Dead]] formed an impermeable barrier to the magic of creation. Although the [[Embodied Gods]] could easily reach across this barrier, to grant miracles and change the Material Plane, the magic of souls could not act, except through the Embodied Gods. With the [[Creation of Humans]], this changed. 
 
+At the beginning of the Age of Divinity, [[Humans|humanity]] is created, and granted the gift of the Divine Spark, the ability of their souls to work magic and shape the creation of new things in the multiverse. The [[Land of the Dead]] ceases to be a barrier to the magic of creation, and the hopes, dreams, fears, and nightmares of early humans gather force and power. Sometimes shaped by the best of humanity, other times by the twisted creations of the [[Void Mind]], the world in the Age of Divinity is both a more vibrant and more dangerous place, and through the magic of the divine spark, eventually both [[Incorporeal Gods]] and diverse [[~outer realms~]] come into existence.
 
-%% needs work below%%
-
-The [[Age of Shadows]] begins with the [[Creation of Humans]] and ends with the sinking of Hkar in [[The Downfall]]. It an age of war and loss, but also the age when humans first grow, and explore, and interact with the [[Elder Folk]]. It is an age of change and disruption.
-
-In the beginning of the Age of Shadows, a number of conflicts begin, and the [[Elder Folk]] sense a change:
-
-* Elves feel this most keenly, and begin to shift their posture to a defensive one, building strongholds and preparing for some as of yet unseen danger. 
-* Dwarves have a big conflict, those who think they should fortify underground vs those who think they should flee the mountains. The later become gnomes.
-
-%% To be determined: What are these conflicts? The coming of orcs? The coming of mind flayers? Does there need to be a big battle or danger to trigger the gnomish schism %%
-
-Additionally, the Void Mind does two things at this time:
+Additionally, the Void Mind does more two things at this time:
 * During the [[Creation of Humans]], manages to [[Creation of the Hobgoblins|create the hobgoblins]]
 * Allows or creates cracks in the fabric of reality, allowing the mind flayers and other alien species an entrance into Taelgar
 %% The exact timing of the Void Mind activities is not canonically determined %%
 
-The Age of Shadows aligns with the grow and expansion of humanity, and in many ways the growth of humanity, and humanity's interaction with the non-human races, is the most important story of the age. The specific history of Hkar is intentionally left blank, although there are some events that are dated back to Hkar (in particular, the story of  [[Sarqon]] and the [[Chainshroud]] as recounted by the [[Philosopher's Information Concerning Binding Stones]]). Instead, it is best to understand the events on Hkar via the influences they had on religious history, and the migrations from Hkar (which then had significant effects on the development of other human cultures outside of Hkar).
+As the Age of Divinity begins, the [[Embodied Gods]] of the [[Elder Folk]] sense a turn in the air, a feeling of coming darkness, a premonition, but lacking detail. 
+
+* Among the elves, warnings of danger from [[Elmerca]] begin, and while the elven empires turn to prepare for war, no dangers materialize. Over time, the influence of the ~Wardens of Elmerica~ fade, though the premonitions don't cease. The ~Wardens of Elmerica~ persist as a small, somewhat isolated group, warning of a great danger that never seems to come, while elven society seems to move on around and without them.
+* Among the Dwarves, the warnings begin among the ~Cult of the Warrior~, a small group who claim that the Bahrazel known as Azar, the ~Prophet~, is calling them to a new thuhr, a warrior thuhr, to defend the safety of the dwarven people. Dwarven society splits among those who turn to fortifications and defense, and those who wish to flee the mountains, for few dare to reject warnings of the ~Prophet~. For several generations, there is stasis, and debate, until the first wars between the mind flayers and the dwarves erupt deep beneath the earth. Many dwarves, who later become the gnomes, flee the mountains. Many others stay, and fortify their homes. The warrior thuhr becomes established as the defender of dwarven society, deep below the earth.  %% this is one version of events, could be edited / elaborated on %%
+
+%% To be determined: exact timing of these premonitions is unclear, and whether stoneborn/halflings/lizardfolk are impacted is left undetermined %%
+
+The Age of Divnity aligns with the grow and expansion of humanity, and in many ways the growth of humanity, and humanity's interaction with the non-human races, is the most important story of the age. The specific history of Hkar is intentionally left blank, although there are some events that are dated back to Hkar (in particular, the story of  [[Sarqon]] and the [[Chainshroud]] as recounted by the [[Philosopher's Information Concerning Binding Stones]]). Instead, it is best to understand the events on Hkar via the influences they had on religious history, and the migrations from Hkar (which then had significant effects on the development of other human cultures outside of Hkar).
 
 The first period of humanity on Hkar, lasting roughly three hundred years, is best thought of as the era of personal deities.  This period is characterized by:
 * Simple religious beliefs focused around the concept of each human having a personal god
@@ -122,11 +119,9 @@ Around the year 2500 (or perhaps a little early), a number of changes come to Hk
 * The first cults of personality develop, which within a short period (~100 years?) lead to the era of small gods as the idea of cults rapidly develops into the idea of small, local gods. Religious ritual (as opposed to personal miracles) starts to develop
 * The first migration leaves the island: the Northerners, who make contact with non-humans for the first time
 
-%% The [[Religious History of Taelgar]] doc that I am drawing from here suggests that the era of small gods is a long lasting religious stasis. It also hints, although perhaps doesn't suggest, that the era of personal deities is a long lasting 
+%% The [[Religious History of Taelgar]] doc that I am drawing from here suggests that the era of small gods is a long lasting religious stasis. It also hints, although perhaps doesn't suggest, that the era of personal deities is a long lasting %%
 
-
-
-
+%% notes below 
 So the age begins with concern, and tension within the elves and dwarves. Over the next 1000 years, things grow: humans, hobgoblins, orcs, empires. 
 * By ~3000, about 1000 years before the fall of Hkar, the first humans are in the mainland, and the first tentative hints of orcs, hobgoblins, mind flayers and others reaches the elder races.
 * During the next 1000 years, there is a slow increase in tension. During this time is probably when the great northern wall is built, when the fey start to protect Tyrwingha, when lots of weird magical relics exist, when a lot of evocation and other offensive magic is developed by the elves, all that. 
@@ -144,14 +139,8 @@ In between these major waves of migration from Hkar, there are several smaller o
 * Others, potentially, to be determined
 
 It is likely that all migrations after the second wave are culturally cohesive groups, leaving Hkar in some part as a rebellion or in contrast to the growing magical, urban, pantheonic culture of Hkar. 
-
+%%
 ## Age of Humanity
-_4122 - 5678 by the Dwarven Count of Years: 1556 years _
-%% These dates are canonical, unless I did the math wrong, being [[The Downfall]] and the [[Great War]] %%
+_4122 - present by the Dwarven Count of Years _
 
 The [[Age of Humanity]] begins in the cataclysm of the destruction of [[Hkar]] and the devastation this causes, and ends with the [[Great War]] and the defeat of [[Cha'mutte]]. In between, it saw the rise and fall of the [[Drankorian Empire]] and significant changes in the [[Western Green Sea]] and [[West Coast Region]], as well as the rise of the [[Dunmar|Dunmari]].
-
-
-_5678 - present by the Dwarven Count of Years, 1545 - present by the Drankorian Reckoning_
-
- The [[Age of Rebirth]] begins with the upheavals from the [[Great War]] and the [[Blood Years]] that follow. 
