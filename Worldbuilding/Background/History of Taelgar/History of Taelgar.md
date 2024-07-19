@@ -14,27 +14,17 @@ is intended to be written from an "in world" perspective and would be suitable t
 Information in %% notes %% is brainstorming or non-canonical. This document attempts to keep from growing too much by creating separate notes for other periods and other aspects where more detail is needed.
 
 ## Overview
-The mythic history of Taelgar is organized around three major metaphysically distinct eras, marked by each marked by significant disruptions of the extraplanar order. 
+The mythic history of Taelgar is organized around four major metaphysically distinct eras, each marked by significant changes to the extraplanar order. 
 
 In broad strokes, the history of Taelgar can be summarized as:
 
-%% possible ideas
-The Age of Myth is also, in some sense, the age of arcane magic, when the first children of the divine presence use the fact that the plane of magic has not yet been pulled away from the material plane to create great works of magic.
-The Age of Creation is when the divine presence empowers divine magic. The chaos of the magical beings of the Age of Myth is tamed, by challenging that magical power into deities. 
-The Age of Humanity sees both forces brought into balance, and diminished. 
+The **Age of Myth**, when the multiverse was new, a period before time itself was created. The Age of Myth begin with the first act of creation and are a time of the archfey, titans, elements, and great wyrms, a time when the power of arcane magic coursed unchecked through the multiverse and altering reality was as simple as a thought. This was a time of huge empires and incredible acts of magic, but also of much chaos. This age ended with [[The Riving]], when the [[Divine Presence]] separates the planes of existence from each other and creates the [[Material Plane]].
 
-This also pairs with the existing idea of Chaos vs Order. E.g., Age of Myth = Chaos = Arcane Magic; Age of Creation = Order = Divine Magic. Although the Order vs Chaos is more applicable to the pre-Humanity period of the Age of Creation....tbd
-%%
+The **Age of Creation**, when the first divinities came into being, and the [[Elder Folk]] flourished. This age began as the [[Multiverse]] was established by the [[Divine Presence]], and the [[Embodied Gods]] created the [[Elder Folk]]. This is the golden age of the non-human species, when the vast civilizations of [[elves]], [[Dwarves|dwarves]], [[Lizardfolk|lizardfolk]], and others spread across the world, but also a time that lacked dynamism. Little changed or was truly new in this age, as the Firstborn of the Elder Folk channeled the raw creative force of ~soulstuff~ into sameness and uniformity. The Age of Creation ended with the [[Creation of Humans]] and the breaking of the barriers that contained and constrained the creative force of [[~soulstuff~]].
 
-The **Age of Myth**, when the multiverse was new, a period before time itself was created. The Age of Myth begin with the first act of creation and are a time of the archfey, titans, elements, and great wyrms. This age ends with [[The Riving]] when the [[Divine Presence]] separates the planes of existence from each other and creates the [[Material Plane]]. This was a time of huge empires and incredible acts of magic, but also of much chaos.
-
-The **Age of Creation** began after [[The Riving]], when the multiverse was created, and ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the Divine Spark on the [[Material Plane]]. It was during the Age of Creation that the [[Elder Folk|oldest sentient species]] of Taelgar were created by [[Embodied Gods]], when the vast civilizations of [[elves]], [[Dwarves|dwarves]], [[Lizardfolk|lizardfolk]], and others spread across the world. It was also the age when [[Humans|humans]] were created by the [[Divine Presence]] on [[Hkar]], and endowed with the divine spark; and when other, darker species were created by the [[Void Mind]] and its allies. The Age of Creation ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of divine magic on Taelgar, especially the creative force of the divine spark. 
-%%  1 - 4100  %%
-%% Not sure if this makes sense anymore: This is the golden age of the non-human species, but also a time that lacked dynamism. Little changed or was truly new in this age, as the Firstborn of the Elder Folk encouraged sameness and uniformity. %%
+The **Age of Divinity** began with the [[Creation of Humans]], and the shattering of the walls that isolated the [[Material Plane]] and kept the creative force of [[~soulstuff~]] from affecting the wider multiverse. Humans, created by the [[Divine Presence]] itself on [[Hkar]], were unlike anything that had come before, for they were granted the Divine Spark, the ability of their beliefs to shape the very reality of the multiverse, creating [[Incorporeal Gods]] out of the material of creation itself. This was an age of great change, as the greatest hopes and darkest fears of humanity were manifest in [[~soulstuff~]]. It was also an age when other, darker things were created by the machinations of the [[Void Mind]]. The Age of Divinity ended with the the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the Divine Spark on the [[Material Plane]]. 
 
 The **Age of Humanity** began with the sinking of [[Hkar]] and the reshaping of the world that accompanied the [[The Downfall|Downfall]]. This age saw the rise and fall of Drankor, and the rise and fall of Cha'mutte, and much growth and change among human cultures. This age saw, for the first time, humanity growing to dominant the cultures of Taelgar, and the history of this age is dominated by the history of humanity. 
-%% 4100 - current day %%
-
 ## Age of Myth
 
 The [[Age of Myth]] was an era before time had meaning, and before the separation of the planes. Although it is difficult to speak of "events" in this period, the key events of the Age of Myth were:
@@ -44,41 +34,29 @@ The [[Age of Myth]] was an era before time had meaning, and before the separatio
 
 %% elder elementals are like krakens and phoenixes and the like: Gazankoa, not mere marids. %%
 
-These children of the divine created many things, but all were echoes or distortions of themselves, and although great empires and cities arose and disappeared, nothing was stable.
+These children of the divine created many things, but all were echoes or distortions of themselves, and although great empires and cities arose and disappeared, nothing was stable. 
 
-The lore the elves write about the Age of Myth and the Riving can be read here: [[Lore of the Birth of the Gods]].
+The Age of Myth ended with [[The Riving]], which lead to the creation of the [[Mulitverse]]. 
 
 %% key points:
 - at this stage, there is no conception of other planes. the material plane itself is infused with limitless arcane energy, and magic is easy and powerful. 
 - there are no gods but the Divine Presence, and no humanoids, there are just the fey, the dragons, the giants, and the elementals. 
 - the form of the world is totally unfixed, as the powerful entities who live on what is Taelgar then use arcane magic to constantly reshape the world into their imagining
-- probably does not need extensive history
+- probably does not need extensive history; in any case linear causality is not necessarily a thing during this age so 
 %%
 
+## The Riving
+
+Between the end of the [[Age of Myth]] and the beginning of the [[Age of Creation]] was an event, [[The Riving]], both instantaneous and eternal, a time out of time when the basic form of the  [[Multiverse]] was fixed by the [[Divine Presence]]. During [[The Riving]]:
+- The chaotic arcane energy of true magic was pulled from the [[Material Plane]], creating the [[Plane of Magic]] and the [[Ethereal Plane]], and leaving behind the scars of [[Ley Lines]], through which arcane magic could still reach into the world, but requiring significant effort and skill. 
+- At this moment of separate, some of the [[Children of the Divine]] fled the [[Material Plane]], and created their own [[Energy Realms]] from the raw energy of magic. The most prominent of these are the [[Elemental Planes]] created by the [[Elder Elementals]]; whether other Energy Realms exist is not recorded. 
+- The force of this rupture created resonances and echos that still reverberate to the current day, and which shaped and guided the [[Echo Realms]]. Most prominent among these is the [[Feywild]], an echo of the [[Material Plane]], and home to the [[Archfey]] of old. But many other [[Echo Realms]] are thought to exist, shaped from the resonances that still surround the [[~inner realms~]] of the multiverse. 
+- During [[The Riving]], the [[Divine Presence]] spun out from itself a creative force, distinct from the chaotic energy of the [[Plane of Magic]], the raw material of sentience and self-awareness, in the form of the [[Astral Plane]]. From this creative power, the [[Embodied Gods]] came into being.
+- As [[The Riving]] came to an end, the [[Embodied Gods]] created the [[Elder Folk]], sentient species endowed with souls made of this raw material of creation, [[~soulstuff~]]. 
 ## Age of Creation
-_1 - 4122 by the Dwarven Count of Years_
+_1 - 1520 by the Dwarven Count of Years_
 
-The [[Age of Creation]] began with [[The Riving]], when the [[Divine Presence]] ripped away and isolated the powerful magic that once coursed through reality, creating the [[Material Plane]] and the [[Plane of Magic]] in the process, separated from each other by the [[Ethereal Plane]]. The echoes of the energy of this event, at times aided and shaped by the [[Children of the Divine]], created the [[Echo Realms]] and the [[Energy Realms]] as well. 
-
-%% probably true: at this stage there is no soul stuff and no deities, so there are no "spiritual realms" yet. but, the described echo realms and energy realms are not all there is, and in principle, for example, some great wyrms could have made echo realms of the plane of magic, for example, or perhaps some of the titans live in echo realms of the elemental planes, or perhaps there are non-elemental energy realms that exist %%
-
-The [[The Riving|Riving]], a moment out time both instantaneous and eternal, ended with another act of creation: the [[Divine Presence]] gave part of itself to other divinities, imbuing them with divine power and the ability to create. These were the [[Embodied Gods]].
-
-%% stilll to decide: how this is connected to the creation of the plane of souls and the dreamworld %%
-
-This was the beginning of time, and the creation of the [[Echo Realms]] and [[Energy Realms]]. This was also when the [[Divine Presence]] gave parts of itself to create other divinities, first the [[Embodied Gods]] and later the [[Incorporeal Gods]], and when the [[Void Mind]] was able to steal the power of the [[Divine Presence]] to empower and create the [[Three Despairs]]. 
-
-The [[Age of Creation]] ended with the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the divine spark of humanity. 
-
-%% not positive about this anymore: This was a period were in many ways, little happened beside the events of the beginning and end. %%
-
-At the start of the Age, [[The Riving]], resulted in:
-* The creation of the [[Echo Realms]] and the [[Energy Realms]] and the departure of many of the powerful [[Great Wyrms]], [[Archfey]], [[Titans]], and the elemental powers to other planes
-%% the metaphysics needs a little more thought - Echo Realms and Energy Realms are clear enough but it isn't obvious that titans who flee, or great wyrms, make sense to end up in one of those places. %%
-* The creation of the [[Embodied Gods]] and their creations, the [[Elder Folk]]
-* The creation of the [[Three Despairs]], and in turn, their creations: [[Thark]], the [[Goddess of the End]], the [[Endless Chaos]],  the [[Mad One]] 
-   %% note: see below about orcs; possible to move Thark's creation if it should align with creation of orcs %%
-* The unleashing of the curses of necromancy and lycanthropy on the world
+The [[Age of Creation]] began as [[The Riving]] ended, the [[Multiverse]] was fixed in form, and the [[Embodied Gods]], imbued with the power of creation by the [[Divine Presence]], brought into being something new, the [[Elder Folk]], sentient creatures endowed with [[~soulstuff~]] by their divine creators. 
 
 But broadly, for the first thousand years or more of the Age of Creation, little happened. The [[Elder Folk]] learned magic, and writing, and grew, and prospered:
 
@@ -100,6 +78,8 @@ It is likely not necessary to decide this at the moment, until/unless we want to
 %%
 
 And yet, the [[Divine Presence]] was not satisfied. After millennia, the world of Taelgar was static. While no longer ever changing and full of the chaotic energy of the intermingled planes, in the balance of chaos and order, the pendulum had swung too far. The embodied gods had put too much of themselves into their creations, and year after year followed like clockwork. 
+
+%% this becomes "Age of Divinity"%%
 
 The second phase of the Age of Creation began in the year 1520 by the Dwarven Count, with the [[Creation of Humans]] on the island of [[Hkar]], raised by the [[Divine Presence]] with the gift of the Divine Spark. Over the next 2500 years, humans grow powerful, and explore, but the Void Mind also works in the shadows, and the Age of Creation ends in cataclysm. 
 
@@ -168,7 +148,7 @@ _4122 - 5678 by the Dwarven Count of Years: 1556 years _
 
 The [[Age of Humanity]] begins in the cataclysm of the destruction of [[Hkar]] and the devastation this causes, and ends with the [[Great War]] and the defeat of [[Cha'mutte]]. In between, it saw the rise and fall of the [[Drankorian Empire]] and significant changes in the [[Western Green Sea]] and [[West Coast Region]], as well as the rise of the [[Dunmar|Dunmari]].
 
-## Age of Rebirth
+
 _5678 - present by the Dwarven Count of Years, 1545 - present by the Drankorian Reckoning_
 
  The [[Age of Rebirth]] begins with the upheavals from the [[Great War]] and the [[Blood Years]] that follow. 
