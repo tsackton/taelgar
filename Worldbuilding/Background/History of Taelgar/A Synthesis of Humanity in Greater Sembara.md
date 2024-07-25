@@ -83,10 +83,6 @@ In the modern era (since the Great War), the Greater Sembaran region has been th
 * The Sembarans, a Drankorian derived culture but with significant influences from both Tollenders and Zimkovans. Some cultural differences between the northern Sembarans, especially in the highlands and the Duchy of Telham, and the southern Sembarans persist. The northern strands of Sembaran culture tend to be more Tollish/Zimkovan, and the southern more Drankorian/Isinguese. Speaks a Eastros/Drankorian blended language and worships Mos Numea. 
 * The Tyrwinghans, an ancient culture of unclear origin, although with significant assimilation trends and a lot of Drankorian and Sembaran influences. Worships Mos Numena, and mostly speaks Sembaran, but with a significant minority that speak Tyrwinghan, an ancient language with some relationships to Eastros 
 
-
-
-
-
 ## Fall of Drankor
 The Fall of Drankor brings chaos and disruption: both Skaer raiders from the east and plague from the south. When the dust settles, the six duchies that eventually form Sembara are well established, largely the inheritances of ancient Drankorian provinces. This is probably also the period when Tyrwingha establishes its traditions, including the Oracle of the Riven. 
 
