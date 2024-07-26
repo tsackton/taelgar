@@ -18,7 +18,7 @@ The mythic history of Taelgar is organized around four major metaphysically dist
 
 In broad strokes, the history of Taelgar can be summarized as:
 
-The **[[Age of Myth]]**, when the multiverse was new, a period before time itself was created. The Age of Myth begin with the first act of creation and are a time of the archfey, titans, elements, and great wyrms, a time when the power of arcane magic coursed unchecked through the multiverse and altering reality was as simple as a thought. This was a time of huge empires and incredible acts of magic, but also of much chaos. This age ended with [[Events/Ancient/The Riving]], when the [[Divine Presence]] separates the planes of existence from each other and creates the [[Material Plane]].
+The **[[Age of Myth]]**, when the multiverse was new, a period before time itself was created. The Age of Myth begin with the first act of creation and are a time of the archfey, titans, elements, and great wyrms, a time when the power of arcane magic coursed unchecked through the multiverse and altering reality was as simple as a thought. This was a time of huge empires and incredible acts of magic, but also of much chaos. This age ended with [[The Riving]], when the [[Divine Presence]] separates the planes of existence from each other and creates the [[Material Plane]].
 
 The **[[Age of Creation]]**, when the first divinities came into being, and the [[Elder Folk]] flourished. This age began as the [[Multiverse]] was established by the [[Divine Presence]], and the [[Embodied Gods]] created the [[Elder Folk]]. This is the golden age of the non-human species, when the vast civilizations of [[elves]], [[Dwarves|dwarves]], [[Lizardfolk|lizardfolk]], and others spread across the world, but also a time that lacked dynamism. Little changed or was truly new in this age, as the [[Embodied Gods]] of the [[Elder Folk]] channeled the raw creative force of [[~soulstuff~]] into sameness and uniformity. The Age of Creation ended with the [[Creation of Humans]] and the breaking of the barriers that contained and constrained the creative force of [[~soulstuff~]].
 
@@ -34,7 +34,7 @@ The [[Age of Myth]] was an era before time had meaning, and before the separatio
 
 These children of the divine created many things, and although great empires and cities arose and disappeared, nothing was stable. 
 
-The Age of Myth ended with [[Events/Ancient/The Riving]], which lead to the creation of the [[Mulitverse]]. 
+The Age of Myth ended with [[The Riving]], which lead to the creation of the [[Mulitverse]]. 
 
 Key points:
 - During the Age of Myth, there is no conception of other planes or a complex cosmos/multiverse. The material plane itself is infused with limitless arcane energy, and magic is easy and powerful. 
@@ -43,18 +43,18 @@ Key points:
 
 ## The Riving
 
-Between the end of the [[Age of Myth]] and the beginning of the [[Age of Creation]] was an event, [[Events/Ancient/The Riving]], both instantaneous and eternal, a time out of time when the basic form of the  [[Multiverse]] was fixed by the [[Divine Presence]]. During [[Events/Ancient/The Riving]]:
+Between the end of the [[Age of Myth]] and the beginning of the [[Age of Creation]] was an event, [[The Riving]], both instantaneous and eternal, a time out of time when the basic form of the  [[Multiverse]] was fixed by the [[Divine Presence]]. During [[The Riving]]:
 - The chaotic arcane energy of true magic was pulled from the [[Material Plane]], separating the [[Plane of Magic]] from the Material Plane and creating the [[Ethereal Plane]]. [[Ley Lines]] are thought to be the scars of this event, through which arcane magic can still reach into the world, but requiring significant effort and skill. 
 - At this moment of separate, some of the [[Children of the Divine]] fled the [[Material Plane]], and created their own [[Energy Realms]] from the raw energy of magic. The most prominent of these are the [[Elemental Realms]] created by the [[Elder Elementals]]; whether other Energy Realms exist is not recorded. 
 - The force of this rupture created resonances and echos that still reverberate to the current day, and which shaped and guided the [[Echo Realms]]. Most prominent among these is the [[Feywild]], an echo of the [[Material Plane]], and home to the [[Archfey]] of old. But many other [[Echo Realms]] are thought to exist, shaped from the resonances that still surround the [[Inner Realms]] of the multiverse. 
-- During [[Events/Ancient/The Riving]], the [[Divine Presence]] spun out from itself a creative force, distinct from the chaotic energy of the [[Plane of Magic]], the raw material of sentience and self-awareness, in the form of the [[Astral Plane]]. From this creative power, the [[Embodied Gods]] came into being.
-- As [[Events/Ancient/The Riving]] came to an end, the [[Embodied Gods]] created the [[Elder Folk]], sentient species endowed with souls made of this raw material of creation, [[~soulstuff~]]. 
+- During [[The Riving]], the [[Divine Presence]] spun out from itself a creative force, distinct from the chaotic energy of the [[Plane of Magic]], the raw material of sentience and self-awareness, in the form of the [[Astral Plane]]. From this creative power, the [[Embodied Gods]] came into being.
+- As [[The Riving]] came to an end, the [[Embodied Gods]] created the [[Elder Folk]], sentient species endowed with souls made of this raw material of creation, [[~soulstuff~]]. 
 
 %% at least some far realms "cracks" appear during the RIving, as this is theoretically when the Sentient Ocean flees to Taelgar. %%
 ## Age of Creation
 _1 - 1520 by the Dwarven Count of Years_
 
-The [[Age of Creation]] began as [[Events/Ancient/The Riving]] ended, the [[Multiverse]] was fixed in form, and the [[Embodied Gods]], imbued with the power of creation by the [[Divine Presence]], brought into being something new, the [[Elder Folk]], sentient creatures endowed with [[~soulstuff~]] by their divine creators. 
+The [[Age of Creation]] began as [[The Riving]] ended, the [[Multiverse]] was fixed in form, and the [[Embodied Gods]], imbued with the power of creation by the [[Divine Presence]], brought into being something new, the [[Elder Folk]], sentient creatures endowed with [[~soulstuff~]] by their divine creators. 
 
 Over the course of the Age, the [[Elder Folk]] learned magic, and writing, and grew, and prospered:
 
