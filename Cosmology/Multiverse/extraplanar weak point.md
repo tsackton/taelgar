@@ -13,5 +13,5 @@ Notable extraplanar weak points include:
 - Near [[Tokra]], in the [[Dunmari Basin]], a pair of weak points have existed for time immemorial. One, south of the city, connects to [[Arborea]]. The other, north of the city, connects to [[Pandemonium]]
 - In the lizardfolk jungle realm of [[Orekatu]], there is place known as the [[Azta Lekua|Footprint of the Gods]], a place where the separation of the planes during [[The Riving]] was incomplete, and the elemental energy of the [[Elemental Realms]] leaks into the material plane.
 - At the old Drankorian ruin known as the [[Elemental Forge]], on the [[Freccilia]] River in [[Cymea]], an extraplanar weak point to the [[Elemental Realms]] was maintained by a bound elemental creature known as [[Sh’shethis]], until the bonds were broken and the creature freed by the [[Dunmar Fellowship]] in DR 1749. 
-- Somewhere in the mountains south of [[Cedrano]], there are rumors of an extraplanar weak point connected to the [[Shadowfell]], associated somehow with the [[War of the Dark Rift]].
+- Somewhere in the mountains south of [[Cedrano]], there are rumors of an extraplanar weak point connected to some kind of [[Shadowfell]] domain, associated somehow with the [[War of the Dark Rift]].
 %%^Campaign:End%%
