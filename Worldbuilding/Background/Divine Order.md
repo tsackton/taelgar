@@ -9,7 +9,7 @@ This needs updates based on various refinements, and could probably be incorpora
 
 Gods in Taelgar are real, and many have an active presence in the world around them, although others are long faded, or unable to influence the world directly for various reasons. However, the metaphysical and magical nature of the Divine is complex. This document summarizes the creation of the world and the gods, the distinctions between various types of gods that exist in Taelgar, and briefly outlines major religions and creation stories of various races, although these are described in more detail in other places. The other planes are described elsewhere, as is the nature of magic in the material plane. 
 
-For the story of the creation of the gods, see [[History of Taelgar]] and in particular the [[Age of Myth]] and [[The Riving]].
+For the story of the creation of the gods, see [[History of Taelgar]] and in particular the [[Age of Myth]] and [[Events/Ancient/The Riving]].
 ## The Gods of Taelgar
 
 The elves recount many types of divine and near-divine powers, some known well to them, others distant tales of myth and legend. These are recounted here, roughly in order from the strongest, most powerful beings, to the weakest.

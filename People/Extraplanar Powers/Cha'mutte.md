@@ -15,6 +15,6 @@ died: 1545
 
 An elder wyrm, one of the original children of the [[Divine Presence]]. 
 
-Sought to overthrow the gods, breaking the order of things that has held since [[The Riving]], freeing the elder races from the binds and power of the Embodied Gods. 
+Sought to overthrow the gods, breaking the order of things that has held since [[Events/Ancient/The Riving]], freeing the elder races from the binds and power of the Embodied Gods. 
 
 Was defeated in the [[Great War]].
