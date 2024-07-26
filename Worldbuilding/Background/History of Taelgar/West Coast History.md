@@ -2,6 +2,8 @@
 tags: [background]
 ---
 
+%% NEEDS CLEANUP %%
+
 Some notes on West Coast history. These should not be considered fully canon, but are a framework for development.
 
 ## Pre-Drankor

@@ -4,7 +4,7 @@
 >[!warning]- For Seeker and Kenzo only 
 >As you continue down the hall, your companions turn back but you feel dragged along as if you are walking against your will. And the scene begins to change slightly.
 >
->Now, rather than the dark mass behind you you're passing through hostile terrain. The feeling of fear, the people coming to you for aid and comfort, pride in your brother being the hero and leading the charge against [[hobgoblins]], cutting a path through the mountains, to the safety on the other side. Coming to a wide, slow river, defensible, release and relief, the feel of wet earth beneath your feet after months traveling through dry dusty land. The river valley, a place that could be home. 
+>Now, rather than the dark mass behind you you're passing through hostile terrain. The feeling of fear, the people coming to you for aid and comfort, pride in your brother being the hero and leading the charge against [[Hobgoblins]], cutting a path through the mountains, to the safety on the other side. Coming to a wide, slow river, defensible, release and relief, the feel of wet earth beneath your feet after months traveling through dry dusty land. The river valley, a place that could be home. 
 >
 >But tinge with sadness, as the next scene shows the masses of people divided some following you some turning north following the river the [[Istaros|Mahar]], on the fast eastern edge of Dunmar, to where it may lead, no one knows, while you can taste the dampness in the air and imagine the sheep grazing and the horses spreading across these valleys. The split is painful still.
 >

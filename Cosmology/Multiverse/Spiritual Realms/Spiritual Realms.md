@@ -10,4 +10,8 @@ These include:
   - The divine realms, homes of the gods
   - The proximate realms, that make up the borders between the material plane and the spiritual realms
 
-%%SECRET[1]%%
+%%
+
+Probably rethink this a bit, to fit better with the Inner Planes / Outer Planes distinction
+
+%%

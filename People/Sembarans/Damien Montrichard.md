@@ -16,7 +16,7 @@ whereabouts:
 *(Dah-mee-en Mon-tree-shar)*
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
+> `$[](Humans.md)ts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[damien-montrichard.jpg|right|400]]A storyteller and musician, with a keen eye for lore.

@@ -23,7 +23,7 @@ typeOf: region
     
 - Most trade either goes south along river (not consistently navigable above the lake, though), or west to coast/overland to north of [[~North Chardon Coast~]], then south by ship.
     
-- All of this area was once small kingdoms, often mix of [[Drankorian Empire|Drankor]]/Northlander heritage, that were essentially completely wiped out by Pandor/[[hobgoblins]]/Cha’mutte in the post-Great-War period
+- All of this area was once small kingdoms, often mix of [[Drankorian Empire|Drankor]]/Northlander heritage, that were essentially completely wiped out by Pandor/[[Hobgoblins]]/Cha’mutte in the post-Great-War period
     
-- Beyond here, land of [[orcs]] and [[hobgoblins]]; this area was generally reclaimed in the past 100-150 years, after [[Blood Years]], so Chardon was pushed back, and then pushed forward
+- Beyond here, land of [[orcs]] and [[Hobgoblins]]; this area was generally reclaimed in the past 100-150 years, after [[Blood Years]], so Chardon was pushed back, and then pushed forward
 %%

@@ -12,6 +12,6 @@ whereabouts:
 # Bertrand Leclerc
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/[](Humans.md)outs")`
 
 ![[bertrand-leclerc.jpg|right|320]]A sergeant of the Swordsguard of the Ninth Company of the [[Army of the South]], he is a second cousin of [[Colonel Claude Leclerc]], of the [[Army of the West]]. He is young and ambitious and is eager to prove himself.

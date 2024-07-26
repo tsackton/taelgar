@@ -12,6 +12,6 @@ whereabouts:
 # Rene Dubois
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/[](Humans.md)outs")`
 
 ![[rene-the-scout.png|right|320]]A scout and skirmisher with the Eagle Patrol of the Ninth Company of the [[Army of the South]], skilled at spotting unusual events.
