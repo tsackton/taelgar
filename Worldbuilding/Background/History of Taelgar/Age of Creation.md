@@ -2,6 +2,8 @@
 tags: [status/tim, background]
 ---
 
+%% NEEDS CLEANUP %%
+
 ## The Age of Creation
 
 As the Age of Myth ended, and the world was changed, the lands of Taelgar stood empty, only the small remnants of the great empires of the children of the divine that managed to survive the riving remaining. In the moment of the Riving, the embodied gods created the Elder Races. First, the elves, followed by the stoneborn, the lizardfolk, the dwarves, and finally the halflings.

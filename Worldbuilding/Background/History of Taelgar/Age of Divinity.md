@@ -2,17 +2,15 @@
 tags: [status/needswork/internal]
 ---
 
+%% NEEDS CLEANUP %%
+
 And yet, Arha and Malik were not satisfied. After millenia, the world of Taelgar was static. While no longer ever changing and full of the chaotic energy of the intermingled planes, in the balance of chaos and order, the pendulum had swung too far. The embodied gods had put too much of themselves into their creations, and year after year followed like clockwork.
 
 ### The Creation of Humans
 
 So Arha and Malik created one last thing: the humans. To give them time to grow, they raised a great land in the [[Endless Ocean]] to be their homeland, which became known as Hkar. At first, little changed, although in the reckoning of elven scholars, the creation of humans -- the final great act of Creation by the gods in the world of Taelgar -- marks the end of the Age of Creation, and the beginning of the third age of the world.
 
-  
-
 Arha and Malik breathed something new into humans that would change the history of Taelgar dramatically: the power of divine belief. Elven scholars and theologians have debated for centuries the nature of the divine spark gifted to humanity, and how these powerful Incorporeal gods were able to arise from belief alone. But despite long centuries of thought and debate, knowledge of the birth of incorporeal gods remains the ineffable mystery of Ahra and Malik. No one can say for sure how new gods are born, or how old gods fade away, and exactly how the essence of humanity generates the divine magic in the world. 
-
-  
 
 As humans spread across Hkar, aware of the divine presence in everything but without the names of gods to worship -- for Arha and Malik did not answer their prayers or manifest themselves in the world for humans to see -- the first human religions began to take shape, and the first Incorporeal Gods came into being.
 
