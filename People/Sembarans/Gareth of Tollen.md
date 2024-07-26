@@ -15,7 +15,7 @@ whereabouts:
 # Gareth of Tollen
 >[!info]+ Biographical Info  
 > A [[Tollen|Tollender]] [[Humans|human]] (he/him)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/vi[](Humans.md)Value")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[gareth-of-tollen.png|right|320]]A baronial tax collector for the [[Barony of Aveil]], he was hired in mysterious circumstances and previously worked for the [[Lord Mayor’s Workhouse]] in [[Embry]] as an enforcer.

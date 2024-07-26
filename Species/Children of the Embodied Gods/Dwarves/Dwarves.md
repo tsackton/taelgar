@@ -85,7 +85,6 @@ Most of this needs to be rewritten based on the new lore in the GMBinder docs, e
 
   
 
-Five races (elves, dwarves, stoneborn, lizardfolk, and halflings) are known as the Elder Races. They were created by the Divine before time, through the influence and action of the Firstborn of their race, as described in more detail in the [description](https://docs.google.com/document/d/1lXvZcuZZhv9DriPABcfw6EMVS7JQXqQmX9JlPvUWR_k/edit#) of gods and the age of myth. These races draw their strength and abilities through their connection to the Embodied Gods, which both gives them power and constrains them. While some of these races are relatively common (dwarves and halflings), others are uncommon (lizardfolk, stoneborn), or rare (elves). 
 
   
 
