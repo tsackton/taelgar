@@ -1,5 +1,7 @@
 ---
 headerVersion: 2023.11.25
+aliases: [The Riving, Long Pause]
+displayDefaults: {defArt: "the"}
 tags: [event, status/needswork/notes]
 ---
 # The Riving
