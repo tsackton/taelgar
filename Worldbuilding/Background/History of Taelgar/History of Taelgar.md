@@ -49,6 +49,8 @@ Between the end of the [[Age of Myth]] and the beginning of the [[Age of Creatio
 - The force of this rupture created resonances and echos that still reverberate to the current day, and which shaped and guided the [[Echo Realms]]. Most prominent among these is the [[Feywild]], an echo of the [[Material Plane]], and home to the [[Archfey]] of old. But many other [[Echo Realms]] are thought to exist, shaped from the resonances that still surround the [[Inner Realms]] of the multiverse. 
 - During [[The Riving]], the [[Divine Presence]] spun out from itself a creative force, distinct from the chaotic energy of the [[Plane of Magic]], the raw material of sentience and self-awareness, in the form of the [[Astral Plane]]. From this creative power, the [[Embodied Gods]] came into being.
 - As [[The Riving]] came to an end, the [[Embodied Gods]] created the [[Elder Folk]], sentient species endowed with souls made of this raw material of creation, [[~soulstuff~]]. 
+
+%% at least some far realms "cracks" appear during the RIving, as this is theoretically when the Sentient Ocean flees to Taelgar. %%
 ## Age of Creation
 _1 - 1520 by the Dwarven Count of Years_
 
@@ -59,8 +61,15 @@ Over the course of the Age, the [[Elder Folk]] learned magic, and writing, and g
 * The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the age, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]]. grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Is Tinwerquë canonical? %%
 * The stoneborn, even less numerous than elves, and always reclusive, do not figure greatly in the stories that remain from these times. As always, the stoneborn hid away in their barren retreats, in the high peaks, the frozen north, and the depths of deserts. However, legends of great masters of art and craft, trained by the Stoneborn, demonstrate the mark they still made on the world.  
 * The lizardfolk remained largely in their homelands, in the vast coastal swamps of the southern [[Green Sea]], stretching from north of what is now the great desert all the way to the Sembaran lowlands.
-* The dwarves grew quickly after they awoke under the [[Sentinel Range]], known to them as [[Labkhan]], and began to build great halls, delving deeper underground. During the Age of Creation, the dwarves were little seen to the outside world, as their underground kingdoms slowly grew to span all of [[Sentinel Range|Labkhan]], from the far north to the borders of [[Alcarinque|Alcarinquë]]. By the end of the Age, they were beginning to stretch out, moving to new mountains in the east and west and north, beginning to excavate and build again. 
+* The dwarves grew quickly after they awoke under the [[Sentinel Range]], known to them as [[Sentinel Range|Labkhan]], and began to build great halls, delving deeper underground. During the Age of Creation, the dwarves were little seen to the outside world, as their underground kingdoms slowly grew to span all of [[Sentinel Range|Labkhan]], from the far north to the borders of [[Alcarinque|Alcarinquë]]. By the end of the Age, they were beginning to stretch out, moving to new mountains in the east and west and north, beginning to excavate and build again. 
 * The halflings, always wanderers, spread across the [[Green Sea]], and along the coasts, although from where, originally, they came, lore does not say, and the halflings themselves do not share. While they traveled everywhere, they remained most prevalent along the shores of the [[Green Sea]], along the southeast coast of the continent, and across the great plains of the interior.
+
+%% 
+A few points on Elder Folk:
+- this narrative is heavily northwestern parts of main continent focused, and we shouldn't forget that these non-humans probably spread over larger areas. 
+- the basic logic here sets up the Green Sea as largely halfling/lizardfolk in influence, and the central/west as elven/dwarven, but without much mixing, except e.g. in tyrwinghan/isingue (elves/lizardfolk); foothills of sentienels (elves/dwarves); green sea coasts (halflings/lizardfolk). maybe this is fine, and I think the vibe of vast growing mono-species empires is fine for the pre-history. but worth thinking intentionally about this
+- the stoneborn feel underdeveloped and probably need a bit of a clearer history at some point?
+%%
 
 %%
 Undetermined is when the Orcs were created. One possibility is that orcs, in the far reaches of the world, were created during this period, perhaps concurrently with the rest of the Children of the Embodied Gods. A second possibility is that Thark is not able to create the orcs for some reason until later, either late in the Age of Creation or during the Age of Divinity. From a demographic standpoint, orcs are expected to have a very small initial creation, a very high birth rate, and a very high death rate. So it takes a while for them to be noticed, so they cannot be created too late.
@@ -85,18 +94,18 @@ At the beginning of the Age of Divinity, [[Humans|humanity]] is created, and gra
 
 Additionally, the Void Mind does more two things at this time:
 * During the [[Creation of Humans]], manages to [[Creation of the Hobgoblins|create the hobgoblins]]
-* Allows or creates cracks in the fabric of reality, allowing the mind flayers and other alien species an entrance into Taelgar
-%% The exact timing of the Void Mind activities is not canonically determined %%
+* Allows or creates cracks in the fabric of reality, allowing the mind flayers and other alien species an entrance into Taelgar 
+
+%% The exact timing of the Void Mind activities is not canonically determined, and is not necessarily linked to specific events%%
 
 As the Age of Divinity begins, the [[Embodied Gods]] of the [[Elder Folk]] sense a turn in the air, a feeling of coming darkness, a premonition, but lacking detail. 
 
 %%exact timing of the sense of forboding is not canonically determined, but the vibe is supposed to be a long period during which most elves discount the dangers predicted, or image it to be about the strange rumors of alien minds in the underdark. whether stoneborn/halflings/lizardfolk are impacted is left undetermined %%
 
 * Among the elves, warnings of danger from [[Elmerca]] begin, and while the elven empires turn to prepare for war, no dangers materialize. Over time, the influence of the ~Wardens of Elmerica~ fade, though the premonitions don't cease. The ~Wardens of Elmerica~ persist as a small, somewhat isolated group, warning of a great danger that never seems to come, while elven society seems to move on around and without them.
-* Among the Dwarves, the warnings begin among the ~Cult of the Warrior~, a small group who claim that the Bahrazel known as Azar, the ~Prophet~, is calling them to a new thuhr, a warrior thuhr, to defend the safety of the dwarven people. Dwarven society splits among those who turn to fortifications and defense, and those who wish to flee the mountains, for few dare to reject warnings of the ~Prophet~. For several generations, there is stasis, and debate, until the first wars between the mind flayers and the dwarves erupt deep beneath the earth. Many dwarves, who later become the gnomes, flee the mountains. Many others stay, and fortify their homes. The warrior thuhr becomes established as the defender of dwarven society, deep below the earth.  %% this is one version of events, could be edited / elaborated on %%
+* Among the Dwarves, the warnings begin among the ~Cult of the Warrior~, a small group who claim that the Bahrazel known as Azar, the ~Prophet~, is calling them to a new thuhr, a warrior thuhr, to defend the safety of the dwarven people. Dwarven society splits among those who turn to fortifications and defense, and those who wish to flee the mountains, for few dare to reject warnings of the ~Prophet~. For several generations, there is stasis, and debate, until the first wars between the mind flayers and the dwarves erupt deep beneath the earth. Many dwarves, who later become the gnomes, flee the mountains. Many others stay, and fortify their homes. The warrior thuhr becomes established as the defender of dwarven society, deep below the earth.  %% this is one version of events, could be edited / elaborated on; in any case the vibe is supposed to be that the underdark is dangerous but the surface world is not%%
 
 The Age of Divnity aligns with the grow and expansion of humanity, and in many ways the growth of humanity, and humanity's interaction with the non-human races, is the most important story of the age. The specific history of Hkar is intentionally left blank, although there are some events that are dated back to Hkar (in particular, the story of  [[Sarqon]] and the [[Chainshroud]] as recounted by the [[Philosopher's Information Concerning Binding Stones]]). Instead, it is best to understand the events on Hkar via the influences they had on religious history, and the migrations from Hkar (which then had significant effects on the development of other human cultures outside of Hkar).
-
 ### Growth of Humanity
 *roughly 1520-2200, about 700 years*
 
@@ -104,7 +113,7 @@ The first period of humanity on Hkar, is best thought of as the era of personal 
 * Simple religious beliefs focused around the concept of each human having a personal god
 * Extremely rapid population growth as humanity spreads across an idyllic, empty homeland
 * A culture without access to arcane or primal magic, but with a rich and complex relationship to "miracles"
-* The origin of many of the [[Primal Realms]] as the divine spark within the early humans influences the spiritual realms
+* The origin of many [[Outer Realms]] as the divine spark within the early humans influences the spiritual realms
 
 During this time, cults start to develop, as charismatic humans realize that if other people worship their personal gods, they get stronger. This rapidly develops into a widely diverse set of beliefs that could all be characterized as "small gods". This period is characterized by a diversification of culture on Hkar, as different religious practices fragment the uniformity of the early human culture. Exactly what this means is intentionally left blank. Religiously and magically, little changes.
 
@@ -157,7 +166,6 @@ In between these major waves of migration from Hkar, there are several smaller o
 * Others, potentially, to be determined
 
 It is likely that all migrations after the second wave are culturally cohesive groups, leaving Hkar in some part as a rebellion or in contrast to the growing magical, urban, pantheonic culture of Hkar. 
-
 ### Arcane Hegemony
 *roughly 3500-4122, about 600 years*
 
