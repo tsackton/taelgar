@@ -24,7 +24,7 @@ The first humans arrived in the Greater Sembaran region in the years between 345
 
 To the south, the land that would become the heartlands of Sembara was a great swamp, the home to a mighty lizardfolk empire, and all the land between the Enst and Wistel river valleys was swamp and given over to the lizardfolk. And south of the lizardfolk, the ancient elven empire still stood.
 
-Over the years, the humans spread east and south, staying mostly in the highlands and the Volta River valley, and by 3850 they started to encounter a new human culture, worshipping unfamiliar gods and speaking an unfamiliar tongue. These were the ancestors of the Skaer, speaking an Eastros tongue, and worshipping one (or pehaps a pantheon) of the ancient mariner gods. These easterns were themselves split into two distinct cultural groups. The Skaer, already worshipping [[Kaikkea]], and dedicated to the ocean, and the settlers, those willing to give up the life of the mariner for the bountiful lands of the Semb, Teft, and Volta River valleys, and the coasts of Vostok and Sembara.
+Over the years, the humans spread east and south, staying mostly in the highlands and the Volta River valley, and by 3850 they started to encounter a new human culture, worshipping unfamiliar gods and speaking an unfamiliar tongue. These were the ancestors of the Skaer, speaking an Eastros tongue, and worshipping one (or perhaps a pantheon) of the ancient mariner gods. These easterners were themselves split into two distinct cultural groups. The Skaer, already worshipping [[Kaikkea]], and dedicated to the ocean, and the settlers, those willing to give up the life of the mariner for the bountiful lands of the Semb, Teft, and Volta River valleys, and the coasts of Vostok and Sembara.
 
 A third human culture, the Tyrwinghans, was settled in the lands claimed by [[Archfey Ethlenn]] by 4000, although whether there origin was northern, eastern, or something else is not decided. 
 
@@ -33,7 +33,7 @@ So at the time of the Downfall, there were four human cultures mixing in the Wes
 * The Zimka, as they came to be known, mostly in the highlands and especially the Upper Volta
 * The Skaer, dedicated to the ocean, settled on their islands and dominating the sea and the immediate coasts
 * The Tollish culture, a blend of the Skaer and Zimka, speaking a Eastros language but worshipping different gods than the Skaer brethern %% either kestavo or something kestavo like, or a pantheon that died out during the Downfall %%, which came to dominate the lower Semb, the lower Volta, and the Teft river valleys %% Tollen itself could have been seen as Tollish, or it could be seen as Skaer, I'm not sure the distinction is really important at this ancient date %%
-* The Tyrwinghans, somewhat isolated from the rest, but with cultural and lingustic ties to the Tollish culture, but also separated from the rest of human culture by the great lizardfolk swamp
+* The Tyrwinghans, somewhat isolated from the rest, with cultural and linguistic ties to the Tollish culture, but also separated from the rest of human culture by the great lizardfolk swamp
 
 Exactly what is happening Vostok at this time is unclear, although there are at least two cultural strands: in the northern parts of Vostok, a culture with close ties to the Zimka has developed, whereas the southern coasts are part of the Tollish and Skaerish cultures. But whether a third cultural strand has appeared in Vostok is not determined.
 
