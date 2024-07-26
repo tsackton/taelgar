@@ -12,6 +12,6 @@ whereabouts:
 # Claire of Fellburn
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/[](Humans.md)outs")`
 
 ![[claire-of-fellburn.png|right|320]]The sergeant of the Eagle Patrol of the Ninth Company of the [[Army of the South]]. 

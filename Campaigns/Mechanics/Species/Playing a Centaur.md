@@ -1,4 +1,4 @@
-[[Centaurs]] in Taelgar are descended from the archfey, but have made their home on the world of Taelgar. Many [[centaurs]] see themselves as protectors and guardians of the world, and centaur societies tend to be nomadic, rarely staying in one place for more than a year. 
+[[Centaurs]] in Taelgar are descended from the archfey, but have made their home on the world of Taelgar. Many [[Centaurs]] see themselves as protectors and guardians of the world, and centaur societies tend to be nomadic, rarely staying in one place for more than a year. 
 
 To create your centaur character, consider your relationship to your people, and society. Did you come from a typical centaur society, a wandering group of migratory folk? If so, what prompted you to leave and go adventuring? How do you feel about other species? Do you adopt the typical distaste for permanent construction of your people, or do you have different attitudes?
 # Centaur Traits
