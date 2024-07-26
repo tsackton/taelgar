@@ -15,7 +15,7 @@ partOf: Taelgar
 
 ## Overview
 
-The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [[Sentinel Range|Sentinels]] where only [[Stoneborn]] and frost [[giants]] can survive. Few people call this region their home: the [[Deno'qai]], who live mostly in small villages among the forests hugging the western foothills of the [[Sentinel Range|Sentinels]], and the [[elves]], who once could be found throughout the woodlands of [[Ainumarya]], and the main inhabitants. The [[Sentinel Range]] creates a barrier to ...
+The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [[Sentinel Range|Sentinels]] where only [[Stoneborn]] and frost [[Giants]] can survive. Few people call this region their home: the [[Deno'qai]], who live mostly in small villages among the forests hugging the western foothills of the [[Sentinel Range|Sentinels]], and the [[elves]], who once could be found throughout the woodlands of [[Ainumarya]], and the main inhabitants. The [[Sentinel Range]] creates a barrier to ...
 ## Boundaries
 
 The Central Highlands includes the [[Sentinel Range]], as well as the forests along the western slopes of the mountains, and the east bank and upper watershed of the [[~North Nahadi River~]].

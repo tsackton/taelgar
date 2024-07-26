@@ -20,7 +20,7 @@ players: [Acescale, Gaudin, Loria, Dilion]
 ## The Protagonists
 - Asescale, a [[lizardfolk]] alchemist and gambler
 - Dilion, a [[Humans|human]] tinkerer and battlesmith
-- Gadin, a [[Humans|human]] warlock with a hint of the [[fey]] about him
+- Gadin, a [[Humans|human]] warlock with a hint of the [[Fey]] about him
 - Loria Underbough, a [[Halflings|halfling]] wanderer and ranger
 ## The Goblins
 - Morky, Norrica, and Skelver, three drunk goblin guards, all dead

@@ -70,7 +70,7 @@ The [[Duchy of Telham]], between the [[Teft]] and the [[Volta]], had grown subst
 
 In the west, the Duchy of Brovna had grown into a significant presence along the mountains, trading eagerly with the growing city of Chardon, and [[Ardlas]] was growing as well, trading with dwarves.
 
-South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which emerged from the fall of [[Drankorian Empire|Drankor]] largely intact and still under the guardianship of the [[Archfey Ethlenn]], and the [[Dominion of Avatus]], a rising military autocracy exerting overlordship of a number of scattered baronies and small lordships in the [[Mostreve Hills]], growing in power by taxing trade and recruiting mercenaries, largely [[hobgoblins]].
+South of [[Sembara]] were two major powers: the Kingdom of [[Tyrwingha]], which emerged from the fall of [[Drankorian Empire|Drankor]] largely intact and still under the guardianship of the [[Archfey Ethlenn]], and the [[Dominion of Avatus]], a rising military autocracy exerting overlordship of a number of scattered baronies and small lordships in the [[Mostreve Hills]], growing in power by taxing trade and recruiting mercenaries, largely [[Hobgoblins]].
 
 Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], establishes the modern Sembara after the defeat of the [[Dominion of Avatus]]. 
 ##

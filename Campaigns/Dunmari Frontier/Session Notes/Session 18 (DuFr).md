@@ -22,7 +22,7 @@ The [[Dunmar Fellowship]] delves into discussions of otherworldly planes and str
 
 ## Session Info
 ### Summary
-- The [[Dunmar Fellowship]] meets with [[Candrosa]] and [[Alesh]], discussing gnolls, [[demons]], and [[Agata|Agata Dustmother]]'s dark magic.
+- The [[Dunmar Fellowship]] meets with [[Candrosa]] and [[Alesh]], discussing gnolls, [[Demons]], and [[Agata|Agata Dustmother]]'s dark magic.
 - Candrosa is visibly troubled, especially regarding [[Shakun's protection]], and reveals how to find Agata.
 - Afterwards, the group meets [[Tharandros]], sharing a meal and discussing [[echo realms]], mythic history, and [[Agata]]'s fey nature.
 - [[Tharandros]] expresses concern over a strange silence in [[Karawa]], implying a mystery the party should investigate.
