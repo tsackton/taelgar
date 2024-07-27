@@ -48,7 +48,7 @@ Over the long years of human history, many incorporeal gods have been imagined i
 
   
 
-As Hkar grew in power, the Mos Numena, usually called the Divine Way or just the Way, was established, worshiping the Eight Divines. This set of worship practices became the dominant in Hkar as well as all the descendant civilizations of that great power, starting with Drankor, and down to the modern civilizations that grew or were influenced by that great empire. The Way focuses worship on the Eight Divines, eight incorporeal gods known as: the Mother, the Father, the Night Queen, the Warlord, the Sibyl, the Wanderer, the Wyrdling, and the Wilding. These gods, old and grown strong with widespread and numerous followers, are among the most powerful of the incorporeal gods.
+As Hkar grew in power, the Mos Numena, usually called the Divine Way or just the Way, was established, worshiping the Eight Divines. This set of worship practices became the dominant in Hkar as well as all the descendant civilizations of that great power, starting with Drankor, and down to the modern civilizations that grew or were influenced by that great empire. The Way focuses worship on the Eight Divines, eight incorporeal gods known as: the Mother, the Father, the Night Queen, the Warlord, the [[The Sibyl|Sibyl]], the Wanderer, the Wyrdling, and the Wilding. These gods, old and grown strong with widespread and numerous followers, are among the most powerful of the incorporeal gods.
 
   
 
@@ -197,7 +197,7 @@ In the current day, there are several broad strands of religious thought, with s
 
 #### Mos Numena
 
-Mos Numena refers to the traditions of worship associated with the Eight Divines: the Mother, the Father, the Warlord, the Night Queen, the Sibyl, the Wanderer, the Wyrding, and the Wildling. These are the eight gods originally worshipped by many humans of Hkar, and later the major religion of the Drankorian empire. Now, these gods are the dominant religion across much of the west coast, centered on the Chardonian Empire, and the western Green Sea, including Sembara, Vostok, and Cymea, as well as other places where the Drankorian Empire held sway, or cultural influence. More information on these gods and the traditions associated with them can be found [here](https://docs.google.com/document/d/1i-kMpFwnnbr4b4Huwe-SOOO-R4ziDosNcvf7c7qBKQ0/edit).
+Mos Numena refers to the traditions of worship associated with the Eight Divines: the Mother, the Father, the Warlord, the Night Queen, the [[The Sibyl|Sibyl]], the Wanderer, the Wyrding, and the Wildling. These are the eight gods originally worshipped by many humans of Hkar, and later the major religion of the Drankorian empire. Now, these gods are the dominant religion across much of the west coast, centered on the Chardonian Empire, and the western Green Sea, including Sembara, Vostok, and Cymea, as well as other places where the Drankorian Empire held sway, or cultural influence. More information on these gods and the traditions associated with them can be found [here](https://docs.google.com/document/d/1i-kMpFwnnbr4b4Huwe-SOOO-R4ziDosNcvf7c7qBKQ0/edit).
 
 #### Dunmari Tradition
 

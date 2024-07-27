@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, person]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, type: met, date: 1748-12-17}
 name: Caelynn the Seer
@@ -18,14 +18,8 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 17th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
-A fey woman from across the mountains, from the fey realm of [[Dreamhaven]], who has been living in [[Tollen]] for many years, although whether a hundred or a thousand is the matter of much debate. 
-## Overview
-
-Caelynn the Seer, a fey woman from the [[Feywild]] domain of [[Dreamhaven]], has lived in [[Tollen]] near the [[University of Tollen]] for an indetermine time -- at least a century, perhaps much longer. She is a mysterious presence, known for prophecy and lore and understanding of dreams, but rarely sharing her vast knowledge without a price of some kind. 
+![[caelynn-portrait.png|right|400]]Caeylnn, often known as Caelynn the Seer, is a fey woman from across the mountains, from the [[Feywild]] realm of  [[Dreamhaven]], who has been living in [[Tollen]] for many years. While she does not discuss her history, rumors claim she has made Tollen her home for many centuries, or perhaps even a millenia. She is a mysterious presence, known for prophecy and lore and understanding of dreams, but rarely sharing her vast knowledge without a price of some kind. 
 ## Description
-
-![[caelynn-portrait.png]]
-
 Caelynn is an elegant elfin woman of ambiguous age, with long silver hair and strikingly vibrant green eyes.  She resides in an unassuming house close to the University. Inside, there's a perpetual feeling of twilight. She often greets guests in a tea room, which boasts a unique circular table, which always seems to have space somehow to accommodate anyone who she invites to sit, while never feeling large. 
 ## Relationships
 

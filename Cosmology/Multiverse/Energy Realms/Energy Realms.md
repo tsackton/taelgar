@@ -1,8 +1,7 @@
 ---
-tags: [place, status/unknown]
+headerVersion: 2023.11.25
+tags: [place]
 ---
 # The Energy Realms
 
-%% copied over a bunch of my secret notes from my secret multiverse doc, so some details do exist. if it becomes necessary / relevant, I think it probably does not give away too much to write this up as a regular page, with publish exclusions for all campaigns.%%
-
-The elemental planes, and the plane of magic itself, are known as the energy realms, and are connected to the material plane by the [[Ethereal Plane]]. 
+The Energy Realms are the collective name for the [[Inner Realms]] that are associated with the raw magical energy separated from the [[Material Plane]] during the [[Riving]]. The Energy Realms are embedded in the material of the [[Ethereal Plane]], which indirectly links them to the [[Material Plane]]. The most well known of the Energy Realms are the [[Elemental Realms]] and the [[Plane of Magic]].
