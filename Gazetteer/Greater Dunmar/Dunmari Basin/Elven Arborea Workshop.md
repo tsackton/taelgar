@@ -3,7 +3,7 @@ tags: [place, event-source, status/needswork/external]
 campaignInfo: []
 name: Ruined Elven Workshop (near Tokra)
 typeOf: ruin
-partOf: Lakan Monastery
+whereabouts: Lakan Monastery
 ---
 # The Ruined Elven Workshop (near Tokra)
 >[!info]+ Information
