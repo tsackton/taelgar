@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/mike]
 campaignInfo:
 name: Ida Rosfeld
 born: 1687

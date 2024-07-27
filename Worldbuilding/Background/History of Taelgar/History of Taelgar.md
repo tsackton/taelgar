@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/notes]
+tags: [background]
 ---
 
 %%rewrite to capture discord conversation on refactoring major "ages" of the world and update lore on downfall, etc%%
@@ -82,7 +82,7 @@ Broadly then, there are three simple possibilities for the orcish creation:
 It is likely not necessary to decide this at the moment, until/unless we want to flesh out the details of the Age of Divinity and/or the metaphysics of orcs. The most relevant concerns are probably on the transition from "peace" to "defensive empires" amongst the elves and dwarves and the metaphysics of Thark's ability to create orcs in the first place.
 %%
 
-And yet, the [[Divine Presence]] was not satisfied. After millennia, the world of Taelgar was static. While no longer ever changing and full of the chaotic energy of the intermingled planes, in the balance of chaos and order, the pendulum had swung too far. The embodied gods had put too much of themselves into their creations, and year after year followed like clockwork. 
+And yet, the [[Divine Presence]] was not satisfied. After a millennia, the world of Taelgar was static. While no longer ever changing and full of the chaotic energy of the intermingled planes, in the balance of chaos and order, the pendulum had swung too far. The embodied gods had put too much of themselves into their creations, and year after year followed like clockwork. 
 ## Age of Divinity
 _1520-4122 by the Dwarven Count of Years_
 

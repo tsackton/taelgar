@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/stub]
+tags: [organization/family]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Wildhearts
@@ -11,6 +11,8 @@ ancestry: halfling
 >[!info]+ Information  
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+The Wildhearts are a halfling family based in the eastern Green Sea. Two brothers, [[Corrin Wildheart]] and [[Lerry Wildheart]], are crew on the [[Wave Dancer]]. 
 
 %%^Campaign:None%%
 ### Members

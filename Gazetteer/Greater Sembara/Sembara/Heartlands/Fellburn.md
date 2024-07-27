@@ -24,7 +24,7 @@ The Fell Burn, the Beacon of Fate in the ancient language of the original settle
 
 Many forgot the original meaning of Fellburn, and it acquired many names: the Singing Tree, in the colloquial, the Crystal of Time, among the wizards, and simply the Oracle of Hope to most. 
 
-After the Fall of Drankor, Fellburn persisted - in these days, much seemed dark, and many sought the hope and comfort of the Oracle. Some in these days thought it was a miracle of the Wyrdling, or perhaps the Sibyl, but the priests never claimed a divine presence. As Sembara grew, Fellburn came to prosper. It was never the greatest economic powerhouse of the Enst, for the river was too wide here for a crossing, even in Drankorian days (or, the hills on either side too steep), and with no easy harbors it did not lend itself to a riverboat port. But, the pilgrims always came, and with them coin, and so the city grew.
+After the Fall of Drankor, Fellburn persisted - in these days, much seemed dark, and many sought the hope and comfort of the Oracle. Some in these days thought it was a miracle of the Wyrdling, or perhaps the [[The Sibyl|Sibyl]], but the priests never claimed a divine presence. As Sembara grew, Fellburn came to prosper. It was never the greatest economic powerhouse of the Enst, for the river was too wide here for a crossing, even in Drankorian days (or, the hills on either side too steep), and with no easy harbors it did not lend itself to a riverboat port. But, the pilgrims always came, and with them coin, and so the city grew.
 
 Note - we changed the sunrise aassociation
 It sings when it will

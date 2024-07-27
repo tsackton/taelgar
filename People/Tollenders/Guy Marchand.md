@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-29, type: met}
 name: Guy Marchand
@@ -12,7 +12,7 @@ affiliations: [University of Tollen]
 family: Marchand
 whereabouts:
 - {type: home, start: '', end: '', location: 'Tollen'}
-- {type: home, start: 1687-01-02, end: '', location: 'Nordgate'}
+- {type: home, start: 1687-01-02, location: 'Nordgate'}
 ---
 # Guy Marchand
 >[!info]+ Biographical Info
@@ -22,7 +22,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 29th, 1748 in [[Nordgate]] %%^End%%
 
-Guy Marchand is a mapmaker from [[Tollen]], known for his meticulous craftsmanship and his thriving shop in Nordgate.
+Guy Marchand is a mapmaker from [[Tollen]], known for his meticulous craftsmanship and his thriving shop in [[Nordgate]].
 ## Overview
 
 Guy Marchand, a mapmaker and bookseller, resides in the Nordgate district of [[Tollen]], where he runs a shop on the bustling [[Scrollwright Street]]. This major thoroughfare connects [[Magnus Street]] and [[Godshome]], and is the heart of book production and related trades in [[Tollen]]. He is of Isinguese ancestry, and his shop doubles as a local center for the Isinguer diaspora in [[Tollen]]. 
