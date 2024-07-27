@@ -24,9 +24,9 @@ The [[Dunmar Fellowship]] uncovers a trove of dwarven treasures and signs of an 
 
 ***The party recovers treasure from the ruined Dwarven trading post, including a pearl of power, Shatterstorm, driftglobes, and the Shield of the Brawnanvil Clan.***
 ### Summary
-- The [[Dunmar Fellowship]] investigates a [[Dwarven Outpost (Raven's Hold)|ruined dwarven trading post]], finding a magical [[Pearl of Power]] and hobgoblin graffiti.
+- The [[Dunmar Fellowship]] investigates a [[Dwarven Outpost (Raven's Hold)|ruined dwarven trading post]], finding a magical [[Raven's Hold Treasure|Pearl of Power]] and hobgoblin graffiti.
 - They negotiate with [[Inakara]], a creature guarding the tunnels, to gain access to a vault.
-- Inside the vault, they discover treasure including the [[Shield of the Brawnanvil Clan]], a [[Shatterstorm|magical warhammer]], potions, [[Driftglobe|driftglobes]], and trade bars.
+- Inside the vault, they discover treasure including the [[Shield of the Brawnanvil Clan]], a [[Shatterstorm|magical warhammer]], potions, [[Dwarven Driftglobe|driftglobes]], and trade bars.
 - The scene of an ancient battle with a [[Ithilids|mind flayer]] raises concerns about the return of these creatures.
 - The party negotiates for access to a tunnel leading to [[Raven's Hold]] with [[Inakara]].
 
@@ -36,7 +36,7 @@ The [[Dunmar Fellowship]] uncovers a trove of dwarven treasures and signs of an 
 ## Narrative
 As our session begins underneath the mountains, across the dusty plains and deserts of [[Dunmar]], people are moving. In the west, a tired mass of refugees flees [[Karawa]], hopefully now nearing the River [[Hara]] and the outskirts of [[Tokra]]. To the south, [[Alesh]] and her small group of companions ride quickly and quietly through the deserts, hopefully avoiding danger along the way as they try to learn what lurks in the ruins of [[Bas Udda]] and beyond. In [[Karawa]], the acolytes and initiates of the [[Shakun Mystai]] remain holed up in the [[Temple of Shakun]], as [[Centaurs]] ride fast towards them, bringing news, and perhaps aid in battle, should it be needed, and not too late already.
 
-The party stands in the center of a large, open cavern, a former marketplace and center of trade when this outpost was full of dwarven life. The party spends some time investigating the dead body of the roper, and the remains of the tavern or inn in the cavern. Untouched by the strong acid of the roper’s stomach, they discover a [[Pearl of Power|small pearl]], magical, and able to restore some spellcasting energy. In the tavern, they find graffiti -- a three-fingered, clawed hand, with the three fingers burned to the bone -- which [[Wellby]] recognizes as a [[Hobgoblins|hobgoblin]] banner, something his people have fled from before. 
+The party stands in the center of a large, open cavern, a former marketplace and center of trade when this outpost was full of dwarven life. The party spends some time investigating the dead body of the roper, and the remains of the tavern or inn in the cavern. Untouched by the strong acid of the roper’s stomach, they discover a small pearl, magical, and able to restore some spellcasting energy. In the tavern, they find graffiti -- a three-fingered, clawed hand, with the three fingers burned to the bone -- which [[Wellby]] recognizes as a [[Hobgoblins|hobgoblin]] banner, something his people have fled from before. 
 
 After taking a brief rest in the ruins of the tavern, and doing a bit of scouting, the party turns back to the creature [[Inakara]], to try to bargain or threaten their way back into the passageways to the vault. When asking nicely doesn’t seem to get them what they want, and when [[Inakara]] lights up at the mention of the vault, a combination of light bribery and some intimidating displays of simple magic gets her to agree to lead them to the vault. 
 

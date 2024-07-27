@@ -3,9 +3,8 @@ tags: [status/needswork]
 ---
 
 
-- [[Driftglobe]] (uncommon minor item)
+- [[Dwarven Driftglobe]] (uncommon minor item). Found two of these in the [[Dwarven Outpost (Raven's Hold)]], once belonging to the dwarves who lived there. 
 - Pearl of Power (uncommon major item).  A small magical pearl. Recovered from the belly of the roper fought in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]]. Probably Dwarven in origin. %%SECRET[1]%%
-- [[Driftglobe]] (uncommon minor item)
 - [[Shatterstorm]] (rare major item)
 
 - Spear of the War Leader. A Dunmari spear from the [[Second Hobgoblin War]], used by the gnoll leader in [[Raven's Hold]]. Traded to [[Havdar]] in exchange for the Ring of Jumping. 

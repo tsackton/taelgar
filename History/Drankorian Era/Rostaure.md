@@ -5,7 +5,7 @@ name: Rostaurë
 pronunciation: ROS-tow-reh
 aliases: [Rostaurë]
 ancestry: elven
-partOf: Central Lowlands Region
+whereabouts: Central Lowlands Region
 destroyed: 1051
 displayDefaults: {endStatus: pillaged by Apollyon, wPastHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <(in )current:5>" }
 typeOf: realm

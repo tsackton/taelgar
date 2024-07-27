@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/wip]
 name: Ainwick
 typeOf: town
-partOf: Barony of Ainwick
+whereabouts: Barony of Ainwick
 ---
 # Ainwick
 >[!info]+ Information
