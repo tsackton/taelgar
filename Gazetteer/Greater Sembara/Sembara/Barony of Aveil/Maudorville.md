@@ -14,6 +14,8 @@ population: 448
 
 %% Notes for game prep
 
+At the confluence of the Madour Brook and Auberonne
+
 Maudorville is a small town of about 500 people, more in the Rinburg orbit than north. 
 
 People in Maudorville
