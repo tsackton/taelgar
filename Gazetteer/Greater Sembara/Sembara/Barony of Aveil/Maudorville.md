@@ -1,0 +1,39 @@
+---
+headerVersion: 2023.11.25
+tags: [status/needswork/notes, place]
+whereabouts: Barony of Aveil
+typeOf: settlement
+typeOfAlias: village
+population: 448
+---
+# Maudorville
+>[!info]+ Information  
+> pop. 448  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Notes for game prep
+
+Maudorville is a small town of about 500 people, more in the Rinburg orbit than north. 
+
+People in Maudorville
+
+* innkeep
+* lord
+* temple admin of Sibyl
+
+Maudorville is an ancient place, it was far enough north that it didn't fall in the hobgoblin wars. 
+timber trade, nearish river, old buildings, temple is impressive 2 story with moon carvings
+Temple of Sibyl here, administrator is Wilhelm, moon guy.
+
+Temple of Sibyl was founded after a moonlight square (it was a perfect square) healed all those inside the square
+recently moon lore vs other aspects of Sibyl has become important
+
+Lord Antoine Chevalier ahn-TWAHN shuh-VAL-ee-ay
+
+Wilhem - temple admin
+
+Susanna - innkeep / unnamed inn / small, sign of a bed, only inn in town
+her daughter and daughter-in-law are missing (Amelie and Anna)
+
+%%

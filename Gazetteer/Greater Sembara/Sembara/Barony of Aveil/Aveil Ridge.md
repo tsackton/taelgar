@@ -4,8 +4,10 @@ tags: [place]
 typeOf: landform
 typeOfAlias: ridge
 whereabouts: Barony of Aveil
+pronunciation: Ah-vayl Ridge
 ---
 # The Aveil Ridge
+*(Ah-vayl Ridge)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

@@ -5,8 +5,10 @@ typeOf: settlement
 typeOfAlias: village
 whereabouts: Barony of Aveil
 population: 318
+pronunciation: Pay-dun
 ---
 # Peydon
+*(Pay-dun)*
 >[!info]+ Information  
 > pop. 318  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
