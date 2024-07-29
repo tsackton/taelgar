@@ -15,40 +15,40 @@ The action begins just outside the market town of [[Cleenseau]].
 * [[Viepuck]], played by Chris. A teenager pledged to a mysterious entity.
 ### Sessions
 
-* January 8th, 2023: [[Cleenseau - Session 01]]
+* January 8th, 2023: [[Cleenseau - Session 01]] (in Taelgar, October 19th - October 21st)
 	The party meets and defends [[Taviose]] from giant spiders.
 
-* February 12th, 2023: [[Cleenseau - Session 02]]
+* February 12th, 2023: [[Cleenseau - Session 02]] (in Taelgar, October 21st - October 25th)
 	The party investigates the woods for the source of the spiders
 
-* March 19th, 2023: [[Cleenseau - Session 03]]
+* March 19th, 2023: [[Cleenseau - Session 03]] (in Taelgar, October 25th - November 3rd)
 	The party investigates a murder in [[Ganboa]] and uncovers a plot to poison [[Cleenseau]]
 
-* April 30th, 2023: [[Cleenseau - Session 04]]
+* April 30th, 2023: [[Cleenseau - Session 04]] (in Taelgar, November 3rd - December 4th)
 	The party deals with the aftermath of the poison plot
 
-* June 4th, 2023: [[Cleenseau - Session 05]]
+* June 4th, 2023: [[Cleenseau - Session 05]] (in Taelgar, December 4th - December 10th)
 	The party musters trickery and chaos to defeat the ogre [[Wakog]] and his band of orcs
 
-* September 10th, 2023: [[Cleenseau - Session 06]]
+* September 10th, 2023: [[Cleenseau - Session 06]] (in Taelgar, December 10th - January 2nd)
 	The party celebrates [[Viatela]], and encounters a fey.
 
-* October 22nd, 2023: [[Cleenseau - Session 07]]
+* October 22nd, 2023: [[Cleenseau - Session 07]] (in Taelgar January 2nd - January 6th)
 	Dangerous dreams; Rosalind is summoned out of town; a baby zombie explodes
 
-* November 12th, 2023: [[Cleenseau - Session 08]]
+* November 12th, 2023: [[Cleenseau - Session 08]] (in Taelgar January 6th - January 7th)
 	Investigations of the past; hunting undead in an abandoned fort
 
-* December 10th, 2023: [[Cleenseau - Session 09]]
+* December 10th, 2023: [[Cleenseau - Session 09]] (in Taelgar, January 7th)
 	The party investigates the ruins beneath Cleenseau and finds shadows, zombies and worse
 
-* January 7th, 2024: [[Cleenseau - Session 10]]
+* January 7th, 2024: [[Cleenseau - Session 10]] (in Taelgar, January 8th)
 	The party defeats a wight and rides to the rescue of the [[Lord's Guard of Cleenseau]]
 
-* February 4th, 2024: [[Cleenseau - Session 11]]
+* February 4th, 2024: [[Cleenseau - Session 11]] (in Taelgar, January 9th - January 12th)
 	The party organizes the town defenses and eliminates a nuisance 
 
-* March 3rd, 2024: [[Cleenseau - Session 12]]
+* March 3rd, 2024: [[Cleenseau - Session 12]] (in Taelgar, January 12th - January 16th)
 	The party defeats an undead invasion
 
 * March 31, 2024: [[Cleenseau - Session 13]]
@@ -57,7 +57,11 @@ The action begins just outside the market town of [[Cleenseau]].
 * April 28th, 2024: [[Cleenseau - Session 14]]
 	The party defeats a lake monster
 
-* June 2nd, 2024: [[Cleenseau - Session 15]]
+* June 2nd, 2024: [[Cleenseau - Session 15]] (in Taelgar, January 25th - February 7th)
 	The party returns to Cleenseau and deals with accumulated and new problems
+
+* July 28th, 2024: [[Cleenseau - Session 16]]  (in Taelgar, February 7th - February 17th)
+	The party heads in the hills and bargains with a fey
+
 
 You might also want to read the [[Cleenseau Campaign - Index of NPCs|Index of NPCs]] or the [[Cleenseau Campaign - Timeline|timeline]]
