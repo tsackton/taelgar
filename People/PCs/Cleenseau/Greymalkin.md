@@ -16,3 +16,5 @@ gender: male
 
 
 ![[greymalkin-2.png]]
+
+%% Was once a fey from Sharpspire, before its fall. Very unclear history as to how he ended up a companion to Robin, but has a history with Duskmire from the pre-Great War era %%
