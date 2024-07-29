@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Rinburg
 typeOf: settlement
-typeOfAlias: town
+typeOfAlias: free city
 population: 2341
 whereabouts: Barony of Aveil
 pronunciation: Rin-burg

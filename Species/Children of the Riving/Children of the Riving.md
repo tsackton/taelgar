@@ -1,5 +1,5 @@
 ---
-tags: [background, status/mike]
+tags: [background]
 ---
 # Children of the Riving
 

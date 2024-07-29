@@ -12,10 +12,11 @@ whereabouts:
 - { type: home, location: Veltor }
 affiliations:
 - { org: Barony of Aveil, start: 1719-04, type: leader}
+- { org: d'Aslains, type: primary }
 ---
 # Baroness Isabeau D'Aslain
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[d'Aslains]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
