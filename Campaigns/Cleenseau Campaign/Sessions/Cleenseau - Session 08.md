@@ -8,7 +8,7 @@ DR: 1720-01-06
 DR_end: 1720-01-07
 ---
 # Cleenseau - Session 8
->_in Taelgar from January 6st - January 7th
+>_in Taelgar from January 6th - January 7th
 >7 Robert I / DR 1720
 >[[Cleenseau]] and vicinity
 >on Earth: November 12th, 2023

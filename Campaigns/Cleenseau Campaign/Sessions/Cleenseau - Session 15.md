@@ -9,16 +9,11 @@ players: [Robin, Viepuck, Celyn, Izgil]
 # Cleenseau - Session 15
 
 >_in Taelgar, January 25th - February 7th
-
 >7 Robert I / DR 1720
-
 >[[Cleenseau]] and vicinity,
-
 >on Earth: June 2nd, 2024
-
 >Kiya's story version here: https://kiya.dreamwidth.org/784090.html
   
-
 ### Summary and Major Events
 
 * The party returns to Cleenseau and reunites with [[Izgil Moonseeker|Izgil]], who had been hunting zombies in the [[East Bog]] with [[Vahaiya]]. [[Tristan Vaudrillard]], and [[Remille Vauclaire]]
