@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, status/unknown]
+tags: [item/magical, status/tim]
 campaignInfo:
 name: Circlet of Foreknowledge
 typeOf: circlet
@@ -19,3 +19,4 @@ A circlet set with a single white gem that supposedly gives perfect foreknowledg
 
 %%SECRET[1]%%
 
+%% Status note: Seems potentially complete, setting status tim to confirm %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/major]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-06-02, type: freed}
 - {campaign: dufr, date: 1748-07-09, type: last seen}

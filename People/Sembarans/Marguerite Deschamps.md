@@ -5,6 +5,7 @@ whereabouts:
 - { type: home, location: Rinburg }
 - { type: home, location: Veltor }
 gender: female
+species: human
 ancestry: Sembaran
 pronunciation: mahr-guh-REET deh-SHAHN
 affiliations:
@@ -13,7 +14,7 @@ affiliations:
 # Marguerite Deschamps
 *(mahr-guh-REET deh-SHAHN)*
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] (she/her)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

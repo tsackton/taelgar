@@ -6,9 +6,12 @@ whereabouts:
 - { type: away, start: 1720-01, end: 9999, location: Peydon }
 aliases: [Night Witch]
 name: The Midnight Lady
+species: fey
+subspecies: hag
 ---
 # The Midnight Lady
 >[!info]+ Biographical Info  
+> A [[Fey|fey]] (hag)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A mysterious fey recently arrived in [[Peydon]]. Known by many in the village as the Night Witch.

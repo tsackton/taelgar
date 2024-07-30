@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes, testcase]
+tags: [historical, person/ruler, status/needswork/internal, testcase]
 name: Elaine I
 born: 1539
 species: human
@@ -26,6 +26,8 @@ The twin sister of [[Anne]], her disputes with her sister over the throne domina
 Elaine spent much of the 1570s in Tyrwingha, and married the King of Tyrwingha, [[Cynan]], thus reuniting the crowns that had been sundered on [[Derik III|Derik III's]] death at the end of the Great War. 
 
 Her three children were: [[Arryn I]], [[Blanche II]], and [[Derik of Lils|Derik]]. 
+
+%% No specific canonical details exist except in the various Sembaran documents scattered about Worldbuilding. %%
 
 
 

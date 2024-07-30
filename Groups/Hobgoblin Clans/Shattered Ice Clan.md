@@ -1,8 +1,8 @@
 ---
-tags: [organization, status/needswork/notes, status/unknown]
+tags: [organization, status/needswork/notes, status/stub]
 typeOf: clan
-campaignInfo:
-name:
 ---
 
 Hobgoblin clan active in the Sembaran borderlands after the Great War
+
+%% lots of information in the back links and discord %%

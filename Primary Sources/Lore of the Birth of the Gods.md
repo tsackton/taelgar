@@ -1,3 +1,7 @@
+---
+tags: [status/needswork/notes, source]
+---
+
 %%
 From Google Doc:
 

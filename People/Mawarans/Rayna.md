@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/unaware, status/unknown]
+tags: [person, status/unknown]
 campaignInfo: []
 name: Rayna
 born:

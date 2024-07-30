@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, dufr/met, dufr/minor, status/unknown]
+tags: [event-source, person, status/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1749-12-10, type: met}
 name: Murook
@@ -40,3 +40,5 @@ A formidable [[Orcs|orc]] woman in her prime, with pale green skin, Murook is us
 - (DR:: 1724) Murook was freed from [[Thark]]'s chains by [[Karguk]], Chief of [[Uzgukhar]]
 
 %%SECRET[1]%%
+
+%% Status note: Seems potentially complete, setting status tim to confirm %%

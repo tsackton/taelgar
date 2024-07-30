@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/minor, person, dufr/unaware, status/unknown]
+tags: [mc/minor, person, status/unknown]
 campaignInfo: []
 name: Orden
 born:

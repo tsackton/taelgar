@@ -1,17 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/minor, person, dufr/unaware, status/unknown]
-campaignInfo: []
+tags: [person]
 name: Samar
 born:
 species: human
-ancestry:
+ancestry: Mawaran
 gender: female
 whereabouts: Hamri
 ---
 # Samar
 >[!info]+ Biographical Info  
-> A [[Humans|human]] (she/her)  
+> A Mawaran [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Orphaned twin girls who lives in the Drowned Flats. Wazir feeds them once a week, and in turn they keep an ear to the ground for him.
+The twin sister of [[Reliah]], an orphaned girl who lives in the Drowned Flats. [[Wazir]] feeds her and her sister once a week, and in turn they keep an ear to the ground for him.

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/unknown]
+tags: [organization/family, status/needswork/external]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Gemcrafters
@@ -18,6 +18,8 @@ whereabouts: Nidzahar
 *in dwarvish, Barzinduk*
 
 A wealthy merchant clan in [[Nidzahar]]. Their wealth largely dates from just after the Great War, as the family was relatively unscathed by those events.
+
+%% Status note: The family of a Clee player (Matt/Izgil). Some notes in emails and Discord  %%
 
 %%^Campaign:None%%
 ### Current Members

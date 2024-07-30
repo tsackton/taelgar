@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/unknown]
+tags: [pc/cleenseau, person]
 campaignInfo: []
 name: Viepuck
 born: 1706-10-01

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization]
 typeOf: family
 typeOfAlias: noble family
 created: 1594
@@ -44,3 +44,5 @@ dv.table(["Person", "Info", "Born", "Died"],
 				.map(b => [util.s("<name> (<pronouns> <pronunciation>)", b.file, dv.current().pageTargetDate), util.s("<ancestry> <maintype>", b.file, dv.current().pageTargetDate), util.s("<startStatus> <startDate>",b.file, dv.current().pageTargetDate), util.s("<endStatus> <endDate>",b.file, dv.current().pageTargetDate)]))
 ```
 %%^End%%
+
+%% Note: More could be invented about this house, but little needs to be. Mostly exists to group the recent Sembaran/Tyrwinghan rulers. %%

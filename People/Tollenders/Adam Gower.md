@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/tim]
 species: human
 name: Adam Gower
 gender: male
@@ -13,3 +13,5 @@ whereabouts: Tollen
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Factor, treasurer, and agent for the Dunmar Fellowship in Tollen
+
+%% Status comment: Note seems reasonably complete, tagging Tim for verification  %%

@@ -1,5 +1,5 @@
 ---
-tags: [status/stub]
+tags: [status/stub, organization]
 displayDefaults: {defArt: "the" }
 ---
 

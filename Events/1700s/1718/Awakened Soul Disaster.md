@@ -1,7 +1,5 @@
 ---
-tags: [event-source, status/unknown]
-campaignInfo: []
-name:
+tags: [event-source, status/tim]
 DR: 1718
 ---
 # The Awakened Soul Disaster
@@ -11,3 +9,5 @@ In the year DR 1718, the monks of the [[Order of the Awakened Soul]], with the a
 %%^Campaign:DuFr%%
 Described, from Rai's perspective, in [[Second Dream of Rai]]. 
 %%^End%%
+
+%% Status note: Setting to Tim; seems good enough for a article unless you have more you want to add %%

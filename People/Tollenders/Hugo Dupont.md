@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/tim]
 campaignInfo:
 - {campaign: DuFr, date: '1748-12-29', type: met}
 name: Hugo Dupont
@@ -26,3 +26,5 @@ whereabouts:
 ![[hugo-dupont-portrait.png|right|320]]Hugo Dupont is scholar and theologian, and a lecturer at the university, known for his classes on comparative divinity and theological science, particularly a series of lectures and scholastic discourse on the nature of intercessionary prayer, and the intertwined divinities of the [[Mos Numena|Eight Divines]]. 
 
 He is well-known in the Isinguese community, and also well connected across the non-human community, including with [[Caelynn]]. 
+
+%% Status note: Seems potentially complete, setting status tim to confirm %%
