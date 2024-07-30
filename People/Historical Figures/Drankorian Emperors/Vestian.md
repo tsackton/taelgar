@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, dufr/unaware, status/unknown]
+tags: [historical, person, status/unknown]
 campaignInfo: []
 name: Vestian
 born:

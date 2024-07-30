@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/clee]
+tags: [place]
 name: Barony of Montsé
 whereabouts: Borderlands
 aliases: [Barony of Montsé]
@@ -13,4 +13,4 @@ pronunciation: Mohn-say
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Near Fellburn %%
+A barony south of the [[Enst]], just west of [[Fellburn]], it was founded by [[Cece I]] after the land was reclaimed from [[Hobgoblins|hobgoblins]] during the [[Third Hobgoblin War (Sembara)|hobgoblin wars]]. Historically, it was part of the much larger [[Barony of Vaubonne]].

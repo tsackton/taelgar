@@ -1,5 +1,6 @@
 ---
-tags: [status/stub]
+tags: [status/stub, person]
+species: halfling
 ---
 
 %% A halfling musician, likes to collect colorful leather clothes

@@ -1,5 +1,5 @@
 ---
-tags: [mc/aware, historical, person, dufr/unaware, status/unknown]
+tags: [mc/aware, historical, person, status/unknown]
 campaignInfo: []
 name: Yerkir-khor
 born:

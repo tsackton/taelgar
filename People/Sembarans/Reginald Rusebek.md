@@ -4,6 +4,7 @@ tags: [person]
 title: Baron
 born: 1656
 ancestry: Sembaran
+species: human
 gender: male
 whereabouts: Veltor
 affiliations:
@@ -12,7 +13,7 @@ died: 1719-03-19
 ---
 # Reginald Rusebek
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] (he/him)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

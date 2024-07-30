@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/tim]
 campaignInfo: []
 name: Dag Hardstone
 born: 1729
@@ -21,3 +21,5 @@ affiliations: [{type: primary, org: Hardstones}]
 One of the Hardstone dwarves, who help maintain the [[Tokra]] [[Archives]]. Dag was caught by werewolves when the [[Archives]] were raided, and wounded, becoming cursed by lycanthropy. 
 
 Cured by [[Delwath]], via the blessing of [[Yezali]]. 
+
+%% Status note: Seems potentially complete, setting status tim to confirm %%

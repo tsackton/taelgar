@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/background, person, dufr/unaware, status/unknown]
+tags: [mc/background, person, status/unknown]
 campaignInfo: []
 name: Sulfi Mahadra
 born:

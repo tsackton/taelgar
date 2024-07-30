@@ -1,3 +1,4 @@
 ---
-tags: [status/stub]
+tags: [status/stub, person]
+species: halfling
 ---
