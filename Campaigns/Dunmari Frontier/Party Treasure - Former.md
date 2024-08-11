@@ -2,6 +2,7 @@
 
 *Anything that was lost, sold, given away, or used goes here.*
 ## Destroyed or Used
+- Three blood red rubies, from [[Ursk Treasure|Shadowkeep]] *used for simulacrum*
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
 - [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[1]%%
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
@@ -89,6 +90,11 @@
 
 ## Given Away
 
+- An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T., from Buruli's kingdom, returned to [[Milo Thistlefoot]].
+- A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside, from Buruli's kingdom, returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
+- A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore, from Buruli's kingdom, returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
+- A magic silver rapier, owned by Milo and returned to him, from Buruli's kingdom, returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
+- A strange swirling silvery crystal on a necklace, returned to Tilly, from Buruli's kingdom, returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
 - The Watcher Pendant - a very elaborate design, set with diamonds, taken from Rhodar von Glauer in [[Ursk Treasure|Shadowkeep]]. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]].
 - [[Drankorian Message Stone]] (uncommon minor item) (given to [[Sura]]) paired with Wellby's message stone.
 - A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Mezzar|Grimbaskal]]'s Hoard), given to [[Brimskarda]] as a gift  %%SECRET[5]%% 
