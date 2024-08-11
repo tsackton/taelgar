@@ -1,13 +1,10 @@
 ---
 tags: [status/needswork]
 ---
-
 # Gifts
 
-- [[Glove of Crystalized Magic]] (very rare major item)
-
+- [[Glove of Crystalized Magic]] (very rare major item), constructed by Seeker in [[Amberglow]] from crystallized magic gifted by [[Illaran]].
 - Coin of Delving (common minor item) - gift to Riswynn upon departure from Tharn Todor at beginning of campaign
-
 - Delwath's elven armor from the days of the Great War, now no longer magical 
 - A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
