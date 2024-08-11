@@ -26,4 +26,8 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - A strange swirling silvery crystal on a necklace, returned to Tilly. 
 ## From Buruli's Body
 
-TBD....maybe you should search him next session
+- He is wearing a cloak made of some kind of billowing kelp fronds woven into fabric, magical (Cloak of Protection) (taken by Wellby)
+- He wears an elaborate amulet around his neck. It is like the others you've found, but far more elaborate, made of ivory and gold, decorated with sapphires. %%SECRET[7]%%(Party treasure)
+- He wears a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems. (Helm of Telepathy) (given to Amil)
+- Wears three silver armbands, each finely worked and decorated with pearls. %%SECRET[8]%% (Party treasure) 
+- One ring, a strange shadowy thing that looks like the currents of the ocean depths in solid form. (Ring of Shadows) (given to Faldrak)

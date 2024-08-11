@@ -1,28 +1,11 @@
 ## Recent Acquisitions
 
-### Treasure Acquired in [[Omi]]
+## From the marble tower of the golem
 
-- A large (10 foot long) trident, taken from the herald of [[Gazankoa]] protecting the portal in [[Omi]]. Abandoned in the temple of Gazankoa during the merfolk fight (unless someone can give a logical explanation for how someone could have got this across the rainbow bridge without the manta rays). 
-### Treasure Acquired in Buruli's Kingdom
-
-- A small humming piece of metal, which sounds like the ocean, found connected to the [[Jade Piece of Rai's Hand]] inside a shell in Buruli's temple to Gazankoa. %%SECRET[1]%%
-- 17 amulets of [[Gazankoa]]. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards. %%SECRET[2]%%
-- 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards. %%SECRET[3]%%
-- 112 silver Chardonian coins 
-- 14 dwarven gold coins
-- 109 Dunmari silver coins
-- 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge. %%SECRET[4]%%
-- A set of bone dice, merfolk made %%SECRET[5]%%
-- 63 merfolk gambling tokens, made of polished shell and stone. %%SECRET[3]%%
-### Recovered Treasure from the [[Stormdancer]]
-
-Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
-
-- An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T. 
-- A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside. 
-- A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore. 
-- A magic silver rapier, owned by Milo and returned to him.
-- A strange swirling silvery crystal on a necklace, returned to Tilly. 
+- Manual of Stone Golems (locked) [[Taurion's Manual of Golems]]
+- Prepared scroll making material. Enough inks and special paper to produce 4 scrolls: 3 up to 3rd level, and 1 up to 5th level. Each scroll requires 8 hours of work to produce, with the kit
+- Scolls of: Sending, Private Sanctum, Reverse Gravity, and Passwall
+- Magical lenses that can be used to make a telescope
 
 ## Magic Items
 
@@ -131,23 +114,26 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 
 *All non-magical items are stored in the Portable Hole, unless noted.*
 ### Coin
-- ***(new)*** 50 pounds of gold in trade bars (2,500 gp), from [[Ursk Treasure|Shadowkeep]]
+***Total value approximate 42,500 plus scattered strange coins***
+
+- 109 Dunmari silver coins, from [[Merfolk Quest Treasure]]
+- 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge, from [[Merfolk Quest Treasure]].
+- 50 pounds of gold in trade bars (2,500 gp), from [[Ursk Treasure|Shadowkeep]]
 - 7 1/2 heavy gold bars, each weighing 10 pounds and worth 500 gp (total value 3750 gp), recovered from the [[Elemental Forge Hoard]]
 - 15 heavy silver bars, each weighing 5 pounds and worth 25 gp (total value 375 gp), recovered from the [[Elemental Forge Hoard]]
 - 2000 Tollender silver coins (200 gp, from the [[Flaming Tempest Hoard]]).
 - 200 Sembaran gold coins (200 gp, from the [[Flaming Tempest Hoard]]).
-- 105,000 Chardonian silver coins (10,500 gp, from  [[Grimbaskal's Hoard]]).
+- 105,112 Chardonian silver coins (10,500 gp, from  [[Grimbaskal's Hoard]] and [[Merfolk Quest Treasure]]).
 - 60,000 Chardonian copper coins (600 gp, from  [[Grimbaskal's Hoard]]).
 - 11,500 ancient Elven silver coins (2,300 gp; 5 elven silver = 1 gp, from [[Grimbaskal's Hoard]]).
 - 30,000 mixed Drankorian coins (5,000 gp, could be more to the right collector, from  [[Grimbaskal's Hoard]]).
 - 200,000 mixed coins from the Kin-Asa city state (6,000 gp, could be more to the right collector, from [[Grimbaskal's Hoard]]).
-- 7,000 Dwarven gold coins (7,000 gp, from [[Grimbaskal's Hoard]]).
+- 7,014 Dwarven gold coins (7,014 gp, from [[Grimbaskal's Hoard]] and [[Merfolk Quest Treasure]]).
 - 4,113 Chardonian gold coins (4,113 gp, from [[Grimbaskal's Hoard]]).
 - 36 small silver disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 66 copper disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 ### Gemstones
-- ***(new)*** Three blood red rubies, from [[Ursk Treasure|Shadowkeep]] *used for simulacrum*
-- Four large pearls (Gift from the Skaer). 
+- Four large pearls (Gift from the Skaer)
 - 16 uncut and unpolished gemstones (value would increase if properly cut), from the [[Elemental Forge Hoard]]:
 	- Two rubies (deep red, radiant glow)
 	- Three garnets (dark red, glassy appearance) 
@@ -168,6 +154,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - Five uncut gemstones: an amethyst (10-60gp), a rose quartz (50-300gp), and a topaz (100-600gp). ​​If cut and polished by a skilled gemcutter, the topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double. From [[Agata's Treasure]].
 - A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg. Could sell for 200-1200gp. From [[Agata's Treasure]].
 ### Jewelry
+- 17 amulets of [[Gazankoa]]. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards, as part of the [[Merfolk Quest Treasure]]
 - Four projects in various states of completion recovered from the jeweler's workshop at the [[Elemental Forge Hoard|Elemental Forge]]. All would require further finishing work before being enchanted or sold. 
 	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty 
 	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished 
@@ -176,7 +163,7 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]).
 - A silver ring, set with an obsidian gem. Could sell for 300-1800gp. Part of [[Agata's Treasure]].
 ### Objects of Art
-- ***(new)*** Dragon statuette glittering with small diamonds, from [[Ursk Treasure|Shadowkeep]]
+- Dragon statuette glittering with small diamonds, from [[Ursk Treasure|Shadowkeep]]
 - A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
 - A pair of nice wooden spoons, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
 -  A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, [[Grimbaskal's Hoard]]).
@@ -212,20 +199,24 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 	- Captain's log and charts from The Flaming Tempest (allowing [[Wellby]] to reconstruct the journey of the [[Flaming Tempest]], with time and effort)
 	- Sheaf of receipts from [[Stormcaller Tower]].  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value.
 ### Unusual Materials or Components
-- Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. Taken from the Elemental Forge. 
+- A small humming piece of metal, which sounds like the ocean, found connected to the [[Jade Piece of Rai's Hand]] inside a shell in Buruli's temple to Gazankoa, from [[Merfolk Quest Treasure]]. Functions as a plane shift tuning fork attuned to the [[Elemental Plane of Water]]
+- Two tuning forks. One is attuned to the [[Elemental Plane of Air]]; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. Taken from the [[Elemental Forge Hoard]]
 - Eight red dragon scales, from the [[Elemental Forge Hoard]]
 - Two vials of mercury, from the [[Elemental Forge Hoard]]
-- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[7]%%
+- A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[1]%%
 - Blank spell scroll ([[Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. 
-- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[8]%%
+- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[2]%%
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
-- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[9]%%
+- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[3]%%
 - Metal vial with acidic liquid from gnoll war leader ([[Raven's Hold]], [[Wellby]]). No obvious value.
 ### Miscellany and Trade Goods
-- *(new)* A gold-gilded black breastplate engraved with the silhouette of a dragon, from [[Ursk Treasure|Shadowkeep]]
-- *(new)* Two suits of gold-gilded black plate armor engraved with the silhouette of a dragon, from [[Ursk Treasure|Shadowkeep]]
-- *(new)* A gold-gilded black shield engraved with the image of two dragon wings, from [[Ursk Treasure|Shadowkeep]]
-- *(new)* A bone key that unlocks doors in [[Shadowkeep]], from [[Ursk Treasure|Shadowkeep]]
+- 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards as part of the [[Merfolk Quest Treasure]]
+- A set of bone dice, merfolk made, from the [[Merfolk Quest Treasure]]
+- 63 merfolk gambling tokens, made of polished shell and stone, from the [[Merfolk Quest Treasure]]
+- A gold-gilded black breastplate engraved with the silhouette of a dragon, from [[Ursk Treasure|Shadowkeep]]
+- Two suits of gold-gilded black plate armor engraved with the silhouette of a dragon, from [[Ursk Treasure|Shadowkeep]]
+- A gold-gilded black shield engraved with the image of two dragon wings, from [[Ursk Treasure|Shadowkeep]]
+- A bone key that unlocks doors in [[Shadowkeep]], from [[Ursk Treasure|Shadowkeep]]
 - A wand, broken in half, once magical, but no longer ([[Kharsan]] palace)
 - A nice leather saddle, cut into four pieces, once magical, but no longer ([[Kharsan]] palace)
 - Delwath's elven armor from the days of the Great War, now no longer magical 
@@ -235,9 +226,9 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - Key ring that opens the door to the werewolf lair, as well as the cells and chains in the prison. Carried by the werewolf guard captain. No obvious value.
 - Small key that opens the chest in the secret room in the Empty Moon lair. Taken from the werewolf leader. No obvious value.
 - Tools and glasswork from glassblower's shop in [[Kharsan]], in northern ruins ([[Kharsan]]; [[Delwath]]) We looked at these in the mirror: [[Kharsan Broken Glassware Vision]]
-- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[10]%%
-- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[11]%% 
-- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[12]%%
+- A longsword in a black leather scabbard, with white gems in the pommel, with a matching sword belt in black leather. It closes with a silver buckle in the form of a screaming eagle, a small moonstone as its eye (60 - 80 gp as a set). Taken from Grimbaskal's Hoard. %%SECRET[4]%%
+- Three well-made hats (Wellby, Grimbaskal's Hoard). Halfling make, in surprisingly good shape and expertly tailored (10 - 60 gp each).  %%SECRET[5]%% 
+- A set of wind chimes (10 - 25 gp). Taken from Grimbaskal's Hoard.  %%SECRET[6]%%
 ## Vindristjarna
 
 The following magical items are kept on [[Vindristjarna]]: 
@@ -249,7 +240,7 @@ The following magical items are kept on [[Vindristjarna]]:
 
 The following mundane items are kept on [[Vindristjarna]]:
 
-- A large wooden spice chest (Grimbaskal's Hoard). Contains 20 pounds of salt (60 gp), 2 pounds of saffron (70 gp), 10 pounds of cinnamon (150 gp), 10 pounds of cloves (150 gp), 5 pounds of allspice (60 gp), 5 pounds of peppercorn (75 gp), and a set of silver weights, measures, and grinding implements (25 gp).  %%SECRET[13]%%
+- A large wooden spice chest (Grimbaskal's Hoard). Contains 20 pounds of salt (60 gp), 2 pounds of saffron (70 gp), 10 pounds of cinnamon (150 gp), 10 pounds of cloves (150 gp), 5 pounds of allspice (60 gp), 5 pounds of peppercorn (75 gp), and a set of silver weights, measures, and grinding implements (25 gp).  %%SECRET[7]%%
 
 [[Vindristjarna]] also has a number of special facilities: [[Vindristjarna Room Planning]].
 ## Other Rewards
