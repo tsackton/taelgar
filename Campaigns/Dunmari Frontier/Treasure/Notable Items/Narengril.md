@@ -9,7 +9,7 @@ ddbLink: https://www.dndbeyond.com/magic-items/5346819-narengril
 subTypeOf: magical
 pcOwner: Delwath
 rarity: rare
-image: 
+image: narengril.png
 whereabouts:
 - {type: home, location: Dewalth}
 ---
@@ -20,7 +20,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[narengril.png|right|200]]An elven sword, finely made and carved with Elvish script warding against demons. 
+![[narengril.png|right|200]]An elven sword, finely made and carved with Elvish script warding against fiends. 
 
 %%Campaign:dufr%%
 Found by the [[Dunmar Fellowship]] in [[Grimbaskal's Hoard]], and now used by [[Delwath]]
