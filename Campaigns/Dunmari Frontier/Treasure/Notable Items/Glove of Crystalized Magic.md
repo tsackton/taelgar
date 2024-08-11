@@ -1,11 +1,9 @@
 ---
 tags: [status/unknown]
 ---
-
-A glove constructed by [[Seeker]] in [[Shimmersong]], from shards of crystalized magic gifted to [[Seeker]] by [[Illaran]]. These shards allow you to manipulate magic as you cast spells, currently either by changing the range of spells, or by shifting the elemental effects of a spell. 
+![[glove-of-crystallized magic.jpg|right|400]] A glove constructed by [[Seeker]] in [[Shimmersong]], from shards of crystalized magic gifted to [[Seeker]] by [[Illaran]]. These shards allow you to manipulate magic as you cast spells, currently either by changing the range of spells, or by shifting the elemental effects of a spell. 
 
 Improved by [[Faldrak Bronzehammer|Faldrak]] at the Elemental Forge. 
-
 ## Mechanics
 
 While you wear and are attuned to this glove, you have 5 charges you can use when you cast a spell to modify the magic of the spell itself, changing the casting. The glove currently holds three crystals:

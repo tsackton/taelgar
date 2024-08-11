@@ -27,6 +27,7 @@ An extradimensional cell is an infinite expanse filled with thick fog that reduc
 
 Any creature that sees its reflection in the mirror while within 30 feet of it must make a DC 15 Charisma save or be trapped in one of the cells. This saving throw is made with advantage if the creature is aware of the nature of the mirror. 
 
+%%^Campaign:DuFr%%
 #### Command Words
 The mirror can be controlled by command words, which must be spoken within 60 feet of the mirror to function, and require an action to invoke. You know five command words: 
 
@@ -69,5 +70,7 @@ You feel that this is not all the secrets of the mirror, but you have exhausted 
 [[Seeker]]’s research in [[Chardon]], August 1748. 
 
 Reading the book that Ulfgar got for you from the [[Great Library]] on magical mirrors, their construction and use, you learn command words 4 and 5. 
+
+%%^End%%
 
 %%SECRET[1]%%
