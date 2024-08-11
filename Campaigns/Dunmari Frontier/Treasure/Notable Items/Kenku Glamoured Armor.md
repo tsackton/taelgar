@@ -8,7 +8,7 @@ typeOf: armor
 subTypeOf: magical
 rarity: very rare
 ancestry: kenku
-image: 
+image: kenku-glamoured-armor-wellby.jpy
 whereabouts:
 - { type: home, location: Grimbaskal, end: 1748 }
 - { type: home, location: Wellby, start: 1748 }
@@ -20,7 +20,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-This suit of studded leather armor is glamoured with illusion magic. While worn, its appearance adapts to wearer, and can be controlled at will when attuned. 
+![[kenku-glamoured-armor-wellby.jpg|right|400]]This suit of studded leather armor is glamoured with illusion magic. While worn, its appearance adapts to wearer, and can be controlled at will when attuned. 
 
 This suit was found [[Grimbaskal's Hoard]], and later enhanced by [[Nahto]], the kenku tinkerer, to be able to summon glamoured wings and allow the wearer to fly for a few hours a day. 
 

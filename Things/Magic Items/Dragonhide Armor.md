@@ -1,6 +1,20 @@
 ---
-tags: [status/stub, item]
+headerVersion: 2023.11.25
+tags: [item]
+displayDefaults: {defArt: ""}
+name: Dragonhide Armor
+typeOf: armor
+subTypeOf: magic
+ancestry: Urskan
 ---
+# Dragonhide Armor
+>[!info]+ Information  
+> ([[Ursk|Urskan]] magic armor)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
+The artificers and armorers of Ursk have mastered the secrets of producing armor and cloaks incorporating dragon hide, predominately using the hides of white dragons that can be hunted in the far north. Armor and cloaks made with this way are exceptionally durable and provide enhanced protection. 
 
-armor and cloaks reinforced with dragon hide for extra protection and durability
+%%
+dragonhide armor functions as +1 armor
+dragonhide cloaks function as cloaks of protection
+%%
