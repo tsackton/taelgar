@@ -269,7 +269,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 ### Destroyed or Used
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
 - [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[51]%%
-- A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
+- A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Delwath's Elven Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
 	- Elemental rods (one each of fire, earth, air, water), used to improve [[Seeker]]'s [[Glove of Crystalized Magic]]
@@ -280,7 +280,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 - Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] %%SECRET[52]%%
 - [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 81 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
-- [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
+- [[Delwath's Elven Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
 - [[Dunmari Heirloom Shield]] (uncommon major item), used to make the adamantine required for the phasing stone harness on [[Vindristjarna]]
 - A perfect emerald hung on a silver chain (1000 - 2000 gp, from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] %%SECRET[26]%%
 - [[Horn of Silent Alarm]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[Motua]]'s rescue.

@@ -5,7 +5,7 @@
 - Three blood red rubies, from [[Ursk Treasure|Shadowkeep]] *used for simulacrum*
 - A small crystal vial containing three doses of [[universal solvent]]. Found in a hidden lead box, and used to destroy the silver threads binding the trapped elemental in the elemental forge, and then Grash's ring of undying
 - [Blade of Stone](https://www.dndbeyond.com/magic-items/3819641-blade-of-stone) ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[1]%%
-- A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Elven Shadow Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
+- A shard of [[Inkaye]] ready to be infused with explanar magic, created by [[Umli]] from Delwath's [[Delwath's Elven Breastplate]]. Used to create the rainbow prism for [[Vindristjarna]], created by Faldrak at the Elemental Forge. 
 - Used to construct magic items at the Elemental Forge:
 	- Phoenix feather, used to allow [[Faldrak Bronzehammer|Faldrak]]'s stone bird to fly, among other things. 
 	- Elemental rods (one each of fire, earth, air, water), used to improve [[Seeker]]'s [[Glove of Crystalized Magic]]
@@ -16,7 +16,7 @@
 - Speak with Dead. ([[Monastery of Bhishma]]), used in [[Session 86 (DuFr)]] %%SECRET[2]%%
 - [[Things/Artifacts of Power/Scepter of Command|Scepter of Command]], destroyed in [[Session 81 (DuFr)]]
 - A small silver statue of a demon with ruby eyes (from The Flaming Tempest, tossed in the sacred waters on [[Vetta]])
-- [[Elven Shadow Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
+- [[Delwath's Elven Breastplate]], given to Umli in [[Session 80 (DuFr)]], who removed and blanked the [[Inkaye]] that had powered it, leaving a mundane breastplate
 - [[Dunmari Heirloom Shield]] (uncommon major item), used to make the adamantine required for the phasing stone harness on [[Vindristjarna]]
 - A perfect emerald hung on a silver chain (1000 - 2000 gp, from Grimbaskal's Hoard), used as a focus to power the phasing stone on [[Vindristjarna]] %%SECRET[3]%%
 - [[Horn of Silent Alarm]] (common minor item), sacrificed as part of the ritual to uncurse Kenzo from the soul chain bound to him during [[Motua]]'s rescue.
@@ -90,6 +90,8 @@
 
 ## Given Away
 
+- Helm of Telepathy. This is a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to Amil.
+- Ring of Shadows. A strange shadowy thing that looks like the currents of the ocean depths in solid form, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to Faldrak. 
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T., from Buruli's kingdom, returned to [[Milo Thistlefoot]].
 - A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside, from Buruli's kingdom, returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
 - A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore, from Buruli's kingdom, returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
