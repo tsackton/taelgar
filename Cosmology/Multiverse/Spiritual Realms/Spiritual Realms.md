@@ -1,5 +1,6 @@
 ---
 tags: [status/needswork/wip, place]
+typeOf: plane
 ---
 # The Spiritual Realms
 

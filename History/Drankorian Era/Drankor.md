@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 whereabouts: Drankorian Empire
 tags: [status/needswork/notes, place]
+typeOf: city
 ---
 # Drankor
 >[!info]+ Information
