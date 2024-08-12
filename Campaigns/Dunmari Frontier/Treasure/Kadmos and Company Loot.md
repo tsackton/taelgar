@@ -5,21 +5,18 @@ tags: [status/needswork]
 ### From Kadmos
 
 - Rod of the Pact Keeper, an iron rod decorated with a bejeweled skull. %%SECRET[1]%%
-
-- [[Kadmos]]' spell gem than can cast conjure greater demon, kept by the party
 - [[Kadmos]]' shadowfell brand tattoo, taken by [[Kenzo]]
 - A gilded skull of a halfling, taken from [[Kadmos]] %%SECRET[2]%%
 - Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
 ### From Hektor
 - Boots of Speed 
 - A magical halberd, given to [[Murook]]
-
 ### From Casian
-- [[Casian]]'s chalyte spellbook, kept by the party
+- Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 84 (DuFr)]]
 
-
+### Other
 - The [[Ever Spinning Top]] from [[Agata's lair]], recovered by the party
-- [[Antonia]]'s [[Chime of Opening]], taken by the party
+- [[Antonia]]'s Chime of Opening, taken by the party
 - A large number of potions and minor items:
 	- 1 healing potion (superior)
 	- 2 healing potions (greater)
@@ -39,4 +36,4 @@ tags: [status/needswork]
 
 
 
-- Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 84 (DuFr)]]
+
