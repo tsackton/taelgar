@@ -3,7 +3,7 @@
 - 6 potions of transformation, plus 6 doses of antidote. The potions of transformation are literally that, transformations. While under the effects, you gain gills but lose lungs. You can now breath water, but not air. Have no effect on swim speed, and last until the antidote is taken or the magical transformation is dispelled. A gift from [[Kazuro]] in exchange for a [[Session 99 (DuFr)|promise to return and help him build a monastery and find a student]].
 ## Treasure Acquired in [[Omi]]
 
-- A large (10 foot long) trident, taken from the herald of [[Gazankoa]] protecting the portal in [[Omi]]. Abandoned in the temple of Gazankoa during the merfolk fight (unless someone can give a logical explanation for how someone could have got this across the rainbow bridge without the manta rays). 
+- A large (10 foot long) trident, taken from the herald of [[Gazankoa]] protecting the portal in [[Omi]]. Abandoned in the temple of Gazankoa during the merfolk fight.
 ## Treasure Acquired in Buruli's Kingdom
 
 - A small humming piece of metal, which sounds like the ocean, found connected to the [[Jade Piece of Rai's Hand]] inside a shell in Buruli's temple to Gazankoa. %%SECRET[1]%%
