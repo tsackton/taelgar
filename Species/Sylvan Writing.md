@@ -1,5 +1,5 @@
 ---
-tags: [status/tim, background]
+tags: [background]
 ---
 
 The Sylvan system of writing is a complex and magical script that is primarily characterized by its artistry and magic. It is logo-syllabic, and often written non-linearly, for example with the most important concepts in the center of a work and other concepts radiating outward or spiraling from the central concepts. It is also magical: all Sylvan writing depends on magical [determinatives](https://en.wikipedia.org/wiki/Determinative) to distinguish meaning. These determinatives are not visually indicated, but are a magical layer that provides a sense of feeling or emotion to the reader.  These emotional determinatives, if written by a powerful enough fey, can even cause a change in emotions or thoughts to the reader (although the words must be read and understood for this to occur, a mere glance, nor an uneducated one, is never sufficient).
