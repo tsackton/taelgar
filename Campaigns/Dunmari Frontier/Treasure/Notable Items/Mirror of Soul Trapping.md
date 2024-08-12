@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
 typeOf: mirror
-tags: [item, item/magical, status/cleanup/refactor]
+subTypeOf: magical
+tags: [item, status/cleanup/refactor]
 whereabouts:
 - {type: home, location: unknown hobgoblin wizard, linkText: by an }
 - {type: home, location: dufr}
@@ -9,12 +10,12 @@ whereabouts:
 - {type: away, start: 1748-12-05, end: 1748-12-10, location: Uzgukhar}
 - {type: away, location: Vindristjarna}
 displayDefaults: {ltPerson: "trapped in"}
-rarity:
+rarity: very rare
 ---
 # The Mirror of Soul Trapping
->[!info]+ Information
-> (mirror)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> (very rare magical mirror)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%need to decide if this is a one-off item, unique, or a representative of a class of items, and refactor text as appropriate %%
