@@ -1,8 +1,7 @@
 ---
 tags: [status/unknown]
 ---
-
-A gift from [[Basu]], in exchange for helping clear the excess extraplanar energy from the [[Elven Arborea Workshop]] beneath the [[Lakan Monastery]], permeated with the essence of [[Arborea]]. 
+![[portable-hole-dunmar-fellowship.jpg|right|400]]A gift from [[Basu]], in exchange for helping clear the excess extraplanar energy from the [[Elven Arborea Workshop]] beneath the [[Lakan Monastery]], permeated with the essence of [[Arborea]]. 
 
 Received in [[Session 42 (DuFr)]], from [[Basu]], with four rules:
 1) never open an extradimensional portal instead another extradimensional portal; 
