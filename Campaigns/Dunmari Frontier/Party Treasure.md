@@ -165,7 +165,7 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 - Dragon statuette glittering with small diamonds, from [[Ursk Treasure|Shadowkeep]]
 - A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
 - A pair of nice wooden spoons, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
-- A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, [[Grimbaskal's Hoard]]).
+- ![[elven-rose-tapestry-grimbaskal.png|right|200]]A tapestry depicted a lush, wild rose garden, tangled and vibrant, probably of Elven make (450 - 650 gp, [[Grimbaskal's Hoard]]).
 - A tapestry of trees in bloom, in front of a mountain, in an unusual and hard to recognize style, probably from far away (unknown value, [[Grimbaskal's Hoard]]).
 - Carved bone statuette of an eagle (80 - 130 gp, [[Grimbaskal's Hoard]]).
 - The polished skull of a unicorn, latticed with luminescent blooms, and seemingly a minor enchantment to keep the flowers alive (150 - 900 gp, [[Grimbaskal's Hoard]]).
