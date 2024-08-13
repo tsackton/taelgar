@@ -1,22 +1,28 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/mundane, status/unknown]
-campaignInfo:
+tags: [item/mundane]
 whereabouts: Kenzo
-mundane: true
-typeOf: object de art
+typeOf: object of art
+typeOfAlias: fan
+displayDefaults: {defArt: ""}
 ---
-# The Chardon Fan
->[!info]+ Information
-> (mundate object de art)
+# Chardon Fan
+>[!info]+ Information  
+> (object of art)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A cotton and bamboo hand fan depicting the towers of [[Chardon]], the intricate design painted onto the fan by a very skilled artist. The fan is held shut by an ingenious bamboo clasp, carved to resemble a mounted knight dipping his lance to a lady; their clasped hands form the 'lock'. 
+![[chardon-fan.png|right|300]]A cotton and bamboo hand fan depicting the towers of [[Chardon]], the intricate design painted onto the fan by a very skilled artist.
 
-Looted from [[Agata's lair|Agata's hut]] by [[Dunmar Fellowship]] in . Probably worth 10-180 gp.
-
-Seen in [[Mirror of the Past]]: [[Chardon Fan Vision]].
+Looted from [[Agata's lair|Agata's hut]] by [[Dunmar Fellowship]]. Probably worth 10-180 gp.
 
 Carried by [[Kenzo]]. 
+
+
+
+
+Seen in [[Mirror of the Past]]: 
+
+![[Chardon Fan Vision]]
 
 %%SECRET[1]%%
