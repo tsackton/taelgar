@@ -1,18 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/book, status/unknown]
+tags: [item/book]
 typeOf: book
-displayDefaults: {startStatus: written and drawn, dCurrent: "<start:U> in <startDate> by <origin:1>", wCurrent: "", wHome: "", wOrigin: "", wLastKnown: ""}
-rarity: unique
-created: 1748
-whereabouts:
-- {type: home, end: 1748-07-03, location: Seeker}
 ---
 # The Legendary Gates of Kenzo
 >[!info]+ Information  
-> (unique book)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+> (book)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-Two copies are known. One was gifted by [[Seeker]] to the Dunmari [[Saka]]; the other to the fey [[Caelynn]].
+An illustrated story first written by Seeker in DR 1748, innovating with the literary art forms of Taelgar. Two copies are known. One was gifted by [[Seeker]] to the Dunmari [[Saka]]; the other to the fey [[Caelynn]].

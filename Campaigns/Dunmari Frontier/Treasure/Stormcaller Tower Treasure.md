@@ -1,7 +1,3 @@
----
-tags: [status/needswork]
----
-
 ## Recovered after the first journey to the tower
 
 - Eudomes mirror, the [[Mirror of the Past]]

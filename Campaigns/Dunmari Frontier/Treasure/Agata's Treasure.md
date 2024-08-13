@@ -44,7 +44,6 @@ These are items recovered from Agata's lair, after it was [[Session 30 (DuFr)|fo
 - Eye of Undead Sensing. A jar filled with liquid in which floats a single human eye, radiating divination magic. When an undead creature comes within 100 feet of the jar, the eye darts about as if it is looking around in panic. Probably a creation of [[Agata]]’s. %%SECRET[11]%%
 - [[Liquid Wood]]. This jar of putty-like brown goo radiates transmutation magic, and is clearly a creation of [[Agata]]’s. It is used for turning creatures into wooden servants.
 - [Black Light Candle](https://www.dndbeyond.com/magic-items/3819589-black-light-candle). A candle made of gray wax, radiating evocation magic. Very likely of fey origin.  %%SECRET[12]%%
-- [[Ever Spinning Top]]
 - [Charlatan's Dice](https://www.dndbeyond.com/magic-items/charlatans-die)  A pair of bone dice, radiates illusion magic. Seems to be of fey origin. %%SECRET[13]%%
 - Displacer Cloak. Carried by [[Drikod]]. %%SECRET[14]%%
 ### Mundane Items

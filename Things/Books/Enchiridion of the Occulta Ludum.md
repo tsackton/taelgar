@@ -1,21 +1,21 @@
 ---
-tags: [item/magical, item/book, status/cleanup/reformat]
+headerVersion: 2023.11.25
+tags: [item/book]
 typeOf: book
-campaignInfo:
-- {campaign: DuFr, type: found, date: 1748-11-23}
-whereabouts:
-- {type: home, end: 1, location: Occulta Ludum}
-- {type: home, end: 1748-11-23, location: Stormcaller Tower}
-- {type: home, start: 1748-11-24, location: Dunmar Fellowship}
+subTypeOf: magical
+ancestry: Drankorian
 ---
-# The Enchiridion of the Occulta Ludum
->[!info]+ Information
-> (magical book)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Found by the [[Dunmar Fellowship]] on November 23rd, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+# Enchiridion of the Occulta Ludum
+>[!info]+ Information  
+> ([[Drankorian Empire|Drankorian]] magical book)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-Appears to be a blank handbook of the Occulta Ludum. Faintly magical.
+The Enchiridion of the Occulta Ludum appears to be a blank handbook of the [[Occulta Ludum]], a Drankorian secret society. These books radiate faint illusion magic, and were clearly produced using magical means. 
 
-%%split general and specific information remove campaign whereabouts and information to party treasure page%%
+%%^Campaign:DuFr%%
+The [[Dunmar Fellowship]] has recovered two of these books in their travels. One, they found in among the surviving books and papers in [[Stormcaller Tower]], presumably once owned by [[Eudomes]]. 
+
+The second, they found at the [[Elemental Forge]], probably once owned by the unnamed [[Occulta Ludum]] mage who staffed that place in the days of the Drankorian Empire. 
+%%^End%%
 
 %%SECRET[1]%%

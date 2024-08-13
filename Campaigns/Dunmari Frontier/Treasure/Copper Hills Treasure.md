@@ -3,7 +3,6 @@
 ### Magic 
 
 - [[Horn of Silent Alarm (Dunmari)]], taken from [[Justan]], after he was killed by [[Casian]] in the ruins of [[Vandar]]. 
-
 ### Mundane
 
 - A single small turquoise stone, found in wyvern lair in [[Vandar]], worth 70 gp.

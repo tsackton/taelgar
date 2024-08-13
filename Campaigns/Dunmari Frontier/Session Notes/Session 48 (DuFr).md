@@ -18,11 +18,11 @@ name: Dunmari Frontier - Session 48
 > *On Earth: Wednesday Jun 22, 2022*
 > *[[Chardon]]*
 
-In Chardon, the [[Dunmar Fellowship]] learns about the dangers of [[chalyte]], speaks with friends old and new, and hears about [[Fausto]]'s wealth and influence. 
+In Chardon, the [[Dunmar Fellowship]] learns about the dangers of [[Chalyte]], speaks with friends old and new, and hears about [[Fausto]]'s wealth and influence. 
 ## Session Info
 ### Summary
-- The [[Dunmar Fellowship]] arrives in [[Chardon]] and learns of the regulated magic and the dangers of [[chalyte]] abuse.
-- [[Kenzo]] meets with [[Kaeso]], his mentor and a [[Shakun Mystai|Mystai of Shakun]], who shares concerns about [[chalyte]] and arranges a meeting with his old teacher, [[Roscelia]].
+- The [[Dunmar Fellowship]] arrives in [[Chardon]] and learns of the regulated magic and the dangers of [[Chalyte]] abuse.
+- [[Kenzo]] meets with [[Kaeso]], his mentor and a [[Shakun Mystai|Mystai of Shakun]], who shares concerns about [[Chalyte]] and arranges a meeting with his old teacher, [[Roscelia]].
 - The party reconnects with [[Vola]], who agrees to send letters to other adventurers and provides insight into the [[Society of the Open Scroll]].
 - [[Ulfgar Frostbeard]], a metaphysics professor, informs them about [[Galen]]'s new Dwarven artifact.
 - [[Dee Wildcloak]] and [[Dain Goldhammer]] recount their harrowing experience at [[Stormcaller Tower]], and reveal [[Fausto]] as a key expedition patron.

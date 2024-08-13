@@ -7,7 +7,6 @@
 - Celestial Gem of Protection (rare major item). A gift from a celestial, produced by celestial magic and given to [[Riswynn]] in exchange for her aid.
 - [[Silverspark Gauntlets]] (uncommon major item), from [[Nora Silverspark]]'s ghost
 - Spell Scroll of Cure Wounds at 2nd level (Gift from [[Suma]] in [[Karawa]]) %%SECRET[1]%%
-- Ring of Jumping. A ring of a Drankorian design, a twisted silver hare motif. Gift from [[Havdar]], in exchange for the Spear of the War Leader. %%SECRET[2]%%
 - [[Delwath's Elven Breastplate]], from his days as a solider in the Great War. Worn by Delwath into battle during the Great War, then lost when he fell out of Cha'mutte's shadow dimension. Returned to Delwath, with a fragment of [[Inkaye]] attached, by [[Avaras]] and [[Pava]]. Later, [[Umli]] removed the [[Inkaye]], rendering the armor non-magical. The Inkaye was used to create the Rainbow Prism by Faldrak at the [[Elemental Forge]].
 
 **Books**
@@ -20,6 +19,7 @@
 - [[Deno'qai Scale Mail]] (uncommon major item)
 ### From [[Havdar]]
 - [[Flaming Bowstring]] (uncommon major item)
+- Ring of Jumping. A ring of a Drankorian design, a twisted silver hare motif. Gift from [[Havdar]], in exchange for the Spear of the War Leader. %%SECRET[2]%%
 ### From [[Arryn]]
 - Moon Necklace (common minor item). A gift from [[Arryn]] to [[Wellby]], a necklace on which a pendant is hung that always glows with the light of the moon, fading and growing in brightness depending on the phase.
 ### From [[Rishi]]

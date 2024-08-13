@@ -1,3 +1,6 @@
+# Dunmar Fellowship Treasure
+
+This records the magic items and mundane treasure acquired by the [[Dunmar Fellowship]] in the course of their adventures. Treasure that has been lost, used, destroyed, sold, or given away is [[Party Treasure - Former|listed elsewhere]].
 ## Magic Items
 
 *Note: potions and scrolls are not tracked here. Make sure to add these to character sheets when you get them, and remove them when you use them.*
@@ -39,7 +42,6 @@
 ### Kenzo
 
 
-
 | Image                                       | Name                                   | Rarity                | Origin and Notes                                                                                                                                                   | Mechanics                                                                           |
 | ------------------------------------------- | -------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
 |                                             | [[Staff of the Forest Soul]]           | Major item, Very rare | Constructed by Kenzo from a branch of the Tokra tree, a [[Gifts and Purchases\|gift]]  from [[Rishi]]                                                              | [Mechanics](https://www.dndbeyond.com/magic-items/5330897-staff-of-the-forest-soul) |
@@ -73,7 +75,6 @@
 |                                                     | Wand of Detect Magic                             | Minor item, Uncommon  | Part of [[Grimbaskal's Hoard]]                                                        | [Mechanics]( https://www.dndbeyond.com/magic-items/5346836-wand-of-detect-magic)       |
 |                                                     | [[Goggles of Object Reading]]                    | Minor item, Uncommon  | Found in [[Stormcaller Tower Treasure\|Stormcaller Tower]]                            | [Mechanics](https://www.dndbeyond.com/magic-items/2984533-goggles-of-object-reading)   |
 |                                                     | Immovable Rod                                    | Minor item, Uncommon  | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]     |                                                                                        |
-
 ### Riswynn
 
 | Image                      | Name                                   | Rarity               | Origin and Notes                                       | Mechanics                                                                       |

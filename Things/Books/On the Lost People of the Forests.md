@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/mundane, item/book, status/unknown]
+tags: [item/book]
 name: On the Lost People of the Forests
 typeOf: book
 ---
