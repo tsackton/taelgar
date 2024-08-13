@@ -23,9 +23,9 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Destroyed by [[Dunmar Fellowship]] on December 25th, 1748 in [[Vetta]], [[Skaerhem]] %%^End%%
 
-%% needs to incorporate some secrets in to the note, as most have been revealed in game by now %%
+![[scepter-of-command.jpg|right|300]]%% needs to incorporate some secrets in to the note, as most have been revealed in game by now %%
 
-This scepter is about a foot long and is constructed in silver, with five loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
+This scepter is about a foot long and is constructed in silver, with loops of silver forming a ball at the head, set with diamonds that seem to catch the light. It feels very old, and yet doesn't seem tarnished or worn at all. 
 
 It seems powerful, and like it wants to be used.
 
