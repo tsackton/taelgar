@@ -18,3 +18,5 @@ Destroyed by the Baharzel at Riswynn's request, freeing [[Havdar]] of its curse.
  
  
  %%SECRET[1]%%
+
+A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[1]%%

@@ -17,7 +17,7 @@
 - 63 merfolk gambling tokens, made of polished shell and stone. %%SECRET[3]%%
 ### Recovered Treasure from the [[Stormdancer]]
 
-Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
+All returned to Milo, Tilly, and crew
 
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T. 
 - A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside. 
@@ -26,8 +26,8 @@ Presumably all returned to Milo, Tilly, and crew, unless you say otherwise.
 - A strange swirling silvery crystal on a necklace, returned to Tilly. 
 ## From Buruli's Body
 
-- He is wearing a cloak made of some kind of billowing kelp fronds woven into fabric, magical (Cloak of Protection) (taken by Wellby)
-- He wears an elaborate amulet around his neck. It is like the others you've found, but far more elaborate, made of ivory and gold, decorated with sapphires. %%SECRET[7]%%(Party treasure)
+- He is wearing a cloak made of some kind of billowing kelp fronds woven into fabric, magical (Cloak of Protection) (Wellby)
+- He wears an elaborate amulet around his neck. It is like the others you've found, but far more elaborate, made of ivory and gold, decorated with sapphires. %%SECRET[7]%%
 - He wears a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems. (Helm of Telepathy) (given to Amil)
-- Wears three silver armbands, each finely worked and decorated with pearls. %%SECRET[8]%% (Party treasure) 
+- Wears three silver armbands, each finely worked and decorated with pearls. %%SECRET[8]%% 
 - One ring, a strange shadowy thing that looks like the currents of the ocean depths in solid form. (Ring of Shadows) (given to Faldrak)

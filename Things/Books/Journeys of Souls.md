@@ -1,11 +1,16 @@
 ---
-tags: [item/book, religion, status/unknown]
+headerVersion: 2023.11.25
+tags: [item/book, religion]
 typeOf: book
+ancestry: Hkaran
 name: Journey of the Souls
 ---
 # The Journey of the Souls
+>[!info]+ Information  
+> (Hkaran book)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-A book written in Hkaran, the first human [[languages|language]], by an unknown author.
+A book written in a Hkaran dialect, similar to Drankorian, by an unknown author, dating from before the [[The Downfall|Downfall]].
 
 It describes the journey of souls after death, from the material plane to the [[Land of the Dead]] to their final resting place, outlining the stages of the journey, as hypothesized by the spellcasters, theologians, and scholars of the day. 
 
