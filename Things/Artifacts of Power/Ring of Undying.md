@@ -14,7 +14,7 @@ whereabouts: Grash
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A ring, worn by [[Grash]], that supposedly lets one cheat death forever, and control death around you. Presumably the source of [[Grash]]'s ability to resurrect dead [[Orcs]] into undead. 
+![[ring-of-undying.jpg|right|400]]A ring, worn by [[Grash]], that supposedly lets one cheat death forever, and control death around you. Presumably the source of [[Grash]]'s ability to resurrect dead [[Orcs]] into undead. 
 
 The ring was rumored to have been created by an ancient elven wizard from the early days of the world, before humans walked Taelgar. It was made by binding the very substance of the [[Land of the Dead]] into a ring, that gave one power over life and death itself. 
 
