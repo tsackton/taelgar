@@ -1,6 +1,10 @@
 # Dunmar Fellowship Treasure
 
 This records the magic items and mundane treasure acquired by the [[Dunmar Fellowship]] in the course of their adventures. Treasure that has been lost, used, destroyed, sold, or given away is [[Party Treasure - Former|listed elsewhere]].
+
+Recent distributions:
+Faldrick receives the Ring of Shadows, Kethra gets the Celestial Gem of Protection, Amil takes the Helm of Telepathy, and Jotha is given the Ring of Displacement.
+
 ## Magic Items
 
 *Note: potions and scrolls are not tracked here. Make sure to add these to character sheets when you get them, and remove them when you use them.*
