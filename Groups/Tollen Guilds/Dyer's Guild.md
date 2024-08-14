@@ -11,4 +11,4 @@ typeOf: guild
 > A [[Tollen|Free City of Tollen]] guild  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-A powerful trade guild in [[Tollen]], known for the famous "Tollen Red" dye, a brilliant red color.
+A powerful trade guild in [[Tollen]], known for the famous "[[Tollen Dyes|Tollen Red]]", a brilliant vermillion color.

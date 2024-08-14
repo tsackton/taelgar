@@ -143,7 +143,7 @@ Other landmarks could include a theater, government palace, major clock tower, o
 
 Tollen is the master of the [[Western Gulf]], with significant fishing, merchant, and naval fleets. The Tollender navy controls the islands in the gulf of Tollen, as well as the Straits of [[Cymea]], and patrols the [[Western Gulf]], keeping it free of pirates. 
 
-The Tollen economy is powered by trade. Tollenders produce dyes. cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollender merchant fleets travel widely, bringing exotic goods back west, both as the raw ingredients for dyes (both mundane and magical) and for trade. Tollen is also a center for the production of magical inks and tattoos.
+The Tollen economy is powered by trade. Tollenders produce [[Tollen Dyes|dyes]]. cloth, and fine clothes that are widely sought across the [[Green Sea]], and are also known for shipbuilding, fishing, [[whaling]], and the fur trade. Tollender merchant fleets travel widely, bringing exotic goods back west, both as the raw ingredients for dyes (both mundane and magical) and for trade. Tollen is also a center for the production of [[Tollen Magical Tattoo|magical inks and tattoos]].
 
 %%NOTES
 1. Need to add a few more weird / magical details. For example, from an old email:
