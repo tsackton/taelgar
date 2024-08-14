@@ -16,4 +16,10 @@ whereabouts:
 
 One of the relics of Apollyon. Now possessed by Fausto, and used to enslave and mind control troublemakers. 
 
+%%
+The mask is sitting on a table, next to a black crown, seemingly made of some kind of matte black iron with dark gems, black pearls or opal of some kind, set in the points. A faint dark smoke seems to be seeping from the crown.
+
+a black crown made of some kind of matte, black iron, with 4 dark dark gems
+%%
+
 %%SECRET[1]%%
