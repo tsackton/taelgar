@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [item/material]
+displayDefaults: {defArt: ""}
 ---
-# The Tollen Dyes
+# Tollen Dyes
 >[!info]+ Information  
 > (material)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
