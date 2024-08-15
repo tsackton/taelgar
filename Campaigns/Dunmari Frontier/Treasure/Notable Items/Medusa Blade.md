@@ -1,22 +1,20 @@
 ---
+headerVersion: 2023.11.25
 destroyed: 1748-11-20
-tags: [item/magical, status/unknown]
+tags: [item/magical]
 typeOf: sword
+subTypeOf: cursed
 whereabouts: Havdar
 ---
 # The Medusa Blade
->[!info]+ Information
-> (magical sword)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Information  
+> (cursed sword)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A cursed sword taken from [[Agata]]'s lair. Grants the bearer the power to turn those they strike to stone, but will turn on the bearer as well, if given the chance. 
+This longsword, of unknown make, is decorated with reptilian motifs, and radiates transmutation magic. 
 
-Destroyed by the Baharzel at Riswynn's request, freeing [[Havdar]] of its curse. 
-
- ([[Havdar]]). A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  
- 
+It was taken from [[Agata's lair]] by the [[Dunmar Fellowship]] and gifted to [[Havdar]]. Later, the [[Dunmar Fellowship]] learned it was cursed sword, and responsible for turning [[Havdar]] to stone at one point, along with his increasing paranoia in the fall of DR 1748. Grants the bearer the power to turn those they strike to stone, but will turn on the bearer as well, if given the chance. [[Session 69 (DuFr)|Destroyed]] by the [[Bahrazel]] at [[Riswynn]]'s request, freeing [[Havdar]] of its curse. 
  
  %%SECRET[1]%%
-
-A longsword decorated with reptilian motifs, radiates transmutation magic. Probably of fey origin, but hard to say, its design is unfamiliar. Taken from [[Agata]]’s hut. Cursed, and responsible for turning [[Havdar]] to stone at one point, as well as his increasing paranoia in the fall of 1748. Destroyed by the [[Bahrazel]] in answer to [[Riswynn]]'s prayers, freeing Havdar of the curse, in [[Session 69 (DuFr)]].  %%SECRET[1]%%
