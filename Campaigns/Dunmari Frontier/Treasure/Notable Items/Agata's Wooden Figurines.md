@@ -10,7 +10,7 @@ displayDefaults: {defArt: ""}
 > ([[Fey]] figurine)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-A collection of detailed, lifelike wooden carvings of people found in Agata's house, all of which radiate complex transmutation magic. T
+A collection of detailed, lifelike wooden carvings of people found in Agata's house, all of which radiate complex transmutation magic.
 
 - A young girl, maybe 3 years old, with light brown skin and dark shoulder-length hair, big, curious brown eyes, and a chubby face, now broken in half and no longer radiating magic. This is [[Jumi]]. Freed. Casting Dispel Magic on [[Jumi]] herself, mostly turned to wood, ended the magic on [[Jumi]] and the figure of [[Jumi]]. 
 - An older halfling man, easily into his 80s or 90s, with a wrinkled face, stained traveling clothes, blue eyes and curly graying hair. Tentatively identified as one of the Tealeaf family, a large merchant clan that once traded between [[Chardon]] and eastern [[Dunmar]]. Freed; name is [[Garret Tealeaf]], captured by [[Agata]] 11 years ago.

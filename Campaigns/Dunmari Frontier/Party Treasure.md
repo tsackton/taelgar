@@ -198,6 +198,7 @@ Faldrick receives the Ring of Shadows, Kethra gets the Celestial Gem of Protecti
 	- A [[Urgall's scroll|scroll written in a cipher]], from the [[Flaming Tempest]], locked in chest in Urgall's cabin. 
 	- The [[Flaming Tempest log books]], recovered from the [[Flaming Tempest]]
 	- [[Papers from the Fraternity of the Empty Moon]]. Translations left at the [[Tokra]] [[Archives]] with [[Govir]]. No obvious value. Part of the [[Werewolf Lair Treasure]].
+	- [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical. Part of the [[Werewolf Lair Treasure]].
 	- Monk's journal from the [[Great War]] era ([[Monastery of Bhishma]], [[Kenzo]]). A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [[Great War]]. The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then,  increasing danger and the growing militarization of [[Kharsan]], several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [[Bhishma]] watch over my soul. No obvious value although to the right person could be worth 5-30 gp. Part of the [[Nashtkar Treasures#Found in Bhishma Monastery|Bhishma Monastery treasure]]
 	- Captain's log and charts from The Flaming Tempest (allowing [[Wellby]] to reconstruct the journey of the [[Flaming Tempest]], with time and effort), part of the [[Flaming Tempest Hoard]].
 	- Sheaf of receipts from [[Stormcaller Tower]].  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value. Part of the [[Stormcaller Tower Treasure]].
@@ -211,7 +212,6 @@ Faldrick receives the Ring of Shadows, Kethra gets the Celestial Gem of Protecti
 - A gilded skull of a halfling, taken from [[Kadmos]] as part of the [[Kadmos and Company Loot]]
 - Blank spell scroll ([[Monastery of Bhishma]], [[Seeker]]). Valuable, could be sold to the right person for 50-300 gp. Can be used to construct a spell scroll in 8 hours, of up to level 2. 
 - Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. Part of the [[Werewolf Lair Treasure]].
-- [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical. Part of the [[Werewolf Lair Treasure]].
 - Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. Part of the [[Raven's Hold Treasure]]
 - Metal vial with acidic liquid from gnoll war leader ([[Raven's Hold]], [[Wellby]]). No obvious value. Part of the [[Raven's Hold Treasure]]
 ### Miscellany and Trade Goods

@@ -18,17 +18,18 @@ rarity: very rare
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%need to decide if this is a one-off item, unique, or a representative of a class of items, and refactor text as appropriate %%
+%%need to decide if this is a one-off item, unique, or a representative of a class of items, and refactor text as appropriate; also maybe remove the game mechanics to a D&D Beyond link %%
 
 ![[mirror-of-soul-trapping-v1.jpg|right|400]]This 4’ heavy silvered mirror, weighing around 50 lb, is made of solid metal, polished to a silvered reflective surface on one side. The back side is etched in numerous strange languages, which [[Delwath]] understood to be incantations binding twelve extradimensional cells to the mirror.
-
-Seen in [[Mirror of the Past]]: [[Mirror of Soul Trapping Vision]]
 
 An extradimensional cell is an infinite expanse filled with thick fog that reduces visibility to 10 feet. Creatures trapped in the mirror's cells don't age, and they don't need to eat, drink, or sleep. A creature trapped within a cell can escape using magic that permits planar travel. Otherwise, the creature is confined to the cell until freed. If the mirror is destroyed, all creatures trapped within are released.
 
 Any creature that sees its reflection in the mirror while within 30 feet of it must make a DC 15 Charisma save or be trapped in one of the cells. This saving throw is made with advantage if the creature is aware of the nature of the mirror. 
 
 %%^Campaign:DuFr%%
+Seen in [[Mirror of the Past]]: 
+
+![[Mirror of Soul Trapping Vision]]
 #### Command Words
 The mirror can be controlled by command words, which must be spoken within 60 feet of the mirror to function, and require an action to invoke. You know five command words: 
 
