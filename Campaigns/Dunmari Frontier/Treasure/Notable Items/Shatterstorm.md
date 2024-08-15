@@ -1,13 +1,22 @@
 ---
-tags: [status/unknown]
+headerVersion: 2023.11.25
+tags: [item]
+ancestry: dwarven
+typeOf: warhammer
+subTypeOf: magical
+ddbLink: https://www.dndbeyond.com/magic-items/2172493-shatterstorm
+pcOwner: Riswynn
+whereabouts: Riswynn
 ---
+# Shatterstorm
+>[!info]+ Information  
+> ([[Dwarves|dwarven]] magical warhammer)  
+> [Mechanics](https://www.dndbeyond.com/magic-items/2172493-shatterstorm)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[shatterstorm.jpg|right|400]]A magical hammer enchanted by the Brawnanvils before the [[Great War]]. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near Raven's Hold. Now wielded by [[Riswynn]]. 
+![[shatterstorm.jpg|right|400]]Shatterstorm is a magical dwarven warhammer, enchanted by the Brawnanvils before the [[Great War]], but lost when the dwarves fled [[Raven's Hold]] in the chaos of the [[Great War]]. 
 
-%%notes
-A magical warhammer from the Raven's Hold Dwarven outpost, a creation of the dwarves before or during the Great War.
-
-[https://www.dndbeyond.com/magic-items/2172493-shatterstorm](https://www.dndbeyond.com/magic-items/2172493-shatterstorm)
-
-Currently: With Riswynn
-%%
+%%Campaign:DuFr%%
+Recovered by [[Riswynn]] and the [[Dunmar Fellowship]] from the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near Raven's Hold in DR 1748, and now wielded by [[Riswynn]]. 
+%%^End%%
