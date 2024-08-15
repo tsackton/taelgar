@@ -107,7 +107,7 @@
 - A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves at the elemental forge. Given to Faldrak as partial payment for magic item construction. 
 - [[Hralgar's Eyes]] (legendary major item*, party), returned to [[Hralgar]] as part of freeing him.
 - [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 84 (DuFr)]]
-- [[Arcane Grimoire]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 84 (DuFr)]]
+- Arcane Grimoire (rare major item, party), from [[Grimbaskal's Hoard]], given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 84 (DuFr)]]
 - Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 84 (DuFr)]]
 - [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 84 (DuFr)]]
 - Black Iron Staff,  given to the [[Archives]] in [[Tokra]]. 
