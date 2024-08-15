@@ -89,6 +89,8 @@
 
 ## Given Away
 
+- Celestial Gem of Protection, originally a [[Gifts and Purchases#Gifts|gift]] to [[Riswynn]], given to [[Kethra]]
+- Ring of Displacement, originally part of [[Agata's Treasure]], given to [[Jotha]]
 - Helm of Telepathy. This is a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to Amil.
 - Ring of Shadows. A strange shadowy thing that looks like the currents of the ocean depths in solid form, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to Faldrak. 
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T., from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]].
