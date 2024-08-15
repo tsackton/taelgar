@@ -1,8 +1,18 @@
 ---
-tags: [status/unknown]
+headerVersion: 2023.11.25
+tags: [item]
+typeOf: mace
+subtypeOf: magical
+ddbLink: https://www.dndbeyond.com/magic-items/4672-mace-of-terror
 ---
+# The Mace of Terror
+>[!info]+ Information  
+> (magical mace)  
+> [Mechanics](https://www.dndbeyond.com/magic-items/4672-mace-of-terror)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
-Stolen from [[Fausto]] after he betrayed the party.
+A mace, once owned by Fausto, stolen from him after he betrayed the Dunmar Fellowship. Ltaer, traded to the [[Ancient and Honorable Guild of Philosophers]]. Some of its history was seen in the [[Mirror of the Past]]:
 
+![[Mace of Terror Vision]]
 
-- [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 84 (DuFr)]]
+%%SECRET[1]%%
