@@ -1,1 +1,9 @@
+---
+headerVersion: 2023.11.25
+tags: [event-source]
+name: Dust from Seeker's Doppelgänger Vision
+DR: 
+timelineDescriptor: Dunmari Frontier Campaign
+---
+
 DM: Okay. you hold up the dust to the mirror. and the 1st thing you see is almost fist flying at your face and a crunch. and then you shift quickly backward. Drifting as a cloud high in the sky. waiting. lingering above the play glands where you've been told to be. You wouldn't actually know that. You just see that you're a cloud floating high above the play glands. and then shifting back further the form. Now not the secret clone standing in front of a polyon. So you're looking at a polyon's bat. The front of the seeker clone. Priyan seems to be sitting in meditation, almost his skeletal head, bare. pale, strange echo of a cloud crown floating over his head. a black crown made of some kind of matte, black iron, with 4 dark dark gems. the same crown that you've seen on Fasto's head. But here, reflected in some sort of pale echo form. and as you watch. there seem to be tendrils leaking out of the crown and touching the unformed creature, and you watch as it slowly turns into seeker. and then the partially formed body lying in a coffin. complete, but blank and unformed, not even in humanoid shape. and a polyon standing over it, holding a book. reading from this book. glancing as he turns to pages. probably chanting something not in any language dealt with can recognize. and this seems to go on for a very, very long time, like the mirror, shows the scene over and over again like this is months of work. and then slowly back to the stone of Apollon's prison. You see in the mirror the walls of this chamber that that you saw and dealt with, scrying 5 coffins which you can't see now, just looking at the blank wall of Drankorean marble. the Polyons, and slowly chipping away at the edge of the stone. must have taken decades to make enough dust for 5 people. but not formed until much, much later.
