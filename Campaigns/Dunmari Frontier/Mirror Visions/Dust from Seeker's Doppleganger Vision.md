@@ -2,8 +2,21 @@
 headerVersion: 2023.11.25
 tags: [event-source]
 name: Dust from Seeker's Doppelgänger Vision
-DR: 
+DR: 1749-05-13
 timelineDescriptor: Dunmari Frontier Campaign
 ---
+# The Dust from Seeker's Doppelgänger Vision
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-DM: Okay. you hold up the dust to the mirror. and the 1st thing you see is almost fist flying at your face and a crunch. and then you shift quickly backward. Drifting as a cloud high in the sky. waiting. lingering above the play glands where you've been told to be. You wouldn't actually know that. You just see that you're a cloud floating high above the play glands. and then shifting back further the form. Now not the secret clone standing in front of a polyon. So you're looking at a polyon's bat. The front of the seeker clone. Priyan seems to be sitting in meditation, almost his skeletal head, bare. pale, strange echo of a cloud crown floating over his head. a black crown made of some kind of matte, black iron, with 4 dark dark gems. the same crown that you've seen on Fasto's head. But here, reflected in some sort of pale echo form. and as you watch. there seem to be tendrils leaking out of the crown and touching the unformed creature, and you watch as it slowly turns into seeker. and then the partially formed body lying in a coffin. complete, but blank and unformed, not even in humanoid shape. and a polyon standing over it, holding a book. reading from this book. glancing as he turns to pages. probably chanting something not in any language dealt with can recognize. and this seems to go on for a very, very long time, like the mirror, shows the scene over and over again like this is months of work. and then slowly back to the stone of Apollon's prison. You see in the mirror the walls of this chamber that that you saw and dealt with, scrying 5 coffins which you can't see now, just looking at the blank wall of Drankorean marble. the Polyons, and slowly chipping away at the edge of the stone. must have taken decades to make enough dust for 5 people. but not formed until much, much later.
+As you hold the dust from the destroyed doppelganger of Seeker to the mirror, the scene fades.
+
+Quickly, you see a fist - Amil's - flying towards you in the mirror, and a cruch, and then the scene shifts again.
+
+Drifting as a cloud high in the sky, waiting, lingering above the Plaguelands. The scene shifts.
+
+The Seeker clone -- or what will be the Seeker clone, anyway -- is standing in front of [[Apollyon]], the vision and reflection showing Apollyon's back and the front of the Seeker clone, currently in a faceless, formless shape. Apollyon seems to be sitting in meditation, almost, his skeletal head bare, a pale strange echo of the [[Crown of Purity]] floating over his head. Tendrils of smoke seem to be leaking out of the crown, and touching the clone, the unformed creature. It slowly shifts into Seeker, a reflection of Seeker anyway. The scene shifts.
+
+You see a partially formed body lying in a coffin. Complete, but blank, featureless, misshapen. Apollyon is standing over the creature, holding a book, reading from it, glancing at the creature as he turns the pages. Chanting something, but not in a language Wellby can recognize or lip read. It seems to go on for a very long time -- the mirror shows you scenes of this, repeatedly, over months and months in a blur. The scene shifts.
+
+You see in the mirror the walls of this chamber of Apollyon's prison, a blank wall of Drankorian marble. And Apollyon, slowly chipping away at the edge of the stone, collecting the dust that falls. 
