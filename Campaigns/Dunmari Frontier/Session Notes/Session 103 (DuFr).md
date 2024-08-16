@@ -6,6 +6,7 @@ realWorldDate: 2024-07-16
 DR: 1749-05-12
 DR_end: 1749-05-14
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+companions: [Tilly Brineheart, Milo Thistlefoot]
 name: Dunmari Frontier - Session 103
 tagline: in which clones and chaos abound
 descTitle: Doppelganger Threats

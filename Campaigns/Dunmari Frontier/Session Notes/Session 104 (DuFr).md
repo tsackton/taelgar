@@ -6,6 +6,7 @@ realWorldDate: 2024-08-08
 DR: 1749-05-14
 DR_end: 1749-05-16
 players: [Seeker, Delwath, Kenzo, Wellby]
+companions: [Tilly Brineheart, Milo Thistlefoot]
 name: Dunmari Frontier - Session 104
 tagline: in which the party defeats a giant construct
 descTitle: The Tower of the Colossus
