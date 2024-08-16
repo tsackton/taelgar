@@ -4,8 +4,9 @@ tags: [event-source]
 name: Dust from Seeker's Doppelgänger Vision
 DR: 1749-05-13
 timelineDescriptor: Dunmari Frontier Campaign
+displayDefaults: {defArt: ""}
 ---
-# The Dust from Seeker's Doppelgänger Vision
+# Dust from Seeker's Doppelgänger Vision
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 

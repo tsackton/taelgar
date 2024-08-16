@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 whereabouts: Spiritual Realms
 typeOf: plane
 ---
@@ -9,6 +9,10 @@ typeOf: plane
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The realm of nature unbounded and wild.
+Arborea is the plane of wildness, nature, and beasts, a place where the beauty of vast untouched landscapes coexists with the terror of the hunt and the chaotic energy of overgrown jungles. It is an ancient realm among the [[Outer Realms]], not associated with any particular divinity.
 
-%%SECRET[1]%%
+%%^Campaign:dufr%%
+There is a known [[extraplanar weak point]] connecting Arborea to the [[Material Plane]] underneath the [[Lakan Monastery]], south of [[Tokra]].
+%%^End%%
+
+%%original story tbd but feels like this might predate even the age of divinity and perhaps have some kind of origin in the Riving?%%
