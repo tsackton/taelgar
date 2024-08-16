@@ -6,6 +6,7 @@ realWorldDate: 2024-06-30
 DR: 1749-05-11
 DR_end: 1749-05-12
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+companions: [Tilly Brineheart, Milo Thistlefoot]
 name: Dunmari Frontier - Session 102
 tagline: in which the party rescues halflings and battles Buruli
 descTitle: The Fourth Jade
