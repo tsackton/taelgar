@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 name: Fahnukan
 typeOf: realm
 ancestry: dwarven
