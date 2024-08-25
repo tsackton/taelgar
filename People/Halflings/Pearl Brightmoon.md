@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person]
+tags: [person]
 campaignInfo: 
 - { campaign: dufr, person: Wellby, date: 1748-09-30, type: met}
 - { campaign: dufr, person: Wellby, date: 1748-10-12, type: last seen}
