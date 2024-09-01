@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/notes]
-campaignInfo: []
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
@@ -11,20 +10,56 @@ whereabouts: Greater Sembara
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Nestled in the Mostreve Hills south and west of Tyrwingha lies the border kingdom of Addermarch. One of the rich border provinces of the Kingdom of Sembara in the time before the Great War, Addermarch enjoyed the wealth that came with control of the headwaters of the River Aure, which forms the south branch of the Enst and was a major trade connection between the Insingue and Sembara. However, during and after the Great War, Addermarch was devastated, and much of its population fled, starved, or were killed. 
+Nestled in the [[Mostreve Hills]] southwest of [[Tyrwingha]], east of the [[Duchy of Maseau]], south of the [[Borderlands|Sembaran Borderlands]], and north of the haunted [[Darkwood]] lies the ancient hill kingdom of Addermarch. This is a land of rolling hills, swift rivers, and dense forests; a rugged land of independent folk fiercely proud of their long history and ancient traditions. 
 
-Originally a Sembaran border duchy, After the war, in the general retreat of the Sembaran monarchy, the Earl of Addermarch established Addermarch as an independent kingdom, and those closely aligned with Sembara, the Earl maintains ties to Tyrwingha as well, and has never formally resworn alligence to either crown.
+Addermarch was settled long ago, before the [[Drankorian Empire|Drankorians]] came, by a people sharing a cultural and linguistic tradition with [[Tyrwingha]]. During the [[Drankorian Era]], it was a backwater province of the [[Drankorian Empire]], never densely settled, but supported and garrisoned as a ward against the dangers of the [[Darkwood]]. 
 
-In the 1550s, the population of Addermarch began to grow again, in part from refugees from the south claiming unfarmed land. A strong feudal system developed, driven largely by the need for constant defense against ever-present dangers lurking in the Plaguelands to the south, and especially the haunted [[Darkwood]] on Addermarch’s southern frontier. 
+%% Possibility: original settlers may have included a substantial number of exiles from Tyrwingha, or people who rejected Ethlenn's bargain, which may color the perception of the fey in Addermarch. %%
+
+With the fall of [[Drankorian Empire|Drankor]], Addermarch charted its own course as a frontier kingdom, isolated from [[Sembara]] by poor roads, difficult travel, and occasionally war. While sharing a language, a religion, and a cultural connection, Addermarch has never acknowledged the sovereignty of Sembaran monarches, excepting during the height of the [[House of Sewick]].
+
+%% Note: Addermarch was never conquered in the wars since the fall of Drankor. It was isolated completely from Sembara during the height of the [[Dominion of Avatus]], although never cut off from [[Tyrwingha]]; it was besieged to the south but never entered during the [[Great War]]; and it was largely isolated except for dangerous passage along the [[Aure]] during the [[Third Hobgoblin War (Sembara)]]. 
+
+Leaving in for now that Addermarch earls acknowledged Derik I as their overking, which lasted until the death of Derik III. 
+%%
 
 Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into Sembara, but also a significant producer of timber and wool. Enjoying favorable tariffs for its goods in exchange for its role in protecting Sembara’s southern borders, Addermarch is a close ally of Sembara.
 
+%% Not sure about the last sentence, might not fit the vibe. Although it probably should be a close ally of Sembaran post hobgoblin wars %%
 
-%%% notes from gdrive may not be up to date
-- The most ‘Sembaran’ of the southern marches. People mostly Sembaran or mixed Tyrwinghan/Sembaran and culturally firmly in the Sembaran sphere
-    
-- Independent largely due to historical circumstances
+## Geography 
 
-Note there is a lot of background from Tim's family Darkwood game that needs incorporation into the main body of notes here, i.e. see [[Addermarch Notes]]
-%%
+*See more: [[Mostreve Hills]]*
 
+Addermach is a hill country, set entirely within the [[Mostreve Hills]]. 
+### Climate
+
+
+### Regions
+
+
+### Borders
+
+
+## History
+
+
+## Life in Addermarch
+
+### Culture
+
+
+### Political Organization
+
+### Justice and the Law
+
+
+### Religion
+
+*See more: [[Mos Numena]]*
+
+### Magic
+  
+
+
+### Economy, Trade, and Foreign Relations
