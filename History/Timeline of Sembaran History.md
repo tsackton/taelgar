@@ -89,7 +89,7 @@ Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], e
 - (DR:: 1429), late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treay of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 - (DR:: 1430), summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
 - (DR:: 1430), fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
-- (DR:: 1432): [[Derik I]] establishes the [[Duchy of Maseau]], the [[Barony of Aveil]], the [[Barony of Dunfry]], the [[Marches of Enford|Barony of Enford]], and the [[Addermarch|Earldom of Adderfell]] in the lands formally controlled by [[Avatus]]. He also reestablishes the Duchy of Brovna.
+- (DR:: 1432): [[Derik I]] establishes the [[Duchy of Maseau]], the [[Barony of Aveil]], the [[Barony of Dunfry]], and the [[Marches of Enford|Barony of Enford]] in the lands formally controlled by [[Avatus]]. He also reestablishes the Duchy of Brovna.
 
 By 1462, on [[Derik I|Derik I's]] death, the royal prerogatives of the monarch of Sembara are well established.
 
@@ -171,7 +171,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 - (DR:: 1551), fall: The [[Blood Plague]] spreads north, killing everything
 - (DR:: 1552), winter: A terrible winter of [[The Famine of 1552|famine]] 
 - (DR:: 1552), winter: [[Bertram I]] dies and [[Bertram II]] is crowned with [[Jane of Tollen]] as his regent
-- (DR:: 1552), spring: The [[Blood Plague]] ends, although the toll south of the [[Enst]] was immense. [[Bertram I]] stops collecting rents from [[Addermarch]] and [[Duchy of Maseau|Maseau]]
+- (DR:: 1552), spring: The [[Blood Plague]] ends, although the toll south of the [[Enst]] was immense. [[Bertram I]] stops collecting rents from [[Duchy of Maseau|Maseau]]
 - (DR:: 1553), winter: The [[Regency of Jane of Tollen]] ends and [[Bertram II]] takes power himself
 - (DR:: 1558), spring: News reaches [[Embry]] of the [[Battle of White Pass]] (the opening thrust of the [[Sentinel Range War]]) and at Jane's urging, no aid is sent to [[Ardlas]] or [[Lavnoch]]
 - (DR:: 1559): [[Jane of Tollen]] dies and [[Bertram II]] rides north to aid [[Ardlas]]
