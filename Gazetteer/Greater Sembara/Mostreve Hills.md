@@ -5,11 +5,14 @@ campaignInfo: []
 name: Mostreve Hills
 typeOf: line of hills
 whereabouts: Greater Sembara
+pronunciation: mohs-TRE-vuh or mohs-tre-vay
 ---
 # The Mostreve Hills
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+
 
 %% notes 
 Geologically, the Mostreve HIlls are the dominant feature. They are basically the western foothills / extension of the Orenlas Border Mountains, and run along the southern border of Tyrwingha, and then through Addermarch before stopping at the Gap of Maseau. 
