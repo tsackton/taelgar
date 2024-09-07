@@ -4,7 +4,7 @@ These are all names with Gaelic, Old English, and sometimes Old Norse influences
 
 Ardwyn, ARD-win, named for a high, fair place, reflecting its elevated position and association with beauty or good fortune
 
-Brantor, BRAN-tor, named for a raven's hill, symbolizing a high place watched over by ravens (Gaelic/Norse)
+(USED) Brantor, BRAN-tor, named for a raven's hill, symbolizing a high place watched over by ravens (Gaelic/Norse)
 
 Brynrock, BRIN-rok, named for a rocky hilltop, reflecting its rugged landscape and elevated, stony prominence
 
@@ -20,7 +20,7 @@ Duirholm, DOO-er-hohm, named for a sacred oak grove near a low hill, evoking anc
 
 Dunlough, DUN-loch, named for a hill fort by a lake, reflecting a fortified settlement near water
 
-Dunwick, DUN-wik, derived from a fortified village near a hill, reflecting its history as a strategic and ancient settlement (Wick is Old English so implies not an ancient settlement)
+(USED) Dunwick, DUN-wik, derived from a fortified village near a hill, reflecting its history as a strategic and ancient settlement (Wick is Old English so implies not an ancient settlement)
 
 Fiodhach, FEE-uhkh, named for a dense wooded area, emphasizing the presence of ancient forests
 
@@ -42,7 +42,7 @@ Tairneach, TAR-nekh, named for its association with thunder, hinting at a place 
 
 Torvaine, TOR-vayn, derived from a rocky hill and slope, indicating a village nestled on or near a prominent incline
 
-Tygate, TY-gayt, named for a dwelling near a prominent road or entrance (with contributions from Old English and Norse influences)
+(USED) Tygate, TY-gayt, named for a dwelling near a prominent road or entrance (with contributions from Old English and Norse influences)
 
 ## French
 
@@ -58,8 +58,6 @@ Fleurmont, FLUHR-mont, combining "fleur" (flower) and "mont" (mountain), indicat
 
 Grimoulet, GREE-moo-lay, from "grim" (dark or grim) and "oulet" (small), suggesting a small, shadowy village with a sense of hidden depth
 
-Valperrin, VAL-peh-rin, combining "val" (valley) and "perrin" (stone), indicating a valley known for its stony features or rocky outcrops.
-
 Lormaille, LOR-my, stemming from "l'or" (gold) and "maille" (mesh or field), suggesting a rich or golden plain, possibly linked to legends of hidden wealth
 
 Lourvain, LOOR-vayn, derived from "lour" (heavy) and "vain" (vine), suggesting a village known for its rich, abundant vineyards
@@ -70,7 +68,7 @@ Ravignac, RAH-veen-yak, blending "ravine" and "ac" (place), indicating a settlem
 
 Rochevaux, ROSH-voh, combining "roche" (rock) and "vaux" (valleys), indicating a village nestled among rocky valleys, known for its rugged beauty.
 
-Valcroix, VAL-krwah, derived from "val" (valley) and "croix" (cross), named for a village nestled in a valley marked by a significant cross or crossroads.
+(USED) Valcroix, VAL-krwah, derived from "val" (valley) and "croix" (cross), named for a village nestled in a valley marked by a significant cross or crossroads.
 
 Valperrin, VAL-peh-rin, combining "val" (valley) and "perrin" (stone), indicating a valley known for its stony features or rocky outcrops
 
@@ -89,7 +87,7 @@ Marcheford, MAR-shuh-ford, from "marche" (boundary in Norman) and "ford" (river 
 
 Raiechant, RAY-shont, combining "raie" (grove) and "chant" (song), suggesting a village near a grove known for its serene and melodic environment
 
-Roscombe, ROHS-kom, derived from "ros" (heath or moor in Old French) and "combe" (valley in Old English), indicating a valley on a heath
+(USED) Roscombe, ROHS-kom, derived from "ros" (heath or moor in Old French) and "combe" (valley in Old English), indicating a valley on a heath
 
 Villenham, VIL-en-ham, blending "ville" (town in French) and "ham" (village in Old English), suggesting a small town or hamlet
 
