@@ -5,7 +5,7 @@ tags: [deity, religion/halflings]
 ---
 # The First Ones
 
-The halfling people worship three gods, known collectively as the First Ones or the First Ancestors.The First Ones are often thought of as two-faced gods, each reflecting two aspects of life that are both different and related, one looking inward, the other looking outward. They are also the keepers of the collective mind and soul of the race, the ultimate guardians of the joined spirit of all halflings stretching back to the beginning.
+The halfling people worship three gods, known collectively as the First Ones or the First Ancestors. The First Ones are often thought of as two-faced gods, each reflecting two aspects of life that are both different and related, one looking inward, the other looking outward. They are also the keepers of the collective mind and soul of the race, the ultimate guardians of the joined spirit of all halflings stretching back to the beginning.
 
 [[Nwana]], the Stranger/Child, reflects the home, hearth, and family, reflecting the duality of the inward-looking child and the outward-looking stranger. 
 

@@ -23,7 +23,7 @@ This page lists plot relevant or otherwise interesting updates I've made, organi
 * Some interesting background on [[Odo Cordwaner]], [[Abigail Moss]], and [[Remy Darrow]]
 ### Jan 28, 2024
 * Updated some information about the funerary practices in [[Sembaran Funerary Traditions|Sembara]] and [[Tyrwinghan Funerary Traditions|Tyrwingha]]
-* Added some notes on [[Coinage of Sembara|Sembaran coinage]] as well as some house rules around [[House Rules#Wealth and Gold|weath and tracking gold]]
+* Added some notes on [[Coinage of Sembara|Sembaran coinage]] as well as some house rules around [[Campaigns/Cleenseau Campaign/Mechanics/House Rules#Wealth and Gold|weath and tracking gold]]
 * A flavor [[Story About Halfling Merchants]] that might help understand the vibe of halflings
 * An update to [[Stories of Tyrwingha for Profit]] specifically for [[Izgil Moonseeker|Izgil]]
 ### Jan 26, 2024
