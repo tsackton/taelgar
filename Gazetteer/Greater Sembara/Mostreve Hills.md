@@ -8,22 +8,18 @@ whereabouts: Greater Sembara
 pronunciation: mohs-TRE-vuh or mohs-tre-vay
 ---
 # The Mostreve Hills
+*(mohs-TRE-vuh or mohs-tre-vay)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% to do - need to show this all on a map %%
 
+The Mostreve Hills are a stretch of rough, rocky hills, with some higher peaks, that run in a series of long ridges from the flat plains of the [[Maseau Gap]] to the [[~Cymea Border Mountains~]], dividing [[Sembara]], [[Addermarch]], and [[Tyrwingha]] from the [[Plaguelands]]. They are largely wooded, although some of the highest peaks are above treeline, and the drier southwestern sides of some ridges are high plains with only scattered trees. The climate is temperate, with warm summers, cool winters, and frequent precipitation year round, with occasional winter snowfall on the higher peaks.
 
-%% notes 
-Geologically, the Mostreve HIlls are the dominant feature. They are basically the western foothills / extension of the Orenlas Border Mountains, and run along the southern border of Tyrwingha, and then through Addermarch before stopping at the Gap of Maseau. 
+Geographically, the Mostreve Hills are composed of four distinct regions:
+- The western edge of the Mostreve Hills is a sharp escarpment, known locally in Addermarch as the [[Westcliff]], that runs in a broad arc capping the northwestern, western, and southwestern edges of the Mostreve Hills. The western edge of Westcliff is particularly steep, forming a dramatic cliff line against the flat [[Maseau Gap]]. The northern edge of the escarpment, in contrast, forms a series of tumbled, broken ridges that blend into the [[Borderlands|Sembaran Borderlands]]. The [[Clavert]], to the north, and the [[Valmont]], to the south, both have their sources in [[Westcliff]]. 
+- East of [[Westcliff]], the [[Aure]] river valley breaks up the ridge lines of the [[Mostreve Hills]], forming a great bowl. Here, the hills are gentler, rolling hills, wooded except where cleared for pasture and orchards. This is a land of rushing river valleys broken by rugged, hilly forests, but with few truly high peaks. 
+- East of the [[Aure]], the highest mountains of the Mostreve HIlls lie along the northern edge of what is now the Plaguelands. Here, especially on the southwestern slopes, the poor soil creates a land of grasslands mixed with rocky outcroppings, sloping to the [[~Aure East Fork~]] valley. These high peaks gradually slope down in gentle ridges to the northwest, becoming the wooded hills of [[Tyrwingha]]. 
+- East of [[Tyrwingha]], and north of the [[Ozabal|Ozabal Swamp]], the Mostreve Hills merge with the foothills of the [[~Cymea Border Mountains~]], with the rough, jagged hills dropping quickly to the flat coastal plains. Although there are some high peaks here, the long east-west ridge lines from further west break down here, and multiple passes cut through the Mostreve HIlls immediately northwest of [[Orenlas]]. 
 
-I am envisioning the Mostreve as basically consisting of four sections:
-
-- The easternmost section, not really marked on the world map, is the transition zone south of Ozebal Swamp. Here you probably have fairly mountainous "hills" that drop quickly to a flat coastal plain. A possible analog might be something like southern France, specifically the Camargue standing in for Ozebal (albeit a bit colder). The mountains here are a significant barrier to travel and are largely uninhabited, and probably never were really settled particularly densely, although pre-Great War possibly Tyrwingha <-> Orenlas trade exists, or perhaps Obezal <-> Orenlas trade. 
-- Moving west, to the area immediately south of Tyrwingha, you have gentler hills, with more settlement particularly on the northern slopes, but still a notable barrier to travel even in the pre-Plaguelands days. The vibe to me here feels kind of Appalachian, perhaps, maybe something like Blue Hills. But in this section you still have a prominent ridge running east/west that is a major barrier to travel and makes for a natural border.
-- Moving west, to Addermarch, things break down a little. Here you don't have a strong ridge line, you have rolling hills amidst river valleys. I think still a kind of Appalachian vibe, but here you have a mix of lower rolling hills and more settlement. I think all of Addermarch is probably fairly hilly overall. Even pre-Great-War, the Darkwood is a dangerous / haunted place and not something you travel through, so even though the terrain is less forboding to the south, it is not like there is a major trade road to Isingue here. But there is probably not no traffic, and Addermarch gets some Isingue influence probably. 
-- At the western edge of the Mostreve Hills, you have a sharp escarpment that sweeps in a gentle north/south curve, running south of the [[Clavert River]] and then turning south and east to the [[Valmont]]. Directly west of this escarpment you have the Maseau Gap, which is a flat plain, and then the Sentinels Spur further west. North, in the modern day borderlands, I can imagine the "Addermarch hill country" extends a bit east of the Clavert and west of the [[Aure]]
-
-%%
-
-A series of small mountains and hilly terrain that divides [[Sembara]] and [[Tyrwingha]] from the [[Plaguelands]].

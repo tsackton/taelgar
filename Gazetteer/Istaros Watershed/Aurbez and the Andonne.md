@@ -15,7 +15,7 @@ This region is a borderland, caught between the [[Sentinel Range]] to the west a
 Snow is rare, but sometimes a large winter storm will blanket the [[Aurbez Plateau]] for days, and the upper [[Aursen]] can freeze in particularly cold winters. The [[Douren]], however, rushes too fast to freeze even in the coldest winters.
 
 ## Borders and Overview
-The region is bordered by the [[Plaguelands]] and the [[Darkwood]] in the east, the [[~Gap of Mostreve~]] and the [[~Sentinel Range Spur~]] in the north (which forms an informal and shifting border with the [[Duchy of Maseau]]), the [[Sentinel Range]] in the west, and the [[Andonne]] and [[Douren]] rivers in the south. 
+The region is bordered by the [[Plaguelands]] and the [[Darkwood]] in the east, the [[Maseau Gap]] and the [[~Sentinel Range Spur~]] in the north (which forms an informal and shifting border with the [[Duchy of Maseau]]), the [[Sentinel Range]] in the west, and the [[Andonne]] and [[Douren]] rivers in the south. 
 
 The land is lightly populated, but what people there are mostly live along the two rivers: the [[Masance]] and the [[Aursen]]. A significant road, the [[Maseau - Dunmar Road]] also runs through the region, providing a link between [[Sembara]] and the west. Traffic along this road grows every year. 
    

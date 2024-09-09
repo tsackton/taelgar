@@ -25,7 +25,7 @@ DR 431 - DR 1059
 ### Overview
 By DR 431, when the Drankorian army retreated from [[Zimkova]], the borders of Drankor in the east were established, and would not change for many generations. Drankor ruled all the lands between the [[Sentinel Range]] and the [[Western Gulf]] south of the [[Semb]], as well as the lowlands east of the [[Braebein]] and the lowland valleys of the [[Teft]] and [[Volta]]. The borders of the modern duchies of Telham and Arnsbury still trace to the farthest extent of the Drankorian conquest, as does the borders of Ardlas. 
 
-The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. Across the "Sembaran" provinces (which included the modern day [[Sembara]], [[Ardlas]], [[Duchy of Maseau|Maseau]], [[Addermarch]], and [[Tyrwingha]]), [[Mos Numena]] spread, and a common language and culture grew, and the old [[Kestavo|Kestavan]] traditions were largely forgotten.
+The Drankorians brought modern roads, improved agricultural techniques, and a new religion to the land. Farming and pastoralism was a way of life here, with little technology and little trade. Across the "Sembaran" provinces (which included the modern day [[Sembara]], [[Ardlas]], [[Duchy of Maseau|Maseau]], [[Gazetteer/Greater Sembara/Addermarch/Addermarch]], and [[Tyrwingha]]), [[Mos Numena]] spread, and a common language and culture grew, and the old [[Kestavo|Kestavan]] traditions were largely forgotten.
 
 In the highlands, the [[Zimkova|Zimka]] kept the old ways, although along the borders with Drankor Mos Numena and Drankorian culture spread. 
 
@@ -159,7 +159,7 @@ DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 ### Overview
 
 ###
-- (DR:: 1546): Significant refugee populations from [[Istabor Alliance|Istabor]] are settled in [[Duchy of Maseau|Maseau]], the [[Borderlands]], [[Addermarch]], and the [[Mostreve Hills]]
+- (DR:: 1546): Significant refugee populations from [[Istabor Alliance|Istabor]] are settled in [[Duchy of Maseau|Maseau]], the [[Borderlands]], [[Gazetteer/Greater Sembara/Addermarch/Addermarch]], and the [[Mostreve Hills]]
 - (DR:: 1547): The [[Bloodlust Wars]] begin
 - (DR:: 1549), summer: [[Derik III]] dies on the battlefield at [[Valarin]]
 - (DR:: 1549), fall: The [[Bloodlust Wars]] ends
