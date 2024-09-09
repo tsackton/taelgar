@@ -26,7 +26,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on January 15th, 1748 in [[Erelion]], [[Orenlas]] %%^End%%
 
-![[vahaiya-portrait.png|right|400]]Vahaiya is a warrior, traveler, adventurer, and veteran of the [[Great War]]. They fought with the Sembaran Army in the in the [[Battle of Urlich Pass]], and survived. After the Great War, they traveled extensively around [[Gazetteer/Greater Sembara/Addermarch/Addermarch]], the [[Aurbez Plateau]], [[Duchy of Maseau|Maseau]], and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
+![[vahaiya-portrait.png|right|400]]Vahaiya is a warrior, traveler, adventurer, and veteran of the [[Great War]]. They fought with the Sembaran Army in the in the [[Battle of Urlich Pass]], and survived. After the Great War, they traveled extensively around [[Addermarch]], the [[Aurbez Plateau]], [[Duchy of Maseau|Maseau]], and other Sembaran borderlands for many years. They made a name for themselves in the Sembaran hobgoblin wars.
 
 %%^Date:1721%%
 Growing tiring of fighting after many years, they settled in [[Erelion]], where they now live, spending time as an artist and art collector. 

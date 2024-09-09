@@ -10,7 +10,7 @@ whereabouts: Taelgar
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-This region of Taelgar includes the land west of the [[Sentinel Range]] and east of the [[Western Gulf]], from [[Zimkova]] in the north, to the [[Plaguelands]] in the south. It includes the realms of [[Zimkova]]: [[Ardlas]], [[Breva]], and [[Lavnoch]] as well as [[Sembara]] and [[Tyrwingha]], and to the south, the [[Duchy of Maseau]] and [[Gazetteer/Greater Sembara/Addermarch/Addermarch]].
+This region of Taelgar includes the land west of the [[Sentinel Range]] and east of the [[Western Gulf]], from [[Zimkova]] in the north, to the [[Plaguelands]] in the south. It includes the realms of [[Zimkova]]: [[Ardlas]], [[Breva]], and [[Lavnoch]] as well as [[Sembara]] and [[Tyrwingha]], and to the south, the [[Duchy of Maseau]] and [[Addermarch]].
 
 It is largely a settled land, dominated by the major river systems of the Sembaran heartland: the [[Enst]], the [[Wistel]], the [[Semb]], the [[Teft]], and the [[Volta]].
 
