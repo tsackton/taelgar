@@ -10,4 +10,3 @@ whereabouts: Addermarch
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The chief town of [[Gazetteer/Greater Sembara/Addermarch/Addermarch]]
