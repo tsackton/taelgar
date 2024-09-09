@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/needswork/external]
 name: Dunwick
 typeOf: market town
 whereabouts: Addermarch
@@ -9,3 +9,5 @@ whereabouts: Addermarch
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% from original Plaguelands campaign, west of Adderfell %%

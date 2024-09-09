@@ -64,7 +64,7 @@ Lourvain, LOOR-vayn, derived from "lour" (heavy) and "vain" (vine), suggesting a
 
 Montmirel, MON-mee-rel, combining "mont" (mountain) and "mirel" (mirror), suggesting a village on a reflective mount, perhaps near a lake or still waters
 
-Ravignac, RAH-veen-yak, blending "ravine" and "ac" (place), indicating a settlement near a notable ravine or dramatic landscape feature
+(USED) Ravignac, RAH-veen-yak, blending "ravine" and "ac" (place), indicating a settlement near a notable ravine or dramatic landscape feature
 
 Rochevaux, ROSH-voh, combining "roche" (rock) and "vaux" (valleys), indicating a village nestled among rocky valleys, known for its rugged beauty.
 
