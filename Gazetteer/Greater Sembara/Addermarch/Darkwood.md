@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external]
-campaignInfo: []
+tags: [place, status/stub]
 name: Darkwood
 typeOf: forest
 subTypeOf: haunted
