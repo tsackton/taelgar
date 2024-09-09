@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/needswork/external]
 name: Darkwood
 typeOf: forest
 subTypeOf: haunted
@@ -11,3 +11,4 @@ whereabouts: Addermarch
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% add details from original plaguelands campaign %%
