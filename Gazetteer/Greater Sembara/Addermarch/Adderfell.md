@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/stub]
 name: Adderfell
-typeOf: town
+typeOf: city
 whereabouts: Addermarch
 ---
 # Adderfell

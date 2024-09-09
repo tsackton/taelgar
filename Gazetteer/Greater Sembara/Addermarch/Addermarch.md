@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/mike]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
@@ -9,6 +9,8 @@ whereabouts: Greater Sembara
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% tagged status/mike for feedback but largely complete IMO %%
 
 Nestled in the [[Mostreve Hills]] southwest of [[Tyrwingha]], east of the [[Duchy of Maseau]], south of the [[Borderlands|Sembaran Borderlands]], and north of the haunted [[Darkwood]] lies the ancient hill kingdom of Addermarch. This is a land of rolling hills, swift rivers, and dense forests; a rugged land of independent folk fiercely proud of their long history and ancient traditions. 
 
@@ -98,7 +100,7 @@ In these golden years last until DR 1720, when the [[Undead Attacks in Sembara]]
 
 ## Places
 
-Will eventually replace with table, this is for notes / planning. Will be clearer with a map.
+%% TO DO: add map, potentially replace with auto-generated table %%
 
 Natural features include:
 - The [[Westcliff]], a significant escarpment running along the western and northwestern borders, steep hills, rough terrain, some relatively impassible mountain ridges here and sharp cliffs on the western border
@@ -119,35 +121,33 @@ Settlements include:
 
 ## Life in Addermarch
 
-So far just notes
-
 ### Culture and Religion
 
-- [[Mos Numena]], of the Sembaran flavor, pretty standard
-- Speak Sembaran (southern)
-- Largely independent hardy folks; travel is hard, the fey to the south will steal your dreams, and people have to look out for each other and be careful
-- Only real city is [[Adderfell]]; some smaller market towns, but most people live in small villages or homesteads
-- Fairly insular. Some halflings travel to Adderfell, especially for the brandy, and plenty of travel cross-border with Tyrwingha. But less exchange with Sembara than one might think (Maseau Escarpment isolates a fair bit). More contacts with elves than might be expected due to proximity to Orenlas. 
+The people of Addermarch are, in many ways, like the people of southern Sembaran and Tyrwingha. They worshop [[Mos Numena]], following the Sembaran customs to a large extent, and they speak Sembaran (with a southern dialect; unlike in Tyrwingha to the east, there is no lingering pockets of people speaking the ancient tongues, although ancient inscriptions in the Old Tollish script can be found). 
 
+The land is hard, especially in the hills and mountains, and the people of Addermarch are largely independent, insular, and self-sufficient. Travel is difficult, and the constant danger of the tricksy fey from the Darkwood and other dangerous places keeps people on guard against strangers and unusual happenings. There are fewer [[Dwarves|dwarves]] than one might expect, but more [[Elves|elves]], mostly from  [[Orenlas]], and [[Lizardfolk|lizardfolk]], mostly from the [[Ozabal]] and [[Latazaro]] swamps. 
+
+The popular of Addermarch is very rural. There is only one significant city, [[Adderfell]], and while small market towns (often fortified) dot the landscape, most people live in small villages or isolated homesteads. 
 ### Political Organization, Justice, and the Law
 
 %% ALL very much in draft form %%
 
-Organized as a kingdom. There are five earls, each of whom has a circuit they are responsible for (with some quirks). The earls choose one of their own as the overking, whose original role was to serve as the commander of the army in times of war, and head of state in times of peace; much of this remains true. The overking also levies taxes to pay for the construction and upkeep of the southern forts that guard against the plaguelands. 
+Addermarch is a feudal oligarchy, with power centralized in the hands of the Earl's Court, composed of the five hereditary earls of Addermarch, whose claim to power traces back to ancient days. The Earl's Court has, in times of danger, elected one of their own, or even an outside, as the commander in chief of the army, and over time this role has been formalized into the High Lord of Addermarch, who serves as a kind of overking, and is allowed to style themselves Defender of the Realm. 
 
-The five earls are each responsible for administering justice and providing for the defense of their territory, and have the right to tax the labor of the land within their circuit. Most (but see below) have no fixed residence, and travel among manors and castles within their domain. Earls tax their land to maintain defenses, but generally speaking there is no manorial feudalism in Addermarch. Earls appoint knights or castellans to serve as lord of particular castles, but there is no expectation that this title is inherited, and the knights/castellans are functionally part of the earl's court and not entitled to tax the land on their own (although often there are significant land holdings associated with particular castles, the profits of which would normally accure to the earl, but which might be deeded to a knight)
+Each earl functions as the monarch of a circuit, defined by the villages and towns in their demesne. Within this circuit, the Earl is responsible for administering justice and providing for the defense of their territory, and has the right to tax the labor of the land to provide for its upkeep. However, generally speaking there is no manorial feudalism in Addermarch. Instead, an Earl would typically appoint a knight of their court to serve as the lord of a particular castle or manor. However, there is no expectation that this title is inherited, and although there are often significant land holdings which provide rents for castle upkeep, the knights and castellans have no vassalage relationship with the commoners.
 
-The earls are:
-- Earl of Adderfell is considered an earl (and is often a powerful one) but unlike most other earls, functions as the lord of the city of Adderfell as their primary duty.
-- The earl of the southern reaches is responsible for the nearly the entire southern border region and the upper reaches of the aure
-- The earl of the aure is responsible for the north and eastern parts of the Aure River valley
-- The earl of the highlands is responsible for the tyrwinghan border region 
-- The earl of the mostreve is responsible for the mostreve escarpment, the northern border with sembara, and the western parts of the aure river valley; unlike other earls, this earl is responsible for three shires (name temporary) that are each centered around particular fortifications and whose lords serve as vassals of the earl, dating from various wars when the western border (and often the northern border) was fraught
+%% the vibe I'm aiming for is a bit of feudalism but with less hierarchy and kind of looser than Sembara. You don't have layers of vassals and lords, basically there are just earls and knights, with the knights perhaps divided into hereditary knighthoods, which must be confirmed by the full Earl's Court, and temporary ones, granted by a particular Earl. Perhaps the hereditary knights also serve as something like a House of Lords within each Earldom, or at least are required to confirm the Earl - so Earls are not absolute monarchs. But these details don't really matter that much for now.%%
 
-Note these circuits are not strict lines on a map and often overlap, but each village is part of the domain of a single earl. There are also complicated divisions about things like roads, rights to charge tolls, etc, etc. 
+The five Earls of Addermarch are known as:
+- The Earl of Adderfell, who, unlike other Earls, is the lord of the city of Adderfell (but includes some outlying villages in their demesne) 
+- The Earl of the Aure, whose circuit is largely in the Aure river valley, in particular the northern and eastern stretches, interdigitating with the Earl of the Mostreve in parts of the western Aure valely
+- The Earl of the Mostreve, whose circuit includes all of the Westcliff, as well as parts of the upper Aure valley, especially on the western part of Addermarch. The Earl of the Mostreve is the lord of three shires: [[Bramshire]] (northern hills bordering [[Borderlands|Sembaran Borderlands]]), [[Carlinshire]] (northwestern hills, upper reaches of [[Umber]]), [[Weskershire]] (West Cliff and south). These shires are each centered around major defenses on the western and northern border, and have hereditary lords. 
+- The Earl of the Highlands, whose circuit includes the western part of the Aure river valley, and the highlands along the Tyrwinghan border.
+- The Earl of the Southern Reaches, whose circuit includes the southern Aure. 
+ 
+Note these circuits are not strict lines on a map and often overlap, but each village is part of the domain of a single earl.
 
-In 1740s, I think the earl of the aure is the overking
+%% Not sure about the titles, e.g. Earl of Adderfell works but Earl of the Southern Reaches might be too long%%
 ### Economy, Trade, and Foreign Relations
 
-Major exports are timber, wool, apple brandy, maybe leather or other animal products. Except for brandy, mostly raw materials. 
-
+Addermarch does not have major trade connections to elsewhere, despite being rich in raw materials. The largest export industry is brandy, which is produced by a number of brandy houses based in Adderfell, and exported down river to Sembaran and beyond. 
