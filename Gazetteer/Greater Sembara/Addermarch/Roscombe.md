@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/update]
 name: Roscombe
 typeOf: market town
 whereabouts: Carlinshire
