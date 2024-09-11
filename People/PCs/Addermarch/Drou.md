@@ -1,3 +1,21 @@
+---
+headerVersion: 2023.11.25
+tags: [pc/addermarch, person]
+species: elf
+gender: female
+ka: 37
+whereabouts:
+- {type: home, location: Orenlas}
+- {type: home, location: Addermarch}
+---
+# Drou
+>[!info]+ Biographical Info  
+> An [[Elves|elf]] (she/her), ([[Elven Cycle of Generations|ka]] 37)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+![[assets/drou-large.png|right|400]]Drou is a graceful dancer, singer, and musician from Orenlas, who has wandering around Tyrwingha and Addermarch bringing joy to people's lives through music and dance. 
+
+%% BACKSTORY
 From Orenlas, ka 37
 Wandering around Tyrwingha and Addermarch
 Want to be useful to the world. People need joy in their lives and songs and music bring cheer.
@@ -14,3 +32,4 @@ After that, she wandered for some time, mastering her art, and perhaps occasiona
 
 Until recently, when she heard of the alchemist Caradoc recruiting mercenaries to his cause. Curious, and motivated by sense of wanting to help the world, Drou left for Roscombe. 
 
+%%
