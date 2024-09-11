@@ -9,6 +9,6 @@ whereabouts: Addermarch
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Umber is a slow-moving river that runs from its source in the [[Westcliff]] to 
+The Umber is a slow-moving river that runs from its source in the [[Westcliff]] to the [[~Main Aure Fork~]], which it joins near the market town of [[Valcroix]]. The lower Umber passes through orchards and farmland, but the upper Umber is largely within the [[Torvaine Forest]], and lightly settled. 
 
-%% runs from Westcliff to the ~Main Aure Fork~, called Umber for brown water from forest %%
+The Umber gets its name from its murky, brownish water, colored by forest silt.

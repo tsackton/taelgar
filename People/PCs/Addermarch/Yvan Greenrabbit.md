@@ -1,19 +1,24 @@
 ---
+headerVersion: 2023.11.25
 aliases: [Yvan]
+tags: [pc/addermarch, person]
+species: halfling
+gender: male
+affiliations: 
+- {org: Greenrabbits, type: primary }
+whereabouts:
+- {type: home, location: Sembara}
+- {type: home, location: Addermarch}
 ---
+# Yvan Greenrabbit
+>[!info]+ Biographical Info  
+> A [[Halflings|halfling]] (he/him), of Greenrabbits  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% 
 
-Grew up part of a merchant caravan, traveled around Sembara trading (Greenrabbits)
-Was super lucky since birth, always favored by chance
-Doesn't really consciously control magic, kind of just luck happening
-(maybe learn more later?)
-left family: something randomly bad happened, left so it wouldn't happen again
-wandering around doing stuff
-need money to survive - go where things seem interesting
-contract based steady job very appealing
-
-
-====
+BACKSTORY
 
 The Greenrabbits have long traveled the roads of Sembara, meandering and trading what strikes their fancy: dyed cloth from Tollen, silverwork from Tyrwingha by way of Eskbridge, ceramics from Rinburg. Yvan was born into this comfortable, if not particularly elaborate, life. He spent his youth traveling: a caravan of three large wagons, many ponies, and dozens of family. 
 
@@ -23,3 +28,4 @@ This all changed one afternoon on the road between Fellburn and Wisford. It was 
 
 Since then, Yvan has wandered, mostly heading gradually south, eventually ending up in Addermarch. Without his family, it has been a struggle to survive, doing what odd jobs he could here and there. Until recently, when he heard rumors of Caradoc, an alchemist in the hills that was offering steady contract work for mercenaries. Eager for steady pay, Yvan headed up the Aben towards Roscombe.
 
+%%

@@ -4,6 +4,7 @@ tags: [place, status/mike]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
+alias: [Addermarian]
 ---
 # Addermarch
 >[!info]+ Information  
