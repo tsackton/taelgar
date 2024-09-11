@@ -50,13 +50,11 @@ Addermarch is roughly divided into four major geographic regions:
 - To the east and northeast, along the borders of [[Tyrwingha]], the poor soil of the hilly, rocky land keeps forests to sheltered valleys. This is largely rangeland: sheep and cattle graze in the high pastures in summer, and only in a few sheltered valleys do crops survive. %% more open meadows, less forests, perhaps also a bit Provence-ish? Note the northern/eastern slopes are more wooded than the southern/western slopes%%
 ### Borders
 
-To the west and northwest Addermarch is bordered by the [[Westcliff]], a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [[Duchy of Maseau]] to the west, and the [[Borderlands|Sembaran borderlands]] to the north. 
+To the west and northwest Addermarch is bordered by the [[Westcliff]], a series of sharp cliffs and dangerous terrain that separates the realm from the flat plains of the [[Duchy of Maseau]] to the west, and the [[Borderlands|Sembaran borderlands]] to the north. At the Aure, the high ridge of [[Westcliff]] is cut by the river, and on the eastern bank, the land is much lower. Here an ancient line of border stones running to [[~High Peak of Tyrwinghan Ridge~]] demarcates the border with [[Tyrwingha]]. These stones are said by some to be raised by Drankor, but they are marked with complex warnings in [[Sylvan Writing|Sylvan]], and many believe they have fey origins.
 
-To the north and east, Addermarch is bordered by [[Tyrwingha]], although in many places this border
+The eastern border is not marked, as the high terrain between Addermarch and Tyrwinghan is unpopulated. The gentler, forested slopes to the north and east are under the demense of Tyrwinghan earls, and the dryer, arid slopes to the south and west, the land of Addermarian earls.
 
-Moving east, the northern border cuts across the [[Aure]] river valley, and then turns south, where the border between [[Tyrwingha]] and Addermarch -- rarely tracked or marked -- runs along the gentle wooded hills that gradually rise to higher peaks.
-
-To the south, Addermarch is bordered by the [[Darkwood]] and the [[Plaguelands]], and this border is carefully watched for fear of what might creep out in the shadows. 
+To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]], where the [[~Aure East Fork~]] arises, and then, to the southwest, the [[Darkwood]]. This border is carefully watched for fear of what might creep out in the shadows. 
 
 ## History
 
@@ -78,13 +76,13 @@ The fall of [[Drankorian Empire|Drankor]] is little noticed in Addermarch at fir
 
 This long stasis shifts dramatically when [[Avatus]] invades [[Sembara]] in the early 1400s. Addermarch is nearly completely surrounded, kept from defeat only by the valiant efforts of guerilla warbands fighting in the rough hills of the escarpment. 
 
-%% Possibility is that the guerilla troops - something like Faramir's bands in the LoTR, are one of the forerunners[[The Rangers| to the Ran]]gers %%
+%% Possibility is that the guerilla troops - something like Faramir's bands in the LoTR, are one of the forerunners [[The Rangers|to the Rangers]] %%
 
 When [[Derik I]] marches at the head of the combined armies of [[Sembara]] and [[Tyrwingha]], the earls of Addermarch quickly join, and in support of the war establish [[Derik I]] as the overking of Addermarch. Over the next hundred years or so, a close relationship between Addermarch and [[Sembara]] develops. While the earls of Addermarch never become vassals of the Sembaran crown, when [[Derik I]] dies, [[Derik II]] is acknowledged as overking of Addermarch, a tradition that continues through the reigns of [[Charlotte I]] and [[Derik III]]. During the [[Great War]], the armies of [[Sembara]] and Addermarch fight together as one. 
 
 %% The intention here is that Addermarch fits into the "Greater Sembara" narrative of the pre-Great-War years as basically a close ally; Sembara never has any meaningful role in the internal affairs of Addermarch -- Addermarch doesn't have a strong monarch in any case -- but functionally for "defense against monsters and evil" the Sembaran monarch is the boss. I think Sembara probably also contributes funds towards building fortifications and repairing fortifications along the Darkwood in this time as well. But, once Derik III dies, this all kind of falls apart. Possibly made worse by Sembara's relative lack of aid in the various plaguelands dangers that hit Addermarch hard.%%
 
-After the [[Great War]], Addermarch suffers during the chaos of the early part of the [[Blood Years]]. After Derik III's death, neither [[Bertram I]] nor [[Jane of Tollen]] are not acknowledged as overking (in part because in Addermarch there is no real concept of regency, in part because they are seen as out of touch with the dangers of the [[Plaguelands]]), and Addermarch turns inward. The next forty years are a dark time, plagued with constant threats from the Plaguelands. 
+After the [[Great War]], Addermarch suffers during the chaos of the early part of the [[Blood Years]]. After Derik III's death, neither [[Bertram I]] nor [[Jane of Tollen]] are  acknowledged as overking (in part because in Addermarch there is no real concept of regency, in part because they are seen as out of touch with the dangers of the [[Plaguelands]]), and Addermarch turns inward. The next forty years are a dark time, plagued with constant threats from the south. 
 
 %% Details are thin, but the intent here is that this sets up (a) growing influence of Rangers and the Addermarch style of guerilla fighting on the southern border, (b) growing distance from Sembara  which is seen as consumed by internal bickering and its western borders, and too willing to let the southern kingdoms ([[Duchy of Maseau|Maseau]], Addermarch, and to a lesser extent [[Tyrwingha]]) bear the brunt of the defense against the terrors of the [[Plaguelands]], and (c) set up the central government as growing stronger and with some rearranging of taxes so that there is a bit more of an idea of a common defense (e.g., perhaps the overking and/or the council of earls has the right to levy particular taxes for the purposes of funding the common defense). %%
 
