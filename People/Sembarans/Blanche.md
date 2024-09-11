@@ -13,4 +13,4 @@ born: 1687
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[blanche-of-beury.png|right|320]] [[Lionel Mortagne|Lionel's]] right hand, and the magistrate of [[Beury]]. 
+![[blanche-of-beury.png|right|320]][[Lionel Mortagne|Lionel's]] right hand, and the magistrate of [[Beury]]. 

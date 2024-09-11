@@ -4,16 +4,18 @@ tags: [place]
 whereabouts: Barony of Aveil
 pronunciation: Cran-ford
 typeOf: settlement
-population: 816
+population: 654
 typeOfAlias: town
 ---
 # Cranford
 *(Cran-ford)*
 >[!info]+ Information  
-> pop. 816  
+> pop. 654  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Cranford has grown rapidly since 1681 when a bridge was built over the [[Cranmere|Cranmère]]. 
+A bustling village which has grown rapidly since 1681 when a bridge was built over the [[Cranmere|Cranmère]].
 
-%% Likely will make up more stuff before next session but nothing yet %%
+It has a small unnamed inn which caters to travelers, and the temple of [[The Warlord]] the was destroyed in the [[Undead Attacks in Sembara]].
+
+The most prominent building is the large manor house with a elaborate garden, but second in prominence is the tollhouse complex by the bridge.

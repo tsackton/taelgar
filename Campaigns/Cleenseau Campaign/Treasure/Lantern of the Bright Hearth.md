@@ -42,3 +42,5 @@ whereabouts: Robin of Abenfyrd
 >He gets the sense that this man, whoever he was, wants him to say yes.
 >
 >Robin answers: "Yes" and as he takes the pebble it transforms into a lantern, the hands vanish, and the circle drifts away in the rising sun. As Robin walks back to the patrol camp, he feels for a moment this is all a dream. But the lantern is real in his hand
+
+%% Was made be Aelirios Sunblade, originally as a gift for [[Cedric Cyfenwid]] %%
