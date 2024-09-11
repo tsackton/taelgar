@@ -18,3 +18,5 @@ pronunciation: Ahz-lane
 Aslain is a busy market town near the confluence of the [[Auberonne]] and [[Leandre]] rivers in the [[Barony of Aveil]]. The town, and much of the farmland to the east along the banks of the [[Auberonne]], is historically controlled by the [[d'Aslains|d'Aslain]] family.
 
 It is not fortified, and was rebuilt during the reign of [[Cece I]] after the ravages of the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], across the river from the ancient town of the same name, now in ruins. 
+
+There is a large temple to [[The Mother]] here, and a small and still active temple to [[The Night Queen]] in the ruins across the river.
