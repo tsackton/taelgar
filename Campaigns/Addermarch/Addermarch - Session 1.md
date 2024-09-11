@@ -18,14 +18,14 @@ descTitle: Desolation at Torvaine Watch
 
 The adventurers face unexpected dangers on the road, and encounter zombies in Torvaine Watch while escorting a merchant to Roscombe.
 ## Timeline
-- Day 1: Depart [[Valcroix]] with [[Oona Strongbones]]; travel along [[Umber]] valley.
+- Day 1: Depart [[Valcroix]] with [[Oona Stonebridge]]; travel along [[Umber]] valley.
 - Day 2: Follow road southwest into [[Torvaine Forest]]
 - Day 3: Continue towards [[Roscombe]]; calm spooked horses, and defeat an ambush by mohlers.
 - Day 4, morning: Find a body drained of blood on the road; reach [[Torvaine Watch]] to find it deserted.
 - Day 4, afternoon: Enter [[Torvaine Watch]]. Warned by a ghost of death. Defeat zombies in mess hall. Defeat more zombies in barracks. Find treasure and clues suggesting a sinister event.
 ## Narrative
 #### Day 1
-The session begins at dawn in [[Valcroix]]. [[Drou]], an elf from [[Orenlas]] [[Fazoth de Brune|Fazoth de Brune]], a human from the [[Enst]] river valley, and [[Yvan Greenrabbit]], a halfling from [[Sembara]], all on their way to [[Roscombe]] to join the service of the mysterious alchemist [[Caradoc]], have been stuck in [[Valcroix]] for several weeks, as late snow and early rain have turned the roads to impassable mud. Now, the weather has cleared, and the group has agreed to escort the halfling merchant [[Oona Strongbones]] to [[Roscombe]]. The caravan -- Oona, her horses and wagon, Drou, Fazoth, and Yvan -- departs under sunny skies, and spends the day slowly making their way north and west, following the road to [[Roscombe]] along the [[Umber]], past fields, orchards, and small villages. 
+The session begins at dawn in [[Valcroix]]. [[Drou]], an elf from [[Orenlas]] [[Fazoth de Brune|Fazoth de Brune]], a human from the [[Enst]] river valley, and [[Yvan Greenrabbit]], a halfling from [[Sembara]], all on their way to [[Roscombe]] to join the service of the mysterious alchemist [[Caradoc]], have been stuck in [[Valcroix]] for several weeks, as late snow and early rain have turned the roads to impassable mud. Now, the weather has cleared, and the group has agreed to escort the halfling merchant [[Oona Stonebridge]] to [[Roscombe]]. The caravan -- Oona, her horses and wagon, Drou, Fazoth, and Yvan -- departs under sunny skies, and spends the day slowly making their way north and west, following the road to [[Roscombe]] along the [[Umber]], past fields, orchards, and small villages. 
 #### Day 2
 An uneventful day of travel, as the road turns southwest, leaving the river and the settled valley and beginning to climb into the [[Torvaine Forest]]. 
 #### Day 3
