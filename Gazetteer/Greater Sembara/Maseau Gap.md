@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, status/namecheck]
+tags: [status/stub, status/namecheck, place]
 ---
 
 %% the gap between the Mostreve Hills and the Sentinels %%
