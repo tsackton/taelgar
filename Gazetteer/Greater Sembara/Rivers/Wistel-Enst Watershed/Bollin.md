@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Bollin
 typeOf: river
 whereabouts: Greater Sembara
