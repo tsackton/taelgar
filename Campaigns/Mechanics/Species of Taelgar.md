@@ -57,106 +57,23 @@ Legends and rumors speak of other, stranger species in the world of Taelgar. Sai
 
 The following table lists the playable species of Taelgar, and includes information about mechanical choices and role playing considerations to guide your choice.
 
-| Species                 | Group               | Key Question(s)                                                                                                                                                                                           | DDB Link                                                       | **Mechanics**         | Starting Languages |
-| ----------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | --------------------- | ------------------ |
-| [[Humans]]              | Common (Standard)   | What is your cultural and religious background?                                                                                                                                                           | [PHB 2024](https://www.dndbeyond.com/species/1751441-human)    |                       | 4                  |
-| [[Halflings\|Halfling]] | Common (Standard)   | Did you grow up nomadic, or not? How did it impact you?                                                                                                                                                   | [Homebrew](https://www.dndbeyond.com/species/1755936-halfling) | [[Playing a Halfing]] | 5                  |
-| [[Dwarves\|Dwarf]]      | Common (Standard)   | What is your thuhr, and how did it impact (or not) your life?                                                                                                                                             | Dwarf (Taelgar)                                                |                       | 4                  |
-| [[Lizardfolk]]          | Common (Standard)   |                                                                                                                                                                                                           | Lizardfolk (Taelgar)                                           |                       | 4                  |
-| [[Elves\|Elf]]          | Uncommon (Standard) | What generation ([[Elven Cycle of Generations\|ka]]) are you from? What stage of your life are you in: is this your first time leaving your homeland (your first *leya*)? Or have you taken another path? | [Homebrew](https://www.dndbeyond.com/species/1755491-elf)      |                       | 6                  |
-| [[Stoneborn]]           | Uncommon (Standard) |                                                                                                                                                                                                           | Stoneborn (Taelgar)                                            |                       | 4                  |
-| [[Centaurs\|Centaur]]   | Uncommon (Standard) |                                                                                                                                                                                                           | TBD                                                            |                       |                    |
-| [[Kenku]]               | Uncommon (Standard) |                                                                                                                                                                                                           | Kenku (Taelgar)                                                |                       |                    |
-| Satyr                   | Uncommon (Fey)      |                                                                                                                                                                                                           | Satyr (MoTM)                                                   |                       |                    |
-| Changeling              | Uncommon (Fey)      |                                                                                                                                                                                                           | Changeling (MoTM)                                              |                       |                    |
-| Kobold                  | Rare (Standard)     | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                                                                                    | TBD                                                            |                       |                    |
-| Fae                     | Rare (Fey)          |                                                                                                                                                                                                           | TBD                                                            |                       |                    |
-| Fairy                   | Rare (Fey)          |                                                                                                                                                                                                           | Fairy (MoTM)                                                   |                       |                    |
-| Beastfolk               | Rare (Fey)          |                                                                                                                                                                                                           | TBD                                                            |                       |                    |
-| Plane-touched           | Rare (Unusual)      | Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it?                                                                                         | TBD                                                            |                       |                    |
-| Gnome                   | Very Rare (Unusual) |                                                                                                                                                                                                           | TBD                                                            |                       |                    |
-| Free Orc                | Very Rare (Unusual) |                                                                                                                                                                                                           | TBD                                                            |                       |                    |
+| Species                 | Group               | Key Question(s)                                                                                                                                                                                           | DDB Link                                                       | **Mechanics**                                                      | Starting Languages |
+| ----------------------- | ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------ |
+| [[Humans]]              | Common (Standard)   | What is your cultural and religious background?                                                                                                                                                           | [PHB 2024](https://www.dndbeyond.com/species/1751441-human)    |                                                                    | 4                  |
+| [[Halflings\|Halfling]] | Common (Standard)   | Did you grow up nomadic, or not? How did it impact you?                                                                                                                                                   | [Homebrew](https://www.dndbeyond.com/species/1755936-halfling) | [[Playing a Halfing]]                                              | 5                  |
+| [[Dwarves\|Dwarf]]      | Common (Standard)   | What is your thuhr, and how did it impact (or not) your life?                                                                                                                                             | Dwarf (Taelgar)                                                | [[Campaigns/Mechanics/Playing a Dwarf\|Playing a Dwarf]]           | 4                  |
+| [[Lizardfolk]]          | Common (Standard)   |                                                                                                                                                                                                           | Lizardfolk (Taelgar)                                           | [[Campaigns/Mechanics/Playing a Lizardfolk\|Playing a Lizardfolk]] | 4                  |
+| [[Elves\|Elf]]          | Uncommon (Standard) | What generation ([[Elven Cycle of Generations\|ka]]) are you from? What stage of your life are you in: is this your first time leaving your homeland (your first *leya*)? Or have you taken another path? | [Homebrew](https://www.dndbeyond.com/species/1755491-elf)      | [[Playing an Elf]]                                                 | 6                  |
+| [[Stoneborn]]           | Uncommon (Standard) |                                                                                                                                                                                                           | Stoneborn (Taelgar)                                            | [[Campaigns/Mechanics/Playing a Stoneborn\|Playing a Stoneborn]]   | 4                  |
+| [[Centaurs\|Centaur]]   | Uncommon (Standard) |                                                                                                                                                                                                           | TBD                                                            |                                                                    |                    |
+| [[Kenku]]               | Uncommon (Standard) |                                                                                                                                                                                                           | Kenku (Taelgar)                                                |                                                                    |                    |
+| Satyr                   | Uncommon (Fey)      |                                                                                                                                                                                                           | Satyr (MoTM)                                                   |                                                                    |                    |
+| Changeling              | Uncommon (Fey)      |                                                                                                                                                                                                           | Changeling (MoTM)                                              |                                                                    |                    |
+| Kobold                  | Rare (Standard)     | Most non-kobolds stereotype you as a nuisance, how do you handle that?                                                                                                                                    | TBD                                                            |                                                                    |                    |
+| Fae                     | Rare (Fey)          |                                                                                                                                                                                                           | TBD                                                            |                                                                    |                    |
+| Fairy                   | Rare (Fey)          |                                                                                                                                                                                                           | Fairy (MoTM)                                                   |                                                                    |                    |
+| Beastfolk               | Rare (Fey)          |                                                                                                                                                                                                           | TBD                                                            |                                                                    |                    |
+| Plane-touched           | Rare (Unusual)      | Are you open about your plane-touched heritage? If so, how has it impacted your life? If not, how do you hide it?                                                                                         | TBD                                                            |                                                                    |                    |
+| Gnome                   | Very Rare (Unusual) |                                                                                                                                                                                                           | TBD                                                            |                                                                    |                    |
+| Free Orc                | Very Rare (Unusual) |                                                                                                                                                                                                           | TBD                                                            |                                                                    |                    |
 
-### Dwarf
-
-**Creature Type**: Humanoid
-**Size**: Your size is Medium.
-**Speed**: 30 feet
-**Age**: Dwarves mature at a little more slowly than humans, and are not considered full adults until they reach their age of majority at 25 and make a pilgrimage to the Heart of the Mountain to receive their name and thuhr. Dwarves have a long lifespan, often reaching 350 year of age.
-**Languages**: You may select four languages during character creation, which should usually include Dwarvish. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency.
-
-**Darkvision.** You have Darkvision with a range of 120 feet.
-
-**Stonecunning.** As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-
-**Thuhr.** As adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. While your thuhr has no direct mechanical effects, if you wish to represent a typical life experience for a dwarf of your thuhr, you may select a special Background representing each thuhr.
-
->[!note] Binthuhr Dwarves
->If you are a binthuhr dwarf (a young dwarf who has not visited the Heart of the Mountain, or an adult who failed to complete their pilgrimage), you do not have a Thuhr, Baharezel's Blessing, or the Dwarven Rune Crafting trait. You may instead choose one 1st level feat to reflect your upbringing.
-
-**Bahrazel's Blessing.** Your innate connection to the Bahrazel provides you with a supernatural blessing. Choose one of the following options: 
-- *Tarbaka's Blessing of Craft.* You learn the Mending cantrip. In addition, you have an uncanny ability to understand raw materials and how to shape them. You gain proficiency in two Artisan's Tool of your choice. When you Craft items with your chosen Tools, you require only half the time and raw materials that would normally be required.
-- *Azar's Blessing of Resilience.* Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level. 
-- *Oshkir's Blessing of Aid.* You learn the Guidance and Spare the Dying cantrips. 
-- *Karthel's Blessing of Shaping.* You learn two cantrips from among Elementalism, Shape Water, Mold Earth, Gust, Control Flames, Thaumaturgy, or Light.
-- *Maganna's Blessing of Communication.* You learn the Message cantrip. You also gain proficiency in 3 additional languages.
-- *Fanrukel's Blessing of Lore.* You learn the Identify spell. You can cast this spell at will, but only as a ritual. If you cast this spell as a ritual, it does not require material components. 
-- *Uzdan's Blessing of .* 
-
-
-- [[Uzdan]] (he/him), the Ruler, the patron of those who lead, whether armies or kingdoms, and worshipped as the first king of the dwarves
-
-
-**Dwarven Rune Crafting.** As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain an innate ability to use runes to create magical effects, drawing power from your connection to the Bahrâzel. When you complete a Long Rest, you can inscribe or create a number of tokens bearing a rune equal to half your Proficiency Modifier (rounded up). Each rune can be used once to create a magical effect, after which the rune fades. You may choose Intelligence, Wisdom, Charisma, or Constitution as your ability score for rune effects.
-
-- Rune of Defense: Sanctuary
-- Rune of Exploration: Longstrider
-- Rune of Lore: Fanrukel's Insight*
-- Rune of Valor: Heroism
-- Rune of Stone: Locate Stone or Ore*
-- Rune of the Forge: Tarbaka's Flame Ward*
-- Rune of Life: Goodberry
-
-#### Fanrukel's Insight
-**Casting Time:** Reaction, which you take when you take the Study action and fail on the d20 Test
-**Range:** Self
-**Components:** V, S, M
-**Duration:** Instantaneous
-
-You can reroll the d20, adding your spellcasting modifier to the roll in addition to any normal modifiers that apply to the check. If you roll less than 10 on the new roll, treat the roll as a 10. 
-#### Locate Metal or Stone
-**Casting Time:** 1 Action
-**Range:** Self
-**Components:** V, S, M
-**Duration:** Instantaneous
-
-Describe or name a specific type of ore, gemstone, metal, native element, or natural stone. You learn the distance and direction of each instance of the named material within 1000 feet.
-
-#### Tarbaka's Flame Ward
-**Casting Time:** 1 Action
-**Range:** Self
-**Components:** V, S, M
-**Duration:** 10 minutes
-
-One of your appendages becomes immune to fire damage. While this effect is active, you can use your Reaction when you take Fire damage to gain resistance to the triggering damage. 
-
-### Lizardfolk
-
-**Creature Type**: Humanoid
-**Size**: Your size is Medium.
-**Speed**: 30 feet
-**Age**: Lizardfolk reach adulthood in their early 20s; the first 8-10 years of their life are spent as amphibious young. Most live into their third century, but few live beyond 300 years.
-
-As a Lizardfolk, you have these special traits.
-
-**Aquatic Adaptations:** You have a Swim Speed equal to your Speed, and you can hold your breath for up to 30 minutes at at time.
-
-**Natural Armor:** You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
-
-**Omens of the Ancestors.** You can reach your ancestors through the magic of the Tharzen Anzinakoa and beseech them for aid. You always have the Augury spell prepared. You can cast each spell you gain with this trait once without expending a spell slot, and you regain the ability to cast it this way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
-
-**Prophetic Vision**: Your affinity for the dreamworld allows you to briefly see a moment ahead in time. If you fail a d20 Test, you can roll 1d4 and add the result to the d20, potentially changing a failure into a success. Once you use this feature, you may not use it again until you complete a short or long rest.
-
-modifications:
-- at level 3, get "ancestral aid" form that gives an ancestral form with a few choices, one of which is skill proficiency, one of which is prophetic vision, maybe one other? *When you reach character level 5*, you always have the Borrowed Knowledge spell prepared.
-- readjust prophetic vision into choices for each firstborn?
