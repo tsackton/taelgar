@@ -34,7 +34,7 @@ As a Stoneborn, you can use your connection to Entamba to perform feats of stren
 
 - Entamba's Body: You have resistance to Poison and Cold damage, and you have Advantage on saving throws against poison. 
 - Entamba's Will: You have Advantage on Wisdom and Charisma saving throws. 
-- Entamba's Strength: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition.
-- Entamba's Protection: When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this Reaction a number of times equal to your Proficiency Bonus.
+- Entamba's Strength: When you hit a Large or smaller creature with an attack roll and deal damage to it, you can give that target the [Prone](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#ProneCondition) condition. You can use this effect a number of times equal to your Proficiency Bonus, and regain all uses when you finish a Long Rest. 
+- Entamba's Protection: When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this Reaction a number of times equal to your Proficiency Bonus, and regain all uses when you finish a Long Rest. 
 
 %% maybe could use one more option? %%
