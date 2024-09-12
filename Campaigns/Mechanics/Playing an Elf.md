@@ -13,9 +13,9 @@ A simple answer if engaging with the lore of elves is not of interest to you is 
 
 ### Elf Names
 
-Elves in Taelgar typical have just a given name, using their ka, their homeland, or both if necessary for specificity. These names often have a lyrical sound, reflecting the Elvish language, with -o, -ion, -or, -on suffixes common for male names, and -e, -iel, -ril, -eth suffixes common for female names. To choose the name for your Elven character, you might consider looking at [name](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252frealelvish.net%252fnames%252fgenerator%252f) [generators](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.namegeneratorfun.com%252felf), consider one of these ideas, or invent your own:
+Elves in Taelgar typical have just a given name, using their ka, their homeland, or both if necessary for specificity. These names often have a lyrical sound, reflecting the Elvish language, with -o, -ion, -or, -on suffixes common for male names, and -e, -iel, -ril, -eth suffixes common for female names. To choose the name for your Elven character, you might consider looking at [name](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252frealelvish.net%252fnames%252fgenerator%252f) [generators](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252fwww.namegeneratorfun.com%252felf), consider one of these ideas, or you might invent your own.
 
-**Gender-Neutral Names:** Anglos**,** Amathrod, Astordil, Belegorn, Cadwar, Celebas, Culaf, Fothes, Glaeron, Gwindil, Hastor, Iorthon, Istor, Ningannel, Nillendur, Orosser, Sereg, Suldil, Tawaren, Tordil, Umbardil, Vanima
+**Gender-Neutral Names:** Anglos, Amathrod, Astordil, Belegorn, Cadwar, Celebas, Culaf, Fothes, Glaeron, Gwindil, Hastor, Iorthon, Istor, Ningannel, Nillendur, Orosser, Sereg, Suldil, Tawaren, Tordil, Umbardil, Vanima
 
 **Male Names:** Airo, Alarcion, Brunion, Carnfindo, Finwo, Gladhrion, Tawenor, Sirion, Uirion, Vorowion
 
@@ -34,6 +34,13 @@ Elves in Taelgar typical have just a given name, using their ka, their homeland
 
 As an Elf, you have these special traits.
 
+%% elf design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
+
+Keen senses is slightly worse than pick a skill 
+Darkvision + Resilience of the Dream + Trance better on the strong side for (c)
+Firstborn Gift is roughly on par with 2 cantrips; Elven Ritual magic is probably not quite as good as pick a 1st level spell given the restrictions, but not far out of balance IMO. So roughly equal to magic initiate origin feat together.
+%%
+
 #### Darkvision
 You have [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) with a range of 60 feet.
 
@@ -45,7 +52,11 @@ You have an innate understanding of the weave of magic from your connection to E
 - _Gift of the Sea._ You can breathe air and water, you gain a swimming speed equal to your walking speed, and you learn the [Shape Water](https://www.dndbeyond.com/spells/2397-shape-water) cantrip. 
 
 #### Elven Ritual Magic
-Your innate connection to the weave of magic allows you to learn one spell from among the choices below. You always have this spell prepared, you may cast this spell as a ritual, even if it does not have the ritual tag, and this spell does not require material components when you cast it as a ritual. When you reach character level 3, you learn a second ritual from this trait. When you reach character level 5, your skill with ritual magic intensifies. Spells you cast with this trait do not require Concentration, have their duration tripled (if it is not Instantaneous), and can be cast with only a 1 minute ritual. Choose from these Rituals:
+Your innate connection to the weave of magic allows you to learn one spell from among the choices below. You always have this spell prepared, you may cast this spell as a ritual, even if it does not have the ritual tag, and this spell does not require material components when you cast it as a ritual. 
+
+***When you reach character level 3***, you learn a second ritual from this trait. 
+
+***When you reach character level 5***, your skill with ritual magic intensifies. Spells you cast with this trait do not require Concentration, have triple the normal duration (if it is not Instantaneous), and can be cast with only a 1 minute ritual. Choose from these Rituals:
 
 - _Ritual of Elmerca's Protection_: You learn [Mage Armor](https://www.dndbeyond.com/spells/2172-mage-armor).
 - _Ritual of Elmerca's Sight_: You learn [Detect Magic](https://www.dndbeyond.com/spells/2065-detect-magic).

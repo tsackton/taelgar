@@ -13,7 +13,7 @@ A simple answer if engaging with the lore of halflings is not of interest to yo
 
 ### Halfling Names
 
-Halflings have given names and family names, which are often derived from nicknames, professions, or family lore. Consider using one of the choices below, or looking at a [name list](https://www.dndbeyond.com/sources/dnd/xgte/character-names#Halfling) for inspiration, or invent your own.
+Halflings have given names and family names, which are often derived from nicknames, professions, or family lore. To choose a name for your Halfling character, you might consider using one of the choices below, looking at a [name list](https://www.dndbeyond.com/sources/dnd/xgte/character-names#Halfling) for inspiration, or you might invent your own.
 
 **Male Names:** Alton, Ander, Cade, Corrin, Eldon, Errich, Finnan, Garret, Lindal, Lyle, Merric, Milo, Osborn, Perrin, Reed, Roscoe, Wellby
 
@@ -25,14 +25,23 @@ Halflings have given names and family names, which are often derived from nickna
 ## Basic Traits
 
 **Creature Type:** Humanoid  
-**Size:** Small (about 2–4 feet tall)  
+**Size:** Small (about 2–4 feet tall) 
 **Speed:** 30 feet  
 **Age**: Halflings mature at the same rate as humans, and typically live to be around 100, although a rare few live substantially longer.   
-**Languages:** The frequent travels and ancestral memory of halflings exposes them to many  languages. You may select five languages during character creation. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Languages:** The frequent travels and ancestral memory of halflings exposes them to many  languages. You may select five languages during character creation, one of which should usually be Halfling. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Halfling Traits
 
 As a Halfling, you have these special traits.
+
+%% hafling design logic, taking the basic model of the PHB 2024 to be a species should consist of traits approximately the same value as (a) an origin feat, (b) a skill proficiency, and (c) a flavorful and situationally strong ability, but that species can vary a bit up or down from this for flavor
+
+Silent Speech is strong, but not that much stronger than the Message cantrip, probably equal to 1/2 an origin feat
+Luck is situationally strong but not that much better than 1/day Heroic Inspiration
+Memory of the Ancestors not that different from a skill proficiency, although hard to exactly value
+Halfling Talent is not quite 1/2 an origin feat, but as other features are on the strong side this seems fine. 
+%%
+
 #### Silent Speech
 You have Telepathy with a range of 120 feet. You must share a language to communicate with a creature in this way.
 #### Memory of the Ancestors

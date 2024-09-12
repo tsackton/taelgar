@@ -30,7 +30,7 @@ As a dwarf, you have the following special traits:
 ### Ruler
 Dwarves of the Ruler thuhr have a special connection to Uzdan, the Bahrazel said to be first king of the dwarves. This thuhr is among the least common in dwarven society; many of the dwarves in this thuhr end up in positions of leadership, whether clan heads or battle commanders.
 
-As a member of the Ruler thuhr, you know one of the following Runes: the [[Playing a Dwarf#Dwarven Rune Options#Rune of Truth|Rune of Truth]] or the Rune of Valor.
+As a member of the Ruler thuhr, you know one of the following Runes: the [[Campaigns/Mechanics/Species (Old)/Playing a Dwarf#Dwarven Rune Options#Rune of Truth|Rune of Truth]] or the Rune of Valor.
 ### Runecrafter
 Dwarves of the Runecrafter thuhr have a special connection to Karthel (he/him), the Bahrazel said to be the originator of runic magic. Many librarians, scribes, and researchers come from this thuhr; powerful rune-mages, although rare in dwarven society, are also almost always in the Runecrafter thuhr.
 
