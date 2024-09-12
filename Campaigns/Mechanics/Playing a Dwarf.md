@@ -2,7 +2,7 @@
 
 
 ---
-## Creating Dwarf Elf Character
+## Creating Dwarf Character
 
 
 
@@ -90,6 +90,6 @@ Describe or name a specific type of ore, gemstone, metal, native element, or nat
 **Casting Time:** 1 Action
 **Range:** Self
 **Components:** V, S, M
-**Duration:** 10 minutes
+**Duration:** 1 Hour
 
-One of your appendages becomes immune to fire damage. While this effect is active, you can use your Reaction when you take Fire damage to gain resistance to the triggering damage. 
+One of your appendages becomes immune to fire damage. While this effect is active, you can use your Reaction (trigger: when you take Fire damage) to gain resistance to Fire damage until the start of your next turn. The first time you hit with a melee attack on your next turn, the target takes an extra 1d6 Fire damage. When you use your Reaction in this way, the Flame Ward ends.
