@@ -83,7 +83,7 @@ The runic choices available to your dwarven character are listed here, in alphab
 - ***Armor of the Bahrazel:*** If you inscribe the Rune of Defense on a piece of clothing or armor, you have advantage on saving throws against poison and resistance to poison damage while wearing the inscribed item.
 - ***Rally (passive):*** As an action, the bearer of the rune can activate this effect to grant themselves 1d4+4 temporary hit points. These temporary hit points last for 1 hour. Once you activate this effect, you cannot do so again unti you complete a long rest.
 - ***Bahrazel's Protection (mastery, minimum level 3):*** You learn the *Protection from Good and Evil* spell. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of Delving (x)
+## Rune of Delving
 - ***Shape Water (passive):*** The bearer of this rune learns the *Shape Water* cantrip.
 - ***Deep Sight (passive):*** The bearer of this rune gains Darkvision with a range of 60 feet. If they already have Darkvision, the range of their Darkvision increases by 60 feet.
 - ***Finding (mastery, minimum level 5):*** You learn the *Locate Object* spell. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
@@ -91,7 +91,7 @@ The runic choices available to your dwarven character are listed here, in alphab
 - ***Comprehension (passive):*** When you inscribe an item with this rune, choose one language. As part of a ritual requiring 1 minute, the bearer can activate this rune. It remains active while the bearer maintains concentration, for up to 1 hour. While the rune is active, the bearer understands the literal meaning of spoken words in the language specified when the rune was inscribed.
 - ***Light (passive):*** The bearer of this rune learns the *Light* cantrip.
 - ***Calmness (mastery, minimum level 5):*** You learn the *Calm Emotions* spell. You can cast it once with this trait. Once you cast the spell this way, you cannot cast it again until you complete a long rest. You can also cast this spell with any spell slots you have.
-## Rune of the Forge (X)
+## Rune of the Forge
 - ***Control Flames (passive):*** The bearer of this rune learns the *Control Flames* cantrip.
 - ***Iron Hand (passive):*** The bearer of this rune can activate it as a bonus action. For the next hour, one of their arms becomes immune to fire damage, allowing them to grasp red-hot metal, scoop up molten glass, or reach into a roaring fire without damage. While this effect is active, if you take the dodge action, you have resistance to fire damage until the start of your next turn. This effect can be used a number of times equal to your Proficiency Bonus, after which it cannot be activated until the rune is inscribed again.
 - ***Resist Fire (mastery, minimum level 5):*** You learn the *Protection from Energy* spell. You can cast it once using this trait, targeting fire only. If you cast it this way and target yourself, this casting of this spell does not require concentration to maintain. You can also cast this spell using any spell slots you have.
