@@ -96,12 +96,12 @@ The following table lists the playable species of Taelgar, and includes informat
 
 **Bahrazel's Blessing.** Your innate connection to the Bahrazel provides you with a supernatural blessing. Choose one of the following options: 
 - *Tarbaka's Blessing of Craft.* You learn the Mending cantrip. In addition, you have an uncanny ability to understand raw materials and how to shape them. You gain proficiency in two Artisan's Tool of your choice. When you Craft items with your chosen Tools, you require only half the time and raw materials that would normally be required.
-- *Azar's Blessing of Strength.* Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level. 
+- *Azar's Blessing of Resilience.* Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level. 
 - *Oshkir's Blessing of Aid.* You learn the Guidance and Spare the Dying cantrips. 
 - *Karthel's Blessing of Shaping.* You learn two cantrips from among Elementalism, Shape Water, Mold Earth, Gust, Control Flames, Thaumaturgy, or Light.
 - *Maganna's Blessing of Communication.* You learn the Message cantrip. You also gain proficiency in 3 additional languages.
 - *Fanrukel's Blessing of Lore.* You learn the Identify spell. You can cast this spell at will, but only as a ritual. If you cast this spell as a ritual, it does not require material components. 
-- *Uzdan's Blessing of *
+- *Uzdan's Blessing of .* 
 
 
 - [[Uzdan]] (he/him), the Ruler, the patron of those who lead, whether armies or kingdoms, and worshipped as the first king of the dwarves
@@ -109,16 +109,36 @@ The following table lists the playable species of Taelgar, and includes informat
 
 **Dwarven Rune Crafting.** As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain an innate ability to use runes to create magical effects, drawing power from your connection to the Bahrâzel. When you complete a Long Rest, you can inscribe or create a number of tokens bearing a rune equal to half your Proficiency Modifier (rounded up). Each rune can be used once to create a magical effect, after which the rune fades. You may choose Intelligence, Wisdom, Charisma, or Constitution as your ability score for rune effects.
 
-- Rune of Defense: Protection from Good and Evil
-- Rune of Delving:
-- Rune of Exploration: Find Traps. When you cast this spell with this rune, you are able to detect the exact location of any traps detected by the spell.
+- Rune of Defense: Sanctuary
+- Rune of Exploration: Longstrider
 - Rune of Lore: Fanrukel's Insight*
 - Rune of Valor: Heroism
 - Rune of Stone: Locate Stone or Ore*
-- Rune of the Forge:
+- Rune of the Forge: Tarbaka's Flame Ward*
+- Rune of Life: Goodberry
 
-When the bearer of the rune makes a ability check that uses the Arcana, History, or Religion skills (or related Knowledge competencies), and rolls a 9 or lower on the d20, they can activate this rune to treat the number rolled as a 10. Once this effect is activated, it cannot be used until the rune is inscribed again. The number of uses increases to two at 5th level and three at 11th level.
+#### Fanrukel's Insight
+**Casting Time:** Reaction, which you take when you take the Study action and fail on the d20 Test
+**Range:** Self
+**Components:** V, S, M
+**Duration:** Instantaneous
 
+You can reroll the d20, adding your spellcasting modifier to the roll in addition to any normal modifiers that apply to the check. If you roll less than 10 on the new roll, treat the roll as a 10. 
+#### Locate Metal or Stone
+**Casting Time:** 1 Action
+**Range:** Self
+**Components:** V, S, M
+**Duration:** Instantaneous
+
+Describe or name a specific type of ore, gemstone, metal, native element, or natural stone. You learn the distance and direction of each instance of the named material within 1000 feet.
+
+#### Tarbaka's Flame Ward
+**Casting Time:** 1 Action
+**Range:** Self
+**Components:** V, S, M
+**Duration:** 10 minutes
+
+One of your appendages becomes immune to fire damage. While this effect is active, you can use your Reaction when you take Fire damage to gain resistance to the triggering damage. 
 
 ### Lizardfolk
 
@@ -133,6 +153,10 @@ As a Lizardfolk, you have these special traits.
 
 **Natural Armor:** You have tough, scaly skin. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you wear would leave you with a lower AC. A shield's benefits apply as normal while you use your natural armor.
 
-**Ancestral Aid:** You can reach your ancestors through the magic of the Tharzen Anzinakoa and beseech them for aid. You always have the Augury spell prepared. *When you reach character level 5*, you always have the Borrowed Knowledge spell prepared. You can cast each spell you gain with this trait once without expending a spell slot, and you regain the ability to cast it this way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
+**Omens of the Ancestors.** You can reach your ancestors through the magic of the Tharzen Anzinakoa and beseech them for aid. You always have the Augury spell prepared. You can cast each spell you gain with this trait once without expending a spell slot, and you regain the ability to cast it this way when you finish a Long Rest. You can also cast the spell using any spell slots you have of the appropriate level.
 
 **Prophetic Vision**: Your affinity for the dreamworld allows you to briefly see a moment ahead in time. If you fail a d20 Test, you can roll 1d4 and add the result to the d20, potentially changing a failure into a success. Once you use this feature, you may not use it again until you complete a short or long rest.
+
+modifications:
+- at level 3, get "ancestral aid" form that gives an ancestral form with a few choices, one of which is skill proficiency, one of which is prophetic vision, maybe one other? *When you reach character level 5*, you always have the Borrowed Knowledge spell prepared.
+- readjust prophetic vision into choices for each firstborn?
