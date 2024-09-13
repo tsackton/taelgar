@@ -1,12 +1,29 @@
 # Dwarf Species Details
 
+One of the [[Elder Folk]], [[dwarves]] make their homes beneath the mountains of Taelgar, carving great halls of stone and light beneath the earth, aided by their innate runic magic from their connection to their gods, the [[Bahrazel]]. Short, broad-shouldered, and often bearded, the first dwarves built majestic underground cities of light and splendor. While many dwarves still dwell in their ancestral mountain homes, they have spread around the world and are one of the more common of the Elder Folk seen in the realms of other species on Taelgar, as travelers, visitors, and long-term residents. 
+
+Dwarven culture and society are shaped by ties of kinship and clan, and by the mystical bonds of their thuhr, a uniquely dwarven combination of guild, secret society, and found family. Dwarves, no matter where they live, have a mystical connection to the Bahrazel, that deepens when they reach adulthood and complete the rite of name-taking, becoming part of a thuhr. There are seven thuhr, each associated with one of the Bahrazel: Ruler, Runecrafter, Priest, Farmer, Stoneworker, Traveler, and Warrior. The thuhr function as a combination of guild, mentorship organization, found family, and secret society, creating ties between clans.
 
 ---
-## Creating Dwarf Character
+## Creating a Dwarf Character
 
+To create your dwarf character, consider your relationship with your thuhr and the Bahrazel. Some dwarves have a deep and abiding connection to their thuhr, to the extent it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training, but faded in relevance later in life; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
 
+All dwarves also have a connection to the Bahrazel, as this is what grants you your rune magic trait, described below. The guiding principle of Dwarven religion is based around a set of obligations and debts to the divine, in exchange for power and favors. It is up to you how much you want to make this part of your character: while some dwarves feel a particular connection to one of the Bahrazel, many dwarves are not particularly religious. Even divine magic users may not be particularly devote in dwarven society; the Bahrazel work in mysterious ways, and may grant divine power for their own purposes to even the most unlikely dwarf. 
+
+Finally, you might want to consider your upbringing. Did you grow up in a traditional dwarven settlement, in or under the mountains, part of one of the major dwarven kingdoms of the world? Or did you grow up among humans, perhaps living in the dwarven quarter of some city? 
 
 ### Dwarf Names
+
+Dwarves typically have personal names, revealed to them when they make their pilgrimage to the Heart of the Mountain, and clan names which mark their familial associations. Young dwarves who have not made their pilgrimage yet (and are thus thuhr-less and nameless) typically go by diminutive nicknames given by their parents, which tend to be one syllable and are genderless in dwarven society. To choose a name for your Dwarven character, you might consider using one of the choices below, looking at a [name list](https://www.dndbeyond.com/sources/dnd/xgte/character-names#Dwarf) or a [generator](https://thecollaborativegamer.wordpress.com/people/tables-for-creating-fantasy-names/names-dwarves/) for inspiration, or you might invent your own.
+
+**Male Names:** Adrik, Baern, Brottor, Bruenor, Dain, Darrak, Delg, Eberk, Fargrim, Flint, Gardain, Harbek, Kildrak, Morgran, Orsik, Oskar, Rangrim, Rurik, Taklinn, Thoradin, Thorin, Tordek, Traubon, Travok, Ulfgar, Vondal 
+
+**Female Names:** Amber, Artin, Audhild, Bardryn, Dagnal, Diesa, Eldeth, Falkrunn, Finellen, Gunnloda, Gurdis, Helja, Hlin, Kathra, Kristryd, Ilde, Liftrasa, Mardred, Riswynn, Sannl, Torbera, Torgga, Vistra
+
+**Child Names:** Adi, Art, Bar, Brot, Dag, Del, Ein, Eld, Gunn, Kat, Kel, Mar, Osk, Ris, Rur, Tak, Tor, Tra, Ulf, Von, Vis
+
+**Clan Names:** Battlehammer, Boulderlock, Brawnanvil, Cragfire, Deepmine, Fireforge, Frostbeard, Goldborn, Hardcrown, Highkeep, Ironfist, Redbeard, Rockhammer, Sparkhorn, Stronghelm, Stoneaxe
 
 ---
 ## Basic Traits
@@ -30,10 +47,8 @@ Rune Crafting is slightly weaker than a choice of a 1st level spell, but benefit
 %%
 #### Darkvision
 You have Darkvision with a range of 120 feet.
-
 #### Stonecunning
 As a Bonus Action, you gain Tremorsense with a range of 60 feet for 10 minutes. You must be on a stone surface or touching such a surface to use this Tremorsense. The stone can be natural or worked. You can use this Bonus Action a number of times equal to your Proficiency Bonus, and you regain all expended uses when you finish a Long Rest.
-
 #### Thuhr
 As adult dwarf, you belong to one of seven thuhr: Ruler, Runecrafter, Priest, Warrior, Traveler, Stoneworker, Farmer. Your thuhr does not limit your choice of class or profession. Rather, it reflects your role and place in dwarven society. While your thuhr has no direct mechanical effects, if you wish to represent a typical life experience for a dwarf of your thuhr, you may select a special Background representing each thuhr.
 
@@ -46,42 +61,52 @@ Your innate connection to the Bahrazel provides you with a supernatural blessing
 - *Azar's Blessing of Resilience.* Your Hit Point maximum increases by 1, and it increases by 1 again whenever you gain a level. %% literally 1/2 of Tough feat, should be fine %%
 - *Oshkir's Blessing of Aid.* You learn the Guidance and Spare the Dying cantrips. %% one great cantrip, one very situational cantrip %%
 - *Karthel's Blessing of Shaping.* You learn two cantrips from among Elementalism, Shape Water, Mold Earth, Gust, Control Flames, Thaumaturgy, or Light. %% two cantrips %%
-- *Maganna's Blessing of Communication.* You learn the Message cantrip. You also gain proficiency in one additional languages, and whenever you finish a Long Rest, you can pray to Maganna allowing you to exchange this language proficiency for another language. %% cantrip + language ability. feel like a swappable on long rest language is potentially more interesting/flavorful than just 3 proficiencies, although I could go either way %%
+- *Maganna's Blessing of Communication.* You learn the Message cantrip. You also gain proficiency in one additional language, and whenever you finish a Long Rest, you can pray to Maganna allowing you to exchange this language proficiency for another language. %% cantrip + language ability. feel like a swappable on long rest language is potentially more interesting/flavorful than just 3 proficiencies, although I could go either way %%
 - *Fanrukel's Blessing of Lore.* You learn the Identify spell. You can cast this spell at will, but only as a ritual. If you cast this spell as a ritual, it does not require material components. %% 1st level spell, fairly straightforward %%
 - *Uzdan's Blessing of Leadership.* When you finish a Long Rest, you can inspire your allies with a rousing speech, granting Heroic Inspiration to a number of your companions equal to your Proficiency Bonus. %% a worse version of Musician, probably balanced but not sure how I feel about just duplicating existing feats (although I guess you just wouldn't take this option if you were planning on taking Musician). alternative ideas: grant temp hp equal to PB to all allies after short or long rest (maybe too weak? also just a worse form of Inspiring Leader so same problem);%%
 
-**Dwarven Rune Crafting.** As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain an innate ability to use runes to create magical effects, drawing power from your connection to the Bahrâzel. When you complete a Long Rest, you can inscribe or create a number of tokens bearing a rune equal to half your Proficiency Modifier (rounded up). Each rune can be used once to create a magical effect, after which the rune fades. You may choose Intelligence, Wisdom, Charisma, or Constitution as your ability score for rune effects.
+**Dwarven Rune Crafting.** As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain an innate knowledge of one rune from the list below, which can create a magical effect. When you complete a Long Rest, you can inscribe one item with the rune, which can be used once, after which the rune fades. You can inscribe two items at 5th level, three items at 11th level, and four items at 17th level. You may choose Intelligence, Wisdom, Charisma, or Constitution as your ability score for rune effects.
 
 - Rune of Defense: Sanctuary
 - Rune of Delving: Create or Destroy Water
 - Rune of Exploration: Longstrider
 - Rune of Lore: Fanrukel's Insight*
-- Rune of Valor: Heroism (when cast from this rune, this spell does not require Concentration)
-- Rune of Stone: Locate Stone or Ore*
+- Rune of Valor: Azar's Bravery*
+- Rune of Stone: Locate Stone or Metal*
 - Rune of the Forge: Tarbaka's Flame Ward*
 - Rune of Life: Goodberry
+- Rune of Truth: Uzdan's Compelled Truth*
 
 %% general thoughts / concerns
 - Sanctuary, Longstrider, and Heroism seem fine: flavorful, not overly strong but remain useful at all levels. Not sure about removing Concentration from Heroism. Could instead make a custom Heroism that adds temp hp and gives advantage on frightened instead of immune to frightened.
 - Goodberry might be too strong early and too weak late, as multiple castings have strongly diminishing value. I kind of like the flavor though since it creates a mechanism for deep exploration and for limited food production capabilities of underground cities. 
 - Create or Destroy Water might be too situational, although also is kind of useful from a worldbuilding perspective to allow easy underground exploration as long as you have one Rune of Delving dwarf and one Rune of Life dwarf
 - Fanrukel's Insight feels a little weak, even with the buffs (below), but fits a very different niche so is probably fine
-- Locate Stone or Ore is probably fine, although potentially annoying to DM for. Debated the "significant" limit but being able to detect every coin within 1000 feet is either useless (in a city) or overpowered (in a  humanoid dungeon where inhabitants carry coins)
+- Locate Stone or Ore is probably fine, although potentially annoying to DM for. Debated the "significant" limit but being able to detect every coin within 1000 feet is either useless (in a city) or overpowered (in a humanoid dungeon where inhabitants carry coins)
 - Tarbaka's Flame Ward is IMO significantly worse than just "fire resistance" even with the ability to share it. Hard to tell if too weak or two strong. Could be rebalanced by (a) increasing duration to 1 hour and requiring you to use your Bonus Action in advance to gain Fire Resistance until the end of your next turn, or (b) allowing Reaction to grant resistance not just to triggering damage but all fire damage until start of your next turn, or (c) treating it like Evasion but specifically for spells that do fire damage (probably too situational). 
 
-As far as number - eight seems enough but this leaves out from the old dwarf Truth and Aid. In part because I couldn't think of obvious options for those. Truth could I guess use a debuffed Zone of Truth but not sure what that would be (save once, if succeed immune to spell? single target only?). The Aid spell is too strong for Aid,  and didn't have any other obvious ideas. 
+As far as number - eight seems enough but this leaves out from the old dwarf Truth and Aid. In part because I couldn't think of obvious options for those. Truth could I guess use a debuffed Zone of Truth but not sure what that would be (save once, if succeed immune to spell? single target only?). The Aid spell is too strong for Aid, and didn't have any other obvious ideas. 
 %%
+
+## Azar's Bravery
+**Casting Time:** 1 Action
+**Range:** Self
+**Components:** V
+**Duration:** 10 minutes
+
+Until the spell ends, you have Advantage on saving throws to end or avoid the Frightened condition, and gain Temporary Hit Points equal to your spell casting modifier at the start of each of your turns. 
+
 #### Fanrukel's Insight
 **Casting Time:** Reaction, which you take when you take the Study action and fail on the d20 Test
 **Range:** Self
-**Components:** V, S, M
+**Components:** V
 **Duration:** Instantaneous
 
 You can reroll the d20, adding your spellcasting modifier to the roll in addition to any normal modifiers that apply to the check. If you roll less than 10 on the new roll, treat the roll as a 10. 
 #### Locate Metal or Stone
 **Casting Time:** 1 Action
 **Range:** Self
-**Components:** V, S, M
+**Components:** V
 **Duration:** Instantaneous
 
 Describe or name a specific type of ore, gemstone, metal, native element, or natural stone. You learn the distance and direction of the most significant instance of the named material within 1000 feet.
@@ -89,7 +114,15 @@ Describe or name a specific type of ore, gemstone, metal, native element, or nat
 #### Tarbaka's Flame Ward
 **Casting Time:** 1 Action
 **Range:** Self
-**Components:** V, S, M
+**Components:** V
 **Duration:** 1 Hour
 
 One of your appendages becomes immune to fire damage. While this effect is active, you can use your Reaction (trigger: when you take Fire damage) to gain resistance to Fire damage until the start of your next turn. The first time you hit with a melee attack on your next turn, the target takes an extra 1d6 Fire damage. When you use your Reaction in this way, the Flame Ward ends.
+
+#### Uzdan's Compelled Truth
+**Casting Time:** 1 Action
+**Range:** 15 feet
+**Components:** V
+**Duration:** 1 Minute
+
+Choose one creature you can see within range. The target must make a Charisma saving throw. On a failed save, the creature cannot tell a deliberate lie while the spell is active. You know whether a creature succeeds or fails on this save. An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
