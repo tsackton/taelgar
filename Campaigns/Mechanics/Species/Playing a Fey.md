@@ -1,3 +1,33 @@
+Currently very much notes, and thinking about how to organize. 
+
+Lore-wise, I think fey are mostly just fey. Certainly the beastfolk, the fae, and the fairies are not seen as truly different things in the Feywild. Possibly changelings and satyrs might deserve different consideration, or maybe fairies? 
+
+All fey species should share at least:
+Creature Type: Fey
+Languages: 4 + Sylvan
+
+Probably they all should have Darkvision given the Feywild's weird light patterns?
+Probably all could have fey ancestry (advantage against charm)
+
+A number of species could be used here:
+https://www.dndbeyond.com/species/1026382-changeling
+https://www.dndbeyond.com/species/814913-fairy
+https://www.dndbeyond.com/species/1026399-satyr
+
+https://www.dndbeyond.com/species/1026393-hobgoblin
+https://www.dndbeyond.com/species/1026386-eladrin
+
+https://www.dndbeyond.com/species/1026403-tabaxi
+https://www.dndbeyond.com/species/814914-harengon
+https://www.dndbeyond.com/species/1026404-tortle
+https://www.dndbeyond.com/species/883673-owlin
+https://www.dndbeyond.com/species/410992-leonin
+https://www.dndbeyond.com/species/67607-loxodon
+
+Honestly probably won't homebrew these unless someone wants to play them.
+
+
+%% old notes below %%
 Fey in Taelgar are natives of the Feywild, a realm of whimsy and terror, magic and mystery. The fey are a diverse folk who come in many forms. They can be mischievous, thriving on a clever trick, and even malevolent, seeking to profit from misery and finding pleasure in the suffering of others. They can also be noble, thriving on the majesty of creation and taking joy from the vast beauty of their home. Many fey are many things at once. 
 
 To create your fey character, first consider what kind of fey you wish to play. Then, consider why you are in Taelgar. Were you born here, perhaps to traveling parents? Did you leave your Feywild home due to danger, or curiosity, or on a quest? If you have a homeland in the Feywild, consider whether this is an important part of your character's story. If so, work with your DM to figure out a Fey realm that you came from. However, these details do not need to matter if you don't wish them to. 
@@ -27,9 +57,6 @@ No matter which traits you choose to use to represent your Fey character, all Fe
 
 **Lifespan:** While Fey age, they do not age as regular mortals. Fey suffer no ill effects of old age, and do not change in appearance as they age, unless they wish to. Most fey live to be between 100 and 200 years before fading away, although some fey have been known to live much longer. 
 
-%%^Campaign:DuFr%%
 # Languages
 
 When you create your character, you may choose two [[languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Sylvan. 
-
-%%^End%%

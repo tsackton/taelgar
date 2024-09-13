@@ -1,11 +1,13 @@
 # Halfling Species Details
 
+*[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1755936-halfling)*
+
 The whistle of the wind in the sails, on a ship crashing through the waves far from land. The clink of coin changing hands at the market. The crackle of the campfire and the smell of bacon and tomatoes sizzling after a long day of walking. The creak of a wagon lumbering to the next village, with a cheery tune emanating from within. [Halflings](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252ftsackton.github.io%252ftaelgarverse%252fspecies%252fchildren-of-the-embodied-gods%252fhalflings%252fhalflings%252f) love these things. A nomadic people who rarely settle in one place for long, halflings come and go with the rhythm of the seasons, making money, friends, or both along the way.
 
 The most numerous of the Elder Folk, halflings are wanderers and travelers, merchants and sailors, storytellers and poets. Though many halflings are nomadic, and rarely settle in one place for long, they are deeply connected to each other by a unique ancestral consciousness mediated by their gods, the [First Ones](https://www.dndbeyond.com/linkout?remoteUrl=https%253a%252f%252ftsackton.github.io%252ftaelgarverse%252fcosmology%252fgods%252fembodied-gods%252ffirst-ones%252ffirst-ones%252f), which allows them to communicate telepathically and remember fragments of their ancestors' knowledge and lives. Halflings, while not as numerous as humans, are frequent sights across the realms of many species of Taelgar. Cheerful and friendly with outsiders, but private and protective of their kin and traditions, halfling traders, wanderers, and storytellers keep the world connected. 
 
 ---
-## Creating an Halfling Character
+## Creating Your Halfling Character
 
 When you create your halfling character, you might want to consider how your past influenced your character. Many halflings are wanderers, with no fixed home, traveling in caravans, or ships, often in family groups. Sometimes these might follow regular or semi-regular paths, although others wander where whims take them. Other halflings settle, usually among other species, and often in crossroads or places where many travelers and stories cross their paths. Halflings also usually have close ties to their kin and family, especially as many halflings effectively work in the family business running a trading ship or a merchant caravan. When you create your halfling character, you might want to think about your family and what they do. Did you come from a traveling family, merchants or sailors? How did your travels impact your choices to become an adventurer? Or, are your origins from a settled community? 
 
