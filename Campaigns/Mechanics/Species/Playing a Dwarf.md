@@ -5,7 +5,7 @@ One of the [[Elder Folk]], [[dwarves]] make their homes beneath the mountains of
 Dwarven culture and society are shaped by ties of kinship and clan, and by the mystical bonds of their thuhr, a uniquely dwarven combination of guild, secret society, and found family. Dwarves, no matter where they live, have a mystical connection to the Bahrazel, that deepens when they reach adulthood and complete the rite of name-taking, becoming part of a thuhr. There are seven thuhr, each associated with one of the Bahrazel: Ruler, Runecrafter, Priest, Farmer, Stoneworker, Traveler, and Warrior. The thuhr function as a combination of guild, mentorship organization, found family, and secret society, creating ties between clans.
 
 ---
-## Creating a Dwarf Character
+## Creating Your Dwarf Character
 
 To create your dwarf character, consider your relationship with your thuhr and the Bahrazel. Some dwarves have a deep and abiding connection to their thuhr, to the extent it may replace the bonds of clan and family; for others, their thuhr may have opened doors to apprenticeships or training, but faded in relevance later in life; for yet others, it may be simply part of the background noise of their lives. You are free to decide how significant or insignificant your thuhr is as you roleplay your character. 
 

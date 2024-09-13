@@ -1,18 +1,21 @@
 # Stoneborn Species Details
 
 
+The [[Stoneborn]] in Taelgar are a reclusive species. They tend to live in isolated communities in extreme environments, especially high in the mountains, although they are not unheard of in human and dwarven settlements. They are also noted in the world of Taelgar as master artisans, skilled in many trades. It is not uncommon for individual [[Stoneborn]] to spend decades, or even a century, honing their craft. 
+
 ---
-## Creating Stoneborn Character
+## Creating Your Stoneborn Character
 
 
 
+To make a [[Stoneborn]] adventurer, consider why you left your community. Perhaps you are a rare member of your species born among other sentient beings, in a human city, or among dwarves, or even elves. Maybe you left your home on a personal mission, or on a mission for your clan. Maybe a tragedy -- or a personal mistake -- forced you to leave. 
 ### Stoneborn Names
 
 ---
 ## Basic Traits
 
 **Creature Type**: 
-**Size**: 
+**Size**: Stoneborn are between 7 and 8 feet tall and weigh between 280 and 450 pounds. Your size is Medium.
 **Speed**: 
 **Age**: 
 **Languages**: 
@@ -38,3 +41,8 @@ As a Stoneborn, you can use your connection to Entamba to perform feats of stren
 - Entamba's Protection: When you take damage, you can take a Reaction to roll 1d12. Add your Constitution modifier to the number rolled and reduce the damage by that total. You can use this Reaction a number of times equal to your Proficiency Bonus, and regain all uses when you finish a Long Rest. 
 
 %% maybe could use one more option? %%
+
+
+%% old option from previous iteration:
+- _Entamba's Dance (Sandborn only):_ You learn to mimic the shifting sands and blowing winds of your desert home. Your base movement speed increases to 35 feet. In addition, when a creature targets you with an attack, you can use your reaction to force that creature's attacks against you to be rolled with disadvantage until the start of your next turn. Once you use this ability, you cannot use it again until after you finish a short or a long rest.
+%%
