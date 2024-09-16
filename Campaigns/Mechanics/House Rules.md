@@ -13,5 +13,6 @@
 >[!info]+ D&D Beyond
 > When you make your character in D&D Beyond, follow these guidelines:
 > 1. On the Home screen, select Homebrew and Expanded Rules in Sources. 
-> 2. On the species page, if your chosen species is listed as "Homebrew" in the species table, Filter Species Source(s) to Homebrew. The current versions of species should be named simply Elf, Dwarf, etc instead of Elf (Taelgar) or Dwarf (Taelgar)
+> 2. On the species page, if your chosen species is listed as "Homebrew" in the species table, Filter Species Source(s) to Homebrew. The current versions of species should be named simply Elf, Dwarf, etc, but use the Homebrew versions. 
+> 3. Do not select Languages in the character builder. Instead, add your chosen languages (and optionally bonus Tool Proficiency) to your character sheet directly once your character is created.
 

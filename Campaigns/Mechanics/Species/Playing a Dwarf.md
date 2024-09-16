@@ -63,15 +63,13 @@ Your innate connection to the Bahrazel provides you with a supernatural blessing
 - *Karthel's Blessing of Shaping.* You learn two cantrips from among Elementalism, Shape Water, Mold Earth, Gust, Control Flames, Thaumaturgy, or Light. %% two cantrips %%
 - *Maganna's Blessing of Communication.* You learn the Message cantrip. You also gain proficiency in one additional language, and whenever you finish a Long Rest, you can pray to Maganna allowing you to exchange this language proficiency for another language. %% cantrip + language ability. feel like a swappable on long rest language is potentially more interesting/flavorful than just 3 proficiencies, although I could go either way %%
 - *Fanrukel's Blessing of Lore.* You learn the Identify spell. You can cast this spell at will, but only as a ritual. If you cast this spell as a ritual, it does not require material components. %% 1st level spell, fairly straightforward %%
-- *Uzdan's Blessing of Leadership.* When you finish a Long Rest, you can inspire your allies with a rousing speech, granting Heroic Inspiration to a number of your companions equal to your Proficiency Bonus. %% a worse version of Musician, probably balanced but not sure how I feel about just duplicating existing feats (although I guess you just wouldn't take this option if you were planning on taking Musician). alternative ideas: grant temp hp equal to PB to all allies after short or long rest (maybe too weak? also just a worse form of Inspiring Leader so same problem);%%
+- *Uzdan's Blessing of Leadership.* When you finish a Long Rest, you can inspire bravery in yourself and your allies. Choose a number of creatures up to your Proficiency Bonus. Each target gains a number of Temporary Hit Points equal to twice your Proficiency Bonus. While a character has these Temporary Hit Points, they are immune to the Frightened condition. %% temp hp but a unique rider. does still conflict with other sources of temp hp... %%
 
-**Dwarven Rune Crafting.** As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain an innate knowledge of one rune from the list below, which can create a magical effect. When you complete a Long Rest, you can inscribe one item with the rune, which can be used once, after which the rune fades. You can inscribe two items at 5th level, three items at 11th level, and four items at 17th level. You may choose Intelligence, Wisdom, Charisma, or Constitution as your ability score for rune effects.
+**Dwarven Rune Crafting.** As an adult dwarf who has completed your pilgrimage to the Heart of the Mountain, you gain an innate knowledge of one rune from the list below, which can create a magical effect. When you complete a Long Rest, you can inscribe one item with the rune, which can be used once, after which the rune fades. You can have up to two items inscribed at 5th level, three items at 11th level, and four items at 17th level. You may choose Intelligence, Wisdom, Charisma, or Constitution as your ability score for rune effects.
 
 - Rune of Defense: Sanctuary
-- Rune of Delving: Create or Destroy Water
 - Rune of Exploration: Longstrider
 - Rune of Lore: Fanrukel's Insight*
-- Rune of Valor: Azar's Bravery*
 - Rune of Stone: Locate Stone or Metal*
 - Rune of the Forge: Tarbaka's Flame Ward*
 - Rune of Life: Goodberry
@@ -88,41 +86,31 @@ Your innate connection to the Bahrazel provides you with a supernatural blessing
 As far as number - eight seems enough but this leaves out from the old dwarf Truth and Aid. In part because I couldn't think of obvious options for those. Truth could I guess use a debuffed Zone of Truth but not sure what that would be (save once, if succeed immune to spell? single target only?). The Aid spell is too strong for Aid, and didn't have any other obvious ideas. 
 %%
 
-## Azar's Bravery
-**Casting Time:** 1 Action
-**Range:** Self
-**Components:** V
-**Duration:** 10 minutes
-
-Until the spell ends, you have Advantage on saving throws to end or avoid the Frightened condition, and gain Temporary Hit Points equal to your spell casting modifier at the start of each of your turns. 
-
 #### Fanrukel's Insight
 **Casting Time:** Reaction, which you take when you take the Study action and fail on the d20 Test
-**Range:** Self
-**Components:** V
 **Duration:** Instantaneous
 
-You can reroll the d20, adding your spellcasting modifier to the roll in addition to any normal modifiers that apply to the check. If you roll less than 10 on the new roll, treat the roll as a 10. 
-#### Locate Metal or Stone
+You can reroll the d20, adding your spell casting modifier to the roll in addition to any normal modifiers that apply to the check. If you roll less than 10 on the new roll, treat the roll as a 10. 
+#### Stone Sense
 **Casting Time:** 1 Action
-**Range:** Self
-**Components:** V
 **Duration:** Instantaneous
 
-Describe or name a specific type of ore, gemstone, metal, native element, or natural stone. You learn the distance and direction of the most significant instance of the named material within 1000 feet.
+You extend your senses and gain knowledge of the surrounding area, extending to a range of 1000 feet from you in all directions. Choose two of the following facts; you learn those pieces of information for the area.
 
+- The locations of any significant deposits of unworked metal ore, unmined gemstones, or unquarried valuable stone.
+- Name a specific type of gemstone, metal, native element, or natural stone. You learn the location of the most significant stationary deposit of the named material. You can select this option twice.
+- The most prevalent kind of mineral and/or stone in the area.
+- Whether any tunnels, burrows, or other significant underground excavation is present in the area.
+
+You can alternatively replace one or both of your questions with information of similar scope, at the DM's discretion.
 #### Tarbaka's Flame Ward
 **Casting Time:** 1 Action
-**Range:** Self
-**Components:** V
 **Duration:** 1 Hour
 
 One of your appendages becomes immune to fire damage. While this effect is active, you can use your Reaction (trigger: when you take Fire damage) to gain resistance to Fire damage until the start of your next turn. The first time you hit with a melee attack on your next turn, the target takes an extra 1d6 Fire damage. When you use your Reaction in this way, the Flame Ward ends.
 
 #### Uzdan's Compelled Truth
 **Casting Time:** 1 Action
-**Range:** 15 feet
-**Components:** V
-**Duration:** 1 Minute
+**Duration:** 10 Minute
 
-Choose one creature you can see within range. The target must make a Charisma saving throw. On a failed save, the creature cannot tell a deliberate lie while the spell is active. You know whether a creature succeeds or fails on this save. An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
+Choose one creature you can see within 15 feet. The target must make a Charisma saving throw. On a failed save, you know if the target speaks a deliberate lie while the spell is active. You know whether a creature succeeds or fails on this save. An affected creature is aware of the spell and can avoid answering questions to which it would normally respond with a lie. Such a creature can be evasive yet must be truthful.
