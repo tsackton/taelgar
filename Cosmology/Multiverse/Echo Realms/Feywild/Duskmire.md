@@ -23,6 +23,16 @@ Lord Umbraeth enjoys sport, and especially cruel sport where the game is rigged 
 
 Lord Umbraeth was not always the lord of a fey realm. Thousands of years ago he was a powerful courtier in the court of Ethlenn, where he was held in some respect, even if he was not loved. 
 
+%%
+Canon from Addermarch campaign:
+
+There are warning stones in the west of Addermarch, that pre-date Drankorian arrival to the area, written in a strange language with unusual letters - presumably mariner alphabet and possibly Tyrwinghan or Old Tollish. 
+
+These warning stones warn against Lord Umbraeth and against fey incursions, and ward places where the material plane is easy to access from the Feywild. 
+
+Their existence suggests that Duskmire likely existed prior to the arrival of the Drankorians in the DR 300s, perhaps dating to the first generations after the Downfall, around 100 DR.
+%%
+
 %% Not 100% canonical ...
 
 One of the rules of Twilight's Grace is that fey lords are not allowed to torment humans of Tyrwinghan, there is a degree to which they are under the protection of Ethlenn. 
