@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/mike]
+tags: [place, status/tim]
 name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
@@ -11,7 +11,7 @@ alias: [Addermarian]
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% tagged status/mike for feedback but largely complete IMO %%
+%% Added a few comments: FROM MIKE below %%
 
 Nestled in the [[Mostreve Hills]] southwest of [[Tyrwingha]], east of the [[Duchy of Maseau]], south of the [[Borderlands|Sembaran Borderlands]], and north of the haunted [[Darkwood]] lies the ancient hill kingdom of Addermarch. This is a land of rolling hills, swift rivers, and dense forests; a rugged land of independent folk fiercely proud of their long history and ancient traditions. 
 
@@ -28,7 +28,12 @@ Leaving in for now that Addermarch earls acknowledged [[Derik I]] as their overk
 
 Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [[Sembara]], but also a significant producer of timber and wool. Enjoying favorable tariffs for its goods in exchange for its role in protecting Sembara’s southern borders, Addermarch is a close ally of Sembara.
 
-%% Not sure about the last sentence, might not fit the vibe. Although it probably should be a close ally of Sembaran post hobgoblin wars %%
+%% Not sure about the last sentence, might not fit the vibe. Although it probably should be a close ally of Sembaran post hobgoblin wars 
+
+FROM MIKE: I think the vibe doesn't quite work for the last sentence. Sembara has a borderlands region, and I think if anything since the hobgoblin wars - where Addermarch fought with sembara but also felt abandoned perhaps - the vibe could be a bit cooler. Maybe something like:
+
+Addermarch has friendly relationships with the three human kingdoms on its borders: Tyrwingha, Sembara, and Maseau. Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
+%%
 
 ## Geography 
 
