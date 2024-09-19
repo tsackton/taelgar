@@ -12,4 +12,6 @@ whereabouts: Duchy of Maseau
 
 The largest city in the [[Duchy of Maseau]] and the seat of the Duke. 
 
+%% Nothing canonical; probably needs details made up before being used %%
+
 

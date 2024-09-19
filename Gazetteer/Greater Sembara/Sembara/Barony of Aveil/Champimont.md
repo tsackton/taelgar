@@ -16,7 +16,7 @@ pronunciation: Sham-PEE-mohn
 
 ![[champimont.png|right|400]]Champimont is the largest town between [[Cleenseau]] and [[Rinburg]] and is known for its grand inn, [[The Elegant Swan]]. It is a common stopping point for travelers along the road, and has several smaller inns and caravan yards.  There is also a large market once a month that draws people from as far away as [[Eftly]] and [[Dallet]] and an array of blacksmiths, carpenters, and other artisans. It set on a bluff above the river, and has neither a ferry nor a bridge. The land on the south bank of the river here is mostly uninhabited, and is a land of rocky soil, scattered forests, and small rocky hills. On the north bank, around Champimont, is farmland and a lot of pasture for sheep. 
 
-The current lord of the Manor of Champimont is Raoul Montagu.
+The current lord of the Manor of Champimont is [[Raoul Montagu]].
 
 _Distances:_
 * to [[Rinburg]], 27 miles
