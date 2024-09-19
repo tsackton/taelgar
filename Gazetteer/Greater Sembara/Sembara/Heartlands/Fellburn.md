@@ -36,4 +36,4 @@ so I was thinking it is indestructable and couldn't be sacked by the hobgoblins,
 
 %%
 
-![[oracle-of-hope.png]]
+![[oracle-of-hope.jpg]]
