@@ -3,7 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Semb
 displayDefaults: {defArt: "the"}
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Heartlands
 aliases: [River Semb]
 ---

@@ -3,7 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: "the"}
 name: Teft
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Sembara
 ---
 # Teft

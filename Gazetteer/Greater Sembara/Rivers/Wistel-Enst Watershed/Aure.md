@@ -3,7 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: the}
 name: Aure
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Addermarch
 aliases: [River Aure, Aure River]
 ---
