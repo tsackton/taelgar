@@ -15,3 +15,5 @@ pronunciation: Pay-dun
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A small village along the [[Auberonne]] in [[Barony of Aveil]], it is about 15 miles north of [[Rinburg]] over the fields, and 25 miles by road. 
+
+%% Note: It was controlled by a hag for a period in early 1720; some notes in [[Gareth's Story]] %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/external]
 typeOf: settlement
 created: 1121
 typeOfAlias: fortified village
@@ -17,3 +17,5 @@ pronunciation: Vel-tor
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Veltor is an ancient fortified village at the base of the [[Aveil Ridge]], sitting astride the [[Auberonne]]. It is the seat of the Baron of Aveil.
+
+%% Need to incorporate notes from most recent game %%

@@ -12,5 +12,5 @@ typeOfAlias: trading spot
 
 %%
 Rocky Ford, movable town springs up around the ford
-All info about this is hinted at in 
+All info about this is hinted at in some old docs around the Ausson's Crossing game
 %%

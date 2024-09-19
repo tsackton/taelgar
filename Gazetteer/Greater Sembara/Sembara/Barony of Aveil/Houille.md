@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: village
@@ -10,4 +10,6 @@ typeOfAlias: village
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% a small village along the Auberonne %%
+A small village along the [[Auberonne]], north of [[Aslain]].
+
+%% This exists only to give a location for a minor NPC, [[Piers of Houille]], to have been from. Nothing exists about it otherwise %%
