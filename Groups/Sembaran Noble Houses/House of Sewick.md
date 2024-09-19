@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization]
 displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <subtypeof:UA>"}
 campaignInfo: []
 name: House of Sewick

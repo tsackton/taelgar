@@ -1,9 +1,9 @@
 ---
-tags: [status/unknown, timeline]
+tags: [status/tim, timeline]
 timelineDescriptor: Mawar History
 ---
 # The Chronicles of the Mawar
-
+%% Tim: I think this is mostly fine and good enough to call done for now until someone sees a need to tweak or expand it %%
 
 ### Overview
 After the fall of [[Drankorian Empire|Drankor]], the Mawar became a significant coastal and trading power, and Mawar ships could be seen plying coastal trade routes as far south as [[Chardon]] and as far north as the far northern shores of beyond the Great Bay.
