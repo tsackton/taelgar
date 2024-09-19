@@ -95,7 +95,8 @@ When peace finally comes with the defeat of the [[Shattered Ice Clan]] in DR 165
 
 In these golden years last until DR 1720, when the [[Undead Attacks in Sembara]] break out. While Addermarch is not heavily affected by undead itself, the [[Enst]] valley suffers a great deal, and once again the people of Addermarch refortify. In the modern day, Addermarch remains watchful. The generation that came of age during the zombie attacks, now the earls and knights of the realm, have not forgotten.
 
-%% this is a little undeveloped and needs input on current events from Taelgar 1720, plus recent Sembaran history which is currently non-existent. however, basic vibe is that 1650-1720 was a period of rapid growth, economic development, and a time when resources went to roads and cities not castles and forts. since the zombie attacks, things are a bit more balanced and people don't forget, so current day is not exactly the "golden age" vibe but also not the "isolated guerilla warriors of the 1600-1650" period. %%
+%% this is a little undeveloped and needs input on current events from Taelgar 1720, plus recent Sembaran history which is currently non-existent. however, basic vibe is that 1650-1720 was a period of rapid growth, economic development, and a time when resources went to roads and cities not castles and forts. since the zombie attacks, things are a bit more balanced and people don't forget, so current day is not exactly the "golden age" vibe but also not the "isolated guerilla warriors of the 1600-1650" period. 
+%%
 
 ## Places
 
@@ -131,11 +132,14 @@ The popular of Addermarch is very rural. There is only one significant city, [[A
 
 %% ALL very much in draft form %%
 
-Addermarch is a feudal oligarchy, with power centralized in the hands of the Earl's Court, composed of the five hereditary earls of Addermarch, whose claim to power traces back to ancient days. The Earl's Court has, in times of danger, elected one of their own, or even an outside, as the commander in chief of the army, and over time this role has been formalized into the High Lord of Addermarch, who serves as a kind of overking, and is allowed to style themselves Defender of the Realm. 
+Addermarch is a feudal oligarchy, with power centralized in the hands of the Earl's Court, composed of the five hereditary earls of Addermarch, whose claim to power traces back to ancient days. The Earl's Court has, in times of danger, elected one of their own, or even an outsider, as the commander in chief of the army, and over time this role has been formalized into the High Lord of Addermarch, who serves as a kind of overking, and is allowed to style themselves Defender of the Realm. 
 
 Each earl functions as the monarch of a circuit, defined by the villages and towns in their demesne. Within this circuit, the Earl is responsible for administering justice and providing for the defense of their territory, and has the right to tax the labor of the land to provide for its upkeep. However, generally speaking there is no manorial feudalism in Addermarch. Instead, an Earl would typically appoint a knight of their court to serve as the lord of a particular castle or manor. However, there is no expectation that this title is inherited, and although there are often significant land holdings which provide rents for castle upkeep, the knights and castellans have no vassalage relationship with the commoners.
 
-%% the vibe I'm aiming for is a bit of feudalism but with less hierarchy and kind of looser than Sembara. You don't have layers of vassals and lords, basically there are just earls and knights, with the knights perhaps divided into hereditary knighthoods, which must be confirmed by the full Earl's Court, and temporary ones, granted by a particular Earl. Perhaps the hereditary knights also serve as something like a House of Lords within each Earldom, or at least are required to confirm the Earl - so Earls are not absolute monarchs. But these details don't really matter that much for now.%%
+%% the vibe I'm aiming for is a bit of feudalism but with less hierarchy and kind of looser than Sembara. You don't have layers of vassals and lords, basically there are just earls and knights, with the knights perhaps divided into hereditary knighthoods, which must be confirmed by the full Earl's Court, and temporary ones, granted by a particular Earl. Perhaps the hereditary knights also serve as something like a House of Lords within each Earldom, or at least are required to confirm the Earl - so Earls are not absolute monarchs. But these details don't really matter that much for now.
+
+From Mike: I like the vibe; perhaps not every village necessarily has a manor? Especially the more interior places there might be a stronger tradition of the commons/common land and places where there is no particular manor. Some knights, I think should be, like earls, itinerant, but I like the vibe of a set of hereditary titles that form the basis for a House of Lords type institution. In Sembara the monarch is ultimately accountable to the dukes and major barons; in Tyrwingha the monarch is elected by the fey oracle; having a robust (100-200) body of knights who form an electoral basis for the earls feels like a nice contrast but also isn't too different 
+%%
 
 The five Earls of Addermarch are known as:
 - The Earl of Adderfell, who, unlike other Earls, is the lord of the city of Adderfell (but includes some outlying villages in their demesne) 
@@ -146,7 +150,9 @@ The five Earls of Addermarch are known as:
  
 Note these circuits are not strict lines on a map and often overlap, but each village is part of the domain of a single earl.
 
-%% Not sure about the titles, e.g. Earl of Adderfell works but Earl of the Southern Reaches might be too long%%
+%% Not sure about the titles, e.g. Earl of Adderfell works but Earl of the Southern Reaches might be too long
+From Mike: some suggestions - Earl of Westcliff instead of Highlands; come up with a name for the East Fork of the Aure and replace Earl of the Southern Reaches with Earl of ~EastForkOfAure~ 
+%%
 ### Economy, Trade, and Foreign Relations
 
 Addermarch does not have major trade connections to elsewhere, despite being rich in raw materials. The largest export industry is brandy, which is produced by a number of brandy houses based in Adderfell, and exported down river to Sembaran and beyond. 
