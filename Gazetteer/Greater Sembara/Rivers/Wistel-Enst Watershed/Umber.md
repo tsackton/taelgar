@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Addermarch
 ---
 # Umber

@@ -4,7 +4,8 @@ tags: [place]
 displayDefaults: {defArt: "the"}
 campaignInfo:
 name: Aben
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 partOf: Tyrwingha
 aliases: [Aben River, River Aben]
 pronunciation: AY-ben

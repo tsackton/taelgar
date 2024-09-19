@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Borderlands
 ---
 # Clavert
@@ -9,4 +10,4 @@ whereabouts: Borderlands
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Clavert River flows north from [[Westcliff]] to the [[Enst]].
+The Clavert River flows north from [[Westcliff]] to the [[Enst]]. 

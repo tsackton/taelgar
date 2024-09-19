@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place]
 name: Wistel
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Sembara
 ---
 # Wistel
@@ -10,4 +11,4 @@ whereabouts: Sembara
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% No particular details made up but for an important river like this I wanted a needswork tag %%
+A major river in [[Sembara]], it runs from the [[Sentinel Range|Sentinels]] in the the west until it joins with the [[Enst]] in the [[Ozabal|Ozabal Swamp]] before emptying in the [[Western Gulf]] of the [[Green Sea]]. 

@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Volta
-typeOf: river
+typeOf: waterway
+typeOfAlias: river
 whereabouts: Western Green Sea Region
 aliases: [River Volta]
 ---
