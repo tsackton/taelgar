@@ -30,7 +30,7 @@ Glenfara, GLEN-fah-rah, named for a valley known for its distant or far-reaching
 
 Haldrenn, HAL-dren, derived from a rocky ridge, marking a place known for its stone-laden terrain (Norse/Gaelic)
 
-Kilrath, kil-RATH, derived from a church near an ancient ringfort, highlighting its roots as a religious and fortified site
+(USED) Kilrath, kil-RATH, derived from a church near an ancient ringfort, highlighting its roots as a religious and fortified site
 
 Lioswyn, LEE-us-win, named for a fairy fort in a white meadow, combining Gaelic elements with hints of magic and purity
 
