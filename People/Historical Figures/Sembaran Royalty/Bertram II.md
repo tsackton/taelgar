@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes]
-campaignInfo: []
+tags: [historical, person/ruler, status/needswork/internal]
 name: Bertram II
 born: 1537
 species: human

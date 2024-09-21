@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/notes]
+tags: [background, status/needswork/rethink]
 ---
 
 %% 

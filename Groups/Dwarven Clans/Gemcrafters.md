@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/needswork/external]
+tags: [organization/family]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Gemcrafters
@@ -19,7 +19,9 @@ whereabouts: Nidzahar
 
 A wealthy merchant clan in [[Nidzahar]]. Their wealth largely dates from just after the Great War, as the family was relatively unscathed by those events.
 
-%% Status note: The family of a Clee player (Matt/Izgil). Some notes in emails and Discord  %%
+%% 
+The family made a deal of sorts with the [[Bahrazel]] during the Great War, for protection, and one of the family [[Izgil Moonseeker|Izgil]] has been claimed by the Bahrazel for mysterious purposes.
+%%
 
 %%^Campaign:None%%
 ### Current Members

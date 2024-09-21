@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/active]
 whereabouts: 
 - { type: home, location: Rinburg }
 - { type: home, location: Veltor }

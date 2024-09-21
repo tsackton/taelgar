@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, person, status/needswork/notes]
+tags: [pc/companion, person]
 name: Baxter
 born:
 species: axebeak

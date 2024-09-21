@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person, status/needswork/notes]
+tags: [pc/greatwar, person]
 campaignInfo: []
 name: Beryl
 born: 1502

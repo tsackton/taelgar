@@ -9,12 +9,14 @@ species: korred
 ancestry:
 gender: male
 whereabouts: Crystal Peak
+affiliations: [ {org: Crystal Peak, title: Guardian }]
 ---
 # Illaran
->[!info]+ Biographical Info
-> a korred (he/him)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on November 1st, 1748 in [[Crystal Peak]] %%^End%%
+>[!info]+ Biographical Info  
+> A korred (he/him)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on November 1st, 1748 in the [[Crystal Peak]], the [[Feywild]] %%^End%%
 
 Illaran, the guardian of Crystal Peak in the [[Feywild]], is a whimsical fey who wields power over the very stones of his domain.
 ## Overview

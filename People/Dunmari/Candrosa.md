@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes, status/image]
+tags: [person, status/needswork/internal, status/tim, status/image, status/update]
 name: Candrosa
 born: 1715
 species: human
@@ -20,3 +20,4 @@ whereabouts:
 ![[candrosa-portrait.png|right|400]]The Speaker of the Mystai of Shakun, the public face of the Temple of Shakun, and the official leader of the Mystai.
 
 
+%% Tim: Not sure if some of the details about Candarosa are external or just needs collation from Session Notes here and in-game events %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external]
+tags: [person]
 name: Symone Barbet
 born: 1683-11-15
 species: human
@@ -18,4 +18,4 @@ whereabouts: Barony of Dunfry
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% incorporate DM notes %%
+An important military leader in [[Dunfry]]. She has a tendency to work within the hierarchy and prefers following the rules and working within the chain of command.

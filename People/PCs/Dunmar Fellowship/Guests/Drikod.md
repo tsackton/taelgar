@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/needswork/notes]
+tags: [pc, person, pc/guest]
 campaignInfo:
 name: Drikod
 born:
@@ -17,7 +17,7 @@ excludePublish: ["clee"]
 > A [[Stoneborn|stoneborn]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[drikod-portrait.jpg|400]]
+![[drikod-portrait.jpg|right|400]]A stoneborn druid who spent some time investigating troubles in Dunmar. 
 
 ## Pre-Campaign Events
 

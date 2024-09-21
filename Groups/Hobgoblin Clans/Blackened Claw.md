@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes, status/unknown]
+tags: [organization, status/needswork/external, status/unknown]
 displayDefaults: {endStatus: "destroyed by the [[Dunmar|Dunmari]]", dPast: "<endStatus:U> in <enddate>"}
 campaignInfo:
 name: Blackened Claw Clan

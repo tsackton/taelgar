@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/external]
 name: Arendum
 typeOf: city
 whereabouts: Chasa River Valley

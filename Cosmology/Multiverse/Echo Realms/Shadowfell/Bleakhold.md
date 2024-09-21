@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/notes, place, status/unknown]
+tags: [status/needswork/external, status/tim, place]
 whereabouts: Morkalan
 typeOf: settlement
 typeOfAlias: village
@@ -14,3 +14,5 @@ name: Bleakhold
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The dismal Dwarven village in the [[Shadowfell]] domain of [[Morkalan]]. 
+
+%% Tim: I assume there are some external notes you have from the one-shot that was here %%

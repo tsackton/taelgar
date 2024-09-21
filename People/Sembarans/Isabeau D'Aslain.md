@@ -44,7 +44,6 @@ Sabine - who you probably talked to in the aftermath of Asieneau being abandoned
 
 Baroness household:
 * [[Isabeau d'Aslain]]
-* captain of her guard ([[Thomas Dyerson]]) (m)
 * chief magistrate of barony [[Victorine Rosseau]] (f)
 * chief clerk of the barony [[Marguerite Deschamps]] and her two assistants
 * secretary ([[Robin D'Aslain]]) (m)
