@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip]
+tags: [organization]
 typeOf: family
 typeOfAlias: noble family
 whereabouts: Sembara
@@ -10,6 +10,10 @@ whereabouts: Sembara
 > A noble family  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+A cadet branch of the [[House of Sewick]]. 
+
+%% Nothing canonically made up other than the family tree. Available to be used as a powerful noble family in Sembara %%
 
 %%^Campaign:None%%
 ### Members

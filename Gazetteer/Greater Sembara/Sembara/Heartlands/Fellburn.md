@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork/internal, status/needswork/external]
 name: Fellburn
 typeOf: settlement
 subTypeOf: fortified
@@ -17,6 +17,8 @@ population: 6000
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A populous and fortified town along the [[Enst]], it was historically the "second city" of the Enst, smaller than [[Rinburg]]. However, since the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], Fellburn has grown substantially and has overtaken [[Rinburg]] to become the largest city along the Enst. 
+
+%% Nothing really still in my head, but needs some emails from Clee game, plus the Discord chat Tim and I had to define the Oracle of hope, plus the bits below %%
 
 %% I'm working on various ideas to give this place character, given it has come up in Cleenseau as an "important" place. Canonically there is no bridge, so need to come up with some reasons why a big city here
 

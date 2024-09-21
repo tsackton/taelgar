@@ -12,6 +12,8 @@ whereabouts: Northern Green Sea
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: My guess is this is more either "done" or status/needswork/internal? Is there more you invented for our adventure there that needs to be incorporated here? %%
+
 Ursk is a secretive civilization on the north coast of the [[Green Sea]]. Rumors are that it is a land of wizards and magic, of ice and snow, of monsters and secret treasure. While outsiders are allowed to trade at a handful of port cities, including [[Zakat]] and [[Praznitsky]], the warehouses and docks of these cities are kept isolated from the city proper, and foreigners are not allowed to pass the borders. Trade with Ursk, however, is worth the hassle, for the valuable hides, furs, and other monster parts, especially the most prized of all, dragonhide from the northern wastes.
 
 Ursk itself lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the Sembara Highlands. The winters are long and cold, and the westerly winds off the [[Green Sea]] bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. Much like the central plateaus of Vostok, this is a land of many small, cold rivers, and with the maritime influence wetlands are common, especially along the coast. To the north, the vast taiga of the northern wastes extends are far as one can travel, until it is replaced by tundra in the higher elevations and the far north.

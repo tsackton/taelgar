@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip]
+tags: [organization, status/tim]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Hardstones
@@ -12,6 +12,7 @@ ancestry: dwarven
 > A [[Dwarves|dwarven]] clan  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
+%% Tim: do you have info about them in your head, or does this just need a sentence like: A prominent dwarven clan in Tokra. to be complete?%%
 
 %%^Campaign:None%%
 ### Current Members

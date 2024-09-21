@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/army, status/needswork/wip]
+tags: [organization/army, status/update]
 campaignInfo: []
 name: Army of Mostreve
 partOf: Sembaran Army
@@ -16,4 +16,8 @@ The Army of Mostreve is a 1200-strong, divided into three companies, garrisoned 
 
 The army is led by the fearsome eldritch knights and an elite cadre of warlocks (arcane magic is more common here than anywhere else in Greater Sembara to a significant degree). The Army was organized by [[Derik I]] after his victories over the [[Dominion of Avatus]], and it today provides a significant route of social mobility -- but also integration into the Sembaran nobility and upper classes, as many Sembarans serve in this army alongside the Tyrwinghan knights.
 
-%% The relationship between this army and Sembara needs rethinking in light of recent invention around how infrequently they have been actually same ruler %%
+%% 
+The relationship between this army and Sembara needs rethinking in light of recent invention around how infrequently they have been actually same ruler 
+Facts should stay basically the same, but it may be more directly under control of Tyrwinghan Oracle, or have some logical divisions about Sembaran and non-Sembaran troops;
+also if it is a Sembaran army, what happens when Tyrwingha is not ruled by Sembara?
+%%

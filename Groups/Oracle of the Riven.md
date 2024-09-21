@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip]
+tags: [organization]
 displayDefaults: {defArt: '', boxInfo: ""}
 name: Oracle of the Riven
 whereabouts: Tyrwingha
@@ -23,7 +23,9 @@ The royal electors of [[Tyrwingha]]. There are six of these royal electors:
 
 When an oracle dies, tradition holds that the [[Archfey Ethlenn]] appoints a new oracle. In living memory however, this has not happened. Instead, the remaining oracles elect a new oracle (although by what means, no one knows) and the abstention of Ethlenn is considered her assent.
 
-
+%% 
+There are various references and hints in some documents, i.e. [[Letter from the Oracle of the Red to the Mostreve Warlocks]] and a general vibe of 'mysterious' and 'fey', but very little has been made up beyond what is here. 
+%%
 
 
 

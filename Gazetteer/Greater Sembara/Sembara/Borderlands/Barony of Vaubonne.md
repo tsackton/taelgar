@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork/blankslate]
 campaignInfo:
 name: Barony of Vaubonne
 typeOf: barony
@@ -15,5 +15,7 @@ pronunciation: Voh-bun
 
 %% 
 Historically much larger; conqueored by Shattered Ice Clan; refounded after war in very different way
-Some vague ideas on character/vibe from session planning; some small notes on the land and how it changed in the Sembaran history backstory
+
+Should have a "fortified frontier" vibe in some places, although the details are light. Hilly with scattered forests and deep valleys, not an easy land to navigate.
+Came up in game only so far as to be mentioned as a place a small group of soldiers wandered through, somewhat lost
 %%
