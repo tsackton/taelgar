@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork/wip, status/needswork/external]
 campaignInfo:
 name: Cymea
 typeOf: realm
@@ -22,6 +22,8 @@ whereabouts: Western Green Sea Region
 - Some significant influence towards Vostok and a major player on the wider Green Sea
     
 - Maybe sees themselves as a bit ‘above’ the Western Gulf and Sembara and trades with them, but sees Sembara as an upstart (whereas Sembara probably sees Cymeans as fooling themselves and pretending to grandier they don’t have, but also, Sembara is more inward focused and is happy enough as long as folks buy their wheat -- the passion would be more to the west and south)
+
+Lots of discussions in email and Discord that could be pulled in here; nothing definitive
 %%
 
 

@@ -26,6 +26,7 @@ The following tags are used to track the canonical status of the contents of a n
 - **status/namecheck**: this note introduces a new "world level" name and should be confirmed. The inventor of the name should be the one to remove namecheck. If the name needs to be confirmed with someone else, see status/mike + status/tim
 - **status/mike**, **status/tim**: Either Mike or Tim or both should review the note contents and remove their own status/name when they are happy with the note contents. Use when the author of the note wants the other person to confirm before switching away from a needswork status or similar. Only remove status/yourownname. Perfectly reasonable to create a note with status/yourownname to remind yourself to review in the future. Typically the last status tag on a note.
 - **status/unknown** for the status of the note is unclear
+- **status/update** for notes where recent changes elsewhere has invalidated the note information, or where game information needs to be captured and recorded
 
 **Work Tracking Notes**
 In addition to tracking the canonical status of the information in a note, status tags can be used to track needed work. 

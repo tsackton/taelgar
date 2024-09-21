@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork/external, status/needswork/internal]
 displayDefaults: {defArt: ""}
 typeOf: region
 whereabouts: Taelgar
@@ -17,3 +17,5 @@ It is largely a settled land, dominated by the major river systems of the Sembar
 ## Topography
 
 ## Climate
+
+%% Needs cleanup of many notes both in Obsidian and perhaps in Discord/email/GDrive.  Perhaps some invention as well %%

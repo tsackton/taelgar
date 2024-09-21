@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork/internal, status/tim]
 displayDefaults: {endStatus: overrun in}
 campaignInfo: []
 name: Ardith
@@ -15,6 +15,8 @@ destroyed: 1545
 > A [[Dwarves|dwarven]] realm in [[Sentinel Range|Labkhan]], [[Central Highlands Region]]
 
 The dwarven kingdom of Ardith, once rich and prosperous and spreading from was overrun in the [[Great War]]. Most of the [[dwarves]] who survived settled in the [[Yuvanti Mountains]], founding the new kingdom of [[Nardith]].
+
+%% Tim: marking status/tim just to confirm if the notes below is all we have on Ardith, or whether you have other external notes or thoughts %%
 
 %% notes - from google drive
 In the far south, south of Urlich, is Ardith, growing rich on trade with Drankor, and later with Dunmar, until at the end of the Great War they were driven from their homes and settled south, in the Yuvanti mountains, founding Nardith.
