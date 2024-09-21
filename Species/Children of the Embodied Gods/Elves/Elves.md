@@ -1,9 +1,11 @@
 ---
-tags: [status/needswork/notes, species]
+tags: [status/needswork/internal, status/needswork/external, status/needswork/rethink, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
 ---
 # Elves
+
+%% Lots of discussions both in the notes below and Discord; also this page is old and likely needs a bit of a rethink. As far as I know all the notes are either in shared Discord chat or Obsidian though  %%
 
 >[!quote] Memories of the First, Elven Oral Tradition
 >*In the dark and the void we awoke, our eyes opened to the stars above, and there was color and light and life in the world for the first time. Behold! For we are the First.*

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes, testcase]
+tags: [historical, person/ruler, status/factcheck, testcase]
 name: Derik III
 born: 1484
 species: human
@@ -31,8 +31,4 @@ He had two sons ([[Reginald]] and [[Hugh of Wisenfold|Hugh]]) with his first wif
 
 Mostly due to the influence of his powerful second wife, [[Bertram I|Bertram]] succeeds him upon his death.
 
-
-
-
-
-
+%% Note basically complete but backlinks should be checked for key information that is missing here %%

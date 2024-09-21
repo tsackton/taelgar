@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes]
+tags: [historical, person/ruler, status/needswork/internal]
 name: Blanche I
 born: 1538
 species: human
@@ -28,5 +28,7 @@ A ruler of Sembara during the 1560s, she was the second child of [[Reginald]]. H
 Blanche was the second daughter, and a quiet, scholarly woman, overshadowed by her strong willed sisters, Elaine and Anne. She spent much of her reign fascinated by the stars, and soon after rising to the queenship, proclaimed the heavens did not wish her to bear an heir. This announcement shook the royal court. The tension between Anne and Elaine was always strong. From birth, they were extremely close but also extremely competitive, extremely smart, and unable to see a way to share power or the throne. Anne and Elaine, however, as the third and fourth daughters of Reginald, had always been expected to be important duchesses, members of the Royal Council, but never in direct competition for the control of the throne.
 
 In DR 1567, Blanche dies, unexpectedly, in an accidental fall from a tower.
+
+Some other notes in the backlinks.
 
 %%

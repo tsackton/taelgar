@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes, status/unknown]
+tags: [organization, status/tim]
 campaignInfo:
 name: Dyer's Guild
 ancestry: Tollen
@@ -12,3 +12,5 @@ typeOf: guild
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 A powerful trade guild in [[Tollen]], known for the famous "[[Tollen Dyes|Tollen Red]]", a brilliant vermillion color.
+
+%% Tim: marking status/tim - not clear if we need more than this? %%

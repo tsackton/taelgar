@@ -1,4 +1,13 @@
 ---
-tags: [status/stub, place]
+headerVersion: 2023.11.25
+tags: [place]
+displayDefaults: {defArt: ""}
+typeOf: inn
+whereabouts: Champimont
 ---
-%% Inn in Champimont, where the party spent some time %%
+# The Elegant Swan
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+A grand multistory inn in [[Champimont]], known as a gathering place. 

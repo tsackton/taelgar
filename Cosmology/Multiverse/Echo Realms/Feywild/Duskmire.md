@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/internal, status/needswork/external, status/active]
 whereabouts: Feywild
 typeOf: realm
 excludePublish: ["clee"]
@@ -33,6 +33,13 @@ These warning stones warn against Lord Umbraeth and against fey incursions, and 
 Their existence suggests that Duskmire likely existed prior to the arrival of the Drankorians in the DR 300s, perhaps dating to the first generations after the Downfall, around 100 DR.
 %%
 
+%% Canon from Cleenseau:
+There is a fey portal to Duskmire in Cleenseau wood that is sometimes open and sometimes not.
+
+Umbraeth has taken advantage of recent opening to launch mischief, although details mostly on the [[Lord Umbraeth]] page. 
+
+%%
+
 %% Not 100% canonical ...
 
 One of the rules of Twilight's Grace is that fey lords are not allowed to torment humans of Tyrwinghan, there is a degree to which they are under the protection of Ethlenn. 
@@ -48,5 +55,48 @@ When [[Sharpspire]] falls, Umbraeth expands north, and it is in this period that
 (Area 1 is original, Area 2 is expansion, in several phases)
 
 ![[duskmire-rough-map.png]]
+
+Further discord chats:
+is there anything canonical about when Umbreath established Duskmire? in the Duskmire note you have in the 600s but is that set in stone? 
+
+i'm dropping a warning stone in the next adventure for my Addermarch campaign that is near a place of easy travel (not quite a portal, but a place where fey can cross to the material plane with less effort)
+trying to figure out what language the warning signs might be in
+Deciusmus — 09/16/2024 8:24 PM
+Nothing canonical.
+But it has to be before Cloudspinner was imprisoned
+rsulfuratus — 09/16/2024 8:26 PM
+yeah, i was more wondering about pushing it back a bit. 600s would be when Drankor had already established in Addermarch
+say to 200 or 300
+Deciusmus — 09/16/2024 8:26 PM
+For the expansion narrative to work. Could be much older though. Who knows how long Umbraeth was hanging out in the Darkwood
+rsulfuratus — 09/16/2024 8:26 PM
+so by the time Drankorians arrive, the Ethlenn/Umbaeth split has already happened
+Deciusmus — 09/16/2024 8:29 PM
+Yeah that probably works
+An Excerpt from On Creation and Destruction of Extra-Material Realm in the Cleenseau folder has a few hints
+rsulfuratus — 09/16/2024 8:29 PM
+will take a look
+Deciusmus — 09/16/2024 8:30 PM
+But something like 250-300 would work fine.
+I think
+
+
+- originally the idea was duskmire started in the region of the feywild colocated with darkwood
+    (and is the source of the "Darkwood" name)
+
+other chats on Discord suggest Darkwood is 'dark' when Drankor arrives
+
+Basically, here is where I think we've landed on Duskmire....
+
+Originally, it was the fey realm concurrent with the Darkwood, which has always been "the Darkwood" even in Drankorian times, for undetermined reasons. This realm was given to Umbraeth by Ethlenn as part of his exile, which is at an undetermined date, but predates Cloudspinner's imprisonment.
+
+Once Cloudspinner is exiled, the opportunity arises to expand to the west, which Umbraeth eagerly does, until he reaches the fortified borders of Shimmersong in the west and the unnamed Ulrich fey to the north.
+
+Then, when the Great War disrupts unnamed Ulrich fey he expands north as far as the Wistel, where he encounters another strong archfey, the big talking animals fey, and west, until he encounters scary thing in the ruins of Ulrich fey
+The Sunset Gate runs basically due north from the westeren edge of the Darkwood - through Fellburn and then northward, and is a literal line Umbraeth cannot cross
+(where the sun sets)
+The lands sunward of the Sunset Gate (in the region labeled 3)  are not part of any domain, but there are several courts and castles of allies of Ethlenn. But this area is also especially treacherous. Time works even more strangely than usual, and without an archfey to bring order to the land, the line of the Sunset Gate is particularly unsettled, so the border between 2 and 3 is a big vague, and thus the eastern border of Duskmire is a bit vague
+
+There are more notes in Discord than copied here.
 
  %%

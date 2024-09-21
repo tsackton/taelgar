@@ -1,10 +1,11 @@
 ---
-tags: [status/stub, person]
+tags: [status/stub, status/needswork/internal, person]
 species: halfling
 ---
 
-%% A halfling musician, likes to collect colorful leather clothes
-You might ask Fin Merriweather . He collects that sort of thing and might know who buys and sells colorful leather clothes around here. You can find him singing and playing his guitar most nights at The Setting Sun, over on the west side of tow
+%% A halfling musician who sings at the Setting Sun inn in Asalin, likes to collect colorful leather clothes. See [[Merriweathers]] for some important background info.
+No canonical age; male
+
 ![[fin-merriweather.jpg|left|200]]
 
 A halfling singer

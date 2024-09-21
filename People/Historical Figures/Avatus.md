@@ -1,5 +1,5 @@
 ---
-tags: [historical, person, status/mike, status/needswork/notes]
+tags: [historical, person, status/mike, status/needswork/external]
 name: Avatus
 born:
 species: human

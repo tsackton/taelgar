@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/notes]
+tags: [person, testcase, status/update, status/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned , format: "<met:U> by <person:Q> on <target>, in <current:3Qr>"}
 name: Antonia
@@ -34,3 +34,5 @@ As far as you know, still traveling with [[Kadmos]].
 %%^End%%
 
 %%SECRET[1]%%
+
+%% Tim: this had status/notes but I'm not sure if that is accurate at this point. I added status/update as it clearly doesn't reflect revelations from DuFr game. %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/notes]
+tags: [historical, person/ruler, status/needswork/internal]
 name: Charlotte II
 born: 1624
 species: human
@@ -21,3 +21,4 @@ affiliations:
 
 A ruler of Sembara and Tyrwingha. Succeeded by her sister, [[Cece I]].
 
+%% Some notes on her life in the [[Timeline of Sembaran History]]; she probably needs a sentence or two as she was queen during the third hobgoblin war which is an important recent historical event %%
