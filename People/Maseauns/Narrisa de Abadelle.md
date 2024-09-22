@@ -20,6 +20,4 @@ whereabouts: Duchy of Maseau
 need to pull in info from emails and session notes; plus decide what I want to do with her
 other peple
 From Maseau, member of the order of charitable wanderer. trapped in feywild for a year in amberglow
-
-[[Marcel de Valarin]] - head of the order good friends with [[Cedric Cyfenwid]] a paladin of th Wyrdling from Tyrwingha. Perhaps lovers?
 %%

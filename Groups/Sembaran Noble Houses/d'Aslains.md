@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, organization]
+tags: [status/stub, organization, status/needswork/external]
 displayDefaults: {defArt: "the" }
 ---
 

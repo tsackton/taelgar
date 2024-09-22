@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 campaignInfo: [{campaign: clee}]
 name: Anselm
 born: 1655
@@ -9,6 +9,8 @@ ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
 affiliations: [{org: Lord's Council of Cleenseau}]
+dm_notes: color
+dm_plans: yes
 ---
 # Anselm
 >[!info]+ Biographical Info  

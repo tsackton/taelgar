@@ -8,6 +8,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Asineau
+dm_notes: none
+dm_plans: no
 ---
 # Arnold the Miller
 >[!info]+ Biographical Info

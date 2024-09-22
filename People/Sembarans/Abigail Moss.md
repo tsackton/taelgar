@@ -1,21 +1,20 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-campaignInfo:
-- {campaign: Clee, date: 1719-12-04, type: met}
 name: Abigail Moss
 born: 1698
 species: human
 ancestry: Sembaran
 gender: female
 whereabouts: Taviose
+dm_notes: none
+dm_plans: no
 ---
 # Abigail Moss
->[!info]+ Biographical Info
-> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on December 4th, 1719 in [[Taviose]], [[Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
 ![[abilgail-moss.jpg|right|320]]Abigail is a somewhat shy farmer whose orchard was infected with the remains of the giant spiders that plagued [[Taviose]]. [[Robin of Abenfyrd|Robin]] was able to disinfect it with his lay on hands ability. Her family was killed in the spider attacks, and she has struggled to maintain the family orchard, which is mostly walnuts and chestnuts and hugs the edge of [[Cleenseau Wood]].
 
