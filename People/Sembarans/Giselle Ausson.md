@@ -7,6 +7,8 @@ gender: female
 species: human
 whereabouts: Laicon
 affiliations: [{org: Ausson's Crossing, type: leader, title: Proprietor, start: 1700 }]
+dm_notes: color
+dm_plans: no
 ---
 # Giselle Ausson
 >[!info]+ Biographical Info  

@@ -8,6 +8,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
+dm_notes: none
+dm_plans: yes
 ---
 # Conrad
 >[!info]+ Biographical Info

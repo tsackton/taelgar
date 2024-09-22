@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 born: 1690
 species: human
 ancestry: Sembaran
 whereabouts:
 - {type: home, location: Asineau, start: 1717 }
+dm_notes: important
+dm_plans: no
 ---
 # Isolde
 >[!info]+ Biographical Info  

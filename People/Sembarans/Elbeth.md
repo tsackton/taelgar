@@ -9,6 +9,8 @@ whereabouts:
 - {type: home, location: Embry }
 - {type: home, location: Asineau }
 affiliations: [{org: Asineau Manor Guard, title: Guardsman}]
+dm_notes: none
+dm_plans: no
 ---
 # Elbeth
 >[!info]+ Biographical Info  

@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [person]
 displayDefaults: { endStatus: killed himself in remorse }
-campaignInfo: []
 name: François the Bandit
 born: 1681
 species: human
@@ -11,6 +10,8 @@ gender: male
 aliases: [François the Bandit]
 died: 1719-11-05
 whereabouts: Cleenseau Region
+dm_notes: none
+dm_plans: no
 ---
 # François the Bandit
 >[!info]+ Biographical Info  

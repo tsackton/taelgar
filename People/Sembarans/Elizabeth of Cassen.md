@@ -9,7 +9,8 @@ whereabouts:
 - {type: home, location: Cassen }
 - {type: away, location: Rinburg, start: 1720-01-08, end: 1720-02-03 }
 - {type: away, location: Cleenseau, start: 1720-02-06, end: 1720-02-10 }
-
+dm_notes: none
+dm_plans: no
 ---
 # Elizabeth of Cassens
 >[!info]+ Biographical Info  

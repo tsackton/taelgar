@@ -6,6 +6,8 @@ affiliations: [{org: The River's Blessing, title: Proprietor, type: leader}]
 gender: female
 species: human
 ancestry: Sembara
+dm_notes: none
+dm_plans: no
 ---
 # Constance Farnham
 >[!info]+ Biographical Info  

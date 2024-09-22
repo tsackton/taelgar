@@ -6,6 +6,8 @@ born: 1673
 gender: male
 species: human
 ancestry: Sembaran
+dm_notes: color
+dm_plans: no
 ---
 # Bertram Northwoods
 >[!info]+ Biographical Info  

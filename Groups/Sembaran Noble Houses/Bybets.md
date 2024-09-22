@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family]
+tags: [organization/family, status/needswork/wip]
 displayDefaults: {partOf: "", boxInfo: "", defArt: "the"}
 typeOf: family
 whereabouts: Ainwick
 aliases: [Bybet]
+dm_plans: no
+dm_notes: none
 ---
 # The Bybets
 >[!info]+ Information

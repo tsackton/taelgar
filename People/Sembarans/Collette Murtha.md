@@ -6,6 +6,8 @@ gender: female
 ancestry: Sembaran
 species: human
 born: 1679
+dm_notes: none
+dm_plans: no
 ---
 # Collette Murtha
 >[!info]+ Biographical Info  
@@ -13,4 +15,4 @@ born: 1679
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[collette-mutha.png|right|320]]The steward and administrator of the temple in [[Beury]], and the cousin of [[Erick Murtha|Lord Murtha]].
+![[collette-mutha.png|right|320]]The steward and administrator of the temple of The Father in [[Beury]], and the cousin of [[Erick Murtha|Lord Murtha]].

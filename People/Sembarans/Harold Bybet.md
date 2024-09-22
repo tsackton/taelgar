@@ -6,6 +6,8 @@ born: 1691
 species: human
 gender: male
 whereabouts: Cleenseau
+dm_notes: color
+dm_plans: no
 ---
 # Harold Bybet
 >[!info]+ Biographical Info  

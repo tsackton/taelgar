@@ -1,10 +1,20 @@
 ---
-tags: [status/stub, organization, status/needswork/external]
+headerVersion: 2023.11.25
+tags: [status/stub, organization]
 displayDefaults: {defArt: "the" }
+typeOfAlias: noble house
+typeOf: family
+whereabouts: Barony of Aveil
+dm_plans: yes
+dm_notes: important
 ---
+# The D'Aslains
+>[!info]+ Information  
+> A noble house  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% A noble family in Aveil ; more details in DM notes %%
-
+A longstanding noble family in the [[Barony of Aveil]] with an ancient history. One of the wealthiest families in the [[Auberonne]] river valley.
 
 %%^Campaign:None%%
 ### Current Members
