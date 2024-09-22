@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/mike]
+tags: [place, status/needswork/blankslate]
 whereabouts: Borderlands
 typeOf: barony
 pronunciation: Voh-klair
@@ -11,3 +11,4 @@ pronunciation: Voh-klair
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Nothing really exists about this place except the hints in the borderlands page %%

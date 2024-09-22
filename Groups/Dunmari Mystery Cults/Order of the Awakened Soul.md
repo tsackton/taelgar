@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes]
+tags: [organization, status/tim]
 displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>"}
 typeOf: mystery cult
 ancestry: Dunmari
@@ -11,6 +11,7 @@ deity: Bhishma
 > A [[Dunmar|Dunmari]] mystery cult of [[Bhishma]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
+%% Tim: seems good enough to me; status tim for your confirmation %%
 The mystery cult dedicated to the Dunmari god [[Bhishma]]. Dedicated to collecting the stories of the Dunmari and secondarily making sure the souls of the dead are not forgotten and lost. 
 
 Mostly vanished. 

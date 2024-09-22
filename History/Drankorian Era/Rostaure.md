@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/inernal, status/tim]
 name: Rostaurë
 pronunciation: ROS-tow-reh
 aliases: [Rostaurë]
@@ -18,4 +18,6 @@ subTypeOf: forest
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%add notes from [[Arheste]]%%
+%%add notes from [[Arheste]]
+
+Tim: set status tim to cofirm that the internal notes in obsidian are all you have on this%%

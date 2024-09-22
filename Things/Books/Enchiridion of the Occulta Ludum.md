@@ -4,8 +4,9 @@ tags: [item/book]
 typeOf: book
 subTypeOf: magical
 ancestry: Drankorian
+affiliations: [ {org: Occulta Ludum, title: Handbook }]
 ---
-# Enchiridion of the Occulta Ludum
+# The Enchiridion of the Occulta Ludum
 >[!info]+ Information  
 > ([[Drankorian Empire|Drankorian]] magical book)  
 > `$=dv.view("_scripts/view/get_Affiliations")`

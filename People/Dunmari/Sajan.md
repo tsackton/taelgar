@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork/notes]
+tags: [historical, person, status/tim]
 campaignInfo: []
 name: Sajan
 born:
@@ -13,3 +13,5 @@ gender: female
 > A [[Dunmar|Dunmari]] [[Humans|human]] (she/her)
 
 The former keeper of the [[Hall of Stories]], now lost to madness and trapped in the endless memories and nightmares of that place, always turning tales to the worst possible outcome. 
+
+%% Tim: set status/tim to confirm nothing missing %%

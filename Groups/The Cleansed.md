@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes, status/unknown]
+tags: [organization, status/tim]
 displayDefaults: {defArt: ''}
 name: The Cleansed
 typeOf: cult
@@ -12,6 +12,8 @@ ancestry: mysterious
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 A mysterious secret society in [[Chardon]] of which [[Fausto]] is a member and seem to be dedicated in some way to Drankorian purity. 
+
+%% Tim: Does this need more? %%
 
 %%SECRET[1]%%
 

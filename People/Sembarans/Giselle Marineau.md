@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/stub]
+tags: [person]
 pronunciation: Zhee-zell Mah-ree-no
 gender: female
 species: human
@@ -13,4 +13,4 @@ whereabouts: Rinburg
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Captain of the West Gate, in Rinburg.
+The Captain of the West Gate of Rinburg. 

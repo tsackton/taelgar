@@ -17,8 +17,6 @@ The following tags are used to track the canonical status of the contents of a n
 		- **internal**: additional details exist in Obsidian, e.g. in the form of dates on other notes, comments in the note itself, etc, but haven't been fully incorporated into the note text. This should be used to refer to shared notes only, not DM folder notes, which should be considered external.
 		- **wip**: note author has ideas for this but they are not fully formed and haven't been recorded. The author is ideally recorded via status/mike or status/tim.
 		- **blankslate**: a blank page that has no canonical details yet, but clearly could use them. Unless there is a status/active tag, this should be considered an open invitation to invent something.
-	- In the past the following tags have also been used and may still exist on some notes:
-		- **notes**: additional details exist and are recorded in non-Obsidian notes or in someone's head, but haven't yet been captured in Obsidian. 
 	- Other secondary tags are possible and in general the "main" author of the note should be the only one to change needswork tags, although that isn't a hard and fast rule
 - **status/factcheck**: this note has a comment about consistency accuracy and needs someone to do a check. Usually this means, check with session notes or a timeline elsewhere. Use this only when the facts are verifiable from Obsidian source material (usually session notes). Anyone can remove a factcheck status by checking the facts and updating the note.
 - **status/active**: this note represents a page that is active in a campaign. Use this to flag places where additional invention, without consultation, might impinge on a campaign. This can be thought of as a "permanent" status/update
@@ -26,6 +24,7 @@ The following tags are used to track the canonical status of the contents of a n
 - **status/mike**, **status/tim**: Either Mike or Tim or both should review the note contents and remove their own status/name when they are happy with the note contents. Use when the author of the note wants the other person to confirm before switching away from a needswork status or similar. Only remove status/yourownname. Perfectly reasonable to create a note with status/yourownname to remind yourself to review in the future. Typically the last status tag on a note.
 - **status/unknown** for the status of the note is unclear
 - **status/update** for notes where game events have changed things, but these are not captured in the note body yet.
+- **status/complex** for pages that have wide implications or are large projects that are not really started, or where the implications of changes are far reaching
 
 **Work Tracking Notes**
 In addition to tracking the canonical status of the information in a note, status tags can be used to track needed work. 

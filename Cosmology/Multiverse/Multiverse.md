@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, place]
+tags: [status/complex, place]
 ---
 
 A variety of planes surround and extend from the [[Material Plane]], together making up the Multiverse. 
