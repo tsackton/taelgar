@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, historical, dufr/aware, status/needswork/notes, status/unknown]
+tags: [person, historical, status/unknown]
 campaignInfo:
 name: Nayan Yarad
 species: human

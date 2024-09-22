@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes, status/unknown]
+tags: [organization, status/unknown]
 typeOf: family
 subTypeOf: dynasty
 name: Nayan dynasty

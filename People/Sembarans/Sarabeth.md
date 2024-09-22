@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person]
 campaignInfo: [{campaign: clee}]
 name: Sarabeth
 born: 1686
@@ -21,4 +21,4 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A senior guardswoman under [[Ysabel]] and veteran of the [[Army of the West]].
+A senior guardswoman under [[Ysabel]] and veteran of the [[Army of the West]]. She was wounded twice during the [[Undead Attacks in Sembara]].

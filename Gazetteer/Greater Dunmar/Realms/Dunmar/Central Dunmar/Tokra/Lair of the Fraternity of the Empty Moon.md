@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/external, status/tim]
 typeOf: lair
 ancestry: werewolf
 whereabouts: Tokra
@@ -9,3 +9,5 @@ whereabouts: Tokra
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Tim: not sure what you want for this page? %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/mike, status/tim]
+tags: [place, status/needswork/internal, status/needswork/external]
 name: Zimkova
 typeOf: realm
 aliases: [ Highland Kingdoms ]
@@ -17,6 +17,8 @@ North of [[Sembara]] the land rises towards the [[Sentinel Range]], and is the a
 Ardlas, Lavnoch, and Breva were, at times part of the Sembaran realm, but today are independent and fiercely proud of it. Closely allied with the dwarves of the mountains, these kingdoms are lands of sheepfarmers and smallholders, and mostly stay to themselves. 
 
 %% Brainstorming Notes:
+
+Everyhing I've made up is here or discord; there are some notes in various other obisidan docs and a long thread in discord during the language background discussions that created Tollish
 
 Ancient history: The broad swath of land from the [[Sentinel Range]] to the [[~VostokHills~]] is settled by 
 

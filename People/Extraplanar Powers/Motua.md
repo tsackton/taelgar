@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, event-source, status/needswork/notes]
+tags: [person, event-source, status/tim]
 displayDefaults: {boxInfo: '<subspecies:sA> (<species>), <pronouns>'}
 campaignInfo:
 name: Motua
@@ -19,6 +19,7 @@ pronunciation: moh-TOO-ah
 > a [[Gidari|gidari]] ([[Celestials|celestial]]), they/them
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: setting to status tim as it reads complete to me %%
 ![[motua.png|right|400]]One of the guardians of the [[Land of the Dead]], a [[Gidari]], who is native to the [[Land of the Dead]] and serves as a guide and protector of souls on their journey beyond the veil. 
 
 %%^Campaign:DuFr%%

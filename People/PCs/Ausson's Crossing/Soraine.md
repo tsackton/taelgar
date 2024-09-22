@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/aussons, status/needswork/notes]
+tags: [person, pc/aussons, status/needswork/external]
 campaignInfo:
 name: Soraine
 born: 1650
@@ -17,4 +17,5 @@ player: Matt Rand
 %%
 Notes:
 Soraine and Viepuck similar things
+lots in email for pc background
 %%

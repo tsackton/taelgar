@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/internal, status/tim]
 whereabouts: Chardonian Empire
 typeOf: watershed
 ---
@@ -11,6 +11,7 @@ typeOf: watershed
 
 
 %%%
+Tim: is the below all that's canonical ? more elsewhere?
 
 The river valley of the Yeraad and it's tributaries from the [[Elderwood]] and the [[~Darba Coastal Mountains~]]
 #### Lizardfolk River Basin

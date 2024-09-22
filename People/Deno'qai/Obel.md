@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/needswork/notes, status/unknown]
+tags: [person, status/unknown]
 campaignInfo: []
 name: Obel
 born: 1688

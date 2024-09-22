@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/needswork/internal, status/tim]
 species: demon
 gender: male
 ---
@@ -8,3 +8,7 @@ gender: male
 >[!info]+ Biographical Info  
 > A demon (he/him)
 
+
+%% most information is expected to be in backlinks; the demon of Ravenhold 
+Tagging status/tim in case there is secret or other details you want to add here
+%%
