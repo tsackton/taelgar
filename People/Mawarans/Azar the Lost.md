@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/tim]
+tags: [person, status/needswork/internal, status/needswork/external]
 campaignInfo:
 name: Azar
 born:
@@ -14,4 +14,4 @@ gender: male
 
 See: [[Azar's Tale]]
 
-%% Status note: clearly the session note info could be incorporated; setting status/tim to confirm if there is any external info %%
+%% Status note: clearly the session note info could be incorporated; setting status/tim to confirm if there is any external info; also copy information from OneNote - Mawar %%

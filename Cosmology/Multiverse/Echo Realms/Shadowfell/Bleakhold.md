@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/external, status/tim, place]
+tags: [status/needswork/external, place]
 whereabouts: Morkalan
 typeOf: settlement
 typeOfAlias: village
