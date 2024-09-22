@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/needswork/refactor]
+tags: [event, status/cleanup/refactor]
 DR: 1719-10-21
 ---
 # The Second Spider Attack on Tavoise

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/internal, status/needswork/external]
 displayDefaults: {defArt: the, wHome: "One of <current>"}
 excludePublish: ["clee"]
 whereabouts: Echo Realms

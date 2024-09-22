@@ -1,14 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, pc, person, status/needswork/notes, status/unknown]
-campaignInfo:
+tags: [pc/companion, pc, person]
 name: Ladder
-born:
-species:
-ancestry:
-gender:
-player:
-affiliations:
 excludePublish: ["clee"]
 ---
 # Ladder

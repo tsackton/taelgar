@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/refactor]
+tags: [person, status/tim]
 campaignInfo: []
 name: Jorma
 born: 1716
@@ -19,3 +19,5 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 Jorma, a Skaer priest in his early 30s, served as the Priest of the Waters in [[Vetta]]. He was killed by [[Urgall the Black]] in May 1748.
+
+%% Tim: this was set as status/refactor but not clear why; setting to status/tim %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/needswork/notes, status/unknown]
+tags: [organization/family, status/tim, status/needswork/wip]
 displayDefaults: {defArt: the, partOf: ""}
 campaignInfo:
 name: Honeyhills

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/notes, place]
+tags: [status/needswork/internal, place]
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: village
@@ -30,6 +30,8 @@ Temple of Sibyl here, administrator is Wilhelm, moon guy.
 
 Temple of Sibyl was founded after a moonlight square (it was a perfect square) healed all those inside the square
 recently moon lore vs other aspects of Sibyl has become important
+
+Important place for timber trade downriver to rinburg; there is a horsepath along the river and barges sometimes; plus timber floating
 
 Lord Antoine Chevalier ahn-TWAHN shuh-VAL-ee-ay
 

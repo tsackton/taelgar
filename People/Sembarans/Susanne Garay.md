@@ -7,11 +7,13 @@ species: human
 ancestry: Sembaran
 gender: female
 whereabouts: Embry
+affiliations: [{ org: Garay Family, title: Matriarch }]
 ---
 # Susanne Garay
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A wealthy cloth merchant from [[Embry]], she sponsors many causes including the [[Lord Mayor’s Workhouse]], an orphanage. 

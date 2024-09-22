@@ -1,10 +1,5 @@
 ---
-tags:
-  - event-source
-  - status/namecheck
-  - status/needswork/notes
-  - status/needswork
-campaignInfo: []
+tags: [event, status/namecheck, status/needswork/external, status/tim]
 name: First Plague
 aliases: 
 DR: 1059

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/needswork/external, status/active]
 name: Lord Umbraeth
 excludePublish: ["clee"]
 species: fey

@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork, status/stub, place]
+tags: [status/needswork/blankslate, status/stub, status/namecheck, place]
 typeOf: realm
 whereabouts: Feywild
 ---
@@ -16,6 +16,5 @@ Beasthome
 Nature's Lair
 Awakened Den
 Nature's Awakening
-
 
 %%

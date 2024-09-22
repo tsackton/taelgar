@@ -1,11 +1,11 @@
 ---
-tags: [holiday, status/needswork/notes]
-campaignInfo: []
+tags: [holiday, status/tim]
 name: Feast of Bhishma
 fc-date: {day: 17, month: 6, year: 1748}
 fc-end: {day: 19, month: 6, year: 1748}
 ---
 # The Feast of Bhishma
+%% Tim: not clear if anything is missing %%
 
 Bhishma's Feast day, celebrated as a two day festival starting the day before the night of the first new moon in June, marking the end of summer and the start of the monsoon season. This is usually around the summer solstice.
 

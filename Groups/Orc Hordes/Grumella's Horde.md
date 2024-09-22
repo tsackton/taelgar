@@ -1,6 +1,5 @@
 ---
-tags: [organization, status/needswork/notes]
-name:
+tags: [organization, status/needswork/external, status/cleanup/header]
 typeOf: horde
 ---
 # Grumella's Horde

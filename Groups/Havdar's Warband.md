@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/needswork/notes, status/unknown]
+tags: [organization, status/needswork/wip, status/tim, status/cleanup/header]
 displayDefaults: {defArt: ""}
 campaignInfo:
 name:
@@ -14,6 +14,7 @@ whereabouts:
 ---
 
 %% fill in whereabouts %%
+%% Tim: set a bunch of status flags; not sure how much info you have about these %%
 # Havdar's Warband
 
 %%SECRET[1]%%
