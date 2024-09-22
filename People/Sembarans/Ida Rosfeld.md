@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 campaignInfo:
 name: Ida Rosfeld
 born: 1687
@@ -14,6 +14,8 @@ affiliations:
 whereabouts:
 - {type: home, location: 'Cleenseau'}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: 'Dunfry'}
+dm_notes: important
+dm_plans: yes
 ---
 # Captain Ida Rosfeld
 >[!info]+ Biographical Info  

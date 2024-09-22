@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 whereabouts: Asineau
 gender: female
 species: human
 ancestry: Sembaran
 born: 1659
+dm_notes: color
+dm_plans: yes
 ---
 # Eleanor
 >[!info]+ Biographical Info  

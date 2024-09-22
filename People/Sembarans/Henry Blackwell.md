@@ -7,6 +7,8 @@ died: 1720-01-04
 species: human
 ancestry: Sembaran
 gender: male
+dm_notes: none
+dm_plans: no
 ---
 # Henry Blackwell
 >[!info]+ Biographical Info  

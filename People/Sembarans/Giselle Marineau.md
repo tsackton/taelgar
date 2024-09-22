@@ -6,6 +6,8 @@ gender: female
 species: human
 ancestry: Sembaran
 whereabouts: Rinburg
+dm_notes: none
+dm_plans: no
 ---
 # Giselle Marineau
 *(Zhee-zell Mah-ree-no)*

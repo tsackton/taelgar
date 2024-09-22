@@ -8,6 +8,8 @@ born: 1672
 affiliations:
 - {org: The Bandit’s End, type: leader, title: Proprietor }
 whereabouts: The Bandit’s End
+dm_notes: none
+dm_plans: yes
 ---
 # Duncan Rivers
 >[!info]+ Biographical Info  
@@ -23,4 +25,8 @@ He struggled with mysterious disappearing ale and was helped by the [[Heroes of 
 %%^End%%
 
 
-%% Note: The ale was missing because a mischievous fairy was drinking it. The fairly fled when Celyn and the PCs started poking around, but will perhaps return %%
+%% 
+Note: The ale was missing because a mischievous fairy was drinking it. The fairly fled when Celyn and the PCs started poking around, but will perhaps return. 
+
+The possibility that a fairy will return to his ale cellar is the only DM plan I have.
+%%

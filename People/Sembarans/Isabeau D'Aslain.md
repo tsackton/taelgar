@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/needswork/internal]
 name: Isabeau d'Aslain
 born: 1672
 species: human
@@ -13,6 +13,8 @@ whereabouts:
 affiliations:
 - { org: Barony of Aveil, start: 1719-04, type: leader}
 - { org: d'Aslains, type: primary }
+dm_notes: important
+dm_plans: yes
 ---
 # Baroness Isabeau D'Aslain
 >[!info]+ Biographical Info  

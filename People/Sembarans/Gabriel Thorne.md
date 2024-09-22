@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-campaignInfo: []
 name: Gabriel Thorne
 born: 1690
 species: human
@@ -9,6 +8,8 @@ ancestry: Sembaran
 gender: male
 affiliations: 
 whereabouts: Cleenseau
+dm_notes: color
+dm_plans: no
 ---
 # Gabriel Thorne
 >[!info]+ Biographical Info  

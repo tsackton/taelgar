@@ -1,7 +1,9 @@
 ---
-tags: [status/stub, status/needswork/internal, person]
+tags: [status/needswork/internal, person]
+dm_notes: none
+dm_plans: no
 ---
 
-%% lord of Dallet; no other details; made the picture for fun  %%
+%% lord of [[Dallet]]; no other details; made the picture for fun  %%
 
 ![[elodie-blanchard.jpg]]

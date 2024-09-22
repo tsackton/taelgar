@@ -7,6 +7,8 @@ ancestry: Sembaran
 gender: male
 whereabouts: Asineau
 affiliations: [{org: Asineau Manor Guard, title: Guardsman}]
+dm_notes: none
+dm_plans: no
 ---
 # Connor
 >[!info]+ Biographical Info  

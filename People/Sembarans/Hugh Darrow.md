@@ -7,6 +7,8 @@ species: human
 ancestry: Sembaran
 gender: male
 whereabouts: Taviose
+dm_notes: none
+dm_plans: no
 ---
 # Hugh Darrow
 >[!info]+ Biographical Info  

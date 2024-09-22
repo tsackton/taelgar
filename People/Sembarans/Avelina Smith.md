@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-campaignInfo: []
 name: Avelina Smith
 born: 1673
 species: human
 ancestry: Zimka
 gender: female
 whereabouts: Cleenseau
+dm_notes: none
+dm_plans: no
 ---
 # Avelina Smith
 >[!info]+ Biographical Info  

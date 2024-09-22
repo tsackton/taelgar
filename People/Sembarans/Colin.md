@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-campaignInfo: []
 name: Colin
 born: 1691
 species: human
@@ -10,6 +9,8 @@ gender: male
 affiliations:
 - {org: Lord's Guard of Cleenseau, title: Guardsman}
 whereabouts: Cleenseau
+dm_notes: none
+dm_plans: no
 ---
 # Colin
 >[!info]+ Biographical Info

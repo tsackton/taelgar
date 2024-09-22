@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 title: Sergeant
-campaignInfo: []
 name: Eveyln Totteridge
 born: 1689
 species: human
@@ -13,6 +12,8 @@ whereabouts:
 - {type: home, location: 'Cleenseau'}
 - {type: away, start: 1719-10-15, end: 1719-10-29, location: 'Bandit''s Way'}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: 'Dunfry'}
+dm_notes: important
+dm_plans: no
 ---
 # Sergeant Eveyln Totteridge
 >[!info]+ Biographical Info  

@@ -9,6 +9,8 @@ gender: male
 whereabouts: Taviose
 born: 1666
 died: 1719-10-21
+dm_notes: none
+dm_plans: no
 ---
 # Denis Moss
 >[!info]+ Biographical Info

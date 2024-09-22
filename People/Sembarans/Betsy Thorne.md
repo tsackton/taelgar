@@ -7,6 +7,8 @@ gender: female
 born: 1697
 whereabouts: Cleenseau
 affiliations: [{org: Lord's Guard of Cleenseau, title: Guardswoman }]
+dm_notes: color
+dm_plans: no
 ---
 # Betsy Thorne
 >[!info]+ Biographical Info  

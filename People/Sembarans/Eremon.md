@@ -12,6 +12,8 @@ whereabouts:
 - {type: home, start: 1719-05-15, location: Cleenseau}
 - {type: away, start: 1720-01-04, end: 1720-01-19, location: travelling to Embry }
 - {type: away, start: 1720-01-20, end: 9999, location: Embry }
+dm_notes: important
+dm_plans: yes
 ---
 # Eremon
 >[!info]+ Biographical Info

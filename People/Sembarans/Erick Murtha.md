@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/active]
+tags: [person]
 name: Erick Murtha
 born: 1671
 species: human
@@ -10,6 +10,8 @@ title: Lord
 affiliations:
 - { place: Manor of Beury }
 whereabouts: Beury
+dm_notes: color
+dm_plans: yes
 ---
 # Lord Erick Murtha
 >[!info]+ Biographical Info  
