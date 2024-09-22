@@ -11,7 +11,7 @@ typeOf: clan
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% copy details from emails to John 
+%% copy details from emails to John Leeker from his Wellby one-shot backstory %%
 
 %%^Date:1748%%
 A hobgoblin clan, recently dominate in parts of Irrla and turning to piracy.
