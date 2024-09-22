@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
-campaignInfo: []
+tags: [person, status/metadata/cleanup]
 name: Jorma
 born: 1716
 species: human
@@ -18,6 +17,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Jorma, a Skaer priest in his early 30s, served as the Priest of the Waters in [[Vetta]]. He was killed by [[Urgall the Black]] in May 1748.
+%% setting metadata/cleanup as ideally want a way to tag campaign info for people that the party didn't meet, but only heard about, but not clear the best way to do this as the location ends up wrong if you use the date the party heard about the person. %%
 
-%% Tim: this was set as status/refactor but not clear why; setting to status/tim %%
+Jorma, a Skaer priest in his early 30s, served as the Priest of the Waters in [[Vetta]]. He was killed by [[Urgall the Black]] in May 1748.
