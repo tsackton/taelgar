@@ -1,9 +1,9 @@
 ---
-tags: [organization, status/needswork/wip, status/tim]
+tags: [organization, status/needswork/wip]
 typeOf: army
 ---
 # Chardonian Legion
 
 The army of the Chardonian Empire.
 
-%% Tim: I am assuming you have details in your head here; there is very little in Obsidian %%
+%% WIP: Tim needs to flesh out various pieces of information in my head and in various DM planning notes %%

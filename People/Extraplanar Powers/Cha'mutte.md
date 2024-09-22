@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/tim]
+tags: [historical, person, status/needswork/wip]
 name: Cha'mutte
 born:
 species: dragon
@@ -13,10 +13,10 @@ died: 1545
 > an elder wyrm (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
+%% needs some updates: should probably capture more information about motives and the backstory of the Great War, and whatever details we remember of Cha'mutte's appearance and form in battle among other things from high school, to at least have consistent things to drop into games where interesting - although of course cha'mutte's appearance varies and is scary enough that people would report variable rumors. also lots of secret notes in various places that could usefully be consolidated, some of which should be listed behind dufr campaign section to capture information the dunmar party has learned but might need a quick way to reference %%
+
 An elder wyrm, one of the original children of the [[Divine Presence]]. 
 
 Sought to overthrow the gods, breaking the order of things that has held since the [[Riving]], freeing the elder races from the binds and power of the Embodied Gods. 
 
 Cha'mutte was defeated by the [[Heroes of the Great War]] at the [[Battle of Urlich Pass]]
-
-%% Tim: I set this as just status/tim as I am not really sure that we need a detailed note here, although obviously you might have either secret stuff to add that relates to his fight with Apollyon or alternatively might want to set the status to wip or external or something to indicate we intend/should include more details here %%
