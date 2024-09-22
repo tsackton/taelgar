@@ -11,6 +11,8 @@ whereabouts:
 - {type: home, location: Ainwick}
 - {type: home, location: Cleenseau }
 - {type: away, location: travelling to Embry, start: 1720-01-03, end: 1720-01-20}
+dm_notes: none
+dm_plans: yes
 ---
 # Annet Bybet
 >[!info]+ Biographical Info  

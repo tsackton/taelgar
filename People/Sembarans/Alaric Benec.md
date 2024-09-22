@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal]
+tags: [person, status/needswork/wip]
 whereabouts: Rinburg
 affiliations: [{org: Rinburg, title: Lord Mayor}]
 species: human
 gender: male
 ancestry: Sembaran
+dm_notes: color
+dm_plans: no
 ---
 # Alaric Benec
 >[!info]+ Biographical Info  

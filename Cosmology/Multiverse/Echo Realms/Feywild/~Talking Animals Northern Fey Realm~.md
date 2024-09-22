@@ -1,8 +1,14 @@
 ---
-tags: [status/needswork/blankslate, status/stub, status/namecheck, place]
+headerVersion: 2023.11.25
+tags: [status/needswork/blankslate, status/namecheck, place]
 typeOf: realm
 whereabouts: Feywild
 ---
+# The ~Talking Animals Northern Fey Realm~
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
 
 %% Largely undefined - may not necessarily exist 
 
