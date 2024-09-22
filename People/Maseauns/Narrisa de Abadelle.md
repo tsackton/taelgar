@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/needswork/external, status/needswork/wip]
 name: Narrisa de Abadelle
 born: 1682
 species: human
@@ -17,6 +17,7 @@ whereabouts: Duchy of Maseau
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%
+need to pull in info from emails and session notes; plus decide what I want to do with her
 other peple
 From Maseau, member of the order of charitable wanderer. trapped in feywild for a year in amberglow
 

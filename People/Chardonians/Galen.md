@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person]
 campaignInfo: 
 - { campaign: DuFr, type: attended his lecture, date: 1748-08-22, format: "<person:u> <met:s> on [[Session 49 (DuFr)|<target>]] <current:3rq>" }
 name: Galen
@@ -23,3 +23,5 @@ A showman, scholar, academic rival of sorts to [[Ulfgar Frostbeard]], and member
 %%^Campaign:DuFr%%
 Had possessed the [[Chalice of the Runepriest]], but sold it to [[Riswynn]] for a large sum of money in [[Session 49 (DuFr)]]. 
 %%^End%%
+
+%% Tim: leaving status blank; update as needed if that is wrong but the note reads as relatively complete to me %%

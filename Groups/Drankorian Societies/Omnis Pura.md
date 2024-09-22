@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/notes]
+tags: [organization, status/tim]
 campaignInfo:
 name:
 typeOf: secret society
@@ -16,3 +16,5 @@ Omnis Pura is a Hkaran supremacist organization dedicated to the proposition tha
 Associated with the winning side of the [[Drankorian Civil War]], and played a prominent role in the later history of the [[Drankorian Empire]]. [[Apollyon]], ithe last Emperor of the [[Drankorian Empire]], was supposedly a supporter. 
 
 Re-emerged in [[Chardon]] some time after the [[Great War]]. 
+
+%% Tim: clearly you might have more secret notes but this feels like a pretty good public page %%

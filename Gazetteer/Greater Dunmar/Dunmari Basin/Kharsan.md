@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/tim]
 displayDefaults: {dPast: ""}
 destroyed: 1545
 ancestry: Dunmari
@@ -15,6 +15,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Tim: not sure how much else needs to be added? %%
 
 Once a major Dunmari city, now a ruin. At one point, was controlled by the undead warrior [[Grash]], until his defeat at the [[Battle for Uzgukhar]]. 
 

@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/internal, status/needswork/external, status/needswork/rethink, species]
+tags: [status/complex, status/needswork/external, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
 ---

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image, status/needswork/notes]
+tags: [person, status/image, status/needswork/external]
 name: Govir
 born: 1708
 species: human

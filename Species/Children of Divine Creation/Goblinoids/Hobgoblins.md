@@ -1,9 +1,8 @@
 ---
-tags: [status/needswork/notes, species, status/unknown]
+tags: [status/complex, species]
 name: Hobgoblins
 aliases: [hobgoblin, Hobgoblin, hobgoblins, Hobgoblins]
 ---
-(stub)
 
 %% notes from Discord
 

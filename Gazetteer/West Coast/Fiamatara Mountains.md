@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/notes, status/namecheck, place]
+tags: [status/tim, status/needswork/internal, status/namecheck, place]
 typeOf: mountain range
 whereabouts: West Coast Region
 ---
@@ -16,4 +16,6 @@ whereabouts: West Coast Region
 - a few random hermits and others live on the mountains now but not otherwise densely inhabited
 - tall enough for glaciers
 %%
+
+%% Tim: not sure if there are more outstanding notes than the block above; tagged internal but you can switch to external if other sources %%
 

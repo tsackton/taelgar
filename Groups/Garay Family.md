@@ -1,9 +1,20 @@
 ---
-tags: [organization/family, status/needswork/notes]
+headerVersion: 2023.11.25
+tags: [organization/family]
 typeOf: family
+typeOfAlias: merchant family
+ancestory: Sembaran
+whereabouts: Embry
 ---
+# The Garay Family
+>[!info]+ Information  
+> A merchant family  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Some material from in-play I need to record here but only minimal canonical information %%
+A wealthy merchant family based in Embry, specializing in cloth.
+
+%% Free to be used for other purposes, but note some of the details on Susanne's page %%
 
 %%^Campaign:None%%
 ### Members

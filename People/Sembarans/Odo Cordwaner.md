@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/notes]
+tags: [person, status/update]
 campaignInfo: [ { campaign: clee }]
 name: Odo Cordwaner
 born: 1700
@@ -30,6 +30,8 @@ Investigation determined that he was not malicious, but just careless. In the ex
 He has since developed a romantic attachment to [[Abigail Moss]], and has come to believe that his mistake was the hand of [[The Warlord]], setting him on a path to find his true calling (and setting the [[Heroes of Cleenseau]] on the path to become heroes).
 
 His family is based in [[Eftly]], but he left home at 18 to join the army, being the youngest of five children and with no interest in farming.
+
+%% See [[The Destruction of Eftly]] for some background information %%
 
 %%^Campaign:None%%
 ### Relationships

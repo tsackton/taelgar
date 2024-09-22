@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/image, status/needswork/notes]
+tags: [person, status/image, status/cleanup/header, status/tim, status/update]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-12-27, type: scryed, format: "<met:U> by <person> in <current:fr!>, on <target>"}
 name: Havdar
@@ -22,7 +22,10 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Scryed by [[Delwath]] in [[Songara]], [[Dunmar]], on December 27th, 1748 %%^End%%
 
-%% still need some work on people in organizations for whereabouts; needs updated image; updated campaign info; updated whereabouts and organization/affiliation info%%
+%% still need some work on people in organizations for whereabouts; needs updated image; updated campaign info; updated whereabouts and organization/affiliation info
+
+Tim: removed notes status and set to just cleanup/header. Feel free to flip back if I am missing stuff.
+%%
 
 Havdar, a brash and confident warrior, made a name for himself as a war leader in [[Eastern Dunmar]], before joining with Nayan [[Sura]] in support of her claim to the leadership of the Dunmari people. 
 ## Overview

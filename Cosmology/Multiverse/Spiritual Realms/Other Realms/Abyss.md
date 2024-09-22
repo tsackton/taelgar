@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork]
+tags: [place, status/needswork/rethink]
 whereabouts: Spiritual Realms
 typeOf: plane
 ---
@@ -11,3 +11,4 @@ typeOf: plane
 
 The realm of corruption and chaos, home of demons. 
 
+%% Clearly exists but needs some work to define based on the conception of how the outer planes work %%

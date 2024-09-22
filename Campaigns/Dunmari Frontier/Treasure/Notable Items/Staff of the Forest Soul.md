@@ -1,5 +1,5 @@
 ---
-tags: [item/magical, status/needswork]
+tags: [item/magical]
 typeOf: staff
 whereabouts: Kenzo
 rarity: unique

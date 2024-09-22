@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/needswork/notes]
+tags: [event, status/complex]
 ---
 # The Great War
 

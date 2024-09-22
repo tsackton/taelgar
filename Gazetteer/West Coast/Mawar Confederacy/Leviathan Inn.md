@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/notes]
+tags: [place, status/needswork/external]
 name: Leviathan Inn
 typeOf: inn
 whereabouts: Hamri

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/unknown]
+tags: [historical, person/ruler]
 campaignInfo: []
 name: Jane of Tollen
 born: 1504

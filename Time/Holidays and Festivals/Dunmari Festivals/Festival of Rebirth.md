@@ -1,10 +1,10 @@
 ---
-tags: [holiday, status/needswork/notes]
-campaignInfo: []
+tags: [holiday, status/tim]
 name: Festival of Rebirth
 fc-date: 1748-4-6
 ---
 # The Festival of Rebirth
+%% Tim: not clear if anything is missing %%
 
 [[Jeevali]]'s Feast Day. Celebrated on the first full moon after the vernal equinox, marking the beginning of summer. 
 

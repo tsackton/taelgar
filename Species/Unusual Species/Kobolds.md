@@ -1,5 +1,5 @@
 ---
-tags: [species, status/unknown]
+tags: [species, status/needswork/rethink]
 ---
 # Kobolds
 
