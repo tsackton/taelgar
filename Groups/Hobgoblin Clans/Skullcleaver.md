@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/tim, organization]
+tags: [status/tim, organization, status/needswork/external]
 ancestry: hobgoblin
 whereabouts: Irrla
 typeOf: clan
@@ -10,6 +10,8 @@ typeOf: clan
 > A [[Hobgoblins|hobgoblin]] clan  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% copy details from emails to John 
 
 %%^Date:1748%%
 A hobgoblin clan, recently dominate in parts of Irrla and turning to piracy.

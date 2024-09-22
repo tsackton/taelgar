@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/update, status/tim]
+tags: [person, testcase, status/update, status/needswork/external]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned , format: "<met:U> by <person:Q> on <target>, in <current:3Qr>"}
 name: Antonia
@@ -25,6 +25,8 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Imprisoned by the [[Dunmar Fellowship]] on December 8th, 1748, in the [[Mirror of Soul Trapping]], [[Uzgukhar]], [[Xurkhaz]] %%^End%%
 
+%% update to reflect events in DuFr game; copy notes from OneNote %%
+
 ![[antonia-portrait.jpg|right|320]]A lanky, red-haired Chardonian woman, wearing a probably-magical heavy suit of plate armor that seems perfectly molded to fit her body. 
 
 %%^Campaign:DuFr%%
@@ -34,5 +36,3 @@ As far as you know, still traveling with [[Kadmos]].
 %%^End%%
 
 %%SECRET[1]%%
-
-%% Tim: this had status/notes but I'm not sure if that is accurate at this point. I added status/update as it clearly doesn't reflect revelations from DuFr game. %%

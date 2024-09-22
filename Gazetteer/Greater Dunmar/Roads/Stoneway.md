@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/external]
 displayDefaults: {linkText: "on", ltPlace: "on", defArt: "the"}
 typeOf: road
 whereabouts: Dunmar
@@ -9,6 +9,8 @@ whereabouts: Dunmar
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% some notes on features along the road that probably aren't worth their own pages but would be nice to record in OneNote %%
 
 The Stoneway is the Dunmari name for the ancient Drankorian road that once connected [[Chardon]] and [[Isingue]]. It is wide enough for two wagons to pass, paved with massive, smooth stones, with drainage ditches on both sides for almost its entire length. It is heavily traveled for much of its length and serves as a key linkage between [[Karawa]] and [[Eastern Dunmar]], [[Tokra]], and [[Songara]], especially during the monsoons when mud and rain can make passage overland across the plains difficult at times. 
 
