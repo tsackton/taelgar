@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest, status/needswork/external]
+tags: [person, pc/guest, status/needswork/shared]
 name: Caulaus
 born:
 species: human

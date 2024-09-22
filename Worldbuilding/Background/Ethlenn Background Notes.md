@@ -1,7 +1,8 @@
 ---
-tags: [background, status/needswork/external]
+tags: [background, status/needswork/shared, status/mike]
 ---
 
+%%tagging status/mike in case there are additional, non-shared information in your DM notes or elsewhere; if so can add status/needswork/external or add them below%%
 ### Ethlenn and Umbraeth
 
 Umbraeth was originally a powerful courtier in Ethlenn's court - probably an archfey, but a weaker one. His nature is chaotic and deceitful, but he loved the glimmer and elegance of Twilight's Grace.

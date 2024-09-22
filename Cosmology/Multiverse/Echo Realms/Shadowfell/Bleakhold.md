@@ -13,6 +13,6 @@ name: Bleakhold
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The dismal Dwarven village in the [[Shadowfell]] domain of [[Morkalan]]. 
+%% copy notes from OneNote / Riswynn solo adventure %%
 
-%% Tim: I assume there are some external notes you have from the one-shot that was here %%
+The dismal Dwarven village in the [[Shadowfell]] domain of [[Morkalan]]. 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/inernal, status/tim]
+tags: [place, status/needswork/internal, status/tim]
 name: Rostaurë
 pronunciation: ROS-tow-reh
 aliases: [Rostaurë]

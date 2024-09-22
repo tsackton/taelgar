@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/needswork/external]
+tags: [person, status/metadata/header, status/needswork/external]
 campaignInfo:
 - {campaign: DuFr, date: 1748-10-23, type: met}
 name: Dain Goldhammer

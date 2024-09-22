@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/image]
+tags: [deity, religion/mosnumena, status/metadata/image]
 gender: male
 ---
 # The Father

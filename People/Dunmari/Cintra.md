@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/update, status/image]
+tags: [person, status/needswork/external, status/update, status/metadata/image]
 campaignInfo:
 name: Cintra
 born: 1705
@@ -16,6 +16,8 @@ whereabouts: Karawa
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% copy notes from OneNote %%
 
 Supreme Oracle of Shakun.
 

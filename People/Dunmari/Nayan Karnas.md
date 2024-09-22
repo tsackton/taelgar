@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person/ruler, person, status/needswork/internal, status/cleanup/header]
+tags: [person/ruler, person, status/needswork/internal, status/metadata/header]
 campaignInfo: []
 name: Nayan Karnas
 aliases: [Karnas]

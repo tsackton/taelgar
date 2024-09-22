@@ -11,4 +11,4 @@ whereabouts: Addermarch
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% add details from original plaguelands campaign %%
+%% add details from original plaguelands campaign from OneNote %%

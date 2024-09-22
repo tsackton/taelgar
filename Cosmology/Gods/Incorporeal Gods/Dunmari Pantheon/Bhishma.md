@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/needswork/wip, status/image]
+tags: [deity, religion/fivesiblings, status/needswork/wip, status/metadata/image]
 pronunciation: BHEESH-ma
 name: Bhishma
 gender: female
