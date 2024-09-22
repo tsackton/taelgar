@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/needswork/wip, status/tim, status/cleanup/header]
+tags: [organization, status/needswork/wip, status/tim, status/metadata/header]
 displayDefaults: {defArt: ""}
 campaignInfo:
 name:

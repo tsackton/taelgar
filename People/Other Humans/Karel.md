@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update/header]
+tags: [person, status/metadata/header]
 ancestry: Urskan
 species: human
 gender: male

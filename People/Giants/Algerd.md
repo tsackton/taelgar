@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/header, status/image, person]
+tags: [status/metadata/header, status/metadata/image, person]
 species: giant
 subspecies: frost
 whereabouts: Vindristjarna

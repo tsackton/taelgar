@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/header, status/needswork/internal]
+tags: [place, status/metadata/header, status/needswork/internal]
 campaignInfo: []
 name: Kin-Aska
 typeOf: settlement

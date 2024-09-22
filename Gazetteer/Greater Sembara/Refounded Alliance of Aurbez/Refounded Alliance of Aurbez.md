@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/needswork/external]
+tags: [place, status/needswork/internal, status/needswork/shared, status/mike]
 name: Refounded Alliance of Aurbez
 typeOf: realm
 whereabouts: Greater Sembara
@@ -9,6 +9,8 @@ whereabouts: Greater Sembara
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% adding status/mike in case there are additional non-shared notes to incorporate %%
 
 %%
 

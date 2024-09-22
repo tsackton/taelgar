@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip, status/needswork/external]
+tags: [place, status/needswork/external]
 partOf: Chardonian Empire
 typeOf: region
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup/reformat]
+tags: [source, status/needswork/rewrite]
 ---
 
 %%need to refactor this into a proper source, and move secrets/other details to the actual Drankorian history page%%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/needswork/external, status/needswork/wip, status/image]
+tags: [place, status/needswork/internal, status/needswork/external, status/needswork/wip, status/metadata/image]
 name: Chardon
 typeOf: city
 whereabouts: Chardonian Empire

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/tim, status/image]
+tags: [deity, religion/fivesiblings, status/tim, status/metadata/image]
 gender: male
 affiliations: [{org: Five Siblings, title: Deity }]
 pronunciation: AA-gir

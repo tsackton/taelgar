@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/refactor, status/cleanup/header]
+tags: [person, status/metadata/refactor, status/metadata/header]
 campaignInfo: []
 name: Crispus
 born: 1697

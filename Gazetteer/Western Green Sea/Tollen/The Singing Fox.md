@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/image]
+tags: [place, status/metadata/image]
 displayDefaults: {defArt: '', linkText: "at"}
 campaignInfo: []
 name: The Singing Fox

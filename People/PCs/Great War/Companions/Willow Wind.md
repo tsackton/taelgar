@@ -1,5 +1,5 @@
 ---
-tags: [pc/companion, pc, person, status/needswork/external]
+tags: [pc/companion, pc, person, status/needswork/shared]
 name: Willow Wind
 species: fox
 ancestry: spirit

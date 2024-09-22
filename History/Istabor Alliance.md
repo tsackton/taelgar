@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external, historical]
+tags: [place, status/needswork/shared, historical]
 name: Istabor Alliance
 ---
 # The Istabor Alliance

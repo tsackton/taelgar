@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/cleanup/header, status/image]
+tags: [person, status/needswork/external, status/metadata/header, status/metadata/image]
 campaignInfo: []
 name: Roscelia
 born: 1677

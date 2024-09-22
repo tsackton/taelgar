@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/needswork/external]
+tags: [pc, person, pc/guest, status/needswork/shared]
 campaignInfo:
 name: Artem Novolozek
 born:

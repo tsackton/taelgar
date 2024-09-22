@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 typeOf: mirror
 subTypeOf: magical
-tags: [item, status/cleanup/refactor]
+tags: [item, status/metadata/refactor]
 whereabouts:
 - {type: home, location: unknown hobgoblin wizard, linkText: by an }
 - {type: home, location: dufr}

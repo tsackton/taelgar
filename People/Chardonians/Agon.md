@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/refactor]
+tags: [person, status/metadata/refactor]
 name: Agon
 born: 1694
 activeYear: 1745
