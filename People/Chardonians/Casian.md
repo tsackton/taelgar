@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/needswork/external, status/metadata/header, status/cleanup/rewrite, status/update]
+tags: [event-source, person, status/needswork/external, status/metadata/header, status/cleanup/internal, status/update]
 campaignInfo: []
 name: Casian
 born: 1722
@@ -12,6 +12,8 @@ affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, start: 1722,  location: 'Chardon'}
 - {type: away, start: 1748-11-23, end: '', prefix: somewhere in, location: 'Dunmar'}
+dm_notes: important
+dm_plans: yes
 ---
 # Casian
 >[!info]+ Biographical Info

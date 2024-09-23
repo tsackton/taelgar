@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/metadata/header, status/cleanup/rewrite]
+tags: [person, status/needswork/external, status/metadata/header, status/cleanup/internal]
 campaignInfo: 
 - {campaign: dufr, person: Delwath, date: 1748-10-23, type: scryed}
 name: Marcella
@@ -11,6 +11,8 @@ gender: female
 whereabouts:
 - {type: home, end: 1748-07-01, location: Chardon} #end is approx
 - {type: away, start: 1748-10-23, location: Ausson's Crossing, wLastKnown: ""}
+dm_notes: important
+dm_plans: yes
 ---
 # Marcella
 >[!info]+ Biographical Info
@@ -21,6 +23,7 @@ whereabouts:
 
 %% need to fix whereabouts, campaign info, away dates %%
 %% fix text to change session links %%
+%% might resurface if dunmar group ever goes to Aurbez area %%
 
 A nondescript Chardonian woman, short brown hair and a plain face. An archer, skilled with a bow, wears well-tended leather armor under a traveling cloak. 
 
