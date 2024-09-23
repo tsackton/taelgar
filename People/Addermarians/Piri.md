@@ -1,12 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/metadata/header, status/cleanup/external]
 ancestry: Addermarian
 gender: male
 species: human
+whereabouts: 
+- {type: home, location: Valcroix}
+- {type: away, location: Torvaine Watch}
+dm_notes: color
+dm_plans: no
 ---
 # Piri
 >[!info]+ Biographical Info  
-> An Addermarian hum (he/him)
+> An Addermarian [[Humans|human]] (he/him)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% [[Torvaine Watch]] %%
+%% killed by the soldier who found the [[Serpentine Dagger]] at [[Torvaine Watch]] %%

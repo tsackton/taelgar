@@ -15,6 +15,8 @@ whereabouts:
 - {type: away, start: 1748-11-10, location: Dunmar}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping }
 - {type: home, location: Chardon}
+dm_notes: important
+dm_plans: yes
 ---
 # Antonia
 *(An-ton-ia)*
