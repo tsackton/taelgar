@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [person]
 displayDefaults: {endStatus: murdered by bandits}
-campaignInfo: []
 name: Gentza
 born: 1681
 species: lizardfolk
@@ -10,6 +9,8 @@ gender: female
 died: 1719-10-27
 whereabouts:
 - {type: home, location: Ganboa}
+dm_notes: color
+dm_plans: no
 ---
 # Gentza
 >[!info]+ Biographical Info

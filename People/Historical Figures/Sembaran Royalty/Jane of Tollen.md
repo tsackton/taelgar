@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler]
+tags: [historical, person/ruler, status/needswork/internal]
 campaignInfo: []
 name: Jane of Tollen
 born: 1504
@@ -14,6 +14,8 @@ leaderOf:
 - {place: Lavnoch, title: Queen Regent, end: 1555}
 - {place: Breva, title: Queen Regent, end: 1555}
 died: 1559
+dm_notes: none
+dm_plans: no
 ---
 # Jane of Tollen
 >[!info]+ Biographical Info  

@@ -8,6 +8,8 @@ ancestry: Sembaran
 gender: male
 died: 1562
 affiliations: [{org: House of Wisenfold, type: primary} ]
+dm_notes: none
+dm_plans: no
 ---
 # Hugh
 >[!info]+ Biographical Info
@@ -15,7 +17,7 @@ affiliations: [{org: House of Wisenfold, type: primary} ]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The founder of the [[House of Wisenfold]], an important cadet branch of the royal Sembaran line, now based in the [[Duchy of Wisford]]]]. The second child of [[Derik III]] and [[Sarabet]].
+The founder of the [[House of Wisenfold]], an important cadet branch of the royal Sembaran line, now based in the [[Duchy of Wisford]]. The second child of [[Derik III]] and [[Sarabet]].
 
 %% 
 No canonical details exist, just exists for color in the Sembaran line of succession

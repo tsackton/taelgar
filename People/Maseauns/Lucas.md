@@ -7,6 +7,8 @@ species: human
 ancestry: Maseuan
 gender: male
 whereabouts: Evis
+dm_notes: none
+dm_plans: no
 ---
 # Lucas
 >[!info]+ Biographical Info  

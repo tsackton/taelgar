@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [historical, person]
-campaignInfo: []
 name: Morgaine
 born: 1600
 species: human
@@ -12,6 +11,8 @@ died: 1713
 affiliations: 
 - {org: House of Lils, type: primary}
 - {org: Oracle of the Riven, title: the Oracle of the Red, start: 1633}
+dm_notes: none
+dm_plans: no
 ---
 # Morgaine
 >[!info]+ Biographical Info

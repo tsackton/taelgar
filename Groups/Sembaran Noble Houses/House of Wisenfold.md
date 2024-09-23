@@ -1,6 +1,8 @@
 ---
-tags: [organization, status/needswork]
+tags: [organization, status/needswork/internal]
 typeOf: family
+dm_notes: none
+dm_plans: no
 ---
 
 %%^Campaign:None%%

@@ -1,5 +1,5 @@
 ---
-tags: [event, status/needswork/internal]
+tags: [event, status/needswork/external]
 campaignInfo: []
 name: Zombie Plague in Cleenseau
 DR: 1720-01-06
@@ -9,4 +9,6 @@ DR: 1720-01-06
 %% 
 Zombie baby  and deaths: Cedric (died) Oudine (died) Beatrix  (miscarried)
 Should this be an event page? Update from session notes
+
+Session notes
 %%

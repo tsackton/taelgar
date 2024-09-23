@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 DR: 1719-11-03
 ---
 # The Attempted Poisoning of Cleenseau

@@ -10,6 +10,8 @@ whereabouts:
 - {type: home, location: Evis}
 - {type: away, location: "Wakog's Camp", start: 1719-10-14, end: 1719-12-05}
 - {type: home, start: 1719-12-06, location: Cleenseau}
+dm_notes: none
+dm_plans: yes
 ---
 # Balthazar
 >[!info]+ Biographical Info  

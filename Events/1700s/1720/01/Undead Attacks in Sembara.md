@@ -1,5 +1,5 @@
 ---
-tags: [event, status/unknown]
+tags: [event, status/needswork/external]
 campaignInfo: []
 name: Zombie Plague in Cleenseau
 DR: 1720-01-05

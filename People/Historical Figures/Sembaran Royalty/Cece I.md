@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler]
+tags: [historical, person/ruler, status/needswork/internal]
 name: Cece I
 born: 1628
 species: human
@@ -13,6 +13,8 @@ leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
+dm_notes: color
+dm_plans: no
 ---
 # Queen Cece I
 >[!info]+ Biographical Info  

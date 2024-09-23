@@ -10,6 +10,8 @@ species: human
 aliases: [Adèle Laurent]
 ancestry: Isinguer
 gender: female
+dm_notes: none
+dm_plans: no
 ---
 # Adèle Laurent
 >[!info]+ Biographical Info  
@@ -17,3 +19,5 @@ gender: female
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Exists just for the Report on the Bogblight and to be a name %%

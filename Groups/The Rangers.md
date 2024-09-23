@@ -5,6 +5,8 @@ displayDefaults: {defArt: '', boxInfo: ""}
 name: The Rangers
 typeOf: army
 whereabouts: Greater Sembara
+dm_notes: none
+dm_plans: no
 ---
 # The Rangers
 >[!info]+ Information  
@@ -15,6 +17,13 @@ whereabouts: Greater Sembara
 
 The Rangers are a loose collection of wanders, warriors, scouts, and others dedicated to keeping dark things from peaceful villages, and keeping the ways between towns safe. There is no formal leadership, by many look to Johanne the Younger, of [[Valarin]] for guidance. Small groups, or individual Rangers, are often seen on the Dunmari Road, keeping it safe for trade, or scouting the edges of the Plaguelands or the [[Darkwood]] near Addermarch. Many Rangers look to Beryl - once a hero, now a constellation and demi-god, the [[Fox and Hunter]] - for inspiration and comfort. In the frontier, of [[Duchy of Maseau|Maseau]], the Aurbez, and other places along the Plaguelands, Rangers often are the ones trying to keep the peace. 
 
+%% Cleenseau notes:
+
+The Rangers have not come up much; but they have been established as being vaguely based in the "south" (Maseau/Addermarch) much more than Sembara, although with some presence along the Enst valley. And they have enough of a communications network that they came north to help with the undead attacks in several groups
+
+The [[Report on the Bogblight]] has some in world vibes about the rangers as well, they seem to have had  an extra-special concern about other worldly dangers, although conceptually that could have just be [[Vahaiya]]
+
+%%
 
 %%^Campaign:None%%
 ### Members

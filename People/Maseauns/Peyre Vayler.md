@@ -9,6 +9,8 @@ gender: male
 whereabouts: Evis
 title: Lord
 affiliations: [{org: Evis, type: leader}]
+dm_notes: none
+dm_plans: no
 ---
 # Lord Peyre Vayler
 >[!info]+ Biographical Info  

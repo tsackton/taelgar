@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/army]
+tags: [organization/army, status/update]
 campaignInfo: []
 displayDefaults: {partOf: 'part of <partof>', boxInfo: ''}
 name: Army of the West
 typeOf: army
 partOf: Sembaran Army
+dm_notes: important
+dm_plans: yes
 ---
 # The Army of the West
 >[!info]+ Information
 > part of the [[Sembaran Army]], [[Sembara]]
 
+%% Update in aftermath of Undead Attacks %%
 The Army of the West numbers 4,000 soldiers, divided into a North Watch, Center Watch, and South Watch. The South Watch is the largest at 1,600 soldiers; the North and Center Watches are 1,200 soldiers each. Each watch is in turn divided into two regiments, for a total of six regiments. The Army of the West is commanded by [[General Ilsa Lemoine]], and each watch is commanded by a colonel, and each regiment by a major.
 
 Beneath the regimental level there are either companies, commanded by a captain, usually of 100 soldiers, or garrisons, also commanded  by a captain, of varying sizes.

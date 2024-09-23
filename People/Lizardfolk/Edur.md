@@ -12,6 +12,8 @@ died: 1719-10-19
 whereabouts:
 - {type: home, location: Ganboa}
 - {type: away, start: 1719-10-19, location: Cleenseau Wood}
+dm_notes: none
+dm_plans: no
 ---
 # Edur
 >[!info]+ Biographical Info  

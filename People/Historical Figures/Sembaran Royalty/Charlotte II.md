@@ -12,6 +12,8 @@ affiliations:
 - {place: Sembara, start: 1648-10}
 - {place: Tyrwingha, start: 1648-10}
 - {org: House of Sewick, type: primary }
+dm_notes: none
+dm_plans: no
 ---
 # Queen Charlotte II
 >[!info]+ Biographical Info

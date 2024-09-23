@@ -8,6 +8,8 @@ ancestry: Sembaran
 gender: male
 died: 1518
 affiliations: [{org: House of Sewick, type: primary}]
+dm_notes: none
+dm_plans: no
 ---
 # Hugh of Sewick
 >[!info]+ Biographical Info

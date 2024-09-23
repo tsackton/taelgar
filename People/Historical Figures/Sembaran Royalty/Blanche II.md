@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler]
+tags: [historical, person/ruler, status/needswork/internal]
 name: Blanche II
 born: 1570
 species: human
@@ -13,6 +13,8 @@ leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
+dm_notes: none
+dm_plans: no
 ---
 # Queen Blanche II
 >[!info]+ Biographical Info  
@@ -22,5 +24,5 @@ affiliations: [House of Sewick]
 
 The second child of [[Elaine I]] and [[Cynan]]. Her son, [[Arryn II]], succeeds her to the united crowns.
 
-%% dies in childbirth by why didn't magic save her? %%
+%%  She dies in childbirth by why didn't magic save her? Pull info from timeline and other notes %%
 

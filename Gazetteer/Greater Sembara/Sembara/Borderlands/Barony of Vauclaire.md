@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/blankslate]
+tags: [place]
 whereabouts: Borderlands
 typeOf: barony
 pronunciation: Voh-klair
+dm_notes: none
+dm_plans: no
 ---
 # The Barony of Vauclaire
 *(Voh-klair)*

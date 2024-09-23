@@ -6,6 +6,8 @@ species: ogre
 gender: male
 died: 1719-12-06
 whereabouts: Wakog's Camp
+dm_notes: color
+dm_plans: no
 ---
 # Wakog
 >[!info]+ Biographical Info  
@@ -17,3 +19,5 @@ whereabouts: Wakog's Camp
 %%^Date:1719-10-30%%
 Managed to organize a small horde of orcs in the northern parts of the [[Duchy of Maseau]], and attempted to overrun [[Cleenseau]], but was stopped by the [[Heroes of Cleenseau]].
 %%^End%%
+
+%% Most of the color is in [[Guy de Varan's Story]] %%

@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/needswork/external, status/active]
+tags: [place, status/needswork/shared]
 whereabouts: Feywild
 typeOf: realm
 excludePublish: ["clee"]
+dm_notes: color
+dm_plans: yes
 ---
 # Duskmire
 >[!info]+ Information  

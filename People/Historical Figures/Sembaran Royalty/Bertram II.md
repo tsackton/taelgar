@@ -15,6 +15,8 @@ leaderOf:
 - {place: Lavnoch, title: High King}
 - {place: Breva, title: High King}
 affiliations: [House of Sewick]
+dm_notes: none
+dm_plans: no
 ---
 # King Bertram II
 >[!info]+ Biographical Info  

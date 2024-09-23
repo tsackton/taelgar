@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/header]
 name: Enzo Brightwood
 born:
 species: halfling
@@ -10,6 +10,8 @@ affiliations: [{org: Brightwoods, type: primary}, {org: The Rangers }]
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
+dm_notes: none
+dm_plans: yes
 ---
 # Enzo Brightwood
 >[!info]+ Biographical Info  
@@ -20,3 +22,5 @@ whereabouts:
 ![[enzo-brightwood.png|right|400]]A skirmisher and scout. Young, to be on the road. Cousin of [[Adra Brightwood]].
 
 %% Meta 3rd  level rogue scout %%
+
+%% need to fix whereabouts; he is with Adra and Damien %%

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
-campaignInfo: []
+tags: [event]
 name: Tragic Flood of the River Enst
 DR: 1719-10-16
 ---
