@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external]
+tags: [person]
 name: Susanne Garay
 born: 1666
 species: human
@@ -8,6 +8,8 @@ ancestry: Sembaran
 gender: female
 whereabouts: Embry
 affiliations: [{ org: Garay Family, title: Matriarch }]
+dm_notes: color
+dm_plans: yes
 ---
 # Susanne Garay
 >[!info]+ Biographical Info  

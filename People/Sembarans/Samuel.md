@@ -9,6 +9,8 @@ gender: male
 whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Kitchen Boy}
+dm_notes: none
+dm_plans: no
 ---
 # Samuel
 >[!info]+ Biographical Info  

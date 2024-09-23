@@ -12,6 +12,8 @@ affiliations:
 - { org: Lord's Guard of Cleenseau, title: Sheriff }
 whereabouts:
 - {type: home, location: Cleenseau}
+dm_notes: color
+dm_plans: no
 ---
 # Ysabel
 >[!info]+ Biographical Info

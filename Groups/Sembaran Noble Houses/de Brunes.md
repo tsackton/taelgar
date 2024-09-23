@@ -1,19 +1,6 @@
 ---
-headerVersion: 2023.11.25
-tags: [status/needswork/internal, organization]
-dm_notes: color
-dm_plans: no
-typeOf: clan
-ancestry: dwarven
-whereabouts: Barony of Aveil
+tags: [organization, status/stub]
 ---
-# Ferrystones
->[!info]+ Information  
-> A [[Dwarves|dwarven]] clan  
-> `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% dwarven clan in Rinburg and Aslain, known for their work building with recovered stones from  ruins %%
 
 %%^Campaign:None%%
 ### Current Members

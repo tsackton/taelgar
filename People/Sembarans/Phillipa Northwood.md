@@ -6,6 +6,8 @@ whereabouts: Taviose
 gender: female
 species: human
 ancestry: Sembaran
+dm_plans: no
+dm_notes: color
 ---
 # Phillipa Northwood
 >[!info]+ Biographical Info  

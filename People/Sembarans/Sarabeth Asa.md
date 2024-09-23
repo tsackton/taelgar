@@ -1,5 +1,7 @@
 ---
-tags: [person, status/needswork/external, status/stub]
+tags: [person, status/needswork/wip]
+dm_notes: important
+dm_plans: yes
 ---
 
 %%

@@ -7,6 +7,8 @@ born: 1659
 gender: male
 image: ![[simon-of-cranford.png]]
 whereabouts: Cranford
+dm_notes: color
+dm_plans: no
 ---
 # Simon of Cranford
 >[!info]+ Biographical Info  

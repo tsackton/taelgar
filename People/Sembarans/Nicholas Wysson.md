@@ -11,6 +11,8 @@ affiliations:
 whereabouts: 
 - {type: home, location: Rinburg }
 - {type: home, start: 1719-04-15, location: Cleenseau }
+dm_plans: no
+dm_notes: color
 ---
 # Nicholas Wysson
 >[!info]+ Biographical Info  
