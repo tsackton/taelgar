@@ -1,5 +1,5 @@
 ---
-tags: [status/cleanup/header, organization, status/cleanup/internal]
+tags: [status/metadata/header, organization, status/cleanup/internal]
 displayDefaults: {defArt: "the" }
 dm_notes: none
 dm_plans: yes
