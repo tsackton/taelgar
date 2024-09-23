@@ -6,6 +6,8 @@ whereabouts: Cleenseau
 species: human
 ancestry: Sembaran
 gender: male
+dm_notes: none
+dm_plans: no
 ---
 # Walter of Cleenseau
 >[!info]+ Biographical Info  

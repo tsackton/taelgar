@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 gender: male
 species: human
 ancestry: Sembaran
@@ -8,6 +8,8 @@ whereabouts:
 - {type: home, location: Barony of Brumecliff, end: 1 }
 - {type: home, location: Army of the South }
 - {type: away, location: Cleenseau, start: 1720-01-26, end: 1720-02-15 }
+dm_notes: color
+dm_plans: no
 ---
 # Rene Dubois
 >[!info]+ Biographical Info  

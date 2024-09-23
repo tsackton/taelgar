@@ -1,5 +1,7 @@
 ---
-tags: [person, status/stub, status/needswork/external, status/needswork/internal, status/mike]
+tags: [person, status/needswork/internal, status/cleanup/header]
+dm_notes: color
+dm_plans: no
 ---
 
 ![[william-forester-aveil.png|left|200]]
@@ -7,7 +9,7 @@ tags: [person, status/stub, status/needswork/external, status/needswork/internal
 A lumberjack and leading person in [[Ashcombe]]
 
 %% Notes from session
-[[William Forester]], one of the main lumberjacks, and effectively the steward/"union boss", who is still upset about his missing husband. He is caring but a bit headstrong.
+one of the main lumberjacks in ashcombe, and effectively the steward/"union boss", who is still upset about his missing husband. He is caring but a bit headstrong.
 
 His husband taken by fey; leading figure in the aftermath; some more notes in my email
 %%

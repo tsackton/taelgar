@@ -7,6 +7,8 @@ ancestry: Sembaran
 born: 1684
 gender: male
 pronunciation: Tee-eh-ree
+dm_notes: color
+dm_plans: no
 ---
 # Thierry
 *(Tee-eh-ree)*

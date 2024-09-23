@@ -6,6 +6,8 @@ gender: female
 born: 1689
 species: human
 ancestry: Sembaran
+dm_notes: none
+dm_plans: no
 ---
 # Yvette
 >[!info]+ Biographical Info  

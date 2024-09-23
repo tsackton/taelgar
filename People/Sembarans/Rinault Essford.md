@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/update]
 name: Rinault Essford
 born: 1688
 species: human
@@ -11,6 +11,8 @@ title: Lord
 whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Heir, type: primary }
+dm_notes: color
+dm_plans: yes
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Info

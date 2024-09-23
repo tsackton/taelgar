@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/active]
+tags: [person, status/needswork/shared]
 name: Lord Umbraeth
 excludePublish: ["clee"]
 species: fey
@@ -10,6 +10,8 @@ affiliations: [{org: Duskmire, type: leader, title: Master}]
 whereabouts:
 - {type: home, location: Twilight's Grace}
 - {type: home, location: Duskmire}
+dm_notes: color
+dm_plans: yes
 ---
 # Lord Umbraeth
 >[!info]+ Biographical Info  

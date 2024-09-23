@@ -13,6 +13,8 @@ affiliations:
 - { place: Cleenseau, start: 1689 }
 - { org: Essords, type: primary }
 whereabouts: Cleenseau
+dm_notes: color
+dm_plans: yes
 ---
 # Lord Wymar Essford
 >[!info]+ Biographical Info

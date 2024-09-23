@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-campaignInfo: []
+tags: [person]
 name: Tal
 born:
 species: human
@@ -10,6 +9,8 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: 1716, location: Embry}
 - {type: away, start: 1716, end: '', prefix: somewhere on, location: Semb}
+dm_notes: color
+dm_plans: yes
 ---
 # Tal
 >[!info]+ Biographical Info  

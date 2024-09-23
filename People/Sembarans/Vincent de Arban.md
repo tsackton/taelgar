@@ -12,6 +12,8 @@ affiliations: [{org: Garay Family, type: primary}]
 whereabouts:
 - {type: home, location: Embry}
 - {type: away, start: 1719-11-07, end: 1719-11-22, location: Cleenseau}
+dm_notes: none
+dm_plans: no
 ---
 # Vincent de Arban
 >[!info]+ Biographical Info  
