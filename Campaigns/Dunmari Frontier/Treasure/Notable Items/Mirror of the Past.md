@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item, item/magical, status/needswork/rewrite]
+tags: [item, item/magical, status/cleanup/rewrite]
 typeOf: mirror
 name: Mirror of the Past
 title: Eudomes'
