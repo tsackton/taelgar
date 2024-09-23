@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/active]
+tags: [person]
 whereabouts: 
 - { type: home, location: Rinburg }
 - { type: home, location: Veltor }
@@ -10,6 +10,8 @@ ancestry: Sembaran
 pronunciation: mahr-guh-REET deh-SHAHN
 affiliations:
 - { org: Barony of Aveil, start: 1719-05, type: Chief Clerk}
+dm_notes: important
+dm_plans: yes
 ---
 # Marguerite Deschamps
 *(mahr-guh-REET deh-SHAHN)*

@@ -1,5 +1,7 @@
 ---
-tags: [person, status/stub]
+tags: [person, status/needswork/wip]
+dm_notes: color
+dm_plans: yes
 ---
 
 ![[juliana-westby.png|left|200]]
