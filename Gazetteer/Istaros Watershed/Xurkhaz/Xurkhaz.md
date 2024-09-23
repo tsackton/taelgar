@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/needswork/rewrite]
+tags: [place, status/needswork/internal, status/cleanup/rewrite]
 name: Xurkhaz
 created: 1583
 typeOf: realm

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header, status/needswork/rewrite]
+tags: [person, status/metadata/header, status/cleanup/rewrite]
 campaignInfo: []
 name: Drusa
 born: 1711
