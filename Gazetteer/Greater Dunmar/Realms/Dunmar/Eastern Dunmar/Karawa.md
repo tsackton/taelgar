@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/rewrite]
+tags: [place, status/cleanup/internal]
 name: Karawa
 typeOf: town
 whereabouts: Eastern Dunmar

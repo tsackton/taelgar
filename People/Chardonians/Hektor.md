@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header, status/cleanup/rewrite, status/needswork/external]
+tags: [person, status/metadata/header, status/cleanup/internal, status/needswork/external]
 campaignInfo: []
 name: Hektor
 born: 1726
@@ -10,6 +10,8 @@ gender: male
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
+dm_notes: important
+dm_plans: yes
 ---
 # Hektor
 >[!info]+ Biographical Info  
