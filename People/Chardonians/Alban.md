@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/metadata/header]
 campaignInfo:
 - {campaign: dufr, date: 1748-04-15, type: grave discovered}
 name: Alban
@@ -15,6 +15,8 @@ whereabouts:
 - {type: away, start: 1747-12-23, end: 1748-02-02, prefix: traveling in, location: Yeraad River Basin}
 - {type: away, start: 1748-02-02, end: 1748-03-13, prefix: traveling in, location: Dunmar}
 - {type: away, start: 1748-03-13, end: 9999, location: Stormcaller Tower}
+dm_notes: color
+dm_plans: no
 ---
 # Alban
 >[!info]+ Biographical Info  
@@ -23,6 +25,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Grave discovered by the [[Dunmar Fellowship]] on April 15th, 1748 in [[Stormcaller Tower]], [[Eastern Dunmar]], [[Dunmar]] %%^End%%
+
+%% some minor canonical locations in late 1747 - mid 1748 not captured completely in whereabouts %%
 
 An adventurer associated with the [[Society of the Open Scroll]]. 
 

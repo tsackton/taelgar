@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/cleanup/external, status/metadata/header]
 species: human
 gender: male
 title: Marshal
 ancestry: Addermarian
+dm_notes: color
+dm_plans: no
 ---
 # Hildo Brask
 >[!info]+ Biographical Info  
@@ -12,4 +14,4 @@ ancestry: Addermarian
 
 Marshal Hildo Brask is the second-in-command of [[Torvaine Watch]]. 
 
-%% will need updates after next Addermarch session %%
+%% killed by [[Einrik Arpaad]] after Einrik was cursed by the [[Serpentine Dagger]] %%

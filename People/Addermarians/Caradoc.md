@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/cleanup/internal]
 species: human
 gender: male
 born: 1689
+dm_notes: none
+dm_plans: yes
 ---
 # Caradoc
 >[!info]+ Biographical Info  
@@ -25,5 +27,7 @@ born: 1689
 	- he once saved the entire village of Brantor from a terrible plague by crafting a cure from rare ingredients gathered from the dangerous Plaguelands
 	- he is secretly a protector of the realm and a powerful member of the Rangers, and recruits mercenaries to train them for this noble duty
 	- he can speak to animals, and the birds and beasts of the forest are his spies, watching everyone who comes near his home.
+- Have not yet decided which rumors are true
+%%
 
 

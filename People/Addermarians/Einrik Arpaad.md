@@ -1,13 +1,21 @@
 ---
 headerVersion: 2023.11.25
 ancestry: Addermarian
-tags: [person, status/update]
+tags: [person, status/cleanup/external, status/metadata/header]
 species: human
 gender: male
 title: Sir
+dm_notes: color
+dm_plans: no
 ---
 # Einrik Arpaad
 >[!info]+ Biographical Info  
 > An Addermarian [[Humans|human]] (he/him)
 
-%% [[Torvaine Watch]] %%
+The commander of [[Torvaine Watch]]. 
+
+%% 
+command of [[Torvaine Watch]]: was possessed by a cursed dagger ([[Serpentine Dagger]]), killed his soldiers, became a ghost in first Addermarch adventure. 
+
+might add some color / non-canon details about backstory from DM notes
+%%
