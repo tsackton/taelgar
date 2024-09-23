@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/metadata/header]
+tags: [person, status/cleanup/external, status/metadata/header]
 name: Fausto
 born: 1714
 species: human
@@ -11,6 +11,8 @@ whereabouts:
 - {type: home, start: 1731-01-01, end: '', location: 'Chardon'}
 - {type: away, start: 1734-01-01, end: '', prefix: adventuring in, location: 'West Coast Region'}
 - {type: home, start: 1737-01-01, end: '', location: 'Chardon'}
+dm_notes: important
+dm_plans: yes
 ---
 # Fausto
 >[!info]+ Biographical Info
