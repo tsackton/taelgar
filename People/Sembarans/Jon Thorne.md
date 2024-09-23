@@ -6,6 +6,8 @@ ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
 born: 1669
+dm_notes: color
+dm_plans: no
 ---
 # Jon Thorne
 >[!info]+ Biographical Info  
