@@ -9,6 +9,8 @@ gender: male
 reignStart:
 died: 1706
 affiliations: [{org: House of Lils, type: primary}]
+dm_notes: none
+dm_plans: no
 ---
 # Gyles
 >[!info]+ Biographical Info

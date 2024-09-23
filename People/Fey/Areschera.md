@@ -1,5 +1,5 @@
 ---
-tags: [person, status/active, status/needswork/wip, status/mike]
+tags: [person, status/stub]
 ---
 
 %% fey shapeshifter %%

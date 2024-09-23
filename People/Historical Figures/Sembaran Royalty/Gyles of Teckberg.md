@@ -9,6 +9,8 @@ gender: male
 reignStart:
 died: 1632
 affiliations: [{org: House of Teckberg, type: leader} ]
+dm_notes: none
+dm_plans: no
 ---
 # Gyles
 >[!info]+ Biographical Info

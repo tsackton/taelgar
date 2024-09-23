@@ -8,6 +8,8 @@ typeOf: clan
 ancestry: dwarven
 aliases: [Barzinduk]
 whereabouts: Nidzahar
+dm_notes: none
+dm_plans: yes
 ---
 # The Gemcrafters
 >[!info]+ Information

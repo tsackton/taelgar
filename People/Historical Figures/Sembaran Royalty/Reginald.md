@@ -9,6 +9,8 @@ gender: male
 reignStart:
 died: 1550
 affiliations: [{org: House of Sewick, type: primary} ]
+dm_notes: none
+dm_plans: no
 ---
 # Reginald
 >[!info]+ Biographical Info

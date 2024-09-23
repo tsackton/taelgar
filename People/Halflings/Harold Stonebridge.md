@@ -8,6 +8,8 @@ species: halfling
 affiliations: [{org: Stonebridges, type: primary }]
 gender: male
 whereabouts: Cleenseau
+dm_notes: none
+dm_plans: no
 ---
 # Harold Stonebridge
 >[!info]+ Biographical Info

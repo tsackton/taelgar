@@ -10,6 +10,8 @@ ancestry:
 gender: male
 whereabouts:
 - {type: home, location: Ganboa}
+dm_notes: none
+dm_plans: no
 ---
 # Izoko
 >[!info]+ Biographical Info

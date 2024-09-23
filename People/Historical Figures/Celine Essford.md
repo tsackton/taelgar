@@ -9,6 +9,8 @@ gender: female
 died: 1699
 whereabouts:
 - { type: home, location: Cleenseau, start: 1651 }
+dm_notes: color
+dm_plans: no
 ---
 # Celine Essford
 >[!info]+ Biographical Info  

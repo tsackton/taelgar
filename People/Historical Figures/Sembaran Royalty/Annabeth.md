@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [historical, person]
-campaignInfo: []
 name: Annabeth
 born: 1600
 species: human
@@ -9,6 +8,8 @@ ancestry: Tyrwinghan
 gender: female
 died: 1675
 affiliations: [{org: House of Lils, type: primary}]
+dm_notes: none
+dm_plans: no
 ---
 # Annabeth
 >[!info]+ Biographical Info

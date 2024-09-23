@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/blankslate]
+tags: [place, status/needswork/internal]
 campaignInfo:
 name: Barony of Vaubonne
 typeOf: barony
 partOf: Sembara
 pronunciation: Voh-bun
+dm_notes: none
+dm_plans: no
 ---
 # The Barony of Vaubonne
 *(Voh-bun)*

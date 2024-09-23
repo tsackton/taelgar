@@ -5,6 +5,8 @@ displayDefaults: {partOf: "", boxInfo: "", defArt: "the"}
 typeOf: family
 whereabouts: Cleenseau
 aliases: [Essford]
+dm_notes: color
+dm_plans: yes
 ---
 # The Essfords
 >[!info]+ Information

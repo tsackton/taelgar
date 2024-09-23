@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/blankslate]
+tags: [place, status/needswork/shared]
 campaignInfo: []
 name: Ardlas
 typeOf: realm
 whereabouts: Zimkova
+dm_notes: none
+dm_plans: no
 ---
 # Ardlas
 >[!info]+ Information  

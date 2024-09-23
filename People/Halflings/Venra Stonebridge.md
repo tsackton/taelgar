@@ -10,6 +10,8 @@ affiliations:
 - {org: Stonebridges, type: primary }
 - {place: The Crossroads Inn, title: Proprietor, start: 0001}
 whereabouts: Cleenseau
+dm_notes: none
+dm_plans: no
 ---
 # Venra Stonebridge
 >[!info]+ Biographical Info

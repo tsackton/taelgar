@@ -1,5 +1,5 @@
 ---
-tags: [event-source, status/stub]
+tags: [event, status/needswork/shared]
 name: Treaty of Valarin
 DR: 1430
 ---

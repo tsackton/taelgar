@@ -4,6 +4,8 @@ tags: [place]
 typeOf: settlement
 typeOfAlias: market town
 whereabouts: Tyrwingha
+dm_notes: none
+dm_plans: no
 ---
 # Ruthin
 >[!info]+ Information  
@@ -13,3 +15,5 @@ whereabouts: Tyrwingha
 A moderately sized market town on about a half day's walk east of the [[Trellyn]]. There is a temple to the Wyrdling here.
 ### Notable Residents
 * [[Eirian]], a trans woman and acolyte of the Wyrdling. She is known in the region for her gender-affirming herbalist care and is a skilled teacher
+
+%% There is significant color in the "unlinked" backlinks %%

@@ -8,6 +8,8 @@ ancestry: Sembaran
 gender: female
 died: 1562
 affiliations: [{org: House of Sewick, type: primary}]
+dm_notes: none
+dm_plans: no
 ---
 # Eloise
 >[!info]+ Biographical Info

@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/blankslate]
+tags: [place, status/needswork/internal]
 name: Arnsbury
 typeOf: city
 partOf: Duchy of Arnsbury
+dm_notes: none
+dm_plans: no
 ---
 # Arnsbury
 >[!info]+ Information  

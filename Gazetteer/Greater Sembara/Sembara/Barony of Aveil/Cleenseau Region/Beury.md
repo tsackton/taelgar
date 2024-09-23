@@ -33,7 +33,7 @@ A small market is held in the caravan yard once a week, which attracts some of t
 * [[Lionel Mortagne]], the captain of the guard, and [[Blanche]], his assistant and the magistrate
 * [[Jasper of Beury|Jasper]], a reformed robber and sword-for-hire
 * Johanna, the innkeeper and miller, and her sisters and children
-* Roaric Ferrystone, the dwarven blacksmith, elderly and semi-retired, originally from the Ferrystones of [[Rinburg]]
+* Roaric Ferrystone, the dwarven blacksmith, elderly and semi-retired, originally from the [[Ferrystones]] of [[Rinburg]]
 
 %%^Campaign:None%%
 ### People in, or based in Beury

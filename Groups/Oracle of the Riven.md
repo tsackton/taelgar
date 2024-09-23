@@ -4,6 +4,8 @@ tags: [organization]
 displayDefaults: {defArt: '', boxInfo: ""}
 name: Oracle of the Riven
 whereabouts: Tyrwingha
+dm_notes: color
+dm_plans: yes
 ---
 # Oracle of the Riven
 >[!info]+ Information  

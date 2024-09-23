@@ -13,6 +13,8 @@ leaderOf:
 - {place: Tyrwingha, start: 1713-09-12}
 - {place: Sembara, start: 1720-06-15}
 affiliations: [{org: House of Lils, type: primary}]
+dm_notes: none
+dm_plans: yes
 ---
 # Queen Elaine II
 >[!info]+ Biographical Info

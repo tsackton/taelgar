@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, organization]
+tags: [organization]
 displayDefaults: {defArt: "the" }
 typeOfAlias: noble house
 typeOf: family
