@@ -11,7 +11,7 @@ aliases: [Adèle Laurent]
 ancestry: Isinguer
 gender: female
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Adèle Laurent
 >[!info]+ Biographical Info  

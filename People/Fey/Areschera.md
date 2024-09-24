@@ -7,7 +7,7 @@ whereabouts:
 - {type: home, location: Duskmire}
 - {type: away, location: Veltor, start: 1720-01-04, end: 9999 }
 dm_notes: important
-dm_owner: yes
+dm_owner: mike
 ---
 # Areschera
 >[!info]+ Biographical Info  

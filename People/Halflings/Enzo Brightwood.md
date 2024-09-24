@@ -12,7 +12,7 @@ whereabouts:
 - {type: away, start: 1720-01-15, location: Champimont}
 - {type: away, start: 1720-01-18, location: Champimont}
 dm_notes: none
-dm_owner: yes
+dm_owner: none
 ---
 # Enzo Brightwood
 >[!info]+ Biographical Info  

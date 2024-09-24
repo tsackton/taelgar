@@ -8,6 +8,8 @@ aliases: [Night Witch]
 name: The Midnight Lady
 species: fey
 subspecies: hag
+dm_owner: mike
+dm_notes: important
 ---
 # The Midnight Lady
 >[!info]+ Biographical Info  
