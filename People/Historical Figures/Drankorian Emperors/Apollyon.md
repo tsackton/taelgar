@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, testcase, status/needswork/internal]
+tags: [historical, person, testcase, status/needswork/external]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Apollyon
@@ -14,6 +14,8 @@ whereabouts:
 - {type: home, end: 1059, location: Drankor}
 - {type: away, start: 1053}
 - {type: away, start: 1060}
+dm_notes: important
+dm_owner: tim
 ---
 # Emperor Apollyon
 >[!info]+ Biographical Info
