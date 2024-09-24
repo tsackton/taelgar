@@ -11,7 +11,7 @@ whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
 dm_notes: none
-dm_owner: yes
+dm_owner: none
 ---
 # Adra Brightwood
 >[!info]+ Biographical Info  
@@ -27,8 +27,7 @@ dm_owner: yes
 halflings and cousins, from everywhere, but originally from numerous small towns and villages in the Mostreve Hills. Both restless types, more at home in the forests and valleys of the Mostreve Hills than a bustling inn. Adra has a faint ghostly bird that sometimes lands on her, often changing form between different types of sparrows , songbirds, and hummingbirds and other times splitting into two or three. Her cousin, when the number of ghostly birds is in danger of growing, will sometimes tap her and point it all, and they all disappear for a moment. These two clearly work together, but have not travelled with Vahaiya much before.
 
 Showing interest in the birds perks up Adra, the bird loving halfling woman. She clearly prefers her birds to people, but will introduce Celyn to six ghostly birds:
-
-  
+ 
 
 Featherfoot, a brown and white sparrow
 

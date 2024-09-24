@@ -15,7 +15,7 @@ affiliations:
 whereabouts:
 - { type: home, location: Cleenseau, start: 1651 }
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Lord Reginald Essford
 >[!info]+ Biographical Info  

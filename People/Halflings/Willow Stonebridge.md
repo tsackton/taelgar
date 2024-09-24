@@ -11,7 +11,7 @@ ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Willow Stonebridge
 >[!info]+ Biographical Info

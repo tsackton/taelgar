@@ -12,7 +12,7 @@ gender: female
 whereabouts: 
 - {type: home, location: Cleenseau }
 dm_notes: color
-dm_owner: no
+dm_owner: mike
 ---
 # Marigold Stonebridge
 >[!info]+ Biographical Info

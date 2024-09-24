@@ -3,10 +3,10 @@ headerVersion: 2023.11.25
 tags: [status/cleanup/internal, person]
 species: halfling
 gender: male
-dm_notes: color
-dm_owner: no
 affiliations: [{org: Merriweathers, type: primary}]
 whereabouts: Aslain
+dm_notes: color
+dm_owner: none
 ---
 # Fin Merriweather
 >[!info]+ Biographical Info  

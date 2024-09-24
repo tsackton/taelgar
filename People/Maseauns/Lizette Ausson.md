@@ -9,7 +9,7 @@ species: human
 affiliations: [{org: Ausson's Crossing, type: leader, title: Proprietor, start: 1688, end: 1699 }]
 whereabouts: Laicon
 dm_notes: important
-dm_owner: no
+dm_owner: mike
 ---
 # Lizette Ausson
 >[!info]+ Biographical Info  

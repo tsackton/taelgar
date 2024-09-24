@@ -1,3 +1,0 @@
----
-tags: [status/stub, person]
----
