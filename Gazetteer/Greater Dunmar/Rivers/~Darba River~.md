@@ -1,5 +1,6 @@
 ---
-tags: [place, status/stub]
+tags: [place, status/check/name, status/needswork/wip]
 typeOf: river
-partOf:
+dm_notes: none
+dm_owner: tim
 ---

@@ -10,7 +10,7 @@ The following status tags are defined:
 
 **status/check**: the details on this note need to be checked. Various subtags indicate the nature of the check, either by a specific person, or to verify a name, or to correct minor or major errors. By definition cannot be trusted to be correct. Usually will have comments explaining the need for the check. 
 
-**status/cleanup**: the note is correct and complete but that someone wants to reformat it to make it nicer or more usable (e.g., collate detail from linked pages into summaries, incorporate comments into narrative, etc). never needed and has no bearing on dm facing information but might affect how a page looks on taelgarverse
+**status/cleanup**: the note is correct and complete but that someone wants to reformat it to make it nicer or more usable (e.g., collate detail from linked pages into summaries, incorporate comments into narrative, etc). As long as a page has at least one sentence of public-facing Taelgarverse content, a status/cleanup tag is never needed, and it has no bearing on the accuracy or completeness of dm facing information. 
 
 **status/needswork**: the note does not contain all information about the thing that exists. Tread cautiously. Subtags usually indicate where the extra information not captured is stored:
 - *external*: in someone's DM notes, emails, OneNote, or other non-shared resources
