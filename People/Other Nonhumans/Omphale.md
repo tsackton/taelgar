@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/internal, person]
+tags: [status/cleanup/internal, person]
 species: centaur
 dm_notes: none
 dm_plans: yes

@@ -5,6 +5,8 @@ displayDefaults: {defArt: ""}
 typeOf: settlement
 typeOfAlias: village
 whereabouts: Refounded Alliance of Aurbez
+dm_notes: none
+dm_plans: no
 ---
 # Aursen Crossing
 >[!info]+ Information  

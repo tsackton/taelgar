@@ -7,6 +7,7 @@ species: dwarf
 ancestry: Ardikhun
 gender: male
 player: Chris Kelly
+dm_notes: important
 ---
 # Roe DoTorka
 >[!info]+ Biographical Info  

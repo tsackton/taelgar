@@ -8,6 +8,8 @@ typeOfAlias: river
 name: Cranmère
 pronunciation: Krahn-mehr
 displayDefaults: {defArt: "the" }
+dm_notes: none
+dm_plans: no
 ---
 # The Cranmère
 *(Krahn-mehr)*

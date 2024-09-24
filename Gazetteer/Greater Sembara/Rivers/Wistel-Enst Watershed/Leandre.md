@@ -6,6 +6,8 @@ typeOf: waterway
 typeOfAlias: river
 whereabouts: Barony of Aveil
 pronunciation: Leh-ahn-dray
+dm_notes: none
+dm_plans: no
 ---
 # The Leandre
 *(Leh-ahn-dray)*

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/mawar, status/unknown]
+tags: [person, pc/mawar]
 campaignInfo:
 name: Nerissa
 born:
@@ -15,4 +15,4 @@ affiliations:
 > A [[Humans|human]] (she/her)
 
 
-An older woman, not Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.
+An older woman, not from Mawar but from the north, who retired to Hamri after a long adventuring career to listen and learn the songs of the ocean.

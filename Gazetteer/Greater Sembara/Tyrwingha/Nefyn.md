@@ -5,6 +5,8 @@ whereabouts: Tyrwingha
 typeOf: settlement
 typeOfAlias: village
 pronunciation: NEV-yin
+dm_notes: none
+dm_plans: no
 ---
 # Nefyn
 *(NEV-yin)*

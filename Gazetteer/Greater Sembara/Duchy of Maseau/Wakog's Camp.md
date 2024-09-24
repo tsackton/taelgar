@@ -9,6 +9,8 @@ subTypeOf: fortified
 ancestry: orc
 founded: 1719-08
 destroyed: 1719-12-05
+dm_notes: color
+dm_plans: no
 ---
 # Wakog's Camp
 >[!info]+ Information  

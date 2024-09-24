@@ -6,6 +6,8 @@ typeOfAlias: river
 aliases: [River Trellyn, Trellyn River]
 whereabouts: Tyrwingha
 pronunciation: TRELL-yin
+dm_notes: none
+dm_plans: no
 ---
 # Trellyn
 *(TRELL-yin)*

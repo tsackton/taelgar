@@ -6,6 +6,8 @@ name: Lake Derwent
 typeOf: lake
 aliases: [Derwent]
 whereabouts: Zimkova
+dm_notes: none
+dm_plans: no
 ---
 # Lake Derwent
 >[!info]+ Information  

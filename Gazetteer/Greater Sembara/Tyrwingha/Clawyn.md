@@ -7,6 +7,8 @@ typeOfAlias: village
 population: 290
 partOf: Tyrwingha
 pronunciation: CLOW-in
+dm_notes: color
+dm_plans: no
 ---
 # Clawyn
 *(CLOW-in)*

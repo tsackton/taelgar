@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/unknown]
-campaignInfo: []
+tags: [person, pc/guest]
 name: Shoal
 born: 1652
 ka: 37

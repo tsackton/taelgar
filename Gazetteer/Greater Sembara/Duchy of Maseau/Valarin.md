@@ -4,6 +4,8 @@ tags: [place]
 name: Valarin
 typeOf: city
 whereabouts: Duchy of Maseau
+dm_notes: none
+dm_plans: no
 ---
 # Valarin
 >[!info]+ Information  

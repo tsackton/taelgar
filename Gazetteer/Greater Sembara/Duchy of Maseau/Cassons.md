@@ -5,6 +5,8 @@ name: Cassons
 typeOf: settlement
 typeOfAlias: fortified border town
 partOf: Duchy of Maseau
+dm_notes: none
+dm_plans: no
 ---
 # Cassons
 >[!info]+ Information  

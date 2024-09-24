@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/unknown]
+tags: [person, pc/guest]
 name: Izzarak
 born:
 species: lizardfolk

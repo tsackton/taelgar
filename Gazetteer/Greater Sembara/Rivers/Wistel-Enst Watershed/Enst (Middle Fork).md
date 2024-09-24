@@ -7,6 +7,8 @@ typeOf: waterway
 typeOfAlias: river
 partOf: Western Marches
 aliases: [Middle Fork, Middle Fork of the Enst]
+dm_notes: none
+dm_plans: no
 ---
 # The Enst (Middle Fork)
 >[!info]+ Information  

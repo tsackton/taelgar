@@ -5,6 +5,7 @@ campaignInfo:
 name: Embry
 typeOf: city
 whereabouts: Sembara
+population: 25000
 ---
 # Embry
 >[!info]+ Information  

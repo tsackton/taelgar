@@ -5,6 +5,8 @@ campaignInfo:
 name: Barony of Ainwick
 typeOf: barony
 whereabouts: Western Marches
+dm_notes: none
+dm_plans: no
 ---
 # The Barony of Ainwick
 >[!info]+ Information  

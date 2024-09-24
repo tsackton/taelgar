@@ -10,6 +10,7 @@ affiliations: [{org: Brightwoods, type: primary}, {org: The Rangers }]
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
+- {type: away, start: 1720-01-18, location: Champimont}
 dm_notes: none
 dm_plans: yes
 ---

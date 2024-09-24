@@ -7,6 +7,8 @@ typeOf: waterway
 typeOfAlias: river
 whereabouts: Addermarch
 aliases: [River Aure, Aure River]
+dm_notes: none
+dm_plans: no
 ---
 # The Aure
 >[!info]+ Information

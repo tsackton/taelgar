@@ -1,20 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal]
+tags: [place]
 typeOf: village
 partOf: Refounded Alliance of Aurbez
+dm_notes: none
+dm_plans: no
 ---
 # Laicon
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%
-- [[Laicon]], used to be where the Last Inn was that is now subsumed into the town, which is a bustling village of about 50 houses where traders from the plateau come down with reclaimed dwarven mining goods to bring them north to Clenseau and Sembara
+A small village that has grew up around [[Ausson's Crossing]], a large inn, in the late 1690s. [[Ausson's Crossing]] is still the dominate building and still the heart and soul of the village. It is set across the [[Maseau - Dunmar Road]] and has become an important trading point for [[Aurbez Plateau]] scavengers who reclaim dwarven mining goods and ore from the ruins and dangers of [[Ardith]] and sell it to the outside world.
 
-Collate notes for Last Inn arc
-
-most of the important notes and info are linked here; the inn Ausson's Crossing, had a bunch of details for my mini-series but how the town developed from the inn is not totally clear or invented
-
-The inn notably had a magic fountain that provides endless fresh water
-%%
+%% See [[Ardith Mining]] for some background on this. Also note the details in the [[Ausson's Crossing]] page.  %%

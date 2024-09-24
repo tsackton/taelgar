@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal]
+tags: [place, status/cleanup/internal]
 whereabouts: Refounded Alliance of Aurbez
 typeOf: settlement
 typeOfAlias: trading spot
+dm_notes: none
+dm_plans: no
 ---
 # The Rocky Ford
 >[!info]+ Information  
@@ -16,5 +18,5 @@ see [[The Travelogue of Etienne of Cassons]] for a few details
 
 general idea is that the village is recreated each spring where the best fording spot is on the masance, which moves each season; PCs came here in Ausson's game but the details are mostly lost to time as I didn't write them down
 
-The vibe was frontier town/rough justice/slightly crooked place
+The vibe was frontier town/rough justice/slightly crooked place with a "river boss" who controlled the crossing and basically ran the town. could have changed some since the 1680s but should still be a moveable camp more than a real town
 %%

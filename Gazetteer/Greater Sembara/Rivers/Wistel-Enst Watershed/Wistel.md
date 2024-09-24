@@ -5,6 +5,8 @@ name: Wistel
 typeOf: waterway
 typeOfAlias: river
 whereabouts: Sembara
+dm_notes: none
+dm_plans: no
 ---
 # Wistel
 >[!info]+ Information  

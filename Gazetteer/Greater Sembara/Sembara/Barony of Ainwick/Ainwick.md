@@ -4,6 +4,8 @@ tags: [place]
 name: Ainwick
 typeOf: town
 whereabouts: Barony of Ainwick
+dm_notes: none
+dm_plans: no
 ---
 # Ainwick
 >[!info]+ Information

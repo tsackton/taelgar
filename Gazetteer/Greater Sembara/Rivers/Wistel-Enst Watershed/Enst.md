@@ -6,6 +6,8 @@ name: Enst
 typeOf: river
 whereabouts: Sembara
 aliases: [River Enst, Enst River]
+dm_notes: none
+dm_plans: no
 ---
 # The Enst
 >[!info]+ Information  

@@ -20,5 +20,5 @@ dm_plans: no
 The founder of the [[House of Wisenfold]], an important cadet branch of the royal Sembaran line, now based in the [[Duchy of Wisford]]. The second child of [[Derik III]] and [[Sarabet]].
 
 %% 
-No canonical details exist, just exists for color in the Sembaran line of succession
+No canonical details exist, just exists for color in the Sembaran line of succession. However, it is interesting that he was older than [[Bertram I]], who inherited from Derik III. There must have been a reason for this unusual line of succession.
 %%

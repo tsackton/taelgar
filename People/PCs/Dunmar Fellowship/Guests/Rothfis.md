@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/unknown]
-campaignInfo: []
+tags: [person, pc/guest]
 name: Rothfis
 born:
 species: dwarf
