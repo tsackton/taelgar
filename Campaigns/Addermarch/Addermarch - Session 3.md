@@ -1,10 +1,11 @@
 ## Day 8
 We begin in the morning at the Traveler's Rest in Roscombe. As [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] eat breakfast, they receive two letters. [[Letter from Owen Tavish|One]] is from [[Owen Tavish]], the priest of [[The Sibyl]]; the [[Letter from Elowen Duval|other]], sealed with green wax, imprinted with the Duval seal, showing a stylized valley between two mountains with an oak tree in the middle.
 
-During the day, the party rests and relaxes. Sunday is a market day, and [[Fazoth de Brune|Fazoth]] goes to the market to find a buyer for the ancient coins he found from the 
+During the day, the party rests and relaxes. Sunday is a market day, and [[Fazoth de Brune|Fazoth]] goes to the market to find a buyer for the ancient coins he found in [[Torvaine Watch]]. Otherwise, the day passes quietly until the evening, when [[Caradoc]] arrives to meet the party. 
 
-sell coins
-meet caradoc in the evening, gives them cockatrice task as a trial
+[[Caradoc]] proposes a simple mission as test of the party's skills: travel to a nearby area where a cockatrice is thought to lair, kill it, and bring back a cockatrice gizzard, which is a valuable ingredient in several potion recipes.  
+
+---
 
 ## Day 9
 level in the morning, pass villages
