@@ -11,7 +11,7 @@ whereabouts:
 - {type: home, location: Twilight's Grace}
 - {type: home, location: Duskmire}
 dm_notes: color
-dm_owner: yes
+dm_owner: mike
 ---
 # Lord Umbraeth
 >[!info]+ Biographical Info  

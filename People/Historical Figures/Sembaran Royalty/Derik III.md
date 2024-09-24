@@ -17,7 +17,7 @@ leaderOf:
 title: King
 died: 1549
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # King Derik III
 >[!info]+ Biographical Info
