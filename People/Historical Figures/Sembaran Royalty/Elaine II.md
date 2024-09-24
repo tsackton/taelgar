@@ -14,7 +14,7 @@ leaderOf:
 - {place: Sembara, start: 1720-06-15}
 affiliations: [{org: House of Lils, type: primary}]
 dm_notes: none
-dm_owner: yes
+dm_owner: mike
 ---
 # Queen Elaine II
 >[!info]+ Biographical Info
