@@ -1,9 +1,6 @@
----
-tags: [place, status/stub]
----
+Brainstorming the "other branch of the Dunmari", which has never actually been introduced in a game and might not be canonical.
 
-%%
-### ~EasternDunmari~
+~EasternDunmari~
 
 - Southeast of Cymea north of southern mountains inland of 
     
@@ -12,5 +9,4 @@ tags: [place, status/stub]
 - Now sedentary
     
 - Traders? Connection between Green Sea economy and desert/points south?
-    
-%%
+
