@@ -1,5 +1,5 @@
 ---
-tags: [status/complex, status/needswork/shared, species]
+tags: [status/needswork/shared, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
 ---

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: "the"}
-tags: [place, status/complex]
+tags: [place, status/needswork/external]
 name: Plaguelands
 typeOf: region
 whereabouts: Desolation of Cha'mutte

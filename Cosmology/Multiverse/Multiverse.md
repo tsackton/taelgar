@@ -1,6 +1,8 @@
 ---
-tags: [status/complex, place]
+tags: [place, status/check/tim]
 ---
+
+%% need to review based on cosmology DM notes %%
 
 A variety of planes surround and extend from the [[Material Plane]], together making up the Multiverse. 
 
