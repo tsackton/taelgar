@@ -25,5 +25,5 @@ whereabouts:
 Abha, like [[Sonkar]], sometimes appears cold and distant, but her isolating demeanor masks a deep concern for the world and for [[Dunmar]]. 
 
 %%^Campaign:dufr%%
-During the [[Siblings War]], Abha served as an ally and advisor to [[Nayan Karnas]], using her divine powers to attempt to disentangle the truth, or lies, of rumors of [[Agata]]'s influence on [[Sura]]. She was increasingly discredited by [[Nayan Karnas]] as he descended into paranoia, until the [[Dunmar Fellowship]] was able to at least partially get through to him. In the aftermath, she helped negotiate the end of the [[Siblings War]] between [[Sura|Nayan Sura]] and [[Nayan Karnas]]. 
+During the [[Sibling War]], Abha served as an ally and advisor to [[Nayan Karnas]], using her divine powers to attempt to disentangle the truth, or lies, of rumors of [[Agata]]'s influence on [[Sura]]. She was increasingly discredited by [[Nayan Karnas]] as he descended into paranoia, until the [[Dunmar Fellowship]] was able to at least partially get through to him. In the aftermath, she helped negotiate the end of the [[Sibling War]] between [[Sura|Nayan Sura]] and [[Nayan Karnas]]. 
 %%^End%%

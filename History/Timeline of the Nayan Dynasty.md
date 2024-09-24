@@ -16,5 +16,5 @@ In the 161st year of the Nayan Dynasty (DR 1718), Samraat Nayan Lina came to pow
 
 Twelve years later, in 183 Nayan (DR 1740), Marathu was killed, along with a young woman named [[Sura]] who was widely seen as blessed by the gods and the obvious choice to succeed Marathu. Karnas, Sura's brother, is proclaimed Samraat [[Nayan Karnas]] by the western temples in 183 Nayan (DR 1740), a move that was seen by many in the east as presumptuous and driven by political, not religious, considerations. 
 
-In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity by the [[Dunmar Fellowship]]; she had been trapped in an extra-dimensional space in a magic mirror by the hag [[Agata|Agata Dustmother]]. Sura's return triggered the [[Siblings War]].
+In the 191st year of the Nayan Dynasty (DR 1748), Sura was freed from captivity by the [[Dunmar Fellowship]]; she had been trapped in an extra-dimensional space in a magic mirror by the hag [[Agata|Agata Dustmother]]. Sura's return triggered the [[Sibling War]].
 %%

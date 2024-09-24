@@ -18,4 +18,4 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on July 2nd, 1748 near [[Tokra]], in [[Dunmar]] %%^End%%
 
-A commander in the army of [[Nayan Karnas]]. Stationed outside [[Tokra]] during the [[Summer Gnoll Raids of 1748]] and the [[Siblings War]]. Fought in the [[Battle of Tokra]]. 
+A commander in the army of [[Nayan Karnas]]. Stationed outside [[Tokra]] during the [[Summer Gnoll Raids of 1748]] and the [[Sibling War]]. Fought in the [[Battle of Tokra]]. 

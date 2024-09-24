@@ -4,17 +4,14 @@ We begin in the morning at the Traveler's Rest in Roscombe. As [[Drou]], [[Fazot
 During the day, the party rests and relaxes. Sunday is a market day, and [[Fazoth de Brune|Fazoth]] goes to the market to find a buyer for the ancient coins he found in [[Torvaine Watch]]. Otherwise, the day passes quietly until the evening, when [[Caradoc]] arrives to meet the party. 
 
 [[Caradoc]] proposes a simple mission as test of the party's skills: travel to a nearby area where a cockatrice is thought to lair, kill it, and bring back a cockatrice gizzard, which is a valuable ingredient in several potion recipes.  
-
----
-
 ## Day 9
-level in the morning, pass villages
-navigate through forest successfully via Drou
-investigate standing stones, hear faint voices, Drou uses comprehend languages to read the writing
-enter cave
-fazoth searches statue, find dwarven purse
-explore dead end, kill shadow + skeleton; yvan defeats ambush by noticing shadow moving on the wall
-fazoth vicious mockery causes shadow to miss, which is killed by critical hit sorcerous burst; fazoth eldritch blast destroys skeleton in a burst of force (vunerable to force damage)
+[[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] depart [[Roscombe]] in the morning, heading west through open fields and pastures, towards the hills. Reaching a rocky outcropping indicated as a landmark by [[Caradoc]], the party navigates easily through the forest, guided by [[Drou]], and sees both the cockatrice cave and a [[Kilrath Standing Stones|stone circle]] in the dell below. Faint voices can be heard echoing from the stone circle, and warnings written in an ancient tongue, but the party moves quickly past into the cave. 
+
+Soon, the party finds a statue of a dwarf with its arms broken off, a rotted pouch at its feet hinting at the possessions of a treasure hunter. Exploring the passages that lead from this chamber, they encounter a dead end first, where a shadow attempts to ambush them, thwarted by perceptive [[Yvan Greenrabbit|Yvan]], who notices the shadow moving. As the skeleton on the ground rises up to attack, [[Fazoth de Brune|Fazoth]] taunts it with Vicious Mockery, causing it to miss, while [[Yvan Greenrabbit|Yvan]] destroys the shadow with a burst of fire. 
+
+Continuing to explore the cave, the party finds the main cavern of the cockatrice, discovering that it has apparently made its lair 
+
+
 return to dwarf chamber, go southwest passage
 find main chamber
 fight cockatrice - wounded by witch bolt and frightened by Fazoth thaumaturgy + intimidation, but manages to largely avoid drou dissonant whispers due to good saving throws. retreats to drink healing water, teleporting around. yvan goes to scout, finds hatchling. fazoth kills cockatrice with witchbolt (inspiration on die roll)
