@@ -10,7 +10,7 @@ whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Kitchen Boy}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Samuel
 >[!info]+ Biographical Info  

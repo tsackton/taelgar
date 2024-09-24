@@ -12,7 +12,7 @@ whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Heir, type: primary }
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # Lord Rinault Essford
 >[!info]+ Biographical Info

@@ -1,7 +1,7 @@
 ---
 tags: [status/needswork/wip, person]
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 
 %% 

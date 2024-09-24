@@ -5,7 +5,7 @@ species: human
 ancestry: Addermarian
 gender: male
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Wulfram
 >[!info]+ Biographical Info  

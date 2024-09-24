@@ -23,7 +23,7 @@ whereabouts:
 - {type: away, start: 1720-01-13, end: 1720-01-16, location: travelling to Embry }
 - {type: away, start: 1720-01-17, end: 9999, location: Embry }
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # Lady Rosalind Essford
 >[!info]+ Biographical Info  

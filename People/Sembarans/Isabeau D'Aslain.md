@@ -14,7 +14,7 @@ affiliations:
 - { org: Barony of Aveil, start: 1719-04, type: leader}
 - { org: d'Aslains, type: primary }
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # Baroness Isabeau D'Aslain
 >[!info]+ Biographical Info  

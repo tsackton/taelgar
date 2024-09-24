@@ -12,7 +12,7 @@ title: King
 reignStart: 1571
 died: 1589
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # King Cynan
 >[!info]+ Biographical Info

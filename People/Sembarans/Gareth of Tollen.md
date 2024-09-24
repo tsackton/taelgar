@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: Embry, end: 1719-08}
 - {type: home, location: Aslain, start: 1719-09}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Gareth of Tollen
 >[!info]+ Biographical Info  

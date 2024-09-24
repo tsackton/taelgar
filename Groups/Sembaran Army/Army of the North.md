@@ -6,7 +6,7 @@ name: Army of the North
 partOf: Sembaran Army
 typeOf: army
 dm_notes: important
-dm_plans: no
+dm_owner: no
 ---
 # The Army of the North
 >[!info]+ Information  

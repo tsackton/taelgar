@@ -10,7 +10,7 @@ ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Aldric Tannen
 >[!info]+ Biographical Info  

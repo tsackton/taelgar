@@ -1,7 +1,7 @@
 ---
 tags: [person, status/needswork/wip]
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 
 ![[juliana-westby.png|left|200]]

@@ -15,7 +15,7 @@ leaderOf:
 - {place: Breva, title: Queen Regent, end: 1555}
 died: 1559
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Jane of Tollen
 >[!info]+ Biographical Info  

@@ -12,7 +12,7 @@ died: 1719-10-14
 whereabouts: 
 - {type: home, location: Cleenseau}
 - {type: away, start: 1719-10-14, end: 1719-10-30, location: Cleenseau Wood}
-dm_plans: no
+dm_owner: no
 dm_notes: none
 ---
 # Nicholas the Beggar

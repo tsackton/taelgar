@@ -7,7 +7,7 @@ species: human
 ancestry: Sembaran
 born: 1659
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # Eleanor
 >[!info]+ Biographical Info  

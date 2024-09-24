@@ -10,7 +10,7 @@ died: 1719-10-27
 whereabouts:
 - {type: home, location: Ganboa}
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Gentza
 >[!info]+ Biographical Info

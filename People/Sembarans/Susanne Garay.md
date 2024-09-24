@@ -9,7 +9,7 @@ gender: female
 whereabouts: Embry
 affiliations: [{ org: Garay Family, title: Matriarch }]
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Susanne Garay
 >[!info]+ Biographical Info  

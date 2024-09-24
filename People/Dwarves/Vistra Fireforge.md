@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, start: 1620-01-01, end: '', location: Ausson's Crossing}
 - {type: home, start: 1730-01-01, end: '', location: Tokra}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Vistra Fireforge
 >[!info]+ Biographical Info  

@@ -7,7 +7,7 @@ born: 1689
 species: human
 ancestry: Sembaran
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Yvette
 >[!info]+ Biographical Info  

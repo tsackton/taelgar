@@ -5,7 +5,7 @@ gender: female
 species: human
 whereabouts: Cleenseau
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Eliana
 >[!info]+ Biographical Info  

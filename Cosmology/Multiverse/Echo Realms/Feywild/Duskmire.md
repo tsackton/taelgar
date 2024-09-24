@@ -5,7 +5,7 @@ whereabouts: Feywild
 typeOf: realm
 excludePublish: ["clee"]
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # Duskmire
 >[!info]+ Information  

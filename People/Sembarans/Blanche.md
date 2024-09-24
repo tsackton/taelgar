@@ -7,7 +7,7 @@ ancestry: Sembaran
 species: human
 born: 1687
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Blanche
 >[!info]+ Biographical Info  

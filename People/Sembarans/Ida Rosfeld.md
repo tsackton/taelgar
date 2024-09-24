@@ -15,7 +15,7 @@ whereabouts:
 - {type: home, location: 'Cleenseau'}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: 'Dunfry'}
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # Captain Ida Rosfeld
 >[!info]+ Biographical Info  

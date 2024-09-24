@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, end: 1748-07-01, location: Chardon} #end is approx
 - {type: away, start: 1748-10-23, location: Ausson's Crossing, wLastKnown: ""}
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # Marcella
 >[!info]+ Biographical Info

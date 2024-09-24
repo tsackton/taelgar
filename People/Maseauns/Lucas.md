@@ -8,7 +8,7 @@ ancestry: Maseuan
 gender: male
 whereabouts: Evis
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Lucas
 >[!info]+ Biographical Info  

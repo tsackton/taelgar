@@ -5,7 +5,7 @@ whereabouts: Borderlands
 typeOf: barony
 pronunciation: Voh-klair
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # The Barony of Vauclaire
 *(Voh-klair)*

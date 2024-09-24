@@ -7,7 +7,7 @@ species: lizardfolk
 gender: male
 whereabouts: Ganboa
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Erdu
 >[!info]+ Biographical Info  

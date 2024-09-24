@@ -11,7 +11,7 @@ ancestry: Sembaran
 gender: male
 whereabouts: Taviose
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Grandpa Remy Darrow
 >[!info]+ Biographical Info  

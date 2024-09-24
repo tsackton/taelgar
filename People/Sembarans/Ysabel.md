@@ -13,7 +13,7 @@ affiliations:
 whereabouts:
 - {type: home, location: Cleenseau}
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Ysabel
 >[!info]+ Biographical Info

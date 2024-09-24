@@ -12,7 +12,7 @@ whereabouts:
 - {type: away, start: 1734-01-01, end: '', prefix: adventuring in, location: 'West Coast Region'}
 - {type: home, start: 1737-01-01, end: '', location: 'Chardon'}
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # Fausto
 >[!info]+ Biographical Info

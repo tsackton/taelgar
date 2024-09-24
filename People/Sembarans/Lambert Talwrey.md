@@ -6,7 +6,7 @@ whereabouts:
 - { location: Cranford, type: away, start: 1720-02-11, end: 1720-02-16 }
 died: 1720-02-16
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Lambert Talwrey
 >[!info]+ Biographical Info  

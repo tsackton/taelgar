@@ -10,7 +10,7 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, type: Gateguard}
 whereabouts: Cleenseau
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Jon
 >[!info]+ Biographical Info  

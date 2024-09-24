@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/needswork/wip]
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ancestry: Sembaran
 whereabouts: Cranford
 gender: male

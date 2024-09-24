@@ -11,7 +11,7 @@ whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # Hektor
 >[!info]+ Biographical Info  

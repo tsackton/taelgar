@@ -9,7 +9,7 @@ whereabouts:
 - {type: home, location: Gowerbourne }
 - {type: home, location: Asineau }
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # El
 >[!info]+ Biographical Info  

@@ -7,7 +7,7 @@ ancestry: Sembaran
 gender: male
 born: 1686
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Edmund Bracken
 >[!info]+ Biographical Info  

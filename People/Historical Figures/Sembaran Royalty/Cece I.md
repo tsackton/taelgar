@@ -14,7 +14,7 @@ leaderOf:
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Queen Cece I
 >[!info]+ Biographical Info  

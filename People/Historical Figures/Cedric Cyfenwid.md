@@ -8,7 +8,7 @@ ancestry: Sembaran
 gender: male
 died: 1674
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # Cedric Cyfenwid
 >[!info]+ Biographical Info  

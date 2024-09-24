@@ -5,7 +5,7 @@ displayDefaults: {defArt: '', boxInfo: ""}
 name: Oracle of the Riven
 whereabouts: Tyrwingha
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # Oracle of the Riven
 >[!info]+ Information  

@@ -8,7 +8,7 @@ ancestry:
 gender: male
 whereabouts: Ganboa
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Koldo
 >[!info]+ Biographical Info  

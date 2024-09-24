@@ -11,7 +11,7 @@ affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # Agon
 >[!info]+ Biographical Info

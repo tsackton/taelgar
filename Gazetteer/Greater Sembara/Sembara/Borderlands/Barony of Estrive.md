@@ -5,7 +5,7 @@ typeOf: barony
 whereabouts: Borderlands
 pronunciation: ess-TREEV
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # The Barony of Estrive
 *(ess-TREEV)*

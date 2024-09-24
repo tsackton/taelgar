@@ -4,5 +4,5 @@ campaignInfo: []
 name: Attempted Geas of Elaine I
 DR: 1582
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---

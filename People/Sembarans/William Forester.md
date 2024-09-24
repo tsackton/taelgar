@@ -1,7 +1,7 @@
 ---
 tags: [person, status/needswork/internal, status/metadata/header]
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 
 ![[william-forester-aveil.png|left|200]]

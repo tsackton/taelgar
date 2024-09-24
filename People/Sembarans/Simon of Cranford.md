@@ -8,7 +8,7 @@ gender: male
 image: ![[simon-of-cranford.png]]
 whereabouts: Cranford
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Simon of Cranford
 >[!info]+ Biographical Info  

@@ -8,7 +8,7 @@ ancestry: Sembaran
 gender: female
 whereabouts: Taviose
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Abigail Moss
 >[!info]+ Biographical Info  

@@ -1,7 +1,7 @@
 ---
 tags: [person, status/needswork/wip]
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 
 %%

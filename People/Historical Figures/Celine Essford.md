@@ -10,7 +10,7 @@ died: 1699
 whereabouts:
 - { type: home, location: Cleenseau, start: 1651 }
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Celine Essford
 >[!info]+ Biographical Info  

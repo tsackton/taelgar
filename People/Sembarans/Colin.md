@@ -10,7 +10,7 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, title: Guardsman}
 whereabouts: Cleenseau
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Colin
 >[!info]+ Biographical Info

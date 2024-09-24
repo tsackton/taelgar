@@ -12,7 +12,7 @@ affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Sembara, start: 1713-09-12 }
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # King Robert I
 >[!info]+ Biographical Info

@@ -7,7 +7,7 @@ species: human
 gender: male
 ancestry: Sembaran
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Alaric Benec
 >[!info]+ Biographical Info  
