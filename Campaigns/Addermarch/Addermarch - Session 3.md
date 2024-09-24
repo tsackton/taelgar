@@ -1,5 +1,8 @@
 ## Day 8
-morning at the inn, get letters
+We begin in the morning at the Traveler's Rest in Roscombe. As [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] eat breakfast, they receive two letters. [[Letter from Owen Tavish|One]] is from [[Owen Tavish]], the priest of [[The Sibyl]]; the [[Letter from Elowen Duval|other]], sealed with green wax, imprinted with the Duval seal, showing a stylized valley between two mountains with an oak tree in the middle.
+
+During the day, the party rests and relaxes. Sunday is a market day, and [[Fazoth de Brune|Fazoth]] goes to the market to find a buyer for the ancient coins he found from the 
+
 sell coins
 meet caradoc in the evening, gives them cockatrice task as a trial
 
