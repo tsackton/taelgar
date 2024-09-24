@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/tim]
+tags: [organization, status/check/tim]
 displayDefaults: {defArt: "the"}
 name: Occulta Ludum
 typeOf: magical society

@@ -4,26 +4,26 @@ Tag a page here with either status/namecheck (for a new 'world level' name where
 
 ### Needs Name Confirmation
 ```dataview
-list from #status/namecheck 
+list from #status/check/name 
 sort file.name
 ```
 
 ### Needs Facts Checked
 ```dataview
-list from #status/factcheck 
+list from #status/check/minor 
 ```
 ### Check: Mike
 ```dataview
-list from #status/mike and !#status/tim
+list from #status/check/mike and !#status/check/tim
 ```
 
 ### Check: Tim
 ```dataview
-list from #status/tim and !#status/mike
+list from #status/check/tim and !#status/check/mike
 ```
 
 ### Check: Mike & Tim
 ```dataview
-list from #status/tim and #status/mike
+list from #status/check/tim and #status/check/mike
 ```
 

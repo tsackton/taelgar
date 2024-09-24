@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/tim]
+tags: [historical, person, status/check/tim]
 campaignInfo: []
 name: Sajan
 born:

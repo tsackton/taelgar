@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/blankslate, status/namecheck, place]
+tags: [status/needswork/blankslate, status/check/name, place]
 typeOf: realm
 whereabouts: Feywild
 ---

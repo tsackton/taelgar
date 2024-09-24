@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim, status/needswork/wip]
+tags: [person, status/check/tim, status/needswork/wip]
 displayDefaults: {boxInfo: '<subspecies:AU> (<species:s>), <pronouns>'}
 campaignInfo: []
 name: Eleuha

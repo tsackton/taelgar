@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim]
+tags: [place, status/check/tim]
 name: Kirian’s
 typeOf: inn
 whereabouts: Tokra

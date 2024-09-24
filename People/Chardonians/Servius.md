@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/tim]
+tags: [person, status/check/tim]
 name: Servius
 born: 1689
 species: human

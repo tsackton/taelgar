@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/tim, status/needswork/internal, status/namecheck, place]
+tags: [status/check/tim, status/needswork/internal, status/check/name, place]
 typeOf: mountain range
 whereabouts: West Coast Region
 ---

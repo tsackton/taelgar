@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/tim]
+tags: [person, status/needswork/external, status/check/tim]
 species: demon
 ---
 # Mashtu the Corruptor

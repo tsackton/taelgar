@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external, status/tim]
+tags: [place, status/needswork/external, status/check/tim]
 typeOf: lair
 ancestry: werewolf
 whereabouts: Tokra

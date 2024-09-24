@@ -1,5 +1,5 @@
 ---
-tags: [religion/kestavo, background, status/mike, status/tim]
+tags: [religion/kestavo, background, status/check/mike, status/check/tim]
 ---
 
 # The *kestavo*

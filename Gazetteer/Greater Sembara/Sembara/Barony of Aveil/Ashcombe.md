@@ -1,4 +1,4 @@
 ---
-tags: [status/stub, status/needswork/wip, status/mike, place]
+tags: [status/stub, status/needswork/wip, status/check/mike, place]
 ---
 	

@@ -1,5 +1,5 @@
 ---
-tags: [background, religion/dwarven, status/mike]
+tags: [background, religion/dwarven, status/check/mike]
 ---
 # Dwarven Religious Practice
 

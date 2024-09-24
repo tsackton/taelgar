@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/namecheck]
+tags: [place, status/check/name]
 whereabouts: Istaros Watershed
 typeOf: river
 ---

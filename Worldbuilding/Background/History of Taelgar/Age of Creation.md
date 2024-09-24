@@ -1,5 +1,5 @@
 ---
-tags: [status/tim, background]
+tags: [status/check/tim, background]
 ---
 
 %% NEEDS CLEANUP %%

@@ -1,5 +1,5 @@
 ---
-tags: [event, status/needswork/internal, status/namecheck]
+tags: [event, status/needswork/internal, status/check/name]
 name: Cursed Cold
 DR: 1583-05
 DR_end: 1583-10

@@ -1,5 +1,5 @@
 ---
-tags: [place, status/namecheck, status/tim, status/needswork]
+tags: [place, status/check/name, status/check/tim, status/needswork]
 ---
 
 

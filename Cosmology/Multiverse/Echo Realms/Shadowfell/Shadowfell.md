@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/complex, place, status/namecheck ]
+tags: [status/complex, place, status/check/name ]
 displayDefaults: {defArt: the, wHome: "One of the <home>"}
 whereabouts: Echo Realms
 typeOf: plane

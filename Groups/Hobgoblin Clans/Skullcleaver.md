@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/tim, organization, status/needswork/external]
+tags: [status/check/tim, organization, status/needswork/external]
 ancestry: hobgoblin
 whereabouts: Irrla
 typeOf: clan

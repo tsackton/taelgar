@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/tim]
+tags: [event-source, person, status/check/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1749-12-10, type: met}
 name: Murook

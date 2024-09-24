@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 typeOf: grassland
 whereabouts: Central Dunmar
-tags: [place, status/namecheck]
+tags: [place, status/check/name]
 aliases: [plains north of Tokra]
 displayDefaults: { linkText: "on", ltPlace: "on" }
 ---

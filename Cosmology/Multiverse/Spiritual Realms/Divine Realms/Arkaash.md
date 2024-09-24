@@ -1,5 +1,5 @@
 ---
-tags: [place, religion/fivesiblings, status/tim]
+tags: [place, religion/fivesiblings, status/check/tim]
 partOf: Divine Realms
 typeOf: plane
 ---

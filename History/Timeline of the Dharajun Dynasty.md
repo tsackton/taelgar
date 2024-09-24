@@ -1,5 +1,5 @@
 ---
-tags: [status/tim, timeline]
+tags: [status/check/tim, timeline]
 ---
 
 %% notes
