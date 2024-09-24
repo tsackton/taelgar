@@ -6,6 +6,8 @@ name: Teft
 typeOf: waterway
 typeOfAlias: river
 whereabouts: Sembara
+dm_notes: none
+dm_plans: no
 ---
 # Teft
 >[!info]+ Information  

@@ -1,9 +1,16 @@
 ---
-tags: [status/metadata/header, organization, status/cleanup/internal]
+headerVersion: 2023.11.25
+tags: [organization, status/cleanup/internal]
 displayDefaults: {defArt: "the" }
+ancestry: halfling
+typeOf: family
 dm_notes: none
 dm_plans: yes
 ---
+# The Merriweathers
+>[!info]+ Information  
+> A [[Halflings|halfling]] family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %% The merriweather family is an important halfling trading family in Aveil, especially plying the route along the [[Auberonne]] between Asalin and Rinburg. 
 

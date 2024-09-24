@@ -2,11 +2,12 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ""}
-campaignInfo: []
 name: Lake Kamchak
 typeOf: lake
 whereabouts: Zimkova
 aliases: [Kamchak]
+dm_notes: none
+dm_plans: no
 ---
 # Lake Kamchak
 >[!info]+ Information  

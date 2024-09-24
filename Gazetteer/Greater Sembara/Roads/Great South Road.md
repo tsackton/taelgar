@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 displayDefaults: {linkText: on}
 name: Great South Road
 typeOf: road
 whereabouts: Greater Sembara
+dm_notes: none
+dm_plans: no
 ---
 # The Great South Road
 >[!info]+ Information  

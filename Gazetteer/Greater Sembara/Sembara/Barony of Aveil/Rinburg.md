@@ -7,6 +7,8 @@ typeOfAlias: free city
 population: 2341
 whereabouts: Barony of Aveil
 pronunciation: Rin-burg
+dm_notes: color
+dm_plans: no
 ---
 # Rinburg
 *(Rin-burg)*

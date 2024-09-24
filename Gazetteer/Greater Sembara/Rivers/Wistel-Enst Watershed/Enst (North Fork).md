@@ -7,6 +7,8 @@ typeOf: waterway
 typeOfAlias: river
 whereabouts: Western Marches
 aliases: [North Fork, North Fork of the Enst]
+dm_notes: none
+dm_plans: no
 ---
 # The Enst (North Fork)
 >[!info]+ Information

@@ -8,6 +8,8 @@ population: 450
 typeOfAlias: village
 partOf: Tyrwingha
 pronunciation: AY-ben-veered
+dm_notes: none
+dm_plans: no
 ---
 # Abenfyrd
 *(AY-ben-veered)*

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/mawar, status/unknown]
+tags: [person, pc/mawar]
 campaignInfo:
 name: Ryu
 born:

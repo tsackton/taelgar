@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, pc/cleenseau, person, status/unknown]
+tags: [pc, pc/cleenseau, person]
 displayDefaults: { primaryOrgType: party}
 campaignInfo: []
 campaign: Cleenseau

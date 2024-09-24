@@ -4,6 +4,8 @@ tags: [place]
 typeOf: waterway
 typeOfAlias: river
 whereabouts: Borderlands
+dm_notes: none
+dm_plans: no
 ---
 # Clavert
 >[!info]+ Information  

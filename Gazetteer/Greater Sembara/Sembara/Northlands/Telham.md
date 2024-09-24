@@ -5,6 +5,7 @@ campaignInfo:
 name: Telham
 typeOf: city
 partOf: Duchy of Telham
+population: 12000
 ---
 # Telham
 >[!info]+ Information  
