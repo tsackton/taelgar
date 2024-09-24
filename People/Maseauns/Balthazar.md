@@ -11,7 +11,7 @@ whereabouts:
 - {type: away, location: "Wakog's Camp", start: 1719-10-14, end: 1719-12-05}
 - {type: home, start: 1719-12-06, location: Cleenseau}
 dm_notes: none
-dm_owner: yes
+dm_owner: mike
 ---
 # Balthazar
 >[!info]+ Biographical Info  

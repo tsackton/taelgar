@@ -8,9 +8,9 @@ gender: male
 whereabouts:
 - {type: home, location: Aslain }
 - {type: home, location: Beury }
-dm_notes: color
-dm_owner: no
 affiliations: [{org: d'Aslains, type: primary }]
+dm_notes: color
+dm_owner: mike
 ---
 # Jean-Luc D'Aslain
 >[!info]+ Biographical Info  

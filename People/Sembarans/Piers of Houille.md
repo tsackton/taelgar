@@ -6,7 +6,7 @@ whereabouts:
 - {location: Cranford, type: away, start: 1720-02-11, end: 1720-02-16 }
 died: 1720-02-16
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Piers of Houille
 >[!info]+ Biographical Info  

@@ -14,7 +14,7 @@ whereabouts:
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 - {type: away, start: 1720-01-20, end: 9999, location: Barony of Aveil  }
 dm_notes: none
-dm_owner: yes
+dm_owner: mike
 ---
 # Remille Vauclaire
 *(Ruh-mee Voh-klair)*

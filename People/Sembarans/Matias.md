@@ -7,7 +7,7 @@ ancestry: Sembaran
 gender: male
 whereabouts: Asineau
 affiliations: [{org: Asineau Manor Guard, title: Guardsman}]
-dm_owner: no
+dm_owner: none
 dm_notes: none
 ---
 # Matias

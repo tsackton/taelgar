@@ -8,7 +8,7 @@ species: human
 whereabouts: Laicon
 affiliations: [{org: Ausson's Crossing, type: leader, title: Proprietor, start: 1700 }]
 dm_notes: color
-dm_owner: no
+dm_owner: mike
 ---
 # Giselle Ausson
 >[!info]+ Biographical Info  

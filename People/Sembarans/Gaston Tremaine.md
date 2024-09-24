@@ -6,7 +6,7 @@ ancestry: Sembaran
 species: human
 born: 1700
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Gaston Tremaine
 >[!info]+ Biographical Info  

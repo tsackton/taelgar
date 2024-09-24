@@ -9,7 +9,7 @@ whereabouts:
 - {type: home, location: Army of the South }
 - {type: away, location: Cleenseau, start: 1720-01-26, end: 1720-02-15 }
 dm_notes: color
-dm_owner: yes
+dm_owner: mike
 ---
 # Bertrand Leclerc
 >[!info]+ Biographical Info  

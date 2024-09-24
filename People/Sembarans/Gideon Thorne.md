@@ -9,7 +9,7 @@ gender: male
 whereabouts:
 - {type: home, location: Auloutte}
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Gideon Thorne
 >[!info]+ Biographical Info  

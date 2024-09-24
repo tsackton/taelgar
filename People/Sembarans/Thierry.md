@@ -8,7 +8,7 @@ born: 1684
 gender: male
 pronunciation: Tee-eh-ree
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Thierry
 *(Tee-eh-ree)*

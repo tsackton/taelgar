@@ -9,7 +9,7 @@ ancestry: Sembaran
 gender: male
 whereabouts: Valit
 dm_notes: color
-dm_owner: no
+dm_owner: mike
 ---
 # Warin the Woodsman
 >[!info]+ Biographical Info

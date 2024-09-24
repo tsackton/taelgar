@@ -10,7 +10,7 @@ whereabouts:
 - { type: home, location: Veltor }
 - {type: away, location: Cranford, start: 1720-02-20, end: 1720-02-25 }
 dm_notes: color
-dm_owner: yes
+dm_owner: mike
 ---
 # Thomas Dyerson
 >[!info]+ Biographical Info  

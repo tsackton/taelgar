@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/update, status/cleanup/internal]
 name: Emilie
 born:
 species: human
@@ -12,7 +12,7 @@ whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Emilie
 *(Ay-mee-lee)*

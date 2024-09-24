@@ -9,7 +9,7 @@ ancestry: Sembaran
 gender: male
 whereabouts: Asineau
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Arnold the Miller
 >[!info]+ Biographical Info

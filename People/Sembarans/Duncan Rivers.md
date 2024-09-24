@@ -9,7 +9,7 @@ affiliations:
 - {org: The Bandit’s End, type: leader, title: Proprietor }
 whereabouts: The Bandit’s End
 dm_notes: none
-dm_owner: yes
+dm_owner: mike
 ---
 # Duncan Rivers
 >[!info]+ Biographical Info  

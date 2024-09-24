@@ -6,7 +6,7 @@ ancestry: Sembaran
 whereabouts: Valit
 born: 1686
 dm_notes: color
-dm_owner: yes
+dm_owner: mike
 ---
 # Giselle
 >[!info]+ Biographical Info  

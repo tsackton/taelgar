@@ -8,7 +8,7 @@ gender: female
 born: 1688
 died: 1720-01-04
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Emmeline Duval
 >[!info]+ Biographical Info  

@@ -11,7 +11,7 @@ gender: female
 whereabouts:
 - {type: home, location: Cleenseau}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Margaret Ashford
 >[!info]+ Biographical Info  

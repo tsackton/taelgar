@@ -6,7 +6,7 @@ gender: female
 species: human
 ancestry: Sembaran
 dm_notes: color
-dm_owner: no
+dm_owner: mike
 ---
 # Susanna Northwoods
 >[!info]+ Biographical Info  

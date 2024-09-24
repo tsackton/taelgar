@@ -10,7 +10,7 @@ whereabouts: Veltor
 affiliations:
 - { org: Barony of Aveil, type: leader}
 died: 1719-03-19
-dm_owner: no
+dm_owner: mike
 dm_notes: important
 ---
 # Reginald Rusebek

@@ -10,7 +10,7 @@ whereabouts:
 - {type: home, start: '', end: 1716, location: Embry}
 - {type: away, start: 1716, end: '', prefix: somewhere on, location: Semb}
 dm_notes: color
-dm_owner: yes
+dm_owner: mike
 ---
 # Tal
 >[!info]+ Biographical Info  

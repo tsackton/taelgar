@@ -8,7 +8,7 @@ gender: female
 born: 1680
 died: 1720-01-04
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Seraphine Harper
 >[!info]+ Biographical Info  

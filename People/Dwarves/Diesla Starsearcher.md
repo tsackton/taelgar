@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: Ardith}
 - {type: home, start: 1670, location: Taviose}
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Diesla Starsearcher
 >[!info]+ Biographical Info  

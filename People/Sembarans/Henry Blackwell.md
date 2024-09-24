@@ -8,7 +8,7 @@ species: human
 ancestry: Sembaran
 gender: male
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Henry Blackwell
 >[!info]+ Biographical Info  

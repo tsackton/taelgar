@@ -11,7 +11,7 @@ whereabouts:
 - {type: home, start: 1670, location: Taviose}
 - {type: away, start: 1719-11-21, end: 1719-12-23, location: Dunfry}
 dm_notes: color
-dm_owner: no
+dm_owner: mike
 ---
 # Brot Starsearcher
 >[!info]+ Biographical Info  

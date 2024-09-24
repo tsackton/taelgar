@@ -8,7 +8,7 @@ ancestry: Sembaran
 gender: male
 whereabouts: Taviose
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Hugh Darrow
 >[!info]+ Biographical Info  

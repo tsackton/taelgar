@@ -11,7 +11,7 @@ pronunciation: mahr-guh-REET deh-SHAHN
 affiliations:
 - { org: Barony of Aveil, start: 1719-05, type: Chief Clerk}
 dm_notes: important
-dm_owner: yes
+dm_owner: mike
 ---
 # Marguerite Deschamps
 *(mahr-guh-REET deh-SHAHN)*

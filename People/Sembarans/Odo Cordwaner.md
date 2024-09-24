@@ -15,7 +15,7 @@ whereabouts:
 - {type: home, location: Cleenseau, start: 1718 }
 - {type: away, start: 1719-10-21, end: 1719-10-23, location: Taviose}
 - {type: home, start: 1719-11-16, location: Taviose}
-dm_owner: yes
+dm_owner: mike
 dm_notes: color
 ---
 # Odo Cordwaner

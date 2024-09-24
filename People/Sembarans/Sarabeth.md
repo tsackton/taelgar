@@ -14,7 +14,7 @@ whereabouts:
 - {type: home, location: Dunfry }
 - {type: home, location: Cleenseau }
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Sarabeth
 >[!info]+ Biographical Info

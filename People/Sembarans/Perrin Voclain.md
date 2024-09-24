@@ -11,7 +11,7 @@ whereabouts:
 - {type: home, location: Taviose}
 - {type: away, start: 1719-10-21, end: 1719-10-26, location: Valit}
 dm_notes: color
-dm_owner: no
+dm_owner: mike
 ---
 # Perrin Voclain
 >[!info]+ Biographical Info  

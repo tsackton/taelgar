@@ -8,7 +8,7 @@ whereabouts:
 - {type: home, location: Asineau, end: 1715 }
 born: 1662
 dm_notes: important
-dm_owner: yes
+dm_owner: mike
 ---
 # Lucas Asa
 >[!info]+ Biographical Info  

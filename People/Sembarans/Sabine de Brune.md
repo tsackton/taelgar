@@ -8,10 +8,10 @@ ancestry: Sembaran
 gender: female
 affiliations:
 - {org: Valit, title: Castellan }
+- {org: de Brunes, type: primary }
 whereabouts: Valit
-dm_owner: no
+dm_owner: mike
 dm_notes: important
-affiliations: [{org: de Brunes, type: primary }]
 ---
 # Sabine de Brune
 >[!info]+ Biographical Info  

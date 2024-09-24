@@ -7,7 +7,7 @@ ancestry: Sembaran
 whereabouts:
 - {type: home, location: Asineau, start: 1717 }
 dm_notes: important
-dm_owner: no
+dm_owner: mike
 ---
 # Isolde
 >[!info]+ Biographical Info  
