@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update, status/tim]
+tags: [person, status/update, status/check/tim]
 name: Sabine de Brune
 born: 1662
 species: human

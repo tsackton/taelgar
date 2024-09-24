@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/kestavo, status/tim, status/mike]
+tags: [deity, religion/kestavo, status/check/tim, status/check/mike]
 gender: female
 ---
 # Besla

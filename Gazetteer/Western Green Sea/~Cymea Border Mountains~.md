@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip, status/namecheck]
+tags: [place, status/needswork/wip, status/check/name]
 typeOf: mountain range
 whereabouts: Cymea
 ---

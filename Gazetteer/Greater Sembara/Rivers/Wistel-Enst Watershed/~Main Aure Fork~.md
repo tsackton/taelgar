@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/namecheck, status/stub, place]
+tags: [status/check/name, status/stub, place]
 whereabouts: Addermarch
 typeOf: river
 ---

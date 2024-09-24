@@ -1,5 +1,5 @@
 ---
-tags: [background, religion/halflings, status/tim, status/mike]
+tags: [background, religion/halflings, status/check/tim, status/check/mike]
 ---
 # Halfling Religious Practice
 

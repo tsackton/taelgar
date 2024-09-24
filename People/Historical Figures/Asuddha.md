@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/tim]
+tags: [person, historical, status/check/tim]
 campaignInfo: []
 name: Asuddha
 born: 1136

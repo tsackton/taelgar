@@ -1,5 +1,5 @@
 ---
-tags: [holiday, status/tim]
+tags: [holiday, status/check/tim]
 name: Feast of Bhishma
 fc-date: {day: 17, month: 6, year: 1748}
 fc-end: {day: 19, month: 6, year: 1748}

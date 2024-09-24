@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 aliases: [centaur, Centaur]
 tags: [species]
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Centaurs
 

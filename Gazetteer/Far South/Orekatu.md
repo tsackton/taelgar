@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/tim, status/needswork/wip]
+tags: [place, status/check/tim, status/needswork/wip]
 campaignInfo:
 name: Orekatu
 typeOf: realm

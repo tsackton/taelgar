@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/shared, status/mike]
+tags: [background, status/needswork/shared, status/check/mike]
 ---
 
 %%tagging status/mike in case there are additional, non-shared information in your DM notes or elsewhere; if so can add status/needswork/external or add them below%%

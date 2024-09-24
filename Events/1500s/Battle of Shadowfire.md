@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/metadata/header, status/tim]
+tags: [event, status/metadata/header, status/check/tim]
 ---
 # The Battle of Shadowfire
 

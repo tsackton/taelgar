@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/factcheck]
+tags: [historical, person/ruler, status/check/minor]
 name: Derik I
 born: 1396
 species: human

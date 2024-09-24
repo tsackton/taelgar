@@ -1,9 +1,11 @@
 ---
-tags: [background, status/complex]
+tags: [background, status/needswork/shared]
 ---
 
 %% 
 This needs updates based on various refinements, and could probably be incorporated into other notes in some cases. For now I've removed the creation story as part of incorporating it into the main History of Taelgar article 
+
+note that this page cannot be trusted until reviewed based on 
 %%
 ## The Nature of the Divine
 

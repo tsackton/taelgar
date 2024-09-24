@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/tim]
+tags: [organization, status/check/tim]
 typeOf: clan
 ancestry: hobgoblin
 ---

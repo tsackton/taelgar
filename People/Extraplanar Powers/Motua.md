@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, event-source, status/tim]
+tags: [person, event-source, status/check/tim]
 displayDefaults: {boxInfo: '<subspecies:sA> (<species>), <pronouns>'}
 campaignInfo:
 name: Motua

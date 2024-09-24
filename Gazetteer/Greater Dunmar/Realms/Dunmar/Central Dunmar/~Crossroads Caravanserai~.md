@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {linkText: "at"}
-tags: [place, status/namecheck]
+tags: [place, status/check/name]
 typeOf: inn
 partOf: Stoneway
 ---

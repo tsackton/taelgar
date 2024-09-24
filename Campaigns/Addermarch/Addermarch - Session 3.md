@@ -9,7 +9,7 @@ During the day, the party rests and relaxes. Sunday is a market day, and [[Fazot
 
 Soon, the party finds a statue of a dwarf with its arms broken off, a rotted pouch at its feet hinting at the possessions of a treasure hunter. Exploring the passages that lead from this chamber, they encounter a dead end first, where a shadow attempts to ambush them, thwarted by perceptive [[Yvan Greenrabbit|Yvan]], who notices the shadow moving. As the skeleton on the ground rises up to attack, [[Fazoth de Brune|Fazoth]] taunts it with Vicious Mockery, causing it to miss, while [[Yvan Greenrabbit|Yvan]] destroys the shadow with a burst of fire. 
 
-Continuing to explore the cave, the party finds the main cavern of the cockatrice, discovering that it has apparently made its lair 
+Continuing to explore the cave, the party finds the main cavern of the cockatrice, discovering that it has apparently made its lair in a place with 
 
 
 return to dwarf chamber, go southwest passage

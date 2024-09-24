@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/namecheck, status/tim]
+tags: [place, status/needswork, status/check/name, status/check/tim]
 typeOf: watershed
 whereabouts: Greater Dunmar
 ---

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip, status/tim]
+tags: [place, status/needswork/wip, status/check/tim]
 whereabouts: Tollen
 displayDefaults: { defArt: ""}
 typeOf: ward

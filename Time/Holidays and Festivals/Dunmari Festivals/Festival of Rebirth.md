@@ -1,5 +1,5 @@
 ---
-tags: [holiday, status/needswork/internal, status/tim]
+tags: [holiday, status/needswork/internal, status/check/tim]
 name: Festival of Rebirth
 fc-date: 1748-4-6
 ---

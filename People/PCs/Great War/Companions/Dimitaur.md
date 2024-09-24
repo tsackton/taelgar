@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, pc, person, status/needswork/wip, status/tim]
+tags: [pc/companion, pc, person, status/needswork/wip, status/check/tim]
 name: Dimitaur
 born:
 species:

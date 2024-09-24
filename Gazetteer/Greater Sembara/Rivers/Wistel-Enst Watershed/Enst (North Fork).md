@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/namecheck]
+tags: [place, status/check/name]
 campaignInfo: []
 name: Enst (North Fork)
 typeOf: waterway

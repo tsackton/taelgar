@@ -1,5 +1,5 @@
 ---
-tags: [event, status/namecheck, status/needswork/wip, status/tim]
+tags: [event, status/check/name, status/needswork/wip, status/check/tim]
 name: First Plague
 aliases: 
 DR: 1059

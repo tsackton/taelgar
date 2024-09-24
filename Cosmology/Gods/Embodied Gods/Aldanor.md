@@ -1,5 +1,5 @@
 ---
-tags: [deity, status/needswork/blankslate, status/tim]
+tags: [deity, status/needswork/blankslate, status/check/tim]
 affiliations: [elves]
 ---
 

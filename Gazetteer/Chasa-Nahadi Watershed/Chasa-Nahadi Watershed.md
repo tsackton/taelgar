@@ -1,5 +1,5 @@
 ---
-tags: [place, status/stub, status/tim]
+tags: [place, status/stub, status/check/tim]
 typeOf: region
 ---
 

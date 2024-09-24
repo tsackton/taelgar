@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update, status/tim]
+tags: [person, status/update, status/check/tim]
 ancestry: Sembaran
 born: 1684
 species: human

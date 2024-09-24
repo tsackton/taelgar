@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/tim, place]
+tags: [status/check/tim, place]
 campaignInfo: []
 name: Drankorian Empire
 aliases: [Drankor]
