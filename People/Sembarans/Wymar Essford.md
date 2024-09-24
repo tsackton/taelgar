@@ -14,7 +14,7 @@ affiliations:
 - { org: Essords, type: primary }
 whereabouts: Cleenseau
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # Lord Wymar Essford
 >[!info]+ Biographical Info

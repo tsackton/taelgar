@@ -6,7 +6,7 @@ whereabouts: Cleenseau
 species: human
 ancestry: Isinguer
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Genevote
 >[!info]+ Biographical Info  

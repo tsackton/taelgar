@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, location: Beggar's Way}
 - {type: away, linkText: at, alias: bandit lair upriver of Cleenseau, location: Cleenseau, start: 1719-11-03 }
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Terry the Bandit
 >[!info]+ Biographical Info  

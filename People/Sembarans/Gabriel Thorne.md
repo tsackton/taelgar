@@ -9,7 +9,7 @@ gender: male
 affiliations: 
 whereabouts: Cleenseau
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Gabriel Thorne
 >[!info]+ Biographical Info  

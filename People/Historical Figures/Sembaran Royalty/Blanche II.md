@@ -14,7 +14,7 @@ leaderOf:
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Queen Blanche II
 >[!info]+ Biographical Info  

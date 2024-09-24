@@ -7,7 +7,7 @@ ancestry: Isinguer
 gender: male
 whereabouts: Valarin
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # Marcel de Valarin
 >[!info]+ Biographical Info

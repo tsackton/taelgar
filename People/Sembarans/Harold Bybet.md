@@ -7,7 +7,7 @@ species: human
 gender: male
 whereabouts: Cleenseau
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Harold Bybet
 >[!info]+ Biographical Info  

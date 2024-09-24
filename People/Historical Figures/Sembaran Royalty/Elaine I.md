@@ -15,7 +15,7 @@ affiliations:
 - {place: Sembara, start: 1582}
 - {place: Tyrwingha, start: 1589, title: Queen}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Queen Elaine I
 >[!info]+ Biographical Info

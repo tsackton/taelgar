@@ -5,7 +5,7 @@ typeOf: clan
 ancestry: dwarven
 whereabouts: Barony of Aveil
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Ferrystones
 >[!info]+ Information  

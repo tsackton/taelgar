@@ -5,7 +5,7 @@ displayDefaults: {defArt: "the" }
 ancestry: halfling
 typeOf: family
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # The Merriweathers
 >[!info]+ Information  

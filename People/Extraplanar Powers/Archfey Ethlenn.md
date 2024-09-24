@@ -9,7 +9,7 @@ gender: female
 aliases: [Queen of the Evening Mist]
 whereabouts: Twilight's Grace
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # Archfey Ethlenn
 >[!info]+ Biographical Info

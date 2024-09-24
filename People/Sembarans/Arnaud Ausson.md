@@ -9,7 +9,7 @@ whereabouts:
 - {type: home, location: Laicon, end: 1698 }
 - {type: home, location: Cleenseau, start: 1699 }
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Arnaud Ausson
 >[!info]+ Biographical Info  

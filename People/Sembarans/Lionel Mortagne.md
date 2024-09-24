@@ -9,7 +9,7 @@ pronunciation: Li-o-nel Mor-tahn-yeh
 gender: male
 born: 1686
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Lionel Mortagne
 *(Li-o-nel Mor-tahn-yeh)*

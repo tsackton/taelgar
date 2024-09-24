@@ -13,7 +13,7 @@ affiliations:
 - {place: Sembara, start: 1602}
 - {place: Tyrwingha, start: 1602}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # King Arryn II
 >[!info]+ Biographical Info  

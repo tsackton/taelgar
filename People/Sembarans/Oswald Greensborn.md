@@ -6,7 +6,7 @@ species: human
 gender: male
 whereabouts: Barony of Vaubonne
 affiliations: [{org: The Rangers}]
-dm_plans: no
+dm_owner: no
 dm_notes: none
 ---
 # Oswald Greensborn

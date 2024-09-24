@@ -6,7 +6,7 @@ typeOf: army
 partOf: Sembaran Army
 whereabouts: Fellburn
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # The Army of the South
 >[!info]+ Information  

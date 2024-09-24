@@ -11,7 +11,7 @@ whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # Adra Brightwood
 >[!info]+ Biographical Info  

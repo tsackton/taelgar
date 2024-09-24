@@ -12,7 +12,7 @@ whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # Damien Montrichard
 *(Dah-mee-en Mon-tree-shar)*

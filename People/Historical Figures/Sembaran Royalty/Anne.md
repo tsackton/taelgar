@@ -12,7 +12,7 @@ affiliations:
 - {org: House of Sewick, type: primary}
 - {place: Breva, title: Queen, start: 1568}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Anne of Sewick
 >[!info]+ Biographical Info

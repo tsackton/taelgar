@@ -5,7 +5,7 @@ typeOf: settlement
 typeOfAlias: market town
 whereabouts: Tyrwingha
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Ruthin
 >[!info]+ Information  

@@ -13,7 +13,7 @@ whereabouts:
 - {type: home, location: Dunfry}
 - {type: away, start: 1719-11-28, end: 1719-11-30, location: Cleenseau}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Quetin
 >[!info]+ Biographical Info  

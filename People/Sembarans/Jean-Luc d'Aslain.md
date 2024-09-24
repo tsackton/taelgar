@@ -9,7 +9,7 @@ whereabouts:
 - {type: home, location: Aslain }
 - {type: home, location: Beury }
 dm_notes: color
-dm_plans: no
+dm_owner: no
 affiliations: [{org: d'Aslains, type: primary }]
 ---
 # Jean-Luc D'Aslain

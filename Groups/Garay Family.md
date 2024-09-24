@@ -6,7 +6,7 @@ typeOfAlias: merchant family
 ancestory: Sembaran
 whereabouts: Embry
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # The Garay Family
 >[!info]+ Information  

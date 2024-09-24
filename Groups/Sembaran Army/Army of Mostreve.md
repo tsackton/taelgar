@@ -6,7 +6,7 @@ name: Army of Mostreve
 partOf: Sembaran Army
 typeOf: army
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # The Army of Mostreve
 >[!info]+ Information  

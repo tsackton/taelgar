@@ -5,7 +5,7 @@ species: human
 gender: male
 born: 1689
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # Caradoc
 >[!info]+ Biographical Info  

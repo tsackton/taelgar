@@ -14,7 +14,7 @@ whereabouts:
 - {type: home, location: 'Cleenseau' }
 - {type: away, location: 'Army Garrison of Cleenseau'}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Ancer Benthey
 >[!info]+ Biographical Info  

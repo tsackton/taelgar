@@ -9,7 +9,7 @@ gender: male
 died: 1562
 affiliations: [{org: House of Wisenfold, type: primary} ]
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Hugh
 >[!info]+ Biographical Info

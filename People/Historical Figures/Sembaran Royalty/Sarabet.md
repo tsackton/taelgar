@@ -8,7 +8,7 @@ ancestry: Sembaran
 gender: female
 died: 1529
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Sarabet
 >[!info]+ Biographical Info  

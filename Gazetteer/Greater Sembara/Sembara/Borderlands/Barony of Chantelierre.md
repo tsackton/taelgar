@@ -5,7 +5,7 @@ typeOf: barony
 whereabouts: Borderlands
 pronunciation: SHAWN-tel-ee-air
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # The Barony of Chantelierre
 *(SHAWN-tel-ee-air)*

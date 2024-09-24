@@ -5,7 +5,7 @@ name: Roscombe
 typeOf: market town
 whereabouts: Carlinshire
 dm_notes: important
-dm_plans: yes
+dm_owner: yes
 ---
 # Roscombe
 >[!info]+ Information  

@@ -13,7 +13,7 @@ whereabouts:
 - {type: away, start: 1719-11-29, end: 1719-12-01, location: Bandit's Way}
 - {type: away, start: 1719-12-01, end: 1719-12-10, location: Cleenseau}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Guy de Varan
 >[!info]+ Biographical Info  

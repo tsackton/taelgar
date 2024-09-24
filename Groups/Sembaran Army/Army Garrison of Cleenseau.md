@@ -9,7 +9,7 @@ whereabouts:
 - {type: home, location: Cleenseau }
 - {type: away, end: 1720-01-10, location: Dunfry}
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # The Army Garrison of Cleenseau
 

@@ -11,7 +11,7 @@ affiliations:
 - { place: Manor of Beury }
 whereabouts: Beury
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # Lord Erick Murtha
 >[!info]+ Biographical Info  

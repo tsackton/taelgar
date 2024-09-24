@@ -6,7 +6,7 @@ gender: male
 title: Marshal
 ancestry: Addermarian
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Hildo Brask
 >[!info]+ Biographical Info  

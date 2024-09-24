@@ -13,7 +13,7 @@ whereabouts:
 - {type: away, start: 1719-10-15, end: 1719-10-29, location: 'Bandit''s Way'}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: 'Dunfry'}
 dm_notes: important
-dm_plans: no
+dm_owner: no
 ---
 # Sergeant Eveyln Totteridge
 >[!info]+ Biographical Info  

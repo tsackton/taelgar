@@ -18,7 +18,7 @@ whereabouts:
 - {type: away, start: 1748-03-03, end: 1748-03-05, location: Karawa}
 - {type: away, start: 1748-03-14, end: 9999, location: Dunmari Fort (Gomat)}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Arcus
 >[!info]+ Biographical Info

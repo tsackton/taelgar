@@ -1,7 +1,7 @@
 ---
 tags: [status/metadata/header, status/cleanup/internal, place]
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 
 %% a small town on the road from Eskbridge to Tafolwern about a 3 day journey south from Eskbridge 

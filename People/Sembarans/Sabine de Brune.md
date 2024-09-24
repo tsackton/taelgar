@@ -9,7 +9,7 @@ gender: female
 affiliations:
 - {org: Valit, title: Castellan }
 whereabouts: Valit
-dm_plans: no
+dm_owner: no
 dm_notes: important
 affiliations: [{org: de Brunes, type: primary }]
 ---

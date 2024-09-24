@@ -4,7 +4,7 @@ tags: [status/cleanup/internal, person]
 species: halfling
 gender: male
 dm_notes: color
-dm_plans: no
+dm_owner: no
 affiliations: [{org: Merriweathers, type: primary}]
 whereabouts: Aslain
 ---

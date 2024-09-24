@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/needswork/wip]
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Corrine Morphokamia
 

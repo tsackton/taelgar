@@ -10,7 +10,7 @@ reignStart:
 died: 1706
 affiliations: [{org: House of Lils, type: primary}]
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Gyles
 >[!info]+ Biographical Info

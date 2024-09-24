@@ -13,7 +13,7 @@ affiliations:
 - {org: Lord's Guard of Cleenseau, start: 1720-01-11, title: Sheriff }
 whereabouts: Cleenseau
 dm_notes: color
-dm_plans: yes
+dm_owner: yes
 ---
 # Béatrix of Cleenseau
 >[!info]+ Biographical Info

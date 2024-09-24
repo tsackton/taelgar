@@ -5,7 +5,7 @@ typeOf: family
 typeOfAlias: noble family
 whereabouts: Sembara
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # The House of Teckberg
 >[!info]+ Information  

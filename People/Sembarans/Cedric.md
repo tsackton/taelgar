@@ -10,7 +10,7 @@ gender: male
 whereabouts:
 - {type: home, location: Cleenseau}
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Cedric
 >[!info]+ Biographical Info  

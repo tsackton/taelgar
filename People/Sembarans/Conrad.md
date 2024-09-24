@@ -9,7 +9,7 @@ ancestry: Sembaran
 gender: male
 whereabouts: Cleenseau
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # Conrad
 >[!info]+ Biographical Info

@@ -7,7 +7,7 @@ gender: male
 died: 1719-12-06
 whereabouts: Wakog's Camp
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Wakog
 >[!info]+ Biographical Info  

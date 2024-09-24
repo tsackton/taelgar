@@ -9,7 +9,7 @@ ancestry: dwarven
 aliases: [Barzinduk]
 whereabouts: Nidzahar
 dm_notes: none
-dm_plans: yes
+dm_owner: yes
 ---
 # The Gemcrafters
 >[!info]+ Information

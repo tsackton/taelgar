@@ -9,7 +9,7 @@ ancestry: halfling
 # date is approximate
 created: 1200
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # The Stonebridges
 >[!info]+ Information

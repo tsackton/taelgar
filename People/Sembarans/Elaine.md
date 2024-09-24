@@ -6,7 +6,7 @@ gender: female
 species: human
 ancestry: Zimka
 dm_notes: none
-dm_plans: no
+dm_owner: no
 ---
 # Elaine
 >[!info]+ Biographical Info  

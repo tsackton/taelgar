@@ -15,7 +15,7 @@ whereabouts:
 - {type: away, location: Rinburg, start: 1720-01-17, end: 1720-01-19 }
 - {type: away, location: Borderlands, start: 1720-01-19, linkText: heading towards, wLastKnown: "Last known location (as of <lastknowndate>): <lastKnown:q>" }
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Lorin Valbert
 >[!info]+ Biographical Info  

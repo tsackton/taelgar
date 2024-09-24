@@ -13,7 +13,7 @@ affiliations:
 - {org: Essfords, title: Steward }
 - {org: Lord's Council of Cleenseau }
 dm_notes: color
-dm_plans: no
+dm_owner: no
 ---
 # Jonathon Henwyn
 >[!info]+ Biographical Info  
