@@ -28,7 +28,7 @@ image: alesh-portrait.jpg
 - Friendly with most people of [[Karawa]], but fairly independent and not particularly associated with either [[Havdar]]'s warriors or [[Candrosa]] and the [[Shakun Mystai]]. Finds [[Havdar]] a bit brash. 
 - Knows by sight and name, if not well, many of the families that travel across the eastern plains of [[Dunmar]]. 
 - Her extended family are traditional goat herders who travel mostly to the north and west of [[Karawa]]. 
-- Served as a scout and messenger for [[Sura]] during the lead up to the [[Siblings War]], although she did not fight in the conflict. 
+- Served as a scout and messenger for [[Sura]] during the lead up to the [[Sibling War]], although she did not fight in the conflict. 
 
 ## Chronology
 - (DR:: 1748-03-21): Spends the night at the [[Gomat]] oasis with [[Akan]] and his family

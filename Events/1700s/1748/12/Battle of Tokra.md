@@ -9,7 +9,7 @@ typeOf: battle
 # The Battle of Tokra
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> Part of the [[Siblings War]]
+> Part of the [[Sibling War]]
 
 A battle fought outside Tokra by the army of [[Sura]] against a company of Chardonian battle mages and a small group of Dunmari warriors loyal to [[Nayan Karnas]]. 
 
