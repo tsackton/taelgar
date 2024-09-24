@@ -9,7 +9,7 @@ gender: female
 affiliations: [Order of the Charitable Wanderer]
 whereabouts: Duchy of Maseau
 dm_notes: important
-dm_owner: yes
+dm_owner: mike
 ---
 # Narrisa de Abadelle
 >[!info]+ Biographical Info  

@@ -7,7 +7,7 @@ name: Mabel of Cleenseau
 born: 1693
 whereabouts: Cleenseau
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Mabel of Cleenseau
 >[!info]+ Biographical Info  

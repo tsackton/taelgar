@@ -7,7 +7,7 @@ ancestry: Sembaran
 species: human
 born: 1679
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Collette Murtha
 >[!info]+ Biographical Info  

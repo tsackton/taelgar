@@ -10,7 +10,7 @@ whereabouts: Taviose
 born: 1666
 died: 1719-10-21
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Denis Moss
 >[!info]+ Biographical Info

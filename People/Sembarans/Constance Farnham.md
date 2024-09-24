@@ -7,7 +7,7 @@ gender: female
 species: human
 ancestry: Sembara
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Constance Farnham
 >[!info]+ Biographical Info  

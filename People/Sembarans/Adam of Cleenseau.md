@@ -13,7 +13,7 @@ whereabouts:
 - {type: away, start: 1719-10-21, end: 1719-10-21, location: Cleenseau Wood}
 - {type: away, start: 1719-11-27, end: 1720-01-10, location: Dunfry}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Adam
 >[!info]+ Biographical Info  

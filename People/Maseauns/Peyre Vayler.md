@@ -10,7 +10,7 @@ whereabouts: Evis
 title: Lord
 affiliations: [{org: Evis, type: leader}]
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Lord Peyre Vayler
 >[!info]+ Biographical Info  

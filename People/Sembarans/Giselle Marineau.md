@@ -7,7 +7,7 @@ species: human
 ancestry: Sembaran
 whereabouts: Rinburg
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Giselle Marineau
 *(Zhee-zell Mah-ree-no)*

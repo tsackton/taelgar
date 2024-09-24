@@ -1,8 +1,20 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/needswork/wip]
+gender: female
+species: human
+ancestry: Addermarian
+whereabouts:
+- {type: home, location: Barony of Brumecliff }
+- {type: home, location: Asineau }
+- {type: away }
 dm_notes: important
-dm_owner: yes
+dm_owner: mike
 ---
+# Sarabeth Asa
+>[!info]+ Biographical Info  
+> An Addermarian [[Humans|human]] (she/her)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%
 The previous lord of Asieneau, who disappeared mysteriously 4 years ago, and his mother, who disappeared in 1667

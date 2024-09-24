@@ -13,7 +13,7 @@ whereabouts:
 - {type: home, start: 1709, end: 1711, location: Cleenseau}
 - {type: home, start: 1712, location: "The Fox's Flagon"}
 dm_notes: none
-dm_owner: no
+dm_owner: mike
 ---
 # Selma Wisthelwind
 >[!info]+ Biographical Info  

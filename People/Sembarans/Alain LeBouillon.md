@@ -7,7 +7,7 @@ whereabouts: Cleenseau
 gender: male
 born: 1659
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Alain LeBouillon
 >[!info]+ Biographical Info  

@@ -13,7 +13,7 @@ whereabouts:
 - {type: home, location: Embry}
 - {type: away, start: 1719-11-07, end: 1719-11-22, location: Cleenseau}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Vincent de Arban
 >[!info]+ Biographical Info  

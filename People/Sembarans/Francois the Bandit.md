@@ -11,7 +11,7 @@ aliases: [François the Bandit]
 died: 1719-11-05
 whereabouts: Cleenseau Region
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # François the Bandit
 >[!info]+ Biographical Info  

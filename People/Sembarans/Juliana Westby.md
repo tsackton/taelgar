@@ -1,8 +1,18 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/needswork/wip]
 dm_notes: color
-dm_owner: yes
+dm_owner: mike
+whereabouts: Cranford
+species: human
+ancestry: Sembaran
+gender: female
 ---
+# Juliana Westby
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
 
 ![[juliana-westby.png|left|200]]
 

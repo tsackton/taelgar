@@ -10,7 +10,7 @@ whereabouts:
 - {type: home, location: Beury}
 - {type: away, location: Cleenseau, start: 1719-11-28, end: 1719-12-11 }
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Jasper
 >[!info]+ Biographical Info  

@@ -7,7 +7,7 @@ species: human
 gender: female
 whereabouts: Cleenseau
 dm_notes: color
-dm_owner: no
+dm_owner: mike
 affiliations: [{org: de Brunes, type: primary }]
 ---
 # Catherine de Brune

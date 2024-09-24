@@ -10,7 +10,7 @@ whereabouts: Duchy of Wisford
 affiliations:
 - { type: leader, org: Duchy of Wisford, start: 1700 }
 dm_notes: important
-dm_owner: yes
+dm_owner: mike
 ---
 # Jacques Bellemont
 >[!info]+ Biographical Info  

@@ -7,7 +7,7 @@ gender: male
 species: human
 ancestry: Sembaran
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Bertram Northwoods
 >[!info]+ Biographical Info  

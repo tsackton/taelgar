@@ -12,7 +12,7 @@ whereabouts:
 - {type: home }
 - {location: Cleenseau Region, type: home }
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Robert
 >[!info]+ Biographical Info  

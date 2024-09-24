@@ -15,7 +15,7 @@ whereabouts:
 - {type: away, start: 1719-12-07, end: 1719-12-12, location: Cleenseau}
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Agnés of Evis
 >[!info]+ Biographical Info  

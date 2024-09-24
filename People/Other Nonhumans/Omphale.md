@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [status/cleanup/internal, person]
 species: centaur
 dm_notes: none
-dm_owner: yes
+dm_owner: mike
 whereabouts: Cleenseau Wood
 ---
 # Omphale

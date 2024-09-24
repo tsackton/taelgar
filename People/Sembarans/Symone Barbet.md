@@ -11,7 +11,7 @@ aliases: [Major Symone Barbet]
 affiliations: [{org: Dunfry Regiment, type: leader}]
 whereabouts: Barony of Dunfry
 dm_notes: none
-dm_owner: yes
+dm_owner: mike
 ---
 # Major Symone Barbet
 >[!info]+ Biographical Info  

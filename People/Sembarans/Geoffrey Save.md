@@ -9,7 +9,7 @@ whereabouts:
 - {type: home, location: Embry, end: 1699}
 - {type: home, location: Cleenseau, start: 1700}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Geoffrey Save
 >[!info]+ Biographical Info  

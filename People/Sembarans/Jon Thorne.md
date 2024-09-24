@@ -7,7 +7,7 @@ gender: male
 whereabouts: Cleenseau
 born: 1669
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Jon Thorne
 >[!info]+ Biographical Info  

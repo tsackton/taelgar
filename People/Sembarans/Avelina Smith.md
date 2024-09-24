@@ -8,7 +8,7 @@ ancestry: Zimka
 gender: female
 whereabouts: Cleenseau
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Avelina Smith
 >[!info]+ Biographical Info  
