@@ -1,8 +1,15 @@
 ---
+headerVersion: 2023.11.25
 typeOf: islands
 whereabouts: Green Sea
-tags: [status/stub, place]
+tags: [place, status/needswork/external]
+dm_notes: important
+dm_owner: tim
 ---
+# The ~Eastern Islands~
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
 %%
