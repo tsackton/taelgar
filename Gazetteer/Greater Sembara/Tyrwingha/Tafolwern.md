@@ -6,7 +6,7 @@ typeOf: city
 whereabouts: Tyrwingha
 pronunciation: Tav-ol-WERN
 dm_notes: none
-dm_owner: no
+dm_owner: mike
 ---
 # Tafolwern
 *(Tav-ol-WERN)*

@@ -7,7 +7,7 @@ name: Army of the West
 typeOf: army
 partOf: Sembaran Army
 dm_notes: important
-dm_owner: yes
+dm_owner: mike
 ---
 # The Army of the West
 >[!info]+ Information

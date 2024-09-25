@@ -6,7 +6,7 @@ typeOf: city
 partOf: Duchy of Arnsbury
 population: 4500
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Arnsbury
 >[!info]+ Information  

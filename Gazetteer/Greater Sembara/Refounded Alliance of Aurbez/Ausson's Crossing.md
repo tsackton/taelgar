@@ -7,7 +7,7 @@ typeOf: inn
 created: 1652
 whereabouts: Laicon
 dm_notes: important
-dm_plans: no
+dm_owner: mike
 ---
 # Ausson's Crossing
 >[!info]+ Information  

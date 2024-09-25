@@ -6,7 +6,7 @@ name: Great South Road
 typeOf: road
 whereabouts: Greater Sembara
 dm_notes: none
-dm_plans: no
+dm_owner: mike
 ---
 # The Great South Road
 >[!info]+ Information  

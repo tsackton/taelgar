@@ -6,7 +6,7 @@ displayDefaults: {defArt: "the" }
 ancestry: dwarven
 whereabouts: Barony of Aveil
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # The Ferrystones
 >[!info]+ Information  

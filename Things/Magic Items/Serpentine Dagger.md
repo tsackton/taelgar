@@ -1,7 +1,7 @@
 ---
 tags: [status/needswork/wip, item, magical]
 dm_notes: important
-dm_owner: yes
+dm_owner: tim
 ---
 
 %%

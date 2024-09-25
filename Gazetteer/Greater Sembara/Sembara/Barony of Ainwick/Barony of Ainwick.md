@@ -6,7 +6,7 @@ name: Barony of Ainwick
 typeOf: barony
 whereabouts: Western Marches
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # The Barony of Ainwick
 >[!info]+ Information  

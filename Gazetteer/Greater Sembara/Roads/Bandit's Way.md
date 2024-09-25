@@ -7,7 +7,7 @@ typeOfAlias: section
 whereabouts:
 - {location: Great South Road, linkText: of}
 dm_notes: none
-dm_plans: no
+dm_owner: mike
 ---
 # The Bandit's Way
 >[!info]+ Information

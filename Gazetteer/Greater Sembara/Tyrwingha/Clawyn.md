@@ -8,7 +8,7 @@ population: 290
 partOf: Tyrwingha
 pronunciation: CLOW-in
 dm_notes: color
-dm_plans: no
+dm_owner: mike
 ---
 # Clawyn
 *(CLOW-in)*

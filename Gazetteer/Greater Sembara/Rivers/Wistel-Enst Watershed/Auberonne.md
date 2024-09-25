@@ -7,7 +7,7 @@ typeOfAlias: river
 whereabouts: Barony of Aveil
 pronunciation: Oh-beh-ron
 dm_notes: none
-dm_plans: no
+dm_owner: mike
 ---
 # The Auberonne
 *(Oh-beh-ron)*

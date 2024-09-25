@@ -6,7 +6,7 @@ typeOf: settlement
 typeOfAlias: village
 destroyed: 1720-01-10
 dm_notes: color
-dm_plans: no
+dm_owner: none
 ---
 # Orbas
 >[!info]+ Information  

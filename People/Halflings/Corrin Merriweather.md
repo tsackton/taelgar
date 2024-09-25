@@ -5,7 +5,7 @@ species: halfling
 whereabouts: Veltor
 gender: male
 affiliations: [{org: Merriweathers, type: primary}]
-dm_note: color
+dm_notes: color
 dm_owner: none
 ---
 # Corrin Merriweather

@@ -6,7 +6,7 @@ species: human
 ancestry: Tollender
 died: 1715
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Rowena Chemare
 >[!info]+ Biographical Info  

@@ -7,7 +7,7 @@ typeOfAlias: river
 whereabouts: Western Green Sea Region
 aliases: [River Volta]
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Volta
 >[!info]+ Information  

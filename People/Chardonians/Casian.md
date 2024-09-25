@@ -13,7 +13,7 @@ whereabouts:
 - {type: home, start: 1722,  location: 'Chardon'}
 - {type: away, start: 1748-11-23, end: '', prefix: somewhere in, location: 'Dunmar'}
 dm_notes: important
-dm_owner: yes
+dm_owner: tim
 ---
 # Casian
 >[!info]+ Biographical Info

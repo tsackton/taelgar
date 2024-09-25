@@ -9,7 +9,7 @@ gender: female
 died: 1675
 affiliations: [{org: House of Lils, type: primary}]
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Annabeth
 >[!info]+ Biographical Info

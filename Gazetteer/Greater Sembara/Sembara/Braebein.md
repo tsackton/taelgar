@@ -6,7 +6,7 @@ typeOf: line of hills
 partOf: Highlands
 pronunciation: BRAY-been
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Braebein
 *(BRAY-been)*

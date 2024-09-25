@@ -5,7 +5,7 @@ species: human
 gender: male
 born: 1689
 dm_notes: none
-dm_owner: yes
+dm_owner: tim
 ---
 # Caradoc
 >[!info]+ Biographical Info  

@@ -7,7 +7,7 @@ typeOf: barony
 whereabouts: Sembara
 pronunciation: Voh-bun
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # The Barony of Vaubonne
 *(Voh-bun)*

@@ -9,7 +9,7 @@ name: Cranmère
 pronunciation: Krahn-mehr
 displayDefaults: {defArt: "the" }
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # The Cranmère
 *(Krahn-mehr)*

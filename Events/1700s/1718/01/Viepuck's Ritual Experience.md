@@ -1,7 +1,7 @@
 ---
 tags: [event]
 DR: 1718-01-24
-dm_owner: yes
+dm_owner: mike
 dm_notes: none
 ---
 ### Viepuck Meetings His Patron

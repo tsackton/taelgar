@@ -7,7 +7,7 @@ typeOfAlias: river
 whereabouts: Barony of Aveil
 pronunciation: Leh-ahn-dray
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # The Leandre
 *(Leh-ahn-dray)*

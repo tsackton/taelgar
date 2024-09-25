@@ -5,7 +5,7 @@ name: South Watch Road
 typeOf: road
 whereabouts: Sembara
 dm_notes: none
-dm_plans: no
+dm_owner: mike
 ---
 # The South Watch Road
 >[!info]+ Information  

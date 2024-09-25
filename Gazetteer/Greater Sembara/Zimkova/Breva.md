@@ -5,7 +5,7 @@ name: Breva
 typeOf: realm
 whereabouts: Zimkova
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Breva
 >[!info]+ Information  

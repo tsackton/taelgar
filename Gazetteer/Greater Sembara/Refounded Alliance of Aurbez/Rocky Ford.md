@@ -5,7 +5,7 @@ whereabouts: Refounded Alliance of Aurbez
 typeOf: settlement
 typeOfAlias: trading spot
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # The Rocky Ford
 >[!info]+ Information  

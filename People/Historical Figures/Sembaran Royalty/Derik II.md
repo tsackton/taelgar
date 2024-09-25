@@ -13,7 +13,7 @@ affiliations:
 - {org: House of Sewick, type: primary}
 died: 1496
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # King Derik II
 >[!info]+ Biographical Info

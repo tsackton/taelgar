@@ -6,7 +6,7 @@ typeOf: settlement
 typeOfAlias: logging village
 population: 237
 dm_notes: color
-dm_plans: yes
+dm_owner: mike
 ---
 # Ashcombe
 >[!info]+ Information  

@@ -14,7 +14,7 @@ affiliations: [{org: House of Sewick, type: primary}]
 leaderOf:
 - {place: Sembara}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # King Wisym I
 >[!info]+ Biographical Info

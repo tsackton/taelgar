@@ -2,7 +2,7 @@
 tags: [organization, status/needswork/internal]
 typeOf: family
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 
 %%^Campaign:None%%

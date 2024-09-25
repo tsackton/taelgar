@@ -10,7 +10,7 @@ reignStart:
 died: 1632
 affiliations: [{org: House of Teckberg, type: leader} ]
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Gyles
 >[!info]+ Biographical Info

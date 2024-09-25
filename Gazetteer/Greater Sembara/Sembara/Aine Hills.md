@@ -6,7 +6,7 @@ name: Aine Hills
 typeOf: line of hills
 whereabouts: Highlands
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # The Aine Hills
 >[!info]+ Information  

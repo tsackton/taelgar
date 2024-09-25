@@ -8,7 +8,7 @@ typeOfAlias: river
 whereabouts: Heartlands
 aliases: [River Semb]
 dm_notes: none
-dm_plans: no
+dm_owner: mike
 ---
 # The Semb
 >[!info]+ Information  
