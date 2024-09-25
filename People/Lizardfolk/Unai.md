@@ -8,7 +8,7 @@ ancestry:
 gender: female
 whereabouts: Ganboa
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Unai
 >[!info]+ Biographical Info  
