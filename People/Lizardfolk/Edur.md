@@ -13,7 +13,7 @@ whereabouts:
 - {type: home, location: Ganboa}
 - {type: away, start: 1719-10-19, location: Cleenseau Wood}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Edur
 >[!info]+ Biographical Info  

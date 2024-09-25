@@ -1,8 +1,16 @@
 ---
+headerVersion: 2023.11.25
 tags: [person, status/needswork/internal, status/metadata/header]
 dm_notes: color
 dm_owner: mike
+species: human
+gender: male
+ancestry: Sembaran
 ---
+# William Forester
+>[!info]+ Biographical Info  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)
+
 
 ![[william-forester-aveil.png|left|200]]
 

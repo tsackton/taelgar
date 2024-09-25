@@ -11,7 +11,7 @@ gender: male
 whereabouts:
 - {type: home, location: Ganboa}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Izoko
 >[!info]+ Biographical Info

@@ -6,7 +6,7 @@ campaignInfo:
 name: Aben
 typeOf: waterway
 typeOfAlias: river
-partOf: Tyrwingha
+whereabouts: Tyrwingha
 aliases: [Aben River, River Aben]
 pronunciation: AY-ben
 dm_notes: none

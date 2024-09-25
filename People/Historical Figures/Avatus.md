@@ -7,7 +7,7 @@ ancestry:
 title: Emperor
 gender: male
 dm_notes: color
-dm_owner: no
+dm_owner: mike
 ---
 ### Emperor Avatus
 
