@@ -16,7 +16,7 @@ whereabouts:
 - {type: home, location: Tafolwern, end: 1721-08 }
 - {type: home, location: Embry, start: 1721-09 }
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # King Arryn III
 >[!info]+ Biographical Info  

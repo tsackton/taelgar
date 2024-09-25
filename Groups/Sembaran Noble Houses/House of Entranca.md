@@ -4,7 +4,7 @@ tags: [organization]
 typeOf: family
 typeOfAlias: noble family
 ancestry: Sembaran
-dm_owner: no
+dm_owner: none
 dm_notes: none
 ---
 # The House of Entranca

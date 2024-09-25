@@ -10,7 +10,7 @@ whereabouts: Tyrwingha
 aliases: [Aben River, River Aben]
 pronunciation: AY-ben
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # The Aben
 *(AY-ben)*

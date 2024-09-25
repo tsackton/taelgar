@@ -7,7 +7,7 @@ typeOf: lake
 whereabouts: Zimkova
 aliases: [Kamchak]
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Lake Kamchak
 >[!info]+ Information  

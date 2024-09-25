@@ -7,7 +7,7 @@ typeOf: river
 whereabouts: Sembara
 aliases: [River Enst, Enst River]
 dm_notes: none
-dm_plans: no
+dm_owner: mike
 ---
 # The Enst
 >[!info]+ Information  

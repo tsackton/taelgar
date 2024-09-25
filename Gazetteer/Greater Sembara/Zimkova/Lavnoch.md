@@ -5,7 +5,7 @@ name: Lavnoch
 typeOf: realm
 whereabouts: Zimkova
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Lavnoch
 >[!info]+ Information  

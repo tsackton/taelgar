@@ -7,7 +7,7 @@ aliases: [River Trellyn, Trellyn River]
 whereabouts: Tyrwingha
 pronunciation: TRELL-yin
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Trellyn
 *(TRELL-yin)*

@@ -5,7 +5,7 @@ typeOf: waterway
 typeOfAlias: river
 whereabouts: Borderlands
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Clavert
 >[!info]+ Information  

@@ -16,7 +16,7 @@ leaderOf:
 - {place: Breva, title: High King}
 affiliations: [House of Sewick]
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # King Bertram II
 >[!info]+ Biographical Info  

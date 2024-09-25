@@ -6,7 +6,7 @@ typeOf: settlement
 typeOfAlias: village
 pronunciation: NEV-yin
 dm_notes: none
-dm_plans: no
+dm_owner: mike
 ---
 # Nefyn
 *(NEV-yin)*

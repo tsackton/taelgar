@@ -9,7 +9,7 @@ gender: female
 died: 1562
 affiliations: [{org: House of Sewick, type: primary}]
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Eloise
 >[!info]+ Biographical Info

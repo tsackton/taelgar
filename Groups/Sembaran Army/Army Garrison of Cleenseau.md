@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, testcase]
+tags: [organization, testcase, status/update]
 displayDefaults: {partOf: '<typeof:Au> of <partof>', boxInfo: ''}
 name: Army Garrison of Cleenseau
 partOf: Dunfry Regiment
@@ -8,8 +8,8 @@ typeOf: garrison
 whereabouts:
 - {type: home, location: Cleenseau }
 - {type: away, end: 1720-01-10, location: Dunfry}
-dm_notes: none
-dm_owner: yes
+dm_notes: important
+dm_owner: mike
 ---
 # The Army Garrison of Cleenseau
 

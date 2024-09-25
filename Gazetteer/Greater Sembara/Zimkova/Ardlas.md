@@ -6,7 +6,7 @@ name: Ardlas
 typeOf: realm
 whereabouts: Zimkova
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Ardlas
 >[!info]+ Information  

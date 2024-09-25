@@ -6,7 +6,7 @@ typeOf: family
 whereabouts: Cleenseau
 aliases: [Essford]
 dm_notes: color
-dm_owner: yes
+dm_owner: mike
 ---
 # The Essfords
 >[!info]+ Information

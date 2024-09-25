@@ -10,7 +10,7 @@ reignStart:
 died: 1550
 affiliations: [{org: House of Sewick, type: primary} ]
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Reginald
 >[!info]+ Biographical Info

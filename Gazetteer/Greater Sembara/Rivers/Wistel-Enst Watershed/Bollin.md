@@ -8,7 +8,7 @@ typeOfAlias: river
 whereabouts: Greater Sembara
 aliases: [Bollin River, River Bollin]
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # The Bollin
 >[!info]+ Information  

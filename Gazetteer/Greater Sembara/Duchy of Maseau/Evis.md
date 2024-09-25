@@ -7,7 +7,7 @@ typeOfAlias: town
 subTypeOf: fortified
 partOf: Duchy of Maseau
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Evis
 >[!info]+ Information

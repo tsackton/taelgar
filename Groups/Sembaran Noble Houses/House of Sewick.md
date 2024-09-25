@@ -10,7 +10,7 @@ subTypeOf: noble house
 destroyed: 1720
 aliases: [Sewick]
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # The House of Sewick
 >[!info]+ Information

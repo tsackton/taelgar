@@ -7,7 +7,7 @@ typeOf: lake
 aliases: [Derwent]
 whereabouts: Zimkova
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Lake Derwent
 >[!info]+ Information  

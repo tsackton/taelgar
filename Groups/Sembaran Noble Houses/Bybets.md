@@ -5,7 +5,7 @@ displayDefaults: {partOf: "", boxInfo: "", defArt: "the"}
 typeOf: family
 whereabouts: Ainwick
 aliases: [Bybet]
-dm_owner: no
+dm_owner: noe
 dm_notes: none
 ---
 # The Bybets

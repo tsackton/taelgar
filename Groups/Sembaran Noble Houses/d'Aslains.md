@@ -5,7 +5,7 @@ displayDefaults: {defArt: "the" }
 typeOfAlias: noble house
 typeOf: family
 whereabouts: Barony of Aveil
-dm_owner: yes
+dm_owner: mike
 dm_notes: important
 ---
 # The D'Aslains

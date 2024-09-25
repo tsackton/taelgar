@@ -9,7 +9,7 @@ typeOfAlias: village
 partOf: Tyrwingha
 pronunciation: AY-ben-veered
 dm_notes: none
-dm_plans: no
+dm_owner: mike
 ---
 # Abenfyrd
 *(AY-ben-veered)*

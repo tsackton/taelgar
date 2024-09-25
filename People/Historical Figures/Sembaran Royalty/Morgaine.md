@@ -12,7 +12,7 @@ affiliations:
 - {org: House of Lils, type: primary}
 - {org: Oracle of the Riven, title: the Oracle of the Red, start: 1633}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Morgaine
 >[!info]+ Biographical Info

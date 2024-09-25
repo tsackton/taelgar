@@ -5,7 +5,7 @@ name: Ainwick
 typeOf: town
 whereabouts: Barony of Ainwick
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Ainwick
 >[!info]+ Information

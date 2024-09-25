@@ -5,7 +5,7 @@ tags: [organization, status/needswork/external]
 typeOf: regiment
 partOf: Army of the West
 dm_notes: important
-dm_owner: no
+dm_owner: mike
 ---
 # The Dunfry Regiment
 >[!info]+ Information  

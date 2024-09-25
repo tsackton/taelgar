@@ -5,7 +5,7 @@ name: Roscombe
 typeOf: market town
 whereabouts: Carlinshire
 dm_notes: important
-dm_owner: yes
+dm_owner: tim
 ---
 # Roscombe
 >[!info]+ Information  
@@ -16,7 +16,7 @@ dm_owner: yes
 
 
 >[!info]+ Inns and Taverns in Roscombe
-> ***The Traveler's Rest.*** The only inn in Roscombe, a well-built two story building against the wall, near the South Gate (where the road from Valcroix enters town). Run by Bertrand LeBlanc, charming middle-aged man, with a personal connection to the Traveler. Efficient and organized, and a decent cook as well. 
+> ***The Traveler's Rest.*** The only inn in Roscombe, a well-built two story building against the wall, near the South Gate (where the road from Valcroix enters town). Run by Bertrand LeBlanc, charming middle-aged man, with a personal connection to the Wanderer. Efficient and organized, and a decent cook as well. 
 > 
 > ***The Raven's Roost.*** A popular tavern on the market square, where the locals hang out. Run by Madeline Brewer, a young woman, daughter of the old tavern keeper who died unexpectedly a few years ago. Madeline took over the family business and has been thriving. Known for their beer, and the primary brewer in town. 
 > 

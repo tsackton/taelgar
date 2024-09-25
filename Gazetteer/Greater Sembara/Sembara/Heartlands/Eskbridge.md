@@ -5,7 +5,7 @@ whereabouts: Duchy of Wisford
 typeOf: settlement
 typeOfAlias: fortified town
 dm_notes: none
-dm_plans: no
+dm_owner: none
 ---
 # Eskbridge
 >[!info]+ Information  

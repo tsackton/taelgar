@@ -8,7 +8,7 @@ population: 2341
 whereabouts: Barony of Aveil
 pronunciation: Rin-burg
 dm_notes: color
-dm_plans: no
+dm_owner: mike
 ---
 # Rinburg
 *(Rin-burg)*
