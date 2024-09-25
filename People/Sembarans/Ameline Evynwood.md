@@ -17,3 +17,5 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[lady-ameline-evynwood.png|left|200]] 
+
+%% lady Ameline Evynwood, her husband died years ago, her older son (Richard) is with the baroness her younger son in Aslain ([[Phillip Evynwood]]) %%
