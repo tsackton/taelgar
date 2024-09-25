@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 tags: [status/cleanup/internal, organization]
 typeOf: clan
+displayDefaults: {defArt: "the" }
 ancestry: dwarven
 whereabouts: Barony of Aveil
 dm_notes: color
 dm_owner: no
 ---
-# Ferrystones
+# The Ferrystones
 >[!info]+ Information  
 > A [[Dwarves|dwarven]] clan  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
