@@ -19,9 +19,9 @@ whereabouts:
 an alias - he didn't give his name and I havent made it up
 one of his kids:
 
-![[the-hunter-bear-cub.png|200]]
+![[the-hunter-bear-cub.jpg|200]]
 
 
-![[the-hunter-fey-img2.png|left|400]]
+![[the-hunter-fey-img2.jpg|left|400]]
 
-![[the-hunter-fey-img1.png|left|400]] 
+![[the-hunter-fey-img1.jpg|left|400]] 
