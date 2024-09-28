@@ -40,6 +40,8 @@
 - Eye of Undead Sensing. A jar filled with liquid in which floats a single human eye, radiating divination magic. When an undead creature comes within 100 feet of the jar, the eye darts about as if it is looking around in panic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut.  (destroyed)
 - [[Liquid Wood]]. This jar of putty-like brown goo radiates transmutation magic, and is clearly a creation of [[Agata]]’s. It is used for turning creatures into wooden servants. Taken from [[Agata]]’s hut. 
 - Battle Standard of the [[Blackened Claw]] hobgoblins. Found in [[Raven's Hold]]. Destroyed. 
+- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]). Given to [[Ghesh]] in exchange for keeping the party secret from [[Ra'ghemdros]]
+- A blood-red book of necromancy bound in human skin, containing [[Apollyon|Apollyon's]] secret knowledge for how to become a lich. Destroyed by [[Dimitaur]] with a fireball.
 ## Sold
 
 ### In [[Zvervinka]]
