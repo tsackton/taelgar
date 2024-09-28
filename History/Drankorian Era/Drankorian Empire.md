@@ -40,10 +40,10 @@ The emperors of Drankor, starting with the rule of Celadir, who was the first to
 | Serime (f)                 | Peronar          |                                                                                                             | 244        | 294      |
 | Mirodor (m)                | Peronar          |                                                                                                             | 294        | 331      |
 | Anates (m)                 | Hkar             | First human emperor; began conquest of Sembaran region                                                      | 331        | 366      |
-| Goristo (m)                | Hkar             | Renowned general and mage, negotiated final settlement of Sembaran Wars                                                                                   | 366        | 433      |
+| Goristo (m)                | Hkar             | Renowned general and mage, negotiated final settlement of Sembaran Wars                                     | 366        | 433      |
 | Liasa (f)                  | Hkar             | Died under suspicious circumstances                                                                         | 433        | 439      |
 | Estragon (m)               | Peronar          | Victor of contested succession                                                                              | 439        | 451      |
-| Kylanthe (f)               | Hkar             |                                                               | 451        | 499      |
+| Kylanthe (f)               | Hkar             |                                                                                                             | 451        | 499      |
 | Aenros (m)                 | Peronar          | Ascended to throne at advanced age                                                                          | 499        | 513      |
 | Ingwelir (m)               | Peronar          | Died defending empire against planar incursion                                                              | 513        | 527      |
 | Malrin (f)                 | Peronar          | Reign regarded as first great golden age                                                                    | 527        | 579      |
@@ -62,16 +62,16 @@ The emperors of Drankor, starting with the rule of Celadir, who was the first to
 | Alador the Elf Friend (m)  | Hkar             | strong ruler                                                                                                | 855        | 879      |
 | Imrodel (f)                | Peronar          | her daugher Tariele died young and never ruled; historians mark this as beginning of end of Golden Age      | 879        | 934      |
 | Letusas the Quiet (f)      | Hkar             | weak ruler                                                                                                  | 934        | 936      |
-| Eiphis the Blind (m)       | Hkar             | came to the throne late in life; founded University of Chardon                                                                             | 936        | 943      |
-| Helea (f)                  | Non-Hkar         | killed by [[Omnis Pura]] to start civil war                                                                     | 943        | 965      |
+| Eiphis the Blind (m)       | Hkar             | came to the throne late in life; founded University of Chardon                                              | 936        | 943      |
+| Helea (f)                  | Non-Hkar         | killed by [[Omnis Pura]] to start civil war                                                                 | 943        | 965      |
 | Ysabel (f)                 | Non-Hkar         | ally of Helea; defeated in civil war; known as the Pretender in later years                                 | 965        | 971      |
-| Vestian (m)                | Hkar             | won civil war against Helea faction; associated with [[Omnis Pura]]                                             | 965        | 980      |
+| Vestian (m)                | Hkar             | won civil war against Helea faction; associated with [[Omnis Pura]]                                         | 965        | 980      |
 | Akaston (m)                | Hkar             |                                                                                                             | 980        | 991      |
 | Persa (f)                  | Hkar             |                                                                                                             | 991        | 997      |
 | Iarus (m)                  | Hkar             | died in battle                                                                                              | 997        | 1006     |
 | Lycia (f)                  | Hkar             | died in battle                                                                                              | 1006       | 1007     |
 | Calemna (m)                | Hkar             | died in battle                                                                                              | 1007       | 1011     |
-| Apollyon (m)               | Hkar             | Last Emperor of Drankor                                                                                                            | 1011       | 1059     |
+| Apollyon (m)               | Hkar             | Last Emperor of Drankor                                                                                     | 1011       | 1059     |
 
 %% notes
 Eiphis the blind - founded University of Chardon, perhaps was overly focused on academic subjects and ignored the signs of the growing power of the Omnis Pura
