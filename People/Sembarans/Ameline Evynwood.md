@@ -18,4 +18,6 @@ whereabouts:
 
 ![[lady-ameline-evynwood.png|left|200]] 
 
-%% lady Ameline Evynwood, her husband died years ago, her older son (Richard) is with the baroness her younger son in Aslain ([[Phillip Evynwood]]) %%
+%% lady Ameline Evynwood, her husband died years ago, her older son (Richard) is with the baroness her younger son in Aslain ([[Phillip Evynwood]])
+the lady of Ashcombe Manor. Her husband is dead and her sons have left home to gain experience and connections in the wider world. She is sharp and dedicated to her people, but somewhat parochial and seems a bit overmatched by the circumstances
+%%
