@@ -31,8 +31,6 @@ The Dunmar Fellowship battles chaos elementals in a cave and learns of the jungl
 ### Timeline
 - (DR:: 1749-05-16), late afternoon: Explore the cave of talking bats. Navigate through chaotic elemental dangers, fight and kill chaos elementals. Speak with talking fruit bats. Learn about [[Canopy]]. Visit site where the bat [[Pip]] found the last piece of jade. 
 - (DR:: 1749-05-16), early evening: Decide to travel east in [[Vindristjarna]] towards [[Canopy]]. Arrive after an hour's journey as the sun sets, scout and find a tangled mass of thorns around the tree known as [[Canopy]] or Eldest. Prepare to fight.
-
-
 ## Narrative
 Our session begins aboard the airship [[Vindristjarna]], floating above the jungle coastline near the [[Sea of Storms]], above a cliff in which a small cave can be seen, the last known location of the final [[Jade Piece of Rai's Hand]]. Scouting, [[Kenzo]] senses a variety of minds across the jungle, including scared creatures in the cave; [[Wellby]], luring in a vulture and using it to scout, find a large tree entangled with thorny vines to the east. 
 
