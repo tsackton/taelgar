@@ -529,64 +529,6 @@ The party moved deeper, dispelling the acid waterfall that separated the main ch
 After careful deliberation, the group filled their portable hole with the most valuable items they could carry—gems, historical artifacts, and magical items. They left Dimitar to guard the rest, installing a magical eye on his throne to keep watch over the treasure. As they departed, the first rays of the sunrise bathed the lair in a golden glow, symbolizing a new beginning after the harrowing battle.
 
   
-
-## Treasure
-
-- **Coins**: Over a million coins of various types, meticulously stacked throughout the lair.
-
-- **Jewelry**: Thousands of items including:
-
-- 400 earrings displayed on a wall.
-
-- 200 rings organized by color, including silver, gold, and platinum.
-
-- Numerous necklaces, brooches, and holy symbols.
-
-- About 1,000 lockets laid out on the lower panel of a wall.
-
-- **Historical Artifacts**:
-
-- A gold-encrusted ceremonial cup.
-
-- A sapphire and diamond necklace.
-
-- An intricately carved marble statuette of a dragonette with emerald eyes.
-
-- An elaborately designed scepter made of gold adorned with sapphires.
-
-- An ornate shield featuring an army of stoneborn fighting against a demon.
-
-- A coronation crown from the Drancorian Empire.
-
-- An enameled serving platter depicting ships sailing from a coast.
-
-- A silver plate with scenes of pastoral human life.
-
-- **Magical Items**:
-
-- **Necklace of Fireballs**: A necklace with seven rubies, each holding a fireball spell.
-
-- **Shortbow**: Made of an unusual wood that seems to hum with inner energy, lacking a bowstring.
-
-- **Belt with Dwarven Runes**: Likely made of dragonhide, decorated with ancient dwarven runes.
-
-- **Emerald Figurine of a Triceratops**: A small magical figurine that can transform into a real triceratops.
-
-- **Eyes of Seeing**: Five small diamonds etched with an eye symbol, which can be placed anywhere to allow the user to see remotely.
-
-- **Greatsword**: Etched with mountain designs along the blade.
-
-- **Powdered Diamond Dust**: A box containing fine diamond dust, useful for magical rituals.
-
-- **Potion of Healing**: Two potions stored in silk pouches.
-
-- **Ring of Cleaning**: A ring that magically keeps the wearer clean.
-
-- **Gold Medallion**: Depicting a city with dragonettes, possibly from an ancient empire.
-
-- **Golden Chain Necklace**: Three teardrop diamonds set into a delicate chain.
-
-- **Figurine of Wondrous Power**: A small emerald triceratops, capable of transforming into a creature on command.
 ## Additional Notes
 
 (begin: after a long rest, the next morning, May 20th in Taelgar)
