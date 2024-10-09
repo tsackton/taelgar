@@ -33,7 +33,7 @@ The Dunmar Fellowship battles corruption at the Eldest tree and navigates a tumu
 ### Timeline
 - (DR:: 1749-05-16), evening: Battle with corrupted vines at the Eldest tree.
 - (DR:: 1749-05-16), night: The Eldest tree awakens and communicates with the party.
-- (DR:: 1749-05-17), morning: The party speaks to the Eldest tree, learning about the monkeys and the flying lizards. The party meets the coastal monkeys and learns about the jade's possible location in the [[Sea of Storms]]. 
+- (DR:: 1749-05-17), morning: The party speaks to the Eldest tree, learning about the monkeys and the flying lizards. The party meets the coastal monkeys and learns about the jade's possible location in the [[Sea of Storms]]. On [[Vindristjarna]], the party flies into the [[Sea of Storms]].
 - (DR:: 1749-05-17), evening: The party encounters the massive storm at sea and decides to rest for the night.
 - (DR:: 1749-05-18) morning: The party attempts and fails to explore underwater to bypass the storm; Milo volunteers to sail through the storm with the party in the folding boat. Despite damage to the boat, the party arrives at the [[~Circular Island~]].
 ## Narrative
@@ -50,7 +50,7 @@ The party set out across the [[sea of storms]] later that day. They traveled for
 In the early hours of the following morning, the party attempted to explore underwater, hoping to bypass the storm's surface chaos. [[Seeker]] transformed into an orca and dove into the waves, but the spell was abruptly dispelled, leaving him to struggle against the surging currents. [[Delwath]] dove in to save him, and they managed to return to the ship. The failed attempt led the party to believe that a magical barrier was dispelling their magic, and they began discussing other methods to explore the storm. [[Delwath]]’s dive to the ocean floor revealed nothing unusual, leaving the mystery unsolved.
 
 Later that morning, [[Milo Thistlefoot]] proposed a daring plan: to sail through the storm in their folding boat. The party prepared themselves and, with the aid of the halfling crew, braved the massive waves. Milo steered skillfully, and [[Wellby]] identified a pattern in the storm's rhythm, allowing them to find a calmer path through. Despite a broken mast and significant damage to the boat, they emerged from the storm to find themselves before a mysterious island. Black cliffs rose in a perfect circle, surrounding an island covered in strange flora and cascading rivers. The mountain at the center held mysterious structures at its peak. Milo agreed to drop the party on the beach, while he and the crew remained on the ship. The party now stands ready to explore the island and uncover the secrets it holds.
-### Detailed Summary
+## Detailed Summary
 
 #### Eldest Tree Corruption Battle
 (DR 1749-05-16, evening)
