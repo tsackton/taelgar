@@ -14,3 +14,5 @@
 - Metals from forge room
 
 The treasure found and brought back includes: a silver rod with a spiraling motif holding an orb, twenty small boxes of mysterious powders, three braided gold rings set with gemstones (emerald, sapphire, ruby), parts of Apollyon's research notes, and Apollyon's throne. The necromancy book was destroyed.
+
+%%SECRET[1]%%
