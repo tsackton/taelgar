@@ -16,7 +16,9 @@ name: Dunmari Frontier - Session 110
 - (DR:: 1749-05-20), morning: Talk to [[Revaka]] in the [[Mirror of Soul Trapping]]; discuss how to approach Ra'ghemdros; depart to speak with Ghesh and Megren.
 - (DR:: 1749-05-20), afternoon: Audience with Ra'ghemdros. Negotiate for jade. Scout ruined village; find probable location of fiend. Trade for jade and give Ra'ghemdros Apollyon's Throne. Enter villa; fight fiend; recover Cloudspinner's trapped body.
 - (DR:: 1749-05-20), evening: Flee to Dimitaur's lair in the temple complex; discuss situation and prepare to fight Ra'ghemdros. 
-- (DR:: 1749-05-21), predawn: Find dragonets scouting, send them off with word that Ra'ghemdros will die. 
+- (DR:: 1749-05-21), predawn: Find dragonets scouting, send them off with word that Ra'ghemdros will die. Repair light tower in center of temple complex. Fight minions. Fight Ra'ghemdros. Win.
+- (DR:: 1749-05-21), morning: Recover [[Ra'ghemdros' Hoard|treasure]] from Ra'ghemdros' lair, turn over some treasure to Dimitaur and leave him in charge. Sail through storm with Milo and Tilly. 
+- (DR:: 1749-05-21), afternoon: Arrive back on [[Vindristjarna]]. 
 
 # Part 1
 ## Bargaining with the Hobgoblin in the Mirror
