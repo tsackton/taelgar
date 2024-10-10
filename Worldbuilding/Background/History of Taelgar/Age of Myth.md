@@ -1,8 +1,10 @@
 ---
-tags: [status/needswork/internal]
+tags: [status/needswork/internal, background]
 ---
 
 %% NEEDS CLEANUP %%
+
+%% might change to source? but then needs to be rewritten into a more in-world style %%
 
 > The Age of Myth is the term elves use to refer to the years before time had meaning, when magic was strong and the gods walked the earth. Counted as the First Age of the world among the elves, but not reckoned in the count of years by the dwarves, this age stands apart, a time when the world was constantly changed.
 >

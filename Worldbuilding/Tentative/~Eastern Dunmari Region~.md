@@ -1,3 +1,7 @@
+---
+tags: [place]
+---
+
 Brainstorming the "other branch of the Dunmari", which has never actually been introduced in a game and might not be canonical.
 
 ~EasternDunmari~

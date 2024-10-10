@@ -1,4 +1,6 @@
-
+---
+tags: [place]
+---
 ### ~EastCoast~
 
 - Small sheltered area to the south, on the coast, blocked from desert by mountains, so probably like the non-desert parts of North Africa
