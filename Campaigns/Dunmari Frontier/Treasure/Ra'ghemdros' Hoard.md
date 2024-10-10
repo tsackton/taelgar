@@ -165,13 +165,19 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 2. **Sapphire and Diamond Necklace**: A stunning necklace featuring a cascade of sapphires surrounded by diamonds. %%SECRET[2]%%
 
-3. **Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  %%SECRET[1]%%
+3. ![[dragonet-statue-raghemdros-hoard.jpg|right|300]]**Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  %%SECRET[1]%%
+
+
 
 4. **Gemstone-Set Dagger**: An elegantly designed dagger with a hilt encrusted with rubies and a finely etched blade.  %%SECRET[4]%%
 
 5. **Imperial Scepter**: An elaborately designed scepter made from gold and adorned with multiple sapphires.  %%SECRET[4]%%
 
-6. **Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  %%SECRET[1]%%
+6. ![[silver-plate-raghemdros-hoard.jpg|right|300]]**Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  %%SECRET[1]%%
+
+
+
+
 
 7. **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  %%SECRET[4]%%
 
@@ -181,9 +187,18 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 10. **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. %%SECRET[10]%%
 
-11. **Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting mythological of dragnets, a rare work of art, eyes of rubies.  %%SECRET[1]%%
+11. ![[dragonet-ring-hoard.jpg|right|300]]**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.  %%SECRET[1]%%
 
-12. **Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  %%SECRET[1]%%
+
+
+
+
+
+12. ![[floral-brooch-hoard.jpg|right|300]]**Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  %%SECRET[1]%%
+
+
+
+
 
 13. **Silver and Diamond Ring**. Etched in Elvish with a fragment of a poem about the stars.  %%SECRET[2]%%
 
