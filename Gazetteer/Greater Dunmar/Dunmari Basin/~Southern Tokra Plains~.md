@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 typeOf: region
-partOf: Central Dunmar
+whereabouts: Central Dunmar
 aliases: [plains south of Tokra]
 displayDefaults: { linkText: "on", ltPlace: "on" }
 tags: [place, status/check/name]

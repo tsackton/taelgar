@@ -5,7 +5,7 @@ displayDefaults: {defArt: the}
 campaignInfo:
 name: Highlands
 typeOf: region
-partOf: Sembara
+whereabouts: Sembara
 ---
 # The Highlands
 >[!info]+ Information  

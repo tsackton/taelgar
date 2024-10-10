@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Western Marches
 typeOf: region
-partOf: Sembara
+whereabouts: Sembara
 ---
 # The Western Marches
 >[!info]+ Information  

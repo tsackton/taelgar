@@ -11,10 +11,11 @@ aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, end: 1001, location: Amberglow}
 - {type: away, start: 1002, location: imprisoned }
+- {type: away, start: 1749-05-21, location: Vindristjarna}
 ---
 # Cloudspinner
->[!info]+ Biographical Info
-> A [[Fey|fey]] ([[Fey|archfey]]) (she/her)
+>[!info]+ Biographical Info  
+> A [[Fey|fey]] ([[Fey|archfey]]) (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% fix whereabouts, campaign info; update page with lore about cloak of rainbows and people of the rainbow and conflict with Cha'mutte  %%

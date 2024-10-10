@@ -5,7 +5,7 @@ displayDefaults: {defArt: ''}
 campaignInfo:
 name: Lake Pekul
 typeOf: lake
-partOf: Kem
+whereabouts: Kem
 aliases: [Pekul]
 ---
 # Lake Pekul

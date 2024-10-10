@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Aurbez Plateau
 typeOf: region
-partOf: Aurbez and the Andonne
+whereabouts: Aurbez and the Andonne
 ---
 # The Aurbez Plateau
 >[!info]+ Information

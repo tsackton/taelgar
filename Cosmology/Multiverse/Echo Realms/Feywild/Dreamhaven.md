@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: realm
 ancestry: fey
-partOf: Feywild
+whereabouts: Feywild
 ---
 # Dreamhaven
 >[!info]+ Information

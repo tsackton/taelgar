@@ -4,7 +4,7 @@ tags: [place]
 campaignInfo:
 name: Bridgeward
 typeOf: ward
-partOf: Tollen
+whereabouts: Tollen
 ---
 # Bridgeward
 >[!info]+ Information  

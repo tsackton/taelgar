@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 displayDefaults: {linkText: "at"}
 tags: [place, status/check/name]
 typeOf: inn
-partOf: Stoneway
+whereabouts: Stoneway
 ---
 # The ~Crossroads Caravanserai~
 >[!info]+ Information  

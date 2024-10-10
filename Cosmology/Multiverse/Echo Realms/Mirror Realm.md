@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
-partOf: Echo Realms
+whereabouts: Echo Realms
 ---
 # The Mirror Realm
 >[!info]+ Information  
