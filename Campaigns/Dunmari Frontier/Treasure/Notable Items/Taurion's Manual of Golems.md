@@ -20,4 +20,5 @@ ddbLink: https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[taurion-manual-of-golems.jpg|400|right]]
+
 %%SECRET[1]%%

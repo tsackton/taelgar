@@ -9,7 +9,9 @@ A silver rod decorated with a spiraling motif holding a pearly orb, identified a
 
 #### Forge Metals
 
-A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches long, 4 inches wide, and 4 inches tall. Roughly 2/3rds of these (85) are non-magical metals, although many are rare:
+A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches long, 4 inches wide, and 4 inches tall. Each is labeled in small, cramped Drankorian writing etched into the surface of the metal bar. 
+
+85 bars are non-magical metals, although many are rare:
 - 3 gold bars
 - 4 silver bars
 - 20 iron and steel bars of various mixtures and properties
@@ -32,12 +34,12 @@ A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches 
 - 1 tungsten (wolframite) bar
 
 The remaining 47 are magical or unusual metals:
-- 9 mithril bars
+- 9 [[Mithril]] bars
+- 6 [[Chalyte]] bars 
 - 5 fey steel bars %%SECRET[2]%%
 - 7 star iron bars %%SECRET[3]%%
 - 3 phiraxite bars %%SECRET[4]%%
 - 3 lumentium bars %%SECRET[5]%%
-- 6 chalyte bars 
 - 4 cuprilith bars %%SECRET[6]%%
 - 4 aetherium bars %%SECRET[7]%%
 - 3 vulcanite bars %%SECRET[8]%%
@@ -79,9 +81,9 @@ Two cracked pieces of once-magical crystal that powered the constructs. %%SECRET
 
 ### Miscellaneous Treasure
 
-Scraps of [[Adamantine]] from Apollyon's lich transformation chamber, totally about 1/4 of a pound. %%SECRET[14]%%
+Scraps of [[Adamantine]] from Apollyon's lich transformation chamber, totally about 1/2 of a pound. %%SECRET[14]%%
 
-Drankorian coins, totally 250 gold coins and 3000 silver coins. 
+Drankorian coins, totalling 250 gold coins and 3000 silver coins. 
 
 A Drankorian silver water ewer, finely made and decorated with flowing water motifs. %%SECRET[15]%%
 

@@ -98,7 +98,6 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 |                                                | Cloak of Elvenkind             | Major item, Uncommon  | Found in the [[Elemental Forge Hoard]]                                                                                                                                                                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/4606-cloak-of-elvenkind)          |
 | ![[portable-hole-dunmar-fellowship.jpg\|240]]  | [[Portable Hole]]              | Minor item, Rare      | Acquired from [[Basu]] in exchange for help clearing the [[Elven Arborea Workshop]]                                                                                                                                                       | [Mechanics](https://www.dndbeyond.com/magic-items/4699-portable-hole)               |
 | ![[augury-mirror.jpg\|240]]                    | [[Augury Mirrors]]             | Minor item, Rare      | Found in [[Grimbaskal's Hoard]]                                                                                                                                                                                                           | [Mechanics](https://www.dndbeyond.com/magic-items/5346832-augury-mirrors)           |
-|                                                | Foldable Boat                  | Minor item, Rare      | Taken from [[Kadmos and Company Loot\|Kadmos]]                                                                                                                                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/4639-folding-boat)                |
 |                                                | [[Ever Spinning Top]]          | Minor item, Common    | Originally part of [[Agata's Treasure]]; stolen by [[Kadmos]], and [[Kadmos and Company Loot\|reclaimed]].                                                                                                                                | [Mechanics](https://www.dndbeyond.com/magic-items/3819604-always-spinning-top)      |
 |                                                | Enchanted oyster shell         | Minor item, Rare      | [[Gifts and Purchases\|Gifted]] by [[Skaerhem\|Skaer]] as thanks for defeating the demon of [[Vetta]]. Can be used once to cast [Divination](https://www.dndbeyond.com/spells/2073-divination) with no components, targeting [[Kaikkea]]. | N/A                                                                                 |
 |                                                | [[Drankorian Message Stone]]   | Minor item, Uncommon  | Long range version. Found in the [[Elemental Forge Hoard]]. [[Lucius]], a boy in a small village in [[Chardon]] has its pair, and thinks it is his imaginary friend Benji talking.                                                        | [Mechanics](https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone) |
@@ -111,6 +110,8 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 ### Coin
 ***Total value approximate 42,500 plus scattered strange coins***
 
+- 250 gold Drankorian coins (250 gp), taken from [[Apollyon's Tower]] on the [[~Circular Island~]]
+- 3000 tarnished Drankorian silver coins (300 gp), taken from [[Apollyon's Tower]] on the [[~Circular Island~]] 
 - 109 Dunmari silver coins, from [[Merfolk Quest Treasure]]
 - 93 strange silver coins of a design you have never seen, with a small hole in the center and strange writing around the edge, from [[Merfolk Quest Treasure]].
 - 50 pounds of gold in trade bars (2,500 gp), from [[Ursk Treasure|Shadowkeep]]
@@ -127,8 +128,7 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 - 4,113 Chardonian gold coins (4,113 gp, from [[Grimbaskal's Hoard]]).
 - 36 small silver disks stamped with the [[Blackened Claw]] mark, from the [[Raven's Hold Treasure]].
 - 66 copper disks stamped with the [[Blackened Claw]] mark, from the [[Raven's Hold Treasure]].
-- 250 gold Drankorian coins (250 gp), taken from [[Apollyon's Tower]] on the [[~Circular Island~]]
-- 3000 tarnished Drankorian silver coins (300 gp), taken from [[Apollyon's Tower]] on the [[~Circular Island~]] 
+
 ### Gemstones
 - Four large pearls, a [[Gifts and Purchases|gift from the Skaer]]
 - 16 uncut and unpolished gemstones (value would increase if properly cut), from the [[Elemental Forge Hoard]]:
@@ -151,6 +151,7 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 - Five uncut gemstones: an amethyst (10-60gp), a rose quartz (50-300gp), and a topaz (100-600gp). ​​If cut and polished by a skilled gemcutter, the topaz could sell for perhaps quadruple; the amethyst and rose quartz could sell for double. From [[Agata's Treasure]].
 - A single turquoise, shaped into a perfect blue sphere the size of a robin’s egg. Could sell for 200-1200gp. From [[Agata's Treasure]].
 ### Jewelry
+- A set of three plain golden rings, found as part of [[Apollyon's Tower Treasure]]. Of Drankorian make.
 - An elaborate amulet of Gazankoa, made of ivory and gold, decorated with sapphires, taken from [[Buruli]] as part of the [[Merfolk Quest Treasure]]
 - Three silver armbands, each finely worked and decorated with pearls, taken from [[Buruli]] as part of the [[Merfolk Quest Treasure]]
 - 17 amulets of [[Gazankoa]]. Each amulet has a pearl in the center, with eight tentacles curling off in a spiral pattern. They are made of a variety of materials: 6 of shell, 7 of some kind of resin, 3 of ivory, and 1 of silver. Taken from various merfolk guards, as part of the [[Merfolk Quest Treasure]]
@@ -160,8 +161,10 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 	- A finely engraved platinum ring set with a tiny but perfect sapphire 
 	- A silver tiara set with moonstones 
 - A silver ring, set with an obsidian gem. Could sell for 300-1800gp. Part of [[Agata's Treasure]].
-- A set of three golden rings, found in [[Apollyon's Tower]]. Of Drankorian make
+
 ### Objects of Art
+- A silver ewer of Drankorian make found as part of [[Apollyon's Tower Treasure]]
+- A golden serving platter of Drankorian make found as part of [[Apollyon's Tower Treasure]]
 - Dragon statuette glittering with small diamonds, from [[Ursk Treasure|Shadowkeep]]
 - A golden necklace with a holy symbol of Jeevali, dating to before the [[Great War]], with two blue lapus lazuli gemstones representing Jeevali's tears, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
 - A pair of nice wooden spoons, found in [[Nashtkar Treasures#Found in Kharsan|the palace in Kharsan]]
@@ -174,8 +177,6 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 - A richly detailed, beautifully made painting of an ancient elven forest, of Elven make (at least 500 gp, possibly much more, [[Grimbaskal's Hoard]]).
 - [[Chardon Fan]], part of [[Agata's Treasure]] (carried by Kenzo).
 - A small wooden box holding six small statuettes, each in the shape of a farm animal. All are clockwork contraptions which, when properly wound, walk and make the appropriate animal noise. There is a cow, a horse, a chicken, a pig, a goat (which was [[Session 40 (DuFr)|given to Dunmari goat herders]]), and a sheep. Part of [[Agata's Treasure]]. Probably worth 10 - 180 gp as a set, perhaps 2-35 gp per item (carried by [[Seeker]]). 
-- A silver ewer of Drankorian make found in [[Apollyon's Tower]]
-- A golden serving platter of Drankorian make found in [[Apollyon's Tower]]
 ### Books and Notes
 - Six scrolls (five copies, one original) of Drankorian and Elvish literary works (poems and plays), found as part of the [[Tower of the Colossus Treasure]]
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]], received as a [[Gifts and Purchases|gift]]
@@ -200,8 +201,12 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 	- Monk's journal from the [[Great War]] era ([[Monastery of Bhishma]], [[Kenzo]]). A small diary, written in Dunmari, of an unnamed monk, who seemed to have lived here just before the [[Great War]]. The entries describe life in the monastery, the joy of the craft of parchment making and especially skill required to turn it into something that could take enchantments. Then,  increasing danger and the growing militarization of [[Kharsan]], several attacks, news of distant heroes and great councils, then no news, which was worse. Then, people running scared of the red death, everyone fleeing east. Last entry: choosing to stay with the elders, contribute how I can to protecting our great work. [[Bhishma]] watch over my soul. No obvious value although to the right person could be worth 5-30 gp. Part of the [[Nashtkar Treasures#Found in Bhishma Monastery|Bhishma Monastery treasure]]
 	- Captain's log and charts from The Flaming Tempest (allowing [[Wellby]] to reconstruct the journey of the [[Flaming Tempest]], with time and effort), part of the [[Flaming Tempest Hoard]].
 	- Sheaf of receipts from [[Stormcaller Tower]].  Not a complete ledger, but a part of what seems to be a record of payments / receipts of wine, oil, salt, spices, written in Drankorian. Just a fragment with no dates remains. No obvious value. Part of the [[Stormcaller Tower Treasure]].
-- [[Apollyon|Appollyon's]] backup spellbook containing notes on how to use the Divine Forge in [[Apollyon's Tower|his tower]], notes on how to become a lich, and perhaps other hidden secrets
+- [[Apollyon|Appollyon's]] backup spellbook containing notes on how to use the forge in [[Apollyon's Tower|his tower]], notes on how to become a lich, and perhaps other hidden secrets.
+- Ten fireproof [[Records of the Concordia Pyrae|books of records and lore]] about the [[Elemental Plane of Fire]], and a chronicle of the history of the [[~Circular Island~]], taken from the [[Concordia Pyrae]] villa where Cloudspinner was imprisoned. 
 ### Unusual Materials or Components
+- A half-pound or so of adamantine scraps, from [[Apollyon's Tower Treasure]], the remains of the materials used to construct his phylactery.
+- Two small metallic flies, about two inches across and made of a strange black metal, perhaps some kind of unusual iron. Inert. From [[Apollyon's Tower Treasure]].
+- Two cracked pieces of once-magical crystal that powered the constructs,  From [[Apollyon's Tower Treasure]].
 - Four magical glass lenses of a variety of sizes, once apparently part of a telescope. From the [[Tower of the Colossus Treasure]]. 
 - Scroll making material (inks and paper), part of the [[Tower of the Colossus Treasure]]. Enough materials to make four spell scrolls (three up to 3rd level, one up to 5th level). Each scroll made with these materials requires 8 hours of work. 
 - A small humming piece of metal, which sounds like the ocean, found connected to the [[Jade Piece of Rai's Hand]] inside a shell in Buruli's temple to Gazankoa, from [[Merfolk Quest Treasure]]. Functions as a plane shift tuning fork attuned to the [[Elemental Plane of Water]]
@@ -213,8 +218,7 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 - Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. Part of the [[Werewolf Lair Treasure]].
 - Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. Part of the [[Raven's Hold Treasure]]
 - Metal vial with acidic liquid from gnoll war leader ([[Raven's Hold]], [[Wellby]]). No obvious value. Part of the [[Raven's Hold Treasure]]
-- A half-pound or so of adamantine scraps
-- [[Apollyon|Apollyon's]] throne, taken from [[Apollyon's Tower|his tower]]. A large grey mottled marble and granite throne encrusted with gemstones.
+
 ### Miscellany and Trade Goods
 - 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards as part of the [[Merfolk Quest Treasure]]
 - A set of bone dice, merfolk made, from the [[Merfolk Quest Treasure]]
