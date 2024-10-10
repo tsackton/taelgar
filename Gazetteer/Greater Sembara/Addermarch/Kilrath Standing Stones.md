@@ -1,3 +1,6 @@
+---
+tags: [status/stub, place]
+---
 
 
 %% fey gate notes from Discord:

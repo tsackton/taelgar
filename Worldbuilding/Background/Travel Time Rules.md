@@ -1,3 +1,8 @@
+---
+tags: [meta]
+---
+
+
 To make travel more realistic, without making travel excessively complicated, consider the following:
 
 **Terrain**: Wildness terrain comes in 5 categories:

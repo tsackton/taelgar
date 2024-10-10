@@ -1,3 +1,8 @@
+---
+tags: [meta]
+---
+
+
 This tries to outline some relatively realistic travel times across Sembara.
 
 Broadly, it assumes one of five different types of travel:
