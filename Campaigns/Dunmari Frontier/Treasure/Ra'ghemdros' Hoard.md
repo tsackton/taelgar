@@ -24,8 +24,8 @@ Volume (simplifying assumptions):
 - 20,000 silver coins per cubic foot
 - 15,000 copper coins per cubic foot
 
-## Common Jewelry
-Most of Ra'ghemdros' hoard consists of various examples of common, non-magical jewelry, which are detailed in sections below. 
+## Common Jewelry and Art
+Most of Ra'ghemdros' hoard consists of various examples of common, non-magical jewelry and art objects, which are detailed in sections below. 
 
 ### Rings
 There are 15,000 rings in Ra'ghemdros hoard. Most of these are simple bands or signet rings of iron or bronze, but about one-fifth of the rings (3000) in the hoard are more elaborate. These are often signet rings with carved gemstone intaglios, often in moonstone, amethyst, lapis lazuli, garnet, amber, or onyx; solid gold bands of various designs, typically involving animal shapes; or elaborate metalwork with gemstone settings. 
@@ -37,14 +37,14 @@ Value:
 - Elaborate rings: 1-50 gp per ring, with with some care and effort to select the best work could reach 500 gp or more for some items, particularly imperial or other high-status jewelry set with particularly valuable gemstones. 
 
 Volume (assuming relatively low packing volume and some bulky settings):
-- 6000 plain rings per cubic foot
+- 5000 plain rings per cubic foot
 - 3000 elaborate rings per cubic foot
 
 Examples:
  - **A Gold Signet Ring**: Set with an engraved emerald with the personal crest of a long-lost merchant or other rich citizen of Drankor. 
  - **A Twisted Silver Band**: Elaborately worked, and set with a perfect diamond that sparkles with an intensity that seems unnatural, likely the material component for a spell like Gate. 
 ### Hairpins and Combs
-After rings, the next largest collection in the hoard is a set of 6000 hairpins and combs. Most of these are simply made from ivory (2000) or bone and horn (4000), usually with decorations and designs. About one-tenth of these (600) are more elaborate, set with fairly common gems. 
+Ra'ghemdros has a set of 6000 hairpins and combs. Most of these are simply made from ivory (2000) or bone and horn (4000), usually with decorations and designs. About one-tenth of these (600) are more elaborate, set with fairly common gems. 
 
 Value:
 - Plain bone or horn: 5-100 sp, depending on the quality of the work.
@@ -73,19 +73,87 @@ Examples:
 2. **A Set of Silver Hoops with Garnet Pendants**: Each earring has a smooth garnet shaped like a droplet.
 
 ### Necklaces
-%% (variety of necklaces, amulets, talismans, lockets; holy symbols are kept elsewhere) %%
+The 10,000 necklaces in Ra'ghemdros' hoard are the among the most diverse items in the collection, ranging from simple brass lockets and glass beads on plain silver chains, to elaborate pendants of sapphire and gold. About half the collection (3000) are relatively simple trinkets, another one third (2000) are of better make and craftsmanship but of relatively common metals, and the final one-sixth (1000) include examples of particularly elaborate and fine work in gold, including a hundred or so with gems and other markers of ornate workmanship. Included in this collection are almost 4000 holy symbols, typically in plain silver, brass, or bronze, of the Eight Divines, presumably collected from various pilgrimage sites on the island. 
+
+Value:
+- Simple trinkets: 5-30 sp
+- Common necklaces: 5-25 gp
+- Elaborate necklaces: 25 gp and up, including some pieces likely worth 500 gp or more for the value of the gemstones alone. 
+
+Volume:
+- 150 necklaces per cubic foot
+
+Examples:
+1. **A Beaded Lapis Lazuli Necklace**: Each bead is polished to a shine, and the lapis lazuli is flecked with gold veins. The necklace features a central pendant depicting dolphins, perfectly carved in mother-of-pearl.
+2. **A Gold Chain with a Small Sapphire Pendant**: The chain is so fine it looks like spun sunlight, and the deep blue sapphire sparkles like the night sky. The gemstone is cut into an unusual teardrop shape, which reflects light in a way that seems almost otherworldly.
+3. **A Gold Seashell Locket**: An ornate gold locket shaped like a seashell, set with turquoise. When opened, it reveals a painted likeness of a young man. 
+4. **A Silver Oval Locket with a Floral Design**: The locket features an embossed floral pattern, and when opened, it holds a pressed flower inside, perfectly preserved. Its charm lies in its delicate beauty and the care taken in its preservation.
+5. **Golden Phoenix Amulet.** An elaborate gold amulet shaped like a phoenix, adorned with rubies for eyes. 
 
 ### Belt Buckles, Brooches,  Fasteners
-%% wide variety of things, but obvious Ra'ghemdros didn't care so much for these %%
+Although Ra'ghemdros has collected everything that is shiny on the island, it is clear that fasteners, belt buckles, and brooches were her least favorite. The 8,000 items of this type in the hoard are largely not curated, and include large numbers of relatively poor or degraded work, which is not typical of the rest of the hoard. Three quarters (6000) of these are simple items in brass, bronze, or iron, with plain decorations, while the remaining items are split between those with more elaborate metalwork (1600), typically silver, and a small handful with gems or intricate artistry (400). 
 
+Value:
+- Simple and plain: 1-20 sp
+- Silver or nice metalwork, no gems: 1-10 gp
+- Set with gems: 10-100 gp or more, for the value of the gemstones alone. 
+
+Volume:
+- 100 on average per cubic foot
+
+Examples:
+1. **A Silver Fibula of Sea Creatures**: A silver fibula shaped like a fish, with carefully worked filigree patterns decorating the fins.
+2. **A Gold Brooch in the Shape of a Bird**: This brooch has tiny sapphires set into the wings and is designed with such precision that the feathers look almost soft to the touch.
+3. **Gemstone Buckle**: An elaborate gold buckle adorned with sapphires and intricate etchings of mythical creatures.
+4. **A Massive Gold Buckle Shaped Like a Lion**: This detailed buckle features a roaring lion, with the mane flowing elegantly.
 ### Torcs, Bracelets, Armlets
-%% bands of various sizes %%
+Ra'ghemdros has collected various torcs, armlets, and bracelets into a single collection, with around 4,500 pieces. These have been carefully sorted by base metal, with a bit more than half (2650) made of bronze, copper, or brass; slightly fewer made of silver (1400), and only about ten percent (450) made of gold. 
 
-### Religious Items
-%% holy symbols and temple art %%
+Value:
+- Simple metals: 1-20 sp
+- Silver: 1-10 gp, up to 50 gp or more for items set with gems.
+- Gold: 10-200 gp or more for items set with gems.
+
+Volume:
+- 50 on average per cubic foot
+
+Examples:
+1. **A Gold Snake Armlet**: Coiled as though it were a real serpent, the armlet’s eyes are set with emeralds, and the scales shimmer, making the piece appear lifelike.
+2. **Garnet Bracelet**: A silver bracelet with a twisting vine pattern engraved around it. Small, polished garnets are set intermittently along the design, giving it a subtle sparkle.
+3. **A Gold Torc with Dragon-Head Terminals**: The ends of the torc are shaped like dragon heads, their eyes set with tiny rubies. 
 
 ### Household Goods
-%% cutlery, serving ware, etc %%
+By volume, by far the biggest component of Ra'ghemdros hoard is a very large collection of household goods, typically including cutlery, goblets, candle holders, and platters, but also including some religious iconography. These include around 8,000 items of plain workmanship, such as pewter, brass, and bronze cutlery, ewers, salt cellars, serving platters, and candlesticks. There are maybe 4,000 silver items, largely cutlery, although with some more elaborate pieces, and a total of perhaps 600 pieces in gold or crystal, often showing signs of the Eight Divines and likely from temples. 
+
+Value:
+- Plain items: 1-100 sp, depending on the item
+- Silver: 1-10 gp, up to 50 gp or more for items of large size, fine workmanship, or set with gems. 
+- Gold: 50-500 gp or more for items of particularly fine workmanship.
+
+Volume:
+- 15 on average per cubic foot, given relatively poor packing efficiency
+
+Examples:
+1. **A Grand Silver Serving Platter**: This platter is unusually large, featuring intricate engravings of swirling clouds and celestial bodies, and is matched with a set of silverware. 
+2. **A Ceremonial Platter**: This large platter is painted with vivid scenes of the Eight Divines, surrounded by intricate gold leaf designs
+3. **Gold Candlesticks**: Decorated with flame motifs, perhaps used in a rich Drankorian society. 
+4. **Crystal Decanter with Gold Filigree**: A stunning crystal decanter, etched with delicate floral designs and encased in a fine gold filigree.
+5. **Silver Ewer with Gemstone Inlays**: This silver ewer features intricate inlays of rubies, with depictions of the Eight Divines blessing a feast, clearly a piece of religious significance.
+6. **Ornate Gold Chalice**: Crafted with remarkable precision, this chalice is encrusted with emeralds, its stem adorned with intricate engravings of trees. 
+### Weapons and Armor
+Finally, Ra'ghemdros has collected a number of weapons and armor, largely swords, daggers, and shields. Most of these are relatively plain everyday items, not particularly well cared for, but some examples of fine and luxury workmanship exist. In total, there are about 700 plain weapons, 300 weapons of fine workmanship, and 50 luxury items often with gemstone or elaborate metalwork decorations. 
+
+Value:
+- Plain items: 5-15 gp each; while plain, these are well-made. 
+- Fine items: 10-30 gp each, representing the fine workmanship.
+- Luxury: 50-500 gp or more for items of particularly fine workmanship.
+
+Volume:
+- About 5 per cubic foot.
+
+Examples:
+1. **Ruby Dagger**: A small, richly decorated dagger with a gold-inlaid hilt with a ruby set into the pommel, clearly designed as a decorative and ceremonial item. 
+2. **Warlord's Longsword**: A longsword with a cross-shaped gilded crossguard, with prayers to the Warlord engraved along the quillons. 
 
 ## Special Items
 
@@ -97,7 +165,7 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 2. **Sapphire and Diamond Necklace**: A stunning necklace featuring a cascade of sapphires surrounded by diamonds. %%SECRET[2]%%
 
-3. **Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and gemstone eyes.  %%SECRET[1]%%
+3. **Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  %%SECRET[1]%%
 
 4. **Gemstone-Set Dagger**: An elegantly designed dagger with a hilt encrusted with rubies and a finely etched blade.  %%SECRET[4]%%
 
@@ -107,11 +175,11 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 7. **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  %%SECRET[4]%%
 
-8.  **Fine Gold Necklace with Amulets**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. . %%SECRET[2]%%
+8.  **Fine Gold Necklace**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. . %%SECRET[2]%%
 
-9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figure. %%SECRET[1]%%
+9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figures. %%SECRET[1]%%
 
-10. **Imperial Signet Ring**: A heavy gold ring featuring the family crest, used for sealing important documents and symbols of authority. %%SECRET[10]%%
+10. **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. %%SECRET[10]%%
 
 11. **Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting mythological of dragnets, a rare work of art, eyes of rubies.  %%SECRET[1]%%
 
@@ -133,6 +201,14 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 ### Common Items
 
+There are 56 magic items scattered among the common items of the hoard, often not separately particularly from the standard items of their type. These include:
+- 14 weapons (6 swords, 3 daggers, 1 halberd, 1 greataxe, 1 maul, 2 spears)
+- 3 shields 
+- 8 necklaces, including 2 holy symbols of the Sibyl and 1 of the Wildling
+- 9 ewers, goblets, and serving platters
+- 15 rings
+- 7 candlesticks
+
 %%SECRET[19]%%
 
 ### Unusual Items
@@ -143,14 +219,12 @@ A selection of magic items were also displayed in the Ra'ghemdros' private museu
 2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET[21]%%
 3. A potion in a crystal vial, a syrupy liquid that looks like liquified iron. %%SECRET[22]%%
 4. A small silver vial, etched with the name Serandris in Draconic, and the words, "In Gratitude". The liquid inside is pure and clear, almost to the point of being invisible, with a single metallic silver scale floating inside. %%SECRET[23]%%
-5. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET[24]%%
-6. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[25]%%
-7. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[26]%%
-8. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[27]%%
-9. A wide belt made of a fine dragonhide leather, with an elaborate buckle. %%SECRET[27]%%
-10. tbd
-11. tbd
+5. A round glass vial filled with a bubbling reddish-purple liquid. %%SECRET[24]%%
+6. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET[25]%%
+7. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[26]%%
+8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[27]%%
+9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[28]%%
+10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[28]%%
+11. 
 12. tbd
 
-
-%%SECRET[29]%%
