@@ -1,5 +1,6 @@
 ---
 tags: [status/needswork/wip, person]
+species: human
 dm_notes: color
 dm_owner: mike
 ---

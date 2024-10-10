@@ -1,5 +1,6 @@
 ---
 tags: [status/needswork/internal, person]
+species: human
 dm_notes: none
 dm_owner: none
 ---

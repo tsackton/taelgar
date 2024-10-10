@@ -7,6 +7,7 @@ whereabouts:
 died: 1720-02-16
 dm_notes: none
 dm_owner: none
+species: human
 ---
 # Piers of Houille
 >[!info]+ Biographical Info  
