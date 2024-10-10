@@ -10,9 +10,9 @@ Stored in that space are:
 
 That leaves 250-16 = 234 cubic feet for items found on the Circular Island
 
-The biggest of these is Cloudspinner, who is encased in a rectangle 8 feet long, 4 feet wide, and 3 feet deep = 96 cubic feet.
+The biggest of these is Cloudspinner, who is encased in a rectangle 8 feet long, 4 feet wide, and 3 feet deep = 96 cubic feet. There are maybe 10 cubic feet worth of metals from the tower, plus another few cubic feet from other items, mostly the platter and the ewer.
 
-That leaves 138 cubic feet for treasure. 
+That leaves 125 cubic feet for treasure from Ra'ghemdros' hoard.
 # Ra'ghemdros' Hoard
 
 ## Coins
