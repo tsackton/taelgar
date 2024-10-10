@@ -215,7 +215,7 @@ There are 56 magic items scattered among the common items of the hoard, often no
 
 A selection of magic items were also displayed in the Ra'ghemdros' private museum. These include:
 
-1. A small silver jewelry box, decorated with a poem about far-seeing written in Drankorian in an elegant, flowing script. Inside are five large pearls, each painted to resemble an eye. These are %%SECRET[20]%%
+1. A small silver jewelry box, decorated with a poem about far-seeing written in Drankorian in an elegant, flowing script. Inside are five large pearls, each painted to resemble an eye. %%SECRET[20]%%
 2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET[21]%%
 3. A potion in a crystal vial, a syrupy liquid that looks like liquified iron. %%SECRET[22]%%
 4. A small silver vial, etched with the name Serandris in Draconic, and the words, "In Gratitude". The liquid inside is pure and clear, almost to the point of being invisible, with a single metallic silver scale floating inside. %%SECRET[23]%%
@@ -224,7 +224,7 @@ A selection of magic items were also displayed in the Ra'ghemdros' private museu
 7. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[26]%%
 8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[27]%%
 9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[28]%%
-10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[28]%%
-11. 
+10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[29]%%
+11. **tbd**
 12. tbd
 
