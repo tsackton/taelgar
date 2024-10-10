@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [pc/companion, pc, person]
 name: Ladder
+species: construct
 excludePublish: ["clee"]
 ---
 # Ladder

@@ -5,6 +5,7 @@ whereabouts:
 - { location: Aslain, type: home }
 - { location: Cranford, type: away, start: 1720-02-11, end: 1720-02-16 }
 died: 1720-02-16
+species: human
 dm_notes: none
 dm_owner: none
 ---

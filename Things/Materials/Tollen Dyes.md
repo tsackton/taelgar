@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [item/material]
+typeOf: material
 displayDefaults: {defArt: ""}
 ---
 # Tollen Dyes

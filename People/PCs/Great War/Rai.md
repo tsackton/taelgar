@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [pc/greatwar, person, status/needswork/external]
 name: Rai
 born:
-species:
+species: peronar
 ancestry:
 gender: male
 player: David Kong
