@@ -265,3 +265,4 @@ The following mundane items are kept on [[Vindristjarna]]:
 ### Died heroically
 - A 15’ rope [[Ladder]], originally from lair of the [[Fraternity of the Empty Moon]]. Fought valiantly against many enemies, distinguishing themselves in combat against werewolves and others, until bravely dying in battle against [[Mezzar|Grimbaskal]] the green dragon to allow the rest of the party to escape in [[Session 51 (DuFr)]].
 - The Boulder-Ladder, the hero of the [[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
+- The New Ladder, who finally got to destroy a mirror in Cloudspinner's prison, before bravely dying in battle against [[Ra'ghemdros]]. Slowly the ur-Ladder is beginning to feel that fighting dragons might be dangerous. 

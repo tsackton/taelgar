@@ -129,7 +129,7 @@ The party continues exploring the newly cleared area of the basement.
 - Inside the chest, they find three items: a silver rod with a spiraling motif holding an orb, twenty small boxes each marked with different sigils and containing mysterious powders, and three braided gold rings set with different gemstones—an emerald, a sapphire, and a ruby.
 
 ### Aftermath
-The party prepares to leave [[Apollyon's tower]], making important decisions about the [[items]] they found and how to proceed.
+The party prepares to leave [[Apollyon's tower]], making important decisions about the items they found and how to proceed.
 - Seeker uses Performance of Creation to forge a lead box, providing a safe container for the necromancy book to prevent any lingering magical influence from affecting the party.
 - They discuss whether to take Apollyon's throne as a bargaining chip with the dragon, ultimately turning into elephants with Seeker's Animal Shapes spell to drag it into the [[portable hole]]. 
 - Wellby uses the Chime of Opening to open the locked book, and is hit with a Befuddlement spell. Resisting the worst effects of the spell, he turns the book over to [[Seeker]], who learns it contains notes about the use of the forge and about lich transformations, though much of it is written in cipher.
