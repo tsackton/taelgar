@@ -5,7 +5,7 @@ campaignInfo: []
 name: Enst (Middle Fork)
 typeOf: waterway
 typeOfAlias: river
-partOf: Western Marches
+whereabouts: Western Marches
 aliases: [Middle Fork, Middle Fork of the Enst]
 dm_notes: none
 dm_owner: none

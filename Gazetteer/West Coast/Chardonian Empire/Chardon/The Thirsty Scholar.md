@@ -5,7 +5,7 @@ displayDefaults: {defArt: ""}
 campaignInfo: []
 name: The Thirsty Scholar
 typeOf: inn
-partOf: Chardon
+whereabouts: Chardon
 ---
 # The Thirsty Scholar
 >[!info]+ Information  

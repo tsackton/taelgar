@@ -5,7 +5,7 @@ name: Evis
 typeOf: settlement
 typeOfAlias: town
 subTypeOf: fortified
-partOf: Duchy of Maseau
+whereabouts: Duchy of Maseau
 dm_notes: none
 dm_owner: none
 ---

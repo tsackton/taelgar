@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [status/needswork, place]
 typeOf: wall
-partOf: Sembara
+whereabouts: Sembara
 ---
 # The Western Wall of Sembara
 >[!info]+ Information  

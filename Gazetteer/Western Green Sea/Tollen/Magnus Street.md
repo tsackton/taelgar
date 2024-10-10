@@ -5,7 +5,7 @@ displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Magnus Street
 typeOf: ward
-partOf: Tollen
+whereabouts: Tollen
 ---
 # Magnus Street
 >[!info]+ Information  

@@ -4,7 +4,7 @@ tags: [place]
 campaignInfo: []
 name: Godshome
 typeOf: ward
-partOf: Tollen
+whereabouts: Tollen
 ---
 # Godshome
 >[!info]+ Information  

@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: { defArt: }
-partOf: Duchy of Maseau
+whereabouts: Duchy of Maseau
 typeOf: settlement
 typeOfAlias: camp
 subTypeOf: fortified

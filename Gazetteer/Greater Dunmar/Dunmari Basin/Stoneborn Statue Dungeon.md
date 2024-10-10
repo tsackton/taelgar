@@ -3,7 +3,7 @@ tags: [place, status/needswork/external]
 campaignInfo: []
 name: Stoneborn Statue Dungeon
 typeOf: ruin
-partOf: Central Dunmar
+whereabouts: Central Dunmar
 ---
 # The Stoneborn Statue Dungeon
 >[!info]+ Information

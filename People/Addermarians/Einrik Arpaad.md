@@ -6,7 +6,7 @@ species: human
 gender: male
 title: Sir
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Einrik Arpaad
 >[!info]+ Biographical Info  

@@ -4,7 +4,7 @@ tags: [place, status/needswork]
 campaignInfo:
 name: Mawar Confederacy
 typeOf: realm
-partOf: Mawakel Peninsula
+whereabouts: Mawakel Peninsula
 ---
 # The Mawar Confederacy
 >[!info]+ Information  

@@ -4,7 +4,7 @@ tags: [place]
 displayDefaults: {defArt: ''}
 name: The River's Blessing
 typeOf: inn
-partOf: Cleenseau
+whereabouts: Cleenseau
 created: 1709
 ---
 # The River's Blessing

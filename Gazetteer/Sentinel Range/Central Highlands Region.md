@@ -4,7 +4,7 @@ tags: [place, status/cleanup/internal]
 displayDefaults: {defArt: '' }
 name: Central Highlands Region
 typeOf: region
-partOf: Taelgar
+whereabouts: Taelgar
 ---
 # Central Highlands Region
 >[!info]+ Information
