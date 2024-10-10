@@ -40,7 +40,6 @@
 - Eye of Undead Sensing. A jar filled with liquid in which floats a single human eye, radiating divination magic. When an undead creature comes within 100 feet of the jar, the eye darts about as if it is looking around in panic. Probably a creation of [[Agata]]’s. Taken from [[Agata]]’s hut.  (destroyed)
 - [[Liquid Wood]]. This jar of putty-like brown goo radiates transmutation magic, and is clearly a creation of [[Agata]]’s. It is used for turning creatures into wooden servants. Taken from [[Agata]]’s hut. 
 - Battle Standard of the [[Blackened Claw]] hobgoblins. Found in [[Raven's Hold]]. Destroyed. 
-- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]). Given to [[Ghesh]] in exchange for keeping the party secret from [[Ra'ghemdros]]
 - A blood-red book of necromancy bound in human skin, containing [[Apollyon|Apollyon's]] secret knowledge for how to become a lich. Destroyed by [[Dimitaur]] with a fireball.
 ## Sold
 
@@ -91,10 +90,13 @@
 
 ## Given Away
 
+- [[Apollyon|Apollyon's]] throne, taken from [[Apollyon's Tower|his tower]]. A large grey mottled marble and granite throne encrusted with gemstones. Left on the [[~Circular Island~]] in [[Dimitaur]]'s possession. 
+- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]). Given to [[Ghesh]] in exchange for keeping the party secret from [[Ra'ghemdros]]
+- Folding Boat, originally taken from [[Kadmos and Company Loot]], given to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
 - Celestial Gem of Protection, originally a [[Gifts and Purchases#Gifts|gift]] to [[Riswynn]], given to [[Kethra]]
 - Ring of Displacement, originally part of [[Agata's Treasure]], given to [[Jotha]]
-- Helm of Telepathy. This is a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to Amil.
-- Ring of Shadows. A strange shadowy thing that looks like the currents of the ocean depths in solid form, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to Faldrak. 
+- Helm of Telepathy. This is a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to [[Amil]].
+- Ring of Shadows. A strange shadowy thing that looks like the currents of the ocean depths in solid form, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to [[Faldrak Bronzehammer]]. 
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T., from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]].
 - A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside,  from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
 - A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore, from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
