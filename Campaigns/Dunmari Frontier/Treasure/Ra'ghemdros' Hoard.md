@@ -5,7 +5,7 @@ Volume of the Portable Hole is 282 cubic feet. A little more than 10% is taken u
 Stored in that space are:
 - Both mirrors (3 cubic feet each) = 6 cubic feet
 - Basic supplies for a week (5 cubic feet) = 5 cubic feet
-- Treasure for bribes (1 cubic foot in coins, 3 cubic feet in other) = 4 cubic feet
+- Treasure for bribes plus space for other "quantum items" = 4 cubic feet
 - Misc magic items stored in the portable hole = 1 cubic foot
 
 That leaves 250-16 = 234 cubic feet for items found on the Circular Island
@@ -66,10 +66,91 @@ Value:
 - Elaborate pieces: 100 gp and up. 
 
 Volume:
-- 1400 earrings per cubic foot, on average.
+- 1400 earrings per cubic foot
 
 Examples:
 1. **A Pair of Lapis and Gold Drop Earrings**: The lapis are cut and polished into spheres, each hanging from an intricately wrought golden vine, resembling ripe fruit. 
 2. **A Set of Silver Hoops with Garnet Pendants**: Each earring has a smooth garnet shaped like a droplet.
 
-%%SECRET[1]%%
+### Necklaces
+%% (variety of necklaces, amulets, talismans, lockets; holy symbols are kept elsewhere) %%
+
+### Belt Buckles, Brooches,  Fasteners
+%% wide variety of things, but obvious Ra'ghemdros didn't care so much for these %%
+
+### Torcs, Bracelets, Armlets
+%% bands of various sizes %%
+
+### Religious Items
+%% holy symbols and temple art %%
+
+### Household Goods
+%% cutlery, serving ware, etc %%
+
+## Special Items
+
+Ra'ghemdros had selected a number of items for special display. These all seem to be either (a) originally from Hkar, (b) associated with the Drankorian emperors, or (c) particularly elaborated decorated with extensive gem work. These are:
+
+%% 5 cubic feet total %%
+
+1. **Gold-encrusted Ceremonial Cup**: An ornate cup with intricate gold filigree and inlays of lapis lazuli, marked with archaic and out-of-date symbols of the eight divines.  %%SECRET[1]%%
+
+2. **Sapphire and Diamond Necklace**: A stunning necklace featuring a cascade of sapphires surrounded by diamonds. %%SECRET[2]%%
+
+3. **Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and gemstone eyes.  %%SECRET[1]%%
+
+4. **Gemstone-Set Dagger**: An elegantly designed dagger with a hilt encrusted with rubies and a finely etched blade.  %%SECRET[4]%%
+
+5. **Imperial Scepter**: An elaborately designed scepter made from gold and adorned with multiple sapphires.  %%SECRET[4]%%
+
+6. **Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  %%SECRET[1]%%
+
+7. **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  %%SECRET[4]%%
+
+8.  **Fine Gold Necklace with Amulets**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. . %%SECRET[2]%%
+
+9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figure. %%SECRET[1]%%
+
+10. **Imperial Signet Ring**: A heavy gold ring featuring the family crest, used for sealing important documents and symbols of authority. %%SECRET[10]%%
+
+11. **Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting mythological of dragnets, a rare work of art, eyes of rubies.  %%SECRET[1]%%
+
+12. **Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  %%SECRET[1]%%
+
+13. **Silver and Diamond Ring**. Etched in Elvish with a fragment of a poem about the stars.  %%SECRET[2]%%
+
+14. **Emerald Platinum Ring**. A platinum ring set with a massive emerald.  %%SECRET[4]%%
+
+15. **Bejeweled Imperial Coronation Crown**: A stunning crown adorned with emeralds, rubies, and pearls, symbolizing the authority and lineage of a ruling family. %%SECRET[4]%%
+
+16. **Enamelled Silver Serving Platter**: A large serving platter with elaborate enamel work depicting a historical scene, used during feasts. Ships sailing away from a coast.  %%SECRET[1]%%
+
+17. **Masterfully Wrought Sword**: A beautifully crafted sword with an inlaid hilt of gold and precious stones, displaying masterful smithing techniques. %%SECRET[4]%%
+
+18. **Royal Flagon**: An intricately designed flagon made of silver, adorned with engravings and gemstones, used for serving drinks at state banquets. Like a punchbowl. %%SECRET[4]%%
+
+## Magic
+
+### Common Items
+
+%%SECRET[19]%%
+
+### Unusual Items
+
+A selection of magic items were also displayed in the Ra'ghemdros' private museum. These include:
+
+1. A small silver jewelry box, decorated with a poem about far-seeing written in Drankorian in an elegant, flowing script. Inside are five large pearls, each painted to resemble an eye. These are %%SECRET[20]%%
+2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET[21]%%
+3. A potion in a crystal vial, a syrupy liquid that looks like liquified iron. %%SECRET[22]%%
+4. A small silver vial, etched with the name Serandris in Draconic, and the words, "In Gratitude". The liquid inside is pure and clear, almost to the point of being invisible, with a single metallic silver scale floating inside. %%SECRET[23]%%
+5. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET[24]%%
+6. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[25]%%
+7. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[26]%%
+8. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[27]%%
+9. A wide belt made of a fine dragonhide leather, with an elaborate buckle. %%SECRET[27]%%
+10. tbd
+11. tbd
+12. tbd
+
+
+%%SECRET[29]%%
