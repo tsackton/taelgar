@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, person]
+tags: [status/cleanup/external, status/metadata/header, status/metadata/image, person]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-15, type: imprisoned}
@@ -16,6 +16,8 @@ whereabouts:
 - {type: home, start: '', end: 1748-05-29, location: Garamjala Desert}
 - {type: away, start: 1748-05-29, end: 1748-11-15, location: Ring of the Warded Mind}
 - {type: away, start: 1748-11-15, end: 9999, location: Heartwood Grove}
+dm_notes: important
+dm_owner: tim
 ---
 # Agata Dustmother
 >[!info]+ Biographical Info
