@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/needswork/internal, status/metadata/image]
+tags: [person, status/cleanup/external, status/cleanup/internal, status/metadata/image, status/metadata/header, status/cleanup/chronology]
 name: Vola Forena
 born: 1721
 species: human
@@ -11,6 +11,8 @@ whereabouts:
 - {type: home, start: '', end: '', location: 'Chardon'}
 - {type: away, start: 1748-11-23, end: '', prefix: travelling in, location: 'Dunmar'}
 - {type: away, start: 1748-12-08, end: 9999, location: Mirror of Soul Trapping}
+dm_owner: tim
+dm_notes: important
 ---
 # Vola Forena
 >[!info]+ Biographical Info
@@ -18,6 +20,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% needs whereabouts, campaign info updates; some cleanup to reflect various updates; needs to convert chronology to tagged dates%%
 
 ## Overview
 

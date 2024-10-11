@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {wPastHome: "Destroyed on <endDate> by [[Riswynn]] and companions", wHome: "", dPastHasStart: "", dCurrent: ""}
-tags: [place, status/unknown]
+tags: [place, status/cleanup/internal, status/metadata/header]
 typeOf: domain
 created: 1570 
 destroyed: 1748-08-26
@@ -9,10 +9,14 @@ ancestry: Shadowfell
 whereabouts: 
 - {type: home, location: Hagrim, wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being on <startDate> <origin:Pq>"}
 - {type: home, location: Shadowfell}
+dm_notes: important
+dm_owner: tim
 ---
 # Morkalan
 >[!info]+ Information
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% needs fleshing out based on Riswynn solo session notes, but generally fine; needs some refactoring to properly reflect Shadowfell lore%%
 
 Morkalan was created by the dwarf [[Hagrim]] in death, as he turned from the gods. Known as the Land of the Dishonored Dead. A small domain, one that can be crossed in a day. A place where the sky is always dim and shadowed, the horizon bounded by endless mists.
 

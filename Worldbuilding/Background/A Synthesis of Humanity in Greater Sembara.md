@@ -1,5 +1,5 @@
 ---
-tags: [status/check/tim, background]
+tags: [background]
 ---
 
 This note tries to draw together information from various sources to form a semi-canonical history of humanity in the Greater Sembaran region, intended to inform development of Sembara, Tyrwingha, Maseau, Addermarch, Tollen, Zimkova, and Vostok. Sections in %% notes %% should not be considered canonical. The rest generally is, although this specific background doc is not meant as direct world lore. 
@@ -11,6 +11,11 @@ This note tries to draw together information from various sources to form a semi
 4133 Drankor founded (from [[Drankorian Empire|Drankor]])
 4535 Drankor has conqueor all of Sembaran (from [[Drankorian Empire|Drankor]] / [[Treaty of Marhavn]])
 %%
+
+%% some notes to consider:
+- The cultural context of Tollen is perhaps a little unspecified here. [[Tollen]] has some history that is relevant; in the modern day (post-Great-War) Tollen is fairly distinct, culturally, from Sembara, which is not necessarily well-captured here, although obviously shares some key cultural strands.
+- There is some history of the [[Skaerhem|Skaer]] that could be usefully considered, as well as some shared discussion about the various strands of expansionism and isolation in Skaer culture
+- Cymea does not receive any treatment here, and Isingue minimal treatment but is clearly part of this cultural milieu. I think in past discussions it has been assumed these are more purely Drankorian cultures, but I'm not sure this is canonical. %%
 ## Context
 The most important context for the history of humanity in the Greater Sembara area are the three migrations:
 
@@ -81,11 +86,4 @@ In the modern era (since the Great War), the Greater Sembaran region has been th
 * The ~Old Zimkovans~, a traditionalist and declining culture limited to the foothills of the Sentinels and the upper headwaters of the Volta River. This culture preserves many of the ancient northern ways, worships the kestavo, and speaks a Northros language. These people have never been conqueored by Drankor nor Sembara
 * The ~New Zimkovans~, a blended culture that maintains a significant shared identity with the ~Old Zimkovans~, but where many of them worship Mos Numena, and speak a Eastros dervived but Drankorian influenced language. These people were never conqueored by Drankor, but have, at times, been part of the larger Sembaran Empire, although since 1650 they have been independent
 * The Sembarans, a Drankorian derived culture but with significant influences from both Tollenders and Zimkovans. Some cultural differences between the northern Sembarans, especially in the highlands and the Duchy of Telham, and the southern Sembarans persist. The northern strands of Sembaran culture tend to be more Tollish/Zimkovan, and the southern more Drankorian/Isinguese. Speaks a Eastros/Drankorian blended language and worships Mos Numea. 
-* The Tyrwinghans, an ancient culture of unclear origin, although with significant assimilation trends and a lot of Drankorian and Sembaran influences. Worships Mos Numena, and mostly speaks Sembaran, but with a significant minority that speak Tyrwinghan, an ancient language with some relationships to Eastros 
-
-## Fall of Drankor
-The Fall of Drankor brings chaos and disruption: both Skaer raiders from the east and plague from the south. When the dust settles, the six duchies that eventually form Sembara are well established, largely the inheritances of ancient Drankorian provinces. This is probably also the period when Tyrwingha establishes its traditions, including the Oracle of the Riven. 
-
-Not considered here are the southern stretches such as Maseau and Addermarch. But I think these are probably more marginal lands, less fertile and harder to farm, and many people retreat from these lands to richer soils in the valleys during the chaos and collapse of Drankor -- more to the south towards Isingue than to the north.
-
-The [[Timeline of Sembaran History]] tells a story about conquest in Zimka, but I no longer really like that history. I think instead it is more satisfying to just have depopulation and retreat. 
+* The Tyrwinghans, an ancient culture of unclear origin, although with significant assimilation trends and a lot of Drankorian and Sembaran influences. Worships Mos Numena, and mostly speaks Sembaran, but with a significant minority that speak Tyrwinghan, an ancient language with some relationships to Eastros. The Tyrwinghan culture, broadly, also spreads west into parts of modern-day Addermarch, although the fey influence and fey culture is distinctly different. See [[Addermarch]] for more. 

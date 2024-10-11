@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, status/unknown]
-campaignInfo: []
+tags: [event-source]
 name: Blood Years
 DR: 1545
 DR_end: 1600
+dm_notes: none
+dm_owner: none
 ---
 # The Blood Years
 >[!info]+ Information

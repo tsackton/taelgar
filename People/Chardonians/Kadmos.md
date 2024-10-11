@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/internal, status/metadata/header]
+tags: [person, testcase, status/cleanup/external, status/metadata/header]
 displayDefaults: { endStatus: killed }
 campaignInfo:
 - {campaign: dufr, date: 1748-12-08, type: encountered}
@@ -16,6 +16,8 @@ whereabouts:
 - {type: away, start: 1748-11-15, end: '', prefix: somewhere in, location: 'Dunmar'}
 - {type: away, start: 1748-11-19, end: '', location: 'Garamjala Desert'}
 - {type: away, start: 1748-12-08, end: 1748-12-08, location: Uzgukhar}
+dm_owner: tim
+dm_notes: important
 ---
 # Kadmos
 >[!info]+ Biographical Info
@@ -25,7 +27,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Encountered by the [[Dunmar Fellowship]] on December 8th, 1748 in [[Uzgukhar]], [[Xurkhaz]], the [[Garamjala Desert]] %%^End%%
 
-%%collate various notes for completeness -- mostly in Obsidian%%
+%%collate various notes for completeness -- mostly in Obsidian DM notes%%
 
 ![[kadmos-portrait.png|right|320]]A mysterious figure who doesn't speak unless necessary, the leader of this company, with [[Hektor]], [[Marcella]], [[Antonia]], and [[Casian]]. 
 

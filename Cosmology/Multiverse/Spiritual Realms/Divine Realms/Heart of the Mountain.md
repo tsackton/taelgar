@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place, status/cleanup/external]
 whereabouts: Divine Realms
 typeOf: plane
+dm_notes: color
+dm_owner: tim
 ---
 # The Heart of the Mountain
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% have some additional largely color notes from Riswynn solo; many are in [[Dwarven Religious Practice]] %%
 
 The divine realm of the [[Bahrazel]]. 
 

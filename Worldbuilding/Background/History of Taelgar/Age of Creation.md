@@ -1,8 +1,8 @@
 ---
-tags: [status/check/tim, background]
+tags: [status/needswork/shared, background]
 ---
 
-%% NEEDS CLEANUP %%
+%% Needs significant cleanup based on Discord and internal notes %%
 
 ## The Age of Creation
 

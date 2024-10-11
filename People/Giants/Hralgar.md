@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/unknown]
+tags: [person, testcase, status/cleanup/external, status/cleanup/internal]
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-23, format: "Freed from <current:2> by <person>, <target>"}
 name: Hralgar
@@ -12,6 +12,8 @@ whereabouts:
 - {type: away, start: 1020, end: 1748-11-22, linkText: trapped in, location: Stormcaller Tower}
 - {type: home, start: 1748-11-23, end: 1748-11-23, linkText: " ", location: Stormcaller Tower}
 - {type: home, start: 1748-11-24, alias: drifting on the storm across the world }
+dm_notes: important
+dm_owner: tim
 ---
 # Hralgar
 >[!info]+ Biographical Info
