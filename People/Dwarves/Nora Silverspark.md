@@ -13,7 +13,7 @@ aliases: [Nora]
 whereabouts:
 - {type: away }
 dm_owner: none
-dm_info: important
+dm_notes: important
 ---
 # Nora Silverspark
 >[!info]+ Biographical Info

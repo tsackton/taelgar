@@ -11,7 +11,7 @@ affiliations: [Order of the Awakened Soul]
 whereabouts:
 - {type: home, location: 'plains of Songara'}
 - {type: home, location: "Pava and Avaras' House"}
-dm_info: important
+dm_notes: important
 dm_owner: tim
 ---
 # Pava
