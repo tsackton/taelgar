@@ -22,7 +22,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Fought and killed by the [[Dunmar Fellowship]] on December 22nd, 1748 in [[Vetta]], [[Skaerhem]] %%^End%%
 
-Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to a life of piracy. Sometime during his pirate days, he made a pact with a demon known as Mashtu the Corruptor. 
+Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to a life of piracy. Sometime during his pirate days, he made a pact with a demon known as [[Mashtu the Corruptor]]. 
 
 Urgall was (is) an outcast from Skaer society. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered the [[Green Sea]], eventually turning to piracy, and pledging himself to a demon as a warlock.
 

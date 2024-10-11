@@ -33,4 +33,4 @@ Yet, it has always been protected. It is said that the priest of the waters can 
 ## Recent Events
 - (DR:: 1748-05-03): [[Urgall the Black]] landed on Vetta, and attacked. He and his crew slaughtered the pilgrims who were there, and the staff, and finally the priest of the waters, and then plundered the island. As they did so, they were cursed by [[Kaikkea]], making it impossible for them to depart.
 - (DR:: 1748-08-11): [[Urgall the Black]] and his crew run out of supplies on Vetta, as the nesting seabirds leave, having exhausted the food laid in for pilgrims. 
-- (DR:: 1748-08-30): [[Urgall the Black]] and his crew are turned into undead by Mashtu the Corruptor in a ritual of corruption. 
+- (DR:: 1748-08-30): [[Urgall the Black]] and his crew are turned into undead by [[Mashtu the Corruptor]] in a ritual of corruption. 

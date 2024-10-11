@@ -6,6 +6,6 @@ The scene shifts, and you see [[Urgall the Black|Urgall]] standing on the deck o
 
 The scene shifts, and you see the one-sided battle for [[Vetta]], the slaughter of the pilgrims and priests of the island, as [[Urgall the Black|Urgall]] and his crew descend, fireballs shooting from [[Urgall the Black|Urgall]]'s hands as he shouts spells into the dark night. 
 
-Finally, you see [[Urgall the Black|Urgall]], standing in the temple of [[Vetta]], slitting the throats of ten of his crew. As each dies, the sacred waters of the temple of [[Vetta]] begin to boil and churn, and suddenly you see a tentacle emerging from the sacred waters in the distance, and black acid begin to seep over everything. This, clearly, is a scene of ritual sacrifice, where [[Urgall the Black|Urgall]] is slaughtering his own crew to summon a demon, Mashtu the Corruptor or some servant of his. 
+Finally, you see [[Urgall the Black|Urgall]], standing in the temple of [[Vetta]], slitting the throats of ten of his crew. As each dies, the sacred waters of the temple of [[Vetta]] begin to boil and churn, and suddenly you see a tentacle emerging from the sacred waters in the distance, and black acid begin to seep over everything. This, clearly, is a scene of ritual sacrifice, where [[Urgall the Black|Urgall]] is slaughtering his own crew to summon a demon, [[Mashtu the Corruptor]] or some servant of his. 
 
 The scene fades.
