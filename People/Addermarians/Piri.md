@@ -8,7 +8,7 @@ whereabouts:
 - {type: home, location: Valcroix}
 - {type: away, location: Torvaine Watch}
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 # Piri
 >[!info]+ Biographical Info  

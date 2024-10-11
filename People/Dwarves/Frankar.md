@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/unknown]
+tags: [person, status/metadata/header]
 campaignInfo: []
 name: Frankar
 born: 1714
@@ -10,6 +10,8 @@ gender: male
 died:
 whereabouts:
 - {type: home, start: '', end: 1730, location: 'Darakan'}
+dm_owner: tim
+dm_notes: important
 ---
 # Frankar
 >[!info]+ Biographical Info
@@ -17,12 +19,14 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% should add campaign info, maybe cleanup whereabouts to reflect Philosopher's guild information %%
+
 A dwarf from the city of Darakan, in the kingdom of [[Khatridun]], fascinated with mechanical devices and runic magic. 
 %%^Date:1730%%
 Mysteriously vanished in a storm in DR 1730.  
 %%^End%%
 %%^Campaign:DuFr%%
-[[Seeker]]'s brother. [[Seeker]] told his story on [[Session 17 (DuFr)|April 16, 1748]], after surviving the storms caused by Hralgar around Eudomes' Tower.
+[[Seeker]]'s brother. [[Seeker]] told his story on [[Session 17 (DuFr)|April 16, 1748]], after surviving the storms caused by Hralgar around Stormcaller Tower. 
 
 ### Seeker's Story of Frankar
 

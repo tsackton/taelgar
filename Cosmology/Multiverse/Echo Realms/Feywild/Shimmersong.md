@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 whereabouts: Feywild
 typeOf: realm
 ancestry: fey
+dm_notes: color
+dm_owner: tim
 ---
 # Shimmersong
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% some missing color notes in backstories of Isaac's and Kate's characters from the feywild one shot%%
 
 The fey domain of Shimmersong is a land of bright colors and vivid magic. It is hilly terrain, with pillars of bright gems, crystal forests on rolling slopes, glittering caves, spiders that spin webs of diamond. There is the occasional mountain, and the occasional hidden valley of lush plant life in rich, multicolored soil. Mostly it is a riot of color, and full of oddities that mix crystals/gems with living things, so there might be trees on which ruby apples grow, or a crystal tree that produces real citrus, or a deer with antlers of silver instead of bone.
 

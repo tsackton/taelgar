@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork, status/unknown]
+tags: [place, status/needswork/external]
 partOf: Amberglow
 typeOf: grove
+dm_notes: important
+dm_owner: tim
 ---
 # The Heartwood Grove
 >[!info]+ Information  

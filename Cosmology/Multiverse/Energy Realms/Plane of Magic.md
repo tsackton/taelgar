@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 whereabouts: Energy Realms
 typeOf: plane
+dm_notes: important
+dm_owner: tim
 ---
 # The Plane of Magic
 >[!info]+ Information  
@@ -13,3 +15,4 @@ The source of all arcane magic in Taelgar; creates ley lines where its energy co
 
 Ofter describes as the chaotic sea on which all of the multiverse rests. 
 
+%%SECRET[1]%%

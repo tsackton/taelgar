@@ -12,7 +12,7 @@ whereabouts:
 - {type: home, start: '', end: 1729, location: Chardon}
 - {type: home, start: 1730, end: '', location: Darba}
 dm_notes: none
-dm_owner: no
+dm_owner: none
 ---
 # Albus
 >[!info]+ Biographical Info

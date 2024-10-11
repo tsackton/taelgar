@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/internal]
-campaignInfo: []
 name: Skaerhem
 typeOf: realm
 whereabouts: Western Green Sea Region
