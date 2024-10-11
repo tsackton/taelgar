@@ -31,7 +31,7 @@ The party hunts and kills a cockatrice, deals with a water nymph, and returns st
 - Day 10: The party delivers the cockatrice gizzard to Caradoc and returns stolen treasure to Elowen Duval, receiving a bounty.
 ## Narrative
 ### Day 8
-We begin in the morning at the Traveler's Rest in Roscombe. As [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] eat breakfast, they receive two letters. [[Letter from Owen Tavish|One]] is from [[Owen Tavish]], the priest of [[The Sibyl]]; the [[Letter from Elowen Duval|other]], sealed with green wax, imprinted with the Duval seal, showing a stylized valley between two mountains with an oak tree in the middle.
+We begin in the morning at the Traveler's Rest in Roscombe. As [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] eat breakfast, they receive two letters. [[Letter from Owen Tavish|One]] is from [[Owen Tavish]], the priest of [[The Sibyl]]; the [[Letter from Elowen Duval|other]], sealed with green wax, imprinted with the Duval seal, showing a stylized valley between two mountains with an oak tree in the middle, is from [[Elowen Duval]].
 
 During the day, the party rests and relaxes. Sunday is a market day, and [[Fazoth de Brune|Fazoth]] goes to the market to find a buyer for the ancient coins he found in [[Torvaine Watch]]. Otherwise, the day passes quietly until the evening, when [[Caradoc]] arrives to meet the party. 
 

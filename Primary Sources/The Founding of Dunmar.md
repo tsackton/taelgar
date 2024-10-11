@@ -1,5 +1,5 @@
 ---
-tags: [status/unknown, source]
+tags: [status/needswork/external, source]
 ---
 
 This is the story of the founding of [[Dunmar]], as told by the Dunmari:

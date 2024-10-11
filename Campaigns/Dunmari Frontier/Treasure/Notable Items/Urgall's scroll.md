@@ -13,7 +13,7 @@ displayDefaults: {defArt: ""}
 
 A ciphered scroll, recovered from the captain's cabin on the [[Flaming Tempest]], in the hand of [[Urgall the Black]]. It reads, in translation:
 
->The words of Mashtu the Corruptor, who has given me power over the ocean, recorded here in secret least I forget my purpose. 
+>The words of [[Mashtu the Corruptor]], who has given me power over the ocean, recorded here in secret least I forget my purpose. 
 >
 >[[Urgall the Black|Urgall]], the voice said. You will go to the sacred places on these seas: the holy wells of Parmo, the sacred waters of [[Vetta]], the waters beneath Quanyi, the ancient temple among the ruins of Nkasa, the blessed springs of Beresa, and the sunken garden of Inulvis.
 >
