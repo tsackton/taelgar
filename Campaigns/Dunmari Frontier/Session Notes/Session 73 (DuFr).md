@@ -32,7 +32,7 @@ The [[Dunmar Fellowship]] navigates the dreamworld, captures the elusive [[Phasi
 - Realizing they're still dreaming and slowly freezing to death, they wake up for real and warm themselves before gathering information at Hralgar's library and departing.
 
 ### Timeline
-- (DR:: 1748-11-24), afternoon: Venture to the library, and find their way to the [[Dreamworld]], where they encounter the tricks of Kurome. Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [[Hralgar]]'s library about skyships. Depart to return to the crash of [[Vindristjarna]] at dusk, with [[Hralgar]]'s wind blessing.
+- (DR:: 1748-11-24), afternoon: Venture to the library, and find their way to the [[Dreamworld]], where they encounter the tricks of [[Kurome]]. Recover the phasing stone, returning to a dream version of the real world. Wake themselves up before freezing to death. Record information from [[Hralgar]]'s library about skyships. Depart to return to the crash of [[Vindristjarna]] at dusk, with [[Hralgar]]'s wind blessing.
 
 ## Narrative
 We begin as the party finishes a short rest, warmed by [[Delwath]]'s hot drinks. During the rest, visions of the cold thoughts and memories of the ice maiden, recently killed, haunt the visions of the party.

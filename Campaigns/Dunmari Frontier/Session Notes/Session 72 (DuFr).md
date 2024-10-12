@@ -54,7 +54,7 @@ Scouting as wisps of clouds, the party sees [[Hralgar]]'s palace, looking much a
 
 ![[ice-palace.png]]
 
-The party decides to negotiate, with [[Delwath]] approaching to speak while [[Wellby]] and [[Kenzo]] invisibly sneak to hide behind ice pillars, and [[Riswynn]] and [[Seeker]] linger invisibly (but noisily) at the top of the stairs. The ice maiden speaks with [[Delwath]], who asks about the shadows below. The woman seems not to care if they wish to venture there, telling [[Delwath]] should he wish to journey into the nightmares of Kurome, it is no concern of hers. When asked about the phasing stone, her patience grows thin, and she tells [[Delwath]] that he is welcome to seek it in Kurome's realm, but to go quickly either way, for there are foolish travelers to freeze in the wastes and her attention cannot long linger here. 
+The party decides to negotiate, with [[Delwath]] approaching to speak while [[Wellby]] and [[Kenzo]] invisibly sneak to hide behind ice pillars, and [[Riswynn]] and [[Seeker]] linger invisibly (but noisily) at the top of the stairs. The ice maiden speaks with [[Delwath]], who asks about the shadows below. The woman seems not to care if they wish to venture there, telling [[Delwath]] should he wish to journey into the nightmares of [[Kurome]], it is no concern of hers. When asked about the phasing stone, her patience grows thin, and she tells [[Delwath]] that he is welcome to seek it in [[Kurome]]'s realm, but to go quickly either way, for there are foolish travelers to freeze in the wastes and her attention cannot long linger here. 
 
 ![[ice-spirit-portrait.png|500]]
 
