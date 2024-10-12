@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [status/needswork, place]
 typeOf: wall
 whereabouts: Sembara
+dm_owner: mike
+dm_notes: none
 ---
 # The Western Wall of Sembara
 >[!info]+ Information  

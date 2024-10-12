@@ -7,6 +7,8 @@ name: Lake Pekul
 typeOf: lake
 whereabouts: Kem
 aliases: [Pekul]
+dm_owner: none
+dm_notes: none
 ---
 # Lake Pekul
 >[!info]+ Information

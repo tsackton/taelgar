@@ -4,12 +4,15 @@ tags: [person, status/needswork/internal]
 species: halfling
 whereabouts: Aslain
 gender: female
+affiliations: [{org: Riverstones, type: primary}]
+dm_owner: none
+dm_notes: color
 ---
 # Callie Riverstone
 >[!info]+ Biographical Info  
-> A [[Halflings|halfling]] (she/her)  
+> A [[Halflings|halfling]] (she/her), of Riverstones  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
 
 ![[callie-riverstone.jpg|left|200]]
 
