@@ -59,7 +59,7 @@ To the north, the [[Sentinel Range]] forms the northern, and largely impassible,
 
 ## History
 
-Dunmar was founded in DR 1173, by a people from far to the east and south, who journeyed a long distance fleeing a great disruption in their homeland. Though the land they settled, what would become Dunmar, was ashy and cursed, a divine miracle healed the land for them to settle, and became the [[The Founding of Dunmar|founding myth]] of the realm.
+Dunmar was founded in DR 1173, by a people from far to the east and south, who journeyed a long distance fleeing a great disruption in their homeland. Though the land they settled, what would become Dunmar, was ashy and cursed, a divine miracle healed the land for them to settle, and became the [[Founding of Dunmar|founding myth]] of the realm.
 
 ### Aatmaji Dynasty
 DR 1173 - DR 1395
