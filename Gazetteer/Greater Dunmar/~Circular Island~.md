@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, place, status/namecheck]
+tags: [status/stub, place, status/check/name]
 ---
 
 
