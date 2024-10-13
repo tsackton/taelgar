@@ -1,7 +1,7 @@
 ---
 tags: [place, status/unknown]
 typeOf: plane
-partOf: Divine Realms
+whereabouts: Divine Realms
 ---
 
 ### Shakun's Realm

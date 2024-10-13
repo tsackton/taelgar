@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: island
-partOf: Illoria
+whereabouts: Illoria
 ---
 # Burganos
 >[!info]+ Information  

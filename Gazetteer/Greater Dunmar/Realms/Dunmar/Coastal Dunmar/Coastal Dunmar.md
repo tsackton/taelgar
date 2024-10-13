@@ -4,7 +4,7 @@ tags: [place, status/needswork/wip, status/needswork/external]
 name: Coastal Dunmar
 displayDefaults: {defArt: ''}
 typeOf: region
-partOf: Dunmar
+whereabouts: Dunmar
 ---
 # Coastal Dunmar
 >[!info]+ Information

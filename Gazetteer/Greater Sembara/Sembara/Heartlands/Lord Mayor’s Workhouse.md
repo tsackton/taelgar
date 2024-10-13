@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Lord Mayor’s Workhouse
 typeOf: orphanage
-partOf: Embry
+whereabouts: Embry
 ---
 # The Lord Mayor’s Workhouse
 >[!info]+ Information  

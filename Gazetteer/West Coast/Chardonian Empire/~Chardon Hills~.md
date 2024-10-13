@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/check/name, status/cleanup/internal]
 typeOf: line of hills
-partOf: Chardonian Empire
+whereabouts: Chardonian Empire
 dm_notes: none
 dm_owner: none
 ---

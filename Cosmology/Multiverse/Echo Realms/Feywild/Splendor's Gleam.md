@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/wip]
-partOf: Feywild
+whereabouts: Feywild
 typeOf: realm
 ---
 # The Splendor's Gleam

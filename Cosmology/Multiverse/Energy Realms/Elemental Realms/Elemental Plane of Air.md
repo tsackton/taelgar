@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork]
-partOf: Elemental Realms
+whereabouts: Elemental Realms
 typeOf: plane
 ---
 # The Elemental Plane of Air

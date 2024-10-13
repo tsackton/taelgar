@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Straits of Cymea
 typeOf: strait
-partOf: Western Green Sea
+whereabouts: Western Green Sea
 ---
 # The Straits of Cymea
 >[!info]+ Information  

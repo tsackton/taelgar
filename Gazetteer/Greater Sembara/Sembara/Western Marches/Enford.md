@@ -4,7 +4,7 @@ tags: [place]
 name: Enford
 typeOf: settlement
 typeOfAlias: fortified town
-partOf: Marches of Enford
+whereabouts: Marches of Enford
 ---
 # Enford
 >[!info]+ Information  

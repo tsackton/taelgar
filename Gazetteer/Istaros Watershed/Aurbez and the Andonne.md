@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Aurbez and the Andonne
 typeOf: region
-partOf: Istaros Watershed
+whereabouts: Istaros Watershed
 ---
 # The Aurbez and the Andonne
 >[!info]+ Information

@@ -2,11 +2,10 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ""}
-campaignInfo: []
 name: Lake Aeulian
 typeOf: lake
 aliases: [Aeulian]
-partOf: Istaros Watershed
+whereabouts: Istaros Watershed
 pronunciation: "ay-oo-LYAHN"
 ---
 # Lake Aeulian

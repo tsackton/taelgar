@@ -5,7 +5,9 @@ displayDefaults: {defArt: ""}
 campaignInfo: []
 name: Scrollwright Street
 typeOf: street
-partOf: Tollen
+whereabouts: Tollen
+dm_notes: none
+dm_owner: none
 ---
 # Scrollwright Street
 >[!info]+ Information  

@@ -5,7 +5,9 @@ campaignInfo: []
 name: Plataca Hills
 typeOf: line of hills
 pronunciation: PLAH-tah-kah
-partOf: Western Cymea
+whereabouts: Western Cymea
+dm_notes: color
+dm_owner: none
 ---
 # The Plataca Hills
 *(PLAH-tah-kah)*
