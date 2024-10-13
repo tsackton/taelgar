@@ -1,3 +1,8 @@
+---
+tags: [source]
+---
+
+
 It is told among the Dunmari, that when their ancestors first came to the land now called Dunmar, it was dry and dead, a barren landscape cursed by an ancient plague, in which no crops could grow. The people suffered, and died, from drought and hunger and fear. 
 
 Jeevali, it is said, who had sheltered her people on the long journey, wept in sorrow an despair, wept for her people who were starving in the land that should sustain them. She cried tears that poured from the heavens, falling as soft rains, cleansing the land and purifying the soil. Rivers sprung up where her tears fell, and the land was blessed. 
