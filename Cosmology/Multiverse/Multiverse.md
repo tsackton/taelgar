@@ -1,6 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/check/tim]
 ---
+# Multiverse
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
 
 %% need to review based on cosmology DM notes %%
 

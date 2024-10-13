@@ -1,8 +1,12 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/needswork/wip]
 typeOf: army
 ---
-# Chardonian Legion
+# The Chardonian Legion
+>[!info]+ Information  
+> An army  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The army of the Chardonian Empire.
 

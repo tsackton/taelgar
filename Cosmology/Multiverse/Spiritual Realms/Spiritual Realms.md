@@ -1,8 +1,11 @@
 ---
+headerVersion: 2023.11.25
 tags: [status/needswork/wip, place]
 typeOf: plane
 ---
 # The Spiritual Realms
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 The realms of the creations of belief - the gods and demons born of the belief or humanity, and the embodied gods created by the [[high gods]] themselves, inhabit the spiritual realms. 
 

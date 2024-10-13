@@ -1,9 +1,15 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/needswork/internal]
 typeOf: family
 dm_notes: none
 dm_owner: none
 ---
+# The House of Wisenfold
+>[!info]+ Information  
+> A family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
 
 %%^Campaign:None%%
 ### Members
