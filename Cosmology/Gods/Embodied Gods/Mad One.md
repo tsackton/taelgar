@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity]
 displayDefaults: {defArt: "the"}
+dm_notes: color
+dm_owner: none
 ---
 # The Mad One
 

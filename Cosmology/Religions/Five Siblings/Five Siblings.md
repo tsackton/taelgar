@@ -6,6 +6,8 @@ typeOf: religion
 ancestry: Dunmari
 name: Five Siblings
 aliases: [Five Siblings of the Dunmari, Dunmari gods]
+dm_notes: important
+dm_owner: tim
 ---
 # The Five Siblings
 >[!info]+ Information  

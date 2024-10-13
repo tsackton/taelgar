@@ -17,6 +17,8 @@ whereabouts:
 - {type: away, start: 1748-11-28, end: 1748-12-05, location: Garamjala}
 - {type: away, start: 1748-12-05, end: 1748-12-14, location: Xurkhaz}
 - {type: away, start: 1748-12-14, end: 9999, location: Uzgukhar}
+dm_notes: important
+dm_owner: tim
 ---
 # Grash
 >[!info]+ Biographical Info

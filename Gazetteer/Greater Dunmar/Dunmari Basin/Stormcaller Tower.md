@@ -7,6 +7,8 @@ destroyed: 1748-11-23
 typeOf: tower
 whereabouts: 
 - {type: home, location: Samtal, wPastHome: "Ruined <typeOf> <current:3qr>"}
+dm_notes: color
+dm_owner: tim
 ---
 # Stormcaller Tower
 >[!info]+ Information  
@@ -16,7 +18,7 @@ whereabouts:
 
 Eons ago, lost in the dawn of time when the Firstborn walked the earth and the great empires of giants and dragons and other creatures of myth and legend  stretched across the world, great skyships of the storm giants sailed the skies, powered by [[Phasing Stones]] that could remake reality around them. While a few may remain in distant hidden corners of the world, or travel the skies of other planes, many crashed or were destroyed.
 
-One such skyship, the Star on the Wind, known as Vindristjarna (vin-dree-shar-na) to the storm giants, crashed on what is now the Dunmari plains thousands of years ago. 
+One such skyship, the Star on the Wind, known as [[Vindristjarna]] (vin-dree-shar-na) to the storm giants, crashed on what is now the Dunmari plains thousands of years ago. 
 
 Stormcaller Tower was originally constructed on the prow of this crashed ship by the [[Elves|elves]], before [[The Downfall]], during the height of power of the ancient elven kingdom of [[Alcarinque]]. 
 

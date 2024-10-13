@@ -2,6 +2,8 @@
 tags: [holiday]
 name: Festival of Rebirth
 fc-date: 1748-4-6
+dm_notes: none
+dm_owner: none
 ---
 # The Festival of Rebirth
 

@@ -5,6 +5,8 @@ displayDefaults: {defArt: ''}
 name: Eastern Dunmar
 typeOf: subregion
 whereabouts: Dunmar
+dm_notes: color
+dm_owner: tim
 ---
 # Eastern Dunmar
 >[!info]+ Information
