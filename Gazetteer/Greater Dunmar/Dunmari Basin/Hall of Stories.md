@@ -1,17 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
-campaignInfo:
+tags: [place]
 name: Hall of Stories
 typeOf: building
 whereabouts: Monastery of Bhishma
+dm_notes: color
+dm_owner: tim
 ---
 # The Hall of Stories
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% Tim: This seems pretty good to me; tagged status/tim in case you want to add anything %%
 
 The Hall of Stories is a a large structure, part of the [[Monastery of Bhishma]], that houses the stories of the Dunmari. 
 

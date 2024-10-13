@@ -24,7 +24,7 @@ First scrying attempt on [[Stormcaller Tower]] fails. In your second attempt, yo
 
 It is hard to get a great sense of the city from just watching one spot for 10 minutes, but you do get the idea that this is a city full of tension right now. People are openly carrying weapons on the streets.
 
-People are nervous, here. [[Kirian’s]] seems to be a Karnas establishment - once you overhear two people talking about when the Samraat (referring to [[Nayan Karnas]]) will send more troops to quiet things down, and when the Lakan monks will finally pick a side (which the person seems sure will be Karnas). Another time, someone comes in, who [[Kirian]] seems to recognize, because you here a shout, "Get out! No recruiting here!"
+People are nervous, here. [[Kirian's]] seems to be a Karnas establishment - once you overhear two people talking about when the Samraat (referring to [[Nayan Karnas]]) will send more troops to quiet things down, and when the Lakan monks will finally pick a side (which the person seems sure will be Karnas). Another time, someone comes in, who [[Kirian]] seems to recognize, because you here a shout, "Get out! No recruiting here!"
 
 The army camp is still in place, and seems to have grown slightly, if anything. Soldiers are drilling, but there is also a feeling of weariness, like you can only stay alert without action for so long. This is not a camp that has recently seen battle.
 
