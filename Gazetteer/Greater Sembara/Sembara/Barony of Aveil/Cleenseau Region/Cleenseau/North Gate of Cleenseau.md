@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: North Gate of Cleenseau
 typeOf: gate
-partOf: Cleenseau
+whereabouts: Cleenseau
 ---
 # The North Gate of Cleenseau
 >[!info]+ Information  

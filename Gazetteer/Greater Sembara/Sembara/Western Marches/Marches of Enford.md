@@ -4,7 +4,7 @@ tags: [place, status/needswork]
 campaignInfo:
 name: Marches of Enford
 typeOf: march
-partOf: Western Marches
+whereabouts: Western Marches
 ---
 # The Marches of Enford
 >[!info]+ Information  

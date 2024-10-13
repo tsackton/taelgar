@@ -7,7 +7,7 @@ name: The Fire and Stone
 typeOf: inn
 typeOfAlias: tavern
 ancestry: dwarven
-partOf: Magnus Street
+whereabouts: Magnus Street
 ---
 # The Fire and Stone
 >[!info]+ Information

@@ -1,6 +1,6 @@
 ---
 tags: [place, religion/fivesiblings, status/check/tim]
-partOf: Divine Realms
+whereabouts: Divine Realms
 typeOf: plane
 ---
 %% Tim: not sure what to make of a page that is just secrets %%

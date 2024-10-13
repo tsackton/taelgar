@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
-partOf: Amberglow
+whereabouts: Amberglow
 typeOf: grove
 dm_notes: important
 dm_owner: tim

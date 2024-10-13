@@ -2,12 +2,11 @@
 headerVersion: 2023.11.25
 tags: [place]
 displayDefaults: {defArt: ''}
-campaignInfo: []
 name: The Iron Swan
 typeOfAlias: tavern
 ancestry: dwarven
 typeOf: inn
-partOf: Tokra
+whereabouts: Tokra
 ---
 # The Iron Swan
 >[!info]+ Information

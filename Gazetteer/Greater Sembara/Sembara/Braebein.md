@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Braebein
 typeOf: line of hills
-partOf: Highlands
+whereabouts: Highlands
 pronunciation: BRAY-been
 dm_notes: none
 dm_owner: none

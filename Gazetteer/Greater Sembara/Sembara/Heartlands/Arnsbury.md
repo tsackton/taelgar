@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Arnsbury
 typeOf: city
-partOf: Duchy of Arnsbury
+whereabouts: Duchy of Arnsbury
 population: 4500
 dm_notes: none
 dm_owner: none

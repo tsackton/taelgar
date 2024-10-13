@@ -5,7 +5,7 @@ displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Gold Street
 typeOf: ward
-partOf: Tollen
+whereabouts: Tollen
 ---
 # Gold Street
 >[!info]+ Information  

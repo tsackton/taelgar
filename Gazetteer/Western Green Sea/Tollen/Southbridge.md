@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Southbridge
 typeOf: ward
-partOf: Tollen
+whereabouts: Tollen
 ---
 # Southbridge
 >[!info]+ Information  

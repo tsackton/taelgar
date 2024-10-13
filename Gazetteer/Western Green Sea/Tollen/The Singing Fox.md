@@ -6,7 +6,7 @@ campaignInfo: []
 name: The Singing Fox
 typeOf: inn
 ancestry: halfling
-partOf: Fairgate Outer
+whereabouts: Fairgate Outer
 ---
 # The Singing Fox
 >[!info]+ Information

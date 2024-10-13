@@ -1,6 +1,6 @@
 ---
 tags: [status/needswork/wip, place]
-partOf: Feywild
+whereabouts: Feywild
 typeOf: realm
 ---
 # Wildrun

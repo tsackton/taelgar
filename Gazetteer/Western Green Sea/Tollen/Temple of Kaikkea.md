@@ -6,7 +6,7 @@ typeOf: holy site
 ancestry: Skaer
 typeOfAlias: temple
 affiliations: [{org: Kaikkea, type: primary}]
-partOf: Tollen
+whereabouts: Tollen
 ---
 # The Temple of Kaikkea
 >[!info]+ Information

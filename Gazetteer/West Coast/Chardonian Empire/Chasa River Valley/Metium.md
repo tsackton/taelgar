@@ -2,7 +2,7 @@
 tags: [place, status/needswork/external]
 name: Metium
 typeOf: city
-partOf: Chasa River Valley
+whereabouts: Chasa River Valley
 ---
 # Metium
 >[!info]+ Summary

@@ -5,7 +5,7 @@ campaignInfo: []
 name: Dunmore
 typeOfAlias: fortified town
 typeOf: settlement
-partOf: Barony of Ainwick
+whereabouts: Barony of Ainwick
 ---
 # Dunmore
 >[!info]+ Information  

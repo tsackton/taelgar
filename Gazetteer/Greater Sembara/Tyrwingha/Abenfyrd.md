@@ -6,7 +6,7 @@ name: Abenfyrd
 typeOf: settlement
 population: 450
 typeOfAlias: village
-partOf: Tyrwingha
+whereabouts: Tyrwingha
 pronunciation: AY-ben-veered
 dm_notes: none
 dm_owner: mike

@@ -1,4 +1,4 @@
 ---
 tags: [place, status/stub]
-partOf: Spiritual Realms
+whereabouts: Spiritual Realms
 ---

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [status/needswork, place]
-partOf: Western Marches
+whereabouts: Western Marches
 typeOf: barony
 ---
 # The Barony of Usbourg

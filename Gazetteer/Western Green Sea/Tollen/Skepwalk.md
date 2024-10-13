@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/internal, status/metadata/image]
 name: Skepwalk
 typeOf: ward
-partOf: Tollen
+whereabouts: Tollen
 ---
 # Skepwalk
 >[!info]+ Information  

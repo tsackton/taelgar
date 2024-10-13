@@ -4,7 +4,7 @@ tags: [place]
 name: Kunda
 ancestry: stoneborn
 typeOf: village
-partOf: Indalas
+whereabouts: Indalas
 ---
 # Kunda
 >[!info]+ Information  

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
-partOf: Chardonian Empire
+whereabouts: Chardonian Empire
 typeOf: region
 ---
 # The Northern Frontier

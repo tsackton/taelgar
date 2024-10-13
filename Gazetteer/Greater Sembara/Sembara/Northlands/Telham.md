@@ -4,11 +4,12 @@ tags: [place, status/needswork/internal]
 campaignInfo:
 name: Telham
 typeOf: city
-partOf: Duchy of Telham
+whereabouts: Duchy of Telham
 population: 12000
 ---
 # Telham
 >[!info]+ Information  
+> pop. 12,000  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 

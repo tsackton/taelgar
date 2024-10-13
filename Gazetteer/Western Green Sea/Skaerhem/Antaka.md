@@ -4,8 +4,10 @@ tags: [place]
 campaignInfo: []
 name: Antaka
 typeOf: island
-partOf: Skaerhem
+whereabouts: Skaerhem
 pronunciation: AHN-tah-kah
+dm_notes: important
+dm_owner: none
 ---
 # Antaka
 *(AHN-tah-kah)*

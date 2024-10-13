@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork]
 name: Eastern Green Sea Region
 typeOf: region
-partOf: Taelgar
+whereabouts: Taelgar
 ---
 # The Eastern Green Sea Region
 >[!info]+ Information

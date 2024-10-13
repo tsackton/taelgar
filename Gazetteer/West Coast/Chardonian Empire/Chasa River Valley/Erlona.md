@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 name: Erlona
 typeOf: city
-partOf: Chasa River Valley
+whereabouts: Chasa River Valley
 ---
 # Erlona
 >[!info]+ Information

@@ -4,7 +4,7 @@ tags: [place, status/needswork/internal]
 campaignInfo: []
 name: March of Andonne
 typeOf: march
-partOf: Duchy of Maseau
+whereabouts: Duchy of Maseau
 ---
 # The March of Andonne
 >[!info]+ Information  

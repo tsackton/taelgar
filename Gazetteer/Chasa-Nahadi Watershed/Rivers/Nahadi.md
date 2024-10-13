@@ -1,6 +1,6 @@
 ---
 tags: [place, status/stub]
-partOf: Chardonian Empire
+whereabouts: Chardonian Empire
 typeOf: river
 aliases: [Nahadi River]
 ---
