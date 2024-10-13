@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, event-source, status/needswork/external]
 campaignInfo: []
 name: Ruined Elven Workshop (near Tokra)
@@ -6,8 +7,9 @@ typeOf: ruin
 whereabouts: Lakan Monastery
 ---
 # The Ruined Elven Workshop (near Tokra)
->[!info]+ Information
-> A  ruin in the [[Lakan Monastery]], [[Tokra]], [[Central Dunmar]], [[Dunmar]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% lots of stuff in onenote %%%
 

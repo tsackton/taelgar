@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 campaignInfo: []
 name: Stoneborn Statue Dungeon
@@ -6,8 +7,9 @@ typeOf: ruin
 whereabouts: Central Dunmar
 ---
 # The Stoneborn Statue Dungeon
->[!info]+ Information
-> A  ruin in [[Central Dunmar]], [[Dunmar]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% a fair bit of detail developed for Riswynn one shot, needs to be copied from OneNote %%
 

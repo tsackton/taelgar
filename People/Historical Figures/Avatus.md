@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [historical, person, status/needswork/shared]
 name: Avatus
 born:
@@ -9,7 +10,9 @@ gender: male
 dm_notes: color
 dm_owner: mike
 ---
-### Emperor Avatus
+# Emperor Avatus
+>[!info]+ Biographical Info  
+> A [[Humans|human]] (he/him)
 
 The ruler of an autocracy established on the southern edge of Sembara in the DR 1420s. Commissioned the [[Mirror of Soul Trapping]]. 
 

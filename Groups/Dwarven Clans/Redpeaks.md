@@ -1,11 +1,18 @@
 ---
-tags: [organization, status/unknown]
+headerVersion: 2023.11.25
+tags: [organization]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Redpeaks
 typeOf: clan
+ancestry: dwarven
+dm_notes: color
+dm_owner: none
 ---
-(stub)
+# The Redpeaks
+>[!info]+ Information  
+> A [[Dwarves|dwarven]] clan  
+> `$=dv.view("_scripts/view/get_Affiliations")`
 
 %%^Campaign:None%%
 ### Current Members
