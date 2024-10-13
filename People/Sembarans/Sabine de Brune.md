@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update, status/check/tim]
+tags: [person, status/update]
 name: Sabine de Brune
 born: 1662
 species: human
@@ -25,5 +25,3 @@ dm_notes: important
 The de Brune family has long roots in the Enst river valley, and although [[Eskbridge]] is their primary area of operations, there are several outposts along the Enst including a longstanding one in the Cleenseau region. Recently, the family under [[Catherine de Brune]] has grown to include some more diverse mercantile interests in this region.
 
 She was appointed as the castellan by [[Reginald Rusebek]] and still feels disgust and guilt that she was such a loyal supporter of his. She doesn't like to talk about baronial affairs much, and focuses on the village and doing her duties diligently. 
-
-%% Nothing about the de Brune family here is relevant to my game or canon, could use a cross-check against what you've been doing with them in Addermarch game. %%
