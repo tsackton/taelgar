@@ -1,8 +1,8 @@
 # Missing TypeOf
 
-### Places
+### Places (Excluding Tentative)
 ```dataview
-TABLE partOf, placeType from #place and !#status/stub where !typeOf 
+TABLE partOf, placeType from #place and !#status/stub and !"Worldbuilding/Tentative" where !typeOf 
 ```
 
 ### Groups
