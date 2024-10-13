@@ -54,7 +54,7 @@ Tollen sits astride the Voltra river. Most development is on the north side, whi
 The terrain around Tollen is characterized by rocky, gently rolling hills to the north and west, and swampy, marshy lowlands to the south and east. The western part of Tollen stretches into reclaimed marshlands, and is prone to tidal flooding, while the eastern and northern parts are drier. The exception is Haurhill, the area around an old Drankorian fort. 
 
 There are four small tributaries of the [[Volta]] that flow through Tollen:
-1. The Little River, to the west; the largest of the Tollen rivers. In the past few hundred years has been diverted into a canal and dammed. 
+1. The [[Little River]], to the west; the largest of the Tollen rivers. In the past few hundred years has been diverted into a canal and dammed. 
 2. The <> River, flowing from the south, ...
 3. Fat Brook, now covered, flows through Guildgate and [[Gold Street]] before emptying into the Volta. Name is a corruption of Vattenbrok, the original Skaer name meaning tidal waters. 
 4. The <> River, ...
