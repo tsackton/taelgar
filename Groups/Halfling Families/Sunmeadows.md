@@ -1,10 +1,19 @@
 ---
-tags: [organization/family, status/unknown]
+headerVersion: 2023.11.25
+tags: [organization/family]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Sunmeadows
 typeOf: family
+ancestry: halfling
+dm_notes: color
+dm_owner: none
 ---
+# The Sunmeadows
+>[!info]+ Information  
+> A [[Halflings|halfling]] family  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
+%% Jasmine's parents own [[The Green Leaf]] in [[Darba]], but what the rest of the family does, and whether they travel or are largely based in Darba,  is not invented. %%
 
 %%^Campaign:None%%
 ### Members

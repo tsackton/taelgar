@@ -1,7 +1,13 @@
 ---
+headerVersion: 2023.11.25
 tags: [item/material, status/needswork/internal]
 typeOf: material
 ---
+# Adamantine
+>[!info]+ Information  
+> (material)  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
 
 %% 
 From discord:

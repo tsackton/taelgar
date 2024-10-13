@@ -1,4 +1,5 @@
 ---
+headerVersion: 2023.11.25
 tags: [organization, status/needswork/wip, status/check/tim, status/metadata/header]
 displayDefaults: {defArt: ""}
 campaignInfo:
@@ -12,10 +13,15 @@ whereabouts:
 - {type: away, start: 1748-12-19, end: 1748-12-27, location: riding to Songara}
 - {type: away, start: 1748-12-27, location: Songara}
 ---
+# Havdar's Warband
+>[!info]+ Information  
+> A warband army  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
 
 %% fill in whereabouts %%
 %% Tim: set a bunch of status flags; not sure how much info you have about these %%
-# Havdar's Warband
 
 %%SECRET[1]%%
 
