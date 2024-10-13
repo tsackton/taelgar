@@ -1,9 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [status/needswork/wip, person]
 species: human
 dm_notes: color
 dm_owner: mike
 ---
+# Bartholomew Meeke
+>[!info]+ Biographical Info  
+> A [[Humans|human]]
+
 
 %% 
 A tin trader who had left the northern Aveil region before Vitalae, and was spending the quite period in Aslain. 

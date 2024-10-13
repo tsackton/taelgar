@@ -1,7 +1,13 @@
 ---
+headerVersion: 2023.11.25
 tags: [status/metadata/header, organization, status/needswork/external]
 dm_notes: important
 dm_owner: mike
 ---
+# The Order of the Charitable Wanderer
+>[!info]+ Information  
+> An organization  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
 
 %% numerous notes in my DM folder and various campaign emails; plus Robin (Dan's character) has some backstory here %%

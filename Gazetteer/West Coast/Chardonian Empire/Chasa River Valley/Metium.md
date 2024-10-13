@@ -1,12 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place, status/needswork/external]
 name: Metium
 typeOf: city
 whereabouts: Chasa River Valley
 ---
 # Metium
->[!info]+ Summary
-> a city in [[Chasa River Valley|the Chasa River Valley]], [[Chardonian Empire|The Chardonian Empire]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% incorporate notes from OneNote %%
 
