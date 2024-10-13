@@ -11,6 +11,8 @@ whereabouts:
 - {type: home, start: 940, end: 1050, location: unknown} #start +/- 10 years
 - {type: home, start: 1051, end: 1582, location: wandering and hiding}
 - {type: home, start: 1583, location: Xurkhaz}
+dm_notes: important
+dm_owner: tim
 ---
 # The People of the Rainbow
 >[!info]+ Information

@@ -5,6 +5,8 @@ name: Dunmar
 whereabouts: Greater Dunmar
 created: 1173
 typeOf: realm
+dm_notes: color
+dm_owner: tim
 ---
 # Dunmar
 >[!info]+ Information

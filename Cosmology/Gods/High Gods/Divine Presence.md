@@ -10,7 +10,7 @@ displayDefaults: {defArt: "the"}
 
 The Divine Presence, known by many names and many forms across Taelgar, is the manifestation of the divine energy of creation and destruction, the ultimate source of all Divine magic and the creator of the multiverse. The theological truth of the nature of the Divine Presence, whether it is a single entity or more than one, and how it came to be, is much debated. 
 
-All religious traditions on Taelgar agree that the Divine Presence, or Presences, are the supreme Divinties in the multiverse, the over-gods, the source of nearly all else. These beings do not depend on belief for their existence, and are almost always perceived as distant over-gods, who do not grant miracles or meddle in the affairs of the material world, at least not directly. 
+All religious traditions on Taelgar agree that the Divine Presence, or Presences, are the supreme Divinities in the multiverse, the over-gods, the source of nearly all else. These beings do not depend on belief for their existence, and are almost always perceived as distant over-gods, who do not grant miracles or meddle in the affairs of the material world, at least not directly. 
 ## Northern Folk Religions
 
 The [[Northern Folk Religions]] tend to interpret the Divine Presence as a single creator deity, and believe this creator deity is the source of divine magic, and the divinity to which the small gods bring their prayers. 

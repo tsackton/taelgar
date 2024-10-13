@@ -5,6 +5,8 @@ displayDefaults: { defArt: the, ltItem: by}
 name: Bahrâzel
 aliases: [Bahrâzel]
 pronunciation: BAH-rah-zel
+dm_notes: color
+dm_owner: none
 ---
 # The Bahrâzel
 *(BAH-rah-zel)*
