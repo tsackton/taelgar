@@ -34,8 +34,8 @@ The [[Dunmar Fellowship]] returns to [[Tokra]], assists in archiving lore, and p
  - (DR:: 1748-07-06), early afternoon: Leave Saka's camp. [[Kenzo]] gifted scrolls for collecting stories, and [[Saka]] urges him to take his duties as a mystai of Bhishma seriously. Travel south to [[Tokra]]. 
 - (DR:: 1748-07-07): Travel south to [[Tokra]].
 - (DR:: 1748-07-08): Travel south to [[Tokra]].
-- (DR:: 1748-07-08), evening: Arrive in [[Tokra]]. Reunite with [[Riswynn]] at [[Kirian’s]] for dinner. [[Kenzo]] listens to [[Kirian]]'s life [[Kirian's Story|story]].
-- (DR:: 1748-07-09): Speak with Hardstones and with [[Govir]] at the archives. Speak with [[Kaleha]]. Monsoon rains arrive in [[Tokra]]. Move to monastery.
+- (DR:: 1748-07-08), evening: Arrive in [[Tokra]]. Reunite with [[Riswynn]] at [[Kirian's]] for dinner. [[Kenzo]] listens to [[Kirian]]'s life [[Kirian's Story|story]].
+- (DR:: 1748-07-09): Speak with [[Hardstones]] and with [[Govir]] at the archives. Speak with [[Kaleha]]. Monsoon rains arrive in [[Tokra]]. Move to monastery.
 - (DR:: 1748-07-10): [[Day of Renewal]]. Spend the night at the monastery.
 - (DR:: 1748-07-11): Speak with [[Kassi]] about [[Rai]], dead gods, and [[Yezali]]. Rest at monastery.
 - (DR:: 1748-07-12): Rest at monastery.
@@ -47,7 +47,7 @@ The [[Dunmar Fellowship]] returns to [[Tokra]], assists in archiving lore, and p
 ## Narrative
 We begin as the party finishes their conversation with [[Saka]], and prepares to return to [[Tokra]] after sharing a meal with [[Saka]] and her family. As they depart, [[Saka]] pulls [[Kenzo]] aside, reminding him not to neglect his duties as a Mystai of [[Bhishma]]. She gives him 10 scrolls that can be used to collect the stories of the people of [[Dunmar]], to be stored in the [[Hall of Stories]] at some point in the future. 
 
-The next two days are spent in uneventful travel south back to [[Tokra]], in the hot, dry, weather, arriving the evening of July 8th, and returning to [[Kirian’s]], where they had been staying. Here, they are given messages from [[Govir]] at the [[Archives]], from [[Fallthra Hardstone]], from [[Kassi]] at the [[Lakan Monastery]], from [[Kaleha]], and from [[Riswynn]]. After meeting up with [[Riswynn]] again, the party returns to [[Kirian’s]] for dinner, as clouds form in the sky for the first time in months. After some discussion of what to do with the captured werewolf, [[Kenzo]] listens to [[Kirian]]’s [[Kirian's Story|story]].
+The next two days are spent in uneventful travel south back to [[Tokra]], in the hot, dry, weather, arriving the evening of July 8th, and returning to [[Kirian's]], where they had been staying. Here, they are given messages from [[Govir]] at the [[Archives]], from [[Fallthra Hardstone]], from [[Kassi]] at the [[Lakan Monastery]], from [[Kaleha]], and from [[Riswynn]]. After meeting up with [[Riswynn]] again, the party returns to [[Kirian's]] for dinner, as clouds form in the sky for the first time in months. After some discussion of what to do with the captured werewolf, [[Kenzo]] listens to [[Kirian]]’s [[Kirian's Story|story]].
 
 The next day, the party takes care of errands around [[Tokra]]. First, a quick stop at [[The Red Lily Inn]] to check on [[Garret Tealeaf]] and [[Ander Charmheart]] and his family, and then to the [[Archives]]. In the [[Archives]], there are papers and notes spread all over the place, seemingly [[Govir]]’s recent work. The party heads downstairs to the Hardstone’s quarters, where they speak with [[Fallthra Hardstone]]. She has been worried about [[Dag Hardstone]]’s dreams – of a dark woods, in twilight, the sounds of a hunt in the distance. But [[Delwath]] assures her the dreams are safe, the echoes of the god that cured him from lycanthropy. 
 

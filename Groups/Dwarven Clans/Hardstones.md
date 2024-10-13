@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Hardstones
 typeOf: clan
 ancestry: dwarven
@@ -12,7 +11,7 @@ ancestry: dwarven
 > A [[Dwarves|dwarven]] clan  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% Tim: do you have info about them in your head, or does this just need a sentence like: A prominent dwarven clan in Tokra. to be complete?%%
+The Hardstones are a prominent dwarven clan in Tokra, primarily known for their long-standing association with the [[Archives|Tokra Archives]]. The clan has traditionally worked at the archives, primarily as architects and generally managing the physical infrastructure of the building, settling in [[Tokra]] in the years after the [[Fire War]]. But they are also known, at times, to work some minor runic magic to protect scrolls and mend damage.
 
 %%^Campaign:None%%
 ### Current Members

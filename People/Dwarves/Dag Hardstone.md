@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
-campaignInfo: []
+tags: [person]
+campaignInfo: 
+- {campaign: dufr, person: Delwath, date: 1748-07-01, type: "Cured of lycanthropy"}
 name: Dag Hardstone
 born: 1729
 species: dwarf
@@ -10,16 +11,19 @@ gender: male
 family: Hardstone
 whereabouts: Tokra
 affiliations: [{type: primary, org: Hardstones}]
+dm_notes: color
+dm_owner: none
 ---
 # Dag Hardstone
 >[!info]+ Biographical Info  
 > A [[Dwarves|dwarf]] (he/him), of the [[Hardstones]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% Cured of lycanthropy by [[Delwath]] on July 1st, 1748 in [[Tokra]], [[Dunmar]] %%^End%%
 
-One of the Hardstone dwarves, who help maintain the [[Tokra]] [[Archives]]. Dag was caught by werewolves when the [[Archives]] were raided, and wounded, becoming cursed by lycanthropy. 
+Dag is the youngest member of the Hardstone clan, an extended family of dwarves that have lived at and worked for the [[Tokra]] [[Archives]] for generations, helping to maintain the building. 
 
-Cured by [[Delwath]], via the blessing of [[Yezali]]. 
-
-%% Status note: Seems potentially complete, setting status tim to confirm %%
+%%^Campaign:dufr%%
+In the summer of 1748 DR, Dag was caught by werewolves when the [[Archives]] were raided, and wounded, becoming cursed by lycanthropy. After he was subdued by the [[Dunmar Fellowship]], he was cured by [[Delwath]], with the blessing of [[Yezali]]. 
+%%^End%%

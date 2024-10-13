@@ -29,9 +29,9 @@ The [[Dunmar Fellowship]] researches mystical lore, delves into puzzling local a
 
 ### Timeline
 - (DR:: 1748-07-01), midday: Speak with [[Basu]], agree to exchange magical energy from ruins for a [[Portable Hole]]. Speak with [[Kassi]], ask for informaiton. 
-- (DR:: 1748-07-01), noon: Leave monastery and get rooms at [[Kirian’s]]
+- (DR:: 1748-07-01), noon: Leave monastery and get rooms at [[Kirian's]]
 - (DR:: 1748-07-01), afternoon: Speak with [[Kaleha]], revealing [[Sura]]'s story. Speak with [[Ardan]] at the [[Archives]], and learn more about recent events; [[Govir]], the missing archivist; and [[Hada]], the head scribe. Find clues in the form of records of Govir's research.
-- (DR:: 1748-07-01), early evening: Have dinner  at [[Kirian’s]]
+- (DR:: 1748-07-01), early evening: Have dinner  at [[Kirian's]]
 
 
 ## Narrative
@@ -39,7 +39,7 @@ The session starts as the party emerges from the [[Elven Arborea Workshop|Elven 
 
 After speaking with [[Basu]], the party heads to the library where they meet [[Kassi]]. She has a map for them, now a bit late to be useful in their mission, but still of interest as the Elven runes decorating the pillars in the entrance hall are translated here. After some discussion of the [[Elves|elves]], the conversation turns to questions. [[Kenzo]] asks about stories of [[Rai]], and while [[Kassi]] knows of him she must search for more information that may be useful. [[Seeker]] asks about [[Pandemonium]], and where the weak spot to that plane may be (“nearby, but not here,” [[Kassi]] says). [[Delwath]] asks of gods who have lost their followers, and again [[Kassi]] will look into it, although the name [[Divine Presence|Anida]], the First and the Last, is familiar to her, as the name among people of the north before [[Drankor]] for the creator gods referred to as [[Divine Presence|Shurat]] and [[Divine Presence|Sampa]] by the [[Dunmar]], and [[Divine Presence|Arha]] and [[Divine Presence|Malik]] by the Drankorians. Finally, [[Wellby]] asks for maps. After some more conversation, the party departs for lunch and discussion, leaving [[Kassi]] to her tasks.
 
-After lunch the party leaves for [[Tokra]], taking rooms at [[Kirian’s]], a major inn near the market square that is popular with merchants and traders. Here, the party converses briefly with [[Kirian]], learning that a Chardonian [[Servius]] was here some time ago; he was studying in the [[Archives]], and left a month or two ago for [[Darba]], on the coast. [[Kirian]] also knew of [[Vola]], who stayed for a bit at his inn. After discussion in their rooms, the party then leaves to speak with the head priestess and civil administrator of [[Tokra]], [[Kaleha]]. 
+After lunch the party leaves for [[Tokra]], taking rooms at [[Kirian's]], a major inn near the market square that is popular with merchants and traders. Here, the party converses briefly with [[Kirian]], learning that a Chardonian [[Servius]] was here some time ago; he was studying in the [[Archives]], and left a month or two ago for [[Darba]], on the coast. [[Kirian]] also knew of [[Vola]], who stayed for a bit at his inn. After discussion in their rooms, the party then leaves to speak with the head priestess and civil administrator of [[Tokra]], [[Kaleha]]. 
 
 After introductions, the party learns from [[Kaleha]] that [[Saka]], the old master of the [[Order of the Awakened Soul|Bhishma Mystai]] who refused to travel east, travels with her family in the plans to the north of [[Tokra]], herding horses. She is probably no more than a few days' journey from the city. While talking to [[Kaleha]], they also discuss the situation at the [[Archives]], and the generally less than ideal situation in [[Tokra]], where food is scarce and a sickness among the horses some weeks ago trapped many refugees in town who might have otherwise left to return to the plains. Finally, [[Wellby]] and [[Kenzo]] reveal that Nayan [[Sura]] has returned; [[Kaleha]] is initially suspicious, but perhaps swayed by [[Wellby]]’s exhortation to take the time to pray before deciding any course of action. 
 
@@ -51,4 +51,4 @@ According to [[Ardan]], [[Govir]] kept to himself, mostly spending time with the
 
 While discussing with [[Ardan]] further, the topic of conversation turns to [[Jinnik]] and the [[Mad One]]. [[Ardan]] reports a rumor (which [[Seeker]] also has remembered), that somehow [[Jinnik]] is connected to the curse of lycanthropy. [[Seeker]], who is widely read, recalls that curing lycanthropy is not an easy proposition: you need powerful magic (the remove curse spell), plus a token of the person’s past life before they were cursed, something to pull them back. Or, you can substitute the blessing of a god for one of those two things. 
 
-We end with the party having finished dinner and discussion back at [[Kirian’s]], returning to the [[Archives]] as the sun sets and the full moon rises, but still undecided on the exact course of action to take. 
+We end with the party having finished dinner and discussion back at [[Kirian's]], returning to the [[Archives]] as the sun sets and the full moon rises, but still undecided on the exact course of action to take. 
