@@ -45,7 +45,7 @@ Over the next two days, [[Seeker]] and [[Riswynn]] work to construct the adamant
 
 On the third day, November 27th, [[Riswynn]] and [[Seeker]] construct considerable quantities of gold and silver thread with [[Riswynn]]'s magic, to shape and forge the final piece of the control apparatus for [[Vindristjarna]]. [[Wellby]], however, sees a rider on the horizon, and heads to scout, finding [[Alesh]] riding towards the former site of the [[Stormcaller Tower]].
 
-![[alesh-portrait.png]]
+![[alesh-portrait.jpg]]
 
 From [[Alesh]], the party gets news about [[Dunmar]]. She is riding from [[Karawa]] to [[Sura]]'s camp, and stopped to investigate the weird lack of a storm near [[Stormcaller Tower]], called the Tower of the Wild Wind by the Dunmari. Among bits of personal gossip and historical trivia, the party learns that a band of [[Orcs]] (the [[Dustthorn Horde]], the remnants of [[Agata]]'s allies) attacked the border near [[Karawa]], desperate for food. Several were captured and told their interrogators that [[Agata]] was behind Karnas' ascension to the throne, and he was working for her. 
 

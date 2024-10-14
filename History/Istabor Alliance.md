@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/needswork/shared, historical]
 name: Istabor Alliance
+typeOf: realm
 ---
 # The Istabor Alliance
 

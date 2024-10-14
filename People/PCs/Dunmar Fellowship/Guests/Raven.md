@@ -4,7 +4,7 @@ tags: [person, pc/guest]
 campaignInfo: []
 name: Raven
 born:
-species: fae
+species: fey
 ancestry:
 gender: enby
 player: Isaac Sackton

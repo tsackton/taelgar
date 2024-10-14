@@ -60,8 +60,6 @@ Garden: Garden
 Kenzo's Wall of Stories: Trophy Room
 Workshop: Workshop
 
-Rules are [[Bastion Rules|here]].
-
 *You can have up to 25 special facilities, although you are a tiny bit constrained by space. The upper deck and lower deck are each 12,000 square feet (480 squares); the hold is 9,800 square feet (392 squares). I would assume that maybe 90% of that is usable for the bastion rules, so a total of maybe 1200 usable squares.*
 
 ### Followers and Traveling Companions

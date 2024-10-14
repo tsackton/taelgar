@@ -23,12 +23,12 @@ The [[Dunmar Fellowship]] forms new alliances and gathers crucial information as
 ***23 days until Apollyon's escape***
 ## Session Info
 ### Summary
-- The [[Dunmar Fellowship]], now in [[Nevium]], discreetly escapes the city using a [[Folding Boat]] and sails to the [[Apporia|Apporian Peninsula]].
+- The [[Dunmar Fellowship]], now in [[Nevium]], discreetly escapes the city using a folding boat and sails to the [[Apporia|Apporian Peninsula]].
 - [[Delwath]] disguises himself and gathers intel in the village of [[Artevus]], leading the party to form an alliance with Captain [[Pippa Goodbarrow]] and navigator [[Martino]].
 - The party sails to [[Castrella]], where they gather information about [[Merfolk]] artifacts and potential magical aids for underwater breathing.
 - At the local tavern, [[The Drunken Dolphin]], the party hears the [[Ballad of the Jade Garden]], which provides hints for their quest.
 ### Timeline
-- (DR:: 1749-05-05), morning: Sneak out of [[Nevium]], in the province of [[Portalia]] on the [[Folding Boat]], and sail northwest across the [[Gulf of Chardon]]
+- (DR:: 1749-05-05), morning: Sneak out of [[Nevium]], in the province of [[Portalia]] on their folding boat, and sail northwest across the [[Gulf of Chardon]]
 - (DR:: 1749-05-05), evening: Sight land along the coast of the province of [[Cedrano]]; anchor in a small cove for the night. 
 - (DR:: 1749-05-06), morning: Explore the town of [[Artevus]]. Recruit [[Martino]], a retired fisherman, as a guide. Hire passage on [[Summer's Breeze]], a halfling ship captained by [[Pippa Goodbarrow]]. 
 - (DR:: 1749-05-06), afternoon: Sail north along the coast, with good winds. Convince halflings to sail into the night.
@@ -46,11 +46,11 @@ The party heard three songs about merfolk:
 
 
 ## Narrative
-We begin on the morning of May 5th, 1749, in the vibrant city of [[Nevium]], situated in the Chardonian province of [[Portalia]], after [[Seeker]]'s succesful teleportation spell transported the party from the cold northern land of [[Ursk]] to the balmy shores of the [[Gulf of Chardon]]. Aware of their notoriety and wanted status within the [[Chardonian Empire]], the [[Dunmar Fellowship]] quickly oriented themselves to their surroundings, strategizing their next move in relative secrecy.
+We begin on the morning of May 5th, 1749, in the vibrant city of [[Nevium]], situated in the Chardonian province of [[Portalia]], after [[Seeker]]'s successful teleportation spell transported the party from the cold northern land of [[Ursk]] to the balmy shores of the [[Gulf of Chardon]]. Aware of their notoriety and wanted status within the [[Chardonian Empire]], the [[Dunmar Fellowship]] quickly oriented themselves to their surroundings, strategizing their next move in relative secrecy.
 
 ![[nevium-1.jpg]]
 
-Aiming for a discrete and quick escape from the city of [[Nevium]], the party unfolds their [[Folding Boat]], and, [[Wellby]] skillfully maneuvered the vessel out of [[Nevium]], evading detection by naval patrols, setting a course northwest across the vast [[Gulf of Chardon]]. The journey by sea was marked by strategic conversations, as the he party sailed throughout the day, navigating the challenges of open water travel, until they sighted the remote shores of the [[Apporia|Apporian Peninsula]] by evening. Opting for caution, they anchored in a secluded cove to rest and plan their approach to the local settlements.
+Aiming for a discrete and quick escape from the city of [[Nevium]], the party unfolds their folding boat, and, [[Wellby]] skillfully maneuvered the vessel out of [[Nevium]], evading detection by naval patrols, setting a course northwest across the vast [[Gulf of Chardon]]. The journey by sea was marked by strategic conversations, as the he party sailed throughout the day, navigating the challenges of open water travel, until they sighted the remote shores of the [[Apporia|Apporian Peninsula]] by evening. Opting for caution, they anchored in a secluded cove to rest and plan their approach to the local settlements.
 
 ![[coast-v1.jpg]]
 

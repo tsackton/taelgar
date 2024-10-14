@@ -5,6 +5,7 @@ displayDefaults: {defArt: ''}
 name: Azta Lekua
 whereabouts: Orekatu
 aliases: [Footprint of the Gods]
+typeOf: place
 ---
 # Azta Lekua
 >[!info]+ Information  

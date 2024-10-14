@@ -5,7 +5,7 @@ aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
 ---
 # Dwarf
 
-This page contains lore information about dwarves. For details on character creation and playing a dwarf, see [[Campaigns/Mechanics/Species (Old)/Playing a Dwarf]].
+This page contains lore information about dwarves. For details on character creation and playing a dwarf, see [[Playing a Dwarf]].
 
 ![[dwarven-hall-of-gems.png]]
 
