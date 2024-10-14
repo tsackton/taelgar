@@ -16,27 +16,27 @@ descTitle: Cockatrice Hunt
 > *On Earth: Friday Sep 20, 2024*
 > *[[Roscombe]] and nearby [[Carlinshire]]*
 
-The party hunts and kills a cockatrice, deals with a water nymph, and returns stolen treasure to Elowen Duval.
+The party hunts and kills a cockatrice, deals with a water nymph, and returns stolen treasure to [[Elowen Duval]].
 ## Session Info
 ### Summary
-- The party receives letters from Owen Tavish and Elowen Duval while resting in Roscombe.
-- Caradoc arrives and assigns a mission to kill a cockatrice and retrieve its gizzard.
-- The party departs Roscombe, navigates through the forest, and explores a cave, encountering and defeating a shadow and a skeleton.
+- The party receives letters from [[Owen Tavish]] and [[Elowen Duval]] while resting in [[Roscombe]].
+- [[Caradoc]] arrives and assigns a mission to kill a cockatrice and retrieve its gizzard.
+- The party departs [[Roscombe]], navigates through the forest, and explores a cave, encountering and defeating a shadow and a skeleton.
 - They find the cockatrice lair, fight and kill the cockatrice, and collect eggs and treasure.
 - A water nymph confronts them about corruption and the party calms her by freezing algae and destroying a fey gate.
-- Returning to Roscombe, they deliver the gizzard to Caradoc and the stolen treasure to Elowen Duval, receiving a bounty.
+- Returning to [[Roscombe]], they deliver the gizzard to [[Caradoc]] and the stolen treasure to [[Elowen Duval]], receiving a bounty.
 ## Timeline
-- Day 8: The party rests in Roscombe, receives two letters, and agrees to a mission from Caradoc to hunt a cockatrice.
+- Day 8: The party rests in [[Roscombe]], receives two letters, and agrees to a mission from [[Caradoc]] to hunt a cockatrice.
 - Day 9: The party travels to the cockatrice lair, battles it, and discovers a non-functioning fey gate. They encounter a naiad who insists they purify corrupted water, leading to the discovery of treasure.
-- Day 10: The party delivers the cockatrice gizzard to Caradoc and returns stolen treasure to Elowen Duval, receiving a bounty.
+- Day 10: The party delivers the cockatrice gizzard to [[Caradoc]] and returns stolen treasure to [[Elowen Duval]], receiving a bounty.
 ## Narrative
-### Day 8
-We begin in the morning at the Traveler's Rest in Roscombe. As [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] eat breakfast, they receive two letters. [[Letter from Owen Tavish|One]] is from [[Owen Tavish]], the priest of [[The Sibyl]]; the [[Letter from Elowen Duval|other]], sealed with green wax, imprinted with the Duval seal, showing a stylized valley between two mountains with an oak tree in the middle, is from [[Elowen Duval]].
+### Day 8 (Sunday)
+We begin in the morning at [[The Traveler's Rest]] in [[Roscombe]]. As [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] eat breakfast, they receive two letters. [[Letter from Owen Tavish|One]] is from [[Owen Tavish]], the priest of [[The Sibyl]]; the [[Letter from Elowen Duval|other]], sealed with green wax, imprinted with the Duval seal, showing a stylized valley between two mountains with an oak tree in the middle, is from [[Elowen Duval]].
 
 During the day, the party rests and relaxes. Sunday is a market day, and [[Fazoth de Brune|Fazoth]] goes to the market to find a buyer for the ancient coins he found in [[Torvaine Watch]]. Otherwise, the day passes quietly until the evening, when [[Caradoc]] arrives to meet the party. 
 
 [[Caradoc]] proposes a simple mission as test of the party's skills: travel to a nearby area where a cockatrice is thought to lair, kill it, and bring back a cockatrice gizzard, which is a valuable ingredient in several potion recipes.  
-### Day 9
+### Day 9 (Monday)
 [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] depart [[Roscombe]] in the morning, heading west through open fields and pastures, towards the hills. Reaching a rocky outcropping indicated as a landmark by [[Caradoc]], the party navigates easily through the forest, guided by [[Drou]], and sees both the cockatrice cave and a [[Kilrath Standing Stones|stone circle]] in the dell below. Faint voices can be heard echoing from the stone circle, and warnings written in an ancient tongue, but the party moves quickly past into the cave. 
 
 Soon, the party finds a statue of a dwarf with its arms broken off, a rotted pouch at its feet hinting at the possessions of a treasure hunter, including a [[Dwarf Map from Cockatrice Cave.jpg|strange map]]. Exploring the passages that lead from this chamber, they encounter a dead end first, where a shadow attempts to ambush them, thwarted by perceptive [[Yvan Greenrabbit|Yvan]], who notices the shadow moving. As the skeleton on the ground rises up to attack, [[Fazoth de Brune|Fazoth]] taunts it with Vicious Mockery, causing it to miss, while [[Yvan Greenrabbit|Yvan]] destroys the shadow with a burst of fire. 
@@ -46,13 +46,12 @@ Continuing to explore the cave, the party finds the main cavern of the cockatric
 
 Sorting through the treasure recovered from the bottom of the naiad's pool, the party fines some jewelry clearly belonging to [[Elowen Duval]], or at least her family; and a golden holy symbol of [[The Sibyl]] of a strange design. After speaking briefly with the naiad about fey, the party returns to the cockatrice lair and destroys the fey gate by melting the crystal keeping it from fully closing with acid from [[Yvan Greenrabbit|Yvan]]'s sorcerous burst. 
 
-%% Fazoth conversation with the naiad
-Fazoth also speaks to the naiad about the fey, learning that the Gloomshaper drove her here, and that he lurks in the Darkwood to the south. In the feywild, the Darkwood is known as Duskmire, and is a nasty, terrible place. 
+%% [[Fazoth de Brune|Fazoth]] conversation with the naiad
+[[Fazoth de Brune|Fazoth]] also speaks to the naiad about the fey, learning that the [[Lord Umbraeth|Gloomshaper]] drove her here, and that he lurks in the [[Darkwood]] to the south. In the feywild, the [[Darkwood]] is known as Duskmire, and is a nasty, terrible place. 
 %%
 
-After having brought everything outside, the party departs for Roscombe, spending the night on the road. 
+After having brought everything outside, the party departs for [[Roscombe]], spending the night on the road. 
 
-### Day 10
-The party detours to [[Brantor]], to give the cockatrice gizzard to [[Caradoc]], and then returns to [[Roscombe]], where they give [[Elowen Duval]] back the treasure they found, learning it was stolen by a bandit two years ago. Lady Duval pays them the still-outstanding bounty for the capture or death of the bandit, and wishes them luck. 
-We end that evening, back at the Traveler's Rest. 
+### Day 10 (Tuesday)
+The party detours to [[Brantor]], to give the cockatrice gizzard to [[Caradoc]], and then returns to [[Roscombe]], where they give [[Elowen Duval]] back the treasure they found, learning it was stolen by a bandit two years ago. Lady Duval pays them the still-outstanding bounty for the capture or death of the bandit, and wishes them luck. We end that evening, back at the Traveler's Rest. 
 
