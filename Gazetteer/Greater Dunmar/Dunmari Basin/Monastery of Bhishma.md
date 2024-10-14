@@ -1,19 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 typeOf: holy site
 typeOfAlias: monastery
 subTypeOf: 
 affiliations: [{org: Bhishma, type: primary }]
 ancestry: Dunmari
 whereabouts: Garamjala Desert
+dm_notes: important
+dm_owner: tim
 ---
 # The Monastery of Bhishma
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% Tim: was notes but the page looks pretty good; switching to status/tim for your review %%
 ## Overview
 The Monastery of [[Bhishma]] is a large complex dedicated to the Dunmari goddess [[Bhishma]], consisting of a temple, dormitories and associated buildings, and the [[Hall of Stories]], an archive of the stories and lives of the Dunmari people. 
 
