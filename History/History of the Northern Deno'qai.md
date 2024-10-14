@@ -15,7 +15,7 @@ After [[Cha'mutte]] established himself in Pandar, the [[K'eye]] river became th
 
 In DR 1536, [[Cha'mutte]] launched his assault. Keeping dragons in reserve, an army of hobgoblins quickly established control over the approximately 200 miles of forest between the [[K'eye]] and [[Pandar]], clearing the forests and using the timber for massive war machines.
 
-Six years later, in DR 1541, the first campaign of the [[Great War]] was launched across the [[K'eye]]. The Deno'qai fought a hopeless rearguard action, trying to keep the enemies at bay for as long as possible, with some minor successes until [[Cha'mutte]] begins calling in extraplanar forces, hobgoblin mages who can control the magic of the [[Shadowfell]], and great demons from the [[Abyss]] and from [[Pandemonium]].
+Six years later, in DR 1541, the first campaign of the [[Great War]] was launched across the [[K'eye]]. The Deno'qai fought a hopeless rearguard action, trying to keep the enemies at bay for as long as possible, with some minor successes until [[Cha'mutte]] begins calling in extraplanar forces, hobgoblin mages who can control the magic of the [[Shadowfolds]], and great demons from the [[Abyss]] and from [[Pandemonium]].
 
 By the bitter winter of 1541-1542, the Deno'qai were nearly wiped out, despite the heroics of warriors like [[Balati]]. Those who survive -- largely members of the [[Shu'anra]] and [[Ko'zula]] tribes -- flee into the mountains, abandoning the [[Forest of Dreams]] below to the chaos [[Cha'mutte]] brings.
 

@@ -12,7 +12,7 @@ typeOf: cult
 
 The Fraternity of the Empty Moon is a cult of werewolves, dedicated to the mission of enhancing the power of the [[Mad One]] in Taelgar by creating and enhancing connections with the plane of [[Pandemonium]].
 
-The Fraternity of the Empty Moon is primarily active in [[Central Dunmar]], [[Eastern Dunmar]], and the [[Nashtkar]], with a particular interest in [[Tokra]], which is close to an [[extraplanar weak point]] linked to [[Pandemonium]]. 
+The Fraternity of the Empty Moon is primarily active in [[Central Dunmar]], [[Eastern Dunmar]], and the [[Nashtkar]], with a particular interest in [[Tokra]], which is close to an [[Extraplanar Weak Point]] linked to [[Pandemonium]]. 
 
 As of DR 1748, the cult is thought to be destroyed. 
 ## Chronology

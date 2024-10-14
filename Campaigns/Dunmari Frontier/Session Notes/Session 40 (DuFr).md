@@ -24,7 +24,7 @@ The [[Dunmar Fellowship]] learns of [[Awakened Soul Disaster|past tragedies]] an
 ### Summary
 - The [[Dunmar Fellowship]] departs Tokra, traveling north uneventfully by the [[Hara]] river, hoping to find [[Saka]], a master of the [[Order of the Awakened Soul]]
 - [[Kenzo]] experiences recurring dreams of an underground forge, offering a sense of protection.
-- [[Saka]] reveals the history of [[Rai]], the [[seeds of chaos]] that rose with [[Cha'mutte]]'s death, and the Mystai's failed attempt to eradicate them.
+- [[Saka]] reveals the history of [[Rai]], the [[Seeds of Chaos]] that rose with [[Cha'mutte]]'s death, and the Mystai's failed attempt to eradicate them.
 - [[Saka]] advises the party to focus on how they can help people now, and not pursue dangerous heroics to reshape the world without more knowledge.
 
 ### Timeline

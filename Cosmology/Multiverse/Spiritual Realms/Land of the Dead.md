@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/metadata/header]
-displayDefaults: {wHome: "One of <current>"}
+tags: [place,]
+displayDefaults: {wHome: "Claimed by scholars to be one of <current>"}
 name: Land of the Dead
 aliases: [River of Souls]
 whereabouts: Spiritual Realms
@@ -15,8 +15,6 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%tagged dm notes important because I (Tim) have some vague ideas about the metaphysics of how the land of the dead / river of souls limits and affects divine power in the world, but nothing well formed enough to tag as a status tag; this is also probably irrelevant for most games. Also have some color notes about the River of Souls and how it appears to the dead, although this will vary by  person and culture so there does not need to be a canonical description.%%
-
-%% tagged metadata/header as not clear it should really be one of the Spiritual Realms, technically. %%
 
 The vast gathering place for the souls of the dead. When a consciousness, or soul, dies, it fades from the [[Plane of Souls]], but does not immediately disappear into nothingness. 
 

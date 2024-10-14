@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-whereabouts: Spiritual Realms
+whereabouts: Echo Realms
 typeOf: plane
 dm_notes: none
 dm_owner: tim
@@ -11,5 +11,4 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A rumored spiritual realm of nightmares and darkness.
-
+A rumored echo realm of nightmares and darkness.

@@ -18,11 +18,11 @@ descTitle: Chalice of Redemption
 > *On Earth: Monday Sep 12, 2022*
 > *[[Heart of the Mountain]] and [[Morkalan]]*
 
-[[Riswynn]] meets three other [[dwarves]] in the [[Heart of the Mountain]], all indebted to the [[Bahrazel]], and they embark on a quest to redeem an evil dwarf in the [[Shadowfell]] realm of Morkalan. 
+[[Riswynn]] meets three other [[dwarves]] in the [[Heart of the Mountain]], all indebted to the [[Bahrazel]], and they embark on a quest to redeem an evil dwarf in the [[Shadowfolds]] realm of Morkalan. 
 ## Session Info
 ### Summary
 - [[Riswynn]], [[Thror]], [[Merash]], and [[Rothfis]] are summoned to the [[Heart of the Mountain]] by the [[Bahrazel]].
-- They are tasked by the [[Bahrazel]] to travel to the [[Shadowfell]] domain of [[Morkalan]] to confront the dwarf [[Hagrim]].
+- They are tasked by the [[Bahrazel]] to travel to the [[Shadowfolds]] domain of [[Morkalan]] to confront the dwarf [[Hagrim]].
 - Visions reveal the history of the [[Chalice of the Runepriest]], once a beacon of hope, later lost after a deadly conflict.
 - In [[Morkalan]], the party finds [[Bleakhold]], a village under the constant scrutiny of [[Morkalan]], and learns of a missing boy, [[Tak]].
 - They rescue [[Tak]] from undead dwarves and are led to the ghost of [[Nora Silverspark]].
@@ -35,7 +35,7 @@ descTitle: Chalice of Redemption
 ## Narrative
 We begin in a vast cavern with a still pool in the center, a place in [[Heart of the Mountain]], the realm of the [[Bahrazel]], the dwarven gods. [[Riswynn]], [[Rothfis]], [[Merash]], and [[Thror]] find themselves transported here. In [[Riswynn]]'s case, by the [[Chalice of the Runepriest]]; in everyone else's, by divine magic, and not necessarily by choice. 
 
-As the sound of hammers banging against anvils and the smell of iron permeates the chamber, the party feels they are in the presence of the gods. All, but [[Riswynn]], owing a debt, which the [[Bahrazel]] now claim, a physical token of this debt appearing out of the water in the pool. To redeem their debts to the [[Bahrazel]], the party is to travel to the [[Shadowfell]] domain of [[Morkalan]], where they will find the dwarf [[Hagrim]], whose evil deeds created the place, and either send him to damnation or atonement with the power of the [[Chalice of the Runepriest]]. 
+As the sound of hammers banging against anvils and the smell of iron permeates the chamber, the party feels they are in the presence of the gods. All, but [[Riswynn]], owing a debt, which the [[Bahrazel]] now claim, a physical token of this debt appearing out of the water in the pool. To redeem their debts to the [[Bahrazel]], the party is to travel to the [[Shadowfolds]] domain of [[Morkalan]], where they will find the dwarf [[Hagrim]], whose evil deeds created the place, and either send him to damnation or atonement with the power of the [[Chalice of the Runepriest]]. 
 
 As the party rests before preparing to depart, they see scenes of the history of the Chalice of the Runepriest:
 

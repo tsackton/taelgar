@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/wip]
-whereabouts: Spiritual Realms
+whereabouts: 
+- {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
 typeOf: plane
 aliases: [Plane of Consciousness]
 ---

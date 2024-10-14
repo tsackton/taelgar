@@ -28,11 +28,11 @@ The Dunmar Fellowship collects extraplanar energy from a connection to [[Arborea
 - [[Basu]], the monastery's artisan, shares concerns about unchecked energy from an [[Elven Arborea Workshop|elven ruin]] below the monastery.
 - Dinner with monks reveals issues with food scarcity and the monks' preoccupation with omens; [[Johar]] discusses the [[Archives|Tokra Archives]].
 - The party descends to the ruined [[Elven Arborea Workshop]], faces hazardous molds, oozes, and memory-stealing fungi.
-- [[Seeker]] turns a giant velvet worm guarding the [[extraplanar weak point]] into an earthworm, allowing the collection of extraplanar energy.
+- [[Seeker]] turns a giant velvet worm guarding the [[Extraplanar Weak Point]] into an earthworm, allowing the collection of extraplanar energy.
 
 ### Timeline
 - (DR:: 1748-06-30), evening: Speak with [[Rishi]] at the[[ Lakan Monastery]]. Meet [[Basu]] at dinner, who gripes about the overflowing energy of Arborea in the elven ruins below the Lakan monastery. Meet [[Kassi]], the head librarian at the monastery. Dinner discuss events in [[Tokra]] with [[Johar]], Kenzo's old friend. Spend the night at the monastery. 
-- (DR:: 1748-07-01), morning: Enter [[Elven Arborea Workshop|ancient elven ruins]]. Defeat slimes and oozes and confront massive velvet worm near the [[extraplanar weak point]], which is tamed by Seeker's magic. Return to surface with three vials filled with the essence of [[Arborea]]'s extraplanar energy.
+- (DR:: 1748-07-01), morning: Enter [[Elven Arborea Workshop|ancient elven ruins]]. Defeat slimes and oozes and confront massive velvet worm near the [[Extraplanar Weak Point]], which is tamed by Seeker's magic. Return to surface with three vials filled with the essence of [[Arborea]]'s extraplanar energy.
 
 
 ## Narrative
