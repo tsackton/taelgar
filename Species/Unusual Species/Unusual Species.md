@@ -6,7 +6,7 @@ tags: [background, status/unknown]
 
 Not every sentient species in Taelgar has a simple origin story. 
 
-In ages past, cracks in the fabric of reality allowed alien creatures from the Far Realm to slip into the world, with unfathomable goals and strange minds. The most famous of these [[Creatures of the Far Realms]] are the [[Ithilids]], the mind flayers, who live deep underground and occasionally emerge to threaten the surface dwellers, always in search of brains to consume and sentient beings to enslave. 
+In ages past, cracks in the fabric of reality allowed alien creatures from the Far Realm to slip into the world, with unfathomable goals and strange minds. The most famous of these Creatures of the Far Realms are the [[Ithilids]], the mind flayers, who live deep underground and occasionally emerge to threaten the surface dwellers, always in search of brains to consume and sentient beings to enslave. 
 
 Around the shores of the [[Green Sea]], occasional rumors can be heard of [[Gnomes]], the surface-dwelling cousins of dwarves, tinkerers and traders, though few will confirm to having seen one in person. 
 

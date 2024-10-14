@@ -22,7 +22,7 @@ name: Dunmari Frontier - Session 21
 The Dunmar Fellowship interrogates an [[Gorkil|orc cleric]], attends a funeral for fallen warriors, and begins a covert journey to the [[Monastery of Bhishma]].
 ## Session Info
 
-***Kenzo and Wellby receive gifts from Havdar, the[[Ring of Jumping]] and the [[Flaming Bowstring]].*** 
+***Kenzo and Wellby receive gifts from Havdar, the Ring of Jumping and the [[Flaming Bowstring]].*** 
 ### Summary
 - The [[Dunmar Fellowship]] interrogates [[Gorkil]], an orc cleric, learning of [[Grash]], the Blighted One, and tensions with another [[People of the Rainbow|orc group]] of peaceful farmers.
 - During the interrogation, [[Gorkil]] compels [[Seeker]] to kill him, ending the questioning abruptly.

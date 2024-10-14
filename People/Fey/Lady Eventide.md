@@ -24,6 +24,6 @@ Lady Eventide was once a respected member of the [[Cloudspinner]]'s court. Now, 
 Lady Eventide is often seen in ornate courtly gowns adorned with jewelry. However, much like her surroundings, her attire predominantly comprises muted gray and white shades, giving an impression that its colors have been sapped away.
 ## Events
 
-- In DR 1748, Lady Eventide met [[Seeker]], trading the color from a streak of [[Seeker]]'s hair for a magical [[Sunset Thread|thread]] from her gown, which was crafted by the renowned [[Cloudspinner]], famed for her talent in weaving threads infused with the enchanting colors of the sunset.
+- In DR 1748, Lady Eventide met [[Seeker]], trading the color from a streak of [[Seeker]]'s hair for a magical Sunset Thread from her gown, which was crafted by the renowned [[Cloudspinner]], famed for her talent in weaving threads infused with the enchanting colors of the sunset.
 
 %%SECRET[1]%%

@@ -47,6 +47,6 @@ In the ruins of the outbuildings of [[Raven's Hold]], [[Wellby]] and [[Riswynn]]
 
 The building to the west, against the outer walls, is more intact, and retains signs of former hobgoblin occupation. The second floor has a large open mess hall, probably used as a training and council room by [[Hobgoblins|hobgoblins]]. In this room, a number of crates are piled up, seemingly full of weapons and armor. On the lower floor, a number of empty storerooms are found, along with one room with a chain and lock blocking entry.
 
-The leader of the gnolls, dead in the outer courtyard, is carrying a few items of note. First, his [[Spear of the War Leader|spear]], while filthy and covered in blood, seems to be well made and of Dunmari origin, as beneath the grime the running horse design can be seen. Also, around his neck is a chain with a [[Vial of Acid (Gnoll Leader)|small metal vial]], which seems to be full of some acrid, hissing liquid. 
+The leader of the gnolls, dead in the outer courtyard, is carrying a few items of note. First, his spear, while filthy and covered in blood, seems to be well made and of Dunmari origin, as beneath the grime the running horse design can be seen. Also, around his neck is a chain with a small metal vial, which seems to be full of some acrid, hissing liquid. 
 
 The session ends as the party gathers again, finally has a break and some breakfast, and discusses their next steps.

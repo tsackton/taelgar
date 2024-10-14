@@ -86,7 +86,7 @@ Into this moment, [[Derik I]], of a cadet branch of the [[House of Entranca]], e
 - (DR:: 1427), summer: [[Derik I]] pushes [[Avatus|Avatus]] south of the [[Enst]] at the [[Battle of Fellburn]]
 - (DR:: 1428), spring and summer: [[Derik I]] campaigns south of the [[Enst]] 
 - (DR:: 1429), spring: [[Derik I]] defeats [[Avatus|Avatus]] at the [[Battle of Dalfield]]
-- (DR:: 1429), late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treay of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
+- (DR:: 1429), late fall: [[Derik I]], the [[Duchy of Telham|Duchess of Telham]], and the Tyrwingha [[Oracle of the Riven]] sign the [[Treaty of Wisford]] which codifies modern Sembara and cemented the [[House of Sewick]] as the rulers of the Joined Crowns of [[Sembara]], [[Tyrwingha]], and [[Duchy of Telham|Telham]].  
 - (DR:: 1430), summer: [[Derik I]] campaigns in the [[Mostreve Hills]]
 - (DR:: 1430), fall: [[Derik I]] signs the [[Treaty of Valarin]] with the [[Istabor Alliance]]
 - (DR:: 1432): [[Derik I]] establishes the [[Duchy of Maseau]], the [[Barony of Aveil]], the [[Barony of Dunfry]], and the [[Marches of Enford|Barony of Enford]] in the lands formally controlled by [[Avatus]]. He also reestablishes the Duchy of Brovna.

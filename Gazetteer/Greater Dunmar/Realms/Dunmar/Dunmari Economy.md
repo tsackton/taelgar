@@ -34,7 +34,7 @@ Taams = 1 cp
 (may change these values; 1 steed = 5 rupas = 400 taams, so 1 rupa = 80 taams)
 %%
   
-[[Dwarven coins]] are in common usage in Dunmar as well, as are dwarven trade bars, stamped with a known weight of silver or gold, which are commonly used for large transactions.
+[[Dwarven Coins]] are in common usage in Dunmar as well, as are dwarven trade bars, stamped with a known weight of silver or gold, which are commonly used for large transactions.
 
 ## Land Ownership
 

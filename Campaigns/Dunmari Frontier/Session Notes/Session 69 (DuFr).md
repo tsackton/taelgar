@@ -22,7 +22,7 @@ The [[Dunmar Fellowship]] breaks curses afflicting [[Kenzo]] and [[Havdar]], lea
 ## Session Info
 
 ### Summary
-- [[Riswynn]] successfully performs a ritual to free [[Kenzo]] from a cursed chain with the help of [[Delwath]]'s prayers and [[Seeker]]'s magic, sacrificing the [[Horn of Silent Alarm]].
+- [[Riswynn]] successfully performs a ritual to free [[Kenzo]] from a cursed chain with the help of [[Delwath]]'s prayers and [[Seeker]]'s magic, sacrificing the [[Horn of Silent Alarm (Dunmari)]]
 - The [[Dunmar Fellowship]] travels across the rain-soaked plains of [[Dunmar]], with [[Riswynn]] praying daily to the [[Bahrazel]] to free [[Havdar]] from the [[Medusa Blade]]'s curse.
 - Using scrying and sending spells, the party learns of [[Johar]]'s situation and [[Kadmos]]' movements through the [[Garamjala Desert]].
 - A deserted [[Raven's Hold]] and a nearby mass grave suggest the death of [[Inakara]] and her kin at the hands of dwarves.
@@ -31,7 +31,7 @@ The [[Dunmar Fellowship]] breaks curses afflicting [[Kenzo]] and [[Havdar]], lea
 
 ### Timeline
 - (DR:: 1748-11-15), evening: [[Wellby]], [[Seeker]], [[Kenzo]], [[Delwath]] and [[Riswynn]] talk and catch up. 
-- (DR:: 1748-11-16): [[Kenzo]] is uncursed by [[Riswynn]], sacrificing his [[Horn of Silent Alarm]] in the process; [[Riswynn]] speaks with [[Johar]] via sending. Party travels west towards [[Stormcaller Tower]].
+- (DR:: 1748-11-16): [[Kenzo]] is uncursed by [[Riswynn]], sacrificing his [[Horn of Silent Alarm (Dunmari)|Horn of Silent Alarm]] in the process; [[Riswynn]] speaks with [[Johar]] via sending. Party travels west towards [[Stormcaller Tower]].
 - (DR:: 1748-11-17): Travel west; speak with [[Johar]] via Sending; scry on [[Hektor]].
 - (DR:: 1748-11-18): Travel west; learn [[Johar]] is meeting with Samraat [[Nayan Karnas]]; detour around some ogres.
 - (DR:: 1748-11-19): Arrive south of [[Raven's Hold]]. Scout, discover it is quiet; camp early.
@@ -60,7 +60,7 @@ The [[Dunmar Fellowship]] breaks curses afflicting [[Kenzo]] and [[Havdar]], lea
 | Are they within a week of us? | **NO** | 22 Nov 1748 |  
 | Was [[Apollyon]] behind [[Sura]]'s kidnapping?  | **NO** | 23 Nov 1748 
 ## Narrative
-We begin as the party settles in for the night outside [[Lastlight Falls]], after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm]] carried for many months. 
+We begin as the party settles in for the night outside [[Lastlight Falls]], after a long evening of talking and reconnecting. In the morning, [[Riswynn]] prepares the magic she needs to attempt to free [[Kenzo]] from the cursed chain bound to his soul from his encounter with [[Motua]]. The ritual succeeds, with the aid of the prayers of [[Delwath]] to the tanshi and [[Seeker]]'s runic inspiration magic, and [[Kenzo]] is freed, at the cost of the [[Horn of Silent Alarm (Dunmari)|Horn of Silent Alarm]] carried for many months. 
 
 Over the course of the next week, the party falls into a routine as they hurry across the plains of [[Dunmar]], now sprung to life with the monsoon rains.
 

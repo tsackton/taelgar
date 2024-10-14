@@ -1,21 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [background, status/check/tim]
 ---
 # Multiverse
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-
-%% need to review based on cosmology DM notes %%
-
 A variety of planes surround and extend from the [[Material Plane]], together making up the Multiverse. 
 
-While there are many ways to describe the multiverse, the most widely known comes from elven scholars, who describe the multiverse a pair of intersecting domes: the below, the dome of the physical planes rising from the roiling chaos of the [[Plane of Magic]]; above, the dome of the planes of sentience, descending from the blinding intensity of the [[Plane of Creation]].  
+While there are many ways to describe the multiverse, the most widely known comes from elven scholars, who describe the multiverse a pair of intersecting domes balanced between two opposite poles: below, the dome of the physical planes rising from the roiling chaos of the [[Plane of Magic]]; above, the dome of the planes of sentience, descending from the blinding intensity of the [[Plane of Creation]].  
 
 The duality of the [[Material Plane]] -- the physical structures of the universe -- and the [[Plane of Souls]] -- the soul structures of the sentient inhabitants of the universe -- sit in the middle of these domes, the Material Plane anchored to the dome of physicality, the Plane of Souls anchored to the dome of sentience. 
 
-Descending "below" the material plane in this cosmology is the [[Ethereal Plane]], which stretches from the border ethereal, co-localizing with the material plane, through the interior ethereal, a foggy expanse of swirling mists, to the deep ethereal, which bleeds into the [[Plane of Magic]]. Embedded within the "sea" of the [[Ethereal Plane]] are the [[Energy Realms]], chief among them the [[Elemental Planes]], domains of pure physicality, capturing the essence of the fundamental elements of the universe. 
+Descending "below" the material plane in this cosmology is the [[Ethereal Plane]], which stretches from the border ethereal, co-localizing with the material plane, through the interior ethereal, a foggy expanse of swirling mists, to the deep ethereal, which bleeds into the [[Plane of Magic]]. Embedded within the "sea" of the [[Ethereal Plane]] are the [[Energy Realms]], chief among them the [[Elemental Realms]], domains of pure physicality, capturing the essence of the fundamental elements of the universe. 
 
 Floating "above" the plane of souls in this cosmology is the [[Astral Plane]], which is bisected by the [[Land of the Dead]], a collecting point for souls and an not-quite-impermeable barrier separating the raw energy of creation from the [[Material Plane]]. Beyond the [[Land of the Dead]], the [[Astral Plane]] is a strange empty expanse of silvery waves, in which the [[Spiritual Realms]] float like bubbles, until it merges with the blinding energy of the [[Plane of Creation]]. 
 
@@ -52,7 +49,7 @@ At the start of the Age, [[Riving]], resulted in:
 * The creation of the [[Echo Realms]] and the [[Energy Realms]] and the departure of many of the powerful [[Great Wyrms]], [[Archfey]], [[Titans]], and the elemental powers to other planes
 %% the metaphysics needs a little more thought - Echo Realms and Energy Realms are clear enough but it isn't obvious that titans who flee, or great wyrms, make sense to end up in one of those places. %%
 * The creation of the [[Embodied Gods]] and their creations, the [[Elder Folk]]
-* The creation of the [[Three Despairs]], and in turn, their creations: [[Thark]], the [[Goddess of the End]], the [[Endless Chaos]],  the [[Mad One]] 
+* The creation of the [[Three Despairs]], and in turn, their creations: [[Thark]], [[Ghesyn]], the [[Endless Chaos]],  the [[Mad One]] 
    %% note: see below about orcs; possible to move Thark's creation if it should align with creation of orcs %%
 * The unleashing of the curses of necromancy and lycanthropy on the world
 %%
