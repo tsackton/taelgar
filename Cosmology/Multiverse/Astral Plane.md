@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
-whereabouts: Spiritual Realms
+whereabouts: 
+- {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
 ---
 # The Astral Plane
 >[!info]+ Information  

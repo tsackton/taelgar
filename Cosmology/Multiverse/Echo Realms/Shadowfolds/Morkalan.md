@@ -5,15 +5,17 @@ tags: [place, status/cleanup/internal, status/metadata/header]
 typeOf: domain
 created: 1570 
 destroyed: 1748-08-26
-ancestry: Shadowfell
+ancestry: Shadowfolds 
 whereabouts: 
-- {type: home, location: Hagrim, wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being on <startDate> <origin:Pq>"}
-- {type: home, location: Shadowfell}
+- {type: home, location: Hagrim, wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA>, brought into being on <startDate> by <origin:Pqx>"}
+- {type: home, location: Shadowfolds}
 dm_notes: important
 dm_owner: tim
 ---
 # Morkalan
->[!info]+ Information
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% needs fleshing out based on Riswynn solo session notes, but generally fine; needs some refactoring to properly reflect Shadowfell lore%%

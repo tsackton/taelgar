@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/external, place]
+tags: [status/needswork/internal, place]
 whereabouts: Morkalan
 typeOf: settlement
 typeOfAlias: village
 destroyed: 1748
 name: Bleakhold
+dm_notes: important
+dm_owner: tim
 ---
 # Bleakhold
 >[!info]+ Information  
@@ -13,6 +15,6 @@ name: Bleakhold
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% copy notes from OneNote / Riswynn solo adventure %%
+%% copy notes from Riswynn solo adventure; some important but largely now irrelevant DM notes %%
 
-The dismal Dwarven village in the [[Shadowfell]] domain of [[Morkalan]]. 
+The dismal Dwarven village in the [[Shadowfolds]] domain of [[Morkalan]]. 

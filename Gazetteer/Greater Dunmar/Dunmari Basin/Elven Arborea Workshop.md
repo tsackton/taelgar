@@ -25,8 +25,8 @@ The elves dug a cave system to protect and study this place, tending the strange
 
 When the elven kingdom fell, this place fell into ruin, and was lost, the entrance collapsed.
 
-- (DR:: 1194) The Lakan monastery is founded on a small hill, south of Tokra and on top of a long-ruined elven workshop associated with an [[extraplanar weak point]] connecting to the plane of [[Arborea]]
-- (DR:: 1387) Lakan monks excavate the elven cave system underneath their monastery, and discover the [[extraplanar weak point]]
+- (DR:: 1194) The Lakan monastery is founded on a small hill, south of Tokra and on top of a long-ruined elven workshop associated with an [[Extraplanar Weak Point]] connecting to the plane of [[Arborea]]
+- (DR:: 1387) Lakan monks excavate the elven cave system underneath their monastery, and discover the [[Extraplanar Weak Point]]
 
 
 

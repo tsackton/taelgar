@@ -24,5 +24,5 @@ He was summoned into the material plane, in the abandoned Dunmari stronghold of 
 %%^End%%
 
 %%^Campaign:DuFr%%
-Later, the [[Dunmar Fellowship]] learned he had been summoned with the aid of the [[Ivory Scroll Cap Vision|demonic summoning scroll ]]provided by the hag [[Agata|Agata Dustmother]] as payment in exchange for the [[Scepter of Command]]. This was part of a complicated plan by the [[Fraternity of the Empty Moon]] to sneak into [[Tokra]] with a flood of refugees, and complete a ritual to summon the madness of [[Jinnik]] into the material plane using the [[extraplanar weak point]] north of [[Tokra]], connected to [[Pandemonium]], as a focal point. 
+Later, the [[Dunmar Fellowship]] learned he had been summoned with the aid of the [[Ivory Scroll Cap Vision|demonic summoning scroll ]]provided by the hag [[Agata|Agata Dustmother]] as payment in exchange for the [[Scepter of Command]]. This was part of a complicated plan by the [[Fraternity of the Empty Moon]] to sneak into [[Tokra]] with a flood of refugees, and complete a ritual to summon the madness of [[Jinnik]] into the material plane using the [[Extraplanar Weak Point]] north of [[Tokra]], connected to [[Pandemonium]], as a focal point. 
 %%^End%%

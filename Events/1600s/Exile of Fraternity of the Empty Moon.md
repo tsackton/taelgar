@@ -14,6 +14,6 @@ The Exile of the Fraternity of the Empty Moon was a campaign waged over the cour
 
 The [[Fraternity of the Empty Moon]], a werewolf cult dedicated to the advancement of the [[Mad One]], was driven from [[Tokra]] during the course of this campaign, waged by the Dunmari under Commander [[Ila]], the local garrison commander responsible for the defense of [[Tokra]] at the time. 
 
-The werewolves had established a base in abandoned ruins north of the city, build over an [[extraplanar weak point]] connected to [[Pandemonium]]. The energy leaking from the plane of madness prevented easy approach for the warriors under Commander [[Ila]], until a [[Dunmari map of Pandemonium ruins|map]] was created that documented a magical route allowing approach of the ruins. 
+The werewolves had established a base in abandoned ruins north of the city, build over an [[Extraplanar Weak Point]] connected to [[Pandemonium]]. The energy leaking from the plane of madness prevented easy approach for the warriors under Commander [[Ila]], until a [[Dunmari map of Pandemonium ruins|map]] was created that documented a magical route allowing approach of the ruins. 
 
 The last werewolves in [[Tokra]] were executed in August of the 68th year of the Nayan Dynasty, but a significant fraction of the [[Fraternity of the Empty Moon]] was able to escape east. 
