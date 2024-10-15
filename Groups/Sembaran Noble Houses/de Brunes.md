@@ -13,6 +13,10 @@ For my Addermarch game, this is really just a setup to give Nathaniel the secret
 Lord Serenveil, Prince of the Vesperwind, Guardian of Twilight's Edge:
 
 Tall, towering figure, long flowing silver hair, dark skin, dressed in robes that shift colors between deep purples, dusky blues, and silvery grays. Fiery eyes, like fading sunset. 
+
+A few notes from Cleenseau game:
+* The de Brune branch in Cleenseau is well known in the region as wealthy already; it is plausible they are fairly well known along the Enst in 1720 although perhaps not AS well known as they become
+* Serenveil is someone with connections in Ethlenn's court, and willing to do a favor for her - specifically, send a squire to try to entice [[Celyn]] to [[Cleenseau]]. The exactly relationship between Serenveil and Ethlenn's is not defined, but Serenveil is clearly not allied with Umbraeth, and his squire is afraid of Umbraeth
 %%
 
 %%^Campaign:None%%

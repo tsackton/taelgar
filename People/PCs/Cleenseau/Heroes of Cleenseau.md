@@ -6,6 +6,7 @@ name: Heroes of Cleenseau
 created: 1719-10-20
 typeOf: adventuring party
 dm_owner: mike
+dm_notes: important
 ---
 # The Heroes of Cleenseau
 >[!info]+ Information
