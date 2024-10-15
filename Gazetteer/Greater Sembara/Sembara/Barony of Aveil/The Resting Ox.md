@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: Aslain
 displayDefaults: { defArt: "" }
 typeOf: inn
+dm_notes: none
+dm_owner: none
 ---
 # The Resting Ox
 >[!info]+ Information  

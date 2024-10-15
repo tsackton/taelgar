@@ -8,6 +8,8 @@ typeOf: settlement
 whereabouts: Barony of Aveil
 pronunciation: da-LEH
 population: 308
+dm_notes: color
+dm_owner: mike
 ---
 # Dallet
 *(da-LEH)*

@@ -7,6 +7,8 @@ typeOf: settlement
 whereabouts: Manor of Beury
 population: 492
 pronunciation: BUH-ree
+dm_notes: color
+dm_owner: none
 ---
 # Beury
 *(BUH-ree)*

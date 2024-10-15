@@ -5,6 +5,8 @@ typeOf: settlement
 typeOfAlias: village
 whereabouts: Barony of Aveil
 population: 174
+dm_notes: none
+dm_owner: mike
 ---
 # Windlea
 >[!info]+ Information  

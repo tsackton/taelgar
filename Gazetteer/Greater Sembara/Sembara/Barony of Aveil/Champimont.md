@@ -6,6 +6,8 @@ typeOfAlias: market town
 population: 971
 whereabouts: Barony of Aveil
 pronunciation: Sham-PEE-mohn
+dm_notes: color
+dm_owner: mike
 ---
 # Champimont
 *(Sham-PEE-mohn)*

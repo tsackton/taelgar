@@ -7,6 +7,8 @@ typeOfAlias: fishing village
 whereabouts: Manor of Cleenseau
 population: 102
 pronunciation: OO-loot
+dm_notes: none
+dm_owner: mike
 ---
 # Auloutte
 *(OO-loot)*

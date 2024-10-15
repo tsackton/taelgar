@@ -6,6 +6,8 @@ typeOf: settlement
 typeOfAlias: farmhouse
 whereabouts: Manor of Cleenseau
 destroyed: 1720-01-10
+dm_notes: none
+dm_owner: none
 ---
 # The Gastant Farm
 >[!info]+ Information  

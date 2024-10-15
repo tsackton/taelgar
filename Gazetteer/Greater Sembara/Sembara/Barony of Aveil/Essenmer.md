@@ -6,6 +6,8 @@ population: 540
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: village
+dm_notes: none
+dm_owner: none
 ---
 # Essenmer
 *(Essen-MER)*

@@ -4,6 +4,8 @@ tags: [place]
 name: Cleenseau Region
 typeOf: region
 whereabouts: Barony of Aveil
+dm_notes: color
+dm_owner: mike
 ---
 # The Cleenseau Region
 >[!info]+ Information  

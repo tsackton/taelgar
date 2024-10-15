@@ -4,6 +4,8 @@ tags: [place]
 displayDefaults: {defArt: ""}
 typeOf: inn
 whereabouts: Aslain
+dm_notes: none
+dm_owner: none
 ---
 # The Setting Sun
 >[!info]+ Information  

@@ -7,6 +7,7 @@ typeOfAlias: town
 whereabouts: Manor of Cleenseau
 pronunciation: Klen-sew
 population: 1189
+dm_notes: color
 dm_owner: mike
 ---
 # Cleenseau

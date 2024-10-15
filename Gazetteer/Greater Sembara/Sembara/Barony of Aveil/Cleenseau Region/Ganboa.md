@@ -8,6 +8,8 @@ typeOf: settlement
 ancestry: lizardfolk
 typeOfAlias: village
 population: 62
+dm_notes: color
+dm_owner: none
 ---
 # Ganboa
 *(Gan-bo-a)*

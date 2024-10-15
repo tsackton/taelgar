@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, place]
+tags: [status/needswork/external, place]
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: logging village
 population: 237
-dm_notes: color
+dm_notes: important
 dm_owner: mike
 ---
 # Ashcombe

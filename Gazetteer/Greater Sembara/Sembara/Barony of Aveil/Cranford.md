@@ -6,6 +6,8 @@ pronunciation: Cran-ford
 typeOf: settlement
 population: 654
 typeOfAlias: town
+dm_notes: color
+dm_owner: none
 ---
 # Cranford
 *(Cran-ford)*

@@ -5,6 +5,8 @@ typeOf: settlement
 typeOfAlias: village
 destroyed: 1720-01-07
 whereabouts: Barony of Aveil
+dm_notes: none
+dm_owner: none
 ---
 # Eftly
 >[!info]+ Information  
@@ -21,3 +23,5 @@ _Distances:_
 * to [[Essenmer]], 9 miles
 * to [[Rinburg]], 21 miles
 * to [[Cleenseau]], 39 miles
+
+%% There is some color  in [[The Destruction of Eftly]] %%

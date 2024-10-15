@@ -5,6 +5,8 @@ name: Amance Brook
 typeOf: waterway
 typeOfAlias: brook
 whereabouts: Cleenseau Region
+dm_notes: none
+dm_owner: none
 ---
 # The Amance Brook
 >[!info]+ Information  

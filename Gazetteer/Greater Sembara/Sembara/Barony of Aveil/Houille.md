@@ -4,8 +4,12 @@ tags: [place]
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: village
+dm_notes: none
+dm_owner: none
+pronunciation: oo-yee
 ---
 # Houille
+*(oo-yee)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

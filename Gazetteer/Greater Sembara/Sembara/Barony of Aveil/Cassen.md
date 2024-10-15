@@ -5,6 +5,8 @@ typeOf: settlement
 typeOfAlias: village
 population: 35
 whereabouts: Barony of Aveil
+dm_notes: none
+dm_owner: none
 ---
 # Cassen
 >[!info]+ Information  
