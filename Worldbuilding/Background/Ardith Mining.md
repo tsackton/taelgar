@@ -5,7 +5,7 @@ tags: [background]
 ![[ardith-mining-map.png]]
 
 %% This is semi-canonical; 
-Additional comment from Tim: Yes, this is great. Even 100 years later in 1750 Ardith still has this sense of a massive, dangerous trove of lost treasure (hence why Chardon was hunting artifacts there, and why Riswynn was sent to recover her clans treasures). There is a whole under dark mini campaign I could run some day down there…
+Additional comment from Tim: Yes, this is great. Even 100 years later in 1750 [[Ardith]] still has this sense of a massive, dangerous trove of lost treasure (hence why Chardon was hunting artifacts there, and why Riswynn was sent to recover her clans treasures). There is a whole under dark mini campaign I could run some day down there…
 
 One other thing to keep in mind - dwarven cities are connected by long roads, as they are called, that run for hundreds or thousands of miles underground. While historically they connected dwarven kingdoms, now they provide easy passage for aberrations of the deep to travel, find people invading the mines, and hunt them. %%
 
