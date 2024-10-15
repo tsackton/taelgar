@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/internal, place]
+tags: [status/cleanup/internal, place]
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: village
 population: 448
+dm_notes: none
+dm_owner: none
 ---
 # Maudorville
 >[!info]+ Information  

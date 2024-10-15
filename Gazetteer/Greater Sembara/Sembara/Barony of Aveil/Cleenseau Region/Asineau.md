@@ -7,6 +7,8 @@ typeOfAlias: fishing village
 population: 311
 whereabouts: Manor of Asineau
 pronunciation: Ah-zee-noh
+dm_notes: important
+dm_owner: mike
 ---
 # Asineau
 *(Ah-zee-noh)*

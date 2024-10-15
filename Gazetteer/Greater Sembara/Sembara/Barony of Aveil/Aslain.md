@@ -7,6 +7,8 @@ founded: 1652
 whereabouts: Barony of Aveil
 population: 1187
 pronunciation: Ahz-lane
+dm_notes: color
+dm_owner: mike
 ---
 # Aslain
 *(Ahz-lane)*

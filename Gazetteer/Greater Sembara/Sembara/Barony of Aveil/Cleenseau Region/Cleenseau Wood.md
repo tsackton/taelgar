@@ -4,6 +4,8 @@ tags: [place]
 name: Cleenseau Wood
 typeOf: forest
 whereabouts: Barony of Aveil
+dm_notes: important
+dm_owner: mike
 ---
 # The Cleenseau Wood
 >[!info]+ Information  

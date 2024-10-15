@@ -7,6 +7,8 @@ typeOfAlias: fortified village
 whereabouts: Barony of Aveil
 population: 699
 pronunciation: Vel-tor
+dm_notes: important
+dm_owner: mike
 ---
 # Veltor
 *(Vel-tor)*

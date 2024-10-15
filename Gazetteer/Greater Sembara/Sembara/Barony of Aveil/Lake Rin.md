@@ -4,6 +4,8 @@ tags: [place]
 displayDefaults: {defArt: ""}
 typeOf: lake
 whereabouts: Barony of Aveil
+dm_notes: color
+dm_owner: mike
 ---
 # Lake Rin
 >[!info]+ Information  

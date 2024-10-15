@@ -4,6 +4,8 @@ tags: [place]
 displayDefaults: {defArt: ""}
 typeOf: inn
 whereabouts: Champimont
+dm_notes: none
+dm_owner: none
 ---
 # The Elegant Swan
 >[!info]+ Information  

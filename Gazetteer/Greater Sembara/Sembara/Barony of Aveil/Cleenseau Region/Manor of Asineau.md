@@ -4,6 +4,8 @@ tags: [place]
 typeOf: manor
 created: 1651
 whereabouts: Barony of Aveil
+dm_notes: color
+dm_owner: mike
 ---
 # The Manor of Asineau
 >[!info]+ Information
