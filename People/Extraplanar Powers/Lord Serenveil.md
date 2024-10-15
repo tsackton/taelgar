@@ -9,7 +9,7 @@ gender: male
 >[!info]+ Biographical Info  
 > A [[Fey|fey]] ([[Fey|archfey]]) (he/him)
 
-Lord Serenveil, know as the Prince of the Vesperwind and the Guardian of Twilight's Edge, is a tall, towering figure, with long flowing silver hair, fiery eyes, like fading sunset, and dark skin. He usually dresses in robes that shift colors between deep purples, dusky blues, and silvery grays.
+![[lord-serenveil.jpg|right|300]]Lord Serenveil, know as the Prince of the Vesperwind and the Guardian of Twilight's Edge, is a tall, towering figure, with long flowing silver hair, fiery eyes, like fading sunset, and dark skin. He usually dresses in robes that shift colors between deep purples, dusky blues, and silvery grays.
 
 %% Addermarch notes
 - Basic premise is that Serenveil has asked Fazoth to investigate an alchemist named Caradoc. Currently unclear what this actually means. But I think that it is simplest and most flexible if Serenveil is at least somewhat allied with Ethlenn, but not  straightforwardly a vassal of Ethlenn's or some other kind of close relationship. 
