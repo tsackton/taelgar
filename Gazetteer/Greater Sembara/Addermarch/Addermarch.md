@@ -26,15 +26,7 @@ With the fall of [[Drankorian Empire|Drankor]], Addermarch charted its own cours
 Leaving in for now that Addermarch earls acknowledged [[Derik I]] as their overking, which lasted until the death of [[Derik III]]. 
 %%
 
-Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [[Sembara]], but also a significant producer of timber and wool. Enjoying favorable tariffs for its goods in exchange for its role in protecting Sembara’s southern borders, Addermarch is a close ally of Sembara.
-
-%% Not sure about the last sentence, might not fit the vibe. Although it probably should be a close ally of Sembaran post hobgoblin wars 
-
-FROM MIKE: I think the vibe doesn't quite work for the last sentence. Sembara has a borderlands region, and I think if anything since the hobgoblin wars - where Addermarch fought with sembara but also felt abandoned perhaps - the vibe could be a bit cooler. Maybe something like:
-
-Addermarch has friendly relationships with the three human kingdoms on its borders: Tyrwingha, Sembara, and Maseau. Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
-%%
-
+Now, Addermarch is a land of small farmers, foresters, and sheepherders, known primarily for its famed apple brandy that is traded downriver into [[Sembara]], but also a significant producer of timber and wool. Addermarch has friendly relationships with the three human kingdoms on its borders: [[Tyrwingha]], [[Sembara]], and [[Duchy of Maseau|Maseau]]. Sembara is economically and culturally dominate in the region, and many merchant houses in Addermarch have close ties to traders and bankers in Sembara. But not all in Addermarch believe that Sembara will necessarily come to Addermarch's aid, and a spirit of independence prevails in some circles.
 ## Geography 
 
 *See more: [[Mostreve Hills]]*

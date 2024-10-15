@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/check/tim]
+tags: [place, status/needswork/internal]
 displayDefaults: {defArt: ""}
 name: Urlich Pass
 typeOf: pass
@@ -13,6 +13,8 @@ whereabouts: Sentinel Range
 
 %% notes
 Tim: are the notes below everyhing we have?
+
+[[Great War Notes]]
 
 The site of the final battle against Cha'mutte, the Battle of Urlich Pass, which as the climatic event of the high school campaign. Canonically, that battle took place at Urlich Monastery, which was somehow associated with the dwarven firstborn or some way to make it easier for Cha'mutte to attack the firstborn. 
 
