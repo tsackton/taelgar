@@ -1,3 +1,6 @@
+---
+excludePublish: ["clee"]
+---
 ## Character Creation
 
 *Follow the rules listed in the 2024 PHB, with the following modifications.*

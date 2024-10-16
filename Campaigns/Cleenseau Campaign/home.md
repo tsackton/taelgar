@@ -18,4 +18,4 @@ When you see this, please don't expand the spoiler block unless you are the targ
 
 You most likely want to start with the [[Cleenseau Campaign - Index of NPCs|NPCs]], session notes, and other information about the [[Cleenseau Campaign]]. Then you might want to read about [[Sembara]] and [[Tyrwingha]], two of the major realms. Or you might want to read about the religion of [[Mos Numena]] or just explore the [[Gazetteer]]. 
 
-For more information about mechanics and other world background for players specifically, see the [[Player's Guide]] or the [[Campaigns/Cleenseau Campaign/Mechanics/House Rules]].
+For more information about mechanics and other world background for players specifically, see the [[Player's Guide]] or the [[House Rules (Mike)]].
