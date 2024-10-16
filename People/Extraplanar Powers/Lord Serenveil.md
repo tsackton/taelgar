@@ -16,3 +16,9 @@ gender: male
 - One idea is that Serenveil - whose domain is likely small and on the sunward side of the Sunset Gate - has as-yet-undetermined interests that are threatened by Umbraeth, who is a bit of an expansionist. So the vibe is more that Serenveil turns to Ethlenn for protection. This would explain doing favors for her, scared of Umbraeth, also why he needs Fazoth to investigate anything potentially unusual on the edges of the Darkwood. 
 - But, this keeps Serenveil a bit independent from Ethlenn's orbit so that he can have his own non-Tyrwinghan motives and the de Brune secret cult can potentially develop into something interesting and unrelated to the larger Ethlenn/Umbraeth conflict, which I don't want to be the central arc of the Addermarch game. 
 %%
+
+%% Cleenseau notes:
+I've tried to keep with the vibe above: the only canonical event related here is that Ethlenn (or perhaps a power with the [[Twilight Court]] but not [[Archfey Ethlenn]] herself) wanted to guide [[Celyn]] to [[Cleenseau]] and watch over him, without the guidance/observation being closely related to or obviously traced back to Ethlenn/Twilight's Grace. Serenveil agreed to facilitate this via the person of [[Istarias]], who hung around Cleenseau for a while mostly at the household of [[Sabine de Brune]] (who knows of the family secret, but is not an active magic user/warlock).
+
+See [[Istarias]] page for more about what happened.
+%%
