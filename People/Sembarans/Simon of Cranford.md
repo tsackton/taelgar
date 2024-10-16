@@ -5,7 +5,7 @@ species: human
 ancestry: Sembaran
 born: 1659
 gender: male
-image: ![[simon-of-cranford.png]]
+image: simon-of-cranford.png
 whereabouts: Cranford
 dm_notes: color
 dm_owner: none
