@@ -1,6 +1,9 @@
 # Index of Changes
 This page lists plot relevant or otherwise interesting updates I've made, organized by date, focusing on pages that are relevant to the Cleenseau Campaign. 
 
+### October 15, 2025
+* Updates to [[House Rules (Mike)|House Rules (Mike)]]
+* A lot of small updates throughout
 ### June 25th, 2024
 * Added a map and few minor details to the [[Barony of Aveil]]
 ### June 3rd, 2024
@@ -23,7 +26,7 @@ This page lists plot relevant or otherwise interesting updates I've made, organi
 * Some interesting background on [[Odo Cordwaner]], [[Abigail Moss]], and [[Remy Darrow]]
 ### Jan 28, 2024
 * Updated some information about the funerary practices in [[Sembaran Funerary Traditions|Sembara]] and [[Tyrwinghan Funerary Traditions|Tyrwingha]]
-* Added some notes on [[Coinage of Sembara|Sembaran coinage]] as well as some house rules around [[Campaigns/Cleenseau Campaign/Mechanics/House Rules#Wealth and Gold|weath and tracking gold]]
+* Added some notes on [[Coinage of Sembara|Sembaran coinage]] as well as some house rules around [[House Rules (Mike)#Wealth and Gold|weath and tracking gold]]
 * A flavor [[Story About Halfling Merchants]] that might help understand the vibe of halflings
 * An update to [[Stories of Tyrwingha for Profit]] specifically for [[Izgil Moonseeker|Izgil]]
 ### Jan 26, 2024
