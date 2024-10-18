@@ -24,16 +24,16 @@ The adventurers face unexpected dangers on the road, and encounter zombies in To
 - Day 4, morning: Find a body drained of blood on the road; reach [[Torvaine Watch]] to find it deserted.
 - Day 4, afternoon: Enter [[Torvaine Watch]]. Warned by a ghost of death. Defeat zombies in mess hall. Defeat more zombies in barracks. Find treasure and clues suggesting a sinister event.
 ## Narrative
-#### Day 1
+#### Day 1 (Sunday)
 The session begins at dawn in [[Valcroix]]. [[Drou]], an elf from [[Orenlas]] [[Fazoth de Brune|Fazoth de Brune]], a human from the [[Enst]] river valley, and [[Yvan Greenrabbit]], a halfling from [[Sembara]], all on their way to [[Roscombe]] to join the service of the mysterious alchemist [[Caradoc]], have been stuck in [[Valcroix]] for several weeks, as late snow and early rain have turned the roads to impassable mud. Now, the weather has cleared, and the group has agreed to escort the halfling merchant [[Oona Stonebridge]] to [[Roscombe]]. The caravan -- Oona, her horses and wagon, Drou, Fazoth, and Yvan -- departs under sunny skies, and spends the day slowly making their way north and west, following the road to [[Roscombe]] along the [[Umber]], past fields, orchards, and small villages. 
-#### Day 2
+#### Day 2 (Monday)
 An uneventful day of travel, as the road turns southwest, leaving the river and the settled valley and beginning to climb into the [[Torvaine Forest]]. 
-#### Day 3
+#### Day 3 (Tuesday)
 *Morning.* The road continues through the forest, ascending in broad curves towards the height of land, where the small garrison of [[Torvaine Watch]] guards the road and collects tolls from travelers. The travel is not entirely uneventful, as [[Drou]], [[Yvan Greenrabbit|Yvan]], and [[Fazoth de Brune]] manage to successfully push a deadfall tree off the road. Later, just before lunch, the horses are spooked by a common adder sunning itself in the road, and Oona is thrown from the cart. [[Fazoth de Brune|Fazoth]] heals her (getting a mild bite from the snake and scaring it off in the process), while [[Yvan Greenrabbit|Yvan]] calms the horses. 
 
 *Afternoon.* After lunch and a short rest, the group continues along the road. In the late afternoon, [[Yvan Greenrabbit|Yvan]] notices the road ahead is slightly dug up, and the group is immediately ambushed by a pair of burrowing pig-like creatures called mohlers. Although they are defeated, Oona is nervous, as this is only five miles or so from [[Torvaine Watch]] and there should not be danger on the road so close to the garrison. The party camps for the night.
 
-#### Day 4
+#### Day 4 (Wednesday)
 *Morning.* The morning dawns cold and gray. The group continues towards [[Torvaine Watch]], anticipating arriving around lunchtime. Part way to the watch, [[Fazoth de Brune|Fazoth]], scouting ahead with his pseudodragon familiar, spots a dead body of a human on the road. Some investigation reveals this person is completely drained of blood, and is missing their pack and gear. [[Drou]] recognizes them as a peddler who was in [[Valcroix]], and [[Fazoth de Brune|Fazoth]] notices tracks that seem to suggest the peddler was fleeing from [[Torvaine Watch]] when they died. Finding no other immediate clues, the party continues, cautiously. 
 
 *Early afternoon.* A few hours later, the party reaches [[Torvaine Watch]], to find the iron portcullis locked and no sign of any guards. There is a door, on the western tower, that is no locked. Entering the keep, they are met by a spirit dressed in heavy knight's armor, the breastplate caved in, who warns them "You'll find only death here!" and vanishes. Exploring, the party finds zombies in the mess hall downstairs, who they manage to kill thanks in part to [[Fazoth de Brune|Fazoth]]'s dismembering one and using its head and arms as weapons, [[Drou]]'s critical hit with a dagger, and [[Yvan Greenrabbit|Yvan]] managing somehow to make one burst into fire. 
