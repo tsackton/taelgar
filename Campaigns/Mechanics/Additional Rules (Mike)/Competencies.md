@@ -10,7 +10,7 @@ In addition to skills, this house rule introduces the concept of a competency. A
 
 In addition, with the exception of thieves’ tools, a competency can be spent to learn any standard D&D tool proficiency, as well as any of the Taelgar-appropriate languages. 
 ### Starting Competencies
-All characters start with 9 competencies. This includes 5 “background” competencies (which replaces the 3 language/tools from a standard background) and 4 racial competencies (which replaces starting languages or tools from races). Note that if you wish to speak any language at all, you must take them with your competencies. 
+All characters start with 9 competencies. This includes 5 “background” competencies (which replaces the 3 language/tools from a standard background) and 4 racial competencies (which replaces starting languages or tools from your species). Note that if you wish to speak any language at all, you must take them with your competencies. 
 
 In addition, some classes gain bonus competencies at first level or on multiclassing as per the following table. Classes that are not listed do not gain bonus competencies. 
 
