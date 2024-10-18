@@ -4,6 +4,8 @@ tags: [organization]
 ancestry: hobgoblin
 whereabouts: Irrla
 typeOf: clan
+dm_notes: color
+dm_owner: none
 ---
 # The Skullcleaver Clan
 >[!info]+ Information  
