@@ -14,7 +14,7 @@ descTitle: The Cursed Dagger's Tale
 > *Featuring: [[Yvan Greenrabbit]], [[Drou]], [[Fazoth de Brune]]*
 > *In Taelgar: Unknown*
 > *On Earth: Sunday Sep 15, 2024*
-> *[[Torvaine Watch ]]and [[Roscombe]]*
+> *[[Torvaine Watch]] and [[Roscombe]]*
 
 The party discovers and grapples with the dangers of a cursed dagger, leading to tragic revelations and new allies in Roscombe.
 ## Session Info

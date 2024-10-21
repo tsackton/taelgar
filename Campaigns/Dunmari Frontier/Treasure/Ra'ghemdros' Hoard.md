@@ -234,7 +234,7 @@ A selection of magic items were also displayed in the Ra'ghemdros' private museu
 2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET[21]%%
 3. A potion in a crystal vial, a syrupy liquid that looks like liquified iron. %%SECRET[22]%%
 4. A small silver vial, etched with the name Serandris in Draconic, and the words, "In Gratitude". The liquid inside is pure and clear, almost to the point of being invisible, with a single metallic silver scale floating inside. %%SECRET[23]%%
-5. A round glass vial filled with a bubbling reddish-purple liquid. %%SECRET[24]%%
+5. A round glass vial filled with a bubbling reddish-purple liquid. Being close to the potion bottle gives you a feeling of holiness. %%SECRET[24]%%
 6. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET[25]%%
 7. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[26]%%
 8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[27]%%
