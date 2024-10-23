@@ -1,3 +1,4 @@
+%%
 # Portable Hole Calculations
 
 Volume of the Portable Hole is 282 cubic feet. A little more than 10% is taken up with shelving and miscellaneous organization, leaving 250 cubic feet of usable space. 
@@ -13,6 +14,8 @@ That leaves 250-16 = 234 cubic feet for items found on the Circular Island
 The biggest of these is Cloudspinner, who is encased in a rectangle 8 feet long, 4 feet wide, and 3 feet deep = 96 cubic feet. There are maybe 10 cubic feet worth of metals from the tower, plus another few cubic feet from other items, mostly the platter and the ewer.
 
 That leaves 125 cubic feet for treasure from Ra'ghemdros' hoard.
+
+%%
 # Ra'ghemdros' Hoard
 
 ## Coins
@@ -240,6 +243,6 @@ A selection of magic items were also displayed in the Ra'ghemdros' private museu
 8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[27]%%
 9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[28]%%
 10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[29]%%
-11. **tbd**
+11. tbd
 12. tbd
 

@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+tags: [place]
 displayDefaults: {defArt: the}
 typeOf: group of planes
 whereabouts: 
