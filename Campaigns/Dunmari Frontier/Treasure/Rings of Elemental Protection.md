@@ -1,3 +1,4 @@
+
 set of five identical gold rings each set with a gemstone; can attune to any two at the same time. gems are:
 ruby = fire resistance
 sapphire = cold resistance

@@ -12,7 +12,7 @@ displayDefaults: {defArt: ""}
 
 As you hold the dust from the destroyed doppelganger of Seeker to the mirror, the scene fades.
 
-Quickly, you see a fist - Amil's - flying towards you in the mirror, and a cruch, and then the scene shifts again.
+Quickly, you see a fist - Amil's - flying towards you in the mirror, and a crunch, and then the scene shifts again.
 
 Drifting as a cloud high in the sky, waiting, lingering above the Plaguelands. The scene shifts.
 

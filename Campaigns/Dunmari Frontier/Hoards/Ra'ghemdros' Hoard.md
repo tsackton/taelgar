@@ -243,6 +243,7 @@ A selection of magic items were also displayed in the Ra'ghemdros' private museu
 8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[27]%%
 9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[28]%%
 10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[29]%%
-11. tbd
-12. tbd
+11. A plain silver ring, unadorned and unmarked, but with a bright, reflective shine. %%SECRET[30]%%
+12. A wand, its handle wrapped in soft leather, made of a dark metal with streaks of silver and gray irridescence  %%SECRET[31]%%
 
+%%SECRET[32]%%
