@@ -90,27 +90,49 @@
 
 ## Given Away
 
-- [[Apollyon|Apollyon's]] throne, taken from [[Apollyon's Tower|his tower]]. A large grey mottled marble and granite throne encrusted with gemstones. Left on the [[~Circular Island~]] in [[Dimitaur]]'s possession. 
-- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]). Given to [[Ghesh]] in exchange for keeping the party secret from [[Ra'ghemdros]]
-- Folding Boat, originally taken from [[Kadmos and Company Loot]], given to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
-- Celestial Gem of Protection, originally a [[Gifts and Purchases#Gifts|gift]] to [[Riswynn]], given to [[Kethra]]
-- Ring of Displacement, originally part of [[Agata's Treasure]], given to [[Jotha]]
-- Helm of Telepathy. This is a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to [[Amil]].
-- Ring of Shadows. A strange shadowy thing that looks like the currents of the ocean depths in solid form, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to [[Faldrak Bronzehammer]]. 
+### Given to Milo and Tilly
+
+The following was given to [[Milo Thistlefoot]] and [[Tilly Brineheart]] when they departed from [[Vindristjarna]] in the [[Sea of Storms]]. 
+- 100,000 silver coins and 2,500 gold coins from [[Ra'ghemdros' Hoard]].
+- 700 silver torcs and bracelets, from [[Ra'ghemdros' Hoard]]
+- The Folding Boat originally taken from [[Kadmos and Company Loot|Kadmos]].
+- A plain silver ring, unadorned and unmarked, but with a bright, reflective shine, a [[Ring of Ocean Command]], from [[Ra'ghemdros' Hoard]]
+- 1 [Orb of Direction](https://www.dndbeyond.com/magic-items/27077-orb-of-direction) from [[Ra'ghemdros' Hoard]]
+- 1 [Clockwork Amulet](https://www.dndbeyond.com/magic-items/27042-clockwork-amulet) from [[Ra'ghemdros' Hoard]]
+- 1 silver ewer that, when you speak a command word, can turn the water in the ewer into wine. You can use this command word three times per day, from [[Ra'ghemdros' Hoard]]
+- 1 serving platter that allows you to season any food placed on the platter, from [[Ra'ghemdros' Hoard]]
+- 1 goblet that allow you to cast *purify food and drink*, targeted liquid in the goblet only, once per day, from [[Ra'ghemdros' Hoard]]
+- 1 serving platter that can cast create food and water (food only) once per day, from [[Ra'ghemdros' Hoard]]
+- 1 [Necklace of Adaptation](https://www.dndbeyond.com/magic-items/4682-necklace-of-adaptation), from [[Ra'ghemdros' Hoard]]
+- 1 ring of survival, which lets you add 1d4 to any ability check you make using the Survival skill (**+** requires attunement) from [[Ra'ghemdros' Hoard]]
+- 2 candlesticks that let you cast light at will, targeting the candlestick only, from [[Ra'ghemdros' Hoard]]
+
+Other treasure returned to Milo and Tilly
 - An elegant wooden pipe, made of some strange dark wood you have not seen before, carved with the initials M. T., from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]].
 - A silver ring set with a small blue sapphire, engraved, "To my beloved Tilly" on the inside,  from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
 - A beautifully crafted brass compass, casing engraved with "Stormdancer". It does not work anymore, from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
 - A magic silver rapier, owned by Milo and returned to him, from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
 - A strange swirling silvery crystal on a necklace, returned to Tilly, from [[Merfolk Quest Treasure|Buruli's kingdom]], returned to [[Milo Thistlefoot]] and [[Tilly Brineheart]].
-- The Watcher Pendant - a very elaborate design, set with diamonds, taken from Rhodar von Glauer in [[Ursk Treasure|Shadowkeep]]. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]].
-- [[Drankorian Message Stone]] (uncommon minor item) (given to [[Sura]]) paired with Wellby's message stone.
-- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Grimbaskal's Hoard]]), given to [[Brimskarda]] as a gift 
-- Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
-- A silver wand found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. From the [[Elemental Forge Hoard]]
+### Given to Followers and Allies
+- Celestial Gem of Protection, originally a [[Gifts and Purchases#Gifts|gift]] to [[Riswynn]], given to [[Kethra]]
+- Ring of Displacement, originally part of [[Agata's Treasure]], given to [[Jotha]]
+- Helm of Telepathy. This is a tiara made of silver, looking like tentacles wrapped in a circle, and decorated with smoky black gems, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to [[Amil]].
+- Ring of Shadows. A strange shadowy thing that looks like the currents of the ocean depths in solid form, from [[Buruli]] as part of the [[Merfolk Quest Treasure]]. Given to [[Faldrak Bronzehammer]]. 
 - Brooch of Warmth. Constructed by [[Faldrak Bronzehammer|Faldrak]] and [[Seeker]] from the detailed brooch enameled with brilliant reds, missing a central crystal, and an enchanted ruby found in the chest of gems, clearly meant to fit into the brooch (from the Elemental Forge). While attuned to this item, the wearer gains resistance to cold damage, and is unaffected by temperatures as low as -50 degrees. Given to Faldrak as partial payment for magic item construction. 
 - 1 silver bar, weighing 5 pounds, from the Elemental Forge. Given to Faldrak as partial payment for magic item construction. 
 - 1/2 a gold bar, weighing 5 lb, from the Elemental Forge. Given to Faldrak as partial payment for magic item construction. 
 - A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves at the elemental forge. Given to Faldrak as partial payment for magic item construction. 
+- [[Drankorian Message Stone]], given to [[Sura]], paired with Wellby's message stone.
+- [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. 
+- [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) 
+### Other Items Given Away
+
+- [[Apollyon|Apollyon's]] throne, taken from [[Apollyon's Tower|his tower]]. A large grey mottled marble and granite throne encrusted with gemstones. Left on the [[~Circular Island~]] in [[Dimitaur]]'s possession. 
+- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]). Given to [[Ghesh]] in exchange for keeping the party secret from [[Ra'ghemdros]]
+- The Watcher Pendant - a very elaborate design, set with diamonds, taken from Rhodar von Glauer in [[Ursk Treasure|Shadowkeep]]. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]].
+- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Grimbaskal's Hoard]]), given to [[Brimskarda]] as a gift 
+- Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
+- A silver wand found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. From the [[Elemental Forge Hoard]]
 - [[Hralgar's Eyes]] (legendary major item*, party), returned to [[Hralgar]] as part of freeing him.
 - [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 84 (DuFr)]]
 - Arcane Grimoire (rare major item, party), from [[Grimbaskal's Hoard]], given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 84 (DuFr)]]
@@ -129,8 +151,6 @@
 - A stuffed owlbear. Weighs at least 1000 pounds, and is big and awkward. Might be worth something to a collector, but impossible ot value. Roughly 10 feet by 10 feet by 10 feet in size. [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. 
 - Eight bolts of silk. Four are plain white silk (20 - 50 gp each), two are fine silk dyed a rich purple (100 - 250 gp each), and two are beautifully dyed with a complex pattern (100 - 600 gp each). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village.
 - A large number of logs, in a range of lengths from just larger than an arm in length and breadth up to the breadth of a [[Humans|human]]’s body and ten paces in length. Each log has been carefully cut and polished so as to display the beauty of its grain and remove any danger of splinters. Many of the logs are hardy and rare hard woods of considerable value. Even the less valuable logs would still be useful to any master carpenter or lesser workman (32 logs total, most would sell for 15 - 150 gp, but two exquisite and rare hardwood logs would sell for 300-400 gp). [[Mezzar|Grimbaskal]]’s Hoard, left behind with Te’kula village. 
-- [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. 
-- [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) 
 ## Stolen or Lost
 
 - [[Ever Spinning Top]]. Stolen by M-F Chardonians. Retrieved in [[Session 79 (DuFr)]]

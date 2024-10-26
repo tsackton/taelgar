@@ -90,7 +90,7 @@ The party explores the tower further, discovering remnants of its dark past and 
 - After the battle, the party takes a moment to recover and heal, with Delwath and [[Seeker]] providing much-needed healing to the group.
 - They search the remains of the constructs, finding strange metallic shards that appear to be inert but once held magical power, along with two intact metallic flies that [[Wellby]] adds to his collection.
 - Descending through several floors, they pass rooms that were once workshops, libraries, and living quarters, all in various states of decay from exposure to sea air.
-- The group finds two magical books—one related to necromancy, bound in crimson leather, and the other seemingly tied to divination, clasped shut with metal hands. They carefully store both books in their [[portable hole]] for later examination.
+- The group finds two magical books—one related to necromancy, bound in crimson leather, and the other seemingly tied to divination, clasped shut with metal hands. They carefully store both books in their [[Portable Hole]] for later examination.
 - They also find scraps of adamantium in the ritual room, confirming their origin as part of [[Apollyon]]'s phylactery, as well as a silver water pitcher, Drancorian coins, and other small valuable items.
 - Moving through the lower levels, the party comes across three relatively unadorned gold rings, a gold platter, and additional Drancorian coins.
 The treasure found includes: two magical books (one necromancy, one divination), two intact metallic flies, scraps of adamantium, a silver water pitcher, Drancorian gold and silver coins, three gold rings, and a gold platter.
@@ -131,7 +131,7 @@ The party continues exploring the newly cleared area of the basement.
 ### Aftermath
 The party prepares to leave [[Apollyon's tower]], making important decisions about the items they found and how to proceed.
 - Seeker uses Performance of Creation to forge a lead box, providing a safe container for the necromancy book to prevent any lingering magical influence from affecting the party.
-- They discuss whether to take Apollyon's throne as a bargaining chip with the dragon, ultimately turning into elephants with Seeker's Animal Shapes spell to drag it into the [[portable hole]]. 
+- They discuss whether to take Apollyon's throne as a bargaining chip with the dragon, ultimately turning into elephants with Seeker's Animal Shapes spell to drag it into the [[Portable Hole]]. 
 - Wellby uses the Chime of Opening to open the locked book, and is hit with a Befuddlement spell. Resisting the worst effects of the spell, he turns the book over to [[Seeker]], who learns it contains notes about the use of the forge and about lich transformations, though much of it is written in cipher.
 - The party takes some time to decipher parts of the notes, discovering that using the forge requires giving up their highest-level spell slot for a week or more, with the quality of the item created depending on the power sacrificed.
 - The group decides to teleport back to [[Dimitaur]], who immediately uses a Wand of Fireballs to destroy the necromancy book. 
