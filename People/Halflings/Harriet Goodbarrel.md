@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person]
+tags: [person]
 campaignInfo:
   - { campaign: dufr, person: Wellby, date: 1730, type: met}
   - { campaign: DuFr, date: 1748-12-30, type: met}
@@ -17,6 +17,8 @@ whereabouts:
   - {type: home, end: 1722, location: Western Gulf}
   - {type: home, location: The Singing Fox}
   - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
+dm_owner: tim
+dm_info: color
 ---
 # Harriet Goodbarrel
 >[!info]+ Biographical Info  
@@ -26,6 +28,11 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Met by [[Wellby]] on DR 1730 at [[The Singing Fox]], in [[Fairgate Outer]], the [[Tollen|Free City of Tollen]] %%^End%%  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 on [[Vindristjarna]], in the [[Tollen|Free City of Tollen]] %%^End%%
+
+![[harriet-goodbarrel.png|right|300]]%% notes
+Secret mostly contains roleplaying notes; ask if they'd be useful
+tagged dm_owner only because of connection to Wellby backstory
+%%
 
 Harriet's melodious voice graces *[[The Singing Fox]]* on performance nights, drawing an enthusiastic crowd of locals and passing halflings. Though initially reserved, she truly shines when on stage, and alongside her wife, [[Chenna Goodbarrel|Chenna]], she's made the tavern a warm haven for many.
 
@@ -42,11 +49,9 @@ SORT choice(species, species, typeof)
 ```
 %%^End%%
 
-%% notes
-Secret mostly contains roleplaying notes; ask if they'd be useful
-%%
+
 
 %%SECRET[1]%%
 
-![[harriet-goodbarrel.png]]
+
 
