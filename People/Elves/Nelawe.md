@@ -4,6 +4,8 @@ tags: [person, historical]
 species: elf
 ka: 31
 gender: female
+dm_owner: none
+dm_notes: none
 ---
 # Nelawe
 >[!info]+ Biographical Info

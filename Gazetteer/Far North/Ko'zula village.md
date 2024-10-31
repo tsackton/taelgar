@@ -11,4 +11,4 @@ typeOfAlias: village
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% need to check names and decide where the Forest of Dreams actually is %%
+%% need to check names and decide where the [[Forest of Dreams]] actually is %%
