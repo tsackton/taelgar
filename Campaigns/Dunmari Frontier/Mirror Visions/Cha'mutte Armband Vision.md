@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [event-source]
+displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Cha'mutte's Armband Vision
 DR: 1748-11-15
 timelineDescriptor: Dunmari Frontier Campaign
