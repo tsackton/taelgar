@@ -48,6 +48,9 @@
         "ruledBy" : ""        
     },
     "typeDisplayDefaults": {
+        "culture" : {
+            "boxInfo": "<partOf:AU> <species:AU> <typeOf:AU> <(based in )whereabouts>"    
+        },
         "deity": {
             "boxName": "Summary",
             "defArt": "",

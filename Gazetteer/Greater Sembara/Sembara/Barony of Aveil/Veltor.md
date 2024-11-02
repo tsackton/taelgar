@@ -18,6 +18,6 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Veltor is an ancient fortified village at the base of the [[Aveil Ridge]], sitting astride the [[Auberonne]]. It is the seat of the Baron of Aveil.
+Veltor is an ancient fortified village at the base of the [[Aveil Ridge]], sitting astride the [[Auberonne]]. It is the seat of the Baron of Aveil. The most prominent building, other than the keep, is the ancient Temple of the Warlord.
 
 %% Need to incorporate notes from most recent game %%

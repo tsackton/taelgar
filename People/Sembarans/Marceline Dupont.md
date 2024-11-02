@@ -5,7 +5,7 @@ species: human
 gender: female
 ancestry: Sembaran
 affiliations: [{org: Barony of Aveil, title: Captain of the Horse }]
-whereabouts: Barony of Aveil
+whereabouts: Veltor
 dm_notes: important
 dm_owner: mike
 ---

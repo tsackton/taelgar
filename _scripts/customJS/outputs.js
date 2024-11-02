@@ -91,6 +91,16 @@ class OutputHandler {
             }
         }
 
+        if (pageType == "culture") {
+            let hasTypeOf = typeOf && typeOf.trim().length > 0
+            if (hasTypeOf) {
+                output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
+                output += "-"
+                output += "    :octicons-info-24: " + typeOf + "  \n"
+                output += "</div>\n\n"
+            }
+        }
+
         if (pageType == "place") {
             let hasTypeOf = typeOf && typeOf.trim().length > 0
             let hasPlaces = metadata.whereabouts || metadata.partOf
@@ -127,7 +137,7 @@ class OutputHandler {
             return output
         }
 
-        if (pageType == "group") {
+        if (pageType == "organization") {
             output += "<div class=\"grid cards ext-narrow-margin ext-one-column\" markdown>\n"
             output += "-\n"
 
@@ -222,7 +232,7 @@ class OutputHandler {
             output += "</div>\n\n"
         }
 
-        if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
+        if (pageType != "culture" && (metadata.whereabouts || (pageType == "place" && metadata.partOf))) {
             if (whereaboutsStrings.current.trim() && !whereaboutsStrings.isCurrentUnknown) {
                 output += ":octicons-location-24:{ .lg .middle } " + whereaboutsStrings.current + "\n" // has 1 newline, we want 2
             } else if (whereaboutsStrings.lastKnown.trim()) {
@@ -302,7 +312,7 @@ class OutputHandler {
             summaryBlockLines.push("> " + partOf)
         }
 
-        if (metadata.whereabouts || (pageType == "place" && metadata.partOf)) {
+        if (pageType != "culture" && (metadata.whereabouts || (pageType == "place" && metadata.partOf))) {
             let line = '`$=dv.view(\"_scripts/view/get_Whereabouts\")`';
             if (!dynamic) {
                 line = OutputHandler.outputWhereabouts(fileName, metadata).split("\n")
