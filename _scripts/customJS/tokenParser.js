@@ -330,7 +330,7 @@ class TokenParser {
         if ("typeOf" in metadata) return ""
 
         if (metadata.tags && metadata.tags.length > 0) {
-            let baseTag = metadata.tags.filter(f => f.startsWith("item") || f.startsWith("place") || f.startsWith("organization") || f.startsWith("person")).first()
+            let baseTag = metadata.tags.filter(f => f.startsWith("item") || f.startsWith("place") || f.startsWith("culture") || f.startsWith("organization") || f.startsWith("person")).first()
             if (baseTag) {
                 let value = baseTag.split("/")
                 if (value.length == 2) return value[1]

@@ -15,3 +15,4 @@ dm_owner: mike
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% fey shapeshifter %%
+![[areschera.jpg]]]
