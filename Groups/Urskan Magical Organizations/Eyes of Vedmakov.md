@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
 aliases: [Watchers, Okolov]
+tags: [organization, status/needswork/wip]
 ancestry: Urskan
+typeOf: magical bloodline
+partOf: Rodnya
 ---
 # The Eyes of Vedmakov
 >[!info]+ Information  
-> An [[Ursk|Urskan]] organization  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> An [[Ursk|Urskan]] magical bloodline  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+> Parent Organization: the [[Rodnya|Rodnye]]
 
 The Eyes of Vedmakov, known colloquially as the Watchers or the Okolov, are the secret magical guard of [[Ursk]]. 
 

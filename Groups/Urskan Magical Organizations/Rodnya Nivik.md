@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [organization, status/needswork/wip]
 ancestry: Urskan
 displayDefaults: {defArt: ""}
+typeOf: magical bloodline
+partOf: Rodnya
 ---
 # Rodnya Nivik
 >[!info]+ Information  
