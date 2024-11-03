@@ -8,6 +8,8 @@ subTypeOf: magic
 ancestry: dwarven
 image: 
 ddbLink: https://www.dndbeyond.com/magic-items/5349-driftglobe
+dm_owner: none
+dm_notes: none
 ---
 # Driftglobe
 >[!info]+ Information  
