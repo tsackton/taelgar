@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [organization]
 displayDefaults: {defArt: '', boxInfo: ""}
 name: Oracle of the Riven
+typeOf: council
 whereabouts: Tyrwingha
 dm_notes: color
 dm_owner: mike
