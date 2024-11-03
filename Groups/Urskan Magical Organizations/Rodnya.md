@@ -1,11 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [organization, status/needswork/wip]
 ancestry: Urskan
+name: Rodnye
+displayDefaults: {defArt: "the", indefArt: ""}
+typeOf: magical bloodlines
 ---
-# Rodnya
+# The Rodnye
 >[!info]+ Information  
-> An [[Ursk|Urskan]] organization  
+>  [[Ursk|Urskan]] magical bloodlines  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 The eight rodnye of [[Ursk]] (singular: Rodnya) are the secretive magical bloodlines that both control the magical power of the population of [[Ursk]], and rule the country. The rodnye are each a loose confederacy, headed by a powerful mage, each with their own idiosyncratic and individualistic attitudes and rules. Only those invited to join a rodnya may undergo the secret rituals that bind them to the bloodline and enhance their arcane strength. Nonetheless, at the highest levels the rodnye coordinate to rule and defend the country. 

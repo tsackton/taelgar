@@ -1,6 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization, status/needswork/wip]
+ancestry: Urskan
+displayDefaults: {defArt: ""}
+typeOf: magical bloodline
+partOf: Rodnya
 ---
 # The Rodnya Zoryana
 >[!info]+ Information  
