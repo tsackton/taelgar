@@ -2,12 +2,13 @@
 headerVersion: 2023.11.25
 tags: [person, status/metadata/refactor]
 name: Devana
-born:
 species: human
 ancestry: Dunmari
 gender: male
 whereabouts: 
 - { type: home, location: ~Karawa Desert~}
+dm_notes: color
+dm_owner: none
 ---
 # Devana
 >[!info]+ Biographical Info
@@ -23,3 +24,5 @@ A Dunmari pastoralist.
 * (DR:: 1748-03-15) Devana's family was attacked by marauding axebeaks, supernaturally enraged by an ancient amulet from the Great War, which had been buried inactive for centuries until uncovered by [[Arcus]] in the [[Dunmari Fort (Gomat)|old Dunmari fort]] east of [[Gomat]]. One of his sons and nearly half his animals were killed in this attack (date is approx).
 
 %%^End%%
+
+%%SECRET[1]%%
