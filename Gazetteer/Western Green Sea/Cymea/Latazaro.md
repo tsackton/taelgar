@@ -6,11 +6,15 @@ typeOf: swamp
 ancestry: lizardfolk
 whereabouts: Western Green Sea Region
 pronunciation: LAH-tah-zah-roh
+dm_notes: color
+dm_owner: none
 ---
 # Latazaro
 *(LAH-tah-zah-roh)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% one of the characters in the 3-session mini-adventure I did was from here, but never really developed much backstory beyond a bit of color %%
 
 A [[lizardfolk]] community on the borders of [[Tyrwingha]] and [[Western Cymea]]. 
