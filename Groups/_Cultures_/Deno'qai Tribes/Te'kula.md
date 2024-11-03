@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [culture, status/unknown]
 campaignInfo: []
 name: Te'kula
 typeOf: tribe
