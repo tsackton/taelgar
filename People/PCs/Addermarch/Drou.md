@@ -6,6 +6,8 @@ gender: female
 ddbLink: https://www.dndbeyond.com/characters/131356005
 player: Kate Sackton
 ka: 37
+dm_owner: player
+dm_notes: important
 whereabouts:
 - {type: home, location: Orenlas}
 - {type: home, location: Addermarch}

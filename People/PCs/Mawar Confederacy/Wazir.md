@@ -9,6 +9,8 @@ gender: male
 player: Mike Sackton
 affiliations: [ {place: Leviathan Inn, title: Owner} ]
 whereabouts: Hamri
+dm_owner: player
+dm_notes: important
 ---
 # Wazir
 >[!info]+ Biographical Info  

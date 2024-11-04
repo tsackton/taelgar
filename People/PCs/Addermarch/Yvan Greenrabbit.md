@@ -6,6 +6,8 @@ player: Isaac Sackton
 ddbLink: https://www.dndbeyond.com/characters/131340283
 species: halfling
 gender: male
+dm_owner: player
+dm_notes: important
 affiliations: 
 - {org: Greenrabbits, type: primary }
 whereabouts:

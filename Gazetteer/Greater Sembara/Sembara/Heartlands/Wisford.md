@@ -7,6 +7,8 @@ typeOf: city
 whereabouts: Duchy of Wisford
 population: 8,500
 pronunciation: Wis-ford
+dm_owner: mike
+dm_notes: color
 ---
 # Wisford
 *(Wis-ford)*

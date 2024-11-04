@@ -7,7 +7,9 @@ born: 1706-10-01
 species: human
 ancestry: Sembaran
 gender: male
-player:
+dm_owner: player
+dm_notes: important
+player: Chris Kelly
 aliases: [Viepuck, Vala Xendra, Treph Hardpick, Sarlana Silversword, Najeer, Najeer Garay]
 affiliations: [Heroes of Cleenseau]
 whereabouts:

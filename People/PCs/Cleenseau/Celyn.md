@@ -7,6 +7,8 @@ species: human
 ddbLink: https://www.dndbeyond.com/characters/90849827
 ancestry: Tyrwinghan
 gender: male
+dm_owner: player
+dm_notes: important
 player: Kiya Nicoll
 affiliations: 
 - {org: Heroes of Cleenseau }

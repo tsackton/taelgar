@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/needswork/external]
+tags: [place, status/needswork/external]
 name: Fellburn
 typeOf: settlement
 subTypeOf: fortified
@@ -8,6 +8,8 @@ typeOfAlias: market town
 whereabouts: Duchy of Wisford
 pronunciation: Fell-burn
 population: 6000
+dm_owner: mike
+dm_notes: color
 ---
 # Fellburn
 *(Fell-burn)*

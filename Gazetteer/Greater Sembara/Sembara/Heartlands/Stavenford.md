@@ -6,6 +6,8 @@ pronunciation: Staven-ford
 whereabouts: Duchy of Wisford
 typeOf: settlement
 typeOfAlias: river town
+dm_owner: none
+dm_notes: none
 ---
 # Stavenford
 *(Staven-ford)*

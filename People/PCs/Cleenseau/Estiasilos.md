@@ -7,6 +7,8 @@ aliases: [Es*tiasilos]
 born: 1719-11-05
 species: mysterious abberation
 pronouns: it/they/him/her
+dm_owner: player
+dm_notes: important
 ---
 # Es\*tiasilos
 >[!info]+ Biographical Info  

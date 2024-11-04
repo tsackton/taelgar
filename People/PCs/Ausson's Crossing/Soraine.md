@@ -8,6 +8,8 @@ species: human
 ancestry: Maseaun
 gender: male
 player: Matt Rand
+dm_owner: player
+dm_notes: important
 ---
 # Soraine
 >[!info]+ Biographical Info  

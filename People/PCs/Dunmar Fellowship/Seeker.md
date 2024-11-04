@@ -8,6 +8,8 @@ species: dwarf
 ancestry:
 gender: male
 player: Eric Rosenbaum
+dm_owner: player
+dm_notes: important
 affiliations: ["The Dunmar Fellowship"]
 ---
 # Seeker

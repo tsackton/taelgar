@@ -4,6 +4,8 @@ tags: [place]
 name: Garrison Gate of Cleenseau
 typeOf: gate
 whereabouts: Cleenseau
+dm_owner: mike
+dm_notes: none
 ---
 # The Garrison Gate of Cleenseau
 >[!info]+ Information

@@ -8,6 +8,8 @@ species: dwarf
 ancestry:
 gender: female
 player: Kate Sackton
+dm_owner: player
+dm_notes: important
 affiliations: [ "The Dunmar Fellowship"]
 ---
 # Riswynn

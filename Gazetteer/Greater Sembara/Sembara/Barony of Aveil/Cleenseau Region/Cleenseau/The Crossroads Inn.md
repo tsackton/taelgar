@@ -4,6 +4,8 @@ tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: The Crossroads Inn
+dm_owner: mike
+dm_notes: color
 ancestry: halfling
 typeOf: inn
 whereabouts: Cleenseau

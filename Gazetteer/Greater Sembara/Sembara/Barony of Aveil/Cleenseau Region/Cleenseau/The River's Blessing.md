@@ -6,6 +6,8 @@ name: The River's Blessing
 typeOf: inn
 whereabouts: Cleenseau
 created: 1709
+dm_owner: mike
+dm_notes: none
 ---
 # The River's Blessing
 >[!info]+ Information  

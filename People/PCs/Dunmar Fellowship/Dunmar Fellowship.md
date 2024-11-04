@@ -5,6 +5,8 @@ displayDefaults: {ltPerson: "by"}
 campaignInfo: []
 name: Dunmar Fellowship
 typeOf: adventuring party
+dm_owner: tim
+dm_notes: important
 ---
 # The Dunmar Fellowship
 >[!info]+ Information

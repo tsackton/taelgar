@@ -1,5 +1,7 @@
 ---
 tags: [meta, status/needswork/wip]
+dm_owner: none
+dm_notes: none
 ---
 # Players of Taelgar
 

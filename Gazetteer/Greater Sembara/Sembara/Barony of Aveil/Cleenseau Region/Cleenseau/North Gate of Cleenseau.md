@@ -4,6 +4,8 @@ tags: [place]
 name: North Gate of Cleenseau
 typeOf: gate
 whereabouts: Cleenseau
+dm_owner: mike
+dm_notes: none
 ---
 # The North Gate of Cleenseau
 >[!info]+ Information  

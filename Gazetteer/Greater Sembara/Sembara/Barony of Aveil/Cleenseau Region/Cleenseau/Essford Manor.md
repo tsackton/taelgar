@@ -4,6 +4,8 @@ tags: [place]
 name: Essford Manor
 typeOf: house
 subTypeOf: manor
+dm_owner: mike
+dm_notes: color
 whereabouts: Cleenseau
 ---
 # The Essford Manor

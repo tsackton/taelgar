@@ -5,6 +5,8 @@ campaignInfo:
 name: Duchy of Wisford
 typeOf: duchy
 whereabouts: Sembara
+dm_owner: mike
+dm_notes: color
 ---
 # The Duchy of Wisford
 >[!info]+ Information  

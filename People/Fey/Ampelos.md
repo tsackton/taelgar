@@ -7,7 +7,7 @@ whereabouts: Tyrwingha
 dm_notes: none
 dm_owner: mike
 ---
-# Ampelos
+	# Ampelos
 >[!info]+ Biographical Info  
 > A [[Fey|fey]] (satyr)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
