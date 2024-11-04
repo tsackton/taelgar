@@ -18,7 +18,7 @@ whereabouts:
   - {type: home, location: The Singing Fox}
   - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
 dm_owner: tim
-dm_info: color
+dm_notes: color
 ---
 # Harriet Goodbarrel
 >[!info]+ Biographical Info  

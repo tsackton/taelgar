@@ -6,6 +6,8 @@ species: fox
 ancestry: spirit
 gender: male
 player: Mike Sackton
+dm_owner: mike
+dm_notes: color
 ---
 # Willow Wind
 >[!info]+ Biographical Info  

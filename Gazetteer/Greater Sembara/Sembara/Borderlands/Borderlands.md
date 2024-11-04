@@ -5,6 +5,8 @@ aliases: [Sembaran Borderlands]
 displayDefaults: { defArt: the }
 whereabouts: Sembara
 typeOf: region
+dm_owner: none
+dm_notes: none
 ---
 # The Borderlands
 >[!info]+ Information

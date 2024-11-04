@@ -7,6 +7,8 @@ born: 1720-01-07
 species: fey
 subspecies: griffin
 gender: male
+dm_owner: player
+dm_notes: important
 ---
 # Greymalkin
 >[!info]+ Biographical Info  

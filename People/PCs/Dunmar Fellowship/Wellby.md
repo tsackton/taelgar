@@ -8,6 +8,8 @@ species: halfling
 ancestry:
 gender: male
 player: David Schwartz
+dm_owner: player
+dm_notes: important
 affiliations: [ {org: Dunmar Fellowship}, {org: Goodbarrels, type: primary}]
 ---
 # Wellby

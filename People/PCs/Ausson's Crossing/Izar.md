@@ -6,6 +6,8 @@ born: 1579
 species: lizardfolk
 gender: enby
 player: Kiya Nicoll
+dm_owner: player
+dm_notes: important
 ---
 # Izar
 >[!info]+ Biographical Info  

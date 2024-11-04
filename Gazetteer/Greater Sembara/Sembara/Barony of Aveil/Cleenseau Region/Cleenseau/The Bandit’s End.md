@@ -7,6 +7,8 @@ ancestry: Sembaran
 created: 1665
 typeOf: inn
 whereabouts: Cleenseau
+dm_owner: mike
+dm_notes: color
 ---
 # The Bandit’s End
 >[!info]+ Information  

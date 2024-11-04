@@ -4,6 +4,8 @@ tags: [place]
 name: Lord Mayor’s Workhouse
 typeOf: orphanage
 whereabouts: Embry
+dm_owner: mike
+dm_notes: color
 ---
 # The Lord Mayor’s Workhouse
 >[!info]+ Information  

@@ -9,6 +9,8 @@ gender: male
 player: Matt Rand
 affiliations: [{org: Gemcrafters, type: primary}, {org: Heroes of Cleenseau}]
 aliases: [Durgil Barzinduk, Izgil]
+dm_owner: player
+dm_notes: important
 whereabouts:
 - {type: home, end: 1719, location: Nidzahar}
 - {type: away, start: 1719-10-19, end: 1720-01-12, location: Cleenseau}

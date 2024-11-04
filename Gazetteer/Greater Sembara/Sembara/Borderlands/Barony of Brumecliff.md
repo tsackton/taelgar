@@ -5,6 +5,8 @@ name: Barony of Brumecliff
 typeOf: barony
 whereabouts: Borderlands
 pronunciation: Broom-cliff
+dm_owner: none
+dm_notes: none
 ---
 # The Barony of Brumecliff
 *(Broom-cliff)*

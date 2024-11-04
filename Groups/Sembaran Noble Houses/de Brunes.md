@@ -1,5 +1,6 @@
 ---
-tags: [organization, status/stub, status/check/mike]
+tags: [organization, status/stub]
+dm_owner: shared
 ---
 
 %% centralized notes from [[Fazoth de Brune|Fazoth]] backstory here

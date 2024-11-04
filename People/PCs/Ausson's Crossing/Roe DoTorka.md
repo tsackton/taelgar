@@ -8,6 +8,7 @@ ancestry: Ardikhun
 gender: male
 player: Chris Kelly
 dm_notes: important
+dm_owner: player
 ---
 # Roe DoTorka
 >[!info]+ Biographical Info  

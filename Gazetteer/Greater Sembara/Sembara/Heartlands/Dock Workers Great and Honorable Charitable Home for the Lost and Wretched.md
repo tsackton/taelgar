@@ -4,6 +4,8 @@ tags: [place]
 name: Dock Workers Great and Honorable Charitable Home for the Lost and Wretched
 whereabouts: Embry
 typeOf: orphanage
+dm_owner: none
+dm_notes: none
 ---
 # The Dock Workers Great and Honorable Charitable Home for the Lost and Wretched
 >[!info]+ Information  
@@ -11,3 +13,5 @@ typeOf: orphanage
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 An orphanage and workhouse in [[Embry]], known for rough conditions and hard work unloading bales of wool at the Embry docks.
+
+%% See backlinks for what little information was made up %%

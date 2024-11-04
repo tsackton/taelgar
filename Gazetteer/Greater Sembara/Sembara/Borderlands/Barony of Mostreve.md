@@ -6,6 +6,8 @@ whereabouts: Borderlands
 aliases: [Barony of Mostrevé]
 typeOf: barony
 pronunciation: moh-strev-AY
+dm_owner: none
+dm_notes: none
 ---
 # The Barony of Mostrevé
 *(moh-strev-AY)*

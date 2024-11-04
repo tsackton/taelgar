@@ -7,6 +7,8 @@ born:
 species: human
 ancestry: Urskan
 gender: male
+dm_notes: color
+dm_owner: none
 player: Mike Sackton
 aliases: [Artem]
 whereabouts:

@@ -9,6 +9,8 @@ ancestry: Isinguer
 gender: male
 player: Mike Sackton
 died: 1545
+dm_owner: mike
+dm_notes: important
 affiliations: [The Rangers]
 ---
 # Beryl

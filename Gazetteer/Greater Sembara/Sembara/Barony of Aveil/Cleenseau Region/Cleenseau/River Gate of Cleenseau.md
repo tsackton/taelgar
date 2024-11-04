@@ -5,6 +5,8 @@ campaignInfo: []
 name: River Gate of Cleenseau
 typeOf: gate
 whereabouts: Cleenseau
+dm_owner: mike
+dm_notes: none
 ---
 # The River Gate of Cleenseau
 >[!info]+ Information

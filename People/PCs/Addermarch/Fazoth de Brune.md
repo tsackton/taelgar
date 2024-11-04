@@ -6,6 +6,8 @@ ddbLink: https://www.dndbeyond.com/characters/131334028
 species: human
 ancestry: Sembaran
 gender: male
+dm_owner: player
+dm_notes: important
 tags: [person, pc/addermarch]
 ---
 # Fazoth de Brune

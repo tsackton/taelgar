@@ -6,6 +6,8 @@ name: Lord's Guard of Cleenseau
 typeOf: army
 subTypeOf: warband
 whereabouts: Cleenseau
+dm_owner: mike
+dm_notes: color
 ---
 # The Lord's Guard of Cleenseau
 >[!info]+ Information  

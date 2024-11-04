@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 name: Queen’s Own Home for Children
 typeOf: orphanage
 created: 1673
 destroyed: 1720-06-30
 whereabouts: Embry
+dm_owner: none
+dm_notes: none
 ---
 # The Queen’s Own Home for Children
 >[!info]+ Information  

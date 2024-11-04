@@ -9,6 +9,8 @@ species: elf
 ancestry:
 gender: male
 player: Mike Sackton
+dm_owner: player
+dm_notes: important
 affiliations: [{org: Dunmar Fellowship, type: primary}]
 whereabouts:
 - {type: home, end: 1538, location: 'Ainumarya' }

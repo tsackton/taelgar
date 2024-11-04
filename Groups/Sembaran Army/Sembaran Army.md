@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
-displayDefaults: {partOf: '<typeof:A> in <partof>', boxInfo: ''}
+tags: [organization, status/update]
+displayDefaults: {partOf: '<typeof:AU> in <partof>', boxInfo: ''}
 campaignInfo: []
 aliases: [Sembaran Army, Military of Sembara]
 name: Sembaran Army
 typeOf: army
 partOf: Sembara
+dm_owner: mike
+dm_notes: important
 ---
 # The Sembaran Army
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
-> an army in [[Sembara]]
+> An army in [[Sembara]]
+
+%% Needs some work to incorporate the events from the Clee campaign which impacted the army organization; some color also invented not well captured here %%
 
 The defense of the realm and the people within it is a key concern of the nobility and the lords of the manor. The defenses of the realm are broadly organized in two ways:
 

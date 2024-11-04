@@ -7,6 +7,8 @@ created: 1689
 typeOf: inn
 whereabouts: Cleenseau
 aliases: [The Fox’s Flagon]
+dm_owner: mike
+dm_notes: none
 ---
 # The Fox’s Flagon
 >[!info]+ Information

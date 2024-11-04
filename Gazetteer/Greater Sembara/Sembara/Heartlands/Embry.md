@@ -6,6 +6,8 @@ name: Embry
 typeOf: city
 whereabouts: Sembara
 population: 25000
+dm_owner: none
+dm_notes: none
 ---
 # Embry
 >[!info]+ Information  

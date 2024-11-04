@@ -6,6 +6,8 @@ whereabouts: Borderlands
 aliases: [Barony of Montsé]
 typeOf: barony
 pronunciation: Mohn-say
+dm_owner: none
+dm_notes: none
 ---
 # The Barony of Montsé
 *(Mohn-say)*

@@ -10,6 +10,8 @@ species: human
 ancestry: Tyrwinghan
 gender: male
 player: Dan Walters
+dm_owner: player
+dm_notes: important
 aliases: [Robin]
 affiliations: 
 - {org: Heroes of Cleenseau }

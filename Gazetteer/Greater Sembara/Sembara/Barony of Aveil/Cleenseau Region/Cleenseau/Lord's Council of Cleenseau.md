@@ -5,6 +5,8 @@ displayDefaults: {boxInfo: ""}
 name: Lord's Council of Cleenseau
 typeOf: council
 whereabouts: Cleenseau
+dm_owner: mike
+dm_notes: none
 ---
 # The Lord's Council of Cleenseau
 >[!info]+ Information  
