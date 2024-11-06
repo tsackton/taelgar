@@ -1,11 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/needswork/wip]
+tags: [status/stub, place]
 typeOf: river
 dm_notes: none
-dm_owner: tim
+dm_owner: none
 ---
-# The ~Darba River~
+# Rudhan
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`
-
