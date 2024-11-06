@@ -17,7 +17,7 @@ whereabouts:
 
 %% lots of notes to copy over from various places %%
 
-An old Dunmari fort in the mountains. Captured by hobgoblins and used as a base of operations for the [[Blackened Claw]] hobgoblins during the [[Second Hobgoblin War]]. 
+An old Dunmari fort in the mountains. Captured by hobgoblins and used as a base of operations for the [[Blackened Claw]] hobgoblins during the [[Northern War]]. 
 
 Wellby's map of Raven's Hold:
 ![[wellby-ravens-hold-map.png]]

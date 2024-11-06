@@ -16,4 +16,4 @@ destroyed: 1610
 
 %% copy notes from OneNote from Raven's Hold adventure %%
 
-A hobgoblin clan formerly based in northern [[Dunmar]]. Destroyed by the Dunmari during the [[Second Hobgoblin War]]. 
+A hobgoblin clan formerly based in northern [[Dunmar]]. Destroyed by the Dunmari during the [[Northern War]]. 

@@ -5,6 +5,8 @@ displayDefaults: {defArt: ""}
 typeOf: tattoo
 subtypeOf: magic
 ancestry: Tollender
+dm_owner: none
+dm_notes: none
 ---
 # Tollen Magical Tattoo
 >[!info]+ Information  
