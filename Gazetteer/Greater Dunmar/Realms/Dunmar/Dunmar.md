@@ -46,7 +46,7 @@ Although there are no formal administrative units within Dunmar larger than indi
 
 - [[Eastern Dunmar]], roughly the easternmost third of the country, contains the land around [[Karawa]] and the [[Red Mesa]], and the fringes of settled land along the [[Garamjala Desert]], as well as the more habitable [[Samtal]] north of the [[~Karawa Desert~]].
 - [[Central Dunmar]], the largest region by land area, is dominated by the [[Hara Watershed]], and contains the important cities of [[Tokra]], [[Askandi]], and [[Songara]], as well as the fertile grasslands of the [[~Songara Plains~]]. 
-- [[Coastal Dunmar]], the smallest and wealthiest region, is dominated by the port city of [[Darba]] and the [[~Darba River~]], which flows through the [[Darba Highlands]]. 
+- [[Coastal Dunmar]], the smallest and wealthiest region, is dominated by the port city of [[Darba]] and the [[Rudhan]], which flows through the [[Darba Highlands]]. 
 - [[Western Dunmar]], the administrative and political capital of the [[Nayan Dynasty]], and the most populous region of Dunmar, contains the city of [[Nayahar]] and the [[Nayan Floodplains]].
 
 Not part of Dunmar nor claimed by Dunmari rulers, but cutting through the territory of the realm, are the [[Yuvanti Mountains]], home to the [[dwarves]] of [[Nardith]]. 
