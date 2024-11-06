@@ -19,5 +19,5 @@ affiliations:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The ruler of [[Dunmar]] during and after the [[Second Hobgoblin War]].
+The ruler of [[Dunmar]] during and after the [[Northern War]].
 

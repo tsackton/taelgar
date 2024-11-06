@@ -3,7 +3,7 @@
 - [[Dwarven Driftglobe]] (uncommon minor item). Found two of these in the [[Dwarven Outpost (Raven's Hold)]], once belonging to the dwarves who lived there. 
 - Pearl of Power (uncommon major item).  A small magical pearl. Recovered from the belly of the roper fought in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]]. Probably Dwarven in origin. %%SECRET[1]%%
 - [[Shatterstorm]] (rare major item)
-- Spear of the War Leader. A Dunmari spear from the [[Second Hobgoblin War]], used by the gnoll leader in [[Raven's Hold]]. Traded to [[Havdar]] in exchange for the Ring of Jumping. 
+- Spear of the War Leader. A Dunmari spear from the [[Northern War]], used by the gnoll leader in [[Raven's Hold]]. Traded to [[Havdar]] in exchange for the Ring of Jumping. 
 - Elemental Gem. A gem used to summon a fire elemental, found in Raven's Hold and used in the battle against [[Agata]] and later the gnolls in [[Session 28 (DuFr)]] and [[Session 29 (DuFr)]]. 
 - Helm of Iron Will. [Mechanics](https://www.dndbeyond.com/magic-items/2341102-helm-of-iron-will). A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in [[Raven's Hold]]. Used to protect Delwath in battle against [[Agata]].  A helmet from the Drankorian era, enchanted to protect warriors in battle. Found in Raven's Hold. Used by [[Delwath]] in battle against [[Agata]] in [[Session 28 (DuFr)]], protected him from the frightening effects of her hag's eye. 
 - Block of adamantine. Found in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]], used to reinforce Delwath's [[Dunmari Heirloom Shield]], and then later to construct the phasing stone housing for Vindristjarna.
