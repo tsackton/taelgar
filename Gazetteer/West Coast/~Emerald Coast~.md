@@ -26,7 +26,7 @@ Notes from GDrive
     
 - Large southern port/trading city, one of the 2-3 largest in Chardon Empire outside Chardon
     
-- The northern slopes of the [[~Darba Coastal Mountains~]] are another significant mining area.
+- The northern slopes of the [[Chataan Mountains]] are another significant mining area.
 
 [[Yeraad]] river flows through here
 %%

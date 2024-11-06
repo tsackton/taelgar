@@ -2,7 +2,7 @@ Across Dunmar, the coming of the rains marks the turning of the seasons, the tra
 
 In the south and west, on the other side of the Yuvanti Mountains, it has been raining for weeks already. The rivers are in flood, the Nayan and the Shrev overflowing their banks and nourishing the fields and farms of western Dunmar. The grass and trees of the dry savannah are springing to life, as animals -- wild and domestic -- feast on the fresh shoots.
 
-In Darba, nearly due east of Tokra, the rains arrived a week ago. Here, the influence of the Nevos Sea modulates the dry season, and the small rivers that cascade from the foothills of the Yuvanti and Chataan Mountains to the coast flow year round. Still, the people of the Darba coast celebrate the Day of the Renewal, like all Dunmari, and the monsoon rains refresh the land here as well.
+In Darba, nearly due east of Tokra, the rains arrived a week ago. Here, the influence of the Nevos Sea modulates the dry season, and the small rivers that cascade from the foothills of the Yuvanti and [[Chataan Mountains]] to the coast flow year round. Still, the people of the Darba coast celebrate the Day of the Renewal, like all Dunmari, and the monsoon rains refresh the land here as well.
 
 Over the past week, the rains have moved slowly north, across the plains of central Dunmar. First, falling in the foothills of the Yuvanti mountains, and in the [[Copper Hills]] west of Tokra, feeding the rivers and dry washes that flow into the [[Hara]]. Then, reaching Tokra and [[Songara]] and bringing life to the dry, brown grasslands.
 

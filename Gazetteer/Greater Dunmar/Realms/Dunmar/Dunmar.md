@@ -30,9 +30,9 @@ Nonetheless, the Dunmari remain united by their worship of the [[Five Siblings]]
 
 Dunmar is the largest and most significant populated realm in the [[Greater Dunmar]] region, covering nearly 400,000 square miles, although much of that territory is sparsely settled or uninhabited desert.  
 
-On the western coast, the broad, flat [[Nayan Floodplains]] stretch between the [[Yuvanti Mountains]] and the [[Nevos Sea]], a largely flat expanse of subtropical and tropical savannah. Further north, the rocky river valleys of the [[Darba Highlands]] stretch between the northern edge of the [[Yuvanti Mountains]] and the [[~Darba Coastal Mountains~]]. 
+On the western coast, the broad, flat [[Nayan Floodplains]] stretch between the [[Yuvanti Mountains]] and the [[Nevos Sea]], a largely flat expanse of subtropical and tropical savannah. Further north, the rocky river valleys of the [[Darba Highlands]] stretch between the northern edge of the [[Yuvanti Mountains]] and the [[Chataan Mountains]]. 
 
-Inland, Dunmar is dominated by the [[Dunmari Basin]], a flat depression surrounded by the [[Copper Hills]], the [[~Darba Coastal Mountains~]], the [[Myraeni Gap]], the [[Sentinel Range]], and the high interior [[Garamjala Plateau]], now extremely arid and primarily [[Garamjala Desert|desert]].
+Inland, Dunmar is dominated by the [[Dunmari Basin]], a flat depression surrounded by the [[Copper Hills]], the [[Chataan Mountains]], the [[Myraeni Gap]], the [[Sentinel Range]], and the high interior [[Garamjala Plateau]], now extremely arid and primarily [[Garamjala Desert|desert]].
 
 ### Climate
 
@@ -55,7 +55,7 @@ Not part of Dunmar nor claimed by Dunmari rulers, but cutting through the territ
 
 The southern and eastern borders of Dunmar are dangerous wildlands. To the south, the jungles south of the [[Shrev]] are home to strange monsters and the occasional undead, and extensive fortifications along the river keep the border safe. To the east, dangers of the the [[Nashtkar]] and the vast [[Garamjala Desert]], part of the [[Desolation of Cha'mutte]], are kept from overrunning Dunmar by the divine grace of [[Shakun's Protection]] and the [[Shakun Mystai]]. 
 
-To the west, Dunmar is bordered by the [[Nevos Sea]], the [[~Darba Coastal Mountains~]], and the [[Myraeni Gap]], beyond which lie the islands of [[Illoria]], and the [[Chardonian Empire]]. 
+To the west, Dunmar is bordered by the [[Nevos Sea]], the [[Chataan Mountains]], and the [[Myraeni Gap]], beyond which lie the islands of [[Illoria]], and the [[Chardonian Empire]]. 
 
 To the north, the [[Sentinel Range]] forms the northern, and largely impassible, border of Dunmar, though several passes through the mountains made overland connections with the  [[Greater Sembara]] region and the [[Western Green Sea]].
 
