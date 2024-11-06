@@ -68,7 +68,7 @@ The subsequent interaction with the Vargald was a blend of celebration and strat
 - The party speculates on the dragons’ motives and the safety of the Vargald camp, considering whether they need to prepare for an immediate dragon attack.
 - Kenzo explores the camp, sensing a primal energy unique to the forest and observing that many Vargaldi appear as animals through his soul-sight.
 - Seeker uses stone sense to scout the camp, finding it to be a temporary, camouflaged settlement with no significant valuables or permanent structures.
-- Wellby learns from the halflings about a dragon patrolling the north bank of the Ket, discussing its size, behavior, and the halflings' knowledge of dragons.
+- Wellby learns from the halflings about a dragon patrolling the north bank of the [[Ket]], discussing its size, behavior, and the halflings' knowledge of dragons.
 - Dewalth questions the Vargald camp leaders Torsten and Zora about practical matters concerning the dragon, the Vargald's ability to trade with Ursk, and the value of dragon parts.
 - Kenzo engages in a deep conversation about the Zaria, animal protectors of the Vargald, revealing a kinship based on his own connections to animal spirits.
 - Wellby uses his ancestral memory to learn about the origins and history of the halflings in the area, discovering their long-standing relationship with the land and its magic.
