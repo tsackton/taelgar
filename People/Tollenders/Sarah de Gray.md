@@ -12,6 +12,8 @@ family: de Grey
 whereabouts:
 - {type: home, location: Duchy of Maseau}
 - {type: home, start: 1746, location: Tollen}
+dm_notes: color
+dm_owner: none
 ---
 # Sarah de Grey
 >[!info]+ Biographical Info  
