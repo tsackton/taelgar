@@ -13,7 +13,7 @@ typeOf: watershed
 %%%
 Tim: is the below all that's canonical ? more elsewhere?
 
-The river valley of the Yeraad and it's tributaries from the [[Elderwood]] and the [[~Darba Coastal Mountains~]]
+The river valley of the Yeraad and it's tributaries from the [[Elderwood]] and the [[Chataan Mountains]]
 #### Lizardfolk River Basin
 
 - Southern river has several large lizardfolk communities that operate somewhat outside the strictures of the Empire
