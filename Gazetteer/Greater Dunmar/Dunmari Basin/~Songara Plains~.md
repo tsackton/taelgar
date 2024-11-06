@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 typeOf: region
 whereabouts: Central Dunmar
 aliases: [plains of Songara]
-tags: [place, status/needswork/internal]
+tags: [place, status/needswork/internal, status/check/name]
 ---
 # The ~Songara Plains~
 >[!info]+ Information  
