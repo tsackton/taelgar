@@ -16,32 +16,32 @@ descTitle: Battle of the Doppelgangers
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
 > *In Taelgar: May 22, 1749 DR*
 > *On Earth: Tuesday Oct 29, 2024*
-> *Sapphire Tower, Drankor*
+> *Sapphire Tower, [[Drankor]]*
 
-The Dunmar Fellowship battles doppelgangers, culminating in victory over dark counterparts and a return to the skyship for recovery and planning.
+The Dunmar Fellowship battles doppelgangers, culminating in victory over their dark counterparts and a return to the skyship for recovery and planning.
 
 ## Session Info
 ### Summary
-- The Dunmar Fellowship executes a teleportation into the Sapphire Tower, engaging Bizarro Delwath.
-- Kenzo narrowly avoids a trap, while Delwath banishes Bizarro Delwath temporarily.
+- The [[Dunmar Fellowship]] teleports into the Sapphire Tower, engaging Bizarro Delwath.
+- [[Kenzo]] narrowly avoids a trap, while [[Delwath]] banishes Bizarro Delwath temporarily.
 - Upon Bizarro Delwath's return, a coordinated assault leads to his disintegration.
-- The party confronts dark versions of themselves, with Seeker's spell disrupting their foes.
-- Despite setbacks, the group retrieves the amulet and incapacitates Bizarro Wellby.
-- Kenzo delivers a flurry of blows, ultimately aiding in the disintegration of Bizarro Riswynn.
-- The party regroups on the skyship, planning their next steps and considering future threats.
+- Leaving the Sapphire Tower, the party confronts dark versions of themselves in an epic battle.
+- While [[Kenzo]] locks down Bizarro Wellby with stunning strikes, Bizarro Riswynn and Bizarro Seeker prove a difficult challenge.
+- [[Seeker]] corners Bizarro Seeker with a Rune of Irresistible Curiosity, and [[Wellby]] finally destroys Bizarro Riswynn with a lightning arrow. 
+- The party regroups on [[Vindristjarna]], planning their next steps and considering future threats.
 
 ### Timeline
-- (DR:: 1749-05-22), morning: Teleport to the Sapphire Tower of the Teeth of Drankor. Defeat Bizarro Delwath. Engage dopplegangers, and win. Return to Vindristjarna. 
+- (DR:: 1749-05-22), morning: Teleport to the Sapphire Tower of the Teeth of Drankor. Defeat Bizarro Delwath. Engage dopplegangers, and win. Return to [[Vindristjarna]]. 
 
 ## Narrative
 
-The party's assault on the corrupted temple in Drankor began with a carefully executed teleportation into the Sapphire Tower. Utilizing invisibility to their advantage, they engaged with Bizarro Delwath, a doppelganger guarding the tower's control panel. The initial skirmish was intense, with Kenzo narrowly avoiding a trap and Delwath landing a Banishing Smite to temporarily eliminate their foe. The group used the brief respite to study the tower's crystal controls and prepare for the doppelganger's return. When Bizarro Delwath reappeared, they launched a coordinated assault that ended with his disintegration, but not before he left a cryptic warning about an undefended base.
+The party's assault on [[Drankor]] began with a carefully executed teleportation into the Sapphire Tower. Utilizing invisibility to their advantage, they engaged with Bizarro Delwath, a doppelganger guarding the tower's control panel. The initial skirmish was intense, with [[Kenzo]] narrowly avoiding a trap and [[Delwath]] landing a Banishing Smite to temporarily eliminate their foe. The group used the brief respite to study the tower's crystal controls and prepare for the doppelganger's return. When Bizarro Delwath reappeared, they launched a coordinated assault that ended with his disintegration, but not before spoke a cryptic warning about how unprotected [[Vindristjarna]] was from enemy teleportation. 
 
-Following their success at the Sapphire Tower, the party shifted focus to another group of enemies—a formidable collection of dark versions of themselves. The battle began with Seeker's Rune of Psychic Disruption, and Kenzo quickly moved to engage Bizarro Wellby, who was taking shots from a hidden position. Despite eliminating the fiery metal golem and making progress against the clones, Bizarro Riswynn dispelled Simulacrum Delwath, turning the tide momentarily in favor of the clones. The party found themselves needing to regroup and adapt as they faced relentless counterattacks from their twisted counterparts.
+Following their success at the Sapphire Tower, the party shifted focus to the rest of the formidable dark versions of themselves. The battle began with Seeker's Rune of Psychic Disruption, and [[Kenzo]] quickly moved to engage Bizarro Wellby, who was taking shots from a hidden position. Despite eliminating the fiery metal golem and making progress against the clones, Bizarro Riswynn dispelled Simulacrum Delwath, turning the tide momentarily in favor of the clones. The party found themselves needing to regroup and adapt as they faced relentless counterattacks from their twisted counterparts.
 
-As the battle escalated, the Bizarro clones intensified their efforts, forcing the party to adapt on the fly. Delwath used Scatter to reposition the group, while Seeker employed his Rune of Irresistible Curiosity to charm Bizarro Seeker, reducing his threat. Despite significant setbacks—including the temporary blindness of both Delwath and Seeker—the group managed to keep Bizarro Wellby incapacitated and fought fiercely against the clones' attempts to regain control. The dark ladder and angel constructs were eventually neutralized, allowing the party to prepare for a final offensive.
+As the battle escalated, the Bizarro clones intensified their efforts, forcing the party to adapt on the fly. [[Delwath]] used Scatter to reposition the group, while [[Seeker]] employed his Rune of Irresistible Curiosity to charm Bizarro Seeker, reducing his threat. Despite significant setbacks—including the temporary blindness of both [[Delwath]] and [[Seeker]]—the group managed to keep Bizarro Wellby incapacitated and fought fiercely against the clones' attempts to regain control. The dark ladder and angel constructs were eventually neutralized, allowing the party to prepare for a final offensive, although again the taunts of the dopplegangers lingered, claiming that there was no [[Adamantine]] daggers to be found in [[Drankor]], and the party should chase [[Rai]] in [[Isingue]]. 
 
-The decisive moments of the battle saw the party focusing on Bizarro Riswynn and Bizarro Seeker. Delwath and Seeker worked in tandem to retrieve the amulet and incapacitate their foes. Kenzo's relentless attacks on Bizarro Wellby ensured he remained incapacitated, while Riswynn's healing magic kept the party on their feet. The final blow came when Wellby fired a Lightning Arrow, disintegrating Bizarro Riswynn and ending the battle. With the immediate threat eliminated, the exhausted party used the Rainbow Bridge to return to their skyship. They spent time recovering and planning their next steps, debating their future course—whether to pursue the black tree or to seek clues regarding Rise's last known location. With a renewed sense of purpose, they prepared for their next journey, hoping that the "getting advice" ritual would provide much-needed guidance for the challenges ahead.
+The decisive moments of the battle saw the party focusing on Bizarro Riswynn and Bizarro Seeker. [[Delwath]] and [[Seeker]] worked in tandem to retrieve the amulet and incapacitate their foes. [[Kenzo]]'s relentless attacks on Bizarro Wellby ensured he remained incapacitated, while [[Riswynn]]'s healing magic kept the party on their feet. The final blow came when [[Wellby]] fired a Lightning Arrow, disintegrating Bizarro Riswynn and ending the battle. With the immediate threat eliminated, the exhausted party teleported back to [[Vindristjarna]]. 
 
 ## Detailed Summary
 ### Assault on Drankor
