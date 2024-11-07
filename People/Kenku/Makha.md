@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person]
+tags: [person]
 campaignInfo: 
 - {campaign: dufr, person: Wellby, date: 1748-10-12, type: met}
 name: Makha

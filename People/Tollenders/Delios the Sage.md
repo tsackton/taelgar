@@ -11,6 +11,8 @@ gender: male
 affiliations:
 - Ancient and Honorable Guild of Philosophers
 whereabouts: Tollen
+dm_owner: none
+dm_notes: color
 ---
 # Delios the Sage
 >[!info]+ Biographical Info
