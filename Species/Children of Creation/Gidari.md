@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 typeOf: celestial
-tags: [species, species/celestial]
+tags: [species]
 partOf: Children of Belief
 pronunciation: gih-DAR-ee
 ---

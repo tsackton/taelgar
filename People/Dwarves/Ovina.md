@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/met, mc/minor, person,status/unknown]
+tags: [person,status/unknown]
 campaignInfo: []
 name: Ovina
 born:

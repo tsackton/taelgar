@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person/historical]
+tags: [person,historical]
 campaignInfo:
 - {campaign: dufr, type: "Read about", date: 1748-07-01, wParty: "<met:x> by <person> on <target> in [[Tokra]], [[Central Dunmar]]"}
 name: Ila
