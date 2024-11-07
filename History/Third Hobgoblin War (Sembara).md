@@ -6,6 +6,8 @@ DR_end: 1653-08
 typeOf: war
 whereabouts: Greater Sembara
 name: Third Hobgoblin War
+dm_owner: mike
+dm_notes: none
 ---
 # The Third Hobgoblin War
 >[!info]+ Information  

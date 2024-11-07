@@ -1,15 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/unknown]
-campaignInfo: []
+tags: [culture, status/check/tim]
 name: Te'kula
 typeOf: tribe
-ancestry: Deno'qai
+partOf: Deno'qai
+whereabouts: Elderwood
 ---
 # Te'kula
 >[!info]+ Information  
-> A [[Deno'qai]] tribe  
-> `$=dv.view("_scripts/view/get_Affiliations")`
+> A [[Deno'qai]] tribe based in the [[Elderwood]]
 
 A Deno'qai tribe who live in the [[Elderwood]]. 
 
@@ -20,3 +19,5 @@ Long hidden by the magic of [[Rai]] and the tanshi [[Aasimti]] in a pocket dimen
 - (DR:: 1724): [[Mezzar|Grimbaskal]] first attacked the [[Te'kula]] 
 - (DR:: 1748): The [[Te'kula]] are returned to the world after Grimbaskal's defeat
 %%^End%%
+
+%% Tim: cleaning up some status/unknowns, this seems done enough? %%

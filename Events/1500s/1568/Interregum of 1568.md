@@ -1,7 +1,4 @@
 ---
-tags: [event, status/unknown]
+tags: [event, status/stub]
 ---
-
-(stub)
-
 %% disagreement between Anne and Elaine over who should rule %%

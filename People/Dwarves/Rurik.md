@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, dufr/met_one, person, status/unknown]
-campaignInfo: []
+tags: [person, status/check/tim, status/metadata/header]
 name: Rurik
 born:
 species: dwarf
@@ -13,3 +12,5 @@ gender: male
 > A [[Dwarves|dwarf]] (he/him)
 
 [[Tak]]'s father, from [[Bleakhold]].
+
+%% Tim: anything missing other than header? %%
