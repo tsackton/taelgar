@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, item, magical]
+tags: [status/needswork/wip, item/magical]
 typeOf: dagger
 dm_notes: important
 dm_owner: tim
