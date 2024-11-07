@@ -16,6 +16,8 @@ whereabouts:
 - {type: away, start: 1748-04-13, end: 1748-06-07, location: Tokra }
 - {type: away, start: 1748-06-08, end: 1748-06-15, location: travelling to Karawa }
 - {type: away, start: 1748-06-15, end: 1748-06-22, location: Karawa }
+dm_owner: none
+dm_notes: color
 ---
 # Akan
 >[!info]+ Biographical Info  

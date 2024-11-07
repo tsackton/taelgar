@@ -4,6 +4,8 @@ tags: [place]
 name: Carlinshire
 typeOf: shire
 whereabouts: Addermarch
+dm_owner: none
+dm_notes: none
 ---
 # Carlinshire
 >[!info]+ Information  

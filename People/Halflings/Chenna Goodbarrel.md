@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, testcase]
+tags: [person, testcase]
 name: Chenna Goodbarrel
 born: 1688
 species: halfling
@@ -16,6 +16,8 @@ whereabouts:
 - {type: home, end: 1725, location: Sembara} # settled in Tollen in 1725 or earlier
 - {type: home, start: 1725, location: The Singing Fox}
 - {type: away, start: 1748-12-30, end: 1748-12-30, location: Vindristjarna}
+dm_owner: tim
+dm_notes: color
 ---
 # Chenna Goodbarrel
 >[!info]+ Biographical Info
