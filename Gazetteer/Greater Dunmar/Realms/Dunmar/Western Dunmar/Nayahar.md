@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 name: Nayahar
 typeOf: city
 ancestry: Dunmari
 created: 1557
 whereabouts: Western Dunmar
+dm_owner: tim
+dm_notes: none
 ---
 # Nayahar
 >[!info]+ Information
