@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, dufr/aware, status/unknown]
-campaignInfo: []
+tags: [person/historical, status/check/tim]
 name: Ila
 born:
 species: human
@@ -17,4 +16,6 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The commander of the eastern Dunmari army in Tokra during and after the [[Northern War]]. Involved in [[Exile of Fraternity of the Empty Moon]]. 
+
+%% Tim: cleaning up a few unknown tags; this page seems completish? %%
 

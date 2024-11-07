@@ -1,6 +1,7 @@
 ---
 tags: [status/stub, person]
 dm_owner: mike
+dm_notes: none
 ---
 
 %% twin sister of [[Hubert Moreau]] current baron of felburn %%

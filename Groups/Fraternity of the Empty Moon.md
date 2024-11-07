@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
-campaignInfo:
+tags: [organization, status/check/tim]
 name: Fraternity of the Empty Moon
 timelineDescriptor: Fraternity of the Empty Moon
 typeOf: cult
 ---
 # The Fraternity of the Empty Moon
->[!info]+ Information
+>[!info]+ Information  
+> A cult  
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%%  Tim: anything critical missing? %%
 
 The Fraternity of the Empty Moon is a cult of werewolves, dedicated to the mission of enhancing the power of the [[Mad One]] in Taelgar by creating and enhancing connections with the plane of [[Pandemonium]].
 
@@ -25,4 +27,4 @@ As of DR 1748, the cult is thought to be destroyed.
 - (DR:: 1748-04-11) *(Fraternity of the Empty Moon)*: Werewolves begin to slip across the border of [[Dunmar]], using the cover of refugees fleeing east to hide.
 - (DR:: 1748-04-24) *(Fraternity of the Empty Moon)*: The [[Fraternity of the Empty Moon]] arrives in [[Tokra]], and begins to set up a secret lair. 
 - (DR:: 1748-07-02) *(Fraternity of the Empty Moon)*: The [[Destruction of the Werewolf Cult]] by [[Dunmar Fellowship]]
- 
+

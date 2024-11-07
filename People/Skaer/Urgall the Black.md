@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/major, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-22, type: fought and killed}
 name: Urgall the Black
@@ -30,3 +30,5 @@ Urgall, known as Urgall the Black, was a Skaer outcast and exile, who turned to 
 Urgall was (is) an outcast from Skaer society. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered the [[Green Sea]], eventually turning to piracy, and pledging himself to a demon as a warlock.
 
 In DR 1748, he was trapped on the holy island of [[Vetta]] by [[Kaikkea]]'s curse, and was eventually [[Session 81 (DuFr)|killed]] by [[Dunmar Fellowship]]. 
+
+%% Tim: cleaning up some status/unknowns, this seems done enough? %%

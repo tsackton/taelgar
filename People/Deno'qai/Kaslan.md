@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, dufr/met_one, person, status/unknown]
-campaignInfo: []
+tags: [person, status/check/tim]
 name: Kaslan
 born: 1699
 species: human
@@ -15,5 +14,7 @@ whereabouts:
 > A [[Deno'qai]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%%  Tim: anything critical missing? %%
 
 Experienced in woodcraft; leader of the hunting camp [[Delwath]] first found after arriving in the north. 

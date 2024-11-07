@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [mc/background, person, status/unknown]
+tags: [person, status/metadata/header, status/check/tim]
 campaignInfo: []
 name: Sulfi Mahadra
 born:
@@ -12,5 +12,7 @@ whereabouts: Hamri
 # Sulfi Mahadra
 >[!info]+ Biographical Info  
 > A [[Humans|human]] (she/her)
+
+%%  Tim: anything critical missing? %%
 
 Known as the Queen of Ships, she lives with her partner Iesha on Glittercliff. Owns a large fraction of the fishing fleet of Hamri, and is the most important boat builder in the region

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/aware, status/unknown]
-campaignInfo: []
+tags: [person, status/check/tim]
 name: Jordo
 born: 1672
 species: human
@@ -17,6 +16,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%%  Tim: anything critical missing? %%
 The Godcaller of the [[Te'kula]], who found a [[Jade Piece of Rai's Hand]]. Refused to turn it over to [[Mezzar|Grimbaskal]], prompting Grimbaskal to attack and Rai and the tanshi [[Aasimti]] to work together to protect the [[Te'kula]] in a pocket dimension. 
 
 Some of his stories were recorded by [[Gnaeus]] in [[On the Lost People of the Forests]]. 
