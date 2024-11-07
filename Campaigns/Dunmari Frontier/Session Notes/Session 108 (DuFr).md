@@ -138,7 +138,7 @@ The party approaches a ruined manor and tower, encountering small dragon-like cr
 - Ghesh reveals that Ra'ghemdros is powerful and possesses all the shiny objects found on the island, making her temperamental when she feels her hoard is lacking.
 - Kenzo negotiates with Ghesh, promising valuable items in exchange for keeping their presence hidden and arranging a meeting with Megren, another dragonet who recently returned from the mainland.
 - Ghesh mentions that Megren now has her own tower, having brought back many treasures from the mainland, including the last piece of Rai's jade hand, and Kenzo senses Ghesh's desire to gain similar status.
-- To secure Ghesh's cooperation, Kenzo gives him a valuable golden circlet set with four green alexandrite gems (from Grimbaskal's hoard, although Ghesh pretends it is from a hidden ruin in the Awakened Jungle), promising more rewards in the future if Ghesh helps them meet Megren and keeps their presence hidden.
+- To secure Ghesh's cooperation, Kenzo gives him a valuable golden circlet set with four green alexandrite gems (from Grimbaskal's hoard, although Ghesh pretends it is from a hidden ruin in the [[Awakened Jungle]]), promising more rewards in the future if Ghesh helps them meet Megren and keeps their presence hidden.
 
 
 ### Megren and the Jade

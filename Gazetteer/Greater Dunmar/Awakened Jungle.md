@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Greater Dunmar
 typeOf: jungle
+dm_owner: tim
+dm_notes: important
 ---
 # The Awakened Jungle
 >[!info]+ Information  
