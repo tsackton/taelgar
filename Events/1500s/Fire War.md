@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: ['#event-source', status/unknown]
+tags: ['#event-source', status/check/tim]
 campaignInfo: []
 name: Fire War
 aliases: [Mavdyr's War]
@@ -11,7 +11,7 @@ DR_end: 1553-07-10
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-
+%% Tim: status/unknown cleanup, anything to add?  %%
 A short war between the Dunmari and a horde of orcs, trolls, and ogres led by the fire giant [[Mavdyr]], between DR 1552-53.
 
 The war began when Mavdyr's horde emerged from the east in the summer of DR 1552. [[Tokra]] was leveled, the defenses of the [[Hara]] river breached and overrun. 

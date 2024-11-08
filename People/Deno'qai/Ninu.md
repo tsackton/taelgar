@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, dufr/met_one, person, status/unknown]
+tags: [person, status/check/tim, status/metadata/header]
 campaignInfo: []
 name: Ninu
 born: 1703
@@ -16,4 +16,5 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: status/unknown cleanup, anything to add?  %%
 Chief of the largest of the [[Ko'zula]] villages; told [[Delwath]] the story of the [[Cha'mutte’s Shadow Armband|armbands of Cha’mutte]] and the lost tanshi.
