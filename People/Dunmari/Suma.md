@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Suma
 born: 1707
@@ -15,6 +15,7 @@ whereabouts: Karawa
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: status/unknown cleanup, anything to add? %%
 The priestess of the temple of [[Five Siblings|Five Siblings]] in [[Karawa]], a small institution often overshadowed by the [[Temple of Shakun]], but nonetheless an important focus of civic life and civil administration for the Karawa region. 
 
 Suma is a middle aged woman with dark, curly hair and soft, friendly features. She is a kind, generous person, welcoming of all, and genuinely interested in people, travelers and locals alike. Although a servant of all [[Five Siblings|Five Siblings]], she is particularly connected to [[Jeevali]] and deeply appreciates the [[Festival of Rebirth]].  

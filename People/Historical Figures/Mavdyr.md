@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, dufr/background, person, dufr/aware, status/unknown]
+tags: [person/historical, status/check/tim]
 campaignInfo: []
 name: Mavdyr
 born:
@@ -13,4 +13,5 @@ gender: male
 >[!info]+ Biographical Info  
 > A [[Giants|giant]] ([[Giants|fire giant]]) (he/him)
 
+%% Tim: status/unknown cleanup, anything to add? %%
 A fire giant, who came out of the east in the early days of the [[Blood Years]]. Defeated outside [[Tokra]] in the [[Fire War]]. 

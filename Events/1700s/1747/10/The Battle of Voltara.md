@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork, event-source, status/unknown]
+tags: [status/needswork, event-source]
 campaignInfo: []
 name: The Battle of Voltara
 ---

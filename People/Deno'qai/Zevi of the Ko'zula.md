@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, dufr/met_one, person, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Zevi
 born: 1734
@@ -16,4 +16,5 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: status/unknown cleanup, anything to add? %%
 Guide who brought [[Delwath]] to the Ko’zula village and later to meet [[Aristaea]] and [[Iascaire]].

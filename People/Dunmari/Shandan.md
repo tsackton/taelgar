@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/aware, status/unknown]
+tags: [person, status/check/tim]
 name: Shandan
 born: 1692
 species: human
@@ -13,10 +13,11 @@ pronunciation: Shun-dhun
 ---
 # Shandan
 *(Shun-dhun)*
->[!info]+ Biographical Info
-> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Biographical Info  
+> A [[Dunmar|Dunmari]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: status/unknown cleanup, anything to add? %%
 A charismatic leader of a warband based near [[Songara]]. 

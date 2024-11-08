@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
-campaignInfo: []
+tags: [person, status/check/tim]
 name: Hiyasa
 born:
 species: human
@@ -14,4 +13,6 @@ whereabouts: Mawar Confederacy
 > A Mawaran [[Humans|human]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Daughter of Orden, recently returned from 10 years away with a treasure map, possibly stolen from Chardon or Chardonians in some way. Promptly headed for one location, got stuck, and then rescued by the PCs.
+%% Tim: anything to add? %%
+
+Daughter of [[Orden]], recently returned from 10 years away with a treasure map, possibly stolen from Chardon or Chardonians in some way. Promptly headed for one location, got stuck, and then rescued by the PCs.
