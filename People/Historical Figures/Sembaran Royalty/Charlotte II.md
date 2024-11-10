@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/needswork/internal]
+tags: [historical, person, status/needswork/internal]
 name: Charlotte II
 born: 1624
 species: human

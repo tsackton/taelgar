@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person/ruler, historical]
+tags: [person, historical]
 name: Hugh of Sewick
 born: 1482
 species: human

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/cleanup/external]
+tags: [historical, person, status/cleanup/external]
 name: Robert I
 born: 1660
 species: human

@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
-campaignInfo: []
+tags: [status/check/tim, person]
 name: Umber
 born:
 species: human
@@ -16,4 +15,5 @@ whereabouts: Tokra
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: status/unknown cleanup, seemed ok to me %%
 A Dunmari suffering under the curse of lycanthropy caused by the [[Fraternity of the Empty Moon]], killed by the party in [[Tokra]]. 

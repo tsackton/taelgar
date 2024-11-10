@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/minor]
+tags: [person]
 displayDefaults: {wOriginU: ""}
 campaignInfo: 
 - {campaign: dufr, date: 1748-08-22, type: met, format: "<met:U> by <person> on <target> <current:2>"}

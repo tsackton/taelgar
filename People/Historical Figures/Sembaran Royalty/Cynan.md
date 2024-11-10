@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler]
+tags: [historical, person]
 name: Cynan
 born: 1538
 species: human

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Werewolf Prisoner
 born:
@@ -16,4 +16,5 @@ whereabouts: Tokra
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: Is there any reason for this page to exist? I'd suggest just deleting it%%
 A prisoner taken by the party and interrogated with magic in [[Session 39 (DuFr)]]. Later executed in [[Tokra]]. 

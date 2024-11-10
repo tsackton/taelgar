@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person/ruler, testcase]
+tags: [person, testcase]
 campaignInfo: []
 name: Arryn III
 born: 1702

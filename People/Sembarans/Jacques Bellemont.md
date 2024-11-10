@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person/ruler, status/update]
+tags: [person, status/update]
 born: 1659
 species: human
 ancestry: Sembaran

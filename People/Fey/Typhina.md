@@ -1,12 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/aware, status/unknown]
+tags: [person, status/check/tim]
 displayDefaults: {endStatus: 'killed by [[Agata]]'}
-campaignInfo: []
 name: Typhina
 died: 1
 species: fey
-ancestry:
 gender: female
 whereabouts:
 - {type: home, location: Amberglow}
@@ -17,4 +15,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A member of the court of the [[Cloudspinner]] and guardian of the Heartwood Grove. She was killed by [[Agata]], who later stole her identity while hiding in the [[Ring of the Warded Mind]].
+%% Tim: status/unknown cleanup, seemed complete enough to me but you might have stuff to add %%
+
+A member of the court of the [[Cloudspinner]] and guardian of the [[Heartwood Grove]]. She was killed by [[Agata]], who later stole her identity while hiding in the [[Ring of the Warded Mind]].

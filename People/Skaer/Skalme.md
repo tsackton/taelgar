@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person,  status/check/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-21, type: met}
 name: Skalme
@@ -19,6 +19,7 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 21st, 1748 in [[Antaka]], [[Skaerhem]] %%^End%%
 
+%% Tim: status/unknown cleanup, seemed ok to me %%
 Skalme is the Priestess of Fire, the divine protector of the elemental fire, the volcano known as  Kuaine (coo-ine-a), on the Skaer volcanic island of [[Antaka]]. She is a powerful divine magic user. 
 
 She is a very tall, dark skinned woman, with bright red facial tattoos in place of the blue that most priests wear. 

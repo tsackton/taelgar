@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Revaka
 born:
@@ -15,6 +15,7 @@ whereabouts:
 > A [[Hobgoblins|hobgoblin]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: status/unknown cleanup, seemed ok to me %%
 A hobgoblin trapped in the [[Mirror of Soul Trapping]]. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
 
 %%SECRET[1]%%

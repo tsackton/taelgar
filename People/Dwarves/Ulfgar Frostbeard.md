@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Ulfgar Frostbeard
 born: 1599
@@ -16,6 +16,8 @@ whereabouts: Chardon
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Tim: status/unknown cleanup, seemed ok to me %%
 
 A dwarven scholar and theoretical metaphysicist, on the Faculty of Metaphysics at the [[University of Chardon]].  Author of [[The Lore of the Feywild]]. 
 
