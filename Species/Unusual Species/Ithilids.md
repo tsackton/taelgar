@@ -1,6 +1,6 @@
 ---
 aliases: [Mindflayer, Mind Flayer, Illithid]
-tags: [species, status/unknown]
+tags: [species, status/stub]
 ---
 
 # Illithids

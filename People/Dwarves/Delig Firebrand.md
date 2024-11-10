@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/met_one, person, dufr/minor, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Delig Firebrand
 born:
@@ -15,4 +15,5 @@ whereabouts:
 > a [[Dwarves|dwarf]] (he/him)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Tim: status/unknown cleanup, seemed ok to me %%
 The cousin of [[Hagrim]], trapped in [[Morkalan]] for many years. During that time lost much of his memory and mind. Known as the Mad Priest.

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person]
+tags: [person]
 campaignInfo: 
 - {campaign: dufr, date: 1748-06-30, type: met}
 name: Wes Strongbones

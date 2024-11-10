@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler, status/unknown]
+tags: [historical, person, status/unknown]
 name: Aatmaj Dasa
 born:
 species: human

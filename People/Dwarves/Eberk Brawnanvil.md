@@ -1,11 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, dufr/met_one, person, status/unknown]
-campaignInfo: []
+tags: [person, status/check/tim]
 name: Eberk Brawnanvil
 born: 1502
 species: dwarf
-ancestry:
 gender: male
 affiliations: [Brawnanvils]
 whereabouts:
@@ -18,6 +16,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Tim: status/unknown cleanup, seemed ok to me %%
 
 An elder [[Dwarves|dwarf]], a respected member of the Brawnanvil clan and priest of the [[Bahrazel]]. He was born in the [[Sentinel Range]] before the [[Great War]] and grew up in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]], but fled south during the [[Great War]]. He now lives with many other Brawnanvils in [[Tharn Todor]]. 
 %%^Campaign:DuFr%%

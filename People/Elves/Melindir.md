@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/minor, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo:
 - {campaign: dufr, date: 1749-01-02, type: met}
 name: Melindir
@@ -21,6 +21,7 @@ pronunciation: meh-LIN-deer
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on January 2nd, 1749 in the [[Tollen|Free City of Tollen]] %%^End%%
 
+%% Tim: status/unknown cleanup, anything to add? %%
 Melindr is the Ambassador to [[Tollen]] for the elven lands of [[Orenlas]].
 
 ![[melindir.png]]

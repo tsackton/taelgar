@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person/ruler]
+tags: [person]
 campaignInfo: []
 name: Elaine II
 born: 1673
