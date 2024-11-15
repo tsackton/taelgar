@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/check/tim]
+tags: [person, historical]
 name: Uzgash
 born:
 species: orc
@@ -13,5 +13,5 @@ affiliations: [{org: People of the Rainbow, type: primary}]
 > An [[Orcs|orc]] (he/him), of the [[People of the Rainbow]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% Tim: status/unknown cleanup, anything to add? %%
 A revered leader of the [[People of the Rainbow]], who recovered the [[Cloak of Rainbows]] and founded the kingdom of [[Xurkhaz]].
+

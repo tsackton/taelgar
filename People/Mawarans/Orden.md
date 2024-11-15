@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
-campaignInfo: []
+tags: [person]
 name: Orden
 born:
 species: human
@@ -14,5 +13,8 @@ whereabouts: Hamri
 > A Mawaran [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim: anything to add? %%
-A friend of Trok's, a beach bum who lives in a shack north of the main port of Hamri. Short and stocky, great bushy hair and beard, piercing proud eyes. Many piercings. Trok and Orden sometimes work salvage together, and often smoke gatza on the beach late at night, each seeking their own solace. Came from wealth, but something happened. The father of [[Hiyasa]].
+Orden is a beach bum of sorts, who lives in a shack on the beach,  north of the main port of [[Hamri]]. While he came from wealth, something happened that he refuses to talk about, and he now ekes out a living on salvage and what fish he can catch. He is short and stocky, with great bushy hair and a bushy beard, with many piercings and proud eyes. 
+
+He is a friend of [[Trok]]; they often work salvage together, and sometimes smoke [[gatza]] on the beach late at night, each seeking their own solace. 
+
+He is also [[Hiyasa]]'s father. 
