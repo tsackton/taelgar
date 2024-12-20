@@ -26,5 +26,12 @@ A fire spirit, the essence of the volcano, also called Ember, or Sugarra in the 
 
 - In DR 1748, [[Azta Lekua]] was thrown out of balance by the presence of [[Motua]], a wounded [[Gidari]]. Somi-nai fled his home as invaders from the [[Elemental Plane of Fire]] threatened to overwhelm the volcano. The crisis was eventually averted thanks to the intervention of [[Kenzo]], [[Enari]], and [[Izzarak]].
 
-%%SECRET[1]%%
+%%SECRET
+## Roleplaying Notes
+
+- As an elemental force, Somi-nai possesses emotions and intentions that are deeply tied to the natural world. His moods can reflect the current state of the jungle and its many inhabitants.
+- While he embodies the rejuvenating properties of volcanic ash, he is equally symbolic of the destructive power of fire and molten lava. It's this duality that defines his character.
+- Communication with Somi-nai might require unique rituals or elemental mediums, given his ethereal nature.
+- Powerful with Ohana ki
+%%
 

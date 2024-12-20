@@ -30,4 +30,10 @@ Not well regarded by of the party's contacts in Chardon, considered a snob and s
 
 Favors fireballs in combat. 
 
-%%SECRET[1]%%
+%%SECRET
+Evoker wizard, historian. Believes himself to be doing what is best for the knowledge of the world, and preventing possible devastation. 19th century English colonialism attitude, paternalistic almost, all the others are too careless and stupid and we need to collect knowledge and information only from the pure and true.
+
+Casian, a short Chardonian man, constantly in motion and filled with nervous energy, wearing stained traveling gear under white robes for protection from the harsh sun. Short dark hair, clean shaven, brown eyes, carried a number of books and notes that he was constantly pouring over. Didn’t talk much except to argue.
+
+[https://www.dndbeyond.com/profile/Green_Zebra/characters/70079298](https://www.dndbeyond.com/profile/Green_Zebra/characters/70079298)
+%%

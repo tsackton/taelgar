@@ -22,4 +22,6 @@ The city itself is a walled coastal settlement, where foreigners are prohibited.
 
 The city is known for strange goods from the north, including furs, hide, and monster parts. Most prized of all is dragon hide, which is sold for exorbitant prices to foreign traders. 
 
-%%SECRET[1]%%
+%%SECRET
+Praznitsky is the western of the two central trading cities
+%%

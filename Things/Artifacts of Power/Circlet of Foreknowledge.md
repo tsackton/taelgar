@@ -14,4 +14,6 @@ ancestry: elven
 
 A circlet set with a single white gem that supposedly gives perfect foreknowledge, known from elven lore but unclear if it is real or mythical. 
 
-%%SECRET[1]%%
+%%SECRET 
+Probably mythical, but haven't decided yet
+%%

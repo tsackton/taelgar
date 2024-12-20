@@ -15,4 +15,6 @@ whereabouts: Ursk
 
 The sister of [[Radomir]]. 
 
-%%SECRET[1]%%
+%%SECRET
+probably a good contact for the party - mid level, decent but not overly strong wizard
+%%

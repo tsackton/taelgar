@@ -12,4 +12,6 @@ whereabouts: Elemental Plane of Fire
 
 %%efreeti rumored to be traveling with Frankar%%
 
-%%SECRET[1]%%
+%%SECRET
+some secret information here
+%%

@@ -34,7 +34,75 @@ The fields: To the southeast of town, some small scale agriculture provides a bi
 
 ![[karawa-map.png]]
 
-%%SECRET[1]%%
+%%SECRET
+
+NOTES
+Small village. Houses of adobe / mud brick, except a few bigger or more important ones of sandstone. Colors browns and some ochre. Lots of awnings of variously colored cloth, lots of horses and goats
+
+Now in a sorry state as much of the town is burnt, rubble, or some of both.
+
+## History
+
+Prior to the shattering of the land, this was the northwestern corner of Dunmar, a prosperous and fairly densely populated area, largely not farmed but fertile pastureland and the origin of the famed Dunmari horses.
+
+A major trade road ran east/west through this area, connecting Chardon and Sembara through Dunmar. This was not a heavily defended route in peacetime, but during the fighting in the Great War, incursions from the north (especially the hilly area just south of the mountains) made the trade road the de facto northern border of Dunmar, and a number of semi-permanent forts were constructed to house armies in the field, often near sites of roadside inns or waystations along the road.
+
+A major fort was constructed east of Gomat during the early years of the Great War, and was the site of a significant victory by the Dunmari, until it was abandoned late in the war during the chaos of the shattering.
+
+Several smaller forts were established along the entire route, and many were sites of frequent skirmishes.
+
+## The Mesa
+
+The most notable landmark of Karawa is the great [[Red Mesa]], rising six hundred feet or more above the town and the oasis it is built around.
+
+The mesa itself is quite old, dating almost to the founding of Dunmar, for it represents the goddess Shakun, and is in some sense her representation on earth.
+
+There has always been a holy spring here, a place that people said could show you glimpses of dreams and faraway visions of possible futures, guarded and protected by a small Mystery Cult dedicated to Shakun.
+
+After the Shattering, this grew to much greater importance, as Shakun's protection extended slowly to encompase the entire eastern border of Dunmar, from the Yuvanti to the Sentinels
+
+## Locations
+
+The Temple of Shakun: a large, imposing structure carved out of the side of the red standstone mesa on the southern part of town. The temple itself stretches at least partially into the cliff itself, but you have never been in that part of the structure. Non-initiates are only allowed access to a few outbuildings, and to the chapel to Shakun facing the oasis. The chapel is beautiful - polished sandstone floors, and tile mosaics abound - but is a place primarily for prayer and does not seem to hold any secrets. The Mystai of Shakun do, however, sell and barter dusts and powders that are known to possess magical properties. The temple, strangely, seems more weathered and aged than the rock of the mesa itself.
+
+The Oasis: The central feature of the town is a small oasis. Over the years a marble pool and short wall has been built around it, allowing water to be drawn off for various uses. The reliability and purity of the water here has established Karawa as a waypoint and gathering place for the Dunmari. Palm trees provide shade and shelter and make the oasis square a place where people linger.
+
+The market square: On the northwestern edge of town, there is a large market square, which stands empty most of the year, filling to capacity only during the large markets after the Festival of Rebirth, at least this is what you've been told. Beyond it, cleared scrublands and pastures serve as a temporary home for hundreds of herders who return for the Festival of Rebirth, or so you've heard.
+
+The Temple of the Five Siblings: Although the Temple of Shakun is the larger draw in Karawa, a small temple to the Five Siblings stands on the eastern side of town, facing a small public square. The temple itself is plain, but well-maintained.
+
+The Council of Elders: Standing across a small public square from the Temple of the Five Siblings is a circular, dome shaped building that is the main public building in Karawa. This space serves as the council chambers where the council of elders meets to deliberate, and the square in front is a place for public debate. Judgements are issued here by the council.
+
+The caravanserai: On the northern outskirts of town stands a caravanserai, a large square building with a open courtyard, rooms for travelers, and space for merchants and animals. This is a center of commence in the village when the market is deserted, and many things can be acquired from Ikram, the proprietor.
+
+The village: The village itself is mostly small houses of adobe and mud, facing on narrow streets, with shade provided by colorful awnings. A few artisans and scattered shops line the streets facing the caravanserai, including a tea house which you live above, and a blacksmith.
+
+The fields: To the southeast of town, some small scale agriculture provides a bit of extra food, beyond what the herds can provide and what can be traded with pastoralists passing through. Crops that require little water and lots of heat do best, although the oasis feeds irrigation channels here that allows crops to thrive. Dates and honey are a particular delicacy, being used to make wine and desserts.
+
+## Current Day
+
+Karawa suffered greatly in the gnoll attacks in April 1748. Many buildings were destroyed.
+
+#### History
+
+Prior to the shattering of the land, this was the northwestern corner of [[Dunmar]], a prosperous and fairly densely populated area, largely not farmed but fertile pastureland and the origin of the famed Dunmari horses.
+
+A major trade road ran east/west through this area, connecting [[Chardon]] and Sembara through [[Dunmar]]. This was not a heavily defended route in peacetime, but during the fighting in the [[Great War]], incursions from the north (especially the hilly area just south of the mountains) made the trade road the de facto northern border of [[Dunmar]], and a number of semi-permanent forts were constructed to house armies in the field, often near sites of roadside inns or waystations along the road.
+
+A major fort was constructed east of [[Gomat]] during the early years of the [[Great War]], and was the site of a significant victory by the Dunmari, until it was abandoned late in the war during the chaos of the shattering.
+
+Several smaller forts were established along the entire route, and many were sites of frequent skirmishes.
+
+#### The Mesa
+
+The most notable landmark of Karawa is the great [[Red Mesa]], rising six hundred feet or more above the town and the oasis it is built around.
+
+The mesa itself is quite old, dating almost to [[Founding of Dunmar]], for it represents the goddess [[Shakun]], and is in some sense her representation on earth.
+
+There has always been a holy spring here, a place that people said could show you glimpses of dreams and faraway visions of possible futures, guarded and protected by a small Mystery Cult dedicated to [[Shakun]].
+
+After the Shattering, this grew to much greater importance, as [[Shakun]]'s protection extended slowly to encompase the entire eastern border of [[Dunmar]], from the Yuvanti to the Central Mountains.
+%%
 
 
 

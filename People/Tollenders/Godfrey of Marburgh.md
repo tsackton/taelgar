@@ -20,4 +20,10 @@ whereabouts:
 
 Godfrey grew up in a small village in [[Sembara]]. In his teenage years, it became obvious that he had a powerful and unusual connection to [[the Sibyl]]. He traveled to [[Embry]], and then later to [[Tollen]], where he stayed. 
 
-%%SECRET[1]%%
+%%SECRET
+
+Serious and dedicated to the Sibyl. Will pray a lot. Can cast up to 6th level divine spells. 
+
+Serious man, deeply religious. Will not cast Legend Lore without knowing the purpose. Will ask for a sizable donation to the temple in exchange (probably ~1000 gp, which includes the cost of the incense). 
+
+%%

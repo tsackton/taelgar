@@ -24,7 +24,9 @@ image: amil-small.jpg
 
 ![[amil-final.jpg|right|400]]A young monk, in training as an apprentice of the [[Order of the Awakened Soul]]. Fit, tanned, and cheerful, even when undertaking challenging or unsettling tasks. Lives with his masters, [[Pava]] and [[Avaras]], on the edge of the [[Garamjala Desert]] in the blasted plains. 
 
-%%SECRET[1]%%
+%%SECRET
+*Roleplaying: Kind of like the young priest at the end of Chocolat. Cheerful, looks for the good in people, optimistic about his work, genuinely wants to save the souls of the dead.* 
+%%
 ## Events
 - (DR:: 1748-04-27) *(Amil)*: Arrives in Bas Udda to tend the unburied dead from the gnoll attacks
 - (DR:: 1748-04-29) *(Amil)*: Meets [[Havdar]] and [[Dunmar Fellowship]], who aid him in his task. 

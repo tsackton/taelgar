@@ -9,4 +9,8 @@ species: elemental
 > An [[Elementals|elemental]]
 
 
-%%SECRET[1]%%
+%%SECRET
+A dao who ruled a small kingdom in Mawar pre-Downfall, during the early age of human settlement in the north.
+
+His tomb/memorial is near Hamri.
+%%

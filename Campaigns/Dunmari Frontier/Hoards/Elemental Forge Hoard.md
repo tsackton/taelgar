@@ -23,22 +23,22 @@ The treasure recovered from the [[Elemental Forge]].
 	- 16 heavy silver bars, each weighing 5 pounds and worth 25 gp (total value 500 gp)
 	- A well-constructed set of jeweler’s tools, and material to stock a jeweler’s workshop recovered from the workshop shelves. 
 - Four projects in various states of completion recovered from the jeweler's workshop at the Elemental Forge. All would require further finishing work before being enchanted or sold. 
-	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty %%SECRET[1]%%
-	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished %%SECRET[2]%%
-	- A finely engraved platinum ring set with a tiny but perfect sapphire %%SECRET[3]%%
-	- A silver tiara set with moonstones %%SECRET[1]%%
+	- A delicate gold necklace with a pendant setting designed to hold a gemstone, but empty %%SECRET rare art object%%
+	- A pair of silver bracelets, one of which has an intricate set of etched symbols, the other looks half-finished %%SECRET uncommon art object%%
+	- A finely engraved platinum ring set with a tiny but perfect sapphire %%SECRET very rare art object%%
+	- A silver tiara set with moonstones %%SECRET rare art object%%
 ### Gemstones
-- 16 uncut and unpolished gemstones (value would increase if properly cut), taken from the jeweler's workshop at the Elemental Forge %%SECRET[5]%%
-	- Two ruby (Deep red, radiant glow) %%SECRET[6]%%
-	- Three garnet (Dark red, glassy appearance) %%SECRET[7]%%
-	- Two peridot (Bright green, light-catching sparkle) %%SECRET[8]%%
-	- One opal (Multicolored, mystical fire) %%SECRET[9]%%
-	- Two citrine (Yellow to orange, sunny and bright) %%SECRET[7]%%
-	- Three topaz (Golden yellow, shimmers in light)  %%SECRET[9]%%
-	- Two onyx (Black, deep and opaque) %%SECRET[7]%%
-	- One lapis lazuli (Blue with gold flecks, royal appearance) %%SECRET[8]%%
+- 16 uncut and unpolished gemstones (value would increase if properly cut), taken from the jeweler's workshop at the Elemental Forge %%SECRET all inferior, unless cut%%
+	- Two ruby (Deep red, radiant glow) %%SECRET very rare%%
+	- Three garnet (Dark red, glassy appearance) %%SECRET common%%
+	- Two peridot (Bright green, light-catching sparkle) %%SECRET uncommon%%
+	- One opal (Multicolored, mystical fire) %%SECRET rare%%
+	- Two citrine (Yellow to orange, sunny and bright) %%SECRET common%%
+	- Three topaz (Golden yellow, shimmers in light)  %%SECRET rare%%
+	- Two onyx (Black, deep and opaque) %%SECRET common%%
+	- One lapis lazuli (Blue with gold flecks, royal appearance) %%SECRET uncommon%%
 ### Components
-- Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. %%SECRET[14]%%
+- Two tuning forks. One is attuned to the elemental plane of air; the other is attuned to an unknown plane. These can be used as part of the plane shift spell or other magic. %%SECRET second tuning fork is attuned to Mechanus, the plane of order, and the counterpoint to Limbo the plane of chaos%%
 - Eight dragon scales, red 
 - Eternal ice
 - Spectral prism

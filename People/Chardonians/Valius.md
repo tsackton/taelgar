@@ -25,4 +25,4 @@ whereabouts:
 
 %% cleanup header, copy DM notes, reformat text %%
 
-A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[Fausto]]'s curse.
+A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[People/Chardonians/Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[People/Chardonians/Fausto]]'s curse.

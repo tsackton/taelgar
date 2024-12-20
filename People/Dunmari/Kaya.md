@@ -20,4 +20,6 @@ whereabouts:
 %% Tim: anything to add? %%
 A young Dunmari woman, trapped for many, many years as [[Agata]]'s chair. 
 
-%%SECRET[1]%%
+%%SECRET
+[[Shandar]]'s daughter
+%%

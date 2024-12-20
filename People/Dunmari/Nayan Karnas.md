@@ -26,4 +26,10 @@ whereabouts:
 
 The current Samraat of [[Dunmar]], of the Nayan dynasty. Brother to [[Sura]], whom he thought dead. 
 
-%%SECRET[1]%%
+%%SECRET
+Current ruler of Dunmar.
+
+[[Havdar]] does not really like or respect him. Refused to send troops east of the [[Hara]] river, essentially abandoning east Dunmar.
+
+More detail in the [Dunmar History](https://docs.google.com/document/d/1xTWukGVflZd38A2RJGZmSiGKZMCucFRUyeOSXppSMk0/edit) doc.
+%%

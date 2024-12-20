@@ -14,4 +14,10 @@ dm_owner: tim
 
 The source of all arcane magic in Taelgar; creates ley lines where its energy comes close to the material plane. Ofter describes as the chaotic sea on which all of the multiverse rests. 
 
-%%SECRET[1]%%
+%%SECRET
+
+See [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]] for important context.
+
+Connects to the Ethereal plane? Exact planar geometry is a little unclear
+
+%%

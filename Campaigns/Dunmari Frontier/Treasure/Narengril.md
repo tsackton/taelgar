@@ -26,4 +26,6 @@ whereabouts:
 Found by the [[Dunmar Fellowship]] in [[Grimbaskal's Hoard]], and now used by [[Delwath]]
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+Originally enchanted by elves in [[Alcarinque]] to support missions to attack fiends in the Nine Hells and the Abyss. Designed to allow safe rests as well as high damage. Would have been used by a commander or general in an elvish army. 
+%%

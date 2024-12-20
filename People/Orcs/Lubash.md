@@ -40,4 +40,13 @@ Lubash has a pale green complexion and is bald. His features are striking, chara
 - Came to power in DR 1745 after his older brother's family was killed by hill [[Giants]].
 - In DR 1748-1749, led the [[Orcs]] of [[Xurkhaz]] in the war against [[Grash]], aided by [[Dunmar Fellowship]]
 
-%%SECRET[1]%%
+%%SECRET
+## Roleplaying Notes
+
+- Exhibits an intense pride in [[Xurkhaz]].
+- Displays a profound mistrust for any gods.
+- Is highly protective, almost paternal, towards his nephew [[Uzgul]].
+- As a leader who came into power unexpectedly and late in life, Lubash is deeply concerned about the future of [[Xurkhaz]] after his reign. He may seek alliances or solutions to ensure the kingdom's stability. This also plays into his protectiveness towards his nephew.
+- Speaks Common, Sylvan, Orcish, and Giant.
+
+%%

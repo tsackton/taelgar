@@ -21,4 +21,6 @@ whereabouts:
 
 A hobgoblin who has been trapped in the [[Mirror of Soul Trapping]] for centuries. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
 
-%%SECRET[1]%%
+%%SECRET
+fairly parochial, not particularly interested in expansionism but wants to be an absolute ruler of a small kingdom
+%%

@@ -33,4 +33,10 @@ Felt forced to try to steal from party in [[Session 44 (DuFr)]], but when given 
 
 ![[marcella.png|500]]
 
-%%SECRET[1]%%
+%%SECRET
+Marcella, a nondescript Chardonian woman, short brown hair and a plain face, but the most open and friendly of the group. An archer, wearing well-tended leather armor under a traveling cloak. [ranger]
+
+She has a similar backstory to Vola. Knew Hektor before his injury, and needed money and a way out of the lower classes, so joined up when learned the Open Scroll was hiring. Now trapped - but unwiling to leave without figuring out how to rescue Hektor.
+
+[https://www.dndbeyond.com/profile/Green_Zebra/characters/69983113](https://www.dndbeyond.com/profile/Green_Zebra/characters/69983113)
+%%

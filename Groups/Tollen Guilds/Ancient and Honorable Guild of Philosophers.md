@@ -37,4 +37,23 @@ The Ancient and Honorable Order of Philosophers maintains a guild hall in [[Skep
 
 - [[Delios the Sage]], an elderly scholar with a magic scroll that seems to allow querying information from some mysterious source
 
-%%SECRET[1]%%
+%%SECRET
+Magic, in Taelgar, is powered by the plane of magic. To create an effect requires a sacrifice of something. For arcane magic users, this is spell slots. This is also how Chardon can power stuff with chalyte, and why extraplanar weak spots work to power magic item creation, since there is tons of excess energy flowing in that can be sacrificed. 
+
+Magic items themselves, of course, are also batteries, in a sense. The rarer and more powerful the item, the more energy it stores. 
+
+Of course, ripping apart magic item to release and use the energy stored within is far from trivial. In theory, it should be impossible to actually use the energy, because it will be instantly absorbed by the plane of magic itself. 
+
+The philosopher's guild has figured out a way around this. Specifically, rather than destroy magic items directly, they have found a way to feed magic items to the plane of magic. 
+
+The plane of magic itself has a kind of consciousness, and a kind of memory. Everything that has every happened is reflected in the chaos of pure magic. There are no gods one can pray to here, or anything so simple. 
+
+However, the philosphers have learned the trick of merging with these entites, and feeding them magic, to ask questions that no one could know but them. 
+
+So when you give a magic item to them, what happens is:
+1. one of the philosphers takes that item and feeds it to the plane of magic, in the process turning into an aspect of some kind of alien personality generated from magic
+2. the now merged philosopher directs the thoughts of the magic entity to see and hear the events they need to see and here to answer the quetion
+3. the philosphers force the. magic entity back to the plane of magic
+
+This is a dangerous process that often results in psychosis, but can reveal practically any information that has ever existed, at least on taelgar, the echo realms, and the elemental planes. the spirit realms, beyond the veil of the land of the dead, are not visible to the plane of magic. 
+%%

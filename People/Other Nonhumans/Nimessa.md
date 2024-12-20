@@ -17,4 +17,6 @@ whereabouts: Elemental Plane of Water
 
 Nimessa is a marid summoned and controlled by [[Azar the Lost]], compelled to steal a fragment of the [[Sentient Ocean]]. After fulfilling her command, she vanished, presumably returning to her native plane. 
 
-%%SECRET[1]%%
+%%SECRET
+Angry that this was forced upon her and will seek revenge when can (1001 days from July 1747).
+%%

@@ -28,7 +28,13 @@ Orcs are tightly bound to, and cursed by, [[Thark]], the embodied god of war wit
 
 Orcish religion, the manifestation of [[Thark]]'s will in the world, glorifies strength and resolving conflicts through violence. But the real power of [[Thark]]'s curse is enforced by a mysterious rumored ritual known by many names, and often referred to as the Blood Oath of the Crimson Blade by human scholars. While few details of this ritual are known to non-orcs, it is rumored that this ritual, performed on all newborn orcs, infuses them with the strength and fire of [[Thark]]'s will. Those who cannot or will not accept the curse of [[Thark]] do not survive the ritual. 
 
-%%SECRET[1]%%
+%%SECRET
+
+In the malevolent rite known as the "Blood Oath of the Crimson Blade," a dark shaman takes up a blade soaked in the unholy essence of [[Thark]] and tainted by the blood of fallen enemies. With this accursed weapon, the shaman slices the palm of the newborn, drawing blood as a manifestation of life destined for eternal conflict. This sanguine essence is mingled with soil from a desecrated battlefield, a place where pointless massacres have occurred. The shaman then casts the unholy blend into a balefire, chanting ominous invocations that reverberate with the screams of tormented souls. As the fire devours the offering, a foul miasma rises to the heavens, forging a malefic bond between the newborn and [[Thark]]. From this moment, the infant is bound to a life of insatiable violence, forever tainted by [[Thark]]'s corrupting influence.
+
+Once tied to [[Thark]], breaking the connection is very hard, but if the ritual is not performed then the connection never forms - so most ‘free orcs’ are those who were born in unusual circumstances that didn’t involve the standard ritual. This also allows free orcs to perpetuate themselves, by stopping the ritual.
+
+%%
 ## Unchained Orcs
 Rumors circulate throughout Taelgar of unchained orcs, free orcs that have broken the bounds of [[Thark]]'s curse, and live without the burning fire of [[Thark]]'s divine will driving them to ceaseless violence.
 
@@ -36,5 +42,14 @@ The most famous of these orcs are the [[People of the Rainbow]], living in the d
 
 Free orcs live in the constant shadow of [[Thark]]'s hunters. [[Thark]] watches over his orcs, driving them to fight each other, bringing strength to the victors. But none are more hated by [[Thark]]'s orcs than those who have broken free: any tribe that tries to turn from [[Thark]]'s way is quickly subject to unceasing attacks until they are defeated and subjugated, unless they can find a way to hide from [[Thark]]'s probing eyes. 
 
-%%SECRET[2]%%
+%%SECRET
+
+Other ideas for free orcs from ChatGPT:
+
+The Ironwood Clan: Living deep within the Ironwood Forest, these orcs are adept at woodcraft and have become guardians of nature. Having eluded the ritual binding to [[Thark]], they've sought solace in the whispers of the forest and the teachings of an ancient, nature-based faith. They have druidic shamans who perform rituals under great oak trees to celebrate life, growth, and the changing of seasons. Despite their peaceful ways, they are formidable warriors when their lands are threatened.
+
+The Sundered Chain: This community of Free Orcs originated from escaped slaves and gladiators who overthrew their oppressors. Rejecting [[Thark]] and all forms of tyranny, they have formed a commune in the desert wastelands where no one willingly goes. They have a council of elders who were among the first to break their chains, both literal and metaphoric. They are fierce proponents of freedom and will fight to the death to prevent any from suffering under enslavement.
+
+The Nomads of the Misty Vale: These orcs live in the valley mists of a mountain range, where they herd domesticated giant spiders. They broke free from [[Thark]]’s influence due to a mysterious event involving the appearance of a strange celestial body visible only from their valley. Their society places great importance on storytelling, with a strong oral tradition that aims to recount every important event, so that future generations never forget the price of freedom. The orcs of this community specialize in weaving silk armor and crafting intricate jewelry from the materials they harvest.
+%%
 

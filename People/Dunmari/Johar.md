@@ -37,6 +37,22 @@ whereabouts:
 
 Johar is a confidant and close friend of [[Kenzo]]'s from the [[Lakan Monastery]] in [[Tokra]]. He works in the [[Tokra]] [[Archives]], primary interested in documenting the miracles of [[Laka]], and the history of the [[Lakan Monastery]] and the community there. 
 
-%%SECRET[1]%%
+%%SECRET
+## Chronology
+- Leave Tokra Jul 16 with party
+- Arrive in Darba Aug 8, board ship
+- About 2 1/2 weeks by boat to get to Nayahar; arrive Nayahar Aug 27; send letter to Tokra which doesn't arrive until mid-Sept
+- Talk to a few people Aug 27-30; head to palace and request audience on Aug 31. Told to return in a few days
+- Sept 3 given quarters at palace and told he will be summoned when Karnas is ready to speak with him
+- Sept 9 insists on a meeting or he will leave and find something more productive to do with his time; told he cannot go until Karnas has spoken with him
+- Sept 29: Aagirvala 
+- Oct 2: letter from Nayahar reaches Lara
+- Oct 3: Johar has not left the palace for a month
+- Oct 14: Summoned to speak with steward of Nayan Karnas, who claims that while the Samraat is too busy, he will bring Johar's message of an offer of parley mediated by the Lakan mystai to Karnas. Johar begs him to remember this is his sister.
+- Oct 30th: Johar receives word from Nayan Karnas, supposedly: "I am told that my supposed sister was brought by foreigners to Karawa from the lair of an evil witch, where she had been for eight years, and that her battle commander now rides into combat with a sword gifted from this same witch. How can I risk meeting her, or even trust that she is who she claims to be? For all I know, my sister died 8 years ago and the woman who claims to be her now is something or someone else. How do I even know you who are you say you are?" Says that Mitus Verina Auratan of Chardon is sending one of his wizards, a member of the CHECKNAME-OF-MAGEGUARD, and I also have sent for WOMAN NAME MYSTAI OF SONKAR who is blessed with the gift of true sight. 
+- Nov 12th: summoned to a chamber, Chardonian wizard there who says to someone (not Karnas). He is under no illusion or transformation. 
+- Nov 13th: Woman comes to his chambers, looks at him. Prays with him, tells him the gods have not abandoned him, and that all will be well. 
+- Nov 18th: finally summoned to speak with Karnas. Karnas is incredibly paranoid and is utterly convinced that [[Sura]] is a creation of [[Agata]]'s. Says his court has found evidence that [[Agata]] planned to replace him with a puppet. Even were he dead, what would stop her plan? Says there are rumors she had a rainbow cloak that could trick even the gods - so how can the messages in his dreams, his prayers even, be trusted? The risk is too great.  
+%%
 
 %% Tim: set status/tim only; not sure what else there is to add to this page %%

@@ -18,4 +18,12 @@ whereabouts: Candrosa
 Currently, this staff is carried by [[Candrosa]], and was used by Candrosa after the return of the [[Heart of Shakun]] to send the members of the [[Dunmar Fellowship]] on journeys to the [[Dreamworld]]
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+Candrosa's staff.
+
+Can send people to the Dreamworld, but otherwise exact powers are TBD.
+
+Origin TBD as well.
+
+Its magic is tied to Shakun and Shakun's Heart. Without Shakun's heart, it cannot recharge.
+%%

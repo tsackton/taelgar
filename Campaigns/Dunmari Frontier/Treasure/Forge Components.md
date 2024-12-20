@@ -27,14 +27,14 @@ A total of 132 small metal bars, neatly organized. Each bar is roughly 8 inches 
 The remaining 47 are magical or unusual metals:
 - 9 [[Mithril]] bars
 - 6 [[Chalyte]] bars 
-- 5 fey steel bars %%SECRET[1]%%
-- 7 star iron bars %%SECRET[2]%%
-- 3 phiraxite bars %%SECRET[3]%%
-- 3 lumentium bars %%SECRET[4]%%
-- 4 cuprilith bars %%SECRET[5]%%
-- 4 aetherium bars %%SECRET[6]%%
-- 3 vulcanite bars %%SECRET[7]%%
-- 3 nocturium bars %%SECRET[8]%%
+- 5 fey steel bars %%SECRET steel produced in the feywild%%
+- 7 star iron bars %%SECRET a metal mined from meteors and other celestial events%%
+- 3 phiraxite bars %%SECRET a native metal of the Elemental Plane of Fire%%
+- 3 lumentium bars %%SECRET a glowing form of gold with a magical inner light%%
+- 4 cuprilith bars %%SECRET a rare form of copper mined from areas rich ley lines%%
+- 4 aetherium bars %%SECRET a rare metal found on the Plane of Air, strangely light%%
+- 3 vulcanite bars %%SECRET a rare metal mined from volcanoes that are connected to the Plane of Fire.%%
+- 3 nocturium bars %%SECRET a rare metal mined from areas infused with necromantic energy.%%
 #### Forge Powders
 A collection of twenty boxes, each containing a small quantity of a fine powder. Each box is marked with magical rune representing a word or phrase. They are:
 - **Death** – A black, ashy powder that smells faintly of decay.

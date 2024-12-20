@@ -60,4 +60,40 @@ But as this leya began, something changed. The bindings broke. [[Apollyon|Apolly
 
 
 
-%%SECRET[1]%%
+%%SECRET 
+
+Arheste's story - more detail / DM notes
+
+Arheste was born in DR 671, in Rostaurë (ROS-tow-reh), the "Forest of Rains", a elven settlement about 100-150 miles east-northeast of Drankor, between the river and the bay. She was born in a city at the edge of the woods, Estemar (ES-teh-mar), the city of peace, a place where humans, elves, and peronar lived together. 
+
+In DR 750, she experienced the Rite of Awakening in the 3rd year of her first leya. She spend her leya in the court of the Drankorian emperors, first advising the Peronar emperor Aglir (m), and then the twins Pelois (m) and Cekious (f), who ruled together. In DR 819, she rode into battle with the Drankorian armies against the Spreading Fire, an alliance of giants, efreeti, and fire elementals lead by an ancient red dragon seeking to claim the wealth and power of Drankor for herself. While the twin emperors were killed in dragonfire, Drankor prevailed and Arheste survived. 
+
+In DR 827, she returned to Rostaurë, where her son and daughter were born. Her children followed her footsteps, traveling to Drankor and serving in the court of the last Peronar emperor, Imrodel (f), during their first leya, while Arheste served as an Ambassador. 
+
+In DR 965, Emperor Helea was assassinated by the Omnis Pura, starting a civil war. Arheste's son was killed in the fighting in Drankor; her daughter fled with a small group of loyalists, but was killed in a later engagement in the war. Arheste protected as many refugees as possible Rostaurë, especially of the Peronar, who were seen as particularly insidious and vile by the Omnis Pura. 
+
+When the 33rd mela came in DR 987, Arheste was one of the leaders of the Warriors of Peace, an army of elves, peronar, and humans who organized to protect the new children of the 33rd mela in Rostaure. Over the course of the Dominion Wars (DR 1001-1013), these warriors defended Rostaurë, chiefly through deception and trickery, and through well-placed contacts in other groups of rebels and dissidents, primarily the Fides Lucaris. 
+
+It is during this time that Apollyon betrays Cha'mutte, slaughtering the orcs and stealing the Cloak of Rainbows from them. In DR 1048 (exact date can change), Apollyon attacks Rostaure, with the Cloak. Everywhere he strides, the power of Aldanor is quelled. The forest tricks that protected the elves cease to matter. Estemar is sacked, and Rostaure is burned, the elder trees cut, sleeping children inside. This is a disaster, totally unforseen by Elmerca, who is blinded by the cloak, unable to perceive Apollyon's actions, or anything connected to him. 
+
+Arheste, at the height of her power, stood against Apollyon at the height of his power. He spoke words of death, and she shrugged them off. But every time she raised her sword to summon the power of Aldanor to her blade and strike with the force of the divine, the gods were silent. She was defeated, and taken with the few of her warriors who survived (excepting the Peronar, who were all slaughtered) to Drankor.
+
+She watched as Apollyon turned the city to his personal domain, using the scepter of command to create adoring, loyal legions. She watched as he rounded up the Peronar, watched as created bigger and bigger spectacles (meta: think Nazi Party Rallys, but with magic and a bit of slaughter), until he declared himself a god. She never knew why he kept elves around, except perhaps because the growing anger of her people was part of his view of his path to godhood. She believed, at the end, that he had perhaps achieved some of the power of divinity. 
+
+But it was not to last. Before he could settle into the power of his divinity, a dragon so big it blotted out the sky appeared (this is DR 1059), shadowy, insubstantial, with burning red eyes and toxic red smoke spewing from its nostrils, with one swoop blasting a chaotic red mist across the city. Apollyon stood in defiance, confident, challenging the dragon, drinking a potion of pure blackness that echoed with the screams of the Peronar. She could not see what happened after that, because of the choking mist, but she heard, and felt, the rending. It was a rending, a tear, it felt like her soul ripping apart, and only by strength of will and the grace of Aldanor was she able to hold herself together. 
+
+(THE BIG IDEA: Both the first plague and the red mist during the great war are not diseases in the normal sense, but a rending of the fabric of reality. Jeevali died knitting everything back together when the Dunmari came; but the rends and tears of the second plague still linger in the plaguelands)
+
+In the confusion, she fled the city, saving who she could. The toxic mist spread, and spread, and as the city died she felt the insidious chaos that begin to infect and spread along the huge numbers of ley lines converging on the city. Her and a few elves who survived weathered the Great Plague in the burned out hollow of an Elder Tree, in their former homeland of Rostaurë. It left her forever changed, burning away her magic, and withering her right arm, never again able to wield a sword. 
+
+A few years later, as the 33rd leya began in DR 1067, she begin rounding up survivors as best she could. She traveled through the now-ruined city of Drankor, watching, searching, sure in her heart that Apollyon had survived. Over the next decade, her and 500 survivors, all that was left of Estemar and Rostaure, made the long trek upriver to [[Orenlas]]. Here, she dedicated herself to learning as much as possible about Apollyon and his fate. When the 34th mela began in 1147, she no longer felt the roots of Aldanor holding her to Taelgar, but something more immediate, more personal. Apollyon must not be allowed to rise, ever again. 
+
+Slowly, over the course of this mela and the one that followed, every elf that had been exposed to the Great Plague felt their connection to Aldanor fade. Many began to look old, almost unheard of among the elves. Arheste, though still relatively unaged in appearance, except her withered arm, slowly felt her breath grow short, and moving became increasingly difficult. Now, she rarely has the energy to walk more than a few hundred feet, and spends all her time at her home, a gentle garden of perpetual spring on a quiet glade in the forest, where twilight lingers and nights are short. 
+
+Ahreste can share a lot of information:
+- She knows about Apollyon's history, the conflict with Cha'mutte, the cause of the Great Plague, and Apollyon's transformation into a lich as an alternative to godhood. 
+- She knows something of liches, about how they cannot be killed unless their phylactery is destroyed, but she does not know where Apollyon's phylactery may be. 
+- She knows a little about Cha'mutte's binding - she knows that Apollyon was bound to Drankor, and specifically to the vast monument and palace he constructed to showcase his divinity
+- Even by the time of the Great War, she was becoming too frail to travel; but she fed information to Haldir, Taelsin, and others, and through them to Rai. She knows that after Cha'mutte's defeat, the Traveler warned Rai about Apollyon. She knows that Rai was among the the last alive of Imrodel's line, the last Peronar emperor of Drankor, and took his responsibility to protect the world from Apollyon seriously, even if he never fully understood the history of his ancestors. 
+- She knows that near the beginning of this leya, something changed, and she knows that Apollyon is free. She is very weak now, and probably cannot survive another *ka*, and hopes that Apollyon is dead before she must depart. 
+%%

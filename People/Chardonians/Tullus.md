@@ -16,4 +16,10 @@ whereabouts: Castrella
 
 Tullus is a portly man with spectacles perched on the bridge of his nose, surrounded by stacks of books and scrolls in his cluttered shop. He is a scribe and bookseller by profession, with a particular fondness for maps, albeit somewhat colored by a rather provincial lack of interest in distant, far off lands. 
 
-%%SECRET[1]%%
+%%SECRET
+Appearance: Tullus is a portly man with spectacles perched on the bridge of his nose, surrounded by stacks of books and scrolls in his cluttered shop.
+
+Distinctive Trait: He has a particular fondness for maps, especially ancient ones, and can often be found poring over a magnifying glass.
+
+Roleplaying Notes: Approachable and chatty, Tullus  loves to share stories behind each map. He’s a goldmine for adventurers seeking geographical knowledge but expects fair payment for his prized maps. He is probably a bit like stereotypical shire hobbits in Tolkein - loves his maps but just of his region.
+%%

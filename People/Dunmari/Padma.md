@@ -22,4 +22,5 @@ An innkeeper and master of a caravanserai waystation on the [[Tokra-Darba Road]]
 
 In late July 1748, was briefly cut off from Tokra by wyverns who had made a nest in the ruined mining town of [[Vandar]]. Pleased to receive news that [[Dunmar Fellowship]] had killed the wyverns and the road was clear on 26 July 1748. 
 
-%%SECRET[1]%%
+%%SECRET
+9 Aug 1748: Mystai arrive at Padma's estate and hear story of wyvern destruction. Decide to continue to Darba. Passed on word about the party's passing to the [[Aagir Mystai]] who came this way after dealing with the Copper Hill bandits%%

@@ -19,4 +19,12 @@ whereabouts: Voknaz Manor
 
 He is devoted to the [[Rodnya Voknaz]], and has dedicated his life to the organization. 
 
-%%SECRET[1]%%
+%%SECRET
+
+16th or 17th level wizard
+cares deeply about his master, former leader of the Voknaz, now dead
+
+striking man, young middle age, dark skin. will give a little history without revealing a ton of information, will be a bit skeptical of the party initially, and question what they want and what they can do. Monster hunters looking for quests is a bit strange in Ursk, especially foreigners, but will listen. 
+- Will open with a pretty standard, "of course there are dragons one could kill, if interested, but why come to us, specifically?"
+- If they are relatively open about their powers and skills and especially if he learns Riswynn brought Wellby back from the dead, will consider broaching topic of escort quest to them; default option is a simple "go north and kill dragons" quest. 
+%%

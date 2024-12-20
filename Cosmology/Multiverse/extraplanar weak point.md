@@ -16,4 +16,12 @@ Notable extraplanar weak points include:
 - Somewhere in the mountains south of [[Cedrano]], there are rumors of an extraplanar weak point connected to some kind of [[Shadowfolds]] domain, associated somehow with the [[War of the Dark Rift]].
 %%^Campaign:End%%
 
-%%SECRET[1]%%
+%%SECRET
+the kind of basic idea I have about extraplanar connections is that they are of two kinds:
+-  "natural" connections which occur when the higher dimension space of the planes brings some other plane close to the material plane
+- "anchored" connections which occur when someone drags a piece of another plane to the material plane
+
+most things Dunmar has encountered are natural connections - extraplanar weak points, lastlight falls, Arborea ruins
+
+these are probably not so easy to destroy as they require reordering extraplanar geometry
+%%

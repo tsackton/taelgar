@@ -46,4 +46,87 @@ The map drawn by halflings of the [[Emerald Song]]:
 Thursday art market in the main market square -- but check actual day with new calendar in session notes
 %%
 
-%%SECRET[1]%%
+%%SECRET
+
+copied from OneNote
+
+## Government
+
+Runs "in the name of the Emperor," but doesn't actually have an Emperor right now. Instead, a secretive council of mages runs the city ?
+
+Magistros: 'offical' ruler
+
+Chancellors and consuls: council members ; consuls serving in frontiers, inculding proconsuls who are governors of terroritories/provineces
+
+In Drankor, the magistros were councillers to the emperor, members of mages council etc
+
+Praecanti Vigiles --> the mage guard / city watch, technically of the people
+
+Praecanti Primis -> the magistros personal mageguard and fundamental source of power
+
+So: the Magistros runs the city in the name of the Empire, is the commander of the Praecanti Primis and the Praecanti Vigiles, and has the power to appoint individuals to positions in the bureaucracy.
+
+The current Magistros, Mitus Verina Auratan, is young and untested but ambitious and a skilled commander, having been an admiral in the navy at a very young age and fought several important engagements against Illori, establishing Chardonian dominance over the seas to the south and the Dunmar coast. He is now only 23, having taken up the Magistros position just 2 years ago at 21, immediately following three years of naval campaigns from 18-21. He commands incredible loyalty from the navy and the common folk of the city, but is less popular with the Hetaeri Magica, who accept him largely for the debt they own his aunt. He recently installed a number of new Praecanti Primis posts, drawn from the windwalkers and storm sorcerers of the navy, replacing Academy trained wizards.
+
+The previous Magistros was his aunt, Seva Auratan, who ruled as Magistros for 26 years, implementing a number of magical reforms.
+
+Chancellors control varies aspects of the city (Chancellor of the Navy, Chancellor of Coin, Chancellor of the Guard traditionally an office held by the Magistros Chancellor of Libraries, Chancellor of ….)
+
+Of course lots of intrigue, political maneuvering, etc.
+
+Details of the civil administration not super important to work out, but feeling should be lines of hierarchy, etc.
+
+## Size
+
+The city itself is home to at least 500,000 people, with 10 times that many in the hinterlands of the Empire, and more on the frontiers. The Chardonian Empire is highly urbanized, relying on the rich farmlands in the river valley and just to the south to sustain urban centers.
+
+## Key Organizations
+
+The civil administration controls a lot, and the Praecanti, especially the Praecanti Primis is a powerful force, mostly of spellcasters
+
+Hetaeri Magica - magical part of Great Library?
+
+Great Library
+
+Society of the Open Scroll -- an order within the Great Library, dedicated to finding and restoring lost knowledge, especially of magic and the arcane arts
+
+Praecanti (Primis and Vigiles)
+
+Something religious?
+
+Thieves guild type? Other guilds? Artisans?
+
+## Economy
+
+Chardon is the center of a growing empire, and its economy is based on trade, magic, and knowledge production.
+
+Chalyte mining feeding into production of common magic items is a big deal; Chardon, more so than other places, has a very "magic" feel to it, with cleansing stones and other common items around a lot
+
+Long distance ocean-based trade also tends to run through Chardon, which competes with halfling fleets to brave the dangerous seas and trade for exotic stuff with the islands to the west or even the journey through the perilous waters south of Dunmar to reach the southern part of the continent
+
+## History
+
+Chardon survived the wars and the Blood Years surprisingly unscathed, although much of the greater North did not, and a major influx of refugees from the north shaped Chardon in lots of ways during the Blood Years.
+
+Big distinction between citizens of the empire and others, with several gradations
+
+Kenzo's parents presumably not citizens, Kenzo also not a citizen
+
+## Layout and Features
+
+Chardon is a city built on the River Mikros, about 15 miles from the mouth of the river. Most of the city is on the south side of the banks; on the north side, a large extinct volcano, Mt Nera, one side smooth obsidian glass, dominates the terrain.
+
+## Districts
+
+Peranor (beyond the river) - slums, poor area
+
+Chalyte refinieries on the north side of river as well, on the slopes of Mt. Nega, the volcano
+
+The academy district on the south side, upriver.
+
+Oldport on the south side, downriver
+
+Kylos Market, a great circular plaza, trading area, etc
+
+
+%%

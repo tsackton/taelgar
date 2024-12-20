@@ -39,4 +39,10 @@ The upper reaches of the Elder Tree are where the young elves, still in their dr
 ## Fey Gardens
 Erelion contains many hidden and unexpected gardens, often with unusual magic. All manner of things grows on plants here: delicate flowers with silver petals, vines laden with fruit, trees with a different spice growing from each branch, and wilder things can all be found in the gardens of Erelion. Some gardens perpetually maintain a particular season, while others rapidly turn from season to season over the course of a day, or a week. Ponds, waterfalls, and blooming flowers are a frequent feature of these gardens, and [[Fey]] creatures are not uncommon. Many of these gardens are in perpetual twilight, their serene pools reflecting the stars. 
 
-%%SECRET[1]%%
+%%SECRET
+Didn't visit these, save for another time
+## Starlight Observatory
+While most of the city of Erelion is flat and forested, in the southeast corner a long, tall escarpment of white quartz rises a few hundred feet. Set on this bank is an observatory, a place to contemplate the stars and the magic of [[Elmerca]]. 
+## Dream Sanctuaries
+Throughout the city are a handful of dream sanctuaries, ethereal spaces where elves can enter trance-like states to share dreams and experiences. Elven artists and scholars often visit these sanctuaries to seek inspiration from the collective unconscious of their people. One dream sanctuary is called **Lómelindë**, the Glimmering Grove, where vibrant flowers bloom and one can dream of colors that have no name. 
+%%

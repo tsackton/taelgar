@@ -25,4 +25,12 @@ whereabouts:
 
 ![[jane-chapman-portrait.png|right|320]]A Tollender-born woman in her early 30s, from the well-off and well-established Chapman merchant family, Jane became a Dyer's Guild captain known for her skill and her luck at sea.  
 
-%%SECRET[1]%%
+%%SECRET
+From a well-established merchant family. The third daughter, always had an adventurous streak, took of a bit of a unusual path is joining dyer's guild and then working her way up the ranks to become captain of a guild ship that deals in trade secrets. Well known for her knowledge and luck.
+
+Curious and has an adventurous streak, so will be happy to speak with party. Won't share trade secrets but isn't hard to convince to reveal information about Ursk. 
+
+Will invite party to Dyer's Guild Hall for a meal, if given opportunity: being seen hosting powerful people boosts her status. 
+
+Knows Cecilia and will recognize her work; Cecilia can also drop her name if asked. 
+%%

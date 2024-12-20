@@ -1,14 +1,14 @@
 ## Magic Items
 
-- Vicious Shortsword (rare major item) %%SECRET[1]%%
+- Vicious Shortsword (rare major item) %%SECRET history not made up yet, carried by the werewolf leader%%
 ### Scrolls and Papers
-- Detect Magic. (Werewolf lair) %%SECRET[2]%%
-- See Invisibility (Werewolf lair) %%SECRET[2]%%
-- [[Pandemonium Scroll]]. Traded to [[Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
+- Detect Magic. (Werewolf lair) %%SECRET from trap master)%%
+- See Invisibility (Werewolf lair) %%SECRET from trap master)%%
+- [[Pandemonium Scroll]]. Traded to [[People/Chardonians/Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[People/Chardonians/Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
 - [[Papers from the Fraternity of the Empty Moon]]. Translations left at the [[Tokra]] [[Archives]] with [[Govir]]. No obvious value. 
 ## Other
-- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET[4]%%
+- Bottle of a swirling, oily substance that explodes when throw, from werewolf trap expert. Unknown value. %%SECRET Bottle of a swirling, oily substance. When thrown, explodes in a 5' radius from the point of impact, doing 4d6 fire damage; DC 13 Dex save for half. Taken from werewolf lair.%%
 - Six white moonstone gems from the werewolf lair.
 - Tarot Cards. Finely painted on thin ivory; Moon Tarot Card found separately on the trap keeper’s person. From the werewolf lair in [[Tokra]]. Probably worth 20-360gp. Sold for 250 gp. 
 - Iron dial used to track moon phases from werewolves in [[Tokra]]. Probably worth 5-30gp. Sold for 6 gp. 

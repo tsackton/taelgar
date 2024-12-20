@@ -57,7 +57,7 @@
 - Black Light Candle. Sold as part of the deal to get the [[Chalice of the Runepriest]] back, in [[Session 49 (DuFr)]] 
 - A painting of [[Eudomes]]. A portrait of a man, wearing silver robes, holding a staff against a black, plain background. He has sharp, angular features, short dark hair, clear brown eyes, and is wearing a medallion on a silver chain with an insignia you can't quite make out; about 2' x 3'. Found in [[Stormcaller Tower]]. Not a particularly famous or skilled artist, but old and rare. Sold to a collector of portraits for 1000gp. Sold in [[Session 49 (DuFr)]].
 - A landscape of mountains rising up from a lush, rolling grassland full of flowers; about 2' x 3'. Found in [[Stormcaller Tower]]. Not a particularly famous or skilled artist. Sold in [[Chardon]] for 600gp. Sold in [[Session 49 (DuFr)]].
-- [[Pandemonium Scroll]]. Traded to [[Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
+- [[Pandemonium Scroll]]. Traded to [[People/Chardonians/Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[People/Chardonians/Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
 
 ### In Darba
 

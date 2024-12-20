@@ -20,4 +20,6 @@ These are a pair of goggles, with lenses made of polished purple gems, that are 
 This pair was [[Session 16 (DuFr)|found]] by the [[Dunmar Fellowship]] in [[Stormcaller Tower]] and is now carried by [[Seeker]].
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+These goggles were purchased by Eudomes for the study of ancient artifacts. Originally created in Drankor, by a group dedicated to the study of history.
+%%

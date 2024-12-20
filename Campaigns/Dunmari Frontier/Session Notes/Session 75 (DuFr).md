@@ -22,7 +22,7 @@ The [[Dunmar Fellowship]] successfully defends against shadow attackers, strateg
 
 ## Session Info
 ### Summary
-- The [[Dunmar Fellowship]] is attacked by shadow dogs and a shadow assassin sent by [[Fausto]], with [[Kenzo]] briefly captured.
+- The [[Dunmar Fellowship]] is attacked by shadow dogs and a shadow assassin sent by [[People/Chardonians/Fausto]], with [[Kenzo]] briefly captured.
 - [[Seeker]] transforms into a yeti to fight off attackers while [Wellby]'s precise shot kills the fleeing shadow assassin, saving [[Kenzo]].
 - After surviving the night, [[Seeker]] and [[Kenzo]] practice piloting the skyship [[Vindristjarna]].
 - [[Sura]] contacts the party via Sending Stone, discussing strategic moves against [[Tokra]] and the impending [[Day of Atonement]]
@@ -38,7 +38,7 @@ The [[Dunmar Fellowship]] successfully defends against shadow attackers, strateg
 - (DR:: 1748-12-04), dawn: See the edge of the [[Orcs|orcs]] territory from the air, maybe 40-50 miles distant, in the early morning light.
 
 ## Narrative
-The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [[Fausto]] that chased [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] down on the flight from [[Chardon]]. 
+The session begins as the party is awakened by the howls of shadow dogs, the same chalyte zombie assassins created by [[People/Chardonians/Fausto]] that chased [[Kenzo]], [[Seeker]], [[Wellby]], and [[Delwath]] down on the flight from [[Chardon]]. 
 
 ![[shadow-hunter-portrait.png|300]]![[shadow-hunter-wolf.png|300]]
 

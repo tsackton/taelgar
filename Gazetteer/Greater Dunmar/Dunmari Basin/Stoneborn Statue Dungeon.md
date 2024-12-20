@@ -15,5 +15,7 @@ whereabouts: Central Dunmar
 
 In the plains north of [[Tokra]] is a massive statue of a stoneborn warrior, of unclear origin. Underneath this statue is a ruined dungeon. 
 
-%%SECRET[1]%%
+%%SECRET
+An ancient statue of a massive (40' high) stoneborn warrior. A cache of Dwarven artifacts was found here by Chardonians some months ago (see timeline).
+%%
 

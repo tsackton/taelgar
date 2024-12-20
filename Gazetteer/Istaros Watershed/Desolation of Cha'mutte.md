@@ -30,4 +30,7 @@ Nashtkar is close to Plaguelands and really is kind of the western edge of the P
 Prior to the Great War, the Plaguelands/Nashtkar/Garamjala didn't exist, and the Desolation of Cha'mutte was just the area around Drankor. The cataclysm that raised the Yuvanti Mountains also created the Garamajala, but this is largely due to weather patterns not magic. The Plaguelands itself, and the Nashtkar, is a result of the destruction of Isingue and whatever magic was there. 
 %%
 
-%%SECRET[1]%%
+%%SECRET
+old notes
+To the east of Dunmar lies the desolation of Cha’mutte, a broken wasteland, stretching nearly a 1000 miles east to the dead forests of ~DeadForest~, 500 miles north to the barren ashy Plaguelands south of Sembara, and 900 miles south through the vast Garamjala desert to the haunted mires of Drankor. This vast expanse lies like a scar on the land, breeding monsters and terrors in the night; rumors persist of vast orc hordes, warlike hobgoblin nations, and stranger evils hidden in the depths of the desolation. The ruins of Drankor itself, said to be a land of immense magic and danger, lie deep within the accursed wastes. While many stories are told of the Desolation of Cha’mutte, few are brave or foolish enough to enter within, and the truth of the tales is hard to discern. 
+%%

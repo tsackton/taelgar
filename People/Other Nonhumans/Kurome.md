@@ -19,4 +19,10 @@ whereabouts:
 
 A creature of dreams and nightmares. 
 
-%%SECRET[1]%%
+%%SECRET
+This is Kurome (ku - row - may), an interloper from the Nightmare Realm, drawn by the presence of the phasing stone and sustained symbiotically by the ice maiden, by the bitter thoughts and nightmares of those who freeze to death in the wilds. 
+
+Kurome does not particularly need the phasing stone for his power, so it isn't like he is fighting to stop the phasing stone from being taken. But once the party is in the web of the dreamworld, he would prefer they do not leave, that they remain dreaming while their bodies freeze and they waste away. 
+
+With the phasing stone gone and the ice maidan killed, Kurome has probably retreated to the nightmare realm.
+%%

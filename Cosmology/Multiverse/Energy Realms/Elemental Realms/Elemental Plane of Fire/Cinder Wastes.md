@@ -11,4 +11,7 @@ typeOf: region
 
 A mysterious region rumored to exist in the Elemental Plane of Fire. 
 
-%%SECRET[1]%%
+%%SECRET
+this is probably where Frankar is now, but need to work out details. 
+
+%%

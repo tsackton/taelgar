@@ -18,6 +18,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A wandering scholar and historian, funded by [[Fausto]] to find rumors of treasure. 
+A wandering scholar and historian, funded by [[People/Chardonians/Fausto]] to find rumors of treasure. 
 
 %% Tim: anything to add? %%

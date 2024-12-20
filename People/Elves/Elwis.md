@@ -29,4 +29,9 @@ Elwis is a female elf and painter from [[Orenlas]].
 She is spending her wandering years traveling around the [[Green Sea]], trying to make new art that hasn't been dreamed before in the history of her people. She has recently come to [[Tollen]], fascinated by the magical inks of the Dyer's Guild and seeking to use them in painting. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET 
+DM Notes
+She is a painter, of the 37th ka, born in 1634 DR, so she is currently 114 years old. She stayed for many years after her Rite of Awakening, in [[Orenlas]], fascinated by the endless dreaming of **Lómelindë**, the Glimmering Grove, where vibrant flowers bloom and one can dream of colors that have no name. 
+
+But, after 60 years of this, she grew disillusioned with always looking to the past, always studying the dreams of the eldest, and wanted to find something new in the world. 
+%%

@@ -18,4 +18,7 @@ The Dunmari name for the desolation east of [[Karawa]], the ruined land cursed b
 The Blasted Plains, the western edge of the [[Desolation of Cha'mutte]]
 %%
 
-%%SECRET[1]%%
+%%SECRET
+old notes
+The Blasted Plains, called the Nashtkar, is the name given to the lands east of Dunmar’s borders. This is a land of strange magic, wild monstrosities, and other unknown dangers, where all but the bravest refuse to tread. The Nashtkar extends east to the Plaguelands, the barren ashlands south of Sembara, as far as the western tributaries of the great river, known to the Dunmari as the Mahar. To the south, the Nashtkar joins the Garamjala desert.
+%%

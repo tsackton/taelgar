@@ -19,4 +19,10 @@ The [[Dunmar Fellowship]] has recovered two of these books in their travels. One
 The second, they found at the [[Elemental Forge]], probably once owned by the unnamed [[Occulta Ludum]] mage who staffed that place in the days of the Drankorian Empire. 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+
+The Occulta Ludum produced a large number of these handbooks, which contain information about the mundane operations of the group, as well as magical secrets and the secret history of the group. The information cannot be read unless a specific enchantment is cast, a spell taught to all initiated members of the Occulta Ludum (basically, this functions as a variant of illusory script, where the people who can see the spell are not specified in advance).
+
+A creature with Truesight can also read the original text.
+
+%%

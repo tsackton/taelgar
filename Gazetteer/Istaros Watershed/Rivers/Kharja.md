@@ -16,4 +16,8 @@ pronunciation: KHAAr-jaa
 
 The now mostly dry riverbed that flows past [[Kharsan]], eventually joining with the [[Hara]] river. 
 
-%%SECRET[1]%%
+%%SECRET
+
+Does not actually connect to the Hara anymore, peters out some distance south of Kharsan 
+
+%%

@@ -59,4 +59,32 @@ Havdar is tall, imposing, and rugged, shaped by the relentless sun and winds of 
 - Havdar was a major proponent of war with [[Nayan Karnas]], but whether this was the result of the curse of the sword, or his own opinion, is hard to know. 
 - While cursed, became increasingly paranoid, seeing threats in everything.
 
-%%SECRET[1]%%
+%%SECRET
+## Roleplaying Notes
+
+- Dedication to Traditions: Havdar's upbringing means he's fiercely protective of [[Dunmar]]'s customs. He's bound to react strongly against challenges to these traditions.
+- Matured Warrior: Havdar's evolution from an independent leader to a pivotal figure in a potential civil war has tempered his brash nature. He's now more contemplative and strategic.
+- Loyalty to [[Sura]]: His loyalty to Nayan [[Sura]] is unwavering, and challenges to her claim can invoke Havdar's wrath.
+- The trauma of the curse remains a closely guarded secret. While cured, psychological remnants might surface under specific triggers. It has also made him doubt himself more than before. 
+### Interactions with PCs
+
+Met the party during the council session. Initially dismissive, but taken aback by [[Delwath]]'s point that mind-altering magic could be at work and the danger of riding to battle wasn't necessarily losing, but being turned to evil and returning to slaughter friends and family. Gained new respect for [[Delwath]], at least.
+
+Later, as grew to learn of the combat prowess of the party, has taken to seeing them as important allies.
+
+Party traveled with him and his band for some time in the eastern wastes (many parts of Sessions 19-25), so they are now familiar and comfortable. Particularly grateful / impressed with them saving his camp from an [[Orcs|orc]] onslaught in the eastern wastes.
+
+After [[Orcs|orc]] battle in session 20/21
+
+"Havdar has lost four warriors out of his 18, but killed in his estimation more than 40 [[Orcs]]. The first wave attacked through the canyon from the northeast, while a second wave with the spellcasters snuck across the top of the canyon. Without your timely arrival the one slinging fire may have killed us, so thank you.
+
+Introduces [[Aram]], a holy warrior of [[Aagir]]. He is preparing to say blessings over the cremation of the four dead warriors and wants Havdar to say a few words. Will also ask Havdar what to do about the [[Orcs|orc]] bodies. "
+
+Gave [[Wellby]] Samona's bowstring, and traded a Drankorian Ring of Jumping to [[Kenzo]] for the Spear of the War Leader.
+
+Session 29:
+
+Tells PCs story of almost coming to blows with Chardonians who rode into camp with Dunmari magic, a nice saddle, claiming finder's keeper's.
+
+Ready to break from [[Western Dunmar]], although hasn't really thought it through as formally that would be a schism in the temple hierarchy more than anything else.
+%%

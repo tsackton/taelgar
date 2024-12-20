@@ -75,4 +75,20 @@ Reading the book that Ulfgar got for you from the [[Great Library]] on magical m
 
 %%^End%%
 
-%%SECRET[1]%%
+%%SECRET
+About 150 years before the Great War, an autocracy was established on the southern edge of Sembara, led by Avatus, styling himself the New Drankorian Emperor.
+
+Avatus had a court mage, a powerful hobgoblin wizard who was skilled in the art of manipulating the boundaries between planes. Avatus commissioned the mirror from this wizard, and used it as a prison for dangerous enemies, especially magic users he wanted to interrogate but could not trust to keep in a normal prison.
+
+When Avatus was defeated by Derik I on the field of battle, the mirror was still in his dungeon complex. As news of defeat spread among the hobgoblin mercenaries in Avatus' service, the court mage's apprentice, also a hobgoblin, fled in the night with the mirror and other treasure from Avatus' stronghold, heading south.
+
+She roamed the wilds on the edge of the mountains for some time, creating a new name for herself and starting to build a new reputation unconnected from Avatus and her dishonorable flight in the night. She mostly used the mirror to trap rivals, tricking them into her base and then proclaiming herself ruler over their clans when they vanished after meeting with her. Later, she would force them out of the mirror and slay them.
+
+She passed the mirror on to her daughter, and then her granddaughter, Revaka, building a small hobgoblin empire on the edges of civilization west of the river valley and northeast of Dunmar.
+
+Until Cha'mutte came. Revaka tried to trap him, but of course he could not be trapped in this way, and laughed as he trapped her instead and took over the tribe, appointing a lieutenant to rule and promising glory in battle.
+
+Cha'mutte was not so concerned with the mirror, and it remained mostly unused at the hobgoblin lair outside ~Irebor~ until Cha'mutte's defeat, the granddaughter still trapped within.
+
+Until after Cha'mutte's defeat, when an ally of his, [[Agata]] Dustmother, remembered its presence and went seeking it, finding it still in the now-abandoned hobgoblin stronghold, protected by deception magic and traps, Revaka still inside. She then brought it to her lair, and since then has used it to 'store' people she is working on breaking, or whom she has plans for later, or who just amuse her to be stored.
+%%
