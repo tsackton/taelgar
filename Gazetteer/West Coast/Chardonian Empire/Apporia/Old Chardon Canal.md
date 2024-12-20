@@ -46,21 +46,7 @@ Typically, northbound ships have the right of way between Emerald Bay and Lake S
 
 Thus, it is possible to make the transit in one day, by departing [[Fort Ameli]] after midnight to arrive at Stillwater Lake in time to join the northbound convoy, or by pushing into the night from Stillwater Lake if traveling south. However, more typically ships overnight at Stillwater Lake, and make the transit in two days. 
 
-%%SECRET
-Canal notes
-The canal was created by the Drankorians, with high magic. It is a sea-level canal with an artificial lake in the center, excavated with extensive magical aid, including two cuts through hills in the middle.
-
-During the time of the [[Drankorian Empire]], was primarily navigated by galleys, moving in convoys coordinated with message stones, as there is not sufficient room for north and southbound traffic to pass except at the lake.
-
-After the fall of [[Drankor]], control of the canal fell to various warlords and minor kingdoms. After the [[Great War]], it was briefly controlled by Chire as part of the Illorian Confederacy, but after his defeat at [[Darba]] and subsequent death split from [[Illoria]] and was essentially a separate pirate kingdom, until after the [[Chardon]]/Hobgoblin wars were resolved and [[Chardon]] turned its attention to empire. The canal was one of the first conquests of the growing [[Chardonian Empire]], and has been under Chardonian control since.
-
-With the rediscovery and refinement of chalyte, passage of sailing ships through the canal became possible. Specialized mages known as windcallers, drawing on chalyte and the power of the ley line that the canal follows, serve as pilots to guide sailing ships through, even with unfavorable winds.
-
-
-- Fort Varian is a significant naval base; will be super-dangerous for party to approach, so assume they won't. Once navy shows up canal will be blocked. Visually, it is a castle set on an island in marshes, at the canal mouth. 
-- Salt marshes are basically a big river delta. Only dredged channels / canal are easily navigable by large ships, but small boats and poke around basically at will. Beyond the canal delta, things are a bit more solid, more so to west where ground rises than east where marshes extend. 
-
-%%
+%%SECRET[1]%%
 
 
 

@@ -95,12 +95,7 @@ Three major events shape current-day religion on the mainland: the diversificati
 
 The first emigrants from Hkar spread slowly and at relatively low population densities through the west coast, and then across the Sentinels, and further east into the vast northern boreal forests. During this time, a variety of northern cultures develop, with variations of the basic religious tradition of small gods. Most developed are the Deno'qai, with their tanshi, and the Zimka, with their kestavo, but others exist.
 
-%%SECRET
-the Vargald and animal spirit worship
-the Myraeni and ???
-the island people, maybe with a developed ancestor worship culture
-the far north, with ???
-%%
+%%SECRET[1]%%
 
 ### Mariner Schisms
 

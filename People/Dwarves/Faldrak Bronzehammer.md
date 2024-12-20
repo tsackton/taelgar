@@ -34,16 +34,4 @@ Despite his aging exterior and graying, rune-braided beard, Faldrak's eyes spark
 
 - In DR 1748, during [[Pyravela]] in [[Tollen]], Faldrak attended the party hosted by The Dunmar Fellowship on [[Vindristjarna]], where he met and bonded with Seeker, requesting his aid in journeying to the Edge of Echoes, a mysterious place where the boundaries between the planes (especially between Taelgar and the elemental planes) are thin. 
 
-%%SECRET 
-- **Feywild Sojourn:** At age 177, Faldrak's routine expedition took a mystical turn when he accidentally entered the Feywild. Five years in this magical realm altered both his craftsmanship and demeanor.
-- **Relocation to [[Tollen]]:** Age and experience led Faldrak to relocate to [[Tollen]] at the age of 211.
-
-## Roleplaying Notes
-
-- **Abilities:** Aside from his expertise in runecrafting, Faldrak possesses a magical cane with dual functionalities: a flashlight and a storage mechanism akin to a bag of holding.
-    
-- **Backstory:** Prior to his Feywild escapade, Faldrak was a revered figure in his clan, lauded for his runecrafting prowess. The Feywild not only enhanced his abilities but also left him with a hint of its capriciousness. While his newfound quirks raised eyebrows, none could contest the brilliance of his modified craft.
-    
-- **The Quest:** Faldrak's current objective revolves around the **Edge of Echoes**—a mystic point where the Feywild and Material Plane intersect. He's convinced that conducting the enhancement ritual for the Seeker's glove here will bestow unparalleled magical properties upon it. However, he faces two impediments: his own frailty and a potential confrontation with **Flickerwing**, a fey guardian he previously irked. The journey promises a mix of challenges and rewards.
-
-%%
+%%SECRET[1]%%

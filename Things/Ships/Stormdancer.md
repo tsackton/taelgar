@@ -23,6 +23,4 @@ A fast, sleek ship, crewed and equipped for long voyages into the unknown, and c
 Has not been seen in over a year. Presumed shipwrecked in DR 1749, after [[Milo Thistlefoot]], [[Tilly Brineheart]], and half the crew left to investigate the merfolk city of [[Omi]] and were captured by [[Buruli]], but its exact fate is unknown.
 %%^End%%
 
-%%SECRET
-possibly ended up in Mawar? haven't decided actual fate
-%%
+%%SECRET[1]%%

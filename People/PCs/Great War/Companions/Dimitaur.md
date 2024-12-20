@@ -15,9 +15,7 @@ A small flying lizard, companion to [[Rai]].
 
 %% needs major updates post Colorado sessions; probably can remove most secrets %%
 
-%%SECRET
-definitely still alive in drankor?
-%%
+%%SECRET[1]%%
 
 
 

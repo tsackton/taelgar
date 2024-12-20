@@ -32,13 +32,7 @@ The power of the cloak has allowed, with hard work over the years, the [[People 
 
 The cloak also has the power to silence divine magic in a wide radius, should the wearer wish it. 
 
-%%SECRET
-One who is fully grown into the cloak's powers can use it for several purposes
-
-First, the cloak generates an aura that stops all divine magic within a hundred foot radius. The bearer can turn this aura on and off at will. Does not end concentration on existing spells, but prevents the flow of divine energy to cast spells or use abilities that depend on divine power.
-
-Second, the cloak generates a much larger aura of "divine quiet". While it doesn't stop the basic flow of divine energy, it prevents the gods influence on the world. So things like divine inspiration, divination, anything that asks the gods for information will not work in this area. This larger area can be expanded over time, as a ritual by walking the borders of the area to be protected. This functions as a bit of a blank spot in the world where the divine cannot see. 
-%%
+%%SECRET[1]%%
 
 %% alternative image
 ![[rainbow-cloak-v1.jpg|left|400]]

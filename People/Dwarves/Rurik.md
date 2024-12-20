@@ -19,6 +19,4 @@ whereabouts:
 
 Rurik is a dwarf, of indeterminant age, who remembers little of his life in [[Bleakhold]] except his close connection to his son, [[Tak]], who he cares for deeply and worries over constantly. 
 
-%%SECRET
-Rurik, a dwarf of indeterminant age but at least middle-aged, sobbing quietly, barely audible, trying to keep his despair from the other villagers. His son, Tak has not returned from a his wandering, usually he comes back by nightfall, or in a few days, but it has been nearly a week now. He has little to go on, other than that Tak traveled "upriver", and often likes to try to find the ghost of his mother.
-%%
+%%SECRET[1]%%

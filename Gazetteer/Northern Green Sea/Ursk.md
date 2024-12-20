@@ -44,24 +44,7 @@ dv.table(["Place", "Type Of"],
 
 %%^End%%
 
-%%SECRET
-Why do dragons keep attacking Ursk? Maybe because they are after something in Ursk.
-
-Cities of Ursk
-Zvervinka (ZVEHR-veen-ka): An interior city, located on the long river flowing from the west. This is heavily fortified city and a major center of the monster part trade. Goods are shipped downriver and via coastal trade to Praznitksy and Zakat for export, or overland to Vedmakov for use in internal magic. 
-Vedmakov: Center of magic, on a small lake by mountains and forests
-Yamgov: Interior agricultural city
-Zakat: Coastal trading city, far west
-Prazknistky: Coastal trading city, center/east
-Vorongrad: Coastal miltary/internal city, navy base
-Marinsk: Coastal "cultural" city, center/west
-
-Yamgov, Prazknistky are "big"
-Zakat, Marinsk, Zvervinka are "medium"
-Vedmakov, Vorongrad are "small"
-
-Magic guardian group, the Okolov (o-KO-lov), known as the Watchers or the Eyes of Vedmakov.  
-%%
+%%SECRET[1]%%
 
 %% NOTES, FROM GOOGLE DRIVE
 

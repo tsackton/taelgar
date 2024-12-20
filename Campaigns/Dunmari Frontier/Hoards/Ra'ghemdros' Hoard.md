@@ -164,56 +164,56 @@ Ra'ghemdros had selected a number of items for special display. These all seem t
 
 %% 5 cubic feet total %%
 
-1. **Gold-encrusted Ceremonial Cup**: An ornate cup with intricate gold filigree and inlays of lapis lazuli, marked with archaic and out-of-date symbols of the eight divines.  %%SECRET Originally from Hkar %%
+1. **Gold-encrusted Ceremonial Cup**: An ornate cup with intricate gold filigree and inlays of lapis lazuli, marked with archaic and out-of-date symbols of the eight divines.  %%SECRET[1]%%
 
-2. **Sapphire and Diamond Necklace**: A stunning necklace featuring a cascade of sapphires surrounded by diamonds. %%SECRET picked for extreme value %%
+2. **Sapphire and Diamond Necklace**: A stunning necklace featuring a cascade of sapphires surrounded by diamonds. %%SECRET[2]%%
 
-3. ![[dragonet-statue-raghemdros-hoard.jpg|right|300]]**Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  %%SECRET Originally from Hkar %%
-
-
-
-4. **Gemstone-Set Dagger**: An elegantly designed dagger with a hilt encrusted with rubies and a finely etched blade.  %%SECRET associated with Imperial rule%%
-
-5. **Imperial Scepter**: An elaborately designed scepter made from gold and adorned with multiple sapphires.  %%SECRET associated with Imperial rule%%
-
-6. ![[silver-plate-raghemdros-hoard.jpg|right|300]]**Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  %%SECRET Originally from Hkar %%
+3. ![[dragonet-statue-raghemdros-hoard.jpg|right|300]]**Intricately Carved Marble Statuette**: A small, exquisite marble statue of a dragonet, displaying incredible detail and craftsmanship, inlaid with silver and emerald eyes.  %%SECRET[1]%%
 
 
 
+4. **Gemstone-Set Dagger**: An elegantly designed dagger with a hilt encrusted with rubies and a finely etched blade.  %%SECRET[4]%%
 
+5. **Imperial Scepter**: An elaborately designed scepter made from gold and adorned with multiple sapphires.  %%SECRET[4]%%
 
-7. **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  %%SECRET associated with Imperial rule%%
-
-8.  **Fine Gold Necklace**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. . %%SECRET picked for extreme value %%
-
-9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figures. %%SECRET Originally from Hkar %%
-
-10. **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. %%SECRET Imrodel %%
-
-11. ![[dragonet-ring-hoard.jpg|right|300]]**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.  %%SECRET Originally from Hkar %%
+6. ![[silver-plate-raghemdros-hoard.jpg|right|300]]**Historic Silver Paten**: An intricately designed paten (plate) made of silver, clearly very old but unweathered and undamaged, with scenes of pastoral human life.  %%SECRET[1]%%
 
 
 
 
 
+7. **Ceremonial Stoneborn Shield**: An ornate shield crafted from metal, featuring vivid colors and designs that tell the story of the Stoneborn fighting in the Demonfire Wars against fiends.  %%SECRET[4]%%
 
-12. ![[floral-brooch-hoard.jpg|right|300]]**Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  %%SECRET Originally from Hkar %%
+8.  **Fine Gold Necklace**: A striking necklace made of interlinked gold pieces, each set with three teardrops with diamonds. . %%SECRET[2]%%
+
+9. **Gold Medallion with Intricate Relief**: A large gold medallion featuring a detailed relief of a strange animalistic human figures. %%SECRET[1]%%
+
+10. **Imperial Signet Ring**: A heavy gold ring featuring the Drankorian imperial crest, used for sealing important documents and symbols of authority. %%SECRET[10]%%
+
+11. ![[dragonet-ring-hoard.jpg|right|300]]**Chased Gold Ring**: A ring made of solid gold with intricate chase work depicting the mythology of dragnets, a rare work of art, eyes of rubies.  %%SECRET[1]%%
 
 
 
 
 
-13. **Silver and Diamond Ring**. Etched in Elvish with a fragment of a poem about the stars.  %%SECRET picked for extreme value %%
 
-14. **Emerald Platinum Ring**. A platinum ring set with a massive emerald.  %%SECRET associated with Imperial rule%%
+12. ![[floral-brooch-hoard.jpg|right|300]]**Exquisite Gemstone Brooch**: A brooch made from an array of precious stones set in a unique floral design, a treasured family heirloom.  %%SECRET[1]%%
 
-15. **Bejeweled Imperial Coronation Crown**: A stunning crown adorned with emeralds, rubies, and pearls, symbolizing the authority and lineage of a ruling family. %%SECRET associated with Imperial rule%%
 
-16. **Enamelled Silver Serving Platter**: A large serving platter with elaborate enamel work depicting a historical scene, used during feasts. Ships sailing away from a coast.  %%SECRET Originally from Hkar %%
 
-17. **Masterfully Wrought Sword**: A beautifully crafted sword with an inlaid hilt of gold and precious stones, displaying masterful smithing techniques. %%SECRET associated with Imperial rule%%
 
-18. **Royal Flagon**: An intricately designed flagon made of silver, adorned with engravings and gemstones, used for serving drinks at state banquets. Like a punchbowl. %%SECRET associated with Imperial rule%%
+
+13. **Silver and Diamond Ring**. Etched in Elvish with a fragment of a poem about the stars.  %%SECRET[2]%%
+
+14. **Emerald Platinum Ring**. A platinum ring set with a massive emerald.  %%SECRET[4]%%
+
+15. **Bejeweled Imperial Coronation Crown**: A stunning crown adorned with emeralds, rubies, and pearls, symbolizing the authority and lineage of a ruling family. %%SECRET[4]%%
+
+16. **Enamelled Silver Serving Platter**: A large serving platter with elaborate enamel work depicting a historical scene, used during feasts. Ships sailing away from a coast.  %%SECRET[1]%%
+
+17. **Masterfully Wrought Sword**: A beautifully crafted sword with an inlaid hilt of gold and precious stones, displaying masterful smithing techniques. %%SECRET[4]%%
+
+18. **Royal Flagon**: An intricately designed flagon made of silver, adorned with engravings and gemstones, used for serving drinks at state banquets. Like a punchbowl. %%SECRET[4]%%
 
 ## Magic
 
@@ -227,88 +227,23 @@ There are 56 magic items scattered among the common items of the hoard, often no
 - 15 rings
 - 7 candlesticks
 
-%%SECRET
-- weapons and shields are +1 items, except there are 2 swords of warning, 1 spear of warning, 1 moon-touched dagger, and 1 moon-touched sword
-- necklaces include: 3 orb of time, 1 orb of direction, 1 clockwork amulet, 2 amulet of the devout (Sibyl), 1 brooch of shielding, 1 masquerade necklace (Wildling).
-- ewers etc include: 2 ewers that turn water into wine, 1 ewer can fill itself with water 3x per day, 2 serving platters that let you season the food you serve, 3 goblets that remove poison or corruption from water, 1 serving platter that can cast create food and water (food only) once per day. 
-- rings include: 6 rings that let you cast prestidigitation 1/day; 1 ring of adaptation, 1 ring that functions as a pearl of power, 1 ring that functions as a periapt of health, 2 rings that are matched sets that function as sending stones, 2 rings that let you cast mending 1/day, 2 rings that let you cast guidance but only targeting a specific skill (one is survival, one is acrobatics). 
-- candlesticks include: 4 that let you cast the light cantrip at will targeting the candlestick only, 3 that function as lanterns of detection (one fey, one fiend, one elementals)
-%%
+%%SECRET[19]%%
 
 ### Unusual Items
 
 A selection of magic items were also displayed in the Ra'ghemdros' private museum. These include:
 
-1. A small silver jewelry box, decorated with a poem about far-seeing written in Drankorian in an elegant, flowing script. Inside are five large pearls, each painted to resemble an eye. %%SECRET Eyes of Far-Seeing, loosely based on https://www.dndbeyond.com/magic-items/8502947-bag-of-eyes Legendary %%
-2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET Necklace of Fireballs https://www.dndbeyond.com/magic-items/4683-necklace-of-fireballs Rare %%
-3. A potion in a crystal vial, a syrupy liquid that looks like liquified iron. %%SECRET https://www.dndbeyond.com/magic-items/5358-potion-of-invulnerability Rare, consumable  %%
-4. A small silver vial, etched with the name Serandris in Draconic, and the words, "In Gratitude". The liquid inside is pure and clear, almost to the point of being invisible, with a single metallic silver scale floating inside. %%SECRET https://www.dndbeyond.com/magic-items/4047222-potion-of-dragons-majesty, silver dragon, Legendary, consumable %%
-5. A round glass vial filled with a bubbling reddish-purple liquid. Being close to the potion bottle gives you a feeling of holiness. %%SECRET portion of bottled knowledge; drinking permanently gives you proficiency in Religion skill. Legendary, consumable. %%
-6. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET Dust of Glibness. Until the spell ends, when you make a Charisma check, you can replace the number you roll with a 15. Additionally, no matter what you say, magic that would determine if you are telling the truth indicates that you are being truthful. Also incorporate Enthrall effect. Fey flavor https://www.dndbeyond.com/spells/2618948-glibness and https://www.dndbeyond.com/spells/2619192-enthrall Very rare, consumable %%
-7. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET Frost-based equivalent of a Flametongue. https://www.dndbeyond.com/magic-items/5386-flame-tongue Rare %%
-8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET https://www.dndbeyond.com/magic-items/7102431-prehistoric-figurine-of-wondrous-power-carnelian Very rare %%
-9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET possible sentient explorers bow for wellby%%
-10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET powerful legendary item for Riswynn %%
-11. A plain silver ring, unadorned and unmarked, but with a bright, reflective shine. %%SECRET ring of the ocean rare, maybe for Tilly? %%
-12. A wand, its handle wrapped in soft leather, made of a dark metal with streaks of silver and gray irridescence  %%SECRET  %%
+1. A small silver jewelry box, decorated with a poem about far-seeing written in Drankorian in an elegant, flowing script. Inside are five large pearls, each painted to resemble an eye. %%SECRET[20]%%
+2. A fine gold chain necklace from which eight perfect rubies hang on thin golden threads. %%SECRET[21]%%
+3. A potion in a crystal vial, a syrupy liquid that looks like liquified iron. %%SECRET[22]%%
+4. A small silver vial, etched with the name Serandris in Draconic, and the words, "In Gratitude". The liquid inside is pure and clear, almost to the point of being invisible, with a single metallic silver scale floating inside. %%SECRET[23]%%
+5. A round glass vial filled with a bubbling reddish-purple liquid. Being close to the potion bottle gives you a feeling of holiness. %%SECRET[24]%%
+6. A small box made of a strange, shimmering wood that seems to glow faintly, and is hard to look away from. Inside is a pinch of fine powder, multihued and mesmerizing. %%SECRET[25]%%
+7. A greatsword of fine make, apparently Stoneborn smithing, with a hilt decorated with mountain motifs. %%SECRET[26]%%
+8. A small sculpted figurine of a triceratops made from a reddish gemstone. %%SECRET[27]%%
+9. A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. %%SECRET[28]%%
+10. A wide belt made of a fine dragonhide leather, with an elaborate silver buckle. %%SECRET[29]%%
+11. A plain silver ring, unadorned and unmarked, but with a bright, reflective shine. %%SECRET[30]%%
+12. A wand, its handle wrapped in soft leather, made of a dark metal with streaks of silver and gray irridescence  %%SECRET[31]%%
 
-%%SECRET
-## Belt of the Mountain's Essence
-
-This wide belt is crafted from thick, dark gray dragonhide, rough to the touch and reinforced with a pattern of smooth quartz fragments embedded along its length. The quartz glints faintly in the light, catching small flashes of brilliance at different angles. The edges of the belt are lined with bands of polished silver, neatly engraved with runes in the Terran language, their precise, angular shapes giving the belt an ancient and powerful appearance.
-
-At the front, the belt buckle is made of polished adamantine, shaped into a simple yet imposing rectangular design. Inlaid into the buckle are fine lines of gold, forming the outline of a mountain peak. The craftsmanship is clean and precise, and the belt feels heavy and solid in the hand, radiating a sense of stability and strength.
-
-**Strength of the Mountain**: While attuned to this belt, your Strength score is 23. If your Strength is already 23 or higher, this feature has no effect.
-
-**Mountain's Bulwark:** When you are subject to an effect that would force you to move or knock you prone, you can use your Reaction to be unaffected by the effect. You can use this Reaction once, and regain all uses when you finish a Long Rest.
-
-**Earth Glide:** As a bonus action, you can merge into an earth or stone surface you can touch, travel up to 30 feet through the surface, and emerge. If you choose, you can cause the earth to shake at either the origin point or end point of your movement, forcing all creatures within a 10 foot radius to make a Strength saving throw (DC = 8 + your proficiency bonus + Strength modifier) or fall prone. You can use this Bonus Action once, and regain all uses when you finish a Short or Long Rest. 
-
-**Stone Passage:** You can cast the *Passwall* spell once. You regain all uses when you finish a Long Rest. 
-
-## Wayfarer's Bow
-
-A shortbow, made of an unusual ebony wood that seems to faintly vibrant with excitement. 
-
-This is a sentient bow, with a Wisdom of 12, an Intelligence of 16, and a Charisma of 10. It is neutral good, and desires to see new things. It can see with darkvision, and hear, to a range of 60 feet.
-
-While attuned to the Wayfarer's Bow, it can communicate by emotions.
-
-The Wayfarer's Bow functions as a +2 magic weapon, and can grow or shrink to become either a longbow or a shortbow. It can create its own ammunition, which disappears after it hits or misses the target. 
-
-While attuned to the Wayfarer's Bow, you gain the following abilities:
-
-**Compass.** The wielder can use an action to learn which way is north.
-
-**Explorer's Aid**: The Wayfarer's Bow automatically takes the Help action to grant you advantage on any ability check made to find secret doors, hidden traps, or otherwise search a room. 
-
-**Free Movement.** You can ignore the effects of natural difficult terrain (undergrowth, rubble, wading in liquid, snow, ice, steep slopes, or other similar effects). This does not affect difficult terrain created as the result of a magical or supernatural ability. 
-
-You can, additionally, summon one of three special arrows. Each arrow can be created only once per day.
-
-*Arrow of Seeking*. When you fire this arrow, you speak the name or describe a target that is not behind total cover and is within 400 feet of you. Make an attack against that target, ignoring the normal range of your weapon, and ignoring cover, with a +20 to hit instead of your normal to hit bonus. 
-
-*Arrow of Discovery*. As an action, fire this arrow into the air. As you do, you can choose to describe a location. You must be familiar with the location (you must be able to describe it, although you do not have to have traveled there before), and the it cannot be a destination on another plane of existence, a moving destination (such as a mobile fortress), or an unspecific destination (such as “a green dragon’s lair”). The arrow flies to the location you describe, passing through any obstacles, and  leaving behind a glowing trail that only you can perceive, which marks the most direct path to the location. While you can see the trail, you also know the distance to the location. The trail fades after 24 hours.
-
-If you don't name a location, the bow chooses a location it finds interesting, and marks a path to that location. 
-
-*Arrow of Lightning.* When you fire this arrow, it turns into a bolt of lightning, forming a line 5 feet wide and extending from you to the target. Each creature in the line must make a DC 15 Dexterity saving throw, taking 4d6 lightning damage on a failure and half as much on success. The lightning bolt turns back into an arrow when it reaches the target. Make a ranged weapon attack against the target. On a hit, the target takes normal weapon damage plus 4d6 lightning damage.
-
-## Ring of the Ocean
-
-Functions as a ring of water walking, and also grants you the following:
-- Command the Seas: As an action, you can change the condition of the sea within 1 mile of you, creating strong winds and heavy rain that cause violent waves (see “[Weather at Sea](https://www.dndbeyond.com/sources/dmg/adventure-environments#WeatherAtSea)” in chapter 5 of the [_Dungeon Master’s Guide_](https://www.dndbeyond.com/sources/dmg)) or calming a storm. In either case, the unnatural weather lasts for 1 hour before returning to normal. 
-- Aquatic Transformation: As an action, you can target a willing creature, and cast Polymorph. When you cast Polymorph this way, the shapes are not limited to Beasts, but must have a swim speed. 
-
-
-## Wand of the Planes
-
-This wand has 7 charges. You can cast plane shift (7 charges), banishment (3 charges), or blink (2 charges) from this wand. The wand regains 1d6+1 charges each dawn. 
-
-You can also use the wand to slice between planes. Choose a plane for which you have an item that has planar resonance with that plane. As part of a 1 hour ritual, you carefully use the wand to spool planar energy into the item. At the end of the ritual, the wand and the item are destroyed, and you must make a DC 30 Intelligence (Arcana) check. 
-- On a success, you open a permanent portal to a location of you describe on the plane that you target. 
-- If you fail by 5 or less, you open a permanent portal to a random location (chosen by the DM) on the plane you target. 
-- If you fail by more than 5, you fail to contain the planar energy. Everyone within 100 feet of the wand must make a DC 18 Charisma saving throw, taking 20d6 damage and being teleported to random location on the plane you target on a failure, or half as much damae, and not being teleported, on a success. The damage type is determined by the DM, based on the plane you are targeting. 
-
-%%
+%%SECRET[32]%%

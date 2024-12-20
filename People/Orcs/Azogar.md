@@ -31,10 +31,4 @@ Azogar is an old [[Orcs|orc]] loremaster from [[Xurkhaz]], one of the unchained 
 
 Azogar is very knowledgeable about the history of his people, and can tell many stories of the [[People of the Rainbow]], both before and after the founding of [[Xurkhaz]]. He serves as one of the primary advisors to [[Lubash]], the chief of [[Xurkhaz]]. 
 
-%%SECRET
-May potentially be a low-level wizard, although it didn't come up 
-
-Azogar is curious, precise. Focuses on how the ship works, what makes it fly. Very curious about phasing stones, and especially about lore of the Feywild. 
-
-Chanted the tale of the Cloak of Rainbows after the victory in the War of the Cloak
-%%
+%%SECRET[1]%%

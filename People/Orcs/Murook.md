@@ -41,12 +41,4 @@ A formidable [[Orcs|orc]] woman in her prime, with pale green skin, Murook is us
 
 - (DR:: 1724) Murook was freed from [[Thark]]'s chains by [[Karguk]], Chief of [[Uzgukhar]]
 
-%%SECRET
-## Roleplaying Notes
-
-- Reserved, speaks little unless necessary.
-- Proud but carries a hidden burden of her past under [[Thark]]'s influence.
-- Deeply loyal to those who've shown her kindness and understanding.
-- Hesitant to share her history unless she deeply trusts the listener.
-
-%%
+%%SECRET[1]%%

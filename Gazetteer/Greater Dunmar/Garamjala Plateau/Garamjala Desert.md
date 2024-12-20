@@ -24,9 +24,7 @@ The desert is now largely a landscape of rocky canyons, arid plateaus and rocks 
 
 Three major rivers run through the Garamjala. To the west, the [[Hara]] drains the central Dunmari plains, entering the Garamjala southeast of [[Askandi]]. In the dry season, the [[Hara]] flows quite sluggishly, but it swells during the monsoons on the plains. 
 
-%%SECRET 
-Probably going to edit the map to have the [[Hara]] flow into an endoheric basin like e.g. the central Kalahari, creating a region near the confluence of the [[Kharja]] that becomes a swampy wetland for part of the year, modeled on e.g. the Okavango River
-%%
+%%SECRET[1]%%
 
 The [[Kharja]], once a mighty river, now is mostly dry, and only flows during the rainiest part of the season. It is suspected to peter out before reaching the confluence with the [[Hara]], but few have mapped the [[Desolation of Cha'mutte]] to know for sure. 
 
@@ -40,8 +38,4 @@ While the desert is mostly inhospitable, the [[Istaros]] drains an extensive reg
 
 The desert supports little life. Nonetheless, the occasional giant vulture or band of ogres eke out a living amongst the rocks and sand, and desert-adapted axebeaks hunt small rodents in the more hospitable regions on the edges of the desert. 
 
-%%SECRET
-old notes
-
-In the southern part of the interior plateau, the monsoon rains are blocked by the highest peaks of he Yuvanti mountains, and a deep rain shadow is responsible for the vast expanse of the Garamjala desert, which stretches between the slow, muddy Hara, to the now-dry Kharja riverbed, and spreads east and south as far as the Mahar river valley. To the south, below the confluence of the Hara and the Mahar, steep, rocky cliffs and a thin band of semi-arid savanna mark a sharp transition to a wet coastal plain, covered in dense, rapidly growing jungle and the swamps and marshes of the Mahar delta.
-%%
+%%SECRET[2]%%

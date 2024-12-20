@@ -25,6 +25,4 @@ Seen in [[Mirror of the Past]]:
 
 %%^End%%
 
-%%SECRET common trade good 
-this fan was purchased by Agata as part of a disguise to fit into the court of Sura, as part of her assassination plot
-%%
+%%SECRET[1]%%

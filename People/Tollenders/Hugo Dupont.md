@@ -25,13 +25,4 @@ whereabouts:
 
 He is well-known in the Isinguese community, and also well connected across the non-human community, including with [[Caelynn]]. 
 
-%%SECRET
-## Roleplaying Notes
-
-Classic professorial professor. Perhaps on the rude side. Play him as overburdened, he gets many requests a day and he needs a compelling reason to take the time to help the party. Not because he doesn't care about their cause, or anything, just he is always asked so many things and this is one more thing. 
-
-Can be swayed by Delwath, probably, by learning more about his connection to the Tanshi.
-
-Side note: party met him at the Isinguese Pyravela party, when he was drunk and chatty, so if they speak to him again may be more like the description above. 
-
-%%
+%%SECRET[1]%%

@@ -15,8 +15,4 @@ Her mystery cult, the [[Shakun Mystai]] have always been associated with omens a
 
 %% holy symbol needs a bit of thought %%
 
-%%SECRET
-The magical illusion border that protects the eastern frontier of Dunmar from the Plaguelands. Those who attempt to enter with ill will against Dunmar in their hearts find themselves lost in twisting canyons and eventually find their way, if they don't turn back, to Shakun's Realm.
-
-need to add some details about the temple the mesa etc
-%%
+%%SECRET[1]%%

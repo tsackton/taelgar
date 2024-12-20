@@ -3,6 +3,4 @@ tags: [status/stub, item]
 ---
 
 
-%%SECRET
-
-%%
+%%SECRET[1]%%

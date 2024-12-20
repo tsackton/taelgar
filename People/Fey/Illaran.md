@@ -29,11 +29,4 @@ Physically, Illaran is dwarf-like: short and stout. His most distinguishable fea
 
 - During DR 1748, Illaran inadvertently caused a wild magic storm in the [[Feywild]]. [[Seeker]], assisted by two guardians from [[Shimmersong]] and a wandering fey samurai, managed to quell the tempest. Recognizing their efforts, Illaran bestowed upon [[Seeker]] shards of crystallized magic as a token of appreciation.
 
-%%SECRET
-## Roleplaying Notes
-
-- Illaran is inherently inquisitive and possesses a penchant for innovation.
-- He is deeply connected to the stones of Crystal Peak, allowing him to harness their power and manipulate them according to his will.
-- Illaran, though powerful, can sometimes inadvertently cause disturbances in the [[Feywild]]'s magic balance, like the storm incident.
-
-%%
+%%SECRET[1]%%

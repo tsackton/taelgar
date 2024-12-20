@@ -21,19 +21,4 @@ Flying higher still, you can see this is just one of many fortresses, laid along
 
 Until you come to a flat area, a ledge or clearing of sorts on the lower slopes of the mountain range, and you land. The armband clatters to the ground for a moment, until it is picked up, and put on by one of these kenku. You can see little black tendrils, webs, creep up from the armband and embed themselves in the in the flesh of this creature. Until suddenly, without warning, a pool of darkness appears in the side of the cliff, a flat, black, expansive shadow. The vision ends as the kenku step through the portal, and begin to walk across the shadowlands. 
 
-%%SECRET 
-Basic outline:
-
-This particular armband was used in the opening battles of the Great War, against the Deno'qai of the northern edges of the [[Forest of Dreams]]. 
-
-A small group of hobgoblin war bands with a scattering of fire giants and demons were sent ahead, each with an armband, to launch four simultaneous attacks on the Deno'qai. Three succeeded (demon/Darkfire; hobgoblins/Battle without Hope; hobgoblins/Batte of Ye'mote).
-
-However, the fire giants and hobgoblins carrying this armband ran into trouble, a prepared Deno'qai ambush led by Balati. The giants were all killed, and the hobgoblins fled into the shadow realm, leaving the portal open and hoping to lead the 3,000 strong army out to victory. But a tanshi, [[Taraka]], slipped into the shadow realm through the portal, and drew off the army. 
-
-The hobgoblins refused to come out and aid the fire giants, seeing the battle as hopeless, and instead wished to try to get word back to Cha'mutte via the other end of the portal. In anger, fire giant fought hobgoblin while the Deno'qai slaughtered both, and the armband was cut from the arm of the hobgoblin wizard who bore it by a fire giant, Zegron. 
-
-So could see:
-- Creating the armband. This would involve Cha'mutte in dragon form, using his shadow breath somehow or ripping the fabric of reality with his claws and stretching/molding it into the armband
-- Pandar at the height of the Great War. Kenku slaves, hobgoblins, trolls, giants, dragons, other beasts and monstrosities -- improvise. Could include maps and planning for some interesting backstory. 
-- Scenes from the battle: Balati fighting (will see Delwath's armor), the fire giants, etc. 
-%%
+%%SECRET[1]%%

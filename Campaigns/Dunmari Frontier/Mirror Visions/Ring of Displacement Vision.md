@@ -14,6 +14,4 @@ The image of the ring fades, and you see a workshop in a tower, perhaps somethin
 
 As the mage hands the warrior this ring, the scene shifts, and the ring falls through drifting sand to land in a bleak desert. Everywhere is just sand stretching as far as the eye can see - not even rocks, no birds, no life even. This is probably the depths of the [[Garamjala Desert]], deep into the desolation of [[Cha'mutte]] at the heart of the desert. The ring itself sits in a mausoleum, three-quarters buried by sand, but cracked open to the sky. The legs of a large statue, probably at least twelve feet high when it was constructed, stretch above the mausoleum. It seems to have been recently opened to the sky, as something shifted, and now sand is slowly filling the previously clear space within the structure. The ring is slowly buried more and more, until [[Agata]]’s hand reaches down to pick it up.
 
-%%SECRET
-VIsion shows the creation of the item in Drankor for use by warriors of the Empire; a gift from a wizard to his friend, perhaps. Then, shows [[Agata]] finding the ring in the depths of the [[Garamjala Desert]], lost perhaps during the fall of Drankor. 
-%%
+%%SECRET[1]%%

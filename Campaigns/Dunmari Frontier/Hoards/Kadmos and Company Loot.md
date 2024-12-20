@@ -1,8 +1,8 @@
 ### From Kadmos
 
-- Rod of the Pact Keeper, an iron rod decorated with a bejeweled skull. %%SECRET this is likely somehow connected to Apollyon, but exactly how I'm not yet sure%%
+- Rod of the Pact Keeper, an iron rod decorated with a bejeweled skull. %%SECRET[1]%%
 - Shadowfell brand tattoo
-- A gilded skull of a halfling %%SECRET Arcane focus for summon undead spell, worth 300 gp%%
+- A gilded skull of a halfling %%SECRET[2]%%
 - Spell gem containing the Summon Greater Demon spell
 ### From Hektor
 - Boots of Speed 

@@ -32,13 +32,6 @@ Wendel knows several regulars of [[The Windward Sail]] well, including:
 - [[Wellby]], an old acquaintance who frequented The Windward Sail in his youth
 - [[Nika Hyne|Nika]], a collector of tales and legends, with connections to the [[University of Tollen]]
 
-%%SECRET
-## Roleplaying Notes
-Wendel is always busy, rushing around. Will greet people he knows with a smile and wave but, unless it is a quiet time, they'll have to wait to speak. Always running around keeping people happy. Distracted in how he speaks. 
-
-Wendel certainly remembers Wellby as the map-obsessed boy, and will welcome him back. Friendly, but not going to go out of his way to risk anything to help. 
-
-Connection to the University. Can introduce party to [[Nika Hyne]], a collector of tales and legends, sometimes scholar, sometimes poet, sometimes schemer, with associations with the University. 
-%%
+%%SECRET[1]%%
 
 ![[wendel-quickstep.png]]

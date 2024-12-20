@@ -21,7 +21,7 @@ name: Dunmari Frontier - Session 50
 The [[Dunmar Fellowship]] escapes eastward, contending with shadow attacks and nightmares while trying to outpace their pursuers.
 ## Session Info
 ### Summary
-- The [[Dunmar Fellowship]] flees from [[People/Chardonians/Fausto]], taking turns hiding in a [[Mirror of Soul Trapping|magical mirror]] and riding eastward to escape.
+- The [[Dunmar Fellowship]] flees from [[Fausto]], taking turns hiding in a [[Mirror of Soul Trapping|magical mirror]] and riding eastward to escape.
 - [[Wellby]] and [[Kenzo]] take turns riding east, passing landmarks and trading horses as needed.
 - The group is repeatedly attacked by shadow creatures at night, and suffers from haunting nightmares.
 - Despite challenges, the party continues their journey east, with [[Delwath]] scrying and learning of allies' activities.
@@ -39,7 +39,7 @@ The [[Dunmar Fellowship]] escapes eastward, contending with shadow attacks and n
 
 
 ## Narrative
-We start as the party takes a brief breather in the shadow of a barn in a field of wheat, about a half-mile south of [[Chardon]], having just fled from [[People/Chardonians/Fausto]]. During the course of a tense day, [[Wellby]] sneaks upriver and finds a place where the party can sleep, unmolested. The next morning, as dawn comes, the party discusses the situation and decides to ride as fast as possible east, with one person riding at a time while the rest of the party remains in the mirror. While [[Wellby]] heads to the nearby market town to buy horses, [[Delwath]] attempts to scry, first on [[Marcella]] (which fails), and then on [[People/Chardonians/Fausto]] (which succeeds). [[People/Chardonians/Fausto]] is finishing breakfast, an invisible servant carrying his dishes away, and then takes out a silver mirror with an elaborate jeweled border decoration, and begins casting scrying. 
+We start as the party takes a brief breather in the shadow of a barn in a field of wheat, about a half-mile south of [[Chardon]], having just fled from [[Fausto]]. During the course of a tense day, [[Wellby]] sneaks upriver and finds a place where the party can sleep, unmolested. The next morning, as dawn comes, the party discusses the situation and decides to ride as fast as possible east, with one person riding at a time while the rest of the party remains in the mirror. While [[Wellby]] heads to the nearby market town to buy horses, [[Delwath]] attempts to scry, first on [[Marcella]] (which fails), and then on [[Fausto]] (which succeeds). [[Fausto]] is finishing breakfast, an invisible servant carrying his dishes away, and then takes out a silver mirror with an elaborate jeweled border decoration, and begins casting scrying. 
 
 The rest of the day and into the night, [[Wellby]] rides hard, changing horses frequently. He passes the wine town of [[Metium]] around 3 pm, before running out of steam around midnight about 85 miles east of [[Chardon]]. The next morning, get an early start in the pre-dawn light and ride all day, making another 60 miles with the horses tiring around 9 pm. Pass a tall gray standing monolith stone around 130 miles east of [[Chardon]]. May possibly be associated with the fey, somehow; later learn that this is one of several treaty stones marking the agreements between humans and [[Elves|elves]] in these lands, thousands of years ago. Camp at 9 pm, and rest.
 

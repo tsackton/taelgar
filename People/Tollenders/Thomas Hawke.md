@@ -27,11 +27,4 @@ Born and raised in [[Tollen]], Thomas Hawke is an ambitious scholar at the [[Uni
 ## Rumors and Information
 - Hawke's fascination with legends and tales is well-known; he is always seeking the most exotic tales and stories as fodder for his plays. 
 
-%%SECRET
-## Roleplaying Notes
-- **Ambitious Dramatist:** While he is a scholar by profession, his heart truly belongs to drama. Roleplaying him should bring out his love for legends and tales.
-- **Charisma and Popularity:** Hawke's charismatic nature makes him well-loved and influential. When interacting with others, he might come off as confident, even bordering on arrogant.
-- **Networker:** His deep connections within the University make him a key figure for introductions and networking, but this might come with its own set of conditions.
-- Moreover, tales from distant lands or genuine flattery can easily ensnare his interest.
-
-%%
+%%SECRET[1]%%

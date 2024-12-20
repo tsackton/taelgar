@@ -26,6 +26,4 @@ Seen in [[Mirror of the Past]]:
 
 ![[Ring of Displacement Vision]]
 
-%%SECRET
-This was created by Drankorian mages as a item to protect generals in battle, and given to the best warriors during campaigns. [[Agata]] found it in abandoned ruins deep in the desert, and kept it.
-%%
+%%SECRET[1]%%

@@ -1,14 +1,14 @@
 ## Acquired from Shadowkeep
 
-A gold-gilded black breastplate engraved with the silhouette of a dragon %%SECRET 1000 gp%%
-Two suits of gold-gilded black plate armor engraved with the silhouette of a dragon %%SECRET 3,125 gp each %%
+A gold-gilded black breastplate engraved with the silhouette of a dragon %%SECRET[1]%%
+Two suits of gold-gilded black plate armor engraved with the silhouette of a dragon %%SECRET[2]%%
 A gold-gilded black shield engraved with the image of two dragon wings
-%%SECRET 200 gp%%
+%%SECRET[3]%%
 Dragon statuette glittering with small diamonds
-%%SECRET 5000 gp%%
+%%SECRET[4]%%
 50 pounds of gold in trade bars (2,500 gp)
 A bone key that unlocks doors in Shadowkeep, now useless as Shadowkeep has collapsed.
-Three blood red rubies %%SECRET very rare gemstone%%
+Three blood red rubies %%SECRET[5]%%
 
 A Watcher's Dagger, function as a [Dagger of Blindsight](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)
 

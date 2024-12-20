@@ -13,6 +13,4 @@ affiliations: [Rodnya Voknaz]
 
 ![[olen-vrask-portrait.jpg|right|400]]Olen is a secretary and scribe for [[Branek Mirov]].
 
-%%SECRET
-mousey man, young, ethnically ambiguous but maybe slightly east asian, nervous; will give more history and ask party for help - need to leave ASAP though, a few minutes to consider and then gone. 
-%%
+%%SECRET[1]%%

@@ -29,6 +29,4 @@ An archivist with the Great Library, responsible for arranging adventuring exped
 
 Friends with [[Roscelia]].
 
-%%SECRET
-Need to work out her timeline between the Great Library campaign and the Dunmari Frontier campaign
-%%
+%%SECRET[1]%%

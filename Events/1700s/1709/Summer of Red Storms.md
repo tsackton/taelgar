@@ -13,7 +13,5 @@ In the year 1709 DR, the monsoons brought not just rain but rampaging half-human
 
 Researched by [[Govir]] in the [[Tokra]] [[Archives]]. 
 
-%%SECRET
-Caused by the then Supreme Oracle of Shakun leaving the Temple and taking the Heart of Shakun.
-%%
+%%SECRET[1]%%
 

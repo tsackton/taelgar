@@ -25,14 +25,4 @@ A Dunmari pastoralist.
 
 %%^End%%
 
-%%SECRET
-Devana, a herder who is one of the early arrivals for the festival, can tell them about axe beak attacks. He was attacked north and east of here. The creatures came from the south east, and seemed unusually vicious.
-
-He can also tell them that rumors from other pastoralists who have arrived for the festival is that travel east of town, and especially around the Gomat oasis on the edge of the Nashtkar, is rumored to be especially dangerous.
-
-He is scared and sad and will be taken aback by being questioned in his moment of grief; an insight check can reveal this -- a gentle approach will work no matter what, other approaches may need a Persuasion check to get him to open up.
-
-Gomat oasis is a small gully and seasonal stream that usually has good grazing in the winter, but is too unreliable in summer
-
-a generation ago it was too dangerous, but in the past 15 years things have gotten safer and more people would take advantage of the good grazing in the area
-%%
+%%SECRET[1]%%

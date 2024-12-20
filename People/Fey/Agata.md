@@ -44,33 +44,7 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 - Masqueraded for months as a fey named [[Typhina]] in the [[Ring of the Warded Mind]], recounting [[Typhina]]'s story to [[Seeker]].
 - Was finally imprisoned in the Heartwood Grove in [[Amberglow]] in the [[Feywild]] in [[Session 67 (DuFr)|November 1748]].
 
-%%SECRET
-## Roleplaying Notes
-
-- Agata thrives on the daily miseries of life and strives to perpetuate it.
-- She aims to see [[Dunmar]] persist but remains weakened and divided.
-- Historically, she has conducted various evil acts to sustain a consistent level of strife and bitterness in [[Dunmar]].
-## Secrets
-
-Agata was originally a member of a hag coven, the youngest of three sisters, that came to [[Amberglow]] after the fall of the [[Cloudspinner]] to feast on the decay there. Here, she infiltrated the Heartwood Grove and stole the living essence of wood, which she used to make Living Wood. The fey guardian of the woods, Typhinia, chased her, and was killed. 
-
-Sometime later, in the years just before the [[Great War]], she left the [[Feywild]] and became loosely allied with [[Cha'mutte]]. 
-
-Agata was a sometimes ally of [[Cha'mutte]], a creature who reveled in chaos and misery, and wanted to see people suffer. She was not a major player in the war: her specialty was the misery of lives of the refugees and survivors of battle. During the war, she was the youngest of her ancient and powerful coven, and they traveled around the edges of the battlefield, feeding on suffering.
-
-But in [[Dunmar]], what should have been a great victory turned to defeat. The Dunmari were strong in battle and her coven underestimated them, seeking to intimidate a battle party into fleeing in terror, and all but her were slaughtered. Although Agata was able to kill the last of the Dunmari in the battle, her sisters were dead.
-
-She then vowed that win or lose, the Dunmari would pay. Her specific form of revenge was the watch the country fall apart, not from invasion but to fall into civil war and disintegrate from within. To do this, she has at every turn tried to keep the Dunmari from hearing the messages of their gods, and when they do, get them to ignore them, as against the protection of the gods there is little she can do ultimately. This project has been a great success, however, and [[Dunmar]] is more divided than ever. To supplement these larger goals, she spends her time making people miserable in usual hag ways.
-
-Her one other obsession is unusual magic. She is a collector and wants to get all the things, and so will sometimes make genuine deals if she can obtain a rare, or unique, magic item from it.
-### Travels
-
-17 Jan 1748: [[Fraternity of the Empty Moon]] approaches Agata, asks about getting past Dunmari protection and driving refugees to [[Tokra]] to hide among. Makes deal, exchanging [[scepter of command]] for assistance.
-17 Apr 1748: Agata sends Rotted Mongrels to watch Wellspring
-2 June 1748: Agata is late returning. Giant vulture leaves to bring a message to [[Dustthorn Horde]]. [[Orcs]] remain, waiting.
-3 June 1748: Giant vulture arrives at [[Dustthorn Horde]] camp, reports Agata is late. Argument ensues on what to do.
-
-%%
+%%SECRET[1]%%
 ## **Other Notes**
 
 - Agata possessed a magical substance called living wood, that she used to turn her victims into wooden puppets and worse. [[Jumi]], [[Cintra]]'s daughter, was in the process of being turned into a wooden mannequin when she was rescued by [[Dunmar Fellowship]] in [[Session 29 (DuFr)| May 1748]]. Also freed were:

@@ -32,4 +32,4 @@ Seen in the [[Mirror of the Past]]:
 
 ![[Raven Whistle Vision]]
 
-%%SECRET This is one of the few non-creepy things that [[Agata]] made. For a long time, she had as a companion a giant raven, that she flew with everywhere, that came from the Feywild and that she genuinely liked. After it died, she started using the giant fly and her giant vulture servants for traveling, but made this to honor the memory of that giant raven. When used, will occasionally give the user a brief, vague memory of the original giant raven. Taken from [[Agata]]'s hut. %%
+%%SECRET[1]%%

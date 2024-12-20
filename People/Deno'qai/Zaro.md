@@ -22,12 +22,4 @@ Zaro was a loyal follower of [[Mezzar]], who he believed to be an elf seeking to
 %%^End%%
 
 
-%%SECRET
-Male Deno'qai, chief of the Bek'eni tribe, fully under Grimbaskal's sway
-
-Description: Older man, bald but with a gray beard, hale, blue eyes, big nose.
-Mannerisms:  Authoritarian, suspicious of strangers, brusque.
-Goal/motivation: Simmering anger at the unfairness of the Deno'qai history, wants to return to the glory days of living in peace and under the protection of the elves. Does not understand why the other tribes of the Elderwood do not just submit to Mezzar's rule and help him rebuild.
-
-Probably killed?
-%%
+%%SECRET[1]%%

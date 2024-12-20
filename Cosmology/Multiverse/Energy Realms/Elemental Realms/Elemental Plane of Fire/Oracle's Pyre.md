@@ -13,6 +13,4 @@ dm_notes: important
 
 A mysterious feature, likely hidden in the Cinder Wastes. 
 
-%%SECRET
-something to do with divination and Frankar's runic magic, will be the center of the Frankar adventure
-%%
+%%SECRET[1]%%

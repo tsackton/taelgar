@@ -39,25 +39,7 @@ Now, the People of the Rainbow are thriving in [[Xurkhaz]], and perhaps in other
 - (DR:: 1582): [[Uzgash]] finds the [[Cloak of Rainbows|Cloak of Rainbows]] in a Dunmari fort in the [[Nashtkar]]
 - (DR:: 1583): [[Xurkhaz]] is founded as the new homeland of the People of the Rainbow. 
 
-%%SECRET 
-
-Full history notes
-
-Long ago - sometime after founding of [[Drankor]] but before the civil war - some [[Orcs]] managed to find themselves in the [[Feywild]]. Probably something like there was a fight between hordes, in part driven by defeat at the hands of Drankorian forces, and in defeat the infants/children of the losing horde were deemed weak and "drowned" but actually ended up in the [[feywild]]. One, named Ilios (which means bright in fey) who had not yet undergone the ritual of [[Thark]]'s blessing/curse, was raised by someone in the [[Cloudspinner]]'s court. Became a sorcerer / warlock / powerful magic user, and when he learned of his people's fate he began to sneak out into the world and kidnap infants, bringing them back to [[Cloudspinner]]'s realm to raise free of [[Thark]]'s curse. Eventually, this grew into a thriving community. They played an important role in defending the [[Cloudspinner]] against ~something~, and as a reward were gifted the [[Cloak of Rainbows|Cloak of Rainbows]] (now called the [[Cloak of Rainbows]]). The idea was they could return to Taelgar, and with the Mantle could not be found by [[Thark]] and thus could not be targeted via point 2 above. 
-
-Some were reluctant to leave, but others departed and wandered, growing slowly by stealing infants from other tribes and by their own natural rate of increase, but never settling for fear of [[Thark]], and trusting to the homeland in the [[Feywild]] as a refuge.
-
-The rumors of this cloak grew, and [[Apollyon|Apollyon]], while still allied with [[Cha'mutte]], convinced [[Cha'mutte]] that this power would be key to his quest to free the firstborn of their divine shackles. [[Cha'mutte]] traveled amongst the [[Orcs]] in disguise, and learned much from them about the history of the cloak, and spoke against [[Thark]] and the divine shackles that the world lived under. He gained a following, to an extent, among the [[People of the Rainbow]]. 
-
-[[Cha'mutte]] left, plotting now to convince, trick, or coerce the [[Cloudspinner]] into helping him, and thinking how to use the cloak for his own purposes. The [[Cloudspinner]] would not help, and [[Cha'mutte]], in his arrogance and spite, destroyed her realm, bringing the captured [[Cloudspinner]] back to the Circular Island. 
-
-This was the seed of the falling out of [[Apollyon|Apollyon]] and [[Cha'mutte]]. [[Cha'mutte]] forbade [[Apollyon|Apollyon]] from seeking the cloak, claiming that the [[Orcs]] were living the ideal he sought for everyone. [[Apollyon|Apollyon]], of course, saw the [[Orcs]] as less-than, not worth the trouble saving, and attacked, against [[Cha'mutte]]'s advice. (eventually this lead to the [[Cha'mutte]]'s plague and the destruction of [[Drankor]], once [[Apollyon|Apollyon]] acquired the cloak and turned to genocide of other races)
-
-The [[Orcs]] that survived [[Apollyon|Apollyon]]'s attack scattered and fled, living in tiny bands, hiding from [[Thark]]. Over the centures of the Dunmari expansion, the [[Orcs]] hid at the edges of civilization, largely to the east in the hills. Until the [[Great War]]. [[Cha'mutte]]'s methods, if not necessarily his aims, had turned dark and bitter at this point, and the [[Orcs]] hid, as always. 
-
-But they retained there long-ago protection from [[Cha'mutte]]'s plague, and during the [[Blood Years]] several bands began to congregate in the [[Plaguelands]], seeking quiet and isolation. One of these small nomadic tribes (led by an [[Orcs|orc]] named [[Uzgash]], now a revered founder/ancestor) recovered the [[Cloak of Rainbows]] - there was much rejoicing, and this group founded [[Xurkhaz]] in the desert, trusting to the cloak to keep their location hidden from [[Thark]]. Slowly word spread and many of the scattered groups returned to [[Xurkhaz]], and it is now a thriving community, remaining isolated from the rest of the world out of fear of stereotypes and prejudice. 
-
-%%
+%%SECRET[1]%%
 
 %%^Campaign:None%%
 ### Current Members

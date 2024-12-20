@@ -24,6 +24,4 @@ whereabouts:
 
 This suit was found [[Grimbaskal's Hoard]], and later enhanced by [[Nahto]], the kenku tinkerer, to be able to summon glamoured wings and allow the wearer to fly for a few hours a day. 
 
-%%SECRET
-some history goes here
-%%
+%%SECRET[1]%%

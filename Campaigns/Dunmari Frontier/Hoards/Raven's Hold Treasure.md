@@ -1,7 +1,7 @@
 ## Magic
 
 - [[Dwarven Driftglobe]] (uncommon minor item). Found two of these in the [[Dwarven Outpost (Raven's Hold)]], once belonging to the dwarves who lived there. 
-- Pearl of Power (uncommon major item).  A small magical pearl. Recovered from the belly of the roper fought in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]]. Probably Dwarven in origin. %%SECRET (need to check history with updates from Sembaran guide) Recovered from the belly of the roper killed in the dwarven outpost near Raven's Hold. This was originally the creation of a wizard of the lands north of Chardon, from before the Great War. It was lost to hobgoblins during the Blood Years, and then traded and stolen among different hobgoblin tribes, until it ended up in the hands of the hobgoblins and allies on the eastern side of the mountains who fought against Sembara in the Hobgoblin Wars in the 1570s. From here, it passed to a series of Sembaran adventurers, mostly priests, until it ended up in the hands of an adventurer killed by wild monsters in the northern part of the Plaguelands. Here is was lost for some time, until in the early 1700s, when it was found again by explorers from the Refounded Alliance of Aurbez, and eventually passed into the hands of a traveling sorcerer in 1742, heading south to explore rumors of evil on the southern mountain border of Aurbez. He found his way to Raven's Hold, where he was trapped, killed, and consumed by the roper. %%
+- Pearl of Power (uncommon major item).  A small magical pearl. Recovered from the belly of the roper fought in the [[Dwarven Outpost (Raven's Hold)|dwarven outpost]] near [[Raven's Hold]]. Probably Dwarven in origin. %%SECRET[1]%%
 - [[Shatterstorm]] (rare major item)
 - Spear of the War Leader. A Dunmari spear from the [[Northern War]], used by the gnoll leader in [[Raven's Hold]]. Traded to [[Havdar]] in exchange for the Ring of Jumping. 
 - Elemental Gem. A gem used to summon a fire elemental, found in Raven's Hold and used in the battle against [[Agata]] and later the gnolls in [[Session 28 (DuFr)]] and [[Session 29 (DuFr)]]. 
@@ -12,7 +12,7 @@
 
 - 36 small silver disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
 - 66 copper disks stamped with the [[Blackened Claw]] mark ([[Raven's Hold]], [[Wellby]])
-- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET Taken from the demon-cursed pool of misty water in the [[Raven's Hold]] courtyard. It is not magical but will continue to remain demonically contaminated. Probably does something horrible if you drink it.%%
+- Death Water from the pool of mist ([[Raven's Hold]]; [[Delwath]]). No obvious value. %%SECRET[2]%%
 - Metal vial with acidic liquid from gnoll war leader ([[Raven's Hold]], [[Wellby]]). No obvious value. A small metal vial filled with some kind of acrid liquid, carried by the gnoll leader in Raven's Hold.  %%Taken from dead body of gnoll war leader at Raven's Hold. This is demon blood.%%
 - Antique lock and key ([[Raven's Hold]], [[Wellby]]). Repaired by [[Riswynn]]. Probably could be sold for 5-30 gp. 
 - Ivory scroll cap, part of the [[Ivory Scroll Case]]

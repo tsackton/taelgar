@@ -28,6 +28,4 @@ The middle-aged Dunmari Head Archivist at the [[Tokra]] [[Archives]]. Cautious t
 As of mid-July 1748, he has allowed [[Govir]] to take over some of the administrative burden at the Archives, at the urging of [[Dunmar Fellowship]], and has secured funds for [[Govir]] to hire additional scribes and clerks. 
 %%^End%%
 
-%%SECRET
-A true believer in "greater [[Dunmar]]", quite disappointed to have Chardonian forces outside the walls. Very cautious so will not publicly come out in support of [[Sura]], but clearly thinks she would be better for [[Dunmar]] and for [[Tokra]] than the current Samraat.
-%%
+%%SECRET[1]%%

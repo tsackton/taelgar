@@ -22,10 +22,4 @@ Viewed in [[Mirror of the Past]]:
 ![[Floating Disc Coin Vision]]
 %%^End%%
 
-%%SECRET
-It was most recently possessed by [[Arcus]]. He is the first image in the mirror scene.
-
-Before that, it was part of the Great Library of Chardon, studied by a (so far anonymous) mage there. This is the second scene.
-
-Before that, leaving details up in the air.
-%%
+%%SECRET[1]%%

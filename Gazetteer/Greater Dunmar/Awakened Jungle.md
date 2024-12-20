@@ -13,7 +13,4 @@ dm_notes: important
 
 A coastal jungle, south of the [[Garamjala Plateau]], west of the ruins of [[Drankor]], inhabited by talking animals. 
 
-%%SECRET
-created by Rai jade crashlanding
-corrupted by Limbo energy unleashed from Apollyon destroying Cha'mutte's prison
-%%
+%%SECRET[1]%%

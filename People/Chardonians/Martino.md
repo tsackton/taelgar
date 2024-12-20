@@ -22,17 +22,4 @@ whereabouts:
 
 He is extremely knowledgeable about the waters and coasts of [[Apporia]], but now spends his days hanging around [[Artevus]], gazing out to sea. 
 
-%%SECRET
-
-(these are not necessarily accurate)
-
-*fisherman, sailed along coast, good pilot*
-
-lived outside of first town (check name)
-
-Appearance: A grizzled old sailor with deeply tanned skin, weathered by years at sea, sporting a tangled grey beard and sharp, watchful eyes.
-
-Distinctive Trait: Known for his cautious demeanor and the long, reflective pauses before he speaks.
-
-Roleplaying Notes: Martino is reserved and suspicious of outsiders, opening up only after seeing some proof of respect for the sea or after an exchange of maritime skills or stories.
-%%
+%%SECRET[1]%%

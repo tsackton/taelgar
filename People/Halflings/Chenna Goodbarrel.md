@@ -51,14 +51,4 @@ SORT choice(species, species, typeof)
 Secret mostly contains roleplaying notes; ask if they'd be useful
 %%
 
-%%SECRET
-*Roleplaying Notes*
-
-*Warm motherly aunts. Chenna is outgoing, friendly, think southern matron, maybe even talk in a bit of a drawl.**
-
-*Wellby would have passed through a few times with his family and certainly met Chenna and Harriet, but not know them well. They remember Wellby as a small boy and have a kind of auntly/matronly attitude.* 
-
-*Connection to University. Neither has a direct line, but are generally optimistic and cheerful, and will tell Wellby "Just go there and ask, honey. Scholars don't bite."*
-
-*Start friendly, and don't need to be convinced to offer advice.*
-%%
+%%SECRET[1]%%

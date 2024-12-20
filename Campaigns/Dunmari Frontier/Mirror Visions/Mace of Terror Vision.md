@@ -6,12 +6,4 @@ The scene shifts, and you see two people standing over the mace. A human women, 
 
 The scene shifts again, and you see the same dwarf sitting in the entry room and dining hall of Fausto's tower. Fausto and the dwarf are speaking, perhaps arguing, then turns and leaves in something of a huff. The same woman in leather follows him, as does a stoneborn warrior with a big sword slung over his back, who you have not seen before. 
 
-%%SECRET
-
-Weapon of a paladin of the warlord in the Great War, who fell in battle, perhaps somewhere around Lake Valandros - anyway in the north. 
-
-Recovered by a team of adventurers working for the Great Library, from the [[Crimson Forest]], a fort near Lake Valandros, by a different group of adventurers, ones the party has not met / heard of. And then sold to Fausto.
-
-The adventurers were perhaps a little unhappy about the deal they received and headed north, and are now the party lost in the Goldpeak Mines?
-
-%%
+%%SECRET[1]%%

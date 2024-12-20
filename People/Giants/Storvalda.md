@@ -2,5 +2,4 @@
 tags: [person, status/stub]
 ---
 
-%%SECRET
-Bjarnfrost's daughter %%
+%%SECRET[1]%%

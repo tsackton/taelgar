@@ -21,6 +21,4 @@ ddbLink: https://www.dndbeyond.com/magic-items/8705290-flaming-bowstring
 
 Originally the weapon of [[Camana]], the leader of [[Havdar]]'s scouts, who died in battle against the [[orcs]] of [[Grash's Horde]], in the [[Nashtkar]]. After the [[Dunmar Fellowship]] [[Session 20 (DuFr)|aided]] [[Havdar]] in battle, was [[Session 21 (DuFr)|gifted]]to [[Wellby]]. 
 
-%%SECRET
-A creation of the Dunmari, specifically the Mystai of Aagir, given to [[Havdar]] to gift as he desired, as a reward for great service in the name of Aagir.
-%%
+%%SECRET[1]%%

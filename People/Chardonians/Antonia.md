@@ -37,9 +37,4 @@ Seemed to have mixed feelings about [[Kadmos]] actions to charm the party in [[S
 As far as you know, still traveling with [[Kadmos]]. 
 %%^End%%
 
-%%SECRET
-all of this is outdated/wrong
-Armorer artificer. She is a tinkerer, and motivated by wanting to learn more, and seeing joining the inner circle as the surest route to advancement. Evil in a "turn a blind eye" kind of way, she doesn't really care/see the "Drankorian supremacy" stuff, just wants to do her thing, find her treasures, learn knowledge. Doesn't see any knowledge as too evil or dark, but does get a bit squicky about charms and the like - but largely because she disagrees about their effectiveness, not because she has any qualms about the means justifying the ends.
-
- When she took off the armor in camp she seemed small and unassuming, but that armor was pretty serious stuff. Probably magical.
-%%
+%%SECRET[1]%%

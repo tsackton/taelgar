@@ -32,14 +32,4 @@ Fausto is also a powerful enchanter who tricked [[Dunmar Fellowship]], attemptin
 
 He is also apparently a member of a secret organization called [[The Cleansed]]. 
 
-%%SECRET
-An inner sanctum member of the Cleansed, who knows of the Crown of Purity and is one of the public patrons of artifact hunters using the Cleansed wealth, via the Society of the Open Scroll. Now in possession of the eyes and crown of Hralgar.
-
-### Mannerisms
-
-Charming, friendly, unassuming/disarming. Always eager to help, to make connections. Smooth operator. Keeps his motives close, keeps secrets. Will say things like: "I was blessed with good fortune, just want to give back to the world now" and stuff like that.
-
-### Motives/etc
-
-A lot depends on if he learns of the party's identity. If yes, will invite them upstairs and try to ambush them. If no, will come down whether he can get something of equal value.
-%%
+%%SECRET[1]%%

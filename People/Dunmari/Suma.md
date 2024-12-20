@@ -28,6 +28,4 @@ In April 1748, she argued for an evacuation of Karawa in the face of rampaging g
 - Suma knows [[Dunmar Fellowship]], and is grateful to them for what they did for Karawa, for backing her up in discussions with other village leaders when decided what to do about the gnoll attacks, and for returning the blessed goods from the temple in the fort east of Gomat. Gifted a scroll of healing to [[Dunmar Fellowship]] and curious about its fate. 
 %%^End%%
 
-%%SECRET
-Suma, is one of the few who remains is a bit reluctant and skeptical of [[Sura]], fearing the war that will inevitably come and uncertain of the gods will. Also still feels some duty in her role as the formal civic leader of Karawa and formally beneath Karnas in the religious hierarchy. 
-%%
+%%SECRET[1]%%

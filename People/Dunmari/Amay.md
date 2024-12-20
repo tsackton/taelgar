@@ -25,6 +25,4 @@ A captain in the Dunmari army, in service of [[Illyan]] and ultimately the Samra
 - (DR:: 1748-07-02): Briefly encounters [[Dunmar Fellowship]] in Tokra while escorting them to [[Illyan]]'s camp. 
 %%^End%%
 
-%%SECRET
-Fate after the battle of Tokra unknown
-%%
+%%SECRET[1]%%

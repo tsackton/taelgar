@@ -27,10 +27,4 @@ According to [[Marcella]], he was once a sweet sailor with a beautiful singing v
 
 ![[hektor.png|right|320]]
 
-%%SECRET
-Zealot barbarian. Was a sailor, not particularly charming or smart but did his duty. Joined the Open Scroll for money, and was recruited into the Cleansed by Kadmos, albeit mostly against his will. Was a sweet boy but wounded as a sailor and not too bright or sure of himself. Knows Marcella from a past life. Kind of a "bad" version of Amos from the Expanse, looks to Kadmos to tell him what to do and what is right, and gets from Kadmos the "Drankorian supremacy" ideology.
-
-Huge Chardonian man, muscled and over 6 feet tall. Silent. Not wearing any armor, but carried a clearly well-loved halberd.
-
-[https://www.dndbeyond.com/profile/Green_Zebra/characters/69984663](https://www.dndbeyond.com/profile/Green_Zebra/characters/69984663)
-%%
+%%SECRET[1]%%

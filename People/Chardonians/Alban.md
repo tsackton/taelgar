@@ -39,6 +39,4 @@ LIST WITHOUT ID events.text flatten file.lists as events where contains(events.t
 ```
 %%^End%%
 
-%%SECRET
-Was a human sorcerer. Killed by lightning in Eudomes' Tower, buried in a shallow grave at the base of the rock structure on which the tower sits.
-%%
+%%SECRET[1]%%

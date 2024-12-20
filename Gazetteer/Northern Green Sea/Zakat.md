@@ -22,6 +22,4 @@ Zakat is a sprawling city with high walls and extensive coastal fortifications, 
 
 The city is known for strange goods from the north, including furs, hide, and monster parts. Most prized of all is dragon hide, which is sold for exorbitant prices to foreign traders. It is a common stop for Tollender ships seeking magical ingredients for the famous Tollen dyes. 
 
-%%SECRET
-placeholder for interesting detail
-%%
+%%SECRET[1]%%

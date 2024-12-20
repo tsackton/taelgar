@@ -37,9 +37,4 @@ One piece was [[Second Dream of Rai|seen]] to fall into a dense, lush rainforest
 
 The [[Ancient and Honorable Guild of Philosophers]] provided information about these fragments: [[Philosopher's Information Concerning Rai's Hand]]
 
-%%SECRET
-The last location is probably going to be in Drankor itself.
-Hypothesis is that seeing the vision of the entire hand will reveal something about the phylactery, which should be how it works. But also might give some advantages in the final fight if they have all the pieces. 
-when the party received the letter from the Philosopher's Guild on Jan 25th, the jade was not yet found; although information from the letter could have been a few weeks out of date (the request was made in Tollen some time before).
-so if a dragon or something else has the jade, must have acquired it recently. 
-%%
+%%SECRET[1]%%

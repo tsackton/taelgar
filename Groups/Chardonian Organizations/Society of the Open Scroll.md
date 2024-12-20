@@ -22,14 +22,7 @@ Generally speaking in favor of preserving knowledge, against chaltye magic, and 
 
 - (DR::1561): The Society of the Open scroll is founded in Chardon, in the aftermath of the [[Great War]], with a mission to preserve and protect knowledge of magic against future diaster, and to learn the secrets of the past to better protect Chardon and the world from existential magical threats. 
 
-%%SECRET 
-
-This is a society in the tradition of e.g. the Royal Society. They have meetings, sometimes public lectures or demonstrations, sponsorship of individual scholars and research projects, including expeditions, and the like. The membership is largely made up of academics already associated with the Library or the University, but formally neither is a requirement to join - sponsorship and approval by a vote of the members is enough. In the past 20-30 years have been recruiting more "practical historians" and now have kind of an "explorer's wing" for adventurers and the like. This I funded primary by the [[Great Library]], but occasionally by individual patrons.
-
-Generally speaking in favor of preserving knowledge, against chaltye magic, and in favor of sharing within the group but secrecy outside the group for fear of passing along dangerous magic.
-
-Need to sort out relationship between this and the Great Library
-%%
+%%SECRET[1]%%
 
 %%^Campaign:None%%
 ### Members
