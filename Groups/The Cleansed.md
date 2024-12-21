@@ -11,7 +11,7 @@ ancestry: mysterious
 > A mysterious cult  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-A mysterious secret society in [[Chardon]] of which [[Fausto]] is a member and seem to be dedicated in some way to Drankorian purity. 
+A mysterious secret society in [[Chardon]] of which [[People/Chardonians/Fausto]] is a member and seem to be dedicated in some way to Drankorian purity. 
 
 %% Tim: Does this need more? %%
 

@@ -15,7 +15,7 @@ A strange scroll, with writing in an impossible language. The runes wiggle and s
 
 ## Events
 - (DR:: 1748-07-02): Recovered by the [[Dunmar Fellowship]] from the lair of the [[Fraternity of the Empty Moon]]
-- (DR:: 1748-08-24): Given to [[Fausto]], in theory in exchange for [[Hralgar's Eyes]] and other items
+- (DR:: 1748-08-24): Given to [[People/Chardonians/Fausto]], in theory in exchange for [[Hralgar's Eyes]] and other items
 - (DR:: 1749-05-01): Used to open a rift to [[Pandemonium]] in the middle of Chardon, destroying the scroll and causing extreme death and destruction within the city. [[Kenzo]] and [[Delwath]] were blamed, said to be working for [[Dunmar]], although it was later reveled that in fact dopplegangers created by Apollyon had carried out the attack.
 
 %%^Campaign:dufr%%
@@ -23,7 +23,7 @@ Can, according to [[Seeker]]’s identity spell, somehow “bring the plane of [
 
 Looked at in [[Mirror of the Past]]: [[Pandemonium Scroll Vision]]
 
-Traded to [[Fausto]] as part of the deal for [[Hralgar's Eyes]]. Kept by [[Fausto]] when he betrayed the party.
+Traded to [[People/Chardonians/Fausto]] as part of the deal for [[Hralgar's Eyes]]. Kept by [[People/Chardonians/Fausto]] when he betrayed the party.
 %%^End%%
 
 %%SECRET[1]%%

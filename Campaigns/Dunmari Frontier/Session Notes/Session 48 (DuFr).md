@@ -18,20 +18,20 @@ name: Dunmari Frontier - Session 48
 > *On Earth: Wednesday Jun 22, 2022*
 > *[[Chardon]]*
 
-In Chardon, the [[Dunmar Fellowship]] learns about the dangers of [[Chalyte]], speaks with friends old and new, and hears about [[Fausto]]'s wealth and influence. 
+In Chardon, the [[Dunmar Fellowship]] learns about the dangers of [[Chalyte]], speaks with friends old and new, and hears about [[People/Chardonians/Fausto]]'s wealth and influence. 
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] arrives in [[Chardon]] and learns of the regulated magic and the dangers of [[Chalyte]] abuse.
 - [[Kenzo]] meets with [[Kaeso]], his mentor and a [[Shakun Mystai|Mystai of Shakun]], who shares concerns about [[Chalyte]] and arranges a meeting with his old teacher, [[Roscelia]].
 - The party reconnects with [[Vola]], who agrees to send letters to other adventurers and provides insight into the [[Society of the Open Scroll]].
 - [[Ulfgar Frostbeard]], a metaphysics professor, informs them about [[Galen]]'s new Dwarven artifact.
-- [[Dee Wildcloak]] and [[Dain Goldhammer]] recount their harrowing experience at [[Stormcaller Tower]], and reveal [[Fausto]] as a key expedition patron.
+- [[Dee Wildcloak]] and [[Dain Goldhammer]] recount their harrowing experience at [[Stormcaller Tower]], and reveal [[People/Chardonians/Fausto]] as a key expedition patron.
 
 ### Timeline
 - (DR:: 1748-08-21), afternoon: Meet [[Kaeso]]. 
 - (DR:: 1748-08-21), evening: Reconnect with [[Vola]] at [[The Chapterhouse]], discuss the [[Society of the Open Scroll]]. 
 - (DR:: 1748-08-22), morning: Meet [[Seeker]]'s colleague[[ Ulfgar Frostbeard]], professor on the Faculty of Metaphysics. Learn [[Galen]], a professor of experimental metaphysics, has the [[Chalice of the Runepriest]].
-- (DR:: 1748-08-22), noon: Meet [[Dee Wildcloak]] and [[Dain Goldhammer]] for lunch. Learn that [[Fausto]], a rich scholar, has the [[Hralgar's Eyes|Eyes of Hralgar]]. Dee flirts with [[Wellby]].
+- (DR:: 1748-08-22), noon: Meet [[Dee Wildcloak]] and [[Dain Goldhammer]] for lunch. Learn that [[People/Chardonians/Fausto]], a rich scholar, has the [[Hralgar's Eyes|Eyes of Hralgar]]. Dee flirts with [[Wellby]].
 
 
 ## Narrative
@@ -53,6 +53,6 @@ In the morning, the first stop is [[Seeker]]’s colleague [[Ulfgar Frostbeard]]
 
 The next stop is [[The Chapterhouse]], the tavern where [[Dee Wildcloak]] and [[Dain Goldhammer]] frequently take their lunch. From [[Dee Wildcloak]] and [[Dain Goldhammer]] (but really mostly from [[Dee Wildcloak]], who spends most of the story eyeing and flirting with [[Wellby]] and hinting that maybe he should join her when she gets enough funds to start her inn at a crossroads somewhere), they learn the story of their adventures. They left [[Chardon]] with [[Servius]], [[Arcus]], and [[Alban]], all humans. [[Servius]] and [[Arcus]] argued constantly - [[Arcus]] was obsessed with Drankorian artifacts and kept pushing to press ahead, while [[Servius]] kept wanting to chase rumors and find old stories and look in books for clues. [[Alban]], [[Dee Wildcloak]], and [[Dain Goldhammer]] left on the road east of [[Songara]], heading across the plains – passing a giant statue of a Stoneborn warrior that had a [[Stoneborn Statue Dungeon|looted dungeon]] beneath it before coming to [[Stormcaller Tower]]. When they arrived, there were no storms or anything. They began to explore, and when they reached the large carved giant’s head, [[Alban]] told them the [[Hralgar's Eyes|eyes]] and the five [[Binding Stones|gems set into the crown]] were magical, so they took them. That is went things went wrong - lightning came alive on the walls of the tower, and killed [[Alban]], while [[Dee Wildcloak]] and [[Dain Goldhammer]] fled into the growing storm. 
 
-From [[Dee Wildcloak]] and [[Dain Goldhammer]], the party also learns that [[Fausto]] funded their expedition, and probably [[Casian]], [[Kadmos]], and company as well. [[Fausto]] is a very rich scholar – no one knows where his wealth came from, although rumor says he is a retired adventurer. But he likes to spread it around, spend money on expeditions, collect treasures, and trade things around. He will certainly be happy to talk to the party, they say, if they claim to be adventurers looking for work. Indeed, [[Dee Wildcloak]] and [[Dain Goldhammer]] are about to head south, to [[Illoria]], on another mission for [[Fausto]], to aid [[Servius]] who has found rumors of treasure but cannot find adventurers to help him get it. 
+From [[Dee Wildcloak]] and [[Dain Goldhammer]], the party also learns that [[People/Chardonians/Fausto]] funded their expedition, and probably [[Casian]], [[Kadmos]], and company as well. [[People/Chardonians/Fausto]] is a very rich scholar – no one knows where his wealth came from, although rumor says he is a retired adventurer. But he likes to spread it around, spend money on expeditions, collect treasures, and trade things around. He will certainly be happy to talk to the party, they say, if they claim to be adventurers looking for work. Indeed, [[Dee Wildcloak]] and [[Dain Goldhammer]] are about to head south, to [[Illoria]], on another mission for [[People/Chardonians/Fausto]], to aid [[Servius]] who has found rumors of treasure but cannot find adventurers to help him get it. 
 
 The session ends as the party leaves [[The Chapterhouse]], heading to look for [[Gnaeus]], the scholar who wrote the book “[[On the Lost People of the Forests]]” that mentions [[Rai]]. 

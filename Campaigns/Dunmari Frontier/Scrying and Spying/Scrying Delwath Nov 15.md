@@ -14,7 +14,7 @@ Random scries on the road are tricky, and the odds are high that you will just s
 
 #### Fausto
 
-[[Fausto]] is elusive. Twice, you sense just a blankness, and once you sense him resist your scry. Once, he is eating a meal alone in his tower, looking over bills (he clearly still has a lot of money, and is clearly hosting elaborate dinners, based on his household bills). Once, he is on the streets of [[Chardon]] again, walking with some urgency through what looks like the academic quarter, stopping to great people with a wave or a nod but moving with purpose.
+[[People/Chardonians/Fausto]] is elusive. Twice, you sense just a blankness, and once you sense him resist your scry. Once, he is eating a meal alone in his tower, looking over bills (he clearly still has a lot of money, and is clearly hosting elaborate dinners, based on his household bills). Once, he is on the streets of [[Chardon]] again, walking with some urgency through what looks like the academic quarter, stopping to great people with a wave or a nod but moving with purpose.
 
 #### Hralgar
 

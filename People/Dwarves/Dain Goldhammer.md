@@ -21,6 +21,6 @@ whereabouts:
 
 %% clean up whereabouts, add notes from OneNote %%
 
-An adventurer, working for the [[Society of the Open Scroll]], funded by [[Fausto]]. Often travels with [[Dee Wildcloak]]. 
+An adventurer, working for the [[Society of the Open Scroll]], funded by [[People/Chardonians/Fausto]]. Often travels with [[Dee Wildcloak]]. 
 
 Part of the group that explored [[Stormcaller Tower]] and brought [[Hralgar's Eyes]] and the [[Binding Stones]] back to [[Chardon]].
