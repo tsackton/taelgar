@@ -40,7 +40,7 @@ She is dedicated to the cause of the [[Society of the Open Scroll]], believing i
 - Friendly with [[Dunmar Fellowship]], especially with [[Kenzo]], who had a similar childhood in Chardon. Somewhat awed by [[Delwath]]. Less friendy with [[Riswynn]], largely because or [[Riswynn]]'s distain. 
 - Friendly with other adventurers for the Society of the Open Scroll, in particular [[Dee Wildcloak]], [[Dain Goldhammer]], and [[Alban]]
 - Looks up to her mentor, [[Agon]]
-- Knows many other Chardonians, including [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]], whom she traveled with in early 1748, and [[Crispus]] and [[Fausto]], who are the funders of expeditions she has been on or knows of. Particularly friendly with [[Marcella]]. Dislikes [[Casian]], whom she considers an arrogant snob who believes he can take whatever he wants. 
+- Knows many other Chardonians, including [[Kadmos]], [[Marcella]], [[Hektor]], [[Antonia]], and [[Casian]], whom she traveled with in early 1748, and [[Crispus]] and [[People/Chardonians/Fausto]], who are the funders of expeditions she has been on or knows of. Particularly friendly with [[Marcella]]. Dislikes [[Casian]], whom she considers an arrogant snob who believes he can take whatever he wants. 
 
 ## Chronology
 %%SECRET[5]%%

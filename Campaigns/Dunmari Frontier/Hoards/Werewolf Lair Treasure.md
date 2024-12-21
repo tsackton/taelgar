@@ -4,7 +4,7 @@
 ### Scrolls and Papers
 - Detect Magic. (Werewolf lair) %%SECRET[2]%%
 - See Invisibility (Werewolf lair) %%SECRET[2]%%
-- [[Pandemonium Scroll]]. Traded to [[Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
+- [[Pandemonium Scroll]]. Traded to [[People/Chardonians/Fausto]] as part of the deal for [[Hralgar's Eyes]]; kept by [[People/Chardonians/Fausto]] when he betrayed the party in [[Session 49 (DuFr)]].
 - [[Dunmari map of Pandemonium ruins|Map of old Drankorian fort]] protecting area of [[Pandemonium]] influence. Dunmari make. Taken from werewolf lair. Faintly magical.
 - [[Papers from the Fraternity of the Empty Moon]]. Translations left at the [[Tokra]] [[Archives]] with [[Govir]]. No obvious value. 
 ## Other
