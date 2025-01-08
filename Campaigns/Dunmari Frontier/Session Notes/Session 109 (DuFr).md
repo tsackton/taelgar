@@ -36,7 +36,7 @@ The [[Dunmar Fellowship]] infiltrates [[Apollyon's tower]], uncovers its secrets
 -  (DR:: 1749-05-19), afternoon: Explore [[Apollyon's tower]]; find lich chamber; destroy undead in the grand hall
 -  (DR:: 1749-05-19), evening: Find Apollyon's forge, destroy void sword protecting it. Load Apollyon's throne into Portable Hole, along with [[Apollyon's Tower Treasure]]. Teleport back to [[Dimitaur]] at the summit of the mountain.  
 ### Mirror of the Past
-- (DR:: 1749-05-19): Look at [[Apollyon's soulbinding manacles]] in the [[Mirror of the Past]], seeing [[Apollyon's Soulbinding Manacles Vision]] (recharge:: mirror)
+- (DR:: 1749-05-19): Look at [[Apollyon's Soulbinding Manacles]] in the [[Mirror of the Past]], seeing [[Apollyon's Soulbinding Manacles Vision]] (recharge:: mirror)
 
 ## Narrative
 The party begins their journey at dawn, observing the black marble tower on the coast from a mountain peak. They weigh different approaches, ultimately transforming into ospreys using [[Seeker]]'s Animal Shapes spell to covertly navigate the terrain. As they fly westward, they cross over forests and rocky plains, reaching the tower.

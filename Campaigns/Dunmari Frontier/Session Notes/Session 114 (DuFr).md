@@ -9,9 +9,43 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 114
 ---
 
+## Narrative
 
+Our session begins as night falls over the[[ Temple of the Eight Divines]] in [[Drankor]]. Within the temple’s hallowed walls, the party takes refuge from the encroaching darkness of the ruined city. The divine aura of the temple offers a rare moment of solace as the group contemplates the daunting task ahead: freeing the seven souls trapped within Apollyon’s phylactery and destroying the artifact.
 
-### Detailed Summary
+Seeker’s research has confirmed that unraveling the phylactery’s magic requires traveling to the [[Land of the Dead]], bringing physical mementos tied to each soul, to allow the souls to remember themselves, unraveling [[Apollyon's Phylactery]]. Four such mementos have already been secured: three death masks recovered from the Chapel of the Father and a silver pen nib from [[Valanthe]]’s courtyard. The party identifies their remaining targets as [[Seraphina Appleblossom]], a halfling tavern owner near the docks; [[Khemut of Targu]] a foreign sailor or traveler likely tied to the docks; and [[Minarith]], an elf of the peronar lineage, about whom little is known.
+
+As the group debates their approach to the [[Land of the Dead]], various logistical and ethical concerns arise. _Plane Shift_ will require the body of a recently deceased individual whose soul still lingers in the [[Land of the Dead]], prompting discussions about where such a body might be obtained. The group resolves to prioritize recovering the remaining mementos before finalizing their plan, and as dawn breaks, they fortify themselves with _Heroes’ Feast_ before setting out toward the docks. [[Wellby]] remains behind to guard the phylactery.
+
+---
+
+The journey to the docks takes the party through the overgrown streets of [[Drankor]], where jungle vines and oppressive humidity combine to create a suffocating atmosphere. As they cross a massive plaza, [[Seeker]] clears vines from a 30-foot-high arch, revealing a relief of [[Apollyon]] surrounded by a worshipful crowd, radiant light streaming from his hands. They note the ominous imagery and press on.
+
+Further south, faint cries for help echo from a ruined building. The voices, speaking in Common, Elvish, and Dwarvish, tempt the group, but they decide against investigating, marking the location for potential future exploration. Shortly after, a group of approximately 35 shadowy undead emerges from the jungle. Employing _Invisibility_, the party evades detection and continues cautiously.
+
+---
+
+Arriving at the docks, they find the area largely in ruins, with only a few structures still standing. They identify the likely location of [[Seraphina Appleblossom]]’s tavern, "[[The Laughing Wave]]," marked by an archway adorned with carvings of curling waves. Inside, an eerie mist fills the space, and sunlight filtering through the ruined walls takes on a reddish hue.
+
+As the party explores, a conglomeration of bound spirits materializes, its sorrowful presence suffusing the air. Despite their invisibility, the spirits converge on the group, initiating combat. [[Delwath]]’s _Synaptic Static_ obliterates half the spirits, while [[Kenzo]]’s precision attacks and [[Riswynn]]’s divine radiance dispatch the rest. However, the battle intensifies as a larger, more solid entity of conjoined spirits rises, radiating psychic despair and evoking unsettling memories. [[Delwath]]’s _Sickening Radiance_ reveals the entity, and a combination of [[Kenzo]]’s relentless strikes and [[Riswynn]]’s divine power destroys it.
+
+In the aftermath, the party discovers a halfling-sized cooking pot, scorched but intact, radiating faint magic. Identified as a weak memento of [[Seraphina Appleblossom]], the pot is secured before the group turns their attention to the cellar beneath the tavern.
+
+Clearing debris with _Mold Earth_, they uncover a trapdoor leading to a well-preserved cellar. Inside, they find rotted casks and a locked wooden chest containing a cache of silver and gold coins, some bearing the markings of Targu, hinting at Khemut’s connection to the tavern. A stone shelf holds decayed firework casings, resonating strongly with [[Seraphina Appleblossom|Seraphina's]] soul.
+
+---
+
+With six mementos secured, the group debates their next move. Divination magic points them to the Custom House as a promising lead for information on [[Minarith]], and possibly also a place to find a stronger connection to [[Khemut of Targu]]. After a short rest to recuperate, they proceed to the Custom House, a partially intact structure overgrown with vegetation. Inside, they find remnants of opulence—metal, glass, and carvings hint at its former grandeur.
+
+Deeper within, a large room shrouded in swirling red mist awaits. Shafts of light illuminate a pile of bones and a preserved wooden chest in the far corner. Sensing danger, the party considers their options. [[Delwath]] casts _Banishment_ on the mist, temporarily dispersing it and allowing the group to act quickly.
+
+The chest, revealed to be a magically preserved cabinet, contains hundreds of scrolls. [[Kenzo]] locates a shipping manifest tied to [[Khemut of Targu]] and hastily collects additional scrolls marked with sigils or other notable details. As the mist begins to re-form, the group retreats, taking roughly 100 scrolls with them.
+
+Among the recovered scrolls are trade records and manifests detailing [[Drankorian Empire|Drankor]]’s commerce, along with references to three major universities: the [[Imperial University]], [[Valtrius University]], and the [[University of the Blessed Waters]] (also known as The Thalorian). However, no mention of [[Minarith]] is found.
+
+[[Kenzo]]’s soul sense detects a connection to [[Minarith]] still within the mist-filled room. Braving the danger, he re-enters and retrieves a scroll identifying [[Minarith]] as a faculty member of the Thalorian. With this crucial lead in hand, the group retreats to the temple to regroup, ready to pursue the next phase of their journey: locating [[University of the Blessed Waters|The Thalorian]] and securing a memento of [[Minarith]].
+
+## Detailed Summary
 #### Contemplating the Path Ahead
 - The party begins in the temple of the Eight Divines in Drankor as night falls. The holy aura of the temple protects them from the encroaching darkness of the city.
 - The group reflects on their goal to destroy the phylactery by freeing the seven souls trapped within it.
