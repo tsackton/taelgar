@@ -10,7 +10,53 @@ name: Dunmari Frontier - Session 116
 ---
 
 
-### Detailed Summary
+## Narrative
+
+The party teleports to the Temple of the Eight Divines in Drankor, their arrival marking a pivotal moment in their journey. They are met by Fausto, a chalyte knight, and seven war wizards, all poised for battle. The tension is palpable as the confrontation begins.
+
+Kenzo’s _Soul Sight_ reveals Fausto’s enhanced power, emanating from the sinister [[Crown of Purity]] upon his head. Magical tendrils extend from the crown to various points, including the [[Mirror of Soul Trapping]] and the chalyte knight. Kenzo wastes no time, unleashing a _Fireball_ from the Necklace of Fireballs, damaging Fausto and the war wizards but failing to kill them.
+
+Fausto counters with a spell, eluding Seeker’s _Counterspell_ and taking control of the battlefield. Seeker falls victim to Fausto’s domination, compelled to attack Riswynn with a devastating eighth-level _Rune of Psychic Disruption_. Riswynn collapses, incapacitated, while Delwath resists a similar charm. Under Fausto’s influence, Seeker grants him Runic Inspiration, further complicating the fight.
+
+Wellby attempts to blind Fausto with a precision arrow, wounding him but failing to disrupt his vision. Meanwhile, the war wizards target Kenzo, but their attacks falter. Delwath summons a pack of spectral lynxes, which tear through the war wizards, significantly thinning their ranks. The chalyte knight charges Kenzo, knocking him back but failing to keep him down. Kenzo retaliates, dispelling Fausto’s magic on Seeker with his cleansing touch and landing a flurry of blows on Fausto. Riswynn begins to recover, ready to rejoin the fray.
+
+---
+
+Fausto’s sinister grin falters as Kenzo’s relentless attacks sever one of the gray magical tendrils extending from the Crown of Purity. Each significant blow causes another tendril to snap, revealing the crown’s connection to Fausto’s resilience. Seeker disrupts Fausto’s spellcasting with a timely _Counterspell_, further frustrating his efforts to regain control.
+
+The party shifts focus, realizing the crown is the key to ending Fausto’s power. Seeker attempts to dislodge it using _Catapult_ with a chain net, but the chalyte knight intercepts the attack. Riswynn follows with _Shatterstorm_, aiming to force the crown loose through sheer force, but it remains fixed. Wellby’s sleight-of-hand attempt also fails, leaving the party to consider alternative strategies.
+
+Delwath casts _Sleep_, successfully incapacitating Fausto temporarily. However, when Delwath attempts to remove the crown, he suffers massive psychic backlash, throwing him 40 feet and dealing significant damage. The chalyte knight awakens Fausto, reigniting the battle.
+
+---
+
+Kenzo seizes the opportunity to grab the Crown of Purity, using Seeker’s inspiration to overcome its defenses. After a brief struggle, the crown settles on Kenzo’s head, severing its connection to Fausto and the chalyte knight. The knight kneels before Kenzo, acknowledging his new authority. Fausto’s life force fades as the crown’s power abandons him, leaving his body lifeless.
+
+With the crown’s influence in hand, Kenzo commands its network of controlled individuals. He orders [[Marius Cusico]], the Chardonian general, to surrender and retreat from Dunmar. Testing his control, he directs the chalyte knight into a meditative pose and issues reforms to Chardonian bureaucrats tied to the chalyte trade, urging societal restructuring and reparations.
+
+The party debates the morality of wielding the crown’s power, with concerns about its influence over Kenzo. Riswynn proposes testing its effects, leading to Kenzo relinquishing the crown. When Riswynn attunes to it, Kenzo collapses as the crown drains his life force. The party stabilizes him, but he is unable to reattune to the crown.
+
+Through Wellby’s ancestral memory, the party learns the crown predates human settlement and has been both a tool for benevolence and a weapon of destruction. Halfling lore reveals the crown transfers ownership only upon the death or defeat of its previous wielder.
+
+Under Riswynn’s attunement, her aura remains unchanged, reassuring the party of her integrity. She maintains Kenzo’s orders for dismantling the chalyte trade but promises to wield the crown responsibly. The group discusses destroying the crown to prevent future harm, with Kenzo advocating for a delay to ensure reforms are enacted first.
+
+---
+
+Preparations turn to Apollyon’s tomb. Seeker uses _Clairvoyance_ to scout its interior, describing a massive statue of Apollyon, rows of dark pillars, and an altar in an unfinished space adorned with murals and statues. The red mist surrounding the tomb’s base, remembered as a remnant of Cha'mutte’s plague, does not enter the structure. Wellby receives a message from Sura detailing an unexpected truce: General Cusico has called for an end to hostilities in the Chardon-Dunmari War, though a rogue contingent of soldiers and wizards may still pose a threat.
+
+The party rests, preparing to enter the tomb the following morning.
+
+---
+
+The journey through Drankor is marked by Riswynn’s holy magic, which clears lingering undead from their path. Upon reaching the tomb, the party flies to its domed roof, discovering an unguarded door. Descending a spiral staircase, they emerge on the ground floor, near a colossal statue of Apollyon. The dimly lit space is oppressive, with flickering light casting long shadows among rows of black pillars and ominous side chapels.
+
+Kenzo activates his aura abilities, detecting Apollyon’s presence in the room. From behind the statue, Apollyon rises, clad in frayed imperial robes. His ghastly appearance—a face scarred and dripping with blood, glowing eyes, and an aura of necrotic energy—commands attention. Floating 50 feet above the ground, Apollyon mocks the party, proclaiming himself the god of posterity and warning them that their souls are now bound to his tomb.
+
+The party launches an attack, but Apollyon deflects Wellby’s arrow with his aura, showcasing his defensive power. Delwath engages, only to be cursed by Apollyon’s hatred of elves. Riswynn casts _Sunburst_, dealing radiant damage despite Apollyon twisting the magic to mitigate its full effect. Seeker’s summoned metal construct lands several blows, but Apollyon retaliates with a command spell, forcing Kenzo to kneel.
+
+Blinded by Wellby’s second arrow, Apollyon transforms into mist, retreating through the floor into his inner sanctum. Before disappearing, he turns to Delwath, issuing a word of power that instantly kills him. As Apollyon’s presence fades, the party quickly revives Delwath with Riswynn’s _Revivify_. The session ends with the group contemplating their next move, resolved to track Apollyon deeper into his tomb.
+
+## Detailed Summary
 
 #### The Confrontation With Fausto
 - The party teleports to the Temple of the Eight Divines in Drankor, and encounters Fausto, a chalyte knight, and seven war wizards. 
