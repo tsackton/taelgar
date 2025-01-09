@@ -7,12 +7,33 @@ DR: 1749-05-23
 DR_end: 1749-05-24
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 115
+tagline: in which Apollyon's phylactery is destroyed in the Land of the Dead
+descTitle: Freeing the Seven Souls
 ---
+# Dunmari Frontier - Session 115
 
+>[!info] Freeing the Seven Souls: in which Apollyon's phylactery is destroyed in the Land of the Dead
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: May 23, 1749 DR to May 24, 1749 DR*
+> *On Earth: Sunday Dec 22, 2024*
+> *[[Drankor]] and [[Tollen]]*
 
-
+The Dunmar Fellowship liberates seven souls and destroys Apollyon's phylactery, then counters Fausto's manipulation of their airship crew.
+## Session Info
+### Summary
+- The Dunmar Fellowship returns to the Temple of the Eight Divines and learns of wider threats while resolving to destroy Apollyon's phylactery.
+- Using Wellby's pathfinding, they reach the University of the Blessed Waters and overcome animated guardian statues.
+- Inside Minarith's former office, the party finds a magical bird and a note, crucial for their ritual.
+- Teleporting to Tollen, the party consults the Ancient and Honorable Guild of Philosophers for guidance on the Land of the Dead.
+- The group enters the Land of the Dead and successfully frees seven souls, destroying the phylactery.
+- Returning to Vindristjarna, they learn Fausto charmed the crew to seek Pu'aatar and dispel the charm.
+### Timeline
+- (DR:: 1749-05-23), afternoon: The party explores the [[University of the Blessed Waters]], recovering a token associated with [[Minarith]]. Seeker teleports the party to [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]] in [[Tollen]]. 
+-  (DR:: 1749-05-23), late afternoon: The party requests information about the [[Land of the Dead]] from the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]]. [[Delwath]] speaks with [[Melindir]]. [[Wellby]] and [[Kenzo]] find a body to use as a material component for _Plane Shift_. 
+- (DR:: 1749-05-23), evening: The party speaks with the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], receiving information about the [[Land of the Dead]]
+- (DR:: 1749-05-24), morning: Riswynn uses _Plane Shift_ to bring the party to the [[Land of the Dead]]. The party frees the souls tied to [[Apollyon's Phylactery]], destroying it. 
+- (DR:: 1749-05-24), late morning: Travel along the Rainbow Bridge to [[Vindristjarna]], returning to the [[Material Plane]]. Encounter charmed crew, under a suggestion from [[People/Chardonians/Fausto|Fausto]]. Break charm. Teleport to [[Temple of the Eight Divines]], where [[People/Chardonians/Fausto|Fausto]] waits. 
 ## Narrative
-
 Our session begins as [[Riswynn]], [[Delwath]], [[Kenzo]], and [[Seeker]] return to the [[Temple of the Eight Divines]], weary but determined. [[Wellby]] greets them, having kept a vigilant watch over the phylactery—the dagger containing Apollyon’s soul. Together, the group recounts their recent exploits, including their perilous exploration of the Laughing Wave tavern and the Customs House.
 
 Wellby’s news of the broader world casts a shadow over their accomplishments. Sura’s forces in Dunmar face relentless assaults by Chardonian legions and shadowy assassins. Vindristjarna, their airship, may be at risk, and Fausto, their long-time nemesis, remains a looming threat. Still, the party resolves to stay the course, focusing on the phylactery and the Land of the Dead as the most effective way to end Apollyon’s threat.
@@ -44,9 +65,13 @@ While waiting to be summoned to the [[Ancient and Honorable Guild of Philosopher
 Summoned to the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], the party relinquishes their possessions and dons robes provided by the guild before entering a darkened chamber for the consultation. Blindfolded, they are seated on cold stone benches and addressed by a disembodied voice, which shares critical knowledge about the Land of the Dead:
 
 - The realm saps the vitality of the living; food and water disintegrate, and wounds cannot heal.
+
 - Time in the Land of the Dead erodes the connection between soul and body, making prolonged stays perilous.
+
 - The plane moves travelers like a river, guiding souls to their destination. Interfering with this flow risks curses.
+
 - The Giardi, guardians of the Land of the Dead, protect those with pure intentions and discern truth from deception.
+
 - To free the seven bound souls, the party must provide them with context and clues to help them remember their identities and fates.
 
 The voice gives parting advice to act swiftly and ensure they have the means to leave the Land of the Dead before its effects take hold. After speaking with the guild, the party rests for the night, preparing for the final leg of their journey: confronting Apollyon’s phylactery in the Land of the Dead.
@@ -58,11 +83,17 @@ The next morning, Riswynn casts _Plane Shift_, transporting the party to a gray,
 The party lays the phylactery dagger on a cloth alongside the seven mementos. Shadowy figures, indistinct and fragmented, emerge and pace in a circular path around the dagger. Their forms lack definition, and their fragmented speech echoes in Drankorian, Elvish, and Common. In turn, the party seeks to free each one from the hold of [[Apollyon's Phylactery]]:
 
 - **[[Seraphina Appleblossom]]:** [[Wellby]] recounts tales of the Laughing Wave tavern, invoking the joy of fireworks on its roof. He bridges her connection to her past, helping her recall her name. Seraphina steps forward, smiling as she departs with the phrase, "There’s always another party to go to."
+
 - **[[Minarith]]:** [[Delwath]] mimics a curious student, engaging [[Minarith]] with botanical questions. His persuasive manner helps the peronar scholar remember his identity. [[Minarith]] departs with the words, "I see the stars," bowing gracefully.
+
 - **[[Floria of Aphasium]]:** [[Riswynn]] speaks to Floria’s devotion to family and aiding others. Her heartfelt words evoke memories of Floria’s mission to care for the needy. Floria hears the call of The Father and vanishes, her surroundings subtly shifting.
+
 - **[[Marius of Drankor]]:** [[Kenzo]] aligns Marius’s rebellion with his own struggles for justice, connecting with Marius' spirit to rekindle Marius’s sense of purpose. Marius departs, encouraging [[Kenzo]] to "keep fighting."
+
 - **[[Valanthe]]:** [[Seeker]] uses humor and his _Vicious Mockery_ spell to help [[Valanthe]] recall her satirical plays mocking Apollyon. Her laughter returns, and she departs, thanking the party to "remember my works."
+
 - **[[Khemut of Targu]]:** [[Wellby]] invokes maritime sights and sounds, reconnecting Khemut to her life as a sailor. His vivid descriptions prompt her to recall her ship, the Sword of the Wind. She departs, whispering, "The wind, the best part of the ocean."
+
 - **[[Antonius Patrius]]:** [[Delwath]]’s descriptions of sacred pilgrimages push Antonius to recall his organizational skills and purpose. Faltering, but guided by one of the [[Gidari]], he departs hesitantly, as a final snap echoes through the expanse.
 
 With the liberation of all seven souls, the phylactery dagger disintegrates into metallic threads that unravel and vanish. A wailing screech erupts, symbolizing the breaking of its hold, before fading into silence.
@@ -72,9 +103,11 @@ With the liberation of all seven souls, the phylactery dagger disintegrates into
 Not wishing to linger, the party uses the Rainbow Bridge to return to [[Vindristjarna]], arriving invisibly to observe the crew. [[Baxter]] provides a telepathic update: the ship is heading east toward the sun under orders from [[Faldrak Bronzehammer]].
 
 Uncertain as to why the ship has turned and traveled so far from [[Drankor]], but not sensing anyone other than their crew aboard, the party emerges cautiously. The party learns that Fausto, their long-time nemesis, visited the ship with a group of mages. Using powerful charms, he manipulated the crew into pursuing the mythical city of [[Pu'aatar]], a legendary hidden city in the desert, famed for its rumored library of mythic scale. [[Kenzo]], realizing the crew is charmed somehow, uses his cleansing touch to dispel the charms. The party regroups with a late breakfast, before teleporting to the [[Temple of the Eight Divines]]. Our session ends as the party arrives to find [[Fausto]] waiting for them at the temple, in a rage. 
+
+
 ## Detailed Summary
 
-#### Returning to the Temple of the Eight Divines
+### Returning to the Temple of the Eight Divines
 - The party returns to the Temple of the Eight Divines after traversing parts of Drankor, collecting mementos for two of the seven souls bound to Apollyon’s phylactery.
 - Wellby remained at the temple, guarding the dagger containing Apollyon’s soul.
 - The group recounts their journey, including:
@@ -89,7 +122,8 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - [[Wellby]] uses his magical bow to locate the University of the Blessed Waters, firing an arrow that vanishes and reveals a path visible only to him.
 - The university is approximately a mile away to the southeast. The party prepares to follow Welby’s lead, moving swiftly through the ruins of Drankor.
 
-#### Entering the Garden of Statues
+
+### Entering the Garden of Statues
 - The group follows [[Wellby]] through the jungle and ruins, avoiding unnatural creaks and whispers emanating from the buildings they bypass.
 - Heavy rain begins to fall, but the jungle canopy offers some protection as they navigate the humid terrain.
 - The path leads to an overgrown garden with two intact statues flanking the entrance to the University of the Blessed Waters.
@@ -106,7 +140,8 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - Both statues are destroyed, crumbling into heaps of rubble.
 - The garden is cleared, and the party regroups to assess their condition before proceeding into the university.
 
-#### The Ruins of the Faculty of Natural History
+
+### The Ruins of the Faculty of Natural History
 - The party enters the dilapidated building labeled "Faculty of Natural History" in Drankorian, which [[Minarith]] the peronar was associated with.
 - The structure shows signs of severe decay, with unstable floors and a tree growing through its center. Despite its instability, Kenzo senses a faint psychic connection to [[Minarith]] in the northwest corner of the ruins.
 - As the group traverses the ruins, Wellby triggers a roof collapse but avoids significant injury.
@@ -116,7 +151,9 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - The note, written in Elvish and addressed to Maglar, reads: *"I hope this message finds you. I am trusting to luck and this magic trinket to bring this note to you. I finally... They're coming. I can hide no longer. I know not what will happen to me, but few, if any, of our people have survived the Ashen Cloaks. I thought maybe my unimportance might protect me, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can."
 - Both the bird and the note are suffused with [[Minarith]]’s soul energy, marking them as significant mementos for the ritual to free Apollyon’s bound souls.
 - With all seven mementos secured, the group teleports to [[Tollen]] to locate a recently deceased soul for the Plane Shift spell required to reach the Land of the Dead.  
-#### Bargaining at the Philosopher’s Guild
+
+
+### Bargaining at the Philosopher’s Guild
 - The party teleports to the Philosopher’s Guild in Tollen, escaping the oppressive heat and rain of Drankor into the guild’s tranquil garden.
 - They are greeted by an idyllic spring day, with a warm breeze and distant city sounds muffled by the guild’s magical wards, creating a zone of calm.
 - Upon entering the guild, the party is met by a middle-aged woman in white robes who greets them with interest, recognizing their presence from past dealings.
@@ -139,7 +176,8 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - Delwath warns [[Melindir]] of the dire consequences should their mission fail, ensuring the elves are prepared for Apollyon’s potential return.
 - While Delwath speaks with [[Melindir]], Kenzo and Wellby lead the effort to locate a suitable body at a local temple, where priests are persuaded to permit the use of a recently deceased individual after assurances of respect for the soul.  
 
-#### Secrets of the Land of the Dead
+
+### Secrets of the Land of the Dead
 - That evening, news comes the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]] is ready for them; the party is led into a quiet room and instructed to leave all possessions behind, donning white robes provided by the guild.
 - They are escorted into a darkened room where no light penetrates, not even magical darkvision.
 - Blindfolded for further secrecy, they are seated on a cold stone bench to await the arrival of the voice.
@@ -157,7 +195,8 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - A bright light flashes, and the woman who escorted them returns to remove their blindfolds.
 - The party rests for the night before their journey to the Land of the Dead.
 
-#### The Destruction of Apollyon's Phylactery
+
+### The Destruction of Apollyon's Phylactery
 - The next morning, Riswynn casts Plane Shift, and the party arrives in a gray, barren expanse where the horizon and sky blend indistinctly.
 - An elderly man, the soul of the recently deceased body used for the *Plane Shift* spell, appears beside them, focused on a distant point and walking determinedly.
 - The air is dry, lifeless, and devoid of weather, contributing to an unsettling stillness.
@@ -194,7 +233,8 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - With the liberation of all seven souls, the dagger disintegrates into threads of metal, which unravel and vanish.
 - A wailing, screeching sound erupts from the phylactery, symbolizing the breaking of its hold, before it fades into silence.
 
-#### Confrontation Aboard Vindristjarna
+
+### Confrontation Aboard Vindristjarna
 - Not wishing to linger in the Land of the Dead, the party uses the Rainbow Bridge to return to [[Vindristjarna]], initially arriving invisibly to observe the crew.
 - Kenzo uses Soul Sight to scan for any unusual presences or emotional disturbances, confirming that the crew appears normal but excited and curious.
 - Baxter, their loyal animal companion, provides a telepathic update that the ship is heading east toward the sun under orders from [[Faldrak Bronzehammer|Faldrak]] and others.
@@ -206,3 +246,4 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - A thorough search reveals no major thefts, though minor items might be missing. Crucially, the entombed Cloud Spinner, remains untouched.
 - The party decides to teleport back to the Temple of the Eight Divines, reasoning that their quest to defeat Apollyon must take precedence.
 - Upon arriving at the temple, the party is confronted by Fausto himself, who exclaims, "You fools! What have you done?"
+

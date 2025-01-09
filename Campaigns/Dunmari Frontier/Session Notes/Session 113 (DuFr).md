@@ -2,15 +2,33 @@
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 113
-realWorldDate:  2024-11-21
+realWorldDate: 2024-11-21
 DR: 1749-05-22
 DR_end: 1749-05-22
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 113
+tagline: in which the party finds Apollyon's phylactery
+descTitle: Unveiling the Phylactery
 ---
+# Dunmari Frontier - Session 113
 
+>[!info] Unveiling the Phylactery: in which the party finds Apollyon's phylactery
+> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *In Taelgar: May 22, 1749 DR*
+> *On Earth: Thursday Nov 21, 2024*
+> *[[Temple of the Eight Divines]],  [[Drankor]]*
+
+The Dunmar Fellowship discovers and secures Apollyon's phylactery hidden in the Temple of the Eight Divines and plans its destruction.
+## Session Info
+### Summary
+- The Dunmar Fellowship investigates the Temple of the Eight Divines, searching for Apollyon's phylactery.
+- Kenzo's staff triggers visions revealing Rai's actions in hiding the phylactery within the temple's crypt.
+- The group uncovers an illusion concealing a staircase and explores the crypt, finding powerful wards and defenses.
+- They find the phylactery, an adamantine dagger containing seven souls, and learn it must be destroyed in the Land of the Dead.
+- The group secures the phylactery and uncovers information about the souls within, preparing for the next stage of their mission.
+### Timeline
+- (DR:: 1749-05-22), afternoon: Explore the [[Temple of the Eight Divines]], and find [[Apollyon's Phylactery]]. Make plans to destroy it. Recover tokens from four of the seven souls bound within. Suspect trouble with [[Vindristjarna]]. 
 ## Narrative
-
 We begin aboard [[Vindristjarna]], hovering above the sprawling ruins of the [[Temple of the Eight Divines]]in the heart of [[Drankor]], the last known location of [[Apollyon's Phylactery]]. Hoping to detect the telltale signs of [[Adamantine]]. Seeker consults his runic magic; he detects no adamantine directly below, but discovers signs of a vast underground excavation beneath the temple. 
 
 As the party debates, questions about Rai’s decisions with the phylactery resurface. Could [[Rai]]’s inability to destroy the artifact stem from a lack of knowledge about its creation? Or perhaps its destruction might have risked weakening the prison holding Apollyon. [[Arheste]]’s teachings on phylacteries underscore the need for precise knowledge to dismantle such artifacts, leaving the group to speculate whether Rai hid the phylactery in the temple, protected by divine wards, to keep it from Apollyon’s grasp. [[Kenzo]] reaches out with his senses, seeking Apollyon’s presence, but finds only an empty void—a possible sign of concealment or displacement.
@@ -53,7 +71,7 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 
 ## Detailed Summary
 
-#### The Approach to the Temple of the Eight Divines
+### The Approach to the Temple of the Eight Divines
 - The session begins aboard [[Vindristjarna]], hovering above the ruins of the massive Temple of the Eight Divines in [[Drankor]], which is the last known location of [[Apollyon]]’s phylactery.
 - Using his rune, [[Seeker]] determines that there is no adamantine immediately below but detects a significant underground excavation beneath the temple.
 - The party debates why [[Rai]] didn’t destroy the phylactery and considers its potential hidden location:
@@ -63,7 +81,9 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 - The party theorizes [[Rai]] might have hidden the phylactery in the temple, possibly with divine protection, to prevent [[Apollyon]] or his minions from reclaiming it.
 - [[Kenzo]] tries to detect Apollyon’s soul or presence, but senses a complete absence of Apollyon’s essence, possibly due to magical concealment or interdimensional displacement.
 - The group resolves to begin their exploration of the temple’s exterior and underground areas, noting their limited time before magical protections and resources diminish. They instruct [[Faldrak Bronzehammer|Faldrak]] to remain vigilant and send a search party if the group does not return by evening.
-#### Inside the Temple of the Eight Divines
+
+
+### Inside the Temple of the Eight Divines
 - The party enters the Temple, marveling at its pristine condition. Despite the oppressive atmosphere outside, the interior feels warm and peaceful, with sunlight illuminating the marble floor through a magical or mirrored dome.
 - The temple’s central chamber is vast, with a massive altar made of intricately inlaid marble and gold and decorated with gem-encrusted candelabras and chalices. Eight large chapels, each dedicated to one of the Eight Divines, radiate from the central dome.
 - [[Seeker]] investigates the altar, noting a powerful aura of divine magic emanating from it. The glow and warmth seem strongest here.
@@ -72,7 +92,8 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 - While searching, [[Kenzo]]’s staff and the [[Jade Piece of Rai's Hand]] triggers a vision of Rai as a jade statue speaking to [[Dimitaur]] in the temple. [[Rai]] mentions hiding the phylactery in a lead-lined chest beneath the temple to shield it from Apollyon’s minions. However, the chest appears to be missing.
 - [[Riswynn]] casts *Divination*, asking whether the phylactery remains in the crypt. The response confirms the object was placed below, though powerful arcane magic obscures its current location.
 
-#### Discovering the Crypt and Exploring the Underchapels
+
+### Discovering the Crypt and Exploring the Underchapels
 - [[Wellby]] uncovers an illusion concealing steps leading down to the crypt. Despite auras of disinterest affecting [[Seeker]] and [[Delwath]], the party follows [[Wellby]].
 - Another vision from [[Kenzo]]’s staff shows [[Rai]] weaving protective magic into the floor, creating magic to discourage exploration. 
 - The stairs lead to a grand crypt chamber, adorned with statues, niches, and elaborate memorials for the dead of [[Drankor]]. Many statues feature metal death masks, a Drankorian funerary tradition.
@@ -80,15 +101,17 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 - Kenzo’s staff triggers another vision in the passage to the grand vault, showing Rai hiding the chest and invoking powerful concealment magic. The vision also depicts a celestial elven warrior seemingly tied to the crypt’s defense, defending the passageway against intruders.
 - The party begins exploring the underchapels, starting with the Sibyl’s. Each chapel contains similar layouts with niches, memorials, and magical altars that maintain the temple’s protective wards.
 - The group concludes their initial investigation of the underchapels and prepares to delve deeper into the grand vault.
-#### The Grand Vault and the Hidden Chest
+
+
+### The Grand Vault and the Hidden Chest
 - The party enters the grand vault, observing a large, domed crypt lined with niches and faint remnants of memorials. Unlike other areas, the vault is stark and free of magic, giving it an eerie emptiness.
 - Kenzo’s staff shows another vision of Rai casting spells and uttering "Naun Tarvanos," an Elvish phrase meaning [[Valley of the Hidden Forest]]. The chest disappears, but its location remains unclear.
 - The party contacts [[Dimitaur]], Rai’s former familiar. He recounts how Rai repeatedly insisted the phylactery remain in the temple for safety. He associates "Naun Tarvanos" with a place Rai once visited, but insists the chest is likely still within the temple.
 - Searching the room again, Delwath stumbles upon an invisible chest in the center of the vault, concealed by powerful magic. Using flour and careful exploration, the party confirms its outline.
 - Riswynn manages to dispels multiple layers of protective spells on the chest, including *Glyph of Warding*, *Symbol*, *Arcane Lock*, and *Sequester*. The final ward was designed to teleport intruders to an Elven divine realm, but Riswynn dispelled it successfully. 
 
-#### The Phylactery Revealed
 
+### The Phylactery Revealed
 - After confirming no additional traps, and figuring out how to unlcok the chest, Delwath opens the chest using *Mage Hand* to avoid any lingering dangers.
 - Inside the chest lies a plain dagger made of adamantium, confirmed to be Apollyon’s phylactery.
 - Kenzo’s soul sight reveals the phylactery contains seven souls, each sacrificed to create the vessel for Apollyon’s essence.
@@ -107,7 +130,9 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 	- [[Valanthe]], an elf, lived in the Elven neighborhood north of the temple and is also listed as a martyr.  
 - While [[Seeker]] is researching, the party learns that [[Vindristjarna]] has fled due to an attack by specters, leaving the party without immediate aerial support.
 - The group secures the phylactery in a lead-lined portable hole to shield it from detection.
-#### The Gathering of Tokens
+
+
+### The Gathering of Tokens
 - Armed with information and names, Riswynn and Kenzo investigate the Chapel of the Father for tokens related to the three martyrs memorialized there, finding three distinct death masks within a somber section of the chapel dedicated to martyrs. The masks are painted with closed eyes and tears, symbolizing mourning.
 - Wellby uses ancestral halfling memory to uncover details about [[Seraphina Appleblossom]], a halfling victim connected to a tavern near the docks, revealing she was the owner of a popular tavern, the Laughing Wave, located near the docks of Drankor.
 - The elf, [[Valanthe]], lived in a neighborhood north of the temple. The group decides to search her courtyard.
@@ -118,3 +143,5 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 - The party locates a silver quill in the rubble, imbued with echoes of [[Valanthe]]’s soul.
 - A cryptic and unauthenticated message from [[Faldrak Bronzehammer|Faldrak]] on [[Vindristjarna]] raises concerns about its status, but the party decides nothing can be done immediately. 
 - The party resolves to remain in the temple overnight, resting in its protective magic.
+
+

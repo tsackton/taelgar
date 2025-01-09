@@ -9,7 +9,62 @@ players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 117
 ---
 
-### Detailed Summary
+## Narrative
+
+The session begins in Apollyon's temple, as the [[Dunmar FEllowship]] recovers from [[Apollyon]]'s initial attacks. After Apollyon’s retreat into his inner sanctum, Delwath leads a _Prayer of Healing_, restoring the group’s strength and offering a brief reprieve. While the party recovers, Wellby investigates the side chapels, uncovering relics of Apollyon’s failed ascension to godhood. 
+
+
+Among these, he finds a loose floor tile concealing a hidden staircase. Delwath’s _Ghostly Gaze_ reveals an undercrypt filled with construction debris and tools, with stairs leading even further down.
+
+The group pries open the concealed staircase, descending into the undercrypt. The pitch-dark space is littered with remnants of unfinished construction. As the chalyte knight takes point, he inadvertently triggers a trap, but Riswynn’s magic dispels it. A scrying sensor materializes, indicating that Apollyon is aware of their movements.
+
+---
+
+The party’s descent leads them to a chamber illuminated by greenish _Continual Flame_ torches. Carved iconography of worshippers in reverence lines the walls, and an open corridor reveals sarcophagi in the next area. The chalyte knight, momentarily dominated by magic, begins chanting in Drankorian before breaking free. As the group advances, spectral undead rise from the sarcophagi to attack.
+
+Riswynn’s _Turn Undead_ incinerates the majority of the minions, leaving about fifteen for the others to dispatch. Delwath and Kenzo clear additional enemies with powerful strikes and spells, while Wellby provides precise support with his bow. Several party members resist the magical compulsion to worship Apollyon, though Delwath briefly succumbs before shaking off the effect. After the battle, they find remnants of cremated remains in the sarcophagi and discover another staircase leading deeper underground.
+
+---
+
+Descending further, the group enters a small chamber with a side corridor leading to a larger room containing chained columns and a sarcophagus. Despite some debate, they decide to leave the side chamber unexplored for now, pressing onward to pursue Apollyon. The path narrows into a twisting, single-file passage lined with obsidian flooring that glows with a sickly green light. The party proceeds cautiously, the atmosphere growing heavier with each step.
+
+---
+
+At the end of the narrow passage, the party emerges into Apollyon’s inner sanctum, a vaulted chamber illuminated by an eerie green glow. Four rune-covered pillars inscribed with glowing symbols dominate the space. At the far end, Apollyon sits on a throne, opposite a bone table bearing a glowing green crystal orb. He greets the group with mockery, proclaiming, “I’ve been waiting. Are you ready to surrender for the glory of Apollyon?”
+
+The final battle begins. Kenzo charges, activating Lengua’s claw and unleashing a series of strikes, but Apollyon’s shimmering force armor absorbs much of the damage. Riswynn and Delwath prepare defensive spells, while Seeker positions the construct for strategic advantage. Apollyon teleports across the room, avoiding Kenzo’s melee reach, and unleashes necrotic energy bolts. The party’s swift reactions mitigate some of the damage.
+
+Seeker counters with a powerful _Erupting Earth_, creating difficult terrain and dealing significant damage, though Apollyon twists the magic to unleash necrotic backlash. The animated ladder grabs the glowing orb from the bone table, attempting to smash it, but its magical integrity holds. Apollyon commands Delwath to die, but Delwath’s _Death Ward_ activates, protecting him and unleashing radiant light from the [[Bahrazel]], which temporarily unsettles Apollyon.
+
+Spectral guardians emerge from the rune-covered pillars, forming a defensive barrier around Apollyon and absorbing incoming attacks. Riswynn summons a radiant cylinder of light, dealing heavy damage to Apollyon while healing allies. Kenzo exploits openings in Apollyon’s defenses, landing critical hits that visibly weaken him. Seeker uses _Catapult_ to hurl the glowing orb at Apollyon, further disrupting his composure.
+
+---
+
+As the battle rages, Apollyon transforms into mist, retreating briefly. The glowing runes on the floor fade as energy surges back into him, restoring his vitality. The party redoubles their efforts, with Seeker forcing Apollyon to shatter a pillar to protect himself from another _Erupting Earth_. Wellby’s Skaer arrows strike true, and Kenzo’s unarmed strikes push Apollyon to the brink, despite the retaliatory damage from his necrotic aura.
+
+Apollyon’s necrotic tendrils lash out, restraining several party members. His teleportation keeps him elusive, but the group finally corners him. Delwath channels celestial energy into a critical smite, delivering massive damage that causes cracks to form across Apollyon’s form. In a final act of desperation, Apollyon unleashes a wave of necrotic energy, knocking Seeker unconscious and nearly doing the same to Riswynn. The animated ladder, under his command, moves to strike the unconscious Seeker.
+
+Kenzo, relentless, delivers a series of unarmed strikes that further weaken Apollyon. Delwath lands the killing blow, channeling a blast of eldritch force guided by celestial spirits. Apollyon’s body disintegrates into moonlight, and the remaining pillars collapse, marking the end of his reign.
+
+---
+
+As the sanctum begins to crumble, the party scrambles to escape. Delwath revives Seeker with _Healing Word_, and Seeker teleports the group and the ladder (still holding the glowing orb) to the temple’s main level. The party confirms no immediate threats remain, and Kenzo uses his ki sense to ensure the temple is free of undead.
+
+Over the next several days, the walls of Apollyon’s prison weaken and collapse. The party communicates with allies, learning of significant developments:
+
+- In Dunmar, the Chardonian army retreats from Songara, though their navy secures a victory near Darba. [[Mitus Verina Auratan]] enters the city, while negotiations with [[Nayan Karnas|Karnas]] about the Nayan Floodplains continue.
+- In Chardon, the chalyte trade faces growing disruption due to strikes and sabotage, signaling societal change.
+
+Riswynn remains attuned to the Crown of Purity, using its influence to promote peace and dismantle the chalyte trade. The party debates the crown’s long-term fate, with differing opinions:
+
+- **Delwath** sees it as a tool for good and argues for wielding it to bring peace.
+- **Kenzo** insists on its destruction, fearing its corrupting potential.
+- **Wellby** advocates for removing it from existence, viewing it as a dangerous artifact.
+- **Seeker** suggests entrusting it to a long-lived entity for safekeeping.
+- **Riswynn** proposes temporary stewardship to address immediate crises before ensuring its ultimate safety.
+
+As May 30th dawns, the prison finally collapses, and the party uses the Rainbow Bridge to return to _Vindristjarna_. There, they reunite with their crew and begin deliberating their next steps, with the Crown of Purity’s legacy weighing heavily on their minds.
+## Detailed Summary
 
 #### The Tomb of Apollyon
 - After Apollyon flees, the party regroups in the temple; Delwath, visibly shaken from his recent death, begins a *Prayer of Healing* to recover hit points and offer a short rest to the group.
