@@ -1,7 +1,7 @@
 ---
 tags: [source, status/cleanup/external]
 dm_notes: color
-dm_owner: no
+dm_owner: none
 ---
 
 %%need to refactor this into a proper source, and move secrets/other details to the actual Drankorian history page%%
