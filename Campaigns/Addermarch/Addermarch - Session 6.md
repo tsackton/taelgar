@@ -17,7 +17,7 @@ descTitle: The Ankheg of Fontwick
 > *On Earth: Sunday Nov 17, 2024*
 > *[[Roscombe]] and [[Fontwick]]*
 
-The party agrees to a quest to retrieve [[uligium]], defeats an ankheg terrorizing farmers, and is rewarded for their aid.
+The party agrees to a quest to retrieve [[Uligium]], defeats an ankheg terrorizing farmers, and is rewarded for their aid.
 ## Session Info
 ### Summary
 - The party meets Caradoc in Roscombe, who assigns them the task of recovering uligium from deep caverns.
@@ -28,7 +28,7 @@ The party agrees to a quest to retrieve [[uligium]], defeats an ankheg terrorizi
 ## Narrative 
 
 ### Day 15 (Sunday, cont)
-We begin on Sunday, in [[Roscombe]]. The party spends the day uneventfully, stopping at the regular weekly market for a few purchases, before meeting [[Caradoc]] in the evening. Caradoc is impressed with their work so far, and proposes a harder challenge: descend into the deep caverns below the earth, and recover [[uligium]], a living mineral that is highly valued for alchemical purposes. The party agrees.
+We begin on Sunday, in [[Roscombe]]. The party spends the day uneventfully, stopping at the regular weekly market for a few purchases, before meeting [[Caradoc]] in the evening. Caradoc is impressed with their work so far, and proposes a harder challenge: descend into the deep caverns below the earth, and recover [[Uligium]], a living mineral that is highly valued for alchemical purposes. The party agrees.
 
 ### Day 16 (Monday)
 The party spends the next day in preparation, buying rope and other supplies for cave exploration, and asking  [[Colette du Bois]] and others around town for information about the closest deep cave system.
