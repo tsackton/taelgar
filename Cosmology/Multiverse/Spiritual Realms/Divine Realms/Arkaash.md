@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, religion/fivesiblings, status/check/tim]
 whereabouts: Divine Realms
 typeOf: plane
+dm_owner: tim
+dm_notes: important
 ---
 # Arkaash
 >[!info]+ Information  

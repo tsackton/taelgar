@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/check/tim]
-campaignInfo: []
+tags: [historical, person]
 name: Dharajun Jita
 born: 1386
 species: human
@@ -16,6 +15,8 @@ affiliations:
 whereabouts:
 - {type: home, location: plains of Songara}
 - {type: home, location: Tokra}
+dm_owner: tim
+dm_notes: color
 ---
 # Samraat Dharajun Jita
 >[!info]+ Biographical Info  
@@ -24,7 +25,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim: status/unknown cleanup, anything to add? %%
 The founding ruler and Samraat of the Dharajun dynasty, associated with [[Chidya]] and often called the dynasty of the horse. 
 
 Jita was born in the empty plains of northwestern Dunmar, near current-day [[Songara]]. In DR 1402, at just 16, she won several decisive victories against Thundering Axe Horde, driving them across the Mahar. Soon after she was proclaimed Samraat, founding a new dynasty under the protection of Chidya. 
