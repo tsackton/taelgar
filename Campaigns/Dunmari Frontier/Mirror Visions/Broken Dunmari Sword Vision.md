@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [event-source]
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
-name: Broken Dunmari Sword Vision
 DR: 1749-01-27
 timelineDescriptor: Dunmari Frontier Campaign
 ---
