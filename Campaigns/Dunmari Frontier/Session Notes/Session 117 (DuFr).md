@@ -20,6 +20,8 @@ descTitle: The Last Emperor
 
 The [[Dunmar Fellowship]] battles and defeats Apollyon, then debates the future of the [[Crown of Purity]].
 ## Session Info
+
+***Treasure: the party returns to [[Vindristjarna]] with [[Drankorian Treasure]]***
 ### Summary
 - The [[Dunmar Fellowship]] recovers and discovers a hidden staircase in [[Apollyon's temple]].
 - They descend into the undercrypt, encounter traps, and face spectral undead.

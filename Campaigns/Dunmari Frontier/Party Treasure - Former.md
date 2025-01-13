@@ -125,19 +125,24 @@ Other treasure returned to Milo and Tilly
 - [[Drankorian Message Stone]], given to [[Sura]], paired with Wellby's message stone.
 - [Deno’qai Eagle Shield](https://www.dndbeyond.com/magic-items/5346731-denoqai-eagle-shield) (give to [[Theba]]): A enchanted wooden shield, brightly painted and carved with an eagle motif. While attuned, can cast animal messenger (at 3rd level) at will, but only targeted the eagle motif (so need to wait for it to return to cast again). The eagle messenger can travel up to 5 miles an hour, and can pass through obstacles. 
 - [Deno’qai Lightning Spear](https://www.dndbeyond.com/magic-items/5346735-denoqai-lightning-spear) (give to [[Theba]]): A spear decorated with lightning motifs. Functions as a +1 spear, with 60 foot short range and no long range. Has 3 charges, which it regains each day at dawn. Can use 3 charges to cause the spear to turn into a lightning bolt as you hurl it, which has the effect of casting the lightning bolt spell but with a range of 60' instead of the normal range of the spell. If you hurl it at a target, make an attack roll against the target as normal: on a hit, they take the normal spear damage and have disadvantage on the lightning bolt saving throw. You can also expend 1 charge to do an extra 2d6 lightning damage on a hit. (Spell Save DC is equal to your 8 + ability score used for the attack roll + proficiency) 
-### Other Items Given Away
 
-- [[Apollyon|Apollyon's]] throne, taken from [[Apollyon's Tower|his tower]]. A large grey mottled marble and granite throne encrusted with gemstones. Left on the [[~Circular Island~]] in [[Dimitaur]]'s possession. 
-- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]). Given to [[Ghesh]] in exchange for keeping the party secret from [[Ra'ghemdros]]
-- The Watcher Pendant - a very elaborate design, set with diamonds, taken from Rhodar von Glauer in [[Ursk Treasure|Shadowkeep]]. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]].
-- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Grimbaskal's Hoard]]), given to [[Brimskarda]] as a gift 
+### Traded to the Philosopher's Guild
+
+| ![[kadmos-rod-of-pact-keeper.png\|200]] | Rod of the Pact Keeper | Major item, Uncommon | Taken from [[Kadmos]] as part of the [[Kadmos and Company Loot]], and given to the [[Ancient and Honorable Guild of Philosophers\|Philosopher's Guild]] in [[Session 115 (DuFr)]] | [Mechanics](https://www.dndbeyond.com/magic-items/11217-rod-of-the-pact-keeper-1) |
+| --------------------------------------- | ---------------------- | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+|                                         | [[Watcher's Dagger]]   | Major item, Rare     | From [[Ursk Treasure#Acquired from Shadowkeep\|Shadowkeep]], given to the [[Ancient and Honorable Guild of Philosophers\|Philosopher's Guild]] in [[Session 115 (DuFr)]]          | [Mechanics](https://www.dndbeyond.com/magic-items/336928-dagger-of-blindsight)    |
 - Spell gem from [[Kadmos]] containing the Summon Greater Demon spell, given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Ursk]]
 - A silver wand found in the hidden lead box in the jeweler's workshop in the Elemental Forge. Given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for [[Philosopher's Information Concerning Rodnya Voknaz]]. From the [[Elemental Forge Hoard]]
-- [[Hralgar's Eyes]] (legendary major item*, party), returned to [[Hralgar]] as part of freeing him.
 - [[Mace of Terror]] (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about the [[Binding Stones]], in [[Session 84 (DuFr)]]
 - Arcane Grimoire (rare major item, party), from [[Grimbaskal's Hoard]], given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Rai]] and [[Apollyon|Apollyon]], in [[Session 84 (DuFr)]]
 - Cassian's chalyte spell book (rare major item, party), given to the [[Ancient and Honorable Guild of Philosophers]] in exchange for information about Rai and Apollyon, in [[Session 84 (DuFr)]]
 - [[Floating Disc Coin]] (common minor item), given to [[Ancient and Honorable Guild of Philosophers]] in exchange for information about [[Frankar]] in [[Session 84 (DuFr)]]
+### Other Gifts
+- [[Apollyon|Apollyon's]] throne, taken from [[Apollyon's Tower|his tower]]. A large grey mottled marble and granite throne encrusted with gemstones. Left on the [[~Circular Island~]] in [[Dimitaur]]'s possession. 
+- A golden circlet set with four small green alexandrite gems (at least 500 gp, possibly more, [[Grimbaskal's Hoard]]). Given to [[Ghesh]] in exchange for keeping the party secret from [[Ra'ghemdros]]
+- The Watcher Pendant - a very elaborate design, set with diamonds, taken from Rhodar von Glauer in [[Ursk Treasure|Shadowkeep]]. Given to [[Olen Vrask]] as proof of the death of [[Rhodar von Glauer]].
+- A giant-sized hunting horn carved from a mammoth tusk and scrimshawed with elaborate patterns (400 - 650 gp, from [[Grimbaskal's Hoard]]), given to [[Brimskarda]] as a gift 
+- [[Hralgar's Eyes]] (legendary major item*, party), returned to [[Hralgar]] as part of freeing him.
 - Black Iron Staff,  given to the [[Archives]] in [[Tokra]]. 
 - 175 gp wereguild for bandits, given to [[Johar]] to get to families 
 - Locket from [[Halflings|halfling]] killed by chimera. A silver locket with a faded painted portrait of a [[Halflings|halfling]] inside. Found in [[Raven's Hold]]. Given to [[Bree Charmheart]] and family in [[Tokra]].
