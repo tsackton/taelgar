@@ -20,6 +20,8 @@ descTitle: Battle for the Crown
 
 The Dunmar Fellowship battles Fausto in Drankor, claims the Crown of Purity, and enters Apollyon's temple. 
 ## Session Info
+
+***Character advancement: the party reaches level 16***
 ### Summary
 - The Dunmar Fellowship encounters Fausto and his war wizards in Drankor, initiating a fierce battle, with Fausto dominating and controlling Seeker
 - The party realizes that Fausto cannot be killed while he possess the Crown of Purity, and their attention shifts to removing the crown
