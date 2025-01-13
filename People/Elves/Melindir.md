@@ -1,27 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person]
 campaignInfo:
-- {campaign: dufr, date: 1749-01-02, type: met}
+- {campaign: dufr, date: 1748-12-17, type: first met}
 name: Melindir
-born:
 ka: 35
 species: elf
-ancestry:
 gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: 'Orenlas'}
 - {type: home, start: '', end: '', location: 'Tollen'}
 pronunciation: meh-LIN-deer
+dm_owner: none
+dm_notes: color
 ---
 # Melindir
 *(meh-LIN-deer)*
->[!info]+ Biographical Info
-> an [[Elves|elf]] (he/him), of ([[Elven Cycle of Generations|ka]] 35)
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by [[Dunmar Fellowship]] on January 2nd, 1749 in the [[Tollen|Free City of Tollen]] %%^End%%
+>[!info]+ Biographical Info  
+> An [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] 35)  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% First met by the [[Dunmar Fellowship]] on December 17th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
-%% Tim: status/unknown cleanup, anything to add? %%
-Melindr is the Ambassador to [[Tollen]] for the elven lands of [[Orenlas]].
+Melindir is the Ambassador to [[Tollen]] for the elven lands of [[Orenlas]].
 
 ![[melindir.png]]

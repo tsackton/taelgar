@@ -1,8 +1,15 @@
 ---
-tags: [place, status/needswork/wip]
+headerVersion: 2023.11.25
+tags: [place, status/needswork/wip, status/check/name]
+whereabouts: Divine Realms
+typeOf: plane
 dm_owner: none
 dm_notes: important
 ---
+# The ~Elven Divine Realm~
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% tagging status/wip until I incorporate my DM notes - Tim%% 
 
