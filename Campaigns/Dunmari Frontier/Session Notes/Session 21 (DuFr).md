@@ -27,7 +27,7 @@ The Dunmar Fellowship interrogates an [[Gorkil|orc cleric]], attends a funeral f
 - The [[Dunmar Fellowship]] interrogates [[Gorkil]], an orc cleric, learning of [[Grash]], the Blighted One, and tensions with another [[People of the Rainbow|orc group]] of peaceful farmers.
 - During the interrogation, [[Gorkil]] compels [[Seeker]] to kill him, ending the questioning abruptly.
 - [[Havdar]] honors his fallen warriors with a funeral; Wellby receives a [[Flaming Bowstring|magical bowstring]] from Havdar's [[Camana|deceased scout]].
-- "The party journeys around [[Kharsan]] to reach the [[Monastery of Bhishma]], traversing the desert and avoiding orc activity.
+- The party journeys around [[Kharsan]] to reach the [[Monastery of Bhishma]], traversing the desert and avoiding orc activity.
 
 ### Timeline
 - (DR:: 1748-05-05), evening: Interrogate the orc survivor [[Gorkil]] in Havdar's camp, who rants about being a servant of [[Grash]], the Blighted One, and that Grash's protection means he will rise stronger if he is killed. Eventually commands [[Seeker]] to kill him, ending the interrogation. Funeral for members of [[Havdar]]'s band who died; [[Havdar]] passes [[Flaming Bowstring|a magical bowstring]] to Wellby. Meet [[Aram]], a member of [[Havdar]]'s band who can heal with a touch. 

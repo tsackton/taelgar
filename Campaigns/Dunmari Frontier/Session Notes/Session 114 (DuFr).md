@@ -5,7 +5,7 @@ sessionNumber: 114
 realWorldDate: 2024-12-05
 DR: 1749-05-22
 DR_end: 1749-05-23
-players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+players: [Seeker, Delwath, Kenzo, Riswynn]
 name: Dunmari Frontier - Session 114
 tagline: in which tokens of Apollyon's victims are uncovered
 descTitle: Mementos of the Past
