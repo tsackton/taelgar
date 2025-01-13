@@ -25,7 +25,7 @@ The [[Dunmar Fellowship]] navigates magical defenses and loots [[Agata's lair]],
 
 ***The party recovers the rest of [[Agata's Treasure]] from her lair, including the [[Mirror of Soul Trapping]]***
 ### Summary
-- The [[Dunmar Fellowship]] leaves [[Karawa]], caches supplies in [[ Bas Udda]], and heads south.
+- The [[Dunmar Fellowship]] leaves [[Karawa]], caches supplies in [[Bas Udda]], and heads south.
 - They avoid a battle and fly over deadly trees to reach Agata's lair.
 - At the lair,Seeker dispels a scarecrow's enchantment, revealing it to be a trapped halfling named [[Garret Tealeaf]]. 
 - They overcome a [[Mirror of Soul Trapping]], freeing trapped members, and then looting treasures from the lair. 

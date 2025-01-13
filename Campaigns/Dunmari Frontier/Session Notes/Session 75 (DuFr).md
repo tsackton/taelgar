@@ -2,10 +2,10 @@
 tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 75
-realWorldDate: 2023-04-11
+realWorldDate: 2023-04-10
 DR: 1748-11-29
 DR_end: 1748-12-04
-players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+players: [Seeker, Kenzo, Wellby, Riswynn]
 tagline: in which the party repels an ambush and heads east
 descTitle: Shadow Assault
 name: Dunmari Frontier - Session 75
@@ -22,7 +22,7 @@ The [[Dunmar Fellowship]] successfully defends against shadow attackers, strateg
 
 ## Session Info
 ### Summary
-- The [[Dunmar Fellowship]] is attacked by shadow dogs and a shadow assassin sent by [[People/Chardonians/Fausto]], with [[Kenzo]] briefly captured.
+- The [[Dunmar Fellowship]] is attacked by shadow dogs and a shadow assassin sent by [[Fausto]], with [[Kenzo]] briefly captured.
 - [[Seeker]] transforms into a yeti to fight off attackers while [Wellby]'s precise shot kills the fleeing shadow assassin, saving [[Kenzo]].
 - After surviving the night, [[Seeker]] and [[Kenzo]] practice piloting the skyship [[Vindristjarna]].
 - [[Sura]] contacts the party via Sending Stone, discussing strategic moves against [[Tokra]] and the impending [[Day of Atonement]]

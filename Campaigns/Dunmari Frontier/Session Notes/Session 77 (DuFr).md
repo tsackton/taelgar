@@ -23,7 +23,7 @@ The [[Dunmar Fellowship]] discusses strategies and learns of the history and pow
 ## Session Info
 
 ### Summary
-- The [[Dunmar Fellowship]] engages with Loremaster [[Azogar]] and General [[Murook]] aboard the skyship, discussing the[[ phasing stones|phasing stone]], the [[Feywild]], and crystallized magic.
+- The [[Dunmar Fellowship]] engages with Loremaster [[Azogar]] and General [[Murook]] aboard the skyship, discussing the [[ phasing stones|phasing stone]], the [[Feywild]], and crystallized magic.
 - [[Azogar]] and [[Murook]] depart, and the party learns through scrying that [[Kadmos]] is separated from the main army.
 - At dinner, Chief [[Lubash]] reveals the [[Cloak of Rainbows|cloak]]'s protective power against [[Thark]]'s influence and expresses uncertainty about the effect on undead orcs.
 - The party learns the history of the cloak, crafted by an archfey now missing, and hears of a previous Chardonian party's espionage.

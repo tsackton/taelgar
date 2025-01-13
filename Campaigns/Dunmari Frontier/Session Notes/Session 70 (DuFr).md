@@ -5,7 +5,7 @@ sessionNumber: 70
 realWorldDate: 2023-02-02
 DR: 1748-11-23
 DR_end: 1748-11-23
-players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+players: [Seeker, Delwath, Wellby, Riswynn]
 tagline: in which the party confronts Hralgar's dream
 descTitle: Storm's Echo
 name: Dunmari Frontier - Session 70
@@ -13,7 +13,7 @@ name: Dunmari Frontier - Session 70
 # Dunmari Frontier - Session 70
 
 >[!info] Storm's Echo: in which the party confronts Hralgar's dream
-> *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+> *Featuring: [[Seeker]], [[Delwath]],  [[Wellby]], [[Riswynn]]*
 > *In Taelgar: Nov 23, 1748 DR*
 > *On Earth: Thursday Feb 02, 2023*
 > *[[Stormcaller Tower]]*
