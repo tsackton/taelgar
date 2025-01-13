@@ -1,3 +1,11 @@
+---
+tags: [place, status/needswork/wip]
+dm_owner: none
+dm_notes: important
+---
+
+%% tagging status/wip until I incorporate my DM notes - Tim%% 
+
 %% NOTES FROM EMAIL %%
 
 The domain of Aldanor and Elmerca is at first glance, an ancient forest at twilight, with bright stars twinkling above and secluded pools of still water reflecting the sky. But all is not as it seems. The forest is not a traditional forest, where the trees grow straight up from the ground, and where water flows downhill, and where the sky is always above. Instead, it is more a set of forest vignettes, connected by pathways of thought, dream, and magic. A visitor might arrive in a small glade, with ancient trees towering overhead and silver flowers blooming in the moonlight on the forest floor. But walking out of the glade, they might find themselves standing on criss-crossed branches hundreds of feet across, part of the canopy of an unimaginably large tree, looking down at a river of bright stars sparkling like a field of diamonds. Walking around a branch, the visitor might find it narrowing, and narrowing, until they find themselves in the leaves of an ancient oak grove, surrounded by cliffs that go up forever, but growing out of nothing but a field of stars below. Climbing to the base of one of the oaks, the visitor might notice the field of stars becomes, as they pass the edge of the grove,  swaying bridge of twisted vines and moss and delicate orchids with hundreds of complex petals, leading over a gorge between two huge cliffs, with a misty bottom a thousand feet below, and trees growing up out of the bottom of the gorge and stretching into the sky full of stars.  
