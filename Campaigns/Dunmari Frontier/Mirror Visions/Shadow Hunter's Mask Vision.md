@@ -1,3 +1,12 @@
+---
+headerVersion: 2023.11.25
+tags: [event-source]
+displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+DR: 1748-08-29
+timelineDescriptor: Dunmari Frontier Campaign
+displayDefaults: {defArt: ""}
+---
+
 The image in the mirror shows a room, underground, light only by candle light and two torches burning on the wall. A man is tied to a chair – the same face that the shadow hunter you killed had after he died. But the bonds look loose, and the man is not resisting. He seems to be staring off into space, unaware of his surroundings.
 
 The mask is sitting on a table, next to a black crown, seemingly made of some kind of matte black iron with dark gems, black pearls or opal of somIt ie kind, set in the points. A faint dark smoke seems to be seeping from the crown.
