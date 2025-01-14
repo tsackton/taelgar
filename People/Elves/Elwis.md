@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1749-01-02, type: met}
 name: Elwis
@@ -14,6 +14,8 @@ whereabouts:
 - {type: away, start: 1744-01-01, end: 1748-08-28, location: Green Sea}
 - {type: away, start: 1748-08-29, end: 9999, location: Tollen}
 pronunciation: EL-wiss
+dm_notes: color
+dm_owner: none
 ---
 # Elwis
 *(EL-wiss)*

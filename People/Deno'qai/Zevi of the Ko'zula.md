@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person, status/metadata/header]
 campaignInfo: []
 name: Zevi
 born: 1734
@@ -9,6 +9,8 @@ ancestry: Deno'qai
 gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Ko'zula village}
+dm_owner: none
+dm_notes: color
 ---
 # Zevi
 >[!info]+ Biographical Info  
@@ -16,5 +18,4 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim: status/unknown cleanup, anything to add? %%
 Guide who brought [[Delwath]] to the Ko’zula village and later to meet [[Aristaea]] and [[Iascaire]].
