@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/rethink]
+tags: [place, status/needswork/shared]
 whereabouts: Spiritual Realms
 typeOf: plane
 ---

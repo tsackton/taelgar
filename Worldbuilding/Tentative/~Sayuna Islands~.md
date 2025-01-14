@@ -1,9 +1,13 @@
 ---
-tags: [place, status/check/name, status/needswork/wip]
+tags: [place, status/check/name]
+dm_owner: tim
+dm_notes: none
 ---
 
 
 %%
+Tim has ideas about this place but nothing concrete
+
 name should not be considered definitive
 
 no details invented other than as a place on the map

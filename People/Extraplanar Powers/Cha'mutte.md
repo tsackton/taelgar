@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork/wip]
+tags: [historical, person, status/needswork/shared]
 name: Cha'mutte
 born:
 species: dragon
 subspecies: elder wyrm
 gender: male
 died: 1545
+dm_owner: tim
+dm_notes: important
 ---
 # Cha'mutte
 >[!info]+ Biographical Info

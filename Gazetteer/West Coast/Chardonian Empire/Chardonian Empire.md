@@ -4,6 +4,8 @@ tags: [place, status/needswork/wip]
 name: Chardonian Empire
 typeOf: realm
 whereabouts: West Coast Region
+dm_owner: tim
+dm_notes: important
 ---
 # The Chardonian Empire
 >[!info]+ Information
