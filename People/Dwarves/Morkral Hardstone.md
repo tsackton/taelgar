@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim, status/metadata/header]
+tags: [person, status/metadata/header]
 name: Morkral Hardstone
 born:
 species: dwarf
@@ -9,6 +9,8 @@ gender: male
 whereabouts: Tokra
 affiliations:
 - { org: Hardstones, type: primary }
+dm_owner: none
+dm_notes: color
 ---
 # Morkral Hardstone
 >[!info]+ Biographical Info  
@@ -16,5 +18,4 @@ affiliations:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim: anything to add? %%
 [[Fallthra Hardstone]]'s brother. 

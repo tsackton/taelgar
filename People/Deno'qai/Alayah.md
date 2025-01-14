@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim, status/metadata/header, status/metadata/refactor]
+tags: [person, status/metadata/header, status/metadata/refactor]
 campaignInfo: []
 name: Alayah
 born: 1725
@@ -9,6 +9,8 @@ ancestry: Deno'qai
 gender: female
 whereabouts:
 - {type: home,  location: Te'kula village}
+dm_owner: tim
+dm_notes: color
 ---
 # Alayah
 >[!info]+ Biographical Info  
@@ -23,5 +25,3 @@ Gave her [[Jade Piece of Rai's Hand]] to [[Kenzo]] after [[Dunmar Fellowship]] d
 %%SECRET[1]%%
 
 %% Refactor: consider if this should be written to be less DuFr specific %%
-
-%% Tim: added header tag in case you want to cleanup campaignInfo or something. Otherwise this reads complete to me, but if you have more information obvs set the correct status tag %%

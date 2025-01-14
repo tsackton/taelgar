@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place, status/cleanup, status/update]
 displayDefaults: {dPast: ""}
 destroyed: 1545
 ancestry: Dunmari
@@ -9,6 +9,8 @@ typeOf: city
 whereabouts: 
 - {type: home, end: 1544, location: Dunmar, wOrigin: "Originally part of <origin:1><(, )endstatus> <(in )enddate>" }
 - {type: home, start: 1545, location: Garamjala Desert, wPastHome: "Ruined <ancestry> <typeOf> <home:2qr>" }
+dm_owner: tim
+dm_notes: important
 ---
 # Kharsan
 >[!info]+ Information  
@@ -16,7 +18,7 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim: not sure how much else needs to be added? %%
+%% clean up text; update based on post-Grash, post-Apollyon  changes %%
 
 Once a major Dunmari city, now a ruin. At one point, was controlled by the undead warrior [[Grash]], until his defeat at the [[Battle for Uzgukhar]]. 
 

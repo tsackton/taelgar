@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization]
 typeOf: clan
 ancestry: hobgoblin
 ---
@@ -9,11 +9,9 @@ ancestry: hobgoblin
 > A [[Hobgoblins|hobgoblin]] clan  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% Tim: tried to capture both what we discussed on Discord and the current state. Not sure if you have anything to add %%
+The Shattered Ice Clan emerged from the [[Sentinel Range|Sentinels]] in the aftermath of the [[Great War]], establishing themselves along the [[Enst (South Fork)|South Fork]] and [[Enst (Middle Fork)|Middle Fork]] of the Enst within a generation. They became a growing threat on the border of [[Sembara]] and especially [[Duchy of Maseau|Maseau]], are were a major force behind the [[Second Hobgoblin War (Sembara)|second]] and [[Third Hobgoblin War (Sembara)|third]] hobgoblin wars. 
 
-The Shattered Ice Clan emerged from the [[Sentinel Range|Sentinels]] in the aftermath of the [[Great War]] within a generation established themselves along the [[Enst (South Fork)|South Fork]] and [[Enst (Middle Fork)|Middle Fork]] of the Enst. A growing threat on the border of [[Sembara]] and especially [[Duchy of Maseau|Maseau]], they are the major force behind the [[Second Hobgoblin War (Sembara)|second]] and [[Third Hobgoblin War (Sembara)|third]] hobgoblin wars. 
-
-After the end of the [[Third Hobgoblin War (Sembara)]] they are pushed deep into the [[Sentinel Range]], and although raiders claiming to be aligned with the clan plagued the Sembaran borders for some time afterward, the survival of this clan into the current day is unconfirmed.
+After the end of the [[Third Hobgoblin War (Sembara)]] they were pushed deep into the [[Sentinel Range]], and although raiders claiming to be aligned with the clan plagued the Sembaran borders for some time afterward, the survival of this clan into the current day is unconfirmed.
 
 %% A few notes from Discord:
 * The Shattered Ice Clan was originally more interested in "a place to live" than anything else, and originally wanted Maseau as a human buffer kingdom between themselves and the only somewhat defined "mad scientist" hobgoblins in the northern Plaguelands
