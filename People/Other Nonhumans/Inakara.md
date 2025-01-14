@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person, status/update, status/metadata/header]
 displayDefaults: {endStatus: "killed by [[Magran Boulderbeard]]" }
 campaignInfo: []
 name: Inakara
@@ -10,6 +10,8 @@ ancestry:
 gender: female
 died: 1748-07
 whereabouts: "Dwarven Outpost (Raven's Hold)"
+dm_owner: none
+dm_notes: color
 ---
 # Inakara
 >[!info]+ Biographical Info  

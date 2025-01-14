@@ -1,14 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim, historical]
+tags: [person, status/metadata/header, status/update]
 displayDefaults: { endStatus: killed by Deno'qai}
 campaignInfo: []
 name: Zegron
-born:
 species: giant
 speciesAlias: fire giant
 gender: male
 died: 1545
+dm_owner: none
+dm_notes: color
 ---
 # Zegron
 >[!info]+ Biographical Info  

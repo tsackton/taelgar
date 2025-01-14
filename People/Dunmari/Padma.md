@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person]
 campaignInfo: [{campaign: DuFr, type: met, date: 1748-07-26}]
 name: Padma
 born: 1720
@@ -16,10 +16,10 @@ whereabouts: "an unnamed caravanserai, Tokra-Darba Road"
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 >> %%^Campaign:DuFr%% Met by [[Dunmar Fellowship]] on July 26th, 1748 in an unnamed caravanserai, the [[Tokra-Darba Road]], [[Dunmar]] %%^End%%
 
-%% Tim: status/unknown cleanup, seemed ok to me %%
-
 An innkeeper and master of a caravanserai waystation on the [[Tokra-Darba Road]], running one of the first waystations on the west side of the [[Copper Hills]].  Generally well positioned to receive and pass along news. 
 
-In late July 1748, was briefly cut off from Tokra by wyverns who had made a nest in the ruined mining town of [[Vandar]]. Pleased to receive news that [[Dunmar Fellowship]] had killed the wyverns and the road was clear on 26 July 1748. 
+%%^Date:1748-07%%
+In late July 1748, was briefly cut off from [[Tokra]] by wyverns who had made a nest in the ruined mining town of [[Vandar]]. Pleased to receive news that [[Dunmar Fellowship]] had killed the wyverns and the road was clear on 26 July 1748. 
+%%^End%%
 
 %%SECRET[1]%%

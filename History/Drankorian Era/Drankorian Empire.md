@@ -1,15 +1,16 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/tim, place]
-campaignInfo: []
+tags: [place]
 name: Drankorian Empire
 aliases: [Drankor]
 timelineDescriptor: Drankorian History
 typeOf: realm
+dm_owner: tim
+dm_notes: important
 ---
 # The Drankorian Empire
 
-%% Tim: I read this and it seems complete-enough. Marking status/tim in case you disagree %%
+%% lots of additional history and timelines in DM notes, especially civil war - end  %%
 
 The Drankorian Empire was a vast, continent-spanning empire that stretched from the [[Endless Ocean]] to the [[Green Sea]] and ruled over much of humanity during the millenia following [[The Downfall]] of [[Hkar]]. The Drankorian Empire was known for its strength in magic; the battle mages of [[Drankor]] not only protected the Empire from magical and extraplanar threats but also meant that few could stand against the full might of the Empire in battle. A civilization rich in scholarly traditions, [[Drankor]] was filled with learned societies, organizations dedicated to magical lore.
 ## History
