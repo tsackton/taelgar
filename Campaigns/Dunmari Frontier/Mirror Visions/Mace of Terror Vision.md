@@ -1,3 +1,15 @@
+---
+headerVersion: 2023.11.25
+tags: [event-source]
+displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+DR: 1748-09-14
+timelineDescriptor: Dunmari Frontier Campaign
+displayDefaults: {defArt: ""}
+---
+# Mace of Terror Vision
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+
 As you hold up the mace to the mirror, the first thing you see is the middle of a massive war. 
 
 Everything is just totally chaotic. A human warrior in plate mail armor is holding the mace, and trolls, hobgoblins, and other evil creatures are streaming through a gate. The fort this warrior is defending is apparently in the process of being overrun. Although fear radiating from the mace seems to hold back the tide for a moment, a hobgoblin spellcaster steps into view, and unleashes a lightning bolt that kills the warrior, and the mace falls to the ground. 

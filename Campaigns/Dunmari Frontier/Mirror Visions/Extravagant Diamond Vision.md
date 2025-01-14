@@ -1,3 +1,15 @@
+---
+headerVersion: 2023.11.25
+tags: [event-source]
+displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+DR: 1748-08-01
+timelineDescriptor: Dunmari Frontier Campaign
+displayDefaults: {defArt: ""}
+---
+# Extravagant Diamond Vision
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+
 You hold the beautifully cut diamond up to the mirror, and the scene turns black for a moment and then you see a dwarf, sitting in a workshop, looking at the diamond through a lens, a gemcutter probably. They seem to be paying an inordinate amount of attention crafting and shaping this diamond and occasionally like holding it up and examining it. The scene is underground, in a Dwarven city none of you recognize, and probably some time ago. 
 
 Then, a flash of images pass by. Being traded, first to other [[Dwarves]], underground, and then the flash of the sun and traveling along a road, through a forest of massive trees, like redwoods stretching to the sky. The road follows the course of a river down from the mountains, but you just catch glimpses of the passing scene. 

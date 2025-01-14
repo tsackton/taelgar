@@ -1,3 +1,15 @@
+---
+headerVersion: 2023.11.25
+tags: [event-source]
+displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+DR: 1748-09-22
+timelineDescriptor: Dunmari Frontier Campaign
+displayDefaults: {defArt: ""}
+---
+# Hralgar's Eyes Vision
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+
 You hold the giant's eyes to the mirror, trying to see how they ended up this way, how Hralgar was bound and and caught.
 
 The first thing that you see, as the mirror clears, is what almost looks like clouds are blowing away from the surface, instead of the black transitions that are typical of visions in this mirror. A workshop somewhere comes into focus, not a place you recognize, not a room that you've been in before. It's big, and there are 
