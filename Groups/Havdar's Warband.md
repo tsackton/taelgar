@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip, status/check/tim, status/metadata/header]
+tags: [organization, status/stub, status/metadata/header]
 displayDefaults: {defArt: ""}
 campaignInfo:
 name:
@@ -12,6 +12,8 @@ whereabouts:
 - {type: away, start: 1748-12-14, end: 1748-12-18, location: Tokra}
 - {type: away, start: 1748-12-19, end: 1748-12-27, location: riding to Songara}
 - {type: away, start: 1748-12-27, location: Songara}
+dm_notes: important
+dm_owner: tim
 ---
 # Havdar's Warband
 >[!info]+ Information  

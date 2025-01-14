@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip, status/check/tim]
+tags: [organization]
 typeOf: family
 ancestry: Dunmari
 typeOfAlias: dynasty
 name: Dharajun dynasty
+dm_owner: tim
+dm_notes: important
 ---
 # The Dharajun Dynasty
 >[!info]+ Information  

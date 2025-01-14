@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person, status/metadata/header]
 campaignInfo: []
 name: Obel
 born: 1688
@@ -8,6 +8,8 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts: Te'kula village
+dm_owner: none
+dm_notes: color
 ---
 # Obel
 >[!info]+ Biographical Info  
