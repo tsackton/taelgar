@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/check/tim]
+tags: [place]
 whereabouts: Chardonian Empire
 typeOf: watershed
 ---
@@ -10,10 +10,13 @@ typeOf: watershed
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-%%%
+%%
 Tim: is the below all that's canonical ? more elsewhere?
+%%
 
-The river valley of the Yeraad and it's tributaries from the [[Elderwood]] and the [[Chataan Mountains]]
+The river valley of the Yeraad and its tributaries from the [[Elderwood]] and the [[Chataan Mountains]]
+
+%% notes
 #### Lizardfolk River Basin
 
 - Southern river has several large lizardfolk communities that operate somewhat outside the strictures of the Empire
