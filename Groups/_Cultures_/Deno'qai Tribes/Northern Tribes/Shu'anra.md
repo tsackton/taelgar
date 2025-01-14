@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/unknown]
+tags: [culture]
 campaignInfo: []
 name: Shu'anra
 typeOf: tribe
 partOf: Deno'qai
+dm_notes: important
+dm_owner: tim
 ---
 # Shu'anra
 >[!info]+ Information  

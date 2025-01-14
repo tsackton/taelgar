@@ -1,5 +1,5 @@
 ---
-tags: [event-source, status/unknown]
+tags: [event-source, status/update]
 timelineDescriptor: The Siblings War
 ---
 

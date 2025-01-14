@@ -1,9 +1,12 @@
 ---
-tags: [species, status/unknown]
+headerVersion: 2023.11.25
+tags: [species, status/cleanup]
 name: Dwarves
 aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
 ---
-# Dwarf
+# Dwarves
+
+%% probably correct but needs a proofread and cleanup %%
 
 This page contains lore information about dwarves. For details on character creation and playing a dwarf, see [[Playing a Dwarf]].
 

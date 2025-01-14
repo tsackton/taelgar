@@ -1,5 +1,7 @@
 ---
-tags: [species, status/unknown]
+tags: [species]
+dm_notes: important
+dm_owner: tim
 ---
 
 Natives of the Outer Realms, often called the Children of Creation or Children of Belief are the native inhabitants of the Spiritual Realms.

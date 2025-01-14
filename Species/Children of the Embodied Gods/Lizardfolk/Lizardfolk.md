@@ -1,9 +1,11 @@
 ---
-tags: [species,  status/unknown]
+tags: [species,  status/cleanup]
 name: Lizardfolk
 aliases: [lizardfolk]
 ---
 # Lizardfolk
+
+%% needs proofreading and double-checking %%
 
 >[!quote] Lizardfolk saying, author unknown
 >*At misty daybreak*

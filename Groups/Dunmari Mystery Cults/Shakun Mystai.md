@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/religious, status/unknown]
+tags: [organization/religious]
 name: Shakun Mystai
 displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>"}
-campaignInfo: []
 name: Shakun Mystai
 typeOf: mystery cult
 deity: Shakun
 ancestry: Dunmari
+dm_notes: important
+dm_owner: tim
 ---
 # The Shakun Mystai
 >[!info]+ Information  

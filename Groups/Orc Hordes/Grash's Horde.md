@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization]
 displayDefaults: {defArt: '', endStatus: destroyed in battle on, boxInfo: ""}
 campaignInfo: []
 name: Grash's Horde
 destroyed: 1749-01-20
 typeOf: clan
+dm_notes: important
+dm_owner: tim
 ---
 # Grash's Horde
 >[!info]+ Information  

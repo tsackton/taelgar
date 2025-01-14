@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization]
 typeOf: family
 subTypeOf: dynasty
 name: Nayan dynasty
+dm_notes: important
+dm_owner: tim
 ---
 # The Nayan Dynasty
 

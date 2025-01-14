@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/unknown]
+tags: [organization/family]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Quicksteps
