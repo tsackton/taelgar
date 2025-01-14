@@ -123,7 +123,7 @@ whereabouts:
 > 
 > From several people, you get the sense that [[Tokra]] was feeling a little overrun towards the end. Full of chaos, people going missing, even rumors, probably fanciful, that something was stolen from the [[Archives]] 
 > 
-> **Rumors about [[Sura]]'s Disapperance**
+> **Rumors about [[Sura]]'s Disappearance**
 >
 >It was quite the scandal at the time, and a tragedy, so many people are happy to talk about this. 
 >

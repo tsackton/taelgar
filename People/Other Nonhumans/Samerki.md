@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/check/tim]
 displayDefaults: {endStatus: killed, boxInfo: '<subspecies> (<species>), <pronouns>'}
 campaignInfo:
 - {campaign: DuFr, type: killed, date: 1748-05-29}

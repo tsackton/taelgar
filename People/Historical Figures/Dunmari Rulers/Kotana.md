@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, historical, dufr/aware, status/unknown]
+tags: [person, historical, status/check/tim]
 campaignInfo: []
 name: Aatmaji Kotana
 born:

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo:
 - {campaign: DuFr, date: 1749-01-02, type: met}
 name: Elwis

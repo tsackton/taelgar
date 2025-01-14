@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/unknown]
+tags: [pc, person, pc/guest, status/needswork/external]
 name: Thror
 born:
 species: dwarf
 ancestry:
-gender:
-player:
+gender: male
+player: David Schwartz
 ---
 # Thror
 >[!info]+ Biographical Info  

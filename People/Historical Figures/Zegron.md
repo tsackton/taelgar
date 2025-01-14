@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown, historical]
+tags: [person, status/check/tim, historical]
 displayDefaults: { endStatus: killed by Deno'qai}
 campaignInfo: []
 name: Zegron

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Itar
 born: 1716
