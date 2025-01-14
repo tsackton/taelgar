@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/unknown]
+tags: [person, status/check/tim]
 activeYear: 1745
 campaignInfo:
 name: Herasto

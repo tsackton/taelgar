@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, person, dufr/met, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Shandar
 born:

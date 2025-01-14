@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [dufr/background, dufr/met_one, person, status/unknown]
+tags: [person, status/check/tim]
 campaignInfo: []
 name: Tak
 born:

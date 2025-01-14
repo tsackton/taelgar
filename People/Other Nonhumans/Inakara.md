@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/met, dufr/minor, status/unknown]
+tags: [person, status/check/tim]
 displayDefaults: {endStatus: "killed by [[Magran Boulderbeard]]" }
 campaignInfo: []
 name: Inakara
