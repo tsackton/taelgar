@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork/rethink]
+tags: [species, status/needswork/shared]
 ---
 # Kobolds
 

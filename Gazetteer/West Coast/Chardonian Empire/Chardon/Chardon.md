@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/needswork/external, status/needswork/wip, status/metadata/image]
+tags: [place, status/metadata/image]
 name: Chardon
 typeOf: city
 whereabouts: Chardonian Empire
+dm_owner: tim
+dm_notes: important
 ---
 # Chardon
 >[!info]+ Information

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/shared]
+tags: [place]
 name: Breva
 typeOf: realm
 whereabouts: Zimkova
