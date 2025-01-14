@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person, status/update]
 name: Servius
 born: 1689
 species: human
@@ -10,6 +10,8 @@ affiliations: [Society of the Open Scroll]
 whereabouts:
 - {type: home, start: 1689-01-02, location: Chardon}
 - {type: away, start: 1748-11-23, location: Illoria}
+dm_owner: tim
+dm_notes: important
 ---
 # Servius
 >[!info]+ Biographical Info
@@ -19,5 +21,3 @@ whereabouts:
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A wandering scholar and historian, funded by [[People/Chardonians/Fausto]] to find rumors of treasure. 
-
-%% Tim: anything to add? %%

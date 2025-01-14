@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person, status/metadata/header]
 campaignInfo: []
 name: Rishi
 born: 1670
@@ -8,6 +8,8 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: Lakan Monastery
+dm_notes: color
+dm_owner: tim
 ---
 # Rishi
 >[!info]+ Biographical Info

@@ -1,20 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization]
 displayDefaults: {defArt: "the"}
 name: Occulta Ludum
 typeOf: magical society
 ancestry: Drankorian
+dm_owner: tim
+dm_notes: important
 ---
 # The Occulta Ludum
 >[!info]+ Information  
 > A [[Drankorian Empire|Drankorian]] magical society  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% Tim: I cleaned up based on nots in Obisidian; not sure if there is more to add %%
 A magical society associated with the development of magic and especially with practical inventions of harnessing magical power. 
 
-While they rejected the extremist claims of the [[Omnis Pura]] in the later years of the Empire, there is little evidence that has come down to current day that they actively opposed [[Omnis Pura]].
+While they rejected the extremist claims of the [[Omnis Pura]] in the later years of the [[Drankorian Empire]], there is little evidence that has come down to current day that they actively opposed [[Omnis Pura]].
 
 %%^Campaign:None%%
 ### Historical Members

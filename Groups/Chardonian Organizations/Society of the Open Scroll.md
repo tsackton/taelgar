@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization, status/update]
 displayDefaults: {partOf: ""}
 ancestry: Chardonian
 name: Society of the Open Scroll
 typeOf: scholary society
+dm_owner: tim
+dm_notes: important
 ---
 # The Society of the Open Scroll
 >[!info]+ Information
