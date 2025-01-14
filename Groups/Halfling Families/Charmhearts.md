@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/unknown]
+tags: [organization/family]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Charmhearts
 aliases: [Charmheart]
 typeOf: family
 ancestry: halfling
+dm_notes: color
+dm_owner: tim
 ---
 # The Charmhearts
 >[!info]+ Information  

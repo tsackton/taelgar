@@ -1,7 +1,6 @@
 ---
-tags: [background, status/unknown]
+tags: [background, status/cleanup]
 ---
-
 # Unusual Species
 
 Not every sentient species in Taelgar has a simple origin story. 

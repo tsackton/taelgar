@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/unknown]
+tags: [culture]
 name: Bek'eni
 typeOf: tribe
 ancestry: Deno'qai
+dm_notes: important
+dm_owner: tim
 ---
 # Bek'eni
 >[!info]+ Information  

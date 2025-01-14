@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization, status/stub]
 name: Silverspark Clan
 typeOf: clan
 ---

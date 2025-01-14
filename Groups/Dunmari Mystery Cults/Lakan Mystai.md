@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/unknown]
+tags: [organization]
 displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>"}
 typeOf: mystery cult
 ancestry: Dunmari
 deity: Laka
+dm_notes: important
+dm_owner: tim
 ---
 # The Lakan Mystai
 >[!info]+ Information  

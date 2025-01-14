@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/unknown]
+tags: [place]
 typeOf: plane
 whereabouts: Spiritual Realms
+dm_owner: tim
+dm_notes: important
 ---
 # Pandemonium
 >[!info]+ Information  

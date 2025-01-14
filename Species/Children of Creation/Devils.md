@@ -1,6 +1,8 @@
 ---
-tags: [species, status/unknown]
+tags: [species]
 partOf: Children of Belief
+dm_notes: important
+dm_owner: tim
 ---
 
 # Devils

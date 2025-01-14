@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/unknown]
+tags: [culture]
 name: Northern Tribes
+dm_notes: important
+dm_owner: tim
 ---
 # The Northern Tribes
 >[!info]+ Information  

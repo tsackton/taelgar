@@ -1,6 +1,8 @@
 ---
-tags: ['#event-source', status/unknown]
+tags: [event-source, status/needswork/internal]
 ---
+
+%% needs to be checked for consistency with other histories  and Deno'qai culture %%
 # The History of the Northern Deno'qai
 
 

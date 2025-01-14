@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork, background, status/unknown]
+tags: [status/needswork.wip, background]
 ---
 # Goblinoids
 

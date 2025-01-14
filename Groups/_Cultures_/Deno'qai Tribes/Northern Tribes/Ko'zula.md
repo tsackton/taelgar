@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/unknown]
+tags: [culture]
 name: Ko'zula
 displayDefaults: {defArt: "the" }
 ancestry: Deno'qai
 typeOf: tribe
+dm_notes: important
+dm_owner: tim
 ---
 # The Ko'zula
 >[!info]+ Information  

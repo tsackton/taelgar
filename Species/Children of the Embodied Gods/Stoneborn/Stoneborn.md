@@ -1,9 +1,11 @@
 ---
-tags: [species, status/unknown]
+tags: [species, status/cleanup]
 name: Stoneborn
 aliases: [Stoneborn, stoneborn]
 ---
 # Stoneborn
+
+%% needs proofreading and double-checking %%
 
 High above the clouds, on the tallest peak of a mountain range, a Stoneborn sits quietly, watching the sunrise. On the steep slopes below, a small village comes to life with the sounds of bells, morning prayer, and martial practice. Scattered throughout the inhospitable high places of the world, Stoneborn live reclusively, rarely gracing the lowlands with their presence.
 ### Mountain folk
