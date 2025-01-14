@@ -1,21 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip, status/check/tim]
+tags: [organization]
 displayDefaults: {boxInfo: "<ancestry:UA> <subtypeof>"}
-campaignInfo:
 name: Aatmaji dynasty
 typeOf: family
 subTypeOf: dynasty
 ancestry: Dunmari
+dm_owner: tim
+dm_notes: important
 ---
 # The Aatmaji Dynasty
 >[!info]+ Information  
 > A [[Dunmar|Dunmari]] dynasty  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The first ruling dynasty of [[Dunmar]], founded by [[Bhishma]]. 
+%% have a full list of Samraats of this dynasty in DM notes FWIW%%
 
-%% Tim: Do you have more information? If you don't have things actively made up I think it is fine to leave these dynasty / family pages mostly just placeholders %%
+The first ruling dynasty of [[Dunmar]], founded by [[Bhishma]]. 
 
 %%^Campaign:None%%
 ### Historical Members

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person]
 name: Shandan
 born: 1692
 species: human
@@ -19,5 +19,4 @@ pronunciation: Shun-dhun
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Tim: status/unknown cleanup, anything to add? %%
-A charismatic leader of a warband based near [[Songara]]. 
+A charismatic leader of a Dunmari warband based near [[Songara]]. 

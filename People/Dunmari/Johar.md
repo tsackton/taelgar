@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim, status/metadata/image]
+tags: [person, status/metadata/image]
 campaignInfo:
 - {campaign: DuFr, date: 1748-06-30, type: first met}
 - {campaign: DuFr, date: 1748-07-16, type: began traveling, format: "<met:U> with <person> on <target> <current:2qr>"}
@@ -22,6 +22,8 @@ whereabouts:
 - {type: away, start: 1748-12-25, end: 1749-02-01, location: Copper Hills} #start is approx
 - {type: away, start: 1749-02-01, end: 1749-03-02, location: Copper Hills}
 - {type: away, start: 1749-03-02, location: traveling to Tokra}
+dm_owner: tim
+dm_notes: important
 ---
 # Johar
 >[!info]+ Biographical Info  
@@ -38,5 +40,3 @@ whereabouts:
 Johar is a confidant and close friend of [[Kenzo]]'s from the [[Lakan Monastery]] in [[Tokra]]. He works in the [[Tokra]] [[Archives]], primary interested in documenting the miracles of [[Laka]], and the history of the [[Lakan Monastery]] and the community there. 
 
 %%SECRET[1]%%
-
-%% Tim: set status/tim only; not sure what else there is to add to this page %%
