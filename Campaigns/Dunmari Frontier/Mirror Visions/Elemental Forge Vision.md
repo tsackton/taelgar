@@ -1,3 +1,15 @@
+---
+headerVersion: 2023.11.25
+tags: [event-source]
+displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+DR: 1749-01-13
+timelineDescriptor: Dunmari Frontier Campaign
+displayDefaults: {defArt: ""}
+---
+# Elemental Forge Vision
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`
+
 The mirror fades, and you see the forge now brightly lit, the four silvery, wiry threads taunt and vibrating with energy as a woman approaches. It is the same woman you saw a projected illusion of in the entrance hall of the workshop, presumably the Occulta Ludum mage who ran this place towards the end of its time. 
 
 She is carrying what looks like a suit of chain mail. Well, she's not carrying it, it's floating in front of her as if by telekinesis. The chain mail is burnished gold and shining copper mixed with steel, twisted into fine chain links. She lays it down on the forge, and she takes what looks like just a plain piece of stone, a dark, crumbly stone, from a pouch. She's holding it very carefully, and then slowly she lifts it over the forge, and the chain mail, by magic. Then, by some magical force, she crushes it, and a spray of lava bursts out from the stone, coating and being absorbed into the chain mail. As this happens, whirls of smoke rise up, almost forming humanoid shapes, as the lave is absorbed into the metal. 
