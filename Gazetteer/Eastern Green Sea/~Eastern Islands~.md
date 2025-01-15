@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 typeOf: islands
 whereabouts: Green Sea
-tags: [place, status/needswork/external]
+tags: [place, status/stub]
 dm_notes: important
 dm_owner: tim
 ---

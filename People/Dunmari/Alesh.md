@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header, status/needswork/internal]
+tags: [person, status/metadata/header, status/cleanup/internal]
 campaignInfo: []
 name: Alesh
 born: 1727
@@ -11,6 +11,8 @@ whereabouts:
 - {type: home, location: Karawa}
 - {type: away, start: 1748-12-26, location: Central Dunmar}
 image: alesh-portrait.jpg
+dm_notes: color
+dm_owner: tim
 ---
 # Alesh
 >[!info]+ Biographical Info  
@@ -43,6 +45,6 @@ image: alesh-portrait.jpg
 - 1 June 1748: Rides for [[Tokra]] to inform refugees it is safe to return
 - 5 June 1748: Arrives in [[Tokra]] with news of safety in [[Karawa]]
 - 6 June 1748: Leaves to return to [[Karawa]] at first light
-- 10 June 1748: Arrives back in [[Karawa]]. Reports on rumors from [[Karawa]] to [[Delwath]], and speaks with him about the Dunmari shield recovered from [[Agata's lair]]. 
+- 10 June 1748: Arrives back in [[Karawa]]. Reports on rumors from [[Karawa]] to [[Delwath]], and speaks with him about the Dunmari shield recovered from [[Agata's Lair]]. 
 - 18-19 June 1748: Celebrates the [[Feast of Bhishma]] in [[Karawa]] with [[Dunmar Fellowship]] and others. 
 %%SECRET[2]%%

@@ -2,9 +2,9 @@
 tags: [status/needswork/external, source]
 ---
 
-This is the story of the founding of [[Dunmar]], as told by the Dunmari:
+%% some (minor) details are not quite correct and this needs to be revised before it is used in game %%
 
-%% add notes from onenote on pre-Kharja travels and the split %%
+This is the story of the founding of [[Dunmar]], as told by the Dunmari:
 
 These events occur in DR 1171 - DR 1173
 

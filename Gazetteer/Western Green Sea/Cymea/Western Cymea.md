@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal]
+tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Western Cymea
 typeOf: region
 whereabouts: Cymea
+dm_notes: important
+dm_owner: tim
 ---
 # Western Cymea
 >[!info]+ Information
