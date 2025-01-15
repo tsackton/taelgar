@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 displayDefaults: {defArt: ""}
 name: Brot's Spyglass
 created: 1719-10-01

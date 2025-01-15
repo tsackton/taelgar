@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}
 name: Boots of False Tracks
 typeOf: boots

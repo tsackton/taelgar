@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/other]
 displayDefaults: {defArt: ""}
 ddbLink: https://www.dndbeyond.com/magic-items/horn-of-silent-alarm
 typeOf: horn

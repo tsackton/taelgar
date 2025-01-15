@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, item]
+tags: [status/stub, item/other]
 typeOf: alchemical substance
 ---
 # Trueflame
