@@ -1,9 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags:
-  - place
-  - status/check/name
-  - status/check/tim
+tags: [place, status/check/name, status/stub]
 typeOf: river
 whereabouts: Chasa-Nahadi Watershed
 ---
@@ -13,7 +10,7 @@ whereabouts: Chasa-Nahadi Watershed
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-%% (Voltara plains; named for an old Northros river spirit) %%
+%% possibly the river that runs east of Voltara, joining the Nahadi north of Lake Valandros, but river naming up here is non-canon as indicated by check/name tag%%
 
-%% Tim: needs some indication of where it is %%
+%% name could derive from an old Northros river spirit) %%
 

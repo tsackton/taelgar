@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/equipment]
 ddblink: https://www.dndbeyond.com/magic-items/7676659-binding-stones-of-amloch
 name: Binding Stones of Amloch
 whereabouts: Seeker

@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {wOrigin: "Home area: <origin>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>" }
-tags: [item/boat, testcase]
+tags: [item/vehicle, testcase]
 ancestry: halfling
 typeOf: vehicle
 typeOfAlias: boat

@@ -10,5 +10,5 @@ The distinction is that status tags (e.g., status/needswork) imply that the info
 
 ## **dm_owner**
 
-Can be mike, tim, none, shared. This is intended to reflect the degree to which a particular person has plans for a thing, or has ideas that might constrain the direction of the thing, implying that they should be consulted regarding any planning involving the note. 
+Can be mike, tim, none, player, shared. This is intended to reflect the degree to which a particular person has plans for a thing, or has ideas that might constrain the direction of the thing, implying that they should be consulted regarding any planning involving the note. 
 

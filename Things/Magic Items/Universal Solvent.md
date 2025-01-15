@@ -1,3 +1,5 @@
 ---
-tags: [item/magical, status/stub]
+tags: [item/other, status/stub]
 ---
+
+%% general class of things - Universal Solvent %%

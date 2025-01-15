@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/check/tim]
+tags: [event]
 DR: 1709-06
 DR_end: 1709-08
+dm_notes: important
+dm_owner: tim
 ---
 # The Summer of Red Storms
 >[!info]+ Information

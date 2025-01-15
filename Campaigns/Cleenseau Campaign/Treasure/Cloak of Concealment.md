@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magic]
+tags: [item/equipment]
 displayDefaults: {defArt: ""}
 typeOf: cloak
 subtypeOf: magic

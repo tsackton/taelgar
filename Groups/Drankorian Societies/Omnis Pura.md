@@ -6,7 +6,7 @@ name:
 typeOf: secret society
 ancestry: Drankorian
 dm_notes: important
-dm_status: tim
+dm_owner: tim
 ---
 # The Omnis Pura
 >[!info]+ Information  

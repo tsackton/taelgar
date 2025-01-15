@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/equipment]
 name: Hammer of Vigilance
 typeOf: weapon
 typeOfAlias: warhammer

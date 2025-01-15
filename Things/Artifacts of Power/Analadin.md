@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/equipment]
 destroyed: 1545
 name: Analadin
 typeOf: staff

@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/equipment]
 rarity: unique
 whereabouts: Cintra
 typeOf: wonderous item
+dm_owner: tim
+dm_notes: important
 ---
 # The Heart of Shakun
 >[!info]+ Information  
