@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/meatadata, status/stub]
+tags: [person, status/cleanup/image, status/cleanup/metadata, status/stub]
 name: Govir
 born: 1708
 species: human

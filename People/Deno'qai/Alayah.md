@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/refactor]
+tags: [person, status/cleanup/metadata, status/cleanup/text]
 campaignInfo: []
 name: Alayah
 born: 1725

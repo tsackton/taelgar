@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/refactor, status/cleanup/metadata]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Karmana
 born:
 species: human
 ancestry: Dunmari
 gender: male
+dm_notes: important
+dm_owner: tim
 ---
 # Karmana
 >[!info]+ Biographical Info
