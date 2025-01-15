@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
-campaignInfo: []
+tags: [place]
 name: Temple of Shakun
 typeOf: holy site
 typeOfAlias: temple
 ancestry: Dunmari
 affiliations: [{org: Shakun, type: primary}]
 whereabouts: Karawa
+dm_notes: important
+dm_owner: tim
 ---
 # The Temple of Shakun
 >[!info]+ Information

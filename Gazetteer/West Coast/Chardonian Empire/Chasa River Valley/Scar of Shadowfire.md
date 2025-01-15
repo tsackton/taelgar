@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip, status/check/tim]
+tags: [place]
 typeOf: battlefield
 whereabouts: Chasa River Valley
+dm_notes: color
+dm_owner: tim
 ---
 # The Scar of Shadowfire
 >[!info]+ Information  

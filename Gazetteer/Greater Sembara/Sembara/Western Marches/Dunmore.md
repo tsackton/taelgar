@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/check/tim]
-campaignInfo: []
+tags: [place, status/stub]
 name: Dunmore
 typeOfAlias: fortified town
 typeOf: settlement
 whereabouts: Barony of Ainwick
+dm_notes: color
+dm_owner: none
 ---
 # Dunmore
 >[!info]+ Information  
@@ -14,9 +15,7 @@ whereabouts: Barony of Ainwick
 
 
 %% 
-Setting status/tim for details about stone titan adventure if there is anything you want to copy over/add 
-
-Was in the "starter" adventure with the stone titan; although not clear if that is canonical.
+some notes from starter stone titan adventure to copy over, potentially
 
 could you some invention as to how different from [[Dunfry]] or maybe it isn't it is just on the northern part of the wall. They both have "Dun" in the name.... maybe lean into the similarity
 

@@ -1,5 +1,5 @@
 ---
-tags: [deity, status/check/tim]
+tags: [deity, status/stub]
 affiliations: [elves]
 ---
 

@@ -1,3 +1,5 @@
+**NOTE**: this page is not currently that useful. Will revise when status tags are finished. 
+
 # Needs Text  - People
 
 ```dataview

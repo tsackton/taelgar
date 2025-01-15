@@ -37,7 +37,7 @@ It was found when the [[Dwarves]] fleeing the destruction of the kingdom of [[Ar
 - (DR:: 1748-01-15): Rumors reach Riswynn Brawnanvil and other dwarves of [[Nardith]] in the Yuvanti Mountains that treasure hunters are seeking ancient artifacts among the ruins of [[Ardith]], including rumors that the Chalice of the Runepriest has been recovered.
 - (DR:: 1748-02-04): The Chalice of the Runepriest arrives in Chardon
 - (DR:: 1748-04-11): The Chalice of the Runepriest is purchased by [[Galen]] for his private study
-- (DR:: 1748-08-23): Galen argrees to sell the Chalice of the Runepriest to Riswynn, a dwarf of Nardith
+- (DR:: 1748-08-23): Galen agrees to sell the Chalice of the Runepriest to Riswynn, a dwarf of Nardith
 - (DR:: 1748-08-24): Riswynn purchases the Chalice of the Runepriest for 8000 gold pieces and a minor magic item, a Black Light Candle from [[Agata's Treasure]]. Riswynn attempts to use the chalice to teleport [[Dunmar Fellowship]] to safety, but is instead transported to the [[Heart of the Mountain]]
 - (DR:: 1748-08-25): Riswynn and companions [[Session 56 (DuFr)|take the Chalice of the Runepriest into Morkalan]], where they use it destroy [[Hagrim]] and the shadowfell domain of [[Morkalan]]
 - (DR:: 1748-10-05): The Chalice of the Runepriest is returned to its rightful place in [[Tharn Todor]]
