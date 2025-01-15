@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
-campaignInfo: []
+tags: [place]
 name: Ruined Elven Workshop (near Tokra)
 typeOf: ruin
 whereabouts: Lakan Monastery
+dm_notes: important
+dm_owner: tim
 ---
 # The Ruined Elven Workshop (near Tokra)
 >[!info]+ Information  

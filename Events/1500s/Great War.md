@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/needswork_old/external]
+tags: [event, status/stub]
+dm_notes: important
+dm_owner: tim
 ---
 # The Great War
 

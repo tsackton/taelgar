@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, testcase, status/cleanup/metadata, status/needswork_old/internal]
+tags: [item/equipment, testcase, status/cleanup/metadata]
 campaignInfo:
 created: 917
 subTypeOf: magical
@@ -12,6 +12,8 @@ whereabouts:
 - {type: home, end: 917, location: Cloudspinner}
 - {type: home, end: 1059, location: People of the Rainbow}
 - {type: home, location: Lubash}
+dm_notes: important
+dm_owner: tim
 ---
 # The Cloak of Rainbows
 >[!info]+ Information

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place, status/cleanup/text]
 campaignInfo: []
 name: Voltara
 typeOf: city
 whereabouts: Northern Frontier
+dm_notes: important
+dm_owner: tim
 ---
 # Voltara
 >[!info]+ Information  

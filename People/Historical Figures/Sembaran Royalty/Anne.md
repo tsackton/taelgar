@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork_old/internal]
+tags: [historical, person, status/check/mike]
 campaignInfo: []
 name: Anne of Sewick
 born: 1539
@@ -19,6 +19,8 @@ dm_owner: none
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her), of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%% probably status/cleanup/text ??%%
 
 The twin sister of [[Elaine I]] and daughter of [[Reginald]], she was executed for treason after attempting to force her sister to abdicate he throne by magic.
 

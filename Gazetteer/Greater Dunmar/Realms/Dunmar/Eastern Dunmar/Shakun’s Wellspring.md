@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external] 
+tags: [place] 
 displayDefaults: {defArt: ""}
 campaignInfo: 
 name: Shakun’s Wellspring
@@ -9,6 +9,8 @@ ancestry: Dunmari
 typeOf: holy site
 whereabouts: 
 - {type: home, location: Red Mesa}
+dm_notes: important
+dm_owner: tim
 ---
 # Shakun’s Wellspring
 >[!info]+ Information

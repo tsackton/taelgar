@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/internal, status/needswork_old/external]
+tags: [person]
 campaignInfo:
 name: Azar
 born:
 species: human
 ancestry:
 gender: male
+dm_notes: important
+dm_owner: tim
 ---
 # Azar
 >[!info]+ Biographical Info  

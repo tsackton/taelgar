@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place]
 name: Am'khazar
 typeOf: realm
 ancestry: dwarven
 whereabouts: Labkhan
+dm_notes: important
+dm_owner: tim
 ---
 # Am'khazar
 >[!info]+ Information  

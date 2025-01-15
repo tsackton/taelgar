@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/needswork_old/internal]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Avaras
 born: 1676
@@ -12,6 +12,8 @@ whereabouts:
 - {type: home, start: '', end: '', location: 'Karawa'}
 - {type: home, start: 1717-01-01, end: '', location: Pava and Avaras' House}
 - {type: away, start: 1749-01-01, end: '', location: Pava and Avaras' House }
+dm_notes: important
+dm_owner: tim
 ---
 # Avaras
 >[!info]+ Biographical Info

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork_old/internal]
+tags: [historical, person, status/check/mike]
 name: Arryn II
 born: 1601
 species: human
@@ -20,6 +20,8 @@ dm_owner: none
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%% possibly good use for status/cleanup/internal since it seems main need is collation? %%
 
 The only child of [[Blanche II]]. His two daughters, [[Charlotte II]] and [[Cece I]] both rule the united realm of Sembara and Tyrwingha.
 

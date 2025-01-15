@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place]
 displayDefaults: {linkText: "on", ltPlace: "on", defArt: "the"}
 typeOf: road
 whereabouts: Dunmar
+dm_notes: color
+dm_owner: tim
 ---
 # The Stoneway
 >[!info]+ Information  

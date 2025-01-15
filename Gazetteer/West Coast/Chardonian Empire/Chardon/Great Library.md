@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
-campaignInfo:
+tags: [place]
 name: Great Library
 whereabouts: Chardon
 typeOf: library
+dm_notes: important
+dm_owner: tim
 ---
 # The Great Library
 >[!info]+ Information  
