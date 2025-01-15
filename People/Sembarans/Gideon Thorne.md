@@ -8,13 +8,15 @@ ancestry: Sembaran
 gender: male
 whereabouts:
 - {type: home, location: Auloutte}
-dm_notes: color
+dm_notes: none
 dm_owner: none
+affiliations: [{org: Thornes of Cleenseau, type: primary }]
 ---
 # Gideon Thorne
 >[!info]+ Biographical Info  
-> A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
+> A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[Thornes of Cleenseau]]  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[gideon-thorne.png|right|320]]A fisherman and the most prominent person in the small hamlet of [[Auloutte]]. Much of his family lives in the North Close of Cleenseau, including his son [[Gabriel Thorne]] and his nephew [[Jon Thorne]]. He lives with his two grown daughters and their families, both of whom are also fisherfolk. 

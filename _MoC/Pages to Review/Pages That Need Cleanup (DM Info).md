@@ -42,7 +42,7 @@ sort file.path
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, dm_owner as DM
 from !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !#status/needswork AND !#status/stub AND !#status/check AND !#status/update
-WHERE dm_notes = "important" AND dm_owner != "mike" AND dm_owner != "tim"
+WHERE dm_notes = "important" AND dm_owner != "mike" AND dm_owner != "tim" AND dm_owner != "player"
 sort file.path
 ```
 
