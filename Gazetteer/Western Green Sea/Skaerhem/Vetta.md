@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source, status/needswork/internal]
+tags: [place, event-source]
 campaignInfo: []
 name: Vetta
 typeOf: island
 whereabouts: Skaerhem
+dm_notes: important
+dm_owner: tim
 ---
 # Vetta
 >[!info]+ Information

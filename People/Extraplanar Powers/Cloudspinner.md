@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header, status/needswork/internal]
+tags: [person, status/metadata/header]
 campaignInfo: []
 name: Cloudspinner
 born:
@@ -12,6 +12,8 @@ whereabouts:
 - {type: home, end: 1001, location: Amberglow}
 - {type: away, start: 1002, location: imprisoned }
 - {type: away, start: 1749-05-21, location: Vindristjarna}
+dm_notes: important
+dm_owner: tim
 ---
 # Cloudspinner
 >[!info]+ Biographical Info  

@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/needswork/external]
+tags: [place, status/cleanup]
 displayDefaults: {defArt: the, wHome: "One of <current>"}
 excludePublish: ["clee"]
 whereabouts: Echo Realms
 typeOf: plane
+dm_notes: important
+dm_owner: shared
 ---
 # The Feywild
 >[!info]+ Information  

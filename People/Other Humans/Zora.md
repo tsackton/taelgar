@@ -1,3 +1,3 @@
 ---
-tags: [status/stub, status/needswork/internal, person]
+tags: [status/stub, person]
 ---

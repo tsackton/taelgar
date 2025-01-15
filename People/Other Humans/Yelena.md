@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal]
+tags: [person]
 species: human
 ancestry: Urskan
 gender: female
 affiliations: [Rodnya Voknaz]
 whereabouts: Ursk
+dm_info: color
+dm_owner: tim
 ---
 # Yelena
 >[!info]+ Biographical Info  

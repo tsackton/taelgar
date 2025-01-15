@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork/external]
+tags: [historical, person, status/stub]
 campaignInfo: []
 name: Airion
 born:

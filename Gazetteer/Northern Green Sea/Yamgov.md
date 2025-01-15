@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal]
+tags: [place, status/stub]
 typeOf: city
 whereabouts: Ursk
+dm_notes: color
+dm_owner: tim
 ---
 # Yamgov
 >[!info]+ Information  

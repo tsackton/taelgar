@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external]
+tags: [place]
 name: Arendum
 typeOf: city
 whereabouts: Chasa River Valley
+dm_notes: important
+dm_owner: tim
 ---
 # Arendum
 >[!info]+ Information

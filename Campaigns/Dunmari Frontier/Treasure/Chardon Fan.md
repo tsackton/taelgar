@@ -15,7 +15,7 @@ displayDefaults: {defArt: ""}
 ![[chardon-fan.png|right|250]]A cotton and bamboo hand fan depicting the towers of [[Chardon]], the intricate design painted onto the fan by a very skilled artist.
 
 %%^Campaign:DuFr%%
-Looted from [[Agata's lair|Agata's hut]] by [[Dunmar Fellowship]]. Probably worth 10-180 gp.
+Looted from [[Agata's Lair|Agata's hut]] by [[Dunmar Fellowship]]. Probably worth 10-180 gp.
 
 Carried by [[Kenzo]]. 
 

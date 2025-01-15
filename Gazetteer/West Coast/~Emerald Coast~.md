@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external, status/cleanup/internal, status/check/name]
+tags: [place, status/stub, status/check/name]
 typeOf: region
 whereabouts: Chardonian Empire
 dm_notes: important
