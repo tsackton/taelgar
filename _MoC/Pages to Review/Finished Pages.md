@@ -1,21 +1,21 @@
 # Pages without Status Tags
-This should be pages considered "finished".
 
-# Outside Worldbuilding and Campaigns, Not People
+Pages without status/stub, status/check, status/needswork, or status/update, and with dm_info = none, are complete (although might need metadata updates or rewrites).
+
+## Not People
 
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, headerVersion
-FROM !"Campaigns" AND !"Worldbuilding" AND !"People" AND !#status AND !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !"assets"
+TABLE join(split(file.path, "/", 2),"/") as Folder
+FROM !"Campaigns" AND !"Worldbuilding" AND !"People" AND !#status/stub AND !#status/check AND !#status/needswork AND !#status/update AND !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !"assets" 
+WHERE dm_notes = "none"
 SORT file.path
 ```
 
-
-# People
-(these still need to be double-checked)
-confirmed completed: Chardonians, Deno'qai, Dunmari, Dwarves, Elves, Fey, Giants, Kenku, PCs
+## People
 
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, headerVersion
-FROM !"Campaigns" AND !"Worldbuilding" AND "People" AND !#status AND !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !"assets"
+TABLE join(split(file.path, "/", 2),"/") as Folder
+FROM "People" AND !#status/stub AND !#status/check AND !#status/needswork AND !#status/update
+WHERE dm_notes = "none"
 SORT file.path
 ```
