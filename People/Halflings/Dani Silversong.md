@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, dufr/minor]
+tags: [person]
 campaignInfo: 
 - {campaign: dufr, date: 1748-08-09, type: met}
 - {campaign: dufr, date: 1748-08-21, type: last seen}
