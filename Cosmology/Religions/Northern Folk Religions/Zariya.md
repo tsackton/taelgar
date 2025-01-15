@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, religion, status/check/name]
+tags: [background, religion/zariya, status/check/name]
 dm_notes: important
 dm_owner: tim
 ---
