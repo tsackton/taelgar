@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/cleanup/refactor]
+tags: [person, historical, status/cleanup/campaigninfo]
 campaignInfo:
 name: Elandrial
 born:

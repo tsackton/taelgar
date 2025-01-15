@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/refactor]
+tags: [place, status/cleanup/text]
 displayDefaults: {defArt: '' }
 name: Central Highlands Region
 typeOf: region
