@@ -1,4 +1,4 @@
-# Pages That Need DM Info
+# Pages That Need Info
 
 These are pages that are complete status-wise, but have DM information not on the page in question. If pages have status tags indicating `stub`, `update`, `check`, `needswork` they are not included here, but if the only status is `cleanup` or `metadata` they are included. 
 ## Important DM Information, Tim
