@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip]
+tags: [organization]
 ancestry: Urskan
 name: Rodnye
 displayDefaults: {defArt: "the", indefArt: ""}
 typeOf: magical bloodlines
+dm_notes: important
+dm_owner: tim
 ---
 # The Rodnye
 >[!info]+ Information  

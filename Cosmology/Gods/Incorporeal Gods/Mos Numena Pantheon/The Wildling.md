@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/needswork/wip, status/cleanup/image]
+tags: [deity, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
 gender: enby
+dm_owner: shared
+dm_notes: important
 ---
 # The Wildling
 >[!info]+ Summary  

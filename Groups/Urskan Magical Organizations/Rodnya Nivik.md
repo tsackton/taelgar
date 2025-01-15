@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip]
+tags: [organization, status/stub]
 ancestry: Urskan
 displayDefaults: {defArt: ""}
 typeOf: magical bloodline

@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/shared]
+tags: [place]
 whereabouts: Spiritual Realms
 typeOf: plane
+dm_owner: tim
+dm_notes: important
 ---
 # Abyss
 >[!info]+ Information  

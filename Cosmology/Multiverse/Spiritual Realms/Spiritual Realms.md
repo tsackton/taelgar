@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, place]
+tags: [status/needswork/old, place]
 typeOf: plane
+dm_owner: tim
+dm_notes: important
 ---
 # The Spiritual Realms
 >[!info]+ Information  

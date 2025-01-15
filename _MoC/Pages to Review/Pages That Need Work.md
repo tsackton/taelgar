@@ -1,25 +1,9 @@
-**NOTE**: this page is not currently that useful. Will revise when status tags are finished. 
+# Pages That Need Work
 
-# Needs Text  - People
-
-```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks, filter(file.etags, (x) => startswith(x, "#status") & !endswith(x, "unknown")) as Status
-from "People" AND #status/needswork 
-sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
-```
-
-# Needs Text  - Gazetteer
+These are incorrect pages that might have dubiously canonical information, that need revisiting. 
 
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks, filter(file.etags, (x) => startswith(x, "#status") & !endswith(x, "unknown")) as Status
-from "Gazetteer" AND #status/needswork 
-sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
-```
-
-# Needs Text  - Other
-
-```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks, filter(file.etags, (x) => startswith(x, "#status") & !endswith(x, "unknown")) as Status
-from !"People" AND !"Gazetteer" AND #status/needswork 
+TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks, filter(file.etags, (x) => startswith(x, "#status/needswork") & !endswith(x, "unknown")) as Status
+from #status/needswork 
 sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
