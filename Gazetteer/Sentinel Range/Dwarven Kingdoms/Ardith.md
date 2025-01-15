@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place]
 displayDefaults: {endStatus: overrun in}
 campaignInfo: []
 name: Ardith
@@ -8,6 +8,8 @@ typeOf: realm
 ancestry: dwarven
 whereabouts: Labkhan
 destroyed: 1545
+dm_notes: important
+dm_owner: tim
 ---
 # Ardith
 >[!info]+ Information

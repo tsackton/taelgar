@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place]
 whereabouts: Dunmar
 name: Central Dunmar
 displayDefaults: {defArt: ''}
 typeOf: region
+dm_notes: important
+dm_owner: tim
 ---
 # Central Dunmar
 >[!info]+ Information
