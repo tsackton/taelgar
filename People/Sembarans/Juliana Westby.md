@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip]
+tags: [person, status/cleanup/text]
 dm_notes: color
 dm_owner: mike
 whereabouts: Cranford
