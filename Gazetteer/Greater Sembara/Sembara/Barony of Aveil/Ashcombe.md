@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/external, place]
+tags: [status/cleanup/text, place]
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: logging village

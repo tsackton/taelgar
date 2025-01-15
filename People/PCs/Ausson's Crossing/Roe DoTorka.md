@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/aussons, status/needswork/external]
+tags: [person, pc/aussons, status/stub]
 name: Roe DoTorka
 born: 1489
 species: dwarf

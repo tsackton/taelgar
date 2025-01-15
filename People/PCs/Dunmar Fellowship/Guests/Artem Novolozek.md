@@ -1,14 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/needswork/shared]
+tags: [person, pc/guest]
 campaignInfo:
 name: Artem Novolozek
 born:
 species: human
 ancestry: Urskan
 gender: male
-dm_notes: color
-dm_owner: none
+dm_notes: important
+dm_owner: shared
 player: Mike Sackton
 aliases: [Artem]
 whereabouts:
