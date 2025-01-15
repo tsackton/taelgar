@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/check/tim]
+tags: [person, testcase, status/check/minor]
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-23, format: "Freed from <current:2> by <person>, <target>"}
 name: Hralgar

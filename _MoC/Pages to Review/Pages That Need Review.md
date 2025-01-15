@@ -13,7 +13,7 @@ sort file.name
 list from #status/check/minor 
 ```
 
-### Other Checking Needed
+### Other Checking Needed (See Note for Details)
 ```dataview
 list from #status/check and !#status/check/tim and !#status/check/name and !#status/check/mike and !#status/check/minor
 ```
