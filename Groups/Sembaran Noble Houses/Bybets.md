@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/stub]
+tags: [organization, status/stub]
 displayDefaults: {partOf: "", boxInfo: "", defArt: "the"}
 typeOf: family
 whereabouts: Ainwick

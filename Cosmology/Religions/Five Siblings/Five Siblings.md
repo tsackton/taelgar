@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [religion/fivesiblings, organization/pantheon]
+tags: [religion/fivesiblings]
 displayDefaults: {defArt: the}
 typeOf: religion
 ancestry: Dunmari

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/party, status/needswork]
+tags: [organization, status/needswork]
 displayDefaults: {ltPerson: "by"}
 campaignInfo: []
 name: Dunmar Fellowship

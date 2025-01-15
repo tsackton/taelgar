@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/party]
+tags: [organization]
 displayDefaults: {startStatus: met, partOf: "", linkText: "by", ltPerson: "by"}
 typeOf: adventuring party
 created: 1747-04-04

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/religious]
+tags: [organization]
 name: Shakun Mystai
 displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>"}
 name: Shakun Mystai

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family]
+tags: [organization]
 displayDefaults: {defArt: the}
 name: Sunmeadows
 typeOf: family

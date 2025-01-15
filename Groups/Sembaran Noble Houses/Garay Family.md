@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family]
+tags: [organization]
 typeOf: family
 typeOfAlias: merchant family
 ancestory: Sembaran
