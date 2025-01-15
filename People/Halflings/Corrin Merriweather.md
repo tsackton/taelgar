@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, person]
+tags: [status/stub, person]
 species: halfling
 whereabouts: Veltor
 gender: male
 affiliations: [{org: Merriweathers, type: primary}]
 dm_notes: color
-dm_owner: none
+dm_owner: mike
 ---
 # Corrin Merriweather
 >[!info]+ Biographical Info  

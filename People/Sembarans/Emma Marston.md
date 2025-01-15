@@ -6,7 +6,7 @@ ancestry: Sembaran
 whereabouts: Aslain
 affiliations: [{org: Aslain, title: Magistrate }]
 dm_notes: important
-dm_owner: none
+dm_owner: mike
 ---
 # Emma Marston
 >[!info]+ Biographical Info  

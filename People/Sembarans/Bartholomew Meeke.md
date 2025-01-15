@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, person]
+tags: [status/stub, person]
 species: human
 dm_notes: color
 dm_owner: mike

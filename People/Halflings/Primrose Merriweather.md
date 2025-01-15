@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip]
+tags: [person, status/stub]
 species: halfling
 gender: female
 whereabouts: Veltor
 affiliations: [{org: Merriweathers, type: primary}]
 dm_notes: color
-dm_owner: none
+dm_owner: mike
 ---
 # Primrose Merriweather
 >[!info]+ Biographical Info  
