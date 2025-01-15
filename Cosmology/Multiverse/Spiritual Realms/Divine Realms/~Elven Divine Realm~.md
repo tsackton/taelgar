@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/shared, status/check/name]
 whereabouts: Divine Realms
 typeOf: plane
-dm_owner: none
+dm_owner: tim
 dm_notes: important
 ---
 # The ~Elven Divine Realm~

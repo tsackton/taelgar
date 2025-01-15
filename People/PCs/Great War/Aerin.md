@@ -1,14 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, pc, person, status/needswork/external]
-campaignInfo:
+tags: [pc/greatwar, pc, person]
 name: Aerin
-born:
 species: kenku
-ancestry:
 gender: male
 player: David Schwartz
 affiliations:
+dm_owner: player
+dm_notes: important
 ---
 # Aerin
 >[!info]+ Biographical Info  

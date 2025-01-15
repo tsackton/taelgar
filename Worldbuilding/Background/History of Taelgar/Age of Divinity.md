@@ -1,5 +1,7 @@
 ---
-tags: [status/needswork/internal, background]
+tags: [status/needswork/old, background]
+dm_owner: shared
+dm_notes: important
 ---
 
 %% NEEDS CLEANUP %%
