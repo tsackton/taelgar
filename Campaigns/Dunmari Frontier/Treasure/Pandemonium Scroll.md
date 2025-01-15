@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 destroyed: 1749-05-01
-tags: [item]
+tags: [item/equipment]
 typeOf: scroll
 subTypeOf: magical
 ---
