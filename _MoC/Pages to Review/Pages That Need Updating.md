@@ -20,5 +20,5 @@ Pages that have not been finished
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
 from #status/stub
-sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
+sort length(file.inlinks) DESC, join(split(file.path, "/", 2),"/")
 ```
