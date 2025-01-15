@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place, status/stub]
 name: Tygate
 typeOf: market town
 whereabouts: Addermarch
+dm_notes: important
+dm_owner: tim
 ---
 # Tygate
 >[!info]+ Information  

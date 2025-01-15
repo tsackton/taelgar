@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place, status/stub]
 whereabouts: Chardonian Empire
 typeOf: watershed
 name: Chasa River Valley
+dm_notes: important
+dm_owner: tim
 ---
 # The Chasa River Valley
 >[!info]+ Information  

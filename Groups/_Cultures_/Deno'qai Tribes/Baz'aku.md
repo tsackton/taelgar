@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/needswork_old/external]
+tags: [culture, status/stub]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Baz'aku
 typeOf: tribe
 ancestry: Deno'qai
 whereabouts: Elderwood
+dm_notes: important
+dm_owner: tim
 ---
 # The Baz'aku
 >[!info]+ Information

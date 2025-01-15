@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place, status/stub]
 typeOf: fen
 whereabouts: West Coast Region
+dm_notes: important
+dm_owner: tim
 ---
 # The Blackwater Fens
 >[!info]+ Information  

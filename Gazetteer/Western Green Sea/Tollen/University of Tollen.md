@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place, status/stub]
 campaignInfo: []
 name: University of Tollen
 typeOf: university
 whereabouts: Magnus Street
+dm_notes: important
+dm_owner: tim
 ---
 # The University of Tollen
 >[!info]+ Information  

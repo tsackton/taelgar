@@ -1,5 +1,7 @@
 ---
-tags: [event, status/needswork_old/external]
+tags: [event, status/stub]
+dm_notes: important
+dm_owner: tim
 ---
 
 # Summer Gnoll Raids

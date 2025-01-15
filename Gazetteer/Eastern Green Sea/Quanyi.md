@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place]
 name: Quanyi
 typeOf: island
 whereabouts: ~Eastern Islands~
+dm_notes: important
+dm_owner: tim
 ---
 # Quanyi
 >[!info]+ Information  

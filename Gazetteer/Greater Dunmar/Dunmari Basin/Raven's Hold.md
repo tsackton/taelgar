@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place, status/cleanup/text]
 displayDefaults: {defArt: '', wHome: "<subTypeOf:UA> <ancestry:UA> <typeOf:UA> <home:q>, once part of <origin>"}
 campaignInfo: []
 name: Raven's Hold
@@ -9,6 +9,8 @@ typeOf: fort
 whereabouts:
 - { type: home, location: Dunmar, end: 1544 }
 - { type: home, location: Sentinel Range, start: 1545 }
+dm_notes: important
+dm_owner: tim
 ---
 # Raven's Hold
 >[!info]+ Information

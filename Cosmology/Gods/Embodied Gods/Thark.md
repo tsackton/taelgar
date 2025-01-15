@@ -1,8 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, status/needswork_old/internal]
+tags: [deity]
+gender: male
+dm_notes: important
+dm_owner: tim
 ---
 # Thark
+>[!info]+ Summary  
+> he/him
 
 %% need to copy notes from various People of the Rainbow and DM documents %%
 
