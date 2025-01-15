@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, organization, status/needswork/external]
+tags: [status/stub, organization]
 dm_owner: mike
 dm_notes: important
 ---

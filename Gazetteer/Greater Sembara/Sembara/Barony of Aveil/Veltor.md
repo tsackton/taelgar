@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external]
+tags: [place, status/update]
 typeOf: settlement
 created: 1121
 typeOfAlias: fortified village

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/external, person]
+tags: [status/stub, person]
 dm_owner: mike
 dm_notes: important
 species: fey

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/guest, status/needswork/shared]
+tags: [person, pc/guest]
 name: Caulaus
 born:
 species: human
@@ -8,6 +8,8 @@ ancestry: Drankorian
 gender: male
 player: Mike Sackton
 affiliations:
+dm_notes: color
+dm_owner: tim
 ---
 # Caulaus
 >[!info]+ Biographical Info  
