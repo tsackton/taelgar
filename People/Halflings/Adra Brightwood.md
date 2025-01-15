@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/whereabouts, status/check/mike]
+tags: [person, status/cleanup/text]
 name: Adra Brightwood
 born:
 species: halfling
@@ -10,6 +10,7 @@ affiliations: [{org: Brightwoods, type: primary}, {org: The Rangers }]
 whereabouts:
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, location: Champimont}
+- {type: away, start: 1720-02-01, location: Aveil Ridge}
 dm_notes: none
 dm_owner: none
 ---
@@ -19,11 +20,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% replaced status/cleanup/internal with status/cleanup/whereabouts per comment below about whereabouts; check if anything else needs to be tagged, etc %%
-
 ![[adra-brightwood.jpg|right|400]] A wanderer, woodswalker, and skilled swordswoman. Cousin of [[Enzo Brightwood]].
-
-%% note whereabouts is wrong, she is in Aveil with Damien et al %%
 
 %% Meta: 3rdish level ranger swarmkeeper birds 
 halflings and cousins, from everywhere, but originally from numerous small towns and villages in the Mostreve Hills. Both restless types, more at home in the forests and valleys of the Mostreve Hills than a bustling inn. Adra has a faint ghostly bird that sometimes lands on her, often changing form between different types of sparrows , songbirds, and hummingbirds and other times splitting into two or three. Her cousin, when the number of ghostly birds is in danger of growing, will sometimes tap her and point it all, and they all disappear for a moment. These two clearly work together, but have not travelled with Vahaiya much before.

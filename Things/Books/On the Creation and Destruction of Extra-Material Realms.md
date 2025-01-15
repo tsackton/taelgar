@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [item/other]
 displayDefaults: { defArt: "" }
 typeOf: book
+dm_owner: none
+dm_notes: none
 ---
 # On the Creation and Destruction of Extra-Material Realms
 >[!info]+ Information  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place, status/cleanup/text]
 whereabouts: Refounded Alliance of Aurbez
 typeOf: settlement
 typeOfAlias: trading spot
@@ -11,8 +11,6 @@ dm_owner: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup as opposed to stub or no status%%
 
 %%
 Rocky Ford, movable town springs up around the ford of the Masance

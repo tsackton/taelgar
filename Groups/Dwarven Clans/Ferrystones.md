@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, organization]
+tags: [status/cleanup/text, organization]
 typeOf: clan
 displayDefaults: {defArt: "the" }
 ancestry: dwarven
@@ -14,14 +14,12 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup as opposed to stub %%
+A fairly prominent dwarven clan with longstanding ties to [[Rinburg]] and [[Aslain]], known since at least the [[Third Hobgoblin War (Sembara)|hobgoblin wars]] for their work building with recovered stones from ruins.
 
-%% dwarven clan in Rinburg and Aslain, known for their work building with recovered stones from  ruins; have a small clanhouse in Aslain and larger buildings in Rinburg
-
+%% 
+dwarven clan in Rinburg and Aslain,; have a small clanhouse in Aslain and larger buildings in Rinburg
 important  / connected enough to have sent 2 of their members from Rinburg to Aslain to get news when there was little news of the north in Rinburg
-
 from game intro:
-
 - The Ferrystones, a dwarven clan, a group of whom are staying at the Resting Ox. They are important in Rinburg, and might have some useful information to share (and see Bolgrim and Kazak above)
 %%
 

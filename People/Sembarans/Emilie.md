@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update, status/check/mike]
+tags: [person, status/update, status/cleanup/text]
 name: Emilie
 born:
 species: human
@@ -20,9 +20,6 @@ dm_owner: none
 > A [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup? %%
-
 
 ![[emilie-adderfell.png|right|400]]A fighter.
 

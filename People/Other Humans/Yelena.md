@@ -6,7 +6,7 @@ ancestry: Urskan
 gender: female
 affiliations: [Rodnya Voknaz]
 whereabouts: Ursk
-dm_info: color
+dm_notes: color
 dm_owner: tim
 ---
 # Yelena

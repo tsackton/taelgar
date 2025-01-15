@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/check/mike]
+tags: [historical, person, status/update]
 name: Robert I
 born: 1660
 species: human
@@ -20,10 +20,10 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% was status/cleanup/external, setting status/check/mike instead; remove if tags are fine %%
-
 A ruler of Sembara, son of [[Cece I]].  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [[Elaine II]]. 
 
 %% 
-Although an important figure in Clee game, nothing really in detail made up about him, as by the start of clee he was already a lich; see the backlins and other obisidan sources for info that is made up; nothing is canonical outside of obsidian
-Replaced by lich in 1719 %%
+Although an important figure in Clee game, nothing really in detail made up about him, as by the start of clee he was already a lich; see the backlinks and other obisidan sources for info that is made up; nothing is canonical outside of obsidian
+
+Once the lich reveal happens in my game, some updates are necessary here;  He was replaced by a lich (Malach) in 1718 or 1719.
+%%

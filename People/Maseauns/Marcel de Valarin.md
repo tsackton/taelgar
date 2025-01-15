@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/stub]
 died: 1688
 species: human
 ancestry: Isinguer
@@ -14,9 +14,6 @@ dm_owner: mike
 > An [[Istabor Alliance|Isinguer]] [[Humans|human]] (he/him)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-
-%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup as opposed to stub or no status %%
 
 %%
 historical; friend or perhaps lover of [[Cedric Cyfenwid]]
