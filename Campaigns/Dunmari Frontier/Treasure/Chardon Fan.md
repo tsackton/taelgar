@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/mundane]
+tags: [item/equipment]
 whereabouts: Kenzo
 typeOf: object of art
 typeOfAlias: fan

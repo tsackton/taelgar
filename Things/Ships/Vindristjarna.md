@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
 excludePublish: ["clee"]
-tags: [item]
+tags: [item/vehicle]
+typeOf: skyship
 pronunciation: vin-dree-SHAR-na
 displayDefaults: {linkText: on, ltItem: stored on}
 whereabouts:

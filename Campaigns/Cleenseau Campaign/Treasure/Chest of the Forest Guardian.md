@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/mundane, item/equipment]
+tags: [item/equipment]
 name: Chest of the Forest Guardian
 displayDefaults: {defArt: "" }
 subTypeOf: magical

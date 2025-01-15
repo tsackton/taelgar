@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person, status/update]
 campaignInfo: []
 name: Itar
 born: 1716
@@ -9,6 +9,8 @@ ancestry: Deno'qai
 gender: male
 whereabouts:
 - {type: home, location: Bek'eni village, linkText: in the largest}
+dm_owner: none
+dm_notes: color
 ---
 # Itar
 >[!info]+ Biographical Info

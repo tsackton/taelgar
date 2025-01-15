@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/check/tim]
+tags: [culture]
 name: Te'kula
 typeOf: tribe
 partOf: Deno'qai
 whereabouts: Elderwood
+dm_notes: important
+dm_owner: tim
 ---
 # Te'kula
 >[!info]+ Information  
@@ -19,5 +21,3 @@ Long hidden by the magic of [[Rai]] and the tanshi [[Aasimti]] in a pocket dimen
 - (DR:: 1724): [[Mezzar|Grimbaskal]] first attacked the [[Te'kula]] 
 - (DR:: 1748): The [[Te'kula]] are returned to the world after Grimbaskal's defeat
 %%^End%%
-
-%% Tim: cleaning up some status/unknowns, this seems done enough? %%

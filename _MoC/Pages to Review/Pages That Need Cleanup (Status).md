@@ -1,3 +1,5 @@
+**NOTE:** might need revisions when status tags are cleaned up
+
 # Needs Header Information Cleanup
 
 ```dataview

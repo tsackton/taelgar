@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/equipment]
 campaignInfo:
 name: Lantern of the Bright Hearth
 typeOf: lantern

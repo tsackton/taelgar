@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/equipment]
 rarity: unique
 typeOf: staff
 ancestry: Dunmari
 whereabouts: Candrosa
+dm_owner: tim
+dm_notes: important
 ---
 # The Dreamweaver Staff
 >[!info]+ Information  
