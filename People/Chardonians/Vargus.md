@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/needswork_old/internal]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Vargus
@@ -12,6 +12,8 @@ affiliations: [Chardonian Legion, Society of the Open Scroll]
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-12-09, end: 9999, location: Mirror of Soul Trapping}
+dm_notes: important
+dm_owner: tim
 ---
 # Vargus
 >[!info]+ Biographical Info

@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/internal]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
-- {campaign: dufr, date: 1749-01-16, type: met}
+- {campaign: dufr, date: 1748-12-30, type: first met}
 name: Faldrak Bronzehammer
 born: 1516
 species: dwarf
@@ -17,13 +17,15 @@ whereabouts:
 - {type: home, start: 1727-01-02, end: '', location: Tollen}
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
 image: faldrak-small.png
+dm_notes: important
+dm_owner: tim
 ---
 # Faldrak Bronzehammer
->[!info]+ Biographical Info
-> A [[Dwarves|dwarf]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
->> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Met by the [[Dunmar Fellowship]] on January 16th, 1749 on [[Vindristjarna]], in [[Orenlas]] %%^End%%
+>[!info]+ Biographical Info  
+> A [[Dwarves|dwarf]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:dufr%% First met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
 
 ![[faldrak-portrait-1.png|right|400]]Faldrak Bronzehammer is an aged dwarf runecrafter and tinker, with a touch of Feywild whimsy.
 ## Overview

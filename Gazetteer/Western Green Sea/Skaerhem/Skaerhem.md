@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place, status/cleanup/text]
 name: Skaerhem
 typeOf: realm
 whereabouts: Western Green Sea Region
 aliases: [Skaer Islands, Skaegenland, Skaer]
+dm_notes: color
+dm_owner: tim
 ---
 # Skaerhem
 >[!info]+ Information

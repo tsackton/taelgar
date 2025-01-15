@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal, status/cleanup/image]
+tags: [place, status/cleanup/image]
 name: Skepwalk
 typeOf: ward
 whereabouts: Tollen
+dm_notes: color
+dm_owner: tim
 ---
 # Skepwalk
 >[!info]+ Information  

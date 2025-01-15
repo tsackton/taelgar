@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/internal, status/cleanup/image, status/cleanup/metadata]
+tags: [person, status/cleanup/image, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-10-12, type: scryed}
 name: Kaeso
@@ -17,6 +17,8 @@ whereabouts:
 - {type: home, start: 1723, end: 1748-09-09, location: Chardon}
 - {type: away, start: 1748-09-10, location: fleeing the Chardonian Empire}
 - {type: away, start: 1748-10-12, location: Hamri, wLastKnown: ""}
+dm_notes: important
+dm_owner: tim
 ---
 # Kaeso
 >[!info]+ Biographical Info

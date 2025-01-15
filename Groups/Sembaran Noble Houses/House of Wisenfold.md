@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork_old/internal]
+tags: [organization, status/check/mike]
 typeOf: family
 dm_notes: none
 dm_owner: none
@@ -10,6 +10,7 @@ dm_owner: none
 > A family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
+%% anything to add? %%
 
 %%^Campaign:None%%
 ### Members

@@ -1,3 +1,5 @@
 ---
-tags: [status/stub, status/needswork_old/internal, person]
+tags: [status/stub, person]
+dm_notes: color
+dm_owner: tim
 ---

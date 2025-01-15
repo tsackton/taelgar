@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place, status/cleanup/text]
 campaignInfo: []
 typeOf: realm
 name: Dwarven Kingdoms
 whereabouts: Labkhan
+dm_notes: none
+dm_owner: none
 ---
 # The Dwarven Kingdoms
 >[!info]+ Information  

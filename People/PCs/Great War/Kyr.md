@@ -1,14 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person, status/needswork_old/internal]
-campaignInfo:
+tags: [pc/greatwar, person, status/needswork/gameupdate]
 name: Kyr
-born:
 species: lizardfolk
-ancestry:
 gender: male
 player: Eric Rosenbaum
 affiliations: [Heroes of the Great War]
+dm_notes: important
+dm_owner: player
 ---
 # Kyr
 >[!info]+ Biographical Info  

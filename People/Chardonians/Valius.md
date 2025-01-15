@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/internal, status/cleanup/metadata]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Valius
@@ -14,6 +14,8 @@ whereabouts:
 - {type: away, start: 1748-08-01, end: 1748-12-09, location: Xurkhaz}
 - {type: away, start: 1748-12-08, end: 1748-12-09, location: Uzgukhar}
 - {type: away, start: 1748-12-10, end: 9999, location: Mirror of Soul Trapping}
+dm_notes: important
+dm_owner: tim
 ---
 # Valius
 >[!info]+ Biographical Info  
@@ -25,4 +27,4 @@ whereabouts:
 
 %% cleanup header, copy DM notes, reformat text %%
 
-A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[People/Chardonians/Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[People/Chardonians/Fausto]]'s curse.
+A former mercenary and adventurer, Valius now finds himself ensnared by the machinations of [[Fausto]] and trapped in the [[Mirror of Soul Trapping]]. Alongside his twin, [[Vargus]], he once sought treasures and wealth, but now seeks only to free his brother from [[Fausto]]'s curse.

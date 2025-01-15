@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork_old/internal]
+tags: [background, status/needswork/old]
 displayDefaults: {defArt: a}
 campaignInfo: []
 name: Timeline of Sembaran History

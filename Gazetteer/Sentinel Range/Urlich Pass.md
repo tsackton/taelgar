@@ -1,17 +1,22 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place, status/stub]
 displayDefaults: {defArt: ""}
 name: Urlich Pass
 typeOf: pass
 whereabouts: Sentinel Range
+dm_notes: important
+dm_owner: none
 ---
 # Urlich Pass
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% needs a search to see if there are other useful bits of information %%
+
 %% notes
+
 Tim: are the notes below everyhing we have?
 
 [[Great War Notes]]
