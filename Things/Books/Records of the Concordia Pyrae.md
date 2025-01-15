@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, item]
+tags: [status/stub, item/equipment]
 ---
 
 

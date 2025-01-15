@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup/external]
+tags: [source, status/cleanup/text]
 dm_notes: color
 dm_owner: none
 ---

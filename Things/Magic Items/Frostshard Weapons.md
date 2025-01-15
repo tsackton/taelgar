@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/other]
 displayDefaults: {defArt: ""}
 typeOf: weapon
 subtypeOf: magic

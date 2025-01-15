@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, event-source, status/check/minor]
+tags: [organization, status/check/minor]
 name: Fraternity of the Empty Moon
 timelineDescriptor: Fraternity of the Empty Moon
 typeOf: cult

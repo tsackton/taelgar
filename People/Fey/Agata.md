@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/external, status/metadata/header, status/metadata/image, person]
+tags: [status/cleanup/external, status/cleanup/header, status/cleanup/image, person]
 displayDefaults: {boxInfo: '<subspecies> (<species:s>), <pronouns>'}
 campaignInfo:
 - {campaign: DuFr, date: 1748-11-15, type: imprisoned}

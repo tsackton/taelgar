@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ''}
-tags: [item]
+tags: [item/other]
 aliases: [Phasing Stone]
 ancestry: giant
 typeOf: stone

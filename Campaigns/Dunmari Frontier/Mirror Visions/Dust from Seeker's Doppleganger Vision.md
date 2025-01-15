@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Dust from Seeker's Doppelgänger Vision
 DR: 1749-05-13

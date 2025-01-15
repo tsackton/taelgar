@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 DR: 1749-01-08
 timelineDescriptor: Dunmari Frontier Campaign

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 typeOf: coin
 subTypeOf: magic
 ddbLink: https://www.dndbeyond.com/magic-items/1872181-floating-coin

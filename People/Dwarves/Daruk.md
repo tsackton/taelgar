@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/metadata/refactor]
+tags: [person, historical, status/cleanup/refactor]
 campaignInfo:
 name: Daruk
 born: 1323

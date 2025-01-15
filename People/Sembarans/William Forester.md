@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/metadata/header]
+tags: [person, status/needswork/internal, status/cleanup/header]
 dm_notes: color
 dm_owner: mike
 species: human
