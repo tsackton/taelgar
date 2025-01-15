@@ -1,5 +1,5 @@
 ---
-tags: [deity, religion/kestavo, status/check/tim, status/check/mike]
+tags: [deity, religion/kestavo, status/needswork/old]
 ---
 ### Ziva
 *they/them*
