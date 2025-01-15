@@ -16,7 +16,7 @@ pcOwner: Heroes of Cleenseau
 
 ![[ewer-of-liquid.png|right|420]]A strangely unchipped ceramic ewer, decorated with Drankorian words for milk, water, beer, wine, honey, vinegar, tea and oil in stylized patterns running up and down the sides. It holds about a quart of liquid and sounds full of water sloshing around despite being empty. Found in the bandit lair.
 
-#### Mechanics
+### Mechanics
 This ceramic jug appears to be able to hold a quart of liquid and weighs 3 pounds whether full or empty. Sloshing sounds can be heard from within the jug when it is shaken, even if the jug is empty. 
 
 You can use an action and name one liquid from the table below to cause the jug to produce the chosen liquid. Afterward, you can uncork the jug as an action and pour that liquid out, up to 2 gallons per minute. The maximum amount of liquid the jug can produce depends on the liquid you named.
