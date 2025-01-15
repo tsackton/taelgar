@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/external]
+tags: [person]
 name: Hiyasa
 species: human
 ancestry: Mawaran

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place, status/stub]
 campaignInfo:
 name: Bedez
 typeOf: village
 ancestry: lizardfolk
 whereabouts: Orekatu
+dm_notes: important
+dm_owner: tim
 ---
 # Bedez
 >[!info]+ Information  

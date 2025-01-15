@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/needswork_old/external]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Gnaeus
 born: 1701
@@ -11,6 +11,8 @@ affiliations: [University of Chardon, Sibyl's Hall]
 whereabouts:
 - {type: home, location: Arendum}
 - {type: home, location: Chardon}
+dm_notes: important
+dm_owner: tim
 ---
 # Gnaeus
 >[!info]+ Biographical Info  

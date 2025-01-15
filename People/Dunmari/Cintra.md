@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/external, status/update, status/cleanup/image]
+tags: [person, status/update, status/cleanup/image]
 campaignInfo:
 name: Cintra
 born: 1705
@@ -9,6 +9,8 @@ ancestry: Dunmari
 gender: female
 affiliations: [Shakun Mystai]
 whereabouts: Karawa
+dm_notes: important
+dm_owner: tim
 ---
 # Cintra
 >[!info]+ Biographical Info  

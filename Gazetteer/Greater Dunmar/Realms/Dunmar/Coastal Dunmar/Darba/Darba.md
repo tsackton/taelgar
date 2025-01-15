@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal, status/needswork_old/external]
+tags: [place, status/cleanup/text]
 name: Darba
 typeOf: city
 whereabouts: Coastal Dunmar
+dm_notes: important
+dm_owner: tim
 ---
 # Darba
 >[!info]+ Information
