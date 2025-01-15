@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip]
+tags: [person, status/stub]
 species: dwarf
 affiliations: [{org: Ferrystones, type: primary }]
 whereabouts: Aslain
 gender: male
 dm_notes: color
-dm_owner: none
+dm_owner: mike
 ---
 # Vondal Ferrystone
 >[!info]+ Biographical Info  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip]
+tags: [person, status/stub]
 whereabouts: Rinburg
 affiliations: [{org: Rinburg, title: Lord Mayor}]
 species: human
