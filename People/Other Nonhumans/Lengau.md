@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person, status/cleanup/header]
 campaignInfo: []
 name: Lengau
 born:
@@ -9,6 +9,8 @@ ancestry:
 gender: nonbinary
 pronouns: he/him or she/her (as they desire)
 excludePublish: ["clee"]
+dm_notes: important
+dm_owner: tim
 ---
 # Lengau
 >[!info]+ Biographical Info  
