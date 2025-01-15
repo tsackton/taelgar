@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub]
+tags: [status/stub, organization]
 displayDefaults: {defArt: 'the'}
 dm_owner: none
 dm_notes: none
