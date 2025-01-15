@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person, status/needswork_old/needswork]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-25, type: met}
 name: Vaallinen

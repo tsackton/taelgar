@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person, status/needswork/internal]
+tags: [pc/greatwar, person, status/needswork_old/internal]
 campaignInfo:
 name: Kyr
 born:

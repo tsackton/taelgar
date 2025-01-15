@@ -1,5 +1,5 @@
 ---
-tags: [species, status/needswork]
+tags: [species, status/needswork_old/needswork]
 ---
 (stub)
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/needswork/external]
+tags: [place, status/check/name, status/needswork_old/external]
 typeOf: plains
 whereabouts: Chardonian Empire
 ---

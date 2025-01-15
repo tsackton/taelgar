@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person, status/needswork/external]
+tags: [pc/greatwar, person, status/needswork_old/external]
 name: Rai
 born:
 species: elf

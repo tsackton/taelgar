@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, testcase, status/cleanup/metadata, status/needswork/internal]
+tags: [item/equipment, testcase, status/cleanup/metadata, status/needswork_old/internal]
 campaignInfo:
 created: 917
 subTypeOf: magical

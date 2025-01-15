@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [culture, status/needswork/external]
+tags: [culture, status/needswork_old/external]
 displayDefaults: {defArt: the}
 campaignInfo: []
 name: Baz'aku

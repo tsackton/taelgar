@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/shared]
+tags: [person]
 name: Armand
 born:
 species: human
@@ -10,8 +10,8 @@ whereabouts:
 - {type: home, location: Embry}
 - {type: away, start: 1720-01-14, location: Eftly}
 - {type: away, start: 1720-01-15, end: 1720-01-16, location: Champimont}
-dm_notes: none
-dm_owner: mike
+dm_notes: important
+dm_owner: shared
 ---
 # Armand
 >[!info]+ Biographical Info  

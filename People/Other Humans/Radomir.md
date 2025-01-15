@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/cleanup/metadata]
+tags: [person, status/needswork_old/internal, status/cleanup/metadata]
 campaignInfo: []
 name: Radomir
 born: 1710

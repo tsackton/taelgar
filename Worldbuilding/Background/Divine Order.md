@@ -1,5 +1,7 @@
 ---
-tags: [background, status/needswork/shared]
+tags: [background, status/needswork/old]
+dm_owner: shared
+dm_notes: important
 ---
 
 %% 

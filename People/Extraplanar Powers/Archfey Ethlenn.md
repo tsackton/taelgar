@@ -2,13 +2,12 @@
 headerVersion: 2023.11.25
 tags: [person, status/needswork/shared]
 name: Archfey Ethlenn
-born:
 species: fey
 speciesAlias: archfey
 gender: female
 aliases: [Queen of the Evening Mist]
 whereabouts: Twilight's Grace
-dm_notes: none
+dm_notes: important
 dm_owner: mike
 ---
 # Archfey Ethlenn

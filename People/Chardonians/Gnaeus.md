@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/needswork/external]
+tags: [person, status/cleanup/metadata, status/needswork_old/external]
 campaignInfo: []
 name: Gnaeus
 born: 1701

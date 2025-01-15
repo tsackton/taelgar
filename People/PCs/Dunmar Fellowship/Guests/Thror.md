@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/guest, status/needswork/external]
+tags: [pc, person, pc/guest, status/needswork_old/external]
 name: Thror
 born:
 species: dwarf

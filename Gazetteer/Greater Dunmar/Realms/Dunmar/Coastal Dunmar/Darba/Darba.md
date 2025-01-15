@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/needswork/external]
+tags: [place, status/needswork_old/internal, status/needswork_old/external]
 name: Darba
 typeOf: city
 whereabouts: Coastal Dunmar

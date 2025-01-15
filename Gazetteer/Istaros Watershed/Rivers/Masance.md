@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal]
+tags: [place, status/needswork_old/internal]
 name: Masance
 typeOf: river
 whereabouts: Istaros Watershed

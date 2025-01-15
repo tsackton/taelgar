@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/needswork/internal, status/cleanup/metadata]
+tags: [person, testcase, status/needswork_old/internal, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: killed}
 name: Evelina

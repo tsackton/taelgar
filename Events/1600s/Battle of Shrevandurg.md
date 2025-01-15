@@ -1,5 +1,5 @@
 ---
-tags: [event, status/needswork/internal]
+tags: [event, status/needswork_old/internal]
 name: Battle of Shrevandurg
 typeOf: battle
 displayDefaults: {defArt: the}

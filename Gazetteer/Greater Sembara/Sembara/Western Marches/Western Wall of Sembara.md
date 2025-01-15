@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, place]
+tags: [status/needswork_old/needswork, place]
 typeOf: wall
 whereabouts: Sembara
 dm_owner: mike

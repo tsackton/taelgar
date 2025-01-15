@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/internal, place]
+tags: [status/needswork_old/internal, place]
 typeOf: settlement
 typeOfAlias: village
 ancestry: Deno'qai
