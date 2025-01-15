@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork_old/needswork, person, testcase]
+tags: [status/update, person, testcase]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-26, type: scryed}
 name: Nayan Sura
@@ -20,6 +20,8 @@ whereabouts:
 - {type: away, start: 1748-07-22, end: 1748-12-14, location: Central Dunmar}
 - {type: away, start: 1748-12-14, end: 1748-12-22, location: Tokra}
 - {type: away, start: 1748-12-22, end: 1748-12-26, location: plains south of Tokra}
+dm_notes: important
+dm_owner: tim
 ---
 # Nayan Sura
 >[!info]+ Biographical Info

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person]
 name: Nuzkar
 born: 1698
 activeYear: 1740
@@ -12,6 +12,8 @@ whereabouts:
 - {type: home, location: Uzgukhar}
 - {type: away, location: Vindristjarna, end: 9999}
 image: nuzkar-small.png
+dm_notes: color
+dm_owner: tim
 ---
 # Nuzkar
 *(NUZ-car)*

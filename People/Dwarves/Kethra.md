@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person]
 aliases: [Kethra Silverspark]
 species: dwarf
 whereabouts: 
@@ -13,6 +13,8 @@ affiliations:
 gender: female
 born: 1701
 image: kethra-small.png
+dm_notes: color
+dm_owner: tim
 ---
 # Kethra Silverspark
 >[!info]+ Biographical Info

@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person]
 whereabouts: Tollen
 species: kenku
 gender: male
 name: Kecha
 image: kecha-small.png
+dm_notes: important
+dm_owner: tim
 ---
 # Kecha
 >[!info]+ Biographical Info

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person]
 displayDefaults: {endStatus: "killed in battle against [[Grash|Grash's]] armies"}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-04, type: met}
@@ -16,6 +16,8 @@ affiliations: [{org: People of the Rainbow, type: primary }]
 whereabouts:
 - {type: home, location: Uzgukhar}
 - {type: home, start: 1741-01-01, location: Khumarz}
+dm_notes: color
+dm_owner: tim
 ---
 # Commander Vorgaz
 >[!info]+ Biographical Info

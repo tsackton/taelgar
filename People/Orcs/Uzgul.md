@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork_old/needswork, person]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-10, type: met}
 name: Uzgul
@@ -12,6 +12,8 @@ title: Chiefling
 affiliations: [The People of the Rainbow]
 whereabouts:
 - {type: home, start: '', end: '', location: 'Uzgukhar'}
+dm_notes: color
+dm_owner: tim
 ---
 # Chiefling Uzgul
 >[!info]+ Biographical Info
