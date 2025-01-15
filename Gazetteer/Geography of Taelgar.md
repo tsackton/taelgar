@@ -1,8 +1,13 @@
 ---
-tags: [status/needswork_old/needswork, background]
+headerVersion: 2023.11.25
+tags: [background, status/cleanup/text]
+name: The World of Taelgar
+dm_notes: none
+dm_owner: none
 ---
-
 # The World of Taelgar
+
+%% tagged cleanup/text as it is a central landing page that doesn't read well imo, but low priority %%
 
 The world of Taelgar is a globe, slightly bigger than Earth, with Earth-like seasons and climate. Thousands of years ago, there were three large landmasses: [[Hkar]], the birthplace of [[Humans|humanity]], and the [[~Northern Continent~]] and [[~Southern Continent~]]. Then came the [[The Downfall|Downfall]] and the sinking of [[Hkar]], and all that is known today is the [[~Northern Continent~]], which stretches from just south of the equator to the frozen north, covering almost 80 degrees of latitude and over 4,000 miles from east to west and from north to south. 
 

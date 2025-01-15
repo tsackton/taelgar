@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/needswork]
+tags: [place, status/needswork/wip]
 campaignInfo: []
 typeOf: region
 whereabouts: Taelgar
+dm_owner: tim
+dm_notes: important
 ---
 # The Far North Region
 >[!info]+ Information
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% tagged WIP because of extent of non-canon information here; pre-dates world development for Ursk arc %%
 
 ## Overview
 

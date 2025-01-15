@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/dunmarfrontier, status/needswork_old/needswork]
+tags: [person, pc/dunmarfrontier, status/check/mike, status/update, status/cleanup/image]
 campaignInfo:
 name: Delwath
 born: 1472
@@ -23,6 +23,8 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/check/mike in case there are other status tags to add, but seems correct to me %%
 
 ![[delwath-portrait.jpg]]
 

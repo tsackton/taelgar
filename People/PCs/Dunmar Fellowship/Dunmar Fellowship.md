@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork_old/needswork]
+tags: [organization, status/update]
 displayDefaults: {ltPerson: "by"}
 campaignInfo: []
 name: Dunmar Fellowship
@@ -62,7 +62,6 @@ The Dunmar Fellowship has acquired a number of followers, hirelings, and traveli
 - [[Nuzkar]] and [[Aygul]], orcs and twin sisters. Nuzkar is an archivist and loremaster; Aygul a brawler who helps in the training rooms.
 - [[Kethra|Kethra Silverspark]], a dwarven smith and Riswynn's mentee. 
 - [[Kecha]], a kenku scout guiding the party to Ursk
-- (unnamed mapmaker recruited in Tollen)
 
 %% 
 Future recruits:

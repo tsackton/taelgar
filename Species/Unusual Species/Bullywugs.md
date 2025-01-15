@@ -1,7 +1,6 @@
 ---
-tags: [species, status/needswork_old/needswork]
+tags: [species, status/needswork/wip]
 ---
-(stub)
 
 Notes:
 - Most common of the aquatic and semi-aquatic species, often seen on rivers

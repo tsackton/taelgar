@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork_old/needswork, person, testcase]
+tags: [person, testcase]
 campaignInfo:
 - {campaign: dufr, date: 1748-09-30, type: met}
 name: Belegor
@@ -16,6 +16,8 @@ whereabouts:
 - {type: away, start: 1748-08-01, end: '', location: Te'kula village}
 - {type: away, start: 1748-09-30, end: '', location: Te'kula village}
 timelineDescriptor: Belegor
+dm_notes: color
+dm_owner: none
 ---
 # Belegor
 *(beh-leh-GOR)*
