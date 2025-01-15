@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/dunmarfrontier, status/check/mike, status/update, status/cleanup/image]
+tags: [person, pc/dunmarfrontier, status/update, status/cleanup/image]
 campaignInfo:
 name: Delwath
 born: 1472
