@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/needswork/wip, status/metadata/image]
+tags: [deity, religion/mosnumena, status/needswork/wip, status/cleanup/image]
 displayDefaults: {defArt: ''}
 gender: enby
 ---

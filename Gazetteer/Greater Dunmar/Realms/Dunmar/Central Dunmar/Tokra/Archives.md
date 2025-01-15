@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: { startStatus: Built}
-tags: [place, status/metadata/image]
+tags: [place, status/cleanup/image]
 name: Archives of Tokra
 typeOf: library
 whereabouts: Tokra

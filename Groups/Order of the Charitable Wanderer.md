@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/metadata/header, organization, status/needswork/external]
+tags: [status/cleanup/header, organization, status/needswork/external]
 typeOf: religious order
 dm_notes: important
 dm_owner: mike

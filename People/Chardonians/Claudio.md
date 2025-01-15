@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/refactor]
+tags: [person, status/cleanup/refactor]
 campaignInfo: []
 name: Claudio
 born: 1719

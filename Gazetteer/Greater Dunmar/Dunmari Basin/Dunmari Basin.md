@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/metadata/map, status/metadata/image]
+tags: [place, status/check/name, status/cleanup/map, status/cleanup/image]
 typeOf: watershed
 whereabouts: Greater Dunmar
 dm_notes: none
