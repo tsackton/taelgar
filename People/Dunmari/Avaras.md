@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person, status/metadata/header, status/needswork/internal]
+tags: [person, status/metadata/header, status/needswork/internal]
 campaignInfo: []
 name: Avaras
 born: 1676

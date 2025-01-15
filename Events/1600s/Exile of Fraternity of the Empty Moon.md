@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 campaignInfo:
 name: Exile of Fraternity of the Empty Moon
 DR: 1625-04-11

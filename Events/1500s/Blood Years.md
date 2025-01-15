@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 name: Blood Years
 DR: 1545
 DR_end: 1600

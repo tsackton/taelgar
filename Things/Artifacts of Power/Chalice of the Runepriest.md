@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, event-source, testcase]
+tags: [item/equipment,testcase]
 displayDefaults: { wOrigin: "<start:u> in <startDate> <origin:3rq>", wCurrent: "Current location: <current:3r>", dCurrent: ""}
 created: 1547
 ancestry: dwarven

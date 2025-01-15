@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, event-source]
+tags: [person]
 displayDefaults: {boxInfo: '<subspecies:sA> (<species>), <pronouns>'}
 campaignInfo:
 name: Motua

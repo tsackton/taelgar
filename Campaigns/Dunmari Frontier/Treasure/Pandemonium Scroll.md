@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 destroyed: 1749-05-01
-tags: [item, event-source]
+tags: [item]
 typeOf: scroll
 subTypeOf: magical
 ---

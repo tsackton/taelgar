@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source, status/needswork]
+tags: [place, status/needswork]
 name: Tokra
 typeOf: city
 whereabouts: Central Dunmar
