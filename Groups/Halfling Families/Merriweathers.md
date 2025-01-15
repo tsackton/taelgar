@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/mike]
+tags: [organization, status/cleanup/text]
 displayDefaults: {defArt: "the" }
 ancestry: halfling
 typeOf: family
@@ -11,8 +11,6 @@ dm_owner: mike
 >[!info]+ Information  
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
-
-%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup as opposed to stub or no status %%
 
 %% The merriweather family is an important halfling trading family in Aveil, especially plying the route along the [[Auberonne]] between Asalin and Rinburg. 
 

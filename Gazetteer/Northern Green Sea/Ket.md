@@ -4,7 +4,7 @@ tags: [place]
 typeOf: river
 whereabouts: Northern Green Sea
 dm_owner: none
-dm_info: color
+dm_notes: color
 ---
 # Ket
 >[!info]+ Information  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/wip, status/check/whereabouts]
+tags: [person, status/stub, status/check/whereabouts]
 species: dwarf
 gender: male
 affiliations: [{org: Ferrystones, type: primary }]
