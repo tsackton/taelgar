@@ -1,14 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal, status/needswork_old/external]
+tags: [place, status/check/mike, status/cleanup/text]
 name: Tyrwingha
 typeOf: realm
 whereabouts: Greater Sembara
 aliases: [Tyrwinghan]
+dm_notes: important
+dm_owner: shared
 ---
 # Tyrwingha
 >[!info]+ Information
 > A realm in the [[Western Green Sea Region]]
+
+%% tagging check as I'm not sure if there is anything non-canonical here. if it seems it needs a more serious rework, change to status/needswork/old %%
 
 The land of Tyrwingha, nestled on the southern shores of the [[Green Sea]], is ruled by the monarch of [[Sembara]] in a personal union of the crowns.  Over its history, it has been been united with Sembara on two separate occasions, the most recently by [[Elaine I]].
 
