@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header, status/update]
+tags: [person, status/cleanup/header, status/update]
 name: Tak
 species: dwarf
 gender: male

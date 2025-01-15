@@ -1,5 +1,5 @@
 ---
-tags: [event-source, status/needswork/external]
+tags: [event, status/needswork/external]
 ---
 
 # Summer Gnoll Raids

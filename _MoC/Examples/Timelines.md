@@ -19,7 +19,7 @@ This will get all of the timeline events between 1 and 2000 that are linked from
 await dv.view("_scripts/view/get_EventsTable", { yearStart: 1, yearEnd: 2000, pageFilter: "outgoing([[Timeline of Sembaran History]])"} )
 ```
 
-This will get all of the timeline events with tag #event-source in the Campaigns folder
+This will get all of the timeline events with tag #`event-source` in the Campaigns folder
 
 
 `````

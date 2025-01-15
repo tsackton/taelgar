@@ -1,3 +1,3 @@
 ---
-tags: [item, status/stub]
+tags: [item/equipment, status/stub]
 ---

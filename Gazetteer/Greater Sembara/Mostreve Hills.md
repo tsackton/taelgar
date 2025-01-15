@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/metadata/map]
+tags: [place, status/check/tim, status/cleanup/map]
 campaignInfo: []
 name: Mostreve Hills
 typeOf: line of hills

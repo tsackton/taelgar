@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/metadata/map, status/metadata/image]
+tags: [place, status/cleanup/map, status/cleanup/image]
 typeOf: geographic region
 whereabouts: Greater Dunmar
 ---

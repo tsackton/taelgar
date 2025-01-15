@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/refactor]
+tags: [person, status/cleanup/refactor]
 species: human
 name: Livia
 whereabouts: Luminatia

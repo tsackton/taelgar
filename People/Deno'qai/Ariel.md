@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person]
+tags: [person]
 campaignInfo: [{campaign: DuFr, type: met, date: 1748-09-11}]
 name: Ariel
 born: 1674

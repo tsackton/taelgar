@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/metadata/header, status/cleanup/internal, place]
+tags: [status/cleanup/header, status/cleanup/internal, place]
 typeOf: town
 dm_notes: color
 dm_owner: none

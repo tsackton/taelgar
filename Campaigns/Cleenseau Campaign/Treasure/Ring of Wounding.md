@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 name: Ring of Wounding
 displayDefaults: {defArt: "" }
 subTypeOf: magical

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/metadata/header, person]
+tags: [status/cleanup/header, person]
 campaignInfo: []
 name: Somi-nai
 born:

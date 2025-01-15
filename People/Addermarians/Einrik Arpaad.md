@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 ancestry: Addermarian
-tags: [person, status/cleanup/external, status/metadata/header]
+tags: [person, status/cleanup/external, status/cleanup/header]
 species: human
 gender: male
 title: Sir
