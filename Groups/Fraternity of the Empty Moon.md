@@ -1,16 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization, event-source, status/check/minor]
 name: Fraternity of the Empty Moon
 timelineDescriptor: Fraternity of the Empty Moon
 typeOf: cult
+ancestry: werewolf
+dm_notes: important
+dm_owner: tim
 ---
 # The Fraternity of the Empty Moon
 >[!info]+ Information  
-> A cult  
+> A werewolf cult  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%%  Tim: anything critical missing? %%
+%%  check chronology w/r/t timing of agata deal, which is not necessarily correct here  but doesn't really matter for anything %%
 
 The Fraternity of the Empty Moon is a cult of werewolves, dedicated to the mission of enhancing the power of the [[Mad One]] in Taelgar by creating and enhancing connections with the plane of [[Pandemonium]].
 

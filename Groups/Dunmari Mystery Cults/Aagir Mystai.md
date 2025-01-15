@@ -1,18 +1,18 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/tim]
+tags: [organization]
 displayDefaults: {partOf: "", boxInfo: "<ancestry:UA> <typeof:UA> of <deity:UA>"}
 name: Aagiri
 typeOf: mystery cult
 ancestry: Dunmari
 deity: Aagir
+dm_owner: tim
+dm_notes: important
 ---
 # Aagiri
 >[!info]+ Information  
 > A [[Dunmar|Dunmari]] mystery cult of [[Aagir]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`
-
-%% Tim: more to add? %%
 
 The mystery cult dedicated to the Dunmari god [[Aagir]], a traveling order of warriors who protect the roads of [[Dunmar]]. 
 
