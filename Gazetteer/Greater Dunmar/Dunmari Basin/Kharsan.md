@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup, status/update]
+tags: [place, status/cleanup/text, status/update]
 displayDefaults: {dPast: ""}
 destroyed: 1545
 ancestry: Dunmari

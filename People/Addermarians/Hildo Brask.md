@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/external, status/cleanup/header]
+tags: [person, status/cleanup/metadata]
 species: human
 gender: male
 title: Marshal

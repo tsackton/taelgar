@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/cleanup/external]
+tags: [historical, person, status/check/mike]
 name: Robert I
 born: 1660
 species: human
@@ -19,6 +19,8 @@ dm_owner: mike
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him), of the [[House of Sewick]]
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%% was status/cleanup/external, setting status/check/mike instead; remove if tags are fine %%
 
 A ruler of Sembara, son of [[Cece I]].  He was never crowned king of Tyrwingha when his mother died, that honor going to his cousin [[Elaine II]]. 
 

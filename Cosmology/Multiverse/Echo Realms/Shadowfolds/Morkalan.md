@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {wPastHome: "Destroyed on <endDate> by [[Riswynn]] and companions", wHome: "", dPastHasStart: "", dCurrent: ""}
-tags: [place, status/cleanup/internal, status/cleanup/header]
+tags: [place, status/cleanup/internal, status/cleanup/metadata]
 typeOf: domain
 created: 1570 
 destroyed: 1748-08-26

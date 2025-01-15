@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/refactor, status/cleanup/header]
+tags: [person, status/cleanup/refactor, status/cleanup/metadata]
 campaignInfo: []
 name: Karmana
 born:

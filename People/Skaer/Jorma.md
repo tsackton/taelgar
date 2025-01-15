@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/cleanup/metadata]
 name: Jorma
 born: 1716
 species: human

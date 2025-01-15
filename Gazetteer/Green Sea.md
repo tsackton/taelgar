@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup]
+tags: [place, status/cleanup/text]
 campaignInfo:
 name: Green Sea
 typeOf: sea

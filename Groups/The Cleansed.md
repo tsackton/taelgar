@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/update, status/cleanup/header]
+tags: [organization, status/update, status/cleanup/metadata]
 displayDefaults: {defArt: ''}
 name: The Cleansed
 typeOf: cult

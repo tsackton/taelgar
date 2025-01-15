@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/cleanup/header, status/cleanup/image]
+tags: [person, status/needswork/external, status/cleanup/metadata, status/cleanup/image]
 name: Saka
 born: 1664
 species: human

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup]
+tags: [place, status/cleanup/text]
 displayDefaults: {defArt: the, wHome: "One of <current>"}
 excludePublish: ["clee"]
 whereabouts: Echo Realms
@@ -12,6 +12,8 @@ dm_owner: shared
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% incorporate useful parts of notes / comments %%
 
 The echo realm of the fey, home to the realms of the Archfey and the [[Fey]]
 ## Locations

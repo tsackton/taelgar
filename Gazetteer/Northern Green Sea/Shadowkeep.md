@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/header]
+tags: [place, status/cleanup/metadata]
 typeOf: keep
 whereabouts: Northern Green Sea
 destroyed: 1749-05-03

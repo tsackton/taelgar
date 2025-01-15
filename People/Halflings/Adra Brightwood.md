@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/internal]
+tags: [person, status/cleanup/whereabouts, status/check/mike]
 name: Adra Brightwood
 born:
 species: halfling
@@ -18,6 +18,8 @@ dm_owner: none
 > A [[Halflings|halfling]] (she/her), of Brightwoods  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% replaced status/cleanup/internal with status/cleanup/whereabouts per comment below about whereabouts; check if anything else needs to be tagged, etc %%
 
 ![[adra-brightwood.jpg|right|400]] A wanderer, woodswalker, and skilled swordswoman. Cousin of [[Enzo Brightwood]].
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/cleanup/metadata]
 displayDefaults: {endStatus: petrified}
 campaignInfo:
 - {campaign: dufr, date: 1748-03-25, type: discovered as a statue}

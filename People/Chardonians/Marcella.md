@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/external, status/cleanup/header]
+tags: [person, status/cleanup/text, status/cleanup/metadata]
 campaignInfo: 
 - {campaign: dufr, person: Delwath, date: 1748-10-23, type: scryed}
 name: Marcella

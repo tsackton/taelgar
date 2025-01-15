@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/cleanup/external]
+tags: [person, status/cleanup/metadata, status/stub]
 ancestry: Addermarian
 gender: male
 species: human

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/refactor, status/cleanup/header]
+tags: [person,  status/cleanup/metadata]
 campaignInfo: []
 name: Crispus
 born: 1697
@@ -13,6 +13,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Chardon}
 pronunciation: CRIS-pus
+dm_notes: important
+dm_owner: tim
 ---
 # Crispus
 *(CRIS-pus)*
