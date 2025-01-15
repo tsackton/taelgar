@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, testcase, status/update]
+tags: [person, testcase, status/needswork/gameupdate]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-08, type: imprisoned , format: "<met:U> by <person:Q> on <target>, in <current:3Qr>"}
 name: Antonia

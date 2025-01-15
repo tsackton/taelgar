@@ -1,9 +1,11 @@
 ---
-tags: [event, status/update]
+tags: [event, status/needswork/gameupdate]
 timelineDescriptor: The Siblings War
 ---
 
 # The Sibling War
+
+%% needs to be updated through May 30 %%
 
 A civil war fought between [[Sura|Nayan Sura]] and her brother, [[Nayan Karnas]], over the rule of Dunmar.
 

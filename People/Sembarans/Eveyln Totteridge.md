@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/check/mike]
 title: Sergeant
 name: Eveyln Totteridge
 born: 1689
@@ -21,5 +21,7 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/update -> status/check/mike %%
 
 ![[eveyln-totteridge.png|right|320]]The sergeant of the [[Army Garrison of Cleenseau|River Patrol]], Evelyn is a talented solider and particularly strong and brutal with her favored weapon, a two-handed waraxe.

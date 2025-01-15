@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {partOf: '<typeof:AU> of <partof>', boxInfo: ''}
-tags: [organization, status/update]
+tags: [organization, status/check/mike]
 typeOf: regiment
 partOf: Army of the West
 dm_notes: important
@@ -11,6 +11,8 @@ dm_owner: mike
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 > A regiment of the [[Army of the West]], the [[Sembaran Army]], [[Sembara]]
+
+%% status/update -> status/check/mike %%
 
 %% Significant events of undead attack here in my DM notes only ; need incorporation %
 

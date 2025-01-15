@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/cleanup/gameupdate]
 species: halfling
 affiliations:
 - {org: Stonebridges, type: primary }

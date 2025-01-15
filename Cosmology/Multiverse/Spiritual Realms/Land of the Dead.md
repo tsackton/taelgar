@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/update]
+tags: [place, status/cleanup/incomplete]
 displayDefaults: {wHome: "Claimed by scholars to be one of <current>"}
 name: Land of the Dead
 aliases: [River of Souls]

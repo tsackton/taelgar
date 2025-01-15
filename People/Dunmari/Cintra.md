@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update, status/cleanup/image]
+tags: [person, status/cleanup/incomplete, status/cleanup/image]
 campaignInfo:
 name: Cintra
 born: 1705

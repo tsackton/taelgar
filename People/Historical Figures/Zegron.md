@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/update]
+tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
 displayDefaults: { endStatus: killed by Deno'qai}
 campaignInfo: []
 name: Zegron

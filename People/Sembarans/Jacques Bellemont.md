@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/check/mike]
 born: 1659
 species: human
 ancestry: Sembaran
@@ -18,5 +18,7 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/update -> status/check/mike %%
 
 ![[duke-of-wisford-2.png|right|320]]The Duke of Wisford is energetic for his age, and is an active campaigner and astute political observer. 

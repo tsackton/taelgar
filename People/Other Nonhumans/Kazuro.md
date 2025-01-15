@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
 species: stoneborn
 gender: male
+dm_notes: color
+dm_owner: tim
 ---
 # Kazuro
 >[!info]+ Biographical Info  
