@@ -19,3 +19,6 @@ whereabouts: Robin of Abenfyrd
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[ring-of-jumping-robin.png|right|320]]A delicate silver ring, with many engraved swirling lines, which, in the right light, appear slightly blue, of unknown origin, found in [[Wakog's Camp]].
+
+### Mechanics
+While wearing this ring, once on each of your turns you can jump up to 30 feet by spending 10 feet of movement.

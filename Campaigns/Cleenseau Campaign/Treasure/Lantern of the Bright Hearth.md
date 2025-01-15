@@ -3,7 +3,6 @@ headerVersion: 2023.11.25
 tags: [item/magical]
 campaignInfo:
 name: Lantern of the Bright Hearth
-ddbLink: https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth
 typeOf: lantern
 ancestry: fey
 rarity: unique
@@ -14,11 +13,10 @@ whereabouts: Robin of Abenfyrd
 # The Lantern of the Bright Hearth
 >[!info]+ Information  
 > (unique [[Fey]] lantern)  
-> [Mechanics](https://www.dndbeyond.com/magic-items/5477138-lantern-of-the-bright-hearth)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[lantern-of-the-bright-hearth.png|right|400]]A small lantern carried by [[Robin of Abenfyrd|Robin]]. It gives off a perpetual warm glow that reminds one of home and pleasant things. 
+![[lantern-of-the-bright-hearth.png|right|400]]A small lantern carried by [[Robin of Abenfyrd|Robin]]. It gives off a perpetual warm glow that reminds one of home and pleasant things. This lantern was originally forged by [[Aeririos Sunblade]] as a gift for [[Cedric Cyfenwid]]. 
 
 > [!INFO]- Finding the Lantern (For Dan's Eyes Only)
 > Robin is out on a patrol with the Rangers, and he awakes in the middle of the night in camp. Standing up, under the full moon, he smells the scent of spring growth and fresh cool rain wafting from the top of the hill. He follows the scent. At the top of the hill, amongst the trees with new green leaves he sees, blowing on the wind, dozens of golden leaves. The leaves land in a perfect circle and in the middle of the circle he sees a pool of white light sparkling and flowing along the ground like a mist. Out of the mist two hands form, and rise from the mist in the center of the circle of golden leaves. The hands hold out a softly glowing pebble, smooth and round. 
@@ -43,4 +41,13 @@ whereabouts: Robin of Abenfyrd
 >
 >Robin answers: "Yes" and as he takes the pebble it transforms into a lantern, the hands vanish, and the circle drifts away in the rising sun. As Robin walks back to the patrol camp, he feels for a moment this is all a dream. But the lantern is real in his hand
 
-%% Was made be Aelirios Sunblade, originally as a gift for [[Cedric Cyfenwid]] %%
+### Mechanics
+At your mental command, this lantern glows with a faint amber light, illuminating an area of 30' with dim light. This light is magical, and for the purposes of _darkness_ and similar spells, treated as if it was created by the _continual flame_ spell. The light of the lantern is glamoured to enhance and emphasize what is already there, rather than conceal and mislead. If the lantern is visible, those within its glow will be receptive to your true statements: you gain advantage on Persuasion checks as long as you speak the truth. But beware if you do not speak the truth: your lies will be shown for what they are while you are within the light of the lantern and you have disadvantage on Persuasion checks if you lie.
+
+The light of the lantern brings peace and easy sleep, and those resting in its light find even the hardest ground as if it was a soft bed. You and any companions sleeping in the light may sleep in armor without suffering any consequences.
+
+If attuned to the lantern, it will return whole to you each twilight, should it be lost or misplaced. Legend says if you are slain, the lantern will remain somewhere near where you died, but never hidden or buried, and if removed will return to that spot at the next twilight, as a memorial, until a worthy successor, aligned with the lantern's ethos, feels compelled to take up the lantern as a new bearer.
+
+If you are within 60 feet of it, you can command it to emanate light equivalent to that of the [Light](https://www.dndbeyond.com/spells/2618996-light) or [Daylight](https://www.dndbeyond.com/spells/2619083-daylight) spell (your choice). Once used, the Daylight effect can’t be used again until the next dawn.
+
+You can issue another command as a [Magic](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action to make the illuminated globe rise into the air and float no more than 5 feet off the ground. The globe hovers in this way until you or another creature grasps it. If you move more than 60 feet from the hovering globe, it follows you until it is within 60 feet of you. It takes the shortest route to do so. If prevented from moving, the globe sinks gently to the ground and becomes inactive, and its light winks out.
