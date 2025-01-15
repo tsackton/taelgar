@@ -11,41 +11,40 @@ sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
 
 ## Color DM Information, Tim
-
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder
+TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
 from !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !#status/needswork AND !#status/stub AND !#status/check AND !#status/update
 WHERE dm_notes = "color" AND dm_owner = "tim" 
-sort file.path
+sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
 
 
 ## Important DM Information, Mike
 
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder
+TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
 from !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !#status/needswork AND !#status/stub AND !#status/check AND !#status/update
 WHERE dm_notes = "important" AND dm_owner = "mike" 
-sort file.path
+sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
 
 
 ## Color DM Information, Mike
 
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder
+TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
 from !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !#status/needswork AND !#status/stub AND !#status/check AND !#status/update
 WHERE dm_notes = "color" AND dm_owner = "mike" 
-sort file.path
+sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
 
 ## Important DM Information, Neither Mike nor Tim
 
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, dm_owner as DM
+TABLE join(split(file.path, "/", 2),"/") as Folder, dm_owner as DM, length(file.inlinks) as Backlinks
 from !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !#status/needswork AND !#status/stub AND !#status/check AND !#status/update
 WHERE dm_notes = "important" AND dm_owner != "mike" AND dm_owner != "tim" AND dm_owner != "player"
-sort file.path
+sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
 
 
@@ -54,8 +53,8 @@ sort file.path
 These should hopefully have notes about where the color information comes from. 
 
 ```dataview
-TABLE join(split(file.path, "/", 2),"/") as Folder, dm_owner as DM
+TABLE join(split(file.path, "/", 2),"/") as Folder, dm_owner as DM, length(file.inlinks) as Backlinks
 from !"_MoC" AND !"_DM_" AND !"_scripts" AND !"_templates" AND !#status/needswork AND !#status/stub AND !#status/check AND !#status/update
-WHERE dm_notes = "color" AND dm_owner != "mike" AND dm_owner != "tim" 
-sort file.path
+WHERE dm_notes = "color" AND dm_owner != "mike" AND dm_owner != "tim" AND dm_owner != "player"
+sort join(split(file.path, "/", 2),"/"), length(file.inlinks) DESC
 ```
