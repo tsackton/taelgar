@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/tanshi, status/metadata/refactor]
+tags: [deity, religion/tanshi, status/cleanup/refactor]
 pronunciation: ah-SEEM-tee
 ---
 # Aasimti

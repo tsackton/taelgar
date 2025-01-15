@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Crown of Purity Vision
 DR: 1749-05-30

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/image, status/metadata/header, status/cleanup/external, status/update]
+tags: [person, status/cleanup/image, status/cleanup/header, status/cleanup/external, status/update]
 campaignInfo:
 - {campaign: DuFr, person: Delwath, date: 1748-12-27, type: scryed, format: "<met:U> by <person> in <current:fr!>, on <target>"}
 name: Havdar
