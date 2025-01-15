@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/internal]
+tags: [place, status/stub]
 whereabouts: Borderlands
 typeOf: barony
 pronunciation: Voh-klair

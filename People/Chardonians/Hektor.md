@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/cleanup/internal, status/needswork/external]
+tags: [person, status/cleanup/metadata, status/cleanup/refactor]
 campaignInfo: []
 name: Hektor
 born: 1726

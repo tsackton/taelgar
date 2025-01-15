@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/internal, place]
+tags: [status/check/mike, place]
 whereabouts: Duchy of Wisford
 typeOf: settlement
 typeOfAlias: village
@@ -13,5 +13,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup as opposed to stub or no status%%
 
 %%  a small village near Fellburn, deserted now after undead attacks, Clee passed it on the way along the road from Rinburg %%

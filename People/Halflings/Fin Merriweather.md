@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/internal, person]
+tags: [status/check/mike, person]
 species: halfling
 gender: male
 affiliations: [{org: Merriweathers, type: primary}]
@@ -13,6 +13,9 @@ dm_owner: none
 > A [[Halflings|halfling]] (he/him), of the [[Merriweathers]]  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+
+%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup as opposed to stub %%
 
 %% A halfling musician who sings at the Setting Sun inn in Asalin, likes to collect colorful leather clothes. See [[Merriweathers]] for some important background info.
 No canonical age; male
