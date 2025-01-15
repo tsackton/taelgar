@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/check/tim]
+tags: [historical, person]
 name: Aatmaj Dasa
 born:
 species: human
@@ -12,6 +12,8 @@ affiliations:
 - {org: Aatmaji Dynasty, type: primary}
 - {org: Dunmar, start: 1385, type: leader}
 aliases: [Samraat Dasa, Samraat Aatmaj Dasa, Aatmaj Dasa]
+dm_notes: important
+dm_owner: tim
 ---
 # Samraat Aatmaj Dasa
 >[!info]+ Biographical Info  
