@@ -1,5 +1,5 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/book, status/stub]
+tags: [item/other, status/stub]
 typeOf: book
 ---

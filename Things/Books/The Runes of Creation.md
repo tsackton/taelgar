@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/book]
+tags: [item/equipment]
 rarity: unique
 typeOf: book
 whereabouts: Seeker
