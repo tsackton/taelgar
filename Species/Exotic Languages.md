@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork_old/needswork, meta]
+tags: [status/needswork/old, meta]
 excludePublish: ["all"]
 ---
 In general many species will speak some sort of language unique to that species. This tracks exotic languages that canonically exist, or ideas for languages that probably exist, as well as whatever details have been made up for them. It is currently written more as background than website-focused but could be cleaned up. 

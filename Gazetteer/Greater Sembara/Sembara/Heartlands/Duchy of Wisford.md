@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/needswork]
+tags: [place, status/check/mike]
 campaignInfo:
 name: Duchy of Wisford
 typeOf: duchy
@@ -14,7 +14,10 @@ dm_notes: color
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-%% Needs a vibes-based update based on in-game info from Cleenseau. Minimal canonical details though; also see [[Heartlands]] and [[Timeline of Sembaran History]] %%
+%%
+was status/needswork
+Needs a vibes-based update based on in-game info from Cleenseau. Minimal canonical details though; also see [[Heartlands]] and [[Timeline of Sembaran History]] 
+%%
 
 
 

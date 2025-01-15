@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/needswork]
-campaignInfo: []
+tags: [place]
 name: Illoria
 typeOf: archipelago
 whereabouts: Nevos Sea
 pronunciation: ih-LOHR-ee-ah
+dm_notes: important
+dm_owner: tim
 ---
 # Illoria
 *(ih-LOHR-ee-ah)*

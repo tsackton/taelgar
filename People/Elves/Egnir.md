@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person, status/stub]
 aliases: [ Égnir ]
 name: Égnir
 species: elf

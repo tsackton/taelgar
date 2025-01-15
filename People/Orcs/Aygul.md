@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person, status/cleanup/text]
 name: Aygul
 pronunciation: EYE-gool
 gender: female
@@ -12,6 +12,8 @@ whereabouts:
 - {type: home, location: Uzgukhar}
 - {type: away, location: Vindristjarna, end: 9999}
 image: aygul-small.png
+dm_owner: none
+dm_notes: none
 ---
 # Aygul
 *(EYE-gool)*

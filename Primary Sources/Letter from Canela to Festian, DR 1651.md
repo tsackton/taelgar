@@ -1,8 +1,9 @@
 ---
-tags: [status/needswork_old/needswork, source]
+tags: [status/check/mike, source]
 excludePublish: ["all"]
 ---
- 
+%% status/needswork -> status/check/mike %%
+
 May 29th, 1651
 
 Dear Festian,

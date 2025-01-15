@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [place, status/needswork_old/needswork]
+tags: [place]
 name: Greater Dunmar
 typeOf: region
 whereabouts: Taelgar
+dm_notes: important
+dm_owner: tim
 ---
 # Greater Dunmar
 >[!info]+ Information

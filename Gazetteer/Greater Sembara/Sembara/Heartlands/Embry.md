@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/needswork]
+tags: [place, status/stub]
 campaignInfo:
 name: Embry
 typeOf: city

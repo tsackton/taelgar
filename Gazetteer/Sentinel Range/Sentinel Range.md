@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/needswork]
+tags: [place, status/cleanup/text]
 name: Sentinel Range
 typeOf: mountain range
 aliases: [Sentinels, Sentinel Mountains, Indalas, Labkhan, Beredri, Tushara]
 whereabouts:
 - { type: home, location: Taelgar, linkText: in}
+dm_owner: none
+dm_notes: color
 ---
 # The Sentinel Range
 >[!info]+ Information
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% have some additional color notes, especially about south and northwest %%
 
 The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [[Green Sea]] and the surrounding lands from the [[West Coast Region|west coast]] of Taelgar.
 

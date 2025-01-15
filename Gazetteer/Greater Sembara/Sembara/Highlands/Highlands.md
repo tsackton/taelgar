@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/needswork]
+tags: [place, status/check/mike]
 displayDefaults: {defArt: the}
 campaignInfo:
 name: Highlands
@@ -11,6 +11,8 @@ whereabouts: Sembara
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/needswork -> status/check/mike %%
 
 North and west of Cheimen the foothills of the [[Sentinel Range]] raise the land. Here live sheepherders and goat herders, small free farmers, and a scattering of ancestral baronies. This land is split by the [[Aine Hills]], a densely forested and rough highland that divides the watersheds of the River Semb from the watersheds of the River Wistel. Culturally the Semb watershed is often closely aligned with the northern parts of Arnsbury. This area is pocketed with free villages and small lords, and allegiances here are sometimes more aligned with the highland kingdoms than the Sembaran crown. The Wistel watershed is more densely settled, and is a land of with a stronger allegiance to the crown.  
 

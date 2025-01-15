@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.20
-tags: [status/needswork_old/needswork, event]
-campaignInfo: []
+tags: [event]
 name: Drankorian Civil War
 aliases:
 DR: 965
 DR_end: 971
+dm_owner: tim
+dm_notes: important
 ---
 # The Drankorian Civil War
 >[!info]+ Information
@@ -13,6 +14,6 @@ DR_end: 971
 
 A civil war fought between Emperor Helea and her allies, and Omnis Pura and their allies. Won by Omnis Pura in DR 971, with the death of Emperor Ysabel (known in later years as the Pretender). 
 
-%% stub 
+%%  
 have notes and also information elsewhere in Obsidian
 %%

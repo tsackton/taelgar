@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person]
 species: elf
 campaignInfo:
 - {campaign: dufr, date: 1749-01-16, type: visited}
@@ -12,6 +12,8 @@ whereabouts:
 name: Arheste
 pronunciation: AR-hes-teh
 gender: female
+dm_owner: tim
+dm_notes: important
 ---
 # Arheste
 *(AR-hes-teh)*
