@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/metadata/header]
+tags: [person, status/cleanup/header]
 name: Suma
 born: 1707
 species: human
