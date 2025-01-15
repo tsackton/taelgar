@@ -22,6 +22,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[brot-spyglass.png|right|420]]A clever spyglass that [[Brot Starsearcher]] gave to [[Izgil Moonseeker|Izgil]] after he promised to seek funding for Brot's large telescope project. - An extremely cleverly made [[Brot's Telescope (small)|copper telescope]], given to Izgil by [[Brot Starsearcher|Brot]].
+![[brot-spyglass.png|right|420]]A clever spyglass that [[Brot Starsearcher]] gave to [[Izgil Moonseeker|Izgil]] after he promised to seek funding for Brot's large telescope project.
 
-Functions as a spyglass with better than usual field of vision.
+Functions as a spyglass that increases your range of vision by three times, instead of twice.
