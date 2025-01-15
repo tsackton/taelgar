@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place, status/stub]
 name: Chasa
 typeOf: river
 whereabouts: Chasa-Nahadi Watershed
 aliases: [River Chasa, Chasa River]
+dm_notes: important
+dm_owner: tim
 ---
 # Chasa
 >[!info]+ Information  

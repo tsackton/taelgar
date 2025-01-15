@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place]
 name: Mendin
 typeOf: town
 whereabouts: Mawar Confederacy
+dm_notes: important
+dm_owner: tim
 ---
 # Mendin
 >[!info]+ Information  

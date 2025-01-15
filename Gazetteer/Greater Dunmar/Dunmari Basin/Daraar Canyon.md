@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place]
 campaignInfo: []
 name: Daraar Canyon
 typeOf: canyon
 whereabouts: Nashtkar
+dm_notes: important
+dm_owner: tim
 ---
 # The Daraar Canyon
 >[!info]+ Information  

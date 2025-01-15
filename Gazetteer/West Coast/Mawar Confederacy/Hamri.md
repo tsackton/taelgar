@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
+tags: [place, status/cleanup/text]
 name: Hamri
 typeOf: town
 whereabouts: Mawar Confederacy
 population: 3500
+dm_notes: important
+dm_owner: tim
 ---
 # Hamri
 >[!info]+ Information  

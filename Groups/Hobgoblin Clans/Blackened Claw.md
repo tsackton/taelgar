@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork_old/external]
+tags: [organization]
 displayDefaults: {endStatus: "destroyed by the [[Dunmar|Dunmari]]", dPast: "<endStatus:U> in <enddate>"}
 campaignInfo:
 name: Blackened Claw Clan
 typeOf: clan
 ancestry: hobgoblin
 destroyed: 1610
+dm_notes: important
+dm_owner: tim
 ---
 # The Blackened Claw Clan
 >[!info]+ Information  

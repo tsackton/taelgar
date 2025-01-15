@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork_old/external]
+tags: [organization]
 typeOf: adventuring party
+dm_notes: important
+dm_owner: tim
 ---
 # The Heroes of the Great War
 >[!info]+ Information  

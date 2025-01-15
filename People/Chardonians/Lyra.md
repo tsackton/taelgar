@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/external, status/cleanup/image, status/cleanup/metadata]
+tags: [person, status/update, status/cleanup/image, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-08-26, type: met}
 - {campaign: GL, date: 1747-09-01, type: met}
@@ -15,6 +15,8 @@ whereabouts:
 - {type: home, location: Darba}
 - {type: home, start: 1705-01-02, location: Voltara}
 - {type: away, start: 1748-08-26, location: Chardon, wLastKnown = ""}
+dm_notes: important
+dm_owner: tim
 ---
 # Lyra
 >[!info]+ Biographical Info  

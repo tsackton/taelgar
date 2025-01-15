@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/metadata, status/needswork_old/external]
+tags: [person, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-10-23, type: met}
 name: Dain Goldhammer
@@ -11,6 +11,8 @@ gender: male
 whereabouts:
 - {type: away, start: 1748-10-23, end: '', location: Illoria}
 - {type: home, start: '', end: '', location: 'Chardon'}
+dm_notes: important
+dm_owner: tim
 ---
 # Dain Goldhammer
 >[!info]+ Biographical Info
