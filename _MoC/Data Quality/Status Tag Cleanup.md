@@ -10,7 +10,8 @@ where (
 !contains(tags, "internal") and 
 !contains(tags, "map") and 
 !contains(tags, "refactor") and
-!contains(tags, "text") 
+!contains(tags, "text") and
+!contains(tags, "whereabouts") 
 )
 SORT split(file.path,"/",1)[0], length(file.inlinks) DESC
 ```

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/internal, person]
+tags: [status/check/mike, person]
 species: centaur
 dm_notes: none
 dm_owner: mike
@@ -10,6 +10,8 @@ whereabouts: Cleenseau Wood
 >[!info]+ Biographical Info  
 > A [[Centaurs|centaur]]  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup as opposed to stub %%
 
 %% 
 Nothing invented other than this clue: 

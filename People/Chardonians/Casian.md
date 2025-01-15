@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/cleanup/metadata, status/cleanup/internal, status/update]
+tags: [person, status/cleanup/metadata, status/update]
 campaignInfo: []
 name: Casian
 born: 1722

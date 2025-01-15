@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/cleanup/internal]
+tags: [person, historical, status/check/mike]
 name: Cedric Cyfenwid
 born: 1598
 species: human
@@ -14,6 +14,8 @@ dm_owner: mike
 >[!info]+ Biographical Info  
 > A [[Sembara|Sembaran]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
+
+%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup? %%
 
 Paladin of the Wyrdling for Tyrwingha.
 

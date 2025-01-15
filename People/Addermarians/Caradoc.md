@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/internal]
+tags: [person, status/stub]
 species: human
 gender: male
 born: 1689

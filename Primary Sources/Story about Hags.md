@@ -1,5 +1,5 @@
 ---
-tags: [source, status/cleanup/internal]
+tags: [source, status/cleanup/text]
 ---
 
 %% this was originally copied from reddit; cleanup tag is to remind me to think about whether worth reformating a bit into a specific Taelgar cultural context at some point%%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/cleanup/internal, place]
+tags: [status/check/mike, place]
 whereabouts: Barony of Aveil
 typeOf: settlement
 typeOfAlias: village
@@ -13,6 +13,8 @@ dm_owner: none
 > pop. 448  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/cleanup/internal -> status/check/mike. don't know if this actually needs cleanup as opposed to stub %%
 
 %% Notes for game prep
 
