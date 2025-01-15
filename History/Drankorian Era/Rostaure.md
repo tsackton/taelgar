@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal, status/needswork_old/external]
+tags: [place, status/stub]
 name: Rostaurë
 pronunciation: ROS-tow-reh
 aliases: [Rostaurë]
@@ -10,6 +10,8 @@ destroyed: 1051
 displayDefaults: {endStatus: pillaged by Apollyon, wPastHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <(in )current:5>" }
 typeOf: realm
 subTypeOf: forest
+dm_notes: important
+dm_owner: tim
 ---
 # Rostaurë
 *(ROS-tow-reh)*
