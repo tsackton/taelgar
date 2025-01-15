@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork/internal]
+tags: [historical, person, status/needswork_old/internal]
 name: Blanche II
 born: 1570
 species: human

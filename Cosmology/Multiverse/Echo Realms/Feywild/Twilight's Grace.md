@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: "" }
-tags: [place, status/needswork]
+tags: [place, status/needswork_old/needswork]
 whereabouts: Feywild
 typeOf: realm
 ---

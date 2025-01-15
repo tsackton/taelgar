@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal, status/cleanup/image]
+tags: [place, status/needswork_old/internal, status/cleanup/image]
 name: Skepwalk
 typeOf: ward
 whereabouts: Tollen

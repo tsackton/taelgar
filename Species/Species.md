@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 name: Species in Taelgar
-tags: [background, status/needswork/internal]
+tags: [background, status/needswork_old/internal]
 ---
 # Species in Taelgar
 

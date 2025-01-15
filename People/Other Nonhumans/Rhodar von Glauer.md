@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal]
+tags: [person, status/needswork_old/internal]
 title: Lord
 species: undead
 subspecies: vampire

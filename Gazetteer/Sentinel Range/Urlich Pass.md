@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal]
+tags: [place, status/needswork_old/internal]
 displayDefaults: {defArt: ""}
 name: Urlich Pass
 typeOf: pass

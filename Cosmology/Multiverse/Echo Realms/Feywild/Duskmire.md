@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/shared]
+tags: [place]
 whereabouts: Feywild
 typeOf: realm
 excludePublish: ["clee"]
-dm_notes: color
-dm_owner: mike
+dm_notes: important
+dm_owner: shared
 ---
 # Duskmire
 >[!info]+ Information  

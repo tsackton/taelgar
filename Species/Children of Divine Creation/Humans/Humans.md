@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork, species]
+tags: [status/needswork_old/needswork, species]
 name: Humans
 aliases: [human]
 ---

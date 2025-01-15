@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/internal, person]
+tags: [status/needswork_old/internal, person]
 species: human
 dm_notes: color
 dm_owner: none

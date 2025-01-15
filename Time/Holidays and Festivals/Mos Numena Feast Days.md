@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork, background]
+tags: [status/needswork_old/needswork, background]
 ---
 
 Those who follow the way of Mos Numena celebrate many holidays and feast days. Some of these, such as [[Pyravela]] are ancient and widely celebrated, but many are local thanksgivings for miracles of the divine. 

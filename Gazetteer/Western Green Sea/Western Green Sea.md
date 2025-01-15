@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/shared]
+tags: [place, status/needswork/old]
 name: Western Green Sea
 typeOf: sea
 whereabouts: Green Sea

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external, status/needswork/internal]
+tags: [place, status/needswork_old/external, status/needswork_old/internal]
 displayDefaults: {defArt: ""}
 typeOf: region
 whereabouts: Taelgar

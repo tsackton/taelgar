@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person, status/needswork_old/needswork]
 aliases: [Kethra Silverspark]
 species: dwarf
 whereabouts: 

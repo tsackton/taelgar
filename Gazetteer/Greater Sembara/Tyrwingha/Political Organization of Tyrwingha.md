@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/internal]
+tags: [background, status/needswork_old/internal]
 ---
 # Political Organization of Tyrwingha
 

@@ -1,5 +1,5 @@
 ---
-tags: [timeline, status/needswork]
+tags: [timeline, status/needswork_old/needswork]
 ---
 
 %% notes

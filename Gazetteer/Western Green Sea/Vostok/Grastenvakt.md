@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 name: Gråstenvakt
 aliases: [Gråstenvakt]
-tags: [place, status/needswork/internal]
+tags: [place, status/needswork_old/internal]
 typeOf: wall
 whereabouts: Vostok
 pronunciation: GROH-sten-vahkt

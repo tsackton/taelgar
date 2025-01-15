@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/needswork/internal, status/cleanup/metadata]
+tags: [person, status/needswork_old/external, status/needswork_old/internal, status/cleanup/metadata]
 campaignInfo: []
 name: Jotha
 born: 1719

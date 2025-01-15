@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork, place]
+tags: [status/needswork_old/needswork, place]
 displayDefaults: { defArt: ""}
 whereabouts: Chardon
 typeOf: precinct

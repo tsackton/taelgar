@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/external]
+tags: [organization, status/needswork_old/external]
 typeOf: adventuring party
 ---
 # The Heroes of the Great War

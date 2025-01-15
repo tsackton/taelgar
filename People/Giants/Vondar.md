@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person, status/needswork_old/needswork]
 campaignInfo: []
 name: Vondar
 born:

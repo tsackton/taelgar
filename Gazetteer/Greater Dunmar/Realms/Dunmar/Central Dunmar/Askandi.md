@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/metadata, status/needswork/internal]
+tags: [place, status/cleanup/metadata, status/needswork_old/internal]
 pronunciation: uh-SKUN-dee
 name: Askandi
 typeOf: city

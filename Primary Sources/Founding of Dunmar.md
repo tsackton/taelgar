@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/external, source]
+tags: [status/needswork_old/external, source]
 ---
 
 %% some (minor) details are not quite correct and this needs to be revised before it is used in game %%

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork]
+tags: [person, status/needswork_old/needswork]
 displayDefaults: {endStatus: "killed in battle against [[Grash|Grash's]] armies"}
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-04, type: met}

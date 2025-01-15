@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/external]
+tags: [place, status/needswork_old/external]
 whereabouts: Feywild
 typeOf: mountain
 ---

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/needswork/external]
+tags: [event, status/needswork_old/external]
 typeOf: battle
 partOf: War of the Cloak
 name: Battle of the Kulthul

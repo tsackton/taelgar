@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
-tags: [organization, status/needswork/external, status/cleanup/metadata]
+tags: [organization, status/needswork_old/external, status/cleanup/metadata]
 typeOf: horde
 ---
 # Grumella's Horde

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, pc/dunmarfrontier, status/needswork]
+tags: [person, pc/dunmarfrontier, status/needswork_old/needswork]
 campaignInfo:
 name: Delwath
 born: 1472
