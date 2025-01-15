@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place]
 displayDefaults: {defArt: ''}
 campaignInfo: []
 name: Tharn Todor
 typeOf: city
 ancestry: dwarven
 whereabouts: Nardith
+dm_notes: color
+dm_owner: tim
 ---
 # Tharn Todor
 >[!info]+ Information  

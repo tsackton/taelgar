@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/wip]
+tags: [organization, status/stub]
 typeOf: army
+dm_notes: important
+dm_owner: tim
 ---
 # The Chardonian Legion
 >[!info]+ Information  

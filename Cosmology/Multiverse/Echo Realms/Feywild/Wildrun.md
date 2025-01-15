@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/wip, place]
+tags: [place, status/stub]
 whereabouts: Feywild
 typeOf: realm
 ---

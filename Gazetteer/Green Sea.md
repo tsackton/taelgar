@@ -1,18 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/cleanup]
 campaignInfo:
 name: Green Sea
 typeOf: sea
 whereabouts: 
 - { type: home, location: Taelgar, linkText: in}
+dm_notes: important
+dm_owner: shared
 ---
 # The Green Sea
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% needs to pull in various notes, and reformat text %%
+%% needs to pull in various notes, included from Discord/emails, and reformat text %%
 
 The Green Sea is a large inland sea, surrounded on all sides by significant land masses. To the west, it is bordered by the [[Western Gulf]] and the [[Cymean Peninsula]]; to the north, by the varied islands of [[Skaerhem]] and the strange lands of [[Ursk]]; to the east, the mysterious and magical [[~Eastern Islands~]] separate the Green Sea from the oceans beyond; and a variety of diverse lands to the south. The large island known as [[Irrla]] forms the boundary between the [[Eastern Green Sea]] and the [[Western Green Sea]]. 
 

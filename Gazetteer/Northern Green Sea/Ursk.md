@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/cleanup]
 campaignInfo: []
 aliases: [Urskan]
 name: Ursk
 typeOf: realm
 whereabouts: Northern Green Sea
+dm_notes: important
+dm_owner: tim
 ---
 # Ursk
 >[!info]+ Information

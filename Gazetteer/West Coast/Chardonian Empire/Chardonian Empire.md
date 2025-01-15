@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/stub]
 name: Chardonian Empire
 typeOf: realm
 whereabouts: West Coast Region

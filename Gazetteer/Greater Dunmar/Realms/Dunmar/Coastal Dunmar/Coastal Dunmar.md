@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip, status/needswork/external]
+tags: [place, status/stub]
 name: Coastal Dunmar
 displayDefaults: {defArt: ''}
 typeOf: region
 whereabouts: Dunmar
+dm_owner: tim
+dm_notes: important
 ---
 # Coastal Dunmar
 >[!info]+ Information

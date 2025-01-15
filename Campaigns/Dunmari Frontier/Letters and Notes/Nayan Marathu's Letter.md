@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [source, status/needswork/wip]
+tags: [source, status/stub]
 ---
 
 %% would be nice to write this out I guess %%

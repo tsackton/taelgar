@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/tim]
+tags: [person]
 campaignInfo:
 name: Prince of Luck
 born:
@@ -10,6 +10,8 @@ gender: male
 aliases: [Chanceweaver]
 affiliations: [{org: Fortune's Rest, type: leader, title: Master}]
 whereabouts: Fortune's Rest
+dm_notes: important
+dm_owner: tim
 ---
 # Prince of Luck
 >[!info]+ Biographical Info  
