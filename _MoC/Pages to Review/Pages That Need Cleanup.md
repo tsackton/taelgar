@@ -1,3 +1,6 @@
+# Pages That Need Cleanup
+
+These are pages that need some kind of cleanup, either metadata, text, image, or maps. 
 ## Need Metadata Fixes
 
 ```dataview
