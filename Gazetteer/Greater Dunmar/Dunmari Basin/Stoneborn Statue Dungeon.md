@@ -1,10 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/external]
-campaignInfo: []
+tags: [place]
 name: Stoneborn Statue Dungeon
 typeOf: ruin
 whereabouts: Central Dunmar
+dm_notes: important
+dm_owner: tim
 ---
 # The Stoneborn Statue Dungeon
 >[!info]+ Information  

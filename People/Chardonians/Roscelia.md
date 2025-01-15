@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/external, status/cleanup/metadata, status/cleanup/image]
+tags: [person, status/cleanup/metadata, status/cleanup/image]
 campaignInfo: []
 name: Roscelia
 born: 1677
@@ -9,6 +9,8 @@ ancestry: Chardonian
 gender: female
 affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scroll]
 whereabouts: Chardon
+dm_notes: important
+dm_owner: tim
 ---
 # Roscelia
 >[!info]+ Biographical Info

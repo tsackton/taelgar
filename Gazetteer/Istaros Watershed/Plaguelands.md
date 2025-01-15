@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
 displayDefaults: {defArt: "the"}
-tags: [place, status/needswork_old/external]
+tags: [place]
 name: Plaguelands
 typeOf: region
 whereabouts: Desolation of Cha'mutte
+dm_notes: important
+dm_owner: tim
 ---
 # The Plaguelands
 >[!info]+ Information

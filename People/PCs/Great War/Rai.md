@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/greatwar, person, status/needswork_old/external]
+tags: [pc/greatwar, person]
 name: Rai
 born:
 species: elf
 ancestry: peronar
 gender: male
 player: David Kong
+dm_notes: important
+dm_owner: tim
 ---
 # Rai
 >[!info]+ Biographical Info  
