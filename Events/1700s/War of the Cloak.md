@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: { wPastHome: "", dPastHasStart: "Fought <home:q>, from <startDate> to <endDate>"}
 timelineDescriptor: War of the Cloak
 created: 1748-11-27

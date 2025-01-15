@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/internal, event-source]
+tags: [status/stub, event]
 excludePublish: ["Clee"]
 campaignInfo: []
 name: Destruction of the Werewolf Cult

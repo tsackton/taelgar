@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Phasing Stone Vision
 DR: 1749-03-27

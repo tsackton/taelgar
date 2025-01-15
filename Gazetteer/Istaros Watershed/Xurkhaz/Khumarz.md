@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source]
+tags: [place]
 displayDefaults: { dPast: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <current:3Frq>, <end:U> by [[Grash]] on <enddate>", wPastHome: ""}
 campaignInfo: []
 name: Khumarz

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source, status/needswork/external]
+tags: [place, status/needswork/external]
 campaignInfo: []
 name: Ruined Elven Workshop (near Tokra)
 typeOf: ruin

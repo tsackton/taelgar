@@ -1,9 +1,8 @@
-This file contains search results using embedded `query` blocks that contain date-like text but that aren't marked as #event-source or #timeline 
-
+This file contains search results using embedded `query` blocks that contain date-like text.
 # People with dates
 
 ```query
-(/DR\s*\d+/ OR /\d+/s*DR/ OR /\d+\s+\w+\s+\d+:/) -tag:#event-source -tag:#timeline path:People
+(/DR\s*\d+/ OR /\d+/s*DR/ OR /\d+\s+\w+\s+\d+:/) path:People
 ```
 # Campaign Notes with dates
 

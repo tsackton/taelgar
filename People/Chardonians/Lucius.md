@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source, person]
+tags: [person]
 campaignInfo: 
 - {campaign: dufr, type: reached via sending stone, date: 1749-01-08}
 name: Lucius

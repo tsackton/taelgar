@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 ddbLink: https://www.dndbeyond.com/magic-items/5793008-kenku-studded-leather-enhanced
 pcOwner: Wellby
 displayDefaults: {wOrigin: "", wOriginU: "", defArt: ""}

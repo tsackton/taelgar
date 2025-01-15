@@ -1,6 +1,5 @@
 ---
-tags: [status/needswork, event-source]
-campaignInfo: []
+tags: [status/stub, event]
 name: The Battle of Voltara
 ---
 

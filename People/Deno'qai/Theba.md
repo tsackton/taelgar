@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/metadata/header]
+tags: [person, status/needswork/external, status/cleanup/header]
 campaignInfo: 
 - {campaign: dufr, person: Delwath, date: 1748-10-22, type: scryed}
 name: Theba

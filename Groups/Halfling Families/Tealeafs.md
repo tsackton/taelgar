@@ -1,8 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/family, status/needswork/internal]
+tags: [organization, status/stub]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Tealeafs
 typeOf: family
 ancestry: halfling

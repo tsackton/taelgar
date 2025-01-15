@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization/army, status/needswork/shared]
+tags: [organization, status/needswork/shared]
 name: Army of Mostreve
 partOf: Sembaran Army
 typeOf: army

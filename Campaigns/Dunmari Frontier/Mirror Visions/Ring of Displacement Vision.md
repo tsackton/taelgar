@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event-source]
+tags: [event]
 displayDefaults: {dPastHasStart: "Seen on <startdate>"}
 name: Ring of Displacement Vision
 DR: 1748-07-24

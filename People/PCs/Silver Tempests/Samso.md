@@ -1,3 +1,3 @@
 ---
-tags: [person, pc, status/stub]
+tags: [person, pc/greatlibrary, status/stub]
 ---

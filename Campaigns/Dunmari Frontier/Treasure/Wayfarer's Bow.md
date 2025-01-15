@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item]
+tags: [item/equipment]
 subTypeOf: magic
 image: wayfarer-bow.jpg
 typeOf: bow

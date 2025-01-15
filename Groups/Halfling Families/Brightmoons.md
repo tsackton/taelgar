@@ -1,5 +1,5 @@
 ---
-tags: [organization/family, status/stub]
+tags: [organization, status/stub]
 displayDefaults: {defArt: the}
 name: Brightmoons
 typeOf: family
