@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/material, status/needswork/internal]
+tags: [item/other, status/needswork/internal]
 typeOf: material
 ---
 # Adamantine

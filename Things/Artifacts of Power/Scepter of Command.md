@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical, testcase, status/needswork/internal]
+tags: [item/equipment, testcase]
 rarity: unique
 campaignInfo:
 - {campaign: DuFr, type: destroyed, date: 1748-12-25}
@@ -14,6 +14,8 @@ whereabouts:
 - {type: home, location: Agata, start: 1747-12-11, end: 1748-05-29}
 - {type: home, location: Dunmar Fellowship, start: 1748-05-29, end: 1748-12-24}
 - {type: away, location: Vetta, start: 1748-12-24, end: 1748-12-25}
+dm_notes: important
+dm_owner: tim
 ---
 # The Scepter of Command
 >[!info]+ Information
