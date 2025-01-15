@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork_old/needswork, place]
+tags: [status/stub, place]
 displayDefaults: { defArt: ""}
 whereabouts: Chardon
 typeOf: precinct
+dm_notes: important
+dm_owner: tim
 ---
 # Precinct IV
 >[!info]+ Information  

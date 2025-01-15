@@ -1,7 +1,9 @@
 ---
-tags: [status/needswork_old/needswork, source]
+tags: [status/needswork/wip, source]
 excludePublish: ["all"]
 ---
+
+%% never finished this %%
 # The Story of the Scepter of Command
 *As sung by the halfling storytellers in the Year of Honeyed Sun*
 

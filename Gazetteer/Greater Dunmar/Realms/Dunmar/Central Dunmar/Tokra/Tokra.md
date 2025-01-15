@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/needswork]
+tags: [place, status/cleanup/text]
 name: Tokra
 typeOf: city
 whereabouts: Central Dunmar
+dm_notes: important
+dm_owner: tim
 ---
 # Tokra
 >[!info]+ Information  

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/dunmarfrontier, status/needswork_old/needswork]
+tags: [pc, person, pc/dunmarfrontier, status/update]
 campaignInfo:
 name: Riswynn
 born:

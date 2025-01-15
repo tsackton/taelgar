@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/needswork]
+tags: [place]
 displayDefaults: {startStatus: rose from the ground in}
 campaignInfo: []
 created: 1546
@@ -8,6 +8,8 @@ name: Yuvanti Mountains
 pronunciation: yoo-VAHN-tee
 typeOf: mountain range
 whereabouts: Greater Dunmar
+dm_notes: important
+dm_owner: tim
 ---
 # The Yuvanti Mountains
 *(yoo-VAHN-tee)*

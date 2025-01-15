@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person]
 campaignInfo: []
 name: Vondar
 born:
@@ -10,6 +10,8 @@ gender: male
 whereabouts:
 - {type: home, location: }
 - {type: home, start: 1700, location: Amberglow} # date uncertain
+dm_notes: important
+dm_owner: tim
 ---
 # Vondar
 >[!info]+ Biographical Info  

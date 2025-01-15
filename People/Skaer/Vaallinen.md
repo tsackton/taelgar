@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/needswork]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-25, type: met}
 name: Vaallinen
@@ -11,6 +11,8 @@ gender: male
 pronunciation: va-lin-en
 title: Hakeasa
 whereabouts: Pyhlla
+dm_notes: color
+dm_owner: tim
 ---
 # Hakeasa Vaallinen
 *(va-lin-en)*
