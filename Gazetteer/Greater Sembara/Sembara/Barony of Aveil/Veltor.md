@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/update]
+tags: [place, status/check/mike]
 typeOf: settlement
 created: 1121
 typeOfAlias: fortified village
@@ -17,6 +17,8 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/update -> status/check/mike %%
 
 Veltor is an ancient fortified village at the base of the [[Aveil Ridge]], sitting astride the [[Auberonne]]. It is the seat of the Baron of Aveil. The most prominent building, other than the keep, is the ancient Temple of the Warlord.
 

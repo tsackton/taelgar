@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/needswork/gameupdate]
 affiliations: [Rodnya Voknaz]
 anestry: Urskan
 species: human
 gender: male
 born: 1697
 whereabouts: Voknaz Manor
+dm_notes: important
+dm_owner: tim
 ---
 # Branek Mirov
 >[!info]+ Biographical Info  

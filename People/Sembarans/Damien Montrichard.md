@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/check/mike]
 name: Damien Montrichard
 born:
 species: human
@@ -20,6 +20,8 @@ dm_owner: mike
 > A [[Humans|human]] (he/him)  
 > `$[](Humans.md)ts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/update -> status/check/mike %%
 
 ![[damien-montrichard.jpg|right|400]]A storyteller and musician, with a keen eye for lore.
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/update]
+tags: [organization, status/cleanup/incomplete]
 displayDefaults: {partOf: ""}
 ancestry: Chardonian
 name: Society of the Open Scroll
@@ -12,7 +12,6 @@ dm_notes: important
 >[!info]+ Information
 > A [[Chardonian Empire|Chardonian]] scholary society
 
-%% Tim: anything to add? %%
 A scholarly society founded in the aftermath of the [[Great War]], to preserve and protect knowledge against future disaster, and to learn the secrets of the past to better protect [[Chardon]] and the world from existential magical threats.
 
 They have meetings, sometimes public lectures or demonstrations, sponsorship of individual scholars and research projects, including expeditions, and the like. The membership is largely made up of academics already associated with the [[Great Library]] or the [[University of Chardon]], but formally neither is a requirement to join - sponsorship and approval by a vote of the members is enough. In the past 20-30 years have been recruiting more "practical historians" and now have kind of an "explorer's wing" for adventurers and the like. This is funded primary by the [[Great Library]], but occasionally by individual patrons.

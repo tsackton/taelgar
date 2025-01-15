@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/check/mike]
 campaignInfo: [{campaign: clee}]
 name: Anselm
 born: 1655
@@ -18,5 +18,7 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% status/update -> status/check/mike %%
 
 ![[anselm-portrait.png|right|320]]The temple administrator of the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] in [[Cleenseau]]. An ambitious man and not very religious.

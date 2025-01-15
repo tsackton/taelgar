@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/update]
+tags: [organization, status/cleanup/gameupdate]
 displayDefaults: {ltPerson: "by"}
 campaignInfo: []
 name: Dunmar Fellowship
@@ -12,6 +12,8 @@ dm_notes: important
 >[!info]+ Information
 > An adventuring party
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%% update followers %%
 
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/update]
+tags: [organization, status/check/mike]
 displayDefaults: {partOf: '<typeof:AU> in <partof>', boxInfo: ''}
 campaignInfo: []
 aliases: [Sembaran Army, Military of Sembara]
@@ -14,6 +14,8 @@ dm_notes: important
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 > An army in [[Sembara]]
+
+%% status/update -> status/check/mike %%
 
 %% Needs some work to incorporate the events from the Clee campaign which impacted the army organization; some color also invented not well captured here %%
 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update]
+tags: [person, status/cleanup/gameupdate, status/cleanup/metadata]
 name: Servius
 born: 1689
 species: human
@@ -20,4 +20,4 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A wandering scholar and historian, funded by [[People/Chardonians/Fausto]] to find rumors of treasure. 
+A wandering scholar and historian, funded by [[Fausto]] to find rumors of treasure. 

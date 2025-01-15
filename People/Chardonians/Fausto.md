@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/update, status/cleanup/metadata]
+tags: [person, status/needswork/gameupdate, status/cleanup/metadata]
 name: Fausto
 born: 1714
 species: human
