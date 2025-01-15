@@ -1,4 +1,6 @@
-# Pages that might have inaccurate data
+# Pages That Need Review
+
+These are pages that need checking of some kind. Usually this is just a simple review. Pages that need extensive work should be tagged needswork, cleanup, or something else as appropriate. 
 
 ### Needs Name Confirmation
 ```dataview
