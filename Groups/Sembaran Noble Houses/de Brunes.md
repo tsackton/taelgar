@@ -17,6 +17,11 @@ Tall, towering figure, long flowing silver hair, dark skin, dressed in robes tha
 
 A few notes from Cleenseau game:
 * The de Brune branch in Cleenseau is well known in the region as wealthy already; it is plausible they are fairly well known along the Enst in 1720 although perhaps not AS well known as they become
+
+In general, the vibe should be that the de Brunes to have grown from reasonably wealthy and well-connected in 1705-1720 to famous and very rich in 1730-1745. I kind of like the trajectory of them being relatively "new rich" and upwardly mobile but not necessarily having very ancient wealth; this works for Nathaniel's backstory as he tends to play Fazoth more as "famous for being rich" than "rich because they are famous/old" 
+
+In particular, in the late 1690s-early 1710s they were very much "workers" and managers, trading agents, factors, etc more than their own thing. faciliate others. but this lead to opportunities for growth and in the aftermath of the lich disaster they rapidly grew to prominence
+
 %%
 
 %%^Campaign:None%%
