@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source, status/metadata/image]
+tags: [place, status/metadata/image]
 typeOf: university
 whereabouts: 
 - { type: home, start: 980, location: Chardon }

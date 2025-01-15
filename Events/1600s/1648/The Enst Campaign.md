@@ -1,5 +1,5 @@
 ---
-tags: [event-source]
+tags: [event]
 name: The Enst Campaign
 DR: 1648
 dm_owner: none

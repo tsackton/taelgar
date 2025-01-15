@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, event-source, status/needswork/external]
+tags: [place, status/needswork/external]
 campaignInfo:
 name: Great Library
 whereabouts: Chardon
