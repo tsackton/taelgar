@@ -1,6 +1,6 @@
 ---
 aliases: [giant]
-tags: [species, status/cleanup]
+tags: [species, status/cleanup/text]
 dm_notes: important
 dm_owner: tim
 ---

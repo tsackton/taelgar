@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/cleanup/metadata]
 name: Enzo Brightwood
 born:
 species: halfling

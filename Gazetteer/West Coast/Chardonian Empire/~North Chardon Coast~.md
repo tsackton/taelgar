@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/internal, status/check/name]
+tags: [place, status/stub, status/check/name]
 whereabouts: Chardonian Empire
 typeOf: region
 dm_notes: important

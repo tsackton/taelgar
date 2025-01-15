@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/name, status/cleanup/internal, place]
+tags: [status/check/name, status/stub, place]
 whereabouts: Addermarch
 typeOf: river
 dm_notes: none

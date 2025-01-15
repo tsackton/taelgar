@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/name, status/cleanup/internal]
+tags: [place, status/check/name, status/stub]
 typeOf: line of hills
 whereabouts: Chardonian Empire
 dm_notes: none

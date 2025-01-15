@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [species, status/cleanup]
+tags: [species, status/cleanup/text]
 name: Dwarves
 aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
 ---

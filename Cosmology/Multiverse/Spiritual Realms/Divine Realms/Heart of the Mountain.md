@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/external]
+tags: [place]
 whereabouts: Divine Realms
 typeOf: plane
 dm_notes: color

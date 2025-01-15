@@ -1,5 +1,5 @@
 ---
-tags: [species, status/cleanup]
+tags: [species, status/cleanup/text]
 name: Halflings
 aliases: [halfling, Halfling, halflings, Halflings]
 ---

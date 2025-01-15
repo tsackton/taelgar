@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/cleanup/internal]
+tags: [person, status/cleanup/metadata, status/cleanup/text]
 campaignInfo: []
 name: Alesh
 born: 1727

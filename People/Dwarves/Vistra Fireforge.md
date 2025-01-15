@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header, status/cleanup/external, status/cleanup/image]
+tags: [person, status/cleanup/metadata, status/cleanup/image]
 name: Vistra Fireforge
 born: 1589
 species: dwarf

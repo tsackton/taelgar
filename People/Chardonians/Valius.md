@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/internal, status/cleanup/header]
+tags: [person, status/needswork/internal, status/cleanup/metadata]
 campaignInfo:
 - {campaign: DuFr, date: 1748-12-09, type: captured}
 name: Valius

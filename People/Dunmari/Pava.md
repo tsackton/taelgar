@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/external, status/cleanup/header]
+tags: [person, status/needswork/external, status/cleanup/metadata]
 campaignInfo: [ {campaign: DuFr } ]
 name: Pava
 born: 1673

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Hada
 born: 1719

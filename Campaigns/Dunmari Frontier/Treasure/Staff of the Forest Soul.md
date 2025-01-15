@@ -1,15 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/equipment, status/cleanup]
+tags: [item/equipment, status/cleanup/text, status/cleanup/image]
 typeOf: staff
 whereabouts: Kenzo
 rarity: unique
+dm_notes: important
+dm_owner: tim
 ---
 # The Staff of the Forest Soul
 >[!info]+ Information  
 > (unique staff)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% disentangle mechanics from text %%
 
 This staff was constructed by [[Kenzo]] from a branch of the ancient elven tree in [[Tokra]], a relative of the massive trees called God trees by the Deno’qai of the [[Elderwood]]. This staff is a +1 magic quarterstaff. While attuned, this staff has the following additional functions:
 

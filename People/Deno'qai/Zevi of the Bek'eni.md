@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/header]
+tags: [person, status/cleanup/metadata]
 displayDefaults: { endStatus: "killed by [[Mezzar|Grimbaskal]] on"}
 campaignInfo: []
 name: Zevi

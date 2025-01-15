@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/cleanup/header]
+tags: [event, status/cleanup/metadata]
 dm_owner: tim
 dm_notes: none
 ---

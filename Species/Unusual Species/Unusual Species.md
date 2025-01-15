@@ -1,5 +1,5 @@
 ---
-tags: [background, status/cleanup]
+tags: [background]
 ---
 # Unusual Species
 

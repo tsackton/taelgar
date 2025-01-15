@@ -4,7 +4,7 @@ dm_notes: color
 dm_owner: none
 ---
 
-%%need to refactor this into a proper source, and move secrets/other details to the actual Drankorian history page%%
+%%need to rewrite this into a proper source, and move secrets/other details to the actual Drankorian history page%%
 # Cavarrio's Chronicles of Drankor
 
 A list of the Emperors of Drankor, based on Cavarrio's Chronicles of Drankor, considered the definitive history of the Empire in post-Great War Chardon. May not be accurate; written based exclusively on secondary sources, many of which have since been lost. Takes the form of annals of emperors.

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/external]
+tags: [person]
 campaignInfo:
 - {campaign: DuFr, date: '1748-12-30', type: met}
 name: Cecilia Lister
