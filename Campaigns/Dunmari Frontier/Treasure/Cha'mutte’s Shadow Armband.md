@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/other]
 name: Cha'mutte's Shadow Armband
 whereabouts: Seeker
 typeOf: wonderous item

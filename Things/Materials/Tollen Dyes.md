@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/material]
+tags: [item/other]
 typeOf: material
 displayDefaults: {defArt: ""}
 ---

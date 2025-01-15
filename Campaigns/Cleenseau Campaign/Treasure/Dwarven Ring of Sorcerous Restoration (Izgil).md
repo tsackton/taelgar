@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/mundane, item/equipment]
+tags: [item/equipment]
 name: Ring of Sorcerous Restoration
 displayDefaults: {defArt: "" }
 subTypeOf: magical

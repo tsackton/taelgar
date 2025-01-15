@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/mundane, item/equipment]
+tags: [item/equipment]
 name: Ewer of Liquid
 displayDefaults: {defArt: "" }
 subTypeOf: magical

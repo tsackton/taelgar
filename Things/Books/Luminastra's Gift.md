@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/play]
+tags: [item/other]
 typeOf: book
 typeOfAlias: play
 ancestry: Tollender

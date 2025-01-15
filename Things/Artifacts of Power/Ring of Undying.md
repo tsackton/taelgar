@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [item/magical]
+tags: [item/equipment]
 displayDefaults: { wPastHome: "Was owned by: <current:1>", dPast: "Destroyed by [[Wellby]] on <endDate>"}
 typeOf: ring
 rarity: unique
 destroyed: 1749-01-20
 whereabouts: Grash
+dm_notes: important
+dm_owner: tim
 ---
 # The Ring of Undying
 >[!info]+ Information  
