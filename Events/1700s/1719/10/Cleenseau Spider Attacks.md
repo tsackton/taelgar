@@ -1,5 +1,5 @@
 ---
-tags: [event, status/needswork_old/internal]
+tags: [event, status/check/mike]
 whereabouts: Taviose
 DR: 1719-10-20
 ---

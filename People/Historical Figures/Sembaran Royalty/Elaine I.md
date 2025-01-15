@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/needswork_old/internal, testcase]
+tags: [historical, person, testcase]
 name: Elaine I
 born: 1539
 species: human

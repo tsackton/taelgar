@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork_old/internal]
+tags: [organization, status/cleanup/text]
 displayDefaults: {defArt: '', boxInfo: ""}
 name: The Rangers
 typeOf: army
 whereabouts: Greater Sembara
 dm_notes: none
-dm_owner: mike
+dm_owner: shared
 ---
 # The Rangers
 >[!info]+ Information  

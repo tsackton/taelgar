@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/internal, status/cleanup/metadata]
+tags: [person, status/cleanup/metadata, status/needswork/gameupdate]
 campaignInfo: []
 name: Nayan Karnas
 aliases: [Karnas]
@@ -13,6 +13,8 @@ affiliations: [{org: Nayan Dynasty, type: primary}, {org: Dunmar, type: leader, 
 whereabouts:
 - {type: home, end: 1737, location: Darba}
 - {type: home, start: 1738, location: Nayahar}
+dm_notes: important
+dm_owner: tim
 ---
 # Samraat Nayan Karnas
 >[!info]+ Biographical Info

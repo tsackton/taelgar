@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork_old/internal, person]
+tags: [person, status/check/mike]
 species: human
 dm_notes: none
 dm_owner: none
@@ -9,6 +9,7 @@ dm_owner: none
 >[!info]+ Biographical Info  
 > A [[Humans|human]]
 
+%% seems a little thin to be complete, probably at least need to fill in header? %%
 
 %% lord of [[Dallet]]; no other details; made the picture for fun  %%
 

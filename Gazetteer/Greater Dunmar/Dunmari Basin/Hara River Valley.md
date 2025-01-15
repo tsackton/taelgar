@@ -2,7 +2,9 @@
 headerVersion: 2023.11.25
 typeOf: region
 whereabouts: Dunmari Basin
-tags: [place, status/needswork_old/internal]
+tags: [place, status/stub]
+dm_notes: important
+dm_owner: tim
 ---
 # The Hara River Valley
 >[!info]+ Information  

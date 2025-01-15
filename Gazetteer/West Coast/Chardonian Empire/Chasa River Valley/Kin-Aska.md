@@ -1,12 +1,14 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/metadata, status/needswork_old/internal]
+tags: [place, status/cleanup/metadata]
 campaignInfo: []
 name: Kin-Aska
 typeOf: settlement
 typeOfAlias: city
 destroyed: 0001
 whereabouts: Chasa River Valley
+dm_notes: important
+dm_owner: tim
 ---
 # Kin-Aska
 >[!info]+ Information

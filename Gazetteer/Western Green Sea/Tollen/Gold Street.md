@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place]
 displayDefaults: {defArt: ''}
-campaignInfo: []
 name: Gold Street
 typeOf: ward
 whereabouts: Tollen
+dm_notes: none
+dm_owner: none
 ---
 # Gold Street
 >[!info]+ Information  

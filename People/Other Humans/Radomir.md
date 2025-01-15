@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/internal, status/cleanup/metadata]
+tags: [person, status/cleanup/text, status/cleanup/metadata]
 campaignInfo: []
 name: Radomir
 born: 1710
@@ -9,6 +9,8 @@ ancestry: Urskan
 gender: male
 whereabouts:
 - {type: home, location: Ursk}
+dm_notes: important
+dm_owner: tim
 ---
 # Radomir
 >[!info]+ Biographical Info  

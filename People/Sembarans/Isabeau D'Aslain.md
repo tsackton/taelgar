@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork_old/internal]
+tags: [person, status/check/mike]
 name: Isabeau d'Aslain
 born: 1672
 species: human

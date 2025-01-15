@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork_old/internal]
+tags: [background, status/needswork/continuity]
 ---
 
 %% needs to be checked for consistency with other histories  and Deno'qai culture %%

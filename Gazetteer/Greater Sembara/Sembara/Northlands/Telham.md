@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork_old/internal]
+tags: [place, status/check/mike]
 campaignInfo:
 name: Telham
 typeOf: city
@@ -12,5 +12,7 @@ population: 12000
 > pop. 12,000  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% stub? leave with no status tag? cleanup/incomplete? %%
 
 %% No specific details exist in my head; 

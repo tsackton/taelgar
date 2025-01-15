@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork_old/internal, source]
+tags: [status/needswork/old, source]
 ---
 
 %%
