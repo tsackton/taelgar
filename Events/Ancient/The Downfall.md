@@ -1,8 +1,10 @@
 ---
-tags: [event, status/needswork/wip]
+tags: [event, status/needswork/old]
 campaignInfo: []
 name: The Downfall
 aliases: [Downfall]
+dm_owner: tim
+dm_notes: important
 ---
 %% needs major rewrite%%
 ### The Downfall

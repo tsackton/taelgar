@@ -1,5 +1,7 @@
 ---
 tags: [status/needswork/shared, background]
+dm_owner: shared
+dm_notes: important
 ---
 
 %% Needs significant cleanup based on Discord and internal notes %%

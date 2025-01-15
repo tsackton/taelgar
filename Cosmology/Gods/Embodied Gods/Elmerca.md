@@ -1,5 +1,5 @@
 ---
-tags: [deity, status/needswork/wip]
+tags: [deity, status/needswork/shared]
 affiliations: [elves]
 ---
 

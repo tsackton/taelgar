@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
+tags: [place, status/needswork/shared]
 name: Vostok
 typeOf: realm
 whereabouts: Western Green Sea Region

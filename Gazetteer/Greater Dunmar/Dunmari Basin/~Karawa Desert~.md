@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/internal]
+tags: [place]
 typeOf: desert
 whereabouts: Dunmari Basin
+dm_owner: tim
+dm_notes: important
 ---
 # The ~Karawa Desert~
 >[!info]+ Information  

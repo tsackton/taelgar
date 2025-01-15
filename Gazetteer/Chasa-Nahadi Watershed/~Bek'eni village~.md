@@ -4,8 +4,10 @@ whereabouts: Elderwood
 displayDefaults: {defArt: ""}
 typeOf: settlement
 typeOfAlias: village
-tags: [place, status/needswork/internal]
+tags: [place, status/stub]
 aliases: [Bek'eni village]
+dm_owner: tim
+dm_notes: color
 ---
 # ~Bek'eni Village~
 >[!info]+ Information  

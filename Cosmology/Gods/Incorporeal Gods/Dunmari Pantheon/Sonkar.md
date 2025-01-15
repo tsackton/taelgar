@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/needswork/wip, status/cleanup/image]
+tags: [deity, religion/fivesiblings, status/cleanup/image]
 gender: female
+dm_owner: tim
+dm_notes: important
 ---
 # Sonkar
 >[!info]+ Summary  
