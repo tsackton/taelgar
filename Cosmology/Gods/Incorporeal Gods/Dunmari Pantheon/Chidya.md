@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/needswork/wip, status/metadata/image]
+tags: [deity, religion/fivesiblings,status/metadata/image]
 gender: female
+dm_notes: color
+dm_owner: tim
 ---
 # Chidya
 >[!info]+ Summary  

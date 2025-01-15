@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/wip]
-campaignInfo: []
+tags: [place]
 name: Khatridun
 typeOf: realm
 ancestry: dwarven
 whereabouts: Labkhan
+dm_owner: none
+dm_notes: color
 ---
 # Khatridun
 >[!info]+ Information  

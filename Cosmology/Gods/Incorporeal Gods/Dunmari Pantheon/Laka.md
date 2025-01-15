@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/fivesiblings, status/needswork/wip, status/metadata/image]
+tags: [deity, religion/fivesiblings, status/metadata/image]
 gender: male
+dm_owner: tim
+dm_notes: important
 ---
 # Laka
 >[!info]+ Summary  

@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/wip, status/needswork/external, event]
+tags: [status/stub, event]
 ---
 
 %%WIP: Tim has additional details, mostly in OneNote from developing the Chasa River Valley / Elderwood, but some just in my head or implied on a couple of maps.%%

@@ -1,5 +1,5 @@
 ---
-tags: [organization, status/needswork/wip, status/check/tim, status/stub]
+tags: [organization, status/stub]
 ---
 
 

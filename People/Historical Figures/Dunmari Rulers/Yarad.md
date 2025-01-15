@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, historical, status/check/tim]
+tags: [person, historical]
 campaignInfo:
 name: Nayan Yarad
 species: human
@@ -12,6 +12,8 @@ title: Samraat
 affiliations: 
 - {org: Nayan Dynasty, type: primary}
 - {org: Dunmar, start: 1603, end: 1630, type: leader}
+dm_notes: color
+dm_owner: tim
 ---
 # Samraat Nayan Yarad
 >[!info]+ Biographical Info  

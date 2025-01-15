@@ -1,11 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim, status/needswork/wip]
+tags: [place, status/stub]
 campaignInfo:
 name: Orekatu
 typeOf: realm
 ancestry: lizardfolk
 whereabouts: South Region
+dm_notes: important
+dm_owner: tim
 ---
 # Orekatu
 >[!info]+ Information  

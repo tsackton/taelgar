@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
 aliases: [Watchers, Okolov]
-tags: [organization, status/needswork/wip]
+tags: [organization]
 ancestry: Urskan
 typeOf: magical bloodline
 partOf: Rodnya
+dm_notes: important
+dm_owner: tim
 ---
 # The Eyes of Vedmakov
 >[!info]+ Information  
