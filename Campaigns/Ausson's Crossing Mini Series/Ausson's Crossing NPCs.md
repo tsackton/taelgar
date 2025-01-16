@@ -1,8 +1,3 @@
----
-dm_owner: mike
-dm_notes: none
----
-
 %% This page is a copy of a word doc I made about Ausson's Crossing NPCs. The goal is to move them as much as is sensible to real people pages but not 100% of these people are still alive in 1720 much less 1749, nor necessarily canonical %%
 
 ## Inhabitants of Ausson’s Crossing
