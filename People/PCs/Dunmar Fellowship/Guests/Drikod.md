@@ -11,6 +11,8 @@ player: John Leeker
 affiliations:
 whereabouts: Kunda
 excludePublish: ["clee"]
+dm_owner: tim
+dm_notes: important
 ---
 # Drikod
 >[!info]+ Biographical Info  

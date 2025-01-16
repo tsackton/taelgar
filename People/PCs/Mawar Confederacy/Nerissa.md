@@ -9,6 +9,8 @@ ancestry:
 gender: female
 player: Kate Sackton
 affiliations:
+dm_owner: player
+dm_notes: important
 ---
 # Nerissa
 >[!info]+ Biographical Info  

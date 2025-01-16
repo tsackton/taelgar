@@ -9,6 +9,8 @@ gender:
 player: Phil Grayson
 excludePublish: ["clee"]
 whereabouts: Chardon
+dm_owner: tim
+dm_notes: important
 ---
 # Rothfis
 >[!info]+ Biographical Info  

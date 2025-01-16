@@ -4,6 +4,8 @@ tags: [organization]
 displayDefaults: {startStatus: met, partOf: "", linkText: "by", ltPerson: "by"}
 typeOf: adventuring party
 created: 1747-04-04
+dm_owner: tim
+dm_notes: important
 ---
 # The Silver Tempests
 >[!info]+ Information  

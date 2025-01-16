@@ -8,6 +8,8 @@ species: fey
 subspecies: fairy
 gender: female
 player: Kate Sackton
+dm_owner: player
+dm_notes: important
 ---
 # Spirala
 >[!info]+ Biographical Info  

@@ -9,6 +9,8 @@ ancestry:
 gender: male
 player: Eric Rosenbaum
 excludePublish: ["clee"]
+dm_owner: player
+dm_notes: important
 ---
 # Rufus
 >[!info]+ Biographical Info  

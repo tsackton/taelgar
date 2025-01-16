@@ -10,6 +10,8 @@ gender: male
 aliases: [Ember, Sugarra]
 whereabouts:
 - {type: home, location: Azta Lekua}
+dm_owner: tim
+dm_notes: color
 ---
 # Somi-nai
 >[!info]+ Biographical Info  

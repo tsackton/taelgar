@@ -10,6 +10,8 @@ gender: male
 player: Eric Rosenbaum
 affiliations:
 excludePublish: ["clee"]
+dm_owner: player
+dm_notes: important
 ---
 # Trok
 >[!info]+ Biographical Info  

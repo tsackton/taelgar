@@ -8,6 +8,8 @@ ancestry:
 gender: male
 player:
 affiliations:
+dm_owner: tim
+dm_notes: important
 ---
 # Dimitaur
 

@@ -10,6 +10,8 @@ gender: female
 affiliations:
 player: Kate Sackton
 excludePublish: ["clee"]
+dm_owner: player
+dm_notes: important
 ---
 # Aristaea
 >[!info]+ Biographical Info  
