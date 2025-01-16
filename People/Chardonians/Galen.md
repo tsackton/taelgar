@@ -10,6 +10,8 @@ ancestry: Chardonian
 gender: male
 affiliations: [Faculty of Magic, University of Chardon, Society of the Open Scroll]
 whereabouts: Chardon
+dm_owner: tim
+dm_notes: important
 ---
 # Galen
 >[!info]+ Biographical Info  

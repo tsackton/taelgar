@@ -13,6 +13,8 @@ affiliations:
 - { org: Copperharps, type: primary }
 - { org: Emerald Song, title: Cook, start: 1726} 
 whereabouts: Emerald Song
+dm_owner: none
+dm_notes: color
 ---
 # Pearl Copperharp
 >[!info]+ Biographical Info

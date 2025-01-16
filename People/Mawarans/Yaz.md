@@ -8,6 +8,8 @@ species: human
 ancestry: Mawaran
 gender: male
 whereabouts: Hamri
+dm_owner: tim
+dm_notes: important
 ---
 # Yaz
 >[!info]+ Biographical Info  

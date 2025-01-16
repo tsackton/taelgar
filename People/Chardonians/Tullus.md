@@ -7,6 +7,8 @@ gender: male
 ancestry: Chardonian
 species: human
 whereabouts: Castrella
+dm_owner: tim
+dm_notes: color
 ---
 # Tullus
 >[!info]+ Biographical Info  

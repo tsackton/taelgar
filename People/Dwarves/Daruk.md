@@ -9,6 +9,8 @@ ancestry:
 gender: male
 died: 1533
 affiliations: [{org: Runecrafter Thuhr, type: primary}]
+dm_owner: tim
+dm_notes: important
 ---
 # Daruk
 >[!info]+ Biographical Info

@@ -9,6 +9,8 @@ ancestry: Mawaran
 gender: female
 died: 1747-08-05
 whereabouts: Hamri
+dm_owner: none
+dm_notes: none
 ---
 # Sefa
 >[!info]+ Biographical Info  

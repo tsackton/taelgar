@@ -13,6 +13,8 @@ affiliations:
 - {org: Silversongs, type: primary}
 - {org: Emerald Song, title: Quartermaster}
 whereabouts: Emerald Song
+dm_owner: none
+dm_notes: color
 ---
 # Dani Silversong
 >[!info]+ Biographical Info  

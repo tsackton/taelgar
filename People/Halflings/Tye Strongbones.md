@@ -13,6 +13,8 @@ affiliations:
 - {org: The Red Lily Inn, title: Cook }
 whereabouts: 
 - {type: home, location: The Red Lily Inn }
+dm_owner: none
+dm_notes: none
 ---
 # Tye Strongbones
 >[!info]+ Biographical Info

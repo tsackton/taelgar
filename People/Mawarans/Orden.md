@@ -7,6 +7,8 @@ species: human
 ancestry: Mawaran
 gender: male
 whereabouts: Hamri
+dm_owner: none
+dm_notes: color
 ---
 # Orden
 >[!info]+ Biographical Info  

@@ -11,6 +11,8 @@ affiliations: [{org: Strongbones, type: primary}]
 gender: male
 leaderOf: [ { place: The Red Lily Inn, title: Proprietor, start: 0001} ]
 whereabouts: The Red Lily Inn
+dm_owner: none
+dm_notes: none
 ---
 # Wes Strongbones
 >[!info]+ Biographical Info

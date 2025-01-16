@@ -11,6 +11,8 @@ affiliations: [University of Tollen, Dyer's Guild]
 whereabouts:
 - {type: home, location: Lavila}
 - {type: home, location: Tollen}
+dm_owner: none
+dm_notes: color
 ---
 # Escobar Garavito
 >[!info]+ Biographical Info  

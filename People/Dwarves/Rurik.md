@@ -10,6 +10,8 @@ whereabouts:
 - {type: home, location: Bleakhold}
 - {type: away, start: 1748-08-26, end: 1748-10-04, location: Central Dunmar}
 - {type: home, start: 1748-10-04, location: Tharn Todor}
+dm_owner: none
+dm_notes: color
 ---
 # Rurik
 >[!info]+ Biographical Info  

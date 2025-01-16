@@ -13,6 +13,8 @@ family: Marchand
 whereabouts:
 - {type: home, start: '', end: '', location: 'Tollen'}
 - {type: home, start: 1687-01-02, location: 'Nordgate'}
+dm_owner: tim
+dm_notes: color
 ---
 # Guy Marchand
 >[!info]+ Biographical Info

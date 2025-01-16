@@ -23,6 +23,8 @@ whereabouts:
 - {type: away, start: 1748-03-20, end: 1748-04-22, location: traveling to Chardon}
 - {type: away, start: 1748-08-22, end: 1748-08-22, location: The Thirsty Scholar}
 - {type: away, start: 1748-10-18, end: 1748-10-21, location: Darba, wLastKnown: ""}
+dm_owner: tim
+dm_notes: important
 ---
 # Dee Wildcloak
 >[!info]+ Biographical Info  

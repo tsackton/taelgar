@@ -8,6 +8,8 @@ species: dwarf
 gender: male
 affiliations: [{org: Redpeaks, type: primary}]
 whereabouts: Darba
+dm_owner: none
+dm_notes: color
 ---
 # Vondal Redpeak
 >[!info]+ Biographical Info  

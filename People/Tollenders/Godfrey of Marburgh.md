@@ -9,6 +9,8 @@ title: Elder
 whereabouts: 
 - {type: home, location: Marburgh}
 - {type: home, location: Tollen, start: 1714}
+dm_owner: none
+dm_notes: important
 ---
 # Godfrey of Marburgh
 >[!info]+ Biographical Info  

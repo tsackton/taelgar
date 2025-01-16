@@ -8,6 +8,8 @@ ancestry: Chardonian
 gender: female
 born: 1691
 whereabouts: Castrella
+dm_owner: tim
+dm_notes: important
 ---
 # Juliana Maris
 >[!info]+ Biographical Info  

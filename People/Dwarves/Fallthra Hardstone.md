@@ -14,6 +14,8 @@ affiliations:
 whereabouts:
 - {type: home, location: Tokra}
 pronunciation: FAHL-thrah
+dm_owner: none
+dm_notes: color
 ---
 # Fallthra Hardstone
 *(FAHL-thrah)*

@@ -5,6 +5,8 @@ species: human
 gender: female
 ancestry: Chardonian
 born: 1731
+dm_owner: none
+dm_notes: color
 ---
 # Isabetta
 >[!info]+ Biographical Info  
