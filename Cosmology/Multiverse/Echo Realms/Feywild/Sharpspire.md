@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Feywild
 typeOf: realm
+dm_owner: tim
+dm_notes: important
 ---
 # Sharpspire
 >[!info]+ Information

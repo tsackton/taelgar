@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/mosnumena, status/cleanup/image]
 gender: male
+dm_owner: none
+dm_notes: none
 ---
 # The Father
 >[!info]+ Summary  

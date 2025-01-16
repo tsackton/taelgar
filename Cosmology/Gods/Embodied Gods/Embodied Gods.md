@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
+tags: [background, status/needswork/old]
+dm_owner: none
+dm_notes: important
 ---
 # Embodied Gods
 

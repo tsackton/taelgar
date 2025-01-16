@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 pronunciation: mehk-EER-eh
+dm_owner: none
+dm_notes: none
 ---
 # Mek'ire
 *(mehk-EER-eh)*

@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity]
 pronunciation: Sahr-kon
+dm_owner: tim
+dm_notes: important
 ---
 # Sarqon
 *(Sahr-kon)*

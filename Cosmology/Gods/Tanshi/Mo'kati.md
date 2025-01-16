@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 pronunciation: moh-KAH-tee
+dm_owner: none
+dm_notes: none
 ---
 # Mo'kati
 *(moh-KAH-tee)*

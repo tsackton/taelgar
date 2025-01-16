@@ -4,6 +4,8 @@ tags: [deity, religion/tanshi]
 name: Yezali
 aliases: [Aaviskar]
 pronunciation: yeh-ZAH-lee
+dm_owner: none
+dm_notes: none
 ---
 # Yezali
 *(yeh-ZAH-lee)*

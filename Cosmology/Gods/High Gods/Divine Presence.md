@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 aliases: [Arha, Arhat, Malik, Sampa, Shurat, Ako, Anida]
 tags: [deity]
 displayDefaults: {defArt: "the"}
+dm_owner: none
+dm_notes: important
 ---
 # The Divine Presence
 

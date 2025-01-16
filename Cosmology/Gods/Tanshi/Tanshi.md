@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [religion/tanshi, background]
+dm_owner: none
+dm_notes: none
 ---
 # Tanshi
 

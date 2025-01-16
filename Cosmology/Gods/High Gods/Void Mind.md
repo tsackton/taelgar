@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity]
 displayDefaults: {defArt: "the"}
+dm_owner: none
+dm_notes: none
 ---
 # The Void Mind
 

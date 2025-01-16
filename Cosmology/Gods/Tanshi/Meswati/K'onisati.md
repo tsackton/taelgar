@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 pronunciation: koh-nee-SAH-tee
+dm_owner: none
+dm_notes: none
 ---
 # K'onisati
 *(koh-nee-SAH-tee)*

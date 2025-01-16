@@ -4,6 +4,8 @@ aliases: [Traveler, The Traveler]
 tags: [deity, religion/dwarven]
 gender: female
 pronunciation: MAH-gahn-nah
+dm_owner: none
+dm_notes: none
 ---
 # Maganna
 *(MAH-gahn-NAH)*

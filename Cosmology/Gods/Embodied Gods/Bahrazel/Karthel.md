@@ -4,6 +4,8 @@ aliases: [Runecrafter, The Runecrafter]
 tags: [deity, religion/dwarven]
 gender: male
 pronunciation: KAR-thel
+dm_owner: none
+dm_notes: none
 ---
 # Karthel
 *(KAR-thel)*

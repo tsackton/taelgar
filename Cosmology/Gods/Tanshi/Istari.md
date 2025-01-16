@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 pronunciation: ees-TAH-ree
+dm_owner: none
+dm_notes: none
 ---
 # Istari
 *(ees-TAH-ree)*

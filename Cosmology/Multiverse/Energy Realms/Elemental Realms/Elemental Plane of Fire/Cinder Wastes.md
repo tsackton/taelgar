@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Elemental Plane of Fire
 typeOf: region
+dm_owner: tim
+dm_notes: important
 ---
 # The Cinder Wastes
 >[!info]+ Information  

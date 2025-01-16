@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
 whereabouts: Echo Realms
+dm_owner: tim
+dm_notes: important
 ---
 # The Mirror Realm
 >[!info]+ Information  

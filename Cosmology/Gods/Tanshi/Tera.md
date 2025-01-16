@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 pronunciation: TEH-rah
+dm_owner: none
+dm_notes: none
 ---
 # Tera
 *(TEH-rah)*

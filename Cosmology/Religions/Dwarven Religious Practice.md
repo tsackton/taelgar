@@ -1,5 +1,7 @@
 ---
 tags: [background, religion/dwarven, status/check/mike]
+dm_owner: none
+dm_notes: color
 ---
 # Dwarven Religious Practice
 
