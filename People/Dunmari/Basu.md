@@ -11,6 +11,8 @@ ancestry: Dunmari
 gender: male
 affiliations: [Lakan mystai]
 whereabouts: Lakan Monastery
+dm_owner: tim
+dm_notes: important
 ---
 # Basu
 >[!info]+ Biographical Info  

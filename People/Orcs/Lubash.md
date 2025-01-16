@@ -12,6 +12,8 @@ gender: male
 title: Chief
 affiliations: [People of the Rainbow, {org: Xurkhaz, type: leader, start: 1745}]
 whereabouts: Uzgukhar
+dm_owner: tim
+dm_notes: important
 ---
 # Chief Lubash
 >[!info]+ Biographical Info

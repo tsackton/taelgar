@@ -13,6 +13,8 @@ died: 1748-07-23
 whereabouts:
 - {type: home, location: ~North Tokra Plains~}
 - {type: away, start: 1748-05-01, end: 1748-07-23, location: Copper Hills}
+dm_owner: none
+dm_notes: color
 ---
 # Justan
 >[!info]+ Biographical Info  

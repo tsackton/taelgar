@@ -10,6 +10,8 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: away, start: 1748-06-03, end: 1748-12-14, linkText: camped near, location: Tokra, format: "<name:q>"}
+dm_owner: tim
+dm_notes: important
 ---
 # Illyan
 >[!info]+ Biographical Info  

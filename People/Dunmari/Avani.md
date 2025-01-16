@@ -11,6 +11,8 @@ affiliations:
 - { org: Fraternity of the Empty Moon, start: 1748-04, end: 1748-07-03 } # start date an estimate
 gender: female
 whereabouts: Tokra
+dm_owner: none
+dm_notes: color
 ---
 # Dunmari Werewolf Woman
 >[!info]+ Biographical Info

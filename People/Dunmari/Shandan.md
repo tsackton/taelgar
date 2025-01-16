@@ -10,6 +10,8 @@ affiliations:
 - {place: Shandan's Warband }
 whereabouts: [{type: home, location: plains of Songara}]
 pronunciation: Shun-dhun
+dm_owner: none
+dm_notes: none
 ---
 # Shandan
 *(Shun-dhun)*

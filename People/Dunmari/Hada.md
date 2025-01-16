@@ -9,6 +9,8 @@ ancestry: Dunmari
 gender: male
 died: 1748
 whereabouts: Tokra
+dm_owner: tim
+dm_notes: important
 ---
 # Hada
 >[!info]+ Biographical Info

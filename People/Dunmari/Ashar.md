@@ -9,6 +9,8 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: Tokra
+dm_owner: none
+dm_notes: color
 ---
 # Ashar
 >[!info]+ Biographical Info  
