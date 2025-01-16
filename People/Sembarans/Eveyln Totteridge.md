@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/needswork/gameupdate]
 title: Sergeant
 name: Eveyln Totteridge
 born: 1689

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/cleanup/gameupdate]
 campaignInfo: [ {campaign: clee, date: 1720-01-03 }]
 name: Rosalind Essford
 born: 1677
@@ -32,8 +32,6 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:clee%% Seen by the [[Heroes of Cleenseau]] on January 3rd, 1720 travelling to [[Rinburg]], in the [[Barony of Aveil]], [[Sembara]] %%^End%%
-
-%% status/update -> status/check/mike %%
 
 ![[lady-rosalind-essford.png|right|320]]The daughter of [[Wymar Essford|Wymar]], short, and with hair just beginning to grey, but forceful out of proportion to her size, and with a sharp intelligence to her eyes. Popular with the townspeople and said to be wise and fair. She married [[Arthur Essford]] in 1706, and their match has been a good and popular one. 
 

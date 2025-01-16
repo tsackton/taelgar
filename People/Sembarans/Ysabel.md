@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/cleanup/gameupdate]
 campaignInfo: [ { campaign: clee }]
 name: Ysabel
 born: 1688
@@ -22,18 +22,10 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status/update -> status/check/mike %%
-
 ![[ysabel.png|right|420]] A striking and comely woman with a rough scar running from her eye to her neck. She is the sheriff of [[Cleenseau]] and leads a part of the [[Lord's Guard of Cleenseau|Lord's Guard]]. She has many opinions about her employers, in particular [[Rinault Essford]], and does not always successfully keep them to herself.
 
 
 %% Needs significant updates from play, including the fact that she died in battle %%
-
-
-
-
-
-
 
 %%^Campaign:None%%
 ### Relationships

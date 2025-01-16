@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place, status/cleanup/text]
 name: Masance
 typeOf: river
 whereabouts: Istaros Watershed

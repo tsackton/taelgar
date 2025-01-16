@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/cleanup/gameupdate]
 name: Rinault Essford
 born: 1688
 species: human
@@ -11,7 +11,7 @@ title: Lord
 whereabouts: Cleenseau
 affiliations:
 - {org: Essfords, title: Heir, type: primary }
-dm_notes: color
+dm_notes: important
 dm_owner: mike
 ---
 # Lord Rinault Essford
@@ -20,8 +20,6 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/update -> status/check/mike %%
 
 ![[Lord-Rinault-Essford.png|right|320]]The younger brother of [[Rosalind Essford|Rosalind]] he is considered rash and impulse. He openly dreams of bigger adventures and grander scales for his ambitions, but few trust him.
 

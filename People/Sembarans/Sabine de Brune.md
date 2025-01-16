@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/gameupdate]
+tags: [person, status/cleanup/gameupdate]
 name: Sabine de Brune
 born: 1662
 species: human
@@ -19,8 +19,6 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/update -> status/check/mike %%
 
 ![[sabine-de-brune-valit.png|right|320]]The aging castellan of [[Valit]], a vassal of the [[Baron of Aveil]]. Organized about managing the manor, but with a soft spot for bardic tales and romance. Never married, although is rumored to have had several great loves in her youth. She is also the magistrate for the village of Valit.
 

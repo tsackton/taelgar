@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person]
 campaignInfo:
 name: Ida Rosfeld
 born: 1687
@@ -23,8 +23,6 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/update -> status/check/mike %%
 
 ![[ida-rosfeld.png|right|320]]Ida is the captain of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]]. She is a no-nonsense commander who respects very few people other than [[Rosalind Essford]] and is known for her sharp tongue.
 

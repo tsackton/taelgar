@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/stub]
 species: human
 gender: female
 ancestry: Sembaran
@@ -15,6 +15,5 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status/update -> status/check/mike %%
 
 ![[marceline-dupont.jpg|left|200]]

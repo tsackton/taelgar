@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/check/mike]
+tags: [historical, person, status/cleanup/incomplete]
 name: Cece I
 born: 1628
 species: human
@@ -13,8 +13,8 @@ leaderOf:
 - {place: Sembara}
 - {place: Tyrwingha}
 affiliations: [House of Sewick]
-dm_notes: color
-dm_owner: mike
+dm_notes: important
+dm_owner: shared
 ---
 # Queen Cece I
 >[!info]+ Biographical Info  
@@ -33,6 +33,8 @@ She was unlucky with her children, however, and of her six children: Bertram, De
 		Robert I b. 1660  d. 1722
 		Diana	 b. 1661  d. 1711
 		Mara	 b. 1663  d. 1709
+
+Some important stuff around the radiant alliance in discord 
 %%
 
 

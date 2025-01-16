@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/stub]
 whereabouts: Veltor
 species: human
 ancestry: Sembaran
@@ -15,5 +15,3 @@ dm_owner: mike
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/update -> status/check/mike %%

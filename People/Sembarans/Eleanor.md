@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/cleanup/gameupdate]
 whereabouts: Asineau
 gender: female
 species: human
@@ -14,8 +14,6 @@ dm_owner: mike
 > A [[Sembara|Sembaran]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/update -> status/check/mike %%
 
 ![[eleanor.png|right|320]]A temple administrator of the Wyrdling, and well-known in the region. Has been mostly bedridden since the spring of 1719. 
 
