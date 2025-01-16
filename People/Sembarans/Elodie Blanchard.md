@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/stub]
 species: human
 dm_notes: none
 dm_owner: none

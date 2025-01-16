@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/mike]
+tags: [organization]
 campaignInfo: []
 name: Army of the North
 partOf: Sembaran Army
@@ -14,9 +14,4 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 > Parent Organization: the [[Sembaran Army]], [[Sembara]]
 
-%% status/update -> status/check/mike %%
-
 The Army of the North is 1,500 soldiers divided into two companies, one garrisoned near Arnsbury and the other along the northern Volta. Historically this army was much larger, but today the northern border is peaceful and few threats come south from [[Vostok]].
-
-
-%% Integrate notes from game, etc %%

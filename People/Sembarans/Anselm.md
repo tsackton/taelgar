@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person]
 campaignInfo: [{campaign: clee}]
 name: Anselm
 born: 1655
@@ -19,6 +19,7 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% status/update -> status/check/mike %%
-
 ![[anselm-portrait.png|right|320]]The temple administrator of the [[Temple of the Warlord in Cleenseau|Temple of the Warlord]] in [[Cleenseau]]. An ambitious man and not very religious.
+
+%% 
+In recent Clee sessions he has become involved in the administration of Asieneau after the departure of [[Lorin Valbert]], and he has been debated as someone who could potentially become castellan. In general, there has been a roleplaying vibe of him wanted to find ways to have more power, as well as some backstory where he is close to [[Wymar Essford]] but not his daughter. %%
