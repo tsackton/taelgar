@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [religion/kestavo, background]
 displayDefaults: {defArt: ""}
-
+dm_owner: none
+dm_notes: none
 ---
 # Kestavan Funerary Traditions
 

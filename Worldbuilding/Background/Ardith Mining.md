@@ -1,5 +1,7 @@
 ---
 tags: [background]
+dm_owner: none
+dm_notes: none
 ---
 
 ![[ardith-mining-map.png]]

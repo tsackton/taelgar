@@ -1,3 +1,9 @@
+---
+dm_owner: shared
+dm_notes: important
+---
+
+%% incomplete copy of email/discord %%
 
 A few rough notes I was thinking about while I was driving—  
   

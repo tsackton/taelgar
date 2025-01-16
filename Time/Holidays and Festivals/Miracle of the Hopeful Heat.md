@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [holiday, religion/mosnumena]
 name: Miracle of the Hopeful Heat
 fc-date: {day: 7, month: 1}
+dm_owner: mike
+dm_notes: none
 ---
 # The Miracle of the Hopeful Heat
 This miracle is celebrated locally in [[Asineau]]. The details were lost during the hobgoblin wars, but remembered by the [[Stonebridges]] who shared the following story with the inhabitants of [[Asineau]] after it was resettled after the hobgoblin wars:

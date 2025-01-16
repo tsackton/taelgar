@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [background, religion/mosnumena]
 displayDefaults: {defArt: ""}
+dm_owner: none
+dm_notes: none
 ---
 # Tyrwinghan Funerary Traditions
 

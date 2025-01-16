@@ -5,6 +5,8 @@ typeOf: book
 typeOfAlias: play
 ancestry: Drankorian
 displayDefaults: {defArt: ""}
+dm_owner: none
+dm_notes: none
 ---
 # A Fool's Fortune
 >[!info]+ Information  

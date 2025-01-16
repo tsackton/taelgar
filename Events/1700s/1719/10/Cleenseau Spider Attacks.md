@@ -4,8 +4,8 @@ whereabouts: Cleenseau Region
 DR: 1719-10-19
 DR_end: 1719-10-22
 headerVersion: 2023.11.25
-dm_notes: none
-dm_owner: important
+dm_notes: important
+dm_owner: none
 name: Cleenseau Spider Attacks
 ---
 # The Cleenseau Spider Attacks
