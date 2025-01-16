@@ -23,7 +23,6 @@ The following status tags indicate the page is incomplete in some way, but the t
 
 **status/stub:** page does not have sufficient detail for the page author to consider it useable for others; try to tag with a dm_owner as well at least until finished. 
 
-**status/update**: page is actively involved in a campaign and there is recent (or not so recent) session events that impact the text on the page (use metadata/header if only whereabouts need to be updated).
 
 ### Cleanup
 
