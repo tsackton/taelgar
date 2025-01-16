@@ -4,6 +4,8 @@ name: Pyravela
 pronunciation: PIE-ra-VEL-a
 fc-date: {day: 29, month: 12}
 fc-end: {day: 31, month: 12}
+dm_owner: shared
+dm_notes: important
 ---
 # Pyravela
 *(pie-ra-vel-a)*

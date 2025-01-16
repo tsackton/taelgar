@@ -4,6 +4,8 @@ tags: [person]
 species: genie
 subspecies: efreeti
 whereabouts: Elemental Plane of Fire
+dm_owner: tim
+dm_notes: important
 ---
 # Zephyra
 >[!info]+ Biographical Info  

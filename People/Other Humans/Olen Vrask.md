@@ -5,6 +5,8 @@ gender: male
 species: human
 ancestry: Urskan
 affiliations: [Rodnya Voknaz]
+dm_owner: tim
+dm_notes: important
 ---
 # Olen Vrask
 >[!info]+ Biographical Info  

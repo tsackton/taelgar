@@ -8,6 +8,8 @@ gender: male
 whereabouts: 
 - {type: home, location: Abyss}
 - {type: away, start: 1748-03-12, end: 1748-04-12, location: Raven's Hold}
+dm_owner: tim
+dm_notes: important
 ---
 # Oduk
 >[!info]+ Biographical Info  

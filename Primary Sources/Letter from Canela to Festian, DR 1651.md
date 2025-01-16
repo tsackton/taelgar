@@ -2,6 +2,7 @@
 tags: [status/stub, source]
 excludePublish: ["all"]
 dm_owner: mike
+dm_notes: important
 ---
 %% A letter I was writing as background for the Ausson's crossing game, but then I rejiggered the timeline and never finished it. Need to either finish or delete %%
 

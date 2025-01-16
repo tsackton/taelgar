@@ -6,6 +6,8 @@ name: Scroll of Storykeeping
 typeOf: scroll
 subTypeOf: magical
 ancestry: Dunmari
+dm_owner: none
+dm_notes: important
 ---
 # Scroll of Storykeeping
 >[!info]+ Information  

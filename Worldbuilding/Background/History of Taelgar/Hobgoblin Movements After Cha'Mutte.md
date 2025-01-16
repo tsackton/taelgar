@@ -1,5 +1,7 @@
 ---
 tags: [background]
+dm_owner: shared
+dm_notes: important
 ---
 
 %% NEEDS CLEANUP %%

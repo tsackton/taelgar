@@ -8,6 +8,8 @@ ancestry: salt
 gender: male
 whereabouts:
 - {type: home, location: Eskorola}
+dm_owner: none
+dm_notes: color
 ---
 # Itzal
 >[!info]+ Biographical Info  

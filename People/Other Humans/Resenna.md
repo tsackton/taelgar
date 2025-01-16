@@ -12,6 +12,8 @@ whereabouts:
 - {type: home, location: Medju}
 - {type: away, start: 1748-10-01, end: 1748-10-14, location: ~Eastern Ocean~ }
 - {type: away, start: 1748-10-16, prefix: sea elf village in, location: Quanyi }
+dm_owner: tim
+dm_notes: color
 ---
 # Resenna
 >[!info]+ Biographical Info  

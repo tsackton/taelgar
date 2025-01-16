@@ -9,6 +9,8 @@ ancestry: Deno'qai
 gender: female
 whereabouts:
 - {type: away, start: 1748-10-25, linkText: in the forest valleys of, location: Sentinel Range}
+dm_owner: tim
+dm_notes: important
 ---
 # Safri
 >[!info]+ Biographical Info  

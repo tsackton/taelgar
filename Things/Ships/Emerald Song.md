@@ -12,6 +12,8 @@ whereabouts:
 - {type: away, start: 1748-08-17, end: 1748-08-17, location: Old Chardon Canal }
 - {type: away, start: 1748-08-18, end: 1748-08-20, prefix: traveling in, location: Gulf of Chardon }
 - {type: away, start: 1748-08-21, location: Chardon }
+dm_owner: none
+dm_notes: color
 ---
 # The Emerald Song
 >[!info]+ Information  

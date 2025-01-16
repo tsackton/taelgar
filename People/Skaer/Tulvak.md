@@ -10,6 +10,8 @@ ancestry: Skaer
 gender: male
 whereabouts:
 - {type: home, location: Pyhlla}
+dm_owner: none
+dm_notes: color
 ---
 # Tulvak
 >[!info]+ Biographical Info  

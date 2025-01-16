@@ -10,6 +10,8 @@ species: human
 ancestry:
 gender: male
 whereabouts: ~Eastern Islands~
+dm_owner: tim
+dm_notes: color
 ---
 # Gyles
 >[!info]+ Biographical Info  

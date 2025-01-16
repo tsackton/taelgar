@@ -4,6 +4,8 @@ tags: [status/stub, person]
 species: human
 ancestry: Illorian
 gender: male
+dm_owner: tim
+dm_notes: important
 ---
 # Chirce
 >[!info]+ Biographical Info  

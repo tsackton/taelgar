@@ -6,6 +6,8 @@ species: human
 gender: female
 ancestry: Urskan
 whereabouts: Zvervinka
+dm_owner: tim
+dm_notes: important
 ---
 # Lena Sorokina
 >[!info]+ Biographical Info  

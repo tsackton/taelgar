@@ -9,6 +9,8 @@ ancestry: salt
 gender: female
 whereabouts: Eskorola
 activeYear: 1747
+dm_owner: none
+dm_notes: color
 ---
 # Amaya
 >[!info]+ Biographical Info  

@@ -1,5 +1,7 @@
 ---
 tags: [meta]
+dm_notes: none
+dm_owner: none
 ---
 
 This folder contains background and brainstorming information and is not intended to be published directly to a website. Broadly, it is organized as follows:

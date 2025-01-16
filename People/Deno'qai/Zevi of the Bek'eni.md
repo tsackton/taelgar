@@ -11,6 +11,8 @@ gender: male
 died: 1748-09-06
 whereabouts: Elderwood
 activeYear: 1745
+dm_owner: none
+dm_notes: color
 ---
 # Zevi
 >[!info]+ Biographical Info  

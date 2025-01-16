@@ -11,6 +11,8 @@ name: Brimskarda
 affiliations:
 - {place: Kaldhalla, title: King, type: leader, start:1673}
 whereabouts: Isenborg
+dm_owner: tim
+dm_notes: important
 ---
 # King Brimskarda
 >[!info]+ Biographical Info  

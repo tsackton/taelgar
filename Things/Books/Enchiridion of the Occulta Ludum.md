@@ -5,6 +5,8 @@ typeOf: book
 subTypeOf: magical
 ancestry: Drankorian
 affiliations: [ {org: Occulta Ludum, title: Handbook }]
+dm_owner: tim
+dm_notes: important
 ---
 # The Enchiridion of the Occulta Ludum
 >[!info]+ Information  

@@ -7,6 +7,8 @@ typeOf: horn
 subtypeOf: magic
 ancestry: Dunmari
 rarity: common
+dm_owner: none
+dm_notes: none
 ---
 # Horn of Silent Alarm (Dunmari)
 >[!info]+ Information  

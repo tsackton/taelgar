@@ -11,6 +11,8 @@ ancestry:
 gender: male
 whereabouts: Bedez
 activeYear: 1735
+dm_owner: tim
+dm_notes: important
 ---
 # Elazar
 >[!info]+ Biographical Info

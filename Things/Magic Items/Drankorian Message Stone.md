@@ -9,6 +9,8 @@ ancestry: Drankorian
 rarity: 
 image: 
 ddbLink: https://www.dndbeyond.com/magic-items/3657531-drankorian-message-stone
+dm_owner: none
+dm_notes: none
 ---
 # Message Stone
 >[!info]+ Information  

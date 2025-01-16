@@ -8,6 +8,8 @@ typeOfAlias: boat
 whereabouts: 
 - {type: home, location: Gulf of Chardon}
 - {type: away, start: 1749-05-07, end: 1749-05-07, location: Castrella}
+dm_owner: none
+dm_notes: color
 ---
 # The Summer's Breeze
 >[!info]+ Information  

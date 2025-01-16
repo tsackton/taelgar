@@ -5,7 +5,7 @@ campaignInfo:
 name: Duchy of Seham
 typeOf: duchy
 whereabouts: Sembara
-dm_info: color
+dm_notes: color
 dm_owner: none
 ---
 # The Duchy of Seham

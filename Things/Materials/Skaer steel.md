@@ -4,6 +4,8 @@ tags: [item/other]
 ancestry: Skaer
 typeOf: material
 displayDefaults: {defArt: ""}
+dm_owner: none
+dm_notes: none
 ---
 # Skaer Steel
 >[!info]+ Information  

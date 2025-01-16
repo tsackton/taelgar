@@ -1,5 +1,7 @@
 ---
 tags: [status/needswork/old, source]
+dm_owner: shared
+dm_notes: important
 ---
 
 %%

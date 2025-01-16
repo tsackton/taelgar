@@ -13,6 +13,8 @@ aliases: [Umli]
 whereabouts:
 - {type: home, end: 1731, location: Sivnjo Mountains, wOrigin: "Exiled from <origin> in <enddate>"}
 - {type: home, start: 1732, location: Tollen, wHome: "Based in <home:r> (for <age>)"}
+dm_owner: tim
+dm_notes: important
 ---
 # Umli the Exile
 >[!info]+ Biographical Info  

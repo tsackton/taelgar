@@ -5,6 +5,8 @@ typeOf: book
 typeOfAlias: poem collection
 ancestry: Elvish
 subTypeOf: mundane
+dm_owner: none
+dm_notes: none
 ---
 # The Lyrics of a New Age
 >[!info]+ Information  

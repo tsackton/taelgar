@@ -6,6 +6,8 @@ DR: 1749-01-20
 name: Battle for Uzgukhar
 partOf: War of the Cloak
 typeOf: battle
+dm_owner: tim
+dm_notes: important
 ---
 # The Battle for Uzgukhar
 >[!info]+ Information

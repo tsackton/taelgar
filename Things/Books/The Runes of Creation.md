@@ -5,6 +5,8 @@ rarity: unique
 typeOf: book
 whereabouts: Seeker
 displayDefaults: {defArt: ''}
+dm_owner: tim
+dm_notes: important
 ---
 # The Runes of Creation
 >[!info]+ Information

@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [event, status/cleanup/metadata]
+dm_owner: none
+dm_notes: color
 ---
 # The Grand Conclave of Mawakel
 

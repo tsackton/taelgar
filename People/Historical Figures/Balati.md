@@ -11,6 +11,8 @@ affiliations: [{org: Ko'zula, type: primary}]
 whereabouts:
 - {type: home, location: Forest of Dreams}
 - {type: away, start: 1544, end: 9999, location: Forest of Nightmares}
+dm_owner: none
+dm_notes: color
 ---
 # Balati
 >[!info]+ Biographical Info

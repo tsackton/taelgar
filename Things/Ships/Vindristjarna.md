@@ -21,6 +21,8 @@ typeOf: vehicle
 typeOfAlias: skyship
 aliases: [Star on the Wind]
 subTypeOf: magical
+dm_owner: tim
+dm_notes: important
 ---
 # Vindristjarna
 *(vin-dree-SHAR-na)*

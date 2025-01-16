@@ -9,6 +9,8 @@ species: human
 ancestry: Drankorian
 affiliations: [ { org: Occulta Ludum } ]
 gender: male
+dm_owner: tim
+dm_notes: important
 ---
 # Eudomes
 >[!info]+ Biographical Info  

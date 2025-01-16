@@ -11,6 +11,8 @@ gender: male
 whereabouts:
 - {type: home,  location: Skaerhem}
 - {type: home, start: 1745-04-11, location: Tollen}
+dm_owner: tim
+dm_notes: color
 ---
 # Kaupa
 >[!info]+ Biographical Info  

@@ -9,6 +9,8 @@ pronunciation: ku-ROW-may
 whereabouts: 
 - {type: home, end: 1, location: Nightmare Realm}
 - {type: away, end: 1748-11-24, location: Hralgar's Palace}
+dm_owner: tim
+dm_notes: important
 ---
 # Kurome
 *(ku-ROW-may)*

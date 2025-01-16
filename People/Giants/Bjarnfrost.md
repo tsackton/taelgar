@@ -8,6 +8,8 @@ title: King
 name: Bjarnfrost
 affiliations:
 - {place: Kaldhalla, title: King, type: leader, end: 1511}
+dm_owner: tim
+dm_notes: important
 ---
 # King Bjarnfrost
 >[!info]+ Biographical Info  

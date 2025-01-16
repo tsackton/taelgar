@@ -4,6 +4,8 @@ tags: [person, status/cleanup/metadata]
 ancestry: Urskan
 species: human
 gender: male
+dm_owner: none
+dm_notes: color
 ---
 # Karel
 >[!info]+ Biographical Info  

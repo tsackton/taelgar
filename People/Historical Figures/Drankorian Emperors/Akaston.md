@@ -12,6 +12,8 @@ affiliations:
 - { place: Drankorian Empire, start: 980 }
 died: 991
 whereabouts: Drankor
+dm_owner: tim
+dm_notes: color
 ---
 # Emperor Akaston
 >[!info]+ Biographical Info

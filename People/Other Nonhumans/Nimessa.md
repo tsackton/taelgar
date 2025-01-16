@@ -7,6 +7,8 @@ species: elemental
 ancestry: marid
 gender: female
 whereabouts: Elemental Plane of Water
+dm_owner: tim
+dm_notes: important
 ---
 # Nimessa
 >[!info]+ Biographical Info  

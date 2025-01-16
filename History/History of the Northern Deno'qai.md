@@ -1,5 +1,7 @@
 ---
 tags: [background, status/needswork/continuity]
+dm_owner: shared
+dm_notes: important
 ---
 
 %% needs to be checked for consistency with other histories  and Deno'qai culture %%

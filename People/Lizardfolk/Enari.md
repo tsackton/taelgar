@@ -15,6 +15,8 @@ whereabouts:
 - {type: away, start: 1748-11-01, end: 1748-11-04, location: Bedez}
 - {type: away, start: 1748-11-06, end: 1748-11-13, location: Azta Lekua}
 - {type: away, start: 1748-11-15, location: Bedez}
+dm_owner: tim
+dm_notes: important
 ---
 # Enari
 >[!info]+ Biographical Info  

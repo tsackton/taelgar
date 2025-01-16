@@ -11,6 +11,8 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: 1730, location: Tollen}
 - {type: away, start: '', end: '', location: Eastern Green Sea}
+dm_owner: tim
+dm_notes: important
 ---
 # Arryn
 >[!info]+ Biographical Info  

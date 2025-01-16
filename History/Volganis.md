@@ -1,5 +1,7 @@
 ---
 tags: [place, status/stub]
+dm_owner: tim
+dm_notes: important
 ---
 %% a northern polity referenced in old high school material a lot, as a kingdom fighting against [[Pandar]]
 

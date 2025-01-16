@@ -6,6 +6,8 @@ aliases: [Phasing Stone]
 ancestry: giant
 typeOf: stone
 subTypeOf: magic
+dm_owner: tim
+dm_notes: important
 ---
 # Phasing Stones
 >[!info]+ Information  

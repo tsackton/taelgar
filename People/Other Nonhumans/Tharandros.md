@@ -12,6 +12,8 @@ whereabouts:
 - {type: away, start: 1748-04-23, end: 1748-06-01, location: Karawa}
 - {type: away, start: 1748-07-18, location: Myraeni Gap}
 pronunciation: tha-RAN-dros
+dm_owner: tim
+dm_notes: important
 ---
 # Tharandros
 *(tha-RAN-dros)*

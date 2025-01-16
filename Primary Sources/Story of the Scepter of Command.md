@@ -1,6 +1,8 @@
 ---
 tags: [status/needswork/wip, source]
 excludePublish: ["all"]
+dm_owner: tim
+dm_notes: important
 ---
 
 %% never finished this %%
