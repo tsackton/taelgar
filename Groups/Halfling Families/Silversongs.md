@@ -7,6 +7,8 @@ ancestry: halfling
 name: Silversongs
 affiliations:
 - {place: Emerald Song, type: leader, title: Owners}
+dm_owner: none
+dm_notes: none
 ---
 # The Silversongs
 >[!info]+ Information  
@@ -14,6 +16,10 @@ affiliations:
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 A halfling family of traders and sailors based in the [[Nevos Sea]]. 
+
+%% From OneNote
+The Silversongs have been sailing the trade routes between Chardon and the Nevos Sea for the past three generations, about 120 years. The clan itself is large and scattered, with at least four Silversong ships plying the Chardon->Dunmar trade, and two more sailing the coastal routes north of Chardon. This particular branch of the family has focused on fast coastal trade.
+%%
 
 %%^Campaign:None%%
 ### Members

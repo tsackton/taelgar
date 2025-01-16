@@ -5,6 +5,8 @@ displayDefaults: {defArt: the}
 name: Hardstones
 typeOf: clan
 ancestry: dwarven
+dm_notes: none
+dm_owner: none
 ---
 # The Hardstones
 >[!info]+ Information  

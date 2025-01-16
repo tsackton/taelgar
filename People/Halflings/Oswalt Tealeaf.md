@@ -41,3 +41,7 @@ After the Tealeaf clan encountered trouble with Agata Dustmother, and lost Garre
 %% notes
 As of DR 1748, assumed to be a level 1 ranger
 %%
+
+%% old from onenote
+Oswalt Tealeaf grew up on the road, traveling with the Tealeaf clan around Dunmar. After the experiences with Agata and losing Garrett (a cousin twice removed), he picked up the bow and started developing skills, but just traveling around with his family in their new, safer route didn't get him very far. Until he met and fell in love with Jasmine. Now he is committed to traveling with her and exploring the world together.
+%%

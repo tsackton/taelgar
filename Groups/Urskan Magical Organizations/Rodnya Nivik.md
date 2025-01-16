@@ -5,6 +5,8 @@ ancestry: Urskan
 displayDefaults: {defArt: ""}
 typeOf: magical bloodline
 partOf: Rodnya
+dm_notes: important
+dm_owner: tim
 ---
 # Rodnya Nivik
 >[!info]+ Information  
