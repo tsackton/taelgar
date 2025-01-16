@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/companion, pc, person, status/needswork/shared]
+tags: [pc/companion, person, status/cleanup/incomplete]
 name: Willow Wind
 species: fox
 ancestry: spirit

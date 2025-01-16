@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/shared]
+tags: [person, status/cleanup/text]
 born: 1698
 gender: male
 species: human
