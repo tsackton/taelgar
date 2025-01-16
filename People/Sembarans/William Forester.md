@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike, status/cleanup/metadata]
+tags: [person, status/cleanup/metadata]
 dm_notes: color
 dm_owner: mike
 species: human
@@ -20,4 +20,5 @@ A lumberjack and leading person in [[Ashcombe]]
 one of the main lumberjacks in ashcombe, and effectively the steward/"union boss", who is still upset about his missing husband. He is caring but a bit headstrong.
 
 His husband taken by fey; leading figure in the aftermath; some more notes in my email
+still in Aslain or neighborhood; wants to return to Ashcombe
 %%

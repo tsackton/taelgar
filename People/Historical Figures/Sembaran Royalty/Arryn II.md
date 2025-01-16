@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/check/mike]
+tags: [historical, person]
 name: Arryn II
 born: 1601
 species: human
@@ -21,8 +21,6 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% possibly good use for status/cleanup/internal since it seems main need is collation? %%
-
 The only child of [[Blanche II]]. His two daughters, [[Charlotte II]] and [[Cece I]] both rule the united realm of Sembara and Tyrwingha.
 
-%% killed by hobgoblins, daughter died or injuries from same attack ; collate some info from timeline here %%
+%% killed by hobgoblins, daughter died of injuries from same attack; some small set of facts in the Sembaran  timeline %%

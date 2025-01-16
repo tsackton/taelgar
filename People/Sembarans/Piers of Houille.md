@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/check/mike, person]
+tags: [person, status/stub]
 whereabouts:
 - {location: Houille, type: home }
 - {location: Cranford, type: away, start: 1720-02-11, end: 1720-02-16 }

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, testcase, status/check/mike]
+tags: [organization, testcase, status/needswork/gameupdate]
 displayDefaults: {partOf: '<typeof:Au> of <partof>', boxInfo: ''}
 name: Army Garrison of Cleenseau
 partOf: Dunfry Regiment
@@ -12,8 +12,6 @@ dm_notes: important
 dm_owner: mike
 ---
 # The Army Garrison of Cleenseau
-
-%% status/update -> status/check/mike %%
 
 The Cleenseau Garrison is the furthest east-most garrison of the [[Army of the West]]. It is commanded by [[Ida Rosfeld|Captain Ida Rosfeld]] and consists of two patrols:
 

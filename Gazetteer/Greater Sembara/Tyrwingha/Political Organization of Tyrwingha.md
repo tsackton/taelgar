@@ -1,9 +1,8 @@
 ---
-tags: [background, status/cleanup/text, status/check/mike]
+tags: [background, status/cleanup/text]
 ---
 # Political Organization of Tyrwingha
 
-%% added by Tim: I think this is fine for cleanup, not status/needswork/old, but want confirmation%%
 
 %% info here is pretty good but needs cleanup based on long discord convo pasted at the bottom. See also some of the stories from [[Celyn]] for vibes %%
 

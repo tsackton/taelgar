@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/check/mike]
+tags: [organization]
 typeOf: family
 dm_notes: none
 dm_owner: none
@@ -10,11 +10,12 @@ dm_owner: none
 > A family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% anything to add? %%
+The Wisenfold family has significant presence along the upper Wistel, especially south and west of [[Gowerbourne]]. 
+
+%% This exists merely as a historical family but felt worth keeping around in case someone needs the name of an important noble family in the  %%
 
 %%^Campaign:None%%
 ### Members
-
 ```dataviewjs
 const { util } = customJS
 dv.table(["Person", "Info", "Born", "Died"], 

@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person, status/active]
 campaignInfo: [ { campaign: clee }]
 name: Odo Cordwaner
 born: 1700
@@ -24,8 +24,6 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/update -> status/check/mike %%
 
 ![[odo-cordwaner.png|right|320]] Until recently a sergeant of the [[Army Garrison of Cleenseau|Bridge Patrol]], he was discharged after failing to heed orders during the [[Festival of the Bridge]]. He allowed [[Francois the Bandit|François the Bandit]] access to the food area, despite specific warnings to be on the lookup.
 
