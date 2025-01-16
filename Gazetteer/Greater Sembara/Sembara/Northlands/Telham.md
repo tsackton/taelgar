@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/mike]
+tags: [place]
 campaignInfo:
 name: Telham
 typeOf: city
@@ -13,6 +13,6 @@ population: 12000
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% stub? leave with no status tag? cleanup/incomplete? %%
+A large coastal trading city and the most important maritime city in Sembara.
 
-%% No specific details exist in my head; 
+%% No specific details exist in my head; but the vibe is probably something like Rotterdam to Tollen-as-Amsterdam or similar; a similar in some ways but less important %%

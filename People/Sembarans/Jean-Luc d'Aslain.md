@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/mike]
+tags: [person]
 born: 1690
 species: human
 ancestry: Sembaran
@@ -18,7 +18,5 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% status/update -> status/check/mike %%
 
 ![[jean-luc d'aslain.png|right|320]]A disciple of the Father, splitting time between [[Dallet]] and [[Beury]]. A cousin of the current baron, [[Isabeau d'Aslain]].

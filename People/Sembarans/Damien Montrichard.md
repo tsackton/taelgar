@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/gameupdate]
+tags: [person, status/cleanup/gameupdate]
 name: Damien Montrichard
 born:
 species: human

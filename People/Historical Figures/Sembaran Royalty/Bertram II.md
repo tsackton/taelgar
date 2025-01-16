@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [historical, person, status/check/mike]
+tags: [historical, person, status/cleanup/text]
 name: Bertram II
 born: 1537
 species: human
