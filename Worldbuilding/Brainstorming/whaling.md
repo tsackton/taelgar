@@ -1,3 +1,8 @@
+---
+dm_owner: tim
+dm_notes: none
+---
+
 Thinking a little bit about whaling in Taelgar.
 
 Basic idea:

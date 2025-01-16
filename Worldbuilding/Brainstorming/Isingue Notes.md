@@ -1,4 +1,7 @@
-=====
+---
+dm_owner: shared
+dm_notes: important
+---
 
 I think that is pretty much my view as well, with one wrinkle. In my Ausson's Crossing mini-series especially, and less so in my current game, the Isingue community in Maseau and other points to the south is pretty divided between a more patriotic/separatist strain interested in "rebuilding the lost Isingue" and a more assimiliatist strain that may keep some traditions alive but is happy intermarrying and moving on. I suspect that by 1748 a lot of the most separatist types would have emigrated to the Refounded Alliance of Aurbez which is in part an explicitly Isinguese(?) project (although only in part).
 

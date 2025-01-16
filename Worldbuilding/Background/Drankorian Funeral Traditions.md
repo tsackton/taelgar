@@ -1,6 +1,8 @@
 ---
 tags: [background, religion/mosnumena]
 excludePublish: ["clee"]
+dm_owner: shared
+dm_notes: important
 ---
 ## Drankorian Funeral Traditions
 

@@ -1,3 +1,8 @@
+---
+dm_owner: shared
+dm_notes: important
+---
+
 This brainstorming document collects not-yet-fully-developed thoughts on funerary traditions across Taelgar. For more canonical information, see:
 * [[Dunmari Religious Practice#Funerals|Dunmari tradition]]
 * [[Sembaran Funerary Traditions]]
