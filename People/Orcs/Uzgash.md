@@ -7,6 +7,8 @@ species: orc
 ancestry:
 gender: male
 affiliations: [{org: People of the Rainbow, type: primary}]
+dm_owner: tim
+dm_notes: important
 ---
 # Uzgash
 >[!info]+ Biographical Info  

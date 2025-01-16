@@ -10,6 +10,8 @@ gender: male
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping, end: 1748-06-08 }
 - {type: home, location: Karawa, start: 1748-06-09 }
+dm_owner: none
+dm_notes: important
 ---
 # Isha
 >[!info]+ Biographical Info

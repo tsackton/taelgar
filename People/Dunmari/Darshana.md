@@ -11,6 +11,8 @@ gender: female
 whereabouts: Tokra
 affiliations: 
 - {org: Darshana's Caravanserai, title: Owner, type: leader}
+dm_owner: none
+dm_notes: color
 ---
 # Darshana
 >[!info]+ Biographical Info  

@@ -13,6 +13,8 @@ name: Nogu
 whereabouts:
 - {type: home, location: Xurkhaz }
 - {type: away, location: Mirror of Soul Trapping, start: 1680, end: 1748-12-04 } # start is approximate
+dm_owner: tim
+dm_notes: color
 ---
 # Nogu
 >[!info]+ Biographical Info  

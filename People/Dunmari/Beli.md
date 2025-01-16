@@ -10,6 +10,8 @@ ancestry: Dunmari
 gender: female
 affiliations: [Shakun Mystai]
 whereabouts: Karawa
+dm_owner: none
+dm_notes: color
 ---
 # Beli
 >[!info]+ Biographical Info  

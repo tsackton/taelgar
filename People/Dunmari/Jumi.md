@@ -8,6 +8,8 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts: Karawa
+dm_owner: tim
+dm_notes: important
 ---
 # Jumi
 >[!info]+ Biographical Info

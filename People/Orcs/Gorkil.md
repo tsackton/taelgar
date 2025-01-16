@@ -10,6 +10,8 @@ died: 1748-05-05
 affiliations: [ {org: Grash's Horde, type: primary} ]
 whereabouts:
 - {type: home, start: 1747, location: Kharsan}
+dm_owner: none
+dm_notes: none
 ---
 # Gorkil
 >[!info]+ Biographical Info

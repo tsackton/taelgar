@@ -10,6 +10,8 @@ ancestry: Dunmari
 gender: female
 whereabouts:
 - {type: home, location: ~North Tokra Plains~}
+dm_owner: none
+dm_notes: color
 ---
 # Jita
 >[!info]+ Biographical Info  

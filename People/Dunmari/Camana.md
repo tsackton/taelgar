@@ -11,6 +11,8 @@ affiliations: [Havdar's Warband]
 whereabouts:
 - {type: home, location: Eastern Dunmar}
 - {type: away, start: 1748-05-01, end: 1748-05-05, location: Nashtkar}
+dm_owner: none
+dm_notes: color
 ---
 # Camana
 >[!info]+ Biographical Info

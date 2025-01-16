@@ -10,6 +10,8 @@ gender: male
 affiliations: [Havdar's Warband]
 whereabouts: 
 - {type: home, location: Havdar's Warband}
+dm_owner: tim
+dm_notes: important
 ---
 # Aram
 >[!info]+ Biographical Info
