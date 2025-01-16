@@ -13,6 +13,8 @@ gender: male
 whereabouts: Tokra
 affiliations: 
 - {type: leader, place: Archives, start: 1737}
+dm_owner: tim
+dm_notes: important
 ---
 # Chief Archivist Ardan
 >[!info]+ Biographical Info  

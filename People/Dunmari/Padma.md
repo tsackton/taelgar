@@ -8,6 +8,8 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts: "an unnamed caravanserai, Tokra-Darba Road"
+dm_owner: none
+dm_notes: color
 ---
 # Padma
 >[!info]+ Biographical Info

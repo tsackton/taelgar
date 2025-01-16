@@ -12,6 +12,8 @@ title: Head Priest
 whereabouts: Tokra
 affiliations: 
 - {place: Tokra, type: leader, start: 1742}
+dm_owner: tim
+dm_notes: important
 ---
 # Head Priest Kaleha
 >[!info]+ Biographical Info  
