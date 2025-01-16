@@ -74,3 +74,59 @@ GROUP BY (
 SORT split(GroupKey, "\\|")[0] ASC, split(GroupKey, "\\|")[2], split(GroupKey, "\\|")[1]
 
 ```
+
+## No Owner, Important
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Page",
+  Status AS "Status"
+FROM ""
+WHERE dm_owner = "none" and dm_notes = "important"
+FLATTEN choice(
+    length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
+    "stub",
+    choice(
+      length(filter(file.etags, (t) => startswith(t, "#status/needswork"))) > 0,
+      "needs work",
+      choice(
+        length(filter(file.etags, (t) => startswith(t, "#status/check"))) > 0,
+        "check",
+        choice(
+          length(filter(file.etags, (t) => startswith(t, "#status/active"))) > 0,
+          "active",
+          "complete"
+        )
+      )
+    )
+  ) AS "Status"
+SORT Status ASC
+```
+
+## No Owner, Color
+
+```dataview
+TABLE WITHOUT ID
+  file.link AS "Page",
+  Status AS "Status"
+FROM ""
+WHERE dm_owner = "none" and dm_notes = "color"
+FLATTEN choice(
+    length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
+    "stub",
+    choice(
+      length(filter(file.etags, (t) => startswith(t, "#status/needswork"))) > 0,
+      "needs work",
+      choice(
+        length(filter(file.etags, (t) => startswith(t, "#status/check"))) > 0,
+        "check",
+        choice(
+          length(filter(file.etags, (t) => startswith(t, "#status/active"))) > 0,
+          "active",
+          "complete"
+        )
+      )
+    )
+  ) AS "Status"
+SORT Status ASC
+```
