@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc, person, pc/dunmarfrontier, status/update]
+tags: [pc, person, pc/dunmarfrontier, status/active]
 campaignInfo:
 name: Riswynn
 born:

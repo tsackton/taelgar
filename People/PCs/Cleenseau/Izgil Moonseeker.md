@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/cleenseau, person, status/update]
+tags: [pc/cleenseau, person, status/active]
 name: Izgil Moonseeker
 born: 1453
 species: dwarf
