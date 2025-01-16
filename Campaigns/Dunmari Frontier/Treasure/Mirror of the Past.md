@@ -7,8 +7,6 @@ title: Eudomes'
 rarity: very rare
 ddbLink: https://www.dndbeyond.com/magic-items/2739459-eudomes-mirror
 aliases: [Eudomes' Mirror]
-dm_owner: tim
-dm_notes: color
 ---
 # Eudomes' Mirror of the Past
 >[!info]+ Information

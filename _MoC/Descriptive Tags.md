@@ -19,6 +19,7 @@ In general for these organizational units a subtype can be specified (i.e. perso
 * **holiday**: a page about a specific holiday. Potentially should also have a religion/xxx tag
 * **meta**: a page about pages, for example this page. Does not contain world information, but may contain information about world information. Can also be used for map of content-style pages that are outside the \_MoC folder, for example indexes of NPCs or indexes of events.
 * **source**: a page containing the actual text or a paraphrase of actual in-world information, typically intended to be given to players as is. 
+* **culture**: a page describing a specific culture
 
 There are four other tags that can be added to clarify the page but one of these items on its own is not sufficient to remove the page from the missing tags list:
 * **pc**: a page describing a player character. Use a subtype for the campaign, i.e. pc/greatwar or pc/cleenseau

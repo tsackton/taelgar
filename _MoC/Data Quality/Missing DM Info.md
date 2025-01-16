@@ -1,4 +1,4 @@
-# Need DM Info - All
+# All Excluding Worldbuilding
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
@@ -7,7 +7,7 @@ where ((dm_notes != "none" and dm_notes != "important" and dm_notes != "color") 
 sort join(split(file.path, "/", 2),"/"), length(file.inlinks) desc
 ```
 
-# People
+## People
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
@@ -16,7 +16,7 @@ where (dm_notes != "none" and dm_notes != "important" and dm_notes != "color") o
 sort join(split(file.path, "/", 2),"/"), length(file.inlinks) desc
 ```
 
-# Gazetteer
+## Gazetteer
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
@@ -25,7 +25,7 @@ where (dm_notes != "none" and dm_notes != "important" and dm_notes != "color") o
 sort join(split(file.path, "/", 2),"/"), length(file.inlinks) desc
 ```
 
-## Worldbuilding
+# Worldbuilding
 
 DM frontmatter for worldbuilding pages is not critical, but can be helpful so worth setting where possible. 
 
