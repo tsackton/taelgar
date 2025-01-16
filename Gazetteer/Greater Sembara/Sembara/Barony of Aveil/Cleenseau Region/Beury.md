@@ -7,8 +7,8 @@ typeOf: settlement
 whereabouts: Manor of Beury
 population: 492
 pronunciation: BUH-ree
-dm_notes: color
-dm_owner: none
+dm_notes: none
+dm_owner: mike
 ---
 # Beury
 *(BUH-ree)*
@@ -52,3 +52,10 @@ _Distances:_
 * to [[Cleenseau]], 5 miles
 * to [[Dallet]], 15 miles
 * to [[Rinburg]], 55 miles
+
+%% Some color notes:
+* the second most important town in the region after Cleenseau, and the most independent and self-sufficient
+* has the feel of a "way point" lots of folks stop here briefly on the way along the road, it is the first town near the bog/haunted stretch of road (see [[East Bog]]) 
+* high  compared to its size - number of guards who help out escorting caravans along the road through the east bog
+* nonetheless clearly secondary to cleenseau
+%%

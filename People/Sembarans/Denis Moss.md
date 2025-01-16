@@ -18,4 +18,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The father of [[Abigail Moss]] and her two sisters, he was killed by spiders during the [[Second Spider Attack on Tavoise]], as was his wife and two of his daughters. 
+The father of [[Abigail Moss]] and her two sisters, he was killed by spiders during the [[Cleenseau Spider Attacks]], as was his wife and two of his daughters. 

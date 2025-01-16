@@ -1,11 +1,15 @@
 ---
 headerVersion: 2023.11.25
-tags: [event, status/cleanup/incomplete]
-name: Undead Attacks in Sembara
-DR: 1720-01-05
+tags:
+  - event
+  - status/cleanup/incomplete
+  - status/stub
+name: Zombie Plague in Cleenseau
+DR: 1720-01-06
 DR_end: 1720-02-08
 dm_notes: important
 dm_owner: mike
+campaignInfo: []
 ---
 # The Undead Attacks in Sembara
 >[!info]+ Information  
@@ -39,4 +43,12 @@ Second clusters arise Feb 3 / 4 / 5 but all very small (10 or less). Clearly muc
 Each night of the new moon is like a cresting wave, in some places, it builds and hits more, but comes later, in other places, doesn't build as much. So basically you get somewhat random things, scattered across the 3 days.
 
 Quite after Jan 15th or so (but see siege of fellburn), although widespread devastion - perhaps 10% of population dead, in Wisford, border region, Aveil. Worst in Wisford.
+%%
+
+%%
+In Cleenseau this trigged a Zombie Plague in Cleenseau
+
+Zombie baby  and deaths: Cedric (died) Oudine (died) Beatrix  (miscarried)
+Should this be an event page? Update from session notes
+
 %%

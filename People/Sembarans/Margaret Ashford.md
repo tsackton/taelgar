@@ -20,4 +20,4 @@ dm_owner: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:Clee%% Met by the [[Heroes of Cleenseau]] on January 4th, 1720 in [[Cleenseau]], the [[Manor of Cleenseau]], the [[Barony of Aveil]] %%^End%%
 
-A midwife, who was tending to [[Beatrix Thorne|Béatrix Thorne]] when the [[Zombie Plague in Cleenseau]] broke out.
+A midwife, who was tending to [[Beatrix Thorne|Béatrix Thorne]] when the [[Undead Attacks in Sembara]] broke out.

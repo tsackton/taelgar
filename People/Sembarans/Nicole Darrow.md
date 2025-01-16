@@ -16,4 +16,4 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The youngest daughter of [[Hugh Darrow]], and his favorite. She was killed during the [[Second Spider Attack on Tavoise]], but [[Hugh Darrow]] is thankful to the [[Heroes of Cleenseau]] for recovering her body. 
+The youngest daughter of [[Hugh Darrow]], and his favorite. She was killed during the [[Cleenseau Spider Attacks]], but [[Hugh Darrow]] is thankful to the [[Heroes of Cleenseau]] for recovering her body. 

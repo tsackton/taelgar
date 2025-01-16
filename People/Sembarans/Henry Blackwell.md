@@ -16,4 +16,4 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The apprentice of [[Avelina Smith]] and a talented metalworker. He died in the [[Zombie Plague in Cleenseau]].
+The apprentice of [[Avelina Smith]] and a talented metalworker. He died in the [[Undead Attacks in Sembara]].
