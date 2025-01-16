@@ -4,7 +4,7 @@ tags: [person, status/cleanup/metadata]
 name: Nimessa
 born:
 species: elemental
-ancestry: marid
+subspecies: marid
 gender: female
 whereabouts: Elemental Plane of Water
 dm_owner: tim

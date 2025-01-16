@@ -5,7 +5,7 @@ campaignInfo:
 name: Benat
 born:
 species: lizardfolk
-ancestry: salt
+subspecies: salt
 gender: male
 whereabouts: Hamri
 dm_owner: none

@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [organization]
 typeOf: family
 typeOfAlias: merchant family
-ancestory: Sembaran
+ancestry: Sembaran
 whereabouts: Embry
 dm_notes: color
 dm_owner: mike

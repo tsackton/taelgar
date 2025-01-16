@@ -7,7 +7,7 @@ campaignInfo:
 name: Azogar
 born: 1678
 species: orc
-ancestry: free
+subspecies: unchained
 gender: male
 title: Loremaster
 affiliations: [{org: People of the Rainbow, type: primary}]

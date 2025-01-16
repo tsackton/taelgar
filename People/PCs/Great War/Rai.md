@@ -4,7 +4,7 @@ tags: [pc/greatwar, person]
 name: Rai
 born:
 species: elf
-ancestry: peronar
+subspecies: peronar
 gender: male
 player: David Kong
 dm_notes: important
@@ -12,7 +12,7 @@ dm_owner: tim
 ---
 # Rai
 >[!info]+ Biographical Info  
-> A peronar [[Elves|elf]] (he/him), ([[Elven Cycle of Generations|ka]] unknown)
+> An [[Elves|elf]] (peronar) (he/him), ([[Elven Cycle of Generations|ka]] unknown)
 
 Hero of the [[Great War]]. 
 

@@ -5,7 +5,7 @@ campaignInfo: []
 name: Amaya
 born:
 species: lizardfolk
-ancestry: salt
+subspecies: salt
 gender: female
 whereabouts: Eskorola
 activeYear: 1747

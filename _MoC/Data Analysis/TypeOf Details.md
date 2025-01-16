@@ -3,6 +3,12 @@
 
 Counts of TypeOf details for various descriptive tags
 
+## People
+
+People don't use typeOf, instead use species and ancestry.
+
+See [[Person Details]]
+
 ## Groups
 
 Includes organization, culture
@@ -137,12 +143,6 @@ FLATTEN choice(
   ) AS "Status"
 SORT Status ASC, Descriptive ASC
 ```
-
-## People
-
-People don't use typeOf, instead use species and ancestry.
-
-See [[Person Details]]
 
 ## Items
 

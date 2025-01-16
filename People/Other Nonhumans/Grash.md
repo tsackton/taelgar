@@ -9,7 +9,7 @@ name: Grash
 born:
 died: 1749-01-20
 species: undead
-ancestry: skeletal
+subspecies: skeletal
 gender: male
 excludePublish: ["clee"]
 whereabouts:

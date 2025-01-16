@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-species: genie
+species: elemental
 subspecies: efreeti
 whereabouts: Elemental Plane of Fire
 dm_owner: tim

@@ -4,7 +4,7 @@ tags: [person]
 name: Itzal
 born: 1531
 species: lizardfolk
-ancestry: salt
+subspecies: salt
 gender: male
 whereabouts:
 - {type: home, location: Eskorola}
