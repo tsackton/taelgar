@@ -8,6 +8,8 @@ typeOfAlias: boat
 whereabouts: 
 - {type: home, end: 0001, location: Endless Ocean}
 - {type: away, end: 1748-04-13, location: Castrella}
+dm_owner: tim
+dm_notes: important
 ---
 # Stormdancer
 >[!info]+ Information  

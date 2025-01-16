@@ -6,6 +6,8 @@ name: Aagir's Everlight
 typeOf: wondrous item
 subTypeOf: magic
 ancestry: Dunmari
+dm_owner: none
+dm_notes: none
 ---
 # Aagir's Everlight
 >[!info]+ Information  

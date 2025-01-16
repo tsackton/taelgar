@@ -13,6 +13,8 @@ whereabouts:
 - {type: home, location: Wahacha}
 - {type: away, start: 1748-10-08, end: 1748-10-14, location: the aboleth lair east of Vermillion Isles}
 - {type: away, start: 1748-10-16, alias: sea elf village in Quanyi, location: Quanyi}
+dm_owner: none
+dm_notes: color
 ---
 # Nahto
 >[!info]+ Biographical Info  

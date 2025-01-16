@@ -11,6 +11,8 @@ ancestry:
 gender: female
 whereabouts:
 - {type: away, location: Mirror of Soul Trapping}
+dm_owner: tim
+dm_notes: important
 ---
 # Revaka
 >[!info]+ Biographical Info  

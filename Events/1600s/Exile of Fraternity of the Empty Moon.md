@@ -5,6 +5,8 @@ campaignInfo:
 name: Exile of Fraternity of the Empty Moon
 DR: 1625-04-11
 DR_end: 1625-08-14
+dm_owner: tim
+dm_notes: important
 ---
 # The Exile of Fraternity of the Empty Moon
 >[!info]+ Information

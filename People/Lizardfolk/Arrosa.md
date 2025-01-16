@@ -11,6 +11,8 @@ species: lizardfolk
 ancestry:
 gender: female
 whereabouts: Bedez
+dm_owner: none
+dm_notes: color
 ---
 # Arrosa
 >[!info]+ Biographical Info  

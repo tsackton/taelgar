@@ -5,6 +5,8 @@ name: Circlet of Foreknowledge
 typeOf: circlet
 rarity: mythical
 ancestry: elven
+dm_owner: tim
+dm_notes: important
 ---
 # The Circlet of Foreknowledge
 >[!info]+ Information

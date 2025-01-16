@@ -5,6 +5,8 @@ gender: male
 species: human
 ancestry: Urskan
 whereabouts: Zvervinka
+dm_owner: tim
+dm_notes: color
 ---
 # Fyodar
 >[!info]+ Biographical Info  

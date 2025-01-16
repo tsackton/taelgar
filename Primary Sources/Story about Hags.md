@@ -1,5 +1,7 @@
 ---
 tags: [source, status/cleanup/text]
+dm_owner: tim
+dm_notes: color
 ---
 
 %% this was originally copied from reddit; cleanup tag is to remind me to think about whether worth reformating a bit into a specific Taelgar cultural context at some point%%

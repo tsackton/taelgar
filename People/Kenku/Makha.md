@@ -11,6 +11,8 @@ ancestry: Islander
 gender: male
 whereabouts: Wahacha
 pronunciation: MAH-kah
+dm_owner: none
+dm_notes: color
 ---
 # Makha
 *(MAH-kah)*

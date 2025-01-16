@@ -6,6 +6,8 @@ name: Analadin
 typeOf: staff
 rarity: unique
 whereabouts: Beryl
+dm_owner: shared
+dm_notes: important
 ---
 # Analadin
 >[!info]+ Information

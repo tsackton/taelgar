@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [item/other]
 typeOf: book
+dm_owner: none
+dm_notes: color
 ---
 # The Legendary Gates of Kenzo
 >[!info]+ Information  

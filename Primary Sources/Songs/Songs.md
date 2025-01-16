@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [meta]
 name: Songs of Taelgar
+dm_owner: none
+dm_notes: none
 ---
 # Songs of Taelgar
 

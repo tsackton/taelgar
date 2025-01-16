@@ -5,6 +5,8 @@ species: giant
 subspecies: frost
 whereabouts: Vindristjarna
 gender: male
+dm_owner: tim
+dm_notes: color
 ---
 # Algerd
 >[!info]+ Biographical Info  

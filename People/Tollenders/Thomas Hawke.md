@@ -10,6 +10,8 @@ ancestry: Tollender
 gender: male
 affiliations: [University of Tollen]
 whereabouts: Tollen
+dm_owner: tim
+dm_notes: color
 ---
 # Thomas Hawke
 >[!info]+ Biographical Info  

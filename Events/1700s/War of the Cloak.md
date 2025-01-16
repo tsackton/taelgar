@@ -9,6 +9,8 @@ DR: 1748-11-27
 DR_end: 1749-01-20
 typeOf: war
 whereabouts: Xurkhaz
+dm_owner: tim
+dm_notes: important
 ---
 # The War of the Cloak
 >[!info]+ Information

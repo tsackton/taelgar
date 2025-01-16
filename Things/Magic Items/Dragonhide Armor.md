@@ -6,6 +6,8 @@ name: Dragonhide Armor
 typeOf: armor
 subTypeOf: magic
 ancestry: Urskan
+dm_owner: none
+dm_notes: none
 ---
 # Dragonhide Armor
 >[!info]+ Information  

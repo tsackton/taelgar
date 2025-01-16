@@ -10,6 +10,8 @@ died: 1748
 whereabouts:
 - {type: home, location: Skaerhem}
 - {type: home, start: 1737, location: Vetta}
+dm_owner: none
+dm_notes: color
 ---
 # Jorma
 >[!info]+ Biographical Info

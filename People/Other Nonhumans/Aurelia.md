@@ -10,6 +10,8 @@ species: centaur
 gender: female
 whereabouts:
 - {type: home, start: 1733, location: Tollen}
+dm_owner: none
+dm_notes: none
 ---
 # Aurelia
 >[!info]+ Biographical Info  

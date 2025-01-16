@@ -11,6 +11,8 @@ ancestry:
 gender: nonbinary
 whereabouts:
 - {type: away, start: 1747-07-23, location: Hamri}
+dm_owner: tim
+dm_notes: color
 ---
 # Illius
 >[!info]+ Biographical Info  

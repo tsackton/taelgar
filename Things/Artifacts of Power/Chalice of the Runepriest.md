@@ -13,6 +13,8 @@ whereabouts:
 - {type: away, start: 1570, end: 1748-10-04, location: lost} 
 - {type: away, start: 1748-10-05, end: 9999, location: Tharn Todor}
 #dates are approx prior to 1748
+dm_owner: tim
+dm_notes: important
 ---
 # The Chalice of the Runepriest
 >[!info]+ Information  

@@ -4,6 +4,8 @@ tags: [item/other]
 typeOf: book
 ancestry: Hkaran
 name: Journey of the Souls
+dm_owner: none
+dm_notes: color
 ---
 # The Journey of the Souls
 >[!info]+ Information  

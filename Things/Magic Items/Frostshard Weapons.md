@@ -6,6 +6,8 @@ typeOf: weapon
 subtypeOf: magic
 ancestry: Urskan
 ddbLink: https://www.dndbeyond.com/magic-items/5400-weapon-1
+dm_owner: none
+dm_notes: none
 ---
 # Frostshard Weapons
 >[!info]+ Information  

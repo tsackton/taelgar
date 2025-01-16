@@ -7,6 +7,8 @@ subspecies: black dragon
 gender: female
 whereabouts:
 - {type: home, location: ~Circular Island~}
+dm_owner: tim
+dm_notes: important
 ---
 # Ra'ghemdros
 >[!info]+ Biographical Info  

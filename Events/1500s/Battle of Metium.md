@@ -5,6 +5,8 @@ partOf: Conclave War
 DR: 1556-07-23
 DR_end: 1556-07-26
 typeOf: battle
+dm_owner: none
+dm_notes: important
 ---
 # The Battle of Metium
 >[!info]+ Information  

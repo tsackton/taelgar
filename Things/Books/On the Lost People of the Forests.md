@@ -3,11 +3,15 @@ headerVersion: 2023.11.25
 tags: [item/other]
 name: On the Lost People of the Forests
 typeOf: book
+dm_owner: none
+dm_notes: color
 ---
 # The On the Lost People of the Forests
 >[!info]+ Information  
 > (book)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%% double check to make sure I have all  text about this book here %%
 
 Written by the scholar [[Gnaeus]], of [[Chardon]], disgraced for using enchanment magic in his research. 
 

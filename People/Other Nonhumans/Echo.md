@@ -4,6 +4,8 @@ tags: [person]
 species: talking fruit bat
 gender: female
 whereabouts: Awakened Jungle
+dm_owner: tim
+dm_notes: important
 ---
 # Echo
 >[!info]+ Biographical Info  

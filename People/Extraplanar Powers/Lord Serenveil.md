@@ -4,6 +4,8 @@ tags: [person]
 species: fey
 subspecies: archfey
 gender: male
+dm_owner: tim
+dm_notes: important
 ---
 # Lord Serenveil
 >[!info]+ Biographical Info  

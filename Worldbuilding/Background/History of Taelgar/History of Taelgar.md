@@ -1,5 +1,7 @@
 ---
 tags: [background]
+dm_owner: shared
+dm_notes: important
 ---
 
 %%rewrite to capture discord conversation on refactoring major "ages" of the world and update lore on downfall, etc%%

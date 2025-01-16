@@ -11,6 +11,8 @@ species: elf
 ancestry:
 gender: female
 whereabouts: Erelion
+dm_owner: tim
+dm_notes: color
 ---
 # Ealwen
 *(AY-ahl-wen)*

@@ -8,6 +8,8 @@ ancestry: Urskan
 species: human
 pronunciation: YEH-lah DRask
 whereabouts: Zvervinka
+dm_owner: tim
+dm_notes: important
 ---
 # Jela Drask
 *(YEH-lah DRask)*

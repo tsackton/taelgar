@@ -8,6 +8,8 @@ species: human
 ancestry: Deno'qai
 gender: male
 whereabouts: Bek'eni village
+dm_owner: none
+dm_notes: color
 ---
 # Zaro
 >[!info]+ Biographical Info  

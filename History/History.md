@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [background]
 name: A Brief History of Taelgar
+dm_owner: shared
+dm_notes: none
 ---
 # A Brief History of Taelgar
 

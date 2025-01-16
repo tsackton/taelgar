@@ -6,6 +6,8 @@ name: Égnir
 species: elf
 gender: male
 image: egnir-small.png
+dm_owner: tim
+dm_notes: important
 ---
 # Égnir
 

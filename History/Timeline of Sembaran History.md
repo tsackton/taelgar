@@ -4,6 +4,8 @@ displayDefaults: {defArt: a}
 campaignInfo: []
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
+dm_owner: shared
+dm_notes: important
 ---
 %% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up %%
 ## The Drankorian Conquest

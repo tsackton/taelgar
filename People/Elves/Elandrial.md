@@ -13,6 +13,8 @@ whereabouts:
 - { type: away }
 affiliations: [Fides Lucaris]
 pronunciation: eh-LAN-dree-ahl
+dm_owner: tim
+dm_notes: important
 ---
 # Elandrial
 *(eh-LAN-dree-ahl)*

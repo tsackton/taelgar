@@ -14,6 +14,8 @@ affiliations: [Dyer's Guild, {org: the Chapmans, type: primary, format: "<org:T>
 whereabouts:
 - {type: home, location: Tollen}
 - {type: away, start: '1748-12-30', end: '1748-12-30', location: Dyer's Guildhall}
+dm_owner: none
+dm_notes: color
 ---
 # Captain Jane Chapman
 >[!info]+ Biographical Info  

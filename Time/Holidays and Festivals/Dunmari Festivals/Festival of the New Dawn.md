@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [holiday, religion/fivesiblings]
 name: Festival of the New Dawn
 fc-date: {day: 23, month: 1}
+dm_owner: tim
+dm_notes: color
 ---
 # Festival of the New Dawn
 

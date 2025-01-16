@@ -8,6 +8,8 @@ species: human
 ancestry:
 gender: male
 died: 1545
+dm_owner: tim
+dm_notes: important
 ---
 # Airion
 >[!info]+ Biographical Info  

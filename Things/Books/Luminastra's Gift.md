@@ -5,6 +5,8 @@ typeOf: book
 typeOfAlias: play
 ancestry: Tollender
 displayDefaults: {defArt: ""}
+dm_owner: none
+dm_notes: color
 ---
 # Luminastra's Gift
 >[!info]+ Information  

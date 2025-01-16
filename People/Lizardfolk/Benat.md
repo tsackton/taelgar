@@ -8,7 +8,10 @@ species: lizardfolk
 ancestry: salt
 gender: male
 whereabouts: Hamri
+dm_owner: none
+dm_notes: color
 ---
+
 # Benat
 >[!info]+ Biographical Info  
 > A salt [[Lizardfolk|lizardfolk]] (he/him)  

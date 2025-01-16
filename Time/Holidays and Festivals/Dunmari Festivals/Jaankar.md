@@ -4,6 +4,8 @@ tags: [holiday, religion/fivesiblings]
 fc-date: {day: 21, month: 7}
 fc-end: {day: 22, month: 7}
 pronunciation: JAWN-kar
+dm_owner: tim
+dm_notes: color
 ---
 # Jaankar
 *(JAWN-kar)*

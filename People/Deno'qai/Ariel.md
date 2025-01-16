@@ -10,6 +10,8 @@ gender: female
 whereabouts:
 - {type: home, location: Forest of Dreams, alias: Shu'anra village in the Forest of Dreams }
 - {type: home, location: Te'kula village }
+dm_owner: none
+dm_notes: color
 ---
 # Ariel
 >[!info]+ Biographical Info

@@ -10,6 +10,8 @@ gender: nonbinary
 aliases: [Egon, Lord Egon]
 whereabouts:
 - {type: home, location: Shimmersong}
+dm_owner: tim
+dm_notes: important
 ---
 # Lightdancer
 >[!info]+ Biographical Info  

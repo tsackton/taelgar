@@ -6,6 +6,8 @@ DR: 1505
 DR_end: 1511
 name: Vimfrost's War
 typeOf: war
+dm_owner: tim
+dm_notes: important
 ---
 # Vimfrost's War
 >[!info]+ Information  

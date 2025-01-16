@@ -11,6 +11,8 @@ gender:
 whereabouts:
 - {type: home, location: Elemental Plane of Air}
 - {type: away, start: 1000, end: 1749-01-08, location: 'Elemental Forge'} # start date is unclear
+dm_owner: tim
+dm_notes: important
 ---
 # Sh’shethis
 >[!info]+ Biographical Info
