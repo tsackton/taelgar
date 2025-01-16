@@ -5,6 +5,8 @@ displayDefaults: {defArt: ''}
 name: Lake Valandros
 typeOf: lake
 whereabouts: Chardonian Empire
+dm_notes: color
+dm_owner: tim
 ---
 # Lake Valandros
 >[!info]+ Information

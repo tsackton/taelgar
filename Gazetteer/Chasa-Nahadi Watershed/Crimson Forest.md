@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: forest
 whereabouts: Ainumarya
+dm_notes: color
+dm_owner: tim
 ---
 # The Crimson Forest
 >[!info]+ Information

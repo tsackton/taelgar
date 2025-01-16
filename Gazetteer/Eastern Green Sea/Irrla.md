@@ -6,6 +6,8 @@ typeOf: island
 typeOfAlias: large island
 whereabouts: Green Sea
 pronunciation: EAR-la
+dm_notes: important
+dm_owner: tim
 ---
 # Irrla
 *(EAR-la)*

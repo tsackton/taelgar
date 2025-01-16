@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/cleanup/text]
 name: Far South
 typeOf: region
 whereabouts: 
 - {type: home, location: Taelgar, linkText: "in" }
+dm_notes: important
+dm_owner: tim
 ---
 # The Far South
 >[!info]+ Information

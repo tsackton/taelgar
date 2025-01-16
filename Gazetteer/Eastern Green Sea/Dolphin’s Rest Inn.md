@@ -4,6 +4,8 @@ tags: [place]
 name: Dolphin’s Rest Inn
 typeOf: inn
 whereabouts: Wahacha
+dm_notes: color
+dm_owner: none
 ---
 # The Dolphin’s Rest Inn
 >[!info]+ Information  

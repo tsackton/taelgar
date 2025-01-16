@@ -5,6 +5,8 @@ name: Kayan
 typeOf: river
 whereabouts: Elderwood
 pronunciation: KAH-yan
+dm_notes: color
+dm_owner: none
 ---
 # Kayan
 *(KAH-yan)*

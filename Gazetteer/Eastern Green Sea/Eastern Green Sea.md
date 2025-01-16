@@ -5,6 +5,8 @@ campaignInfo:
 name: Eastern Green Sea
 typeOf: region
 whereabouts: Green Sea
+dm_notes: important
+dm_owner: tim
 ---
 # The Eastern Green Sea
 >[!info]+ Information  

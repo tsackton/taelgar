@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [organization]
 ancestry: Hkaran
 typeOf: cult
+dm_notes: color
+dm_owner: none
 ---
 # Chainshroud
 >[!info]+ Information  

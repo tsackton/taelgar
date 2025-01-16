@@ -5,6 +5,8 @@ typeOf: settlement
 typeOfAlias: village
 ancestry: Deno'qai
 whereabouts: West Coast Region
+dm_notes: color
+dm_owner: tim
 ---
 # Raha
 >[!info]+ Information  
