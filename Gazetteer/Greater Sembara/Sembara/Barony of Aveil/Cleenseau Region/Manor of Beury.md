@@ -4,6 +4,8 @@ tags: [place]
 typeOf: manor
 created: 1562
 whereabouts: Barony of Aveil
+dm_owner: none
+dm_notes: none
 ---
 # The Manor of Beury
 >[!info]+ Information  

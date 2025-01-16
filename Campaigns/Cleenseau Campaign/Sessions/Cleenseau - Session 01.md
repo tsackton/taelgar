@@ -32,13 +32,13 @@ DR_end: 1719-10-21
 * (DR:: 1719-10-19) Viepuck arrives in [[Cleenseau]], and also takes a room at [[The Fox's Flagon]]
 * (DR:: 1720-10-20) Spiders attack the village of [[Taviose]]; the party saves the day
 * (DR:: 1719-10-20) The party dines with the Essford household
-* (DR:: 1719-10-21), predawn: The party is brought news of the [[Second Spider Attack on Tavoise]]
+* (DR:: 1719-10-21), predawn: The party is brought news of the [[Cleenseau Spider Attacks]]
 ## Narrative
 Our session begins on a rainy evening in October with the party scattered -- [[Celyn]] and [[Viepuck]] at the [[The Fox's Flagon]] and [[Izgil Moonseeker]] and [[Robin of Abenfyrd]] camped on the [[South Watch Road]].
 
 [[Celyn]] and [[Viepuck]] play dice for a bit in the evening, and hear some rumors about the [[Tragic Flood of the River Enst|tragic flood]]. In the morning, [[Celyn]] wanders to the fields on the north side of town while Najeer heads to [[Taviose]] to discuss something mysterious with [[Brot Starsearcher]]. 
 
-[[Izgil Moonseeker]] and [[Robin of Abenfyrd]] encounter each other on the road, just for long enough to say hello, when they spy the [[First Spider Attack on Tavoise]] in progress.
+[[Izgil Moonseeker]] and [[Robin of Abenfyrd]] encounter each other on the road, just for long enough to say hello, when they spy the [[Cleenseau Spider Attacks]] in progress.
 
 The party meets in [[Perrin Voclain|Perrin's]] house after the spider attack, and introduces themselves. [[Izgil Moonseeker]] is here seeking [[Brot Starsearcher]] and their particular expertise in telescope making. [[Robin of Abenfyrd]] is looking for a bridge, and [[Celyn]] is drifting on the wind, he says. [[Viepuck]] also seems to have some business with [[Brot Starsearcher]] but what it is is not clear.
 
@@ -48,7 +48,7 @@ The dinner is a quiet and awkward affair as none of the Essford family attends. 
 
 At the dinner the party does meet a number of town notables: [[Ysabel]], the sheriff; [[Jonathon Henwyn]], the steward; [[Anselm]], the administrator of [[Temple of the Warlord in Cleenseau|the Warlod's Temple]]; [[Eremon]], an acolyte of [[The Night Queen]] and confident of the Essford family; [[Conrad]], [[Anselm|Anselm's]] assistant, and [[Sarabeth]], a senior guardswoman and veteran of the [[Army of the West]]. 
 
-The party is awoken in the pre-dawn with news of the [[Second Spider Attack on Tavoise]] and the session ends as the investigation completes and the party debates what to do next.
+The party is awoken in the pre-dawn with news of the [[Cleenseau Spider Attacks]] and the session ends as the investigation completes and the party debates what to do next.
 
 > [!INFO]- Izgil's Conversation with Brot (Matt Only)
 >Izgil and Brot mostly discuss telescopes but Brot does take Izgil aside at one point and whisper that he should ask Najeer about the egg. What that means isn't very clear, but Brot does warn Izgil that Najeer might not want to discuss it.

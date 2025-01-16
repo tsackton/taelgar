@@ -17,9 +17,9 @@ tags: [timeline]
 * October 16th: The [[Tragic Flood of the River Enst|River Enst floods]] 
 * October 17th: [[Viepuck]] arrives in [[Cleenseau]], disguised as [[Viepuck|Najeer]]
 * October 19th: [[Celyn]] arrives in [[Cleenseau]] 
-* October 20th, AM: [[Izgil Moonseeker|Izgil]] and [[Robin of Abenfyrd|Robin]] arrive in [[Taviose]] during the [[First Spider Attack on Tavoise|spider attack]]
+* October 20th, AM: [[Izgil Moonseeker|Izgil]] and [[Robin of Abenfyrd|Robin]] arrive in [[Taviose]] during the [[Cleenseau Spider Attacks|spider attack]]
 * October 20th, PM: The four travelers are invited to an awkward dinner party at [[Essford Manor]]
-* October 21st, pre-dawn: The [[Second Spider Attack on Tavoise|spiders attack]] [[Taviose]] again
+* October 21st, pre-dawn: The [[Cleenseau Spider Attacks|spiders attack]] [[Taviose]] again
 * October 21st, dawn: the party follow the spiders into the woods
 * October 21st, day: investigation of the spiders
 * October 21st, evening: Ettercap killed

@@ -33,5 +33,5 @@ During the [[Battle Against Wakog]] he was notably unhelpful and did not wish to
 %%^End%%
 
 %%^Date:1720%%
-He fled his manor after the [[Zombie Plague in Cleenseau]], in part because he was convinced some of the misfortune of the Asa family was falling on him, and partly because he was scared and did not want to deal with the [[Undead Attacks in Sembara]].
+He fled his manor after the [[Undead Attacks in Sembara]], in part because he was convinced some of the misfortune of the Asa family was falling on him, and partly because he was scared and did not want to deal with the [[Undead Attacks in Sembara]].
 %%^End%%

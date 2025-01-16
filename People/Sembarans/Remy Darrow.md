@@ -22,4 +22,4 @@ dm_owner: none
 
 ![[remy-darrow.png|right|320]]Grandpa Remy is well-liked for his off-color jokes and his fondness for apple brandy. He was saved from death by [[Izgil Moonseeker|Izgil's]] magic and has become one of the biggest boosters of the [[Heroes of Cleenseau]]. 
 
-He is the patriarch of the Darrow family, who are well known for charcoal making. His granddaughter [[Nicole Darrow]] died in the [[Second Spider Attack on Tavoise]]. His the father of [[Hugh Darrow]].
+He is the patriarch of the Darrow family, who are well known for charcoal making. His granddaughter [[Nicole Darrow]] died in the [[Cleenseau Spider Attacks]]. His the father of [[Hugh Darrow]].

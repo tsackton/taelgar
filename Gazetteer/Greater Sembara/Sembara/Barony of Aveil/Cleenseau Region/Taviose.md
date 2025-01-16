@@ -7,6 +7,8 @@ typeOf: settlement
 whereabouts: Manor of Cleenseau
 population: 30
 pronunciation: Ta-vi-ose
+dm_notes: color
+dm_owner: mike
 ---
 # Taviose
 *(Ta-vi-ose)*
@@ -20,7 +22,7 @@ A small hamlet in the [[Cleenseau Region]] on the edge of the [[Cleenseau Wood]]
 There is a small shrine to the Wildling attached to Perrin's house, with several ancient oak trees, which mostly serves as a burial plot for the hamlet. Perrin tends to this shrine.
 
 %%^Date:1720%%
-In the late fall of 1719, was the site of [[First Spider Attack on Tavoise|several]] [[Second Spider Attack on Tavoise|spider attacks]] from giant spiders that came from the [[Cleenseau Wood]]. [[Perrin Voclain]] and the [[Heroes of Cleenseau]] were instrumental in saving the hamlet, which was abandoned for about a week in late 1719. Despite this, the town lost about of third of it's population. 
+In the late fall of 1719, was the site of [[Cleenseau Spider Attacks|several]] [[Cleenseau Spider Attacks|spider attacks]] from giant spiders that came from the [[Cleenseau Wood]]. [[Perrin Voclain]] and the [[Heroes of Cleenseau]] were instrumental in saving the hamlet, which was abandoned for about a week in late 1719. Despite this, the town lost about of third of it's population. 
 
 The ongoing corruption from these spiders later caused several orchards and timber groves to become corrupted and die, until healed by [[Robin of Abenfyrd|Robin]].
 %%^End%%

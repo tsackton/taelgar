@@ -13,7 +13,7 @@ dm_notes: important
 > An adventuring party
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-A group of four fate-blown adventures who met in [[Taviose]] during the [[First Spider Attack on Tavoise]]. Since then, have become well-known in the region. 
+A group of four fate-blown adventures who met in [[Taviose]] during the [[Cleenseau Spider Attacks]]. Since then, have become well-known in the region. 
 
 The heroes consist of:
 

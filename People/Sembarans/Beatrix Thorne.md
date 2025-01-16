@@ -25,4 +25,4 @@ dm_owner: mike
 
 ![[beatrix.png|right|320]]A solider in the Bridge Patrol of the [[Army Garrison of Cleenseau|Cleenseau Garrison]] of the [[Army of the West]], she accompanied the [[Heroes of Cleenseau]] into the [[Cleenseau Wood]] following a trail of spiders. 
 
-After her recent marriage to [[Gabriel Thorne]], she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Zombie Plague in Cleenseau]].
+After her recent marriage to [[Gabriel Thorne]], she left the army and joined the [[Lord's Guard of Cleenseau]]. She miscarried during the [[Undead Attacks in Sembara]].
