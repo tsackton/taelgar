@@ -4,8 +4,6 @@ tags: [item/equipment, status/cleanup/text, status/cleanup/image]
 typeOf: staff
 whereabouts: Kenzo
 rarity: unique
-dm_notes: important
-dm_owner: tim
 ---
 # The Staff of the Forest Soul
 >[!info]+ Information  

@@ -19,8 +19,8 @@ where (
 !contains(tags, "timeline") and 
 !contains(tags, "source") and 
 !contains(tags, "holiday") and
-!contains(tags, "religion") and
 !contains(tags, "culture")
 )
 SORT split(file.path,"/",1)[0], length(file.inlinks) DESC
 ```
+
