@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [background]
 name: Elven Cycle of Generations
 aliases: [ka]
+dm_owner: shared
+dm_notes: important
 ---
 # Elven Cycle of Generations
 

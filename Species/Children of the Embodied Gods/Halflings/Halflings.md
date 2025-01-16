@@ -2,6 +2,8 @@
 tags: [species, status/cleanup/text]
 name: Halflings
 aliases: [halfling, Halfling, halflings, Halflings]
+dm_owner: none
+dm_notes: color
 ---
 # Halflings
 

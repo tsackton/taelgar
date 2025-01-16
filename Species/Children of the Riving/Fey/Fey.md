@@ -1,5 +1,7 @@
 ---
 tags: [species, status/cleanup/text]
+dm_owner: shared
+dm_notes: important
 ---
 # Fey
 

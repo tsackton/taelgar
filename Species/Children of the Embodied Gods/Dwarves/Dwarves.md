@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [species, status/cleanup/text]
 name: Dwarves
 aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
+dm_owner: shared
+dm_notes: color
 ---
 # Dwarves
 

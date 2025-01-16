@@ -2,6 +2,8 @@
 tags: [status/stub, species]
 name: Humans
 aliases: [human]
+dm_owner: none
+dm_notes: important
 ---
 # Humans
 
