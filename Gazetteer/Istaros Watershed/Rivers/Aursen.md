@@ -5,6 +5,8 @@ name: Aursen
 typeOf: river
 whereabouts: Istaros Watershed
 aliases: [Aursen River, River Aursen]
+dm_owner: none
+dm_notes: none
 ---
 # Aursen
 >[!info]+ Information  

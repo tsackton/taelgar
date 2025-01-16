@@ -4,6 +4,8 @@ tags: [place]
 name: Western Marches
 typeOf: region
 whereabouts: Sembara
+dm_owner: mike
+dm_notes: color
 ---
 # The Western Marches
 >[!info]+ Information  

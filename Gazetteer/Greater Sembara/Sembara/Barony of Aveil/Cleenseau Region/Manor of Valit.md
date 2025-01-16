@@ -4,6 +4,8 @@ tags: [place]
 typeOf: manor
 created: 1490
 whereabouts: Barony of Aveil
+dm_owner: mike
+dm_notes: color
 ---
 
 # The Manor of Valit

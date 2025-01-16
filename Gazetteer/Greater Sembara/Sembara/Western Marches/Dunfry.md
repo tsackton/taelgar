@@ -5,6 +5,8 @@ name: Dunfry
 typeOf: settlement
 typeOfAlias: town
 whereabouts: Barony of Dunfry
+dm_owner: mike
+dm_notes: color
 ---
 # Dunfry
 >[!info]+ Information  

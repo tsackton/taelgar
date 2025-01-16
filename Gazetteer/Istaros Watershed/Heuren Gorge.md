@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: gorge
 whereabouts: South Dunmar Road
+dm_owner: none
+dm_notes: none
 ---
 # The Heuren Gorge
 >[!info]+ Information  

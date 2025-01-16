@@ -7,6 +7,8 @@ whereabouts: Manor of Valit
 population: 249
 pronunciation: Val-le
 typeOf: settlement
+dm_owner: mike
+dm_notes: important
 ---
 # Valit
 *(Val-le)*

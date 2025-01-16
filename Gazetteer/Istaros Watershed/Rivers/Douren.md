@@ -5,6 +5,8 @@ name: Douren
 typeOf: river
 whereabouts: Istaros Watershed
 aliases: [River Douren, Douren River]
+dm_owner: none
+dm_notes: none
 ---
 # Douren
 >[!info]+ Information

@@ -5,6 +5,8 @@ name: Valmont
 typeOf: river
 whereabouts: Istaros Watershed
 aliases: [River Valmont]
+dm_owner: none
+dm_notes: none
 ---
 # Valmont
 >[!info]+ Information

@@ -4,6 +4,8 @@ tags: [place]
 name: Straits of Cymea
 typeOf: strait
 whereabouts: Western Green Sea
+dm_owner: none
+dm_notes: none
 ---
 # The Straits of Cymea
 >[!info]+ Information  

@@ -4,6 +4,8 @@ tags: [place, status/needswork/old]
 name: Northlands
 typeOf: region
 whereabouts: Sembara
+dm_owner: none
+dm_notes: none
 ---
 # Northlands
 >[!info]+ Information  

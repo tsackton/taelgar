@@ -5,6 +5,8 @@ name: Masance
 typeOf: river
 whereabouts: Istaros Watershed
 aliases: [River Masance, Masance River]
+dm_owner: none
+dm_notes: none
 ---
 # Masance
 >[!info]+ Information
