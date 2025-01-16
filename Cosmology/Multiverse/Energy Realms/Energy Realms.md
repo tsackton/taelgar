@@ -5,6 +5,8 @@ displayDefaults: {defArt: the}
 typeOf: group of planes
 whereabouts: 
 - {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
+dm_owner: tim
+dm_notes: important
 ---
 # The Energy Realms
 >[!info]+ Information  

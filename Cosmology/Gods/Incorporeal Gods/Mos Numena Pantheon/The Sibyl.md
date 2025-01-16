@@ -5,6 +5,8 @@ displayDefaults: {defArt: ''}
 name: The Sibyl
 aliases: [Sibyl]
 gender: female
+dm_owner: none
+dm_notes: none
 ---
 # The Sibyl
 >[!info]+ Summary  

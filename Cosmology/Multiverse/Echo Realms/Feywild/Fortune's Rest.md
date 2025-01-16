@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: Feywild
 displayDefaults: {defArt: ""}
 typeOf: realm
+dm_owner: tim
+dm_notes: color
 ---
 # Fortune's Rest
 >[!info]+ Information  

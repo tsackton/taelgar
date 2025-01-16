@@ -4,6 +4,8 @@ aliases: [Stoneworker, The Stoneworker]
 gender: female
 tags: [deity, religion/dwarven]
 pronunciation: tar-BAH-kah
+dm_owner: none
+dm_notes: none
 ---
 # Tarbaka
 *(tar-BAH-kah)*

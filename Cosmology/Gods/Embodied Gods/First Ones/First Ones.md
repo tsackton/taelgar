@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 displayDefaults: {defArt: "the"}
 tags: [deity, religion/halflings]
+dm_owner: none
+dm_notes: color
 ---
 # The First Ones
 

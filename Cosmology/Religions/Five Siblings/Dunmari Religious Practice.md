@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
 tags: [religion/fivesiblings, background]
+dm_owner: tim
+dm_notes: color
 ---
 # Dunmari Religious Practice
 

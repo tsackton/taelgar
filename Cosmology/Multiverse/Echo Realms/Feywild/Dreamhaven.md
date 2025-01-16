@@ -4,6 +4,8 @@ tags: [place]
 typeOf: realm
 ancestry: fey
 whereabouts: Feywild
+dm_owner: tim
+dm_notes: important
 ---
 # Dreamhaven
 >[!info]+ Information

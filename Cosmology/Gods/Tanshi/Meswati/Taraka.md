@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 pronunciation: TAH-rah-kah
+dm_owner: none
+dm_notes: none
 ---
 # Taraka
 *(TAH-rah-kah)*

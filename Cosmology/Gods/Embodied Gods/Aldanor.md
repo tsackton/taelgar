@@ -1,6 +1,8 @@
 ---
 tags: [deity, status/stub]
 affiliations: [elves]
+dm_owner: shared
+dm_notes: none
 ---
 
 %% not sure how much is really canonically invented here, needs some thought %%

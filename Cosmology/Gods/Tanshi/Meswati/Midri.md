@@ -2,7 +2,10 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 pronunciation: MID-ree
+dm_owner: none
+dm_notes: none
 ---
+
 # Midri
 *(MID-ree)*
 

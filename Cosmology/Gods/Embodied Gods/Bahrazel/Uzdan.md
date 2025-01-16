@@ -4,6 +4,8 @@ aliases: [Ruler, The Ruler]
 gender: male
 tags: [deity, religion/dwarven]
 pronunciation: UZ-dahn
+dm_owner: none
+dm_notes: none
 ---
 # Uzdan
 *(UZ-dahn)*

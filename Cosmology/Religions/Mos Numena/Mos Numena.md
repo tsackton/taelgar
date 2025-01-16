@@ -2,6 +2,8 @@
 tags: [religion/mosnumena, background, status/check/tim, status/check/mike]
 name: Mos Numena
 aliases: [Eight Divines]
+dm_owner: shared
+dm_notes: important
 ---
 # Mos Numena
 

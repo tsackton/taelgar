@@ -4,6 +4,8 @@ tags: [deity, religion/dwarven]
 aliases: [Warrior, The Warrior]
 gender: male
 pronunciation: AH-zahr
+dm_owner: none
+dm_notes: none
 ---
 # Azar
 *(AH-zahr)*

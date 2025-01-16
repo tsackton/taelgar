@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/kestavo, status/needswork/old]
 gender: female
+dm_owner: none
+dm_notes: none
 ---
 # Besla
 >[!info]+ Summary  

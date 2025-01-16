@@ -4,6 +4,8 @@ aliases: [Farmer, The Farmer]
 pronunciation: OSH-keer
 tags: [deity, religion/dwarven]
 gender: male
+dm_owner: none
+dm_notes: none
 ---
 # Oshkir
 *(OSH-keer)*

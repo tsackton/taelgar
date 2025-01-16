@@ -5,6 +5,8 @@ tags: [deity, religion/dwarven]
 gender: female
 name: Fanrukel
 pronunciation: FAN-roo-kel
+dm_owner: none
+dm_notes: none
 ---
 # Fanrukel
 *(FAN-roo-kel)*

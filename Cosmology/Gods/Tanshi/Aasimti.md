@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi, status/cleanup/text]
 pronunciation: ah-SEEM-tee
+dm_owner: tim
+dm_notes: color
 ---
 # Aasimti
 *(ah-SEEM-tee)*

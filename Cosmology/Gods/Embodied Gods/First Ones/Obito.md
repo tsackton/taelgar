@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 pronunciation: oh-BEE-toh
 tags: [deity, religion/halflings]
 gender: enby
+dm_owner: none
+dm_notes: color
 ---
 # Obito
 *(oh-BEE-toh)*

@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/stub]
 whereabouts: Feywild
 typeOf: realm
+dm_owner: none
+dm_notes: color
 ---
 # Wildrun
 >[!info]+ Information  

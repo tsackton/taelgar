@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity]
 displayDefaults: {defArt: "the"}
+dm_owner: shared
+dm_notes: important
 ---
 # The Fox and Hunter
 

@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/tanshi]
 pronunciation: nee-SEER
+dm_owner: none
+dm_notes: none
 ---
 # Nisir
 *(nee-SEER)*

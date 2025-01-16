@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [status/check/name, place]
 typeOf: realm
 whereabouts: Feywild
+dm_owner: none
+dm_notes: none
 ---
 # The ~Talking Animals Northern Fey Realm~
 >[!info]+ Information  

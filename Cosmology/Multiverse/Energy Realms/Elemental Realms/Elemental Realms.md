@@ -5,6 +5,8 @@ displayDefaults: {defArt: the, wHome: "<typeof:UA> in <home>"}
 typeOf: group of planes
 whereabouts: 
 - {type: home, location: Energy Realms, wHome: "A <typeOf> in the <home:1s>"}
+dm_owner: tim
+dm_notes: important
 ---
 # The Elemental Realms
 >[!info]+ Information  
