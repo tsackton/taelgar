@@ -5,7 +5,7 @@ campaignInfo:
 name: Trok
 born:
 species: lizardfolk
-ancestry: salt
+subspecies: salt
 gender: male
 player: Eric Rosenbaum
 affiliations:

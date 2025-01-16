@@ -5,7 +5,8 @@ campaignInfo:
 - {campaign: DuFr, date: 1748-11-01, type: met}
 name: Illaran
 born:
-species: korred
+species: fey
+subspecies: korred
 ancestry:
 gender: male
 whereabouts: Crystal Peak

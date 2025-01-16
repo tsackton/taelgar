@@ -5,7 +5,7 @@ name: Shoal
 born: 1652
 ka: 37
 species: elf
-ancestry: sea
+subspecies: sea
 gender: male
 player: Phil Grayson
 whereabouts:

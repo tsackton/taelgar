@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [pc/companion, person, status/cleanup/incomplete]
 name: Willow Wind
 species: fox
-ancestry: spirit
+subspecies: spirit
 gender: male
 player: Mike Sackton
 dm_owner: mike
