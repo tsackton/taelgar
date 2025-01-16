@@ -27,7 +27,7 @@ The [[Dunmar Fellowship]] returns to [[Tokra]], assists in archiving lore, and p
 - [[Kenzo]] receives 10 scrolls from [[Saka]] to collect Dunmari stories for the [[Hall of Stories]].
 - The party returns to [[Tokra]], receives messages, and reunites with [[Riswynn]].
 - [[Delwath]] reassures [[Fallthra Hardstone]] about Dag's dreams; [[Govir]] shares findings on the [[Fraternity of the Empty Moon]].
-- [[Govir]] gains support from [[Ardan]] to reorganize the Archives with additional resources.
+- [[Govir]] gains support from [[Ardan]] to reorganize the [[Archives]] with additional resources.
 - [[Kaleha]] plans to execute the captured werewolf; the party prepares to leave for [[Darba]], tasked with escorting [[Johar]] on Speaker [[Lara]]'s request.
 
 ### Timeline
@@ -35,7 +35,7 @@ The [[Dunmar Fellowship]] returns to [[Tokra]], assists in archiving lore, and p
 - (DR:: 1748-07-07): Travel south to [[Tokra]].
 - (DR:: 1748-07-08): Travel south to [[Tokra]].
 - (DR:: 1748-07-08), evening: Arrive in [[Tokra]]. Reunite with [[Riswynn]] at [[Kirian's]] for dinner. [[Kenzo]] listens to [[Kirian]]'s life [[Kirian's Story|story]].
-- (DR:: 1748-07-09): Speak with [[Hardstones]] and with [[Govir]] at the archives. Speak with [[Kaleha]]. Monsoon rains arrive in [[Tokra]]. Move to monastery.
+- (DR:: 1748-07-09): Speak with [[Hardstones]] and with [[Govir]] at the [[archives]]. Speak with [[Kaleha]]. Monsoon rains arrive in [[Tokra]]. Move to monastery.
 - (DR:: 1748-07-10): [[Day of Renewal]]. Spend the night at the monastery.
 - (DR:: 1748-07-11): Speak with [[Kassi]] about [[Rai]], dead gods, and [[Yezali]]. Rest at monastery.
 - (DR:: 1748-07-12): Rest at monastery.

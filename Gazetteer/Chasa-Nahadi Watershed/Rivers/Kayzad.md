@@ -4,6 +4,8 @@ tags: [place]
 typeOf: river
 whereabouts: Elderwood
 pronunciation: KAY-zahd
+dm_notes: none
+dm_owner: none
 ---
 # Kayzad
 *(KAY-zahd)*

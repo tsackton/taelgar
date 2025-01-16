@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup, status/cleanup/metadata]
+tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
 name: Magran Boulderbeard
 born:
 species: dwarf

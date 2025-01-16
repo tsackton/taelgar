@@ -5,6 +5,8 @@ name: Nardith
 typeOf: realm
 whereabouts: Yuvanti Mountains
 ancestry: dwarven
+dm_notes: important
+dm_owner: tim
 ---
 # Nardith
 >[!info]+ Information  

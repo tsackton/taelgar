@@ -1,11 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo:
 name: K'eye
 typeOf: river
 whereabouts: Forest of Nightmares
 pronunciation: keh-EYE
+dm_notes: color
+dm_owner: tim
 ---
 # K'eye
 *(keh-EYE)*

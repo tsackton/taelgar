@@ -5,6 +5,8 @@ name: Ainumarya
 typeOf: forest
 whereabouts: Chasa-Nahadi Watershed
 pronunciation: EYE-new-mar-ya
+dm_notes: color
+dm_owner: tim
 ---
 # Ainumarya
 *(EYE-new-mar-ya)*

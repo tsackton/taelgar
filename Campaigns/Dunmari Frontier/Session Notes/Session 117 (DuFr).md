@@ -161,7 +161,7 @@ The session ends on the evening of May 30th, the final fate of the crown, and th
 - The group searches for any signs of remaining threats or allies. They confirm no immediate danger remains; Kenzo uses his ki sense to ensure no undead presence lingers within the temple.
 - The party waits for several days, as the walls of Apollyon's prison, now binding them to the temple, weaken and fall. 
 - During the wait in the temple, the party communicates with Sura in Dunmar, and with various Chardonians via the Crown of Purity. 
-	- In Dunmar, the Chardonian army is retreating from Songara, but the Chardonian navy has won a great victory outside Darba, and [[Mitus Verina Auratan]] has entered the city. 
+	- In Dunmar, the Chardonian army is retreating from [[Songara]], but the Chardonian navy has won a great victory outside Darba, and [[Mitus Verina Auratan]] has entered the city. 
 	- Negotiations are underway with [[Nayan Karnas|Karnas]] about the fate of the Nayan Floodplains and the city of Darba. 
 	- In Chardon, the chalyte trade is seeing signs of disruption, with strikes and sabotage spreading across Chardon.
 - Riswynn remains attuned to the crown, using its influence to push back against the chalyte trade and ensure peace between Dunmar and Chardon. 
