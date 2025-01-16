@@ -9,6 +9,8 @@ ancestry: Mawaran
 gender: male
 player: David Kong
 affiliations:
+dm_owner: player
+dm_notes: important
 ---
 # Ryu
 >[!info]+ Biographical Info  

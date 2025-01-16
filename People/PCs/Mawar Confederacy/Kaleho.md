@@ -9,6 +9,8 @@ ancestry:
 gender: male
 player: John Leeker
 affiliations:
+dm_owner: player
+dm_notes: important
 ---
 # Kaleho
 >[!info]+ Biographical Info  

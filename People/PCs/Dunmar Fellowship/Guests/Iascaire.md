@@ -9,6 +9,8 @@ ancestry: Deno'qai
 gender: male
 player: Phil Grayson
 excludePublish: ["clee"]
+dm_owner: tim
+dm_notes: important
 ---
 # Iascaire
 >[!info]+ Biographical Info  

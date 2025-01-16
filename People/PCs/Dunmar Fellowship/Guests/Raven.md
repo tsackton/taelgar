@@ -9,6 +9,8 @@ ancestry:
 gender: enby
 player: Isaac Sackton
 excludePublish: ["clee"]
+dm_owner: player
+dm_notes: important
 ---
 # Raven
 >[!info]+ Biographical Info  

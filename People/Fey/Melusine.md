@@ -9,6 +9,8 @@ species: fey
 subspecies: nymph
 gender: female
 whereabouts: Amberglow
+dm_owner: tim
+dm_notes: important
 ---
 # Melusine
 >[!info]+ Biographical Info

@@ -9,6 +9,8 @@ whereabouts:
 - {type: home, end: 1, location: Feywild}
 - {type: away, end: 1, location: Ursk}
 - {type: home, end: 1749-05-03, location: Shadowkeep}
+dm_owner: none
+dm_notes: color
 ---
 # Putrid Agnes
 >[!info]+ Biographical Info  

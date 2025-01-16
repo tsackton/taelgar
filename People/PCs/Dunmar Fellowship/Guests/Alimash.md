@@ -9,6 +9,8 @@ ancestry:
 gender: male
 player:
 affiliations:
+dm_owner: tim
+dm_notes: important
 ---
 # Alimash
 >[!info]+ Biographical Info  

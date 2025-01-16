@@ -10,6 +10,8 @@ gender: male
 player: Phil Grayson
 whereabouts:
 - {type: home,  location: Quanyi}
+dm_owner: tim
+dm_notes: important
 ---
 # Shoal
 >[!info]+ Biographical Info

@@ -8,6 +8,8 @@ species: dwarf
 ancestry:
 gender:
 player: Sara Smith
+dm_owner: tim
+dm_notes: important
 ---
 # Merash
 >[!info]+ Biographical Info  

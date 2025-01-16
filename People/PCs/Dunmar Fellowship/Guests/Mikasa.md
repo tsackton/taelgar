@@ -9,6 +9,8 @@ ancestry:
 gender: female
 player: David Kong
 excludePublish: ["clee"]
+dm_owner: player
+dm_notes: important
 ---
 # Mikasa
 >[!info]+ Biographical Info  

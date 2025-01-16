@@ -11,6 +11,8 @@ gender: female
 whereabouts:
 - {type: home, location: Dreamhaven}
 - {type: home, location: Tollen}
+dm_owner: none
+dm_notes: important
 ---
 # Caelynn the Seer
 >[!info]+ Biographical Info  

@@ -8,6 +8,8 @@ born:
 species: fey
 gender: female
 whereabouts: Amberglow
+dm_owner: tim
+dm_notes: important
 ---
 # Lady Eventide
 >[!info]+ Biographical Info

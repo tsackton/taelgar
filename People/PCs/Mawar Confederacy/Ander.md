@@ -8,6 +8,8 @@ ancestry: Mawaran
 gender: male
 player: David Schwartz
 affiliations:
+dm_owner: player
+dm_notes: important
 ---
 # Ander
 >[!info]+ Biographical Info  
