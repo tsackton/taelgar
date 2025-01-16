@@ -5,6 +5,8 @@ name: Sea of Storms
 typeOf: sea
 whereabouts: 
 - { type: home, location: Taelgar, linkText: in}
+dm_notes: important
+dm_owner: tim
 ---
 # The Sea of Storms
 >[!info]+ Information  

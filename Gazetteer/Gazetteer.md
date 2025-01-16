@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [background]
 hide: [toc, navigation]
 name: Map of Taelgar
+dm_notes: none
+dm_owner: tim
 ---
 # Map of Taelgar
 

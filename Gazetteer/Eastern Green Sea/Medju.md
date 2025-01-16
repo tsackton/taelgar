@@ -4,6 +4,8 @@ tags: [place]
 name: Medju
 typeOf: city
 whereabouts: Eastern Green Sea Region
+dm_notes: important
+dm_owner: tim
 ---
 # Medju
 >[!info]+ Information  

@@ -5,6 +5,8 @@ name: Gomat Oasis
 typeOf: oasis
 whereabouts: Eastern Dunmar
 aliases: [Gomat, Gomat Oasis]
+dm_notes: none
+dm_owner: none
 ---
 # The Gomat Oasis
 >[!info]+ Information  

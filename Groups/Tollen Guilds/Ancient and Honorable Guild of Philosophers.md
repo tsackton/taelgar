@@ -6,6 +6,8 @@ name: Ancient and Honorable Guild of Philosophers
 aliases: [Philosopher's Guild]
 typeOf: guild
 whereabouts: Skepwalk
+dm_notes: important
+dm_owner: tim
 ---
 # The Ancient and Honorable Guild of Philosophers
 >[!info]+ Information  

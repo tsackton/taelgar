@@ -4,6 +4,8 @@ tags: [place]
 name: Songara
 typeOf: city
 whereabouts: Central Dunmar
+dm_notes: color
+dm_owner: tim
 ---
 # Songara
 >[!info]+ Information  

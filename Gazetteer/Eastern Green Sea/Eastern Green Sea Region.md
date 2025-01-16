@@ -4,6 +4,8 @@ tags: [place, status/stub]
 name: Eastern Green Sea Region
 typeOf: region
 whereabouts: Taelgar
+dm_notes: none
+dm_owner: tim
 ---
 # The Eastern Green Sea Region
 >[!info]+ Information
