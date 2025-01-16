@@ -1,5 +1,7 @@
 ---
 tags: [background]
+dm_owner: none
+dm_notes: none
 ---
 
 What people do about birthdays in Taelgar has come up twice in my game now. Here's a synthesis of a text conversation we had a while ago, plus some notes I gave one of my players:

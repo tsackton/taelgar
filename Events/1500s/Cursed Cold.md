@@ -3,6 +3,8 @@ tags: [event, status/check/name, status/stub]
 name: Cursed Cold
 DR: 1583-05
 DR_end: 1583-10
+dm_owner: none
+dm_notes: none
 ---
 
 %%%

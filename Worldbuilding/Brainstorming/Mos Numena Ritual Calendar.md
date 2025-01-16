@@ -1,3 +1,12 @@
+---
+dm_owner: shared
+dm_notes: important
+---
+
+
+Some rough calculations around the ritual calendar for Mos Numena. would be good to pull in some holiday discussions from discord.
+
+
 Wyrdling
 
 Wanderer x2 (homecoming & leavetaking, winter & early spring)

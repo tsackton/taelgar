@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [holiday, religion/mosnumena]
 name: Festival of the Bridge
 fc-date: {day: 3, month: 11}
+dm_owner: mike
+dm_notes: color
 ---
 # Festival of the Bridge
 

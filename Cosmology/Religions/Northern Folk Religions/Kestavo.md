@@ -1,5 +1,7 @@
 ---
 tags: [religion/kestavo, background, status/needswork/old]
+dm_owner: shared
+dm_notes: important
 ---
 
 # The *kestavo*

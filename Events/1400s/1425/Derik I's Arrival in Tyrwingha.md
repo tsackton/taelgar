@@ -3,6 +3,8 @@ tags: [event, status/stub]
 campaignInfo: []
 name: Derik I's Arrival in Tyrwingha
 DR: 1425-11-19
+dm_owner: none
+dm_notes: none
 ---
 
 %% Needs collation from various sources: [[Stories of Tyrwingha for Profit]], [[Timeline of Sembaran History]] %%

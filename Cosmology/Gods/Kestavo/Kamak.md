@@ -1,5 +1,7 @@
 ---
 tags: [deity, religion/kestavo, status/needswork/old]
+dm_owner: none
+dm_notes: none
 ---
 # Kamak
 *he/him*

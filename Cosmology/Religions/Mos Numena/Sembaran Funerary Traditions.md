@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 tags: [religion/mosnumena, background]
 displayDefaults: {defArt: ""}
+dm_owner: none
+dm_notes: none
 ---
 # Sembaran Funerary Traditions
 

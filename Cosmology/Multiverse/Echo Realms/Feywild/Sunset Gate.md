@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: magical place
 whereabouts: Feywild
+dm_owner: mike
+dm_notes: color
 ---
 # The Sunset Gate
 >[!info]+ Information

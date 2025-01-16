@@ -1,4 +1,7 @@
-
+---
+dm_owner: shared
+dm_notes: none
+---
 ## On Wealth
 
 synthesizing the email discussion about material abundance, intellectual property, what elves see as wealth, etc.
