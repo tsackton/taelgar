@@ -6,6 +6,8 @@ name: Telham
 typeOf: city
 whereabouts: Duchy of Telham
 population: 12000
+dm_owner: none
+dm_notes: none
 ---
 # Telham
 >[!info]+ Information  

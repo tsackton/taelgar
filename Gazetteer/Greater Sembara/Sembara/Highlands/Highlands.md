@@ -6,6 +6,8 @@ campaignInfo:
 name: Highlands
 typeOf: region
 whereabouts: Sembara
+dm_owner: none
+dm_notes: none
 ---
 # The Highlands
 >[!info]+ Information  

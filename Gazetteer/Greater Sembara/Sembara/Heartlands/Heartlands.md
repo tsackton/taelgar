@@ -5,6 +5,8 @@ displayDefaults: {defArt: the}
 name: Heartlands
 typeOf: region
 whereabouts: Sembara
+dm_owner: mike
+dm_notes: none
 ---
 # The Heartlands
 >[!info]+ Information  

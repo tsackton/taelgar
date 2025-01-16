@@ -5,6 +5,8 @@ name: Enford
 typeOf: settlement
 typeOfAlias: fortified town
 whereabouts: Marches of Enford
+dm_owner: mike
+dm_notes: color
 ---
 # Enford
 >[!info]+ Information  

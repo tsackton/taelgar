@@ -7,6 +7,8 @@ typeOf: lake
 aliases: [Aeulian]
 whereabouts: Istaros Watershed
 pronunciation: "ay-oo-LYAHN"
+dm_owner: none
+dm_notes: none
 ---
 # Lake Aeulian
 *(ay-oo-LYAHN)*
