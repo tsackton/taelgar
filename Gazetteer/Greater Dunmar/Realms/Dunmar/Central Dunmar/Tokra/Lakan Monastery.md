@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 name: Lakan Monastery
 typeOf: holy site
 typeOfAlias: monastery
 ancestry: Dunmari
 affiliations: [{org: Laka, type: primary}]
 whereabouts: Tokra
+dm_notes: important
+dm_owner: tim
 ---
 # The Lakan Monastery
 >[!info]+ Information

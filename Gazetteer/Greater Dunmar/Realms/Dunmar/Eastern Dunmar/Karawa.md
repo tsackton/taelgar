@@ -4,6 +4,8 @@ tags: [place, status/cleanup/text]
 name: Karawa
 typeOf: town
 whereabouts: Eastern Dunmar
+dm_notes: important
+dm_owner: tim
 ---
 # Karawa
 >[!info]+ Information

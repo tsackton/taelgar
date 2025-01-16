@@ -4,6 +4,8 @@ tags: [place]
 name: Hara
 typeOf: river
 whereabouts: Hara Watershed
+dm_notes: color
+dm_owner: tim
 ---
 # Hara
 >[!info]+ Information

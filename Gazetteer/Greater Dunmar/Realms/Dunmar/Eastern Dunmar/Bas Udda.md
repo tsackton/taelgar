@@ -6,6 +6,8 @@ name: Bas Udda
 typeOf: settlement
 typeOfAlias: village
 whereabouts: Eastern Dunmar
+dm_notes: color
+dm_owner: tim
 ---
 # Bas Udda
 >[!info]+ Information  

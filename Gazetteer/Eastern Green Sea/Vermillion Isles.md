@@ -6,6 +6,8 @@ name: Vermillion Isles
 typeOf: archipelago
 whereabouts: ~Eastern Islands~
 aliases: [Chasoka]
+dm_notes: important
+dm_owner: tim
 ---
 # The Vermillion Isles
 >[!info]+ Information
