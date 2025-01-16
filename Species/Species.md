@@ -2,6 +2,8 @@
 headerVersion: 2023.11.25
 name: Species in Taelgar
 tags: [background, status/needswork/old]
+dm_owner: shared
+dm_notes: important
 ---
 # Species in Taelgar
 

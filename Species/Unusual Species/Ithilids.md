@@ -1,6 +1,8 @@
 ---
 aliases: [Mindflayer, Mind Flayer, Illithid]
 tags: [species, status/stub]
+dm_owner: shared
+dm_notes: important
 ---
 
 # Illithids
