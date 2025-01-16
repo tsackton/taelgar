@@ -6,6 +6,8 @@ ancestry: elven
 typeOf: city
 whereabouts: Orenlas
 pronunciation: air-LEE-on
+dm_owner: none
+dm_notes: important
 ---
 # Erelion
 *(air-LEE-on)*

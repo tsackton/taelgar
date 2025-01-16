@@ -6,6 +6,8 @@ name: Yandarë
 pronunciation: yahn-DAH-reh
 whereabouts: Istaros Watershed
 aliases: Vistala
+dm_owner: none
+dm_notes: none
 ---
 # Yandarë
 *(yahn-DAH-reh)*

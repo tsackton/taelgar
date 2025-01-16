@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: Cedrano
 typeOf: city
 pronunciation: kah-STREL-ah
+dm_owner: tim
+dm_notes: important
 ---
 # Castrella
 *(kah-STREL-ah))*

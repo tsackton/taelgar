@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: Ursk
 typeOf: river
 pronunciation: DAH-link-ah
+dm_owner: none
+dm_notes: color
 ---
 # Dalinka
 *(DAH-link-ah)*

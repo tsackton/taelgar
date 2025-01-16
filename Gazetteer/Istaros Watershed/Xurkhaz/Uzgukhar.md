@@ -5,6 +5,8 @@ campaignInfo:
 name: Uzgukhar
 typeOf: city
 whereabouts: Xurkhaz
+dm_owner: tim
+dm_notes: important
 ---
 # Uzgukhar
 >[!info]+ Information

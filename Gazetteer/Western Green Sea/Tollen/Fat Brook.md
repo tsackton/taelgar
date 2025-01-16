@@ -5,6 +5,8 @@ campaignInfo: []
 name: Fat Brook
 typeOf: brook
 whereabouts: Tollen
+dm_owner: none
+dm_notes: color
 ---
 # The Fat Brook
 >[!info]+ Information

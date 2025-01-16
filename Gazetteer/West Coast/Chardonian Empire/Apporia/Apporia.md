@@ -5,6 +5,8 @@ aliases: [~Chardon Peninsula~, Apporian Peninsula]
 typeOf: peninsula
 whereabouts: West Coast Region
 pronunciation: a-POHR-ree-ah
+dm_owner: tim
+dm_notes: important
 ---
 # Apporia
 *(a-POHR-ree-ah)*

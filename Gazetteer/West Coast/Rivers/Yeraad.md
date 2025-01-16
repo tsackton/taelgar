@@ -5,6 +5,8 @@ campaignInfo:
 name: Yeraad
 typeOf: river
 whereabouts: Chardonian Empire
+dm_owner: tim
+dm_notes: none
 ---
 # Yeraad
 >[!info]+ Information

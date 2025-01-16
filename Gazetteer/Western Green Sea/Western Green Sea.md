@@ -4,6 +4,8 @@ tags: [place, status/needswork/old]
 name: Western Green Sea
 typeOf: sea
 whereabouts: Green Sea
+dm_owner: shared
+dm_notes: none
 ---
 # The Western Green Sea
 >[!info]+ Information  

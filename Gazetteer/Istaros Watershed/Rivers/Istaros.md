@@ -4,10 +4,9 @@ tags: [place]
 name: Istaros
 typeOf: river
 whereabouts: Istaros Watershed
-aliases:
-  - Aistanë
-  - Drogar
-  - Mahar
+aliases: [Aistanë, Drogar, Mahar]
+dm_owner: shared
+dm_notes: important
 ---
 # Istaros
 >[!info]+ Information

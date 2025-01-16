@@ -6,6 +6,8 @@ name: Mostreve Hills
 typeOf: line of hills
 whereabouts: Greater Sembara
 pronunciation: mohs-TRE-vuh or mohs-tre-vay
+dm_owner: shared
+dm_notes: color
 ---
 # The Mostreve Hills
 *(mohs-TRE-vuh or mohs-tre-vay)*

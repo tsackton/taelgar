@@ -9,6 +9,8 @@ ancestry: Urskan
 pronunciation: zuh-KAHT
 whereabouts: 
 - {type: home, location: Ursk, startFilter: f}
+dm_owner: tim
+dm_notes: important
 ---
 # Zakat
 *(zuh-KAHT)*

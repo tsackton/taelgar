@@ -4,6 +4,8 @@ tags: [place]
 name: Mawakel Peninsula
 typeOf: region
 whereabouts: West Coast Region
+dm_owner: none
+dm_notes: color
 ---
 # The Mawakel Peninsula
 >[!info]+ Information  

@@ -6,6 +6,8 @@ campaignInfo: []
 name: Pava and Avaras' House
 typeOf: house
 whereabouts: Garamjala Desert
+dm_owner: tim
+dm_notes: important
 ---
 # Pava and Avaras' House
 >[!info]+ Information

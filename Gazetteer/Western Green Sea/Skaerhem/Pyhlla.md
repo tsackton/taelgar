@@ -8,6 +8,8 @@ whereabouts: Skaerhem
 population: 800
 ancestry: Skaer
 pronunciation: PIE-hu-lla
+dm_owner: tim
+dm_notes: color
 ---
 # Pyhlla
 *(PIE-hu-lla)*
@@ -15,8 +17,6 @@ pronunciation: PIE-hu-lla
 > pop. 800  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
-%% Tim: potentially anything to add? seems complete to me... %%
 
 Pyhlla a port town, on a volcanic rocky island, less than a day's sail from [[Vetta]], the island of the sacred waters. 
 

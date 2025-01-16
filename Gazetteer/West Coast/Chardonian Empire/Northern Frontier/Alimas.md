@@ -3,7 +3,10 @@ headerVersion: 2023.11.25
 tags: [place, status/check/name, status/stub]
 typeOf: river
 whereabouts: Chasa-Nahadi Watershed
+dm_owner: tim
+dm_notes: important
 ---
+
 # Alimas
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  

@@ -5,6 +5,8 @@ name: Niva
 typeOf: river
 whereabouts: Vostok
 aliases: [River Niva, Niva River]
+dm_owner: none
+dm_notes: none
 ---
 # Niva
 >[!info]+ Information

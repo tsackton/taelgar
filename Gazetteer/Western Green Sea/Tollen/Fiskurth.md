@@ -4,6 +4,8 @@ tags: [place]
 name: Fiskurth
 typeOf: ward
 whereabouts: Tollen
+dm_owner: none
+dm_notes: color
 ---
 # Fiskurth
 >[!info]+ Information  

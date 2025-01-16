@@ -7,6 +7,8 @@ typeOfAlias: tavern
 ancestry: dwarven
 typeOf: inn
 whereabouts: Tokra
+dm_owner: none
+dm_notes: color
 ---
 # The Iron Swan
 >[!info]+ Information

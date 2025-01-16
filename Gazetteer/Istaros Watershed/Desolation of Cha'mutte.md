@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: Taelgar
 typeOf: region
 name: Desolation of Cha'mutte
+dm_owner: tim
+dm_notes: important
 ---
 # The Desolation of Cha'mutte
 >[!info]+ Information

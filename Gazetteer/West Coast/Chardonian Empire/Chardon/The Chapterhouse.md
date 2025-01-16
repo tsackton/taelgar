@@ -6,6 +6,8 @@ campaignInfo: []
 name: The Chapterhouse
 typeOf: inn
 whereabouts: Precinct IV
+dm_owner: none
+dm_notes: color
 ---
 # The Chapterhouse
 >[!info]+ Information

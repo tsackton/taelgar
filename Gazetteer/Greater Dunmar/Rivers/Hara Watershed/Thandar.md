@@ -5,6 +5,8 @@ typeOf: river
 whereabouts: Hara Watershed
 name: Thandar
 pronunciation: TAHN-dur
+dm_owner: none
+dm_notes: color
 ---
 # Tandar
 *(TAHN-dur)*

@@ -6,6 +6,8 @@ displayDefaults: {prep: on, defArt: the}
 pronunciation: KEM
 typeOf: river
 whereabouts: Vostok
+dm_owner: none
+dm_notes: none
 ---
 # The Kem
 *(KEM)*

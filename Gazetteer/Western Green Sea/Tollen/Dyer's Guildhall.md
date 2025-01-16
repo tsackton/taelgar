@@ -4,6 +4,8 @@ tags: [place]
 typeOf: guildhall
 whereabouts: Tollen
 name: Dyer's Guildhall
+dm_owner: tim
+dm_notes: color
 ---
 # The Dyer's Guildhall
 >[!info]+ Information  

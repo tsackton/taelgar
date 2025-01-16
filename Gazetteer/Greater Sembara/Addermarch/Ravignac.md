@@ -5,6 +5,8 @@ subtypeOf: fortified
 typeOf: town
 pronunciation: RAH-veen-yak
 whereabouts: Bramshire
+dm_owner: none
+dm_notes: color
 ---
 # Ravignac
 *(RAH-veen-yak)*

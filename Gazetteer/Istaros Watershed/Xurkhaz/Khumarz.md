@@ -8,6 +8,8 @@ destroyed: 1748-12-11
 typeOf: town
 ancestry: orc
 whereabouts: Xurkhaz
+dm_owner: tim
+dm_notes: color
 ---
 # Khumarz
 >[!info]+ Information

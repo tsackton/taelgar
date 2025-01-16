@@ -5,6 +5,8 @@ campaignInfo: []
 name: Laughing Wolf Inn
 typeOf: inn
 whereabouts: Arendum
+dm_owner: none
+dm_notes: color
 ---
 # The Laughing Wolf Inn
 >[!info]+ Information  

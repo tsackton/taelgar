@@ -7,6 +7,8 @@ name: The Singing Fox
 typeOf: inn
 ancestry: halfling
 whereabouts: Fairgate Outer
+dm_owner: none
+dm_notes: color
 ---
 # The Singing Fox
 >[!info]+ Information

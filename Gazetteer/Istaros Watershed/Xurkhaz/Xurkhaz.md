@@ -6,6 +6,8 @@ created: 1583
 typeOf: realm
 whereabouts: Garamjala Desert
 pronunciation: ZURK-kaz
+dm_owner: tim
+dm_notes: important
 ---
 # Xurkhaz
 *(ZURK-kaz)*

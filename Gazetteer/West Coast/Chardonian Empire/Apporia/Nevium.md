@@ -5,6 +5,8 @@ typeOf: city
 whereabouts: Portalia
 population: 5300
 pronunciation: NEH-vee-oom
+dm_owner: tim
+dm_notes: important
 ---
 # Nevium
 *(NEH-vee-oom)*

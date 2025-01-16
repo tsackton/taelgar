@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: Cymea
 typeOf: settlement
 typeOfAlias: village
+dm_owner: none
+dm_notes: none
 ---
 # Lavila
 >[!info]+ Information

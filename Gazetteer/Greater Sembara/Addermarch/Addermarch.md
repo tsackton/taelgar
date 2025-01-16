@@ -5,6 +5,8 @@ name: Addermarch
 typeOf: realm
 whereabouts: Greater Sembara
 alias: [Addermarian]
+dm_owner: tim
+dm_notes: important
 ---
 # Addermarch
 >[!info]+ Information  

@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: Cymea
 pronunciation: ahm-POH-joh
 typeOf: river
+dm_owner: tim
+dm_notes: color
 ---
 # Ampogio
 *(ahm-POH-joh)*

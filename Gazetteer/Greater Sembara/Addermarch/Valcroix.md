@@ -4,6 +4,8 @@ tags: [place]
 name: Valcroix
 typeOf: market town
 whereabouts: Carlinshire
+dm_owner: none
+dm_notes: color
 ---
 # Valcroix
 >[!info]+ Information  

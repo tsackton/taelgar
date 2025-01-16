@@ -5,6 +5,8 @@ displayDefaults: {defArt: '' }
 name: Central Highlands Region
 typeOf: region
 whereabouts: Taelgar
+dm_owner: tim
+dm_notes: important
 ---
 # Central Highlands Region
 >[!info]+ Information

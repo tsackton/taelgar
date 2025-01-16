@@ -4,6 +4,8 @@ tags: [place, status/stub]
 name: Westcliff
 typeOf: mountain range
 whereabouts: Mostreve Hills
+dm_owner: tim
+dm_notes: color
 ---
 # Westcliff
 >[!info]+ Information  

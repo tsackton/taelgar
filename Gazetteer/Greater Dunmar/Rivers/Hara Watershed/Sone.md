@@ -4,6 +4,8 @@ tags: [place]
 typeOf: river
 whereabouts: Hara Watershed
 pronunciation: SO-nay
+dm_owner: none
+dm_notes: color
 ---
 # Sone
 *(SO-nay)*

@@ -5,6 +5,8 @@ name: Western Dunmar
 displayDefaults: {defArt: ''}
 typeOf: region
 whereabouts: Dunmar
+dm_owner: tim
+dm_notes: important
 ---
 # Western Dunmar
 >[!info]+ Information  

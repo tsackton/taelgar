@@ -5,6 +5,8 @@ typeOf: river
 whereabouts: Hara Watershed
 name: Sukal
 pronunciation: su-KAHL
+dm_owner: none
+dm_notes: color
 ---
 # Sukal
 *(su-KAHL)*

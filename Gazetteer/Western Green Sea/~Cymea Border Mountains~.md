@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/check/name]
 typeOf: mountain range
 whereabouts: Cymea
+dm_owner: none
+dm_notes: color
 ---
 # The ~Cymea Border Mountains~
 >[!info]+ Information  

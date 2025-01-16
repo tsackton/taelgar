@@ -4,6 +4,8 @@ tags: [place]
 name: Nayan
 typeOf: river
 whereabouts: Nayan Floodplains
+dm_owner: none
+dm_notes: color
 ---
 # Nayan
 >[!info]+ Information  

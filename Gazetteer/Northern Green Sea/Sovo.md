@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: river
 whereabouts: Ursk
+dm_owner: none
+dm_notes: color
 ---
 # Sovo
 >[!info]+ Information  

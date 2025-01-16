@@ -6,6 +6,8 @@ typeOf: realm
 whereabouts: Western Green Sea Region
 aliases: [Vosland]
 pronunciation: VOS-tok
+dm_owner: none
+dm_notes: none
 ---
 # Vostok
 *(VOS-tok)*

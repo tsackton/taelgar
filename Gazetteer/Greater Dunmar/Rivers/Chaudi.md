@@ -4,6 +4,8 @@ tags: [place]
 name: Chaudi
 typeOf: river
 whereabouts: Nayan Floodplains
+dm_owner: none
+dm_notes: color
 ---
 # Chaudi
 >[!info]+ Information  

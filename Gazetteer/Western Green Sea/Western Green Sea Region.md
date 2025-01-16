@@ -4,6 +4,8 @@ tags: [place, status/stub]
 name: Western Green Sea Region
 whereabouts: Taelgar
 typeOf: region
+dm_owner: shared
+dm_notes: none
 ---
 # The Western Green Sea Region
 >[!info]+ Information

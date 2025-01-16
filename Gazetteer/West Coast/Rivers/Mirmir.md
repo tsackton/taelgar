@@ -5,6 +5,8 @@ tags: [place]
 name: Mirmir
 typeOf: river
 whereabouts: Mawakel Peninsula
+dm_owner: none
+dm_notes: color
 ---
 # Mirmir
 *(MEER-meer)*

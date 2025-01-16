@@ -5,6 +5,8 @@ name: Bramshire
 typeOf: shire
 whereabouts: Addermarch
 pronunciation: BRAM-shur
+dm_owner: none
+dm_notes: none
 ---
 # Bramshire
 *(BRAM-shur)*

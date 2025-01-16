@@ -6,6 +6,8 @@ campaignInfo: []
 name: The Salty Squid
 typeOf: inn
 whereabouts: Chardon
+dm_owner: none
+dm_notes: none
 ---
 # The Salty Squid
 >[!info]+ Information  

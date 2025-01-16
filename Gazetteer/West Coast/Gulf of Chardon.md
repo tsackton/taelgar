@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: gulf
 whereabouts: Endless Ocean
+dm_owner: tim
+dm_notes: important
 ---
 # The Gulf of Chardon
 >[!info]+ Information  

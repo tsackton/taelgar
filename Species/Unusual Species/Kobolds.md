@@ -1,5 +1,7 @@
 ---
 tags: [species, status/needswork/shared]
+dm_owner: shared
+dm_notes: important
 ---
 # Kobolds
 

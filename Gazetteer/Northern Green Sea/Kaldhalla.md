@@ -5,6 +5,8 @@ typeOf: realm
 ancestry: frost giant
 whereabouts: Hrimthur
 pronunciation: KAHL-hal-lah
+dm_owner: tim
+dm_notes: important
 ---
 # Kaldhalla
 *(KAHL-hal-lah)*

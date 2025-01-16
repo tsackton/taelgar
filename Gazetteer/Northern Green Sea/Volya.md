@@ -5,6 +5,8 @@ typeOf: village
 typeOfAlias: trading post
 whereabouts: Ursk
 pronunciation: VOH-leeah
+dm_owner: none
+dm_notes: color
 ---
 # Volya
 *(VOH-leeah)*
