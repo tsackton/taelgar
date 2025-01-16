@@ -9,6 +9,8 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: home, location: plains north of Tokra}
+dm_owner: none
+dm_notes: color
 ---
 # Kiran
 >[!info]+ Biographical Info

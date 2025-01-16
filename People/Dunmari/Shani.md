@@ -9,6 +9,8 @@ ancestry: Dunmari
 gender: female
 whereabouts: 
 - {type: home, prefix: northern, location: plains of Karawa }
+dm_owner: none
+dm_notes: none
 ---
 # Shani
 >[!info]+ Biographical Info  

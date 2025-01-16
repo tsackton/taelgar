@@ -13,6 +13,8 @@ whereabouts:
 - {type: home, location: Akela Inn}
 affiliations: 
 - {org: Akela Inn, title: Master, type: leader}
+dm_owner: none
+dm_notes: color
 ---
 # Amar
 >[!info]+ Biographical Info  

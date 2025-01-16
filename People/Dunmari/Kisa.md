@@ -8,6 +8,8 @@ species: human
 ancestry: Dunmari
 gender: female
 whereabouts: Karawa
+dm_owner: none
+dm_notes: important
 ---
 # Kisa
 >[!info]+ Biographical Info

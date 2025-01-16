@@ -8,6 +8,8 @@ species: human
 ancestry: Dunmari
 gender: male
 whereabouts: Karawa
+dm_owner: tim
+dm_notes: important
 ---
 # Ikram
 >[!info]+ Biographical Info

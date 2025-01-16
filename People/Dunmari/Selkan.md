@@ -9,6 +9,8 @@ ancestry: Dunmari
 gender: male
 whereabouts:
 - {type: home, start: 1748-06-08, location: Karawa}
+dm_owner: tim
+dm_notes: important
 ---
 # Selkan
 >[!info]+ Biographical Info  

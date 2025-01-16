@@ -10,6 +10,8 @@ ancestry: Dunmari
 gender: female
 whereabouts:
 - {type: home, location: 'Karawa'}
+dm_owner: none
+dm_notes: none
 ---
 # Jayden
 >[!info]+ Biographical Info  
