@@ -10,6 +10,8 @@ ancestry: Chardonian
 whereabouts: 
 - {type: home, end: 1749-05-07, location: Artevus}
 - {type: away, start: 1749-05-07, end: 1749-05-11, location: Summer's Breeze}
+dm_owner: tim
+dm_notes: important
 ---
 # Martino
 >[!info]+ Biographical Info  

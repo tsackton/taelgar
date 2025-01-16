@@ -10,6 +10,8 @@ gender: female
 whereabouts:
 - {type: home, location: Chardon}
 - {type: away, start: 1748-05-01, location: Tokra}
+dm_owner: tim
+dm_notes: important
 ---
 # Drusa
 >[!info]+ Biographical Info  

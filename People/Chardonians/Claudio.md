@@ -10,6 +10,8 @@ gender: male
 whereabouts:
 - {type: home, start: '', end: '', location: Luminatia}
 - {type: away, start: 1748-03-11, end: '', location: ''}
+dm_owner: none
+dm_notes: none
 ---
 # Claudio
 >[!info]+ Biographical Info

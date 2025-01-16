@@ -14,6 +14,8 @@ affiliations:
 - {org: Wave Dancer, title: Navigator}
 whereabouts: 
 - {type: home, location: Wave Dancer, format: "<linktext> <name>, <ancestry:a> <maintype>" }
+dm_owner: none
+dm_notes: color
 ---
 # Corrin Wildheart
 >[!info]+ Biographical Info

@@ -12,6 +12,8 @@ whereabouts:
  - {type: home, end: 1545, location: Ardith}
  - {type: home, end: 1570, location: Nardith }
  - {type: home, start: 1571, location: Morkalan }
+dm_owner: tim
+dm_notes: important
 ---
 # Hagrim of Morkalan
 >[!info]+ Biographical Info  

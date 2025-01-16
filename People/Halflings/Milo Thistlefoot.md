@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [person, status/needswork/gameupdate, status/cleanup/metadata]
 species: halfling
 gender: male
+dm_owner: tim
+dm_notes: important
 ---
 # Milo Thistlefoot
 >[!info]+ Biographical Info  

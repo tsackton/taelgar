@@ -6,6 +6,8 @@ name: Adam Gower
 gender: male
 ancestry: Tollender
 whereabouts: Tollen
+dm_owner: tim
+dm_notes: color
 ---
 # Adam Gower
 >[!info]+ Biographical Info  

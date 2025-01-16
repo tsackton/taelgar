@@ -13,6 +13,8 @@ whereabouts:
 - {type: away, start: 1575-09-19, end: 1748-08-26, location: Bleakhold}
 - {type: away, start: 1748-08-26, end: 1748-10-05, location: Dunmari Basin}
 - {type: home, start: 1748-10-05, location: Nardith}
+dm_owner: none
+dm_notes: color
 ---
 # Dworic
 >[!info]+ Biographical Info  

@@ -6,6 +6,8 @@ species: human
 ancestry: Mawaran
 gender: male
 whereabouts: Hamri
+dm_owner: none
+dm_notes: color
 ---
 # Jaeson
 >[!info]+ Biographical Info  

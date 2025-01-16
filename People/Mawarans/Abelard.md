@@ -8,6 +8,8 @@ gender: male
 whereabouts:
 - {type: home, location: Chardonian Empire}
 - {type: home, location: Hamri}
+dm_owner: shared
+dm_notes: color
 ---
 # Abelard
 >[!info]+ Biographical Info

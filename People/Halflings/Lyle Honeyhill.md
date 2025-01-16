@@ -14,6 +14,8 @@ affiliations:
 - {org: Emerald Song, title: Navigator, start: 1744}
 whereabouts: 
 - {type: home, start: 1744, location: Emerald Song, wHome: "Sails <home:qr>"}
+dm_owner: none
+dm_notes: color
 ---
 # Lyle Honeyhill
 >[!info]+ Biographical Info

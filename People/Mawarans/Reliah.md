@@ -7,6 +7,8 @@ species: human
 ancestry: Mawaran
 gender: female
 whereabouts: Hamri
+dm_owner: none
+dm_notes: color
 ---
 # Reliah
 >[!info]+ Biographical Info  

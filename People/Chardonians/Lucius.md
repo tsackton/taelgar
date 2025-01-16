@@ -10,6 +10,8 @@ ancestry: Chardonian
 gender: male
 whereabouts:
 - {type: home, location: Luminatia}
+dm_owner: none
+dm_notes: color
 ---
 # Lucius
 >[!info]+ Biographical Info  

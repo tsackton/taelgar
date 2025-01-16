@@ -6,6 +6,8 @@ name: Livia
 whereabouts: Luminatia
 gender: female
 ancestry: Chardonian
+dm_owner: none
+dm_notes: none
 ---
 # Livia
 >[!info]+ Biographical Info  

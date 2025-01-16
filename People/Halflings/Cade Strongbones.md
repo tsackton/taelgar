@@ -13,6 +13,8 @@ affiliations:
 - {org: The Red Lily Inn, title: Barkeep}
 whereabouts: 
 - {type: home, location: The Red Lily Inn}
+dm_owner: none
+dm_notes: none
 ---
 # Cade Strongbones
 >[!info]+ Biographical Info

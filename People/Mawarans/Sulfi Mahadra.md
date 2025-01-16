@@ -6,6 +6,8 @@ species: human
 ancestry: Mawaran
 gender: female
 whereabouts: Hamri
+dm_owner: shared
+dm_notes: color
 ---
 # Sulfi Mahadra
 >[!info]+ Biographical Info  

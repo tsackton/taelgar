@@ -19,6 +19,8 @@ whereabouts:
 - { type: away, start: 1748-04-13, end: 1748-07-18, location: Tokra }
 - { type: away, start: 1748-07-18, end: 1748-08-13, location: Tokra-Darba Road }
 - { type: away, start: 1748-08-13, location: Darba }
+dm_owner: tim
+dm_notes: important
 ---
 # Ander Charmheart
 >[!info]+ Biographical Info

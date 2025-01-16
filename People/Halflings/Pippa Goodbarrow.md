@@ -7,6 +7,8 @@ affiliations:
 - {org: Goodbarrows, type: primary }
 - { place: Summer's Breeze, title: Captain, type: leader, start: 0001} 
 whereabouts: Summer's Breeze
+dm_owner: tim
+dm_notes: color
 ---
 # Pippa Goodbarrow
 >[!info]+ Biographical Info  

@@ -18,6 +18,8 @@ whereabouts:
 - {type: away, start: 1748-06-30, end: 1748-07-17, location: The Red Lily Inn}
 - { type: away, start: 1748-07-18, end: 1748-08-12, location: Tokra-Darba Road }
 - { type: away, start: 1748-08-13, location: Darba }
+dm_owner: tim
+dm_notes: important
 ---
 # Garret Tealeaf
 >[!info]+ Biographical Info

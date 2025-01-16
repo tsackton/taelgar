@@ -12,6 +12,8 @@ gender: male
 affiliations: [ {org: Silversongs, type: primary}, { place: Emerald Song, title: Captain, start: 0001} ]
 whereabouts: 
 - { location: Emerald Song, type: home, prefix: sailing }
+dm_owner: none
+dm_notes: color
 ---
 # Harol Silversong
 >[!info]+ Biographical Info

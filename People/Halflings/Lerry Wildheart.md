@@ -14,6 +14,8 @@ affiliations:
 - { org: Wildhearts, type: primary }
 whereabouts: 
 - {type: home, location: Wave Dancer, wHome: "Sails <home:qr>"}
+dm_owner: none
+dm_notes: color
 ---
 # Lerry Wildheart
 >[!info]+ Biographical Info

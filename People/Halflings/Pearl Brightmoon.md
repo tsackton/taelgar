@@ -13,6 +13,8 @@ affiliations:
 - { org: Wave Dancer, title: First Mate, start: 0001} 
 - { org: Brightmoons, type: primary }
 whereabouts: Wave Dancer
+dm_owner: none
+dm_notes: color
 ---
 # Pearl Brightmoon
 >[!info]+ Biographical Info

@@ -8,6 +8,8 @@ species: dwarf
 gender: female
 whereabouts: Darba
 affiliations: [{ type: primary, org: Silverstones }]
+dm_owner: none
+dm_notes: color
 ---
 # Finellen Silverstone
 >[!info]+ Biographical Info  

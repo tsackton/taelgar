@@ -16,6 +16,8 @@ whereabouts:
 - {type: away, start: 1748, end: 1748-08-08, location: The Green Leaf} #start is approx
 - {type: away, start: 1748-08-09, end: 1748-08-21, location: Emerald Song}
 - {type: away, start: 1748-08-22, location: Chardon}
+dm_owner: tim
+dm_notes: color
 ---
 # Oswalt Tealeaf
 >[!info]+ Biographical Info  

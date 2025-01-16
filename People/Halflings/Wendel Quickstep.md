@@ -15,6 +15,8 @@ affiliations:
 - { place: The Windward Sail, title: Proprietor, start: 1718, type: leader } 
 whereabouts: 
 - {type: home, start: 1718, location: The Windward Sail}
+dm_owner: none
+dm_notes: color
 ---
 # Wendel Quickstep
 >[!info]+ Biographical Info

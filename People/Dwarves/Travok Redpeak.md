@@ -10,6 +10,8 @@ gender: male
 whereabouts: 
 - {type: home, location: Tharn Todor}
 - {type: away, start: 1748-08-03, end: 1748-08-10, location: Darba}
+dm_owner: none
+dm_notes: color
 ---
 # Travok Redpeak
 >[!info]+ Biographical Info  

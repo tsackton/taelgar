@@ -14,6 +14,8 @@ affiliations:
 - { org: Brightmoons, type: primary }
 whereabouts: 
 - { type: home, location: Wave Dancer }
+dm_owner: none
+dm_notes: color
 ---
 # Rose Brightmoon
 >[!info]+ Biographical Info

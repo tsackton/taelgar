@@ -7,6 +7,8 @@ affiliations:
 gender: female
 whereabouts: 
 - { type: away, end: 9999, location: Addermarch}
+dm_owner: tim
+dm_notes: color
 ---
 # Oona Stonebridge
 >[!info]+ Biographical Info  
