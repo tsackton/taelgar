@@ -2,10 +2,11 @@
 headerVersion: 2023.11.25
 tags: [organization, status/stub]
 displayDefaults: {defArt: the}
-campaignInfo: []
 name: Wildcloaks
 typeOf: family
 ancestry: halfling
+dm_owner: none
+dm_notes: none
 ---
 # The Wildcloaks
 >[!info]+ Information  

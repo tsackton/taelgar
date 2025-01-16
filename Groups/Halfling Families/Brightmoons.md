@@ -4,6 +4,8 @@ displayDefaults: {defArt: the}
 name: Brightmoons
 typeOf: family
 ancestry: halfling
+dm_notes: none
+dm_owner: none
 ---
 
 %%^Campaign:None%%
