@@ -5,6 +5,8 @@ displayDefaults: {defArt: the}
 campaignInfo: []
 name: Quicksteps
 typeOf: family
+dm_owner: none
+dm_notes: none
 ---
 # The Quicksteps
 >[!info]+ Information  

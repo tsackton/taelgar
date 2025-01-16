@@ -6,11 +6,15 @@ campaignInfo: []
 name: Goodbarrels
 typeOf: family
 ancestry: halfling
+dm_notes: color
+dm_owner: tim
 ---
 # The Goodbarrels
 >[!info]+ Information  
 > A [[Halflings|halfling]] family  
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%% some Wellby backstory notes to incorporate %%
 
 %%^Campaign:None%%
 ### Members

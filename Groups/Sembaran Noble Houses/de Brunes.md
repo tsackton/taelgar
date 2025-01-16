@@ -1,7 +1,10 @@
 ---
-tags: [organization, status/stub]
+tags: [organization, status/stub, status/check/mike, status/check/tim]
 dm_owner: shared
+dm_notes: none
 ---
+
+%% putting status/check/mike, status/check/tim as this needs a bit of joint work to write a centralized note. i have nothing in my dm notes except what is here%%
 
 %% centralized notes from [[Fazoth de Brune|Fazoth]] backstory here
 

@@ -5,6 +5,8 @@ displayDefaults: {defArt: the}
 name: Copperharps
 ancestry: halfling
 typeOf: family
+dm_notes: none
+dm_owner: none
 ---
 # The Copperharps
 >[!info]+ Information
