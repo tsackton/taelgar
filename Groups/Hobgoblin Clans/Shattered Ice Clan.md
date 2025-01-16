@@ -1,13 +1,17 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization]
+tags: [organization, status/check/mike]
 typeOf: clan
 ancestry: hobgoblin
+dm_notes: important
+dm_owner: shared
 ---
 # The Shattered Ice Clan
 >[!info]+ Information  
 > A [[Hobgoblins|hobgoblin]] clan  
 > `$=dv.view("_scripts/view/get_Affiliations")`
+
+%% check dm frontmatter makes sense %%
 
 The Shattered Ice Clan emerged from the [[Sentinel Range|Sentinels]] in the aftermath of the [[Great War]], establishing themselves along the [[Enst (South Fork)|South Fork]] and [[Enst (Middle Fork)|Middle Fork]] of the Enst within a generation. They became a growing threat on the border of [[Sembara]] and especially [[Duchy of Maseau|Maseau]], are were a major force behind the [[Second Hobgoblin War (Sembara)|second]] and [[Third Hobgoblin War (Sembara)|third]] hobgoblin wars. 
 

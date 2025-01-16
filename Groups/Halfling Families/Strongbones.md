@@ -7,6 +7,8 @@ name: Strongbones
 typeOf: family
 ancestry: halfling
 whereabouts: Tokra
+dm_owner: none
+dm_notes: none
 ---
 # The Strongbones
 >[!info]+ Information  

@@ -5,6 +5,8 @@ displayDefaults: {defArt: the}
 name: Wildhearts
 typeOf: family
 ancestry: halfling
+dm_notes: none
+dm_owner: none
 ---
 # The Wildhearts
 >[!info]+ Information  

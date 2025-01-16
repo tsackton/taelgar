@@ -6,6 +6,8 @@ campaignInfo: []
 name: Greenleafs
 typeOf: family
 ancestry: halfling
+dm_notes: none
+dm_owner: none
 ---
 # The Greenleafs
 >[!info]+ Information
