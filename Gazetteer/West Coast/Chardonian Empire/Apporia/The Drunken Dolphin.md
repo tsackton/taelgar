@@ -4,6 +4,8 @@ displayDefaults: {defArt: ""}
 tags: [place]
 whereabouts: Castrella
 typeOf: tavern
+dm_owner: tim
+dm_notes: color
 ---
 # The Drunken Dolphin
 >[!info]+ Information  

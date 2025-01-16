@@ -7,6 +7,8 @@ name: The Green Leaf
 ancestry: halfling
 typeOf: inn
 whereabouts: Darba
+dm_owner: none
+dm_notes: color
 ---
 # The Green Leaf
 >[!info]+ Information

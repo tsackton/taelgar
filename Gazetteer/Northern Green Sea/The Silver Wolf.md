@@ -1,9 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/cleanup/image]
 displayDefaults: {defArt: ""}
 typeOf: inn
 whereabouts: Zvervinka
+dm_owner: none
+dm_notes: color
 ---
 # The Silver Wolf
 >[!info]+ Information  

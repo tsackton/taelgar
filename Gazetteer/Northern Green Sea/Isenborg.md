@@ -6,6 +6,8 @@ typeOfAlias: steading
 whereabouts: Kaldhalla
 ancestry: frost giant
 pronunciation: EE-zen-borg
+dm_owner: tim
+dm_notes: important
 ---
 # Isenborg
 *(EE-zen-borg)*

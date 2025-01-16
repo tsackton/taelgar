@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: city
 whereabouts: Ursk
+dm_owner: tim
+dm_notes: important
 ---
 # Vorongrad
 >[!info]+ Information  

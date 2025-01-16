@@ -7,6 +7,8 @@ ancestry: Skaer
 typeOfAlias: temple
 affiliations: [{org: Kaikkea, type: primary}]
 whereabouts: Tollen
+dm_owner: tim
+dm_notes: important
 ---
 # The Temple of Kaikkea
 >[!info]+ Information

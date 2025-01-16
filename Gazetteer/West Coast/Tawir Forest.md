@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: forest
 whereabouts: West Coast Region
+dm_owner: none
+dm_notes: color
 ---
 # The Tawir Forest
 >[!info]+ Information

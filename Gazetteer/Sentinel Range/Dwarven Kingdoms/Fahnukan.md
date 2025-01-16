@@ -5,6 +5,8 @@ name: Fahnukan
 typeOf: realm
 ancestry: dwarven
 whereabouts: Labkhan
+dm_owner: none
+dm_notes: none
 ---
 # Fahnukan
 >[!info]+ Information

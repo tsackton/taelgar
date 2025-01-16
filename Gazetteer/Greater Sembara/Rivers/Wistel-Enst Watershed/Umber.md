@@ -4,6 +4,8 @@ tags: [place]
 typeOf: waterway
 typeOfAlias: river
 whereabouts: Addermarch
+dm_owner: none
+dm_notes: color
 ---
 # Umber
 >[!info]+ Information  

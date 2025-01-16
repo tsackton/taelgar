@@ -3,16 +3,14 @@ headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Chardonian Empire
 typeOf: watershed
+dm_owner: tim
+dm_notes: important
 ---
 # The Yeraad River Basin
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
-%%
-Tim: is the below all that's canonical ? more elsewhere?
-%%
 
 The river valley of the Yeraad and its tributaries from the [[Elderwood]] and the [[Chataan Mountains]]
 

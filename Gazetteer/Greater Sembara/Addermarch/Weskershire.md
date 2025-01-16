@@ -4,6 +4,8 @@ tags: [place, status/stub]
 name: Weskershire
 typeOf: shire
 whereabouts: Addermarch
+dm_owner: none
+dm_notes: color
 ---
 # Weskershire
 >[!info]+ Information  

@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: mountain
 whereabouts: Northern Green Sea
+dm_owner: tim
+dm_notes: important
 ---
 # The Drachen Peak
 >[!info]+ Information  

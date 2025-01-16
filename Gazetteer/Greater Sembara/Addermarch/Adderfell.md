@@ -4,6 +4,8 @@ tags: [place]
 name: Adderfell
 typeOf: city
 whereabouts: Addermarch
+dm_owner: tim
+dm_notes: important
 ---
 # Adderfell
 >[!info]+ Information  

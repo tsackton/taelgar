@@ -4,6 +4,8 @@ tags: [place]
 name: Brantor
 typeOf: village
 whereabouts: Carlinshire
+dm_owner: tim
+dm_notes: color
 ---
 # Brantor
 >[!info]+ Information  

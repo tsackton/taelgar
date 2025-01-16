@@ -4,6 +4,8 @@ tags: [place, status/cleanup/metadata]
 typeOf: keep
 whereabouts: Northern Green Sea
 destroyed: 1749-05-03
+dm_owner: tim
+dm_notes: important
 ---
 # Shadowkeep
 >[!info]+ Information  

@@ -6,6 +6,8 @@ typeOf: realm
 ancestry: dwarven
 whereabouts: Labkhan
 pronunciation: NID-zah-har
+dm_owner: none
+dm_notes: color
 ---
 # Nidzahar
 *(NID-zah-har)*

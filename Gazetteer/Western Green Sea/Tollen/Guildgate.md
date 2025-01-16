@@ -4,6 +4,8 @@ tags: [place]
 name: Guildgate
 typeOf: ward
 whereabouts: Tollen
+dm_owner: none
+dm_notes: color
 ---
 # Guildgate
 >[!info]+ Information  

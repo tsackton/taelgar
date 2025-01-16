@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: province
 whereabouts: Chardonian Empire
+dm_owner: tim
+dm_notes: important
 ---
 # Portalia
 >[!info]+ Information  

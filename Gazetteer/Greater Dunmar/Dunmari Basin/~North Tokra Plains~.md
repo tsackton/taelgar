@@ -5,6 +5,8 @@ whereabouts: Central Dunmar
 tags: [place, status/check/name]
 aliases: [plains north of Tokra]
 displayDefaults: { linkText: "on", ltPlace: "on" }
+dm_owner: tim
+dm_notes: important
 ---
 # The ~North Tokra Plains~
 >[!info]+ Information  

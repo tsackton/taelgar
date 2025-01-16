@@ -5,6 +5,8 @@ campaignInfo:
 name: Cymea
 typeOf: realm
 whereabouts: Western Green Sea Region
+dm_owner: tim
+dm_notes: color
 ---
 # Cymea
 >[!info]+ Information  

@@ -9,6 +9,8 @@ subTypeOf: trading
 ancestry: Urskan
 whereabouts: 
 - {type: home, location: Ursk, startFilter: f}
+dm_owner: tim
+dm_notes: important
 ---
 # Praznitsky
 *(PRAZ-niht-skee)*

@@ -4,6 +4,8 @@ tags: [place]
 typeOf: town
 whereabouts: Portalia
 population: 850
+dm_owner: tim
+dm_notes: color
 ---
 # Artevus
 >[!info]+ Information  

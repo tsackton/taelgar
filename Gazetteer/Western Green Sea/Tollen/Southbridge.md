@@ -4,6 +4,8 @@ tags: [place]
 name: Southbridge
 typeOf: ward
 whereabouts: Tollen
+dm_owner: none
+dm_notes: color
 ---
 # Southbridge
 >[!info]+ Information  

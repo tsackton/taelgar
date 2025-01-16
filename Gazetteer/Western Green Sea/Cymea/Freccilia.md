@@ -4,6 +4,8 @@ tags: [place]
 pronunciation: FREH-chee-lah
 whereabouts: Cymea
 typeOf: river
+dm_owner: tim
+dm_notes: color
 ---
 # Freccilia
 *(FREH-chee-lah)*

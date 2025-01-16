@@ -1,13 +1,14 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 name: Akela Inn
 ancestry: Dunmari
 typeOf: inn
 typeOfAlias: caravanserai
 whereabouts: 
 - {type: home, location: Tokra-Darba Road }
+dm_owner: tim
+dm_notes: color
 ---
 # The Akela Inn
 >[!info]+ Information

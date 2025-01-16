@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/shared, historical]
 name: Istabor Alliance
 typeOf: realm
+dm_owner: shared
+dm_notes: important
 ---
 # The Istabor Alliance
 

@@ -6,6 +6,8 @@ ancestry: lizardfolk
 typeOf: swamp
 whereabouts: Western Green Sea Region
 aliases: [Ozabal Swamp]
+dm_owner: none
+dm_notes: color
 ---
 # Ozabal
 >[!info]+ Information  

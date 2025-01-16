@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/check/name]
 whereabouts: Hara River Valley
 typeOf: gorge
+dm_owner: none
+dm_notes: none
 ---
 # The ~Hara River Gorge~
 >[!info]+ Information  

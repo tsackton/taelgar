@@ -4,6 +4,8 @@ tags: [place, status/needswork/gameupdate]
 displayDefaults: {defArt: ""}
 typeOf: castle
 whereabouts: Torvaine Forest
+dm_owner: tim
+dm_notes: important
 ---
 # Torvaine Watch
 >[!info]+ Information  

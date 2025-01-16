@@ -4,6 +4,8 @@ tags: [place, status/stub]
 displayDefaults: {defArt: ""}
 typeOf: region
 whereabouts: Taelgar
+dm_owner: none
+dm_notes: color
 ---
 # Greater Sembara
 >[!info]+ Information  

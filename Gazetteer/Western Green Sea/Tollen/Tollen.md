@@ -5,6 +5,8 @@ name: Free City of Tollen
 typeOf: city
 whereabouts: Western Green Sea Region
 aliases: [Free City of Tollen, Tollen]
+dm_owner: tim
+dm_notes: important
 ---
 # The Free City of Tollen
 >[!info]+ Information

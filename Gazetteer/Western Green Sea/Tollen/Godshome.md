@@ -5,6 +5,8 @@ campaignInfo: []
 name: Godshome
 typeOf: ward
 whereabouts: Tollen
+dm_owner: none
+dm_notes: color
 ---
 # Godshome
 >[!info]+ Information  

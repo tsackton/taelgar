@@ -6,6 +6,8 @@ campaignInfo: []
 name: The Thirsty Scholar
 typeOf: inn
 whereabouts: Chardon
+dm_owner: none
+dm_notes: color
 ---
 # The Thirsty Scholar
 >[!info]+ Information  

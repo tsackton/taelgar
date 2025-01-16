@@ -6,6 +6,8 @@ name: Istaros Watershed
 typeOf: region
 whereabouts:
 - { type: home, location: Taelgar, linkText: in}
+dm_owner: none
+dm_notes: color
 ---
 # The Istaros Watershed
 >[!info]+ Information  

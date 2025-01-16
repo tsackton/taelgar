@@ -7,6 +7,8 @@ typeOf: river
 subTypeOf: intermittent
 whereabouts: Istaros Watershed
 pronunciation: KHAAr-jaa
+dm_owner: tim
+dm_notes: important
 ---
 # Kharja
 *(KHAAr-jaa)*

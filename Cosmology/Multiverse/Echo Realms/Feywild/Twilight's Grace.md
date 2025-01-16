@@ -4,6 +4,8 @@ displayDefaults: {defArt: "" }
 tags: [place, status/needswork/shared]
 whereabouts: Feywild
 typeOf: realm
+dm_owner: shared
+dm_notes: important
 ---
 # Twilight's Grace
 >[!info]+ Information  

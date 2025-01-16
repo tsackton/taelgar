@@ -5,6 +5,8 @@ name: Shrev
 typeOf: river
 whereabouts: Nayan Floodplains
 aliases: [River Shrev, Shrev River]
+dm_owner: none
+dm_notes: color
 ---
 # Shrev
 >[!info]+ Information  

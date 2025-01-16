@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Greater Dunmar
 typeOf: region
+dm_owner: tim
+dm_notes: important
 ---
 # The Garamjala Plateau
 >[!info]+ Information

@@ -4,6 +4,8 @@ tags: [place]
 name: Western Gulf
 typeOf: gulf
 whereabouts: Western Green Sea
+dm_owner: none
+dm_notes: important
 ---
 # The Western Gulf
 >[!info]+ Information  

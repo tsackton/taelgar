@@ -7,6 +7,8 @@ name: The Red Lily Inn
 typeOf: inn
 ancestry: halfling
 whereabouts: Tokra
+dm_owner: none
+dm_notes: color
 ---
 # The Red Lily Inn
 >[!info]+ Information

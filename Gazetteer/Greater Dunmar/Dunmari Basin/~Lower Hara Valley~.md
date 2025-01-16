@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/check/name]
 whereabouts: Dunmari Basin
 typeOf: scrubland
+dm_owner: tim
+dm_notes: color
 ---
 # The ~Lower Hara Valley~
 >[!info]+ Information  

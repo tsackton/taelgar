@@ -4,6 +4,8 @@ tags: [place]
 typeOf: province
 whereabouts: Chardonian Empire
 pronunciation: KEH-dran-oh
+dm_owner: tim
+dm_notes: important
 ---
 # Cedrano
 *(KEH-dran-oh)*

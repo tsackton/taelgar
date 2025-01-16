@@ -5,6 +5,8 @@ name: Luminatia
 typeOf: settlement
 typeOfAlias: village
 whereabouts: Chardonian Empire
+dm_owner: none
+dm_notes: color
 ---
 # Luminatia
 >[!info]+ Information  

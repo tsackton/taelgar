@@ -7,6 +7,8 @@ ancestry: Dunmari
 typeOf: inn
 typeOfAlias: caravanserai
 whereabouts: Karawa
+dm_owner: none
+dm_notes: color
 ---
 # Ikram's
 >[!info]+ Information

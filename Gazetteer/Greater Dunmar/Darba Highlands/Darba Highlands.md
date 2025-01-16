@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/cleanup/map, status/cleanup/image]
 typeOf: geographic region
 whereabouts: Greater Dunmar
+dm_owner: tim
+dm_notes: color
 ---
 # The Darba Highlands
 >[!info]+ Information  

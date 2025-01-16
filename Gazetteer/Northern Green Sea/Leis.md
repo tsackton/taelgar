@@ -4,6 +4,8 @@ tags: [place]
 typeOf: river
 whereabouts: Ursk
 pronunciation: LEE-is
+dm_owner: none
+dm_notes: color
 ---
 # Leis
 *(LEE-is)*

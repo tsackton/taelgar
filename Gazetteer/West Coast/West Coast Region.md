@@ -4,6 +4,8 @@ tags: [place, status/cleanup/text]
 name: West Coast Region
 typeOf: region
 whereabouts: Taelgar
+dm_owner: none
+dm_notes: color
 ---
 # The West Coast Region
 >[!info]+ Information

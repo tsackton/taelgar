@@ -6,6 +6,8 @@ typeOf: village
 ancestry: lizardfolk
 whereabouts: Mawar Confederacy
 pronunciation: es-ko-ROH-lah
+dm_owner: none
+dm_notes: color
 ---
 # Eskorola
 *(es-ko-ROH-lah)*

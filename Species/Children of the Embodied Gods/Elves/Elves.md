@@ -2,6 +2,8 @@
 tags: [status/needswork/shared, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
+dm_owner: shared
+dm_notes: important
 ---
 # Elves
 

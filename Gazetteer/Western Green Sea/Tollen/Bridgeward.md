@@ -5,6 +5,8 @@ campaignInfo:
 name: Bridgeward
 typeOf: ward
 whereabouts: Tollen
+dm_owner: none
+dm_notes: color
 ---
 # Bridgeward
 >[!info]+ Information  

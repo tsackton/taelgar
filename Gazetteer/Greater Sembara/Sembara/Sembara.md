@@ -5,6 +5,8 @@ displayDefaults: { ruledBy: "Ruled by: <name> <((since )startDate())>"}
 name: Sembara
 typeOf: realm
 whereabouts: Western Green Sea Region
+dm_owner: shared
+dm_notes: important
 ---
 # Sembara
 >[!info]+ Information

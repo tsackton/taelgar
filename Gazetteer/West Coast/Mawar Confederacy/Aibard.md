@@ -4,6 +4,8 @@ tags: [place]
 name: Aibard
 typeOf: village
 whereabouts: Mawar Confederacy
+dm_owner: none
+dm_notes: none
 ---
 # Aibard
 >[!info]+ Information  

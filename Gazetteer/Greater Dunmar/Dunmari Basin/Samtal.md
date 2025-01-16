@@ -5,6 +5,8 @@ whereabouts: Eastern Dunmar
 name: Samtal
 aliases: [plains of Karawa]
 tags: [place]
+dm_owner: tim
+dm_notes: important
 ---
 # Samtal
 >[!info]+ Information

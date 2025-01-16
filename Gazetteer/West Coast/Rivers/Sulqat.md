@@ -5,6 +5,8 @@ pronunciation: sul-KAHT
 name: Sulqat
 typeOf: river
 whereabouts: Mawakel Peninsula
+dm_owner: none
+dm_notes: color
 ---
 # Sulqat
 *(sul-KAHT)*

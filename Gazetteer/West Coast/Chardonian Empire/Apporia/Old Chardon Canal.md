@@ -4,6 +4,8 @@ tags: [place]
 name: Old Chardon Canal
 typeOf: canal
 whereabouts: Portalia
+dm_owner: tim
+dm_notes: important
 ---
 # The Old Chardon Canal
 >[!info]+ Information  

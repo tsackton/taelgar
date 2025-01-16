@@ -8,6 +8,8 @@ typeOf: inn
 typeOfAlias: tavern
 ancestry: dwarven
 whereabouts: Magnus Street
+dm_owner: tim
+dm_notes: color
 ---
 # The Fire and Stone
 >[!info]+ Information

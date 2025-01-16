@@ -4,6 +4,8 @@ displayDefaults: {linkText: "at"}
 tags: [place, status/check/name]
 typeOf: inn
 whereabouts: Stoneway
+dm_owner: none
+dm_notes: color
 ---
 # The ~Crossroads Caravanserai~
 >[!info]+ Information  

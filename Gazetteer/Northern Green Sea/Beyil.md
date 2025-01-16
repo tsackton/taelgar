@@ -4,6 +4,8 @@ tags: [place]
 typeOf: river
 whereabouts: Ursk
 pronunciation: BEY-eel
+dm_owner: none
+dm_notes: color
 ---
 # Beyil
 *(BEY-eel)*

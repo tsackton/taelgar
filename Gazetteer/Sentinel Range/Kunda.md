@@ -5,8 +5,12 @@ name: Kunda
 ancestry: stoneborn
 typeOf: village
 whereabouts: Indalas
+dm_owner: tim
+dm_notes: color
 ---
 # Kunda
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% Drikod village %%

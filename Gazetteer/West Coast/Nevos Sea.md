@@ -6,6 +6,8 @@ name: Nevos Sea
 typeOf: sea
 whereabouts:
 - { type: home, location: Taelgar, linkText: in}
+dm_owner: tim
+dm_notes: important
 ---
 # The Nevos Sea
 >[!info]+ Information  

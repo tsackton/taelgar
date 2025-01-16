@@ -5,6 +5,8 @@ name: Shadowmere
 typeOf: swamp
 subTypeOf: haunted
 whereabouts: Addermarch
+dm_owner: tim
+dm_notes: color
 ---
 # Shadowmere
 >[!info]+ Information  
