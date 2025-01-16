@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/needswork/shared]
+tags: [person, status/cleanup/incomplete]
 name: Archfey Ethlenn
 species: fey
 speciesAlias: archfey
@@ -15,5 +15,12 @@ dm_owner: mike
 > An [[Fey|archfey]] (she/her)
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+The ruler of [[Twilight's Grace]] and patron of [[Tyrwingha]]. 
 
-%% All the info I have is in discord or backlinks here; but obviously my game has plans for her %%
+A sketch of her supposed appearance
+![[tyrwingha-stories-sketch-of-ethlenn.png|left|400]]
+
+%% All the info I have is in discord or backlinks here; but obviously my game has plans for her 
+
+I also have some potential images on midjourney not pulled in here yet 
+%%
