@@ -1,11 +1,12 @@
 ---
-tags: [deity, status/stub]
+tags: [deity, status/stub, status/cleanup/external]
 affiliations: [elves]
 dm_owner: joint
 dm_notes: none
 ---
 
 %% not sure how much is really canonically invented here, needs some thought %%
+%% a fair bit of discussion in discord, mostly related to "tides" %%
 
 The living tree, one of the two creator deities of the elves. 
 
