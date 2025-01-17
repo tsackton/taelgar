@@ -137,6 +137,8 @@ SORT directory, dm_notes, Status
 
 All notes tagged with "joint". These are notes that we are generally developing together, for various reasons.  
 
+*Generally speaking, these should not have dm_notes, as the implication of dm_notes is private info, and status/cleanup/external implies only shared notes. Anything in this list I've checked my notes, and if you have nothing to add dm_notes can be set to none.*
+
 ```dataview
 TABLE WITHOUT ID
   directory AS "directory",
@@ -235,6 +237,8 @@ SORT directory, dm_notes, Status
 ```
 
 ## No Owner or Notes
+
+*Some notes here are probably correctly set as joint, not none, for dm_owner.*
 
 ### Gazetteer
 ```dataview
