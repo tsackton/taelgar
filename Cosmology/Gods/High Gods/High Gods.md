@@ -18,5 +18,5 @@ The story of High Gods is told in the myths of Mos Numena:
 *Although it could not create, the Void Mind could steal, misdirect, reshape. It waited, and watched, patiently. Until, as Arha and Malik shaped the embodied gods and bestowed them with Divine power, the Void Mind stole the breath of the Divine Presence, and out of itself spun the Three Despairs: Umidzka, the Empty; G’Zab, the All Consuming; and Jinnik, the Madness, and through these beings this mind worked in the shadows against the creations of the Divine. Some have even speculated that the Three Despairs unleashed embodied curses into the world, attributing the curse of undeath and necromancy to Umidzka, and the curse of lycanthropy to Jinnik.*
 
 %% notes on Far Realms
-Beyond the multiverse, in the Far Realms of alien horror, rumors of Great Old Ones persist, ancient eldritch masters with utterly alien minds, reaching into the world through the holes in the fabric of reality worn by the Void from the sundering of the planes.
+Beyond the multiverse, in the [[Far Realms]] of alien horror, rumors of Great Old Ones persist, ancient eldritch masters with utterly alien minds, reaching into the world through the holes in the fabric of reality worn by the Void from the sundering of the planes.
 %%
