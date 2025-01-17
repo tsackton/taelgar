@@ -1,6 +1,6 @@
 ---
 tags: [status/stub, event]
-dm_owner: none
+dm_owner: joint
 dm_notes: none
 ---
 
