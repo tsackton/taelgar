@@ -1,0 +1,4 @@
+%% This has been fully incorporated into [[Calendar Eras#Other Calendar Eras]] %%
+### Elven Calendar
+
+Elves fundamentally simply count ka. Nothing is really super-fixed within a ka, but ka are very regular. I kind of feel there is maybe something a bit fey here? Like the elves care more about the cycles of extraplanar energy and the waxing and waning of Aldanor’s influence than the sun. Maybe even call parts of each cycle Aldanor waxing or Elmerica waning. In some sense years are probably more analogous to months for humans, seasons are weeks, and there is no real sense of anything between a day and a season as being important to track.

@@ -9,9 +9,12 @@ dm_notes: none
 %% brainstorming - some about months, not actually calendar eras, here:
 
 - [[Discord Chat - Calendars]] 
-- [Calendar Brainstorming](https://docs.google.com/document/d/1anb-F8574X5BJbA4o1oeSRIuNveaXB--u21Owbd9LTA/edit?tab=t.0)
+- [[Dwarven Calendar - Ideas]]
+- [[Hkar Calendar - Ideas]]
+- [[Drankorian Calendar - Ideas]]
 - [[Discord Chat - Dwarven Calendar]]
 - [[Discord Chat - Hkaran Calendar]]
+- [[Discord Chat - Calendars]]
 
 %%
 

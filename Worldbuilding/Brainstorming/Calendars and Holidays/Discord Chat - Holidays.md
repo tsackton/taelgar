@@ -1,4 +1,3 @@
-
 [8/8/2023 5:15 PM] .deciusmus
 Can you send the chat gpt link over discord or email? Being a non mac user I cant see imessage on my computer
 
