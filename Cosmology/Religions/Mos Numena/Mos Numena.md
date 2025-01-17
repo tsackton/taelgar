@@ -1,13 +1,11 @@
 ---
-tags: [religion/mosnumena, background, status/check/tim, status/check/mike]
+tags: [religion/mosnumena, background, status/check/mike]
 name: Mos Numena
 aliases: [Eight Divines]
-dm_owner: shared,tim
-dm_notes: important
+dm_owner: joint
+dm_notes: none
 ---
 # Mos Numena
-
-%% notes mostly from circular island %%
 
 %% tagged for review as some thought needs to be given to what is canon, what is detail that should probably be canon but hasn't been fully introduced, and what is brainstorming %%
 
@@ -230,4 +228,78 @@ Some ideas:
 - There probably does need to be a creation story, and/or a ‘foundation story’ for the Mos Numera, at least describing how the Eight Divines arose.
     
 
+%%
+
+%% some additional notes
+
+- I like the idea that Mos Numena develops by basically the process of re-definition of other gods as archetypes of a "bigger" god, which is a good explanation for how it becomes dominant. See more in [[Religious History of Taelgar]]
+- Contrast with other Hkaran religions: we've already vaguely established the mariner religion as for some reason more prone to schisms and evolution than Mos Numena, which is largely unchanged (in divinity, if not in human practice) since Hkar itself
+- Mos Numena, without a real hierarchy or organization, is typically propogated in the local languages, and so there isn't a strong religious force to maintain a non-spoken language
+
+%%
+
+%% email -  mostly included above
+
+I would argue the main divisions have to do with the solutions to the theological problems of how to avoid "interference." 
+
+  
+
+The Drankorian tradition, which evolves into the Chardonian / western tradition, relies on temple architecture. All temples are functionally to "the Eight Divines" but are constructed in such a way to isolate each section. In richer, bigger cities, this is a complex with eight separate buildings (effectively, these are cathedrals); in smaller places, this copies the original Drankorian architecture with an eight pointed star or some such thing, mimicking separate buildings. But in this tradition, there are no Temples of the Mother. 
+
+  
+
+The Greater Sembaran tradition, which relies on moving away from temples of the Eight; instead, a temple is associated with a particular god. In big cities, you would probably have temples (possibly multiple temples) to each of the Eight, but smaller places would make do with one, usually associated with the patron divine of that town or village. There are also numerous shrines, holy sites, and other such locations scattered across the landscape that may not have a formal structure but are considered holy places of a particular Divine. 
+
+  
+
+Separately, you have varying attitudes towards the religious hierarchy, but this doesn't map perfectly to the Drankorian/Sembaran divide. 
+
+  
+
+-in Chardon, following the Drankorian tradition, there is a fairly organized priesthood, and recruiting a powerful priest to a temple is a key part of the temple steward's role. Organized religious orders are also fairly common; these often descend from Drankorian orders. In the northern parts of the west that worship Mos Numena but are not Chardonian, these orders probably extend, so to a certain extent you get kind of Christian vibe with trans-national religious hierarchy. E.g. in Mawar or Illoria, you have temples to the Eight that are potentially hierarchically connected to Chardonian temples. Similar in e.g. Darba or other places where Mos Numena is the minority religion.
+
+-in Sembara, you have a lot of hostility to organized religious orders, so there is this kind of disorganized priesthood. This is probably shared in Vostok too. 
+
+-in Cymea (and probably Tollen), you follow the Sembaran temple tradition, but also have a fair bit more acceptance of organized orders. Probably not quite like Chardon, though. 
+
+  
+
+That said, I think you could make the intercessory idea kind of uniquely Sembaran (or, probably, Sembaran + Vostok, the places where the kestavo were strongest) without changing the fact that temple architecture is the same across Sembara, Cymea, and Vostok. 
+
+  
+
+In Tyrwingha and Cymea, there isn't really the idea of intercession. Villages would still have a patron divine and a single temple to that divine, but there would usually be shrines or holy places or things like that if you really needed to pray to a specific god that wasn't the one the temple is dedicated to. But maybe portfolios are a bit broader - if the Sibyl is the patron divine of your village, it is sort of assumed that everything happening in your village is under her sway.
+
+---
+RIght, ok, I really like that actually and it makes a lot of sense. 
+
+  
+
+That also makes the idea of intercession something that can be somewhat fluid. Everywhere across greater Sembara, the temples are each only to one divine. In the heartland of the kestavo tradition, the idea of asking one god to talk to another is very strong and has carried forward into Mos Numena. But in other places perhaps that idea is weaker, and prayers might be offered to each divine. But small villages would still make do with one 'dedicated' divine, often, or perhaps two, and that kinda makes them into the village god.
+
+  
+
+So in a small, traditional village in Tyrwingha, the village god might be the Father, and thus the temple dedicated to him, but people would still offer prayers to the Mother for a  good harvest, it just wouldn't be through the temple, and would be 'smaller'. And of course they'd offer prayers at the temple as well, for a warm summer, say, or whatever. And maybe as a village gets larger it is more and more likely they'd have a second temple, to the Mother, and then a third to the Night Queen. So a market town in Cymea of 1500-2000 people might have 4-5 temples, one to each divine.
+
+  
+
+In Sembara, this doesn't happen except in the various largest of cities. Instead, there is a strong tradition that the temple of the Father just grows and everyone asks him to talk to the others.
+
+%%
+
+
+%% Circular island - vibes and overview
+
+- During the Downfall War, priests of Mos Numena used the Crown of Purity to create/animate/summon a massive island, that could walk, to serve as a refuge for the bulk of the population of Hkar, as Hkar was sinking/going to be sunk/etc, for semi-canonical reasons having to do with not letting the Divine Spark fall into the hands of the Three Despairs.
+- After people disembark and found Drankor, this becomes of a major pilgrimage site, tended to by Mos Numena priests. Large temple is constructed on the height of land, there are pilgrim's waystations, and a divine/magical road that keeps people on their feet as they slowly circle to the top. statues of Mos Numena, the whole deal. Not copying full DM notes but I think the color is clear. See more: [[~Circular Island~]] 
+- This becomes of central importance in Drankorian religion. 
+- However, Apollyon is extremely successful in crushing knowledge of pilgrimage location. Reasons are left somewhat vague, but combination of wanting to suppress competing religions; wanting to keep knowledge of the Crown secret; wanting to establish the island as his own domain for various reasons; political fights with the mainland church; etc. 
+- So when Drankor falls, transmutes and the details are forgotten. However survives in whatever thanksgiving holiday gets invented and in the belief that the Mos Numena divines saved humanity from destruction. 
+
+Drankorian Mos Numena vibe is:
+- organized around societies
+- magical 
+- supposed to call back to the Golden Age of Drankor and is set up as one of the forces pushing for Drankorian nobility / making Drankor a beacon of hope instead of falling into power struggles and wars of expansion. 
+- This might actually make Mos Numena somewhat anti-evangelical. But of course people want to join because the Divines are undeniably powerful and Drankorian priests can use a lot of magic. 
+- Many fissures between the Sembaran church and what will become the Chardonian / Western church may date to the end of Drankor, when the Sembaran church attempted to rebel against Apollyon's rule. The exact details of what happened are left vague. 
 %%
