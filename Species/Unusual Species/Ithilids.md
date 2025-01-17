@@ -1,14 +1,9 @@
 ---
 aliases: [Mindflayer, Mind Flayer, Illithid]
-tags: [species, status/stub, status/check/mike]
+tags: [species, status/stub]
 dm_owner: joint
-dm_notes: important
+dm_notes: none
 ---
-
-%% Tim: I added anything I could find from my notes that is relevant; did not search shared notes so might need a status/cleanup/external. Could set dm_notes to none from my point of view.  %%
-
-%% Mike: non-canonical notes from planning for part 2 of cleenseau campaign where mindflayers are a main villian %%
-# Illithids
 
 Aberrations from the Far Realm. 
 
@@ -47,4 +42,7 @@ Other notes are much vaguer:
 - Mind flayers were a key part of the destruction of Ardith. Exactly how is not determined
 - Mind flayers were part of the stone titan attack from the intro one-shot, although details of that game are not considered necessarily canon
 
+Mike's speculative notes on types of mind flayers suggests that it would be sensible for there to be two types in the large plot arc of Cleenseau:
+- a cult of nihilist mind flayers who simply want to destroy the world  
+- non-nihilist mind flayers would like to destroy the soul jar and use the chaltye golem to enslave the human realms
 %%
