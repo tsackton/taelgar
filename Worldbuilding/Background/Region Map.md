@@ -1,8 +1,9 @@
 ---
 tags: [background/map]
-dm_owner: meta
+dm_owner: none
 dm_notes: none
 ---
+
 
 ```leaflet 
 id: region-map-taelgar

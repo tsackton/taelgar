@@ -1,7 +1,7 @@
 ---
 tags: [deity, status/stub]
 affiliations: [elves]
-dm_owner: meta
+dm_owner: joint
 dm_notes: none
 ---
 

@@ -13,8 +13,8 @@ dm_notes: important
 
 %% needs some thought about holy symbol %%
 
-%% a few notes from various adventures that might  add color but nothing important %%
-%% I have some significant in-game experience with wanderer as one of my players is a paladin of the wanderer, some of which is worth capturing here %%
+%% Tim: a few notes from various adventures that might  add color but nothing important %%
+%% Mike: I have some significant in-game experience with wanderer as one of my players is a paladin of the wanderer, some of which is worth capturing here %%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 

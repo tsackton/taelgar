@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [deity, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ""}
 gender: enby
-dm_owner: shared,tim,mike
+dm_owner: joint,mike,tim
 dm_notes: important
 ---
 # The Wyrdling

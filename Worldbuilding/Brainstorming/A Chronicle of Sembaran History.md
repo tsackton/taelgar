@@ -1,6 +1,6 @@
 ---
 tags: [background]
-dm_owner: meta
+dm_owner: joint
 dm_notes: none
 ---
 
