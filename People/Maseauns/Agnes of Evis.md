@@ -14,7 +14,7 @@ whereabouts:
 - {type: away, start: 1719-12-05, end: 1719-12-07, location: ~SouthCleenseauScrublands~ }
 - {type: away, start: 1719-12-07, end: 1719-12-12, location: Cleenseau}
 - {type: away, start: 1719-12-12, end: 1719-12-22, location: traveling home to Evis}
-dm_notes: color
+dm_notes: none
 dm_owner: none
 ---
 # Agnés of Evis

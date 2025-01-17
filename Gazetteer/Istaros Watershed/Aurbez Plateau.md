@@ -4,6 +4,8 @@ tags: [place]
 name: Aurbez Plateau
 typeOf: region
 whereabouts: Aurbez and the Andonne
+dm_owner: none
+dm_notes: none
 ---
 # The Aurbez Plateau
 >[!info]+ Information
