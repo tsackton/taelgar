@@ -37,7 +37,7 @@ There are three major migrations from Hkar, as well as some additional minor mig
 
 ### Early Explorers (Minor)
 
-The first migrants from Hkar are relatively disorganized group practicing an intercessory religion who largely settle on the west coast of the mainland, in the shadow of Alcarinque, and slowly spread along the western side of the sentinels. These people and their descendants are referred to as the **Northerners** (better name needed?), and largely do not retain contact with Hkar after departing. Their reasons for departing are left unclear.
+The first migrants from Hkar are relatively disorganized group practicing an intercessory religion who largely settle on the west coast of the mainland, in the shadow of [[Alcarinque]], and slowly spread along the western side of the sentinels. These people and their descendants are referred to as the **Northerners** (better name needed?), and largely do not retain contact with Hkar after departing. Their reasons for departing are left unclear.
 
 ### Pre-Urban Exodus (Major)
 

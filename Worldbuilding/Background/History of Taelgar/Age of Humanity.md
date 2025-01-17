@@ -13,7 +13,7 @@ With the sinking of Hkar, the land changed: mountains arose from the plains, hil
 
   
 
-Among the humans, the destruction was greatest on Hkar. Many refugees from Hkar, buoyed by the Eight Divines, landed in the war-torn remnants of the dying elven kingdom of Alcarinquë. Whether others survived the long journey south, beyond the destruction, to some far distant land, is not known by modern scholars. But those living on the mainland were not spared the ravages of war. The cities and civilizations of the south, once the most powerful kingdoms outside of Drankor, fell, and were swallowed by the changing land. Only those humans who had lived on the margins of the world, in the far north, or on the shores of the [[Green Sea]], escaped largely unscathed, although not untouched by war. 
+Among the humans, the destruction was greatest on Hkar. Many refugees from Hkar, buoyed by the Eight Divines, landed in the war-torn remnants of the dying elven kingdom of [[Alcarinque|Alcarinquë]]. Whether others survived the long journey south, beyond the destruction, to some far distant land, is not known by modern scholars. But those living on the mainland were not spared the ravages of war. The cities and civilizations of the south, once the most powerful kingdoms outside of Drankor, fell, and were swallowed by the changing land. Only those humans who had lived on the margins of the world, in the far north, or on the shores of the [[Green Sea]], escaped largely unscathed, although not untouched by war. 
 
   
 
@@ -52,7 +52,7 @@ The downfall of Hkar was a massive disaster. A continent sized place sank, and t
 
 Among non-human cultures:
 
-- The great elven kingdoms are gone, save for some remnants of the ancient forests in the ~Irebor River Valley~ and south and east of the Mostreve HIlls. Most elves who survive the downfall retreated the western forests, or the remnants of Alcarinquë near the [[Green Sea]], now called [[Orenlas]] (loosely, “dawn leaves”). 
+- The great elven kingdoms are gone, save for some remnants of the ancient forests in the ~Irebor River Valley~ and south and east of the Mostreve HIlls. Most elves who survive the downfall retreated the western forests, or the remnants of [[Alcarinque|Alcarinquë]] near the [[Green Sea]], now called [[Orenlas]] (loosely, “dawn leaves”). 
     
 - The lizardfolk scatter, some staying in the remnants of the great swamps of the prior age, others finding new refuges in the changed world, and many leaving on a great migration to find a new homeland to the south. 
     
@@ -93,7 +93,7 @@ As Drankor grew into a major power, then great empire, a few aspects of its cult
 
 #### Expansion
 
-Over the next 100 years, the Drankorian Empire expanded north and west, to the Myrenai Gap in the west and the southern reaches of the ~Irebor~ river valley in the north. Most of this land was empty, fertile territory, left unpopulated after the fall of Alcarinquë. During this time, most of Drankor’s attention was focused on the eastern borders, where a series of defensive fortifications are constructed between the ~EastBranchMahar~ and the ~GreatBay~, to provide defense against incursions from the survivors of the Armies of Despair that fought during the Downfall Wars. On the northern frontiers, more than 1000 miles from Drankor and the center of the Empire, contact and trade with the northern peoples, both east and west of the ~CentralMountains~, slowly began to grow.
+Over the next 100 years, the Drankorian Empire expanded north and west, to the Myrenai Gap in the west and the southern reaches of the ~Irebor~ river valley in the north. Most of this land was empty, fertile territory, left unpopulated after the fall of [[Alcarinque|Alcarinquë]]. During this time, most of Drankor’s attention was focused on the eastern borders, where a series of defensive fortifications are constructed between the ~EastBranchMahar~ and the ~GreatBay~, to provide defense against incursions from the survivors of the Armies of Despair that fought during the Downfall Wars. On the northern frontiers, more than 1000 miles from Drankor and the center of the Empire, contact and trade with the northern peoples, both east and west of the ~CentralMountains~, slowly began to grow.
 
   
 
