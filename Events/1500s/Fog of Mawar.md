@@ -6,7 +6,7 @@ DR_end: 1590
 name: Fog of Mawar
 displayDefaults: {dPastHasStart: "<startDate> - <endDate>, lasted <length>", partOf: ""}
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # The Fog of Mawar
 >[!info]+ Information

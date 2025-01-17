@@ -139,7 +139,7 @@ TABLE WITHOUT ID
   dm_notes as notes,
   Status AS "status"
 FROM ""
-WHERE contains(dm_owner, "mike") and contains(dm_owner, "tim")
+WHERE contains(dm_owner, "mike") and contains(dm_owner, "tim") and !contains(dm_owner, "shared")
 FLATTEN choice(
     length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
     "stub",
@@ -166,6 +166,7 @@ TABLE WITHOUT ID
   directory AS "directory",
   file.link AS "page",
   dm_notes as notes,
+  dm_owner as owner,
   Status AS "status"
 FROM ""
 WHERE contains(dm_owner, "shared") and (contains(dm_owner, "mike") or contains(dm_owner, "tim"))
@@ -187,7 +188,7 @@ FLATTEN choice(
     )
   ) AS "Status"
 FLATTEN join(split(file.path, "/", 1), "/") as "directory"
-SORT directory, dm_notes, Status
+SORT dm_owner, directory, dm_notes, Status
 ```
 
 ### Only Shared Notes
