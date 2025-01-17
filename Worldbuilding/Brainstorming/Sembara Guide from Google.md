@@ -1,11 +1,3 @@
----
-tags: [background, status/check/mike]
-dm_owner: none
-dm_notes: none
----
-
-%% pretty sure this is just a dump of the Google doc, so straight brainstorming doc and no reason to have it set as anything status/frontmatter wise?%%
-
 Sembara: A Guide
 
 In the second year of the reign of Her Majesty Elaine II, Queen of Sembara, Duchess of Telham and Protector of the Northlands, High Princess of Tyrwingha, Blessed Defender of all the Lands Between ~CentralMountains~ and the Green Sea
