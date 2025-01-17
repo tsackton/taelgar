@@ -139,6 +139,237 @@ some of that is just about forgetting, some about leaving to other planes, some 
 [10/30/2023 9:55 AM] rsulfuratus
 have a meeting now but am going to sketch this out in a bit more detail later today
 
+[11/3/2023 12:38 PM] rsulfuratus
+working on a bit of elven history, thinking about ka and mela and leya. which do you like better:
+1) during the first 30 years of each ka, at the beginning of mela, every elf who has not experienced a mela before is fertile and able to have children via a mystical process associated with the firstborn; once you have lived through a mela cycle, you are never again able to have children.
+2) elves are fertile between roughly 150-180 years, and then cease to be fertile. so it is less mystical and more biological, and what matters is your age not your life experience
+
+
+[11/3/2023 12:40 PM] rsulfuratus
+(1) is a little simpler for the first generation / getting things going, and ensures you don't get age drift where if the youngest have kids with youngest and oldest with oldest you tend to move towards overlapping generations over time. it also raises the possibility that Delwath didn't actually experience the last mela during the 37th ka
+
+
+[11/3/2023 12:41 PM] rsulfuratus
+(2) is maybe a little more straightforward and clear from the point of view of an elf PC as you can kind of figure out your age and where you fit
+
+
+[11/3/2023 12:53 PM] .deciusmus
+I went back and forth on this a lot when I was making up the mela and leya stuff
+
+
+[11/3/2023 12:56 PM] rsulfuratus
+I'm leaning towards 1 but not committed to it
+
+
+[11/3/2023 1:00 PM] .deciusmus
+I was mostly thinking about in turns of (2), both because
+(a) I've largely been playing Delwath as someone who knows he can't have kids because he has missed his chance
+(b) I didn't think of any other ideas
+
+But the generation drift was a bit annoying, and you do by math potentially end up with drift. I was thinking of dealing with that via cultural ideas about mostly everyone has children in the first couple of years of coming back from mela, and also everyone of a ka leaves at the same time.
+
+So even with some age variabilty, it would be unusual to have gen drift because someone who is born very early in the ka enters the marriage market so to speak at the same time as everyone else
+
+
+[11/3/2023 1:01 PM] .deciusmus
+That said, adding more mysticism is not necessarily wrong or a bad idea. I'd just have to think about the impact on Delwath. I haven't done the generation math but I assume he would not have experienced a mela yet
+
+
+[11/3/2023 1:15 PM] rsulfuratus
+whether that counts could be clear or unclear depending on how you feel, I guess
+he wouldn't have experienced a mela on the material plane. but would have while trapped in the shadow realm
+
+
+[11/3/2023 1:17 PM] rsulfuratus
+I would expect that elves on the feywild for example would still experience the mela whether they were in the feywild or not
+
+
+[11/3/2023 1:50 PM] .deciusmus
+What about this...
+
+The mela and leya are not time periods or events in the lifecycle of an individual elf, the are actual metaphysical events in the world. Every 80 years, since the first elves were born, Aldanor exhales -- the leya -- and the inhales -- the mela.  (The metaphor is just an example, something plant-related might be better).
+
+An individual elf -- wherever they are -- feels these in their bones. The first leya of an elf's life is said to breath Aldanor's spirit into the elf, and makes them 'adult'. This is often accompanied by an urge to travel or see some new part of the world, and the eighty years after the leya have come to be called by the name of the event.
+
+The first mela, on the other hand, pulls an elf home, and is accompanied by an urge to reconnect with Aldanor. The mela itself lasts for some amount of time - 5 years? 10 years? - as a long inhale basically.
+
+Elves who "reconnect with Aldanor" during that mela become fertile
+
+
+[11/3/2023 1:51 PM] rsulfuratus
+I like that a lot
+
+
+[11/3/2023 1:51 PM] .deciusmus
+It could be somewhat unknown what happens to elves who don't return during the mela
+
+
+[11/3/2023 1:51 PM] .deciusmus
+again, the metaphor and vibes might need to be a little different
+
+
+[11/3/2023 1:52 PM] .deciusmus
+And for Delwath specifically, he *didn't* feel the pulse of the mela while in the Shadowfell
+
+
+[11/3/2023 1:53 PM] .deciusmus
+Is that because it was too faint, and he was too lost in his pain to notice it and he missed it? Is it because it didn't reach him? In the next mela (when is that, anyway?) will he feel like?
+
+
+[11/3/2023 1:54 PM] .deciusmus
+There is likely also something that could be done with this idea and death, i.e. maybe the pulse of Aldanor gets weaker over time, and elves tend to die off around the mela, as they fail to feel it at all
+
+
+[11/3/2023 1:54 PM] .deciusmus
+Or maybe not
+
+
+[11/3/2023 1:55 PM] .deciusmus
+But a normal elf in the Feywild would obviously feel the mela, so the fact that Delwath didn't hear it would be interesting, but also if the metaphysics were such that he should have heard it, it could be just because he was too wrapped up in his pain to notice
+
+
+[11/3/2023 1:55 PM] .deciusmus
+Or it could be a cool unique feature of the Cha'mutte pocket dimensions. Actually Cha'mutte having a pocket dimension where the embodied gods can't reach would be plauisble
+
+
+[11/3/2023 1:56 PM] rsulfuratus
+next mela starts in 1787, so ~40 years
+
+
+[11/3/2023 1:56 PM] rsulfuratus
+currently in the 37th leya, which started in 1707
+
+
+[11/3/2023 1:57 PM] rsulfuratus
+actually works out to be a convenient time to run games for elf players
+
+
+[11/3/2023 1:57 PM] .deciusmus
+Yeah
+
+
+[11/3/2023 1:58 PM] .deciusmus
+I also feel like the metaphor should maybe be plant related, or alternatively somehow the mela (or leya) is Aldanor and the other is Elmerca
+
+
+[11/3/2023 1:58 PM] rsulfuratus
+I think mela is Aldanor, the leya is Elmerca
+
+
+[11/3/2023 1:58 PM] .deciusmus
+I don't love inhale / exhale as the metaphor. Just was using it as a quick example of what I meant
+
+
+[11/3/2023 1:59 PM] .deciusmus
+But actually having one for each god works well
+
+
+[11/3/2023 1:59 PM] rsulfuratus
+I'd make the metaphor more root related somehow, like a grounding in the earth
+
+
+[11/3/2023 1:59 PM] .deciusmus
+Yeah
+
+
+[11/3/2023 1:59 PM] .deciusmus
+I like that
+
+
+[11/3/2023 1:59 PM] rsulfuratus
+then leya is disperal on the wind
+
+
+[11/3/2023 1:59 PM] .deciusmus
+Yeah, that's perfect
+
+
+[11/3/2023 2:00 PM] rsulfuratus
+I actually really like the idea that with each mela elves feel less and less connected to taelgar - works with the root metaphor too
+
+
+[11/3/2023 2:00 PM] .deciusmus
+This also works with my original elf notes about the "rite of awakening" and the "rite of return"
+
+
+[11/3/2023 2:00 PM] rsulfuratus
+yeah
+
+
+[11/3/2023 2:00 PM] .deciusmus
+The mela is the rite of awakening, the leya is the rite of return
+
+
+[11/3/2023 2:01 PM] rsulfuratus
+I think by your 5th or 6th mela most elves don't feel the pull of taelgar anymore, and in the 6th leya is when lots of elves leave
+
+
+[11/3/2023 2:01 PM] rsulfuratus
+some in the 5th, some in the 7th, but the peak of departures is the 6th leya
+
+
+[11/3/2023 2:02 PM] rsulfuratus
+basically you have 1 leya as a wanderer, 1 as a nuturer, 1 as a caretaker, 1 as an elder/unifier, 1 as an ancient, and then you go
+
+
+[11/3/2023 2:02 PM] rsulfuratus
+puts typical lifespan right aroun 1000 years, but really once you reach elder many are forgetting and starting to turn inward
+
+
+[11/3/2023 2:03 PM] rsulfuratus
+and then those who stay do so for a reason
+
+
+[11/3/2023 2:03 PM] .deciusmus
+right that seems perfec
+
+
+[11/3/2023 2:05 PM] rsulfuratus
+that puts the sort of typical elven memory threshold around 400 years:
+- you don't remember much from your first mela
+- your first leya (80 years) you are out in the word
+- next two ka (320 years) you are alternating between caretarker and nuturer
+- then you reach your 5th mela and the pull starts to fade. maybe you become a unifier and turn inward, stick around as an elder, etc, but the past starts to feel more like a dream, etc for most elves
+
+{Reactions}
+👍
+
+[11/3/2023 2:07 PM] .deciusmus
+I assume you will put some of this in obsidian
+
+
+[11/3/2023 2:07 PM] rsulfuratus
+yeah
+
+
+[11/3/2023 2:07 PM] rsulfuratus
+I'm working on the history of the elves. got my covid + flu shots yesterday and was feeling pretty crappy this morning so took a sick day and a nap
+
+
+[11/3/2023 2:08 PM] rsulfuratus
+now working on taelgar instead of trying to squeeze something into the end of the day
+
+{Reactions}
+👍
+
+[11/3/2023 2:09 PM] rsulfuratus
+I pushed a note that has all the elven generations going back to the 1st ka with the mela and leya start years fyi, under elves
+
+
+[11/3/2023 2:34 PM] rsulfuratus
+updated elven generations note with text based on this, feel free to edit
+
+
+[11/3/2023 3:21 PM] rsulfuratus
+thinking about this some more, the idea that it is liternally Aldanor's influence that lets elves reproduce puts Cha'mutte's desire to kill all the gods in a different light
+
+
+[11/3/2023 3:21 PM] rsulfuratus
+no wonder the elves were so against him
+
+
+[11/3/2023 3:22 PM] .deciusmus
+That actually fits perfectly. He is going to kill the elves as a sacrifice to free the other races
 
 
 [11/19/2024 10:48 AM] rsulfuratus
@@ -167,3 +398,5 @@ In general I like that. One thought is is there 1 domain or 2? do the various el
 
 [11/19/2024 6:16 PM] .deciusmus
 Also I wonder if there should be some type of sense of connection to the mela / leya connection. Is there a tide or sense in Aldanor's realm of the mela/leya? Does it originate there somehow?
+
+

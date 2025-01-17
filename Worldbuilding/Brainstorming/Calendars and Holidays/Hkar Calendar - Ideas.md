@@ -1,8 +1,4 @@
-
-Thinking a little bit about calendar systems (human only, for now).
-
-  
-## On Hkar
+## Hkar
 
 The first humans had no need of a calendar, or really to track the passage of years. Hkar was a large subtropical/tropical island with abundant rainfall, oceanic breezes that kept the temperatures relatively mild year round, and relatively little seasonality in general. 
 
@@ -16,6 +12,5 @@ The importance of this ritual cycle is lost to time, but was strongly tied to ma
 
 Among the mariners, a lunisolar calendar develops, that uses 12 lunar months of 29 or 30 days, with intercalary days/months inserted when needed to keep in sync with the solar year (very similar to e.g. ancient Mesoptamian calendars).
 
-Drankor
-
-Drankor largely adopts the urban Hkar calendar,
+One idea for the calendar:
+* 50 weeks of 7 days, with a year running from Jan 7th - Dec 23rd (in the Drankorian months), followed by a 15 day winter in between each year.

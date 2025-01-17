@@ -1,0 +1,1 @@
+In Drankor, the intercalary winter is dropped, but the Pyravela celebration is retained, so you get the year started on Jan 1st (which becomes Jan 1st)

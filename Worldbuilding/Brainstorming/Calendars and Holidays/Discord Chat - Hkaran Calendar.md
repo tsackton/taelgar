@@ -1,5 +1,3 @@
-
-
 [12/19/2023 8:24 PM] rsulfuratus
 working on some possible color for theoretical Tollen downtime next session and looking back at Mos Numena calendar brainstorming
 
