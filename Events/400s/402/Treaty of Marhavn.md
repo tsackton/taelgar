@@ -5,7 +5,7 @@ name: Treaty of Marhavn
 summary: An agreement between the Emperor Goristo and the people of Skaer and Vostok establishing the Volta as the northern boundry of the Drankorian Empire
 DR: 402
 dm_owner: shared
-dm_notes: none
+dm_notes: color
 ---
 # The Treaty of Marhavn
 >[!info]+ Information

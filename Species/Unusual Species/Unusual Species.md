@@ -1,9 +1,11 @@
 ---
-tags: [background]
-dm_owner: shared
+tags: [background, status/check/tim]
+dm_owner: none
 dm_notes: none
 ---
 # Unusual Species
+
+%% setting status/check/tim to confirm you are happy here - this is a player facing overview page so it is not expected to be complete %%
 
 Not every sentient species in Taelgar has a simple origin story. 
 
