@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, religion/mosnumena, status/cleanup/image]
+tags: [deity, religion/mosnumena, status/cleanup/image, status/check/mike]
 displayDefaults: {defArt: ''}
 name: The Wanderer
 gender: male
-dm_owner: shared,tim,mike
+dm_owner: joint
 dm_notes: important
 ---
 # The Wanderer
@@ -13,7 +13,8 @@ dm_notes: important
 
 %% needs some thought about holy symbol %%
 
-%% Tim: a few notes from various adventures that might  add color but nothing important %%
+%% set to joint - not sure if useful to add status/cleanup/external or any other marker of your notes; AFAIK no shared notes. i copied only relevant stuff in my dm notes below, at end. could set to dm_notes: none from my end %%
+
 %% Mike: I have some significant in-game experience with wanderer as one of my players is a paladin of the wanderer, some of which is worth capturing here %%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
@@ -23,3 +24,13 @@ The Wanderer is usually depicted as a young man, dressed as a traveler or a merc
 In many lands, it is traditional for [[Mos Numena]] temples to have a small room or cot for travelers, known as The Wanderer's Cot. 
 
 %% In mechanical terms, his clerics would usually be associated with the Peace or Knowledge domains, or perhaps the Trickster or Life domains. %%
+
+%% Tim, adding relevant notes from my DM folder
+
+re: Circular Island, one thing that was maybe not clear as a player is that the Wanderer was seen as guiding the overall pilgrimage enterprise, hence the port growing up around / near the statue of the Wanderer. Ties into general association with journey.
+
+ I like that the Eight Divines are generally pretty impersonal and abstract, since it fits with the kind of Drankorian feeling. but I also think it is nice to have some that play against type so to speak and the wyrdling seems a good candidate. also contrasts with the very impersonal sense of the wildling as nature writ large
+ 
+the sibyl and maybe the wanderer also might have that kind of more personal feeling, with the mother, the father, and the wildling as the most vast and impersonal
+
+%%
