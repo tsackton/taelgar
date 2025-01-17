@@ -34836,62 +34836,6 @@ So you are probably right
 yeah humans are fairly strong as it is so slightly weaker is not bad imo, the main goal is if Isaac is reading the new dwarf his first thought is not "why i am i bothering with a thuhr?"
 
 
-[9/12/2024 1:38 PM] .deciusmus
-Runes:
-
-I like Fanrukel's Insight. It might be a little weak but it is situationally unique, so I think gains from that perspective (and for a player/character who cares about arcana/history/etc rolls feels valuable).
-
-
-[9/12/2024 1:39 PM] rsulfuratus
-right, i like that there isnt any other way to do replace this
-
-
-[9/12/2024 1:39 PM] rsulfuratus
-which makes it more valuable than just another spell imo
-
-
-[9/12/2024 1:39 PM] .deciusmus
-And I know my player would love to have 6 of these sitting around @ 20th level which in practice is basically equal to the rogue's reliable talent (for knowledge skills only), and feels reasonable for a high powered character
-
-
-[9/12/2024 1:41 PM] .deciusmus
-Goodberry I think is fine also. It is relatively stronger at low levels, in that it provides effectively a constantly renewing potion of healing. But I don't think it is useless at high levels, you just need to start thinking about it as, i.e. being used to feed a platoon or whatever, rather than just the PCs
-
-
-[9/12/2024 1:45 PM] .deciusmus
-For Locate Stone or Ore, what about adding the "not moving" and/or "not on a creature" as a qualifier? Alternatively, what is wrong with the "nearest"  from the original dwarf? Separately, I think losing the ability to generically sense kinda hurts the flavor a bit.
-
-
-[9/12/2024 1:46 PM] rsulfuratus
-the problem with nearest is it just ends up detected all your coins. it is a bit tricky to get the flavor right and i'm still iterated on this i think.
-
-
-[9/12/2024 1:46 PM] rsulfuratus
-in seeker's ability, there are two options: unworked/raw stuff is generic sense, worked stuff you need to specify
-
-
-[9/12/2024 1:46 PM] rsulfuratus
-seeker mostly uses the unworked option but to me that is actually kind of useless because who really cares if there is a vein of silver 200 feet into a cliff face?
-
-
-[9/12/2024 1:48 PM] rsulfuratus
-it is also particularly annoying to run for just a generic everything sense because it is either a universal treasure sensor (too strong) or it is detecting something you would rarely/ever specify in advance (raw material)
-
-
-[9/12/2024 1:49 PM] rsulfuratus
-my feeling from Eric is that he tries to use it but it never really feels like there is a payoff so dont want to be limited to the mechanics that exist - trying to make it more useful
-
-
-[9/12/2024 1:49 PM] .deciusmus
-Hrm. I see the point
-
-
-[9/12/2024 1:49 PM] .deciusmus
-For Flame Ward, I'd just leave it and increase the duration to 1 hour.
-
-
-[9/12/2024 1:50 PM] .deciusmus
-although maybe that is too strong...
 
 
 [9/12/2024 1:54 PM] rsulfuratus
