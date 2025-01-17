@@ -142,6 +142,7 @@ TABLE WITHOUT ID
   directory AS "directory",
   file.link AS "page",
   dm_notes as notes,
+  External as "External?",
   Status AS "status"
 FROM ""
 WHERE contains(dm_owner, "joint")
@@ -162,7 +163,11 @@ FLATTEN choice(
       )
     )
   ) AS "Status"
-FLATTEN join(split(file.path, "/", 1), "/") as "directory"
+FLATTEN join(split(file.path, "/", 2), "/") as "directory"
+FLATTEN choice(
+    length(filter(file.etags, (t) => startswith(t, "#status/cleanup/external"))) > 0,
+    "yes",
+    "no") AS "External"
 SORT directory, dm_notes, Status
 ```
 

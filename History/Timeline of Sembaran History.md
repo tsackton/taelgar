@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/old, status/cleanup/external]
+tags: [background, status/needswork/old, status/cleanup/external, status/check/mike]
 displayDefaults: {defArt: a}
 campaignInfo: []
 name: Timeline of Sembaran History
@@ -8,6 +8,8 @@ dm_owner: joint
 dm_notes: important
 ---
 %% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up %%
+
+%% does this need dm_notes: important? or better captured just by cleanup/external? that is, do you have unshared notes on Sembaran history overall that would be worth capturing?%%
 ## The Drankorian Conquest
 DR 300 - DR 431
 

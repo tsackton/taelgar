@@ -1,5 +1,5 @@
 ---
-tags: [event, status/stub]
+tags: [event, status/stub, status/cleanup/external]
 campaignInfo: []
 name: Derik I's Arrival in Tyrwingha
 DR: 1425-11-19
