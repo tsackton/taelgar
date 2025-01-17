@@ -1,6 +1,6 @@
 ---
 tags: [meta]
-dm_owner: none
+dm_owner: joint
 dm_notes: none
 ---
 # Typology for Introducing D&D Creatures

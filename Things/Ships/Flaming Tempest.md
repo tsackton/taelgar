@@ -5,8 +5,8 @@ displayDefaults: {boxInfo: "<ancestry> <subTypeOf>", ruledBy: "<affiliationtitle
 typeOf: vehicle
 subTypeOf: pirate ship
 ancestry: Skaer
-dm_owner: none
-dm_notes: none
+dm_owner: tim
+dm_notes: important
 ---
 # The Flaming Tempest
 >[!info]+ Information  
