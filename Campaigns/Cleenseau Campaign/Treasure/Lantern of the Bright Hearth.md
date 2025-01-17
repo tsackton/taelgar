@@ -51,3 +51,21 @@ If attuned to the lantern, it will return whole to you each twilight, should it 
 If you are within 60 feet of it, you can command it to emanate light equivalent to that of the [Light](https://www.dndbeyond.com/spells/2618996-light) or [Daylight](https://www.dndbeyond.com/spells/2619083-daylight) spell (your choice). Once used, the Daylight effect can’t be used again until the next dawn.
 
 You can issue another command as a [Magic](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action to make the illuminated globe rise into the air and float no more than 5 feet off the ground. The globe hovers in this way until you or another creature grasps it. If you move more than 60 feet from the hovering globe, it follows you until it is within 60 feet of you. It takes the shortest route to do so. If prevented from moving, the globe sinks gently to the ground and becomes inactive, and its light winks out.
+
+
+%% Old notes from emails
+
+_You will take this. It is not presented as a gift, Rather, it is yours, this simply is. This world can be harsh, and you may find that your inclinations to be kind are sorely tested. If you find yourself forgetting who you are, may this light remind you."_   
+
+**Lantern of the Bright Hearth**
+A small crystal lantern about the size of a fist
+
+When the bearer wills (Free Action), it glows with a soft amber light and illuminates the area around for a distance of 30'. In the presence of magical darkness, it will maintain illumination around it for a distance of 15'.
+
+If analyzed, the lantern is imbued with fey magic and has a glamour, but the glamour is specifically meant to emphasize what already is rather then to obscure or mislead. If the lantern is visible and the bearer is speaking truthfully, people within its light will have a sense that the bearer is trustworthy and earnest (not intended to be a tangible die bonus to persuade or anything, but people would be unlikely to suspect the bearer of lying).  
+
+Those resting within its light will be reminded of pleasant things and hopeful times past, and will find that sleep comes easily.  
+
+If lost or destroyed, the lantern will return whole to its bearer at the next twilight. If the bearer is slain, the lantern will remain somewhere near where its bearer died, but in the open (if the bearer was slain in cave, for instance, it would appear near the mouth of the cave), and if removed will return to that spot at the next twilight. If someone passes by who aligns with the lantern's ethos, they may feel compelled to take up the lantern and will then become its new bearer.
+
+%%
