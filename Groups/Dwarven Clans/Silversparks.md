@@ -3,6 +3,7 @@ headerVersion: 2023.11.25
 tags: [organization, status/stub]
 name: Silverspark Clan
 typeOf: clan
+ancestry: dwarven
 dm_notes: important
 dm_owner: tim
 ---
