@@ -4,7 +4,7 @@ tags: [organization, status/check/mike]
 typeOf: clan
 ancestry: hobgoblin
 dm_notes: important
-dm_owner: shared, mike
+dm_owner: shared,mike
 ---
 # The Shattered Ice Clan
 >[!info]+ Information  

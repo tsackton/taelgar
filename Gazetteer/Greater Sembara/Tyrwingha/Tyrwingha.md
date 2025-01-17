@@ -6,7 +6,7 @@ typeOf: realm
 whereabouts: Greater Sembara
 aliases: [Tyrwinghan]
 dm_notes: important
-dm_owner: shared, mike
+dm_owner: shared,mike
 ---
 # Tyrwingha
 >[!info]+ Information
