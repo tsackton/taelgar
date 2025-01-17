@@ -77,3 +77,33 @@ tags: [timeline]
 * January 13th, 1720, [[Celyn]] and [[Viepuck]] return from [[Champimont]] with money and horses from [[Lorin Valbert]]
 * January 14th, 1720, predawn: The party defeats a skeletal evil
 * January 15th, 1720: the party rides for [[Eftly]] but meets [[Vahaiya]] and their [[The Rangers]] in [[Champimont]], the monster in [[Eftly]] having been defeated
+
+
+%% Raw notes
+The timeline is:
+
+  
+
+* January 19: party arrives in Fellburn; siege is broken
+
+* January 21: the traitorous/necromantic (per king or his advisors) Night Queen elders killed; others wanted for questioning (in Embry)
+
+* January 25th: party arrives back in Cleenseau
+
+* January 26th: party receives news from Embry from Rosalind of the Night Queen elder stuff
+
+* January 26th: stragglers from the Army of South arrive
+
+* February 4th: new moon - small scattering of undead arise
+
+* February 6th: party meets Gareth on the road
+
+* February 8th: Gareth's execution
+
+* February 9th: current time (Viepuck's sending day)
+
+  
+
+Elizabeth is telling this story either February 7th or 8th. So "about a week" ago when she met Gareth would have been February 1st or 2nd, which is 5-6 days after news of the elders caused problem story reached Cleenseau (and it would have reached Rinburg sooner).
+
+%%
