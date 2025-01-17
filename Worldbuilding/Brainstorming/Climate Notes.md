@@ -14,8 +14,16 @@ This is not written in a way that would make sense to publish, and it makes heav
 Note that this is a record of various brainstorming conversations, I think largely/entirely complete, although it does not include a wide range of discussion about the "MTP" and other central Green Sea issues that only lightly touch on climate. Many climate details on are main pages.
 ## Pages with Climate Sections
 
+#### Gazetteer
+
 ```query
-"# climate" path:"Gazetteer"
+(/^#.*[Cc]limat.*\n/) path:"Gazetteer"
+```
+
+#### Worldbuliding
+
+```query
+(/^#.*[Cc]limat.*\n/) path:"Worldbuilding" 
 ```
 
 ##  Green Sea
