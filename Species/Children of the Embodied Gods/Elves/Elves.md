@@ -1,11 +1,13 @@
 ---
-tags: [status/needswork/shared, species]
+tags: [status/needswork/shared, species, status/cleanup/external, status/check/mike]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
-dm_owner: shared
-dm_notes: important
+dm_owner: joint
+dm_notes: none
 ---
 # Elves
+
+%% setting dm notes to none as status/cleanup/external communicates that only joint notes exist; did not attempt any cleanup yet%%
 
 %% Lots of discussions both in the notes below and Discord; also this page is old and likely needs a bit of a rethink. As far as I know all the notes are either in shared Discord chat or Obsidian though  %%
 
@@ -317,7 +319,7 @@ Peronar
 
   
 
-The Peronar, or half-born, are a lineage of elves that left the mainland and the elven kingdoms of  Alcarinquë and Tinwerquë during the ThirdAge and sailed for Hkar, driven by a premonition and fear of the great evil that was coming. On Hkar, they became teachers and guides to the human population; from these elves, the humans of Hkar learned much of the great magical prowess they were later renowned for. But Hkar, the birthplace of humanity, strong in the divine spark of humanity, did not leave these elves untouched, and some part of the humanity of Hkar burrowed into their souls. They lived quicker, died quicker, and lost the will to live indefinitely. 
+The Peronar, or half-born, are a lineage of elves that left the mainland and the elven kingdoms of  [[Alcarinque|Alcarinquë]] and Tinwerquë during the ThirdAge and sailed for Hkar, driven by a premonition and fear of the great evil that was coming. On Hkar, they became teachers and guides to the human population; from these elves, the humans of Hkar learned much of the great magical prowess they were later renowned for. But Hkar, the birthplace of humanity, strong in the divine spark of humanity, did not leave these elves untouched, and some part of the humanity of Hkar burrowed into their souls. They lived quicker, died quicker, and lost the will to live indefinitely. 
 
   
 
