@@ -28,7 +28,7 @@ The Dunmar Fellowship defeats Urgall the Black and a demonic entity in Vetta, ul
 ### Summary
 - The Dunmar Fellowship meets priestess Iskra and learns about the sacred waters of Vetta.
 - They gather information from Umli the Stoneborn and Caelynn the Seer on how to destroy powerful artifacts and about the Elemental Plane of Fire.
-- At Antaka, Skalme reveals the Scepter of Command's origin and how to destroy it.
+- At [[Antaka]], Skalme reveals the Scepter of Command's origin and how to destroy it.
 - In Pyhlla, they learn of Urgall the Black's sacrilege and demonic ties, and plan their assault.
 - The party infiltrates Vetta through lava tubes, confronts and defeats Urgall and a massive demon, purifying the sacred waters.
 - After vigilantly guarding the scepter in the sacred waters for 24 hours, they successfully destroy it at dawn.
