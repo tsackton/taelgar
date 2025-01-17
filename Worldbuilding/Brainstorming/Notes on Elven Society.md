@@ -1,6 +1,6 @@
 ---
 dm_owner: shared,tim
-dm_notes: none
+dm_notes: important
 ---
 
 ## On Wealth

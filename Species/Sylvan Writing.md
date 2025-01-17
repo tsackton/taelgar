@@ -1,6 +1,6 @@
 ---
 tags: [background]
-dm_owner: shared
+dm_owner: none
 dm_notes: none
 ---
 

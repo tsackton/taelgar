@@ -5,7 +5,7 @@ name: Western Green Sea
 typeOf: sea
 whereabouts: Green Sea
 dm_owner: shared
-dm_notes: none
+dm_notes: important
 ---
 # The Western Green Sea
 >[!info]+ Information  

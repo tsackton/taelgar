@@ -5,7 +5,7 @@ name: Western Green Sea Region
 whereabouts: Taelgar
 typeOf: region
 dm_owner: shared
-dm_notes: none
+dm_notes: important
 ---
 # The Western Green Sea Region
 >[!info]+ Information

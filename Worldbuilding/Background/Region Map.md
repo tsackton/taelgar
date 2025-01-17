@@ -1,6 +1,6 @@
 ---
 tags: [background/map]
-dm_owner: shared
+dm_owner: meta
 dm_notes: none
 ---
 
