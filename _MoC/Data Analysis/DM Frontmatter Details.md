@@ -95,9 +95,13 @@ SORT directory, Status
 
 ## Shared Notes
 
-### All
+This captures shared notes of various kinds. 
+- dm_owner: joint means we are developing the page together 
+- dm_owner: mike, tim to mean we are developing separately but want to coordinate
 
-All shared notes
+### Mike & Tim
+
+All notes tagged with both "mike" and "tim". These are notes that are actively involved in multiple campaigns, but generally are not things we are primarily developing jointly. To the extent possible, should try to keep as much development on the Obsidian page as possible. 
 
 ```dataview
 TABLE WITHOUT ID
@@ -107,39 +111,7 @@ TABLE WITHOUT ID
   dm_owner as owner,
   Status AS "status"
 FROM ""
-WHERE contains(dm_owner, "shared") or contains(dm_owner, ",")
-FLATTEN choice(
-    length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
-    "stub",
-    choice(
-      length(filter(file.etags, (t) => startswith(t, "#status/needswork"))) > 0,
-      "needs work",
-      choice(
-        length(filter(file.etags, (t) => startswith(t, "#status/check"))) > 0,
-        "check",
-        choice(
-          length(filter(file.etags, (t) => startswith(t, "#status/active"))) > 0,
-          "active",
-          "complete"
-        )
-      )
-    )
-  ) AS "Status"
-FLATTEN join(split(file.path, "/", 1), "/") as "directory"
-SORT dm_owner, directory, dm_notes, Status
-```
-### Mike & Tim
-
-All notes tagged "mike,tim". These are notes that are actively involved in multiple campaigns, but generally are not things we are primarily developing jointly. To the extent possible, should try to keep as much development on the Obsidian page as possible. 
-
-```dataview
-TABLE WITHOUT ID
-  directory AS "directory",
-  file.link AS "page",
-  dm_notes as notes,
-  Status AS "status"
-FROM ""
-WHERE contains(dm_owner, "mike") and contains(dm_owner, "tim") and !contains(dm_owner, "shared")
+WHERE contains(dm_owner, "mike") and contains(dm_owner, "tim")
 FLATTEN choice(
     length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
     "stub",
@@ -160,6 +132,40 @@ FLATTEN choice(
 FLATTEN join(split(file.path, "/", 1), "/") as "directory"
 SORT directory, dm_notes, Status
 ```
+
+### Joint
+
+All notes tagged with "joint". These are notes that we are generally developing together, for various reasons.  
+
+```dataview
+TABLE WITHOUT ID
+  directory AS "directory",
+  file.link AS "page",
+  dm_notes as notes,
+  Status AS "status"
+FROM ""
+WHERE contains(dm_owner, "joint")
+FLATTEN choice(
+    length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
+    "stub",
+    choice(
+      length(filter(file.etags, (t) => startswith(t, "#status/needswork"))) > 0,
+      "needs work",
+      choice(
+        length(filter(file.etags, (t) => startswith(t, "#status/check"))) > 0,
+        "check",
+        choice(
+          length(filter(file.etags, (t) => startswith(t, "#status/active"))) > 0,
+          "active",
+          "complete"
+        )
+      )
+    )
+  ) AS "Status"
+FLATTEN join(split(file.path, "/", 1), "/") as "directory"
+SORT directory, dm_notes, Status
+```
+
 ### Shared and Private Notes
 ```dataview
 TABLE WITHOUT ID
@@ -201,40 +207,6 @@ TABLE WITHOUT ID
   Status AS "status"
 FROM ""
 WHERE contains(dm_owner, "shared") and (!contains(dm_owner, "mike") and !contains(dm_owner, "tim"))
-FLATTEN choice(
-    length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
-    "stub",
-    choice(
-      length(filter(file.etags, (t) => startswith(t, "#status/needswork"))) > 0,
-      "needs work",
-      choice(
-        length(filter(file.etags, (t) => startswith(t, "#status/check"))) > 0,
-        "check",
-        choice(
-          length(filter(file.etags, (t) => startswith(t, "#status/active"))) > 0,
-          "active",
-          "complete"
-        )
-      )
-    )
-  ) AS "Status"
-FLATTEN join(split(file.path, "/", 1), "/") as "directory"
-SORT directory, dm_notes, Status
-```
-
-## Meta Notes
-
-Notes that contain dm owner = meta are considered to be central to enough things to be worth at least some discussion before revisions.
-
-```dataview
-TABLE WITHOUT ID
-  directory AS "directory",
-  file.link AS "page",
-  dm_notes as notes,
-  dm_owner as owner,
-  Status AS "status"
-FROM ""
-WHERE contains(dm_owner, "meta")
 FLATTEN choice(
     length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
     "stub",

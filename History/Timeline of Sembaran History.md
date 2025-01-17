@@ -1,10 +1,10 @@
 ---
-tags: [background, status/needswork/old]
+tags: [background, status/needswork/old, status/cleanup/external]
 displayDefaults: {defArt: a}
 campaignInfo: []
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
-dm_owner: shared
+dm_owner: joint
 dm_notes: important
 ---
 %% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up %%
