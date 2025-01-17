@@ -1,9 +1,11 @@
 ---
 tags: [background, religion/mosnumena]
 excludePublish: ["clee"]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
+
+%% some updates in my circular island notes %%
 ## Drankorian Funeral Traditions
 
 %% Note that there should be some influence from the [[Traditions around Death#Elves|elven funeral traditions]] on early Drankor, although the specifics are intentionally non-canonical. Also note although this article is broadly canonical, it should not be considered precise in every detail. It is a report, filtered through history, of the influences from Drankor that remain in the current day on the Chardonians, Sembarans, etc. It should not be taken as dispositive for what actually happened in Drankor in detail %%

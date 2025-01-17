@@ -1,9 +1,11 @@
 ---
 tags: [background/map]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 ## Climate Map of Taelgar
+
+%% i have some old current and wind maps and notes in OneNote %%
 
 ```leaflet 
 id: climate-map-taelgar

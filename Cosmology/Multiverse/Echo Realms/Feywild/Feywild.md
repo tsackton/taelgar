@@ -6,7 +6,7 @@ excludePublish: ["clee"]
 whereabouts: Echo Realms
 typeOf: plane
 dm_notes: important
-dm_owner: shared
+dm_owner: shared,tim
 ---
 # The Feywild
 >[!info]+ Information  
@@ -14,6 +14,8 @@ dm_owner: shared
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% incorporate useful parts of notes / comments %%
+
+%% have a lot of notes still in onenote from Seeker solo %%
 
 The echo realm of the fey, home to the realms of the Archfey and the [[Fey]]
 ## Locations

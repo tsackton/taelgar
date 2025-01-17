@@ -1,9 +1,11 @@
 ---
 tags: [species, status/cleanup/text]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 # Fey
+
+%% have a lot of notes still in onenote from Seeker solo %%
 
 %% needs proofreading and double-checking %%
 

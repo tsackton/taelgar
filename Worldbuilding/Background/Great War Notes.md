@@ -1,9 +1,10 @@
 ---
 tags: [background]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 
+%% private notes are all paper / in a box so may not be relevant %%
 
 
 1. The final battle of the Great War was fought with the Sembaran army and the Heroes of the Great War on one side, and Cha'mutte with a hobgoblin army (presumably teleported from Pandar via shadow portals) on the other side, in the passes of the [[Sentinel Range]] at [[Urlich Pass]].  This ended in Cha'mutte's defeat, and death, along with a Sembaran victory over the hobgoblin forces. 

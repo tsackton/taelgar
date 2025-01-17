@@ -2,10 +2,12 @@
 tags: [religion/mosnumena, background, status/check/tim, status/check/mike]
 name: Mos Numena
 aliases: [Eight Divines]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 # Mos Numena
+
+%% notes mostly from circular island %%
 
 %% tagged for review as some thought needs to be given to what is canon, what is detail that should probably be canon but hasn't been fully introduced, and what is brainstorming %%
 

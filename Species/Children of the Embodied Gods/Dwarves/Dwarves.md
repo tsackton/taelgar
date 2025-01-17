@@ -3,10 +3,12 @@ headerVersion: 2023.11.25
 tags: [species, status/cleanup/text]
 name: Dwarves
 aliases: [dwarf, Dwarf, Dwarves, dwarves, dwarven]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: color
 ---
 # Dwarves
+
+%% i believe i still have some color notes in my Riswynn adventure notes %%
 
 %% probably correct but needs a proofread and cleanup %%
 

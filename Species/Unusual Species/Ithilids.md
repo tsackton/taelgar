@@ -1,10 +1,12 @@
 ---
 aliases: [Mindflayer, Mind Flayer, Illithid]
 tags: [species, status/stub]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 
+
+%% notes from raven's hold %%
 # Illithids
 
 Aberrations from the Far Realm. 

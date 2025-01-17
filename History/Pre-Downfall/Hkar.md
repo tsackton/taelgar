@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, historical, status/cleanup/incomplete]
 dm_notes: important
-dm_owner: shared
+dm_owner: shared,tim
 typeOf: island
 ancestry: sunken
 whereabouts: Endless Ocean
@@ -11,6 +11,8 @@ whereabouts: Endless Ocean
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+%% many notes in  DM folder, mostly circular island %%
 
 Hkar is known as the possibly mythical place of creation of humanity, and humanity's first homeland. It is said to have sunk during the [[The Downfall|Downfall]].
 

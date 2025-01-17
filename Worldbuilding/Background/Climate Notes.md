@@ -1,8 +1,10 @@
 ---
 tags: [background]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
+
+%% i have some old current and wind maps and notes in OneNote %%
 
 It makes heavy use of the [Köppen Climate Classification](https://www.mindat.org/climate.php)
 

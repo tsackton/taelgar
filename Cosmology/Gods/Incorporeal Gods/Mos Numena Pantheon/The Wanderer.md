@@ -4,7 +4,7 @@ tags: [deity, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
 name: The Wanderer
 gender: male
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 # The Wanderer
@@ -12,6 +12,9 @@ dm_notes: important
 > he/him
 
 %% needs some thought about holy symbol %%
+
+%% a few notes from various adventures that might  add color but nothing important %%
+
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 
 The Wanderer is usually depicted as a young man, dressed as a traveler or a merchant, in a cloak, with a walking staff or a scale. He is the god of travel, trade, and hospitality, and also strangers, outcasts, the downtrodden and those at the edge of society, by choice or birth. He is associated with the stars, and the virtues of charity and hospitality, and watches over journeys, markets, and inns.

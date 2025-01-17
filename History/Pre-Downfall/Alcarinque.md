@@ -7,7 +7,7 @@ typeOf: realm
 ancestry: elven
 whereabouts: Taelgar
 pronunciation: ahl-KAH-rin-kweh
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: color
 ---
 # Alcarinquë

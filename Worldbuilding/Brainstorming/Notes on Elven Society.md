@@ -1,8 +1,11 @@
 ---
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: none
 ---
+
 ## On Wealth
+
+%% some relevant orenlas notes %%
 
 synthesizing the email discussion about material abundance, intellectual property, what elves see as wealth, etc.
 

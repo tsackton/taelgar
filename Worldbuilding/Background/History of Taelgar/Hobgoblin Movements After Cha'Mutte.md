@@ -1,8 +1,10 @@
 ---
 tags: [background]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
+
+%% some  dm notes in great library and chasa river valley history, but might be obsolete %%
 
 %% NEEDS CLEANUP %%
 
