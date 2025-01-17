@@ -5,7 +5,7 @@ typeOf: clan
 displayDefaults: {defArt: "the" }
 ancestry: dwarven
 whereabouts: Barony of Aveil
-dm_notes: color
+dm_notes: none
 dm_owner: none
 ---
 # The Ferrystones
@@ -21,6 +21,8 @@ dwarven clan in Rinburg and Aslain,; have a small clanhouse in Aslain and larger
 important  / connected enough to have sent 2 of their members from Rinburg to Aslain to get news when there was little news of the north in Rinburg
 from game intro:
 - The Ferrystones, a dwarven clan, a group of whom are staying at the Resting Ox. They are important in Rinburg, and might have some useful information to share (and see Bolgrim and Kazak above)
+
+Prominent enough that a clan member was brought in during an investigation into a ruined temple for their expertise in ruins
 %%
 
 %%^Campaign:None%%
