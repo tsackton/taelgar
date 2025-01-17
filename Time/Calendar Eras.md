@@ -2,9 +2,18 @@
 headerVersion: 2023.11.25
 tags: [background]
 dm_owner: shared,tim
-dm_notes: important
+dm_notes: none
 ---
 # Calendar Eras
+
+%% brainstorming - some about months, not actually calendar eras, here:
+
+- [[Discord Chat - Calendars]] 
+- [Calendar Brainstorming](https://docs.google.com/document/d/1anb-F8574X5BJbA4o1oeSRIuNveaXB--u21Owbd9LTA/edit?tab=t.0)
+- [[Discord Chat - Dwarven Calendar]]
+- [[Discord Chat - Hkaran Calendar]]
+
+%%
 
 > Note: This article discusses the numbering of years. The actual division of the calendar into months and weeks is not covered here.
 
