@@ -1,9 +1,8 @@
 ---
-tags: [status/stub, background, status/check/tim]
-dm_owner: shared,tim
-dm_notes: color
+tags: [status/stub, background]
+dm_owner: none
+dm_notes: none
 ---
-%% check tim to set dm flags - I couldn't find any shared notes other than what is below - but if you have keep shared, otherwise, change %%
 
 %%
 Dwarven  coins from discord:
@@ -13,4 +12,7 @@ only think semi-canonical is dwarven trade bars are stamped and marked to indica
 From Clee:
 
 Occasionally used in treasure hordes as "common trade coins"
+
+From old, non-canon Dunmar notes:
+Dwarven coins are in common usage in Dunmar as well, especially iron trading coins, known as nibs, that are backed by a gold standard but not otherwise containing any intrinsic worth. Nibs in 5 sp, 1 gp, 10 gp, and 50 gp are known. Dwarven trade bars, stamped with a known weight of silver or gold, are commonly used for large transactions in Dunmar as well.
 %
