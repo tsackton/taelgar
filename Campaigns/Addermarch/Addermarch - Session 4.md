@@ -27,7 +27,7 @@ The adventurers prepare in [[Roscombe]], attend a manor dinner, and then success
 - They travel to the goblin lair, fall into traps, but successfully defeat the goblin bandits.
 ### Timeline
 - Day 11: Rest in [[Roscombe]], sell items at the market, buy healing potions
-- Day 12: Speak with [[Owen Tavish]] about the [[Serpentine Dagger]], learn about [[Trueflame]], speak with [[Caradoc]] and accept job to recover the glowing poison recipe from some goblins. 
+- Day 12: Speak with [[Owen Tavish]] about the [[Serpentine Dagger]], learn about [[Trueflame]], speak with [[Caradoc]] and accept job to recover the glowing poison recipe from some [[goblins]]. 
 - Day 13: Dinner at the manor with [[Elowen Duval]], [[Gareth Howell]], and others. 
 - Day 14: Leave to find goblin lair. Fall into trap in a cave; fight off goblin scouts. Find spider exit and hidden main tunnel. Enter lair. Defeat goblin bandits in the main hall. 
 
@@ -40,7 +40,7 @@ The next day, [[Owen Tavish]] has returned from laying the ghost of [[Einrik Arp
 
 After speaking with Owen, the party walks to [[Caradoc]]'s house outside of the small village of [[Brantor]], to ask about [[Trueflame]]. [[Caradoc]] is curious, and agrees to make it for them, but requires expensive ingredients, especially mercury ash. After giving a 50 gold down payment, he agrees to start, with another 100 gold to be paid when the [[Trueflame]] is ready in a few days. 
 
-[[Caradoc]] also tells the party he wants to recover a recipe for a Glowing Poison that some goblins stole from a messenger a few months ago, and he will pay 200 gold for it if they bring it back to him. 
+[[Caradoc]] also tells the party he wants to recover a recipe for a Glowing Poison that some [[goblins]] stole from a messenger a few months ago, and he will pay 200 gold for it if they bring it back to him. 
 
 After speaking with [[Caradoc]], the party returns to town. 
 
@@ -49,13 +49,13 @@ The next morning, the party is invited to dine at the manor with [[Elowen Duval]
 
 The dinner is interesting. [[Yvan Greenrabbit|Yvan]]'s live painting is a bit of a strange show as he paints by just splashing paint haphazardly on the sheet, somehow a form emerging from the chaos, but the final product is not amazing. Grumpy at the result, [[Yvan Greenrabbit|Yvan]] makes the food too salty with Prestidigitation. However, [[Drou]] saves the evening with her stellar performance, entertaining the crowd and setting up [[Fazoth de Brune|Fazoth]]'s small fireworks show. 
 
-During the dinner, the party speaks with [[Gareth Howell]], who tells them that the goblins have not been much of a nuisance, but a young squire in his employ decided to go handle them anyway a few week's ago, and hasn't been seen since. He tells the party where to find the lair, and asks if they are going that way, if they can look for his missing squire. 
+During the dinner, the party speaks with [[Gareth Howell]], who tells them that the [[goblins]] have not been much of a nuisance, but a young squire in his employ decided to go handle them anyway a few week's ago, and hasn't been seen since. He tells the party where to find the lair, and asks if they are going that way, if they can look for his missing squire. 
 
 ### Day 14 (Saturday)
 The next day, the party leaves [[Roscombe]] early for the goblin lair, walking north into the hills. After a half-day of walking, they reach a rocky outcropping where they find a trail, and a cave. [[Drou]] speaks to a nearby bird, who tells them that no one goes into the cave, but that sometimes a giant spider comes past. Deciding to explore the cave despite [[Drou]]'s concerns about a possible trap, the party does indeed trigger a trap, with the floor of the cave collapsing into a pit trap, the noise of which summons some nearby guards. However, the party easily defeats the [[goblins]], aided largely by [[Yvan Greenrabbit|Yvan]] using seeking spell to help his Chromatic Orb spell bounce from one goblin to another. [[Drou]] casts Invisibility to remain unseen as she climbs out of the pit, and [[Fazoth de Brune|Fazoth]] uses his Misty Step to teleport. 
 
 Sneaking from the cave, along the goblin tracks, the party finds an empty clearing, and another tunnel full of spider webs. After briefly investigating the spider tunnel, the party finds a hidden trap door in the middle of the clearing, where the goblin trail stops. The party discusses and decides it is probably better to investigate the trapdoor than the spider tunnel, and ties a rope to a branch to climb down. 
 
-At the bottom of the trapdoor is a dirt tunnel leading to a door. The party proceeds down the tunnel, triggering another pit trap but managing to avoid landing with a loud bang on the iron pots at the bottom that serve as an alarm. The party then barges through the door into the apparent living quarters of the goblin bandits. A fight ensues, during which [[Fazoth de Brune|Fazoth]] uses Cloud of Daggers to great effect, while [[Drou]] wades into combat with flying fists and bardic inspiration. The session ends as the party defeats the goblins. 
+At the bottom of the trapdoor is a dirt tunnel leading to a door. The party proceeds down the tunnel, triggering another pit trap but managing to avoid landing with a loud bang on the iron pots at the bottom that serve as an alarm. The party then barges through the door into the apparent living quarters of the goblin bandits. A fight ensues, during which [[Fazoth de Brune|Fazoth]] uses Cloud of Daggers to great effect, while [[Drou]] wades into combat with flying fists and bardic inspiration. The session ends as the party defeats the [[goblins]]. 
 
 
