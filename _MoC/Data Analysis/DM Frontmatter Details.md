@@ -222,6 +222,40 @@ FLATTEN join(split(file.path, "/", 1), "/") as "directory"
 SORT directory, dm_notes, Status
 ```
 
+## Meta Notes
+
+Notes that contain dm owner = meta are considered to be central to enough things to be worth at least some discussion before revisions.
+
+```dataview
+TABLE WITHOUT ID
+  directory AS "directory",
+  file.link AS "page",
+  dm_notes as notes,
+  dm_owner as owner,
+  Status AS "status"
+FROM ""
+WHERE contains(dm_owner, "meta")
+FLATTEN choice(
+    length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
+    "stub",
+    choice(
+      length(filter(file.etags, (t) => startswith(t, "#status/needswork"))) > 0,
+      "needs work",
+      choice(
+        length(filter(file.etags, (t) => startswith(t, "#status/check"))) > 0,
+        "check",
+        choice(
+          length(filter(file.etags, (t) => startswith(t, "#status/active"))) > 0,
+          "active",
+          "complete"
+        )
+      )
+    )
+  ) AS "Status"
+FLATTEN join(split(file.path, "/", 1), "/") as "directory"
+SORT directory, dm_notes, Status
+```
+
 ## No Owner or Notes
 
 ### Gazetteer
