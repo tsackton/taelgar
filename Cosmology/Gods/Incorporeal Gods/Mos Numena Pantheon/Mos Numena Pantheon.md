@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [background, religion/mosnumena]
 name: Eight Divines
-dm_owner: none
+dm_owner: joint
 dm_notes: none
 ---
 # The Eight Divines

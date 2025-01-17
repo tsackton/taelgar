@@ -121,7 +121,7 @@ Before they rested, [[Seeker]] used clairvoyance to observe Ra'ghemdros' lair, n
 The party climbs a statue to gain a better view of the surrounding island, discovering several key features.
 - Kenzo and Wellby climb a massive statue to get a better vantage point.
 - They notice the remains of a ruined pier nestled between the statue's legs.
-- The party sees other statues in the distance, identifying two as the Night Queen and the Mother.
+- The party sees other statues in the distance, identifying two as the Night Queen and [[the Mother]].
 - Discussions reveal more about the local religious beliefs, including the nature of the gods worshipped on the island.
 - The group spots a ruined town to the north, surrounded by destroyed towers and estates.
 - They consider using clairvoyance to scout ahead but decide to explore the ruined town first.

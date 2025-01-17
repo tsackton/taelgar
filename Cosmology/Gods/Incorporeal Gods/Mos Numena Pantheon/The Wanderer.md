@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/mosnumena, status/cleanup/image, status/check/mike]
 displayDefaults: {defArt: ''}
-name: The Wanderer
 gender: male
 dm_owner: joint
 dm_notes: important
@@ -27,7 +26,7 @@ In many lands, it is traditional for [[Mos Numena]] temples to have a small room
 
 %% Tim, adding relevant notes from my DM folder
 
-re: Circular Island, one thing that was maybe not clear as a player is that the Wanderer was seen as guiding the overall pilgrimage enterprise, hence the port growing up around / near the statue of the Wanderer. Ties into general association with journey.
+re: Circular Island, one thing that was maybe not clear as a player is that the Wanderer was seen as guiding the overall pilgrimage enterprise, hence the port growing up around / near the statue of the Wanderer. Ties into general association with journey, but also i think this tradition would continue and the wanderer is thought to watch over pilgrimages generally
 
  I like that the Eight Divines are generally pretty impersonal and abstract, since it fits with the kind of Drankorian feeling. but I also think it is nice to have some that play against type so to speak and the wyrdling seems a good candidate. also contrasts with the very impersonal sense of the wildling as nature writ large
  
