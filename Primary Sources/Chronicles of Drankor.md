@@ -1,10 +1,12 @@
 ---
-tags: [source, status/cleanup/text]
+tags: [source, status/cleanup/text, status/check/tim]
 dm_notes: color
 dm_owner: none
 ---
 
-%%need to rewrite this into a proper source, and move secrets/other details to the actual Drankorian history page%%
+%%need to rewrite this into a proper source, and move secrets/other details to the actual Drankorian history page
+Not sure if the discord chat data is worth keeping or incorporating or just deleting - I removed the stuff that was obviously incorporated already 
+%%
 # Cavarrio's Chronicles of Drankor
 
 A list of the Emperors of Drankor, based on Cavarrio's Chronicles of Drankor, considered the definitive history of the Empire in post-Great War Chardon. May not be accurate; written based exclusively on secondary sources, many of which have since been lost. Takes the form of annals of emperors.
@@ -57,3 +59,18 @@ Cavarrio divides the history of Drankor into five eras:
 <!-- TBLFM: $8=($5+4133) -->
 
 %%SECRET[1]%%
+
+
+
+%% Some notes from Discord Chat. May all be obsolete
+
+[1/16/2023 1:16 PM] rsulfuratus
+generally names are either Greek or Elvish, depending on whether they are of Peronar (half-elven) or Hkaran (human) ancestry
+
+[1/16/2023 1:18 PM] rsulfuratus
+there is a long golden age of peace and prosperity from ~628 - 965 or so, basically ending with Helea's reign and the events Caulaus sort of remembers, that has 13 total emperors ending with Helea
+
+[1/16/2023 3:37 PM] rsulfuratus
+oh also: 
+| Kylanthe (f)               | First Peace    | Hkar             | Negotiated final settlement of Sembaran wars                                                                | 451        | 499      | 48          | 4584    |
+%%
