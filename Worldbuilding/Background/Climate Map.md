@@ -1,11 +1,13 @@
 ---
 tags: [background/map]
-dm_owner: shared,tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 ## Climate Map of Taelgar
 
-%% i have some old current and wind maps and notes in OneNote %%
+This should largely be considered canonical, although some variation is possible.
+
+Notes and more extended discussion can be found here: [[Climate Notes]]
 
 ```leaflet 
 id: climate-map-taelgar
