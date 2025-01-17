@@ -25,6 +25,7 @@ In general, the vibe should be that the de Brunes to have grown from reasonably 
 
 In particular, in the late 1690s-early 1710s they were very much "workers" and managers, trading agents, factors, etc more than their own thing. faciliate others. but this lead to opportunities for growth and in the aftermath of the lich disaster they rapidly grew to prominence
 
+Some important bits about one minor branch in [[Istarias]] page
 %%
 
 %%^Campaign:None%%

@@ -2,11 +2,13 @@
 tags: [status/needswork/shared, species]
 name: Hobgoblins
 aliases: [hobgoblin, Hobgoblin, hobgoblins, Hobgoblins]
-dm_owner: shared
+dm_owner: shared, mike
 dm_notes: important
 ---
 
 %%
+I have some DM folder notes about hobgoblin tactics and such that might contribute to the vibe but are perhaps more specific to shattered ice and similar specific clans - tagging Mike until I get a chance to review 
+
 should capture some vibes based details from various discussions and backlinks and history before marking page complete
 
 notes from Discord

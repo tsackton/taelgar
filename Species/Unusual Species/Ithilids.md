@@ -1,12 +1,13 @@
 ---
 aliases: [Mindflayer, Mind Flayer, Illithid]
 tags: [species, status/stub]
-dm_owner: shared,tim
+dm_owner: shared,tim,mike
 dm_notes: important
 ---
 
 
 %% notes from raven's hold %%
+%% non-canonical notes from planning for part 2 of cleenseau campaign where mindflayers are a main villian %%
 # Illithids
 
 Aberrations from the Far Realm. 
