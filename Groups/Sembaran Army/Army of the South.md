@@ -25,3 +25,9 @@ One of the regiments is scattered across the [[Borderlands]], although various p
 
 %%% Note: Conceptually the post-1720 history of this army is very different but it hard to write because it depends a bit on events in the Clee game. Currently, the army is basically the personal army of the Duke of Wisford; this can't last, but how it gets resolved is a little bit unclear. Most likely, the Army is recreated after the various crises of 1720 largely along the same lines as it was before, but that could change.
 %%
+
+%% A note from email
+The person Izgil spoke with (who unofficially gave Ida permission to go back to Cleenseau) is Colonel Claude Leclerc, which is Ida's boss (Major Edmund Hartwell)'s boss. 
+
+When Izgil was in Dunfry 2 months ago the people in town were mostly the 1st, 2nd, and 4th companies. More recently, the implication is that the Enford garrison itself was sent north.
+%%
