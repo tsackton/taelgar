@@ -5,8 +5,8 @@ campaignInfo: []
 typeOf: realm
 name: Dwarven Kingdoms
 whereabouts: Labkhan
-dm_notes: joint
-dm_owner: none
+dm_owner: joint
+dm_notes: none
 ---
 # The Dwarven Kingdoms
 >[!info]+ Information  
