@@ -2,7 +2,7 @@
 tags: [status/needswork/shared, species]
 name: Hobgoblins
 aliases: [hobgoblin, Hobgoblin, hobgoblins, Hobgoblins]
-dm_owner: shared, mike
+dm_owner: shared,mike
 dm_notes: important
 ---
 
