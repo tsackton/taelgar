@@ -28,7 +28,7 @@ The Void Mind, alien and not understood, without power, without any ability to r
 
   
 
-Beyond the multiverse, in the Far Realms of alien horror, rumors of Great Old Ones persist, ancient eldritch masters with utterly alien minds, reaching into the world through the holes in the fabric of reality worn by the Void from the sundering of the planes.
+Beyond the multiverse, in the [[Far Realms]] of alien horror, rumors of Great Old Ones persist, ancient eldritch masters with utterly alien minds, reaching into the world through the holes in the fabric of reality worn by the Void from the sundering of the planes.
 
   
 
