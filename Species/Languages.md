@@ -1,11 +1,13 @@
 ---
-tags: [background, status/check/mike]
+tags: [background, status/check/mike, status/cleanup/external]
 dm_owner: joint
 dm_notes: none
 ---
 # Languages 
 
-%% setting languages to joint, although I don't think there are any outside notes not already captured below, as seems like a shared development page. set status/cleanup/external if you think there are more outside notes, %%
+%% setting languages to joint %%
+%% there is a lot of discord discussion about language families. most has, i believe, been incorporated below, so maybe status/cleanup/external is unnecessary. might be worth keeping a note at the top to indicate there are reasons for some decisions below in external notes, if we don't want to try to copy the whole discussion. %%
+
 
 The common languages of Taelgar spoken by [[Humans|humans]] and the [[Elder Folk]] all derive from the original languages spoken by the first of each species to awaken. For [[Dwarves|dwarves]], [[Elves|elves]], [[Halflings|halflings]], [[Stoneborn|stoneborn]], and [[Lizardfolk|lizardfolk]] this original language has not changed since the dawn of time. For humans, the original tongue has been split and fractured into different language families over the long history of human settlement and migration.
 
