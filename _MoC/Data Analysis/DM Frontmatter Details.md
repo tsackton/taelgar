@@ -170,7 +170,7 @@ FLATTEN choice(
     length(filter(file.etags, (t) => startswith(t, "#status/cleanup/external"))) > 0,
     "yes",
     "no") AS "External"
-SORT directory, dm_notes, Status
+SORT dm_notes, External DESC, directory, Status
 ```
 
 ### Shared and Private Notes
