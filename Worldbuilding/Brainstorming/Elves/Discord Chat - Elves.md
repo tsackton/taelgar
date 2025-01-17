@@ -1,4 +1,5 @@
 
+
 [10/30/2023 9:29 AM] rsulfuratus
 working out some elven generational dynamics. lmk what you think. basic assumptions are from the demographics spreadsheet (https://docs.google.com/spreadsheets/d/1rMp9eP617CMDdkDgmDRPpOOUbO0TjTY17578DK2wPwo/edit#gid=838085721). assume that most elves survive to 800-900, but many choose to leave the world between 950 - 1150, so basic demographic structure then sets up 7 ka as the "current population", with anyone born more than 7 ka ago clearly a rare elder.
 
@@ -370,6 +371,14 @@ no wonder the elves were so against him
 
 [11/3/2023 3:22 PM] .deciusmus
 That actually fits perfectly. He is going to kill the elves as a sacrifice to free the other races
+
+
+[2/1/2024 6:19 PM] rsulfuratus
+on elves - I think my vision is that this isn't a longing for something else, or a weariness of the world, but more of just a feeling that this time is complete. it would be like a sense of "doneness" more than anything else.
+
+
+[2/1/2024 6:20 PM] .deciusmus
+I like that
 
 
 [11/19/2024 10:48 AM] rsulfuratus
