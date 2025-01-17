@@ -1,8 +1,10 @@
 ---
 tags: [background, status/needswork/continuity]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
+
+%%  notes from Delwath solo %%
 
 %% needs to be checked for consistency with other histories  and Deno'qai culture %%
 # The History of the Northern Deno'qai

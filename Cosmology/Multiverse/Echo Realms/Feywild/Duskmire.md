@@ -5,7 +5,7 @@ whereabouts: Feywild
 typeOf: realm
 excludePublish: ["clee"]
 dm_notes: important
-dm_owner: shared
+dm_owner: mike,tim
 ---
 # Duskmire
 >[!info]+ Information  

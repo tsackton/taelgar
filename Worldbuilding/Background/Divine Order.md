@@ -1,6 +1,6 @@
 ---
 tags: [background, status/needswork/old]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 

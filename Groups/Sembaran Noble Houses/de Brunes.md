@@ -1,6 +1,6 @@
 ---
 tags: [organization, status/stub, status/check/mike, status/check/tim]
-dm_owner: shared
+dm_owner: mike,tim
 dm_notes: none
 ---
 

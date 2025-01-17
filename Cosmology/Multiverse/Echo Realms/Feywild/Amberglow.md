@@ -6,7 +6,7 @@ excludePublish: ["clee"]
 ancestry: fey
 typeOf: realm
 dm_notes: important
-dm_owner: shared
+dm_owner: mike,tim
 ---
 # Amberglow
 >[!info]+ Information

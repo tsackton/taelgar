@@ -1,9 +1,11 @@
 ---
 tags: [background, status/needswork/old]
 excludePublish: ["all"]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
+
+%% have  some old notes but probably obsolete - still work checking before removing tim%%
 
    * **Sylvan:** The language of the Feywild, of satyrs and fairies and others. The most common extraplanar language to be learned by natives of the material plane. This is often mapped to classical Greek, but many different real world mappings are possible. 
    * **Shadowkar:** The language of the Shadowfell.

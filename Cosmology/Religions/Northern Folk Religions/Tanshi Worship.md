@@ -2,10 +2,12 @@
 headerVersion: 2023.11.25
 displayDefaults: {defArt: ""}
 tags: [religion/tanshi, background]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 # Tanshi Worship
+
+%% some early tanshi notes in great library onenote %%
 
 Among the Deno'qai, the ancient northerner culture west of the [[Sentinel Range|Sentinels]], the primary religious tradition is the worship of the [[Tanshi Worship]], in the small gods tradition of the [[Northern Folk Religions]]. 
 

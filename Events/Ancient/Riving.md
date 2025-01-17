@@ -3,10 +3,12 @@ headerVersion: 2023.11.25
 aliases: [The Riving, Long Pause]
 displayDefaults: {defArt: "the"}
 tags: [event, status/needswork/old]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 # The Riving
+
+%% some cosmology in my dm folder impinges on this a bit %%
 
 %% Shadowfell potentially needs to be untangled from fey here %%
 

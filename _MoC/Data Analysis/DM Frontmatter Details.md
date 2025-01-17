@@ -95,8 +95,7 @@ SORT directory, Status
 
 ## Shared
 
-All shared notes, sorted by 
-
+All shared notes
 
 ```dataview
 TABLE WITHOUT ID
@@ -124,7 +123,40 @@ FLATTEN choice(
     )
   ) AS "Status"
 FLATTEN join(split(file.path, "/", 1), "/") as "directory"
-SORT dm_notes, directory, Status
+SORT directory, dm_notes, Status
+```
+
+## Mike & Tim
+
+All notes tagged "mike,tim". These are notes that are actively involved in multiple campaigns, but generally are not things we are primarily developing jointly. To the extent possible, should try to keep as much development on the Obsidian page as possible. 
+
+```dataview
+TABLE WITHOUT ID
+  directory AS "directory",
+  file.link AS "page",
+  dm_notes as notes,
+  Status AS "status"
+FROM ""
+WHERE dm_owner = "mike,tim"
+FLATTEN choice(
+    length(filter(file.etags, (t) => startswith(t, "#status/stub"))) > 0,
+    "stub",
+    choice(
+      length(filter(file.etags, (t) => startswith(t, "#status/needswork"))) > 0,
+      "needs work",
+      choice(
+        length(filter(file.etags, (t) => startswith(t, "#status/check"))) > 0,
+        "check",
+        choice(
+          length(filter(file.etags, (t) => startswith(t, "#status/active"))) > 0,
+          "active",
+          "complete"
+        )
+      )
+    )
+  ) AS "Status"
+FLATTEN join(split(file.path, "/", 1), "/") as "directory"
+SORT directory, dm_notes, Status
 ```
 
 ## No Owner or Notes
@@ -224,7 +256,7 @@ SORT Status, directory
 
 ### Meta
 
-Species, Cosmology, Tim
+Species, Cosmology, Time
 
 ```dataview
 TABLE WITHOUT ID

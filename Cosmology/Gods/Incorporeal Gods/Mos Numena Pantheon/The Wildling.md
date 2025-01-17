@@ -3,12 +3,15 @@ headerVersion: 2023.11.25
 tags: [deity, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
 gender: enby
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
 # The Wildling
 >[!info]+ Summary  
 > they/them
+
+%% a few notes from various adventures that might  add color but nothing important %%
+
 
 %% needs some thought about holy symbol %%
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 

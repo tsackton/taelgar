@@ -1,9 +1,12 @@
 ---
 tags: [status/needswork/old, meta]
 excludePublish: ["all"]
-dm_owner: shared
+dm_owner: shared,tim
 dm_notes: important
 ---
+
+%% have  some old notes but probably obsolete - still work checking before removing tim%%
+
 In general many species will speak some sort of language unique to that species. This tracks exotic languages that canonically exist, or ideas for languages that probably exist, as well as whatever details have been made up for them. It is currently written more as background than website-focused but could be cleaned up. 
 
 %% Tim: If you are changing this to publish, please use excludePublish: ["clee"] %%

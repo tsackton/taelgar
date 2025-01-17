@@ -5,6 +5,8 @@ dm_notes: important
 ---
 # Goblinoids
 
+
+
 %% notes
 
 - Created by the Void Mind; hobgoblins are supposed to be like humans but lack the divine spark. instead of being endowed with the power to create things from belief they are endowed with the belief they are superior or something like that. the point is these are the Taelgar Nazi Party basically, the bad guys you can always safely fight without feeling guilty. 
