@@ -24,3 +24,5 @@ dm_notes: important
 A hobgoblin who has been trapped in the [[Mirror of Soul Trapping]] for centuries. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
 
 %%SECRET[1]%%
+
+%% Granddaughter of [[Avatus]]'s hobgoblin court wizard, who created the [[Mirror of Soul Trapping]]; she unofficially continued ruling a remnant of Avatus' empire for some time before being trapped by Cha'mutte %%

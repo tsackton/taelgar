@@ -28,6 +28,8 @@ When an oracle dies, tradition holds that the [[Archfey Ethlenn]] appoints a new
 
 %% 
 There are various references and hints in some documents, i.e. [[Letter from the Oracle of the Red to the Mostreve Warlocks]] and a general vibe of 'mysterious' and 'fey', but very little has been made up beyond what is here. 
+ 
+I am also envisioning the oracles as all living in Tafolwern, and perhaps at some level running the city and having the city be their main “power base”… but not sure. I kinda like the division of the monarch as the ruler of all elected by the oracles and the earls the rulers of the land, loyal to Ethlenn first and the monarch second.
 %%
 
 
