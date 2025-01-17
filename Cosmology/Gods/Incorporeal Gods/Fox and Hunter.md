@@ -1,13 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [deity, status/check/mike]
+tags: [deity]
 displayDefaults: {defArt: "the"}
 dm_owner: joint
-dm_notes: important
+dm_notes: none
 ---
 # The Fox and Hunter
-
-%% leaving joint for historical reasons although i might ask to take over development at some point to preserve some surprises. i have no further dm_notes so could set to none from my point of view%%
 
 A demigod and constellation in the night sky of a hunter with a fox companion. This constellation appeared in the sky after the events of the [[Great War]], and is thought to be the divine spirit of the hero [[Beryl]] and his [[Willow Wind|fox companion]] who fought by his side with his allies against [[Cha'mutte]].
 
