@@ -167,6 +167,7 @@ SORT directory, dm_notes, Status
 ```
 
 ### Shared and Private Notes
+
 ```dataview
 TABLE WITHOUT ID
   directory AS "directory",
