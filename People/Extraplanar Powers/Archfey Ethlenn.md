@@ -23,4 +23,7 @@ A sketch of her supposed appearance
 %% All the info I have is in discord or backlinks here; but obviously my game has plans for her 
 
 I also have some potential images on midjourney not pulled in here yet 
+
+Some notes from emails:
+ My assumption is that like most great stories of the fey, this one has a bargain at its heart. But what would Ethlenn want so much so as to trade eternal vigilance over the Tyrwinghan people (and land?) for? I’m not sure. And perhaps it doesn’t matter, even a fey-linked character wouldn’t know for sure
 %%

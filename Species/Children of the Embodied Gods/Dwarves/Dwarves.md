@@ -116,3 +116,12 @@ Dwarves ascribe meaning to their clan names and often render them in the trade t
 - [ ] summarize notes from [[Dwarven Religious Practice]] here
 
 %%
+
+%% Some notes on Thuhr from Cleenseau game:
+
+A Thuhr shouldn't be interpreted as a calling or a profession - yes it can be kind of like a guild, but also has a lot of aspects of fraternal organization / secret society / second family, and for many (most?) dwarves it is more that than how you find a career. And some dwarves are just kind of not involved in their Thuhr much. The logic of the Thuhr is that dwarven society is generally very strongly familial with very strict elder-based family clans that operate in a feudal, almost dictatorial way. The Thuhr are an escape valve - rather than running away because they don't fit in with their family, young dwarves who want to leave home follow their Thuhr-ties instead of their clan-ties. So not only is there is no need or reason to require a second Thuhr in order to radically shift directions, it is not obvious what exactly a second Thuhr would even mean in practice. 
+
+That said, if the second Thuhr is a way to make the lunar connection something that is imposed / aided / created / influenced by the Bahrazel, that could be a reason to include something radical like that. I'm not sure what secret purpose the Bahrazel would have but that obviously could develop during the campaign. One side point about this: the Bahrazel have a very transactional relationship with dwarves, and do not (and probably can't) simply summon a dwarf to the Heart of the Mountain to do something like give them a second Thuhr and direct them to study the moon unless the person being summoned owed a debt to the gods. Of course, seeing as this is right after the Great War, there are tons of ways that this character could have owed a debt to the gods. Or it could even be something he doesn't know about - a family debt that he now carries for example. I fleshed out a bunch about dwarven religion for the Riswynn solo, I can send you notes if I haven't already.
+
+Putting this all together I would say that the second Thuhr route implies to me some (probably hidden) backstory/connection where in some indirect way this character is actually serving the purpose of the Bahrazel, and fulfilling an obligation (know or unknown) in the process. 
+ %%
