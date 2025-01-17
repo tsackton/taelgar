@@ -23,3 +23,12 @@ The kenku have inhabited these islands for living memory, and this old and proud
 
 ![[wahacha-coast.png]]
 *The Vermillion Isles*
+
+
+%% Some notes from emails
+
+The Vermillion Isles are around 37 N, strongly influenced by the ocean, which here is weird and magical. 
+	 
+
+Overall climate is maybe vaguely like Portugal or even Azores, but locally Vermillion Isles are very dry, little rain, with most rain falling in inconsistent thunderstorms. Fall/winter a bit wetter than spring/summer, but in general weather all across the eastern islands is chaotic.
+%%

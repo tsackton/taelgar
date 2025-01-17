@@ -4,7 +4,7 @@ tags: [deity, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
 name: The Wanderer
 gender: male
-dm_owner: shared,tim
+dm_owner: shared,tim,mike
 dm_notes: important
 ---
 # The Wanderer
@@ -14,6 +14,7 @@ dm_notes: important
 %% needs some thought about holy symbol %%
 
 %% a few notes from various adventures that might  add color but nothing important %%
+%% I have some significant in-game experience with wanderer as one of my players is a paladin of the wanderer, some of which is worth capturing here %%
 
 A deity in the [[Mos Numena]] pantheon, and one of the [[Incorporeal Gods]] of humanity. 
 
