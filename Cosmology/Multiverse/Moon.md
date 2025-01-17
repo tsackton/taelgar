@@ -1,20 +1,20 @@
 ---
-tags: [status/stub, status/check/tim]
-dm_owner: joint, tim
+tags: [status/stub]
+dm_owner: joint
+dm_notes: none
 ---
 
 %%
 For the moon -- I started to jot down some ideas w/r/t to the Empty Moon / werewolf arc from Tokra. Here was the intro to Session 39:
- 
+
+note there is probably something to the fact that the werewolf cult is called the fraternity of the **Empty Moon** and their ritual talked about worshipping / summoning the **Betrayer Moon**. but what is not entirely settled. 
 
 As you drift to sleep in the comfortable beds at the inn, recovering from a long day of fighting werewolves, the full moon climbs higher in the night sky.  
   
 Infused with the light of the Divine Spark, the moon is fully awake now, though hardly aware in any normal sense of the word. And yet as it grows brighter, it can feel the threads of the divine that tie the world below to the spiritual realms, and it pulls, yearning for more, for a deeper connection to the warmth and the glow of divinity. The realms of the gods, as well as the realms of demons and devils and the primordial forces of the world, all draw closer. As the moon reaches for these realms, it creates the planar tides, the ebb and flow of the strength of connection between these realms and the world of Taelgar.  
   
-
 The moon does not remember its past, although it has heard the stories, of course, the conflicting tales and prayers and legends of its origin. Is it a great evil, cast out in the earliest days of creation by Arhat and Malik, cursed to forget in its great tomb, struggling awake for only a few days of each month? Some tales claim so. Or, perhaps, a great hero of the Age of Myth, born and living and dying during the Long Breath before time began, rescued from death by Arhat and Malik, given and honored place in the sky, but unable to be fully restored? Or some say, a hero and villain both, granted the gift of forgetting. The moon hears these tales, and more, washing over them, and yet they find they do not care to know the truth, even in these moments of lucidity.  
   
-
 As you wake in the pre-dawn darkness, the full moon hangs low in the sky. How would you like to start your day?
 
   
