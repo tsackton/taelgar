@@ -2,15 +2,22 @@
 headerVersion: 2023.11.25
 tags: [deity, religion/mosnumena, status/cleanup/image]
 displayDefaults: {defArt: ''}
-name: The Sibyl
 aliases: [Sibyl]
 gender: female
-dm_owner: none
+dm_owner: joint
 dm_notes: none
 ---
 # The Sibyl
 >[!info]+ Summary  
 > she/her
+
+%% setting status/check/mike to confirm frontmatter %%
+
+%% vibe check:
+- i've always thought of the sibyl as kind of part of a trio with the wanderer and the wyrdling that are seen as more personal, more present, more likely to pay attention to an individual. 
+- the original idea of the sibyl also had a focus on obsession, trying to blend e.g. scholarly obsession and romantic obsession into the divine of love and knowledge, and then sticking on magic on top as it needed a home. 
+- perhaps the most greek-goddess-like of any of the eight divines?
+%%
 
 %% needs some thought about holy symbol %%
 

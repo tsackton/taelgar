@@ -86,7 +86,7 @@ The party lays the phylactery dagger on a cloth alongside the seven mementos. Sh
 
 - **[[Minarith]]:** [[Delwath]] mimics a curious student, engaging [[Minarith]] with botanical questions. His persuasive manner helps the peronar scholar remember his identity. [[Minarith]] departs with the words, "I see the stars," bowing gracefully.
 
-- **[[Floria of Aphasium]]:** [[Riswynn]] speaks to Floria’s devotion to family and aiding others. Her heartfelt words evoke memories of Floria’s mission to care for the needy. Floria hears the call of The Father and vanishes, her surroundings subtly shifting.
+- **[[Floria of Aphasium]]:** [[Riswynn]] speaks to Floria’s devotion to family and aiding others. Her heartfelt words evoke memories of Floria’s mission to care for the needy. Floria hears the call of [[The Father]] and vanishes, her surroundings subtly shifting.
 
 - **[[Marius of Drankor]]:** [[Kenzo]] aligns Marius’s rebellion with his own struggles for justice, connecting with Marius' spirit to rekindle Marius’s sense of purpose. Marius departs, encouraging [[Kenzo]] to "keep fighting."
 
@@ -213,7 +213,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - [[Floria of Aphasium]]
 	- Riswynn connects with Floria through her devotion to family and aiding others.
 	- Using Insight, Riswynn’s heartfelt words evoke memories of Gloria’s mission to care for those in need.
-	- Gloria hears the call of The Father and departs, her surroundings subtly shifting as she vanishes.
+	- Gloria hears the call of [[The Father]] and departs, her surroundings subtly shifting as she vanishes.
 - [[Marius of Drankor]]
 	- Kenzo speaks of shared struggles against oppression, aligning Marius’s rebellion with his own fight for justice.
 	- Using Insight (18 after reroll), Kenzo helps Marius regain his sense of purpose.
