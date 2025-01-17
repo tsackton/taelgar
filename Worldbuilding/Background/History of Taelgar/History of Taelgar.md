@@ -52,7 +52,7 @@ Between the end of the [[Age of Myth]] and the beginning of the [[Age of Creatio
 - During [[The Riving]], the [[Divine Presence]] spun out from itself a creative force, distinct from the chaotic energy of the [[Plane of Magic]], the raw material of sentience and self-awareness, in the form of the [[Astral Plane]]. From this creative power, the [[Embodied Gods]] came into being.
 - As [[The Riving]] came to an end, the [[Embodied Gods]] created the [[Elder Folk]], sentient species endowed with souls made of this raw material of creation, [[~soulstuff~]]. 
 
-%% at least some far realms "cracks" appear during the RIving, as this is theoretically when the Sentient Ocean flees to Taelgar. %%
+%% at least some [[far realms]] "cracks" appear during the RIving, as this is theoretically when the Sentient Ocean flees to Taelgar. %%
 ## Age of Creation
 _1 - 1520 by the Dwarven Count of Years_
 
