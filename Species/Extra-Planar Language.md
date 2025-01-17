@@ -1,11 +1,11 @@
 ---
-tags: [background, status/needswork/old]
+tags: [background, status/needswork/old, status/cleanup/external]
 excludePublish: ["all"]
-dm_owner: shared,tim
-dm_notes: important
+dm_owner: joint
+dm_notes: none
 ---
 
-%% have  some old notes but probably obsolete - still work checking before removing tim%%
+%% there is a lot of discord discussion about language families. most has, i believe, been incorporated below, so maybe status/cleanup/external is unnecessary. might be worth keeping a note at the top to indicate there are reasons for some decisions below in external notes, if we don't want to try to copy the whole discussion. %%
 
    * **Sylvan:** The language of the Feywild, of satyrs and fairies and others. The most common extraplanar language to be learned by natives of the material plane. This is often mapped to classical Greek, but many different real world mappings are possible. 
    * **Shadowkar:** The language of the Shadowfell.

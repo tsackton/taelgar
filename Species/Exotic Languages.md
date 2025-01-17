@@ -1,11 +1,11 @@
 ---
-tags: [status/needswork/old, meta]
+tags: [status/needswork/old, meta, status/cleanup/external]
 excludePublish: ["all"]
-dm_owner: shared,tim
-dm_notes: important
+dm_owner: joint
+dm_notes: none
 ---
 
-%% have  some old notes but probably obsolete - still work checking before removing tim%%
+%% there is a lot of discord discussion about language families. most has, i believe, been incorporated below, so maybe status/cleanup/external is unnecessary. might be worth keeping a note at the top to indicate there are reasons for some decisions below in external notes, if we don't want to try to copy the whole discussion. %%
 
 In general many species will speak some sort of language unique to that species. This tracks exotic languages that canonically exist, or ideas for languages that probably exist, as well as whatever details have been made up for them. It is currently written more as background than website-focused but could be cleaned up. 
 
