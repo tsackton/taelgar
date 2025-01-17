@@ -1,11 +1,11 @@
 ---
-tags: [background, status/check/tim]
+tags: [background, status/cleanup/incomplete]
 dm_owner: none
 dm_notes: none
 ---
 # Unusual Species
 
-%% setting status/check/tim to confirm you are happy here - this is a player facing overview page so it is not expected to be complete %%
+%% tagging cleanup/incomplete as a reminder to add a sentence about centaurs and and a sentence about kobolds here %%
 
 Not every sentient species in Taelgar has a simple origin story. 
 
