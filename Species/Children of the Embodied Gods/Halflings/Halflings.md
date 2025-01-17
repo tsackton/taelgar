@@ -123,3 +123,5 @@ Halflings count the days since time began, in a long cycle that repeats.
 
 
 %%
+
+%% brainstorming notes: 
