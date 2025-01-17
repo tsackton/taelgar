@@ -1,3 +1,8 @@
+---
+tags: [background]
+dm_owner: shared
+dm_notes: important
+---
 
 Sembara: A Guide
 

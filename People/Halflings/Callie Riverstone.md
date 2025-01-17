@@ -6,7 +6,7 @@ whereabouts: Aslain
 gender: female
 affiliations: [{org: Riverstones, type: primary}]
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Callie Riverstone
 >[!info]+ Biographical Info  

@@ -6,6 +6,8 @@ campaignInfo: []
 name: Andonne
 typeOf: river
 whereabouts: Greater Sembara
+dm_owner: none
+dm_notes: none
 ---
 # The Andonne
 >[!info]+ Information  

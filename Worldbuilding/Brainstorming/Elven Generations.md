@@ -1,3 +1,8 @@
+---
+tags: [background]
+dm_owner: shared
+dm_notes: none
+---
 
 
 Each ka is a period of 160 years, split into a mela and a leya phase. The children born during the mela phase of a particular ka are associated with that ka. 
