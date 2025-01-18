@@ -1,11 +1,9 @@
 ---
-dm_owner: shared,tim
-dm_notes: important
+dm_owner: joint
+dm_notes: none
 ---
 
 ## On Wealth
-
-%% some relevant orenlas notes %%
 
 synthesizing the email discussion about material abundance, intellectual property, what elves see as wealth, etc.
 
@@ -24,3 +22,23 @@ the basic idea here I think is a bit more established, around the nurturer/caret
 1. you can't go to an elven city and say "take me to your leader" - there is no galadriel or elrond to speak to. however, I think that most elven settlements would have some people who are the outerward face of the community to visitors. perhaps with explicit titles like "Caretaker So-and-So".
 2. if you are asking something of "elves" it should be a little unclear how decisions are made, although there is an opportunity to create a way to participate in a "trial by unity" if desired
 3. there should probably not be a lot of internal, obvious factions in elvish society, except during times of debate and consensus-finding, and then those factions would be temporary. this is probably not a universal rule - decision points have to start somewhere and may start with a factional period. but once it is resolved, it is resolved.
+
+
+## Politics
+
+Certainly, let's delve deeper into crafting a unique and intriguing political structure for Orenlas and Erelion (the main city in Orenlas), making them stand out as truly distinct from what humans might expect. Here are a few unusual ideas:  
+  
+1. **Age-Based Decision Making:**  
+In Orenlas and Erelion, decision-making could be based on the concept of temporal wisdom. The older an elf is, the more weight their opinions carry in discussions. However, instead of having a single ruling council, decisions could be made by gathering representatives from different age groups, each contributing their perspective. This means that decisions could be a culmination of insights from various generations, ensuring a comprehensive understanding of the issue at hand. A unique twist could be that the eldest members speak their thoughts first, followed by progressively younger members, allowing for a harmonious interplay of experience and fresh viewpoints.  
+  
+2. **Wisdom Trees and Collective Memory:**  
+In Erelion, there could exist ancient "Wisdom Trees" that serve as repositories of the accumulated knowledge, experiences, and insights of the elven community. These trees could be enchanted with magic that allows elves to commune with them and access the memories stored within their wood. When important decisions need to be made, elves could gather around these trees, entering a trance-like state to tap into the collective wisdom of their ancestors. The trees themselves might offer guidance through faint whispers, rustling leaves, or even projecting memories as vivid visions.  
+  
+3. **Council of Whispers:**  
+In Erelion, the council of elders might not convene in a traditional sense. Instead, they gather during the night beneath the canopy of ancient trees, participating in a ritual known as the "Council of Whispers." Elves believe that the stars and the trees are connected through the threads of Elmerca's magic, allowing them to communicate with distant realms. The elders listen to the rustling leaves and watch the patterns of starlight to discern messages and insights from Elmerca. Their discussions might involve interpreting the patterns and sounds, merging both celestial and earthly guidance to make decisions.  
+  
+4. **Trial by Unity:**  
+When conflicts arise or major decisions need to be made, Orenlas could employ a ritualistic approach called "Trial by Unity." Representatives from different generations form a circle around the ancient Living Tree, Aldanor. Through a shared meditation and attunement to the tree's energy, they become connected on a profound level. During this union, they experience each other's memories, emotions, and thoughts, fostering a deep understanding of each perspective. Once the unity ends, decisions are reached through a form of collective consciousness, where each elf has gained insight from others' experiences, guiding them towards consensus.  
+  
+5. **Eternal Reflection:**  
+In Erelion, the council of elders could engage in a unique practice called "Eternal Reflection." Instead of meeting frequently, they gather only during certain celestial events or significant natural occurrences. During these gatherings, they spend extended periods in deep reflection, allowing their minds to explore the memories of their past, their connection to the forest, and their bond with Aldanor. They believe that this introspection brings forth insights that guide their society in ways that mere discussion cannot. Decisions might emerge as shared revelations rather than deliberate discussions.
