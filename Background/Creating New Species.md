@@ -35,7 +35,7 @@ These have well-defined typologies but within the existing typologies can be fai
 
 ### Natives of the Far Realms
 
-10. **Alien Species**. There are many things flung across the universe that are older, and stranger, than the world of Taelgar. Many aberrations, and especially mind flayers, are ultimately invaders from these [[Far Realms]], and many of these invaders created twisted creations to be their slaves, prey, or entertainment, some of whom still linger in the world. While at the moment, the only canonical invaders to Taelgar are from ancient and disturbing Far Realms, some races and creatures that are traditionally associated with Spelljammer in D&D could have an origin via this mechanism, or via a similar “transport from other timelines” type mechanism. *Canonical examples: [[Ithilids]], beholders, aboleths, [[Sentient Ocean]]*. ***Most typical D&D aberrations fit easily into this category, although some care should be given to avoiding too much of a Spelljammer vibe.***
+10. **Alien Species**. There are many things flung across the universe that are older, and stranger, than the world of Taelgar. Many aberrations, and especially mind flayers, are ultimately invaders from these [[Far Realms]], and many of these invaders created twisted creations to be their slaves, prey, or entertainment, some of whom still linger in the world. While at the moment, the only canonical invaders to Taelgar are from ancient and disturbing [[Far Realms]], some races and creatures that are traditionally associated with Spelljammer in D&D could have an origin via this mechanism, or via a similar “transport from other timelines” type mechanism. *Canonical examples: [[Ithilids]], beholders, aboleths, [[Sentient Ocean]]*. ***Most typical D&D aberrations fit easily into this category, although some care should be given to avoiding too much of a Spelljammer vibe.***
 
 ## Decision Tree for Adding New Races
 
@@ -54,7 +54,7 @@ Is the creature part of a civilization with a history, culture, religious belief
 If there is not an obvious choice: is it a major part of a campaign (current or past) that, for plot/story reasons, needs a complex culture and backstory?
 
 - Consider whether it could be a Void Mind trick in an existing metaphysical category, e.g. an "evil" myconoid species or insect species, corrupted, awakened by an agent of the void mind, or a "slave species" corrupted by a Far Realm power. Many of these creatures could fit in 4. 
-- Consider whether it could be native to a yet-undescribed Far Realm, potentially with a radically different vibe than typical Far Realms, in which case consider 10.
+- Consider whether it could be native to a yet-undescribed Far Realm, potentially with a radically different vibe than typical [[Far Realms]], in which case consider 10.
 - Consider whether it could represent a extraplanar entity possessing and twisting something native to the Material Plane, in which case 8 could fit. For example, gnolls, who are fiends (demons) insubstantiated into the bodies of carnivores on the material plane, would fit in this category. Should, in this case, be created, not born. 
 - Consider whether this might be an exceptional case where a soullless species nonetheless develops into something with depth and culture. Likely, in this case, to require special/extenuating circumstances and likely some strong connection to some kind of magic. An example might, potentially, be some kind of construct species. This could make 7 a reasonable fit. 
 - If nothing else fits, consider 5. 
