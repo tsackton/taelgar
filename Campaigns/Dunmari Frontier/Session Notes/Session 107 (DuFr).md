@@ -24,7 +24,7 @@ The Dunmar Fellowship explores the [[~Circular Island~]], uncovering its past as
 ***Character advancement: everyone reaches level 15***
 ### Summary
 - The [[Dunmar Fellowship]] lands on the singing sand beach of Circular Island after navigating through storms.
-- The party notes a red scar, divine [[ley lines]], and [[Dragonets|dragonet]] presence from a cliff vantage point.
+- The party notes a red scar, divine [[Ley Lines]], and [[Dragonets|dragonet]] presence from a cliff vantage point.
 - They head north, discovering runic circles at an ancient camp site spelling 'Water', 'Food', and 'Warmth'.
 - Upon reaching a road leading to [[the Wanderer]] statue, they find a damaged pilgrimage hostel and temple complex.
 - Inside, they discover ancient prayers indicating the island was once a refuge and later a pilgrimage site.
@@ -34,7 +34,7 @@ The Dunmar Fellowship explores the [[~Circular Island~]], uncovering its past as
 ## Narrative
 We begin in the afternoon, as the Dunmar Fellowship reaches the singing sand beach of the [[~Circular Island~]], having struggling through the permanent storms that encircle the island on the Folding Boat, captained by [[Milo Thistlefoot]]. Milo, [[Tilly Brineheart]], and the halfling crew leave the party on the shore, and head back out to sea to circumnavigate the island and explore. 
 
-From the beach, there is not much to see, although [[Wellby]] notices the sand seems to faintly sing in the wind, a melody that [[Delwath]] recognizes as Elvish, although too soft to hear the words. The party climbs up the cliffs -- [[Seeker]] noting that the cliffs seem to be intentionally shaped to look like windswept, eroded crags -- and scouts from the top. Looking across the island, there is a strange, red burned scar a few miles inland, towards the forest; divine [[ley lines]] that run from the statues of the [[Mos Numena|Eight Divines]] inland; and a clear [[Dragonets|dragonet]] presence that [[Kenzo]] can sense to the north, near the partially ruined towers. 
+From the beach, there is not much to see, although [[Wellby]] notices the sand seems to faintly sing in the wind, a melody that [[Delwath]] recognizes as Elvish, although too soft to hear the words. The party climbs up the cliffs -- [[Seeker]] noting that the cliffs seem to be intentionally shaped to look like windswept, eroded crags -- and scouts from the top. Looking across the island, there is a strange, red burned scar a few miles inland, towards the forest; divine [[Ley Lines]] that run from the statues of the [[Mos Numena|Eight Divines]] inland; and a clear [[Dragonets|dragonet]] presence that [[Kenzo]] can sense to the north, near the partially ruined towers. 
 
 The party decides to head towards the statue of [[the Wanderer]], to the north. After traveling for a few miles, they encounter the ancient remains of what seems to have been a camp. Little is left, except for three faintly magical circles of runes marking with strange writing spelling the words "Water", "Food", and "Warmth." 
 
@@ -46,7 +46,7 @@ The session ends in the early afternoon, as the party speculates on the nature o
 
 ## Raw Notes
 - Start on beach with faintly singing sand (Elvish)
-- [[Wellby]] scouts from cliff; [[Kenzo]] aura sense; note location of dragonets, strange burned scar, divine [[ley lines]]
+- [[Wellby]] scouts from cliff; [[Kenzo]] aura sense; note location of dragonets, strange burned scar, divine [[Ley Lines]]
 - headed towards the statue of [[the wanderer]]
 - on encountered a camp - found water/fire/food runes and discovered the tent posts
 - reach wanderer statue, find pilgrimage hostel; signs of damage
