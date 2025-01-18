@@ -108,3 +108,36 @@ Note: Could potentially have a moonlight connection, but unclear if there is a m
 
 {Reactions}
 👍
+
+
+
+[9/23/2024 6:40 PM] .deciusmus
+have you considered at all why werewolves turn during the full moon?
+
+
+[9/23/2024 6:41 PM] .deciusmus
+is it just that pandemonium is closer to taelgar? something else? just pondering in relationship to my PC who is dedicated to the moon
+
+
+[9/23/2024 7:04 PM] rsulfuratus
+I wrote this as an intro during the werewolf arc but nothing beyond the implications here:
+
+The world turns, night falls, and the stars begin to flicker in the sky over Dunmar. As the Fox and Hunter drift above the horizon, they watch the full moon rising for the 2,514th time, and listen. Their attention, as always, is drawn to the east, and north, where the prayers are the brightest and loudest, the hopes for safety, for healing, for peace that echo across the borderlands. They reach out, as they do every night, granting what minor miracles they can to the rangers who keep Sembara safe from the darkness of the Plague Lands.
+
+The work is easy tonight. As the moon turns to full the tidal pull of the Divine Presence grows stronger, filling the land, and the Source is easy to reach. The Fox thinks of days running in the forests of the north, and stretches across the world. The Hunter calls to him, reminds him of the task ahead, but remembers the joy of those early days too, the thrill and power of just running in the deep forests where he met the Fox.
+
+Their attention, though, does not stay on the forested Mostreve hills on the southern reaches of Sembara, nor the arid foothills where the people of the Refounded Alliance of Aurbez scratch out a living on the edge of the Plague Lands. The full moon also draws the darkness of the Void closer. The Hunter, always with one small part of his essence watching those who carry echoes of his companions of old, sees the madness pour into the soul of a poor innocent boy, a young dwarf not even of age, in west of Dunmar.
+
+(cont)
+
+
+[9/23/2024 7:04 PM] rsulfuratus
+While the Fox tends to the prayers of the rangers of Sembara, the Hunter watches Dunmar more closely for a moment. Across the desert and dry arid plains -- so hard not to cast the land in his mind's eye as it was -- the People of the Horse are moving. Sura, the sister of the current Samraat, has returned from an unreachable prison, and many people are gathering in her camps. And yet she is not marching to war, not yet.
+
+North of the city of Tokra, an old woman sits by the fire, wondering. The Hunter watches her a moment, sees the prayers streaming to Bhishma, asking when the strange travelers of her dreams will arrive, and how much should she tell them when they do? He senses the tangled future, but there is little he can do to shape that destiny.
+
+In Tokra, the poor innocent is snarling, consumed with the madness of Jinnik on this night of power. The waves of the Void crash over him, each wave reaching higher and higher up the beach, threatening to overwhelm his soul, until suddenly there is calm, clear water and silver twilight in the forests. The Fox comes running -- is this my home? No, the Hunter says, just an echo of what was lost, but that echo still has power.
+
+The tide madness recedes from the boy, but not from everywhere in this city. Elsewhere, the darkness of the Void is pulled tight, bound together with the souls of those who have submitted to its power. It will be harder to free these of the curse.
+
+
