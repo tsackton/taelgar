@@ -45,4 +45,4 @@ Over the next 10 days, as the [[Wave Dancer]] makes it way to the kenku port of 
 
 ![[wahacha-village.png|500]]
 
-We end as the [[Wave Dancer]] arrives in [[Wahacha]], and [[Wellby]] is given a tour of the island by [[Makha]], the harbor master and unofficial town spokesperson. From [[Makha]], [[Wellby]] learns that the two kenku wanderers and explorers who could tell him where to find someone who knows about the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]] have recently been kidnapped, by raiders from the sea who have been causing trouble in the last month. 
+We end as the [[Wave Dancer]] arrives in [[Wahacha]], and [[Wellby]] is given a tour of the island by [[Makha]], the harbor master and unofficial town spokesperson. From [[Makha]], [[Wellby]] learns that the two kenku wanderers and explorers who could tell him where to find someone who knows about the [[Feywild|Feywild]] have recently been kidnapped, by raiders from the sea who have been causing trouble in the last month. 

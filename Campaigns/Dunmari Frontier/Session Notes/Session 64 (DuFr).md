@@ -31,7 +31,7 @@ descTitle: Healing Motua
 ### Timeline
 - (DR:: 1748-11-06): Speak with [[Somi-nai]]. Cross the lava river, and proceed to the flooded jungle. Commune with an ancient tree; find the dryad [[Eleuha]]; avoid a maelstrom whirlpool dragging everything it touches into an endless watery void; confront [[Motua]] and heal their wounds, freeing them of the bindings that weakened and sickened them; meet [[Lengau]], the jaguar spirit guardian of the jungle.
 - (DR:: 1748-11-07) - (DR_end:: 1748-11-12):  Spend time in the jungle with [[Motua]] and [[Lengau]]
-- (DR:: 1748-11-13):  [[Izzarak]] decides to remain and care for the babies, whatever they will become; [[Kenzo]] plane-shifted to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]], to [[Lastlight Falls]], by the magic of [[Lengau]]
+- (DR:: 1748-11-13):  [[Izzarak]] decides to remain and care for the babies, whatever they will become; [[Kenzo]] plane-shifted to the [[Feywild|Feywild]], to [[Lastlight Falls]], by the magic of [[Lengau]]
 
 
 ## Narrative
@@ -71,4 +71,4 @@ As [[Kenzo]] emerges again, battling the last of these necrotic chains with [[Iz
 
 Meanwhile, the party hears the low growl of a jaguar pacing through the jungle – [[Lengau]]. He approaches, greeting the babies, thanking [[Izzarak]] for keeping open the door through which [[Lengau]] could travel, clearly implying that it was only the presence of the babies [[Izzarak]] guarded and guided to this place that allows [[Lengau]] to appear here. [[Lengau]] says he will restore the jungle, with [[Motua]]’s help; [[Izzarak]] also volunteers to remain and raise the babies here, and see how he can help bring the jungle back into balance. 
 
-We end as [[Kenzo]] prepares to depart to the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]], after spending some time learning from [[Motua]] and [[Lengau]], to be plane-shifted to [[Lastlight Falls]], where he will meet his friends in the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild|Feywild]].
+We end as [[Kenzo]] prepares to depart to the [[Feywild|Feywild]], after spending some time learning from [[Motua]] and [[Lengau]], to be plane-shifted to [[Lastlight Falls]], where he will meet his friends in the [[Feywild|Feywild]].

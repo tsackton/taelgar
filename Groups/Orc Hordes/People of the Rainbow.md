@@ -23,7 +23,7 @@ dm_owner: tim
 The name for the [[orcs]] of [[Xurkhaz]] who have lived free from [[Thark]]'s curse for many generations.
 ## History
 
-The People of the Rainbow trace their origins to the Golden Age of the [[Drankorian Empire]], when their ancestors were freed from [[Thark]]'s chains by the gift of an archfey known as the [[Cloudspinner]]. In those days, the People of the Rainbow grew and prospered in the [[feywild]] domain of [[Amberglow]], under the [[Cloudspinner]]'s protection, and safe from [[Thark]]'s reach. 
+The People of the Rainbow trace their origins to the Golden Age of the [[Drankorian Empire]], when their ancestors were freed from [[Thark]]'s chains by the gift of an archfey known as the [[Cloudspinner]]. In those days, the People of the Rainbow grew and prospered in the [[Feywild]] domain of [[Amberglow]], under the [[Cloudspinner]]'s protection, and safe from [[Thark]]'s reach. 
 
 As they grew, the People of the Rainbow wished to free their brethren from [[Thark]]'s chains, so with the [[Cloudspinner]]'s blessing and the gift of the [[Cloak of Rainbows|Cloak of Rainbows]] to protect them, they ventured back to the material plane. 
 
