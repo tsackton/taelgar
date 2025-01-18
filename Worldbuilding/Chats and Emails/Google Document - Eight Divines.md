@@ -122,6 +122,10 @@ However, some common traditions that developed in Drankor are shared widely, and
 
 ### Common Traditions
 
+%%
+First, Mos Numera might have diverged somewhat between Sembara and Chardon. So I'm envisioning the below as a uniquely Sembaran take on the traditions, I could see it being somewhat different in Chardon or Cymea or the farther East. This is what I was thinking for a specifically "Greater Sembaran" version of Mos Numera, which would have historically been the main tradition of all the lands that were once east Northerner and in particular would still be common in Vostok, Sembara, Tollen, Tyrwingha, the highland kingdoms, and the south. Cymea may or may not have a similar tradition, and Skagenland probably does not follow this exactly.
+%%
+
 The daily practices of worship associated with the Way are ancient, pre-dating Drankor even, and provide structure for the prayers to the Eight Divines. These include a personal component of worship, mediated through a household shrine or small personal altar, and a community component, mediated at a dedicated building (a temple). Prayers are varied, but usually involve asking for aid or advice, or offering praise or remembrance of past miracles, both large and small. In Drankor, prayers are offered to the Divine who can aid or assist in the subject at hand, and these Divines are believed to, when they grant miracles, act directly in the world. So, to ask for a safe journey one would pray to the Wanderer, and to ask for aid in childbirth one would pray to the Mother. 
 
   

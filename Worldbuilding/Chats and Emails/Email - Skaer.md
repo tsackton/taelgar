@@ -1,4 +1,7 @@
-%% This is probably mostly superceded but dumping here in case there is something useful; after review it can probably be deleted %%
+(July 2023)
+I am thinking about the Skaer a little bit. 
+
+  
 
 What I know about them so far:
 
@@ -30,7 +33,8 @@ Things I'm not sure about:
 
 If you have any thoughts about history / culture / religion / politics, I'd be curious.
 
-
+=====
+  
 
 One thought right away…  
   
@@ -44,7 +48,7 @@ My broad idea would be that as the easterners moved through the Green Sea, as yo
   
 [ Alternatively maybe that dualistic religion developed in Medju or similar south/east mixed places as the eastern “divine spark” and primacy of the divine presence mixed with unique but undefined southern traditions ]  
   
-MTP then picks up on all these strands, plus a bit of Mos Numera and maybe even the Dunmari Siblings, plus a few random deities with no meaningful connection to anywhere else and maybe one or two old gods who survived from the ancient mariner pantheon but have changed and are somewhat unrecognizable.  
+MTP then picks up on all these strands, plus a bit of Mos Numera and maybe even the Dunmari Siblings, plus a few random deities with no meaningful connection to anywhere else and maybe one or two old gods who survived from the ancient mariner pantheon but have changed and are somewhat unrecognizable.  
   
 This is I guess only loosely related to Skaer and probably should be on the other email thread.  
   
@@ -78,10 +82,8 @@ That’s a big half formed but seemed interesting.
   
 Thoughts? I’m going for a blend of Hawaii culture with Kaikkea standing in for the kings, but a bit of pure 19th/20th century communism, plus some Quaker/Shaker religious stuff.
 
+======
 
-(REPLY)
-
-  
 On Thu, Jul 20, 2023 at 11:07 PM Mike Sackton <[msackton@gmail.com](mailto:msackton@gmail.com)> wrote:  
 
 > One thought right away…  
@@ -98,7 +100,7 @@ On Thu, Jul 20, 2023 at 11:07 PM Mike Sackton <[msackton@gmail.com](mailto:msack
 >   
 > [ Alternatively maybe that dualistic religion developed in Medju or similar south/east mixed places as the eastern “divine spark” and primacy of the divine presence mixed with unique but undefined southern traditions ]  
 >   
-> MTP then picks up on all these strands, plus a bit of Mos Numera and maybe even the Dunmari Siblings, plus a few random deities with no meaningful connection to anywhere else and maybe one or two old gods who survived from the ancient mariner pantheon but have changed and are somewhat unrecognizable.
+> MTP then picks up on all these strands, plus a bit of Mos Numera and maybe even the Dunmari Siblings, plus a few random deities with no meaningful connection to anywhere else and maybe one or two old gods who survived from the ancient mariner pantheon but have changed and are somewhat unrecognizable.
 
   
 
@@ -203,9 +205,9 @@ Or, perhaps there is even something like the Amish rumspringa type wander year.�
 It feels like it fits quite well. I wanted to come up with something that wasn’t just Taelgar Vikings and I think this feels pretty distinct and interesting.
 
 
-(NEXT REPLY)
+========
 
-n the car but a few comments below.   
+In the car but a few comments below.   
   
 
 Sent from my iPhone
@@ -271,10 +273,6 @@ That works- although I think it also works to leave it a bit of a blank spot. 
 
 This seems really cool. You could imagine a tradition of wandering for a year or two or three, and that provides a natural point to switch honuha. If you come back from the rumspringa which a keen eye for smithing, but your familial honuha are fisherfolk, it is natural to move at that point. 
 
-  
-
 It also provides an escape valve — as you mention before, there is a certain amount of conformity in Skaer culture. And people who don’t fit very well are effectively allowed to never return from their wandering. Unlike being excommunicated this is probably not a punishment or a situation where you are shunned, these Skaer expat communities could have close ties back to the homeland and some cases the children of these expats might sometimes “get religion” and return home. 
 
-  
-
-Skaer culture is probably much rougher on those who are not self-aware enough during their wandering year to know not to return home, and who end up being pushed out by the priests/community. These exiles are probably more often excommunicated/shunned.
+Skaer culture is probably much rougher on those who are not self-aware enough during their wandering year to know not to return home, and who end up being pushed out by the priests/community. These exiles are probably more often excommunicated/shunned. 
