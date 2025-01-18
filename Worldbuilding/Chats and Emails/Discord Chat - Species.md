@@ -231,3 +231,263 @@ in any case if you haven't used them for anything I can add some notes based on 
 
 [10/31/2023 9:10 PM] rsulfuratus
 will probably be pretty thin to start
+
+
+
+[7/26/2024 5:47 PM] rsulfuratus
+i'm slightly editing the species doc. my intention is not to suggest there are lots of additional species that are associated with dragons/fey/elementals/giants, but rather that giants, dragons (+kobolds), fey (many different species), and elementals (many different species) are their own thing separate from the more general "awakened/cursed/other" category
+
+
+[7/26/2024 5:47 PM] .deciusmus
+are they necessarily though?
+
+
+[7/26/2024 5:48 PM] .deciusmus
+in practice I don't think it matters
+
+
+[7/26/2024 5:48 PM] rsulfuratus
+maybe not really
+
+
+[7/26/2024 5:48 PM] .deciusmus
+but I'm questioning whether, i.e. Titans should necessarily be considered canonical
+
+
+[7/26/2024 5:49 PM] .deciusmus
+or whether it means anything to say "Dragons were [something] by great wyrms"
+
+
+[7/26/2024 5:49 PM] .deciusmus
+I think that is maybe under considered and if we ever decided to make up the history of dragons and what they are precisely, the existence or not of great wryrms in the age of myth isn't super relevant
+
+
+[7/26/2024 5:50 PM] .deciusmus
+same deal with giants; whether titans are a real thing or not I'm not sure it is meaning to say that giants are in some sense an "echo" of titans.
+
+
+[7/26/2024 5:51 PM] .deciusmus
+This is more relevant to me in terms of the fey where I'm not at all convinced that the story is "archfey created fey" but maybe something more like "some type of essence that has been conceptualized as fey by the current fey existed before time and its transformation during the Riving created many different fey creatures, of widely varying power levels"
+
+
+[7/26/2024 5:52 PM] rsulfuratus
+i am fairly attached to the idea that giants and dragons are somehow larger than life and have this history of being vastly more powerful, with echoes of that power (e.g., phasing stones, flying castles) lingering
+
+
+[7/26/2024 5:52 PM] rsulfuratus
+i think the fey and elementals are distinct and in some ways more complicated and so perhaps not too helpful to lump all four groups together
+
+
+[7/26/2024 5:53 PM] .deciusmus
+Again, not sure it matters in the species doc; I'm really just arguing that sentient species - including fey/giants/elementals - should have some kind of unique creation story and/or a canonically blank space filled only with vibes
+
+
+[7/26/2024 5:54 PM] .deciusmus
+I'd rather say:
+
+Giants and dragons are, in some sense, echoes or descendants or creations of the beings of pure magical energy that existed before the Riving
+
+
+[7/26/2024 5:54 PM] .deciusmus
+and than describe your vibe thing above
+
+
+[7/26/2024 5:54 PM] rsulfuratus
+right
+
+
+[7/26/2024 5:56 PM] .deciusmus
+I actually think it solves some problems to just say the time before the Riving was in some sense unknowable and is vibes based only and be judicious about which existing structures on Taelgar echo back to a pre-Riving time.
+
+Clearly giants, dragons, fey, and elementals do (although for different reasons) but I'm not sure it would be a problem if a fifth category came along that should also echo back to ancient days. But that doesn't necessarily imply the existing of some specific set of entities created by the Divine Presence
+
+
+[7/26/2024 5:58 PM] rsulfuratus
+thinking about what is actually in game and not world building, I think:
+- the vibe I described about giants and dragons is important, and also for giants some kind of history/echo of much stronger magic in the past that is connected to rune magic and the dwarven firstborn and such (leading to myths -- maybe true, maybe not -- that the Runecrafter learned magic from ~someone/something~ during the Riving)
+- the fey are diverse and despite having different forms and power have a shared history, so it doesn't necessarily make sense to have a separate "origin story" for satyrs vs pixies, for example. the fey, writ large, have a kind of collective origin of some kind, dating to the riving
+- elementals are similar, albeit someone more hierarchical and ordered, and much more commonly soullles magical creations (most standard "water elementals" or whatever are this) than fey are, and they are orgainzed around rulers of each domain (e.g., marid, djinni, efreeti, dao), who in tern owe allegiance to some kind of "elemental powers" of which gazankoa is the only named example
+
+
+[7/26/2024 5:59 PM] rsulfuratus
+but yes that dynamic (unknowable, vibes based) probably makes sense
+
+
+[7/26/2024 5:59 PM] rsulfuratus
+for pre-riving "history"
+
+
+[7/26/2024 6:02 PM] .deciusmus
+Right, I agree about all of that, but I actually think it is more important to, i.e. state that the fey, as a "type of creature" have a shared origin that dates to the Riving than to try to say that "archfey" existing before the riving and fey are somehow related.
+
+and I also think that "echoes of the Riving" is a potentially more flexible category than just fey/elementals/dragons/giants but also doesn't necessarily include say kobolds and trolls even though kobolds are dragon-ish and trolls are giant-ish
+
+
+[7/26/2024 6:05 PM] rsulfuratus
+so, I think I might modify the inner plane native to separate out "echoes of the riving" (fey, elementals, dragons, giants at the moment), from "other" and then merge "corrupted, awakened, unusual" into "other" which is just everything else
+
+
+[7/26/2024 6:06 PM] .deciusmus
+yeah that makes sense to me
+
+
+[7/26/2024 6:06 PM] .deciusmus
+although actually corrupted I thought was a decent category on its own
+
+
+[7/26/2024 6:06 PM] rsulfuratus
+yeah, right, good to keep that as well
+
+
+[7/26/2024 6:08 PM] .deciusmus
+Mentally, it feels to me like the areas I'd be comfortable just randomly introducing something in game without some kind of pre-dicsussion (YMMV might be reasonably different than mine) would be 
+(a) corrupted
+(b) types of fey or elementals
+(c) beasts
+(d) magical creations
+(e) children of creation
+(f) abberations
+
+But things that didn't fit in those categories I'd probably want a better story and compelling reason
+
+
+[7/26/2024 6:09 PM] .deciusmus
+Which is were in particular, I find the species guide useful. To define the types of things that are "common" vs "rare", in some sense
+
+
+[7/26/2024 6:35 PM] rsulfuratus
+I think that is reasonable. i pushed an update that I think is clearer. will slightly tweak age of myth text, and then merge, later tonight
+
+{Reactions}
+👍
+
+[7/26/2024 6:36 PM] rsulfuratus
+also might add explicit comments about "easy to add things" and "think about it" and "probably don't" to the now 10 categories
+
+
+[7/26/2024 6:36 PM] rsulfuratus
+but having dinner now
+
+
+[7/26/2024 7:48 PM] rsulfuratus
+merged
+
+
+
+
+
+[9/4/2024 10:17 AM] rsulfuratus
+not sure if you are interested in this, but with the new D&D rules now available I've been thinking a bit about updating the set of playable species in Taelgar, both to bring homebrew species up to the new design and to have a bit more principled set of playable species (motivated by the new family campaign I'm starting and Isaac's friends wanting to make new Taelgar characters for the semi-defunct Great Library campaign). 
+
+thinking a little bit about it, my feelings are that there are really potentially four groups of species.
+
+1. standard species are species that are widespread, deeply integrated into worldbuilding, and straightforwardly available as PC options (but they don't have to be common, e.g. elves). I'd consider these to be: human, elf, dwarf, lizardfolk, halfling, stoneborn, kenku, centaur at the moment but could move other species here possibly.
+
+2. fey species are the large class of feywild natives that often find themselves on the material plane and would usually be viable PC options. These would include: satyr, "fae/fey" (which needs a little thought as to the generic "fey humanoid" species stat block), fairy (pixie/sprite), changelings, some kind of "beastfolk" options (e.g. haregon, owlin, tabaxi type species, but requires a bit of thought)
+
+3. "unusual" species are species with well-established lore and integrated into worldbuilding but that have complications that prevent them from being a straightforward PC option. orc, hobgoblin, goblin, bugbear, kobold, merfolk, gnome are the most obvious ones here. maybe shifter to represent lycanthropes.
+
+4. "rare" species are things that might be viable player options but are not integrated into worldbuilding. mostly things like the various "plane-touched" humans (aasimar, tiefling, genasi), or the dhampir/hexblood/reborn Ravenloft lineages, or the "underdark" species variants. maybe warforged
+
+
+[9/4/2024 10:19 AM] rsulfuratus
+my main interests at the moment are:
+(1) solidify the set of standard species and homebrew new versions of them
+(2) solidify the set of fey species but typically use published versions for them
+(3) make some decisions about what rare/unusual species would not disrupt the Taelgar vibe to include
+
+
+[9/4/2024 10:19 AM] rsulfuratus
+e.g., Nathaniel originally wanted to play an orc, which I decided was too complicated for the game I want to run, but in principle I could see an orc PC as being kind of an interesting option in the right campaign
+
+
+[9/4/2024 10:20 AM] rsulfuratus
+but, again, not sure if you care too much
+
+
+[9/4/2024 10:21 AM] .deciusmus
+I'm not massively interested in thinking about additional homebrew rules as my game probably has 2-3 years still to go and I have no plans to run anything small scale in Taelgar (i.e. if my game for Zachary's friends restarts, it would not be in Taelgar)
+
+
+[9/4/2024 10:21 AM] .deciusmus
+My main interest would be impact on worldbuilding
+
+
+[9/4/2024 10:22 AM] .deciusmus
+to the extent that there is any...
+
+
+[9/4/2024 10:22 AM] .deciusmus
+My instinct in games I run is to wait to homebrew stuff until people want it, but I can see how that doesn't work as well for your kids/their friends
+
+
+[9/4/2024 10:24 AM] rsulfuratus
+yeah it is particularly a challenge for Isaac's friends because they tend to be a lot more build-oriented than anyone else I run games for
+
+
+[9/4/2024 10:24 AM] rsulfuratus
+so they always want to see the traits/features before they decide what to do
+
+
+[9/4/2024 10:25 AM] .deciusmus
+In general, I think there is a benefit to "less is more" in this space though. D&D has way too many playable species
+
+
+[9/4/2024 10:25 AM] rsulfuratus
+even if they just rebuild their existing characters I need dwarf, lizardfolk, (some kind of fey) for them, plus halfling, elf, human for my family game, so that is nearly all the most common options anyway (except for stoneborn which no one ever seems to want to play)
+
+
+[9/4/2024 10:26 AM] rsulfuratus
+yeah, i feel like there is a fair bit of tension between worldbuilding and what a lot of the people I run games for want here, so i'm trying to balance
+
+
+[9/4/2024 10:27 AM] rsulfuratus
+from a worldbuilding perspective adding more species gets to be quite annoying, so the humans + elder folk is a great setup
+
+
+[9/4/2024 10:27 AM] rsulfuratus
+and having diverse fey options seems like a good compromise to expand the playable species quite a bit with minimal worldbuilding impact
+
+
+[9/4/2024 10:28 AM] .deciusmus
+Yes, that makes a lot of sense to me
+
+
+[9/4/2024 10:29 AM] .deciusmus
+In particular, having a wide variety of fey species doesn't actually commit any of them to be "real species" with lore and stuff. There's no need for a defined community of taxabi to have a half-cat fey
+
+
+[9/4/2024 10:30 AM] rsulfuratus
+right, exactly. it is the obvious solution to any kind of "beastfolk" build
+
+
+[9/4/2024 10:35 AM] rsulfuratus
+the big things I'm not sure about that could impact worldbuliding are:
+(1) kobolds have always occupied a bit of weird place. i've used them a fair bit (mostly in the Great Library) campaign and they don't really work as a "typical evil" race (orcs, goblinoids). generally they've been regarded as a nuisance and sometimes a threat by humans nearby, but there is certainly room to expand kobold lore. adding kobolds to centaurs and kenku as "playable weird species not from the feywild" would give 9 species + fey options that feels pretty complete. 
+(2) there are a large number of D&D species that are basically plane-touched humans. i don't want these to have big communities and have lots of lore, but i'm not sure whether or not it would matter to allow e.g.  one-off aasimars with unique backstories that are fundamentally "human".
+
+
+[9/4/2024 12:03 PM] .deciusmus
+I think there is a place for kobolds as an interesting "other" species (to go along with kenku, merfolk, and centaurs in particular) and a "nuisance" but not "creation of the void mind" species seems like it could fill a niche
+
+
+[9/4/2024 12:11 PM] .deciusmus
+As to (2), I think sensible having some one-off stuff (which, actually, kinda fits in the lore via a "magical soul", especially for tielflings or aasimar
+
+
+[9/4/2024 12:12 PM] .deciusmus
+(and probably Gensasi as well)
+
+
+[9/4/2024 12:14 PM] .deciusmus
+if it were me I don't think I'd let anything outside of assimar/gensai/tieflings in though
+
+
+[9/4/2024 12:14 PM] .deciusmus
+for "plane touched" humans
+
+
+[9/4/2024 5:07 PM] rsulfuratus
+Potential updated elf. Goal is to streamline a little bit (no need to repeat spell descriptions in the traits) and balance against PHB 2024 Elf. Could potentially use a couple more ritual choices, and the 5th level improvements for Elven Ritual Magic are maybe not strong/interesting enough.
+
+
