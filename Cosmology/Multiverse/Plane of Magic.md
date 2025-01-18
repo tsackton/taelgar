@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/stub]
 whereabouts: 
 - {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
 typeOf: plane

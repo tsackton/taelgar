@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/incomplete]
+tags: [place, status/cleanup/incomplete, status/needswork/gameupdate]
 name: Land of the Dead
 aliases: [River of Souls]
 whereabouts: 
 - {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
 typeOf: plane
-dm_notes: important
+dm_notes: none
 dm_owner: none
 ---
 # The Land of the Dead
