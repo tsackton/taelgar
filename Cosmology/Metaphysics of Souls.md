@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 tags: [background]
 excludePublish: ["clee"]
-dm_owner: shared
-dm_notes: important
+dm_owner: joint
+dm_notes: none
 ---
 # Metaphysics of Souls
 

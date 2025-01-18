@@ -1,6 +1,6 @@
 ---
 tags: [background, religion/mosnumena]
-excludePublish: ["clee"]
+excludePublish: ["all"]
 dm_owner: shared,tim
 dm_notes: important
 ---

@@ -1,5 +1,5 @@
 ---
-tags: [status/stub]
+tags: [status/stub, place]
 dm_owner: mike,tim
 dm_notes: none
 ---
