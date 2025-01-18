@@ -6,7 +6,7 @@ TABLE WITHOUT ID
   split(GroupKey, "\\|")[1] AS "dm_owner",
   split(GroupKey, "\\|")[0] AS "dm_notes",
   length(rows) AS "count"
-FROM !"_DM_" AND !"_MoC" AND !"_scripts" AND !"_templates" AND !"assets" AND !"Campaigns"
+FROM !"_DM_" AND !"_MoC" AND !"_scripts" AND !"_templates" AND !"assets" AND !"Campaigns" AND !"Worldbuilding"
 GROUP BY (
   default(dm_notes, "missing")
   + "|" 
@@ -24,7 +24,7 @@ TABLE WITHOUT ID
   split(GroupKey, "\\|")[1] AS "dm_owner",
   split(GroupKey, "\\|")[0] AS "dm_notes",
   length(rows) AS "count"
-FROM !"_DM_" AND !"_MoC" AND !"_scripts" AND !"_templates" AND !"assets" AND !"Campaigns"
+FROM !"_DM_" AND !"_MoC" AND !"_scripts" AND !"_templates" AND !"assets" AND !"Campaigns" AND !"Worldbuilding"
 GROUP BY (
   default(dm_notes, "missing")
   + "|" 
@@ -63,7 +63,7 @@ TABLE WITHOUT ID
   split(GroupKey, "\\|")[2] AS "dm_owner",
   split(GroupKey, "\\|")[1] AS "dm_notes",
   length(rows) AS "count"
-FROM !"_DM_" AND !"_MoC" AND !"_scripts" AND !"_templates" AND !"assets"
+FROM !"_DM_" AND !"_MoC" AND !"_scripts" AND !"_templates" AND !"assets" and !"Worldbuilding"
 GROUP BY (
   join(split(file.path, "/", 1), "/")
   + "|" 
