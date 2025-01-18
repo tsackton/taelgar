@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/needswork/old]
+tags: [organization, status/needswork/old, status/cleanup/gameupdate]
 displayDefaults: {partOf: '<typeof:AU> in <partof>', boxInfo: ''}
 campaignInfo: []
 aliases: [Sembaran Army, Military of Sembara]
@@ -8,7 +8,7 @@ name: Sembaran Army
 typeOf: army
 partOf: Sembara
 dm_owner: mike
-dm_notes: color
+dm_notes: none
 ---
 # The Sembaran Army
 >[!info]+ Information  

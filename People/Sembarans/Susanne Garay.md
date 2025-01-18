@@ -8,8 +8,8 @@ ancestry: Sembaran
 gender: female
 whereabouts: Embry
 affiliations: [{ org: Garay Family, title: Matriarch }]
-dm_notes: color
-dm_owner: mike
+dm_notes: none
+dm_owner: none
 ---
 # Susanne Garay
 >[!info]+ Biographical Info  
@@ -20,4 +20,7 @@ dm_owner: mike
 
 A wealthy cloth merchant from [[Embry]], she sponsors many causes including the [[Lord Mayor’s Workhouse]], an orphanage. 
 
-%% Background character for [[Viepuck]]; some details exist in session notes / memory of previous sessions / emails %%
+%% Background character for [[Viepuck]]; see [[Letter from Susanne Garay to Viepuck]] for a flavor of her tone. 
+
+She wrote the letter because Viepuck was using his _disguise self_ to impersonate a fictional son of hers, and had in fact sent her an business proposal to use giant spider silk in the cloth weaving industry to make exceptionally light and comfortable clothes. She did accept the proposal.
+%%
