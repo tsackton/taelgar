@@ -19,7 +19,7 @@ The manor complex itself consists of four buildings: a stable, a small shrine to
 
 It is built on top of an ancient hobgoblin fort, and in early 1720 a passageway to the abandoned fort was discovered underground, warded with several traps and protections from the Night Queen.
 
-%% There is a bunch of backstory in [[Cleenseau History Notes]] but I don't think it needs to be incorporated into this note 
+%% There is a bunch of backstory i[](Cleenseau%20History%20Notes.md)]] but I don't think it needs to be incorporated into this note 
 
 My DM notes for the dungeon underneath:
 The Cleenseau Dungeon consists of three levels:
