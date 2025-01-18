@@ -1,12 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/mike]
+tags: [background]
 dm_owner: none
 dm_notes: none
 ---
 # Multiverse
-
-%% added some classification tweaks and a bit more in-world scholarly color. tagging for feedback or just remove check if you see nothing to add/change %%
 
 A variety of planes surround and extend from the [[Material Plane]], together making up the Multiverse. 
 
@@ -30,7 +28,8 @@ Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]
 > **Spiritual Realms:** The [[Spiritual Realms]] are the planes of the divine, the planes of gods and demons and other spiritual beings, which some speculate are made of the pure material of creation, which they call [[Soulstuff]]. While most scholars consider the [[Land of the Dead]] to be a part of the [[Spiritual Realms]], others argue it should be considered a region of the [[Astral Plane]], or even its own Fundamental Plane. 
 > 
 > **Echo Realms**: The [[Echo Realms]], in the opinion of the metaphysical scholars of [[University of Chardon|Chardon]], are not really true planes at all. They are merely echoes of the particular moment when the Material Plane, the Plane of Souls, and the energy realms were separated into different planes during the [[Riving]]. This, it is said, is why they are rarely continuous and complete, like the [[Energy Realms]], but rather often exist as discrete domains. Some [[Ulfgar Frostbeard|scholars]] even go so far as to consider the [[Feywild]] as a the third part of a trinity that includes material, soul, and magic, and do not consider it to even belong among the Echo Realms, but this is a distinctly minority opinion.
-
+> 
+> The most popular alternative classification, [[Yendalism]], proposes a radically different classification, dividing the planes into the [[Inner Realms]], made of physical energy and arcane magic, and the [[Outer Realms]], made of [[Soulstuff]], separated by the barrier of the [[Land of the Dead]]. 
 
 %%^Campaign:none%%
 

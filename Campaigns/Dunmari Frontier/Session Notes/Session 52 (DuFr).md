@@ -30,7 +30,7 @@ The [[Dunmar Fellowship]] flees from [[Mezzar]], who is revealed to be a dragon 
 - After mourning the dead, they meet [[Theba]] who guides them through the forest to the [[Te'kula]] territory.
 - In [[Te'kula]], [[Kenzo]] and [[Alayah]]'s jade pieces cause a shared vision; the village's history and the dragon's tyranny are revealed.
 - The party, joined by [[Theba]] and village chief [[Yota]], plans and successfully executes an attack on [[Mezzar|Grimbaskal]]'s lair, defeating the dragon.
-- The treasure is gathered and the party aids in the restoration efforts until they leave, and the Te'kula territory returns to the [[material plane]].
+- The treasure is gathered and the party aids in the restoration efforts until they leave, and the Te'kula territory returns to the [[Material Plane]].
 
 ### Timeline
 - (DR:: 1748-09-06), afternoon: [[Mezzar]] arrives. Revealed to be a green dragon in disguise. Combat; party flees into the [[Elderwood]]. 

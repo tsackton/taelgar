@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/incomplete]
-displayDefaults: {wHome: "Claimed by scholars to be one of <current>"}
 name: Land of the Dead
 aliases: [River of Souls]
-whereabouts: Spiritual Realms
+whereabouts: 
+- {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
 typeOf: plane
 dm_notes: important
 dm_owner: none
