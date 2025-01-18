@@ -7,7 +7,7 @@ ancestry: elven
 subTypeOf: forest
 whereabouts: Istaros Watershed
 pronunciation: o-REN-las
-dm_notes: color
+dm_notes: important
 dm_owner: none
 ---
 # Orenlas
