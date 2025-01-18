@@ -1,5 +1,8 @@
+(Aug 2022)
+
 I started fleshing out the history of the west coast of Taelgar a bit last night so I could flesh out the treasure in a dragon lair that Isaac's group is going to fight, a black dragon obsessed with gathering the relics of fallen empires, whose lair is in the Blackwater Fens (big swampy area south of Forest of Dreams, north of Chardon/Voltara, right at the top of the current world printed world map). Would be curious about your opinion.
 
+  
 
 I. Drankor
 
@@ -10,12 +13,11 @@ First, the basic Drankorian history: westward expansion is more a violent conque
 II. Great War
 
 After the collapse of Drankor, Chardon survives of course and you have some unsettled history with probably some wars between Mawar / coastal northerners and post-Drankor entities, plus the establishment of a variety of small and short lived kingdoms that are some kind of northerner/Drankorian hybrid. I haven't spent a lot of time thinking about this period as the kingdoms it eventually gets organized into all vanish in the Great War. 
-
   
 
-But I did want to figure out the pre-Great-War state. Here is say maybe 1500 DR or so (about 50 years before Great War): 
+But I did want to figure out the pre-Great-War state. Here is say maybe 1500 DR or so (about 50 years before Great War): [https://drive.google.com/file/d/1WaR61jwGsCFXsuEODDL8zd8eDWfXcZnH/view?usp=sharing](https://drive.google.com/file/d/1WaR61jwGsCFXsuEODDL8zd8eDWfXcZnH/view?usp=sharing)
 
-  ![[west-coast-history-GreatWar.png]]
+  
 
 The red area is basically the old borders of the Drankorian empire. Chardon itself commands a small-ish hinterlands, mostly up the Chasa river valley and the coast to the south, but then along the fertile coast to the north you have a series of minor kingdoms that are largely Drankorian in culture and attitude, competing/trading city states mostly. This is probably kind of like what modern-day Cymea is. Kin-Aska, up the Chasa river valley where Arendum is now, would be part of this tradition. But Chardon is the most powerful of these, and during the Great War these all coalesce under Chardon's banners. T
 
@@ -45,7 +47,7 @@ My main area of interest is what I am calling the Five Kingdoms (although not al
 
   
 
-4. <NEED A NAME>. I think this is a frontier place, probably not a lot of big cities, if any, especially given it is pretty marginal land, I think the population density would have been pretty low, and probably no real organized central government, so this is more a collection of many smallholdings and such. I think here you'd find a lot of the old frontier ideas about Mos Numena and the temple steward / priest dynamic where the temple steward probably doubles in many of these small villages as the mayor, and the settlements that grown to any size are the ones that have a real priest to protect them. Center of at least a couple of post-Drankor frontier-based religious organizations. Kind of a buffer zone - probably most under attack from weird evil things, plus hobgoblins (in the mountains), orcs, things in the swamp. Some territory might be nominally claimed / controlled by Amani and/or Volganis. I think historically the Blavkwater Fens were smaller - the dragon's lair is in a ruined chapel so kind of thinking about the religious angle for that reason. 
+4. <NEED A NAME>. I think this is a frontier place, probably not a lot of big cities, if any, especially given it is pretty marginal land, I think the population density would have been pretty low, and probably no real organized central government, so this is more a collection of many smallholdings and such. I think here you'd find a lot of the old frontier ideas about Mos Numena and the temple steward / priest dynamic where the temple steward probably doubles in many of these small villages as the mayor, and the settlements that grown to any size are the ones that have a real priest to protect them. Center of at least a couple of post-Drankor frontier-based religious organizations. Kind of a buffer zone - probably most under attack from weird evil things, plus hobgoblins (in the mountains), orcs, things in the swamp. Some territory might be nominally claimed / controlled by Amani and/or Volganis. I think historically the Blavkwater Fens were smaller - the dragon's lair is in a ruined chapel so kind of thinking about the religious angle for that reason. 
 
   
 
@@ -65,4 +67,10 @@ I think some of Tarbeca probably survived the Blood Years and is now a polity on
 
   
 
-Anyway, just kind of poking around. Let me know if you have thoughts/comments/expansions.
+Anyway, just kind of poking around. Let me know if you have thoughts/comments/expansions. 
+
+  
+
+Tim
+
+One attachment • Scanned by Gmail
