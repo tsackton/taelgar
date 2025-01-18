@@ -704,3 +704,256 @@ yeah
 
 [12/26/2023 3:40 PM] .deciusmus
 Starting that now.
+
+
+
+
+[12/26/2023 4:38 PM] .deciusmus
+But I want to organize my feywild notes and then go pack, so..
+
+{Reactions}
+👍
+
+[12/26/2023 4:39 PM] .deciusmus
+(go pack, not go back..)
+
+
+[12/28/2023 11:58 AM] .deciusmus
+Some names because I don’t like random unnamed stuff—
+For the ruined fey kingdom:
+Farsight, Clearpeak, Diamond’s Facet, Sharpspire
+
+For the beast-heavy place to the north: 
+Nature’s Sanctuary, Beasthome, Nature’s Den, Nature’s Awakening
+
+
+[12/28/2023 12:18 PM] .deciusmus
+Sunset Gate: a line stretching from somewhere in Amberglow to somewhere in northern Sembara. It’s a line of materialized color - yellows and reds and oranges painted in the sky, but as these physical barriers - like paint brush strokes just sitting in the air, almost. The colors are physical and passing through them is impossible, by they are riddled with cracks and openings. In some places, these cracks are sharp and dangerous, and passing through has weird time effects - sometimes it takes a day or a year to walk through a crack. In other places, especially near Twilight’s Grace, there are elaborate structures
+
+
+[12/28/2023 12:19 PM] .deciusmus
+Since Amberglow fell it’s been even odder and weirder and the time effects worse and less predictable. And sometimes dark clouds race along the colors, blotting them out and bringing especial danger as it’s hard to even tell where the edges are
+
+
+[12/28/2023 12:24 PM] .deciusmus
+Where it passes through Duskmire, near the Darkwood, Umbraeth has chiseled and chipped tried to tear it down, but it has grown back as a tangled maze of angry reds and oranges, like sharp glass. It’s especially difficult to pass and this has lead to the Darkwood, despite being the original heart of Umbraeths domain, now somewhat different
+
+
+[12/29/2023 10:20 AM] .deciusmus
+I’m moving on from feywild to the sembaran impacts of the “undead plague” that’s happening right now in 1720. I might tweak some borders and sizes of baronies, I assume you aren’t committed to anything specific here
+
+
+[12/29/2023 12:13 PM] rsulfuratus
+Not committed to anything specific re: semabaran borders
+
+
+[12/29/2023 1:53 PM] rsulfuratus
+I like the Sunset Gate a lot
+
+
+[12/29/2023 1:54 PM] rsulfuratus
+Sharpshire is good for the ruined fey kingdom
+
+
+[12/29/2023 1:55 PM] rsulfuratus
+Not really hugely a fan of any of the beast names. Also, what were the imagined borders of this place? This is overlapping the bulk of Sembara?
+
+
+[12/29/2023 2:45 PM] .deciusmus
+I didn’t love those names either. As far as the place I imagine it more overlapping with highland kingdoms and eastern sembara. Western sembara is probably allies of Ethlenn or something
+
+
+[12/29/2023 2:46 PM] .deciusmus
+Oops, reverse that. Western sembara
+
+
+[12/29/2023 2:51 PM] .deciusmus
+So from west to east the fey realms in sembara are:
+Far west - remains of Sharpspire north of that animal-place
+Then Duskmire, again with the animalplace north of it.
+
+
+[12/29/2023 2:51 PM] .deciusmus
+Then the sunset gate - outside any particular realm - with undetermined realm north of that.
+The.
+
+
+[12/29/2023 2:51 PM] .deciusmus
+Then twilights Grace
+
+
+[12/29/2023 2:57 PM] .deciusmus
+When I’m back at my computer I’ll send a map
+
+
+[12/29/2023 3:16 PM] .deciusmus
+But at a high level I’m envisioning a animal fey kingdom over the highlands, bordering Duskmire to the north, and something else over Embry / heartlands, north of sunset gate and the various “non-realm” ethlenn allies
+
+
+[12/29/2023 3:43 PM] rsulfuratus
+is the animal place relevant to duskmire? or just an idea for something that could be north of duskmire and would prevent duskmire from expanding?
+
+
+[12/29/2023 3:44 PM] .deciusmus
+Just an idea
+
+
+[12/29/2023 3:44 PM] .deciusmus
+I liked the idea of a fey place that is focused on talking animals and such
+
+
+[12/29/2023 9:53 PM] .deciusmus
+Basically what I was thinking was this:
+
+{Attachments}
+https://cdn.discordapp.com/attachments/1059870250440593520/1190487875335229440/feywild.png?ex=678bc07b&is=678a6efb&hm=0da029557ec20dca3cecee4a4534c766bf639f4cc3d176ed9c1ad3f347dea039&
+
+
+[12/29/2023 9:57 PM] .deciusmus
+where:
+D = Duskmire
+S = Sharpspire, now a dangerous mystery
+Orange line = Sunset Gate
+A = small allied fey to Ethlynn but not part of any realm
+B = nature/beast place
+
+Although the exact line between A and B is a bit random, and B is a bit undefined
+
+[1/2/2024 10:29 PM] rsulfuratus
+reading your letters now
+
+
+[1/2/2024 10:35 PM] rsulfuratus
+I'm not sure that Amberglow would ever have extended as far north as Cleenseau
+
+
+[1/2/2024 10:36 PM] rsulfuratus
+feywild geography is not a perfect match for material plane geography - but even so that would make amberglow very big
+
+
+[1/2/2024 10:36 PM] .deciusmus
+I didn't mean to imply it did
+
+
+[1/2/2024 10:36 PM] .deciusmus
+where did you get that from?
+
+
+[1/2/2024 10:36 PM] .deciusmus
+Vahavia's report?
+
+
+[1/2/2024 10:36 PM] rsulfuratus
+yeah
+
+
+[1/2/2024 10:37 PM] .deciusmus
+They would not have thought that this was Amberglow, just contrasting it to a more pleasant fey place
+
+
+[1/2/2024 10:37 PM] rsulfuratus
+ah - in that case I would think he'd refer to Dreamhaven
+
+
+[1/2/2024 10:37 PM] rsulfuratus
+I mean it is kind of a meaningless detail
+
+
+[1/2/2024 10:38 PM] rsulfuratus
+but of course pre Great War the elves of Ainuymara would have relatively close contact with Dreamhaven
+
+
+[1/2/2024 10:38 PM] .deciusmus
+Right, I was thinking the elves of Rostare might have had a connect to Amberglow. Might just drop it though, my players have no idea what any of these realms mean
+
+
+[1/2/2024 10:38 PM] rsulfuratus
+yeah
+
+
+[1/2/2024 10:38 PM] .deciusmus
+wait, I also confused myself
+
+
+[1/2/2024 10:38 PM] rsulfuratus
+Vahaiya is not from Rostare - that was gone long before they were born
+
+
+[1/2/2024 10:38 PM] .deciusmus
+Ignore Rostare above, that not from the Vahaiya letter, it was in the drankor stuff
+
+
+[1/2/2024 10:39 PM] rsulfuratus
+you also have Marcel de Valarin dying in 1658, which is before the Vahaiya letter
+
+
+[1/2/2024 10:39 PM] .deciusmus
+oops
+
+
+[1/2/2024 10:39 PM] .deciusmus
+I should fix his death date
+
+
+[1/2/2024 10:39 PM] .deciusmus
+it isn't canonical, just tossed in
+
+
+[1/2/2024 10:41 PM] rsulfuratus
+in 'An Excerpt from On Creation and Destruction of Extra-Material Realms' I would change Rostare to Orenlas
+
+
+[1/2/2024 10:42 PM] rsulfuratus
+Rostare is really far away - like 2000 miles from Tyrwingha
+
+
+[1/2/2024 10:42 PM] rsulfuratus
+whereas Orenlas is immediately next door and would be concerned with the fey in their neighborhood
+
+
+[1/2/2024 10:42 PM] .deciusmus
+Ah, for some reason I thought it was close to Drankor
+
+
+[1/2/2024 10:42 PM] .deciusmus
+but yeah, makes sense
+
+
+[1/2/2024 10:42 PM] rsulfuratus
+it is close to drankor. drankor is 2000 miles from Tyrwingha
+
+
+[1/2/2024 10:42 PM] .deciusmus
+I guess Drankor is really far away
+
+
+[1/2/2024 10:45 PM] .deciusmus
+BTW, I think what ultimately caused the rift between Ethlenn and Umbraeth was his tendency to trick humans into the Feywild either to be his servants, or even to be ensorcelled by other fey outside of Twiligt's Grace, or just for giggles to be left somewhere dangerous to die
+
+
+[1/2/2024 10:45 PM] rsulfuratus
+i like that
+
+
+[1/2/2024 10:46 PM] .deciusmus
+She probably tolerates some amount of fey-being-fey around humans, but violating the refuge she extended to Tyrwinghans to come to the Feywild is unforgiveable
+
+
+[1/2/2024 10:47 PM] rsulfuratus
+other than those comments I think the letters and books are fine. i removed the status/tim and pushed but didn't make other changes so assume you'll make small edits as discussed / clean up
+
+
+[1/2/2024 10:47 PM] .deciusmus
+yup
+
+
+[1/2/2024 10:47 PM] .deciusmus
+I rewrote the Amberglow line to just talk about stories of "realms"
+
+
+[1/2/2024 10:47 PM] .deciusmus
+unnamed
+
+
+[1/2/2024 10:48 PM] rsulfuratus
+oh, one other thing - I'm not actually sure how closely related demi-planes and fey / shadowfell domains are. i might remove the mention of demiplanes from the drankor book since it seems unnecessary game-wise to link them
