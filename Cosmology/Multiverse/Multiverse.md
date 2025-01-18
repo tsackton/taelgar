@@ -31,6 +31,7 @@ Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]
 > 
 > **Echo Realms**: The [[Echo Realms]], in the opinion of the metaphysical scholars of [[University of Chardon|Chardon]], are not really true planes at all. They are merely echoes of the particular moment when the Material Plane, the Plane of Souls, and the energy realms were separated into different planes during the [[Riving]]. This, it is said, is why they are rarely continuous and complete, like the [[Energy Realms]], but rather often exist as discrete domains. Some [[Ulfgar Frostbeard|scholars]] even go so far as to consider the [[Feywild]] as a the third part of a trinity that includes material, soul, and magic, and do not consider it to even belong among the Echo Realms, but this is a distinctly minority opinion.
 
+
 %%^Campaign:none%%
 
 %% this is meant to be one possible story among many, but the vibes are intended to be canonical %%
