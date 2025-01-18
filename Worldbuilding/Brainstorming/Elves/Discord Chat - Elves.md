@@ -1,5 +1,3 @@
-
-
 [10/30/2023 9:29 AM] rsulfuratus
 working out some elven generational dynamics. lmk what you think. basic assumptions are from the demographics spreadsheet (https://docs.google.com/spreadsheets/d/1rMp9eP617CMDdkDgmDRPpOOUbO0TjTY17578DK2wPwo/edit#gid=838085721). assume that most elves survive to 800-900, but many choose to leave the world between 950 - 1150, so basic demographic structure then sets up 7 ka as the "current population", with anyone born more than 7 ka ago clearly a rare elder.
 
