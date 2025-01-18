@@ -1,11 +1,11 @@
 ---
-tags: [status/needswork.wip, background]
-dm_owner: shared
-dm_notes: important
+tags: [status/needswork/wip, background, status/check/mike]
+dm_owner: joint
+dm_notes: none
 ---
 # Goblinoids
 
-
+%% i could not find any shared notes specific to goblinoids - mostly discussion of hobgoblins %%
 
 %% notes
 
@@ -15,3 +15,5 @@ dm_notes: important
 	- [[Goblins]] are probably the most "sympathetic" of the goblinoids; probably seen equally with pity and scorn if they escape. you could imagine some [[goblins]] living happy quiet lives far from anyone, others imitating their hobgoblin masters if they get free, others serving as pawns, intentionally or not, in hobgoblin games
 		- The work one-shot I ran (questionably canon) followed this, a local goblin tribe was not really much of a nuisance until a hobgoblin leader showed up and took over
 	- Bugbears I'm not sure about
+
+%%
