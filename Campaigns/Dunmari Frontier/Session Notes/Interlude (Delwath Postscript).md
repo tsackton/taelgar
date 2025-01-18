@@ -33,7 +33,7 @@ After returning from the [[Forest of Nightmares]], [[Delwath]] spends some time 
 
 During this time, [[Delwath]] also spends hours scrying: [[Scrying Delwath Oct 21]].
 
-The most promising tales [[Delwath]] hears are of [[Safri]], a woman who appears in the woods, sometimes taking the form of an old woman but often in animal form, who knows the magic of the mountains and the alpine forests, and is powerful. Although [[Delwath]] also hears tales of elven cities hidden in the south, where he may be able to find a guide to lead him through the [[Cosmology/Multiverse/Echo Realms/Feywild/Feywild]] in the ancient elven way, he decides to head into the mountains in search of [[Safri]]. 
+The most promising tales [[Delwath]] hears are of [[Safri]], a woman who appears in the woods, sometimes taking the form of an old woman but often in animal form, who knows the magic of the mountains and the alpine forests, and is powerful. Although [[Delwath]] also hears tales of elven cities hidden in the south, where he may be able to find a guide to lead him through the [[Feywild]] in the ancient elven way, he decides to head into the mountains in search of [[Safri]]. 
 #### Meeting Safri
 
 After a several day journey into the mountains and a few days waiting in camp (during which time [[Delwath]] scrys some more: [[Scrying Delwath Oct 26]]), [[Safri]] appears in the form of a deer, and leads [[Delwath]] to her forest valley home.
