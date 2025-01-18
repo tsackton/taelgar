@@ -12,8 +12,6 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 > A regiment of the [[Army of the West]], the [[Sembaran Army]], [[Sembara]]
 
-%% status/update -> status/check/mike %%
-
 %% Significant events of undead attack here in my DM notes only ; need incorporation %
 
 %%^Campaign:None%%

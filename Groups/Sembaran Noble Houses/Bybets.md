@@ -1,17 +1,21 @@
 ---
 headerVersion: 2023.11.25
-tags: [organization, status/stub]
+tags: [organization]
 displayDefaults: {partOf: "", boxInfo: "", defArt: "the"}
 typeOf: family
 whereabouts: Ainwick
 aliases: [Bybet]
-dm_owner: mike
+dm_owner: none
 dm_notes: none
 ---
 # The Bybets
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+A minor manorial family.
+
+%% No details exist; the husband of a major NPC is of this family but no idea as to why he left his family's main stomping ground %%
 
 %%^Campaign:None%%
 ### Current Members

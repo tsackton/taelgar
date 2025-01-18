@@ -33,7 +33,7 @@ Sembara is a large and properous realm in the [[Western Green Sea]] situated amo
 -   Elves very rare in Sembara, with little direct political contacts; largest Elven settlement nearby is the semi-mythical kingdom of [[Orenlas]] in the forests surrounding a supposedly enchanted lake south/southeast of Tyrwingha in the Cymea foothills.
     
 -   Stoneborn are also very rare in Sembara; mostly in the high peaks north of Ulrich devastation; more common in Northlands than elsewhere, coming from the [[Vostok]] highlands
-%%
+
 
 ## Map
 

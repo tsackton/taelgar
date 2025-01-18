@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/check/tim]
 displayDefaults: {defArt: ''}
 name: Lake Valandros
 typeOf: lake
@@ -13,7 +13,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
+%% Tim - confirm the comments are all canonical? %%
 %% (Drankorian name, named after the great mage Valandra) 
 
 - Big lake on north branch of ~MainRiver~

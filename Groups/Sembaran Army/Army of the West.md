@@ -41,4 +41,8 @@ The Dunfry Regiment is responsible for the southern wall, and is commanded by [[
 The South Watch overall is commanded by [[Colonel Claude Leclerc]]. 
 
 
+%% A note from email
+The person Izgil spoke with (who unofficially gave Ida permission to go back to Cleenseau) is Colonel Claude Leclerc, which is Ida's boss (Major Edmund Hartwell)'s boss. 
 
+When Izgil was in Dunfry 2 months ago the people in town were mostly the 1st, 2nd, and 4th companies. More recently, the implication is that the Enford garrison itself was sent north.
+%%
