@@ -3,18 +3,22 @@ tags: [background]
 dm_owner: shared
 dm_notes: important
 ---
-
-%%rewrite to capture discord conversation on refactoring major "ages" of the world and update lore on downfall, etc%%
 # History of Taelgar
 This is an attempt to organize the notes and background we have on the history of Taelgar into a single document that can be considered relatively canonical. This is intended to be conversational and living, with the following conventions:
 
 Information offset like:
 > Player info
 
-is intended to be written from an "in world" perspective and would be suitable to be copied to a non-worldbuilding note. 
+is intended to be written from an "in world" perspective and would be suitable to be copied to a non-background note. 
 
 Information in %% notes %% is brainstorming or non-canonical. This document attempts to keep from growing too much by creating separate notes for other periods and other aspects where more detail is needed.
 
+%%
+The following brainstorming material might be relevant:
+```dataview
+LIST WHERE contains(file.folder, "Worldbuilding/Deep History")
+```
+%%
 ## Overview
 The mythic history of Taelgar is organized around four major metaphysically distinct eras, each marked by significant changes to the extraplanar order. 
 
