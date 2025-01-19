@@ -307,7 +307,7 @@ The elves view the passing of time differently than other races. Time flows for 
 
 The ages of the elves mark momentous events, changes in the world that can reshape and reconfigure the face of Taelgar itself. Elven loremasters and scholars can see the coming end of an age, and interpret events, signs and portents to determine when the age has ended and proclaim the new age has come. 
 
-See [[History of Taelgar]] for some details on the ages, needs reworking into how elves would describe it.
+See [[Historical Framework]] for some details on the ages, needs reworking into how elves would describe it.
 
   
 

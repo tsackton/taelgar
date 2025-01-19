@@ -11,7 +11,7 @@ In this way, for example, a fey story about a man on a journey might be written 
 And so, over time, as the fey begin to interact with other people (non-fey), an orthography for writing the Sylvan tongue in [[Languages#Elvish|Elvish]] was developed, originally by the elves, but later by the fey themselves, as they saw the uses of less magically fraught ways of writing. In the modern era, several different orthographies exist, but the most common is the Elvish, which was popularized amongst humans by the [[Drankorian Empire]], and the [[Tyrwingha|Tyrwinghan]], which is rarely used outside of [[Tyrwingha]].
 
 %% 
-Fey writing originated in the [[Age of Myth]] as a mechanism for the fey to create art: poems, stories, and songs. This original purpose is deeply embedded in the glyphs and writing culture. 
+Fey writing originated in mythic days as a mechanism for the fey to create art: poems, stories, and songs. This original purpose is deeply embedded in the glyphs and writing culture. 
 
 Additionally, although this might not be well known, the fey have developed a way to apply the enchantments and expressiveness of their emotional determinatives to other languages. So it is certainly possible to find a fey missive written in Sembaran, using the Drankorian script, but with the fey resonance to it, given it an emotional/magical effect similar to Sylvan. What is unique about Sylvan it is lacks the means to distinguish certain syllables and concepts without using emotional determinatives.
 

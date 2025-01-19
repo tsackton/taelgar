@@ -13,9 +13,9 @@ dm_notes: none
 > (Elvish mundane poem collection)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [[Nelawe]]. This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the tradition poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days during the Age of Creation.  
+This is a collection of poems and songs by a relatively little-known Drankorian era Elvish poet, [[Nelawe]]. This book is chiefly notable in Elvish literary history as an early example of Elvish works departing from the tradition poetic and epic forms, playing with spacing and language in echo and response to the classics. Of particular note is her fascination with responding to and playing with themes of the forgotten past, which for elves often meant giants and the lore of the timeless days before the [[Riving]].
 
-The most famous poem in this book is *A Lament for Lost Thunder*, an ode to giants of the age of myth.
+The most famous poem in this book is *A Lament for Lost Thunder*, an ode to giants of lore:
 
 >>Gone are the days of giants striding, thunder in hand, earth    (shaking
 >>their roars through the ages, their fury, a memory) unchanging--
