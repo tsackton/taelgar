@@ -24,8 +24,8 @@ The Dunmar Fellowship liberates seven souls and destroys Apollyon's phylactery, 
 - The Dunmar Fellowship returns to the Temple of the Eight Divines and learns of wider threats while resolving to destroy Apollyon's phylactery.
 - Using Wellby's pathfinding, they reach the University of the Blessed Waters and overcome animated guardian statues.
 - Inside Minarith's former office, the party finds a magical bird and a note, crucial for their ritual.
-- Teleporting to Tollen, the party consults the Ancient and Honorable Guild of Philosophers for guidance on the Land of the Dead.
-- The group enters the Land of the Dead and successfully frees seven souls, destroying the phylactery.
+- Teleporting to Tollen, the party consults the Ancient and Honorable Guild of Philosophers for guidance on the [[Land of the Dead]].
+- The group enters the [[Land of the Dead]] and successfully frees seven souls, destroying the phylactery.
 - Returning to Vindristjarna, they learn Fausto charmed the crew to seek Pu'aatar and dispel the charm.
 ### Timeline
 - (DR:: 1749-05-23), afternoon: The party explores the [[University of the Blessed Waters]], recovering a token associated with [[Minarith]]. Seeker teleports the party to [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]] in [[Tollen]]. 
@@ -36,7 +36,7 @@ The Dunmar Fellowship liberates seven souls and destroys Apollyon's phylactery, 
 ## Narrative
 Our session begins as [[Riswynn]], [[Delwath]], [[Kenzo]], and [[Seeker]] return to the [[Temple of the Eight Divines]], weary but determined. [[Wellby]] greets them, having kept a vigilant watch over the phylactery—the dagger containing Apollyon’s soul. Together, the group recounts their recent exploits, including their perilous exploration of the Laughing Wave tavern and the Customs House.
 
-Wellby’s news of the broader world casts a shadow over their accomplishments. Sura’s forces in Dunmar face relentless assaults by Chardonian legions and shadowy assassins. Vindristjarna, their airship, may be at risk, and Fausto, their long-time nemesis, remains a looming threat. Still, the party resolves to stay the course, focusing on the phylactery and the Land of the Dead as the most effective way to end Apollyon’s threat.
+Wellby’s news of the broader world casts a shadow over their accomplishments. Sura’s forces in Dunmar face relentless assaults by Chardonian legions and shadowy assassins. Vindristjarna, their airship, may be at risk, and Fausto, their long-time nemesis, remains a looming threat. Still, the party resolves to stay the course, focusing on the phylactery and the [[Land of the Dead]] as the most effective way to end Apollyon’s threat.
 
 Using an arrow of pathfinding shot from his magical bow, Wellby locates the [[University of the Blessed Waters]], a mile southeast of the temple. A path only visible to him leads through the jungle and ruins, and the party prepares to follow, moving swiftly.
 
@@ -62,19 +62,19 @@ With all seven mementos secured, the party teleports to [[Tollen]], seeking guid
 
 While waiting to be summoned to the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], [[Kenzo]] and [[Wellby]] seek out a body to be the focus of the _Plane Shift_ spell, and [[Delwath]] consults with the elven ambassador from [[Orenlas]], [[Melindir]]. Although [[Melindir]] cannot offer assistance to [[Dunmar]] directly, he does suggest contacting the [[Stoneborn]], leading [[Delwath]] to reach out to [[Drikod]] in hopes of getting aid to [[Tokra]] as soon as possible. Before parting, [[Melindir]] gifts [[Delwath]] a vial of charm resistance, and [[Delwath]] warns [[Melindir]] to be careful if their mission fails. 
 
-Summoned to the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], the party relinquishes their possessions and dons robes provided by the guild before entering a darkened chamber for the consultation. Blindfolded, they are seated on cold stone benches and addressed by a disembodied voice, which shares critical knowledge about the Land of the Dead:
+Summoned to the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], the party relinquishes their possessions and dons robes provided by the guild before entering a darkened chamber for the consultation. Blindfolded, they are seated on cold stone benches and addressed by a disembodied voice, which shares critical knowledge about the [[Land of the Dead]]:
 
 - The realm saps the vitality of the living; food and water disintegrate, and wounds cannot heal.
 
-- Time in the Land of the Dead erodes the connection between soul and body, making prolonged stays perilous.
+- Time in the [[Land of the Dead]] erodes the connection between soul and body, making prolonged stays perilous.
 
 - The plane moves travelers like a river, guiding souls to their destination. Interfering with this flow risks curses.
 
-- The Giardi, guardians of the Land of the Dead, protect those with pure intentions and discern truth from deception.
+- The Giardi, guardians of the [[Land of the Dead]], protect those with pure intentions and discern truth from deception.
 
 - To free the seven bound souls, the party must provide them with context and clues to help them remember their identities and fates.
 
-The voice gives parting advice to act swiftly and ensure they have the means to leave the Land of the Dead before its effects take hold. After speaking with the guild, the party rests for the night, preparing for the final leg of their journey: confronting Apollyon’s phylactery in the Land of the Dead.
+The voice gives parting advice to act swiftly and ensure they have the means to leave the [[Land of the Dead]] before its effects take hold. After speaking with the guild, the party rests for the night, preparing for the final leg of their journey: confronting Apollyon’s phylactery in the [[Land of the Dead]].
 
 ---
 
@@ -118,7 +118,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 	- Exploring the Customs House, where they encountered a swirling red mist and recovered important scrolls and a shipping manifest tied to [[Khemut of Targu]]’s ship.
 	- Identifying a connection to [[Minarith]], linked to the University of the Blessed Waters.
 - Wellby shares news from Sura, indicating that Chardonian forces have begun attacking Dunmar. Sura’s army faces shadowy assassins and advancing legions, creating a dire situation.
-- While concerned about Fausto, a recurring adversary, potentially targeting [[Vindristjarna]], and the situation in Dunmar, the group decides to focus on finding the last memento and accessing the Land of the Dead, reasoning that destroying Apollyon is the most effective way to help Dunmar.
+- While concerned about Fausto, a recurring adversary, potentially targeting [[Vindristjarna]], and the situation in Dunmar, the group decides to focus on finding the last memento and accessing the [[Land of the Dead]], reasoning that destroying Apollyon is the most effective way to help Dunmar.
 - [[Wellby]] uses his magical bow to locate the University of the Blessed Waters, firing an arrow that vanishes and reveals a path visible only to him.
 - The university is approximately a mile away to the southeast. The party prepares to follow Welby’s lead, moving swiftly through the ruins of Drankor.
 
@@ -150,7 +150,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - The bird contains a hidden compartment, which the party opens to find a tightly rolled piece of paper.
 - The note, written in Elvish and addressed to Maglar, reads: *"I hope this message finds you. I am trusting to luck and this magic trinket to bring this note to you. I finally... They're coming. I can hide no longer. I know not what will happen to me, but few, if any, of our people have survived the Ashen Cloaks. I thought maybe my unimportance might protect me, for who really cares about the study of plants when down the hall there is the study of great magics and fire, and the planes and the gods that can reshape reality themselves. But it was always the case, I guess, that he would never let any of our people survive, and I have nowhere left to flee. Run if you can."
 - Both the bird and the note are suffused with [[Minarith]]’s soul energy, marking them as significant mementos for the ritual to free Apollyon’s bound souls.
-- With all seven mementos secured, the group teleports to [[Tollen]] to locate a recently deceased soul for the Plane Shift spell required to reach the Land of the Dead.  
+- With all seven mementos secured, the group teleports to [[Tollen]] to locate a recently deceased soul for the Plane Shift spell required to reach the [[Land of the Dead]].  
 
 
 ### Bargaining at the Philosopher’s Guild
@@ -158,7 +158,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - They are greeted by an idyllic spring day, with a warm breeze and distant city sounds muffled by the guild’s magical wards, creating a zone of calm.
 - Upon entering the guild, the party is met by a middle-aged woman in white robes who greets them with interest, recognizing their presence from past dealings.
 - The guild representative inquires about the party’s purpose, prompting Delwath to explain their urgent need for guidance on:
-	- Dangers mortals face in the Land of the Dead.
+	- Dangers mortals face in the [[Land of the Dead]].
 	- Methods to coax imprisoned souls to their rightful place.
 	- The party emphasizes the time-sensitive nature of their request, offering to trade valuable magical items for answers by dawn.
 - The group presents several items as potential trades:
@@ -182,18 +182,18 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 - They are escorted into a darkened room where no light penetrates, not even magical darkvision.
 - Blindfolded for further secrecy, they are seated on a cold stone bench to await the arrival of the voice.
 - A disembodied voice addresses the party, answering their questions about the realm:
-	- **Physical Toll:** The Land of the Dead saps the vitality of living beings. Food and water disintegrate, and no wounds can heal while within the plane.
-	- **Mortality:** Time spent in the Land of the Dead gradually erodes the connection between soul and body. Prolonged stays are perilous, even for the strong.
+	- **Physical Toll:** The [[Land of the Dead]] saps the vitality of living beings. Food and water disintegrate, and no wounds can heal while within the plane.
+	- **Mortality:** Time spent in the [[Land of the Dead]] gradually erodes the connection between soul and body. Prolonged stays are perilous, even for the strong.
 	- **Souls’ Journey:** The plane moves travelers towards their destination, like a river. Souls should not be interfered with, or curses may follow.
 	- **Magic and Binding:** Powerful magic can confuse souls, causing them to become lost, but no magic can truly trap a soul permanently.
-	- **Interaction with the Giardi:** The Giardi, guardians of the Land of the Dead, will protect those with pure intentions. They can see into the soul and discern truth, so deception is impossible.The party is warned to avoid interference with souls unless restoring them to their rightful fate.
+	- **Interaction with the Giardi:** The Giardi, guardians of the [[Land of the Dead]], will protect those with pure intentions. They can see into the soul and discern truth, so deception is impossible.The party is warned to avoid interference with souls unless restoring them to their rightful fate.
 	- The voice explains that the phylactery may confuse the seven bound souls, making it difficult for them to remember their past lives.
 	- To free the souls, the party must provide clues and context, helping them recall their identities and original fates.
 - The voice offers parting advice:
-	- Time in the Land of the Dead mirrors time in the material world, making swift action essential.
+	- Time in the [[Land of the Dead]] mirrors time in the material world, making swift action essential.
 	- Those who have the magic to enter the plane must ensure they have the means to leave before the realm’s effects take hold.
 - A bright light flashes, and the woman who escorted them returns to remove their blindfolds.
-- The party rests for the night before their journey to the Land of the Dead.
+- The party rests for the night before their journey to the [[Land of the Dead]].
 
 
 ### The Destruction of Apollyon's Phylactery
@@ -235,7 +235,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 
 
 ### Confrontation Aboard Vindristjarna
-- Not wishing to linger in the Land of the Dead, the party uses the Rainbow Bridge to return to [[Vindristjarna]], initially arriving invisibly to observe the crew.
+- Not wishing to linger in the [[Land of the Dead]], the party uses the Rainbow Bridge to return to [[Vindristjarna]], initially arriving invisibly to observe the crew.
 - Kenzo uses Soul Sight to scan for any unusual presences or emotional disturbances, confirming that the crew appears normal but excited and curious.
 - Baxter, their loyal animal companion, provides a telepathic update that the ship is heading east toward the sun under orders from [[Faldrak Bronzehammer|Faldrak]] and others.
 - The party learns that Fausto, their long-time nemesis, visited the ship with a group of mages and charmed the crew into seeking the hidden city of Pu'aatar, a legendary desert library.

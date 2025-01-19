@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/stub]
 whereabouts: 
-- {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
+- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
 typeOf: plane
 dm_notes: important
 dm_owner: tim

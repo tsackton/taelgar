@@ -213,4 +213,18 @@ class util {
         return true;
     }
 
+    originLocation(metadata, targetDate) {
+        const { WhereaboutsManager, DateManager } = customJS;
+
+        // If no targetDate is provided, pick a default from the page
+        if (!targetDate) {
+            targetDate = DateManager.getTargetDateForPage(metadata);
+        }
+
+        let origin = WhereaboutsManager.getWhereabouts(metadata, targetDate).origin;
+        if (origin == undefined) return false;
+        if (origin.location == undefined) return false;
+        return origin.location;
+    }
+
 }

@@ -72,17 +72,17 @@ Among the recovered scrolls are trade records and manifests detailing [[Drankori
 ### Contemplating the Path Ahead
 - The party begins in the temple of the Eight Divines in Drankor as night falls. The holy aura of the temple protects them from the encroaching darkness of the city.
 - The group reflects on their goal to destroy the phylactery by freeing the seven souls trapped within it.
-- Seeker’s research confirmed that a connection to the Land of the Dead is required to unravel the phylactery’s magic. Physical mementos tied to each soul are crucial for this process.
+- Seeker’s research confirmed that a connection to the [[Land of the Dead]] is required to unravel the phylactery’s magic. Physical mementos tied to each soul are crucial for this process.
 - Four mementos have been secured: three death masks from the Chapel of the Father and a silver pen nib from [[Valanthe]]’s courtyard.
 - The remaining targets are:
 	- [[Seraphina Appleblossom]], a halfling tavern owner near the docks.
 	- [[Khemut of Targu]], a foreign sailor or traveler likely connected to the docks.
 	- [[Minarith]], an elf of the peronar lineage, with little information available.
-- The party debates the logistics of entering the Land of the Dead:
-	- Plane Shift requires the body of a recently deceased person whose soul resides in the Land of the Dead.
+- The party debates the logistics of entering the [[Land of the Dead]]:
+	- Plane Shift requires the body of a recently deceased person whose soul resides in the [[Land of the Dead]].
 	- They consider potential sources of such a body, including cities like [[Tollen]] or sacrifices within Drankor.
 	- Concerns are raised about resource management and the risks of “dying” as part of the plan.
-	- The group prioritizes recovering the remaining mementos before finalizing their approach to the Land of the Dead.
+	- The group prioritizes recovering the remaining mementos before finalizing their approach to the [[Land of the Dead]].
 - As dawn breaks, the party prepares for the day with another casting of *Heroes’ Feast*, granting temporary bonuses and protection against fear.
 - The party sets their sights on the docks of Drankor, focusing on finding mementos tied to [[Seraphina Appleblossom]] and [[Khemut of Targu]]
 - The phylactery (a dagger containing Apollyon’s soul) remains guarded by Wellby, who volunteers to stay behind.

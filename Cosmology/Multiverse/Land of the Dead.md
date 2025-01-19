@@ -4,7 +4,7 @@ tags: [place, status/cleanup/incomplete, status/needswork/gameupdate]
 name: Land of the Dead
 aliases: [River of Souls]
 whereabouts: 
-- {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
+- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
 typeOf: plane
 dm_notes: none
 dm_owner: none
@@ -14,9 +14,13 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%%tagged dm notes important because I (Tim) have some vague ideas about the metaphysics of how the land of the dead / river of souls limits and affects divine power in the world, but nothing well formed enough to tag as a status tag; this is also probably irrelevant for most games. Also have some color notes about the River of Souls and how it appears to the dead, although this will vary by  person and culture so there does not need to be a canonical description.
+
+%%
+ some vague ideas about the metaphysics of how the land of the dead / river of souls limits and affects divine power in the world, but nothing well formed enough to tag as a status tag; this is also probably irrelevant for most games. Also have some color notes about the River of Souls and how it appears to the dead, although this will vary by  person and culture so there does not need to be a canonical description.
 
 Updating to add many important additional notes about metaphysics of traveling to the Land of the Dead to add%%
+
+
 
 The vast gathering place for the souls of the dead. When a consciousness, or soul, dies, it fades from the [[Plane of Souls]], but does not immediately disappear into nothingness. 
 

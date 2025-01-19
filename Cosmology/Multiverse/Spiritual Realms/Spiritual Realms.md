@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/needswork/old, place]
-typeOf: plane
+tags: [status/needswork/old, background]
 dm_owner: tim
 dm_notes: important
 ---
