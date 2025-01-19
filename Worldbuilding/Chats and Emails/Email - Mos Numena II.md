@@ -104,7 +104,7 @@ In my "secret" other planes document I've been playing around a bit with what ha
 
 ### The River of Souls
 
-When a consciousness, or soul, dies, it fades from the Plane of Souls, but does not immediately disappear into nothingness. Most (although not all) instead drift towards the Land of the Dead, which has many names and many descriptions in different cultures, human and non-human alike. Here, the souls of the dead drift, waiting. Some, those who are not claimed by any god or being of similar power, eventually fade away into nothingness, becoming part of the essence of the place itself. Others are taken up into spiritual realms.
+When a consciousness, or soul, dies, it fades from the [[Plane of Souls]], but does not immediately disappear into nothingness. Most (although not all) instead drift towards the Land of the Dead, which has many names and many descriptions in different cultures, human and non-human alike. Here, the souls of the dead drift, waiting. Some, those who are not claimed by any god or being of similar power, eventually fade away into nothingness, becoming part of the essence of the place itself. Others are taken up into spiritual realms.
 
   
 
@@ -112,11 +112,11 @@ In game mechanical terms, this has an impact on resurrection magic. Weaker magic
 
   
 
-Given the metaphysical reality of the process of a soul fading from the plane of consciousness upon death, and journeying for 10 days in the Land of the Dead until taken up into one of the "Outer Planes" or doomed to fade away, I think that would impact all human religions. 
+Given the metaphysical reality of the process of a soul fading from the [[Plane of Souls|plane of consciousness]] upon death, and journeying for 10 days in the Land of the Dead until taken up into one of the "Outer Planes" or doomed to fade away, I think that would impact all human religions. 
 
   
 
-There are actually two key points -- first, the transition from the plane of consciousness to the Land of the Dead. If this goes wrong, you get a ghost, or worse, so in a lot of cultures this might be the most significant one, and would imply rapid burial / cremation. This is kind of like the Dunmari ethos, because of the personal relationship with the gods they are not worried about the Dunmari siblings "finding" your soul in the land of the dead, instead they are worried about making sure your soul gets there. Hence the worry about the untended dead whose souls may be lost, wandering in the world and unable to pass over. 
+There are actually two key points -- first, the transition from the [[Plane of Souls|plane of consciousness]] to the Land of the Dead. If this goes wrong, you get a ghost, or worse, so in a lot of cultures this might be the most significant one, and would imply rapid burial / cremation. This is kind of like the Dunmari ethos, because of the personal relationship with the gods they are not worried about the Dunmari siblings "finding" your soul in the land of the dead, instead they are worried about making sure your soul gets there. Hence the worry about the untended dead whose souls may be lost, wandering in the world and unable to pass over. 
 
   
 

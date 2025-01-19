@@ -13,7 +13,7 @@ Some cultures may also be aware of the [[Gidari]], the soul shepherds, who are t
 
 Those souls which do not enter the Land of the Dead become stuck on the [[Material Plane]], perhaps becoming ghosts.
 
-Amongst humans, there is also an ancient idea, dating back to the first creation of humans on [[Hkar]], that these transitions, and in particular the transition of the soul from the Plane of Souls to a body at birth, and from Taelgar to the Land of the Dead at death, are minor miracles, granted by the gods to each human born. In general, human cultures believe souls are the continuity of the living person, and care deeply about the soul reaching a final resting place.
+Amongst humans, there is also an ancient idea, dating back to the first creation of humans on [[Hkar]], that these transitions, and in particular the transition of the soul from the [[Plane of Souls]] to a body at birth, and from Taelgar to the Land of the Dead at death, are minor miracles, granted by the gods to each human born. In general, human cultures believe souls are the continuity of the living person, and care deeply about the soul reaching a final resting place.
 
 Other species may have similar, or different, beliefs about the transition of a soul, but broadly share the same metaphysical truths. 
 
@@ -41,6 +41,6 @@ Most traditions are concerned with ensuring that the soul makes it to the afterl
 ### Resurrections
 These metaphysics also have implications for resurrection magic as well. In particular, the strength of magic required to return someone to life has a lot to do with where their soul is.
 
-The simplest magic, such as Revivify, only works when the soul has not departed from the Plane of Souls at all, and thus must be used immediately. The stronger magic, such as Raise Dead, can find a soul in the Land of the Dead, but cannot return a soul from the outer realms. This makes it risky, in some ways, without any true guarantee that it will work - for who truly knows how long a soul stays in the Land of the Dead? These things are beyond human ken, and sometimes even powerful magic like Raise Dead fails.
+The simplest magic, such as Revivify, only works when the soul has not departed from the [[Plane of Souls]] at all, and thus must be used immediately. The stronger magic, such as Raise Dead, can find a soul in the Land of the Dead, but cannot return a soul from the outer realms. This makes it risky, in some ways, without any true guarantee that it will work - for who truly knows how long a soul stays in the Land of the Dead? These things are beyond human ken, and sometimes even powerful magic like Raise Dead fails.
 
 The strongest resurrections - Resurrection and True Resurrection - rare and miraculous, can return a soul to life from anywhere.

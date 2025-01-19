@@ -80,7 +80,7 @@ While the power of the incorporeal gods to act in Taelgar depends on the strengt
 
   
 
-Instead, these forgotten gods lose their divine power, their ability to shape raw divine magic and make it manifest in the world of Taelgar. But rumors and myths persist of forgotten gods, entombed in their faded divine realms, drifting through the astral plane and the Plane of Souls, perhaps to awaken again.  
+Instead, these forgotten gods lose their divine power, their ability to shape raw divine magic and make it manifest in the world of Taelgar. But rumors and myths persist of forgotten gods, entombed in their faded divine realms, drifting through the astral plane and the [[Plane of Souls]], perhaps to awaken again.  
 
 ### The Children of the Divine
 
@@ -96,7 +96,7 @@ Many of the most powerful of these entities are among the oldest living minds in
 
 ## Souls and the Afterlife
 
-When a consciousness, or soul, dies, it fades from the Plane of Souls, but does not immediately disappear into nothingness. Most (although not all) instead drift towards the Land of the Dead, which has many names and many descriptions in different cultures, human and non-human alike. Here, the souls of the dead drift, waiting. Some, those who are not claimed by any god or being of similar power, eventually fade away into nothingness, becoming part of the essence of the place itself. Others are taken up into spiritual realms.
+When a consciousness, or soul, dies, it fades from the [[Plane of Souls]], but does not immediately disappear into nothingness. Most (although not all) instead drift towards the Land of the Dead, which has many names and many descriptions in different cultures, human and non-human alike. Here, the souls of the dead drift, waiting. Some, those who are not claimed by any god or being of similar power, eventually fade away into nothingness, becoming part of the essence of the place itself. Others are taken up into spiritual realms.
 
   
 
@@ -104,7 +104,7 @@ In human cultures, an old idea dating to soon after the creation of humanity per
 
   
 
-All souls make two transitions: first, from the plane of consciousness to the Land of the Dead within the first few minutes after death, and second from the Land of the Dead to its final resting place, usually about 10 days after death. Many funeral and burial practices of human religious cultures are organized around easing and facilitating these two transitions, although the specifics vary considerably across cultures.
+All souls make two transitions: first, from the [[Plane of Souls|plane of consciousness]] to the Land of the Dead within the first few minutes after death, and second from the Land of the Dead to its final resting place, usually about 10 days after death. Many funeral and burial practices of human religious cultures are organized around easing and facilitating these two transitions, although the specifics vary considerably across cultures.
 
   
 

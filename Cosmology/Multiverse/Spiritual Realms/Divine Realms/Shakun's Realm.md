@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/stub]
 displayDefaults: {defArt: ""}
 typeOf: plane
 whereabouts: Divine Realms
