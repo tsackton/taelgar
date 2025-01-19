@@ -127,7 +127,7 @@ During this time, cults start to develop, as charismatic humans realize that if 
 
 metaphysically, this is then a time of the development of a variety of fates of souls:
 - the various non-divine outer planes ("primal planes") grow around this time, as they attract/gather souls. not all of this is pleasant, and potentially some of this could involve things like demons stealing souls from the land of the dead. probably should be some kind of plane like Hades from Greek myth here, a kind of bland final resting place where weak souls eventually fade. might be metaphysically interesting for this to be basically empty in the modern day...
-- there are probably also some ideas about souls "returning to the plane of creation", which is ultimately made of ~soulstuff~ anyway, and so in some cases this is kind of like a "merge with the divine presence" fate for souls once people die. in some cases this might be seen as a kind of precursor to reincarnation, even. 
+- there are probably also some ideas about souls "returning to the [[plane of creation]]", which is ultimately made of ~soulstuff~ anyway, and so in some cases this is kind of like a "merge with the divine presence" fate for souls once people die. in some cases this might be seen as a kind of precursor to reincarnation, even. 
 
 the general vibe is supposed to be that  this is basically "pre-history" in a sense
 %%

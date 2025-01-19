@@ -604,7 +604,7 @@ but if the "outer planes" are strongly tied to elder folk + humans, where are al
 
 
 [7/26/2024 10:52 AM] .deciusmus
-So one direction is to play into the idea of the "plane of creation / soul stuff" as something that the children of the divine lack access to. The titans are somewhere else, not an outer realm, but somewhere associated with the "lower planes" in your cosmology
+So one direction is to play into the idea of the "[[plane of creation]] / soul stuff" as something that the children of the divine lack access to. The titans are somewhere else, not an outer realm, but somewhere associated with the "lower planes" in your cosmology
 
 
 [7/26/2024 10:53 AM] .deciusmus
@@ -734,7 +734,7 @@ One stab at a synthesis...
 
 In the Age of Myth, all was changeable, and the flexibility of raw magical energy meant that although an infinite number of things could be created, at the same time nothing was "real". Only the children of the divine, not their creations, had permenance/self/soul, for they had been given soul-stuff by the Divine. These direct children of the divine are rare and powerful, basically they are the same as the embodied gods metaphysically. 
 
-In the moment of the RIving, however, with the creation of the Astral Plane and the the Plane of Creation, the echoes and reverberations allowed this soul stuff to be "caught" by some of the echoes and creations of the Children of the Divine, giving them permeance and self, and power, in some sense proportional to the luck/skill/whatever that allowed one fey bundle of magic to catch much more of the essence of creation than another
+In the moment of the RIving, however, with the creation of the Astral Plane and the the [[Plane of Creation]], the echoes and reverberations allowed this soul stuff to be "caught" by some of the echoes and creations of the Children of the Divine, giving them permeance and self, and power, in some sense proportional to the luck/skill/whatever that allowed one fey bundle of magic to catch much more of the essence of creation than another
 
 
 [7/26/2024 1:34 PM] .deciusmus
@@ -830,9 +830,9 @@ so, to summarize, I think the logic is:
 
 (1) major divisions of living or sort-of-living things in Taelgar:
 
-(a) Sentient, self-aware creatures that are native to the "inner realms" (echo realms + energy realms + anything else that might be invented that is "protected" from the raw power of the Plane of Creation by the Land of the Dead), are sentient and self-aware because they are animated by a fragment of ~soulstuff~. When they die, this fragment typically travels to the Land of the Dead, and eventually passes beyond into the "Outer Realms". 
+(a) Sentient, self-aware creatures that are native to the "inner realms" (echo realms + energy realms + anything else that might be invented that is "protected" from the raw power of the [[Plane of Creation]] by the Land of the Dead), are sentient and self-aware because they are animated by a fragment of ~soulstuff~. When they die, this fragment typically travels to the Land of the Dead, and eventually passes beyond into the "Outer Realms". 
 
-(b) Sentient, self-aware creatures native to the "outer realms" (spiritual realms + astral plane + anything on the "Plane of Creation" side of the Land of the Dead) are pure beings of soulstuff, manifest into physical form. When killed in the "inner realms", they return to their native plane, possibly changed. They can only be fully destroyed when beyond the Land of the Dead. 
+(b) Sentient, self-aware creatures native to the "outer realms" (spiritual realms + astral plane + anything on the "[[Plane of Creation]]" side of the Land of the Dead) are pure beings of soulstuff, manifest into physical form. When killed in the "inner realms", they return to their native plane, possibly changed. They can only be fully destroyed when beyond the Land of the Dead. 
 
 (c) Some creatures (many constructs, some undead, simlacrums, perhaps some elementals, etc) are sentient and self-aware but only by using the raw energy of the Plane of Magic in imitation of "soulstuff". These creatures simply cease to exist if destroyed, wherever they are.
 
