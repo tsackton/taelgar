@@ -8,6 +8,8 @@ dm_notes: none
 ---
 # Dwarves
 
+%% TO DO %%
+
 This page contains lore information about dwarves. For details on character creation and playing a dwarf, see [[Playing a Dwarf]].
 
 %% some useful non-mechanical notes in the link above that could be expanded on here, potentially %%
@@ -109,7 +111,7 @@ Dwarves ascribe meaning to their clan names and often render them in the trade t
 **Clan Names:** Battlehammer, Boulderlock, Brawnanvil, Cragfire, Deepmine, Fireforge, Frostbeard, Goldborn, Hardcrown, Highkeep, Ironfist, Redbeard, Rockhammer, Sparkhorn, Stronghelm, Stoneaxe
 
 
-%%TODO
+%%
 
 - [ ] make pages (at least stubs) for thuhrs and link
 - [ ] summarize notes from [[Playing a Dwarf]] here
