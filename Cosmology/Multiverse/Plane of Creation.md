@@ -5,7 +5,7 @@ typeOf: plane
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # The Plane of Creation
 >[!info]+ Information  

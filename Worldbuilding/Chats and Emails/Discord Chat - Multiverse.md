@@ -12,8 +12,8 @@ however i'm increasingly feeling like the outer planes don't really work. there 
 (1) the realms of the embodied gods, of which the dwarven Heart of the Mountain is the most well established
 (2) the realms of incorporeal gods, of which Shakun's realm is the clearest, but which also canonically are not always a separate realm for each deity, e.g. Arkaash is supposed to be the realm of the Dunmari Pantehon
 (3) what I've called the "primal realms": Arborea, the Abyss, Pandemonium, others. These are explicity not associated with deities, or at least not with the Divine Presence (but e.g. Pandemonium might be associated with Jinnik)
-(4) the Dreamworld, the Land of the Dead, the Plane of Souls don't fit obviously into this, although it is canonically established that you can reach the Dreamworld via the Plane of Souls, and the Land of the Dead is a "dividing line" somehow for divine power
-(5) the Astral Plane, which might not even exist? Or might be connected to the Plane of Souls and/or the Dreamworld
+(4) the Dreamworld, the Land of the Dead, the [[Plane of Souls]] don't fit obviously into this, although it is canonically established that you can reach the Dreamworld via the [[Plane of Souls]], and the Land of the Dead is a "dividing line" somehow for divine power
+(5) the Astral Plane, which might not even exist? Or might be connected to the [[Plane of Souls]] and/or the Dreamworld
 
 
 [7/18/2024 2:29 PM] rsulfuratus
@@ -21,7 +21,7 @@ I think probably separating out the Primal Realms (with perhaps a different name
 
 
 [7/18/2024 2:31 PM] rsulfuratus
-then the embodied gods, incorporeal gods, dreamworld, land of dead, plane of souls are all "Age of Creation" things layered on top of the metaphysical structure created by the RIving
+then the embodied gods, incorporeal gods, dreamworld, land of dead, [[plane of souls]] are all "Age of Creation" things layered on top of the metaphysical structure created by the RIving
 
 
 [7/18/2024 2:31 PM] rsulfuratus
@@ -77,7 +77,7 @@ A few thoughts for later..
 (2) Agree on Shadowfell not fey & not a thing but more a type of mini-echo realm
 (3) Not sure about undead. Do undead really need a plane? It seems to me that they are very much a material plane phenomena. Doesn't mean a vampire or lich couldn't create a "shadowfell" domain of dread, but I don't think that the undead really need a "home plane" in any sense
 (4) Agree that the core "divine" realms and the core "primal" realms should be thought of separately. 
-(5) Agree that the Dreamworld/Land Of Dead/Plane of Souls needs separate thought
+(5) Agree that the Dreamworld/Land Of Dead/[[Plane of Souls]] needs separate thought
 
 
 [7/18/2024 2:48 PM] .deciusmus
@@ -91,9 +91,9 @@ Some questions:
 
 
 [7/18/2024 2:54 PM] .deciusmus
-(b) What is the Plane of Souls / Dreamworld / Land of Dead and when was it created? 
+(b) What is the [[Plane of Souls]] / Dreamworld / Land of Dead and when was it created? 
 
-The canon we have so far suggests that the Plane of Souls and Dreamworld are closely connected, and also closely connected to the *living*. The plane of souls is like an echo realm almost, but just echoing the souls of those who are alive on taelgar. (Maybe it is an echo realm, creating in the Riving?)
+The canon we have so far suggests that the [[Plane of Souls]] and Dreamworld are closely connected, and also closely connected to the *living*. The [[plane of souls]] is like an echo realm almost, but just echoing the souls of those who are alive on taelgar. (Maybe it is an echo realm, creating in the Riving?)
 
 The Dreamworld is has very little canon to it, other than as a place of imagination/dreams/possibilities. I used it in my game once as a place where the party was trapped during a cursed sleep. 
 
@@ -103,13 +103,13 @@ The Dreamworld: The Dreamworld is an echo, shadow, and premonition of Taelgar. 
 
 
 [7/18/2024 2:58 PM] .deciusmus
-So thinking about this a bit when I should be working it feels like metaphysically, the Plane of Souls and the Dreamworld are really a sort of echo realm, and probably created in the Riving, and actually might be very different from the land of the dead
+So thinking about this a bit when I should be working it feels like metaphysically, the [[Plane of Souls]] and the Dreamworld are really a sort of echo realm, and probably created in the Riving, and actually might be very different from the land of the dead
 
 
 [7/18/2024 3:16 PM] .deciusmus
 Not sure this long stream of conscious is helpful, but what about something like the following....
 
-(1) In the aftermath of the Riving, the planes are separated, and at least the Energy Realms, Ethereal Realm, Plane of Magic, and the Echo Realms (including the Feywild, the Dreamworld, the Plane of Souls, plus any other random planes like the Mirror Realm and the rumored Nightmare Realm) are created. Plus of course the Material Plane
+(1) In the aftermath of the Riving, the planes are separated, and at least the Energy Realms, Ethereal Realm, Plane of Magic, and the Echo Realms (including the Feywild, the Dreamworld, the [[Plane of Souls]], plus any other random planes like the Mirror Realm and the rumored Nightmare Realm) are created. Plus of course the Material Plane
 
 (2) the embodied gods create their divine realms as they see fit, as they are created. TBD is what about the Void Mind gods, and can they create realms to? Probably yes, but they might not all want to, given the void mind vibe.
 
@@ -127,7 +127,7 @@ In the beginning, magic was all there was. In the Age of Myth before time, there
 
 Then, in the Riving, as the magic of the multiverse was being ordered into the Energy & Ethereal & Magic Planes, the Divine introduced something new: souls. Not made of magic, but something else, that have never existed before.
 
-And the embodied gods & the plane of souls were both shaped out of soul stuff, this new thing. And the embodied gods used the power of their soul stuff to guide and create living beings from the soul stuff in the plane of souls, and shape a new kind of life. As the first souls died, and drifted back to the plane of souls, the embodied gods recognized their work, and swept their souls up, and built realms for them, also out of soul stuff
+And the embodied gods & the [[plane of souls]] were both shaped out of soul stuff, this new thing. And the embodied gods used the power of their soul stuff to guide and create living beings from the soul stuff in the [[plane of souls]], and shape a new kind of life. As the first souls died, and drifted back to the [[plane of souls]], the embodied gods recognized their work, and swept their souls up, and built realms for them, also out of soul stuff
 
 
 [7/18/2024 3:35 PM] .deciusmus
@@ -142,7 +142,7 @@ And the Divine made the land of the dead for them, so the human soul stuff could
 So the history of the planes is basically 3 events:
 
 (a) the Riving establishes the Echo/Energy/Ethereal Realsm
-(b) in the same moment as the Riving, the creation of souls establishes the Plane of Souls (and the Dreamworld, which is basically an echo plane of the Plane of Souls)
+(b) in the same moment as the Riving, the creation of souls establishes the [[Plane of Souls]] (and the Dreamworld, which is basically an echo plane of the [[Plane of Souls]])
 (c) at the time of creation of humans, the Land of the Dead is created
 
 Then, all the "outer" planes (Primal + Spiritual) are built either by human belief, with the power of their soul-stuff, or by embodied or incorporeal gods, with the power of the soul-stuff of their dead followers
@@ -154,8 +154,8 @@ But in theory, metaphysically, if all the humans decided to stop believing/worsh
 
 [7/18/2024 3:51 PM] rsulfuratus
 need to think about this all a bit but a few additional points:
-(1) Agree that that Dreamworld is functionally an echo realm of the Plane of Souls - I think this has been established in game already, early on actually in Kenzo's dream journey way back in Karawa. The key distinction between the Dreamworld and what I would call true echo realms is that the geography of the Dreamworld is not tied to the physical geography of the material plane. Shadowfell domains, the Feywild, and the MIrror Realm have, so far, been demonstrated to be geographic echoes (distorted perhaps) of the Material Plane
-(2) Agree that the Land of the Dead is a dividing line of sorts, between the Plane of Souls / Material Plane / echo realms / whatever and the Divine Realms. This is established as well, at least in my secret notes if not in game, and is consistent with a lot of undead lore and lore around resurrection/raise dead etc. (it takes much stronger magic to bring back a soul that has 'passed on')
+(1) Agree that that Dreamworld is functionally an echo realm of the [[Plane of Souls]] - I think this has been established in game already, early on actually in Kenzo's dream journey way back in Karawa. The key distinction between the Dreamworld and what I would call true echo realms is that the geography of the Dreamworld is not tied to the physical geography of the material plane. Shadowfell domains, the Feywild, and the MIrror Realm have, so far, been demonstrated to be geographic echoes (distorted perhaps) of the Material Plane
+(2) Agree that the Land of the Dead is a dividing line of sorts, between the [[Plane of Souls]] / Material Plane / echo realms / whatever and the Divine Realms. This is established as well, at least in my secret notes if not in game, and is consistent with a lot of undead lore and lore around resurrection/raise dead etc. (it takes much stronger magic to bring back a soul that has 'passed on')
 
 
 [7/18/2024 3:54 PM] rsulfuratus
@@ -185,7 +185,7 @@ Re: Thark, I'm not sure Thark has to be able to create a divine realm for orcs t
 [7/18/2024 4:03 PM] .deciusmus
 re: echo realms.
 
-My thinking is that an echo realm is just a echo of the Riving, and, in some sense, could be an echo of something other than Taelgar. So the Dreamworld is an echo of the creation of the plane of souls or whatever.
+My thinking is that an echo realm is just a echo of the Riving, and, in some sense, could be an echo of something other than Taelgar. So the Dreamworld is an echo of the creation of the [[plane of souls]] or whatever.
 
 Is it necessary to assume all echo realms are an echo of the plane of taelgar? Maybe dragons all live in some echo of the plane of magic.
 
@@ -295,7 +295,7 @@ but I'm not sure if we've agreed to anything
 perhaps just that Dreamworld/land of dead don't belong in Spiritual relams and that the Riving created at least
 
 (a) energy + magic + ethereal
-(b) dreamworld + plane of souls
+(b) dreamworld + [[plane of souls]]
 
 And that the divine spiritual realms were crated by gods, separately
 and that the primal realms should be renamed but we don't have a good alternate name
@@ -326,7 +326,7 @@ The Riving is actually several ordered events, although the time between them is
 
 1) The Divine Presence separates the material plane from the energy and echo realms, making a place that, while not devoid of magic, is much more stable and safe.
 
-2) The Divine Presence spins out from itself the raw material for souls, which are basically like little fragments of the divine, creating the Plane of Souls as a kind of undifferentiated swirl. 
+2) The Divine Presence spins out from itself the raw material for souls, which are basically like little fragments of the divine, creating the [[Plane of Souls]] as a kind of undifferentiated swirl. 
 
 3) The Divine Presence creates out of itself the Embodied Gods, and gives them the power to shape soul stuff, but creates the land of the dead as a barrier, limiting the ability of souls to influence the Divine Presence or act beyond the material plane. 
 
@@ -364,7 +364,7 @@ But sure, from a "untangling for ease of understanding" I like it
 
 
 [7/18/2024 6:38 PM] rsulfuratus
-sure, I guess for ease of human minds to understand it makes sense to say in some way creation of the plane of souls and creation of embodied gods has to precede the creation of the elder folk but in metaphysical reality causality doesn't have to be unidirection
+sure, I guess for ease of human minds to understand it makes sense to say in some way creation of the [[plane of souls]] and creation of embodied gods has to precede the creation of the elder folk but in metaphysical reality causality doesn't have to be unidirection
 
 
 [7/18/2024 6:41 PM] .deciusmus
@@ -401,7 +401,7 @@ I like that a lot actually
 
 
 [7/18/2024 6:45 PM] rsulfuratus
-I think that I would the astral plane basically the undifferentiated soulstuff beyond the land of the dead (while the plane of souls is the differentiated soulstuff on the material plane side of the land of the dead)
+I think that I would the astral plane basically the undifferentiated soulstuff beyond the land of the dead (while the [[plane of souls]] is the differentiated soulstuff on the material plane side of the land of the dead)
 
 
 [7/18/2024 6:46 PM] rsulfuratus
@@ -437,7 +437,7 @@ I don't know but I'm not sure there is any reason for them to be
 
 
 [7/18/2024 6:54 PM] .deciusmus
-What about the idea that the divine presence basically creates the astral plane - the source of soul stuff - in imitation or learning from the plane of magic - and elves and dwarves and everyone else is created when the embodied gods pass the soul stuff from the astral plane to the plane of souls
+What about the idea that the divine presence basically creates the astral plane - the source of soul stuff - in imitation or learning from the plane of magic - and elves and dwarves and everyone else is created when the embodied gods pass the soul stuff from the astral plane to the [[plane of souls]]
 
 
 [7/18/2024 6:55 PM] .deciusmus
@@ -512,15 +512,15 @@ re: multiverse, pushed this:
 
 While there are many ways to describe the multiverse, the most widely known comes from elven scholars, who describe the multiverse a pair of intersecting domes: the below, the dome of the physical planes rising from the roiling chaos of the [[Plane of Magic]]; above, the dome of the planes of sentience, descending from the blinding intensity of the [[Plane of Creation]].  
 
-The duality of the [[Material Plane]] -- the physical structures of the universe -- and the [[Plane of Souls]] -- the soul structures of the sentient inhabitants of the universe -- sit in the middle of these domes, the Material Plane anchored to the dome of physicality, the Plane of Souls anchored to the dome of sentience. 
+The duality of the [[Material Plane]] -- the physical structures of the universe -- and the [[Plane of Souls]] -- the soul structures of the sentient inhabitants of the universe -- sit in the middle of these domes, the Material Plane anchored to the dome of physicality, the [[Plane of Souls]] anchored to the dome of sentience. 
 
 Descending "below" the material plane in this cosmology is the [[Ethereal Plane]], which stretches from the border ethereal, co-localizing with the material plane, through the interior ethereal, a foggy expanse of swirling mists, to the deep ethereal, which bleeds into the [[Plane of Magic]]. Embedded within the "sea" of the [[Ethereal Plane]] are the [[Energy Realms]], chief among them the [[Elemental Planes]], domains of pure physicality, capturing the essence of the fundamental elements of the universe.
 
 
 [7/19/2024 6:39 PM] rsulfuratus
-Floating "above" the plane of souls in this cosmology is the [[Astral Plane]], which is bisected by the [[Land of the Dead]], a collecting point for souls and an not-quite-impermeable barrier separating the raw energy of creation from the [[Material Plane]]. Beyond the [[Land of the Dead]], the [[Astral Plane]] is a strange empty expanse of silvery waves, in which the [[Spiritual Realms]] float like bubbles, until it merges with the blinding energy of the [[Plane of Creation]]. 
+Floating "above" the [[plane of souls]] in this cosmology is the [[Astral Plane]], which is bisected by the [[Land of the Dead]], a collecting point for souls and an not-quite-impermeable barrier separating the raw energy of creation from the [[Material Plane]]. Beyond the [[Land of the Dead]], the [[Astral Plane]] is a strange empty expanse of silvery waves, in which the [[Spiritual Realms]] float like bubbles, until it merges with the blinding energy of the [[Plane of Creation]]. 
 
-Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]], the distortions and reflections and reverberations of the planes created by [[The Riving]], which still resonance today. Most notably, these include the [[Feywild]], an echo of the material plane, and the [[Dreamworld]], an echo of the plane of souls, but others have been described, including the domains of the [[Shadowfell]], the [[Nightmare Realm]], and the [[Mirror Realm]].
+Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]], the distortions and reflections and reverberations of the planes created by [[The Riving]], which still resonance today. Most notably, these include the [[Feywild]], an echo of the material plane, and the [[Dreamworld]], an echo of the [[plane of souls]], but others have been described, including the domains of the [[Shadowfell]], the [[Nightmare Realm]], and the [[Mirror Realm]].
 
 
 [7/19/2024 9:24 PM] .deciusmus
