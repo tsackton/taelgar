@@ -19,7 +19,7 @@ The Material Plane, sometimes called the Prime Material Plane or simply the Prim
 
 >[!warning] Debates about the Material Plane
 >Despite the clear centrality of the Material Plane in most multiversal models, there remain some scholars who question the standard depictions accepted by both arcane and theological cosmologists.
-> #### The Yendalist Hersey
+> #### The Yendalist Heresy
 >Some radical [[Yendalism|Yendalists]] insist it is wrong to believe the Material Plane and the [[Plane of Souls]] are at the center of the [[Multiverse]]. They argue the correct cosmological structure puts the [[Land of the Dead]] at the center of the [[Multiverse]], with the physical [[Inner Realms]]  and the spiritual [[Outer Realms]] extending below and above the dividing line of the [[Land of the Dead]], respectively. In this depiction, the Material Plane, though it seems important to those who call it home, is not metaphysically special, and is simply another of the [[Energy Realms]]. Followers of [[Yendalism]], however, have no answer when asked why the Material Plane, alone of all the supposedly similar [[Energy Realms]], is paired with the [[Plane of Souls]].
 >#### The Mundane World
 >It must be noted that many [[fey]] find the standard depictions of cosmology that place the Material Plane in the center of the [[Multiverse]] to be quite amusing. The fey often refer to the Material Plane as the Mundane World or the Mundane Realm, considering it a pale, diminished echo or distortion of their own, admittedly more magical, home of the [[Feywild]].  However, no serious scholarship accepts the Material Plane itself as an [[Echo Realms|Echo Realm]] of the [[Feywild]].
