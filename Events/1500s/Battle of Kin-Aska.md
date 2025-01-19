@@ -10,9 +10,11 @@ dm_notes: none
 >[!info]+ Information  
 > Part of The [[Conclave War]]
 
+%% TO DO %%
+
 An important battle in the [[Blood Years]]. [[Chardon]] and its allies were defeated, leading to the destruction of a city-state, [[Kin-Aska]], that had fallen into [[Chardon]]'s orbit in the years before the [[Great War]]. 
 
-%%TODO
+%%
 
 - [ ] clean up as part of general Conclave War update
 
