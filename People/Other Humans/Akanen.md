@@ -5,6 +5,8 @@ title: Lord
 name: Akanen
 species: human
 gender: male
+dm_owner: tim
+dm_notes: important
 whereabouts: Medju
 ---
 # Lord Akanen
@@ -14,7 +16,7 @@ whereabouts: Medju
 
 One of the Spice Lords of Medju, and a collector of rarities, especially the weird, wild, and wonderful. He is especially interested in collecting rare monster parts, and is reasonably well known for this across the [[Eastern Green Sea]].
 
-%% Tim - copied from Artem emails - assume still canonical - but not sure of dm status %%
+%% Tim - copied from Artem emails - assume still canonical - but not sure of dm status - set tim/important but you can change %%
 
 %%
 Through various backchannels and merchant contacts, Artem has learned about Lord Akanen (ak-ah-nen, rhymes with pen), one of the Spice Lords of Medju, a group of extremely rich merchants / oligarchs who are suspected of being the real power in Medju, making their wealth and holding on to power by controlling the caravan routes across the desert to the south. 
