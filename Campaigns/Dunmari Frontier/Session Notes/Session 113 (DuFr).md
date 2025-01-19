@@ -24,7 +24,7 @@ The Dunmar Fellowship discovers and secures Apollyon's phylactery hidden in the 
 - The Dunmar Fellowship investigates the Temple of the Eight Divines, searching for Apollyon's phylactery.
 - Kenzo's staff triggers visions revealing Rai's actions in hiding the phylactery within the temple's crypt.
 - The group uncovers an illusion concealing a staircase and explores the crypt, finding powerful wards and defenses.
-- They find the phylactery, an adamantine dagger containing seven souls, and learn it must be destroyed in the Land of the Dead.
+- They find the phylactery, an adamantine dagger containing seven souls, and learn it must be destroyed in the [[Land of the Dead]].
 - The group secures the phylactery and uncovers information about the souls within, preparing for the next stage of their mission.
 ### Timeline
 - (DR:: 1749-05-22), afternoon: Explore the [[Temple of the Eight Divines]], and find [[Apollyon's Phylactery]]. Make plans to destroy it. Recover tokens from four of the seven souls bound within. Suspect trouble with [[Vindristjarna]]. 
@@ -59,7 +59,7 @@ The party contacts [[Dimitaur]], Rai’s former familiar, who recalls [[Rai]]’
 
 ---
 
-Opening the chest with _Mage Hand_, [[Delwath]] reveals a plain adamantine dagger—[[Apollyon]]’s phylactery. [[Kenzo]]’s soul sight reveals seven souls bound within, sacrificed to create the vessel for [[Apollyon]]’s essence. [[Seeker]] and [[Kenzo]] study the dagger alongside notes from [[Apollyon's Tower]], uncovering a way to destroy the phylactery: it must be taken to the Land of the Dead, where the souls can be guided to remember their identities and pass into their divine realms. This process would unravel the phylactery, a method Apollyon deemed impossible without both the artifact and detailed knowledge of its creation.
+Opening the chest with _Mage Hand_, [[Delwath]] reveals a plain adamantine dagger—[[Apollyon]]’s phylactery. [[Kenzo]]’s soul sight reveals seven souls bound within, sacrificed to create the vessel for [[Apollyon]]’s essence. [[Seeker]] and [[Kenzo]] study the dagger alongside notes from [[Apollyon's Tower]], uncovering a way to destroy the phylactery: it must be taken to the [[Land of the Dead]], where the souls can be guided to remember their identities and pass into their divine realms. This process would unravel the phylactery, a method Apollyon deemed impossible without both the artifact and detailed knowledge of its creation.
 
 The party secures the [[Apollyon's Phylactery|phylactery]], placing it in their [[Portable Hole]] stored in a lead-lined locket around [[Wellby]]'s neck, and turns their attention to gathering information on the seven souls. [[Wellby]]'s search of the nearby area uncovers a [[Book of Martyrs of the Radiant Path]], stored in the temple’s administrative complex, which describes some brief details of the life of four of Apollyon's victims: [[Antonius Patrius]], [[Floria of Aphasium]], and [[Marius of Drankor]], memorialized as martyrs in the underchapel dedicated to [[The Father]]; and [[Valanthe]], an elf associated with the [[Radiant Path]] and [[Fides Lucaris]], who resided in the elven neighborhood north of the temple. Searching the underchapel reveals death masks associated with [[Antonius Patrius]], [[Floria of Aphasium]], and [[Marius of Drankor]]. Meanwhile, [[Wellby]] searches his halfling ancestral memory for a clue about [[Seraphina Appleblossom]], catching a glimpse of a memory of a tavern near the docks, [[The Laughing Wave]].
 
@@ -121,7 +121,7 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 	- The souls form a protective cocoon around Apollyon’s essence within the dagger.
 	- Their names are listed in Apollyon's notes: [[Antonius Patrius]], [[Floria of Aphasium]], [[Marius of Drankor]], [[Valanthe]], [[Seraphina Appleblossom]], [[Khemut of Targu]], and [[Minarith]]
 - Hidden in Apollyon's notes, Seeker discovers a potential method to destroy the phylactery:
-	- If a portal to the Land of the Dead can be opened, the dagger must be taken there.
+	- If a portal to the [[Land of the Dead ]]can be opened, the dagger must be taken there.
 	- Once in the Land of the Dead, the souls must be guided to remember their identities and pass into their divine realms. This process will unravel the phylactery.
 	- Apollyon believed this method was impossible, as only one who possessed both the phylactery itself and the notes on its construction could even attempt this challenge.
 - The party identifies the administrative complex behind the temple as a potential source of detailed records on the victims. They decide to search it for artifacts or clues.

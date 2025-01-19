@@ -49,4 +49,62 @@ From this, then the following chronology emerges:
 - The Energy Realms, the Plane of Souls, the Land of the Dead, and the Echo Realms arise out of the Riving. They don't exist, at least not in recognizable form, prior to the Riving, and emerge in ways that can be linked to their current incarnations after the Riving. While most, or perhaps all, of these Planes are formed at once, the Echo Realms may have additional complexities and perhaps sometimes collapse, merge, grow, and split in unpredictable ways. 
 - The Spiritual Realms emerge in fits and starts and without any consistent chronology, but dating to during or after the Riving, each with its own creation story and myth. 
 
+## Planes of the Multiverse
+
+```dataviewjs
+
+
+```
+```dataviewjs
+//------------------------------------------------------------------
+// 1) Gather & Filter Pages (convert to real array)
+//------------------------------------------------------------------
+const { util } = customJS;
+// Search all pages without filtering by tag initially
+let pages = dv.pages().array(); 
+
+// Filter pages to only those with typeof = "plane"
+let planes = pages.filter(p => p.typeof === "plane");
+
+//------------------------------------------------------------------
+// 2) Build a plain JS array of data
+//------------------------------------------------------------------
+let data = planes.map(p => {
+  let tags   = p.file.etags ?? [];
+  let status = "complete";
+  if (tags.some(t => t.startsWith("#status/stub")))          status = "stub";
+  else if (tags.some(t => t.startsWith("#status/needswork"))) status = "needs work";
+  else if (tags.some(t => t.startsWith("#status/check")))     status = "check";
+  else if (tags.some(t => t.startsWith("#status/active")))    status = "active";
+
+  // Use util.homeLocation to get the planar group
+  let group = util.originLocation(p.file.frontmatter);
+  // If no home location, set to "none"
+  if (!group) group = "none";
+
+  return {
+    plane:  p.file.link,
+    group,
+    status
+  };
+});
+
+//------------------------------------------------------------------
+// 3) Sort by Planar Group alphabetically
+//------------------------------------------------------------------
+data.sort((a, b) => 
+  a.group.localeCompare(b.group, undefined, { sensitivity: "base" })
+);
+
+//------------------------------------------------------------------
+// 4) Render the table
+//------------------------------------------------------------------
+dv.table(
+  ["Plane", "Planar Group", "Status"], 
+  data.map(row => [row.plane, row.group, row.status])
+);
+
+```
+
+
 %%^End%%

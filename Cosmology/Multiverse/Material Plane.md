@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, place]
+tags: [place]
 typeOf: plane
 whereabouts: 
-- {type: home, location: multiverse, wHome: "A <typeOf> in the <home:1s>"}
+- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
 dm_owner: none
 dm_notes: none
 ---
@@ -11,3 +11,4 @@ dm_notes: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+

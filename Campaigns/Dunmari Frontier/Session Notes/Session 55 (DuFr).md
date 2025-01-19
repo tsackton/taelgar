@@ -24,7 +24,7 @@ descTitle: Echoes of the Great War
 ### Summary
 - [[Delwath]] and his companions meet [[Zegron]], the ghost of a giant, in the [[Forest of Nightmares]], and agree to fight hobgoblins  in a shadow realm.
 - After a fierce battle, the hobgoblins and their wizard leader are defeated; the party retrieves the Shadow Armband from the wizard's severed arm.
-- In the shadow realm, [[Delwath]] banishes himself and the tanshi [[Taraka]] back to the material plane while leaving the hobgoblin army trapped.
+- In the shadow realm, [[Delwath]] banishes himself and the tanshi [[Taraka]] back to the [[material plane]] while leaving the hobgoblin army trapped.
 - At the site of the Battle of Ye'mote, the party defeats an undead hobgoblin warlock and his minions, releasing the last of the trapped [[Meswati]] with the destruction of another armband.
 - The party returns to the [[Ko'zula village]] to celebrate, and Delwath parts ways with [[Iascaire]] and [[Aristaea]].
 
@@ -43,7 +43,7 @@ We begin as the party returns to the [[Forest of Nightmares]], heading for the B
 
 The party agrees to go into the shadow realm to fight the [[Hobgoblins]], hoping perhaps to free [[Taraka]] as well. Emerging into a flat, featureless plain of shadow, the party sees a small group of [[Hobgoblins]] who seem to be watching the portal, and in the distance, a much larger army that seems to be constantly chasing campfires that blink in and out in the darkness. The party struggles to defeat the organized hobgoblin attack, led by a wizard, low on spells but still dangerous, flying above the battlefield. Nonetheless eventually the [[Hobgoblins]] are killed. The wizard commander is missing an arm, and with it the [[Cha'mutte’s Shadow Armband]] he carried, presuambly. 
 
-Exiting the portal, the party speaks with [[Zegron]], who thanks them for dealing with the traitors, and indicates where to dig to find the wizard's arm as he vanishes. Digging up the arm, the party is faced with a dilemma. Destroying the armband would free [[Taraka]], but also the large hobgoblin army trapped with them. Eventually, they devise a plan to send in [[Delwath]] to attempt to banish both [[Taraka]] and himself back to the material plane, leaving the [[Hobgoblins]] trapped, and then close the portal here by attuning to the armband. Amazingly, the plan works, and both [[Taraka]] and [[Delwath]] make it back.
+Exiting the portal, the party speaks with [[Zegron]], who thanks them for dealing with the traitors, and indicates where to dig to find the wizard's arm as he vanishes. Digging up the arm, the party is faced with a dilemma. Destroying the armband would free [[Taraka]], but also the large hobgoblin army trapped with them. Eventually, they devise a plan to send in [[Delwath]] to attempt to banish both [[Taraka]] and himself back to the [[material plane]], leaving the [[Hobgoblins]] trapped, and then close the portal here by attuning to the armband. Amazingly, the plan works, and both [[Taraka]] and [[Delwath]] make it back.
 
 After a brief rest, the group then heads for the final battlefield, the Battle of Ye'mote. The battlefield is on the banks of the [[Yemo'te]] river. A broken bridge crosses the river, and forest is littered with signs of an ancient battlefield: small mounds where the plants have grown over dead bodies, bits of rusting armor and weapons sticking from the ground, white filaments of fungus wrapping many of the bodies in cocoons. 
 
