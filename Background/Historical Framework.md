@@ -13,20 +13,6 @@ See [[Historical Framework - Open Questions]] for some unresolved topics. See [[
 
 See also [[Canonical Events]] for a listing of key dates that are considered canonical. 
 
-%% The following brainstorming and older documents have useful discussion or older versions of this:
-* [[Age of Myth - Old Version]]
-* [[Age of Divinity - Old Version]]
-* [[Age of Humanity - Old Version]]
-* [[Discord Chat - Deep History]]
-* [[Discord Chat - Multiverse]]
-* [[The Riving - Old Version]]
-* [[Discord Chat - Languages and Humanity]]
-* [[Divine Order]]
-* [[Elder Days Mythic History Brainstorming]]
-* [[Email - Brief Thoughts on Elder Races]]
-* [[History of Humanity Notes]]
-* [[Human Cultures of Taelgar]]
-%%
 ## Overview
 The historical framework of Taelgar is organized around five major events, some destructive, some creative, which punctate the timeline:
 * [[Riving|The Riving]], the moment time began, and the [[Multiverse#The Creation of the Multiverse|multiverse was created]]
@@ -35,41 +21,40 @@ The historical framework of Taelgar is organized around five major events, some 
 * The [[First Plague]] and subsequent fall of the [[Drankorian Empire]]
 * The [[Great War]] and death of [[Cha'mutte]]
 
-In very broad terms, 
+## Before the Riving
+_Before time_
 
+osmology was much simpler than after the Riving. Only the [[Material Plane]], the [[Plane of Magic]], the [[Plane of Creation]], and the transitive connecting planes (the [[Astral Plane]] and [[Ethereal Plane]]) existed. The exact configuration of these planes is unclear and there is no canonical answer; the key point is that the other planes did not exist, not that these planes existed in some particular form. %% Previous invention suggested that perhaps there was only an undifferentiated "plane" that included the plane of magic and the material plane, but a canonical answer does not exist, and is probably not needed %%
 
-The first major metaphysical event in history is [[Riving|The Riving]]. This event [[Multiverse#The Creation of the Multiverse|created the multiverse]]. Prior to the [[Riving]] time itself did not exist, and therefore events are hard to describe. However, some key points of this period:
+Prior to the [[Riving]] time itself did not exist, and therefore events are hard to describe. However, some key points of this period:
 
-* Cosmology was much simpler than after the Riving. Only the [[Material Plane]], the [[Plane of Magic]], the [[Plane of Creation]], and the transitive connecting planes (the [[Astral Plane]] and [[Ethereal Plane]]) existed. The exact configuration of these planes is unclear and there is no canonical answer; the key point is that the other planes did not exist, not that these planes existed in some particular form. %% Previous invention suggested that perhaps there was only an undifferentiated "plane" that included the plane of magic and the material plane, but a canonical answer does not exist, and is probably not needed %%
+* The [[Multiverse]] did not exist, only a [[Primordial Cosmos]].
 * The [[Divine Presence]] and the [[Void Mind]] both, in some fashion, came to be, either at the start of, or during, this period
 * Highly powerful magical entities, distinct from the [[Divine Presence]], existed, and included at least (and probably only), some predecessor form of [[Dragons]], [[Fey]], [[Giants]], and [[Elementals]]. What forms these powerful creatures took is not clear or canonical. It is possible that the list above is incomplete.  These might powerful beings of magic, perhaps, born some similarity to their modern day echoes, but perhaps did not. %% Prior invention has referred to elder wyrms, archfey, titans, and elder elementals but it is not clear these categories need to be strictly canonical %%
-* The vibe of this period is mythic and transitory. The world can be reshaped with a thought or a gesture and magic is so powerful that the idea of a single, stable reality is questionable in this period. 
 - There are no gods but the [[Divine Presence]], and no humanoids. All that exists are the magical beings that are the predecessors of the [[Children of the Riving]]. 
 - The form of the world is totally unfixed, as the powerful entities who live on what is Taelgar then use arcane magic to constantly reshape the world into their imagining, and linear causality does not necessary work the way humanoid minds expect. 
 
-The Riving is therefore best thought of, in many ways, as the moment of creation, for it is only after the Riving that events can be described in a linear order. 
+In general this period should feel mythic and transitory should rarely if ever be the source of a specific event. It may appear in the stories of some sentient races, in particular the [[Giants]] and [[Fey]]. The world can be reshaped with a thought or a gesture and magic is so powerful that the idea of a single, stable reality is questionable in this period. 
 
-The second major metaphysical event is [[The Downfall]], when [[Hkar]] sunk. The Downfall caused mass destruction amongst the great civilizations of non-humans, and reshaped the world towards a more human orientation. Metaphysically, it may (although this is not necessarily canonical) have changed something about the permeability of the [[Land of the Dead]] and made it much harder for new creation to occur. Either way, the period between the Riving and the Downfall is generally categorized by:
-
-* Dominance of non-humans, who have massive continent spanning civilizations
-* Significant creation of new species and humanoids (all of the major humanoid species were created in this period, with the possible exception of [[Kenku]] who have a more complex and poorly defined creation story)
-* Rapid innovation in human religion, and many new gods being created by the Divine Spark of humanity
-* The creation of numerous [[Spiritual Realms]], most likely though the Divine Spark of humanity (although nothing firmly canonical has been established)
-* Culturally distinct migrations from Hkar of humanity forming the basis of human differences in the post-Downfall period
-
-After the Downfall, the developed history of Taelgar is focused around the rise and fall of human empires, and is punctuated by two major destructive episodes: the Fall of Drankor and the Great War. 
 ## The Riving
+_Before time_
 
 Linear time began with an event, the [[Riving]], both instantaneous and eternal, a time out of time when the basic form of the  [[Multiverse]] was fixed by the [[Divine Presence]]. During the [[Riving]]:
+
 - The [[Multiverse#The Creation of the Multiverse|multiverse was created]]
 - The [[Dragons]], [[Fey]], [[Elementals|Elemental]], and [[Giants]] were created. These four species are sometimes referred to as the [[Children of the Riving]] although it is not clear if that is a meta or in-world name. The exact mechanism of creation is not clear, but it is presumed to be some echo or reflection or evolution of the beings that existed before the Riving. 
 - The [[Embodied Gods]] were created, and they in turn created the [[Elves]], [[Dwarves]], [[Halflings]], [[Lizardfolk]], and [[Stoneborn]]. These five species are sometimes referred to as the [[Elder Folk]], but it is not clear if this is a meta or in-world name
+- The [[Void Mind]] creates the [[Three Despairs]] as its avatars and agents in the [[Multiverse]]
+
+%% It is not clear when the first cracks to the Far Realms appeared see [[Historical Framework - Open Questions#Far Realms]] for thoughts %%
+
 ## Before Humans
 _1 - 1520 by the Dwarven Count of Years_
 
-The earliest years of history are dominated by the growth and learning of the first sentient races:
+The earliest years of history are dominated by the growth and learning of the first sentient races. This is a period of learning, peace and growth. To the extent the [[Three Despairs]] and the [[Void Mind]] are able to inject danger, it is small and isolated. 
 
 %% The below is meant to be one possible story. Outside of [[Alcarinque]], nothing is strictly canonical. See [[Historical Framework - Open Questions#Earliest Empires]] for some questions about the narrative below %%
+
 * The elves, while never very numerous, possessed great wisdom, exceptionally long lifespans, and a powerful command of magic. These traits made the elves the undisputed ruler of the time, and they founded two great empires. In the north, the kingdom of [[Alcarinque|Alcarinquë]]. grew to stretch from the forests south of [[Sentinel Range|Sentinels]] to the Mostreve Hills and the Cymean foothills. In the south, the kingdom of Tinwerquë spread from sea to sea in the tropical and subtropical forests south of the great savannahs of the interior.  %% Note: Tinwerquë is probably real but not definitively canonical? %%
 * The stoneborn, even less numerous than elves, and always reclusive, do not figure greatly in the stories that remain from these times. As always, the stoneborn hid away in their barren retreats, in the high peaks, the frozen north, and the depths of deserts. However, legends of great masters of art and craft, trained by the Stoneborn, demonstrate the mark they still made on the world.  
 * The lizardfolk remained largely in their homelands, in the vast coastal swamps of the southern [[Green Sea]], stretching from north of what is now the great desert all the way to the Sembaran lowlands.
@@ -78,31 +63,35 @@ The earliest years of history are dominated by the growth and learning of the fi
 
 %% This narrative is heavily northwestern parts of main continent focused, and we shouldn't forget that these non-humans probably spread over larger areas.  %%
 
+In general, this period should feel safe and secure. It is a good period to locate substantial non-human achievements.
+
 ## Creation of the Humans
 _1520 by the Dwarven Count of Years_
-%% Note this date is not strictly canonical but is a good approximation. Could vary by 500 years +/- but there does need to be enough time post-creation to allow the development of human religions prior to the fixed date of the Downfall %%
+%% Note this date is not strictly canonical but is a good approximation.  See [[Historical Framework - Discussions#Timing of Creation of Humans]] for background %%
 
-Humans were created in the year 1520 on the island of [[Hkar]], raised by the [[Divine Presence]] with the gift of the Divine Spark. Over the next 2500 years, humans grew powerful, and explored across the world, but the Void Mind also worked in the shadows, and eventually the conflict, if that is the right word, between the [[Divine Presence]] and the [[Void Mind]] ends in the [[The Downfall|Downfall]].
+The island of [[Hkar]] was raised by the [[Divine Presence]] to be the locus of creation and homeland of humanity, and humanity is created there. Humanity is something new, the first sentience race created with the [[Divine Spark]], the ability to imagine new gods and even [[Spiritual Realms]] into existence. The first humans are isolated on [[Hkar]], and they have little impact on the larger history of Taelgar or some time. But even in the earliest days, the [[Divine Spark]] of humanity beings to impact the wider [[Multiverse]].
 
-%% (TIM REVIEW): I think the basic framework of the period between the Riving and the Downfall as fundamentally a conflict between the Divine Presence and the Void Mind as to whether reality would continue to exist is sensible, but I want your feedback before establishing it as canon. The Downfall is a decisive defeat of the Void Mind, despite the cost, and it results in a future where the Void Mind has no hope of unmaking reality. %%
+%% Some consideration of how this plays out is discussed in [[Religious History of Taelgar]] %%
 
-After [[Humans|humanity]] is created, and granted the gift of the Divine Spark, the ability of their souls to work magic and shape the creation of new things in the multiverse. The hopes, dreams, fears, and nightmares of early humans gather force and power. Sometimes shaped by the best of humanity, other times by the twisted creations of the [[Void Mind]], the world in the Age of Creation is both a more vibrant and more dangerous place than in later times, and through the magic of the divine spark, eventually both [[Incorporeal Gods]] and diverse [[Outer Realms]] come into existence.
+Either at this point, or perhaps sometime after, the [[Void Mind]] creates [[Goblinoids]]. %% See [[Historical Framework - Open Questions#Creation of Hobgoblins]] %%
 
-Additionally, the Void Mind does more two things at this time:
-* During the [[Creation of Humans]], manages to [[Creation of the Hobgoblins|create the hobgoblins]]
-* Allows or creates cracks in the fabric of reality, allowing the mind flayers and other alien species an entrance into Taelgar 
+## Pre-Downfall History
+_1520 - 4122 by the Dwarven Count of Years_
 
-%% The exact timing of the Void Mind activities is not canonically determined, and is not necessarily linked to specific events%%
+The long period between the creation of humanity and the Downfall aligns with the grow and expansion of humanity, and in many ways the growth of humanity, and humanity's interaction with the non-human races, is the most important story of this period. The specific history of Hkar is intentionally left blank, although there are some events that are dated back to Hkar (in particular, the story of  [[Sarqon]] and the [[Chainshroud]] as recounted by the [[Philosopher's Information Concerning Binding Stones]]). Instead, it is best to understand the events on Hkar via the influences they had on religious history, and the migrations from Hkar (which then had significant effects on the development of other human cultures outside of Hkar).
 
-At some point during the Age of Creation - after the creation of humanity but before 3000 - the [[Embodied Gods]] of the [[Elder Folk]] sense a turn in the air, a feeling of coming darkness, a premonition, but lacking detail. 
+The history of the mainland of Taelgar in this period is largely blank. However, at some point - after the creation of humanity but before 3000 - the [[Embodied Gods]] of the [[Elder Folk]] sense a turn in the air, a feeling of coming darkness, a premonition, but lacking detail. 
 
 %%exact timing of the sense of forboding is not canonically determined, but the vibe is supposed to be a long period during which most elves discount the dangers predicted, or image it to be about the strange rumors of alien minds in the underdark. whether stoneborn/halflings/lizardfolk are impacted is left undetermined %%
 
 * Among the elves, warnings of danger from [[Elmerca]] begin, and while the elven empires turn to prepare for war, no dangers materialize. Over time, the influence of the ~Wardens of Elmerica~ fade, though the premonitions don't cease. The ~Wardens of Elmerica~ persist as a small, somewhat isolated group, warning of a great danger that never seems to come, while elven society seems to move on around and without them.
 * Among the Dwarves, the warnings begin among the ~Cult of the Warrior~, a small group who claim that the Bahrazel known as Azar, the ~Prophet~, is calling them to a new thuhr, a warrior thuhr, to defend the safety of the dwarven people. Dwarven society splits among those who turn to fortifications and defense, and those who wish to flee the mountains, for few dare to reject warnings of the ~Prophet~. For several generations, there is stasis, and debate, until the first wars between the mind flayers and the dwarves erupt deep beneath the earth. Many dwarves, who later become the gnomes, flee the mountains. Many others stay, and fortify their homes. The warrior thuhr becomes established as the defender of dwarven society, deep below the earth.  %% this is one version of events, could be edited / elaborated on; in any case the vibe is supposed to be that the underdark is dangerous but the surface world is not%%
 
-The later half of Age of Creation aligns with the grow and expansion of humanity, and in many ways the growth of humanity, and humanity's interaction with the non-human races, is the most important story of the age. The specific history of Hkar is intentionally left blank, although there are some events that are dated back to Hkar (in particular, the story of  [[Sarqon]] and the [[Chainshroud]] as recounted by the [[Philosopher's Information Concerning Binding Stones]]). Instead, it is best to understand the events on Hkar via the influences they had on religious history, and the migrations from Hkar (which then had significant effects on the development of other human cultures outside of Hkar).
-### Growth of Humanity
+Additionally, during this period, but without canonically determined dates:
+* [[Thark]] creates the [[Orcs]]
+* the [[Void Mind]] creates the [[Goblinoids]]
+* Cracks to the [[Far Realms]] appear, and [[Ithilids]] and other creatures being to invade the deeper and isolated parts of Taelgar
+#### Growth of Humanity
 *roughly 1520-2200, about 700 years*
 
 The first period of humanity on Hkar, is best thought of as the era of personal deities.  This period is characterized by:
@@ -161,7 +150,7 @@ In between these major waves of migration from Hkar, there are several smaller o
 
 It is likely that all migrations after the second wave are culturally cohesive groups, leaving Hkar in some part as a rebellion or in contrast to the growing magical, urban, pantheonic culture of Hkar. 
 ### Arcane Hegemony
-*roughly 3500-4122, about 600 years*
+*roughly 3500-4000, about 600 years*
 
 %% nothing is strictly canonical here %%
 
@@ -173,13 +162,48 @@ During this time:
 - Additional minor migrations, typically of small, culturally cohesive groups, leave Hkar, potentially in contrast/rebellion/disagreement with the growing arcane, urban hegemony on Hkar
 
 This era ends with the Downfall, the ~100 year war that sees the destruction of Hkar.
+## The Downfall
+_4000 - 4133 by the Dwarven Count of Years_
 
-%% some notes from Discord on the Downfall Wars
+The exact length of the Downfall Wars is not canonical, but it was likely at least two generations of humans. The Downfall itself occurred in CY 4122, but the period immediately before and after were a time of destruction and war. 
 
-1. When the Divine Presence creates Hkar + the humans, there is literally something metaphysical of themselves that is embedded in Hkar or a part of Hkar. This strengthens and empowers the divine spark in the humans. During the Downfall Wars, the agents of the Void Mind learn of this, and realize if they can possess and corrupt this whatever, they can destroy and corrupt everything that was imagined with the divine spark, perhaps even humanity itself, and dramatically weaken the Divine Prescene. End the ability to create, at some level. And although the battle is still raging, and the Void Mind forces haven't won, it is too much of a risk. And so the Divine Prescence takes back this whatever which sinks Hkar. And metaphysically, makes them farther away from Taelgar, and makes the creation of new gods harder, weakens divine magic.
-2. I think my idea of the vibe of the downfall based on this new idea of the void mind wanting to corrupt hkar is that "without our actions, hkar would have been overwhelmed, but ultimately without the sinking of hkar the war could never have ended". So basically, destruction of hkar was a necessary cost, but without the price paid by the firstborn, probably the armies that reached hkar would have achieved their goal and captured the divine spark or whatever before hkar could be destroyed. something like that
+The Downfall is a catacylismic event that restructures the very shape of the continents. It is a massive, total war between the [[Elder Folk]], lead by the elven empires, and the forces of the [[Void Mind]], lead by massive [[Hobgoblins|hobgoblin]] armies. Although the exact chronology is unclear, the end result is the sinking of [[Hkar]]. 
+
+The Downfall had diverse effects on all places and peoples of Taelgar, and is a good boundary to reset from an ancient, mythic past to "history". It saw significant collapse of almost all of the non-human empires, and marked:
+* The end of the age of elves and the continent spanning forest empires they had established
+ * The lizardfolk scatter, some staying in the remnants of the great swamps of the prior age, others finding new refuges in the changed world, and many leaving on a great migration to find a new homeland to the south. 
+- The dwarven kingdoms, especially those of the [[Sentinel Range|Sentinels]] retreat from their deepest depths and fortify the dark passages of the underdark, far below the surface, against the evils that still lurk in the shadows. Many dwarves found new cities above ground, and look to growing human kingdoms as trading partners. 
+* Loss of sustained contact with the "Southern" human culture, which, although canonical, did not play a meaningful role in the developments in western and central Taelgar
+
+It is possible that the Downfall had less cataclysmic effects in the [[Eastern Green Sea]] but in general canonical events should mostly avoid this period, to preserve narrative space for the Downfall Wars themselves to be developed in a future campaign.
+## The Drankorian Era
+_4133 - 5192 by the Dwarven Count of Years_
+
+The city of [[Drankor]] was founded in CY 4133 by refugees from [[Hkar]], and 
+
+
 %%
-## Age of Humanity
-_4122 - present by the Dwarven Count of Years_
+First, the basic Drankorian history: westward expansion is more a violent conquest than a slow assimilation, and many of the northerners are driven north and east during the advance, and the rest are more forcibly assimilated. This is much more "European conquest of the Americas" than "Romanization of Spain" (i.e. Sembara) -- but also the west coast is pretty sparsely populated overall pre-Drankor. The Drankorian expanse kind of peters out around Lake Valandros - they cannot push eastward into the elven / Deno'qai forests, because elves, and Mawar is established around this time as a defensible territory not worth Drankorian effort to attempt to conquer. Going further upriver from the lake stretches the empire, and once the cross-mountain trade routes are established momentum fades.
 
-The **Age of Humanity** begins in the cataclysm of the destruction of [[Hkar]] and the devastation this causes, and runs to the current day. This time encompasses the rise and fall of the [[Drankorian Empire]] and significant changes in the [[Western Green Sea]] and [[West Coast Region]], as well as the rise of the [[Dunmar|Dunmari]], the [[Great War]] and the defeat of [[Cha'mutte]], the [[Blood Years]], and the recovery and growth of humanity in the time after. 
+
+By the 4200s, the Skaer have established themselves as the dominant mariner culture in the western Green Sea, and resettle Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the Semb, raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.  
+  
+In 4491, the Drankorians reach the Mostreve Hills, and over the next 50ish years the Drankorians assimilate the inland people of Sembara and push the Skaer out, bringing with them the Mos Numena and the Drankorian influence.  
+  
+In 4547, the Drankorians and the Skaer sign a peace treaty, establishing the Volta as the frontier of the Drankorian Empire. Tollen, on the north side of the Volta, remains technically outside the Drankorian territorial claim. However, the Skaer are forbidden from bringing ships up the Volta, and Tollen falls outside their sway and comes under the influence of Drankor. While technically Tollen takes the name of the Free City of Tollen during this time, the Drankorian Empire controls its foreign policy as a protectorate.  
+%%
+
+## The Fall of Drankor
+_5192 by the Dwarven Count of Years_
+
+## The Rise of Cha'mutte
+_5192 - 5678 by the Dwarven Count of Years_
+
+## The Great War
+_5678 by the Dwarven Count of Years_
+
+## The Blood Years
+_5678 - 5786 by the Dwarven Count of Years_
+
+## The Present Day
+_Since 5786 by the Dwarven Count of Years_
