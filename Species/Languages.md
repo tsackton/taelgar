@@ -1,13 +1,11 @@
 ---
-tags: [background, status/check/mike, status/cleanup/external]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 ---
 # Languages 
 
-%% setting languages to joint %%
-%% there is a lot of discord discussion about language families. most has, i believe, been incorporated below, so maybe status/cleanup/external is unnecessary. might be worth keeping a note at the top to indicate there are reasons for some decisions below in external notes, if we don't want to try to copy the whole discussion. %%
-
+%% See [[Language - Discussions]] for background %%
 
 The common languages of Taelgar spoken by [[Humans|humans]] and the [[Elder Folk]] all derive from the original languages spoken by the first of each species to awaken. For [[Dwarves|dwarves]], [[Elves|elves]], [[Halflings|halflings]], [[Stoneborn|stoneborn]], and [[Lizardfolk|lizardfolk]] this original language has not changed since the dawn of time. For humans, the original tongue has been split and fractured into different language families over the long history of human settlement and migration.
 
@@ -28,7 +26,7 @@ This section is intended to be both canonical and sufficiently vague as to not b
 * Mariner Migration = Eastros
 * Downfall Refugees = Drankorian
 
-Minor migrations, such as the Dunmari, potentially unique histories, and may or may not fit into one of the language families above.
+Minor migrations, such as the Dunmari, have potentially unique histories, and may or may not fit into one of the language families above.
 
 When determining real-world language analogues:
 * Northos in general uses Semitic languages
@@ -66,9 +64,7 @@ After the fall of the Drankorian Empire, the Drankorian language developed into 
 
 _Real world analog: Drankorian and its language family is broadly based on Hellenic and Romance languages, with some small variations_
 ##### Drankorian
-The ancient language spoken across the [[Drankorian Empire]], now preserved as a scholarly language. Although spoken conversation in Drankorian is rare, many scholarly and literary works are written in Drankorian.
-
-%% Over the past 150 years, since the Great War, Drankorian has declined significantly in use as a scholarly language, and many treatises are now written in Chardonian. While many scholars still learn Drankorian, it is no longer a common diplomatic and literary language%%
+The ancient language spoken across the [[Drankorian Empire]], now preserved as a scholarly language. Although spoken conversation in Drankorian is rare, many scholarly and literary works are written in Drankorian. Over the past 150 years, since the Great War, Drankorian has declined significantly in use as a scholarly language, and many treatises are now written in Chardonian. While many scholars still learn Drankorian, it is no longer a common diplomatic and literary language. 
 
 _Real world analog_: Classical Latin; occasional Classical Greek loan words
 _Alphabet_: Drankorian is written using the Drankorian alphabet
@@ -159,7 +155,7 @@ The ancient language of Tollen and the Vostok and Sembaran coasts. A precursor t
 ##### Zimkovan
 A group of related languages and dialetics spoken in the highland kingdoms of [[Ardlas]], [[Breva]], and [[Lavnoch]]. It is commonly spoken in the rest of Zimkova as well. It is descended from Old Tollish, but was significantly influenced by Sembaran and Drankorian.
 
-*Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (Old Zimkovan). 
+*Real world mapping*:  Baltic (Lithuanian or Latvian), although with some loan words from Maltese (~Old Zimkovan~). 
 _Alphabet_: Written using the Drankorian alphabet. 
 ##### Sembaran
 A number of mutually understandable languages and dialects spoken in Sembara, Tyrwingha, and Addermarch. Sembaran, although preserving grammatical structures from Old Tollish, adapted most of its current day vocabulary from Drankorian, as well as an alphabet. Southern Sembaran has more Drankorian influences, whereas Northern Semabaran has more Eastros influences.
