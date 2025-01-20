@@ -239,11 +239,11 @@ i think the "default" metaphysics is that it is a one way journey, where souls a
 
 
 [2/2/2024 2:24 PM] .deciusmus
-How does this relate to the Plane of Souls/Plane of Consicousness?
+How does this relate to the [[Plane of Souls]]/Plane of Consicousness?
 
 
 [2/2/2024 2:25 PM] rsulfuratus
-not entirely clear, although plane of souls is some kind of manifestation of living souls only
+not entirely clear, although [[plane of souls]] is some kind of manifestation of living souls only
 
 
 [2/2/2024 2:25 PM] .deciusmus
@@ -263,7 +263,7 @@ right
 
 
 [2/2/2024 2:28 PM] rsulfuratus
-i think the distinction between primal realms and divine realms in my notes is kind of obselete. the basic idea is that the spiritual realms are divided into the proximate realms (dreamworld, plane of souls, astral plane, whatever else) and the outer planes, and those are divided by the land of the dead
+i think the distinction between primal realms and divine realms in my notes is kind of obselete. the basic idea is that the spiritual realms are divided into the proximate realms (dreamworld, [[plane of souls]], astral plane, whatever else) and the outer planes, and those are divided by the land of the dead
 
 
 [2/2/2024 2:29 PM] rsulfuratus
@@ -275,7 +275,7 @@ where does primal magic come from?
 
 
 [2/2/2024 2:29 PM] rsulfuratus
-and in some sense the plane of souls, astral plane, and the dreamworld might all be kind of part of the same metaphysical thing
+and in some sense the [[plane of souls]], astral plane, and the dreamworld might all be kind of part of the same metaphysical thing
 
 
 [2/2/2024 2:29 PM] rsulfuratus
@@ -327,6 +327,6 @@ Alternatively, why does the (somewhat odd) D&D rule of primal magic actually hav
 
 
 [2/2/2024 2:38 PM] rsulfuratus
-yeah, maybe. kyr's magic eventually ended up coming from the plane of consciousness in some sense, although metaphysics have shifted a bit since then
+yeah, maybe. kyr's magic eventually ended up coming from the [[Plane of Souls|plane of consciousness]] in some sense, although metaphysics have shifted a bit since then
 
 
