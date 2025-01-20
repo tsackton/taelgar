@@ -1,3 +1,10 @@
+---
+tags: [background, status/check/tim, status/needsupdate/wip]
+dm_owner: joint
+dm_info: none
+---
+
+%% Tim to check this belongs in Background %%
 
 Some rough notes trying to synchronize and make canonical some basic rough notes about the various human people of Taelgar. Most of these groups still need names, and there is plenty of room for more subdivisions within most of these.
 

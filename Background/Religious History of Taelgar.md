@@ -1,3 +1,11 @@
+---
+tags: [status/needswork/shared, status/check/tim]
+dm_owner: joint
+dm_notes: none
+---
+
+%% Although not necessarily canonical entirely, this is worth keeping in background rather than worldbuilding, I think, as it is, if nothing else, the basis of what we are developing against %%
+
 This note tries to draw together various strands of worldbuilding related to religious history into a cohesive outline. 
 
 The starting point here is drawing from the fundamental metaphysics of humanity: they are created by the high gods, [[Divine Presence|Arhat]] and [[Divine Presence|Malik]], and imbued with the divine spark that lets their belief shape and create divinity from the magical essence of spiritual planes / the creator gods / whatever mysterious force is the cause of divine magic in the world. However, the creator gods themselves are very much not active in the world: while they are the source, ultimately, of divine magic, they do not answer prayers or grant miracles. Let undecided is whether this is because they cannot or because they do not want to or for some other reason; at some point will need to work this out in the context of the "high god religion".

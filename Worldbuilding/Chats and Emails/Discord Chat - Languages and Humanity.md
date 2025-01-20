@@ -1373,7 +1373,7 @@ for now I don't think this needs to be developed too much beyond what is in the 
 [7/13/2024 12:55 PM] .deciusmus
 Right so from a linguistic standpoint, there are three ways to write this:
 
-(a) just leave Vosic out of the languages doc entirely, i.e. put some notes in %% but don't publish it for my players. They won't care
+(a) just leave Vosic out of the languages doc entirely, i.e. put some notes in %% %%but don't publish it for my players. They won't care
 (b) canonically define at least 2 Vos languages (Southern Vosic and Northern Vosic perhaps with better names) Souther = Eastros, Northern = Nrothros
 (c) defined Vosic as "a collection of languages spoken in the Vostok region with a range of influences"
 
