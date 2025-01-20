@@ -1,8 +1,10 @@
 ---
-tags: [background]
-dm_owner: shared
-dm_notes: important
+tags: [background, status/check/tim]
+dm_owner: joint
+dm_notes: none
 ---
+
+%% Tim - does this read as reasonable canonical to you? %%
 
 This note tries to draw together information from various sources to form a semi-canonical history of humanity in the Greater Sembaran region, intended to inform development of Sembara, Tyrwingha, Maseau, Addermarch, Tollen, Zimkova, and Vostok. Sections in %% notes %% should not be considered canonical. The rest generally is, although this specific background doc is not meant as direct world lore. 
 
@@ -58,9 +60,9 @@ By the year 4400, as the Drankorian expansion begins in the south, there are sev
 
 Again, Vostok is unclear. This would be an opportune time for interesting things to be happening in Vostok. The coastal Vostok culture at this time is likely dominated by the Skaer.
 ## Coming of Drankor
-Between 4475 and 4535 (330s - 400s, DR) Drankor rapidlly expands north, and the Istabor Valley, Cymea, and Sembara and settled by the rapidly growing Drankorian population.
+Between 4475 and 4535 (330s - 400s, DR) Drankor rapidlly expands north, and the Istabor Valley, Cymea, and Sembara are settled by the rapidly growing Drankorian population.
 
-In Istabor and Cymea there are few humans as these lands were once part of the great non-human empires. The Drankorian culture dominates here. North of the Mostreve Hills, however, the Drankorians encounter the Tollish/Zimka culture, and the coastal people with a more purely Tollish/Skaer culture (%% potentially worshipping different gods than the kestavo %%)
+In Istabor and Cymea there are few humans as these lands were once part of the great non-human empires. The Drankorian culture dominates here. North of the Mostreve Hills, however, the Drankorians encounter the Tollish/Zimka culture, and the coastal people with a more purely Tollish/Skaer culture (%% potentially worshipping different gods than the kestavo ? %%)
 
 The Skaer Empire largely fades away, from a combination of Drankorian pressure and internal politics, and by 4535, the cultural landscape looks like:
 
@@ -72,14 +74,19 @@ The Skaer Empire largely fades away, from a combination of Drankorian pressure a
 * A Tyrwinghan culture, spreading somewhat into Addermarch as well, increasingly urbanizing and adopting some Drankorian ways, but with its own unique language and cultural identity
 
 Vostok? It feels like perhaps the coastal Tollish culture is spreading into near southern Vostok here? But interior Vostok is pretty unexplored in the above.
-
 ## Fall of Drankor
 For 600-700 years, Drankor rules the Sembaran Provinces in (mostly) peace, and the culture evolves during this time, especially along the borders. 
 
 * In the north, the Zimka increasingly remain kestavan worshippers, and the "old" and "new" Zimka increasingly intermingle and reunify. The Eastros-based language comes to dominate, although some small pockets of Old Zimka remain, especially in a ritual context, and many of the kestavo have Old Zimka names. 
 * In the central Sembaran provinces, the intercessionist form of Mos Numena develops and a broad Sembaran culture starts to form
 * In Tyrwingha, there is much intermixing with the Sembaran culture, but a strong traditionalist attitude as well, and the Tyrwinghan language remains common in rural areas, but the Sembaran form of worship is adopted with some small Tyrwinghan flavors
-* Maseau and the Istabor Watershed increasingly develops a l
+* Maseau and the Istabor watershed increasingly develop a very Drankorian culture, with closer ties to Drankor itself
+
+%% The Istabor watershed in particular is not well developed here and this should be not considered canon; the main point is that Maseau is fairly culturally distinct from the main Sembaran provinces, and is more purely Drankorian %%
+
+## The Great War and Rise of Sembara
+
+
 
 ## The Modern Era
 
