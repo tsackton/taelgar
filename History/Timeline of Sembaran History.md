@@ -1,15 +1,12 @@
 ---
-tags: [background, status/needswork/old, status/cleanup/external, status/check/mike]
+tags: [background, status/needswork/old, status/cleanup/external]
 displayDefaults: {defArt: a}
-campaignInfo: []
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
 dm_owner: joint
-dm_notes: important
+dm_notes: none
 ---
 %% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up %%
-
-%% does this need dm_notes: important? or better captured just by cleanup/external? that is, do you have unshared notes on Sembaran history overall that would be worth capturing?%%
 ## The Drankorian Conquest
 DR 300 - DR 431
 
@@ -67,6 +64,8 @@ The intention is that in 1400, there is broadly:
 
 ## The Unification
 DR 1400 - DR 1462, 7 Dominick IV - 34 Derik I
+
+%% See [[Cleenseau History Notes]] for some details on how this and later sections played out in Cleenseau. It should be consitent but continuity errors should be resolved in favor of Cleenseau History Notes %%
 ### Overview
 By the 1400s, a number of regional powers had started to emerge on the borders of [[Sembara]]. In the northwest, from the broad lands of [[Zimkova]], the realm of [[Lavnoch]] has emerged from the collapse of the short lived [[Zimkova|Unifed Crown of Zimkova]]. 
 
@@ -160,6 +159,7 @@ Over the next 20 years, Sembara remains a strong and united kingdom as various c
 ## The Blood Years
 DR 1545 - DR 1574; 26 Derik III - 7 Wissym I
 
+%% See [[Cleenseau History Notes]] for some details on how this and later sections played out in Cleenseau. It should be consitent but continuity errors should be resolved in favor of Cleenseau History Notes %%
 ### Overview
 
 ###

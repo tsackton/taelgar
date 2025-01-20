@@ -16,10 +16,10 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 
-%% a fair bit of discussion in discord, but not sure how much of it is (a) relevant, (b) not already captured in [[A Synthesis of Humanity in Greater Sembara]] or [[Languages]] %%
+%% a fair bit of discussion in discord, but not sure how much of it is (a) relevant, (b) not already captured in [[Humanity in Greater Sembara]] or [[Languages]] %%
 
 %% some details to flesh out:
-- with the rework of the Zimkova and the peopling of this region, this needs to be updated to better reflect the cultural connections and divisions, e.g. [[A Synthesis of Humanity in Greater Sembara]]
+- with the rework of the Zimkova and the peopling of this region, this needs to be updated to better reflect the cultural connections and divisions, e.g. [[Humanity in Greater Sembara]]
 - some details of the wall, primarily a name, need to be filled in from Vimfrost's War, along with details of the history with Sembara / Derik III
 %%
 
