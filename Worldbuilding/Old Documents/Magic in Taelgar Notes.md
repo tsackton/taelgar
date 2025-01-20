@@ -85,7 +85,7 @@ Other magic users draw energy from the wild chaos of the Plane of Magic itself, 
 
 ### Other Magic
 
-Rumors abound of magical energy drawn from the Plane of Consciousness, sometimes called the Plane of Souls, power that can be used to manipulate the world with mental force alone. The ki of monks, for example, represents this kind of power. 
+Rumors abound of magical energy drawn from the [[Plane of Souls|Plane of Consciousness]], sometimes called the [[Plane of Souls]], power that can be used to manipulate the world with mental force alone. The ki of monks, for example, represents this kind of power. 
 
   
 
