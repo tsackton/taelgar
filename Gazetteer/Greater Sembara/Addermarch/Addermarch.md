@@ -60,7 +60,7 @@ To the south, Addermarch is bordered by the high ridge of the [[Mostreve Hills]]
 
 Addermarch was settled long ago, by a people closely related to the ancient Tyrwinghans. Before the [[The Downfall|Downfall]], [[Tyrwingha]] and Addermarch were part of a shared patchwork of petty kingdoms, settled in the highlands of the [[Mostreve Hills]] above the great, ancient lizardfolk swamps of the lowlands. However, Addermarch is outside the boundaries of the [[Archfey Ethlenn]]'s influence, and as Tyrwingha grew closer to the fey, the fate of the two realms diverged. 
 
-%% [[A Synthesis of Humanity in Greater Sembara]]; also consider possibility that many early settlers to Addermarch are explicitly exiles from Tyrwingha, or people who reject the deal with Ethlenn %%
+%% [[Humanity in Greater Sembara]]; also consider possibility that many early settlers to Addermarch are explicitly exiles from Tyrwingha, or people who reject the deal with Ethlenn %%
 
 After the [[The Downfall|Downfall]], as the [[Drankorian Empire]] grew to the south, dark things also crept into the woods to the south, no longer guarded or watched so closely by the elves, and the great forests on the southern slopes of the [[Mostreve Hills]] became known as the [[Darkwood]]. The people of Addermarch built standing stones to protect against incursions from the [[Feywild]], and watched their borders closely. 
 
