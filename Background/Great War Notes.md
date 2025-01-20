@@ -1,7 +1,8 @@
 ---
 tags: [background]
-dm_owner: shared,tim
+dm_owner: joint,tim
 dm_notes: important
+excludePublish: ["all"]
 ---
 
 %% private notes are all paper / in a box so may not be relevant %%

@@ -1,7 +1,8 @@
 ---
-tags: [background, status/needswork/shared]
-dm_owner: shared,mike
+tags: [background, status/needswork/gameupdate]
+dm_owner: joint,mike
 dm_notes: important
+excludePublish: ["all"]
 ---
 
 %%  I have some notes from recent developments in game around Ethlenn's powers - mostly this is based on discord conversations but I have a few refinements %%
