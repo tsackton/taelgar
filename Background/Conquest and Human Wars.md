@@ -2,6 +2,7 @@
 tags: [background, status/check/tim]
 dm_owner: joint
 dm_notes: none
+excludePublish: ["all"]
 ---
 
 This document outlines a few guidelines and thoughts on war and conquest in Taelgar. 

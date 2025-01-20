@@ -2,6 +2,7 @@
 tags: [meta]
 dm_owner: joint
 dm_notes: none
+excludePublish: ["all"]
 ---
 # Typology for Introducing D&D Creatures
  

@@ -2,6 +2,7 @@
 tags: [background, status/check/tim]
 dm_owner: joint
 dm_notes: none
+excludePublish: ["all"]
 ---
 
 %% Tim - does this read as reasonable canonical to you? %%

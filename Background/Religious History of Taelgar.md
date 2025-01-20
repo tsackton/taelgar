@@ -2,6 +2,7 @@
 tags: [status/needswork/shared, status/check/tim]
 dm_owner: joint
 dm_notes: none
+excludePublish: ["all"]
 ---
 
 %% Although not necessarily canonical entirely, this is worth keeping in background rather than worldbuilding, I think, as it is, if nothing else, the basis of what we are developing against %%

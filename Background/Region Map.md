@@ -2,6 +2,7 @@
 tags: [background/map]
 dm_owner: none
 dm_notes: none
+excludePublish: ["all"]
 ---
 
 
