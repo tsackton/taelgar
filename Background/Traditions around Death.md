@@ -1,9 +1,15 @@
 ---
-dm_owner: shared
-dm_notes: important
+tags: [background, status/check/tim]
+dm_owner: joint
+dm_notes: none
+excludePublish: ["all"]
 ---
 
-This brainstorming document collects not-yet-fully-developed thoughts on funerary traditions across Taelgar. For more canonical information, see:
+%% Tim to confirm this is "good enough" that it should be in background rather than brainstorming %%
+
+**WARNING: THIS DOCUMENT IS SHOULD NOT BE CONSIDERED FULLY CANONICAL**
+
+This document collects not-yet-fully-developed thoughts on funerary traditions across Taelgar. For more canonical information, see:
 * [[Dunmari Religious Practice#Funerals|Dunmari tradition]]
 * [[Sembaran Funerary Traditions]]
 * [[Tyrwinghan Funerary Traditions]]

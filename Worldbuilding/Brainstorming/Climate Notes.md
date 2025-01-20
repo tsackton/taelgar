@@ -1,10 +1,8 @@
 ---
-tags: [background, status/check/mike]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 ---
-
-%% you probably don't have any non-shared climate notes, but tagging status/check/mike to check %%
 # Climate in Taelgar
 
 This page collects brainstorming and background notes on climate in Taelgar. Note that the [[Climate Map|climate map]] should be considered definitive if it conflicts with this page.

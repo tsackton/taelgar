@@ -1,5 +1,19 @@
 This page captures some of the reasoning behind decisions in the [[Historical Framework]] document, and also captures some of our older thinking that has since been discarded.
 
+The primary chat that clarified a lot of this is [[Discord Chat - Deep History]]. Some additional information is found in:
+
+* [[Age of Myth - Old Version]]
+* [[Age of Divinity - Old Version]]
+* [[Age of Humanity - Old Version]]
+* [[Discord Chat - Deep History]]
+* [[Discord Chat - Multiverse]]
+* [[The Riving - Old Version]]
+* [[Discord Chat - Languages and Humanity]]
+* [[Divine Order]]
+* [[Email - Brief Thoughts on Elder Races]]
+* [[History of Humanity Notes]]
+* [[Human Cultures of Taelgar]]
+
 ### Names of "Ages"
 Some earlier brainstorming referred to these eras as "the Age of Myth", "the Age of Creation", and "the Age of Humanity", but we have largely decided to avoid the Tolkien-esque "Ages of the World" framing.  In general, early versions of this history, although unique, suffered from a Tolkien-esque vibe and language that we are now trying to mostly avoid. 
 
@@ -24,3 +38,9 @@ There are some important considerations to the structure of "period 2" here thou
 
 This vibe should be preserved, but without the implication that (a) the creation of humanity is a fundamental turning point and (b) that the Divine Presence created humanity because the world was too boring.  The important thing to preserve is this idea that whatever the overall scope of conflict between the Void Mind and Divine Presence in this period, there was a long and significant period when the elves, halflings, lizardfolk, dwarves, and stoneborn were simply growing without significant conflict.
 
+## Timing of Creation of Humans
+In general, the creation of humans needs to be serve two goals.
+* There needs to be enough time before it so that the Elder Folk have had time to grow large empires and also to have forgotten creation itself
+* There needs to be enough time after it for the many developments of human culture and religion
+
+There are some thoughts in [[Demographic Modeling]]. A date of 1520 is somewhat arbitrary, but it probably can't be much sooner than 1400 or later than 1900.

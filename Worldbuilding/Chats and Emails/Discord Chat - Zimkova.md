@@ -6,7 +6,7 @@ A couple of random topics.
 
 I don't think there is much we've defined anywhere about them right?
 
-My immediate goal is to come up with a better name - I think the entire greater Sembaran region needs a name and then the highland kingdoms can be "the <whatever name> highlands" (to distinguish from <whatevername> lowlands, which is Sembara + Tyrwingha + Maseau + Addermarch)
+My immediate goal is to come up with a better name - I think the entire greater Sembaran region needs a name and then the highland kingdoms can be "the whatever name highlands" (to distinguish from whatevername lowlands, which is Sembara + Tyrwingha + Maseau + Addermarch)
 
 
 [11/21/2023 1:30 PM] .deciusmus

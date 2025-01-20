@@ -1,9 +1,3 @@
----
-tags: [background]
-dm_owner: joint
-dm_notes: none
----
-
 NOTE: This is an older version of [[Timeline of Sembaran History]] which should be considered more canonical than this; there is still some aspects that are not incorporated into the newer document.
 
 ## The Great War

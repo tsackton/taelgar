@@ -1,10 +1,4 @@
----
-tags: [status/needswork/old, background]
-dm_owner: shared,tim
-dm_notes: important
----
-
-%% NEEDS CLEANUP %%
+%% Obsolete version %%
 
 %% some cosmology in my dm folder impinges on this a bit %%
 ## The Long Breath

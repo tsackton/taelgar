@@ -1,10 +1,5 @@
----
-tags: [status/needswork/old, background]
-dm_owner: shared,tim
-dm_notes: important
----
 
-%% NEEDS CLEANUP %%
+%% NEEDS CLEANUP - likely mostly obsolete and least in key parts %%
 
 ## The Third Age
   
