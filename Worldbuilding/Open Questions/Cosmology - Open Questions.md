@@ -14,6 +14,14 @@ However, this raises a number of open questions:
 	- The connection to soul sight (Kenzo) is a bit tricky here too, since my inclination has been to allow that work on essentially everybody. But maybe it isn't actually reading anything from the Plane of Souls and that is just a shorthand. 
 - Ultimately, I think for worldbuliding and other reasons it is important that there be limits and barriers to divine power on the Inner Planes side of the Land of the Dead. However, maybe the premise is wrong, and divine power is not exclusively manifest via the Plane of Souls - that might just be what certain religions teach, or maybe even what the Incorporeal and Embodied Gods believe (leaving open the possibility that the fey have an alternate way to access the magic of the Plane of Creation directly, for example). In this case, there has to be another limit, or perhaps more accurately a different way than the Plane of Souls to provide a conduit for the magic of creation to flow into the inner planes. 
 
+%% Mike - adding some thoughts %%
+##### Divine Power in Taelgar - Discussion
+First thought: the rules of D&D, and in particular the classification of magic into divine/primal/arcane, should only drive the world building so far. Perhaps if we were building a Taelgar RPG, the differences between different types of magic would be encoded in the rules, but I'm not sure the fact that a fey cleric exists needs to imply that the fey can access the plane of creation at all. 
+
+Second thought: Yendalism seems more right to me than "only those on the material plane have souls".
+
+Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the plane of creation via the Dreamworld? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
+
 ## Spiritual Realms
 
 
