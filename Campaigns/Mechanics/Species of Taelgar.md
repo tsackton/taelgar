@@ -1,7 +1,7 @@
 # Species of Taelgar
 
 Taelgar is a world inhabited by many diverse [[species]], many of which are appropriate options for player characters. The following species, described in brief, are well-known by most people in Taelgar. Species that are player options are marked with a ******* .
-### Standard Species
+## Standard Species
 
 There are 13 species that most anyone on Taelgar has likely heard of, although most common people of the world will likely have only met a few non-humans, unless they live in a large, cosmopolitan city. 
 
@@ -31,7 +31,7 @@ There are 13 species that most anyone on Taelgar has likely heard of, although m
 
 ***Bugbears***:
 
-### The Fey
+## The Fey
 
 Of all the many planes in the multiverse, the [[Feywild]] is by far the most accessible from, and connected to, the material world. Travelers cross into, and out of, the Feywild at portals scattered around Taelgar, and visitors from the Feywild are, if not a common sight, relatively unsurprising. The people of the Feywild are diverse, magical, and strange; those that are playable species options in Taelgar are detailed below. 
 
@@ -45,7 +45,7 @@ Of all the many planes in the multiverse, the [[Feywild]] is by far the most acc
 
 ****Fairies***: Diminutive fairies, small flying fey of which sprites and pixies are the most well known, commonly cross the boundaries of the worlds, to make mischief or bring joy, but are rarely seen by humans or other big folk unless they wish to be spotted. Many human superstitions of the fey trace their origin to the actions of the fairies. 
 
-### Unusual Species
+## Unusual Species
 
 Legends and rumors speak of other, stranger species in the world of Taelgar. Sailors tell tales of  merfolk who live beneath the waves, dwarves mutter about the brain-eating mind flayers that hide deep underground, and legends speak of larger than life giants who build massive fortresses with ancient magic. Few of these species are playable options in Taelgar, but three exceptions are detailed below. These options are not appropriate for all campaigns, and people of these species will often be greeted with fear, suspicious, and disbelief. 
 

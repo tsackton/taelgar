@@ -31,7 +31,7 @@ DM frontmatter for worldbuilding pages is not critical, but can be helpful so wo
 
 ```dataview
 TABLE join(split(file.path, "/", 2),"/") as Folder, length(file.inlinks) as Backlinks
-FROM "Worldbuilding" AND !"Worldbuilding/High School Notes"
+FROM "Worldbuilding/Brainstorming" OR "Worldbuilding/Tentative"
 where !dm_owner or !dm_notes
 sort join(split(file.path, "/", 2),"/"), length(file.inlinks) desc
 ```

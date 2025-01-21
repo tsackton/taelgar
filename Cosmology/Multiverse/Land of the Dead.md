@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/gameupdate]
+tags: [place]
 name: Land of the Dead
 aliases: [River of Souls]
 whereabouts: 
@@ -14,19 +14,10 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
-%%
- some vague ideas about the metaphysics of how the land of the dead / river of souls limits and affects divine power in the world, but nothing well formed enough to tag as a status tag; this is also probably irrelevant for most games. Also have some color notes about the River of Souls and how it appears to the dead, although this will vary by  person and culture so there does not need to be a canonical description.
-
-Updating to add many important additional notes about metaphysics of traveling to the Land of the Dead to add
-
-%%
-
 %% TO DO %%
 
 %%
 
- - [ ] Find and link discussion about resurrection magic
  - [ ] Rewrite page in the in-world style of other Cosmology pages
  - [ ] Add a Dunmar Frontier campaign section with notes on traveling to the Land of the Dead
  
@@ -41,7 +32,6 @@ The Land of the Dead also serves as the veil that separates the divine realms fr
 %%^Campaign:none%%
 
 The Land of the Dead has a number of important impacts and details.
-
 ### Resurrection Magic
 
 *These are guidelines for how resurrection magic interactions with the journey of the soul.*
@@ -50,6 +40,12 @@ The Land of the Dead has a number of important impacts and details.
 - _Raise Dead_, _Reincarnate_, and other spells that have a 10 day limit can retrieve a soul from the Land of the Dead and restore it to the body (or a new body), but cannot find a soul that has passed beyond the Land of the Dead into the Spiritual Realms beyond, or a soul that has faded from existence. Note the key limitation of these spells is the Land of the Dead component, and while this should typically take 10 days (this is the traditional understanding of the length of the journey of the soul in most religions), it can be longer or shorter depending on the in-world context. 
 - _Resurrection_ or _True Resurrection_ or _Wish_ are the only spells that can bring back the dead once the soul has passed on beyond the Land of the Dead, and of these only the 9th level spells can restore a soul that has faded from existence, because for example it was not taken up into any of the [[Spiritual Realms]]. The time restrictions in these spells is not related to the journey of the soul, and should be interpreted in-world more as limitation on what magic can do, in my opinion. 
 
+## Travel to the Land of the Dead
 
+- To use Plane Shift to travel to the Land of the Dead requires as a material component the body of a person whose soul is currently in the Land of the Dead (so generally someone dead < 10 days). 
+- It is dangerous to remain in the Land of the Dead for long. You cannot benefit from a long rest, and you cannot eat, drink, or sleep (but this does not prevent you from getting tired, hungry, and thirsty). So anyone trapped in the Land of the Dead will quickly die, usually from dehydration. Even if you somehow avoid these more mundane dangers, time in the Land of the Dead saps the will of the living to live, and eventually everyone who is trapped here dies. What happens to your body if you die in the Land of the Dead is not clear (it isn't like there are bacteria or scavengers for it to decompose; probably the [[Gidari]] deal with it somehow). 
+
+Relevant open questions:
+- [[Cosmology - Open Questions]]
 
 %%^End%%
