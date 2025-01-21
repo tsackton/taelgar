@@ -13,6 +13,14 @@ See [[Historical Framework - Open Questions]] for some unresolved topics. See [[
 
 See also [[Canonical Events]] for a listing of key dates that are considered canonical. 
 
+There are several broad regions that have their own detailed histories, which allow for more focus and detail, but which should be consistent with this narrative:
+
+* [[Historical Framework of the Western Green Sea]]
+* [[Historical Framework of Greater Sembara]]
+* [[Historical Framework of the Dunmari]]
+* [[Historical Framework of the West Coast]]
+
+Further regional histories could be developed as needed. 
 ## Overview
 The historical framework of Taelgar is organized around five major events, some destructive, some creative, which punctate the timeline:
 * [[Riving|The Riving]], the moment time began, and the [[Multiverse#The Creation of the Multiverse|multiverse was created]]
@@ -24,7 +32,7 @@ The historical framework of Taelgar is organized around five major events, some 
 ## Before the Riving
 _Before time_
 
-osmology was much simpler than after the Riving. Only the [[Material Plane]], the [[Plane of Magic]], the [[Plane of Creation]], and the transitive connecting planes (the [[Astral Plane]] and [[Ethereal Plane]]) existed. The exact configuration of these planes is unclear and there is no canonical answer; the key point is that the other planes did not exist, not that these planes existed in some particular form. %% Previous invention suggested that perhaps there was only an undifferentiated "plane" that included the plane of magic and the material plane, but a canonical answer does not exist, and is probably not needed %%
+Cosmology was much simpler than after the Riving. Only the [[Material Plane]], the [[Plane of Magic]], the [[Plane of Creation]], and the transitive connecting planes (the [[Astral Plane]] and [[Ethereal Plane]]) existed. The exact configuration of these planes is unclear and there is no canonical answer; the key point is that the other planes did not exist, not that these planes existed in some particular form. %% Previous invention suggested that perhaps there was only an undifferentiated "plane" that included the plane of magic and the material plane, but a canonical answer does not exist, and is probably not needed %%
 
 Prior to the [[Riving]] time itself did not exist, and therefore events are hard to describe. However, some key points of this period:
 
@@ -64,7 +72,6 @@ The earliest years of history are dominated by the growth and learning of the fi
 %% This narrative is heavily northwestern parts of main continent focused, and we shouldn't forget that these non-humans probably spread over larger areas.  %%
 
 In general, this period should feel safe and secure. It is a good period to locate substantial non-human achievements.
-
 ## Creation of the Humans
 _1520 by the Dwarven Count of Years_
 %% Note this date is not strictly canonical but is a good approximation.  See [[Historical Framework - Discussions#Timing of Creation of Humans]] for background %%
@@ -133,7 +140,7 @@ Amidst the cultural, religious, and social upheavals spiraling from contact with
 
 At the beginning of this period, around 2500, the first humans leave Hkar (the [[~Northerners~]], in later parlance). The reasons for this are undefined and unclear, but:
 * These migrants are not explorers or colonists, but settlers. That is, they do not have a lot of contact back with Hkar %%although some exceptions might exist%%
-* They land first on the southwestern coast, near modern-day Illoria, and spread north on the western side of the [[Sentinel Range|Sentinels]], before crossing the mountains in the far north and spreading east. They bring with them a variety of [[Northern Folk Religions]], all derived from the common religious practices.
+* They land first on the western coast - perhaps [[Apporia]] or [[Illoria]], but perhaps as far north as the [[~North Chardon Coast~]] - and spread north on the western side of the [[Sentinel Range|Sentinels]], before crossing the mountains in the far north and spreading east. They bring with them a variety of [[Northern Folk Religions]], all derived from the common religious practices.
 * This first wave of migrants peaks around 2800, and declines quickly after that. 
 * This is probably associated in part with a cultural/religious transition on Hkar, such that there are few/no worshippers of "small gods" left on Hkar after about 2800-2900. 
 
@@ -171,39 +178,99 @@ The Downfall is a catacylismic event that restructures the very shape of the con
 
 The Downfall had diverse effects on all places and peoples of Taelgar, and is a good boundary to reset from an ancient, mythic past to "history". It saw significant collapse of almost all of the non-human empires, and marked:
 * The end of the age of elves and the continent spanning forest empires they had established
- * The lizardfolk scatter, some staying in the remnants of the great swamps of the prior age, others finding new refuges in the changed world, and many leaving on a great migration to find a new homeland to the south. 
-- The dwarven kingdoms, especially those of the [[Sentinel Range|Sentinels]] retreat from their deepest depths and fortify the dark passages of the underdark, far below the surface, against the evils that still lurk in the shadows. Many dwarves found new cities above ground, and look to growing human kingdoms as trading partners. 
+* The scattering of the lizardfolk, some staying in the remnants of the great swamps of the prior age, others finding new refuges in the changed world, and many leaving on a great migration to find a new homeland to the south. 
+- The dwarven kingdoms, especially those of the [[Sentinel Range|Sentinels]] retreat from their deepest depths and fortify the dark passages of the Underdark, far below the surface, against the evils that still lurk in the shadows. Many dwarves found new cities above ground, and look to growing human kingdoms as trading partners. 
 * Loss of sustained contact with the "Southern" human culture, which, although canonical, did not play a meaningful role in the developments in western and central Taelgar
 
 It is possible that the Downfall had less cataclysmic effects in the [[Eastern Green Sea]] but in general canonical events should mostly avoid this period, to preserve narrative space for the Downfall Wars themselves to be developed in a future campaign.
 ## The Drankorian Era
 _4133 - 5192 by the Dwarven Count of Years_
 
-The city of [[Drankor]] was founded in CY 4133 by refugees from [[Hkar]], and 
+The city of [[Drankor]] was founded in CY 4133 by refugees from [[Hkar]], and over the next 1000 years grew from a refugee camp to a continent-spanning empire.  The history of this period is focused on the [[Green Sea]], the [[West Coast Region]], the [[Istaros Watershed]], and the areas that will become [[Greater Sembara]] and [[Greater Dunmar]].
 
+Throughout these areas, the fundamental thrust of history is organized around relations with Drankor - whether as trading partner, conqueror, or benevolent overlord. 
+### Founding Period
+_4133 - 4483 by the Dwarven Count of Years_
 
+The beginning of the Drankorian Era is categorized by the slow expansion of the Drankorian culture into the deserted and fertile lands to the north and west.
+
+%% Unclear how far east Drankor expands in this period - see [[Historical Framework - Open Questions#Drankorian Expansion]] %%
+
+Canonically, there are few to no humans here - this land primarily was the remains of the elven empire, now deserted - and the river valleys are fertile, so population growth is high. The should result in something like a golden age, where Drankor rapidly grows rich and powerful.
+
+%% There has been no discussion of WHY the elves are gone from [[Alcarinque]], but it is considered canonical that somehow, after the Downfall, there is nothing left save the fragment in [[Orenlas]] %%
+
+During this period, the [[Skaerhem|Skaer]] still control much of the [[Western Green Sea]] and this is the height of the first Skaer empire based around [[Tollen]]. Farther east, in the [[Eastern Green Sea]], anything could be happening. [[Ursk]] has canonically not developed yet, but otherwise there is little to no information about what is happening. [[Tyrwingha]] is canonically already under [[Archfey Ethlenn|Ethlenn's]] protection and the Dunmari exist as a cohesive culture, somewhere in the east. In the west, sufficient population growth (presumably of some variant of [[~Northerner~]] culture) in the wake of the Downfall is required to allow for some degree of conquest when Drankor moves westward, but it is otherwise undefined. 
+
+By the end of this period, Drankorian culture is well-established along the coastal plains and [[Istaros Watershed]].
+
+%% There is no clear story for when [[Cymea]] and [[~South Cymea~]] are settled by Drankorians -- see [[Historical Framework - Open Questions#Drankorian Expansion]] %%
+
+### Expansion East
+_4485 - 4585 by the Dwarven Count of Years__
+
+%% Note: Dates approximate. See [[Canonical Events]] and [[Chronicles of Drankor]] for more information %%
+
+By 4491 the Drankorian armies have begun to move through the Sembaran river valleys, largely unopposed, and Drankorian provinces are established across what will become [[Sembara]] and over the next 50 years or so the inland people of Sembara are assimilated and the Skaer largely pushed out.
+
+%% The vibe of this is not generally war-like, the Skaer have internal-political reasons to be retreating from an empire in this period and we shouldn't imagine this as a war between Drankor and the Skaer, although surely there were some skirmishes and conflict here and there %%
+
+By the end of this period, the assimilation is complete, and even Tyrwingha has come under Drankorian protectorship via the [[Treaty of Tyrwingha]].
+
+Little canonical information exists about the west in this period. [[Zimkova]] is likely forming closer relationships to the dwarves, and is on the fringes of Drankorian politics. Underdetermined is the status of [[Orenlas]] which is surely independent, but is it surrounded by Drankor? %% See [[Historical Framework - Open Questions#Orenlas and Drankor]] %%
+
+Also unclear is when the [[Darkwood]] becomes sinister. %% See [[Historical Framework - Open Questions#Darkwood Creation]] %%
+
+### First Peace
+_4585 - 4730 by the Dwarven Count of Years_
+
+%% Note: Dates approximate. See [[Canonical Events]] and [[Chronicles of Drankor]] for more information %%
+
+This was a period of peace and stability. Very little canonical information exists. 
+### Western Expansion
+_4730 - 4780 by the Dwarven Count of Years_
+
+%% Note: Dates approximate. See [[Canonical Events]] and [[Chronicles of Drankor]] for more information %%
+
+%% The vibe below is canonical but the exact details may not be %%
+This was a period of very rapid expansion in the west: more a violent conquest than a slow assimilation. Many of the existing cultures are driven north and east during the advance, and the rest are more forcibly assimilated. This is much more "European conquest of the Americas" than "Romanization of Spain" (i.e. Sembara) -- but also the west coast is pretty sparsely populated overall pre-Drankor. The Drankorian expanse kind of peters out around Lake Valandros - they cannot push eastward into the elven / Deno'qai forests, because elves, and Mawar is established around this time as a defensible territory not worth Drankorian effort to attempt to conquer. Going further upriver from the lake stretches the empire, and once the cross-mountain trade routes are established momentum fades.
+
+%% TODO
+ * [ ] Add Nevos/Illoria/Apporia to open questions
+ * [ ] Collate some of the other notes and link into discussions
 %%
-First, the basic Drankorian history: westward expansion is more a violent conquest than a slow assimilation, and many of the northerners are driven north and east during the advance, and the rest are more forcibly assimilated. This is much more "European conquest of the Americas" than "Romanization of Spain" (i.e. Sembara) -- but also the west coast is pretty sparsely populated overall pre-Drankor. The Drankorian expanse kind of peters out around Lake Valandros - they cannot push eastward into the elven / Deno'qai forests, because elves, and Mawar is established around this time as a defensible territory not worth Drankorian effort to attempt to conquer. Going further upriver from the lake stretches the empire, and once the cross-mountain trade routes are established momentum fades.
+### Golden Age
+_4780 - 5098 by the Dwarven Count of Years_
 
+This is a long period of peace and prosperity. There is little canonical information. This period ends with the murder of [[Helea]] by the [[Omnis Pura]] and the beginning of the [[Drankorian Civil War]]. 
+### Decline
+_5098 - 5192_
 
-By the 4200s, the Skaer have established themselves as the dominant mariner culture in the western Green Sea, and resettle Tollen. Over the next 300 years, the Skaer grow stronger, spreading along the coast as far south as the mouth of the Semb, raiding upriver for timber and impressed sailors to row their great ships, and seeking converts for their religion. Tollen develops as a major trade center for the emerging Skaer empire, and begins to grow again.  
-  
-In 4491, the Drankorians reach the Mostreve Hills, and over the next 50ish years the Drankorians assimilate the inland people of Sembara and push the Skaer out, bringing with them the Mos Numena and the Drankorian influence.  
-  
-In 4547, the Drankorians and the Skaer sign a peace treaty, establishing the Volta as the frontier of the Drankorian Empire. Tollen, on the north side of the Volta, remains technically outside the Drankorian territorial claim. However, the Skaer are forbidden from bringing ships up the Volta, and Tollen falls outside their sway and comes under the influence of Drankor. While technically Tollen takes the name of the Free City of Tollen during this time, the Drankorian Empire controls its foreign policy as a protectorate.  
-%%
+The last hundred years of the Drankorian Era are a time of decline and strife. This is the time of [[Apollyon]].
 
 ## The Fall of Drankor
-_5192 by the Dwarven Count of Years_
+_5192-5210 by the Dwarven Count of Years_
 
-## The Rise of Cha'mutte
+%% Use this section to state the basic state of play at the end of the Drankorian period as this establishes a good baseline for future development need to collate from lots of places but basically: %%
+
+In 5192, the [[First Plague]] destroys the Drankorian Empire and brings with it a massive loss of life across much of what was the Drankorian heartland. Almost immediately on the heels of the plague, the [[Dunmar|Dunmari]] come from the east and spread across the [[Dunmari Basin]], establishing modern [[Dunmar]].
+
+
+## The Rise of Cha'mutte and the Great War
 _5192 - 5678 by the Dwarven Count of Years_
 
-## The Great War
-_5678 by the Dwarven Count of Years_
+* Atavas / Sembara/ Isingue
+* Dunmar
+* Skaer? Cymea?
+* west Coast?
+* Mawar?
 
 ## The Blood Years
 _5678 - 5786 by the Dwarven Count of Years_
 
+* Fallout from Cha'mutte is key thing
+
 ## The Present Day
 _Since 5786 by the Dwarven Count of Years_
+
+* more current events than history  - world events "sembara peaceful" / dunmar / chardonian expansion

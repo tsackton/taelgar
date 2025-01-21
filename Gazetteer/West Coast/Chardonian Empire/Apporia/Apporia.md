@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/cleanup/map]
 aliases: [~Chardon Peninsula~, Apporian Peninsula]
 typeOf: peninsula
 whereabouts: West Coast Region

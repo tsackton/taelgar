@@ -94,7 +94,7 @@ Post war, Irebor is gone, and south Irebor is the heart of the Plaguelands. The 
 
 So something like this:
 	
-![[Pasted image 20250120093457.png]]
+![[email-map-from-map-thoughts.png]]
 
 Where:
 

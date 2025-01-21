@@ -38,4 +38,3 @@ Broadly then, the known world can be divided up into several major regions:
 * The [[Greater Dunmar]], stretching from the southern end of [[Sentinel Range|Sentinels]] to the [[Sea of Storms]]
 * The [[Central Highlands Region]], including the [[Sentinel Range]] and the areas on the western slopes of the [[Sentinel Range|Sentinels]] 
 
-Beyond the [[~Southern Ocean~]] is the mysterious [[~Southern Continent~]] of which little is known. 

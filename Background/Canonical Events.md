@@ -20,8 +20,8 @@ All dates in the Dwarven Count of Years.
 * (CY:: 4712) First Drankorian armies cross the Myraeni gap and capture settlements in the lowlands along the Yeraad river valley.
 * (CY:: 4821) [[Great Library]] is founded in [[Chardon]]
 * (CY:: 5192) The First Plague strikes Drankor, killing most of the population and ending the Drankorian Empire.
-* (CY:: 5204) The Dunmari migration reaches the [[Istaros|Mahar]] and some turn west, others turn north, as described in [[Founding of Dunmar]]
-* (CY:: 5206) Dunmari conquer as far north as the mountains and as far east as the Myraeni Gap in a swift war. Jeevali resurrected by Bhishma’s prayers. Aatmaji Dynasty founded by Bhishma.
 * (CY:: 5275) [[Adrian]] establishes himself in [[Embry]] as the first [[Duchy of Sembara|Duke of Sembara]]
+* (CY:: 5304) The Dunmari migration reaches the [[Istaros|Mahar]] and some turn west, others turn north, as described in [[Founding of Dunmar]]
+* (CY:: 5306) Dunmari conquer as far north as the mountains and as far east as the Myraeni Gap in a swift war. Jeevali resurrected by Bhishma’s prayers. Aatmaji Dynasty founded by Bhishma.
 * (CY:: 5562) Defeat of [[Avatus]] and the founding of modern Sembara
 * (CY:: 5678) Great War ends. Cha'mutte is killed.
