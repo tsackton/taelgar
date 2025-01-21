@@ -46,7 +46,7 @@ The West Coast Region includes the entirety of the [[Chardonian Empire]], as wel
 
 ## Climate
 
-Most of the extensive coastline of the Chardonian empire, stretching from the mouth of the [[Yeraad]] river to the southern fringes of the [[Mawakel Peninsula]], is a temperate region with [[warm or hot summers and wet, cool winters]](https://geodiode.com/climate/mediterranean). The [[Mawakel Peninsula]] itself ...
+Most of the extensive coastline of the Chardonian empire, stretching from the mouth of the [[Yeraad]] river to the southern fringes of the [[Mawakel Peninsula]], is a temperate region with [warm or hot summers and wet, cool winters](https://geodiode.com/climate/mediterranean). The [[Mawakel Peninsula]] itself ...
 
 %%
 From old GDrive doc on Geography
