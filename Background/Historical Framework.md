@@ -22,7 +22,8 @@ There are several broad regions that have their own detailed histories, which al
 
 Further regional histories could be developed as needed. 
 ## Overview
-The historical framework of Taelgar is organized around five major events, some destructive, some creative, which punctate the timeline:
+The historical framework of Taelgar is organized around five major events, some destructive, some creative, which punctate the timeline. The immediate aftermath of each of these events typically resulted in a :
+
 * [[Riving|The Riving]], the moment time began, and the [[Multiverse#The Creation of the Multiverse|multiverse was created]]
 * The creation of humans, and the raising of [[Hkar]]
 * [[The Downfall]], when [[Hkar]] sunk and the world was reshaped

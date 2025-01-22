@@ -20,13 +20,14 @@ The [[~Northern Continent~]], is surrounded by four major bodies of water, which
 The [[~Northern Continent~]] is marked by four major, continent scale features:
 * In the east, the [[Green Sea]] extends from the [[~Eastern Ocean~]] to nearly the middle of the continent, forming a great sea stretching 3000 miles from end to end. 
 * South of the Green Sea, the [[~Great Desert~]] forms a band across the southern part of the continent, stretching nearly from the [[Sea of Storms]] to the [[~Eastern Ocean~]]. 
-* West of the Green Sea, the high peaks of the [[Sentinel Range|Sentinels]] run nearly the entire length of the continent from north to south, and split the [[West Coast Region|West Coast]] and the mighty [[Chasa]]-[[Nahadi]] river basin the [[Greater Sembara|Sembaran rivers]] and the  [[Green Sea]]
-* Running for nearly 2,000 miles from the [[Mostreve Hills]] to the [[Sea of Storms]], the [[Istaros]]-[[Istaros]] river system, runs through borderlands and the [[Desolation of Cha'mutte]], a wasteland that arose in the aftermath of the [[Great War]]
+* West of the Green Sea, the high peaks of the [[Sentinel Range|Sentinels]] run nearly the entire length of the continent from north to south, and split the [[West Coast Region|West Coast]] and the mighty [[Chasa]]-[[Nahadi]] river basin from the [[Greater Sembara|Sembaran rivers]] and the  [[Green Sea]]
+* Running for nearly 2,000 miles from the [[Mostreve Hills]] to the [[Sea of Storms]], the [[Istaros Watershed]], runs through borderlands and the [[Desolation of Cha'mutte]], a wasteland that arose in the aftermath of the [[Great War]]
 
 Broadly then, the known world can be divided up into several major regions:
 
-* The [[West Coast Region|West Coast]], the coastal lands and peninsulas on the western shores of the [[~Northern Continent~]] including the [[Apporia]], the [[Mawakel Peninsula]], and the lands along the shores of the [[~North Bay~]], and as far south as the [[Nevos Sea]]
-* The [[Chasa]]-[[Nahadi]] river basin, flowing from the high peaks of the [[Sentinel Range|Sentinels]] towards the [[Endless Ocean]]
+* The [[West Coast Region|West Coast]], the coastal lands and peninsulas on the western shores of the [[~Northern Continent~]] including the [[Apporia|Apporian Peninsula]], the [[Mawakel Peninsula]], and the lands along the shores of the [[~North Bay~]]
+* The [[Nevos Sea]], sheltered from the [[Endless Ocean]] by the [[Apporia|Apporian Peninsula]], and including the twin islands of [[Illoria]]
+* The [[Chasa River Valley]], flowing from the high peaks of the [[Sentinel Range|Sentinels]] towards the [[Endless Ocean]]
 * The [[Dunmari Basin]] and the 
 
 - The [[West Coast Region]], stretching from the the [[Endless Ocean]] to the [[Sentinel Range]] and including the coastal islands in the Endless Sea
@@ -37,4 +38,3 @@ Broadly then, the known world can be divided up into several major regions:
 * The [[Far South]], stretching from the [[~Great Desert~]] south to the [[~Southern Ocean~]]
 * The [[Greater Dunmar]], stretching from the southern end of [[Sentinel Range|Sentinels]] to the [[Sea of Storms]]
 * The [[Central Highlands Region]], including the [[Sentinel Range]] and the areas on the western slopes of the [[Sentinel Range|Sentinels]] 
-
