@@ -13,7 +13,6 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
 The Material Plane, sometimes called the Prime Material Plane or simply the Prime Realm, is the name traditionally given to the plane in which the world of Taelgar, and possibly other words, exist. The Material Plane, along with its spiritual counterpart the [[Plane of Souls]], is considered by almost all scholars to be the center of the [[Multiverse]]. This pair of planes - the material and the spiritual - is where the [[Astral Plane]] and [[Ethereal Plane]] intersect, and is believed by theological cosmologists to be the home for life to thrive created by the [[Divine Presence]] during the [[Riving]]. 
 
 >[!danger] Minority Opinions about the Material Plane
@@ -24,4 +23,4 @@ The Material Plane, sometimes called the Prime Material Plane or simply the Prim
 >It must be noted that many [[fey]] find the standard depictions of cosmology that place the Material Plane in the center of the [[Multiverse]] to be quite amusing. The fey often refer to the Material Plane as the Mundane World or the Mundane Realm, considering it a pale, diminished echo or distortion of their own, admittedly more magical, home of the [[Feywild]].  However, no serious scholarship accepts the Material Plane itself as an [[Echo Realms|Echo Realm]] of the [[Feywild]].
 >
 
-%% note: this description is meant to leave open the possibility of other worlds ala spelljammer, but my current inclination is that i kind of feel like spelljammer flavor doesn't mix with taelgar very well. left undetermined are things like what the sun, moon, stars, etc actually are. %%
+%% note: This description is meant to leave open the possibility of other worlds ala Spelljammer, but the general feeling is that the Spelljammer vibe is not very compatible with Taelgar. The celestial bodies (the [[Sun]], the [[Moon]], and the [[Stars]]) obviously exist, and largely are similar to our world (there are not two moons or anything like that) but what they actually are is not defined %%

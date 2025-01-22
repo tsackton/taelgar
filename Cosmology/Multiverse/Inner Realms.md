@@ -10,7 +10,7 @@ The Inner Realms are a concept proposed by [[Yendalism|followers]] of the [[Ston
 
 [[Yendalism|Yendalists]] argue that this classification is superior to others, as the [[Material Plane]], [[Energy Realms]], and [[Echo Realms]] share the fundamental property that dead souls cannot naturally sustain themselves on these planes. However, dead souls can sustain themselves as they cross the [[Land of the Dead]], and on the [[Spiritual Realms]]. 
 
-%%Campaign:none%%
+%%^Campaign:none%%
 
 The Inner Realms - whatever the metaphysical truth of this classification - are metaphysically important as creatures native to these planes generally die when killed and their soul departs, whereas creatures native to the [[Outer Realms]] cannot be killed except on their native plane (if they are killed elsewhere, they simply reform on their native plane), and if they are killed on their native plane, cease to exist entirely. 
 

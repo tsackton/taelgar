@@ -23,7 +23,7 @@ Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]
 >
 > **Fundamental Planes**: There are six planes that are considered to be the fundamental units of all creation: the [[Plane of Creation]] and its dilute echo the [[Astral Plane]]; the [[Plane of Magic]] and its dilute echo the [[Ethereal Plane]]; and the duality of the [[Material Plane]] and the [[Plane of Souls]]. These six planes are unique and unlike any other planes, although some scholars consider the Material Plane and the Plane of Souls to be one entity, metaphysically, and others consider the [[Plane of Creation]] and the Plane of Magic to be just particularly dense regions of the Astral Plane and the Ethereal Plane, respectively. 
 > 
-> **Energy Realms**: The [[Energy Realms]] are considered to be all the planes that exist within the confines of the [[Ethereal Plane]]. Chief among these are the [[Elemental Realms]]. Some scholars believe that other energy realms exist to be discovered, such as the hypothesized Positive Energy Plane and Negative Energy Plane, but others believe the Elemental Realms are the only Energy Realms. 
+> **Energy Realms**: The [[Energy Realms]] are considered to be all the planes that exist within the confines of the [[Ethereal Plane]]. Chief among these are the [[Elemental Realms]]. Some scholars believe that other energy realms exist to be discovered, such as the hypothesized [[Positive Energy Plane]] and [[Negative Energy Plane]], but others believe the Elemental Realms are the only Energy Realms. 
 > 
 > **Spiritual Realms:** The [[Spiritual Realms]] are the planes of the divine, the planes of gods and demons and other spiritual beings, which some speculate are made of the pure material of creation, which they call [[Soulstuff]]. While most scholars consider the [[Land of the Dead]] to be a part of the [[Spiritual Realms]], others argue it should be considered a region of the [[Astral Plane]], or even its own Fundamental Plane. 
 > 
@@ -40,7 +40,7 @@ When the [[Divine Presence]] awoke or came into being and made existence, the mu
 
 From the [[Riving]], the [[Energy Realms]] were created, and the [[Ethereal Plane]] stretched to pull the [[Plane of Magic]] from the [[Material Plane]]. To limit the power of unfettered creation in the [[Material Plane]], the [[Land of the Dead]] was created, as a barrier to separate the [[Plane of Souls]] and the [[Material Plane]] from the [[Plane of Creation]] and the raw energy of divinity. 
 
-The [[Riving]], however, unleashed untold energy that not even the [[Divine Presence]] could control. The echos of this energy still resonant among the planes "beneath" the barrier of the [[Land of the Dead]], fueling the [[Echo Realms]]. 
+The [[Riving]], however, unleashed untold energy that not even the [[Divine Presence]] could control. The echoes of this energy still resonant among the planes "beneath" the barrier of the [[Land of the Dead]], fueling the [[Echo Realms]]. 
 
 Isolated from the [[Material Plane]] by the [[Land of the Dead]], the [[Spiritual Realms]] were spun out of [[Soulstuff]] and the [[Plane of Creation]] by the [[Embodied Gods]], and later by the [[Incorporeal Gods]] and even the primal beliefs of humanity. 
 
