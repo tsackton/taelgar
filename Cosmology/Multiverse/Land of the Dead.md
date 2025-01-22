@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Land of the Dead
-aliases: [River of Souls]
+aliases: [River of Souls, Divine Veil]
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
 typeOf: plane
@@ -14,14 +14,7 @@ dm_owner: tim
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% TO DO %%
-
-%%
-
- - [ ] Rewrite page in the in-world style of other Cosmology pages
- - [ ] Add a Dunmar Frontier campaign section with notes on traveling to the Land of the Dead
- 
-%%
+The place variously known as the Land of the Dead, the River of the Souls, and the Divine Veil, among many other names, 
 
 The vast gathering place for the souls of the dead. When a consciousness, or soul, dies, it fades from the [[Plane of Souls]], but does not immediately disappear into nothingness. 
 
@@ -47,5 +40,22 @@ The Land of the Dead has a number of important impacts and details.
 
 Relevant open questions:
 - [[Cosmology - Open Questions]]
+
+Discussion and Brainstorming:
+- [[Discord Chat - Multiverse]]
+- [[Discord Chat - Magic]]
+- [[Discord Chat - Souls]]
+- [[Discord Chat - Funerary Traditions]]
+- [[Discord Chat - Divine Power in Taelgar]]
+
+See also:
+- [[Metaphysics of Souls]]
+- [[Kestavan Funerary Traditions]]
+- [[Sembaran Funerary Traditions]]
+- [[Drankorian Funeral Traditions]]
+- [[Tyrwinghan Funerary Traditions]]
+- [[Dunmari Religious Practice#Funerals]]
+
+More brainstorming and discussion in backlinks and unlinked mentions. 
 
 %%^End%%
