@@ -191,30 +191,37 @@ It is possible that the Downfall had less cataclysmic effects in the [[Eastern G
 ## The Drankorian Era
 _4133 - 5192 by the Dwarven Count of Years_
 
-The city of [[Drankor]] was founded in CY 4133 by refugees from [[Hkar]], and over the next 1000 years grew from a refugee camp to a continent-spanning empire.  The history of this period is focused on the [[Green Sea]], the [[West Coast Region]], the [[Istaros Watershed]], and the areas that will become [[Greater Sembara]] and [[Greater Dunmar]].
+The city of [[Drankor]] was founded in CY 4133 by refugees from [[Hkar]], and over the next 1000 years grew from a refugee camp to a continent-spanning empire.  The history of this period is defined by the expansion of Drankor, which occurs broadly in three phases:
 
-Throughout these areas, the fundamental thrust of history is organized around relations with Drankor - whether as trading partner, conqueror, or benevolent overlord. 
-### Founding Period
+%% See [[Historical Framework - Open Questions#Drankorian Expansion]]  for open questions %%
+
+* The Founding Period (_CY 4133 - 4483_), when the unsettled lands along the [[Sea of Storms]], the south-western [[Green Sea]] coast, and in the [[Istaros Watershed]] are populated
+* The Eastern Expansion (_CY 4485 - 4585_), when the lands north of the [[Mostreve Hills]] are settled, and Drankor establishes a hegemony over the [[Western Gulf]], pushing out the [[Skaerhem|Skaer]]
+* The Western Expansion (_CY 4730 - 4780_), when Drankor expands past [[Darba]] to the [[West Coast Region]]
+
+There is a more detailed timeline of the events within the Drankorian Empire itself here: [[Drankorian Empire#History]]. In general, canonical events inside the Empire should be consistent with that history, and developed on the pages for the Drankorian Empire. Drankor's impact on the surrounding areas changed over time, and can be categorized broadly as follows:
+#### Founding Period
 _4133 - 4483 by the Dwarven Count of Years_
 
-The beginning of the Drankorian Era is categorized by the slow expansion of the Drankorian culture into the deserted and fertile lands to the north and west.
-
-%% Unclear how far east Drankor expands in this period - see [[Historical Framework - Open Questions#Drankorian Expansion]] %%
+The Founding Period had little contact with other human civilizations, and to the extent rumors or other stories spread, Drankor would be characterized as miraculous, and a savior of humanity, and a restorer of the land and scrounge of evil. Contact with [[Rostaure|Rostaurë]] may have been established in this time, and the relationship between Drankor and the elvish realms would have been close and cooperative. The should feel like a golden age, where Drankor rapidly grows rich and powerful as it spreads to fertile river valleys that are completely (or at least mostly) depopulated. A "Europe comes to the New World" vibe (but crucially without there being any indigenous people to kill and murder) might be appropriate. 
 
 Canonically, there are few to no humans here - this land primarily was the remains of the elven empire, now deserted - and the river valleys are fertile, so population growth is high. The should result in something like a golden age, where Drankor rapidly grows rich and powerful.
 
 %% There has been no discussion of WHY the elves are gone from [[Alcarinque]], but it is considered canonical that somehow, after the Downfall, there is nothing left save the fragment in [[Orenlas]] %%
 
-During this period, the [[Skaerhem|Skaer]] still control much of the [[Western Green Sea]] and this is the height of the first Skaer empire based around [[Tollen]]. Farther east, in the [[Eastern Green Sea]], anything could be happening. [[Ursk]] has canonically not developed yet, but otherwise there is little to no information about what is happening. [[Tyrwingha]] is canonically already under [[Archfey Ethlenn|Ethlenn's]] protection and the Dunmari exist as a cohesive culture, somewhere in the east. In the west, sufficient population growth (presumably of some variant of [[~Northerner~]] culture) in the wake of the Downfall is required to allow for some degree of conquest when Drankor moves westward, but it is otherwise undefined. 
-
-By the end of this period, Drankorian culture is well-established along the coastal plains and [[Istaros Watershed]].
+Outside of the Drankorian lands:
+* the [[Skaerhem|Skaer]] empire is flourishing in the [[Western Green Sea]], controlling [[Tollen]], much of [[Cymea]], the shores of [[Vostok]], the [[Skaerhem|Skaer Islands]], and at least some of the Sembaran coast
+* further east in the Green Sea events are unclear, but there should be no major powers pushing west to compete with the [[Skaerhem|Skaer]] for dominance of the [[Western Gulf]]
+* [[Tyrwingha]] is already under the protection of [[Archfey Ethlenn]], and sees itself as a unique culture, perhaps across a shared region with [[Addermarch]], although details that would implicate Ethlenn's bargain with Tyrwingha should be invented carefully
+* the [[~Northerner~]] cultures are continuing to spread; specific details outside of the Sembaran mixing pot are not clear, however these cultures should not have encountered Drankor yet
+* the [[Dunmar|Dunmari]] are somewhere east of Drankor, well outside the zone of settlement
 
 %% There is no clear story for when [[Cymea]] and [[~South Cymea~]] are settled by Drankorians -- see [[Historical Framework - Open Questions#Drankorian Expansion]] %%
 
 ### Expansion East
 _4485 - 4585 by the Dwarven Count of Years__
 
-%% Note: Dates approximate. See [[Canonical Events]] and [[Chronicles of Drankor]] for more information %%
+%% Note: Dates approximate. See [[Canonical Events]] and [[Drankorian Empire#History|the timeline of Drankorian History]] for more information %%
 
 By 4491 the Drankorian armies have begun to move through the Sembaran river valleys, largely unopposed, and Drankorian provinces are established across what will become [[Sembara]] and over the next 50 years or so the inland people of Sembara are assimilated and the Skaer largely pushed out.
 
@@ -229,16 +236,16 @@ Also unclear is when the [[Darkwood]] becomes sinister. %% See [[Historical Fram
 ### First Peace
 _4585 - 4730 by the Dwarven Count of Years_
 
-%% Note: Dates approximate. See [[Canonical Events]] and [[Chronicles of Drankor]] for more information %%
+%% Note: Dates approximate. See [[Canonical Events]] and [[Drankorian Empire#History|the timeline of Drankorian History]] for more information %%
 
 This was a period of peace and stability. Very little canonical information exists. 
 ### Western Expansion
 _4730 - 4780 by the Dwarven Count of Years_
 
-%% Note: Dates approximate. See [[Canonical Events]] and [[Chronicles of Drankor]] for more information %%
+%% Note: Dates approximate. See [[Canonical Events]] and [[Drankorian Empire#History|the timeline of Drankorian History]] for more information %%
 
 %% The vibe below is canonical but the exact details may not be %%
-This was a period of very rapid expansion in the west: more a violent conquest than a slow assimilation. Many of the existing cultures are driven north and east during the advance, and the rest are more forcibly assimilated. This is much more "European conquest of the Americas" than "Romanization of Spain" (i.e. Sembara) -- but also the west coast is pretty sparsely populated overall pre-Drankor. The Drankorian expanse kind of peters out around Lake Valandros - they cannot push eastward into the elven / Deno'qai forests, because elves, and Mawar is established around this time as a defensible territory not worth Drankorian effort to attempt to conquer. Going further upriver from the lake stretches the empire, and once the cross-mountain trade routes are established momentum fades.
+This was a period of very rapid expansion in the west: more a violent conquest than a slow assimilation. Many of the existing cultures are driven north and east during the advance, and the rest are more forcibly assimilated. This is much more "European conquest of the Americas" (with indigenous murder) than "Romanization of Spain" (i.e. Sembara) -- but also the west coast is pretty sparsely populated overall pre-Drankor. The Drankorian expanse kind of peters out around Lake Valandros - they cannot push eastward into the elven / Deno'qai forests, because elves, and Mawar is established by this time as a defensible territory not worth Drankorian effort to attempt to conquer. Going further upriver from the lake stretches the empire, and once the cross-mountain trade routes are established momentum fades.
 
 %% TODO
  * [ ] Add Nevos/Illoria/Apporia to open questions
