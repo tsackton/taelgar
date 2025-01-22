@@ -4,7 +4,7 @@ tags: [place]
 typeOf: plane
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
-dm_owner: tim
+dm_owner: joint
 dm_notes: none
 ---
 # The Plane of Creation
@@ -12,7 +12,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Plane of Creation is the name given by experimental theologists to the ultimate source of divine power,  the place where [[Soulstuff]] originates, and the ultimate home of the [[Divine Presence]].  Most scholars do not believe this is a place a traveler can visit, or at least not visit and survive; indeed, recent theoretical calculations by the theological cosmologist [[Heloise of Tollen]] suggests that the Plane of Creation itself may be an infinitely dense agglomeration of [[Soulstuff]], impenetrable to any force except the [[Divine Presence]].
+The Plane of Creation is the name given by experimental theologists to the ultimate source of divine power,  the place where [[Soulstuff]] originates, and the home of the [[Divine Presence]].  Most scholars do not believe this is a place a traveler can visit, or at least not visit and survive; indeed, recent theoretical calculations by the theological cosmologist [[Heloise of Tollen]] suggests that the Plane of Creation itself may be an infinitely dense agglomeration of [[Soulstuff]], impenetrable to any force except the [[Divine Presence]].
 
 %%Campaign:none%%
 
@@ -21,6 +21,7 @@ The Plane of Creation plays a meaningful role in the magic of Taelgar, as the ul
 - [[Magic in Taelgar Notes]]
 - [[Soulstuff]]
 - [[Discord Chat - Multiverse]]
+- [[Discord Chat - Divine Power in Taelgar]]
 - [[Riving]]
 - [[Riving]]
 
@@ -28,6 +29,9 @@ The basic vibe, whatever the exact details, is that the Plane of Creation is the
 
 Unlike [[Spiritual Realms]], this is not really supposed to be a place one can visit, although of course there is always room for invention and exceptions. 
 
-In any case, the Plane of Creation is not a place where souls end up in any kind of afterlife. 
+In any case, the Plane of Creation is not a place where souls end up in any kind of afterlife, although perhaps souls "return" to the Plane of Creation in some metaphysical sense when they cease to exist in any kind of conscious, aware form. 
+
+Open questions:
+- [[Cosmology - Open Questions]]
 
 %%^End%%

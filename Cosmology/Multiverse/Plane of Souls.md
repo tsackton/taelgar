@@ -1,12 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place]
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
 typeOf: plane
 aliases: [Plane of Consciousness]
 dm_notes: none
-dm_owner: none
+dm_owner: joint
 ---
 # The Plane of Souls
 >[!info]+ Information  
@@ -19,16 +19,19 @@ While most scholars and theologians accept a version of this depiction, and the 
 
 %%^Campaign:none%%
 
-The Plane of Souls is connected to how the divine act in the world. In particular, the mostly-canonical idea is that the divine cannot directly interact with anything on the Material Plane side of the Land of the Dead, at least not easily. This makes the souls on the Plane of Souls a key locus for miracles. Clerical magic is the most obvious form of this, but 
+The Plane of Souls is connected to how the divine act in the world. In particular, the mostly-canonical idea is that the divine cannot directly interact with anything on the Material Plane side of the [[Land of the Dead]], at least not easily. This makes the souls on the Plane of Souls a key locus for miracles. Clerical magic is the most obvious form of this.
 
 The plane of souls has three relevant impacts worth keeping in mind:
 - To the extent that psionic mechanics exist, they would typically be powered by a particularly strong connection to the plane of souls. Similar with things like monk focus, or other kinds of "inner strength". While there are not really any direct mechanical consequences of this, for flavor reasons it is worth keeping in mind that these magics are quite distinct from arcane magic or divine miracles. 
 - The Dreamworld is an echo realm (in some sense - maybe the fey are right?) of the Plane of Souls, and so the most common way to reach the Dreamworld would typically be through the Plane of Souls. This is mostly a color things, but e.g. traveling to the Dreamworld from the Material Plane at least should usually pass through the constellation of souls, narratively.
 - The Plane of Souls either connects to, or is part of, the Astral Plane. Astral Projection would normally start from your spark on the Plane of Souls, for example. 
 
-Beyond this, in-world or meta details are a bit vague. 
+Beyond this, in-world or meta details are a bit vague. Note, however, that the "ancient understanding" that only natives of the Material Plane have souls on the Plane of Souls is likely at least incomplete. Who has souls and what that means remains an open question, see below.
 
 Relevant open questions:
 - [[Cosmology - Open Questions]]
+
+Discussion:
+- [[Discord Chat - Divine Power in Taelgar]]
 
 %%^End%%
