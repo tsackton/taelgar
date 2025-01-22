@@ -1,3 +1,5 @@
+1/21/2025
+
 otally different topic... but I was just messing around with the pre-Downfall situation, and it would actually work pretty well to have all of the major "Firstborn" races have massive civilizations that met at Ulrich Pass
 You'd extend the western gulf up along the sembaran rivers (making Embry, with its pre-downfall origin, originally a coastal city)
 rsulfuratus — Today at 9:10 PM
