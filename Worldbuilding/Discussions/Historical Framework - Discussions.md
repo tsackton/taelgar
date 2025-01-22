@@ -2,18 +2,38 @@ This page captures some of the reasoning behind decisions in the [[Historical Fr
 
 The primary chat that clarified a lot of this is [[Discord Chat - Deep History]]. Some additional information is found in:
 
-* [[Age of Myth - Old Version]]
-* [[Age of Divinity - Old Version]]
-* [[Age of Humanity - Old Version]]
+* [[GDrive - History of Taelgar]]
+* [[GDrive - The Divine Order]]
+* [[GDrive - Humanity in Taelgar]]
 * [[Discord Chat - Deep History]]
-* [[Discord Chat - Multiverse]]
-* [[The Riving - Old Version]]
-* [[Discord Chat - Languages and Humanity]]
-* [[Divine Order]]
+* [[Discord Chat - Multiverse]]* 
+* [[Discord Chat - Languages and Humanity]] 
 * [[Email - Brief Thoughts on Elder Races]]
 * [[History of Humanity Notes]]
 * [[Human Cultures of Taelgar]]
 * [[Discord Chat - Historical Framework Pre Downfall]]
+
+
+### Downfall Aftermath
+Some older documents had more invention that is currently considered canonical around the Dunmari and southern cultures:
+
+>- The proto-Dunmari largely settle on the arid fringes of the great desert, stretching mostly along the north edge of the desert in the savannas and grasslands there.
+>-  The southern culture has been devastated by the sundering of the north and south continents, and has splintered into three groups
+>- The ‘south continent’ cultures (undeveloped for now), which emerged on the southern continent and merged with Hkaran refugees
+>- The ‘south islander’ cultures (undeveloped for now), which rebuilt a culture in the newly formed seas, bays, and islands along the (new) south coast, as well as the western coast along the Sea of Storms, south of the desert.
+>- The ‘south mainland’ cultures (undeveloped for now), which forms in the interior of the southern part of the north continent; these cultures have some eastern influences on the east coast.
+>- A new, unique desert culture emerges, with some proto-Dunmari, some southern, and some eastern influence, as well as a strong influence of the gnomes, who shelter these people during the worst of the Downfall years.
+
+### Drankorian Expansion
+Some old documents have some useful "pre-canon" ideas:
+
+Founding:
+%% Note: This has probably been superceded by the "circular island with 2+ million people", which suggests that it was never a small settlement %%
+>The City of Drankor is founded in the year 4133, only 11 years after the Downfall of Hkar. Although initially a small settlement in a fertile river valley, it quickly attracts refugees who have landed along the coast of the Sea of Storms, and by 4180 Drankor is a city proper, recreating as best possible the grand urban centers of Hkar, and the people of Drankor have begun to spread north, east, and west, settling and farming the fertile grasslands and remnant woodlands of what was, before the Downfall, a great forest and elven kingdom. Fires swept across most of the land, burning the trees, but the rains were plentiful and the soil fertile, so new life sprung back rapidly in this land. 
+  
+
+Suggestion that there are troubles to the south and east:
+>By 4300 or so, the nascent Drankorian Empire stretches along the coast of the Sea of Storms, as far east as the shores of ~GreatBay~, as far west as the Nevos Sea, and north into the empty expanses of the land that is now Dunmar. Many in Drankor, only a few generations removed from the days of Hkar, turn east and south, trying to reclaim old trading connections. But the Sea of Storms was chaotic to navigate, the mountainous lands to the east the home of hobgoblins and worse, and the lands to the south torn by upheaval and destruction, desertification and flooding. So, the Drankorian Empire turned its sights north.
 
 ### Names of "Ages"
 Some earlier brainstorming referred to these eras as "the Age of Myth", "the Age of Creation", and "the Age of Humanity", but we have largely decided to avoid the Tolkien-esque "Ages of the World" framing.  In general, early versions of this history, although unique, suffered from a Tolkien-esque vibe and language that we are now trying to mostly avoid. 
