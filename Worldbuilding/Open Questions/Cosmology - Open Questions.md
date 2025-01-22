@@ -2,9 +2,9 @@ This document collects open questions about the multiverse and cosmology, includ
 
 ## Divine Power in Taelgar
 
-A variety of brainstorming documents lean on the idea that the Land of the Dead is some kind of barrier to divine action on Taelgar, whether from the beginning, or arising during the Riving, or [[Historical Framework - Open Questions#Metaphysics of the Creation of Humanity|later]]. In this metaphysical model, souls on the Plane of Souls serve as conduits for miracles, implying that divine power can only, or mostly only, act via empowering mortals. 
+A variety of brainstorming documents lean on the idea that the [[Land of the Dead]] is some kind of barrier to divine action on Taelgar, whether from the beginning, or arising during the Riving, or [[Historical Framework - Open Questions#Metaphysics of the Creation of Humanity|later]]. In this metaphysical model, souls on the Plane of Souls serve as conduits for miracles, implying that divine power can only, or mostly only, act via empowering mortals. 
 
-This framework is nice to prevent the gods from being too powerful, and I think the basic metaphysics of the Land of the Dead forming a barrier between Divine Power and the [[Inner Realms]] is presumably canon, at least in the modern context. 
+This framework is nice to prevent the gods from being too powerful, and I think the basic metaphysics of the [[Land of the Dead]] forming a barrier between Divine Power and the [[Inner Realms]] is presumably canon, at least in the modern context. 
 
 However, this raises a number of open questions:
 
@@ -12,15 +12,15 @@ However, this raises a number of open questions:
 	- I think that it is obvious that it is not _just_ the creations of the Divine Presence or the Embodied Gods that have souls, at least if we assume that Kenzo's soul sight is metaphysically connected to perceiving the Plane of Souls. Really, it is only some constructs and some undead that don't have souls in this sense
 	- Natives of other planes are tricky. Maybe the Yenadlists are right and the Plane of Souls reflects all inner planes? Maybe fey/elementals etc don't use divine magic in the traditional sense and don't have gods per se, but can access the power of divine magic via some other mechanism? Maybe there are actually no fey clerics? Kate played a fey cleric at one point in the Seeker one shot, but we never developed any religion for that character, so it remains an open question whether fey can actually use divine magic in the "normal" sense. 
 	- The connection to soul sight (Kenzo) is a bit tricky here too, since my inclination has been to allow that work on essentially everybody. But maybe it isn't actually reading anything from the Plane of Souls and that is just a shorthand. 
-- Ultimately, I think for worldbuliding and other reasons it is important that there be limits and barriers to divine power on the Inner Planes side of the Land of the Dead. However, maybe the premise is wrong, and divine power is not exclusively manifest via the Plane of Souls - that might just be what certain religions teach, or maybe even what the Incorporeal and Embodied Gods believe (leaving open the possibility that the fey have an alternate way to access the magic of the Plane of Creation directly, for example). In this case, there has to be another limit, or perhaps more accurately a different way than the Plane of Souls to provide a conduit for the magic of creation to flow into the inner planes. 
+- Ultimately, I think for worldbuliding and other reasons it is important that there be limits and barriers to divine power on the Inner Planes side of the [[Land of the Dead]]. However, maybe the premise is wrong, and divine power is not exclusively manifest via the Plane of Souls - that might just be what certain religions teach, or maybe even what the Incorporeal and Embodied Gods believe (leaving open the possibility that the fey have an alternate way to access the magic of the [[Plane of Creation]] directly, for example). In this case, there has to be another limit, or perhaps more accurately a different way than the Plane of Souls to provide a conduit for the magic of creation to flow into the inner planes. 
 
 %% Mike - adding some thoughts %%
 ##### Divine Power in Taelgar - Discussion
-First thought: the rules of D&D, and in particular the classification of magic into divine/primal/arcane, should only drive the world building so far. Perhaps if we were building a Taelgar RPG, the differences between different types of magic would be encoded in the rules, but I'm not sure the fact that a fey cleric exists needs to imply that the fey can access the plane of creation at all. 
+First thought: the rules of D&D, and in particular the classification of magic into divine/primal/arcane, should only drive the world building so far. Perhaps if we were building a Taelgar RPG, the differences between different types of magic would be encoded in the rules, but I'm not sure the fact that a fey cleric exists needs to imply that the fey can access the [[plane of creation]] at all. 
 
 Second thought: Yendalism seems more right to me than "only those on the material plane have souls".
 
-Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the plane of creation via the Dreamworld? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
+Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[plane of creation]] via the Dreamworld? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
 
 Some discussion:
 - [[Discord Chat - Divine Power in Taelgar]]
@@ -45,6 +45,6 @@ Brainstorming notes:
 
 ## Relationship among Spiritual Realms
 
-Another open question: what is the relationship among the spiritual realms? If the only thing that limits the power of the gods is the Land of the Dead, why don't some gods get together and destroy the Abyss, or kill Thark? 
+Another open question: what is the relationship among the spiritual realms? If the only thing that limits the power of the gods is the [[Land of the Dead]], why don't some gods get together and destroy the Abyss, or kill Thark? 
 
 This feels like it might have a connection to the [[Gidari]] somehow, but not sure. 

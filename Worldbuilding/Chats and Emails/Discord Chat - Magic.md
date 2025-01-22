@@ -41,7 +41,7 @@ you - as the spellcaster - aren't really doing anything, particularly, except op
 
 
 [3/21/2024 1:10 PM] rsulfuratus
-(this bit is pretty undeveloped but the basic idea is the land of the dead acts as kind of a barrier and gods cannot easily reach past it, but living souls allow them to "tunnel" in a way)
+(this bit is pretty undeveloped but the basic idea is the [[land of the dead]] acts as kind of a barrier and gods cannot easily reach past it, but living souls allow them to "tunnel" in a way)
 
 
 [3/21/2024 1:11 PM] rsulfuratus

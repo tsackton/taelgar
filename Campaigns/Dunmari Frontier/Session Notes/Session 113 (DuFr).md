@@ -122,7 +122,7 @@ Back at the [[Temple of the Eight Divines]], the party reacts in concern to a cr
 	- Their names are listed in Apollyon's notes: [[Antonius Patrius]], [[Floria of Aphasium]], [[Marius of Drankor]], [[Valanthe]], [[Seraphina Appleblossom]], [[Khemut of Targu]], and [[Minarith]]
 - Hidden in Apollyon's notes, Seeker discovers a potential method to destroy the phylactery:
 	- If a portal to the [[Land of the Dead ]]can be opened, the dagger must be taken there.
-	- Once in the Land of the Dead, the souls must be guided to remember their identities and pass into their divine realms. This process will unravel the phylactery.
+	- Once in the [[Land of the Dead]], the souls must be guided to remember their identities and pass into their divine realms. This process will unravel the phylactery.
 	- Apollyon believed this method was impossible, as only one who possessed both the phylactery itself and the notes on its construction could even attempt this challenge.
 - The party identifies the administrative complex behind the temple as a potential source of detailed records on the victims. They decide to search it for artifacts or clues.
 - After a thorough search of the administrative complex, the group finds a [[Book of Martyrs of the Radiant Path]], containing information on four of the seven victims. Key discoveries include:
