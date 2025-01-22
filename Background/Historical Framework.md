@@ -22,18 +22,17 @@ There are several broad regions that have their own detailed histories, which al
 
 Further regional histories could be developed as needed. 
 ## Overview
-The historical framework of Taelgar is organized around five major events, some destructive, some creative, which punctate the timeline. The immediate aftermath of each of these events typically resulted in a :
+The historical framework of Taelgar is organized around four major cataclysms that reshaped the world order. The immediate aftermath of each of these events typically resulted in a significant new order:
 
-* [[Riving|The Riving]], the moment time began, and the [[Multiverse#The Creation of the Multiverse|multiverse was created]]
-* The creation of humans, and the raising of [[Hkar]]
+* [[Riving|The Riving]], when time began
 * [[The Downfall]], when [[Hkar]] sunk and the world was reshaped
 * The [[First Plague]] and subsequent fall of the [[Drankorian Empire]]
 * The [[Great War]] and death of [[Cha'mutte]]
 
+In general, this document uses those to document the state of the world before and after the disruption, but this framework document avoids describing what actually happened during the disruption.
+
 ## Before the Riving
 _Before time_
-
-Cosmology was much simpler than after the Riving. Only the [[Material Plane]], the [[Plane of Magic]], the [[Plane of Creation]], and the transitive connecting planes (the [[Astral Plane]] and [[Ethereal Plane]]) existed. The exact configuration of these planes is unclear and there is no canonical answer; the key point is that the other planes did not exist, not that these planes existed in some particular form. %% Previous invention suggested that perhaps there was only an undifferentiated "plane" that included the plane of magic and the material plane, but a canonical answer does not exist, and is probably not needed %%
 
 Prior to the [[Riving]] time itself did not exist, and therefore events are hard to describe. However, some key points of this period:
 
@@ -56,7 +55,6 @@ Linear time began with an event, the [[Riving]], both instantaneous and eternal,
 - The [[Void Mind]] creates the [[Three Despairs]] as its avatars and agents in the [[Multiverse]]
 
 %% It is not clear when the first cracks to the Far Realms appeared see [[Historical Framework - Open Questions#Far Realms]] for thoughts %%
-
 ## Before Humans
 _1 - 1520 by the Dwarven Count of Years_
 
@@ -129,15 +127,9 @@ After 700 years of growth and development in isolation on Hkar, the [[Elder Folk
 ### Migrations and Emigration
 *roughly 2500-3500, about 1000 years*
 
-%%
-proposing an alternative timeline that would shift the contact with elder folk period a little earlier, and move the northern migrations *after* contact, as the beginning of a wave of emigrations triggered in part by the social and cultural upheavals caused by the introduction of arcane magic and the idea of incorporeal gods 
-
-this is also the period where the events of the Sarqon and the Chainshroud presumably happen (e.g. between 2600-2800)
-%%
-
 Amidst the cultural, religious, and social upheavals spiraling from contact with the Elder Folk, Hkar begins to undergo rapid development and evolution, accompanied by waves of migration and emigration to the land of the [[Elder Folk]], the mainland of Taelgar. 
 
-%% exact dates are not yet canonical %%
+%% exact dates are not yet canonical - this is also the period where the events of the Sarqon and the Chainshroud presumably happen (e.g. between 2600-2800) %%
 
 At the beginning of this period, around 2500, the first humans leave Hkar (the [[~Northerners~]], in later parlance). The reasons for this are undefined and unclear, but:
 * These migrants are not explorers or colonists, but settlers. That is, they do not have a lot of contact back with Hkar %%although some exceptions might exist%%
@@ -172,6 +164,18 @@ During this time:
 This era ends with the Downfall, the ~100 year war that sees the destruction of Hkar.
 ## The Downfall
 _4000 - 4133 by the Dwarven Count of Years_
+
+#### The World at the Beginning of the Downfall Wars
+![[world-map-history-pre-Downfall.png]]
+
+* Vast non-human civilizations that dominate the land (the area inside the green borders), although the specific details of where, i.e. the elven forest vs the lizardfolk swamp vs the dwarven mountain kingdoms is not canonical
+* A arcane human civilization on [[Hkar]] worshipping [[Mos Numena]] (not pictured, to the south and west)
+* Scattered humans along the west coast and far north, mostly isolated from Hkar and following [[Northern Folk Religions]]. These are the ancestors of the [[Zimka]], [[Deno'qai]], [[Vargaldi]] and other similar [[~Northerner~|northerners]] but whether i.e. Deno'qai culture exists in a recognizable form is not clear. The general area is marked with brown arrows, but expansion could have started farther south and continued in the same logical patterns. The only canonical part is that these northerners have not penetrated into the Green Sea outside of the [[Western Gulf]]
+* An undefined set of human cultures along the [[Eastern Green Sea]], dominated by the mariner culture (known clusters in blue circles, unknown as blue question marks - some of the unknown cultures could have other influences, i.e. from unique migrations or the canonically undefined Southerns, but the northerners would not have reached the Eastern Green Sea by the Downfall)
+* A handful of unique cultures, already canonically established: the Skaer, in the Western Green Sea; the Zimka, in the Sembaran highlands, the Tyrwinghans, in Tyrwingha, and the Dunmari, somewhere to the east (marked with an S, Z, T, and D). The Dunmari do not have a canonical location other than "east of the non-human circle"
+* A melting pot in the Western Gulf and Sembaran lowlands, where the Skaer, other strands of mariner cultures, and the Zimka are blending and forming a new Tollish culture
+* A handful of explicitly undefined places, that may or may not have humans: the [[Apporia|Apporian Peninsula]], the [[Nevos Sea]], the [[Yeraad River Basin]], and the [[Mawakel Peninsula]]
+* In general: the areas to the east and south, as well as the very far north, are not canonically defined in this period
 
 The exact length of the Downfall Wars is not canonical, but it was likely at least two generations of humans. The Downfall itself occurred in CY 4122, but the period immediately before and after were a time of destruction and war. 
 

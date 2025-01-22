@@ -67,6 +67,8 @@ It also results in the central and western areas being dominated by dwarves and 
 
 In general, there is nothing wrong with this per se, but it is worth exploring the implications before assuming it is fully canonical. This for example implies that the first non-humans the human migrants encounter are elves and perhaps some dwarves. It also feels like perhaps the halflings are missing an opportunity to be more widespread.
 
+Note: one idea discussed in [[Discord Chat - Historical Framework Pre Downfall]] suggests that maybe the Green Sea stretched further inland before the Downfall, and therefore the 'Firstborn' races might all have had mighty civilizations that met at [[Urlich Pass]]. That would preserve one of the ideas from the [[Great War Campaign]] that the final battle with Cha'Mutte was in some way related to the site of the creation of the Firstborn. This would also make the interactions a bit less isolated. 
+
 ### Stoneborn Early History
 The elves, lizardfolk, halflings, and dwarves all have tentative development for significant early histories with impacts on the post-Downfall world, but the stoneborn are missing from most of this. It may be appriopriate (i.e. lean into them as the most isolationist of the Elder Folk) but this is a pending open question.
 
