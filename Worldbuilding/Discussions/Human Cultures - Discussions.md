@@ -28,7 +28,15 @@ Older text:
 
 >There of course may be other refugees that fled at the same time, and founded other cultures as yet determined, with different characteristics. 
 
-This implies that there might have been Downfall Refugees potentially worshipping something other than Mos Numena. My opinion is that that introduces unneeded variance and complexity to the world. A second "competitor" to Mos Numena should likely have developed independentally *not* on Hkar, in the milieu of the southerns, or more likely, shouldn't exist. I think it is perfectly reasonable for the world to only have a single archtypeal religion and expect any other pantheonic religion to be more "Greek".
+This implies that there might have been Downfall Refugees potentially worshipping something other than Mos Numena. My opinion is that that introduces unneeded variance and complexity to the world. A second "competitor" to Mos Numena should likely have developed independently *not* on Hkar, in the milieu of the southerns, or more likely, shouldn't exist. I think it is perfectly reasonable for the world to only have a single archtypeal religion and expect any other pantheonic religion to be more "Greek".
+
+---
+Tim, 1/22/2025:
+>A key point that needs to be kept in mind w/r/t Downfall Refugees is that, for the most part, the assumption is there would have really been no way for large quantities of people to flee _except_ via the divine miracle / crown of purity construction of the walking Circular Island. While leaving space for a potential future Downfall Wars campaign, I think the basic vibe is that Mos Numena worshipping, highly magical urban culture is the one that stays to defend Hkar against the armadas of the Void Mind, and ultimately (in some undetermined way) helps or allows or otherwise contributes to its destruction. These people, the "Defenders of Hkar" probably are entirely Mos Numena, and probably entirely escape - those who do, anyway - via the Circular Island. 
+>
+>Where there is potentially space for other refugee populations, IMO, is among the various other cultures that potentially existed on Hkar, keeping in mind that after the departure of the mariners en masse Hkar is dominated by the urban Mos Numena culture, so anything else that exists would have to be minor. I think nothing canonical needs to be invented here, but it is worth keeping space for Dunmari-like minor cultures that maybe have become regionally significant somewhere. 
+>
+>However, I also agree with the basic point that human religion in Taelgar is basically four flavors: (1) Mos Numena, the dominant and probably only archetypal religion (unless the south has its own pantheonic variant); (2) the northern folk religions, pre-dating pantheonic religion on Hkar; (3) the descendants of the mariner tradition, which is tentatively assumed to be a lot more flexible and changable than Mos Numena, leading to many more schisms and a greater diversity of modern day traditions (e.g. like Buddhism); (4) "Greek" style pantheons.
 
 ## Northern Realms Cultures
 
