@@ -16,8 +16,8 @@ The assumption broadly is that the ancient lizardfolk swamp would have stretched
 
 There are also questions about whether or where Drankor and the proto-Dunmari encountered each other. Basically the whole narrative of Drankorian expansion _east_ rather than north or west is very unclear.
 ### Metaphysics of the Creation of Humanity
-Some older versions of the historical framework implied that both the creation of humanity and the Downfall caused significant changes in the Land of the Dead and the ability for soulstuff to be shaped and accessed from Taelgar. In particular, we had previously written that:
-* Between the Riving and the creation of humans, the Land of the Dead was impermeable and that this reduced some aspects of divine power
+Some older versions of the historical framework implied that both the creation of humanity and the Downfall caused significant changes in the [[Land of the Dead]] and the ability for soulstuff to be shaped and accessed from Taelgar. In particular, we had previously written that:
+* Between the Riving and the creation of humans, the [[Land of the Dead]] was impermeable and that this reduced some aspects of divine power
 * After the creation of humans, until the Downfall, something changed about this barrier, and divine magic was stronger (or perhaps possible for the first time)
 
 From an older history doc, since removed, but kept here for posterity:

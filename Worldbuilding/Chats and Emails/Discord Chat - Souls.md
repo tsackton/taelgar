@@ -16,7 +16,7 @@ well there is probably something of a feedback loop as well
 
 
 [2/1/2024 6:03 PM] .deciusmus
-It seems wrong to me that Drankor or Sembara would develop a totally false belief that the gods handle the sheparding of the soul into the land of the dead, if there wasn't some real truth to it.
+It seems wrong to me that Drankor or Sembara would develop a totally false belief that the gods handle the sheparding of the soul into the [[land of the dead]], if there wasn't some real truth to it.
 
 I mean, presumably the reason all this stuff happens is because a group of humans with no death traditions at all, who just didn't bother, would in fact by plagued by ghosts and the like
 
@@ -32,7 +32,7 @@ death traditions are a way of amplifying the gods power and filling in gaps, in 
 
 
 [2/1/2024 6:12 PM] rsulfuratus
-but also different gods have different strengths in some metaphysical sense. the small gods are, well, small, and so there is some sense that an individual god actually reaches into the land of the dead and follows/protects souls on the journey. but they don't have a lot of power on the material plane. 
+but also different gods have different strengths in some metaphysical sense. the small gods are, well, small, and so there is some sense that an individual god actually reaches into the [[land of the dead]] and follows/protects souls on the journey. but they don't have a lot of power on the material plane. 
 
 mos numena has a lot of power so easier to protect the transition to the land of the dead, but then have a bit less influence, etc
 
