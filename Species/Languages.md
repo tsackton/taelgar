@@ -1,11 +1,12 @@
 ---
-tags: [background]
+tags: [background, status/check/tim, status/cleanup/gameupdate]
 dm_owner: joint
 dm_notes: none
 ---
 # Languages 
+%% Tim: could use an update on merfolk based on the in-game info and update Vargaldi if we've settled they speak their own language %%
 
-%% See [[Language - Discussions]] for background %%
+%% See [[Language - Discussions]] for background and [[Languages - Open Questions]] for open questions %%
 
 The common languages of Taelgar spoken by [[Humans|humans]] and the [[Elder Folk]] all derive from the original languages spoken by the first of each species to awaken. For [[Dwarves|dwarves]], [[Elves|elves]], [[Halflings|halflings]], [[Stoneborn|stoneborn]], and [[Lizardfolk|lizardfolk]] this original language has not changed since the dawn of time. For humans, the original tongue has been split and fractured into different language families over the long history of human settlement and migration.
 
@@ -19,22 +20,7 @@ The human tongues of the known world are broadly divided up into three major lan
 
 There are some other human languages, notably Dunmari, that do not fit into any of the language families above, and there are rumors and fragments from [[Drankor]] of very different languages spoken in far-flung places distant from the center of the [[Drankorian Empire]]. 
 
-%% Background Note:
-This section is intended to be both canonical and sufficiently vague as to not block new invention. Broadly, the assumption is that each of the [[Human Cultures of Taelgar|migrations from Hkar]] map to a specific language family:
-* Early Explorers = Northros
-* Pre-Urban Exodus = undefined southern tongue
-* Mariner Migration = Eastros
-* Downfall Refugees = Drankorian
-
-Minor migrations, such as the Dunmari, have potentially unique histories, and may or may not fit into one of the language families above.
-
-When determining real-world language analogues:
-* Northos in general uses Semitic languages
-* Eastros and any subsequent migration use Indo-European languages, with Eastros tending towards Slavic/Germanic, and Drankorian tending towards Italic/Hellenic. Other migrations (i.e. Dunmari) that are after the mariner migration should probably be their own branches of the Indo-European language family.
-* The Pre-Urban exodus is explicitly undefined, and could be Indo-European or something else,  but earlier conversations suggested probably Asian
-
-Non-Human tongues should generally avoid Indo-European or Semitic, but also do not necessarily need a clear and well defined mapping to real-world human languages.
-%%
+%% See [[Language - Discussions]] for some background and guidance on new languages %%
 ## Trade Languages
 Availability of magical communication and travel, while rare, is frequent enough to encourage the spread of common trade tongues. Many non-human creatures also know trade languages, which allow communication among creatures of disparate backgrounds. Trade tongues are best thought of as pidgins, and they rarely allow for the full nuance of a native tongue. There are two trade tongues in common usage: **Common** and **Eastros**. 
 ##### Common
