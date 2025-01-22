@@ -44,3 +44,11 @@ The current version removes the idea of a Mawar vs Drankor cultural split as it 
  >The islands of the Nevos Sea were conquered by Drankor and converted to Mos Numena, but never fully integrated into the empire. Illoria has always been a melting pot, and the people of the islands were historically a mix of Northerners and probably some later Hkaran migrants, so even before the downfall this was a blended place. In current day also includes people with Dunmari ancestry, some "northern realms culture" refugees, Drankorian refugees, some of everybody. Probably one of the most religiously diverse places on the mainland. 
 
 %% Illoria seems like a place that could have a cultural descendancy from the "southern" exodus, although probably not a cultural connection. Perhaps Illorian is a unique language that is more related to Southern than anything else? %%
+
+### List of Cultures
+An older document listed a number of non-canonical cultures, some preserved here for interest or re-use:
+>- Myraeni, who live in the Myraeni gap between Chardon and Dunmar and north on the slopes of the central mountains, an ancient people of mysterious origin
+>- The Illorians, a mixing pot culture of refugees and others from a variety of cultures in the west, perhaps a pluralistic societies in Taelgar without a dominant religion
+>- The peninsula west of Chardon, possibly just a part of the Chardonian empire or possibly a current homeland of Peronar/half-elves, still following ancient Hkaran traditions of blended cities with humans
+>- The desert people, a blend of non-Drankorian people living in the desert for the past 1000+ years, probably have their own unique pantheonic religion.
+>- The east coast, south of the eastern islands and east of the mountains, stretching south into the subtropics, who are probably an ancient civilization, founded around or even before Drankor but still surviving, representing a mix of Eastern and Southern cultures. However probably don’t have their own religion, instead follow either Eastern or Southern tradition, or perhaps another pluralistic place with no dominant religion. 
