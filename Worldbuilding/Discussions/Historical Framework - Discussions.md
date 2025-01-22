@@ -13,6 +13,7 @@ The primary chat that clarified a lot of this is [[Discord Chat - Deep History]]
 * [[Email - Brief Thoughts on Elder Races]]
 * [[History of Humanity Notes]]
 * [[Human Cultures of Taelgar]]
+* [[Discord Chat - Historical Framework Pre Downfall]]
 
 ### Names of "Ages"
 Some earlier brainstorming referred to these eras as "the Age of Myth", "the Age of Creation", and "the Age of Humanity", but we have largely decided to avoid the Tolkien-esque "Ages of the World" framing.  In general, early versions of this history, although unique, suffered from a Tolkien-esque vibe and language that we are now trying to mostly avoid. 
@@ -44,3 +45,6 @@ In general, the creation of humans needs to be serve two goals.
 * There needs to be enough time after it for the many developments of human culture and religion
 
 There are some thoughts in [[Demographic Modeling]]. A date of 1520 is somewhat arbitrary, but it probably can't be much sooner than 1400 or later than 1900.
+
+## Migration Timeline
+The current timeline is based on a proposal from Tim that would shift the contact with elder folk period a little earlier, and move the northern migrations *after* contact, as the beginning of a wave of emigrations triggered in part by the social and cultural upheavals caused by the introduction of arcane magic and the idea of incorporeal gods.
