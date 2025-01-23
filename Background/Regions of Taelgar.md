@@ -12,25 +12,38 @@ The document outlines the major regions of Taelgar and the current state of deve
 The numbers align with the regions on the map below.
 ### 1. Endless Ocean and the Far West 
 
-This includes everything west of [[Apporia|Apporian Peninsula]] and the [[~North Chardon Coast~]]. Primarily, this is the [[~Sayuna Islands~]], as well as any mysterious additional islands or underwater features lurking in the Endless Ocean.
+*Area*: This includes everything west of [[Apporia|Apporian Peninsula]] and the [[~North Chardon Coast~]]. Primarily, this is the [[~Sayuna Islands~]], as well as any mysterious additional islands or underwater features lurking in the Endless Ocean.
 
-There are no canonical facts about this region except that [[Merfolk]] are known to live here. It is expected that whatever development occurs around the [[~Sayuna Islands~]] will be based on an early [[~Northerner~]] migration from Hkar, but this is not canonical. Potentially the [[~Sayuna Islands~]] do not even exist.
+*Canonical Development:* There are no canonical facts about this region except that [[Merfolk]] are known to live here; an ancient and important merfolk city, [[Omi]], is in this region. 
 
-Note a canonical ancient and important merfolk city, [[Omi]], is in this region.
+*Non-Canonical Development:* It is expected that whatever development occurs around the [[~Sayuna Islands~]] will be based on an early [[~Northerner~]] migration from Hkar, but this is not canonical. Potentially the [[~Sayuna Islands~]] do not even exist.
+
+*Blank Regions:* Essentially this entire region is blank. The [[~Sayuna Islands~]] are best left undeveloped until needed for a game. 
+
+*Adventures:* The merfolk arc of the Dunmar Frontier campaign traveled to [[Omi]], but otherwise this region has not see any actual play time. 
 
 ### 2. The Northwest Coast
-This includes the western coastal region north of the [[Mawakel Peninsula]] including the coasts the large bay north of Mawakel ([[~North Bay~]]), the large headland farther north, and the large unnamed island off the Mawakel Peninsula. The existence of the [[~North Bay~]] is required by more canonical development of [[Mawakel Peninsula]] and the [[Voltara]] region.
 
-Otherwise, there is nothing canonical about this region, although it has been assumed to have been one of the first points where the [[~Northerner~]] culture emigrated to from [[Hkar]] and thus cultural development in this regional should probably be inspired by the other [[~Northerner~]] cultures (although other options are possible).
+*Area:* This includes the western coastal region north of the [[Mawakel Peninsula]] including the coasts the large bay north of Mawakel ([[~North Bay~]]), the large headland farther north, and the large unnamed island off the Mawakel Peninsula. 
 
+*Canonical Development:* The existence of the [[~North Bay~]] is required by more canonical development of [[Mawakel Peninsula]] and the [[Voltara]] region.
+
+*Non-Canonical Development:* This region has been assumed to have been one of the first points where the [[~Northerner~]] culture emigrated to from [[Hkar]] and thus cultural development in this regional should probably be inspired by the other [[~Northerner~]] cultures, although other options are possible.
+
+*Blank Regions:* Essentially this entire region is intentionally blank and should be left undeveloped until needed for a game. 
+
+*Adventures:* No adventures have been set in this region. 
 ### 3. Chardonian Empire and the Mawakel Peninsula
-This region stretches north from the [[~South Chardon River~]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[~North Chardon Coast~]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
 
-Although some features lack names, it is substantially developed, especially the river valleys. In particular, the Chasa River Valley, including the city of Chardon, is substantially developed, although the pre-Great War history of this region is fairly flimsy. The immediate area of Voltara, and the Mawakel Peninsula, are also substantially developed. 
+*Area:* This region stretches north from the [[~South Chardon River~]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[~North Chardon Coast~]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
 
-There are some relatively blank spaces along the [[~North Chardon Coast~]] and [[Lake Valandros]], and some lightly developed areas on the coast west of [[Voltara]]. 
+*Canonical Development:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details; the immediate area of Voltara, and the Mawakel Peninsula, are also substantially developed. Most of the history of this region only exists in very broad strokes, although the Mawakel Peninsula has extensive historical development. 
 
-While this region has a canonical history in broad strokes, many details between the fall of Drankor and the Great War are only weakly developed, or left blank. Although canonically most of this region is part of the Chardonian Empire, the local political cultures are largely undeveloped. 
+*Non-Canonical Development:* While this region has a canonical history in broad strokes, many details are only weakly or non-canonically developed, or left blank. Although canonically most of this region is part of the Chardonian Empire, the local political cultures are largely undeveloped. 
+
+*Blank Regions:* The  [[~North Chardon Coast~]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. The history and current political culture of this region exists only in very broad strokes, for the most part, and could use additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself. 
+
+*Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara. 
 
 ## 4. Apporia and the Nevos Sea
 This region includes the [[Apporia|Apporian Peninsula]], the two islands of [[Illoria]], the [[Yeraad River Basin]], and the [[Nevos Sea]]. Only the north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. 
