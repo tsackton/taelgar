@@ -31,6 +31,9 @@ This idea might be worth playing with or expanding and could provide some intere
 %%
 
 ### Necromancy
+
+See notes on [[Undead]].
+
 These metaphysics have implications for how necromancy and undeath is seen, which, although it varies across cultures, has some commonalities. Some types of undead, such as skeletons, ghouls, and zombies are purely animated by necromantic forces. These undead have no relationship to the [[Plane of Souls]] and merely require a physical body. 
 
 Other types of undead, such as ghosts, specters, and wraiths are the disembodied souls, usually of those souls who were lost on the Material Plane (although who knows what magic can do). 

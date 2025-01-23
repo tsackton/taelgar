@@ -1,10 +1,9 @@
 ---
-tags: [background, status/check/tim, status/cleanup/gameupdate]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 ---
 # Languages 
-%% Tim: could use an update on merfolk based on the in-game info and update Vargaldi if we've settled they speak their own language %%
 
 %% See [[Language - Discussions]] for background and [[Languages - Open Questions]] for open questions %%
 
@@ -108,9 +107,14 @@ A group of mutually understandable dialects and languages spoken by the [[Deno'q
 
 _Real world analog_: Hebrew or Arabic
 _Alphabet_: Unknown. %% Previously was stated as an alphabet based on Elvish, but it might be better to have it be a Northros alphabet %%
+##### Vargaldi
+The language spoken by the [[Vargaldi]] people of the [[~Northern Boreal Forest~]]. Although ancestrally a Northos language that retains the basic Northros grammar, Vargaldi has numerous loan word from Eastros.
+
+_Real world analog_: Not defined, although many names are Slavic reflecting Eastros influences. 
+_Alphabet_: Unknown. 
 
 %% Background Note:
-There are numerous undeveloped cultures and partially developed cultures that likely speak a Northros language. This list should not be considered complete. One example is the the [[Vargaldi]], who presumably speak a Northros language, although in game they had numerous Eastros (Slavic) loan words. 
+There are numerous undeveloped cultures and partially developed cultures that likely speak a Northros language. This list should not be considered complete. 
 
 Additionally, this list may be influenced by further development of the linguistic and cultural mixing that occurred in Vostok, Sembaran, and the Western Green Sea as the Skaer/Mariner culture interacted with the Zimka/Northern culture. It is not totally clear whether the language of Vostok should be Northros or Eastros, for example. 
 %%
@@ -266,19 +270,22 @@ The kenku have their own language, although whether the kenku of the north and t
 
 _Real world mapping_: Sioux
 _Alphabet_: Unknown
-%%^End%%
-
-%%^Campaign:none%%
-%% Merfolk language clearly exists but I don't have details; might be worth putting here at least what we know  %%
 ##### Merfolk
+The language spoken by the Merfolk of the [[West Coast Region]]. Whether there are other Merfolk dialects or languages spoken elsewhere is not recorded.
+
+_Real world mapping:_ None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables. 
+_Alphabet:_ The merfolk of Omi, at least don't have an obvious written alphabet, but use invented pictograph glyphs for writing. 
 %%^End%%
 
 ### Extra-Planar Languages
 Time and space do not work on the other planes as they do on the material plane, and each plane tends to be represented by a single language. Barring special gifts or blessings of natives of these planes, or magical aid, these are typically difficult, although not impossible, for outsiders to learn. 
-
-The most common [[Extra-Planar Language|extra-planar language]] spoken in Taelgar is **Sylvan**, the language of the Feywild:
 ##### Sylvan
-The language of the [[Feywild]], also commonly spoken by fairies, satyrs, and other fey inhabitants of Taelgar, as well as elves, Tyrwinghans, and others who have substantial dealings with the fey. It is a lilting and musical language and hints at magical power.
+The most common [[Extra-Planar Language|extra-planar language]] spoken in Taelgar, and the language of the [[Feywild]]. Commonly spoken by fairies, satyrs, and other fey inhabitants of Taelgar, as well as elves, Tyrwinghans, and others who have substantial dealings with the fey. It is a lilting and musical language and hints at magical power.
 
 _Real world analog_: None, specifically, but it should sound lyrical. Many existing Fey names use Classic Greek, but Polynesian or Hawaiian might be interesting places for inspiration.
 _Alphabet_: Commonly written in Elvish, but with a complex magical writing system as well (see [[Sylvan Writing]] for more details)
+##### Primordial
+The language family of the [[Energy Realms]]. At least four dialects are known: Aquan, Auran, Ignan, and Terran, but more dialects may exist. Not commonly learned by natives of other planes, but occasionally studied by wizards, druids, or others regularly interact with elementals. 
+
+_Real world analog_: Not determined, and may vary among dialects. Named elementals tend to have long, multi-syllabic names. 
+_Alphabet_: Not determined. 

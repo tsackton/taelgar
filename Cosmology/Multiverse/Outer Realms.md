@@ -6,7 +6,7 @@ dm_notes: none
 ---
 # Outer Realms
 
-The Outer Realms are a concept proposed by [[Yendalism|followers]] of the [[Stoneborn|stoneborn]] metaphysicist [[Yendalo]], that represent the collection of planes that are beyond the barrier of the [[Land of the Dead]] (contrast with the [[Inner Realms]]). These include primarily the [[Spiritual Realms]], but [[Land of the Dead]] itself is also considered an Outer Realm. 
+The Outer Realms are a concept proposed by [[Yendalism|followers]] of the [[Stoneborn|stoneborn]] metaphysicist [[Yendalo]], that represent the collection of planes that are beyond the barrier of the [[Land of the Dead|Divine Veil]] (contrast with the [[Inner Realms]]). These include primarily the [[Spiritual Realms]], but [[Land of the Dead|Divine Veil]] itself and the [[Plane of Creation]] are also considered Outer Realms of a sort. 
 
 [[Yendalism|Yendalists]] argue that this classification is superior to others, as the Outer Realms represent the planes on which the souls of the dead can sustain themselves without fading or being cursed with undeath.
 
