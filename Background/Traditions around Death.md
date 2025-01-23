@@ -1,11 +1,9 @@
 ---
-tags: [background, status/check/tim]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
-
-%% Tim to confirm this is "good enough" that it should be in background rather than brainstorming %%
 
 **WARNING: THIS DOCUMENT IS SHOULD NOT BE CONSIDERED FULLY CANONICAL**
 

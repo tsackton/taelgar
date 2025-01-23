@@ -1,7 +1,5 @@
 ---
-tags: [status/stub, background, status/check/tim]
+tags: [status/stub, background]
 dm_owner: joint
 dm_notes: none
 ---
-
-%% Tim to set dm status if wrong %%

@@ -1,13 +1,11 @@
 ---
-tags: [status/check/tim, background]
+tags: [background]
 dm_owner: none
 dm_notes: none
 ---
 ## Dwarven Coins
 
-%% This was linked from a bunch of places so I figured I should just clean it up and make it real %%
-
-Dwarven mints in the kingdoms of [[Nardith]], [[Nidzahar]] and [[Am'khazar]] produce both coins and trade bars in a variety of denominations. Dwarven trade bars, stamped with a known weight of silver or gold, are commonly used for large transactions in [[Dunmar]], [[Sembara]], and the [[Zimka]] realms. 
+Dwarven mints in the kingdoms of [[Nardith]], [[Nidzahar]] and [[Am'khazar]] produce both coins and trade bars in a variety of denominations. Dwarven trade bars, stamped with a known weight of silver or gold, are commonly used for large transactions in [[Dunmar]], [[Sembara]], and the [[Zimka]] realms, and are often seen in the [[Chardonian Empire]], as well. 
 
 Dwarven coins are minted in gold and silver in a variety of sizes and values. Dwarves also mint and produce iron trading coins, known as nibs, that are backed by a gold standard but not otherwise containing any intrinsic worth.
 

@@ -275,6 +275,13 @@ The language spoken by the Merfolk of the [[West Coast Region]]. Whether there a
 
 _Real world mapping:_ None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables. 
 _Alphabet:_ The merfolk of Omi, at least don't have an obvious written alphabet, but use invented pictograph glyphs for writing. 
+
+##### Gnoll
+A hideous, distorted version of Abyssal, with a limited vocabulary and grammar, spoken by gnolls.
+
+_Real world analog:_ Nothing specific.
+_Alphabet_: There is no written version of gnoll.
+*Intelligibility*: Speakers of Abyssal can often understand gnoll, although not typically vice versa unless the speaker makes a dedicated effort.
 %%^End%%
 
 ### Extra-Planar Languages

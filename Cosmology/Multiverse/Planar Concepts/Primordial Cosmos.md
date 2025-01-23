@@ -1,5 +1,5 @@
 ---
-tags: [status/stub, status/check/tim]
+tags: [status/stub]
 dm_owner: tim
 dm_notes: none
 ---
