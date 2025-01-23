@@ -1,13 +1,11 @@
 ---
-tags: [background, status/status/tim, status/cleanup/text]
+tags: [background, status/check/mike]
 dm_owner: none
 dm_notes: none
 excludePublish: ["all"]
 ---
 
-%% Tim, 1/22/2025: updated the finished regions with additional details about what is/is not invented; feel free to trim if too wordy %%
-
-%% Mike: adding a few notes on the remaining regions, but it could use clarification/corrections %%
+%% some reorganization to standardize descriptions a little%%
 
 The document outlines the major regions of Taelgar and the current state of development. The intention is to try to better document which areas are truly blank slates, which areas have some firm facts that are not fully developed, and which areas are significantly developed.
 
@@ -45,17 +43,15 @@ This region has several intentional blank or mysterious areas, particularly the 
 This region includes the [[Dunmari Basin]], the [[Myraeni Gap]], and the [[Garamjala Desert]] as well as the ancient city of [[Drankorian Empire|Drankor]] and the [[Sea of Storms]]. Although the desolation around Drankor and the wastes of the [[Garamjala Desert|Garamjala]] may hold many mysteries, the history of this land is well established, as is the climate, geography and human civilizations.
 
 ## 6. Eastern Drankor
-This region is almost entirely undeveloped. Canonically, it was part of the heartland of Drankor, but it has been a dangerous wilderness since the fall of Drankor.
-
-%% Tim, do you have anything ? Is the above correct %%
+This region is almost entirely undeveloped. Canonically, it was part of the heartland of Drankor, and the  historical elven realm of [[Rostaure]] is in this region. However, the fate of this region since the fall of Drankor is undetermined, although it is assumed that at least the western parts of this region, closest to Drankor, are dangerous wilderness. 
 
 ## 7. Northernwestern Interior
-This region includes the far northern section of the Sentinels and the [[Forest of Nightmares]] and the [[Blackwater Fens]]. This region has been the setting of a couple of adventures, and is one of the major areas of the [[Northern Tribes|Northern Deno'qai Tribes]] but there are numerous blank spots.
+This region includes the far northern section of the Sentinels, the [[Forest of Nightmares]], and the [[Blackwater Fens]]. This region has been the setting of a couple of adventures, and is one of the major areas of the [[Northern Tribes|Northern Deno'qai Tribes]] but there are numerous blank spots. This region includes the historical realm of [[Pandar]], about which few canonical details exist other than it was [[Cha'mutte]]'s primary permanent territory, and a large number of kenku enslaved by Cha'mutte lived here prior to the [[Great War]]. 
 
 In general, this region was dominated by [[Cha'mutte]] during the [[Great War]] and is best kept relatively empty as a setting for dark and dangerous things.
 
 ## 8. The Sentinels
-This region is dominated by the [[Sentinel Range]] and the forests on its western slopes. The dwarven kingdoms of the Sentinels are fairly well established. The elven kingdoms of the [[Elderwood]] are canonical, but not well established and potentially a source of some mystery. In general this land has few people outside of the [[Deno'qai]].
+This region is dominated by the [[Sentinel Range]] and the forests on its western slopes. The dwarven kingdoms of the Sentinels are fairly well established. The elven kingdoms of [[Ainumarya]] are canonical, but not well established and potentially a source of some mystery. In general this land has few people outside of the [[Deno'qai]], although once it was the thriving heartland of elven kingdoms. 
 
 ## 9. Greater Sembara
 This region includes [[Sembara]], [[Tollen]], [[Tyrwingha]], [[Cymea]], [[Vostok]] and [[Skaerhem]]. The culture and history are well developed as far back as the [[The Downfall|Downfall]]. [[Zimkova]], [[Vostok]], and [[Cymea]] are considerably less well developed than the remainder of the region, although large scale events that impact the rest of [[Greater Sembara]] have largely been developed, and invention within the lightly developed regions has to conform to a canonical history.
@@ -71,16 +67,16 @@ The current state of the [[Plaguelands]] is intentionally not well developed, bu
 This region has significant brainstorming, but outside of some small details created about [[Irrla]], has no canonical developments.
 
 ## 12. North Green Sea Coast
-The culture of [[Ursk]] is well developed, although there are a number of blank spots in the history. The remainder of the region is fairly well developed as wilderness with numerous dangers, and is unlikely to hold significant human cultures. 
+The culture of [[Ursk]] is well developed, although there are a number of blank spots in the history. The remainder of the region is fairly well developed as wilderness with numerous dangers, and is unlikely to hold significant cultures beyond the [[Vargaldi]]. This area has a significant frost giant presence, in [[Kaldhalla]], and the conflict between frost giants and white dragons has substantially shaped some of the details of the wilderness here. Canonically there are established dwarven and stoneborn cultures in the [[Svinjo Mountains]], but no details are invented about these peoples. 
 
 ## 13. Eastern Green Sea
 Outside of the existence of [[Medju]] and the [[Vermillion Isles]], this area is an almost complete blank. There is numerous brainstorming, but a general reluctance to commit to a specific detailed history in the absence of a campaign or significant series of adventures being set in this region. This is likely an area of rich and complex human civilizations. 
 
 ## 14. The Far North
-Outside of the existence of the descendants of [[Vimfrost]] plagueing the region, this area is almost entirely undeveloped, and is largely intentionally blank. Any human civilizations here would be highly magic or scattered and small, and not likely to impact other cultures or the grand sweep of history.
+Outside of the existence of the descendants of [[Vimfrost]] plagueing the region, this area is almost entirely undeveloped, and is largely intentionally blank. Any human civilizations here would be highly magic or scattered and small, and not likely to impact other cultures or the grand sweep of history. A large number of kenku canonically make their home on the western plains of this region, near the [[Sentinel Range|Sentinels]], but no details have been developed. 
 
 ## 15. The Far South
-Outside of the swamps of [[Orekatu]] and hints of an ancient trading civilization (the Targu), there is no canonical development here. This area is explicitly left blank and should not be developed without careful consideration.
+Outside of the swamps and jungles of [[Orekatu]], hints of an ancient trading civilization (Targu), the presence of gnomes, and the existence of a vast desert somewhere in this region, there is no canonical development here. This area is explicitly left blank and should not be developed without careful consideration.
 ## Map
 
 
