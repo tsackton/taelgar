@@ -1,11 +1,11 @@
 ---
-tags: [status/needswork/shared, status/check/tim]
+tags: [status/needswork/shared]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
 
-%% Although not necessarily canonical entirely, this is worth keeping in background rather than worldbuilding, I think, as it is, if nothing else, the basis of what we are developing against %%
+**WARNING: THIS DOCUMENT IS SHOULD NOT BE CONSIDERED FULLY CANONICAL**
 
 This note tries to draw together various strands of worldbuilding related to religious history into a cohesive outline. 
 
@@ -68,6 +68,8 @@ The various northern folk religious traditions -- [[Tanshi Worship]] and the [[K
 After contact with the Elder Folk, human culture on Hkar enters a period of rapid change. Arcane magic spreads quickly, you start to get rapid urbanization, the establishment of Hkaran colonies (this is potentially the "Southerners"), a lot of cultural diversification and the beginnings of what will become the urban/mariner divide. 
 
 Conceptually, you get the first development of the idea of omnipresent deities who have their own independent spiritual domains beyond the veil of the Land of the Dead. Potentially, this is basically just stolen from the Elder Folk and is a human conception of the Embodied Gods. Metaphysically, this is a massive shift and leads to a number of important developments in religious history. 
+
+%%See: [[Discord Chat - Homes of Incorporeal Gods]] for some discussion / possible revision on this point %%
 
 - While the nature of the divine spark remains ineffable, the belief in the possibility of human spiritual realms, at some level, acts to make them possible. Whether created out of divine energy directly, or transformed from something else, no one knows. 
 - The nature of divinity that inhabits a spiritual realm is fundamentally different from a deity that inhabits the material plane. These deities are in many ways naturally omnipresent, and are limited only by the effort of channeling divine magic from the spiritual realms to the material plane.
