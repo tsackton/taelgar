@@ -1,6 +1,6 @@
 ---
-tags: [status/stub, status/check/tim]
-dm_owner: tim
+tags: [status/stub]
+dm_owner: joint
 dm_notes: none
 ---
 

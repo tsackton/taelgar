@@ -1,11 +1,9 @@
 ---
-tags: [background, status/check/tim]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
-
-%% Tim - does this read as reasonable canonical to you? %%
 
 This note tries to draw together information from various sources to form a semi-canonical history of humanity in the Greater Sembaran region, intended to inform development of Sembara, Tyrwingha, Maseau, Addermarch, Tollen, Zimkova, and Vostok. Sections in %% notes %% should not be considered canonical. The rest generally is, although this specific background doc is not meant as direct world lore. 
 
@@ -81,7 +79,7 @@ For 600-700 years, Drankor rules the Sembaran Provinces in (mostly) peace, and t
 * In the north, the Zimka increasingly remain kestavan worshippers, and the "old" and "new" Zimka increasingly intermingle and reunify. The Eastros-based language comes to dominate, although some small pockets of Old Zimka remain, especially in a ritual context, and many of the kestavo have Old Zimka names. 
 * In the central Sembaran provinces, the intercessionist form of Mos Numena develops and a broad Sembaran culture starts to form
 * In Tyrwingha, there is much intermixing with the Sembaran culture, but a strong traditionalist attitude as well, and the Tyrwinghan language remains common in rural areas, but the Sembaran form of worship is adopted with some small Tyrwinghan flavors
-* Maseau and the Istabor watershed increasingly develop a very Drankorian culture, with closer ties to Drankor itself
+* Maseau and the Isataros watershed increasingly develop a very Drankorian culture, with closer ties to Drankor itself
 
 %% The Istabor watershed in particular is not well developed here and this should be not considered canon; the main point is that Maseau is fairly culturally distinct from the main Sembaran provinces, and is more purely Drankorian %%
 
@@ -93,7 +91,7 @@ For 600-700 years, Drankor rules the Sembaran Provinces in (mostly) peace, and t
 
 In the modern era (since the Great War), the Greater Sembaran region has been the home to a number of different cultural elements:
 
-* The ~Old Zimka~, a traditionalist and declining culture limited to the foothills of the Sentinels and the upper headwaters of the Volta River. This culture preserves many of the ancient northern ways, worships the kestavo, and speaks a Northros language. These people have never been conqueored by Drankor nor Sembara
-* The ~New Zimka~, a blended culture that maintains a significant shared identity with the ~Old Zimkovans~, but where many of them worship Mos Numena, and speak a Eastros dervived but Drankorian influenced language. These people were never conqueored by Drankor, but have, at times, been part of the larger Sembaran Empire, although since 1650 they have been independent
+* The ~Old Zimka~, a traditionalist and declining culture limited to the foothills of the Sentinels and the upper headwaters of the Volta River. This culture preserves many of the ancient northern ways, worships the kestavo, and speaks a Northros language. These people have never been ruled by Drankor or Sembara
+* The ~New Zimka~, a blended culture that maintains a significant shared identity with the ~Old Zimkovans~, but where many of them worship Mos Numena, and speak a Eastros derived but Drankorian influenced language. These people were never ruled by Drankor, but have, at times, been part of the larger Sembaran Empire, although since 1650 they have been independent
 * The Sembarans, a Drankorian derived culture but with significant influences from both Tollenders and Zimkovans. Some cultural differences between the northern Sembarans, especially in the highlands and the Duchy of Telham, and the southern Sembarans persist. The northern strands of Sembaran culture tend to be more Tollish/Zimkovan, and the southern more Drankorian/Isinguese. Speaks a Eastros/Drankorian blended language and worships Mos Numea. 
 * The Tyrwinghans, an ancient culture of unclear origin, although with significant assimilation trends and a lot of Drankorian and Sembaran influences. Worships Mos Numena, and mostly speaks Sembaran, but with a significant minority that speak Tyrwinghan, an ancient language with some relationships to Eastros. The Tyrwinghan culture, broadly, also spreads west into parts of modern-day Addermarch, although the fey influence and fey culture is distinctly different. See [[Addermarch]] for more. 

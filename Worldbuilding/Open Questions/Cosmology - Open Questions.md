@@ -55,6 +55,8 @@ working on spiritual realms, now, and i'm actually not sure whether incorporeal 
 
 the only thing that has ever been made up and canonically exists that is associated with a human god is Shakun's Realm, and that is a distinctly unusual place. it is not a place where human souls go in the afterlife, it is basically a trap for the enemies of Dunmar. so it could easily be an echo realm or a demiplane or whatever, much more like Cha'mutte's shadow realms than an Outer Plane.
 
+This line of thought continues here: [[Discord Chat - Homes of Incorporeal Gods]]
+
 ---
 
 ## Relationship among Spiritual Realms

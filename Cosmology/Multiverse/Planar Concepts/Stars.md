@@ -1,7 +1,7 @@
 ---
-tags: [status/stub, background, status/check/tim]
+tags: [status/stub, background]
 dm_owner: joint
 dm_notes: none
 ---
 
-%% Tim to set dm status if wrong %%
+%% note connection to [[Fox and Hunter]], which is a constellation and a demigod %%

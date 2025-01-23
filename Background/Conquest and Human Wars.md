@@ -1,5 +1,5 @@
 ---
-tags: [background, status/check/tim]
+tags: [background]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
@@ -11,7 +11,7 @@ This document outlines a few guidelines and thoughts on war and conquest in Tael
 
 In general, although wars between human realms do happen, wars of conquest in Taelgar are substantially rarer than they are on Earth. Several famous conquests - such as the Drankorian conquest of Sembara - were less conquests than "Drankor shows up with a million wizards and offers to rule" and Sembaran say "sure, come rule if that means your million wizards will protect us from the bad things".
 
-There are exceptions (the Chardonian conquest of the west coast after the Great War, for example), but they should be rare and have some reasonable justifications. 
+There are exceptions (the Drankorian conquest of the West Coast, the Chardonian conquest north of Lake Valandros), but they should be rare and have some reasonable justifications. 
 
 This should have some implications for worldbuilding:
 * It is rare for allegiances to change often; duchies or baronies are not usually fought over frequently
