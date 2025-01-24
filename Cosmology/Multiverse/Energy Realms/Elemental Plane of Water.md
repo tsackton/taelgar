@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
-whereabouts: Elemental Realms
+whereabouts: Energy Realms
 dm_notes: important
 dm_owner: tim
 ---
