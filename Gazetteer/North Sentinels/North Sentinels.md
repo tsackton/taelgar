@@ -11,27 +11,24 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% this is a potential refactor of regional pages; questioning whether it is sensible? %%
-
-
+North
 
 ![[north-sentinels-map.png]]
 
 ## Major Features
 Few have mapped this region, but some major features are known, if not named:
 
-* [[~Far North Central River~]] : a river system that drains from the [[Sentinel Range|Sentinels]] north to the ice-choked [[~Far North Bay~]]
-* [[~Far North Western Mountains~]]: a range of coastal mountains, impassible and choked with snow and ice
-* [[~Far North Sentinels~]]: north of the northern-most [[Sentinel Range|Sentinels]] 
-* [[~NorthUrskMountains~]]: said to be the birthplace of [[Vimfrost]] and home to main frost-breathing dragons
-* [[~North Ursk River~]]:  
-* [[~Northern Boreal Forest~]]: 
+* [[Forest of Nightmares]]
+* [[Blackwater Fens]]
+* North Sentinel Range
+* [[~Unnamed North Sentinel Pass~]]
 
-%% This section probably lists too many 'potential' places, it is not clear the best way to manage a 'major features' section here. Should it only include named or should-be-named features? Should the map have more stuff blanked out? %%'
 ## Civilizations and Cultures
-Although rumors persist of [[Kenku|kenku]] flying across the [[~Far North Steppe~]], few can say where exactly these winged creatures live. 
+There are few humans in this region, although the [[Northern Tribes|northern Deno'qai tribes]] make their home here. The dwarven kingdom of [[Fahnukan]] lies beneath the northern Sentinels, and [[Stoneborn|stoneborn]] are known in this region as well. 
+
+Historically, this was the land of [[Pandar]] and one of the major bases of [[Cha'mutte|Cha'mutte's]] [[Hobgoblins|hobgoblin]] armies. The [[~Unnamed North Sentinel Pass~]] was an early route of migration for [[~Northerner~]] as they moved east before the [[The Downfall|Downfall]].
 ## Climate
-This region of Taelgar is nearly entirely within the subpolar or polar climates, a mix of [vast subarctic forests](https://geodiode.com/climate/subarctic) and [barren tundra](https://geodiode.com/climate/tundra). But few rumors or tales come to the south from these regions, and in the distant north, who knows what strange magic may sustain life in unlikely places?
+
 
 %%^Campaign:None%%
 
