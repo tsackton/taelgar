@@ -1,9 +1,11 @@
 ---
-tags: [background, status/needswork/gameupdate]
-dm_owner: joint,mike
-dm_notes: important
+tags: [background, status/needswork/gameupdate, status/check/mike]
+dm_owner: mike,tim
+dm_notes: none
 excludePublish: ["all"]
 ---
+
+%% check/mike: confirming needswork/gameupdate is sufficient for dm_notes: none to be accurate %%
 
 %%  I have some notes from recent developments in game around Ethlenn's powers - mostly this is based on discord conversations but I have a few refinements %%
 ### Ethlenn and Umbraeth
@@ -16,4 +18,19 @@ He was banished to never be able to cross the Sunset Gate, outside his own realm
 
 When Cloudspinner fell, he expanded his domain substantially, but he cannot cross the Sunset Gate.
 
-%% These notes are not fully canonical; there is lots of discussion on Discord re: this topic %%
+%%^Campaign:none%%
+
+These notes are not fully canonical; there is lots of discussion on Discord re: this topic 
+
+Primary Discord conversations:
+- [[Discord Chat - Ethlenn and Umbraeth]]
+- [[Discord Chat - Fey Realms]]
+- [[Discord Chat - Tyrwingha]]
+- [[Discord Chat - Fey and Tyrwingha]]
+
+Also touched upon in:
+- [[Discord Chat - Addermarch]]
+- [[Discord Chat - de Brunes]]
+- [[Email - Sketch of Tyrwinghan Religion]]
+
+%%^End%%

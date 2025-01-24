@@ -1,7 +1,7 @@
 ---
 tags: [background, status/cleanup/text]
 dm_owner: joint
-dm_info: none
+dm_notes: none
 excludePublish: ["all"]
 ---
 This background document defines a typology of human cultures, where the blank spaces are, and some major trends.  See [[Historical Framework]] for more background,  [[Human Cultures - Discussions]] for meta, and [[Human Cultures - Open Questions]] for open questions.

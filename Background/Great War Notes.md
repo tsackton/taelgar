@@ -1,6 +1,6 @@
 ---
-tags: [background]
-dm_owner: joint,tim
+tags: [background, status/cleanup/external]
+dm_owner: joint
 dm_notes: important
 excludePublish: ["all"]
 ---
