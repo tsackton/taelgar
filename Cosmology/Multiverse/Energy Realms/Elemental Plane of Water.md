@@ -2,7 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
-whereabouts: Energy Realms
+whereabouts: 
+- {type: home, location: Energy Realms, wHome: "A <typeOf> in <home:2>"}
 dm_notes: important
 dm_owner: tim
 ---
