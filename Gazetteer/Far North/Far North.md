@@ -33,6 +33,9 @@ Although rumors persist of [[Kenku|kenku]] flying across the [[~Far North Steppe
 ## Climate
 This region of Taelgar is nearly entirely within the subpolar or polar climates, a mix of [vast subarctic forests](https://geodiode.com/climate/subarctic) and [barren tundra](https://geodiode.com/climate/tundra). But few rumors or tales come to the south from these regions, and in the distant north, who knows what strange magic may sustain life in unlikely places?
 
+## Major Historical Eras
+Little is known of the history of this region, although [[Vimfrost's War]] was partially fought here.
+
 %%^Campaign:None%%
 #### Area and Borders
 This region is poorly defined as little geographic development exists, but it includes everything north of [[Pandar]], [[Vostok]], and the [[Ket]]. West of the [[Sentinel Range|Sentinels]] and east of [[Ursk]] there is insufficient development to define a precise border, but in general it should be north of any significant settled human cultures.
