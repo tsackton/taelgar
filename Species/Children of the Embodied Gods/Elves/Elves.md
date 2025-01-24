@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/old, species, status/cleanup/external]
+tags: [status/needswork/old, species]
 name: Elves
 aliases: [elf, elves, Elf, Elves, elven, Elven]
 dm_owner: joint
@@ -44,6 +44,14 @@ For some Elves, this means a further turn inward, and a desire to retreat from e
 ## Superior Protectors
 
 Because they see themselves as the caretakers of the world, and the oldest and wisest of races, Elves tend to view other races, even long-lived ones like Stoneborn and Dwarves, as children. Sometimes, this manifests as a haughty aloofness, other times as a caring presence, but it is always hard for Elves to treat other races as equals.
+
+%% main Discord conversations
+- [[Discord Chat - Elves]]
+- [[Discord Chat - Species]]
+
+Tons of other backlinks and unlinked mentions, but not all will be relevant
+
+%%
 
 %%
 Email conversation notes
