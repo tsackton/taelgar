@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/cleanup/metadata]
 name: Forest of Nightmares
 typeOf: forest
-whereabouts: Ainumarya
+whereabouts: North Sentinels
 dm_notes: important
 dm_owner: tim
 ---

@@ -44,4 +44,14 @@ The area north of [[Vostok]] is tentatively invented as a subarctic grassland - 
 This area is almost entirely undeveloped, and is largely intentionally blank. Any human civilizations here would be highly magic or scattered and small, and not likely to impact other cultures or the grand sweep of history. 
 #### Adventures
 No adventures have been set in this region.
+### Places in Far North
+```dataviewjs
+const { util } = customJS
+dv.table(["Place", "Type Of"], 
+			dv.pages("#place")
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))
+				.sort(b => util.s("<maintype>", b.file))
+				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
+```
+
 %%^End%%
