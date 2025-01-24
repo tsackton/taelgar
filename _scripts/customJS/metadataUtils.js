@@ -189,6 +189,28 @@ class util {
         return this.#isInLocation(home.location, targetLocation, targetDate)
     }
 
+    originatedIn(targetLocation, metadata, includeDead, targetDate) {
+
+        const { WhereaboutsManager } = customJS
+        const { DateManager } = customJS
+
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+
+        let pageDates = DateManager.getPageDates(metadata, targetDate)
+
+        if (pageDates) {
+            if (!pageDates.isCreated) return false
+            if (!pageDates.isAlive && !includeDead) return false
+        }
+
+
+        let origin = WhereaboutsManager.getWhereabouts(metadata, targetDate).origin;
+        if (origin == undefined) return false;
+        if (origin.location == undefined) return false;
+
+        return this.#isInLocation(origin.location, targetLocation, targetDate)
+    }
+
     s(format, targetFile, targetDate) {
         const { TokenParser } = customJS
         const { DateManager } = customJS
