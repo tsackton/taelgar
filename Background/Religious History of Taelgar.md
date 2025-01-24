@@ -1,5 +1,5 @@
 ---
-tags: [status/needswork/shared]
+tags: [background, status/needswork/shared]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
