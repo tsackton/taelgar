@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/shared]
 name: Refounded Alliance of Aurbez
 typeOf: realm
-whereabouts: Greater Sembara
+whereabouts: Upper Istaros
 dm_owner: mike
 dm_notes: color
 ---

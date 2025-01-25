@@ -25,9 +25,12 @@ Few have mapped this region, but some major features are known, if not named:
 
 ## Civilizations and Cultures
 There are few humans in this region, although the [[Northern Tribes|northern Deno'qai tribes]] make their home here. The dwarven kingdom of [[Fahnukan]] lies beneath the northern Sentinels, and [[Stoneborn|stoneborn]] are known in this region as well. 
+## History
+In the ancient days before [[The Downfall]] it is said that the [[~Northerner~|northerners]] crossed the [[Sentinel Range|Sentinels]] at [[~Unnamed North Sentinel Pass~]]  in their eastward migrations, but the truth of this is unclear.
 
-Historically, this was the land of [[Pandar]] and one of the major bases of [[Cha'mutte|Cha'mutte's]] [[Hobgoblins|hobgoblin]] armies. The [[~Unnamed North Sentinel Pass~]] was an early route of migration for [[~Northerner~]] as they moved east before the [[The Downfall|Downfall]].
+In the long years leading up to the [[Great War]] the land of [[Pandar]] was [[Cha'mutte|Cha'mutte's]] home, and hobgoblins and enslaved [[Kenku|kenku]] were common sights. 
 ## Climate
+
 
 
 %%^Campaign:None%%
@@ -46,7 +49,7 @@ Historically, this was the land of [[Pandar]] and one of the major bases of [[Ch
 const { util } = customJS
 dv.table(["Place", "Type Of"], 
 			dv.pages("#place")
-				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))
+				.where(f => util.homeLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))
 				.sort(b => util.s("<maintype>", b.file))
 				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
 ```

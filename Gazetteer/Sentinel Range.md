@@ -15,7 +15,7 @@ dm_notes: color
 
 %% have some additional color notes, especially about south and northwest %%
 
-The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [[Green Sea]] and the surrounding lands from the [[West Coast Region|west coast]] of Taelgar.
+The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [[Green Sea]] and the surrounding lands from the [[Greater Chardon|west coast]] of Taelgar.
 
 The [[Sentinel Range]] stretches 2300 miles from volcano mountains of the former kingdom of [[Pandar]] in the north, to the northern foothills of the Dunmari plains in the south. 
 	- The northern section, from roughly [[Pandar]] south past the [[Forest of Nightmares]] to the area northeast of the [[Blackwater Fens]], is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 

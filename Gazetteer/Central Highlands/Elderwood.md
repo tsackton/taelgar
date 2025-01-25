@@ -11,7 +11,7 @@ dm_owner: tim
 ---
 # The Elderwood
 >[!info]+ Information
-> A forest in [[Ainumarya]], [[Central Highlands Region]]
+> A forest in [[Ainumarya]], [[Central Highlands]]
 
 Once the southern extent of [[Ainumarya]]; now inhabited by several Deno'qai tribes: [[Te'kula]], [[Baz'aku]], [[Bek'eni]].
 

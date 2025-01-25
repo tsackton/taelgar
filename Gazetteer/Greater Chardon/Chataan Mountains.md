@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: mountain range
-whereabouts: Darba Highlands
+whereabouts: Greater Chardon
 name: Chataan Mountains
 pronunciation: cha-TAWN
 dm_owner: none
