@@ -14,7 +14,7 @@ dm_owner: tim
 # Ardith
 >[!info]+ Information
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
-> A [[Dwarves|dwarven]] realm in [[Sentinel Range|Labkhan]], [[Central Highlands Region]]
+> A [[Dwarves|dwarven]] realm in [[Sentinel Range|Labkhan]], [[Central Highlands]]
 
 The dwarven kingdom of Ardith, once rich and prosperous and spreading from was overrun in the [[Great War]]. Most of the [[dwarves]] who survived settled in the [[Yuvanti Mountains]], founding the new kingdom of [[Nardith]].
 

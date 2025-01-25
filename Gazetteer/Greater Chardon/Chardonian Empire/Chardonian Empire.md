@@ -9,7 +9,7 @@ dm_notes: important
 ---
 # The Chardonian Empire
 >[!info]+ Information
-> A realm in the [[West Coast Region]]
+> A realm in the [[Greater Chardon]]
 
 %%needs tons of work, mostly can't pull from existing notes%%
 
@@ -28,3 +28,16 @@ dm_notes: important
     
 - Hinterlands small farms in river valley and south to forest edge and the hills around small river
 %%
+
+%%^Campaign:None%%
+### Places in Chardonian Empire
+```dataviewjs
+const { util } = customJS
+dv.table(["Place", "Type Of"], 
+			dv.pages("#place")
+				.where(f => util.inLocation(dv.current().file.name, f.file.frontmatter, dv.current().pageTargetDate))
+				.sort(b => util.s("<maintype>", b.file))
+				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
+```
+
+%%^End%%
