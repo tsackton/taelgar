@@ -1,0 +1,1 @@
+A potential steppe north of Vostok/Zimkova. Likely home to kenku, but nothing canonical.
