@@ -1,0 +1,1 @@
+%% the range of small mountains west of [[Lake Pekul]]. Border between [[~Zimkova Foothills~]] and [[~Vostok Plateau~]] %%

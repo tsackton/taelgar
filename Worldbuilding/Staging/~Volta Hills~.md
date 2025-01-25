@@ -1,0 +1,1 @@
+part of [[~Zimkova Foothills~]] on the east side of the [[Volta]]
