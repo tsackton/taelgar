@@ -89,8 +89,6 @@ _See more: [[Humanity in Greater Sembara]] and [[Timeline of Sembaran History]]_
 
 When humans first came to this region it was already a thriving land, with the ancient elven forest of [[Alcarinque]] to the south, and the [[~Ancient Lizardfolk Swamp~]] filling what would become the [[Enst]] and [[Wistel]] river valleys. Halflings sailed the [[Green Sea]] to the east, and dwarves delved deep in [[Sentinel Range|Sentinels]]  to the west. In the years before the [[The Downfall|Downfall]] to cultures of humans met and mixed: the [[~Northerner~]], traveling east from the high passes over the [[Sentinel Range|Sentinels]], and the [[~Mariners~]], sailing west from the [[Eastern Green Sea|far reaches of the Green Sea]]. From this melting pot, two distinct cultures emerged: the [[Zimka]], clinging to tradition in the north and the [[Tollen|Tollish]] culture, growing around the city of Tollen and the Sembaran coast. 
 
-The Downfall changed the land, and dried out the [[~Ancient Lizardfolk Swamp~]] and when the devastation and chaos cleared, 
-
 %% TODO: Add a sentence or two about each of the major eras. Consider speculative linking to future in game definitions.
 * [ ] Post Downfall situation
 * [ ] Skaer Empire and Retreat
