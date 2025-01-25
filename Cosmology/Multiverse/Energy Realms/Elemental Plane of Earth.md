@@ -42,35 +42,21 @@ The great geomancer [[Khevaris Stoneweaver]] studied planar access to the Elemen
 Less predictable but more common are the elemental vortexes, which occur deep underground, and in areas of extreme seismic activity. Khevaris recorded accounts of miners uncovering strange rifts that led directly into this vast plane, often at great peril to themselves. Unlike the Plane of Air, where portals flicker and shift, the Plane of Earth is said to hold its connections more firmly, though they may be hidden deep beneath the surface of the [[Material Plane]]. Many dwarves believe that the deepest caverns below the mountains blend seamlessly with the Elemental Plane of Earth, those who explore deep beneath the earth, never to return, may have wandered across a planar boundary and become lost.
 ## Traveling on the Plane of Earth
 
-Traveling within the Elemental Plane of Earth is as challenging as it is fascinating. While those with the ability to move through stone can navigate it with relative ease, most travelers must contend with narrow tunnels, immense caverns, and sudden shifts in the ground. 
-
-The plane is not static; tremors and quakes constantly reshape its passages, sometimes creating spectacular new vistas and other times collapsing entire routes. These seismic shifts can reveal buried treasures, such as veins of adamantine or chambers of glimmering quartz, but they can also trap the unwary in eternal darkness. The weight of the plane itself is oppressive, and even the hardiest adventurers speak of feeling the immense pressure of stone bearing down on their spirits.
+Traveling within the Elemental Plane of Earth is as challenging as it is fascinating. While those with the ability to move through stone can navigate it with relative ease, most travelers must contend with narrow tunnels, immense caverns, and sudden shifts in the ground. For, despite the feeling of solidity of the immensity of stone present in this realm, the Plane of Earth is not static. Reliable reports collected by the planar geographer [[~Dwarven Planar Geographer 1~]] suggest that tremors and quakes constantly reshape its passages, sometimes creating spectacular new vistas and other times collapsing entire routes. These seismic shifts can reveal buried treasures, such as veins of adamantine or chambers of glimmering quartz, but they can also trap the unwary in eternal darkness.
 
 ## Inhabitants of the Plane of Earth
 
 _See more: [[Elementals]]_
 
-The [[Elementals|Dao]], proud and greedy genies of the Plane of Earth, are its most famous inhabitants. With skin like polished stone and eyes that glimmer like gems, the dao are known for their unmatched skill in mining and crafting. They rule over vast underground palaces adorned with glittering treasures, treating their elemental servants and captives as little more than tools for their ambitions.
+The [[Elementals|Dao]] are probably the most famous inhabitants of the Plane of Earth, though they feature in far fewer tales and legends than their more famous cousins, the djinni and the efreeti. The dao are generally described as having smooth, stone-like skin, giving them an almost statuesque appearance, and to favor elaborate jewelry of gemstone and fine metal. Though many tales suggest the dao have a certain haughty arrogance to them, perhaps even a callous disregard for the free will of those that labor in their extensive mines, they are also rumored to possess vast memories. Indeed, the dwarven loremaster [[~Dwaven Name 2~]] claimed, in the preface of her detailed history of [[Sentinel Range|Labkhan]], to have learned impossible facts from the dao. 
 
-Other creatures of stone and earth also populate the plane. Elementals formed of raw rock and soil roam its depths, from towering, lumbering beings of granite to smaller, sharper constructs of flint and obsidian. Unconfirmed rumors speak of massive creatures of stone and earth, as big as a mountain, that roam the surface above the caverns of the Plane of Earth, but, as there is no evidence that the Plane of Earth has a surface, [[Lyrannis of Aquilona]] is more than happy to dismiss these claims as mere flights of fancy in her seminal work, [[On Elemental Forms]].
+Other creatures of stone and earth also populate the plane. Elementals formed of raw rock and soil roam its depths, from towering, lumbering beings of granite to smaller, sharper constructs of flint and obsidian. While most of these elementals are said to take on the humanoid forms often seen among summoned creatures, [[Lyrannis of Aquilona]] recorded descriptions of creatures that retained an almost boulder-like appearance, and others with bizarre forms, such as the three-legged xorn. 
+
+Unconfirmed rumors speak of massive creatures of stone and earth, as big as a mountain, that roam the surface above the caverns of the Plane of Earth, but, as there is no evidence that the Plane of Earth has a surface, [[Lyrannis of Aquilona]] is more than happy to dismiss these claims as mere flights of fancy in her seminal work, [[On Elemental Forms]].
 
 ## Landmarks on the Plane of Earth
 
-The Elemental Plane of Earth is an endless labyrinth, and mapping it is an impossible task. Nonetheless, explorers and geomancers have recorded a number of significant landmarks:
+The Elemental Plane of Earth is an endless labyrinth, and mapping it is an impossible task. Indeed, the concept of landmarks itself may be meaningless, for despite the apparent solidity of the Plane of Earth, its tunnels and caverns are constantly shifting. Nonetheless, reliable reports suggests that these landmarks, at least, are relatively stable:
 
-- **The Adamant Vault**: A colossal cavern encased in unbreakable adamantine, said to be the heart of dao craftsmanship. Legend holds that the dao kings forged their greatest treasures here, and it is guarded by their fiercest warriors.
-    
-- **The Emerald Chasm**: A vast abyss lined with massive emerald crystals, some as large as towers, which glow faintly with an eerie green light. The chasm is said to be sacred to certain tribes of earth elementals.
-    
-- **The Stoneheart Labyrinth**: A network of tunnels that spans thousands of miles, carved by an ancient, unknown force. The walls of the labyrinth are adorned with glyphs that no scholar has yet deciphered.
-    
-- **The Obsidian Pillar**: A single towering spire of black volcanic glass, rising miles into the plane’s ceilingless heights. Some believe it is a remnant of the plane’s creation, containing the raw essence of earth.
-    
-- **The Rivers of Gold**: Streams of molten metal that flow through deep subterranean channels, illuminating the darkness with their fiery glow. They are a place of great beauty but deadly heat, and they are jealously guarded by the dao.
-    
-- **The Crystal Grotto of Kalarith**: A cavern filled with massive quartz and amethyst formations that hum with latent energy. It is said that meditating here grants visions of the plane’s ancient past.
-    
-
----
-
-Would you like to expand on any section or adjust the tone further?
+- The [[Pillar of Karth]], described as towering spire impossibly hard stone, vibrating slightly to the resonances of some hidden song of the earth. Said to be at the very center of the plane, some believe it is a remnant of the plane’s creation, containing the raw essence of earth.
+- The [[Emerald Chasm]]: A vast abyss lined with massive emerald crystals, some as large as towers, which glow faintly with an eerie green light, carved into the homes of the greatest and most powerful of the Dao. 
