@@ -252,7 +252,7 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - Approximately 100 scrolls from the Drankorian Customs House, consisting mostly of shipping records, part of the [[Drankorian Treasure]]
 - The [[Book of Martyrs of the Radiant Path]], part of the [[Drankorian Treasure]], found in the administrative complex of the [[Temple of the Eight Divines]]
 - [[Apollyon|Appollyon's]] backup spellbook containing notes on how to use the forge in [[Apollyon's Tower|his tower]], notes on how to become a lich, and perhaps other hidden secrets.
-- Ten fireproof [[Records of the Concordia Pyrae|books of records and lore]] about the [[Elemental Plane of Fire]], and a chronicle of the history of the [[~Circular Island~]], taken from the [[Concordia Pyrae]] villa where Cloudspinner was imprisoned. 
+- Ten fireproof [[Compendium of Fire|books of records and lore]] about the [[Elemental Plane of Fire]], and a chronicle of the history of the [[~Circular Island~]], taken from the [[Concordia Pyrae]] villa where Cloudspinner was imprisoned. 
 - Six scrolls (five copies, one original) of Drankorian and Elvish literary works (poems and plays), found as part of the [[Tower of the Colossus Treasure]]
 - [[The Lore of the Feywild]], by [[Ulfgar Frostbeard]], received as a [[Gifts and Purchases|gift]]
 - [[On the Lost People of the Forests]], by [[Gnaeus]] received as a [[Gifts and Purchases|gift]]
