@@ -5,7 +5,7 @@ whereabouts:
 - {type: home, location: Energy Realms, wHome: "A <typeOf> in <home:2>"}
 typeOf: plane
 dm_notes: none
-dm_owner: none
+dm_owner: tim
 ---
 # The Elemental Plane of Earth
 >[!info]+ Information  
