@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/needswork/shared]
 name: Vostok
 typeOf: realm
-whereabouts: Western Green Sea Region
+whereabouts: Greater Sembara
 aliases: [Vosland]
 pronunciation: VOS-tok
 dm_owner: joint
@@ -14,7 +14,6 @@ dm_notes: none
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
 
 %% a fair bit of discussion in discord, but not sure how much of it is (a) relevant, (b) not already captured in [[Humanity in Greater Sembara]] or [[Languages]] %%
 

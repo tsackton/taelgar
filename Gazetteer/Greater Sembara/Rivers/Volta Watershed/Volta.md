@@ -4,7 +4,7 @@ tags: [place]
 name: Volta
 typeOf: waterway
 typeOfAlias: river
-whereabouts: Western Green Sea Region
+whereabouts: Greater Sembara
 aliases: [River Volta]
 dm_notes: none
 dm_owner: none
