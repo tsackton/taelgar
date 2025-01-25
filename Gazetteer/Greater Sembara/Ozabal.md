@@ -4,7 +4,7 @@ tags: [place]
 name: Ozabal
 ancestry: lizardfolk
 typeOf: swamp
-whereabouts: Western Green Sea Region
+whereabouts: Greater Sembara
 aliases: [Ozabal Swamp]
 dm_owner: none
 dm_notes: color
@@ -16,4 +16,4 @@ dm_notes: color
 
 A large area of swampy lowlands centered around the confluence of the [[Wistel]] and the [[Enst]], which is home to a substantial [[lizardfolk]] population. 
 
-The Ozabal is the remnants, along with the [[Latazaro]] swamp, of the vast wetlands that once covered much of the Sembaran lowlands, before the [[The Downfall|Downfall]]. 
+The Ozabal is the remnants, along with the [[Latazaro]] swamp, of the [[~Ancient Lizardfolk Swamp~|vast wetlands]] that once covered much of the Sembaran lowlands, before the [[The Downfall|Downfall]]. 
