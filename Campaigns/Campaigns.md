@@ -9,7 +9,7 @@ Not canonical: Plaguelands, Mike's Family Campaign, Tollen One Shots, Informatic
 Ongoing or finished campaigns.
 
 - Dunmar Frontier campaign. Fully canonical. Started in DR 1748. Ongoing; 117 sessions and counting. Level 1-16 so far.
-- Cleenseau campaign. Fully canonical.  Started in DR 1719. Ongoing; ~20 sessions and counting. Level 1-6? so far. 
+- Cleenseau campaign. Fully canonical.  Started in DR 1719. Ongoing; 20 sessions and counting. Level 1-6 so far.
 - Great Library campaign. Fully canonical. Started in DR 1747. Ongoing-ish; 60 some-odd sessions, but now drifting towards occasionally in-person single-session adventures as opposed to ongoing campaign. Level 1-12 so far. 
 - Addermarch campaign. Fully canonical. Started sometime between DR 1720s and DR 1740s, but not yet fully anchored in time. Ongoing; 9 sessions so far. Level 1-3 so far. 
 ---
@@ -24,7 +24,7 @@ Ongoing or finished campaigns.
 - Labyrinths of the Lost. Fully canonical. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Three sessions, finished. Level 2-3. 
 - Riswynn and Oskar One Shots. Fully canonical. Set during Riswynn's first separation from the Dunmar Fellowship (DuFr Sessions 17 - 37).  Three sessions, finished. Level ~5. 
 ---
-- Ausson's Crossing. The high level setting, the basic plot arc, the major NPCs, and three of the four PCs are canonical, but other minor details are ambiguous, and the fourth PC was canonically not present (because the player reused him for Cleenseau game). Set in DR 1688. Four sessions, finished. 
+- Ausson's Crossing. The high level setting, the basic plot arc, the major NPCs, and three of the four PCs are canonical, but other minor details are ambiguous, and the fourth PC was canonically not present (because the player reused him for Cleenseau game). Set in DR 1688. Four sessions, finished. Level 7-8.
 
 ### One Shots
 

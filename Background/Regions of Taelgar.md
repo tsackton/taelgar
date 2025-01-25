@@ -101,7 +101,7 @@ The numbers align with the regions on the map below.
 
 *Blank Regions:* While there are no truly blank regions here, the details of the dwarven kingdoms, the details of [[Ainumarya]], and a more fully-fleshed out development of [[Deno'qai]] culture and settlement in this area, would all be valuable. [[Urlich Pass]] and the pseudo-Underdark are intentionally blank slates. 
 
-*Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region; the Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around[[Am'khazar]]. Any development should keep in mind that the region on the Sembaran border will likely feature in the Cleenseau campaign at some point. 
+*Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region in part; the Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around [[Am'khazar]]. Any development should keep in mind that the region on the Sembaran border will likely feature in the Cleenseau campaign at some point. The Ausson's Crossing mini-campaign involved a mine in the ruins of Ardith, although specific details are largely non-canonical. 
 
 ## 9. Greater Sembara
 
@@ -115,7 +115,7 @@ The numbers align with the regions on the map below.
 
 *Blank Regions:* The only thing that approaches a blank slate here is [[Vostok]] (and perhaps [[Cymea]] and/or [[Zimkova]]), which has numerous brainstorming but minimal canonical detail. The [[Skaerhem|Skaer Islands]] are largely undeveloped from a geographic point of view, although the [[Skaerhem|Skaer]] are fairly well developed in culture, politics, religion, and history. Any development in this region needs to consider a significant amount of canonical history, geography, and culture. The [[Grastenvakt|Grastenvakt]], the wall across the north of Vostok, is intentionally left blank. 
 
-*Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen, and visited ruins in Cymea, Orenlas, and the [[Skaerhem|Skaer Islands]]. 
+*Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen, and visited ruins in Cymea, Orenlas, and the [[Skaerhem|Skaer Islands]]. The Labyrinths of the Lost was set in Western Cymea. The Ausson's Crossing mini-campaign was set in this area, in the DR 1680s. The Stone Titan Starter Adventure influences the history of this region, at least, and was set in the western marches of Sembara. 
 
 ## 10. Istabor and South Cymea
 
@@ -151,7 +151,7 @@ The numbers align with the regions on the map below.
 
 *Blank Regions:* There is plenty of room for additional oddities and dangers in this region, and the coast west of [[Ursk]] is relatively undeveloped. This longer term history of this region is largely blank, except for recent history of Ursk and ancient history of the Vargaldi. However, the region as a whole is largely complete from a vibes perspective, so new development needs to conform to the existing overall design of the region. 
 
-*Adventures:* The Ursk arc of the Dunmar Frontier campaign traveled extensively across this region, including to [[Kaldhalla]], the [[~Northern Boreal Forest~]], and [[Ursk]],
+*Adventures:* The Ursk arc of the Dunmar Frontier campaign involved extensive travel across this region, including to [[Kaldhalla]], the [[~Northern Boreal Forest~]], and [[Ursk]],
 
 ## 13. Eastern Green Sea
 

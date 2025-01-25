@@ -477,7 +477,7 @@ Is it better to add feedback here or push my own tweaks?
 [7/19/2024 12:58 PM] .deciusmus
 One comment:
 
-> Throughout the long [[Age of Creation]], the [[Land of the Dead]] formed an impermeable barrier to the magic of creation, through which only the [[Embodied Gods]] could reach
+> Throughout the long Age of Creation, the [[Land of the Dead]] formed an impermeable barrier to the magic of creation, through which only the [[Embodied Gods]] could reach
 
 
 [7/19/2024 12:58 PM] .deciusmus
@@ -500,7 +500,7 @@ But metaphysically just supposed to set up the contrast with age of divinity whe
 right. might be worth clarifying the impact, i.e. (although secondarily, could the embodied gods reach through easily, i.e. unlike in the current age, could gods act more easily and directly on the world?)
 
 
-Throughout the long [[Age of Creation]], the [[Land of the Dead]] formed an impermeable barrier to the magic of creation. Although the [[Embodied Gods]] could reach across this barrier, to grant miracles and change the Material Plane, the magic of souls could not act, except through the Embodied Gods.
+Throughout the long Age of Creation, the [[Land of the Dead]] formed an impermeable barrier to the magic of creation. Although the [[Embodied Gods]] could reach across this barrier, to grant miracles and change the Material Plane, the magic of souls could not act, except through the Embodied Gods.
 
 
 [7/19/2024 1:26 PM] .deciusmus
