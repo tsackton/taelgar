@@ -19,7 +19,7 @@ dm_notes: none
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% cleanup campaign info %%
-Sefa is an older woman, poor and addicted to [[gatza]], who lives alone in the Drowned Flats, in Hamri. 
+Sefa is an older woman, poor and addicted to [[Gatza]], who lives alone in the Drowned Flats, in Hamri. 
 
 %%^Date:1747-08-05%%
 She was killed by [[Azar the Lost]], in misguided quest to restore his dead wife using the waters of the [[Sentient Ocean]]. 

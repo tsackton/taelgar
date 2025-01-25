@@ -1,12 +1,13 @@
 ---
-tags: [background, status/needswork/old, status/cleanup/external]
+tags: [background, status/needswork/old]
 displayDefaults: {defArt: a}
 name: Timeline of Sembaran History
 timelineDescriptor: Sembaran History
 dm_owner: joint
 dm_notes: none
 ---
-%% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up %%
+
+%% Needs to incorporate the material from [[A Chronicle of Sembaran History]], plus there are some weak points that need cleaning up. discussion in discord chats that needs to be linked %%
 ## The Drankorian Conquest
 DR 300 - DR 431
 
