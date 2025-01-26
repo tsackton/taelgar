@@ -168,15 +168,15 @@ After some discussion, we end as the party decides that, despite the risks of ki
 
 - **Kenzo** and **Wellby** express their desire to make a trade, hinting at **Branek's** possession of an item they seek.
 
-- **Branek** acknowledges the party's capabilities and proposes a task: to extinguish the elemental fire within the body of their deceased leader, using the cold of the Frostfell's frozen pools, in exchange for the item the party seeks.
+- **Branek** acknowledges the party's capabilities and proposes a task: to extinguish the elemental fire within the body of their deceased leader, using the cold of the [[Frostfell]]'s frozen pools, in exchange for the item the party seeks.
 
-- **Branek** reveals the leader died combating a dragon using forbidden fire magic and is currently preserved in an elemental state of fire. The party must venture to Frostfell in the elemental plane of ice to quench the fire and resurrect him.
+- **Branek** reveals the leader died combating a dragon using forbidden fire magic and is currently preserved in an elemental state of fire. The party must venture to [[Frostfell]] in the elemental plane of ice to quench the fire and resurrect him.
 
-- **Branek** emphasizes the secrecy of the task, requiring the party's commitment before providing full details and warns of the dangers in Frostfell, including ice constructs and snow trolls.
+- **Branek** emphasizes the secrecy of the task, requiring the party's commitment before providing full details and warns of the dangers in [[Frostfell]], including ice constructs and snow trolls.
 
 - The party agrees to the quest, and **Branek** offers assistance, including protections against cold and an extradimensional portal for transporting the leader's body.
 
-- Discussion shifts to potential allies and enemies in Frostfell, mentioning frost giants and genies as possible allies against the dominant threats of ice creatures.
+- Discussion shifts to potential allies and enemies in [[Frostfell]], mentioning frost giants and genies as possible allies against the dominant threats of ice creatures.
 
 - **Branek** shares the origin of the jade piece the party seeks, linking it to a man who attempted to destroy it due to bad dreams it induced.
 
@@ -228,7 +228,7 @@ The party arrives at the headquarters of the Rodnya Voknaz, where they prepare f
 
 **Dinner with Branek Mirov**
 
-The party meets Branek Mirov, who tasks them with quenching the elemental fire within the body of their deceased leader using the cold of Frostfell's frozen pools. In exchange, Branek promises to trade an item the party seeks. Branek also shares the jade piece's origin, linking it to bad dreams and a man who tried to destroy it.
+The party meets Branek Mirov, who tasks them with quenching the elemental fire within the body of their deceased leader using the cold of [[Frostfell]]'s frozen pools. In exchange, Branek promises to trade an item the party seeks. Branek also shares the jade piece's origin, linking it to bad dreams and a man who tried to destroy it.
 
 **A Nighttime Intruder**
 

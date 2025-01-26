@@ -40,7 +40,7 @@ The lizardfolk mystic [[Aznoke|Aznoké]], in her epic poem _[[The Endless Curren
 
 %%^Campaign:none%%
 
-The intention here is to make the four traditional elemental planes primary, while keeping open space for a variety of "para elemental planes" without committing to a metaphysical truth about whether they are simply boundary regions between the Elemental Planes or they are unique planes themselves. The Frostfell canonically exists, but as transportation was via a portal and not plane shift, this could have been simply a part of the plane of water. 
+The intention here is to make the four traditional elemental planes primary, while keeping open space for a variety of "para elemental planes" without committing to a metaphysical truth about whether they are simply boundary regions between the Elemental Planes or they are unique planes themselves. The [[Frostfell]] canonically exists, but as transportation was via a portal and not plane shift, this could have been simply a part of the plane of water. 
 
 I am intending to introduce some details in game during the Frankar arc so best to leave this relatively unconfirmed for now.
 
