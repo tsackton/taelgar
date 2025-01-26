@@ -18,7 +18,7 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Praznitsky is a mysterious city on the north coast of the [[Eastern Green Sea]], and one of the few ports where foreigners are allowed to trade in the country of [[Ursk]]. 
+Praznitsky is a mysterious city on the north coast of the [[Green Sea]], and one of the few ports where foreigners are allowed to trade in the country of [[Ursk]]. 
 
 The city itself is a walled coastal settlement, where foreigners are prohibited. The trading port, with a harbor for foreign ships, is on an island a short distance off the coast, connected to the mainland by a stone bridge, a single span with no obvious supports. The bridge is patrolled by masked wizards. 
 

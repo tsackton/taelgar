@@ -53,7 +53,7 @@ On the northern shores of the [[Green Sea]], stretching a few hundred miles alon
 
 Ursk  lies largely on the lowland coastal plains, south of the highlands and plateaus that extend all the way west to northern Vostok and the highlands of  [[Zimkova]]. The winters are long and cold, and the westerly winds off the [[Green Sea]] bring snow from October to May. But the short summers are pleasant and the long days of June and July make some agriculture possible. 
 
-The land rises gradually to the north, and the northern edge of Ursk  is defined by the rough, rugged mountains of the [[~NorthUrskMountains~]]. Much like the central plateaus of Vostok, this is a land of many small, cold rivers, and with the maritime influence wetlands are common, especially along the coast. To the north, the vast taiga of the northern wastes extends are far as one can travel, until it is replaced by tundra in the higher elevations and the far north.
+The land rises gradually to the north, and the northern edge of Ursk  is defined by the rough, rugged mountains of the [[~North Ursk Border Mountains~]]. Much like the central plateaus of Vostok, this is a land of many small, cold rivers, and with the maritime influence wetlands are common, especially along the coast. To the north, the vast taiga of the northern wastes extends are far as one can travel, until it is replaced by tundra in the higher elevations and the far north.
 
 (the basic idea is roughly the northern parts of Atlantic Canada, perhaps with a bit more snow; or maybe the southern/coastal parts of Siberia - long winters, cold but modulated by the ocean, a fair bit of snow, warm short summers, and mostly forest/boreal swamp ecosystems)
 ### Geography
