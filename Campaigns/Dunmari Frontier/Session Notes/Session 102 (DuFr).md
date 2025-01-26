@@ -25,7 +25,7 @@ The Dunmar Fellowship rescues halflings from captivity, battles the merfolk Buru
 ## Session Info
 ### Summary
 - The Dunmar Fellowship rescues Milo Thistlefoot, Tilly Brineheart, and other halflings from a prison complex.
-- The party navigates the Elemental Plane of Water, encountering various sea creatures.
+- The party navigates the [[Elemental Plane of Water]], encountering various sea creatures.
 - They locate and infiltrate Buruli's temple to Gazankoa, built within a leviathan skeleton.
 - A fierce battle ensues; the party dispels darkness, retrieves the jade piece, and fights off tentacles.
 - Kenzo escapes with the jade, aided by Seeker's inspiration, as the party uses a rainbow bridge to flee to Vindristjarna, where Buruli is ultimately defeated.
