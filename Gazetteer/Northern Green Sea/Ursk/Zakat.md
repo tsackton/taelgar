@@ -18,7 +18,7 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Zakat is a mysterious city on the north coast of the [[Eastern Green Sea]], and the westernmost of the handful of open ports where foreigners are allowed to trade in the country of [[Ursk]]. 
+Zakat is a mysterious city on the north coast of the [[Green Sea]], and the westernmost of the handful of open ports where foreigners are allowed to trade in the country of [[Ursk]]. 
 
 Zakat is a sprawling city with high walls and extensive coastal fortifications, including several massive stone wave breaks. The foreign trading port and related buildings are set on a protected spit of land, but exit from the docks and storehouses of the foreign city is forbidden and the whole area is patrolled by masked wizards. A great gate stands at the end of the peninsula, guarded constantly. 
 

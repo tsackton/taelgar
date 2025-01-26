@@ -19,8 +19,8 @@ Far north, beyond the northern lands of [[Vostok]] and [[Ursk]] lies a mysteriou
 Few have mapped this region, and little is known about the lands. A few features are well-attested:
 
 * A [[~Far North Steppe~|cold, dry steppe]] north of [[Vostok]] and the [[Grastenvakt|Gråstenvakt]]
-* A [[~NorthUrskMountains~|range of mountains]] north of the [[Ket]], said to be the birthplace of [[Vimfrost]] and home to many frost-breathing dragons
-* A [[~North Ursk River~|river system]] that drains from the [[~NorthUrskMountains~]] to the eastern [[Green Sea]]
+* A [[~Far North White Dragon Mountains~|range of mountains]] north of the [[Ket]], said to be the birthplace of [[Vimfrost]] and home to many frost-breathing dragons
+* A [[~North Ursk River~|river system]] that drains from the [[~Far North White Dragon Mountains~]] to the eastern [[Green Sea]]
 
 ## Civilizations and Cultures
 Although rumors persist of [[Kenku|kenku]] flying across the [[~Far North Steppe~|nothern steppe]], few can say where exactly these winged creatures live. 
@@ -31,6 +31,7 @@ Little is known of the history of this region, although [[Vimfrost's War]] was p
 
 %%^Campaign:None%%
 ## DM Notes and Meta
+*Area:* This region is poorly defined as little geographic development exists, but roughly speaking it includes everything north of the [[~North Bay~]] coast, [[Pandar]], [[Vostok]], and the [[Ket]], and then follows an arbitrary line north of the Green Sea east of [[Ursk]]. In general, permanent 'normal' human civilizations should be south of this region, although of course an arctic culture is possible.
 
 *Canonical Development and Constraints:* This region, particular the mountains north of [[Ursk]], are home to many white dragons, including the descendants of [[Vimfrost]], which has significant influences both on this area and regions to the south. A large number of [[kenku]] canonically make their home on the [[~Far North Steppe~]], on the eastern slopes the [[Sentinel Range|Sentinels]] north of [[Zimka]] but few details have been developed. 
 

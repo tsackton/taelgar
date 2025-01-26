@@ -13,4 +13,4 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A river that flows from the [[~NorthUrskMountains~]] to the [[Green Sea]]. The Dalinka river valley is a fertile agricultural area, centered on the city of [[Yamgov]]. 
+A river that flows from the [[~North Ursk Border Mountains~]] to the [[Green Sea]]. The Dalinka river valley is a fertile agricultural area, centered on the city of [[Yamgov]]. 

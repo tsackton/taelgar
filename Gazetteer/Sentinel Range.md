@@ -18,11 +18,17 @@ dm_notes: color
 The Sentinel Range, also called the Sentinel Mountains or the Sentinels, is the extensive mountain range that separates the [[Green Sea]] and the surrounding lands from the [[Greater Chardon|west coast]] of Taelgar.
 
 The [[Sentinel Range]] stretches 2300 miles from volcano mountains of the former kingdom of [[Pandar]] in the north, to the northern foothills of the Dunmari plains in the south. 
-	- The northern section, from roughly [[Pandar]] south past the [[Forest of Nightmares]] to the area northeast of the [[Blackwater Fens]], is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
+
+### Northern Sentinels
+- The northern section, from roughly [[Pandar]] south past the [[Forest of Nightmares]] to the area northeast of the [[Blackwater Fens]], is snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. 
 		- ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (int he [[Far North]]). The volcanic mountains of [[Pandar]] share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
-	- The middle section, roughly the area starting west of [[Zimkova]] and running south to the desolation west of the [[Western Marches]], is rocky and very tall, with extensive underground development associated with the [[Dwarven Kingdoms]], and more dangerous things. These are stereotypical high mountains. 
+
+### Central Sentinels
+ The middle section, roughly the area starting west of [[Zimkova]] and running south to the desolation west of the [[Western Marches]], is rocky and very tall, with extensive underground development associated with the [[Dwarven Kingdoms]], and more dangerous things. These are stereotypical high mountains. 
 		- ***Real world analogs:*** This region stretches from roughly 40 degrees N to 50 degrees N. This is a classic high mountain range, sharing features with the northern Rockies, the Alps, and Patagonia, but even the tallest peaks are unlikely to reach the heights of something like the Himalayas in the real world. 
-	- The southern section, covering the area that was once the dwarven kingdom of [[Ardith]], from roughly west of [[Duchy of Maseau|Maseau]] or [[Refounded Alliance of Aurbez]] to the end of the [[Sentinel Range]] north of [[Dunmar]], is full of high, barren peaks that rise sharply from the plains, and is generally dry, with arid regions to the west and south. 
+
+### Southern Sentinels
+The southern section, covering the area that was once the dwarven kingdom of [[Ardith]], from roughly west of [[Duchy of Maseau|Maseau]] or [[Refounded Alliance of Aurbez]] to the end of the [[Sentinel Range]] north of [[Dunmar]], is full of high, barren peaks that rise sharply from the plains, and is generally dry, with arid regions to the west and south. 
 		- ***Real world analogs:*** This is warmer and further south, from approx. 34 degrees N to 38 degrees N. Probably shares some similarities with the dry Andes, or possibly some of the mountains in central Asia, such as Hindu Kush or Pamir Mountains. 
 	- The northern and middle sections are separated by a region of lower hills, a more habitable region with mixed forests and rocky slopes, but relatively easy passage between the west and east. This is likely the route by which the early northerners crossed into the Sembaran highlands. 
 		- ***Real world analogs***: Perhaps somewhat similar to something like the less mountainous Yellowstone / Montana, or even perhaps the Whites. 

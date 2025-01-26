@@ -36,21 +36,31 @@ markerTag: location-source
 
 
 ## Topography and Major Features
-Few have mapped this region, but some major features are known, if not named:
+_See more: [[Sentinel Range#Northern Sentinels|North Sentinels]]_
 
-* [[Forest of Nightmares]]
-* [[Blackwater Fens]]
-* North Sentinel Range
-* [[~Unnamed North Sentinel Pass~]]
+Few have mapped this region, nestled on the west side of the [[Sentinel Range]]. Much of the region dominated by the northern Sentinels and the forests and rivers on the western slopes. The [[Northern Tribes|scattered human tribes]] in the area speak of the dangerous forests and swamps:
+* the [[Forest of Nightmares]], said to be in haunted, cursed by [[Cha'mutte]] during the [[Great War]]
+* the [[Blackwater Fens]], a dank bog from which the [[Nahadi]] arises
 ## Civilizations and Cultures
-_See more: [[Northern Tribes]], 
+_See more: [[Northern Tribes]] 
 
 There are few humans in this region, although the [[Northern Tribes|northern Deno'qai tribes]] make their home here. The dwarven kingdom of [[Fahnukan]] lies beneath the northern Sentinels, and [[Stoneborn|stoneborn]] are known to live in the highlands and foothills of the [[Sentinel Range|Sentinels]].
 ## Major Historical Eras
-In the ancient days before [[The Downfall]] it is said that the [[~Northerner~|northerners]] crossed the [[Sentinel Range|Sentinels]] at [[~Unnamed North Sentinel Pass~]]  in their eastward migrations, but the truth of this is unclear.
+_See more: [[Pandar]]_
 
-In the long years leading up to the [[Great War]] the land of [[Pandar]] was [[Cha'mutte|Cha'mutte's]] home, and hobgoblins and enslaved [[Kenku|kenku]] were common sights. 
+In the ancient days before [[The Downfall]] it is said that the [[~Northerner~|northerners]] crossed the [[Sentinel Range|Sentinels]] at the [[~Unnamed North Sentinel Pass~]]  in their eastward migrations, but the truth of this is unclear.
+
+In the long years leading up to the [[Great War]] the land of [[Pandar]] was [[Cha'mutte|Cha'mutte's]] home, and hobgoblins and enslaved [[Kenku|kenku]] were common sights. Since the [[Great War]] this area has been lightly populated and full of dangers.
 ## Climate
+The mountains here are snowy, rocky, and volcanic, marked by pine forests on the western slopes and long, bitter winters. The forests and fens to the west are marked by cold, snowy winters and short, wet summers. There is little farmable land here.
+
+%%^Campaign:none%%
+***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (in the [[Far North]]). The volcanic mountains of [[Pandar]] share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
+
+- [[Blackwater Fens]]: *not really developed; was the home to a black dragon in the [[Great Library campaign]], unpleasant but not frozen in the winter. Around 50 degrees North. There is probably not a great real world analogy, the basic idea is something like a temperate version of a [peat swamp forest](https://en.wikipedia.org/wiki/Peat_swamp_forest). Maybe a place like [here](https://www.visitestonia.com/en/where-to-go/west-estonia/soomaa-national-park) or just a more northerly version of the Great Dismal Swamp or something like that.* 
+
+The fens probably have a similar ecosystem to the [Hudson Bay bog](https://en.wikipedia.org/wiki/Southern_Hudson_Bay_taiga), although perhaps a little bit warmer -- an "insect-infested landscape of bog and fog". 
+%%^End%%
 
 %%^Campaign:None%%
 ## DM Notes and Meta

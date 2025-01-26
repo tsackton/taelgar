@@ -2,15 +2,15 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 displayDefaults: {defArt: '' }
-name: Central Highlands Region
+name: Central Highlands
 typeOf: region
-whereabouts: Taelgar
+whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: tim
 dm_notes: important
 ---
-# Central Highlands Region
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+# Central Highlands
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% needs to be refactored to separate out the Sentinel Range parts from the rest and moved to the correct region pages %%
@@ -53,7 +53,7 @@ Update boundaries of what is considered "once part of Ainumarya" in forest notes
 	- ***Real world analogs:*** Temperate rainforests, especially the forests of the Pacific Northwest, are probably the best model, albeit with more magic. 
 - [[Forest of Dreams]]: North of [[Ainumarya]] is the [[Forest of Dreams]], clinging to the western slopes of the [[Sentinel Range|Sentinels]] east of the [[Erbalta Plains]] and the [[Blackwater Fens]], and spreading west along the foothills of [[Pandar]]. This forest is cooler and dried than [[Ainumarya]], with cold winters and significant snow at higher elevations. 
 	- ***Real world analogs:*** Temperate coniferous forest, especially the pine forests of western Canada and the interior Rockies, and classic mixed forests of the Alps. The lowlands north of the Blackwater Fens are probably more like temperate broadleaf and mixed forests. 
-- [[Blackwater Fens]]: *not really developed; was the home to a black dragon in the [[Great Library campaign]], unpleasant but not frozen in the winter. Around 50 degrees North. There is probably not a great real world analogy, the basic idea is something like a temperate version of a [peat swamp forest](https://en.wikipedia.org/wiki/Peat_swamp_forest). Maybe a place like [here](https://www.visitestonia.com/en/where-to-go/west-estonia/soomaa-national-park) or just a more northerly version of the Great Dismal Swamp or something like that.* 
+
 
 %% comments
 - climatically, Ainumarya probably shouldn't be a temperate rainforest (too far from the coast), but the vibe is very much coastal redwoods, high producitivity; so this is a good place for elven magic, perhaps a high density of feywild connections brings rain and moisture. The mountains can also produce a rain shadow effect but it is very far inland for coastal moisture in a "normal earth" world, as least as understand it. But perhaps if the Sierras didn't exist, Utah would be a rainforest?

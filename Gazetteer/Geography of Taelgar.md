@@ -61,7 +61,7 @@ markerTag: location-source
 Finally, there are four mostly uncharted regions, with little factual information:
 12. the vast [[Eastern Green Sea]]
 13. and the [[~Great Desert~|deserts]] and [[Orekatu|jungles]] of the [[Far South]]
-14.  the islands and underwater civilizations of the (TBD - what should this region be called, if anything?)
+14.  the islands and underwater civilizations of the [[Western Ocean|western Endless Ocean]]
 15. the frozen [[Far North]]
 
 ### Major Features
