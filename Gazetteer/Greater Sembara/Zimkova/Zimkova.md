@@ -1,19 +1,19 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/old]
 name: Zimkova
 typeOf: realm
 aliases: [ Highland Kingdoms ]
-whereabouts: Western Green Sea Region
-dm_owner: shared
-dm_notes: important
+whereabouts: Greater Sembara
+dm_owner: joint
+dm_notes: none
 ---
 # Zimkova
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% not sure current canon status, and what other notes there are %%
+%% needs update based on current thinking in [[Humanity in Greater Sembara]] and [[Greater Sembara]] region page %%
 
 North of [[Sembara]] the land rises towards the [[Sentinel Range]], and is the ancient homeland of the Zimka, who once inhabited the [[Enst]], [[Teft]], [[Semb]], and [[Wistel]] river valleys, as well as the foothills of the Sentinels. Today, the lands of the Zimka people can be loosely organized into three realms ([[Ardlas]], [[Lavnoch]], and [[Breva]]) and the northern lands (often called just Zimkova, or north Zimkova), less organized and without any traditional political boundaries.  
 
@@ -23,7 +23,7 @@ Ardlas, Lavnoch, and Breva were, at times part of the Sembaran realm, but today 
 
 Everyhing I've made up is here or discord; there are some notes in various other obisidan docs and a long thread in discord during the language background discussions that created Tollish
 
-Ancient history: The broad swath of land from the [[Sentinel Range]] to the [[~VostokHills~]] is settled by 
+Ancient history: The broad swath of land from the [[Sentinel Range]] to the [[~North Vostok Mountains~]] is settled by 
 
 Note: this replaces Zovcka. Need to update the maps to remove Zovcka
 
