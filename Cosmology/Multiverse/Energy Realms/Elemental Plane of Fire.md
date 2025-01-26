@@ -21,7 +21,7 @@ The Plane of Fire is described by [[Airion]] as the most dangerous of the Elemen
 
 ### Portals to the Plane of Fire
 
-Portals to the Plane of Fire are rare and treacherous, often appearing in the hearts of volcanic eruptions or within the core of intense magical forges. Concordia Pyrae records indicate that these portals manifest as searing columns of flame that twist and writhe, burning away anything in their path. Unlike the Elemental Plane of Air, where portals are fleeting, those to the Plane of Fire are often long-lasting but nearly impossible to approach due to the extreme temperatures and hazards surrounding them.
+Little reliable information is known about portals to the Plane of Fire. Like all elemental planes, the Plane of Fire can be reached from the [[Ethereal Plane]], through shimmering curtains that resemble bright red flames. The elementalist [[Airion|Airion the Mistspeaker]] collected tales from fire giants that suggest permanent portals to the Plane of Fire may exist at the heart of volcanoes, and that temporary [[Elemental Vortex|elemental vortexes]] may spawn in the midst of the most intense wildfires. How one might safely traverse a portal of molten lava is not obvious, although several cryptic hints point to the lost [[Compendium of Fire]]. 
 
 ### Traveling on the Plane of Fire
 
@@ -45,3 +45,5 @@ Due to the harsh conditions, reliable maps of the Plane of Fire do not exist, an
 - The [[Cinder Wastes]], of which little is known beyond the name.
 - The [[Sea of Fire]], a sea of lava, fire, and ash supposedly spreading from center of the plane.
 
+
+%%SECRET[1]%%

@@ -18,12 +18,12 @@ descTitle: Into the Plane of Water
 > *On Earth: Tuesday Jun 18, 2024*
 > *[[Elemental Plane of Water]]*
 
-The Dunmar Fellowship defeats the Herald of Gazankoa, battles merfolk, and discovers captive halflings in the Elemental Plane of Water.
+The Dunmar Fellowship defeats the Herald of Gazankoa, battles merfolk, and discovers captive halflings in the [[Elemental Plane of Water]].
 
 ***19 days until Apollyon's escape***
 ## Session Info
 ### Summary
-- The Dunmar Fellowship prepares and then defeats the Herald of Gazankoa, gaining entry into the Elemental Plane of Water.
+- The Dunmar Fellowship prepares and then defeats the Herald of Gazankoa, gaining entry into the [[Elemental Plane of Water]].
 - The party battles merfolk guards on a coral platform, securing the area and gathering intelligence.
 - Seeker uses clairvoyance to spy on merfolk huts, while Delwath and Kenzo gather information from the guards and surroundings.
 - The party interrogates a surviving merfolk guard, learning about captive halflings and their forced labor sorting artifacts.
