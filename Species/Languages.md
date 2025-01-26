@@ -271,7 +271,7 @@ The kenku have their own language, although whether the kenku of the north and t
 _Real world mapping_: Sioux
 _Alphabet_: Unknown
 ##### Merfolk
-The language spoken by the Merfolk of the [[West Coast Region]]. Whether there are other Merfolk dialects or languages spoken elsewhere is not recorded.
+The language spoken by the Merfolk of the western [[Endless Ocean]] near [[Apporia]]. Whether there are other Merfolk dialects or languages spoken elsewhere is not recorded.
 
 _Real world mapping:_ None specifically, although names tend to have a Classical or Japanese vibe with  alternating consonant / vowel syllables. 
 _Alphabet:_ The merfolk of Omi, at least don't have an obvious written alphabet, but use invented pictograph glyphs for writing. 

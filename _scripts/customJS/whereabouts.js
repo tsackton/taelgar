@@ -26,15 +26,10 @@ class WhereaboutsManager {
             location = w.location
         }
 
-        // backwards compatability //
-        // as far as I can tell no files require these //
-        if (!type) {
-            if (w.excursion == true) type = "away"
-        }
-
-        if (type == "excursion") type = "away"
-        if (type == "origin") type = "home"
-
+        if (type == "region") type = "home";
+        else if (type == "polity") type = "away";
+        else if (type == "watershed") { type = "home"; endDate = dateMin }
+      
         if (!location) {
             let hasPlace = isValidLocPiece(w.place)
             let hasRegion = isValidLocPiece(w.region)

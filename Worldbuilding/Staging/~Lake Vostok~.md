@@ -1,0 +1,1 @@
+Lake in the middle of [[~Vostok Plateau~]]

@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/needswork/old]
+tags: [place]
 name: Western Green Sea
-typeOf: sea
-whereabouts: Green Sea
+typeOf: region
+whereabouts: Taelgar
 dm_owner: shared
 dm_notes: important
 ---
@@ -12,28 +12,32 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% This is old material and  should be reviewed in light of more recent creations around sembara/tyrwingha/etc %%
+%%
 
-The Western [[Green Sea]] region refers to the areas clustered around the [[Western Gulf]] and the more westerly parts of the [[Green Sea]].
 
-The Western [[Green Sea]]  is dominated by the Kingdom of Sembara and Tyrwingha, a personal union of the two most important kingdoms, which dominates the political universe. North of Sembara lies Zimkova, the land of the Zimka people. In the far north of Zimkova are the traditionalists, loosely organized; but three kingdoms have also been established in Zimkova: Breva, near the [[Duchy of Arnsbury]], and Lavnoch and Ardlas to the north and south of long Lake Derwent at the headwaters of the River Semb. To the west, the high peaks of the [[Sentinel Range]] reach to the sky, forming an almost impassable boundary. To the east, the [[Green Sea]] beckons, and merchant ships ply its calm waters, carrying trade from [[Cymea]], a land of city-states and ancient wizardry, Skaegenland, the cold northern islands, home to the independent and proud Skaer people, and exotic lands further east.
+*Area:* This region includes [[Sembara]], [[Tollen]], [[Tyrwingha]], [[Addermarch]], [[Cymea]], [[Vostok]], [[Orenlas]], and [[Skaerhem]].
 
-Along the northeastern border of the Kingdom of Sembara runs the mighty Volta River, dividing Sembara from [[Vostok]], a land of many rivers, bitter winters, and small kingdoms. At the mouth of the Volta sits the Free City of [[Tollen]], an independent city-state known for its merchant guilds, scholarship, wizards, and free-wheeling culture, a blend of the fierce independence of the Skaer, the ancient learning of Drankor, and the commercial and mercantile prowess of the Sembaran Northlands.  
+*Canonical Development and Constraints:* The culture and history are well developed as far back as the [[The Downfall|Downfall]]. [[Zimkova]], [[Vostok]], and [[Cymea]] are considerably less well developed than the remainder of the region, although large scale events that impact the rest of [[Greater Sembara]] have largely been developed. The [[Refounded Alliance of Aurbez]] was well developed up to the 1680s. 
 
-South of Sembara, beyond the Mostreve Hills lie the Plaguelands, a desolate and accursed land, still not recovered from an ancient curse.
+*Non-Canonical Development:* The exact details after the 1680s of the southern part of this region, particularly the [[Refounded Alliance of Aurbez]], is roughly sketched but not developed canonically in detail. Some open questions remain about history, and some details are only lightly sketched or not completely canonical. [[Vostok]], [[Cymea]] especially outside of [[Western Cymea]], and [[Zimkova]] are generally not developed in detail, although canonical loose vibes exist for [[Cymea]] and [[Zimkova]], at least. 
 
-The region is blessed with mild weather, amble rain, and rich fertile soil. Largely unchanged by the upheavals of the Great War, farmers plant winter wheat and summer millet and soybeans largely as they have for thousands of years. Five major river systems, fed by the summer rains, and melting snowpack and glaciers from the mountains, define the region: in the northeast, the Kem and Niva rivers spill down from the northern plateau across [[Vostok]]. Further west, the mighty Volta, wide and cold, flows past [[Tollen]] into the [[Green Sea]]. South of the Volta is the swift flowing Teft, then the placid Semb, and finally the southern Wistel and Enst rivers, which merge in the great marshy delta of [[Ozabal]], home to a large community of Lizardfolk.
+*Blank Regions:* The only thing that approaches a blank slate here is [[Vostok]] (and perhaps [[Cymea]] and/or [[Zimkova]]), which has numerous brainstorming but minimal canonical detail. The [[Skaerhem|Skaer Islands]] are largely undeveloped from a geographic point of view, although the [[Skaerhem|Skaer]] are fairly well developed in culture, politics, religion, and history. Any development in this region needs to consider a significant amount of canonical history, geography, and culture. The [[Grastenvakt|Grastenvakt]], the wall across the north of Vostok, is intentionally left blank. 
 
-The rise and fall of the land further defines the region: in the west, the towering [[Sentinel Range]] rise thousands of feet into the air. Few travelers cross these high peaks, save on the guarded underground roads of the dwarves. East of the mountains lie the Sembaran Highlands, a rough land that slowly descends to the Aine and Braebine Hills. East of the highlands is the Great Central Plain, a vast flat plain, stretching from the Mostreve Hills in the south to the Volta River in the north. North of the Teft, the plain stretches toward the mountains until the Northern Highlands start to rise up. In the west, the plain ends along the line of the Aine and Braebine Hills. In the east, it ends just east of the Volta River, as the land rises to the [[~VostokHills~]] before descending again to the flatlands of central [[Vostok]].
+*Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen, and visited ruins in Cymea, Orenlas, and the [[Skaerhem|Skaer Islands]]. 
 
-### Climatic Overview
+*Area:* This area includes the western half of the Green Sea itself, including the islands in this area, most notably [[Irrla]]. 
 
-The climate of the region is shaped by several major factors:
+*Canonical Development and Constraints:* IThe pirate ship [[Flaming Tempest]] visited the unnamed island off the coast of Cymea, but the details of why are not canonically determined. 
 
--   In the summer, warm winds blow from the [[Green Sea]], bringing heavy rain and muggy air   
--   In the winter, a high pressure system develops over the northern plateau, and the winds come from the west over the [[Sentinel Range]]. This is a cold and dry season.
--   The [[Green Sea]], in the east, provides a moderating influence, especially on the coastal plains.
 
-In general, the region’s climate is temperate, with four distinct seasons, dry winters, and wet summers. During the summer months, a monsoon wind blows from the [[Green Sea]], bringing ample rainfall. In winter, high pressure builds over the northern steppe, and the west winds that blow over the mountains are dry and cold.
+*Non-Canonical Development:* The Republic of Svolhas is probably mariner, but nothing about them, including religion is particularly determined, other than a recent (1740s) war with the hobgoblins provoking a naval bulidup. Some notes about patterns of wind and currents exist, but are not strictly canonical. The pirate ship [[Flaming Tempest]] visited the unnamed island off the coast of Cymea, but the details of why are not canonically determined. 
+
+*Blank Regions:* This region has significant brainstorming, but outside the details above is entirely a blank slate. 
+
+*Adventures:* The Wellby solo arc, and the unplayed but canonical adventures of the Vindristjarna crew while the Dunmar Fellowship was in Ursk, both involved hobgoblin raiders from Irrla, but no adventures have actually be set in this region.  
+
+
+
+%%
 
 

@@ -10,17 +10,6 @@ excludePublish: ["all"]
 The document outlines the major regions of Taelgar and the current state of development. The intention is to try to better document which areas are truly blank slates, which areas have some firm facts that are not fully developed, and which areas are significantly developed.
 
 The numbers align with the regions on the map below.
-### 1. Endless Ocean and the Far West 
-
-*Area*: This includes everything west of [[Apporia|Apporian Peninsula]] and the [[~North Chardon Coast~]]. Primarily, this is the [[~Sayuna Islands~]], as well as any mysterious additional islands or underwater features lurking in the Endless Ocean.
-
-*Canonical Development and Constraints:* There are no canonical facts about this region except that [[Merfolk]] are known to live here; an ancient and important merfolk city, [[Omi]], is in this region. 
-
-*Non-Canonical Development:* It is expected that whatever development occurs around the [[~Sayuna Islands~]] will be based on an early [[~Northerner~]] migration from Hkar, but this is not canonical. Potentially the [[~Sayuna Islands~]] do not even exist.
-
-*Blank Regions:* Essentially this entire region is blank. The [[~Sayuna Islands~]] are best left undeveloped until needed for a game. 
-
-*Adventures:* The merfolk arc of the Dunmar Frontier campaign traveled to [[Omi]], but otherwise this region has not see any actual play time. 
 
 ### 2. The Northwest Coast
 
@@ -79,18 +68,6 @@ The numbers align with the regions on the map below.
 
 *Adventures:* No adventures have been set in this region. 
 
-## 7. Northernwestern Interior
-
-*Area:* This region includes the far northern section of the Sentinels, the [[Forest of Nightmares]], [[Pandar]], and the [[Blackwater Fens]]. 
-
-*Canonical Development and Constraints:* [[Pandar]] was canonically [[Cha'mutte]]'s primary permanent territory, and a large number of kenku enslaved by Cha'mutte lived here prior to the [[Great War]]. The history of the [[History of the Northern Deno'qai|northern Deno'qai]], including some details of the Great War era, and their current [[Northern Tribes|culture and territory]] is well developed. The [[Forest of Nightmares]], and the [[Blackwater Fens]], have some canonical details. Stoneborn, at least, canonically live in the [[Sentinel Range|Sentinels]] in this region. 
-
-*Non-Canonical Development:* Some basic overview of the history of Pandar and Cha'mutte's activities exist, but these are largely brainstorming, or at best weakly canonical. No details of Stoneborn settlements exist, except their presence. 
-
-*Blank Regions:* Much of this region is functionally a blank spot. In general, this region was dominated by [[Cha'mutte]] during the [[Great War]] and is best kept relatively empty as a setting for dark and dangerous things.
-
-*Adventures:* The Delwath solo arc of the Dunmar Frontier campaign was set in the northern Deno'qai territory and the Forest of Nightmares; the black dragon arc of the Great Library campaign was set in the Blackwater Fens. 
-
 ## 8. The Sentinels
 
 *Area:* This region includes the Sentinel range in its entirety, and the forests on the western slopes of the Sentinels, including [[Ainumarya]] and the [[Elderwood]].
@@ -101,21 +78,9 @@ The numbers align with the regions on the map below.
 
 *Blank Regions:* While there are no truly blank regions here, the details of the dwarven kingdoms, the details of [[Ainumarya]], and a more fully-fleshed out development of [[Deno'qai]] culture and settlement in this area, would all be valuable. [[Urlich Pass]] and the pseudo-Underdark are intentionally blank slates. 
 
-*Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region in part; the Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around [[Am'khazar]]. Any development should keep in mind that the region on the Sembaran border will likely feature in the Cleenseau campaign at some point. The Ausson's Crossing mini-campaign involved a mine in the ruins of Ardith, although specific details are largely non-canonical. 
+*Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region; the Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around[[Am'khazar]]. Any development should keep in mind that the region on the Sembaran border will likely feature in the Cleenseau campaign at some point. 
 
-## 9. Greater Sembara
 
-%% note: in the gazetteer we consider Tollen, Cymea, Vostok, and Skaerhem to be part of the Western Green Sea, not Greater Sembara. Might make more sense? The detail is fairly unbalanced here. Or maybe leave Tollen and possibly western Cymea in Greater Sembara? %%
-
-*Area:* This region includes [[Sembara]], [[Tollen]], [[Tyrwingha]], [[Addermarch]], [[Cymea]], [[Vostok]], [[Orenlas]], and [[Skaerhem]].
-
-*Canonical Development and Constraints:* The culture and history are well developed as far back as the [[The Downfall|Downfall]]. [[Zimkova]], [[Vostok]], and [[Cymea]] are considerably less well developed than the remainder of the region, although large scale events that impact the rest of [[Greater Sembara]] have largely been developed. The [[Refounded Alliance of Aurbez]] was well developed up to the 1680s.
-
-*Non-Canonical Development:* The exact details after the 1680s of the southern part of this region, particularly the [[Refounded Alliance of Aurbez]], is roughly sketched but not developed canonically in detail. Some open questions remain about history, and some details are only lightly sketched or not completely canonical. [[Vostok]], [[Cymea]] especially outside of [[Western Cymea]], and [[Zimkova]] are generally not developed in detail, although canonical loose vibes exist for [[Cymea]] and [[Zimkova]], at least. 
-
-*Blank Regions:* The only thing that approaches a blank slate here is [[Vostok]] (and perhaps [[Cymea]] and/or [[Zimkova]]), which has numerous brainstorming but minimal canonical detail. The [[Skaerhem|Skaer Islands]] are largely undeveloped from a geographic point of view, although the [[Skaerhem|Skaer]] are fairly well developed in culture, politics, religion, and history. Any development in this region needs to consider a significant amount of canonical history, geography, and culture. The [[Grastenvakt|Grastenvakt]], the wall across the north of Vostok, is intentionally left blank. 
-
-*Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen, and visited ruins in Cymea, Orenlas, and the [[Skaerhem|Skaer Islands]]. The Labyrinths of the Lost was set in Western Cymea. The Ausson's Crossing mini-campaign was set in this area, in the DR 1680s. The Stone Titan Starter Adventure influences the history of this region, at least, and was set in the western marches of Sembara. 
 
 ## 10. Istabor and South Cymea
 
@@ -129,72 +94,12 @@ The numbers align with the regions on the map below.
 
 *Adventures:* No adventures have been set in this region, although the [[Dunmar Fellowship]] flew over [[Isingue]] in [[Vindristjarna]]. Any development should keep in mind that [[Isingue]] is likely central to an upcoming arc of the Dunmar Fellowship campaign. 
 
-## 11. Western Green Sea
-
-*Area:* This area includes the western half of the Green Sea itself, including the islands in this area, most notably [[Irrla]]. 
-
-*Canonical Development and Constraints:* Irrla has some development, and canonically contains at least a large hobgoblin realm and a human realm known as [[Republic of Svolhas]].
-
-*Non-Canonical Development:* The Republic of Svolhas is probably mariner, but nothing about them, including religion is particularly determined, other than a recent (1740s) war with the hobgoblins provoking a naval bulidup. Some notes about patterns of wind and currents exist, but are not strictly canonical. The pirate ship [[Flaming Tempest]] visited the unnamed island off the coast of Cymea, but the details of why are not canonically determined. 
-
-*Blank Regions:* This region has significant brainstorming, but outside the details above is entirely a blank slate. 
-
-*Adventures:* The Wellby solo arc, and the unplayed but canonical adventures of the Vindristjarna crew while the Dunmar Fellowship was in Ursk, both involved hobgoblin raiders from Irrla, but no adventures have actually be set in this region.  
-
-## 12. North Green Sea Coast
-
-*Area:* This region includes [[Ursk]], the [[Svinjo Mountains]], and the[[~Northern Boreal Forest~]], generally south of the [[Ket]]. 
-
-*Canonical Development and Constraints:* The culture of [[Ursk]] is well developed, although there are a number of blank spots in the history. The [[Vargaldi]] are also reasonably well developed, although generally only in broad strokes. This area has a significant frost giant presence, in [[Kaldhalla]], and the conflict between frost giants and white dragons has substantially shaped some of the details of the wilderness here. Canonically there are established dwarven and stoneborn cultures in the [[Svinjo Mountains]], but no details are invented about these peoples. The existence of a vampire kingdom on the western borders of Ursk is canonical, although the fate of this region after the interventions of the [[Dunmar Fellowship]] has not been determined. 
-
-*Non-Canonical Development:* The history of [[Ursk]] is relatively poorly developed, especially prior to the Great War; the origins of the Urskan people are not canonically determined, although these are presumed to be mariners of some kind. The religion of Ursk is unclear, although divine magic is exceedingly rare among Urskans. The history of [[Kaldhalla]] before [[Vimfrost's War]] is only weakly sketched. In general, this region is assumed to be largely wilderness, and dangerous, outside the developed regions, but details are somewhat vague, especially along the coast to the west of Ursk, which is canonically dangerous but whether something beyond vampires lurks here is undetermined. 
-
-*Blank Regions:* There is plenty of room for additional oddities and dangers in this region, and the coast west of [[Ursk]] is relatively undeveloped. This longer term history of this region is largely blank, except for recent history of Ursk and ancient history of the Vargaldi. However, the region as a whole is largely complete from a vibes perspective, so new development needs to conform to the existing overall design of the region. 
-
-*Adventures:* The Ursk arc of the Dunmar Frontier campaign involved extensive travel across this region, including to [[Kaldhalla]], the [[~Northern Boreal Forest~]], and [[Ursk]],
-
-## 13. Eastern Green Sea
-
-*Area:* This region includes the [[~Eastern Islands~]], the northern Green Sea coast east of [[Ursk]], and the southern Green Sea coast east of [[~South Cymea~]], as well as the eastern half of the Green Sea itself.  
-
-*Canonical Development and Constraints:* The city of [[Medju]] has been loosely invented, but only in the context of rumors that reached other places. The [[Vermillion Isles]] have been reasonably well developed. The wizard [[Arryn]] lives in some part of the [[~Eastern Islands~]] some distance north of the [[Vermillion Isles]]. 
-
-*Non-Canonical Development:* An aquatic elven culture living around and beneath the island of [[Quanyi]] was invented for the Wellby solo, but potentially could be retconned. The [[~Eastern Islands~]] tentatively are assumed to largely move and shift (with some exceptions, such as [[Quanyi]] that is known as the anchored island), but details are vague and what is rumor vs truth is undetermined. Some notes about winds and currents exist, but these are not strictly canonical. 
-
-*Blank Regions:* Outside of the existence of [[Medju]] and the [[Vermillion Isles]], this area is an almost complete blank. There is numerous brainstorming, but a general reluctance to commit to a specific detailed history in the absence of a campaign or significant series of adventures being set in this region. This is likely an area of rich and complex human civilizations. 
-
-*Adventures:* The Wellby solo arc of the Dunmar Frontier campaign was set on the [[Vermillion Isles]] and on an unnamed island home to a wizard originally from Tollen, [[Arryn]]. Otherwise, no adventures have been set here. 
-
-## 14. The Far North
-
-*Area:* This region is poorly defined as little geographic development exists, but roughly speaking it includes everything north of the [[~North Bay~]] coast, [[Pandar]], [[Vostok]], and the [[Ket]], and then follows an arbitrary line north of the Green Sea east of [[Ursk]]. 
-
-*Canonical Development and Constraints:* This region, particular the mountains north of [[Ursk]], are home to many white dragons, including the descendants of [[Vimfrost]], which has significant influences both on this area and regions to the south. A large number of kenku canonically make their home on the western plains of this region, near the [[Sentinel Range|Sentinels]], but no details have been developed. 
-
-*Non-Canonical Development:* The area north of [[Vostok]] is tentatively invented as a subarctic grassland, and tentatively assumed to be a place where kenku settled after escaping from Pandar, but details are vague, at best, and the geography / climate is not set in stone. 
-
-*Blank Regions:* This area is almost entirely undeveloped, and is largely intentionally blank. Any human civilizations here would be highly magic or scattered and small, and not likely to impact other cultures or the grand sweep of history. 
-
-*Adventures:* No adventures have been set in this region.
-
-## 15. The Far South
-
-*Area:* This region is poorly defined as little geographic development exists, but functionally it is everything east of the [[~Eastern Mountains~]] and south of the Green Sea coastal realms. 
-
-*Canonical Development and Constraints:* The swamps and jungles of [[Orekatu]] have some basic canonical development, primarily on geography and climate. There is canonically a great desert somewhere in this region. Dinosaurs canonically live in [[Orekatu]], at least, and are in some cases partially domesticated by [[Lizardfolk]]. 
-
-*Non-Canonical Development:* Gnomes are generally thought to inhabit this region, but details are vague. Hints of an ancient trading civilization (Targu) exist, but details are vague / non-existent.
-
-*Blank Regions:* This area is explicitly left blank and should not be developed without careful consideration. 
-
-*Adventures:* The Kenzo solo arc from the Dunmar Frontier campaign was set in western Orekatu and the [[Azta Lekua|Footprint of the Gods]] immediately to the west of [[Orekatu]], but otherwise this region has seen no play time. 
-
 ## Map
 
 
 ```leaflet 
 id: region-map-taelgar
-image: [[world-map-regions-clean.png]] 
+image: [[world-map-regions-new.png]] 
 bounds: 
 - [0,0]
 - [5156.7, 6636.233]
