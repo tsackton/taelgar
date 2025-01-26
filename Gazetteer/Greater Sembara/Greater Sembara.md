@@ -120,3 +120,4 @@ _See also: [[List of Places in Greater Sembara]]_
 
 *Important Places in Staging:* The following places could use canonical names: [[~Vostok Plateau~]], [[~Lake Vostok~]], [[~Coastal Vostok Hills~]], [[~Volta Hills~]], [[~North Vostok Mountains~]], [[~South Vostok Hills~]]
 %%^End%%
+

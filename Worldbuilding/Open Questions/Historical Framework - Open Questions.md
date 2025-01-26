@@ -7,14 +7,7 @@ What is the relationship between Orenlas and Drankor? Is Orenlas surrounded by D
 When does the Darkwood become sinister? See towards the end of  [[Discord Chat - Ethlenn and Umbraeth]].
 Likely before the Drankorians arrive.
 
-### Drankorian Expansion
-How far east does Drankor expand, and when? The areas immediately east of Drankor are poorly categorized in canonical documents (not sure about Tim's DM Notes). There has been lots of brainstorming in this space, but nothing settled. The only canonical truth is that Drankor cannot expand so far east as to prevent the Dunmari from having an independent homeland somewhere between the [[Istaros]] and the [[Green Sea]] / [[~Great Desert~]].
 
-Similarly, there are no clear answers to the question of when Drankor expanded towards the Green Sea coast. Canonically both [[Cymea]] and [[~South Cymea~]] were long term Drankorian provinces, but the exact history of settlement is not clear. Additionally, it is not clear if these areas were mostly empty of people.
-
-The assumption broadly is that the ancient lizardfolk swamp would have stretched across what is southern Cymea, and the elven forests would have stretched to the shores of the Green Sea, thus leaving only the northern part of Cymea to be potentially populated by mariners. Many reasons could exist for this to have been, or have not been, populated.  The only canonical requirement is that Tyrwingha exist (although potentially as a isolated group of humanity amongst a mosty lizardfolk milieu) and that by the fall of Drankor, Cymean at least was strongly Drankorian.
-
-There are also questions about whether or where Drankor and the proto-Dunmari encountered each other. Basically the whole narrative of Drankorian expansion _east_ rather than north or west is very unclear.
 ### Metaphysics of the Creation of Humanity
 Some older versions of the historical framework implied that both the creation of humanity and the Downfall caused significant changes in the [[Land of the Dead]] and the ability for soulstuff to be shaped and accessed from Taelgar. In particular, we had previously written that:
 * Between the Riving and the creation of humans, the [[Land of the Dead]] was impermeable and that this reduced some aspects of divine power
