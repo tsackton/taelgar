@@ -54,3 +54,31 @@ From old GDrive doc on Geography
 Major features include a major river, large forests to the east against the ~CentralMountains~, a large lake on the main river north of Chardon, a significant peninsula extending into the Endless Ocean south of Chardon, and several island systems and a large bay in the north. In the far north, a chain of volcanoes extends from the central mountains, and the land becomes mountainous and covered in glaciers approaching and beyond the arctic circle. The climate is mild, with wet winters and dry summers; pleasant year round temperatures to the south; cold, snowy winters to the north; and significant coastal moderation on the many islands and peninsulas of this region.
  
 %%
+
+%%
+
+### 3. Chardonian Empire and the Mawakel Peninsula
+
+*Area:* This region stretches north from the [[~South Chardon River~]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[~North Chardon Coast~]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
+
+*Canonical Development and Constraints:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details; the immediate area of Voltara, and the Mawakel Peninsula, are also substantially developed. Most of the history of this region only exists in very broad strokes, although the Mawakel Peninsula has extensive historical development. 
+
+*Non-Canonical Development:* While this region has a canonical history in broad strokes, many details are only weakly or non-canonically developed, or left blank. Although canonically most of this region is part of the Chardonian Empire, the local political cultures are largely undeveloped. 
+
+*Blank Regions:* The  [[~North Chardon Coast~]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. The history and current political culture of this region exists only in very broad strokes, for the most part, and could use additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself. 
+
+*Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara; the Dunmar Frontier campaign Chardon/Elderwood arc was set in this region. 
+
+## 4. Apporia and the Nevos Sea
+
+*Area:* This region includes the [[Apporia|Apporian Peninsula]], the islands of [[Illoria]], the [[Yeraad River Basin]], and the [[Nevos Sea]]. 
+
+*Canonical Development and Constraints:* The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. The general vibes of Illoria, and the existence of large lizardfolk communities in the [[Yeraad River Basin]], are canonical. There is some significant post-Great War historical development, mostly concerning Dunmar and Apporia, that involves Illoria and needs to be considered in any future developments concerning Illoria. 
+
+*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad River Basin]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
+
+*Blank Regions*: Illoria itself lacks anything more than some basic vibes, and the Emerald Bay coast of the Apporian Peninsula, outside the terminus of the [[Old Chardon Canal]], is nearly entirely blank. These areas are not intentionally blank and could use development. On the Apporia Peninsula, the interior and western coasts are intentionally left blank and mysterious. The southern and eastern coasts of the Apporian Peninsula is plausibly either Illorian or something mysterious, but has not been canonically developed at all.  The overall history of this region, at least outside the intentionally blank areas, could use development building on the existing fragments. 
+
+*Adventures:* Illoria has been at the edge of several Dunmari Frontier adventures, but only two sessions were actually set in the Nevos Sea, and primarily involved traveling to and then through the [[Old Chardon Canal]]. The merfolk arc of the Dunmari Frontier was partially set on the north coast of Apporia. 
+
+%%
