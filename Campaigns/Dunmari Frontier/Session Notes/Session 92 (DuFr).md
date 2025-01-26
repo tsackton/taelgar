@@ -43,7 +43,7 @@ The party enters the steading's main hall, a cavernous space carved from the hea
 
 The feast that ensued was a spectacle of giant customs, the hall filled with Brimskarda's kin, all partaking in the hearty offerings with a blend of curiosity and intrigue towards their guests. Dewalth's subtle inquiries unveiled the layers of Frost Giant history, especially the history of [[Vimfrost's War]], the great king [[Bjarnfrost]], and the eventual transition of power to Brimskarda. 
 
-![[brimskarda-palace-interior 1.png]]
+![[brimskarda-palace-interior.jpg]]
 
 The next morning, the party met [[Algerd]], a socially-awkward historian without much status under Brimskarda's rule, which values might over knowledge. The party persuaded Algerd to travel east with them, in part with the hope that he could find his sister, who was driven out of the steading years ago. 
 

@@ -82,7 +82,7 @@ Finally, over Kenzo's qualms, the party decides to show the letter to the [[Mirr
 
 The party spends the next day tying up loose ends to help the negotiations get started, with Kenzo leaving carved wooden figurines of a united brother and sister for both Sura and Karnas. On February 4th, they depart on Vindristjarna, heading east for Orenlas, and then Tollen, arriving at Tollen in mid-February. 
 
-During this time, the party [[Flashback (Orenlas Gardener)|recruits a gardener in Orenlas]], and [[Interlude (Tollen Downtime)|gathers information]]. 
+During this time, the party recruits a [[Egnir|gardener]] in [[Orenlas]], and [[Interlude (Tollen Downtime)|gathers information]]. 
 
 On March 9th, in Tollen, the party meets [[Kecha]], the kenku scout who has volunteered to lead them across the northern wilds, to the inland border of [[Ursk]]. He tells them of the dangers they may face: frost giants in the mountains; dragons in the icy north; rumors of a vampire kingdom; ice worms that tear through the forest; and changelings who turn into bears. 
 

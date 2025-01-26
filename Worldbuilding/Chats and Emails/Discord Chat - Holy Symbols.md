@@ -32,7 +32,7 @@ I like that
 
 
 [4/3/2024 10:23 AM] rsulfuratus
-look in the #religions channel on Taelgarverse and let me know if you like any of the stained glass or paintings of The Mother
+look in the `#religions` channel on Taelgarverse and let me know if you like any of the stained glass or paintings of The Mother
 
 
 
