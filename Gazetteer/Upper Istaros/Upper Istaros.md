@@ -1,14 +1,58 @@
-%%
-## 10. Istabor and South Cymea
+---
+headerVersion: 2023.11.25
+tags: [place, status/cleanup/incomplete, status/stub]
+displayDefaults: {defArt: '' }
+typeOf: region
+whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+dm_owner: joint
+dm_notes: none
+---
+# Upper Istaros
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-*Area:* This includes the northern part of the [[Istaros Watershed]] starting southeast of [[Aurbez Plateau]] and related areas, and stretches to the coast of the Green Sea. It is bordered by the [[Mostreve Hills]], the [[Darkwood]], [[Orenlas]], and the [[~Cymea Border Mountains~]] to the north, and [[Xurkhaz]] to the south. 
+{intro text}
+## Map
 
-*Canonical Development and Constraints:* [[Isingue]] is an important canonical city, and this region is canonically now mostly known as the [[Plaguelands]] and is dangerous and unsettled. 
+{link to leaflet map of region}
+## Topography and Major Features
+_See more: {links}_
 
-*Non-Canonical Development:* Isingue has significant brainstorming around its history, but little has been canonically committed. [[~South Cymea~]] was canonically a Drankorian province. 
+{descriptive text of topography and major features}
+## Civilizations and Cultures
+_See more: {links}_
 
-*Blank Regions:* Although [[Isingue]] is an important canonical city, with numerous brainstorming notes about its history, very little has been canonically committed. Other than being Drankorian, [[~South Cymea~]] is a complete blank. The current state of the [[Plaguelands]] is intentionally not well developed, but [[~South Cymea~]] is not intentionally mysterious.
+{descriptive text of civilizations and cultures}
+## Climate
 
-*Adventures:* No adventures have been set in this region, although the [[Dunmar Fellowship]] flew over [[Isingue]] in [[Vindristjarna]]. Any development should keep in mind that [[Isingue]] is likely central to an upcoming arc of the Dunmar Fellowship campaign. 
+{descriptive in world text about climate}
 
-%%
+%%^Campaign:None%%
+
+{real world climate analogs and inspiration}
+
+%%^End%%
+
+## Major Historical Eras
+_See more: {links}_
+
+{descriptive text of major era}
+
+%%^Campaign:None%%
+## DM Notes and Meta
+_See also: {links to lists, e.g. Places in Region}_
+
+*Canonical Development and Constraints:* [[Isingue]] is an important canonical city. [[Orenlas]] is an important and canonical elven realm. The [[Istaros]] itself has some detailed development. The orcs of [[Xurkhaz]] have a detailed culture and history. The region known as the [[Plaguelands]] is canonically dangerous and unsettled, but relatively undeveloped. The [[Refounded Alliance of Aurbez]] and the [[March of Andonne]] were developed up to the 1680s, but less so beyond. The general climate and geography of the [[Aurbez and the Andonne]] is reasonably well developed. 
+
+*Brainstorming and Potential Canon:* [[Isingue]] has significant brainstorming around its history, but little has been canonically committed, other than the fact that in late DR 1748 it is occupied by some kind of massive ooze creature. 
+
+*Needs Development:* The current (DR 1700s) history and politics of the [[Aurbez and the Andonne]] would be valuable. Some details of the history of the orcs of [[Xurkhaz]] are unclear and could use development, as could some details of the country beyond the capital city of [[Uzgukhar]]. [[Erelion]], the largest city in [[Orenlas]], is well developed, but the rest of the realm is mostly a blank slate. 
+
+*Intentionally Blank:* The current state of the [[Plaguelands]] is intentionally not well developed; any development should keep in mind that [[Isingue]] is likely central to an upcoming arc of the Dunmar Fellowship campaign. 
+
+*Adventures:* A significant Dunmar Fellowship arc was set in [[Xurkhaz]], and the [[Dunmar Fellowship]] flew over [[Isingue]] in [[Vindristjarna]]. The Ausson's Crossing mini-campaign was set in this area, in the DR 1680s.
+
+*Important Places in Staging:* None, although some secondary rivers need names eventually. 
+
+%%^End%%
