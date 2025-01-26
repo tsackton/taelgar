@@ -1,26 +1,58 @@
-%%
+---
+headerVersion: 2023.11.25
+tags: [place, status/cleanup/incomplete, status/stub]
+displayDefaults: {defArt: '' }
+typeOf: region
+whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+dm_owner: tim
+dm_notes: important
+---
+# Drankorian Hinterland
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-## 5. Dunmari Basin
+{intro text}
+## Map
 
-*Area:* This region includes the [[Dunmari Basin]], the [[Myraeni Gap]], and the [[Garamjala Desert]] (including the orc kingdom of [[Xurkhaz]]), as well as the ancient city of [[Drankorian Empire|Drankor]] and the [[Sea of Storms]]. 
+{link to leaflet map of region}
+## Topography and Major Features
+_See more: {links}_
 
-*Canonical Development and Constraints:* The current day climate and geography of this entire region, and the history dated back to before the Downfall, is extensively developed, although much of the history before the Great War is developed only in broad strokes. The history, religion, and politics of Dunmar and Xurkhaz are extensively developed. The desolation around Drankor (including the ruined city itself), the wastes of the Garamjala, and the [[Awakened Jungle]] have significant, but not exhaustive, development. Any future development in this region needs to be aware of significant constraints imposed by existing development. 
+{descriptive text of topography and major features}
+## Civilizations and Cultures
+_See more: {links}_
 
-*Non-Canonical Development:* Much of the history of the Drankorian Empire is only broadly sketched, especially in the core of the Empire represented by this region. The pre-Downfall history of [[Alcarinque]] is only very lightly developed. The [[Nayan Floodplains]] have much less development than the rest of [[Dunmar]], especially about current-day political and cultural details. The [[Yuvanti Mountains]], although canonically the home of the [[Nardith]], has very little detailed development. The region around the [[Shrev]] and south is only lightly sketched, as is the [[Myraeni Gap]]. 
+{descriptive text of civilizations and cultures}
+## Climate
 
-*Blank Regions:* The desolation around Drankor and the wastes of the [[Garamjala Desert|Garamjala]] may hold many mysteries, but need to be developed with canonical details in mind. The exact impact of the Downfall Wars on [[Alcarinque]], and the fall of the elven empires, is explicitly left blank, to be explored in a potential future Downfall Wars campaign. The [[Nayan Floodplains]] and the [[Yuvanti Mountains]]/[[Nardith]] could use more detailed development, and the area south of the [[Shrev]] as well as the [[Myraeni Gap]] are both potentially open for development, contingent on some details of [[Dunmar#History|Dunmari history]].
+{descriptive in world text about climate}
 
-*Adventures:* The Dunmar Frontier campaign has involved numerous adventures in this region, including [[Central Dunmar]], [[Darba]] and the [[Darba Highlands]], [[Eastern Dunmar]], [[Tokra]], [[Karawa]], the [[Nashtkar]] and other regions east of Karawa, including [[Kharsan]], [[Xurkhaz]], the [[Awakened Jungle]], and [[Drankor]]. The [[Oskar and Riswynn Adventures]] were largely set in [[Nardith]] and nearby regions, but did not involve much worldbuilding. 
-## 6. Eastern Drankor
+%%^Campaign:None%%
 
-*Area:* This region includes the area east of the [[Istaros]], west of the [[~Eastern Mountains~]], and south of [[~South Cymea~]]. Most of this region is poorly defined and outside the [[Istaros]] itself, features are largely unnamd. 
+{real world climate analogs and inspiration}
 
-*Canonical Development and Constraints:* This region is almost entirely undeveloped. Canonically, it was part of the heartland of Drankor, and the historical elven realm of [[Rostaure]] was in this region. 
+%%^End%%
 
-*Non-Canonical Development:* The fate of this region since the fall of Drankor is undetermined, although it is assumed that at least the western parts of this region, closest to Drankor, are dangerous wilderness. The [[~Eastern Mountains~]] are tentatively the eastern border of the [[Drankorian Empire]], but this is not strictly canonical. 
+## Major Historical Eras
+_See more: {links}_
 
-*Blank Regions:* The entire region is essentially blank in the modern day, and most of the historical details of this region are not developed.
+{descriptive text of major era}
 
-*Adventures:* No adventures have been set in this region. 
+%%^Campaign:None%%
+## DM Notes and Meta
+_See also: {links to lists, e.g. Places in Region}_
 
-%%
+*Canonical Development and Constraints:* This region was the core of the Drankorian Empire, which has a canonical history in broad strokes with patches of more extensive development. The basic geography and climate is mostly well-developed. The ruins of the city of [[Drankor]], the [[~Circular Island~]], and some details of the historical elven realm of [[Rostaure|Rostaurë]] are developed in some detail, as are [[Awakened Jungle|parts]] of the jungle along the coast of the [[Sea of Storms]]. The history of this region after the [[Fall of Drankor]], the wastes of the [[Garamjala Plateau]], and the jungles south of the [[Shrev]] are less developed.
+
+*Brainstorming and Potential Canon:* Although it is assumed that at least the parts of this region closest to Drankor are dangerous wilderness after the [[Fall of Drankor]], the exact fate of this region in the years between the [[Fall of Drankor]] and the [[Great War]] is an area of active brainstorming but little canon. The [[~Eastern Mountains~]] are tentatively the eastern border of the [[Drankorian Empire]], but this is not strictly canonical. The region immediately south of the [[Shrev]] has some potential brainstorming context around Dunmari history, but nothing has been introduced in game beyond the bare existence of battles across the Shrev with zombies and other strange creatures. 
+
+*Needs Development:* Much of the history of the Drankorian Empire is only loosely sketched: see [[Drankorian Empire - Open Questions]] for potential development needs. The climate and topography of the eastern part of this region (between the [[Istaros]] and the [[~Eastern Mountains~]] is largely blank, although generally assumed to be arid in the current day. 
+
+*Intentionally Blank:* The desolation around Drankor and the wastes of the [[Garamjala Desert|Garamjala]] may hold many mysteries (e.g., the [[Tower of the Colossus]], and are best left as a blank area until needed for a game. The exact impact of the Downfall Wars on [[Alcarinque]], and the fall of the elven empires, is explicitly left blank, to be explored in a potential future Downfall Wars campaign. 
+
+*Adventures:* The Dunmar Frontier campaign traveled across the [[Garamjala Plateau]], to the [[Awakened Jungle]], the [[~Circular Island~]], and [[Drankor]], during the end of the Apollyon arc. 
+
+*Important Places in Staging:* The [[~Circular Island~]] needs to either be named "The Circular Island" in-game, or be renamed. The [[~Eastern Mountains~]] could use a name, as could the [[~Great Bay~]]. 
+
+%%^End%%

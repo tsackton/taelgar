@@ -13,24 +13,54 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% needs to be refactored to separate out the Sentinel Range parts from the rest and moved to the correct region pages %%
+{intro text}
+## Map
 
-%%
+{link to leaflet map of region}
+## Topography and Major Features
+_See more: {links}_
 
-## 8. The Sentinels
+{descriptive text of topography and major features}
+## Civilizations and Cultures
+_See more: {links}_
 
-*Area:* This region includes the Sentinel range in its entirety, and the forests on the western slopes of the Sentinels, including [[Ainumarya]] and the [[Elderwood]].
+{descriptive text of civilizations and cultures}
+## Climate
 
-*Canonical Development and Constraints:* The dwarven kingdoms of the Sentinels are fairly well established, although many details remain to be invented. The elven kingdoms of [[Ainumarya]] are canonical, but not well established and potentially a source of some mystery. In general this land has few people outside of the [[Deno'qai]], although once it was the thriving heartland of elven kingdoms. The general geography and climate of this area is well established. 
+{descriptive in world text about climate}
 
-*Non-Canonical Development:* There is some minor development around the Stoneborn settlements in the southern Sentinels. Much of the history of [[Ainumarya]] is broad-strokes and relatively open. [[Urlich Pass]], now a region of significant devastation, is canonically important as the site of Cha'mutte's defeat, but why it was important is unclear, although probably has something to do with being a locus of the power of the Firstborn. The existence of Underdark-like deep caverns below the Sentinels is canonical, but not fully developed. 
+%%^Campaign:None%%
 
-*Blank Regions:* While there are no truly blank regions here, the details of the dwarven kingdoms, the details of [[Ainumarya]], and a more fully-fleshed out development of [[Deno'qai]] culture and settlement in this area, would all be valuable. [[Urlich Pass]] and the pseudo-Underdark are intentionally blank slates. 
+{real world climate analogs and inspiration}
 
-*Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region; the Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around [[Am'khazar]]. Any development should keep in mind that the region on the Sembaran border will likely feature in the Cleenseau campaign at some point. 
+%%^End%%
 
-%%
+## Major Historical Eras
+_See more: {links}_
 
+{descriptive text of major era}
+
+%%^Campaign:None%%
+## DM Notes and Meta
+_See also: {links to lists, e.g. Places in Region}_
+
+*Canonical Development and Constraints:* Three major extant dwarven kingdoms of the Sentinels are fairly well established, although many details remain to be invented. The elven kingdoms of [[Ainumarya]] are canonical, but not well established and potentially a source of some mystery, although once it was the thriving heartland of elves on Taelgar. In general this region has few humans, with only the [[Deno'qai]] a major developed culture. The general geography and climate of this area is well established. 
+
+*Brainstorming and Potential Canon:* [[Kunda]] is a canonical Stoneborn settlement in the southern Sentinels, and this region is likely has significant Stoneborn communities, but details are not canonical or well-established in game. The existence of Underdark-like deep caverns below the Sentinels is canonical, but not fully developed (see: [[The Underdark]]). 
+
+*Needs Development:*  Although the dwarven kingdoms have been invented in broad strokes, further invention around details, settlements, and history would be valuable. A more fully-fleshed out development of [[Deno'qai]] culture and settlement in this area would also be valuable. The history of the elves in this region could use more thought, although the post-Great War fate of [[Ainumarya]] is intentionally left somewhat mysterious. 
+
+*Intentionally Blank:* [[Urlich Pass]], now a region of significant devastation, is canonically important as the site of Cha'mutte's defeat, but why it was important is unclear, although probably has something to do with being a locus of the power of the Firstborn, and the details are left intentionally vague. The devastation of [[Urlich Pass]] and the the Underdark are intentionally blank slates, and both may plausibly feature in a future [[Cleenseau Campaign]] arc. Exactly what happened to the elves after the [[Great War]] is left intentionally blank, although canonically there are many fewer of them than before the Great War. 
+
+*Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region, as did the short adventure to Hralgar's Palace. The Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around [[Am'khazar]]. The [[Great War Campaign]] involved the final battle ([[Battle of Urlich Pass]]) against [[Cha'mutte]] at or near [[Urlich Pass]], and also included a short arc involving a hidden forest ([[Valley of the Hidden Forest]]) with strange magic where Rai first met Dimitaur. 
+
+*Important Places in Staging:* The Deno'qai villages from the Elderwood arc ([[~Bek'eni village~]], [[~Te'kula village~]]) could use names. 
+
+%%^End%%
+
+---
+
+%% OLD BELOW %%
 ## Overview
 
 The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [[Sentinel Range|Sentinels]] where only [[Stoneborn]] and frost [[Giants]] can survive. Few people call this region their home: the [[Deno'qai]], who live mostly in small villages among the forests hugging the western foothills of the [[Sentinel Range|Sentinels]], and the [[elves]], who once could be found throughout the woodlands of [[Ainumarya]], and the main inhabitants. The [[Sentinel Range]] creates a barrier to ...
