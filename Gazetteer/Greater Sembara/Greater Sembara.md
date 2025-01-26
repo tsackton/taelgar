@@ -118,6 +118,6 @@ _See also: [[List of Places in Greater Sembara]]_
 
 *Adventures:* The [[Cleenseau Campaign]] and the Addermarch campaign are entirely set within this region, in southern Sembara and Addermarch respectively. The Dunmar Frontier campaign spent significant time in Tollen.
 
-*Important Places in Staging:* The following places could use canonical names: [[~Vostok Plateau~]], [[~Lake Vostok~]], [[~Coastal Vostok Hills~]], [[~Volta Hills~]], [[~North Vostok Mountains~]], [[~South Vostok Hills~]]
+*Important Places in Staging:* The following places could use canonical names: [[~Vostok Plateau~]], [[~Lake Vostok~]], [[~Coastal Vostok Hills~]], [[~Volta Hills~]], [[~North Vostok Mountains~]], [[~South Vostok Hills~]], [[~Gulf of Tollen~]]
 %%^End%%
 
