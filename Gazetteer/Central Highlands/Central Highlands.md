@@ -15,6 +15,22 @@ dm_notes: important
 
 %% needs to be refactored to separate out the Sentinel Range parts from the rest and moved to the correct region pages %%
 
+%%
+
+## 8. The Sentinels
+
+*Area:* This region includes the Sentinel range in its entirety, and the forests on the western slopes of the Sentinels, including [[Ainumarya]] and the [[Elderwood]].
+
+*Canonical Development and Constraints:* The dwarven kingdoms of the Sentinels are fairly well established, although many details remain to be invented. The elven kingdoms of [[Ainumarya]] are canonical, but not well established and potentially a source of some mystery. In general this land has few people outside of the [[Deno'qai]], although once it was the thriving heartland of elven kingdoms. The general geography and climate of this area is well established. 
+
+*Non-Canonical Development:* There is some minor development around the Stoneborn settlements in the southern Sentinels. Much of the history of [[Ainumarya]] is broad-strokes and relatively open. [[Urlich Pass]], now a region of significant devastation, is canonically important as the site of Cha'mutte's defeat, but why it was important is unclear, although probably has something to do with being a locus of the power of the Firstborn. The existence of Underdark-like deep caverns below the Sentinels is canonical, but not fully developed. 
+
+*Blank Regions:* While there are no truly blank regions here, the details of the dwarven kingdoms, the details of [[Ainumarya]], and a more fully-fleshed out development of [[Deno'qai]] culture and settlement in this area, would all be valuable. [[Urlich Pass]] and the pseudo-Underdark are intentionally blank slates. 
+
+*Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region; the Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around [[Am'khazar]]. Any development should keep in mind that the region on the Sembaran border will likely feature in the Cleenseau campaign at some point. 
+
+%%
+
 ## Overview
 
 The Central Highlands Region is a land of contrasts, from vast forests dominated by ancient elven trees, to the high, inaccessible peaks of the northern [[Sentinel Range|Sentinels]] where only [[Stoneborn]] and frost [[Giants]] can survive. Few people call this region their home: the [[Deno'qai]], who live mostly in small villages among the forests hugging the western foothills of the [[Sentinel Range|Sentinels]], and the [[elves]], who once could be found throughout the woodlands of [[Ainumarya]], and the main inhabitants. The [[Sentinel Range]] creates a barrier to ...
