@@ -6,9 +6,9 @@ dm_notes: none
 ---
 # Inner Realms
 
-The Inner Realms are a concept proposed by [[Yendalism|followers]] of the [[Stoneborn|stoneborn]] metaphysicist [[Yendalo]], that represent the collection of planes that are contained within the bounds of the [[Land of the Dead]] (contrast with the [[Outer Realms]], those on the far side of the [[Land of the Dead]]). These include the [[Material Plane]] and the [[Plane of Souls]], as well as the [[Energy Realms]], the [[Echo Realms]], and the [[Plane of Magic]]. 
+The Inner Realms are a concept proposed by [[Yendalism|followers]] of the [[Stoneborn|stoneborn]] metaphysicist [[Yendalo]], that represent the collection of planes that are contained within the bounds of the [[Land of the Dead]] (contrast with the [[Outer Realms]], those on the far side of the [[Land of the Dead]]). These include the [[Material Plane]], the [[Feywild]], the [[Dreamworld]], and the [[Plane of Souls]], as well as the [[Energy Realms]], the [[Plane of Magic]], and various [[Demiplanes]]. 
 
-[[Yendalism|Yendalists]] argue that this classification is superior to others, as the [[Material Plane]], [[Energy Realms]], and [[Echo Realms]] share the fundamental property that dead souls cannot naturally sustain themselves on these planes. However, dead souls can sustain themselves as they cross the [[Land of the Dead]], and on the [[Spiritual Realms]]. 
+[[Yendalism|Yendalists]] argue that this classification is superior to others, as these planes share the fundamental property that dead souls cannot naturally sustain themselves on these planes. However, dead souls can sustain themselves as they cross the [[Land of the Dead]], and on the [[Spiritual Realms]]. 
 
 %%^Campaign:none%%
 
