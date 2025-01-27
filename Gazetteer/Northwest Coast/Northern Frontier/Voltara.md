@@ -3,7 +3,8 @@ headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 campaignInfo: []
 name: Voltara
-typeOf: city
+typeOf: settlement
+typeOfAlias: city
 whereabouts: 
 - {type: region, location: Northwest Coast }
 - {type: polity, location: Chardonian Empire }
