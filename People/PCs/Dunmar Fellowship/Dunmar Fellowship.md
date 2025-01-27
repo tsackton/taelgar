@@ -27,13 +27,13 @@ They frequently travel with the dwarven cleric [[Riswynn]]. The stoneborn druid 
 
 In the fall of 1748, they were split up due to magical effects. During this time, they traveled alone.
 
-- Seeker traveled with [[Mikasa]], [[Raven]], [[Spirala]], and [[Caulaus]] in the Feywild
+- Seeker traveled with [[Mikasa]], [[Raven]], [[Spirala]], and [[Caulaus]] in the [[Feywild]]
 - Kenzo traveled with [[Izzarak]] in the lizardfolk jungles to the south
 - Delwath traveled with [[Iascaire]] and [[Aristaea]] in the battlefields of the far north
 - Wellby traveled with [[Artem Novolozek|Artem]], [[Rufus]], [[Shoal]], and [[Alimash]] in the eastern isles. 
 - Riswynn traveled with [[Thror]], [[Rothfis]], and [[Merash]] in the [[Shadowfolds]] domain of [[Morkalan]].
 
-Kenzo, Seeker, and Wellby were reunited in the Feywild and traveled with [[Caulaus]] briefly.
+Kenzo, Seeker, and Wellby were reunited in the [[Feywild]] and traveled with [[Caulaus]] briefly.
 
 The group was reunited on Nov 15 1748 in Dunmar. 
 
