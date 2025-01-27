@@ -41,7 +41,7 @@ SORT length(file.inlinks) DESC
 
 ```dataview
 TABLE length(file.inlinks) as Backlinks
-from #person or #item or #place or #organization and -#status/stub and !"Worldbuilding/Tentative"
+from #person or #item or #place or #organization and -#status/stub and !"Worldbuilding/Tentative" and !"Worldbuilding/Staging"
 where headerVersion != "2023.11.25"
 sort length(file.inlinks) desc
 ```

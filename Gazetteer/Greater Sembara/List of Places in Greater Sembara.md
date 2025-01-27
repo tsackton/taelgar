@@ -1,6 +1,8 @@
 ---
 tags: [background]
 excludePublish: ["all"]
+dm_owner: none
+dm_notes: none
 ---
 ### Places in Greater Sembara
 ```dataviewjs
