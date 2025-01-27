@@ -27,7 +27,7 @@ is that wrong, should I fix to Akaston
 
 
 [11/18/2023 2:56 PM] rsulfuratus
-no, that's right. i mean Hralgar told you that the emperor he remembered was Akaston, this was the time period he was imaging in the dreamworld in his pre-trapped state
+no, that's right. i mean Hralgar told you that the emperor he remembered was Akaston, this was the time period he was imaging in the [[Dreamworld]] in his pre-trapped state
 
 
 [11/18/2023 2:57 PM] rsulfuratus

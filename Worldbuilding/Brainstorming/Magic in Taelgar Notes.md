@@ -65,7 +65,7 @@ Taelgar is a world rich in magic. While it comes in many flavors, fundamentally 
 
 ### Racial Magic
 
-The Elder races have their own racial magics that draw power from their connections to the Embodied Gods that created them. While the exact nature of these racial magics is not always widely known, rumors abound of elves manipulating the essence of magic itself, of dwarves and their runes of power, of lizardfolk and their connection to the Dreamworld and the spirits of their ancestors, of halfling telepathy, of stoneborn able to change their bodies and strengthen there minds. 
+The Elder races have their own racial magics that draw power from their connections to the Embodied Gods that created them. While the exact nature of these racial magics is not always widely known, rumors abound of elves manipulating the essence of magic itself, of dwarves and their runes of power, of lizardfolk and their connection to the [[Dreamworld]] and the spirits of their ancestors, of halfling telepathy, of stoneborn able to change their bodies and strengthen there minds. 
 
   
 

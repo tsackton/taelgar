@@ -20,7 +20,7 @@ First thought: the rules of D&D, and in particular the classification of magic i
 
 Second thought: Yendalism seems more right to me than "only those on the material plane have souls".
 
-Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[plane of creation]] via the Dreamworld? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
+Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[plane of creation]] via the [[Dreamworld]]? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
 
 Some discussion:
 - [[Discord Chat - Divine Power in Taelgar]]

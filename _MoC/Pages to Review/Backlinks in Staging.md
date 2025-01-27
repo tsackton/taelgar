@@ -6,8 +6,11 @@ Major uses include:
 - A place to put named pages that canonically exist, but might not be worth additional invention (e.g., named scholars made up as a source of in-world information).
 
 Places that are not backlinked from any canonical page should go in `Brainstorming` or `Tentative`, not `Staging`.
+
 ```dataview
-TABLE length(file.inlinks) as Backlinks
+TABLE 
+    length(file.inlinks) as Backlinks, 
+    any(filter(file.inlinks, (b) => contains(meta(b).path, "Campaigns"))) as "Has Campaign Backlink"
 FROM "Worldbuilding/Staging"
-sort length(file.inlinks) desc
+SORT any(filter(file.inlinks, (b) => contains(meta(b).path, "Campaigns"))) DESC, length(file.inlinks) DESC
 ```
