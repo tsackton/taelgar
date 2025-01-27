@@ -3,14 +3,15 @@ headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Skaerhem
 typeOf: realm
-whereabouts: Western Green Sea Region
+whereabouts: Western Green Sea
 aliases: [Skaer Islands, Skaegenland, Skaer]
 dm_notes: color
 dm_owner: tim
 ---
 # Skaerhem
->[!info]+ Information
-> A realm in the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% needs just a little bit of rewriting to incorporate history and some other random bits of discussion scattered across various places %%
 

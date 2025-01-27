@@ -2,8 +2,8 @@
 headerVersion: 2023.11.25
 tags: [place]
 name: Mawakel Peninsula
-typeOf: region
-whereabouts: West Coast Region
+typeOf: peninsula
+whereabouts: Northwest Coast
 dm_owner: none
 dm_notes: color
 ---

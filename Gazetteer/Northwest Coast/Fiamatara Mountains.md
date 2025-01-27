@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [status/stub, status/check/name, place]
 typeOf: mountain range
-whereabouts: West Coast Region
+whereabouts: Northwest Coast
 dm_owner: tim
 dm_notes: important
 ---

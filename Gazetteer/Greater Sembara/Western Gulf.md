@@ -3,10 +3,9 @@ headerVersion: 2023.11.25
 tags: [place, status/check/tim]
 name: Western Gulf
 typeOf: gulf
-displayDefaults: { wOrigin: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <origin:5Fq>", wHome: "Part of <home:5F>", wCurrent: "Controlled by <current:1>" }
+displayDefaults: {  wCurrent: "Controlled by <current:1>" }
 whereabouts: 
-- {type: watershed, location: Green Sea }
-- {type: region, location: Greater Sembara }
+- {type: region, location: Green Sea }
 - {type: polity, location: Tollen, start: 1700, end: 9999 }
 dm_owner: none
 dm_notes: important

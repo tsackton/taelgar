@@ -4,9 +4,7 @@ tags: [place]
 name: Yemo'te
 typeOf: river
 whereabouts: 
-- {type: watershed, location: Chasa-Nahadi Watershed }
 - {type: region, location: Forest of Nightmares }
-- {type: polity, location: Chardonian Empire }
 pronunciation: yeh-moh-TEH
 dm_owner: none
 ---

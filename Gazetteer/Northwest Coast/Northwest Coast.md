@@ -1,3 +1,8 @@
+---
+tags: [place]
+displayDefaults: {linkText: "on" }
+---
+
 %%
 
 ### 2. The Northwest Coast

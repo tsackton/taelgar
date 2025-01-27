@@ -1,8 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+displayDefaults: {wCurrent: "Controlled by <current:1>"}
 typeOf: gulf
-whereabouts: Endless Ocean
+whereabouts:
+- {type: region, location: Endless Ocean }
+- {type: politiy, location: Chardonian Empire }
 dm_owner: tim
 dm_notes: important
 ---

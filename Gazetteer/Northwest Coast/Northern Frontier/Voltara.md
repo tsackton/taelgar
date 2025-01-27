@@ -4,7 +4,9 @@ tags: [place, status/cleanup/text]
 campaignInfo: []
 name: Voltara
 typeOf: city
-whereabouts: Northern Frontier
+whereabouts: 
+- {type: region, location: Northwest Coast }
+- {type: polity, location: Chardonian Empire }
 dm_notes: important
 dm_owner: tim
 ---

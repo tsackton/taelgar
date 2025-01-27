@@ -4,7 +4,9 @@ tags: [place, status/stub]
 displayDefaults: {defArt: ''}
 name: Lake Valandros
 typeOf: lake
-whereabouts: Chardonian Empire
+whereabouts: 
+- {type: region, location: Chasa-Nahadi Watershed } 
+- {type: polity, location: Chardonian Empire }
 dm_notes: color
 dm_owner: tim
 ---

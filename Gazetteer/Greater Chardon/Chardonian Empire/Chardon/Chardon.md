@@ -8,8 +8,9 @@ dm_owner: tim
 dm_notes: important
 ---
 # Chardon
->[!info]+ Information
-> A city in the [[Chardonian Empire]], the [[Greater Chardon]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%needs:
 - copy notes from emails, OneNote, various other places

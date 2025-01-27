@@ -3,13 +3,14 @@ headerVersion: 2023.11.25
 tags: [place, status/stub]
 name: Chardonian Empire
 typeOf: realm
-whereabouts: West Coast Region
+whereabouts: Greater Chardon
 dm_owner: tim
 dm_notes: important
 ---
 # The Chardonian Empire
->[!info]+ Information
-> A realm in the [[Greater Chardon]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%needs tons of work, mostly can't pull from existing notes%%
 
