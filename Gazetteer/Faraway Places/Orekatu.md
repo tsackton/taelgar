@@ -5,7 +5,7 @@ campaignInfo:
 name: Orekatu
 typeOf: realm
 ancestry: lizardfolk
-whereabouts: South Region
+whereabouts: Far South
 dm_notes: important
 dm_owner: tim
 ---

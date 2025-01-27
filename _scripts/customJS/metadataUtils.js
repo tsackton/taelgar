@@ -1,6 +1,6 @@
 class util {
 
-    #isInLocation(startingLocation, targetLocation, targetDate) {
+    #isInLocation(startingLocation, targetLocation, targetDate, followHome) {
 
         // this takes a note and a target location
         // and returns true if the note is in the starting location
@@ -26,10 +26,16 @@ class util {
         let file = NameManager.getFileForTarget(startingLocation)
         if (file) {
 
-            let nextLvl = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate).current.location
+            let nextLvlSrc = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate)
+            let nextLvl = nextLvlSrc.current.location
+
+            if (followHome)
+            {
+                nextLvl = nextLvlSrc.home.location
+            }          
 
             if (nextLvl) {
-                return this.#isInLocation(nextLvl, targetLocation, targetDate)
+                return this.#isInLocation(nextLvl, targetLocation, targetDate, followHome)
             }
 
             return false;
@@ -167,6 +173,51 @@ class util {
         return file != undefined
     }
 
+    inPolity(targetLocation, metadata, targetDate) {
+        const { WhereaboutsManager } = customJS
+        const { DateManager } = customJS
+
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+
+        let pageDates = DateManager.getPageDates(metadata, targetDate)
+
+        if (pageDates) {
+            if (!pageDates.isCreated) return false
+            if (!pageDates.isAlive) return false
+        }
+
+
+        let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
+        if (!wb.current.location) {
+
+           return false;
+        }
+
+        return this.#isInLocation(wb.current.location, targetLocation, targetDate, false)
+    }
+
+
+    inRegion(targetLocation, metadata, targetDate) {
+        const { WhereaboutsManager } = customJS
+        const { DateManager } = customJS
+
+        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
+
+        let pageDates = DateManager.getPageDates(metadata, targetDate)
+
+        if (pageDates) {
+            if (!pageDates.isCreated) return false
+            if (!pageDates.isAlive) return false
+        }
+
+
+        let home = WhereaboutsManager.getWhereabouts(metadata, targetDate).home;
+        if (home == undefined) return false;
+        if (home.location == undefined) return false;
+
+        return this.#isInLocation(home.location, targetLocation, targetDate, true)
+    }
+
     homeLocation(targetLocation, metadata, includeDead, targetDate) {
 
         const { WhereaboutsManager } = customJS
@@ -189,28 +240,7 @@ class util {
         return this.#isInLocation(home.location, targetLocation, targetDate)
     }
 
-    originatedIn(targetLocation, metadata, includeDead, targetDate) {
-
-        const { WhereaboutsManager } = customJS
-        const { DateManager } = customJS
-
-        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
-
-        let pageDates = DateManager.getPageDates(metadata, targetDate)
-
-        if (pageDates) {
-            if (!pageDates.isCreated) return false
-            if (!pageDates.isAlive && !includeDead) return false
-        }
-
-
-        let origin = WhereaboutsManager.getWhereabouts(metadata, targetDate).origin;
-        if (origin == undefined) return false;
-        if (origin.location == undefined) return false;
-
-        return this.#isInLocation(origin.location, targetLocation, targetDate)
-    }
-
+  
     s(format, targetFile, targetDate) {
         const { TokenParser } = customJS
         const { DateManager } = customJS

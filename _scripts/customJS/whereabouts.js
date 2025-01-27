@@ -26,9 +26,9 @@ class WhereaboutsManager {
             location = w.location
         }
 
-        if (type == "region") type = "home";
-        else if (type == "polity") type = "away";
-        else if (type == "watershed") { type = "home"; endDate = dateMin }
+        if (type == "region") { type = "home"; }
+        else if (type == "polity") { type = "away"; endDate = endDate ?? dateMax; }
+  
       
         if (!location) {
             let hasPlace = isValidLocPiece(w.place)
@@ -42,7 +42,7 @@ class WhereaboutsManager {
 
         let logicalEnd = endDate ?? dateMax
         let logicalStart = startDate ?? dateMin
-        let awayEnd = endDate ?? (w.type == "home" ? dateMax
+        let awayEnd = endDate ?? (type == "home" ? dateMax
             : DateManager.normalizeDate(w.start, true) ?? dateMax)
 
         return {

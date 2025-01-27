@@ -229,7 +229,7 @@ class TokenParser {
         return NameManager.formatName(value, token.format)
     }
 
-    #getWhereaboutChain(whereabout, targetDate, filter, sourcePageType) {
+    #getWhereaboutChain(whereabout, targetDate, filter, sourcePageType, followHome) {
 
         const { WhereaboutsManager } = customJS
 
@@ -241,7 +241,7 @@ class TokenParser {
             followDate = whereabout.awayEnd
         }
 
-        return WhereaboutsManager.getWhereaboutChain(whereabout, followDate, whereabout.startFilter ?? filter, sourcePageType, false)
+        return WhereaboutsManager.getWhereaboutChain(whereabout, followDate, whereabout.startFilter ?? filter, sourcePageType, followHome ?? false)
     }
 
     #getFormattedList(value, token, targetDate, joinChar, lastJoinChar) {
@@ -458,12 +458,12 @@ class TokenParser {
                 formatter = "whereabout-list"
                 break
             case "home":
-                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).home, targetDate, token.filter, sourcePageType)
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).home, targetDate, token.filter, sourcePageType, true)
                 formatter = "whereabout-list"
-                break
+                break      
             case "origin":
                 targetDate = pageDateInfo.startDate ?? DateManager.normalizeDate("0001")
-                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).origin, targetDate, token.filter, sourcePageType)
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).origin, targetDate, token.filter, sourcePageType, true)
                 formatter = "whereabout-list"
                 break
             // end whereabout options //

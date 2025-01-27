@@ -1,15 +1,15 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
-name: West Coast Region
+displayDefaults: {defArt: ""}
 typeOf: region
 whereabouts: Taelgar
 dm_owner: none
 dm_notes: color
 ---
-# The West Coast Region
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+# Greater Chardon
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ## Overview

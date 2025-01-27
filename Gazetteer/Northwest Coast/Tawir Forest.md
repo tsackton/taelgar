@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: forest
-whereabouts: West Coast Region
+whereabouts: Northwest Coast
 dm_owner: none
 dm_notes: color
 ---

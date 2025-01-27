@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-whereabouts: Taelgar
+whereabouts: Drankorian Hinterland
 typeOf: region
 name: Desolation of Cha'mutte
 dm_owner: tim
