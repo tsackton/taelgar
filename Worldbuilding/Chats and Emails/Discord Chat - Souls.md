@@ -263,7 +263,7 @@ right
 
 
 [2/2/2024 2:28 PM] rsulfuratus
-i think the distinction between primal realms and divine realms in my notes is kind of obselete. the basic idea is that the spiritual realms are divided into the proximate realms (dreamworld, [[plane of souls]], astral plane, whatever else) and the outer planes, and those are divided by the land of the dead
+i think the distinction between primal realms and divine realms in my notes is kind of obselete. the basic idea is that the spiritual realms are divided into the proximate realms ([[Dreamworld]], [[plane of souls]], astral plane, whatever else) and the outer planes, and those are divided by the land of the dead
 
 
 [2/2/2024 2:29 PM] rsulfuratus
@@ -275,7 +275,7 @@ where does primal magic come from?
 
 
 [2/2/2024 2:29 PM] rsulfuratus
-and in some sense the [[plane of souls]], astral plane, and the dreamworld might all be kind of part of the same metaphysical thing
+and in some sense the [[plane of souls]], astral plane, and the [[Dreamworld]] might all be kind of part of the same metaphysical thing
 
 
 [2/2/2024 2:29 PM] rsulfuratus
