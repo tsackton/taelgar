@@ -13,7 +13,7 @@ dm_owner: joint
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Feywild, classified as echo of the [[Material Plane]] by the [[Faculty of Metaphysics]], and given many other names by countless poets, travelers, scholars, and storytellers, is a land of magic and emotion, a place of contrasts and illusions where the truth is rarely what it seems. Countless legends, songs, and whispered tales speak of fleeting, or not-so-fleeting, encounters with its strange, beautiful, and dangerous denizens, only a small handful of which are recorded here.  While scholars debate its exact nature, its undeniable presence permeates the arts, folklore, and even the politics of Taelgar.
+The Feywild, classified as echo of the [[Material Plane]] by the [[Faculty of Metaphysics]], but given many other names and descriptions by countless poets, travelers, scholars, and storytellers, is a land of magic and emotion, a place of contrasts and mystery where the truth is rarely what it seems. Countless legends, songs, and whispered tales speak of fleeting, or not-so-fleeting, encounters with its strange, beautiful, and dangerous denizens, only a small handful of which are recorded here.  While scholars debate the exact nature of the Feywild, its undeniable presence permeates the arts, folklore, and even the politics of Taelgar.
 
 > [!quote] *Beneath the Boughs*, one of the many sonnets written by [[Thomas Hawke]]
 > Beneath the boughs where twilight shadows play,  
@@ -34,10 +34,28 @@ Where bargains made demand the price be paid.
 > 'Neath shadowed skies, the endless whispers weave,  
 > The mournful songs of those who cannot leave.
 
+## Travel in the Feywild
+
+The Feywild is a place of contradictions, where even the most basic truths seem malleable. While many accounts agree that its geography loosely mirrors the [[Material Plane]]—mountains reflecting mountains, rivers matching rivers—there are just as many tales of travelers finding verdant forests where deserts should be or endless fields of flowers in the midst of barren plains. The elven poet [[~Ancient Elven Poet~]] wrote that "the Feywild shapes itself to memory and dream, not to logic or law," and some travelers have speculated that geography in the Feywild may, at times, reflect what once was, or even what will be, on the [[Material Plane]], not what is now. 
+
+No one who has ventured to the Feywild could fail to notice that time does not move as it does on the Material Plane. The sun does not cross the sky: instead, the time of day seems to be associated instead with location. Numerous Tyrwinghan poems describe the perpetual twilight of the court of the [[Archfey Ethlenn]], where the sun has forever just set. Indeed, the [[~Orelans Elvish Poet~]] wrote, of the sunset in the Feywild, describing a physical structure of the sunset made solid: 
+
+Amber strokes alight,  
+on sunset's blazing crystals—  
+colors breathing life.
+Yet hidden cracks bend time's path,  
+revealing peril and grace.
+
+Far to the west, it is said the light of perpetual dawn shines over the with the bright and hopeful hues of morning; to the east, it deepens into eternal sunset, a liminal twilight that never fades. Travelers often speak of losing their sense of time altogether, with days passing in what feels like moments or weeks shrinking into hours.
+
+Similarly, the unchanging sun is said to hang fixed in the sky, but its light shifts with the journey: westward paths lead to eternal dawn, and eastward to unbroken night. Yet, in the Drankorian epic _[[A Court of Whispers]]_, the explorer Kalen Merewind describes an impossible journey into the far north, where "the sun dimmed to a pale gray ghost, and the world was neither day nor night but something stranger still."
+
+No two tales of time in the Feywild align. The [[Scholar-Captain Marlon Valtris]] claimed that a single meal in the domain of the Seelie Court aged his crew by a decade, while [[Saria Marveil]], a conjurer of the [[University of Chardon]], wrote that a year in the Feywild passed like an hour upon their return. [[Gorath Stonesinger]], a dwarven geomancer, argued that the Feywild does not distort time but reflects the emotions of its travelers: "The heart marks the days in that place, not the sun." The rules of the Feywild remain a tantalizing puzzle—its mysteries both enchanting and disorienting to those who dare to explore them.
+
 
 %%^Campaign:none%%
 
-This is the unedited (except to remove duplication text) dm notes from various feywild adventures in Dunmar Frontier campaign. Does not incorporate numerous discussions or Cleenseau/Addermarch developments. 
+This is the unedited (except to remove duplication text) dm notes.
 
 Major discussions include:
 - [[Discord Chat - Fey Realms]]
