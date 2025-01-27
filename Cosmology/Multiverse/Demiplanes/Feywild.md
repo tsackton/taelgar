@@ -1,17 +1,41 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
-displayDefaults: {defArt: the, wHome: "One of <current>"}
+tags: [place]
 excludePublish: ["clee"]
-whereabouts: Echo Realms
 typeOf: plane
-dm_notes: important
-dm_owner: shared,tim
+whereabouts: 
+- {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+dm_notes: none
+dm_owner: joint
 ---
 # The Feywild
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The Feywild, classified as echo of the [[Material Plane]] by the [[Faculty of Metaphysics]], and given many other names by countless poets, travelers, scholars, and storytellers, is a land of magic and emotion, a place of contrasts and illusions where the truth is rarely what it seems.  
+
+and given many other names  is a place where the mundane world shimmers with magic and emotion, and where truth is as fluid as the laughter of its inhabitants. Unlike the distant Elemental Planes, the Feywild is deeply intertwined with mortal lives; countless legends, songs, and whispered tales speak of fleeting encounters with its strange, beautiful, and dangerous denizens. While scholars debate its exact nature, its undeniable presence permeates the arts, folklore, and even the politics of Taelgar.
+
+> [!quote] *Beneath the Boughs*, one of the many sonnets written by [[Thomas Hawke]]
+> Beneath the boughs where twilight shadows play,  
+The fey spin bright, their songs a siren’s call.  
+Through glens of gold and meadows wrapped in gray,  
+Their laughter weaves a spell to bind us all.  
+>
+>The shifting woods bewitch all guiding light,    
+>As time dissolves within this haunted glade.  
+No dawn will break to end eternal night,  
+Where bargains made demand the price be paid.
+>
+>Fair beauty shrouds the thorn and hides the snare,  
+>With shimmering hues that veil a darker scheme.  
+>Beware, O heart, for wonder masks despair,   
+>And joy dissolves like mist within a dream.
+>
+> 'Neath shadowed skies, the endless whispers weave,  
+> The mournful songs of those who cannot leave.
+
 
 %% incorporate useful parts of notes / comments %%
 
@@ -175,3 +199,73 @@ The queen of Shimmersong, known as the Cloudspinner, the Queen of Sunsets, vanis
 
 
 
+
+
+Here's a revised version of the Feywild page that incorporates more specific examples, varied perspectives, and contradictory lore to emphasize the plane’s mystery and depth:
+
+---
+
+# The Feywild
+
+> [!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+> 
+> > `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The Feywild, an echo of the Material Plane, is a place where the mundane world shimmers with magic and emotion, and where truth is as fluid as the laughter of its inhabitants. Unlike the distant Elemental Planes, the Feywild is deeply intertwined with mortal lives; countless legends, songs, and whispered tales speak of fleeting encounters with its strange, beautiful, and dangerous denizens. While scholars debate its exact nature, its undeniable presence permeates the arts, folklore, and even the politics of Taelgar.
+
+> [!quote] An excerpt from _The Midnight Grove_  
+> When twilight falls and moonlight hums,  
+> The fey arise from shadowed glens.  
+> Their songs are sweet, their laughter wild,  
+> But tread with care, O mortal child.
+> 
+> For paths may twist, and time may stray,  
+> And debts of dreams demand their pay;  
+> Yet beauty calls where danger weaves—  
+> A timeless land that none believe.
+
+## The Geography of the Feywild
+
+The Feywild mirrors the Material Plane, but only loosely. Mountains rise where their Material counterparts stand, and rivers flow along paths similar yet alien. However, the land shifts with emotion and memory rather than geography, creating contradictions that defy logic. One traveler may report the lush meadows of _Fortune’s Rest_ as a serene expanse of blooming flowers, while another claims to have crossed the same ground through an eerie forest of spectral trees. Both accounts may be true—or neither.
+
+Distances in the Feywild are equally mutable. A portal in the mountains of Chardon might lead to a glittering city atop a crystal spire, while another, mere miles away, opens into the murky bogs of _Duskmire_. Yet in the Feywild, these realms could be next-door neighbors or separated by days of travel. Time flows just as strangely: merchants leaving _Whispervale_ for a day’s journey may return to find generations have passed—or discover that the Feywild itself has reshaped their path entirely.
+
+Travelers speak of the plane’s eternal light, where the sun never moves but radiates its essence differently across the land. The westernmost reaches are cloaked in perpetual dawn, soft and golden, while the east descends into eternal twilight, a dim and foreboding realm where shadows stretch long and secrets fester.
+
+## The Inhabitants of the Feywild
+
+The fey themselves embody the contradictions of their home: they are enchanting and unsettling, generous yet cruel.
+
+- **Archfey and their realms**: The Feywild’s politics revolve around the Archfey, whose domains are extensions of their power. _Shimmersong_, ruled by Egon the Lightdancer, is a vibrant land of crystalline forests and gemstone rivers. By contrast, the decayed plains of _Amberglow_ mourn the vanished Queen of Sunsets, its once-lush fields turned to brittle gold.
+- **Lesser fey**: Pixies, satyrs, dryads, and nymphs are common denizens, often tied to a specific place or purpose. They can be as whimsical as a prankster sprite or as predatory as a bog nymph luring travelers into the _Duskmire_.
+- **Beastfolk and changelings**: Harengons, owlins, and shifters trace their origins to ancient Archfey who shaped them from animals. While many serve their creators, others roam freely, carving their own destinies.
+- **The Seelie and Unseelie Courts**: The Seelie Court celebrates beauty, protocol, and structured magic, while the Unseelie Court revels in primal chaos and indulgence. However, both courts are dangerous, their laws and bargains binding in ways mortals often fail to understand.
+
+Rumors persist of beings outside these structures: solitary Archfey who shun both courts, immortal hunters who guard the Feywild’s borders, and entities so ancient they predate the Feywild itself.
+
+## Rules and Contradictions
+
+The Feywild runs on rules that often contradict mortal understanding.
+
+- **Emotion shapes reality**: The land responds to feeling; joy might cause flowers to bloom, while sorrow can twist a path into an impassable maze. This makes the plane deeply unpredictable.
+- **Bargains bind**: To make a promise or accept a gift without repayment creates an inescapable bond. Many mortal tales end in ruin when a hero unwittingly accepts the hospitality of a fey lord.
+- **Truth and lies**: While many fey cannot tell outright lies, their truths are often twisted or incomplete, leaving mortals to decipher meaning from riddles.
+
+## Art and Lore of the Feywild
+
+The Feywild inspires mortal imagination more than any other plane. Unlike the distant myths of the Elemental Realms, the Feywild appears in countless plays, poems, and ballads. Tales like _The Siren’s Embrace_ tell of mortals ensnared by fey lovers, while _The Eternal Masquerade_ portrays a courtly ball where a mortal dances for a century, only to return as an old man with no memory of his time away.
+
+Even scholarly texts like _Through the Archways_ and _Lyrannis’ Survey of Fey Lords_ acknowledge their limitations, often citing contradictory reports and dismissing some as romantic embellishment. The plane’s nature ensures no single account can encompass its entirety.
+
+## Realms of the Feywild
+
+The Feywild is divided into countless domains, each shaped by the Archfey who rule them. Some realms are glittering courts filled with splendor and intrigue, while others are wild, primal expanses.
+
+- **Fortune’s Rest**: A seemingly idyllic land of meadows and groves, home to the Chanceweaver’s Court, where games of luck determine fates.
+- **Shimmersong**: A vibrant land of crystalline forests and gem-laden hills, ruled by Egon the Lightdancer.
+- **Amberglow**: A realm of eternal sunsets, once lush and golden, now decayed and lifeless after the Queen of Sunsets vanished.
+- **Duskmire**: A shadowy expanse of glowing marshes, said to be home to cunning Archfey who delight in ensnaring the unwary.
+- **Whispervale**: A tranquil land of perpetual dawn, where the whispers of ancient trees reveal truths—if one can decipher their meaning.
+
+Would you like more focus on a specific realm, Archfey, or cultural perspective?

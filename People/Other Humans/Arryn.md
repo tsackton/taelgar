@@ -23,6 +23,6 @@ dm_notes: important
 ![[arryn-the-wanderer-portrait.png|right|400]]A wizard of significant power. Originally from [[Tollen]], but now dwells in a tower in the northern part of the [[~Eastern Islands~]]. Fascinated by other dimensions, recently the hypothesized [[Mirror Realm]] in particular. 
 
 %%^Campaign:DuFr%%
-In the fall of 1748, vanished into the [[Mirror Realm]] after an experiment went wrong. Arryn was later freed by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 60 (DuFr)|Wellby's adventures in the eastern Green Sea]]. After his rescue, he sent Wellby to the Feywild to reunite with the [[Dunmar Fellowship]]; [[Alimash]] joined Arryn's service.
+In the fall of 1748, vanished into the [[Mirror Realm]] after an experiment went wrong. Arryn was later freed by [[Wellby]], [[Alimash]], and [[Shoal]] during [[Session 60 (DuFr)|Wellby's adventures in the eastern Green Sea]]. After his rescue, he sent Wellby to the [[Feywild]] to reunite with the [[Dunmar Fellowship]]; [[Alimash]] joined Arryn's service.
 %%^End%%
 
