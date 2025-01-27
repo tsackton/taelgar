@@ -1,18 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
-displayDefaults: {defArt: ""}
+tags: [place, status/needswork/wip]
+displayDefaults: {defArt: 'the' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
-dm_owner: joint,tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
-# Eastern Green Sea
+# The Eastern Green Sea
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% TODO intro %%
+%% Status:
+* [ ] Intro 
+* [ ] Map
+* [ ] Topography
+* [ ] Civilizations and Culture
+* [x] History
+* [ ] Climate
+* [ ] Climate - Real World
+* [x] DM Notes
+%%
 ## Map
 
 ```leaflet 
@@ -42,26 +51,18 @@ markerTag: location-source
 
 ## Climate
 
-%%^Campaign:None%%
-
-%% TODO
-* [ ] Real world examples
-%%
-
-%%^End%%
-
 ## Major Historical Eras
-There is little developed history of this region, although it was an important site of early mariner migrations and is canonically an area where the mariner schisms occurred. 
-
+Little is known of the history of this region, although the [[Skaerhem|Skaer]] and other [[~Mariners~]] speak of their journeys through the eastern [[Green Sea]] in their legends and tales, and scholars agree that the [[~Mariners~]] first landed in this region, sailing from [[Hkar]], although whether across the [[Endless Ocean]] or from some other path, history does not say.
 
 %%^Campaign:None%%
 ## DM Notes and Meta
+_See also: [[Places in the Eastern Green Sea]]_
 
 *Area:* This region includes the [[~Eastern Islands~]], [[Irrla]], and the entire southern [[Green Sea]] coast east of [[~South Cymea~]]. In general, the border to the south is poorly determined, but is assumed to be either the northern edge of the [[~Great Desert~]] or the edge of the coastal/eastern/mariner culture.
 
 *Canonical Development and Constraints:* The city of [[Medju]] has been loosely invented, but only in the context of rumors that reached other places. The [[Vermillion Isles]] have been reasonably well developed. The wizard [[Arryn]] lives in some part of the [[~Eastern Islands~]] some distance north of the [[Vermillion Isles]]. Irrla has some development, and canonically contains at least a large hobgoblin realm and a human realm known as [[Republic of Svolhas]].
 
-*Brainstorming and Potential Canon:* An aquatic elven culture living around and beneath the island of [[Quanyi]] was invented for the Wellby solo, but potentially could be retconned. The [[~Eastern Islands~]] tentatively are assumed to largely move and shift (with some exceptions, such as [[Quanyi]] that is known as the anchored island), but details are vague and what is rumor vs truth is undetermined. Some notes about winds and currents exist, but these are not strictly canonical. The Republic of Svolhas is probably mariner, but nothing about them, including religion is particularly determined, other than a recent (1740s) war with the hobgoblins provoking a naval bulidup. Some notes about patterns of wind and currents exist, but are not strictly canonical. The long-discussed but never introduced "Neo-Eastern" religion involving direct worship of the [[Divine Presence]] may or may not actually exist. 
+*Brainstorming and Potential Canon:* An aquatic elven culture living around and beneath the island of [[Quanyi]] was invented for the Wellby solo, but potentially could be retconned. The [[~Eastern Islands~]] tentatively are assumed to largely move and shift (with some exceptions, such as [[Quanyi]] that is known as the anchored island), but details are vague and what is rumor vs truth is undetermined. Some notes about winds and currents exist, but these are not strictly canonical. The Republic of Svolhas is probably mariner, but nothing about them, including religion is particularly determined, other than a recent (1740s) war with the hobgoblins provoking a naval bulidup. Some notes about patterns of wind and currents exist, but are not strictly canonical. The long-discussed but never introduced "Neo-Eastern" religion involving direct worship of the [[Divine Presence]] may or may not actually exist. There has been much brainstorming of this region's impact on the Mariner Migrations but nothing canonically committed.
 
 *Needs Development:* Irrla in general is in need of more complete development.
 

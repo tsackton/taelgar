@@ -79,3 +79,8 @@ This is page tracks the status of the Gazetteer reorganization.
 * [ ] Wistel-Enst
 * [ ] Volta
 * [ ] Ket
+
+## Other issues
+* [ ] Resolve whereabouts issues with the Sentinels - sentinel-whereabouts pages do not currently appear in any region
+* [ ] Drankor whereabouts - Drankor should be a place rather than history
+* [ ] Green Sea whereabouts - islands and such

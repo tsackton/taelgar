@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Medju
 typeOf: city
-whereabouts: Eastern Green Sea Region
+whereabouts: Eastern Green Sea
 dm_notes: important
 dm_owner: tim
 ---

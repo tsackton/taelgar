@@ -1,5 +1,5 @@
 ---
-tags: [place, status/cleanup/incomplete, status/stub]
+tags: [place, status/cleanup/incomplete, status/needswork/wip]
 displayDefaults: {defArt: '' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
@@ -7,6 +7,17 @@ dm_owner: joint
 dm_notes: none
 ---
 # {Region Name}
+
+%% Status:
+* [ ] In world intro
+* [ ] Map
+* [ ] Topography
+* [ ] Civilizations and Culture
+* [ ] History
+* [ ] Climate
+* [ ] Climate - Real World
+* [ ] DM Notes
+%%
 
 {intro text}
 ## Map

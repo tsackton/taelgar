@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/old]
 name: Sea of Storms
 typeOf: sea
 whereabouts: 
@@ -14,3 +14,5 @@ dm_owner: tim
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The nearly-unnavigable sea south of [[Greater Dunmar]], wracked by storms and dangers. The few ships that manage to cross it often return with strange riches and delicacies from the south. 
+
+%% Clean up based on moving regions %%
