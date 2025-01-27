@@ -1,17 +1,20 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place, status/check/tim, status/cleanup/map]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
-dm_owner: tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 # The Far North
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% convert map to leaflet %%
+
 Far north, beyond the northern lands of [[Vostok]] and [[Ursk]] lies a mysterious land of long winters and bitter cold. Rarely visited, even rumors from this region rarely reach the populated lands of the south. The stories that do reach the south tell of frost-breathing dragons, obsidian statues as tall as the hills, and singing caves of ice that devour unwary travelers. More prosaic stories of wooly mammoths with heavy ivory tusks and short summers filled with rushing snowmelt and clouds of gnats as far as the eye can see have also come south. Who is to say which stories are true?
+## Map
 
 ![[far-north-map.png]]
 
@@ -20,7 +23,7 @@ Few have mapped this region, and little is known about the lands. A few features
 
 * A [[~Far North Steppe~|cold, dry steppe]] north of [[Vostok]] and the [[Grastenvakt|Gråstenvakt]]
 * A [[~Far North White Dragon Mountains~|range of mountains]] north of the [[Ket]], said to be the birthplace of [[Vimfrost]] and home to many frost-breathing dragons
-* A [[~North Ursk River~|river system]] that drains from the [[~Far North White Dragon Mountains~]] to the eastern [[Green Sea]]
+* A [[~North Ursk River~|river system]] that drains from the [[~Far North White Dragon Mountains~|range of mountains]] north of the [[Ket]] to the eastern [[Green Sea]]
 
 ## Civilizations and Cultures
 Although rumors persist of [[Kenku|kenku]] flying across the [[~Far North Steppe~|nothern steppe]], few can say where exactly these winged creatures live. 

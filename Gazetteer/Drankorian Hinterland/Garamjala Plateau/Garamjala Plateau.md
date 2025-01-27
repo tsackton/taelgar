@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-whereabouts: Greater Dunmar
+whereabouts: Drankorian Hinterland
 typeOf: region
 dm_owner: tim
 dm_notes: important

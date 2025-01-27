@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Ainumarya
 typeOf: forest
-whereabouts: Chasa-Nahadi Watershed
+whereabouts: Central Highlands
 pronunciation: EYE-new-mar-ya
 dm_notes: color
 dm_owner: tim

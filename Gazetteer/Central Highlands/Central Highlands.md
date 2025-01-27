@@ -1,18 +1,27 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
-displayDefaults: {defArt: '' }
-name: Central Highlands
+tags: [place, status/needswork/wip]
+displayDefaults: {defArt: 'the' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
-dm_owner: tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
-# Central Highlands
+# The Central Highlands
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Status:
+* [ ] In world intro
+* [ ] Map
+* [ ] Topography
+* [ ] Civilizations and Culture
+* [ ] History
+* [ ] Climate
+* [ ] Climate - Real World
+* [x] DM Notes
+%%
 {intro text}
 ## Map
 
@@ -42,7 +51,7 @@ _See more: {links}_
 
 %%^Campaign:None%%
 ## DM Notes and Meta
-_See also: {links to lists, e.g. Places in Region}_
+_See also: [[Places in the Central Highlands]]_
 
 *Canonical Development and Constraints:* Three major extant dwarven kingdoms of the Sentinels are fairly well established, although many details remain to be invented. The elven kingdoms of [[Ainumarya]] are canonical, but not well established and potentially a source of some mystery, although once it was the thriving heartland of elves on Taelgar. In general this region has few humans, with only the [[Deno'qai]] a major developed culture. The general geography and climate of this area is well established. 
 
@@ -55,7 +64,6 @@ _See also: {links to lists, e.g. Places in Region}_
 *Adventures:* The Dunmari Frontier campaign Elderwood arc occurred in this region, as did the short adventure to Hralgar's Palace. The Great Library dwarven kingdom arc also occurred in this region, including passing through a Deno'qai village from early days of Deno'qai development ([[Raha]]), and significant invention around [[Am'khazar]]. The [[Great War Campaign]] involved the final battle ([[Battle of Urlich Pass]]) against [[Cha'mutte]] at or near [[Urlich Pass]], and also included a short arc involving a hidden forest ([[Valley of the Hidden Forest]]) with strange magic where Rai first met Dimitaur. 
 
 *Important Places in Staging:* The Deno'qai villages from the Elderwood arc ([[~Bek'eni village~]], [[~Te'kula village~]]) could use names. 
-
 %%^End%%
 
 ---

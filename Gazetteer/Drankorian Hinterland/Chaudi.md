@@ -1,9 +1,9 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/cleanup/text]
 name: Chaudi
 typeOf: river
-whereabouts: Nayan Floodplains
+whereabouts: Drankorian Hinterland
 dm_owner: none
 dm_notes: color
 ---
@@ -13,3 +13,5 @@ dm_notes: color
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The southernmost of the three great rivers of the [[Nayan Floodplains]]
+
+%% Not really in the floodplains - rewrite %%

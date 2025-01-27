@@ -4,7 +4,7 @@ tags: [status/needswork/old, place]
 typeOf: settlement
 typeOfAlias: village
 ancestry: Deno'qai
-whereabouts: West Coast Region
+whereabouts: Central Highlands
 dm_notes: color
 dm_owner: tim
 ---
