@@ -20,6 +20,6 @@ whereabouts:
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[denoqai-scale-armor-delwath.png|right|400]]A suit of scale mail armor, subtly designed with [[tanshi]] motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
+![[denoqai-scale-armor-delwath.png|right|400]]A suit of scale mail armor, subtly designed with [[Tanshi]] motifs, and lightweight enough to be worn under winter gear. It has green and blue highlights, but is otherwise muted brown.
 
 This armor was created during the [[Great War]] for the Deno'qai hero [[Balati]], and later [[Session 53 (DuFr)|gifted]] to [[Delwath]] of the [[Dunmar Fellowship]] while he was on a quest to free lost tanshi who had been trapped during the [[Great War]]. 

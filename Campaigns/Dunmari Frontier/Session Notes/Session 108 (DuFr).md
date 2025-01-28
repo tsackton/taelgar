@@ -58,7 +58,7 @@ Kenzo then spoke to the trees, learning that there had been no pilgrims for many
 
 Continuing up the mountain, The party arrived at the summit clearing where eight temples stood in a circle, each dedicated to a different deity. The temples were arranged around a central courtyard, with a bell tower that had a lighthouse-like top and several administrative buildings nearby. They found a large hostel where pilgrims would stay, along with a mess hall featuring stone benches and arcane circles for communal meals, suggesting the area once supported up to 100 people.
 
-Identifying the Temple of the Sibyl, dedicated to the deity of magic, knowledge, song, and love, the party noted that each temple had a single entrance facing the courtyard. [[Wellby]] carefully investigated the entrance to the Temple of [[the Sibyl]] and discovered a tripwire trap connected to a massive stone block that would swing down if triggered. Using a rope to maintain tension, the group successfully disarmed the trap, allowing them to enter the temple safely.
+Identifying the Temple of the Sibyl, dedicated to the deity of magic, knowledge, song, and love, the party noted that each temple had a single entrance facing the courtyard. [[Wellby]] carefully investigated the entrance to the Temple of [[The Sibyl]] and discovered a tripwire trap connected to a massive stone block that would swing down if triggered. Using a rope to maintain tension, the group successfully disarmed the trap, allowing them to enter the temple safely.
 
 Once inside, they heard a booming voice emanating from the statue of the [[The Sibyl|Sibyl]], demanding proof of their allegiance to [[Rai]] before they could proceed. Delwath and [[Seeker]] exchanged glances, suspecting that the voice might be more mundane in origin than divine. [[Seeker]] used his tremorsense to locate movement below and discovered a dragonet hiding in a tunnel beneath the statue. With this knowledge, [[Kenzo]] addressed the booming voice, recognizing the dragonet as [[Dimitaur]]—an elder who had once been in the presence of Rai. Kenzo spoke of his connection to [[Rai]] and presented a piece of jade, revealing their shared purpose.
 
@@ -121,7 +121,7 @@ Before they rested, [[Seeker]] used clairvoyance to observe Ra'ghemdros' lair, n
 The party climbs a statue to gain a better view of the surrounding island, discovering several key features.
 - Kenzo and Wellby climb a massive statue to get a better vantage point.
 - They notice the remains of a ruined pier nestled between the statue's legs.
-- The party sees other statues in the distance, identifying two as the Night Queen and [[the Mother]].
+- The party sees other statues in the distance, identifying two as the Night Queen and [[The Mother]].
 - Discussions reveal more about the local religious beliefs, including the nature of the gods worshipped on the island.
 - The group spots a ruined town to the north, surrounded by destroyed towers and estates.
 - They consider using clairvoyance to scout ahead but decide to explore the ruined town first.

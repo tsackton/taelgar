@@ -23,7 +23,7 @@ The [[Dunmar Fellowship]] delves into discussions of otherworldly planes and str
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] meets with [[Candrosa]] and [[Alesh]], discussing gnolls, [[Demons]], and [[Agata|Agata Dustmother]]'s dark magic.
-- Candrosa is visibly troubled, especially regarding [[Shakun's protection]], and reveals how to find Agata.
+- Candrosa is visibly troubled, especially regarding [[Shakun's Protection]], and reveals how to find Agata.
 - Afterwards, the group meets [[Tharandros]], sharing a meal and discussing [[Echo Realms]], mythic history, and [[Agata]]'s fey nature.
 - [[Tharandros]] expresses concern over a strange silence in [[Karawa]], implying a mystery the party should investigate.
 - The party decides to travel east with [[Havdar]], seeing what they can find in the desert. 
@@ -46,6 +46,6 @@ Before leaving, he tells the party the tales of how to find [[Agata]], should th
 
 After some discussion of what to do next, and a brief conversation with [[Havdar]], who is angling for the party to come east hunting [[Orcs]] and gnolls with him, the group heads to find [[Tharandros]], the leader of the [[Centaurs]]. [[Tharandros]] is happy to speak with them at length, over food and wine, as he is overjoyed that they removed the demonic corruption from the land.
 
-Another wide-ranging conversation occurs, touching on the [[echo realms]] (the [[Shadowfolds]], [[Feywild]], [[Nightmare Realm]], [[Dreamworld]], and perhaps many more), the resonances in the world that they are echos and reflections of, and the mythic history of the days of great magic before the [[echo realms]] were created by the [[Riving]], which sundered some of the chaos of Taelgar. From [[Tharandros]], the party learned that [[Agata]] is a fey creature, and that she and the [[Centaurs]] had an agreement that she would stay south of the road, in the desert and canyonlands, while the [[Centaurs]] would have the plains to the north. He also hinted she may have been an ally of [[Cha'mutte]] in the [[Great War]], and this is the cause of her desire for revenge.
+Another wide-ranging conversation occurs, touching on the [[Echo Realms]] (the [[Shadowfolds]], [[Feywild]], [[Nightmare Realm]], [[Dreamworld]], and perhaps many more), the resonances in the world that they are echos and reflections of, and the mythic history of the days of great magic before the [[Echo Realms]] were created by the [[Riving]], which sundered some of the chaos of Taelgar. From [[Tharandros]], the party learned that [[Agata]] is a fey creature, and that she and the [[Centaurs]] had an agreement that she would stay south of the road, in the desert and canyonlands, while the [[Centaurs]] would have the plains to the north. He also hinted she may have been an ally of [[Cha'mutte]] in the [[Great War]], and this is the cause of her desire for revenge.
 
 Finally, the conversation returns to [[Karawa]] and the [[Shakun]] mysteries. [[Tharandros]] says there is something wrong here, a silence where their should be echoes and reverberations, something missing from the land, and asks the party if they can find out more. As the conversation ends, the party decides that perhaps the answers they seek lie to the east, and prepare to find [[Havdar]] to discuss joining forces.
