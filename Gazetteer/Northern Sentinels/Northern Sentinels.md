@@ -11,7 +11,7 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% TODO write intro %%
+North of the [[Dwarven Kingdoms]] and the plains of [[Voltara]] is a wild and unpeopled land, haunted with the scars of the [[Great War]]. Pine forests, swamps, and the tall peaks of the [[Sentinel Range#Northern Sentinels|northern Sentinels]] dominate the landscape. 
 
 
 ```leaflet 
