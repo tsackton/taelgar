@@ -17,7 +17,7 @@ This is page tracks the status of the Gazetteer reorganization.
 * [x] [[Eastern Green Sea]]
 * [ ] [[Far South]]
 * [x] [[Far North]]
-* [ ] [[Western Ocean]]
+* [x] [[Western Ocean]]
 
 ## Finish Region Pages
 (or at least, finish mostly and add todos on the individual page)
@@ -33,9 +33,9 @@ This is page tracks the status of the Gazetteer reorganization.
 * [ ] [[Northern Green Sea]]
 * [ ] [[Western Green Sea]]
 * [ ] [[Eastern Green Sea]]
-* [ ] [[Far South]]
+* [x] [[Far South]]
 * [x] [[Far North]]
-* [ ] [[Western Ocean]]
+* [x] [[Western Ocean]]
 
 ## Reorganize Folder and Confirm pages have whereabouts
 * [ ] [[Northwest Coast]]
@@ -50,7 +50,7 @@ This is page tracks the status of the Gazetteer reorganization.
 * [x] [[Northern Green Sea]]
 * [ ] [[Western Green Sea]]
 * [ ] [[Eastern Green Sea]]
-* [ ] Faraway Places
+* [x] Faraway Places
 * [ ] Extraplanar
 
 ## Create and cleanup Cross Region Pages
@@ -81,6 +81,6 @@ This is page tracks the status of the Gazetteer reorganization.
 * [ ] Ket
 
 ## Other issues
-* [ ] Resolve whereabouts issues with the Sentinels - sentinel-whereabouts pages do not currently appear in any region
+* [x] Resolve whereabouts issues with the Sentinels - sentinel-whereabouts pages do not currently appear in any region
 * [ ] Drankor whereabouts - Drankor should be a place rather than history
-* [ ] Green Sea whereabouts - islands and such
+* [x] Green Sea whereabouts - islands and such

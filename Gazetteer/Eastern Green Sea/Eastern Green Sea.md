@@ -12,47 +12,39 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% Status:
-* [ ] Intro 
-* [ ] Map
-* [ ] Topography
-* [ ] Civilizations and Culture
-* [x] History
-* [ ] Climate
-* [ ] Climate - Real World
-* [x] DM Notes
-%%
+East of the well-traveled ports of [[Tollen]] and [[Cymea]] lies a vast expanse of the [[Green Sea]]. Many rumors come west from these lands: on halfling ships carrying exotic goods from [[Medju]]; or on [[Tollen]] merchant ships, chartered by the [[Dyer's Guild]] to bring exotic dyes from [[Ursk]]; or from restless [[Skaerhem|Skaer]] sailors, far from their home islands. These rumors tell of many things: islands that move from season to season; cities made of gold and emeralds that sparkle in the desert sun; flying [[Kenku|kenku]] living in cliffside roosts on islands red like blood; stoneborn rafts, kept afloat by will alone, drifting from island to island; hobgoblin pirates who eat the hearts of their victims; strange gods of pleasure who bring waking bliss to their acolytes; clerics who worship the [[Divine Presence]] itself and can summon food and water by merely thinking a prayer. 
+
+Are these rumors true? Surely some are, the people of [[Tollen]] say, but few dare speculate on what is fact or fiction.
 ## Map
 
-```leaflet 
-id: region-map-taelgar
-image: [[east-green-sea-region.png]] 
-bounds: 
-- [0,0]
-- [1423,3341]
-height: 400px  
-width: 900px
-lat: 697
-long: 1700
-minZoom: -2
-maxZoom: 0
-defaultZoom: -2
-unit: miles 
-scale: 0.5
-draw: false
-darkMode: false
-markerTag: location-source
-```
-
 ## Topography and Major Features
-[[Irrla]], [[~Eastern Ocean~]], [[~Eastern Islands~]]
+_See also: [[Green Sea]], [[Irrla]], [[~Eastern Islands~]], [[~Eastern Ocean~]]_
+
+The [[Green Sea]] itself dominates this region, and the currents and winds of the [[Green Sea]] are a major determinant of the climate. The coasts of the Green Sea define this region:
+
+* [[Irrla]], the large island in the center of the [[Green Sea]], 500 miles across, lies at the western boundary of this region
+* The south coast of the Green Sea, from the [[~Eastern Mountains~|mountains near Cymea]] to the [[~Medju Mountains~|mountains east of Medju]], is characterized by a [[~Maritime Trade Peninsula~|large peninsula]] known to be the home of diverse cultures
+* West of the [[~Medju Mountains~|mountains near Medju]] is the [[~Eastern Coast~|far eastern coast]], away from the influences of the [[Green Sea]] and seen as strange even by those of this region
+* Stretching for 2000 miles from south to north, the [[~Eastern Islands~]] form a barrier between the [[Green Sea]] and the [[~Eastern Ocean~]]. Many say these islands are magical, and the weather in this region is know to be chaotic and unsettled
+* In the far north, is another [[~Far North Peninsula~|great peninsula]] with cold, with long winters and short summers, and no reports have come west of who or what might live there
 ## Civilizations and Cultures
-[[Medju]] and [[Vermillion Isles]] and [[Irrla]] but also sure many others.
-
+This is a land of many cultures and civilizations, but few are well-attested in the west. Most geographers believe that the cities of [[Medju]] are real, and shipwrecked sailors from the [[Republic of Svolhas]] on [[Irrla]] have been seen on the [[Cymean Peninsula]]. But few really know what strange cultures this region holds, or what strange gods they worship.
 ## Climate
+_See more: [[Green Sea]]_
 
+The climate of this region is dominated by the influence of the [[Green Sea]]. The [[~Eastern Islands~]] are very oceanic, with strange magic influencing their climate. The northern coasts tend to be cool but moderate, heavily maritime climates. The south coasts tend to be dry, with little rain. Far to the east, beyond the [[~Eastern Islands~]], the [[~Far North Peninsula~|northern lands]] are cold and wet, and the climate of the [[~Eastern Coast~|far eastern shores]] is unreported in the west.
+
+%%^Campaign:None%%
+For more detail, see the [[Green Sea]] page. In general:
+* [[Irrla]] has a climate not dissimilar to Japan, with the summer monsoon bringing rain to the southeastern side of the island and the winter westerlies bringing snow to the northwestern side of the island. 
+* The south coast, with the possible exception of the [[~Maritime Trade Peninsula~]] is dry, similar to North Africa. The [[~Maritime Trade Peninsula~]] may be more like Hong Kong or southern China, but is not clear
+* The north coast is generally similar to Scandanvia or Nova Scotia
+* The [[~Far North Peninsula~]] is more Siberian/Manchuria
+* The [[~Eastern Coast~]] is warm and wet, comparatively, influenced by warm currents from the [[~Eastern Ocean~]]
+
+%%^End%%
 ## Major Historical Eras
-Little is known of the history of this region, although the [[Skaerhem|Skaer]] and other [[~Mariners~]] speak of their journeys through the eastern [[Green Sea]] in their legends and tales, and scholars agree that the [[~Mariners~]] first landed in this region, sailing from [[Hkar]], although whether across the [[Endless Ocean]] or from some other path, history does not say.
+Little is known of the history of this region, although the [[Skaerhem|Skaer]] and other [[~Mariners~|ancient mariner cultures]] speak of their journeys through the eastern [[Green Sea]] in their legends and tales, and scholars agree that the [[~Mariners~]] were the first humans to settle in this region, sailing from [[Hkar]], although whether across the [[Endless Ocean]] or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the [[The Downfall|Downfall]] much of the [[Green Sea]] was covered by the enormous [[~Ancient Lizardfolk Swamp~]].
 
 %%^Campaign:None%%
 ## DM Notes and Meta

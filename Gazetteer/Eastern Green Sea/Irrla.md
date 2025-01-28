@@ -4,7 +4,9 @@ tags: [place]
 name: Irrla
 typeOf: island
 typeOfAlias: large island
-whereabouts: Green Sea
+whereabouts:
+- {type: primary, location: Green Sea }
+- {type: secondary, location: Eastern Green Sea }
 pronunciation: EAR-la
 dm_notes: important
 dm_owner: tim
