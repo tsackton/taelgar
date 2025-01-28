@@ -5,8 +5,8 @@ displayDefaults: {defArt: ''}
 name: Lake Valandros
 typeOf: lake
 whereabouts: 
-- {type: region, location: Chasa-Nahadi Watershed } 
-- {type: polity, location: Chardonian Empire }
+- {type: secondary, location: Chasa-Nahadi Watershed } 
+- {type: primary, location: Chardonian Empire }
 dm_notes: color
 dm_owner: tim
 ---

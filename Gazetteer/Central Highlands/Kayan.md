@@ -3,7 +3,9 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Kayan
 typeOf: river
-whereabouts: Elderwood
+whereabouts: 
+- {type: primary, location: Elderwood }
+- {type: secondary, location: Chasa-Nahadi Watershed }
 pronunciation: KAH-yan
 dm_notes: color
 dm_owner: none

@@ -26,9 +26,7 @@ class WhereaboutsManager {
             location = w.location
         }
 
-        if (type == "region") { type = "home"; }
-        else if (type == "polity") { type = "away"; endDate = endDate ?? dateMax; }
-  
+        if (type == "primary") { type = "home" }
       
         if (!location) {
             let hasPlace = isValidLocPiece(w.place)
@@ -42,7 +40,7 @@ class WhereaboutsManager {
 
         let logicalEnd = endDate ?? dateMax
         let logicalStart = startDate ?? dateMin
-        let awayEnd = endDate ?? (type == "home" ? dateMax
+        let awayEnd = endDate ?? (type == "home" || type == "secondary" ? dateMax
             : DateManager.normalizeDate(w.start, true) ?? dateMax)
 
         return {
@@ -80,7 +78,7 @@ class WhereaboutsManager {
         // if allowPast is true, will include past locations //
         // if allowUnknown is true, will include unknown locations //
         let candidateSet = whereaboutsList
-            .filter(w => (!type || w.type == type) && (w.logicalStart.sort <= target.sort))
+            .filter(w => ((!type && w.type != "secondary") || w.type == type) && (w.logicalStart.sort <= target.sort))
             .filter(w => allowPast || target.sort <= w.logicalEnd.sort)
             .filter(w => allowUnknown || w.location);
         let soonestPossible = Math.min(...candidateSet.map(w => this.#get_distance_to_target(w, target)))
@@ -200,7 +198,7 @@ class WhereaboutsManager {
     }
 
 
-    #getWhereaboutChainPiece(whereabout, targetDate, thisDepth, filter, sourcePageType, followHome) {
+    #getWhereaboutChainPiece(whereabout, targetDate, thisDepth, filter, sourcePageType) {
 
         const { NameManager } = customJS
         const { WhereaboutsManager } = customJS
@@ -252,7 +250,7 @@ class WhereaboutsManager {
 
         let nextDepth = nextLevelCheck.incrementDepth ? thisDepth + 1 : thisDepth
         let nextWb = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate)
-        let nextLevel = followHome ? nextWb.home : nextWb.current
+        let nextLevel = nextWb.current
         let returnValue = []
 
         if (nextLevelCheck.allowed) {
@@ -278,9 +276,9 @@ class WhereaboutsManager {
     }
 
 
-    getWhereaboutChain(startWhereabout, targetDate, filter, sourcePageType, followHome) {
+    getWhereaboutChain(startWhereabout, targetDate, filter, sourcePageType) {
 
-        return this.#getWhereaboutChainPiece(startWhereabout, targetDate, 1, filter, sourcePageType, followHome)
+        return this.#getWhereaboutChainPiece(startWhereabout, targetDate, 1, filter, sourcePageType)
     }
 
 
@@ -312,7 +310,7 @@ class WhereaboutsManager {
 
         // default to unknown //
         let unknownWhereabout = { location: null }
-        let whereaboutResult = { current: unknownWhereabout, home: unknownWhereabout, origin: unknownWhereabout, lastKnown: unknownWhereabout }
+        let whereaboutResult = { current: unknownWhereabout, home: unknownWhereabout, origin: unknownWhereabout, lastKnown: unknownWhereabout, secondary: unknownWhereabout }
 
         let originDate = DateManager.normalizeDate(metadata.born, false) ?? DateManager.normalizeDate(metadata.created, false) ?? DateManager.normalizeDate("0001", false)
         let normalized = this.getWhereaboutsList(metadata)
@@ -321,6 +319,8 @@ class WhereaboutsManager {
         whereaboutResult.home = this.#filterWhereabouts(normalized, "home", targetDate, false, true).last() ?? whereaboutResult.home
         // origin is lexically first valid home //
         whereaboutResult.origin = this.#filterWhereabouts(normalized, "home", originDate, false, true).first() ?? whereaboutResult.origin
+        // secondary is the lexically last valid secondary
+        whereaboutResult.secondary = this.#filterWhereabouts(normalized, "secondary", originDate, false, true).first() ?? whereaboutResult.secondary
         // current is lexically last valid location //
         whereaboutResult.current = this.#filterWhereabouts(normalized, undefined, targetDate, false, true).last() ?? whereaboutResult.current
         // lastknown is assumed to be current for now //
