@@ -129,6 +129,7 @@ class OutputHandler {
             if (hasPlaces) {
                 if (whereaboutsStrings.origin.trim()) output += "   :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.origin.trim() + "  \n"
                 if (whereaboutsStrings.home.trim()) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.home.trim() + "  \n"
+                if (whereaboutsStrings.secondary.trim()) output += "    :octicons-location-24:{ .lg .middle } " + whereaboutsStrings.secondary.trim() + "  \n"
             }
 
             if (lineCount > 0) {
@@ -351,7 +352,11 @@ class OutputHandler {
 
     outputWhereabouts(fileName, metadata) {
         let vals = this.getWhereaboutsStrings(fileName, metadata)
-        let displayString = `${vals.origin}${vals.home}${vals.current}${vals.lastKnown}${vals.secondary}\n`
+        let displayString = `${vals.origin}${vals.home}${vals.current}${vals.lastKnown}`
+
+        if (vals.secondary.trim()) {
+            displayString += "\n" + vals.secondary
+        }
 
         return displayString.replace(/\n\n+/g, "\n");
     }
