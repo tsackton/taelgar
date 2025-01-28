@@ -1,10 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/name]
-displayDefaults: {defArt: the, wHome: "Domains of the <home:1x>"}
+displayDefaults: {defArt: the, wHome: "Domains in the <home:1x>"}
 typeOf: plane
 whereabouts: Echo Realms
-dm_notes: color
+dm_notes: none
 dm_owner: none
 ---
 # The Shadowfolds
@@ -12,16 +12,18 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Shadowfolds are series of echo realms, domains of undeath, despair, sorrow, or other curses and evils, created from the echos of the [[Material Plane]] by powerful events of evil. There are many such domains, and unlike the [[Feywild]] they do not connect in a single, cohesive realm: it is, generally, not possible to simply walk from one domain to another. 
+The Shadowfolds are the name, popularized by the Drankorian text [[On Metaphysics]], for the collection of demiplanes associated particularly with the resonances of great evil. In the [[Standard Multiversal Model]], these are considered [[Echo Realms]]: the few reliable reports of planar travelers who explored and lived to escape these dark domains suggest that, like the [[Feywild]], there is a rough physical correspondence between the features of the Shadowfolds and the [[Material Plane]]. 
 
-However, all of the Shadowfolds share the property of being an echo realm of the Material Plane. 
+Unlike Fey Realms, the domains of the Shadowfolds cannot be so easily traversed, and travel between them is difficult, if not impossible. Indeed, each Shadowfold domain is perhaps better considered to be its own demiplane, as [[Camilla of Drankor]] proposed, colored and shaped by the particular evils of whatever dread lord made it. [[~Famous Tyrwinghan Scholar~]] even went so far as to propose that the Shadowfolds are really prisons for those who commit vast sins, and the existence of each Shadowfold domain is tied to the punishment of a particular evil soul, trapped there forever. 
+
+*(While there is more to say about the Shadowfolds, and significant lore likely exists, it largely has not been invented yet! - Eds.)
 
 %%^Campaign:none%%
 
 The canonical details of the so-called Shadowfolds (name is tentative) are a little murky, but a few things are clear:
 - The vibe is much more Ravenloft and Domains of Dread than the Shadowfell as canonically described in D&D. 
 - The idea is that, like the Feywild, there are individual "domains of dread" that have different characteristics, depending on the dread lord that rules the domain. 
-- Unlike the Feywild, the domains of dread are not a continuous plane. While some domains may be connected to each other in various strange ways, typically one cannot simply "walk across the Shadowfolds". Where one domain ends, there is some kind of a barrier - could be the 'mists of Ravenloft' type thing (this is what I used for [[Morkalan]]), but anything is possible. Some domains may just loop on themselves as small globes; others may end in dense forests with twisting paths that cannot be navigated, or even massive walls or cliffs. 
+- Unlike the Feywild, the domains of dread are not a continuous plane. While some domains may be connected to each other in various strange ways, typically one cannot simply "walk across the Shadowfolds". Where one domain ends, there is some kind of a barrier - could be the 'mists of Ravenloft' type thing (this is what I used for [[Morkalan]]), but anything is possible. Some domains may just loop on themselves as small globes; others may end in dense forests with twisting paths that cannot be navigated, massive walls or cliffs, or just some mystical/strange way that the more you walk the less progress you make and the horizon gets no closer. 
 - Domains of dread are explicitly temporary. Unlike the Feywild, a Shadowfold domain cannot typically survive the death of its dread lord. Killing a dread lord should never be an easy thing - and some dread lords may be powerful enough to be more or less immortal - but in some fundamental sense a domain *is* a dread lord. 
 
 There are also some properties of the one invented domain of dread ([[Morkalan]]) that could be general, or could be unique to that domain:

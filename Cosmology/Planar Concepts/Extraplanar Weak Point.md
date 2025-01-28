@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
 tags: [background]
-dm_owner: tim
-dm_notes: important
+dm_owner: none
+dm_notes: none
 ---
 # Extraplanar Weak Point
+
+
 
 Scattered across the material plane are points where other planes drift close in extraplanar space, creating a location where extraplanar energy leaks across planar boundaries. 
 

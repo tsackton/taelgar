@@ -76,8 +76,6 @@ No discussion of the Feywild would be complete without a mention of the endless 
 
 ## DM Notes
 
-This is the unedited (except to remove duplication text) dm notes.
-	
 Major discussions include:
 - [[Discord Chat - Fey Realms]]
 - [[Discord Chat - Fey Gates]]
@@ -93,7 +91,6 @@ Some relevant sources:
 - [[On the Creation and Destruction of Extra-Material Realms]]
 - [[Letter from the Oracle of the Red to the Mostreve Warlocks]]
 - [[Playing a Fey]]
-
 ### Geography
 
 The Feywild is a place of strange magic and deep emotion. Some basic facts of the layout and workings of the plane are detailed here:
