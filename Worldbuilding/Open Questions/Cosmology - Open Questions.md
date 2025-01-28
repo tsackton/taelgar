@@ -16,11 +16,11 @@ However, this raises a number of open questions:
 
 %% Mike - adding some thoughts %%
 ##### Divine Power in Taelgar - Discussion
-First thought: the rules of D&D, and in particular the classification of magic into divine/primal/arcane, should only drive the world building so far. Perhaps if we were building a Taelgar RPG, the differences between different types of magic would be encoded in the rules, but I'm not sure the fact that a fey cleric exists needs to imply that the fey can access the [[plane of creation]] at all. 
+First thought: the rules of D&D, and in particular the classification of magic into divine/primal/arcane, should only drive the world building so far. Perhaps if we were building a Taelgar RPG, the differences between different types of magic would be encoded in the rules, but I'm not sure the fact that a fey cleric exists needs to imply that the fey can access the [[Plane of Creation]] at all. 
 
 Second thought: Yendalism seems more right to me than "only those on the material plane have souls".
 
-Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[plane of creation]] via the [[Dreamworld]]? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
+Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[Plane of Creation]] via the [[Dreamworld]]? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
 
 Some discussion:
 - [[Discord Chat - Divine Power in Taelgar]]

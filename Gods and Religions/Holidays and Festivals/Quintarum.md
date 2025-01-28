@@ -4,7 +4,7 @@ dm_owner: none
 dm_notes: none
 ---
 
-%%the pared with [[Viatela]]  "leave taking" holiday on Jan 22, six weeks after Vitalae.
+%%the pared wit[](Viatela.md)]]  "leave taking" holiday on Jan 22, six weeks after Vitalae.
 
 Was mentioned in my game so should be considered canonical but party was too busy adventuring to celebration so no real details made up 
 

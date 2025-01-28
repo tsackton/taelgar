@@ -23,7 +23,7 @@ This was written in high school but remains a fairly accurate conception: The Dr
 Beyond this basic framework, the Dreamworld is intentionally left somewhat undefined, and can vary from group to group and experience to experience, so any kind of invention about a specific journey to the Dreamworld is likely consistent with metaphysics. Often, play experiences in the Dreamworld work best away from standard game mechanics (e.g., travel to the Dreamworld in Hralgar's Palace ([[Session 73 (DuFr)]]) involved a story-based challenge mechanic).
 
 There are a few, limited canoical points to keep in mind when designing Dreamworld experiences in play:
-- You can enter the dreamworld directly, through some kind of portal or magic, but also by passing through the [[plane of souls]] (which is mechanically essentially astral projection) - this is how for example Candrosa's Dream Staff worked
+- You can enter the dreamworld directly, through some kind of portal or magic, but also by passing through the [[Plane of Souls]] (which is mechanically essentially astral projection) - this is how for example Candrosa's Dream Staff worked
 - The Dreamworld is supposed to be somewhat unstuck in time, and also controllable by the strong-willed. So, for example, this is how Hralgar make a "dreamworld palace" that looked like his old home but was not actually. Or how e.g. Kenzo and Rai could meet and speak in dreams. Or how time travel happened in the high school campaign. 
 
 Some discussion:

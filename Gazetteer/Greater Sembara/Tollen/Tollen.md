@@ -134,7 +134,7 @@ Tollen is a city of guilds: the various trade associations, craft guilds, and pr
 - [[Ancient and Honorable Guild of Philosophers]]
 ## Landmarks
 
-Tollen has many notable landmarks. The most famous is the Tollen Bridge, a vast span across the wide [[Volta]] that dates to the days of the [[Drankorian Empire]], now lined with prestigious shops. There are also many temples, particularly the Temple of [[the Wanderer]], with its massive spire, and the Temple of the [[The Sibyl|Sibyl]], with its colorful dome, and the Skaer [[Temple of Kaikkea]], one of the oldest buildings in Tollen. 
+Tollen has many notable landmarks. The most famous is the Tollen Bridge, a vast span across the wide [[Volta]] that dates to the days of the [[Drankorian Empire]], now lined with prestigious shops. There are also many temples, particularly the Temple of [[The Wanderer]], with its massive spire, and the Temple of the [[The Sibyl|Sibyl]], with its colorful dome, and the Skaer [[Temple of Kaikkea]], one of the oldest buildings in Tollen. 
 
 The guildhalls of Tollen are also notable, with several richer guilds constructing substantial palaces in the [[Gold Street]] and [[Guildgate]] districts, which are noted for their impressive architecture. 
 

@@ -279,7 +279,7 @@ The party engages in an intense and chaotic battle with Ra'ghemdros, an ancient 
 (begin: after a long rest, the next morning, May 20th in Taelgar)
 - talk to revaka; fairly useless, some argument about souls
 - debate how to approach Ra’ghemdros and get the jade
-- decide to offer trade, Kenzo pretending to have scouted Apollyon’s Tower and offer to teleport there and bring her treasure, and also insisting he has to meet outside lair because his magic won’t work if he leaves the [[material plane]]
+- decide to offer trade, Kenzo pretending to have scouted Apollyon’s Tower and offer to teleport there and bring her treasure, and also insisting he has to meet outside lair because his magic won’t work if he leaves the [[Material Plane]]
 - talk to Ghesh around 11 am to set up a meeting
 - ordered to attend an audience with Ra’ghemdros; dragonet escort arrives; Kenzo jogs while rest of party remains in animal forms
 - reach Ra’ghemdros around 2 pm for audience

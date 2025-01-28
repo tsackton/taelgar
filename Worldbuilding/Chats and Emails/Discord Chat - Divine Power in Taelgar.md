@@ -27,15 +27,15 @@ i kind of like the vibe that none of the speculation about the plane of souls in
 Deciusmus — Today at 8:02 PM
 I also like the vibe that none of them are precisely correct
 I also like the idea of preserving unique possibilities and contingencies rather than having a complete typology or everything is exactly in a neat box
-But one question that seems relevant - did the riving create the plane of souls and the [[land of the dead]]? What was cosmology like before the riving?
+But one question that seems relevant - did the riving create the plane of souls and the [[Land of the Dead]]? What was cosmology like before the riving?
 rsulfuratus — Today at 8:05 PM
 it isn't clear to me at the moment
-the original concept of the riving pre-dates the invention of the [[plane of creation]] as a nexus for the Divine Presence
+the original concept of the riving pre-dates the invention of the [[Plane of Creation]] as a nexus for the Divine Presence
 so in that pre-[[Plane of Creation]] cosmology, the riving was effectively all the inner planes mixed together
 and dominated by arcane magical energy
-the riving creates the Firstborn, pulls apart the inner planes, but it was never really resolved how the [[land of the dead]] / plane of souls / spiritual realms come into existence
-i think i'm coming around to the idea that the plane of souls possibly always existed, and maybe the riving stretches the plane of souls into the astral plane and perhaps even creates the [[plane of creation]] as a home/embodiment of the divine presence, behind the wall of the [[land of the dead]]
-so that would imply the riving creates the [[land of the dead]], but not the plane of souls which predates it
+the riving creates the Firstborn, pulls apart the inner planes, but it was never really resolved how the [[Land of the Dead]] / plane of souls / spiritual realms come into existence
+i think i'm coming around to the idea that the plane of souls possibly always existed, and maybe the riving stretches the plane of souls into the astral plane and perhaps even creates the [[Plane of Creation]] as a home/embodiment of the divine presence, behind the wall of the [[Land of the Dead]]
+so that would imply the riving creates the [[Land of the Dead]], but not the plane of souls which predates it
 (more in a bit if you are around, have to get Nathaniel to finish his homework)
 Deciusmus — Today at 8:20 PM
 (Was cleaning but done)
@@ -44,7 +44,7 @@ I think the metaphysics might work better if we assume that at least the plane o
 Deciusmus — Today at 8:29 PM
 That sets up this idea that whatever creation process existed during the riving the great wyrms and whatnot existed on the plane of souls. How that fragmented during the riving is canonically unclear but ultimately it means a fundamental divide between children of the riving - who get soul stuff “directly” - and  after the riving - who get it from gods
 rsulfuratus — Today at 8:34 PM
-Yeah I think that makes sense. Want to let it sit a little but am going to update [[land of the dead]] tonight and will copy this discussion and update the open questions
+Yeah I think that makes sense. Want to let it sit a little but am going to update [[Land of the Dead]] tonight and will copy this discussion and update the open questions
 Deciusmus — Today at 8:36 PM
 There is a whole idea that could be explored about how the actual source of divine magic is soulstuff not anything else
 So the only creatures that don't have access to divine magic are those that do not have soulstuff

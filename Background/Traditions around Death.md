@@ -35,14 +35,14 @@ Initial notes from Tim:
 
 Worth also keeping in mind here that, at least in the early days, Drankorian culture is heavily influenced by elves/peronar. Later Drankor turns sharply away from the elves but when these traditions are being formed it is likely that the elven view of death would be significant. 
 
-I think that this could fit in with the idea of fading away -- elves probably see the journey through the [[land of the dead]] as something an elder consciously chooses it is time to do, and perhaps there is some sense in which elves retain a greater sense of self or even skills and powers of their material selves as they travel. But even so, the journey is dangerous. This could also subtly contribute to the Drankorian view of what is important to focus on: for elves who are ready to depart, the question of their soul entering the [[land of the dead]] is guaranteed. 
+I think that this could fit in with the idea of fading away -- elves probably see the journey through the [[Land of the Dead]] as something an elder consciously chooses it is time to do, and perhaps there is some sense in which elves retain a greater sense of self or even skills and powers of their material selves as they travel. But even so, the journey is dangerous. This could also subtly contribute to the Drankorian view of what is important to focus on: for elves who are ready to depart, the question of their soul entering the [[Land of the Dead]] is guaranteed. 
 
 Not sure what other influences might spread here but perhaps the farewells below are partially elvish in origin: when elders decide to depart it might be common to hold ceremonies such as this in elven culture after they have reached their final resting place. 
 %%
 
 ### Northern Traditions
 
-In general, the basic framework (as seen in the kestavo tradition) of of "small god guides soul through [[land of the dead]], which requires a body in order for the gods to find the soul" is probably broadly true among all the northern folk religions. However, the specific details will vary. The kestavo are very location-oriented, with each spirit having a home, whereas the Deno'qai are not. So although the tanshi would serve the same role in Deno'qai culture, with appropriate sacrifices replacing a location/place based framework. this might have some implications for recovery of lost bodies - for example the Deno'qai would see less of a problem with mass graves on a battlefield assuming appropriate sacrifices could attract the tanshi to the burial location. 
+In general, the basic framework (as seen in the kestavo tradition) of of "small god guides soul through [[Land of the Dead]], which requires a body in order for the gods to find the soul" is probably broadly true among all the northern folk religions. However, the specific details will vary. The kestavo are very location-oriented, with each spirit having a home, whereas the Deno'qai are not. So although the tanshi would serve the same role in Deno'qai culture, with appropriate sacrifices replacing a location/place based framework. this might have some implications for recovery of lost bodies - for example the Deno'qai would see less of a problem with mass graves on a battlefield assuming appropriate sacrifices could attract the tanshi to the burial location. 
 
 ### Chardon
 
