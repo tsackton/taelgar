@@ -19,6 +19,6 @@ Wahacha is one of several notable ports in the [[Vermillion Isles]], inhabited p
 ![[kenku-village-1.png]]
 *The red pillars of Wahacha are home to many [[Kenku]]*
 
-While nominally welcoming of outsiders, the [[Kenku]] of Wahacha do little to make their homes and villages accessible to those without wings, and most of the grounders, as they call the flightless people -- [[Humans]], mostly, but some [[halflings]] and others -- live in a few small clusters of buildings around the main harbor.
+While nominally welcoming of outsiders, the [[Kenku]] of Wahacha do little to make their homes and villages accessible to those without wings, and most of the grounders, as they call the flightless people -- [[Humans]], mostly, but some [[Halflings]] and others -- live in a few small clusters of buildings around the main harbor.
 
 Wahacha is primarily known for the chiles that grow in the sheltered valleys outside of town, which are dried and powdered to produce a spice highly valued across the [[Green Sea]]. 

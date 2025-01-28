@@ -27,8 +27,9 @@ Her husband enjoys discussing books and the moon with Izgil. She also was intere
 She has been a willing purchaser of luxury goods, and seemed especially pleased to help the [[Heroes of Cleenseau]] transform tapestries and other fine furniture into coinage to pay soldiers. 
 %%^End%%
 
-%% Roleplaying Notes:
+%%^Campaign:None%%
+#### Roleplaying Notes
 She is sharp, charming, and beautiful, and resents being dismissed as a trophy or pretty head, but also not afraid to use sexuality to get what she wants. She secretly wishes she had more opportunity to prove herself, and resents somewhat her growing family connections, but is too attached to wealth and prominence, and the ability to do what she wants, to truly set off on her own or do anything other than play her part.
 
 See the [[de Brunes]] page for more important context here.
-%%
+%%^End%%

@@ -1,9 +1,9 @@
 ---
-tags: [place, status/cleanup/incomplete, status/needswork/wip]
+tags: [place, status/needswork/wip]
 displayDefaults: {defArt: '' }
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
-dm_owner: joint
+dm_owner: none
 dm_notes: none
 ---
 # {Region Name}
