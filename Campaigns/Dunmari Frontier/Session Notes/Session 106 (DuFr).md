@@ -74,7 +74,7 @@ After defeating the corrupted vines, the party witnesses the Eldest tree awakeni
 - Delwath attempts to soothe the tree by telling calming stories, sharing tales of Kenzo's forest soul and the bats they met, slowly helping the tree relax.
 - The tree eventually calms, acknowledging the party's presence and expressing appreciation for their civility. It begins to show signs of recovering from the chaos that disrupted its connection to the jungle.
 - The party asks if the tree needs anything to restore the jungle, and the tree mentions that it simply needs time to recover. It also speaks of feeling its "siblings" in the distance, beginning to heal.
-- The party discusses the possible connection between the chaotic corruption and planar disturbances, suspecting a link to recent events involving [[pandemonium]] and the weakening of planar boundaries.
+- The party discusses the possible connection between the chaotic corruption and planar disturbances, suspecting a link to recent events involving [[Pandemonium]] and the weakening of planar boundaries.
 - The session ends with the party resting for the night, intending to ask the tree more questions in the morning after it has had more time to regain its strength.
 
 

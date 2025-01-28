@@ -41,7 +41,7 @@ you - as the spellcaster - aren't really doing anything, particularly, except op
 
 
 [3/21/2024 1:10 PM] rsulfuratus
-(this bit is pretty undeveloped but the basic idea is the [[land of the dead]] acts as kind of a barrier and gods cannot easily reach past it, but living souls allow them to "tunnel" in a way)
+(this bit is pretty undeveloped but the basic idea is the [[Land of the Dead]] acts as kind of a barrier and gods cannot easily reach past it, but living souls allow them to "tunnel" in a way)
 
 
 [3/21/2024 1:11 PM] rsulfuratus
@@ -95,7 +95,7 @@ yes - I like the "misty step is something you have to work at to learn to do" an
 
 
 [3/21/2024 1:23 PM] rsulfuratus
-I mean from a overarching point of view I think the key thing to decide is "what extraplanar energy are you manipulating" and "how are you doing it". with possible answers for the first one ranging from "plane of magic" to "feywild" to "[[plane of souls]] (this is probably psionics)" to "divine realms" and many things in between
+I mean from a overarching point of view I think the key thing to decide is "what extraplanar energy are you manipulating" and "how are you doing it". with possible answers for the first one ranging from "plane of magic" to "feywild" to "[[Plane of Souls]] (this is probably psionics)" to "divine realms" and many things in between
 
 
 [3/21/2024 1:23 PM] rsulfuratus
