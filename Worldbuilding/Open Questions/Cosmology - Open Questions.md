@@ -16,11 +16,11 @@ However, this raises a number of open questions:
 
 %% Mike - adding some thoughts %%
 ##### Divine Power in Taelgar - Discussion
-First thought: the rules of D&D, and in particular the classification of magic into divine/primal/arcane, should only drive the world building so far. Perhaps if we were building a Taelgar RPG, the differences between different types of magic would be encoded in the rules, but I'm not sure the fact that a fey cleric exists needs to imply that the fey can access the [[plane of creation]] at all. 
+First thought: the rules of D&D, and in particular the classification of magic into divine/primal/arcane, should only drive the world building so far. Perhaps if we were building a Taelgar RPG, the differences between different types of magic would be encoded in the rules, but I'm not sure the fact that a fey cleric exists needs to imply that the fey can access the [[Plane of Creation]] at all. 
 
 Second thought: Yendalism seems more right to me than "only those on the material plane have souls".
 
-Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[plane of creation]] via the [[Dreamworld]]? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
+Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[Plane of Creation]] via the [[Dreamworld]]? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
 
 Some discussion:
 - [[Discord Chat - Divine Power in Taelgar]]
@@ -30,7 +30,7 @@ Some discussion:
 
 The details of the Spiritual Realms are hard to flesh out without a better sense of the kinds of Spiritual Realms, and how they are understood in-world. Minimally, there needs to be three distinct varieties of Spiritual Realms:
 - The homes of the Embodied Gods, of which the [[Heart of the Mountain]] is the only one with any lore development. So far, the default assumption is that each embodied pantheon has one plane, but this need not be definitive. 
-- The homes of the Incorporeal Gods; none are particularly well developed, except [[Shakun's Realm]] which is potentially a special case. I suspect the model of one plane per pantheon, in general, is probably right, although e.g. the Dunmari Five Siblings must have at least two (Shakun's Realm and [[Arkaash]], the latter of which so far exists only as a name).
+- The homes of the Incorporeal Gods; none are particularly well developed, except [[Shakun's Realm]] which is potentially a special case. I suspect the model of one plane per pantheon, in general, is probably right, although e.g. the Dunmari Five Siblings must have at least two ([[Shakun's Realm]] and [[Arkaash]], the latter of which so far exists only as a name).
 - The various "traditional Outer Planes" that exist in Taelgar: [[Arborea]], [[Pandemonium]], [[Limbo]], the [[Abyss]], and the [[Nine Hells]] at least definitively exist, and I think at least something like a Plane of Order (Mechanus) and a Prison Plane (Caceri) probably exist. But otherwise little is canon here. 
 
 My sense is that it is easiest to travel to the "traditional Outer Planes", then the homes of the Embodied Gods, and last/most difficult the homes of the Incorporeal Gods (which might not really have a real physical existence in most cases, and might function more like simply the body of the Divine or something). 
@@ -53,7 +53,7 @@ working on spiritual realms, now, and i'm actually not sure whether incorporeal 
 - the fact that we've never really had any lore about human "heavens" despite there being a lot of lore about non-human heavens
 - the actual metaphysical distinction between incorporal and embodied gods
 
-the only thing that has ever been made up and canonically exists that is associated with a human god is Shakun's Realm, and that is a distinctly unusual place. it is not a place where human souls go in the afterlife, it is basically a trap for the enemies of Dunmar. so it could easily be an echo realm or a demiplane or whatever, much more like Cha'mutte's shadow realms than an Outer Plane.
+the only thing that has ever been made up and canonically exists that is associated with a human god is [[Shakun's Realm]], and that is a distinctly unusual place. it is not a place where human souls go in the afterlife, it is basically a trap for the enemies of Dunmar. so it could easily be an echo realm or a demiplane or whatever, much more like Cha'mutte's shadow realms than an Outer Plane.
 
 This line of thought continues here: [[Discord Chat - Homes of Incorporeal Gods]]
 

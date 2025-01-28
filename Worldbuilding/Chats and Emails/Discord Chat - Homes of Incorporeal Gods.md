@@ -7,7 +7,7 @@ this might actually simplify some things:
 where the souls of people who worship tanshi or kestavo go
 the fact that we've never really had any lore about human "heavens" despite there being a lot of lore about non-human heavens
 the actual metaphysical distinction between incorporal and embodied gods
-the only thing that has ever been made up and canonically exists that is associated with a human god is Shakun's Realm, and that is a distinctly unusual place. it is not a place where human souls go in the afterlife, it is basically a trap for the enemies of Dunmar. so it could easily be an echo realm or a demiplane or whatever, much more like Cha'mutte's shadow realms than an Outer Plane.
+the only thing that has ever been made up and canonically exists that is associated with a human god is [[Shakun's Realm]], and that is a distinctly unusual place. it is not a place where human souls go in the afterlife, it is basically a trap for the enemies of Dunmar. so it could easily be an echo realm or a demiplane or whatever, much more like Cha'mutte's shadow realms than an Outer Plane.
 Deciusmus — Today at 8:17 PM
 Hrm…
 rsulfuratus — Today at 8:18 PM

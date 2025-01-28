@@ -17,7 +17,7 @@ dm_owner: mike
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small hamlet in the [[Cleenseau Region]] on the edge of the [[Cleenseau Wood]], a mile and a half north of [[Cleenseau]] along a dirt track. The small hamlet is mostly woodcutters, charcoal makers, and pig farmers and is part of the manor of the Lord of Cleenseau. It consists of about a ten buildings, only one of which is notable: a large, two story stone building with three large oak trees carved on the lintel, the home to [[Perrin Voclain]].  It is said this was once holy to a *[[kestavo]]* of the wood, who has long since departed.
+A small hamlet in the [[Cleenseau Region]] on the edge of the [[Cleenseau Wood]], a mile and a half north of [[Cleenseau]] along a dirt track. The small hamlet is mostly woodcutters, charcoal makers, and pig farmers and is part of the manor of the Lord of Cleenseau. It consists of about a ten buildings, only one of which is notable: a large, two story stone building with three large oak trees carved on the lintel, the home to [[Perrin Voclain]].  It is said this was once holy to a *[[Kestavo]]* of the wood, who has long since departed.
 
 There is a small shrine to the Wildling attached to Perrin's house, with several ancient oak trees, which mostly serves as a burial plot for the hamlet. Perrin tends to this shrine.
 
