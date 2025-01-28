@@ -1,5 +1,6 @@
 ---
 tags: [background, status/stub]
+excludePublish: ["all"]
 dm_owner: tim
 dm_notes: none
 ---
