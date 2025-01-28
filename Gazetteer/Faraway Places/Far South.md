@@ -51,5 +51,5 @@ Nothing is known of the history of this region. Any people who live here are lik
 
 *Adventures:* The Kenzo solo arc from the Dunmar Frontier campaign was set in western Orekatu and the [[Azta Lekua|Footprint of the Gods]] immediately to the west of [[Orekatu]], but otherwise this region has seen no play time. 
 
-*Important Places in Staging:* None. 
+*Important Places in Staging:* None are critical but the [[~Great Desert~]] could use a name (even if that is just "the Great Eastern Desert" or similar). 
 %%^End%%

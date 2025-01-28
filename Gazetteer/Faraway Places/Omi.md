@@ -1,12 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [status/stub, place]
+tags: [place]
 dm_notes: important
 dm_owner: tim
 whereabouts: Endless Ocean
 typeOf: settlement
+subTypeOf: underwater
 ancestry: merfolk
-typeOfAlias: underwater city
+typeOfAlias: city
 ---
 # Omi
 >[!info]+ Information  
