@@ -30,7 +30,7 @@ Elves in Taelgar typical have just a given name, using their ka, their homeland
 **Size:** Medium (about 5–6 feet tall)  
 **Speed:** 30 feet  
 **Age**: Elves do not die of old age, but during each cycle of the _ka_, the pull of the material world weakens for them. Few elves remain on Taelgar beyond their fifth _ka_ (approximately 800 years).  
-**Languages:** The long lifespan of elves means they typically learn many more languages than usual. You may select six [[languages]] during character creation. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
+**Languages:** The long lifespan of elves means they typically learn many more languages than usual. You may select six [[Languages]] during character creation. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 
 ## Elf Traits
 

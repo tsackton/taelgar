@@ -1,6 +1,5 @@
 ---
 tags: [species]
-partOf: Children of Belief
 dm_notes: important
 dm_owner: tim
 ---

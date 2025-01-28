@@ -10,8 +10,6 @@ dm_notes: none
 
 %% TO DO %%
 
-This page contains lore information about dwarves. For details on character creation and playing a dwarf, see [[Playing a Dwarf]].
-
 %% some useful non-mechanical notes in the link above that could be expanded on here, potentially %%
 
 ![[dwarven-hall-of-gems.png]]
