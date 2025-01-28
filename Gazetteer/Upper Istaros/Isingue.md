@@ -10,8 +10,8 @@ ancestry: Isinguer
 affiliations: 
 - { org: ruined, type: primary, start: 1545}
 whereabouts:
-- {type: region, location: Istabor Alliance}
-- {type: region, start: 1545, location: Plaguelands}
+- {type: home, location: Istabor Alliance}
+- {type: home, start: 1545, location: Plaguelands}
 dm_notes: important
 dm_owner: tim
 ---

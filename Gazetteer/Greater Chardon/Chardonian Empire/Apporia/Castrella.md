@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-whereabouts: Cedrano
+whereabouts: 
+- {type: primary, location: Cedrano }
+- {type: secondary, location: Apporia }
 typeOf: city
 pronunciation: kah-STREL-ah
 dm_owner: tim
 dm_notes: important
 ---
 # Castrella
-*(kah-STREL-ah))*
+*(kah-STREL-ah)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`

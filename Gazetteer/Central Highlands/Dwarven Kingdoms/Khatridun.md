@@ -4,7 +4,9 @@ tags: [place]
 name: Khatridun
 typeOf: realm
 ancestry: dwarven
-whereabouts: Labkhan
+whereabouts: 
+- {type: primary, location: Labkhan }
+- {type: secondary, location: Central Highlands }
 dm_owner: none
 dm_notes: color
 ---

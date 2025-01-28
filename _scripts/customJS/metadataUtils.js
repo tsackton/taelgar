@@ -1,6 +1,6 @@
 class util {
 
-    #isInLocation(startingLocation, targetLocation, targetDate, followHome) {
+    #isInLocation(startingLocation, targetLocation, targetDate) {
 
         // this takes a note and a target location
         // and returns true if the note is in the starting location
@@ -25,20 +25,19 @@ class util {
         // we have a single string
         let file = NameManager.getFileForTarget(startingLocation)
         if (file) {
-
-            let nextLvlSrc = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate)
-            let nextLvl = nextLvlSrc.current.location
-
-            if (followHome)
-            {
-                nextLvl = nextLvlSrc.home.location
-            }          
-
+            let nextLvl = WhereaboutsManager.getWhereabouts(file.frontmatter, targetDate)
+        
             if (nextLvl) {
-                return this.#isInLocation(nextLvl, targetLocation, targetDate, followHome)
-            }
 
-            return false;
+                // first, check to see if we are in the primary
+                if (nextLvl.current.location && this.#isInLocation(nextLvl.current.location, targetLocation, targetDate)) {
+                    return true
+                }
+
+                if (nextLvl.secondary.location && this.#isInLocation(nextLvl.secondary.location, targetLocation, targetDate)) {
+                    return true
+                }
+            }
         }
 
         return false
@@ -151,11 +150,11 @@ class util {
         let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
         if (!wb.current.location) {
 
-            if (!wb.lastKnown.location || !includeLastKnown) return false;
-            return this.#isInLocation(wb.lastKnown.location, targetLocation, targetDate)
+            if (!wb.lastKnown.location || !includeLastKnown) return this.#isInLocation(wb.secondary.location, targetLocation, targetDate);
+            return this.#isInLocation(wb.lastKnown.location, targetLocation, targetDate) || this.#isInLocation(wb.secondary.location, targetLocation, targetDate);
         }
 
-        return this.#isInLocation(wb.current.location, targetLocation, targetDate)
+        return this.#isInLocation(wb.current.location, targetLocation, targetDate) || this.#isInLocation(wb.secondary.location, targetLocation, targetDate);
     }
 
     inOrHomeLocation(targetLocation, metadata, includeDead, targetDate) {
@@ -173,50 +172,6 @@ class util {
         return file != undefined
     }
 
-    inPolity(targetLocation, metadata, targetDate) {
-        const { WhereaboutsManager } = customJS
-        const { DateManager } = customJS
-
-        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
-
-        let pageDates = DateManager.getPageDates(metadata, targetDate)
-
-        if (pageDates) {
-            if (!pageDates.isCreated) return false
-            if (!pageDates.isAlive) return false
-        }
-
-
-        let wb = WhereaboutsManager.getWhereabouts(metadata, targetDate)
-        if (!wb.current.location) {
-
-           return false;
-        }
-
-        return this.#isInLocation(wb.current.location, targetLocation, targetDate, false)
-    }
-
-
-    inRegion(targetLocation, metadata, targetDate) {
-        const { WhereaboutsManager } = customJS
-        const { DateManager } = customJS
-
-        if (targetDate) targetDate = DateManager.normalizeDate(targetDate)
-
-        let pageDates = DateManager.getPageDates(metadata, targetDate)
-
-        if (pageDates) {
-            if (!pageDates.isCreated) return false
-            if (!pageDates.isAlive) return false
-        }
-
-
-        let home = WhereaboutsManager.getWhereabouts(metadata, targetDate).home;
-        if (home == undefined) return false;
-        if (home.location == undefined) return false;
-
-        return this.#isInLocation(home.location, targetLocation, targetDate, true)
-    }
 
     homeLocation(targetLocation, metadata, includeDead, targetDate) {
 

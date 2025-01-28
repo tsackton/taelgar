@@ -6,8 +6,8 @@ name: Voltara
 typeOf: settlement
 typeOfAlias: city
 whereabouts: 
-- {type: region, location: Northwest Coast }
-- {type: polity, location: Chardonian Empire }
+- {type: primary, location: Chardonian Empire }
+- {type: secondary, location: Northwest Coast }
 dm_notes: important
 dm_owner: tim
 ---

@@ -2,7 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: city
-whereabouts: Portalia
+whereabouts: 
+- {type: secondary, location: Apporia }
+- {type: primary, location: Portalia }
 population: 5300
 pronunciation: NEH-vee-oom
 dm_owner: tim

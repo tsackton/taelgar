@@ -3,8 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Yemo'te
 typeOf: river
-whereabouts: 
-- {type: region, location: Forest of Nightmares }
+whereabouts: Forest of Nightmares
 pronunciation: yeh-moh-TEH
 dm_owner: none
 ---

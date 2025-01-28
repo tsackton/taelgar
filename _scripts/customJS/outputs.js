@@ -351,7 +351,7 @@ class OutputHandler {
 
     outputWhereabouts(fileName, metadata) {
         let vals = this.getWhereaboutsStrings(fileName, metadata)
-        let displayString = `${vals.origin}${vals.home}${vals.current}${vals.lastKnown}\n`
+        let displayString = `${vals.origin}${vals.home}${vals.current}${vals.lastKnown}${vals.secondary}\n`
 
         return displayString.replace(/\n\n+/g, "\n");
     }
@@ -461,6 +461,12 @@ class OutputHandler {
             // display last known if current is unknown and last known is known, as long as it isn't the same as home //        
             // note it is not clear last known can ever be same as home but this is added to just double-confirm we don't show 2x of the same thing //
             strVals.lastKnown = knownString + "\n"
+        }
+
+        if (whereabout.secondary.location) {
+            strVals.secondary = TokenParser.formatDisplayString(whereabout.secondary.secondaryFormat ?? displayDefaults.wSecondary, file, pageData)
+        } else {
+            strVals.secondary = ""
         }
 
         // remove extra newlines //

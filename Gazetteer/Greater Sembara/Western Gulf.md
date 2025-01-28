@@ -3,10 +3,7 @@ headerVersion: 2023.11.25
 tags: [place, status/check/tim]
 name: Western Gulf
 typeOf: gulf
-displayDefaults: {  wCurrent: "Controlled by <current:1>" }
-whereabouts: 
-- {type: region, location: Green Sea }
-- {type: polity, location: Tollen, start: 1700, end: 9999 }
+whereabouts: Green Sea
 dm_owner: none
 dm_notes: important
 ---

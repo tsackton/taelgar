@@ -229,7 +229,7 @@ class TokenParser {
         return NameManager.formatName(value, token.format)
     }
 
-    #getWhereaboutChain(whereabout, targetDate, filter, sourcePageType, followHome) {
+    #getWhereaboutChain(whereabout, targetDate, filter, sourcePageType) {
 
         const { WhereaboutsManager } = customJS
 
@@ -241,7 +241,7 @@ class TokenParser {
             followDate = whereabout.awayEnd
         }
 
-        return WhereaboutsManager.getWhereaboutChain(whereabout, followDate, whereabout.startFilter ?? filter, sourcePageType, followHome ?? false)
+        return WhereaboutsManager.getWhereaboutChain(whereabout, followDate, whereabout.startFilter ?? filter, sourcePageType)
     }
 
     #getFormattedList(value, token, targetDate, joinChar, lastJoinChar) {
@@ -458,12 +458,16 @@ class TokenParser {
                 formatter = "whereabout-list"
                 break
             case "home":
-                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).home, targetDate, token.filter, sourcePageType, true)
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).home, targetDate, token.filter, sourcePageType)
                 formatter = "whereabout-list"
                 break      
             case "origin":
                 targetDate = pageDateInfo.startDate ?? DateManager.normalizeDate("0001")
-                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).origin, targetDate, token.filter, sourcePageType, true)
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).origin, targetDate, token.filter, sourcePageType)
+                formatter = "whereabout-list"
+                break
+            case "secondary":
+                value = this.#getWhereaboutChain(WhereaboutsManager.getWhereabouts(metadata, targetDate).secondary, targetDate, token.filter, sourcePageType)
                 formatter = "whereabout-list"
                 break
             // end whereabout options //

@@ -2,7 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: province
-whereabouts: Chardonian Empire
+whereabouts: 
+- {type: primary, location: Chardonian Empire }
+- {type: secondary, location: Apporia }
 dm_owner: tim
 dm_notes: important
 ---
