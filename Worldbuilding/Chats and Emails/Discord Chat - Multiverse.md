@@ -10,7 +10,7 @@ echo realms make total sense as well, although the shadowfell might need a littl
 
 however i'm increasingly feeling like the outer planes don't really work. there are canonically as many as perhaps four categories of "outer planes":
 (1) the realms of the embodied gods, of which the dwarven Heart of the Mountain is the most well established
-(2) the realms of incorporeal gods, of which Shakun's realm is the clearest, but which also canonically are not always a separate realm for each deity, e.g. Arkaash is supposed to be the realm of the Dunmari Pantehon
+(2) the realms of incorporeal gods, of which [[Shakun's Realm]] is the clearest, but which also canonically are not always a separate realm for each deity, e.g. Arkaash is supposed to be the realm of the Dunmari Pantehon
 (3) what I've called the "primal realms": Arborea, the Abyss, Pandemonium, others. These are explicity not associated with deities, or at least not with the Divine Presence (but e.g. Pandemonium might be associated with Jinnik)
 (4) the [[Dreamworld]], the Land of the Dead, the [[Plane of Souls]] don't fit obviously into this, although it is canonically established that you can reach the [[Dreamworld]] via the [[Plane of Souls]], and the Land of the Dead is a "dividing line" somehow for divine power
 (5) the Astral Plane, which might not even exist? Or might be connected to the [[Plane of Souls]] and/or the Dreamworld
