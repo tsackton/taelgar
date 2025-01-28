@@ -1,8 +1,10 @@
 ---
-tags: [species]
+tags: [species, status/check/tim]
 dm_notes: important
 dm_owner: tim
 ---
+
+%% does this page add value? should we just delete it? if not, does it need cleanup in light of cosmology %%
 
 Natives of the Outer Realms, often called the Children of Creation or Children of Belief are the native inhabitants of the Spiritual Realms.
 

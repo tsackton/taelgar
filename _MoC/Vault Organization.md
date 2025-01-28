@@ -26,10 +26,12 @@ Messy directories have no clear meaning or consistent organization, and often op
 ### Finished Directories
 
 **Cosmology**: This directory contains **in-world** pages about the planes and related concepts. Could be published as is, or selectively, or not at all, as desired. 
+**Species**: This directory contains **in-world**, **character-facing**, **player-facing**, and **meta** pages about the species of Taelgar. Player-facing pages should be kept in the Species\Mechanics folder, as should any "rules-heavy" meta pages.
 **Worldbuilding**: This directory contains world building information of various kinds, including brainstorming and undeveloped ideas. See [[Purpose of Worldbuilding]] for more. Note that subdirectories are controlled here as well. 
 ### Clean Directories
 
 These are directories that are well-organized and have a clear, consistent meaning and organization. This does not guarantee the directory itself fully meets these guidelines. Note may have minor open questions. 
+
 
 **Background**
 - *Proposed Content*: Generally should contain **meta** pages almost exclusively. Not intended to be published, but rather intended to be a place to store canonical information that informs worldbuliding but is not directly player-facing. 
@@ -43,10 +45,6 @@ These are directories that are well-organized and have a clear, consistent meani
 - *Proposed Content*: All variety of pages associated with gods or religion, though should presumably primarily contain **in-world** or **character-facing** pages, with perhaps some **meta** pages as needed. 
 - *To Do:* Currently a raw dump of the old Festivals and Holidays, Gods, and Religion directories. Needs to be reorganized sensibly.
 
-**Species**
-- *Proposed Content*: All variety of pages associated with species or types of creatures. May include a variety of **in-world**, **character-facing**, **player-facing**, and **meta** pages. 
-- *Open Questions:* Should the species parts of Campaigns/Mechanics go here? Do languages belong here or in background? Does [[Creating New Species]] belong in Background or here?
-- *To Do:* Probably needs a quick check and possibly some minor reorganization away from the current "Children of X" style. 
 
 ### Messy Directories
 
@@ -59,5 +57,9 @@ These directories do not have a consistent organization and often have open ques
 **People**
 **Primary Sources**
 **Things**
+
+
+### Open Questions
+* Where do larger pages about culture of species go, i.e. [[People of the Rainbow]], [[Dwarven Kingdoms]], or [[Story About Halfling Merchants]]
 
 

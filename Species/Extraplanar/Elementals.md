@@ -1,5 +1,5 @@
 ---
-tags: [species, status/stub]
+tags: [species, status/needswork/wip]
 aliases: [elemental, elementals, Elemental]
 dm_notes: important
 dm_owner: tim

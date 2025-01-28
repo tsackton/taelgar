@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 typeOf: celestial
 tags: [species]
-partOf: Children of Belief
 pronunciation: gih-DAR-ee
 dm_owner: tim
 dm_notes: important

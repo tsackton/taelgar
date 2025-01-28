@@ -5,6 +5,7 @@ tags: [background, status/needswork/old]
 dm_owner: shared
 dm_notes: important
 ---
+%% Character facing %%
 # Species in Taelgar
 
 %% this needs to be updated per revised [[Creating New Species]] document and updated metaphysics %%

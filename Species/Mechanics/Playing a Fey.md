@@ -59,4 +59,4 @@ No matter which traits you choose to use to represent your Fey character, all Fe
 
 # Languages
 
-When you create your character, you may choose two [[languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Sylvan. 
+When you create your character, you may choose two [[Languages]] in addition to those granted by other sources. One of these will usually be Common, also known as Westros, a widespread trade tongue in the western part of Taelgar. The other will usually be Sylvan. 
