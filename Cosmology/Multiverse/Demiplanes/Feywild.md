@@ -37,21 +37,32 @@ Where bargains made demand the price be paid.
 ## Travel in the Feywild
 
 The Feywild is a place of contradictions, where even the most basic truths seem malleable. While many accounts agree that its geography loosely mirrors the [[Material Plane]]—mountains reflecting mountains, rivers matching rivers—there are just as many tales of travelers finding verdant forests where deserts should be or endless fields of flowers in the midst of barren plains. The elven poet [[~Ancient Elven Poet~]] wrote that "the Feywild shapes itself to memory and dream, not to logic or law," and some travelers have speculated that geography in the Feywild may, at times, reflect what once was, or even what will be, on the [[Material Plane]], not what is now. 
+### Time and Space
 
-No one who has ventured to the Feywild could fail to notice that time does not move as it does on the Material Plane. The sun does not cross the sky: instead, the time of day seems to be associated instead with location. Numerous Tyrwinghan poems describe the perpetual twilight of the court of the [[Archfey Ethlenn]], where the sun has forever just set. Indeed, the [[~Orelans Elvish Poet~]] wrote, of the sunset in the Feywild, describing a physical structure of the sunset made solid: 
+No one who has ventured to the Feywild could fail to notice that time does not move as it does on the Material Plane. The sun does not cross the sky: instead, the time of day seems to be associated with location. Numerous Tyrwinghan poems and legends describe the perpetual twilight of the court of the [[Archfey Ethlenn]], where the sun has forever just set. Even stranger is the physical structure of the sunset made solid, on the western edge of the Green Sea, as described by [[~Orelans Elvish Poet~]] of [[Orenlas]]:
 
-Amber strokes alight,  
-on sunset's blazing crystals—  
-colors breathing life.
-Yet hidden cracks bend time's path,  
-revealing peril and grace.
+*Amber strokes alight,*  
+*on sunset's blazing crystals—*  
+*colors breathing life.*
+*Yet hidden cracks bend time's path,*  
+*to where all moments lose their grasp.*
 
-Far to the west, it is said the light of perpetual dawn shines over the with the bright and hopeful hues of morning; to the east, it deepens into eternal sunset, a liminal twilight that never fades. Travelers often speak of losing their sense of time altogether, with days passing in what feels like moments or weeks shrinking into hours.
+West of the [[Sunset Gate]], the sky gets brighter and brighter, until as some point one must reach the light of perpetual dawn, while east of the [[Sunset Gate]], the light dims past twilight to the darkest midnight. 
 
-Similarly, the unchanging sun is said to hang fixed in the sky, but its light shifts with the journey: westward paths lead to eternal dawn, and eastward to unbroken night. Yet, in the Drankorian epic _[[A Court of Whispers]]_, the explorer Kalen Merewind describes an impossible journey into the far north, where "the sun dimmed to a pale gray ghost, and the world was neither day nor night but something stranger still."
+Many stories tell of the disorientation that the confounding of time and space causes. Some tales speak travelers losing their sense of time altogether, with days passing in what feels like moments or weeks shrinking into hours. A typical example comes from the tragedy [[A Court of Whispers]], which tells the tale of Avim of Cedrano, who found himself in a strange fey court, lit by the warm afternoon sun, full of games of chance and rare delicacies. Thinking to spend only a few moments sampling the pleasures, Avim leaves after an afternoon of games, only to find that ten years have passed in Cedrano. In contrast, the letters of [[Saria]], conjurer of [[Cymea]], speak of a year of study in the Feywild that seemed to last only an evening, for when she returned the sun had not yet risen on the night of her departure. 
 
-No two tales of time in the Feywild align. The [[Scholar-Captain Marlon Valtris]] claimed that a single meal in the domain of the Seelie Court aged his crew by a decade, while [[Saria Marveil]], a conjurer of the [[University of Chardon]], wrote that a year in the Feywild passed like an hour upon their return. [[Gorath Stonesinger]], a dwarven geomancer, argued that the Feywild does not distort time but reflects the emotions of its travelers: "The heart marks the days in that place, not the sun." The rules of the Feywild remain a tantalizing puzzle—its mysteries both enchanting and disorienting to those who dare to explore them.
+While endless scholarly words have been written dissecting these tales, and the strange fact that dawn in the Feywild is in the direction of sunset in the Material Plane, perhaps the best advice for travelers remains the Tyrwinghan proverb: "Where the sun stands still, the hours are fickle friends—take no second for granted, nor any year for lost."
+### Portals to the Feywild
 
+Of all the planes, it is undeniable that the Feywild is the easiest for a traveler from the [[Material Plane]] to reach. In some places, the walls between the worlds are so thin that hapless travelers may find themselves carelessly wandering into the Feywild; often such places are marked with warnings to the unwary. Elsewhere, gates between the Feywild and the Material Plane are marked by unusual geography or incongruous features, and often only open at specific times or under particular circumstances. ~{legend/example here}~. Despite [[The Lore of the Feywild|extensive catalogs]], the rules that govern connections to the Feywild have eluded all scholarly categorization. 
+## People of the Feywild
+
+The denizens of the Feywild, often collectively called the **fey**, are as varied as the realm they inhabit, their presence inspiring awe and trepidation in equal measure. Most striking are the elegant and graceful creatures known simply as fae, often mistaken for elves or humans, but distinguished by their luminous eyes and unearthly poise. Mischievous fairies, such as pixies, sprites, and brownies, flit through stories of pranks and magical interventions, while the horned satyrs, embodying the wild vitality of their home, are renowned as the masters of revelry, mischief, and sometimes wisdom. 
+
+As diverse as the fey are the stories about them and their interactions with the natives of the [[Material Plane]]. The classic Chardonian ballad, the [[Curse of the Thorned Feast]], often sung as a cautionary tale, speaks of the wandering warrior who dined eagerly in a dryad's grove, failing to offer thanks or recompense, only to find himself bound to serve the forest for a hundred and one years. And a famous scene in [[A Fool's Fortune]] depicts the tragi-comic hero, Estelis, bargaining with a pixie, who offers the seeds of vast riches for a mere trifle of gems. Of course, as the audience knows, the seeds of vast riches grow into flowers, and fey bargains, while never broken, are often not as they seem. Yet not all tales are cautionary examples: [[Light of the Everglade]], an elven epic poem, speaks of the bard [[Laurlinde]] whose silver voice and noble demeanor won her a boon from a mysterious archfey called the [[Cloudspinner|Queen of Sunset]]. 
+### Archfey and Fey Realms
+
+(legends and stories)
 
 %%^Campaign:none%%
 
@@ -150,7 +161,6 @@ The people of the Feywild are generally referred to as fae or faerie as a whole,
 The politics and political organization of the Feywild is based around the realms of the Archfey. 
 
 - Pretty much all of the feywild is part of realms of various Archfey and Fey Lords. Each fey lords domain can be fairly different - some have glittering courts, even cities, while others are extremely wild, and many are in between; some are largely pleasant and friendly, others hostile or malicious. Some are pretty strict about policing their boundaries, others let anyone pass, still others are hidden and cannot be found by ordinary means. The transitions are often not obvious to non-fey (but all fey can easily sense these borders) and catching someone trespassing is an easy way the fey lords use to lure the unknowing or unwitting into deals and bargains.
-- The archfey and fey lords that rule the domains of the feywild generally owe their allegiance to either the Seelie Court or the Unseelie Court. While crudely considered "good" and "evil" fey by unknowing humans, the real differences between them are subtler and more complicated, with the Seelie Court generally associated with protocol and the trappings of civilization, and the Unseelie Court generally associated with indulgence of primal instincts and a much more chaotic vibe. There are also independent archfey that shun the conflict of the Seelie and Unseelie courts and hold themselves neutral.     
-
+- The archfey and fey lords that rule the domains of the feywild generally owe their allegiance to either the Seelie Court or the Unseelie Court. While crudely considered "good" and "evil" fey by unknowing humans, the real differences between them are subtler and more complicated, with the Seelie Court generally associated with protocol and the trappings of civilization, and the Unseelie Court generally associated with indulgence of primal instincts and a much more chaotic vibe. There are also independent archfey that shun the conflict of the Seelie and Unseelie courts and hold themselves neutral.     <-- this has never come up in game and is not likely to be correct
 
 %%^End%%
