@@ -42,7 +42,7 @@ This is page tracks the status of the Gazetteer reorganization.
 * [ ] [[Greater Chardon]]
 * [ ] [[Nevos and Apporia]]
 * [ ] [[Northern Sentinels]]
-* [ ] [[Central Highlands]]
+* [x] [[Central Highlands]]
 * [ ] [[Greater Dunmar]]
 * [ ] [[Greater Sembara]]
 * [ ] [[Upper Istaros]]

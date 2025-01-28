@@ -2,7 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: river
-whereabouts: Elderwood
+whereabouts: 
+- {type: primary, location: Elderwood }
+- {type: secondary, location: Chasa-Nahadi Watershed }
 pronunciation: KAY-zahd
 dm_notes: none
 dm_owner: none

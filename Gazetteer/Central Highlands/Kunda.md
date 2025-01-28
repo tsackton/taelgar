@@ -4,7 +4,9 @@ tags: [place]
 name: Kunda
 ancestry: stoneborn
 typeOf: village
-whereabouts: Indalas
+whereabouts: 
+- {type: primary, location: Indalas }
+- {type: secondary, location: Central Highlands }
 dm_owner: tim
 dm_notes: color
 ---

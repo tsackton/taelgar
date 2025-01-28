@@ -4,7 +4,9 @@ tags: [place, status/stub]
 displayDefaults: {defArt: ""}
 name: Urlich Pass
 typeOf: pass
-whereabouts: Sentinel Range
+whereabouts: 
+- {type: primary, location: Sentinel Range }
+- {type: secondary, location: Central Highlands }
 dm_notes: important
 dm_owner: none
 ---

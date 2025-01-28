@@ -56,6 +56,7 @@ _See more: [[Ursk]], [[Vargaldi]]_
 
 %%^Campaign:None%%
 ## DM Notes and Meta
+_See more: [[List of Places in the Northern Green Sea]]_
 
 *Canonical Development and Constraints:* The culture of [[Ursk]] is well developed, although there are a number of blank spots in the history. The [[Vargaldi]] are also reasonably well developed, although generally only in broad strokes. This area has a significant frost giant presence, in [[Kaldhalla]], and the conflict between frost giants and white dragons has substantially shaped some of the details of the wilderness here. Canonically there are established dwarven and stoneborn cultures in the [[Svinjo Mountains]], but no details are invented about these peoples. The existence of a vampire kingdom on the western borders of Ursk is canonical, although the fate of this region after the interventions of the [[Dunmar Fellowship]] has not been determined. 
 

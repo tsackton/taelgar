@@ -4,7 +4,9 @@ tags: [place]
 name: Fahnukan
 typeOf: realm
 ancestry: dwarven
-whereabouts: Labkhan
+whereabouts: 
+- {type: primary, location: Labkhan }
+- {type: secondary, location: Northern Sentinels }
 dm_owner: none
 dm_notes: none
 ---

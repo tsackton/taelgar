@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/stub]
 typeOf: fen
-whereabouts: North Sentinels
+whereabouts: Northern Sentinels
 dm_owner: tim
 ---
 # The Blackwater Fens
