@@ -4,7 +4,9 @@ tags: [place]
 name: Nidzahar
 typeOf: realm
 ancestry: dwarven
-whereabouts: Labkhan
+whereabouts: 
+- {type: primary, location: Labkhan }
+- {type: secondary, location: Central Highlands }
 pronunciation: NID-zah-har
 dm_owner: none
 dm_notes: color

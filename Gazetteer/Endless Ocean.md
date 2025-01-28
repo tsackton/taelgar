@@ -3,7 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Endless Ocean
 typeOf: ocean
-whereabouts: Taelgar
+whereabouts: 
+- { type: home, location: Taelgar, linkText: in}
 dm_notes: important
 dm_owner: tim
 ---
