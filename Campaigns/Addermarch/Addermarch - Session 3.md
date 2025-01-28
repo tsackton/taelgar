@@ -47,7 +47,7 @@ Continuing to explore the cave, the party finds the main cavern of the cockatric
 Sorting through the treasure recovered from the bottom of the naiad's pool, the party fines some jewelry clearly belonging to [[Elowen Duval]], or at least her family; and a golden holy symbol of [[The Sibyl]] of a strange design. After speaking briefly with the naiad about fey, the party returns to the cockatrice lair and destroys the fey gate by melting the crystal keeping it from fully closing with acid from [[Yvan Greenrabbit|Yvan]]'s sorcerous burst. 
 
 %% [[Fazoth de Brune|Fazoth]] conversation with the naiad
-[[Fazoth de Brune|Fazoth]] also speaks to the naiad about the fey, learning that the [[Lord Umbraeth|Gloomshaper]] drove her here, and that he lurks in the [[Darkwood]] to the south. In the [[feywild]], the [[Darkwood]] is known as Duskmire, and is a nasty, terrible place. 
+[[Fazoth de Brune|Fazoth]] also speaks to the naiad about the fey, learning that the [[Lord Umbraeth|Gloomshaper]] drove her here, and that he lurks in the [[Darkwood]] to the south. In the [[Feywild]], the [[Darkwood]] is known as Duskmire, and is a nasty, terrible place. 
 %%
 
 After having brought everything outside, the party departs for [[Roscombe]], spending the night on the road. 
