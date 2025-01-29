@@ -14,3 +14,16 @@ TABLE
 FROM "Worldbuilding/Staging"
 SORT any(filter(file.inlinks, (b) => contains(meta(b).path, "Campaigns"))) DESC, length(file.inlinks) DESC
 ```
+
+
+## Staging Linked to Specific Directory
+
+Currently: Cosmology
+
+```dataview
+TABLE 
+    length(file.inlinks) as Backlinks
+FROM "Worldbuilding/Staging"
+WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Cosmology")))
+SORT length(file.inlinks) DESC
+```
