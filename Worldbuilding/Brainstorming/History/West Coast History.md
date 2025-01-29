@@ -14,8 +14,7 @@ Some notes on West Coast history. These should not be considered fully canon, bu
 - Potentially there is a second late migration, after the mariner exodus, of a different cultural group, with a more urban culture, but this is not yet decided.
 - 
 
-## Before the Great War
-
+## Before the Great Wa
 Rough map (map should not be considered completely canonical)
 ![[west-coast-history-GreatWar.png]]
 
