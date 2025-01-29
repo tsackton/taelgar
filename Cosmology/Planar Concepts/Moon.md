@@ -9,7 +9,7 @@ dm_notes: none
 
 %%^Campaign:none%%
 
-Other than that the moon exists, there are few canonical details but a fair bit of brainstorming and loose context. 
+Other than that the moon exists, there are few canonical details but a fair bit of brainstorming and loose context. Canonically the moon does not exist in the [[Feywild]], but what that means for other planes is not clear (i.e. maybe it does have a presence in the [[Dreamworld]] or [[Plane of Souls]]).
 
 In Game:
 - [[Celyn and Izgil Discuss the Moon]]
