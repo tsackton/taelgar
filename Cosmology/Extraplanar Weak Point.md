@@ -39,7 +39,7 @@ While the metaphysics of extraplanar weak points are left intentionally vague, s
 - Canonically, extraplanar weak points make creating magic items much easier. The details have always been intentionally vague but this is a common reason to seek out extraplanar weak points. 
 
 A few not-quite-canonical notes:
-- Extraplanar weak points shouldn't make planar travel easier. These are not closed portals - the planar dualists metaphor gets the vibe right. Notably, this makes them very distinct from fey gates or other kinds of "fey areas" where people sometimes vanish into the feywild. These are probably something unique, more akin to [[Elemental Vortex|elemental vortexes]] than extraplanar weak points (I think [[Ishara Venn]] is probably wrong as elemental vortexes allow travel, and extraplanar weak points don't). See [[Planar Connections]] for more. 
+- Extraplanar weak points shouldn't make planar travel easier. These are not closed portals - the planar dualists metaphor gets the vibe right. Notably, this makes them very distinct from fey gates or other kinds of "fey areas" where people sometimes vanish into the feywild. These are probably something unique, more akin to [[Elemental Vortex|elemental vortexes]] than extraplanar weak points (I think [[Ishara Venn]] is probably wrong as [[Elemental Vortex|elemental vortexes]] allow travel, and extraplanar weak points don't). See [[Planar Connections]] for more. 
 - Extraplanar weak points should make the nearby area kind of like in some ways the plane they are connected to. They should generally be dangerous, although there can be exceptions. 
 
 %%
