@@ -329,7 +329,7 @@ One obvious option is a religious site. Sembara doesn't really have religious or
 
 
 [3/27/2024 3:01 PM] rsulfuratus
-Another obvious option is a extraplanar weak point, which could have various and sundry impacts
+Another obvious option is a [[extraplanar weak point]], which could have various and sundry impacts
 
 
 [3/27/2024 3:04 PM] rsulfuratus

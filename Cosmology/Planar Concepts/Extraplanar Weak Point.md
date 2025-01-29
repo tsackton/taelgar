@@ -6,7 +6,13 @@ dm_notes: none
 ---
 # Extraplanar Weak Point
 
+%%edits in progress%%
 
+In most multiversal models, including the [[Standard Multiversal Model]], [[Yendalism]], and the multidimensional web model of the elven philosopher [[Avariel]], the planes are thought to exist in a complex space that cannot be straightforwardly depicted, where distance between planes is not a simple linear measure. Thus, as metaphorically described by [[~Chardonian Famous Scholar~]], there are always "places in our physical world of the Material Plane where the walls between planes are thin and you can hear the shouting of the worlds next door if you listen." These are typically known as Extraplanar Weak Points. 
+
+These are not portals: as described by the foundational work [[On Metaphysics]], portals between planes are themselves infinitely long and infinitesimally short at the same time, tunnels that defy logical explanation. Indeed, careful experimentation recorded in the seminal work [[On the Nature of Extraplanar Travel]] showed that it is no easier to traverse across planes at extraplanar weak points than elsewhere. 
+
+However, there are many recorded tales of strange magic being common at these places, thought to reflect the 
 
 Scattered across the material plane are points where other planes drift close in extraplanar space, creating a location where extraplanar energy leaks across planar boundaries. 
 

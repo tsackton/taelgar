@@ -4,7 +4,7 @@
 [7/7/2024 3:51 PM] rsulfuratus
 Idea for refactoring items, based on thinking about magic items in Taelgar.
 
-1) Magic items are typically created based on using specific semi-magical objects to bind/capture extraplanar energy, typically much easier at an extraplanar weak point. In general, this means that to create a magic item, you generally need to know the formula, in some ways analgous to spells.
+1) Magic items are typically created based on using specific semi-magical objects to bind/capture extraplanar energy, typically much easier at an [[extraplanar weak point]]. In general, this means that to create a magic item, you generally need to know the formula, in some ways analgous to spells.
 
 2) Magic items have the same power law as spellcasters, so most magic items are common, and very few are exceptionally strong. However, while all artifacts have some kind of story, that doesn't mean a common item can't have a story. 
 
