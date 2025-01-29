@@ -92,7 +92,7 @@ i am happy with urlich pass, and the Battle of Urlich Pass as the final battle o
 
 
 [11/5/2023 8:41 PM] rsulfuratus
-the monastery could just be an extraplanar weak point to the divine realm, historically protected by the dwarves or something like that. it is destroyed now anyway so the history isn't super important
+the monastery could just be an [[extraplanar weak point]] to the divine realm, historically protected by the dwarves or something like that. it is destroyed now anyway so the history isn't super important
 
 
 [11/5/2023 8:41 PM] .deciusmus
