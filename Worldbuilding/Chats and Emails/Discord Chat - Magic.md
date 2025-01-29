@@ -45,7 +45,7 @@ you - as the spellcaster - aren't really doing anything, particularly, except op
 
 
 [3/21/2024 1:11 PM] rsulfuratus
-a wizard (or an "arcane-feeling" bard, like Seeker) would be basically manipulating residue leakage/energy from the plane of magic, represented by ley lines
+a wizard (or an "arcane-feeling" bard, like Seeker) would be basically manipulating residue leakage/energy from the plane of magic, represented by [[Ley Lines]]
 
 
 [3/21/2024 1:12 PM] rsulfuratus
