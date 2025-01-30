@@ -111,7 +111,7 @@ Once inside, they heard a booming voice emanating from the statue of the [[The S
 
 After some tense back and forth, the party eventually befriended [[Dimitaur]], who emerged from the hidden tunnel. He was an ancient dragonet, gray with age, carrying a short staff in one hand and a wand in the other. Initially defensive, [[Dimitaur]] warmed to the party when they showed their genuine connection to Rai and shared their purpose. He spoke of [[Rai]], the island, and the dragonets, and [[Drankor]], as the party told stories of the jade pieces they had found. They also discussed Apollyon's impending escape, which was expected to occur in just 10 days, and Dimitaur revealed that Ra'ghemdros, the daughter of [[Cha'mutte]], was tasked with guarding something important on the island. 
 
-The conversation turned to their options—whether to negotiate with or fight [[Ra'ghemdros]] to obtain the final jade piece. They also debated consulting a [[Revaka|hobgoblin wizard]] trapped in a mirror as a potential ally. The party stayed up late into the night speaking with [[Dimitaur]] about Drankor, Rai's quest to break [[Isingue]] free from the seeds of chaos caused by [[Cha'mutte]]'s death, and the consequences of Rai's failure. Dimitaur also spoke of [[Apollyon]] and [[Cha'mutte]]'s deep hatred for each other, offering more context for the challenges ahead.
+The conversation turned to their options—whether to negotiate with or fight [[Ra'ghemdros]] to obtain the final jade piece. They also debated consulting a [[Revaka|hobgoblin wizard]] trapped in a mirror as a potential ally. The party stayed up late into the night speaking with [[Dimitaur]] about Drankor, Rai's quest to break [[Isingue]] free from the [[Seeds of Chaos]] caused by [[Cha'mutte]]'s death, and the consequences of Rai's failure. Dimitaur also spoke of [[Apollyon]] and [[Cha'mutte]]'s deep hatred for each other, offering more context for the challenges ahead.
 
 Before they rested, [[Seeker]] used clairvoyance to observe Ra'ghemdros' lair, noting the presence of chimeras guarding the area—massive creatures that posed a significant threat.
 
@@ -203,7 +203,7 @@ The party encounters the elderly dragonet Dimitaur, who tests their intentions a
 - They discuss Apollyon's impending escape, which is expected to occur in 10 days.
 - Dimitaur reveals that Ra'ghemdros, Cha'mutte's daughter, is tasked with guarding something important on the island.
 - They debate whether to negotiate with or fight Ra'ghemdros to obtain the final jade piece, and whether to consult a hobgoblin wizard trapped in a mirror as a potential ally.
-- The party stays up into the night talking to Dimitaur about Drankor, Rai's quest to break Isingue free of the seeds of chaos caused by Cha'mutte's death, his failure and disappearance, and Apollyon's growing strength. They also discuss Apollyon and Cha'mutte's hatred of each other.
+- The party stays up into the night talking to Dimitaur about Drankor, Rai's quest to break Isingue free of the [[Seeds of Chaos]] caused by Cha'mutte's death, his failure and disappearance, and Apollyon's growing strength. They also discuss Apollyon and Cha'mutte's hatred of each other.
 - Before they rest, Seeker uses clairvoyance to observe the dragon's lair, finding chimeras guarding the area.
 
 ## Raw Notes
