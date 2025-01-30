@@ -3,19 +3,19 @@ This is page tracks the status of the Gazetteer reorganization.
 
 ### Create Base Region Pages
 
-* [ ] [[Northwest Coast]]
+* [x] [[Northwest Coast]]
 * [ ] [[Greater Chardon]]
 * [ ] [[Nevos and Apporia]]
 * [x] [[Northern Sentinels]]
 * [ ] [[Central Highlands]]
 * [ ] [[Greater Dunmar]]
 * [x] [[Greater Sembara]]
-* [ ] [[Upper Istaros]]
-* [ ] [[Drankorian Hinterland]]
+* [x] [[Upper Istaros]]
+* [x] [[Drankorian Hinterland]]
 * [x] [[Northern Green Sea]]
 * [ ] [[Western Green Sea]]
 * [x] [[Eastern Green Sea]]
-* [ ] [[Far South]]
+* [x] [[Far South]]
 * [x] [[Far North]]
 * [x] [[Western Ocean]]
 
@@ -27,12 +27,12 @@ This is page tracks the status of the Gazetteer reorganization.
 * [x] [[Northern Sentinels]]
 * [ ] [[Central Highlands]]
 * [ ] [[Greater Dunmar]]
-* [x] [[Greater Sembara]]
+* [ ] [[Greater Sembara]]
 * [ ] [[Upper Istaros]]
 * [ ] [[Drankorian Hinterland]]
 * [ ] [[Northern Green Sea]]
 * [ ] [[Western Green Sea]]
-* [ ] [[Eastern Green Sea]]
+* [x] [[Eastern Green Sea]]
 * [x] [[Far South]]
 * [x] [[Far North]]
 * [x] [[Western Ocean]]
@@ -41,7 +41,7 @@ This is page tracks the status of the Gazetteer reorganization.
 * [ ] [[Northwest Coast]]
 * [ ] [[Greater Chardon]]
 * [ ] [[Nevos and Apporia]]
-* [ ] [[Northern Sentinels]]
+* [x] [[Northern Sentinels]]
 * [x] [[Central Highlands]]
 * [ ] [[Greater Dunmar]]
 * [ ] [[Greater Sembara]]
@@ -49,7 +49,7 @@ This is page tracks the status of the Gazetteer reorganization.
 * [ ] [[Drankorian Hinterland]]
 * [x] [[Northern Green Sea]]
 * [ ] [[Western Green Sea]]
-* [ ] [[Eastern Green Sea]]
+* [x] [[Eastern Green Sea]]
 * [x] Faraway Places
 * [ ] Extraplanar
 

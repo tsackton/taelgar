@@ -9,7 +9,7 @@ dm_notes: none
 const { util } = customJS
 dv.table(["Place", "Type Of"], 
 			dv.pages("#place")
-				.where(f => util.inRegion("Drankorian Hinterland", f.file.frontmatter, dv.current().pageTargetDate))
+				.where(f => util.inLocation("Drankorian Hinterland", f.file.frontmatter, dv.current().pageTargetDate))
 				.sort(b => util.s("<maintype>", b.file))
 				.map(b => [util.s("<name> (<pronunciation>)", b.file), util.s("<maintype>", b.file)]))
 ```

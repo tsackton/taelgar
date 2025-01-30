@@ -15,7 +15,7 @@ dm_notes: none
 
 %% TO DO %%
 
-The Battle of Metium was a significant battle during the [[Conclave War]], fought on the banks of the [[Chasa]]] river near the city of [[Metium]]. It was a great victory for [[Chardon]] and its allies, and marked deepest point of advance of the Draconic Triumvirate during the [[Conclave War]]. Generally acknowledged as the turning point of the [[Conclave War]]. During the battle, [[Arauthelden]] the Inferno Lord, an ancient red dragon, was killed, and the might and power of the Draconic Triumvirate was shattered. 
+The Battle of Metium was a significant battle during the [[Conclave War]], fought on the banks of the [[Chasa]] river near the city of [[Metium]]. It was a great victory for [[Chardon]] and its allies, and marked deepest point of advance of the Draconic Triumvirate during the [[Conclave War]]. Generally acknowledged as the turning point of the [[Conclave War]]. During the battle, [[Arauthelden]] the Inferno Lord, an ancient red dragon, was killed, and the might and power of the Draconic Triumvirate was shattered. 
 
 %%
 
