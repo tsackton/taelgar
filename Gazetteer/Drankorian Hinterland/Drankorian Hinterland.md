@@ -14,7 +14,7 @@ dm_notes: none
 
 %% Status:
 * [ ] In world intro
-* [ ] Map
+* [x] Map
 * [ ] Topography
 * [ ] Civilizations and Culture
 * [ ] History
@@ -26,13 +26,33 @@ dm_notes: none
 {intro text}
 ## Map
 
-{link to leaflet map of region}
+
+```leaflet 
+id: region-map-drankor
+image: [[region-drankorian-hinterland.png]] 
+bounds: 
+- [0,0]
+- [2232, 4429]
+height: 600px  
+width: 1100px
+lat: 1122
+long: 2122
+minZoom: -2
+maxZoom: 0
+defaultZoom: -2
+unit: miles 
+scale: 1
+draw: false
+darkMode: false
+markerTag: location-source
+```
+
 ## Topography and Major Features
 _See more: {links}_
 
 {descriptive text of topography and major features}
 ## Civilizations and Cultures
-_See more: {links}_
+_See more: [[Drankorian Empire|Drankor]]
 
 {descriptive text of civilizations and cultures}
 ## Climate
