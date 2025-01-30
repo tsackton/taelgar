@@ -1,7 +1,7 @@
 1/22/2025
 
 rsulfuratus — Today at 8:13 PM
-working on spiritual realms, now, and i'm actually not sure whether incorporeal gods should, in general, have planes. maybe this is what the original high school conception of the "all the gods are just aspects of the Divine Presence" idea means. Incorporeal Gods are, actually, manifestations of pure Soulstuff and to the extent they have "homes" it is the Plane of Creation itself. 
+working on spiritual realms, now, and i'm actually not sure whether incorporeal gods should, in general, have planes. maybe this is what the original high school conception of the "all the gods are just aspects of the Divine Presence" idea means. Incorporeal Gods are, actually, manifestations of pure [[Soulstuff]] and to the extent they have "homes" it is the Plane of Creation itself. 
 
 this might actually simplify some things:
 where the souls of people who worship tanshi or kestavo go
@@ -40,6 +40,6 @@ basically, you have the realms of the embodied gods, created potentially during 
 Deciusmus — Today at 8:34 PM
 (and to add, defining what those things are as some sort of unknowa=nable mystery)
 rsulfuratus — Today at 8:34 PM
-then, you have the "spiritual realms' which are just "anything made of soulstuff"
+then, you have the "spiritual realms' which are just "anything made of [[Soulstuff]]"
 there doesn't have to be any unified creation story for the rest of the outer planes, and they don't all necessarily need to be "evils of humanity"
 i mean we already settled on that basic idea but it was still a little anchored to the "human belief -> outer planes"
