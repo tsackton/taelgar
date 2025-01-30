@@ -4,7 +4,7 @@ tags: [place]
 name: South Dunmar Road
 displayDefaults: { linkText: on }
 typeOf: road
-whereabouts: Istaros Watershed
+whereabouts: Upper Istaros
 dm_notes: none
 dm_owner: none
 ---
