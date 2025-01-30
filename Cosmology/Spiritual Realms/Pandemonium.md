@@ -1,8 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/stub]
+whereabouts: 
+- {type: home, location: Spiritual Realms, wHome: "A <typeOf> in the <home:1>"}
 typeOf: plane
-whereabouts: Spiritual Realms
 dm_owner: tim
 dm_notes: important
 ---

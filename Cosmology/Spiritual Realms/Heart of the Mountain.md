@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/needswork/gameupdate]
-whereabouts: Divine Realms
+whereabouts: 
+- {type: home, location: Divine Realms, wHome: "A <typeOf> in the <home:1>"}
 typeOf: plane
 dm_notes: color
 dm_owner: tim
