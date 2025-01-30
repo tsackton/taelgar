@@ -4,7 +4,7 @@ displayDefaults: {defArt: "the"}
 tags: [place]
 name: Plaguelands
 typeOf: region
-whereabouts: Desolation of Cha'mutte
+whereabouts: Upper Istaros
 dm_notes: important
 dm_owner: tim
 ---

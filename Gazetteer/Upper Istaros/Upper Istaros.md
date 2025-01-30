@@ -1,17 +1,26 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/incomplete, status/stub]
-displayDefaults: {defArt: '' }
+tags: [place,  status/needswork/wip]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: joint
 dm_notes: none
 ---
-# Upper Istaros
+# The Upper Istaros
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Status:
+* [ ] In world intro
+* [ ] Map
+* [ ] Topography
+* [ ] Civilizations and Culture
+* [ ] History
+* [ ] Climate
+* [ ] Climate - Real World
+* [x] DM Notes
+%%
 {intro text}
 ## Map
 
@@ -21,7 +30,7 @@ _See more: {links}_
 
 {descriptive text of topography and major features}
 ## Civilizations and Cultures
-_See more: {links}_
+_See more: [[Orenlas]], [[Refounded Alliance of Aurbez]], [[Xurkhaz]]_
 
 {descriptive text of civilizations and cultures}
 ## Climate
