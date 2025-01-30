@@ -699,11 +699,11 @@ It needs work, I think, but it plays back into the idea that the earlier and clo
 
 
 [7/18/2024 11:37 AM] rsulfuratus
-I'm not totally sure I want to say that *no* new gods appear after the downfall, but I think it works very well to have an "easy" era of god formation transition to a "hard" era. and that no new *planes* are formed after the downfall, perhaps excepting divine realms
+I'm not totally sure I want to say that *no* new gods appear after the downfall, but I think it works very well to have an "easy" era of god formation transition to a "hard" era. and that no new *planes* are formed after the downfall, perhaps excepting [[Divine Realms]]
 
 
 [7/18/2024 11:37 AM] rsulfuratus
-(although metaphyiscally I think divine realms and non-divine outer planes are somewhat distinct)
+(although metaphyiscally I think [[Divine Realms]] and non-divine outer planes are somewhat distinct)
 
 
 [7/18/2024 11:38 AM] rsulfuratus

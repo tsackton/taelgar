@@ -25,7 +25,7 @@ The Plane of Creation plays a meaningful role in the magic of Taelgar, as the ul
 - [[Riving]]
 - [[Riving]]
 
-The basic vibe, whatever the exact details, is that the Plane of Creation is the divine counterpart to the Plane of Magic, the source of all divine magic, and the home -- in whatever sense they have of home -- of the [[Divine Presence]], and that the Divine Presence is an effectively (or actually) infinite source of divine magic / soulstuff etc. 
+The basic vibe, whatever the exact details, is that the Plane of Creation is the divine counterpart to the Plane of Magic, the source of all divine magic, and the home -- in whatever sense they have of home -- of the [[Divine Presence]], and that the Divine Presence is an effectively (or actually) infinite source of divine magic / [[Soulstuff]] etc. 
 
 Unlike [[Spiritual Realms]], this is not really supposed to be a place one can visit, although of course there is always room for invention and exceptions. 
 

@@ -71,7 +71,7 @@ fey are ultimately the grandchildren of the High Gods, via the archfey. some arc
 
 
 [3/21/2024 1:19 PM] rsulfuratus
-one key point is the echo realms are actually harder to reach for the gods than the material plane (they are even further from the divine realms), so gods would be particularly weak in the echo realms
+one key point is the echo realms are actually harder to reach for the gods than the material plane (they are even further from the [[Divine Realms]]), so gods would be particularly weak in the echo realms
 
 
 [3/21/2024 1:19 PM] .deciusmus
@@ -95,7 +95,7 @@ yes - I like the "misty step is something you have to work at to learn to do" an
 
 
 [3/21/2024 1:23 PM] rsulfuratus
-I mean from a overarching point of view I think the key thing to decide is "what extraplanar energy are you manipulating" and "how are you doing it". with possible answers for the first one ranging from "plane of magic" to "feywild" to "[[Plane of Souls]] (this is probably psionics)" to "divine realms" and many things in between
+I mean from a overarching point of view I think the key thing to decide is "what extraplanar energy are you manipulating" and "how are you doing it". with possible answers for the first one ranging from "plane of magic" to "feywild" to "[[Plane of Souls]] (this is probably psionics)" to "[[Divine Realms]]" and many things in between
 
 
 [3/21/2024 1:23 PM] rsulfuratus

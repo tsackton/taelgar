@@ -20,7 +20,7 @@ First thought: the rules of D&D, and in particular the classification of magic i
 
 Second thought: Yendalism seems more right to me than "only those on the material plane have souls".
 
-Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[Plane of Creation]] via the [[Dreamworld]]? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of soulstuff from the dreamworld. Maybe all fey magic is actually soulstuff magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
+Third thought: A middle ground might be that everyone is wrong and the truth is that every creature native to an Echo Realm has a soul on either the plane of souls or an echo of it. Perhaps the fey access the [[Plane of Creation]] via the [[Dreamworld]]? And in fact a fey cleric doesn't worship a god, per se, just knows how to draw the power of [[Soulstuff]] from the dreamworld. Maybe all fey magic is actually [[Soulstuff]] magic (outside of fey wizards and the like) being pulled from the dreamworld, and the fey have a deep need for all creatures to dream and imagine to keep generating that power.
 
 Some discussion:
 - [[Discord Chat - Divine Power in Taelgar]]
@@ -47,7 +47,7 @@ Brainstorming notes:
 
 ---
 Tim - 1/22/2025
-working on spiritual realms, now, and i'm actually not sure whether incorporeal gods should, in general, have planes. maybe this is what the original high school conception of the "all the gods are just aspects of the Divine Presence" idea means. Incorporeal Gods are, actually, manifestations of pure Soulstuff and to the extent they have "homes" it is the Plane of Creation itself. this might actually simplify some things:
+working on spiritual realms, now, and i'm actually not sure whether incorporeal gods should, in general, have planes. maybe this is what the original high school conception of the "all the gods are just aspects of the Divine Presence" idea means. Incorporeal Gods are, actually, manifestations of pure [[Soulstuff]] and to the extent they have "homes" it is the Plane of Creation itself. this might actually simplify some things:
 
 - where the souls of people who worship tanshi or kestavo go
 - the fact that we've never really had any lore about human "heavens" despite there being a lot of lore about non-human heavens

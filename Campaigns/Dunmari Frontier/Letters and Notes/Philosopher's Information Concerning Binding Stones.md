@@ -24,7 +24,7 @@ We have given names to each stone based on our research and our whim, for ease o
 - The Chaos Stone: a streaked stone of swirling colors, that seem to shift when you are not looking at it, primarily reds, blues, whites, and browns; perhaps associated with disorder, chaos, or raw elemental energy  
 - The Echo Stone: a pure white opaque stone, with an odd optical effect that it seems to contain echos or reflections of itself; perhaps associated with the Feywild, or with duplications and echoes  
 - The Anger Stone: a harsh, jagged reddish stone, the color of fire and blood, holding it too long leads to a slowly growing sense of unease that turns to anger and rage; probably associated with fiends  
-- The Peace Stone: a smooth golden stone with a single brilliant white line around the diameter at the middle, holding it for a while gives you a sense of peace and calmness; probably associated with the divine realms of the gods  
+- The Peace Stone: a smooth golden stone with a single brilliant white line around the diameter at the middle, holding it for a while gives you a sense of peace and calmness; probably associated with the [[Divine Realms]] of the gods  
 
 We guess that simple traps (meta-game: the Snare spell, the Web spell) can be cast using any of the stones. More complex bindings likely require combinations, probably pairs or trios. It seems that the Anger and Peace stones are opposed, and the Chaos and Echo stones are opposed. The role of the Mirror stone, however, is not clear. 
 

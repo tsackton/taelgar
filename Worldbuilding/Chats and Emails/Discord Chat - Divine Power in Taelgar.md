@@ -46,13 +46,13 @@ That sets up this idea that whatever creation process existed during the riving 
 rsulfuratus — Today at 8:34 PM
 Yeah I think that makes sense. Want to let it sit a little but am going to update [[Land of the Dead]] tonight and will copy this discussion and update the open questions
 Deciusmus — Today at 8:36 PM
-There is a whole idea that could be explored about how the actual source of divine magic is soulstuff not anything else
-So the only creatures that don't have access to divine magic are those that do not have soulstuff
+There is a whole idea that could be explored about how the actual source of divine magic is [[Soulstuff]] not anything else
+So the only creatures that don't have access to divine magic are those that do not have [[Soulstuff]]
 for most "normal" species, their own "personal" soul stuff is not strong enough to generate magical effects
 but of course, what is ki powers except kenzo using the power of his soul on the plane of souls to generate magical effects?
 rsulfuratus — Today at 8:42 PM
-Yeah. Actually this could tie back into hkar - maybe part of the magic of hkar was kind of an upwelling of soulstuff somehow, so that personal soulstuff was enough for magic. At least in the early days
-Maybe the whole thing with the void mind is it cannot create soulstuff, it can only try to shape soulstuff that escapes from the divine presence
+Yeah. Actually this could tie back into hkar - maybe part of the magic of hkar was kind of an upwelling of [[Soulstuff]] somehow, so that personal [[Soulstuff]] was enough for magic. At least in the early days
+Maybe the whole thing with the void mind is it cannot create [[Soulstuff]], it can only try to shape [[Soulstuff]] that escapes from the divine presence
 Hence the desire to conquer Hkar, and the need to destroy it
 Could also tie into undead, and why turn undead works, and why you cant have undead clerics but you can have undead mages
 

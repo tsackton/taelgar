@@ -17,7 +17,7 @@ however i'm increasingly feeling like the outer planes don't really work. there 
 
 
 [7/18/2024 2:29 PM] rsulfuratus
-I think probably separating out the Primal Realms (with perhaps a different name) and associating these with the Riving, perhaps involving some Void Mind shenanigans, is much more straightforward than trying to force these things into the Divine Realms / Spiritual Realms
+I think probably separating out the Primal Realms (with perhaps a different name) and associating these with the Riving, perhaps involving some Void Mind shenanigans, is much more straightforward than trying to force these things into the [[Divine Realms]] / Spiritual Realms
 
 
 [7/18/2024 2:31 PM] rsulfuratus
@@ -84,10 +84,10 @@ A few thoughts for later..
 Some questions:
 
 (a) how does a divine realm come to be? I don't know the answer but my instinct says that the embodied gods & the incorporeal gods probably create them the same way. I think if it is in some sense under the gods control that explains a lot of the differences, i.e. Shakun created her own realm for Reasons rather than joining the realm of the Dunmari family, which was one realm for Reasons. 
-(a - 1) if the gods create the divine realms, that kinda means that until the pantheonic era, there were no divine realms for humans
+(a - 1) if the gods create the [[Divine Realms]], that kinda means that until the pantheonic era, there were no [[Divine Realms]] for humans
 (a - 2) how does this relate to souls, which are pretty well established as "returning to their deity" after death in some fashion
 (a - 3) how does this relate to small gods ideas of death, where there is no divine realm?
-(a - 4) what about Thark and other embodied void mind gods. Can they create divine realms as well?
+(a - 4) what about Thark and other embodied void mind gods. Can they create [[Divine Realms]] as well?
 
 
 [7/18/2024 2:54 PM] .deciusmus
@@ -111,7 +111,7 @@ Not sure this long stream of conscious is helpful, but what about something like
 
 (1) In the aftermath of the Riving, the planes are separated, and at least the Energy Realms, Ethereal Realm, Plane of Magic, and the Echo Realms (including the Feywild, the Dreamworld, the [[Plane of Souls]], plus any other random planes like the Mirror Realm and the rumored Nightmare Realm) are created. Plus of course the Material Plane
 
-(2) the embodied gods create their divine realms as they see fit, as they are created. TBD is what about the Void Mind gods, and can they create realms to? Probably yes, but they might not all want to, given the void mind vibe.
+(2) the embodied gods create their [[Divine Realms]] as they see fit, as they are created. TBD is what about the Void Mind gods, and can they create realms to? Probably yes, but they might not all want to, given the void mind vibe.
 
 (3a) maybe the Land of the Dead is explicitly created as a buffer between the gods and Taelgar during the Downfall, in response to the Void Mind attacks? That could be a mechanism for explaining why it became harder for belief to create gods. (Although this might be too big a change and not quite fit the already established religious history). (3b) Alternatively, maybe the Land of the Dead is in some sense part of the creation of humans. So before the land of the dead, the firstborn souls were taken up by their gods directly from Taelgar.
 
@@ -155,7 +155,7 @@ But in theory, metaphysically, if all the humans decided to stop believing/worsh
 [7/18/2024 3:51 PM] rsulfuratus
 need to think about this all a bit but a few additional points:
 (1) Agree that that Dreamworld is functionally an echo realm of the [[Plane of Souls]] - I think this has been established in game already, early on actually in Kenzo's dream journey way back in Karawa. The key distinction between the Dreamworld and what I would call true echo realms is that the geography of the Dreamworld is not tied to the physical geography of the material plane. Shadowfell domains, the Feywild, and the MIrror Realm have, so far, been demonstrated to be geographic echoes (distorted perhaps) of the Material Plane
-(2) Agree that the Land of the Dead is a dividing line of sorts, between the [[Plane of Souls]] / Material Plane / echo realms / whatever and the Divine Realms. This is established as well, at least in my secret notes if not in game, and is consistent with a lot of undead lore and lore around resurrection/raise dead etc. (it takes much stronger magic to bring back a soul that has 'passed on')
+(2) Agree that the Land of the Dead is a dividing line of sorts, between the [[Plane of Souls]] / Material Plane / echo realms / whatever and the [[Divine Realms]]. This is established as well, at least in my secret notes if not in game, and is consistent with a lot of undead lore and lore around resurrection/raise dead etc. (it takes much stronger magic to bring back a soul that has 'passed on')
 
 
 [7/18/2024 3:54 PM] rsulfuratus
@@ -401,11 +401,11 @@ I like that a lot actually
 
 
 [7/18/2024 6:45 PM] rsulfuratus
-I think that I would the astral plane basically the undifferentiated soulstuff beyond the land of the dead (while the [[Plane of Souls]] is the differentiated soulstuff on the material plane side of the land of the dead)
+I think that I would the astral plane basically the undifferentiated [[Soulstuff]] beyond the land of the dead (while the [[Plane of Souls]] is the differentiated [[Soulstuff]] on the material plane side of the land of the dead)
 
 
 [7/18/2024 6:46 PM] rsulfuratus
-and then any plane made of soulstuff floats in the astral plane and has some kind of origin story
+and then any plane made of [[Soulstuff]] floats in the astral plane and has some kind of origin story
 
 
 [7/18/2024 6:47 PM] .deciusmus
@@ -453,11 +453,11 @@ pretty busy today but noodling a bit when I have time. Rewrote the summary as:
 
 The **Age of Myth**, when the multiverse was new, a period before time itself was created. The Age of Myth begin with the first act of creation and are a time of the archfey, titans, elements, and great wyrms, a time when the power of arcane magic coursed unchecked through the multiverse and altering reality was as simple as a thought. This age ends with [[Riving]] when the [[Divine Presence]] separates the planes of existence from each other and creates the [[Material Plane]]. This was a time of huge empires and incredible acts of magic, but also of much chaos.
 
-The **Age of Creation** began after [[Riving]], when the multiverse was created, and ended with the [[Creation of Humans]] and the breaking of the barriers that contained and constrained the creative force of ~soulstuff~. It was during the Age of Creation that the [[Elder Folk|oldest sentient species]] of Taelgar were created by [[Embodied Gods]], when the vast civilizations of [[elves]], [[Dwarves|dwarves]], [[Lizardfolk|lizardfolk]], and others spread across the world. This is the golden age of the non-human species, but also a time that lacked dynamism. Little changed or was truly new in this age, as the Firstborn of the Elder Folk encouraged sameness and uniformity.
+The **Age of Creation** began after [[Riving]], when the multiverse was created, and ended with the [[Creation of Humans]] and the breaking of the barriers that contained and constrained the creative force of ~[[Soulstuff]]~. It was during the Age of Creation that the [[Elder Folk|oldest sentient species]] of Taelgar were created by [[Embodied Gods]], when the vast civilizations of [[elves]], [[Dwarves|dwarves]], [[Lizardfolk|lizardfolk]], and others spread across the world. This is the golden age of the non-human species, but also a time that lacked dynamism. Little changed or was truly new in this age, as the Firstborn of the Elder Folk encouraged sameness and uniformity.
 
 
 [7/19/2024 9:34 AM] rsulfuratus
-The **Age of Divinity** began with the [[Creation of Humans]], and the shattering of the walls that isolated the [[Material Plane]] and kept the creative force of ~soulstuff~ from affecting the wider multiverse. Humans, created by the [[Divine Presence]] itself on [[Hkar]], were unlike anything that had come before, for they were granted the Divine Spark, the ability of their beliefs to shape the very reality of the multiverse, creating [[Incorporeal Gods]] out of the material of creation itself. This was an age of great change, as the greatest hopes and darkest fears of humanity were manifest in ~soulstuff~. It was also an age when other, darker things were created by the machinations of the [[Void Mind]]. The Age of Divinity ended with the the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the Divine Spark on the [[Material Plane]]. 
+The **Age of Divinity** began with the [[Creation of Humans]], and the shattering of the walls that isolated the [[Material Plane]] and kept the creative force of ~[[Soulstuff]]~ from affecting the wider multiverse. Humans, created by the [[Divine Presence]] itself on [[Hkar]], were unlike anything that had come before, for they were granted the Divine Spark, the ability of their beliefs to shape the very reality of the multiverse, creating [[Incorporeal Gods]] out of the material of creation itself. This was an age of great change, as the greatest hopes and darkest fears of humanity were manifest in ~[[Soulstuff]]~. It was also an age when other, darker things were created by the machinations of the [[Void Mind]]. The Age of Divinity ended with the the [[The Downfall|Downfall]], the destruction of [[Hkar]], and the diminishment of the power of the Divine Spark on the [[Material Plane]]. 
 
 The **Age of Humanity** began with the sinking of [[Hkar]] and the reshaping of the world that accompanied the [[The Downfall|Downfall]]. This age saw the rise and fall of Drankor, and the rise and fall of Cha'mutte, and much growth and change among human cultures. This age saw, for the first time, humanity growing to dominant the cultures of Taelgar, and the history of this age is dominated by the history of humanity.
 
@@ -830,11 +830,11 @@ so, to summarize, I think the logic is:
 
 (1) major divisions of living or sort-of-living things in Taelgar:
 
-(a) Sentient, self-aware creatures that are native to the "inner realms" (echo realms + energy realms + anything else that might be invented that is "protected" from the raw power of the [[Plane of Creation]] by the Land of the Dead), are sentient and self-aware because they are animated by a fragment of ~soulstuff~. When they die, this fragment typically travels to the Land of the Dead, and eventually passes beyond into the "Outer Realms". 
+(a) Sentient, self-aware creatures that are native to the "inner realms" (echo realms + energy realms + anything else that might be invented that is "protected" from the raw power of the [[Plane of Creation]] by the Land of the Dead), are sentient and self-aware because they are animated by a fragment of ~[[Soulstuff]]~. When they die, this fragment typically travels to the Land of the Dead, and eventually passes beyond into the "Outer Realms". 
 
-(b) Sentient, self-aware creatures native to the "outer realms" (spiritual realms + astral plane + anything on the "[[Plane of Creation]]" side of the Land of the Dead) are pure beings of soulstuff, manifest into physical form. When killed in the "inner realms", they return to their native plane, possibly changed. They can only be fully destroyed when beyond the Land of the Dead. 
+(b) Sentient, self-aware creatures native to the "outer realms" (spiritual realms + astral plane + anything on the "[[Plane of Creation]]" side of the Land of the Dead) are pure beings of [[Soulstuff]], manifest into physical form. When killed in the "inner realms", they return to their native plane, possibly changed. They can only be fully destroyed when beyond the Land of the Dead. 
 
-(c) Some creatures (many constructs, some undead, simlacrums, perhaps some elementals, etc) are sentient and self-aware but only by using the raw energy of the Plane of Magic in imitation of "soulstuff". These creatures simply cease to exist if destroyed, wherever they are.
+(c) Some creatures (many constructs, some undead, simlacrums, perhaps some elementals, etc) are sentient and self-aware but only by using the raw energy of the Plane of Magic in imitation of "[[Soulstuff]]". These creatures simply cease to exist if destroyed, wherever they are.
 
 
 [7/26/2024 2:01 PM] rsulfuratus
@@ -846,7 +846,7 @@ so, to summarize, I think the logic is:
 
 
 [7/26/2024 2:03 PM] rsulfuratus
-Then, most of the "interesting" distinctions are within (a), and this has a lot to do with origin stories and how each individual species / creature gained access to "soulstuff".
+Then, most of the "interesting" distinctions are within (a), and this has a lot to do with origin stories and how each individual species / creature gained access to "[[Soulstuff]]".
 
 
 [7/26/2024 2:03 PM] .deciusmus
@@ -882,7 +882,7 @@ I would say that the clear metaphyiscal uniqueness there is actually in the natu
 
 
 [7/26/2024 2:14 PM] rsulfuratus
-that is, you have say four (currently) types of beings that are "made of soulstuff"
+that is, you have say four (currently) types of beings that are "made of [[Soulstuff]]"
 
 
 [7/26/2024 2:15 PM] rsulfuratus

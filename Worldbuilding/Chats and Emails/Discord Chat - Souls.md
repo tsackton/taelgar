@@ -263,7 +263,7 @@ right
 
 
 [2/2/2024 2:28 PM] rsulfuratus
-i think the distinction between primal realms and divine realms in my notes is kind of obselete. the basic idea is that the spiritual realms are divided into the proximate realms ([[Dreamworld]], [[Plane of Souls]], astral plane, whatever else) and the outer planes, and those are divided by the land of the dead
+i think the distinction between primal realms and [[Divine Realms]] in my notes is kind of obselete. the basic idea is that the spiritual realms are divided into the proximate realms ([[Dreamworld]], [[Plane of Souls]], astral plane, whatever else) and the outer planes, and those are divided by the land of the dead
 
 
 [2/2/2024 2:29 PM] rsulfuratus
