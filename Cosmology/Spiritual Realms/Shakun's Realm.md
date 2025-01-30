@@ -2,8 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place, status/stub]
 displayDefaults: {defArt: ""}
+whereabouts: 
+- {type: home, location: Divine Realms, wHome: "A <typeOf> in the <home:1>"}
 typeOf: plane
-whereabouts: Divine Realms
 dm_notes: important
 dm_owner: tim
 ---
