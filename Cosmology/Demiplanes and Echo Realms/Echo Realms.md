@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/mike]
+tags: [background]
 displayDefaults: {defArt: the}
 dm_owner: joint
 dm_notes: none
