@@ -1,7 +1,7 @@
 ---
-tags: [background]
-dm_owner: shared,tim
-dm_notes: important
+tags: [background, status/needswork/old]
+dm_owner: joint
+dm_notes: none
 ---
 
 %% some  dm notes in great library and chasa river valley history, but might be obsolete %%

@@ -9,6 +9,6 @@ this country was lifted from the "Kingdom of Volkrad" campaign setting that was 
 
 Renamed to Volganis
 
-See more here: [[West Coast History]]
+See more here: [[West Coast History Framework]]
 %%
 
