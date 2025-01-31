@@ -1,5 +1,5 @@
 ---
-tags: [background/map]
+tags: [background]
 dm_owner: none
 dm_notes: none
 excludePublish: ["all"]
