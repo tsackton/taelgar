@@ -22,7 +22,7 @@ at that point war continues for a bit longer but Metium is turning point
 Conclave war more or less refers to the eastern advance here, but the details of how everything connects is not clear yet. 
 ![[Chardon-expansion-BloodYears.jpg]]
 
-See also: [[West Coast History#After the Great War]]
+See also: [[West Coast History Framework#After the Great War]]
 
 Tim Notes:
 

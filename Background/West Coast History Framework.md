@@ -1,18 +1,34 @@
 ---
-tags: [background]
+tags: [background, status/needswork/old]
+excludePublish: ["all"]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 
-%% NEEDS CLEANUP %%
+This note is intended to summarize a framework for the history of the West Coast, roughly including the [[Greater Chardon]], [[Northwest Coast]], [[Northern Sentinels]], and parts of the [[Central Highlands]]. 
 
-Some notes on West Coast history. These should not be considered fully canon, but are a framework for development.
+This is not intended to be published as is and is not meant to replace a more proper History of Chardon or whatever note. 
+
+Draws heavily from [[Hobgoblin Movements After Cha'Mutte]] and [[Discord Chat - Chardon History]]
 
 ## Pre-Drankor
 
-- First settlers were the Northerners, who generally lived in the shadow of non-humans before the Downfall. These become the Deno'qai, as well as possibly other as-yet-developed cultures on blank places in the map, such as the far north, the islands off the coast. 
-- Potentially there is a second late migration, after the mariner exodus, of a different cultural group, with a more urban culture, but this is not yet decided.
-- 
+**There are lots of open places for invention in this era, and the deep history of much of the West Coast remains undeveloped.**
+
+See: [[Historical Framework#Migrations and Emigration]] for some details. 
+
+*Canonical Facts*:
+- The first [[~Northerner~]] migrations landed somewhere in the west, gradually spreading north, generally living in the shadow of non-humans before the Downfall. These become the Deno'qai, as well as possibly other as-yet-developed cultures on blank places in the map.
+
+*Ideas:*
+- There is room for additional migrations pre-Downfall into this area, potentially adding one or more secondary cultural strands. There is even room for another Dunmari-like minor pantheonic religion. 
+
+## Drankorian Era
+
+See: [[Historical Framework#The Drankorian Era]]
+
+*Canonical Facts:*
+- The Drankorian Empire, in a series of wars of conquest, subjegates 
 
 ## Before the Great Wa
 Rough map (map should not be considered completely canonical)
