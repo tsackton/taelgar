@@ -2,8 +2,10 @@
 headerVersion: 2023.11.25
 tags: [place]
 typeOf: plane
+displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+- {type: secondary, location: Astral Plane}
 dm_owner: joint
 dm_notes: none
 ---

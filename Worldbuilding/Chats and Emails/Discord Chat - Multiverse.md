@@ -4,7 +4,7 @@ have not got very far due to actual work, but throwing out this thought for comm
 
 i think that the extraplanar geography needs a bit of rearranging. 
 
-energy realms make total sense and I like the traditional D&D 5e Elemental Planes. The ethereal plane and the plane of magic connect nicely here. 
+energy realms make total sense and I like the traditional D&D 5e Elemental Planes. The [[ethereal plane]] and the plane of magic connect nicely here. 
 
 echo realms make total sense as well, although the shadowfell might need a little bit of thought. it isn't obvious that fey need two planes, and it is a natural locus for undead, so might make more sense as an undead plane in a sense, but need to think about that in the context of the metaphysics of death. 
 
@@ -13,7 +13,7 @@ however i'm increasingly feeling like the outer planes don't really work. there 
 (2) the realms of incorporeal gods, of which [[Shakun's Realm]] is the clearest, but which also canonically are not always a separate realm for each deity, e.g. Arkaash is supposed to be the realm of the Dunmari Pantehon
 (3) what I've called the "primal realms": Arborea, the Abyss, Pandemonium, others. These are explicity not associated with deities, or at least not with the Divine Presence (but e.g. Pandemonium might be associated with Jinnik)
 (4) the [[Dreamworld]], the Land of the Dead, the [[Plane of Souls]] don't fit obviously into this, although it is canonically established that you can reach the [[Dreamworld]] via the [[Plane of Souls]], and the Land of the Dead is a "dividing line" somehow for divine power
-(5) the Astral Plane, which might not even exist? Or might be connected to the [[Plane of Souls]] and/or the Dreamworld
+(5) the [[Astral Plane]], which might not even exist? Or might be connected to the [[Plane of Souls]] and/or the Dreamworld
 
 
 [7/18/2024 2:29 PM] rsulfuratus
@@ -401,15 +401,15 @@ I like that a lot actually
 
 
 [7/18/2024 6:45 PM] rsulfuratus
-I think that I would the astral plane basically the undifferentiated [[Soulstuff]] beyond the land of the dead (while the [[Plane of Souls]] is the differentiated [[Soulstuff]] on the material plane side of the land of the dead)
+I think that I would the [[astral plane]] basically the undifferentiated [[Soulstuff]] beyond the land of the dead (while the [[Plane of Souls]] is the differentiated [[Soulstuff]] on the material plane side of the land of the dead)
 
 
 [7/18/2024 6:46 PM] rsulfuratus
-and then any plane made of [[Soulstuff]] floats in the astral plane and has some kind of origin story
+and then any plane made of [[Soulstuff]] floats in the [[astral plane]] and has some kind of origin story
 
 
 [7/18/2024 6:47 PM] .deciusmus
-I’m not convinces the astral plane needs to exist
+I’m not convinces the [[astral plane]] needs to exist
 
 
 [7/18/2024 6:48 PM] .deciusmus
@@ -425,7 +425,7 @@ I think it is the Divine Presence imbuing some if its creative magic into someth
 
 
 [7/18/2024 6:52 PM] rsulfuratus
-also re: astral plane, I think it is useful to have a way to travel to the outer planes that isn't plane shift
+also re: [[astral plane]], I think it is useful to have a way to travel to the outer planes that isn't plane shift
 
 
 [7/18/2024 6:52 PM] .deciusmus
@@ -437,7 +437,7 @@ I don't know but I'm not sure there is any reason for them to be
 
 
 [7/18/2024 6:54 PM] .deciusmus
-What about the idea that the divine presence basically creates the astral plane - the source of soul stuff - in imitation or learning from the plane of magic - and elves and dwarves and everyone else is created when the embodied gods pass the soul stuff from the astral plane to the [[Plane of Souls]]
+What about the idea that the divine presence basically creates the [[astral plane]] - the source of soul stuff - in imitation or learning from the plane of magic - and elves and dwarves and everyone else is created when the embodied gods pass the soul stuff from the [[astral plane]] to the [[Plane of Souls]]
 
 
 [7/18/2024 6:55 PM] .deciusmus
@@ -734,7 +734,7 @@ One stab at a synthesis...
 
 In the Age of Myth, all was changeable, and the flexibility of raw magical energy meant that although an infinite number of things could be created, at the same time nothing was "real". Only the children of the divine, not their creations, had permenance/self/soul, for they had been given soul-stuff by the Divine. These direct children of the divine are rare and powerful, basically they are the same as the embodied gods metaphysically. 
 
-In the moment of the RIving, however, with the creation of the Astral Plane and the the [[Plane of Creation]], the echoes and reverberations allowed this soul stuff to be "caught" by some of the echoes and creations of the Children of the Divine, giving them permeance and self, and power, in some sense proportional to the luck/skill/whatever that allowed one fey bundle of magic to catch much more of the essence of creation than another
+In the moment of the RIving, however, with the creation of the [[Astral Plane]] and the the [[Plane of Creation]], the echoes and reverberations allowed this soul stuff to be "caught" by some of the echoes and creations of the Children of the Divine, giving them permeance and self, and power, in some sense proportional to the luck/skill/whatever that allowed one fey bundle of magic to catch much more of the essence of creation than another
 
 
 [7/26/2024 1:34 PM] .deciusmus
@@ -832,7 +832,7 @@ so, to summarize, I think the logic is:
 
 (a) Sentient, self-aware creatures that are native to the "inner realms" (echo realms + energy realms + anything else that might be invented that is "protected" from the raw power of the [[Plane of Creation]] by the Land of the Dead), are sentient and self-aware because they are animated by a fragment of ~[[Soulstuff]]~. When they die, this fragment typically travels to the Land of the Dead, and eventually passes beyond into the "Outer Realms". 
 
-(b) Sentient, self-aware creatures native to the "outer realms" (spiritual realms + astral plane + anything on the "[[Plane of Creation]]" side of the Land of the Dead) are pure beings of [[Soulstuff]], manifest into physical form. When killed in the "inner realms", they return to their native plane, possibly changed. They can only be fully destroyed when beyond the Land of the Dead. 
+(b) Sentient, self-aware creatures native to the "outer realms" (spiritual realms + [[astral plane]] + anything on the "[[Plane of Creation]]" side of the Land of the Dead) are pure beings of [[Soulstuff]], manifest into physical form. When killed in the "inner realms", they return to their native plane, possibly changed. They can only be fully destroyed when beyond the Land of the Dead. 
 
 (c) Some creatures (many constructs, some undead, simlacrums, perhaps some elementals, etc) are sentient and self-aware but only by using the raw energy of the Plane of Magic in imitation of "[[Soulstuff]]". These creatures simply cease to exist if destroyed, wherever they are.
 

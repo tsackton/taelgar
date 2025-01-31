@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
 whereabouts: 
 - {type: home, location: Spiritual Realms, wHome: "A <typeOf> in the <home:1>"}
 typeOf: plane
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # Abyss
 >[!info]+ Information  

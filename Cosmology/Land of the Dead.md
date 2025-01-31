@@ -3,8 +3,10 @@ headerVersion: 2023.11.25
 tags: [place]
 name: Land of the Dead
 aliases: [River of Souls, Divine Veil]
+displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+- {type: secondary, location: Astral Plane}
 typeOf: plane
 dm_notes: none
 dm_owner: tim
@@ -19,7 +21,7 @@ The Land of the Dead is universally acknowledged, by diverse religious and metap
 >[!quote] Descriptions of the Land of the Dead
 >The journey of the soul is a common motif in art and literature, often based upon the experiences of those who have returned from the dead, although these people usually struggle to articulate exactly what they saw there. 
 >
->The most famous depiction comes from the epic poem _[[The Song of the Shattered, Reborn]]_, which describes the Land of the Dead as a vast gray expanse, empty except for the occasional distant clump of humanoid figures, the ground a uniform fine gray silt, the sky a quite and unchanging day, a gray, monochrome sun hanging in the sky. Vividly, this epic describes the pull of the far shore, the ground itself as flowing like an outgoing tide, gently and inexorably drawing one forward. 
+>The most famous depiction comes from the epic poem _[[The Song of the Shattered, Reborn]]_, which describes the Land of the Dead as a vast gray expanse, empty except for the occasional distant clump of humanoid figures, the ground a uniform fine gray silt, the sky quiet and unchanging, a gray, monochrome sun hanging in the sky. Vividly, this epic describes the pull of the far shore, the ground itself as flowing like an outgoing tide, gently and inexorably drawing one forward. 
 >
 >In [[Mos Numena]] theology, the Land of the Dead is often described as (and sometimes referred to) as a River of Souls, souls flowing from their source on the [[Material Plane]] back to the ocean of the [[Divine Realms]]. Indeed, the metaphor is often extended to describe the miracle of the [[Gifting of the Soul]] as Divine rain that falls on the world. It is from Mos Numenan poets and writers that we get the vivid descriptions of the Land of the Dead as vast warm twilight sea in which the souls of the dead gently float together. In the words of the priest [[Emmeline of Fellburn]], who wrote of her experience returning from the dead, "The first moment I remember is walking, across a sandy shore, the ground cool beneath my feet, the sky dark, the land lit by a twilight glow from beneath my feet. As I walked - I do not know how long - I began to sink, and as I did the sand grew finer, and finer, until I was swallowed up, and found myself being pulled along in a twilight land, no horizon that one could see. Others gathered to me, drifting nearby, but never close enough to reach. The light grew brighter and brighter ahead and the current pulling me grew stronger and stronger. Then I was pulled back, as if by a rope."
 >

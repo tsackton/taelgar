@@ -18,7 +18,7 @@ Giradi are the guardians, protectors, and guides of souls while they traverse th
 %%
 Some notes moved from the [[Metaphysics of Souls]] page that would be ideal to eventually capture in a perfected version of this page:
 
-* These shepherds enforce rules, and are the ones who prevent, say, demon lords from just camping out in the Land of the Dead and consuming souls as they flow past. 
+* These shepherds enforce rules, and are the ones who prevent, say, demon lords from just camping out in the [[Land of the Dead]] and consuming souls as they flow past. 
 * Some cultures might see them as celestials, representatives of the gods, although the reality is more complicated. 
 * Other cultures are completely unaware of their existence.
 %%

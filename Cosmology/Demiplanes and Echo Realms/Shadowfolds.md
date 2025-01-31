@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/name]
-displayDefaults: {defArt: the, wHome: "Domains in the <home:1x>"}
 typeOf: plane
 whereabouts: Echo Realms
 dm_notes: none

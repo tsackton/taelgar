@@ -34,7 +34,7 @@ the original concept of the riving pre-dates the invention of the [[Plane of Cre
 so in that pre-[[Plane of Creation]] cosmology, the riving was effectively all the inner planes mixed together
 and dominated by arcane magical energy
 the riving creates the Firstborn, pulls apart the inner planes, but it was never really resolved how the [[Land of the Dead]] / plane of souls / spiritual realms come into existence
-i think i'm coming around to the idea that the plane of souls possibly always existed, and maybe the riving stretches the plane of souls into the astral plane and perhaps even creates the [[Plane of Creation]] as a home/embodiment of the divine presence, behind the wall of the [[Land of the Dead]]
+i think i'm coming around to the idea that the plane of souls possibly always existed, and maybe the riving stretches the plane of souls into the [[astral plane]] and perhaps even creates the [[Plane of Creation]] as a home/embodiment of the divine presence, behind the wall of the [[Land of the Dead]]
 so that would imply the riving creates the [[Land of the Dead]], but not the plane of souls which predates it
 (more in a bit if you are around, have to get Nathaniel to finish his homework)
 Deciusmus — Today at 8:20 PM

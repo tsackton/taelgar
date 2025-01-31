@@ -12,7 +12,7 @@ Theological cosmologists, dating back to the influential Drankorian work [[On th
 
 The [[Embodied Gods]], as even a cursory knowledge of the theology of any of the [[Elder Folk]] reveals, must have some extraplanar locus of their power, independent from the [[Divine Presence]]. All have heard the stories of [[Dwarves|dwarves]] traveling to the divine locus of the [[Bahrazel]], which they call the [[Heart of the Mountain]]; or the tales of the strange powers of ancestral memory the [[Halflings|halflings]] possess from being able to access the divine locus of the [[First Ones]]. These extraplanar places, the homes of the [[Embodied Gods]], are referred to as the Divine Realms in the [[Standard Multiversal Model]]. 
 
-The nature of the [[Incorporeal Gods]], however, has long been a puzzle and matter of contention about theologians and philosophers. The current theological consensus, at least among scholars of the [[Mos Numena|Eight Divines]], suggests that [[Incorporeal Gods]] are best though of as manifestations of the [[Divine Presence]] itself, with memory and an independent mind and power, but located within the nexus of the [[Plane of Creation]] itself. Indeed, the famous first stanza of the ancient Mos Numenan lyrical poem, "Blossom of the Eightfold Light," hints at the connected nature of the Divine Realm with the Plane of Creation:
+The nature of the [[Incorporeal Gods]], however, has long been a puzzle and matter of contention about theologians and philosophers. The current theological consensus, at least among scholars of the [[Mos Numena|Eight Divines]], suggests that [[Incorporeal Gods]] are best though of as manifestations of the [[Divine Presence]] itself, with memory and an independent mind and power, but located within the nexus of the [[Plane of Creation]] itself. Indeed, the famous first stanza of the ancient [[Mos Numena|Mos Numenan]] lyrical poem, "[[Blossom of the Eightfold Light]]," hints at the connected nature of the Divine Realm with the Plane of Creation:
 
 *Not sundered, nor a realm apart, but rising,*  
 *Rooted in light, yet swayed by unseen currents,*  
@@ -33,5 +33,16 @@ A fair bit of discussion:
 - [[Discord Chat - Divine Power in Taelgar]]
 - [[Discord Chat - Homes of Incorporeal Gods]]
 - [[Discord Chat - Multiverse]]
+
+## List of Divine Realms
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Place"], 
+			dv.pages("#place")
+				.where(f => util.inLocation("Divine Realms", f.file.frontmatter, dv.current().pageTargetDate))
+				.sort(b => util.s("<maintype>", b.file))
+				.map(b => [util.s("<name:x>", b.file)]))
+```
 
 %%^End%%

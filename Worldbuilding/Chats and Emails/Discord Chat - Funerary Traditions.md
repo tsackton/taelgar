@@ -5,7 +5,7 @@ My players are constantly asking about what people do with bodies, esp in the fa
 [1/27/2024 10:36 AM] rsulfuratus
 there is a lot there and i'm not convinced all of really needs to be canonical, but also don't think any of it is necessarily very wrong.
 
-on the topic of necromancy, i think there is an important distinction between mindless corporeal undead (skeletons, zombies) which don't affect the soul at all, and things like ghosts, specters, wraiths which represent a trapped soul unable to reach the land of the dead.
+on the topic of necromancy, i think there is an important distinction between mindless corporeal undead (skeletons, zombies) which don't affect the soul at all, and things like ghosts, specters, wraiths which represent a trapped soul unable to reach the [[land of the dead]].
 
 plenty of people would see the former as a violation and evil, and I would imagine that cremation and/or burial on sacred ground would be commonly seen as a way to prevent that. 
 

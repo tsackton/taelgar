@@ -22,4 +22,15 @@ Followers of [[Yendalism]] typically add a fifth truth to this list:
 Open Questions:
 - [[Cosmology - Open Questions]]
 
+## List of Spiritual Realms
+
+```dataviewjs
+const { util } = customJS
+dv.table(["Place"], 
+			dv.pages("#place")
+				.where(f => util.inLocation("Spiritual Realms", f.file.frontmatter, dv.current().pageTargetDate))
+				.sort(b => util.s("<maintype>", b.file))
+				.map(b => [util.s("<name:x>", b.file)]))
+```
+
 %%^End%%
