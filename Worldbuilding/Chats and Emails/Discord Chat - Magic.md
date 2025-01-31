@@ -25,7 +25,7 @@ I saw the email just reading it now while I eat lunch
 
 
 [3/21/2024 1:07 PM] rsulfuratus
-the only fundamental thing about magic is that all magic in taelgar represents the manipulation of extranplanar forces in some way. there is a "magic in taelgar" note in worldbuilding/brainstorming
+the only fundamental thing about magic is that all magic in taelgar represents the manipulation of extranplanar forces in some way. there is a "[[magic in taelgar]]" note in worldbuilding/brainstorming
 
 
 [3/21/2024 1:08 PM] rsulfuratus
@@ -123,7 +123,7 @@ all those people could be manipulating divine magic in various ways, with very d
 👍
 
 [3/21/2024 1:30 PM] rsulfuratus
-anyway I have a meeting now but maybe I'll update the magic in taelgar notes later today
+anyway I have a meeting now but maybe I'll update the [[magic in taelgar]] notes later today
 
 
 [3/21/2024 1:31 PM] .deciusmus

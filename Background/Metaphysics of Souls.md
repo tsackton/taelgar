@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [background]
-excludePublish: ["clee"]
+tags: [background, status/cleanup/text]
+excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
 ---

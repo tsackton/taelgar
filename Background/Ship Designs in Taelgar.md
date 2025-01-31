@@ -1,7 +1,8 @@
 ---
 tags: [background]
+excludePublish: ["all"]
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 
 

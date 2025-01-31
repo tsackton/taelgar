@@ -15,7 +15,7 @@ dm_notes: important
 
 *It is a story of generations, of echos, of the wanderer Wellby whose song burned bright, burns bright, will burn bright, of his companions who travel, traveled, will travel with him, of the people and places and hearts they touched, will touch, have touched.*
 
-*Long ago, now, tomorrow, an emperor wishes to rule: Apollyon he is called. His song is, was, will be one of anger, of arrogance, of the violence of hate; his soul breeds darkness, a vision of sterile purity  that corrupts all it touches.*
+*Long ago, now, tomorrow, an emperor wishes to rule: Apollyon he is called. His song is, was, will be one of anger, of arrogance, of the violence of hate; his soul breeds darkness, a vision of sterile purity that corrupts all it touches.*
 
 *A devil he sought, seeks, will seek. The power of enchanting and twisting, of coercion and control. It is no easy thing to trick a devil, to bind it, to sear away its essence, and yet the Emperor does this, did this, will do this. The devil is caught, a servant of Fierna, a champion of the twisting of minds, and yet its mind is the one bound into the fresh silver of the scepter. And unbound too, for even now the there are echoes of the story's end. 
 
