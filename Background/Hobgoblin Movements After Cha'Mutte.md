@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/needswork/old]
+tags: [background, status/cleanup/incomplete, status/cleanup/map]
+excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
 ---
