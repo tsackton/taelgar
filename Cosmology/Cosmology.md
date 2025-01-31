@@ -83,7 +83,21 @@ TABLE
 FROM "Cosmology"
 WHERE excludePublish
 FLATTEN excludePublish as pubEx
-SORT pubEx
+SORT length(file.inlinks) DESC
+
+```
+
+## Unnamed In-Links
+
+Pages that link to a cosmology page and are currently unnamed. 
+```dataview
+TABLE 
+    length(file.inlinks) AS Backlinks
+FROM ""
+WHERE 
+    startswith(file.name, "~") AND
+    any(filter(file.inlinks, (b) => contains(meta(b).path, "Cosmology")))
+SORT length(file.inlinks) DESC
 
 ```
 
