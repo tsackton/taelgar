@@ -113,9 +113,33 @@ Two major non-human cultures exist before the Great War: the elves of [[Ainumary
 %% not updated below %%
 ## After the Great War
 
-The Great War didn't really end in the west with the death of Cha'mutte, as the massive army reserves in Pandar, with no food or supplies, turned south. 
+At the end of the Great War, a large army (Cha'mutte's Northern Army) has conquered most/all of "Northern Realm 4", and sits at the frontiers of Amani and Volganis. From this, we can divide the broad sweep of west coast history into four eras. 
+### The Conclave War Period
 
-(map should not be considered completely canonical)
+**Roughly DR 1545 - DR 1560**
+
+During this period, the [[Hobgoblin Movements After Cha'Mutte#Eastern Split|Eastern Branch]] of Cha'mutte's Northern Army moves decisively south in a war of revenge, destroying much of the elven forests and sweeping to the Chasa River Valley in the course of a few years, then continuing in a path of destruction west along the river towards Chardon. The [[Conclave War]] ends with a decision Chardon victory at the [[Battle of Metium]], tentatively around 1556. The Conclave War leaves Volganis, [[Ainumarya]], and much of the upper portion of the [[Chasa River Valley]] in ruins and largely, if not entirely, depopulated. 
+
+After the defeat of the dragon conclave, many hobgoblins are slain by Chardonian forces, but some, under the banner of the Shattered Ice clan, flee east (possibly fighting a small war against the Myraeni Gap people), and settle to lick their wounds around the desolation of Urlich and the Sentinels west of Sembara. They become a major force in Sembaran history, but cease to significantly influence the west coast. 
+
+Also during this period, the [[Hobgoblin Movements After Cha'Mutte#Central Split|Central Branch]] of Cha'mutte's Northern Army moves south into Amani. Amani holds out for longer, and perhaps some people flee to Northern Realm 1 and Northern Realm 5, but by the end of this period the ~Amani War~ is over with a decisive defeat for Amani, which is brutally subjugated by ~something~ (might be hobgoblins, but more likely is something else). 
+
+At the end of the Conclave War Period, you have:
+- [[Ainumarya]], Amani, Volganis, and NR 4 destroyed completely; the Chasa River significantly ruined.
+- Some kind of evil realm occupying the land that was once Volganis. 
+- Shattered Ice hobgoblins living in the Sentinels but turning their attention east ([[Mezzar|Grimbaskal]] could be starting to become a player in the eastern edges of the forests) (possibly there are skirmishers with Myraeni people). 
+- Mawar hiding in the fog
+- Chardon greatly weakened, and falling back to its core hinterlands. 
+- Remnants of NR 1 and NR 5 maintaining fortifications and defenses against the "Central branch evil realm"; unclear to what extent this is an active war and for how long it is an active war vs a sporadic war. 
+- Apporia under Illorian control, part of the pirate kingdom of [[Chirce]]
+- Yeraad river cultures mostly being insular and laying low
+
+### Retrenchment
+
+**DR 1560 - DR 1597**
+
+
+
 
 ![[Chardon-expansion-BloodYears.jpg]]
 

@@ -151,6 +151,19 @@ SORT length(file.inlinks) DESC
 
 ```
 
+Pages with non-"all" publish exclusions
+
+```dataview
+TABLE 
+    length(file.inlinks) AS Backlinks,
+    exPub as "Publish Exclusions"
+FROM "Background"
+WHERE !contains(excludePublish, "all") and excludePublish
+FLATTEN excludePublish as exPub
+SORT length(file.inlinks) DESC
+
+```
+
 ## Unnamed In-Links
 
 Pages that link to a background page and are currently unnamed. 
