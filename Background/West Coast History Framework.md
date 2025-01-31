@@ -110,13 +110,12 @@ Whether anyone lives in the areas marked 3 and 4 above is not clear, and if some
 
 Two major non-human cultures exist before the Great War: the elves of [[Ainumarya]], which is the largest and most powerful elven realm at the time, and the lizardfolk of the [[Yeraad River Basin]], also an extensive and significant non-human culture. 
 
-%% not updated below %%
 ## After the Great War
 
 At the end of the Great War, a large army (Cha'mutte's Northern Army) has conquered most/all of "Northern Realm 4", and sits at the frontiers of Amani and Volganis. From this, we can divide the broad sweep of west coast history into four eras. 
 ### The Conclave War Period
 
-**Roughly DR 1545 - DR 1560**
+**Roughly DR 1545 - DR 1556**
 
 During this period, the [[Hobgoblin Movements After Cha'Mutte#Eastern Split|Eastern Branch]] of Cha'mutte's Northern Army moves decisively south in a war of revenge, destroying much of the elven forests and sweeping to the Chasa River Valley in the course of a few years, then continuing in a path of destruction west along the river towards Chardon. The [[Conclave War]] ends with a decision Chardon victory at the [[Battle of Metium]], tentatively around 1556. The Conclave War leaves Volganis, [[Ainumarya]], and much of the upper portion of the [[Chasa River Valley]] in ruins and largely, if not entirely, depopulated. 
 
@@ -130,37 +129,46 @@ At the end of the Conclave War Period, you have:
 - Shattered Ice hobgoblins living in the Sentinels but turning their attention east ([[Mezzar|Grimbaskal]] could be starting to become a player in the eastern edges of the forests) (possibly there are skirmishers with Myraeni people). 
 - Mawar hiding in the fog
 - Chardon greatly weakened, and falling back to its core hinterlands. 
+- The "north Drankorian provinces" feeling relief and largely untouched, although likely disorganized and squabbling over alliances and territory as there are wars pressing close on all their borders. 
 - Remnants of NR 1 and NR 5 maintaining fortifications and defenses against the "Central branch evil realm"; unclear to what extent this is an active war and for how long it is an active war vs a sporadic war. 
 - Apporia under Illorian control, part of the pirate kingdom of [[Chirce]]
 - Yeraad river cultures mostly being insular and laying low
 
 ### Retrenchment
 
-**DR 1560 - DR 1597**
+**Roughly DR 1556 - DR 1597**
 
+Near the beginning of this period, hobgoblins from the [[Hobgoblin Movements After Cha'Mutte#Western Split|West Branch]] of Cha'mutte's Northern Army appear on the north Chardon coast. It is not completely determined how they arrive - by sea is most likely, although there is a narrow path between the Tawir Forest and the Mawakel Border Mountains that could allow invasion by land. These hobgoblins quickly conquer the squabbling kingdoms here. The exact extent of their advance is not canonically determined, but they are stopped somehow in the south by Chardon, although Chardon does not have the force to achieve more than a stalemate, and is stuck with a frozen conflict in the north, probably along one of the rivers, for a while. 
 
+In this period is also the [[War of the Dark Rift]], which upends Illorian control of Apporia and leaves Chardon surrounded by enemies. 
 
+Other events:
+- With refugees from the north, the population of Chardon swells and resettlement of the Chasa River valley begins. This is more or less the first part of the Chardonian Empire. 
+- Possibly some remnant realms in the southwest shores of [[Lake Valandros]] also survive the hobgoblin onslaut and enter into mutual defense pacts -- precursors of imperial rule -- with Chardon. 
 
-![[Chardon-expansion-BloodYears.jpg]]
+It is likely that during the period the remnants of NR 5, on the north shores of Lake Valandros, are impoverished, maybe destroyed. 
 
-The rough model here is that you have two waves of advances from the north. The dragon conclave and allies (in red), who sweep through the northern kingdoms (in yellow on map above), the elves, and advance down the Chasa until they are defeated outside Chardon. The timeline on the map isn't necessarily accurate. 
+However, this period ends with hope:
+- While the hobgoblin kingdoms remain, they are not expansionist for whatever reason
+- The Evil realm is defeated (somehow, tbd), which leads to Mawar reemerging and a northern renaissance. 
+- Chardon defeats the Shadow Armada of the Umbral Covenant, and realizes it is strong. The vibe here is that the victory against the dragon conclave felt like a defeat - a huge number of Chardonians died and the city itself survived just barely. The victory against the Shadow Armanda was different - Chardon won, decisively. 
 
-The consequence of this advance is mostly destruction: the northern kingdoms are entirely wiped out, especially 2, 3, and 4 in yellow on first map. Refugees flee west and south (1 and 5 on the first map).
+At the end of the Retrenchement Period, you have:
+- Evil realm defeated, and the reemergence of the northern coastal culture, with Mawar and NR 5, on the coast, forming the basis of a renaissance.
+- Shattered Ice hobgoblins are moving east into Sembara
+- The Chardonian Empire is coming into existence, initially with the Chasa River Valley
+- The "north Drankorian provinces" are largely ruled by hobgoblins, with some hill kingdoms perhaps still near Lake Valandros fighting against them. 
+- The remnants of NR 1 are unclear at this point. 
+- Apporia, emerging from the Dark Rift War, is becoming incorporated in the Chardonian Empire
+- Yeraad river cultures mostly being insular and laying low
 
-The second advance (probably hobgoblins) is more methodical and aims to conquer territory, not wipe out people. This advance is stopped north of Chardon, but for some time (not clear exactly how long), Chardon doesn't have the resources to march north. 
+### Hobgoblin Wars
 
-Then, at some point, the Chardon Empire begins to grow. Probably the motivation here is the realization that this is why Drankor had an empire, because sometimes dragons show up to kill you and you need an empire to keep people alive. 
-- With the dragon conclave defeated, the Chasa river valley is resettled and rebuilt, essentially becoming the first part of the Chardonian Empire
-- Over some years? a generation? longer? Chardon drives north, slowly freeing the people of the coast ruled by hobgoblins and incorporating them into the empire (timing of this should be checked against Mawar fog timing)
-- at this stage, the Chardonian Empire is Chasa + agricultural coast, probably at least the southern and western coastline of Lake Valandros.
-- this is stable for a while, but then someone discovers chalyte in the mountains near Voltara, and Chardon moves north to control the chalyte mines. 
-- left unclear is the Yeraad river valley
+Roughly **DR 1597 - DR 1675** 
 
-So in 1749 (putting aside Yeraad river valley):
-- Chardon and the Chasa watershed are the most distinctly Chardonian in some sense
-- the north agricultural coast and the western/southern shores of Lake Valandros probably has largely the same people living there since forever, who have seen their rulers change from minor princes pre-Great-War to hobgoblins to the Chardonian Empire; they largely would likely see the Chardonian Empire in a very positive light
-- the north is more complicated
-	- the Chardonian Empire definitely rules the north shore of Lake Valandros now, but this might be a bit more fraught; many of these people are the descendants of the yellow kingdoms in first map, and are less likely to be well integrated into the empire
-	- north of where the river splits, the plains are probably not densely settled; Chardon maintains a number of garrisons to protect chalyte caravans heading south but the area especially "between the rivers" is probably not under particularly solid political control.
-	- Voltara itself is fortified and relatively new; the plains around it are dangerous to the north and east, relatively safe to the south and west due to Chardonian garrisons. 
-	- towards the coast, it is not clear that the Chardonian Empire controls the coastline either around the Tawir forest, or south/west of the Voltara mountains. these are probably instead still the remnants of the old "yellow kingdoms"
+At this stage, Chardon is growing into is power as an empire, and the obvious next step is to drive the hobgoblins out. This is a war over a generation or two, a long, slow process that consumes much of the resource of the Chardonian Empire. 
+
+This leaves things open for the Mawar Renaissance to be the dominant/central focus in this era. 
+
+The major events are:
+- The Chardon hobgoblin wars. These should be draining. Possibly it is during this era that other bits of people accrete to the empire, e.g. the far west of Apporia and the northern part of the Yeraad cultures (not the highlands or Myraeni). This could be a vibe of initially a unified alliance to fight the hobgoblins. 
