@@ -14,7 +14,7 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Dreamworld is a place about which much has been written and little is truly known. The Dreamworld is considered an [[Echo Realms|Echo Realm]] of the [[Plane of Souls]] in the [[Standard Multiversal Model]]; the fundamental plane of imagination in the writings of [[~Famous Tyrwinghan Scholar~]]; the realm of prophecy and locus of connection to the guidance of the ancestors to [[Lizardfolk]] mystics; and is described by the [[fey]] as a plane of vibrant wildness where those of strong mind can shape the dreams of others in the writings of [[Camilla of Drankor]]. 
+The Dreamworld is a place about which much has been written and little is truly known. The Dreamworld is considered an [[Echo Realms|Echo Realm]] of the [[Plane of Souls]] in the [[Standard Multiversal Model]]; the fundamental plane of imagination in the writings of [[Emyr of Tafolwern]]; the realm of prophecy and locus of connection to the guidance of the ancestors to [[Lizardfolk]] mystics; and is described by the [[fey]] as a plane of vibrant wildness where those of strong mind can shape the dreams of others in the writings of [[Camilla of Drankor]]. 
 
 It is said that everyone who travels to the Dreamworld perceives something different and unique to themselves, making any attempt at scholarly categorization and study difficult, if not impossible. As the classic Drankorian text [[On Metaphysics]] says: *The Dreamworld is a strange echo of the [[Plane of Souls]], a place where time is unpredictable and all the imaginings of all the sentient beings who have or ever will live are reflected in dreams.*
 
