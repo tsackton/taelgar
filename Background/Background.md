@@ -89,7 +89,7 @@ SORT length(file.inlinks) DESC
 
 ## Unnamed In-Links
 
-Pages that link to a cosmology page and are currently unnamed. 
+Pages that link to a background page and are currently unnamed. 
 ```dataview
 TABLE 
     length(file.inlinks) AS Backlinks

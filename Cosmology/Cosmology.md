@@ -9,6 +9,9 @@ dm_notes: none
 
 This directory contains **in-world** pages about the planes and related concepts. Could be published as is, or selectively, or not at all, as desired.  
 
+Open Questions:
+- [[Cosmology - Open Questions]]
+
 ## Tagging
 
 ```dataview
