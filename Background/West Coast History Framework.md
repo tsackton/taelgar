@@ -172,3 +172,17 @@ This leaves things open for the Mawar Renaissance to be the dominant/central foc
 
 The major events are:
 - The Chardon hobgoblin wars. These should be draining. Possibly it is during this era that other bits of people accrete to the empire, e.g. the far west of Apporia and the northern part of the Yeraad cultures (not the highlands or Myraeni). This could be a vibe of initially a unified alliance to fight the hobgoblins. 
+
+It is not completely clear what is happening on the north shore of Lake Valandros at this point. 
+
+This era ends with the Mindknife Wars, that hit the northern coastal cultures, especially Mawar, hard.
+
+### Chardonian Expansion
+
+Roughly **DR 1675 - DR 1750**
+
+As the hobgoblin wars end, Chardon controls the north coast, the south coast of Lake Valandros, the Chasa river valley, all of Apporia, and probably some "near" parts of the Yeraad river valley (Yeraad 1). The rest of the Yeraad, as well as everything north of Lake Valandros, is outside of direct Chardonian control at this point. 
+
+This is the chalyte expansion era of Chardon:
+- Chalyte is discovered in Voltara, and Chardon conquers north to control it, exerting control of the Voltara frontier and the northern shores of Lake Valandros (but not Mawar or NR 5 on the coast). 
+- Something is also discovered in the mountains, and Chardon conquers the rest of Yeraad (more or less) for this purpose, but it doesn't go well and Yeraad region 4 is never conquered, nor is the Illoria coast. 
