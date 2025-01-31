@@ -82,9 +82,16 @@ The Shattered Ice clan joins the Conclave War, but for whatever (as yet undeterm
 About a generation later, they launch the [[First Hobgoblin War (Sembara)]], and over the next 100 years conquer and then lose a bunch of territory in [[Greater Sembara]], (cf [[Timeline of Sembaran History#The Hobgoblin Wars]]). At the conclusion of the [[Third Hobgoblin War (Sembara)]], the Shattered Ice clan is functionally destroyed, although isolated hobgoblin raiding groups survive in the lower slopes of the Sentinels. 
 
 ### Western Split
+_[[~North Chardon Coast~]] Conquest, 1550s - 1650s_
 
-**To Do**
+On part of the northern army - potentially more interested in a place to live and conquest than revenge or destruction - appears on the North Chardon Coast in the 1550s. They methodically conquer the [[~North Chardon Coast~]] over the next several years (exact timeframe is unclear but likely a relatively quick push south, perhaps over just a year or so). This force is stopped by a Chardonian army somewhere not to far from Chardon, and then a stalemate occurs. 
 
+For the next 30 - 50 years, these western hobgoblins rule over a [[~North Chardon Coast~]] realm. Sometime after the [[War of the Dark Rift]], Chardon turns north and methodically eliminates these hobgoblins.
+
+Open questions:
+* How did they get to the north coast? Presumably some type of magic sailing option, but other ideas could be Cha'mutte's armbands/teleport stuff
+* What happened to them? Do any still linger i.e. in the [[~Mawakel Border Mountains~]] or [[Tawir Forest]] or elsewhere, or were they all wiped out by Chardon?
+* What is the timeline exactly? The 1550s to 1650s is not strictly canonical, but Chardon cannot be dominating the [[Northwest Coast]] until the 1650s-1670s, to give the Mawar renaissance a chance to blossom; these hobgoblins partly serve that purpose
 ### Central Split
 
 **To Do**
@@ -101,7 +108,7 @@ In the current day, the remnants of Cha'mutte's armies may be found:
 
 - In the Plaguelands, some remnant of the Iron Fang survived, and potentially established a robust hobgoblin realm somewhere in the Plaguelands. These have been relatively isolated from humans since their defeat in the [[Bloodlust Wars]], but could potentially be a source of any hobgoblin attack on Orenlas, Addermarch, or related areas. 
 - In the Plaguelands are also potentially some scattered remnants of the Southern Army, not really well organized into proper clans. These would occupy the far southeastern foothills of the Sentinels, and areas north, possibly along the upper reaches of the [[Kulthul]]. These hobgoblins are too disorganized and scattered to pose a significant threat, but could explain details such as watchtowers on the northwestern borders of [[Xurkhaz]], and the general vibe of defensive fortifications in [[Refounded Alliance of Aurbez]] and the [[March of Andonne]]. 
-- In the southern [[Sentinel Range|Sentinels]], around the destruction of [[Urlich Pass]] and the areas immediately south (e.g., the destroyed region of [[Ardith]]), some survivors of the [[Shattered Ice Clan]] and potentially other hobgoblins (e.g., remnants of the [[Dominion of Avatus]] who did not fight for Cha'mutte) linger. These are presumably not a well organized group either. 
+- In the southern [[Sentinel Range|Sentinels]], around the destruction of [[Urlich Pass]] and the areas immediately south (e.g., the destroyed region of [[Ardith]]), some survivors of the [[Shattered Ice Clan]] and potentially other hobgoblins (e.g., remnants of the [[Dominion of Avatus]] who did not fight for Cha'mutte) linger. These are presumably not a well organized group either, but they are a significant enough reserve to occasionally form warbands to try to raid against Sembara in an organized way. There needs to be a sufficient threat for the [[Army of the West]] to be professionalized and important, although the exact history between 1720 and 1749 is unclear.
 - It is possible - but not canonically determined one way or another - that other hobgoblins fled east or south from the fallout of the plague, and may exist in the northeastern part of the [[Drankorian Hinterland]] or the southern part ("[[~South Cymea~]]") of the [[Western Green Sea]]. 
 
 ### West of the Sentinels

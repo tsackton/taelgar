@@ -1,17 +1,116 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/cleanup/text]
-displayDefaults: {defArt: ""}
+tags: [place, status/needswork/wip]
+displayDefaults: {defArt: '' }
 typeOf: region
-whereabouts: Taelgar
+whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Greater Chardon
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Status:
+* [ ] In world intro
+* [ ] Map
+* [ ] Topography
+* [ ] Civilizations and Culture
+* [ ] History
+* [ ] Climate
+* [ ] Climate - Real World
+* [x] DM Notes
+%%
+
+{intro text}
+## Map
+
+{link to leaflet map of region}
+## Topography and Major Features
+_See more: {links}_
+
+{descriptive text of topography and major features}
+## Civilizations and Cultures
+_See more: {links}_
+
+{descriptive text of civilizations and cultures}
+## Climate
+
+{descriptive in world text about climate}
+
+%%^Campaign:None%%
+
+{real world climate analogs and inspiration}
+
+%%^End%%
+
+## Major Historical Eras
+_See more: {links}_
+
+This area saw much disruption and loss of life in the [[Blood Years]] and many details of the early history of the region are lost. The scholars of Chardon have preserved better records of the [[Drankorian Era]], and a rough history can be reconstructed. 
+#### Before Drankor
+_Before DR 597_
+Little is known of the history of this region before the [[Drankorian Western Wars|the coming of Drankor]].  It is widely believed that early migrants from [[Hkar]] lived along the [[~North Chardon Coast~]] in the shadow of [[Alcarinque|Alcarinquë]] before the [[The Downfall|Downfall]] but the cultures and civilizations these migrants formed during and after the Downfall is not recorded. 
+#### Western Wars
+_DR 597 - DR 634_
+Between DR 597 and DR 634, Drankor fought a series of [[Drankorian Western Wars|series of wars]] to force the people of the [[Yeraad River Basin]] and [[~North Chardon Coast~]] into the growing Drankorian Empire.  In the telling of the [[Faculty of History]] at the [[University of Chardon]], the  wars brought civilization and safety to a land full of dangers. The [[Society of Ocean Watchers]] in [[Hamri]] would tell a different tale, of Drankorian conquest seeking treasure and plunder, and agricultural land for their expanding empire, with no concerns for the inhabitants of the land.
+#### Drankorian Era
+_DR 634 - DR 1059_
+For the next five hundred years, Drankor ruled in peace and prosperity. The city of [[Chardon]] was founded, and grew and prospered. Few records are well attested of this time, although surely the [[Faculty of History]] has lost scrolls or hidden records that tell of the growth of the city of Chardon, at least.
+#### Fall of Drankor and Post-Imperial Era
+_DR 1059 - DR 1540_
+When Drankor fell to [[First Plague|plague]] and the empire shattered, the imperial provinces were left to fend for themselves. In the chaos, [[Chardon]] emerged as a leading light, first amongst equals in the post-Drankorian landscape, growing rich on the wisdom and fame of its [[University of Chardon|university]] and [[Great Library|library]], as well as trade with Dunmar through the [[Myraeni Gap]] and [[Sembara]] along the [[Yeraad]] river and over the [[Sentinel Range|Sentinels]] at [[Urlich Pass]].  Although tales of the small kingdoms that grew from the imperial provinces along the [[~North Chardon Coast~]] must exist, they are not widely known, and this period is largely a blank in the popular imagination.
+
+%% CHECK TIM -- THIS IS ALL NEW INVENTION, ALTHOUGH I'VE TRIED TO KEEP IT INLINE WITH YOUR NOTES %%
+#### The Blood Years
+_DR 1545 - DR 1597_
+Although the [[Great War]] ended in DR 1545, the vast army of [[Hobgoblins|hobgoblins]] and other terrors that [[Cha'mutte]] had amassed did not simply disappear. Over the next 30 years, two major wars were fought across the lands north of Chardon: the [[Conclave War]] and the to be named war against the hobgoblins. 
+
+basic idea: conclave war then in the 1560s a series of expansion of hobgoblins, stopped in 1561 or 1562, but not really peaceful - next 10 years are back and forth along the north chardon coast; but in 1574 some type of armistace line is drawn, splitting (or even leaving the hobgoblins with most of the coast). Perhaps there is another human kingdom involved here (the "yellow 5 kingdom from other maps"?) in the north, pincering the hobgoblins a bit. 
+
+chardon is settling chasa valley here
+
+#### Early Imperial Era
+_DR 1597 - DR _
+During mawar renai; hobgoblins are stilla round the malakel entrance, but somewhat hemmed in by something in the north so don't really have a good expansion plan; perhaps even being somewhat decent rulers in a way; chardon growing in the chasa valley but not really an empire just yet
+
+ DR 1597, when the Umbral Covenant launches the Shadow Armada to conquer Chardon, and loses badly - awakening moment - empire is working this is not like the conclave war at all leads to first serious wave of expansion
+#### Imperial Expansion
+_DR 1597 - present_
+three phases: 
+* apporia - 1597 - 1610 
+* 1650 - 1675 - conquest of hobgoblins; (mindknife war just after this)
+* 1690 - 1710 - chaylte
+
+
+Whatever the truth, in the first few decades of the 600th year since the founding of Drankor, the legions of empire swept through the region, and established suzerainty over all the land between the [[Tawir Forest]] in the north and [[Ainumarya]] in the east. Whatever the origins of this conquest, for almost 500 years the land prospered, and the city of [[Chardon]] was founded and grew. 
+
+When the [[Great War]] came, the lands north of [[Chardon]] bore the brunt of the attacks from [[Cha'mutte|Cha'mutte's]] armies, and even after his defeat, the [[Hobgoblins|hobgoblins]] did not vanish. The [[Blood Years]] saw the destruction of many of the small realms to the north, and during the [[Conclave War]] threatened [[Chardon]] itself. In the aftermath of these wars, the [[Chardonian Empire]] was born.
+
+
+
+
+%%^Campaign:None%%
+## DM Notes and Meta
+_See also: [[Places in Greater Chardon]]
+
+*Canonical Development and Constraints:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details. The general vibes of Illoria, and the existence of large lizardfolk communities in the [[Yeraad River Basin]], are canonical. The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. 
+
+*Brainstorming and Potential Canon:* While this region has a canonical history in broad strokes, many details are only weakly or non-canonically developed, or left blank. Although canonically most of this region is part of the Chardonian Empire, the local political cultures are largely undeveloped. 
+
+*Needs Development:* The history and current political culture of this region exists only in very broad strokes, for the most part, and could use additional development. The details of the smaller cities and provinces of the Chardonian Empire could use development as well. The Yeraad River and the associated lizardfolk settlements there are only weakly developed.
+
+*Intentionally Blank:* None.
+
+*Adventures:* The Dunmar Frontier campaign Chardon/Elderwood arc was partly set in this region, and the Apporia/Merfolk arc mostly set here. Despite the centrality of Chardon to the politics and culture of the Dunmar Frontier campaign, only a small number of sessions have been set in Greater Chardon.  
+
+*Important Places in Staging:* The [[~North Chardon Coast~]] and the [[~Chardon Hills~]] are the two most important places.
+
+%%^End%%
+
+
+%% OLD PAGE BELOW %%
 ## Overview
 
 ## Boundaries
@@ -61,11 +160,11 @@ Major features include a major river, large forests to the east against the ~Cen
 
 *Area:* This region stretches north from the [[~South Chardon River~]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[~North Chardon Coast~]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
 
-*Canonical Development and Constraints:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details; the immediate area of Voltara, and the Mawakel Peninsula, are also substantially developed. Most of the history of this region only exists in very broad strokes, although the Mawakel Peninsula has extensive historical development. 
+*Canonical Development and Constraints:* 
 
-*Non-Canonical Development:* While this region has a canonical history in broad strokes, many details are only weakly or non-canonically developed, or left blank. Although canonically most of this region is part of the Chardonian Empire, the local political cultures are largely undeveloped. 
+*Non-Canonical Development:* 
 
-*Blank Regions:* The  [[~North Chardon Coast~]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. The history and current political culture of this region exists only in very broad strokes, for the most part, and could use additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself. 
+*Blank Regions:* The  [[~North Chardon Coast~]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself. 
 
 *Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara; the Dunmar Frontier campaign Chardon/Elderwood arc was set in this region. 
 
@@ -73,7 +172,7 @@ Major features include a major river, large forests to the east against the ~Cen
 
 *Area:* This region includes the [[Apporia|Apporian Peninsula]], the islands of [[Illoria]], the [[Yeraad River Basin]], and the [[Nevos Sea]]. 
 
-*Canonical Development and Constraints:* The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. The general vibes of Illoria, and the existence of large lizardfolk communities in the [[Yeraad River Basin]], are canonical. There is some significant post-Great War historical development, mostly concerning Dunmar and Apporia, that involves Illoria and needs to be considered in any future developments concerning Illoria. 
+*Canonical Development and Constraints:* 
 
 *Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad River Basin]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
 
