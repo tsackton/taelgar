@@ -1,15 +1,20 @@
 ---
 tags: [background]
+excludePublish: ["all"]
 dm_owner: none
 dm_notes: none
 ---
+# Mining in Ardith
+
+This note collects some background information about the mineral wealth of the former dwarven kingdom of Ardith, and its impacts today. Key points:
+
+(1) The red area circled on the map below was never part of the dwarven kingdom of [[Ardith]], and is a relatively safe area, as these things go. But, it is also pretty marginal as a place to mine. Not much metal ores, although there are a few salt mines that are controlled by the Duke of Maseau as well as some low-quality iron ores.
+
+(2) The green area circled on the map below is closer to the ancient heart of [[Ardith]]. Though after the Great War this was largely abandoned, it remains a place with some significant degree of wealth - in the form of fully forged steel, weapons, and jewels, but mostly in open seams of ore with fantastically clever drains and ladders to make access to these deep and rich veins of ore possible. However, it is quite dangerous, and large groups almost always encounter disaster.
 
 ![[ardith-mining-map.png]]
 
-%% This is semi-canonical; 
-Additional comment from Tim: Yes, this is great. Even 100 years later in 1750 [[Ardith]] still has this sense of a massive, dangerous trove of lost treasure (hence why Chardon was hunting artifacts there, and why Riswynn was sent to recover her clans treasures). There is a whole under dark mini campaign I could run some day down there…
-
-One other thing to keep in mind - dwarven cities are connected by long roads, as they are called, that run for hundreds or thousands of miles underground. While historically they connected dwarven kingdoms, now they provide easy passage for aberrations of the deep to travel, find people invading the mines, and hunt them. %%
+### Notes from Ausson's Crossing Mini-Campaign
 
 If you take a look at the map above, the blue X is where Ausson's Crossing is. The red circled area is a relatively safe set of mountains, closer to Maseau. That never really major dwarven territory, but is also pretty marginal as a place to mine. Not much metal ores although there are a few salt mines that are controlled by the Duke of Maseau as well as some low-quality iron ores, but the dwarves were never a major presence in the red circle.
 
@@ -30,3 +35,9 @@ For others (and these are more common amongst the humans of Ausson's Crossing an
 As far as Soarine's story, what this means is that the Duke of Maseau wouldn't have sent a raiding party per se. Soarine clearly did hear of some treasure, and perhaps had a bit of the adventurer in him. But the Duke was actually looking to see if he could establish a larger mining operation, using the dwarven tunnels, but considering it abandoned land, and likely being fairly willing and respectful of the actual dwarven artifacts and forged goods. He learned that it isn't safe enough to do so -- when the mining party of thirty or fourty men that he sent out never returned, and Soarine went after them.
 
 And this was just a couple years ago, the place really hasn't gotten safer.
+
+### Additional Notes from Tim
+
+Even 100 years later in 1750 [[Ardith]] still has this sense of a massive, dangerous trove of lost treasure (hence why Chardon was hunting artifacts there, and why Riswynn was sent to recover her clans treasures). There is a whole under dark mini campaign I could run some day down there…
+
+One other thing to keep in mind - dwarven cities are connected by long roads, as they are called, that run for hundreds or thousands of miles underground. While historically they connected dwarven kingdoms, now they provide easy passage for aberrations of the deep to travel, find people invading the mines, and hunt them. 

@@ -5,7 +5,7 @@ tags: [place]
 whereabouts: 
 - {type: home, location: Energy Realms, wHome: "A <typeOf> in <home:2>"}
 typeOf: plane
-dm_notes: important
+dm_notes: none
 dm_owner: tim
 ---
 # Frostfell

@@ -1,3 +1,14 @@
+---
+headerVersion: 2023.11.25
+tags: [background, status/cleanup/incomplete]
+excludePublish: ["all"]
+dm_notes: none
+dm_owner: joint
+---
+# Magic in Taelgar
+
+This note collects background information about magic in Taelgar, particularly as it impacts society, to aid worldbuilding. 
+
 ## A Few Basic Truths
 
 Starting with a few basic observations about the world that should be maintained. 

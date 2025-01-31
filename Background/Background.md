@@ -9,28 +9,96 @@ dm_notes: none
 
 This directory generally should contain **meta** pages almost exclusively. Not intended to be published, but rather intended to be a place to store canonical information that informs worldbuliding but is not directly player-facing. 
 
-## Tagging
+## Tagging Information
+
+Excludes missing tags, which should be caught by [[Missing Tags]]
 
 ```dataview
 TABLE WITHOUT ID
   split(Combo, "\\|")[0] AS "Descriptive Tag",
   split(Combo, "\\|")[1] AS "Type",
   split(Combo, "\\|")[2] AS "SubType",
-    split(Combo, "\\|")[3] AS "Ancestry",
+split(Combo, "\\|")[3] AS "Ancestry",
   length(rows) AS "Count"
 
 FROM "Background" 
-FLATTEN file.tags AS tag 
+FLATTEN file.tags AS tag
 WHERE !startswith(tag, "#status")
 GROUP BY (tag + "|" + default(typeof, "none") + "|" + default(subtypeof, "none") + "|" + default(ancestry, "none")) AS Combo
 SORT Combo ASC
 
 ```
 
+## DM Frontmatter Info
 
-## Needs Work
+### Counts
+```dataview
+TABLE WITHOUT ID
+  split(Combo, "\\|")[0] AS "DM Owner",
+  split(Combo, "\\|")[1] AS "DM Notes",
+  length(rows) AS "Count"
 
-Cosmology pages that are stubs or need work.
+FROM "Background" 
+GROUP BY (default(dm_owner, "missing") + "|" + default(dm_notes, "missing")) AS Combo
+SORT Combo ASC
+
+```
+
+### DM Notes: Cleanup
+
+Pages that have anything except none in dm_notes
+
+```dataview
+TABLE 
+    length(file.inlinks) AS Backlinks,
+    dm_notes AS Notes
+FROM "Background"
+WHERE dm_notes != "none" or !dm_notes
+SORT dm_notes
+```
+
+
+### Nonstandard DM Owner
+
+Pages that have dm_owner not in: tim, mike, joint, player, none
+
+```dataviewjs
+// Define the list of allowed owners
+const allowedOwners = ["tim", "mike", "joint", "player", "none"];
+
+// Fetch all pages from the "Background" directory
+const pages = dv.pages('"Background"');
+
+// Filter pages where dm_owner contains any owner not in allowedOwners
+const filteredPages = pages.filter(page => {
+    // Ensure dm_owner exists and is a non-empty string
+    if (!page.dm_owner || typeof page.dm_owner !== "string") {
+        return true; // Exclude pages without dm_owner or with dm_owner not as a string
+    }
+
+    // Split the dm_owner string into an array, trimming whitespace
+    const owners = page.dm_owner.split(",").map(owner => owner.trim().toLowerCase());
+
+    // Check if any owner is not in the allowedOwners list
+    return owners.some(owner => !allowedOwners.includes(owner));
+});
+
+// Create the table with File, Backlinks, and Owner columns
+dv.table(
+    ["File", "Backlinks", "Owner"],
+    filteredPages.map(page => [
+        page.file.link,                // Clickable link to the file
+        page.file.inlinks.length,      // Number of backlinks
+        page.dm_owner                   // Owner(s) as the original string
+    ])
+);
+```
+
+
+## Pages with Status Tags
+### Status: Needs Work
+
+Includes stubs and active
 
 ```dataview
 TABLE 
@@ -44,9 +112,7 @@ SORT replace(tag, "#status/", "") ASC, length(file.inlinks) DESC
 ```
 
 
-## Check
-
-Cosmology pages that need checking. 
+### Status: Check
 
 ```dataview
 TABLE 
@@ -59,9 +125,7 @@ SORT replace(tag, "#status/check/", "") ASC, length(file.inlinks) DESC
 
 ```
 
-## Cleanup
-
-Pages that need cleanup.
+### Status: Cleanup
 
 ```dataview
 TABLE 
@@ -74,15 +138,15 @@ SORT replace(tag, "#status/cleanup/", "") ASC, length(file.inlinks) DESC
 
 ```
 
-## Publish Exclusions
+## Publishable Pages
+
+Pages with no publish exclusions. 
 
 ```dataview
 TABLE 
-    length(file.inlinks) AS Backlinks,
-    pubEx as "Publish Exclusions"
+    length(file.inlinks) AS Backlinks
 FROM "Background"
-WHERE excludePublish
-FLATTEN excludePublish as pubEx
+WHERE !excludePublish
 SORT length(file.inlinks) DESC
 
 ```
@@ -112,3 +176,4 @@ FROM "Worldbuilding/Staging"
 WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Background")))
 SORT length(file.inlinks) DESC
 ```
+

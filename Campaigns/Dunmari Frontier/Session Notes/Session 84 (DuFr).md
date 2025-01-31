@@ -42,7 +42,7 @@ We begin on Jan 1st, 1749, as the new year, by [[Tollen]] reckoning, dawns.
 
 *Among the [[Halflings]] in their ships and caravans traveling the world, the new year has started already, when the days began to lengthen after the winter solstice. The song of the Year of Shadowed Dreams is over, and the song of the new year is beginning.*
 
-*To the [[Elves|elves]], the turning of the year, the days growing shorter, and then longer, then shorter again, is merely a small part of the larger cycle of the ka, the elven count of generations, stretching back to the original [[Elves|elves]] who lived in the shadows of the Firstborn, and does not usually warrant much comment or celebration by itself.
+*To the [[Elves|elves]], the turning of the year, the days growing shorter, and then longer, then shorter again, is merely a small part of the larger cycle of the [[Elven Cycle of Generations|ka]], the elven count of generations, stretching back to the original [[Elves|elves]] who lived in the shadows of the Firstborn, and does not usually warrant much comment or celebration by itself.
 
 The party spends the day of the new year on [[Vindristjarna]], taking a much needed respite. [[Wellby]] works on his extensive maps; [[Kenzo]] tends the budding garden; [[Seeker]] tinkers with his mechanical creations; and [[Delwath]] watches the horizon, thinking. 
 

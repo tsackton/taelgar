@@ -20,7 +20,7 @@ The Plane of Creation is the name given by experimental theologists to the ultim
 
 The Plane of Creation plays a meaningful role in the magic of Taelgar, as the ultimate source of all divine magic. The exact metaphysical details are left undetermined, but there is significant brainstorming around several related points:
 
-- [[Magic in Taelgar Notes]]
+- [[Magic in Taelgar]]
 - [[Soulstuff]]
 - [[Discord Chat - Multiverse]]
 - [[Discord Chat - Divine Power in Taelgar]]

@@ -3,8 +3,8 @@ headerVersion: 2023.11.25
 tags: [background]
 name: Elven Cycle of Generations
 aliases: [ka]
-dm_owner: shared
-dm_notes: important
+dm_owner: joint
+dm_notes: none
 ---
 # Elven Cycle of Generations
 
@@ -123,3 +123,12 @@ Elves do not usually concern themselves with the passing of mere years, focusing
 
 (1) an early leya, marked by dreams of war, and an abrupt awakening
 (2) a slightly delayed leya, marked by a long dreaming of healing rest
+
+%%^Campaign:none%%
+
+Notes, discussion, and relevant brainstorming:
+- [[Discord Chat - Elves]]
+- [[Elven Generations]]
+- [[Notes on Elven Society]]
+
+%%^End%%

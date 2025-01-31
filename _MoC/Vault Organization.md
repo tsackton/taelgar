@@ -25,17 +25,19 @@ Messy directories have no clear meaning or consistent organization, and often op
 
 ### Finished Directories
 
+These directories have well defined content, and are organizationally correct, although all pages in them may not be up-to-date. 
+
+**Background**: Generally should contain **meta** pages almost exclusively. Not intended to be published, but rather intended to be a place to store canonical information that informs worldbuliding but is not directly player-facing. 
+
 **Cosmology**: This directory contains **in-world** pages about the planes and related concepts. Could be published as is, or selectively, or not at all, as desired. 
+
 **Species**: This directory contains **in-world**, **character-facing**, **player-facing**, and **meta** pages about the species of Taelgar. Player-facing pages should be kept in the Species\Mechanics folder, as should any "rules-heavy" meta pages.
+
 **Worldbuilding**: This directory contains world building information of various kinds, including brainstorming and undeveloped ideas. See [[Purpose of Worldbuilding]] for more. Note that subdirectories are controlled here as well. 
+
 ### Clean Directories
 
 These are directories that are well-organized and have a clear, consistent meaning and organization. This does not guarantee the directory itself fully meets these guidelines. Note may have minor open questions. 
-
-
-**Background**
-- *Proposed Content*: Generally should contain **meta** pages almost exclusively. Not intended to be published, but rather intended to be a place to store canonical information that informs worldbuliding but is not directly player-facing. 
-- *To Do:* Probably needs a quick check - not too many files. 
 
 **Campaigns**
 - *Proposed Content*: Generally should contain a variety of pages that are specifically relevant to a particular campaign. This is basically entirely session notes; various kinds of handouts, letters, stories and other "primary material" introduced in game; treasure and party equipment; and campaign-specific player encyclopedia pages (e.g., indexes of NPCs, timelines, etc). There is some ambiguity about when treasure belongs here, vs in Things, but this is generally left as an exercise for the DM.  
@@ -44,7 +46,6 @@ These are directories that are well-organized and have a clear, consistent meani
 **Gods and Religions**
 - *Proposed Content*: All variety of pages associated with gods or religion, though should presumably primarily contain **in-world** or **character-facing** pages, with perhaps some **meta** pages as needed. 
 - *To Do:* Currently a raw dump of the old Festivals and Holidays, Gods, and Religion directories. Needs to be reorganized sensibly.
-
 
 ### Messy Directories
 
