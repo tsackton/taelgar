@@ -74,6 +74,19 @@ SORT replace(tag, "#status/cleanup/", "") ASC, length(file.inlinks) DESC
 
 ```
 
+## Publish Exclusions
+
+```dataview
+TABLE 
+    length(file.inlinks) AS Backlinks,
+    pubEx as "Publish Exclusions"
+FROM "Cosmology"
+WHERE excludePublish
+FLATTEN excludePublish as pubEx
+SORT pubEx
+
+```
+
 ## Staging
 
 These are staging pages linked to pages in the Cosmology directory. 
