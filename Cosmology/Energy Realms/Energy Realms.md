@@ -1,13 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/check/mike]
-whereabouts: multiverse
+tags: [background]
 displayDefaults: {defArt: the}
 dm_owner: tim
 dm_notes: none
 ---
-
-%% a lot of stuff here so setting check/mike; some details of what is metaphysically true are going to be revealed during frankar arc but interested in opinions especially on how many energy realms should exist %%
 # The Energy Realms
 
 In the [[Standard Multiversal Model]], made famous by the [[Faculty of Metaphysics]] at the [[University of Chardon]], the Energy Realms are the name for the collection of planes associated with the fundamental energies of the multiverse. The traditional model, popularized by [[Julius Ceptuso]], postulates five fundamental energies of matter, Earth, Air, Fire, Water, and Magic, each associated with an Energy Realm. Although modern metaphysical cosmologists typically consider Magic to be a fundamental multiversal force and do not include the Plane of Magic within the Energy Realms, the five fundamental energies retain a hold on the population conception. 
@@ -42,6 +39,23 @@ The lizardfolk mystic [[Aznoke|Aznoké]], in her epic poem _[[The Endless Curren
 The intention here is to make the four traditional elemental planes primary, while keeping open space for a variety of "para elemental planes" without committing to a metaphysical truth about whether they are simply boundary regions between the Elemental Planes or they are unique planes themselves. The [[Frostfell]] canonically exists, but as transportation was via a portal and not plane shift, this could have been simply a part of the plane of water. 
 
 I am intending to introduce some details in game during the Frankar arc so best to leave this relatively unconfirmed for now.
+
+## List of Energy Realms
+```dataviewjs
+const { util } = customJS;
+
+dv.table(
+  ["Place"], 
+  dv.pages("#place")
+    .where(f => 
+      util.inLocation("Energy Realms", f.file.frontmatter, dv.current().pageTargetDate) &&
+      f.typeof === "plane"
+    )
+    .sort(b => util.s("<maintype>", b.file))
+    .map(b => [util.s("<name:x>", b.file)])
+);
+
+```
 
 %%^End%%
 

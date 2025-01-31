@@ -9,15 +9,6 @@ dm_notes: none
 
 This directory contains **in-world** pages about the planes and related concepts. Could be published as is, or selectively, or not at all, as desired.  
 
-## Open Tasks
-
-
-
-## File Organization
-
-
-
-
 ## Tagging
 
 ```dataview
@@ -25,12 +16,13 @@ TABLE WITHOUT ID
   split(Combo, "\\|")[0] AS "Descriptive Tag",
   split(Combo, "\\|")[1] AS "Type",
   split(Combo, "\\|")[2] AS "SubType",
+    split(Combo, "\\|")[3] AS "Ancestry",
   length(rows) AS "Count"
 
 FROM "Cosmology" 
 FLATTEN file.tags AS tag 
 WHERE !startswith(tag, "#status")
-GROUP BY (tag + "|" + default(typeof, "none") + "|" + default(subtypeof, "none")) AS Combo
+GROUP BY (tag + "|" + default(typeof, "none") + "|" + default(subtypeof, "none") + "|" + default(ancestry, "none")) AS Combo
 SORT Combo ASC
 
 ```

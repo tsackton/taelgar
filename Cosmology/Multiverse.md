@@ -27,13 +27,13 @@ Layered on top of this cosmology, the elven scholars speak of the [[Echo Realms]
 > 
 > **Spiritual Realms:** The [[Spiritual Realms]] are the planes of the divine, the planes of gods and demons and other spiritual beings, which some speculate are made of the pure material of creation, which they call [[Soulstuff]]. While most scholars consider the [[Land of the Dead]] to be a part of the [[Spiritual Realms]], others argue it should be considered a region of the [[Astral Plane]], or even its own Fundamental Plane. 
 > 
-> **Echo Realms**: The [[Echo Realms]], in the opinion of the metaphysical scholars of [[University of Chardon|Chardon]], are not really true planes at all. They are merely echoes of the particular moment when the Material Plane, the Plane of Souls, and the energy realms were separated into different planes during the [[Riving]]. This, it is said, is why they are rarely continuous and complete, like the [[Energy Realms]], but rather often exist as discrete domains. Some [[Ulfgar Frostbeard|scholars]] even go so far as to consider the [[Feywild]] as a the third part of a trinity that includes material, soul, and magic, and do not consider it to even belong among the Echo Realms, but this is a distinctly minority opinion at the [[University of Chardon]].
+> **Echo Realms**: The [[Echo Realms]], in the opinion of the metaphysical scholars of [[University of Chardon|Chardon]], are not really true planes at all. They are merely echoes of the particular moment when the Material Plane, the Plane of Souls, and the energy realms were separated into different planes during the [[Riving]]. This, it is said, is why they are rarely continuous and complete, like the [[Energy Realms]], but rather often exist as discrete domains. Some [[Ulfgar Frostbeard|scholars]] even go so far as to consider the [[Feywild]] as a the third part of a trinity that includes material, soul, and magic, and do not consider it to even belong among the Echo Realms, but this is a distinctly minority opinion at the [[University of Chardon]] (although not elsewhere).
 > 
 > The most popular alternative classification, [[Yendalism]], proposes a radically different classification, dividing the planes into the [[Inner Realms]], made of physical energy and arcane magic, and the [[Outer Realms]], made of [[Soulstuff]], separated by the barrier of the [[Land of the Dead]]. 
 
 %%^Campaign:none%%
 
-%% this is meant to be one possible story among many, but the vibes are intended to be canonical %%
+%% this is meant to be one possible story among many, but the vibes are intended to be roughly correct %%
 ## The Creation of the Multiverse
 
 When the [[Divine Presence]] awoke or came into being and made existence, the multiverse was unformed, a chaotic sea of the unfettered power of the Plane of Magic, in which those with the will to use it could reshape the world with a thought. During the [[Riving]], the [[Divine Presence]] ripped the fabric of reality apart, isolating raw magical power to the planes, limiting and constraining magic and creation on the [[Material Plane]] itself. 

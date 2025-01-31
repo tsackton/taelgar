@@ -1,10 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-displayDefaults: {wSecondary: "Also classified as one of <secondary:1>"}
 whereabouts: 
 - {type: primary, location: Echo Realms, wHome: "A <subtypeOf> <typeOf> in <home:1>"}
-- {type: secondary, location: Inner Realms}
 subtypeOf: rumored
 typeOf: plane
 dm_notes: none

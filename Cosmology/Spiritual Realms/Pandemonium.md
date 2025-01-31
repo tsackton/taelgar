@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place]
+displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
 whereabouts: 
 - {type: home, location: Spiritual Realms, wHome: "A <typeOf> in the <home:1>"}
+- {type: secondary, location: Divine Realms}
 typeOf: plane
 dm_owner: tim
 dm_notes: none

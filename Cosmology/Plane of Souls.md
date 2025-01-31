@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+displayDefaults: {wSecondary: "Sometimes considered part of <secondary:1>"}
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
+- {type: secondary, location: Astral Plane}
 typeOf: plane
 aliases: [Plane of Consciousness]
 dm_notes: none
@@ -23,7 +25,7 @@ The Plane of Souls is connected to how the divine act in the world. In particula
 The Plane of Souls has three relevant impacts worth keeping in mind:
 - Although there is no specific definition of psionics in Taelgar, any magical effects that represent a magical "inner strength" (such as monk focus, or certain types of psionics) would likely be a result of a particular "strength of soul" on the Plane of Souls. While there are not really any direct mechanical consequences of this, for flavor reasons it is worth keeping in mind that these magics are quite distinct from arcane magic or divine miracles. The flavor should tend towards drawing on the power of the [[Soulstuff]] that resides within you
 - The Dreamworld is an echo realm (in some sense - maybe the fey are right?) of the Plane of Souls, and so the most common way to reach the Dreamworld would typically be through the Plane of Souls. This is mostly a color things, but e.g. traveling to the Dreamworld from the Material Plane at least should usually pass through the constellation of souls, narratively.
-- The Plane of Souls either connects to, or is part of, the Astral Plane. Astral Projection would normally start from your spark on the Plane of Souls, for example. 
+- The Plane of Souls either connects to, or is part of, the [[Astral Plane]]. Astral Projection would normally start from your spark on the Plane of Souls, for example. 
 
 Beyond this, in-world or meta details are a bit vague. Note, however, that the "ancient understanding" that only natives of the Material Plane have souls on the Plane of Souls is likely at least incomplete. Who has souls and what that means remains an open question, see below.
 

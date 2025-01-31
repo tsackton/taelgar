@@ -29,6 +29,7 @@ Key features of the Astral Plane:
 See the following links for relevant brainstorming notes:
 - [[Discord Chat - Multiverse]]
 - [[Discord Chat - Souls]]
+- [[Discord Chat - Divine Power in Taelgar]]
 
 %%^End%%
 
