@@ -14,10 +14,10 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-There is no one description of  Pandemonium. Even among those who claim to have glimpsed its depths, no two accounts are the same, and few scholars believe a mortal being can travel to Pandemonium and return with their mind intact. A howling void of endless tunnels, a labyrinth of wind-carved stone, a realm where screams take form and shadows coil into laughter— these are but fragments of the descriptions found in _[[~Pandemonium Book of Madness~]]_, the most infamous collection of accounts from supposed planar travelers. If there is truth in such writings, Pandemonium is a realm of ceaseless wind and darkness, its tunnels stretching into infinity, its pathways twisting with no discernible pattern. 
+There is no one description of  Pandemonium. Even among those who claim to have glimpsed its depths, no two accounts are the same, and few scholars believe a mortal being can travel to Pandemonium and return with their mind intact. A howling void of endless tunnels, a labyrinth of wind-carved stone, a realm where screams take form and shadows coil into laughter— these are but fragments of the descriptions found in _[[Codex Maledictum]]_, the most infamous collection of accounts from supposed planar travelers. If there is truth in such writings, Pandemonium is a realm of ceaseless wind and darkness, its tunnels stretching into infinity, its pathways twisting with no discernible pattern. 
 
 ![[pandemonium-painting.webp]]
-*A painting imaging Pandemonium by [[~Famous Mad Painter~]]*
+*A painting imaging Pandemonium by [[Kaelion the Elder]]*
 
 The [[Standard Multiversal Model]] places Pandemonium among the undifferentiated [[Spiritual Realms]], and does not propose an origin for this place of madness. Yet, some suggest otherwise. [[Nicole Ardouin]], though often ignored, collected the most extensive history of Pandemonium in [[On the Foundations of Madness]]. In this impressive, though rarely studied work, she collected numerous fragments of lost writing and deep history concerning Pandemonium, which hint at the possibility the Plane of Madness is metaphysically a realm of the embodied god the [[Mad One]], often known as the Avatar of Jinnik. While many scholars refuse to engage legends of the [[Three Despairs]], and claim that [[Jinnik]] is a myth from the early days of humanity, Nicole argues strongly that Pandemonium is indeed one of the [[Divine Realms]]. 
 

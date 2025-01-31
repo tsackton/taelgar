@@ -44,10 +44,10 @@ Where bargains made demand the price be paid.
 
 ## Travel in the Feywild
 
-The Feywild is a place of contradictions, where even the most basic truths seem malleable. While many accounts agree that its geography loosely mirrors the [[Material Plane]]—mountains reflecting mountains, rivers matching rivers—there are just as many tales of travelers finding verdant forests where deserts should be or endless fields of flowers in the midst of barren plains. The elven poet [[~Ancient Elven Poet~]] wrote that "the Feywild shapes itself to memory and dream, not to logic or law," and some travelers have speculated that geography in the Feywild may, at times, reflect what once was, or even what will be, on the [[Material Plane]], not what is now. 
+The Feywild is a place of contradictions, where even the most basic truths seem malleable. While many accounts agree that its geography loosely mirrors the [[Material Plane]]—mountains reflecting mountains, rivers matching rivers—there are just as many tales of travelers finding verdant forests where deserts should be or endless fields of flowers in the midst of barren plains. The elven poet [[Elenwen]] wrote that "the Feywild shapes itself to memory and dream, not to logic or law," and some travelers have speculated that geography in the Feywild may, at times, reflect what once was, or even what will be, on the [[Material Plane]], not what is now. 
 ### Time and Space
 
-No one who has ventured to the Feywild could fail to notice that time does not move as it does on the Material Plane. The sun does not cross the sky: instead, the time of day seems to be associated with location. Numerous Tyrwinghan poems and legends describe the perpetual twilight of the court of the [[Archfey Ethlenn]], where the sun has forever just set. Even stranger is the physical structure of the sunset made solid, on the western edge of the Green Sea, as described by [[~Orelans Elvish Poet~]] of [[Orenlas]]:
+No one who has ventured to the Feywild could fail to notice that time does not move as it does on the Material Plane. The sun does not cross the sky: instead, the time of day seems to be associated with location. Numerous Tyrwinghan poems and legends describe the perpetual twilight of the court of the [[Archfey Ethlenn]], where the sun has forever just set. Even stranger is the physical structure of the sunset made solid, on the western edge of the Green Sea, as described by [[Calenya]] of [[Orenlas]]:
 
 *Amber strokes alight,*  
 *on sunset's blazing crystals—*  
