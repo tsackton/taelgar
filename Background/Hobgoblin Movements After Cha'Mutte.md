@@ -1,10 +1,64 @@
 ---
+headerVersion: 2023.11.25
 tags: [background, status/needswork/old]
 dm_owner: joint
 dm_notes: none
 ---
+# Hobgoblin Movements After Cha'Mutte
 
-%% some  dm notes in great library and chasa river valley history, but might be obsolete %%
+After the death of Cha'mutte, the large hobgoblin forces assembled for the Great War are left without magical support, and begin to disperse, move, and raid in various ways. In many ways, the movements of these hobgoblin groups define the period from ~1545 - 1600, of referred to as the Blood Years. 
+
+## Southern Army
+
+The Southern Army, consisting of the Iron Fang, Bitter Knife, Blackened Claw, Death Moon, and possibly other clans, is responsible for conquering Isingue, and blockading the Dunmari borders to prevent a Dunmari breakthrough to help relieve Isingue. 
+
+(the exact larger purpose of this front is not totally clear but is irrelevant here). 
+
+As the plague spreads along the Upper Istaros after Cha'mutte's death, many of these hobgoblins die, and others may have fled east or south into the northeastern part of the [[Drankorian Hinterland]] or the southern part ("[[~South Cymea~]]") of the [[Western Green Sea]], and are not further considered here. 
+
+### Iron Fang
+
+*Bloodlust Wars: Iron Fang against Sembara in 1540ss*
+
+North of [[Isingue]], the Iron Fang clan survives mostly intact, and once the red mists leave, launches an attack on Sembara. This is the [[Bloodlust Wars]], from ~DR 1547 - DR 1549, although exact dates are probably not canonical. They are defeated, but not totally eliminated. Some hobgoblins flee into the Plaguelands, while others maybe join with remnants of [[Revaka]]'s people who refused to fight for [[Cha'mutte]] in the southeastern foothills of the Sentinels. 
+
+Possibly some historians consider this part of the Great War. 
+
+### Bitter Knife
+
+*Bitter Knife War: Bitter Knife against Dunmar, 1550s - 1570s*
+
+The largest survivors of the Southern Army. Establish a kingdom in the [[Nashtkar]], around the southeastern edge of the [[Sentinel Range|Sentinels]]. This is marginal terrain, and survive mainly by raiding the surviving Dunmari. This quickly leads to the [[Bitter Knife War]], in the DR 1550s, lasting for ~30 years. While a handful of survivors possibly escaped Dunmar's victory, Bitter Knife is destroyed as a functional organization at the end of the [[Bitter Knife War]], and the clan goes extinct.
+
+### Blackened Claw
+
+*Northern War: Blackened Claw against Dunmar, 1603-1610*
+
+The origins of the Blackened Claw clan are not clear, but probably either a smaller part of the original army, or a new group formed by various survivors in the western Plaguelands. This is a far less organized group than the Bitter Knife, and they live a very marginal existence in the deserts and foothills. Possibly these are hobgoblins that originally settled near [[Xurkhaz]] but are pushed out by the [[People of the Rainbow]] (Xurkhaz is founded in DR 1583), or possibly something else happens. Whatever their history, the Blackened Claw end up conquering a decent part of far northeastern Dunmar, around [[Raven's Hold]] and parts west and south, although not as far as [[Karawa]], but are ultimately defeated by Dunmar during the [[Northern War]]. Like the Bitter Knife tribe, the Blackened Claw ceases to exist as a meaningful force after its defeat in the Northern War. 
+
+## Northern Army
+
+The Northern Army is larger than the Southern Army. Originally based in Pandar. One possible outline is that a major thrust of the Great War is Cha'mutte's efforts to capture Urlich Monastery, and the basic logic is to have the Northern Army marching south on the west side of the mountains, and the Southern Army marching north on the east side of the mountains. 
+
+The Northern Army canonically includes the Shattered Ice clan, as well as other as-yet-unnamed clans. 
+
+At the time of Cha'mutte's death, the northern army likely occupies a large area south of Pandar, extending at least as far as the Blackwater Fens. They are likely engaged in active combat with Amani and Volganis, and possibly have already conquered [[West Coast History Framework#Other Realms|"northern kingdom 4"]]. 
+
+At this point, the northern army fractures. 
+
+#### Dragon Conclave
+
+*Conclave War: Dragon Conclave against elves and Chardon, 1545 - 1550s*
+
+One part of the Northern Army, led by a conclave of dragons and probably the most loyal of Cha'mutte's followers, launch a brutal war of revenge targeting primarily the elves and Chardon. Possibly some historians consider this part of the Great War. 
+
+## Other Forces
+
+- Ulrich Pass Army is presumed destroyed during the cataclysm on Cha'mutte's death.
+
+## Current Day
+
+
 
 %% NEEDS CLEANUP %%
 
@@ -17,7 +71,5 @@ this all works with your shattered ice clan and then a war in the 1580s on the w
 haven't figured out what happened to the western hobgoblin kingdoms; would prefer to leave that undetermined for now. you might learn more when you go after the piece of rai under the ocean off the coast of that peninsula.   but chardon would have not let any escape south, i don't think
 
 other key things: 
-* (south) Iron Fang against Sembara in 1550s
-* (south) Bitter Knife against Dunmar in 1550s - 1570s
-* (south) Blackened Claw against Dunmar, 1603 - 1610
+
 * (north-from-Chardon) Shattered Ice against Sembara 1570s
