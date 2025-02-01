@@ -17,7 +17,10 @@ First, a brief note about non-humans, who tend to have a simpler religious histo
 
 The goblinoid species were explicitly created as anti-humans, in a sense, and have no (native) gods or religions. 
 
-Other species are somewhat up in the air and left undeveloped at the moment. Generally the creations of the Children of the Divine (fey, dragons, elementals, giants) look to their ancient mythic ancestors as their creators and gods, but what exactly the true relationship here is is left undetermined. The great wyrms, archfey, titans, and elder elementals are metaphysically similar to embodied gods (created by [[Divine Presence|Arhat]] and [[Divine Presence|Malik]]) but conceptually distinct and whether they can, for example, grant divine miracles to their descendants is currently undetermined. Unique species (kenku, centaurs, merfolk) have various degrees of lore but nothing super-canonical (is Aerin actually an Embodied God now?).
+Other species are somewhat up in the air and left undeveloped at the moment. 
+
+*Non-canonical brainstoming*:
+It is plausible that the fey, dragons, elementals, and giants look to their ancient mythic ancestors as their creators and gods (e.g., archfey, great worms, elder elementals, titans), but what exactly the true relationship here is is left undetermined. The great wyrms, archfey, titans, and elder elementals are potentially metaphysically similar to embodied gods (e.g., created directly by the [[Divine Presence]], although not imbued with a direct connection to divine power, necessarily). However, whether they can, for example, grant divine miracles to their descendants is currently undetermined. Unique species (kenku, centaurs, merfolk) have various degrees of lore but nothing super-canonical (is Aerin actually an Embodied God now?).
 
 ## Humans on Hkar
 

@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [background, status/cleanup/incomplete, status/cleanup/map]
+tags: [background, status/cleanup/text, status/cleanup/map]
 excludePublish: ["all"]
 dm_owner: joint
 dm_notes: none
 ---
 # Hobgoblin Movements After Cha'Mutte
 
-After the death of Cha'mutte, the large hobgoblin forces assembled for the Great War are left without magical support, and begin to disperse, move, and raid in various ways. In many ways, the movements of these hobgoblin groups define the period from ~1545 - 1600, of referred to as the Blood Years. 
+After the death of Cha'mutte, the large hobgoblin forces assembled for the Great War are left without magical support, and begin to disperse, move, and raid in various ways. In many ways, the movements of these hobgoblin groups define the period from ~1545 - 1600, often referred to as the [[Blood Years]]. 
 
 Draws heavily from:
 - [[Discord Chat - Chardon History]]
@@ -60,10 +60,6 @@ At the time of Cha'mutte's death, the northern army likely occupies a large area
 
 At this point, the northern army fractures. 
 
-%% raw notes
-the western army is more deliberate moving through human lands, establishing a series of hobgoblin kingdoms, perhaps under the overlordship of a high king or something (details not super relevant) through the 1550s. defeated by chardon as well (in my notes have this actually in 1551, but probably would realistically be a decade or more later) but this is just a retreat, not a full defeat, since there are hobgoblin kingdoms to retreat to. over the next 50 years or something, chardon slowly marches north, freeing the surviving human populations from hobgoblin rule - details unclear    (except in context of mawar, where the mawar renaissance was in the early 1600s, so hobgoblin threat must be largely gone by then, but chardon dominance not yet fully established)
-%%
-
 ### Eastern Split
 #### Dragon Conclave
 
@@ -71,7 +67,7 @@ the western army is more deliberate moving through human lands, establishing a s
 
 One part of the Northern Army, led by a conclave of dragons and probably the most loyal of Cha'mutte's followers, launch a brutal war of revenge targeting primarily the elves and Chardon. Possibly some historians consider this part of the Great War. 
 
-The Conclave War is a brutal fight and leads to much destruction. Chardon eventually wins. The dragons are destroyed, but hobgoblins escape (see below). 
+The Conclave War is a brutal fight and leads to much destruction. Chardon eventually wins. The dragons are destroyed, but hobgoblins escape (see below). This is probably the main war that causes the destruction of Volganis. 
 
 #### Shattered Ice Clan
 
@@ -92,9 +88,17 @@ Open questions:
 * How did they get to the north coast? Presumably some type of magic sailing option, but other ideas could be Cha'mutte's armbands/teleport stuff
 * What happened to them? Do any still linger i.e. in the [[~Mawakel Border Mountains~]] or [[Tawir Forest]] or elsewhere, or were they all wiped out by Chardon?
 * What is the timeline exactly? The 1550s to 1650s is not strictly canonical, but Chardon cannot be dominating the [[Northwest Coast]] until the 1650s-1670s, to give the Mawar renaissance a chance to blossom; these hobgoblins partly serve that purpose
-### Central Split
 
-**To Do**
+Discussion:
+- [[Discord Chat - Chardon Wars Against Hobgoblins]]
+### Central Split
+*War against Amani 1545-1550s, defeat by 1600*
+
+One part of the Northern Army - potentially hobgoblins, but also potentially something else - advances south into Amani, and then more or less stays, laying waste to Amani and whatever fragments of Volganis survived the [[Conclave War]]. 
+
+The basic vibe - details are not canonical - is something brutal, bent on destruction. Everyone in Amani flees or is killed; this is not a force that is looking to rule a kingdom of humans. For some undetermined reason they don't advance as far south as Lake Valandros or as far west as the coast, so there are pockets of humans that survive, more robustly along the coast than pressed up against Lake Valandros. However, these pockets of humanity are under constant threat - the vibe is more like frequent raids (perhaps capturing prisoners for whatever reason) and the occasional (attempted) sacking of a settlement, and less a sustained war. 
+
+Sometime around 1600, this force occupying Amani is decisively defeated by someone (possibly a classic D&D campaign-type story where it is mostly just a party of high level adventurers), but crucially not Chardon or Mawar. The destruction of this force, despite the hobgoblins to the south, leads to Mawar opening up and the Mawar Renaissance, which is really a northern coastal renaissance also involving the people living west of Amani (who might or might not be culturally linked to Mawar, but are definitely economically linked). 
 
 ## Other Forces
 
@@ -106,13 +110,22 @@ In the current day, the remnants of Cha'mutte's armies may be found:
 
 ### South and East of the Sentinels
 
+*Canonical*
 - In the Plaguelands, some remnant of the Iron Fang survived, and potentially established a robust hobgoblin realm somewhere in the Plaguelands. These have been relatively isolated from humans since their defeat in the [[Bloodlust Wars]], but could potentially be a source of any hobgoblin attack on Orenlas, Addermarch, or related areas. 
-- In the Plaguelands are also potentially some scattered remnants of the Southern Army, not really well organized into proper clans. These would occupy the far southeastern foothills of the Sentinels, and areas north, possibly along the upper reaches of the [[Kulthul]]. These hobgoblins are too disorganized and scattered to pose a significant threat, but could explain details such as watchtowers on the northwestern borders of [[Xurkhaz]], and the general vibe of defensive fortifications in [[Refounded Alliance of Aurbez]] and the [[March of Andonne]]. 
-- In the southern [[Sentinel Range|Sentinels]], around the destruction of [[Urlich Pass]] and the areas immediately south (e.g., the destroyed region of [[Ardith]]), some survivors of the [[Shattered Ice Clan]] and potentially other hobgoblins (e.g., remnants of the [[Dominion of Avatus]] who did not fight for Cha'mutte) linger. These are presumably not a well organized group either, but they are a significant enough reserve to occasionally form warbands to try to raid against Sembara in an organized way. There needs to be a sufficient threat for the [[Army of the West]] to be professionalized and important, although the exact history between 1720 and 1749 is unclear.
+- In the Plaguelands are also some scattered remnants of the Southern Army, not really well organized into proper clans. These would occupy the far southeastern foothills of the Sentinels, and areas north, possibly along the upper reaches of the [[Kulthul]]. These hobgoblins are too disorganized and scattered to pose a significant threat, but could explain details such as watchtowers on the northwestern borders of [[Xurkhaz]], and the general vibe of defensive fortifications in [[Refounded Alliance of Aurbez]] and the [[March of Andonne]]. Note: while the existence of the possibility of hobgoblin raiders around the western edge of the Plaguelands is canonical, whether they are as disorganized as this makes it seem is undetermined, and a more organized group may have their own reasons for not advancing in force west or north.
+- In the southern [[Sentinel Range|Sentinels]], around the destruction of [[Urlich Pass]] and the areas immediately south (e.g., the destroyed region of [[Ardith]]), some survivors of the [[Shattered Ice Clan]] and potentially other hobgoblins (e.g., remnants of the [[Dominion of Avatus]] who did not fight for Cha'mutte, or survivors of the [[Bitter Knife War]] or the [[Northern War]]) linger. These are presumably not a well organized group either, but they are a significant enough reserve to occasionally form warbands to try to raid against Sembara in an organized way. There needs to be a sufficient threat for the [[Army of the West]] to be professionalized and important, although the exact history between 1720 and 1749 is unclear.
+
+*Brainstorming*
 - It is possible - but not canonically determined one way or another - that other hobgoblins fled east or south from the fallout of the plague, and may exist in the northeastern part of the [[Drankorian Hinterland]] or the southern part ("[[~South Cymea~]]") of the [[Western Green Sea]]. 
 
 ### West of the Sentinels
 
-**To Do**
+*Canonical*
+- Some hobgoblins (exact ancestry and history undetermined) live in the plains and mountains north of Voltara, although they didn't really impact [[Grumella's War]], so are likely either fairly scattered and disorganized, or have their own reasons for staying out of conflict with humans. 
+
+*Brainstorming*
+- [[Tawir Forest]], the [[~Mawakel Border Mountains~]], the northwest coast of Lake Valandros, the forests on the eastern shores of Lake Valandros, the Crimson Forest, parts of the northern Myraeni Gap, and potentially the islands of of Mawar all could provide space for hobgoblins with various degrees of organization. 
+
+
 
 

@@ -1,9 +1,13 @@
 ---
+headerVersion: 2023.11.25
 tags: [background, status/cleanup/incomplete]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
 ---
+# Humanity in Greater Sembara
+
+%% needs some detail on the time period from the fall of drankor to the modern era %%
 
 This note tries to draw together information from various sources to form a semi-canonical history of humanity in the Greater Sembaran region, intended to inform development of Sembara, Tyrwingha, Maseau, Addermarch, Tollen, Zimkova, and Vostok. Sections in %% notes %% should not be considered canonical. The rest generally is, although this specific background doc is not meant as direct world lore. 
 
