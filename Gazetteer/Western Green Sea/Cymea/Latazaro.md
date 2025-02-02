@@ -4,7 +4,7 @@ tags: [place]
 name: Latazaro
 typeOf: swamp
 ancestry: lizardfolk
-whereabouts: Western Green Sea Region
+whereabouts: Western Green Sea
 pronunciation: LAH-tah-zah-roh
 dm_notes: color
 dm_owner: none

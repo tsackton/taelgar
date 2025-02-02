@@ -8,8 +8,9 @@ dm_owner: none
 dm_notes: none
 ---
 # Lavila
->[!info]+ Information
-> A village in [[Cymea]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% notes
 a small village in Cymea, where [[Escobar Garavito]] is from

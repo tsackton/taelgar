@@ -4,7 +4,7 @@ tags: [place, status/stub]
 campaignInfo:
 name: Cymea
 typeOf: realm
-whereabouts: Western Green Sea Region
+whereabouts: Western Green Sea
 dm_owner: tim
 dm_notes: color
 ---
