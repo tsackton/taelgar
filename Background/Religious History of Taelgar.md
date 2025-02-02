@@ -1,5 +1,5 @@
 ---
-tags: [background, status/needswork/old]
+tags: [background, status/cleanup/text]
 dm_owner: joint
 dm_notes: none
 excludePublish: ["all"]
@@ -70,18 +70,18 @@ The various northern folk religious traditions -- [[Tanshi Worship]] and the [[K
 
 After contact with the Elder Folk, human culture on Hkar enters a period of rapid change. Arcane magic spreads quickly, you start to get rapid urbanization, the establishment of Hkaran colonies (this is potentially the "Southerners"), a lot of cultural diversification and the beginnings of what will become the urban/mariner divide. 
 
-Conceptually, you get the first development of the idea of omnipresent deities who have their own independent spiritual domains beyond the veil of the Land of the Dead. Potentially, this is basically just stolen from the Elder Folk and is a human conception of the Embodied Gods. Metaphysically, this is a massive shift and leads to a number of important developments in religious history. 
+Conceptually, you get the first development of the idea of omnipresent deities (who potentially have their own independent spiritual domains beyond the veil of the Land of the Dead). Potentially, this is basically just stolen from the Elder Folk and is a human conception of the Embodied Gods. Metaphysically, this is a massive shift and leads to a number of important developments in religious history. 
 
 %%See: [[Discord Chat - Homes of Incorporeal Gods]] for some discussion / possible revision on this point %%
 
-- While the nature of the divine spark remains ineffable, the belief in the possibility of human spiritual realms, at some level, acts to make them possible. Whether created out of divine energy directly, or transformed from something else, no one knows. 
-- The nature of divinity that inhabits a spiritual realm is fundamentally different from a deity that inhabits the material plane. These deities are in many ways naturally omnipresent, and are limited only by the effort of channeling divine magic from the spiritual realms to the material plane.
+- While the nature of the divine spark remains ineffable, the belief in the possibility of human spiritual realms, at some level, acts to make them possible. Whether created out of divine energy directly, or transformed from something else, no one knows.  %%Note: it is likely that this is inncorrect, and that the human gods don't usually, or ever, have "divine realms". Regardless people in world definitely don't know the answer. %%
+- The nature of divinity that inhabits a spiritual realm is fundamentally different from a deity that inhabits the material plane. These deities are in many ways naturally omnipresent, and are limited only by the effort of channeling divine magic from the spiritual realms to the material plane. %%Note: this isn't so much of "inhabits a spiritual realm" or not, but rather a distinction between deities that exist - in whatever sense deities exist - on the "Plane of Creation" side or the "Material Plane" side of the Land of the Dead %%
 - The existence of omnipresent divinities leads to the possibility of belief feedback loops, where some deities grow stronger and stronger as they attract more worshippers, and others fade away. This also leads to a change in religious traditions, beginning to shift from a focus on drawing the attention of the deity to a focus on praise/thanks to the deities themselves. 
 
 From the point of view of religious history, this is a time of rapid change. Many religions probably rise and fall in this time, and many gods are born and die. There is a lot of diversity in conceptions of deities. Major developed religions that grew out of this time include the [[Five Siblings|Dunmari faith]] and the Skaer worship of [[Kaikkea]]. Religions that grow from this era probably share less with each other than religions from earlier or later eras, as there is a lot of diversity here. However, a few things to keep in mind:
 
-- This is a time when the conception of deities is rapidly changing. However, most religions that grow from this era generally share a conception of deities as powerful extraplanar entities that dwell in spiritual realms, but the specific relationships with humans are very diverse. These range from idea idea of a divine family (among the Dunmari), the idea of a single creator god (Kaikkea of the Skaer), and many others. 
-- A common feature of religions from this era is a focus on belief as what creates divine power; whatever other diverse religious rituals may exist, there are almost always some kind of prayers or traditions around thanksgiving. This is also when the concept of intercessory prayer begins to fall out of favor, as it is perceived that powerful deities with their own extraplanar realms can grant miracles independently of [[Divine Presence|Arhat]] and [[Divine Presence|Malik]]. 
+- This is a time when the conception of deities is rapidly changing. However, most religions that grow from this era generally share a conception of deities as powerful extraplanar entities of some kind, but the specific relationships with humans are very diverse. These range from idea idea of a divine family (among the Dunmari), the idea of a single creator god (Kaikkea of the Skaer), and many others. 
+- A common feature of religions from this era is a focus on belief as what creates divine power; whatever other diverse religious rituals may exist, there are almost always some kind of prayers or traditions around thanksgiving. This is also when the concept of intercessory prayer begins to fall out of favor, as it is perceived that powerful deities directly connected to the Plane of Creation (however this is phrased/understood in world) can grant miracles independently of [[Divine Presence|Arhat]] and [[Divine Presence|Malik]]. 
 - Religious traditions from this era have diverse explanations for why every miracle is not granted, that blend different elements of "limited power" and "didn't hear you." Metaphysically, most of the deities of this era are probably not truly omnipresent, although they certainly have a wider presence on the material plane that the small gods of earlier eras. 
 - Funerary traditions from this era are diverse, with varying emphasis on which parts of the process require the most human/prayer aid and which parts the deities handle. 
 
@@ -97,7 +97,7 @@ This leads to a process where, as the urban magical culture spreads, there begin
 
 The religions that grow out of this period might be called archetypal religions. Currently only one exists, Mos Numena, and there probably shouldn't be many, but there is potentially room from a second somewhere among the Southerners? If ever desired. These are the common features:
 
-- While in the early pantheonic days, pantheons were often conceived of as sharing a spiritual realm, and were not necessarily perceived as omnipresent, the archetypal gods are thought to be powerful enough to control their own spiritual domain, and to be omnipresent everwhere (although still limited by the flow of magic from the spiritual realms to the material plane). 
+- While in the early pantheonic days, pantheons were often conceived of as sharing a spiritual realm, and were not necessarily perceived as omnipresent, the archetypal gods are thought to be powerful enough to control their own spiritual domain, and to be omnipresent everwhere (although still limited by the flow of magic from the spiritual realms to the material plane). %%Note this point needs some revision per [[Divine Realms]]%%
 - Deities, in this conception, are rarely thought of as actual physical beings that you could meet. Instead, they have avatars and aspects; among theologians of an archetypal religion it might be assumed that gods of other pantheonic religions are, in fact, avatars of specific archetypes. Whether this is metaphysically true is not clear. 
 - Funerary traditions now focus almost entirely on ensuring the safety of the soul as it crossed the land of the dead. Omnipresent deities have no need of prayers to draw their attention to a wandering soul, so the focus is entirely on bolstering the power of the divine to act on this side of the veil (metaphysically the land of the dead is on the material plane side of the divine veil or whatever it is that limits the power of miracles).
 
@@ -107,9 +107,7 @@ Three major events shape current-day religion on the mainland: the diversificati
 
 ### Northern Folk Religion Diversification
 
-The first emigrants from Hkar spread slowly and at relatively low population densities through the west coast, and then across the Sentinels, and further east into the vast northern boreal forests. During this time, a variety of northern cultures develop, with variations of the basic religious tradition of small gods. Most developed are the Deno'qai, with their tanshi, and the Zimka, with their kestavo, but others exist.
-
-%%SECRET[1]%%
+The first emigrants from Hkar spread slowly and at relatively low population densities through the west coast, and then across the Sentinels, and further east into the vast northern boreal forests. During this time, a variety of northern cultures develop, with variations of the basic religious tradition of small gods. Most developed are the Deno'qai, with their tanshi, and the Zimka, with their kestavo, but others exist (e.g., Vargaldi). 
 
 ### Mariner Schisms
 
