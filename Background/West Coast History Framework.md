@@ -146,7 +146,7 @@ Other events:
 - With refugees from the north, the population of Chardon swells and resettlement of the Chasa River valley begins. This is more or less the first part of the Chardonian Empire. 
 - Possibly some remnant realms in the southwest shores of [[Lake Valandros]] also survive the hobgoblin onslaut and enter into mutual defense pacts -- precursors of imperial rule -- with Chardon. 
 
-It is likely that during the period the remnants of NR 5, on the north shores of Lake Valandros, are impoverished, maybe destroyed. 
+It is likely that during the period the remnants of NR 1, on the north shores of Lake Valandros, are impoverished, maybe destroyed. 
 
 However, this period ends with hope:
 - While the hobgoblin kingdoms remain, they are not expansionist for whatever reason

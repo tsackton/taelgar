@@ -48,11 +48,28 @@ markerTag: location-source
 ## Topography and Major Features
 _See more: {links}_
 
+%% Mountains, mostly - organizing features:
+Forests: [[Elderwood]] and [[Crimson Forest]]
+Sentinels: [[Sentinel Range]]
+[[Myraeni Gap]] and foothills
+Some river headwaters to identify
+%%
+
 {descriptive text of topography and major features}
 ## Civilizations and Cultures
 _See more: {links}_
 
 {descriptive text of civilizations and cultures}
+%%
+Elves: [[Ainumarya]] (now mostly or entirely gone?)
+Dwarves: [[Khatridun]] [[Nidzahar]] and [[Am'khazar]] of the dwarves
+Lizardfolk: None
+Humans: [[Deno'qai]]
+Stoneborn:  significant settlement around [[Kunda]]?
+Hobgoblins: remains of [[Shattered Ice Clan]] in the southern sentinels
+Dangerous Wildernesses: Yes
+%%
+
 ## Climate
 
 {descriptive in world text about climate}
