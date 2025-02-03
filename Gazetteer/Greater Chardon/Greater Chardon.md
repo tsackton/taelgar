@@ -34,7 +34,15 @@ _See more: {links}_
 ## Civilizations and Cultures
 _See more: {links}_
 
-{descriptive text of civilizations and cultures}
+%%
+Elves:  None
+Dwarves: Coastal Apporia (refugess of interior wars). Likely no major kingdom currently. [[Fiamatara Mountains]] may have had a destroyed dwarven civilization. Some space for more surface dwellers say along the hills around Lake Valandros but likely none
+Lizardfolk: Major culture in the Yeraad River basin
+Humans:  [[Chardonian Empire]] and several Yeerad basin cultures. Chardonian empire has subsumed largely peacefully (in this region) several post Drankorian polities to be defined ([[Castrella]] is one)
+Stoneborn:  Coastal Apporia (refugess of interior wars)
+Hobgoblins: None 
+Dangerous Wildernesses: No
+%%
 ## Climate
 
 {descriptive in world text about climate}
@@ -62,7 +70,6 @@ For the next five hundred years, Drankor ruled in peace and prosperity. The city
 _DR 1059 - DR 1540_
 When Drankor fell to [[First Plague|plague]] and the empire shattered, the imperial provinces were left to fend for themselves. In the chaos, [[Chardon]] emerged as a leading light, first amongst equals in the post-Drankorian landscape, growing rich on the wisdom and fame of its [[University of Chardon|university]] and [[Great Library|library]], as well as trade with Dunmar through the [[Myraeni Gap]] and [[Sembara]] along the [[Yeraad]] river and over the [[Sentinel Range|Sentinels]] at [[Urlich Pass]].  Although tales of the small kingdoms that grew from the imperial provinces along the [[~North Chardon Coast~]] must exist, they are not widely known, and this period is largely a blank in the popular imagination.
 
-%% CHECK TIM -- THIS IS ALL NEW INVENTION, ALTHOUGH I'VE TRIED TO KEEP IT INLINE WITH YOUR NOTES %%
 #### The Blood Years
 _DR 1545 - DR 1597_
 Although the [[Great War]] ended in DR 1545, the vast army of [[Hobgoblins|hobgoblins]] and other terrors that [[Cha'mutte]] had amassed did not simply disappear. Over the next 30 years, two major wars were fought across the lands north of Chardon: the [[Conclave War]] and the to be named war against the hobgoblins. 
@@ -95,7 +102,7 @@ When the [[Great War]] came, the lands north of [[Chardon]] bore the brunt of th
 ## DM Notes and Meta
 _See also: [[Places in Greater Chardon]]
 
-*Canonical Development and Constraints:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details. The general vibes of Illoria, and the existence of large lizardfolk communities in the [[Yeraad River Basin]], are canonical. The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. 
+*Canonical Development and Constraints:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details. The existence of large lizardfolk communities in the [[Yeraad River Basin]] is canonical. The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. 
 
 *Brainstorming and Potential Canon:* While this region has a canonical history in broad strokes, many details are only weakly or non-canonically developed, or left blank. Although canonically most of this region is part of the Chardonian Empire, the local political cultures are largely undeveloped. 
 

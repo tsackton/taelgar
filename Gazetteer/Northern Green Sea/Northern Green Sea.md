@@ -11,7 +11,7 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-%% TODO intro %%
+The northern coastline of the [[Green Sea]] is a strange place, where even halfling traders rarely go. The land of [[Ursk]] is unwelcoming even to halflings, and few have traveled its roads and rivers. North of [[Ursk]] is a cold land of mighty forests and rivers, rushing in the brief summer but frozen during the long winter. Our reports come from the few halfling travelers and traders who brave the cold. 
 ## Map
 
 ```leaflet 
@@ -40,8 +40,11 @@ markerTag: location-source
 ## Civilizations and Cultures
 _See more: [[Ursk]], [[Vargaldi]]_
 
-%% Should frost giants be mentioned as well? %%
+The northern coasts of the [[Green Sea]] are a cold and unforgiving land, and it is a place to be careful and on your guard. The land of [[Ursk]] is closed to outsiders, and halfling traders report much fear and suspicion of anyone expressing interest in venturing beyond the trading enclaves of [[Praznitsky]] and [[Zakat]]. The wizards rulers of Ursk, the halflings warn, are not to be disobeyed lightly. 
 
+To the north and west of [[Ursk]] the forests stretch for hundreds of miles, and there is little safety here. Halflings bring tales of giant bats, dragons breathing frost, and ice worms the size of small boats. Along the [[Ket]], are whispered tales of the [[Vargaldi]] - but the halflings say they are skittish, and are unwilling to spill their secrets. 
+
+The [[Svinjo Mountains]], the halflings say, should be explored cautiously. The dwarves and stoneborn living here are mostly indentured to the frost giants of [[Kaldhalla]], who are not forgiving of questioning outsiders. Little profitable trade can be had here and it is best to avoid the area. 
 ## Climate
 
 %%^Campaign:None%%
