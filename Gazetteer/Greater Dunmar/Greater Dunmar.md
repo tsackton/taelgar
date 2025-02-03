@@ -1,23 +1,37 @@
 ---
 headerVersion: 2023.11.25
-displayDefaults: {defArt: ""}
-tags: [place]
-name: Greater Dunmar
+tags: [place, status/needswork/wip]
+displayDefaults: {defArt: '' }
 typeOf: region
-whereabouts: Taelgar
-dm_notes: important
-dm_owner: tim
+whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+dm_owner: none
+dm_notes: none
 ---
 # Greater Dunmar
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Status:
+* [ ] In world intro
+* [ ] Map
+* [ ] Topography
+* [ ] Civilizations and Culture
+* [ ] History
+* [ ] Climate
+* [ ] Climate - Real World
+* [ ] DM Notes
+%%
+
+%% Edit with changing definitions %%
 This region of Taelgar includes the land south of the [[Sentinel Range]], from the [[Myraeni Gap]] and the Dunmari coast in the west, past the [[Garamjala Desert]] and the [[Nashtkar]] in the east to the unknown lands beyond the wastes. To the south, this region extends to the ruins of [[Drankor]], and beyond to the [[Sea of Storms]]. 
 
 This region experienced considerable upheaval after the [[Great War]], as the [[Yuvanti Mountains]] rose from the sea, creating the new land of [[Western Dunmar]], and turning the former fertile plains of the interior to desert. 
+## Map
 
-## Topography
+{link to leaflet map of region}
+## Topography and Major Features
+_See more: {links}_
 
 The Central Lowlands region is dominated by four major topographical features. 
 - The [[Dunmari Basin]] lies south of the Sentinels. This is a broad, flat plain, semi-arid, but with regular summer monsoons that bring rain and support expansive grassland. 
@@ -31,10 +45,51 @@ The Central Lowlands region is dominated by four major topographical features.
 	- West of the Yuvanti, the broad, flat Nayan Floodplains stretch to the sea. 
 - The Garamjala Plateau is an extremely arid mid-elevation plateau, that rises between the Hara and the Mahar watersheds. This area is almost entirely inhospitable desert.
 - East and north of the Garamjala Plateau, the Istaros watershed runs from the foothills of the Sentinels near Sembara, through the Plaguelands, south into the Desolation of Cha'mutte and the fabled city of Drankor. 
+## Civilizations and Cultures
+_See more: {links}_
 
+%%
+Elves:  None
+Dwarves:  [[Nardith]]
+Lizardfolk: Likely none, maybe some in the [[Nayan Floodplains]] somewhere?
+Humans:  [[Dunmar]]
+Stoneborn:  Likely none
+Hobgoblins: None 
+Dangerous Wildernesses: No
+%%
 ## Climate
 
 While historically the climate in this region was very different, in the current day this region is split between [hot arid desert and semi-arid scrub](https://geodiode.com/climate/hot-deserts), in the interior east of the [[Yuvanti Mountains]],  and both [tropical](https://geodiode.com/climate/tropical-monsoon-and-tropical-savannah) and [subtropical](https://geodiode.com/climate/humid-subtropical) humid monsoon climates on the coast, especially in [[Western Dunmar]] between the [[Yuvanti Mountains]] and the [[Nevos Sea]]. 
+
+
+%%^Campaign:None%%
+
+{real world climate analogs and inspiration}
+
+%%^End%%
+
+## Major Historical Eras
+_See more: {links}_
+
+{descriptive text of major era}
+
+%%^Campaign:None%%
+## DM Notes and Meta
+_See also: {links to lists, e.g. Places in Region}_
+
+*Canonical Development and Constraints:* {text summarizing important canon to develop around}
+
+*Brainstorming and Potential Canon:* {text summarizing brainstorming and semi-canonical ideas}
+
+*Needs Development:*  {text summarizing gaps that would benefit from development}
+
+*Intentionally Blank:* {text summarizing intentional gaps that should generally not be developed unless needed for game reasons, including regions that are intended as settings for future campaign arcs in existing campaigns}
+
+*Adventures:* {text summarizing campaigns/adventures set in this region}
+
+*Important Places in Staging:* {links to important unnamed places}
+
+%%^End%%
 
 
 %% 

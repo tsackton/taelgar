@@ -2,7 +2,9 @@
 headerVersion: 2023.11.25
 tags: [place, status/check/name, status/stub]
 typeOf: river
-whereabouts: Chasa-Nahadi Watershed
+whereabouts: 
+- {type: secondary, location: Chasa-Nahadi Watershed }
+- {type: primary, location: Northern Frontier }
 dm_owner: tim
 dm_notes: important
 ---

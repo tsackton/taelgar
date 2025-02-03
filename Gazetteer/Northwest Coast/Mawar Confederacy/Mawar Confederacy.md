@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/old]
 campaignInfo:
 name: Mawar Confederacy
 typeOf: realm
