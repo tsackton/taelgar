@@ -9,6 +9,23 @@ dm_notes: none
 
 This directory contains **character-facing**, **meta**, and **in-world** pages about the places on Taelgar.
 
+## Region Organization and Notes
+Using this as a place for tracking general organization across regions. Regions are generally 
+
+%%^Campaign:None%%
+## Regions of Taelgar
+```dataviewjs
+const { util } = customJS
+dv.table(["Place"], 
+			dv.pages("#place")
+				.where(f => util.currentLocation(f.file.frontmatter, dv.current().pageTargetDate) == "Taelgar" && f.file.frontmatter.typeOf=="region")
+				.sort(b => util.s("<maintype>", b.file))
+				.map(b => [util.s("<name> (<pronunciation>)", b.file)]))
+```
+
+%%^End%%
+
+
 ## Tagging
 
 ```dataview
@@ -24,8 +41,6 @@ GROUP BY (default(split(file.folder, "/")[1], "Root") + "|" + tag) AS Combo
 SORT Combo ASC
 
 ```
-
-
 
 ## Needs Work
 
