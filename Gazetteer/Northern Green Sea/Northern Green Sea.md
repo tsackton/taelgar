@@ -42,7 +42,7 @@ _See more: [[Ursk]], [[Vargaldi]]_
 
 The northern coasts of the [[Green Sea]] are a cold and unforgiving land, and it is a place to be careful and on your guard. The land of [[Ursk]] is closed to outsiders, and halfling traders report much fear and suspicion of anyone expressing interest in venturing beyond the trading enclaves of [[Praznitsky]] and [[Zakat]]. The wizards rulers of Ursk, the halflings warn, are not to be disobeyed lightly. 
 
-To the north and west of [[Ursk]] the forests stretch for hundreds of miles, and there is little safety here. Halflings bring tales of giant bats, dragons breathing frost, and ice worms the size of small boats. Along the [[Ket]], are whispered tales of the [[Vargaldi]] - but the halflings say they are skittish, and are unwilling to spill their secrets. 
+To the north and west of [[Ursk]] the forests stretch for hundreds of miles, and there is little safety here. Halflings bring tales of giant bats, dragons breathing frost, and ice worms the size of small boats. Along the [[Ket]] there are whispered tales of scattered humans known as the [[Vargaldi]] - but the halflings say they are skittish, and are unwilling to spill their secrets. 
 
 The [[Svinjo Mountains]], the halflings say, should be explored cautiously. The dwarves and stoneborn living here are mostly indentured to the frost giants of [[Kaldhalla]], who are not forgiving of questioning outsiders. Little profitable trade can be had here and it is best to avoid the area. 
 ## Climate
