@@ -54,7 +54,15 @@ _See more: {links}_
 ## Civilizations and Cultures
 _See more: [[Drankorian Empire|Drankor]]
 
-{descriptive text of civilizations and cultures}
+%%
+Elves:  [[Rostaure|Rostaurë]] (long destroyed) and [[Drankor]]
+Dwarves: None currently. [[~Eastern Mountains~]] undefined and may hold current or historical dwarves
+Lizardfolk: Likely none; perhaps strange small communities in the jungle somewhere, mostly too arid
+Humans: [[Drankor]] historically; none otherwise
+Stoneborn:  Likely none
+Hobgoblins: Perhaps in the east; unclear, leave blank
+Dangerous Wildernesses: Yes
+%%
 ## Climate
 
 {descriptive in world text about climate}

@@ -33,6 +33,17 @@ _See more: {links}_
 _See more: [[Orenlas]], [[Refounded Alliance of Aurbez]], [[Xurkhaz]]_
 
 {descriptive text of civilizations and cultures}
+
+%%
+Elves:  [[Orenlas]]
+Dwarves:  ??
+Lizardfolk: ??
+Humans:  [[Refounded Alliance of Aurbez]]
+Stoneborn:  ??
+Hobgoblins: [[Iron Fang]]
+Dangerous Wildernesses: Yes
+Other: [[Xurkhaz]] free orcs
+%%
 ## Climate
 
 {descriptive in world text about climate}
