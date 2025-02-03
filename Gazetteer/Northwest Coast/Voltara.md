@@ -6,7 +6,7 @@ name: Voltara
 typeOf: settlement
 typeOfAlias: city
 whereabouts: 
-- {type: primary, location: Chardonian Empire }
+- {type: primary, location: Northern Frontier }
 - {type: secondary, location: Northwest Coast }
 dm_notes: important
 dm_owner: tim

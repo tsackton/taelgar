@@ -1,8 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/check/name, status/stub]
-typeOf: plains
-whereabouts: Chardonian Empire
+typeOf: plain
+whereabouts: 
+- {type: primary, location: Chardonian Empire }
+- {type: secondary, location: Northwest Coast }
 dm_notes: important
 dm_owner: tim
 ---

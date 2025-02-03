@@ -1,7 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [place, status/stub]
-whereabouts: Chardonian Empire
+whereabouts: 
+- {type: primary, location: Chardonian Empire }
+- {type: secondary, location: Northwest Coast }
 typeOf: region
 dm_notes: important
 dm_owner: tim
@@ -27,5 +29,5 @@ dm_owner: tim
     
 - All of this area was once small kingdoms, often mix of [[Drankorian Empire|Drankor]]/Northlander heritage, that were essentially completely wiped out by Pandor/[[Hobgoblins]]/Cha’mutte in the post-Great-War period
     
-- Beyond here, land of [[orcs]] and [[Hobgoblins]]; this area was generally reclaimed in the past 100-150 years, after [[Blood Years]], so Chardon was pushed back, and then pushed forward
+- Beyond here, land of [[Orcs]] and [[Hobgoblins]]; this area was generally reclaimed in the past 100-150 years, after [[Blood Years]], so Chardon was pushed back, and then pushed forward
 %%

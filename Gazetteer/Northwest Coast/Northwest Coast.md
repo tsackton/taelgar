@@ -1,31 +1,98 @@
 ---
-tags: [place]
-displayDefaults: {linkText: "on" }
+headerVersion: 2023.11.25
+tags: [place, status/needswork/wip]
+typeOf: region
+whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
+dm_owner: none
+dm_notes: none
 ---
+# The Northwest Coast
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% Status:
+* [ ] In world intro
+* [x] Map
+* [ ] Topography
+* [ ] Civilizations and Culture
+* [ ] History
+* [ ] Climate
+* [ ] Climate - Real World
+* [x] DM Notes
 %%
 
-### 2. The Northwest Coast
+{intro text}
+## Map
 
-*Area:* This includes the western coastal region north of the [[Mawakel Peninsula]] including the coasts the large bay north of Mawakel ([[~North Bay~]]), the large headland farther north, and the large unnamed island off the Mawakel Peninsula. 
+```leaflet 
+id: region-map-taelgar
+image: [[region-northwest-coast.png]] 
+bounds: 
+- [0,0]
+- [2374, 2680]
+height: 700px  
+width: 900px
+lat: 911
+long: 1500
+minZoom: -2
+maxZoom: 0
+defaultZoom: -1
+unit: miles 
+scale: 0.6
+draw: false
+darkMode: false
+markerTag: location-source
+```
+## Topography and Major Features
+_See more: [[Mawakel Peninsula]], [[~Mawakel Border Mountains~]], [[Tawir Forest]], [[Erbalta Plains]], [[~North Bay~]]
 
-*Canonical Development and Constraints:* The existence of the [[~North Bay~]] is required by more canonical development of [[Mawakel Peninsula]] and the [[Voltara]] region.
 
-*Non-Canonical Development:* This region has been assumed to have been one of the first points where the [[~Northerner~]] culture emigrated to from [[Hkar]] and thus cultural development in this regional should probably be inspired by the other [[~Northerner~]] cultures, although other options are possible.
 
-*Blank Regions:* Essentially this entire region is intentionally blank and should be left undeveloped until needed for a game. 
+## Civilizations and Cultures
+_See more: [[Mawar Confederacy]], [[Chardonian Empire]]_
 
-*Adventures:* No adventures have been set in this region. 
-### 3. Chardonian Empire and the Mawakel Peninsula
-
-*Area:* This region stretches north from the [[~South Chardon River~]] and includes the [[Chasa-Nahadi Watershed]], [[Lake Valandros]], and the [[Voltara]] region, as well as the [[~North Chardon Coast~]], the [[Tawir Forest]], and the [[Mawakel Peninsula]].
-
-*Canonical Development and Constraints:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details; the immediate area of Voltara, and the Mawakel Peninsula, are also substantially developed. Most of the history of this region only exists in very broad strokes, although the Mawakel Peninsula has extensive historical development. 
-
-*Non-Canonical Development:* While this region has a canonical history in broad strokes, many details are only weakly or non-canonically developed, or left blank. Although canonically most of this region is part of the Chardonian Empire, the local political cultures are largely undeveloped. 
-
-*Blank Regions:* The  [[~North Chardon Coast~]], [[Lake Valandros]], and the region stretching from the [[Tawir Forest]] to the coast west of [[Voltara]] are largely blank, but could use some additional development. The history and current political culture of this region exists only in very broad strokes, for the most part, and could use additional development. Nowhere in this region is intentionally left blank, except perhaps the [[Tawir Forest]] itself. 
-
-*Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara; the Dunmar Frontier campaign Chardon/Elderwood arc was set in this region. 
+Although in the years before the [[Great War]] and the [[Blood Years]] that followed this was a diversely populated land, few survived the scourge of [[Hobgoblins|hobgoblins]], [[Orcs|orcs]], and worse that plagued the land after the fall of [[Cha'mutte]]. Today, most humans owe allegiance to the expanding [[Chardonian Empire]], of which [[Voltara]] is the leading city in the region. On the [[Mawakel Peninsula]], the [[Mawar Confederacy]] stands fiercely independent. A significant group of salt lizardfolk live in the tidal flats and salt marshes of the [[Mawakel Peninsula]], but there are few dwarves, elves, or stoneborn in this region.
 
 %%
+Elves:  None
+Dwarves:  ??
+Lizardfolk: ??
+Humans:  [[Mawar Confederacy]], [[~North Bay Realm~]], parts of Chardon that are remains of various ancient realms
+Stoneborn:  ??
+Hobgoblins: ??
+Dangerous Wildernesses: Yes
+%%
+## Climate
+
+{descriptive in world text about climate}
+
+%%^Campaign:None%%
+
+{real world climate analogs and inspiration}
+
+%%^End%%
+
+## Major Historical Eras
+_See more: {links}_
+
+{descriptive text of major era}
+
+%%^Campaign:None%%
+## DM Notes and Meta
+_See also: [[Places in the Northwest Coast]]
+
+*Area and Borders:* This region has only weakly defined borders on the north and east; broadly it is meant to divide areas with potential civilization from more wild and dangerous regions.
+
+*Canonical Development and Constraints:* The immediate area of Voltara, and the Mawakel Peninsula, are also substantially developed both in recent history and politics and culture. The Mawakel Peninsula has extensive historical development, but the Voltara region, although connected to the larger story of the rise and fall of Drankor, and then the subsequent rise of Chardon, is not well defined prior to the Great War. 
+
+*Brainstorming and Potential Canon:* There are a number of semi-canonical brainstorming about the history of the Mawakel Peninsula; the history since the Great War is well developed but the deeper history (i.e. where did the Mawar come from) is not committed. Earlier brainstorming suggested a northern/Drankor blend but this is not canonical and alternatives are possible. The Mawar require some different religious flavor of Mos Numena than Chardon/Drankor but the source of this is not determined.
+
+*Needs Development:*  In general the area west of Voltara including the [[Fiamatara Mountains]] is weakly developed and would benefit from some historical and cultural development. 
+
+*Intentionally Blank:* The [[Tawir Forest]] and [[~Mawakel Large Island~]] are best left undeveloped, except perhaps in very broad strokes, until a game requires them. The [[~North Bay~]] in general is intentionally blank as is the border with the [[Far North]].
+
+*Adventures:* The [[Mawar Adventures]] episodes are entirely set in this region, on the [[Mawakel Peninsula]]; the [[Great Library Campaign]] is based in [[Voltara]] with several adventures covering the local area around Voltara.
+
+*Important Places in Staging:* The [[~North Bay~]] and [[~Mawakel Border Mountains~]] could use names; the [[Nahadi]] river is not well named north of [[Lake Valandros]]. The [[~Mawakel Large Island~]] is totally undeveloped and could use at least a name.
+%%^End%%
