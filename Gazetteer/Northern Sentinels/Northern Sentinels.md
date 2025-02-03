@@ -45,6 +45,16 @@ Few have mapped this region, nestled on the west side of the [[Sentinel Range]].
 _See more: [[Northern Tribes]] 
 
 There are few humans in this region, although the [[Northern Tribes|northern Deno'qai tribes]] make their home here. The dwarven kingdom of [[Fahnukan]] lies beneath the northern Sentinels, and [[Stoneborn|stoneborn]] are known to live in the highlands and foothills of the [[Sentinel Range|Sentinels]].
+
+%%
+Elves:  None
+Dwarves:  [[Fahnukan]]
+Lizardfolk: ??
+Humans:  [[Deno'qai]]
+Stoneborn:  Yes, should be defined more?
+Hobgoblins: ??
+Dangerous Wildernesses: Yes
+%%
 ## Major Historical Eras
 _See more: [[Pandar]]_
 
