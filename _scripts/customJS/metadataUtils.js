@@ -220,6 +220,20 @@ class util {
         return true;
     }
 
+    currentLocation(metadata, targetDate) {
+        const { WhereaboutsManager, DateManager } = customJS;
+
+        // If no targetDate is provided, pick a default from the page
+        if (!targetDate) {
+            targetDate = DateManager.getTargetDateForPage(metadata);
+        }
+
+        let c = WhereaboutsManager.getWhereabouts(metadata, targetDate).current;
+        if (c == undefined) return undefined;
+        if (c.location == undefined) return undefined;
+        return c.location;
+    }
+
     originLocation(metadata, targetDate) {
         const { WhereaboutsManager, DateManager } = customJS;
 

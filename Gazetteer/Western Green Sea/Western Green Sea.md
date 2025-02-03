@@ -15,7 +15,7 @@ dm_notes: none
 %% Status:
 * [x] In world intro
 * [x] Map
-* [ ] Topography
+* [x] Topography
 * [x] Civilizations and Culture
 * [x] History
 * [ ] Climate
@@ -50,10 +50,9 @@ markerTag: location-source
 ## Topography and Major Features
 _See more: [[Green Sea]], [[Cymean Peninsula]], [[~Cymean Archipelago~]], [[Skaerhem]]_
 
-This region is a maritime region dominated by the western part of the [[Green Sea]], and the region is mostly defined by the seafaring cultures that criss-cross the [[Green Sea]].
+Halfling traders love this land, the coastal waters of their ancient home on the [[Green Sea]], and it is from the halfling sailors that we take this geography. The sailors speak of the two major island chains in this part of the [[Green Sea]] often:
 
-There are two major archipelagos:
-* [[Skaerhem]], a volcanic archipelago of many small and medium sized islands 
+* [[Skaerhem]], a volcanic archipelago of many small and medium sized islands, tricky to navigate between
 * [[~Cymean Archipelago~]], dominated by the large island of [[~Cymean Archipelago Main Island~]]
 
 (_The geography of the Cymean Archipelago is still to be invented - Eds.)
@@ -115,7 +114,7 @@ After the fall of Drankor in DR 1059, [[Cymea]] emerged as a major maritime powe
 
 By the time of the [[Great War]], it was [[Cymea]], not the [[Skaerhem|Skaer]], who dominated the seas.  
 
-_(The sources for this period, including when exactly Cymea recovered from the fall of Drankor, and what Cymean cultures were competing or cooperating is hopelessly confused in the sources, and the Editors have not attempted here to untangle a most likely true version)_
+_(The sources for this period, including when exactly Cymea recovered from the fall of Drankor, and what Cymean cultures were competing or cooperating is hopelessly confused, and the Editors have not attempted here to untangle a most likely true version)_
 #### Tollish Era
 _(CY 5678 - Present)_
 In the aftermath of the [[Great War]], [[Cymea]] suffered much, and was never able to reclaim its place as a maritime power. Instead, the navies of [[Tollen]] filled the gap, and in the modern day it is [[Tollen]] navies that dominate [[Western Cymea]] and the shipping lanes of the western [[Green Sea]].
