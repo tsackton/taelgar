@@ -16,7 +16,6 @@ dm_owner: mike
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %%
-historical; friend or perhaps lover of [[Cedric Cyfenwid]]
 founder of order of the chartiable wanderer, from Valarin
 No real details made up; some hints in [[Report on the Bogblight]] 
 Was intended to be a major background figure in the Order of Charitable Wanderer but hasn't come up much in game
