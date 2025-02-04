@@ -46,7 +46,7 @@ As [[Sembara]] expands in the south, Tollen recovers, and over the 5400s and 550
 
 In the 5600s, war comes to the [[Green Sea]], first the battles against the ancient white dragon Vimfrost, and then the [[Great War]] itself. Tollen, however, survives intact, and if anything grows in power and influence, as many of the Sembaran kings in the years after the [[Great War]] have ties by blood or marriage to the great houses of Tollen.
 
-Now, in 5881, Tollen commands a significant navy and is the undisputed master of the Western Gult, controlling the [[Straits of Cymea]] and asserting influence over much of western [[Cymea]].
+Now, in 5881, Tollen commands a significant navy and is the undisputed master of the Western Gulf, controlling the [[Straits of Cymea]] and asserting influence over much of western [[Cymea]].
 
 ## Geography
 

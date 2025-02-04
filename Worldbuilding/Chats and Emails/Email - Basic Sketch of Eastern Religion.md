@@ -1,29 +1,24 @@
-(Jan 2021)
+(Jan 27, 2021)
 
 Let me know what you think, I can try to write it into the main religion doc if you like the general thrust.
 
-The eastern religion has its roots in the ancient intercessory belief from the mariner culture of Hkar. The tradition involved the idea that prayers to the Divine are given to one of the great beings: the earth, the sky, or the sea. And then these beings bring them to the Divine. Except when the wind (a fourth entity) steals them away (although the mischievous wind of course does not always steal blessings, sometimes they carry the blessing you didn't dare ask, or steal your enemy's blessing).
+The eastern religion has its roots in the ancient intercessory belief from the mariner culture of Hkar. The tradition involved the idea that prayers to the Divine are given to one of the great beings: the earth, the sky, or the sea. And then these beings bring them to the Divine. Except when the wind (a fourth entity) steals them away (although the mischievous wind of course does not always steal blessings, sometimes they carry the blessing you didn't dare ask, or steal your enemy's blessing).
 
 Over time, this results in a religion with four great gods: the Sky, the Earth, the Ocean, and the Wind, loosely personified, but seen more as the conduits to the Divine. Over time, helpers of these great gods are mixed into: the spirits of islands (the children of earth and ocean), and the cloud spirits (the children of ocean and sky). The spirits provide guidance and advice and support to humans, but ultimately, there remains a strong sense that the Divine (Ahra/Malik) is the 'real' god.
 
 Not sure how this plays out in the farther east, but this develops into two traditions in the Greater Sembaran region: the Kestavo, and the Skaer religion
 
-
 The Kestavo tradition is born of two main things:
-
 * The easterns moving inland, and losing the daily connection to the sea
-
 * Encounters and intermixing with the spiritual traditions of the northerns
-
-  
 
 This results in a religion that loses the specific spirits (the clouds and islands) of the eastern religion, but keeps a few major 'primordial' gods around the Earth, the Sky, and probably the mountains. And gains a massive influx in the idea of lots of small gods and small spirits, from the northerners.
 
-  
-
 The Skaer tradition on the other hand doubles down on the ocean. The idea develops that the only important god is the ocean itself, and all intercession with Arha and Malik goes through the ocean. The ocean stays only loosely personified, and a culture develops that Arha and Malik enable the great ocean to perform miracles <some ideas about whales, waves, and specific ocean spirits and how they might play out>. But ultimately Skaer is a religion where all worship is really around the personified ocean, who is the great artibitor and intercessor with Arha and Malik.
 
-====
+Mike
+
+======
 
 Something about this doesn't quite feel right to me. Thinking out loud, not necessarily committed to any of this:
 
@@ -83,9 +78,13 @@ Or, there is no reason at all why Taelgar couldn't sustain a third tight pantheo
 
 Interested in your takes.
 
-===
+  
 
-I think the metaphysical issues you raise are quite valid. I really like the northern religion, and I like how a lot of the ideas fit both into what I like about the 'Sembaran' version of Mos Numera and the Kestavo, which I really think works better with the animistic/shaman feel and ancient glaciers with a specific ice guardian spirit and so on. So I was trying to give an Eastern religion something of that same flavor. 
+Tim
+
+========================
+
+I think the metaphysical issues you raise are quite valid. I really like the northern religion, and I like how a lot of the ideas fit both into what I like about the 'Sembaran' version of Mos Numera and the Kestavo, which I really think works better with the animistic/shaman feel and ancient glaciers with a specific ice guardian spirit and so on. So I was trying to give an Eastern religion something of that same flavor. 
 
   
 
@@ -127,15 +126,25 @@ The other idea I like is your meditation idea. That could be cool to develop.
 
 So I guess I'd be included to suggest going either in a meditation and almost monotheistic worship of Ahra and Malik direction, or in a tight pantheon but with a strong mystery cult vibe (and so a lot of eastern cultures today might worship the same basic 4-5 gods, but with very different rituals from place to place).
 
-======
+  
 
-> I think the metaphysical issues you raise are quite valid. I really like the northern religion, and I like how a lot of the ideas fit both into what I like about the 'Sembaran' version of Mos Numera and the Kestavo, which I really think works better with the animistic/shaman feel and ancient glaciers with a specific ice guardian spirit and so on. So I was trying to give an Eastern religion something of that same flavor. 
+Mike
+
+===============================
+
+
+ome more thoughts:
+
+  
+
+On Wed, Jan 27, 2021 at 6:17 PM Mike Sackton <[msackton@gmail.com](mailto:msackton@gmail.com)> wrote:  
+
+> I think the metaphysical issues you raise are quite valid. I really like the northern religion, and I like how a lot of the ideas fit both into what I like about the 'Sembaran' version of Mos Numera and the Kestavo, which I really think works better with the animistic/shaman feel and ancient glaciers with a specific ice guardian spirit and so on. So I was trying to give an Eastern religion something of that same flavor. 
 > 
 >   
 > 
 > One way of cutting the knot is just make the Kestavo a northern religion (as you suggest). Maybe the easterners never really made it east of Skaegenland, and the highland/north Vostok culture is really northern-inspired not eastern-inspired culture. That actually works well -- there is no reason for the easterners to have spread away from the coasts at all, keeping them much more (in the original pre-downfall version at least), ocean-centric. And the northerners feel like the sorts that would befriend the dwarves and end up on both sides of the central mountains with dwarven intermediaries. That could even be kinda interesting in the current Sembaran climate, if the northern highland culture has very ancient ties to dwarves.
 
-  
 
 Yeah, I think this works. So, I would then tweak slightly to have the northerns spread across the far north, as far east as the Vostok mountains, and then into the highlands of the central mountains - but not the coast. So Tyrwinghna, Cymea, coastal Vostok, and Skaer Islands are ancestrally easterner, albeit far 'fringe' Easterner, so to speak. This impacts language, though, and would probably mean revising a lot of the names for the Sembaran highland kingdoms, so that they actually feel quite *different* from the lowlands/islands. I need to revisit my language docs with these new developments, but I do think it is really useful to keep the northerner language feeling very distinct. I have been using Semitic languages, as opposed to Indo-European for the rest of the northwest/east, but could revisit.
 
@@ -173,7 +182,7 @@ So, of course, this is kind of the unique thing about the Dunmari, especially th
 
 Yeah I may think about this a bit. Of course, the idea here is that it is some unique/interesting discovery, so this could be out east somewhere (or anywhere, really) but not 'ancestral' to the culture.
 
-==================
+===============
 
 On Wed, Jan 27, 2021 at 7:54 PM Tim Sackton <[timsackton@gmail.com](mailto:timsackton@gmail.com)> wrote:  
 
@@ -191,7 +200,7 @@ On Wed, Jan 27, 2021 at 7:54 PM Tim Sackton <[timsackton@gmail.com](mailto:timsa
 
   
 
-Right. There are not that many names, I'm happy to do a semitic variant on the highlands. Lots of sources for Hebrew/Arabic names. I want to think a little bit about the impact on Sembaran history. The Sembaran story does need the highland culture and the lowland culture at the time of the Drankorian conquest to be similar (as opposed to say, the lowlanders are eastern and highlanders northern) in order to make the back and forth conquest and loss of the highland kingdoms work, and to make the Sembaran Mos Numera reasonably inspired/influenced by highland culture, which is the point of all this :)
+Right. There are not that many names, I'm happy to do a semitic variant on the highlands. Lots of sources for Hebrew/Arabic names. I want to think a little bit about the impact on Sembaran history. The Sembaran story does need the highland culture and the lowland culture at the time of the Drankorian conquest to be similar (as opposed to say, the lowlanders are eastern and highlanders northern) in order to make the back and forth conquest and loss of the highland kingdoms work, and to make the Sembaran Mos Numera reasonably inspired/influenced by highland culture, which is the point of all this :)
 
   >  One  idea on how to make a tight pantheon unique is to play up mystery cults. I was reading earlier about Mithras and other Greek mystery cults and something like that could be pretty interesting. It is easy to see how a tight pantheon with a strong mystery cult tradition might have spun off a some of the mystery cults as unique religions (i.e. Skagenland religion started as a mystery cult to the ocean goddess, with its own rituals and initiations and so on, and eventually, all Skaegar people were kinda inducted into the cult). This could also have some interesting tie ins to necromancy and evil cults and worshippers of the Three Despairs. It could be interesting to have a part of Taelgar with the religious tradition is all in on cult-like beliefs.
 > 
@@ -218,13 +227,14 @@ I actually feel like what Taelgar needs is a bit of a 'neutral' culture that can
   
 
 Here, what do you think of this...
-  
-
-The easterners, a pantheonic mariner culture, left Hkar in two waves, settling at first amongst the many islands of the Green Sea. But Something Happened(tm) amongst the islands and a schism developed. Many easterns stayed in the east, around the islands and the northern shores of the Green Sea. These people eventually became the ~ColdMagocracy~, the ~BigIsland~, the ~FarNorthPeninsula~ and the ~EntranceIsland~ people. They basically stay in a rectangle formed by the big island, the near coast to the big island, the far penisula, and the southern coast by the entrance islands. But they don't really settle on the south coast of the Green Sea anywhere. This group shares a religion (or set of related religions) that is strongly associated with Ahra and Malik directly, with some meditation magic or something. Perhaps some aspects of Buddhism. Perhaps a revered human founder (maybe one of the only human religious founders, the gods taking the credit for all the other religions). 
 
   
 
-The second half of the easterners headed further west, ultimately in some fashion wanted to get away from their erstwhile brethren. They settle on the Vostok, Cymean, and ~SouthCymean~ coasts, Skagenland, and around the Western Gulf. Whatever Weird Event inspired the new religion out east, these people want no part in it. As they spread up the rivers in Sembara, they encountered the northerns in the highlands, and in Vostok and Sembara, a new religion developed (the Kestavo). When the Drankorian empire moved into the region, the Cymean and South Cymean easterners quickly assimilated, as did most of the Sembaran 'east northerners'.  What is left in the region of this group is the Vostok/Sembaran highland 'Kestavo' culture, and the Skager, and maybe a bit of a unique Tollen culture, along the north coast of the Western Gulf and coastal Vostok.
+The easterners, a pantheonic mariner culture, left Hkar in two waves, settling at first amongst the many islands of the Green Sea. But Something Happened(tm) amongst the islands and a schism developed. Many easterns stayed in the east, around the islands and the northern shores of the Green Sea. These people eventually became the <ColdMagocracy>, the <BigIsland>, the <FarNorthPeninsula> and the <EntranceIsland> people. They basically stay in a rectangle formed by the big island, the near coast to the big island, the far penisula, and the southern coast by the entrance islands. But they don't really settle on the south coast of the Green Sea anywhere. This group shares a religion (or set of related religions) that is strongly associated with Ahra and Malik directly, with some meditation magic or something. Perhaps some aspects of Buddhism. Perhaps a revered human founder (maybe one of the only human religious founders, the gods taking the credit for all the other religions). 
+
+  
+
+The second half of the easterners headed further west, ultimately in some fashion wanted to get away from their erstwhile brethren. They settle on the Vostok, Cymean, and <SouthCymean> coasts, Skagenland, and around the Western Gulf. Whatever Weird Event inspired the new religion out east, these people want no part in it. As they spread up the rivers in Sembara, they encountered the northerns in the highlands, and in Vostok and Sembara, a new religion developed (the Kestavo). When the Drankorian empire moved into the region, the Cymean and South Cymean easterners quickly assimilated, as did most of the Sembaran 'east northerners'.  What is left in the region of this group is the Vostok/Sembaran highland 'Kestavo' culture, and the Skager, and maybe a bit of a unique Tollen culture, along the north coast of the Western Gulf and coastal Vostok.
 
   
 
@@ -233,7 +243,7 @@ So you end up with, in the Green Sea:
   
 
 * The pseudo-monotheists out east, dominating the northeast of the Green Sea and the entrance islands, and perhaps broadly inward looking. Linguistically Eastern, but with a unique religion.
-	
+
   
 
 * The southern coast, today is really three cultures, none with eastern origins: 
@@ -242,13 +252,13 @@ So you end up with, in the Green Sea:
 
 ** the "mystery people" of the far south eastern Endless Ocean shore (not going to spend brainpower on them right now, but could be anything -- not a factor in any campaign)
 
-** Cymea and South Cymea, which whatever they end up evolving into, are both Drankorian successor states and don't preserve anything of the ancient easterns, and clearly Mos Numera
+** Cymea and South Cymea, which whatever they end up evolving into, are both Drankorian successor states and don't preserve anything of the ancient easterns, and clearly Mos Numera
 
   
 
 * The interior is really two cultures:
 
-* Sembara, which preserves its 'east northern' blended culture only in its specific take on Mos Numera
+* Sembara, which preserves its 'east northern' blended culture only in its specific take on Mos Numera
 
 * the highlands and northern Vostok, which preserve much more of the east northern blended culture and have a unique religion, the Kestavo
 
@@ -264,4 +274,11 @@ So you end up with, in the Green Sea:
 
 ** Coastal Vostok and Tollen, which are either a similar blended east northern culture as the highlands, or a new somewhat unique eastern holdout culture, or simply like Sembara, were whatever they were but fell under the Drankorian sphere and now are basically Drankorian with a bit of a twist
 
+  
+
 Mike
+
+
+==================
+Yeah, I think this works. Doing some sketches, will upload in a bit
+Tim

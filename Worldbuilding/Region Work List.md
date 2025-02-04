@@ -1,24 +1,6 @@
 
 This is page tracks the status of the Gazetteer reorganization. 
 
-### Create Base Region Pages
-
-* [x] [[Northwest Coast]]
-* [x] [[Greater Chardon]]
-* [x] [[Nevos and Apporia]]
-* [x] [[Northern Sentinels]]
-* [x] [[Central Highlands]]
-* [x] [[Greater Dunmar]]
-* [x] [[Greater Sembara]]
-* [x] [[Upper Istaros]]
-* [x] [[Drankorian Hinterland]]
-* [x] [[Northern Green Sea]]
-* [x] [[Western Green Sea]]
-* [x] [[Eastern Green Sea]]
-* [x] [[Far South]]
-* [x] [[Far North]]
-* [x] [[Western Ocean]]
-
 ## Finish Region Pages
 (or at least, finish mostly and add todos on the individual page)
 * [ ] [[Northwest Coast]]

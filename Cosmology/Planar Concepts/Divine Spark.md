@@ -19,7 +19,7 @@ There is a lot of brainstorming on this:
 
 Some possible context around the not-yet-developed "worship Divine Presence Directly Religion":
 - [[Discord Chat - Green Sea]]
-- [[Email - Eastern Religion I]]
+- [[Email - Basic Sketch of Eastern Religion]]
 - [[Email - Eastern Religion II]]
 - [[Email - Human Religions in MTP]]
 - [[Email - Skaer]]
