@@ -10,10 +10,10 @@ dm_notes: important
 ---
 # The Flaming Tempest
 >[!info]+ Information  
-> [[Skaerhem|Skaer]] pirate ship  
+> [[Skaer]] pirate ship  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-The Flaming Tempest is a well-built, double-masted [[Skaerhem|Skaer]] longship, with space for a crew of 40 and seaworthy for long voyages over open ocean. 
+The Flaming Tempest is a well-built, double-masted [[Skaer]] longship, with space for a crew of 40 and seaworthy for long voyages over open ocean. 
 %%^Date:1747-04-09%%
 Captained by [[Urgall the Black]], the Flaming Tempest gained a reputation as a notoriously dangerous pirate ship, raiding shipping traveling towards the [[Straits of Cymea]], aided, in reports of the few survivors, by demonic magic. 
 %%^End%%

@@ -14,9 +14,9 @@ dm_owner: none
 dm_notes: color
 ---
 # Jorma
->[!info]+ Biographical Info
-> A [[Skaerhem|Skaer]] [[Humans|human]] (he/him)
-> `$=dv.view("_scripts/view/get_PageDatedValue")`
+>[!info]+ Biographical Info  
+> A [[Skaer]] [[Humans|human]] (he/him)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% setting metadata/jheader as ideally want a way to tag campaign info for people that the party didn't meet, but only heard about, but not clear the best way to do this as the location ends up wrong if you use the date the party heard about the person. %%

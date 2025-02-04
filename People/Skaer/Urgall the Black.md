@@ -21,7 +21,7 @@ dm_notes: color
 ---
 # Urgall the Black
 >[!info]+ Biographical Info  
-> A [[Skaerhem|Skaer]] [[Humans|human]] (he/him)  
+> A [[Skaer]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
@@ -30,7 +30,7 @@ dm_notes: color
 Urgall, known as Urgall the Black, was a Skaer outcast and exile. As a young man, he felt constrained and bound by the conformist traditions of the Skaer, and chafed at being told where to work and what to contribute. Eventually, he refused to share his fishing bounty, and was excommunicated. He left, and wandered the [[Green Sea]], turning to piracy to support himself. Sometime during his pirate days, he made a pact with a demon known as [[Mashtu the Corruptor]], becoming a warlock in the service of the fiend's goals of corruption. 
 
 %%^Date:1747%%
-In the spring of DR 1747, Urgall's aims turned to the service of his demonic master, as recorded on a [[Urgall's scroll|ciphered scroll]] found on the [[Flaming Tempest]]. By the spring of 1748, this service took him to the holy island of [[Vetta]], where he was trapped and cursed by [[Jorma]], priest of the waters, and [[Kaikkea]], goddess of the ocean and protector of the [[Skaerhem|Skaer]]. He wasted away on the island for months, unable to leave and unable to die, sacrificing his crew to summon his patron, the demon [[Mashtu the Corruptor]]. 
+In the spring of DR 1747, Urgall's aims turned to the service of his demonic master, as recorded on a [[Urgall's scroll|ciphered scroll]] found on the [[Flaming Tempest]]. By the spring of 1748, this service took him to the holy island of [[Vetta]], where he was trapped and cursed by [[Jorma]], priest of the waters, and [[Kaikkea]], goddess of the ocean and protector of the [[Skaer]]. He wasted away on the island for months, unable to leave and unable to die, sacrificing his crew to summon his patron, the demon [[Mashtu the Corruptor]]. 
 
 He was [[Session 81 (DuFr)|killed]] by [[Dunmar Fellowship]] in December 1748. 
 %%^End%%

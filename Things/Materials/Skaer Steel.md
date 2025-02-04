@@ -9,7 +9,7 @@ dm_notes: none
 ---
 # Skaer Steel
 >[!info]+ Information  
-> ([[Skaerhem|Skaer]] material)  
+> ([[Skaer]] material)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 Skaer steel is a rare steel produced by secret means by the Skaer, using the heat of their volcanic islands and rare metals to create a material that is remarkably light and holds an edge exceptionally well.

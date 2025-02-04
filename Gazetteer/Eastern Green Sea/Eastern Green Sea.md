@@ -12,7 +12,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-East of the well-traveled ports of [[Tollen]] and [[Cymea]] lies a vast expanse of the [[Green Sea]]. Many rumors come west from these lands: on halfling ships carrying exotic goods from [[Medju]]; or on [[Tollen]] merchant ships, chartered by the [[Dyer's Guild]] to bring exotic dyes from [[Ursk]]; or from restless [[Skaerhem|Skaer]] sailors, far from their home islands. These rumors tell of many things: islands that move from season to season; cities made of gold and emeralds that sparkle in the desert sun; flying [[Kenku|kenku]] living in cliffside roosts on islands red like blood; stoneborn rafts, kept afloat by will alone, drifting from island to island; hobgoblin pirates who eat the hearts of their victims; strange gods of pleasure who bring waking bliss to their acolytes; clerics who worship the [[Divine Presence]] itself and can summon food and water by merely thinking a prayer. 
+East of the well-traveled ports of [[Tollen]] and [[Cymea]] lies a vast expanse of the [[Green Sea]]. Many rumors come west from these lands: on halfling ships carrying exotic goods from [[Medju]]; or on [[Tollen]] merchant ships, chartered by the [[Dyer's Guild]] to bring exotic dyes from [[Ursk]]; or from restless [[Skaer]] sailors, far from their home islands. These rumors tell of many things: islands that move from season to season; cities made of gold and emeralds that sparkle in the desert sun; flying [[Kenku|kenku]] living in cliffside roosts on islands red like blood; stoneborn rafts, kept afloat by will alone, drifting from island to island; hobgoblin pirates who eat the hearts of their victims; strange gods of pleasure who bring waking bliss to their acolytes; clerics who worship the [[Divine Presence]] itself and can summon food and water by merely thinking a prayer. 
 
 Are these rumors true? Surely some are, the people of [[Tollen]] say, but few dare speculate on what is fact or fiction.
 ## Map
@@ -44,7 +44,7 @@ For more detail, see the [[Green Sea]] page. In general:
 
 %%^End%%
 ## Major Historical Eras
-Little is known of the history of this region, although the [[Skaerhem|Skaer]] and other [[~Mariners~|ancient mariner cultures]] speak of their journeys through the eastern [[Green Sea]] in their legends and tales, and scholars agree that the [[~Mariners~]] were the first humans to settle in this region, sailing from [[Hkar]], although whether across the [[Endless Ocean]] or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the [[The Downfall|Downfall]] much of the [[Green Sea]] was covered by the enormous [[~Ancient Lizardfolk Swamp~]].
+Little is known of the history of this region, although the [[Skaer]] and other [[~Mariners~|ancient mariner cultures]] speak of their journeys through the eastern [[Green Sea]] in their legends and tales, and scholars agree that the [[~Mariners~]] were the first humans to settle in this region, sailing from [[Hkar]], although whether across the [[Endless Ocean]] or from some other path, history does not say. All agree that the human settlement spread from east to west, and that in the ancient days before the [[The Downfall|Downfall]] much of the [[Green Sea]] was covered by the enormous [[~Ancient Lizardfolk Swamp~]].
 
 %%^Campaign:None%%
 ## DM Notes and Meta

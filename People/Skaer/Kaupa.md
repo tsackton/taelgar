@@ -16,10 +16,10 @@ dm_notes: color
 ---
 # Kaupa
 >[!info]+ Biographical Info  
-> A [[Skaerhem|Skaer]] [[Humans|human]] (he/him)  
+> A [[Skaer]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 30th, 1748 in the [[Tollen|Free City of Tollen]], the Western Green Sea Region %%^End%%
 
 ![[kaupa.png|right|420]]A diligent representative of the Skaer Trade Mission, Kaupa's role in [[Tollen]] is vital in ensuring that trade relations between [[Skaerhem]] and [[Tollen]] remain strong and beneficial for both parties.
 

@@ -196,7 +196,7 @@ The city of [[Drankor]] was founded in CY 4133 by refugees from [[Hkar]], and ov
 %% See [[Historical Framework - Open Questions#Drankorian Expansion]]  for open questions %%
 
 * The Founding Period (_CY 4133 - 4483_), when the unsettled lands along the [[Sea of Storms]], the south-western [[Green Sea]] coast, and in the [[Istaros Watershed]] are populated
-* The Eastern Expansion (_CY 4485 - 4585_), when the lands north of the [[Mostreve Hills]] are settled, and Drankor establishes a hegemony over the [[Western Gulf]], pushing out the [[Skaerhem|Skaer]]
+* The Eastern Expansion (_CY 4485 - 4585_), when the lands north of the [[Mostreve Hills]] are settled, and Drankor establishes a hegemony over the [[Western Gulf]], pushing out the [[Skaer]]
 * The Western Expansion (_CY 4730 - 4780_), when Drankor expands past [[Darba]] to the [[West Coast Region]]
 
 %% some important vibes considerations. what follows is not strictly canonical in detail, but should be roughly followed in vibes to the extent possible. %%
@@ -226,8 +226,8 @@ Canonically, there are few to no humans here - this land primarily was the remai
 %%
 
 Outside of the Drankorian lands:
-* the [[Skaerhem|Skaer]] empire is flourishing in the [[Western Green Sea]], controlling [[Tollen]], much of [[Cymea]], the shores of [[Vostok]], the [[Skaerhem|Skaer Islands]], and at least some of the Sembaran coast
-* further east in the Green Sea events are unclear, but there should be no major powers pushing west to compete with the [[Skaerhem|Skaer]] for dominance of the [[Western Gulf]]
+* the [[Skaer]] empire is flourishing in the [[Western Green Sea]], controlling [[Tollen]], much of [[Cymea]], the shores of [[Vostok]], the [[Skaerhem|Skaer Islands]], and at least some of the Sembaran coast
+* further east in the Green Sea events are unclear, but there should be no major powers pushing west to compete with the [[Skaer]] for dominance of the [[Western Gulf]]
 * [[Tyrwingha]] is already under the protection of [[Archfey Ethlenn]], and sees itself as a unique culture, perhaps across a shared region with [[Addermarch]], although details that would implicate Ethlenn's bargain with Tyrwingha should be invented carefully
 * the [[~Northerner~]] cultures are continuing to spread; specific details outside of the Sembaran mixing pot are not clear, however these cultures should not have encountered Drankor yet
 * the [[Dunmar|Dunmari]] are somewhere east of Drankor, well outside the zone of settlement

@@ -21,7 +21,7 @@ This note tries to draw together information from various sources to form a semi
 
 %% some notes to consider:
 - The cultural context of Tollen is perhaps a little unspecified here. [[Tollen]] has some history that is relevant; in the modern day (post-Great-War) Tollen is fairly distinct, culturally, from Sembara, which is not necessarily well-captured here, although obviously shares some key cultural strands.
-- There is some history of the [[Skaerhem|Skaer]] that could be usefully considered, as well as some shared discussion about the various strands of expansionism and isolation in Skaer culture
+- There is some history of the [[Skaer]] that could be usefully considered, as well as some shared discussion about the various strands of expansionism and isolation in Skaer culture
 - Cymea does not receive any treatment here, and Isingue minimal treatment but is clearly part of this cultural milieu. I think in past discussions it has been assumed these are more purely Drankorian cultures, but I'm not sure this is canonical. %%
 ## Context
 The most important context for the history of humanity in the Greater Sembara area are the three migrations:

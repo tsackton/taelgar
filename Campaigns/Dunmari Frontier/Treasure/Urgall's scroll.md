@@ -8,7 +8,7 @@ displayDefaults: {defArt: ""}
 ---
 # Urgall's Scroll
 >[!info]+ Information  
-> ([[Skaerhem|Skaer]] ciphered scroll)  
+> ([[Skaer]] ciphered scroll)  
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
 A ciphered scroll, recovered from the captain's cabin on the [[Flaming Tempest]], in the hand of [[Urgall the Black]]. It reads, in translation:

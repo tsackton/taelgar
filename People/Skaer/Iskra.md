@@ -18,11 +18,11 @@ dm_notes: none
 ---
 # Laivan Iskra
 >[!info]+ Biographical Info  
-> A [[Skaerhem|Skaer]] [[Humans|human]] (she/her)  
+> A [[Skaer]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:dufr%% Courted by [[Kenzo]] on December 30th, 1748 %%^End%%  
->> %%^Campaign:DuFr%% Last seen by the [[Dunmar Fellowship]] on January 5th, 1749 in the [[Tollen|Free City of Tollen]] %%^End%%
+>> %%^Campaign:DuFr%% Last seen by the [[Dunmar Fellowship]] on January 5th, 1749 in the [[Tollen|Free City of Tollen]], the Western Green Sea Region %%^End%%
 
 ![[laivan-iskra.png|right|500]]A young woman and priestess of [[Kaikkea]] in [[Tollen]]. She speaks with the power of the ocean, and has a deep connection to [[Kaikkea]].
 

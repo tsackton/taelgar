@@ -25,7 +25,7 @@ The Dunmar Fellowship arrives in [[Tollen]], seeking allies and information.
 - They encounter and survive an acidic ooze attack in the ruined city [[Isingue]].
 - Arriving in Tollen, they negotiate safe harbor and split up to pursue various interests across the city: [[Wellby]] reconnects with mapmaker [[Guy Marchand]], [[Delwath]] shops for skyship needs and gathers local rumors, [[Kenzo]] seeks out a magical tattoo.
 - They end the day at [[The Windward Sail]], learning about local figures and rumors from [[Wendel Quickstep]] and [[Nika Hyne]]
-- The party meets with the elf [[Melindir]] who advises caution with [[Caelynn]] and speaks of a a potential quest from the [[Skaerhem|Skaer]].
+- The party meets with the elf [[Melindir]] who advises caution with [[Caelynn]] and speaks of a a potential quest from the [[Skaer]].
 
 ### Timeline
 - (DR:: 1748-12-10): Leave [[Uzgukhar]], flying north on [[Vindristjarna]]
