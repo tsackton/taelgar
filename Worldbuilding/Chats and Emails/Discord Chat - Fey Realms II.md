@@ -20,7 +20,7 @@ i have another meeting but possibly more later
 Deciusmus — Yesterday at 2:19 PM
 yeah I need to go get lunch before my 3pm meeting
 rsulfuratus — Yesterday at 6:21 PM
-Image
+![[Pasted image 20250204184016.png]]
 steel blue = shimmersong
 dark blue = sharpspire
 violet = twilight's grace
