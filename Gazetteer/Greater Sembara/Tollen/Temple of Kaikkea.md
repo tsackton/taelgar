@@ -15,7 +15,7 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-An ancient building in [[Godshome]] in [[Tollen]], built by the original [[Skaerhem|Skaer]] settlers of this region long ago. The temple remains a highly sacred place to the Skaer, and a priest always serves to make sure that [[Kaikkea]] can still be heard here. This is also the center of the small Skaer community in [[Tollen]].
+An ancient building in [[Godshome]] in [[Tollen]], built by the original [[Skaer]] settlers of this region long ago. The temple remains a highly sacred place to the Skaer, and a priest always serves to make sure that [[Kaikkea]] can still be heard here. This is also the center of the small Skaer community in [[Tollen]].
 
 The temple is a striking circular building of brilliant white marble shaped like undulating wave.
 

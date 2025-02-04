@@ -15,7 +15,7 @@ dm_notes: color
 ---
 # Tulvak
 >[!info]+ Biographical Info  
-> A [[Skaerhem|Skaer]] [[Humans|human]] (he/him)  
+> A [[Skaer]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 21th, 1748 in [[Pyhlla]], [[Skaerhem]] %%^End%%

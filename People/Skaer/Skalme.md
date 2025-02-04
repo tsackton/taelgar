@@ -16,11 +16,12 @@ dm_notes: color
 dm_owner: none
 ---
 # Skalme
+*(SKAHL-me)*
 >[!info]+ Biographical Info  
-> A [[Skaerhem|Skaer]] [[Humans|human]] (she/her)  
+> A [[Skaer]] [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 21st, 1748 in [[Antaka]], [[Skaerhem]] %%^End%%
+>> %%^Campaign:DuFr%% Met by the [[Dunmar Fellowship]] on December 21th, 1748 in [[Antaka]], [[Skaerhem]] %%^End%%
 
 ![[skalme-portrait.png|right|400]]Skalme, known as the Priestess of Fire, is the divine protector of the elemental fire, the volcano known as  Kuaine (coo-ine-a), on the Skaer volcanic island of [[Antaka]]. She is a powerful divine magic user. 
 

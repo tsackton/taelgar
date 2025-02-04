@@ -228,12 +228,7 @@
         },
         {
             "from": "Skaegish",
-            "to": "Skaerhem",
-            "isAlias": true
-        },
-        {
-            "from": "Skaer",
-            "to": "Skaerhem",
+            "to": "Skaer",
             "isAlias": true
         },
         {

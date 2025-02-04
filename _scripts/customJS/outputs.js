@@ -354,7 +354,7 @@ class OutputHandler {
         let vals = this.getWhereaboutsStrings(fileName, metadata)
         let displayString = `${vals.origin}${vals.home}${vals.current}${vals.lastKnown}`
 
-        if (vals.secondary.trim()) {
+        if (vals.secondary && vals.secondary.trim()) {
             displayString += "\n" + vals.secondary
         }
 
