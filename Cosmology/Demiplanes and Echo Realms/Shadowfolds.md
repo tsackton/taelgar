@@ -26,7 +26,7 @@ The canonical details of the so-called Shadowfolds (name is tentative) are a lit
 - Domains of dread are explicitly temporary. Unlike the Feywild, a Shadowfold domain cannot typically survive the death of its dread lord. Killing a dread lord should never be an easy thing - and some dread lords may be powerful enough to be more or less immortal - but in some fundamental sense a domain *is* a dread lord. 
 
 There are also some properties of the one invented domain of dread ([[Morkalan]]) that could be general, or could be unique to that domain:
-- The terrain of Morkalan echoes the terrain of Taelgar to which it is connected, kind of like the Feywild echo. However, Morkalan emerged from a specific betrayal and could be tied to location because of that, in a way that other domains are not.
+- The terrain of [[Morkalan]] echoes the terrain of Taelgar to which it is connected, kind of like the Feywild echo. However, Morkalan emerged from a specific betrayal and could be tied to location because of that, in a way that other domains are not.
 - In Morkalan, people could live, and even have children, but there was no connection to the gods. Dwarven children could not find the Heart of the Mountain and thus could not get their names or thuhr; people who died were trapped as ghosts. Time passed, but the old did not die, they just grew older. These could all be specific to the fact that Morkalan was created by a betrayal around the Chalice of the Runepriest, and so maybe was cut off by the Baharazel specifically. It was only populated by dwarves. 
 
 Name brainstorming:
