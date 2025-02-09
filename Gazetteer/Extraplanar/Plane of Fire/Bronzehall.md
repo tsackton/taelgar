@@ -5,7 +5,7 @@ name: Bronzehall
 typeOf: city
 whereabouts: Elemental Plane of Fire
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # Bronzehall
 >[!info]+ Information  

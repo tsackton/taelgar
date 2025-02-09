@@ -4,7 +4,7 @@ tags: [place]
 whereabouts: Elemental Plane of Fire
 typeOf: region
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # The Cinder Wastes
 >[!info]+ Information  

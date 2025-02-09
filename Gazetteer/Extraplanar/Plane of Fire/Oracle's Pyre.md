@@ -4,7 +4,7 @@ tags: [place]
 whereabouts: Cinder Wastes
 typeOf: landmark
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # The Oracle's Pyre
 >[!info]+ Information  
