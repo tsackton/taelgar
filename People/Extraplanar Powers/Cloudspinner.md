@@ -36,7 +36,7 @@ Her memories opened [[Session 67 (DuFr)]]:
 
 *She remembers the darkness that crept over her realm then, the cursed ones, the [[Story about Hags|hags]] and tricksters and malicious spirits of the Unseelie Court, who came after she was gone, who conquered and claimed [[Amberglow]] as their own, who filled the realm with darkness and despair. She remembers how they hunted down her remaining subjects, and how they desecrated the places that once held such beauty and light.
 
-*But she also remembers the resistance, the brave Fey and other creatures who fought back against the invaders, who formed secret alliances and underground networks, who kept the spark of hope alive in [[Amberglow]], even in its darkest days. [[Typhina]], the protector of the Heartwood Grove; <>, the Lady of the Lake, who drained the river of time; Bellator, the changeling king who sacrificed himself to hide the ruins of the Cloud Palace from those who would mean harm.
+*But she also remembers the resistance, the brave Fey and other creatures who fought back against the invaders, who formed secret alliances and underground networks, who kept the spark of hope alive in [[Amberglow]], even in its darkest days. [[Typhina]], the protector of the [[Heartwood Grove]]; <>, the Lady of the Lake, who drained the river of time; Bellator, the changeling king who sacrificed himself to hide the ruins of the Cloud Palace from those who would mean harm.
 
 *So she watches, and she waits, and she hopes, for the day when she will be free, and when [[Amberglow]] will once again be a realm of beauty and wonder. Until then, she will continue to fight, and to dream, and to hold onto the memory of what once was, and what could be again.
 

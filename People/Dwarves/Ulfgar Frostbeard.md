@@ -25,3 +25,5 @@ dm_owner: tim
 A dwarven scholar and theoretical metaphysicist, on the Faculty of Metaphysics at the [[University of Chardon]].  He is the author of [[The Lore of the Feywild]], and is acknowledged as something of an expert on the lore of the [[Feywild]], although he has never had the courage to travel there himself. 
 
 %%SECRET[1]%%
+
+%%SECRET[2]%%
