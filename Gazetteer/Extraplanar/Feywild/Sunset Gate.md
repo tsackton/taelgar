@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+excludePublish: ["dufr"]
 typeOf: magical place
 whereabouts: Feywild
 dm_owner: mike

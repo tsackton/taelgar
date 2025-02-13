@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/stub]
 whereabouts: Feywild
+excludePublish: ["dufr"]
 typeOf: realm
 dm_owner: none
 dm_notes: color
