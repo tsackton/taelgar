@@ -11,7 +11,7 @@ aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, end: 1001, location: Amberglow}
 - {type: away, start: 1002, location: imprisoned }
-- {type: away, start: 1749-05-21, location: Vindristjarna}
+- {type: away, start: 1749-05-21, end: 9999, location: Vindristjarna}
 dm_notes: important
 dm_owner: tim
 ---

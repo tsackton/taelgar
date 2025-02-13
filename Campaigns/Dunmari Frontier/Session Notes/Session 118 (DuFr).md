@@ -24,7 +24,7 @@ The [[Dunmar Fellowship]] faces Lirien's arrival and a shadowy attack on [[Vindr
 ### Summary
 - The [[Dunmar Fellowship]], discussing the fate of the [[Crown of Purity]], is interrupted by Seeker's transformation and the arrival of [[Lirien]] on a glowing stag.
 - [[Lirien]], Lanternkeeper of [[Redsun Watch]], seeks the imprisoned [[Cloudspinner]], recounting her history and the fall of [[Redsun Watch]] to the encroaching darkness.
-- [[Seeker]] is possessed by [[[[Lady Eventide]]|[[Lady Eventi]]de]], a fey presence from his past, who demands to see the [[Cloudspinner]].
+- [[Seeker]] is possessed by [[Lady Eventide]], a fey presence from his past, who demands to see the [[Cloudspinner]].
 - The party faces a massive dark attack, resulting in [[Lirien]]’s death and battling shadowy foes.
 - With the aid of ice cannon and magic, the Fellowship defeats the dark entities, but is warned of more threats.
 - [[Seeker]]/[[Lady Eventide]] warns of more threats approaching, prompting an urgent departure towards the [[Bitterwine Oak]]
