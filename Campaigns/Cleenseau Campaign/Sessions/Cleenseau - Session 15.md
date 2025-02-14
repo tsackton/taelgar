@@ -5,15 +5,11 @@ realWorldDate: 2024-06-02
 sessionNumber: 15
 players: [Robin, Viepuck, Celyn, Izgil]
 ---
-
 # Cleenseau - Session 15
-
 >_in Taelgar, January 25th - February 7th
 >7 Robert I / DR 1720
 >[[Cleenseau]] and vicinity,
 >on Earth: June 2nd, 2024
->Kiya's story version here: https://kiya.dreamwidth.org/784090.html
-  
 ### Summary and Major Events
 
 * The party returns to Cleenseau and reunites with [[Izgil Moonseeker|Izgil]], who had been hunting zombies in the [[East Bog]] with [[Vahaiya]]. [[Tristan Vaudrillard]], and [[Remille Vauclaire]]
@@ -58,11 +54,7 @@ players: [Robin, Viepuck, Celyn, Izgil]
 
 _Thanks to Kiya for this, it is lightly edited, mostly to crosslink places and add details that would be too much on Dreamwidth_
 
-  
-
 Then of course we got the band back together by promptly reuniting with our [[Izgil Moonseeker|missing lunatic]], who we encountered on the road between [[Dallet]] and [[Beury]]. He and [[The Rangers]] - [[Vahaiya]], [[Tristan Vaudrillard|Tristan]], and [[Remille Vauclaire|Remille]] had been clearing out undead dregs in the [[East Bog]].  After a brief reunion, Tristan and Remille, along with [[Emilie]], now reunited with her companions, head north toward the [[Aveil Hills]] in order to figure out what had happened to their friends - [[Damien Montrichard]], [[Enzo Brightwood]] and [[Adra Brightwood]]; [[Vahaiya]] remained, because they was concerned about the fey-realm portal we had previously discovered. So a bunch of them went one way, and they went to keep watch over the portal and see if there was a pattern to it doing anything, and we all went to figure out what nonsense had happened in our absence.  
-
-  
 
 Mostly there was a lot of petty administrative bullshit to work on to start with, which is primarily Robin's problem, with a side of being Viepuck's problem as Robin's squire, social secretary, and too-many-people filter. Celyn checked in on the local Wyrdling temple in our secondary base of operations then tried to be helpful with administrative nonsense.  
 
