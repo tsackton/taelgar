@@ -6,7 +6,7 @@ sessionNumber: 7
 players: [Izgil, Robin, Viepuck, Celyn]
 ---
 # Cleenseau - Session 7
->_in Taelgar from January 1st - January 6th
+>_in Taelgar from January 2nd - January 6th
 >7 Robert I / DR 1720
 >[[Cleenseau]] and vicinity
 >on Earth: October 22nd, 2023
