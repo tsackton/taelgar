@@ -30,7 +30,7 @@ Agata Dustmother, often referred to as the "Old Woman of the Dusts," is an ancie
 
 Agata Dustmother, known as the Old Woman of the Dusts, is an ancient fey [[Story about Hags|hag]] renowned for her plotting and deal-making skills, who always seems to emerge victorious in her bargains. She has dwelt at the edge of the [[Garamjala Desert]], in [[Eastern Dunmar]], for as long as anyone can remember, luring the desperate and unwary into bargains. She is fascinated by strange and especially gruesome magic, and is a collector of magic items, from the common to the extraordinary. 
 
-In DR 1748, she was imprisoned in the Heartwood Grove in the [[Feywild]] realm of [[Amberglow]] by [[Dunmar Fellowship]]. 
+In DR 1748, she was imprisoned in the [[Heartwood Grove]] in the [[Feywild]] realm of [[Amberglow]] by [[Dunmar Fellowship]]. 
 ## Description
 ![[agata-portrait.png|400]]
 Agata takes the appearance of a withered old woman, with dry, dusty skin, wearing white robes. Her lair is magical and seemingly un-scryable hut hidden on the edge of the desert, surrounded by brambles and rocks, and only approachable if one follows the correct path. 
@@ -42,7 +42,7 @@ Agata takes the appearance of a withered old woman, with dry, dusty skin, wearin
 - Acquired the [[Scepter of Command]] from the [[Fraternity of the Empty Moon]] sometime in 1747 or early 1748, in exchange for assisting the Fraternity in their plan to draw the energy of [[Pandemonium]] closer to Taelgar, strengthening the curse of lycanthropy and causing madness to spread across [[Dunmar]]. 
 - Thought to be killed by [[Dunmar Fellowship]] at [[Shakun’s Wellspring]] on [[Session 28 (DuFr)|May 29th, 1748]].
 - Masqueraded for months as a fey named [[Typhina]] in the [[Ring of the Warded Mind]], recounting [[Typhina]]'s story to [[Seeker]].
-- Was finally imprisoned in the Heartwood Grove in [[Amberglow]] in the [[Feywild]] in [[Session 67 (DuFr)|November 1748]].
+- Was finally imprisoned in the [[Heartwood Grove]] in [[Amberglow]] in the [[Feywild]] in [[Session 67 (DuFr)|November 1748]].
 
 %%SECRET[1]%%
 ## **Other Notes**
