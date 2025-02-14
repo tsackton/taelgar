@@ -13,7 +13,7 @@ whereabouts:
 > A [[Fey|fey]]  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-
+His real name is Kiastíōn Hēmiárktos (_Kee-as-TEE-ōn_ Hay-mee-ARK-tos)
 
 %% 
 an alias - he didn't give his name and I havent made it up

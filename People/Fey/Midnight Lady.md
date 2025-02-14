@@ -16,7 +16,7 @@ dm_notes: important
 > A [[Fey|fey]] (hag)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A mysterious fey recently arrived in [[Peydon]]. Known by many in the village as the Night Witch.
+A mysterious fey recently arrived in [[Peydon]]. Known by many in the village as the Night Witch. Her real name is Moriel.
 
 %% Images
 

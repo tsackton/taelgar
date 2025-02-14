@@ -14,6 +14,6 @@ pronunciation: oo-yee
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-A small village along the [[Auberonne]], north of [[Aslain]].
+A small village along the [[Auberonne]], south of [[Aslain]] and across the river from [[Peydon]].
 
 %% This exists only to give a location for a minor NPC, [[Piers of Houille]], to have been from. Nothing exists about it otherwise %%
