@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [place]
 whereabouts: Feywild
 typeOf: realm
-excludePublish: ["clee"]
+excludePublish: ["all"]
 dm_notes: important
 dm_owner: mike,tim
 ---

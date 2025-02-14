@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+excludePublish: ["dufr"]
 whereabouts: Feywild
 typeOf: realm
 dm_owner: none

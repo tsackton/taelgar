@@ -16,6 +16,7 @@ whereabouts:
 - {type: away, start: 1749-01-25, end: 1749-01-30, location: Nashtkar} #add session 90 travel
 - {type: away, start: 1749-03-13, end: 1749-03-16, location: Vostok}
 - {type: away, start: 1749-03-17, end: 1749-03-18, location: Sivnjo Mountains}
+- {type: away, start: 1749-05-30, end: 9999, location: Garamjala Desert}
 rarity: unique
 typeOf: vehicle
 typeOfAlias: skyship

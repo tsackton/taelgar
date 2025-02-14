@@ -1,5 +1,6 @@
 ---
 tags: [status/stub]
+excludePublish: ["dufr"]
 dm_owner: mike
 dm_notes: important
 ---
