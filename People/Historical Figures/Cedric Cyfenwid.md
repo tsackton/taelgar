@@ -13,7 +13,7 @@ dm_owner: mike
 > A [[Tyrwingha|Tyrwinghan]] [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
-A paladin of [[The Wyrdling]] and friend to the fey, although born in [[Tyrwingha]] he spent much of his life in [[Addermarch]], [[Duchy of Maseau|Maseau]], and the [[Borderlands|Sembaran Borderlands]].
+A paladin of [[The Wildling]] and friend to the fey, although born in [[Tyrwingha]] he spent much of his life in [[Addermarch]], [[Duchy of Maseau|Maseau]], and the [[Borderlands|Sembaran Borderlands]].
 
 %% 
 Intended as a vaguely important historical person as an inspiration/backstory figure for [[Robin of Abenfyrd]] but hasn't come up as much as I intended. Either way though should be considered active although there are no details made up about him not in Obisidian shared notes 
