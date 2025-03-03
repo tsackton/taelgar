@@ -39,7 +39,7 @@ markerTag: location-source
 _See more: [[Sentinel Range#Northern Sentinels|North Sentinels]]_
 
 Few have mapped this region, nestled on the west side of the [[Sentinel Range]]. Much of the region dominated by the northern Sentinels and the forests and rivers on the western slopes. The [[Northern Tribes|scattered human tribes]] in the area speak of the dangerous forests and swamps:
-* the [[Forest of Nightmares]], said to be in haunted, cursed by [[Cha'mutte]] during the [[Great War]]
+* the [[Forest of Nightmares]], said to be haunted, cursed by [[Cha'mutte]] during the [[Great War]]
 * the [[Blackwater Fens]], a dank bog from which the [[Nahadi]] arises
 ## Civilizations and Cultures
 _See more: [[Northern Tribes]] 
