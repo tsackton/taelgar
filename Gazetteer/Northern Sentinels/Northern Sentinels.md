@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/check/tim]
+tags: [place, status/check/mike]
 typeOf: region
 whereabouts: [{type: home, location: Taelgar, linkText: "in" }]
 dm_owner: tim
@@ -11,8 +11,9 @@ dm_notes: important
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-North of the [[Dwarven Kingdoms]] and the plains of [[Voltara]] is a wild and unpeopled land, haunted with the scars of the [[Great War]]. Pine forests, swamps, and the tall peaks of the [[Sentinel Range#Northern Sentinels|northern Sentinels]] dominate the landscape. 
+%% rewrite in the "halfling style", fill in a few additional details %%
 
+Even among the halflings, few reliable tales come from the northern reaches of the great [[Sentinel Range]]. This is a wild and unpeopled land, haunted by the scars of the [[Great War]], and spoken of uncertainly, in hushed tones even among the adventurous. What stories do drift south speak of vast pine forests, uninhabitable bogs, and the tall mountain peaks of the [[Sentinel Range#Northern Sentinels|northern Sentinels]], painting a picture of a rugged and beautiful, but inhospitable and dangerous, landscape. 
 
 ```leaflet 
 id: region-map-taelgar
@@ -36,13 +37,24 @@ markerTag: location-source
 
 
 ## Topography and Major Features
-_See more: [[Sentinel Range#Northern Sentinels|North Sentinels]]_
 
-Few have mapped this region, nestled on the west side of the [[Sentinel Range]]. Much of the region dominated by the northern Sentinels and the forests and rivers on the western slopes. The [[Northern Tribes|scattered human tribes]] in the area speak of the dangerous forests and swamps:
-* the [[Forest of Nightmares]], said to be haunted, cursed by [[Cha'mutte]] during the [[Great War]]
-* the [[Blackwater Fens]], a dank bog from which the [[Nahadi]] arises
+%% _See more: [[Sentinel Range#Northern Sentinels|North Sentinels]]_  I'm not sure the North Sentinels section of the Sentinels is useful as a see more.  There is almost nothing there, and it seems more sensible to repeat it here. %%
+
+Even among the halflings, few have dared to map this region, nestled on the west side of the [[Sentinel Range]], and even among the most daring traders, few find profit traveling these dangerous lands. Much of the region dominated by the northern [[Sentinel Range|Sentinels]] and the forests and rivers on their western slopes, making travel slope and difficult. The mountains themselves are snowy and rocky, with the highest peaks cold and frozen year round. 
+
+The information reported here largely derives from the [[Northern Tribes|scattered human tribes]] in the area speak of the dangerous forests and swamps:
+
+- The [[~Pandar Volcanic Range~]], once the borders of [[Cha'mutte]]'s realm, now a place all sensible folk fear.
+* The [[Forest of Nightmares]], said to be haunted, cursed by [[Cha'mutte]] during the [[Great War]].
+* The [[Blackwater Fens]], a dank bog from which the [[Nahadi]] arises.
+
+There are two major river systems that originate in this region:
+
+- The [[K'eye]] in the local language, and translated by halflings as the Red River, flows from the [[Sentinel Range|Sentinels]] to the [[~North Bay~]]. 
+- The [[Nahadi]] in the local language, and translated by halflings at the Great River, flows from its origins in the [[Blackwater Fens]] to 
 ## Civilizations and Cultures
-_See more: [[Northern Tribes]] 
+
+%% *See more: [[Northern Tribes]]* I wouldn't actually put this as "see more" - it is immediately linked below. I tend to think of the see more pages as expanded overviews more than links to highlight. %%
 
 There are few humans in this region, although the [[Northern Tribes|northern Deno'qai tribes]] make their home here. The dwarven kingdom of [[Fahnukan]] lies beneath the northern Sentinels, and [[Stoneborn|stoneborn]] are known to live in the highlands and foothills of the [[Sentinel Range|Sentinels]].
 
@@ -74,6 +86,7 @@ The fens probably have a similar ecosystem to the [Hudson Bay bog](https://en.wi
 
 %%^Campaign:None%%
 ## DM Notes and Meta
+
 *Canonical Development and Constraints:* [[Pandar]] was canonically [[Cha'mutte]]'s primary permanent territory, and a large number of kenku enslaved by Cha'mutte lived here prior to the [[Great War]]. The history of the [[History of the Northern Deno'qai|northern Deno'qai]], including some details of the Great War era, and their current [[Northern Tribes|culture and territory]] is well developed. The [[Forest of Nightmares]], and the [[Blackwater Fens]], have some canonical details. Stoneborn, at least, canonically live in the [[Sentinel Range|Sentinels]] in this region. 
 
 *Brainstorming and Potential Canon:* Some basic overview of the history of Pandar and Cha'mutte's activities exist, but these are largely brainstorming, or at best weakly canonical. 
@@ -84,5 +97,26 @@ The fens probably have a similar ecosystem to the [Hudson Bay bog](https://en.wi
 
 *Adventures:* The Delwath solo arc of the Dunmar Frontier campaign was set in the northern Deno'qai territory and the Forest of Nightmares; the black dragon arc of the Great Library campaign was set in the Blackwater Fens. 
 
-*Important Places in Staging:* None.
+### Unnamed In-Links
+Pages that link to a Northern Sentinels page and are currently unnamed. 
+```dataview
+TABLE 
+    length(file.inlinks) AS Backlinks
+FROM ""
+WHERE 
+    startswith(file.name, "~") AND
+    any(filter(file.inlinks, (b) => contains(meta(b).path, "Northern Sentinels")))
+SORT length(file.inlinks) DESC
+
+```
+
+### Staging
+These are staging pages linked to a Northern Sentinels page
+```dataview
+TABLE 
+    length(file.inlinks) as Backlinks
+FROM "Worldbuilding/Staging"
+WHERE any(filter(file.inlinks, (b) => contains(meta(b).path, "Northern Sentinels")))
+SORT length(file.inlinks) DESC
+```
 %%^End%%
