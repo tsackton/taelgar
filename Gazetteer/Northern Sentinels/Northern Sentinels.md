@@ -51,7 +51,7 @@ The information reported here largely derives from the [[Northern Tribes|scatter
 There are two major river systems that originate in this region:
 
 - The [[K'eye]] in the local language, and translated by halflings as the Red River, flows from the [[Sentinel Range|Sentinels]] to the [[~North Bay~]]. 
-- The [[Nahadi]] in the local language, and translated by halflings at the Great River, flows from its origins in the [[Blackwater Fens]] to 
+- The [[Nahadi]] in the local language, and translated by halflings at the Great River, flows from its origins in the [[Blackwater Fens]] south to [[Lake Valandros]] and beyond. %% see note in Nahadi page about naming %%
 ## Civilizations and Cultures
 
 %% *See more: [[Northern Tribes]]* I wouldn't actually put this as "see more" - it is immediately linked below. I tend to think of the see more pages as expanded overviews more than links to highlight. %%
@@ -79,7 +79,7 @@ The mountains here are snowy, rocky, and volcanic, marked by pine forests on the
 %%^Campaign:none%%
 ***Real world analogs:*** This region is at approx. 52 degrees north, and probably has some similarities with the Canadian Rockies, especially Banff and Jasper national parks, including the flat plains to the east of the mountains (in the [[Far North]]). The volcanic mountains of [[Pandar]] share some similarities with the Pacific Ring of Fire, but with a much more magical vibe, and less moderating coastal influence on climate. 
 
-- [[Blackwater Fens]]: *not really developed; was the home to a black dragon in the [[Great Library campaign]], unpleasant but not frozen in the winter. Around 50 degrees North. There is probably not a great real world analogy, the basic idea is something like a temperate version of a [peat swamp forest](https://en.wikipedia.org/wiki/Peat_swamp_forest). Maybe a place like [here](https://www.visitestonia.com/en/where-to-go/west-estonia/soomaa-national-park) or just a more northerly version of the Great Dismal Swamp or something like that.* 
+- [[Blackwater Fens]]: *not really developed; was the home to a black dragon in the [[Great Library campaign]], unpleasant but not frozen in the winter. Around 50 degrees North. There is probably not a great real world analogy, the basic idea is something like a temperate version of a [peat swamp forest](https://en.wikipedia.org/wiki/Peat_swamp_forest). Maybe a place like [here](https://www.visitestonia.com/en/where-to-go/west-estonia/soomaa-national-park) or just a more northerly version of the Great Dismal Swamp or something like that. Notably wooded, although generally a fairly open forest, not dense and tangled, with most of the obstacles to travel coming from bogs and unstable ground.* 
 
 The fens probably have a similar ecosystem to the [Hudson Bay bog](https://en.wikipedia.org/wiki/Southern_Hudson_Bay_taiga), although perhaps a little bit warmer -- an "insect-infested landscape of bog and fog". 
 %%^End%%
