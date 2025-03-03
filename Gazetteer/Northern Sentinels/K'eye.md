@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+alias: [Red River]
 name: K'eye
 typeOf: river
 whereabouts: Forest of Nightmares

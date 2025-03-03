@@ -158,7 +158,7 @@ SORT length(file.inlinks) DESC
 
 ## Unnamed In-Links
 
-Pages that link to a background page and are currently unnamed. 
+Pages that link to a cosmology page and are currently unnamed. 
 ```dataview
 TABLE 
     length(file.inlinks) AS Backlinks
@@ -172,7 +172,7 @@ SORT length(file.inlinks) DESC
 
 ## Staging
 
-These are staging pages linked to pages in the Background directory. 
+These are staging pages linked to pages in the Cosmology directory. 
 
 ```dataview
 TABLE 
