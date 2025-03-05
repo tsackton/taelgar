@@ -2,7 +2,7 @@
 headerVersion: 2023.11.25
 tags: [place, status/cleanup/incomplete]
 typeOf: plane
-displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>"}
+displayDefaults: {wSecondary: "Sometimes considered one of the <secondary:1>", defArt: "the"}
 whereabouts: 
 - {type: home, location: Multiverse, wHome: "A <typeOf> in the <home:1s>"}
 - {type: secondary, location: Echo Realms}
@@ -13,7 +13,6 @@ dm_owner: joint
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
-
 
 %% a page like this is never really done. this is complete for usability, but tagging status/cleanup/incomplete for:
  - [ ] a Tyrwinghan perspective on fey inhabitants, in particular would be useful

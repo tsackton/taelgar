@@ -8,8 +8,9 @@ dm_owner: tim
 dm_notes: important
 ---
 # Dreamhaven
->[!info]+ Information
-> A [[Fey|fey]] realm in the [[Feywild]], the [[Echo Realms]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% notes
 Caelynn the Seer is from here

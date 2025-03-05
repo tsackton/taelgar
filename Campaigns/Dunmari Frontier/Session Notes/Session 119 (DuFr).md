@@ -18,7 +18,7 @@ descTitle: Journey to Emberwine
 > *On Earth: Friday Feb 14, 2025*
 > *Emberwine, Feywild*
 
-The party enters the [[Feywild]], meets mystical beings, and gains guidance to Sunwine Hall to further their quest.
+The party enters the [[Feywild]], meets mystical beings, and gains guidance to [[Sunwine Hall]] to further their quest.
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] arrives at the [[Bitterwine Oak]] portal and explores, hearing voices calling in the distance.
@@ -26,11 +26,11 @@ The party enters the [[Feywild]], meets mystical beings, and gains guidance to S
 - They encounter satyrs and learn about Everlight’s Bloom, intending to use [[Lirien]]'s death as a cover story.
 - On the riverbank, the group meets a barge master who provides directions despite suspicion.
 - [[Seeker]] attempts to teleport the group for a better view, but the spell fails violently, although gets them to their destination.
-- The party meets Auntie Mulberry, who speaks at length and eventually provides a whistle to guide them to Sunwine Hall.
+- The party meets Auntie Mulberry, who speaks at length and eventually provides a whistle to guide them to [[Sunwine Hall]].
 
 ### Timeline
 - (DR:: 1749-05-30), night: The party rests on [[Vindristjarna]]
-- (DR:: 1749-05-31): Travel to [[Bitterwine Oak]], a [[Feywild]] portal and pass through into [[Emberwine]]. Meet satyrs; a barge of [[fey]] on a river of wine; and a rabbit-like creature called Auntie Mullberry. Travel towards Sunwine Hall and the court of the Master of Revels.  
+- (DR:: 1749-05-31): Travel to [[Bitterwine Oak]], a [[Feywild]] portal and pass through into [[Emberwine]]. Meet satyrs; a barge of [[fey]] on a river of wine; and a rabbit-like creature called [[Auntie Mullberry]]. Travel towards [[Sunwine Hall]] and the court of the Master of Revels.  
 
 
 ## Narrative
@@ -66,9 +66,9 @@ Tthe party finds themselves in a small clearing with a cottage. Its roof is wove
 
 The rabbit woman introduces herself as Auntie Mulberry, and through conversation, she gradually presses the party about their true purpose in [[Emberwine]]. When they mention seeking allies and heading to [[Everlight's Bloom]] to bring news of [[Lirien]]'s death to Prince Aurlien, she becomes skeptical, noting that the Golden Prince cares little for those who leave his realm. After an extending conversation about allies and guides, the party's desire for them, and Auntie Mullbery's accusation they haven't tried to find allies, so why should they expect them to drop from the sky, the conversation turns to bringing change to the [[Feywild]]. Auntie Mulberry grows indignant as she pieces together that the party is referring to potentially returning the [[Cloudspinner]] to [[Amberglow]], upset that anyone would assume the people of Emberglow prefer the darkness of [[Harrow]] and [[Wend]] to the [[Cloudspinner]]. 
 
-However, in thanks for [[Delwath]]'s story, well-told, Auntie Mulberry eventually reveals that a refugee from Cloudspinner's Court might be found at Sunwine Hall, the Court of the Master of Revels. She provides a small flute-like whistle that will guide them there if they follow its melody while dancing.
+However, in thanks for [[Delwath]]'s story, well-told, Auntie Mulberry eventually reveals that a refugee from Cloudspinner's Court might be found at [[Sunwine Hall]], the Court of the Master of Revels. She provides a small flute-like whistle that will guide them there if they follow its melody while dancing.
 
-As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that she remembers the Master of Revels visiting the [[Cloud Palace]] once - a handsome fellow with golden antlers who was an exceptional dancer. With this new lead, the party prepares to follow the melody to Sunwine Hall, hoping to find the refugee who might help them locate the Prism Well.
+As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that she remembers the Master of Revels visiting the [[Cloud Palace]] once - a handsome fellow with golden antlers who was an exceptional dancer. With this new lead, the party prepares to follow the melody to [[Sunwine Hall]], hoping to find the refugee who might help them locate the Prism Well.
 
 ## Detailed Outline
 
@@ -100,7 +100,7 @@ As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that sh
 - The barge continues downstream, with the master muttering about "foolish mortals" as he departs.
 
 ### Wandering and Scouting in Emberwine
-- The party discusses their objective, realizing they need to find the Prismwell but have no idea where it is.
+- The party discusses their objective, realizing they need to find the [[Prismwell|Prismwell]] but have no idea where it is.
 - They consider visiting Everlight's Bloom to find allies or going to the Cloudspinner's palace in Amberglow to search for clues.
 - The group grows weary as they trudge along the riverbank, affected by the intoxicating scent of wine.
 - Seeker casts Clairvoyance to scout from a mile above, observing:
@@ -116,11 +116,11 @@ As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that sh
 - Wellby is immediately suspicious, but the group cautiously engages with their host who offers pie and tea.
 - Auntie Mulberry questions their purpose and discovers they claim to be bringing news of Lirien's death to Everlight's Bloom.
 - The party reveals more of their true mission - bringing change - while acting like they expect everyone to be mad at them for this, which causes Auntie Mulberry to become indignant, suggesting that no one would prefer "rivers of darkness" over the Cloudspinner's return.
-- Auntie Mulberry mentions a refugee from Cloudspinner's Court at Sunwine Hall who might help them.
-- She gives them a small flute-like whistle that will lead them to Sunwine Hall if they follow its melody while dancing.
+- Auntie Mulberry mentions a refugee from Cloudspinner's Court at [[Sunwine Hall]] who might help them.
+- She gives them a small flute-like whistle that will lead them to [[Sunwine Hall]] if they follow its melody while dancing.
 - During the conversation, Seeker transforms into Lady Eventide.
 - Lady Eventide recognizes the Master of Revels as someone who once visited the Cloud Palace.
-- The party decides to head to Sunwine Hall to seek the refugee from Amberglow.
+- The party decides to head to [[Sunwine Hall]] to seek the refugee from Amberglow.
 
 ### Auntie Mullbery Extended Narrative
 *Claude 3.7 Sonnet with some careful prompting and corrections*
@@ -158,7 +158,7 @@ When Delwath mentioned they had come to "bring change like there hasn't been in 
 
 As they continued to speak cryptically about their mission, Auntie Mulberry grew frustrated with their secrecy. The conversation reached a turning point when she suddenly pieced together their true purpose. Her eyes widened with indignation.
 
-"You realize if what you're hinting at is true, nobody would prefer the rivers of darkness from Darkfall and Hollowdark to the Cloudspinner's Return, you fool!" she exclaimed. "You really think everybody would like to see the Sunset Gate crack and Harrow and Wind march across our lands? Have you been keeping secret some mystery to how to restore the Cloudspinner?"
+"You realize if what you're hinting at is true, nobody would prefer the rivers of darkness from Darkfall and Hollowdark to the Cloudspinner's Return, you fool!" she exclaimed. "You really think everybody would like to see the Sunset Gate crack and [[Harrow|Harrow]] and Wind march across our lands? Have you been keeping secret some mystery to how to restore the Cloudspinner?"
 
 Her voice betrayed both hope and frustration that they might have kept such vital information from her, clearly offended they would think anyone in Emberwine would oppose the Cloudspinner's return.
 
@@ -171,7 +171,7 @@ Finally, Auntie Mulberry provided geographical information. "Amberglow's to the 
 
 to cross these days. Not sure anybody really properly lives there anymore." She shrugged. "Everlight's Bloom is like westish, sunward of here. It's all bright and cheery and bright and bright, and nothing ever changes there, you know, if a flower always blooms and ever bloom, you never get fruit."
 
-Eventually, she revealed a critical lead. "I did hear that there is a refugee from Cloudspinner's Court at Sunwine Hall, Court of the Master of Revels. Lord Sovin, you must know him. You're in his land. I don't know if he would help you, as people come here to forget, you know."
+Eventually, she revealed a critical lead. "I did hear that there is a refugee from Cloudspinner's Court at [[Sunwine Hall]], Court of the Master of Revels. Lord Sovin, you must know him. You're in his land. I don't know if he would help you, as people come here to forget, you know."
 
 She produced a small flute-like whistle from her pocket. "Melody will lead you there. Just dance."
 
