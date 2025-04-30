@@ -4,8 +4,8 @@ name: Dunmari Frontier - Session 122
 campaign: Dunmari Frontier
 sessionNumber: 122
 realWorldDate: 2025-04-03
-DR: None
-DR_end: None
+DR: 1749-06-13
+DR_end: 1749-06-13
 players: [Delwath, Kenzo, Wellby, Riswynn, Seeker]
 tagline: in which the party banishes ancient darkness
 descTitle: Shadows Beneath Redsun Watch
@@ -14,7 +14,8 @@ descTitle: Shadows Beneath Redsun Watch
 
 >[!info] Shadows Beneath Redsun Watch: in which the party banishes ancient darkness
 > *Featuring: [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]], [[Seeker]]*
-> *In Taelgar: Unknown*
+> *In the Feywild: Late Afternoon*
+> *In Taelgar: June 13, 1749 DR*
 > *On Earth: Thursday Apr 03, 2025*
 > *Location: Redsun Watch and its underground vaults, Feywild*
 
@@ -28,6 +29,8 @@ The party overcomes supernatural darkness and deadly foes to cleanse the depths 
 - After surviving haunted stairways and panic-inducing whispers, the group accesses ancient underground tunnels.
 - Discovering a ruined fountain chamber, the party investigates fruitlessly before venturing deeper, where darkness accumulates in a mirrored vault.
 - Riswynn channels divine power through Sunbeam, burning away the ageless gloom and reigniting a beacon beneath Redsun Watch.
+### Timeline
+- (DR:: 1749-06-13), later: Infiltrate Redsun Watch, avoiding or defeating the minions of Harrow and Wend, and light the Cloudspinner's beacon. 
 ## Narrative
 
 Our session begins at the  edge of night in the Feywild, with the party paused on the border of Amberglow near Redsun Watch, where the darkness of Hollowdark had breached the Sunset Gate, forming a river of impenetrable shadow. The only sign of hope was a distant tower, faintly lit with a lingering ember of sunset. The group, wary of the dangers ahead, discussed the possibility of finding a clue about or beacon or guide to the Prismwell, a place tied to the Cloudspinner’s lost power, hidden within the keep, as Count Vashan had described in a moment of lucidity. 
