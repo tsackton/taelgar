@@ -3,8 +3,8 @@ tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 120
 realWorldDate: 2025-03-05
-DR: None
-DR_end: None
+DR: 1749-05-31
+DR_end: 1749-06-07
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 120
 tagline: in which the party mingles at Sunwine Hall
@@ -14,7 +14,8 @@ descTitle: The Revel in Emberwine
 
 >[!info] The Revel in Emberwine: in which the party mingles at Sunwine Hall
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
-> *In Taelgar: Unknown*
+> *In the Feywild: Late Afternoon*
+> *In Taelgar: May 31, 1749 DR to June 7, 1749 DR*
 > *On Earth: Wednesday Mar 05, 2025*
 > *Sunwine Hall, Emberwine*
 
@@ -30,6 +31,10 @@ The Dunmar Fellowship attends a celebration at Emberwine, gaining allies and inf
 - The group recruits Ismara and Valeris as guides for their quest.
 - Wellby tames a wyvern, and they secure griffins from Lord Sovin for travel.
 
+### Timeline
+- (DR:: 1749-05-31): Reach Sunwine Hall, meet Lord Soven, speak with guests, including [[Valeris]], [[Ismara]], and  [[Count Vashan]]. Delwath duels [[Arendel]] and loses. 
+- (DR:: 1749-06-01) - (DR_end:: 1749-06-06): Remain at Sunwine Hall, telling stories and making plans. [[Wellby]] tames a wyvern released from the [[Mirror of Soul Trapping]]. 
+- (DR:: 1749-06-07): Depart Sunwine Hall for the [[Sunset Gate]]
 ## Narrative
 
 Our session begins in Emberwine as the party follows Auntie Mulberry's enchanting flute melody toward Sunwine Hall. Lady Eventide, speaking through Seeker's possessed form, reminisces about Lord Sovin as they approach the massive pavilion bathed in golden light, and slip into the current of the dance after being greeted by a steward offering refreshments. 
