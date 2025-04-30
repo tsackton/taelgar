@@ -3,6 +3,8 @@ tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 121
 realWorldDate: 2025-03-25
+DR: None
+DR_end: None
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 121
 tagline: in which the party faces wolf riders
