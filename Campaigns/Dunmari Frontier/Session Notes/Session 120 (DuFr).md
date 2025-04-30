@@ -3,6 +3,8 @@ tags: [session-note]
 campaign: Dunmari Frontier
 sessionNumber: 120
 realWorldDate: 2025-03-05
+DR: None
+DR_end: None
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
 name: Dunmari Frontier - Session 120
 tagline: in which the party mingles at Sunwine Hall
