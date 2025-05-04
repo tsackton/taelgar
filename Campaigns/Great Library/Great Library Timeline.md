@@ -1,7 +1,10 @@
 ---
+headerVersion: 2023.11.25
 tags: [timeline]
-timelineDescriptor: Great Library Campaign
+name: Great Library Campaign Timeline
 ---
+# Great Library Campaign Timeline
 
-%%need to add: beholder adventure, downtime, aboleth adventure%%
-%%consider refactoring to add the timeline events to the proper place in the session notes, and then make this a dataview%%
+```dataview
+LIST WITHOUT ID events.text FROM "Campaigns/Great Library" OR "People/PCs/Silver Tempests" OR "Events/1700s/Grumella's War" flatten file.lists as events where !contains(events.recharge, "mirror") and events.DR sort events.DR
+```

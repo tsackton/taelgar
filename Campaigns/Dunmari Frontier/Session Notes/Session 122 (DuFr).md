@@ -14,7 +14,7 @@ descTitle: Shadows Beneath Redsun Watch
 
 >[!info] Shadows Beneath Redsun Watch: in which the party banishes ancient darkness
 > *Featuring: [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]], [[Seeker]]*
-> *In the Feywild: Late Afternoon*
+> *In the Feywild: Evening*
 > *In Taelgar: June 13, 1749 DR*
 > *On Earth: Thursday Apr 03, 2025*
 > *Location: Redsun Watch and its underground vaults, Feywild*
