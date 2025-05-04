@@ -1,7 +1,8 @@
 ---
+headerVersion: 2023.11.25
 tags: [session-note]
+name: The Chronicles of the Silver Tempests
 ---
-
 # The Chronicles of the Silver Tempests
 
 Herein lies the chronicles of the [[Silver Tempests]], from their humble roots as hired adventurers for the [[Great Library]], to their current fame.
@@ -502,15 +503,15 @@ The party learns the layout of the tunnels from the mercenaries, and begins to e
 
 The party manages to quietly navigate the flooded caverns, emerging into the aboleth’s lair, where they see a psychically controlled Dinia waiting for them. She attacks, and Ithu’rax the aboleth emerges from a central pool, joining the battle. The battle is a challenge. Ithu’rax manipulates his foes physical form, turning ligaments to jelly and lungs to gills, all of which make it difficult for the party to land a blow. Alton, although set up with the arrow of aboleth slaying, misses his shot; Mabist manages to grapple the aboleth with a giant force hand, but is targeted by the aboleth’s anger and eventually knocked unconscious and dropped into the cursed waters at the center of the cave. Samso spends the combat as an earth elemental; while he does not sustain much damage, he is also repeatedly driven back and unable to land a solid blow. It is only Samso’s conjured dragon, and Adrik’s seemingly endless ability to absorb the strikes of the aboleth’s tentacles, that save the party and lead to victory. 
 
-With the aboleth killed, Dinia returns to herself, and appoints herself the caretaker of the now slowly recovering slime servants. The party searches the cavern, and notices that there are numerous sigils carved in the ceiling of the cave that match those found in the abandoned lizardfolk villages of Samso’s homeland. Dinia speaks of the Umbral Conclave as the source of the sigils, and claims the aboleth was commanded to build an army for them. 
+With the aboleth killed, Dinia returns to herself, and appoints herself the caretaker of the now slowly recovering slime servants. The party searches the cavern, and notices that there are numerous sigils carved in the ceiling of the cave that match those found in the abandoned lizardfolk villages of Samso’s homeland. Dinia speaks of the Umbral Convenant as the source of the sigils, and claims the aboleth was commanded to build an army for them. 
 
-With this news, the party gathers the treasure, and prepares to return to Voltara to seek more information about the Umbral Conclave.
+With this news, the party gathers the treasure, and prepares to return to Voltara to seek more information about the Umbral Convenant.
 
 ### Events
 
 - (DR:: 1748-08-22): Mabist arrives at the Tempest Towers with news of Dinia's capture.
 - (DR:: 1748-08-23): Arrive at Suwi, meet village priest, speak with Clara about the Havoc Host. 
-- (DR::1748-08-24): Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of Milo Kentbrush. Confront Ithu'rax the aboleth, and defeat it, rescuing Dinia. Learn about connection between Ithu'rax, the Umbral Conclave, and the mysterious lizardfolk disappearances. 
+- (DR::1748-08-24): Travel upriver to a small lake. Fight slimy minions, find a secret passage, enter flooded caverns. In the caverns, defeat more slime minions and meet the ghost of Milo Kentbrush. Confront Ithu'rax the aboleth, and defeat it, rescuing Dinia. Learn about connection between Ithu'rax, the Umbral Convenant, and the mysterious lizardfolk disappearances. 
 - (DR:: 1748-08-25): Return to Voltara. 
 
 

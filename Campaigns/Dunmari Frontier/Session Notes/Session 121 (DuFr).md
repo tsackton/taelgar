@@ -14,7 +14,7 @@ descTitle: Clash Along the Sunset Gate
 
 >[!info] Clash Along the Sunset Gate: in which the party faces wolf riders
 > *Featuring: [[Seeker]], [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
-> *In the Feywild: Late Afternoon*
+> *In the Feywild: Evening*
 > *In Taelgar: June 8, 1749 DR to June 13, 1749 DR*
 > *On Earth: Tuesday Mar 25, 2025*
 > *Emberwine and Amberglow*
