@@ -8,19 +8,19 @@ name: The Chronicles of the Silver Tempests
 Herein lies the chronicles of the [[Silver Tempests]], from their humble roots as hired adventurers for the [[Great Library]], to their current fame.
 ## Adventure 0: Die Froggies Die
 
-Samso and Adrik meet on the road to Chardon, both seeking adventure. Finding a dead horse, they chase some bullywugs into a swamp and recover a message bag from a messenger.
+[[Samso]] and [[Adrik]] meet on the road to [[Chardon]], both seeking adventure. Finding a dead horse, they chase some [[bullywugs]] into a swamp and recover a message bag from a messenger.
 ### Events
 
-- (DR:: 1747-02-16): Samso and Adrik meet on the road south of Chardon and retrieve a lost messenger bag from a messenger killed by bullywugs. 
+- (DR:: 1747-02-16): [[Samso]] and [[Adrik]] meet on the road south of [[Chardon]] and retrieve a lost messenger bag from a messenger killed by [[bullywugs]]. 
 
 ## Adventure 1: The Flamekeeper Scroll
 ### Session 1
 
-Our adventure starts on the road: Brelith the Dwarven Cleric, Adrik the Dwarven Barbarian, Samso the Lizardfolk Druid, and Alton the Halfling Rogue have traveled north towards Voltara to meet Archivist Lyra, in the service of the Great Library. On the road goblins of the Red Knife tribe attack; they slay two and let the other two live, after learning that hobgoblins and goblins live in this area. The goblins are told to flee and not attack them again.
+Our adventure starts on the road: [[Brelith]], [[Adrik]] , [[Samso]], and [[Alton]] have traveled north towards [[Voltara]] to meet Archivist [[Lyra]], in the service of the [[Great Library]]. On the road [[goblins]] of the [[Red Knife tribe]] attack; they slay two and let the other two live, after learning that [[hobgoblins]] and [[goblins]] live in this area. The goblins are told to flee and not attack them again.
 
-In Lyra’s camp, the party learns their mission: search for the scrolls of elemental power. The location of the Flamekeeper Scroll and the Stonemaster Scroll are known, while the location of the Skyborn Scroll and the Deepwater Scroll are not. 
+In [[Lyra]]’s camp, the party learns their mission: search for the [[Elemental Scrolls of Airion|scrolls of elemental power]]. The location of the [[Flamekeeper Scroll]] and the [[Stonemaster Scroll]] are known, while the location of the [[Skyborn Scroll]] and the [[Deepwater Scroll]] are not. 
 
-Our heroes decide to head to the Forge of Fire, an ancient Dwarven mine where the Flamekeeper Scroll is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some kobolds and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the kobolds. 
+Our heroes decide to head to the Forge of Fire, a part of an ancient Dwarven mine complex that once extended through much of the [[Fiamatara Mountains]], where the Flamekeeper Scroll is thought to be. They find it is now a kobold shrine to the “fire god”, which is a rune protecting the Flamekeeper Scroll. After killing some kobolds and convincing others they are the fire god made flesh, they get the scroll, and leave, but not before triggering a magma eruption which destroys forge and probably all the kobolds. 
 
 ### Events
 
