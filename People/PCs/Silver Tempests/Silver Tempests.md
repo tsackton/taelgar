@@ -1,11 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization]
-displayDefaults: {startStatus: met, partOf: "", linkText: "by", ltPerson: "by"}
+displayDefaults: {startStatus: Formed, partOf: "", linkText: "by", ltPerson: "by"}
 typeOf: adventuring party
 created: 1747-04-04
 dm_owner: tim
-dm_notes: important
+dm_notes: none
 ---
 # The Silver Tempests
 >[!info]+ Information  
@@ -15,7 +15,7 @@ dm_notes: important
 
 The Silver Tempests are a renowned adventuring party based out of [[Voltara]], on the northern frontier of the [[Chardonian Empire]]. Originally hired by [[Lyra]] to seek the [[Elemental Scrolls of Airion]], the Silver Tempests became famous after their role in [[Grumella's War]], and have since established an elaborate manor, the [[Tempest Towers]] in the center of [[Voltara]], near the baths and market. 
 
-The core members of the Silver Tempests are:
+The original members of the Silver Tempests are:
 - [[Adrik]] Boulderbeard, a lightning-touched barbarian from the [[Yuvanti Mountains]], far to the south
 - [[Samso]], a lizardfolk druid from the [[Yeraad River Basin]]
 - [[Brelith]], a dwarven cleric from [[Zarkandur]], who retired to open a restaurant in Voltara
@@ -24,6 +24,7 @@ The core members of the Silver Tempests are:
 Recently, the Silver Tempests have been joined by:
 - [[Alton]], a halfling rogue and proprietor of a dive bar outside [[Voltara]] known for offering recreational axe throwing to its patrons. Alton was originally hired by [[Lyra]] and traveled briefly with the Silver Tempests in their early days, but left her service and traveled alone for some time before rejoining the group in the [[Goldpeak Mines]].
 - [[Mabist]], a changeling warlock from the [[Feywild]], with a mysterious past
+- [[Blue]], a mysterious traveler
 
 The Silver Tempests traveled with two other adventurers in the past:
 - [[Scordith]], a human sorcerer, who briefly joined the Silver Tempests on a few early quests; and
