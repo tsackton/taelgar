@@ -19,34 +19,32 @@ descTitle: The Prismwell
 > *On Earth: Thursday May 01, 2025*
 > *Location: Prismwell, Amberglow*
 
-The party narrowly escapes shadowy pursuit, frees the archfey Cloudspinner at the Prismwell, and restores hope to Amberglow before journeying home.
+The party narrowly escapes shadowy pursuit, frees the archfey [[Cloudspinner]] at the [[Prismwell]], and restores hope to [[Amberglow]] before journeying home.
 
 ## Session Info
 ### Summary
-- The group escapes Red Sun Watch's deadly darkness, with Wellby making a heroic solo dash to rejoin his allies.
-- Following a magical trail, the party flees across Amberglow on griffins and wyvern, evading relentless shadow beasts through speed, invisibility, and strategic maneuvering.
-- Arriving at the hidden Prismwell, they fend off warg archers and shadow creatures while preparing to release Cloudspinner from her prison.
-- Seeker telekinetically lifts and plunges Cloudspinner's crystal prison into the shimmering pool, triggering a tense standoff with encroaching foes.
-- Riswynn's powerful Sunburst banishes the attacking shadows, and Cloudspinner emerges—restored, grateful, and imbued with sorrowful wisdom.
-- Wellby is gifted a magical hat for future planar return, and Riswynn breaks the cursed crown's old bonds, rededicating it to liberate Amberglow's oppressed.
-- With the Cloudspinner's guidance, the party crosses the Rainbow Bridge, leaving the Feywild for [[Vindristjarna]] and their awaiting airship.
+- The group escapes Red Sun Watch's deadly darkness, with [[Wellby]] making a heroic solo dash to rejoin his allies.
+- Following a magical trail, the party flees across [[Amberglow]] on griffins and wyvern, evading relentless shadow beasts through speed, invisibility, and strategic maneuvering.
+- Arriving at the hidden [[Prismwell]], they fend off warg archers and shadow creatures while preparing to release [[Cloudspinner]] from her prison.
+- [[Seeker]] telekinetically lifts and plunges [[Cloudspinner]]'s crystal prison into the shimmering pool, triggering a tense standoff with encroaching foes.
+- [[Riswynn]]'s powerful Sunburst banishes the attacking shadows, and [[Cloudspinner]] emerges—restored, grateful, and imbued with sorrowful wisdom.
+- [[Wellby]] is gifted a magical hat for future planar return, and [[Riswynn]] breaks the cursed crown's old bonds, rededicating it to liberate [[Amberglow]]'s oppressed.
+- With the [[Cloudspinner]]'s guidance, the party crosses the Rainbow Bridge, leaving the [[Feywild]] for [[Vindristjarna]] and their awaiting airship.
 
 ### Timeline
-- (DR:: 1749-06-13), night: Flee Redsun Watch seeking the Prismwell, chased by shadow beasts from Hollowdark. Enter Prismwell. Free Cloudspinner.
+- (DR:: 1749-06-13), night: Flee [[Redsun Watch]] seeking the [[Prismwell]], chased by shadow beasts from [[Hollowdark]]. Enter [[Prismwell]]. Free [[Cloudspinner]].
 - (DR:: 1749-06-14), morning: Rainbow Bridge to [[Vindristjarna]]; arrive over [[Pava and Avaras' House]]. 
 ## Narrative
 
-Our session begins beneath the shattered tower of Red Sun Key, where the party stood within a radiant hall illuminated by Riswynn’s conjured sunlight. The room, now filled with echoes of sunset and shifting reflections, cast forth visions—the ancient towers lined against the ever-twilight border, the drifting Cloud Palace, and the Prismwell: a swirling pyramid of cloud and color, its basin brimming with liquid radiance. 
+Our session begins beneath the shattered tower of [[Redsun Watch]], with the party in the radiant hall illuminated by [[Riswynn]]’s conjured sunlight. The room, now filled with echoes of sunset and shifting reflections, cast forth visions—the ancient towers lined against the ever-twilight border, the drifting [[Cloud Palace]], and the [[Prismwell]]: a swirling pyramid of cloud and color, its basin brimming with liquid radiance. 
 
-With the keep above cloaked in oppressive, physical darkness and a dread entity still channeling shadows from Hollowdark, the companions weighed their escape. Riswynn, Seeker, Kenzo, and Delwath prepared magical flight; Seeker cast a telepathic bond for coordination, and Riswynn shielded Wellby with a Death Ward and fresh healing. The four then vanished via Dimension Door, reappearing at their camp where Valeris the satyr and the griffins waited.
+With the keep above cloaked in oppressive, physical darkness and a dread entity still channeling shadows from [[Hollowdark]], the party weighed their escape options. [[Riswynn]], [[Seeker]], [[Kenzo]], and [[Delwath]] fled via Dimension Door, but [[Wellby]] was forced to escape by flight. He sped alone through the halls, pressed in by unnatural gloom and the flicker of unseen terrors. Guided by his boots of speed and his sharp wits, he raced to the roof, where swarming darkness tried to seize him. Shadowy hands erupted from below; [[Wellby]] dodged their grasp, even as necrotic energies struck him silent. Still, with one last desperate effort, he burst free, and landed amidst his allies outside the keep, as new winged horrors began to stir in the distant shadows.
 
-Wellby, left behind and protected by spellcraft, sped alone through the halls, pressed in by unnatural gloom and the flicker of unseen terrors. Guided by his boots of speed and his sharp wits, he raced to the roof, where swarming darkness tried to seize him. Shadowy hands erupted from below; Wellby dodged their grasp, even as necrotic energies struck him silent. Still, with one last desperate burst, he burst free, and landed amidst his allies outside the keep, as new winged horrors began to stir in the distant shadows.
+After escaping the supernatural darkness, the party gathers and swiftly resaddles their mounts—three griffins and a wyvern. Their task is clear: to reach the [[Prismwell]], a legendary site now hidden by an immense, inverted tornado of cloud, summoned by lighting a beacon. Although it cannot be seen from here, the visions provide a clear enough description for [[Wellby]]: he conjures a magical arrow, fires it into the sky, and a shimmering trail of sunset-lit footprints guides them southwest.
 
-After escaping the supernatural darkness, the party gathers and swiftly resaddles their mounts—three griffins and a wyvern. Their task is clear: to reach the Prismwell, a legendary site now hidden by an immense, inverted tornado of cloud, summoned by lighting a beacon. Yet, its location is unknown, and the Feywild landscape stretches before them, mysterious and shifting. Wellby conjures a magical arrow, fires it into the sky, and a shimmering trail of sunset-lit footprints guides them southwest.
+Mounting up, the group follows the trail, but soon spot three vast shadow beasts winging after them in relentless pursuit. Realizing these foes are steadily gaining, the party devises a plan. Rizwynn uses her dwarven rune to cast Longstrider on the wyvern and two griffins, granting them bursts of speed. [[Seeker]] and [[Riswynn]], with their griffins, become invisible and break away, hoping to scatter the pursuers.
 
-Mounting up, the group follows the trail, but soon spot three vast shadow beasts winging after them in relentless pursuit. Realizing these foes are steadily gaining, the party devises a plan. Rizwynn uses her dwarven rune to cast Longstrider on the wyvern and two griffins, granting them bursts of speed. Seeker and Riswynn, with their griffins, become invisible and break away, hoping to scatter the pursuers.
-
-The wyvern distracts the shadows with a dramatic aerial display while the others streak ahead. The ruse succeeds—the shadow creatures fixate on the wyvern and lose track of the invisible members. Seeker and Riswynn later transform themselves and their griffins into sparrows, completely blending into the local fauna for safety.
+The wyvern distracts the shadows with a dramatic aerial display while the others streak ahead. The ruse succeeds—the shadow creatures fixate on the wyvern and lose track of the invisible members. Seeker and [[Riswynn]] later transform themselves and their griffins into sparrows, completely blending into the local fauna for safety.
 
 Those in the lead continue along the river, the land’s colors intensifying as they near their goal. Wargs and duskhounds attempt to intercept from below, but the party ascends, surging high above their range. At last, the clouds part to reveal the radiant pyramid of the Prismwell gleaming beneath them. The party descends, regrouping as all reach sanctuary before their pursuers can close in.
 
@@ -58,7 +56,7 @@ Riswynn advanced through featureless mist toward the sound of threatening creatu
 
 The group braced for confrontation, eyes fixed on the pool where Cloudspinner had vanished.
 
-As Riswynn unleashes a searing Sunburst against the looming shadow creatures, the unnatural clouds overhead ignite in light, burning away the tendrils of darkness that threatened to break through. Amidst the fading gloom, a figure descends: the Cloudspinner, ancient archfey and ruler of Amberglow, wreathed in clouds and blazing colors. Her arrival is marked by exhaustion and a shimmering intensity, her presence overwhelming in both power and sorrow for what has befallen her realm.
+As Riswynn unleashed a searing Sunburst against the looming shadow creatures, the unnatural clouds overhead ignited in light, burning away the tendrils of darkness that threatened to break through. Amidst the fading gloom, a figure descended: the Cloudspinner, ancient archfey and ruler of Amberglow, now wreathed in clouds and blazing colors. Her arrival is marked by exhaustion and a shimmering intensity, her presence overwhelming in both power and sorrow for what has befallen her realm.
 
 Seeker, overcome with reverence, kneels as the spirit of Lady Eventide departs. The Cloudspinner addresses the party, offering gratitude and a promise: they will always be welcome in Amberglow. With a gesture, she grants Wellby a shimmering, color-changing hat—an enchanted key allowing the party to return here by magic. 
 
