@@ -23,7 +23,7 @@ dm_notes: none
 
 Mabist is a changeling of uncertain origin. Their first clear memory was waking on a straw bed in a quiet cottage in the mountains, the scent of herbs thick in the air. Their rescuer, [[Dinia]], called them “soldier” before they even spoke; their stance made it plain. While they cannot recall the details of their past life, images sometimes come to them in flashes: a forest of silver leaves glinting the brilliant mid-morning sun; the sound and pulse of waves crashing like drums; banners of war fluttering in the winds. 
 
-They knows they are a fey, that they grew up in the Feywild, and were a solider and a knight, but who they fought for, and why, and even the faces of their life before slip away when they tries to grasp them. Their dreams drift between echoes of two voices: one like bells in sunlight, the other like deep water pressing on their skull. They wake with fists clenched and tears on their cheeks, not knowing which voice to fear.
+They know they are a fey, that they grew up in the Feywild, and were a solider and a knight, but who they fought for, and why, and even the faces of their life before slip away when Mabist tries to grasp them. Their dreams drift between echoes of two voices: one like bells in sunlight, the other like deep water pressing on their skull. They wake with fists clenched and tears on their cheeks, not knowing which voice to fear.
 
 Over the course of a month, Mabist stayed with Dinia, their training coming back to them, both their martial prowess and their strange powers of control over magic, of the sea and the entities of the depths. Their rehabilitation was ended when Dinia's cottage was attacked by mercenaries of the Havoc Host. Mabist, on Dinia's orders, fled to Voltara, where they met the Silver Tempests. 
 
@@ -51,3 +51,4 @@ Over the course of a month, Mabist stayed with Dinia, their training coming back
 >
 >The queen decided it was best for Mabist to not rejoin the feywilds and instead find their own story. So they were dropped off unconscious in an unknown area near a commoner hut. From then on Mabist was rehabilitated by Dinia. 
 
+%%SECRET[1]%%
