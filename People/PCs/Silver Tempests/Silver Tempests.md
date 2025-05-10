@@ -28,5 +28,5 @@ Recently, the Silver Tempests have been joined by:
 
 The Silver Tempests traveled with two other adventurers in the past:
 - [[Scordith]], a human sorcerer, who briefly joined the Silver Tempests on a few early quests; and
-- [[Aglath]], a stoneborn warrior, who was born far away in the deserts of the east, and left to find his kin in the [[Sentinel Range|Sentinels]]
+- [[Aglath]], a stoneborn warrior, who was born far away, and left to find his kin in the [[Sentinel Range|Sentinels]]
 
