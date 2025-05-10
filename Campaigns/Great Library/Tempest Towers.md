@@ -1,5 +1,6 @@
 ---
 tags: [place, status/stub]
+whereabouts: Voltara
 ---
 
 

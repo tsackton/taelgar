@@ -83,10 +83,9 @@ Back in town, Adrik, Samso, Aglath, and Brelith, joined by Scordith, visit again
 
 ### Events
 
-
 - (DR:: 1747-06-06): Samso, Adrik, Brelith, Scordith, and Aglath visit Quintus and learn of the problems of the centaurs to the south. 
 - (DR:: 1747-06-08): Samso, Adrik, Brelith, Scordith, and Aglath arrive at the centaur camp and deal with the poisoned water by placating Xameia the Forsworn, a paladin of the Order of Twilight who broke her oath. They promise to restore the temple of her order in 30 days. 
-- (DR:: 1747-06-09): Scordith returns to Voltara while the others rest in the centaur camp. 
+- (DR:: 1747-06-09): Scordith returns to Voltara while the others rest in the centaur camp, and is never seen from again. 
 ## Adventure 7: Orcs at the Lonely Watchtower
 ### Session 8
 
@@ -117,7 +116,7 @@ After defeating the shadow lizardfolk leader, although no closer to understandin
 ## Adventure 9: The Lost Temple of the Order of Twilight
 ### Session 11
 
-Returning to Voltara with news of kidnappings of messagers from Chardon, the Brelith, Aelar, Adrik, and Samso decide to tackle their promise to Xameia to restore the desecrated temple of the Order of Twilight. Brelith finds information about the probable location of this temple in the library in Voltara, and the party sets off into the wilderness in search of the ruins. Making their way into the hills southwest of Voltara, the party is ambushed at night by a large group of small, vicious humanoids with blue skin and giant rat pets, who try to grapple and drag them off. After driving these attackers off, the party regroups and continues towards the temple.
+Returning to Voltara with news of kidnappings of messagers from Chardon,  Brelith, Aelar, Adrik, and Samso decide to tackle their promise to Xameia to restore the desecrated temple of the Order of Twilight. Brelith finds information about the probable location of this temple in the library in Voltara, and the party sets off into the wilderness in search of the ruins. Making their way into the hills southwest of Voltara, the party is ambushed at night by a large group of small, vicious humanoids with blue skin and giant rat pets, who try to grapple and drag them off. After driving these attackers off, the party regroups and continues towards the temple.
 
 ### Session 12  
 
@@ -150,7 +149,7 @@ Continuing to defend the temple, in the middle of the night the remnants of the 
 
 ### Session 16
 
-Returning from the success of restoring the Temple of the Order of Twilight, the Adrik, Brelith, Aelar, and Samso are invited to meet the proconsul, the governor of Voltara, and given permission to enter the walled city itself. After this meeting, they receive word a messenger has gone missing, and head out on a mission from Archivist Lyra to ransom the messenger from kobolds. While they are able to ransom the messenger, Amus, they realize that he does not have the map they need to locate the scroll: it has been taken by the kobolds. Leaving Amus in a well-hidden camp, the party deduces that the kobolds may try to get the map to Grumella. Searching for hidden exits from the lair, they find several, and set a careful ambush. With some clever planning, the ambush is a success and the scroll is recovered, after which the party returns to their camp to rest and plot their next move. 
+Returning from the success of restoring the Temple of the Order of Twilight, Adrik, Brelith, Aelar, and Samso are invited to meet the proconsul, the governor of Voltara, and given permission to enter the walled city itself. After this meeting, they receive word a messenger has gone missing, and head out on a mission from Archivist Lyra to ransom the messenger from kobolds. While they are able to ransom the messenger, Amus, they realize that he does not have the map they need to locate the scroll: it has been taken by the kobolds. Leaving Amus in a well-hidden camp, the party deduces that the kobolds may try to get the map to Grumella. Searching for hidden exits from the lair, they find several, and set a careful ambush. With some clever planning, the ambush is a success and the scroll is recovered, after which the party returns to their camp to rest and plot their next move. 
 
 ### Events
 
@@ -236,7 +235,7 @@ After a brief interrogation with the orc leader, Aglath kills him after he taunt
 
 As they split up, Aglath and Adrick head to the pit fighting rings. Outside the Walled City, they dominate, but inside it, they face the fiercest competition they’ve seen. Aelar goes to find poisons for his ever growing collection, buying serpent poison and crawler mucus on the Black Market, and acquiring wyvern venom from the local alchemist.  Samso goes to the lizardfolk village for lilypad cakes and clues. He then returns to study in the library and concludes that his family’s disappearance and the shadow lizards are connected to the Shadowfell. Brelith scribes spell scrolls and receives a kind letter from his proud noble parents. As they meet up again in their new inn, the proconsul reveals that Grumella is threatening to destroy Voltara if they don’t turn in the adventurers. After much beard stroking and wise ribbits, they refuse and prepare for siege. Brelith sends messages to his mom, who agrees to send a small dwarven military force, the djinn, who refuses to fight but agrees to send help in another way when they call on him, and the roc agrees to help if they do him a favor, and they decide to help him soon. They then leave to recruit the centaurs, and begin to march across the open plain.
 
-  ### Session 31
+### Session 31
 
 At night, the party is attacked by some kind of shadow creature while Samso is on watch. Although it is a tough battle, they win, and the shadow creature fades, but not before threatening Samso, saying, “stop asking questions, you fool!” The rest of the trip to the centaurs passes uneventfully, and at the centaur camp they speak with Herasto, the leader. After some convincing Herasto agrees to fight, but needs safe hunting grounds for his herd, and food for the winter,, if the warriors are going to fight. He suggests that if the party were to kill the manticores that are lairing in a nearby river valley, that would be a perfect place for his herd to spend the winter in safety. That evening, the party speaks with Theopheia, Herasto’s wife, who promises that should they succeed she may be able to help them reach their next destination with great speed. Setting out in the morning for the manticore valley, the party encounters a patrol of manticores that shower them with spikes. Despite a tough battle, they eventually prevail and prevent the manticores from reaching the lair with news of an attack. 
 
@@ -466,7 +465,7 @@ After traveling some distance into the depths, the party finds some guards, twis
 
 Entering the lair, Brelith falls into a quicksand trap and needs most of the rest of the party to rescue him; Aelar is left free to run up the wall and chase down some kobolds who are watching. One of the kobolds is pretending to be an acolyte of the fire god, and speaks freely to the party when he realizes they were the instigators of that con. From him, they learn that a beholder has taken over the kobold den, driving them to make a massive statue to his glory. 
 
-Sneaking through the lair, the party encounters a few guards, attempting to trick them into believing they are here to worship Vilaxes, the beholder. This fails, and Adrick, Brelith, Cassia, and Samso are quickly chained and tossed into pits. Aelar and Alton, hidden, follow, and then launch an attack on the guards. A fight ensues, during which everyone escapes from their pits. 
+Sneaking through the lair, the party encounters a few guards, attempting to trick them into believing they are here to worship [[Vilaxes]], the beholder. This fails, and Adrick, Brelith, Cassia, and Samso are quickly chained and tossed into pits. Aelar and Alton, hidden, follow, and then launch an attack on the guards. A fight ensues, during which everyone escapes from their pits. 
 
 The party confronts the beholder Vilaxes in a massive cavern dominated by a huge statue of a beholder walking on two legs, made of precious metals, random dungeon detritus, and broken weapons and armor. The fight seems to be going badly, with Aelar and Alton charmed, and Adrik and Cassia about to succumb to petrification, when Adrik uses a wish to remove all status effects from the party. Hoping to keep the beholder’s attention in his earth elemental form, Samso begins attacking the statue, cracking it in half, and drawing the beholder’s rage. While Samso is the focus of every blast of magic, and eventually succumbs to the death ray, Adrick strikes down Vilaxes with Thunderbrand. Brelith is then able to quickly cast revivify, bringing Samso back from the dead, and later restore Cassia as well. 
 

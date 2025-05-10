@@ -4,7 +4,8 @@ tags: [person, status/cleanup/metadata, status/cleanup/gameupdate]
 name: Magran Boulderbeard
 born:
 species: dwarf
-ancestry:
+affiliations:
+- {type: primary, org: Boulderbeards}
 gender: male
 whereabouts: Tharn Todor
 dm_owner: none
@@ -12,7 +13,8 @@ dm_notes: color
 ---
 # Magran Boulderbeard
 >[!info]+ Biographical Info  
-> A [[Dwarves|dwarf]] (he/him)  
+> A [[Dwarves|dwarf]] (he/him), of the [[Boulderbeards]]  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 A warrior from Tharn Todor who led a large expedition of dwarves into the ruins of [[Ardith]], and to confront Chardonian interlopers. 
