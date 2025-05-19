@@ -26,7 +26,7 @@ The Dunmar Fellowship liberates seven souls and destroys Apollyon's phylactery, 
 - Inside Minarith's former office, the party finds a magical bird and a note, crucial for their ritual.
 - Teleporting to Tollen, the party consults the Ancient and Honorable Guild of Philosophers for guidance on the [[Land of the Dead]].
 - The group enters the [[Land of the Dead]] and successfully frees seven souls, destroying the phylactery.
-- Returning to Vindristjarna, they learn Fausto charmed the crew to seek Pu'aatar and dispel the charm.
+- Returning to Vindristjarna, they learn Fausto charmed the crew to seek [[Pu'aatar]] and dispel the charm.
 ### Timeline
 - (DR:: 1749-05-23), afternoon: The party explores the [[University of the Blessed Waters]], recovering a token associated with [[Minarith]]. Seeker teleports the party to [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]] in [[Tollen]]. 
 -  (DR:: 1749-05-23), late afternoon: The party requests information about the [[Land of the Dead]] from the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]]. [[Delwath]] speaks with [[Melindir]]. [[Wellby]] and [[Kenzo]] find a body to use as a material component for _Plane Shift_. 
@@ -65,13 +65,9 @@ While waiting to be summoned to the [[Ancient and Honorable Guild of Philosopher
 Summoned to the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]], the party relinquishes their possessions and dons robes provided by the guild before entering a darkened chamber for the consultation. Blindfolded, they are seated on cold stone benches and addressed by a disembodied voice, which shares critical knowledge about the [[Land of the Dead]]:
 
 - The realm saps the vitality of the living; food and water disintegrate, and wounds cannot heal.
-
 - Time in the [[Land of the Dead]] erodes the connection between soul and body, making prolonged stays perilous.
-
 - The plane moves travelers like a river, guiding souls to their destination. Interfering with this flow risks curses.
-
 - The Giardi, guardians of the [[Land of the Dead]], protect those with pure intentions and discern truth from deception.
-
 - To free the seven bound souls, the party must provide them with context and clues to help them remember their identities and fates.
 
 The voice gives parting advice to act swiftly and ensure they have the means to leave the [[Land of the Dead]] before its effects take hold. After speaking with the guild, the party rests for the night, preparing for the final leg of their journey: confronting Apollyon’s phylactery in the [[Land of the Dead]].

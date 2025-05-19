@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [person, status/cleanup/metadata, status/needswork/gameupdate]
 campaignInfo: []
 name: Hektor
-born: 1726
+born: 1716
 species: human
 ancestry: Chardonian
 gender: male

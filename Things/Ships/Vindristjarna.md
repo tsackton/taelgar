@@ -74,16 +74,17 @@ You have attracted a considerable retinue of followers on Vindristjarna, as well
 
 [[Amil]] (he/him). A joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [[Garamjala Desert]] before leaving to help record the stories of the ordinary people of the world. Helps Kenzo with the Wall of Stories (Trophy room).
 
-[[Kethra|Kethra Silverspark]]. A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from [[Morkalan]]. 
-
-[[Nuzkar]] and [[Aygul]], orcs and twin sisters. 
-
 [[Egnir|Égnir]] (he/him, AY-nyeer). A quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Helps Kenzo and Delwath with the courtyard, gardens, and greenhouses. 
 
 [[Jotha]] (she/her, yo-TAH). A Deno'qai warrior and Godcaller lost to the shadow realms, and now presumably wandering Taelgar somewhere. 
 
 [[Mica Copperharp]] and [[Willow Copperharp]], halfings
 
+---
+
+[[Kethra|Kethra Silverspark]]. A dwarven smith and adventurer, drawn in by stories of Riswynn's fame, who never really fit in Tharn Todor after being freed from [[Morkalan]]. 
+
+[[Nuzkar]] and [[Aygul]], orcs and twin sisters. 
 ## Magic
 
 In addition to the [[Phasing Stones|Phasing Stone]], Vindristjarna is equipped with the following magic.
