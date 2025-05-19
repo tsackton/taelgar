@@ -43,3 +43,14 @@ dm_notes: none
 >
 >A few weeks ago, lingering along the most desolate section of the trade road to Voltara, Blue stumbled across the body of a messenger and his horse, who had apparently fallen in a ravine and died, unnoticed. Uncannily, in his messenger bag was a long letter, addressed to the [[Silver Tempests]] in [[Voltara]], containing research concerning strange sigils and a possible connection to the [[Umbral Covenant]]. Intrigued, Blue decided to deliver the letter herself.
 
+%%
+###  Secret Chronology of Blue's Life
+- (DR:: 1622):  Blue is born in [[Duchy of Maseau|Maseau]] 
+- (DR:: 1644):  Blue is captured by hobgoblins and imprisoned in the [[Plaguelands]] 
+- (DR:: 1746):   Blue escapes captivity by strange magic and appears on the coast north of [[Chardon]] 
+- (DR:: 1746) - (DR_end:: 1748):  Blue wanders the [[Chardonian Empire]], seeking information about the [[Umbral Covenant]] and trying to survive 
+
+%%
+### Chronology of Blue's Life
+- (DR:: 1748-07-03): Blue heads north towards [[Lake Valandros]] and the frontier
+- (DR::1748-08-30): Blue finds a dead messenger on the road north of [[Lake Valandros]], with a letter about the [[Umbral Covenant]] addressed to the [[Silver Tempests]] in [[Voltara]], and decides to deliver the message herself

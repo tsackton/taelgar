@@ -6,5 +6,24 @@ name: Great Library Campaign Timeline
 # Great Library Campaign Timeline
 
 ```dataview
-LIST WITHOUT ID events.text FROM "Campaigns/Great Library" OR "People/PCs/Silver Tempests" OR "Events/1700s/Grumella's War" flatten file.lists as events where !contains(events.recharge, "mirror") and events.DR sort events.DR
+LIST WITHOUT ID events.text
+FROM  "Campaigns/Great Library"
+   OR "People/PCs/Silver Tempests"
+   OR "Events/1700s/Grumella's War"
+
+FLATTEN file.lists AS events
+FLATTEN
+  choice(
+        typeof(events.DR) = "date",               
+        events.DR,
+        date(                                      
+             string(events.DR) +
+             choice(length(string(events.DR)) = 4, "-01-01",
+                   choice(length(string(events.DR)) = 7, "-01", ""))
+        )
+  ) AS fullDate
+
+WHERE !contains(events.recharge, "mirror") AND events.DR
+SORT fullDate
+
 ```
