@@ -8,10 +8,10 @@ Not canonical: Plaguelands, Mike's Family Campaign, Tollen One Shots, Informatic
 
 Ongoing or finished campaigns.
 
-- Dunmar Frontier campaign. Fully canonical. Started in DR 1748. Ongoing; 117 sessions and counting. Level 1-16 so far.
-- Cleenseau campaign. Fully canonical.  Started in DR 1719. Ongoing; 20 sessions and counting. Level 1-6 so far.
-- Great Library campaign. Fully canonical. Started in DR 1747. Ongoing-ish; 60 some-odd sessions, but now drifting towards occasionally in-person single-session adventures as opposed to ongoing campaign. Level 1-12 so far. 
-- Addermarch campaign. Fully canonical. Started sometime between DR 1720s and DR 1740s, but not yet fully anchored in time. Ongoing; 9 sessions so far. Level 1-3 so far. 
+- Dunmar Frontier campaign. Fully canonical. Started in DR 1748. Ongoing.
+- Cleenseau campaign. Fully canonical.  Started in DR 1719. Ongoing.
+- Great Library campaign. Fully canonical. Started in DR 1747. Ongoing-ish.
+- Addermarch campaign. Fully canonical. Started sometime between DR 1720s and DR 1740s, but not yet fully anchored in time. Ongoing.
 ---
 - Great War. Canonical in vibes, major events, and overall arc, but not in detail, except as a source of inspiration. Current day invention should not invalidate the broad sweep of the campaign, or alter the stories of the PCs, but world details have been significantly updated. Started presumably sometime around DR 1544, ended canonically at the [[Battle of Urlich Pass]] in DR 1545. Finished. Approximately Level 1-20 in rough power level, but used a variety of systems. 
 ---

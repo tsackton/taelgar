@@ -31,3 +31,5 @@ Adding some brainstorming and notes, based in large part on [[Hobgoblin Movement
 (3) In Dunmar, the hobgoblin threat is always lingering until the twin events of the decisive defeat of the [[Blackened Claw]] clan in 1610 and the final form of Shakun's protection "coming online" sometime roughly around the same time. So in Dunmar I think the Blood Years would canonically be considered to end in 1610. From this point, no serious threat emerges in the east until Apollyon, really, although there are some occasional minor disruptions. 
 
 (4) Elsewhere, I think the concept of the Blood Years is probably not particularly a thing. From e.g. Ursk's point of view, their was either no lingering dangers from the Great War or perhaps more accurately they are still facing the lingering dangers of [[Vimfrost's War]], but there is not a long period of reverberations. Farther east and south, history is not well developed and it is not clear what, if any, impact the Great War had. 
+
+%%^End%%
