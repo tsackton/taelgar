@@ -42,7 +42,7 @@ Our session begins as the party soars over Emberwine on exotic griffins with pea
 
 During their stay at Sunwine Hall, Delwath had defeated the duelist Arendelle and encountered Count Vashen, the Broken Mask—a former courtier who betrayed the Cloud Spinner until Kenzo's cleansing touch briefly restored his memories. Now they head toward Red Sun Watch, seeking Cloud Spinner's prison well.
 
-Troubling news reaches Riswynn through her crown: Chardon has fallen into chaos with riots led by the Eightfold Flame and a power vacuum left by absent magistrates. Meanwhile, she continues struggling to control the crown that had been used for mind control by generations of cleansed leaders.
+Troubling news reaches Riswynn through her crown: Chardon has fallen into chaos with riots led by the Eightfold Flame and a power vacuum left by absent Magistros. Meanwhile, she continues struggling to control the crown that had been used for mind control by generations of cleansed leaders.
 
 Ismara explains that unlike the mundane world, the Feywild changes through the will of Archfey rather than cataclysm. She speaks of Fate's Ruin, transformed by the Rust Baron from artistic mountains into decay, and how Amberglow lost its color after Cloud Spinner's disappearance.
 

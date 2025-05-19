@@ -15,7 +15,7 @@
 **Size**: Your size is Medium.
 **Speed**: 30 feet
 **Age**: Lizardfolk reach adulthood in their early 20s; the first 8-10 years of their life are spent as amphibious young. Most live into their third century, but few live beyond 300 years.
-**Languages**: 
+**Languages**: You may select four languages during character creation. Like all characters, you may choose to replace one of these language proficiencies with a tool proficiency. 
 ## Lizardfolk Traits
 
 As an Lizardfolk, you have these special traits.
@@ -51,13 +51,11 @@ You can reach your ancestors through the magic of the Tharzen Anzinakoa and bese
 Your affinity for the dreamworld allows you to briefly see a moment ahead in time. If you fail a d20 Test, you can roll 1d4 and add the result to the d20, potentially changing a failure into a success. Once you use this feature, you may not use it again until you complete a short or long rest. %% maybe chance to PB per long rest to be more consistent with 2024 species design %%
 
 #### Ancestral Aid
-When you reach character level 3, you can beseech your ancestors for aid. 
 
-(still working on this: idea 1/LR uses, no Concentration, duration depends on choice of aid)
+When you reach character level 3, you can beseech your ancestors for aid using one of the options below (choose the option each time you transform). Once you do this, you can’t do so again until you finish a Long Rest.
 
-Options: 
-- Borrowed Knowledge (one skill proficiency for an hour)
-- A limited form of spirit guardians (e.g. something like **Inner Radiance.** Searing light temporarily radiates from your eyes and mouth. For the duration, you shed Bright Light in a 10-foot radius and Dim Light for an additional 10 feet, and at the end of each of your turns, each creature within 10 feet of you takes Radiant damage equal to your Proficiency Bonus.)
-- Some kind of defensive feature, could be as simple as resistance to 1-2 damage types (probably choice of damage type is too strong, effectively a 3rd level spell), maybe a Protection from Good and Evil like effect, or an AC bonus like Shield of Faith
-- Summon a spirit familiar? Or even something like the Summon Beast spell? This would probably require Concentration otherwise it could be too strong? 
-- Other ideas?
+- _**Ancestral Knowledge.**_ As an Action, you call upon the knowledge of your ancestors. You gain Proficiency with one Skill or Tool of your choice. This proficiency lasts for 1 hour. 
+
+- _**Ancestral Protector.**_ As a Bonus Action, you call upon your ancestors to protect you. For 1 minute, ancestral spirits flit about you in a 10 foot Emanation. At the end of each of your turns, you can cause these spirits to inflict Radiant damage equal to your Proficiency Bonus to all creatures of your choice within the Emanation, and the area of the Emanation is Difficult Terrain for your Enemies. 
+
+- _**Ancestral Tongues.**_ As an Action, you call upon the words of your ancestors. For 1 hour, you can comprehend and verbally communicate with Beasts. If you attempt to Influence them, you have Advantage on the d20 Test. 
