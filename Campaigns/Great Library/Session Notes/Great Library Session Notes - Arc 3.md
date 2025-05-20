@@ -1,6 +1,4 @@
 
-
-
 ## Adventure 15: Meeting the Parents (Brelith Edition)
 ### Session 38
 

@@ -23,4 +23,4 @@ The origins of this war came from the growing influence of the orc warlord [[Gru
 
 The war escalated when the [[Silver Tempests]] killed one of [[Grumella]]'s lieutenants, and eventually erupted into a full-fledged attack when the people of [[Voltara]] refused to turn over the [[Silver Tempests]] for punishment. 
 
-[[Grumella]] was finally defeated at the [[The Battle of Voltara]], which also cemented the fame of the [[Silver Tempests]] in the area. The final disorganized remnants of [[Grumella's Horde]] were defeated over the course of November 1747, in a series of raids led by the [[Chardonian Legion]] from forts along the northern border. 
+[[Grumella]] was finally defeated at the [[Battle of Voltara]], which also cemented the fame of the [[Silver Tempests]] in the area. The final disorganized remnants of [[Grumella's Horde]] were defeated over the course of November 1747, in a series of raids led by the [[Chardonian Legion]] from forts along the northern border. 
