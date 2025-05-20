@@ -13,11 +13,11 @@ The first major adventure of the [[Silver Tempests]], before they acquired their
 
 This full story is told in the [[Great Library Session Notes - Arc 1|Chronicles of the Quest for the Elemental Scrolls]].
 
-
 ## The War Against Grumella
 
-This full story is told in the [[Great Library Session Notes - Arc 2|Chronicles of the War Against Grumella]]
+With the successful recovery of all four of the [[Elemental Scrolls of Airion]], the party enjoyed the status and wealth that comes from success and a growing reputation. Unfortunately, along the way, they made enemies, most notably [[Grumella]], an orc warlord with an eye to conquest. Faced with an ultimatum to surrender or be destroyed, the party turned their eyes to the defense of [[Voltara]], recruiting allies far and wide. This endeavor culminated in the [[Battle of Voltara]], during which [[Grumella]] was defeated. The party was celebrated as heroes of the city in victory. 
 
+This full story is told in the [[Great Library Session Notes - Arc 2|Chronicles of the War Against Grumella]]
 
 ## Arc 3
 

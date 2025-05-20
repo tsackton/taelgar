@@ -22,4 +22,4 @@ dm_owner: tim
 
 %%copy notes from OneNote, including exact death date%%
 
-The commander and leader of [[Grumella's Horde]], a large group of [[Orcs|orcs]] that occupied the plains north of [[Voltara]] in the spring and summer of 1747. Grumella was defeated by the [[Silver Tempests]] and their allies in the [[The Battle of Voltara]]. 
+The commander and leader of [[Grumella's Horde]], a large group of [[Orcs|orcs]] that occupied the plains north of [[Voltara]] in the spring and summer of 1747. Grumella was defeated by the [[Silver Tempests]] and their allies in the [[Battle of Voltara]]. 

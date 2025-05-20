@@ -48,7 +48,7 @@ Inside the walls, Voltara is a rich city, made wealthy on the chalyte trade. It 
 
 ## Inns 
 
-The Purple Pig
+[[The Purple Pig]]
 
 A modest accommodation outside the city walls, run by Dravia. Modest accomodations, 1 gp per day. Destroyed by [[Grumella]]. 
 
@@ -56,9 +56,9 @@ The Sage and Spear
 
 A comfortable inn just outside the town gates, in what passes for a small Dwarven district here. The innkeeper is a retired dwarven solider named Orin Stonekeeper. It is a two story stone building with two wings, and a large common room that tends to attract artisans and dwarves. Known for sausages.
 
-The Wandering Toad
+[[The Wandering Toad]]
 
-A small inn just inside the city gates, modest in size but welcoming and friendly. Considered comfortable accommodations, 2 gp for food, drink, lodging. Known for wild game, mushrooms, and ale. Run by a charming and friendly, and unusually large, halfling man known as Finoc Small.
+A small inn just inside the city gates, modest in size but welcoming and friendly. Considered comfortable accommodations, 2 gp for food, drink, lodging. Known for wild game, mushrooms, and ale. Run by a charming and friendly, and unusually large, halfling man known as [[Finoc Small]].
 
 The Ruby Flask
 
