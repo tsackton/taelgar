@@ -21,7 +21,7 @@ dm_owner: none
 > A [[Deno'qai]] [[Humans|human]] (she/her)
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
->> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 22nd, 1748 in the Bek'eni village in the Elderwood %%^End%%
+>> %%^Campaign:dufr%% Scryed by [[Delwath]] on October 22nd, 1748 in the [[~Bek'eni village~|Bek'eni village]] in the Elderwood %%^End%%
 
 %% some information from DM notes; need to link character sheet; clean up whereabouts and campaign info%%
 

@@ -9,7 +9,3 @@ dm_notes: important
 %% 
 the mountains between the [[Mawakel Peninsula]] and the [[Tawir Forest]]
 %%
-
-%% 
-the mountains between the [[Mawakel Peninsula]] and the [[Tawir Forest]]
-%%

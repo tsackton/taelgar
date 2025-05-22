@@ -1,13 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [pc/addermarch, person]
+tags: [pc/addermarch, person, status/active]
 species: elf
 gender: female
 ddbLink: https://www.dndbeyond.com/characters/131356005
 player: Kate Sackton
 ka: 37
 dm_owner: player
-dm_notes: important
+dm_notes: none
 whereabouts:
 - {type: home, location: Orenlas}
 - {type: home, location: Addermarch}
@@ -18,7 +18,7 @@ whereabouts:
 > [Character Sheet](https://www.dndbeyond.com/characters/131356005)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-![[assets/drou-large.png|right|400]]Drou is a graceful dancer, singer, and musician from Orenlas, who has wandering around Tyrwingha and Addermarch bringing joy to people's lives through music and dance. 
+![[assets/drou-large.png|right|400]]Drou is a graceful dancer, singer, and musician from [[Orenlas]], who has wandering around [[Tyrwingha]] and [[Addermarch]] bringing joy to people's lives through music and dance. 
 
 %% BACKSTORY
 From Orenlas, ka 37
