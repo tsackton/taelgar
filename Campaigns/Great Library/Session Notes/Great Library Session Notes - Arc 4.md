@@ -15,7 +15,7 @@ Fresh off their victory over the hag [[Morgana Stoneclaw]], the party, now calli
 
 After a few weeks, the party leaves to return to [[Voltara]]. On the way, [[Adrik]] turns to a werebear and must be knocked unconscious. [[Brelith]] cures him the next morning.
 
-After defeating were-[[Adrik]], the party arrives at a [[~Voltara East Border Fort~|Chardonian fort]] on the border of the [[Chardonian Empire]]. [[Samso]] convinces [[~Voltara Border Fort Commander~]], the commander of the fort, that the party are amazing heroes who can turn into dragons and kill deadly enemies with a glance, so she insists they try to find out who is stealing all their cattle. Their first scouting attempt fails miserably.
+After defeating were-[[Adrik]], the party arrives at a [[~Voltara East Border Fort~|Chardonian fort]] on the border of the [[Chardonian Empire]]. [[Samso]] convinces [[Soria Caronius]], the commander of the fort, that the party are amazing heroes who can turn into dragons and kill deadly enemies with a glance, so she insists they try to find out who is stealing all their cattle. Their first scouting attempt fails miserably.
 
 ### Session 52
 
@@ -23,7 +23,7 @@ After regrouping, the party heads upriver and discovers a small [[bullywugs|bull
 
 ### Session 53
 
-The party returns to the [[~Voltara East Border Fort~|Chardonian fort]] and leaves the problem of the nearly-exterminated bullwugs in the [[~Voltara Border Fort Commander~|commander]]’s hands, and heads north to track the [[Dragons|dragon]]. Along the way, after about a week’s journey upriver, they meet some [[Deno'qai]], who are gathered at a council to discuss what to do about the very same dragon. 
+The party returns to the [[~Voltara East Border Fort~|Chardonian fort]] and leaves the problem of the nearly-exterminated bullwugs in the [[Soria Caronius|commander]]’s hands, and heads north to track the [[Dragons|dragon]]. Along the way, after about a week’s journey upriver, they meet some [[Deno'qai]], who are gathered at a council to discuss what to do about the very same dragon. 
 
 After some discussion with the [[Deno'qai]] council, the party decides to travel with [[Izkir]], a priest of [[Bita]], a bear spirit, who will lead them to the lair. After almost 10 days, they come to the edge of the [[Blackwater Fens]], where the dragon lair is.
 
