@@ -56,7 +56,7 @@ Generation 1
 - (DR:: 1748-09-02): Travel north to the confluence of the [[Kayan]] and the [[Chasa]]. Turn invisible, and head southeast along the Kayan. Travel through the day, moving slowly to maintain invisibility with [[Delwath]]'s magic. 
 - (DR:: 1748-09-03): Continue to travel invisibly southeast along the river. Reach the eaves of the Elderwood.
 - (DR:: 1748-09-04): Travel southeast into the Elderwood. Kenzo's staff begins to pull him east, leading him to a massive tree, called a God Tree by the local [[Deno'qai]]. Kenzo meditates and becomes one with the forest. Meet a patrol from the Bek'eni, who escort the party to their village to meet the elf, [[Mezzar]]. Spend the night in the Bek'eni camp, where Delwath is treated like a lord.
-- (DR:: 1748-09-05): Spend the day at the Bek'eni village. Meet the disgraced Godcaller [[Theba]], who has information about [[Mezzar]] and the [[Te'kula]]. Spy on Mezzar's house; steal Theba's spear and shield. Debate what to do.
+- (DR:: 1748-09-05): Spend the day at the [[~Bek'eni village~|Bek'eni village]]. Meet the disgraced Godcaller [[Theba]], who has information about [[Mezzar]] and the [[Te'kula]]. Spy on Mezzar's house; steal Theba's spear and shield. Debate what to do.
 - (DR:: 1748-09-06), morning: Attempt to leave village. Stopped by the chief, [[Zaro]], until he is swayed by Seeker's magic. Travel to the God Tree to wait for [[Mezzar]]. 
 
 ### Mirror of the Past
