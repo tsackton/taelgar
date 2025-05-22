@@ -12,9 +12,9 @@ excludePublish: ["all"]
 This note tries to draw together information from various sources to form a semi-canonical history of humanity in the Greater Sembaran region, intended to inform development of Sembara, Tyrwingha, Maseau, Addermarch, Tollen, Zimkova, and Vostok. Sections in %% notes %% should not be considered canonical. The rest generally is, although this specific background doc is not meant as direct world lore. 
 
 %% Key dates:
-1750 Creation of Humans on Hkar (from [[Timeline Notes]])
+1750 Creation of Humans on Hkar (from [[Timeline - Old Notes]])
 3902 Founding of Tollen (from [[Tollen]])
-4122  the Downfall (from [[Timeline Notes]])
+4122  the Downfall (from [[Timeline - Old Notes]])
 4133 Drankor founded (from [[Drankorian Empire|Drankor]])
 4535 Drankor has conqueor all of Sembaran (from [[Drankorian Empire|Drankor]] / [[Treaty of Marhavn]])
 %%
