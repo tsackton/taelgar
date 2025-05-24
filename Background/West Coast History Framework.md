@@ -19,6 +19,7 @@ See: [[Historical Framework#Migrations and Emigration]] for some details.
 
 *Canonical Facts*:
 - The first [[~Northerner~]] migrations landed somewhere in the west, gradually spreading north, generally living in the shadow of non-humans before the Downfall. These become the Deno'qai, as well as possibly other as-yet-developed cultures on blank places in the map.
+- Some of these first migrants (proto-[[Deno'qai]]) settled on the northwest coast of the [[Apporia|Apporian Peninsula]], calling themselves the [[Yo'nari]], but eventually falling under the sway of [[Yeshara]] and vanishing into [[Cairn Dor]], a [[Shadowfolds]] domain. Potentially left behind numerous ruins, standing stones, and other structural markers of occupation. This is canonical per the [[Great Library session Notes - arc 5|current arc of the Great Library campaign]]. 
 
 *Ideas:*
 - There is room for additional migrations pre-Downfall into this area, potentially adding one or more secondary cultural strands. There is even room for another Dunmari-like minor pantheonic religion. 
@@ -38,7 +39,7 @@ See: [[Historical Framework#The Drankorian Era]]
 
 The exact history of how the realms and political situation immediately prior to the Great War is left nearly entirely undetermined, although there are some notes in [[Apporia#History]] about the Apporian Peninsula and the rise of [[Cedrano]] as a naval and mercantile power. 
 
-The situation immediately prior to the Great War is laid out here. The borders are not exact as draw, but cover roughly the correct areas. The focus here is on the political and cultural situation at this time, not how it came to be. 
+The situation immediately prior to the Great War is laid out here. The borders are not exact as drawn, but cover roughly the correct areas. The focus here is on the political and cultural situation at this time, not how it came to be. 
 
 ![[west-coast-history-GreatWar.png]]
 

@@ -24,6 +24,6 @@ dm_notes: none
 
 Aelar is an elf and a monk, from the first generation of elves born after the [[Great War]]. Always something of a loner, he spent much of his early life on the streets of [[Chardon]], a bit of an outcast, learning to survive and fight while mourning in his own way the massive destruction of elven society during and after the [[Great War]]. 
 
-Eventually, he found his way to the [[Great Library]], where he was recruited to help search for lost artifacts and treasures from before the [[Great War]] on the [[Northern Frontier]] of the [[Chardonian Empire]]. In the city of [[Voltara]], he met [[Adrik]], [[Aglath]], [[Brelith]], and [[Samso]], and became one of the original members of the [[Silver Tempests]].
+Eventually, he found his way to the [[Great Library]], where he was recruited to help search for lost artifacts and treasures from before the [[Great War]] in the [[Northern Provinces]] of the [[Chardonian Empire]]. In the city of [[Voltara]], he met [[Adrik]], [[Aglath]], [[Brelith]], and [[Samso]], and became one of the original members of the [[Silver Tempests]].
 
 After the [[Silver Tempests]] defeated the beholder [[Vilaxes]], Aelar departed Voltara, and his current whereabouts are unknown. 
