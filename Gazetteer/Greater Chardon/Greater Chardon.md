@@ -137,7 +137,7 @@ The West Coast Region includes the entirety of the [[Chardonian Empire]], as wel
 - [[Lake Valandros]]: *Huge lake, with no canonical details. Likely somewhat dry on the west side and humid and rainy on the east side, just from mountain influence. Probably also agricultural - rice production for example might be common.*
 - [[Mawakel Peninsula]]: *See Mawar notes. Currently unresolved is if this is more of a Cool Maritime Climate (Cfb) with limited winter snow, as currently marked (analogy: coastal Ireland, Pacific NW), or if this is more of a Subpolar Oceanic Climate (Cfc) with heavy winter snowfall and limited agriculture (analogy: Iceland or Norwegian coasts). I guess I have leaned towards the former, with the further north coast beyond Mawar more of the Norway analog.*
 - [[~North Bay~]]: *Lots of land northeast of Mawar. The east coast, near Voltara, has a bit of detail from Great Library campaign, but otherwise this is totally open and undeveloped.*
-- [[Alimas]]: *Canon: center for chalyte mining - mountainous and arid with extensive plains.*
+- [[Snake River]]: *Canon: center for chalyte mining - mountainous and arid with extensive plains.*
 - [[Tawir Forest]]: *So far just a name.*
 - [[Chasa River Valley]]: *agricultural mixed with forests, major population center*
 - [[Yeraad River Basin]]: *southeast of Chardon, south of Chasa/Elderwood. Major lizardfolk area, mining in the hills that separate it from Chasa, and in the "Darba Mountains". Very little detail otherwise - probably fairly flat, hot in the summer. This is basically med transitioning to semi-arid in the east and south, likely supporting fruit trees near the coast, and extensive livestock, probably the center of the Chardon cattle industry.*

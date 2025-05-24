@@ -4,6 +4,8 @@ tags: [place]
 typeOf: river
 whereabouts: Portalia
 pronunciation: TSOO-roo-ah
+dm_owner: none
+dm_notes: none
 ---
 # Zurrua
 *(TSOO-roo-ah)*
