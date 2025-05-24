@@ -1,5 +1,6 @@
 ---
 headerVersion: 2023.11.25
+typeOf: river
 tags: [place, status/check/name, status/stub]
 whereabouts:
 - {type: primary, location: Northern Frontier}
