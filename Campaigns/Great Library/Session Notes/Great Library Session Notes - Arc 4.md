@@ -67,7 +67,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 - (DR:: 1748-02-13): Travel through [[Blackwater Fens]] to approach dragon lair. 
 - (DR:: 1748-02-15): Fight bugbear minions of [[Nymthrax]], and then fight and kill [[Nymthrax]] himself. 
 - (DR:: 1748-02-18): Depart [[Nymthrax]] lair, heading back to river. 
-- (DR:: 1748-02-19): Arrive at the [[~Blackwater Fens River~]], summon portable boat from [[Staff of the Swamplands]], begin to travel downriver
+- (DR:: 1748-02-19): Arrive at the [[Barzhen]], summon portable boat from [[Staff of the Swamplands]], begin to travel downriver
 - (DR:: 1748-02-22): Arrive at [[~Bullywug Village~]]; return treasure, tell stories with the Pipe of Remembrance
 - (DR:: 1748-02-24): Arrive [[~Voltara East Border Fort~]]. Spend the night
 - (DR:: 1748-02-25): Depart fort for [[Voltara]].
@@ -77,7 +77,7 @@ A few weeks later, they arrive back in [[Voltara]], greeting by [[Julius of Volt
 ## Adventure 18: What’s at the Bottom of that Vast, Dark Chasm?
 ### Session 57
 
-The party spends some time in [[Voltara]]. They sell treasure, decorate their manor, and purchase an extradimensional vault from an [[~Voltara Artificer~|eccentric dwarven artificer]]. They also receive letters: 
+The party spends some time in [[Voltara]]. They sell treasure, decorate their manor, and purchase an extradimensional vault from an [[Eldeth Redhammer|eccentric dwarven artificer]]. They also receive letters: 
 - from [[Dinia]], saying that [[Airion’s Tower]] is gone; 
 - from [[Iara]], the lizardfolk, saying her people are heading south to [[Lake Valandros]]; 
 - from Archivist [[Lyra]], saying that the elemental scrolls were well-received, that should they find any more of Arion’s treasure they should come to [[Chardon]] to sell it, and also asking if they would look into the disappearance of another group of adventurers in the [[Goldpeak Mine]]s. 
@@ -90,7 +90,7 @@ Hearing noises from the tent at the abandoned camp, [[Samso]] lights the fabric 
 
 ### Session 59
 
-The [[Silver Tempests ]]continue down the passage, finding a campfire with the surviving Chardonians: [[Alton]], the halfling rogue from long ago, and [[Cassia]], a human paladin. They claim that some weird aberrations are living in the depths; [[~Dead Chardonian Dwarf Adventurer~|their companion]], a dwarf, was corrupted and went mad. After a rest, the party joins [[Cassia]] and [[Alton]] to explore further. 
+The [[Silver Tempests ]]continue down the passage, finding a campfire with the surviving Chardonians: [[Alton]], the halfling rogue from long ago, and [[Cassia]], a human paladin. They claim that some weird aberrations are living in the depths; [[Brottor|their companion]], a dwarf, was corrupted and went mad. After a rest, the party joins [[Cassia]] and [[Alton]] to explore further. 
 
 After traveling some distance into the depths, the party finds some guards, twisted tentacled horrors watching the passageway. Between [[Samso]]’s wall of thorns and [[Brelith]]’s shatter spell, combined with the usual strength of the melee fighters, the guards die quickly. But it does not matter that the guards do not sound the alarm, as shatter alerts the base anyway. 
 
