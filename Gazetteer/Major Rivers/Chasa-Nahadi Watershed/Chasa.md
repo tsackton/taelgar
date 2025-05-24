@@ -7,8 +7,10 @@ whereabouts: Chasa-Nahadi Watershed
 aliases: [River Chasa, Chasa River]
 dm_notes: important
 dm_owner: tim
+pronunciation: CHA-sa
 ---
 # Chasa
+*(CHA-sa)*
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
