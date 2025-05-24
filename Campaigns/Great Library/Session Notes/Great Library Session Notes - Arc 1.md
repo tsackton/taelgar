@@ -42,7 +42,7 @@ Our heroes decide to head to the Forge of Fire, a part of an [[Goldpeak Mines|an
 - (DR:: 1747-04-17): [[Samso]], [[Adrik]], and [[Aglath]] arrive at the [[Crystal Cavern]], where the [[Stonemaster Scroll]] is hidden, after passing through [[orcs|orc]] territory. Retrieve the scroll and befriend the miniature shrunken black bear, named [[Friend]]. 
 - (DR:: 1747-04-19): [[Samso]], [[Adrik]], and [[Aglath]] arrive back in [[Voltara]]. 
 
-## Adventure 3: Letters from the Abby
+## Adventure 3: Letters from the Abbey
 ### Session 3
 
 [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]] meet two new recruits for the Great Library team: [[Aelar]] the elven monk, and [[Scordith]] the human sorcerer. The party is sent to explore the [[Pietravola Abbey]], looking for any clues or letters from [[Airion|Airion Mistspeaker]] that might hint at where the next two scrolls are hidden. 
@@ -79,7 +79,7 @@ While [[Brelith]] and [[Aglath]] return to town, [[Samso]], [[Adrik]], and [[Ael
 ## Adventure 6: The Cursed Tomb
 ### Session 7
 
-Back in town, [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]], joined by [[Scordith]], visit again with [[Quintus Percomia|Quintus]], where [[Aglath]] apologizes for his rude behavior before and the party learns more about the problems the [[centaurs]] are having. Apparently, the local water supply has been poisoned by a curse. The party heads south to investigate. After surviving oozes raining from the sky, and a wild boar charge, they meet the centaurs and head to investigate the cursed lake. There, they find the tomb of [[Xameia|Xameia the Forsworn]], a paladin of the [[Order of Twilight]], sacred to [[The Night Queen]], who forsook her oath out of a desire for greed and was cursed. She cannot rest until the temple of her order is restored to atone for her mistakes. The party agrees to take on this challenge, and [[Xameia]] subsides, freeing the lake of her influence for 30 days. After being rewarded by the [[centaurs]], the party heads back to [[Voltara]].
+Back in town, [[Adrik]], [[Samso]], [[Aglath]], and [[Brelith]], joined by [[Scordith]], visit again with [[Quintus Percomia|Quintus]], where [[Aglath]] apologizes for his rude behavior before and the party learns more about the problems the [[centaurs]] are having. Apparently, the local water supply has been poisoned by a curse. The party heads south to investigate. After surviving oozes raining from the sky, and a wild boar charge, they meet the centaurs and head to investigate the [[Pykolon Lake|cursed lake]]. There, they find the tomb of [[Xameia|Xameia the Forsworn]], a paladin of the [[Order of Twilight]], sacred to [[The Night Queen]], who forsook her oath out of a desire for greed and was cursed. She cannot rest until the temple of her order is restored to atone for her mistakes. The party agrees to take on this challenge, and [[Xameia]] subsides, freeing the lake of her influence for 30 days. After being rewarded by the [[centaurs]], the party heads back to [[Voltara]].
 ### Events
 
 - (DR:: 1747-06-06): [[Samso]], [[Adrik]], [[Brelith]], [[Scordith]], and [[Aglath]] visit [[Quintus Percomia]] and learn of the problems of the [[centaurs]] to the south. 
