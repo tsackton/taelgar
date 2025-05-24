@@ -1,10 +1,12 @@
 ---
 headerVersion: 2023.11.25
-tags: [place, status/stub]
+tags: [place, status/needswork/wip]
 name: Chasa
 typeOf: river
-whereabouts: Chasa-Nahadi Watershed
 aliases: [River Chasa, Chasa River]
+whereabouts: 
+- {type: primary, location: Greater Chardon}
+- {type: secondary, location: Chasa-Nahadi Watershed }
 dm_notes: important
 dm_owner: tim
 pronunciation: CHA-sa
