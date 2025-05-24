@@ -1,6 +1,6 @@
 1/23/2025. 
 
-This discussion is hard to follow without maps, which are not imported here. Largely serves as background for decisions about regions in [[Regions of Taelgar]] and is probably not that useful at this stage except as a record.
+This discussion is hard to follow without maps, which are not imported here. Largely serves as background for decisions about regions in Regions of Taelgar and is probably not that useful at this stage except as a record.
 
 ---
 rsulfuratus — Today at 12:46 PM
