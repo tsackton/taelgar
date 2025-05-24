@@ -4,7 +4,7 @@ tags: [place]
 typeOf: river
 whereabouts: 
 - {type: primary, location: Elderwood }
-- {type: secondary, location: Chasa-Nahadi Watershed }
+- {type: secondary, location: Yeraad River Basin }
 pronunciation: KAY-zahd
 dm_notes: none
 dm_owner: none
