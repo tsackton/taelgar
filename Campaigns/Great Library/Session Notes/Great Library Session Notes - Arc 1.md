@@ -152,7 +152,7 @@ Returning from the success of restoring the [[Order of Twilight Temple (Voltara)
 - (DR:: 1747-07-08): The party arrives back in [[Voltara]]. 
 - (DR:: 1747-07-09): The party meets the [[Anton Lavernia|proconsul]], and Archivist [[Lyra]] tells them a messenger is missing. 
 - (DR:: 1747-07-10): [[Adrik]], [[Brelith]], [[Aelar]], and [[Samso]] random the messenger from the kobolds, but not the map they need to find the last scroll, the Skyborn Scroll.  
-- (DR:: 1747-07-11): The party, with [[Aglath]], ambushes the kobolds and retrieves the map to the [[Skyborn scroll]]. 
+- (DR:: 1747-07-11): The party, with [[Aglath]], ambushes the kobolds and retrieves the map to the [[Skyborn Scroll]]. 
 
 ## Adventure 11: The Skyborn Scroll
 ### Session 17
