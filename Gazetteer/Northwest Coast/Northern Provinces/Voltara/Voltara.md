@@ -6,7 +6,7 @@ name: Voltara
 typeOf: settlement
 typeOfAlias: city
 whereabouts: 
-- {type: primary, location: Northern Frontier }
+- {type: primary, location: Greater Voltara }
 - {type: secondary, location: Northwest Coast }
 dm_notes: important
 dm_owner: tim
@@ -21,9 +21,11 @@ dm_owner: tim
 ## Overview
 
 Voltara, the northernmost substantial settlement in the Chardonian Empire, is a walled town of maybe 2000 people. It is situated on a grassy lowland steppe east of the [[Fiamatara Mountains]], primarily supported by a large mining industry in the nearby hills, which are rich in chalyte. The grasslands are fertile land, and sheep farming and agriculture is common in the Voltara hinterlands. 
+
 %% NOTE
 The plains around voltara are "pampas-like" I think -- key large mammals are deer and llamas, plus probably mountain goats/giant goats.
 %%
+
 Access to the walled town itself is heavily restricted. However, a decent sized settlement has grown up outside the walls, oriented around the needs of the traveling merchant caravans that regularly depart carrying ore, precious metals, and more valuable goods extracted from the mines. Here, you can find taverns and inns aplenty, as well has a thriving bazaar.
 
 Inside the walls, Voltara is a rich city, made wealthy on the chalyte trade. It is also a new city, largely constructed over the past two generations, on the sight of a sleepy frontier fort after the discovery of chalyte in the hills to the north. Many buildings are constructed of white marble, the streets are wide and clean, and the entire town has an air of opulence about it. 
