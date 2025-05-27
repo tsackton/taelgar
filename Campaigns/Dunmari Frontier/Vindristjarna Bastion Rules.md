@@ -228,6 +228,11 @@ After a Beast that can serve as a mount spends at least 14 days in this facility
 >
 > This space has no specific game mechanics, but provides living quarters for the [[Dunmar Fellowship]], a guest suite, plus a substantial dining, kitchen, and living area.
 
+> [!info]+ Control Room
+> >Game Effect: See [[Vindristjarna Mechanics]]
+> >Size: 12 squares
+>
+> The Control Room houses [[Hralgar's Phasing Stone]] and allows the ship to be flown.
 ### Lower Deck
 *210 of 480 squares used*
 
