@@ -24,7 +24,7 @@ Vindristjarna carries with it a number of special facilities that provide in gam
 **Kenzo (4/6)**
 (level 9) [Trophy Room](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrophyRoom) (Hall of Stories)
 (level 9) [Greenhouse](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Greenhouse)
-(level 9) [Training Hall](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea) (Sparring Room)
+(level 9) [Training Area](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea) (Sparring Room)
 (level 13) [Meditation Chamber](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MeditationChamber)
 (level 5-13)
 (level 5-17)
@@ -39,7 +39,7 @@ Vindristjarna carries with it a number of special facilities that provide in gam
 
 **Seeker (4/6)**
 (level 5) [Workshop](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Workshop)
-(level 9) [Training Hall](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea) (Game Room)
+(level 9) [Training Area](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea) (Game Room)
 (level 13) [Archive](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Archive)
 (level 13) [Observatory](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Observatory)
 (level 5-13)
@@ -55,14 +55,30 @@ Vindristjarna carries with it a number of special facilities that provide in gam
 
 ## Followers
 
-These followers are available to tend to Bastion facilities
-[[Faldrak Bronzehammer]] (he/him). Dwarven artificer and skyship captain.
-[[Amil]] (he/him). Dunmari monk-in-training.
-[[Egnir|Égnir]] (he/him, AY-nyeer). Elven gardener.
-[[Jotha]] (she/her, yo-TAH). Deno'qai priestess and warrior. 
-[[Mica Copperharp]] (he/him). Halfling, Willow's husband. Still shaken by the experience of terror in Drankor but starting to come out of his shell. He is comic, a joker, good with his hands and the drums but not well-spoken, a brewer, a bit of a drinker. 
-[[Willow Copperharp]] (she/her). Halfing, Mica's wife. Still shaken by the experience of terror in Drankor but starting to come out of her shell. She is a storyteller, a poet, connected to the ancestral mind, and fairly religious as halflings go. 
-[[Adam Gower]] (he/him). Tollender human. Adam can carry out any number *Trade* orders during a Bastion Turn, as long as Vindristjarna is docked in Tollen. 
+These followers are available to tend to Bastion facilities:
+[[Faldrak Bronzehammer]] (he/him). Dwarven artificer and skyship captain. In addition to piloting the ship, Faldrak can tend the ***Observatory*** or ***Workshop***, or can serve as a ***Tools Trainer (Game Room)***
+[[Amil]] (he/him). Dunmari monk-in-training. Amil can tend the ***Hall of Stories*** or can serve as a ***Battle Defense (Sparring Room or Game Room)*** or ***Unarmed Attack (Sparring Room)*** trainer.
+[[Egnir|Égnir]] (he/him, AY-nyeer). Elven gardener. He can carry out any number of ***Harvest*** orders for the ***Gardens and Greenhouse***. He can also ***Empower***the ***Elven Tree***.
+[[Jotha]] (she/her, yo-TAH). Deno'qai priestess and warrior. She can tend the ***Sanctuary***, or serve as a ***Weapon Expert (Sparring Room)***.
+[[Mica Copperharp]] (he/him). Halfling, Willow's husband. A comic, a joker, good with his hands and the drums, a brewer, and a bit of a drinker. Mica can serve as a ***Skills Trainer (Game Room)***. 
+[[Willow Copperharp]] (she/her). Halfling, Mica's wife. A storyteller, a poet, and fairly religious as halflings go. Willow can tend the ***Map Room***.
+[[Adam Gower]] (he/him). Tollender human. Adam does not tend a specific facility, but if [[Vindristjarna]] is in [[Tollen]] for a Bastion Turn, he can carry out any number of ***Trade*** orders. 
+
+Each PC is also able to tend Bastion facilities:
+[[Delwath]]: ***Sanctuary***, ***Gardens and Greenhouse***
+[[Seeker]]: ***Observatory***, ***Workshop***, ***Tools Trainer (Game Room)***, ***Archives***
+[[Kenzo]]: ***Gardens and Greenhouse***, ***Elven Tree***, ***Hall of Stories***, ***Battle Defense (Sparring Room or Game Room)*** or ***Unarmed Attack (Sparring Room)*** trainer.
+[[Wellby]]: ***Map Room***, ***Stable***, ***Storehouse***
+
+## Bastion Turns
+
+A Bastion Turn represents a period of time, usually around 7 days, of uninterrupted time on [[Vindristjarna]]. During a Bastion Turn, each Follower and PC can fulfill one set of special facility orders, except as otherwise noted. A PC cannot both fulfill a set of orders and benefit from a special facility that requires eight hours a day of work. 
+
+> [!info]+ Example Bastion Turn
+> 
+> While traveling to Chardon to instigate trouble, the party takes a Bastion Turn. It might go like this:
+> **
+
 
 ## Descriptions
 
@@ -71,28 +87,19 @@ These followers are available to tend to Bastion facilities
 
 The upper deck consists of, from stern to prow:
 
-* the shrine to the [[Tanshi]], tended by [[Delwath]] and the [[Deno'qai]] tanshi warrior, [[Jotha]]
-* the elven garden and greenhouse, tended by the elven garden [[Egnir]] from [[Orenlas]]
+* the shrine to the [[Tanshi]]
+* the elven garden and greenhouse
 * the elven tree, grown from seed by [[Kenzo]]
-* the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and the map room, tended by [[Wellby]]
+* the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and the map room
 * On a sky deck built above the map room, [[Seeker|Seeker's]] observatory
-* the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorating with memorials to the adventures of the [[Dunmar Fellowship]] and tended by [[Amil]]
-* in the bow, [[Baxter|Baxter's]] stable, tended by [[Wellby]]
-
-
-> [!info]+ Main Building
-> >Tended by: [[Dunmar Fellowship]]
-> >Game Effect: Dining Hall, Parlor, Kitchen, Living Quarters x6
-> >Size: 128 squares (Roomy Basic Quarters x9)
->
-> This space has no specific game mechanics, but provides living quarters for the [[Dunmar Fellowship]], a guest suite, plus a substantial dining, kitchen, and living area.
+* the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorating with memorials to the adventures of the [[Dunmar Fellowship]] 
+* in the bow, [[Baxter|Baxter's]] stable
 
 #### Sanctuary
-*Tended by [[Jotha]]*
+*Tended by [[Jotha]] or [[Delwath]]*
 
 > [!info]+ Tanshi Shrine
-> >Tended by: [[Jotha]]
-> >Game Effect: Sanctuary 
+> >Game Effect: [Sanctuary](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sanctuary)
 > >Size: 16 squares (Roomy)
 > >Order: Craft
 >
@@ -101,11 +108,11 @@ The upper deck consists of, from stern to prow:
 >**_Craft: Sacred Focus._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, you commission the facility’s hireling to craft a [Druidic Focus](https://www.dndbeyond.com/equipment/532-druidic-focus) ([wooden staff](https://www.dndbeyond.com/equipment/530-wooden-staff)) or a [Holy Symbol](https://www.dndbeyond.com/equipment/514-holy-symbol). The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
 
 #### Gardens and Greenhouse
-*Tended by [[Egnir]]*
+*Tended by [[Egnir]], [[Delwath]], or [[Kenzo]]*
 
 > [!info]+ Garden and Greenhouse
 > >Tended by: [[Egnir]]
-> >Game Effect: Enlarged Garden (Decorative and Food) and Greenhouse
+> >Game Effect: Enlarged [Garden](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Garden) (Decorative and Food) and [Greenhouse](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Greenhouse)
 > >Size: 72 squares (Vast Garden, Vast Greenhouse)
 > >Order: Harvest (3x: choose healing herbs or poison; food; flowers)
 > 
@@ -142,22 +149,21 @@ The upper deck consists of, from stern to prow:
 > 6 | Charisma
 
 #### Library (Map Room)
-*Tended by [[Wellby]]*
+*Tended by [[Wellby]] or [[Willow Copperharp]]*
 
 > [!info]+ Map Room
 > >Tended by: [[Wellby]]
-> >Game Effect: Library
+> >Game Effect: [Library](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Library)
 > >Size: 4 squares (Cramped)
 > > Order: Research
 > 
 > **_Research: Topical Lore._** When you issue the [Research](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Research) order to this facility, you commission the facility’s hireling to research a topic. The topic can be a legend, a known event or location, a person of significance, a type of creature, or a famous object. The work takes 7 days. When the research concludes, the hireling obtains up to three accurate pieces of information about the topic that were previously unknown to you and shares this knowledge with you the next time you speak with them. The DM determines what information you learn.
 
 #### Trophy Room (Hall of Stories)
-*Tended by [[Amil]]*
+*Tended by [[Amil]] or [[Kenzo]]*
 
 > [!info]+ Hall of Stories
-> >Tended by: [[Amil]] 
-> >Game Effect: Trophy Room
+> >Game Effect: [Trophy Room](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrophyRoom) 
 > >Size: 36 squares (Vast)
 > > Order: Research (choose lore or trinket)
 > 
@@ -168,11 +174,10 @@ The upper deck consists of, from stern to prow:
 > ***Research: Trinket Trophy***. You commission the facility’s hireling to search for a trinket that might be of use to you. The work takes 7 days. When the research concludes, roll any die. If the number rolled is odd, the hireling finds nothing useful. If the number rolled is even, the hireling finds a magic item. Roll on the [Implements—Common](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ImplementsCommon) table in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items) to determine what it is.
 
 #### Observatory
-*Tended by [[Seeker]]*
+*Tended by [[Seeker]] or [[Faldrak Bronzehammer|Faldrak]]*
 
 > [!info]+ Observatory
-> >Tended by: [[Seeker]]
-> >Game Effect: Observatory
+> >Game Effect: [Observatory](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Observatory)
 > >Size: 16 squares (Roomy)
 > > Order: Empower
 > 
@@ -183,11 +188,10 @@ The upper deck consists of, from stern to prow:
 **_Empower: Eldritch Discovery._** When you issue the [Empower](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Empower) order to this facility, you enable yourself or the facility’s hireling to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the number rolled is even, nothing is gained. If the number rolled is odd, an unknown power bestows one of the following Charms on you or another creature of your choice that is on the same plane of existence as you: [Charm of Darkvision](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofDarkvision), [Charm of Heroism](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofHeroism), or [Charm of Vitality](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofVitality) (all described in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)).
 
 #### Stable
-*Tended by [[Adam Gower]], as long as Vindristjarna is docked in Tollen*
+*Tended by [[Wellby]], or [[Adam Gower]] if Vindristjarna is docked in Tollen*
 
 > [!info]+ Stable
-> > Tended by: [[Wellby]]
-> >Game Effect: Stable
+> >Game Effect: [Stables](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Stable)
 > >Size: 36 squares (Vast)
 > >Order: Trade 
 > 
@@ -196,6 +200,13 @@ The upper deck consists of, from stern to prow:
 After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom ([Animal Handling](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) checks made with respect to it have Advantage.
 >
 **_Trade: Animals._** When you issue the [Trade](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade) order to this facility, you commission the facility’s hireling to buy or sell one or more mounts at normal cost, keeping the ones you buy in your Stable. The work takes 7 days, and the DM decides what types of animals are available for purchase—horses, ponies, and mules being the most common. The [Mounts and Other Animals](https://www.dndbeyond.com/sources/phb/equipment#MountsandOtherAnimals) table in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024) gives standard prices for various mounts. You bear the total cost of any purchases. When you sell a mount from your Stable, the buyer pays you 100 percent more than the standard price.
+#### Basic Facilities, Upper Level
+
+> [!info]+ Main Building
+> >Game Effect: Dining Hall, Parlor, Kitchen, Living Quarters x6
+> >Size: 128 squares (Roomy Basic Quarters x9)
+>
+> This space has no specific game mechanics, but provides living quarters for the [[Dunmar Fellowship]], a guest suite, plus a substantial dining, kitchen, and living area.
 
 ### Lower Deck
 *210 of 480 squares used*
@@ -209,78 +220,107 @@ The lower deck consists of, from stern to prow:
 * a shrine to the [[Bahrazel]]
 * the smithy
 
-> [!info]+ Game Room
-> >Tended by: [[Seeker]]
-> >Game Effect: Training Hall
-> >Size: 36 squares (Vast)
-> >Order: Empower (1d6 BP)
-> >Current Trainer: Unarmed Combat Expert
->
-> When you issue the Empower order to this facility, the facility’s hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on which trainer is present in the facility, as noted in the Expert Trainers table. The benefit lasts for 7 days. The Game Room has complex games of skill and chance, and can be modified to support any of the following expert trainers.
-> 
-> **Skills Expert** You gain proficiency in one of the following skills of your choice: Acrobatics, Athletics, Performance, Sleight of Hand, or Stealth. 
-> 
-> **Tools Expert** You gain proficiency with one Musical Instrument or Tool of your choice. 
-> 
-> **Unarmed Combat Expert** When you use an Unarmed Strike to damage a target, the attack deals an extra 1d4 Bludgeoning damage on a hit
+#### Training Area (Game Room)
+*Tended by any trainer, see below*
 
+> [!info]+ Game Room
+> >Game Effect: [Training Area](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea) 
+> >Size: 36 squares (Vast)
+> >Order: Empower 
+>
+> The game room contains a series of clever puzzles, traps, and mechanisms to test, challenge, enlighten, and enthrall all who visit. When you issue the Empower order to this facility, the facility’s hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on which trainer is present in the facility, as noted below. The benefit lasts for 7 days. 
+> 
+> **Skills - [[Mica Copperharp]]**: You gain proficiency in one of the following skills of your choice: [Acrobatics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Athletics](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Performance](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), [Sleight of Hand](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills), or [Stealth](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills). 
+> **Tools - [[Faldrak Bronzehammer|Faldrak]] or [[Seeker]]**: You gain proficiency with one tool of your choice.     
+>**Battle Defense - [[Kenzo]] or [[Amil]]**: When you take damage from an attack made with an [Unarmed Strike](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnarmedStrike) or a weapon, you can take a Reaction to reduce this damage by **1d4** 
+
+#### Workshop
+*Tended by [[Faldrak Bronzehammer|Faldrak]] or [[Seeker]]*
 
 > [!info]+ Workshop
-> >Tended by: [[Faldrak Bronzehammer|Faldrak]]
-> >Game Effect: Workshop
+> >Game Effect: [Workshop](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Workshop)
 > >Size: 16 squares (Roomy)
->> Order: Craft (1d4 BP) 
+>> Order: Craft 
 >
->This Workshop is a creative space where all manner of useful items can be crafted. After spending an entire Short Rest in your Workshop, you gain Heroic Advantage. You can’t gain this benefit again until you finish a Long Rest. When you issue the Craft order to this facility, you commission the facility’s hirelings to craft one Tiny, nonmagical object that can be made using Carpenter’s Tools, Cobbler’s Tools, Glassblower’s Tools, Mason’s Tools, Potter’s Tools, Tinker’s Tools, Weaver’s Tools, or Woodcutter’s Tools. Examples include a Costume, a Gaming Set, a Musical Instrument, a Spellcasting Focus, a bottle, a shoe, or a toy. The work takes 7 days and costs you nothing unless the item is worth 10 GP or more, in which case you pay half the item’s cost.
+**_Artisan’s Tools._** The Workshop comes equipped with the following tools:
+[Carpenter’s Tools](https://www.dndbeyond.com/equipment/409-carpenters-tools)
+[Glassblower’s Tools](https://www.dndbeyond.com/equipment/421-glassblowers-tools)
+[Jeweler’s Tools](https://www.dndbeyond.com/equipment/423-jewelers-tools)
+[Leatherworker’s Tools](https://www.dndbeyond.com/equipment/425-leatherworkers-tools)
+[Mason’s Tools](https://www.dndbeyond.com/equipment/428-masons-tools)
+[Tinker’s Tools](https://www.dndbeyond.com/equipment/441-tinkers-tools)
+>
+**_Craft Options._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, choose one of the following options:
+>
+**Craft: Adventuring Gear.** The facility’s hirelings craft anything that can be made with the tools in the Workshop, using the rules in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024).
+>
+**Craft: Magic Item (Implement).** If you are level 9+, you can commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Implements](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) tables in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
+>
+**_Source of Inspiration._** After spending an entire Short Rest in your Workshop, you gain [Heroic Inspiration](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HeroicInspiration). You can’t gain this benefit again until you finish a Long Rest.
+
+#### Training Area (Sparring Room)
+*Tended by any  trainer, see below*
 
 > [!info]+ Sparing Room
-> >Tended by:  [[Aygul]]
-> >Game Effect: Training Hall
+> >Game Effect: [Training Area](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea) 
 > >Size: 36 squares (Vast)
-> > Order: Empower (1d6 BP)
+> > Order: Empower
 > 
-> When you issue the Empower order to this facility, the facility’s hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on which trainer is present in the facility, as noted in the Expert Trainers table. The benefit lasts for 7 days
-> The sparing room can support any of the following expert trainers:
+> This room consists of open space and padded dummies for sparring. When you issue the Empower order to this facility, the facility’s hirelings conduct training exercises for the next 7 days. Any character who trains here for at least 8 hours on each of those days gains a benefit at the end of the training period. The benefit depends on which trainer is present in the facility, as noted below. The benefit lasts for 7 days. 
 > 
-> **Battle Expert** Once per turn, when you take damage from an attack made with an Unarmed Strike or a weapon, you can reduce this damage by 1d4, provided you don’t have the Incapacitated condition.
-> 
-> **Unarmed Combat Expert** When you use an Unarmed Strike to damage a target, the attack deals an extra 1d4 Bludgeoning damage on a hit.
-> 
-> **Weapon Expert** Choose a type of Simple or Martial weapon, such as Spear or Longbow. If you aren’t proficient with the weapon, you gain proficiency with it for the next 7 days. If you already have proficiency with the weapon, you can use its Mastery property for the next 7 days
+>**Battle Defense - [[Kenzo]] or [[Amil]]**: When you take damage from an attack made with an [Unarmed Strike](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnarmedStrike) or a weapon, you can take a Reaction to reduce this damage by **1d4** 
+>**Unarmed Attack - [[Kenzo]] or [[Amil]]**: When you hit with your [Unarmed Strike](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#UnarmedStrike) and deal damage, the attack deals an extra **1d4** Bludgeoning damage.
+> **Weapon Master - [[Jotha]]**: Choose a kind of Simple or Martial weapon. If you aren’t proficient with the weapon, you gain proficiency with it. If you already have proficiency with the weapon, you can use its mastery property.
+
+#### Archives
+*Tended by [[Seeker]]*
 
 > [!info]+ Archives
-> >Tended by:  [[Nuzkar]]
 > >Game Effect: Archive
 > >Size: 16 squares (Roomy)
-> > Order: Research (1d8 BP)
+> > Order: Research 
 > 
 > An Archive is a repository of valuable books, scrolls, and maps. It is usually attached to a Library behind a locked or secret door. Your Archive contains one copy of a rare and valuable reference book, chosen from the options in the Reference Books table. While you and this book are in your Bastion, you gain the book’s benefit, as noted in the table. (Your DM might make other reference books available.) When you issue the Research order to this facility, you commission the facility’s hireling to search the Archive for helpful lore. The work takes 7 days. Whoever does the work gains knowledge as if they had cast the Legend Lore spell. A hireling who gains this knowledge shares it with you the next time you speak with them.
 > 
 > The Archive currently contains a single rare tome: *Name TBD*.  When making an Arcana check while on board [[Vindristjarna]] you have Advantage.
 
+#### Reliquary and Sanctum (Shrine of the Bahrazel)
+*Untended*
+
 > [!info]+ Shrine of the [[Bahrazel]]
-> >Tended by:  [[Riswynn]]
 > >Game Effect: Reliquary + Sanctum
 > >Size: 20 squares (Cramped + Roomy)
->> Order: Harvest (1d8 BP)
+>> Order: Empower, Harvest
 >
->This vault holds sacred objects that reinforce your religion. Whenever you spend a Long Rest in your Bastion, you can cast Greater Restoration once within the next 7 days without expending a spell slot or using Material components. When you issue the Harvest order to this facility, you commission the facility’s hireling to produce a specially prepared talisman for your use. The talisman usually takes the form of an amulet, a rune-carved box, or a statuette, but it can be any Tiny, nonmagical object that has religious significance. The work takes 7 days and costs no money. You can use this talisman as a Spellcasting Focus, ignoring any of the spell’s Material components, including ones that have a cost of 1,000 GP or less. The talisman can be used in this way only once, and then it must be returned to your Reliquary. Another Harvest order prepares it for use again.
+>The shrine to the Bahrazel holds sacred objects and is a sacred place. 
+>
+**_Reliquary Charm._** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Greater Restoration](https://www.dndbeyond.com/spells/2618961-greater-restoration) once without expending a spell slot or using Material components. You can’t gain this Charm again while you still have it.
+>
+>**_Sanctum Charm._** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Heal](https://www.dndbeyond.com/spells/2618979-heal) once without expending a spell slot. You can’t gain this Charm again while you still have it.
+>
+>**_Sanctum Recall._** While the Sanctum exists, you always have the [Word of Recall](https://www.dndbeyond.com/spells/2619218-word-of-recall) spell prepared. When you cast [Word of Recall](https://www.dndbeyond.com/spells/2619218-word-of-recall), you can make your Sanctum the destination of the spell instead of another place you have previously designated. In addition, one creature of your choice that arrives in the Sanctum via this spell gains the benefit of a [Heal](https://www.dndbeyond.com/spells/2618979-heal) spell.
+>
+>**_Empower: Fortifying Rites._** When you issue the [Empower](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Empower) order to this facility, you inspire its hirelings to perform daily rites that benefit you or another character you name. The beneficiary doesn’t need to be in the Bastion when the rites are performed to gain their benefit. Each time the beneficiary finishes a Long Rest, they gain [Temporary Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to your level. This effect lasts for 7 days.
+>
+>**_Harvest: Talisman._** When you issue the [Harvest](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Harvest) order to this facility, you commission its hireling to produce a specially prepared talisman for your use. The talisman usually takes the form of an amulet, a rune-carved box, or a statuette, but it can be any Tiny, nonmagical object that has religious significance. The work takes 7 days and costs no money. You can use this talisman in place of one spell’s Material components, provided the components have a cost of 1,000 GP or less. If the spell normally consumes its components, the talisman isn’t consumed. After the talisman has been used in this way, it can’t be used again until you return it to your Reliquary and use another Harvest order to prepare it.This vault holds sacred objects that reinforce your religion. Whenever you spend a Long Rest in your Bastion, you can cast Greater Restoration once within the next 7 days without expending a spell slot or using Material components. When you issue the Harvest order to this facility, you commission the facility’s hireling to produce a specially prepared talisman for your use. The talisman usually takes the form of an amulet, a rune-carved box, or a statuette, but it can be any Tiny, nonmagical object that has religious significance. The work takes 7 days and costs no money. You can use this talisman as a Spellcasting Focus, ignoring any of the spell’s Material components, including ones that have a cost of 1,000 GP or less. The talisman can be used in this way only once, and then it must be returned to your Reliquary. Another Harvest order prepares it for use again.
 
+#### Smithy
+*Untended*
 
 > [!info]+ Smithy
-> > Tended by: [[Kethra|Kethra Silverspark]]
-> >Game Effect: Smithy
+> >Game Effect:  [Smithy](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Smithy)
 > >Size: 16 squares (Roomy)
-> > Order: Craft (1d4 BP)
+> > Order: Craft
 > 
-> This Smithy contains a forge, an anvil, and other tools needed to craft weapons and tools. When you issue the Craft order to this facility, choose one of the following options:
-> 
-> **Craft: Ammunition or Simple Weapon**. You commission the facility’s hirelings to craft up to twenty pieces of ammunition or one Simple Weapon, which takes 7 days and costs you half the normal price of the ammunition or weapon. Or you can commission a masterwork Simple Weapon, which takes 14 days and costs you 800 GP. A masterwork Simple weapon has no special properties until a Magic Weapon spell is cast on it. When that spell ends, the masterwork weapon retains the magic permanently, becoming a +1 Weapon.
-> 
-> **Craft: Armor or Equipment**. You commission the facility’s hirelings to craft one of the following: a suit of Medium or Heavy armor (excluding Hide), 20 Caltrops, a Chain (10 feet), a Crowbar, a Grappling Hook, a Hammer (regular or sledge), 4 horseshoes, a Hunting Trap, a set of Manacles, a Miner’s Pick, 10 Iron Spikes or Pitons, an Iron Pot, a metal Shield, or a Shovel. The work takes 7 days, or 21 days for a suit of armor, and costs you half the item’s normal cost. 
-> 
-> **Craft: Martial Weapon**. You commission the facility’s hirelings to craft a Martial weapon, which takes 14 days and costs you half the weapon’s normal cost, or a masterwork Martial weapon, which takes 21 days and costs you 800 GP. A masterwork Martial weapon has no special properties until a Magic Weapon spell is cast on it. When that spell ends, the masterwork weapon retains the magic permanently, becoming a +1 Weapon.
+> This Smithy contains a forge, an anvil, and other tools needed to craft weapons, armor, and other equipment.
+>
+**_Craft Options._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, choose one of the following options:
+>
+**Craft: Smith’s Tools.** The facility’s hirelings craft anything that can be made with [Smith’s Tools](https://www.dndbeyond.com/equipment/438-smiths-tools), using the rules in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024).
+>
+**Craft: Magic Item (Armament).** If you are level 9+, can you commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Armaments](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) tables in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
 
+#### Basic Facilities, Lower Level
 
 > [!info]+ Living Quarters
 > >Game Effect: Living Quarters x12
@@ -301,10 +341,14 @@ The lower deck consists of, from stern to prow:
 
 The storage deck is currently unfinished and is primarily used as an actual storage hold.
 
+#### Storehouse (Storage Hold)
+*Tended by [[Wellby]], or [[Adam Gower]] while [[Vindristjarna]] is docked in [[Tollen]]*
+
 > [!info]+ Storage Hold
-> > Tended by: [[Adam Gower]], from [[Tollen]]
-> >Game Effect: Storehouse
+> >Game Effect: https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Storehouse
 > >Size: 36 squares (Vast)
-> > Order: Trade (1d4 BP)
+> > Order: Trade
 > 
-> This cool, dark space is meant to contain trade goods (see the Trade Goods table in the Player’s Handbook) but can hold almost anything. When you issue the Trade order to this facility, its hireling spends the next 7 days procuring nonmagical items that have a total value of 500 GP or less and stores them in the Storehouse, or the hireling uses those 7 days to sell goods in the Storehouse. You bear the total cost of any purchases, and the maximum value of the items purchased increases to 2,000 GP when you reach level 9 and 5,000 GP when you reach level 13. The Equipment chapter of the Player’s Handbook has tables of common goods that can be bought. When you sell goods from your Storehouse, the buyer pays you 10 percent more than the standard price; this profit increases to 20 percent when you reach level 9, 50 percent when you reach level 13, and 100 percent when you reach level 17.
+**_Trade: Goods._** When you issue the [Trade](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade) order to this facility, its hireling spends the next 7 days procuring nonmagical items that have a total value of 5000 GP or less and stores them in the Storehouse, or the hireling uses those 7 days to sell goods in the Storehouse. You bear the total cost of any purchases.
+>
+>When you sell goods from your Storehouse, the buyer pays you 100 percent more than the standard price.
