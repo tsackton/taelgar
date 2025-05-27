@@ -27,9 +27,9 @@ dm_notes: important
 ---
 # Vindristjarna
 *(vin-dree-SHAR-na)*
->[!info]+ Information
-> (unique magical skyship)
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> (unique magical skyship)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 ![[vindristjarna-v1.jpg]]
