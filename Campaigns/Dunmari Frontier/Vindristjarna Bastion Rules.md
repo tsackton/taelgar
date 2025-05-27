@@ -7,9 +7,9 @@ Vindristjarna carries with it a number of special facilities that provide in gam
 *Special Facility Mechanics: As a way to balance the goals of keeping to the spirit of the bastion rules, while also maintaining in-world verisimilitude, the following rules apply to Vindristjarna Special Facilities.*
 
 (1) Some special facilities have prerequisites. If a special facility has prerequisites that a character does not meet, they may still choose that special facility as long as (i) there is a good role-playing rationale, and (ii) the character is at least 4 levels higher than the special facility level.
-(2) Vindristjarna is mobile, which makes it more powerful than many bastions. As a trade-off, it can only host bastions up to a fixed size, after which there is no more room to expand. The upper deck and belowdecks are each 480 squares, while the hold is only 185 squares due to the slope of the sides. 
+(2) Vindristjarna is mobile, which makes it more powerful than many bastions. As a trade-off, it can only host bastions up to a fixed size, after which there is no more room to expand. The upper and lower decks are each 480 squares, while the hold is only 185 squares due to the slope of the sides. 
 (3) Bastion facilities have a number of effects. While anything that only requires you to rest in the Bastion will obviously function as expected, anything that requires work needs a person to do the work (although "combined" facilities can generally be worked by a single follower, and in general we can assume followers are more productive and useful than a typical "Bastion hireling"). This is just meant to reflect the trade off between mobility and the fact you can't support as large a crew as a fixed Bastion could support.
-(4) Each character can have a single level 17 facility; I also reserve the right to limit the number of level 13 facilities you can take. 
+(4) Each character can have a single level 17 facility and no more than two level 13 facilities.
 
 ## Special Facility Allocations
 
@@ -17,15 +17,15 @@ Vindristjarna carries with it a number of special facilities that provide in gam
 (level 5) [Sanctuary](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sanctuary)
 (level 5) [Garden](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Garden) (Food) 
 (level 5) [Garden](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Garden) (Decorative) 
-(level 5-13)
+(level 9) [Greenhouse](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Greenhouse)
 (level 5-13)
 (level 5-17)
 
-**Kenzo (4/6)**
+**Kenzo (3/6)**
 (level 9) [Trophy Room](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrophyRoom) (Hall of Stories)
-(level 9) [Greenhouse](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Greenhouse)
 (level 9) [Training Area](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrainingArea) (Sparring Room)
-(level 13) [Meditation Chamber](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MeditationChamber)
+(level 13) [Meditation Chamber](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MeditationChamber) (Elven Tree)
+(level 5-13)
 (level 5-13)
 (level 5-17)
 
@@ -72,13 +72,33 @@ Each PC is also able to tend Bastion facilities:
 
 ## Bastion Turns
 
-A Bastion Turn represents a period of time, usually around 7 days, of uninterrupted time on [[Vindristjarna]]. During a Bastion Turn, each Follower and PC can fulfill one set of special facility orders, except as otherwise noted. A PC cannot both fulfill a set of orders and benefit from a special facility that requires eight hours a day of work. 
+A Bastion Turn represents a period of time, usually around 7 days, of uninterrupted time on [[Vindristjarna]]. During a Bastion Turn, each Follower and PC can fulfill one set of special facility orders, or more as otherwise noted. A PC cannot both fulfill a set of orders and benefit from a special facility that requires eight hours a day of work. 
 
 > [!info]+ Example Bastion Turn
 > 
 > While traveling to Chardon to instigate trouble, the party takes a Bastion Turn. It might go like this:
-> **
-
+> 
+> *Faldrak*, while piloting the ship, takes the Craft option from the Workshop to make a Potion of Growth, an Uncommon consumable item. It will take 5 days of work and 100 gold to finish. During the evenings, Faldrak also searches the skies in the Observatory. However, at the end of the Bastion Turn he rolls a 4, an even number, and so gains nothing from this activity.
+> 
+>*Amil* tends to the Hall of Stories, taking the Research (Lore) option, to learn something about chalyte from the stories recorded. At the end of the Bastion Turn, he will learn three pieces of information to communicate to the party. 
+>
+>*Egnir* tends the Garden and Greenhouses. He can carry out the Harvest order three times, and produces 100 days of Rations, 10 Candles, and a Potion of Healing (Greater).
+>
+>*Jotha* serves as Weapon Expert in the Sparring Room. She can train with any PC to give them the benefits of the Weapon Expert feature.
+>
+>*Mica* serves as a Skill Expert in the Game Room. He can train with any PC to give them the benefits of the Skill Expert feature.
+>
+>*Willow* pours over the maps in the Map Room, taking the Research option to learn about Mitus Verina Auratan, the Magistros of Chardon. At the end of the Bastion Turn, she will learn three pieces of information to communicate to the party.
+>
+>As the ship is not docked in Tollen, Adam Gower does nothing.
+> 
+>**Delwath** trains with *Jotha* in the Sparring Room for 8 hours per day. For the next 7 days, he can use the Mastery property of his Longsword. Since he takes a Long Rest in the Bastion, he also gains a tanshi Charm from the Sanctuary that lets him cast Healing Word once in the next 7 days, without using a spell slot. Finally, when he leaves Vindristjarna, he picks three fruits from the Greenhouse. Each fruit can be consumed in the next 24 hours by any creature; when consumed it has the effect of the Lesser Restoration spell
+>
+>**Seeker** spends time in the Archive, Researching for 8 hours per day to seek esoteric knowledge of Bronzehall, a rumored city on the Plane of Fire where Frankar was seen, according to the [[Philosopher's Information Concerning Frankar]]. He gains the effect of casting the Legend Lore spell targeting Bronzehall. Since he takes a Long Rest in the Bastion, he also gains a esoteric Charm from the Observatory that lets him cast Contact Other Plane once in the next 7 days, without using spell slots. Finally, when he takes a Short Rest in the Bastion, he gains Heroic Inspiration from the Workshop. 
+>
+>**Kenzo** meditates at the base of the Elven Tree for 8 hours per day. At the end of the Bastion Turn, he rolls a 1 and a 4 on the d6s, and for the next 7 days has Advantage on any Strength or Intelligence Saving Throws.
+>
+>**Wellby** trains with *Mica* in the Game Room for 8 hours per day, practicing his comic timing. At the end of the Bastion Turn, he gains Proficiency in the Performance skill for the next 7 days.
 
 ## Descriptions
 
@@ -280,9 +300,11 @@ The lower deck consists of, from stern to prow:
 > >Size: 16 squares (Roomy)
 > > Order: Research 
 > 
-> An Archive is a repository of valuable books, scrolls, and maps. It is usually attached to a Library behind a locked or secret door. Your Archive contains one copy of a rare and valuable reference book, chosen from the options in the Reference Books table. While you and this book are in your Bastion, you gain the book’s benefit, as noted in the table. (Your DM might make other reference books available.) When you issue the Research order to this facility, you commission the facility’s hireling to search the Archive for helpful lore. The work takes 7 days. Whoever does the work gains knowledge as if they had cast the Legend Lore spell. A hireling who gains this knowledge shares it with you the next time you speak with them.
+> An Archive is a repository of valuable books, maps, and scrolls. It is usually attached to a Library behind a locked or secret door.
 > 
-> The Archive currently contains a single rare tome: *Name TBD*.  When making an Arcana check while on board [[Vindristjarna]] you have Advantage.
+**_Research: Helpful Lore._** When you issue the [Research](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Research) order to this facility, you commission the facility’s hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [Legend Lore](https://www.dndbeyond.com/spells/2619010-legend-lore) spell, then shares this knowledge with you the next time you speak with them.
+>
+**_Reference Book._** Your Archive contains one copy of a rare and valuable reference book, which gives you a benefit while you and the book are in your Bastion. The Archive currently contains a single rare tome: *Name TBD*.  While you and your book on Vindristjarna, you have Advantage on any Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check you make when you take the [Study](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StudyAction) action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.
 
 #### Reliquary and Sanctum (Shrine of the Bahrazel)
 *Untended*
