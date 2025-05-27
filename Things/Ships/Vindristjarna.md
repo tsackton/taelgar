@@ -141,3 +141,24 @@ After operating Vindristjarna for at least 6 weeks, you gain the ability to cont
 While flying under advanced control, you can focus to enter a heightened state of control. This requires Concentration, but can be done as a free action at any time, and lasts for up to 10 minutes. Under this heightened state, you can fly Vindristjarna with a combat movement speed of 120 feet, you can perceive from any location on the ship, and any spells or magical abilities you use can originate from any point on the ship. Under combat control, damage cannot cause you to lose concentration on Vindristjarna. You can use combat control once, and regain all uses when you finish a long rest. If you attempt to use combat control when you have no uses remaining, you must make a DC 15 Constitution saving throw, gaining one level of exhaustion on a failure. 
 ### Losing Control
 While attuned to Vindristjarna, the ship will not crash. However, if no one is attuned to the phasing stone,  the ship will begin to drift towards the ground at a speed of 10 feet per second. If the phasing stone is destroyed, or its connection to Vindristjarna severed, the ship will plummet from the sky and crash. 
+
+## People
+
+## On Vindristjarna
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location", "Home"], 
+			dv.pages("#person")
+				.where(f => util.inOrHomeLocation("Vindristjarna", f.file.frontmatter, dv.current().pageTargetDate))
+				.where(f => !util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
+				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```
+
+## In the Mirror
+```dataviewjs
+const { util } = customJS
+dv.table(["Person", "Info", "Current Location", "Home"], 
+			dv.pages("#person")
+				.where(f => util.inOrHomeLocation("Mirror of Soul Trapping", f.file.frontmatter, dv.current().pageTargetDate))				
+				.map(b => [util.s("<name> <pronunciation> (<pronouns>)", b.file), util.s("<ancestry> <maintype>", b.file), util.s("<lastknown:2> (<lastknowndate>)", b.file, dv.current().pageTargetDate), util.s("<home:1>", b.file, dv.current().pageTargetDate)]))
+```

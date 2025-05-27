@@ -329,7 +329,7 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 - A large wooden spice chest (Grimbaskal's Hoard). Contains 20 pounds of salt (60 gp), 2 pounds of saffron (70 gp), 10 pounds of cinnamon (150 gp), 10 pounds of cloves (150 gp), 5 pounds of allspice (60 gp), 5 pounds of peppercorn (75 gp), and a set of silver weights, measures, and grinding implements (25 gp).  
 
-[[Vindristjarna]] also has a number of special facilities: [[Vindristjarna Room Planning]].
+[[Vindristjarna]] also has a number of special facilities: [[Vindristjarna Room Planning (Old)]].
 ## Other Rewards
 - A meta-resource from the weapons and armor collected from [[Ra'ghemdros' Hoard]]: the [[Vindristjarna]] smithy can produce 12 weapons and armor of any kind to outfit allies, constructs, or whatever. Up to three of these can be +1 items. If an ally or simulacrum dies before being able to return a magic item to the ship, the number of magic items that can be stocked is reduced by the number lost for 2 weeks. 
 - A meta-resource from speaking with [[Arheste]]: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics.

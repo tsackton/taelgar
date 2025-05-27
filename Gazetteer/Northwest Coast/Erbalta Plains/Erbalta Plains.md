@@ -3,8 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: plain
 whereabouts: 
-- {type: primary, location: Chardonian Empire }
-- {type: secondary, location: Northwest Coast }
+- {type: secondary, location: Northern Provinces }
+- {type: primary, location: Northwest Coast }
 dm_notes: none
 dm_owner: none
 pronunciation: air-BAWL-tuh
@@ -15,11 +15,15 @@ pronunciation: air-BAWL-tuh
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Erbalta Plains are a large open steppe along the [[Snake River]] valley. This is a land of scrubby grass, wind-twisted sagebrush, and silver bunchgrasses; shallow coulees dot the lowlands along the river, their chalky banks bright with purple thistle, while dusty limestone bluffs rise softly in the highlands. Along the river, cottonwood groves and reed beds thrive, while herds of wild goats and pronghorn roam the plains. 
+The Erbalta Plains are a large open steppe along the [[Snake River]] valley. This is a land of scrubby grass, wind-twisted sagebrush, and silver bunchgrasses; shallow coulees dot the lowlands along the river, their chalky banks bright with purple thistle, while dusty limestone bluffs rise softly in the highlands. Along the river, cottonwood groves and reed beds thrive, while herds of wild goats and pronghorn roam the plains and llamas occupy the highlands.
 
 The Erbalta Plains are too dry for extensive agriculture outside of irrigated fields in riparian valleys, though barley, flax, and drought-tolerant pulses are common, and hay from riparian meadows is crucial to support animal stock. The Erbalta is excellent grazeland, and hardy sheep and goats are a common sight on the plains. 
 
 ![[Pasted image 20250524112849.png]]
+
+## Borders
+
+The Erbalata Plains refer to the entire [[Snake River]] valley grasslands in the rain shadow of the [[Fiamatara Mountains]], stretching from the northernmost peaks in the range to the confluence of the [[Snake River]] and the [[Zarnato]], south of which the rolling hills become wetter and more wooded. While technically the [[Chardonian Empire]] lays claim to this entire region, the [[Chardonian Legion]] does not effectively control any territory north of the [[~North Voltara Hills~]]. 
 
 ## Climate
 

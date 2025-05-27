@@ -14,7 +14,7 @@ You might start with:
 - A list of treasure gained: [[Party Treasure]]
 - The index of visions seen in the [[Mirror of the Past]]: [[Mirror Visions]]
 
-You can also explore the skyship [[Vindristjarna]] and the [[Vindristjarna Room Planning|special facilities]] constructed on it.
+You can also explore the skyship [[Vindristjarna]] and the [[Vindristjarna Room Planning (Old)|special facilities]] constructed on it.
 
 You can also explore the most recent [[Session 118 (DuFr)|session]], or browse pages mentioned in the sessions in the current adventure (the quest for the last jade):
 
