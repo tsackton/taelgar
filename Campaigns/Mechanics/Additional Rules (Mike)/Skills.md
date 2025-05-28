@@ -1,3 +1,6 @@
+---
+excludePublish: ["dufr"]
+---
 # Skills
 
 We play with a simplified set of rules around skills, designed to reduce the relationship between classes and skills.  

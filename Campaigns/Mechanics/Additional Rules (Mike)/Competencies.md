@@ -1,3 +1,6 @@
+---
+excludePublish: ["dufr"]
+---
 # Competencies 
 In addition to skills, this house rule introduces the concept of a competency. A competency is relatively small thing (less broad than a skill) that your character knows how to do or is good at. Good competencies would include:
 
