@@ -6,12 +6,12 @@ sessionNumber: 4
 realWorldDate: 2024-10-13
 players: [Yvan, Drou, Fazoth]
 name: Addermarch Campaign - Session 4
-tagline: in which the party confronts goblins and traps"
+tagline: in which the party confronts goblins and traps
 descTitle: Goblin Lair Assault
 ---
 # Addermarch Campaign - Session 4
 
->[!info] Goblin Lair Assault: in which the party confronts goblins and traps"
+>[!info] Goblin Lair Assault: in which the party confronts goblins and traps
 > *Featuring: [[Yvan Greenrabbit|Yvan]], [[Drou]], [[Fazoth de Brune|Fazoth]]*
 > *In Taelgar: Unknown*
 > *On Earth: Sunday Oct 13, 2024*
