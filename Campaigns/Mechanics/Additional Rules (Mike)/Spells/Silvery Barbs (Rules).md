@@ -1,3 +1,6 @@
+---
+excludePublish: ["dufr"]
+---
 ### Silvery Barbs
 *(1st level Enchantment)*
 
