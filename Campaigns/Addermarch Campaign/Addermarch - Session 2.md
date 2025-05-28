@@ -21,7 +21,7 @@ The party discovers and grapples with the dangers of a cursed dagger, leading to
 ### Summary
 - The party fights off stirges and explores a tower, encountering undead Bartoz in the smithy and defeating him.
 - They discover the mechanism to raise the gates and investigate Sir Einrik Arpaad's quarters, finding a cursed serpentine dagger.
-- After escaping from the enraged ghost of Sir Arpaad, they [[test]] the dagger, which incapacitates Fazoth.
+- After escaping from the enraged ghost of Sir Arpaad, they test the dagger, which incapacitates Fazoth.
 - The party leaves Torvaine Watch and escorts Oona Stonebridge through Torvaine Forest to Roscombe.
 - They inform Sir Gareth Howell about the cursed dagger and arrive in Roscombe, where they meet Lady Elowen Duval.
 - Lady Duval explains the history of the cursed dagger and the tragedy at Torvaine Watch, directing Fazoth to seek help from a local priest.

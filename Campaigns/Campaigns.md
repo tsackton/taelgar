@@ -23,14 +23,6 @@ Games that are, or at least were designed as, full length campaigns, consisting 
 
 #### Fully Canonical
 
-- [ ] Great Library: Update Landing Page
-- [ ] Great Library: Add old letters, handouts, and other in-game material
-- [ ] Great Library: Clean up Tempest Towers
-- [ ] Great Library: Decide about party treasure and what, if any, form it should exist in Obsidian
-- [ ] Addermarch: Add Landing Page
-- [ ] Addermarch: Decide about party treasure and what, if any, form it should exist in Obsidian
-- [ ] Addermarch: Consider fixing in time so a timeline can be added
-
 - [[Dunmari Frontier Campaign]] (*Ongoing*): Fully canonical. Started in DR 1748. Well-organized campaign directory. 
 - [[Cleenseau campaign]] (*Ongoing*): Fully canonical.  Started in DR 1719. Well-organized campaign directory. 
 - [[Great Library Campaign]] (*Ongoing-ish*): Fully canonical. Started in DR 1747. Campaign directory has session notes and a timeline, but other aspects need organization; a high fraction of the campaign material for this campaign exists primarily in OneNote. 
@@ -53,22 +45,11 @@ Games that are organized around episodic one-shots, but sharing a common setting
 
 #### Fully Canonical
 
-- [ ] Mawar: Update landing page
-- [ ] Mawar: Update/double check session notes
-- [ ] Mawar: Add timeline, treasure, handouts, and such as desired/needed
-
 - [[Mawar Adventures]]. Started in DR 1747. Episodic campaign with minimal links between episodes and no firm conclusion, so potentially still active. Four episodes run so far. Fixed at level 6. Campaign directory has session notes but might need another pass to update things.
 ### One Shots
 
 Single adventures, typically running between one and four sessions. 
 #### Fully Canonical
-
-- [ ] LL: Add landing page 
-- [ ] LL: Add session 3 session notes
-- [ ] LL: Add timeline (need to locate in time first)
-- [ ] Oskar: Add directory with landing page
-- [ ] Oskar: Add timeline (have this somewhere in old notes)
-- [ ] Oskar: Add minimal session notes, possibly including DM sections with details if relevant
 
 - [[Labyrinths of the Lost ]]*(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. 
 - [[Oskar's Travels]]. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5. No session notes exist, but some brief timeline information is preserved somewhere. Adventure notes exist in OneNote. PCs (except Riswynn) are not currently recorded outside of D&D Beyond. 

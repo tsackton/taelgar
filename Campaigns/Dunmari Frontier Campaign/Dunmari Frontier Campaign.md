@@ -1,10 +1,9 @@
 ---
 tags: [meta]
-hide:
- - toc
+hide: [toc]
 ---
 
-This is the main page for the Dunmari Frontier campaign, covering the adventures of [[Delwath]], [[Kenzo]], [[Seeker]], and [[Wellby]], along with their frequent companion [[Riswynn]], sometimes known as the [[Dunmar Fellowship]]. 
+The Dunmari Frontier Campaign tells the story of the adventures of [[Delwath]], [[Kenzo]], [[Seeker]], and [[Wellby]], along with their frequent companion [[Riswynn]], sometimes known as the [[Dunmar Fellowship]]. 
 
 The events begin in the 191st year of the Nayan Dynasty in Dunmar, or DR 1748 as the Chardonians reckon, in the village of [[Karawa]] in [[Eastern Dunmar]]. Since their humble beginnings fighting gnolls, the [[Dunmar Fellowship]] has grown to a powerful force. 
 
@@ -13,14 +12,13 @@ You might start with:
 - A timeline of campaign events: [[Dunmari Frontier Timeline]]
 - A list of treasure gained: [[Party Treasure]]
 - The index of visions seen in the [[Mirror of the Past]]: [[Mirror Visions]]
+- Information about [[Vindristjarna]] and its [[Vindristjarna Bastion Rules|special facilities]].
 
-You can also explore the skyship [[Vindristjarna]] and the [[Vindristjarna Room Planning (Old)|special facilities]] constructed on it.
-
-You can also explore the most recent [[Session 118 (DuFr)|session]], or browse pages mentioned in the sessions in the current adventure (the quest for the last jade):
+The most recent session with published notes is [[Session 123 (DuFr)]]. For background, notes linked from that session are below:
 
 ```dataview
-TABLE WITHOUT ID Link, join(split(meta(Link).path,"/",2),"/") as Folder
-FROM "Campaigns/Dunmari Frontier/Session Notes/Session 118 (DuFr)"
+TABLE WITHOUT ID Link, join(split(meta(Link).path,"/",1),"/") as Folder
+FROM "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 123 (DuFr)"
 FLATTEN file.outlinks as Link
 GROUP BY Link
 WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "assets")
@@ -31,4 +29,14 @@ WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "_DM_")
 SORT Folder
 ```
 
+%%^Campaign:none%%
 
+Dunmar Campaign cleanup / to do list
+
+- [ ] Clean up main PC pages
+- [ ] Clean up guest pages
+- [ ] Clean up companion pages
+- [ ] Clean up follower pages and figure out how to organize (probably should be via the Dunmar Fellowship page, not this page)
+- [ ] Clean up Vindristjarna details and figure out how to organize (bastion rules, other mechanics, and in-world history as three separate notes is main idea)
+
+%%^End%%
