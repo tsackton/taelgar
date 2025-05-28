@@ -306,7 +306,7 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 - A bone key that unlocks doors in [[Shadowkeep]], from [[Ursk Treasure|Shadowkeep]]
 - A wand, broken in half, once magical, but no longer ([[Kharsan]] palace), part of the [[Nashtkar Treasures]] from [[Kharsan]].
 - A nice leather saddle, cut into four pieces, once magical, but no longer ([[Kharsan]] palace), part of the [[Nashtkar Treasures]] from [[Kharsan]].
-- [[Delwath's elven breastplate]] from the days of the Great War, now no longer magical 
+- [[Delwath's Elven Breastplate]] from the days of the Great War, now no longer magical 
 - A slightly decayed helmet worn by Urgall the Black, from the [[Flaming Tempest Hoard]]
 - Antique lock and key ([[Raven's Hold]], [[Wellby]]). Repaired by [[Riswynn]]. Probably could be sold for 5-30 gp. From the [[Raven's Hold Treasure]]. 
 - A rope [[Ladder]] with spikes to anchor it from the [[Pandemonium]] ruins (50’ long). From the [[Werewolf Lair Treasure]]. 

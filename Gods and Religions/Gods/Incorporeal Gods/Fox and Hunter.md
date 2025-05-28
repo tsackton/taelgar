@@ -9,7 +9,7 @@ dm_notes: none
 
 A demigod and constellation in the night sky of a hunter with a fox companion. This constellation appeared in the sky after the events of the [[Great War]], and is thought to be the divine spirit of the hero [[Beryl]] and his [[Willow Wind|fox companion]] who fought by his side with his allies against [[Cha'mutte]].
 
-%% Intro to [[Session 37 (DuFr)]]:
+%% Intro t[](Session%2037%20(DuFr).md)]]:
 
 The world turns, night falls, and the stars begin to flicker in the sky over Dunmar. As the Fox and Hunter drift above the horizon, they watch the full moon rising for the 2,514th time, and listen. Their attention, as always, is drawn to the east, and north, where the prayers are the brightest and loudest, the hopes for safety, for healing, for peace that echo across the borderlands. They reach out, as they do every night, granting what minor miracles they can to the rangers who keep Sembara safe from the darkness of the Plague Lands.
 
