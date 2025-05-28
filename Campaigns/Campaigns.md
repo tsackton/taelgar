@@ -68,7 +68,6 @@ Games that are organized around episodic one-shots, but sharing a common setting
 - [ ] Oskar's Travels: Add session notes
 
 - [[Mawar Adventures]]. Started in DR 1747. Episodic campaign with minimal links between episodes and no firm conclusion, so potentially still active. Four episodes run so far. Fixed at level 6. Campaign directory has session notes but might need another pass to update things.
-- Oskar's Travels. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5. Campaign directory does not exist. 
 
 ### One Shots
 
@@ -80,9 +79,14 @@ Single adventures, typically running between one and four sessions.
 - [ ] LL: Add landing page 
 - [ ] LL: Add session 3 session notes
 - [ ] LL: Add timeline (need to locate in time first)
+- [ ] Oskar: Add directory with landing page
+- [ ] Oskar: Add timeline (have this somewhere in old notes)
+- [ ] Oskar: Add minimal session notes
 
 - [[Labyrinths of the Lost ]]*(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. 
+- Oskar's Travels. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5. Campaign directory does not exist. 
 
+%%NOTE: Oskar's Adventures are a little complicated. The motivation to run these was to (a) give Riswynn an excuse to level up while the rest of the party was doing other stuff, and (b) have a family game occasionally while there was not an active family campaign. Oskar - a dwarven ranger - is presumably still hanging out in Tharn Todor and this could become an episodic campaign, but I don't think it is that likely. While Oskar and Riswynn are canonical, some of the guest characters may not be. %%
 #### Partially Canonical
 
 - [ ] What should we do with semi-canonical notes from adventures like this?
