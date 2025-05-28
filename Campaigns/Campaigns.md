@@ -45,7 +45,7 @@ Games that are, or at least were designed as, full length campaigns, consisting 
 Some notes and possibly interesting-to-reuse ideas are in Worldbuilding/Campaigns.
 
 - Plaguelands *(Finished/abandoned, Level 1-6)*. Not canonical. Not set in a specific time, but details are roughly coincident with Addermarch campaign, which is kind of a reboot of the Plaguelands campaign with a different plot and structure. Ran maybe 15 sessions overall. Many notes remain in OneNote and some in Google Docs and elsewhere. 
-- Mike's Family Game *(Finished/abandoned)*. Not canonical, as the same events were run again with a different set of PCs as the beginning of the [[Cleenseau Campaign]]. Three sessions. Minimal/no notes exist?
+- Mike's Family Game *(Finished/abandoned)*. Not canonical, as the same events were run again with a different set of PCs as the beginning of the [[Cleenseau Campaign]]. Three sessions. Minimal/no notes exist in Obsidian, might exist elsewhere. 
 
 ### Episodic Campaigns
 
@@ -58,11 +58,9 @@ Games that are organized around episodic one-shots, but sharing a common setting
 - [ ] Mawar: Add timeline, treasure, handouts, and such as desired/needed
 
 - [[Mawar Adventures]]. Started in DR 1747. Episodic campaign with minimal links between episodes and no firm conclusion, so potentially still active. Four episodes run so far. Fixed at level 6. Campaign directory has session notes but might need another pass to update things.
-
 ### One Shots
 
 Single adventures, typically running between one and four sessions. 
-
 #### Fully Canonical
 
 - [ ] LL: Add landing page 
@@ -70,21 +68,19 @@ Single adventures, typically running between one and four sessions.
 - [ ] LL: Add timeline (need to locate in time first)
 - [ ] Oskar: Add directory with landing page
 - [ ] Oskar: Add timeline (have this somewhere in old notes)
-- [ ] Oskar: Add minimal session notes
+- [ ] Oskar: Add minimal session notes, possibly including DM sections with details if relevant
 
-- [[Labyrinths of the Lost ]]*(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. 
-- Oskar's Travels. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5. Campaign directory does not exist. 
+- [[Labyrinths of the Lost ]]*(Finished, three sessions, level 2-3)*. Set sometime between the DR 1720s and 1740s, but not fully anchored in time. Campaign directory needs the final session notes to be added, and a better landing page. PCs are not currently recorded outside of D&D Beyond. 
+- [[Oskar's Travels]]. Episodic adventures featuring [[Oskar]] and companions. So far, have only run adventures set in and around Tharn Todor during Riswynn's first separation from the Dunmar Fellowship (Dunmar Frontier Sessions 17 - 37).  Three sessions, level 5. No session notes exist, but some brief timeline information is preserved somewhere. Adventure notes exist in OneNote. PCs (except Riswynn) are not currently recorded outside of D&D Beyond. 
 
 %%NOTE: Oskar's Adventures are a little complicated. The motivation to run these was to (a) give Riswynn an excuse to level up while the rest of the party was doing other stuff, and (b) have a family game occasionally while there was not an active family campaign. Oskar - a dwarven ranger - is presumably still hanging out in Tharn Todor and this could become an episodic campaign, but I don't think it is that likely. While Oskar and Riswynn are canonical, some of the guest characters may not be. %%
 #### Partially Canonical
 
-Some details from Ausson's Crossing are in Worldbuilding/Campaigns/Ausson's Crossing Mini-Series. Notes from the Stone Titan Adventure exist only in OneNote; while session notes do not exist, Zoom recordings do so parsing these is possible. 
-
-- Ausson's Crossing *(Finished, four sessions, level 7-8)*. Set in DR 1688. The high level setting, the basic plot arc, the major NPCs, and three of the four PCs are canonical, but other minor details are ambiguous, and the fourth PC was canonically not present (because the player reused him for Cleenseau game).
-- Stone Titan Starter Adventure *(Finished, two sessions, level 5)*.  Set sometime during the Blood Years, possibly during the [[Sentinel Range War]] or the [[First Hobgoblin War (Sembara)]]. The basic plot is canonical, but the details and the PCs are not necessarily. 
+- Ausson's Crossing *(Finished, four sessions, level 7-8)*. Set in DR 1688. The high level setting, the basic plot arc, the major NPCs, and three of the four PCs are canonical, but other minor details are ambiguous, and the fourth PC was canonically not present (because the player reused him for Cleenseau game). The PCs are in the PC directory, but with minimal information. Some details from this game are in Worldbuilding/Campaigns/Ausson's Crossing Mini-Series. 
+- Stone Titan Starter Adventure *(Finished, two sessions, level 5)*.  Set sometime during the Blood Years, possibly during the [[Sentinel Range War]] or the [[First Hobgoblin War (Sembara)]]. The basic plot is more or less canonical, but the details and the PCs are not necessarily. Notes exist only in OneNote; while session notes do not exist, Zoom recordings do so parsing these is possible. 
 
 #### Not Canonical
 
 - Informatics One Shot. Set in an ambiguous DR 1700s time frame, in the Sembara Highlands. Two sessions, finished. Level 2-3. Some notes exist in OneNote, based on a mismash of two published adventures. 
-- Tollen One Shots. Not canonical, primarily because details are poorly recorded. Set in an ambiguous 1700s time frame. Two sessions (one D&D, one FATE), finished. Low level. Episode 1 is recorded and could be transcribed and made canonical. 
+- Tollen One Shots. Not canonical, primarily because details are poorly recorded. Set in an ambiguous 1700s time frame. Two sessions (one D&D, one FATE), finished. Low level. Episode 1 is recorded and could be transcribed and made canonical. Other notes exist in OneNote. 
 - Taelgar 2.0 Alexandria One Shot. Not canonical, although possibly canonical in an alternate timeline. Run in Alexandria in 2019, set in an alternate version of the Blood Years. GURPS rules, self-insert characters. Finished. Some notes might exist on paper. 
