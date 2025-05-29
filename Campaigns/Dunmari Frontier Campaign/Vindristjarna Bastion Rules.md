@@ -2,6 +2,7 @@
 
 Vindristjarna carries with it a number of special facilities that provide in game benefits. Currently, Vindristjarna has the following special facilities, described in detail below, and associated with the following people.
 
+This document also describes additional magic items that are permanently installed on [[Vindristjarna]]. 
 ## Special Facility Rules
 
 *Special Facility Mechanics: As a way to balance the goals of keeping to the spirit of the bastion rules, while also maintaining in-world verisimilitude, the following rules apply to Vindristjarna Special Facilities.*
@@ -228,6 +229,17 @@ After a Beast that can serve as a mount spends at least 14 days in this facility
 >
 > This space has no specific game mechanics, but provides living quarters for the [[Dunmar Fellowship]], a guest suite, plus a substantial dining, kitchen, and living area.
 
+Kept in the kitchen are the following magic items:
+##### Pitcher of Purity
+The pitcher of purity is a silver water pitcher, of Drankorian make, that has a permanent enchantment. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. The Dunmar Fellowship [[Session 86 (DuFr)|recovered]] this item from the [[Occulta Ludum]] workshop and laboratory at the [[Elemental Forge]] in the [[Edge of Echoes]]. 
+##### Cold Chest
+The cold chest is a 3 foot deep by 4 foot wide stone chest, of Drankorian make, that is permanently enchanted so that any food or drink placed within it will not spoil. The Dunmar Fellowship [[Session 86 (DuFr)|recovered]] this item from the [[Occulta Ludum]] workshop and laboratory at the [[Elemental Forge]] in the [[Edge of Echoes]]. 
+
+Kept in the common living is the following magic item:
+##### Cleansing Stone
+The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment. 
+
+
 > [!info]+ Control Room
 > >Game Effect: See [[Vindristjarna Mechanics]]
 > >Size: 12 squares
@@ -354,7 +366,6 @@ The lower deck consists of, from stern to prow:
 > >Size: 48 squares (Cramped x12)
 > 
 > This area has no particular game effect, but provides quarters for 12 hirelings.
-
 
 > [!info]+ Crew Parlor
 > >Game Effect: Parlor and Dining Room
