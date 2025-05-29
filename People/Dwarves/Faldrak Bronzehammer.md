@@ -11,10 +11,10 @@ gender: male
 aliases: [Faldrak]
 family: Bronzehammer
 whereabouts:
-- {type: home, start: '', end: '', location: Fahnukan}
+- {type: home, start: '', end: 1693-01-01, location: Fahnukan}
 - {type: away, start: 1693-01-01, end: '', location: Feywild}
 - {type: away, start: 1698-01-01, end: '', location: Feywild}
-- {type: home, start: 1727-01-02, end: '', location: Tollen}
+- {type: home, start: 1727-01-02, end: 1749-01-04, location: Tollen}
 - {type: away, start: 1749-01-05, end: 1750, location: Vindristjarna}
 image: faldrak-small.png
 dm_notes: important

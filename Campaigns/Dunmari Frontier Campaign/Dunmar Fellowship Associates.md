@@ -20,26 +20,28 @@ The rotating cast of character that serve as the crew of Vindristjarna.
     ![[amil-small.jpg|120]]
      Joyful and upbeat Dunmari monk of the [[Order of the Awakened Soul]], who left his former masters [[Pava]] and [[Avaras]] to travel with [[Kenzo]]
 
--   [[Egnir|Égnir]]
-.       *AY-nyeer*
+-   [[Egnir|Égnir]] (*AY-nyeer*)
+    
     ---
     ![[egnir-small.png|120]]
      A meditative young elven gardener and a musician from [[Orenlas]], seeking to experience the world in his own quiet way. 
      
--   [[Jotha]]
-.       *yo-TAH*
+-   [[Jotha]] (*yo-TAH*)
+
     ---
-    ![[kozula-village.png|120]]
+    ![[jotha.jpg|120]]
       A Deno'qai warrior, lost to the shadow realms, and found among the [[Vargaldi]] by the [[Dunmar Fellowship]], now traveling with and learning from [[Delwath]]
 
 -   [[Mica Copperharp]]
-    ---
-    ![[wave-dancer-1.png|120]]
+
+	---
+    ![[mica-copperharp.jpg|120]]
     A halfling who left [[Tilly Brineheart]] and [[Milo Thistlefoot]]'s crew to join the [[Dunmar Fellowship]], with his wife [[Willow Copperharp]]. A comic, a joker, good with his hands and the drums, a brewer, and a bit of a drinker. 
 
 -   [[Willow Copperharp]]
+
     ---
-    ![[wave-dancer-1.png|120]]
+    ![[willow-copperharp.jpg|120]]
     A halfling who left [[Tilly Brineheart]] and [[Milo Thistlefoot]]'s crew to join the [[Dunmar Fellowship]], with her husband [[Mica Copperharp]]. A storyteller, a poet, and fairly religious as halflings go.
     
 </div>
@@ -49,7 +51,7 @@ The rotating cast of character that serve as the crew of Vindristjarna.
 Although most of the hirelings, crew, and followers associated with the [[Dunmar Fellowship]] are based on [[Vindristjarna]], some are elsewhere. 
 
 
-<div class="grid cards" markdown>
+<div class="grid cards ext-narrow-margin" markdown>
 
 -  [[Kethra|Kethra Silverspark]]
  
@@ -57,22 +59,23 @@ Although most of the hirelings, crew, and followers associated with the [[Dunmar
     ![[kethra-small.png|120]]
      A dwarven smith and adventurer from [[Tharn Todor]], drawn to [[Riswynn]]'s service by the tales of her heroic actions in [[Morkalan]]. Currently traveling with [[Riswynn]] on her quest to free more orcs from [[Thark]]. 
 
--   [[Nuzkar]]
-     *NUZ-car*
+-   [[Nuzkar]] (*NUZ-car*)
+
     ---
     ![[nuzkar-small.png|120]]
      An orc from [[Uzgukhar]], twin sister of [[Aygul]], an archivist and loremaster interested in stories of free orcs. Currently traveling with [[Riswynn]] on her quest to free more orcs from [[Thark]]. 
 
--   [[Aygul]]
-.       *EYE-gool*
+-   [[Aygul]] (*EYE-gool*)
+
     ---
     ![[aygul-small.png|120]]
      An orc from [[Uzgukhar]], twin sister of [[Nuzkar]], a brawler and fighter and a bit of loner, with no family but her sister. Currently traveling with [[Riswynn]] on her quest to free more orcs from [[Thark]]. 
      
--   [[Adam Gower]],
+-   [[Adam Gower]]
+
     ---
-    ![[tollen-fiskurth.png|120]]
-      A [[Tollender|Tollen]] factor and agent, with a history of working for the [[Goodbarrels]]. Now serves as the [[Dunmar Fellowship]]'s representative in Tollen, managing trade goods and contracts. Based in [[Tollen]]. 
+    ![[adam-gower.jpg|120]]
+    A [[Tollender|Tollen]] factor and agent, with a history of working for the [[Goodbarrels]]. Now serves as the [[Dunmar Fellowship]]'s representative in Tollen, managing trade goods and contracts. Based in [[Tollen]]. 
 
 </div>
 
@@ -81,16 +84,18 @@ Although most of the hirelings, crew, and followers associated with the [[Dunmar
 
 Members of the crew who have moved on to other things since traveling on [[Vindristjarna]]. 
 
-<div class="grid cards" markdown>
+<div class="grid cards ext-narrow-margin" markdown>
 
 -   [[Kecha]]
+
     ---
     ![[kecha-small.png|120]]
      A [[kenku]] scout who helped guide the party through the [[Svinjo Mountains]] and the [[~Northern Boreal Forest~]], before leaving to search for kenku living on the [[~Eastern Islands~]]. 
 
 -   [[Algerd]]
+
     ---
-    ![[frost-giant-on-mammoth-session-91.jpeg|120]]
+    ![[algerd.jpg|120]]
      A frost giant historian, who was not happy in [[Isenborg]] and journeyed with the party across the [[~Northern Boreal Forest~]], before leaving after meeting other frost giant refugees from [[Kaldhalla]]. 
      
 </div>
@@ -99,7 +104,7 @@ Members of the crew who have moved on to other things since traveling on [[Vindr
 
 People who have traveled with the [[Dunmar Fellowship]] in various contexts. 
 
-<div class="grid cards" markdown>
+<div class="grid cards ext-narrow-margin" markdown>
 
 -   [[Vola]]
     ---
@@ -140,7 +145,7 @@ These people are still trapped in the [[Mirror of Soul Trapping]], with no immed
 [[Antonia]]
 Kinzal mage and messenger
 
-These people have been released and are recovering on [[Vindristjarna]]:
+These people have been released and are recosvering on [[Vindristjarna]]:
 [[Hektor]]
 [[Vargus]]
 [[Valius]]
