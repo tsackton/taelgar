@@ -13,8 +13,6 @@ dm_notes: important
 > An adventuring party
 > `$=dv.view("_scripts/view/get_Affiliations")`
 
-%% update followers %%
-
 An adventuring party who met in Dunmar and have traveled together from April 1748 through the present. 
 
 Consists of:
@@ -36,34 +34,6 @@ In the fall of 1748, they were split up due to magical effects. During this time
 Kenzo, Seeker, and Wellby were reunited in the [[Feywild]] and traveled with [[Caulaus]] briefly.
 
 The group was reunited on Nov 15 1748 in Dunmar. 
-
-## Followers and Hirelings
-
-<div class="grid cards" markdown>
-
--   [[Faldrak Bronzehammer]]
- 
-    ---
-    ![[faldrak-small.png]]
-     Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain.
-
--  [[Kethra|Kethra Silverspark]]
-
-    ---
-    ![[kethra-small.png]]
-	 A dwarven smith from Tharn Todor, inspired by Riswynn to seek adventure.
-
-</div>
-
-The Dunmar Fellowship has acquired a number of followers, hirelings, and traveling companions, including:
-
-- [[Faldrak Bronzehammer]], a Dwarven artificer, former adventurer, creator of magic items, and aspiring skyship captain. Based on Vindristjarna. 
-- [[Adam Gower]], a human factor and agent, with a history of working for the Goodbarrel family. Now serves as the party's representative in Tollen, and also manages trade goods and contracts in Tollen. Based in Tollen. 
-- [[Amil]] (uh-MEEL), a joyful and upbeat Dunmari monk of the Order of the Awakened Soul, who trained with Pava and Avaras in the [[Garamjala Desert]] before leaving to help record the stories of the ordinary people of the world. Based on Vindristjarna. 
-- [[Egnir|Égnir]] (AY-nyeer), a quiet and meditative young elven man, a gardener and a musician, seeking to experience the world in his own quiet way. Based on Vindristjarna. 
-- [[Nuzkar]] and [[Aygul]], orcs and twin sisters. Nuzkar is an archivist and loremaster; Aygul a brawler who helps in the training rooms.
-- [[Kethra|Kethra Silverspark]], a dwarven smith and Riswynn's mentee. 
-- [[Kecha]], a kenku scout guiding the party to Ursk
 
 %% 
 Future recruits:
