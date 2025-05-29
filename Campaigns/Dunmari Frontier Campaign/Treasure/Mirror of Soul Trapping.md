@@ -55,6 +55,7 @@ Current occupants of the mirror are:
 10. empty
 11. empty
 12. empty
+
 #### Former Occupants
 - A poison troll, trapped in [[Session 45 (DuFr)]], was released at in the [[Shadowkeep]] in [[Session 96 (DuFr)]]. 
 #### Research Notes
