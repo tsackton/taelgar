@@ -3,15 +3,16 @@ headerVersion: 2023.11.25
 tags: [person, status/cleanup/metadata]
 campaignInfo: []
 name: Cloudspinner
-born:
 species: fey
 subspecies: archfey
 gender: female
 aliases: [Queen of Sunset]
 whereabouts:
 - {type: home, end: 1001, location: Amberglow}
+- {type: home, start: 1749-06-15, location: Amberglow}
 - {type: away, start: 1002, location: imprisoned }
-- {type: away, start: 1749-05-21, end: 9999, location: Vindristjarna}
+- {type: away, start: 1749-05-21, end: 1749-05-31, location: Vindristjarna}
+- {type: away, start: 1749-06-01, end: 1749-06-14, location: Portable Hole}
 dm_notes: important
 dm_owner: tim
 ---
