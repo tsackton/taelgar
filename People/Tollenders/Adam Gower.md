@@ -14,4 +14,4 @@ dm_notes: color
 > A [[Tollen|Tollender]] [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Factor, treasurer, and agent for the[[ Dunmar Fellowship]] in Tollen
+![[adam-gower.jpg|right|300]]Factor, treasurer, and agent for the[[ Dunmar Fellowship]] in Tollen
