@@ -12,7 +12,8 @@ You might start with:
 - A timeline of campaign events: [[Dunmari Frontier Timeline]]
 - A list of treasure gained: [[Party Treasure]]
 - The index of visions seen in the [[Mirror of the Past]]: [[Mirror Visions]]
-- Information about [[Vindristjarna]] and its [[Vindristjarna Bastion Rules|special facilities]].
+- Information about [[Vindristjarna]], its [[Vindristjarna Mechanics|control mechanics]] and its [[Vindristjarna Bastion Rules|special facilities]].
+- Information about [[Dunmar Fellowship Associates|companions, followers, and hirelings]]. 
 
 The most recent session with published notes is [[Session 123 (DuFr)]]. For background, notes linked from that session are below:
 
