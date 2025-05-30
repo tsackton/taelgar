@@ -81,14 +81,15 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 |                                                     | Immovable Rod                                    | Minor item, Uncommon  | Acquired from the [[Te'kula]] in exchange for a portion of [[Grimbaskal's Hoard]]         |                                                                                          |
 ### Riswynn
 
-| Image                      | Name                                   | Rarity                | Origin and Notes                                       | Mechanics                                                                         |
-| -------------------------- | -------------------------------------- | --------------------- | ------------------------------------------------------ | --------------------------------------------------------------------------------- |
-| ![[shatterstorm.jpg\|240]] | [[Shatterstorm]]                       | Major item, Rare      | Recovered from [[Raven's Hold Treasure\|Raven's Hold]] | [Mechanics](https://www.dndbeyond.com/magic-items/2172493-shatterstorm)           |
-|                            | [[Girdle of the Mountain]]             | Major item, Legendary | Found in [[Ra'ghemdros' Hoard]]                        | [Mechanics](https://www.dndbeyond.com/magic-items/9218870-girdle-of-the-mountain) |
-|                            | [[Silverspark Gauntlets]]              | Major item, Uncommon  | Gift from [[Nora Silverspark]]'s ghost                 | [Mechanics](https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power)   |
-|                            | [[Dragonhide Armor\|Dragonhide Cloak]] | Major item, Uncommon  | Purchased in [[Zvervinka]]                             | [Mechanics](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)       |
-|                            | Masterwork [[Skaer Steel]] shield      | Major item, rare      | Purchased from [[Umli]]                                | [Mechanics](https://www.dndbeyond.com/magic-items/7633182-skaer-shield)           |
-|                            | Coin of Delving                        | Minor item, Common    | Gift from Brawnanvils                                  | [Mechanics](https://www.dndbeyond.com/magic-items/1434262-coin-of-delving)        |
+| Image                      | Name                                   | Rarity                | Origin and Notes                                                                          | Mechanics                                                                         |
+| -------------------------- | -------------------------------------- | --------------------- | ----------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------- |
+| ![[shatterstorm.jpg\|240]] | [[Shatterstorm]]                       | Major item, Rare      | Recovered from [[Raven's Hold Treasure\|Raven's Hold]]                                    | [Mechanics](https://www.dndbeyond.com/magic-items/2172493-shatterstorm)           |
+|                            | [[Girdle of the Mountain]]             | Major item, Legendary | Found in [[Ra'ghemdros' Hoard]]                                                           | [Mechanics](https://www.dndbeyond.com/magic-items/9218870-girdle-of-the-mountain) |
+|                            | [[Silverspark Gauntlets]]              | Major item, Uncommon  | Gift from [[Nora Silverspark]]'s ghost                                                    | [Mechanics](https://www.dndbeyond.com/magic-items/4641-gauntlets-of-ogre-power)   |
+|                            | [[Dragonhide Armor\|Dragonhide Cloak]] | Major item, Uncommon  | Purchased in [[Zvervinka]]                                                                | [Mechanics](https://www.dndbeyond.com/magic-items/4607-cloak-of-protection)       |
+|                            | Masterwork [[Skaer Steel]] shield      | Major item, rare      | Purchased from [[Umli]]                                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/7633182-skaer-shield)           |
+|                            | Coin of Delving                        | Minor item, Common    | Gift from Brawnanvils                                                                     | [Mechanics](https://www.dndbeyond.com/magic-items/1434262-coin-of-delving)        |
+|                            | [[Crown of Purity]]                    | Artifact              | Part of the [[Drankorian Treasure]], taken from [[Fausto]]. Currently worn by [[Riswynn]] |                                                                                   |
 
 ### Party
 
@@ -97,7 +98,6 @@ This records the magic items and mundane treasure acquired by the [[Dunmar Fello
 | Image                                          | Name                           | Rarity                | Origin and Notes                                                                                                                                                                                                                          | Mechanics                                                                                                    |
 | ---------------------------------------------- | ------------------------------ | --------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 |                                                | [[Apollyon's Crystal Ball]]    | Major item, Legendary | Part of the [[Drankorian Treasure]], taken from [[Apollyon's Temple]]                                                                                                                                                                     |                                                                                                              |
-|                                                | [[Crown of Purity]]            | Artifact              | Part of the [[Drankorian Treasure]], taken from [[Fausto]]. Currently worn by [[Riswynn]]                                                                                                                                                 |                                                                                                              |
 | ![[taurion-manual-of-golems.jpg\|240]]         | [[Taurion's Manual of Golems]] | Major item, Very Rare | Part of the [[Tower of the Colossus Treasure]]                                                                                                                                                                                            | [Mechanics](https://www.dndbeyond.com/magic-items/4950-manual-of-stone-golems)                               |
 |                                                | Carnelian Triceratops Figurine | Major item, Very Rare | Found as part of [[Ra'ghemdros' Hoard]]                                                                                                                                                                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/7102431-prehistoric-figurine-of-wondrous-power-carnelian ) |
 |                                                | [[Pearls of Far Sight]]        | Major item, Very Rare | Found as part of [[Ra'ghemdros' Hoard]]                                                                                                                                                                                                   | [Mechanics](https://www.dndbeyond.com/magic-items/9218524-pearls-of-far-sight)                               |
@@ -296,6 +296,7 @@ These are the common and uncommon items recovered from [[Ra'ghemdros' Hoard]]. I
 
 ### Miscellany and Trade Goods
 
+- A hat of the fey, worn by Wellby, which functions as a tuning fork to allow plane shifting to Amberglow. Gift from the [[Cloudspinner]]. 
 - A broken punch bowl from [[The Laughing Wave]], part of the [[Drankorian Treasure]]
 - 241 small pieces of coral, smoothed and marked with signs, that look like currency of some kind. Taken from various merfolk guards as part of the [[Merfolk Quest Treasure]]
 - A set of bone dice, merfolk made, from the [[Merfolk Quest Treasure]]
@@ -329,8 +330,10 @@ The following mundane items are kept on [[Vindristjarna]]:
 
 - A large wooden spice chest (Grimbaskal's Hoard). Contains 20 pounds of salt (60 gp), 2 pounds of saffron (70 gp), 10 pounds of cinnamon (150 gp), 10 pounds of cloves (150 gp), 5 pounds of allspice (60 gp), 5 pounds of peppercorn (75 gp), and a set of silver weights, measures, and grinding implements (25 gp).  
 
-[[Vindristjarna]] also has a number of special facilities: [[Vindristjarna Room Planning (Old)]].
+[[Vindristjarna]] also has a number of special facilities: [[Vindristjarna Bastion Rules]]
+
 ## Other Rewards
+- The [[Cloudspinner]] named the [[Dunmar Fellowship]] always welcome in her realm, to be honored guests whenever they should travel to Amberglow. 
 - A meta-resource from the weapons and armor collected from [[Ra'ghemdros' Hoard]]: the [[Vindristjarna]] smithy can produce 12 weapons and armor of any kind to outfit allies, constructs, or whatever. Up to three of these can be +1 items. If an ally or simulacrum dies before being able to return a magic item to the ship, the number of magic items that can be stocked is reduced by the number lost for 2 weeks. 
 - A meta-resource from speaking with [[Arheste]]: 5 times during the course of the campaign, you can get retroactive advice from Arheste on how she would have approached a challenge having to deal with Apollyon, his artifacts of power, Rai's hand, or related topics.
 - The party is always welcome in [[Karawa]] and will always have food and shelter while they are in town.
