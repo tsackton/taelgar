@@ -102,6 +102,8 @@ Members of the crew who have moved on to other things since traveling on [[Vindr
 
 ## Traveling Companions
 
+*still needs cleanup*
+
 People who have traveled with the [[Dunmar Fellowship]] in various contexts. 
 
 <div class="grid cards ext-narrow-margin" markdown>
@@ -134,8 +136,12 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
 
 </div>
 
+[[Valeris]]
+[[Ismara]]
 
 ## Captives
+
+*still needs cleanup*
 
 Prisoners and captives. 
 

@@ -1,6 +1,7 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+aliases: [Golden Prince]
 species: fey
 speciesAlias: archfey
 gender: male

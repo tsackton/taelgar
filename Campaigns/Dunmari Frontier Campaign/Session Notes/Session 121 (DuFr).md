@@ -17,48 +17,44 @@ descTitle: Clash Along the Sunset Gate
 > *In the Feywild: Evening*
 > *In Taelgar: June 8, 1749 DR to June 13, 1749 DR*
 > *On Earth: Tuesday Mar 25, 2025*
-> *Emberwine and Amberglow*
+> *[[Emberwine]] and [[Amberglow]]*
 
-The Dunmar Fellowship battles formidable wolf riders in the Feywild and spots ominous terrain changes near the Sunset Gate in Amberglow. 
+The Dunmar Fellowship crosses into Amberglow, and battles formidable wolf riders. 
 ## Session Info
 ### Summary
-- The Dunmar Fellowship departs Sunwine Hall, traveling eastward in the Feywild towards the Sunset Gate.
-- They learn of unrest in Chardon and continue north to Red Sun Watch, seeking clues about the Cloud Spinner.
-- Ismara departs before the party encounters giants demanding blood as toll, which they refuse.
-- The party prepares for battle against giant wolf riders after initial evasion proves impractical.
-- In a fierce battle, the Fellowship overcomes the wolf riders using strategic coordination and magical abilities.
-- Post-battle, Wellby regains control of his wyvern, and they identify their foes as agents of Lord Umbriath.
-- They spot a mysterious white river and a tear in the Sunset Gate, with Red Sun Watch rising above the darkness.
+- The [[Dunmar Fellowship]] departs [[Sunwine Hall]], traveling eastward in the [[Feywild]] towards the [[Sunset Gate]].
+- During the journey, they learn of unrest in [[Chardon]] via the [[Crown of Purity]]
+- The party, with [[Valeris]], turns north after reaching the [[Sunset Gate]], but [[Ismara]] departs, unwilling to face the dangers of [[Amberglow]]. 
+- Crossing into [[Amberglow]], the party avoids giants demanding blood as toll, and battles dangerous fey wolf riders from [[Duskmire]], agents of [[Lord Umbraeth]] hunting the [[Cloudspinner]]. 
+- The party crosses a river, and reaches [[Redsun Watch]], where a river of darkness pours through the [[Sunset Gate]]. 
 ### Timeline
-- (DR:: 1749-06-08): Travel across Emberwine towards the Sunset Gate
-- (DR:: 1749-06-09): Travel across Emberwine towards the Sunset Gate
--  (DR:: 1749-06-10): Reach the Sunset Gate and turn north
-- (DR:: 1749-06-11): Travel north towards Amberglow, following the Sunset Gate
-- (DR:: 1749-06-12): Cross into Amberglow, avoiding cursed giants demanding blood, and continue north
-- (DR:: 1749-06-13): Encounter and defeat hunters from Duskmire. Travel north, passing a dry river, and reaching Redsun Watch, which is encased in darkness flowing like a river from the east. 
+- (DR:: 1749-06-08): Travel across [[Emberwine]] towards the [[Sunset Gate]]
+- (DR:: 1749-06-09): Travel across [[Emberwine]] towards the [[Sunset Gate]]
+-  (DR:: 1749-06-10): Reach the [[Sunset Gate]] and turn north
+- (DR:: 1749-06-11): Travel north towards [[Amberglow]], following the [[Sunset Gate]]
+- (DR:: 1749-06-12): Cross into [[Amberglow]], avoiding cursed giants demanding blood, and continue north
+- (DR:: 1749-06-13): Encounter and defeat hunters from [[Duskmire]]. Travel north, passing a dry river, and reaching [[Redsun Watch]], which is encased in darkness flowing like a river from the east. 
 ## Narrative 
 
-Our session begins as the party soars over Emberwine on exotic griffins with peacock plumage—except for Wellby, who proudly guides his newly trained wyvern. Their fae companions Valeris (a truth-cursed satyr) and Ismara (a scholarly documentarian) travel alongside them as they journey east toward the Sunset Gate.
+Our session begins as the party soars over [[Emberwine]] on exotic griffins with peacock plumage—except for [[Wellby]], who proudly guides his newly trained wyvern. Their fey companions [[Valeris]] (a cursed satyr) and [[Ismara]] (a scholarly documentarian) travel alongside them as they journey east toward the [[Sunset Gate]].
 
-During their stay at Sunwine Hall, Delwath had defeated the duelist Arendelle and encountered Count Vashen, the Broken Mask—a former courtier who betrayed the Cloud Spinner until Kenzo's cleansing touch briefly restored his memories. Now they head toward Red Sun Watch, seeking Cloud Spinner's prison well.
+During the journey, troubling news reaches [[Riswynn]] through the [[Crown of Purity]], which she continues to struggle to wrest from the taint of generations of control by members of [[The Cleansed]]. Chardon has fallen into chaos, with riots led by a group calling themselves the [[Eightfold Flame]] and preaching the evil of [[chalyte]], and a power vacuum left by the absent [[Mitus Verina Auratan|Magistros]], who is negotiating [[Nayan Karnas]]' surrender in [[Darba]]. 
 
-Troubling news reaches Riswynn through her crown: Chardon has fallen into chaos with riots led by the Eightfold Flame and a power vacuum left by absent Magistros. Meanwhile, she continues struggling to control the crown that had been used for mind control by generations of cleansed leaders.
+Encouraged by [[Seeker]]'s questions, [[Ismara]] explains that unlike the mundane world (what she calls the [[Material Plane]]), the [[Feywild]] changes through the will of the archfey rather than natural processes and cataclysm. She speaks of [[Fate's Ruin]], a fey realm near of her home in [[Gleamwater]], transformed by the [[Rust Baron]] from artistic mountains into decay, and how [[Amberglow]] lost its color after the disappearance of the [[Cloudspinner]]. 
 
-Ismara explains that unlike the mundane world, the Feywild changes through the will of Archfey rather than cataclysm. She speaks of Fate's Ruin, transformed by the Rust Baron from artistic mountains into decay, and how Amberglow lost its color after Cloud Spinner's disappearance.
+The party reaches the [[Sunset Gate]], a massive, shimmering wall capturing all the colors of sunset, stretching endlessly upward. Parts reflect light brilliantly while others appear as crystal or frozen oil paint, constantly shifting and warm to the touch. Although the party notes some cracks in the wall through which a person might attempt to pass, [[Valeris]] and [[Ismara]] warn that time flows differently through the gate: those who enter might emerge in seconds—or in years.
 
-The party reaches the Sunset Gate—a massive, shimmering wall stretching endlessly upward. Parts reflect light brilliantly while others appear as crystal or frozen oil paint, constantly shifting and warm to the touch. Valeris and Ismara warn that time flows differently through the gate—those who pass might emerge years later.
+![[zoom-sunset-gate.png]]
 
-As they fly northward along the gate, the landscape becomes increasingly bleached and desaturated—signs of Amberglow's corruption. Ismara, growing uneasy at the border of the dangerous Hollow Dark, bids them farewell to seek a Dreamwarden guide.
-
-Their first challenge comes when four enormous humanoids demand "one vial of blood each" as toll. The party circles higher and continues their journey after Valeris confirms nothing good comes from giving fae creatures blood.
+Turning north, the party follows the line of sunset towards [[Amberglow]], after saying farewell to [[Ismara]]. As they fly northward, the landscape becomes increasingly bleached and desaturated—signs of Amberglow's corruption. After some time, the party finally reaches Amberglow, departing [[Emberwine]]. As they cross the border, soaring on griffons and a wyvern, four enormous humanoids below yell up at them, demanding "one vial of blood each" as toll. The party circles higher and continues their journey after [[Valeris]] confirms nothing good comes from giving [[fey]] creatures blood. 
 
 Later, they spot distant figures—three giant wolves carrying armed riders with dozens of smaller wolves running alongside them. When the wolf riders begin pursuing them, the party realizes they can't outrun these endurance hunters indefinitely and formulate a battle plan.
 
-The battle unfolds dramatically: Wellby rains arrows from above, Delwath unleashes Ice Storms from a distance, Kenzo leaps from his griffin to engage the enemies directly, and Seeker uses telekinesis to fling a rider from its mount. The tide turns when one wolf unleashes a terrifying psychic howl that blasts through the minds of Kenzo, Delwath, and Riswynn. Kenzo is temporarily knocked unconscious, but Riswynn summons a pillar of celestial light that obliterates smaller wolves and heals her allies. Working together, the party eliminates their pursuers through strategic positioning, stunning strikes, and well-placed arrows.
+The battle unfolds dramatically: [[Wellby]] rains arrows from above, [[Delwath]] unleashes an ice storm from a distance, [[Kenzo]] leaps from his griffin to engage the enemies directly, and [[Seeker]] uses telekinesis to fling a rider from its mount. The tide turns when one wolf unleashes a terrifying psychic howl that blasts through the minds of [[Kenzo]], [[Delwath]], and [[Riswynn]]. [[Kenzo]] is temporarily knocked unconscious, but [[Riswynn]] summons a pillar of celestial light that obliterates smaller wolves and heals her allies, and eventually the enemies are defeated.
 
-After the battle, Seeker identifies the fallen enemies as duskhounds—lieutenants of Lord Umbriath, the Gloom Shaper whose territory has expanded since Cloud Spinner's disappearance. Seeker recalls that Lord Umbriath's servants had captured at least one amber light, potentially allowing them to track the Cloud Spinner.
+After the battle, [[Seeker]] identifies the fallen enemies as [[Duskhounds]]—lieutenants of [[Lord Umbraeth]], the Gloomshaper, whose realm of [[Duskmire]] has expanded into the edges of [[Amberglow]] since [[Cloudspinner]]'s disappearance. [[Seeker]] recalls that [[Lord Umbraeth]]'s servants had captured at least one [[Amberlight]], potentially allowing them to track the [[Cloudspinner]].
 
-As they continue northward, they spot a strange, unnaturally white river surrounded by dead trees. Beyond it lies their ultimate destination: Redsun Watch, a partially visible tower with tarnished golden decorations. Its upper third still catches sunlight while the rest has been swallowed by a massive tear in the Sunset Gate—a wall of pure darkness spreading across the horizon. Our session ends as the party halts to plan their approach.
+As they continue northward, they spot a strange, unnaturally white river surrounded by dead trees. Beyond it lies their ultimate destination: [[Redsun Watch]]. From a distance, all that can be seen among the river of darkness flowing from [[Hollowdark]] is the upper third of one tower, still catching sunlight while the rest of the keep has been swallowed by inky night, coming from massive tear in the [[Sunset Gate]]. Our session ends as the party halts to plan their approach.
 
 ## Detailed Outline
 

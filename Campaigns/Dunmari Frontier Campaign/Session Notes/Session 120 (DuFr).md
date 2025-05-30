@@ -17,47 +17,49 @@ descTitle: The Revel in Emberwine
 > *In the Feywild: Late Afternoon*
 > *In Taelgar: May 31, 1749 DR to June 7, 1749 DR*
 > *On Earth: Wednesday Mar 05, 2025*
-> *Sunwine Hall, Emberwine*
+> *[[Sunwine Hall]], [[Emberwine]]*
 
-The Dunmar Fellowship attends a celebration at Emberwine, gaining allies and information for their quest to restore the Cloudspinner.
+The [[Dunmar Fellowship]] attends a celebration at [[Sunwine Hall]], in [[Emberwine]], gaining allies and information for their quest to restore the [[Cloudspinner]].
 ## Session Info
 ### Summary
-- The party arrives at Sunwine Hall, joining a celebration led by Lord Sovin.
-- Kenzo communes with the lively nature of Emberwine, sensing the strain in the celebration.
-- Wellby encounters a cursed satyr, Valeris, who must always speak the most brutally honest truth.
-- Delwath duels Arendel, a renowned fey duelist, and gains respect despite his loss.
-- Riswynn converses with Ismara, a scholar intrigued by their journey.
-- The party learns about the Shrouded Archive and Cloudspinner's keeps from Count Vashan.
-- The group recruits Ismara and Valeris as guides for their quest.
-- Wellby tames a wyvern, and they secure griffins from Lord Sovin for travel.
+- The party arrives at [[Sunwine Hall]], joining a celebration led by [[Lord Soven]].
+- [[Kenzo]] communes with the lively nature of [[Emberwine]], sensing the strain in the celebration.
+- [[Wellby]] encounters a cursed satyr, [[Valeris]], who must always speak the most brutally honest truth.
+- [[Delwath]] duels [[Arendel]], a renowned fey duelist, and gains respect despite his loss.
+- [[Riswynn]] converses with [[Ismara]], a scholar intrigued by their journey.
+- The party learns about the [[Shrouded Archive]] and Cloudspinner's keeps from [[Count Vashan]].
+- The group recruits [[Ismara]] and [[Valeris]] as guides for their quest.
+- Wellby tames a wyvern, and they secure griffins from [[Lord Soven]] for travel.
 
 ### Timeline
-- (DR:: 1749-05-31): Reach Sunwine Hall, meet Lord Soven, speak with guests, including [[Valeris]], [[Ismara]], and  [[Count Vashan]]. Delwath duels [[Arendel]] and loses. 
-- (DR:: 1749-06-01) - (DR_end:: 1749-06-06): Remain at Sunwine Hall, telling stories and making plans. [[Wellby]] tames a wyvern released from the [[Mirror of Soul Trapping]]. 
-- (DR:: 1749-06-07): Depart Sunwine Hall for the [[Sunset Gate]]
+- (DR:: 1749-05-31): Reach [[Sunwine Hall]], meet [[Lord Soven]], speak with guests, including [[Valeris]], [[Ismara]], and  [[Count Vashan]]. [[Delwath]] duels [[Arendel]] and loses. 
+- (DR:: 1749-06-01) - (DR_end:: 1749-06-06): Remain at [[Sunwine Hall]], telling stories and making plans. [[Wellby]] tames a wyvern released from the [[Mirror of Soul Trapping]]. 
+- (DR:: 1749-06-07): Depart [[Sunwine Hall]] for the [[Sunset Gate]]
 ## Narrative
 
-Our session begins in Emberwine as the party follows Auntie Mulberry's enchanting flute melody toward Sunwine Hall. Lady Eventide, speaking through Seeker's possessed form, reminisces about Lord Sovin as they approach the massive pavilion bathed in golden light, and slip into the current of the dance after being greeted by a steward offering refreshments. 
+Our session begins in [[Emberwine]] as the party follows [[Auntie Mullberry]]'s enchanting flute melody through [[Emberwine]]. [[Lady Eventide]], speaking through [[Seeker]]'s possessed form, reminisces about [[Lord Soven]] as they approach the massive pavilion bathed in golden light, and slip into the current of the dance after being greeted by a steward offering refreshments. 
 
-Drifting through the crowd, the party meets Lord Sovin himself, a seven-foot-tall figure with antlered head, who invites Delwath to dance while they speak. When Delwath mentions Cloudspinner's imprisonment, Lord Sovin falters noticeably, shocked: "None of us ever thought the Cloudspinner could return," he admits.
+![[emberwine-party-1.png|600]]
 
-As the party splits up to gather information, Kenzo meditates at the periphery, connecting with the natural world. Unlike his typical experiences, he's overwhelmed by emotions pouring from every vine and fruit—pleasure and sweetness, but with troubling undertones of overripeness, as though the land strains to maintain this celebration.
+Drifting through the crowd, the party meets [[Lord Soven]] himself, a seven-foot-tall figure with antlered head, who invites [[Delwath]] to dance while they speak. When Delwath mentions Cloudspinner's imprisonment, Lord Soven falters noticeably, shocked: "None of us ever thought the [[Cloudspinner]] could return," he admits.
 
-Wellby, moving through the crowds looking for someone out of place, encounters Valeris, a satyr cursed to speak only brutal truth after helping a fey woman escape an oath. Valeris reveals the deterioration of the Feywild following Cloudspinner's disappearance and mentions the Shrouded Archive where all secrets are kept.
+As the party splits up to gather information, [[Kenzo]] meditates at the periphery, connecting with the natural world. Unlike his typical experiences, he's overwhelmed by emotions pouring from every vine and fruit—pleasure and sweetness, but with troubling undertones of overripeness, as though the land strains to maintain this celebration.
 
-Delwath meets Arendel, a renowned duelist who challenges him on the spot. Their duel draws a crowd—Arendel ultimately wins but acknowledges Delwath's skill. As payment, Delwath must entertain Arendel with stories for two days.
+[[Wellby]], moving through the crowds looking for someone out of place, encounters [[Valeris]], a satyr cursed to speak only brutal truth after helping a fey woman escape an oath. Valeris reveals the deterioration of the Feywild following Cloudspinner's disappearance and mentions the [[Shrouded Archive]] where all secrets are kept, as well as [[Count Vashan]], a member of Cloudspinner's court now lost in drink in [[Emberwine]]. 
 
-Riswynn befriends Ismara of Gleamwater, a scholar eager to document their adventures. Ismara later shows them magical images of the realm: the Cloud Palace with its six towers, Redsun Watch standing before a crystallized wall of sunset colors, and mentions of Heartwood Grove—now dark and rotting—and the northern outposts overtaken by the mysterious Gloomshaper.
+[[Riswynn]] befriends [[Ismara]] of [[Gleamwater]], a scholar of humanity eager to document the party's adventures. From [[Ismara]], the party hears about [[Amberglow]]: the [[Cloud Palace]] with its six towers, now crashed; [[Redsun Watch]] standing before a crystallized [[Sunset Gate|wall of sunset colors]]; [[Heartwood Grove]], now dark and rotting; and the northern outposts of Amberglow overtaken by the mysterious [[Lord Umbraeth|Gloomshaper]]. 
 
-The party finds Count Vashan—now calling himself "the broken mask"—slumped at the edge of festivities. When Delwath boldly declares that Cloudspinner is alive, Lady Eventide recognizes Vashan as one of Cloudspinner's most trusted servants. Suspecting the Fey wine is clouding his memories, Kenzo channels his ki to temporarily suppress the magic afflicting Vashan's mind.
+[[Delwath]] meets [[Arendel]], a renowned but cheerful and friendly duelist who challenges him on the spot. Their duel draws a crowd, including drawing back other members of the party who had wandered off. [[Arendel]] ultimately wins but acknowledges Delwath's skill. As payment, [[Delwath]] must entertain [[Arendel]] with stories for two days.
 
-The effect is immediate—Vashan's eyes clear as the truth emerges: he betrayed Cloud Spinner, bringing Cha'mutte to Cloud Palace during a moment of vulnerability. Though ashamed, he offers crucial information about hidden connections to the Prismwell within Cloud Spinner's keeps along the Sunset Gate that could only be seen by sunset light.
+After the duel, the goes to find [[Count Vashan]], who is now calling himself "the broken mask". He is slumped at the edge of festivities, clearly deep in drink. [[Delwath]] boldly declares that [[Cloudspinner]] is alive, and [[Lady Eventide]] recognizes Vashan as one of Cloudspinner's most trusted servants, but the Count does not deign to speak of the past. Suspecting the fey wine is clouding his memories, [[Kenzo]] channels his ki to temporarily suppress the magic afflicting Vashan's mind, jolting him to awareness of his past. 
 
-After deliberation, the party decides to take the direct route, traveling west to the Sunset Gate and north to Redsun Keep, rather than seeking the Shrouded Archive. They secure griffins from Lord Sovin, who cautions that the beautiful creatures will only carry them to the borders of his realm.
+The effect is immediate. [[Count Vashan]]'s eyes clear as the truth emerges: he betrayed [[Cloudspinner]], bringing [[Cha'mutte]] to the [[Cloud Palace]] during a moment of vulnerability, though whether intentionally or by accident, he can no longer remember. Though ashamed and angry, he offers crucial information: each of the keeps along the [[Sunset Gate]] contain hidden chambers allowing them to connect to the [[Prismwell]], once used as a means of communication, defense, and perhaps more--[[Count Vashan]] does not know. However, the connection to the [[Prismwell]] can only be activated by the light of pure sunset. 
 
-In a spectacular display, Wellby tames the wyvern trapped in their mirror using food, wine, and his remarkable animal handling skills. Kenzo joins him atop the creature as they soar above Sunwine Hall, much to the astonishment of the gathered fey.
+After deliberation, the party decides to take the direct route, traveling west to the [[Sunset Gate]] and north to [[Redsun Watch]] (where they hope that [[Riswynn]]'s magic can activate the connection to the [[Prismwell]]), rather than seeking the [[Shrouded Archive]] and negotiating for access to the secrets kept within (which, one presumes, include the secret location of the [[Prismwell]]). They secure griffins from [[Lord Soven]], and prepare to set off. 
 
-Valeris and Ismara agree to join their expedition, though Ismara expresses hesitation about continuing northward. As the session ends, the seven travelers mount their griffins and wyvern, launching into the sky as they leave Emberwine behind, setting course for the Sunset Gate and the ruins of Amberglow beyond.
+In preparation for departure, [[Wellby]] tames the wyvern trapped in the [[Mirror of Soul Trapping]], using food, wine, and his remarkable animal handling skills. Kenzo joins him atop the creature as they soar above [[Sunwine Hall]], much to the astonishment of the gathered fey.
+
+[[Valeris]] and [[Ismara]] agree to join their expedition, though [[Ismara]] expresses hesitation about continuing northward into [[Amberglow]] and only promises to travel as far as the [[Sunset Gate]]. As the session ends, the seven travelers mount their griffins and wyvern, launching into the sky as they leave [[Sunwine Hall]] behind, setting course for the [[Sunset Gate]] and the ruins of [[Amberglow]] beyond.
 
 ## Detailed Outline
 
@@ -193,22 +195,36 @@ Valeris and Ismara agree to join their expedition, though Ismara expresses hesit
 - The session ends with the party departing Sunwine Hall - Wellby and Kenzo mounted on the Wyvern, the others riding colorful griffins provided by Lord Sovin.
 
 
-### Wellby and Valeris - Extended Narrative
+## Wellby and Valeris - Extended Narrative
+
 Wellby's eyes scanned the revelry, noting how the fey danced and laughed with abandon. Every face seemed caught in perpetual delight—which is why the pouting satyr caught his attention so immediately. Sitting apart from the merriment, the satyr cut a striking figure with his curling ram's horns wrapped in gold rings, his silk shirt half-buttoned, and a fiddle tucked under one arm.
 Curious, Wellby approached and introduced himself with a friendly smile. "You're the first satyr I've met who isn't dancing. Why no celebration for you?"
+
 The satyr looked up, his expression souring further. "Damn! Why do you have to ask that?" He sighed deeply, adjusting his position. "Well, I'm cursed. Everything I say has to be brutally and completely honest." His lips quirked into a sardonic smile. "You'd be surprised how often little white lies smooth over social graces. For example, I could say you look pretty out of place, but instead, all I can really say is, why did you come here, and why are you bothering me?"
+
 Despite his harsh words, there was something oddly charming in his directness. Wellby, intrigued rather than offended, settled beside him.
+
 "I've run into people with curses before and found ways to remove them," Wellby offered. "How did you come to be cursed? It doesn't look like any of these people would do that to you."
+
 The satyr rolled his eyes. "It's a long story, and honestly, I'm pretty sick of telling it. But if you insist, I can't really say no so well." He glanced around before continuing. "I grew up here in Emberwine. It's a beautiful place, you can tell." He gestured broadly at the endless celebration. "Just looking around, you have to admit it's beautiful."
+
 He explained how, at a revel much like this one, he encountered a woman named Yasara the Golden from Everlights Bloom. "She was beautiful, aloof, radiant," he recounted. "She walked through the world as if it was a story she was only half aware of."
+
 When Yasara had sworn an oath of eternal love to her dance partner—an oath she clearly never intended to keep—the satyr had intervened. "I was arrogant," he admitted. "I wanted to prove that I could twist fate myself. Who wouldn't? A gambler who can change reality with stories... Come on! Isn't that the best thing you could tell of yourself?"
+
 His eyes gleamed with remembered pride. "And I, to be brutally honest, I did it. I told a tale so compelling and strong that reality shifted around it, and her oath was undone." He paused, his momentary triumph fading. "And I could never lie again. Damn it, why did I waste my time with that stupid lady?"
+
 "What are you looking forward to?" Wellby asked, changing the subject.
+
 "The next cup of wine," the satyr responded flatly. "I don't know. Nothing really. Getting out of here." He explained that supposedly, one selfless act would end his curse. "But I tried that. Letting a mortal win at cards didn't work. Plus, it was tough anyway because everybody beats me at cards. Can't bluff, can't cheat, can't lie. Damn! I used to be such a good gambler."
+
 The satyr continued, listing his failed attempts at selflessness—giving someone wine, trying to offer sincere compliments without following with criticism. "I don't want to leave because I'm afraid to wander around the Feywild in my current state. I don't really want to stay because everybody's sick of me telling the truth about them."
+
 Wellby, recalling his mission, redirected the conversation. "I heard there's some refugee from Amberglow here."
+
 "Oh, the broken mask!" The satyr perked up slightly. "He's a sad sack."
 "Where is that dude?" Wellby pressed.
+
 "He's always got his wherever the strongest wine is. That's where you'll find him." The satyr waved dismissively. "Don't bother talking to him. All he does is bemoan his fate."
 "Is that not what you're doing this whole time?" Wellby countered with a knowing smile.
 "It is what I'm doing, but—" The satyr began.

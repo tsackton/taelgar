@@ -17,59 +17,56 @@ descTitle: Journey to Emberwine
 > *In the Feywild: Late Afternoon*
 > *In Taelgar: May 30, 1749 DR to May 31, 1749 DR*
 > *On Earth: Friday Feb 14, 2025*
-> *Emberwine, Feywild*
+> *[[Emberwine]], [[Feywild]]*
 
-The party enters the [[Feywild]], meets mystical beings, and gains guidance to [[Sunwine Hall]] to further their quest.
+The party enters the [[Feywild]], meets mystical beings, and is advised to proceed to [[Sunwine Hall]] to further their quest.
 ## Session Info
 ### Summary
 - The [[Dunmar Fellowship]] arrives at the [[Bitterwine Oak]] portal and explores, hearing voices calling in the distance.
 - The group is magically transported to a sunlit hill in [[Emberwine]] after raising toasts at the portal.
-- They encounter satyrs and learn about Everlight’s Bloom, intending to use [[Lirien]]'s death as a cover story.
-- On the riverbank, the group meets a barge master who provides directions despite suspicion.
-- [[Seeker]] attempts to teleport the group for a better view, but the spell fails violently, although gets them to their destination.
-- The party meets Auntie Mulberry, who speaks at length and eventually provides a whistle to guide them to [[Sunwine Hall]].
+- They encounter satyrs and learn about [[Everlight's Bloom]] intending to use [[Lirien]]'s death as a cover story.
+- On the [[Ampelion River|riverbank]], the group meets a barge master who provides directions despite suspicion.
+- [[Seeker]] attempts to teleport the group for a better view; though the spell fails violently, it gets them to their destination.
+- The party meets [[Auntie Mullberry]], who speaks at length and eventually provides a whistle to guide them to [[Sunwine Hall]].
 
 ### Timeline
 - (DR:: 1749-05-30), night: The party rests on [[Vindristjarna]]
 - (DR:: 1749-05-31): Travel to [[Bitterwine Oak]], a [[Feywild]] portal and pass through into [[Emberwine]]. Meet satyrs; a barge of [[fey]] on a river of wine; and a rabbit-like creature called [[Auntie Mullberry]]. Travel towards [[Sunwine Hall]] and the court of the Master of Revels.  
 
-
 ## Narrative
 The session begins with the [[Vindristjarna]] arriving at the [[Bitterwine Oak]] portal - a massive tree with crimson wine pools at its roots, standing unnaturally in the desert. [[Lady Eventide]], who had possessed [[Seeker]], retreats back within him, leaving a streak of white in his red hair while remaining present as a passenger rather than controlling force.
 
-[[Seeker]] returns to consciousness confused, and his companions quickly explain their mission: to enter the [[Feywild]] and free the [[Cloudspinner]] by bringing her crystal prison to the Prism Well. The group briefly discusses using plane shift magic but lacks the components specifically attuned to the [[Feywild]].
+![[bitterwine-oak-portal.png|600]]
 
-As they approach the tree, they hear distant music and laughter, with voices calling invitations in what each hears as their native language, inviting them to join the dance, to come to the party, to not miss the toast. Discovering cups near the wine pools at the tree's base, everyone raises a glass, making toasts - to learning, successful quests, to new roads and new maps, and, sarcastically from [[Kenzo]], to conquest and glory. As they raise their cups, the [[Fey]] magic takes hold, and [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and [[Kenzo]] begin vanishing one by one, transported into the mysterious [[Feywild]] realm beyond.
+[[Seeker]] returns to consciousness confused, and his companions quickly explain their mission: to enter the [[Feywild]] and free the [[Cloudspinner]] by bringing her crystal prison to the [[Prismwell]]. The group briefly discusses using plane shift magic to shortcut the journey, but they lack components specifically attuned to the [[Feywild]] to make the spell work. 
+
+As the party approaches the tree, they hear distant music and laughter, with voices calling invitations in what each hears as their native language, inviting them to join the dance, to come to the party, to not miss the toast. Discovering cups near the wine pools at the tree's base, everyone raises a glass, making toasts - to learning, successful quests, to new roads and new maps, and, sarcastically from [[Kenzo]], to conquest and glory. As they raise their cups, the [[Fey]] magic takes hold, and [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and [[Kenzo]] begin vanishing one by one, transported into the mysterious [[Feywild]] realm beyond.
 
 The party finds themselves emerging onto a sunlit hill in the [[Feywild]], where [[Wellby]] is already enthusiastically dancing with a group of satyrs playing pipes. The setting is bathed in perfect golden-hour sunlight, surrounded by vineyards and filled with the scent of grapes and crushed flowers.
 
-As each member arrives, the satyrs attempt to pull them into the dance. One satyr addresses [[Riswynn]] with surprise, asking who she is that "carries a fragment of the impossible," but quickly dismisses this mystery in favor of revelry. Another satyr steals [[Seeker]]'s book when he tries to avoid dancing, forcing him to engage before [[Delwath]] retrieves it with Mage Hand.
+As each member arrives, the satyrs attempt to pull them into the dance. [[Tarviel|One satyr]], who seems to speak for the dancers, addresses [[Riswynn]] with surprise, asking who she is that "carries a fragment of the impossible," but quickly dismisses this mystery in favor of revelry. Another satyr steals [[Seeker]]'s book when he tries to avoid dancing, forcing him to engage before [[Delwath]] retrieves it with Mage Hand. When [[Seeker]] mentions their quest to reach [[Amberglow]] and the [[Cloudspinner]], [[Tarviel]] become uncomfortable. The music briefly stops when [[Delwath]] speaks of bringing change, as he insists there is "no change in [[Emberwine]]." [[Kenzo]] cleverly initiates a conga line, allowing the party to travel while still dancing.
 
-When [[Seeker]] mentions their quest to reach [[Amberglow]] and the [[Cloudspinner]], the satyrs become uncomfortable. The music briefly stops when [[Delwath]] speaks of bringing change, as the satyrs insist there is "no change in [[Emberwine]]." [[Kenzo]] cleverly initiates a conga line, allowing the party to travel while still dancing.
+![[emberwine-satyrs.jpg|600]]
 
-Moving northward, they observe more of the landscape: rolling hills covered in vineyards and a broad red river that resembles the wine pools they encountered at the portal tree. When they express interest in traveling upstream, a satyr refers to their destination as [[Everlight's Bloom]], which they recognize as the realm where [[Lirien]] stayed after fleeing [[Amberglow]]. However, after [[Delwath]] mentions bringing news of [[Lirien]]'s death, the offended satyrs drift away, leaving the party to continue toward the river on their own.
+Moving northward, they observe more of the landscape: rolling hills covered in vineyards and a [[Ampelion River|broad red river]] that resembles the wine pools they encountered at the portal tree. When they express interest in traveling upstream, a satyr refers to their destination as [[Everlight's Bloom]], which they recognize as the realm where [[Lirien]] stayed after fleeing [[Amberglow]]. However, after [[Delwath]] mentions bringing news of [[Lirien]]'s death, the offended satyrs drift away, leaving the party to continue toward the river on their own.
 
 The party makes their way to the river's edge, arriving just as the barge drifts within a quarter mile of their position. The vessel moves unhurriedly down the slow-moving crimson waters, carrying the sound of laughter and music across the surface.
 
-After brief deliberation, the companions agree to use [[Lirien]]'s death as their cover story, seeking directions to [[Everlight's Bloom]] rather than revealing their true quest for the [[Prismwell]] and [[Cloudspinner]]. As the barge approaches, they observe approximately twenty humanoid figures aboard - all with an otherworldly brightness to their appearance, many with glowing eyes and reddish hair. The passengers lounge languidly, occasionally dipping cups directly into the river to drink, while a woman plays a lute at the center of the craft.
+After brief deliberation, the companions agree to use [[Lirien]]'s death as their cover story, seeking directions to [[Everlight's Bloom]] rather than revealing their true quest for the [[Prismwell]] and [[Cloudspinner]]. As the barge approaches, they observe approximately twenty humanoid figures aboard - all with an otherworldly brightness to their appearance, many with glowing eyes and reddish hair. The passengers lounge languidly, occasionally dipping cups directly into the river to drink, while a woman plays a lute at the center of the craft. At the stern stands [[~Barge Master~|a tall figure]] with rust-colored skin and pale golden hair tied back in a ponytail. He wears elegantly cut silver clothes with red buttons and steers with a large oar. "Travelers, what brings you to our realm?" he calls as [[Delwath]] hails the vessel.
 
-At the stern stands a tall figure with rust-colored skin and pale golden hair tied back in a ponytail. He wears elegantly cut silver clothes with red buttons and steers with a large oar. "Travelers, what brings you to our realm?" he calls as [[Delwath]] hails the vessel.
-
-[[Delwath]] explains their supposed mission to bring news of [[Lirien]]'s death to [[Everlight's Bloom]]. The barge master's face falls with disappointment. "And here I thought you had come to join us on the last draught for our voyage to the Sunwine Halls," he responds, questioning why the Golden Prince would care about someone who left his land. When pressed further, the barge master grows increasingly suspicious, studying them with a penetrating gaze, perhaps finding something odd in their story. Nevertheless, he provides directions: "If your news is truly wanted in [[Everlight's Bloom]], I will not stop the will of the lords. Let your feet carry you where they may. Foolish mortals! I bid you a fond afternoon and pleasant journeys." With that, the barge continues downstream, leaving the party to continue their journey on foot.
+[[Delwath]] explains their supposed mission to bring news of [[Lirien]]'s death to [[Everlight's Bloom]]. The barge master's face falls with disappointment. "And here I thought you had come to join us on the last draught for our voyage to [[Sunwine Hall]]," he responds, questioning why the [[Prince Aurelian|Golden Prince]] would care about someone who left his land. When pressed further, [[~Barge Master~]] grows increasingly suspicious, studying them with a penetrating gaze, perhaps finding something odd in their story. Nevertheless, he provides directions: "If your news is truly wanted in [[Everlight's Bloom]], I will not stop the will of the lords. Let your feet carry you where they may. Foolish mortals! I bid you a fond afternoon and pleasant journeys." With that, the barge continues downstream, leaving the party to continue their journey on foot.
 
 Trudging along the riverbank, a drowsy heaviness begins to settle on the party. The warm afternoon sun, the sweet scent of ripening grapes, and the intoxicating aroma from the wine-river all conspire to slow their steps and cloud their minds. Frustrated, the party decides to scout, using [[Seeker]]'s _Clairvoyance_, hoping to gain a better sense of the landscape. 
 
-Casting the spell, [[Seeker]]'s magical senses rise a mile above the landscape. Looking north, the land seems to fade into something resembling a painted backdrop rather than reality. Northwest, the river continues with unusually bright light reflecting off its surface in the distance. To the southeast stands a stone pavilion with tents and lights, visible with impossible clarity despite being dozens of miles away. Most striking is the view eastward, where a crystal wall glimmers with sunset colors, as though someone had frozen the dusk light into solid form.
+Casting the spell, [[Seeker]]'s magical senses rise a mile above the landscape. Looking north, the land seems to fade into something resembling a painted backdrop rather than reality. Northwest, the river continues with unusually bright light reflecting off its surface in the distance. To the southeast stands a stone pavilion with tents and lights, visible with impossible clarity despite being many miles away. Most striking is the view eastward, where a crystal wall glimmers with sunset colors, as though someone had frozen the dusk light into solid form.
 
-"There's a campfire to the north," [[Seeker]] reports. "I'll teleport us there." As [[Seeker]] begins the spell, the companions feel themselves being dragged through what seems like an invisible wall. The magic twists and distorts around them, before violently collapsing. A burst of arcane force slams through the group, inflicting painful injuries to everyone. "Teleportation doesn't work here," [[Seeker]] gasps, blaming the strangeness of the [[Feywild]] for the failure of his usually reliable magic. 
+"There's a campfire to the north," [[Seeker]] reports. "I'll teleport us there." As [[Seeker]] begins the spell, the companions feel themselves being dragged through what seems like an invisible wall. The magic twists and distorts around them, before violently collapsing. A burst of arcane force slams through the group, inflicting painful injuries to everyone. "Teleportation doesn't work here," [[Seeker]] gasps, blaming the strangeness of the [[Feywild]] for the failure of his usually reliable magic, although the spell does bring the party to their destination. 
 
 Tthe party finds themselves in a small clearing with a cottage. Its roof is woven from amber-colored vines, and apple trees laden with fruit stand nearby. A fire pit with a large iron pot sits outside, and the air smells of soup and freshly baked pie. [[Wellby]] is immediately suspicious of this idyllic scene, but before they can retreat, the cottage door opens. A strange humanoid rabbit creature emerges, cheerfully greeting them and offering pie. After some hesitation, [[Kenzo]] examines her with Soul Sight and determines she's genuinely curious and happy, though this does little to ease the group's wariness.
 
-The rabbit woman introduces herself as Auntie Mulberry, and through conversation, she gradually presses the party about their true purpose in [[Emberwine]]. When they mention seeking allies and heading to [[Everlight's Bloom]] to bring news of [[Lirien]]'s death to Prince Aurlien, she becomes skeptical, noting that the Golden Prince cares little for those who leave his realm. After an extending conversation about allies and guides, the party's desire for them, and Auntie Mullbery's accusation they haven't tried to find allies, so why should they expect them to drop from the sky, the conversation turns to bringing change to the [[Feywild]]. Auntie Mulberry grows indignant as she pieces together that the party is referring to potentially returning the [[Cloudspinner]] to [[Amberglow]], upset that anyone would assume the people of Emberglow prefer the darkness of [[Harrow]] and [[Wend]] to the [[Cloudspinner]]. 
+The rabbit woman introduces herself as [[Auntie Mullberry]], and through conversation, she gradually presses the party about their true purpose in [[Emberwine]]. When they mention seeking allies and heading to [[Everlight's Bloom]] to bring news of [[Lirien]]'s death to [[Prince Aurelian]], she becomes skeptical, noting that the Golden Prince cares little for those who leave his realm. After an extending conversation about allies and guides, the party's desire for them, and Auntie Mullbery's accusation they haven't tried to find allies, so why should they expect them to drop from the sky, the conversation turns to bringing change to the [[Feywild]]. Auntie Mulberry grows indignant as she pieces together that the party is referring to potentially returning the [[Cloudspinner]] to [[Amberglow]], upset that anyone would assume the people of [[Emberwine]] prefer the darkness of [[Harrow]] and [[Wend]] to the [[Cloudspinner]]. 
 
-However, in thanks for [[Delwath]]'s story, well-told, Auntie Mulberry eventually reveals that a refugee from Cloudspinner's Court might be found at [[Sunwine Hall]], the Court of the Master of Revels. She provides a small flute-like whistle that will guide them there if they follow its melody while dancing.
-
-As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that she remembers the Master of Revels visiting the [[Cloud Palace]] once - a handsome fellow with golden antlers who was an exceptional dancer. With this new lead, the party prepares to follow the melody to [[Sunwine Hall]], hoping to find the refugee who might help them locate the Prism Well.
+However, in thanks for [[Delwath]]'s story, well-told, Auntie Mulberry eventually reveals that a refugee from Cloudspinner's Court might be found at [[Sunwine Hall]], the Court of the [[Lord Soven|Master of Revels]]. She provides a small flute-like whistle that will guide them there if they follow its melody while dancing. As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that she remembers the Master of Revels visiting the [[Cloud Palace]] once - a handsome fellow with golden antlers who was an exceptional dancer. With this new lead, the party prepares to follow the melody to [[Sunwine Hall]], hoping to find the refugee who might help them locate the [[Prismwell]].
 
 ## Detailed Outline
 
@@ -77,7 +74,7 @@ As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that sh
 - The airship Vindristjarna arrives at the Bitterwine Oak portal in the desert.
 - Lady Eventide retreats from possessing Seeker, leaving him with a streak of white hair.
 - Seeker regains consciousness, disoriented about what happened while possessed.
-- The party discusses their mission to free the Cloudspinner by bringing her to the Prism Well in the Feywild.
+- The party discusses their mission to free the Cloudspinner by bringing her to the Prismwell in the Feywild.
 - They approach the portal tree, hearing music and voices calling them to join a celebration.
 - After making toasts and drinking wine from pools at the tree's base, the party vanishes into the Feywild
 ### Satyrs of Emberwine
@@ -123,7 +120,7 @@ As the rabbit woman retreats into her cottage, [[Lady Eventide]] reveals that sh
 - Lady Eventide recognizes the Master of Revels as someone who once visited the Cloud Palace.
 - The party decides to head to [[Sunwine Hall]] to seek the refugee from Amberglow.
 
-### Auntie Mullbery Extended Narrative
+## Auntie Mullbery Extended Narrative
 *Claude 3.7 Sonnet with some careful prompting and corrections*
 
 The cottage door swung open to reveal a strange-looking creature—roughly five feet tall with rabbit ears and a face that blended human and lagomorph features. She wore an apron and carried a freshly baked pie, which she promptly handed to Wellby.
@@ -136,14 +133,13 @@ When Wellby cautiously asked where they were, the rabbit woman's eyes twinkled w
 
 "Where are you? Well, of course that is the question, isn't it? You're in late afternoon, as you can see," she replied playfully. "Another way you might put it is Emberwine. You know that place? No, you look a bit stunned by the Feywild, I might say. Have some pie."
 
-She began cutting slices. "You're at Auntie Mulberry's house, of course. You must have known that appearing here out of nowhere like that, with a boom and a thud and a crash of breaking glass. What was that all about?"
-When the party hesitated to explain, she persisted. "Why have you come, then, and disturbed my peaceful rest, if not to have a cheerful meal, and tell us some tales?"
+She began cutting slices. "You're at Auntie Mulberry's house, of course. You must have known that appearing here out of nowhere like that, with a boom and a thud and a crash of breaking glass. What was that all about?" When the party hesitated to explain, she persisted. "Why have you come, then, and disturbed my peaceful rest, if not to have a cheerful meal, and tell us some tales?"
 
 Delwath offered to share a story, and Auntie Mulberry brightened. "Oh, a happy tale! Nobody tells sad tales in Emberwine."
 
-Though Delwath warned his tales contained sadness, she insisted, and he told the story of killing Grosh and freeing themselves using the Cloudspinner's cloak. As he narrated, Auntie Mulberry sent Wellby and Kenzo inside for tea.
+Though Delwath warned his tales contained sadness, she insisted, and he told the story of killing Grash and protecting the Cloudspinner's cloak. As he narrated, Auntie Mulberry sent Wellby and Kenzo inside for tea.
 
-"A cheery tale of sorts," she commented afterward, "but I had to pick one that featured so much death. Maybe they should call you the Death Bringers. Do you have a name?"
+"A cheery tale of sorts," she commented afterward, "but you had to pick one that featured so much death? Maybe they should call you the Death Bringers. Do you have a name?"
 
 When Riswynn asked about reaching Everlight's Bloom, Auntie Mulberry's demeanor shifted. "Why would you want to do that? Same way a glass lamp shining on a bug trapped in glass is Everlight. I mean, if you wish to go, do you have an invitation from the Prince, I assume?"
 
@@ -159,7 +155,7 @@ When Delwath mentioned they had come to "bring change like there hasn't been in 
 
 As they continued to speak cryptically about their mission, Auntie Mulberry grew frustrated with their secrecy. The conversation reached a turning point when she suddenly pieced together their true purpose. Her eyes widened with indignation.
 
-"You realize if what you're hinting at is true, nobody would prefer the rivers of darkness from Darkfall and Hollowdark to the Cloudspinner's Return, you fool!" she exclaimed. "You really think everybody would like to see the Sunset Gate crack and [[Harrow|Harrow]] and Wind march across our lands? Have you been keeping secret some mystery to how to restore the Cloudspinner?"
+"You realize if what you're hinting at is true, nobody would prefer the rivers of darkness from Darkfall and Hollowdark to the Cloudspinner's Return, you fool!" she exclaimed. "You really think everybody would like to see the Sunset Gate crack and Harrow and Wend march across our lands? Have you been keeping secret some mystery to how to restore the Cloudspinner?"
 
 Her voice betrayed both hope and frustration that they might have kept such vital information from her, clearly offended they would think anyone in Emberwine would oppose the Cloudspinner's return.
 
@@ -168,11 +164,10 @@ Riswynn carefully explained that they didn't want to disturb customs or tread wh
 "A guide!" Auntie Mulberry laughed. "Well, now, that is a very different thing than an ally, is it not? You wish to find something."
 
 When Wellby noted they hoped any guide wouldn't be an enemy, she responded, "Such a mortal perspective on things. I am neither your enemy nor your ally. I am Auntie Mulberry. What do you want?"
-Finally, Auntie Mulberry provided geographical information. "Amberglow's to the north, way to the north. Bit hard 
 
-to cross these days. Not sure anybody really properly lives there anymore." She shrugged. "Everlight's Bloom is like westish, sunward of here. It's all bright and cheery and bright and bright, and nothing ever changes there, you know, if a flower always blooms and ever bloom, you never get fruit."
+Finally, Auntie Mulberry provided geographical information. "Amberglow's to the north, way to the north. Bit hard to cross these days. Not sure anybody really properly lives there anymore." She shrugged. "Everlight's Bloom is like westish, sunward of here. It's all bright and cheery and bright and bright, and nothing ever changes there, you know, if a flower always blooms and ever bloom, you never get fruit."
 
-Eventually, she revealed a critical lead. "I did hear that there is a refugee from Cloudspinner's Court at [[Sunwine Hall]], Court of the Master of Revels. Lord Sovin, you must know him. You're in his land. I don't know if he would help you, as people come here to forget, you know."
+Eventually, she revealed a critical lead. "I did hear that there is a refugee from Cloudspinner's Court at Sunwine Hall, Court of the Master of Revels. Lord Sovin, you must know him. You're in his land. I don't know if he would help you, as people come here to forget, you know."
 
 She produced a small flute-like whistle from her pocket. "Melody will lead you there. Just dance."
 
