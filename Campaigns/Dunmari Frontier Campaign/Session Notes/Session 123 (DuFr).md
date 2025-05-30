@@ -7,6 +7,7 @@ realWorldDate: 2025-05-01
 DR: 1749-06-13
 DR_end: 1749-06-14
 players: [Delwath, Kenzo, Wellby, Riswynn, Seeker]
+companions: [Valeris]
 tagline: in which Cloudspinner is freed and Amberglow redeemed
 descTitle: The Prismwell
 ---

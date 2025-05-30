@@ -6,6 +6,7 @@ realWorldDate: 2025-03-25
 DR: 1749-06-08
 DR_end: 1749-06-13
 players: [Seeker, Delwath, Kenzo, Wellby, Riswynn]
+companions: [Valeris, Ismara]
 name: Dunmari Frontier - Session 121
 tagline: in which the party faces wolf riders
 descTitle: Clash Along the Sunset Gate

@@ -7,6 +7,7 @@ realWorldDate: 2025-04-03
 DR: 1749-06-13
 DR_end: 1749-06-13
 players: [Delwath, Kenzo, Wellby, Riswynn, Seeker]
+companions: [Valeris]
 tagline: in which the party banishes ancient darkness
 descTitle: Shadows Beneath Redsun Watch
 ---
