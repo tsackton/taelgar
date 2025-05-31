@@ -18,7 +18,7 @@ descTitle: Rumors and Riots
 > *On Earth: Tuesday May 13, 2025*
 > *Location: Traveling from [[Eastern Dunmar]] to [[Chardon]]*
 
-Returning to Vindisharna, the Dunmar Fellowship enjoys a rare respite, bids farewell to Riswynn and her companions, and learns of turmoil brewing in Chardon en route to the city. 
+Returning to [[Vindristjarna]], the [[Dunmar Fellowship]] enjoys a rare respite, bids farewell to [[Riswynn]] and her companions, and learns of turmoil brewing in [[Chardon]] en route to the city. 
 ## Session Info
 ### Summary
 - The party reunites aboard Vindisharna after their Feywild expedition, finding tranquility and reconnecting with their crew in the Danmari Desert.
@@ -31,6 +31,30 @@ Returning to Vindisharna, the Dunmar Fellowship enjoys a rare respite, bids fare
 
 ### Timeline
 - (DR:: 1749-06-14)
+
+%% raw timeline notes
+stay at Pava / Avaras:
+- 1 day, end at party (June 14)
+- 3 days, get organized, Riswynn leaves (15, 16, 17) (mirror vision 1 on the 16th)
+- next day, Riswynn leaves morning (June 18)
+- meanwhile, fly 
+	- afternoon june 18th depart Pava and Avaras house
+	- morning june 19th cross over Karawa; free Vola, Valius, Vargus from the mirror; that evening, speak to Marcellia via Dream
+	- morning june 20th cross over Tokra; drop Valius and Vargus with some coin and a letter of introduction; Wellby begins speaking to Hektor each day in the mirror
+	- morning june 21st cross over Songara, turn west
+	- morning june 22nd, in [[Chataan Mountains]]
+	- morning june 23rd, cross over western edge of [[Chataan Mountains]] (mirror vision 2 on the 23rd)
+	- morning june 24th, cross over Yeraad delta, wait
+	- evening june 24th set out from delta heading northwest, cross canal in the darkness
+	- morning june 25th land and hide ship
+	- evening june 25th set out north
+	- morning of june 26th reach Chardon Bay
+	- morning of june 27th reach holding point, teleport to destination in Chardon (north bank hideout)
+
+(Seeker spends the time pouring over books)
+
+(mirror recharge june 30th)
+%%
 
 ## Narrative
 
