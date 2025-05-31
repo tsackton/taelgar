@@ -21,84 +21,57 @@ descTitle: Rumors and Riots
 Returning to [[Vindristjarna]], the [[Dunmar Fellowship]] enjoys a rare respite, bids farewell to [[Riswynn]] and her companions, and learns of turmoil brewing in [[Chardon]] en route to the city. 
 ## Session Info
 ### Summary
-- The party reunites aboard Vindisharna after their Feywild expedition, finding tranquility and reconnecting with their crew in the Danmari Desert.
-- Kenzo meditates and inadvertently attains an astral form, marking spiritual growth, while Riswynn organizes a campaign to liberate orcs from Thark’s influence.
-- Contact with Chardon reveals post-war chaos: riots sparked by the Eightfold Flame, imperial crackdowns, and a city on the brink as old friends are warned of impending involvement.
-- A celebratory feast and story-sharing cement the group's bonds, as they split: Riswynn teleports orc allies to Uzgakar, while the rest set course for Chardon by airship.
-- The party upgrades Vindisharna’s amenities, planning a demiplane meeting room and morale-boosting pub, and strategizes their covert arrival and intelligence-gathering in Chardon.
-- Prisoners from Fausto’s enchanted mirror—including Vola and the twins—are compassionately questioned and released, beginning their recovery from enchantment and manipulation.
-- Preparations are made for the next phase: investigating Chardon's mysterious unrest, with parties poised to reunite if needed through magical communication and teleportation.
+- The party regroups aboard [[Vindristjarna]] after their [[Feywild]] expedition, reconnecting with their crew, [[Pava]], and [[Avaras]] in the [[Garamjala Desert|Garamjala]].
+- [[Riswynn]] says farewell to the party as she organizes her mission to liberate orcs from [Thark]’s influence, departing with [[Kethra]], [[Aygul]], and [[Nuzkar]], teleporting to [[Uzgukhar]]; the rest of the party prepares to fly [[Vindristjarna]] to [[Chardon]]. 
+- Contact with [[Chardon]] reveals post-war chaos: riots sparked by the [[Eightfold Flame]], imperial crackdowns, and a city teetering on the edge of widespread violence. 
+- During the journey, the party begins to release [[Vola]], [[Vargus]], [[Valius]], and [[Hektor]] from the [[Mirror of Soul Trapping]], now free of [[The Cleansed]] control. 
 
 ### Timeline
-- (DR:: 1749-06-14)
+- (DR:: 1749-06-14), afternoon: Stay at [[Pava and Avaras' House]]; relax with the crew of [[Vindristjarna]]; speak to [[Sura]] via Sending Stone. In the evening, contact [[Xavier]] in [[Chardon]] via *Dream*.
+- (DR:: 1749-06-15) - (DR_end:: 1749-06-17): Rest and plan at [[Pava and Avaras' House]]
+- (DR:: 1749-06-18), morning: [[Riswynn]], [[Aygul]], [[Nuzkar]], and [[Kethra]] teleport to [[Uzgukhar]].
+- (DR:: 1749-06-18), afternoon: [[Vindristjarna]] departs [[Pava and Avaras' House]], heading west to [[Chardon]]
+- (DR:: 1749-06-19): [[Vindristjarna]] crosses over [[Karawa]] in the morning. Free [[Vola]], [[Valius]], and [[Vargus]] from the [[Mirror of Soul Trapping]]. Speak to [[Marcella]] via *Dream*.
+- (DR:: 1749-06-20): [[Vindristjarna]] crosses over [[Tokra]] in the morning. Leave [[Valius]] and [[Vargus]], with some coin and a letter of introduction, in [[Tokra]]. [[Wellby]] begins speaking with [[Hektor]] in the [[Mirror of Soul Trapping]]. 
+- (DR:: 1749-06-21): [[Vindristjarna]] crosses over [[Songara]], and turns west.
+- (DR:: 1749-06-22): [[Vindristjarna]] reaches the [[Chataan Mountains]]. 
+- (DR:: 1749-06-23): [[Vindristjarna]] reaches the western edge of the [[Chataan Mountains]]
+- (DR:: 1749-06-24), morning: [[Vindristjarna]] reaches the [[Yeraad]] delta, near the coast. Wait for darkness.
+- (DR:: 1749-06-24), evening: [[Vindristjarna]] heads northwest from the [[Yeraad]], crossing over the [[Old Chardon Canal]] in darkness.
+- (DR:: 1749-06-25), morning: [[Vindristjarna]] lands on an isolated stretch of coast in [[Portalia]]; hide for the day under *Hallucinatory Terrain*. 
+- (DR:: 1749-06-25), evening: [[Vindristjarna]] sets out north into the [[Gulf of Chardon]]
+- (DR:: 1749-06-26): [[Vindristjarna]] travels across the [[Gulf of Chardon]] towards [[Chardon]]
+- (DR:: 1749-06-27), morning: [[Vindristjarna]] reaches a holding point off the coast of [[Chardon]], about 150 miles northwest of the city. The party prepares to teleport to [[Chardon]]. 
 
-%% raw timeline notes
-stay at Pava / Avaras:
-- 1 day, end at party (June 14)
-- 3 days, get organized, Riswynn leaves (15, 16, 17) (mirror vision 1 on the 16th)
-- next day, Riswynn leaves morning (June 18)
-- meanwhile, fly 
-	- afternoon june 18th depart Pava and Avaras house
-	- morning june 19th cross over Karawa; free Vola, Valius, Vargus from the mirror; that evening, speak to Marcellia via Dream
-	- morning june 20th cross over Tokra; drop Valius and Vargus with some coin and a letter of introduction; Wellby begins speaking to Hektor each day in the mirror
-	- morning june 21st cross over Songara, turn west
-	- morning june 22nd, in [[Chataan Mountains]]
-	- morning june 23rd, cross over western edge of [[Chataan Mountains]] (mirror vision 2 on the 23rd)
-	- morning june 24th, cross over Yeraad delta, wait
-	- evening june 24th set out from delta heading northwest, cross canal in the darkness
-	- morning june 25th land and hide ship
-	- evening june 25th set out north
-	- morning of june 26th reach Chardon Bay
-	- morning of june 27th reach holding point, teleport to destination in Chardon (north bank hideout)
-
-(Seeker spends the time pouring over books)
-
-(mirror recharge june 30th)
-%%
-
+### The Mirror of the Past
+- (DR:: 1749-06-16):  *apollyon's crystal ball* (recharge:: mirror)
+- (DR:: 1749-06-23):  *spellbook from Elemental Forge* (recharge:: mirror)
+- 
 ## Narrative
 
-After weeks wandering the strange light and twisted hours of the Feywild, the company at last returned to Vindisharna, their skyship anchored above Pava and Avras’s austere monastery in the Danmari Desert. The sand below was still and warm; above, the red stone house cast sharp shadows in the morning sun. The crew—Pava, Avras, Amol, Kethra, the orc sisters Nizkar and Igo, Yota the Denokai, and the Copperharp halflings—greeted the party quietly. Faldrak emerged from the depths of the ship, grease-stained and distracted, already mulling odd inventions.
+Our session begins as the party returns to [[Vindristjarna]], drifting over [[Pava and Avaras' House]] on the edge of the [[Garamjala Desert]], after weeks of adventuring in the strange light and twisted hours of the [[Feywild]]. The party spends the day at ease: for the first time in months, no shadow pressed the group, no urgent mission required immediate action. [[Wellby]] watched as [[Baxter]] raced after desert lizards; [[Kenzo]] mediated and reconnected with his teachers, [[Pava]] and [[Avaras]], and his student, [[Amil]]; [[Delwath]] relaxed and looked to provisions for an evening feast; [[Seeker]] disappeared below decks, eager to pore over his recovered tomes on the Plane of Fire and plot a path to find his lost brother. 
 
-Kenzo, sunk deep in comfort, broke bread with Pava, Avras, and Amol, trading news and idle argument, especially about the unrest in Chardon—his unease softened by familiar camaraderie. Wellby, reclad in battered leathers and Kenku-tooled armor, stretched out content, bantering with Kenzo nearby, while Baxter raced after desert lizards on the ground below.
+[[Riswynn]], newly whole, donned the once-troubled crown without strain; its discordant magic had quieted, allowing her fresh clarity. She spoke with [[Kethra]] and the orc sisters, [[Nuzkar]] and [[Aygul]], inviting discussion about their aims for liberating orcs from [[Thark]], the conversation marking the beginning of a broader campaign and the start of her quest to use the powers of the [[Crown of Purity]] for a noble purpose. 
 
-Riswynn, newly whole, donned the once-troubled crown without strain; its discordant magic had quieted, allowing her fresh clarity. She spoke with Kethra and the orc sisters, inviting discussion about their aims for liberating orcs from Thark’s god, the conversation marking the beginning of a broader campaign. Meanwhile, Seeker disappeared below decks, eager to pore over his recovered tomes on the Plane of Fire and plot a path to find his lost brother. For the first time in months, no shadow pressed the group—only plans, farewells, and the hush of ordinary morning settling over Vindisharna.
+Only news from [[Sura]], via the Sending Stone, broke the ease of the day. [[Sura]] reported on troubling events: following [[Marius Cusico|General Cusico]]’s abrupt surrender and withdrawal, many soldiers of the [[Chardonian Legion]] retreated, but bands of unruly looters -- deserters seeking booty -- descended on the region until [[Havdar's Warband]] scattered them. While shadow assassins had threatened [[Tokra]], [[Sura]] reported that the timely intervention of [[Stoneborn]] warriors led by [[Drikod]] stabilized matters there. Regarding the larger political situation, she reported that correspondence and diplomatic messages from [[Chardon]] had ceased, deepening her suspicion that something unusual was happening there.
 
-After their return from the Feywild, the party gathered at Delwath’s well-provisioned stead, weighing next steps. Kenzo, seeking news from Chardon, reached out to Sarah in Dunmar using the sending stone. She reported on troubling events: following General Cusico’s abrupt surrender and withdrawal, the Chardonian legions had retreated, but left behind unruly looters who descended on the region until Havdar’s forces scattered them. Shadow assassins had also threatened Tokra, but the timely intervention of the Stoneborn stabilized matters. Though Chardonian demands and threats had continued, Sarah’s correspondence from Chardon had gone silent for weeks, deepening her suspicion that something unusual was happening there.
+With no immediate danger pressing, [[Delwath]] organized an evening feast, urging the party and their followers to enjoy a rare respite from the pressures of adventuring. As sunset approached, [[Kenzo]] took time for meditation. As he sat, his form began to shimmer, and before the eyes of his companions, he shifted, turning into a ghostly version of himself as he slipped partially into the [[Plane of Souls|Plane of Consciousness]]. [[Avaras]], an elder of [[Kenzo]]’s order, watched on with approval, recognizing the significance of this newfound spiritual mastery. The evening drifted into celebration, music, and shared stories, as followers and friends relaxed together. For the first time in memory, the threat of crisis did not loom overhead, and the group savored a rare moment of peace.
 
-Kenzo considered contacting old friends in Chardon directly via dream magic, planning to wait until nightfall for a proper conversation. With no immediate danger pressing, Delwath organized a staff appreciation feast, urging the party and their followers to enjoy respite—something rare in recent weeks. As sunset approached, Kenzo took time for meditation. As he sat, his form began to shimmer, and before the eyes of his companions, he vanished, slipping partially into the astral realm. Welby experimented with touching Kenzo’s now insubstantial form, confirming that Kenzo existed in a liminal state, both present and not. Avras, an elder of Kenzo’s order, watched on with approval, recognizing the significance of this newfound spiritual mastery.
+That night, under the influence of [[Delwath]]'s *Dream* spell, Kenzo reached out to his childhood friend, [[Xavier]], in [[Chardon]]. In their shared vision, the setting was an alley behind the old market—a place they once hid as children to eat pilfered sweets. [[Xavier]], battered from a recent brawl and bearing fresh scars, greeted [[Kenzo]] with a mixture of confusion and nostalgia.
 
-The evening drifted into celebration, music, and shared stories, as followers and friends relaxed together. For the first time in memory, the threat of crisis did not loom overhead, and the group savored a rare moment of peace.
+[[Kenzo]] learned that unrest had swept across [[Chardon]]. A faction called the [[Eightfold Flame]] was stirring riots against the [[chalyte]] refineries. The riots had started when bureaucrats within the [[chalyte]] trade, under some mysterious compulsion, had exposed their own corruption, igniting public outrage. For a brief time, the [[Eightfold Flame]] and its followers took control of large parts of [[~Chardon North Bank~|north bank]]. But as order swiftly broke down and fires raged across the [[~chalyte district~|chalyte refineries]], the [[Mitus Verina Auratan|Magistros]] declared martial law and ordered legions into the city to blockade the [[~main Chardon bridge~|bridge]]. Stranger, according to [[Xavier]], was the sudden disappearance of many of the leaders of the [[Eightfold Flame]] the previous day. Though [[Xavier]] claimed momentum remained with the [[chalyte]] workers still rioting, he admitted that he was not particularly well connected among the [[Eightfold Flame]] (serving mostly as muscle when asked), mentioning his friend [[Andros]] might know more. Before the dream ended, [[Kenzo]] urged [[Xavier]] to keep this contact secret, and made plans to meet at [[Xavier]]'s apartment near the [[~north bank market~]]. 
 
-That night, Delwath sat awake beneath a sky swept with stars, quietly sharing old stories of wars and recipes. Meanwhile, Kenzo took his rest and reached across dreams to his childhood friend, Xavier, in distant Chardon. In their shared vision, the setting was an alley behind the old market—a place they once hid as children to eat pilfered sweets. Xavier, battered from a recent brawl and bearing fresh scars, greeted Kenzo with a mixture of confusion and nostalgia.
+After several days provisioning supplies and making preparations, the party prepared to part ways. [[Riswynn]], supported by [[Kethra]], [[Nuzkar]], and [[Aygul]], teleported to [[Uzgukhar]], where she would begin her quest to save more [[orcs]] from [[Thark]]. The rest of the party gathered aboard [[Vindristjarna]], plotting a course for [[Chardon]] via a roundabout route, hoping to approach in secrecy. During the nearly two-week journey, which takes the ship across [[Dunmar]], the [[Chataan Mountains]], and [[Apporia]] before reaching the [[Gulf of Chardon]] and approaching [[Chardon]] from the west, the party made plans for their arrival in [[Chardon]], and began to release the prisoners trapped in the [[Mirror of Soul Trapping]], now freed from the magical binding of [[The Cleansed]] by [[Riswynn]]'s reorientation of the magic of the [[Crown of Purity]] to helping the [[orcs]]. 
 
-Kenzo learned that unrest had swept the city. A faction called the Eightfold Flame was stirring riots against the chelite factories—those same places that had left physical and spiritual scars on so many. Bureaucrats within the chelite trade, under some mysterious compulsion, had exposed their own corruption, igniting public outrage. For a brief time, the Eightfold Flame and its followers took control of large parts of the north bank. But as order swiftly broke down, fires raged, the authorities cracked down, bridges were blockaded, and imperial troops returned to the city.
+The first person the party frees is [[Vola]]. She is disoriented, confused, and angry at her captivity, and distraught to be treated with suspicion and questioned, with no clear memories of her time under the control of [[Fausto]]. She tells the party of her last memory: receiving their letter from [[Arendum]], bringing it to her mentor [[Agon]] to discuss, and then being taken by [[Agon]] to [[Fausto's Tower]], after which she remembers nothing clearly. Over time, she became gradually convinced by [[Kenzo]] and the others that she had been manipulated, along with many others, by [[Fausto]] and his allies. Offered hospitality or a place to disembark, she remained uncertain of her future, opting to rest and consider her options on [[Vindristjarna]]. [[Kenzo]] supported her, inviting her to meditate beneath the elven tree at the heart of the ship, and offering space to recover from her ordeal.
 
-The Eightfold Flame’s leadership had apparently vanished the previous day, but momentum remained with the chelite workers, many of whom nursed scars like Xavier and his friend Andres—angry, ready for more change. Kenzo asked after safe houses and learned that some of his old neighborhoods remained untouched, though patrols grew more common. Before the dream ended, Kenzo warned Xavier of his possible return, urging him to keep silent about their contact. The city, tense and divided, awaited what would come next.
+Next, the party frees [[Valius]] (who was never magically controlled, but blackmailed by [[Fausto]]) and his twin brother [[Vargus]] (now freed from control). As they share a cell in the [[Mirror of Soul Trapping]], [[Vargus]] has had some ability to adjust, despite the strange time-altering effects of the mirror. Grateful, and eager to put all memory of [[Fausto]]'s plots behind them, they wish to be let off somewhere outside the [[Chardonian Empire]], seeking quieter lives. 
 
-After several days gathering information, provisioning supplies, and making preparations, the party prepared to part ways. Riswynn, supported by Kethra, her sister, and Newsgar, rallied a small company of orcs eager to begin the next phase of their struggle for freedom. Their faith in Riswynn was unwavering, though their path remained uncertain. Uzgakar, with its king and resources, was chosen as the group’s next destination—both as a place to gather supplies and perhaps discover more about the mysterious crown in Riswynn’s possession.
+That afternoon, the party conferred about [[Hektor]], who had spent years as [[Fausto]]’s silent enforcer. Speaking to [[Marcella]] via *Dream* that evening, they learn he must have been controlled by [[Fausto]] for years, and even [[Marcella]] did not know him well before his transformation. But she did speak of his background as a sailor, and his beautiful singing voice. Without a better idea, the party devised a gentle approach to restoring [[Hektor]]: [[Wellby]] would sing old sailors’ songs and tell stories to him each morning, hopefully helping to anchor his identity before releasing him. 
 
-With farewells exchanged among the party—some tinged with jesting about surviving without Riswynn’s magic, others more serious—plans were made to remain in contact through magical spells such as Sending or Dream. Riswynn assured the others of the ability to return quickly to allies in need, thanks to the sanctuary prepared in Uzgakar and the power of Word of Recall.
+The next day, as the party traveled over [[Tokra]], [[Vindristjarna]] made a brief stop to leave [[Valius]] and [[Vargus]], who liked the idea of a fresh start in [[Dunmar]]. Carrying some coin and a letter of introduction from the [[Dunmar Fellowship]], they departed. 
 
-As Riswynn and her new companions vanished in golden light, teleporting away to begin their quest, the rest of the party gathered aboard the Vindrasharna. Debating routes and strategies, they agreed to keep the skyship hidden outside Chardon, wary of attracting the city’s powerful weather mages. Meanwhile, Seeker weighed options for higher magic and potential research, while the party set course through the skies, bound for Chardon and the uncertain politics waiting there.
-
-As the sun dips behind the desert, the party convenes aboard Vindrasharna, debating how best to prepare the skyship for the journey ahead. They conclude that a demiplane—a secluded, extra-dimensional space resistant to scrying—would make an ideal meeting room, while a shipboard pub might both strengthen morale and help gather information. Some discussion follows over the magical beverage on offer, which can bolster courage by protecting against fear for a day after drinking.
-
-Inventory of the ship’s other facilities is taken: an observatory, archive, meditation chamber, and training hall. Meanwhile, Aeris, Kenzo, and Seeker plan to use the ship’s archive to gather lore on the magistrates ruling Chardon, their destination, and to employ scrying magic to scout ahead.
-
-The journey proceeds: after farewells to Pava, Riswynn, and Avaros, Vindrasharna soars across the red mesas above Karawa, then sweeps over the Tokra plains and on to Sungara as dawns pass below. During this transit, the party attempts to scry on Fausto’s old tower in Chardon, but the wards remain unbroken; only the exterior can be glimpsed. There is some conversation about claiming the tower for themselves, recognizing its value, particularly as an airship dock.
-
-As the ship nears Chardon, new priorities form: gathering information, possibly annexing Fausto’s tower, and preparing for whatever awaits in the city ahead.
-
-Aboard their aerial stronghold crossing the deserts of Dunmar, the party reviewed those still held captive within their enchanted mirror. Deciding it was time, they methodically questioned and released several prisoners freed from Fausto’s magical domination.
-
-Vola, disoriented but herself once more, was released first. She expressed confusion and anger upon learning of her captivity, but became gradually convinced by Kenzo and the others that she had been manipulated, along with many others, by Fausto and his allies. Offered hospitality or a place to disembark, she remained uncertain of her future, opting to rest and consider her options. Kenzo supported her, inviting her to meditate beneath the elven tree at the heart of the ship, and offering space to recover from her ordeal.
-
-Next, the twin brothers Belis (never magically controlled, but blackmailed) and Vargos (recently cleansed) were freed. Grateful and eager to put Fausto’s plots behind them, they requested to be let off before the party approached Chardon, seeking quieter lives far from city intrigue.
-
-The party conferred about Hector, who had spent years as Fausto’s silent enforcer. Failing to find anyone who truly knew him before his possession (besides vague memories from Marcella), they devised a gentle approach: Wellby and others would spend days singing old sailors’ songs and telling stories, helping anchor Hector’s identity before releasing him.
-
-With these matters settled, the party plotted a careful course: the castle would arc far over mountains and sea, to avoid notice near Chardon. Their journey would take about a week, using teleportation to approach Chardon discreetly at its end. Along the way, they planned to investigate magical artifacts, and offer Vola further solace, while the twins took their leave in Tokra. The session drew to a close as the flying castle sailed on, preparations underway for what Chardon might bring.
+With these matters settled, the party continued on their careful course, steering [[Vindristjarna]] in a wide arc to approach [[Chardon]] from the [[Gulf of Chardon]] to the west. Our session ends as morning dawns over the ocean and the party prepares to teleport to [[Chardon]]. 
 
 %%
 
