@@ -7,7 +7,7 @@ speciesAlias: archfey
 gender: male
 name: Prince Aurelian
 whereabouts: Everlight's Bloom
-dm_owner: time
+dm_owner: tim
 dm_notes: none
 ---
 # Prince Aurelian
