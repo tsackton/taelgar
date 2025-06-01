@@ -37,7 +37,7 @@ The [[Dunmar Fellowship]] attends a celebration at [[Sunwine Hall]], in [[Emberw
 - (DR:: 1749-06-07): Depart [[Sunwine Hall]] for the [[Sunset Gate]]
 ## Narrative
 
-Our session begins in [[Emberwine]] as the party follows [[Auntie Mullberry]]'s enchanting flute melody through [[Emberwine]]. [[Lady Eventide]], speaking through [[Seeker]]'s possessed form, reminisces about [[Lord Soven]] as they approach the massive pavilion bathed in golden light, and slip into the current of the dance after being greeted by a steward offering refreshments. 
+Our session begins in [[Emberwine]] as the party follows [[Auntie Mulberry]]'s enchanting flute melody through [[Emberwine]]. [[Lady Eventide]], speaking through [[Seeker]]'s possessed form, reminisces about [[Lord Soven]] as they approach the massive pavilion bathed in golden light, and slip into the current of the dance after being greeted by a steward offering refreshments. 
 
 ![[emberwine-party-1.png|600]]
 
@@ -64,7 +64,7 @@ In preparation for departure, [[Wellby]] tames the wyvern trapped in the [[Mirro
 ## Detailed Outline
 
 ### Reaching Sunwine Hall
-- The party arrives in the fey realm of Emberwine, following a flute given by Auntie Mulberry.
+- The party arrives in the fey realm of Emberwine, following a flute given by [[Auntie Mulberry]].
 - They're seeking a refugee from Amber Glow who might be at Lord Sovin's court.
 - Lady Eventide (possessing Seeker) provides background on Lord Sovin.
 - The group approaches Sunwine Hall, an open-air feast with perpetual late afternoon light.
@@ -253,7 +253,7 @@ And so Wellby began the tale of how they had stopped an emperor from becoming a 
 %% LONG VERSION
 
 ## Narrative
-Our session begins in Emberwine, as the party follows Auntie Mulberry's enchanting flute melody toward Sunwine Hall. Lady Eventide, speaking through Seeker's possessed form, reminisces about Lord Sovin as they approached the massive open-air pavilion where golden afternoon light catches hanging vines heavy with fruit, and music echoed strangely through the surrounding grove.
+Our session begins in Emberwine, as the party follows [[Auntie Mulberry]]'s enchanting flute melody toward Sunwine Hall. Lady Eventide, speaking through Seeker's possessed form, reminisces about Lord Sovin as they approached the massive open-air pavilion where golden afternoon light catches hanging vines heavy with fruit, and music echoed strangely through the surrounding grove.
 
 Curious eyes turned their way as they joined the celebration, with an elegantly dressed man welcoming these unusual mortal visitors. Wellby, using his talent for adapting to unfamiliar social settings, led them through the flow of the festivities while Kenzo sensed an undercurrent beneath the revelry—these celebrations seemed partly intended to help people avoid thinking about troubling matters elsewhere.
 
