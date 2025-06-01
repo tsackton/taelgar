@@ -12,6 +12,6 @@ whereabouts:
 > A [[Fey|fey]] (she/her)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Ismara is a wanderer and a scholar of humanity, an archivist of the [[Material Plane|Mundane World]]. She is curious and bright, and prone to travel where fate takes her, although she tends to shy from danger. 
+![[ismara.jpg|right|300]]Ismara is a wanderer and a scholar of humanity, an archivist of the [[Material Plane|Mundane World]]. She is curious and bright, and prone to travel where fate takes her, although she tends to shy from danger. 
 
 %%SECRET[1]%%
