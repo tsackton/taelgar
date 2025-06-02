@@ -20,13 +20,13 @@ During the [[Great War]] and the [[Blood Years]], the [[North Wall (Chardon)]] w
 
 Originally this area was devoted largely to military use. In the current day, the westernmost section of the walled area, near the river gate and towards the [[Chasa]], is referred to as the [[Chalyte Levels]] and is a notable slum, with old barracks repurposed as low-quality housing for workers in the refineries. The slums that spill out of the walls, merging with the dirtiest parts of the [[Ragwater Basin|Basin]], are called the [[Riverside Quarter]] or just Riverside. 
 
-The central part of the walled area, known as the [[Bastion Quarter]], and centered around the [[Trade Gate (Chardon)|Trade Gate]], is richer, dotted with inns and taverns catering to the trade that enters the city from [[~North Coastal Road (Chardon)~|north road]]. Here the land begins to slope upwards along the spur of [[Mount Nera]]. As the land slopes upward, the [[Bastion Quarter]] transitions to the area known as the [[Summit Quarter]], where respectable houses dot the streets and artisans make a living above the stink of the lowlands along the riverbank. 
+The central part of the walled area, known as the [[Bastion Quarter]], and centered around the [[Trade Gate (Chardon)|Merchant's Gate]], is richer, dotted with inns and taverns catering to the trade that enters the city from [[~North Coastal Road (Chardon)~|north road]]. Here the land begins to slope upwards along the spur of [[Mount Nera]]. As the land slopes upward, the [[Bastion Quarter]] transitions to the area known as the [[Summit Quarter]], where respectable houses dot the streets and artisans make a living above the stink of the lowlands along the riverbank. 
 
 East (upriver) of the fortifications along the height of land of the [[Mount Nera]] spur, the land is hillier and dryer, and this region, known as the [[Nera Domains]], is dotted with elaborate manors of the rich and prosperous. 
 
 Three bridges cross the [[Chasa]], connecting the North Bank to the bulk of the city to the south. 
-- The farthest downriver, connecting the [[Bastion Quarter]] to the [[~south bank quarter across from Bastion~]], is the [[River Bridge (Chardon)|River Bridge]], a massive arching bridge, with enchanted counterweights allowing it to be raised for tall-masted ships to pass under, and wide enough for four wagons to cross abreast. 
-- Upriver from the [[River Bridge (Chardon)|River Bridge]] is the [[Chardon Bridge]], marking the height of navigation on the [[Chasa]], and connecting the [[Summit Quarter]] to the [[~district upriver from port in Chardon~]]. 
+- The farthest downriver, connecting the [[Bastion Quarter]] to the [[Precinct VII]], is the [[River Bridge (Chardon)|River Bridge]], a massive arching bridge, with enchanted counterweights allowing it to be raised for tall-masted ships to pass under, and wide enough for four wagons to cross abreast. 
+- Upriver from the [[River Bridge (Chardon)|River Bridge]] is the [[Chardon Bridge]], marking the height of navigation on the [[Chasa]], and connecting the [[Summit Quarter]] to the [[Precinct XVI]]. 
 - Upriver from the [[Chardon Bridge]] is the [[~Third Chasa Bridge~]], which connects the [[Nera Domains]] to the [[South Bank]].
 
 %%^Campaign:none%%
