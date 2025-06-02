@@ -19,7 +19,7 @@ dm_notes: important
 
 - Huge city, with significant hinterlands near the mouth of ~MainWestRiver~
     
-- Mostly on south bank; [[North Bank]] poorer, chalyte refineries on [[North Bank]], power magic item industry in Chardon
+- Mostly on [[South Bank]]; [[North Bank]] poorer, chalyte refineries on [[North Bank]], power magic item industry in Chardon
     
 - Large, anomalous extinct volcano on [[North Bank]]
     
