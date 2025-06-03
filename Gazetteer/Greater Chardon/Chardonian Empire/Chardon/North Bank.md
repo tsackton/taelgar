@@ -26,7 +26,7 @@ East (upriver) of the fortifications along the height of land of the [[Mount Ner
 
 Two major bridges cross the [[Chasa]], connecting the North Bank to the bulk of the city to the south. 
 - The farthest downriver, connecting the [[Bastion Quarter]] to the [[Precinct VII]], is the [[River Bridge (Chardon)|River Bridge]], a massive arching bridge, with an enchanted mechanism allowing the middle section to be be raised for tall-masted ships to pass under, and wide enough for four wagons to cross abreast. 
-- Upriver from the [[River Bridge (Chardon)|River Bridge]] is the [[Chardon Bridge]], marking the height of navigation on the [[Chasa]], and connecting the [[Summit Quarter]] to  [[Precinct XVI]]. 
+- Upriver from the [[River Bridge (Chardon)|River Bridge]] is the [[Chardon Bridge]], marking the height of navigation on the [[Chasa]], and connecting the [[Summit Quarter]] to  [[Precinct VI]]. 
 
 These bridge crossings are supplemented by numerous ferries that dot the shores of the [[Chasa]]. 
 
