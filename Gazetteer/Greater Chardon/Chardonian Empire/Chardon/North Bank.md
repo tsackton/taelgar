@@ -24,10 +24,11 @@ The central part of the walled area, known as the [[Bastion Quarter]], and cente
 
 East (upriver) of the fortifications along the height of land of the [[Mount Nera]] spur, the land is hillier and dryer, and this region, known as the [[Nera Domains]], is dotted with elaborate manors of the rich and prosperous. 
 
-Three bridges cross the [[Chasa]], connecting the North Bank to the bulk of the city to the south. 
-- The farthest downriver, connecting the [[Bastion Quarter]] to the [[Precinct VII]], is the [[River Bridge (Chardon)|River Bridge]], a massive arching bridge, with enchanted counterweights allowing it to be raised for tall-masted ships to pass under, and wide enough for four wagons to cross abreast. 
-- Upriver from the [[River Bridge (Chardon)|River Bridge]] is the [[Chardon Bridge]], marking the height of navigation on the [[Chasa]], and connecting the [[Summit Quarter]] to the [[Precinct XVI]]. 
-- Upriver from the [[Chardon Bridge]] is the [[~Third Chasa Bridge~]], which connects the [[Nera Domains]] to the [[South Bank]].
+Two major bridges cross the [[Chasa]], connecting the North Bank to the bulk of the city to the south. 
+- The farthest downriver, connecting the [[Bastion Quarter]] to the [[Precinct VII]], is the [[River Bridge (Chardon)|River Bridge]], a massive arching bridge, with an enchanted mechanism allowing the middle section to be be raised for tall-masted ships to pass under, and wide enough for four wagons to cross abreast. 
+- Upriver from the [[River Bridge (Chardon)|River Bridge]] is the [[Chardon Bridge]], marking the height of navigation on the [[Chasa]], and connecting the [[Summit Quarter]] to  [[Precinct XVI]]. 
+
+These bridge crossings are supplemented by numerous ferries that dot the shores of the [[Chasa]]. 
 
 %%^Campaign:none%%
 
@@ -43,11 +44,11 @@ Market name ideas - not yet used
 
 Landmark name ideas - not yet used
 
-| Landmark                     | Quarter        | One-sentence description                                                                                                     |
-| ---------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| **Spur Keep**                | summit of wall | Crenellated stone redoubt anchoring the curtain where it meets Mt. Nera’s spur; beacon brazier still manned nightly.         |
-| **Smelters’ Guildhall**      | Ragwater Basin | Brick longhouse with cobalt-blue roof tiles; serves as arbitration court and hiring hall for refinery masters.               |
-| **Old Rag Tower**            | Chalyte Levels | The last intact papermill drying-tower, now tenement housing; rags once hung from its louvred windows, hence the name.       |
-| **Mill Channel Crane**       | Ragwater Basin | Iron tread-wheel crane (30 ft reach) used to swing chalyte ore-casks from barges to rail trolleys—iconic skyline silhouette. |
-| **Saint Aurelia’s Fountain** | Bastion Square | Marble cistern fed by an uphill spring; reputed to neutralise chalyte dust—queue of workers each dawn.                       |
-| **Arcade of the Compass**    | Summit Quarter | Covered colonnade holding workshops of instrument-makers; mosaics in the vault depict zodiacal constellations.               |
+| Landmark                  | Quarter        | One-sentence description                                                                                               |
+| ------------------------- | -------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **Spur Keep**             | summit of wall | Crenellated stone redoubt anchoring the curtain where it meets Mt. Nera’s spur; beacon brazier still manned nightly.   |
+| **Smelters’ Guildhall**   | Ragwater Basin | Brick longhouse with cobalt-blue roof tiles; serves as arbitration court and hiring hall for refinery masters.         |
+| **Old Rag Tower**         | Chalyte Levels | The last intact papermill drying-tower, now tenement housing; rags once hung from its louvred windows, hence the name. |
+| **Mill Channel Crane**    | Ragwater Basin | Iron tread-wheel crane (30 ft reach) used to swing chalyte ore-casks from barges -- iconic skyline silhouette.         |
+| **Bastion Fountain**      | Bastion Square | Marble cistern fed by an uphill spring; reputed to neutralise chalyte dust—queue of workers each dawn.                 |
+| **Arcade of the Compass** | Summit Quarter | Covered colonnade holding workshops of instrument-makers; mosaics in the vault depict zodiacal constellations.         |

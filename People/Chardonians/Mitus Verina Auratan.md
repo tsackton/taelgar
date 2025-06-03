@@ -15,3 +15,5 @@ dm_owner: tim
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 The current Magistros of Chardon and ruler of the Chardonian Empire. 
+
+%%SECRET[1]%%

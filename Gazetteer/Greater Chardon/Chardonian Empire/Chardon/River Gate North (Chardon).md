@@ -10,4 +10,4 @@ whereabouts: North Wall (Chardon)
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The River Gate is a fortified gate that allows the [[Mill Channel]] to pass out of the walls and feed the series of waterworks in the [[Ragwater Basin|Basin]].
+The River Gate is a fortified gate that allows the [[Mill Channel]] to pass out of the [[North Wall (Chardon)|north walls]] and feed the series of waterworks in the [[Ragwater Basin|Basin]].
