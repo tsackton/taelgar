@@ -15,11 +15,11 @@ You might start with:
 - Information about [[Vindristjarna]], its [[Vindristjarna Mechanics|control mechanics]] and its [[Vindristjarna Bastion Rules|special facilities]].
 - Information about [[Dunmar Fellowship Associates|companions, followers, and hirelings]]. 
 
-The most recent session with published notes is [[Session 123 (DuFr)]]. For background, notes linked from that session are below:
+The most recent session with published notes is [[Session 124 (DuFr)]]. For background, notes linked from that session are below:
 
 ```dataview
 TABLE WITHOUT ID Link, join(split(meta(Link).path,"/",1),"/") as Folder
-FROM "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 123 (DuFr)"
+FROM "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 124 (DuFr)"
 FLATTEN file.outlinks as Link
 GROUP BY Link
 WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "assets")

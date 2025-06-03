@@ -52,3 +52,4 @@ Landmark name ideas - not yet used
 | **Mill Channel Crane**    | Ragwater Basin | Iron tread-wheel crane (30 ft reach) used to swing chalyte ore-casks from barges -- iconic skyline silhouette.         |
 | **Bastion Fountain**      | Bastion Square | Marble cistern fed by an uphill spring; reputed to neutralise chalyte dust—queue of workers each dawn.                 |
 | **Arcade of the Compass** | Summit Quarter | Covered colonnade holding workshops of instrument-makers; mosaics in the vault depict zodiacal constellations.         |
+%%^End%%
