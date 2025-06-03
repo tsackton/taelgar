@@ -151,3 +151,4 @@ Thieves guild type? Other guilds? Artisans?
 %%
 
 
+%%SECRET[1]%%
