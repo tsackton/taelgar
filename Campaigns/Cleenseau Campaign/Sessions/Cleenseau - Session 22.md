@@ -6,7 +6,6 @@ realWorldDate: 2025-02-09
 sessionNumber: 22
 players: [Robin, Viepuck, Celyn, Izgil]
 ---
-
 # Cleenseau - Session 22
 >_in Taelgar, March 1st - March 2nd
 >7 Robert I / DR 1720
