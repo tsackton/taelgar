@@ -9,7 +9,7 @@ The bandit lair that the party explored in [[Cleenseau - Session 03]] contained 
 - The [[Ewer of Liquid (Cleenseau)|Ewer of Liquid]]
 - The [[Pipes of Insect Control]]
 ### Wakog's Camp
-Although the ogre [[Wakog]] had a number of trade goods and valuables, the party returned those to help those whose livelivehoods were ruined by Wakog. A number of magic items were recovered however:
+Although the ogre [[Wakog]] had a number of trade goods and valuables, the party returned those to help those whose livelihoods were ruined by Wakog. A number of magic items were recovered however:
 * [[Boots of False Tracks (Viepuck)|Boots of False Tracks]]
 * [[Shield of False Life]]
 * [[Ring of Jumping (Robin)|Ring of Jumping]]
@@ -36,6 +36,29 @@ In [[Cleenseau - Session 10]] the party explored a ruined fort near the Enst, wh
 - (DONATED) A well crafted suit of plate armor, still serviceable, apparently Sembaran, from the hobgoblin lair. Given to the Cleenseau army garrison in exchange for help making barding.
 - (DONATED) A well made shield, apparently Sembaran. Given to the Cleenseau army garrison in exchange for help making barding.
 - [[Warhammer of Vigilance]]
+
+## Veltor
+After defeating [[Areschera]], the party looted the towers, and found a number of magic and mundane items:
+
+* (USED) Pixie Dust
+* (USED) Dust of Disappearing
+* Dust of Deliciousness
+* Dust of Choking and Sneezing
+* Dust of Revealing
+* Potion of Greater Healing
+* Potion of Greater Healing
+* (USED) Potion of Clairvoyance
+* Potion of Detect Thoughts
+* Brooch of Veiling
+* Wand of the Witches Curse
+* Gem of Spell Storing
+* Ember Rose
+* Bracers of the Moon
+* Lock of Sending (A small locket on a silver chain, polished to a mirror-like finish, but with no picture inside (magical))
+* Mirrors of Truth
+
+A non-magical ring with a small diamond, worth about 300-400gp
+
 ## Miscellaneous Items
 This section lists a variety of other items found outside of major hordes.
 
@@ -43,7 +66,6 @@ This section lists a variety of other items found outside of major hordes.
 * A well made jewelry box with an elaborate lock, stolen from [[Lorin Valbert]] (value: 5 - 10 gp)
 * (DONATED) An elaborate silver ring set with small diamonds (value: 250 - 400 gp), donated to [[Ida Rosfeld]] and the war effort
 * The [[Ring of Escape]], taken from [[Gareth of Tollen]] before his execution
-
 ## Magical and Unusual Items
 
 ```dataview
