@@ -6,6 +6,8 @@ gender: female
 whereabouts: 
 - {type: home, end: 1, location: Gleamwater}
 - {type: away, end: 1749-06-10, location: Emberwine}
+dm_notes: none
+dm_owner: none
 ---
 # Ismara
 >[!info]+ Biographical Info  

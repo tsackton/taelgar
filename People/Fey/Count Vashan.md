@@ -7,6 +7,8 @@ whereabouts:
 - {type: home, end: 1, location: Amberglow}
 - {type: home, location: Sunwine Hall}
 aliases: [The Broken Mask]
+dm_notes: none
+dm_owner: none
 ---
 # Count Vashan
 >[!info]+ Biographical Info  

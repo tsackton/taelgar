@@ -1,5 +1,6 @@
 ---
 excludePublish: ["clee"]
+tags: [meta]
 ---
 ## Character Creation
 

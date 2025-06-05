@@ -7,6 +7,8 @@ whereabouts:
 - {type: home, end: 1749-06-07, location: Sunwine Hall}
 - {type: away, start: 1749-06-07, end: 1749-06-12, location: Emberwine}
 - {type: away, start: 1749-06-12, end: 1749-06-14, location: Amberglow}
+dm_notes: important
+dm_owner: tim
 ---
 # Valeris
 >[!info]+ Biographical Info  

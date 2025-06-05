@@ -1,5 +1,6 @@
 ---
 tags: [place]
+typeOf: mountain range
 ---
 
 (former border of [[Drankorian Empire|Drankor]]) 
