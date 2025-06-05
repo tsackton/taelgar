@@ -3,14 +3,15 @@ headerVersion: 2023.11.25
 tags: [place, status/cleanup/text]
 name: Free City of Tollen
 typeOf: city
-whereabouts: Western Green Sea Region
+whereabouts: Western Green Sea
 aliases: [Free City of Tollen, Tollen]
 dm_owner: tim
 dm_notes: important
 ---
 # The Free City of Tollen
->[!info]+ Information
-> A city in the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% at some point, need to rewrite in the style of the new Dunmar page. check for details in DM notes %%
 

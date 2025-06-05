@@ -1,7 +1,6 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-campaignInfo: []
 name: Vetta
 typeOf: island
 whereabouts: Skaerhem
@@ -9,8 +8,9 @@ dm_notes: important
 dm_owner: tim
 ---
 # Vetta
->[!info]+ Information
-> An island in [[Skaerhem]], the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% incorporate information from DM notes %%
 

@@ -8,11 +8,11 @@ dm_owner: tim
 dm_notes: important
 ---
 # The Desolation of Cha'mutte
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-The Desolation of Cha'mutte is a large area, spanning parts of the [[Greater Dunmar]] and the [[Western Green Sea Region]], that is magically corrupted as a result of the [[First Plague]] and the [[Great War]]. 
+The Desolation of Cha'mutte is a large area that is magically corrupted as a result of the [[First Plague]] and the [[Great War]]. 
 
 The Desolation of Cha'mutte includes:
 - The area around the ruined city of [[Drankor]] itself, destroyed during the chaos of the [[First Plague]], and now deeply cursed and unexplored.  %%needs a name?%%

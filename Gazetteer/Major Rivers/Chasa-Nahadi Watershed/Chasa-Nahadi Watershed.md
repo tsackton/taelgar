@@ -1,9 +1,14 @@
 ---
+headerVersion: 2023.11.25
 tags: [place]
 typeOf: region
 dm_notes: none
 dm_owner: tim
 ---
+# The Chasa-Nahadi Watershed
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`
+
 
 The Chasa-Nahadi watershed is a vast river system that drains the interior basin of the western [[Sentinel Range|Sentinels]]. Geographically, this watershed is composed of three distinct areas:
 
