@@ -9,8 +9,9 @@ dm_notes: important
 dm_owner: shared,mike
 ---
 # Tyrwingha
->[!info]+ Information
-> A realm in the [[Western Green Sea Region]]
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% I have various session planning and especially intra-session emails that impinge on Tyrwingha %%
 

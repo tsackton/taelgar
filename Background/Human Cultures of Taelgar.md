@@ -50,7 +50,7 @@ There is certainly humans in the northern part of [[Vostok]], but whether they a
 
 Outside of the northwest coast and the area around the [[~North Bay~]] (which is explicitly blank), and the area north of [[Vostok]], this region could support additional cultures as needed. 
 ## West Coast
-A number of cultures exist along the [[West Coast Region]], ranging from the [[Nevos Sea]] in the south to the [[Erbalta Plains]] in the north, including:
+A number of cultures exist in the west, ranging from the [[Nevos Sea]] in the south to the [[Erbalta Plains]] in the north, including:
 ### Mawar
 The [[Mawakel Peninsula]] is home to a unique people worshipping their own version of [[Mos Numena]] and with their own unique language. The cultural derivation of these people is not clear, although many other documents assume Northern/Drankorian blend. Other possibilities could work, including a second set of Downfall Refugees or a intermixing of a unique pantheonic culture with Drankorian culture.
 ### Chardon

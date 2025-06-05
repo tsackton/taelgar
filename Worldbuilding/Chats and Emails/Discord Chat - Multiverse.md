@@ -514,7 +514,7 @@ While there are many ways to describe the multiverse, the most widely known come
 
 The duality of the [[Material Plane]] -- the physical structures of the universe -- and the [[Plane of Souls]] -- the soul structures of the sentient inhabitants of the universe -- sit in the middle of these domes, the Material Plane anchored to the dome of physicality, the [[Plane of Souls]] anchored to the dome of sentience. 
 
-Descending "below" the material plane in this cosmology is the [[Ethereal Plane]], which stretches from the border ethereal, co-localizing with the material plane, through the interior ethereal, a foggy expanse of swirling mists, to the deep ethereal, which bleeds into the [[Plane of Magic]]. Embedded within the "sea" of the [[Ethereal Plane]] are the [[Energy Realms]], chief among them the [[Elemental Planes]], domains of pure physicality, capturing the essence of the fundamental elements of the universe.
+Descending "below" the material plane in this cosmology is the [[Ethereal Plane]], which stretches from the border ethereal, co-localizing with the material plane, through the interior ethereal, a foggy expanse of swirling mists, to the deep ethereal, which bleeds into the [[Plane of Magic]]. Embedded within the "sea" of the [[Ethereal Plane]] are the [[Energy Realms]], chief among them the Elemental Planes, domains of pure physicality, capturing the essence of the fundamental elements of the universe.
 
 
 [7/19/2024 6:39 PM] rsulfuratus

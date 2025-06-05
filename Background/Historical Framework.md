@@ -197,7 +197,7 @@ The city of [[Drankor]] was founded in CY 4133 by refugees from [[Hkar]], and ov
 
 * The Founding Period (_CY 4133 - 4483_), when the unsettled lands along the [[Sea of Storms]], the south-western [[Green Sea]] coast, and in the [[Istaros Watershed]] are populated
 * The Eastern Expansion (_CY 4485 - 4585_), when the lands north of the [[Mostreve Hills]] are settled, and Drankor establishes a hegemony over the [[Western Gulf]], pushing out the [[Skaer]]
-* The Western Expansion (_CY 4730 - 4780_), when Drankor expands past [[Darba]] to the [[West Coast Region]]
+* The Western Expansion (_CY 4730 - 4780_), when Drankor expands past [[Darba]] to what is now [[Greater Chardon]]
 
 %% some important vibes considerations. what follows is not strictly canonical in detail, but should be roughly followed in vibes to the extent possible. %%
 
