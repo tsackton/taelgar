@@ -10,6 +10,8 @@ whereabouts:
 - {type: away, start: 1749-05-20, end: 1749-05-29, location: traveling across Feywild}
 - {type: away, start: 1749-05-29, end: 1749-05-29, location: Garamjala Desert}
 - {type: away, start: 1749-05-30, end: 1749-05-30, location: Vindristjarna}
+dm_notes: none
+dm_owner: none
 ---
 # Lirien
 >[!info]+ Biographical Info  

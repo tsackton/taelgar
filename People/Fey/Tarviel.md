@@ -5,6 +5,8 @@ species: fey
 subspecies: satyr
 gender: enby
 whereabouts: Emberwine
+dm_notes: none
+dm_owner: none
 ---
 # Tarviel
 >[!info]+ Biographical Info  

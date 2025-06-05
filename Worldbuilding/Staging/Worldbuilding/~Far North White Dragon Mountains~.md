@@ -1,5 +1,6 @@
 ---
 tags: [status/check/tim, place]
+typeOf: mountain range
 dm_owner: tim
 dm_notes: important
 ---

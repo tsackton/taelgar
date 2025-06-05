@@ -1,5 +1,6 @@
 ---
 excludePublish: ["dufr"]
+tags: [meta]
 ---
 # Character Creation
 In general, the rules from the 2024 Player's Handbook are used, with several notable changes.

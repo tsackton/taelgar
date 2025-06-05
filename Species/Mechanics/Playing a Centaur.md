@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Centaur Species Details
 
 

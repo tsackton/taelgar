@@ -1,5 +1,6 @@
 ---
 excludePublish: ["dufr"]
+tags: [meta]
 ---
 # Skills
 

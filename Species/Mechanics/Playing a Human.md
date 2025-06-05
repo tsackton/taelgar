@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Human Species Details
 
 *[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1751441-human)*

@@ -7,6 +7,8 @@ pronunciation: AYN-ah-fohs
 species: fey
 gender: male
 whereabouts: Emberwine
+dm_notes: none
+dm_owner: none
 ---
 # Aenaphos
 *(AYN-ah-fohs)*

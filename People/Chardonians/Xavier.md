@@ -6,6 +6,8 @@ species: human
 gender: male
 born: 1723
 whereabouts: Chardon
+dm_notes: none
+dm_owner: none
 ---
 # Xavier
 >[!info]+ Biographical Info  

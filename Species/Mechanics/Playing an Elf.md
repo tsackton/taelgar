@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Elf Species Details
 
 *[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1755491-elf)*

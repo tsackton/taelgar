@@ -6,6 +6,8 @@ ancestry: Chardonian
 species: human
 born: 1717
 whereabouts: Chardon
+dm_notes: none
+dm_owner: none
 ---
 # Andros
 >[!info]+ Biographical Info  

@@ -1,3 +1,7 @@
+---
+tags: [meta]
+---
+
 # Halfling Species Details
 
 *[D&D Beyond Mechanics Link](https://www.dndbeyond.com/species/1755936-halfling)*
