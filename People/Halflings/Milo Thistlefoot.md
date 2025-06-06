@@ -13,3 +13,5 @@ dm_notes: important
 %% needs whereabouts, image, DM notes %%
 
 The missing captain of the [[Stormdancer]]. 
+
+![[milo-thistlefoot.jpg]]

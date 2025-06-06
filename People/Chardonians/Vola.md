@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/image, status/cleanup/text, status/needswork/gameupdate]
+tags: [person, status/cleanup/text, status/needswork/gameupdate]
 name: Vola Forena
 born: 1721
 species: human
@@ -22,19 +22,14 @@ dm_notes: important
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 %% needs whereabouts, campaign info updates; some cleanup to reflect various updates; needs to convert chronology to tagged dates%%
-
 ## Overview
+![[vola.png|right|300]]A Chardonian adventurer, treasure hunter, and sellsword.
 
-A Chardonian adventurer, treasure hunter, and sellsword.
-
-Vola was born on the streets of [[Chardon]], living a life of squalor, disease, and poverty. Grew up in the Riverside slurms, near the chalyte refineries. %%SECRET[1]%% Eventually discovered by [[Agon]], who helped her grow into her power and fulfill her potential. %%SECRET[2]%% She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [[Agon]] and the [[Society of the Open Scroll]]. 
+Vola was born on the streets of [[Chardon]], living a life of squalor, disease, and poverty. She grew up in the [[Riverside Quarter|Riverside]] slurms, near the chalyte refineries. %%SECRET[1]%% Eventually, she was discovered by [[Agon]], who helped her grow into her power and fulfill her potential. %%SECRET[2]%% She moved to the Academy district, specifically the Whitsun Tower area, and grew into her talents as a scout and rogue, eventually becoming a treasure hunter effectively working for [[Agon]] and the [[Society of the Open Scroll]]. 
 
 She is dedicated to the cause of the [[Society of the Open Scroll]], believing in their mission to secure dangerous knowledge from those who would use it for harm, and to preserve magic for future generations.%%SECRET[3]%%
 
 %%SECRET[4]%%
-
-![[vola.png|400]]
-
 ## Relationships
 
 - Friendly with [[Dunmar Fellowship]], especially with [[Kenzo]], who had a similar childhood in Chardon. Somewhat awed by [[Delwath]]. Less friendy with [[Riswynn]], largely because or [[Riswynn]]'s distain. 
