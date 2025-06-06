@@ -102,8 +102,6 @@ Members of the crew who have moved on to other things since traveling on [[Vindr
 
 ## Traveling Companions
 
-*still needs cleanup*
-
 People who have traveled with the [[Dunmar Fellowship]] in various contexts. 
 
 <div class="grid cards ext-narrow-margin" markdown>
@@ -111,35 +109,46 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
 -   [[Vola]]
     ---
     ![[vola.png|120]]
-     A Chardonian adventurere, the party rescued Vola from [[Raven's Hold]], and she traveled with them for a time before parting company. Later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]] and forced to fight the party; after being captured, she was eventually freed after [[Riswynn]] claimed the [[Crown of Purity]]. 
+     A Chardonian adventurere, the party rescued Vola from [[Raven's Hold]], and she traveled with them for a time before parting company. Later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]] and forced to fight the party; after being captured, she was eventually freed when [[Riswynn]] claimed the [[Crown of Purity]]. 
 
 -   [[Garret Tealeaf]]
     ---
-    ![[agata-portrait.png|120]]
+    ![[garret-tealeaf.jpg|120]]
      A halfling rescued by the party from [[Agata|Agata Dustmother]], who had imprisoned him as a puppet. He joined the party traveling from [[Karawa]] to [[Tokra]]. 
 
 -   [[Johar]]
     ---
-    ![[dunmar-november-1748.jpg|120]]
+    ![[johar.jpg|120]]
      A Dunmari, a member of the [[Lakan Mystai]] and a friend of [[Kenzo]]'s from his days at the [[Lakan Monastery]]. Johar traveled with the party from [[Tokra]] to [[Darba]] on orders from [[Lara]] to negotiate with [[Nayan Karnas|Karnas]]. 
+     
+-   [[Theba]]
+    ---
+    ![[theba.jpg|120]]
+     A Deno'qai paladin who the party helped escape from her village, which had fallen under the sway of [[Mezzar]]. Later, she joined with the party to help them defeat [[Mezzar|Grimbaskal]].
      
 -   [[Tilly Brineheart]]
     ---
-    ![[summers-breeze-underway.jpg|120]]
+    ![[tilly-brineheart.jpg|120]]
      A halfling sailor and adventurer, wife of [[Milo Thistlefoot]], rescued from being imprisoned on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]], who then traveled to the [[~Circular Island~]] and helped defeat [[Ra'ghemdros]] before setting of to explore. 
-
  
 -   [[Milo Thistlefoot]]
     ---
-    ![[summers-breeze-underway.jpg|120]]
+    !![[milo-thistlefoot.jpg|120]]
      A halfling sailor and adventurer, husband of [[Tilly Brineheart]], rescued from being imprisoned on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]], who then traveled to the [[~Circular Island~]] and helped defeat [[Ra'ghemdros]] before setting of to explore. 
 
+ -   [[Ismara]]
+    ---
+    !![[ismara.jpg|120]]
+     A fey traveler and scholar from [[Gleamwater]], who joined the party for a short time in [[Emberwine]], guiding them east to the [[Sunset Gate]] before parting ways.
+
+ -   [[Valeris]]
+    ---
+    !![[valeris.jpg|120]]
+     A satyr musician and gambler, part of the court of [[Lord Soven]], who was cursed to always speak the blunt, honest truth. He joined the party in their quest to free [[Cloudspinner]] in the hopes that a selfless act could release him from his curse.
+     
 </div>
 
-[[Valeris]]
-[[Ismara]]
-
-## Captives
+## Captives and Former Captives
 
 *still needs cleanup*
 
@@ -151,7 +160,7 @@ These people are still trapped in the [[Mirror of Soul Trapping]], with no immed
 [[Antonia]]
 Kinzal mage and messenger
 
-These people have been released and are recosvering on [[Vindristjarna]]:
+These people have been released and are recovering on [[Vindristjarna]]:
 [[Hektor]]
 [[Vargus]]
 [[Valius]]

@@ -15,7 +15,7 @@ dm_owner: tim
 > A [[Fey|fey]] (satyr)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Valeris is a satyr, a musician and gambler, cursed to speak only the absolute truth, unable even to sugar coat his words with lies of omission. 
+![[valeris.jpg|right|300]]Valeris is a satyr, a musician and gambler, cursed to speak only the absolute truth, unable even to sugar coat his words with lies of omission. 
 
 He is lean and rakish, with curling ram’s horns wrapped in gold rings, and half-buttoned silk shirt. His eyes twinkle with mischief he can no longer act on, and his mouth twitches constantly, but whether in irritation or the desperate effort to hold his tongue is hard to tell. 
 
