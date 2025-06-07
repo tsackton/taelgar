@@ -23,4 +23,4 @@ dm_owner: tim
 
 Supreme Oracle of Shakun.
 
-![[cintra-portrait.png]]
+![[cintra.jpg]]

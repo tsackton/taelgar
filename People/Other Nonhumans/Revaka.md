@@ -21,7 +21,7 @@ dm_notes: important
 >> %%^Campaign:dufr%% Interrogated by the [[Dunmar Fellowship]] on June 15th, 1748 in the [[Mirror of Soul Trapping]] %%^End%%  
 >> %%^Campaign:dufr%% Interrogated by the [[Dunmar Fellowship]] on May 20th, 1749 in the [[Mirror of Soul Trapping]] %%^End%%
 
-A hobgoblin who has been trapped in the [[Mirror of Soul Trapping]] for centuries. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
+![[revaka.jpg|right|350]]A hobgoblin who has been trapped in the [[Mirror of Soul Trapping]] for centuries. A fairly powerful sorcerer from before the [[Great War]], trapped by [[Cha'mutte]] for refusing to join his war. 
 
 %%SECRET[1]%%
 
