@@ -164,3 +164,4 @@ These people have been released and are recovering on [[Vindristjarna]]:
 [[Hektor]]
 [[Vargus]]
 [[Valius]]
+
