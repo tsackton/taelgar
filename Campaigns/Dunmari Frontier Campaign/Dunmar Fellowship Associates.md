@@ -51,7 +51,7 @@ The rotating cast of character that serve as the crew of Vindristjarna.
 Although most of the hirelings, crew, and followers associated with the [[Dunmar Fellowship]] are based on [[Vindristjarna]], some are elsewhere. 
 
 
-<div class="grid cards ext-narrow-margin" markdown>
+<div class="grid cards" markdown>
 
 -  [[Kethra|Kethra Silverspark]]
  
@@ -78,7 +78,6 @@ Although most of the hirelings, crew, and followers associated with the [[Dunmar
     A [[Tollender|Tollen]] factor and agent, with a history of working for the [[Goodbarrels]]. Now serves as the [[Dunmar Fellowship]]'s representative in Tollen, managing trade goods and contracts. Based in [[Tollen]]. 
 
 </div>
-
 
 ## Former Crew and Hirelings
 
@@ -109,7 +108,22 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
 -   [[Vola]]
     ---
     ![[vola.png|120]]
-     A Chardonian adventurere, the party rescued Vola from [[Raven's Hold]], and she traveled with them for a time before parting company. Later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]] and forced to fight the party; after being captured, she was eventually freed when [[Riswynn]] claimed the [[Crown of Purity]]. 
+     A Chardonian adventurer, the party rescued Vola from [[Raven's Hold]], and she traveled with them for a time before parting company. Later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]] and forced to fight the party; after being captured, she was eventually freed when [[Riswynn]] claimed the [[Crown of Purity]]. 
+
+-   [[Havdar]]
+    ---
+    ![[havdar.png|120]]
+     The [[Dunmar Fellowship]] traveled into the [[Garamjala Desert]] east of [[Karawa]] with [[Havdar]] and his [[Havdar's Warband|warband]] while investigating rumors of orcs and other strange happenings. 
+
+-  [[Cintra]]
+    ---
+    ![[cintra.jpg|120]]
+     The Supreme Oracle of [[Shakun]], who the party rescued from [[Agata|Agata Dustmother]]'s trap at [[Shakun’s Wellspring]]. Traveled with the party back to [[Karawa]], after her daughter [[Jumi]] was freed from [[Agata]]'s curse. 
+
+-  [[Jumi]]
+    ---
+    ![[jumi.jpg|120]]
+     The young daughter of [[Cintra]]. Captured by [[Agata]] and cursed; freed by [[Seeker]]. Traveled with the party back to [[Karawa]]. 
 
 -   [[Garret Tealeaf]]
     ---
@@ -120,7 +134,12 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
     ---
     ![[johar.jpg|120]]
      A Dunmari, a member of the [[Lakan Mystai]] and a friend of [[Kenzo]]'s from his days at the [[Lakan Monastery]]. Johar traveled with the party from [[Tokra]] to [[Darba]] on orders from [[Lara]] to negotiate with [[Nayan Karnas|Karnas]]. 
-     
+
+- [[Justan]]
+    ---
+    ![[justan.jpg|120]]
+     A Dunmari bandit hiding in the [[Copper HIlls]], convinced by [[Delwath]] to join the party and fight a dragon (which turned out to be a wyvern). Killed by [[Casian]]. 
+
 -   [[Theba]]
     ---
     ![[theba.jpg|120]]
@@ -150,18 +169,45 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
 
 ## Captives and Former Captives
 
-*still needs cleanup*
-
-Prisoners and captives. 
-
 These people are still trapped in the [[Mirror of Soul Trapping]], with no immediate plans to be released:
 
-[[Revaka]]
-[[Antonia]]
-Kinzal mage and messenger
+<div class="grid cards ext-narrow-margin" markdown>
 
-These people have been released and are recovering on [[Vindristjarna]]:
-[[Hektor]]
-[[Vargus]]
-[[Valius]]
+-   [[Revaka]]
+    ---
+    ![[revaka.jpg|120]]
+     A hobgoblin wizard, trapped in the [[Mirror of Soul Trapping]] since before the [[Great War]].  
+
+-   [[Antonia]]
+    ---
+    ![[antonia-portrait.jpg|120]]
+     An artificer, follower of [[Kadmos]], and member of the [[Society of the Open Scroll]]. Imprisoned, instead of executed, after reacting in horror to the news that [[Fausto]]'s true master was the lich [[Apollyon]]. The [[Dunmar Fellowship]] agreed to release her on the edge of the [[Chardonian Empire]] in a few years. 
+
+ -   [[Slavomir]]
+    ---
+    !![[slavomir.jpg|120]]
+     A wizard of the [[Rodnya Kinzal]], captured in [[Shadowkeep]] while secretly negotiating  with [[Rhodar von Glauer]]. 
+     
+</div>
+
+These people have been released and are recovering on [[Vindristjarna]], or sent on their way. 
+
+<div class="grid cards ext-narrow-margin" markdown>
+
+-   [[Hektor]]
+    ---
+    ![[hektor.png|120]]
+    A Chardonian warrior, who served for several years as [[Kadmos]]' enforcer under the control of the [[Crown of Purity]], until the control was broken by [[Riswynn]]. Once was a sailor with a sweet singing voice. Currently being tended by [[Wellby]] to help him remember his old life.
+
+-   [[Valius]]
+    ---
+    ![[valius.png|120]]
+    A warrior ensnared by the machinations of [[Fausto]] and the twin brother of [[Vargus]]. Released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
+
+ -   [[Vargus]]
+    ---
+    !![[vargus.png|120]]
+     A warrior ensnared by the machinations of [[Fausto]] and the twin brother of [[Valius]]. Released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
+     
+</div>
 
