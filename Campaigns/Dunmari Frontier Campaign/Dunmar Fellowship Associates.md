@@ -105,66 +105,19 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
 
 <div class="grid cards ext-narrow-margin" markdown>
 
--   [[Vola]]
-    ---
-    ![[vola.png|120]]
-     A Chardonian adventurer, the party rescued Vola from [[Raven's Hold]], and she traveled with them for a time before parting company. Later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]] and forced to fight the party; after being captured, she was eventually freed when [[Riswynn]] claimed the [[Crown of Purity]]. 
+- ![[vola.png|left|120]][[Vola]], a Chardonian adventurer rescued from [[Raven's Hold]]. She traveled with the party until parting ways outside [[Stormcaller Tower]]; later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]], forced to fight the party, and captured in the [[Mirror of Soul Trapping]]. She was freed when [[Riswynn]] claimed the [[Crown of Purity]] and is currently on [[Vindristjarna]]. 
+- ![[havdar.png|left|120]][[Havdar]] and his [[Havdar's Warband|warband]] travelled with the [[Dunmar Fellowship]] for a time in the [[Garamjala Desert]], while investigating rumors of orcs and other strange happenings. 
+- ![[cintra.jpg|left|120]][[Cintra]], the Supreme Oracle of [[Shakun]], was rescued from[[Agata|Agata Dustmother]]'s trap at [[Shakun’s Wellspring]] by the [[Dunmar Fellowship]], and traveled with the party back to [[Karawa]]. 
+- ![[jumi.jpg|left|120]][[Jumi]], the young daughter of [[Cintra]], was freed from [[Agata]]'s curse by [[Seeker]] and traveled with the party back to [[Karawa]]. 
+- ![[garret-tealeaf.jpg|left|120]][[Garret Tealeaf]] was rescued by the [[Dunmar Fellowship]] from [[Agata|Agata Dustmother]], who had imprisoned him as a puppet. He traveled with the party from [[Karawa]] to [[Tokra]]. 
+- ![[johar.jpg|left|120]][[Johar]], a Dunmari member of the [[Lakan Mystai]] and a friend of [[Kenzo]]'s from his days at the [[Lakan Monastery]], traveled with the party from [[Tokra]] to [[Darba]] on orders from [[Lara]] to negotiate with [[Nayan Karnas|Karnas]]. 
+- ![[justan.jpg|left|120]][[Justan]], a Dunmari bandit hiding in the [[Copper HIlls]], was convinced by [[Delwath]] to join the party and fight a dragon (which turned out to be a wyvern); he was killed by [[Casian]] soon after.
+- ![[theba.jpg|left|120]][[Theba]] is a [[Deno'qai]] paladin; the [[Dunmar Fellowship]] helped her escape from her village, which had fallen under the sway of [[Mezzar]]. Later, she joined with the party to help them defeat [[Mezzar|Grimbaskal]].
+- ![[tilly-brineheart.jpg|left|120]][[Tilly Brineheart]], a halfling sailor and adventurer and wife of [[Milo Thistlefoot]], was rescued from imprisonment on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]]. She traveled with the party to the [[~Circular Island~]] and helped defeat [[Ra'ghemdros]] before setting of to explore. 
+- ![[milo-thistlefoot.jpg|left|120]][[Milo Thistlefoot]], a halfling sailor and adventurer and husband of [[Tilly Brineheart]], was rescued from imprisonment on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]]. He traveled with the party to the [[~Circular Island~]] and helped defeat [[Ra'ghemdros]] before setting of to explore. 
+ - ![[ismara.jpg|left|120]][[Ismara]], a fey traveler and scholar from [[Gleamwater]], joined the party for a short time in [[Emberwine]], guiding them east to the [[Sunset Gate]] before parting ways.
+ - ![[valeris.jpg|left|120]][[Valeris]], a satyr musician and gambler, part of the court of [[Lord Soven]], cursed to always speak the blunt, honest truth, joined the party in their quest to free [[Cloudspinner]] in the hopes that a selfless act could release him from his curse.
 
--   [[Havdar]]
-    ---
-    ![[havdar.png|120]]
-     The [[Dunmar Fellowship]] traveled into the [[Garamjala Desert]] east of [[Karawa]] with [[Havdar]] and his [[Havdar's Warband|warband]] while investigating rumors of orcs and other strange happenings. 
-
--  [[Cintra]]
-    ---
-    ![[cintra.jpg|120]]
-     The Supreme Oracle of [[Shakun]], who the party rescued from [[Agata|Agata Dustmother]]'s trap at [[Shakun’s Wellspring]]. Traveled with the party back to [[Karawa]], after her daughter [[Jumi]] was freed from [[Agata]]'s curse. 
-
--  [[Jumi]]
-    ---
-    ![[jumi.jpg|120]]
-     The young daughter of [[Cintra]]. Captured by [[Agata]] and cursed; freed by [[Seeker]]. Traveled with the party back to [[Karawa]]. 
-
--   [[Garret Tealeaf]]
-    ---
-    ![[garret-tealeaf.jpg|120]]
-     A halfling rescued by the party from [[Agata|Agata Dustmother]], who had imprisoned him as a puppet. He joined the party traveling from [[Karawa]] to [[Tokra]]. 
-
--   [[Johar]]
-    ---
-    ![[johar.jpg|120]]
-     A Dunmari, a member of the [[Lakan Mystai]] and a friend of [[Kenzo]]'s from his days at the [[Lakan Monastery]]. Johar traveled with the party from [[Tokra]] to [[Darba]] on orders from [[Lara]] to negotiate with [[Nayan Karnas|Karnas]]. 
-
-- [[Justan]]
-    ---
-    ![[justan.jpg|120]]
-     A Dunmari bandit hiding in the [[Copper HIlls]], convinced by [[Delwath]] to join the party and fight a dragon (which turned out to be a wyvern). Killed by [[Casian]]. 
-
--   [[Theba]]
-    ---
-    ![[theba.jpg|120]]
-     A Deno'qai paladin who the party helped escape from her village, which had fallen under the sway of [[Mezzar]]. Later, she joined with the party to help them defeat [[Mezzar|Grimbaskal]].
-     
--   [[Tilly Brineheart]]
-    ---
-    ![[tilly-brineheart.jpg|120]]
-     A halfling sailor and adventurer, wife of [[Milo Thistlefoot]], rescued from being imprisoned on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]], who then traveled to the [[~Circular Island~]] and helped defeat [[Ra'ghemdros]] before setting of to explore. 
- 
--   [[Milo Thistlefoot]]
-    ---
-    !![[milo-thistlefoot.jpg|120]]
-     A halfling sailor and adventurer, husband of [[Tilly Brineheart]], rescued from being imprisoned on the [[Elemental Plane of Water]] by the [[Dunmar Fellowship]], who then traveled to the [[~Circular Island~]] and helped defeat [[Ra'ghemdros]] before setting of to explore. 
-
- -   [[Ismara]]
-    ---
-    !![[ismara.jpg|120]]
-     A fey traveler and scholar from [[Gleamwater]], who joined the party for a short time in [[Emberwine]], guiding them east to the [[Sunset Gate]] before parting ways.
-
- -   [[Valeris]]
-    ---
-    !![[valeris.jpg|120]]
-     A satyr musician and gambler, part of the court of [[Lord Soven]], who was cursed to always speak the blunt, honest truth. He joined the party in their quest to free [[Cloudspinner]] in the hopes that a selfless act could release him from his curse.
-     
 </div>
 
 ## Captives and Former Captives
@@ -173,41 +126,19 @@ These people are still trapped in the [[Mirror of Soul Trapping]], with no immed
 
 <div class="grid cards ext-narrow-margin" markdown>
 
--   [[Revaka]]
-    ---
-    ![[revaka.jpg|120]]
-     A hobgoblin wizard, trapped in the [[Mirror of Soul Trapping]] since before the [[Great War]].  
-
--   [[Antonia]]
-    ---
-    ![[antonia-portrait.jpg|120]]
-     An artificer, follower of [[Kadmos]], and member of the [[Society of the Open Scroll]]. Imprisoned, instead of executed, after reacting in horror to the news that [[Fausto]]'s true master was the lich [[Apollyon]]. The [[Dunmar Fellowship]] agreed to release her on the edge of the [[Chardonian Empire]] in a few years. 
-
- -   [[Slavomir]]
-    ---
-    !![[slavomir.jpg|120]]
-     A wizard of the [[Rodnya Kinzal]], captured in [[Shadowkeep]] while secretly negotiating  with [[Rhodar von Glauer]]. 
-     
+-  ![[revaka.jpg|left|120]][[Revaka]], a hobgoblin wizard, trapped in the [[Mirror of Soul Trapping]] since before the [[Great War]].  
+-  ![[antonia-portrait.jpg|left|120]][[Antonia]], an artificer, follower of [[Kadmos]], and member of the [[Society of the Open Scroll]], was imprisoned, instead of executed, after reacting in horror to the news that [[Fausto]]'s true master was the lich [[Apollyon]]. The [[Dunmar Fellowship]] agreed to release her on the edge of the [[Chardonian Empire]] in a few years. 
+ - ![[slavomir.jpg|left|120]][[Slavomir]], a wizard of the [[Rodnya Kinzal]], was captured in [[Shadowkeep]] while secretly negotiating with [[Rhodar von Glauer]]. 
+ 
 </div>
 
 These people have been released and are recovering on [[Vindristjarna]], or sent on their way. 
 
 <div class="grid cards ext-narrow-margin" markdown>
 
--   [[Hektor]]
-    ---
-    ![[hektor.png|120]]
-    A Chardonian warrior, who served for several years as [[Kadmos]]' enforcer under the control of the [[Crown of Purity]], until the control was broken by [[Riswynn]]. Once was a sailor with a sweet singing voice. Currently being tended by [[Wellby]] to help him remember his old life.
+- ![[hektor.png|left|120]][[Hektor]], a Chardonian warrior who served for several years as [[Kadmos]]' enforcer under the control of the [[Crown of Purity]], until the control was broken by [[Riswynn]]. He was once a sailor with a sweet singing voice. Currently in the [[Mirror of Soul Trapping]], being tended by [[Wellby]] to help him remember his old life.
+- ![[valius.png|left|120]][[Valius]], a warrior ensnared by the machinations of [[Fausto]], and the twin brother of [[Vargus]], was released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
+ - ![[vargus.png|120]][[Vargus]], a warrior ensnared by the machinations of [[Fausto]], and the twin brother of [[Valius]], was released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
 
--   [[Valius]]
-    ---
-    ![[valius.png|120]]
-    A warrior ensnared by the machinations of [[Fausto]] and the twin brother of [[Vargus]]. Released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
-
- -   [[Vargus]]
-    ---
-    !![[vargus.png|120]]
-     A warrior ensnared by the machinations of [[Fausto]] and the twin brother of [[Valius]]. Released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
-     
 </div>
 
