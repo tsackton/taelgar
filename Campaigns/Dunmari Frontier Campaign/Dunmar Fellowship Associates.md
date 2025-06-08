@@ -106,7 +106,7 @@ People who have traveled with the [[Dunmar Fellowship]] in various contexts.
 <div class="grid cards ext-narrow-margin" markdown>
 
 - ![[vola.png|left|120]][[Vola]], a Chardonian adventurer rescued from [[Raven's Hold]]. She traveled with the party until parting ways outside [[Stormcaller Tower]]; later, she was mind controlled by [[The Cleansed]] using the [[Crown of Purity]], forced to fight the party, and captured in the [[Mirror of Soul Trapping]]. She was freed when [[Riswynn]] claimed the [[Crown of Purity]] and is currently on [[Vindristjarna]]. 
-- ![[havdar.png|left|120]][[Havdar]] and his [[Havdar's Warband|warband]] travelled with the [[Dunmar Fellowship]] for a time in the [[Garamjala Desert]], while investigating rumors of orcs and other strange happenings. 
+- ![[havdar.jpg|left|120]][[Havdar]] and his [[Havdar's Warband|warband]] travelled with the [[Dunmar Fellowship]] for a time in the [[Garamjala Desert]], while investigating rumors of orcs and other strange happenings. 
 - ![[cintra.jpg|left|120]][[Cintra]], the Supreme Oracle of [[Shakun]], was rescued from[[Agata|Agata Dustmother]]'s trap at [[Shakun’s Wellspring]] by the [[Dunmar Fellowship]], and traveled with the party back to [[Karawa]]. 
 - ![[jumi.jpg|left|120]][[Jumi]], the young daughter of [[Cintra]], was freed from [[Agata]]'s curse by [[Seeker]] and traveled with the party back to [[Karawa]]. 
 - ![[garret-tealeaf.jpg|left|120]][[Garret Tealeaf]] was rescued by the [[Dunmar Fellowship]] from [[Agata|Agata Dustmother]], who had imprisoned him as a puppet. He traveled with the party from [[Karawa]] to [[Tokra]]. 
@@ -138,7 +138,7 @@ These people have been released and are recovering on [[Vindristjarna]], or sent
 
 - ![[hektor.png|left|120]][[Hektor]], a Chardonian warrior who served for several years as [[Kadmos]]' enforcer under the control of the [[Crown of Purity]], until the control was broken by [[Riswynn]]. He was once a sailor with a sweet singing voice. Currently in the [[Mirror of Soul Trapping]], being tended by [[Wellby]] to help him remember his old life.
 - ![[valius.png|left|120]][[Valius]], a warrior ensnared by the machinations of [[Fausto]], and the twin brother of [[Vargus]], was released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
- - ![[vargus.png|120]][[Vargus]], a warrior ensnared by the machinations of [[Fausto]], and the twin brother of [[Valius]], was released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
+ - ![[vargus.png|left|120]][[Vargus]], a warrior ensnared by the machinations of [[Fausto]], and the twin brother of [[Valius]], was released by the [[Dunmar Fellowship]] outside [[Tokra]] to make a new life with his brother. 
 
 </div>
 

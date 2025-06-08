@@ -6,34 +6,32 @@ sessionNumber: 125
 realWorldDate: 2025-06-03
 DR: 1749-06-27
 DR_end: 1749-06-27
-players: [Delwath, Kenzo, Wellby, Riswynn]
+players: [Delwath, Kenzo, Wellby]
 companions: []
 tagline: in which the party confronts suspicion and seeds revolution
-descTitle: Chardon in Ash and Shadow
+descTitle: Return to Chardon 
 ---
 # Dunmari Frontier - Session 125
 
->[!info] Chardon in Ash and Shadow: in which the party confronts suspicion and seeds revolution
-> *Featuring: [[Delwath]], [[Kenzo]], [[Wellby]], [[Riswynn]]*
+>[!info]  Return to Chardon: in which the party confronts suspicion and seeds revolution
+> *Featuring: [[Delwath]], [[Kenzo]], [[Wellby]]*
 > *In Taelgar: Jun 27, 1749 DR*
 > *On Earth: Tuesday Jun 03, 2025*
-> *Location: Chardon: Chelite Levels, slums, and Arturian’s Pride*
+> *Location: [[Chardon]]*
 
-The party returns to a devastated Chardon, reconnects with resistance leaders, and undergoes tense interrogation while planning a new future for the beleaguered city.
-
+The party returns to a devastated Chardon, connects with resistance leaders, and undergoes tense interrogation while planning a new future for the beleaguered city.
 ## Session Info
 ### Summary
-- The group covertly re-enters crisis-stricken Chardon using shapeshifting magic, observing severe damage, martial law, and a fractured power structure after Fausto’s downfall.
-- They reconnect with Kenzo’s old ally Xavier, learning firsthand of famine and chaos, and share hospitality with his struggling family in the slums.
-- At the Cackling Swan tavern, the party meets resistance leaders Andros, Orsino, and Red, mediates heated debate over destroying chelite refineries, and guides them toward organized, peaceful change.
-- A magical lynx delivers a summons from Tiberius Windcaller; the party evades suspicion by approaching his ship as seagulls but is immediately trapped in a powerful magical cage upon revealing themselves.
-- The Windcaller’s apprentice Tim interrogates the group, pressing for proof they are not clone imposters or servants of Fausto, amid rising distrust over magical disasters and lost artifacts.
-- The companions ultimately agree to psychic inspection and surrender of magic items to prove their intentions, convincing Tiberius of their honesty and gaining his guarded support for their revolutionary efforts.
-- Tiberius shares critical insights on Chardon's chalyte politics and factions, warning of corruption and advising the party on negotiating with the city’s rulers.
-- The session closes with the party preparing strategies to empower workers and unite the resistance ahead of imminent, perilous negotiations with the city’s leaders.
+- The [[Dunmar Fellowship]], leaving [[Seeker]] behind on [[Vindristjarna]], covertly re-enters crisis-stricken [[Chardon]] using shapeshifting magic, observing severe damage, martial law, and a fractured power structure after [[Fausto]]’s downfall.
+- They reconnect with [[Kenzo]]’s old friend [[Xavier]], learning firsthand of famine and chaos, and share hospitality with his struggling family in the [[Chalyte Levels|slums]].
+- At the [[Cackling Swan]] tavern, the party meets resistance leaders [[Andros]], [[Orsino]], and [[Red]], mediates heated debate over destroying [[chalyte]] refineries, and guides them toward organized, peaceful change.
+- [[Delwath]]'s magical lynx delivers a letter from [[Tiberius]], the [[Windcallers|Windcaller]] of the naval ship [[Auratan's Pride]]. The party approaches his ship as seagulls but is immediately trapped in a powerful magical cage upon revealing themselves.
+- [[Tiberius]] interrogates the group, pressing for proof they are not clone imposters or servants of [[Fausto]], amid rising distrust over magical disasters and lost artifacts.
+- The companions ultimately agree to temporarily surrender their magic items and undergo psychic inspection to prove their intentions, convincing [[Tiberius]] of their honesty and gaining his guarded support.
+- [[Tiberius]] shares critical insights on Chardon's [[Politics of Chalyte (Chardonian Empire)|chalyte politics]] and factions, warning of corruption and advising the party on negotiating with the [[Mitus Verina Auratan|city’s ruler]].
 ## Narrative
 
-Amid swirling fog on Vindristjarna, seventy miles from Chardon, the freed prisoners Valius, Vargas, Vola, and Hector each lingered within the strange effects of recent magical captivity. Valius gradually recognized that his brother was close, even as muddled thoughts slowed all sense of time. In his own haze, Vargas clung to the familiarity of Valius’s presence, piecing together scattered memories and uncertain freedom. Vola awoke in anger and confusion, determined to seek answers and retribution for her betrayal. Hector, once bound by oppressive magic-songs, now recalled fragments of his true self—memories of the sea and the voices of companions.
+Amid swirling fog on Vindristjarna, seventy miles from Chardon, the freed prisoners Valius, Vargas, Vola, and Hektor each lingered within the strange effects of recent magical captivity. Valius gradually recognized that his brother was close, even as muddled thoughts slowed all sense of time. In his own haze, Vargas clung to the familiarity of Valius’s presence, piecing together scattered memories and uncertain freedom. Vola awoke in anger and confusion, determined to seek answers and retribution for her betrayal. Hector, once bound by oppressive magic-songs, now recalled fragments of his true self—memories of the sea and the voices of companions.
 
 With the prisoners either delivered safely to new lives or lost in their own reverie, the party—helped by Kenzo’s old friend Xavier—looked to the troubled city of Chardon. Seeker, ever resourceful, conjured a simulacrum and devised means to infiltrate the city unseen, discussing submersion beneath the waters with Faldrak’s magical ice shell or flying in as seagulls using powerful transformation magic.
 
