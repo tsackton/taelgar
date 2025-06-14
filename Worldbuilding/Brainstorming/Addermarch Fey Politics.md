@@ -4,9 +4,11 @@ The rough dynamic of this place is unsettled. In the Feywild, the Sunset Gate pr
 
 At least three major powers control territory in this area:
 
-(1) [[Lord Serenveil]]. An ally of [[Archfey Ethlenn]], although exactly how close an ally is not determined, and this may be more of a "joint enemies of [[Lord Umbraeth]] than anything else." Serenveil has his own interests in the Material Plane, and is the patron of a secret cult that involves many of the  [[de Brunes]] and possibly others. The details of this cult are unknown but may eventually become relevant to the Addermarch campaign. In any case, Serenveil is through the 1710s and 1720s actively working against Umbraeth's expansion. 
+(1) [[Lord Serenveil]]. An ally of [[Archfey Ethlenn]], although exactly how close an ally is not determined, and this may be more of a "joint enemies of [[Lord Umbraeth]] than anything else." Serenveil has his own interests in the Material Plane, and is the patron of a secret cult that involves many of the  [[de Brunes]] and possibly others. The details of this cult are unknown but may eventually become relevant to the Addermarch campaign. In any case, Serenveil is through the 1710s and 1720s actively working against Umbraeth's expansion. Territory in gray, below; red cross-hatches show active conflict with Umbraeth. 
 
-(2) [[Morlaith]], also known as Grymholt, the Briarheart, Keeper of the Thornweald, Lord of the Hidden Hollows. Morlaith is an ancient entity, a being predating even the arrival of [[Archfey Ethlenn]] perhaps, who once 
+(2) [[Morlaith]], also known as Grymholt, the Briarheart, Keeper of the Thornweald, Lord of the Hidden Hollows. Morlaith is an ancient entity, a being perhaps predating even the arrival of [[Archfey Ethlenn]]. Once controlled more territory, but has gradually shrunk to claim now mostly the hills and river valleys of western Addermarch. Morlaith is very explicitly not interested in the Ethlenn/Umbraeth conflict, and generally sees humans as insignificant, not worth even thinking about as they last only a blink of an eye. Vibe is very much the kind of "old world European" classic fairy tale. Morlaith is deeply dangerous, but not in the way Umbraeth for example is actively investing in messing with humans. Many of the ancient standing stones around Addermarch may warn of Morlaith. 
+
+(3) [[Calanthe|Lady Calanthë]], Sentinel of the Setting Sun, is a close ally of [[Archfey Ethlenn]], who guards a realm congruent with the hills on the western border of Tyrwingha, in eastern Addermarch. Minimal details invented here. 
 
 ![[Pasted image 20250614092406.png]]
 
