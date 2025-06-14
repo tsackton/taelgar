@@ -28,7 +28,7 @@ Glenarven, GLEN-ar-ven, named for a riverside meadow within a valley, highlighti
 
 Glenfara, GLEN-fah-rah, named for a valley known for its distant or far-reaching views, possibly linked to an ancient travel route (with contributions from Gaelic and Old Norse)
 
-Haldrenn, HAL-dren, derived from a rocky ridge, marking a place known for its stone-laden terrain (Norse/Gaelic)
+(USED) ~~Haldrenn, HAL-dren, derived from a rocky ridge, marking a place known for its stone-laden terrain (Norse/Gaelic)~~
 
 (USED) ~~Kilrath, kil-RATH, derived from a church near an ancient ringfort, highlighting its roots as a religious and fortified site~~
 
@@ -40,7 +40,7 @@ Storncleft, STORN-kleft, derived from a storm-swept ravine, marking a dramatic a
 
 Tairneach, TAR-nekh, named for its association with thunder, hinting at a place known for powerful weather
 
-Torvaine, TOR-vayn, derived from a rocky hill and slope, indicating a village nestled on or near a prominent incline
+(USED) ~~Torvaine, TOR-vayn, derived from a rocky hill and slope, indicating a village nestled on or near a prominent incline~~
 
 (USED) ~~Tygate, TY-gayt, named for a dwelling near a prominent road or entrance (with contributions from Old English and Norse influences)~~
 
