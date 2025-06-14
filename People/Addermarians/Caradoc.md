@@ -3,13 +3,13 @@ headerVersion: 2023.11.25
 tags: [person, status/stub]
 species: human
 gender: male
-born: 1689
+born: 1653
 dm_notes: none
 dm_owner: tim
 ---
 # Caradoc
 >[!info]+ Biographical Info  
-> A [[Humans|human]] (he/him)  
+> An Addermarian [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`
 
 %% NOTES
