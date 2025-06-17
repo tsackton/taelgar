@@ -6,7 +6,7 @@ typeOf: town
 pronunciation: RAH-veen-yak
 whereabouts: Bramshire
 dm_owner: none
-dm_notes: color
+dm_notes: none
 ---
 # Ravignac
 *(RAH-veen-yak)*
