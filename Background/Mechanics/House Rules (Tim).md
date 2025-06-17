@@ -1,6 +1,8 @@
 ---
 excludePublish: ["clee"]
 tags: [meta]
+dm_owner: tim
+dm_notes: none
 ---
 ## Character Creation
 

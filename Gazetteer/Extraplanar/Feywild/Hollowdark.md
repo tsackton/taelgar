@@ -4,6 +4,8 @@ tags: [place]
 whereabouts: feywild
 typeOf: realm
 ancestry: fey
+dm_owner: tim
+dm_notes: important
 ---
 # Hollowdark
 >[!info]+ Information  

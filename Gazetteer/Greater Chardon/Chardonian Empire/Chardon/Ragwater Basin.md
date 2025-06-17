@@ -4,6 +4,8 @@ tags: [place]
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>", defArt: ""}
 typeOf: neighborhood
 whereabouts: North Bank
+dm_owner: tim
+dm_notes: important
 ---
 # Ragwater Basin
 >[!info]+ Information  

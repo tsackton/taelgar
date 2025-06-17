@@ -1,5 +1,7 @@
 ---
 tags: [meta]
+dm_owner: joint
+dm_notes: none
 ---
 
 # Halfling Species Details

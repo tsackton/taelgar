@@ -5,6 +5,8 @@ displayDefaults: {defArt: ""}
 whereabouts: Amberglow
 typeOf: well
 ancestry: fey
+dm_owner: tim
+dm_notes: important
 ---
 # Prismwell
 >[!info]+ Information  

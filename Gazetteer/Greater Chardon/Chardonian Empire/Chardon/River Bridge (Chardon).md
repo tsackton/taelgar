@@ -5,6 +5,8 @@ name: River Bridge
 typeOf: bridge
 whereabouts: Chardon
 aliases: [River Bridge]
+dm_owner: tim
+dm_notes: color
 ---
 # The River Bridge
 >[!info]+ Information  

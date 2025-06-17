@@ -4,6 +4,8 @@ displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: neighborhood
 whereabouts: North Bank
+dm_owner: tim
+dm_notes: important
 ---
 # Nera Domains
 >[!info]+ Information  

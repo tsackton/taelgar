@@ -1,4 +1,4 @@
 ---
-tags: [place]
+tags: [place, status/stub]
 ---
 

@@ -4,6 +4,8 @@ displayDefaults: {defArt: ""}
 tags: [place]
 typeOf: mountain
 whereabouts: Chardon
+dm_owner: tim
+dm_notes: important
 ---
 # Mount Nera
 >[!info]+ Information  
