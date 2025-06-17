@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: canal
 whereabouts: North Bank
+dm_owner: tim
+dm_notes: none
 ---
 # The Mill Channel
 >[!info]+ Information  

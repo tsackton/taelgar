@@ -6,6 +6,7 @@ typeOf: river
 whereabouts: Forest of Nightmares
 pronunciation: yeh-moh-TEH
 dm_owner: none
+dm_notes: none
 ---
 # Yemo'te
 *(yeh-moh-TEH)*

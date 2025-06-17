@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [item]
 ancestry: fey
 typeOf: glowing crystal
+dm_owner: tim
+dm_notes: important
 ---
 # Amberlight
 >[!info]+ Information  

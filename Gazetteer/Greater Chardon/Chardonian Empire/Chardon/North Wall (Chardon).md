@@ -4,6 +4,8 @@ tags: [place]
 name: North Wall
 typeOf: wall
 whereabouts: North Bank
+dm_owner: tim
+dm_notes: none
 ---
 # The North Wall
 >[!info]+ Information  

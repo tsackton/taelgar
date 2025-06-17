@@ -1,5 +1,7 @@
 ---
 tags: [meta]
+dm_owner: joint
+dm_notes: color
 ---
 
 Currently very much notes, and thinking about how to organize. 

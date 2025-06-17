@@ -4,6 +4,8 @@ tags: [place]
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>" }
 typeOf: neigborhood
 whereabouts: North Bank
+dm_owner: tim
+dm_notes: important
 ---
 # The Riverside Quarter
 >[!info]+ Information  

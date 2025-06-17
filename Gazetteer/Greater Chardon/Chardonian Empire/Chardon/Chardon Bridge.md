@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [place]
 typeOf: bridge
 whereabouts: Chardon
+dm_owner: tim
+dm_notes: none
 ---
 # The Chardon Bridge
 >[!info]+ Information  

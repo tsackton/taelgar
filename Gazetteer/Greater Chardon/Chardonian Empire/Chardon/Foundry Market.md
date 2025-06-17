@@ -4,6 +4,8 @@ tags: [place]
 displayDefaults: {wHome: "<ancestry:UA> <subtypeof:UA> <typeof:UA> <(of )primary> <home:3Fq>" }
 typeOf: market
 whereabouts: Chalyte Levels
+dm_owner: tim
+dm_notes: color
 ---
 # The Foundry Market
 >[!info]+ Information  
