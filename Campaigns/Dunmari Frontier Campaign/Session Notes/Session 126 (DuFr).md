@@ -8,18 +8,18 @@ DR: 1749-06-28
 DR_end: 1749-06-29
 players: [Delwath, Kenzo, Wellby]
 companions: []
-tagline: in which the party uncovers chelite corruption
-descTitle: Shadows Over Chardon’s Chelite Crisis
+tagline: in which the party negotiates over chalyte
+descTitle: The Magistros
 ---
 # Dunmari Frontier - Session 126
 
->[!info] Shadows Over Chardon’s Chelite Crisis: in which the party uncovers chelite corruption
+>[!info] The Magistros: in which the party negotiates over chalyte
 > *Featuring: [[Delwath]], [[Kenzo]], [[Wellby]]*
 > *In Taelgar: Jun 28, 1749 DR to Jun 29, 1749 DR*
 > *On Earth: Monday Jun 09, 2025*
-> *Location: Chardon (primarily Barking Seal tavern, Gaspar’s estate, docks, and Imperial Palace)*
+> *Location: [[Chardon]]*
 
-The companions navigate fractured politics, aid traumatized officials, and strike a pivotal bargain to break Chardon's chelite monopoly.
+The companions navigate fractured politics, aid traumatized officials, and strike a pivotal bargain to bring a new source of [[chalyte]] under the control of the [[Mitus Verina Auratan|Magistros]] of [[Chardon]]. 
 
 ## Session Info
 ### Summary

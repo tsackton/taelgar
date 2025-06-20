@@ -9,6 +9,7 @@ species: human
 whereabouts: Chardon
 dm_notes: important
 dm_owner: tim
+aliases: [Magistros]
 ---
 # Magistros Mitus Verina Auratan
 >[!info]+ Biographical Info  
