@@ -44,9 +44,8 @@ Returning to [[Vindristjarna]], the [[Dunmar Fellowship]] enjoys a rare respite,
 - (DR:: 1749-06-27), morning: [[Vindristjarna]] reaches a holding point off the coast of [[Chardon]], about 150 miles northwest of the city. The party prepares to teleport to [[Chardon]]. 
 
 ### The Mirror of the Past
-- (DR:: 1749-06-16):  *apollyon's crystal ball* (recharge:: mirror)
-- (DR:: 1749-06-23):  *spellbook from Elemental Forge* (recharge:: mirror)
-- 
+- (DR:: 1749-06-16):  Look at [[Apollyon's Crystal Ball]] in the [[Mirror of the Past]], seeing [[Apollyon's Crystal Ball Vision]] (recharge:: mirror)
+- (DR:: 1749-06-23):  Look at the spellbook recovered from the [[Elemental Forge]] in the [[Mirror of the Past]], seeing [[Elemental Forge Spellbook Vision]] (recharge:: mirror)
 ## Narrative
 
 Our session begins as the party returns to [[Vindristjarna]], drifting over [[Pava and Avaras' House]] on the edge of the [[Garamjala Desert]], after weeks of adventuring in the strange light and twisted hours of the [[Feywild]]. The party spends the day at ease: for the first time in months, no shadow pressed the group, no urgent mission required immediate action. [[Wellby]] watched as [[Baxter]] raced after desert lizards; [[Kenzo]] mediated and reconnected with his teachers, [[Pava]] and [[Avaras]], and his student, [[Amil]]; [[Delwath]] relaxed and looked to provisions for an evening feast; [[Seeker]] disappeared below decks, eager to pore over his recovered tomes on the Plane of Fire and plot a path to find his lost brother. 

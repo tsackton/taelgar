@@ -28,7 +28,14 @@ The party returns to a riot-torn [[Chardon]], connects with resistance leaders, 
 - [[Tiberius]] interrogates the group, pressing for proof they are not clone imposters or servants of [[Fausto]], amid rising distrust over magical disasters and lost artifacts.
 - The companions ultimately agree to temporarily surrender their magic items and undergo psychic inspection to prove their intentions, convincing [[Tiberius]] of their honesty and gaining his guarded support.
 - [[Tiberius]] shares critical insights on Chardon's [[Politics of Chalyte (Chardonian Empire)|chalyte politics]] and factions, warning of corruption and advising the party on negotiating with the [[Mitus Verina Auratan|city’s ruler]].
+
+### Timeline
+- (DR:: 1749-06-27), late morning: Arrive in [[Chardon]]. Speak with [[Xavier]] and his family in the [[Chalyte Levels]]. Send a lynx messenger to the [[Mitus Verina Auratan|Magistros]]. 
+- - (DR:: 1749-06-27), afternoon: Meet [[Andros]], [[Red]], and [[Orsino]], members of the [[Eightfold Flame]], at  [[The Cackling Swan]], discuss revolutionary politics. Receive message to meet [[Tiberius]], a [[Windcallers|Windcaller]] in the [[Mitus Verina Auratan|Magistros]]' service.
+- - (DR:: 1749-06-27), evening: Convince [[Tiberius]] they are not clones or possessed by [[Fausto]] or in league with [[The Cleansed]]. 
 ## Narrative
+
+*[[Stories of the Freed Prisoners of the Cleansed]] opens the session.*
 
 We begin on [[Vindristjarna]], seventy miles from Chardon, as the party contemplated their arrival in [[Chardon]], given that [[Delwath]] and [[Kenzo]] still had prices on their heads, accused of causing the [[Pandemonium Incursion in Chardon]]. [[Seeker]], busy with research on the [[Elemental Plane of Fire]], used his powerful transformation magic to turn [[Delwath]], [[Wellby]], and [[Kenzo]], as well as a simulacrum of [[Seeker]] for support should it be needed, into inconspicuous birds. 
 
