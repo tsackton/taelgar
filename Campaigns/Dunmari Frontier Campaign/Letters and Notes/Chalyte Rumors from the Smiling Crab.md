@@ -3,7 +3,7 @@ headerVersion: 2023.11.25
 tags: [source]
 ---
 
-At the halfling inn the [[Smiling Crab]], [[Wellby]] settles in for the night, listening to stories and rumors from the [[halflings]] – mostly merchants and sailors – who have gathered in the common room. 
+At the halfling inn the [[The Smiling Crab]], [[Wellby]] settles in for the night, listening to stories and rumors from the [[halflings]] – mostly merchants and sailors – who have gathered in the common room. 
   
 The halflings, of course, have their own perspective on human dealings. 
 
