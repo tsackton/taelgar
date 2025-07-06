@@ -11,29 +11,26 @@ In [[Addermarch]], thought, the worries of distant kings and queens often seem r
 ## Chapters
 
 The story of the eventful journey to [[Roscombe]], uncovering the mystery of [[Torvaine Watch]], is told in:
-- [[Addermarch - Session 1]]
-- [[Addermarch - Session 2]]
+- [[Addermarch - Session 01]]
+- [[Addermarch - Session 02]]
 
 The story of their first mission for [[Caradoc]], recovering a cockatrice gizzard from a nearby cave, is told in:
-- [[Addermarch - Session 3]]
+- [[Addermarch - Session 03]]
 
 The story of their second mission, recovering an alchemical recipe stolen by a local goblin tribe, is told in:
-- [[Addermarch - Session 4]]
-- [[Addermarch - Session 5]]
+- [[Addermarch - Session 04]]
+- [[Addermarch - Session 05]]
 
 The story of their third and most ambitious mission to date, tracking down the mysterious [[uligium]] for [[Caradoc]], is told in:
-- [[Addermarch - Session 6]]
-- [[Addermarch - Session 7]]
-- [[Addermarch - Session 8]]
-- [[Addermarch - Session 9]]
+- [[Addermarch - Session 06]]
+- [[Addermarch - Session 07]]
+- [[Addermarch - Session 08]]
+- [[Addermarch - Session 09]]
 - [[Addermarch - Session 10]]
 
 The story of the mysterious fey events in the village of [[Haldrenn]] is told in:
 - [[Addermarch - Session 11]]
 
-
-
-## 
 
 %%^Campaign:none%%
 

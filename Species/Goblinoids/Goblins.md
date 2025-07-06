@@ -6,7 +6,7 @@ dm_notes: none
 
 %% notes
 
-don't have any real developed notes, but here are some basic vibes. Goblins have featured in an Addermarch adventure [[Addermarch - Session 4]] and in the 3-session mini-adventure I ran for a few folks: [[LL - Session 1]] and [[LL - Session 2]].
+don't have any real developed notes, but here are some basic vibes. Goblins have featured in an Addermarch adventure [[Addermarch - Session 04]] and in the 3-session mini-adventure I ran for a few folks: [[LL - Session 1]] and [[LL - Session 2]].
 
 From LL:
 

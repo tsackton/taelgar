@@ -15,20 +15,7 @@ You might start with:
 - Information about [[Vindristjarna]], its [[Vindristjarna Mechanics|control mechanics]] and its [[Vindristjarna Bastion Rules|special facilities]].
 - Information about [[Dunmar Fellowship Associates|companions, followers, and hirelings]]. 
 
-The most recent session with published notes is [[Session 124 (DuFr)]]. For background, notes linked from that session are below:
-
-```dataview
-TABLE WITHOUT ID Link, join(split(meta(Link).path,"/",1),"/") as Folder
-FROM "Campaigns/Dunmari Frontier Campaign/Session Notes/Session 124 (DuFr)"
-FLATTEN file.outlinks as Link
-GROUP BY Link
-WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "assets")
-WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "PCs")
-WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "Campaigns")
-WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "Worldbuilding")
-WHERE !contains(join(split(meta(Link).path,"/",2),"/"), "_DM_")
-SORT Folder
-```
+The most recent session with published notes is [[Session 126 (DuFr)]]. 
 
 %%^Campaign:none%%
 
@@ -37,7 +24,7 @@ Dunmar Campaign cleanup / to do list
 - [ ] Clean up main PC pages
 - [ ] Clean up guest pages
 - [ ] Clean up companion pages
-- [ ] Clean up follower pages and figure out how to organize (probably should be via the Dunmar Fellowship page, not this page)
-- [ ] Clean up Vindristjarna details and figure out how to organize (bastion rules, other mechanics, and in-world history as three separate notes is main idea)
+- [x] Clean up follower pages and figure out how to organize (probably should be via the Dunmar Fellowship page, not this page)
+- [x] Clean up Vindristjarna details and figure out how to organize (bastion rules, other mechanics, and in-world history as three separate notes is main idea)
 
 %%^End%%
