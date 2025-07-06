@@ -63,7 +63,14 @@ After nearly a full day of slow walking across the rolling hills and dales of th
 
 The village is quiet as the party arrives, with only some children playing with sheep and a pig. The party speaks with one of the children, a nine-year-old boy named [[Bran]]. From him, they learn that all the adults are out looking for a 6-year-old girl named [[Rowena]], who has been missing for more than a day. She frequently forages to the east of the village, away from the cow pastures, but always returns before nightfall, until now. [[Bran]] also tells the party that [[Olay]] was killed 10 days ago, by an enraged bull, and the funeral is tonight, so everyone should be back soon. According to [[Bran]], people say the problems are because of the [[Morlaith|Briarheart]], some kind of [[fey]] entity who sends Hollow Men to get those who disobey. [[Bran]] doesn't know if this is real or not, but he tells the party the rhyme. 
 
-*Hollow Men rhyme here*
+*Knock, knock, knock;
+The Hollow Man calls.
+Swing, swing, swing;
+His greedy sickle falls.
+Chop, chop, chop; 
+He takes another head.
+Burn, burn, burn;
+The Hollow Man is dead!*
 
 [[Bran]] says his parents -- [[Karl]], who makes charcoal, and [[Isolde of Haldrenn]], Karl's wife -- might know more, so the party goes to speak to them, after leaving [[Fazoth de Brune|Fazoth]]'s pseudodragon on guard to watch the children. Isolde is out, but [[Karl]], a dour, soot-stained man in his 40s, is tending the smoking piles of timber that will be charcoal. [[Karl]] tells them about how [[Olay]]'s bull went crazy and killed [[Olay]] out of nowhere. The bull, as well as cows that similarly started attacking each other, are now tied up. From [[Karl]], the party also learns that [[Helen of Haldrenn]], the local priest, is also something of a collector of stories about the fey, and might know more about the Briarheart. 
 

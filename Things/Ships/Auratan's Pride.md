@@ -1,0 +1,17 @@
+---
+headerVersion: 2023.11.25
+tags: [item/vehicle]
+displayDefaults: {wHome: "Home port: <home>", ruledBy: "<affiliationtitle:t>: <name> <(of )primary>" }
+ancestry: Chardonian
+typeOf: vehicle
+typeOfAlias: ship
+whereabouts: 
+- {type: home, location: Chardon, startFilter: "" }
+---
+# The Auratan's Pride
+>[!info]+ Information  
+> ([[Chardonian Empire|Chardonian]] ship)  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`
+
+The Auratan's Pride is a ship of the line in the Chardonian Navy. 
