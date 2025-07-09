@@ -31,8 +31,8 @@ The party returns to a riot-torn [[Chardon]], connects with resistance leaders, 
 
 ### Timeline
 - (DR:: 1749-06-27), late morning: Arrive in [[Chardon]]. Speak with [[Xavier]] and his family in the [[Chalyte Levels]]. Send a lynx messenger to the [[Mitus Verina Auratan|Magistros]]. 
-- - (DR:: 1749-06-27), afternoon: Meet [[Andros]], [[Red]], and [[Orsino]], members of the [[Eightfold Flame]], at  [[The Cackling Swan]], discuss revolutionary politics. Receive message to meet [[Tiberius]], a [[Windcallers|Windcaller]] in the [[Mitus Verina Auratan|Magistros]]' service.
-- - (DR:: 1749-06-27), evening: Convince [[Tiberius]] they are not clones or possessed by [[Fausto]] or in league with [[The Cleansed]]. 
+-  (DR:: 1749-06-27), afternoon: Meet [[Andros]], [[Red]], and [[Orsino]], members of the [[Eightfold Flame]], at  [[The Cackling Swan]], discuss revolutionary politics. Receive message to meet [[Tiberius]], a [[Windcallers|Windcaller]] in the [[Mitus Verina Auratan|Magistros]]' service.
+-  (DR:: 1749-06-27), evening: Convince [[Tiberius]] they are not clones or possessed by [[Fausto]] or in league with [[The Cleansed]]. 
 ## Narrative
 
 *[[Stories of the Freed Prisoners of the Cleansed]] opens the session.*
