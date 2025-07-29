@@ -553,7 +553,7 @@ pushed addermarch fey politics in brainstorming fyi
 
 okay here is a rough idea. borders are not exact. (1) Lord Serenveil's territory is in gray, roughly along the eastern Enst valley. This is Nathaniel's patron and the fey lord behind the de Brune cult; aligned with Ethlenn and antagonist to Umbraeth, but may have own motivations. (2) Red hashes show active conflict between Serenveil and Umbraeth. (3) Green shows something else - not sure what the name is, but some very ancient fey entity, long predating Umbraeth and Duskmire, maybe a relic of the mythic age or something else weird. allied with no one; territory has shrunk considerably but still retains significant power in heart of ancient domain. barrier to Umbraeth's expansion. vibes are not yet clear but will likely be directly relevant to addermarch adventure. (4) Black arrows show incurisions from Darkfall across the Sunset Gate (5) Blue shows a second ally of Ethlenn, maybe a close ally/underling more directly kind of a splinter realm of Twilight's Grace. Questions: - Serenveil's territory could extent to the Wisford, or there could be an additonal minor lord on his northern border. Have no opinion here. - Aure valley is a little undefined, although the feywild along the Aure south of Adderfell is likely dangerous and an area of conflict between ancient green entity, Duskmire, blue Ethlenn ally, and Darkfall
 
-[](.deciusmus_media/rsulfuratus/98_1_1_feywild-detail.jpg.DW8j7XtIHu.jpg)
+![](../External/.deciusmus_media/rsulfuratus/98_1_1_feywild-detail.jpg.DW8j7XtIHu.jpg)
 
 feywild-detail.jpg
 
@@ -731,7 +731,7 @@ So in general I’m happy to commit to better sharing/notes. We have had some sc
 
 on a related topic, here is my feywild map. (1) Twilight's Grace (2) undefined, needs work (3) Duskmire + extensions (4) Darkfall (5) Hollowdark (6) Amberglow (7) Shimmersong (8) Sharpspire (9) Everlight's Bloom (10) Emberwine red line is Sunset Gate east of Darkfall and south of Hollowdark are also undefined. east of Darkfall overlaps Orenlas and should be allied with Twilight's Grace; south of Hollowdark less clear, I had some rough idea of a land of peaceful dreams or something like that
 
-[](.deciusmus_media/rsulfuratus/127_1_1_image.png.UrAOgBDbeJ.png)
+![](../External/.deciusmus_media/rsulfuratus/127_1_1_image.png.UrAOgBDbeJ.png)
 
 image.png
 
@@ -1733,7 +1733,7 @@ maybe that's where Gloamscar is
 
 I have often wondered what this is:
 
-[](.deciusmus_media/.deciusmus/291_1_1_image.png.buD-xgRFt9.png)
+![](../External/.deciusmus_media/.deciusmus/291_1_1_image.png.buD-xgRFt9.png)
 
 image.png
 
@@ -1927,7 +1927,7 @@ should be, in parts at least, on Taelgar at least, somewhat dangerous, enough th
 
 basically the yellow circle here:
 
-[](.deciusmus_media/.deciusmus/321_1_1_image.png.SbYIgZGSqw.png)
+![](../External/.deciusmus_media/.deciusmus/321_1_1_image.png.SbYIgZGSqw.png)
 
 image.png
 
@@ -2003,7 +2003,7 @@ dotted line being "sunset gate runs somewhere roughly here tbd"
 
 6:26 PM
 
-[](.deciusmus_media/rsulfuratus/334_1_1_image.png.0rDeoRYosz.png)
+![](../External/.deciusmus_media/rsulfuratus/334_1_1_image.png.0rDeoRYosz.png)
 
 image.png
 
@@ -2047,7 +2047,7 @@ steel blue = shimmersong dark blue = sharpspire violet = twilight's grace yellow
 
 6:21 PM
 
-[](.deciusmus_media/rsulfuratus/340_1_1_image.png.lG5sps1INx.png)
+![](../External/.deciusmus_media/rsulfuratus/340_1_1_image.png.lG5sps1INx.png)
 
 image.png
 
@@ -2229,7 +2229,7 @@ where the pink circle is the "buffer zone" with no major archfey
 
 but you could imagine something like:
 
-[](.deciusmus_media/.deciusmus/369_1_1_image.png.JQclxylvBD.png)
+![](../External/.deciusmus_media/.deciusmus/369_1_1_image.png.JQclxylvBD.png)
 
 image.png
 
@@ -2525,7 +2525,7 @@ right, or a similar vassal state
 
 sunset gate something like?
 
-[](.deciusmus_media/rsulfuratus/419_1_1_image.png.jiRnNPgOhE.png)
+![](../External/.deciusmus_media/rsulfuratus/419_1_1_image.png.jiRnNPgOhE.png)
 
 image.png
 
@@ -2767,7 +2767,7 @@ which one is Freccilia
 
 Cymean Rivers:
 
-[](.deciusmus_media/.deciusmus/460_1_1_image.png.tmvKkGZqyw.png)
+![](../External/.deciusmus_media/.deciusmus/460_1_1_image.png.tmvKkGZqyw.png)
 
 image.png
 
@@ -3147,7 +3147,7 @@ I put the elves down in apporia because the more I think about it, the more it f
 
 here is my map for dwarves and elves blue - elves (X = destroyed) (but the second elven kingdom is just an idea) pink - dwarves (X = destroyed, arrows = significant movement, dotted areas are places where it might actually matter for worldbuilding whether there are significant dwarven realms)
 
-[](.deciusmus_media/.deciusmus/525_1_1_image.png.nWJU77c2O4.png)
+![](../External/.deciusmus_media/.deciusmus/525_1_1_image.png.nWJU77c2O4.png)
 
 image.png
 
@@ -4029,7 +4029,7 @@ cosmology is done. pushed the last update. pretty happy with how it turned out. 
 
 if you feel like naming things these are the backlinks to pages in Cosmology that need names:
 
-[](.deciusmus_media/rsulfuratus/668_1_1_image.png.Lcvug6LxU5.png)
+![](../External/.deciusmus_media/rsulfuratus/668_1_1_image.png.Lcvug6LxU5.png)
 
 image.png
 
@@ -4043,7 +4043,7 @@ image.png
 
 secondary location has all sorts of nice uses:
 
-[](.deciusmus_media/rsulfuratus/669_1_1_image.png.YN9oFFBEMN.png)
+![](../External/.deciusmus_media/rsulfuratus/669_1_1_image.png.YN9oFFBEMN.png)
 
 image.png
 
@@ -4531,7 +4531,7 @@ something like: (1) agricultural, maybe olive growing (2) dry rocky hills, cattl
 
 8:37 PM
 
-[](.deciusmus_media/rsulfuratus/757_1_1_image.png.fQRqoaqsCZ.png)
+![](../External/.deciusmus_media/rsulfuratus/757_1_1_image.png.fQRqoaqsCZ.png)
 
 image.png
 
@@ -4717,7 +4717,7 @@ where pink is illorian
 
 so you have something like this:
 
-[](.deciusmus_media/.deciusmus/791_1_1_image.png.55K4Pw5YqA.png)
+![](../External/.deciusmus_media/.deciusmus/791_1_1_image.png.55K4Pw5YqA.png)
 
 image.png
 
@@ -4839,7 +4839,7 @@ but not sure if that is right
 
 so from the map I'd guess the denset population is the yellow:
 
-[](.deciusmus_media/.deciusmus/812_1_1_image.png.4sVo_AvSt8.png)
+![](../External/.deciusmus_media/.deciusmus/812_1_1_image.png.4sVo_AvSt8.png)
 
 image.png
 
@@ -4889,7 +4889,7 @@ but the swamps and rivers got moved around and this area got stretched in the cu
 
 in high school is was basically "core chardon"
 
-[](.deciusmus_media/rsulfuratus/820_1_1_image.png.7LUxLnWbO4.png)
+![](../External/.deciusmus_media/rsulfuratus/820_1_1_image.png.7LUxLnWbO4.png)
 
 image.png
 
@@ -5111,7 +5111,7 @@ the blue "6" is the old post drankor F an largely survives to join chardon - i.e
 
 right so then in say 1560 or 1575 you have something like this:
 
-[](.deciusmus_media/.deciusmus/857_1_1_image.png.nnEchXl00C.png)
+![](../External/.deciusmus_media/.deciusmus/857_1_1_image.png.nnEchXl00C.png)
 
 image.png
 
@@ -5221,7 +5221,7 @@ red (D) = ruins of pre-Great War dwarves red (E) = ruins of pre-Great War elves 
 
 here is a rough outline of current west coast vibes
 
-[](.deciusmus_media/rsulfuratus/880_1_1_west-coast-current.jpg.C0Csp_VaoH.jpg)
+![](../External/.deciusmus_media/rsulfuratus/880_1_1_west-coast-current.jpg.C0Csp_VaoH.jpg)
 
 west-coast-current.jpg
 
@@ -5243,7 +5243,7 @@ which reminds me, another consideration: there is a big dwarven ruins underneath
 
 (2) handouts from very early in the great library campaign, no need to be canonical
 
-[](.deciusmus_media/rsulfuratus/883_1_1_image.png.bFgcilRD0P.png)
+![](../External/.deciusmus_media/rsulfuratus/883_1_1_image.png.bFgcilRD0P.png)
 
 image.png
 
@@ -5293,7 +5293,7 @@ basic idea: three hobgoblin strands as discussed. #1 - conquest strand. arrives 
 
 Ok here's a new idea:
 
-[](.deciusmus_media/.deciusmus/892_1_1_image.png.0mMI-x2wKQ.png)
+![](../External/.deciusmus_media/.deciusmus/892_1_1_image.png.0mMI-x2wKQ.png)
 
 image.png
 
@@ -5387,7 +5387,7 @@ then you have the brutal/violent in the middle and human refugees fleeing in the
 
 slight tweak: (making the conquerers on the southwest shore of lake valandros)
 
-[](.deciusmus_media/.deciusmus/906_1_1_image.png.ktynpHjkzC.png)
+![](../External/.deciusmus_media/.deciusmus/906_1_1_image.png.ktynpHjkzC.png)
 
 image.png
 
@@ -5411,7 +5411,7 @@ Right something like that
 
 5:38 PM
 
-[](.deciusmus_media/.deciusmus/909_1_1_image.png.NatjMTT1ks.png)
+![](../External/.deciusmus_media/.deciusmus/909_1_1_image.png.NatjMTT1ks.png)
 
 image.png
 
@@ -5463,7 +5463,7 @@ basically make there be 3 strands: - west - center - east The center hobgoblins 
 
 5:33 PM
 
-[](.deciusmus_media/.deciusmus/917_1_1_image.png.gWDCRDGkqG.png)
+![](../External/.deciusmus_media/.deciusmus/917_1_1_image.png.gWDCRDGkqG.png)
 
 image.png
 
@@ -5509,7 +5509,7 @@ the red region to have been decimated the black to be hobgoblins
 
 but really we are saying we need, by say 1600:
 
-[](.deciusmus_media/.deciusmus/925_1_1_image.png.urnhSm6q7x.png)
+![](../External/.deciusmus_media/.deciusmus/925_1_1_image.png.urnhSm6q7x.png)
 
 image.png
 
@@ -5539,7 +5539,7 @@ possibly in the non-quite canonical war that chardon doesn't help with
 
 so here is my northern hobgoblin map
 
-[](.deciusmus_media/.deciusmus/929_1_1_image.png.kuLcyFn2Sq.png)
+![](../External/.deciusmus_media/.deciusmus/929_1_1_image.png.kuLcyFn2Sq.png)
 
 image.png
 
@@ -5641,7 +5641,7 @@ and chardon is busy building a road through the Tawir gap instead of helping
 
 then imagine the Mindknife War is something from the north, i.e. the two blue arrows pointing at Mawar:
 
-[](.deciusmus_media/.deciusmus/945_1_1_image.png.l3bdeCBVvK.png)
+![](../External/.deciusmus_media/.deciusmus/945_1_1_image.png.l3bdeCBVvK.png)
 
 image.png
 
@@ -5671,7 +5671,7 @@ this picture still leaves the history of the voltara area south through lake val
 
 but you have trade flows like:
 
-[](.deciusmus_media/.deciusmus/949_1_1_image.png.WWfKfdwZc8.png)
+![](../External/.deciusmus_media/.deciusmus/949_1_1_image.png.WWfKfdwZc8.png)
 
 image.png
 
@@ -5885,7 +5885,7 @@ i think it implies there is some kind of split early on in cha'mutte's armies ba
 
 so then if we look at this map
 
-[](.deciusmus_media/rsulfuratus/988_1_1_west-coast-history-GreatWar.png.vkTNmB40JB.png)
+![](../External/.deciusmus_media/rsulfuratus/988_1_1_west-coast-history-GreatWar.png.vkTNmB40JB.png)
 
 west-coast-history-GreatWar.png
 
@@ -5917,7 +5917,7 @@ better version
 
 4:35 PM
 
-[](.deciusmus_media/.deciusmus/994_1_1_image.png.zQWsE3GGzZ.png)
+![](../External/.deciusmus_media/.deciusmus/994_1_1_image.png.zQWsE3GGzZ.png)
 
 image.png
 
@@ -6126,7 +6126,7 @@ I think that is the point I was confused on
 
 for the eastern north, I think the geography works pretty well. they are defeated by Chardon in the chasa valley
 
-[](.deciusmus_media/.deciusmus/1024_1_1_image.png.W2pmdXbEmr.png)
+![](../External/.deciusmus_media/.deciusmus/1024_1_1_image.png.W2pmdXbEmr.png)
 
 image.png
 
@@ -7064,7 +7064,7 @@ yeah i actually didn't know about the find or create note feature, that is very 
 
 i.e. to get to Essford Manor is 6 levels deep. It is much easier to just type ess into the search and pick
 
-[](.deciusmus_media/.deciusmus/1180_1_1_image.png.59yqH49OnU.png)
+![](../External/.deciusmus_media/.deciusmus/1180_1_1_image.png.59yqH49OnU.png)
 
 image.png
 
@@ -7496,7 +7496,7 @@ right
 
 or
 
-[](.deciusmus_media/.deciusmus/1257_1_1_image.png.apxGcEELvM.png)
+![](../External/.deciusmus_media/.deciusmus/1257_1_1_image.png.apxGcEELvM.png)
 
 image.png
 
@@ -7506,7 +7506,7 @@ image.png
 
 or
 
-[](.deciusmus_media/.deciusmus/1258_1_1_image.png.J7YcvDLxgM.png)
+![](../External/.deciusmus_media/.deciusmus/1258_1_1_image.png.J7YcvDLxgM.png)
 
 image.png
 
@@ -7520,7 +7520,7 @@ which makes a lot more sense
 
 So you get something like
 
-[](.deciusmus_media/.deciusmus/1260_1_1_image.png.-_s5MVFdBL.png)
+![](../External/.deciusmus_media/.deciusmus/1260_1_1_image.png.-_s5MVFdBL.png)
 
 image.png
 
@@ -7760,7 +7760,7 @@ hmm
 
 7:34 PM
 
-[](.deciusmus_media/rsulfuratus/1302_1_1_image.png.rrgqxk5tGI.png)
+![](../External/.deciusmus_media/rsulfuratus/1302_1_1_image.png.rrgqxk5tGI.png)
 
 image.png
 
@@ -7956,7 +7956,7 @@ that's a bug; haven't figured it out yet
 
 01/27/2025 at 6:51 PM EST
 
-[](.deciusmus_media/rsulfuratus/1339_1_1_image.png.ilhl0esEJd.png)
+![](../External/.deciusmus_media/rsulfuratus/1339_1_1_image.png.ilhl0esEJd.png)
 
 image.png
 
@@ -7964,7 +7964,7 @@ image.png
 
 6:51 PM
 
-[](.deciusmus_media/rsulfuratus/1340_1_1_image.png.8_nHjxEJuG.png)
+![](../External/.deciusmus_media/rsulfuratus/1340_1_1_image.png.8_nHjxEJuG.png)
 
 image.png
 
@@ -8082,7 +8082,7 @@ It would be straightforward (ish) to make "polity with no home" the same as home
 
 i.e. you get this
 
-[](.deciusmus_media/.deciusmus/1362_1_1_image.png.81Dbxxa2Ue.png)
+![](../External/.deciusmus_media/.deciusmus/1362_1_1_image.png.81Dbxxa2Ue.png)
 
 image.png
 
@@ -8232,7 +8232,7 @@ but then you get "located in" rathre than "A tavern in"
 
 you can also fix it by doing type: plity
 
-[](.deciusmus_media/.deciusmus/1385_1_1_image.png.qetmYtMrEn.png)
+![](../External/.deciusmus_media/.deciusmus/1385_1_1_image.png.qetmYtMrEn.png)
 
 image.png
 
@@ -8246,7 +8246,7 @@ but its a bit annoying
 
 you can fix it with display defaults:
 
-[](.deciusmus_media/.deciusmus/1387_1_1_image.png.yob25qZ-E2.png)
+![](../External/.deciusmus_media/.deciusmus/1387_1_1_image.png.yob25qZ-E2.png)
 
 image.png
 
@@ -8256,7 +8256,7 @@ image.png
 
 does this:
 
-[](.deciusmus_media/.deciusmus/1388_1_1_image.png.ituYCxUTwL.png)
+![](../External/.deciusmus_media/.deciusmus/1388_1_1_image.png.ituYCxUTwL.png)
 
 image.png
 
@@ -8294,7 +8294,7 @@ looks nice
 
 ie.
 
-[](.deciusmus_media/.deciusmus/1394_1_1_image.png.lt7k1Qr6_a.png)
+![](../External/.deciusmus_media/.deciusmus/1394_1_1_image.png.lt7k1Qr6_a.png)
 
 image.png
 
@@ -8344,7 +8344,7 @@ i.e. if you change the current date to 1544 it changes to "An Isinguer city in t
 
 this works:
 
-[](.deciusmus_media/.deciusmus/1403_1_1_image.png.UxP9Ru_EmA.png)
+![](../External/.deciusmus_media/.deciusmus/1403_1_1_image.png.UxP9Ru_EmA.png)
 
 image.png
 
@@ -8410,7 +8410,7 @@ I think it is worth pushing. i might change the wCurrent default for place to so
 
 right this works:
 
-[](.deciusmus_media/.deciusmus/1414_1_1_image.png.pPztG3OEvS.png)
+![](../External/.deciusmus_media/.deciusmus/1414_1_1_image.png.pPztG3OEvS.png)
 
 image.png
 
@@ -8432,7 +8432,7 @@ yeah that is the same as the dunmar case, as long as the geography page and the 
 
 Westcliff works:
 
-[](.deciusmus_media/.deciusmus/1416_1_1_image.png.zL6qZd49H-.png)
+![](../External/.deciusmus_media/.deciusmus/1416_1_1_image.png.zL6qZd49H-.png)
 
 image.png
 
@@ -8506,7 +8506,7 @@ gah, nevermind, it doesn't really work that well in any non-trivial case
 
 then on Burganos, I can set: whereabouts: - {type: region, location: Illoria } and just get
 
-[](.deciusmus_media/.deciusmus/1427_1_1_image.png.mPObn92ZO0.png)
+![](../External/.deciusmus_media/.deciusmus/1427_1_1_image.png.mPObn92ZO0.png)
 
 image.png
 
@@ -8524,7 +8524,7 @@ you likely need to set the display defaults (wCurrent) on the page to get decent
 
 I get:
 
-[](.deciusmus_media/.deciusmus/1430_1_1_image.png.E104oC_5Gv.png)
+![](../External/.deciusmus_media/.deciusmus/1430_1_1_image.png.E104oC_5Gv.png)
 
 image.png
 
@@ -8754,7 +8754,7 @@ and go back and set "partOf: Enst Watershed"
 
 i.e. at some level we think it makes sense to go to a page like:
 
-[](.deciusmus_media/.deciusmus/1477_1_1_image.png.ElojiMlsGU.png)
+![](../External/.deciusmus_media/.deciusmus/1477_1_1_image.png.ElojiMlsGU.png)
 
 image.png
 
@@ -8844,13 +8844,13 @@ Kayan has whereabouts = Elderwood, which then tracks back to "Central Highlands"
 
 So here are two pages:
 
-[](.deciusmus_media/.deciusmus/1494_1_1_image.png.3k388VytDa.png)
+![](../External/.deciusmus_media/.deciusmus/1494_1_1_image.png.3k388VytDa.png)
 
 image.png
 
 16.49KB
 
-[](.deciusmus_media/.deciusmus/1494_2_1_image.png.qZD674nZRA.png)
+![](../External/.deciusmus_media/.deciusmus/1494_2_1_image.png.qZD674nZRA.png)
 
 image.png
 
@@ -9160,7 +9160,7 @@ yeah
 
 ok so something like this:
 
-[](.deciusmus_media/.deciusmus/1544_1_1_image.png.OnZOEDSGgh.png)
+![](../External/.deciusmus_media/.deciusmus/1544_1_1_image.png.OnZOEDSGgh.png)
 
 image.png
 
@@ -9220,7 +9220,7 @@ the dark blue are highlands, with the plateau with the lake maybe kind of like l
 
 1:40 PM
 
-[](.deciusmus_media/rsulfuratus/1553_1_1_sembara-region-map.png.Wr_JAMNL77.png)
+![](../External/.deciusmus_media/rsulfuratus/1553_1_1_sembara-region-map.png.Wr_JAMNL77.png)
 
 sembara-region-map.png
 
@@ -9286,7 +9286,7 @@ but the ? I don't have a clear sense of
 
 and I'm envisioning the "P" area to be a moderately high plateau (not Tibet or anything like that, but still 2000-4000 ft)
 
-[](.deciusmus_media/.deciusmus/1565_1_1_image.png.wWGsoY7cwg.png)
+![](../External/.deciusmus_media/.deciusmus/1565_1_1_image.png.wWGsoY7cwg.png)
 
 image.png
 
@@ -9320,7 +9320,7 @@ which nicely separates Tollen from Vostok except by sea
 
 i'm envisioning everything inside the yellow as "highlands"
 
-[](.deciusmus_media/.deciusmus/1570_1_1_image.png.AtN01Jfqp6.png)
+![](../External/.deciusmus_media/.deciusmus/1570_1_1_image.png.AtN01Jfqp6.png)
 
 image.png
 
@@ -9938,7 +9938,7 @@ i mostly have a lot of work today but taking a break for a bit before my next me
 
 The bit I'm not sure of is what should the bio block say:
 
-[](.deciusmus_media/.deciusmus/1678_1_1_image.png.BQyvSnv8FA.png)
+![](../External/.deciusmus_media/.deciusmus/1678_1_1_image.png.BQyvSnv8FA.png)
 
 image.png
 
@@ -10364,7 +10364,7 @@ green dotted lines are "this area is so poorly defined the regional boundaries a
 
 here's what I have
 
-[](.deciusmus_media/.deciusmus/1747_1_1_Taelgar_Map_Full.png.RNhM8YS258.png)
+![](../External/.deciusmus_media/.deciusmus/1747_1_1_Taelgar_Map_Full.png.RNhM8YS258.png)
 
 Taelgar_Map_Full.png
 
@@ -10414,7 +10414,7 @@ yeah. although now I'm reconsidered whether the chardon line shouldn't include n
 
 and then something like this for Mawar + the North?
 
-[](.deciusmus_media/.deciusmus/1754_1_1_image.png.fZ3hrLEaS9.png)
+![](../External/.deciusmus_media/.deciusmus/1754_1_1_image.png.fZ3hrLEaS9.png)
 
 image.png
 
@@ -10422,7 +10422,7 @@ image.png
 
 5:00 PM
 
-[](.deciusmus_media/.deciusmus/1755_1_1_image.png.3wqvblwdzP.png)
+![](../External/.deciusmus_media/.deciusmus/1755_1_1_image.png.3wqvblwdzP.png)
 
 image.png
 
@@ -10456,7 +10456,7 @@ M= Mawar C = Chardon NS = north sentinenls S = sentinels
 
 i.e. something like:
 
-[](.deciusmus_media/.deciusmus/1760_1_1_image.png.BSyTEkrjM4.png)
+![](../External/.deciusmus_media/.deciusmus/1760_1_1_image.png.BSyTEkrjM4.png)
 
 image.png
 
@@ -10502,7 +10502,7 @@ with the cavaet that the line between "Eastern green sea" and "Far north" is act
 
 Last question is this the right dividing line between "ursk-ish" and far north/eastern green sea?
 
-[](.deciusmus_media/.deciusmus/1767_1_1_image.png.axULkES_S-.png)
+![](../External/.deciusmus_media/.deciusmus/1767_1_1_image.png.axULkES_S-.png)
 
 image.png
 
@@ -10544,7 +10544,7 @@ where c = chardon?
 
 I think this is roughly what I'd do
 
-[](.deciusmus_media/rsulfuratus/1773_1_1_image.png.rYZRdQkFi7.png)
+![](../External/.deciusmus_media/rsulfuratus/1773_1_1_image.png.rYZRdQkFi7.png)
 
 image.png
 
@@ -10558,7 +10558,7 @@ image.png
 
 finally should the Chardon vs Nevos/Apporia line be the green one along south chardon area, or more like the yellow one here?
 
-[](.deciusmus_media/.deciusmus/1774_1_1_image.png.5hDAnDIBiv.png)
+![](../External/.deciusmus_media/.deciusmus/1774_1_1_image.png.5hDAnDIBiv.png)
 
 image.png
 
@@ -10568,7 +10568,7 @@ image.png
 
 2nd is the dunmari north-western border more like red/blue/black or something lese?
 
-[](.deciusmus_media/.deciusmus/1775_1_1_image.png.FMCykJ_5dV.png)
+![](../External/.deciusmus_media/.deciusmus/1775_1_1_image.png.FMCykJ_5dV.png)
 
 image.png
 
@@ -10578,7 +10578,7 @@ image.png
 
 is it more like the red or the black or something lese?
 
-[](.deciusmus_media/.deciusmus/1776_1_1_image.png.KNlRRnTZM-.png)
+![](../External/.deciusmus_media/.deciusmus/1776_1_1_image.png.KNlRRnTZM-.png)
 
 image.png
 
@@ -10592,7 +10592,7 @@ where is the line between "Dunmar basin" and "Ruins of Drankor"?
 
 another question:
 
-[](.deciusmus_media/.deciusmus/1778_1_1_image.png.ibVLrEB37u.png)
+![](../External/.deciusmus_media/.deciusmus/1778_1_1_image.png.ibVLrEB37u.png)
 
 image.png
 
@@ -10622,7 +10622,7 @@ yeah
 
 so sembara basically this:
 
-[](.deciusmus_media/.deciusmus/1782_1_1_image.png.kl9iD0NsHh.png)
+![](../External/.deciusmus_media/.deciusmus/1782_1_1_image.png.kl9iD0NsHh.png)
 
 image.png
 
@@ -10720,7 +10720,7 @@ S = part of sembara U = "ursk" region, but actually perhaps a canonically "blank
 
 although maybe actually something like this:
 
-[](.deciusmus_media/.deciusmus/1797_1_1_image.png.0BYupTuRns.png)
+![](../External/.deciusmus_media/.deciusmus/1797_1_1_image.png.0BYupTuRns.png)
 
 image.png
 
@@ -10734,7 +10734,7 @@ they are obviously a significant barrier in game, but from an "invention" standp
 
 are they? the in-game vibe I got was that the Vimfrost events and giants and whatnot had a non-trivial impact on this region:
 
-[](.deciusmus_media/.deciusmus/1799_1_1_image.png.Zcl4l8QU_i.png)
+![](../External/.deciusmus_media/.deciusmus/1799_1_1_image.png.Zcl4l8QU_i.png)
 
 image.png
 
@@ -10808,7 +10808,7 @@ i.e. #1 - Greater Dunmar, basically the dunarmi basin + Myrani Gap up to the Kha
 
 I wonder if it would make more sense to consider: (a)
 
-[](.deciusmus_media/.deciusmus/1811_1_1_image.png.-VUG3aWTbr.png)
+![](../External/.deciusmus_media/.deciusmus/1811_1_1_image.png.-VUG3aWTbr.png)
 
 image.png
 
@@ -11362,7 +11362,7 @@ which is agnostic as to where the non-human empires were
 
 here is the map I've playing with:
 
-[](.deciusmus_media/.deciusmus/1901_1_1_image.png.8NY316WMqh.png)
+![](../External/.deciusmus_media/.deciusmus/1901_1_1_image.png.8NY316WMqh.png)
 
 image.png
 
@@ -11436,7 +11436,7 @@ when drankorians land
 
 The main idea is that there were no meaningful human cultures in the red circle:
 
-[](.deciusmus_media/.deciusmus/1912_1_1_image.png.yfS9wodcl_.png)
+![](../External/.deciusmus_media/.deciusmus/1912_1_1_image.png.yfS9wodcl_.png)
 
 image.png
 
@@ -11462,7 +11462,7 @@ but I don't have any particlarly clear thoughts
 
 I mean, I was thinking something more like:
 
-[](.deciusmus_media/.deciusmus/1917_1_1_image.png.uCt4AdwzV5.png)
+![](../External/.deciusmus_media/.deciusmus/1917_1_1_image.png.uCt4AdwzV5.png)
 
 image.png
 
@@ -11508,7 +11508,7 @@ this is super rough
 
 re: cymea
 
-[](.deciusmus_media/rsulfuratus/1924_1_1_cymea.png.9Y3jOHRm20.png)
+![](../External/.deciusmus_media/rsulfuratus/1924_1_1_cymea.png.9Y3jOHRm20.png)
 
 cymea.png
 
@@ -11566,7 +11566,7 @@ not really committed to the specific details, but the idea would be: (a) pretty 
 
 here's a slight different version - brown = human, yellow = elf, green = lizardfolk, blue = dwarf, light blue = green sea:
 
-[](.deciusmus_media/.deciusmus/1934_1_1_image.png.VRpx4B6gmo.png)
+![](../External/.deciusmus_media/.deciusmus/1934_1_1_image.png.VRpx4B6gmo.png)
 
 image.png
 
@@ -11620,7 +11620,7 @@ light blue is green sea
 
 Something like this:
 
-[](.deciusmus_media/.deciusmus/1944_1_1_image.png.1yZA0LAb-l.png)
+![](../External/.deciusmus_media/.deciusmus/1944_1_1_image.png.1yZA0LAb-l.png)
 
 image.png
 
@@ -12131,7 +12131,7 @@ i never made any decisions about anything not on this map
 
 5:17 PM
 
-[](.deciusmus_media/rsulfuratus/2033_1_1_image.png._D-FNccYue.png)
+![](../External/.deciusmus_media/rsulfuratus/2033_1_1_image.png._D-FNccYue.png)
 
 image.png
 
@@ -12469,7 +12469,7 @@ the squiggly yellow presumably never recovers from the plague. Although it isn't
 
 In fact, it is really only the red circle here that is poorly defined:
 
-[](.deciusmus_media/.deciusmus/2091_1_1_image.png.4nyX_Qmbk_.png)
+![](../External/.deciusmus_media/.deciusmus/2091_1_1_image.png.4nyX_Qmbk_.png)
 
 image.png
 
@@ -12595,7 +12595,7 @@ but i guess this leaves (d) as kind of a big hole that could use filling, since 
 
 Right the area I'm talking about is this yellow circle:
 
-[](.deciusmus_media/.deciusmus/2109_1_1_image.png.mXZIML2nbo.png)
+![](../External/.deciusmus_media/.deciusmus/2109_1_1_image.png.mXZIML2nbo.png)
 
 image.png
 
@@ -13533,7 +13533,7 @@ I have no strong opinions on brainstorming organization if you want to mess arou
 
 i.e.
 
-[](.deciusmus_media/.deciusmus/2262_1_1_image.png.lHdalingU9.png)
+![](../External/.deciusmus_media/.deciusmus/2262_1_1_image.png.lHdalingU9.png)
 
 image.png
 
@@ -13631,7 +13631,7 @@ I think we should get rid of needswork/shared in general
 
 you have to run the command to toggle author info
 
-[](.deciusmus_media/.deciusmus/2276_1_1_image.png.Kd0Jpn6Xj2.png)
+![](../External/.deciusmus_media/.deciusmus/2276_1_1_image.png.Kd0Jpn6Xj2.png)
 
 image.png
 
@@ -13655,7 +13655,7 @@ it is just "Git" with ~1m downloads?
 
 01/17/2025 at 2:05 PM EST
 
-[](.deciusmus_media/.deciusmus/2279_1_1_image.png.ctGXWYfly8.png)
+![](../External/.deciusmus_media/.deciusmus/2279_1_1_image.png.ctGXWYfly8.png)
 
 image.png
 
@@ -17677,7 +17677,7 @@ although I'm not sure the whereabouts is really worth it
 
 perhaps even:
 
-[](.deciusmus_media/.deciusmus/2932_1_1_image.png.Skpi2FI-5K.png)
+![](../External/.deciusmus_media/.deciusmus/2932_1_1_image.png.Skpi2FI-5K.png)
 
 image.png
 
@@ -17687,7 +17687,7 @@ image.png
 
 i.e.
 
-[](.deciusmus_media/.deciusmus/2933_1_1_image.png.-Hv1oJRZMZ.png)
+![](../External/.deciusmus_media/.deciusmus/2933_1_1_image.png.-Hv1oJRZMZ.png)
 
 image.png
 
@@ -17949,7 +17949,7 @@ I'm not super busy today and am getting back to some of the dm status stuff and 
 
 an alternate version
 
-[](.deciusmus_media/rsulfuratus/2976_1_1_rsulfuratus_an_elven_warrior_holding_a_silver_longsword_decor_5c572c88-c46b-4012-80a4-91fd6f6b32.png.J7wZ6bfO4Q.png)
+![](../External/.deciusmus_media/rsulfuratus/2976_1_1_rsulfuratus_an_elven_warrior_holding_a_silver_longsword_decor_5c572c88-c46b-4012-80a4-91fd6f6b32.png.J7wZ6bfO4Q.png)
 
 rsulfuratus_an_elven_warrior_holding_a_silver_longsword_decor_5c572c88-c46b-4012-80a4-91fd6f6b3254_2.png
 
