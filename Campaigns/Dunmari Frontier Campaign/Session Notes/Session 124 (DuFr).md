@@ -22,7 +22,7 @@ Returning to [[Vindristjarna]], the [[Dunmar Fellowship]] enjoys a rare respite,
 ## Session Info
 ### Summary
 - The party regroups aboard [[Vindristjarna]] after their [[Feywild]] expedition, reconnecting with their crew, [[Pava]], and [[Avaras]] in the [[Garamjala Desert|Garamjala]].
-- [[Riswynn]] says farewell to the party as she organizes her mission to liberate orcs from [Thark]’s influence, departing with [[Kethra]], [[Aygul]], and [[Nuzkar]], teleporting to [[Uzgukhar]]; the rest of the party prepares to fly [[Vindristjarna]] to [[Chardon]]. 
+- [[Riswynn]] says farewell to the party as she organizes her mission to liberate orcs from [[Thark]]’s influence, departing with [[Kethra]], [[Aygul]], and [[Nuzkar]], teleporting to [[Uzgukhar]]; the rest of the party prepares to fly [[Vindristjarna]] to [[Chardon]]. 
 - Contact with [[Chardon]] reveals post-war chaos: riots sparked by the [[Eightfold Flame]], imperial crackdowns, and a city teetering on the edge of widespread violence. 
 - During the journey, the party begins to release [[Vola]], [[Vargus]], [[Valius]], and [[Hektor]] from the [[Mirror of Soul Trapping]], now free of [[The Cleansed]] control. 
 
