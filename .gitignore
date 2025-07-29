@@ -19,6 +19,7 @@ assets/unshared/
 !.obsidian/snippets
 .obsidian/snippets/*
 !.obsidian/snippets/taelgar-fixes.css
+*.html
 
 # Include gitignore
 !.gitignore
