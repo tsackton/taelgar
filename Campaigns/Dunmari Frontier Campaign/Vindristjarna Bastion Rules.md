@@ -20,7 +20,7 @@ This document also describes additional magic items that are permanently install
 (level 5) [Garden](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Garden) (Decorative) 
 (level 9) [Greenhouse](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Greenhouse)
 (level 5-13)
-(level 5-17)
+(level 17) [Demiplane](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Demiplane)
 
 **Kenzo (3/6)**
 (level 9) [Trophy Room](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#TrophyRoom) (Hall of Stories)
@@ -44,13 +44,13 @@ This document also describes additional magic items that are permanently install
 (level 13) [Archive](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Archive)
 (level 13) [Observatory](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Observatory)
 (level 5-13)
-(level 5-17)
+(level 17) [Demiplane](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Demiplane)
 
 **Wellby (3/6)**
 (level 5) [Library](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Library) (Map Room)
 (level 5) [Storehouse](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Storehouse)
 (level 9) [Stables](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Stable)
-(level 5-13)
+(level 13) [Pub](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Pub)
 (level 5-13)
 (level 5-17)
 
@@ -61,15 +61,15 @@ These followers are available to tend to Bastion facilities:
 [[Amil]] (he/him). Dunmari monk-in-training. Amil can tend the ***Hall of Stories*** or can serve as a ***Battle Defense (Sparring Room or Game Room)*** or ***Unarmed Attack (Sparring Room)*** trainer.
 [[Egnir|Égnir]] (he/him, AY-nyeer). Elven gardener. He can carry out any number of ***Harvest*** orders for the ***Gardens and Greenhouse***. He can also ***Empower***the ***Elven Tree***.
 [[Jotha]] (she/her, yo-TAH). Deno'qai priestess and warrior. She can tend the ***Sanctuary***, or serve as a ***Weapon Expert (Sparring Room)***.
-[[Mica Copperharp]] (he/him). Halfling, Willow's husband. A comic, a joker, good with his hands and the drums, a brewer, and a bit of a drinker. Mica can serve as a ***Skills Trainer (Game Room)***. 
+[[Mica Copperharp]] (he/him). Halfling, Willow's husband. A comic, a joker, good with his hands and the drums, a brewer, and a bit of a drinker. Mica can serve as a ***Skills Trainer (Game Room)***, and can serve as the bartender in the ***Pub***.
 [[Willow Copperharp]] (she/her). Halfling, Mica's wife. A storyteller, a poet, and fairly religious as halflings go. Willow can tend the ***Map Room***.
 [[Adam Gower]] (he/him). Tollender human. Adam does not tend a specific facility, but if [[Vindristjarna]] is in [[Tollen]] for a Bastion Turn, he can carry out any number of ***Trade*** orders. 
 
 Each PC is also able to tend Bastion facilities:
-[[Delwath]]: ***Sanctuary***, ***Gardens and Greenhouse***
-[[Seeker]]: ***Observatory***, ***Workshop***, ***Tools Trainer (Game Room)***, ***Archives***
+[[Delwath]]: ***Sanctuary***, ***Gardens and Greenhouse***, ***Demiplane***
+[[Seeker]]: ***Observatory***, ***Workshop***, ***Tools Trainer (Game Room)***, ***Archives***, ***Demiplane***
 [[Kenzo]]: ***Gardens and Greenhouse***, ***Elven Tree***, ***Hall of Stories***, ***Battle Defense (Sparring Room or Game Room)*** or ***Unarmed Attack (Sparring Room)*** trainer.
-[[Wellby]]: ***Map Room***, ***Stable***, ***Storehouse***
+[[Wellby]]: ***Map Room***, ***Stable***, ***Storehouse***, ***Pub***
 
 ## Bastion Turns
 
@@ -104,17 +104,43 @@ A Bastion Turn represents a period of time, usually around 7 days, of uninterrup
 ## Descriptions
 
 ### Upper Deck
-*364 of 480 squares used*
+*380 of 480 squares used*
 
 The upper deck consists of, from stern to prow:
 
 * the shrine to the [[Tanshi]]
 * the elven garden and greenhouse
 * the elven tree, grown from seed by [[Kenzo]]
-* the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], and the map room
+* the main building on the upper deck, which contains a lavish dining hall, space for conversation and relaxation, the living quarters of [[Kenzo]], [[Delwath]], [[Riswynn]], [[Seeker]], [[Wellby]], the map room, and the pub
 * On a sky deck built above the map room, [[Seeker|Seeker's]] observatory
 * the courtyard bow-ward of the main building, and the decking and railings around the main building, which is decorating with memorials to the adventures of the [[Dunmar Fellowship]] 
 * in the bow, [[Baxter|Baxter's]] stable
+
+#### Pub
+*Tended by [[Wellby]] or [[Mica Copperharp]]*
+
+> [!info]+ Pub
+> >Game Effect: [Pub](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Pub)
+> >Size: 16 squares (Roomy)
+> >Order: Research
+> 
+>Folks come here to consume tasty beverages and socialize. Your Pub might be a bar, coffee shop, or tea room, and it might have a colorful name, such as the Rusty Flagon or the Dragon’s Loft. The facility’s hireling, who serves as the bartender, maintains a network of spies scattered throughout nearby communities. These spies are useful sources of information and frequent the Pub, often incognito.
+>
+>**_Research: Information Gathering._** When you issue the [Research](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Research) order to this facility, you commission the Pub’s bartender to gather information from spies who are aware of all important events happening within 10 miles of your Bastion over the next 7 days. During that time, these spies can divulge the location of any creature that is familiar to you, provided the creature is within 50 miles of your Bastion and not hidden by magic or confined to a location that the DM deems is beyond the spy network’s ability to locate. If the spies learn the target’s location, they also learn where that creature has been for the previous 7 days.
+>
+>**_Pub Special._** The Pub has one magical beverage on tap, chosen from the options below:
+>
+>**Bigby’s Burden.** Drinking a pint of this beverage grants you the “enlarge” effect of an [Enlarge/Reduce](https://www.dndbeyond.com/spells/2619170-enlarge-reduce) spell that has a duration of 24 hours (no saving throw allowed).
+>
+>**Kiss of the Spider Queen.** Drinking a pint of this beverage grants you the effect of a [Spider Climb](https://www.dndbeyond.com/spells/2619071-spider-climb) spell that has a duration of 24 hours.
+>
+>**Moonlight Serenade.** Drinking a pint of this beverage gives you [Darkvision](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#Darkvision) out to 60 feet for 24 hours. If you already have Darkvision, its range is extended by 60 feet for the same duration.
+>
+>**Positive Reinforcement.** Drinking a pint of this beverage gives you Resistance to Necrotic damage for 24 hours.
+>
+>**Sterner Stuff.** For 24 hours after drinking a pint of this beverage, you automatically succeed on saving throws to avoid or end the [Frightened](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#FrightenedCondition) condition.
+>
+>At the start of a Bastion turn, you can switch to one of the other options. Your DM may create new options. A pint of this magical beverage loses its magic 24 hours after it’s poured.
 
 #### Sanctuary
 *Tended by [[Jotha]] or [[Delwath]]*
@@ -127,6 +153,24 @@ The upper deck consists of, from stern to prow:
 >**_Sanctuary Charm._** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Healing Word](https://www.dndbeyond.com/spells/2619143-healing-word) once without expending a spell slot. You can’t gain this Charm again while you still have it. 
 > 
 >**_Craft: Sacred Focus._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, you commission the facility’s hireling to craft a [Druidic Focus](https://www.dndbeyond.com/equipment/532-druidic-focus) ([wooden staff](https://www.dndbeyond.com/equipment/530-wooden-staff)) or a [Holy Symbol](https://www.dndbeyond.com/equipment/514-holy-symbol). The work takes 7 days and costs no money. The item remains in your Bastion until you claim it.
+
+
+#### Tanshi Inner Sanctum
+*Tended by [[Delwath]] or [[Jotha]]*
+
+> [!info]+ Tanshi Inner Sanctum
+> >Game Effect: [Demiplane](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Demiplane)
+> >Size: None (door from Sanctuary)
+> >Order: Empower
+>
+>A door up to 5 feet wide and 10 feet tall appears on a flat, solid surface in one of the other facilities in your Bastion. You choose the location. If you are in your Bastion during a Bastion turn, you can relocate this door to another facility in your Bastion.
+>
+>Only you and your Bastion’s hirelings can open the door, which leads to a Demiplane that takes the form of a stone room. The Demiplane exists in an extradimensional space and therefore isn’t attached physically to other locations in your Bastion. Neither the Demiplane nor its door can be dispelled.
+>
+>**_Empower: Arcane Resilience._** When you issue the [Empower](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Empower) order to this facility, magical runes appear on the Demiplane’s walls and last for 7 days. Until the runes disappear, you gain [Temporary Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to five times your level after spending an entire Long Rest in the Demiplane.
+>
+>**_Fabrication._** While in the Demiplane, you can take a [Magic](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can’t have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a Long Rest before you can take this action again.
+
 
 #### Gardens and Greenhouse
 *Tended by [[Egnir]], [[Delwath]], or [[Kenzo]]*
@@ -145,7 +189,7 @@ The upper deck consists of, from stern to prow:
 >
 >**_Harvest: Garden Growth._** When you issue the [Harvest](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Harvest) order to this facility, you commission the facility’s hireling to collect items from the Garden as noted in the Garden Types table. The work takes 7 days and costs no money. Currently, the gardens can produce both food and flowers. 
 >
- ***Harvest: Food.*** 100 days worth of [Rations](https://www.dndbeyond.com/equipment/411-rations)
+ >***Harvest: Food.*** 100 days worth of [Rations](https://www.dndbeyond.com/equipment/411-rations)
  >
  >***Harvest: Flowers***. Ten exquisite floral bouquets (worth 5 GP each), ten vials of [Perfume](https://www.dndbeyond.com/equipment/396-perfume), or ten [Candles](https://www.dndbeyond.com/equipment/501-candle)
 
@@ -154,7 +198,7 @@ The upper deck consists of, from stern to prow:
 
 > [!info]+ Sacred Tree
 > >Tended by: [[Kenzo]]
-> >Game Effect: Meditation Chamber + Courtyard (Vast)
+> >Game Effect: [Meditation Chamber](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#MeditationChamber) + Courtyard (Vast)
 > >Size: 40 squares (Vast Courtyard, Cramped Meditation Chamber)
 > >Order: Empower
 > 
@@ -206,7 +250,23 @@ The upper deck consists of, from stern to prow:
 >
 >**_Observatory Charm._** You can use your Observatory to peer into the far corners of [Wildspace](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology#Wildspace) and the [Astral Plane](https://www.dndbeyond.com/sources/dnd/dmg-2024/cosmology#AstralPlane). After spending a Long Rest in your Observatory, you gain a magical Charm (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Contact Other Plane](https://www.dndbeyond.com/spells/2619052-contact-other-plane) without expending a spell slot. You can’t gain this Charm again while you still have it.
 >
-**_Empower: Eldritch Discovery._** When you issue the [Empower](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Empower) order to this facility, you enable yourself or the facility’s hireling to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the number rolled is even, nothing is gained. If the number rolled is odd, an unknown power bestows one of the following Charms on you or another creature of your choice that is on the same plane of existence as you: [Charm of Darkvision](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofDarkvision), [Charm of Heroism](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofHeroism), or [Charm of Vitality](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofVitality) (all described in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)).
+>**_Empower: Eldritch Discovery._** When you issue the [Empower](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Empower) order to this facility, you enable yourself or the facility’s hireling to explore the eldritch mysteries of the stars for 7 consecutive nights. At the end of that time, roll a die. If the number rolled is even, nothing is gained. If the number rolled is odd, an unknown power bestows one of the following Charms on you or another creature of your choice that is on the same plane of existence as you: [Charm of Darkvision](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofDarkvision), [Charm of Heroism](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofHeroism), or [Charm of Vitality](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CharmofVitality) (all described in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)).
+
+#### Arcane Demiplane
+*Tended by [[Seeker]] or [[Faldrak Bronzehammer|Faldrak]]*
+
+> [!info]+ Arcane Deminplane
+> >Game Effect: [Demiplane](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Demiplane)
+> >Size: None (door from Observatory)
+> >Order: Empower
+>
+>A door up to 5 feet wide and 10 feet tall appears on a flat, solid surface in one of the other facilities in your Bastion. You choose the location. If you are in your Bastion during a Bastion turn, you can relocate this door to another facility in your Bastion.
+>
+>Only you and your Bastion’s hirelings can open the door, which leads to a Demiplane that takes the form of a stone room. The Demiplane exists in an extradimensional space and therefore isn’t attached physically to other locations in your Bastion. Neither the Demiplane nor its door can be dispelled.
+>
+>**_Empower: Arcane Resilience._** When you issue the [Empower](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Empower) order to this facility, magical runes appear on the Demiplane’s walls and last for 7 days. Until the runes disappear, you gain [Temporary Hit Points](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#TemporaryHitPoints) equal to five times your level after spending an entire Long Rest in the Demiplane.
+>
+>**_Fabrication._** While in the Demiplane, you can take a [Magic](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#MagicAction) action to create a nonmagical object of your choice from nothing, causing it to appear in an unoccupied space in the Demiplane. The object can be no bigger than 5 feet in any dimension; can’t have a value over 5 GP; and must be made of wood, stone, clay, porcelain, glass, paper, nonprecious crystal, or nonprecious metal. You must finish a Long Rest before you can take this action again.
 
 #### Stable
 *Tended by [[Wellby]], or [[Adam Gower]] if Vindristjarna is docked in Tollen*
@@ -218,9 +278,10 @@ The upper deck consists of, from stern to prow:
 > 
 > A Bastion can have more than one Stable. Each Stable you add to your Bastion comes with one [Riding Horse](https://www.dndbeyond.com/monsters/4775839-riding-horse) or [Camel](https://www.dndbeyond.com/monsters/4775807-camel) and two [Ponies](https://www.dndbeyond.com/monsters/4775833-pony) or [Mules](https://www.dndbeyond.com/monsters/4775829-mule); see the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024) or the [Monster Manual](https://www.dndbeyond.com/sources/dnd/mm-2024) for these creatures’ stat blocks. The facility is big enough to house six Large animals. Two Medium creatures occupy the same amount of space as one Large creature there. The facility’s hireling looks after these creatures.
 >
-After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom ([Animal Handling](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) checks made with respect to it have Advantage.
+>After a Beast that can serve as a mount spends at least 14 days in this facility, all Wisdom ([Animal Handling](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) checks made with respect to it have Advantage.
 >
-**_Trade: Animals._** When you issue the [Trade](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade) order to this facility, you commission the facility’s hireling to buy or sell one or more mounts at normal cost, keeping the ones you buy in your Stable. The work takes 7 days, and the DM decides what types of animals are available for purchase—horses, ponies, and mules being the most common. The [Mounts and Other Animals](https://www.dndbeyond.com/sources/phb/equipment#MountsandOtherAnimals) table in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024) gives standard prices for various mounts. You bear the total cost of any purchases. When you sell a mount from your Stable, the buyer pays you 100 percent more than the standard price.
+>**_Trade: Animals._** When you issue the [Trade](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade) order to this facility, you commission the facility’s hireling to buy or sell one or more mounts at normal cost, keeping the ones you buy in your Stable. The work takes 7 days, and the DM decides what types of animals are available for purchase—horses, ponies, and mules being the most common. The [Mounts and Other Animals](https://www.dndbeyond.com/sources/phb/equipment#MountsandOtherAnimals) table in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024) gives standard prices for various mounts. You bear the total cost of any purchases. When you sell a mount from your Stable, the buyer pays you 100 percent more than the standard price.
+
 #### Basic Facilities, Upper Level
 
 > [!info]+ Main Building
@@ -228,16 +289,16 @@ After a Beast that can serve as a mount spends at least 14 days in this facility
 > >Size: 128 squares (Roomy Basic Quarters x9)
 >
 > This space has no specific game mechanics, but provides living quarters for the [[Dunmar Fellowship]], a guest suite, plus a substantial dining, kitchen, and living area.
-
-Kept in the kitchen are the following magic items:
-##### Pitcher of Purity
-The pitcher of purity is a silver water pitcher, of Drankorian make, that has a permanent enchantment. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. The Dunmar Fellowship [[Session 86 (DuFr)|recovered]] this item from the [[Occulta Ludum]] workshop and laboratory at the [[Elemental Forge]] in the [[Edge of Echoes]]. 
-##### Cold Chest
-The cold chest is a 3 foot deep by 4 foot wide stone chest, of Drankorian make, that is permanently enchanted so that any food or drink placed within it will not spoil. The Dunmar Fellowship [[Session 86 (DuFr)|recovered]] this item from the [[Occulta Ludum]] workshop and laboratory at the [[Elemental Forge]] in the [[Edge of Echoes]]. 
-
-Kept in the common living is the following magic item:
-##### Cleansing Stone
-The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment. 
+>
+>Kept in the kitchen are the following magic items:
+>##### Pitcher of Purity
+>The pitcher of purity is a silver water pitcher, of Drankorian make, that has a permanent enchantment. Any non-magical liquid poured into the pitcher is purified, removing any poison or disease and turning the liquid into pure drinking water. The Dunmar Fellowship [[Session 86 (DuFr)|recovered]] this item from the [[Occulta Ludum]] workshop and laboratory at the [[Elemental Forge]] in the [[Edge of Echoes]]. 
+>##### Cold Chest
+>The cold chest is a 3 foot deep by 4 foot wide stone chest, of Drankorian make, that is permanently enchanted so that any food or drink placed within it will not spoil. The Dunmar Fellowship [[Session 86 (DuFr)|recovered]] this item from the [[Occulta Ludum]] workshop and laboratory at the [[Elemental Forge]] in the [[Edge of Echoes]]. 
+>
+>Kept in the common living is the following magic item:
+>##### Cleansing Stone
+>The cleansing stone is a polished stone sphere of Drankorian make, 1 foot in diameter, embedded on top of short marble pedestal, that is permanently enchanted. While touching the stone, you can use an action to activate it and remove dirt and grime from your garments and your person. This stone was originally installed in [[Eudomes]]' bedroom in [[Stormcaller Tower]]; the party [[Session 71 (DuFr)|recovered it]] upon the destruction of the tower by [[Hralgar]] when he was freed from imprisonment. 
 
 
 > [!info]+ Control Room
@@ -279,21 +340,21 @@ The lower deck consists of, from stern to prow:
 > >Size: 16 squares (Roomy)
 >> Order: Craft 
 >
-**_Artisan’s Tools._** The Workshop comes equipped with the following tools:
-[Carpenter’s Tools](https://www.dndbeyond.com/equipment/409-carpenters-tools)
-[Glassblower’s Tools](https://www.dndbeyond.com/equipment/421-glassblowers-tools)
-[Jeweler’s Tools](https://www.dndbeyond.com/equipment/423-jewelers-tools)
-[Leatherworker’s Tools](https://www.dndbeyond.com/equipment/425-leatherworkers-tools)
-[Mason’s Tools](https://www.dndbeyond.com/equipment/428-masons-tools)
-[Tinker’s Tools](https://www.dndbeyond.com/equipment/441-tinkers-tools)
+>**_Artisan’s Tools._** The Workshop comes equipped with the following tools:
+>[Carpenter’s Tools](https://www.dndbeyond.com/equipment/409-carpenters-tools)
+>[Glassblower’s Tools](https://www.dndbeyond.com/equipment/421-glassblowers-tools)
+>[Jeweler’s Tools](https://www.dndbeyond.com/equipment/423-jewelers-tools)
+>[Leatherworker’s Tools](https://www.dndbeyond.com/equipment/425-leatherworkers-tools)
+>[Mason’s Tools](https://www.dndbeyond.com/equipment/428-masons-tools)
+>[Tinker’s Tools](https://www.dndbeyond.com/equipment/441-tinkers-tools)
 >
-**_Craft Options._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, choose one of the following options:
+>**_Craft Options._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, choose one of the following options:
 >
-**Craft: Adventuring Gear.** The facility’s hirelings craft anything that can be made with the tools in the Workshop, using the rules in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024).
+>**Craft: Adventuring Gear.** The facility’s hirelings craft anything that can be made with the tools in the Workshop, using the rules in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024).
 >
-**Craft: Magic Item (Implement).** If you are level 9+, you can commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Implements](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) tables in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
+>**Craft: Magic Item (Implement).** If you are level 9+, you can commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Implements](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ImplementsTables) tables in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
 >
-**_Source of Inspiration._** After spending an entire Short Rest in your Workshop, you gain [Heroic Inspiration](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HeroicInspiration). You can’t gain this benefit again until you finish a Long Rest.
+>**_Source of Inspiration._** After spending an entire Short Rest in your Workshop, you gain [Heroic Inspiration](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#HeroicInspiration). You can’t gain this benefit again until you finish a Long Rest.
 
 #### Training Area (Sparring Room)
 *Tended by any  trainer, see below*
@@ -313,27 +374,27 @@ The lower deck consists of, from stern to prow:
 *Tended by [[Seeker]]*
 
 > [!info]+ Archives
-> >Game Effect: Archive
+> >Game Effect: [Archive](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Archive)
 > >Size: 16 squares (Roomy)
 > > Order: Research 
 > 
 > An Archive is a repository of valuable books, maps, and scrolls. It is usually attached to a Library behind a locked or secret door.
 > 
-**_Research: Helpful Lore._** When you issue the [Research](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Research) order to this facility, you commission the facility’s hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [Legend Lore](https://www.dndbeyond.com/spells/2619010-legend-lore) spell, then shares this knowledge with you the next time you speak with them.
+>**_Research: Helpful Lore._** When you issue the [Research](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Research) order to this facility, you commission the facility’s hireling to search the Archive for helpful lore. The work takes 7 days. The hireling gains knowledge as if they had cast the [Legend Lore](https://www.dndbeyond.com/spells/2619010-legend-lore) spell, then shares this knowledge with you the next time you speak with them.
 >
-**_Reference Book._** Your Archive contains one copy of a rare and valuable reference book, which gives you a benefit while you and the book are in your Bastion. The Archive currently contains a single rare tome: *Name TBD*.  While you and your book on Vindristjarna, you have Advantage on any Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check you make when you take the [Study](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StudyAction) action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.
+>**_Reference Book._** Your Archive contains one copy of a rare and valuable reference book, which gives you a benefit while you and the book are in your Bastion. The Archive currently contains a single rare tome: *Name TBD*.  While you and your book on Vindristjarna, you have Advantage on any Intelligence ([Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills)) check you make when you take the [Study](https://www.dndbeyond.com/sources/dnd/free-rules/rules-glossary#StudyAction) action to recall lore about spells, magic items, eldritch symbols, magical traditions, and planes of existence.
 
 #### Reliquary and Sanctum (Shrine of the Bahrazel)
 *Untended*
 
 > [!info]+ Shrine of the [[Bahrazel]]
-> >Game Effect: Reliquary + Sanctum
+> >Game Effect: [Reliquary](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Reliquary) + [Sanctum](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Sanctum)
 > >Size: 20 squares (Cramped + Roomy)
 >> Order: Empower, Harvest
 >
 >The shrine to the Bahrazel holds sacred objects and is a sacred place. 
 >
-**_Reliquary Charm._** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Greater Restoration](https://www.dndbeyond.com/spells/2618961-greater-restoration) once without expending a spell slot or using Material components. You can’t gain this Charm again while you still have it.
+>**_Reliquary Charm._** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Greater Restoration](https://www.dndbeyond.com/spells/2618961-greater-restoration) once without expending a spell slot or using Material components. You can’t gain this Charm again while you still have it.
 >
 >**_Sanctum Charm._** After spending a Long Rest in your Bastion, you gain a magical Charm (see “[Supernatural Gifts](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#SupernaturalGifts)” in [chapter 3](https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox)) that lasts for 7 days or until you use it. The Charm allows you to cast [Heal](https://www.dndbeyond.com/spells/2618979-heal) once without expending a spell slot. You can’t gain this Charm again while you still have it.
 >
@@ -353,11 +414,11 @@ The lower deck consists of, from stern to prow:
 > 
 > This Smithy contains a forge, an anvil, and other tools needed to craft weapons, armor, and other equipment.
 >
-**_Craft Options._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, choose one of the following options:
+>**_Craft Options._** When you issue the [Craft](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Craft) order to this facility, choose one of the following options:
 >
-**Craft: Smith’s Tools.** The facility’s hirelings craft anything that can be made with [Smith’s Tools](https://www.dndbeyond.com/equipment/438-smiths-tools), using the rules in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024).
+>**Craft: Smith’s Tools.** The facility’s hirelings craft anything that can be made with [Smith’s Tools](https://www.dndbeyond.com/equipment/438-smiths-tools), using the rules in the [Player’s Handbook](https://www.dndbeyond.com/sources/dnd/phb-2024).
 >
-**Craft: Magic Item (Armament).** If you are level 9+, can you commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Armaments](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) tables in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
+>**Craft: Magic Item (Armament).** If you are level 9+, can you commission the facility’s hirelings to craft a Common or an Uncommon magic item chosen by you from the [Armaments](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items#ArmamentsTables) tables in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/random-magic-items). The facility has the tool required to craft the item, and the hirelings have proficiency with that tool as well as proficiency in the [Arcana](https://www.dndbeyond.com/sources/dnd/free-rules/playing-the-game#Skills) skill. See the “[Crafting Magic Items](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure#CraftingMagicItems)” section in [chapter 7](https://www.dndbeyond.com/sources/dnd/dmg-2024/treasure) for the time and money that must be spent to craft the item. If the item allows its user to cast any spells from it, you must craft the item yourself (the facility’s hirelings can assist), and you must have all those spells prepared every day you spend crafting the item.
 
 #### Basic Facilities, Lower Level
 
@@ -383,10 +444,10 @@ The storage deck is currently unfinished and is primarily used as an actual stor
 *Tended by [[Wellby]], or [[Adam Gower]] while [[Vindristjarna]] is docked in [[Tollen]]*
 
 > [!info]+ Storage Hold
-> >Game Effect: https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Storehouse
+> >Game Effect: [Storehouse](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Storehouse)
 > >Size: 36 squares (Vast)
 > > Order: Trade
 > 
-**_Trade: Goods._** When you issue the [Trade](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade) order to this facility, its hireling spends the next 7 days procuring nonmagical items that have a total value of 5000 GP or less and stores them in the Storehouse, or the hireling uses those 7 days to sell goods in the Storehouse. You bear the total cost of any purchases.
+>**_Trade: Goods._** When you issue the [Trade](https://www.dndbeyond.com/sources/dnd/dmg-2024/bastions#Trade) order to this facility, its hireling spends the next 7 days procuring nonmagical items that have a total value of 5000 GP or less and stores them in the Storehouse, or the hireling uses those 7 days to sell goods in the Storehouse. You bear the total cost of any purchases.
 >
 >When you sell goods from your Storehouse, the buyer pays you 100 percent more than the standard price.
