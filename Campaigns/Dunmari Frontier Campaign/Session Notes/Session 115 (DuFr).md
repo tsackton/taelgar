@@ -166,7 +166,7 @@ Uncertain as to why the ship has turned and traveled so far from [[Drankor]], bu
 	- The session will focus strictly on the outlined topics, with no deviations permitted.
 - Delwath’s charisma and the group’s urgent demeanor convince the guild to expedite the process. They agree to provide the requested information within 12 hours, though the representative expresses unease at the deviation from standard timelines.
 - While the others rest, Delwath seeks out [[Melindir]], an elven ambassador with whom the party shares a prior rapport.
-- [[Melindir]] confirms that [[Orenlas]] has limited resources to send aid, as much of their martial energy is devoted to defending their borders from the Plaguelands.
+- [[Melindir]] confirms that [[Orenlas]] has limited resources to send aid, as much of their martial energy is devoted to defending their borders from the [[Plaguelands]].
 - He suggests contacting the Stoneborn in the nearby mountains. Delwath mentions [[Drikod]], a former ally familiar with Dunmar’s plight.
 - [[Melindir]] provides Delwath with a vial of charm resistance, noting it may prove useful in their upcoming journey.
 - Delwath warns [[Melindir]] of the dire consequences should their mission fail, ensuring the elves are prepared for Apollyon’s potential return.
