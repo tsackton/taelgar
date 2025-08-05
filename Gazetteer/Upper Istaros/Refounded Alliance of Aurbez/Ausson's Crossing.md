@@ -20,4 +20,6 @@ A bustling inn in [[Laicon]] that stills forms the core of the settlement. It wa
 %% There are lots of notes in [[Ausson's Crossing NPCs]] and [[AC - Session 1]] but these are not necessarily canonical. Other DM notes exist in various places but may not be relevant
 
 My players really liked this place, and I intend to eventually revisit it in the Cleenseau campaign. 
+
+The name is from the founding family, the Aussons, i.e. see [[Giselle Ausson]], and the crossing is from the cart tracks crossing the Maseau - Dunmar Road. 
 %%
