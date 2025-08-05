@@ -72,15 +72,15 @@
 
   
 
-*Area:* This region includes the [[Apporia|Apporian Peninsula]], the islands of [[Illoria]], the [[Yeraad River Basin]], and the [[Nevos Sea]].
+*Area:* This region includes the [[Apporia|Apporian Peninsula]], the islands of [[Illoria]], the [[Yeraad Watershed]], and the [[Nevos Sea]].
 
   
 
-*Canonical Development and Constraints:* The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. The general vibes of Illoria, and the existence of large lizardfolk communities in the [[Yeraad River Basin]], are canonical. There is some significant post-Great War historical development, mostly concerning Dunmar and Apporia, that involves Illoria and needs to be considered in any future developments concerning Illoria.
+*Canonical Development and Constraints:* The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. The general vibes of Illoria, and the existence of large lizardfolk communities in the [[Yeraad Watershed]], are canonical. There is some significant post-Great War historical development, mostly concerning Dunmar and Apporia, that involves Illoria and needs to be considered in any future developments concerning Illoria.
 
   
 
-*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad River Basin]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
+*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad Watershed]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
 
   
 
