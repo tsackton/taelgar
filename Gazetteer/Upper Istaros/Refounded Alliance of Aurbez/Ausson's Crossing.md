@@ -17,4 +17,7 @@ dm_owner: mike
 
 A bustling inn in [[Laicon]] that stills forms the core of the settlement. It was founded before there was a village here, as a trading outpost along the [[Maseau - Dunmar Road]], where several cart tracks from the [[Aurbez Plateau]] descend.  There is a large fountain outside the inn, said to be blessed by the Wanderer many years ago, and which always brings forth fresh water.
 
-%% There are lots of notes in [[Ausson's Crossing NPCs]] and [[AC - Session 1]] but these are not necessarily canonical. Other DM notes exist in various places but may not be relevant %%
+%% There are lots of notes in [[Ausson's Crossing NPCs]] and [[AC - Session 1]] but these are not necessarily canonical. Other DM notes exist in various places but may not be relevant
+
+My players really liked this place, and I intend to eventually revisit it in the Cleenseau campaign. 
+%%
