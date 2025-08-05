@@ -12,7 +12,7 @@ dm_notes: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Greater Sembara is an ancient land blessed with mild weather, amble rain, and rich fertile soil. Largely unchanged by the upheavals of the [[Great War]], farmers plant winter wheat and summer millet and soybeans largely as they have for thousands of years. The rolling hills and fertile river valleys are dotted with small cities and prosperous market towns, and halflings traders ply the roads and waterways. This is a land defined by its rivers: the [[Kem]], [[Volta]], [[Teft]], [[Semb]], [[Wisford]], and [[Enst]] in particular. 
+Greater Sembara is an ancient land blessed with mild weather, ample rain, and rich fertile soil. Largely unchanged by the upheavals of the [[Great War]], farmers plant winter wheat and summer millet and soybeans largely as they have for thousands of years. The rolling hills and fertile river valleys are dotted with small cities and prosperous market towns, and halflings traders ply the roads and waterways. This is a land defined by its rivers: the [[Kem]], [[Volta]], [[Teft]], [[Semb]], [[Wisford]], and [[Enst]] in particular. 
 ## Map
 
 ```leaflet 
