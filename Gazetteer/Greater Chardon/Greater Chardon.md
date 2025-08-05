@@ -62,7 +62,7 @@ _Before DR 597_
 Little is known of the history of this region before the [[Drankorian Western Wars|the coming of Drankor]].  It is widely believed that early migrants from [[Hkar]] lived along the [[~North Chardon Coast~]] in the shadow of [[Alcarinque|Alcarinquë]] before the [[The Downfall|Downfall]] but the cultures and civilizations these migrants formed during and after the Downfall is not recorded. 
 #### Western Wars
 _DR 597 - DR 634_
-Between DR 597 and DR 634, Drankor fought a series of [[Drankorian Western Wars|series of wars]] to force the people of the [[Yeraad River Basin]] and [[~North Chardon Coast~]] into the growing Drankorian Empire.  In the telling of the [[Faculty of History]] at the [[University of Chardon]], the  wars brought civilization and safety to a land full of dangers. The [[Society of Ocean Watchers]] in [[Hamri]] would tell a different tale, of Drankorian conquest seeking treasure and plunder, and agricultural land for their expanding empire, with no concerns for the inhabitants of the land.
+Between DR 597 and DR 634, Drankor fought a series of [[Drankorian Western Wars|series of wars]] to force the people of the [[Yeraad Watershed]] and [[~North Chardon Coast~]] into the growing Drankorian Empire.  In the telling of the [[Faculty of History]] at the [[University of Chardon]], the  wars brought civilization and safety to a land full of dangers. The [[Society of Ocean Watchers]] in [[Hamri]] would tell a different tale, of Drankorian conquest seeking treasure and plunder, and agricultural land for their expanding empire, with no concerns for the inhabitants of the land.
 #### Drankorian Era
 _DR 634 - DR 1059_
 For the next five hundred years, Drankor ruled in peace and prosperity. The city of [[Chardon]] was founded, and grew and prospered. Few records are well attested of this time, although surely the [[Faculty of History]] has lost scrolls or hidden records that tell of the growth of the city of Chardon, at least.
@@ -102,7 +102,7 @@ When the [[Great War]] came, the lands north of [[Chardon]] bore the brunt of th
 ## DM Notes and Meta
 _See also: [[Places in Greater Chardon]]
 
-*Canonical Development and Constraints:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details. The existence of large lizardfolk communities in the [[Yeraad River Basin]] is canonical. The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. 
+*Canonical Development and Constraints:* Although some features lack names, this region is substantially developed in broad strokes, especially the current day large-scale political organization, and the basic geography and climate. The Chasa River Valley, including the city of Chardon, has lots of current-day canonical details. The existence of large lizardfolk communities in the [[Yeraad Watershed]] is canonical. The north coast of the [[Apporia|Apporian Peninsula]] has a sketched history with some canonical details, and detailed development of current day political units, climate, and geography. 
 
 *Brainstorming and Potential Canon:* While this region has a canonical history in broad strokes, many details are only weakly or non-canonically developed, or left blank. Although canonically most of this region is part of the Chardonian Empire, the local political cultures are largely undeveloped. 
 
@@ -140,7 +140,7 @@ The West Coast Region includes the entirety of the [[Chardonian Empire]], as wel
 - [[Snake River]]: *Canon: center for chalyte mining - mountainous and arid with extensive plains.*
 - [[Tawir Forest]]: *So far just a name.*
 - [[Chasa River Valley]]: *agricultural mixed with forests, major population center*
-- [[Yeraad River Basin]]: *southeast of Chardon, south of Chasa/Elderwood. Major lizardfolk area, mining in the hills that separate it from Chasa, and in the "Darba Mountains". Very little detail otherwise - probably fairly flat, hot in the summer. This is basically med transitioning to semi-arid in the east and south, likely supporting fruit trees near the coast, and extensive livestock, probably the center of the Chardon cattle industry.*
+- [[Yeraad Watershed]]: *southeast of Chardon, south of Chasa/Elderwood. Major lizardfolk area, mining in the hills that separate it from Chasa, and in the "Darba Mountains". Very little detail otherwise - probably fairly flat, hot in the summer. This is basically med transitioning to semi-arid in the east and south, likely supporting fruit trees near the coast, and extensive livestock, probably the center of the Chardon cattle industry.*
 - [[Apporia]]: *Undeveloped until the kelp forest adventure off the coast.* 
 - [[Nevos Sea]] and [[Emerald Bay]]: *trending into subtropics here*
 
@@ -177,11 +177,11 @@ Major features include a major river, large forests to the east against the ~Cen
 
 ## 4. Apporia and the Nevos Sea
 
-*Area:* This region includes the [[Apporia|Apporian Peninsula]], the islands of [[Illoria]], the [[Yeraad River Basin]], and the [[Nevos Sea]]. 
+*Area:* This region includes the [[Apporia|Apporian Peninsula]], the islands of [[Illoria]], the [[Yeraad Watershed]], and the [[Nevos Sea]]. 
 
 *Canonical Development and Constraints:* 
 
-*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad River Basin]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
+*Non-Canonical Development:* There are a number of lightly defined regions here (in particular, [[Illoria]] and the [[Yeraad Watershed]] are lightly sketched, at best). The exact cultural heritage of [[Illoria]] is unclear, as is its history during the [[Drankorian Era]].
 
 *Blank Regions*: Illoria itself lacks anything more than some basic vibes, and the Emerald Bay coast of the Apporian Peninsula, outside the terminus of the [[Old Chardon Canal]], is nearly entirely blank. These areas are not intentionally blank and could use development. On the Apporia Peninsula, the interior and western coasts are intentionally left blank and mysterious. The southern and eastern coasts of the Apporian Peninsula is plausibly either Illorian or something mysterious, but has not been canonically developed at all.  The overall history of this region, at least outside the intentionally blank areas, could use development building on the existing fragments. 
 

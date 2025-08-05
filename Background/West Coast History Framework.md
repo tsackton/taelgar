@@ -109,7 +109,7 @@ Whether anyone lives in the areas marked 3 and 4 above is not clear, and if some
 
 ### Non-humans
 
-Two major non-human cultures exist before the Great War: the elves of [[Ainumarya]], which is the largest and most powerful elven realm at the time, and the lizardfolk of the [[Yeraad River Basin]], also an extensive and significant non-human culture. 
+Two major non-human cultures exist before the Great War: the elves of [[Ainumarya]], which is the largest and most powerful elven realm at the time, and the lizardfolk of the [[Yeraad Watershed]], also an extensive and significant non-human culture. 
 
 ## After the Great War
 

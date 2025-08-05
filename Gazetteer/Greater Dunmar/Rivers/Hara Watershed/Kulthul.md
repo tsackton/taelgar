@@ -1,8 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [place]
+tags: [place, status/needswork/continuity]
 typeOf: river
-whereabouts: Istaros Watershed
+whereabouts: Hara Watershed
 dm_owner: none
 dm_notes: none
 ---
