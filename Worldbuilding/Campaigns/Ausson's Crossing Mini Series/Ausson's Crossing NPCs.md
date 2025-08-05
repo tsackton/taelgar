@@ -1,5 +1,7 @@
 %% This page is a copy of a word doc I made about Ausson's Crossing NPCs. The goal is to move them as much as is sensible to real people pages but not 100% of these people are still alive in 1720 much less 1749, nor necessarily canonical %%
 
+%% NOTE: This page is incomplete as some people have moved to real pages, i.e. [[Lizette Ausson]], [[Giselle Ausson]] %%
+
 ## Inhabitants of Ausson’s Crossing
 
 ### The Ausson Household
