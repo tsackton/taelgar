@@ -8,8 +8,8 @@ dm_owner: none
 dm_notes: none
 ---
 # The Aurbez and the Andonne
->[!info]+ Information
-> `$=dv.view("_scripts/view/get_Affiliations")`
+>[!info]+ Information  
+> `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
 This region is a borderland, caught between the [[Sentinel Range]] to the west and the [[Plaguelands]] to the east. It is a marginal land, with hot, dry summers when the ash-wind blows from the east and cold, dry winters when the westerlies blow over the mountains. The main rainfall is in the spring, when in lucky years several soaking rains will replenish the land, and in the summer when the punishing thunderstorms race from the east, bringing flash floods, lightning, and hail. In autumn the rivers shrink, and the temperature is briefly moderate before the cooler winters come.

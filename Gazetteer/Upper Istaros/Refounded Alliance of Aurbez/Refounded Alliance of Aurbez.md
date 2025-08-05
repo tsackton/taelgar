@@ -4,8 +4,8 @@ tags: [place, status/needswork/shared]
 name: Refounded Alliance of Aurbez
 typeOf: realm
 whereabouts: Upper Istaros
-dm_owner: mike
-dm_notes: color
+dm_owner: joint
+dm_notes: none
 ---
 # The Refounded Alliance of Aurbez
 >[!info]+ Information  
@@ -15,8 +15,6 @@ dm_notes: color
 %% adding status/mike in case there are additional non-shared notes to incorporate %%
 
 %%
-
-A few vibes notes from 
 
 The below is a start, but needs collation with a bunch of discussions on discord, in email, etc as part of the planning around both [[Isingue]] and my Ausson's mini series
 #### The Refounded Alliance of Aurbez
