@@ -14,8 +14,8 @@ dm_notes: none
 %% Status:
 * [x] In world intro
 * [x] Map
-* [ ] Topography
-* [ ] Civilizations and Culture
+* [x] Topography
+* [x] Civilizations and Culture
 * [ ] History
 * [ ] Climate
 * [ ] Climate - Real World
@@ -97,6 +97,7 @@ After the fall of Drankor, the Upper Istaros attracted settlers and refugees who
 - [ ] Great War
 - [ ] Refugees
 - [ ] Settlement of Aurbez and Andonne
+- [ ] Settlement of Xurkhaz
 - [ ] Growth in the 1700s
 
 %%
