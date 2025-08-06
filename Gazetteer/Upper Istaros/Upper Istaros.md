@@ -51,25 +51,26 @@ _See more: [[Istaros Watershed]]_
 The Upper Istaros is defined by its rivers. This region contains [[Lake Aeulian]], the headwaters of the [[Istaros]], as well the river systems that feed it: the [[Aursen]], [[Douren]], [[Andonne]] , and [[Kulthul]] from the [[Sentinel Range|Sentinels]]; the [[Valmont]] and its tributaries; the [[~Orenlas Tributary~]] watershed, and the [[~Southern Plaguelands Tributary~]] watershed. 
 
 %%SECRET[1]%%
+
 In the northwest, the land is flat along the [[Andonne Plain]], although now much of the former ranchlands and wheatfields are turned to dust and ash. The Andonne Plain ends abruptly at the [[Westcliff]], the western edge of the [[Mostreve Hills]]. 
+
 %%SECRET[2]%%
 
 ## Civilizations and Cultures
 _See more: [[Orenlas]], [[March of Andonne]], [[Refounded Alliance of Aurbez]], [[Xurkhaz]]_
 
+Nowhere in the Upper Istaros is densely settled, and what settlement does exist here clings to the edges of the region, away from the most dangerous parts of the [[Plaguelands]]. On the [[Andonne Plain]], the people of the [[March of Andonne]] herd cattle and goats, retreating to the fortified ranches of the marcher lords when ash or hobgoblins threaten. Along the [[Maseau - Dunmar Road]], and in the highlands on the [[Aurbez Plateau]], the [[Refounded Alliance of Aurbez]] is settled by a mix of refugees from [[Isingue]], others fleeing the devastation of the [[Great War]], and independent frontier-folk, who eke out a living in small-scale farms and sheepholds. 
 
-{descriptive text of civilizations and cultures}
+To the east, the vast mystical kingdom of [[Orenlas]] is home to a significant population of [[elves]]; it is claimed that the forests of Orenlas are the last remaining echoes of the primeval forests that once stretched across the entire Istaros watershed and beyond. While the elves of [[Orenlas]] rarely settle outside their homeland, it is not uncommon to see an elf traveling through the Upper Istaros, and some join [[The Rangers]]. 
 
-%%
-Elves:  [[Orenlas]]
-Dwarves:  ??
-Lizardfolk: ??
-Humans:  [[Refounded Alliance of Aurbez]]
-Stoneborn:  ??
-Hobgoblins: Iron Fang
-Dangerous Wildernesses: Yes
-Other: [[Xurkhaz]] free orcs
-%%
+Relatively few [[dwarves]] make their home in the Upper Istaros, and those that do almost exclusively live among human communities. Once, the [[Sentinel Range|Sentinels]] on the western border of this region were part of the great dwarven kingdom of [[Ardith]]. But this kingdom was destroyed during the [[Great War]], and only the rare dwarf lingers on the outskirts of this once-great realm; most fled south, to the [[Yuvanti Mountains]]. [[Stoneborn]], however, are common in the southern [[Sentinel Range|Sentinels]], which they call the [[Sentinel Range|Indalas]], and they sometimes travel (or, more rarely, settle) along the [[Aurbez Plateau]]. Halflings are a constant presence along the [[Maseau - Dunmar Road]]. 
+
+%%^Campaign:dufr%%
+To the south, the free [[orcs]] who call themselves the [[People of the Rainbow]] farm and herd cattle in the floodplains between the [[Istaros]] and the [[Kulthul]], in the kingdom of [[Xurkhaz]]. Their kingdom is protected from the dangers around them, and the ever-present threat of [[Thark]]'s vengeance on orcs who escape his grasp, by the magic of the [[Cloak of Rainbows]]. 
+%%^End%%
+
+%%SECRET[3]%%
+
 ## Climate
 
 {descriptive in world text about climate}
@@ -83,7 +84,22 @@ Other: [[Xurkhaz]] free orcs
 ## Major Historical Eras
 _See more: {links}_
 
-{descriptive text of major era}
+%%DRAFT%%
+
+Long ago, the Istaros, known as the Aistanë to the elves, flowed through the vast forests of [[Alcarinque|Alcarinquë]], and much of this region was settled by elves. After the devastation of the [[The Downfall|Downfall]], the elves retreated to [[Orenlas]], but the fertile valleys of the [[Istaros]] were not left unsettled for long. The nascent [[Drankorian Empire]] grew quickly, and the Upper Istaros became one of the major agricultural heartlands of the Empire. 
+
+After the fall of Drankor, the Upper Istaros attracted settlers and refugees who rejected the structures of the Drankorian empire, drawn to rumors of magic in the soil and the land that enhanced the vitality of everything growing in the region. Isingue, although never a large city, became a major cultural and mystical center, first among equals across the densely settled region. The Isingue region grew rich on its argicultural wealth, supplemented by its position at the crossroads between Cymea, Sembara, and the growing wealth of Dunmar, and established an informal political arrangement, the [[Istabor Alliance]].
+
+%%
+
+- [ ] Avatus
+- [ ] Sembara expansion
+- [ ] Great War
+- [ ] Refugees
+- [ ] Settlement of Aurbez and Andonne
+- [ ] Growth in the 1700s
+
+%%
 
 %%^Campaign:None%%
 ## DM Notes and Meta
