@@ -93,6 +93,13 @@ class DateManager {
         if (metadata && metadata.pageTargetDate) {
             return this.normalizeDate(metadata.pageTargetDate, false);
         }
+
+        if (window.FantasyCalendarAPI == undefined || window.FantasyCalendarAPI.getCalendars().length == 0) {
+            const calendarAPI = Calendarium.getAPI("Taelgar");
+            const currentDate = calendarAPI.getCurrentDate(); // this is an object { year: number, month: number, day: number }
+            return this.normalizeDate( {year: currentDate.year, month: currentDate.month, day: currentDate.day}, false);
+        }
+
         return this.normalizeDate(window.FantasyCalendarAPI.getCalendars()[0].current, false);
     }
 
