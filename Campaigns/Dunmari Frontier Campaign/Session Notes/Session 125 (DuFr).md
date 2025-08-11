@@ -7,6 +7,7 @@ realWorldDate: 2025-06-03
 DR: 1749-06-27
 DR_end: 1749-06-27
 players: [Delwath, Kenzo, Wellby]
+companions: [Seeker 3]
 tagline: in which the party confronts suspicion and seeds revolution
 descTitle: Return to Chardon 
 ---
