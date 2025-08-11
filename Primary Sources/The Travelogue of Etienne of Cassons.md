@@ -1,10 +1,13 @@
 ---
 headerVersion: 2023.11.25
-tags: [source]
+tags: [source, status/check/mike]
 dm_owner: none
 dm_notes: none
 ---
 # The Travelogue of Etienne of Cassons
+
+%% note: this is not correct for DR 1743, and I assume the date is not canonical. this feels more like maybe 1690 +/- 10 years. leaving status/check/mike to reset the date officially %%
+
 *DR 1743*
 
 %%^Date:1743%%
