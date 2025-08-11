@@ -13,6 +13,5 @@ dm_owner: none
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Aursenbourg is a walled market town around the 
+Aursenbourg is a walled market town where the [[Maseau - Dunmar Road]] crosses the [[Aursen]], centered on a sturdy stone bridge built over the river in DR 1732. Now a major market town for the region, a generation ago this was only a small village known as Aursen's Crossing, where regular ferry service would shuttle caravans and traders over the Aursen.
 
-small village on the crossing of the [[Aursen]] along the [[Maseau - Dunmar Road]]. There is a ferry here over the river. 
