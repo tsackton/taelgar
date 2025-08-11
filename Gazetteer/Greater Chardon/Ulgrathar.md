@@ -4,6 +4,8 @@ tags: [place]
 typeOf: realm
 ancestry: giant
 whereabouts: Chataan Mountains
+dm_notes: important
+dm_owner: tim
 ---
 # Ulgrathar
 >[!info]+ Information  

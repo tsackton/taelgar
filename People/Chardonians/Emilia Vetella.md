@@ -5,6 +5,8 @@ species: human
 ancestry: Chardonian
 gender: female
 displayDefaults: {defArt: ""}
+dm_notes: important
+dm_owner: tim
 ---
 # Emilia Vetella
 >[!info]+ Biographical Info  

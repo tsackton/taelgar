@@ -3,6 +3,8 @@ headerVersion: 2023.11.25
 tags: [organization]
 ancestry: Chardonian
 typeOf: elected assembly
+dm_notes: important
+dm_owner: tim
 ---
 # The Curia of 42
 >[!info]+ Information  

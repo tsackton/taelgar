@@ -6,6 +6,8 @@ gender: female
 ancestry: Chardonian
 born: 1721
 whereabouts: Chalyte Levels
+dm_notes: none
+dm_owner: none
 ---
 # Adina
 >[!info]+ Biographical Info  

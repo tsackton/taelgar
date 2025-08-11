@@ -1,5 +1,7 @@
 ---
 tags: [background]
+dm_notes: important
+dm_owner: tim
 ---
 
 Chalyte is the source of much of the magical might of Chardon, the engine behind its powerful navy, and the source of much of its wealth. Since the discovery of chalyte in the area around Voltara, control of the chalyte trade has been a contentious political issue.

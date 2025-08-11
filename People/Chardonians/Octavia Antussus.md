@@ -5,6 +5,8 @@ ancestry: Chardonian
 born: 1698
 species: human
 gender: female
+dm_notes: none
+dm_owner: none
 ---
 # Octavia Antussus
 >[!info]+ Biographical Info  

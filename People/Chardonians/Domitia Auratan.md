@@ -5,6 +5,8 @@ species: human
 ancestry: Chardonian
 displayDefaults: {defArt: ""}
 died: 1723
+dm_notes: important
+dm_owner: tim
 ---
 # Domitia Auratan
 >[!info]+ Biographical Info  

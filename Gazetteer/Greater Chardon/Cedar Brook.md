@@ -6,6 +6,8 @@ typeOf: river
 whereabouts: 
 - {type: primary, location: Greater Chardon}
 - {type: secondary, location: Yeraad Watershed }
+dm_notes: none
+dm_owner: none
 ---
 # Cedar Brook
 >[!info]+ Information  
