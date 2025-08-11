@@ -341,9 +341,8 @@ The following mundane items are kept on [[Vindristjarna]]:
 - A letter of introduction from [[Kaleha]], high priest of the [[Tokra]] monastery, vouching for our good character.
 - A writ of travel directing all godly people of [[Dunmar]] to provide aid and comfort to the bearers named (the party), signed and sealed by Nayan [[Sura]], the brother of the current Samraat and according to her the rightful ruler of [[Dunmar]].
 - [[Hralgar]] gives his blessing for the party to restore and take [[Vindristjarna]], The Star on the Wind, the ruined airship that requires a new phasing stone to fly
-## Heroes
-- Rope ladder (50' long, with spikes to anchor it) from the Pandemonium ruins. Replaces the ladder who died heroically in battle. 
 ### Died heroically
 - A 15’ rope [[Ladder]], originally from lair of the [[Fraternity of the Empty Moon]]. Fought valiantly against many enemies, distinguishing themselves in combat against werewolves and others, until bravely dying in battle against [[Mezzar|Grimbaskal]] the green dragon to allow the rest of the party to escape in [[Session 51 (DuFr)]].
 - The Boulder-Ladder, the hero of the [[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
 - The New Ladder, who finally got to destroy a mirror in Cloudspinner's prison, before bravely dying in battle against [[Ra'ghemdros]]. Slowly the ur-Ladder is beginning to feel that fighting dragons might be dangerous. 
+- The Fourth Ladder, who died destroying a chalyte mirror powering a lightning tower and chalyte death ray. It is always worth the sacrifice to destroy mirrors. 
