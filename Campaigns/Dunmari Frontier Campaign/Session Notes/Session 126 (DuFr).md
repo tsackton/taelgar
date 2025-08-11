@@ -69,7 +69,7 @@ We end as the party departs the[[ Imperial Palace]], with orders to keep their j
 
 - Party reunites after split night; Welby stayed at a halfling inn, Kenzo and Delwath on Tiberius's ship
 - Seeker 3 drops off urgent warning about fire resistance and leaves on an errand for Seeker Prime
-- Recap of local power figures: Tiberius (Windcaller, magistrate ally), working-class reps Red and Orsino, and abolitionist liaison Andros
+- Recap of local power figures: Tiberius (Windcaller, magistrate ally), working-class reps Red and [[Orsino]], and abolitionist liaison Andros
 - Discussion reveals Chelite industry monopolized by four oligarch families; Heptarian Magicka previously sole permitted buyer due to bureaucratic rules
 - Chamber of Stamps bureaucracy responsible for regulation has vanished after mind control incidents; Chelite trade halted
 - Party debates current state of Chelite supply, unrest in the city, and investigates whether their actions led to systemic breakdown

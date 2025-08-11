@@ -85,10 +85,10 @@ Satisfied and relieved, [[Tiberius]] promised to arrange a meeting with the [[Mi
 ### Debate Over Chelite Refinery Future
 
 - Kenzo and party enter Cackling Swan tavern, drawing attention from resistance members.
-- Introduced to Andros, Orsino, and Red, informal leaders with differing views on action.
+- Introduced to Andros, [[Orsino]], and Red, informal leaders with differing views on action.
 - Discussion reveals community is unorganized, split between burning refineries and negotiating.
 - Kenzo pushes for long-term solutions, encouraging labor organization over immediate violence.
-- Soul sight and insight checks clarify Red's anger-driven leadership and Orsino's foreman-like influence.
+- Soul sight and insight checks clarify Red's anger-driven leadership and [[Orsino]]'s foreman-like influence.
 - Party urges leaders to identify trusted representatives, promising to help negotiate power and create hope.
 
 ### Arrival on Arturian's Pride
