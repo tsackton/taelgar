@@ -7,6 +7,8 @@ typeOf: vehicle
 typeOfAlias: ship
 whereabouts: 
 - {type: home, location: Chardon, startFilter: "" }
+dm_notes: none
+dm_owner: tim
 ---
 # The Auratan's Pride
 >[!info]+ Information  

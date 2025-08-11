@@ -5,6 +5,8 @@ species: giant
 subspecies: stone
 gender: male
 whereabouts: Ulgrathar
+dm_notes: none
+dm_owner: none
 ---
 # Brunnar
 >[!info]+ Biographical Info  

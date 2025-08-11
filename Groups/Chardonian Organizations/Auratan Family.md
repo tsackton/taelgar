@@ -6,6 +6,8 @@ typeOf: family
 typeOfAlias: chalyte oligarch family
 pronunciation: aw-rah-TAHN
 whereabouts: Chardon
+dm_notes: important
+dm_owner: tim
 ---
 # The Auratan Family
 *(aw-rah-TAHN)*

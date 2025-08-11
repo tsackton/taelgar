@@ -5,6 +5,8 @@ species: human
 ancestry: Chardonian
 gender: male
 displayDefaults: {defArt: ""}
+dm_notes: none
+dm_owner: none
 ---
 # Tristan Brighteyes
 >[!info]+ Biographical Info  

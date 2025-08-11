@@ -1,16 +1,15 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
+typeOf: tavern
+whereabouts: Chalyte Levels
 displayDefaults: {defArt: ""}
-typeOf: river
-whereabouts: 
-- {type: primary, location: Greater Chardon}
-- {type: secondary, location: Yeraad Watershed }
 dm_notes: none
 dm_owner: none
 ---
-# Cedar Brook
+# The Cackling Swan
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+A bustling pub near the [[Foundry Market]] that serves as an informal meeting point for laborers and chaylte workers. 

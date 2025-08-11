@@ -1,6 +1,8 @@
 ---
 headerVersion: 2023.11.25
 tags: [organization]
+dm_notes: important
+dm_owner: tim
 ---
 # The Eightfold Flame
 >[!info]+ Information  

@@ -1,16 +1,14 @@
 ---
 headerVersion: 2023.11.25
 tags: [place]
-displayDefaults: {defArt: ""}
-typeOf: river
-whereabouts: 
-- {type: primary, location: Greater Chardon}
-- {type: secondary, location: Yeraad Watershed }
+typeOf: mountain
+whereabouts: Chataan Mountains
 dm_notes: none
 dm_owner: none
 ---
-# Cedar Brook
+# Thundercrown
 >[!info]+ Information  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+A large, prominent peak in the northern [[Chataan Mountains]], noted to be near a rich source of[[chalyte]]. 

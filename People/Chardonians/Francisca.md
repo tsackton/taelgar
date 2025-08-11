@@ -6,6 +6,8 @@ species: human
 gender: female
 born: 1699
 whereabouts: Chalyte Levels
+dm_notes: none
+dm_owner: none
 ---
 # Francisca
 >[!info]+ Biographical Info  

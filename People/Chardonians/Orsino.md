@@ -6,6 +6,8 @@ ancestry: Chardonian
 gender: male
 displayDefaults: {defArt: ""}
 whereabouts: Chalyte Levels
+dm_notes: none
+dm_owner: none
 ---
 # Orsino
 >[!info]+ Biographical Info  

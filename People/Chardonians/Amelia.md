@@ -6,6 +6,8 @@ born: 1728
 gender: female
 ancestry: Chardonian
 whereabouts: Chardon
+dm_notes: none
+dm_owner: none
 ---
 # Amelia
 >[!info]+ Biographical Info  

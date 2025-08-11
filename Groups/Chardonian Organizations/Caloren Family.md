@@ -6,6 +6,8 @@ typeOf: family
 typeOfAlias: chalyte oligarch family
 pronunciation: kah-LOR-en
 whereabouts: Chardon
+dm_notes: important
+dm_owner: tim
 ---
 # The Caloren Family
 *(kah-LOR-en)*

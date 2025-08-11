@@ -5,6 +5,8 @@ ancestry: Chardonian
 species: human
 gender: male
 whereabouts: Nera Domains
+dm_notes: important
+dm_owner: tim
 ---
 # Gaspar
 >[!info]+ Biographical Info  
