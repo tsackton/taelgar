@@ -62,7 +62,6 @@ Willing to contemplate radical solutions to break the status quo, the [[Mitus Ve
 We end as the party departs the[[ Imperial Palace]], with orders to keep their journey secret, and a promise that the Magistros would deliver information to aid on their quest shortly.
 
 %%
-
 ## Detailed Summary
 
 ### Breakfast at the Barking Seal
