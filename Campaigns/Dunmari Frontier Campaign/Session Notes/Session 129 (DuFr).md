@@ -27,7 +27,7 @@ After reshaping Chardon's chalyte order, the party receives a desperate plea for
 - Weeks later, [[Sura]]’s urgent message drew the party east; they teleported to the [[Aursen Marshes|marshes]] of the upper [[Aursen]] to aid [[Marcella]].
 - Night recon as great eagles led to an ash cloud masking a 400‑foot-long, shifting‑metal centipede behemoth venting ash and carrying thousands of hobgoblins; a [[Empress of Chaos|silver‑clad commander]] radiated a reality‑warping aura.
 - An invisible ambush at the column’s tail dropped two riders; the party seized one with telekinesis and escaped via teleport before the commander could pinpoint them.
-- Magical interrogation of the captured hobgoblin, [[Szoltar|Szoltár]], revealed the [[Empress of Chaos]]'s design: a Chaos Spear to pierce the plateau’s secret heart, harness [[Isingue]]’s magic and control the ooze titan, and then break the [[March of Andonne]] and consume the lands to the north and west. 
+- Magical interrogation of the captured hobgoblin, [[Worldbuilding/Staging/Dunmar Frontier/Szoltar|Szoltár]], revealed the [[Empress of Chaos]]'s design: a Chaos Spear to pierce the plateau’s secret heart, harness [[Isingue]]’s magic and control the ooze titan, and then break the [[March of Andonne]] and consume the lands to the north and west. 
 
 ### Timeline
 
@@ -96,7 +96,7 @@ _The hobgoblin stirs under enchantment, groggy, then sits upright. His eyes dart
 
 **Szoltár:** They too shall be consumed by the chaos metal of the Empress. None will survive. 
 
-**Kenzo (*aside*):** Nobody’s told Seeker about this Chaos metal.
+**Kenzo (*aside*):** Nobody tell Seeker about this Chaos metal.
 
 **Wellby:** Do all of our problems go back to emperors?
 
