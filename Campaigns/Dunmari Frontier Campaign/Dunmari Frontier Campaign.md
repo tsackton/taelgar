@@ -15,7 +15,7 @@ You might start with:
 - Information about [[Vindristjarna]], its [[Vindristjarna Mechanics|control mechanics]] and its [[Vindristjarna Bastion Rules|special facilities]].
 - Information about [[Dunmar Fellowship Associates|companions, followers, and hirelings]]. 
 
-The most recent session with published notes is [[Session 126 (DuFr)]]. 
+The most recent session with published notes is [[Session 130 (DuFr)]]. 
 
 %%^Campaign:none%%
 

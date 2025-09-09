@@ -1,5 +1,0 @@
----
-aliases: [Szoltár]
----
-
-![[szoltar.png]]
