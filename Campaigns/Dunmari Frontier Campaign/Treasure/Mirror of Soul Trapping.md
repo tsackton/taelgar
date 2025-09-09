@@ -43,7 +43,7 @@ You sense there may be other command words, but further study or research on the
 #### Occupants
 Current occupants of the mirror are:
 
-1. [[Revaka]], a hobgoblin, trapped by [[Agata]] / [[Szoltar 1|Szoltár]], a hobgoblin solider from the [[Iron Fang]], trapped in [[Session 130 (DuFr)]]
+1. [[Revaka]], a hobgoblin, trapped by [[Agata]] / [[Szoltar|Szoltár]], a hobgoblin solider from the [[Iron Fang]], trapped in [[Session 130 (DuFr)]]
 2. (removed when cells holding Revaka and Szoltar)
 3. A wyvern, trapped in [[Session 43 (DuFr)]]. 
 4. Kinzal mage and messenger, trapped in [[Session 96 (DuFr)]]
