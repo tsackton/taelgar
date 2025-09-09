@@ -51,6 +51,7 @@ The party learns of strange happenings in [[Haldrenn]] and rescues a lost girl.
 - **[[Haldrenn]]** – remote village ringed by wooden wards
 - **Bee Cave** – shallow cavern east of [[Haldrenn]] where Rowena hid
 
+## Narrative
 ### Sunday, May 16th, 2 Robert I
 
 In the morning, the party receives a visit from [[Caradoc]], who has come to speak with them in [[Roscombe]] after hearing troubling rumors of mad animals in the isolated village of [[Haldrenn]], in the [[Highmoor]] to the northeast. Warning the party that dangerous [[fey]] may be involved, he asks them to investigate, but tell no one of what is happening. Agreeing, the party walks with [[Caradoc]] to [[Brantor]], where they trade a pearl and some gold for potions before heading northeast towards [[Haldrenn]]. 
