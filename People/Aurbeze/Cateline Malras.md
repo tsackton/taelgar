@@ -14,7 +14,7 @@ whereabouts:
 - {type: away, start: 1749-08-06, end: 1749-08-07, location: Three Wells}
 dm_owner: tim
 dm_notes: important
-pronunciation: KAT-eh-leen  mahl-RAH 
+pronunciation: KAT-eh-leen mahl-RAH 
 ---
 # Cateline Malras
 *(KAT-eh-leen mahl-RAH)*
