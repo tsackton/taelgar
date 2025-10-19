@@ -63,5 +63,40 @@ The action begins just outside the market town of [[Cleenseau]].
 * July 28th, 2024: [[Cleenseau - Session 16]]  (in Taelgar, February 7th - February 17th)
 	The party heads in the hills and bargains with a fey
 
+* August 18th, 2024: [[Cleenseau - Session 17]] (in Taeglar,  February 17th - February 19th)
+	The party investigates necromancers in [[Aslain]] and a murder in [[Cranford]]
+
+* September 15th, 2024: [[Cleenseau - Session 18]] (in Taelgar, February 19th - 21st)
+	The party is ambushed and rescues prisoners of [[Isabeau D'Aslain]]
+
+* October 13th, 2024: [[Cleenseau - Session 19]] (in Taelgar, February 21st)
+	The party rescues [[Damien Montrichard]], fights a [[Duskhounds|Duskhound]], and kills [[Areschera]]
+
+* November 17th, 2024: [[Cleenseau - Session 20]] (in Taelgar, February 21st - 25th)
+	The party searches [[Veltor]] for clues to [[Areschera|Areschera's]] purpose and is attacked by harpies on the road south of [[Aslain]]
+
+* January 26th, 2025: [[Cleenseau - Session 21]] (in Taelgar, February 26th - March 1st)
+	The party fights [[The Hunter]] to a draw, and restores [[Ashcombe]] to its people
+
+* February 9th, 2025: [[Cleenseau - Session 22]] (in Taelgar, March 1st - March 3rd)
+	The party investigates rumors of the [[Midnight Lady]] in [[Peydon]]
+
+* March 16th, 2025: [[Cleenseau - Session 23]] (in Taelgar, March 3rd - March 4th)
+	The party defeats the [[Midnight Lady]]
+
+*  April 6th, 2025: [[Cleenseau - Session 24]] (in Taelgar, March 4th - 5th)
+	The party deals with the aftermath of the [[Midnight Lady|Midnight Lady's]] demise in [[Peydon]]
+
+* May 18th, 2025: [[Cleenseau - Session 25]] (in Taelgar, March 5th - March 12th)
+	The party explores a ruined arcane school and finds a lich's phylatctery
+
+*  July 27th, 2025: [[Cleenseau - Session 26]] (in Taelgar, March 12th - March 19th)
+	The party returns the phylatctery to [[Raoul Boulain]] and [[Lenora Belles]] and defeats some demons from the [[Nine Hells]]
+
+* September 7th, 2025: [[Cleenseau - Session 27]] (in Taelgar, March 19th - 21st)
+	The party causes trouble in [[Veltor]]
+
+* October 5th, 2025: [[Cleenseau - Session 28]] (in Taelgar, March 22nd)
+	The party is tried for necromancy and a new age dawns in [[Sembara]]
 
 You might also want to read the [[Cleenseau Campaign - Index of NPCs|Index of NPCs]] or the [[Cleenseau Campaign - Timeline|timeline]]

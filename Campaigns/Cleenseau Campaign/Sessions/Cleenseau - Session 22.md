@@ -7,7 +7,7 @@ sessionNumber: 22
 players: [Robin, Viepuck, Celyn, Izgil]
 ---
 # Cleenseau - Session 22
->_in Taelgar, March 1st - March 2nd
+>_in Taelgar, March 1st - March 23rd
 >7 Robert I / DR 1720
 >[[Houille]] and [[Peydon]]
 >on Earth: February 9th, 2025

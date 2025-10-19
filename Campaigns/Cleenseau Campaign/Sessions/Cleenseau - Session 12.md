@@ -20,11 +20,6 @@ DR_end: 1720-01-16
 ### New People Met
 ### Timeline
 ## Narrative
-(to be written)
-## Raw Notes
-Return with Lorin's goods; cleanup in town and planning; lizardfolk warn of skeletal and zombie army; riding battle with horses and ranged attacks, thins the zombie ranks. Major battle on the bridge where the Wanderer blesses Robin with amazing divine energy.
-
-
 We had D&D today.  
   
 All of the party (except arguably Celyn, whose impressive deeds were subtler, but hey, rogue) spent some effort on building their legend. It was absolutely ridiculous.  
@@ -105,7 +100,7 @@ Izgil drops a moon-themed fireball on the skellies while there are no friendlies
   
 Celyn, when Robin joins them, gives him a pat on the shoulder and says, "Go be dashing some more!", in that moment healing nearly half of the damage he took.  
   
-The trio on this side of the bridge try to figure out what to do with the skellies. Viepuck advances into the water to try to do something I have in the moment forgotten ([![[personal profile]](https://www.dreamwidth.org/img/silk/identity/user.png)](https://artan.dreamwidth.org/profile)[**artan**](https://artan.dreamwidth.org/) what were you trying to pull off?), gets hit with two spells from them, and falls over into the river. Grimalkin proceeds to fish him out and get out of the river, feeling affronted by all things.  
+The trio on this side of the bridge try to figure out what to do with the skellies. Viepuck advances into the water to try to do something I have in the moment, gets hit with two spells from them, and falls over into the river. Grimalkin proceeds to fish him out and get out of the river, feeling affronted by all things.  
   
 Robin decides that he will advance enough to mess with those two casting ranged spells even if he can't get close enough to actually hit them, so he does that. Celyn, who has more short-ranged teleports because shenanigans, is _not_ going to let Robin do that alone, and thus walks a bit, teleport-pops, and _demolishes_ one of the skeletons (they were, to be fair, pretty battered after the fireball), greeting Robin with a ludicrously perky, "Hi!"  
   
