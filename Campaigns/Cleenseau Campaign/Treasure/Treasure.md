@@ -25,7 +25,7 @@ In [[Cleenseau - Session 08]] and [[Cleenseau - Session 09]] the party explored 
 ### Ruined Fort on the Enst
 In [[Cleenseau - Session 10]] the party explored a ruined fort near the Enst, where a wight was defending a green crystal that oozed zombie-making illness. In this fort, a treasure room was found, containing:
 * Three golden chains, that jewelry could be strung on, relatively thick and heavy, 16" - 18" long (value: 25 - 30 gp each) 
-* A well-worked and elaborate saddle with gold and silver paneling and small amethysts (value: 120 - 200 gp)
+* (DONATED) A well-worked and elaborate saddle with gold and silver paneling and small amethysts (value: 120 - 200 gp)
 * Two small uncut pieces of amber (value: 20 - 25 gp, could double with proper cutting)
 * (DONATED) A beautiful but tiny opal (value: 50 - 70 gp), donated to [[Ida Rosfeld]] and the war effort
 * a large but tarnished pearl (value: 60 - 80 gp)

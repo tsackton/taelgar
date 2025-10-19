@@ -86,8 +86,3 @@ Having done our best to assure our allies that we are in fact Not Dead Yet, And 
 We are about two miles outside the capital when Robin becomes aware of the impending ambush. (Which was well-enough concealed that Celyn, Professional Noticer, did not in fact notice them.)  
   
 End of session.
-
-Tags:
-
- - [gaming](https://kiya.dreamwidth.org/tag/gaming),
- - [three lunatics and a paladin](https://kiya.dreamwidth.org/tag/three+lunatics+and+a+paladin)

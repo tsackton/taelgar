@@ -11,25 +11,8 @@ players: [Robin, Viepuck, Celyn]
 >[[Rinburg]] and [[Lake Rin]]
 >on Earth: March 31st, 2024
 
-
-Have now made a tag for this campaign so you can find the relevant posts under "three lunatics and a paladin". The last two sessions we are down a lunatic so we planned a two-session arc without him.  
-  
-When we left off our heroes had joined the party that defeated the "stink monster" that destroyed the town of Eftly in a tavern back room to talk shop, tell stories of our respective exploits, and be extremely weird when talking about magic. After we did this we divided things up so our sorcerer (the missing lunatic) continued to hang out with their sorcerer (divine soul subclass, of the goddess of magic, natch) and talk shop on the way to solve other background problems.  
-  
-After distributing various NPCs and the missing PC to go poke various other problems, we reformed into a six-person party (three PCs, three NPCs) consisting of:  
-  
-The party, all 5th level:  
-Celyn (one of the lunatics; glass cannon rogue/priest)  
-Viepuck (the other lunatic present; child bardlock)  
-Robin (the paladin; a paladin)  
-  
-Armand (4th level; cleric of the Night Queen, goddess of, among other things, _these undead should be resting in peace already_)  
-Emilie (2nd level; a tremendously perky "ganbatte!"-style fighter with an axe she has named Sharp Justice, who is Just Very Excited To Be Noticed By Such Illustrious Heroes)  
-Odo (1st level; polearm fighter originally from the destroyed Eftly, basically a kid in the guard of the city we're loosely attached to who we've been trying to train up into an additional hero)  
-  
-in order to deal with our chosen problem: a local lake appears to have a lake monster. It appears to be a giant undead eel. Further, said lake monster is a) getting larger and b) has recently slaughtered the adventuring party attached to the relevant lake city, with the sole survivor being the local wizard who washed ashore, unconscious. Cultural assumptions are that wizards are Up To No Good so this has not helped her reputation at all.  
-  
-  
+The party, missing Izgil, and accompanied by [[Armand]], [[Emilie]], and [[Odo Cordwaner]], deals with a problem: a local lake appears to have a lake monster. It appears to be a giant undead eel. Further, said lake monster is a) getting larger and b) has recently slaughtered the adventuring party attached to the relevant lake city, with the sole survivor being the local wizard who washed ashore, unconscious. Cultural assumptions are that wizards are Up To No Good so this has not helped her reputation at all.  
+    
 Basically first off we go to the rich suburb of the city on the lake to see what more information we can find and also the wizard lives there so maybe we can find her. Most of the small towns around the lake are basically abandoned because lake monster and this is no exception, but we find a house with a fire going and go knock on the door. A magic mouth spell on the door says "Go away." We go, more or less, 'We found the wizard!' There is a lot of dithering at the door before we determine she isn't answering and Celyn goes fuckit and breaks in because sometimes he will be a rogue damnit.  
   
 The party pokes around looking for evidence of life and failing to find it; the lit fire appears to be in an upstairs room. Robin is extremely uncomfortable with this situation but Viepuck goes upstairs and eventually negotiates access from the wizard, who has awakened from her coma but is still a bit delirious.  

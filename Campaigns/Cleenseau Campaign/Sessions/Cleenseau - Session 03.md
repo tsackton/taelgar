@@ -11,18 +11,11 @@ players: [Izgil, Robin, Viepuck, Celyn]
 >[[Cleenseau]] and vicinity
 >on Earth: March 19th, 2023
 
-### Summary and Major Events
-### Rumors and Information
-### New People Met
-### Timeline
-### Narrative
-
-## Raw Notes
+The session begins when [[Erdu]], a lizardfolk from [[Ganboa]], approaches Rosalind for help investigating the murder of a young lizardfolk woman, [[Gentza]]. 
 
 
 %%% RAW NOTES
-The session begins when [[Erdu]]
-Lizardfolk from Ganboa
+
 Investigation of town, sees boyfriend ([[Izoko]]) sneaking around
 Looks downriver, Asieneau encounter with racist ([[Arnold the Miller]])
 Hears about stealing of flour and stuff

@@ -3,7 +3,6 @@ tags: [session-note]
 campaign: Cleenseau
 realWorldDate: 2023-01-08
 sessionNumber: 1
-players: [Izgil Moonseeker, Robin, Viepuck, Celyn]
 DR: 1719-10-19
 DR_end: 1719-10-21
 ---

@@ -19,12 +19,11 @@ dm_owner: mike
 
 A large farming village six miles downriver of [[Cleenseau]] and the principle (and only) village in the [[Manor of Beury]]. There are about ninety sturdy houses here, many of which predate the [[Third Hobgoblin War (Sembara)|hobgoblin wars]], although the village was abandoned for several years in the 1640s. 
 
-The houses are arranged in two tight concentric circles around a main square, where the one-story wooden manor house sits, as does the slightly larger stone temple of [[The Father]], the blacksmith, and two wells. The entire village, save for the small inn and mill (see below), fit within a thousand-foot diameter circle. 
+The houses are arranged in two tight concentric circles around a main square, where the one-story wooden manor house sits, as does the slightly larger stone temple of [[The Father]], the blacksmith, and two wells. The entire village, save for the small inn and mill (see below), fit within a thousand-foot diameter circle. There is a well-made wooden wall surrounding the outer circle of houses, although the inn and mill are outside the wall.
 
 Beyond the second circle of houses, straddling the [[Great South Road]] is a nameless inn, usually just called "the inn in Beury" (or sometimes, jokingly, "Bee's Rest"). The inn is more of a stable and resting spot for caravans before crossing the [[East Bog|boggy wetlands]] to [[Dallet]] than a proper inn, and the food and drink are notably lacking. Many caravans resting here simply camp in the yard. Across the road and a few dozen feet from the inn is a sturdy stone millhouse.
 
-A small market is held in the caravan yard once a week, which attracts some of the people from [[Asineau]] and [[Ganboa]], especially for iron goods.
-
+A [[Manor of Beury#Economy|small market]] is held in the caravan yard once a week, which attracts some of the people from [[Asineau]] and [[Ganboa]].
 ## Notable Residents
 * [[Erick Murtha]], the lord, and his wife
 * Clare Murtha, his daughter and heir

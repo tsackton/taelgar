@@ -3,7 +3,8 @@ tags: [session-note]
 campaign: Cleenseau
 realWorldDate: 2023-02-12
 sessionNumber: 2
-players: [Izgil, Robin, Viepuck, Celyn]
+DR: 1719-10-19
+DR_end: 1719-10-21
 ---
 # Cleenseau - Session 2
 >_in Taelgar from the pre-dawn of October 21st until the morning of October 25th
@@ -11,11 +12,6 @@ players: [Izgil, Robin, Viepuck, Celyn]
 >[[Cleenseau]] and vicinity
 >on Earth: February 12th, 2023
 
-### Summary and Major Events
-### Rumors and Information
-### New People Met
-### Timeline
-### Narrative
 The session beings with [[Viepuck|Najeer]], [[Robin of Abenfyrd|Robin]], [[Celyn]], and [[Izgil Moonseeker|Izgil]] in the hamlet of [[Taviose]] awaiting the arrival of a tracker to aid in following the spider trail into the woods. By noon, [[Warin the Woodsman]] has arrived from [[Valit]] and the group sets out into the wood following the trail of three spiders believed to be carrying humans captured from [[Taviose]].
 
 With the group is not only Warin, leading the way, but also a contigent of soliders from the [[Army of the West]]: [[Odo Cordwaner]], the master sergeant, and three soldiers: [[Beatrix Thorne]], [[Adam of Cleenseau]], and [[Marion of Cleenseau]]. Odo, Béatrix, and Marion showed some experience, but Adam was nervous and anxious. Robin's pep talk helped steady him though.

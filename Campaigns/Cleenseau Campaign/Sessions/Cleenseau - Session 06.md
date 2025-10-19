@@ -10,9 +10,6 @@ players: [Izgil, Robin, Viepuck, Celyn]
 >7 Robert I / DR 1719 - 7 Robert I / DR 1720
 >[[Cleenseau]] and vicinity
 >on Earth: September 10th, 2023
-
-### Summary and Major Events
-### Rumors and Information
 ### New People Met
 * [[Abigail Moss]], a farmer in [[Taviose]]
 * [[Duncan Rivers]], an innkeeper
@@ -25,7 +22,6 @@ players: [Izgil, Robin, Viepuck, Celyn]
 * January 2nd, pre-dawn: the party kills a redcap and encounters a mysterious fey
 ### Narrative
 
-### Raw Notes
 
 Quotes:
 [[Rinault Essford|Rinault]] to Robin: Are you listening to this guy? (refering to Izgil)
