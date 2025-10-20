@@ -13,6 +13,8 @@ tagline: in which research for the journey to Limbo is conducted
 
 %%
 
+. They would mine their own libraries, hall, observatory, and archives, and bargain with the Philosopher’s Guild—offering a Dust of Glibness and a Frostbrand greatsword—for guidance on surviving Limbo and on sealing a limbo wound, with further study on cleansing the tainted lands after. Through Contact Other Plane, the Taunti confirmed that geometry in Limbo was uncertain, survival without special wards was possible, native peoples were unknown, and Rye and some monks still lived and remained sane. The plan set: stage in Tolin, then into Limbo to find the far side of the wound and force it shut before the chaos swamped the world.
+
 
 Over several weeks in Tolin, they bartered knowledge and goods with the Philosopher's Guild and combed the Bastion’s stacks and the University at Tolin for ways to endure Limbo, mend a limbo wound, and cleanse the Material Plane. The strongest leads on bioremediation came from the Tolin Library, the Bastion Libraries, and the Seeker’s Brain; on wounds, they identified the dust of glimness as key. For living within Limbo, they secured a rare greatsword and arranged additional protections, including tattoos, as needed.
 

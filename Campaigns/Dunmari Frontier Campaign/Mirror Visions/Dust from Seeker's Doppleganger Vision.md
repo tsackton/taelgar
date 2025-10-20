@@ -1,11 +1,10 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 name: Dust from Seeker's Doppelgänger Vision
 DR: 1749-05-13
 timelineDescriptor: Dunmari Frontier Campaign
-displayDefaults: {defArt: ""}
 ---
 # Dust from Seeker's Doppelgänger Vision
 >[!info]+ Information  

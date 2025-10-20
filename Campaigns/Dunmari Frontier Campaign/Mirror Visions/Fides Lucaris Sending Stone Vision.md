@@ -1,10 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1749-01-08
 timelineDescriptor: Dunmari Frontier Campaign
-displayDefaults: {defArt: ""}
 ---
 # Fides Lucaris Sending Stone Vision
 >[!info]+ Information  

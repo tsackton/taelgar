@@ -1,10 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-09-06
 timelineDescriptor: Dunmari Frontier Campaign
-displayDefaults: {defArt: ""}
 ---
 # God Tree Vision
 >[!info]+ Information  

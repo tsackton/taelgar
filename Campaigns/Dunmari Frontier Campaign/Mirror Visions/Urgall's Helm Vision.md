@@ -1,10 +1,9 @@
 ---
 headerVersion: 2023.11.25
 tags: [event]
-displayDefaults: {dPastHasStart: "Seen on <startdate>"}
+displayDefaults: {dPastHasStart: "Seen on <startdate>", defArt: ""}
 DR: 1748-12-23
 timelineDescriptor: Dunmari Frontier Campaign
-displayDefaults: {defArt: ""}
 ---
 # Urgall's Helm Vision
 >[!info]+ Information  
