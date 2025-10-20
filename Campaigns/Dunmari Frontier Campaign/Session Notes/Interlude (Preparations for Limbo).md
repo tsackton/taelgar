@@ -2,32 +2,44 @@
 tags: [session-note]
 name: "Interlude: Preparations for Limbo"
 campaign: Dunmari Frontier
-DR: 1749-
-DR_end: 1749-
+DR: 1749-08-13
+DR_end: 1749-09-14
 players: [Delwath, Seeker, Wellby, Kenzo]
 descTitle: Preparations for Limbo
 tagline: in which research for the journey to Limbo is conducted
 ---
 
+The party gathers information in Tollen. 
 
+## Timeline
+- (DR:: 1749-08-13): Depart the [[Aurbez Plateau]] on [[Vindristjarna]], heading for [[Tollen]]. Pass over the [[Aurbez Plateau]] and the [[March of Andonne]].
+- (DR:: 1749-08-14): Arrive at [[Valarin]], the  capital of the [[Duchy of Maseau]], in the morning. Turn northeast, crossing over the [[Duchy of Maseau]] and the [[Borderlands|Sembaran Borderlands]]. 
+- (DR:: 1749-08-15): Cross the [[Enst]] near [[Fellburn]] in the morning, and continue northeast across the [[Duchy of Wisford]] and the [[Duchy of Sembara]]. 
+- (DR:: 1749-08-16): Arrive at [[Embry]], the royal seat of [[Sembara]], just after dawn. Continue northeast over the [[Duchy of Arnsbury]]. Cross the [[Teft]] into the [[Duchy of Telham]] over night. 
+- (DR:: 1749-08-17): Arrive in [[Tollen]] around lunchtime. Reconnect with [[Adam Gower]], [[Iskra]], and others in [[Tollen]]. Dock [[Vindristjarna]]. Speak with members of the [[Ancient and Honorable Guild of Philosophers|Philosopher's Guild]]. 
+- (DR:: 1749-08-18) - (DR_end:: 1749-09-10): Conduct research in [[Tollen]] concerning [[Limbo]], [[Isingue]], and other topics. 
+- (DR:: 1749-09-11): Depart [[Tollen]], heading southeast towards [[Erelion]], the main city of the elven kingdom of [[Orenlas]]. 
+- (DR:: 1749-09-12): Cross the [[Western Gulf]].
+- (DR:: 1749-09-13): Cross [[Latazaro]], a large wetlands and lizardfolk community on the eastern border of [[Tyrwingha]], and continue southeast towards [[Orenlas]].
+- (DR:: 1749-09-14), late morning: Arrive at [[Erelion]].
 
-%%
+## Philosopher's Guild Information
 
-. They would mine their own libraries, hall, observatory, and archives, and bargain with the Philosopher’s Guild—offering a Dust of Glibness and a Frostbrand greatsword—for guidance on surviving Limbo and on sealing a limbo wound, with further study on cleansing the tainted lands after. Through Contact Other Plane, the Taunti confirmed that geometry in Limbo was uncertain, survival without special wards was possible, native peoples were unknown, and Rye and some monks still lived and remained sane. The plan set: stage in Tolin, then into Limbo to find the far side of the wound and force it shut before the chaos swamped the world.
+The party trades the Dust of Glibness from [[Ra'ghemdros' Hoard]] for information about how to heal extraplanar wounds, and the Frostbrand Greatsword, also from [[Ra'ghemdros' Hoard]], for information about how to travel safely in [[Limbo]]. They receive these letters:
 
+[[Philosopher's Information Concerning Extraplanar Wounds]]
+[[Philosopher's Information Concerning Limbo]]
 
-Over several weeks in Tolin, they bartered knowledge and goods with the Philosopher's Guild and combed the Bastion’s stacks and the University at Tolin for ways to endure Limbo, mend a limbo wound, and cleanse the Material Plane. The strongest leads on bioremediation came from the Tolin Library, the Bastion Libraries, and the Seeker’s Brain; on wounds, they identified the dust of glimness as key. For living within Limbo, they secured a rare greatsword and arranged additional protections, including tattoos, as needed.
+## Knowledge from *Contact Other Plane*
 
-They prepared a Contact Other Plane rite from the Bastion to reach Rye, setting five questions around the monks’ survival, the nearness of the bugs, whether travel and rendezvous within Limbo were feasible, and whether any crucial ingredients must be carried in. Plotting their route from Tolin to Izige, they resolved to halt in Orinloss to bring word of Apollyon’s fall to the ancient elf who once fought him and to seek elven counsel and aid. The aim was a communal cleanup culminating in placing the heart root; the risk was simple: arrive unready, and Limbo could hold them as long as it pleased.
+The party asks a number of questions of extraplanar powers, include several for [[Rai]] himself, as well as follow up questions for the [[Tanshi]]. 
+### Questions to Rai
+*Are the monks of the Awakened Soul alive?* **Answer: in a sense**
+*Are they near you?* **Answer: yes**
+*Can you move?* **Answer: no**
+*Do we need to bring anything in particular to Limbo to heal the wound?* **Answer: not that I know**
 
-### Tolin research and Limbo plans
+## Research in Tollen
 
-- The party spent several weeks in Tolin studying survival in Limbo, healing Limbo wounds, and cleansing the Material Plane using the Bastion archives and the University at Tolin.
-- They traded information and items with the Philosopher's Guild and arranged to acquire protective tattoos and other needed gear in Tolin.
-- They resolved to stop in Orinloss on the way to Izige to inform the ancient elf who fought Apollyon of his fall and to seek elven counsel for the cleanup.
-- They envisioned a communal bioremediation effort to cleanse the blight and to set the heart root together with allies.
-- They prepared a planar communion from the Bastion to reach Rye with five questions about the monks’ survival, nearby bugs, navigation in Limbo, and whether crucial ingredients were needed.
-- They identified key sources and tools: bioremediation lore from Tolin Library, Bastion Libraries, and the Seeker’s Brain; remedies tied to the Dust of Glimness; and survival methods linked to a greatsword.
+The party searched in the [[University of Tollen]] and the various libraries and other sources of information on [[Vindristjarna]] for knowledge about [[Limbo]], about [[Isingue]], about extraplanar wounds and the nature of the multiverse, and a variety of other topics potentially relevant to the journey to [[Limbo]]. 
 
-
-%%
