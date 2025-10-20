@@ -24,7 +24,7 @@ The Dunmar Fellowship seizes a huge snake make of chaos metal, plan the defense 
 
 ### Summary
 
-- The [[Dunmar Fellowship]] secures defenses at [[Three Wells]] for the [[Heartroot]], coordinating rangers and militias while Delwath promises an ambush illusion and mass [[Animal Shapes]].
+- The [[Dunmar Fellowship]] secures defenses at [[Three Wells]] for the [[Heartroot]], coordinating rangers and militias while Delwath promises an ambush illusion and mass [[Animal Shapes.
 - [[Seeker]] creates a new simulacrum (Seeker 5) and, with [[Vindristjarna]] on station, the party intercepts levitating troop “worms” and silvery hawks at the escarpment, downing and capturing a worm.
 - The captured worm decoheres into Limbo **chaos metal**, which Identify reveals the Empress can control at close range but which becomes inert a few miles away.
 - At the Heartroot valley, the party shapes an ambush—Mirage Arcana raises an illusory lake and mountain while volunteers are transformed into hippos with lizardfolk riders.
