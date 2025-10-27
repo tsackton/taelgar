@@ -346,3 +346,6 @@ The following mundane items are kept on [[Vindristjarna]]:
 - The Boulder-Ladder, the hero of the [[Battle for Uzgukhar]], who died while smashing a massive trebuchet to pieces. 
 - The New Ladder, who finally got to destroy a mirror in Cloudspinner's prison, before bravely dying in battle against [[Ra'ghemdros]]. Slowly the ur-Ladder is beginning to feel that fighting dragons might be dangerous. 
 - The Fourth Ladder, who died destroying a chalyte mirror powering a lightning tower and chalyte death ray. It is always worth the sacrifice to destroy mirrors. 
+- The Fifth Ladder - died in Limbo
+- The Sixth Ladder - set free by True Polymorph
+

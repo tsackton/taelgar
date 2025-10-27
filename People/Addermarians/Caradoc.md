@@ -1,13 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
+campaignInfo: [{campaign: adma, type: "hired the party to hunt a cockatrice", date: 1715-05-02}, {campaign: adma, type: "commissioned the recovery of the glowing poison formula and supplied Trueflame", date: 1715-05-08}, {campaign: adma, type: "tasked the party with retrieving uligium", date: 1715-05-09}]
 species: human
 ancestry: Addermarian
 gender: male
 born: 1653
+affiliations: [{org: Roscombe Hinterlands, title: alchemist, type: resident}]
+whereabouts:
+- {type: home, location: Brantor}
 dm_notes: none
 dm_owner: tim
-whereabouts: Brantor
 ---
 # Caradoc
 >[!info]+ Biographical Info  
@@ -15,9 +18,24 @@ whereabouts: Brantor
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
-Caradoc is alchemist and scholar, who lives by himself in an isolated hamlet near the small village of [[Brantor]], outside [[Roscombe]]. He is has neatly trimmed white hair, a short well-groomed beard, and is going a little bald on the top of his head, but otherwise does not seem to be particularly old or frail despite his age. His piercing green eyes are always alert, and walks and speaks with purpose. He dresses plainly, in carefully mended brown robes. 
+## Overview
+Caradoc is a reclusive alchemist who maintains a cottage laboratory outside [[Brantor]], trading coin and commissions for rare reagents while keeping his discoveries close. Despite his sixty-plus years, he moves with crisp focus, white hair cut short and green eyes always measuring the worth of a sample. He bankrolls expeditions rather than travelling himself, relying on proven adventurers to secure exotic ingredients such as cockatrice gizzards, the glowing-poison recipe stolen by goblins, and the living mineral [[Uligium]].
 
-Caradoc has a wide reputation across much of [[Carlinshire]] as a skilled alchemist. He rarely sells his potions and concoctions, though is free with gold to pay those who bring him alchemical materials. It is rumored he is fabulously wealthy from adventures in his youth, though no one has ever claimed to have seen this reputed treasure. 
+## Personality & Outlook
+Pragmatic, exacting, and politely distant, Caradoc weighs every bargain against the risks of stirring up fey or frontier politics. He dislikes drawing attention to his work, preferring discreet operatives and prompt results. Though rumors paint him as fabulously wealthy—or secretly fey-touched—he lives simply and treats alchemy as both scholarly calling and civic duty, rewarding competence with generous pay.
+
+## Relationships
+- **Addermarch adventurers** – Employs [[Fazoth de Brune]], [[Drou]], and [[Yvan Greenrabbit]] for hazardous ingredient retrievals, trusting their reliability.  
+- **Lady [[Elowen Duval]]** – Maintains a cordial distance from Roscombe’s court, preferring to keep noble oversight out of his dealings.  
+- **Local farmers and traders** – Sources of gossip and raw materials; he repays information with fair coin rather than tinctures.
+
+## Timeline
+- **(DR:: 1715-05-02)** – Hires the party to slay a cockatrice and procure its gizzard as proof of capability.  
+- **(DR:: 1715-05-08)** – Exchanges Trueflame for the reclaimed glowing-poison recipe after the goblin queen’s fall.  
+- **(DR:: 1715-05-09)** – Commissions an Uligium expedition, briefing the party on deep-cave hazards.  
+- **(Ongoing)** – Acts as a discreet patron for frontier threats too small—or too delicate—to involve Roscombe’s soldiery.
+
+%% _DM_ note: Prep notes describe Caradoc’s Sunday stays at the Raven’s Roost, his habit of scouting “oddities” like the Haldrenn rumors, and his escalation to deeper cave contracts (see [[_DM_/_Addermarch/Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]] and [[_DM_/_Addermarch/Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]]). %%
 
 %% NOTES
 
@@ -48,5 +66,3 @@ For the purposes of the adventure:
 - Definitely seems to be on the side of the rural people of [[Carlinshire]], but might seem a little old fashioned. Cares about maintaining the "old ways" for example. 
 
 %%
-
-
