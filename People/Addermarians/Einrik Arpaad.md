@@ -1,7 +1,7 @@
 ---
 headerVersion: 2023.11.25
 ancestry: Addermarian
-tags: [person, status/outline]
+tags: [person, status/check/ai]
 campaignInfo: [{campaign: adma, type: "confronted as the ghost haunting Torvaine Watch", date: 1715-04-28}, {campaign: adma, type: "spirit laid to rest by Owen Tavish", date: 1715-05-06}]
 species: human
 gender: male
@@ -16,6 +16,7 @@ dm_owner: none
 >[!info]+ Biographical Info  
 > An Addermarian [[Humans|human]] (he/him)
 
+%% cleanup AI-generated content %%
 ## Overview
 Sir Einrik Arpaad commanded [[Torvaine Watch]], the frontier fort guarding Roscombe’s western road. Trusted for decades of service, he fell when the cursed [[Serpentine Dagger]] twisted his will, driving him to slaughter his garrison and, in turn, binding him as the fort’s wrathful ghost. The adventurers escaped his haunt, and cleric [[Owen Tavish]] later laid the spirit to rest, leaving only a cautionary tale about the dagger’s malign influence.
 

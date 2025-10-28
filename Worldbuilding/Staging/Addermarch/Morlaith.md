@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [entity, status/outline]
+tags: [person]
 name: Morlaith
 typeOf: fey power
 whereabouts:
