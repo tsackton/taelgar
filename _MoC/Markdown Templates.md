@@ -20,3 +20,20 @@ if there are relevant campaign interactions, make sure to include them, with lin
 ```
 
 
+Another prompt:
+```
+please do another pass to address the following:
+
+(1) promote major recurring figures to the high detail template  
+(2) rewrite text where needed to generalize notes, removing meta-game language and references to "the party" or "the adventurers", and replacing with character names or the party name (Addermarch Mercanaries) as appropriate; and to push towards a consistent "in world wikipedia" style. be careful not to change meaning while you do this, or remove detail. only change style.  
+(3) reformat front matter, adding missing fields where possible to align with templates  
+(4) make sure that all event sections are properly formatted as timeline-style notes  
+(5) expand DM notes / comment sections to capture as much as possible about PC interactions, even for minimal or standard notes. you may link directly to DM notes or session notes, without aliases, in the comment section.
+```
+
+another prompt:
+```
+vplease check Addermarch - Session 11 and Addermarch - Session 12 notes and update notes in Addermarch staging based on information there
+
+please also check all Addermarch stagig notes, and move any metagame information or DM information to comments (wrapped with %% tags)
+```

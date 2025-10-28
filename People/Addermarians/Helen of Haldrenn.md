@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/check/ai]
+tags: [person]
 campaignInfo: [{campaign: adma, type: met, date: 1715-05-17}]
 name: Helen of Haldrenn
 species: human
@@ -12,8 +12,17 @@ whereabouts:
 dm_owner: none
 dm_notes: none
 ---
-![[|right|360]]The village priest of [[Haldrenn]] and collector of fey lore.
+# Helen of Haldrenn
+>[!info]+ Biographical Info  
+> An Addermarian [[Humans|human]] (she/her)  
+> `$=dv.view("_scripts/view/get_PageDatedValue")`  
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 17th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
+
+Helen is the temple administrator for the small temple to [[The Mother]] in [[Haldrenn]], and a collector of fey lore. She presides over community rites and maintains oral histories of fey activity in the [[Highmoor]], including tales of the [[Morlaith|Briarheart]].
+## Events
+- (DR:: 1715-05-17): Presided over the funeral rites for [[Olay]], which were interrupted by a [[Addermarch - Session 12|worg attack]]. 
 
 %% DM (PC interactions)
-- Briefed visitors on the [[Morlaith|Briarheart]] during the worg aftermath and presided over community rites: Campaigns/Addermarch Campaign/Addermarch - Session 11.md; Campaigns/Addermarch Campaign/Addermarch - Session 12.md.
+- Briefed the Addermarch Mercenaries on the Briarheart and presided over community rites: [[Addermarch - Session 11.md]]; [[Addermarch - Session 12.md]].
 %%
