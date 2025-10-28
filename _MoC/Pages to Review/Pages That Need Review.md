@@ -15,7 +15,7 @@ list from #status/check/minor
 
 ### Needs AI Cleanup
 ```dataview
-list from #status/check/ai 
+list from #status/check/ai
 ```
 
 ### Other Checking Needed (See Note for Details)
