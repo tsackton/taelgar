@@ -30,6 +30,7 @@ The story of their third and most ambitious mission to date, tracking down the m
 
 The story of the mysterious fey events in the village of [[Haldrenn]] is told in:
 - [[Addermarch - Session 11]]
+- [[Addermarch - Session 12]]
 
 
 %%^Campaign:none%%
