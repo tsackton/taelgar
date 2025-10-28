@@ -91,7 +91,7 @@ On the [[Apporia|Apporian Peninsula]], [[Castrella]] is a significant maritime, 
 
 ### Yeraad Cultures
 
-![[Pasted image 20250131102940.png]]
+![[yeraad-cultures-map.png]]
 
 Roughly speaking, the Yeraad river valley is settled by at least two, and possibly more, cultural strands, though no political details or history exists. 
 

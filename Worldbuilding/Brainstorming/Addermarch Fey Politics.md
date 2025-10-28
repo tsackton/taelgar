@@ -10,7 +10,7 @@ At least three major powers control territory in this area:
 
 (3) [[Calanthe|Lady Calanthë]], Sentinel of the Setting Sun, is a close ally of [[Archfey Ethlenn]], who guards a realm congruent with the hills on the western border of Tyrwingha, in eastern Addermarch. Minimal details invented here. 
 
-![[Pasted image 20250614092406.png]]
+![[addermarch-feywild-map.png]]
 
 %% Discord Notes Below %%
 

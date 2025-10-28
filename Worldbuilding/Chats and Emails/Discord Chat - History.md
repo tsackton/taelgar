@@ -60,7 +60,7 @@ Deciusmus — Today at 2:58 PM
 
 Right the area I'm talking about is this yellow circle:
 
-![[Pasted image 20250120165456.png]]
+![[history-brainstorming-map-1.png]]
 
 rsulfuratus — Today at 2:58 PM
 
