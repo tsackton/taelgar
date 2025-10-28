@@ -57,6 +57,15 @@ After defeating [[Areschera]], the party looted the towers, and found a number o
 * Lock of Sending (A small locket on a silver chain, polished to a mirror-like finish, but with no picture inside (magical))
 * Mirrors of Truth
 
+%% more details
+* A wand, twisted and black, like a crooked branch of a dead tree, radiating strong fey magic
+* A brooch, delicate and likely valuable but not magical
+* Two rings, one set with a small ruby, one with a small diamond, neither magical
+* A red rose, sparkling slightly with fire and giving off a pleasant heat (magical)
+* A pair of elegantly engraved leather bracers with complex silver engravings in Sylvan (magical)
+* A small locket on a silver chain, polished to a mirror-like finish, but with no picture inside (magical)
+%%
+
 A non-magical ring with a small diamond, worth about 300-400gp
 
 ## Miscellaneous Items
