@@ -2,7 +2,6 @@
 headerVersion: 2023.11.25
 tags: [person, status/stub]
 affiliations: [{org: Ferrystones, type: primary}]
-dm_owner: mike
 gender: male
 dm_notes: color
 dm_owner: mike

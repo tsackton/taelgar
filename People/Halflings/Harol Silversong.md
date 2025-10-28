@@ -9,7 +9,7 @@ born:
 species: halfling
 ancestry:
 gender: male
-affiliations: [ {org: Silversongs, type: primary}, { place: Emerald Song, title: Captain, start: 0001} ]
+affiliations: [ {org: Silversongs, type: primary}, { org: Emerald Song, title: Captain, start: 0001, type: leader} ]
 whereabouts: 
 - { location: Emerald Song, type: home, prefix: sailing }
 dm_owner: none
