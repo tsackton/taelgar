@@ -1,0 +1,6 @@
+---
+aliases:
+  - Grimstone
+---
+# Lord Rockbinder
+

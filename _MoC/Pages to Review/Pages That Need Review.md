@@ -13,9 +13,14 @@ sort file.name
 list from #status/check/minor 
 ```
 
+### Needs AI Cleanup
+```dataview
+list from #status/check/ai 
+```
+
 ### Other Checking Needed (See Note for Details)
 ```dataview
-list from #status/check and !#status/check/tim and !#status/check/name and !#status/check/mike and !#status/check/minor
+list from #status/check and !#status/check/tim and !#status/check/name and !#status/check/mike and !#status/check/minor and !#status/check/ai
 ```
 
 ### Check: Mike
