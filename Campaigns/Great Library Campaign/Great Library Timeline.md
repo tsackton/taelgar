@@ -7,7 +7,7 @@ name: Great Library Campaign Timeline
 
 ```dataview
 LIST WITHOUT ID events.text
-FROM  "Campaigns/Great Library"
+FROM  "Campaigns/Great Library Campaign"
    OR "People/PCs/Silver Tempests"
    OR "Events/1700s/Grumella's War"
 
