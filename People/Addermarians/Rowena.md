@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 campaignInfo: [{campaign: adma, type: rescued, date: 1715-05-17}]
 name: Rowena
 species: human
@@ -13,15 +13,11 @@ born: 1709
 dm_owner: none
 dm_notes: none
 ---
-# Rowena
->[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (she/her)  
-> `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% Rescued by the [[Addermarch Mercenaries]] on May 17th, 1715 in [[Highmoor]], [[Carlinshire]], [[Addermarch]] %%^End%%
+![[|right|360]]A villager and forager from [[Haldrenn]]; daughter of [[Manfred]].
 
-Rowena is a villager and forager from [[Haldrenn]]. Her father is [[Manfred]]. 
 ## Events
-In DR 1715, she was  rescued by the [[Addermarch Mercenaries]] from a bee‑filled cave east of the village just before a worg attack on Haldrenn. 
+- (DR:: 1715-05-17): Rescued by the Addermarch Mercenaries from a bee‑filled cave east of Haldrenn shortly before a worg attack on the hamlet.
 
-%% DM: Milestone “rescuing Rowena” appears in [[Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]].   See: [[Addermarch - Session 11|Session 11]] and [[Addermarch - Session 12|Session 12]].%%
+%% DM (sources)
+- Milestone “rescuing Rowena”: _dm_notes/_Addermarch/Adventure 5 - Fey Incursion.md; Campaigns/Addermarch Campaign/Addermarch - Session 11.md; Campaigns/Addermarch Campaign/Addermarch - Session 12.md.
+%%

@@ -1,7 +1,11 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-campaignInfo: [{campaign: adma, type: "received the party's report on Torvaine Watch", date: 1715-05-01}, {campaign: adma, type: "rewarded the heroes for returning Duval heirlooms", date: 1715-05-04}, {campaign: adma, type: "hosted a strategy dinner regarding the goblin threat", date: 1715-05-07}, {campaign: adma, type: "dispatched aid to Fontwick after the ankheg attack", date: 1715-05-11}]
+campaignInfo: 
+- {campaign: adma, type: met, date: 1715-05-01}
+- {campaign: adma, type: rewarded, date: 1715-05-04, wParty: "<met:u> <person> on <target> <current:1>"}
+- {campaign: adma, type: "hosted a dinner including", date: 1715-05-07, wParty: "<met:u> <person> on <target> <current:1>"}
+name: Elowen Duval
 species: human
 ancestry: Addermarian
 gender: female
@@ -11,30 +15,40 @@ whereabouts:
 - {type: home, location: Roscombe}
 dm_notes: important
 dm_owner: tim
+pronunciation: EL-oh-wen doo-VAL
 ---
-# Elowen Duval
+# Lady Elowen Duval
+*(EL-oh-wen doo-VAL)*
 >[!info]+ Biographical Info  
 > An Addermarian [[Humans|human]] (she/her)  
 > `$=dv.view("_scripts/view/get_Affiliations")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 1st, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%  
+>> %%^Campaign:adma%% Rewarded the [[Addermarch Mercenaries]] on May 4th, 1715 [[Roscombe]] %%^End%%  
+>> %%^Campaign:adma%% Hosted a dinner including the [[Addermarch Mercenaries]] on May 7th, 1715 [[Roscombe]] %%^End%%
 
+Elowen Duval is the castellan of [[Roscombe]], overseeing the isolated uplands of [[Carlinshire]] with measured resolve.
 ## Overview
-Lady Elowen Duval governs [[Roscombe]] and its surrounding marches from a manor that doubles as administrative hub and safe haven. A poised stateswoman, she balances frontier threats, trade routes, and noble expectations while cultivating capable agents—including the Addermarch adventurers. Her swift response to the [[Torvaine Watch]] disaster and subsequent commissions reflect a leader intent on stabilizing the region through decisive, well-funded action.
+Lady Elowen Duval governs [[Roscombe]] and its surrounding hinterlands, coordinating defense, trade, and relief for outlying farms and hamlets. She favors reliable agents and public support for those who safeguard the marches, using targeted commissions to stabilize the frontier. Though formally sworn to the lord of [[Carlinshire]] and the [[Earl of Westcliff]], Roscombe often skipped during the earl's circuits due to its isolation. 
 
-## Personality & Outlook
-Elowen is pragmatic and unflappable, favoring diplomacy and delegation over theatrics. She values competence more than pedigree, listens closely to briefings, and pays promptly for results. Beneath her composed demeanor lies a protective streak for Roscombe’s folk, motivating bounty offers, loans to distressed farmers, and public recognition of those who safeguard her domain.
+## Events
+- (DR:: 1715-05-01): Received a report on [[Torvaine Watch]]; commissioned further investigation and urged consultation with [[Owen Tavish]].
+- (DR:: 1715-05-04): Rewarded the [[Addermarch Mercenaries]] for the return of Duval family jewels recovered from a cockatrice lair.
+- (DR:: 1715-05-07): Hosted a manor dinner for the [[Addermarch Mercenaries]], which including discussion of regarding goblin activity in the [[Highmoor]]. 
 
 ## Relationships
-- **Sir [[Gareth Howell]]** – Commanding knight and chief of her household guard; she trusts his field reports and relies on his tactical sense.  
-- **[[Owen Tavish]]** – Spiritual adviser whose counsel she seeks on supernatural matters such as the [[Serpentine Dagger]].  
-- **Addermarch adventurers** – Emerging troubleshooters she increasingly treats as champions of Roscombe, inviting them to court functions and entrusting sensitive missions.  
-- **Roscombe citizenry** – Maintains open channels through stewards and market days, reinforcing her reputation as a hands-on castellan.
+- [[Gareth Howell]] — Commanding knight and chief of her household guard; she relies on his tactical assessments.
+- [[Owen Tavish]] — Spiritual adviser on supernatural matters such as the [[Serpentine Dagger]].
+- [[Addermarch Mercenaries]] — Trusted troubleshooters invited to court functions and entrusted with sensitive missions.
 
-## Timeline
-- **(DR:: 1715-05-01)** – Receives the party’s account of Torvaine Watch, commissions further investigation, and urges consultation with [[Owen Tavish]].  
-- **(DR:: 1715-05-02)** – Dispatches a letter formally thanking the heroes and requesting their assistance against new threats.  
-- **(DR:: 1715-05-04)** – Rewards the return of Duval family jewels recovered from the cockatrice lair.  
-- **(DR:: 1715-05-07)** – Hosts a manor dinner to coordinate efforts against the Highmoor goblins and hear news of Roscombe’s defenses.  
-- **(DR:: 1715-05-11)** – Sends support to [[Fontwick]] after word of the ankheg attack reaches Roscombe, reinforcing her commitment to the outlying farms.
+## Personality
+Pragmatic and unflappable; favors diplomacy and delegation. Values competence, listens closely to briefings, and pays promptly for results. Protective of [[Roscombe]]’s folk, supporting bounties, loans to distressed farmers, and public recognition.
 
-%% _DM_ note: Adventure 2 includes Lady Duval’s sealed invitation (pronounced “doo-VAL”) promising future work and bearing the oak-and-valley sigil (see [[Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]). %%
+## Capabilities & Resources
+- Castellan authority over Roscombe’s defenses, courts, and levies.
+- Treasury allocation for bounties, relief loans, and commissioned expeditions.
+- Household guard under [[Gareth Howell]] for patrol and rapid response.
+
+%% DM (PC interactions and sources)
+- Campaign correspondence and invitation: [[Adventure 2 - Caves of the Cockatrice.md]] (sealed letter; “doo‑VAL”).
+%%

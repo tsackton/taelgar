@@ -91,8 +91,8 @@ Soldiers will offer 100 gold in exchange for the goods recovered from the Watch,
 Will give party a letter which can be presented to castellan of manor for the gold, and also serves as an introduction.
 
 **Names**
-knight in command of troops: Sir Gareth Howell *(GAR-eth HOW-ell)* -> met on the road
-castellan of Roscombe: Castellan Lady Elowen Duval (EL-oh-wen doo-VAL) 
+knight in command of troops: Sir [[Gareth Howell]] *(GAR-eth HOW-ell)* -> met on the road
+castellan of Roscombe: Castellan Lady [[Elowen Duval]] (EL-oh-wen doo-VAL) 
 priest in Roscombe: Owen Tavish *(OH-en TAV-ish)* (Priest of the Sibyl)
 
 

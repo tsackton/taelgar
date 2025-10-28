@@ -1,14 +1,16 @@
 ---
 headerVersion: 2023.11.25
 tags: [person]
-campaignInfo: [{campaign: adma, type: "hired the party to hunt a cockatrice", date: 1715-05-02}, {campaign: adma, type: "commissioned the recovery of the glowing poison formula and supplied Trueflame", date: 1715-05-08}, {campaign: adma, type: "tasked the party with retrieving uligium", date: 1715-05-09}]
+campaignInfo: 
+- {campaign: adma, type: "hired", date: 1715-05-02, wParty: "<met:u> <person> on <target> <current:rq>"}
+name: Caradoc
 species: human
 ancestry: Addermarian
 gender: male
 born: 1653
-affiliations: [{org: Roscombe Hinterlands, title: alchemist, type: resident}]
 whereabouts:
 - {type: home, location: Brantor}
+- {type: away, location: Roscombe, start: 1715-05-02, end: 1715-05-02}
 dm_notes: none
 dm_owner: tim
 ---
@@ -16,30 +18,39 @@ dm_owner: tim
 >[!info]+ Biographical Info  
 > An Addermarian [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+>> `$=dv.view("_scripts/view/get_Whereabouts")`  
+>> %%^Campaign:adma%% Hired the [[Addermarch Mercenaries]] on May 2nd, 1715 in [[Roscombe]], [[Carlinshire]], [[Addermarch]] %%^End%%
 
+A reclusive alchemist of the [[Roscombe]] hinterlands who works out of a cottage laboratory near the small village of [[Brantor]].
 ## Overview
-Caradoc is a reclusive alchemist who maintains a cottage laboratory outside [[Brantor]], trading coin and commissions for rare reagents while keeping his discoveries close. Despite his sixty-plus years, he moves with crisp focus, white hair cut short and green eyes always measuring the worth of a sample. He bankrolls expeditions rather than travelling himself, relying on proven adventurers to secure exotic ingredients such as cockatrice gizzards, the glowing-poison recipe stolen by goblins, and the living mineral [[Uligium]].
+Caradoc is a reclusive alchemist who maintains a cottage laboratory outside [[Brantor]], trading coin and commissions for rare reagents while keeping his discoveries close. Despite his sixty‑plus years, he moves with crisp focus. He has white hair cut short, and keen green eyes, always measuring the worth of a sample. He bankrolls expeditions rather than traveling himself, relying on proven agents to secure exotic ingredients such as cockatrice gizzards and the living mineral [[uligium]].
 
-## Personality & Outlook
-Pragmatic, exacting, and politely distant, Caradoc weighs every bargain against the risks of stirring up fey or frontier politics. He dislikes drawing attention to his work, preferring discreet operatives and prompt results. Though rumors paint him as fabulously wealthy—or secretly fey-touched—he lives simply and treats alchemy as both scholarly calling and civic duty, rewarding competence with generous pay.
+## Events
+- (DR:: 1715-05-02): Hired the [[Addermarch Mercenaries]] to slay a cockatrice and procure its gizzard as proof of capability.
+- (DR:: 1715-05-06): Commissioned by the [[Addermarch Mercenaries]] to make [[Trueflame]] to help destroy the [[Serpentine Dagger]]. 
+- (DR:: 1715-05-08): Gave the [[Addermarch Mercenaries]] [[Trueflame]] in exchange for a glowing‑poison recipe recovered from goblin bandits. 
+- (DR:: 1715-05-09): Tasked the [[Addermarch Mercenaries]] to search for [[uligium]] expedition in the caves of the [[Stonewolds]]
+- (DR:: 1715-05-16): Recruited the [[Addermarch Mercenaries]] to investigate rumors of mad animals in [[Haldrenn]] 
 
 ## Relationships
-- **Addermarch adventurers** – Employs [[Fazoth de Brune]], [[Drou]], and [[Yvan Greenrabbit]] for hazardous ingredient retrievals, trusting their reliability.  
-- **Lady [[Elowen Duval]]** – Maintains a cordial distance from Roscombe’s court, preferring to keep noble oversight out of his dealings.  
-- **Local farmers and traders** – Sources of gossip and raw materials; he repays information with fair coin rather than tinctures.
+- [[Addermarch Mercenaries]] — Employs [[Fazoth de Brune]], [[Drou]], and [[Yvan Greenrabbit]] for hazardous ingredient retrievals, trusting their reliability.
+- [[Elowen Duval]] — Maintains a cordial distance from [[Roscombe]]’s court, preferring to keep noble oversight out of his dealings.
 
-## Timeline
-- **(DR:: 1715-05-02)** – Hires the party to slay a cockatrice and procure its gizzard as proof of capability.  
-- **(DR:: 1715-05-08)** – Exchanges Trueflame for the reclaimed glowing-poison recipe after the goblin queen’s fall.  
-- **(DR:: 1715-05-09)** – Commissions an Uligium expedition, briefing the party on deep-cave hazards.  
-- **(Ongoing)** – Acts as a discreet patron for frontier threats too small—or too delicate—to involve Roscombe’s soldiery.
+## Personality
+Pragmatic, exacting, and politely distant; weighs every bargain against the risks of stirring up fey or frontier politics. Dislikes attention, preferring discreet operatives and prompt results. Though rumored to be fabulously wealthy—or secretly fey‑touched—he lives simply and treats alchemy as both scholarly calling and civic duty, rewarding competence with generous pay.
 
-%% _DM_ note: Prep notes describe Caradoc’s Sunday stays at the Raven’s Roost, his habit of scouting “oddities” like the Haldrenn rumors, and his escalation to deeper cave contracts (see [[Adventure 4 - Into the Underdark|Adventure 4 - Into the Underdark]] and [[Adventure 5 - Fey Incursion|Adventure 5 - Fey Incursion]]). %%
+## Capabilities & Resources
+- Expertise in alchemical reagents and rare materials, including ability to craft [[Trueflame]] and other specialized substances.
+- Has extensive funds to commission fieldwork without noble oversight; where his wealth comes from is unclear. 
 
-%% NOTES
+%% DM 
 
-Additional rumors that may circulate:
+Spends Sundays at the Raven’s Roost in Roscombe
+
+## Rumors 
+
+(any of these might circulate)
+
 - he is actually hundreds of years old, and a fey lord
 - he is recruiting mercenaries to send for strange monstrosities in the Plaguelands
 - he once returned a young woman from the dead, but when she awoke she found her body had the form of a dwarf
@@ -48,21 +59,21 @@ Additional rumors that may circulate:
 - he is secretly a protector of the realm and a powerful member of the Rangers, and recruits mercenaries to train them for this noble duty
 - he can speak to animals, and the birds and beasts of the forest are his spies, watching everyone who comes near his home.
 
-Backstory:
+## Backstory
 
-Caradoc was born the year the Third Hobgoblin War ended, and grew up in the prosperity of the Peace of Circe. 
+Caradoc was born the year the Third Hobgoblin War ended, and grew up in the prosperity of the Peace of Circe.
 
-From a young age, however, he was marked by the fey. As a teenager, he traveled to the Feywild and into the realm of [[Morlaith]], where something happened. He won't speak of this (details TBD). 
+From a young age, however, he was marked by the fey. As a teenager, he traveled to the Feywild and into the realm of [[Morlaith]], where something happened. He won't speak of this (details TBD).
 
-But, he emerged with an uncanny ability to see alchemical reactions, and prematurely white hair. 
+But, he emerged with an uncanny ability to see alchemical reactions, and prematurely white hair.
 
-Over the past forty years, he has quietly looked for signs of trouble with Morlaith, trying to keep rumors out of the ears of the Earl of Westcliff and the lord of the manor at Roscombe. 
+Over the past forty years, he has quietly looked for signs of trouble with Morlaith, trying to keep rumors out of the ears of the Earl of Westcliff and the lord of the manor at Roscombe.
 
-The exact reason for this is not yet determined, but likely has to do with some secret knowledge, possibly something he stole from the Feywild that he does not want examined too closely. 
+The exact reason for this is not yet determined, but likely has to do with some secret knowledge, possibly something he stole from the Feywild that he does not want examined too closely.
 
 For the purposes of the adventure:
+
 - Caradoc is very connected to rumors of fey
 - Caradoc wants to deal with these troubles quietly, without involving the authorities
-- Definitely seems to be on the side of the rural people of [[Carlinshire]], but might seem a little old fashioned. Cares about maintaining the "old ways" for example. 
-
+- Definitely seems to be on the side of the rural people of [[Carlinshire]], but might seem a little old fashioned. Cares about maintaining the "old ways" for example.
 %%
