@@ -19,7 +19,7 @@ i might tweak a few details but i like the basic idea
 it sets tyrwingha up as pretty unusual in some respects, which probably makes sense
 Deciusmus — Today at 9:34 PM
 here's a slight different version - brown = human, yellow = elf, green = lizardfolk, blue = dwarf, light blue = green sea:
-![[Pasted image 20250121221327.png]]
+![[pre-downfall-population-map.png]]
 not really committed to the specific details, but the idea would be:
 
 (a) pretty much all of the core lands that will become drankorian heartland have no humans at the time Drankor expands into the lands. 
@@ -38,7 +38,7 @@ Deciusmus — Today at 9:47 PM
 it does feel that without some degree of magic of divine intervention, it is a little pat
 rsulfuratus — Today at 9:48 PM
 re: cymea
-![[Pasted image 20250121221342.png]]
+![[cymea-map-brainstorming.png]]
 this is super rough
 Deciusmus — Today at 9:48 PM
 yeah but that actually lines up perfectly with my map
@@ -49,13 +49,13 @@ right, okay, i guess i just think of both green + red as 'north cymea" but yeah 
 Deciusmus — Today at 9:50 PM
 right, yeah, I said it badly
 I mean, I was thinking something more like:
-![[Pasted image 20250121221353.png]]
+![[cymea-map-brainstorming-ii.png]]
 but I don't have any particlarly clear thoughts
 I mean, I like your view, not saying I am suggesting changing it or anything
 just saying when I said "north" / "central" / "south" that is what I was thinking
 either way, I wasn't really planning on commiting to anything in particular here
 The main idea is that there were no meaningful human cultures in the red circle:
-![[Pasted image 20250121221408.png]]
+![[pre-downfall-human-map-brainstorming.png]]
 when drankorians land
 rsulfuratus — Today at 9:55 PM
 right - although also remember a good chunk of the land west of the yuvanti mountains is ocean at this point, and the mountains don't exist
@@ -73,7 +73,7 @@ going back to cymea - i think that actually sets up the mysterious south cymea a
 Deciusmus — Today at 9:59 PM
 yeah
 here is the map I've playing with:
-![[Pasted image 20250121221424.png]]
+![[pre-downfall-human-brainstorming-ii.png]]
 which is agnostic as to where the non-human empires were
 but
 

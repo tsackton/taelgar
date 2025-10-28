@@ -197,7 +197,7 @@ General rainfall / wet season patterns:
 - rainfall in form of heavy late afternoon thunderstorms
 - tropical rainy zone moves N/S, reaching furthest north in summer and furthest south in winter
 
-![[Pasted image 20250117160728.png]]
+![[taelgar-climate-map-winds-currents.png]]
 
 ## Dunmar
 
@@ -217,7 +217,7 @@ in the subtropical latitudes, prevailing winds blow offshore in the winter, but 
 
 Yuvanti mountains are highest in the south, creating the largest rain shadow effect in the Garamjala desert
 
-![[Pasted image 20250117155832.png]]
+![[dunmar-climate-map-winds.png]]
 
 Darba Hinterlands
 
