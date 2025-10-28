@@ -16,7 +16,7 @@ A twisting passageway slopes down from the cavern. The walls are carved with str
 
 Should feel weird and creepy. 
 
-![[Pasted image 20230519221137.png]]
+![[beholder-map-goldpeak-mines.png]]
 
 # Encounters
 
