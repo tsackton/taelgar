@@ -1,0 +1,1 @@
+![[sigrid-goldshield.png|eft|200]]
