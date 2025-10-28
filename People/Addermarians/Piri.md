@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/outline]
+tags: [person, status/check/ai]
 campaignInfo: [{campaign: adma, type: "memorialized in Marshal Brask's letter recovered at Torvaine Watch", date: 1715-04-28}]
 ancestry: Addermarian
 gender: male
@@ -17,6 +17,7 @@ dm_owner: none
 > An Addermarian [[Humans|human]] (he/him)  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`
 
+%% cleanup AI-generated content %%
 ## Overview
 Piri served as a soldier at [[Torvaine Watch]], remembered for his cheerful songs and woodcarving talents that brightened long winter postings. Marshal [[Hildo Brask]]’s unfinished condolence letter records his accidental death shortly before the watch fell to the curse of the [[Serpentine Dagger]].
 

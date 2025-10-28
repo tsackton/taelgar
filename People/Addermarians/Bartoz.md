@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/outline]
+tags: [person, status/check/ai]
 campaignInfo: [{campaign: adma, type: "destroyed as an undead guardian by the party", date: 1715-04-28}]
 species: human
 ancestry: Addermarian
@@ -8,8 +8,8 @@ gender: male
 affiliations: [{org: Torvaine Watch, title: master smith, type: member}]
 whereabouts:
 - {type: home, location: Torvaine Watch}
-dm_owner: tim
-dm_notes: color
+dm_owner: none
+dm_notes: none
 ---
 # Bartoz
 >[!info]+ Biographical Info  
@@ -17,6 +17,8 @@ dm_notes: color
 > `$=dv.view("_scripts/view/get_Affiliations")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
 >> %%^Campaign:adma%% Destroyed as an undead guardian by the party adma on April 28th, 1715 in [[Torvaine Watch]], the [[Torvaine Forest]], [[Addermarch]] %%^End%%
+
+%% cleanup AI-generated content %%
 
 ## Overview
 Bartoz served as the master smith and informal quartermaster of [[Torvaine Watch]], keeping the garrison’s arms battle-ready and the gate winches oiled even through winter storms. When the cursed [[Serpentine Dagger]] surfaced, he insisted it be locked away and sought temple steward [[Wulfram]]’s guidance. Sir [[Einrik Arpaad]] fell to the weapon’s malice regardless, and Bartoz paid with his life stopping his commander’s rampage—only to rise again as the fort’s undead smith until the adventurers cut him down.
@@ -30,7 +32,7 @@ Plainspoken and dutiful, Bartoz valued discipline over rank and looked first to 
 - **Sir [[Einrik Arpaad]]** – Commander he respected until the curse forced Bartoz to strike him down.
 
 ## Timeline
-- **(DR:: 1715-04-28)** – Mortally wounds Sir Einrik while defending Torvaine Watch and falls in the smithy.  
+- **(DR:: 1715-04-18)** – Mortally wounds Sir Einrik while defending Torvaine Watch and falls in the smithy.  
 - **(DR:: 1715-04-28)** – Undead remains defeated by [[Fazoth de Brune]], [[Drou]], and [[Yvan Greenrabbit]] during the watch’s liberation.  
 - **(DR:: 1715-04-30)** – Lady [[Elowen Duval]] recounts Bartoz’s sacrifice, cementing his legacy in [[Roscombe]].
 

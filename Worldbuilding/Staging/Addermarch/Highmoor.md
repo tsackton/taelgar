@@ -4,7 +4,7 @@ tags: [place]
 name: Highmoor
 typeOf: uplands
 whereabouts:
-- {type: region, location: Roscombe hinterlands}
+- {type: region, location: Carlinshire}
 dm_owner: tim
 dm_notes: color
 ---

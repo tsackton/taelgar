@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/outline]
+tags: [person, status/check/ai]
 campaignInfo: [{campaign: adma, type: "remembered through accounts of the Torvaine Watch massacre", date: 1715-04-28}]
 species: human
 ancestry: Addermarian
@@ -15,6 +15,7 @@ dm_owner: none
 >[!info]+ Biographical Info  
 > An Addermarian [[Humans|human]] (he/him)
 
+%% cleanup AI-generated content %%
 ## Overview
 Wulfram served as temple steward of [[The Warlord]] at [[Torvaine Watch]], tending the chapel and advising the garrison on matters of faith and honor. When the cursed [[Serpentine Dagger]] appeared, he urged it be locked away and carried word to the wider church—actions that put him in the path of the dagger’s corruption.
 

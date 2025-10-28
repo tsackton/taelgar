@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/outline]
+tags: [person, status/check/ai]
 campaignInfo: [{campaign: adma, type: "body recovered from Torvaine Watch by the party", date: 1715-04-28}]
 species: human
 gender: male
@@ -16,6 +16,7 @@ dm_owner: none
 >[!info]+ Biographical Info  
 > An Addermarian [[Humans|human]] (he/him)
 
+%% cleanup AI-generated content %%
 ## Overview
 Marshal Hildo Brask served as Sir [[Einrik Arpaad]]’s second at [[Torvaine Watch]], overseeing discipline, patrol schedules, and the garrison’s morale. As the Serpentine Dagger’s curse spread through the fort, Brask tried to keep order and coordinate with [[Wulfram]] and [[Bartoz]]; he was murdered when the dagger took hold of Einrik.
 
