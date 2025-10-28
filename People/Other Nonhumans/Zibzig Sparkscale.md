@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person, status/cleanup/ai]
+tags: [person, status/check/ai]
 name: Zibzig Sparkscale
 species: kobold
 ancestry: Addermarian
