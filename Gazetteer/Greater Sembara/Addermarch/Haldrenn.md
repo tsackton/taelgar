@@ -29,7 +29,7 @@ The people of [[Haldrenn]] traditionally place carved wooden wards on the ridge 
 - Winter trades: charcoal burns and pit‑sawn boards hauled south when roads firm.
 
 ## Notable Events
-- (DR:: 1715-05-07): A maddening "song" starts driving cattle and other animals to violence; the farmer [[Olay]] gored by his own boar.
+- (DR:: 1715-05-07): A maddening "song" starts driving cattle and other animals to violence; the farmer [[Olay]] gored by his own bull.
 - (DR:: 1715-05-17): [[Drou]], [[Fazoth de Brune|Fazoth]], and [[Yvan Greenrabbit|Yvan]] arrive in the village and [[Addermarch - Session 11|help with a lost girl]] and a [[Addermarch - Session 12|worg attack]]. 
 
 %% DM Notes

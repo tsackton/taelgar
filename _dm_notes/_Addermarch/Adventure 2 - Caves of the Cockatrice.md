@@ -27,7 +27,7 @@ A short letter from Owen Tavish, the priest of the sibyl at the temple in town, 
 
 #### Castellan
 
-The Castellan of the Roscombe Manor, Lady Elowen Duval (EL-oh-wen doo-VAL), has also written a short note. It is sealed with green wax, imprinted with the Duval seal, showing a stylized valley between two mountains with an oak tree in the middle. 
+The Castellan of the Roscombe Manor, Lady [[Elowen Duval]] (EL-oh-wen doo-VAL), has also written a short note. It is sealed with green wax, imprinted with the Duval seal, showing a stylized valley between two mountains with an oak tree in the middle. 
 
 >[!info]  Letter from Lady Elowen
 >Dear Fazoth, Drou, and Yvan,

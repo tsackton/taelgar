@@ -1,6 +1,6 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
+tags: [person, status/check/ai]
 name: Bran
 species: human
 ancestry: Addermarian
@@ -17,9 +17,12 @@ dm_notes: none
 > An Addermarian [[Humans|human]] (he/him)  
 > `$=dv.view("_scripts/view/get_PageDatedValue")`  
 >> `$=dv.view("_scripts/view/get_Whereabouts")`  
->> %%^Campaign:adma%% [[Addermarch - Session 11|Met]] by the [[Addermarch Mercenaries]] on May 17th, 1715 in [[Haldrenn]] %%^End%%
+>> %%^Campaign:adma%% Met by the [[Addermarch Mercenaries]] on May 17th, 1715 in [[Haldrenn]], [[Highmoor]], [[Carlinshire]] %%^End%%
 
-A villager of [[Haldrenn]], the child of the charcoal-maker [[Karl]] and his wife [[Isolde of Haldrenn]]. 
+A villager of [[Haldrenn]], child of the charcoal‑maker [[Karl]] and [[Isolde of Haldrenn]].
 ## Events
-In DR 1715, Bran met [[Drou]], [[Yvan Greenrabbit|Yvan]], and [[Fazoth de Brune|Fazoth]], and told them about the Hollow Men and the missing child [[Rowena]]. 
+- (DR:: 1715-05-17): [[Addermarch - Session 11|Reported the Hollow Men rhyme]] and the disappearance of [[Rowena]] to [[Addermarch Mercenaries|visitors]] in Haldrenn.
 
+%% DM (PC interactions)
+- Spoke with the Addermarch Mercenaries on arrival to Haldrenn; see [[Addermarch - Session 11]]
+%%

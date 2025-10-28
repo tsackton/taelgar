@@ -1,7 +1,8 @@
 ---
 headerVersion: 2023.11.25
-tags: [person]
-campaignInfo: [{campaign: adma, type: "requested the party safeguard the Serpentine Dagger", date: 1715-05-01}, {campaign: adma, type: "consulted with the heroes at the Temple of the Sibyl", date: 1715-05-06}, {campaign: adma, type: "oversaw the destruction of the Serpentine Dagger", date: 1715-05-09}, {campaign: adma, type: "prepared to join Sir Gareth Howell in cleansing Torvaine Watch", date: 1715-05-05}]
+tags: [person, status/check/ai]
+campaignInfo: [{campaign: adma, type: "requested the Addermarch Mercenaries safeguard the Serpentine Dagger", date: 1715-05-01}, {campaign: adma, type: "consulted at the Temple of the Sibyl", date: 1715-05-06}, {campaign: adma, type: "oversaw the destruction of the Serpentine Dagger", date: 1715-05-09}, {campaign: adma, type: "prepared to join Sir Gareth Howell in cleansing Torvaine Watch", date: 1715-05-05}]
+name: Owen Tavish
 species: human
 ancestry: Addermarian
 gender: male
@@ -11,28 +12,32 @@ whereabouts:
 dm_owner: tim
 dm_notes: none
 ---
-# Owen Tavish
->[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)  
->> `$=dv.view("_scripts/view/get_Whereabouts")`
+![[|right|360]]Senior priest of [[The Sibyl]] in [[Roscombe]], balancing pastoral care with study of relics; he coordinated the safeguarding and destruction of the [[Serpentine Dagger]].
 
 ## Overview
-Owen Tavish is the senior priest of [[The Sibyl]] in [[Roscombe]], a scholar of prophecy who pairs pastoral care with research into ancient relics. He trusted the adventurers with the cursed [[Serpentine Dagger]], advising them on safe containment until he could accompany Sir [[Gareth Howell]] to cleanse [[Torvaine Watch]].
+Owen Tavish leads the temple’s religious and scholarly work, advising Roscombe’s leadership on matters of prophecy and dangerous artifacts. He worked with Sir [[Gareth Howell]] to address the haunt at [[Torvaine Watch]] and oversaw the dagger’s destruction.
 
-## Personality & Outlook
-Warm, inquisitive, and quietly competitive (especially at chess), Owen approaches problems as puzzles to be solved with lore, faith, and a dash of humor. He is fascinated by unusual magic but tempers curiosity with respect for divine mysteries. His letters reveal a man who balances urgency with pastoral reassurance.
+## Events
+- (DR:: 1715-05-01): Requested the Addermarch Mercenaries safeguard the Serpentine Dagger and arrange a meeting upon his return.
+- (DR:: 1715-05-05): Rode south with Sir Gareth to lay [[Einrik Arpaad]]’s ghost to rest at Torvaine Watch.
+- (DR:: 1715-05-06): Consulted at the Temple of the Sibyl to examine relics and discuss destroying the dagger.
+- (DR:: 1715-05-09): Supervised the application of [[Trueflame]] that unmade the dagger.
 
 ## Relationships
-- **Lady [[Elowen Duval]]** – Provides counsel on spiritual matters affecting Roscombe’s governance.  
-- **[[Isolde of Roscombe]]** – Relies on her stewardship to keep the temple running smoothly.  
-- **Addermarch adventurers** – Allies he trusts with dangerous artifacts, seeing in them both courage and a thirst for knowledge.  
-- **Sir [[Gareth Howell]]** – Collaborator in frontier missions; Owen accompanies his sorties when holy wards are required.
+- [[Elowen Duval]] — Provides counsel on spiritual matters affecting governance.
+- [[Isolde of Roscombe]] — Steward who manages temple operations.
+- Addermarch Mercenaries — Entrusted with the relic’s containment and destruction.
+- [[Gareth Howell]] — Collaborator on frontier missions requiring holy wards.
 
-## Timeline
-- **(DR:: 1715-05-01)** – Sends a letter urging the party to safeguard the Serpentine Dagger and arrange a meeting upon his return.  
-- **(DR:: 1715-05-05)** – Rides south with Sir Gareth to lay [[Einrik Arpaad]]’s ghost to rest at Torvaine Watch.  
-- **(DR:: 1715-05-06)** – Meets with the heroes at the Temple of the Sibyl to examine relics and discuss destroying the dagger.  
-- **(DR:: 1715-05-09)** – Supervises the application of [[Trueflame]] that finally unmade the Serpentine Dagger.  
-- **Ongoing** – Continues cataloguing sacred artifacts and advising on magical anomalies around Roscombe.
+## Personality
+Warm, inquisitive, and methodical; approaches problems as puzzles solved with lore, faith, and steady good humor.
 
-%% _DM_ note: Adventure 2 includes Owen’s hurried letter (OH-en TAV-ish) describing his pre-dawn ride to meet Sir Gareth, urging secrecy, and offering to pay for the party’s lodging (see [[Adventure 2 - Caves of the Cockatrice|Adventure 2 - Caves of the Cockatrice]]). %%
+## Capabilities & Resources
+- Custody of temple archives and relic vaults.
+- Authority to deploy rites and holy wards in the field.
+- Network among Roscombe’s scholars and clergy.
+
+%% DM (PC interactions and sources)
+- Letters and logistics: _dm_notes/_Addermarch/Adventure 2 - Caves of the Cockatrice.md.
+- Site consultations and destruction ritual: Campaigns/Addermarch Campaign/Addermarch - Session 06.md; _dm_notes/_Addermarch/Session 2 - DM Notes.md.
+%%

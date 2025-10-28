@@ -2,6 +2,7 @@
 headerVersion: 2023.11.25
 tags: [person, status/check/ai]
 campaignInfo: [{campaign: adma, type: "remembered through accounts of the Torvaine Watch massacre", date: 1715-04-28}]
+name: Wulfram
 species: human
 ancestry: Addermarian
 gender: male
@@ -11,27 +12,21 @@ whereabouts:
 dm_notes: color
 dm_owner: none
 ---
-# Wulfram
->[!info]+ Biographical Info  
-> An Addermarian [[Humans|human]] (he/him)
+![[|right|360]]Temple steward of [[The Warlord]] at [[Torvaine Watch]], who urged the containment of the [[Serpentine Dagger]] and is remembered through accounts of the fort’s fall.
 
-%% cleanup AI-generated content %%
 ## Overview
-Wulfram served as temple steward of [[The Warlord]] at [[Torvaine Watch]], tending the chapel and advising the garrison on matters of faith and honor. When the cursed [[Serpentine Dagger]] appeared, he urged it be locked away and carried word to the wider church—actions that put him in the path of the dagger’s corruption.
-
-## Personality & Outlook
-Steady, devout, and practical, Wulfram believed faith must be coupled with sensible precautions. He favored duty over glory, counseling restraint even as tensions mounted at the watch. His final acts were shaped by compassion, attempting to comfort families like that of [[Piri]] and to warn allies before disaster struck.
+Wulfram served as temple steward, tending the chapel and advising the garrison on matters of faith and honor. When the cursed dagger appeared, he urged it be locked away and carried word to the wider church—actions that put him in the path of the dagger’s corruption.
 
 ## Relationships
-- **Marshal [[Hildo Brask]]** – Partner in maintaining morale; they coordinated letters and relief for the troops’ families.  
-- **[[Bartoz]]** – Collaborated to secure the dagger and calm fears spreading through the barracks.  
-- **Sir [[Einrik Arpaad]]** – Commander he tried to counsel, unaware the dagger had already ensnared him.
+- [[Hildo Brask]] — Partner in maintaining morale; they coordinated letters and relief for the troops’ families.
+- [[Bartoz]] — Collaborated to secure the dagger and calm fears spreading through the barracks.
+- [[Einrik Arpaad]] — Commander he tried to counsel.
 
-## Timeline
-- **(DR:: 1715-04-27)** – Advises Brask and Bartoz to contain the dagger and prepares letters to families of the fallen.  
-- **(DR:: 1715-04-28)** – Killed when the corrupted Sir Einrik turns on the garrison.  
-- **(Aftermath)** – Remembered through surviving letters and testimonies recovered by the adventurers.
+## Events
+- (DR:: 1715-04-27): Advised Brask and Bartoz to contain the dagger; prepared letters to families of the fallen.
+- (DR:: 1715-04-28): Killed when the corrupted Sir Einrik turned on the garrison.
+- Aftermath: Remembered through surviving letters and testimonies recovered following the fall of the watch.
 
-%% _DM_ note: Session 2 excerpts include Wulfram’s Drankorian journal entries—dreaming of stabbing Brother Aravis with the jeweled dagger—and his plan to send the relic to Valcroix once the rains eased (see [[Session 2 - DM Notes|Session 2 - DM Notes]]). %%
-
-%% killed by [[Einrik Arpaad]] after Einrik was possessed by the [[Serpentine Dagger]] %%
+%% DM (sources)
+- Steward Wulfram’s role and journal excerpts: _dm_notes/_Addermarch/Session 2 - DM Notes.md.
+%%
